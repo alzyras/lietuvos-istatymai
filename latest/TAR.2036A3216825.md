@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2036A3216825"
 pavadinimas: "Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymas"
+  - "Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-02-28"
 latest_path: "latest/TAR.2036A3216825.md"
 latest_sha256: "ccfd8bbf1f76b850a67c94a1b91bcffbec85895fd315575d11ddf9e905fbccde"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2036A3216825]]"
 ---
 # Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2036A3216825.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2036A3216825
+- Ryšiai: [[Ryšiai/TAR.2036A3216825|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,14 +39,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-33a036063358212c82648c83
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. sausio 2 d. dekretą Nr. 805, ratifikuoja 1977 m. sausio 27 d. Europos sutartį dėl teisinės pagalbos prašymų perdavimo, pasirašytą 1994 metų balandžio 14 dieną (pridedama).
 
 
 
-### 2 straipsnis. Lietuvos Respublikos pareiškimas
+### 2 straipsnis. Lietuvos Respublikos pareiškimas ^s-79fda3601f93b755dbf622ce
 
 
 Lietuvos Respublikos Seimas pareiškia, kad pagal Sutarties 2 straipsnį Valstybės garantuojamos teisinės pagalbos tarnyba yra centrinė teisinės pagalbos prašymus perduodanti ir priimanti institucija.
@@ -79,7 +84,7 @@ susitarė:
 
 
 
-[[#1 straipsnis. Sutarties ratifikavimas|1 straipsnis]]
+[[#^s-33a036063358212c82648c83|1 straipsnis]]
 
 
 
@@ -91,10 +96,10 @@ Kiekvienas asmuo, turintis gyvenamąją vietą vienos iš susitariančiųjų Ša
 
 
 
-1. Kiekviena susitariančioji Šalis turi paskirti vieną ar kelias institucijas, kurios teisinės pagalbos prašymus perduotų tiesiogiai kompetentingai užsienio institucijai. ^cdadfb3049426a12cba6c405
+1. Kiekviena susitariančioji Šalis turi paskirti vieną ar kelias institucijas, kurios teisinės pagalbos prašymus perduotų tiesiogiai kompetentingai užsienio institucijai. ^s-bedd013a2d324a5d19a3d028
 
 
-2. Kiekviena susitariančioji Šalis taip pat turi paskirti centrinę priimančią instituciją, kuri priimtų teisinės pagalbos prašymus ir imtųsi dėl jų atitinkamų veiksmų. ^0ef3b68e283a5073ebf419cf
+2. Kiekviena susitariančioji Šalis taip pat turi paskirti centrinę priimančią instituciją, kuri priimtų teisinės pagalbos prašymus ir imtųsi dėl jų atitinkamų veiksmų. ^s-e882828c356db83763d24c1a
 Federacinės valstybės ir valstybės, kuriose yra ne viena teisinė sistema, gali paskirti kelias institucijas.
 
 
@@ -103,11 +108,11 @@ Federacinės valstybės ir valstybės, kuriose yra ne viena teisinė sistema, ga
 
 
 
-1. Perduodanti institucija turi padėti pareiškėjui ir garantuoti, kad prie prašymo bus pridedami visi jai žinomi dokumentai, būtini tam, kad prašymas būtų pradėtas nagrinėti. Ji taip pat turi atlikti reikalingų dokumentų vertimą. ^a0557449a2ca236743902439
+1. Perduodanti institucija turi padėti pareiškėjui ir garantuoti, kad prie prašymo bus pridedami visi jai žinomi dokumentai, būtini tam, kad prašymas būtų pradėtas nagrinėti. Ji taip pat turi atlikti reikalingų dokumentų vertimą. ^s-3a162f0e0d17c643f3512db0
 Ji gali atsisakyti perduoti dokumentus, jei prašymas akivaizdžiai surašytas ne gera valia.
 
 
-2. Centrinė priimanti agentūra turi perduoti prašymus institucijai, kompetentingai pradėti juos vykdyti. Ji turi informuoti perduodančią instituciją apie visus sunkumus, kylančius nagrinėjant prašymą, bei kompetentingos institucijos sprendimą dėl prašymo. ^212d112d42202dc53ae6c509
+2. Centrinė priimanti agentūra turi perduoti prašymus institucijai, kompetentingai pradėti juos vykdyti. Ji turi informuoti perduodančią instituciją apie visus sunkumus, kylančius nagrinėjant prašymą, bei kompetentingos institucijos sprendimą dėl prašymo. ^s-6224fdb5042fc7b44d625888
 
 
 
@@ -131,7 +136,7 @@ Susitariančiosios Šalys neturi apmokestinti šios Sutarties pagrindu teikiamų
 
 
 
-1. Išskyrus tuos atvejus, kai tarp susitariančiųjų Šalių yra atskiri susitarimai ar kai tai numatyta 13 ir 14 straipsniuose: ^d959dde78daad5dfd58b6665
+1. Išskyrus tuos atvejus, kai tarp susitariančiųjų Šalių yra atskiri susitarimai ar kai tai numatyta 13 ir 14 straipsniuose: ^s-110c77abcb2ca655d3873826
 
 
 a) teisinės pagalbos prašymas bei prie jo pridedami dokumentai bei kiti pranešimai turi būti surašyti priimančios institucijos oficialiai vartojama kalba ar viena iš vartojamų kalbų, arba turi būti pridedamas vertimas į tą kalbą;
@@ -140,7 +145,7 @@ a) teisinės pagalbos prašymas bei prie jo pridedami dokumentai bei kiti prane�
 b) nepaisant to, kiekviena susitariančioji Šalis turi priimti teisinės pagalbos prašymą ir prie jo pridedamus dokumentus bei kitus pranešimus, surašytus anglų ar prancūzų kalbomis, arba kai yra pridedamas vertimas į vieną iš šių kalbų.
 
 
-2. Priimančios institucijos valstybės pranešimai turi būti surašyti toje valstybėje oficialiai vartojama kalba ar viena iš vartojamų kalbų, arba anglų ar prancūzų kalbomis. ^8d7bb6d7852db6bee92f5322
+2. Priimančios institucijos valstybės pranešimai turi būti surašyti toje valstybėje oficialiai vartojama kalba ar viena iš vartojamų kalbų, arba anglų ar prancūzų kalbomis. ^s-527279e21d4c9d2dd106ff81
 
 
 
@@ -156,7 +161,7 @@ Kad būtų lengviau taikyti šią Sutartį, susitariančiųjų Šalių centrinė
 
 
 
-[[#2 straipsnis. Lietuvos Respublikos pareiškimas|2 straipsnyje]] minimos institucijos nurodomos pranešant Europos Tarybos Generaliniam Sekretoriui tuo metu, kai pagal 9 ir 11 straipsnių nuostatas valstybė tampa Konvencijos dalyve. Generaliniam Sekretoriui taip pat turi būti pranešama apie institucijos įgaliojimų pasikeitimus.
+[[#^s-79fda3601f93b755dbf622ce|2 straipsnyje]] minimos institucijos nurodomos pranešant Europos Tarybos Generaliniam Sekretoriui tuo metu, kai pagal 9 ir 11 straipsnių nuostatas valstybė tampa Konvencijos dalyve. Generaliniam Sekretoriui taip pat turi būti pranešama apie institucijos įgaliojimų pasikeitimus.
 
 
 
@@ -164,7 +169,7 @@ Kad būtų lengviau taikyti šią Sutartį, susitariančiųjų Šalių centrinė
 
 
 
-1. Šią Sutartį gali pasirašyti valstybės Europos Tarybos narės, kurios tampa Sutarties dalyvėmis vienu iš šių būdų: ^47b363c501f0713f0317781a
+1. Šią Sutartį gali pasirašyti valstybės Europos Tarybos narės, kurios tampa Sutarties dalyvėmis vienu iš šių būdų: ^s-65917aa9a2ae9c8e1ac0a552
 
 
 a) pasirašydamos Sutartį be išlygų dėl jos ratifikavimo, priėmimo ar patvirtinimo;
@@ -173,7 +178,7 @@ a) pasirašydamos Sutartį be išlygų dėl jos ratifikavimo, priėmimo ar patvi
 b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar patvirtinimo, kai vėliau ji ratifikuojama, priimama ar patvirtinama.
 
 
-2. Ratifikavimo raštai, priėmimo ar patvirtinimo dokumentai deponuojami Europos Tarybos Generaliniam Sekretoriui. ^6d704ecc9e1d318a8e2bb5ba
+2. Ratifikavimo raštai, priėmimo ar patvirtinimo dokumentai deponuojami Europos Tarybos Generaliniam Sekretoriui. ^s-218e0d16877a91a64bfba667
 
 
 
@@ -181,10 +186,10 @@ b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar pat
 
 
 
-1. Ši Sutartis įsigalioja praėjus mėnesiui nuo datos, kai dvi valstybės Europos Tarybos narės tampa Sutarties dalyvėmis pagal 9 straipsnio nuostatas. ^7046e85e3104a885c4419c0a
+1. Ši Sutartis įsigalioja praėjus mėnesiui nuo datos, kai dvi valstybės Europos Tarybos narės tampa Sutarties dalyvėmis pagal 9 straipsnio nuostatas. ^s-f9e4a8100e311b61c6ca3af6
 
 
-2. Valstybėje Europos Tarybos narėje, kuri vėliau pasirašė Sutartį be išlygų dėl ratifikavimo, priėmimo ar patvirtinimo arba ją ratifikavo, priėmė ar patvirtino, Sutartis įsigalioja praėjus mėnesiui nuo pasirašymo datos arba nuo ratifikavimo raštų, priėmimo ar patvirtinimo dokumentų deponavimo datos. ^7b0a10ea0564186ac8ee13e0
+2. Valstybėje Europos Tarybos narėje, kuri vėliau pasirašė Sutartį be išlygų dėl ratifikavimo, priėmimo ar patvirtinimo arba ją ratifikavo, priėmė ar patvirtino, Sutartis įsigalioja praėjus mėnesiui nuo pasirašymo datos arba nuo ratifikavimo raštų, priėmimo ar patvirtinimo dokumentų deponavimo datos. ^s-73fdf7e02ad4e66ed1b633a2
 
 
 
@@ -192,10 +197,10 @@ b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar pat
 
 
 
-1. Po Sutarties įsigaliojimo Europos Tarybos Ministrų Komitetas gali pakviesti kurią nors valstybę, nesančią Europos Tarybos nare, prie jos prisijungti. ^b451ae546f3806a2285c8eef
+1. Po Sutarties įsigaliojimo Europos Tarybos Ministrų Komitetas gali pakviesti kurią nors valstybę, nesančią Europos Tarybos nare, prie jos prisijungti. ^s-fcd80a026b144da921314630
 
 
-2. Toks prisijungimas atliekamas Europos Tarybos Generaliniam Sekretoriui deponuojant prisijungimo raštus, kurie įsigalioja praėjus mėnesiui nuo deponavimo datos. ^b54b6cbb4c3d987e9cd1e0b6
+2. Toks prisijungimas atliekamas Europos Tarybos Generaliniam Sekretoriui deponuojant prisijungimo raštus, kurie įsigalioja praėjus mėnesiui nuo deponavimo datos. ^s-5cc04c41a33acc591a114c3c
 
 
 
@@ -203,13 +208,13 @@ b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar pat
 
 
 
-1. Kiekviena susitariančioji Šalis šios Sutarties pasirašymo arba ratifikavimo raštų, patvirtinimo ar prisijungimo dokumentų deponavimo metu gali nurodyti teritoriją ar teritorijas, kuriose bus taikoma Sutartis. ^3db64c003ae8ce728f3b2357
+1. Kiekviena susitariančioji Šalis šios Sutarties pasirašymo arba ratifikavimo raštų, patvirtinimo ar prisijungimo dokumentų deponavimo metu gali nurodyti teritoriją ar teritorijas, kuriose bus taikoma Sutartis. ^s-48ddcde23fb12f8cec416c39
 
 
-2. Kiekviena susitariančioji Šalis Sutarties ratifikavimo raštų, patvirtinimo ar prisijungimo dokumentų deponavimo metu arba kada nors vėliau gali pareikšti, pranešdama apie tai Europos Tarybos Generaliniam Sekretoriui, kad Sutartis bus taikoma kitoje, pranešime nurodytoje teritorijoje ar teritorijose, už kurių tarptautinius santykius ji atsako ar už kurias ji prisiima tarptautinę teisinę atsakomybę. Bet koks taikymo išplėtimas įsigalioja per mėnesį nuo pranešimo gavimo datos. ^40a327aa5dcf13fdc2c7f4b8
+2. Kiekviena susitariančioji Šalis Sutarties ratifikavimo raštų, patvirtinimo ar prisijungimo dokumentų deponavimo metu arba kada nors vėliau gali pareikšti, pranešdama apie tai Europos Tarybos Generaliniam Sekretoriui, kad Sutartis bus taikoma kitoje, pranešime nurodytoje teritorijoje ar teritorijose, už kurių tarptautinius santykius ji atsako ar už kurias ji prisiima tarptautinę teisinę atsakomybę. Bet koks taikymo išplėtimas įsigalioja per mėnesį nuo pranešimo gavimo datos. ^s-752b2a817de1c282a0407beb
 
 
-3. Visi remiantis ankstesniąja dalimi padaryti pareiškimai gali būti atšaukti pranešime minimų teritorijų atžvilgiu, pranešant apie tai Europos Tarybos Generaliniam Sekretoriui. Toks atšaukimas įsigalioja praėjus šešiems mėnesiams nuo datos, kai Europos Tarybos Generalinis Sekretorius gauna tokį pranešimą. ^2dfe23b41c08925408938ba2
+3. Visi remiantis ankstesniąja dalimi padaryti pareiškimai gali būti atšaukti pranešime minimų teritorijų atžvilgiu, pranešant apie tai Europos Tarybos Generaliniam Sekretoriui. Toks atšaukimas įsigalioja praėjus šešiems mėnesiams nuo datos, kai Europos Tarybos Generalinis Sekretorius gauna tokį pranešimą. ^s-eb7bff8f61953893ddf75a49
 
 
 
@@ -217,13 +222,13 @@ b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar pat
 
 
 
-1. Kiekviena valstybė pasirašymo ar ratifikavimo raštų, priėmimo, patvirtinimo ar pasirašymo dokumentų deponavimo metu gali pareikšti, kad visiškai ar iš dalies netaikys 6 straipsnio 1 dalies b punkto nuostatų. Kitos išlygos šioje Sutartyje negalimos. ^5e8232d77fda9446586148ff
+1. Kiekviena valstybė pasirašymo ar ratifikavimo raštų, priėmimo, patvirtinimo ar pasirašymo dokumentų deponavimo metu gali pareikšti, kad visiškai ar iš dalies netaikys 6 straipsnio 1 dalies b punkto nuostatų. Kitos išlygos šioje Sutartyje negalimos. ^s-75a71cabf3060149af265144
 
 
-2. Kiekviena susitariančioji Šalis gali visiškai ar iš dalies atšaukti išlygą, padarytą pranešant apie tai Europos Tarybos Generaliniam Sekretoriui. Išlyga netenka galios nuo pranešimo gavimo datos. ^fa9431d1b07dc645e82eb8ac
+2. Kiekviena susitariančioji Šalis gali visiškai ar iš dalies atšaukti išlygą, padarytą pranešant apie tai Europos Tarybos Generaliniam Sekretoriui. Išlyga netenka galios nuo pranešimo gavimo datos. ^s-56081eab0e3aa798bc0e6e7f
 
 
-3. Kai susitariančioji Šalis padaro išlygą, kita Šalis gali taikyti tą pačią išlygą pirmosios atžvilgiu. ^2d28f1722e68416bc9acd67d
+3. Kai susitariančioji Šalis padaro išlygą, kita Šalis gali taikyti tą pačią išlygą pirmosios atžvilgiu. ^s-99cf7c573c9feb999ee09c38
 
 
 
@@ -231,10 +236,10 @@ b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar pat
 
 
 
-1. Susitariančioji Šalis, kurioje oficialiai vartojamos kelios kalbos, 6 straipsnio 1 dalies a punkto taikymo tikslui gali pranešime nurodyti kalbą, kuria turėtų būti surašytas prašymas bei prie jo pridedami dokumentai arba į kurią turi būti padarytas vertimas, kad prašymą būtų galima perduoti į tam tikrą jos teritorijos dalį. ^2fac17539f0601ddc8c6d626
+1. Susitariančioji Šalis, kurioje oficialiai vartojamos kelios kalbos, 6 straipsnio 1 dalies a punkto taikymo tikslui gali pranešime nurodyti kalbą, kuria turėtų būti surašytas prašymas bei prie jo pridedami dokumentai arba į kurią turi būti padarytas vertimas, kad prašymą būtų galima perduoti į tam tikrą jos teritorijos dalį. ^s-6843d427711f2b99b55ff6d8
 
 
-2. Ankstesniojoje dalyje numatytas pareiškimas turi būti perduotas Europos Tarybos Generaliniam Sekretoriui Sutarties pasirašymo metu ar ratifikavimo raštų, pritarimo, patvirtinimo ar prisijungimo dokumentų deponavimo metu. Pareiškimas gali būti atšauktas arba papildytas ta pačia procedūra. ^b77cfd84e0fe7076d9a7b825
+2. Ankstesniojoje dalyje numatytas pareiškimas turi būti perduotas Europos Tarybos Generaliniam Sekretoriui Sutarties pasirašymo metu ar ratifikavimo raštų, pritarimo, patvirtinimo ar prisijungimo dokumentų deponavimo metu. Pareiškimas gali būti atšauktas arba papildytas ta pačia procedūra. ^s-b2c4eec3da5ea66a213f5428
 
 
 
@@ -242,10 +247,10 @@ b) pasirašydamos Sutartį su išlygomis dėl jos ratifikavimo, priėmimo ar pat
 
 
 
-1. Kiekviena susitariančioji Šalis gali denonsuoti šią Sutartį, pranešdama apie tai Europos Tarybos Generaliniam Sekretoriui. ^77b4c595df8b917d6a68e12d
+1. Kiekviena susitariančioji Šalis gali denonsuoti šią Sutartį, pranešdama apie tai Europos Tarybos Generaliniam Sekretoriui. ^s-f756811a8959b7a222d0ac81
 
 
-2. Toks denonsavimas įsigalioja praėjus šešiems mėnesiams nuo datos, kai Generalinis Sekretorius gauna tokį pranešimą. ^f96975a9510ab883588a0930
+2. Toks denonsavimas įsigalioja praėjus šešiems mėnesiams nuo datos, kai Generalinis Sekretorius gauna tokį pranešimą. ^s-dc54758d7232ed6c84639993
 
 
 
@@ -271,7 +276,7 @@ d) kiekvieną pareiškimą pagal 8 straipsnį;
 e) kiekvieną šios Sutarties įsigaliojimo datą pagal 10 straipsnį;
 
 
-f) kiekvieną gautą pranešimą pagal 12 straipsnio 2 ir [[#^2d28f1722e68416bc9acd67d|3 dalis]];
+f) kiekvieną gautą pranešimą pagal 12 straipsnio 2 ir 3 dalis;
 
 
 g) kiekvieną išlygą, padarytą pagal 13 straipsnio 1 dalį;
@@ -301,4 +306,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1439, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11751
-Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymo Nr. I-1201 [[#2 straipsnis. Lietuvos Respublikos pareiškimas|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymo Nr. I-1201 [[#^s-79fda3601f93b755dbf622ce|2 straipsnio]] pakeitimo įstatymas

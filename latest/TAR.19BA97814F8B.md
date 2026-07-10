@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.19BA97814F8B"
 pavadinimas: "Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "pacientų teisių ir žalos sveikatai atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-19"
 latest_path: "latest/TAR.19BA97814F8B.md"
 latest_sha256: "5a4888e1b063cd2d5186e7d87de6c7251a1fb80796d75010794323dd6b10e122"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.19BA97814F8B]]"
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.19BA97814F8B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.19BA97814F8B
+- Ryšiai: [[Ryšiai/TAR.19BA97814F8B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas ^s-381195b23dead7b98b4039af
 
 
 Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:

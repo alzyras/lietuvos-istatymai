@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E9EBE990E459"
 pavadinimas: "Lietuvos Respublikos statybos įstatymo 16 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statybos įstatymo 16 straipsnio papildymo įstatymas"
+  - "statybos įstatymo 16 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-09-15"
 latest_path: "latest/TAR.E9EBE990E459.md"
 latest_sha256: "8684a8993193f9f9137066c1bb1905af6e6ec79d70a089c97375d6b7a7cd6b21"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E9EBE990E459]]"
 ---
 # Lietuvos Respublikos statybos įstatymo 16 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E9EBE990E459.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E9EBE990E459
+- Ryšiai: [[Ryšiai/TAR.E9EBE990E459|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio papildymas
+### 1 straipsnis. 16 straipsnio papildymas ^s-0da00dd04b03dd78b7315421
 
 
 Papildyti 16 straipsnį 7 dalimi:
@@ -41,7 +46,7 @@ Papildyti 16 straipsnį 7 dalimi:
 
 
 
-### 2 straipsnis. Įstatymo įgyvendinimas
+### 2 straipsnis. Įstatymo įgyvendinimas ^s-95ea2b0a2299ca44e41c803d
 
 
 Šis įstatymas pradedamas įgyvendinti nuo 2001 m. liepos 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FA772475976E"
 pavadinimas: "Lietuvos Respublikos saugomų teritorijų įstatymo 1, 2, 4, 22, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 24-1 straipsniu ir priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugomų teritorijų įstatymo 1, 2, 4, 22, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 24-1 straipsniu ir priedu įstatymas"
+  - "saugomų teritorijų įstatymo 1, 2, 4, 22, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 24-1 straipsniu ir priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-01"
 latest_path: "latest/TAR.FA772475976E.md"
 latest_sha256: "0cc0b3d79be3e77763926a7ee2181e2c82050a0974c1ae905d314f56b1038768"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FA772475976E]]"
 ---
 # Lietuvos Respublikos saugomų teritorijų įstatymo 1, 2, 4, 22, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 24-1 straipsniu ir priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FA772475976E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FA772475976E
+- Ryšiai: [[Ryšiai/TAR.FA772475976E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,152 +37,152 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 2 dalimi ^s-42ce82573b0cbcae2ba05fb5
 
 
-Papildyti [[#^1053eba427a18cde365a708b|1 straipsnį 2 dalimi]] ir visą straipsnį išdėstyti taip:
+Papildyti [[#^s-8d628c397736645d3d0044f4|1 straipsnį 2 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato visuomeninius santykius, susijusius su saugomomis teritorijomis, saugomų teritorijų sistemą, saugomų teritorijų steigimo, apsaugos, tvarkymo ir kontrolės teisinius pagrindus, taip pat reglamentuoja veiklą jose. ^c383f794586f09f50d83ebff
+1. Šis Įstatymas nustato visuomeninius santykius, susijusius su saugomomis teritorijomis, saugomų teritorijų sistemą, saugomų teritorijų steigimo, apsaugos, tvarkymo ir kontrolės teisinius pagrindus, taip pat reglamentuoja veiklą jose. ^s-c6be6123e543fc12abdc76e6
 
 
-2. Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.“ ^1053eba427a18cde365a708b
+2. Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.“ ^s-8d628c397736645d3d0044f4
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-db90e23efa236122720275af
 
 
-1. Pakeisti [[#^daedde15f13e14ab7dcf7e48|2 straipsnio 6 dalį]] ir ją išdėstyti taip: ^12bdbb8a87f78911e86a012a
+1. Pakeisti [[#^s-a284e4e55ee4bee7cd17ae4f|2 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-afc6bcdb3c00be3cc0ca3cd6
 
 
 „6. Natūralios buveinės apsaugos būklė – apsaugos kokybę rodanti natūralią buveinę ir jos būdingas rūšis veikiančių poveikių visuma, galinti turėti ilgalaikę įtaką buveinės natūraliam paplitimui, struktūrai, funkcijoms ir jos būdingų rūšių išlikimui europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis.“
 
 
-2. Pakeisti [[#^c4a168b497b6efd98595017d|2 straipsnio 7 dalį]] ir ją išdėstyti taip: ^a1ab12e8f4d1b2af5094ffcc
+2. Pakeisti [[#^s-43436e6181ed1a3cbfb7b3d9|2 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-60f4867a5e0dad1bd449d7a1
 
 
 „7. Buveinių apsaugai svarbi teritorija – Europos bendrijos svarbos teritorijoje įstatymų, administracinių aktų ir (arba) sutarčių pagrindu nustatyta teritorija, kurioje taikomos būtinos apsaugos priemonės palankiai natūralių buveinių ir (ar) rūšių populiacijų, kurioms teritorija yra nustatyta, apsaugos būklei palaikyti ar jai atkurti.“
 
 
-3. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip: ^7afba4709f6173fbf0c004a8
+3. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip: ^s-325133cad6ca01c3712e8ba3
 
 
 „14. Europos bendrijos svarbos teritorija – biogeografinio regiono teritorija, kuri yra reikšminga siekiant palaikyti ar atkurti Europos bendrijos svarbos natūralių buveinių tipo ar Europos bendrijos svarbos gyvūnų ar augalų rūšies palankią apsaugos būklę ir kuri gali būti svarbi Europos ekologinio tinklo „Natura 2000“ vientisumui ir (arba) yra svarbi tam tikro biogeografinio regiono biologinei įvairovei palaikyti. Kai gyvūnai paplitę didelėje teritorijoje, Europos bendrijos svarbos teritorijos atitinka šių rūšių natūraliame areale esančias vietas, kuriose yra jų gyvenimui ir dauginimuisi būtinų fizinių ar biologinių veiksnių.“
 
 
-4. Pakeisti 2 straipsnio 15 dalį ir ją išdėstyti taip: ^488ecbdcf7ac14457b4ddec1
+4. Pakeisti 2 straipsnio 15 dalį ir ją išdėstyti taip: ^s-282b489c29944fb7b840ff3a
 
 
 „15. Europos ekologinis tinklas „Natura 2000“ (toliau – „Natura 2000“ tinklas) – vientisas buveinių apsaugai svarbių teritorijų tinklas, sudarytas iš teritorijų, kuriose yra tam tikro tipo Europos bendrijos svarbos natūralių buveinių ir Europos bendrijos svarbos rūšių buveinių, skirtas palaikyti, o kur reikia – atkurti iki palankios apsaugos būklės tam tikrų tipų natūralioms buveinėms ir rūšių buveinėms jų natūraliame areale. Į „Natura 2000“ tinklą įeina ir paukščių apsaugai svarbios teritorijos.“
 
 
-5. Pakeisti 2 straipsnio 24 dalį ir ją išdėstyti taip: ^cf07b22e40c54356bec2b853
+5. Pakeisti 2 straipsnio 24 dalį ir ją išdėstyti taip: ^s-379c4a12a8a58756b5a625ec
 
 
 „24. Paukščių apsaugai svarbi teritorija – specialios apsaugos teritorija, kurioje Europos bendrijos svarbos paukščių rūšių buveinėms taikomos tam tikros apsaugos priemonės, kad šios rūšys savo areale išliktų ir veistųsi.“
 
 
-6. Pakeisti 2 straipsnio 31 dalį ir ją išdėstyti taip: ^daedde15f13e14ab7dcf7e48
+6. Pakeisti 2 straipsnio 31 dalį ir ją išdėstyti taip: ^s-a284e4e55ee4bee7cd17ae4f
 
 
 „31. Rūšies apsaugos būklė – apsaugos kokybę rodanti rūšį veikiančių poveikių visuma, galinti turėti ilgalaikę įtaką rūšies paplitimui, jos populiacijų gausumui europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis.“
 
 
-7. Pakeisti 2 straipsnio 40 dalį ir ją išdėstyti taip: ^c4a168b497b6efd98595017d
+7. Pakeisti 2 straipsnio 40 dalį ir ją išdėstyti taip: ^s-43436e6181ed1a3cbfb7b3d9
 
 
 „40. Palanki natūralios buveinės apsaugos būklė – būklė, kai natūralus buveinės arealas ir jos užimami plotai tame areale nekinta arba didėja, kai yra ir, tikėtina, ateityje neišnyks jos ilgalaikiam palaikymui būtina specifinė struktūra ir funkcijos, ir kai šiai buveinei būdingų rūšių apsaugos būklė yra palanki.“
 
 
-8. Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip: ^e5e2abb6921861093a688a20
+8. Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip: ^s-02a94dbbd8179eeae4b208b4
 
 
 „41. Palanki rūšies apsaugos būklė – būklė, kai rūšies populiacijos pokyčiai rodo, kad populiacija pajėgi ilgą laiką išlikti gyvybinga savo natūralioje buveinėje, o rūšies arealas nemažėja, taip pat nėra tikėtina, kad ateityje mažės, be to, buveinė, kurioje populiacija galės išlikti ilgą laiką, yra ir tikėtina, kad bus pakankamai didelė.“
 
 
-9. Papildyti 2 straipsnį 46 dalimi: ^465c444874e3c4b6bd7a71f0
+9. Papildyti 2 straipsnį 46 dalimi: ^s-a24347e27511864c8e7e1175
 
 
 „46. Europos bendrijos svarbos natūralių buveinių tipai – buveinių tipai, kurie europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis:
 
 
-1) gali išnykti jų natūraliame areale arba ^2ab453146156dc43a6574dff
+1) gali išnykti jų natūraliame areale arba ^s-78c3ad10918316d8844d3ef0
 
 
-2) yra natūraliai paplitę nedideliame areale dėl regresijos arba dėl jiems būdingo riboto arealo, arba ^bc6cf079c52b2ad5a6b789bb
+2) yra natūraliai paplitę nedideliame areale dėl regresijos arba dėl jiems būdingo riboto arealo, arba ^s-86e838b2f23fb4469320f7d1
 
 
-3) yra išskirtiniai pavyzdžiai, turintys vieno ar kelių biogeografinių regionų būdingų bruožų. ^a831ad56480fb570f5d276de
+3) yra išskirtiniai pavyzdžiai, turintys vieno ar kelių biogeografinių regionų būdingų bruožų. ^s-8f87b29e482841197ca0053c
 
 
 Tokie buveinių tipai yra arba gali būti įrašyti į Europos bendrijos svarbos natūralių buveinių tipų, kurių apsaugai būtina nustatyti saugomas teritorijas, sąrašą, kurį tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.“
 
 
-10. Papildyti 2 straipsnį 47 dalimi: ^6575a8805462f09821f34e3a
+10. Papildyti 2 straipsnį 47 dalimi: ^s-efbba3036368037de6350104
 
 
 „47. Europos bendrijos svarbos rūšys – gyvūnų ir augalų, egzistuojančių europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis, rūšys, kurios:
 
 
-1) yra nykstančios, išskyrus rūšis, kurių natūralaus arealo pakraščio dalis toje teritorijoje yra nedidelė ir kurioms negresia išnykimas ar kurios nėra pažeidžiamos Vakarų Palearktikos regione; ^76c552f848741a291624d5be
+1) yra nykstančios, išskyrus rūšis, kurių natūralaus arealo pakraščio dalis toje teritorijoje yra nedidelė ir kurioms negresia išnykimas ar kurios nėra pažeidžiamos Vakarų Palearktikos regione; ^s-38cb8187da1c1fa8e8d8bde1
 
 
-2) yra pažeidžiamos, tai yra manoma, kad netolimoje ateityje jos gali būti priskirtos nykstančiųjų kategorijai, jei ir toliau veiks tai lemiantys veiksniai; ^e05fcf27e6e2a849013961ba
+2) yra pažeidžiamos, tai yra manoma, kad netolimoje ateityje jos gali būti priskirtos nykstančiųjų kategorijai, jei ir toliau veiks tai lemiantys veiksniai; ^s-740c24b5b1bacb15c6354b83
 
 
-3) yra retos, tai yra rūšys, kurių mažos populiacijos šiuo metu nėra nykstančios ar pažeidžiamos, bet yra pavojus, kad jos gali tokiomis tapti – dėl to, kad rūšys gyvena geografiškai apribotose teritorijose arba yra retai išsidėsčiusios didesniame areale; ^24a4cf56835ae77d966817c5
+3) yra retos, tai yra rūšys, kurių mažos populiacijos šiuo metu nėra nykstančios ar pažeidžiamos, bet yra pavojus, kad jos gali tokiomis tapti – dėl to, kad rūšys gyvena geografiškai apribotose teritorijose arba yra retai išsidėsčiusios didesniame areale; ^s-9c44bf866850a2d5d9946fcf
 
 
-4) yra endeminės ir joms reikalingas išskirtinis dėmesys dėl specifinio jų buveinės pobūdžio ir (arba) dėl jų naudojimo galimo poveikio jų buveinei ir (arba) jų apsaugos būklei. ^f4a3a6e83b81334df3c817f2
+4) yra endeminės ir joms reikalingas išskirtinis dėmesys dėl specifinio jų buveinės pobūdžio ir (arba) dėl jų naudojimo galimo poveikio jų buveinei ir (arba) jų apsaugos būklei. ^s-7db04bd28b5fa723fa71e1cf
 
 
-Tokios rūšys Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo nustatyta tvarka yra arba gali būti įrašytos į Europos bendrijos svarbos augalų ir gyvūnų rūšių sąrašus.“
+Tokios rūšys [[latest/TAR.1746D2A4EFB9|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo]] nustatyta tvarka yra arba gali būti įrašytos į Europos bendrijos svarbos augalų ir gyvūnų rūšių sąrašus.“
 
 
-11. Papildyti 2 straipsnį 48 dalimi: ^d3d6e5a01688910021e9afa4
+11. Papildyti 2 straipsnį 48 dalimi: ^s-c040a68d4739864a33e4f18c
 
 
 „48. Prioritetinis natūralių buveinių tipas – Europos bendrijos svarbos natūralių buveinių tipas, kuris europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis, gali išnykti jo natūraliame areale ir kurį Europos bendrija priskiria prie prioritetinių kategorijos dėl to, kad didelė jo natūralaus arealo dalis patenka į tą teritoriją.“
 
 
-12. Papildyti 2 straipsnį 49 dalimi: ^a9f550590667f6f39badfe42
+12. Papildyti 2 straipsnį 49 dalimi: ^s-f94772946d0aef673841ef19
 
 
 „49. Prioritetinė augalų ar gyvūnų rūšis – Europos bendrijos svarbos augalų ar gyvūnų rūšis, kuri europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis, yra nykstanti (išskyrus rūšis, kurių natūralaus arealo pakraščio dalis toje teritorijoje yra nedidelė ir kurioms negresia išnykimas ar kurios nėra pažeidžiamos Vakarų Palearktikos regione) ir kurią Europos bendrija priskiria prie prioritetinių kategorijos dėl to, kad didelė jos natūralaus arealo dalis patenka į tą teritoriją.“
 
 
-13. Papildyti 2 straipsnį 50 dalimi: ^c1783603363cf552d107113e
+13. Papildyti 2 straipsnį 50 dalimi: ^s-67bf776fee0acf3139d669bf
 
 
 „50. Rūšies buveinė – specifiniais abiotiniais ir biotiniais veiksniais pasižyminti aplinka, kurioje rūšis gyvena bet kuriuo savo biologinio ciklo etapu.“
 
 
-### 3 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-9b98337e758e0b2005181ed1
 
 
-Pakeisti [[#^1aaf8ab6f394110732802795|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-209fe47a8b9c9c3caebd81f4|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Šio Įstatymo 241 straipsnyje nustatyta tvarka Lietuvos Respublikos saugomos teritorijos ar jų dalys gali būti įtraukiamos į „Natura 2000“ tinklą.“
 
 
-### 4 straipsnis. 22 straipsnio 4 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios
+### 4 straipsnis. 22 straipsnio 4 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios ^s-d94d228c8f6f966fb55acb88
 
 
-1. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip: ^5aedf187d912086ec28a1c9f
+1. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip: ^s-e092a23c703d8ce74279cd3b
 
 
 „4. Biologinės įvairovės apsaugai gamtinio karkaso teritorijose gali būti išskiriamas ekologinis tinklas, jungiantis didžiausią bioekologinę svarbą turinčias buveines, jų aplinką bei gyvūnų ir augalų migracijos koridorius. Išskiriant gamtinį karkasą, atsižvelgiama į būtinybę užtikrinti „Natura 2000“ tinklo ekologinį vientisumą, sukuriant ar išsaugant kraštovaizdžio elementus, kurie būtų svarbūs laukinei faunai ir florai. Prie tokių svarbių kraštovaizdžio elementų priskiriami tie, kurie dėl savo linijinės ar tęstinės struktūros ar dėl savo jungiamosios funkcijos yra būtini laukinių rūšių migracijai, plitimui ir genetiniams mainams.“
 
 
-2. 22 straipsnio 7 dalį pripažinti netekusia galios. ^1aaf8ab6f394110732802795
+2. 22 straipsnio 7 dalį pripažinti netekusia galios. ^s-209fe47a8b9c9c3caebd81f4
 
 
 
-### 5 straipsnis. 24 straipsnio pakeitimas
+### 5 straipsnis. 24 straipsnio pakeitimas ^s-8d0639fbecaedc4723a32d9c
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
@@ -186,13 +191,13 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 „24 straipsnis. Saugomų teritorijų įrašymas į tarptautinės svarbos saugomų teritorijų sąrašus ir veiklos jose reglamentavimas
 
 
-1. Lietuvos Respublikos saugomoms teritorijoms arba jų dalims, kuriose yra tarptautinės svarbos kraštovaizdžio kompleksų, buveinių, retų bei nykstančių augalų ir gyvūnų rūšių ar jų bendrijų bei populiacijų, taip pat gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių), gali būti suteiktas tarptautinės svarbos saugomos teritorijos statusas ir (ar) jos gali būti įrašytos į tarptautinės svarbos saugomų teritorijų sąrašus. Pasiūlymus saugomas teritorijas, išskyrus kultūrinius draustinius, kultūrinius rezervatus ir istorinius nacionalinius ir istorinius regioninius parkus, įrašyti į šiuos sąrašus teikia Lietuvos Respublikos Vyriausybės įgaliota institucija, jeigu tarptautinėse sutartyse nenustatyta kitaip. Kultūriniai draustiniai, kultūriniai rezervatai, istoriniai nacionaliniai ir istoriniai regioniniai parkai į tarptautinės svarbos saugomų teritorijų sąrašus įrašomi Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka. ^61a76a44193b587e23f93607
+1. Lietuvos Respublikos saugomoms teritorijoms arba jų dalims, kuriose yra tarptautinės svarbos kraštovaizdžio kompleksų, buveinių, retų bei nykstančių augalų ir gyvūnų rūšių ar jų bendrijų bei populiacijų, taip pat gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių), gali būti suteiktas tarptautinės svarbos saugomos teritorijos statusas ir (ar) jos gali būti įrašytos į tarptautinės svarbos saugomų teritorijų sąrašus. Pasiūlymus saugomas teritorijas, išskyrus kultūrinius draustinius, kultūrinius rezervatus ir istorinius nacionalinius ir istorinius regioninius parkus, įrašyti į šiuos sąrašus teikia Lietuvos Respublikos Vyriausybės įgaliota institucija, jeigu tarptautinėse sutartyse nenustatyta kitaip. Kultūriniai draustiniai, kultūriniai rezervatai, istoriniai nacionaliniai ir istoriniai regioniniai parkai į tarptautinės svarbos saugomų teritorijų sąrašus įrašomi [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo]] nustatyta tvarka. ^s-80aa549ecad93d11943cbb1c
 
 
-2. Saugomoms teritorijoms, turinčioms tarptautinės svarbos saugomos teritorijos statusą ir (ar) įrašytoms į tarptautinės svarbos saugomų teritorijų sąrašus, taikomi tarptautinėse konvencijose, sutartyse nustatyti reikalavimai. Į tarptautinės svarbos saugomų teritorijų sąrašus patenkančių teritorijų apsaugos ypatumus taip pat reglamentuoja Lietuvos Respublikos Vyriausybė.“ ^02e959f47ab32cc9b406017e
+2. Saugomoms teritorijoms, turinčioms tarptautinės svarbos saugomos teritorijos statusą ir (ar) įrašytoms į tarptautinės svarbos saugomų teritorijų sąrašus, taikomi tarptautinėse konvencijose, sutartyse nustatyti reikalavimai. Į tarptautinės svarbos saugomų teritorijų sąrašus patenkančių teritorijų apsaugos ypatumus taip pat reglamentuoja Lietuvos Respublikos Vyriausybė.“ ^s-9947c56d9f2cfd261cdcf8d3
 
 
-### 6 straipsnis. Įstatymo papildymas 241 straipsniu
+### 6 straipsnis. Įstatymo papildymas 241 straipsniu ^s-52aa94642f61721bd3352a89
 
 
 Papildyti Įstatymą 241 straipsniu:
@@ -201,112 +206,112 @@ Papildyti Įstatymą 241 straipsniu:
 „241 straipsnis. „Natura 2000“ tinklo sudarymas ir „Natura 2000“ tinklo teritorijų apsauga
 
 
-1. Buveinių apsaugai svarbios teritorijos nustatomos vietovėse, kuriose yra Europos bendrijos svarbos natūralių buveinių tipai ir Europos bendrijos svarbos rūšių buveinės. Teritorijos atrenkamos [[#^224e48e4464d47eaed48964e|šio straipsnio 4 dalyje]] nustatyta tvarka atsižvelgiant į tai, kokią Lietuvos Respublikos teritorijos dalį užima Europos bendrijos svarbos natūralių buveinių tipai ir rūšių, kurioms išsaugoti reikia nustatyti buveinių apsaugai svarbias teritorijas, buveinės. ^41ca1738c37a6c4fa682a3fb
+1. Buveinių apsaugai svarbios teritorijos nustatomos vietovėse, kuriose yra Europos bendrijos svarbos natūralių buveinių tipai ir Europos bendrijos svarbos rūšių buveinės. Teritorijos atrenkamos [[#^s-4d70ae590f7eeaae32868c17|šio straipsnio 4 dalyje]] nustatyta tvarka atsižvelgiant į tai, kokią Lietuvos Respublikos teritorijos dalį užima Europos bendrijos svarbos natūralių buveinių tipai ir rūšių, kurioms išsaugoti reikia nustatyti buveinių apsaugai svarbias teritorijas, buveinės. ^s-f50d1cc886effe031d750942
 
 
-2. Kiekiu ir dydžiu tinkamiausios paukščių apsaugai svarbios teritorijos nustatomos vadovaujantis moksliniais tyrimais ir atsižvelgiant į laukinių paukščių apsaugos poreikį geografiniame jūros ir sausumos plote, apimančiame europinę teritoriją valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis. Nustatant jas, siekiama šių tikslų: ^40e88f98c1b205aeaebcca80
+2. Kiekiu ir dydžiu tinkamiausios paukščių apsaugai svarbios teritorijos nustatomos vadovaujantis moksliniais tyrimais ir atsižvelgiant į laukinių paukščių apsaugos poreikį geografiniame jūros ir sausumos plote, apimančiame europinę teritoriją valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis. Nustatant jas, siekiama šių tikslų: ^s-97b01a0711e73dce731c6e1d
 
 
-1) kad savo areale išliktų ir veistųsi tokios į Europos bendrijos svarbos paukščių rūšių sąrašą įrašytos paukščių rūšys: kurioms gresia pavojus išnykti; kurioms gali pakenkti tam tikri jų buveinių pokyčiai; kurios laikomos retomis dėl jų mažų populiacijų ar riboto arealo; kurioms dėl specifinio jų buveinių pobūdžio reikia išskirtinio dėmesio. Vertinant visada remiamasi laukinių paukščių rūšių populiacijų gausumo tendencijomis ir pokyčiais; ^d49dbcdd44ffd83f36e790e2
+1) kad savo areale išliktų ir veistųsi tokios į Europos bendrijos svarbos paukščių rūšių sąrašą įrašytos paukščių rūšys: kurioms gresia pavojus išnykti; kurioms gali pakenkti tam tikri jų buveinių pokyčiai; kurios laikomos retomis dėl jų mažų populiacijų ar riboto arealo; kurioms dėl specifinio jų buveinių pobūdžio reikia išskirtinio dėmesio. Vertinant visada remiamasi laukinių paukščių rūšių populiacijų gausumo tendencijomis ir pokyčiais; ^s-d5575ef245027c2ee73754a5
 
 
-2) kad būtų išsaugotos nuolatos aptinkamų migruojančių laukinių paukščių rūšių, neįrašytų į Europos bendrijos svarbos paukščių rūšių sąrašą, veisimosi, šėrimosi, žiemojimo ir poilsio teritorijos, esančios jų migracijos kelyje, kreipiant išskirtinį dėmesį šlapžemių, ypač tarptautinės svarbos, apsaugai. ^cdc803f831ef01773b458851
+2) kad būtų išsaugotos nuolatos aptinkamų migruojančių laukinių paukščių rūšių, neįrašytų į Europos bendrijos svarbos paukščių rūšių sąrašą, veisimosi, šėrimosi, žiemojimo ir poilsio teritorijos, esančios jų migracijos kelyje, kreipiant išskirtinį dėmesį šlapžemių, ypač tarptautinės svarbos, apsaugai. ^s-248f2e6ef1e2568ad9655801
 
 
-3. Vietovių, kuriose nustatomos paukščių apsaugai svarbios arba buveinių apsaugai svarbios teritorijos, atrankos kriterijus tvirtina Vyriausybės įgaliota institucija. Tvirtinant buveinių apsaugai svarbių teritorijų atrankos kriterijus, nustatoma, kurie Europos bendrijos svarbos natūralių buveinių tipai, augalų ir gyvūnų rūšys yra prioritetiniai natūralių buveinių tipai, prioritetinės augalų ir gyvūnų rūšys. ^080398f1aa583be8daf32efb
+3. Vietovių, kuriose nustatomos paukščių apsaugai svarbios arba buveinių apsaugai svarbios teritorijos, atrankos kriterijus tvirtina Vyriausybės įgaliota institucija. Tvirtinant buveinių apsaugai svarbių teritorijų atrankos kriterijus, nustatoma, kurie Europos bendrijos svarbos natūralių buveinių tipai, augalų ir gyvūnų rūšys yra prioritetiniai natūralių buveinių tipai, prioritetinės augalų ir gyvūnų rūšys. ^s-52bf97c71c865bf09a7632ce
 
 
-4. Vientisam buveinių apsaugai svarbių teritorijų ekologiniam tinklui sukurti Vyriausybės įgaliota institucija: ^224e48e4464d47eaed48964e
+4. Vientisam buveinių apsaugai svarbių teritorijų ekologiniam tinklui sukurti Vyriausybės įgaliota institucija: ^s-4d70ae590f7eeaae32868c17
 
 
-1) organizuoja mokslinius tyrimus, kad vadovaujantis buveinių apsaugai svarbių teritorijų atrankos kriterijais būtų atrinktos juos atitinkančios vietovės, ir patvirtina jų sąrašą, nurodydama, kokie Europos bendrijos svarbos natūralių buveinių tipai, augalų ir gyvūnų rūšys aptinkami tose vietovėse. Dideliuose arealuose paplitusių gyvūnų rūšių atveju tokios vietovės atitinka šių rūšių natūralaus arealo vietas, kuriose yra jų gyvenimui ir veisimuisi svarbūs fiziniai ar biologiniai veiksniai. Dideliuose arealuose paplitusių vandens gyvūnų rūšių atveju tokios vietovės siūlomos tik ten, kur yra aiškiai išskiriamas plotas, kuriame yra jų gyvenimui ir veisimuisi būtinų fizinių ir biologinių veiksnių; ^d8af0385412ace22885d75e8
+1) organizuoja mokslinius tyrimus, kad vadovaujantis buveinių apsaugai svarbių teritorijų atrankos kriterijais būtų atrinktos juos atitinkančios vietovės, ir patvirtina jų sąrašą, nurodydama, kokie Europos bendrijos svarbos natūralių buveinių tipai, augalų ir gyvūnų rūšys aptinkami tose vietovėse. Dideliuose arealuose paplitusių gyvūnų rūšių atveju tokios vietovės atitinka šių rūšių natūralaus arealo vietas, kuriose yra jų gyvenimui ir veisimuisi svarbūs fiziniai ar biologiniai veiksniai. Dideliuose arealuose paplitusių vandens gyvūnų rūšių atveju tokios vietovės siūlomos tik ten, kur yra aiškiai išskiriamas plotas, kuriame yra jų gyvenimui ir veisimuisi būtinų fizinių ir biologinių veiksnių; ^s-13da6c72e33a6c8bb64e9e64
 
 
-2) vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą pateikia svarstyti Europos Komisijai, kad būtų sudarytas ir patvirtintas atitinkamo biogeografinio regiono Europos bendrijos svarbos teritorijų sąrašas. Apie kiekvieną teritoriją Europos Komisijai pateikiama informacija (teritorijos žemėlapis, jos pavadinimas, padėtis, plotas ir duomenys, gauti taikant buveinių apsaugai svarbių teritorijų atrankos kriterijus) pagal Europos Komisijos nustatytą formą. Kartu su sąrašu pateikiami skaičiavimai, koks turi būti Europos bendrijos finansavimas, kad Lietuvos Respublika galėtų nustatyti ir įgyvendinti būtinas apsaugos priemones teritorijose, kuriose yra aptinkami prioritetiniai natūralių buveinių tipai ir (arba) prioritetinės augalų ir gyvūnų rūšys; ^5544ba944bceb1b127158d2f
+2) vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą pateikia svarstyti Europos Komisijai, kad būtų sudarytas ir patvirtintas atitinkamo biogeografinio regiono Europos bendrijos svarbos teritorijų sąrašas. Apie kiekvieną teritoriją Europos Komisijai pateikiama informacija (teritorijos žemėlapis, jos pavadinimas, padėtis, plotas ir duomenys, gauti taikant buveinių apsaugai svarbių teritorijų atrankos kriterijus) pagal Europos Komisijos nustatytą formą. Kartu su sąrašu pateikiami skaičiavimai, koks turi būti Europos bendrijos finansavimas, kad Lietuvos Respublika galėtų nustatyti ir įgyvendinti būtinas apsaugos priemones teritorijose, kuriose yra aptinkami prioritetiniai natūralių buveinių tipai ir (arba) prioritetinės augalų ir gyvūnų rūšys; ^s-984b17203de918a58af8e3e2
 
 
-3) prireikus siūlo Europos Komisijai keisti pateiktą vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą, atsižvelgiant į Europos bendrijos svarbos natūralių buveinių ar augalų ir gyvūnų rūšių mokslinių tyrimų ir jų apsaugos būklės stebėsenos rezultatus, taip pat siūlo panaikinti buveinių apsaugai svarbią teritoriją, jeigu atliekant stebėseną nustatyti natūralūs pokyčiai teikia tam pagrindo; ^4069081a191344cb0bdfbda5
+3) prireikus siūlo Europos Komisijai keisti pateiktą vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą, atsižvelgiant į Europos bendrijos svarbos natūralių buveinių ar augalų ir gyvūnų rūšių mokslinių tyrimų ir jų apsaugos būklės stebėsenos rezultatus, taip pat siūlo panaikinti buveinių apsaugai svarbią teritoriją, jeigu atliekant stebėseną nustatyti natūralūs pokyčiai teikia tam pagrindo; ^s-d2b440cd87dd98abd66f6b2f
 
 
-4) konsultuojasi su Europos Komisija, kad būtų galima palyginti Europos Komisijos ir Lietuvos Respublikos naudojamus mokslinių tyrimų duomenis tais atvejais, kai Europos Komisija nustato, kad vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąraše nenurodyta vietovė, kurioje aptinkamas prioritetinis natūralių buveinių tipas ar prioritetinė augalų ar gyvūnų rūšis, pagal Europos Komisijos turimą mokslinę informaciją svarbi to prioritetinio natūralių buveinių tipo palaikymui arba prioritetinės augalų ar gyvūnų rūšies išlikimui; ^bf781fae6e14a630a92813b0
+4) konsultuojasi su Europos Komisija, kad būtų galima palyginti Europos Komisijos ir Lietuvos Respublikos naudojamus mokslinių tyrimų duomenis tais atvejais, kai Europos Komisija nustato, kad vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąraše nenurodyta vietovė, kurioje aptinkamas prioritetinis natūralių buveinių tipas ar prioritetinė augalų ar gyvūnų rūšis, pagal Europos Komisijos turimą mokslinę informaciją svarbi to prioritetinio natūralių buveinių tipo palaikymui arba prioritetinės augalų ar gyvūnų rūšies išlikimui; ^s-525412d493f046ea7c8bc73b
 
 
-5) organizuoja, kad kuo greičiau, bet ne vėliau kaip per 6 metus po to, kai pasiūlytą vietovę Europos Komisija patvirtina Europos bendrijos svarbos teritorija, joje būtų nustatyta buveinių apsaugai svarbi teritorija pagal [[#^f6faf6519fb38b21dc3011c3|šio straipsnio 5 dalies]] reikalavimus. ^3bc910dc209b10e1d809e74c
+5) organizuoja, kad kuo greičiau, bet ne vėliau kaip per 6 metus po to, kai pasiūlytą vietovę Europos Komisija patvirtina Europos bendrijos svarbos teritorija, joje būtų nustatyta buveinių apsaugai svarbi teritorija pagal [[#^s-c8e76b8e06a1bc74f6bbd5c8|šio straipsnio 5 dalies]] reikalavimus. ^s-73126dedab45f0e0c359b52d
 
 
-5. Buveinių ir paukščių apsaugai svarbias teritorijas nustato Vyriausybės įgaliota institucija pagal Vyriausybės nustatytą tvarką. Tokios teritorijos nustatomos patvirtinant jų sąrašą, ribas ir nurodant apsaugos prioritetus, atsižvelgiant į teritorijos svarbą palaikant ar atkuriant Europos bendrijos svarbos natūralių buveinių tipų arba Europos bendrijos svarbos rūšių palankią apsaugos būklę ir užtikrinant „Natura 2000“ tinklo vientisumą, taip pat atsižvelgiant į toms vietovėms gresiantį degradavimą ar sunaikinimą. Sprendimas dėl buveinių ir paukščių apsaugai svarbios teritorijos nustatymo Europos bendrijos svarbos teritorijoje arba vietovėje, atitinkančioje paukščių apsaugai svarbios teritorijos atrankos kriterijus, gali būti priimtas, jeigu yra bent viena iš šių sąlygų: ^f6faf6519fb38b21dc3011c3
+5. Buveinių ir paukščių apsaugai svarbias teritorijas nustato Vyriausybės įgaliota institucija pagal Vyriausybės nustatytą tvarką. Tokios teritorijos nustatomos patvirtinant jų sąrašą, ribas ir nurodant apsaugos prioritetus, atsižvelgiant į teritorijos svarbą palaikant ar atkuriant Europos bendrijos svarbos natūralių buveinių tipų arba Europos bendrijos svarbos rūšių palankią apsaugos būklę ir užtikrinant „Natura 2000“ tinklo vientisumą, taip pat atsižvelgiant į toms vietovėms gresiantį degradavimą ar sunaikinimą. Sprendimas dėl buveinių ir paukščių apsaugai svarbios teritorijos nustatymo Europos bendrijos svarbos teritorijoje arba vietovėje, atitinkančioje paukščių apsaugai svarbios teritorijos atrankos kriterijus, gali būti priimtas, jeigu yra bent viena iš šių sąlygų: ^s-c8e76b8e06a1bc74f6bbd5c8
 
 
-1) vietovė yra Lietuvos Respublikos saugomoje teritorijoje; ^022956708421512982ed4272
+1) vietovė yra Lietuvos Respublikos saugomoje teritorijoje; ^s-06d22acbc1261a2b6f1ca61f
 
 
-2) vietovė arba jos dalis nepatenka į Lietuvos Respublikos saugomą teritoriją, tačiau Vyriausybės įgaliota institucija, išanalizavusi vietovėje veiklą reglamentuojančius dokumentus, nustatė, kad reikiamą apsaugą garantuoja vietovei taikomos įstatymų ir kitų teisės aktų nuostatos, teritorijų planavimo dokumentų sprendiniai, su privačios žemės savininkais ar valstybinės žemės valdytojais sudarytos apsaugos sutartys. ^1a066efd84680cd9bd795bd0
+2) vietovė arba jos dalis nepatenka į Lietuvos Respublikos saugomą teritoriją, tačiau Vyriausybės įgaliota institucija, išanalizavusi vietovėje veiklą reglamentuojančius dokumentus, nustatė, kad reikiamą apsaugą garantuoja vietovei taikomos įstatymų ir kitų teisės aktų nuostatos, teritorijų planavimo dokumentų sprendiniai, su privačios žemės savininkais ar valstybinės žemės valdytojais sudarytos apsaugos sutartys. ^s-ce9dc16d63ed4a4bb7073a5e
 
 
-6. Jeigu [[#^f6faf6519fb38b21dc3011c3|šio straipsnio 5 dalyje]] nurodytų sąlygų nėra, buveinių ar paukščių apsaugai svarbi teritorija atitinkamoje vietovėje nustatoma tik šio Įstatymo 23 straipsnio nustatyta tvarka įsteigus joje Lietuvos Respublikos saugomą teritoriją (parenkant geriausiai atitinkančią saugotinų objektų apsaugos ir tvarkymo poreikius saugomos teritorijos rūšį) arba pakeitus greta esančios Lietuvos Respublikos saugomos teritorijos ribas, arba papildžius reikiamus teritorijų planavimo dokumentus apsaugą numatančiais sprendiniais, arba sudarius apsaugos sutartis su privačios žemės savininkais ar valstybinės žemės valdytojais. Reikiamos apsaugos vietovei suteikimo veiksmai numatomi ir įgyvendinami pagal Vyriausybės įgaliotos institucijos patvirtintą ir paskelbtą vietovės gamtotvarkos planą. ^2b2e2b900347053a94f13f1a
+6. Jeigu [[#^s-c8e76b8e06a1bc74f6bbd5c8|šio straipsnio 5 dalyje]] nurodytų sąlygų nėra, buveinių ar paukščių apsaugai svarbi teritorija atitinkamoje vietovėje nustatoma tik šio Įstatymo 23 straipsnio nustatyta tvarka įsteigus joje Lietuvos Respublikos saugomą teritoriją (parenkant geriausiai atitinkančią saugotinų objektų apsaugos ir tvarkymo poreikius saugomos teritorijos rūšį) arba pakeitus greta esančios Lietuvos Respublikos saugomos teritorijos ribas, arba papildžius reikiamus teritorijų planavimo dokumentus apsaugą numatančiais sprendiniais, arba sudarius apsaugos sutartis su privačios žemės savininkais ar valstybinės žemės valdytojais. Reikiamos apsaugos vietovei suteikimo veiksmai numatomi ir įgyvendinami pagal Vyriausybės įgaliotos institucijos patvirtintą ir paskelbtą vietovės gamtotvarkos planą. ^s-9349055e7f603cd70bd7ab01
 
 
-7. Vyriausybės įgaliota institucija apie nustatytas paukščių apsaugai svarbias teritorijas reikiamą informaciją pateikia Europos Komisijai pagal šios nustatytą formą, kad Europos Komisija galėtų imtis atitinkamų iniciatyvų bendradarbiavimui užtikrinti, kuris būtinas, kad paukščių apsaugai svarbios teritorijos sudarytų nuoseklią visumą, atitinkančią laukinių paukščių rūšių apsaugos reikalavimus europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis. ^e43ac22aa033e68d903f4d72
+7. Vyriausybės įgaliota institucija apie nustatytas paukščių apsaugai svarbias teritorijas reikiamą informaciją pateikia Europos Komisijai pagal šios nustatytą formą, kad Europos Komisija galėtų imtis atitinkamų iniciatyvų bendradarbiavimui užtikrinti, kuris būtinas, kad paukščių apsaugai svarbios teritorijos sudarytų nuoseklią visumą, atitinkančią laukinių paukščių rūšių apsaugos reikalavimus europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis. ^s-0dd40bd632c03f52697ef77a
 
 
-8. Vyriausybės įgaliotos institucijos organizuoja, kad būtų nustatytos būtinos apsaugos priemonės buveinių apsaugai svarbioms teritorijoms, ir prireikus įgyvendina atitinkamus tvarkymo dokumentus, parengtus specialiai šioms teritorijoms ar įtrauktus į kitus plėtros planus, ir užtikrina, kad atitinkamais įstatymais, administracinėmis priemonėmis arba su privačios žemės savininkais ir valstybinės žemės valdytojais sudaromomis apsaugos sutartimis būtų nustatytos apsaugos priemonės, atitinkančios teritorijose esančių Europos bendrijos svarbos natūralių buveinių tipų, augalų ir gyvūnų rūšių ekologinius reikalavimus. ^aaab61e9159206ba936b7542
+8. Vyriausybės įgaliotos institucijos organizuoja, kad būtų nustatytos būtinos apsaugos priemonės buveinių apsaugai svarbioms teritorijoms, ir prireikus įgyvendina atitinkamus tvarkymo dokumentus, parengtus specialiai šioms teritorijoms ar įtrauktus į kitus plėtros planus, ir užtikrina, kad atitinkamais įstatymais, administracinėmis priemonėmis arba su privačios žemės savininkais ir valstybinės žemės valdytojais sudaromomis apsaugos sutartimis būtų nustatytos apsaugos priemonės, atitinkančios teritorijose esančių Europos bendrijos svarbos natūralių buveinių tipų, augalų ir gyvūnų rūšių ekologinius reikalavimus. ^s-010c28b961148663219750d9
 
 
-9. Vyriausybės įgaliotos institucijos imasi priemonių, kad buveinių apsaugai svarbiose teritorijose būtų išvengta natūralių buveinių ir rūšių buveinių blogėjimo ir rūšių, kurių apsaugai buvo nustatytos buveinių apsaugai svarbios teritorijos, trikdymo, jei toks trikdymas galėtų būti reikšmingas, norint palaikyti ar atkurti palankią Europos bendrijos svarbos natūralių buveinių, augalų ir gyvūnų rūšių apsaugos būklę. ^c3a87537830678657fae71cc
+9. Vyriausybės įgaliotos institucijos imasi priemonių, kad buveinių apsaugai svarbiose teritorijose būtų išvengta natūralių buveinių ir rūšių buveinių blogėjimo ir rūšių, kurių apsaugai buvo nustatytos buveinių apsaugai svarbios teritorijos, trikdymo, jei toks trikdymas galėtų būti reikšmingas, norint palaikyti ar atkurti palankią Europos bendrijos svarbos natūralių buveinių, augalų ir gyvūnų rūšių apsaugos būklę. ^s-3d72c4c3b80e0b3c442681bf
 
 
-10. Planai ir projektai, neskirti arba nebūtini buveinių apsaugai svarbios teritorijos tvarkymui, bet galintys ją reikšmingai paveikti individualiai arba kartu su kitais planais ar projektais, turi būti tinkamai vertinami dėl galimo poveikio teritorijai Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme ar Vyriausybės tvirtinamame Planų ir programų strateginio pasekmių aplinkai vertinimo tvarkos apraše nustatyta tvarka, atsižvelgiant į teritorijos gamtosauginius tikslus. Atsižvelgdamos į poveikio teritorijai vertinimą ir [[#^606dd7180950c453bfd2b113|šio straipsnio 11 dalies]] nuostatas, valstybės ar savivaldybių institucijos ar įstaigos gali pritarti planui ar projektui tik įsitikinusios, kad planas ar projektas neigiamai nepaveiks nagrinėjamos teritorijos vientisumo, ir prireikus išsiaiškinusios visuomenės nuomonę. ^b345e746d7ee5c99f26a4041
+10. Planai ir projektai, neskirti arba nebūtini buveinių apsaugai svarbios teritorijos tvarkymui, bet galintys ją reikšmingai paveikti individualiai arba kartu su kitais planais ar projektais, turi būti tinkamai vertinami dėl galimo poveikio teritorijai [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]] ar Vyriausybės tvirtinamame Planų ir programų strateginio pasekmių aplinkai vertinimo tvarkos apraše nustatyta tvarka, atsižvelgiant į teritorijos gamtosauginius tikslus. Atsižvelgdamos į poveikio teritorijai vertinimą ir [[#^s-7432ae316242270a2c7436cf|šio straipsnio 11 dalies]] nuostatas, valstybės ar savivaldybių institucijos ar įstaigos gali pritarti planui ar projektui tik įsitikinusios, kad planas ar projektas neigiamai nepaveiks nagrinėjamos teritorijos vientisumo, ir prireikus išsiaiškinusios visuomenės nuomonę. ^s-124022bcf63034429d23e863
 
 
-11. Jeigu [[#^b345e746d7ee5c99f26a4041|šio straipsnio 10 dalyje]] nurodytas planas ar projektas, nepaisant poveikio teritorijai neigiamo įvertinimo ir nesant kitų alternatyvių sprendimų, privalo būti įgyvendintas dėl įpareigojančių svarbesnio visuomenės intereso priežasčių, tarp jų socialinio ir ekonominio pobūdžio, įgyvendinamos visos kompensacinės priemonės, kad bendras „Natura 2000“ tinklo vientisumas būtų išsaugotas. Apie nustatytas kompensacines priemones informuojama Europos Komisija. Kai atitinkamoje teritorijoje yra prioritetinis natūralių buveinių tipas ir (arba) prioritetinė augalų ar gyvūnų rūšis, vieninteliai galimi pateikti motyvai yra susiję su žmonių sveikata ar viešuoju saugumu arba su svarbiomis aplinkai palankiomis pasekmėmis. Dėl galimybės pritaikyti motyvus, susijusius su kitomis, negu nurodyta, įpareigojančiomis svarbesnio visuomenės intereso priežastimis, būtina kreiptis į Europos Komisiją jos nuomonės tokiu klausimu. Kompensacinių priemonių bendram „Natura 2000“ tinklo vientisumui išsaugoti taikymo tvarką ir informacijos apie patvirtintas kompensacines priemones teikimo Europos Komisijai ir kreipimosi į Europos Komisiją dėl jos nuomonės tvarką nustato Vyriausybės įgaliota institucija. ^606dd7180950c453bfd2b113
+11. Jeigu [[#^s-124022bcf63034429d23e863|šio straipsnio 10 dalyje]] nurodytas planas ar projektas, nepaisant poveikio teritorijai neigiamo įvertinimo ir nesant kitų alternatyvių sprendimų, privalo būti įgyvendintas dėl įpareigojančių svarbesnio visuomenės intereso priežasčių, tarp jų socialinio ir ekonominio pobūdžio, įgyvendinamos visos kompensacinės priemonės, kad bendras „Natura 2000“ tinklo vientisumas būtų išsaugotas. Apie nustatytas kompensacines priemones informuojama Europos Komisija. Kai atitinkamoje teritorijoje yra prioritetinis natūralių buveinių tipas ir (arba) prioritetinė augalų ar gyvūnų rūšis, vieninteliai galimi pateikti motyvai yra susiję su žmonių sveikata ar viešuoju saugumu arba su svarbiomis aplinkai palankiomis pasekmėmis. Dėl galimybės pritaikyti motyvus, susijusius su kitomis, negu nurodyta, įpareigojančiomis svarbesnio visuomenės intereso priežastimis, būtina kreiptis į Europos Komisiją jos nuomonės tokiu klausimu. Kompensacinių priemonių bendram „Natura 2000“ tinklo vientisumui išsaugoti taikymo tvarką ir informacijos apie patvirtintas kompensacines priemones teikimo Europos Komisijai ir kreipimosi į Europos Komisiją dėl jos nuomonės tvarką nustato Vyriausybės įgaliota institucija. ^s-7432ae316242270a2c7436cf
 
 
-12. Buveinių apsaugai svarbiose teritorijose, kuriose atidėtas nuo Europos bendrijos bendrojo finansavimo priklausomų apsaugos priemonių, nurodytų [[#^aaab61e9159206ba936b7542|šio straipsnio 8 dalyje]], vykdymas, draudžiama imtis priemonių, galinčių pabloginti šių teritorijų būklę. ^127a3e8e2fea16ea738a02c3
+12. Buveinių apsaugai svarbiose teritorijose, kuriose atidėtas nuo Europos bendrijos bendrojo finansavimo priklausomų apsaugos priemonių, nurodytų [[#^s-010c28b961148663219750d9|šio straipsnio 8 dalyje]], vykdymas, draudžiama imtis priemonių, galinčių pabloginti šių teritorijų būklę. ^s-72c2d88169eacd179faa7bd3
 
 
-13. Šio straipsnio 9, 10 ir [[#^606dd7180950c453bfd2b113|11 dalyse]] nustatyti apsaugos reikalavimai vietovėms pradedami taikyti, kai jas Vyriausybės įgaliota institucija įrašo į vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą. [[#^bf781fae6e14a630a92813b0|Šio straipsnio 4 dalies 4 punkte]] nurodytu atveju, kai Vyriausybės įgaliota institucija konsultuojasi su Europos Komisija, kol bus priimtas sprendimas dėl vietovės priskyrimo Europos bendrijos svarbos teritorijoms, teritorijai taikomi [[#^c3a87537830678657fae71cc|šio straipsnio 9 dalyje]] numatyti apsaugos reikalavimai. ^e0165e0522fe4b18ac1402aa
+13. Šio straipsnio 9, 10 ir [[#^s-7432ae316242270a2c7436cf|11 dalyse]] nustatyti apsaugos reikalavimai vietovėms pradedami taikyti, kai jas Vyriausybės įgaliota institucija įrašo į vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą. [[#^s-525412d493f046ea7c8bc73b|Šio straipsnio 4 dalies 4 punkte]] nurodytu atveju, kai Vyriausybės įgaliota institucija konsultuojasi su Europos Komisija, kol bus priimtas sprendimas dėl vietovės priskyrimo Europos bendrijos svarbos teritorijoms, teritorijai taikomi [[#^s-3d72c4c3b80e0b3c442681bf|šio straipsnio 9 dalyje]] numatyti apsaugos reikalavimai. ^s-9903cbcd7e393d8e4437a3f3
 
 
-14. Šio straipsnio 9, 10 ir [[#^606dd7180950c453bfd2b113|11 dalyse]] nustatyti apsaugos reikalavimai taikomi ir paukščių apsaugai svarbioms teritorijoms. Laukinių paukščių rūšių buveines teršti ar pažeisti draudžiama ir už paukščių apsaugai svarbių teritorijų ribų. ^1a032bd8abbcd263e9189027
+14. Šio straipsnio 9, 10 ir [[#^s-7432ae316242270a2c7436cf|11 dalyse]] nustatyti apsaugos reikalavimai taikomi ir paukščių apsaugai svarbioms teritorijoms. Laukinių paukščių rūšių buveines teršti ar pažeisti draudžiama ir už paukščių apsaugai svarbių teritorijų ribų. ^s-bae525e409d61a79aa224f27
 
 
-15. [[#^f6faf6519fb38b21dc3011c3|Šio straipsnio 5 dalyje]] nurodytų sprendimų priėmimo ir 8 ir [[#^c3a87537830678657fae71cc|9 dalyse]] nustatytų apsaugos reikalavimų įgyvendinimo tvarką nustato Vyriausybės patvirtinti Bendrieji buveinių ar paukščių apsaugai svarbių teritorijų nuostatai. ^1dd4422199d71e219cbc6cfd
+15. [[#^s-c8e76b8e06a1bc74f6bbd5c8|Šio straipsnio 5 dalyje]] nurodytų sprendimų priėmimo ir 8 ir [[#^s-3d72c4c3b80e0b3c442681bf|9 dalyse]] nustatytų apsaugos reikalavimų įgyvendinimo tvarką nustato Vyriausybės patvirtinti Bendrieji buveinių ar paukščių apsaugai svarbių teritorijų nuostatai. ^s-9b0ef6bc9b40a2cf90f6d8c7
 
 
-16. „Natura 2000“ tinklo teritorijose ir už jų ribų stebima laukinių paukščių, Europos bendrijos svarbos natūralių buveinių, augalų ir gyvūnų rūšių apsaugos būklė, intensyviau stebint prioritetinius natūralių buveinių tipus, prioritetines augalų ir gyvūnų rūšis. Stebėjimai organizuojami Lietuvos Respublikos aplinkos monitoringo įstatymo nustatyta tvarka.“ ^66caada2b513b77d80b5e0c6
+16. „Natura 2000“ tinklo teritorijose ir už jų ribų stebima laukinių paukščių, Europos bendrijos svarbos natūralių buveinių, augalų ir gyvūnų rūšių apsaugos būklė, intensyviau stebint prioritetinius natūralių buveinių tipus, prioritetines augalų ir gyvūnų rūšis. Stebėjimai organizuojami [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymo]] nustatyta tvarka.“ ^s-6a63bb892e0387d7285a55d2
 
 
-### 7 straipsnis. Įstatymo papildymas priedu
+### 7 straipsnis. Įstatymo papildymas priedu ^s-6ef6a4a64681fba80de5fc0b
 
 
 Papildyti Įstatymą priedu:
 
 
 „Lietuvos Respublikos
-saugomų teritorijų įstatymo
+[[latest/TAR.FF1083B528B7|saugomų teritorijų įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1979 m. balandžio 2 d. Tarybos direktyva 79/409/EEB dėl laukinių paukščių apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 98) su paskutiniais pakeitimais, padarytais 1997 m. liepos 29 d. Komisijos direktyva 97/49/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 344). ^76e5ad8629168f85c83ab7fd
+1. 1979 m. balandžio 2 d. Tarybos direktyva 79/409/EEB dėl laukinių paukščių apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 98) su paskutiniais pakeitimais, padarytais 1997 m. liepos 29 d. Komisijos direktyva 97/49/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 344). ^s-ae76dee5644b25e443e2735a
 
 
-2. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 1997 m. spalio 27 d. Tarybos direktyva 97/62/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 3).“ ^0c87ddf5abf961471872ceea
+2. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 1997 m. spalio 27 d. Tarybos direktyva 97/62/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 3).“ ^s-a1c7814290a330af95d7b167
 
 
-### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-3aa1c54da1dc008a4e323bb3
 
 
 Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas
+### 9 straipsnis. Įstatymo įsigaliojimas ^s-432e8a41dfcb94724a351881
 
 
-Šis įstatymas, išskyrus [[#8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|8 straipsnį]], įsigalioja 2010 m. gruodžio 1 d.
+Šis įstatymas, išskyrus [[#^s-3aa1c54da1dc008a4e323bb3|8 straipsnį]], įsigalioja 2010 m. gruodžio 1 d.
 
 
 

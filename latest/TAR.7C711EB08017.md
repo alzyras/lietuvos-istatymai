@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7C711EB08017"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 24 ir 26 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 24 ir 26 straipsnių papildymo įstatymas"
+  - "akcinių bendrovių įstatymo 24 ir 26 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-04-05"
 latest_path: "latest/TAR.7C711EB08017.md"
 latest_sha256: "fb7684cbafc08571dc49919db438450c084f53998934144b3c8117f40a3a65bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7C711EB08017]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 24 ir 26 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7C711EB08017.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7C711EB08017
+- Ryšiai: [[Ryšiai/TAR.7C711EB08017|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio 9 dalies papildymas
+### 1 straipsnis. 24 straipsnio 9 dalies papildymas ^s-821c7572ab6c3d9d81066be5
 
 
 Papildyti 24 straipsnio 9 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 24 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 26 straipsnio 6 dalies papildymas
+### 2 straipsnis. 26 straipsnio 6 dalies papildymas ^s-0af47dee20b9cd5dc5560951
 
 
 Papildyti 26 straipsnio 6 dalį ir ją išdėstyti taip:

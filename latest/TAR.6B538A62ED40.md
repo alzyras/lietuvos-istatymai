@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B538A62ED40"
 pavadinimas: "Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo"
+aliases:
+  - "Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-03-11"
 latest_path: "latest/TAR.6B538A62ED40.md"
 latest_sha256: "f4bf7361f984acbc51f61c5b102779955c41c630b4c5c8dff80a0b97495ec8ba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B538A62ED40]]"
 ---
 # Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B538A62ED40.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B538A62ED40
+- Ryšiai: [[Ryšiai/TAR.6B538A62ED40|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

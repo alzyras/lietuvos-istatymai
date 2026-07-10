@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C0FBACF8578F"
 pavadinimas: "Lietuvos Respublikos kariuomenės drausmės statuto 52 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kariuomenės drausmės statuto 52 straipsnio pakeitimo įstatymas"
+  - "kariuomenės drausmės statuto 52 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-12"
 latest_path: "latest/TAR.C0FBACF8578F.md"
 latest_sha256: "440654f66e33d5efd0182c46f8470c9bc7771f38eedba67d41bc5cb9b8b518da"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C0FBACF8578F]]"
 ---
 # Lietuvos Respublikos kariuomenės drausmės statuto 52 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C0FBACF8578F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C0FBACF8578F
+- Ryšiai: [[Ryšiai/TAR.C0FBACF8578F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 52 straipsnio pakeitimas
+### 1 straipsnis. 52 straipsnio pakeitimas ^s-23c4596a3b433ea684457ae7
 
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:

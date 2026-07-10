@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2EFA519F22AD"
 pavadinimas: "Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1 ir 2 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1 ir 2 priedėlių pakeitimo įstatymas"
+  - "2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1 ir 2 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-09-02"
 latest_path: "latest/TAR.2EFA519F22AD.md"
 latest_sha256: "313dfdbc620812d7bcf462dead8f85fa60e353c42e289558b9ba8a0284b7d0f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2EFA519F22AD]]"
 ---
 # Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1 ir 2 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2EFA519F22AD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2EFA519F22AD
+- Ryšiai: [[Ryšiai/TAR.2EFA519F22AD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 1 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-70ff3f9a027adcd7f29a8e56
 
 
 Įstatymo 1 priedėlio eilutėje „Vyriausioji rinkimų komisija“ vietoj skaičių „31226“, „31226“ ir „22011“ įrašyti atitinkamai skaičius „36226“, „36226“ ir „25361“, eilutėje „Finansų ministerija“ vietoj skaičių „3953671“ ir „3826864“ įrašyti atitinkamai skaičius „3942671“ ir „3815864“, eilutėje „Socialinės apsaugos ir darbo ministerija“ vietoj skaičių „661795“ ir „632113“ įrašyti atitinkamai skaičius „660795“ ir „631113“, eilutėje „Žemės ūkio ministerija“ vietoj skaičių „1128919“ ir „1119538“ įrašyti atitinkamai skaičius „1130919“ ir „1121538“, eilutėje „Dotacija politinėms partijoms ir politinėms organizacijoms“ vietoj skaičių „1000“ įrašyti skaičius „6000“, eilutėje „Iš viso“ vietoj skaičiaus „2123885“ įrašyti skaičių „2127235“ ir šias eilutes išdėstyti taip:
@@ -82,7 +87,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 2 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-f5fb57638ee791451afb3431
 
 
 Įstatymo 2 priedėlio eilutėje „Bendros valstybės paslaugos“ vietoj skaičių „5415450“, „5229506“ ir „457825“ įrašyti atitinkamai skaičius „5409450“, „5223506“ ir „461175“, eilutėje „valstybės skolos aptarnavimo išlaidos“ vietoj skaičių „716361“, įrašyti skaičius „705361“, eilutėje „Ekonomika“ vietoj skaičių „2949833“ ir „2251363“ įrašyti atitinkamai skaičius „2951833“ ir „2253363“, eilutėje „Poilsis, kultūra ir religija“ vietoj skaičių „326304“ ir „257750“ įrašyti atitinkamai skaičius „331304“ ir „262750“, eilutėje „Socialinė apsauga“ vietoj skaičių „928430“ ir „883240“ įrašyti atitinkamai skaičius „927430“ ir „882240“, eilutėje „Iš viso“ vietoj skaičiaus „2123885“ įrašyti skaičių „2127235“ ir šias eilutes išdėstyti taip:

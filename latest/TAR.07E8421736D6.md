@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.07E8421736D6"
 pavadinimas: "Lietuvos Respublikos kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas"
+  - "kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-24"
 latest_path: "latest/TAR.07E8421736D6.md"
 latest_sha256: "11616405c38a718bc59a1b0886c9f8cdffc9f868ec92b9d322caacda8908a80f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.07E8421736D6]]"
 ---
 # Lietuvos Respublikos kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.07E8421736D6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.07E8421736D6
+- Ryšiai: [[Ryšiai/TAR.07E8421736D6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas ^s-516312891034ea6c9bf869be
 
 
 Pripažinti netekusia galios 8 straipsnio 1 dalį, 2 dalyje vietoj žodžių „Lietuvos kelių projektavimo normomis ir taisyklėmis“ įrašyti žodžius „normatyviniais statybos dokumentais“ ir visą straipsnį išdėstyti taip:
@@ -45,7 +50,7 @@ Keliai projektuojami remiantis patvirtintais teritorinio planavimo dokumentais, 
 
 
 
-### 2 straipsnis. 13 straipsnio pakeitimas
+### 2 straipsnis. 13 straipsnio pakeitimas ^s-fab60c4bb4cf3c7fa17dfb41
 
 
 13 straipsnyje vietoj žodžių „atitinkamomis valstybinėmis kelių normomis ir taisyklėmis“ įrašyti žodžius „atitinkamais normatyviniais statybos dokumentais“ ir šį straipsnį išdėstyti taip:

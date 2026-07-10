@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D5A20A698A3C"
 pavadinimas: "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 3, 5, 6, 7, 8 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 3, 5, 6, 7, 8 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 3, 5, 6, 7, 8 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-24"
 latest_path: "latest/TAR.D5A20A698A3C.md"
 latest_sha256: "a6ea9f1a6b7bdf02429ba8196ecd3e27c440bc72a0546584d7614e83f4bec6e7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D5A20A698A3C]]"
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 3, 5, 6, 7, 8 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D5A20A698A3C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D5A20A698A3C
+- Ryšiai: [[Ryšiai/TAR.D5A20A698A3C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-108c2e5d191f759006be799b
 
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -45,45 +50,45 @@ Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 4 straipsnio pripažinimas netekusiu galios ^s-f25735792ecf1a4638e50efd
 
 
-[[#4 straipsnis. 6 straipsnio pakeitimas|4 straipsnį]] pripažinti netekusiu galios.
-
-
-
-### 3 straipsnis. 5 straipsnio pakeitimas
-
-
-Pakeisti [[#5 straipsnis. 7 straipsnio 4 dalies pakeitimas|5 straipsnį]] ir jį išdėstyti taip:
+[[#^s-bdddbef6e2190b26961e5063|4 straipsnį]] pripažinti netekusiu galios.
 
 
 
-„[[#5 straipsnis. 7 straipsnio 4 dalies pakeitimas|5 straipsnis]]. Atlyginimas už valstybės išperkamus gyvenamuosius namus, jų dalis, butus, ūkinės-komercinės paskirties pastatus ir jų priklausinius
+### 3 straipsnis. 5 straipsnio pakeitimas ^s-31bb88a1cc9f0ec99ff60a82
+
+
+Pakeisti [[#^s-e2b3cd3646c560563b14ff0d|5 straipsnį]] ir jį išdėstyti taip:
+
+
+
+„[[#^s-e2b3cd3646c560563b14ff0d|5 straipsnis]]. Atlyginimas už valstybės išperkamus gyvenamuosius namus, jų dalis, butus, ūkinės-komercinės paskirties pastatus ir jų priklausinius
 
 
 Atlyginant už valstybės išperkamus gyvenamuosius namus, jų dalis, butus, ūkinės-komercinės paskirties pastatus ir jų priklausinius, perduodamo neatlygintinai turto, mokamų pinigų suma, įskaitomos piniginės prievolės valstybei dydis yra apskaičiuojami pagal išperkamo turto rinkos vertę, nustatytą pagal Turto ir verslo vertinimo pagrindų įstatymą.“
 
 
 
-### 4 straipsnis. 6 straipsnio pakeitimas
+### 4 straipsnis. 6 straipsnio pakeitimas ^s-bdddbef6e2190b26961e5063
 
 
-Pakeisti [[#6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios|6 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios|6 straipsnis]]. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai
-
-
-1. Atlyginimo piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai yra: valstybei priklausantis turtas, valstybės biudžeto lėšos, valstybės pasiskolintos lėšos ir kiti įstatymuose nurodyti šaltiniai. ^5dae790abc75b25f25097cfc
-
-
-2. Vyriausybė ar jos įgaliota institucija turi teisę Lietuvos Respublikos vardu imti paskolas kompensacijoms už valstybės išperkamą išlikusį nekilnojamąjį turtą mokėti. Šias lėšas paskirsto Vyriausybė ar jos įgaliota institucija.“ ^b6081ecf515f2b5a679edcc0
+Pakeisti [[#^s-e70e732c0bc4a284089513b6|6 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 7 straipsnio 4 dalies pakeitimas
+„[[#^s-e70e732c0bc4a284089513b6|6 straipsnis]]. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai
+
+
+1. Atlyginimo piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai yra: valstybei priklausantis turtas, valstybės biudžeto lėšos, valstybės pasiskolintos lėšos ir kiti įstatymuose nurodyti šaltiniai. ^s-01bba726c7de6be640652c6d
+
+
+2. Vyriausybė ar jos įgaliota institucija turi teisę Lietuvos Respublikos vardu imti paskolas kompensacijoms už valstybės išperkamą išlikusį nekilnojamąjį turtą mokėti. Šias lėšas paskirsto Vyriausybė ar jos įgaliota institucija.“ ^s-64e097f774869de84d2179cb
+
+
+
+### 5 straipsnis. 7 straipsnio 4 dalies pakeitimas ^s-e2b3cd3646c560563b14ff0d
 
 
 7 straipsnio 4 dalyje po žodžio „butus“ įrašyti žodžius „bei ūkinės-komercinės paskirties pastatus ir jų priklausinius“ ir šią dalį išdėstyti taip:
@@ -93,17 +98,17 @@ Pakeisti [[#6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripaž
 
 
 
-### 6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios
+### 6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios ^s-e70e732c0bc4a284089513b6
 
 
-1. 8 straipsnio pavadinime išbraukti žodžius „ir vertybiniais popieriais“ ir šio straipsnio pavadinimą išdėstyti taip: ^9825d452e1ed55835b9111bb
+1. 8 straipsnio pavadinime išbraukti žodžius „ir vertybiniais popieriais“ ir šio straipsnio pavadinimą išdėstyti taip: ^s-6f4cb34ebca564e08d6d9d9e
 
 
 
 „8 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą pinigais tvarka“.
 
 
-2. 8 straipsnio 3 dalį pripažinti netekusia galios. ^592346ee1dd94da17c884f09
+2. 8 straipsnio 3 dalį pripažinti netekusia galios. ^s-dd577f2ddae8db2aa4b5f78d
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.56B341F49F37"
 pavadinimas: "Lietuvos Respublikos Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-15"
 latest_path: "latest/TAR.56B341F49F37.md"
 latest_sha256: "6a111ec784f8cdd634c0f45e722462ab459e8c1095d7a843a042f8ab1f9dd5c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.56B341F49F37]]"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.56B341F49F37.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.56B341F49F37
+- Ryšiai: [[Ryšiai/TAR.56B341F49F37|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas ^s-0a26441d3f495dc138ec808a
 
 
 29 straipsnio 1 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:

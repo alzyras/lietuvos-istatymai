@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.18280923D118"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) ir 38 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) ir 38 straipsnių pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 37(1) ir 38 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-06-05"
 latest_path: "latest/TAR.18280923D118.md"
 latest_sha256: "76abd0d2ad26d684479e9de0550be11c8259cfe9ad8922fa7ef54d99d28512ca"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.18280923D118]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) ir 38 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.18280923D118.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.18280923D118
+- Ryšiai: [[Ryšiai/TAR.18280923D118|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Nr. 88-1666, Nr. 96-1874; 1995, Nr. 36-889, Nr. 59-1481, Nr. 89-1987)
 
 
 
-### 1 straipsnis. 371 straipsnio pakeitimas
+### 1 straipsnis. 371 straipsnio pakeitimas ^s-b1f77c9c52a435616557b2b3
 
 
 Pakeisti 371 straipsnio pirmąją dalį – pirmajame sakinyje vietoj žodžių „Lietuvos bankų įstaigos“ įrašyti žodžius „Lietuvos komerciniai bankai“, antrajame sakinyje vietoj žodžių „bankų įstaigos“ įrašyti žodį „bankai“, pakeisti paskutinįjį sakinį ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 371 straipsnio pirmąją dalį – pirmajame sakinyje vietoj žodžių 
 
 
 
-### 2 straipsnis. 38 straipsnio pakeitimas
+### 2 straipsnis. 38 straipsnio pakeitimas ^s-06a758b28ca2569efec2f924
 
 
 Pakeisti 38 straipsnio ketvirtosios dalies paskutinįjį sakinį ir šią dalį išdėstyti taip:

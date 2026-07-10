@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1C282647702D"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-11-05"
 latest_path: "latest/TAR.1C282647702D.md"
 latest_sha256: "10e523f9d4ed57e7aa5d4e828659ba8714cd4f011251789f052b68f8c98ee4ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1C282647702D]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1C282647702D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1C282647702D
+- Ryšiai: [[Ryšiai/TAR.1C282647702D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-d50e5bf38d0adcde6a6139ca
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -40,7 +45,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Pasiūlymas Vyriausybei
 
 
-Kad būtų optimizuotas savivaldybių skaičius ir jų teritorijų ribos, Vyriausybė iki 2005 m. spalio 1 d. parengia ir pateikia Seimui Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo pakeitimo įstatymo projektą.“
+Kad būtų optimizuotas savivaldybių skaičius ir jų teritorijų ribos, Vyriausybė iki 2005 m. spalio 1 d. parengia ir pateikia Seimui [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] pakeitimo įstatymo projektą.“
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

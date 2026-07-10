@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8D4EE979B475"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio papildymo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-27"
 latest_path: "latest/TAR.8D4EE979B475.md"
 latest_sha256: "a423ea8f0082be2c97b145499e62e7c2c936e5904e2665b38e2b7516f926c422"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8D4EE979B475]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8D4EE979B475.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8D4EE979B475
+- Ryšiai: [[Ryšiai/TAR.8D4EE979B475|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Priedėlio 8 skyriaus 4 dalies papildymas
+### 1 straipsnis. Priedėlio 8 skyriaus 4 dalies papildymas ^s-03d029889f6e942d682bd2c5
 
 
 Papildyti 8 skyriaus 4 dalį žodžiais „išskyrus įstatymų numatytus atvejus” ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5C6EDA02A66F"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5 ir 6 straipsnių pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 4, 5 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.5C6EDA02A66F.md"
 latest_sha256: "fce02f72ec805203e3b70c4dc0ac6cd10bccea9759de78a54a1eeec1583bd36a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5C6EDA02A66F]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5C6EDA02A66F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5C6EDA02A66F
+- Ryšiai: [[Ryšiai/TAR.5C6EDA02A66F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,27 +37,27 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-6bb6e09e4ba1e529c7d8b2bf
 
 
 4 straipsnio 1 dalyje vietoj skaičiaus „10“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip:
 
 
-„Teisę gauti Lietuvos Respublikos pirmojo arba antrojo laipsnio valstybinę pensiją (toliau – pirmojo arba antrojo laipsnio valstybinę pensiją) turi Lietuvos Respublikos piliečiai, ypač nusipelnę Lietuvai kurdami bei plėtodami jos valstybingumą, ūkį, kultūrą, mokslą, meną ir sportą, gindami valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką, labiausiai pasižymėję pasipriešinimo 1940–1990 metų okupacijoms dalyviai, taip pat motinos, pagimdžiusios ir išauginusios bei gerai išauklėjusios 7 ir daugiau vaikų, jei šie asmenys yra sukakę Valstybinių socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžių) arba pripažinti I ar II grupių invalidais. Asmenys, dirbę ypatingomis darbo sąlygomis, už kurias skiriama kompensacija pagal Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnį, turi teisę gauti pirmojo arba antrojo laipsnio valstybinę pensiją likus iki senatvės pensijos amžiaus tiek mėnesių, už kiek mėnesių kompensacija mokama.“
+„Teisę gauti Lietuvos Respublikos pirmojo arba antrojo laipsnio valstybinę pensiją (toliau – pirmojo arba antrojo laipsnio valstybinę pensiją) turi Lietuvos Respublikos piliečiai, ypač nusipelnę Lietuvai kurdami bei plėtodami jos valstybingumą, ūkį, kultūrą, mokslą, meną ir sportą, gindami valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką, labiausiai pasižymėję pasipriešinimo 1940–1990 metų okupacijoms dalyviai, taip pat motinos, pagimdžiusios ir išauginusios bei gerai išauklėjusios 7 ir daugiau vaikų, jei šie asmenys yra sukakę [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]] nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžių) arba pripažinti I ar II grupių invalidais. Asmenys, dirbę ypatingomis darbo sąlygomis, už kurias skiriama kompensacija pagal [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnį]], turi teisę gauti pirmojo arba antrojo laipsnio valstybinę pensiją likus iki senatvės pensijos amžiaus tiek mėnesių, už kiek mėnesių kompensacija mokama.“
 
 
 
-### 2 straipsnis. 5 straipsnio 7 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 7 dalies pakeitimas ^s-e197e87ab68d9dc4234ee49e
 
 
 5 straipsnio 7 dalyje vietoj skaičiaus ir žodžių „10 ir daugiau“ įrašyti skaičių ir žodžius „7 ir daugiau“ ir šią dalį išdėstyti taip:
 
 
-„Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir išauginusioms bei gerai išauklėjusioms 7 ir daugiau vaikų. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.“
+„Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir išauginusioms bei gerai išauklėjusioms 7 ir daugiau vaikų. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] ir kitų įstatymų nustatyta tvarka.“
 
 
 
-### 3 straipsnis. 6 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 5 dalies pakeitimas ^s-83d9230be92254f555c7ffb6
 
 
 6 straipsnio 5 dalyje vietoj skaičiaus „10“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip:
@@ -62,7 +67,7 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-1bb3a462d206d01954a55b0f
 
 
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.

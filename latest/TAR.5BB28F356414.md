@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5BB28F356414"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-16"
 latest_path: "latest/TAR.5BB28F356414.md"
 latest_sha256: "03e967b347863548ffa4e25ef818a48217ab79fe6db69629622f799c06463a34"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5BB28F356414]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5BB28F356414.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5BB28F356414
+- Ryšiai: [[Ryšiai/TAR.5BB28F356414|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 7 punkto pakeitimas
+### 1 straipsnis. 22 straipsnio 7 punkto pakeitimas ^s-ac7b5d4adbe9084efe40ea02
 
 
 Pakeisti 22 straipsnio 7 punktą ir jį išdėstyti taip:

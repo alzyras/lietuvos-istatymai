@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2F5D7B177286"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Turkijos Respublikos Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-01"
 latest_path: "latest/TAR.2F5D7B177286.md"
 latest_sha256: "bedeb1a42afb39adb44add3ecf3e660053f25cbec9efc0b1d96ddd6a77e062fb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2F5D7B177286]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2F5D7B177286.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2F5D7B177286
+- Ryšiai: [[Ryšiai/TAR.2F5D7B177286|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-82dc3eda834dfc5453db8886
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. birželio 14 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja 1998 m. lapkričio 24 d. Ankaroje pasirašytą Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo.

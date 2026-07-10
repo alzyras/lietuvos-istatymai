@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0AFB79D79346"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl apylinkių teismų teisėjų etatų skaičiaus\" pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl apylinkių teismų teisėjų etatų skaičiaus\" pripažinimo netekusiu galios įstatymas"
+  - "įstatymo \"Dėl apylinkių teismų teisėjų etatų skaičiaus\" pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-07-09"
 latest_path: "latest/TAR.0AFB79D79346.md"
 latest_sha256: "d02e4e071aef8c00e0115109a7b041940efe2a8c5c27bdc3a061b9ec3101d3fc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0AFB79D79346]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų skaičiaus" pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0AFB79D79346.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0AFB79D79346
+- Ryšiai: [[Ryšiai/TAR.0AFB79D79346|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-f6a2a9031b15e0d67da0ea76
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl apylinkių teismų teisėjų etatų skaičiaus“ (Žin., 1994, Nr. 25-396, Nr. 96-1877, Nr. 99-1960; 1998, Nr. 26-674).

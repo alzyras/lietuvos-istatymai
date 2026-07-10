@@ -11,7 +11,7 @@
   "latest_revision": "2002-07-17",
   "latest_sha256": "5215c8a7e33004a6e1e7e98c74fe4baa25bcbd341af2ff4fec3f85acf7fd32fc",
   "metadata_path": "latest/TAR.0DEDBEEF6035.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

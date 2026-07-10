@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.36445F5FCB1A"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "valstybės kontrolės įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.36445F5FCB1A.md"
 latest_sha256: "f01c8f3e87229d848380c020e189bf157be2b328e7491ad5ff68a3da45abc2a4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.36445F5FCB1A]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.36445F5FCB1A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.36445F5FCB1A
+- Ryšiai: [[Ryšiai/TAR.36445F5FCB1A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 3 dalies pakeitimas ^s-92fe0b74d9cc6980dbbb0053
 
 
 13 straipsnio 3 dalyje vietoj žodžių „leidinyje „Valstybės žinios“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-7f0f02b4e9b3704fb2223cde
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

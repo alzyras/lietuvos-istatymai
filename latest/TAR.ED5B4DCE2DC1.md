@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ED5B4DCE2DC1"
 pavadinimas: "Lietuvos Respublikos Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos ratifikavimo įstatymas"
+  - "Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-05"
 latest_path: "latest/TAR.ED5B4DCE2DC1.md"
 latest_sha256: "18e9060904ea42f8325b1ac8f52237e664b6df1d496af4822d4948857dd30559"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ED5B4DCE2DC1]]"
 ---
 # Lietuvos Respublikos Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ED5B4DCE2DC1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ED5B4DCE2DC1
+- Ryšiai: [[Ryšiai/TAR.ED5B4DCE2DC1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-86e62f479c00d1ef6ddf398d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją“, ratifikuoja su išlyga Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją, sudarytą 1992 m. gruodžio 15 d. Stokholme.
 
 
 
-### 2 straipsnis. Lietuvos Respublikos išlyga
+### 2 straipsnis. Lietuvos Respublikos išlyga ^s-0c2faea839a280b84d82b823
 
 
 Vadovaudamasi Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos 19 straipsnio 4 dalimi, Lietuvos Respublika pasilieka teisę į ginčų sprendimo procedūras, numatytas esamose ar būsimose Lietuvos Respublikos dvišalėse ar daugiašalėse tarptautinėse sutartyse, su sąlyga, kad šios procedūros gali būti pradėtos vienašališkai. Lietuvos Respublika taip pat pasilieka teisę perduoti konkretų ginčą ar keletą konkrečių ginčų spręsti pagal ginčų sprendimo procedūras, dėl kurių yra ar bus susitarta ad hoc.

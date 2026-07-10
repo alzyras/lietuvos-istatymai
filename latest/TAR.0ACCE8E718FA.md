@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0ACCE8E718FA"
 pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 5 straipsnio papildymo ir pakeitimo, Įstatymo papildymo 36-1 straipsniu ir Įstatymo priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekybinės laivybos įstatymo 5 straipsnio papildymo ir pakeitimo, Įstatymo papildymo 36-1 straipsniu ir Įstatymo priedo papildymo įstatymas"
+  - "prekybinės laivybos įstatymo 5 straipsnio papildymo ir pakeitimo, Įstatymo papildymo 36-1 straipsniu ir Įstatymo priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-04-24"
 latest_path: "latest/TAR.0ACCE8E718FA.md"
 latest_sha256: "970fa7c77235c0ee4975dfc8dcd8e8266f681d07541dd94656514037858281f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0ACCE8E718FA]]"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 5 straipsnio papildymo ir pakeitimo, Įstatymo papildymo 36-1 straipsniu ir Įstatymo priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0ACCE8E718FA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0ACCE8E718FA
+- Ryšiai: [[Ryšiai/TAR.0ACCE8E718FA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,20 +39,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 5 straipsnio papildymas ir pakeitimas ^s-0e3c16b375a601c3eab71a15
 
 
-1. Papildyti 5 straipsnį nauja 16 dalimi: ^ce28ec0bafcc302b76daab55
+1. Papildyti 5 straipsnį nauja 16 dalimi: ^s-a1bbd5345842f9b8891aca0d
 
 
-„16. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (toliau – Reglamentas (ES) Nr. 1177/2010), taikomas keleiviams, kurie keliauja šio reglamento [[#2 straipsnis. Įstatymo papildymas 361 straipsniu|2 straipsnio]] 1 ir [[#^9d504da0ee8dca9102662d88|2 dalyse]] nustatytomis sąlygomis.“
+„16. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (toliau – Reglamentas (ES) Nr. 1177/2010), taikomas keleiviams, kurie keliauja šio reglamento [[#^s-a829293a6b4f270c53d80a8d|2 straipsnio]] 1 ir [[#^s-4ce6079aa877184155ca2f77|2 dalyse]] nustatytomis sąlygomis.“
 
 
-2. Buvusias 5 straipsnio 16 ir 17 dalis laikyti atitinkamai 17 ir 18 dalimis. ^9d504da0ee8dca9102662d88
+2. Buvusias 5 straipsnio 16 ir 17 dalis laikyti atitinkamai 17 ir 18 dalimis. ^s-4ce6079aa877184155ca2f77
 
 
 
-### 2 straipsnis. Įstatymo papildymas 361 straipsniu
+### 2 straipsnis. Įstatymo papildymas 361 straipsniu ^s-a829293a6b4f270c53d80a8d
 
 
 Papildyti Įstatymą 361 straipsniu:
@@ -57,14 +62,14 @@ Papildyti Įstatymą 361 straipsniu:
 „361 straipsnis. Keleivių ir jūrų kruizų dalyvių teisių užtikrinimas ir skundų nagrinėjimas
 
 
-1. Lietuvos saugios laivybos administracija užtikrina Reglamento (ES) Nr. 1177/2010 nuostatų, susijusių su keleivių vežimo paslaugomis ir jūrų kruizais, išskyrus keleivių ir kruizų dalyvių skundų dėl jų teisių, nurodytų šiame reglamente, pažeidimų nagrinėjimą, vykdymą. ^1ffd3a8bf770d94059399c14
+1. Lietuvos saugios laivybos administracija užtikrina Reglamento (ES) Nr. 1177/2010 nuostatų, susijusių su keleivių vežimo paslaugomis ir jūrų kruizais, išskyrus keleivių ir kruizų dalyvių skundų dėl jų teisių, nurodytų šiame reglamente, pažeidimų nagrinėjimą, vykdymą. ^s-6786aadb299d2051cddae6c8
 
 
-2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių ir kruizų dalyvių skundus dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų Vartotojų teisių apsaugos įstatymo nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis ar kruizo dalyvis privalo pateikti skundą vežėjui, kruizo organizatoriui ar terminalo operatoriui.“ ^639937339135e25d3b534a82
+2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių ir kruizų dalyvių skundus dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis ar kruizo dalyvis privalo pateikti skundą vežėjui, kruizo organizatoriui ar terminalo operatoriui.“ ^s-3e96cf8e546a54d41d2eb6b4
 
 
 
-### 3 straipsnis. Įstatymo priedo papildymas 5 punktu
+### 3 straipsnis. Įstatymo priedo papildymas 5 punktu ^s-e89b0767db9aa4e3712e2ef1
 
 
 Papildyti Įstatymo priedą 5 punktu:

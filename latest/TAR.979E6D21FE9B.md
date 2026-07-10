@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.979E6D21FE9B"
 pavadinimas: "Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 10 straipsnio pakeitimo ir 11 straipsnio bei IV skyriaus pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 10 straipsnio pakeitimo ir 11 straipsnio bei IV skyriaus pripažinimo netekusiais galios įstatymas"
+  - "etninės kultūros valstybinės globos pagrindų įstatymo 10 straipsnio pakeitimo ir 11 straipsnio bei IV skyriaus pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-17"
 latest_path: "latest/TAR.979E6D21FE9B.md"
 latest_sha256: "c6fed1076fe1ee2c838ddcdf55af0d6ead1367bbe7330a7ec418b1d1ba99d4b0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.979E6D21FE9B]]"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 10 straipsnio pakeitimo ir 11 straipsnio bei IV skyriaus pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.979E6D21FE9B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.979E6D21FE9B
+- Ryšiai: [[Ryšiai/TAR.979E6D21FE9B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-1925111b7f64d4a143833697
 
 
 10 straipsnio 1 dalyje išbraukti žodžius „Etninės kultūros globos fondo“ ir „kultūros bei mokslo fondų“ ir šią dalį išdėstyti taip:
@@ -41,14 +46,14 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 11 straipsnio pripažinimas netekusiu galios ^s-8dc15666fe3baa025d81430f
 
 
 11 straipsnį pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. IV skyriaus pripažinimas netekusiu galios
+### 3 straipsnis. IV skyriaus pripažinimas netekusiu galios ^s-78f243e0fb7d56570b39708e
 
 
 IV skyrių pripažinti netekusiu galios.

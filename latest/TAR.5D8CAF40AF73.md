@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5D8CAF40AF73"
 pavadinimas: "Lietuvos Respublikos elektroninių ryšių įstatymo 3 ir 37 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektroninių ryšių įstatymo 3 ir 37 straipsnių pakeitimo ir papildymo įstatymas"
+  - "elektroninių ryšių įstatymo 3 ir 37 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.5D8CAF40AF73.md"
 latest_sha256: "875fa7077128a050ed58e00dd149ca077e3767812ff1de9f08e632566e887f71"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5D8CAF40AF73]]"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 3 ir 37 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5D8CAF40AF73.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5D8CAF40AF73
+- Ryšiai: [[Ryšiai/TAR.5D8CAF40AF73|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -42,29 +47,29 @@ l straipsnis. 3 straipsnio papildymas nauja 45 dalimi
 
 
 
-### 2 straipsnis. 37 straipsnio papildymas 5 ir 6 dalimis
+### 2 straipsnis. 37 straipsnio papildymas 5 ir 6 dalimis ^s-c2cb11df4ace85f589759108
 
 
-1. Papildyti 37 straipsnį 5 dalimi: ^a3b244847e4473c7faf89e85
+1. Papildyti 37 straipsnį 5 dalimi: ^s-bf95677f542a7404b266dc5d
 
 
 „5. Ryšių kabelių kanalų sistema laikoma kilnojamuoju daiktu.“
 
 
-2. Papildyti 37 straipsnį 6 dalimi: ^f983821b448adfaf50f6251a
+2. Papildyti 37 straipsnį 6 dalimi: ^s-2284799f86328bd29a9abe43
 
 
 „6. Valstybė plėtoja plačiajuosčio ryšio infrastruktūrą vietovėse, kuriose jos nėra ar kuriose nėra konkurencijos teikiant plačiajuosčio ryšio paslaugas. Viešosios plačiajuosčio ryšio infrastruktūros plėtrą koordinuoja ir įgyvendina Vyriausybės įgaliota institucija.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-887001785e0a1be6c2bcb2ce
 
 
-1. Šis įstatymas, išskyrus [[#^73af4b9dad9509082348d78a|šio straipsnio 2 dalį]], įsigalioja 2009 m. sausio 1 d. ^9fa50200c18eec3945cc48d2
+1. Šis įstatymas, išskyrus [[#^s-58885519f2e0cd5eae2c126e|šio straipsnio 2 dalį]], įsigalioja 2009 m. sausio 1 d. ^s-33fb3697de4cbde9d4c75f40
 
 
-2. Vyriausybė ar jos įgaliota institucija teisės aktų nustatyta tvarka patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^73af4b9dad9509082348d78a
+2. Vyriausybė ar jos įgaliota institucija teisės aktų nustatyta tvarka patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-58885519f2e0cd5eae2c126e
 
 
 

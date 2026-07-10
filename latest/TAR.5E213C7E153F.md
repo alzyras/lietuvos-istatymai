@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5E213C7E153F"
 pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas"
+  - "karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-01"
 latest_path: "latest/TAR.5E213C7E153F.md"
 latest_sha256: "c05af59f949b4db026098c7f309f0bc0bfcce9b9519fda6238b76d93d94df827"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5E213C7E153F]]"
 ---
 # Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5E213C7E153F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5E213C7E153F
+- Ryšiai: [[Ryšiai/TAR.5E213C7E153F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas ^s-227df46fcefbdb7e365e64ba
 
 
 Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 21 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 21 straipsnio 1 dalies pakeitimas ^s-9a502cd4be9c8ae716f84b78
 
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 32 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 32 straipsnio 1 dalies pakeitimas ^s-8e3f6e575c441279757e9344
 
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -65,7 +70,7 @@ Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 33 straipsnio pakeitimas
+### 4 straipsnis. 33 straipsnio pakeitimas ^s-80e28f8d19b70bb6476bfe6b
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
@@ -79,7 +84,7 @@ Saugotinų objektų, kurių veikla būtina norint užtikrinti gyvybiškai svarbi
 
 
 
-### 5 straipsnis. 37 straipsnio pakeitimas
+### 5 straipsnis. 37 straipsnio pakeitimas ^s-413911385520d842e92793ef
 
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
@@ -89,11 +94,11 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 „37 straipsnis. Rekvizicijos ir (ar) laikinojo paėmimo vykdymas
 
 
-Karo padėties metu turto rekvizicija ir (ar) laikinasis paėmimas gali būti vykdomi ir už rekvizuotą ir (ar) laikinai paimtą turtą atlyginama Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka.“
+Karo padėties metu turto rekvizicija ir (ar) laikinasis paėmimas gali būti vykdomi ir už rekvizuotą ir (ar) laikinai paimtą turtą atlyginama [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo]] nustatyta tvarka.“
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-8971fa90b6abb70f469e3aa1
 
 
 Šis įstatymas įsigalioja 2011 m. liepos 1 d.

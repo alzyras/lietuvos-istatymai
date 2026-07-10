@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.79320BF74F40"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-01-01"
 latest_path: "latest/TAR.79320BF74F40.md"
 latest_sha256: "20160855c66e302e73f142858b23fe0e59a754ea514ff7a50d6f38c55d8775b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.79320BF74F40]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.79320BF74F40.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.79320BF74F40
+- Ryšiai: [[Ryšiai/TAR.79320BF74F40|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,26 +41,26 @@ Vilnius
 
 
 
-### 1 straipsnis. Neteko galios nuo 2000-01-01
+### 1 straipsnis. Neteko galios nuo 2000-01-01 ^s-a70ec29ac84debebcdd1fd62
 Straipsnio naikinimas:
 Nr. VIII-1479, 1999-12-16, Žin. 1999, Nr. 113-3283 (1999-12-30), i. k. [[latest/TAR.B09DF76B324F|0991010ISTAIII-1479]]
 
 
 
-### 2 straipsnis. 7 straipsnio papildymas
+### 2 straipsnis. 7 straipsnio papildymas ^s-4f9c30452cc288f4921457c5
 
 
-[[#7 straipsnis. 26 straipsnio 3 dalies papildymas|7 straipsnyje]] po žodžių „Lietuvos Respublikos valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šį straipsnį išdėstyti taip:
+[[#^s-e368e6943ee508b0b5600e68|7 straipsnyje]] po žodžių „Lietuvos Respublikos valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#7 straipsnis. 26 straipsnio 3 dalies papildymas|7 straipsnis]]. Valstybinių socialinio draudimo pensijų mokėjimo šaltinis
+„[[#^s-e368e6943ee508b0b5600e68|7 straipsnis]]. Valstybinių socialinio draudimo pensijų mokėjimo šaltinis
 
 
 Valstybinės socialinio draudimo pensijos mokamos iš Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto.“
 
 
 
-### 3 straipsnis. 12 straipsnio 2 dalies papildymas
+### 3 straipsnis. 12 straipsnio 2 dalies papildymas ^s-ba37ee08a1907681760b18fb
 
 
 12 straipsnio 2 dalyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šią dalį išdėstyti taip:
@@ -65,35 +70,35 @@ Valstybinės socialinio draudimo pensijos mokamos iš Lietuvos Respublikos valst
 
 
 
-### 4 straipsnis. Neteko galios nuo 2000-01-01
+### 4 straipsnis. Neteko galios nuo 2000-01-01 ^s-6c5deb5bafab62da22360c11
 Straipsnio naikinimas:
 Nr. VIII-1479, 1999-12-16, Žin. 1999, Nr. 113-3283 (1999-12-30), i. k. [[latest/TAR.B09DF76B324F|0991010ISTAIII-1479]]
 
 
 
-### 5 straipsnis. 17 straipsnio pakeitimas
+### 5 straipsnis. 17 straipsnio pakeitimas ^s-bc83b539227a6af06d4b574e
 
 
 17 straipsnio 1 dalies 3 punktą ir 2 dalį pripažinti netekusiais galios, buvusią 3 dalį laikyti 2 dalimi, iš šios 2 dalies išbraukti žodį ir skaičių „ir 3“, vietoj žodžio „punktų“ įrašyti žodį „punkto“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#17 straipsnis. Įstatymo įsigaliojimas|17 straipsnis]]. Teisė gauti valstybinę socialinio draudimo senatvės pensiją
+„[[#^s-267aaf1669a2e897442ed318|17 straipsnis]]. Teisė gauti valstybinę socialinio draudimo senatvės pensiją
 
 
 Asmuo įgyja teisę gauti valstybinę socialinio draudimo senatvės pensiją, kai jis atitinka visas šias sąlygas:
 
 
-1) sukanka šio įstatymo nustatytą senatvės pensijos amžių; ^17779b9b57507e19934fb77d
+1) sukanka šio įstatymo nustatytą senatvės pensijos amžių; ^s-8d7c61277977faab3b2d84a8
 
 
-2) turi minimalų valstybinio socialinio pensijų draudimo stažą, nustatytą senatvės pensijai. ^d9be6e21043250d7b18abf23
+2) turi minimalų valstybinio socialinio pensijų draudimo stažą, nustatytą senatvės pensijai. ^s-e8e3a96e91bc016b61252bf1
 
 
-Asmuo turi atitikti šio straipsnio pirmosios [[#^d9be6e21043250d7b18abf23|dalies 2 punkto]] reikalavimus senatvės pensijos amžiaus sukakties dieną arba kreipimosi dėl pensijos dieną, kai pensijos kreipiamasi jau sukakus pensijos amžių.“
+Asmuo turi atitikti šio straipsnio pirmosios [[#^s-e8e3a96e91bc016b61252bf1|dalies 2 punkto]] reikalavimus senatvės pensijos amžiaus sukakties dieną arba kreipimosi dėl pensijos dieną, kai pensijos kreipiamasi jau sukakus pensijos amžių.“
 
 
 
-### 6 straipsnis. 24 straipsnio pakeitimas
+### 6 straipsnis. 24 straipsnio pakeitimas ^s-930130066b670d748fb98b4d
 
 
 24 straipsnio 2 dalyje vietoj žodžio „momento“ įrašyti žodį „dienos“, 5 dalį pripažinti netekusia galios, buvusią 6 dalį laikyti 5 dalimi, 5 dalyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šį straipsnį išdėstyti taip:
@@ -118,7 +123,7 @@ Valstybinio socialinio draudimo fondo tarybos sprendimu gali būti nustatytas di
 
 
 
-### 7 straipsnis. 26 straipsnio 3 dalies papildymas
+### 7 straipsnis. 26 straipsnio 3 dalies papildymas ^s-e368e6943ee508b0b5600e68
 
 
 26 straipsnio 3 dalyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šią dalį išdėstyti taip:
@@ -128,7 +133,7 @@ Valstybinio socialinio draudimo fondo tarybos sprendimu gali būti nustatytas di
 
 
 
-### 8 straipsnis. 27 straipsnio pakeitimas
+### 8 straipsnis. 27 straipsnio pakeitimas ^s-d9b2a2033bcdf3a84f13a54f
 
 
 Pakeisti 27 straipsnio 1 ir 2 dalis, 3 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
@@ -144,7 +149,7 @@ Asmuo, neturėjęs teisės gauti valstybinės socialinio draudimo invalidumo pen
 
 
 
-### 9 straipsnis. 28 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 28 straipsnio 1 dalies pakeitimas ^s-5aa6e324afece2ee9722a18d
 
 
 Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -154,23 +159,23 @@ Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 39 straipsnio 1 ir 3 dalių papildymas
+### 10 straipsnis. 39 straipsnio 1 ir 3 dalių papildymas ^s-37b1250198ee79851dec4778
 
 
-1. 39 straipsnio 1 dalyje vietoj žodžių „valstybinio socialinio draudimo“ įrašyti žodžius „Valstybinio socialinio draudimo fondo valdybos teritoriniame“ ir šią dalį išdėstyti taip: ^5506ef2810e1676fcc8ce695
+1. 39 straipsnio 1 dalyje vietoj žodžių „valstybinio socialinio draudimo“ įrašyti žodžius „Valstybinio socialinio draudimo fondo valdybos teritoriniame“ ir šią dalį išdėstyti taip: ^s-98dc54e49f1be814ceced187
 
 
 „Valstybinė socialinio draudimo pensija skiriama ir mokama nuo teisės gauti pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų pensijai skirti gavimo Valstybinio socialinio draudimo fondo valdybos teritoriniame skyriuje dienos.“
 
 
-2. 39 straipsnio 3 dalyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodžius „fondo valdybos teritorinis“ ir šią dalį išdėstyti taip: ^6b18a1e6648700797add0d39
+2. 39 straipsnio 3 dalyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodžius „fondo valdybos teritorinis“ ir šią dalį išdėstyti taip: ^s-e46a0e0a6d0794708df5c8ad
 
 
 „Valstybinės socialinio draudimo pensijos skiriamos iki gyvos galvos arba laikotarpiui, kuriam pensijos gavėjui pagal šį įstatymą išlieka teisė gauti paskirtą pensiją. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius, mokantis pensiją, privalo iš anksto informuoti pensininką apie pensijos skyrimo termino pasibaigimą.“
 
 
 
-### 11 straipsnis. 40 straipsnio 1 dalies pakeitimas
+### 11 straipsnis. 40 straipsnio 1 dalies pakeitimas ^s-684af578a88f83b133ad853e
 
 
 Iš 40 straipsnio 1 dalies išbraukti paskutinį sakinį ir šią dalį išdėstyti taip:
@@ -180,7 +185,7 @@ Iš 40 straipsnio 1 dalies išbraukti paskutinį sakinį ir šią dalį išdėst
 
 
 
-### 12 straipsnis. 42 straipsnio 2 dalies papildymas
+### 12 straipsnis. 42 straipsnio 2 dalies papildymas ^s-44a7b15150dbc404befc12cd
 
 
 42 straipsnio 2 dalyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šią dalį išdėstyti taip:
@@ -190,7 +195,7 @@ Iš 40 straipsnio 1 dalies išbraukti paskutinį sakinį ir šią dalį išdėst
 
 
 
-### 13 straipsnis. 43 straipsnio papildymas
+### 13 straipsnis. 43 straipsnio papildymas ^s-5f7df2b13c8fc53b23b8e74d
 
 
 43 straipsnio pavadinime, 1 ir 2 dalyse po žodžių „Valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šį straipsnį išdėstyti taip:
@@ -206,7 +211,7 @@ Valstybinio socialinio draudimo fondo valdybos ir jos skyrių sprendimai gali b�
 
 
 
-### 14 straipsnis. 45 straipsnio 5 dalies papildymas
+### 14 straipsnis. 45 straipsnio 5 dalies papildymas ^s-eb60dd00e7c0a55a60cf2c1d
 
 
 45 straipsnio 5 dalies pirmajame sakinyje po žodžių „Valstybinio socialinio draudimo“ įrašyti žodį „fondo“ ir šią dalį išdėstyti taip:
@@ -216,30 +221,30 @@ Valstybinio socialinio draudimo fondo valdybos ir jos skyrių sprendimai gali b�
 
 
 
-### 15 straipsnis. 49 straipsnio 2 dalies 1 punkto ir 3 dalies 1 punkto pakeitimas
+### 15 straipsnis. 49 straipsnio 2 dalies 1 punkto ir 3 dalies 1 punkto pakeitimas ^s-1cbc3e108be10decfbb7df22
 
 
-1. Iš 49 straipsnio 2 dalies 1 punkto išbraukti žodžius „o 27 straipsnio pirmosios dalies 2 punkto reikalavimai netaikomi“ ir šį punktą išdėstyti taip: ^f36b76938a0c0dc693be5ba0
-
-
-„1) skiriama invalidumo pensija pagal naują grupę ir naujus stažo bei draudžiamųjų pajamų duomenis;“.
-
-
-2. Iš 49 straipsnio 3 dalies 1 punkto išbraukti žodžius „o 27 straipsnio pirmosios dalies 2 punkto reikalavimai netaikomi“ ir šį punktą išdėstyti taip: ^01001f16716f906de59ee417
+1. Iš 49 straipsnio 2 dalies 1 punkto išbraukti žodžius „o 27 straipsnio pirmosios dalies 2 punkto reikalavimai netaikomi“ ir šį punktą išdėstyti taip: ^s-ff0fcf05ff8bbc2eee402b88
 
 
 „1) skiriama invalidumo pensija pagal naują grupę ir naujus stažo bei draudžiamųjų pajamų duomenis;“.
 
 
+2. Iš 49 straipsnio 3 dalies 1 punkto išbraukti žodžius „o 27 straipsnio pirmosios dalies 2 punkto reikalavimai netaikomi“ ir šį punktą išdėstyti taip: ^s-d0b5a4f2f6b123a835e8444f
 
-### 16 straipsnis. 51 straipsnio pripažinimas netekusiu galios
+
+„1) skiriama invalidumo pensija pagal naują grupę ir naujus stažo bei draudžiamųjų pajamų duomenis;“.
+
+
+
+### 16 straipsnis. 51 straipsnio pripažinimas netekusiu galios ^s-97dfa5386545e2fb6cb70b6d
 
 
 51 straipsnį pripažinti netekusiu galios.
 
 
 
-### 17 straipsnis. Įstatymo įsigaliojimas
+### 17 straipsnis. Įstatymo įsigaliojimas ^s-267aaf1669a2e897442ed318
 
 
 Šis įstatymas įsigalioja nuo 2000 m. sausio l d.
@@ -262,4 +267,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1479, 1999-12-16, Žin., 1999, Nr. 113-3283 (1999-12-30), i. k. [[latest/TAR.B09DF76B324F|0991010ISTAIII-1479]]
-Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 5, 6, 8, 10, 13, 14, 45, 52 straipsnių pakeitimo ir papildymo bei valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymo 1 ir [[#4 straipsnis. Neteko galios nuo 2000-01-01|4 straipsnių]] pripažinimo netekusiais galios įstatymas
+[[latest/TAR.B09DF76B324F|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 5, 6, 8, 10, 13, 14, 45, 52 straipsnių pakeitimo ir papildymo bei valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymo 1 ir 4 straipsnių pripažinimo netekusiais galios įstatymas]]

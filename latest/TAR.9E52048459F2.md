@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9E52048459F2"
 pavadinimas: "Dėl pastatų grąžinimo religinėms bendrijoms"
+aliases:
+  - "Dėl pastatų grąžinimo religinėms bendrijoms"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-03-03"
 latest_path: "latest/TAR.9E52048459F2.md"
 latest_sha256: "ff93dac40dc3c729d700ab5b48f9804c9020eb8362fe1390db69ff006cf1703c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9E52048459F2]]"
 ---
 # Dėl pastatų grąžinimo religinėms bendrijoms
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9E52048459F2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9E52048459F2
+- Ryšiai: [[Ryšiai/TAR.9E52048459F2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

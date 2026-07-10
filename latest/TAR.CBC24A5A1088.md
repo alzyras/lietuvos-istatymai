@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CBC24A5A1088"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.CBC24A5A1088.md"
 latest_sha256: "5c4ba9ce55f3842f5bb2d77496fda472ab9cbc5ab088c137192c331ac2a5c75d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CBC24A5A1088]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CBC24A5A1088.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CBC24A5A1088
+- Ryšiai: [[Ryšiai/TAR.CBC24A5A1088|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 1 dalies 6 punkto pakeitimas
+### 1 straipsnis. 22 straipsnio 1 dalies 6 punkto pakeitimas ^s-86f955f99bbf69ca9272c887
 
 
 22 straipsnio 1 dalies 6 punkte vietoj žodžių „kvotos organo, tardytojo, prokuroro nutarimas, teismo ar teisėjo nutartis nutraukti baudžiamąją bylą“ įrašyti žodžius „prokuroro nutarimas ar ikiteisminio tyrimo teisėjo sprendimas dėl ikiteisminio tyrimo nutraukimo“ ir šį punktą išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-17b8ebc0a69a2d12affaeadb
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

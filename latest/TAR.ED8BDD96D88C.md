@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ED8BDD96D88C"
 pavadinimas: "Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.ED8BDD96D88C.md"
 latest_sha256: "83ce7214a188d9b50a1aa4c9a9f050ebd516d3cff0b3895a85a5c20018979833"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ED8BDD96D88C]]"
 ---
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ED8BDD96D88C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ED8BDD96D88C
+- Ryšiai: [[Ryšiai/TAR.ED8BDD96D88C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio pakeitimas
+### 1 straipsnis. 10 straipsnio pakeitimas ^s-bcf2d246355e78dc69001b39
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:

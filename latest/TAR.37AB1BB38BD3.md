@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.37AB1BB38BD3"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 28, 31, 32, 40, 62, 80 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 28, 31, 32, 40, 62, 80 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 2, 3, 28, 31, 32, 40, 62, 80 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-01"
 latest_path: "latest/TAR.37AB1BB38BD3.md"
 latest_sha256: "d11e94723491c52848f4a0a72007860bb88cd27453c559750b2495669b68555b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.37AB1BB38BD3]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 28, 31, 32, 40, 62, 80 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.37AB1BB38BD3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.37AB1BB38BD3
+- Ryšiai: [[Ryšiai/TAR.37AB1BB38BD3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,41 +39,41 @@ Nr. 117-4370; 2005, Nr. 81-2944; 2006, Nr. 137-5203)
 
 
 
-### 1 straipsnis. 2 straipsnio 1, 8, 30, 36 ir 40 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 1, 8, 30, 36 ir 40 dalių pakeitimas ^s-64c5d8b5280e84ddf910c8a3
 
 
-1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^5d585118f6fc716c1d13143e
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-a926cd4334199f7a5751637d
 
 
-„1. Akcizais apmokestinamos prekės – etilo alkoholis ir alkoholiniai gėrimai, apdorotas tabakas ir energetiniai produktai, kaip tai apibrėžta Lietuvos Respublikos akcizų įstatyme, išskyrus gamtinių dujų sistemomis tiekiamas gamtines dujas ir elektros energiją.“
+„1. Akcizais apmokestinamos prekės – etilo alkoholis ir alkoholiniai gėrimai, apdorotas tabakas ir energetiniai produktai, kaip tai apibrėžta [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatyme]], išskyrus gamtinių dujų sistemomis tiekiamas gamtines dujas ir elektros energiją.“
 
 
-2. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip: ^851b344f4c5bdec471d89331
+2. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip: ^s-86a42fd858f488836e8a320e
 
 
 „8. Europos Bendrijų teritorija – teritorija, kurioje taikomos 2006 m. lapkričio 28 d. Tarybos direktyvos 2006/112/ EB dėl pridėtinės vertės mokesčio bendros sistemos (toliau – Direktyva 2006/112/EB) nuostatos.“
 
 
-3. Pakeisti 2 straipsnio 30 dalį ir ją išdėstyti taip: ^c3c15c959878ea2140e820af
+3. Pakeisti 2 straipsnio 30 dalį ir ją išdėstyti taip: ^s-1720eca9ec0d7a69e5a2464b
 
 
 „30. Rinkos kaina – atlygis, kurį sandorio sudarymo metu sąžiningos konkurencijos sąlygomis, kai prekių pardavėjas arba paslaugų teikėjas ir šių prekių arba paslaugų pirkėjas nėra susiję ir kiekvienas iš jų siekia sau maksimalios ekonominės naudos, mokėtų pirkėjas siekdamas įsigyti prekę arba paslaugą toje valstybėje narėje, kurioje sandoris yra apmokestinamas.“
 
 
-4. 2 straipsnio 36 dalyje vietoj skaičių ir santrumpos „77/388/EEB“ įrašyti skaičius ir santrumpą „2006/112/EB“ ir šią dalį išdėstyti taip: ^2a3264974399f315ed239f5e
+4. 2 straipsnio 36 dalyje vietoj skaičių ir santrumpos „77/388/EEB“ įrašyti skaičius ir santrumpą „2006/112/EB“ ir šią dalį išdėstyti taip: ^s-f1e7733fcb207b020470e4af
 
 
 „36. Trečiosios teritorijos – remiantis Direktyva 2006/112/EB finansų ministro patvirtintame sąraše nurodytos teritorijos, kuriose netaikomos šios direktyvos nuostatos.“
 
 
-5. 2 straipsnio 40 dalyje vietoj skaičių ir santrumpos „77/388/EEB“ įrašyti skaičius ir santrumpą „2006/112/EB“ ir šią dalį išdėstyti taip: ^c2abc2536fcb756da086d9c2
+5. 2 straipsnio 40 dalyje vietoj skaičių ir santrumpos „77/388/EEB“ įrašyti skaičius ir santrumpą „2006/112/EB“ ir šią dalį išdėstyti taip: ^s-f6ff116631dcb25377cb69ba
 
 
 „40. Valstybė narė (arba valstybės narės teritorija) – Europos Sąjungos valstybės narės teritorija, išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir teritorijos, kuriose, remiantis Direktyvos 2006/112/EB nuostatomis, sudaryti ar kurioms skirti sandoriai laikomi toje valstybėje narėje sudarytais ar jai skirtais sandoriais.“
 
 
 
-### 2 straipsnis. 3 straipsnio 2 dalies 1 punkto pakeitimas
+### 2 straipsnis. 3 straipsnio 2 dalies 1 punkto pakeitimas ^s-33cf1d62162dde137eb2f544
 
 
 Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
@@ -80,7 +85,7 @@ Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 28 straipsnio 7 dalies pakeitimas
+### 3 straipsnis. 28 straipsnio 7 dalies pakeitimas ^s-5737fa9c19f3289d31c58f97
 
 
 28 straipsnio 7 dalyje po žodžių „(klientas) yra“ įrašyti žodžius „apmokestinamasis asmuo“ ir šią dalį išdėstyti taip:
@@ -90,7 +95,7 @@ Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 31 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 31 straipsnio 3 dalies pakeitimas ^s-ee74a955f8e61739bdde850a
 
 
 31 straipsnio 3 dalyje po žodžių „daiktas nuomojamas“ įrašyti žodžius „apmokestinamajam asmeniui“ ir šią dalį išdėstyti taip:
@@ -100,7 +105,7 @@ Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 32 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 32 straipsnio 3 dalies pakeitimas ^s-9c5bee358eda03505fab0770
 
 
 32 straipsnio 3 dalyje prieš žodžius „PVM mokėtojui“ įrašyti žodžius „apmokestinamajam asmeniui“ ir šią dalį išdėstyti taip:
@@ -110,28 +115,28 @@ Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 40 straipsnio pakeitimas ir papildymas
+### 6 straipsnis. 40 straipsnio pakeitimas ir papildymas ^s-024de980cb4de416bce2972d
 
 
-1. Papildyti 40 straipsnio 4 dalį 5 punktu: ^443f355c6d18d17bccf42bd0
+1. Papildyti 40 straipsnio 4 dalį 5 punktu: ^s-a5c43816ea5e291caf78f7fe
 
 
 „5) siuntmenoje esančios kavos svoris neviršija 500 gramų (arba kavos ekstrakto ir esencijos – 200 gramų), arbatos svoris neviršija 100 gramų (arba arbatos ekstrakto ir esencijos – 40 gramų).“
 
 
-2. Papildyti 40 straipsnį nauja 6 dalimi: ^aeeb677c5633759d21163071
+2. Papildyti 40 straipsnį nauja 6 dalimi: ^s-0e6d6fa66a1781167783ed72
 
 
 „6. Importo PVM neapmokestinamos importuojamos Lietuvoje surenkamos arba instaliuojamos prekės, už kurias PVM pagal šio Įstatymo 95 straipsnio 3 dalies 6 punkto nuostatas privalo apskaičiuoti ir sumokėti į biudžetą šių prekių pirkėjas, jeigu jis yra PVM mokėtojas.“
 
 
-3. Buvusią 40 straipsnio 6 dalį laikyti 7 dalimi. ^47b6d09c70badbf7b01d75dd
+3. Buvusią 40 straipsnio 6 dalį laikyti 7 dalimi. ^s-5ae709e6ef6f36b44fb03258
 
 
 
 
 
-### 7 straipsnis. 62 straipsnio 2 dalies 3 punkto pakeitimas
+### 7 straipsnis. 62 straipsnio 2 dalies 3 punkto pakeitimas ^s-9ccab5fe34c88832e56216e6
 
 
 62 straipsnio 2 dalies 3 punkte išbraukti žodžius „arba mokymo vairuoti“ ir šį punktą išdėstyti taip:
@@ -141,23 +146,23 @@ Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. 80 straipsnio 1 dalies 13 ir 15 punktų pakeitimas
+### 8 straipsnis. 80 straipsnio 1 dalies 13 ir 15 punktų pakeitimas ^s-f1b4a9edf877c5fda99ec32b
 
 
-1. Pakeisti 80 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^2d342605b42ae22273fefff7
+1. Pakeisti 80 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^s-cc68bd2c05e90f1976894b94
 
 
 „13) kai įforminamas prekių ir (arba) paslaugų, kurios neapmokestinamos, apmokestinamos taikant 0 procentų PVM tarifą arba už kurias prievolė apskaičiuoti (arba išskaityti) ir sumokėti PVM tenka pirkėjui (klientui), tiekimas (teikimas), – nuoroda į atitinkamą šio Įstatymo arba Direktyvos 2006/112/EB nuostatą arba bet kokia kita nuoroda, kad prekės (paslaugos) neapmokestinamos, apmokestinamos taikant 0 procentų PVM tarifą ir (arba) už jas prievolė apskaičiuoti (arba išskaityti) ir sumokėti PVM tenka pirkėjui (klientui);“.
 
 
-2. Pakeisti 80 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip: ^07f775d7f7d78fadc7af4131
+2. Pakeisti 80 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip: ^s-2767a98dfdc717d46a7fde26
 
 
 „15) nuoroda į atitinkamą šio Įstatymo arba Direktyvos 2006/112/EB nuostatą arba bet kokia kita nuoroda, kad taikoma speciali turizmo paslaugų arba naudotų prekių, meno kūrinių, kolekcinių ir antikvarinių daiktų apmokestinimo PVM schema, – kai taikoma speciali turizmo paslaugų apmokestinimo PVM schema, nurodyta šio Įstatymo XII skyriaus antrajame skirsnyje, arba speciali naudotų prekių, meno kūrinių, kolekcinių ir antikvarinių daiktų apmokestinimo PVM schema, nurodyta šio Įstatymo XII skyriaus trečiajame skirsnyje;“.
 
 
 
-### 9 straipsnis. Įstatymo 2 priedo pakeitimas
+### 9 straipsnis. Įstatymo 2 priedo pakeitimas ^s-a44ef9818d0291d7329745fa
 
 
 Pakeisti Įstatymo 2 priedą ir jį išdėstyti taip:
@@ -168,39 +173,39 @@ pridėtinės vertės mokesčio
 įstatymo
 2 priedas
 
-EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO NUOSTATOS
+EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTOS [[latest/TAR.ED68997709F5|PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO]] NUOSTATOS
 
 
 
-1. 1969 m. gegužės 28 d. Tarybos direktyva 69/169/EEB dėl įstatymais ir kitais teisės aktais nustatytų nuostatų dėl tarptautiniais maršrutais keliaujančių asmenų importuojamų prekių atleidimo nuo apyvartos ir akcizo mokesčių suderinimo (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 8), su paskutiniais pakeitimais, padarytais 1994 m. vasario 14 d. Tarybos direktyva 94/4/EB (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 253). ^a9ceaf4361191f270474d0ef
+1. 1969 m. gegužės 28 d. Tarybos direktyva 69/169/EEB dėl įstatymais ir kitais teisės aktais nustatytų nuostatų dėl tarptautiniais maršrutais keliaujančių asmenų importuojamų prekių atleidimo nuo apyvartos ir akcizo mokesčių suderinimo (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 8), su paskutiniais pakeitimais, padarytais 1994 m. vasario 14 d. Tarybos direktyva 94/4/EB (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 253). ^s-b3a3a233ae50f88970484098
 
 
-2. 1979 m. gruodžio 6 d. Aštuntoji Tarybos direktyva 79/1072/EEB dėl valstybių narių apyvartos mokesčių įstatymų suderinimo – pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę šalies teritorijoje, tvarka (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 79). ^3e0fedd744d33c90a6852c18
+2. 1979 m. gruodžio 6 d. Aštuntoji Tarybos direktyva 79/1072/EEB dėl valstybių narių apyvartos mokesčių įstatymų suderinimo – pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę šalies teritorijoje, tvarka (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 79). ^s-0b7d7dcccf9c89751a296c9a
 
 
-3. 1983 m. kovo 28 d. Tarybos direktyva 83/181/EEB dėl Direktyvos 77/388/EEB 14 straipsnio 1 dalies taikymo atleidžiant galutinį tam tikrų prekių importą nuo pridėtinės vertės mokesčio (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 91), su paskutiniais pakeitimais, padarytais 1989 m. kovo 7 d. Komisijos direktyva 89/219/EEB (OL 2004m. specialusis leidimas, 9 skyrius, 1 tomas, p. 135). ^ecfc0112beb6b5672a37a80c
+3. 1983 m. kovo 28 d. Tarybos direktyva 83/181/EEB dėl Direktyvos 77/388/EEB 14 straipsnio 1 dalies taikymo atleidžiant galutinį tam tikrų prekių importą nuo pridėtinės vertės mokesčio (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 91), su paskutiniais pakeitimais, padarytais 1989 m. kovo 7 d. Komisijos direktyva 89/219/EEB (OL 2004m. specialusis leidimas, 9 skyrius, 1 tomas, p. 135). ^s-60bf66d7c9c4134793b62a32
 
 
-4. 1986 m. lapkričio 17 d. Tryliktoji Tarybos direktyva 86/560/EEB dėl valstybių narių apyvartos mokesčių įstatymų suderinimo – pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę Bendrijos teritorijoje, tvarka (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 129). ^ad0fc76de9fce00a785792ef
+4. 1986 m. lapkričio 17 d. Tryliktoji Tarybos direktyva 86/560/EEB dėl valstybių narių apyvartos mokesčių įstatymų suderinimo – pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę Bendrijos teritorijoje, tvarka (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 129). ^s-d6e8d151bee3f8f0ee0f2149
 
 
-5. 2006 m. liepos 24 d. Tarybos direktyva 2006/69/EB iš dalies keičianti Direktyvos 77/388/EEB nuostatas, susijusias su tam tikromis priemonėmis, kuriomis siekiama supaprastinti apmokestinimo pridėtinės vertės mokesčiu tvarką ir padėti užkirsti kelią mokesčių slėpimui ar vengimui, bei panaikinanti tam tikrus sprendimus dėl leidžiančių nukrypti nuostatų (OL 2006 L 221, p. 9). ^b738bf65b8dcffb42dc9ceff
+5. 2006 m. liepos 24 d. Tarybos direktyva 2006/69/EB iš dalies keičianti Direktyvos 77/388/EEB nuostatas, susijusias su tam tikromis priemonėmis, kuriomis siekiama supaprastinti apmokestinimo pridėtinės vertės mokesčiu tvarką ir padėti užkirsti kelią mokesčių slėpimui ar vengimui, bei panaikinanti tam tikrus sprendimus dėl leidžiančių nukrypti nuostatų (OL 2006 L 221, p. 9). ^s-d820aea1888a89fb44ff3f53
 
 
-6. 2006 m. spalio 5 d. Tarybos direktyva 2006/79/EB dėl nekomercinio pobūdžio smulkių prekių siuntų importo iš trečiųjų šalių atleidimo nuo mokesčių (kodifikuota redakcija) (OL 2006 L 286, p. 15). ^1a8690e705c26387438d7854
+6. 2006 m. spalio 5 d. Tarybos direktyva 2006/79/EB dėl nekomercinio pobūdžio smulkių prekių siuntų importo iš trečiųjų šalių atleidimo nuo mokesčių (kodifikuota redakcija) (OL 2006 L 286, p. 15). ^s-fb4c26252af6e3a11e8defc6
 
 
-7. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos (OL 2006 L 347, p. 1). ^3e68b514b7cd833b1611dd6b
+7. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos (OL 2006 L 347, p. 1). ^s-34a1e061730765ff3805319c
 
 
-8. 2006 m. gruodžio 19 d. Tarybos direktyva 2006/138/EB, iš dalies keičianti Tarybos direktyvos 2006/112/EB dėl bendros pridėtinės vertės mokesčio sistemos nuostatas dėl pridėtinės vertės mokesčio priemonių, taikomų radijo ir televizijos transliacijų paslaugoms ir tam tikroms elektroninėmis priemonėmis teikiamoms paslaugoms, taikymo laikotarpio (OL 2006 L 384, p. 92).“ ^c6d42dd94c33ff4e8ed46369
+8. 2006 m. gruodžio 19 d. Tarybos direktyva 2006/138/EB, iš dalies keičianti Tarybos direktyvos 2006/112/EB dėl bendros pridėtinės vertės mokesčio sistemos nuostatas dėl pridėtinės vertės mokesčio priemonių, taikomų radijo ir televizijos transliacijų paslaugoms ir tam tikroms elektroninėmis priemonėmis teikiamoms paslaugoms, taikymo laikotarpio (OL 2006 L 384, p. 92).“ ^s-e46f1c92d4f0f0fb5d39c735
 
 
 
-### 10 straipsnis. Įstatymo įsigaliojimas
+### 10 straipsnis. Įstatymo įsigaliojimas ^s-f8133bf3ffd256a22b64be81
 
 
-Šio įstatymo [[#1 straipsnis. 2 straipsnio 1, 8, 30, 36 ir 40 dalių pakeitimas|1 straipsnio]] 1 ir 3 dalys įsigalioja 2008 m. sausio 1 d.
+Šio įstatymo [[#^s-64c5d8b5280e84ddf910c8a3|1 straipsnio]] 1 ir 3 dalys įsigalioja 2008 m. sausio 1 d.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą
 

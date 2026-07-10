@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8829877B34F"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio ir priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio ir priedėlio pakeitimo įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio ir priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-01"
 latest_path: "latest/TAR.C8829877B34F.md"
 latest_sha256: "e86eafee3aedbd71d842b56001c02713b7e58142d859e678b6afcd34cafcbd04"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8829877B34F]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio ir priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8829877B34F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8829877B34F
+- Ryšiai: [[Ryšiai/TAR.C8829877B34F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-4762a51fcc7573fc87089405
 
 
 12 straipsnio 2 dalyje vietoj skaičiaus ir žodžio „7 procentais“ įrašyti skaičių ir žodį „19 procentų“ ir šią dalį išdėstyti taip:
@@ -41,23 +46,23 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo priedėlio pakeitimas
+### 2 straipsnis. Įstatymo priedėlio pakeitimas ^s-48a78bfc71acf4fd8b0f4239
 
 
-1. Įstatymo priedėlio eilutėje „Palangos miesto“ vietoj skaičiaus „70“ įrašyti skaičių „100“ ir šią eilutę išdėstyti taip: ^d87b7c522da00f0a11851dd8
+1. Įstatymo priedėlio eilutėje „Palangos miesto“ vietoj skaičiaus „70“ įrašyti skaičių „100“ ir šią eilutę išdėstyti taip: ^s-e93d2a91d05cb5100893ce65
 
 
 „Palangos miesto 100“.
 
 
-2. Įstatymo priedėlio eilutėje „Mažeikių rajono“ vietoj skaičiaus „55“ įrašyti skaičių „90“ ir šią eilutę išdėstyti taip: ^ebd8277bd42d47d438bbbcbc
+2. Įstatymo priedėlio eilutėje „Mažeikių rajono“ vietoj skaičiaus „55“ įrašyti skaičių „90“ ir šią eilutę išdėstyti taip: ^s-a13b6ddc53656a10c658e8fb
 
 
 „Mažeikių rajono 90“.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ee98310ffeb42324f347b2db
 
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.

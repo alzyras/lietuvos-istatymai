@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.39D82F3BF9BD"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-30"
 latest_path: "latest/TAR.39D82F3BF9BD.md"
 latest_sha256: "db633a3d55788dcdec2c52beed1e9820dd70571c94c4e0a7eca75a61e6b72ddf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.39D82F3BF9BD]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.39D82F3BF9BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.39D82F3BF9BD
+- Ryšiai: [[Ryšiai/TAR.39D82F3BF9BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-259ba9607621c891bf585e76
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. gruodžio 4 d. dekretą Nr. 1K-1182, ratifikuoja 2007 m. rugpjūčio 29 d. Skopjėje sudarytą Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.

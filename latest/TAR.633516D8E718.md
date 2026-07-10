@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.633516D8E718"
 pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-30"
 latest_path: "latest/TAR.633516D8E718.md"
 latest_sha256: "2e999d2cb83477193d99527b5a8a6606bb14e24aa70e73e7b3969406621d963d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.633516D8E718]]"
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.633516D8E718.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.633516D8E718
+- Ryšiai: [[Ryšiai/TAR.633516D8E718|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-41308484f1c63c20d5a993cc
 
 
 2 straipsnio 1 dalyje vietoj skaičiaus „2004“ įrašyti skaičių „2005“ ir šią dalį išdėstyti taip:

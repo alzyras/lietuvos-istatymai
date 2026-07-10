@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.06ACF15E8516"
 pavadinimas: "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 6, 65 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 6, 65 straipsnių pakeitimo ir papildymo įstatymas"
+  - "atsinaujinančių išteklių energetikos įstatymo 6, 65 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-05"
 latest_path: "latest/TAR.06ACF15E8516.md"
 latest_sha256: "94abae5f821bb5be308065edabe125d245495a952097c91d83e3f5c58deb0b82"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.06ACF15E8516]]"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 6, 65 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.06ACF15E8516.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.06ACF15E8516
+- Ryšiai: [[Ryšiai/TAR.06ACF15E8516|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 9 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 9 punkto pakeitimas ^s-313b4f508c9b56e1a17a686d
 
 
 Pakeisti 6 straipsnio 9 punktą ir jį išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 6 straipsnio 9 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 65 straipsnio papildymas 3 dalimi
+### 2 straipsnis. 65 straipsnio papildymas 3 dalimi ^s-6072ec7209f9a1ae2b846333
 
 
 Papildyti 65 straipsnį 3 dalimi:
 
 
-„3. Biokuru, biodegalais, biodujomis, biotepalais ir bioalyvomis prekiaujama pagal dvišales pirkimo–pardavimo sutartis ir kitais teisės aktuose nustatytais būdais. Prekybos biokuru, biodegalais, biodujomis, biotepalais ir bioalyvomis tvarka nustatoma Energetikos ministerijos patvirtintose Biokuro, biodegalų, biodujų, biotepalų ir bioalyvų prekybos taisyklėse, atsižvelgiant į šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytus biodujų supirkimo reikalavimus. Centralizuota prekyba biokuru organizuojama Lietuvos Respublikos energijos išteklių rinkos įstatymo nustatyta tvarka ir sąlygomis.“
+„3. Biokuru, biodegalais, biodujomis, biotepalais ir bioalyvomis prekiaujama pagal dvišales pirkimo–pardavimo sutartis ir kitais teisės aktuose nustatytais būdais. Prekybos biokuru, biodegalais, biodujomis, biotepalais ir bioalyvomis tvarka nustatoma Energetikos ministerijos patvirtintose Biokuro, biodegalų, biodujų, biotepalų ir bioalyvų prekybos taisyklėse, atsižvelgiant į šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytus biodujų supirkimo reikalavimus. Centralizuota prekyba biokuru organizuojama [[latest/TAR.A516DE6B7EC2|Lietuvos Respublikos energijos išteklių rinkos įstatymo]] nustatyta tvarka ir sąlygomis.“
 
 
 

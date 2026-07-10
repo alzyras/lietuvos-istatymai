@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0EB830B086D0"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 19 straipsnių pakeitimo, įstatymo papildymo 18-1 straipsniu ir 3 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 19 straipsnių pakeitimo, įstatymo papildymo 18-1 straipsniu ir 3 priedo pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 4, 19 straipsnių pakeitimo, įstatymo papildymo 18-1 straipsniu ir 3 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-10-18"
 latest_path: "latest/TAR.0EB830B086D0.md"
 latest_sha256: "2962d36240bbdeb788bbcfcfd488e60d87c9f14abe94848ae63931e676a73d22"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0EB830B086D0]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 19 straipsnių pakeitimo, įstatymo papildymo 18-1 straipsniu ir 3 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0EB830B086D0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0EB830B086D0
+- Ryšiai: [[Ryšiai/TAR.0EB830B086D0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,17 +38,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-2aab221ae979716c8b38017c
 
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Statutiniams valstybės tarnautojams šio Įstatymo 16 straipsnio 4 ir 5 dalys, 181 straipsnis, 19 straipsnis, 39 straipsnio 1 dalis, 43 straipsnio 5 dalies 9 punktas ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja statutai ar Diplomatinės tarnybos įstatymas.“
+„2. Statutiniams valstybės tarnautojams šio Įstatymo 16 straipsnio 4 ir 5 dalys, 181 straipsnis, 19 straipsnis, 39 straipsnio 1 dalis, 43 straipsnio 5 dalies 9 punktas ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja statutai ar [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymas]].“
 
 
 
-### 2 straipsnis. Įstatymo papildymas 181 straipsniu
+### 2 straipsnis. Įstatymo papildymas 181 straipsniu ^s-c33eead75a625904e8c0fa56
 
 
 Papildyti Įstatymą 181 straipsniu:
@@ -53,48 +58,48 @@ Papildyti Įstatymą 181 straipsniu:
 „181 straipsnis. Statutinių valstybės tarnautojų laikinas perkėlimas į kitas valstybės tarnautojų pareigas
 
 
-1. Statutinį valstybės tarnautoją į pareigas priėmęs asmuo turi teisę jį laikinai perkelti į kitas valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, esančioje toje pačioje arba kitoje gyvenamojoje vietovėje, kai yra tarnybinė būtinybė ir institucijų ar įstaigų vadovai šį klausimą suderina. ^f58cf0555bca0822e450190b
+1. Statutinį valstybės tarnautoją į pareigas priėmęs asmuo turi teisę jį laikinai perkelti į kitas valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, esančioje toje pačioje arba kitoje gyvenamojoje vietovėje, kai yra tarnybinė būtinybė ir institucijų ar įstaigų vadovai šį klausimą suderina. ^s-1eab5b98f3132d52cb13f5f9
 
 
-2. Statutinį valstybės tarnautoją laikinai perkelti į kitas pareigas galima tik jo rašytiniu sutikimu, išskyrus karo padėties, nepaprastosios padėties ar ypatingų situacijų atvejus. ^6ab7ff26650cef6924740897
+2. Statutinį valstybės tarnautoją laikinai perkelti į kitas pareigas galima tik jo rašytiniu sutikimu, išskyrus karo padėties, nepaprastosios padėties ar ypatingų situacijų atvejus. ^s-487d021fc40c6d07f3c41863
 
 
-3. Statutinis valstybės tarnautojas šiame straipsnyje nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija. ^97e9ffa2420072768291a6e7
+3. Statutinis valstybės tarnautojas šiame straipsnyje nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija. ^s-378c9acd803403a97dab5d4c
 
 
-4. Laikinai perkeltam į kitas pareigas statutiniam valstybės tarnautojui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.“ ^33f86b379b5fe337427896da
+4. Laikinai perkeltam į kitas pareigas statutiniam valstybės tarnautojui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.“ ^s-aae0de527216057114dd8b71
 
 
 
-### 3 straipsnis. 19 straipsnio 1, 2, 5 ir 6 dalių pakeitimas
+### 3 straipsnis. 19 straipsnio 1, 2, 5 ir 6 dalių pakeitimas ^s-9b3426906060c2b7c2ecc0fa
 
 
-1. 19 straipsnio 1 dalyje po žodžių „Karjeros valstybės tarnautojas“ įrašyti žodžius „arba statutinis valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^92525a98ead57deaa3cc47e4
+1. 19 straipsnio 1 dalyje po žodžių „Karjeros valstybės tarnautojas“ įrašyti žodžius „arba statutinis valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^s-fbc611dd2e6b6920dd5ee19f
 
 
 „1. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas jo rašytiniu sutikimu gali būti perkeltas į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat dirbti į specialiąsias misijas.“
 
 
-2. 19 straipsnio 2 dalyje po žodžių „Karjeros valstybės tarnautojas“ įrašyti žodžius „arba statutinis valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^05d85c19d060a0f94ac99358
+2. 19 straipsnio 2 dalyje po žodžių „Karjeros valstybės tarnautojas“ įrašyti žodžius „arba statutinis valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^s-4e592734692404464a04cc2c
 
 
-„2. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas į [[#^92525a98ead57deaa3cc47e4|šio straipsnio 1 dalyje]] nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
+„2. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas į [[#^s-fbc611dd2e6b6920dd5ee19f|šio straipsnio 1 dalyje]] nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
 
 
-3. 19 straipsnio 5 dalyje po žodžių „Karjeros valstybės tarnautojas“ įrašyti žodžius „arba statutinis valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^acebd39e67c5d84bc4bc4e79
+3. 19 straipsnio 5 dalyje po žodžių „Karjeros valstybės tarnautojas“ įrašyti žodžius „arba statutinis valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^s-3b03dfc7b3a10282809fbece
 
 
 „5. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas gali būti perkeltas į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, jeigu jis atitinka pareigybės, į kurią perkeliama, aprašyme nustatytus specialius reikalavimus.“
 
 
-4. 19 straipsnio 6 dalyje po žodžių „Karjeros valstybės tarnautojų“ įrašyti žodžius „arba statutinių valstybės tarnautojų“ ir šią dalį išdėstyti taip: ^0b57e339768917e458c9ecc9
+4. 19 straipsnio 6 dalyje po žodžių „Karjeros valstybės tarnautojų“ įrašyti žodžius „arba statutinių valstybės tarnautojų“ ir šią dalį išdėstyti taip: ^s-146a54e7633d906b8b2c3619
 
 
-„6. Karjeros valstybės tarnautojų arba statutinių valstybės tarnautojų perkėlimo į [[#^92525a98ead57deaa3cc47e4|šio straipsnio 1 dalyje]] nurodytas pareigas ir atšaukimo iš šių pareigų tvarką, socialinių garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai.“
+„6. Karjeros valstybės tarnautojų arba statutinių valstybės tarnautojų perkėlimo į [[#^s-fbc611dd2e6b6920dd5ee19f|šio straipsnio 1 dalyje]] nurodytas pareigas ir atšaukimo iš šių pareigų tvarką, socialinių garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai.“
 
 
 
-### 4 straipsnis. Įstatymo 3 priedo pakeitimas
+### 4 straipsnis. Įstatymo 3 priedo pakeitimas ^s-a08fe7b3f2d7cb559165f843
 
 
 Pakeisti Įstatymo 3 priedą ir jį išdėstyti taip:
@@ -102,14 +107,14 @@ Pakeisti Įstatymo 3 priedą ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-valstybės tarnybos įstatymo
+[[latest/TAR.D3ED3792F52B|valstybės tarnybos įstatymo]]
 3 priedas
 
 VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
-## I. 2008 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+## I. 2008 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS ^s-e6984b6d6cf8f33c0093cfed
 
 
 
@@ -128,7 +133,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  V
 
 
- Diplomatinės tarnybos įstatymo
+ [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]]
  įstatymu patvirtintų statutų
 
 
@@ -375,7 +380,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
-## II. 2009 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+## II. 2009 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS ^s-a8d8e4cf44eae61e864e6dfd
 
 
 
@@ -394,7 +399,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  V
 
 
- Diplomatinės tarnybos įstatymo
+ [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]]
  įstatymu patvirtintų statutų
 
 
@@ -641,7 +646,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
-## III. NUO 2010 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+## III. NUO 2010 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS ^s-6cf6d1f0eb4e3205cf8167dc
 
 
 
@@ -660,7 +665,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  V
 
 
- Diplomatinės tarnybos įstatymo
+ [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]]
  įstatymu patvirtintų statutų
 
 

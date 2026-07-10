@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0C4D0CAC57E0"
 pavadinimas: "Lietuvos Respublikos maisto įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos maisto įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+  - "maisto įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-06-12"
 latest_path: "latest/TAR.0C4D0CAC57E0.md"
 latest_sha256: "d510983eecb187534bfa26e7aba96b76b15ea3d4870fd49b5c9aa1e6084607b6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0C4D0CAC57E0]]"
 ---
 # Lietuvos Respublikos maisto įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0C4D0CAC57E0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0C4D0CAC57E0
+- Ryšiai: [[Ryšiai/TAR.0C4D0CAC57E0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies papildymas
+### 1 straipsnis. 1 straipsnio 1 dalies papildymas ^s-ffcac42eb73e426ab1c7765a
 
 
 Papildyti 1 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -41,31 +46,31 @@ Papildyti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio 1, 12, 17 ir 18 dalių pakeitimas
+### 2 straipsnis. 2 straipsnio 1, 12, 17 ir 18 dalių pakeitimas ^s-e85b653c21cfc1557da53901
 
 
-1. Pakeisti [[#^cb538f2fbae14e6ea03bee66|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^cb538f2fbae14e6ea03bee66
+1. Pakeisti [[#^s-bf0d3edda12e2c95397cb5b1|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-bf0d3edda12e2c95397cb5b1
 
 
-„1. Maistas – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo [[#2 straipsnis. 2 straipsnio 1, 12, 17 ir 18 dalių pakeitimas|2 straipsnyje]].“
+„1. Maistas – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl [[latest/TAR.5B99A78DA6C7|maisto įstatymo]] pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo [[#^s-e85b653c21cfc1557da53901|2 straipsnyje]].“
 
 
-2. Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip: ^a2de9a87e2065c69efa13913
+2. Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip: ^s-c77c1e8d59b628e2a5117b6e
 
 
-„12. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 18 dalyje.“
+„12. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl [[latest/TAR.5B99A78DA6C7|maisto įstatymo]] pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 18 dalyje.“
 
 
-3. Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip: ^f1a840235ff2112e44862400
+3. Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip: ^s-d3cf05c7a7c8d7fe37e0e4a9
 
 
-„17. Pateikimas į rinką – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 8 dalyje.“
+„17. Pateikimas į rinką – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl [[latest/TAR.5B99A78DA6C7|maisto įstatymo]] pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 8 dalyje.“
 
 
-4. Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip: ^2e32799fa93fd5b3cfcd7301
+4. Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip: ^s-9ea03d74159956682d05bf30
 
 
-„18. Pirminė gamyba – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 17 dalyje.“
+„18. Pirminė gamyba – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl [[latest/TAR.5B99A78DA6C7|maisto įstatymo]] pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 17 dalyje.“
 
 
 

@@ -1,0 +1,144 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.F0E2E67B1F2F"
+pavadinimas: "Lietuvos Respublikos turizmo įstatymas"
+---
+# Lietuvos Respublikos turizmo įstatymas: ryšiai
+
+- [[latest/TAR.F0E2E67B1F2F|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos draudimo įstatyme
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - 4 citatos - Lietuvos Respublikos juridinių asmenų nemokumo įstatyme
+- [[latest/TAR.C70309CDEB7B|Lietuvos Respublikos karo padėties įstatymas]] - 2 citatos - Lietuvos Respublikos karo padėties įstatyme
+- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme
+- [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 2 citatos - Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme
+- [[latest/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 2 citatos - Lietuvos Respublikos nepaprastosios padėties įstatyme
+- [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - 4 citatos - Lietuvos Respublikos paslaugų įstatyme
+- [[latest/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - Lietuvos Respublikos pelno mokesčio įstatyme
+- [[latest/TAR.ED68997709F5|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 6 citatos - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos strateginio valdymo įstatyme
+- [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 2 citatos - Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme
+- [[latest/TAR.3AAD12EB9C60|Lietuvos Respublikos turizmo įstatymo 14 ir 15 straipsnių pakeitimo įstatymas]] - 6 citatos - 1031010ISTA0IX-1854
+- [[latest/TAR.B280B76CFEBD|Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas]] - 6 citatos - 1011010ISTA00IX-239
+- [[latest/TAR.76C99036F37F|Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas]] - 6 citatos - 1041010ISTA0IX-2476
+- [[latest/TAR.7E5C44AC4DC6|Lietuvos Respublikos turizmo įstatymo 2, 19, 23 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1051010ISTA000X-308
+- [[latest/18b53370087c11efbcbfb318996800a8|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 1 straipsnio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas]] - 4 citatos - Įstatymas Nr. XIV-2572
+- [[latest/79f64640043c11e588da8908dfa91cac|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 18 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1724
+- [[latest/a71b922086d611efabdbb4a1fc8b0b63|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3014
+- [[latest/831594a0855711eab005936df725feed|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 15 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2862
+- [[latest/b518f9b0c1ac11ea9815f635b9c0dcef|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir 41 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3103
+- [[latest/b9cac8d0052d11e588da8908dfa91cac|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1723
+- [[latest/d811ace0e0e011e388bee944977d73d2|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XII-873
+- [[latest/4ef43c4255c611f0b070ee7f1ceefc75|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 5, 6, 7, 10, 11, 12, 14, 15, 19, 21, 24, 28, 30, 30-1, 31, 33, 35, 36, 40, 41 ir 43 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-329
+- [[latest/db2f35906ef311e484b9c12b550436a3|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1307
+- [[latest/d3c98f204f0a11e9975f9c35aedfe438|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 9, 10, 15, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 39 ir 41 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1990
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1447
+- [[latest/af211be05ea911edbc04912defe897d1|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1464
+- [[latest/TAR.101328A5921F|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - 4 citatos - 1021010ISTA0IX-1211
+- [[latest/TAR.84E248FD708D|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - 4 citatos - 1111010ISTA0XI-1496
+- [[latest/TAR.0B0253BB424C|Lietuvos Respublikos valstybinės kalbos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinės kalbos įstatymo
+- [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 3 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 4 citatos - Lietuvos Respublikos vartotojų teisių apsaugos įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatymo
+- [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas]] - 2 citatos - Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme
+- [[latest/TAR.EE245B47423C|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/00d467204bb311e9b9e1d4aa8e4da0de#^s-13ff60ae4728c5c43d68ce38|Lietuvos Respublikos administracinių nusižengimų kodekso 128 ir 589 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-02e305c051425369e265217b|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-2afe221622979f6aed1e7b08|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-81a5f42c1350c3ff1335e7ed|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-a555bd4d475db0c80608a358|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/4a42dff084d411e8ae2bfd1913d66d57#^s-10cbc7c6048e7e9467b8eeb8|Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/4a42dff084d411e8ae2bfd1913d66d57#^s-2d0a5e073910c310b2aad933|Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatyme
+- [[latest/4a42dff084d411e8ae2bfd1913d66d57#^s-8ef43baf8181b8a599dfb7ca|Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/e8815f305ea911edbc04912defe897d1#^s-0899ec9746b28043465c8eab|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/e8815f305ea911edbc04912defe897d1#^s-158d8f0fd707745103b9743d|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - 2 citatos - Turizmo įstatyme
+- [[latest/e8815f305ea911edbc04912defe897d1#^s-3baa90e50e849ab287ff96cc|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - 2 citatos - Turizmo įstatyme
+- [[latest/e8815f305ea911edbc04912defe897d1#^s-448c3f8d428d6ce65f7c3230|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/e8815f305ea911edbc04912defe897d1#^s-87bf92704b02d911b6aef491|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/e8815f305ea911edbc04912defe897d1#^s-c741acf9b1e24cfb313f7f8b|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/f9e9b850a19e11ea9515f752ff221ec9#^s-1b19207134959617ebb4975c|Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas]] - Turizmo įstatyme
+- [[latest/c9807770855711eab005936df725feed#^s-1c1ea6e0b713c9bfa1b78438|Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/TAR.8A39C83848CB#^s-c8aac16d2bd10f06f27df9b5|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 3 citatos - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.8A39C83848CB#^s-cc6152ac5eb5602eeb3906c0|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.8A39C83848CB#^s-d330bd7e8429b932c56bd581|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Turizmo įstatyme
+- [[latest/TAR.8A39C83848CB#^s-ed825aa8c5f6e380a9098b99|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Turizmo įstatymo
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-712c9aec70613872c12903c4|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-f7bf65457e7d8b885a5e8c1b|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-4aa52d6836ec099334a6dafc|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-9f9dd41b40747e996ed4ac5e|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-a89dee7898677a7d364008ea|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.41CD8BF53D8D#^s-f29895d73abd951593d48779|Lietuvos Respublikos rinkliavų įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.41CD8BF53D8D#^s-f5b660774c1ee6d8cdc4ee20|Lietuvos Respublikos rinkliavų įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.26B563184529#^s-06f91fe3dae520d6b82bad33|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos turizmo įstatymu
+- [[latest/TAR.26B563184529#^s-94e77371c17743ca17f822fc|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos turizmo įstatymu
+- [[latest/14fdeea09bea11ea9515f752ff221ec9#^s-6846466044115199ebc8a0c0|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir 39 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymu
+- [[latest/TAR.91F3BE482534#^s-bae23e92bdb2fcee814f4ab4|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymu
+- [[latest/TAR.91F3BE482534#^s-f723ddda59be13eefd9e10ab|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymu
+- [[latest/18b53370087c11efbcbfb318996800a8#^s-210e16c37714ce375b38a844|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 1 straipsnio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatymo 301 straipsnio 8 dalies
+- [[latest/18b53370087c11efbcbfb318996800a8#^s-dbeffbaa08ed5d2452a71208|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 1 straipsnio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatymo 301 straipsnio 8 dalies
+- [[latest/b9cac8d0052d11e588da8908dfa91cac#^s-55cac5370de67bfd871c8e58|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 4 straipsnyje
+- [[latest/b9cac8d0052d11e588da8908dfa91cac#^s-a2e3c3d3d4e4f8b4f4178bda|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 4 straipsnyje
+- [[latest/d811ace0e0e011e388bee944977d73d2#^s-0ce33e0b48c455c52ed518ee|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas]] - 3 citatos - Lietuvos Respublikos turizmo įstatymo 4 straipsnyje
+- [[latest/d811ace0e0e011e388bee944977d73d2#^s-6eb3e5b99dba81b855205a5d|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas]] - 3 citatos - Lietuvos Respublikos turizmo įstatymo 4 straipsnyje
+- [[latest/4ef43c4255c611f0b070ee7f1ceefc75#^s-10159395087e15f95754f7dc|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 5, 6, 7, 10, 11, 12, 14, 15, 19, 21, 24, 28, 30, 30-1, 31, 33, 35, 36, 40, 41 ir 43 straipsnių pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/4ef43c4255c611f0b070ee7f1ceefc75#^s-e1c69e809c132055381b2892|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 5, 6, 7, 10, 11, 12, 14, 15, 19, 21, 24, 28, 30, 30-1, 31, 33, 35, 36, 40, 41 ir 43 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/4ef43c4255c611f0b070ee7f1ceefc75#^s-f11de3e2109feab1be725ed5|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 5, 6, 7, 10, 11, 12, 14, 15, 19, 21, 24, 28, 30, 30-1, 31, 33, 35, 36, 40, 41 ir 43 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatymo
+- [[latest/af211be05ea911edbc04912defe897d1#^s-006910a72376f0f6c516a3a5|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TURIZMO ĮSTATYMAS
+- [[latest/af211be05ea911edbc04912defe897d1#^s-1332e289b1a620b52ba7889b|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-2ecf4839fd7e215960742271|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos turizmo įstatymo 39 straipsnis
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-3621d7127e2563e193985636|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/af211be05ea911edbc04912defe897d1#^s-3afe3e0ea4523f1025453b3d|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Turizmo įstatymo 32 straipsnio
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-3b3f191aacbaa7c85e6e5675|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TURIZMO  ĮSTATYMAS
+- [[latest/af211be05ea911edbc04912defe897d1#^s-4c0c95be4f1245b07186889b|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Turizmo įstatymo 40 straipsnio 1 dalies 8 punktas
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-518041a6fb0b1c70de2c7d4d|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/af211be05ea911edbc04912defe897d1#^s-5b8580597b5075b4b881faec|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 40 straipsnio 1 dalies 8 punktą
+- [[latest/af211be05ea911edbc04912defe897d1#^s-6065b0ef6041ecb5ffbd94f0|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos turizmo įstatymo 40 straipsnio 1 dalies 8 punktą
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-6956fe28073e0a6ed5834a61|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 39 straipsnis
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-973e2ac9dbe6e6caa3c63421|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 39 straipsnį
+- [[latest/af211be05ea911edbc04912defe897d1#^s-ad58a85457b47274d7dd272e|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/d51a5a0084d311e8ae2bfd1913d66d57#^s-b16072cbccc6c0b2afc1c532|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatymo 8 straipsnio 1 dalyje
+- [[latest/af211be05ea911edbc04912defe897d1#^s-b7dcf3b8b6c07858a10f482b|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Turizmo įstatymo 32 straipsnio 1 dalies 4 punkte
+- [[latest/TAR.101328A5921F#^s-130a8445f0106058dcd98b79|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 7 straipsnyje
+- [[latest/TAR.84E248FD708D#^s-14ff8d85d7b76a5c94f0e1f6|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos turizmo įstatymo 11 ir 12 straipsniai
+- [[latest/TAR.101328A5921F#^s-2717ba6f4d41386b1ab8e271|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/TAR.84E248FD708D#^s-35ea6b7aee4229ce7867284d|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 11 ir 12 straipsniai
+- [[latest/TAR.84E248FD708D#^s-4ee4a08947c23480ff9cfe01|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/TAR.84E248FD708D#^s-6545153e3c2c0c9b7f8187e7|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TURIZMO ĮSTATYMAS
+- [[latest/TAR.101328A5921F#^s-6a952d389c51ce8d7590f615|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatymo 14 straipsnio 2 dalies
+- [[latest/TAR.101328A5921F#^s-88e795a4e4e53665d4abce1c|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/TAR.101328A5921F#^s-8abece257eccf2f7fe612c1c|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 14 straipsnio 2 dalies
+- [[latest/TAR.84E248FD708D#^s-beb457e291f69385a56adcc3|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo
+- [[latest/TAR.84E248FD708D#^s-d0362092dbecf2744d8a10a1|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 8 straipsnio
+- [[latest/TAR.84E248FD708D#^s-e66c841ee02ed07bc948ab72|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatymo 4 straipsnyje
+- [[latest/TAR.5C23DECF6210#^s-29ffd1527576207db5f8467a|Lietuvos Respublikos valstybės skolos įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.5C23DECF6210#^s-3555378e5d393151552865cd|Lietuvos Respublikos valstybės skolos įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/e57ae2724cdb11f0b070ee7f1ceefc75#^s-1ee0cff77da9383085c5e872|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 1, 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/59d01640a8ae11ef90b5ee8931e5ce5e#^s-0798ff3833caf899b2cfacf4|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/59d01640a8ae11ef90b5ee8931e5ce5e#^s-aabeff806bec19a287fc16a4|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/59d01640a8ae11ef90b5ee8931e5ce5e#^s-c655a979ff38c8a9294829f8|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/d93ce4b0b1f211eab9d9cd0c85e0b745#^s-35df10b85b9f918d6f1b0533|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/962c83202f0b11efbdaea558de59136c#^s-36398a4adc8fded2f65c71d2|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/962c83202f0b11efbdaea558de59136c#^s-7ecbab72d5e5555a6133f651|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/d93ce4b0b1f211eab9d9cd0c85e0b745#^s-cd6d22f4cacde6d8b7c7e78d|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-20effa828cc6ce8961216b6f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-56382821b44c8311f84505b2|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-6390414fbf1f87768bc3b269|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-66fa60451935f78f8cf3bbf6|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-8d94a9ec753e9f36deda946f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-cd5bf6a606b6f5f158680f79|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-f618c87bdd9259edb8d491db|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-502f7f2e8004c2d8e0e403fe|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatyme
+- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-eaae0fd970863e176714f8f3|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-f300c6022b3f97448c210a6a|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/TAR.23F8D92B723F#^s-792037897510b64b4f5dc7c9|Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/TAR.23F8D92B723F#^s-8a414fea8361fb0d5418b8c1|Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas]] - Turizmo įstatymo
+- [[latest/2370827049bc11efbdaea558de59136c#^s-b2688f1dc3b720e5b0fcdb94|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2, 5, 7, 8, 12, 13, 14, 15, 16, 22 ir 24 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-83018559d5c8c202388829ae|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme
+- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-edf2c8061c158383278c366b|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos turizmo įstatyme

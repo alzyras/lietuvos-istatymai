@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0A92B45F1528"
 pavadinimas: "Lietuvos Respublikos viešojo administravimo įstatymo 39 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešojo administravimo įstatymo 39 straipsnio pakeitimo įstatymas"
+  - "viešojo administravimo įstatymo 39 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.0A92B45F1528.md"
 latest_sha256: "8baf96282f9ba276db280ab7b8278a438257993c5f1663a5aab0a88ff9b2a7f7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0A92B45F1528]]"
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 39 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0A92B45F1528.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0A92B45F1528
+- Ryšiai: [[Ryšiai/TAR.0A92B45F1528|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio pakeitimas
+### 1 straipsnis. 39 straipsnio pakeitimas ^s-5d5b3c2c17bd3a4c62cc9f63
 
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:

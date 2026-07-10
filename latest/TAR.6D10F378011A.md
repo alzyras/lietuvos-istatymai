@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6D10F378011A"
 pavadinimas: "Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas"
+  - "elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-02-01"
 latest_path: "latest/TAR.6D10F378011A.md"
 latest_sha256: "be190e1ce89c5bf179bf2cafe643253f87b1c1bf512125661a8291f6b5cac78e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6D10F378011A]]"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6D10F378011A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6D10F378011A
+- Ryšiai: [[Ryšiai/TAR.6D10F378011A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 39 straipsnio 2 dalies pakeitimas ^s-cfaeb62d929842c2d4aa81ce
 
 
 39 straipsnio 2 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 „2. Rinkos operatorius yra atsakingas už balansavimo elektros energijos pirkimo-pardavimo kainos, susidariusios pasibaigus prekybos laikotarpiui, viešą skelbimą pagal Prekybos elektros energija taisykles ir (ar) energetikos ministro patvirtintas Prekybos elektros energija aukcione taisykles, taip pat už rinkos operatoriaus prekiaujamos elektros energijos atsiskaitymo procedūros organizavimą.“
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b418a12b75f9249f250e67a8
 
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.

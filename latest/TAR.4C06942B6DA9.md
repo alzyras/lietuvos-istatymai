@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4C06942B6DA9"
 pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 13 ir 16 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių administravimo įstatymo 13 ir 16 straipsnių pakeitimo įstatymas"
+  - "mokesčių administravimo įstatymo 13 ir 16 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-11-22"
 latest_path: "latest/TAR.4C06942B6DA9.md"
 latest_sha256: "0ab82a71a2423444a75c40c19a7768701d906a4251abe4720089b1695b80e3d2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4C06942B6DA9]]"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 13 ir 16 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4C06942B6DA9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4C06942B6DA9
+- Ryšiai: [[Ryšiai/TAR.4C06942B6DA9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,14 +38,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 27 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 13 straipsnio 27 punkto pripažinimas netekusiu galios ^s-d9b1a680fd932a04253f75d0
 
 
 13 straipsnio 27 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-decac19bb72ff824e6ac7bc4
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3CF69977CEFD"
 pavadinimas: "Lietuvos Respublikos saugios laivybos įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugios laivybos įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "saugios laivybos įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.3CF69977CEFD.md"
 latest_sha256: "bcf65011ed4e831f4ae8b26edcdaf03905b9534b52dc89e89df846e8f85d7411"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3CF69977CEFD]]"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3CF69977CEFD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3CF69977CEFD
+- Ryšiai: [[Ryšiai/TAR.3CF69977CEFD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas ^s-92eb0ace057a7d5b9a234fb9
 
 
 4 straipsnio 4 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-fc4e4db5b8d8d9518d3bba68
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B0E1E6A28996"
 pavadinimas: "Lietuvos Respublikos muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo įstatymas"
+  - "muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.B0E1E6A28996.md"
 latest_sha256: "fb3fb4fc529a4c60e70fde4249d96854585336af25046f248baa7e3a5ae3f69d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B0E1E6A28996]]"
 ---
 # Lietuvos Respublikos muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B0E1E6A28996.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B0E1E6A28996
+- Ryšiai: [[Ryšiai/TAR.B0E1E6A28996|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies 5 punkto pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies 5 punkto pakeitimas ^s-9bc25aba191ba9e3c724ea9f
 
 
 Pakeisti 9 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 9 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 16 straipsnio 2 dalies 12 punkto pakeitimas
+### 2 straipsnis. 16 straipsnio 2 dalies 12 punkto pakeitimas ^s-999de5eb538362c5b560e120
 
 
 Pakeisti 16 straipsnio 2 dalies 12 punktą ir jį išdėstyti taip:
@@ -53,68 +58,68 @@ Pakeisti 16 straipsnio 2 dalies 12 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 21 straipsnio pavadinimo ir 1 dalies pakeitimas
+### 3 straipsnis. 21 straipsnio pavadinimo ir 1 dalies pakeitimas ^s-a0a424ff3aa9ee3522011038
 
 
-1. 21 straipsnio pavadinime vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir straipsnio pavadinimą išdėstyti taip: ^852cca32c08ddea79120a530
+1. 21 straipsnio pavadinime vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir straipsnio pavadinimą išdėstyti taip: ^s-56c62f9b8ef2b5ed9ac439e7
 
 
 
 „21 straipsnis. Muitinės pareigūnų, turinčių įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, teisės ir pareigos“.
 
 
-2. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip: ^7f71e8094d5196ffcc765782
+2. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip: ^s-858d8362efb7ee8df883f254
 
 
 „1. Muitinės pareigūnas, turintis įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, be teisių, išvardytų 20 straipsnio 3 dalyje, turi teisę:
 
 
-1) įtardamas, kad asmenys daro arba yra padarę muitų teisės aktų pažeidimus, tokius asmenis persekioti, sulaikyti, pristatyti į muitinės ar teisėsaugos institucijų patalpas jų asmenybėms nustatyti, protokolams, aktams ar kitiems dokumentams surašyti ar jų turimiems daiktams apžiūrėti; ^40a6b1663c50295c299e8229
+1) įtardamas, kad asmenys daro arba yra padarę muitų teisės aktų pažeidimus, tokius asmenis persekioti, sulaikyti, pristatyti į muitinės ar teisėsaugos institucijų patalpas jų asmenybėms nustatyti, protokolams, aktams ar kitiems dokumentams surašyti ar jų turimiems daiktams apžiūrėti; ^s-7856281ea93013f5c4389063
 
 
-2) nekliudomas įeiti į visų nuosavybės formų ir rūšių įmonių, įstaigų, organizacijų patalpas jų darbo metu, o ne darbo metu – su tos įmonės, įstaigos ar organizacijos administracijos atstovu, savininku arba jo atstovu, jeigu yra pagrindo manyti, kad ten yra asmenų, kuriuos muitinės pareigūnas įtaria darant ar padarius muitų teisės aktų pažeidimus, kad ten yra muitiniam tikrinimui privalomi pateikti dokumentai, kompiuterinių duomenų laikmenos arba prekės, daryti dokumentų nuorašus, kopijuoti kompiuterinius duomenis, antspauduoti ar plombuoti prekių, dokumentų, kompiuterinių duomenų laikmenų, vertybinių popierių ir pinigų saugojimo vietas; ^ae98477510f5f16bff277b35
+2) nekliudomas įeiti į visų nuosavybės formų ir rūšių įmonių, įstaigų, organizacijų patalpas jų darbo metu, o ne darbo metu – su tos įmonės, įstaigos ar organizacijos administracijos atstovu, savininku arba jo atstovu, jeigu yra pagrindo manyti, kad ten yra asmenų, kuriuos muitinės pareigūnas įtaria darant ar padarius muitų teisės aktų pažeidimus, kad ten yra muitiniam tikrinimui privalomi pateikti dokumentai, kompiuterinių duomenų laikmenos arba prekės, daryti dokumentų nuorašus, kopijuoti kompiuterinius duomenis, antspauduoti ar plombuoti prekių, dokumentų, kompiuterinių duomenų laikmenų, vertybinių popierių ir pinigų saugojimo vietas; ^s-4a693bcd400366915c7847db
 
 
-3) įtardamas, kad asmuo savo vidaus organuose gabena draudžiamų arba ribojamų platinti medžiagų, įstatymų nustatyta tvarka skirti medicininį tikrinimą šiam faktui nustatyti; ^61903f45c3015e6f47aec16f
+3) įtardamas, kad asmuo savo vidaus organuose gabena draudžiamų arba ribojamų platinti medžiagų, įstatymų nustatyta tvarka skirti medicininį tikrinimą šiam faktui nustatyti; ^s-3e516b892643a2d8a4fc3155
 
 
-4) įtardamas, kad yra pažeidžiami muitų teisės aktų nustatyti reikalavimai, sulaikyti ir tikrinti asmenis, prekes, dokumentus, sulaikyti ir tikrinti transporto priemones bet kurioje Lietuvos Respublikos muitų teritorijos vietoje, taip pat už jos ribų, kai tai numatyta Europos Bendrijos muitų teisės aktuose arba Lietuvos Respublikos tarptautinėse sutartyse; ^0c1b128d9206b88bfc1497d1
+4) įtardamas, kad yra pažeidžiami muitų teisės aktų nustatyti reikalavimai, sulaikyti ir tikrinti asmenis, prekes, dokumentus, sulaikyti ir tikrinti transporto priemones bet kurioje Lietuvos Respublikos muitų teritorijos vietoje, taip pat už jos ribų, kai tai numatyta Europos Bendrijos muitų teisės aktuose arba Lietuvos Respublikos tarptautinėse sutartyse; ^s-11e0bc3c2d7cff9a75d6d874
 
 
-5) laikinai apriboti asmenų teises patekti į tam tikrą teritoriją, patalpą ar transporto priemonę, sustabdyti vykdomus darbus, jeigu tai trukdo atlikti tiesiogines muitinės pareigūno funkcijas; ^c1857a217edee2a8d7532dd0
+5) laikinai apriboti asmenų teises patekti į tam tikrą teritoriją, patalpą ar transporto priemonę, sustabdyti vykdomus darbus, jeigu tai trukdo atlikti tiesiogines muitinės pareigūno funkcijas; ^s-cbe2869937aba26acc436c5d
 
 
-6) atlikdamas muitinės funkcijas ir laikydamasis Lietuvos Respublikos baudžiamojo proceso kodekso bei Lietuvos Respublikos kriminalinės žvalgybos įstatymo nustatytos tvarkos pagal savo kompetenciją vykdyti kriminalinę žvalgybą ir ikiteisminį tyrimą; ^5f1576898c5d808a524d4a48
+6) atlikdamas muitinės funkcijas ir laikydamasis [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] bei [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatymo]] nustatytos tvarkos pagal savo kompetenciją vykdyti kriminalinę žvalgybą ir ikiteisminį tyrimą; ^s-b7ac0ec6c79581cf9fe72c4c
 
 
-7) vykdamas į nusikalstamos veikos padarymo vietą, persekiodamas įtariamą padarius nusikalstamą veiką asmenį, gabendamas asmenį, kuriam būtina skubi medicinos pagalba, į gydymo įstaigą, nekliudomas naudotis visiems asmenims, išskyrus užsienio valstybių diplomatines arba konsulines atstovybes, priklausančiomis visų rūšių transporto arba ryšių priemonėmis. Transporto arba ryšių priemonės savininko arba valdytojo dėl to patirti nuostoliai ar materialinė žala kompensuojami teisės aktų nustatyta tvarka; ^64b622c164bec729efe3d145
+7) vykdamas į nusikalstamos veikos padarymo vietą, persekiodamas įtariamą padarius nusikalstamą veiką asmenį, gabendamas asmenį, kuriam būtina skubi medicinos pagalba, į gydymo įstaigą, nekliudomas naudotis visiems asmenims, išskyrus užsienio valstybių diplomatines arba konsulines atstovybes, priklausančiomis visų rūšių transporto arba ryšių priemonėmis. Transporto arba ryšių priemonės savininko arba valdytojo dėl to patirti nuostoliai ar materialinė žala kompensuojami teisės aktų nustatyta tvarka; ^s-6b875c5db1b3e9a9f3f7d031
 
 
-8) nustatydamas asmenis, susijusius su neteisėtu prekių, kurioms taikomi draudimai arba apribojimai, gabenimu, muitų teisės aktų ir (arba) Lietuvos Respublikos kriminalinės žvalgybos įstatymo nustatyta tvarka taikyti kontroliuojamąjį gabenimą; ^adae93e6fa4a247d116a54a8
+8) nustatydamas asmenis, susijusius su neteisėtu prekių, kurioms taikomi draudimai arba apribojimai, gabenimu, muitų teisės aktų ir (arba) [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatymo]] nustatyta tvarka taikyti kontroliuojamąjį gabenimą; ^s-3046cc9c72ad20cde2d6b5f0
 
 
-9) naudotis kitomis teisės aktų nustatytomis teisėmis.“ ^6b3b248559dda5c5f4428b1c
+9) naudotis kitomis teisės aktų nustatytomis teisėmis.“ ^s-4462814fa93b202bfd428c28
 
 
 
-### 4 straipsnis. 23 straipsnio pavadinimo ir 2 dalies pakeitimas
+### 4 straipsnis. 23 straipsnio pavadinimo ir 2 dalies pakeitimas ^s-d1ee9050ba598925cd54bf0d
 
 
-1. 23 straipsnio pavadinime vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir straipsnio pavadinimą išdėstyti taip: ^4bf5abe3e3e674d918afe4f0
+1. 23 straipsnio pavadinime vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir straipsnio pavadinimą išdėstyti taip: ^s-dffcfa3c51df01204c7fc219
 
 
 
 „23 straipsnis. Muitinės pareigūnų, vykdančių kriminalinę žvalgybą ir (arba) atliekančių ikiteisminį tyrimą, garantijos“.
 
 
-2. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip: ^e3deab89165fdb6a83ae403a
+2. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip: ^s-9291e800e7806a416bf0d868
 
 
-„2. Kriminalinę žvalgybą vykdančių ir (arba) ikiteisminį tyrimą atliekančių muitinės pareigūnų ir jų šeimos narių apsaugai gali būti taikomos Lietuvos Respublikos baudžiamojo proceso kodekse ir Lietuvos Respublikos kriminalinės žvalgybos įstatyme numatytos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio priemonės.“
+„2. Kriminalinę žvalgybą vykdančių ir (arba) ikiteisminį tyrimą atliekančių muitinės pareigūnų ir jų šeimos narių apsaugai gali būti taikomos [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]] ir [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatyme]] numatytos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio priemonės.“
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-db08dfe1149374e292c12754
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

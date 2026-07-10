@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7DEEB4C9EE2F"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-18"
 latest_path: "latest/TAR.7DEEB4C9EE2F.md"
 latest_sha256: "673a8e1729b7e0d7d84a21aa5018e3354ca54bab59bf71ab249cb544908350bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7DEEB4C9EE2F]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7DEEB4C9EE2F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7DEEB4C9EE2F
+- Ryšiai: [[Ryšiai/TAR.7DEEB4C9EE2F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 3 dalies pakeitimas ^s-d4573b88a39cea0b9f0d620d
 
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:

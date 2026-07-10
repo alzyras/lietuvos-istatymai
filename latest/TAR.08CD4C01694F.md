@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.08CD4C01694F"
 pavadinimas: "Dėl Valstybės pavadinimo ir herbo"
+aliases:
+  - "Dėl Valstybės pavadinimo ir herbo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-03-11"
 latest_path: "latest/TAR.08CD4C01694F.md"
 latest_sha256: "5d9bd319814a010ac92fbeec5f6e4aca3bb1524b33a790eac9aa7eadbf1296a8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.08CD4C01694F]]"
 ---
 # Dėl Valstybės pavadinimo ir herbo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.08CD4C01694F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.08CD4C01694F
+- Ryšiai: [[Ryšiai/TAR.08CD4C01694F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

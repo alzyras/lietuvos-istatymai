@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.99A9BFE2011A"
 pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės reformos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "žemės reformos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-07"
 latest_path: "latest/TAR.99A9BFE2011A.md"
 latest_sha256: "87af7eb699e007e3de6e1ab6a34b5dc48d15c00c49f6c7a2f286167798ee376f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.99A9BFE2011A]]"
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.99A9BFE2011A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.99A9BFE2011A
+- Ryšiai: [[Ryšiai/TAR.99A9BFE2011A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio papildymas 7 dalimi
+### 1 straipsnis. 8 straipsnio papildymas 7 dalimi ^s-70f1bf21f9d4c922a20fe6cc
 
 
 Papildyti 8 straipsnį 7 dalimi:
@@ -41,7 +46,7 @@ Papildyti 8 straipsnį 7 dalimi:
 
 
 
-### 2 straipsnis. 9 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 5 dalies pakeitimas ^s-c641f7fc49577ee79937f645
 
 
 Pakeisti 9 straipsnio 5 dalį ir ją išdėstyti taip:

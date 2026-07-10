@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7847E47234C5"
 pavadinimas: "Dėl Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-28"
 latest_path: "latest/TAR.7847E47234C5.md"
 latest_sha256: "2e348a13706df517db1b1b1f5065dba0b1d510e0199895c93d0b21e7ef5e9651"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7847E47234C5]]"
 ---
 # Dėl Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7847E47234C5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7847E47234C5
+- Ryšiai: [[Ryšiai/TAR.7847E47234C5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

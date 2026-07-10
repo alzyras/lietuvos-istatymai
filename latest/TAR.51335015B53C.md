@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.51335015B53C"
 pavadinimas: "Lietuvos Respublikos vidaus vandenų transporto kodekso šeštojo skirsnio pavadinimo ir 28 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus vandenų transporto kodekso šeštojo skirsnio pavadinimo ir 28 straipsnio pakeitimo įstatymas"
+  - "vidaus vandenų transporto kodekso šeštojo skirsnio pavadinimo ir 28 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.51335015B53C.md"
 latest_sha256: "7b9a198e6bdaa20fcebdfd7cc0478c8a0099ab38f63d2bb7045e677a01f0f676"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.51335015B53C]]"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso šeštojo skirsnio pavadinimo ir 28 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.51335015B53C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.51335015B53C
+- Ryšiai: [[Ryšiai/TAR.51335015B53C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
+### 1 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas ^s-948767c33ee71d559b9fbfa9
 
 
 Pakeisti šeštojo skirsnio pavadinimą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti šeštojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 28 straipsnio pakeitimas
+### 2 straipsnis. 28 straipsnio pakeitimas ^s-2181f7d10b47288680cf825b
 
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5666E91B724F"
 pavadinimas: "Dėl Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-01-01"
 latest_path: "latest/TAR.5666E91B724F.md"
 latest_sha256: "f1d917fc999e3261a92fd2ca30ef3a40be4b2a3d2ee3770c0a926f532de8a3b6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5666E91B724F]]"
 ---
 # Dėl Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5666E91B724F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5666E91B724F
+- Ryšiai: [[Ryšiai/TAR.5666E91B724F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

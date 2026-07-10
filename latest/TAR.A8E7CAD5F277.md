@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8E7CAD5F277"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-14"
 latest_path: "latest/TAR.A8E7CAD5F277.md"
 latest_sha256: "acd96dd3353291b947d4ece94f7aadc5204c20655475577e6fbde10a308f0478"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8E7CAD5F277]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8E7CAD5F277.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8E7CAD5F277
+- Ryšiai: [[Ryšiai/TAR.A8E7CAD5F277|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

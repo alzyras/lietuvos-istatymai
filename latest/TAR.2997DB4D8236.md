@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2997DB4D8236"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 8 ir 10 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 8 ir 10 straipsnių papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 8 ir 10 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.2997DB4D8236.md"
 latest_sha256: "d1ae89594ec10ca16ace2c5afdbf69a3a5450425f546733eda047d14ba1eecc7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2997DB4D8236]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 8 ir 10 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2997DB4D8236.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2997DB4D8236
+- Ryšiai: [[Ryšiai/TAR.2997DB4D8236|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 8 dalies papildymas 7 punktu
+### 1 straipsnis. 8 straipsnio 8 dalies papildymas 7 punktu ^s-a198693680b73b5724c71df6
 
 
 Papildyti 8 straipsnio 8 dalį 7 punktu:
@@ -42,7 +47,7 @@ Papildyti 8 straipsnio 8 dalį 7 punktu:
 
 
 
-### 2 straipsnis. 10 straipsnio 1 dalies papildymas 7 punktu
+### 2 straipsnis. 10 straipsnio 1 dalies papildymas 7 punktu ^s-33be9e7aac11514d613876cf
 
 
 Papildyti 10 straipsnio 1 dalį 7 punktu:
@@ -52,7 +57,7 @@ Papildyti 10 straipsnio 1 dalį 7 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-9f9fe86594488b63c39cb073
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

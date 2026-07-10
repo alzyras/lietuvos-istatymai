@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.548C58007EE0"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-30"
 latest_path: "latest/TAR.548C58007EE0.md"
 latest_sha256: "979b54edd17df98f6c41aa7700678571bebd610c192a37d0b0fde0e85e932bbd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.548C58007EE0]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.548C58007EE0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.548C58007EE0
+- Ryšiai: [[Ryšiai/TAR.548C58007EE0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-b2a72606f794fbba7134ad76
 
 
 12 straipsnio 1 dalies paskutiniame sakinyje vietoj skaičiaus „2000“ įrašyti skaičių „100 000“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A68972AE5097"
 pavadinimas: "Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas"
+  - "kelių transporto kodekso 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-11"
 latest_path: "latest/TAR.A68972AE5097.md"
 latest_sha256: "cca46825a80edf9c618f38d38088480757d7e4f20468cb3a7dbdbf68fd814d4f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A68972AE5097]]"
 ---
 # Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A68972AE5097.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A68972AE5097
+- Ryšiai: [[Ryšiai/TAR.A68972AE5097|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 29 straipsnio 4 dalies pakeitimas ^s-24abd51ca3c8263270d1b7a7
 
 
 Pakeisti Kelių transporto kodekso 29 straipsnio 4 dalį ir ją išdėstyti taip:

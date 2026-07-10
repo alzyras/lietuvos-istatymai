@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BDAFA66E36BF"
 pavadinimas: "Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-07-28"
 latest_path: "latest/TAR.BDAFA66E36BF.md"
 latest_sha256: "9c15aa2c9c21f099f4f0c3cfdac196d6cce04417f8ba47c568acf5ef70395124"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BDAFA66E36BF]]"
 ---
 # Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BDAFA66E36BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BDAFA66E36BF
+- Ryšiai: [[Ryšiai/TAR.BDAFA66E36BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -217,7 +221,7 @@ Atsižvelgiant į vietos sąlygas ir žemėtvarkos projekte suformuotos žemėna
 9. Žemės ūkio paskirties žemės ir miškų naudotojams, dėl kurių netinkamos veiklos mažėja šios žemės ir miškų ūkinė vertė, taikomos įstatymų nustatytos ekonominės ir administracinės sankcijos.
 
 
-10. Privatinėn nuosavybėn įsigytos žemės ūkio paskirties žemės (išskyrus sodininkų bendrijų narių sodo sklypus) įkeitimas, pardavimas, dovanojimas, kitoks perleidimas ir tikslinės paskirties keitimas leidžiamas tik po to, kai bus priimtas Žemės įstatymas ir Lietuvos Respublikos Seimas priims atskirą nutarimą šiuo klausimu.“
+10. Privatinėn nuosavybėn įsigytos žemės ūkio paskirties žemės (išskyrus sodininkų bendrijų narių sodo sklypus) įkeitimas, pardavimas, dovanojimas, kitoks perleidimas ir tikslinės paskirties keitimas leidžiamas tik po to, kai bus priimtas [[latest/TAR.CC10C5274343|Žemės įstatymas]] ir Lietuvos Respublikos Seimas priims atskirą nutarimą šiuo klausimu.“
 
 
 12. 13 straipsnio 2 punktą išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BA57382B12D8"
 pavadinimas: "Lietuvos Respublikos ir Austrijos Respublikos paskolos sutarties ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Austrijos Respublikos paskolos sutarties ratifikavimo įstatymas"
+  - "ir Austrijos Respublikos paskolos sutarties ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-26"
 latest_path: "latest/TAR.BA57382B12D8.md"
 latest_sha256: "663b8b9dfe7d48633dbd37fc5cf1478f4dcebd99850490b6b8ee327b38e87e95"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BA57382B12D8]]"
 ---
 # Lietuvos Respublikos ir Austrijos Respublikos paskolos sutarties ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BA57382B12D8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BA57382B12D8
+- Ryšiai: [[Ryšiai/TAR.BA57382B12D8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-16d53d6ae6709f5786cc1b19
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 26 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Austrijos Respublikos paskolos sutartį“, ratifikuoja Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl 43 mln. Austrijos šilingų paskolos mokėjimų balanso paramai, pasirašytą 1996 m. Sausio 15 d. Vienoje.

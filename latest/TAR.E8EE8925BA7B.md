@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E8EE8925BA7B"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 13 ir 19 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 13 ir 19 straipsnių pakeitimo įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 13 ir 19 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.E8EE8925BA7B.md"
 latest_sha256: "0de4658b1d2595329543866e6b3616d5858a59a3e952bd934253b5bfdb1ef5f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E8EE8925BA7B]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 13 ir 19 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E8EE8925BA7B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E8EE8925BA7B
+- Ryšiai: [[Ryšiai/TAR.E8EE8925BA7B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 9 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 9 dalies pakeitimas ^s-2c68a43e0d463f3f628d1393
 
 
 Pakeisti 3 straipsnio 9 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 3 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-2ce635e945840a9bcc6e313c
 
 
 Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 19 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 19 straipsnio 4 dalies pakeitimas ^s-98b3ec169fe952489b44a897
 
 
 Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -63,14 +68,14 @@ Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-94e02e12ff5eb339dd0d3d13
 
 
-Šis įstatymas, išskyrus [[#5 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|5 straipsnį]], įsigalioja 2010 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-06ec8e83b9db1d2ca93c12ac|5 straipsnį]], įsigalioja 2010 m. liepos 1 d.
 
 
 
-### 5 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 5 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-06ec8e83b9db1d2ca93c12ac
 
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo parengia šio įstatymo įgyvendinamuosius teisės aktus.

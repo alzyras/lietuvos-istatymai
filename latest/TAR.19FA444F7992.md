@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.19FA444F7992"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 38 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 38 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 38 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-02"
 latest_path: "latest/TAR.19FA444F7992.md"
 latest_sha256: "2c5dbc1f02fb9928451da0603a83e2491644e2c6af0f74eb75b904b19aacc094"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.19FA444F7992]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 38 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.19FA444F7992.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.19FA444F7992
+- Ryšiai: [[Ryšiai/TAR.19FA444F7992|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 38 straipsnio 2 dalies 10 punkto pakeitimas
+### 1 straipsnis. 38 straipsnio 2 dalies 10 punkto pakeitimas ^s-023914558e3d0681d4c957e3
 
 
 Pakeisti 38 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:

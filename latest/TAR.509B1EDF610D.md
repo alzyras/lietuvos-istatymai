@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.509B1EDF610D"
 pavadinimas: "Lietuvos Respublikos lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo įstatymas"
+  - "lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-23"
 latest_path: "latest/TAR.509B1EDF610D.md"
 latest_sha256: "d3cdf86ece8a9b934518f70087966b8d330b93c2d269f07645097fef9c72edf8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.509B1EDF610D]]"
 ---
 # Lietuvos Respublikos lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.509B1EDF610D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.509B1EDF610D
+- Ryšiai: [[Ryšiai/TAR.509B1EDF610D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 6 dalies pakeitimas ^s-ae1d4e230b18770cf215fea0
 
 
 8 straipsnio 6 dalyje vietoj žodžių „žyminį mokestį“, „žyminio mokesčio“ įrašyti atitinkamai žodžius „valstybės rinkliavą“, „valstybės rinkliavos“, vietoj žodžio „jo“ įrašyti žodį „jos“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 12 straipsnio 3 dalies 1 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 3 dalies 1 punkto pakeitimas ^s-a49d20e6ca155711293ed7be
 
 
 12 straipsnio 3 dalies 1 punkte vietoj žodžių „žyminio mokesčio“ įrašyti žodžius „valstybės rinkliavos“ ir šį punktą išdėstyti taip:

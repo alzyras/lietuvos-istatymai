@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F001B78A2B9"
 pavadinimas: "Lietuvos Respublikos 2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 2, 4, 13 straipsnių ir 1, 3, 4, 10 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 2, 4, 13 straipsnių ir 1, 3, 4, 10 priedėlių pakeitimo įstatymas"
+  - "2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 2, 4, 13 straipsnių ir 1, 3, 4, 10 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-05"
 latest_path: "latest/TAR.4F001B78A2B9.md"
 latest_sha256: "c2543e8fb0454d72c8182f9c867db63f7191c0212d58eff4e70c3f60d79e311d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F001B78A2B9]]"
 ---
 # Lietuvos Respublikos 2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 2, 4, 13 straipsnių ir 1, 3, 4, 10 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F001B78A2B9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F001B78A2B9
+- Ryšiai: [[Ryšiai/TAR.4F001B78A2B9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-7447d82f9930880e71097ec9
 
 
 1 straipsnyje vietoj skaičių „25 755 354“ ir „608 009“ įrašyti atitinkamai skaičius „25 797 459“ ir „650 114“ ir šį straipsnį išdėstyti taip:
@@ -48,7 +53,7 @@ Patvirtinti Lietuvos Respublikos 2012 metų valstybės biudžetą – 25 147 345
 
 
 
-### 2 straipsnis. 2 straipsnio 1 dalies 2 punkto pakeitimas
+### 2 straipsnis. 2 straipsnio 1 dalies 2 punkto pakeitimas ^s-94474fbabe1245fc43932e2e
 
 
 2 straipsnio 1 dalies 2 punkte vietoj skaičiaus „3 208 387“ įrašyti skaičių „3 324 922“ ir šį punktą išdėstyti taip:
@@ -58,7 +63,7 @@ Patvirtinti Lietuvos Respublikos 2012 metų valstybės biudžetą – 25 147 345
 
 
 
-### 3 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-12bd466b448a9aa9546450c6
 
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -68,7 +73,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 13 straipsnio 3 dalies 1 punkto pakeitimas
+### 4 straipsnis. 13 straipsnio 3 dalies 1 punkto pakeitimas ^s-430e9c7f332b0a1dbeb977f5
 
 
 Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -78,10 +83,10 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 5 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-5aa80f837f4a3836e78d8d04
 
 
-1. Įstatymo 1 priedėlio eilutėje „Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba“ vietoj skaičių „470“, „470“ ir „245“ įrašyti atitinkamai skaičius „0“, „0“ ir „0“ ir šią eilutę išdėstyti taip: ^d564661680c13eaa4bdf47cf
+1. Įstatymo 1 priedėlio eilutėje „Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba“ vietoj skaičių „470“, „470“ ir „245“ įrašyti atitinkamai skaičius „0“, „0“ ir „0“ ir šią eilutę išdėstyti taip: ^s-b138a9887e18592005ca9b8f
 
 
  „Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba
@@ -94,7 +99,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-2. Įstatymo 1 priedėlio eilutėje „Valstybinė kainų ir energetikos kontrolės komisija“ vietoj skaičių „4 832“, „4 166“, „2 753“ ir „666“ įrašyti atitinkamai skaičius „1 102“, „1 057“, „643“ ir „45“ ir šią eilutę išdėstyti taip: ^235ba8fd4ae5959eb5450a80
+2. Įstatymo 1 priedėlio eilutėje „Valstybinė kainų ir energetikos kontrolės komisija“ vietoj skaičių „4 832“, „4 166“, „2 753“ ir „666“ įrašyti atitinkamai skaičius „1 102“, „1 057“, „643“ ir „45“ ir šią eilutę išdėstyti taip: ^s-bf01eaec930b85aa85ed0648
 
 
  „Valstybinė kainų ir energetikos kontrolės komisija
@@ -107,7 +112,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-3. Įstatymo 1 priedėlio eilutėje „Viešųjų pirkimų tarnyba“ vietoj skaičių „5 168“ ir „205“ įrašyti atitinkamai skaičius „5 318“ ir „355“ ir šią eilutę išdėstyti taip: ^5c1eee00e69d1432098113a0
+3. Įstatymo 1 priedėlio eilutėje „Viešųjų pirkimų tarnyba“ vietoj skaičių „5 168“ ir „205“ įrašyti atitinkamai skaičius „5 318“ ir „355“ ir šią eilutę išdėstyti taip: ^s-c3821db65e075cc03e0afe9e
 
 
  „Viešųjų pirkimų tarnyba
@@ -120,7 +125,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-4. Įstatymo 1 priedėlio eilutėje „Lietuvos Respublikos valstybės saugumo departamentas“ vietoj skaičių „61 327“ ir „48 311“ įrašyti atitinkamai skaičius „61 607“ ir „48 591“ ir šią eilutę išdėstyti taip: ^bf41213559f9aab386251401
+4. Įstatymo 1 priedėlio eilutėje „Lietuvos Respublikos valstybės saugumo departamentas“ vietoj skaičių „61 327“ ir „48 311“ įrašyti atitinkamai skaičius „61 607“ ir „48 591“ ir šią eilutę išdėstyti taip: ^s-3bdd3bbfd1c064709d6b827c
 
 
  „Lietuvos Respublikos valstybės saugumo departamentas
@@ -133,7 +138,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-5. Įstatymo 1 priedėlio eilutėje „Aplinkos ministerija“ vietoj skaičių „831 189“ ir „823 789“ įrašyti atitinkamai skaičius „831 789“ ir „824 389“ ir šią eilutę išdėstyti taip: ^e4b18e5edb871d5dab6da4f2
+5. Įstatymo 1 priedėlio eilutėje „Aplinkos ministerija“ vietoj skaičių „831 189“ ir „823 789“ įrašyti atitinkamai skaičius „831 789“ ir „824 389“ ir šią eilutę išdėstyti taip: ^s-e65481f75ae23218b2a99190
 
 
  „Aplinkos ministerija
@@ -146,7 +151,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-6. Įstatymo 1 priedėlio eilutėje „Finansų ministerija“ vietoj skaičių „4 239 084“, „4 214 034“, „217 614“ ir „25 050“ įrašyti atitinkamai skaičius „4 174 558“, „4 149 640“, „217 165“ ir „24 918“ ir šią eilutę išdėstyti taip: ^04fbb4ffaf89d44762e99e06
+6. Įstatymo 1 priedėlio eilutėje „Finansų ministerija“ vietoj skaičių „4 239 084“, „4 214 034“, „217 614“ ir „25 050“ įrašyti atitinkamai skaičius „4 174 558“, „4 149 640“, „217 165“ ir „24 918“ ir šią eilutę išdėstyti taip: ^s-2c4f98bc36d5cb824036901f
 
 
  „Finansų ministerija
@@ -159,7 +164,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-7. Įstatymo 1 priedėlio eilutėje „Vyriausybės rezervas“ vietoj skaičių „3 897“ ir „3 897“ įrašyti atitinkamai skaičius „1 097“ ir „1 097“ ir šią eilutę išdėstyti taip: ^1c61d228ab90446b4e1c5414
+7. Įstatymo 1 priedėlio eilutėje „Vyriausybės rezervas“ vietoj skaičių „3 897“ ir „3 897“ įrašyti atitinkamai skaičius „1 097“ ir „1 097“ ir šią eilutę išdėstyti taip: ^s-e54a58147a394c356449b2be
 
 
  „Vyriausybės rezervas
@@ -172,7 +177,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-8. Įstatymo 1 priedėlio eilutėje „Kultūros ministerija“ vietoj skaičių „266 992“ ir „218 914“ įrašyti atitinkamai skaičius „268 884“ ir „220 806“ ir šią eilutę išdėstyti taip: ^c2b4616adccbd2be9e3895f5
+8. Įstatymo 1 priedėlio eilutėje „Kultūros ministerija“ vietoj skaičių „266 992“ ir „218 914“ įrašyti atitinkamai skaičius „268 884“ ir „220 806“ ir šią eilutę išdėstyti taip: ^s-2b1cbacbe0e3d363a14fad6b
 
 
  „Kultūros ministerija
@@ -185,7 +190,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-9. Įstatymo 1 priedėlio eilutėje „Socialinės apsaugos ir darbo ministerija“ vietoj skaičių „3 149 740“ ir „3 141 542“ įrašyti atitinkamai skaičius „3 239 740“ ir „3 231 542“ ir šią eilutę išdėstyti taip: ^67634d700aa5a7d2701ff18f
+9. Įstatymo 1 priedėlio eilutėje „Socialinės apsaugos ir darbo ministerija“ vietoj skaičių „3 149 740“ ir „3 141 542“ įrašyti atitinkamai skaičius „3 239 740“ ir „3 231 542“ ir šią eilutę išdėstyti taip: ^s-6d3c3b522a38b24eaebc8b9f
 
 
  „Socialinės apsaugos ir darbo ministerija
@@ -198,7 +203,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-10. Įstatymo 1 priedėlio eilutėje „Susisiekimo ministerija“ vietoj skaičių „2 335 521“, „1 881 114“ ir „454 407“ įrašyti atitinkamai skaičius „2 333 653“, „1 885 212“ ir „448 441“ ir šią eilutę išdėstyti taip: ^aee53cf23a1e87b91cd56fd7
+10. Įstatymo 1 priedėlio eilutėje „Susisiekimo ministerija“ vietoj skaičių „2 335 521“, „1 881 114“ ir „454 407“ įrašyti atitinkamai skaičius „2 333 653“, „1 885 212“ ir „448 441“ ir šią eilutę išdėstyti taip: ^s-8881531b07fbf85da7dbe4e6
 
 
  „Susisiekimo ministerija
@@ -211,7 +216,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-11. Įstatymo 1 priedėlio eilutėje „Sveikatos apsaugos ministerija“ vietoj skaičiaus „80 245“ įrašyti skaičių „83 015“ ir šią eilutę išdėstyti taip: ^cf43c95d3038e43fdab76756
+11. Įstatymo 1 priedėlio eilutėje „Sveikatos apsaugos ministerija“ vietoj skaičiaus „80 245“ įrašyti skaičių „83 015“ ir šią eilutę išdėstyti taip: ^s-5e35e72f44edd6f8224b15d2
 
 
  „Sveikatos apsaugos ministerija
@@ -224,7 +229,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-12. Įstatymo 1 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičių „3 553 118“ ir „3 521 365“ įrašyti atitinkamai skaičius „3 539 587“ ir „3 507 834“ ir šią eilutę išdėstyti taip: ^35ba63c0ad5633a558ceefe0
+12. Įstatymo 1 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičių „3 553 118“ ir „3 521 365“ įrašyti atitinkamai skaičius „3 539 587“ ir „3 507 834“ ir šią eilutę išdėstyti taip: ^s-0851d35e29c416cf11e3a613
 
 
  „Švietimo ir mokslo ministerija
@@ -237,7 +242,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-13. Įstatymo 1 priedėlio eilutėje „Teisingumo ministerija“ vietoj skaičių „308 930“ ir „297 144“ įrašyti atitinkamai skaičius „314 412“ ir „302 626“ ir šią eilutę išdėstyti taip: ^29a3c4ada41250d1cf9d6e36
+13. Įstatymo 1 priedėlio eilutėje „Teisingumo ministerija“ vietoj skaičių „308 930“ ir „297 144“ įrašyti atitinkamai skaičius „314 412“ ir „302 626“ ir šią eilutę išdėstyti taip: ^s-eaa0d7ff18b456b048ba8ec0
 
 
  „Teisingumo ministerija
@@ -250,7 +255,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-14. Įstatymo 1 priedėlio eilutėje „Vidaus reikalų ministerija“ vietoj skaičių „1 415 303“ ir „1 390 863“ įrašyti atitinkamai skaičius „1 430 303“ ir „1 405 863“ ir šią eilutę išdėstyti taip: ^981b3abb428050f75f49fd7a
+14. Įstatymo 1 priedėlio eilutėje „Vidaus reikalų ministerija“ vietoj skaičių „1 415 303“ ir „1 390 863“ įrašyti atitinkamai skaičius „1 430 303“ ir „1 405 863“ ir šią eilutę išdėstyti taip: ^s-053d86dbe75e87a4f730632e
 
 
  „Vidaus reikalų ministerija
@@ -263,7 +268,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-15. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinė Martyno Mažvydo biblioteka“ vietoj skaičių „21 852“ ir „13 559“ įrašyti atitinkamai skaičius „22 142“ ir „13 849“ ir šią eilutę išdėstyti taip: ^25ba30f3d361dc183cb7586b
+15. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinė Martyno Mažvydo biblioteka“ vietoj skaičių „21 852“ ir „13 559“ įrašyti atitinkamai skaičius „22 142“ ir „13 849“ ir šią eilutę išdėstyti taip: ^s-6d15592c89011ccf7a9ed00f
 
 
  „Lietuvos nacionalinė Martyno Mažvydo biblioteka
@@ -276,7 +281,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-16. Įstatymo 1 priedėlio eilutėje „Lietuvos dailės muziejus“ vietoj skaičių „12 472“ ir „12 122“ įrašyti atitinkamai skaičius „12 996“ ir „12 646“ ir šią eilutę išdėstyti taip: ^5842be3abe337d1d58dbef8f
+16. Įstatymo 1 priedėlio eilutėje „Lietuvos dailės muziejus“ vietoj skaičių „12 472“ ir „12 122“ įrašyti atitinkamai skaičius „12 996“ ir „12 646“ ir šią eilutę išdėstyti taip: ^s-e99a2e47581f880963db0639
 
 
  „Lietuvos dailės muziejus
@@ -289,7 +294,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-17. Įstatymo 1 priedėlio eilutėje „Nacionalinis M. K. Čiurlionio dailės muziejus“ vietoj skaičių „8 191“ ir „5 170“ įrašyti atitinkamai skaičius „8 848“ ir „5 827“ ir šią eilutę išdėstyti taip: ^94a1cacefe43ef34411e7ccd
+17. Įstatymo 1 priedėlio eilutėje „Nacionalinis M. K. Čiurlionio dailės muziejus“ vietoj skaičių „8 191“ ir „5 170“ įrašyti atitinkamai skaičius „8 848“ ir „5 827“ ir šią eilutę išdėstyti taip: ^s-9a180f7f3d7cf5af31062d65
 
 
  „Nacionalinis M. K. Čiurlionio dailės muziejus
@@ -302,7 +307,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-18. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinis operos ir baleto teatras“ vietoj skaičių „23 836“ ir „23 779“ įrašyti atitinkamai skaičius „24 436“ ir „24 379“ ir šią eilutę išdėstyti taip: ^d9257df0aeefa1f74fd254b9
+18. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinis operos ir baleto teatras“ vietoj skaičių „23 836“ ir „23 779“ įrašyti atitinkamai skaičius „24 436“ ir „24 379“ ir šią eilutę išdėstyti taip: ^s-d10103ed0eb139f32ec72cbf
 
 
  „Lietuvos nacionalinis operos ir baleto teatras
@@ -315,7 +320,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-19. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinis dramos teatras“ vietoj skaičių „6 650“ ir „5 627“ įrašyti atitinkamai skaičius „7 315“ ir „6 292“ ir šią eilutę išdėstyti taip: ^9506ee38da04f2aae105d9e1
+19. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinis dramos teatras“ vietoj skaičių „6 650“ ir „5 627“ įrašyti atitinkamai skaičius „7 315“ ir „6 292“ ir šią eilutę išdėstyti taip: ^s-19db4e7e7227a7d5c5f2dc50
 
 
  „Lietuvos nacionalinis dramos teatras
@@ -328,7 +333,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-20. Įstatymo 1 priedėlio eilutėje „Lietuvos vyriausiojo archyvaro tarnyba“ vietoj skaičių „21 793“ ir „20 457“ įrašyti atitinkamai skaičius „22 288“ ir „20 952“ ir šią eilutę išdėstyti taip: ^24bb353ec9ac25426eb23f6e
+20. Įstatymo 1 priedėlio eilutėje „Lietuvos vyriausiojo archyvaro tarnyba“ vietoj skaičių „21 793“ ir „20 457“ įrašyti atitinkamai skaičius „22 288“ ir „20 952“ ir šią eilutę išdėstyti taip: ^s-a7205aa0b586b836a7f4a78b
 
 
  „Lietuvos vyriausiojo archyvaro tarnyba
@@ -341,7 +346,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-21. Įstatymo 1 priedėlio eilutėje „Valstybinė duomenų apsaugos inspekcija“ vietoj skaičių „1 811“ ir „1 797“ įrašyti atitinkamai skaičius „2 001“ ir „1 987“ ir šią eilutę išdėstyti taip: ^c5921b7ef157084fcd38a548
+21. Įstatymo 1 priedėlio eilutėje „Valstybinė duomenų apsaugos inspekcija“ vietoj skaičių „1 811“ ir „1 797“ įrašyti atitinkamai skaičius „2 001“ ir „1 987“ ir šią eilutę išdėstyti taip: ^s-90ee3201989637339ed4e454
 
 
  „Valstybinė duomenų apsaugos inspekcija
@@ -354,7 +359,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-22. Įstatymo 1 priedėlio eilutėje „Policijos departamentas prie Vidaus reikalų ministerijos“ vietoj skaičių „628 842“, „612 653“ ir „404 741“ įrašyti atitinkamai skaičius „637 342“, „621 153“ ir „406 923“ ir šią eilutę išdėstyti taip: ^33f34e088589470387d79818
+22. Įstatymo 1 priedėlio eilutėje „Policijos departamentas prie Vidaus reikalų ministerijos“ vietoj skaičių „628 842“, „612 653“ ir „404 741“ įrašyti atitinkamai skaičius „637 342“, „621 153“ ir „406 923“ ir šią eilutę išdėstyti taip: ^s-b0b8bea823bda96f8e981373
 
 
  „Policijos departamentas prie Vidaus reikalų ministerijos
@@ -367,7 +372,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-23. Įstatymo 1 priedėlio eilutėje „Valstybinė maisto ir veterinarijos tarnyba“ vietoj skaičių „80 160“, „76 437“ ir „39 751“ įrašyti atitinkamai skaičius „80 972“, „77 249“ ir „39 951“ ir šią eilutę išdėstyti taip: ^19fac414037a7b2c3ead0068
+23. Įstatymo 1 priedėlio eilutėje „Valstybinė maisto ir veterinarijos tarnyba“ vietoj skaičių „80 160“, „76 437“ ir „39 751“ įrašyti atitinkamai skaičius „80 972“, „77 249“ ir „39 951“ ir šią eilutę išdėstyti taip: ^s-81646f11f4f98bb8423519b0
 
 
  „Valstybinė maisto ir veterinarijos tarnyba
@@ -380,7 +385,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-24. Įstatymo 1 priedėlio eilutėje „Nacionalinė teismų administracija“ vietoj skaičių „20 826“, „10 137“ ir „10 689“ įrašyti atitinkamai skaičius „19 468“, „10 232“ ir „9 236“ ir šią eilutę išdėstyti taip: ^09263bd7ea3a1de423a73bb3
+24. Įstatymo 1 priedėlio eilutėje „Nacionalinė teismų administracija“ vietoj skaičių „20 826“, „10 137“ ir „10 689“ įrašyti atitinkamai skaičius „19 468“, „10 232“ ir „9 236“ ir šią eilutę išdėstyti taip: ^s-fed680cd3d44d51eb00969f1
 
 
  „Nacionalinė teismų administracija
@@ -393,7 +398,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-25. Įstatymo 1 priedėlio eilutėje „Teismai“ vietoj skaičių „174 774“ ir „174 774“ įrašyti atitinkamai skaičius „176 192“ ir „176 192“ ir šią eilutę išdėstyti taip: ^143c879fc60669f2e14dc0ef
+25. Įstatymo 1 priedėlio eilutėje „Teismai“ vietoj skaičių „174 774“ ir „174 774“ įrašyti atitinkamai skaičius „176 192“ ir „176 192“ ir šią eilutę išdėstyti taip: ^s-3bf1dcd5956beeeb083ac403
 
 
  „Teismai
@@ -406,7 +411,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-26. Įstatymo 1 priedėlio eilutėje „Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės“ vietoj skaičių „998“, „998“ ir „677“ įrašyti atitinkamai skaičius „1 031“, „1 031“ ir „697“ ir šią eilutę išdėstyti taip: ^e08d9f98518f72fa5325199a
+26. Įstatymo 1 priedėlio eilutėje „Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės“ vietoj skaičių „998“, „998“ ir „677“ įrašyti atitinkamai skaičius „1 031“, „1 031“ ir „697“ ir šią eilutę išdėstyti taip: ^s-e925743eaca20e2f083b23de
 
 
  „Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės
@@ -419,7 +424,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-27. Įstatymo 1 priedėlio eilutėje „Lietuvos istorijos institutas“ vietoj skaičiaus „2 090“ įrašyti skaičių „2 195“ ir šią eilutę išdėstyti taip: ^0191c07068c2a4aa1c022de7
+27. Įstatymo 1 priedėlio eilutėje „Lietuvos istorijos institutas“ vietoj skaičiaus „2 090“ įrašyti skaičių „2 195“ ir šią eilutę išdėstyti taip: ^s-910b200f383906d8e0efa7e2
 
 
  „Lietuvos istorijos institutas
@@ -432,7 +437,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-28. Įstatymo 1 priedėlio eilutėje „Iš viso:“ vietoj skaičių „25 755 354“, „24 871 901“, „2 868 578“ ir „883 453“ įrašyti atitinkamai skaičius „25 797 459“, „24 922 028“, „2 871 051“ ir „875 431“ ir šią eilutę išdėstyti taip: ^4b32f8791aa1e6b0e7c86a69
+28. Įstatymo 1 priedėlio eilutėje „Iš viso:“ vietoj skaičių „25 755 354“, „24 871 901“, „2 868 578“ ir „883 453“ įrašyti atitinkamai skaičius „25 797 459“, „24 922 028“, „2 871 051“ ir „875 431“ ir šią eilutę išdėstyti taip: ^s-9791a18c34a7cc7465637466
 
 
  „Iš viso:
@@ -445,7 +450,7 @@ Pakeisti 13 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-b7e7d60369de16918db9800d
 
 
 Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
@@ -812,10 +817,10 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 “.
 
 
-### 7 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-55223149f52c98d621b118c5
 
 
-1. Įstatymo 4 priedėlio eilutėje „Socialinės apsaugos ir darbo ministerija“ vietoj skaičiaus „884 640“ įrašyti skaičių „1 014 608“ ir šią eilutę išdėstyti taip: ^5d19b72b90b463b468085512
+1. Įstatymo 4 priedėlio eilutėje „Socialinės apsaugos ir darbo ministerija“ vietoj skaičiaus „884 640“ įrašyti skaičių „1 014 608“ ir šią eilutę išdėstyti taip: ^s-b64f291fe0df2b67c5218469
 
 
  „Socialinės apsaugos ir darbo ministerija
@@ -826,7 +831,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-2. Įstatymo 4 priedėlio Socialinės apsaugos ir darbo ministerijos eilutėje „socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti“ vietoj skaičiaus „656 415“ įrašyti skaičių „786 383“ ir šią eilutę išdėstyti taip: ^a1d92ef4fd187a3c6edb26a2
+2. Įstatymo 4 priedėlio Socialinės apsaugos ir darbo ministerijos eilutėje „socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti“ vietoj skaičiaus „656 415“ įrašyti skaičių „786 383“ ir šią eilutę išdėstyti taip: ^s-a39d83c71d3a0243349402ee
 
 
  „socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti
@@ -836,7 +841,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-3. Įstatymo 4 priedėlio Susisiekimo ministerijos eilutėje „Valstybės investicijų 2012–2014 metų programoje numatytoms kapitalo investicijoms finansuoti“ vietoj skaičiaus „5 162“ įrašyti skaičių „9 260“ ir šią eilutę išdėstyti taip: ^e9138cf415dd8f238af8a99e
+3. Įstatymo 4 priedėlio Susisiekimo ministerijos eilutėje „Valstybės investicijų 2012–2014 metų programoje numatytoms kapitalo investicijoms finansuoti“ vietoj skaičiaus „5 162“ įrašyti skaičių „9 260“ ir šią eilutę išdėstyti taip: ^s-8213a7a878f4056ae792f81f
 
 
  „Susisiekimo ministerija
@@ -847,7 +852,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-4. Įstatymo 4 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičiaus „2 032 762“ įrašyti skaičių „2 015 231“ ir šią eilutę išdėstyti taip: ^bf87a9a6a96b5a2bbf1a55be
+4. Įstatymo 4 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičiaus „2 032 762“ įrašyti skaičių „2 015 231“ ir šią eilutę išdėstyti taip: ^s-43122809d62f6af33f9cc47e
 
 
  „Švietimo ir mokslo ministerija
@@ -858,7 +863,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-5. Įstatymo 4 priedėlio Švietimo ir mokslo ministerijos eilutėje „mokinio krepšeliui finansuoti“ vietoj skaičiaus „2 018 592“ įrašyti skaičių „2 001 061“ ir šią eilutę išdėstyti taip: ^feedbeb23dcb235993e7350c
+5. Įstatymo 4 priedėlio Švietimo ir mokslo ministerijos eilutėje „mokinio krepšeliui finansuoti“ vietoj skaičiaus „2 018 592“ įrašyti skaičių „2 001 061“ ir šią eilutę išdėstyti taip: ^s-7c4c002fad05e4989f965e7e
 
 
 
@@ -869,7 +874,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-6. Įstatymo 4 priedėlio eilutėje „IŠ VISO:“ vietoj skaičiaus „3 099 829“ įrašyti skaičių „3 216 364“ ir šią eilutę išdėstyti taip: ^06d5fbf0a1db3316507f8052
+6. Įstatymo 4 priedėlio eilutėje „IŠ VISO:“ vietoj skaičiaus „3 099 829“ įrašyti skaičių „3 216 364“ ir šią eilutę išdėstyti taip: ^s-bc27d61e4ede718c3cd1aa43
 
 
  „IŠ VISO:
@@ -880,10 +885,10 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-### 8 straipsnis. Įstatymo 10 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 10 priedėlio pakeitimas ^s-5f5cb43a6cda5ef452fa6686
 
 
-1. Įstatymo 10 priedėlio eilutėje „Valstybės valdymas“ vietoj skaičių „32 040“ ir „32 040“ įrašyti atitinkamai skaičius „31 393“ ir „31 393“ ir šią eilutę išdėstyti taip: ^90734e5a3ec6f24ee7186745
+1. Įstatymo 10 priedėlio eilutėje „Valstybės valdymas“ vietoj skaičių „32 040“ ir „32 040“ įrašyti atitinkamai skaičius „31 393“ ir „31 393“ ir šią eilutę išdėstyti taip: ^s-b7228c1e33ecc011ec34efde
 
 
  „Valstybės valdymas
@@ -901,7 +906,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-2. Įstatymo 10 priedėlio eilutėje „Viešoji tvarka“ vietoj skaičių „23 528“ ir „23 528“ įrašyti atitinkamai skaičius „22 075“ ir „22 075“ ir šią eilutę išdėstyti taip: ^d7b347ff1f174592710cd030
+2. Įstatymo 10 priedėlio eilutėje „Viešoji tvarka“ vietoj skaičių „23 528“ ir „23 528“ įrašyti atitinkamai skaičius „22 075“ ir „22 075“ ir šią eilutę išdėstyti taip: ^s-03710ba072908c4a654d030f
 
 
  „Viešoji tvarka
@@ -919,7 +924,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-3. Įstatymo 10 priedėlio eilutėje „Sveikatos apsauga“ vietoj skaičių „295 681“ ir „295 681“ įrašyti atitinkamai skaičius „292 657“ ir „292 657“ ir šią eilutę išdėstyti taip: ^265c7f97c1085814e1159afb
+3. Įstatymo 10 priedėlio eilutėje „Sveikatos apsauga“ vietoj skaičių „295 681“ ir „295 681“ įrašyti atitinkamai skaičius „292 657“ ir „292 657“ ir šią eilutę išdėstyti taip: ^s-134336585d5c20f154e72a8c
 
 
  „Sveikatos apsauga
@@ -937,7 +942,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-4. Įstatymo 10 priedėlio eilutėje „Transportas ir ryšiai“ vietoj skaičių „1 678 244“ ir „1 655 220“ įrašyti atitinkamai skaičius „1 676 376“ ir „1 653 352“ ir šią eilutę išdėstyti taip: ^1bd8da76c77242e52c6606fa
+4. Įstatymo 10 priedėlio eilutėje „Transportas ir ryšiai“ vietoj skaičių „1 678 244“ ir „1 655 220“ įrašyti atitinkamai skaičius „1 676 376“ ir „1 653 352“ ir šią eilutę išdėstyti taip: ^s-0d50e5d229d851dab954617b
 
 
  „Transportas ir ryšiai
@@ -955,7 +960,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-5. Įstatymo 10 priedėlio eilutėje „Kita veikla“ vietoj skaičių „449 580“ ir „449 580“ įrašyti atitinkamai skaičius „449 730“ ir „449 730“ ir šią eilutę išdėstyti taip: ^fdbb4610b08890572f0ca071
+5. Įstatymo 10 priedėlio eilutėje „Kita veikla“ vietoj skaičių „449 580“ ir „449 580“ įrašyti atitinkamai skaičius „449 730“ ir „449 730“ ir šią eilutę išdėstyti taip: ^s-b432b9a22d25e0faf90e0875
 
 
  „Kita veikla
@@ -973,7 +978,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-6. Įstatymo 10 priedėlio eilutėje „Iš viso:“ vietoj skaičių „4 310 641“ ir „4 287 617“ įrašyti atitinkamai skaičius „4 303 799“ ir „4 280 775“ ir šią eilutę išdėstyti taip: ^783a649e4c116fd53d6dce49
+6. Įstatymo 10 priedėlio eilutėje „Iš viso:“ vietoj skaičių „4 310 641“ ir „4 287 617“ įrašyti atitinkamai skaičius „4 303 799“ ir „4 280 775“ ir šią eilutę išdėstyti taip: ^s-58d28d0c5815e679d49d2d38
 
 
  „Iš viso:
@@ -991,7 +996,7 @@ lietuvos respublikos 2012 metų valstybės biudžeto asignavimai teismams
 
 
 
-7. Įstatymo 10 priedėlio eilutėje „iš jų informacinėms technologijoms“ vietoj skaičių „208 333“ ir „208 333“ įrašyti atitinkamai skaičius „207 381“ ir „207 381“ ir šią eilutę išdėstyti taip: ^0d249dff333ab83befee98d6
+7. Įstatymo 10 priedėlio eilutėje „iš jų informacinėms technologijoms“ vietoj skaičių „208 333“ ir „208 333“ įrašyti atitinkamai skaičius „207 381“ ir „207 381“ ir šią eilutę išdėstyti taip: ^s-7c03100ffc85077dfca5d6d3
 
 
  „iš jų informacinėms technologijoms

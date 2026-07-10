@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B78D4FF645E4"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių pakeitimo įstatymas"
+  - "notariato įstatymo 3 ir 23 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-21"
 latest_path: "latest/TAR.B78D4FF645E4.md"
 latest_sha256: "e8596cb0ca86ecfb47d6449c387797a974866db4282804a806d41f94d470bd2b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B78D4FF645E4]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B78D4FF645E4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B78D4FF645E4
+- Ryšiai: [[Ryšiai/TAR.B78D4FF645E4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,17 +36,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-5c52fcb40f4a47eb88f4ab66
 
 
-1. 3 straipsnio 3 dalį pripažinti netekusia galios. ^a63fb377722b718d280b56f7
+1. 3 straipsnio 3 dalį pripažinti netekusia galios. ^s-b60a3c2cd46a173a50693a8a
 
 
-2. Buvusią 3 straipsnio 4 dalį laikyti 3 dalimi. ^cfd85930bfb9c73d642c8b88
+2. Buvusią 3 straipsnio 4 dalį laikyti 3 dalimi. ^s-d8db083af284b64725fd2771
 
 
 
-### 2 straipsnis. 23 straipsnio 1 dalies 12 punkto pripažinimas netekusiu galios
+### 2 straipsnis. 23 straipsnio 1 dalies 12 punkto pripažinimas netekusiu galios ^s-f3bdeac546e3e02b2e67cd76
 
 
 23 straipsnio 1 dalies 12 punktą pripažinti netekusiu galios.

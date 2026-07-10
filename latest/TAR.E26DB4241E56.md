@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E26DB4241E56"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Jungtinių Tautų vaiko teisių konvencijos fakultatyvinio protokolo dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Jungtinių Tautų vaiko teisių konvencijos fakultatyvinio protokolo dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos ratifikavimo"
+  - "įstatymas dėl Jungtinių Tautų vaiko teisių konvencijos fakultatyvinio protokolo dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-13"
 latest_path: "latest/TAR.E26DB4241E56.md"
 latest_sha256: "304ff55a8b35ae6ae34561b4327f735d76fb94cf5c5dbe799b588b3462d11d27"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E26DB4241E56]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Jungtinių Tautų vaiko teisių konvencijos fakultatyvinio protokolo dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E26DB4241E56.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E26DB4241E56
+- Ryšiai: [[Ryšiai/TAR.E26DB4241E56|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-26f9991c6f1c4ecb7710c18e
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. gegužės 7 d. dekretą Nr. 49, ratifikuoja 2000 m. gegužės 25 d. Niujorke priimtą Jungtinių Tautų vaiko teisių konvencijos fakultatyvinį protokolą dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E832328B92F4"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso priedo papildymo įstatymas"
+  - "baudžiamojo proceso kodekso priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-12-05"
 latest_path: "latest/TAR.E832328B92F4.md"
 latest_sha256: "4a177becd5cd2c610dc6f22540c3c46d30ab60d355e27b8a420ab40fe926c931"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E832328B92F4]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E832328B92F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E832328B92F4
+- Ryšiai: [[Ryšiai/TAR.E832328B92F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Kodekso priedo papildymas 9 punktu
+### 1 straipsnis. Kodekso priedo papildymas 9 punktu ^s-d4720c21173e2573a9b339e8
 
 
 Papildyti Kodekso priedą 9 punktu:

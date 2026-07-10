@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25E43DCC8953"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 78 ir 80 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 78 ir 80 straipsnių pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 78 ir 80 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-30"
 latest_path: "latest/TAR.25E43DCC8953.md"
 latest_sha256: "d678414700f0c2ff16e44249e9699304cad5e303cc13c567b9e8d14538e4c8ae"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25E43DCC8953]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 78 ir 80 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25E43DCC8953.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25E43DCC8953
+- Ryšiai: [[Ryšiai/TAR.25E43DCC8953|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 78 straipsnio pakeitimas
+### 1 straipsnis. 78 straipsnio pakeitimas ^s-34d12292fd3f500c86ecca2e
 
 
 Pakeisti 78 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 78 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 80 straipsnio pakeitimas
+### 2 straipsnis. 80 straipsnio pakeitimas ^s-b85470288a5b9460a9764bb9
 
 
 Pakeisti 80 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -50,10 +55,10 @@ Pakeisti 80 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Pasiūlyti Vyriausybei:
 
 
-1) iki 2001 m. birželio 1 d. nustatyti atstovavimo valstybei, įgyvendinant jai priklausančių akcijų suteikiamas teises, tvarką; ^f5261397313ee58b8c4216d9
+1) iki 2001 m. birželio 1 d. nustatyti atstovavimo valstybei, įgyvendinant jai priklausančių akcijų suteikiamas teises, tvarką; ^s-81a9061e7e272d8242bb10d7
 
 
-2) iki 2002 m. liepos 1 d. pateikti Seimui įstatymo projektą, kuriame būtų bendrovėms numatyta atsakomybė už reikalavimų, nustatytų šio įstatymo 79 straipsnio 1 ir 2 dalyse, pažeidimus.“ ^4b22b0cd498c4c67e38c1e39
+2) iki 2002 m. liepos 1 d. pateikti Seimui įstatymo projektą, kuriame būtų bendrovėms numatyta atsakomybė už reikalavimų, nustatytų šio įstatymo 79 straipsnio 1 ir 2 dalyse, pažeidimus.“ ^s-5e5dde5cdd4bca8ae420fe65
 
 
 

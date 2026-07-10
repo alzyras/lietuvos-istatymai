@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2979C25DB1AA"
 pavadinimas: "Lietuvos Respublikos investicijų įstatymo 2, 3 ir 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos investicijų įstatymo 2, 3 ir 10 straipsnių pakeitimo įstatymas"
+  - "investicijų įstatymo 2, 3 ir 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-25"
 latest_path: "latest/TAR.2979C25DB1AA.md"
 latest_sha256: "ba4cb35e20be34f0d8defc206c7bff6bc151d4a55cf496c77390080945447f47"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2979C25DB1AA]]"
 ---
 # Lietuvos Respublikos investicijų įstatymo 2, 3 ir 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2979C25DB1AA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2979C25DB1AA
+- Ryšiai: [[Ryšiai/TAR.2979C25DB1AA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas ^s-6d25e128f1384c7332797b9f
 
 
 2 straipsnio 4 dalyje išbraukti žodžius „bei juridinio asmens teisių neturinčios įmonės“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 3 straipsnio 2 dalies 1 punkto pakeitimas
+### 2 straipsnis. 3 straipsnio 2 dalies 1 punkto pakeitimas ^s-150815983c1969d666668967
 
 
 3 straipsnio 2 dalies 1 punkte išbraukti žodžius „bei juridinio asmens teisių neturinčių įmonių“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-2f988ca4b27fedca071fa009
 
 
 10 straipsnio 3 dalyje vietoj žodžių „žemės nuomos įstatymo“ įrašyti žodžius „civilinio kodekso“ ir šią dalį išdėstyti taip:

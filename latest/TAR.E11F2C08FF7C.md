@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E11F2C08FF7C"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 6.886 straipsnio pakeitimo ir 6.887, 6.888, 6.889, 6.890, 6.891 straipsnių pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 6.886 straipsnio pakeitimo ir 6.887, 6.888, 6.889, 6.890, 6.891 straipsnių pripažinimo netekusiais galios įstatymas"
+  - "civilinio kodekso 6.886 straipsnio pakeitimo ir 6.887, 6.888, 6.889, 6.890, 6.891 straipsnių pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-01"
 latest_path: "latest/TAR.E11F2C08FF7C.md"
 latest_sha256: "f0df1594c75bcaae4c95b838e5822bb8f501997915593d0a3b9bba1ca899581d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E11F2C08FF7C]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 6.886 straipsnio pakeitimo ir 6.887, 6.888, 6.889, 6.890, 6.891 straipsnių pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E11F2C08FF7C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E11F2C08FF7C
+- Ryšiai: [[Ryšiai/TAR.E11F2C08FF7C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6.886 straipsnio pakeitimas
+### 1 straipsnis. 6.886 straipsnio pakeitimas ^s-78ff0ff2abdecb33e9f3c886
 
 
 Pakeisti 6.886 straipsnį ir jį išdėstyti taip:
@@ -42,55 +47,55 @@ Pakeisti 6.886 straipsnį ir jį išdėstyti taip:
 „6.886 straipsnis. Vartojimo kredito sutarties samprata
 
 
-1. Vartojimo kredito sutartimi kredito davėjas suteikia arba įsipareigoja suteikti kredito gavėjui vartojimo kreditą atidėto mokėjimo, paskolos forma arba kitu panašiu finansiniu būdu, išskyrus sutartis dėl nuolatinio tos pačios rūšies paslaugų teikimo ar tos pačios rūšies prekių tiekimo, kai kredito gavėjas už teikiamas paslaugas ar tiekiamas prekes moka dalimis jų teikimo ar tiekimo metu. ^9d9cc68208542a800e878763
+1. Vartojimo kredito sutartimi kredito davėjas suteikia arba įsipareigoja suteikti kredito gavėjui vartojimo kreditą atidėto mokėjimo, paskolos forma arba kitu panašiu finansiniu būdu, išskyrus sutartis dėl nuolatinio tos pačios rūšies paslaugų teikimo ar tos pačios rūšies prekių tiekimo, kai kredito gavėjas už teikiamas paslaugas ar tiekiamas prekes moka dalimis jų teikimo ar tiekimo metu. ^s-3bdee46cf021a848bdff3fac
 
 
-2. Kredito davėjas, teikdamas vartojimo kredito paslaugą, privalo užtikrinti tinkamą atsakingo skolinimo principo įgyvendinimą. ^02d9a82ccaef45932da5602e
+2. Kredito davėjas, teikdamas vartojimo kredito paslaugą, privalo užtikrinti tinkamą atsakingo skolinimo principo įgyvendinimą. ^s-bd67fe055f87b42803bff6b8
 
 
-3. Su vartojimo kreditu susijusius santykius reglamentuoja šis kodeksas ir kiti įstatymai. ^5ddb3c10ad0b462840b8ac16
+3. Su vartojimo kreditu susijusius santykius reglamentuoja šis kodeksas ir kiti įstatymai. ^s-a9451038141f0cea3eb8bced
 
 
-4. Pagal šį straipsnį kredito davėjas yra asmuo, kuris įstatymų nustatyta tvarka ir atvejais dėl savo komercinės veiklos teikia arba įsipareigoja teikti vartojimo kreditus.“ ^d211a1f22146998770e36e18
-
-
-
-### 2 straipsnis. 6.887 straipsnio pripažinimas netekusiu galios
-
-
-6.887 straipsnį pripažinti netekusiu galios. ^da79fc1619d0beff07855975
+4. Pagal šį straipsnį kredito davėjas yra asmuo, kuris įstatymų nustatyta tvarka ir atvejais dėl savo komercinės veiklos teikia arba įsipareigoja teikti vartojimo kreditus.“ ^s-1131562c78903b028234af76
 
 
 
-### 3 straipsnis. 6.888 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 6.887 straipsnio pripažinimas netekusiu galios ^s-019d9df90788e2f2ad367558
 
 
-6.888 straipsnį pripažinti netekusiu galios. ^e358b5bf7d16da9b87825eab
-
-
-
-### 4 straipsnis. 6.889 straipsnio pripažinimas netekusiu galios
-
-
-6.889 straipsnį pripažinti netekusiu galios. ^9a6680b0157f6e068ceea4ac
+6.887 straipsnį pripažinti netekusiu galios. ^s-b54c2a7817474f2d78769014
 
 
 
-### 5 straipsnis. 6.890 straipsnio pripažinimas netekusiu galios
+### 3 straipsnis. 6.888 straipsnio pripažinimas netekusiu galios ^s-cbf056618e1f70130ed686f1
 
 
-6.890 straipsnį pripažinti netekusiu galios. ^1d4ce5b39f0421092b7190dd
-
-
-
-### 6 straipsnis. 6.891 straipsnio pripažinimas netekusiu galios
-
-
-6.891 straipsnį pripažinti netekusiu galios. ^d2e3d2a17832d0cae5aaf471
+6.888 straipsnį pripažinti netekusiu galios. ^s-bb908a0951139af6e7c90efb
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. 6.889 straipsnio pripažinimas netekusiu galios ^s-864a9e244dc51ba2ff1f3cdc
+
+
+6.889 straipsnį pripažinti netekusiu galios. ^s-b76c0bd00e7827e7801122e2
+
+
+
+### 5 straipsnis. 6.890 straipsnio pripažinimas netekusiu galios ^s-94d9c5d7a20f3567102e0276
+
+
+6.890 straipsnį pripažinti netekusiu galios. ^s-8011c9ef9593b93d56b6c598
+
+
+
+### 6 straipsnis. 6.891 straipsnio pripažinimas netekusiu galios ^s-bd28d01c3a2ffa57c1de6875
+
+
+6.891 straipsnį pripažinti netekusiu galios. ^s-39c4704f1334d493921f3204
+
+
+
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-e1293fe7cfb24202140632ee
 
 
 Šis įstatymas įsigalioja 2011 m. balandžio 1 d.

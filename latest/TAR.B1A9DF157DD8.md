@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B1A9DF157DD8"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-06-09"
 latest_path: "latest/TAR.B1A9DF157DD8.md"
 latest_sha256: "5c692783f34c285e499e6086bb513a748c064f4de587cc0adcf14275be756830"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B1A9DF157DD8]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B1A9DF157DD8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B1A9DF157DD8
+- Ryšiai: [[Ryšiai/TAR.B1A9DF157DD8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 4 dalies pakeitimas ^s-39dd2b8ea7d1e0506d08edb6
 
 
 21 straipsnio 4 dalyje vietoj datos „2004 m. liepos 1 d.“ įrašyti datą „2005 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip:

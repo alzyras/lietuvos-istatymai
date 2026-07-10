@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9B2AE00143EA"
 pavadinimas: "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 8 ir 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 8 ir 11 straipsnių pakeitimo įstatymas"
+  - "pakuočių ir pakuočių atliekų tvarkymo įstatymo 8 ir 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-21"
 latest_path: "latest/TAR.9B2AE00143EA.md"
 latest_sha256: "20b631e0c2dc89914e165120542b2a778e9df3abfb86ffb4365f3643658e532d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9B2AE00143EA]]"
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9B2AE00143EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9B2AE00143EA
+- Ryšiai: [[Ryšiai/TAR.9B2AE00143EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-bdf7ca15ddd4931960202049
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-5d5bfca822cb37392c61bf02
 
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:

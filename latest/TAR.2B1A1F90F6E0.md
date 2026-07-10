@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2B1A1F90F6E0"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-11-21"
 latest_path: "latest/TAR.2B1A1F90F6E0.md"
 latest_sha256: "21d3a62c852bd62bf0e1f3492b56b96d4f679ebe9adc1b374a753ba7a9780947"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2B1A1F90F6E0]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2B1A1F90F6E0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2B1A1F90F6E0
+- Ryšiai: [[Ryšiai/TAR.2B1A1F90F6E0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 19 punkto pakeitimas
+### 1 straipsnis. 15 straipsnio 19 punkto pakeitimas ^s-b0b23f6cb96c1de012508e74
 
 
 15 straipsnio 19 punktą pakeisti ir išdėstyti taip:
@@ -41,16 +46,16 @@ Vilnius
 
 
 
-### 2 straipsnis. 18 straipsnio 1 dalies 5 ir 6 punktų pakeitimas
+### 2 straipsnis. 18 straipsnio 1 dalies 5 ir 6 punktų pakeitimas ^s-13c13e8e2cb2081ce10a504a
 
 
-18 straipsnio 1 dalies 5 ir [[#^62e20ba7510011dd5d7bf4a4|6 punktus]] pakeisti ir išdėstyti taip:
+18 straipsnio 1 dalies 5 ir [[#^s-d1eb28b3457fa421875e1fdd|6 punktus]] pakeisti ir išdėstyti taip:
 
 
 „5) organizuoja savivaldybės teritorijos ar jos dalių bendrąjį, pagal kompetenciją specialųjį ir detalųjį planavimą, teritorijų planavimo dokumentų pakeitimų ir papildymų rengimą;
 
 
-6) organizuoja teritorijų planavimo dokumentų reikalavimų vykdymo kontrolę, nustato planavimo sąlygas ir reikalavimus bendrajam, specialiajam ir detaliajam planavimui, tvirtina kompleksinį statybos dokumentą su projektavimo sąlygomis ir reikalavimais, derina parengtą statytos projektą;“. ^62e20ba7510011dd5d7bf4a4
+6) organizuoja teritorijų planavimo dokumentų reikalavimų vykdymo kontrolę, nustato planavimo sąlygas ir reikalavimus bendrajam, specialiajam ir detaliajam planavimui, tvirtina kompleksinį statybos dokumentą su projektavimo sąlygomis ir reikalavimais, derina parengtą statytos projektą;“. ^s-d1eb28b3457fa421875e1fdd
 
 
 

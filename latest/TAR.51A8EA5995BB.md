@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.51A8EA5995BB"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 2 ir 3 straipsnių pakeitimo ir 8 straipsnio 2 dalies pripažinimo netekusia galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 2 ir 3 straipsnių pakeitimo ir 8 straipsnio 2 dalies pripažinimo netekusia galios įstatymas"
+  - "užsienio valiutos Lietuvos respublikoje įstatymo 2 ir 3 straipsnių pakeitimo ir 8 straipsnio 2 dalies pripažinimo netekusia galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-06"
 latest_path: "latest/TAR.51A8EA5995BB.md"
 latest_sha256: "379930156db24b31bbf7e8d5e2cc38cd682db184974b9ed371074f013c8e97cd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.51A8EA5995BB]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 2 ir 3 straipsnių pakeitimo ir 8 straipsnio 2 dalies pripažinimo netekusia galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.51A8EA5995BB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.51A8EA5995BB
+- Ryšiai: [[Ryšiai/TAR.51A8EA5995BB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,13 +37,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-d0c7fc736f9e1edf44fcf60d
 
 
-Pakeisti [[#2 straipsnis. 3 straipsnio pakeitimas|2 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-7412370733f3df2c0befede3|2 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#2 straipsnis. 3 straipsnio pakeitimas|2 straipsnis]]. Užsienio valiutos sąskaitos
+„[[#^s-7412370733f3df2c0befede3|2 straipsnis]]. Užsienio valiutos sąskaitos
 
 
 Lietuvos Respublikos ir užsienio valstybių fiziniai ir juridiniai asmenys turi teisę atidaryti užsienio valiutos sąskaitas ir laikyti indėlius Lietuvos Respublikos kredito įstaigose ir užsienio valstybių kredito įstaigų skyriuose, veikiančiuose Lietuvos Respublikoje.
@@ -47,17 +52,17 @@ Lietuvos Respublikos ir užsienio valstybių fiziniai ir juridiniai asmenys turi
 Lietuvos Respublikos fiziniai ir juridiniai asmenys turi teisę atidaryti užsienio valiutos sąskaitas ir laikyti indėlius užsienio valstybėse tose valstybėse nustatyta tvarka.
 
 
-Lietuvos Respublikos fiziniai ir juridiniai asmenys informaciją apie užsienio valstybėse atidarytas ir uždarytas sąskaitas praneša Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
+Lietuvos Respublikos fiziniai ir juridiniai asmenys informaciją apie užsienio valstybėse atidarytas ir uždarytas sąskaitas praneša Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-7412370733f3df2c0befede3
 
 
-Pakeisti [[#3 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios|3 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-e1c31d76a5b6b939fbd15dd3|3 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#3 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios|3 straipsnis]]. Užsienio valiutos keitimas ir naudojimas
+„[[#^s-e1c31d76a5b6b939fbd15dd3|3 straipsnis]]. Užsienio valiutos keitimas ir naudojimas
 
 
 Litus į užsienio valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio valiutą keičia (perka, parduoda) tik kredito įstaigos, turinčios tokiai veiklai įstatymų nustatyta tvarka išduotus leidimus (licencijas).
@@ -70,7 +75,7 @@ Užsienio valiuta gali būti naudojama tik šalių susitarimu mokėjimams ir ats
 
 
 
-### 3 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
+### 3 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios ^s-e1c31d76a5b6b939fbd15dd3
 
 
 8 straipsnio 2 dalį pripažinti netekusia galios.

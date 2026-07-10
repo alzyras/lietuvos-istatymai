@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.98DDE490811A"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "viešųjų pirkimų įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-31"
 latest_path: "latest/TAR.98DDE490811A.md"
 latest_sha256: "644aa3b09c27419ff534d2f5b8c68dc3f50dff4d7402df1eed0cd22042a2a6ed"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.98DDE490811A]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.98DDE490811A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.98DDE490811A
+- Ryšiai: [[Ryšiai/TAR.98DDE490811A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-a44f0027982484cd9d7d8cba
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -42,16 +47,16 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Perkančioji organizacija yra:
 
 
-1) valstybės ar savivaldybės valdymo institucija; ^971a0ee07d57125cb957102b
+1) valstybės ar savivaldybės valdymo institucija; ^s-5e565d1c3431de7002c3e438
 
 
-2) viešasis ar privatusis juridinis asmuo (išskyrus politines partijas), kuris atitinka šio straipsnio 2 dalies sąlygas; ^c9980c6f1931ebb7dd51130a
+2) viešasis ar privatusis juridinis asmuo (išskyrus politines partijas), kuris atitinka šio straipsnio 2 dalies sąlygas; ^s-3bdb9ccef3941e58c69dbeb4
 
 
-3) [[#^971a0ee07d57125cb957102b|šios dalies 1 punkte]] nurodytų institucijų ir (ar) [[#^c9980c6f1931ebb7dd51130a|2 punkte]] nurodytų viešųjų ar privačiųjų juridinių asmenų asociacija; ^743650a9b1a0f37110de18bb
+3) [[#^s-5e565d1c3431de7002c3e438|šios dalies 1 punkte]] nurodytų institucijų ir (ar) [[#^s-3bdb9ccef3941e58c69dbeb4|2 punkte]] nurodytų viešųjų ar privačiųjų juridinių asmenų asociacija; ^s-c2fa0351d6d1598722bc2117
 
 
-4) šio įstatymo 70 straipsnio 1 dalies 2, 3 ir [[#^525eeac1a10c574c6a56fa28|4 punktuose]] nurodytos perkančiosios įmonės, veikiančios vandentvarkos, energetikos, transporto ar pašto paslaugų srityje.“ ^525eeac1a10c574c6a56fa28
+4) šio įstatymo 70 straipsnio 1 dalies 2, 3 ir [[#^s-e3a91b458e97112461fd445a|4 punktuose]] nurodytos perkančiosios įmonės, veikiančios vandentvarkos, energetikos, transporto ar pašto paslaugų srityje.“ ^s-e3a91b458e97112461fd445a
 
 
 

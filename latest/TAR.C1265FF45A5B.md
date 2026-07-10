@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C1265FF45A5B"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-16"
 latest_path: "latest/TAR.C1265FF45A5B.md"
 latest_sha256: "550ac6670c7bb2ad9493244dfa8e631f50552370ff33578dcc1e1a8bb23abccd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C1265FF45A5B]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C1265FF45A5B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C1265FF45A5B
+- Ryšiai: [[Ryšiai/TAR.C1265FF45A5B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,56 +39,56 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1, 2 dalių pakeitimas ir straipsnio papildymas 6, 7, 8 dalimis
+### 1 straipsnis. 9 straipsnio 1, 2 dalių pakeitimas ir straipsnio papildymas 6, 7, 8 dalimis ^s-3cfa38409f2b94020c9584f4
 
 
-1. 9 straipsnio 1 dalyje vietoj žodžių ir skaičiaus „šio įstatymo 15“ įrašyti žodį „šis“ ir šią dalį išdėstyti taip: ^59ce241d6774448c551e693a
+1. 9 straipsnio 1 dalyje vietoj žodžių ir skaičiaus „šio įstatymo 15“ įrašyti žodį „šis“ ir šią dalį išdėstyti taip: ^s-b13dbcab9ee9989abf859fec
 
 
 „1. Tiek, kiek Krašto apsaugos ministerijos valdymo ypatumų nenustato šis straipsnis, jos valdymą ir valdymo struktūrą reglamentuoja Vyriausybės įstatymas ir Viešojo administravimo įstatymas.“
 
 
-2. 9 straipsnio 2 dalyje vietoj žodžių „Gynybos štabo viršininko“ įrašyti žodžius „pajėgumų ir ginkluotės generalinio direktoriaus“ ir šią dalį išdėstyti taip: ^892f8715022742ce1c0c2e8f
+2. 9 straipsnio 2 dalyje vietoj žodžių „Gynybos štabo viršininko“ įrašyti žodžius „pajėgumų ir ginkluotės generalinio direktoriaus“ ir šią dalį išdėstyti taip: ^s-d7df6f7f7f1ff8d926d931ef
 
 
-„2. Krašto apsaugos ministerijai vadovauja ministras. Vadovaudamasis Vyriausybės įstatymu, šiuo įstatymu ir kitais teisės aktais, ministras nustato viceministrų, ministerijos kanclerio ir pajėgumų ir ginkluotės generalinio direktoriaus kompetenciją bei funkcijas.“
+„2. Krašto apsaugos ministerijai vadovauja ministras. Vadovaudamasis [[latest/TAR.96A68BFC9E82|Vyriausybės įstatymu]], šiuo įstatymu ir kitais teisės aktais, ministras nustato viceministrų, ministerijos kanclerio ir pajėgumų ir ginkluotės generalinio direktoriaus kompetenciją bei funkcijas.“
 
 
-3. Papildyti 9 straipsnį 6 dalimi: ^639ddd0d8fb917718f103687
+3. Papildyti 9 straipsnį 6 dalimi: ^s-137ff30a1c67dee8add00ef3
 
 
 „6. Krašto apsaugos ministerijoje dirba pajėgumų ir ginkluotės generalinis direktorius, atsakingas už karinių pajėgumų ir ginkluotės strateginį planavimą, taip pat už šiuo įstatymu ir kitais teisės aktais nustatytų bei krašto apsaugos ministro ir Lietuvos kariuomenės vado jam pavestų funkcijų vykdymą. Pajėgumų ir ginkluotės generalinis direktorius padeda krašto apsaugos ministrui rengti ministrui pavestų valdymo sričių strateginį veiklos planą, kitus krašto apsaugos sistemos plėtros strateginius dokumentus ir valstybės karinę strategiją, o Lietuvos kariuomenės vadui – vykdyti strateginį kariuomenės planavimą.“
 
 
-4. Papildyti 9 straipsnį 7 dalimi: ^a03d5db487d671a023256110
+4. Papildyti 9 straipsnį 7 dalimi: ^s-bde2b5bdfaa8eb1b5633db1f
 
 
 „7. Pajėgumų ir ginkluotės generalinis direktorius yra pavaldus krašto apsaugos ministrui ir atskaitingas Lietuvos kariuomenės vadui. Pajėgumų ir ginkluotės generaliniu direktoriumi gali būti skiriamas ne žemesnio kaip pulkininko (jūrų kapitono) laipsnio karininkas.“
 
 
-5. Papildyti 9 straipsnį 8 dalimi: ^fbefd87f90cc2039aa39c72f
+5. Papildyti 9 straipsnį 8 dalimi: ^s-993cd988d244181eb0be4077
 
 
 „8. Pajėgumų ir ginkluotės generalinis direktorius jam krašto apsaugos ministro nustatytose veiklos srityse:
 
 
-1) planuoja ilgalaikę karinių pajėgumų ir ginkluotės, karinės technikos ir įrangos plėtrą, organizuoja, koordinuoja ir kontroliuoja jų plėtros strateginių dokumentų rengimą, derinimą ir įgyvendinimą; ^dc71e3311b2eaf068fab5988
+1) planuoja ilgalaikę karinių pajėgumų ir ginkluotės, karinės technikos ir įrangos plėtrą, organizuoja, koordinuoja ir kontroliuoja jų plėtros strateginių dokumentų rengimą, derinimą ir įgyvendinimą; ^s-522810996f0121c563bc80e8
 
 
-2) koordinuoja ir kontroliuoja krašto apsaugos ministro jam pavestų Krašto apsaugos ministerijos administracijos padalinių veiklą; ^308be09c76d6d9a256faf9d1
+2) koordinuoja ir kontroliuoja krašto apsaugos ministro jam pavestų Krašto apsaugos ministerijos administracijos padalinių veiklą; ^s-3fbca1eb7fdd4f3f4fee94c3
 
 
-3) organizuoja Krašto apsaugos ministerijos strateginius tikslus ir Vyriausybės programos nuostatas atitinkančių strateginių veiklos planų ir teisės aktų projektų rengimą ir derinimą; ^292713e7d2f814ab78d2f5a4
+3) organizuoja Krašto apsaugos ministerijos strateginius tikslus ir Vyriausybės programos nuostatas atitinkančių strateginių veiklos planų ir teisės aktų projektų rengimą ir derinimą; ^s-9da25e8394b0790746f52426
 
 
-4) organizuoja ir kontroliuoja, kaip vykdomi Ministro Pirmininko ir Vyriausybės, krašto apsaugos ministro ir Lietuvos kariuomenės vado pavedimai; ^548f11835a297302fe240f53
+4) organizuoja ir kontroliuoja, kaip vykdomi Ministro Pirmininko ir Vyriausybės, krašto apsaugos ministro ir Lietuvos kariuomenės vado pavedimai; ^s-96f1bfcf8692b1e9ab196c92
 
 
-5) atlieka kitas krašto apsaugos ministro ar Lietuvos kariuomenės vado pavestas funkcijas.“ ^d5d314e4a2e5fc116d7bd51d
+5) atlieka kitas krašto apsaugos ministro ar Lietuvos kariuomenės vado pavestas funkcijas.“ ^s-9e94de06c2a9883bf65b918b
 
 
 
-### 2 straipsnis. 10 straipsnio 2 dalies 15 punkto pakeitimas
+### 2 straipsnis. 10 straipsnio 2 dalies 15 punkto pakeitimas ^s-f6610030d81615adb08e7192
 
 
 10 straipsnio 2 dalies 15 punkte vietoj žodžių „Gynybos štabo viršininką“ įrašyti žodžius „pajėgumų ir ginkluotės generalinį direktorių“ ir šį punktą išdėstyti taip:
@@ -93,23 +98,23 @@ Vilnius
 
 
 
-### 3 straipsnis. 13 straipsnio 8 ir 10 dalių pakeitimas
+### 3 straipsnis. 13 straipsnio 8 ir 10 dalių pakeitimas ^s-f735720a355505914e60d165
 
 
-1. Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip: ^a14c773b085c0c6a742d42b9
+1. Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip: ^s-3f069f0b5b40c713ab3d4210
 
 
 „8. Vykdydamas įstatymų ir kitų teisės aktų nustatytas ar krašto apsaugos ministro pavestas funkcijas, kariuomenės vadas leidžia įsakymus ir duoda privalomus nurodymus kariuomenei (ginkluotosioms pajėgoms). Vykdydamas strateginio lygmens vadovavimo kariuomenei (ginkluotosioms pajėgoms) funkcijas, kariuomenės vadas turi teisę pasitelkti Krašto apsaugos ministerijos administracijos padalinius krašto apsaugos ministro nustatyta tvarka.“
 
 
-2. 13 straipsnio 10 dalyje išbraukti žodžius „Gynybos štabo viršininkas arba“ ir šią dalį išdėstyti taip: ^7558e035994fdb1f0a145869
+2. 13 straipsnio 10 dalyje išbraukti žodžius „Gynybos štabo viršininkas arba“ ir šią dalį išdėstyti taip: ^s-822c1fc5c986e188844cb96e
 
 
 „10. Kai kariuomenės vado nėra arba jis laikinai negali vykdyti pareigų, krašto apsaugos ministro įsakymu jį pavaduoja kitas karininkas, turintis generolo (admirolo) laipsnį.“
 
 
 
-### 4 straipsnis. 14 straipsnio 8 dalies pakeitimas
+### 4 straipsnis. 14 straipsnio 8 dalies pakeitimas ^s-dc08639d7fe1cd338c66a221
 
 
 Pakeisti 14 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -119,14 +124,14 @@ Pakeisti 14 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 15 straipsnio pripažinimas netekusiu galios
+### 5 straipsnis. 15 straipsnio pripažinimas netekusiu galios ^s-562e81c2405c7ddae4a1b840
 
 
 15 straipsnį pripažinti netekusiu galios.
 
 
 
-### 6 straipsnis. 54 straipsnio 8 dalies pakeitimas
+### 6 straipsnis. 54 straipsnio 8 dalies pakeitimas ^s-b1ebb86b6e709e472ce114f8
 
 
 54 straipsnio 8 dalyje vietoj žodžių „Gynybos štabo viršininku“ įrašyti žodžius „pajėgumų ir ginkluotės generaliniu direktoriumi“ ir šią dalį išdėstyti taip:
@@ -136,7 +141,7 @@ Pakeisti 14 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 57 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 57 straipsnio 1 dalies pakeitimas ^s-d7bfe8ea78be224f0d984609
 
 
 Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:

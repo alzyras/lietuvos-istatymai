@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.51A6D955E47C"
 pavadinimas: "Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-08"
 latest_path: "latest/TAR.51A6D955E47C.md"
 latest_sha256: "0924ae111fdb12890466e27bffe0257bfe1b3e69e86724494dd463060b719838"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.51A6D955E47C]]"
 ---
 # Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.51A6D955E47C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.51A6D955E47C
+- Ryšiai: [[Ryšiai/TAR.51A6D955E47C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,10 +34,10 @@ Vilnius
 
 
 
-Papildyti Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo (Žin., 1993, Nr. 11-265; 1994, Nr. 51-952; 1995, Nr. 87-1955) 1 straipsnio pirmąją dalį ir ją išdėstyti taip:
+Papildyti [[latest/TAR.33A63C3E9D4C|Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo]] (Žin., 1993, Nr. 11-265; 1994, Nr. 51-952; 1995, Nr. 87-1955) 1 straipsnio pirmąją dalį ir ją išdėstyti taip:
 
 
-„Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo sprendžia lietuvių kalbos kodifikacijos, normų vartojimo ir Valstybinės kalbos įstatymo įgyvendinimo klausimus, taip pat vykdo valstybinės lietuvių kalbos ugdymo programas, tvarko ir naudoja valstybės biudžeto bei kitas lėšas, skirtas šioms programoms įgyvendinti.“
+„Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo sprendžia lietuvių kalbos kodifikacijos, normų vartojimo ir [[latest/TAR.0B0253BB424C|Valstybinės kalbos įstatymo]] įgyvendinimo klausimus, taip pat vykdo valstybinės lietuvių kalbos ugdymo programas, tvarko ir naudoja valstybės biudžeto bei kitas lėšas, skirtas šioms programoms įgyvendinti.“
 
 
 

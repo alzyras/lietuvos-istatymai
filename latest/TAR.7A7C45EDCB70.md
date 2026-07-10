@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7A7C45EDCB70"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 110 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 110 straipsnio pakeitimo įstatymas"
+  - "administracinių bylų teisenos įstatymo 110 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.7A7C45EDCB70.md"
 latest_sha256: "11d3312d9a862cb897d81a248cd7d4860a601809cf7080e222341d92b35365f7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7A7C45EDCB70]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 110 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7A7C45EDCB70.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7A7C45EDCB70
+- Ryšiai: [[Ryšiai/TAR.7A7C45EDCB70|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 110 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 110 straipsnio 1 dalies pakeitimas ^s-806bad17e2fa49696e200c99
 
 
 Pakeisti 110 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 110 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c4034e459fda0d9237c947b8
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

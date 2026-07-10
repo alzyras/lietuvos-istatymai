@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3DFE91BF2E7B"
 pavadinimas: "Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas"
+  - "kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.3DFE91BF2E7B.md"
 latest_sha256: "54bc6a510b4e3107465f6128147fbf9b1795b30fe0078894709693fe1d9adbe5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3DFE91BF2E7B]]"
 ---
 # Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3DFE91BF2E7B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3DFE91BF2E7B
+- Ryšiai: [[Ryšiai/TAR.3DFE91BF2E7B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-36e323dc514e938424a32bc7
 
 
 9 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 12 straipsnio 9 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 9 punkto pakeitimas ^s-e4e15327a3fabe8628b9f5b9
 
 
 12 straipsnio 9 punkte vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 13 straipsnio pakeitimas
+### 3 straipsnis. 13 straipsnio pakeitimas ^s-4decb305fc51ddc1014ed3fa
 
 
 13 straipsnio pavadinime vietoj žodžių „Apskrities valdytojo“ įrašyti žodžius „Apskrities viršininko“, straipsnyje vietoj žodžių „Apskrities valdytojas“ įrašyti žodžius „Apskrities viršininkas“ ir šį straipsnį išdėstyti taip:
@@ -63,25 +68,25 @@ Vilnius
 Apskrities viršininkas:
 
 
-1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja valstybines kūno kultūros ir sporto įstaigas bei tarnybas; ^5d3fa7f085b7a72480934a56
+1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja valstybines kūno kultūros ir sporto įstaigas bei tarnybas; ^s-e24421c9280ce6db9d8ff95d
 
 
-2) atsako už apskrities kūno kultūros ir sporto įstaigų bei tarnybų funkcionavimą ir išlaikymą; ^6a0ca9e5dfaabb601a0f6b2b
+2) atsako už apskrities kūno kultūros ir sporto įstaigų bei tarnybų funkcionavimą ir išlaikymą; ^s-e258f143d0faadeda9b23d23
 
 
-3) rūpinasi valstybinių kūno kultūros ir sporto programų įgyvendinimu apskrityje; ^a3f1faa4730d21b5060f6ef0
+3) rūpinasi valstybinių kūno kultūros ir sporto programų įgyvendinimu apskrityje; ^s-6c01c6bf780d5009bd0b98fa
 
 
-4) nustato prioritetines apskrities kūno kultūros ir sporto raidos kryptis, rengia kūno kultūros ir sporto plėtojimo apskrityje programas ir jas įgyvendina; ^9328914d373010084b18361b
+4) nustato prioritetines apskrities kūno kultūros ir sporto raidos kryptis, rengia kūno kultūros ir sporto plėtojimo apskrityje programas ir jas įgyvendina; ^s-6e493a3f7744ab4896a54ed8
 
 
-5) skiria lėšas apskričiai atstovaujančioms sporto komandoms ar sportininkams rengti ir jiems dalyvauti šalies ar tarptautinėse varžybose, sveikos gyvensenos ir kūno kultūros reikmėms; ^44dc36655d0d6d8feebfc4d6
+5) skiria lėšas apskričiai atstovaujančioms sporto komandoms ar sportininkams rengti ir jiems dalyvauti šalies ar tarptautinėse varžybose, sveikos gyvensenos ir kūno kultūros reikmėms; ^s-0cc62d9b5c58f51fc303362e
 
 
-6) rūpinasi vaikų, jaunimo, dirbančiųjų bei pagyvenusių žmonių, taip pat invalidų ir kitų apskrities gyventojų kūno kultūra ir sportu; ^4da6650baceedfbc1221292b
+6) rūpinasi vaikų, jaunimo, dirbančiųjų bei pagyvenusių žmonių, taip pat invalidų ir kitų apskrities gyventojų kūno kultūra ir sportu; ^s-1c38797299193164a4072957
 
 
-7) rūpinasi sportininkų rezervo, didelio meistriškumo sportininkų rengimu, rengia iš valstybės lėšų finansuojamų apskrities sporto varžybų sistemą ir ją įgyvendina.“ ^45795e503d3f5e0396514552
+7) rūpinasi sportininkų rezervo, didelio meistriškumo sportininkų rengimu, rengia iš valstybės lėšų finansuojamų apskrities sporto varžybų sistemą ir ją įgyvendina.“ ^s-ac8a26b1548ea84f30a449df
 
 
 

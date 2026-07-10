@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.691E630095C2"
 pavadinimas: "Lietuvos Respublikos papildomų užimtumo garantijų invalidams laikinasis įstatymas"
+aliases:
+  - "Lietuvos Respublikos papildomų užimtumo garantijų invalidams laikinasis įstatymas"
+  - "papildomų užimtumo garantijų invalidams laikinasis įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-08-21"
 latest_path: "latest/TAR.691E630095C2.md"
 latest_sha256: "5e4258a1c54f8c37e5f92efa7033dfcd1afc71ddbcd91b43a6b65fe3f44eb72e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.691E630095C2]]"
 ---
 # Lietuvos Respublikos papildomų užimtumo garantijų invalidams laikinasis įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.691E630095C2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.691E630095C2
+- Ryšiai: [[Ryšiai/TAR.691E630095C2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,7 +44,7 @@ Invalidai įdarbinami įprastinėse darbo vietose arba specialiai jiems įrengto
 2 straipsnis
 
 
-Invalidams įdarbinti Darbo biržos teikimu vietos savivaldybės kasmet darbdaviams nustato invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotas iki 5 procentų nuo bendro darbuotojų skaičiaus pagal Lietuvos Respublikos gyventojų užimtumo įstatymo 7 ir 8 straipsnių nuostatas.
+Invalidams įdarbinti Darbo biržos teikimu vietos savivaldybės kasmet darbdaviams nustato invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotas iki 5 procentų nuo bendro darbuotojų skaičiaus pagal Lietuvos Respublikos gyventojų [[latest/422c8b5042b811e6a8ae9e1795984391#^s-07f06cc4e1d70abb9fbd9342|užimtumo įstatymo 7 ir 8 straipsnių]] nuostatas.
 
 
 
@@ -53,7 +58,7 @@ Invalido, kurio integracija į darbą reikalauja ypatingų darbdavio pastangų, 
 4 straipsnis
 
 
-Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomus įnašus į Užimtumo fondą Lietuvos Respublikos gyventojų užimtumo įstatymo nustatyta tvarka. Papildomų įnašų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus.
+Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomus įnašus į Užimtumo fondą Lietuvos Respublikos gyventojų [[latest/422c8b5042b811e6a8ae9e1795984391|užimtumo įstatymo]] nustatyta tvarka. Papildomų įnašų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D5B6433B4731"
 pavadinimas: "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio papildymo įstatymas"
+  - "tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-01"
 latest_path: "latest/TAR.D5B6433B4731.md"
 latest_sha256: "e8baaf5c6c7944fb8e3286277b2ae08966a7c7033d1b461c0ea388c2d9859c3a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D5B6433B4731]]"
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D5B6433B4731.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D5B6433B4731
+- Ryšiai: [[Ryšiai/TAR.D5B6433B4731|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas 9 dalimi
+### 1 straipsnis. 4 straipsnio papildymas 9 dalimi ^s-972fdf4c2b3df4d3527f5bc0
 
 
 Papildyti 4 straipsnį 9 dalimi:
@@ -42,7 +47,7 @@ Papildyti 4 straipsnį 9 dalimi:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e8c5574d9bbb3da891cacbcd
 
 
 Įstatymas įsigalioja 2009 m. liepos 1 d.

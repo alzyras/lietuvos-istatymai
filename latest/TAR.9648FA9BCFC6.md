@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9648FA9BCFC6"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio papildymo ir 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio papildymo ir 14 straipsnio pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 3 straipsnio papildymo ir 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-01"
 latest_path: "latest/TAR.9648FA9BCFC6.md"
 latest_sha256: "cdad74a5b282db56fdcc97ba73a786f29c10c3742b8ae97840d42d3a7edba04d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9648FA9BCFC6]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio papildymo ir 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9648FA9BCFC6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9648FA9BCFC6
+- Ryšiai: [[Ryšiai/TAR.9648FA9BCFC6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies papildymas
+### 1 straipsnis. 3 straipsnio 1 dalies papildymas ^s-4466f2f438663b575680a19a
 
 
 Papildyti 3 straipsnio 1 dalį antru sakiniu ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 3 straipsnio 1 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-6e608559a123f3831088c9fb
 
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Šio įstatymo įgyvendinimas
+### 3 straipsnis. Šio įstatymo įgyvendinimas ^s-6854fe62c73dc613ef6edac4
 
 
 Šis įstatymas įsigalioja ir jame numatytos nukentėjusių asmenų valstybinės našlaičių pensijos skiriamos ir mokamos nuo 1999 m. gruodžio 1 d. Įsigaliojus šiam įstatymui, anksčiau paskirtos našlaičių pensijos nemokamos.

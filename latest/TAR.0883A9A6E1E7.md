@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0883A9A6E1E7"
 pavadinimas: "Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 19, 30, 34-23 straipsnių, aštuntojo-10 skirsnio pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 19, 30, 34-23 straipsnių, aštuntojo-10 skirsnio pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "atliekų tvarkymo įstatymo 2, 19, 30, 34-23 straipsnių, aštuntojo-10 skirsnio pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-01"
 latest_path: "latest/TAR.0883A9A6E1E7.md"
 latest_sha256: "9c9595461f45f274570b01e86d0bc86902cf58fb5da6dfd4c9290e85ef0913dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0883A9A6E1E7]]"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 19, 30, 34-23 straipsnių, aštuntojo-10 skirsnio pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0883A9A6E1E7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0883A9A6E1E7
+- Ryšiai: [[Ryšiai/TAR.0883A9A6E1E7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,30 +39,30 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 44 ir 46 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 44 ir 46 dalių pakeitimas ^s-a3f6a47d543fcd75f559664b
 
 
-1. Pakeisti 2 straipsnio 44 dalį ir ją išdėstyti taip: ^440c9ed7cd8618ecbe798edc
+1. Pakeisti 2 straipsnio 44 dalį ir ją išdėstyti taip: ^s-dfba4d29fa44efb8d32d0916
 
 
 „44. Komunalinių atliekų tvarkymo sistemos administratorius – vienos, kelių ar visų į komunalinių atliekų tvarkymo regioną įeinančių savivaldybių įsteigtas juridinis asmuo, savivaldybės (savivaldybių) pavedimu atliekantis komunalinių atliekų tvarkymo sistemos organizavimo funkcijas ir (ar) teikiantis atliekų tvarkymo paslaugas.“
 
 
-2. Pakeisti 2 straipsnio 46 dalį ir ją išdėstyti taip: ^e4fc5f95e07409e86f4c2389
+2. Pakeisti 2 straipsnio 46 dalį ir ją išdėstyti taip: ^s-d24355730b5662cb45bb3253
 
 
 „46. Leidimas – taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, rengiami ir išduodami teisės aktų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. 5 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 5 straipsnio pripažinimas netekusiu galios ^s-df49d3c150213c5dc725ba32
 
 
-[[#5 straipsnis. 3423 straipsnio 13 dalies 2 punkto pakeitimas|5 straipsnį]] pripažinti netekusiu galios.
+[[#^s-b9e6748b93a7def82a5b4543|5 straipsnį]] pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. 19 straipsnio pakeitimas
+### 3 straipsnis. 19 straipsnio pakeitimas ^s-68439613baf398484473ac6e
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
@@ -67,14 +72,14 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 „19 straipsnis. Avarijų prevencija, likvidavimas, tyrimas
 
 
-1. Įmonės, kurios steigia ar yra įsteigusios ir eksploatuoja valstybinės reikšmės atliekų tvarkymo objektus, ir įmonės, kuriose susidaro pavojingosios atliekos, ir pavojingąsias atliekas tvarkančios bei nepavojingąsias atliekas šalinančios įmonės privalo teisės aktų nustatyta tvarka parengti Lietuvos Respublikos civilinės saugos įstatyme numatytus ekstremaliųjų situacijų valdymo planus. ^6e3297db4e4c9b40e891eadd
+1. Įmonės, kurios steigia ar yra įsteigusios ir eksploatuoja valstybinės reikšmės atliekų tvarkymo objektus, ir įmonės, kuriose susidaro pavojingosios atliekos, ir pavojingąsias atliekas tvarkančios bei nepavojingąsias atliekas šalinančios įmonės privalo teisės aktų nustatyta tvarka parengti [[latest/TAR.C15592B096FA|Lietuvos Respublikos civilinės saugos įstatyme]] numatytus ekstremaliųjų situacijų valdymo planus. ^s-41ead7709cf223b15c350813
 
 
-2. Įvykus avarijai arba išsipylus pavojingosioms atliekoms ar jų pavojingiems komponentams, galintiems sukelti pavojų žmonių sveikatai ar aplinkai, avarija nedelsiant turi būti likviduojama pagal ekstremaliųjų situacijų valdymo planus ir nustatomos avarijos priežastys.“ ^3778cb9cb6bb831444f954af
+2. Įvykus avarijai arba išsipylus pavojingosioms atliekoms ar jų pavojingiems komponentams, galintiems sukelti pavojų žmonių sveikatai ar aplinkai, avarija nedelsiant turi būti likviduojama pagal ekstremaliųjų situacijų valdymo planus ir nustatomos avarijos priežastys.“ ^s-20a90f71fd772d6b0b7fad5a
 
 
 
-### 4 straipsnis. 30 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 30 straipsnio 1 dalies pakeitimas ^s-00fe07d1b603e51ba5c5b060
 
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -84,7 +89,7 @@ Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 3423 straipsnio 13 dalies 2 punkto pakeitimas
+### 5 straipsnis. 3423 straipsnio 13 dalies 2 punkto pakeitimas ^s-b9e6748b93a7def82a5b4543
 
 
 Pakeisti 3423 straipsnio 13 dalies 2 punktą ir jį išdėstyti taip:
@@ -94,7 +99,7 @@ Pakeisti 3423 straipsnio 13 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. Aštuntojo10 skirsnio pakeitimas
+### 6 straipsnis. Aštuntojo10 skirsnio pakeitimas ^s-bbc16dc86c3a0ec68f77226e
 
 
 Pakeisti aštuntąjį10 skirsnį ir jį išdėstyti taip:
@@ -106,155 +111,155 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 
 
 
-### 3425 straipsnis. Reikalavimai atliekų tvarkytojams, kurie išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus
+### 3425 straipsnis. Reikalavimai atliekų tvarkytojams, kurie išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus ^s-29141a6e3dc55d15c50ae489
 
 
-1. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti tie gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuotės atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, kurie atitinka šiame straipsnyje nustatytus reikalavimus ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka yra įrašyti į Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąrašą (toliau šiame straipsnyje – Atliekų tvarkytojų sąrašas). Gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuotės atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus vadovaudamiesi aplinkos ministro nustatyta tvarka. Draudžiamas neteisėtas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymas. ^9f4f2c0648e3386703e160fe
+1. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti tie gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuotės atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, kurie atitinka šiame straipsnyje nustatytus reikalavimus ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka yra įrašyti į Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąrašą (toliau šiame straipsnyje – Atliekų tvarkytojų sąrašas). Gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuotės atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus vadovaudamiesi aplinkos ministro nustatyta tvarka. Draudžiamas neteisėtas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymas. ^s-95dced0dcb1dee1af0bbe618
 
 
-2. Neteisėtu gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išrašymu laikoma, kai toks dokumentas yra išrašytas už: ^5d99f092664fe6d59ede044b
+2. Neteisėtu gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išrašymu laikoma, kai toks dokumentas yra išrašytas už: ^s-4389fdddef6c22bbd6b647c8
 
 
-1) tas gaminių ir (ar) pakuočių atliekų rūšis, už kurias išrašyti tokį dokumentą asmuo neturėjo teisės; ^daa35dc5f0b2f46d085355a3
+1) tas gaminių ir (ar) pakuočių atliekų rūšis, už kurias išrašyti tokį dokumentą asmuo neturėjo teisės; ^s-3ba9aab2ec392c5d97be1bc6
 
 
-2) ne Lietuvos Respublikos teritorijoje surinktą gaminių ir (ar) pakuočių atliekų kiekį; ^4c31f5d9e90418fc8e58d0e5
+2) ne Lietuvos Respublikos teritorijoje surinktą gaminių ir (ar) pakuočių atliekų kiekį; ^s-884559626810767a237380d0
 
 
-3) kiekį tų atliekų, kurios nepriskiriamos gaminių ir (ar) pakuočių atliekoms; ^9fd52c2f4cc5d7fcdfc3acd9
+3) kiekį tų atliekų, kurios nepriskiriamos gaminių ir (ar) pakuočių atliekoms; ^s-82e385b1417f0fb1a223744c
 
 
-4) komunalinių atliekų sraute susidarančias gaminių ir (ar) pakuočių atliekas, surinktas ne savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ir jas papildančiose atliekų surinkimo sistemose; ^3fea11accc5b9da2ef228096
+4) komunalinių atliekų sraute susidarančias gaminių ir (ar) pakuočių atliekas, surinktas ne savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ir jas papildančiose atliekų surinkimo sistemose; ^s-33491dfcefef5bd1ba1a0518
 
 
-5) komunalinių atliekų sraute susidarančias gaminių ir (ar) pakuočių atliekas, surinktas asmens, kuris neturi teisės aktų nustatyta tvarka sudarytos sutarties su tomis savivaldybėmis (ar jų įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemas), kurių organizuojamose komunalinių atliekų tvarkymo sistemose ir jas papildančiose atliekų surinkimo sistemose surenka buityje naudojamas elektros ir elektroninės įrangos ir (ar) pakuočių atliekas; ^b553626c5cf78280c81561a6
+5) komunalinių atliekų sraute susidarančias gaminių ir (ar) pakuočių atliekas, surinktas asmens, kuris neturi teisės aktų nustatyta tvarka sudarytos sutarties su tomis savivaldybėmis (ar jų įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemas), kurių organizuojamose komunalinių atliekų tvarkymo sistemose ir jas papildančiose atliekų surinkimo sistemose surenka buityje naudojamas elektros ir elektroninės įrangos ir (ar) pakuočių atliekas; ^s-bffc69a10dab7c3c3f77f6f0
 
 
-6) tą gaminių ir (ar) pakuočių atliekų kiekį, kuris gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išrašymo metu dar nebuvo sutvarkytas; ^bacf1a7e06faaf1b26016d09
+6) tą gaminių ir (ar) pakuočių atliekų kiekį, kuris gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išrašymo metu dar nebuvo sutvarkytas; ^s-b7df5b5276d3457a9f252874
 
 
-7) tą eksportuotą gaminių ir (ar) pakuočių atliekų kiekį, apie kurio išvežimą neinformuota ir (ar) nepateiktas iš gavėjo gautas dokumentas, patvirtinantis išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą, teisės aktų nustatyta tvarka ir terminais. ^426da3b9f91f86d7463c9f8d
+7) tą eksportuotą gaminių ir (ar) pakuočių atliekų kiekį, apie kurio išvežimą neinformuota ir (ar) nepateiktas iš gavėjo gautas dokumentas, patvirtinantis išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą, teisės aktų nustatyta tvarka ir terminais. ^s-d2a3224de47eda80f7426e98
 
 
-3. Sprendimus dėl gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų pripažinimo negaliojančiais, vadovaudamasi aplinkos ministro nustatyta tvarka, priima Aplinkos ministerijos įgaliota institucija. ^25d44b60c6f05dedd07d0ecc
+3. Sprendimus dėl gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų pripažinimo negaliojančiais, vadovaudamasi aplinkos ministro nustatyta tvarka, priima Aplinkos ministerijos įgaliota institucija. ^s-a33cac3c310269a808679792
 
 
-4. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų naudojimo (perdirbimo) veiklai, atitinka šiuos reikalavimus: ^9f320a22da811a4056399d2a
+4. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų naudojimo (perdirbimo) veiklai, atitinka šiuos reikalavimus: ^s-01e545cb356fc2309faf2acc
 
 
-1) gaminių ir (ar) pakuočių atliekas naudoja (perdirba) taikydami aplinkos ministro nustatytus atliekų tvarkymo geriausiai prieinamus gamybos būdus, tai yra veiksmingiausias šioje pramonės šakoje išplėtotas atliekų tvarkymo technologijas, nekenkiančias visuomenės sveikatai ir aplinkai arba, jeigu poveikio neįmanoma išvengti, darančias kuo mažesnę įtaką visuomenės sveikatai ir aplinkai; ^ca5f72dfd3393cd3efe1f5de
+1) gaminių ir (ar) pakuočių atliekas naudoja (perdirba) taikydami aplinkos ministro nustatytus atliekų tvarkymo geriausiai prieinamus gamybos būdus, tai yra veiksmingiausias šioje pramonės šakoje išplėtotas atliekų tvarkymo technologijas, nekenkiančias visuomenės sveikatai ir aplinkai arba, jeigu poveikio neįmanoma išvengti, darančias kuo mažesnę įtaką visuomenės sveikatai ir aplinkai; ^s-04cfaf5b921a96151ce82852
 
 
-2) pagal tarptautinių ir (ar) nacionalinių standartų reikalavimus technologinio proceso metu iš gaminių ar pakuočių atliekų pagamina produktą, kuris turi paklausą ar rinką, yra visuotinai naudojamas konkretiems tikslams ir žymimas prekių kodu pagal Kombinuotosios nomenklatūros versiją, patvirtintą 2010 m. spalio 5 d. Europos Komisijos reglamentu (ES) Nr. 861/2010 (OL 2010 L 284, p. 1); ^2e039d998ad8abbb8be54f7f
+2) pagal tarptautinių ir (ar) nacionalinių standartų reikalavimus technologinio proceso metu iš gaminių ar pakuočių atliekų pagamina produktą, kuris turi paklausą ar rinką, yra visuotinai naudojamas konkretiems tikslams ir žymimas prekių kodu pagal Kombinuotosios nomenklatūros versiją, patvirtintą 2010 m. spalio 5 d. Europos Komisijos reglamentu (ES) Nr. 861/2010 (OL 2010 L 284, p. 1); ^s-78bf069f57bcc3d7b5ff1440
 
 
-3) savo teritorijoje, kurioje gaminių ir (ar) pakuočių atliekos naudojamos (perdirbamos), turi įrengtą metrologiškai patikrintą ir galiojantį metrologinės patikros sertifikatą turintį svėrimo įrenginį (toliau šiame straipsnyje – svėrimo įrenginys); ^d36b01e48974a97f4ab53262
+3) savo teritorijoje, kurioje gaminių ir (ar) pakuočių atliekos naudojamos (perdirbamos), turi įrengtą metrologiškai patikrintą ir galiojantį metrologinės patikros sertifikatą turintį svėrimo įrenginį (toliau šiame straipsnyje – svėrimo įrenginys); ^s-2a09966ef03058be9398bea0
 
 
-4) atlieka gaminių atliekų pradinį apdorojimą ir naudoja (perdirba) jų sudedamąsias medžiagas ar dalis ir (arba) atlieka gaminių atliekų pradinį apdorojimą ir jų sudedamąsias medžiagas ar dalis perduoda teisėtai veikiantiems tokių atliekų naudotojams (perdirbėjams) arba eksportuotojams pagal turimas su jais sutartis dėl gaminių atliekų sudedamųjų medžiagų ar dalių panaudojimo (perdirbimo) ar išvežimo panaudoti (perdirbti) į valstybes nares ir kurie gali patvirtinti, kad iš tų atliekų buvo pagamintas produktas, kaip nustatyta [[#^2e039d998ad8abbb8be54f7f|šios dalies 2 punkte]]. ^e884e7c61e13d528baa3b15f
+4) atlieka gaminių atliekų pradinį apdorojimą ir naudoja (perdirba) jų sudedamąsias medžiagas ar dalis ir (arba) atlieka gaminių atliekų pradinį apdorojimą ir jų sudedamąsias medžiagas ar dalis perduoda teisėtai veikiantiems tokių atliekų naudotojams (perdirbėjams) arba eksportuotojams pagal turimas su jais sutartis dėl gaminių atliekų sudedamųjų medžiagų ar dalių panaudojimo (perdirbimo) ar išvežimo panaudoti (perdirbti) į valstybes nares ir kurie gali patvirtinti, kad iš tų atliekų buvo pagamintas produktas, kaip nustatyta [[#^s-78bf069f57bcc3d7b5ff1440|šios dalies 2 punkte]]. ^s-0fd6479434c24d096228c762
 
 
-5. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų eksportuotojai, kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų išvežimo veiklai, atitinka šiuos reikalavimus: ^83005c85fd416cbf84800795
+5. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų eksportuotojai, kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų išvežimo veiklai, atitinka šiuos reikalavimus: ^s-eb946c95a058eb159b1c6a76
 
 
-1) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas; ^459c73034f8b1b8ff1899887
+1) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas; ^s-13772d6e07797fa6dedf3456
 
 
-2) atlieka pradinį gaminių atliekų apdorojimą ir išveža panaudoti (perdirbti) jų sudedamąsias medžiagas ar dalis į valstybes nares arba į valstybes nares išveža panaudoti (perdirbti) neapdorotas gaminių atliekas, arba į valstybes nares išveža panaudoti (perdirbti) pakuočių atliekas; ^e342b5a54f3016432f9f1bc8
+2) atlieka pradinį gaminių atliekų apdorojimą ir išveža panaudoti (perdirbti) jų sudedamąsias medžiagas ar dalis į valstybes nares arba į valstybes nares išveža panaudoti (perdirbti) neapdorotas gaminių atliekas, arba į valstybes nares išveža panaudoti (perdirbti) pakuočių atliekas; ^s-f5d8f8e6c61874b12ad9ec00
 
 
-3) turi atitinkamų gaminių ir (ar) pakuočių atliekų naudojimo (perdirbimo) sutartį su šias atliekas valstybėse narėse panaudosiančiu (perdirbsiančiu) atliekų tvarkytoju (toliau šiame straipsnyje – gavėjas), kurioje nurodytas gavėjo naudojamų (perdirbamų) gaminių ir (ar) pakuočių atliekų pavadinimas (pavadinimai) ir kodas (kodai), gaminių ir (ar) pakuočių atliekų naudojimo (perdirbimo) būdas ir sutarties galiojimo terminas; ^3dcb07ef2d9cb2a441fd2e0d
+3) turi atitinkamų gaminių ir (ar) pakuočių atliekų naudojimo (perdirbimo) sutartį su šias atliekas valstybėse narėse panaudosiančiu (perdirbsiančiu) atliekų tvarkytoju (toliau šiame straipsnyje – gavėjas), kurioje nurodytas gavėjo naudojamų (perdirbamų) gaminių ir (ar) pakuočių atliekų pavadinimas (pavadinimai) ir kodas (kodai), gaminių ir (ar) pakuočių atliekų naudojimo (perdirbimo) būdas ir sutarties galiojimo terminas; ^s-8cd49e939373f50378528324
 
 
-4) turi dokumentus, įrodančius, kad gavėjas turi teisę ir pakankamai pajėgumų naudoti (perdirbti) įvežamas atliekas pagal reikalavimus, nustatytus Europos Sąjungos ir (ar) nacionaliniuose aplinkos apsaugą reglamentuojančiuose teisės aktuose; ^39b86c115a20b4814a1d66d0
+4) turi dokumentus, įrodančius, kad gavėjas turi teisę ir pakankamai pajėgumų naudoti (perdirbti) įvežamas atliekas pagal reikalavimus, nustatytus Europos Sąjungos ir (ar) nacionaliniuose aplinkos apsaugą reglamentuojančiuose teisės aktuose; ^s-de342cbd5ed46d99f6814cf1
 
 
-5) turi svėrimo įrenginį teritorijoje, kurioje laikomos ir paruošiamos išvežti gaminių ir (ar) pakuočių atliekos, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^c715beeeeec2cb2832cccda6
+5) turi svėrimo įrenginį teritorijoje, kurioje laikomos ir paruošiamos išvežti gaminių ir (ar) pakuočių atliekos, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^s-13aa3aef9cfa4349156ba8bc
 
 
-6. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų surinkėjai, kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų surinkimo veiklai, atitinka šiuos reikalavimus: ^0f5df46ba54456fbdfbb1ab4
+6. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų surinkėjai, kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų surinkimo veiklai, atitinka šiuos reikalavimus: ^s-555b73777efcbab515a4dd6d
 
 
-1) turi sutartis teisės aktų nustatyta tvarka su tomis savivaldybėmis (ar jų įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemas), kurių organizuojamose komunalinių atliekų tvarkymo sistemose ir jas papildančiose atliekų surinkimo sistemose surenka buityje naudojamas elektros ir elektroninės įrangos ir (ar) pakuočių atliekas; ^085ccb307c0ff8530a29ff26
+1) turi sutartis teisės aktų nustatyta tvarka su tomis savivaldybėmis (ar jų įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemas), kurių organizuojamose komunalinių atliekų tvarkymo sistemose ir jas papildančiose atliekų surinkimo sistemose surenka buityje naudojamas elektros ir elektroninės įrangos ir (ar) pakuočių atliekas; ^s-cd0a378103aa4e24f9e6f65c
 
 
-2) surinktas gaminių ir (ar) pakuočių atliekas perduoda tokių atliekų naudotojams (perdirbėjams) ar tokių atliekų eksportuotojams pagal turimas su jais sutartis dėl gaminių ir (ar) pakuočių atliekų panaudojimo (perdirbimo) ar išvežimo panaudoti (perdirbti) į Europos ekonominės erdvės valstybes; ^9b078326cfdc51926122a3d8
+2) surinktas gaminių ir (ar) pakuočių atliekas perduoda tokių atliekų naudotojams (perdirbėjams) ar tokių atliekų eksportuotojams pagal turimas su jais sutartis dėl gaminių ir (ar) pakuočių atliekų panaudojimo (perdirbimo) ar išvežimo panaudoti (perdirbti) į Europos ekonominės erdvės valstybes; ^s-1054414012a5ad6905e774a8
 
 
-3) turi svėrimo įrenginį teritorijoje, kurioje laikomos ir paruošiamos naudoti gaminių ir (ar) pakuočių atliekos, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^a83ff5c7a37e499008610a86
+3) turi svėrimo įrenginį teritorijoje, kurioje laikomos ir paruošiamos naudoti gaminių ir (ar) pakuočių atliekos, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^s-9c1a83e460cb93e513e10191
 
 
-7. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, kurie, be kitų šiame Įstatyme nustatytų reikalavimų, atitinka šiuos reikalavimus: ^4c422ecd4766d941b402af2f
+7. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, kurie, be kitų šiame Įstatyme nustatytų reikalavimų, atitinka šiuos reikalavimus: ^s-3b97ee9b3494c6bedb573ff1
 
 
-1) turi sutartis teisės aktų nustatyta tvarka su tomis savivaldybėmis (ar jų įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemas), kurių organizuojamose komunalinių atliekų tvarkymo sistemose surenkamos mišrios komunalinės atliekos, iš kurių jas apdorojant atskiriamos gaminių ir (ar) pakuočių atliekos; ^1ad8017c70613524d86f09dc
+1) turi sutartis teisės aktų nustatyta tvarka su tomis savivaldybėmis (ar jų įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemas), kurių organizuojamose komunalinių atliekų tvarkymo sistemose surenkamos mišrios komunalinės atliekos, iš kurių jas apdorojant atskiriamos gaminių ir (ar) pakuočių atliekos; ^s-834e080fd67b7024c2b79297
 
 
-2) gaminių ir (ar) pakuočių atliekas, atskirtas apdorojant mišrias komunalines atliekas, perduoda naudotojui (perdirbėjui) ar eksportuotojui arba jas eksportuoja; ^984a6edfc5998b26f4d321cf
+2) gaminių ir (ar) pakuočių atliekas, atskirtas apdorojant mišrias komunalines atliekas, perduoda naudotojui (perdirbėjui) ar eksportuotojui arba jas eksportuoja; ^s-eded489a440b464f01bec325
 
 
-3) turi svėrimo įrenginį teritorijoje, kurioje apdorojamos komunalinės atliekos, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^e6e1d3e579f93247deab6944
+3) turi svėrimo įrenginį teritorijoje, kurioje apdorojamos komunalinės atliekos, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^s-7d62136b06ebe5885d4aeea0
 
 
-8. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai) privalo svėrimo įrenginiu pasverti kiekvieną vienu kartu gautą gaminių ir (ar) pakuočių atliekų kiekį ir apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima atskirti (nustatyti) šių atliekų susidarymo šaltinį, asmenį, iš kurio gauta tokia atliekų siunta, šios atliekų siuntos svorį, gavimo datą. ^e1cee70feec21c08d424938d
+8. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai) privalo svėrimo įrenginiu pasverti kiekvieną vienu kartu gautą gaminių ir (ar) pakuočių atliekų kiekį ir apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima atskirti (nustatyti) šių atliekų susidarymo šaltinį, asmenį, iš kurio gauta tokia atliekų siunta, šios atliekų siuntos svorį, gavimo datą. ^s-daf70fefbc106af9eaed0783
 
 
-9. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų eksportuotojai privalo: ^ccd4303becd49802802622ab
+9. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų eksportuotojai privalo: ^s-678cb1913ba8b9244668380b
 
 
-1) svėrimo įrenginiu atskirai pasverti kiekvieną gautą ir išvežti paruoštą gaminių ir (ar) pakuočių atliekų siuntą ir apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima atskirti (nustatyti) šių atliekų susidarymo šaltinį, asmenį, iš kurio gauta tokia atliekų siunta, asmenį, kuriam skirta tokia atliekų siunta, šios atliekų siuntos svorį, gavimo, paruošimo išvežti datą; ^0d952ca6f7deefd1e081a88c
+1) svėrimo įrenginiu atskirai pasverti kiekvieną gautą ir išvežti paruoštą gaminių ir (ar) pakuočių atliekų siuntą ir apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima atskirti (nustatyti) šių atliekų susidarymo šaltinį, asmenį, iš kurio gauta tokia atliekų siunta, asmenį, kuriam skirta tokia atliekų siunta, šios atliekų siuntos svorį, gavimo, paruošimo išvežti datą; ^s-64d8dbce0dcb888ff7228649
 
 
-2) aplinkos ministro nustatyta tvarka ir terminais informuoti apie gaminių ir (ar) pakuočių atliekų išvežimą ir pateikti iš gavėjo gautus dokumentus, patvirtinančius išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą (perdirbimą). ^ead7e54b7a7e25f7c8b48256
+2) aplinkos ministro nustatyta tvarka ir terminais informuoti apie gaminių ir (ar) pakuočių atliekų išvežimą ir pateikti iš gavėjo gautus dokumentus, patvirtinančius išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą (perdirbimą). ^s-e943ad65c6638afde807b71c
 
 
-10. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų surinkėjai privalo svėrimo įrenginiu pasverti kiekvieną surinktų ir paruoštų naudoti (perdirbti) gaminių ir (ar) pakuočių atliekų siuntą ir apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima atskirti (nustatyti) šių atliekų susidarymo šaltinį, šios atliekų siuntos svorį ir surinkimo ir (ar) paruošimo naudoti datą. ^49ce233959249f7b75db0c4f
+10. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų surinkėjai privalo svėrimo įrenginiu pasverti kiekvieną surinktų ir paruoštų naudoti (perdirbti) gaminių ir (ar) pakuočių atliekų siuntą ir apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima atskirti (nustatyti) šių atliekų susidarymo šaltinį, šios atliekų siuntos svorį ir surinkimo ir (ar) paruošimo naudoti datą. ^s-fc66731c0d3449da9535f001
 
 
-11. Atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, privalo svėrimo įrenginiu pasverti kiekvieną gautą mišrių komunalinių atliekų siuntą ir paruoštą išvežti gaminių ir (ar) pakuočių atliekų siuntą bei po gaminių ir (ar) pakuočių atliekų atskyrimo likusį komunalinių atliekų kiekį, gautų ir išsiųstų mišrių komunalinių atliekų, gaminių ir (ar) pakuočių atliekų siuntų apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima nustatyti atliekų tvarkytojus, iš kurių buvo gautos mišrios komunalinės atliekos, jų gavimo datą ir kiekį, po apdorojimo likusių mišrių komunalinių atliekų kiekį, apdorotų mišrių komunalinių atliekų gavėjus, po mišrių komunalinių atliekų apdorojimo gautą gaminių ir (ar) pakuočių atliekų kiekį ir jų gavėjus. ^9181c9577e337fbd50e423dc
+11. Atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, privalo svėrimo įrenginiu pasverti kiekvieną gautą mišrių komunalinių atliekų siuntą ir paruoštą išvežti gaminių ir (ar) pakuočių atliekų siuntą bei po gaminių ir (ar) pakuočių atliekų atskyrimo likusį komunalinių atliekų kiekį, gautų ir išsiųstų mišrių komunalinių atliekų, gaminių ir (ar) pakuočių atliekų siuntų apskaitą tvarkyti aplinkos ministro nustatyta tvarka taip, kad būtų galima nustatyti atliekų tvarkytojus, iš kurių buvo gautos mišrios komunalinės atliekos, jų gavimo datą ir kiekį, po apdorojimo likusių mišrių komunalinių atliekų kiekį, apdorotų mišrių komunalinių atliekų gavėjus, po mišrių komunalinių atliekų apdorojimo gautą gaminių ir (ar) pakuočių atliekų kiekį ir jų gavėjus. ^s-3099e9549aea149902af1f83
 
 
-12. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai) ir gaminių ir (ar) pakuočių atliekų eksportuotojai privalo gauti iš atliekų siuntas pristačiusių asmenų atliekų kilmę patvirtinančius dokumentus, kad gauta tos rūšies ir tik Lietuvos Respublikos teritorijoje surinktų gaminių ir (ar) pakuočių atliekų siunta, kaip nurodyta šias atliekas pristačiusio asmens pateiktuose dokumentuose. Vykdydami šią pareigą, gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai) ir gaminių ir (ar) pakuočių atliekų eksportuotojai privalo nusistatyti duomenų kontrolės tvarką ir aprašyti gautų atliekų siuntų patikrinimo (siekiant įsitikinti atliekas pristačiusio asmens dokumentuose nurodytų duomenų teisingumu) procedūras, ir paskirti už šios tvarkos įgyvendinimą atsakingą asmenį. ^a01e2f005387e02a647aa9e1
+12. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai) ir gaminių ir (ar) pakuočių atliekų eksportuotojai privalo gauti iš atliekų siuntas pristačiusių asmenų atliekų kilmę patvirtinančius dokumentus, kad gauta tos rūšies ir tik Lietuvos Respublikos teritorijoje surinktų gaminių ir (ar) pakuočių atliekų siunta, kaip nurodyta šias atliekas pristačiusio asmens pateiktuose dokumentuose. Vykdydami šią pareigą, gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai) ir gaminių ir (ar) pakuočių atliekų eksportuotojai privalo nusistatyti duomenų kontrolės tvarką ir aprašyti gautų atliekų siuntų patikrinimo (siekiant įsitikinti atliekas pristačiusio asmens dokumentuose nurodytų duomenų teisingumu) procedūras, ir paskirti už šios tvarkos įgyvendinimą atsakingą asmenį. ^s-0b319320e5074ef45ad693dd
 
 
-13. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, įspėjami apie galimą jų išbraukimą iš Atliekų tvarkytojų sąrašo, jeigu nustatoma, kad jie: ^559697c748ac1c6e67cb23f2
+13. Į Atliekų tvarkytojų sąrašą įrašyti gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, įspėjami apie galimą jų išbraukimą iš Atliekų tvarkytojų sąrašo, jeigu nustatoma, kad jie: ^s-571ec082455b9dbcb7c4cd9d
 
 
-1) nebeatitinka (nesilaiko) šiame straipsnyje nustatytų reikalavimų; ^8c31f73ab3e08a4b8f33c6f7
+1) nebeatitinka (nesilaiko) šiame straipsnyje nustatytų reikalavimų; ^s-2ff671b6fbd027e41164d178
 
 
-2) pateikė klaidingus duomenis ir (ar) dokumentus. ^c7cd2a711f4f06e2729ea6de
+2) pateikė klaidingus duomenis ir (ar) dokumentus. ^s-29a0e506dc17c404cc403b49
 
 
-14. Atliekų tvarkytojų sąrašą sudaranti institucija, įspėdama gaminių ir (ar) pakuočių atliekų naudotoją (perdirbėją), gaminių ir (ar) pakuočių atliekų eksportuotoją, gaminių ir (ar) pakuočių atliekų surinkėją ir (ar) atliekų tvarkytoją, apdorojantį surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, apie galimą jų išbraukimą iš Atliekų tvarkytojų sąrašo nurodo galimo išbraukimo iš Atliekų tvarkytojų sąrašo priežastis ir terminą, per kurį jos turi būti pašalintos. ^80d855ff2066ae386c760845
+14. Atliekų tvarkytojų sąrašą sudaranti institucija, įspėdama gaminių ir (ar) pakuočių atliekų naudotoją (perdirbėją), gaminių ir (ar) pakuočių atliekų eksportuotoją, gaminių ir (ar) pakuočių atliekų surinkėją ir (ar) atliekų tvarkytoją, apdorojantį surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, apie galimą jų išbraukimą iš Atliekų tvarkytojų sąrašo nurodo galimo išbraukimo iš Atliekų tvarkytojų sąrašo priežastis ir terminą, per kurį jos turi būti pašalintos. ^s-bc51a2201f3225aa257fb75e
 
 
-15. Įspėjimas apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo panaikinamas, jeigu per įspėjime nurodytą terminą pašalinami nurodyti pažeidimai ir [[#^80d855ff2066ae386c760845|šio straipsnio 14 dalyje]] nurodytai institucijai pateikiami pažeidimų pašalinimą įrodantys dokumentai. ^9fa8bdba7153dd871c72e8a8
+15. Įspėjimas apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo panaikinamas, jeigu per įspėjime nurodytą terminą pašalinami nurodyti pažeidimai ir [[#^s-bc51a2201f3225aa257fb75e|šio straipsnio 14 dalyje]] nurodytai institucijai pateikiami pažeidimų pašalinimą įrodantys dokumentai. ^s-8d617eab20afe16217730e0e
 
 
-16. Gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išbraukiamas iš Atliekų tvarkytojų sąrašo: ^919f2712024fd824eb8757fe
+16. Gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išbraukiamas iš Atliekų tvarkytojų sąrašo: ^s-6c5a29f06e43eadbcca7beda
 
 
-1) gaminių ir (ar) pakuočių atliekų naudotojo (perdirbėjo), gaminių ir (ar) pakuočių atliekų eksportuotojo, gaminių ir (ar) pakuočių atliekų surinkėjo ir (ar) atliekų tvarkytojo, apdorojančio surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, prašymu; ^73e2e58b8a48244b26e2e80e
+1) gaminių ir (ar) pakuočių atliekų naudotojo (perdirbėjo), gaminių ir (ar) pakuočių atliekų eksportuotojo, gaminių ir (ar) pakuočių atliekų surinkėjo ir (ar) atliekų tvarkytojo, apdorojančio surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, prašymu; ^s-670e7f5566e8bc6d944230fd
 
 
-2) likvidavus gaminių ir (ar) pakuočių atliekų naudotoją (perdirbėją), gaminių ir (ar) pakuočių atliekų eksportuotoją, gaminių ir (ar) pakuočių atliekų surinkėją ir (ar) atliekų tvarkytoją, apdorojantį surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti; ^1d73b27d56f5ac8ea3f9cc0a
+2) likvidavus gaminių ir (ar) pakuočių atliekų naudotoją (perdirbėją), gaminių ir (ar) pakuočių atliekų eksportuotoją, gaminių ir (ar) pakuočių atliekų surinkėją ir (ar) atliekų tvarkytoją, apdorojantį surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti; ^s-dd0d676e3b243746594bfb03
 
 
-3) jeigu įspėjus apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo per [[#^80d855ff2066ae386c760845|šio straipsnio 14 dalyje]] nurodytos institucijos nustatytą terminą nurodyti pažeidimai nepašalinami ir nustatytas pažeidimų pašalinimo terminas yra pasibaigęs; ^7c7496ee13b4e09efcf3dfc7
+3) jeigu įspėjus apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo per [[#^s-bc51a2201f3225aa257fb75e|šio straipsnio 14 dalyje]] nurodytos institucijos nustatytą terminą nurodyti pažeidimai nepašalinami ir nustatytas pažeidimų pašalinimo terminas yra pasibaigęs; ^s-b37d087da22be7bb48d86cc6
 
 
-4) jeigu gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, buvo įspėtas apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo 3 kartus per dvejus pastaruosius metus; ^d0f363c6828033792e4bfbb3
+4) jeigu gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, buvo įspėtas apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo 3 kartus per dvejus pastaruosius metus; ^s-ff5dd3abbbf057c02de3b877
 
 
-5) paaiškėjus, kad gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, pateikė melagingus duomenis ir (ar) suklastotus dokumentus. ^7495f95bd266a30de58c7faf
+5) paaiškėjus, kad gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, pateikė melagingus duomenis ir (ar) suklastotus dokumentus. ^s-be15ef69aed57a3292c1bc0d
 
 
-17. Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta esminė žala šio Įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių atliekų tvarkymą, saugomiems interesams ir kuriuo nepadaryta esminė žala aplinkai, žmonių sveikatai, ir gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, nutraukė veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų padarinius ir atlygino žalą, o šio Įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, Aplinkos ministerijos įgaliota institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali gaminių ir (ar) pakuočių atliekų naudotojo (perdirbėjo), gaminių ir (ar) pakuočių atliekų eksportuotojo, gaminių ir (ar) pakuočių atliekų surinkėjo neįspėti apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo ir (ar) neišbraukti iš Atliekų tvarkytojų sąrašo.“ ^8206bf9c58446e768fcf2aec
+17. Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta esminė žala šio Įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių atliekų tvarkymą, saugomiems interesams ir kuriuo nepadaryta esminė žala aplinkai, žmonių sveikatai, ir gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, nutraukė veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų padarinius ir atlygino žalą, o šio Įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, Aplinkos ministerijos įgaliota institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali gaminių ir (ar) pakuočių atliekų naudotojo (perdirbėjo), gaminių ir (ar) pakuočių atliekų eksportuotojo, gaminių ir (ar) pakuočių atliekų surinkėjo neįspėti apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo ir (ar) neišbraukti iš Atliekų tvarkytojų sąrašo.“ ^s-402812a1432385cf7e82bd4f
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-6d8ca341ba1c8ce3088fcad9
 
 
 Šis įstatymas įsigalioja 2013 m. birželio 1 d.

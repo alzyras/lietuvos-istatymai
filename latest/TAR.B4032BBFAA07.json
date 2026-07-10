@@ -11,7 +11,7 @@
   "latest_revision": "2007-01-11",
   "latest_sha256": "aa6ed64e4c46a02530281bc65b1f3baed87f53ba60be76c22f0466786b3f1c5c",
   "metadata_path": "latest/TAR.B4032BBFAA07.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

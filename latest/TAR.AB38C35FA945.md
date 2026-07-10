@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AB38C35FA945"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo\" 9 straipsnio papildymo Įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo\" 9 straipsnio papildymo Įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo\" 9 straipsnio papildymo Įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-02-14"
 latest_path: "latest/TAR.AB38C35FA945.md"
 latest_sha256: "6ba99bef568aad56d7f00de73ffbe47ec9fcbb8db8e7c58314719af95e70d2d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AB38C35FA945]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo" 9 straipsnio papildymo Įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AB38C35FA945.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AB38C35FA945
+- Ryšiai: [[Ryšiai/TAR.AB38C35FA945|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio papildymas
+### 1 straipsnis. 9 straipsnio papildymas ^s-ff02c9fb26b32aa52930538f
 
 
 Pirmajame sakinyje po žodžių „įtraukti objektai“ įrašyti žodžius „taip pat visos kartografuotos ir inventorizuotos bei įtrauktos į gamtos, istorijos ir kultūros paminklų katalogus neveikiančios kapinės“, antrajame sakinyje po žodžių „kultūros paminklų“ įrašyti žodžius „bei neveikiančių kapinių“ ir visą 9 straipsnį išdėstyti taip:

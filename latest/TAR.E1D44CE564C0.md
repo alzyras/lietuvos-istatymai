@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E1D44CE564C0"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 17 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 17 straipsnio papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 17 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-06"
 latest_path: "latest/TAR.E1D44CE564C0.md"
 latest_sha256: "1a892f94ce7b3f1e0465b31f243c0db05fdf9dff664c83490cd45441d9f0c5c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E1D44CE564C0]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 17 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E1D44CE564C0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E1D44CE564C0
+- Ryšiai: [[Ryšiai/TAR.E1D44CE564C0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 5 punkto papildymas
+### 1 straipsnis. 17 straipsnio 5 punkto papildymas ^s-cd45c4354ebabc41e94bb438
 
 
 Papildyti 17 straipsnio 5 punktą ir jį išdėstyti taip:

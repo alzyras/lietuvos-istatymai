@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BE880DDC2F18"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinio arbitražo priimtų sprendimų apskundimo ir persvarstymo tvarkos"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinio arbitražo priimtų sprendimų apskundimo ir persvarstymo tvarkos"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-08"
 latest_path: "latest/TAR.BE880DDC2F18.md"
 latest_sha256: "c0c21430d3b44f3a0ab348a386cd4aa43a90cb51713b9691e7ae5fb750f9397f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BE880DDC2F18]]"
 ---
 # Dėl Lietuvos Respublikos valstybinio arbitražo priimtų sprendimų apskundimo ir persvarstymo tvarkos
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BE880DDC2F18.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BE880DDC2F18
+- Ryšiai: [[Ryšiai/TAR.BE880DDC2F18|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.023FB266300F"
 pavadinimas: "Lietuvos Respublikos Europos konvencijos dėl bendros kino filmų gamybos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Europos konvencijos dėl bendros kino filmų gamybos ratifikavimo įstatymas"
+  - "Europos konvencijos dėl bendros kino filmų gamybos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-15"
 latest_path: "latest/TAR.023FB266300F.md"
 latest_sha256: "c992a3d96644744ab7835bd5a9d5c8abb35d588eefb726eb4976566a7ddff44e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.023FB266300F]]"
 ---
 # Lietuvos Respublikos Europos konvencijos dėl bendros kino filmų gamybos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.023FB266300F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.023FB266300F
+- Ryšiai: [[Ryšiai/TAR.023FB266300F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,28 +34,28 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-ad8ab90332e5fdfc45d8f0de
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl bendros kino filmų gamybos“, ratifikuoja su išlygomis Europos konvenciją dėl bendros kino filmų gamybos, pasirašytą 1998 m. rugsėjo 8 d. Strasbūre.
 
 
 
-### 2 straipsnis. Lietuvos Respublikos išlyga
+### 2 straipsnis. Lietuvos Respublikos išlyga ^s-78ec17089a312a11b5a8040c
 
 
 Vadovaudamasi Konvencijos 20 straipsniu, Lietuvos Respublika pareiškia, kad 2 straipsnio 4 paragrafas nebus taikomas Lietuvos Respublikos dvišaliams santykiams su viena ar daugiau Konvenciją ratifikavusių šalių.
 
 
 
-### 3 straipsnis. Lietuvos Respublikos pareiškimas
+### 3 straipsnis. Lietuvos Respublikos pareiškimas ^s-10c9d1e592b04602379844ad
 
 
 Lietuvos Respublika pareiškia, kad pasilieka teisę nustatyti maksimalią įmokos į bendros gamybos išlaidas dalį, kuri gali skirtis nuo nustatytos 9 straipsnio 1 paragrafo a punkte.
 
 
 
-### 4 straipsnis. Konvencijos įgyvendinimas
+### 4 straipsnis. Konvencijos įgyvendinimas ^s-c7a9144692e83b87116078b2
 
 
 Lietuvos Respublikos Vyriausybė paskiria instituciją, atsakingą už šios Konvencijos nuostatų įgyvendinimą.

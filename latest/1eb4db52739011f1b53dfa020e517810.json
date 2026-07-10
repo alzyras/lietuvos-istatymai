@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/1eb4db52739011f1b53dfa020e517810.md",
   "latest_revision": "2026-07-01",
-  "latest_sha256": "161547f3c89978c854e75ee2bb89b7ad2906f107779a34f6c8ae96220a943601",
+  "latest_sha256": "a3fdfddba48e106009daaa7b0eb4d7e4d969e220d7a93ebb6215970720fb43d1",
   "metadata_path": "latest/1eb4db52739011f1b53dfa020e517810.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 57-1 straipsnio pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:34Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

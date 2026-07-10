@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CC733C46428C"
 pavadinimas: "Lietuvos Respublikos leidimo valstybinei įmonei Klaipėdos valstybinio jūrų uosto direkcija investuoti kapitalą įstatymas"
+aliases:
+  - "Lietuvos Respublikos leidimo valstybinei įmonei Klaipėdos valstybinio jūrų uosto direkcija investuoti kapitalą įstatymas"
+  - "leidimo valstybinei įmonei Klaipėdos valstybinio jūrų uosto direkcija investuoti kapitalą įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-19"
 latest_path: "latest/TAR.CC733C46428C.md"
 latest_sha256: "a3027cd656162b2a641246bb083b05cdac43b3b5d89fb705de68d5549ba71e59"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CC733C46428C]]"
 ---
 # Lietuvos Respublikos leidimo valstybinei įmonei Klaipėdos valstybinio jūrų uosto direkcija investuoti kapitalą įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CC733C46428C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CC733C46428C
+- Ryšiai: [[Ryšiai/TAR.CC733C46428C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

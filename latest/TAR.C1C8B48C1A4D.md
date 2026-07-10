@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C1C8B48C1A4D"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 2, 3, 4, 5, 6, 7, 9, 12, 24, 27 straipsnių ir priedo pakeitimo bei papildymo ir įstatymo papildymo 5(2) ir 7(2) straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 2, 3, 4, 5, 6, 7, 9, 12, 24, 27 straipsnių ir priedo pakeitimo bei papildymo ir įstatymo papildymo 5(2) ir 7(2) straipsniais įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 2, 3, 4, 5, 6, 7, 9, 12, 24, 27 straipsnių ir priedo pakeitimo bei papildymo ir įstatymo papildymo 5(2) ir 7(2) straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-29"
 latest_path: "latest/TAR.C1C8B48C1A4D.md"
 latest_sha256: "3cd508b3a008b495cb5658ca85a3f411872a3bdd196087958f76df50daae2504"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C1C8B48C1A4D]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 2, 3, 4, 5, 6, 7, 9, 12, 24, 27 straipsnių ir priedo pakeitimo bei papildymo ir įstatymo papildymo 5(2) ir 7(2) straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C1C8B48C1A4D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C1C8B48C1A4D
+- Ryšiai: [[Ryšiai/TAR.C1C8B48C1A4D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,47 +39,47 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 4 ir 5 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 4 ir 5 dalių pakeitimas ^s-10f6654861f598b3aa50d4dc
 
 
-1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^6f7e15b50f4b669c80d5e198
+1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-547a3ada3c648ac638ced7bd
 
 
 „4. Tiesioginė diskriminacija – ne toks palankus asmens traktavimas dėl lyties, negu panašiomis aplinkybėmis yra, buvo ar būtų traktuojamas kitas asmuo, išskyrus:
 
 
-1) specialią moterų apsaugą nėštumo bei gimdymo ir vaiko žindymo metu; ^67ed622ccf70f43a9e5581bb
+1) specialią moterų apsaugą nėštumo bei gimdymo ir vaiko žindymo metu; ^s-9f1c07ffa1fece35c4cc85b9
 
 
-2) tik vyrams taikomą karinę prievolę; ^6c1394dc65938179ff16cf3d
+2) tik vyrams taikomą karinę prievolę; ^s-ae23497016285e698fe4595b
 
 
-3) skirtingą moterų ir vyrų pensinį amžių, išskyrus profesinių pensijų sistemas; ^d8eaac99095620ae6fc50797
+3) skirtingą moterų ir vyrų pensinį amžių, išskyrus profesinių pensijų sistemas; ^s-49dda9d9620f544f13ab3bd3
 
 
-4) moterims taikomus žmonių saugos darbe reikalavimus, kuriais, atsižvelgiant į moterų fiziologines savybes, siekiama išsaugoti jų sveikatą; ^f8334bc112981668f1ad8a67
+4) moterims taikomus žmonių saugos darbe reikalavimus, kuriais, atsižvelgiant į moterų fiziologines savybes, siekiama išsaugoti jų sveikatą; ^s-5d8a197f7c2c4c2f13041b3c
 
 
-5) tam tikrą darbą, kurį atlikti gali tik konkrečios lyties asmuo, kai dėl konkrečių profesinės veiklos rūšių pobūdžio arba dėl jų vykdymo sąlygų lytis yra būtinas (neišvengiamas) ir lemiantis profesinis reikalavimas, šis traktavimas yra teisėtas ir reikalavimas yra tinkamas (proporcingas); ^9df8342f71743cc72e306d50
+5) tam tikrą darbą, kurį atlikti gali tik konkrečios lyties asmuo, kai dėl konkrečių profesinės veiklos rūšių pobūdžio arba dėl jų vykdymo sąlygų lytis yra būtinas (neišvengiamas) ir lemiantis profesinis reikalavimas, šis traktavimas yra teisėtas ir reikalavimas yra tinkamas (proporcingas); ^s-767e28f0b5874b1bec45e0fd
 
 
-6) įstatymų nustatytas specialias laikinąsias priemones, kurios taikomos siekiant paspartinti faktinės vyrų ir moterų lygybės įtvirtinimą ir kurios, įgyvendinus moterų ir vyrų lygias teises ir vienodas galimybes, turi būti atšauktos; ^2d1963afa5c83426e1f63bfe
+6) įstatymų nustatytas specialias laikinąsias priemones, kurios taikomos siekiant paspartinti faktinės vyrų ir moterų lygybės įtvirtinimą ir kurios, įgyvendinus moterų ir vyrų lygias teises ir vienodas galimybes, turi būti atšauktos; ^s-b233a644b7b625ea0887bd94
 
 
-7) skirtingų tam tikrų bausmių vykdymo tvarką ir sąlygas; ^56b02beeca27fb03f8da7e35
+7) skirtingų tam tikrų bausmių vykdymo tvarką ir sąlygas; ^s-e3f19417795bed72a454d18a
 
 
-8) kai prekių pardavimą ar paslaugų teikimą vien tik ar visų pirma vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.“ ^77c0c6bf70fe58bcd4e6c517
+8) kai prekių pardavimą ar paslaugų teikimą vien tik ar visų pirma vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.“ ^s-3489727c2067fa936d08d1ff
 
 
-2. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^ec14838546e394848cee3c4d
+2. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-8ad269e7d336b6e8e967f82a
 
 
 „5. Netiesioginė diskriminacija – veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika, kurie formaliai yra vienodi moterims ir vyrams, bet juos įgyvendinant ar taikant vienos lyties asmenys gali atsidurti ar atsiduria tam tikroje mažiau palankioje padėtyje negu kitos lyties asmenys, nebent šį veikimą ar neveikimą, teisės normą, vertinimo kriterijų ar praktiką objektyviai pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.“
 
 
 
-### 2 straipsnis. 3 straipsnio 3 punkto pakeitimas
+### 2 straipsnis. 3 straipsnio 3 punkto pakeitimas ^s-d3335483e5a9d8978ccff687
 
 
 3 straipsnio 3 punkte išbraukti žodžius „visuomeninių organizacijų“ ir šį punktą išdėstyti taip:
@@ -84,7 +89,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas ^s-f71fac11987fe838e626dc62
 
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -94,36 +99,36 @@ Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 5 straipsnio pakeitimas
+### 4 straipsnis. 5 straipsnio pakeitimas ^s-d18ff23678c3438aef4dfb58
 
 
-Pakeisti [[#5 straipsnis. Įstatymo papildymas 52 straipsniu|5 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-4249f0f225a3ba590b7157ab|5 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#5 straipsnis. Įstatymo papildymas 52 straipsniu|5 straipsnis]]. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
+„[[#^s-4249f0f225a3ba590b7157ab|5 straipsnis]]. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
 
 
 Įgyvendindamas lygias moterų ir vyrų teises, darbdavys privalo:
 
 
-1) priimdamas į darbą ar perkeldamas į aukštesnes pareigas, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus 2 straipsnio 4 dalies 5 punkte numatytą atvejį; ^62097e3d980bca696b83c8e3
+1) priimdamas į darbą ar perkeldamas į aukštesnes pareigas, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus 2 straipsnio 4 dalies 5 punkte numatytą atvejį; ^s-a21695b9e31c7bc4d543cd54
 
 
-2) sudaryti vienodas darbo sąlygas, galimybes kelti kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti vienodas lengvatas; ^fd9c2eaeeaf68f1b483d38f7
+2) sudaryti vienodas darbo sąlygas, galimybes kelti kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti vienodas lengvatas; ^s-34bc4a44c7b7a4c71e57211a
 
 
-3) už tokį pat ar vienodos vertės darbą mokėti vienodą darbo užmokestį, įskaitant visus papildomus uždarbius, bet kokiu būdu darbdavio išmokamus darbuotojui už jo atliktą darbą; ^ddc582daaa538f711f243c0a
+3) už tokį pat ar vienodos vertės darbą mokėti vienodą darbo užmokestį, įskaitant visus papildomus uždarbius, bet kokiu būdu darbdavio išmokamus darbuotojui už jo atliktą darbą; ^s-8b2619ffa67bc1a651bf4741
 
 
-4) imtis priemonių, kad darbuotojas nepatirtų seksualinio priekabiavimo ar priekabiavimo; ^5c95530272209232428e834a
+4) imtis priemonių, kad darbuotojas nepatirtų seksualinio priekabiavimo ar priekabiavimo; ^s-05845b8589796065d85980c6
 
 
-5) imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis ar teikiantis paaiškinimus, būtų apsaugotas nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.“ ^1257e446c59cffd2b08c0d84
+5) imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis ar teikiantis paaiškinimus, būtų apsaugotas nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.“ ^s-2319a4cacde48567cae4c874
 
 
 
-### 5 straipsnis. Įstatymo papildymas 52 straipsniu
+### 5 straipsnis. Įstatymo papildymas 52 straipsniu ^s-4249f0f225a3ba590b7157ab
 
 
 Papildyti Įstatymą 52 straipsniu:
@@ -137,23 +142,23 @@ Draudžiama diskriminacija dėl lyties narystės ir dalyvavimo darbuotojų ir da
 
 
 
-### 6 straipsnis. 6 straipsnio 1 ir 4 punktų pakeitimas
+### 6 straipsnis. 6 straipsnio 1 ir 4 punktų pakeitimas ^s-8ab995acf157eab30fce022c
 
 
-1. 6 straipsnio 1 punkte prieš žodžius „arba apmokėjimo“ įrašyti žodžius „perkėlimo į kitas pareigas“ ir šį punktą išdėstyti taip: ^73f69fc7739ecf12157bdda0
+1. 6 straipsnio 1 punkte prieš žodžius „arba apmokėjimo“ įrašyti žodžius „perkėlimo į kitas pareigas“ ir šį punktą išdėstyti taip: ^s-f4d8bc249cae8f63526286a5
 
 
 „1) taiko asmeniui mažiau (daugiau) palankias įdarbinimo, perkėlimo į kitas pareigas arba apmokėjimo už tokį pat ar vienodos vertės darbą sąlygas;“.
 
 
-2. Pakeisti 6 straipsnio 4 punktą ir jį išdėstyti taip: ^14bafa62becdcdd26d32145a
+2. Pakeisti 6 straipsnio 4 punktą ir jį išdėstyti taip: ^s-8465edecc1244dcac5d6d59a
 
 
 „4) persekioja darbuotoją, darbuotojo atstovą, darbuotoją, liudijantį ar teikiantį paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos lyties pagrindu.“
 
 
 
-### 7 straipsnis. 7 straipsnio 1 punkto pakeitimas
+### 7 straipsnis. 7 straipsnio 1 punkto pakeitimas ^s-1b65510bd3d9efc5629df01c
 
 
 Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -163,7 +168,7 @@ Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. Įstatymo papildymas 72 straipsniu
+### 8 straipsnis. Įstatymo papildymas 72 straipsniu ^s-92507039231255a20fd5d9d2
 
 
 Papildyti Įstatymą 72 straipsniu:
@@ -177,56 +182,56 @@ Bet kurie veiksmai, kliudantys dėl lyties tapti darbuotojų ir darbdavių organ
 
 
 
-### 9 straipsnis. 9 straipsnio pakeitimas ir papildymas
+### 9 straipsnis. 9 straipsnio pakeitimas ir papildymas ^s-09bdf410a10f68c4794db00a
 
 
-Pakeisti 9 straipsnio pavadinimą, straipsnį papildyti [[#^a04cef8a29b67f953165a2a3|2 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti 9 straipsnio pavadinimą, straipsnį papildyti [[#^s-dbe9ed1f1027cce41bbf0202|2 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 
 „9 straipsnis. Diskriminuojamo asmens ir jam atstovaujančių asmenų teisės
 
 
-1. Asmuo, manantis, kad jam buvo taikomi šiame skyriuje nurodyti diskriminuojantys veiksmai, arba tapęs seksualinio priekabiavimo ar kitokio priekabiavimo objektu, turi teisę kreiptis objektyvios ir nešališkos pagalbos į lygių galimybių kontrolierių. ^8f6e50cc7d7b3479c96e3a0c
+1. Asmuo, manantis, kad jam buvo taikomi šiame skyriuje nurodyti diskriminuojantys veiksmai, arba tapęs seksualinio priekabiavimo ar kitokio priekabiavimo objektu, turi teisę kreiptis objektyvios ir nešališkos pagalbos į lygių galimybių kontrolierių. ^s-caf05d26e781147ce72b9ff2
 
 
-2. Darbuotojų ir darbdavių organizacijos arba kiti juridiniai asmenys, turintys teisėtą interesą, gavę asmens rašytinį sutikimą, gali įstatymų nustatyta tvarka atstovauti jam teisminėse arba administracinėse procedūrose.“ ^a04cef8a29b67f953165a2a3
+2. Darbuotojų ir darbdavių organizacijos arba kiti juridiniai asmenys, turintys teisėtą interesą, gavę asmens rašytinį sutikimą, gali įstatymų nustatyta tvarka atstovauti jam teisminėse arba administracinėse procedūrose.“ ^s-dbe9ed1f1027cce41bbf0202
 
 
 
-### 10 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+### 10 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi ^s-6b5a7fd549469d524890da78
 
 
-1. 12 straipsnio 1 dalyje po žodžių „seksualinio priekabiavimo“ įrašyti žodžius „ir teikia su tuo susijusias objektyvias ir nešališkas konsultacijas“ ir šią dalį išdėstyti taip: ^31deefc51e43bfe425cd9267
+1. 12 straipsnio 1 dalyje po žodžių „seksualinio priekabiavimo“ įrašyti žodžius „ir teikia su tuo susijusias objektyvias ir nešališkas konsultacijas“ ir šią dalį išdėstyti taip: ^s-d8cfb98225a1db663460a0f1
 
 
 „1. Lygių galimybių kontrolierius tiria skundus dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ir seksualinio priekabiavimo ir teikia su tuo susijusias objektyvias ir nešališkas konsultacijas.“
 
 
-2. Papildyti 12 straipsnį 3 dalimi: ^b9940a7c2917a32693d81aa0
+2. Papildyti 12 straipsnį 3 dalimi: ^s-052f57c410bc7227717fa4a1
 
 
 „3. Lygių galimybių kontrolierius keičiasi turima informacija su analogiškas funkcijas atliekančiomis Europos Sąjungos įstaigomis.“
 
 
 
-### 11 straipsnis. 24 straipsnio 2 ir 5 punktų pakeitimas
+### 11 straipsnis. 24 straipsnio 2 ir 5 punktų pakeitimas ^s-93ff1b4551027bf8be241a88
 
 
-1. 24 straipsnio 2 punkte prieš žodžius „ar panaikinti“ įrašyti žodį „pakeisti“ ir šį punktą išdėstyti taip: ^6baf0825ccada271333c667d
+1. 24 straipsnio 2 punkte prieš žodžius „ar panaikinti“ įrašyti žodį „pakeisti“ ir šį punktą išdėstyti taip: ^s-08e584a2eab8b9d62b7b2bf3
 
 
 „2) kreiptis į atitinkamą asmenį ar instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus, pakeisti ar panaikinti su tuo susijusį aktą;“.
 
 
-2. 24 straipsnio 5 punkte po žodžio „aktas“ įrašyti žodžius „pakeičiamas ar“ ir šį punktą išdėstyti taip: ^7492f7522cc1f627dc0bc041
+2. 24 straipsnio 5 punkte po žodžio „aktas“ įrašyti žodžius „pakeičiamas ar“ ir šį punktą išdėstyti taip: ^s-fe1ec63fbfff33ecfc760a19
 
 
 „5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas pakeičiamas ar panaikinamas;“.
 
 
 
-### 12 straipsnis. 27 straipsnio pakeitimas
+### 12 straipsnis. 27 straipsnio pakeitimas ^s-c5b7a309008807b39d0133e5
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
@@ -240,36 +245,36 @@ Lygių galimybių kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui
 
 
 
-### 13 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+### 13 straipsnis. Įstatymo priedo pakeitimas ir papildymas ^s-33b82815e0870c8590ad5746
 
 
 Pakeisti ir papildyti Įstatymo priedą ir jį išdėstyti taip:
 
 
 
-„Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo
+„[[latest/TAR.746227138BCB|Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies keičianti Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo įgyvendinimo profesinėse socialinės apsaugos sistemose (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 232). ^520c11db8227e01a42fdf925
+1. 1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies keičianti Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo įgyvendinimo profesinėse socialinės apsaugos sistemose (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 232). ^s-0cc270586c109744c7dc1dea
 
 
-2. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 264). ^127b05131ef754022a0e247c
+2. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 264). ^s-611f885da43c9c672683b69a
 
 
-3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307). ^51d4e4d928209da7233919ee
+3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307). ^s-ae50ff3ccf50958ef658276a
 
 
-4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/73/EB, iš dalies keičianti Tarybos direktyvą 76/207/EEB dėl vienodo požiūrio į vyrus ir moteris principo taikymo įsidarbinimo, profesinio mokymo, pareigų paaukštinimo ir darbo sąlygų atžvilgiu (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 255). ^4354b7387acb0ff2af05412e
+4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/73/EB, iš dalies keičianti Tarybos direktyvą 76/207/EEB dėl vienodo požiūrio į vyrus ir moteris principo taikymo įsidarbinimo, profesinio mokymo, pareigų paaukštinimo ir darbo sąlygų atžvilgiu (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 255). ^s-806a8e139f9ab953f24f39ec
 
 
-5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 L 373, p. 37). ^08b339b8cf9192c1a5867e6a
+5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 L 373, p. 37). ^s-36dba88b11a4b5baad70a14f
 
 
-6. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija) (OL 2006 L 204, p. 23).“ ^1a4a807ca2840e0dbcb1bda6
+6. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija) (OL 2006 L 204, p. 23).“ ^s-3491274119143cc089ce86ae
 
 
 

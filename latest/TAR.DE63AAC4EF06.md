@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE63AAC4EF06"
 pavadinimas: "Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo"
+aliases:
+  - "Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-03-11"
 latest_path: "latest/TAR.DE63AAC4EF06.md"
 latest_sha256: "6da59a702ab2a8e20a96b4b931e2b37f3c2f911b9c063bbbf9d296984e19f8e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE63AAC4EF06]]"
 ---
 # Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE63AAC4EF06.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE63AAC4EF06
+- Ryšiai: [[Ryšiai/TAR.DE63AAC4EF06|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -149,4 +153,4 @@ Pakeitimai:
 1.
 Piliečių referendumas, Įstatymas
 1992-10-25, Lietuvos aidas, 1992, Nr. 220-0 (1992-11-10); Žin., 1992, Nr. 33-1015 (1992-11-30), i. k. [[latest/TAR.A127A78008DD|0921010ISTARG922325]]
-Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos
+[[latest/TAR.A127A78008DD|Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos]]

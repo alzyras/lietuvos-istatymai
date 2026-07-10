@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CCB5462A39CF"
 pavadinimas: "Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio papildymo įstatymas"
+  - "ūkinių bendrijų įstatymo 21 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-23"
 latest_path: "latest/TAR.CCB5462A39CF.md"
 latest_sha256: "4af5882076bf238f8f5604cc55c836897a1341ea67324666224a50af804ef2d0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CCB5462A39CF]]"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CCB5462A39CF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CCB5462A39CF
+- Ryšiai: [[Ryšiai/TAR.CCB5462A39CF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 1 dalies papildymas
+### 1 straipsnis. 21 straipsnio 1 dalies papildymas ^s-169cdf3109b4626eb90f3107
 
 
 21 straipsnio 1 dalies pirmajame sakinyje po žodžio „prievoles“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki bendrijos veiklos nutraukimo įregistravimo įstatymų nustatyta tvarka“ ir šią dalį išdėstyti taip:

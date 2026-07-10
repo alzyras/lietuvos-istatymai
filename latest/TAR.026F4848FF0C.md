@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.026F4848FF0C"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 38 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 38 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 4, 38 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-16"
 latest_path: "latest/TAR.026F4848FF0C.md"
 latest_sha256: "068bda7ff99b49c5c58591af221c0ae56ea7bcdbc495ca60efdc6d5b433b91d3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.026F4848FF0C]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 38 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.026F4848FF0C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.026F4848FF0C
+- Ryšiai: [[Ryšiai/TAR.026F4848FF0C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas 3 dalimi
+### 1 straipsnis. 4 straipsnio papildymas 3 dalimi ^s-01ec69c2abdcc43cff1d96d4
 
 
 4 straipsnį papildyti 3 dalimi:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 38 straipsnio pakeitimas
+### 2 straipsnis. 38 straipsnio pakeitimas ^s-ff39dc963707e3a9b92920dd
 
 
 38 straipsnį pakeisti ir išdėstyti taip:
@@ -68,40 +73,40 @@ Valstybinio socialinio draudimo fondo valdyba Valstybinio socialinio draudimo fo
 Piktybiniu įstatymų pažeidimu laikoma, jei:
 
 
-1) nustatytais terminais neatvykstama į valstybinio socialinio draudimo įstaigą įsiregistruoti draudėju ar nepranešamas pasikeitęs draudėjo adresas; ^eda23c386745225a2fa3eb80
+1) nustatytais terminais neatvykstama į valstybinio socialinio draudimo įstaigą įsiregistruoti draudėju ar nepranešamas pasikeitęs draudėjo adresas; ^s-0849f328b99f8d50d4582766
 
 
-2) draudėjas aplaidžiai ar apgaulingai tvarko buhalterinę apskaitą arba neišsaugo, paslepia ar sunaikina apskaitos dokumentus ir dėl to negalima visiškai ar iš dalies nustatyti jo komercinės, ūkinės, finansinės būklės rezultatų ar įvertinti turto; ^2233756c25397757b309ff2f
+2) draudėjas aplaidžiai ar apgaulingai tvarko buhalterinę apskaitą arba neišsaugo, paslepia ar sunaikina apskaitos dokumentus ir dėl to negalima visiškai ar iš dalies nustatyti jo komercinės, ūkinės, finansinės būklės rezultatų ar įvertinti turto; ^s-32551824bb9470f28b6b5127
 
 
-3) draudėjas valstybinio socialinio draudimo įstaigai pateikiamoje apyskaitoje, ataskaitoje ir kitame dokumente įrašo žinomai neteisingus duomenis apie savo pajamas, sąskaitas bankuose, darbuotojų pajamas bei įmokas; ^9daa39fc2f5bea5af66c4392
+3) draudėjas valstybinio socialinio draudimo įstaigai pateikiamoje apyskaitoje, ataskaitoje ir kitame dokumente įrašo žinomai neteisingus duomenis apie savo pajamas, sąskaitas bankuose, darbuotojų pajamas bei įmokas; ^s-d68907c7a3775d017ce3719b
 
 
-4) draudėjas valstybinio socialinio draudimo įstaigai laiku nepateikia apyskaitos, ataskaitos apie draudžiamųjų asmenų pajamas ir socialinio draudimo įmokas arba nesumoka įmokų po to, kai valstybinio socialinio draudimo įstaiga raštu priminė pareigą pateikti apyskaitą, ataskaitą ar kitą dokumentą ir sumokėti įmokas; ^86b42296ac2e604488b68912
+4) draudėjas valstybinio socialinio draudimo įstaigai laiku nepateikia apyskaitos, ataskaitos apie draudžiamųjų asmenų pajamas ir socialinio draudimo įmokas arba nesumoka įmokų po to, kai valstybinio socialinio draudimo įstaiga raštu priminė pareigą pateikti apyskaitą, ataskaitą ar kitą dokumentą ir sumokėti įmokas; ^s-7d9e7d7e65c2e08d9e7e3cea
 
 
-5) draudėjas leidžia dirbti asmenims neįforminus darbo santykių, nepasirašius darbo sutarčių; ^01430a858302ef53a36efcd9
+5) draudėjas leidžia dirbti asmenims neįforminus darbo santykių, nepasirašius darbo sutarčių; ^s-cd2765b4c52d3a396d6adc9c
 
 
-6) draudėjas pažeidžia Darbo apmokėjimo įstatymą; ^58a0eef814f44956c018bd74
+6) draudėjas pažeidžia Darbo apmokėjimo įstatymą; ^s-416aa68ed4c4b6ccc698b07f
 
 
-7) draudėjas į buhalterinės apskaitos dokumentus neįtraukia darbuotojams mokamų su darbo santykiais susijusių išmokų; ^28e4b6e90999cd574c37db98
+7) draudėjas į buhalterinės apskaitos dokumentus neįtraukia darbuotojams mokamų su darbo santykiais susijusių išmokų; ^s-3a166d6803126cef5b4808e0
 
 
-8) draudėjas neleidžia valstybinio socialinio draudimo įstaigos pareigūnui susipažinti su apskaitos dokumentais; ^9b2372e57fffff702b1ccf8d
+8) draudėjas neleidžia valstybinio socialinio draudimo įstaigos pareigūnui susipažinti su apskaitos dokumentais; ^s-bb7a5f3abd2c0a65506381a2
 
 
-9) draudėjas, gavęs valstybinio socialinio draudimo įstaigos nurodymą, be svarbių priežasčių neatvyksta į ją nurodytu laiku; ^ca633a8c2dacc328bb76c2eb
+9) draudėjas, gavęs valstybinio socialinio draudimo įstaigos nurodymą, be svarbių priežasčių neatvyksta į ją nurodytu laiku; ^s-1f7866b22ab2c6e4427402b4
 
 
-10) draudėjas klastoja arba pateikia valstybinio socialinio draudimo įstaigų pareigūnams žinomai suklastotus dokumentus; ^1453f814788c4fa2ce1c90e6
+10) draudėjas klastoja arba pateikia valstybinio socialinio draudimo įstaigų pareigūnams žinomai suklastotus dokumentus; ^s-527d04fd63d525849fbb1b24
 
 
-11) draudėjas vengia mokėti socialinio draudimo įmokas arba trukdo jas nustatyti ar surinkti; ^fdb90f89b61c63cd6ee21b93
+11) draudėjas vengia mokėti socialinio draudimo įmokas arba trukdo jas nustatyti ar surinkti; ^s-f4fee6a6b4567ee8cc9bac98
 
 
-12) draudėjas pažeidinėja apskaitos taisykles. ^dd3bee55756044d836e2a4b5
+12) draudėjas pažeidinėja apskaitos taisykles. ^s-b57f82acda5c09226967ba11
 
 
 Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai gali atidėti baudų išieškojimą iki vienerių metų, nustatydami baudos mokėjimo grafiką. Delspinigiai skaičiuojami, jeigu pažeidžiamas mokėjimo grafikas.

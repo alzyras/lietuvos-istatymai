@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.645BD10A1B7B"
 pavadinimas: "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-14"
 latest_path: "latest/TAR.645BD10A1B7B.md"
 latest_sha256: "9168c2eeee3480086b670d202d89f29c3812cc4d9e585c5fe6172e4916118d06"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.645BD10A1B7B]]"
 ---
 # Dėl Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.645BD10A1B7B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.645BD10A1B7B
+- Ryšiai: [[Ryšiai/TAR.645BD10A1B7B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BB86E35BB7CC"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 2, 6, 8, 15, 16, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 2, 6, 8, 15, 16, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas"
+  - "sveikatos draudimo įstatymo 2, 6, 8, 15, 16, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.BB86E35BB7CC.md"
 latest_sha256: "67196c2cdbae006ed8498a6a551acd5c3d9cc88c496ebbb8075612e20c812cc2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BB86E35BB7CC]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 2, 6, 8, 15, 16, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BB86E35BB7CC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BB86E35BB7CC
+- Ryšiai: [[Ryšiai/TAR.BB86E35BB7CC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,44 +38,44 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-e1db2439537599ec26e88fb4
 
 
-1. Papildyti [[#2 straipsnis. 6 straipsnio 3 dalies 1 punkto pakeitimas|2 straipsnį]] nauja [[#^c6f9a116f9e2ed4099efb2e0|2 dalimi]]: ^e163f29ac5878da3a3fa9071
+1. Papildyti [[#^s-ab52342716dc678773733592|2 straipsnį]] nauja [[#^s-477470976e939665a0d0af33|2 dalimi]]: ^s-f3b8ae6e3a057a7183aedae4
 
 
 „2. Draudėjai – juridiniai asmenys ir jų filialai bei atstovybės, taip pat fiziniai asmenys, kurie įstatymų nustatyta tvarka privalo mokėti privalomojo sveikatos draudimo įmokas, išskyrus šio Įstatymo 44 straipsnyje nurodytus asmenis.“
 
 
-2. Buvusias [[#2 straipsnis. 6 straipsnio 3 dalies 1 punkto pakeitimas|2 straipsnio]] 2–[[#^873b683113ea2ec6261fba06|5 dalis]] laikyti atitinkamai 3–[[#^4b47b8635be9bc2ba734f5be|6 dalimis]]. ^c6f9a116f9e2ed4099efb2e0
+2. Buvusias [[#^s-ab52342716dc678773733592|2 straipsnio]] 2–[[#^s-a1d46f8a19708b9fbb019b84|5 dalis]] laikyti atitinkamai 3–[[#^s-e316f2fbdf6d854014689277|6 dalimis]]. ^s-477470976e939665a0d0af33
 
 
-3. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^848de55a30c16d311701b2ea
+3. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d115e6627d11d9b2b6bb1850
 
 
 „3. Privalomojo sveikatos draudimo įmokos – draudžiamųjų ir (arba) jų draudėjų mokamos šio Įstatymo nustatyto dydžio įmokos.“
 
 
-4. Papildyti 2 straipsnį 7 dalimi: ^2fce0d719fd896158e5f2e3a
+4. Papildyti 2 straipsnį 7 dalimi: ^s-7562e8e5815b4b0b17b86e0b
 
 
 „7. Individuali veikla – kaip ši sąvoka apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme (toliau – Gyventojų pajamų mokesčio įstatymas).“
 
 
-5. Papildyti 2 straipsnį 8 dalimi: ^873b683113ea2ec6261fba06
+5. Papildyti 2 straipsnį 8 dalimi: ^s-a1d46f8a19708b9fbb019b84
 
 
 „8. Atlikėjo veikla – kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme.“
 
 
-6. Papildyti 2 straipsnį 9 dalimi: ^4b47b8635be9bc2ba734f5be
+6. Papildyti 2 straipsnį 9 dalimi: ^s-e316f2fbdf6d854014689277
 
 
 „9. Sporto veikla – kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme.“
 
 
 
-### 2 straipsnis. 6 straipsnio 3 dalies 1 punkto pakeitimas
+### 2 straipsnis. 6 straipsnio 3 dalies 1 punkto pakeitimas ^s-ab52342716dc678773733592
 
 
 Pakeisti 6 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -80,46 +85,46 @@ Pakeisti 6 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio pakeitimas
+### 3 straipsnis. 8 straipsnio pakeitimas ^s-a68254ed3878ba2f121eb3b5
 
 
-Pakeisti [[#8 straipsnis. 19 straipsnio pakeitimas|8 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#8 straipsnis. 19 straipsnio pakeitimas|8 straipsnis]]. Privalomojo sveikatos draudimo galiojimas
-
-
-1. Asmenų, nurodytų šio Įstatymo 17 straipsnio 1 ir [[#^ac9695cd5761bb5852ff33e5|2 dalyse]], privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti arba jie patys pradėjo mokėti privalomojo sveikatos draudimo įmokas. ^a10ea6abea6d64982aa7a777
-
-
-2. Asmenų, nurodytų šio Įstatymo 17 straipsnio 3–8 dalyse, privalomasis sveikatos draudimas įsigalioja po 3 mėnesių nuo tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos arba jie patys mokėjo privalomojo sveikatos draudimo įmokas, arba nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką. ^ac9695cd5761bb5852ff33e5
-
-
-3. Asmenys, nurodyti šio Įstatymo [[#^a1d98552211ad9b5c33b8c0f|6 straipsnio 4 dalyje]], apdraustaisiais laikomi nuo šio Įstatymo [[#^a1d98552211ad9b5c33b8c0f|6 straipsnio 4 dalyje]] nurodyto statuso įgijimo dienos iki jo netekimo dienos. ^93e1f8709abe2f38a44c6e99
-
-
-4. Asmenys, nurodyti šio Įstatymo [[#^a1d98552211ad9b5c33b8c0f|6 straipsnio 4 dalyje]] ir 17 straipsnio 1–8 dalyse, laikomi apdraustais privalomuoju sveikatos draudimu dar vieną mėnesį po to, kai už juos nustota mokėti arba kai jie patys nustoja mokėti privalomojo sveikatos draudimo įmokas. ^3bae0ef46d6439e43f6f8d30
-
-
-5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokamas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), suteiktas asmeniui, nelaikomam apdraustuoju, šio Įstatymo 17 straipsnio 1–8 dalyse nustatytų įmokų mokėtojai moka teritorinei ligonių kasai. ^fbee46421064da14054bd5c5
-
-
-6. Jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 bazinių socialinių išmokų, tos teritorinės ligonių kasos teikimu atitinkama teritorinė valstybinė mokesčių inspekcija ir (arba) Valstybinio socialinio draudimo fondo administravimo įstaiga tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas. Kiti asmenys tikrinami pasirinktinai. ^c3deeeb3ca8e4f8c946b3481
-
-
-7. Išlaidos, susijusios su sveikatos priežiūros paslaugų teikimu, ir nesumokėtos privalomojo sveikatos draudimo įmokos iš asmenų išieškomos šio ir kitų įstatymų bei teisės aktų nustatyta tvarka.“ ^2dbbcdafddc6abc9bc59167a
+Pakeisti [[#^s-22c8c3435f03a15c717cba2d|8 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 15 straipsnio 1 dalies 9 punkto pripažinimas netekusiu galios
+„[[#^s-22c8c3435f03a15c717cba2d|8 straipsnis]]. Privalomojo sveikatos draudimo galiojimas
+
+
+1. Asmenų, nurodytų šio Įstatymo 17 straipsnio 1 ir [[#^s-977766783c36100f45b72083|2 dalyse]], privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti arba jie patys pradėjo mokėti privalomojo sveikatos draudimo įmokas. ^s-fb9223845f7d9662cc0d72a5
+
+
+2. Asmenų, nurodytų šio Įstatymo 17 straipsnio 3–8 dalyse, privalomasis sveikatos draudimas įsigalioja po 3 mėnesių nuo tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos arba jie patys mokėjo privalomojo sveikatos draudimo įmokas, arba nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką. ^s-977766783c36100f45b72083
+
+
+3. Asmenys, nurodyti šio Įstatymo [[#^s-c98df0102de1fc1c7a6e4f9e|6 straipsnio 4 dalyje]], apdraustaisiais laikomi nuo šio Įstatymo [[#^s-c98df0102de1fc1c7a6e4f9e|6 straipsnio 4 dalyje]] nurodyto statuso įgijimo dienos iki jo netekimo dienos. ^s-aa572c0b917710c64b55db09
+
+
+4. Asmenys, nurodyti šio Įstatymo [[#^s-c98df0102de1fc1c7a6e4f9e|6 straipsnio 4 dalyje]] ir 17 straipsnio 1–8 dalyse, laikomi apdraustais privalomuoju sveikatos draudimu dar vieną mėnesį po to, kai už juos nustota mokėti arba kai jie patys nustoja mokėti privalomojo sveikatos draudimo įmokas. ^s-95c6d65867cb01bb3dc6b17c
+
+
+5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokamas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), suteiktas asmeniui, nelaikomam apdraustuoju, šio Įstatymo 17 straipsnio 1–8 dalyse nustatytų įmokų mokėtojai moka teritorinei ligonių kasai. ^s-db11726b99a6d8a5dafce172
+
+
+6. Jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 bazinių socialinių išmokų, tos teritorinės ligonių kasos teikimu atitinkama teritorinė valstybinė mokesčių inspekcija ir (arba) Valstybinio socialinio draudimo fondo administravimo įstaiga tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas. Kiti asmenys tikrinami pasirinktinai. ^s-d76e7b54402063f24565f1ba
+
+
+7. Išlaidos, susijusios su sveikatos priežiūros paslaugų teikimu, ir nesumokėtos privalomojo sveikatos draudimo įmokos iš asmenų išieškomos šio ir kitų įstatymų bei teisės aktų nustatyta tvarka.“ ^s-25278d929a23bf562a7d8254
+
+
+
+### 4 straipsnis. 15 straipsnio 1 dalies 9 punkto pripažinimas netekusiu galios ^s-9ec79ee0fccbf40e78a2e191
 
 
 15 straipsnio 1 dalies 9 punktą pripažinti netekusiu galios.
 
 
 
-### 5 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-9d11d1af01c4eae4586ed745
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -129,7 +134,7 @@ Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 17 straipsnio pakeitimas
+### 6 straipsnis. 17 straipsnio pakeitimas ^s-3a5a9d841b4c864bbb4d991e
 
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
@@ -139,41 +144,41 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 „17 straipsnis. Privalomojo sveikatos draudimo įmokos
 
 
-1. Draudėjai moka 3 procentų dydžio privalomojo sveikatos draudimo įmokas nuo Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos, už asmenis: ^1164e3a27d239374b720a1d9
+1. Draudėjai moka 3 procentų dydžio privalomojo sveikatos draudimo įmokas nuo [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos, už asmenis: ^s-8d4980b0ca34a6a6b08f6a76
 
 
-1) dirbančius pagal darbo sutartis, narystės pagrindu einančius renkamąsias pareigas renkamose organizacijose, narystės pagrindu dirbančius ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose, taip pat viešojo administravimo valstybės tarnautojus; ^9613c10eb43cff9ea6bc0361
+1) dirbančius pagal darbo sutartis, narystės pagrindu einančius renkamąsias pareigas renkamose organizacijose, narystės pagrindu dirbančius ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose, taip pat viešojo administravimo valstybės tarnautojus; ^s-ac53c2a5ab13f9b21207b9e9
 
 
-2) valstybės politikus, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, kitų teismų teisėjus ir kandidatus į teisėjus, prokuratūros pareigūnus, Lietuvos banko valdybos pirmininką, jo pavaduotojus, valdybos narius, Seimo ar Respublikos Prezidento paskirtų valstybės institucijų ar įstaigų vadovus, kitus Seimo ar Respublikos Prezidento paskirtų valstybės institucijų ar įstaigų pareigūnus, Seimo ar Respublikos Prezidento paskirtų valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių) komisijų ir tarybų pirmininkus, jų pavaduotojus ir narius, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnus, jeigu jiems už darbą mokamas darbo užmokestis. ^c3a84c1f6fdd509a29df714e
+2) valstybės politikus, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, kitų teismų teisėjus ir kandidatus į teisėjus, prokuratūros pareigūnus, Lietuvos banko valdybos pirmininką, jo pavaduotojus, valdybos narius, Seimo ar Respublikos Prezidento paskirtų valstybės institucijų ar įstaigų vadovus, kitus Seimo ar Respublikos Prezidento paskirtų valstybės institucijų ar įstaigų pareigūnus, Seimo ar Respublikos Prezidento paskirtų valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių) komisijų ir tarybų pirmininkus, jų pavaduotojus ir narius, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnus, jeigu jiems už darbą mokamas darbo užmokestis. ^s-24925ca1ec02d6264b109ed9
 
 
-2. Asmenys, nurodyti [[#^1164e3a27d239374b720a1d9|šio straipsnio 1 dalyje]], moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas iš Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^eafe9654d6e98f751c0d488e
+2. Asmenys, nurodyti [[#^s-8d4980b0ca34a6a6b08f6a76|šio straipsnio 1 dalyje]], moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas iš [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^s-7769ce5558f145127af41949
 
 
-3. Asmenys, gaunantys pajamas pagal autorinę sutartį, taip pat sporto veiklos, atlikėjo veiklos pajamas, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas, o draudėjai – 3 procentų dydžio privalomojo sveikatos draudimo įmokas. ^809ed7693bbeb8ddd35eb998
+3. Asmenys, gaunantys pajamas pagal autorinę sutartį, taip pat sporto veiklos, atlikėjo veiklos pajamas, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas, o draudėjai – 3 procentų dydžio privalomojo sveikatos draudimo įmokas. ^s-1169f363194943f90d864c23
 
 
-4. Fiziniai asmenys, kurie verčiasi individualia veikla, išskyrus asmenis, nurodytus [[#^9142229564a660dd3ece2337|šio straipsnio 5 dalyje]], ir asmenis, kurie verčiasi individualia žemės ūkio veikla, tačiau kurių pajamos iš šios veiklos nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas, moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo per kalendorinius metus gautų individualios veiklos gyventojų pajamų mokesčiu apmokestinamųjų pajamų (išskyrus pajamas, nuo kurių privalomojo sveikatos draudimo įmokos sumokėtos [[#^809ed7693bbeb8ddd35eb998|šio straipsnio 3 dalyje]] nustatyta tvarka). ^a1d98552211ad9b5c33b8c0f
+4. Fiziniai asmenys, kurie verčiasi individualia veikla, išskyrus asmenis, nurodytus [[#^s-1820d294f71c3dc5d58227aa|šio straipsnio 5 dalyje]], ir asmenis, kurie verčiasi individualia žemės ūkio veikla, tačiau kurių pajamos iš šios veiklos nėra apmokestinamos gyventojų pajamų mokesčiu pagal [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatymo]] nuostatas, moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo per kalendorinius metus gautų individualios veiklos gyventojų pajamų mokesčiu apmokestinamųjų pajamų (išskyrus pajamas, nuo kurių privalomojo sveikatos draudimo įmokos sumokėtos [[#^s-1169f363194943f90d864c23|šio straipsnio 3 dalyje]] nustatyta tvarka). ^s-c98df0102de1fc1c7a6e4f9e
 
 
-5. Fiziniai asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo per kalendorinius metus gautų gyventojų pajamų mokesčio deklaracijoje deklaruotų individualios veiklos pajamų. ^9142229564a660dd3ece2337
+5. Fiziniai asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo per kalendorinius metus gautų gyventojų pajamų mokesčio deklaracijoje deklaruotų individualios veiklos pajamų. ^s-1820d294f71c3dc5d58227aa
 
 
-6. Ūkinių bendrijų nariai ir individualių įmonių savininkai moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo per kalendorinius metus iš tokios ūkinės bendrijos ar individualios įmonės apmokestinto pelno gautų pajamų. ^4b802abd14f24ac8fa910094
+6. Ūkinių bendrijų nariai ir individualių įmonių savininkai moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo per kalendorinius metus iš tokios ūkinės bendrijos ar individualios įmonės apmokestinto pelno gautų pajamų. ^s-9f8feca4d6b3b42c79d8abf2
 
 
-7. Asmenys, nepriklausantys išvardytiems šio straipsnio 1, 2, 3, 4, 5 ir [[#^4b802abd14f24ac8fa910094|6 dalyse]] bei šio Įstatymo [[#^a1d98552211ad9b5c33b8c0f|6 straipsnio 4 dalyje]], moka už save 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio privalomojo sveikatos draudimo įmokas, išskyrus asmenis, kurių žemės ūkio valdos ekonominis dydis pagal įgaliotos institucijos atliktus skaičiavimus, galiojančius praėjusių metų paskutinę dieną, yra ne didesnis kaip 2 europinio dydžio vienetai, nustatomi vadovaujantis 1990 m. sausio 16 d. Europos Komisijos sprendimu 90/36/EEB, nustatančiu agroekonominės tendencijos koeficientą, naudojamą Bendrijos ūkių tipologijoje europiniam dydžio vienetui apibrėžti. Asmenys, kurių žemės ūkio valdos ekonominis dydis pagal įgaliotos institucijos atliktus skaičiavimus, galiojančius praėjusių metų paskutinę dieną, yra ne didesnis kaip 2 europinio dydžio vienetai, moka už save 3 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio privalomojo sveikatos draudimo įmokas. ^e69864dde55ac82e01421fb9
+7. Asmenys, nepriklausantys išvardytiems šio straipsnio 1, 2, 3, 4, 5 ir [[#^s-9f8feca4d6b3b42c79d8abf2|6 dalyse]] bei šio Įstatymo [[#^s-c98df0102de1fc1c7a6e4f9e|6 straipsnio 4 dalyje]], moka už save 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio privalomojo sveikatos draudimo įmokas, išskyrus asmenis, kurių žemės ūkio valdos ekonominis dydis pagal įgaliotos institucijos atliktus skaičiavimus, galiojančius praėjusių metų paskutinę dieną, yra ne didesnis kaip 2 europinio dydžio vienetai, nustatomi vadovaujantis 1990 m. sausio 16 d. Europos Komisijos sprendimu 90/36/EEB, nustatančiu agroekonominės tendencijos koeficientą, naudojamą Bendrijos ūkių tipologijoje europiniam dydžio vienetui apibrėžti. Asmenys, kurių žemės ūkio valdos ekonominis dydis pagal įgaliotos institucijos atliktus skaičiavimus, galiojančius praėjusių metų paskutinę dieną, yra ne didesnis kaip 2 europinio dydžio vienetai, moka už save 3 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-177706c723927d6f90611d1f
 
 
-8. Nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme, gaunantys kitas, negu šio straipsnio 1–[[#^4b802abd14f24ac8fa910094|6 dalyse]] nurodytos, pajamas, nuo kurių Gyventojų pajamų mokesčio įstatymo nustatyta tvarka turi būti išskaičiuotas ir (ar) sumokėtas gyventojų pajamų mokestis, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas. ^16262a9bf8bf6b553f2e5596
+8. Nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], gaunantys kitas, negu šio straipsnio 1–[[#^s-9f8feca4d6b3b42c79d8abf2|6 dalyse]] nurodytos, pajamas, nuo kurių [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatymo]] nustatyta tvarka turi būti išskaičiuotas ir (ar) sumokėtas gyventojų pajamų mokestis, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas. ^s-0a3a85a16c429a6ea7463a22
 
 
-9. Asmenų, išvardytų šio straipsnio 3, 4, 5, 6 ir [[#^16262a9bf8bf6b553f2e5596|8 dalyse]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 9 procentai dvylikos minimaliųjų mėnesinių algų dydžio, išskyrus asmenis, išvardytus šio Įstatymo [[#^a1d98552211ad9b5c33b8c0f|6 straipsnio 4 dalyje]] ir šio straipsnio 1 ir [[#^eafe9654d6e98f751c0d488e|2 dalyse]].“ ^6a8f389c0a21e8493a2cbd90
+9. Asmenų, išvardytų šio straipsnio 3, 4, 5, 6 ir [[#^s-0a3a85a16c429a6ea7463a22|8 dalyse]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 9 procentai dvylikos minimaliųjų mėnesinių algų dydžio, išskyrus asmenis, išvardytus šio Įstatymo [[#^s-c98df0102de1fc1c7a6e4f9e|6 straipsnio 4 dalyje]] ir šio straipsnio 1 ir [[#^s-7769ce5558f145127af41949|2 dalyse]].“ ^s-ec4d07b60814c8d031e92ca9
 
 
 
-### 7 straipsnis. 18 straipsnio pakeitimas
+### 7 straipsnis. 18 straipsnio pakeitimas ^s-95be83a4c46465daa9135e00
 
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
@@ -183,32 +188,32 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 „18 straipsnis. Privalomojo sveikatos draudimo įmokų administravimo ir mokėjimo tvarka
 
 
-1. Šio Įstatymo 17 straipsnio 4–[[#^9a9295efff5f95b13df79dc9|8 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas administruoja Valstybinė mokesčių inspekcija Mokesčių administravimo įstatymo nustatyta tvarka ir šias įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 2 dalyje nurodytas sumas per tris dienas perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinės ligonių kasos ir Valstybinės mokesčių inspekcijos nustatyta tvarka teritorinės valstybinės mokesčių inspekcijos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie asmenų sumokėtas šio Įstatymo 17 straipsnio 4–[[#^9a9295efff5f95b13df79dc9|8 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas. ^37a3ec3f63df4bd44b8e2627
+1. Šio Įstatymo 17 straipsnio 4–[[#^s-f911d6d922203b5385b931a5|8 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas administruoja Valstybinė mokesčių inspekcija [[latest/TAR.3EB34933E485#^s-9c7ed8b9bc295638238dceb2|Mokesčių administravimo įstatymo nustatyta tvarka ir šias įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 2 dalyje]] nurodytas sumas per tris dienas perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinės ligonių kasos ir Valstybinės mokesčių inspekcijos nustatyta tvarka teritorinės valstybinės mokesčių inspekcijos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie asmenų sumokėtas šio Įstatymo 17 straipsnio 4–[[#^s-f911d6d922203b5385b931a5|8 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas. ^s-4a44d948bc931630a75c3fc1
 
 
-2. Šio Įstatymo 17 straipsnio 1–[[#^302c3b090eb282825a5611e8|3 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas administruoja Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka ir šias įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 1 dalyje nurodytas sumas per tris dienas perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnio 1–[[#^302c3b090eb282825a5611e8|3 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnio 1–[[#^302c3b090eb282825a5611e8|3 dalyse]] nurodytų įmokų ir iš Privalomojo sveikatos draudimo fondo biudžeto finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. ^2b42be71025c60ca62b5f6a9
+2. Šio Įstatymo 17 straipsnio 1–[[#^s-8615c70d379dafa6ad52b638|3 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas administruoja Valstybinio socialinio draudimo fondo administravimo įstaigos [[latest/TAR.0F9036415DBD#^s-9296268f6e0d93a684b04c92|Valstybinio socialinio draudimo įstatymo nustatyta tvarka ir šias įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 1 dalyje]] nurodytas sumas per tris dienas perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnio 1–[[#^s-8615c70d379dafa6ad52b638|3 dalyse]] nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnio 1–[[#^s-8615c70d379dafa6ad52b638|3 dalyse]] nurodytų įmokų ir iš Privalomojo sveikatos draudimo fondo biudžeto finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. ^s-d04f234d910a76c0dd6477dc
 
 
-3. Šio Įstatymo 17 straipsnio 1–[[#^302c3b090eb282825a5611e8|3 dalyse]] nurodytos įmokos mokamos Valstybinio socialinio draudimo įstatymo nustatyta tvarka. ^302c3b090eb282825a5611e8
+3. Šio Įstatymo 17 straipsnio 1–[[#^s-8615c70d379dafa6ad52b638|3 dalyse]] nurodytos įmokos mokamos [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka. ^s-8615c70d379dafa6ad52b638
 
 
-4. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4–[[#^dd62de0bedd08aeef55819d8|7 dalyse]], kas mėnesį moka 9 procentų minimaliosios mėnesinės algos, galiojančios mokėjimo dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. ^3f27846fe2f36d49a801ca0b
+4. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4–[[#^s-6d3014404583751990c2058f|7 dalyse]], kas mėnesį moka 9 procentų minimaliosios mėnesinės algos, galiojančios mokėjimo dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. ^s-ac4855831000087c6fc5a59c
 
 
-5. Asmenys, nurodyti šio Įstatymo 17 straipsnio 8 dalyje, kalendoriniais metais gavę pajamų, kurios pagal Gyventojų pajamų mokesčio įstatymą priskiriamos B klasės pajamoms, privalomojo sveikatos draudimo įmokas nuo šių pajamų sumoka ne vėliau kaip iki kitų metų gegužės 1 dienos. ^e3441286c1098e2527eb5cb0
+5. Asmenys, nurodyti šio Įstatymo 17 straipsnio 8 dalyje, kalendoriniais metais gavę pajamų, kurios pagal Gyventojų pajamų mokesčio įstatymą priskiriamos B klasės pajamoms, privalomojo sveikatos draudimo įmokas nuo šių pajamų sumoka ne vėliau kaip iki kitų metų gegužės 1 dienos. ^s-161f939561157191e1909bdd
 
 
-6. Kai asmenys, nurodyti šio Įstatymo 17 straipsnio 8 dalyje, gauna pajamų, kurios pagal Gyventojų pajamų mokesčio įstatymą priskiriamos A klasės pajamoms, privalomojo sveikatos draudimo įmokas nuo tokių pajamų apskaičiuoja ir sumoka tokias pajamas išmokantis asmuo Gyventojų pajamų mokesčio įstatyme nustatytais terminais. ^6303d922cd30c68962e194c0
+6. Kai asmenys, nurodyti šio Įstatymo 17 straipsnio 8 dalyje, gauna pajamų, kurios pagal Gyventojų pajamų mokesčio įstatymą priskiriamos A klasės pajamoms, privalomojo sveikatos draudimo įmokas nuo tokių pajamų apskaičiuoja ir sumoka tokias pajamas išmokantis asmuo [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] nustatytais terminais. ^s-0fe7c39e30d5433bec4d5f4b
 
 
-7. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3–6 ir [[#^9a9295efff5f95b13df79dc9|8 dalyse]], turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas atsižvelgdami į šio Įstatymo 17 straipsnio 3–6 ir [[#^9a9295efff5f95b13df79dc9|8 dalių]] nuostatas ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos privalomojo sveikatos draudimo įmokų sumos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. ^dd62de0bedd08aeef55819d8
+7. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3–6 ir [[#^s-f911d6d922203b5385b931a5|8 dalyse]], turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas atsižvelgdami į šio Įstatymo 17 straipsnio 3–6 ir [[#^s-f911d6d922203b5385b931a5|8 dalių]] nuostatas ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos privalomojo sveikatos draudimo įmokų sumos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. ^s-6d3014404583751990c2058f
 
 
-8. Šio Įstatymo 17 straipsnio 4–[[#^9a9295efff5f95b13df79dc9|8 dalyse]] nurodytos įmokos mokamos į atitinkamos teritorinės valstybinės mokesčių inspekcijos surenkamąją sąskaitą.“ ^9a9295efff5f95b13df79dc9
+8. Šio Įstatymo 17 straipsnio 4–[[#^s-f911d6d922203b5385b931a5|8 dalyse]] nurodytos įmokos mokamos į atitinkamos teritorinės valstybinės mokesčių inspekcijos surenkamąją sąskaitą.“ ^s-f911d6d922203b5385b931a5
 
 
 
-### 8 straipsnis. 19 straipsnio pakeitimas
+### 8 straipsnis. 19 straipsnio pakeitimas ^s-22c8c3435f03a15c717cba2d
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
@@ -218,42 +223,42 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 „19 straipsnis. Atsakomybė už privalomojo sveikatos draudimo įmokų mokėjimą
 
 
-1. Pažeidus šio Įstatymo 17 straipsnio 1–[[#^b1468918a3edd1516d49d001|3 dalyse]] nurodytų įmokų apskaičiavimo ir sumokėjimo tvarką, draudėjams baudos skiriamos ir delspinigiai skaičiuojami Valstybinio socialinio draudimo įstatymo nustatyta tvarka. ^09fc1940c234cf488476499a
+1. Pažeidus šio Įstatymo 17 straipsnio 1–[[#^s-2505005bad1d9283c23947d0|3 dalyse]] nurodytų įmokų apskaičiavimo ir sumokėjimo tvarką, draudėjams baudos skiriamos ir delspinigiai skaičiuojami [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka. ^s-f003e48c9a312b4bcbb1faac
 
 
-2. Pažeidus šio Įstatymo 17 straipsnio 4–8 dalyse nurodytų įmokų apskaičiavimo ir sumokėjimo tvarką, asmenims, kurie privalo mokėti ir (ar) apskaičiuoti šias įmokas, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka. ^a7ef3be3d8300bbb0fea112f
+2. Pažeidus šio Įstatymo 17 straipsnio 4–8 dalyse nurodytų įmokų apskaičiavimo ir sumokėjimo tvarką, asmenims, kurie privalo mokėti ir (ar) apskaičiuoti šias įmokas, baudos skiriamos ir delspinigiai skaičiuojami [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-4f0f36b4bb952346ef62a5c1
 
 
-3. Jeigu teritorinės valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo administravimo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą.“ ^b1468918a3edd1516d49d001
-
-
-
-### 9 straipsnis. Baigiamosios nuostatos
-
-
-1. Fiziniai asmenys, kurie verčiasi individualia veikla, kaip apibrėžta Gyventojų pajamų mokesčio įstatyme, įsigiję verslo liudijimus iki šio įstatymo įsigaliojimo dienos, yra apdrausti privalomuoju sveikatos draudimu iki 2009 m. sausio 1 d. galiojusių Sveikatos draudimo įstatymo nuostatų nustatyta tvarka. ^b4ba0e3eef24df682a370cbd
-
-
-2. Visos 2008 metų privalomojo sveikatos draudimo įmokos, kurios turėjo būti sumokėtos ir 2009 metais patikslintos, Valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo administravimo įstaigų yra pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą iki 2009 m. sausio 1 d. galiojusių Sveikatos draudimo įstatymo nuostatų nustatyta tvarka. ^578b23d5e2df05d9bd8358f7
+3. Jeigu teritorinės valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo administravimo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą.“ ^s-2505005bad1d9283c23947d0
 
 
 
-### 10 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 9 straipsnis. Baigiamosios nuostatos ^s-47f1f6540357a2fe3fbbf2cd
 
 
-1. Šis įstatymas įsigalioja 2009 m. sausio 1 d. ^da67b9c7cadff61320fa5397
+1. Fiziniai asmenys, kurie verčiasi individualia veikla, kaip apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], įsigiję verslo liudijimus iki šio įstatymo įsigaliojimo dienos, yra apdrausti privalomuoju sveikatos draudimu iki 2009 m. sausio 1 d. galiojusių [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo]] nuostatų nustatyta tvarka. ^s-68ca0747bf826ea0534f7b50
 
 
-2. Šis įstatymas taikomas apskaičiuojant ir mokant 2009 metų ir vėlesnių metų privalomojo sveikatos draudimo įmokas. ^178a6c176ea6b9e42e716b70
+2. Visos 2008 metų privalomojo sveikatos draudimo įmokos, kurios turėjo būti sumokėtos ir 2009 metais patikslintos, Valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo administravimo įstaigų yra pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą iki 2009 m. sausio 1 d. galiojusių [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo]] nuostatų nustatyta tvarka. ^s-f59b19dd7d59dc45e22507a1
 
 
-3. Individualios veiklos pajamoms iš realizuotos žemės ūkio produkcijos, užaugintos, taip pat užaugintos ir perdirbtos gyventojo nuosavybės teise turimoje, išsinuomotoje ar Lietuvos Respublikos teisės aktų nustatyta tvarka gyventojui suteiktoje žemėje, ir ūkininkų ir jų partnerių gautoms (uždirbtoms) pajamoms, kurioms 2009 metais taikomas 5 procentų gyventojų pajamų mokesčio tarifas, o 2010 metais – 10 procentų gyventojų pajamų mokesčio tarifas, privalomojo sveikatos draudimo įmokos 2009–2010 metais skaičiuojamos tokia tvarka: ^568128de06ef2e3d4400c48f
+
+### 10 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-7dd3f7ccbd9a1321debdc22b
 
 
-1) už 2009 metus – nuo per kalendorinius metus gautų individualios žemės ūkio veiklos pajamų mokamos 3 procentų dydžio privalomojo sveikatos draudimo įmokos, bet per metus ne mažiau kaip 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio įmokos; ^f3ab9bccd7ae4a6319624bd9
+1. Šis įstatymas įsigalioja 2009 m. sausio 1 d. ^s-ba43bee5b9ac35de7618ffcc
 
 
-2) už 2010 metus – nuo per kalendorinius metus gautų individualios žemės ūkio veiklos pajamų mokamos 6 procentų dydžio privalomojo sveikatos draudimo įmokos, bet per metus ne mažiau kaip 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio įmokos. ^222a86dd4fd2a8e25dbb12e1
+2. Šis įstatymas taikomas apskaičiuojant ir mokant 2009 metų ir vėlesnių metų privalomojo sveikatos draudimo įmokas. ^s-9ad046b151839544b85f8251
+
+
+3. Individualios veiklos pajamoms iš realizuotos žemės ūkio produkcijos, užaugintos, taip pat užaugintos ir perdirbtos gyventojo nuosavybės teise turimoje, išsinuomotoje ar Lietuvos Respublikos teisės aktų nustatyta tvarka gyventojui suteiktoje žemėje, ir ūkininkų ir jų partnerių gautoms (uždirbtoms) pajamoms, kurioms 2009 metais taikomas 5 procentų gyventojų pajamų mokesčio tarifas, o 2010 metais – 10 procentų gyventojų pajamų mokesčio tarifas, privalomojo sveikatos draudimo įmokos 2009–2010 metais skaičiuojamos tokia tvarka: ^s-188f44f7b0438850603d52e5
+
+
+1) už 2009 metus – nuo per kalendorinius metus gautų individualios žemės ūkio veiklos pajamų mokamos 3 procentų dydžio privalomojo sveikatos draudimo įmokos, bet per metus ne mažiau kaip 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio įmokos; ^s-fb0f8d67fb95421779dfe540
+
+
+2) už 2010 metus – nuo per kalendorinius metus gautų individualios žemės ūkio veiklos pajamų mokamos 6 procentų dydžio privalomojo sveikatos draudimo įmokos, bet per metus ne mažiau kaip 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio įmokos. ^s-a8bb27800d29bfa845964820
 
 
 

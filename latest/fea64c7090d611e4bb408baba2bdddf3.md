@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "fea64c7090d611e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 24 straipsnio pakeitimo įstatymas"
+  - "Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-01-01"
 latest_path: "latest/fea64c7090d611e4bb408baba2bdddf3.md"
 latest_sha256: "05a99072714d7891792c33a90b1a3d00e644c21bdba2fc0de4199a1debc61061"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/fea64c7090d611e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/fea64c7090d611e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/fea64c7090d611e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/fea64c7090d611e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio pakeitimas
+### 1 straipsnis. 24 straipsnio pakeitimas ^s-470a1ba5c627a7432853df5c
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A5012D483102"
 pavadinimas: "Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-10-13"
 latest_path: "latest/TAR.A5012D483102.md"
 latest_sha256: "bdcd5baff21cb9ec36b021add38384368ae7b523d9eddda460b64b43cc043c13"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A5012D483102]]"
 ---
 # Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A5012D483102.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A5012D483102
+- Ryšiai: [[Ryšiai/TAR.A5012D483102|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CFC90490B19E"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio papildymo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-25"
 latest_path: "latest/TAR.CFC90490B19E.md"
 latest_sha256: "85a254bde2606f1ba2db954d7ab92acbd6f09103f0117cd4facd335a4c316569"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CFC90490B19E]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CFC90490B19E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CFC90490B19E
+- Ryšiai: [[Ryšiai/TAR.CFC90490B19E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies papildymas
+### 1 straipsnis. 1 straipsnio 3 dalies papildymas ^s-5b0a73b32b142d1f8f728947
 
 
 1 straipsnio 3 dalyje po žodžio „investicinių“ įrašyti žodžius „kintamojo kapitalo“ ir šią dalį išdėstyti taip:

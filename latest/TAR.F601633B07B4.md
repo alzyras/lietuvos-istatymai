@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F601633B07B4"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 32 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 32 straipsnių pakeitimo ir papildymo įstatymas"
+  - "vietos savivaldos įstatymo 6, 7, 32 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-20"
 latest_path: "latest/TAR.F601633B07B4.md"
 latest_sha256: "e47ac4a72144023768227b642d0db1e8c67d20a2415c5947710139902b9122ba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F601633B07B4]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 32 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F601633B07B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F601633B07B4
+- Ryšiai: [[Ryšiai/TAR.F601633B07B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,39 +40,39 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-5485fe857e89b4f28e023354
 
 
-1. Papildyti 6 straipsnį nauju 43 punktu: ^cd91ff16ee59b95d250fbbd5
+1. Papildyti 6 straipsnį nauju 43 punktu: ^s-2868bfa17cf279da1cf0ae5d
 
 
 „43) piniginės socialinės paramos nepasiturintiems gyventojams teikimas Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymu nustatytose savivaldybėse;“.
 
 
-2. Buvusį 6 straipsnio 43 punktą laikyti 44 punktu. ^d98debfc85cb27c820ad1b42
+2. Buvusį 6 straipsnio 43 punktą laikyti 44 punktu. ^s-d3ce04e3cc46ea975a7b8aa5
 
 
 
-### 2 straipsnis. 7 straipsnio 6 punkto pripažinimas netekusiu galios ir 9 punkto pakeitimas
+### 2 straipsnis. 7 straipsnio 6 punkto pripažinimas netekusiu galios ir 9 punkto pakeitimas ^s-581627a03ee664305e4ff95a
 
 
-1. 7 straipsnio 6 punktą pripažinti netekusiu galios. ^f674e270cc8164b574127ed1
+1. 7 straipsnio 6 punktą pripažinti netekusiu galios. ^s-cbab2393c0bb85ad01ccdcf7
 
 
-2. Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip: ^84d9004743af1ea796d87e6d
+2. Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip: ^s-9563637efba083c327dcc9a9
 
 
-„9) socialinių išmokų ir kompensacijų, išskyrus piniginę socialinę paramą nepasiturintiems gyventojams Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymu nustatytose savivaldybėse, skaičiavimas ir mokėjimas;“.
+„9) socialinių išmokų ir kompensacijų, išskyrus piniginę socialinę paramą nepasiturintiems gyventojams [[latest/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymu]] nustatytose savivaldybėse, skaičiavimas ir mokėjimas;“.
 
 
-3. Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip: ^d13e952dd0ebf9616a2efd52
+3. Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip: ^s-64f6ced6370731eef8d8932d
 
 
 „9) socialinių išmokų ir kompensacijų skaičiavimas ir mokėjimas;“.
 
 
 
-### 3 straipsnis. 32 straipsnio 2 dalies 16 punkto pakeitimas
+### 3 straipsnis. 32 straipsnio 2 dalies 16 punkto pakeitimas ^s-849566dc68165d5a6a8a9584
 
 
 Pakeisti 32 straipsnio 2 dalies 16 punktą ir jį išdėstyti taip:
@@ -77,16 +82,16 @@ Pakeisti 32 straipsnio 2 dalies 16 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-84bd612cdfffd24cc248b60f
 
 
-1. Šis įstatymas, išskyrus [[#^d13e952dd0ebf9616a2efd52|2 straipsnio 3 dalį]], įsigalioja 2012 m. sausio 1d. ^61cf3e99be0dc9f9fb69adea
+1. Šis įstatymas, išskyrus [[#^s-64f6ced6370731eef8d8932d|2 straipsnio 3 dalį]], įsigalioja 2012 m. sausio 1d. ^s-f026801602662f003e5f4f8f
 
 
-2. Šio įstatymo [[#^d13e952dd0ebf9616a2efd52|2 straipsnio 3 dalis]] įsigalioja 2015 m. sausio 1 d. ^3f92360d26da5eded4ad1664
+2. Šio įstatymo [[#^s-64f6ced6370731eef8d8932d|2 straipsnio 3 dalis]] įsigalioja 2015 m. sausio 1 d. ^s-d7a508abcd7a815120940e85
 
 
-3. Šio įstatymo [[#1 straipsnis. 6 straipsnio papildymas ir pakeitimas|1 straipsnis]] ir [[#^84d9004743af1ea796d87e6d|2 straipsnio 2 dalis]] galioja iki 2014 m. gruodžio 31 d. ^fef6ab118ff5672779864068
+3. Šio įstatymo [[#^s-5485fe857e89b4f28e023354|1 straipsnis]] ir [[#^s-9563637efba083c327dcc9a9|2 straipsnio 2 dalis]] galioja iki 2014 m. gruodžio 31 d. ^s-f2d05d3f2073e1e75d4bdff5
 
 
 

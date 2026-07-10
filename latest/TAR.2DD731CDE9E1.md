@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2DD731CDE9E1"
 pavadinimas: "Lietuvos Respublikos korupcijos prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos korupcijos prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "korupcijos prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-05"
 latest_path: "latest/TAR.2DD731CDE9E1.md"
 latest_sha256: "295beb69f1326b6a0cd799cfba95ca5e113caba7969b8683e0c4031bcd90efd4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2DD731CDE9E1]]"
 ---
 # Lietuvos Respublikos korupcijos prevencijos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2DD731CDE9E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2DD731CDE9E1
+- Ryšiai: [[Ryšiai/TAR.2DD731CDE9E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-459ecee108ada70dfd8faf2c
 
 
 2 straipsnio 2 dalyje vietoj žodžių „tarpininko kyšininkavimas“ įrašyti žodžius „prekyba poveikiu“ ir šią dalį išdėstyti taip:

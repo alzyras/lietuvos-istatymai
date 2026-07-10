@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.065AB8483E1E.md",
   "latest_revision": "1996-07-26",
-  "latest_sha256": "854d6cf1a3556e2edb4e71d54830bed2d9396cda97ac34642c1322c582f8118e",
+  "latest_sha256": "d27db48070542453bea4ac3075666c60cbb092b413d0d389fe7c8f8812f28e57",
   "metadata_path": "latest/TAR.065AB8483E1E.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos visuomenės informavimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:27Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

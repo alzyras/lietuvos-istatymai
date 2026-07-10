@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.880CFB94CDE1"
 pavadinimas: "Lietuvos Respublikos lito patikimumo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos lito patikimumo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "lito patikimumo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.880CFB94CDE1.md"
 latest_sha256: "f9b9845b1067fd676855bfda5068534e369a0d048892b34d9ca28d0964078a35"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.880CFB94CDE1]]"
 ---
 # Lietuvos Respublikos lito patikimumo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.880CFB94CDE1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.880CFB94CDE1
+- Ryšiai: [[Ryšiai/TAR.880CFB94CDE1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-eee9cabad4de35e5af85ae16
 
 
 5 straipsnyje po žodžio „bankas“ įrašyti žodžius „savo interneto svetainėje skelbia ir“, vietoj žodžių „skelbia „Valstybės žiniose“ įrašyti žodį „atnaujina“ ir šį straipsnį išdėstyti taip:
@@ -47,7 +52,7 @@ Lietuvos bankas savo interneto svetainėje skelbia ir ne rečiau kaip kartą per
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-fba3f5f5cccea9f3f57de1db
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

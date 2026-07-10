@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EF1B79AD4A08"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 12, 40-1 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 12, 40-1 straipsnių papildymo ir pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 12, 40-1 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.EF1B79AD4A08.md"
 latest_sha256: "ef9cb0d3c68bac7822c95a0a110c0b35ef42be9d483154f5488cd2ade98dfae0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EF1B79AD4A08]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 12, 40-1 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EF1B79AD4A08.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EF1B79AD4A08
+- Ryšiai: [[Ryšiai/TAR.EF1B79AD4A08|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio papildymas 17 punktu
+### 1 straipsnis. 12 straipsnio papildymas 17 punktu ^s-51167930cefe3a96a7d5b7dc
 
 
 Papildyti 12 straipsnį 17 punktu:
@@ -42,7 +47,7 @@ Papildyti 12 straipsnį 17 punktu:
 
 
 
-### 2 straipsnis. 401 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 401 straipsnio 1 dalies pakeitimas ^s-4f8630c913b9bde125a8c4d8
 
 
 Pakeisti 401 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -52,10 +57,10 @@ Pakeisti 401 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-37758cd9fdad1ee62ab2c8ba
 
 
-Šio įstatymo [[#1 straipsnis. 12 straipsnio papildymas 17 punktu|1 straipsnio]] nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+Šio įstatymo [[#^s-51167930cefe3a96a7d5b7dc|1 straipsnio]] nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 
 

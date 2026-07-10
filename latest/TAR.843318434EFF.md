@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.843318434EFF"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-19"
 latest_path: "latest/TAR.843318434EFF.md"
 latest_sha256: "b333e690a32221792453f754f69bf989df4f746fc7582cb47a57ddfada1772e7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.843318434EFF]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.843318434EFF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.843318434EFF
+- Ryšiai: [[Ryšiai/TAR.843318434EFF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

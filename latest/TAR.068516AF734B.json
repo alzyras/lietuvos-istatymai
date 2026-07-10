@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.068516AF734B.md",
   "latest_revision": "2001-01-01",
-  "latest_sha256": "0c69c18595c62dc7f752cb2d8913cadf5665e85ec26e48b1fb3c7a83288416d1",
+  "latest_sha256": "d9aed1f7f4ee72b77807c2a1d603acf03763429d2e5671d5a4c0c2d021db6fda",
   "metadata_path": "latest/TAR.068516AF734B.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:17Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

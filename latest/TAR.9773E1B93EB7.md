@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9773E1B93EB7"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-05-28"
 latest_path: "latest/TAR.9773E1B93EB7.md"
 latest_sha256: "98962321eed4baa5ce736381150efc8d258f946ea61a59e1a596c932a8123ec1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9773E1B93EB7]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9773E1B93EB7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9773E1B93EB7
+- Ryšiai: [[Ryšiai/TAR.9773E1B93EB7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-763fb7028386d62ee9e54c8c
 
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:

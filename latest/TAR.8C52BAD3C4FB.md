@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C52BAD3C4FB"
 pavadinimas: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 33 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 33 straipsnio papildymo įstatymas"
+  - "Klaipėdos valstybinio jūrų uosto įstatymo 33 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-02-29"
 latest_path: "latest/TAR.8C52BAD3C4FB.md"
 latest_sha256: "44e2ff4eac816ca423058c85cfff72d143d606dc7f3e1a1fec99d116a9fd252d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C52BAD3C4FB]]"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 33 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C52BAD3C4FB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C52BAD3C4FB
+- Ryšiai: [[Ryšiai/TAR.8C52BAD3C4FB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,10 +36,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 33 straipsnio papildymas
+### 1 straipsnis. 33 straipsnio papildymas ^s-c487c1ce6669e7d215a3c560
 
 
-Papildyti 33 straipsnio pirmąjį sakinį, papildyti straipsnį nauju [[#^c316a9c7cce01428f8c9beb3|9 punktu]], buvusius 9-11 punktus laikyti 10-12 punktais ir visą straipsnį išdėstyti taip:
+Papildyti 33 straipsnio pirmąjį sakinį, papildyti straipsnį nauju [[#^s-c9c915f150b5f6fe6c110109|9 punktu]], buvusius 9-11 punktus laikyti 10-12 punktais ir visą straipsnį išdėstyti taip:
 
 
 „33 straipsnis. Uosto lėšų naudojimas
@@ -43,40 +48,40 @@ Papildyti 33 straipsnio pirmąjį sakinį, papildyti straipsnį nauju [[#^c316a9
 Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir kitoms išlaidoms, susijusioms su uosto veikla, finansuoti. Šios lėšos skiriamos:
 
 
-1) uosto teritorijai prižiūrėti ir laivybos saugumui užtikrinti; ^33fb8b85b5eede9c66c38e62
+1) uosto teritorijai prižiūrėti ir laivybos saugumui užtikrinti; ^s-9483c66c7fd347bea723e89f
 
 
-2) navigacijos ženklams ir sistemoms statyti, remontuoti ir prižiūrėti; ^68ed5efdbc419999cbbe49ba
+2) navigacijos ženklams ir sistemoms statyti, remontuoti ir prižiūrėti; ^s-da928755a17e29086c345694
 
 
-3) skelbiamam uosto vandens gyliui palaikyti bei akvatorijos gilinimo darbams; ^d6da0d4706a706dddafb33b1
+3) skelbiamam uosto vandens gyliui palaikyti bei akvatorijos gilinimo darbams; ^s-b950438e385706a8e5e69de5
 
 
-4) Uosto direkcijai išlaikyti; ^a7ac8e6411828937d534cc55
+4) Uosto direkcijai išlaikyti; ^s-3f79abaa5522ad39df550758
 
 
-5) gelbėjimo darbams ir teršalų padariniams likviduoti; ^ba92f1f6c3f1c831dd960f3a
+5) gelbėjimo darbams ir teršalų padariniams likviduoti; ^s-abb45ecc6bfdc0614b44421b
 
 
-6) hidrotechniniams įrenginiams statyti; ^35d375a5f96e9a11b471b52d
+6) hidrotechniniams įrenginiams statyti; ^s-0d4e00afc24cb42e92b0e904
 
 
-7) terminalams statyti; ^742378160334af4b9106b0ae
+7) terminalams statyti; ^s-3f2cb09a1c75a8bf849da033
 
 
-8) bendrojo naudojimo inžineriniams įrenginiams statyti; ^51ed796ccf9207a79e78ee00
+8) bendrojo naudojimo inžineriniams įrenginiams statyti; ^s-fba633c64369aafaa3ec1817
 
 
-9) privažiavimo keliams rekonstruoti ir išplėsti, jas perdavus savivaldybei; ^c316a9c7cce01428f8c9beb3
+9) privažiavimo keliams rekonstruoti ir išplėsti, jas perdavus savivaldybei; ^s-c9c915f150b5f6fe6c110109
 
 
-10) hidrografiniams darbams; ^2ec692789ea5290ea2b62297
+10) hidrografiniams darbams; ^s-cd8a62951aca9680880a4ed6
 
 
-11) mokslinio tyrimo ir projektavimo darbams; ^91608c74483ad11e0d1af701
+11) mokslinio tyrimo ir projektavimo darbams; ^s-4f06bef969185b2428d64161
 
 
-12) kitoms išlaidoms, numatytoms Susisiekimo ministerijos patvirtintoje pajamų-išlaidų sąmatoje.“ ^3154de2225b48146cc570c9e
+12) kitoms išlaidoms, numatytoms Susisiekimo ministerijos patvirtintoje pajamų-išlaidų sąmatoje.“ ^s-224dbfe27a22da9e0c0d8793
 
 
 

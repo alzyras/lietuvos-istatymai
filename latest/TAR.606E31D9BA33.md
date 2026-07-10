@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.606E31D9BA33"
 pavadinimas: "Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laikotarpiu"
+aliases:
+  - "Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laikotarpiu"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-07-28"
 latest_path: "latest/TAR.606E31D9BA33.md"
 latest_sha256: "d19421290df037dfd01a7f76b3667a1641e266310fd408ed4dac20bb3951e46c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.606E31D9BA33]]"
 ---
 # Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laikotarpiu
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.606E31D9BA33.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.606E31D9BA33
+- Ryšiai: [[Ryšiai/TAR.606E31D9BA33|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

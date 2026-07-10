@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D38D20FA9D3A"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-10"
 latest_path: "latest/TAR.D38D20FA9D3A.md"
 latest_sha256: "dc1937ed47b30fbde184ec881f4ed57b02ee976a88aa0976dec967020837b603"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D38D20FA9D3A]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D38D20FA9D3A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D38D20FA9D3A
+- Ryšiai: [[Ryšiai/TAR.D38D20FA9D3A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-dfc7e8a5562901765c87cc7f
 
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:

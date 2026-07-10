@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1C4FF40BCD77"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 15 straipsnio papildymo ir 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 15 straipsnio papildymo ir 16 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 15 straipsnio papildymo ir 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.1C4FF40BCD77.md"
 latest_sha256: "c0223a5e1eba90004c260fb6ec4a4f79f7b6b34b9c86fc6d3141641af221177d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1C4FF40BCD77]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 15 straipsnio papildymo ir 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1C4FF40BCD77.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1C4FF40BCD77
+- Ryšiai: [[Ryšiai/TAR.1C4FF40BCD77|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 1 dalies papildymas 9 punktu
+### 1 straipsnis. 15 straipsnio 1 dalies papildymas 9 punktu ^s-88bbf750e90fb63a74fa81db
 
 
 Papildyti 15 straipsnio 1 dalį 9 punktu:
@@ -41,7 +46,7 @@ Papildyti 15 straipsnio 1 dalį 9 punktu:
 
 
 
-### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-31d6c2145d8d4a31451340dc
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-69b656bf9be442cd64b07967
 
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.

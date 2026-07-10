@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C84879AED44C"
 pavadinimas: "Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas"
+  - "finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-03-01"
 latest_path: "latest/TAR.C84879AED44C.md"
 latest_sha256: "8bbbb94c5648fe9bf07f6cf82e02a96578579b291226c0bd237ea852112e3ed1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C84879AED44C]]"
 ---
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C84879AED44C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C84879AED44C
+- Ryšiai: [[Ryšiai/TAR.C84879AED44C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies papildymas 10 punktu
+### 1 straipsnis. 3 straipsnio 2 dalies papildymas 10 punktu ^s-7b9ab1444731f9102401f9ce
 
 
 Papildyti 3 straipsnio 2 dalį 10 punktu:
@@ -42,7 +47,7 @@ Papildyti 3 straipsnio 2 dalį 10 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-cc076c6f9bad2779c24dcc93
 
 
 Šis įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymo įsigaliojimo dieną.

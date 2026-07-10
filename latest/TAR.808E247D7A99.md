@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.808E247D7A99"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo ir papildymo įstatymas"
+  - "vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-02"
 latest_path: "latest/TAR.808E247D7A99.md"
 latest_sha256: "26fc79b221e1d7464c12c7ce48d83ff0b8aa614f8d119239ebd10d3db2e89f33"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.808E247D7A99]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.808E247D7A99.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.808E247D7A99
+- Ryšiai: [[Ryšiai/TAR.808E247D7A99|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 13 punkto pakeitimas ir papildymas
+### 1 straipsnis. 15 straipsnio 13 punkto pakeitimas ir papildymas ^s-8ee7d9cc556dffb39f40ae72
 
 
 Pakeisti ir papildyti 15 straipsnio 13 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti ir papildyti 15 straipsnio 13 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 18 straipsnio 1 dalies 1 punkto pakeitimas ir papildymas
+### 2 straipsnis. 18 straipsnio 1 dalies 1 punkto pakeitimas ir papildymas ^s-04c298bb58739f214474d627
 
 
 Pakeisti ir papildyti 18 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:

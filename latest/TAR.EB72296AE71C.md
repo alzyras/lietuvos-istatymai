@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EB72296AE71C"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 44 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-03"
 latest_path: "latest/TAR.EB72296AE71C.md"
 latest_sha256: "70184ebaf7f36efd1f2d694dc67084fcdac32692e4fea3380d923334e3ebdb11"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EB72296AE71C]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EB72296AE71C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EB72296AE71C
+- Ryšiai: [[Ryšiai/TAR.EB72296AE71C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 44 straipsnio 1 dalies 5 punkto pakeitimas
+### 1 straipsnis. 44 straipsnio 1 dalies 5 punkto pakeitimas ^s-4299557790935f7a6c686173
 
 
 Pakeisti 44 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:

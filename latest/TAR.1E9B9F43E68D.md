@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1E9B9F43E68D"
 pavadinimas: "Lietuvos Respublikos atliekų tvarkymo įstatymo 33 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atliekų tvarkymo įstatymo 33 straipsnio pakeitimo įstatymas"
+  - "atliekų tvarkymo įstatymo 33 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.1E9B9F43E68D.md"
 latest_sha256: "173e7c6205a25870020523562e8826e9ae8a53b1b11321d4c16d4627776687a2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1E9B9F43E68D]]"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 33 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1E9B9F43E68D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1E9B9F43E68D
+- Ryšiai: [[Ryšiai/TAR.1E9B9F43E68D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 33 straipsnio 4 punkto pakeitimas
+### 1 straipsnis. 33 straipsnio 4 punkto pakeitimas ^s-c4577103ba82392c00997a35
 
 
 33 straipsnio 4 punkte vietoj žodžių „savivaldybių gamtos apsaugos fondai“ įrašyti žodžius „Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšos“ ir šį punktą išdėstyti taip:
@@ -39,7 +44,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-960919b6f19dccca1ac6aab6
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

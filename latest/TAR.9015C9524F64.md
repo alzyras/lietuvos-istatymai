@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9015C9524F64"
 pavadinimas: "Lietuvos Respublikos civilinės aviacijos įstatymo 27 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinės aviacijos įstatymo 27 straipsnio pakeitimo įstatymas"
+  - "civilinės aviacijos įstatymo 27 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-01"
 latest_path: "latest/TAR.9015C9524F64.md"
 latest_sha256: "95ba8ed7ca8ca1a960ab6d1d5ac8b374d14472d57a670fa649474f1aa5f0fea0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9015C9524F64]]"
 ---
 # Lietuvos Respublikos civilinės aviacijos įstatymo 27 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9015C9524F64.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9015C9524F64
+- Ryšiai: [[Ryšiai/TAR.9015C9524F64|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio pakeitimas
+### 1 straipsnis. 27 straipsnio pakeitimas ^s-dc2dd627eabbe60018468926
 
 
 27 straipsnyje vietoj žodžių „Pasienio policijos departamentu prie Vidaus reikalų ministerijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Tam tikrose tarptautinio oro uosto teritorijos dalyse steigiami ar veikia pasien
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-449c7f0bff89d58223db36f1
 
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.

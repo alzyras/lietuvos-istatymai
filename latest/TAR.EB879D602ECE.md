@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EB879D602ECE"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 17, 27 ir 43 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 17, 27 ir 43 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 17, 27 ir 43 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.EB879D602ECE.md"
 latest_sha256: "6045427df925957fc15ff456828319903cf908b9faf46d495c77113f0d28d60a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EB879D602ECE]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 17, 27 ir 43 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EB879D602ECE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EB879D602ECE
+- Ryšiai: [[Ryšiai/TAR.EB879D602ECE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,17 +36,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 12 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 12 punkto pakeitimas ^s-d45cda4ea1f04e5cece29c69
 
 
 Pakeisti 17 straipsnio 12 punktą ir jį išdėstyti taip:
 
 
-„12) Biudžeto sandaros įstatymo ir Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka tvirtina savivaldybės biudžetą, jo vykdymo ataskaitų rinkinį ir savivaldybės finansinių ataskaitų rinkinį, prireikus tikslina savivaldybės biudžetą;“.
+„12) [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatymo]] ir [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymo]] nustatyta tvarka tvirtina savivaldybės biudžetą, jo vykdymo ataskaitų rinkinį ir savivaldybės finansinių ataskaitų rinkinį, prireikus tikslina savivaldybės biudžetą;“.
 
 
 
-### 2 straipsnis. 27 straipsnio 9 dalies 10 punkto pakeitimas
+### 2 straipsnis. 27 straipsnio 9 dalies 10 punkto pakeitimas ^s-9ea8ed4d52d1c7f8586e9b18
 
 
 Pakeisti 27 straipsnio 9 dalies 10 punktą ir jį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 27 straipsnio 9 dalies 10 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 43 straipsnio pakeitimas
+### 3 straipsnis. 43 straipsnio pakeitimas ^s-42529186ad5aa9f20c20aaa0
 
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
@@ -64,7 +69,7 @@ Savivaldybių raštvedyba, apskaitos, savivaldybės biudžeto vykdymo ataskaitų
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-35f2624b0ad813a0aa41910c
 
 
 Šis įstatymas įsigalioja nuo 2009 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4758288CD3C8"
 pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 50 straipsnio 5 dalies taikymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių administravimo įstatymo 50 straipsnio 5 dalies taikymo įstatymas"
+  - "mokesčių administravimo įstatymo 50 straipsnio 5 dalies taikymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-01-25"
 latest_path: "latest/TAR.4758288CD3C8.md"
 latest_sha256: "46d779692c80e218c6148623853975f926407ded133003ffeebb6e63d72acb1c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4758288CD3C8]]"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 50 straipsnio 5 dalies taikymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4758288CD3C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4758288CD3C8
+- Ryšiai: [[Ryšiai/TAR.4758288CD3C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,13 +34,13 @@ Vilnius
 
 
 
-### 1 straipsnis. Sprendimo paskirti baudą panaikinimas
+### 1 straipsnis. Sprendimo paskirti baudą panaikinimas ^s-efc5024e01ecba8e33fd21cd
 
 
-1. Ūkio subjektui, kuriam po 1997 m. vasario 26 d. už Mokesčių administravimo įstatymo 49 straipsnio 6 punkto pažeidimą, t.y. už prekių laikymą, pardavimą ar įsigijimą be norminiuose aktuose nustatytų privalomų dokumentų, banderolių, kitų specialių ženklų, paskirta bauda vadovaujantis Mokesčių administravimo įstatymo 50 straipsnio 5 dalimi, sprendimas paskirti baudą panaikinamas, jei tų prekių vertė neviršijo 3 minimalių gyvenimo lygių (MGL) dydžio sumos ir jei tas pažeidimas padarytas pirmą kartą. ^e6bc91d7f59a87b5202c5cf3
+1. Ūkio subjektui, kuriam po 1997 m. vasario 26 d. už Mokesčių administravimo įstatymo 49 straipsnio 6 punkto pažeidimą, t.y. už prekių laikymą, pardavimą ar įsigijimą be norminiuose aktuose nustatytų privalomų dokumentų, banderolių, kitų specialių ženklų, paskirta bauda vadovaujantis Mokesčių administravimo įstatymo 50 straipsnio 5 dalimi, sprendimas paskirti baudą panaikinamas, jei tų prekių vertė neviršijo 3 minimalių gyvenimo lygių (MGL) dydžio sumos ir jei tas pažeidimas padarytas pirmą kartą. ^s-83f64e6d4635a45f7ffe14b3
 
 
-2. Ūkio subjektui, kuriam už [[#^e6bc91d7f59a87b5202c5cf3|šio straipsnio 1 dalyje]] nurodytą pažeidimą buvo paskirta bauda, sprendimą ją paskirti panaikina jį priėmusi teritorinė valstybinė mokesčių inspekcija. Panaikinimas įforminamas teritorinės valstybinės mokesčių inspekcijos sprendimu. Jei kyla ginčas dėl prekių, už kurių laikymą, pardavimą ar įsigijimą be norminiuose aktuose nustatytų privalomų dokumentų, banderolių, kitų specialių ženklų buvo paskirta bauda, vertės, tai faktą, kad prekių vertė neviršijo 3 minimalių gyvenimo lygių (MGL) dydžio sumos, turi įrodyti pats ūkio subjektas, kuriam paskirta Mokesčių administravimo įstatymo 50 straipsnio 5 dalyje nurodyta bauda. ^0ad448f68c0a008befe2a38f
+2. Ūkio subjektui, kuriam už [[#^s-83f64e6d4635a45f7ffe14b3|šio straipsnio 1 dalyje]] nurodytą pažeidimą buvo paskirta bauda, sprendimą ją paskirti panaikina jį priėmusi teritorinė valstybinė mokesčių inspekcija. Panaikinimas įforminamas teritorinės valstybinės mokesčių inspekcijos sprendimu. Jei kyla ginčas dėl prekių, už kurių laikymą, pardavimą ar įsigijimą be norminiuose aktuose nustatytų privalomų dokumentų, banderolių, kitų specialių ženklų buvo paskirta bauda, vertės, tai faktą, kad prekių vertė neviršijo 3 minimalių gyvenimo lygių (MGL) dydžio sumos, turi įrodyti pats ūkio subjektas, kuriam paskirta Mokesčių administravimo įstatymo 50 straipsnio 5 dalyje nurodyta bauda. ^s-a87764a1cc99f0c90e9cc262
 
 
 

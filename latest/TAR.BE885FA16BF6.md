@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BE885FA16BF6"
 pavadinimas: "Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas"
+  - "vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-17"
 latest_path: "latest/TAR.BE885FA16BF6.md"
 latest_sha256: "c8d03481502e9cb316055d5bb7543a59f3855c10564cb0c345767254f300be57"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BE885FA16BF6]]"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BE885FA16BF6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BE885FA16BF6
+- Ryšiai: [[Ryšiai/TAR.BE885FA16BF6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 2 straipsnio papildymas 4 dalimi ^s-582c23b157804592e94aa7b1
 
 
 Papildyti 2 straipsnį 4 dalimi:

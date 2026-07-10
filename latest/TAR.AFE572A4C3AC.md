@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AFE572A4C3AC"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-02"
 latest_path: "latest/TAR.AFE572A4C3AC.md"
 latest_sha256: "112600a2bdc346d9ef17da498410edf9c4e92070345eeb4b7b158768564b2ec6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AFE572A4C3AC]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AFE572A4C3AC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AFE572A4C3AC
+- Ryšiai: [[Ryšiai/TAR.AFE572A4C3AC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas
+### 1 straipsnis. 4 straipsnio papildymas ^s-dfdb345efd4fe5eb86a1c860
 
 
 Papildyti 4 straipsnį 5 dalimi:
@@ -41,16 +46,16 @@ Papildyti 4 straipsnį 5 dalimi:
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 5 straipsnio pakeitimas ir papildymas ^s-fcdc105fbc6c009e8e89e756
 
 
-1. Papildyti 5 straipsnį nauja 6 dalimi: ^cac42b8642ebade3dafab63d
+1. Papildyti 5 straipsnį nauja 6 dalimi: ^s-6c704a309e4131090eb0fb73
 
 
 „Olimpinių žaidynių čempionams ir prizininkams pirmojo ir antrojo laipsnių valstybinės pensijos skiriamos neribojant pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo per kalendorinius metus skaičiaus.“
 
 
-2. Buvusias 5 straipsnio 6 ir 7 dalis laikyti atitinkamai 7 ir 8 dalimis. ^13a8289775d3c12688d8f8ee
+2. Buvusias 5 straipsnio 6 ir 7 dalis laikyti atitinkamai 7 ir 8 dalimis. ^s-8413d07f1954b6a660a71de6
 
 
 

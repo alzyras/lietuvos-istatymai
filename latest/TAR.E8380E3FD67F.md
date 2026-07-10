@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E8380E3FD67F"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-28"
 latest_path: "latest/TAR.E8380E3FD67F.md"
 latest_sha256: "cb7de74c574bc92cd4e6227550a626aa4a07b2030ccdf0ae515995c90ff92b14"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E8380E3FD67F]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E8380E3FD67F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E8380E3FD67F
+- Ryšiai: [[Ryšiai/TAR.E8380E3FD67F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas ^s-f3c324f81176a0a372507692
 
 
 21 straipsnio 1 dalyje po žodžių „komiteto posėdžiuose“ įrašyti žodžius „bei pagal Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėse bendrovėse“ nuostatas sudaryto specialiojo derybų komiteto, Europos kooperatinės bendrovės darbo tarybos ir Europos kooperatinės bendrovės darbo tarybos komiteto narių išvykimas dalyvauti šio specialiojo derybų komiteto, Europos kooperatinės bendrovės darbo tarybos ar Europos kooperatinės bendrovės darbo tarybos komiteto posėdžiuose“ ir šią dalį išdėstyti taip:

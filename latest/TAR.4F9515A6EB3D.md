@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F9515A6EB3D"
 pavadinimas: "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas"
+  - "teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-27"
 latest_path: "latest/TAR.4F9515A6EB3D.md"
 latest_sha256: "9e85a39740400d4a5b618ef75a4710871f91d8e9971a08152a3149fa83b38e78"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F9515A6EB3D]]"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F9515A6EB3D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D
+- Ryšiai: [[Ryšiai/TAR.4F9515A6EB3D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,55 +37,55 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas
+### 1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas ^s-81f79cde98103325a19ce160
 
 
 Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie buvo priimti iki 1990 m. kovo 11 d. ir kurių galiojimas laikinai pratęsiamas, sąrašą ir į jį įrašyti šiuos įstatymus bei pratęsti jų galiojimą:
 
 
-1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. ^4909739e9776425147d3d654
+1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. ^s-15bc2c32eccb3f21cad521dd
 Straipsnio punkto pakeitimai:
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. [[latest/TAR.3EC092054448|1021010ISTA0IX-1167]]
 
 
 
-2) Lietuvos Respublikos baudžiamojo proceso kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-148) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. ^8456c63e9379402d38ba318b
+2) Lietuvos Respublikos baudžiamojo proceso kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-148) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. ^s-a62b5ccc5b0a3a44e0e60d7f
 Straipsnio punkto pakeitimai:
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. [[latest/TAR.3EC092054448|1021010ISTA0IX-1167]]
 
 
 
-3) Neteko galios nuo 2001-12-29 ^11ce0f12bfe0ff26623fdfdf
+3) Neteko galios nuo 2001-12-29 ^s-cc40cd80294a529f9a10e728
 Straipsnio punkto naikinimas:
 Nr. IX-642, 2001-12-11, Žin. 2001, Nr. 110-3989 (2001-12-29), i. k. [[latest/TAR.1023095A53B5|1011010ISTA00IX-642]]
 
 
 
-4) Neteko galios nuo 2001-07-01 ^b4ec11bee0f20f79b5a72304
+4) Neteko galios nuo 2001-07-01 ^s-1ff7399ee366a7ef451427c7
 Straipsnio punkto naikinimas:
 Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
 
 
 
-5) Neteko galios nuo 2001-12-29 ^8ba18caeb74384c090925299
+5) Neteko galios nuo 2001-12-29 ^s-78880ded4046cbf0147bcca3
 Straipsnio punkto naikinimas:
 Nr. IX-642, 2001-12-11, Žin. 2001, Nr. 110-3989 (2001-12-29), i. k. [[latest/TAR.1023095A53B5|1011010ISTA00IX-642]]
 
 
 
-6) Lietuvos Respublikos pataisos darbų kodeksą, priimtą 1971 m. liepos 15 d., (Žin., 1971, Nr. 20-142) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. ^94cf6d9922fe300749594aa1
+6) Lietuvos Respublikos pataisos darbų kodeksą, priimtą 1971 m. liepos 15 d., (Žin., 1971, Nr. 20-142) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. ^s-9507cdcd59e97aae2f545aff
 Straipsnio punkto pakeitimai:
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. [[latest/TAR.3EC092054448|1021010ISTA0IX-1167]]
 
 
 
-7) Lietuvos Respublikos darbo įstatymų kodeksą, priimtą 1972 m. birželio 1 d. (Žin., 1972, Nr. 18-137), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.; ^544491527e20c2966287c566
+7) Lietuvos Respublikos darbo įstatymų kodeksą, priimtą 1972 m. birželio 1 d. (Žin., 1972, Nr. 18-137), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.; ^s-0ca6e7ded161f51f36048f33
 Straipsnio punkto pakeitimai:
 Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. [[latest/TAR.1023095A53B5|1011010ISTA00IX-642]]
 
 
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2006 m. sausio 1 d.; ^1e8ef19f6b178f1376c21375
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2006 m. sausio 1 d.; ^s-94f6680304e40d5ed10dd429
 Straipsnio punkto pakeitimai:
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. [[latest/TAR.3EC092054448|1021010ISTA0IX-1167]]
 Nr. IX-1886, 2003-12-11, Žin., 2003, Nr. 123-5573 (2003-12-30), i. k. [[latest/TAR.E33CF97DE570|1031010ISTA0IX-1886]]
@@ -88,13 +93,13 @@ Nr. X-34, 2004-12-09, Žin., 2004, Nr. 185-6836 (2004-12-27), i. k. [[latest/TAR
 
 
 
-9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d. (Žin., 1989, Nr. 33-445), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.; ^031c284d25b4269166928a58
+9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d. (Žin., 1989, Nr. 33-445), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.; ^s-80202817c3858e46a56a4402
 Straipsnio punkto pakeitimai:
 Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. [[latest/TAR.1023095A53B5|1011010ISTA00IX-642]]
 
 
 
-10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2006 m. sausio 1 d. ^6e52577df88fc72cea75a948
+10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2006 m. sausio 1 d. ^s-e8b8eb6aad6f9ff8ac05518e
 Straipsnio punkto pakeitimai:
 Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. [[latest/TAR.185BA43E0948|1011010ISTA00IX-416]]
 Nr. IX-1000, 2002-06-27, Žin., 2002, Nr. 72-3015 (2002-07-17), i. k. [[latest/TAR.7014ECA87D73|1021010ISTA0IX-1000]]
@@ -126,64 +131,64 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. [[latest/TAR.9EEFD8E04D2F|0981010ISTAVIII-797]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1392, 1999-11-04, Žin., 1999, Nr. 98-2813 (1999-11-19), i. k. [[latest/TAR.9A844F180551|0991010ISTAIII-1392]]
-Lietuvos Respublikos aplinkos oro apsaugos įstatymas
+[[latest/TAR.9A844F180551|Lietuvos Respublikos aplinkos oro apsaugos įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1470, 1999-12-07, Žin., 1999, Nr. 107-3101 (1999-12-17), i. k. [[latest/TAR.CBD7C5CA64D7|0991010ISTAIII-1470]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-91, 2000-12-20, Žin., 2000, Nr. 111-3569 (2000-12-29), i. k. [[latest/TAR.8A7CAE447C0A|1001010ISTA000IX-91]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. [[latest/TAR.185BA43E0948|1011010ISTA00IX-416]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-390, 2001-06-21, Žin., 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
-Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymas
+[[latest/TAR.10D407E502F2|Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymas]]
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. [[latest/TAR.1023095A53B5|1011010ISTA00IX-642]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1000, 2002-06-27, Žin., 2002, Nr. 72-3015 (2002-07-17), i. k. [[latest/TAR.7014ECA87D73|1021010ISTA0IX-1000]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. [[latest/TAR.3EC092054448|1021010ISTA0IX-1167]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1242, 2002-12-10, Žin., 2002, Nr. 123-5533 (2002-12-24), i. k. [[latest/TAR.FD26A872D5E3|1021010ISTA0IX-1242]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1653, 2003-06-26, Žin., 2003, Nr. 64-2882 (2003-06-30), i. k. [[latest/TAR.B59B87D90E19|1031010ISTA0IX-1653]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1886, 2003-12-11, Žin., 2003, Nr. 123-5573 (2003-12-30), i. k. [[latest/TAR.E33CF97DE570|1031010ISTA0IX-1886]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-34, 2004-12-09, Žin., 2004, Nr. 185-6836 (2004-12-27), i. k. [[latest/TAR.EE76DA56AE71|1041010ISTA0000X-34]]
-Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo [[#1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas

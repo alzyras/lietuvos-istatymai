@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.03C29E553507"
 pavadinimas: "Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 9, 10, 11, 14, 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 9, 10, 11, 14, 15 straipsnių pakeitimo įstatymas"
+  - "strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 9, 10, 11, 14, 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.03C29E553507.md"
 latest_sha256: "e9c47cbd4df56f08d7203335b45e91af3944db186f32f0016057b35bfaaa9249"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.03C29E553507]]"
 ---
 # Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 9, 10, 11, 14, 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.03C29E553507.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.03C29E553507
+- Ryšiai: [[Ryšiai/TAR.03C29E553507|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,13 +37,13 @@ STRATEGINIŲ PREKIŲ IR TECHNOLOGIJŲ IMPORTO, TRANZITO IR EKSPORTO KONTROLĖS �
 
 
 
-### 1 straipsnis. 6 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 6 straipsnio pakeitimas ir papildymas ^s-db266d1cda0e888738fe23da
 
 
-[[#6 straipsnis. 15 straipsnio pakeitimas|6 straipsnyje]] vietoj žodžio „Ekonomikos” įrašyti žodį „Ūkio”, iš 2 dalies išbraukti žodį „Energetikos”, po žodžių „Krašto apsaugos” įrašyti žodžius „Užsienio reikalų, Vidaus reikalų”, po žodžio „ministerijos” įrašyti žodžius „Valstybinė atominės energetikos saugos inspekcija” ir vietoj žodžių „konsultuoja Ekonomikos ministeriją” įrašyti žodžius „pateikia savo išvadas Ūkio ministerijai”, vietoj žodžių „Lietuvos Respublikoje” įrašyti žodį „Lietuvoje”,  3 dalyje po žodžių „apskaitą tvarko” įrašyti žodį „teritorinės” ir šį straipsnį išdėstyti taip:
+[[#^s-f053f4473d5789817bc19c39|6 straipsnyje]] vietoj žodžio „Ekonomikos” įrašyti žodį „Ūkio”, iš 2 dalies išbraukti žodį „Energetikos”, po žodžių „Krašto apsaugos” įrašyti žodžius „Užsienio reikalų, Vidaus reikalų”, po žodžio „ministerijos” įrašyti žodžius „Valstybinė atominės energetikos saugos inspekcija” ir vietoj žodžių „konsultuoja Ekonomikos ministeriją” įrašyti žodžius „pateikia savo išvadas Ūkio ministerijai”, vietoj žodžių „Lietuvos Respublikoje” įrašyti žodį „Lietuvoje”,  3 dalyje po žodžių „apskaitą tvarko” įrašyti žodį „teritorinės” ir šį straipsnį išdėstyti taip:
 
 
-„[[#6 straipsnis. 15 straipsnio pakeitimas|6 straipsnis]]
+„[[#^s-f053f4473d5789817bc19c39|6 straipsnis]]
 
 
 Kontroliuojamųjų prekių importui, tranzitui ir eksportui reikalinga Ūkio ministerijos licencija.
@@ -52,7 +57,7 @@ Kontroliuojamųjų prekių importo, tranzito ir eksporto kompiuterizuotą apskai
 
 
 
-### 2 straipsnis. 9 straipsnio pakeitimas
+### 2 straipsnis. 9 straipsnio pakeitimas ^s-eaf1c29b7efddf9339a75c69
 
 
 9 straipsnio 1 dalyje vietoj žodžių „Ekonomikos ministerijai” įrašyti žodžius „Ūkio ministerijai” ir šią dalį išdėstyti taip:
@@ -62,7 +67,7 @@ Kontroliuojamųjų prekių importo, tranzito ir eksporto kompiuterizuotą apskai
 
 
 
-### 3 straipsnis. 10 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 10 straipsnio pakeitimas ir papildymas ^s-321cdf4e6ab00ec6644c7557
 
 
 10 straipsnyje vietoj žodžių „Ekonomikos ministerijos” įrašyti žodžius „Ūkio ministerijos”, išbraukti žodį „Energetikos”, po žodžių „Krašto apsaugos” įrašyti žodžius „Vidaus reikalų”, po žodžio „ministerijos” įrašyti žodžius „Valstybinė atominės energetikos saugos inspekcija” ir šį straipsnį išdėstyti taip:
@@ -75,7 +80,7 @@ Lietuvos Respublikos Vyriausybės nustatyta tvarka Ūkio ministerijos ar eksport
 
 
 
-### 4 straipsnis. 11 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 11 straipsnio pakeitimas ir papildymas ^s-a47c39d213116dd42ac80b42
 
 
 11 straipsnyje išbraukti žodį „Energetikos”, po žodžių „Krašto apsaugos” įrašyti žodžius „Vidaus reikalų”, po žodžio „ministerijos” įrašyti žodžius „Valstybinė atominės energetikos saugos inspekcija”, vietoj žodžių „Ekonomikos ministerija” įrašyti žodžius „Ūkio ministerija”, po žodžio „tikrina” įrašyti žodžius „joms priskirtų” ir šį straipsnį išdėstyti taip:
@@ -89,7 +94,7 @@ Kad būtų užtikrintas kontrolės sąlygų vykdymas, Aplinkos apsaugos, Krašto
 
 
 
-### 5 straipsnis. 14 straipsnio pakeitimas
+### 5 straipsnis. 14 straipsnio pakeitimas ^s-e52ac62902a69157ac7c7fdb
 
 
 14 straipsnio 1 dalyje vietoj žodžių „Ekonomikos ministeriją” įrašyti žodžius „Ūkio ministeriją”, 2 dalyje vietoj žodžių „Ekonomikos ministerija” ir „Ekonomikos ministerijos” įrašyti atitinkamai žodžius „Ūkio ministerija”, „Ūkio ministerijos” ir šį straipsnį išdėstyti taip:
@@ -105,7 +110,7 @@ Lietuvos Respublikos Vyriausybės nustatyta tvarka ministerijos ir valstybės ta
 
 
 
-### 6 straipsnis. 15 straipsnio pakeitimas
+### 6 straipsnis. 15 straipsnio pakeitimas ^s-f053f4473d5789817bc19c39
 
 
 15 straipsnio 1 dalyje vietoj žodžių „Ekonomikos ministerija” įrašyti žodžius „Ūkio ministerija” ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "daa9ff30c1ca11ea9815f635b9c0dcef"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas"
+  - "aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2020-07-10"
 latest_path: "latest/daa9ff30c1ca11ea9815f635b9c0dcef.md"
 latest_sha256: "16abea666c830bac06171ed8abd2d91949781531b078f69793b360e67f004a83"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/daa9ff30c1ca11ea9815f635b9c0dcef]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/daa9ff30c1ca11ea9815f635b9c0dcef.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/daa9ff30c1ca11ea9815f635b9c0dcef
+- Ryšiai: [[Ryšiai/daa9ff30c1ca11ea9815f635b9c0dcef|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 661 straipsniu
+### 1 straipsnis. Įstatymo papildymas 661 straipsniu ^s-61ab78292eb6e6431d8f3864
 
 
 Papildyti Įstatymą 661 straipsniu:
@@ -44,7 +49,7 @@ Papildyti Įstatymą 661 straipsniu:
 Lietuvos Respublikos jūros rajono teršimas iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių užtraukia baudą nuo vieno tūkstančio iki šešių tūkstančių eurų.“
 
 
-### 2 straipsnis. Įstatymo papildymas 702 straipsniu
+### 2 straipsnis. Įstatymo papildymas 702 straipsniu ^s-dc7239478bb82a59265f960e
 
 
 Papildyti Įstatymą 702 straipsniu:
@@ -65,7 +70,7 @@ Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros
 Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kurio metu į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytus reikalavimus, kai nesilaikant nustatytų reikalavimų išleidžiama daugiau kaip 1 000 kubinių metrų balastinių vandenų ir nuosėdų, turinčių kenksmingų gyvųjų organizmų, kai pažeidimas yra padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki keturiolikos tūkstančių eurų.“
 
 
-### 3 straipsnis. 111 straipsnio pakeitimas
+### 3 straipsnis. 111 straipsnio pakeitimas ^s-9380fd3320a110aaa5364925
 
 
 Pakeisti 111 straipsnį ir jį išdėstyti taip:
@@ -131,7 +136,7 @@ Angliavandenilių naudojimas pažeidžiant leidime naudoti angliavandenilių iš
 Angliavandenilių tyrimo ir (arba) naudojimo gręžinių, įrenginių ir prijungtosios infrastruktūros įrengimas, gręžinių konservavimas ir likvidavimas ir (arba) angliavandenilių naudojimas pažeidžiant avarijų jūroje prevencijos ir likvidavimo tvarką užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.“
 
 
-### 4 straipsnis. 113 straipsnio pakeitimas
+### 4 straipsnis. 113 straipsnio pakeitimas ^s-0dfa9c57f10e93f85c66b0e7
 
 
 Pakeisti 113 straipsnį ir jį išdėstyti taip:
@@ -158,7 +163,7 @@ Pakeisti 113 straipsnį ir jį išdėstyti taip:
 Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių šimtų penkiasdešimt iki devynių šimtų eurų.“
 
 
-### 5 straipsnis. 114 straipsnio pakeitimas
+### 5 straipsnis. 114 straipsnio pakeitimas ^s-a92fdefad5aa5aca51f55884
 
 
 Pakeisti 114 straipsnį ir jį išdėstyti taip:
@@ -176,7 +181,7 @@ Geoterminių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reik
 Angliavandenilių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas užtraukia baudą nuo vieno tūkstančio iki vieno tūkstančio devynių šimtų eurų.“
 
 
-### 6 straipsnis. Įstatymo papildymas 1231 straipsniu
+### 6 straipsnis. Įstatymo papildymas 1231 straipsniu ^s-f3d7ef6eac73eae5fbfa6b9f
 
 
 Papildyti Įstatymą 1231 straipsniu:
@@ -191,7 +196,7 @@ Papildyti Įstatymą 1231 straipsniu:
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių eurų.
 
 
-Prašymo įregistruoti nustatytas Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Nekilnojamojo turto registre per įstatymuose nustatytą terminą nepateikimas, kai šį prašymą turi pateikti asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytos teritorijos, vykdymu, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+Prašymo įregistruoti nustatytas [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme]] nurodytas teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Nekilnojamojo turto registre per įstatymuose nustatytą terminą nepateikimas, kai šį prašymą turi pateikti asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme]] nurodytos teritorijos, vykdymu, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 Ūkinės ir (ar) kitokios veiklos vykdymas požeminio vandens vandenvietės apsaugos zonos 3-iojoje juostoje pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas ar jų nevykdymas užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
@@ -209,7 +214,7 @@ Prašymo įregistruoti nustatytas Lietuvos Respublikos specialiųjų žemės nau
 Požeminio vandens gavybos gręžinio naudojimas nenustačius požeminio vandens vandenvietės apsaugos zonos užtraukia baudą nuo šešių šimtų penkiasdešimt iki vieno tūkstančio šimto eurų.“
 
 
-### 7 straipsnis. 124 straipsnio pakeitimas
+### 7 straipsnis. 124 straipsnio pakeitimas ^s-d1ae4c717b05b638320b3206
 
 
 Pakeisti 124 straipsnį ir jį išdėstyti taip:
@@ -242,7 +247,7 @@ Ataskaitų apie išgaunamą paviršinį vandenį, išleidžiamas nuotekas arba t
 Šio straipsnio 7 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.“
 
 
-### 8 straipsnis. 125 straipsnio pakeitimas
+### 8 straipsnis. 125 straipsnio pakeitimas ^s-47b572f60e88807aef8cfb8d
 
 
 Pakeisti 125 straipsnį ir jį išdėstyti taip:
@@ -266,10 +271,10 @@ Teisės aktų nustatyta tvarka išduotame tvenkinio ar patvenkto ežero naudojim
 Tvenkinio ar patvenkto ežero naudojimas neturint teisės aktų nustatyta tvarka išduoto tvenkinio ar patvenkto ežero naudojimą leidžiančio dokumento užtraukia baudą nuo dviejų tūkstančių šimto iki keturių tūkstančių penkių šimtų eurų.“
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas
+### 9 straipsnis. Įstatymo įsigaliojimas ^s-80f9cd233a7079588204b66e
 
 
-Šio įstatymo [[#3 straipsnis. 111 straipsnio pakeitimas|3 straipsnis]] įsigalioja 2022 m. sausio 1 d.
+Šio įstatymo [[#^s-9380fd3320a110aaa5364925|3 straipsnis]] įsigalioja 2022 m. sausio 1 d.
 
 
 

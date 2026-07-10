@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EA4961758ADB"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-10-10"
 latest_path: "latest/TAR.EA4961758ADB.md"
 latest_sha256: "76cbf971460bbd2bca4be12aafc68bd45f2e93aad4e586f767916000e6d76d38"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EA4961758ADB]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EA4961758ADB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EA4961758ADB
+- Ryšiai: [[Ryšiai/TAR.EA4961758ADB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 3 dalies pakeitimas ^s-b26f0bf2fab6b5f2c5bbe335
 
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-9300d7397f9f7561feaadda6
 
 
 Šis įstatymas įsigalioja nuo 2006 m. spalio 10 d.

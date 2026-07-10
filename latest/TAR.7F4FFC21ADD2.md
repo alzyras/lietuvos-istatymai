@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7F4FFC21ADD2"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-25"
 latest_path: "latest/TAR.7F4FFC21ADD2.md"
 latest_sha256: "5fff496766b1401a400d728709c94ca0b992a1153882630b0102e4c50221adb8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7F4FFC21ADD2]]"
 ---
 # Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7F4FFC21ADD2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7F4FFC21ADD2
+- Ryšiai: [[Ryšiai/TAR.7F4FFC21ADD2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-de967cda7bd1632b09c224d5
 
 
 2 straipsnio 5 dalyje vietoj žodžio „bendrovių“ įrašyti žodį „fondų“ ir šią dalį išdėstyti taip:

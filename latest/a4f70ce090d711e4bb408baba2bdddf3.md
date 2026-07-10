@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "a4f70ce090d711e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas"
+  - "mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-01-01"
 latest_path: "latest/a4f70ce090d711e4bb408baba2bdddf3.md"
 latest_sha256: "9bed40ffa9dae38800a0dc082001c14f6ebe5d8255f25c73d3402ed5d19d57f7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/a4f70ce090d711e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/a4f70ce090d711e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/a4f70ce090d711e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/a4f70ce090d711e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-ed990144cfc33556ebba12e8
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4A3701E8FE58"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 129 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 129 straipsnio pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 129 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-09-18"
 latest_path: "latest/TAR.4A3701E8FE58.md"
 latest_sha256: "8923493be5707de429ce7429801c47c31b2d177ec245660c6791ba229928884d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4A3701E8FE58]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 129 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4A3701E8FE58.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4A3701E8FE58
+- Ryšiai: [[Ryšiai/TAR.4A3701E8FE58|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 129 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 129 straipsnio 10 dalies pakeitimas ^s-991c28c562abf4b506d15c5f
 
 
 Pakeisti 129 straipsnio 10 dalį ir ją išdėstyti taip:

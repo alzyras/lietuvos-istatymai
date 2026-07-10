@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8A1151D6675F"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-03-01"
 latest_path: "latest/TAR.8A1151D6675F.md"
 latest_sha256: "18f58dcf83625e09d478f261cff88ab8e592f78110d1f02f3494a0477718055d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8A1151D6675F]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8A1151D6675F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8A1151D6675F
+- Ryšiai: [[Ryšiai/TAR.8A1151D6675F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 7 punkto pakeitimas
+### 1 straipsnis. 8 straipsnio 7 punkto pakeitimas ^s-0535958c40a4545b25bd3247
 
 
 Pakeisti 8 straipsnio 7 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 8 straipsnio 7 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-94c83705a8c80c489378e328
 
 
 Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d.

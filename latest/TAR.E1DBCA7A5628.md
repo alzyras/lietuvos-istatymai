@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E1DBCA7A5628"
 pavadinimas: "Lietuvos Respublikos biudžetinės sandaros įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžetinės sandaros įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "biudžetinės sandaros įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-06-19"
 latest_path: "latest/TAR.E1DBCA7A5628.md"
 latest_sha256: "945eacb0d90ac2f10430bcd40d8d053bbd9a81a799ca4218a8badde38851ba71"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E1DBCA7A5628]]"
 ---
 # Lietuvos Respublikos biudžetinės sandaros įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,11 +21,12 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E1DBCA7A5628.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E1DBCA7A5628
+- Ryšiai: [[Ryšiai/TAR.E1DBCA7A5628|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
 LIETUVOS RESPUBLIKOS
-BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO
+[[latest/TAR.712BBBFA3D41#^s-bbfa1f10b3c7e6fbb28e89fa|BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO]] PAKEITIMO
 Į S T A T Y M A S
 
 1996 m. birželio 6 d. Nr. I-1372

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.091BBB663180"
 pavadinimas: "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-25"
 latest_path: "latest/TAR.091BBB663180.md"
 latest_sha256: "3dd3564999a62dbf8b6e47e832dc5621cd5fd214e8bd6d2ac1e5493778843ed4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.091BBB663180]]"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.091BBB663180.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.091BBB663180
+- Ryšiai: [[Ryšiai/TAR.091BBB663180|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 8 punkto pakeitimas
+### 1 straipsnis. 1 straipsnio 8 punkto pakeitimas ^s-20a656b177b4b59685f2587f
 
 
 1 straipsnio 8 punkte vietoj datos „2009 m. sausio 1 d.“ įrašyti datą „2010 m. sausio 1 d.“ ir šį punktą išdėstyti taip:

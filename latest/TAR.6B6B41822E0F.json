@@ -11,7 +11,7 @@
   "latest_revision": "2012-01-10",
   "latest_sha256": "faf19f870cd1487166aa34e000eedd327e04a05a0dbfabe5047bd8d4f6961592",
   "metadata_path": "latest/TAR.6B6B41822E0F.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 42 straipsnio pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

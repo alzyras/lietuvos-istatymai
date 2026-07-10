@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E11B99936EB7"
 pavadinimas: "Lietuvos Respublikos valstybės Įmonės ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės Įmonės ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybės Įmonės ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-29"
 latest_path: "latest/TAR.E11B99936EB7.md"
 latest_sha256: "339dc8615cbb37155bf382a8f34b2bc6162c07c55b1f961e3c5ce1e9232cb711"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E11B99936EB7]]"
 ---
 # Lietuvos Respublikos valstybės Įmonės ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E11B99936EB7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E11B99936EB7
+- Ryšiai: [[Ryšiai/TAR.E11B99936EB7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-9d93770c047004cc2f74ebee
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AFE27EA70A4B"
 pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.AFE27EA70A4B.md"
 latest_sha256: "6410f87e3f306dac2deda6f9b114d112c4f346cea075d82a526632fbe626f541"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AFE27EA70A4B]]"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AFE27EA70A4B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AFE27EA70A4B
+- Ryšiai: [[Ryšiai/TAR.AFE27EA70A4B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio pakeitimas
+### 1 straipsnis. 22 straipsnio pakeitimas ^s-84389c0c73bdfbeea180bdf1
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Valstybė remia šeimas (ypač gausias), auginančias ir auklėjančias vaikus, 
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-48c4738b6b098f1e653bf189
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

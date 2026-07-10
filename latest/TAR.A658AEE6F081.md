@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A658AEE6F081"
 pavadinimas: "Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+  - "1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-18"
 latest_path: "latest/TAR.A658AEE6F081.md"
 latest_sha256: "5969aeeb0ba6574b5a34b4275c2fdd9382b2374d10719f2f95c561a9458ed222"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A658AEE6F081]]"
 ---
 # Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A658AEE6F081.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A658AEE6F081
+- Ryšiai: [[Ryšiai/TAR.A658AEE6F081|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-2aca61d4a76000ef3fa6472f
 
 
 1 straipsnio 1 dalyje vietoj skaičiaus“7009790“ įrašyti skaičių „6711962“, vietoj skaičiaus „7704790“ įrašyti skaičių „7406962“ ir šią dalį išdėstyti taip:
@@ -41,41 +46,41 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas ir papildymas
+### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas ir papildymas ^s-bdbd8b152a4b94fac1220760
 
 
-2 straipsnio 2 dalies pirmajame sakinyje vietoj skaičiaus „424099“ įrašyti skaičių „377099“, [[#^1f96c42d1134eeec2d91466e|6 punkte]] vietoj skaičiaus „70000“ įrašyti skaičių „23000“ ir šią dalį išdėstyti taip:
+2 straipsnio 2 dalies pirmajame sakinyje vietoj skaičiaus „424099“ įrašyti skaičių „377099“, [[#^s-12f3c744d18d1aa1da6e6f54|6 punkte]] vietoj skaičiaus „70000“ įrašyti skaičių „23000“ ir šią dalį išdėstyti taip:
 
 
 „2. Patvirtinti specialias tikslines dotacijas – 377099 tūkst. litų savivaldybių biudžetams, iš jų:
 
 
-1) asignavimus grįžtantiems į Lietuvą politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti – 3000 tūkst. litų; ^3dc1f4be7c7f57bd877144f9
+1) asignavimus grįžtantiems į Lietuvą politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti – 3000 tūkst. litų; ^s-6c5e0913d454aeef6ce49da1
 
 
-2) asignavimus kompensacijoms už valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams – 15000 tūkst. litų; ^d29c7ea6e05f67744dcdf651
+2) asignavimus kompensacijoms už valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams – 15000 tūkst. litų; ^s-187ca1d5f87ce36f05b70ab7
 
 
-3) asignavimus savivaldybių biudžetinių įstaigų darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti – 69112 tūkst. litų; ^9f62776bc7306c71072aa419
+3) asignavimus savivaldybių biudžetinių įstaigų darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti – 69112 tūkst. litų; ^s-ce0bff5e689f3ac3bcc4f802
 
 
-4) asignavimus globojamiems vaikams išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą – 12000 tūkst. litų; ^8387058a7a3a1c028ad9085b
+4) asignavimus globojamiems vaikams išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą – 12000 tūkst. litų; ^s-41232db024994cefbb5bd470
 
 
-5) rezervą savivaldybių biudžetams dėl Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo taikymo – 15000 tūkst. litų; ^f8eac3327d6dae03047e5cf9
+5) rezervą savivaldybių biudžetams dėl [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo]] taikymo – 15000 tūkst. litų; ^s-4014a9f0721f7c01b3ea8666
 
 
-6) savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervą – 23000 tūkst. litų, iš jų 12270 tūkst. litų paskirstyti pagal 6 priedėlį; ^1f96c42d1134eeec2d91466e
+6) savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervą – 23000 tūkst. litų, iš jų 12270 tūkst. litų paskirstyti pagal 6 priedėlį; ^s-12f3c744d18d1aa1da6e6f54
 
 
-7) likusią specialios dotacijos sumą – 188735 tūkst. litų (5 priedėlis); ^9468a2233722575f5b8c7b37
+7) likusią specialios dotacijos sumą – 188735 tūkst. litų (5 priedėlis); ^s-9d70a3b1ad8a70b1bc93cb3d
 
 
-8) asignavimus savivaldybių pedagogų ir socialinių darbuotojų darbo užmokesčiui padidinti – 51252 tūkst. litų.“ ^fd4ee96a5946a1589fd13dd8
+8) asignavimus savivaldybių pedagogų ir socialinių darbuotojų darbo užmokesčiui padidinti – 51252 tūkst. litų.“ ^s-d4f5eb88484ededa6510b110
 
 
 
-### 3 straipsnis. 11 straipsnio pakeitimas
+### 3 straipsnis. 11 straipsnio pakeitimas ^s-a9df70e3cc56ba25e0405ee7
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -87,23 +92,23 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 Nustatyti šią savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
 
 
-1) per metus Finansų ministerija teikia mokestinių pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai; ^c4a24b45cfef5b2b84eda0a0
+1) per metus Finansų ministerija teikia mokestinių pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai; ^s-e55d8652e52cb8561939fad7
 
 
-2) Lietuvos Respublikos Vyriausybė savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo lėšas iki 1998 m. gruodžio 20 d. paskirsto taip: ^c2508c38a41c02a5476ab5a0
+2) Lietuvos Respublikos Vyriausybė savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo lėšas iki 1998 m. gruodžio 20 d. paskirsto taip: ^s-35b980506be2e3e909c22a7d
 
 
 a) savivaldybių biudžetų 1998 metais negautoms mokestinėms pajamoms dengti (pagal mokestinių pajamų plano numatomo įvykdymo duomenis);
 
 
-b) iš nepanaudotų pagal šio straipsnio [[#^c2508c38a41c02a5476ab5a0|2 punkto]] a papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano numatomo įvykdymo duomenis);
+b) iš nepanaudotų pagal šio straipsnio [[#^s-35b980506be2e3e909c22a7d|2 punkto]] a papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano numatomo įvykdymo duomenis);
 
 
-c) nepanaudotas pagal šio straipsnio [[#^c2508c38a41c02a5476ab5a0|2 punkto]] a ir b papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas savivaldybių butų fondui kaupti.“
+c) nepanaudotas pagal šio straipsnio [[#^s-35b980506be2e3e909c22a7d|2 punkto]] a ir b papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas savivaldybių butų fondui kaupti.“
 
 
 
-### 4 straipsnis. 1 ir 2 priedėlių pakeitimas
+### 4 straipsnis. 1 ir 2 priedėlių pakeitimas ^s-8bde7df18ac67d9d59c12573
 
 
 Pakeisti 1 ir 2 priedėlius ir juos išdėstyti taip:
@@ -112,7 +117,7 @@ Pakeisti 1 ir 2 priedėlius ir juos išdėstyti taip:
 
 „Lietuvos Respublikos
 1997 m. gruodžio 2 d.
-įstatymo Nr. VIII-547
+[[latest/TAR.A94C9B003D30|įstatymo Nr. VIII-547]]
 1 priedėlis
 
 LIETUVOS RESPUBLIKOS 1998 METŲ
@@ -3341,7 +3346,7 @@ ______________
 
 Lietuvos Respublikos
 1997 m. gruodžio 2 d.
-įstatymo Nr. VIII-547
+[[latest/TAR.A94C9B003D30|įstatymo Nr. VIII-547]]
 2 priedėlis
 
 SOCIALINĖS EKONOMINĖS PROGRAMOS, FINANSUOJAMOS IŠ

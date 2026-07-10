@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.40FC2AFC6F0B"
 pavadinimas: "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-29"
 latest_path: "latest/TAR.40FC2AFC6F0B.md"
 latest_sha256: "a696ce8238b4c233b332db7ab65829936b4500f5680e7263234e5eff2812db80"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.40FC2AFC6F0B]]"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.40FC2AFC6F0B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.40FC2AFC6F0B
+- Ryšiai: [[Ryšiai/TAR.40FC2AFC6F0B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,16 +39,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 8 ir 10 punktų pakeitimas
+### 1 straipsnis. 1 straipsnio 8 ir 10 punktų pakeitimas ^s-581b4dddb8159911af5ee9cf
 
 
-1. 1 straipsnio 8 punkte vietoj datos „2008 m. sausio 1 d.“ įrašyti datą „2009 m. sausio 1 d.“ ir šį punktą išdėstyti taip: ^4e3f57948183e5f4a19a06af
+1. 1 straipsnio 8 punkte vietoj datos „2008 m. sausio 1 d.“ įrašyti datą „2009 m. sausio 1 d.“ ir šį punktą išdėstyti taip: ^s-06e060236b4e538423194505
 
 
 „8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2009 m. sausio 1 d.;“.
 
 
-2. 1 straipsnio 10 punkte vietoj datos „2008 m. sausio 1 d.“ įrašyti datą „2009 m. sausio 1 d.“ ir šį punktą išdėstyti taip: ^9c5dfbbe634d3442a229c079
+2. 1 straipsnio 10 punkte vietoj datos „2008 m. sausio 1 d.“ įrašyti datą „2009 m. sausio 1 d.“ ir šį punktą išdėstyti taip: ^s-bf758c2772c66e30267a9066
 
 
 „10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2009 m. sausio 1 d.“

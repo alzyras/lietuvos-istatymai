@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.57D6265C3F49"
 pavadinimas: "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-10-26"
 latest_path: "latest/TAR.57D6265C3F49.md"
 latest_sha256: "b5c1fb4103a65c89c36b2ed5dc40b42bbe1513394ae2f680b938262f9eed4bfd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.57D6265C3F49]]"
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.57D6265C3F49.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.57D6265C3F49
+- Ryšiai: [[Ryšiai/TAR.57D6265C3F49|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 14 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 14 dalies pakeitimas ^s-1ca0193094ab31e4fca343ab
 
 
 Pakeisti 9 straipsnio 14 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 9 straipsnio 14 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-07f1e7036a068e06d15a51ac
 
 
 Lietuvos Respublikos Vyriausybė priima šiam įstatymui įgyvendinti reikalingus teisės aktus.

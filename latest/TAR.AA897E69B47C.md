@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AA897E69B47C"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto registro įstatymo įgyvendinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto registro įstatymo įgyvendinimo įstatymas"
+  - "nekilnojamojo turto registro įstatymo įgyvendinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-30"
 latest_path: "latest/TAR.AA897E69B47C.md"
 latest_sha256: "759ec4288b002612422baebdd999aa28a4654833f15996d66af691096d29ed7d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AA897E69B47C]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymo įgyvendinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AA897E69B47C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AA897E69B47C
+- Ryšiai: [[Ryšiai/TAR.AA897E69B47C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,24 +34,24 @@ Vilnius
 
 
 
-### 1 straipsnis.         Apskričių viršininkų funkcijų, susijusių su Lietuvos Respublikos nekilnojamojo turto registro tvarkymu, perdavimas Nekilnojamojo turto registro tvarkytojui
+### 1 straipsnis.         Apskričių viršininkų funkcijų, susijusių su Lietuvos Respublikos nekilnojamojo turto registro tvarkymu, perdavimas Nekilnojamojo turto registro tvarkytojui ^s-ebdfa4b6d33825de59fb671f
 
 
-1. Apskričių viršininkai iki 1998 m. sausio 1 d. Vyriausybės nustatyta tvarka perduoda Nekilnojamojo turto registro tvarkytojui su Valstybinio žemės kadastro duomenų registro tvarkymu susijusius įgaliojimus, patalpas ir kitus materialinius išteklius, turėtus bei naudotus šiai paskirčiai iki 1997 m. liepos 1 d., taip pat finansines lėšas, turėtas iki funkcijų perdavimo Nekilnojamojo turto registro tvarkytojui. ^74b79a98ff7919c10ac03de1
+1. Apskričių viršininkai iki 1998 m. sausio 1 d. Vyriausybės nustatyta tvarka perduoda Nekilnojamojo turto registro tvarkytojui su Valstybinio žemės kadastro duomenų registro tvarkymu susijusius įgaliojimus, patalpas ir kitus materialinius išteklius, turėtus bei naudotus šiai paskirčiai iki 1997 m. liepos 1 d., taip pat finansines lėšas, turėtas iki funkcijų perdavimo Nekilnojamojo turto registro tvarkytojui. ^s-f66b959d9d0bf4aa433de1cf
 
 
-2. Apskričių viršininkų administracijų padaliniai iki 1998 m. sausio 1 d. nustatyta tvarka registruoja žemės sklypus, žemės sandorius ir tvarko Valstybinio žemės kadastro duomenų registrą. ^2399015959963a4af0a48733
+2. Apskričių viršininkų administracijų padaliniai iki 1998 m. sausio 1 d. nustatyta tvarka registruoja žemės sklypus, žemės sandorius ir tvarko Valstybinio žemės kadastro duomenų registrą. ^s-2d41046817f18fac29941931
 
 
 
-### 2 straipsnis.         Duomenų, sukauptų Valstybinio žemės kadastro duomenų registre ir Respublikiniame inventorizavimo, projektavimo ir paslaugų biure, perrašymas į Nekilnojamojo turto registrą
+### 2 straipsnis.         Duomenų, sukauptų Valstybinio žemės kadastro duomenų registre ir Respublikiniame inventorizavimo, projektavimo ir paslaugų biure, perrašymas į Nekilnojamojo turto registrą ^s-10e5bb0f7b250c305d3332a6
 
 
 Duomenys, sukaupti Valstybinio žemės kadastro duomenų registre ir Respublikiniame inventorizavimo, projektavimo ir paslaugų biure, perrašomi į Nekilnojamojo turto registrą nuo 1998 m. sausio 1 d. Nekilnojamojo turto registro nuostatų nustatyta tvarka.
 
 
 
-### 3 straipsnis. Pasiūlymas Vyriausybei
+### 3 straipsnis. Pasiūlymas Vyriausybei ^s-6dad1ebae03910efa072e4ea
 
 
 Iki 1997 m. gruodžio 1 d. Vyriausybė nustato Valstybinio žemės kadastro duomenų registro duomenų bei Respublikiniame inventorizavimo, projektavimo ir paslaugų biure inventorizuoto ir įregistruoto nekilnojamojo turto duomenų perrašymo į Nekilnojamojo turto registrą etapus, skiria lėšas bei numato finansavimo šaltinius.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.727DC1FE8507"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Belgijos Karalystės Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-01"
 latest_path: "latest/TAR.727DC1FE8507.md"
 latest_sha256: "89569022a5a561a924f729705ed3c1cf4e6b3ae6ee388ccc02887013ef90b803"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.727DC1FE8507]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.727DC1FE8507.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.727DC1FE8507
+- Ryšiai: [[Ryšiai/TAR.727DC1FE8507|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-6307bac72787f805b69629b5
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. birželio 14 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja 1998 m. lapkričio 26 d. Briuselyje pasirašytą Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo.

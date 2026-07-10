@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DFE4473AD94F"
 pavadinimas: "Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "atmintinų dienų įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-08-04"
 latest_path: "latest/TAR.DFE4473AD94F.md"
 latest_sha256: "d13963d52a3cdefe51f48d132c95b151078923726d69eedb8a024a36e979ffd3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DFE4473AD94F]]"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DFE4473AD94F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DFE4473AD94F
+- Ryšiai: [[Ryšiai/TAR.DFE4473AD94F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies 35 punkto pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies 35 punkto pakeitimas ^s-e572f96455aecdf740b24856
 
 
 1 straipsnio 2 dalies 35 punkte vietoj žodžių „Juodojo kaspino“ įrašyti žodžius „Europos diena stalinizmo ir nacizmo aukoms atminti“ ir šį punktą išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7D87CF842F0D"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutarties dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutarties dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Airijos Vyriausybės sutarties dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-03"
 latest_path: "latest/TAR.7D87CF842F0D.md"
 latest_sha256: "819a201b8892650f538e1080c2206af6d846f2f7f2407e521fb58b5d7c825f60"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7D87CF842F0D]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutarties dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7D87CF842F0D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7D87CF842F0D
+- Ryšiai: [[Ryšiai/TAR.7D87CF842F0D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-7020e8e3ffa0e19b3a668218
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 26 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutartį dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja 1997 m. lapkričio 18 d. Dubline pasirašytą Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutartį dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo.

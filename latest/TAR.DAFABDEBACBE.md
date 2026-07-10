@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DAFABDEBACBE"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.DAFABDEBACBE.md"
 latest_sha256: "32f7168a24cfd32a19aa84dbed64b809138ba033ed1e940be9fc72ba158da796"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DAFABDEBACBE]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DAFABDEBACBE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DAFABDEBACBE
+- Ryšiai: [[Ryšiai/TAR.DAFABDEBACBE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,10 +37,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-fd31239a39e5c810471607d5
 
 
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.A7D82E8EDC6B#^s-7502204d14a114c43341d13a|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio]] pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 

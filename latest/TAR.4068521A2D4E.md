@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4068521A2D4E"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Nicos sutarties dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Nicos sutarties dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos ratifikavimo"
+  - "įstatymas dėl Nicos sutarties dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-02"
 latest_path: "latest/TAR.4068521A2D4E.md"
 latest_sha256: "72b1ae285a5c5e7e0d4df67b7c2a70048f1bf365a7ebfdc9ef9335b9faa34ff8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4068521A2D4E]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Nicos sutarties dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4068521A2D4E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4068521A2D4E
+- Ryšiai: [[Ryšiai/TAR.4068521A2D4E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-a5a1b1357b98476da8e89653
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Nicos sutartį dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos“, ratifikuoja Nicos sutartį dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos.

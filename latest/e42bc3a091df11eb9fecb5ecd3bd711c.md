@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "e42bc3a091df11eb9fecb5ecd3bd711c"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo Nr. I-2882 28, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo Nr. I-2882 28, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas"
+  - "notariato įstatymo Nr. I-2882 28, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-07-01"
 latest_path: "latest/e42bc3a091df11eb9fecb5ecd3bd711c.md"
 latest_sha256: "0e46d659dc907c70bcbf8ff32b1d8057a94fa16407c9aeadf5e0eb01c59b98c1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/e42bc3a091df11eb9fecb5ecd3bd711c]]"
 ---
 # Lietuvos Respublikos notariato įstatymo Nr. I-2882 28, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/e42bc3a091df11eb9fecb5ecd3bd711c.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/e42bc3a091df11eb9fecb5ecd3bd711c
+- Ryšiai: [[Ryšiai/e42bc3a091df11eb9fecb5ecd3bd711c|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,20 +35,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio pakeitimas
+### 1 straipsnis. 28 straipsnio pakeitimas ^s-16df02f7713a3f2c5c5f54d0
 
 
-1. Papildyti 28 straipsnį nauja 3 dalimi: ^68600792342ef535a2dc11d8
+1. Papildyti 28 straipsnį nauja 3 dalimi: ^s-7f6299dbe8a3b7a0b118350b
 
 
 „Notaro nuotoliniu būdu, naudojant informacinių technologijų priemones (toliau – nuotolinis būdas), atliekamų notarinių veiksmų atlikimo vieta yra laikoma notaro biuro buvimo vieta. Notaras nuotoliniu būdu gali atlikti notarinius veiksmus ir asmenims, esantiems užsienyje.“
 
 
-2. Buvusias 28 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^9e6301a333c77c59c5e5b7ca
+2. Buvusias 28 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-d90d32d78a6caeea6030df11
 
 
 
-### 2 straipsnis. Įstatymo papildymas 281 straipsniu
+### 2 straipsnis. Įstatymo papildymas 281 straipsniu ^s-20121148d163046a86ef05d8
 
 
 Papildyti Įstatymą 281 straipsniu:
@@ -67,7 +72,7 @@ Notarai gali nuotoliniu būdu atlikti notarinius veiksmus, jeigu užtikrina, kad
 Notarai imasi priemonių, kad būtų užtikrinta notaro tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas, naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės, sudarytos techninės galimybės tinkamai perduoti duomenis valstybės registrams ir informacinėms sistemoms. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma.“
 
 
-### 3 straipsnis. 36 straipsnio pakeitimas
+### 3 straipsnis. 36 straipsnio pakeitimas ^s-29df6ed46414aaee4bd881b1
 
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
@@ -97,7 +102,7 @@ Jeigu tvirtinamasis įrašas ar notarinis liudijimas netelpa sudaromame popierin
 Notaro byloje saugomų dokumentų, kuriais remiantis atlikti notariniai veiksmai, kopijų tikrumas liudijamas pagal Lietuvos vyriausiojo archyvaro nustatytas bendrąsias dokumentų rengimo taisykles.“
 
 
-### 4 straipsnis. 50 straipsnio pakeitimas
+### 4 straipsnis. 50 straipsnio pakeitimas ^s-43c1efa633402dc132a1607d
 
 
 Papildyti 50 straipsnį 2 dalimi:
@@ -106,7 +111,7 @@ Papildyti 50 straipsnį 2 dalimi:
 „Atliekant notarinius veiksmus nuotoliniu būdu, šio straipsnio 1 dalies nuostatos netaikomos.“
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-66cfed3045e183cf1714173f
 
 
 Šis įstatymas įsigalioja 2021 m. liepos 1 d.

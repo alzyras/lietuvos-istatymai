@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.243327834C4B"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo 6, 7, 10, 32, 34 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo 6, 7, 10, 32, 34 straipsnių pakeitimo įstatymas"
+  - "švietimo įstatymo 6, 7, 10, 32, 34 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-29"
 latest_path: "latest/TAR.243327834C4B.md"
 latest_sha256: "b88aeaaacc0c71d6190788ed664b36f6eab0db0ffc7f6fd8562700e730730600"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.243327834C4B]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo 6, 7, 10, 32, 34 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.243327834C4B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.243327834C4B
+- Ryšiai: [[Ryšiai/TAR.243327834C4B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,36 +36,36 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 ir 4 dalių pakeitimas
+### 1 straipsnis. 6 straipsnio 1 ir 4 dalių pakeitimas ^s-76871f00a3a14493de035b6f
 
 
-1. 6 straipsnio 1 dalyje vietoj žodžių „kolegijos, konservatorijos ir kt.“ įrašyti žodžius „įskaitant ir konservatorijas“ ir šią dalį išdėstyti taip: ^184c1914322b40d9a2a4cfb4
+1. 6 straipsnio 1 dalyje vietoj žodžių „kolegijos, konservatorijos ir kt.“ įrašyti žodžius „įskaitant ir konservatorijas“ ir šią dalį išdėstyti taip: ^s-cb0eec97b698dfbf026828e4
 
 
 „1. Specialistus su aukštesniuoju išsilavinimu rengia aukštesniosios mokyklos (įskaitant ir konservatorijas). Į aukštesniąsias mokyklas stojantys asmenys privalo turėti bendrąjį vidurinį arba pagrindinį išsilavinimą.“
 
 
-2. 6 straipsnio 4 dalyje vietoj žodžių „bakalauro kvalifikacinio laipsnio“ įrašyti žodžius „nuosekliųjų pirmos pakopos studijų ar nenuosekliųjų studijų“ ir šią dalį išdėstyti taip: ^dbec640a138b4f0b8c6ffa3a
+2. 6 straipsnio 4 dalyje vietoj žodžių „bakalauro kvalifikacinio laipsnio“ įrašyti žodžius „nuosekliųjų pirmos pakopos studijų ar nenuosekliųjų studijų“ ir šią dalį išdėstyti taip: ^s-d43d3ddeb2fdfa44768b1273
 
 
 „4. Į aukštesniųjų mokyklų studijų programas gali būti įtraukiamos su aukštąja mokykla suderintos ir jos akredituotos programos (moduliai), atitinkančios nuosekliųjų pirmos pakopos studijų ar nenuosekliųjų studijų reikalavimus. Tęsiant studijas aukštojoje mokykloje, šios studijų programos (moduliai) gali būti įskaitomi.“
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios ^s-7113f3af0b5d6d1d416227c2
 
 
-1. 7 straipsnio 2 dalyje po žodžių „Mokslo ir studijų įstatymas“ įrašyti žodžius „Aukštojo mokslo įstatymas“ ir šią dalį išdėstyti taip: ^fe8159dba2dcf8d20277af29
+1. 7 straipsnio 2 dalyje po žodžių [[latest/TAR.C595FF45F869|„Mokslo ir studijų įstatymas“]] įrašyti žodžius „Aukštojo mokslo įstatymas“ ir šią dalį išdėstyti taip: ^s-f188d2a1acb3c5f012edeffc
 
 
 „2. Aukštųjų mokyklų steigimo, reorganizavimo, likvidavimo, studijų tvarką bei veiklos, valdymo ir finansavimo pagrindus reglamentuoja Mokslo ir studijų įstatymas, Aukštojo mokslo įstatymas, kiti įstatymai bei aukštųjų mokyklų statutai.“
 
 
-2. 7 straipsnio 3 dalį pripažinti netekusia galios. ^0745ae9b27ec1313bd5e2b50
+2. 7 straipsnio 3 dalį pripažinti netekusia galios. ^s-b5b2825f7a1329ad63f8134d
 
 
 
-### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-647f496f2e377be8c5ee9a21
 
 
 Iš 10 straipsnio 4 dalies išbraukti žodžius „(klasės, grupės) gali būti“, „suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis“ ir šią dalį išdėstyti taip:
@@ -70,14 +75,14 @@ Iš 10 straipsnio 4 dalies išbraukti žodžius „(klasės, grupės) gali būti
 
 
 
-### 4 straipsnis. 32 straipsnio pakeitimas
+### 4 straipsnis. 32 straipsnio pakeitimas ^s-602642213558a834e71ad393
 
 
 32 straipsnio 2 dalį pripažinti netekusia galios, buvusią 3 dalį laikyti 2 dalimi.
 
 
 
-### 5 straipsnis. 34 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 34 straipsnio 2 dalies pakeitimas ^s-770ca2e43311d8129515f512
 
 
 Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:

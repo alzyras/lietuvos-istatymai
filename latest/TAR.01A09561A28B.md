@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.01A09561A28B"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-31"
 latest_path: "latest/TAR.01A09561A28B.md"
 latest_sha256: "dfbd4bf4ba26807357c9b00d1675dd37be5b5fa45572c31c0e6c1f10ab1270ac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.01A09561A28B]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.01A09561A28B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.01A09561A28B
+- Ryšiai: [[Ryšiai/TAR.01A09561A28B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 6 dalies pakeitimas ^s-7a1cddd6dc5e4fb74b36dd04
 
 
 Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A1678AE1348E"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo įrašymo į Konstitucinių įstatymų sąrašą įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo įrašymo į Konstitucinių įstatymų sąrašą įstatymas"
+  - "Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo įrašymo į Konstitucinių įstatymų sąrašą įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-05"
 latest_path: "latest/TAR.A1678AE1348E.md"
 latest_sha256: "918a7ea5561d18a58b2047088785e5a2ff240129d2c07b0882381f63c48f431b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A1678AE1348E]]"
 ---
 # Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo įrašymo į Konstitucinių įstatymų sąrašą įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A1678AE1348E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A1678AE1348E
+- Ryšiai: [[Ryšiai/TAR.A1678AE1348E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo įrašymas į Konstitucinių įstatymų sąrašą
+### 1 straipsnis. Įstatymo įrašymas į Konstitucinių įstatymų sąrašą ^s-c9614b601cb500eec5313b9b
 
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 69 straipsnio trečiąja dalimi, įrašo į Konstitucinių įstatymų sąrašą Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinį įstatymą.

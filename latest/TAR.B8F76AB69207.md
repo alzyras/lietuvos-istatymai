@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B8F76AB69207"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-01"
 latest_path: "latest/TAR.B8F76AB69207.md"
 latest_sha256: "e2b673d20d5bfde08c1f291d888171ab3082fd039a53e530d1f0b31657b94e0e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B8F76AB69207]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B8F76AB69207.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B8F76AB69207
+- Ryšiai: [[Ryšiai/TAR.B8F76AB69207|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 5 dalies pakeitimas ^s-a5e04b8de158cdf034ac786d
 
 
 1 straipsnio 5 dalyje po žodžio „kurorto“ įrašyti žodžius „arba kurortinės teritorijos“ ir šią dalį išdėstyti taip:
@@ -40,61 +45,61 @@ Vilnius
 „Gyvenamosioms vietovėms gali būti suteiktas kurorto arba kurortinės teritorijos statusas.“
 
 
-### 2 straipsnis. 3 straipsnio 6 dalies pakeitimas ir straipsnio papildymas 8 ir 9 dalimis
+### 2 straipsnis. 3 straipsnio 6 dalies pakeitimas ir straipsnio papildymas 8 ir 9 dalimis ^s-ce7c01a11ef99dbf09e3ded4
 
 
-1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip: ^128066cb8c0497fce9675bfe
+1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip: ^s-e368853b11aa97c16f0cde76
 
 
 „Gyvenamosios vietovės, kuriose yra moksliškai ištirtų ir pripažintų gydomaisiais gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus mikroklimatas, rekreacinių želdinių, vandens telkinių) ir išplėtota speciali infrastruktūra naudoti šiuos veiksnius gydymo, sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurorto statusą.“
 
 
-2. Papildyti 3 straipsnį 8 dalimi: ^7d5af244b34ba2ee14f14cd9
+2. Papildyti 3 straipsnį 8 dalimi: ^s-2268ee0e365139052f05d9ae
 
 
 „Gyvenamosios vietovės, kuriose yra gamtinių išteklių, galinčių turėti gydomųjų savybių, ir speciali infrastruktūra naudoti šiuos išteklius sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurortinės teritorijos statusą. Kurortinės teritorijos statusas suteikiamas vienai ar kelioms gyvenamosioms vietovėms arba jų dalims.“
 
 
-3. Papildyti 3 straipsnį 9 dalimi: ^b1663fe55c823ecd7274754d
+3. Papildyti 3 straipsnį 9 dalimi: ^s-365b771ce642bc6e8fc4d10d
 
 
 „Reikalavimus kurorto ir kurortinės teritorijos statusui suteikti nustato Lietuvos Respublikos Vyriausybė.“
 
 
-### 3 straipsnis. 6 straipsnio pakeitimas
+### 3 straipsnis. 6 straipsnio pakeitimas ^s-b2b444cb443a2f9bb90910fc
 
 
-Pakeisti [[#6 straipsnis. 13 straipsnio pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-2f36df5724cceb5106295b1e|6 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#6 straipsnis. 13 straipsnio pakeitimas|6 straipsnis]]. Apskričių steigimas ir jų ribų keitimas
+„[[#^s-2f36df5724cceb5106295b1e|6 straipsnis]]. Apskričių steigimas ir jų ribų keitimas
 
 
 Apskritis steigia ir panaikina, taip pat jų teritorijų ribas bei centrus nustato ir keičia Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu. Apskrities ribos turi būti tikslinamos, jeigu keičiant savivaldybių teritorijų ribas kinta su keičiamomis ribomis sutampančios apskrities teritorijos ribos. Savivaldybės teritorija apskričių teritorijų ribomis nedaloma.“
 
 
-### 4 straipsnis. 9 straipsnio 1 ir 6 dalių pakeitimas ir straipsnio papildymas 7 dalimi
+### 4 straipsnis. 9 straipsnio 1 ir 6 dalių pakeitimas ir straipsnio papildymas 7 dalimi ^s-70b3881c4561773c4a7bbaa3
 
 
-1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip: ^16b110501be6011ed42cf951
+1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip: ^s-12ea948b4444d4a63f6f1fd8
 
 
 „Gyvenamosios vietovės pavadinimą sudaro gyvenamosios vietovės vardas ir jos tipas (miestas, miestelis, kaimas). Gyvenamosioms vietovėms pavadinimus, atsižvelgdama į savivaldybės tarybos siūlymą, pateiktą įvertinus vietos gyventojų nuomonę, suteikia ir keičia Lietuvos Respublikos Vyriausybė.“
 
 
-2. 9 straipsnio 6 dalyje išbraukti žodžius ir skaičių „išskyrus 3 straipsnio šeštojoje dalyje nurodytąsias“ ir šią dalį išdėstyti taip: ^450e4be08e188f3593606a11
+2. 9 straipsnio 6 dalyje išbraukti žodžius ir skaičių „išskyrus 3 straipsnio šeštojoje dalyje nurodytąsias“ ir šią dalį išdėstyti taip: ^s-de46b7b805e369e476cae88e
 
 
 „Gyvenamosioms vietovėms kurorto statusą suteikia ir panaikina Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu.“
 
 
-3. Papildyti 9 straipsnį 7 dalimi: ^9f85b339290d7ad18f04877f
+3. Papildyti 9 straipsnį 7 dalimi: ^s-003caaaecf7000ee9ef45f6f
 
 
 „Gyvenamosioms vietovėms arba jų dalims kurortinės teritorijos statusą suteikia ir panaikina Lietuvos Respublikos Vyriausybė savivaldybės tarybos siūlymu.“
 
 
-### 5 straipsnis. 10 straipsnio pakeitimas
+### 5 straipsnis. 10 straipsnio pakeitimas ^s-2798eb7b4cd1096181fcf536
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
@@ -106,7 +111,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 Gyvenamąsias vietoves nustato ir panaikina, jų teritorijų ribas nustato ir keičia Lietuvos Respublikos Vyriausybė, atsižvelgdama į savivaldybės tarybos siūlymą, pateiktą įvertinus vietos gyventojų nuomonę.“
 
 
-### 6 straipsnis. 13 straipsnio pakeitimas
+### 6 straipsnis. 13 straipsnio pakeitimas ^s-2f36df5724cceb5106295b1e
 
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
@@ -124,14 +129,14 @@ Vietos gyventojų apklausos tvarką steigiant ar panaikinant Lietuvos Respubliko
 Dokumentų ir pasiūlymų, reikalingų Lietuvos Respublikos teritorijos administraciniams vienetams steigti ar panaikinti, jų ir gyvenamųjų vietovių pavadinimams suteikti ar keisti, teritorijų riboms nustatyti ar keisti ir kurorto arba kurortinės teritorijos statusui suteikti ar panaikinti, pateikimo ir nagrinėjimo tvarką ir konsultavimosi su vietos gyventojais dėl pavadinimų gyvenamosioms vietovėms suteikimo ar keitimo, jų teritorijų ribų nustatymo ar keitimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-f3694db460c56593df1a26f1
 
 
-Šis įstatymas, išskyrus [[#8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|8 straipsnį]], įsigalioja nuo 2006 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-0df13a1630b97d8e72a75f0f|8 straipsnį]], įsigalioja nuo 2006 m. sausio 1 d.
 
 
 
-### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-0df13a1630b97d8e72a75f0f
 
 
 Lietuvos Respublikos Vyriausybė iki 2006 m. sausio 1 d. patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.

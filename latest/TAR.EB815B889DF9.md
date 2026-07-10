@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EB815B889DF9"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10, 44 straipsnių ir įstatymo 3 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10, 44 straipsnių ir įstatymo 3 priedo pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 8, 10, 44 straipsnių ir įstatymo 3 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.EB815B889DF9.md"
 latest_sha256: "d72f593584d67f4698bcac964e2c5b05eae6053dd32e59fa45c0cbff91b88a97"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EB815B889DF9]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10, 44 straipsnių ir įstatymo 3 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EB815B889DF9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EB815B889DF9
+- Ryšiai: [[Ryšiai/TAR.EB815B889DF9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,39 +38,39 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 5 dalies ir 8 dalies 4 punkto pakeitimas
+### 1 straipsnis. 8 straipsnio 5 dalies ir 8 dalies 4 punkto pakeitimas ^s-0f0ff1e0020fc862ff7983f6
 
 
-1. 8 straipsnio 5 dalyje išbraukti žodžius „apskričių viršininkų administracijose ir“ ir šią dalį išdėstyti taip: ^d539d1cda761eebeb564b829
+1. 8 straipsnio 5 dalyje išbraukti žodžius „apskričių viršininkų administracijose ir“ ir šią dalį išdėstyti taip: ^s-0d5f7c17ae3abe6b8c124c29
 
 
 „5. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento institucijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Ministro Pirmininko tarnyboje, ministerijose, Vyriausybės įstaigose, įstaigose prie ministerijų ir ministrų valdymo sritims priskirtose valstybės įstaigose, Vyriausybės atstovų tarnybose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš savivaldybės biudžeto (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba.“
 
 
-2. 8 straipsnio 8 dalies 4 punkte išbraukti žodžius „apskričių viršininkų, jų pavaduotojų“ ir šį punktą išdėstyti taip: ^cb0b9915752f69bb08f86d27
+2. 8 straipsnio 8 dalies 4 punkte išbraukti žodžius „apskričių viršininkų, jų pavaduotojų“ ir šį punktą išdėstyti taip: ^s-2352faa09b46b3572e156b85
 
 
 „4) Vyriausybės atstovų, Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras;“.
 
 
 
-### 2 straipsnis. 10 straipsnio 2 dalies 3 punkto ir 4 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 2 dalies 3 punkto ir 4 dalies pakeitimas ^s-adce8cffc72a51d91ad5aa3f
 
 
-1. 10 straipsnio 2 dalies 3 punkte išbraukti žodžius „apskrities viršininką ir apskrities viršininko pavaduotoją“ ir šį punktą išdėstyti taip: ^ff14e8abd5f0cf54ee0f58e7
+1. 10 straipsnio 2 dalies 3 punkte išbraukti žodžius „apskrities viršininką ir apskrities viršininko pavaduotoją“ ir šį punktą išdėstyti taip: ^s-15d231b5614ad01e2176147b
 
 
 „3) Vyriausybės atstovą – Vyriausybė;“.
 
 
-2. 10 straipsnio 4 dalyje išbraukti žodžius „Apskrities valdymo įstatyme“ ir šią dalį išdėstyti taip: ^227e23b21c46cb41f80ad766
+2. 10 straipsnio 4 dalyje išbraukti žodžius „Apskrities valdymo įstatyme“ ir šią dalį išdėstyti taip: ^s-21e40137fee88a8bf25a8c0d
 
 
-„4. Jeigu kiti įstatymai (išskyrus statutus, Diplomatinės tarnybos įstatymą, Korupcijos prevencijos įstatymą, Valstybės ir tarnybos paslapčių įstatymą ir Vietos savivaldos įstatyme, Savivaldybių administracinės priežiūros įstatyme ir Laikino tiesioginio valdymo savivaldybės teritorijoje įstatyme nustatytas įstaigos vadovų priėmimo į pareigas sąlygas) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas, taikomos šio Įstatymo nuostatos.“
+„4. Jeigu kiti įstatymai (išskyrus statutus, Diplomatinės tarnybos įstatymą, Korupcijos prevencijos įstatymą, Valstybės ir tarnybos paslapčių įstatymą ir [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]], [[latest/TAR.33DE665E5E0E|Savivaldybių administracinės priežiūros įstatyme]] ir Laikino [[latest/TAR.EA5F9F0D6DBB|tiesioginio valdymo savivaldybės teritorijoje įstatyme]] nustatytas įstaigos vadovų priėmimo į pareigas sąlygas) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas, taikomos šio Įstatymo nuostatos.“
 
 
 
-### 3 straipsnis. 44 straipsnio 1 dalies 2 punkto pakeitimas
+### 3 straipsnis. 44 straipsnio 1 dalies 2 punkto pakeitimas ^s-5d6025994d19db97dfb75637
 
 
 44 straipsnio 1 dalies 2 punkte išbraukti žodžius „apskrities viršininkas, jo pavaduotojas ar“ ir šį punktą išdėstyti taip:
@@ -75,10 +80,10 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas
+### 4 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas ^s-4348eacc7c8dbb9db2ffd776
 
 
-1. Įstatymo 3 priedo I skyriaus 2 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininkas“ ir šią eilutę išdėstyti taip: ^20dc8114bcf960b253d19161
+1. Įstatymo 3 priedo I skyriaus 2 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininkas“ ir šią eilutę išdėstyti taip: ^s-f92f530ee4eb7eab5b1564e6
 
 
  „2.
@@ -96,7 +101,7 @@ Vilnius
 
 
 
-2. Įstatymo 3 priedo I skyriaus 4 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininko pavaduotojas“, 3 skiltyje išbraukti žodžius „apskrities sekretorius“ ir šią eilutę išdėstyti taip: ^66d615ee33984ae498719c95
+2. Įstatymo 3 priedo I skyriaus 4 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininko pavaduotojas“, 3 skiltyje išbraukti žodžius „apskrities sekretorius“ ir šią eilutę išdėstyti taip: ^s-41867b78df20324a33024de5
 
 
  „4.
@@ -114,10 +119,10 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo 3 priedo II skyriaus pakeitimas
+### 5 straipsnis. Įstatymo 3 priedo II skyriaus pakeitimas ^s-e6b6e9da88b822e7ceafd400
 
 
-1. Įstatymo 3 priedo II skyriaus 2 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininkas“ ir šią eilutę išdėstyti taip: ^abb93e4bb4d9f6262043a0bd
+1. Įstatymo 3 priedo II skyriaus 2 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininkas“ ir šią eilutę išdėstyti taip: ^s-0df396d70b7a11f458293d4c
 
 
  „2.
@@ -135,7 +140,7 @@ Vilnius
 
 
 
-2. Įstatymo 3 priedo II skyriaus 4 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininko pavaduotojas“, 3 skiltyje išbraukti žodžius „apskrities sekretorius“ ir šią eilutę išdėstyti taip: ^758a8e732354ceed1ddf3b1f
+2. Įstatymo 3 priedo II skyriaus 4 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininko pavaduotojas“, 3 skiltyje išbraukti žodžius „apskrities sekretorius“ ir šią eilutę išdėstyti taip: ^s-0c79ac4151765a83ba5d8be5
 
 
  „4.
@@ -153,10 +158,10 @@ Vilnius
 
 
 
-### 6 straipsnis. Įstatymo 3 priedo III skyriaus pakeitimas
+### 6 straipsnis. Įstatymo 3 priedo III skyriaus pakeitimas ^s-a333f0991bff3df5f817941a
 
 
-1. Įstatymo 3 priedo III skyriaus 2 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininkas“ ir šią eilutę išdėstyti taip: ^10ab0402d910bda750b37ffe
+1. Įstatymo 3 priedo III skyriaus 2 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininkas“ ir šią eilutę išdėstyti taip: ^s-3d98852383a69a6cbf56f7b9
 
 
  „2.
@@ -174,7 +179,7 @@ Vilnius
 
 
 
-2. Įstatymo 3 priedo III skyriaus 4 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininko pavaduotojas“, 3 skiltyje išbraukti žodžius „apskrities sekretorius“ ir šią eilutę išdėstyti taip: ^ff0fd62f16b9750028b9ba90
+2. Įstatymo 3 priedo III skyriaus 4 eilutės 2 skiltyje išbraukti žodžius „apskrities viršininko pavaduotojas“, 3 skiltyje išbraukti žodžius „apskrities sekretorius“ ir šią eilutę išdėstyti taip: ^s-c3d014a931f3b3b2f1bf9b4d
 
 
  „4.
@@ -192,7 +197,7 @@ Vilnius
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-1f7d39ff99c04b5acb0f8b19
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

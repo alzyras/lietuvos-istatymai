@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.17BE1467FEE4"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 8 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 8 straipsnio papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 8 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-01"
 latest_path: "latest/TAR.17BE1467FEE4.md"
 latest_sha256: "b94e4798f8440ef088c079280e17463d11b686dc4f51cfc2df1ca82704d7a5a5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.17BE1467FEE4]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 8 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.17BE1467FEE4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.17BE1467FEE4
+- Ryšiai: [[Ryšiai/TAR.17BE1467FEE4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 dalies papildymas 19 punktu
+### 1 straipsnis. 8 straipsnio 1 dalies papildymas 19 punktu ^s-781345cdfbaa6dbe9ef28fe6
 
 
 Papildyti 8 straipsnio 1 dalį 19 punktu:
@@ -41,7 +46,7 @@ Papildyti 8 straipsnio 1 dalį 19 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6a1e5665768dd4b5457fe3c3
 
 
 Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d.

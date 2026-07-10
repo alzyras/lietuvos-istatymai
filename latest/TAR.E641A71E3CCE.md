@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E641A71E3CCE"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "azartinių lošimų įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.E641A71E3CCE.md"
 latest_sha256: "d2a013dab32111bdaa069ab283d3a7e00675d9d65927734e01b9255de1c3516c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E641A71E3CCE]]"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E641A71E3CCE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E641A71E3CCE
+- Ryšiai: [[Ryšiai/TAR.E641A71E3CCE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-f064fb2ace32dd9990645fa8
 
 
 4 straipsnio 2 dalyje išbraukti žodžius „Specialiųjų tyrimų tarnybos“ ir šią dalį išdėstyti taip:
@@ -43,13 +48,13 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-8ee36ed8c9a12e3964365318
 
 
-1. Šis įstatymas, išskyrus [[#^360cbbbe3ca96adcfe7ff19a|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^c2f8ebde799c8416889ad6e6
+1. Šis įstatymas, išskyrus [[#^s-5f53f0575e9e582dcfdb0254|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^s-3e3978c9ef0962be74f141b4
 
 
-2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^360cbbbe3ca96adcfe7ff19a
+2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-5f53f0575e9e582dcfdb0254
 
 
 

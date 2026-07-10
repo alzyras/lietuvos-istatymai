@@ -11,7 +11,7 @@
   "latest_revision": "2011-12-08",
   "latest_sha256": "fd17bca930e1cbcb98d5c35cb6d3be5691fdcb5e912df1fc03d792a8a4017e3a",
   "metadata_path": "latest/TAR.BFACC66FD692.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DEB96B5AC64D"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-1999 metams įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-1999 metams įstatymas"
+  - "savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-1999 metams įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-19"
 latest_path: "latest/TAR.DEB96B5AC64D.md"
 latest_sha256: "a90be886b20f07c6f6d0812213dc46e99bed687758be3b7d5ca9fb901f51deac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DEB96B5AC64D]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-1999 metams įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DEB96B5AC64D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DEB96B5AC64D
+- Ryšiai: [[Ryšiai/TAR.DEB96B5AC64D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,35 +34,35 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-8220ef89d38bf462d5cc3864
 
 
 Šis įstatymas nustato 1998–2000 metams pagrindinius rodiklius, kurie lemia savivaldybių biudžetų pajamų dydį ir išlyginimą. Praėjusiais metais patvirtinti rodikliai nekeičiami.
 
 
 
-### 2 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai
+### 2 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai ^s-674ece57630a01e1dd058418
 
 
 Patvirtinti šiuos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančius rodiklius:
 
 
-1) visų savivaldybių išlaidų dalį nuo valstybės ir savivaldybių biudžetų išlaidų bendros sumos (procentais) – 31,77; ^eb19db1d1dcee6317d87a304
+1) visų savivaldybių išlaidų dalį nuo valstybės ir savivaldybių biudžetų išlaidų bendros sumos (procentais) – 31,77; ^s-a256a9151786bbb33f8f2ed3
 
 
-2) koeficientą K, nuo kurio priklauso savivaldybių, gaunančių valstybės biudžeto bendrosios dotacijos dalį mokestinėms pajamoms išlyginti, skaičius, – 0,924; ^593d8e8f71f0b1ec656ca767
+2) koeficientą K, nuo kurio priklauso savivaldybių, gaunančių valstybės biudžeto bendrosios dotacijos dalį mokestinėms pajamoms išlyginti, skaičius, – 0,924; ^s-ce9f70a0fec878698a562239
 
 
-3) išlyginimo koeficientą H, nuo kurio priklauso kiekvienos savivaldybės gaunamos valstybės biudžeto bendrosios dotacijos dalies mokestinėms pajamoms išlyginti dalis, – 0,832; ^aae3c71242b738ffa4854a74
+3) išlyginimo koeficientą H, nuo kurio priklauso kiekvienos savivaldybės gaunamos valstybės biudžeto bendrosios dotacijos dalies mokestinėms pajamoms išlyginti dalis, – 0,832; ^s-529cc78aceaffb70d8045bcb
 
 
-4) koeficientą k, nuo kurio priklauso savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius, – 0,887; ^fd135323da1d7e4372aa3b26
+4) koeficientą k, nuo kurio priklauso savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius, – 0,887; ^s-06de143ac56dabc02b42ce4b
 
 
-5) išlyginimo koeficientą h, nuo kurio priklauso kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis, – 0,845; ^9cf4f65817e3f7a9d581879d
+5) išlyginimo koeficientą h, nuo kurio priklauso kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis, – 0,845; ^s-2c686bd98114375d4a2bc563
 
 
-6) koeficientus Mr, nurodančius demografinių, socialinių ir kitų rodiklių svarbą bendram visų savivaldybių biudžetų išlaidų pasikeitimui: ^e6db424d1996450ee037a2a0
+6) koeficientus Mr, nurodančius demografinių, socialinių ir kitų rodiklių svarbą bendram visų savivaldybių biudžetų išlaidų pasikeitimui: ^s-59949cc529ca28754f892d0e
 
 
 a) M(r1 – 0,5; čia r1 – vaikų iki 18 metų lyginamoji dalis nuo bendro savivaldybės gyventojų skaičiaus;
@@ -75,7 +80,7 @@ d) M(r4 – 0,05; čia r4 – savivaldybės teritorijos plotas, tenkantis vienam
 e) M(r5 – 0,04; čia r5 – savivaldybės gyventojų lyginamoji dalis nuo bendro Lietuvos gyventojų skaičiaus;
 
 
-7) nemokestinių pajamų dydį, kaip fiksuotą mokestinių pajamų dalį, (procentais) – 1,8. ^cea46ed5ee20984a747e0fc8
+7) nemokestinių pajamų dydį, kaip fiksuotą mokestinių pajamų dalį, (procentais) – 1,8. ^s-3a0d505824b4df3d7f696af1
 
 
 

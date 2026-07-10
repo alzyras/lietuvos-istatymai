@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A30BFB796F0D"
 pavadinimas: "Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 26 ir 28 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 26 ir 28 straipsnių pakeitimo įstatymas"
+  - "piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 26 ir 28 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-30"
 latest_path: "latest/TAR.A30BFB796F0D.md"
 latest_sha256: "865847cdc39592ffe955bba092e9e62ddaebf87c8e4c1c6f3c78af984d6f86e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A30BFB796F0D]]"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 26 ir 28 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A30BFB796F0D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A30BFB796F0D
+- Ryšiai: [[Ryšiai/TAR.A30BFB796F0D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 26 straipsnio 4 dalies pakeitimas ^s-af6c5bd028c6a7854c7660d7
 
 
 26 straipsnio 4 dalyje vietoj datos „2004 m. sausio 1 d.“ įrašyti datą „2004 m. balandžio 1 d.“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 28 straipsnio pakeitimas
+### 2 straipsnis. 28 straipsnio pakeitimas ^s-64f2fe2e690eddf36aa68f07
 
 
 28 straipsnyje vietoj datos „2004 m. sausio 1 d.“ įrašyti datą „2004 m. balandžio 1 d.“ ir šį straipsnį išdėstyti taip:

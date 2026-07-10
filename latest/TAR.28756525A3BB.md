@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.28756525A3BB"
 pavadinimas: "Lietuvos Respublikos 2004 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2004 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2004 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-07"
 latest_path: "latest/TAR.28756525A3BB.md"
 latest_sha256: "88d93ba1295905d4a39bf5312b9b7e129a49f898adcf06029ae74e2f9a49113c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.28756525A3BB]]"
 ---
 # Lietuvos Respublikos 2004 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.28756525A3BB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.28756525A3BB
+- Ryšiai: [[Ryšiai/TAR.28756525A3BB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         2004 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis.         2004 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-05f021a2a3190ccaa5c191a8
 
 
 Patvirtinti Lietuvos Respublikos 2004 metų Privalomojo sveikatos draudimo fondo biudžetą – 2043790 tūkst. litų pajamų ir 2043790 tūkst. litų išlaidų, iš jo 20000 tūkst. litų kasos apyvartos lėšų (priedėlis).
@@ -68,7 +73,7 @@ draudimo fondo biudžetas
 
 
  1 02
- Įmonių, įstaigų bei organizacijų ir fizinių asmenų, kurie verčiasi individualia veikla, kaip apibrėžta Gyventojų pajamų mokesčio įstatyme, atskaitymai iš gyventojų pajamų mokesčio
+ Įmonių, įstaigų bei organizacijų ir fizinių asmenų, kurie verčiasi individualia veikla, kaip apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], atskaitymai iš gyventojų pajamų mokesčio
  1010936
 
 

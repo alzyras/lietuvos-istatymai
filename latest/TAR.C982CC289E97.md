@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C982CC289E97"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 27 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 27 straipsnio pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 27 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-03-25"
 latest_path: "latest/TAR.C982CC289E97.md"
 latest_sha256: "3761d0ac5400680a46edb090fcdff79430eae08b4a0cd8ac01ea9050dbe7cc31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C982CC289E97]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 27 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C982CC289E97.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C982CC289E97
+- Ryšiai: [[Ryšiai/TAR.C982CC289E97|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,13 +37,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 27 straipsnio 3 dalies pakeitimas ^s-925e36b1dc8304f8d4d122db
 
 
 Pakeisti 27 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti valstybės garantuojamą teisinę pagalbą arba piniginę socialinę paramą, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 22 punkte nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas šio straipsnio 2 dalyje nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų.“
+„3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą [[latest/TAR.D4A66ACB9F97|Gyventojų turto deklaravimo įstatymo]] nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti valstybės garantuojamą teisinę pagalbą arba piniginę socialinę paramą, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius [[latest/TAR.D4A66ACB9F97#^s-af7b4f510eab440d383a95b6|Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 22 punkte]] nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas šio straipsnio 2 dalyje nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą [[latest/TAR.D4A66ACB9F97|Gyventojų turto deklaravimo įstatymo]] nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų.“
 
 
 

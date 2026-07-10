@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.27AFBA42C445"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 21 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 21 straipsnio papildymo įstatymas"
+  - "sveikatos draudimo įstatymo 21 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-05"
 latest_path: "latest/TAR.27AFBA42C445.md"
 latest_sha256: "7773f0941e4a8e50c4a1ad2eb37d11746036b1d9fa8d2b1c3049abf9d8ed18b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.27AFBA42C445]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 21 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.27AFBA42C445.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.27AFBA42C445
+- Ryšiai: [[Ryšiai/TAR.27AFBA42C445|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 2 dalies papildymas
+### 1 straipsnis. 21 straipsnio 2 dalies papildymas ^s-816cc4bad7a1501a211205eb
 
 
 21 straipsnio 2 dalyje po žodžio „lėšos“ įrašyti žodžius „Vyriausybės nustatyta tvarka“ ir šią dalį išdėstyti taip:

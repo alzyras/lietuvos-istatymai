@@ -11,7 +11,7 @@
   "latest_revision": "2003-04-11",
   "latest_sha256": "c46f2b215e3a0b5c4e8cbebd3707031da3c2cfccbdd35fede67e7a6463d784c7",
   "metadata_path": "latest/TAR.E2E56020ECCD.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

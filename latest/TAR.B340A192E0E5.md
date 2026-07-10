@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B340A192E0E5"
 pavadinimas: "Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.B340A192E0E5.md"
 latest_sha256: "6a2dc781429d225cdcb110284db9651720d21dd0c01368f4653ed972e8b3d279"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B340A192E0E5]]"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B340A192E0E5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B340A192E0E5
+- Ryšiai: [[Ryšiai/TAR.B340A192E0E5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-fd528ba8e587d31d36e553ba
 
 
 5 straipsnio 2 dalyje vietoj žodžių „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“, vietoj žodžių „nusikaltimą, kuris nustatytas“ įrašyti žodžius „nusikalstamą veiką, kuri nustatyta“ ir šią dalį išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-eb8e32f1bc0e74e1cb80c86e
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

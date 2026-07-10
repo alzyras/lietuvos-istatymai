@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1108ABF60ADD"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 30 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 30 straipsnio pakeitimo įstatymas"
+  - "valstybės kontrolės įstatymo 30 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-13"
 latest_path: "latest/TAR.1108ABF60ADD.md"
 latest_sha256: "2600f09f7014cc42f9e9c3dbca615d94800d89c087c9a385be23925845f4ad73"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1108ABF60ADD]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 30 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1108ABF60ADD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1108ABF60ADD
+- Ryšiai: [[Ryšiai/TAR.1108ABF60ADD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio pakeitimas
+### 1 straipsnis. 30 straipsnio pakeitimas ^s-1e37185f15a89261af9d9803
 
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
@@ -40,10 +45,10 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 „30 straipsnis.     Valstybės kontrolieriaus, jo pavaduotojų ir Valstybės kontrolės pareigūnų priesaikos tekstas
 
 
-1. Valstybės kontrolierius, jo pavaduotojai ir Valstybės kontrolės pareigūnai prisiekia Lietuvos Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: ^b1b5151850dbb422a33b9fe0
+1. Valstybės kontrolierius, jo pavaduotojai ir Valstybės kontrolės pareigūnai prisiekia Lietuvos Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: ^s-5ca630dff2b572cba1ba18ee
 
 
-1) „Aš, (vardas, pavardė), ^f9b650a0072652ee7c877b7d
+1) „Aš, (vardas, pavardė), ^s-e325eb241a0a9139926e7576
 
 
 prisiekiu būti ištikimas Lietuvos Respublikai;
@@ -64,7 +69,7 @@ sąžiningai tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei.
 Tepadeda man Dievas.“;
 
 
-2) „Aš, (vardas, pavardė), ^1a3455e34f5f6fb6f8e9e00d
+2) „Aš, (vardas, pavardė), ^s-8d37373e34d43839c22dc335
 
 
 prisiekiu būti ištikimas Lietuvos Respublikai;
@@ -82,7 +87,7 @@ saugoti valstybės turtą,
 sąžiningai tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei.“
 
 
-2. Prisiekęs asmuo po priesaikos tekstu pasirašo.“ ^f45b2efd5da15823f909e68f
+2. Prisiekęs asmuo po priesaikos tekstu pasirašo.“ ^s-aa80cece0756425941ea9d90
 
 
 

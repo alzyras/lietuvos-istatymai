@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.885F3AEB74BA"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "draudimo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-06-19"
 latest_path: "latest/TAR.885F3AEB74BA.md"
 latest_sha256: "cff8d17ce55b3c3cacb610cd9f45d48b9c080d3903640985299443409e25f1b8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.885F3AEB74BA]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.885F3AEB74BA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.885F3AEB74BA
+- Ryšiai: [[Ryšiai/TAR.885F3AEB74BA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pirmosios dalies pakeitimas
+### 1 straipsnis. 3 straipsnio pirmosios dalies pakeitimas ^s-5e18f465cc033a5f5fce41b7
 
 
 3 straipsnio pirmojoje dalyje po žodžių „Lietuvos Respublikoje draudimą“ įrašyti žodžius „išskyrus privalomąjį sveikatos draudimą“ ir šią dalį išdėstyti taip:

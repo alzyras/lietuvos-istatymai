@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EC50521B43A7"
 pavadinimas: "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 19 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 19 straipsnių pakeitimo įstatymas"
+  - "Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 19 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.EC50521B43A7.md"
 latest_sha256: "2979f3bc9a9e801ef58b2c07f681cd6a673c0b88b24a5740f4473bdfe5c0b5a0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EC50521B43A7]]"
 ---
 # Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 19 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EC50521B43A7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EC50521B43A7
+- Ryšiai: [[Ryšiai/TAR.EC50521B43A7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 11 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 11 punkto pakeitimas ^s-f104a55a3763220b85bfb1c4
 
 
 17 straipsnio 11 punkte vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“, žodžius „leidinyje „Valstybės žinios“ ir kituose“ išbraukti ir šį punktą išdėstyti taip:
@@ -46,7 +51,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 19 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 19 straipsnio 2 dalies pakeitimas ^s-5cc6cdd5aee370a2deff08f3
 
 
 19 straipsnio 2 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip:
@@ -56,7 +61,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-66c622f87011d39d0c31559b
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

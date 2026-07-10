@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DB423E65F2ED"
 pavadinimas: "Lietuvos Respublikos valstybės skolos įstatymo 3, 8, 12 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės skolos įstatymo 3, 8, 12 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "valstybės skolos įstatymo 3, 8, 12 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-29"
 latest_path: "latest/TAR.DB423E65F2ED.md"
 latest_sha256: "d8c8deb57351a91d7f6e15ff19023df5eff46f249f48fef974991edf0ea42d71"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DB423E65F2ED]]"
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo 3, 8, 12 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DB423E65F2ED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DB423E65F2ED
+- Ryšiai: [[Ryšiai/TAR.DB423E65F2ED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-280c7cd21b8576b220129c82
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.34DDE2557728"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 60 straipsnio pakeitimo ir įstatymo papildymo 61 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 60 straipsnio pakeitimo ir įstatymo papildymo 61 straipsniu įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 60 straipsnio pakeitimo ir įstatymo papildymo 61 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-02-26"
 latest_path: "latest/TAR.34DDE2557728.md"
 latest_sha256: "977cf0c42ef0ad40ee122132ca4989e2cc0d99f63631ebaac5875437305f60aa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.34DDE2557728]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 60 straipsnio pakeitimo ir įstatymo papildymo 61 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.34DDE2557728.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.34DDE2557728
+- Ryšiai: [[Ryšiai/TAR.34DDE2557728|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 60 straipsnio  3 dalies pakeitimas
+### 1 straipsnis. 60 straipsnio  3 dalies pakeitimas ^s-c58b954c83b829fb81b03e7e
 
 
 Pakeisti 60 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -39,7 +44,7 @@ Pakeisti 60 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo papildymas 61 straipsniu
+### 2 straipsnis. Įstatymo papildymas 61 straipsniu ^s-b34e01dcbacd246dc1a615a0
 
 
 Papildyti Įstatymą 61 straipsniu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8D4494D7A7A"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 187 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 187 straipsnio pakeitimo įstatymas"
+  - "draudimo įstatymo 187 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-10-26"
 latest_path: "latest/TAR.C8D4494D7A7A.md"
 latest_sha256: "071ab0c793554e38839aac6faddc81a5d0e890649594967cc1767a26b3b430b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8D4494D7A7A]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 187 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8D4494D7A7A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8D4494D7A7A
+- Ryšiai: [[Ryšiai/TAR.C8D4494D7A7A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 187 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 187 straipsnio 1 dalies pakeitimas ^s-4bb62378ab9a5d274c5434f9
 
 
 187 straipsnio 1 dalyje išbraukti žodžius „išskyrus visų rūšių privalomojo draudimo įmokas“ ir šią dalį išdėstyti taip:

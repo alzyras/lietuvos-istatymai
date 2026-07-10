@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0F142A90CA9E"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 58 ir 91 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 58 ir 91 straipsnių pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 2, 58 ir 91 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-09-01"
 latest_path: "latest/TAR.0F142A90CA9E.md"
 latest_sha256: "a121ea78b2364eb5214e71cdec62a7c7f2bde3cd7dccb833d4a835ed231eb001"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0F142A90CA9E]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 58 ir 91 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0F142A90CA9E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0F142A90CA9E
+- Ryšiai: [[Ryšiai/TAR.0F142A90CA9E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 32 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 32 dalies pakeitimas ^s-30e4a5a129915a4c16020653
 
 
 2 straipsnio 32 dalyje vietoj skaičiaus ir žodžio „19 procentų“ įrašyti skaičių ir žodį „21 procento“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 58 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 58 straipsnio 2 dalies pakeitimas ^s-16100ebf93e7e63eb18e3f4a
 
 
 58 straipsnio 2 dalyje vietoj skaičiaus ir žodžio „19 procentų“ įrašyti skaičių ir žodį „21 procento“ ir šią dalį išdėstyti taip:
@@ -53,29 +58,29 @@ Vilnius
 
 
 
-### 3 straipsnis. 91 straipsnio 3 dalies 1 ir 2 punktų pakeitimas
+### 3 straipsnis. 91 straipsnio 3 dalies 1 ir 2 punktų pakeitimas ^s-9bd9ebbdc927b7905d6de6a6
 
 
-1. 91 straipsnio 3 dalies 1 punkte vietoj skaičiaus ir žodžio „19 procentų“ įrašyti skaičių ir žodį „21 procento“ ir šį punktą išdėstyti taip: ^acbcd0307cbe3de1118d86e6
+1. 91 straipsnio 3 dalies 1 punkte vietoj skaičiaus ir žodžio „19 procentų“ įrašyti skaičių ir žodį „21 procento“ ir šį punktą išdėstyti taip: ^s-67744926d9199aeb503b81ab
 
 
 „1) sąlyginę 21 procento PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, kurioms pritaikytas 0 procentų PVM tarifas, ir“.
 
 
-2. 91 straipsnio 3 dalies 2 punkte vietoj skaičiaus ir žodžio „19 procentų“ įrašyti skaičių ir žodį „21 procento“ ir šį punktą išdėstyti taip: ^5ceb1b6c68bf725ce8d4dac3
+2. 91 straipsnio 3 dalies 2 punkte vietoj skaičiaus ir žodžio „19 procentų“ įrašyti skaičių ir žodį „21 procento“ ir šį punktą išdėstyti taip: ^s-80bf11bbca568f322bd40b16
 
 
 „2) sąlyginę 21 procento PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, nurodytų šio Įstatymo 58 straipsnio 1 dalies 2 punkte, ir“.
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-c3197d6ff79be386609886ad
 
 
-1. Šis įstatymas įsigalioja 2009 m. rugsėjo 1 d. ^e46025e58623b902272b18dd
+1. Šis įstatymas įsigalioja 2009 m. rugsėjo 1 d. ^s-dbaf15889194a9076b019d0e
 
 
-2. Neatsižvelgiant į šio įstatymo [[#1 straipsnis. 2 straipsnio 32 dalies pakeitimas|1 straipsnio]] nuostatas, cigarečių ir kito apdoroto tabako, kurie privalo būti paženklinti specialiais ženklais – banderolėmis, kurios buvo užsakytos iki 2009 m. rugsėjo 1 d. ir kuriose maksimali mažmeninė kaina yra nustatyta atsižvelgiant į iki 2009 m. rugsėjo 1 d. galiojusį 19 procentų PVM tarifą, tiekimui iki 2009 m. gruodžio 1 d. taikomas 19 procentų PVM tarifas. ^bf834c66b181f89be5456341
+2. Neatsižvelgiant į šio įstatymo [[#^s-30e4a5a129915a4c16020653|1 straipsnio]] nuostatas, cigarečių ir kito apdoroto tabako, kurie privalo būti paženklinti specialiais ženklais – banderolėmis, kurios buvo užsakytos iki 2009 m. rugsėjo 1 d. ir kuriose maksimali mažmeninė kaina yra nustatyta atsižvelgiant į iki 2009 m. rugsėjo 1 d. galiojusį 19 procentų PVM tarifą, tiekimui iki 2009 m. gruodžio 1 d. taikomas 19 procentų PVM tarifas. ^s-56c3539d7aee35bb8fd05298
 
 
 

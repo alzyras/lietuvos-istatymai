@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA268B94BF0B"
 pavadinimas: "Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-01"
 latest_path: "latest/TAR.DA268B94BF0B.md"
 latest_sha256: "0a21b89720a17fca56992d00cb7f1be791489d2400d43cb103fbebdb4cef279d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA268B94BF0B]]"
 ---
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA268B94BF0B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA268B94BF0B
+- Ryšiai: [[Ryšiai/TAR.DA268B94BF0B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-25111f8c76bb5374428d6f27
 
 
 6 straipsnio 3 dalyje vietoj žodžių „Valstybinės lošimų priežiūros komisijos“ įrašyti žodžius „Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3d508face1bb9d84b02d3bc8
 
 
 Šis įstatymas įsigalioja 2012 m. kovo 1 d.

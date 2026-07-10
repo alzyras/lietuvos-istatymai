@@ -4,12 +4,19 @@
 .idea/
 .vscode/
 
+# Shared Obsidian graph defaults are tracked; personal workspace state stays local.
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/core-plugins.json
+!.obsidian/graph.json
+
 # Generator/runtime artefacts must not be committed to the data repo.
 .cache/
 .venv/
 __pycache__/
 .pytest_cache/
 .ruff_cache/
+_site/
 *.py[cod]
 *.sqlite3
 *.sqlite3-shm

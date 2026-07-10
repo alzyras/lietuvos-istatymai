@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8FF4E34B9483"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 13, 15, 24, 34, 39, 44, 49, 51, 52, 53, 54, 56, 60 straipsnių ir priedo pakeitimo ir papildymo, įstatymo papildymo 45(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 13, 15, 24, 34, 39, 44, 49, 51, 52, 53, 54, 56, 60 straipsnių ir priedo pakeitimo ir papildymo, įstatymo papildymo 45(1) straipsniu įstatymas"
+  - "akcinių bendrovių įstatymo 13, 15, 24, 34, 39, 44, 49, 51, 52, 53, 54, 56, 60 straipsnių ir priedo pakeitimo ir papildymo, įstatymo papildymo 45(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-01"
 latest_path: "latest/TAR.8FF4E34B9483.md"
 latest_sha256: "9f8c1d4221e562410a80e93d89a796d699c80abaede7c4430dacfd78d2ef7057"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8FF4E34B9483]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 13, 15, 24, 34, 39, 44, 49, 51, 52, 53, 54, 56, 60 straipsnių ir priedo pakeitimo ir papildymo, įstatymo papildymo 45(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8FF4E34B9483.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8FF4E34B9483
+- Ryšiai: [[Ryšiai/TAR.8FF4E34B9483|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,63 +38,63 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 13 straipsnio papildymas ir pakeitimas ^s-129a8a6fd74f99017c0e9f98
 
 
-1. Papildyti [[#13 straipsnis. 56 straipsnio 6 dalies pakeitimas|13 straipsnį]] nauja [[#^d191f7fd477c709296c48272|3 dalimi]]: ^d5671a930b795cadf862e759
+1. Papildyti [[#^s-75d836c9b550d8c20dc2f00d|13 straipsnį]] nauja [[#^s-f4c054d8e29bb56c1ed68e42|3 dalimi]]: ^s-a18279775aab7c780a173f83
 
 
 „3. Šio straipsnio 1 dalyje nurodyto turto vertė gali būti nustatoma nesilaikant šio straipsnio 2 dalyje nustatytų reikalavimų. Tokiu atveju mutatis mutandis taikomas šio Įstatymo 451 straipsnis.“
 
 
-2. Buvusias [[#13 straipsnis. 56 straipsnio 6 dalies pakeitimas|13 straipsnio]] 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^13962f930ad8a267769dfaa3
+2. Buvusias [[#^s-75d836c9b550d8c20dc2f00d|13 straipsnio]] 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-d34c3142a233ba7e469d9e09
 
 
-3. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip: ^d191f7fd477c709296c48272
+3. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip: ^s-f4c054d8e29bb56c1ed68e42
 
 
 „4. Turto vertinimo ataskaita arba šio Įstatymo 451 straipsnio 5 dalyje nurodyta pažyma ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo turi būti pateikta akcinei bendrovei ir juridinių asmenų registro tvarkytojui.“
 
 
 
-### 2 straipsnis. 15 straipsnio papildymas
+### 2 straipsnis. 15 straipsnio papildymas ^s-a9a72acfa12a9664bf6756f5
 
 
 Papildyti 15 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
-„[[#15 straipsnis. Įstatymo priedo papildymas|15 straipsnis]]. Turtinės akcininkų teisės
+„[[#^s-a63436abc81cf998a35ff44d|15 straipsnis]]. Turtinės akcininkų teisės
 
 
-1. Akcininkai turi šias turtines teises: ^d93fa1a3ab53a7d408f16bad
+1. Akcininkai turi šias turtines teises: ^s-d378b059de5e87badc113d29
 
 
-1) gauti bendrovės pelno dalį (dividendą); ^1c78e4c577b3f9db76e2160b
+1) gauti bendrovės pelno dalį (dividendą); ^s-d7c31952efbcd46bcfd1f617
 
 
-2) gauti bendrovės lėšų, kai bendrovės įstatinis kapitalas mažinamas siekiant akcininkams išmokėti bendrovės lėšų; ^72535af8636eecd998603b1e
+2) gauti bendrovės lėšų, kai bendrovės įstatinis kapitalas mažinamas siekiant akcininkams išmokėti bendrovės lėšų; ^s-d39d82779138d3f0dee4ea51
 
 
-3) nemokamai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėšų, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytas išimtis; ^e2069df914d17dff6bafd5c6
+3) nemokamai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėšų, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytas išimtis; ^s-333328f37779cb311200f837
 
 
-4) pirmumo teise įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų, išskyrus atvejį, kai visuotinis akcininkų susirinkimas šio Įstatymo nustatyta tvarka nusprendžia pirmumo teisę visiems akcininkams atšaukti; ^21296593dd0f44cc0163e275
+4) pirmumo teise įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų, išskyrus atvejį, kai visuotinis akcininkų susirinkimas šio Įstatymo nustatyta tvarka nusprendžia pirmumo teisę visiems akcininkams atšaukti; ^s-8bdd6fe5561f9a494434a820
 
 
-5) įstatymų nustatytais būdais skolinti bendrovei, tačiau bendrovė, skolindamasi iš savo akcininkų, neturi teisės įkeisti akcininkams savo turto. Bendrovei skolinantis iš akcininko, palūkanos negali viršyti paskolos davėjo gyvenamojoje ar verslo vietoje esančių komercinių bankų vidutinės palūkanų normos, galiojusios paskolos sutarties sudarymo momentu. Tokiu atveju bendrovei ir akcininkams draudžiama susitarti dėl didesnių palūkanų dydžio; ^628207e72094e8f50eb8b0a4
+5) įstatymų nustatytais būdais skolinti bendrovei, tačiau bendrovė, skolindamasi iš savo akcininkų, neturi teisės įkeisti akcininkams savo turto. Bendrovei skolinantis iš akcininko, palūkanos negali viršyti paskolos davėjo gyvenamojoje ar verslo vietoje esančių komercinių bankų vidutinės palūkanų normos, galiojusios paskolos sutarties sudarymo momentu. Tokiu atveju bendrovei ir akcininkams draudžiama susitarti dėl didesnių palūkanų dydžio; ^s-b17f5972b09a6d914ef0c672
 
 
-6) gauti likviduojamos bendrovės turto dalį; ^da44ecdd2938f865b1303800
+6) gauti likviduojamos bendrovės turto dalį; ^s-f258affe9a9b0c008500253e
 
 
-7) kitas šio ir kitų įstatymų nustatytas turtines teises. ^c3fa3a14166a309eb7cec7b6
+7) kitas šio ir kitų įstatymų nustatytas turtines teises. ^s-f240d8fc6ff20a34a123a959
 
 
-2. [[#^d93fa1a3ab53a7d408f16bad|Šio straipsnio 1 dalies]] 1, 2, 3 ir 4 punktuose nurodytas teises akcinėse bendrovėse turi asmenys, kurie buvo akcinės bendrovės akcininkai dešimtos darbo dienos po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo pabaigoje (toliau – teisių apskaitos dienos pabaigoje).“ ^1c535fc4486445f80d5b0621
+2. [[#^s-d378b059de5e87badc113d29|Šio straipsnio 1 dalies]] 1, 2, 3 ir 4 punktuose nurodytas teises akcinėse bendrovėse turi asmenys, kurie buvo akcinės bendrovės akcininkai dešimtos darbo dienos po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo pabaigoje (toliau – teisių apskaitos dienos pabaigoje).“ ^s-51afb2580a7c9984387e9826
 
 
 
-### 3 straipsnis. 24 straipsnio 2 dalies 4 punkto pakeitimas
+### 3 straipsnis. 24 straipsnio 2 dalies 4 punkto pakeitimas ^s-762b86a4e3e00068cc36a174
 
 
 Pakeisti 24 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
@@ -99,7 +104,7 @@ Pakeisti 24 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 34 straipsnio 4 dalies 8 punkto pakeitimas
+### 4 straipsnis. 34 straipsnio 4 dalies 8 punkto pakeitimas ^s-225cb341c4f4bb0edc3223f6
 
 
 Pakeisti 34 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
@@ -109,29 +114,29 @@ Pakeisti 34 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 39 straipsnio 4, 5 ir 7 dalių pakeitimas
+### 5 straipsnis. 39 straipsnio 4, 5 ir 7 dalių pakeitimas ^s-5a008aab100fe1dc5e3511ad
 
 
-1. Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip: ^255295f1ea3957a728ffb2a7
+1. Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip: ^s-a41e1a594be190f0ed2ea16c
 
 
 „4. Kiti rezervai sudaromi iš paskirstytinojo pelno ir naudojami konkretiems bendrovės tikslams įgyvendinti. Jie gali būti naudojami bendrovės nuostoliams padengti ir įstatiniam kapitalui didinti.“
 
 
-2. Pakeisti 39 straipsnio 5 dalį ir ją išdėstyti taip: ^f15b59f11ea15cd57e211ce6
+2. Pakeisti 39 straipsnio 5 dalį ir ją išdėstyti taip: ^s-4c51e0a5c12aac53b68140ba
 
 
 „5. Šio straipsnio 3 ir 4 dalyse nurodyti rezervai gali būti sudaromi tik po to, kai yra atliktas šio Įstatymo 59 straipsnio 5 dalyje nustatyto dydžio atskaitymas į privalomąjį rezervą.“
 
 
-3. Pakeisti 39 straipsnio 7 dalį ir ją išdėstyti taip: ^dd183a4daad07b51b832b1d5
+3. Pakeisti 39 straipsnio 7 dalį ir ją išdėstyti taip: ^s-567f249d1b3e168b9a6d015e
 
 
 „7. Perkainojimo rezervas – tai ilgalaikio materialiojo turto ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Perkainojimo rezervu arba jo dalimi gali būti didinamas įstatinis kapitalas. Iš perkainojimo rezervo negali būti mažinami nuostoliai.“
 
 
 
-### 6 straipsnis. 44 straipsnio 9 dalies pakeitimas
+### 6 straipsnis. 44 straipsnio 9 dalies pakeitimas ^s-bd7ae309c110a24484dd1ad9
 
 
 Pakeisti 44 straipsnio 9 dalį ir ją išdėstyti taip:
@@ -141,7 +146,7 @@ Pakeisti 44 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Įstatymo papildymas 451 straipsniu
+### 7 straipsnis. Įstatymo papildymas 451 straipsniu ^s-7320cb2c829558253135bd6a
 
 
 Papildyti Įstatymą 451 straipsniu:
@@ -150,56 +155,56 @@ Papildyti Įstatymą 451 straipsniu:
 „451 straipsnis. Akcijų apmokėjimo nepiniginiu įnašu, bendrovei didinant įstatinį kapitalą, ypatumai
 
 
-1. Šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų gali būti nesilaikoma, jeigu, bendrovei didinant įstatinį kapitalą, akcijos visiškai ar iš dalies apmokamos: ^aec2a85b8d0537992e98fa13
+1. Šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų gali būti nesilaikoma, jeigu, bendrovei didinant įstatinį kapitalą, akcijos visiškai ar iš dalies apmokamos: ^s-d1f10c6e53cc943d468b4386
 
 
-1) perleidžiamaisiais vertybiniais popieriais arba pinigų rinkos priemonėmis, jeigu tokiais perleidžiamaisiais vertybiniais popieriais arba pinigų rinkos priemonėmis yra prekiaujama vienoje ar keliose rinkose, kurios pagal Finansinių priemonių rinkų įstatymą laikomos reguliuojamomis ir veikia Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, taip pat Europos ekonominei erdvei priklausančioje valstybėje. Tokių perleidžiamųjų vertybinių popierių arba pinigų rinkos priemonių verte yra laikoma jų vidutinė svertinė rinkos kaina per 6 mėnesius iki apmokėjimo tokiais nepiniginiais įnašais dienos; ^72cab03f8e250a1f8e707fe3
+1) perleidžiamaisiais vertybiniais popieriais arba pinigų rinkos priemonėmis, jeigu tokiais perleidžiamaisiais vertybiniais popieriais arba pinigų rinkos priemonėmis yra prekiaujama vienoje ar keliose rinkose, kurios pagal Finansinių priemonių rinkų įstatymą laikomos reguliuojamomis ir veikia Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, taip pat Europos ekonominei erdvei priklausančioje valstybėje. Tokių perleidžiamųjų vertybinių popierių arba pinigų rinkos priemonių verte yra laikoma jų vidutinė svertinė rinkos kaina per 6 mėnesius iki apmokėjimo tokiais nepiniginiais įnašais dienos; ^s-3fab7913b344b8bfc0d70597
 
 
-2) nepiniginiu įnašu, išskyrus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, kurio vertę jau yra nustatęs nepriklausomas turto vertintojas ir jeigu nepiniginio įnašo vertinimas atliktas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka, o nepiniginio įnašo vertė nustatyta ne anksčiau kaip prieš 6 mėnesius iki apmokėjimo nepiniginiu įnašu dienos. ^b31a0830b30eae8beb6f424d
+2) nepiniginiu įnašu, išskyrus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, kurio vertę jau yra nustatęs nepriklausomas turto vertintojas ir jeigu nepiniginio įnašo vertinimas atliktas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka, o nepiniginio įnašo vertė nustatyta ne anksčiau kaip prieš 6 mėnesius iki apmokėjimo nepiniginiu įnašu dienos. ^s-26fcb25043c5a5a1d981f31d
 
 
-2. Sprendimą dėl akcijų apmokėjimo nepiniginiu įnašu, nesilaikant šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų, priima bendrovės valdyba (jei valdyba nesudaroma, – bendrovės vadovas). ^efc36ffeca542ee379a376b9
+2. Sprendimą dėl akcijų apmokėjimo nepiniginiu įnašu, nesilaikant šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų, priima bendrovės valdyba (jei valdyba nesudaroma, – bendrovės vadovas). ^s-e6952d665cad78427ce33793
 
 
-3. Bendrovės valdybos (jei valdyba nesudaroma, – bendrovės vadovo) iniciatyva nepiniginis įnašas turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka ir pagal šio Įstatymo 8 straipsnio 8 dalyje nustatytus reikalavimus turi būti parengta turto vertinimo ataskaita, jei: ^83243ea9dd99fd9dc310077e
+3. Bendrovės valdybos (jei valdyba nesudaroma, – bendrovės vadovo) iniciatyva nepiniginis įnašas turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka ir pagal šio Įstatymo 8 straipsnio 8 dalyje nustatytus reikalavimus turi būti parengta turto vertinimo ataskaita, jei: ^s-e0d0ab2238e0bc51a6e2cc69
 
 
-1) [[#^72cab03f8e250a1f8e707fe3|šio straipsnio 1 dalies 1 punkte]] nurodytų perleidžiamųjų vertybinių popierių arba pinigų rinkos priemonių vertei nustatyti įtakos turėjo išimtinės aplinkybės, kurios iki apmokėjimo nepiniginiu įnašu dienos ir apmokėjimo nepiniginiu įnašu dieną labai pakeistų tokio nepiniginio įnašo vertę, įskaitant atvejus, kai perleidžiamieji vertybiniai popieriai arba pinigų rinkos priemonės tapo nelikvidūs; ^5c33d502a2d85064be2825df
+1) [[#^s-3fab7913b344b8bfc0d70597|šio straipsnio 1 dalies 1 punkte]] nurodytų perleidžiamųjų vertybinių popierių arba pinigų rinkos priemonių vertei nustatyti įtakos turėjo išimtinės aplinkybės, kurios iki apmokėjimo nepiniginiu įnašu dienos ir apmokėjimo nepiniginiu įnašu dieną labai pakeistų tokio nepiniginio įnašo vertę, įskaitant atvejus, kai perleidžiamieji vertybiniai popieriai arba pinigų rinkos priemonės tapo nelikvidūs; ^s-0c2dcff51bb825dc42bd6d9d
 
 
-2) atsirado naujų svarbių aplinkybių, kurios iki akcijų apmokėjimo nepiniginiu įnašu dienos ir apmokėjimo nepiniginiu įnašu dieną labai pakeistų nepiniginio įnašo vertę, nustatytą [[#^b31a0830b30eae8beb6f424d|šio straipsnio 1 dalies 2 punkte]] nurodytu būdu. ^0795d8c47be974ebc8a1c9ed
+2) atsirado naujų svarbių aplinkybių, kurios iki akcijų apmokėjimo nepiniginiu įnašu dienos ir apmokėjimo nepiniginiu įnašu dieną labai pakeistų nepiniginio įnašo vertę, nustatytą [[#^s-26fcb25043c5a5a1d981f31d|šio straipsnio 1 dalies 2 punkte]] nurodytu būdu. ^s-0fd798467c0217c9b0b82915
 
 
-4. Neatlikus nepiniginio įnašo vertinimo [[#^0795d8c47be974ebc8a1c9ed|šio straipsnio 3 dalies 2 punkte]] nurodytu atveju, vienas ar daugiau akcininkų, kuriems visuotinio akcininkų susirinkimo sprendimo dėl įstatinio kapitalo didinimo dieną (akcinėje bendrovėje – susirinkimo apskaitos dienos pabaigoje) iš viso priklauso ne mažiau kaip 5 procentai bendrovės akcijų, gali reikalauti, kad nepiniginis įnašas būtų įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka ir pagal šio Įstatymo 8 straipsnio 8 dalyje nustatytus reikalavimus būtų parengta turto vertinimo ataskaita. Toks akcininkas arba akcininkai gali pateikti reikalavimą iki apmokėjimo nepiniginiu įnašu dienos, jeigu reikalavimo pateikimo dieną tokiam akcininkui ar akcininkams vis dar priklauso ne mažiau kaip 5 procentai bendrovės akcijų. ^8632e86d978a305ec64ddff6
+4. Neatlikus nepiniginio įnašo vertinimo [[#^s-0fd798467c0217c9b0b82915|šio straipsnio 3 dalies 2 punkte]] nurodytu atveju, vienas ar daugiau akcininkų, kuriems visuotinio akcininkų susirinkimo sprendimo dėl įstatinio kapitalo didinimo dieną (akcinėje bendrovėje – susirinkimo apskaitos dienos pabaigoje) iš viso priklauso ne mažiau kaip 5 procentai bendrovės akcijų, gali reikalauti, kad nepiniginis įnašas būtų įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka ir pagal šio Įstatymo 8 straipsnio 8 dalyje nustatytus reikalavimus būtų parengta turto vertinimo ataskaita. Toks akcininkas arba akcininkai gali pateikti reikalavimą iki apmokėjimo nepiniginiu įnašu dienos, jeigu reikalavimo pateikimo dieną tokiam akcininkui ar akcininkams vis dar priklauso ne mažiau kaip 5 procentai bendrovės akcijų. ^s-b257694ab3cff16890af5471
 
 
-5. Jeigu apmokėjimas nepiniginiu įnašu atliekamas nesilaikant šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų, ne vėliau kaip per 10 dienų nuo apmokėjimo nepiniginiu įnašu dienos turi būti parengta pažyma. Pažymoje nurodoma: ^88a5ad3d5ed87f318591b925
+5. Jeigu apmokėjimas nepiniginiu įnašu atliekamas nesilaikant šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų, ne vėliau kaip per 10 dienų nuo apmokėjimo nepiniginiu įnašu dienos turi būti parengta pažyma. Pažymoje nurodoma: ^s-3e2d9c119465227710532c02
 
 
-1) akcijų, apmokėtų nepiniginiu įnašu, skaičius, nominali vertė, kiekvieno iš įvertinto turto elementų aprašymas ir asmuo, kuris apmoka akcijas nepiniginiu įnašu (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė); ^abed52e68f77afe93785d961
+1) akcijų, apmokėtų nepiniginiu įnašu, skaičius, nominali vertė, kiekvieno iš įvertinto turto elementų aprašymas ir asmuo, kuris apmoka akcijas nepiniginiu įnašu (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė); ^s-9720149a361d93fbed2d27c8
 
 
-2) nepiniginio įnašo vertė, vertės nustatymo šaltinis ir, kai akcijos visiškai ar iš dalies apmokamos nepiniginiu įnašu, kurio vertė nustatyta [[#^b31a0830b30eae8beb6f424d|šio straipsnio 1 dalies 2 punkte]] nurodytu būdu, vertės nustatymo metodas; ^5edb9b6bb4ce5e33ec436786
+2) nepiniginio įnašo vertė, vertės nustatymo šaltinis ir, kai akcijos visiškai ar iš dalies apmokamos nepiniginiu įnašu, kurio vertė nustatyta [[#^s-26fcb25043c5a5a1d981f31d|šio straipsnio 1 dalies 2 punkte]] nurodytu būdu, vertės nustatymo metodas; ^s-a982e2a7f0fa1972cb42e734
 
 
-3) išvada, ar nustatyta nepiniginio įnašo vertė atitinka akcijų, numatomų išleisti už šį įnašą, skaičių pagal jų nominalių verčių ir akcijų priedų (akcijų nominalių verčių perviršio) sumą; ^65f25d645cbb046e0ff46da2
+3) išvada, ar nustatyta nepiniginio įnašo vertė atitinka akcijų, numatomų išleisti už šį įnašą, skaičių pagal jų nominalių verčių ir akcijų priedų (akcijų nominalių verčių perviršio) sumą; ^s-3bd1129c10753f80c50a5b92
 
 
-4) išvada, kad neiškilo išimtinių ar naujų svarbių aplinkybių, susijusių su pirminiu nepiniginio įnašo vertės nustatymu. ^134852a99b5bd03f2c20540a
+4) išvada, kad neiškilo išimtinių ar naujų svarbių aplinkybių, susijusių su pirminiu nepiniginio įnašo vertės nustatymu. ^s-f8d414042b6c6957faa2a264
 
 
-6. [[#^aec2a85b8d0537992e98fa13|Šio straipsnio 1 dalyje]] nustatytais atvejais nepiniginis įnašas turi būti perduotas bendrovei per pradinių įnašų mokėjimo terminą. ^3cc9b7ad170ddbe463ed212c
+6. [[#^s-d1f10c6e53cc943d468b4386|Šio straipsnio 1 dalyje]] nustatytais atvejais nepiniginis įnašas turi būti perduotas bendrovei per pradinių įnašų mokėjimo terminą. ^s-1b8801fbcd2da33eecc4361b
 
 
-7. [[#^b31a0830b30eae8beb6f424d|Šio straipsnio 1 dalies 2 punkte]], 3 ir [[#^8632e86d978a305ec64ddff6|4 dalyse]] nurodyta turto vertinimo ataskaita kartu su kitais dėl įstatinio kapitalo padidinimo pakeistiems bendrovės įstatams įregistruoti įstatymų nustatytais dokumentais turi būti pateikta juridinių asmenų registro tvarkytojui. [[#^88a5ad3d5ed87f318591b925|Šio straipsnio 5 dalyje]] nurodyta pažyma turi būti pateikta juridinių asmenų registro tvarkytojui ne vėliau kaip per vieną mėnesį nuo apmokėjimo nepiniginiu įnašu dienos. ^b95a37b3c54c3b71f1eedb0d
+7. [[#^s-26fcb25043c5a5a1d981f31d|Šio straipsnio 1 dalies 2 punkte]], 3 ir [[#^s-b257694ab3cff16890af5471|4 dalyse]] nurodyta turto vertinimo ataskaita kartu su kitais dėl įstatinio kapitalo padidinimo pakeistiems bendrovės įstatams įregistruoti įstatymų nustatytais dokumentais turi būti pateikta juridinių asmenų registro tvarkytojui. [[#^s-3e2d9c119465227710532c02|Šio straipsnio 5 dalyje]] nurodyta pažyma turi būti pateikta juridinių asmenų registro tvarkytojui ne vėliau kaip per vieną mėnesį nuo apmokėjimo nepiniginiu įnašu dienos. ^s-d1b9f534e62827bd7701b4da
 
 
-8. Už šiame straipsnyje nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas.“ ^5f2e8da6f1b05c4a6dcc7d50
+8. Už šiame straipsnyje nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas.“ ^s-55766af5292737e3965c32b5
 
 
 
-### 8 straipsnis. 49 straipsnio 5 dalies pakeitimas
+### 8 straipsnis. 49 straipsnio 5 dalies pakeitimas ^s-b6451a0293bc0783425c9d21
 
 
 Pakeisti 49 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -209,7 +214,7 @@ Pakeisti 49 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 51 straipsnio 4 dalies pakeitimas
+### 9 straipsnis. 51 straipsnio 4 dalies pakeitimas ^s-66c48965b8f3a67057ea1079
 
 
 Pakeisti 51 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -219,67 +224,67 @@ Pakeisti 51 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 52 straipsnio 6 dalies 2 punkto ir 8 dalies pakeitimas
+### 10 straipsnis. 52 straipsnio 6 dalies 2 punkto ir 8 dalies pakeitimas ^s-4888f19aafa4a3a23647f46d
 
 
-1. Papildyti 52 straipsnio 6 dalies 2 punktą ir jį išdėstyti taip: ^7446d4f7bb59200046c92efb
+1. Papildyti 52 straipsnio 6 dalies 2 punktą ir jį išdėstyti taip: ^s-fb3ff2d3acde3a967286e9bb
 
 
 „2) bendrovės metinėje finansinėje atskaitomybėje nėra nepaskirstytųjų nuostolių ir ilgalaikių įsipareigojimų. Reikalavimas dėl ilgalaikių įsipareigojimų netaikomas, kai dėl to yra rašytinis visų kreditorių, kuriems bendrovė turi ilgalaikių įsipareigojimų, sutikimas.“
 
 
-2. Pakeisti 52 straipsnio 8 dalį ir ją išdėstyti taip: ^15317d3bf383a81c490115b3
+2. Pakeisti 52 straipsnio 8 dalį ir ją išdėstyti taip: ^s-2c386d0c2e6dcfb0de460fe7
 
 
 „8. Sumažinus įstatinį kapitalą, siekiant akcininkams išmokėti bendrovės lėšų, su akcininkais atsiskaitoma tik pinigais. Pinigai akcininkams gali būti išmokami ne anksčiau, negu pakeisti bendrovės įstatai įregistruojami juridinių asmenų registre, ir turi būti išmokėti per vieną mėnesį nuo pakeistų bendrovės įstatų įregistravimo dienos. Išmokas turi teisę gauti asmenys, kurie visuotinio akcininkų susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turi tokią teisę, o išmokų dydžiai turi būti proporcingi jų turėtų akcijų nominalių verčių sumai. Per šioje dalyje nustatyto vieno mėnesio terminą išmokų negavę asmenys turi teisę jiems priklausančias lėšas išreikalauti iš bendrovės kaip jos kreditoriai.“
 
 
 
-### 11 straipsnis. 53 straipsnio papildymas ir pakeitimas
+### 11 straipsnis. 53 straipsnio papildymas ir pakeitimas ^s-a21cf44750a2dedbf87f4d6d
 
 
-1. Papildyti 53 straipsnį nauja 5 dalimi: ^5dc1cba2fe04b7ee0ee394ef
+1. Papildyti 53 straipsnį nauja 5 dalimi: ^s-ab62f68dc16c1d7038568288
 
 
 „5. Ginčus dėl prievolių įvykdymo papildomo užtikrinimo bendrovei mažinant įstatinį kapitalą sprendžia teismas.“
 
 
-2. Buvusias 53 straipsnio 5, 6, 7 dalis laikyti atitinkamai 6, 7, 8 dalimis. ^3e4454b162c01c366089f68b
+2. Buvusias 53 straipsnio 5, 6, 7 dalis laikyti atitinkamai 6, 7, 8 dalimis. ^s-8c92c65bddf08d3ed5fa7baf
 
 
-3. 53 straipsnio 6 dalyje vietoj skaičiaus ir žodžio „6 dalyje“ įrašyti skaičių ir žodį „7 dalyje“ ir šią dalį išdėstyti taip: ^7cc6920a36cf3fec6f812aca
+3. 53 straipsnio 6 dalyje vietoj skaičiaus ir žodžio „6 dalyje“ įrašyti skaičių ir žodį „7 dalyje“ ir šią dalį išdėstyti taip: ^s-96c934192fb4a85b3f74fdf1
 
 
-„6. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio 1 ir [[#^3e4454b162c01c366089f68b|2 dalyse]] nustatyti veiksmai, bet ne anksčiau kaip praėjus 3 mėnesiams nuo juridinių asmenų registro tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos ir ne vėliau kaip praėjus 6 mėnesiams nuo sprendimo sumažinti įstatinį kapitalą priėmimo dienos, išskyrus šio straipsnio 7 dalyje nurodytą atvejį. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro tvarkytojui nesilaikant šioje dalyje nustatyto 3 mėnesių termino, jeigu:
+„6. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio 1 ir [[#^s-8c92c65bddf08d3ed5fa7baf|2 dalyse]] nustatyti veiksmai, bet ne anksčiau kaip praėjus 3 mėnesiams nuo juridinių asmenų registro tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos ir ne vėliau kaip praėjus 6 mėnesiams nuo sprendimo sumažinti įstatinį kapitalą priėmimo dienos, išskyrus šio straipsnio 7 dalyje nurodytą atvejį. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro tvarkytojui nesilaikant šioje dalyje nustatyto 3 mėnesių termino, jeigu:
 
 
-1) bendrovė neturi kreditorinių įsiskolinimų ir apie įstatinio kapitalo mažinimą buvo viešai paskelbta, kaip nustatyta [[#^5dc1cba2fe04b7ee0ee394ef|šio straipsnio 1 dalyje]]; ^890c663899b861f4f9c0c8af
+1) bendrovė neturi kreditorinių įsiskolinimų ir apie įstatinio kapitalo mažinimą buvo viešai paskelbta, kaip nustatyta [[#^s-ab62f68dc16c1d7038568288|šio straipsnio 1 dalyje]]; ^s-979a001b7c207b3f2a472b8e
 
 
-2) įstatinis kapitalas mažinamas vien tam, kad būtų panaikinti bendrovės balanse įrašyti nuostoliai; ^705f6f4b083e0871284f949d
+2) įstatinis kapitalas mažinamas vien tam, kad būtų panaikinti bendrovės balanse įrašyti nuostoliai; ^s-0ca3370eb5862ed12c1b234b
 
 
-3) įstatinis kapitalas mažinamas, kad būtų ištaisytos įstatinio kapitalo sudarymo ar didinimo metu padarytos klaidos.“ ^9d38b0312aa659a2c23ee336
+3) įstatinis kapitalas mažinamas, kad būtų ištaisytos įstatinio kapitalo sudarymo ar didinimo metu padarytos klaidos.“ ^s-6922ac731b1df87c6962c073
 
 
 
-### 12 straipsnis. 54 straipsnio 1 ir 4 dalių pakeitimas
+### 12 straipsnis. 54 straipsnio 1 ir 4 dalių pakeitimas ^s-0e301efad2ec5438fd7daa7f
 
 
-1. Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip: ^153061563634b57ea5210c29
+1. Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip: ^s-ca121f762ac7f2cd78609cce
 
 
 „1. Bendrovė turi teisę įsigyti savas akcijas pati ar per asmenį, veikiantį savo vardu, bet dėl šios bendrovės interesų ir bendrovės lėšomis, šio straipsnio nustatyta tvarka. Įsigydama savas akcijas, bendrovė turi užtikrinti lygias galimybes visiems akcininkams perleisti bendrovei jos akcijų.“
 
 
-2. Pakeisti 54 straipsnio 4 dalį ir ją išdėstyti taip: ^2be30822c940f84a7cd253c1
+2. Pakeisti 54 straipsnio 4 dalį ir ją išdėstyti taip: ^s-292cdfda6960e7effb2f9c10
 
 
 „4. Bendrovė negali įsigyti savų akcijų, jeigu tokiu atveju jos nuosavas kapitalas taptų mažesnis už apmokėto įstatinio kapitalo, privalomojo rezervo ir rezervo savoms akcijoms įsigyti sumą.“
 
 
 
-### 13 straipsnis. 56 straipsnio 6 dalies pakeitimas
+### 13 straipsnis. 56 straipsnio 6 dalies pakeitimas ^s-75d836c9b550d8c20dc2f00d
 
 
 Pakeisti 56 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -289,7 +294,7 @@ Pakeisti 56 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 14 straipsnis. 60 straipsnio 6 dalies pakeitimas
+### 14 straipsnis. 60 straipsnio 6 dalies pakeitimas ^s-b064930dabb3aea6d21d9111
 
 
 Pakeisti 60 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -299,7 +304,7 @@ Pakeisti 60 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 15 straipsnis. Įstatymo priedo papildymas
+### 15 straipsnis. Įstatymo priedo papildymas ^s-a63436abc81cf998a35ff44d
 
 
 Papildyti Įstatymo priedą 9 punktu:
@@ -309,13 +314,13 @@ Papildyti Įstatymo priedą 9 punktu:
 
 
 
-### 16 straipsnis. Baigiamosios nuostatos
+### 16 straipsnis. Baigiamosios nuostatos ^s-5cb44580bfada065b8e58087
 
 
-1. Šis įstatymas įsigalioja 2008 m. liepos 1 d. ^8136e5ba40d84badbcefb75f
+1. Šis įstatymas įsigalioja 2008 m. liepos 1 d. ^s-0a2542a42d411d6b0315f6b1
 
 
-2. Vyriausybė iki šio įstatymo įsigaliojimo Juridinių asmenų registro nuostatus papildo normomis, reikalingomis šio įstatymo taikymui užtikrinti. ^68b390b49f9671527efdf93a
+2. Vyriausybė iki šio įstatymo įsigaliojimo Juridinių asmenų registro nuostatus papildo normomis, reikalingomis šio įstatymo taikymui užtikrinti. ^s-33da5b450ff2aeef252aec0c
 
 
 

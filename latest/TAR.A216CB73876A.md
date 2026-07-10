@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A216CB73876A"
 pavadinimas: "Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas"
+  - "gyventojų pensinio aprūpinimo gerinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-01-01"
 latest_path: "latest/TAR.A216CB73876A.md"
 latest_sha256: "b3a325df3453baded9d89e82d224e228cdba817bd5deb270405904db1b05acc6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A216CB73876A]]"
 ---
 # Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A216CB73876A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A216CB73876A
+- Ryšiai: [[Ryšiai/TAR.A216CB73876A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -41,14 +46,14 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
 
-### 1 straipsnis.
+### 1 straipsnis. ^s-25401f381e924943477c90f5
 
 
 Padidinti visų rūšių pensijas, paskirtas iki šio įstatymo įsigaliojimo: 10 rublių, jeigu žmogus gavo iki 10 metų imtinai; 15 rublių – nuo 10 iki 15 metų; 20 rublių – nuo 15 iki 20 metų; 30 rublių – nuo 20 iki 25 metų; 40 rublių – nuo 25 metų ir daugiau.
 
 
 
-### 2 straipsnis.
+### 2 straipsnis. ^s-9079c2b5b838436c3cfac9f3
 
 
 Skirti ir mokėti socialines pensijas nedirbantiems asmenims, jeigu jie neturi teisės į kitos rūšies pensiją:
@@ -70,13 +75,13 @@ Invalidams nuo vaikystės skirti ir mokėti socialines pensijas nepriklausomai n
 
 
 
-### 3 straipsnis.
+### 3 straipsnis. ^s-53eede8af768e03b4dc1341e
 
 
 Nustatyti šiuos socialinių pensijų dydžius:
 
 
-a) I grupės invalidams, I ir II grupės invalidams nuo vaikystės ir vaikams invalidams iki 16 metų – 100 procentų minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]), bet ne mažiau už nustatytus mėnesinių pašalpų dydžius iki šio įstatymo įsigaliojimo;
+a) I grupės invalidams, I ir II grupės invalidams nuo vaikystės ir vaikams invalidams iki 16 metų – 100 procentų minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]), bet ne mažiau už nustatytus mėnesinių pašalpų dydžius iki šio įstatymo įsigaliojimo;
 Straipsnio punkto pakeitimai:
 Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990, Nr. 31-746 (1990-11-10), i. k. [[latest/TAR.F5AE6AD3A3A2|0901010ISTA000I-671]]
 
@@ -94,21 +99,21 @@ Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990
 
 
 
-### 4 straipsnis.
+### 4 straipsnis. ^s-470528c408e18bce51c448b8
 
 
 Jeigu tuo pat metu yra teisė į socialinę pensiją ir į senatvės ar invalidumo pensijų priedą už nedarbingus šeimos narius, suteikti gavėjui teisę pasirinkti skiriamą išmoką.
 
 
 
-### 5 straipsnis.
+### 5 straipsnis. ^s-4a2c6812f40d62e2e8928fc9
 
 
-Skiriant ir mokant socialines pensijas, atitinkamai taikyti šio įstatymo 28–[[#34 straipsnis.|34 straipsnius]].
+Skiriant ir mokant socialines pensijas, atitinkamai taikyti šio įstatymo 28–[[#^s-388b99156d02bf64e80f6cba|34 straipsnius]].
 
 
 
-### 6 straipsnis.
+### 6 straipsnis. ^s-92c0fb206ef3f0d66c9f1e25
 
 
 Nustatyti minimalią senatvės pensiją 70 procentų minimalaus gyvenimo lygio.
@@ -117,23 +122,23 @@ Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990
 
 
 
-### 7 straipsnis.
+### 7 straipsnis. ^s-05ae9be8d33dcd7a3477d581
 
 
 Suteikti teisę gauti senatvės pensiją I ir II grupės invalidų nuo vaikystės ir vaikų–invalidų iki 16 metų amžiaus motinoms, išauginusioms šiuos vaikus iki 8 metų, sukakusioms 50 metų ir turinčioms ne mažesnį kaip 15 metų darbo stažą. Kai į šį stažą įtraukiamas I grupės invalidų nuo vaikystės ir vaikų–invalidų iki 16 metų amžiaus priežiūros laikas, senatvės pensijai skirti reikalingas ne mažesnis kaip 20 metų darbo stažas.
 
 
 
-### 8 straipsnis.
+### 8 straipsnis. ^s-ad51106bee8746103cb8ab78
 
 
-Suteikti teisę į padidintą maksimalią senatvės pensiją anglies, metalurgijos bei kitų pramonės šakų ir statybos darbininkams ir tarnautojams, palikusiems darbą, duodantį teisę į pensiją, iki 1979 metų (iki padidintų maksimalių pensijų dydžių šios kategorijos darbuotojams nustatymo). Šių šakų darbuotojams, turintiems įstatymų nustatytą darbo stažą, reikalingą padidintam maksimaliam senatvės pensijos dydžiui gauti, pensiją apskaičiuoti nuo uždarbio (15 ir [[#26 straipsnis.|26 straipsniai]]) ir mokėti ne daugiau kaip 210 rublių per mėnesį.
+Suteikti teisę į padidintą maksimalią senatvės pensiją anglies, metalurgijos bei kitų pramonės šakų ir statybos darbininkams ir tarnautojams, palikusiems darbą, duodantį teisę į pensiją, iki 1979 metų (iki padidintų maksimalių pensijų dydžių šios kategorijos darbuotojams nustatymo). Šių šakų darbuotojams, turintiems įstatymų nustatytą darbo stažą, reikalingą padidintam maksimaliam senatvės pensijos dydžiui gauti, pensiją apskaičiuoti nuo uždarbio (15 ir [[#^s-c8f16da683eed1d8c164ece6|26 straipsniai]]) ir mokėti ne daugiau kaip 210 rublių per mėnesį.
 Straipsnio dalies pakeitimai:
 Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990, Nr. 31-746 (1990-11-10), i. k. [[latest/TAR.F5AE6AD3A3A2|0901010ISTA000I-671]]
 
 
 
-### 9 straipsnis.
+### 9 straipsnis. ^s-360f4e07d8953d0cefdf4a0b
 
 
 Nustatyti šiuos minimalius invalidumo pensijų dydžius darbininkams, tarnautojams, kolūkiečiams, moksleiviams ir kitiems piliečiams: I ir II grupės invalidams – 70 procentų, bet ne mažiau už nustatytus dydžius iki šio įstatymo įsigaliojimo, III grupės invalidams – 35 procentų minimalaus gyvenimo lygio.
@@ -142,72 +147,72 @@ Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990
 
 
 
-### 10 straipsnis.
+### 10 straipsnis. ^s-3df4d747b77ec66a43efdcd3
 
 
-Nustatyti, kad darbininkų, tarnautojų, kolūkiečių, moksleivių ir kitų piliečių šeimų narių minimalūs maitintojo netekimo pensijų dydžiai negali būti mažesni už socialinę pensiją, nustatytą atitinkamai nedarbingų žmonių kategorijai šio įstatymo [[#3 straipsnis.|3 straipsnio]] pirmosios dalies „a“ – „c“ punktuose ir ne mažesni už minimalius dydžius, nustatytus iki šio įstatymo įsigaliojimo.
+Nustatyti, kad darbininkų, tarnautojų, kolūkiečių, moksleivių ir kitų piliečių šeimų narių minimalūs maitintojo netekimo pensijų dydžiai negali būti mažesni už socialinę pensiją, nustatytą atitinkamai nedarbingų žmonių kategorijai šio įstatymo [[#^s-53eede8af768e03b4dc1341e|3 straipsnio]] pirmosios dalies „a“ – „c“ punktuose ir ne mažesni už minimalius dydžius, nustatytus iki šio įstatymo įsigaliojimo.
 
 Straipsnio dalies pakeitimai:
 Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990, Nr. 31-746 (1990-11-10), i. k. [[latest/TAR.F5AE6AD3A3A2|0901010ISTA000I-671]]
 
 
 
-### 11 straipsnis.
+### 11 straipsnis. ^s-7feaa4ac0f5ef10bf575a1f1
 
 
-Skirti maitintojo netekimo pensijas visiškiems našlaičiams, tai yra netekusiems abiejų tėvų vaikams arba mirusios vienišos motinos vaikams, – 30 procentų maitintojo darbo užmokesčio ([[#26 straipsnis.|26 straipsnis]]) kiekvienam vaikui, bet ne mažiau kaip dvigubą socialinės pensijos dydį, nustatytą atitinkamai nedarbingų žmonių kategorijai šio įstatymo [[#3 straipsnis.|3 straipsnio]] pirmosios dalies „a“ – „c“ punktuose. Vaikams – visiškiems našlaičiams ir kitiems šeimos, kurioje yra vaikų – visiškų našlaičių, nariams, turintiems teisę gauti maitintojo netekimo pensiją nors už vieną iš mirusių visiško našlaičio tėvų, pensiją apskaičiuoti iš bendros abiejų tėvų uždarbio sumos ([[#26 straipsnis.|26 straipsnis]]).
-
-
-
-### 12 straipsnis.
-
-
-Padidinti invalidumo ir maitintojo netekimo pensijas (tarp jų ir minimalaus dydžio) invalidams nuo vaikystės dėl sužeidimo, kontuzijos arba suluošinimo, susijusių su kovos veiksmais Antrojo pasaulinio karo metais arba su šio karo pasekmėmis, – 15 procentų minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]).
+Skirti maitintojo netekimo pensijas visiškiems našlaičiams, tai yra netekusiems abiejų tėvų vaikams arba mirusios vienišos motinos vaikams, – 30 procentų maitintojo darbo užmokesčio ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]) kiekvienam vaikui, bet ne mažiau kaip dvigubą socialinės pensijos dydį, nustatytą atitinkamai nedarbingų žmonių kategorijai šio įstatymo [[#^s-53eede8af768e03b4dc1341e|3 straipsnio]] pirmosios dalies „a“ – „c“ punktuose. Vaikams – visiškiems našlaičiams ir kitiems šeimos, kurioje yra vaikų – visiškų našlaičių, nariams, turintiems teisę gauti maitintojo netekimo pensiją nors už vieną iš mirusių visiško našlaičio tėvų, pensiją apskaičiuoti iš bendros abiejų tėvų uždarbio sumos ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]).
 
 
 
-### 13 straipsnis.
+### 12 straipsnis. ^s-bdad1d4ec2bd15e58ccdb343
 
 
-Pensijas, kurios pagal galiojančius įstatymus skiriamos ne už visą darbo stažą, apskaičiuoti proporcingai turimam stažui, tačiau nustatant jas ne mažesnes už socialinę pensiją, nustatytą atitinkamai nedarbingų žmonių kategorijai šio įstatymo [[#3 straipsnis.|3 straipsnio]] pirmosios dalies „a“ – „c“ punktuose. Papildomas sąlygas, kurios buvo nustatytos šioms pensijoms skirti, panaikinti.
-
-
-
-### 14 straipsnis.
-
-
-Nustatyti, kad reabilituotiems politiniams kaliniams, tremtiniams bei rezistencijos dalyviams, kurie tapo invalidais būdami kalėjime, tremtyje arba dalyvaudami rezistencinėje kovoje, asmenims, kurie tapo armijose Antrojo pasaulinio karo metais, būtinosios tarnybos kariams, kurie tapo invalidais atlikdami karinę tarnybą, kariškiams bei vidaus reikalų organų eiliniams ir viršininkams, kurie tapo invalidais vykdydami karinės tarnybos (tarnybines) pareigas ir gauna pensijas iš socialinio aprūpinimo įstaigos, taikomos tos pačios pensinio aprūpinimo sąlygos ir normos, kuriomis skiriamos ir mokamos pensijos karo invalidams pagal galiojančius pensijų įstatymus ir šį įstatymą (15–[[#16 straipsnis.|16 straipsniai]], [[#17 straipsnis.|17 straipsnio]] pirmoji dalis, [[#18 straipsnis.|18 straipsnio]] antroji pastraipa, [[#19 straipsnis.|19 straipsnio]] antroji ir ketvirtoji pastraipos, [[#20 straipsnis.|20 straipsnio]] antroji dalis, [[#21 straipsnis.|21 straipsnio]] pirmosios dalies „a“ ir „b“ punktai, 26–[[#27 straipsnis.|27 straipsniai]]).
-
-
-Šio straipsnio pirmojoje dalyje nurodytų asmenų, mirusių kalėjime, tremtyje, rezistencijos būriuose ir junginiuose bei atitinkamos tarnybos ar veiklos metu, šeimoms ir mirusių šios kategorijos invalidų šeimoms taikomos tos pačios pensinio aprūpinimo sąlygos ir normos, kuriomis skiriamos ir mokamos pensijos mirusių karo invalidų šeimoms pagal galiojančius pensijų įstatymus ir šį įstatymą ([[#23 straipsnis.|23 straipsnio]] antroji pastraipa, [[#24 straipsnis.|24 straipsnio]] pirmoji dalis, 25–[[#27 straipsnis.|27 straipsniai]]).
-
-
-Reabilituotiems politiniams kaliniams, tremtiniams bei rezistencijos dalyviams, asmenims, tarnavusiems antihitlerinėje koalicijoje dalyvavusių užsienio šalių armijose Antrojo pasaulinio karo metais, būtinosios tarnybos kariams, kariškiams bei vidaus reikalų organų eiliniams ir viršininkams, tarnavusiems veikiančioje armijoje, partizanų būriuose ir junginiuose arba dalyvavusiems karo veiksmuose, asmenims, Antrojo pasaulinio karo metais išvežtiems priverstiniams darbams, buvusiems getuose ir kituose laisvės atėmimo vietose, asmenims, dirbusiems Leningrado blokados metu įmonėse, įstaigose bei organizacijose ir apdovanotiems medaliu „Už Leningrado gynybą“ arba ženklu „Leningrado blokados gyventojui“ taikomos galiojančių pensijų įstatymų ir šio įstatymo nustatytos karo dalyviams pensinio aprūpinimo sąlygos ir normos (15–[[#16 straipsnis.|16 straipsniai]], [[#18 straipsnis.|18 straipsnio]] antroji pastraipa, [[#19 straipsnis.|19 straipsnio]] antroji ir ketvirtoji pastraipos, [[#20 straipsnis.|20 straipsnio]] antroji dalis, [[#21 straipsnis.|21 straipsnio]] pirmosios dalies „a“ ir „b“ punktai, 22, 26–[[#27 straipsnis.|27 straipsniai]]). Šiomis sąlygomis ir normomis pensijos skiriamos ir visiems nurodytųjų kategorijų asmenims, vėliau tapusiems invalidais dėl ligos.
-
-
-Šio straipsnio trečiojoje dalyje nurodytų asmenų mirties atveju jų šeimoms taikomos pensinio aprūpinimo sąlygos ir normos, galiojančių įstatymų ir šio įstatymo nustatytos mirusių karo dalyvių šeimoms ([[#24 straipsnis.|24 straipsnio]] antroji dalis, 25–[[#27 straipsnis.|27 straipsniai]]).
-
-
-Kitiems kariams (išskyrus būtinosios tarnybos karius), liktinės tarnybos kariškiams ir vidaus reikalų organų eiliniams bei viršininkams, tapusiems invalidais per nelaimingą atsitikimą, nesusijusį su karinės tarnybos (tarnybinių) pareigų vykdymu, arba dėl ligos tarnybos metu ir gaunantiems pensijas iš socialinio aprūpinimo įstaigos, taikomos pensinio aprūpinimo sąlygos ir normos, nustatytos galiojančių pensijų įstatymų ir šio įstatymo kitiems kariams–invalidams ([[#19 straipsnis.|19 straipsnio]] 3 pastraipa).
-
-
-Šio straipsnio penktojoje dalyje nurodytų asmenų mirties atveju jų šeimoms taikomos pensinio aprūpinimo sąlygos ir normos, nustatytos galiojančių pensijų įstatymų ir šio įstatymo kitų karių–invalidų šeimoms ([[#24 straipsnis.|24 straipsnio]] antroji dalis).
+Padidinti invalidumo ir maitintojo netekimo pensijas (tarp jų ir minimalaus dydžio) invalidams nuo vaikystės dėl sužeidimo, kontuzijos arba suluošinimo, susijusių su kovos veiksmais Antrojo pasaulinio karo metais arba su šio karo pasekmėmis, – 15 procentų minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]).
 
 
 
-### 15 straipsnis.
+### 13 straipsnis. ^s-00971d652810e0dd07e61e29
 
 
-Skirti senatvės pensijas [[#14 straipsnis.|14 straipsnio]] pirmojoje ir trečiojoje dalyse nurodytiems asmenims, išskyrus reabilituotus politinius kalinius, tremtinius ir rezistencijos dalyvius, karo invalidams ir karo dalyviams, invalidų nuo vaikystės motinoms ([[#7 straipsnis.|7 straipsnis]]) – 55 procentų uždarbio ([[#26 straipsnis.|26 straipsnis]]) dydžio. Be to, padidinti pensiją vienu procentu uždarbio už kiekvienus visus darbo metus ([[#16 straipsnis.|16 straipsnis]]) išdirbusiems daugiau kaip 25 metus vyrams ir daugiau kaip 20 metų – moterims, tačiau ne daugiau kaip iki 75 procentų uždarbio. Reabilituotiems politiniams kaliniams, tremtiniams ir rezistencijos dalyviams skirti senatvės pensiją 55 procentų uždarbio už kiekvienus visus darbo metus ([[#16 straipsnis.|16 straipsnis]]) išdirbusiems daugiau kaip 25 metus vyrams ir daugiau kaip 20 metų – moterims. Jų pensijos neturi būti mažesnės kaip 120 rublių ir didesnės kaip 300 rublių.
+Pensijas, kurios pagal galiojančius įstatymus skiriamos ne už visą darbo stažą, apskaičiuoti proporcingai turimam stažui, tačiau nustatant jas ne mažesnes už socialinę pensiją, nustatytą atitinkamai nedarbingų žmonių kategorijai šio įstatymo [[#^s-53eede8af768e03b4dc1341e|3 straipsnio]] pirmosios dalies „a“ – „c“ punktuose. Papildomas sąlygas, kurios buvo nustatytos šioms pensijoms skirti, panaikinti.
+
+
+
+### 14 straipsnis. ^s-0c22ddf852cca038a0f39ccc
+
+
+Nustatyti, kad reabilituotiems politiniams kaliniams, tremtiniams bei rezistencijos dalyviams, kurie tapo invalidais būdami kalėjime, tremtyje arba dalyvaudami rezistencinėje kovoje, asmenims, kurie tapo armijose Antrojo pasaulinio karo metais, būtinosios tarnybos kariams, kurie tapo invalidais atlikdami karinę tarnybą, kariškiams bei vidaus reikalų organų eiliniams ir viršininkams, kurie tapo invalidais vykdydami karinės tarnybos (tarnybines) pareigas ir gauna pensijas iš socialinio aprūpinimo įstaigos, taikomos tos pačios pensinio aprūpinimo sąlygos ir normos, kuriomis skiriamos ir mokamos pensijos karo invalidams pagal galiojančius pensijų įstatymus ir šį įstatymą (15–[[#^s-449fc49453ebb95d172f66d3|16 straipsniai]], [[#^s-c0cc3242dedcfa1e6023131f|17 straipsnio]] pirmoji dalis, [[#^s-706dca77decdd98c71c4057d|18 straipsnio]] antroji pastraipa, [[#^s-7c9cb806710edf07f5aca935|19 straipsnio]] antroji ir ketvirtoji pastraipos, [[#^s-63ad47e0f0d2edef558a6a2d|20 straipsnio]] antroji dalis, [[#^s-d21a4a193907e184ac30a61b|21 straipsnio]] pirmosios dalies „a“ ir „b“ punktai, 26–[[#^s-605abdc2b9fd9d58639e6556|27 straipsniai]]).
+
+
+Šio straipsnio pirmojoje dalyje nurodytų asmenų, mirusių kalėjime, tremtyje, rezistencijos būriuose ir junginiuose bei atitinkamos tarnybos ar veiklos metu, šeimoms ir mirusių šios kategorijos invalidų šeimoms taikomos tos pačios pensinio aprūpinimo sąlygos ir normos, kuriomis skiriamos ir mokamos pensijos mirusių karo invalidų šeimoms pagal galiojančius pensijų įstatymus ir šį įstatymą ([[#^s-47c4629c75576f35b607b85e|23 straipsnio]] antroji pastraipa, [[#^s-9b4def10cf2316c5d10b97db|24 straipsnio]] pirmoji dalis, 25–[[#^s-605abdc2b9fd9d58639e6556|27 straipsniai]]).
+
+
+Reabilituotiems politiniams kaliniams, tremtiniams bei rezistencijos dalyviams, asmenims, tarnavusiems antihitlerinėje koalicijoje dalyvavusių užsienio šalių armijose Antrojo pasaulinio karo metais, būtinosios tarnybos kariams, kariškiams bei vidaus reikalų organų eiliniams ir viršininkams, tarnavusiems veikiančioje armijoje, partizanų būriuose ir junginiuose arba dalyvavusiems karo veiksmuose, asmenims, Antrojo pasaulinio karo metais išvežtiems priverstiniams darbams, buvusiems getuose ir kituose laisvės atėmimo vietose, asmenims, dirbusiems Leningrado blokados metu įmonėse, įstaigose bei organizacijose ir apdovanotiems medaliu „Už Leningrado gynybą“ arba ženklu „Leningrado blokados gyventojui“ taikomos galiojančių pensijų įstatymų ir šio įstatymo nustatytos karo dalyviams pensinio aprūpinimo sąlygos ir normos (15–[[#^s-449fc49453ebb95d172f66d3|16 straipsniai]], [[#^s-706dca77decdd98c71c4057d|18 straipsnio]] antroji pastraipa, [[#^s-7c9cb806710edf07f5aca935|19 straipsnio]] antroji ir ketvirtoji pastraipos, [[#^s-63ad47e0f0d2edef558a6a2d|20 straipsnio]] antroji dalis, [[#^s-d21a4a193907e184ac30a61b|21 straipsnio]] pirmosios dalies „a“ ir „b“ punktai, 22, 26–[[#^s-605abdc2b9fd9d58639e6556|27 straipsniai]]). Šiomis sąlygomis ir normomis pensijos skiriamos ir visiems nurodytųjų kategorijų asmenims, vėliau tapusiems invalidais dėl ligos.
+
+
+Šio straipsnio trečiojoje dalyje nurodytų asmenų mirties atveju jų šeimoms taikomos pensinio aprūpinimo sąlygos ir normos, galiojančių įstatymų ir šio įstatymo nustatytos mirusių karo dalyvių šeimoms ([[#^s-9b4def10cf2316c5d10b97db|24 straipsnio]] antroji dalis, 25–[[#^s-605abdc2b9fd9d58639e6556|27 straipsniai]]).
+
+
+Kitiems kariams (išskyrus būtinosios tarnybos karius), liktinės tarnybos kariškiams ir vidaus reikalų organų eiliniams bei viršininkams, tapusiems invalidais per nelaimingą atsitikimą, nesusijusį su karinės tarnybos (tarnybinių) pareigų vykdymu, arba dėl ligos tarnybos metu ir gaunantiems pensijas iš socialinio aprūpinimo įstaigos, taikomos pensinio aprūpinimo sąlygos ir normos, nustatytos galiojančių pensijų įstatymų ir šio įstatymo kitiems kariams–invalidams ([[#^s-7c9cb806710edf07f5aca935|19 straipsnio]] 3 pastraipa).
+
+
+Šio straipsnio penktojoje dalyje nurodytų asmenų mirties atveju jų šeimoms taikomos pensinio aprūpinimo sąlygos ir normos, nustatytos galiojančių pensijų įstatymų ir šio įstatymo kitų karių–invalidų šeimoms ([[#^s-9b4def10cf2316c5d10b97db|24 straipsnio]] antroji dalis).
+
+
+
+### 15 straipsnis. ^s-48a89eb8b9c8284c4afc0ebf
+
+
+Skirti senatvės pensijas [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje ir trečiojoje dalyse nurodytiems asmenims, išskyrus reabilituotus politinius kalinius, tremtinius ir rezistencijos dalyvius, karo invalidams ir karo dalyviams, invalidų nuo vaikystės motinoms ([[#^s-05ae9be8d33dcd7a3477d581|7 straipsnis]]) – 55 procentų uždarbio ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]) dydžio. Be to, padidinti pensiją vienu procentu uždarbio už kiekvienus visus darbo metus ([[#^s-449fc49453ebb95d172f66d3|16 straipsnis]]) išdirbusiems daugiau kaip 25 metus vyrams ir daugiau kaip 20 metų – moterims, tačiau ne daugiau kaip iki 75 procentų uždarbio. Reabilituotiems politiniams kaliniams, tremtiniams ir rezistencijos dalyviams skirti senatvės pensiją 55 procentų uždarbio už kiekvienus visus darbo metus ([[#^s-449fc49453ebb95d172f66d3|16 straipsnis]]) išdirbusiems daugiau kaip 25 metus vyrams ir daugiau kaip 20 metų – moterims. Jų pensijos neturi būti mažesnės kaip 120 rublių ir didesnės kaip 300 rublių.
 Straipsnio dalies pakeitimai:
 Nr. I-716, 1990-10-30, Lietuvos aidas, 1990, Nr. 117-0 (1990-11-07); Žin., 1990, Nr. 32-767 (1990-11-20), i. k. [[latest/TAR.F7A1A488B416|0901010ISTA000I-716]]
 
 
 
-### 16 straipsnis.
+### 16 straipsnis. ^s-449fc49453ebb95d172f66d3
 
 
-Įskaityti į [[#14 straipsnis.|14 straipsnio]] pirmojoje ir trečiojoje dalyse nurodytų asmenų, karo invalidų ir karo dalyvių, invalidų nuo vaikystės motinų ([[#7 straipsnis.|7 straipsnis]]) darbo metus, už kuriuos senatvės pensija didinama 1 procentu uždarbio ([[#15 straipsnis.|15 straipsnis]]), šiuos laikotarpius:
+Įskaityti į [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje ir trečiojoje dalyse nurodytų asmenų, karo invalidų ir karo dalyvių, invalidų nuo vaikystės motinų ([[#^s-05ae9be8d33dcd7a3477d581|7 straipsnis]]) darbo metus, už kuriuos senatvės pensija didinama 1 procentu uždarbio ([[#^s-48a89eb8b9c8284c4afc0ebf|15 straipsnis]]), šiuos laikotarpius:
 
 
 reabilituotų piliečių arešto laiką, bausmės atlikimo įkalinimo vietose ir buvimo tremtyje laiką – trigubai;
@@ -235,13 +240,13 @@ laiką, kai nedirbanti motina prižiūrėjo mažamečius vaikus, bet ne ilgiau k
 
 
 
-16 [[#1 straipsnis.|1 straipsnis]].
+16 [[#^s-25401f381e924943477c90f5|1 straipsnis]].
 
 
-Nustatyti šiuos priedus prie senatvės pensijų (tarp jų ir prie minimalių pensijų), skiriamų šio įstatymo [[#14 straipsnis.|14 straipsnio]] pirmojoje dalyje išvardytiems invalidams ir karo invalidams, šio įstatymo [[#14 straipsnis.|14 straipsnio]] trečiojoje dalyje išvardytiems asmenims ir karo dalyviams:
+Nustatyti šiuos priedus prie senatvės pensijų (tarp jų ir prie minimalių pensijų), skiriamų šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje dalyje išvardytiems invalidams ir karo invalidams, šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] trečiojoje dalyje išvardytiems asmenims ir karo dalyviams:
 
 
-a) nedirbantiems pensininkams, išlaikantiems nedarbingus šeimos narius, kurie priskiriami prie asmenų, aprūpinamų maitintojo netekimo pensija, – kiekvienam nedarbingam šeimos nariui socialinės pensijos, nustatytos atitinkamai nedarbingų asmenų kategorijai, dydžio ([[#3 straipsnis.|3 straipsnio]] pirmosios dalies „a“ – „c“ punktai). Šį priedą priskaičiuoti tik už tuos šeimos narius, kurie negauna socialinės ar kitokios pensijos. Esant tuo pat metu teisei į socialinę pensiją ir į priedą prie pensijos už nedarbingą šeimos narį, gavėjas turi teisę skiriamą išmoką pasirinkti;
+a) nedirbantiems pensininkams, išlaikantiems nedarbingus šeimos narius, kurie priskiriami prie asmenų, aprūpinamų maitintojo netekimo pensija, – kiekvienam nedarbingam šeimos nariui socialinės pensijos, nustatytos atitinkamai nedarbingų asmenų kategorijai, dydžio ([[#^s-53eede8af768e03b4dc1341e|3 straipsnio]] pirmosios dalies „a“ – „c“ punktai). Šį priedą priskaičiuoti tik už tuos šeimos narius, kurie negauna socialinės ar kitokios pensijos. Esant tuo pat metu teisei į socialinę pensiją ir į priedą prie pensijos už nedarbingą šeimos narį, gavėjas turi teisę skiriamą išmoką pasirinkti;
 
 
 b) vienišiems pensininkams, sukakusiems 80 metų, jų priežiūrai – socialinės pensijos dydžio.
@@ -253,62 +258,62 @@ Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990
 
 
 
-### 17 straipsnis.
+### 17 straipsnis. ^s-c0cc3242dedcfa1e6023131f
 
 
-Padidinti senatvės pensijas šio įstatymo [[#14 straipsnis.|14 straipsnio]] pirmojoje dalyje išvardintiems invalidams ir karo invalidams minimalaus invalidumo pensijos dydžio pagal atitinkamą invalidumo grupę suma, nustatyta šio įstatymo [[#19 straipsnis.|19 straipsnio]] antrojoje pastraipoje.
+Padidinti senatvės pensijas šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje dalyje išvardintiems invalidams ir karo invalidams minimalaus invalidumo pensijos dydžio pagal atitinkamą invalidumo grupę suma, nustatyta šio įstatymo [[#^s-7c9cb806710edf07f5aca935|19 straipsnio]] antrojoje pastraipoje.
 
 
-Senatvės pensijas šio įstatymo [[#14 straipsnis.|14 straipsnio]] trečiojoje dalyje išvardintiems asmenims ir karo dalyviams padidinti 25 procentais minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]).
+Senatvės pensijas šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] trečiojoje dalyje išvardintiems asmenims ir karo dalyviams padidinti 25 procentais minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]).
 
 
 
-### 18 straipsnis.
+### 18 straipsnis. ^s-706dca77decdd98c71c4057d
 
 
 Skirti invalidumo pensijas:
 
 
-šio įstatymo [[#14 straipsnis.|14 straipsnio]] pirmojoje dalyje išvardintiems I ir II grupės invalidams ir I ir II grupės karo invalidams – 75 procentus, III grupės – 50 procentų uždarbio ([[#26 straipsnis.|26 straipsnis]]);
+šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje dalyje išvardintiems I ir II grupės invalidams ir I ir II grupės karo invalidams – 75 procentus, III grupės – 50 procentų uždarbio ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]);
 
 
-šio įstatymo [[#14 straipsnis.|14 straipsnio]] trečiojoje dalyje išvardintiems I ir II grupės invalidams – karo dalyviams – 55 procentus, III grupės – 30 procentų uždarbio ([[#26 straipsnis.|26 straipsnis]]).
+šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] trečiojoje dalyje išvardintiems I ir II grupės invalidams – karo dalyviams – 55 procentus, III grupės – 30 procentų uždarbio ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]).
 
 
 
-### 19 straipsnis.
+### 19 straipsnis. ^s-7c9cb806710edf07f5aca935
 
 
 Nustatyti šiuos minimalius invalidumo pensijų dydžius:
 
 
-šio įstatymo [[#14 straipsnis.|14 straipsnio]] pirmojoje dalyje išvardintiems I ir II grupės invalidams ir I ir II grupės karo invalidams (būtinosios tarnybos kareiviams ir jūreiviams) – 150 procentų, III grupės – 75 procentai minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]);
+šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje dalyje išvardintiems I ir II grupės invalidams ir I ir II grupės karo invalidams (būtinosios tarnybos kareiviams ir jūreiviams) – 150 procentų, III grupės – 75 procentai minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]);
 
 
-šio įstatymo [[#14 straipsnis.|14 straipsnio]] trečiojoje dalyje išvardintiems I ir II grupės invalidams, I ir II grupės invalidams – karo dalyviams ir kitiems kariams – I ir II grupės invalidams ([[#14 straipsnis.|14 straipsnio]] penktoji dalis) – 100 procentų, bet ne mažiau už nustatytus dydžius iki šio įstatymo įsigaliojimo, III grupės – 50 procentų minimalaus senatvės pensijos dydžio;
+šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] trečiojoje dalyje išvardintiems I ir II grupės invalidams, I ir II grupės invalidams – karo dalyviams ir kitiems kariams – I ir II grupės invalidams ([[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] penktoji dalis) – 100 procentų, bet ne mažiau už nustatytus dydžius iki šio įstatymo įsigaliojimo, III grupės – 50 procentų minimalaus senatvės pensijos dydžio;
 
 
 invalidams – būtinosios tarnybos seržantams, viršiloms, grandiniams ir vyresniesiems jūreiviams – 110 procentų, praporščikams, mičmanams ir liktinės tarnybos kariškiams, vidaus reikalų organų eiliniams ir jaunesniesiems viršininkams – 120 procentų, karininkams ir vidaus reikalų organų viršininkams (išskyrus jaunesniuosius) – 130 procentų atitinkamų minimalių invalidumo pensijų dydžių, nustatytų šio straipsnio antrojoje ir trečiojoje pastraipose, priklausomai nuo invalidumo priežasties.
 
 
 
-### 20 straipsnis.
+### 20 straipsnis. ^s-63ad47e0f0d2edef558a6a2d
 
 
-Padidinti 20 rublių invalidumo pensijas, apskaičiuotas pagal šio įstatymo 18 ir [[#19 straipsnis.|19 straipsnius]], karininkams, praporščikams, mičmanams ir liktinės tarnybos kariškiams bei vidaus reikalų organų eiliniams ir viršininkams. Kartu nustatyti, kad pensija su šiuo padidinimu neturi viršyti 150 rublių per mėnesį.
+Padidinti 20 rublių invalidumo pensijas, apskaičiuotas pagal šio įstatymo 18 ir [[#^s-7c9cb806710edf07f5aca935|19 straipsnius]], karininkams, praporščikams, mičmanams ir liktinės tarnybos kariškiams bei vidaus reikalų organų eiliniams ir viršininkams. Kartu nustatyti, kad pensija su šiuo padidinimu neturi viršyti 150 rublių per mėnesį.
 
 
-Padidinti minimalius invalidumo pensijų dydžius šio įstatymo [[#14 straipsnis.|14 straipsnio]] pirmojoje dalyje išvardintiems II grupės invalidams ir II grupės karo invalidams, neturintiems teisės gauti kitos rūšies pensijos ir priedo priežiūrai, nustatyto šio įstatymo [[#21 straipsnis.|21 straipsnio]] pirmosios dalies „b“ punkte, bei III grupės šios kategorijos invalidams – 25 procentais minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]).
+Padidinti minimalius invalidumo pensijų dydžius šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje dalyje išvardintiems II grupės invalidams ir II grupės karo invalidams, neturintiems teisės gauti kitos rūšies pensijos ir priedo priežiūrai, nustatyto šio įstatymo [[#^s-d21a4a193907e184ac30a61b|21 straipsnio]] pirmosios dalies „b“ punkte, bei III grupės šios kategorijos invalidams – 25 procentais minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]).
 
 
 
-### 21 straipsnis.
+### 21 straipsnis. ^s-d21a4a193907e184ac30a61b
 
 
-Nustatyti šiuo priedus prie invalidumo pensijų (tarp jų ir prie minimalių pensijų), skiriamų šio įstatymo [[#14 straipsnis.|14 straipsnio]] pirmojoje dalyje išvardintiems invalidams ir karo invalidams, šio įstatymo [[#14 straipsnis.|14 straipsnio]] trečiojoje dalyje išvardintiems asmenims ir karo dalyviams:
+Nustatyti šiuo priedus prie invalidumo pensijų (tarp jų ir prie minimalių pensijų), skiriamų šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] pirmojoje dalyje išvardintiems invalidams ir karo invalidams, šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] trečiojoje dalyje išvardintiems asmenims ir karo dalyviams:
 
 
-a) nedirbantiems I ir II grupės invalidams, išlaikantiems nedarbingus šeimos narius, kurie priskiriami prie asmenų, aprūpinamų maitintojo netekimo pensija, – kiekvienam nedarbingam šeimos nariui – socialinės pensijos, nustatytos atitinkamai nedarbingų asmenų kategorijai, dydžio ([[#3 straipsnis.|3 straipsnio]] pirmosios dalies „a“ – „c“ punktai). Šį priedą priskaičiuoti tik už tuos šeimos narius, kurie negauna socialinės ar kitos rūšies pensijos. Esant tuo pat metu teisei į socialinę pensiją ir į priedą prie pensijos už nedarbingą šeimos narį, teisę pasirinkti skiriamą išmoką turi gavėjas;
+a) nedirbantiems I ir II grupės invalidams, išlaikantiems nedarbingus šeimos narius, kurie priskiriami prie asmenų, aprūpinamų maitintojo netekimo pensija, – kiekvienam nedarbingam šeimos nariui – socialinės pensijos, nustatytos atitinkamai nedarbingų asmenų kategorijai, dydžio ([[#^s-53eede8af768e03b4dc1341e|3 straipsnio]] pirmosios dalies „a“ – „c“ punktai). Šį priedą priskaičiuoti tik už tuos šeimos narius, kurie negauna socialinės ar kitos rūšies pensijos. Esant tuo pat metu teisei į socialinę pensiją ir į priedą prie pensijos už nedarbingą šeimos narį, teisę pasirinkti skiriamą išmoką turi gavėjas;
 
 
 b) I grupės invalidams ir vienišiems, kitų pagalbos reikalingiems II grupės invalidams – jų priežiūrai 100 procentų minimalaus senatvės pensijos dydžio.
@@ -318,51 +323,51 @@ Abu šie priedai gali būti priskaičiuojami kartu.
 
 
 
-### 22 straipsnis.
+### 22 straipsnis. ^s-9834077eb2ff0a41770671ff
 
 
-Padidinti invalidumo pensijas (tarp jų ir minimalias šio įstatymo [[#14 straipsnis.|14 straipsnio]] trečiojoje dalyje išvardintiems asmenims ir karo dalyviams 25 procentais minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]).
+Padidinti invalidumo pensijas (tarp jų ir minimalias šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] trečiojoje dalyje išvardintiems asmenims ir karo dalyviams 25 procentais minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]).
 
 
 
-### 23 straipsnis.
+### 23 straipsnis. ^s-47c4629c75576f35b607b85e
 
 
 Skirti šių dydžių maitintojo netekimo pensijas:
 
 
-šio įstatymo [[#14 straipsnis.|14 straipsnio]] antrojoje dalyje išvardintų mirusių asmenų ir mirusių karo invalidų kiekvienam šeimos nariui – 40 procentų maitintojo uždarbio ([[#26 straipsnis.|26 straipsnis]]). Tokio pat dydžio pensijas skirti mirusių šios kategorijos asmenų šeimoms, kuriose yra vaikų – visiškų našlaičių;
+šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] antrojoje dalyje išvardintų mirusių asmenų ir mirusių karo invalidų kiekvienam šeimos nariui – 40 procentų maitintojo uždarbio ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]). Tokio pat dydžio pensijas skirti mirusių šios kategorijos asmenų šeimoms, kuriose yra vaikų – visiškų našlaičių;
 
 
-šio įstatymo [[#14 straipsnis.|14 straipsnio]] šeimos nariui – 30 procentų maitintojo uždarbio ([[#26 straipsnis.|26 straipsnis]]).
-
-
-
-### 24 straipsnis.
-
-
-Nustatyti, kad šio įstatymo [[#14 straipsnis.|14 straipsnio]] antrojoje dalyje nurodytų mirusių asmenų karo invalidų kiekvieno šeimos nario maitintojo netekimo pensija negali būti mažesnė kaip 100 procentų minimalaus senatvės pensijos dydžio ([[#6 straipsnis.|6 straipsnis]]) būtinosios tarnybos kareivių ir jūreivių šeimoms, 110 procentų būtinosios tarnybos seržantų, viršilų, grandinių ir vyresniųjų jūreivių šeimoms, 120 procentų praporščikų, mičmanų, liktinės tarnybos kariškių, vidaus reikalų organų jaunesniųjų viršininkų ir eilinių šeimoms, 130 procentų karininkų, vidaus reikalų organų viršininkų (išskyrus jaunesniuosius) šeimoms.
-
-
-Šio įstatymo [[#14 straipsnis.|14 straipsnio]] ketvirtojoje dalyje nurodytų mirusių asmenų šeimoms ir mirusių karo dalyvių šeimoms bei kitų mirusių karių ir mirusių šios kategorijos karių–invalidų šeimoms ([[#14 straipsnis.|14 straipsnio]] šeštoji dalis) –75 procentai pensijų dydžių, nurodytų šio straipsnio pirmojoje dalyje atitinkamų kategorijų asmenų šeimoms.
+šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] šeimos nariui – 30 procentų maitintojo uždarbio ([[#^s-c8f16da683eed1d8c164ece6|26 straipsnis]]).
 
 
 
-### 25 straipsnis.
+### 24 straipsnis. ^s-9b4def10cf2316c5d10b97db
 
 
-Skirti ir mokėti maitintojo netekimo pensijas šio įstatymo [[#14 straipsnis.|14 straipsnio]] antrojoje ir ketvirtojoje dalyse nurodytų mirusių asmenų, taip pat mirusių karo invalidų ir karo dalyvių šeimų vaikams bei visiems vaikams – visiškiems našlaičiams iki 18 metų arba vyresniems negu šio amžiaus, jeigu jie tapo invalidais iki 18 metų, o profesinių technikos mokyklų ir specialiųjų vidurinių mokyklų moksleiviams bei aukštųjų mokyklų studentams, kol jie baigia šias mokyklas, bet ne ilgiau kaip iki jiems sukaks 23 metai. Tokia pat tvarka skirti ir mokėti maitintojo netekimo pensijas mirusiųjų šios kategorijos asmenų broliams, seserims ir anūkams, neturintiems darbingų tėvų.
+Nustatyti, kad šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] antrojoje dalyje nurodytų mirusių asmenų karo invalidų kiekvieno šeimos nario maitintojo netekimo pensija negali būti mažesnė kaip 100 procentų minimalaus senatvės pensijos dydžio ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]) būtinosios tarnybos kareivių ir jūreivių šeimoms, 110 procentų būtinosios tarnybos seržantų, viršilų, grandinių ir vyresniųjų jūreivių šeimoms, 120 procentų praporščikų, mičmanų, liktinės tarnybos kariškių, vidaus reikalų organų jaunesniųjų viršininkų ir eilinių šeimoms, 130 procentų karininkų, vidaus reikalų organų viršininkų (išskyrus jaunesniuosius) šeimoms.
 
 
-
-### 26 straipsnis.
-
-
-Pensijas pagal šio įstatymo 7, 11, 15, 18 ir [[#23 straipsnis.|23 straipsnius]] apskaičiuoti iš uždarbio šia tvarka: jeigu uždarbis lygus keturiems minimaliems darbo apmokėjimams arba mažesnis, pensija skaičiuojama iš viso uždarbio. Jeigu uždarbis viršija 4 minimalius darbo apmokėjimus, tai nuo penktojo minimalaus darbo apmokėjimo uždarbio pensijai skaičiuoti imami 85 procentai, šeštojo – 70 procentų, septintojo – 55 procentai, aštuntojo – 40 procentų, devintojo – 25 procentai, dešimtojo – 15 procentų. Uždarbio dalis, viršijanti dešimt minimalių darbo apmokėjimų, skaičiuojant pensiją atmetama.
+Šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] ketvirtojoje dalyje nurodytų mirusių asmenų šeimoms ir mirusių karo dalyvių šeimoms bei kitų mirusių karių ir mirusių šios kategorijos karių–invalidų šeimoms ([[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] šeštoji dalis) –75 procentai pensijų dydžių, nurodytų šio straipsnio pirmojoje dalyje atitinkamų kategorijų asmenų šeimoms.
 
 
 
-### 27 straipsnis.
+### 25 straipsnis. ^s-cdabf4e0f392c9902c792c75
+
+
+Skirti ir mokėti maitintojo netekimo pensijas šio įstatymo [[#^s-0c22ddf852cca038a0f39ccc|14 straipsnio]] antrojoje ir ketvirtojoje dalyse nurodytų mirusių asmenų, taip pat mirusių karo invalidų ir karo dalyvių šeimų vaikams bei visiems vaikams – visiškiems našlaičiams iki 18 metų arba vyresniems negu šio amžiaus, jeigu jie tapo invalidais iki 18 metų, o profesinių technikos mokyklų ir specialiųjų vidurinių mokyklų moksleiviams bei aukštųjų mokyklų studentams, kol jie baigia šias mokyklas, bet ne ilgiau kaip iki jiems sukaks 23 metai. Tokia pat tvarka skirti ir mokėti maitintojo netekimo pensijas mirusiųjų šios kategorijos asmenų broliams, seserims ir anūkams, neturintiems darbingų tėvų.
+
+
+
+### 26 straipsnis. ^s-c8f16da683eed1d8c164ece6
+
+
+Pensijas pagal šio įstatymo 7, 11, 15, 18 ir [[#^s-47c4629c75576f35b607b85e|23 straipsnius]] apskaičiuoti iš uždarbio šia tvarka: jeigu uždarbis lygus keturiems minimaliems darbo apmokėjimams arba mažesnis, pensija skaičiuojama iš viso uždarbio. Jeigu uždarbis viršija 4 minimalius darbo apmokėjimus, tai nuo penktojo minimalaus darbo apmokėjimo uždarbio pensijai skaičiuoti imami 85 procentai, šeštojo – 70 procentų, septintojo – 55 procentai, aštuntojo – 40 procentų, devintojo – 25 procentai, dešimtojo – 15 procentų. Uždarbio dalis, viršijanti dešimt minimalių darbo apmokėjimų, skaičiuojant pensiją atmetama.
+
+
+
+### 27 straipsnis. ^s-605abdc2b9fd9d58639e6556
 
 
 Perskaičiuojant pensijas pagal šio įstatymo normas, remtis amžiaus, stažo, uždarbio ir kitais dokumentais, kurie perskaičiavimo metu yra pensijos byloje, taip pat papildomais dokumentais, kuriuos pensininkas pateikia iki perskaičiavimo laiko.
@@ -372,28 +377,28 @@ Pensininkui vėliau pateikus papildomus dokumentus, duodančius teisę didinti p
 
 
 
-### 28 straipsnis.
+### 28 straipsnis. ^s-8678cd4832616ce3fefd5fd1
 
 
 Nustatyti, kad pensijas pagal šį įstatymą ir kitus galiojančius pensijų įstatymus skiria miestų ir rajonų socialinio aprūpinimo skyrių vedėjai.
 
 
 
-### 29 straipsnis.
+### 29 straipsnis. ^s-3749f8266d28f390a768bd86
 
 
 Nustatyti, kad pensijas visiems pensininkams moka miestų ir rajonų socialinio aprūpinimo skyriai iš socialinio draudimo lėšų ir iš Respublikos valstybės biudžeto lėšų pensininko faktiškoje gyvenamojoje vietoje nepriklausomai nuo priregistravimo.
 
 
 
-### 30 straipsnis.
+### 30 straipsnis. ^s-cfbb9f64b844efb320ed4790
 
 
 Pensija gali būti mokama pagal įgaliojimą, išduotą ne ilgiau kaip trejiems metams.
 
 
 
-### 31 straipsnis.
+### 31 straipsnis. ^s-58711eefe1706d01a7d9af66
 
 
 Mokėti vaikams – visiškiems našlaičiams viso dydžio pensijas ir per tą laiką, kai juos visiškai išlaiko valstybė.
@@ -403,24 +408,24 @@ Kitiems vaikams, kuriuos visiškai išlaiko valstybė, mokėti 25 procentu paski
 
 
 
-### 32 straipsnis.
+### 32 straipsnis. ^s-19423d8e7d0ec7fc3f2140f6
 
 
-Vienišiems pensininkams, gyvenantiems senelių ir invalidų pensionatuose, mokėti 10 procentų paskirtos pensijos, bet ne mažiau kaip 20 procentų minimalios senatvės pensijos per mėnesį. Kai pensijos dydis viršija išlaikymo šiuose internatuose kainą, mokėti skirtumą tarp pensijos ir išlaikymo kainos, bet ne mažiau kaip 10 procentų paskirtos pensijos ir ne mažiau kaip 20 procentų minimalios senatvės pensijos per mėnesį ([[#6 straipsnis.|6 straipsnis]]).
+Vienišiems pensininkams, gyvenantiems senelių ir invalidų pensionatuose, mokėti 10 procentų paskirtos pensijos, bet ne mažiau kaip 20 procentų minimalios senatvės pensijos per mėnesį. Kai pensijos dydis viršija išlaikymo šiuose internatuose kainą, mokėti skirtumą tarp pensijos ir išlaikymo kainos, bet ne mažiau kaip 10 procentų paskirtos pensijos ir ne mažiau kaip 20 procentų minimalios senatvės pensijos per mėnesį ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]).
 
 
-Jeigu pensininkas, gyvenantis senelių ir invalidų pensionate, turi išlaikomų nedarbingų šeimos narių, pensiją mokėti šia tvarka: 10 procentų pensijos, bet ne mažiau kaip 20 procentų minimalios senatvės pensijos ([[#6 straipsnis.|6 straipsnis]]), mokėti pačiam pensininkui, o likusiąją pensijos dalį, bet ne daugiau kaip 50 procentų paskirtos pensijos dydžio, mokėto nurodytiems šeimos nariams.
+Jeigu pensininkas, gyvenantis senelių ir invalidų pensionate, turi išlaikomų nedarbingų šeimos narių, pensiją mokėti šia tvarka: 10 procentų pensijos, bet ne mažiau kaip 20 procentų minimalios senatvės pensijos ([[#^s-92c0fb206ef3f0d66c9f1e25|6 straipsnis]]), mokėti pačiam pensininkui, o likusiąją pensijos dalį, bet ne daugiau kaip 50 procentų paskirtos pensijos dydžio, mokėto nurodytiems šeimos nariams.
 
 
 
-### 33 straipsnis.
+### 33 straipsnis. ^s-8eb50d831d4f51a74720f2b0
 
 
 Pensininkui mirus, mokėti jo šeimai arba jį palaidojusiems asmenims dviejų mėnesių pensijos dydžio laidojimo pašalpą.
 
 
 
-### 34 straipsnis.
+### 34 straipsnis. ^s-388b99156d02bf64e80f6cba
 
 
 Skundai dėl pensijas skiriančių ir išmokančių organų ir pareigūnų veiksmų gali būti paduodami Vyriausiajai valstybinio socialinio draudimo valdybai arba rajono (miesto) teismui.
@@ -440,9 +445,9 @@ Pakeitimai:
 1.
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990, Nr. 31-746 (1990-11-10), i. k. [[latest/TAR.F5AE6AD3A3A2|0901010ISTA000I-671]]
-Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo
+[[latest/TAR.F5AE6AD3A3A2|Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo]]
 
 2.
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-716, 1990-10-30, Lietuvos aidas, 1990, Nr. 117-0 (1990-11-07); Žin., 1990, Nr. 32-767 (1990-11-20), i. k. [[latest/TAR.F7A1A488B416|0901010ISTA000I-716]]
-Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo [[#15 straipsnis.|15 straipsnio]] pakeitimo ir papildymo
+[[latest/TAR.F7A1A488B416|Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 15 straipsnio pakeitimo ir papildymo]]

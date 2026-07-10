@@ -11,7 +11,7 @@
   "latest_revision": "2020-01-04",
   "latest_sha256": "ed586919d29db249b42e4ba4129b77a5940109c80a904dc1bde5dd4672c3c726",
   "metadata_path": "latest/8597a6302e2411eabe008ea93139d588.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 5, 11, 15, 17 ir 38 straipsnių pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

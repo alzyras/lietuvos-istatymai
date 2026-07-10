@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FDC9EB39912D"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-23"
 latest_path: "latest/TAR.FDC9EB39912D.md"
 latest_sha256: "c1b16d8877b9001bf89cca40c74ec0f8827a1111e7ff4090b1f4e592204d3afc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FDC9EB39912D]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FDC9EB39912D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FDC9EB39912D
+- Ryšiai: [[Ryšiai/TAR.FDC9EB39912D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-07f897b6b0cee0f902a0fb42
 
 
 Iš 13 straipsnio 1 dalies 3 punkto išbraukti žodžius „jei tų visuomeninių organizacijų šiuo metu naudojamas ilgalaikis materialusis turtas iki 1940 metų joms priklausė nuosavybės teise“, įrašyti žodžius „ir politinėms partijoms“ ir šį punktą išdėstyti taip:

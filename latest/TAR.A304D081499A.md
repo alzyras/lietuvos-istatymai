@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A304D081499A"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-27"
 latest_path: "latest/TAR.A304D081499A.md"
 latest_sha256: "d4d48b407bd834b191823c9b43c277ba698295c985f9e4e5779c3a652bf91599"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A304D081499A]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A304D081499A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A304D081499A
+- Ryšiai: [[Ryšiai/TAR.A304D081499A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-39a027194026a5e8dcc2982b
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. lapkričio 21 d. dekretą Nr. 1K-1594, ratifikuoja 2008 m. birželio 10 d. Bratislavoje pasirašytą Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BBDC7AC8FF4A"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo\" 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo\" 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo\" 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-05-22"
 latest_path: "latest/TAR.BBDC7AC8FF4A.md"
 latest_sha256: "0801b2f89e546ae2861e2f992d632e529bcbec0dcbb270498ae2ea17d8f7363a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BBDC7AC8FF4A]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo" 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BBDC7AC8FF4A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BBDC7AC8FF4A
+- Ryšiai: [[Ryšiai/TAR.BBDC7AC8FF4A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-4fb657a40fb0579848e8727b
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 
-„2. Nustatyti, kad nuo 1996 m. liepos 1 d. nebeveikia Lietuvos Respublikos įstatymų mokesčius reguliuojančios normos tiems mokesčiams, kurie išvardyti Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio 1 dalyje išskyrus šių mokesčių įstatymus ir specialius mokesčių įstatymus, ir neskaičiuojamos mokesčių mokėtojams baudos ir delspinigiai už laikotarpį nuo 1996 m. balandžio 1 d. iki šio įstatymo įsigaliojimo dienos.“
+„2. Nustatyti, kad nuo 1996 m. liepos 1 d. nebeveikia Lietuvos Respublikos įstatymų mokesčius reguliuojančios normos tiems mokesčiams, kurie išvardyti [[latest/TAR.3EB34933E485#^s-cfd66bf628ee57dc4648fe7b|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio 1 dalyje]] išskyrus šių mokesčių įstatymus ir specialius mokesčių įstatymus, ir neskaičiuojamos mokesčių mokėtojams baudos ir delspinigiai už laikotarpį nuo 1996 m. balandžio 1 d. iki šio įstatymo įsigaliojimo dienos.“
 
 
 

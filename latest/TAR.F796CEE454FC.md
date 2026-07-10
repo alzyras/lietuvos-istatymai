@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F796CEE454FC"
 pavadinimas: "Lietuvos Respublikos investicijų įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos investicijų įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "investicijų įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-05-24"
 latest_path: "latest/TAR.F796CEE454FC.md"
 latest_sha256: "13f78b58cfabf3e2f1811ce10dac77207050e544af52749569ed809230a1c73f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F796CEE454FC]]"
 ---
 # Lietuvos Respublikos investicijų įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F796CEE454FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F796CEE454FC
+- Ryšiai: [[Ryšiai/TAR.F796CEE454FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-a1b850ef271dfc334121838f
 
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:

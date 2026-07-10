@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C7DD644AA6B0"
 pavadinimas: "Lietuvos Respublikos Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo įstatymas"
+  - "Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.C7DD644AA6B0.md"
 latest_sha256: "06bed6bf9d69f39361692350481e0300f5a867df84a7009c96a88784e7fe23d4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C7DD644AA6B0]]"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C7DD644AA6B0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C7DD644AA6B0
+- Ryšiai: [[Ryšiai/TAR.C7DD644AA6B0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-20cabf7b465b8c465951cb0b
 
 
 7 straipsnio 2 dalyje išbraukti žodžius „apskričių viršininkų administracijų bei“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 19 straipsnio 1 dalies 6 punkto pakeitimas
+### 2 straipsnis. 19 straipsnio 1 dalies 6 punkto pakeitimas ^s-c5c831a01e4b7931d5a62958
 
 
 19 straipsnio 1 dalies 6 punkte išbraukti žodžius „apskričių bei“ ir „apskričių viršininkų administracijų ir“ ir šį punktą išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-7a37856a37b8f3357d91ade3
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

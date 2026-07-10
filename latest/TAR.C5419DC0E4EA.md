@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C5419DC0E4EA"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-10-31"
 latest_path: "latest/TAR.C5419DC0E4EA.md"
 latest_sha256: "f5748faa46af85c463871c4816c8c5d46d400fa4091e24701c08b7e21f3e442f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C5419DC0E4EA]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C5419DC0E4EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C5419DC0E4EA
+- Ryšiai: [[Ryšiai/TAR.C5419DC0E4EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 62 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 62 straipsnio 10 dalies pakeitimas ^s-8ef4cd14f555065d31739546
 
 
 62 straipsnio 10 dalyje vietoj datos „2002 m. sausio 1 d.“ įrašyti datą „2002 m. liepos 1 d.“ ir šią dalį išdėstyti taip:
@@ -41,16 +46,16 @@ Vilnius
 
 
 
-### 2 straipsnis. 69 straipsnio 1 dalies, 2 dalies 2 punkto, 3 ir 4 dalių pakeitimas
+### 2 straipsnis. 69 straipsnio 1 dalies, 2 dalies 2 punkto, 3 ir 4 dalių pakeitimas ^s-5f7bd69aa9d69a0a80c6e905
 
 
-1. 69 straipsnio 1 dalyje vietoj datos „2002 m. sausio 1 d.“ įrašyti datą „2002 m. liepos 1 d.“ ir šią dalį išdėstyti taip: ^0a6181825fa8bf6d0c05af29
+1. 69 straipsnio 1 dalyje vietoj datos „2002 m. sausio 1 d.“ įrašyti datą „2002 m. liepos 1 d.“ ir šią dalį išdėstyti taip: ^s-6203768ec2a27396afb28833
 
 
-„1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir [[#^f4377ee72ebaf2f43cba82f2|4 dalių]] nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. liepos 1 d.“
+„1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir [[#^s-0f218bebddbcbd89816abd3d|4 dalių]] nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. liepos 1 d.“
 
 
-2. Pakeisti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^b5ab781fb9b4d7f9344dbf25
+2. Pakeisti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-3a5a0ead66f08e6781ba35ab
 
 
 „2) pereinamuoju laikotarpiu – iki 2004 m. liepos 1 d. – buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu):
@@ -109,7 +114,7 @@ M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
  “
 
 
-3. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip: ^f139af61fce0471abe28a79d
+3. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip: ^s-776d200a69cfe7483cf12173
 „3. Valstybės tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo užmokestį, naujasis darbo užmokesčio dydis pasiekiamas nuosekliai: pereinamuoju laikotarpiu – iki 2007 m. sausio 1 d. kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę:
 A = [ (B – C) x D] + C, čia:
 A – pereinamuoju laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
@@ -138,15 +143,15 @@ D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
  “
 
 
-4. 69 straipsnio 4 dalyje vietoj datos „2006 m. sausio 1 d.“ įrašyti datą „2007 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^f4377ee72ebaf2f43cba82f2
-„4. [[#^f139af61fce0471abe28a79d|Šio straipsnio 3 dalies]] nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio 2 ir [[#^f139af61fce0471abe28a79d|3 dalių]] nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki [[#^0a6181825fa8bf6d0c05af29|šio straipsnio 1 dalyje]] nurodytos datos galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
+4. 69 straipsnio 4 dalyje vietoj datos „2006 m. sausio 1 d.“ įrašyti datą „2007 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^s-0f218bebddbcbd89816abd3d
+„4. [[#^s-776d200a69cfe7483cf12173|Šio straipsnio 3 dalies]] nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio 2 ir [[#^s-776d200a69cfe7483cf12173|3 dalių]] nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki [[#^s-6203768ec2a27396afb28833|šio straipsnio 1 dalyje]] nurodytos datos galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
 
 
 
-### 3 straipsnis. Šio Įstatymo 2 straipsnio 2 dalies taikymas
+### 3 straipsnis. Šio Įstatymo 2 straipsnio 2 dalies taikymas ^s-76542ee7f5e743a722de7b49
 
 
-Šio Įstatymo [[#^b5ab781fb9b4d7f9344dbf25|2 straipsnio 2 dalies]] nuostatos taikomos nuo 2001 m. spalio 1 d.
+Šio Įstatymo [[#^s-3a5a0ead66f08e6781ba35ab|2 straipsnio 2 dalies]] nuostatos taikomos nuo 2001 m. spalio 1 d.
 
 
 

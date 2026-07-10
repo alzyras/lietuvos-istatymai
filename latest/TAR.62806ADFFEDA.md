@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.62806ADFFEDA"
 pavadinimas: "Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas"
+  - "antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.62806ADFFEDA.md"
 latest_sha256: "0f8a98483b821f038d0431ef42ab8df0caf1eaa92b423704f2b313a9173116fa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.62806ADFFEDA]]"
 ---
 # Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.62806ADFFEDA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.62806ADFFEDA
+- Ryšiai: [[Ryšiai/TAR.62806ADFFEDA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 5 dalies pakeitimas ^s-9fff9600652c3287e0c5a4d5
 
 
 8 straipsnio 5 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisingumo ministerijos interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 „5. Lietuvos antstolių sąrašą sudaro ir tvarko Teisingumo ministerija. Teisingumo ministras Lietuvos antstolių sąrašą skelbia Teisingumo ministerijos interneto svetainėje.“
 
 
-### 2 straipsnis. 47 straipsnio 2 dalies 5 punkto pakeitimas
+### 2 straipsnis. 47 straipsnio 2 dalies 5 punkto pakeitimas ^s-6e4a2ec890160d19aac34f11
 
 
 47 straipsnio 2 dalies 5 punkte vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 „5) priima Lietuvos antstolių rūmų įstatus, Antstolių profesinės etikos kodeksą; teisingumo ministras juos skelbia Teisės aktų registre;“.
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-a62f022a36210f67c7a28bf9
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

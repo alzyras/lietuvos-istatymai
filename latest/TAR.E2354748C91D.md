@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E2354748C91D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo"
+  - "įstatymas dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-05-24"
 latest_path: "latest/TAR.E2354748C91D.md"
 latest_sha256: "f8b838fbdb37b546d894f4bf93664e91a78dd7fddaa99bb55ce8289083bf0a6d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E2354748C91D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E2354748C91D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E2354748C91D
+- Ryšiai: [[Ryšiai/TAR.E2354748C91D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -38,33 +43,33 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-6eb4f4238b8270f8e66b8589
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. sausio 22 d. dekretą Nr. 1K-1241, ratifikuoja su pareiškimais 2006 m. birželio 28 d. Vienoje pasirašytą Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimą dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos.
 
 
 
-### 2 straipsnis. Lietuvos Respublikos pareiškimai
+### 2 straipsnis. Lietuvos Respublikos pareiškimai ^s-5fb989917f18912333c4595c
 
 
-1. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 3 straipsnio 4 dalimi, pareiškia, kad, remiantis abipusiškumo principu, dvigubo baudžiamumo sąlyga, nurodyta Susitarimo 3 straipsnio 2 dalyje, netaikoma esant Susitarimo 3 straipsnio 4 dalyje nurodytoms sąlygoms. ^a44d3c5f7b1667b3747e3b3a
+1. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 3 straipsnio 4 dalimi, pareiškia, kad, remiantis abipusiškumo principu, dvigubo baudžiamumo sąlyga, nurodyta Susitarimo 3 straipsnio 2 dalyje, netaikoma esant Susitarimo 3 straipsnio 4 dalyje nurodytoms sąlygoms. ^s-854c5d59f982abaece9d3735
 
 
-2. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 5 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika nenustato prievolės vykdančiajai teisminei institucijai atsisakyti vykdyti arešto orderį Susitarimo 5 straipsnio 1 dalyje numatytais arešto orderio nevykdymo pagrindais. ^171040d7f6758af9309aee05
+2. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 5 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika nenustato prievolės vykdančiajai teisminei institucijai atsisakyti vykdyti arešto orderį Susitarimo 5 straipsnio 1 dalyje numatytais arešto orderio nevykdymo pagrindais. ^s-e5df01615224d8398aa28b1e
 
 
-3. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 9 straipsnio 3 dalimi, pareiškia, kad išduodančiomis teisminėmis institucijomis pagal Susitarimo 9 straipsnio 1 dalį paskiriami apygardos teismas pagal apkaltinamąjį nuosprendį, kuriuo paskiriama laisvės atėmimo bausmė, ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai paleisto iš laisvės atėmimo vietų įstaigos asmens pasiuntimo atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją ir Lietuvos Respublikos generalinė prokuratūra, o vykdančiąja teismine institucija pagal Susitarimo 9 straipsnio 2 dalį paskiriamas Vilniaus apygardos teismas. ^02c1e7d84c767e0862150c34
+3. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 9 straipsnio 3 dalimi, pareiškia, kad išduodančiomis teisminėmis institucijomis pagal Susitarimo 9 straipsnio 1 dalį paskiriami apygardos teismas pagal apkaltinamąjį nuosprendį, kuriuo paskiriama laisvės atėmimo bausmė, ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai paleisto iš laisvės atėmimo vietų įstaigos asmens pasiuntimo atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją ir Lietuvos Respublikos generalinė prokuratūra, o vykdančiąja teismine institucija pagal Susitarimo 9 straipsnio 2 dalį paskiriamas Vilniaus apygardos teismas. ^s-48f92746add2a55c16598129
 Straipsnio dalies pakeitimai:
 Nr. XIII-2979, 2020-05-21, paskelbta TAR 2020-06-01, i. k. 2020-11740
 Nr. XIV-1238, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15605
 
 
 
-4. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 11 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika priims į lietuvių kalbą išverstą arešto orderį. Lietuvos Respublika taip pat priims anglų kalba parengtą arešto orderį tuo atveju, jeigu išduodanti valstybė taikys abipusiškumo principą. ^aa0b191afa1e1366c6c84aae
+4. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 11 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika priims į lietuvių kalbą išverstą arešto orderį. Lietuvos Respublika taip pat priims anglų kalba parengtą arešto orderį tuo atveju, jeigu išduodanti valstybė taikys abipusiškumo principą. ^s-cf0627fe4c2b9caa88799b79
 
 
-5. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 28 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika paskiria Lietuvos Respublikos teisingumo ministeriją kaip kompetentingą instituciją priimti tranzito prašymus ir būtinus dokumentus, taip pat kitą su tranzito prašymais susijusią oficialią korespondenciją. ^03cca3f8a5d56f9b7f97b64a
+5. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 28 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika paskiria Lietuvos Respublikos teisingumo ministeriją kaip kompetentingą instituciją priimti tranzito prašymus ir būtinus dokumentus, taip pat kitą su tranzito prašymais susijusią oficialią korespondenciją. ^s-d8f88dd92d1af1877ade100a
 
 
 
@@ -84,9 +89,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2979, 2020-05-21, paskelbta TAR 2020-06-01, i. k. 2020-11740
-Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo“ Nr. X-1526 [[#2 straipsnis. Lietuvos Respublikos pareiškimai|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo“ Nr. X-1526 [[#^s-5fb989917f18912333c4595c|2 straipsnio]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1238, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15605
-Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės Susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo“ Nr. X-1526 [[#2 straipsnis. Lietuvos Respublikos pareiškimai|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės Susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo“ Nr. X-1526 [[#^s-5fb989917f18912333c4595c|2 straipsnio]] pakeitimo įstatymas

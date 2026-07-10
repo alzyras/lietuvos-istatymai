@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B8F6681C334"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 29, 30, 33 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 29, 30, 33 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 29, 30, 33 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.6B8F6681C334.md"
 latest_sha256: "d18ca7d00e0401cf5a04f96433203c37b81dff35f4d57df5f2560d3c8d977bb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B8F6681C334]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 29, 30, 33 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B8F6681C334.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B8F6681C334
+- Ryšiai: [[Ryšiai/TAR.6B8F6681C334|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,26 +38,26 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 6 dalies papildymas ir pakeitimas
+### 1 straipsnis. 29 straipsnio 6 dalies papildymas ir pakeitimas ^s-7c214e4daab13d6b929846b2
 
 
-1. Papildyti 29 straipsnio 6 dalį nauju 8 punktu: ^741768c51482e1c866cab554
+1. Papildyti 29 straipsnio 6 dalį nauju 8 punktu: ^s-be364b80913b0b2b26fb5c6b
 
 
 „8) valstybės ar savivaldybės lėšų ir turto apskaitos pažeidimas, turėjęs reikšmingos įtakos valstybės ar savivaldybės institucijos ar įstaigos finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir (ar) kitų ataskaitų duomenų teisingumui, ar reikšmingas valstybės ar savivaldybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo pažeidimas, nustatytas valstybės kontrolieriaus ar jo pavaduotojo arba savivaldybės kontrolieriaus sprendimu;“.
 
 
-2. Papildyti 29 straipsnio 6 dalį nauju 9 punktu: ^9f85c750633ee26ae9c5e841
+2. Papildyti 29 straipsnio 6 dalį nauju 9 punktu: ^s-2bc2cd02cac0f6f4dc21ce6d
 
 
 „9) įsiteisėjusių teismo sprendimų, susijusių su valstybės tarnautojo pareigomis ir jų atlikimu, nevykdymas;“.
 
 
-3. Buvusį 29 straipsnio 6 dalies 8 punktą laikyti 10 punktu. ^0b21b779b6b91419d6cc5224
+3. Buvusį 29 straipsnio 6 dalies 8 punktą laikyti 10 punktu. ^s-4a209eb7c7025ea947f18c2d
 
 
 
-### 2 straipsnis. 30 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 30 straipsnio 1 dalies pakeitimas ^s-a11b4062328626c5f854b510
 
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -62,7 +67,7 @@ Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 33 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 33 straipsnio 2 dalies pakeitimas ^s-8b33b3734befb7a10ce6ffa3
 
 
 Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -72,17 +77,17 @@ Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+### 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ^s-37132db05312b8a7ed387fb0
 
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-54653c07e236a885fd31c9c5
 
 
-Šis įstatymas, išskyrus [[#4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei|4 straipsnį]], įsigalioja 2010 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-37132db05312b8a7ed387fb0|4 straipsnį]], įsigalioja 2010 m. liepos 1 d.
 
 
 

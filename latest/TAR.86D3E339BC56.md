@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.86D3E339BC56"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos pagrindų susitarimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos pagrindų susitarimo ratifikavimo"
+  - "įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos pagrindų susitarimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-04-24"
 latest_path: "latest/TAR.86D3E339BC56.md"
 latest_sha256: "4d930986458790fa88be2623566a32a6106557b41be5081fda5b4268074bab63"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.86D3E339BC56]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos pagrindų susitarimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.86D3E339BC56.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.86D3E339BC56
+- Ryšiai: [[Ryšiai/TAR.86D3E339BC56|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-2e8af055077b1dcb62e61f3a
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. sausio 17 d. dekretą Nr. 1K-930, ratifikuoja Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos pagrindų susitarimą, priimtą 2010 m. gegužės 10 d. Briuselyje.

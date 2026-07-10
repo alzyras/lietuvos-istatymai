@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FBE742808F31"
 pavadinimas: "Lietuvos Respublikos profesinių sąjungų įstatymo 8, 13, 21 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos profesinių sąjungų įstatymo 8, 13, 21 straipsnių pakeitimo ir papildymo įstatymas"
+  - "profesinių sąjungų įstatymo 8, 13, 21 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-30"
 latest_path: "latest/TAR.FBE742808F31.md"
 latest_sha256: "f8d6c45d3defb6e6d3e81e1e3ee98623ab818f7e1825838e27d9d36caeca50ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FBE742808F31]]"
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo 8, 13, 21 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FBE742808F31.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FBE742808F31
+- Ryšiai: [[Ryšiai/TAR.FBE742808F31|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 3 dalies pakeitimas ^s-9533bb8efb79f647ba9f03af
 
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 13 straipsnio papildymas 3 dalimi
+### 2 straipsnis. 13 straipsnio papildymas 3 dalimi ^s-4ed1db32599723d3a39b1c3a
 
 
 Papildyti 13 straipsnį 3 dalimi:
@@ -52,7 +57,7 @@ Papildyti 13 straipsnį 3 dalimi:
 
 
 
-### 3 straipsnis. 21 straipsnio pakeitimas
+### 3 straipsnis. 21 straipsnio pakeitimas ^s-c1e058eace462fa6006a9fc3
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:

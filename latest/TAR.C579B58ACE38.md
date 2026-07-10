@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C579B58ACE38"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-01"
 latest_path: "latest/TAR.C579B58ACE38.md"
 latest_sha256: "6049930edc8001689de033e1625e87ebc9568d6535fd38ee930c2aecca1f7846"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C579B58ACE38]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C579B58ACE38.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C579B58ACE38
+- Ryšiai: [[Ryšiai/TAR.C579B58ACE38|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies 1 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies 1 punkto pakeitimas ^s-b274110c34c9f5004b53c029
 
 
 4 straipsnio 3 dalies 1 punkte vietoj žodžių „Lietuvos Respublikos Ministro Pirmininko tarnyba“ įrašyti žodžius „Vyriausybės kanceliarija“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-0041824207e7af7845b1db04
 
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.

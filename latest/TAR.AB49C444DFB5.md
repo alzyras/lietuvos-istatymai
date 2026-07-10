@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AB49C444DFB5"
 pavadinimas: "Dėl gyvenamųjų namų statybos kooperatyvų"
+aliases:
+  - "Dėl gyvenamųjų namų statybos kooperatyvų"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-10-20"
 latest_path: "latest/TAR.AB49C444DFB5.md"
 latest_sha256: "a6740a76d5feee11ef3417ba83b653a8d9e0de513d167c6ffa336b482cd9cf87"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AB49C444DFB5]]"
 ---
 # Dėl gyvenamųjų namų statybos kooperatyvų
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AB49C444DFB5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AB49C444DFB5
+- Ryšiai: [[Ryšiai/TAR.AB49C444DFB5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

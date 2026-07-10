@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5C2064C13E41"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų ratifikavimo\" 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų ratifikavimo\" 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų ratifikavimo\" 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-04"
 latest_path: "latest/TAR.5C2064C13E41.md"
 latest_sha256: "dc44c84dd5218a9e1299bab72b1d012296188be7a7c263dff60bc502f71b98bc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5C2064C13E41]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų ratifikavimo" 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5C2064C13E41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5C2064C13E41
+- Ryšiai: [[Ryšiai/TAR.5C2064C13E41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-b061cf770710c10ebb6f0300
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

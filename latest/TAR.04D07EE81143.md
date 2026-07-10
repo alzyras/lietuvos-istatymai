@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.04D07EE81143"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 45 ir 49 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 45 ir 49 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 45 ir 49 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.04D07EE81143.md"
 latest_sha256: "ca13a606f61e3f18f0b00ccbb63b371bf401acf4f902ab7ea9f4396cb8327a81"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.04D07EE81143]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 45 ir 49 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.04D07EE81143.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.04D07EE81143
+- Ryšiai: [[Ryšiai/TAR.04D07EE81143|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 45 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 45 straipsnio 2 dalies pakeitimas ^s-ccc60a75642a7334ffc101a8
 
 
 Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 49 straipsnio 2 dalies 6 punkto pakeitimas
+### 2 straipsnis. 49 straipsnio 2 dalies 6 punkto pakeitimas ^s-add25f10a0060f160deed1d8
 
 
 49 straipsnio 2 dalies 6 punkte išbraukti žodį „juridinius“, vietoj žodžių „valstybės tarnautojų kvalifikacijos tobulinimo įstaigų“ įrašyti žodžius „šių asmenų“ ir šį punktą išdėstyti taip:
@@ -53,14 +58,14 @@ Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-8356bcf1eafff0a7bf6eec20
 
 
-Šis įstatymas, išskyrus [[#4 straipsnis. Pasiūlymas vidaus reikalų ministrui|4 straipsnį]], įsigalioja 2009 m. gruodžio 28 d.
+Šis įstatymas, išskyrus [[#^s-f3a110eeb6b4f7a95c834427|4 straipsnį]], įsigalioja 2009 m. gruodžio 28 d.
 
 
 
-### 4 straipsnis. Pasiūlymas vidaus reikalų ministrui
+### 4 straipsnis. Pasiūlymas vidaus reikalų ministrui ^s-f3a110eeb6b4f7a95c834427
 
 
 Vidaus reikalų ministras iki šio įstatymo įsigaliojimo priima jam įgyvendinti reikalingus teisės aktus.

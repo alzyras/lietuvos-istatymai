@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/c52d00a2a67511ef90b5ee8931e5ce5e.md",
   "latest_revision": "2024-11-20",
-  "latest_sha256": "f6ab879da8dd710895dfbe28cd02a3776b7475cb630cda11b77c95b4fd86e3dd",
+  "latest_sha256": "4aee52052f0388e6954bbdf21a3e24dfa31c6780b03e2a9a1fa19ead9a643620",
   "metadata_path": "latest/c52d00a2a67511ef90b5ee8931e5ce5e.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nacionalinio plėtros banko įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:25:42Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

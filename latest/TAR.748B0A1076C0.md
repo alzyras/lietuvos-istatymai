@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.748B0A1076C0"
 pavadinimas: "Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas"
+  - "socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-31"
 latest_path: "latest/TAR.748B0A1076C0.md"
 latest_sha256: "5b3aafe5c25164c3da56f9201e7cf3fcb21d87fd1e410fef7bd20241cbd66f1b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.748B0A1076C0]]"
 ---
 # Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.748B0A1076C0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.748B0A1076C0
+- Ryšiai: [[Ryšiai/TAR.748B0A1076C0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 15 straipsnio 1 dalies 2 punkto pakeitimas ^s-f49a9a5bbc3b988d9de666dd
 
 
 Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.011268BD3F38"
 pavadinimas: "Lietuvos Respublikos bankų įstatymo 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 straipsnių ir priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bankų įstatymo 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 straipsnių ir priedo pakeitimo įstatymas"
+  - "bankų įstatymo 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 straipsnių ir priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-12"
 latest_path: "latest/TAR.011268BD3F38.md"
 latest_sha256: "fdd26af6a0fc6cce2107954e29edfe55c5f626b3be7b32270c745711fc396b7c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.011268BD3F38]]"
 ---
 # Lietuvos Respublikos bankų įstatymo 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 straipsnių ir priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.011268BD3F38.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.011268BD3F38
+- Ryšiai: [[Ryšiai/TAR.011268BD3F38|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,29 +36,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5, 7 ir 8 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 5, 7 ir 8 dalių pakeitimas ^s-91cf57435d7ac28ea877103e
 
 
-1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^b0e15f6a2595487e5f91e793
+1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-01b27f2c009cd173f0dbac2f
 
 
 „5. Komercinis bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę.“
 
 
-2. Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip: ^7b304632e9f594f961359595
+2. Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip: ^s-a9f0808c1e08d656d848f402
 
 
 „7. Specializuotas bankas - Lietuvos Respublikoje įsteigta kredito įstaiga, kuriai išduota licencija suteikia teisę teikti tik šio straipsnio 6 dalies 3 punkte nustatytą licencinę finansinę paslaugą.“
 
 
-3. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip: ^5397d61a0db72d9f65daa792
+3. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip: ^s-f045504936cc9a75cbf8b770
 
 
 „8. Užsienio bankas – užsienio valstybėje įsteigta kredito įstaiga, kuri turi užsienio valstybės priežiūros institucijos išduotą leidimą ar licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu.“
 
 
 
-### 2 straipsnis. 14 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 5 dalies pakeitimas ^s-6b63949abde284f3b9c6a43d
 
 
 14 straipsnio 5 dalyje vietoj žodžių „Kartu bankas turi pateikti veiklos planą, kuriame, be kita ko“ įrašyti žodį „Pranešime“ ir šią dalį išdėstyti taip:
@@ -63,35 +68,35 @@ Vilnius
 
 
 
-### 3 straipsnis. 20 straipsnio 1, 3, 5 ir 6 dalių pakeitimas
+### 3 straipsnis. 20 straipsnio 1, 3, 5 ir 6 dalių pakeitimas ^s-d0682aa351e5095716f70e34
 
 
-1. 20 straipsnio 1 dalį papildyti antru sakiniu ir ją išdėstyti taip: ^1f73654f58ffdf6742490e10
+1. 20 straipsnio 1 dalį papildyti antru sakiniu ir ją išdėstyti taip: ^s-07b970cc32dc7af4a4038725
 
 
 „1. Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas šiame straipsnyje nustatyta tvarka Lietuvos Respublikoje gali steigti filialą ar teikti finansines paslaugas neįsteigęs filialo. Teisė teikti finansines paslaugas neįsteigus filialo nesuteikia teisės Europos Sąjungos valstybėje narėje licencijuotam užsienio bankui verstis nuolatine finansinių paslaugų teikimo veikla Lietuvos Respublikoje.“
 
 
-2. Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip: ^8e84621b4393cfe8c9e69e5f
+2. Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip: ^s-56403a411b8492a4a71eb9cd
 
 
 „3. Europos Sąjungos valstybėje narėje licencijuoto užsienio banko filialas gali būti įsteigtas ir pradėti veiklą tada, kai užsienio bankas gauna šio straipsnio 2 dalies 2 punkte nurodytą pranešimą, o jei pranešimo negauna, – praėjus 2 mėnesiams nuo tos dienos, kurią Lietuvos priežiūros institucija iš užsienio valstybės priežiūros institucijos gavo šio straipsnio 2 dalies 1 punkte nurodytą informaciją.“
 
 
-3. Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip: ^ed2672437297ee9dd81bb465
+3. Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip: ^s-d3f4c4cdb513c14c06e4f39b
 
 
 „5. Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas gali pradėti teikti finansines paslaugas Lietuvos Respublikoje neįsteigęs filialo nuo tos dienos, kurią Lietuvos priežiūros institucija iš užsienio valstybės, kurios jurisdikcijai priklauso užsienio bankas, priežiūros institucijos gavo pranešimą, kuriame nurodytos numatomos teikti finansinės paslaugos.“
 
 
-4. 20 straipsnio 6 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip: ^0915a625fec1b82447a032b9
+4. 20 straipsnio 6 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip: ^s-1260276d3ea97a8c66485730
 
 
 „6. Jei keičiasi pagal šio straipsnio 2 dalies 1 punktą priežiūros institucijai perduota informacija apie filialo veiklos planą, filialo organizacinę struktūrą, filialo buveinę (adresą) Lietuvos Respublikoje ar filialo vadovus, užsienio bankas apie tai turi pranešti Lietuvos priežiūros institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį iki pakeitimo.“
 
 
 
-### 4 straipsnis. 46 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 46 straipsnio 2 dalies pakeitimas ^s-4a12aac752478cb837c5b1b8
 
 
 46 straipsnio 2 dalyje vietoj žodžių „išmokėtas dividendais ir tantjemomis“ įrašyti žodžius „skiriamas dividendams išmokėti ir kitiems tikslams“ ir šią dalį išdėstyti taip:
@@ -101,20 +106,20 @@ Vilnius
 
 
 
-### 5 straipsnis. 53 straipsnio 1 dalies 4 punkto pakeitimas ir 2, 3 dalių pripažinimas netekusiomis galios
+### 5 straipsnis. 53 straipsnio 1 dalies 4 punkto pakeitimas ir 2, 3 dalių pripažinimas netekusiomis galios ^s-40b3ea95b1cac8a132421ec6
 
 
-1. 53 straipsnio 1 dalies 4 punkte po žodžio „straipsnio“ įrašyti žodžius „[[#^7d07b1afb33fa4b530015cae|1 dalies]]“ ir šį punktą išdėstyti taip: ^7d07b1afb33fa4b530015cae
+1. 53 straipsnio 1 dalies 4 punkte po žodžio „straipsnio“ įrašyti žodžius „[[#^s-b851ec61caf728e8872cce6c|1 dalies]]“ ir šį punktą išdėstyti taip: ^s-b851ec61caf728e8872cce6c
 
 
 „4) fiziniai asmenys, artimos giminystės, taip pat svainystės ryšiais susiję su šio straipsnio 1 dalies 1 punkte nurodytais fiziniais asmenimis;“.
 
 
-2. 53 straipsnio 2 ir 3 dalis pripažinti netekusiomis galios. ^24c81e19bc15c8ff09ee8805
+2. 53 straipsnio 2 ir 3 dalis pripažinti netekusiomis galios. ^s-26b3ec4eec3dac5d97eed99b
 
 
 
-### 6 straipsnis. 55 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 55 straipsnio 2 dalies pakeitimas ^s-ef3c165f7091b5b20caa257f
 
 
 55 straipsnio 2 dalyje po žodžio „dalyse“ įrašyti žodžius „ir kituose įstatymuose“ ir šią dalį išdėstyti taip:
@@ -124,57 +129,57 @@ Vilnius
 
 
 
-### 7 straipsnis.         65 straipsnio 5 dalies papildymas 7 ir 8 punktais bei 6 ir 8 dalių pakeitimas
+### 7 straipsnis.         65 straipsnio 5 dalies papildymas 7 ir 8 punktais bei 6 ir 8 dalių pakeitimas ^s-1c4a1b1de36e0ceea6a11627
 
 
-1. 65 straipsnio 5 dalį papildyti 7 punktu: ^a2c902c87c114d1916435f98
+1. 65 straipsnio 5 dalį papildyti 7 punktu: ^s-394f4d506e54456c9681dc8e
 
 
 „7) Europos centriniam bankui ir Europos Sąjungos valstybių narių centriniams bankams bei kitoms panašias funkcijas atliekančioms institucijoms, jei ji reikalinga jų funkcijoms atlikti;“.
 
 
-2. 65 straipsnio 5 dalį papildyti 8 punktu: ^fc5b83859392650848567fb6
+2. 65 straipsnio 5 dalį papildyti 8 punktu: ^s-a8aede10eca88ef1771b2b82
 
 
 „8) kitoms valstybės institucijoms, jei tokia informacija reikalinga jų funkcijoms atlikti ir jei tai  būtina  kredito įstaigų priežiūros tikslams.“
 
 
-3. 65 straipsnio 6 dalyje vietoj skaičiaus „6“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip: ^5cbf95595cac8d808a5c1c34
+3. 65 straipsnio 6 dalyje vietoj skaičiaus „6“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip: ^s-c90af86dbd748e2938378967
 
 
 „6. Šio straipsnio 5 dalies 3–8 punktuose nurodytoms institucijoms priežiūros tikslui gauta informacija gali būti perduodama, jei joms taikomi reikalavimai saugoti informaciją yra ne mažesni, negu numatyta šiame Įstatyme.“
 
 
-4. Pakeisti 65 straipsnio 8 dalį ir ją išdėstyti taip: ^a1fa5bd35f801a60d10d933a
+4. Pakeisti 65 straipsnio 8 dalį ir ją išdėstyti taip: ^s-7a6bc12229df89cab607de16
 
 
 „8. Priežiūros tikslui iš užsienio valstybės, kuri yra Europos Sąjungos narė, finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijos gauta informacija arba informacija, gauta kitoje Europos Sąjungos valstybėje narėje atlikto inspektavimo (tikrinimo) metu, gali būti perduota pagal šio straipsnio 5 dalies 8 punktą ar šio straipsnio 7 dalį, jei yra gautas informaciją pateikusios institucijos ar Europos Sąjungos valstybės narės, kurioje buvo atliktas inspektavimas (tikrinimas), priežiūros institucijos sutikimas, ir tik tam tikslui, dėl kurio duotas sutikimas.“
 
 
 
-### 8 straipsnis. 69 straipsnio 6, 7 ir 8 dalių pakeitimas
+### 8 straipsnis. 69 straipsnio 6, 7 ir 8 dalių pakeitimas ^s-6f9b491dbf91395d8329c833
 
 
-1. Pakeisti 69 straipsnio 6 dalį ir ją išdėstyti taip: ^b50f30d6e8cacd301d972d14
+1. Pakeisti 69 straipsnio 6 dalį ir ją išdėstyti taip: ^s-71c447c2bc78f4ca3d8ed4f2
 
 
 „6. Šiame straipsnyje nustatyta tvarka priežiūros institucija turi teisę inspektuoti (tikrinti) ir užsienio banko padalinius Lietuvos Respublikoje, o jungtinės (konsoliduotos) priežiūros tikslais – ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones. Jei jungtinės (konsoliduotos) priežiūros tikslais reikia patikrinti šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso kitos Europos Sąjungos valstybės narės jurisdikcijai, tai priežiūros institucija prašo, kad patikrinimą atliktų šios Europos Sąjungos valstybės narės priežiūros institucija, arba, jeigu ši priežiūros institucija leidžia, patikrinimą atlieka pati Lietuvos priežiūros institucija ar šio straipsnio 9 dalyje nurodyti asmenys.“
 
 
-2. Pakeisti 69 straipsnio 7 dalį ir ją išdėstyti taip: ^efd504bfee9fee0b8fdcc78e
+2. Pakeisti 69 straipsnio 7 dalį ir ją išdėstyti taip: ^s-a1cec818893f4b31998503fd
 
 
 „7. Užsienio valstybės, kuri yra Europos Sąjungos valstybė narė, priežiūros institucija pati arba jos nurodyti auditoriai ar ekspertai, prieš tai informavę Lietuvos priežiūros instituciją, turi teisę inspektuoti (tikrinti) tos valstybės jurisdikcijai priklausančio užsienio banko padalinį Lietuvos Respublikoje. Jei jungtinės (konsoliduotos) priežiūros tikslais kitos Europos Sąjungos valstybės narės priežiūros institucijai reikia patikrinti šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai, tai jos prašymu tokį patikrinimą atlieka Lietuvos priežiūros institucija arba Lietuvos priežiūros institucijos leidimu pati prašančioji kitos Europos Sąjungos valstybės narės priežiūros institucija arba jos nurodyti auditoriai ar ekspertai. Jei kitos Europos Sąjungos valstybės narės priežiūros institucijos prašymu tikrinimą atlieka Lietuvos priežiūros institucija, tai prašančioji kitos Europos Sąjungos valstybės narės priežiūros institucija turi teisę dalyvauti atliekant tokį tikrinimą.“
 
 
-3. 69 straipsnio 8 dalyje po žodžio „Respublikoje“ įrašyti žodžius „ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai“ ir šią dalį išdėstyti taip: ^2b45a2c087ee986626145ad4
+3. 69 straipsnio 8 dalyje po žodžio „Respublikoje“ įrašyti žodžius „ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai“ ir šią dalį išdėstyti taip: ^s-7ce3e6c9c949f5e2c64adfea
 
 
 „8. Užsienio valstybės, kuri nėra Europos Sąjungos valstybė narė, priežiūros institucija turi teisę inspektuoti (tikrinti) užsienio banko padalinius Lietuvos Respublikoje ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai, jei tarp jos ir Lietuvos priežiūros institucijos yra sudaryta sutartis, numatanti tokią teisę ir reglamentuojanti inspektavimo (tikrinimo) organizavimo tvarką.“
 
 
 
-### 9 straipsnis. 72 straipsnio 1 dalies 1 punkto pakeitimas
+### 9 straipsnis. 72 straipsnio 1 dalies 1 punkto pakeitimas ^s-6836329d2861b1f28f6e6e56
 
 
 72 straipsnio 1 dalies 1 punkte išbraukti žodžius „veiklos trūkumų“ bei žodžius „ar netinkamo vykdymo“ ir šį punktą išdėstyti taip:
@@ -184,7 +189,7 @@ Vilnius
 
 
 
-### 10 straipsnis. 90 straipsnio pakeitimas
+### 10 straipsnis. 90 straipsnio pakeitimas ^s-f8f43c0a69c32a711e264d55
 
 
 Pakeisti 90 straipsnį ir jį išdėstyti taip:
@@ -193,50 +198,50 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 „90 straipsnis.     Sprendimas taikyti banko veiklą ribojančias priemones ar pradėti banko likvidavimo bylą ir taikytina teisė
 
 
-1. Tik Lietuvos Respublikos teismas ir priežiūros institucija turi teisę priimti sprendimą pritaikyti banko veiklą ribojančias priemones ar pradėti banko likvidavimo bylą Lietuvos Respublikoje įsteigtam bankui, įskaitant jo filialus Europos Sąjungos valstybėse narėse. ^969b4008644b9e6d02ef1c31
+1. Tik Lietuvos Respublikos teismas ir priežiūros institucija turi teisę priimti sprendimą pritaikyti banko veiklą ribojančias priemones ar pradėti banko likvidavimo bylą Lietuvos Respublikoje įsteigtam bankui, įskaitant jo filialus Europos Sąjungos valstybėse narėse. ^s-8e0f769a6797032aba306651
 
 
-2. Pagal [[#^969b4008644b9e6d02ef1c31|šio straipsnio 1 dalį]] Lietuvos Respublikos teismo ar priežiūros institucijos sprendimu nustatytos banko veiklą ribojančios priemonės taikomos ir Lietuvos Respublikos teismo sprendimu pradėtos likvidavimo bylos procedūros atliekamos vadovaujantis Lietuvos Respublikos teise, išskyrus [[#^cbd476f4ff10789f37ffebc9|šio straipsnio 6 dalyje]] nustatytas išimtis. ^320c0164f94f932c8c1207f3
+2. Pagal [[#^s-8e0f769a6797032aba306651|šio straipsnio 1 dalį]] Lietuvos Respublikos teismo ar priežiūros institucijos sprendimu nustatytos banko veiklą ribojančios priemonės taikomos ir Lietuvos Respublikos teismo sprendimu pradėtos likvidavimo bylos procedūros atliekamos vadovaujantis Lietuvos Respublikos teise, išskyrus [[#^s-3c42375e205d0a132d85916d|šio straipsnio 6 dalyje]] nustatytas išimtis. ^s-72c0498240f473b876f6028d
 
 
-3. Kitos Europos Sąjungos valstybės narės institucijų priimti sprendimai pritaikyti banko veiklą ribojančias priemones ar pradėti banko likvidavimo bylą toje kitoje Europos Sąjungos valstybėje narėje įsteigtam bankui, taip pat jo filialams Lietuvos Respublikoje be jokių papildomų formalumų pripažįstami Lietuvos Respublikoje nuo tada, kai pritaikytos banko veiklą ribojančios priemonės ar teismo sprendimas įsigalioja toje kitoje Europos Sąjungos valstybėje narėje. Tokios banko veiklą ribojančios priemonės taikomos ir pradėtos likvidavimo bylos procedūros atliekamos vadovaujantis tos kitos Europos Sąjungos valstybės narės teise, išskyrus [[#^cbd476f4ff10789f37ffebc9|šio straipsnio 6 dalyje]] nustatytas išimtis. ^cf9626a9aa242efc3fd09b74
+3. Kitos Europos Sąjungos valstybės narės institucijų priimti sprendimai pritaikyti banko veiklą ribojančias priemones ar pradėti banko likvidavimo bylą toje kitoje Europos Sąjungos valstybėje narėje įsteigtam bankui, taip pat jo filialams Lietuvos Respublikoje be jokių papildomų formalumų pripažįstami Lietuvos Respublikoje nuo tada, kai pritaikytos banko veiklą ribojančios priemonės ar teismo sprendimas įsigalioja toje kitoje Europos Sąjungos valstybėje narėje. Tokios banko veiklą ribojančios priemonės taikomos ir pradėtos likvidavimo bylos procedūros atliekamos vadovaujantis tos kitos Europos Sąjungos valstybės narės teise, išskyrus [[#^s-3c42375e205d0a132d85916d|šio straipsnio 6 dalyje]] nustatytas išimtis. ^s-8411d01d5ca3626fa41c8a9f
 
 
-4. [[#^cf9626a9aa242efc3fd09b74|Šio straipsnio 3 dalies]] nuostatos neriboja Lietuvos priežiūros institucijos teisės šio Įstatymo nustatytais atvejais ir tvarka taikyti poveikio priemones Europos Sąjungos valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigtam filialui. ^fe361f437373d241828e4964
+4. [[#^s-8411d01d5ca3626fa41c8a9f|Šio straipsnio 3 dalies]] nuostatos neriboja Lietuvos priežiūros institucijos teisės šio Įstatymo nustatytais atvejais ir tvarka taikyti poveikio priemones Europos Sąjungos valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigtam filialui. ^s-c89177daa8a71637ddfb9c62
 
 
-5. Jei tai numato Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teisės aktai, sprendimas taikyti banko veiklą ribojančias priemones ar sprendimas pradėti banko likvidavimo bylą turi būti registruojamas atitinkamos valstybės viešame registre. ^50731a35a25a37a693f386ee
+5. Jei tai numato Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teisės aktai, sprendimas taikyti banko veiklą ribojančias priemones ar sprendimas pradėti banko likvidavimo bylą turi būti registruojamas atitinkamos valstybės viešame registre. ^s-2dda241a6ff5db1baee3500c
 
 
-6. Neatsižvelgiant į tai, kurios Europos Sąjungos valstybės narės, įskaitant ir Lietuvos Respubliką, institucijos priėmė sprendimą taikyti banko veiklą ribojančias priemones ar sprendimą pradėti banko likvidavimo bylą: ^cbd476f4ff10789f37ffebc9
+6. Neatsižvelgiant į tai, kurios Europos Sąjungos valstybės narės, įskaitant ir Lietuvos Respubliką, institucijos priėmė sprendimą taikyti banko veiklą ribojančias priemones ar sprendimą pradėti banko likvidavimo bylą: ^s-3c42375e205d0a132d85916d
 
 
-1) darbo santykiams taikoma tos Europos Sąjungos valstybės narės teisė, kuri taikoma sudarytai darbo sutarčiai; ^e05ca3973ea62ab06bd26a22
+1) darbo santykiams taikoma tos Europos Sąjungos valstybės narės teisė, kuri taikoma sudarytai darbo sutarčiai; ^s-c5bdd74ee40d50c5fa66d115
 
 
-2) sutarčiai, kuri suteikia teisę naudoti ar įsigyti nekilnojamąjį daiktą, taikoma tos Europos Sąjungos valstybės narės, kurioje yra nekilnojamasis daiktas, teisė; ^0b89de5ef39cf291a0d7d4d3
+2) sutarčiai, kuri suteikia teisę naudoti ar įsigyti nekilnojamąjį daiktą, taikoma tos Europos Sąjungos valstybės narės, kurioje yra nekilnojamasis daiktas, teisė; ^s-cc1bfb9b804eb2afed1fcebd
 
 
-3) teisėms į nekilnojamąjį daiktą, laivą arba orlaivį, kurios turi būti registruojamos viešame registre, taikoma tos Europos Sąjungos valstybės narės, kurioje yra tvarkomas viešasis registras, teisė; ^0f745c117d5ebf309d06fd69
+3) teisėms į nekilnojamąjį daiktą, laivą arba orlaivį, kurios turi būti registruojamos viešame registre, taikoma tos Europos Sąjungos valstybės narės, kurioje yra tvarkomas viešasis registras, teisė; ^s-e86b5d5850f1bf2cc25ccc0e
 
 
-4) įgyvendinant nuosavybės ir kitas teises į finansines priemones, nurodytas  2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyvos 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičiančios Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinančios Tarybos direktyvą 93/22/EEB, I priedo C skirsnyje, kurių perleidimą ar įgijimą būtina registruoti viešame registre, vertybinių popierių sąskaitoje ar depozitoriume, taikoma tos Europos Sąjungos valstybės narės, kuriai priklauso ar kurioje yra viešas registras, vertybinių popierių sąskaita ar depozitoriumas, teisė; ^5035bd3320af418ce3d66163
+4) įgyvendinant nuosavybės ir kitas teises į finansines priemones, nurodytas  2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyvos 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičiančios Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinančios Tarybos direktyvą 93/22/EEB, I priedo C skirsnyje, kurių perleidimą ar įgijimą būtina registruoti viešame registre, vertybinių popierių sąskaitoje ar depozitoriume, taikoma tos Europos Sąjungos valstybės narės, kuriai priklauso ar kurioje yra viešas registras, vertybinių popierių sąskaita ar depozitoriumas, teisė; ^s-1ecc012c6aaff80bbc309bec
 
 
-5) susitarimams dėl įskaitymo taikoma tokius susitarimus reglamentuojančioje sutartyje nurodyta teisė; ^6759e5f7cf2cf2f89fb44f93
+5) susitarimams dėl įskaitymo taikoma tokius susitarimus reglamentuojančioje sutartyje nurodyta teisė; ^s-2847125e46ce4e5c72c80acf
 
 
-6) nepažeidžiant [[#^5035bd3320af418ce3d66163|šio straipsnio 6 dalies 4 punkto]] nuostatų, atpirkimo sandoriams bei reguliuojamoje rinkoje sudaromiems sandoriams taikoma tokius sandorius reglamentuojančioje sutartyje nurodyta teisė; ^bbf1b1268f08da90c659a82a
+6) nepažeidžiant [[#^s-1ecc012c6aaff80bbc309bec|šio straipsnio 6 dalies 4 punkto]] nuostatų, atpirkimo sandoriams bei reguliuojamoje rinkoje sudaromiems sandoriams taikoma tokius sandorius reglamentuojančioje sutartyje nurodyta teisė; ^s-2ca3070def7b8169d5d42e7e
 
 
-7) jei po sprendimo taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko likvidavimo bylą bankas atlygintinai perleidžia nekilnojamąjį daiktą, laivą ar orlaivį, kuriuos būtina įregistruoti viešame registre, arba finansines priemones, nurodytas 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyvos 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičiančios Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinančios Tarybos direktyvą 93/22/EEB, I priedo C skirsnyje, ar teises į finansines priemones, kurias (finansines priemones ar teises į jas) būtina registruoti viešame registre, vertybinių popierių sąskaitoje ar depozitoriume, tai tokio sandorio galiojimą reglamentuoja tos Europos Sąjungos valstybės narės, kurioje yra nekilnojamasis daiktas ar kurioje tvarkomas viešas registras, vertybinių popierių sąskaita ar depozitoriumas, teisė; ^5efb5c07563ec20a6fa5c2b1
+7) jei po sprendimo taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko likvidavimo bylą bankas atlygintinai perleidžia nekilnojamąjį daiktą, laivą ar orlaivį, kuriuos būtina įregistruoti viešame registre, arba finansines priemones, nurodytas 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyvos 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičiančios Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinančios Tarybos direktyvą 93/22/EEB, I priedo C skirsnyje, ar teises į finansines priemones, kurias (finansines priemones ar teises į jas) būtina registruoti viešame registre, vertybinių popierių sąskaitoje ar depozitoriume, tai tokio sandorio galiojimą reglamentuoja tos Europos Sąjungos valstybės narės, kurioje yra nekilnojamasis daiktas ar kurioje tvarkomas viešas registras, vertybinių popierių sąskaita ar depozitoriumas, teisė; ^s-e5960f01b532f2a97f7b808a
 
 
-8) sprendimo taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko likvidavimo bylą poveikį teisme nagrinėjamam ieškiniui dėl banko turto ar reikalavimo teisės reglamentuoja tos Europos Sąjungos valstybės narės, kurioje yra nagrinėjamas ieškinys, teisė.“ ^e56e3531c53fa3a3127ddbf2
+8) sprendimo taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko likvidavimo bylą poveikį teisme nagrinėjamam ieškiniui dėl banko turto ar reikalavimo teisės reglamentuoja tos Europos Sąjungos valstybės narės, kurioje yra nagrinėjamas ieškinys, teisė.“ ^s-a3bdf16b6ca9c4d423ae3b7e
 
 
 
-### 11 straipsnis. 91 straipsnio 3 dalies pakeitimas
+### 11 straipsnis. 91 straipsnio 3 dalies pakeitimas ^s-1de6d17e8197f7a8dbf61fa7
 
 
 91 straipsnio 3 dalyje vietoj žodžių „žurnale Official Journal of the European Communities“ įrašyti žodžius „Europos Sąjungos oficialiame leidinyje“ ir šią dalį išdėstyti taip:
@@ -246,7 +251,7 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 
 
-### 12 straipsnis. 92 straipsnio 3 dalies pakeitimas
+### 12 straipsnis. 92 straipsnio 3 dalies pakeitimas ^s-36a94a14f6b3e8002078c653
 
 
 92 straipsnio 3 dalyje vietoj žodžių „žurnale Official Journal of the European Communities“ įrašyti žodžius „Europos Sąjungos oficialiame leidinyje“ ir šią dalį išdėstyti taip:
@@ -256,7 +261,7 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 
 
-### 13 straipsnis. Įstatymo priedo 1 punkto pripažinimas netekusiu galios
+### 13 straipsnis. Įstatymo priedo 1 punkto pripažinimas netekusiu galios ^s-9634662df350f5eef7dfa7ee
 
 
 Įstatymo priedo 1 punktą pripažinti netekusiu galios.

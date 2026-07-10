@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.2E7C18F61454.md",
   "latest_revision": "2002-04-06",
-  "latest_sha256": "f7f0925958bf55af9f5f4de17091a47841222b0902978908a42847add834758f",
+  "latest_sha256": "515b667316a27df59a568abe6e30319e6c4c4d9ece3dc0b660f877b1ef06438d",
   "metadata_path": "latest/TAR.2E7C18F61454.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:44Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

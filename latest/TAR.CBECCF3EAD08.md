@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CBECCF3EAD08"
 pavadinimas: "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas"
+  - "transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-18"
 latest_path: "latest/TAR.CBECCF3EAD08.md"
 latest_sha256: "313c745cad1c65b165d76bd315c39d13538b688ad218546cc9464895cbb8b932"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CBECCF3EAD08]]"
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CBECCF3EAD08.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CBECCF3EAD08
+- Ryšiai: [[Ryšiai/TAR.CBECCF3EAD08|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas ^s-1e143ac8e58179b204823cea
 
 
 6 straipsnio 1 dalyje vietoj žodžių „savivaldybių institucijoms“ įrašyti žodį „savivaldybėms“, dalį papildyti sakiniu „Nuosavybės teisė į viešosios transporto infrastruktūros objektus – autobusų stotis negali būti perleista kitiems Lietuvos Respublikos ar užsienio fiziniams ar juridiniams asmenims“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4A33E92A1136"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl susitarimo dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl susitarimo dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo ratifikavimo"
+  - "įstatymas dėl susitarimo dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-08-10"
 latest_path: "latest/TAR.4A33E92A1136.md"
 latest_sha256: "0197921f73607ffd3c4a8da79e43b871342ae21a43c148b199669bf8903ee727"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4A33E92A1136]]"
 ---
 # Lietuvos Respublikos įstatymas dėl susitarimo dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4A33E92A1136.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4A33E92A1136
+- Ryšiai: [[Ryšiai/TAR.4A33E92A1136|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-750b62f11dbff85fa40fa386
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. birželio 2 d. dekretą Nr. 85, ratifikuoja 1999 m. lapkričio 1 d. Keiptaune priimtą Susitarimą dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo.

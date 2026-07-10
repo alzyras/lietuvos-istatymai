@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3C62C6893990"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių papildymo įstatymas"
+  - "notariato įstatymo 3 ir 23 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-30"
 latest_path: "latest/TAR.3C62C6893990.md"
 latest_sha256: "ab205f21e88cc5093b0fb1b48a1680f5a60787c194aa426372064acded615fbb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3C62C6893990]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3C62C6893990.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3C62C6893990
+- Ryšiai: [[Ryšiai/TAR.3C62C6893990|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies papildymas
+### 1 straipsnis. 3 straipsnio 2 dalies papildymas ^s-8ccc1ddade5e04b81143d66a
 
 
 Papildyti 3 straipsnio 2 dalį sakiniu ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 3 straipsnio 2 dalį sakiniu ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 23 straipsnio 1 dalies papildymas 12 punktu
+### 2 straipsnis. 23 straipsnio 1 dalies papildymas 12 punktu ^s-cda4a9e8b00e733c33372c07
 
 
 Papildyti 23 straipsnio 1 dalį 12 punktu:

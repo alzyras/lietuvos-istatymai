@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.05594217E00C"
 pavadinimas: "Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymo pripažinimo netekusiu galios įstatymas"
+  - "biokuro, biodegalų ir bioalyvų įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-05"
 latest_path: "latest/TAR.05594217E00C.md"
 latest_sha256: "45ab36dd07b82f0546c28cc76c3bcf3ebe3a5f21d53dd8658d438db602bed89d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.05594217E00C]]"
 ---
 # Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.05594217E00C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.05594217E00C
+- Ryšiai: [[Ryšiai/TAR.05594217E00C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymo pripažinimas netekusiu galios ^s-d6ae50a20b360aaffdd52a54
 
 
 Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymą pripažinti netekusiu galios.

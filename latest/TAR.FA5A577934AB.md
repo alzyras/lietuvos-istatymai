@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FA5A577934AB"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 31, 46, 47, 49 ir 50 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 31, 46, 47, 49 ir 50 straipsnių pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo 31, 46, 47, 49 ir 50 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.FA5A577934AB.md"
 latest_sha256: "e3af0771ac2a7d7b0068b770eab69bc207ca41f58f3ecbda79d0792bde8b0aaf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FA5A577934AB]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 31, 46, 47, 49 ir 50 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FA5A577934AB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FA5A577934AB
+- Ryšiai: [[Ryšiai/TAR.FA5A577934AB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 31 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 31 straipsnio 8 dalies pakeitimas ^s-380a8ba64425fd00f4ed2d00
 
 
 31 straipsnio 8 dalyje vietoj žodžių „leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ įrašyti žodžius „Komisijos interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 46 straipsnio 7 dalies pakeitimas
+### 2 straipsnis. 46 straipsnio 7 dalies pakeitimas ^s-5fa8742ea107e37645a83e9f
 
 
 46 straipsnio 7 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodžius „interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -53,29 +58,29 @@ Vilnius
 
 
 
-### 3 straipsnis. 47 straipsnio 6, 14 ir 17 dalių pakeitimas
+### 3 straipsnis. 47 straipsnio 6, 14 ir 17 dalių pakeitimas ^s-b1093fb889fe3faecc1b07be
 
 
-1. 47 straipsnio 6 dalyje išbraukti žodžius „leidinyje „Valstybės žinios“ ir“, vietoj žodžio „tinklalapyje“ įrašyti žodžius „interneto svetainėje“ ir šią dalį išdėstyti taip: ^7d05d524cc13947e93b44998
+1. 47 straipsnio 6 dalyje išbraukti žodžius „leidinyje „Valstybės žinios“ ir“, vietoj žodžio „tinklalapyje“ įrašyti žodžius „interneto svetainėje“ ir šią dalį išdėstyti taip: ^s-5f92562004efa212ad888632
 
 
 „6. Tais atvejais, kai Komisijos nario įgaliojimai nutrūksta anksčiau laiko šiame straipsnyje numatytais pagrindais, Komisija kreipiasi į instituciją ar organizaciją, paskyrusią Komisijos narį, kurio įgaliojimai nutrūksta anksčiau laiko, prašydama paskirti naują Komisijos narį iki kadencijos, kuriai buvo paskirtas Komisijos narys, kurio įgaliojimai nutrūko anksčiau laiko, pabaigos. Informacija apie Komisijos sudėtį ir jos pasikeitimus skelbiama Komisijos interneto svetainėje – informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija.“
 
 
-2. 47 straipsnio 14 dalyje vietoj žodžių „leidinyje „Valstybės žinios“ įrašyti žodžius „Teisės aktų registre“, vietoj žodžio „tinklalapyje“ įrašyti žodžius „interneto svetainėje“ ir šią dalį išdėstyti taip: ^464fb8ed0a2913b17c14bd4d
+2. 47 straipsnio 14 dalyje vietoj žodžių „leidinyje „Valstybės žinios“ įrašyti žodžius „Teisės aktų registre“, vietoj žodžio „tinklalapyje“ įrašyti žodžius „interneto svetainėje“ ir šią dalį išdėstyti taip: ^s-9f8187a02595154a647e49c4
 
 
 „14. Komisijos sprendimus pasirašo Komisijos pirmininkas arba jo pavaduotojas, kai Komisijos pirmininkas yra laikinai išvykęs į užsienį arba dėl ligos laikinai negali eiti savo pareigų. Komisijos pirmininko pavaduotojas atlieka ir kitas funkcijas, kai Komisijos pirmininkas laikinai negali eiti savo pareigų. Komisijos sprendimai, kurie yra norminiai teisės aktai, skelbiami Teisės aktų registre. Komisijos sprendimai įsigalioja kitą dieną po jų paskelbimo, jeigu pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo data. Kiti Komisijos priimti individualūs teisės aktai skelbiami Komisijos interneto svetainėje – informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija, ir įsigalioja jų paskelbimo dieną, jeigu juose nenustatyta vėlesnė jų įsigaliojimo data. Visi Komisijos norminių teisės aktų projektai derinami su visuomene viešųjų konsultacijų būdu. Viešųjų konsultacijų tvarka nustatoma Komisijos nuostatuose. Komisijos sprendimai radijo ir (ar) televizijos programų transliuotojams, retransliuotojams ar užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams yra privalomi, juos šie asmenys gali skųsti teismui per 30 dienų nuo Komisijos sprendimų įsigaliojimo dienos.“
 
 
-3. 47 straipsnio 17 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip: ^9c21682aaa1a3cdb5213c8e3
+3. 47 straipsnio 17 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip: ^s-2244fde7e392f28120f72932
 
 
-„17. Komisija kiekvienais metais rengia detalią metinę planuojamų pajamų ir išlaidų sąmatą. Komisijos buhalterinė apskaita organizuojama ir tvarkoma, finansinių ataskaitų rinkiniai sudaromi ir teikiami Buhalterinės apskaitos įstatyme ir Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose bei viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartuose nustatyta tvarka. Komisijos praėjusių metų finansinių ataskaitų rinkinį patikrina Komisijos parinktas auditorius ar audito įmonė ne vėliau kaip iki balandžio 1 dienos. Auditorius ar audito įmonė parenkami Viešųjų pirkimų įstatyme nustatyta tvarka. Atlikus auditą, Komisijai pateikiama nepriklausomo auditoriaus išvada ir audito ataskaita, kurias Komisija paskelbia viešai savo interneto svetainėje. Komisijos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.“
+„17. Komisija kiekvienais metais rengia detalią metinę planuojamų pajamų ir išlaidų sąmatą. Komisijos buhalterinė apskaita organizuojama ir tvarkoma, finansinių ataskaitų rinkiniai sudaromi ir teikiami [[latest/TAR.43178AA9832E|Buhalterinės apskaitos įstatyme]] ir [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatyme]] ir kituose teisės aktuose bei viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartuose nustatyta tvarka. Komisijos praėjusių metų finansinių ataskaitų rinkinį patikrina Komisijos parinktas auditorius ar audito įmonė ne vėliau kaip iki balandžio 1 dienos. Auditorius ar audito įmonė parenkami [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatyme]] nustatyta tvarka. Atlikus auditą, Komisijai pateikiama nepriklausomo auditoriaus išvada ir audito ataskaita, kurias Komisija paskelbia viešai savo interneto svetainėje. Komisijos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.“
 
 
 
-### 4 straipsnis. 49 straipsnio 14 dalies pakeitimas
+### 4 straipsnis. 49 straipsnio 14 dalies pakeitimas ^s-34b221701fe303d2d39d3e62
 
 
 49 straipsnio 14 dalyje vietoj žodžių „tinklalapyje (svetainėje)“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip:
@@ -85,7 +90,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 50 straipsnio 16 dalies pakeitimas
+### 5 straipsnis. 50 straipsnio 16 dalies pakeitimas ^s-9d00b0dcfd6a0cb459d68c31
 
 
 50 straipsnio 16 dalyje išbraukti žodžius „neatlygintinai“, „Valstybės žinių“ priede „Informaciniai pranešimai“ ir“, vietoj žodžių „tinklalapyje (svetainėje)“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip:
@@ -95,7 +100,7 @@ Vilnius
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-3386347332fd5b1b2eb2ce49
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

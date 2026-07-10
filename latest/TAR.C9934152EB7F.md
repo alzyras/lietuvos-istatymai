@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C9934152EB7F"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimo dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimo dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, ratifikavimo įstatymas"
+  - "Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimo dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-03"
 latest_path: "latest/TAR.C9934152EB7F.md"
 latest_sha256: "e3b789ed5e87e076fb33ca8b6966928cc3e2e0d8885d4048df417a410162c272"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C9934152EB7F]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimo dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C9934152EB7F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C9934152EB7F
+- Ryšiai: [[Ryšiai/TAR.C9934152EB7F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-04919f8c55afeddd12bf5749
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, pasirašytą 1999 m. vasario 11 d. Lisabonoje.

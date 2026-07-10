@@ -1,0 +1,153 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.96A68BFC9E82"
+pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymas"
+---
+# Lietuvos Respublikos Vyriausybės įstatymas: ryšiai
+
+- [[latest/TAR.96A68BFC9E82|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 4 citatos - Darbo kodekse
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Dokumentų ir archyvų įstatymo
+- [[latest/TAR.A56E2F05829E|Lietuvos Respublikos Europos reikalų ministerijos, Ūkio ministerijos, Žemės ir miškų ūkio ministerijos įsteigimo, Ekonomikos ministerijos, Energetikos ministerijos, Miškų ūkio ministerijos, Pramonės ir prekybos ministerijos, Žemės ūkio ministerijos panaikinimo ir Vyriausybės įstatymo 27 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas NR. VIII-36
+- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 2 citatos - Lietuvos Respublikos mokslo ir studijų įstatyme
+- [[latest/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatymas]] - 8 citatos - Lietuvos Respublikos strateginio valdymo įstatyme
+- [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 2 citatos - Lietuvos Respublikos užimtumo įstatyme
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Valstybinio socialinio draudimo įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymo
+- [[latest/TAR.4E70B72CB9C8|Lietuvos Respublikos Vyriausybės įstatymo 13 ir 16 straipsnių pakeitimo įstatymas]] - 4 citatos - LIETUVOS  RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 13 IR 16  STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.F17C1676D84E|Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.5BA256D33F87|Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. X-1780
+- [[latest/TAR.378B40FDDD32|Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-1127
+- [[latest/TAR.B9F6681B3DEE|Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-124
+- [[latest/TAR.0BB1C8ACD708|Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-511
+- [[latest/TAR.F24261E960EC|Lietuvos Respublikos Vyriausybės įstatymo 13, 20, 39 ir 40 straipsnių pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.0DB29B7C5037|Lietuvos Respublikos Vyriausybės įstatymo 13, 24, 27, 39, 40, 44, 44-1, 45, 46 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-319
+- [[latest/TAR.698C18CF5AF4|Lietuvos Respublikos Vyriausybės įstatymo 13, 26, 27, 29, 30, 33 ir 52 straipsnių pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 13, 26, 27, 29, 30, 33 IR 52 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A0024DCA72E1|Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.CEBFC30D933E|Lietuvos Respublikos Vyriausybės įstatymo 20 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.466574E84021|Lietuvos Respublikos Vyriausybės įstatymo 22 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.324E272F5F86|Lietuvos Respublikos Vyriausybės įstatymo 23 ir 29 straipsnių pakeitimo įstatymas]] - 4 citatos - LIETUVOS  RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 23 IR 29  STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.C05E7B951303|Lietuvos Respublikos Vyriausybės įstatymo 25 ir 31 straipsnių pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 25 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.97B469668481|Lietuvos Respublikos Vyriausybės įstatymo 26 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 26 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.1C5F19AA1B4D|Lietuvos Respublikos Vyriausybės įstatymo 26, 29, 31, 31-1, 32, 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-185
+- [[latest/TAR.321371D72CA3|Lietuvos Respublikos Vyriausybės įstatymo 26, 41(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 26, 41(1), 43, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.60BE4DD2CC76|Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.CDDCAA237E76|Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio papildymo ir pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.803E52BE6947|Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A88252E15221|Lietuvos Respublikos Vyriausybės įstatymo 3 straipsnio pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.6D62E7BEC7F4|Lietuvos Respublikos Vyriausybės įstatymo 3, 22, 24, 26, 29, 30, 31, 32, 33, 37, 40, 41, 44, 45 straipsnių, dešimtojo skirsnio pavadinimo pakeitimo ir papildymo bei įstatymo papildymo 31(1), 44(1) straipsniais įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 3, 22, 24, 26, 29, 30, 31, 32, 33, 37, 40, 41, 44, 45 STRAIPSNIŲ, DEŠIMTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 31(1), 44(1) STRAIPSNIAIS ĮSTATYMAS
+- [[latest/TAR.D4D4BA1D0870|Lietuvos Respublikos Vyriausybės įstatymo 3, 6, 22, 24, 26, 29, 30, 31-1, 35, 38, 45 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo, įstatymo papildymo 28-1, 29-1 straipsniais ir 33 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XI-863
+- [[latest/TAR.33CC70C03145|Lietuvos Respublikos Vyriausybės įstatymo 3, 9, 10, 13, 14, 18, 22, 24, 25, 26, 29, 30, 31, 33, 34, 35, 37, 38, 39, 40, 41, 44, 45 straipsnių, ketvirtojo ir dešimtojo skirsnių pavadinimų pakeitimo ir papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 3, 9, 10, 13, 14, 18, 22, 24, 25, 26, 29, 30, 31, 33, 34, 35, 37, 38, 39, 40, 41, 44, 45 STRAIPSNIŲ, KETVIRTOJO IR DEŠIMTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.C3B684B56509|Lietuvos Respublikos Vyriausybės įstatymo 31(1) straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 31(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.24C9BF1312A7|Lietuvos Respublikos Vyriausybės įstatymo 37 straipsnio pakeitimo ir papildymo, įstatymo papildymo 41(1) straipsniu bei vienuoliktuoju skirsniu įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 41(1) STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS
+- [[latest/TAR.ED210B62AFB9|Lietuvos Respublikos Vyriausybės įstatymo 43 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.AB92DA077B08|Lietuvos Respublikos Vyriausybės įstatymo 45 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EA0C58770EBF|Lietuvos Respublikos Vyriausybės įstatymo 5 ir 26 straipsnių pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 5 IR 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.2A8FC2131993|Lietuvos Respublikos Vyriausybės įstatymo 5 straipsnio papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.C57466D30B41|Lietuvos Respublikos Vyriausybės įstatymo 6, 13, 22, 24, 27, 28, 39, 40, 41, 44, 44-1, 45, 46 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-153
+- [[latest/TAR.93E667562132|Lietuvos Respublikos Vyriausybės įstatymo 7 straipsnio pakeitimo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.52F099CC6EDE|Lietuvos Respublikos Vyriausybės įstatymo 9, 13, 14, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 31(1), 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 44(1), 45, 46 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo ir papildymo įstatymas]] - 4 citatos - VYRIAUSYBĖS ĮSTATYMO 9, 13, 14, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 31(1), 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 44(1), 45, 46 STRAIPSNIŲ IR KETVIRTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/71524dc006c411ee9978886e85107ab2|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 13, 22, 26, 27, 28 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2003
+- [[latest/ccb66df084cd11e8ae2bfd1913d66d57|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir 29-1 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1431
+- [[latest/92402c002d7711ec992fe4cdfceb5666|Lietuvos Respublikos vyriausybės įstatymo Nr. I-464 22 ir 30-1 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-549
+- [[latest/1654b46098c511e9ae2e9d61b1f977b3|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir 35 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2234
+- [[latest/7a1f72c0218011e5b336e9064144f02a|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1862
+- [[latest/11b39ed0828c11ed8df094f359a60216|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 23, 37 ir 44-1 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1653
+- [[latest/c9c6d110dc4e11e89a31865acf012092|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 29 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1544
+- [[latest/4e0906c02b2911eb932eb1ed7f923910|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 29-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3409
+- [[latest/50eadc90692f11eabee4a336e7e6fdab|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2817
+- [[latest/ca945710698b11e8ac27abd8fa093003|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 41-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1221
+- [[latest/0d4dc290047711e9a5eaf2cd290f1944|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 42 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1773
+- [[latest/bbd171c067e511eca9ac839120d251c4|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-788
+- [[latest/dbec2d908eb411eea5a28c81c82193a8|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5, 13, 22, 26, 28-1, 29, 29-1, 30, 30-1, 30-2, 31, 31-1, 32 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2244
+- [[latest/a6b812824dfa11f180c9c618618421ed|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5 ir 22 straipsnių pakeitimo įstatymas]] - 6 citatos - įstatymo Nr. XV-877
+- [[latest/ed44eaa088f211e8af589337bf1eb893|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1371
+- [[latest/d38d7ae00a8a11e9a5eaf2cd290f1944|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymo Nr. XIII-1371 9 ir 13 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1804
+- [[latest/a0ebb9d0ec6311e78a1adea6fe72f3c5|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-934
+- [[latest/65ef51c0b1c411e98451fa7b5933515d|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-2 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2366
+- [[latest/0053c930882211ed8df094f359a60216|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 vienuoliktojo skirsnio pavadinimo, 52 straipsnio pakeitimo ir Įstatymo papildymo 53 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1768
+- [[latest/TAR.466AEC33D854|Lietuvos Respublikos Vyriausybės įstatymo pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.E7B6D1EC8BF0|Dėl Lietuvos Respublikos pramonės ministerijos panaikinimo]] - Lietuvos Respublikos Vyriausybės įstatymo 25 straipsnyje
+- [[latest/TAR.C8BA6D0193A6|Dėl Lietuvos Respublikos tarptautinių ekonominių santykių ministerijos panaikinimo]] - Lietuvos Respublikos Vyriausybės įstatymo 25 straipsnio
+- [[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.DE127819AE22#^s-4a34f82cf7dca7bb2f96cc37|Lietuvos Respublikos administracinės naštos mažinimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.DE127819AE22#^s-9eb35eaca07121ca1bc5885e|Lietuvos Respublikos administracinės naštos mažinimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.F1EF7F13180F#^s-ca5673d66f90cc4382533dbd|Lietuvos Respublikos administracinės naštos mažinimo įstatymo 5, 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.F1EF7F13180F#^s-faaf58b78a375101011e4627|Lietuvos Respublikos administracinės naštos mažinimo įstatymo 5, 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.EF92C250258A#^s-39518232df3bf7790bf4484b|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.EF92C250258A#^s-f647acd718aed0fd8b02636b|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas]] - Vyriausybės įstatymo
+- [[latest/43cddd8084cc11e8ae2bfd1913d66d57#^s-2378bcebc6127237e7c8b484|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/43cddd8084cc11e8ae2bfd1913d66d57#^s-48eca49a5a4202e93195cbdf|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/29ccd900828711ed8df094f359a60216#^s-18c66a77247b1c58df5daedf|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/29ccd900828711ed8df094f359a60216#^s-2f804c07350cc35aee06a359|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas]] - Vyriausybės įstatymo
+- [[latest/29ccd900828711ed8df094f359a60216#^s-48f2d4070b84c996182bdb0f|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas]] - Vyriausybės įstatymo
+- [[latest/29ccd900828711ed8df094f359a60216#^s-a3d20dd9595e041ac4484be4|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/e512b49088fa11e8af589337bf1eb893#^s-6c8f6814934d6268ac08894e|Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/e512b49088fa11e8af589337bf1eb893#^s-dd17c9cade302c8a5369bbdc|Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/TAR.5E8A7FF89480#^s-4cfbd6b4ba8fccd8805d582b|Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 18 straipsnių, antrojo skirsnio pavadinimo pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo priedo papildymo įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.5E8A7FF89480#^s-6ed9ab4fd2a700a5a089d219|Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 18 straipsnių, antrojo skirsnio pavadinimo pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo priedo papildymo įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.1F735277A0C7#^s-49ea2329b3e6e9603192b210|Lietuvos Respublikos dokumentų ir archyvų įstatymo 2, 5, 7, 8, 10, 13, 14, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.1F735277A0C7#^s-731fbea67b16e5bcdb15eaf0|Lietuvos Respublikos dokumentų ir archyvų įstatymo 2, 5, 7, 8, 10, 13, 14, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.A56E2F05829E#^s-7cc6be1b30086b1e4e5769cd|Lietuvos Respublikos Europos reikalų ministerijos, Ūkio ministerijos, Žemės ir miškų ūkio ministerijos įsteigimo, Ekonomikos ministerijos, Energetikos ministerijos, Miškų ūkio ministerijos, Pramonės ir prekybos ministerijos, Žemės ūkio ministerijos panaikinimo ir Vyriausybės įstatymo 27 straipsnio pakeitimo įstatymas]] - VYRIAUSYBĖS ĮSTATYMO
+- [[latest/453943b0e46611eb9f09e7df20500045#^s-0da5a3c41db56850e7422835|Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/453943b0e46611eb9f09e7df20500045#^s-6e6bf3edb26a2a45c593256b|Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.15C705E93776#^s-0bb16900b71b199f07661978|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Vyriausybės įstatymas
+- [[latest/TAR.15C705E93776#^s-3d9acb54e7ad64296b6cba59|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Vyriausybės įstatymas
+- [[latest/TAR.2FCD601F0B4E#^s-e229191aadd2d0be0aab22a7|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 5, 7, 9, 10, 18, 31, 42, 48, 59, 60, 61, 68, 72 straipsnių pakeitimo įstatymas]] - 2 citatos - Vyriausybės įstatymas
+- [[latest/TAR.E4C9F196E6BF#^s-74dc461da679b6b3ac635164|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 11, 13, 14, 15, 16, 52, 54 ir 57 straipsnių pakeitimo įstatymas]] - Vyriausybės įstatymu
+- [[latest/TAR.E4C9F196E6BF#^s-83435883d062d3c756aab0a7|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 11, 13, 14, 15, 16, 52, 54 ir 57 straipsnių pakeitimo įstatymas]] - Vyriausybės įstatymu
+- [[latest/TAR.C1265FF45A5B#^s-3cfa38409f2b94020c9584f4|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas]] - Vyriausybės įstatymu
+- [[latest/TAR.C1265FF45A5B#^s-d7df6f7f7f1ff8d926d931ef|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas]] - Vyriausybės įstatymu
+- [[latest/7aca1a900a8e11e9a5eaf2cd290f1944#^s-c3640e5e156dd1f18576dc20|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 2, 5, 9, 10, 25, 60, 61-1, 63, 65, 65-1 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 61-2 straipsniu ir septintojo skirsnio pripažinimo netekusiu galios įstatymas]] - Vyriausybės įstatymas
+- [[latest/TAR.C15592B096FA#^s-02b46441a770c7373adbd0ae|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/TAR.C15592B096FA#^s-1c055a78e9a1498fbcf6e25b|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.C15592B096FA#^s-8da6874653a9a5a6eac52353|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.C15592B096FA#^s-d523083706b8b3ab6c8c1026|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/94aa4950a26111efa605b9842742bf37#^s-0724eefb40d920e21f7c409a|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, 52 straipsnių, priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/94aa4950a26111efa605b9842742bf37#^s-f23ce156f26c89810b7e4aa5|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, 52 straipsnių, priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-1fa76d5fb1cfb5c222a60e08|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/TAR.CA89372D00AA#^s-dfe8ff69a970fc1a6e890d11|Lietuvos Respublikos policijos įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-03299c93ef7c8c3a0082d012|Lietuvos Respublikos strateginio valdymo įstatymas]] - Vyriausybės įstatyme
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-087b97ac2a45e3801c750d56|Lietuvos Respublikos strateginio valdymo įstatymas]] - Vyriausybės įstatyme
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-240793be9139444db2eb9bbc|Lietuvos Respublikos strateginio valdymo įstatymas]] - Vyriausybės įstatymu
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-3d92f1aebb5ef5d010b7d6ea|Lietuvos Respublikos strateginio valdymo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymu
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-60f6cbcfb26526d616f44fbd|Lietuvos Respublikos strateginio valdymo įstatymas]] - Vyriausybės įstatymu
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-6363d18390a61a730d7e1d46|Lietuvos Respublikos strateginio valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatymu
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-b1d32b842ab0b276afc13ed1|Lietuvos Respublikos strateginio valdymo įstatymas]] - Vyriausybės įstatymu
+- [[latest/18170f50697411eca9ac839120d251c4#^s-22511c1d8f86c5d8ff8ba2e8|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Vyriausybės įstatymu
+- [[latest/18170f50697411eca9ac839120d251c4#^s-3968ab57997467ed513a3edd|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Vyriausybės įstatyme
+- [[latest/18170f50697411eca9ac839120d251c4#^s-73abcbff6546d7c7ce7fc7ed|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Vyriausybės įstatymu
+- [[latest/18170f50697411eca9ac839120d251c4#^s-79ef77ea25df85114064b13f|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatymu
+- [[latest/18170f50697411eca9ac839120d251c4#^s-9777eda4b19d0b67a963c3f3|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymu
+- [[latest/18170f50697411eca9ac839120d251c4#^s-a45c77f12f365dd0e2667195|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Vyriausybės įstatyme
+- [[latest/18170f50697411eca9ac839120d251c4#^s-e054e7943681314de4d12a64|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Vyriausybės įstatymu
+- [[latest/TAR.C81BD50A27C6#^s-3418a644842b0e9215a19d55|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo 30 straipsnį
+- [[latest/TAR.C81BD50A27C6#^s-b4c533ae3d7e92671c4db563|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo 30 straipsnį
+- [[latest/TAR.A7991130B5FA#^s-7d2861af7120e1daee20f5fa|Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.A7991130B5FA#^s-f0bd92b0a0227326ac1bcb44|Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.D3ED3792F52B#^s-46ad89686b7fc7c26c557992|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/TAR.D3ED3792F52B#^s-55897dfa73ab99892b5a418f|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/9197387088f211e8af589337bf1eb893#^s-05e3aa5eb6edd2bb136e8f06|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/0892744006bf11ee9978886e85107ab2#^s-0c87cc22752d34f4281a82c8|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/9197387088f211e8af589337bf1eb893#^s-4a41b937a129a161e9f28099|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/0892744006bf11ee9978886e85107ab2#^s-57f756c669deb93f2b299604|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+- [[latest/TAR.905114AB2F6E#^s-5df6d605301c1b36158af43e|Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo ir papildymo įstatymas]] - Vyriausybės įstatymo
+- [[latest/TAR.905114AB2F6E#^s-7c3cb8feb0839c7379652a4c|Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo ir papildymo įstatymas]] - Vyriausybės įstatymo
+- [[latest/02e0c390abe011eab9d9cd0c85e0b745#^s-2138424326e5906cb7ed0899|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymu
+- [[latest/02e0c390abe011eab9d9cd0c85e0b745#^s-f6d8a7457ec140cbb12f2dec|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymu
+- [[latest/TAR.1C5F19AA1B4D#^s-6eb6235e499a43338ef17d3c|Lietuvos Respublikos Vyriausybės įstatymo 26, 29, 31, 31-1, 32, 45 straipsnių pakeitimo įstatymas]] - Vyriausybės įstatymo 31 straipsnio 3 dalies
+- [[latest/TAR.1C5F19AA1B4D#^s-ca21f4f4ad4b6a0d4333e2cc|Lietuvos Respublikos Vyriausybės įstatymo 26, 29, 31, 31-1, 32, 45 straipsnių pakeitimo įstatymas]] - Vyriausybės įstatymo 31 straipsnio 3 dalies
+- [[latest/TAR.24C9BF1312A7#^s-56d968d532ee76a8c7901980|Lietuvos Respublikos Vyriausybės įstatymo 37 straipsnio pakeitimo ir papildymo, įstatymo papildymo 41(1) straipsniu bei vienuoliktuoju skirsniu įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.24C9BF1312A7#^s-5825a2113b4aee92a0f48008|Lietuvos Respublikos Vyriausybės įstatymo 37 straipsnio pakeitimo ir papildymo, įstatymo papildymo 41(1) straipsniu bei vienuoliktuoju skirsniu įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/ed44eaa088f211e8af589337bf1eb893#^s-386afe4d929491ebf1f349a1|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio 9 dalį
+- [[latest/ed44eaa088f211e8af589337bf1eb893#^s-6326b63e598c5d15cc2a38a6|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio 9 dalį
+- [[latest/d38d7ae00a8a11e9a5eaf2cd290f1944#^s-1d3ae6d536de7b5c1121627d|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymo Nr. XIII-1371 9 ir 13 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatymo 311 straipsnio
+- [[latest/TAR.466AEC33D854#^s-7e649d0a97e20aa16ff2c6d1|Lietuvos Respublikos Vyriausybės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo

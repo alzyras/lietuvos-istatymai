@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D3BFFB83B432"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio ir priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio ir priedo pakeitimo ir papildymo įstatymas"
+  - "vietos savivaldos įstatymo 8 straipsnio ir priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-10-01"
 latest_path: "latest/TAR.D3BFFB83B432.md"
 latest_sha256: "a96bb93929f82472c45a1b5dd29208c94743e315be481337b728621b3a5cd067"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D3BFFB83B432]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio ir priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D3BFFB83B432.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D3BFFB83B432
+- Ryšiai: [[Ryšiai/TAR.D3BFFB83B432|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio papildymas 34 punktu
+### 1 straipsnis. 8 straipsnio papildymas 34 punktu ^s-72b24ca6fbcd77c711e33d0f
 
 
 Papildyti 8 straipsnį 34 punktu:
@@ -41,34 +46,34 @@ Papildyti 8 straipsnį 34 punktu:
 
 
 
-### 2 straipsnis. Įstatymo priedo pakeitimas
+### 2 straipsnis. Įstatymo priedo pakeitimas ^s-e30b4a01550af87f472049e6
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
 
-„Lietuvos Respublikos vietos savivaldos įstatymo
+„[[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1994 m. gruodžio 19 d. Tarybos direktyva 94/80/EB, nustatanti išsamias priemones Sąjungos piliečiams, gyvenantiems valstybėje narėje ir nesantiems jos piliečiais, naudotis balsavimo teise ir teise būti kandidatais per vietos savivaldos rinkimus (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 12) su paskutiniais pakeitimais, padarytais 1996 m. gegužės 13 d. Tarybos direktyva 96/30/EB (OL 2004 m. specialusis leidimas, 1 skyrius, 1 tomas, p. 350). ^223a7dd84edc09ea16f69d55
+1. 1994 m. gruodžio 19 d. Tarybos direktyva 94/80/EB, nustatanti išsamias priemones Sąjungos piliečiams, gyvenantiems valstybėje narėje ir nesantiems jos piliečiais, naudotis balsavimo teise ir teise būti kandidatais per vietos savivaldos rinkimus (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 12) su paskutiniais pakeitimais, padarytais 1996 m. gegužės 13 d. Tarybos direktyva 96/30/EB (OL 2004 m. specialusis leidimas, 1 skyrius, 1 tomas, p. 350). ^s-974f803e34b3c9ba0c23b186
 
 
-2. 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo tam tikrose įmonėse (OL 2006 L 318, p. 17).“ ^4d6ade3227fea3c8f9aac893
-
-
-
-### 3 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas, išskyrus [[#4 straipsnis. Pasiūlymas Vyriausybei|4 straipsnį]], įsigalioja nuo 2007 m. spalio 1 d.
+2. 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo tam tikrose įmonėse (OL 2006 L 318, p. 17).“ ^s-b3ddc3b5f22a1de7af58e8ec
 
 
 
-### 4 straipsnis. Pasiūlymas Vyriausybei
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-cb9b189d5e2fc1e56cbdf300
+
+
+Šis įstatymas, išskyrus [[#^s-a432abc5285008d3be76435f|4 straipsnį]], įsigalioja nuo 2007 m. spalio 1 d.
+
+
+
+### 4 straipsnis. Pasiūlymas Vyriausybei ^s-a432abc5285008d3be76435f
 
 
 Vyriausybė iki šio įstatymo įsigaliojimo parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus.

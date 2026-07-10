@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.07CAE5E6C2B3"
 pavadinimas: "Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas"
+  - "valstybės vėliavos ir kitų vėliavų įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-06-26"
 latest_path: "latest/TAR.07CAE5E6C2B3.md"
 latest_sha256: "84104092c4af8861b324e0a966932c673e8445748063f85fc633c36f98873232"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.07CAE5E6C2B3]]"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.07CAE5E6C2B3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3
+- Ryšiai: [[Ryšiai/TAR.07CAE5E6C2B3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

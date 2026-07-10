@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2EBFB0A1898C"
 pavadinimas: "Lietuvos Respublikos 2012 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2012 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2012 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-29"
 latest_path: "latest/TAR.2EBFB0A1898C.md"
 latest_sha256: "099f733db26bc62721fcc6d072c55202ab6521332b271f90285685a8c5e34b9d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2EBFB0A1898C]]"
 ---
 # Lietuvos Respublikos 2012 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2EBFB0A1898C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2EBFB0A1898C
+- Ryšiai: [[Ryšiai/TAR.2EBFB0A1898C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2012 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 2012 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-b5d29a34ccd149feb5f8bd47
 
 
 Patvirtinti Lietuvos Respublikos 2012 metų Privalomojo sveikatos draudimo fondo biudžetą – 3 986 456 tūkst. litų pajamų ir 3 986 456 tūkst. litų išlaidų, iš jo – 20 000 tūkst. litų apyvartos lėšų (priedėlis).

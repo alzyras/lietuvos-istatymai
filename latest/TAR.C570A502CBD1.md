@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C570A502CBD1"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-10-07"
 latest_path: "latest/TAR.C570A502CBD1.md"
 latest_sha256: "b60e5dc89efc5ef010c042c79813355601247f0338a9d100484b44b88edcee4c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C570A502CBD1]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C570A502CBD1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C570A502CBD1
+- Ryšiai: [[Ryšiai/TAR.C570A502CBD1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-0b70ae3558576ea508320545
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. vasario 12 d. dekretą Nr. 1K-299, ratifikuoja Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos, pasirašytą 2009 m. rugsėjo 16 d. Vilniuje.

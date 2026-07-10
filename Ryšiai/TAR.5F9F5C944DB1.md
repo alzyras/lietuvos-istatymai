@@ -1,0 +1,79 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.5F9F5C944DB1"
+pavadinimas: "Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas"
+---
+# Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas: ryšiai
+
+- [[latest/TAR.5F9F5C944DB1|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.5FB9ECBA6EE3|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 1, 2, 3, 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1011010ISTA00IX-486
+- [[latest/TAR.4B4864E85DE4|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 1, 2, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 7-1 straipsniu įstatymas]] - 6 citatos - 1091010ISTA00XI-291
+- [[latest/TAR.9E21208C214B|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 2, 4, 5, 6, 7 ir 8 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1041010ISTA0IX-2394
+- [[latest/TAR.2276F8CE476B|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 8 straipsnio pakeitimo įstatymas]] - 6 citatos - 1021010ISTA00IX-935
+- [[latest/3c5ab150db0811eb9f09e7df20500045|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-411
+- [[latest/3de8bcc0794411e8ae2bfd1913d66d57|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1270
+- [[latest/e5bc61d0140e11ee9f7ec2ffce8b47bc|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2066
+- [[latest/6c45269024f811e78397ae072f58c508|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-259
+- [[latest/15e5c8904aee11e4a8328599cac64d82|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1172
+- [[latest/TAR.A0823B2019D7|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - 4 citatos - 1101010ISTA0XI-1062
+- [[latest/TAR.201E1709BED5|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - 4 citatos - 1131010ISTA0XII-207
+- [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 4 citatos - Lietuvos Respublikos buhalterinės apskaitos įstatyme
+- [[latest/TAR.2E0162CE3FB9|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo
+- [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymas]] - 4 citatos - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.C6C5599DD9A1#^s-36e766648c554f423cb12c5e|Lietuvos Respublikos mokėjimų įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 6 straipsnyje
+- [[latest/b367a420db0711eb9f09e7df20500045|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - 6 citatos - Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo
+- [[latest/TAR.ED68997709F5|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatyme
+- [[latest/TAR.C71CC1B1BFCE|Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas]] - 2 citatos - Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/3c5ab150db0811eb9f09e7df20500045#^s-0c172b336d817604749e8252|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo
+- [[latest/3c5ab150db0811eb9f09e7df20500045#^s-868d63d7f41ac95887c1accc|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo
+- [[latest/TAR.201E1709BED5#^s-13d57bdb19600f09e0beedd3|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos  atsiskaitymo už žemės ūkio produkciją įstatymo
+- [[latest/TAR.201E1709BED5#^s-1bedcf8640671fe35f317b83|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos  atsiskaitymo už žemės ūkio produkciją įstatymo
+- [[latest/TAR.A0823B2019D7#^s-276506a40cdbeeccd8981323|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo
+- [[latest/TAR.201E1709BED5#^s-363602dd599e4201cc26ad4b|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 14 straipsnio 2 dalies
+- [[latest/TAR.201E1709BED5#^s-ddc034a6e2db4639af663846|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ ĮSTATYMAS
+- [[latest/TAR.A0823B2019D7#^s-e06a790b3f5abeb159eb860a|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ ĮSTATYMAS
+- [[latest/TAR.201E1709BED5#^s-e8f1a76cd4df1f355a26bbcb|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 14 straipsnio 2 dalies
+- [[latest/TAR.68EBBD2CAC0C#^s-5bb00399779a2bf204c50d4f|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.68EBBD2CAC0C#^s-6bd29805571f44a2f7e39e1a|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.68EBBD2CAC0C#^s-97a6614461a161185b46f9d4|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.68EBBD2CAC0C#^s-b9df1c60082204f57175864e|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.554485005160#^s-0ba9ec4b379a3266baa0bf4f|Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
+- [[latest/TAR.554485005160#^s-277986deb8031437cbaa0f7f|Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-110bac5985265e691c0b8ae4|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-732440c38873282758749f82|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-79b64f4966c7ff9bc9965ed2|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 5 straipsnio 2 dalies
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-9ea8a114e84dbd64a054f5a8|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-b5612b79e02c600ff5602c9a|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - 2 citatos - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-bed9add20d3b03986c3a7cfb|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-d08954aed4ed6d2b61a5879f|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - 3 citatos - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/b367a420db0711eb9f09e7df20500045#^s-f9b1dba33e650809e86d7378|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 6 straipsnio
+- [[latest/44b4561049a711efbdaea558de59136c#^s-5ef72d03caec7b07c3d85ebb|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 1, 2, 4, 5, 12, 13, 14, 16, 18, 20, 21 ir 23 straipsnių pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 5 straipsnio 2 dalies
+- [[latest/44b4561049a711efbdaea558de59136c#^s-e217a08713365c064638f0cd|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 1, 2, 4, 5, 12, 13, 14, 16, 18, 20, 21 ir 23 straipsnių pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/44b4561049a711efbdaea558de59136c#^s-ecf6438921a8dfd2b549e86e|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 1, 2, 4, 5, 12, 13, 14, 16, 18, 20, 21 ir 23 straipsnių pakeitimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 6 straipsnio
+- [[latest/44b4561049a711efbdaea558de59136c#^s-f9637e119b000d30223b6689|Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 1, 2, 4, 5, 12, 13, 14, 16, 18, 20, 21 ir 23 straipsnių pakeitimo įstatymas]] - 3 citatos - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-903505d63c3b1c4c4cbdc2f9|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-94189b19dbae783e7176fd23|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/8f1405d0a62c11eea5a28c81c82193a8#^s-6ffcb306e3150beacfa2b1eb|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/8f1405d0a62c11eea5a28c81c82193a8#^s-a4dce135e657a35df6c1e24f|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/bf4f6f5049bf11efbdaea558de59136c#^s-6889d8656c7a880de9614f84|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 17, 37, 47 ir 87 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-38323ddd25d40cef684b7544|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - 2 citatos - Atsiskaitymo už žemės ūkio produkciją įstatymas
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-6b0760c13d6eb7f3a990191a|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 3 ir 4 straipsniais
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-b11d44f2f0123bc6e9391264|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-b42a7278e9969ba653811bf7|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - 2 citatos - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-b8bbd1ef71ecbd816c431d3f|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - 2 citatos - Atsiskaitymo už žemės ūkio produkciją įstatymas
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-d9dd9cb7a2aa01489fb2f19a|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/bb38ee90263911e5bf92d6af3f6a2e8b#^s-f1818e4f56240e2757c5ef6c|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/a7c1f6e0ae3311e5b12fbb7dc920ee2c#^s-194d95a01ecedd9893b3d1e5|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 3 ir 4 straipsniais
+- [[latest/a7c1f6e0ae3311e5b12fbb7dc920ee2c#^s-658a305fff7a4238375e94bd|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/a7c1f6e0ae3311e5b12fbb7dc920ee2c#^s-79b2d992b15c87befe3366ae|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatymo 3 ir 4 straipsniais
+- [[latest/a7c1f6e0ae3311e5b12fbb7dc920ee2c#^s-a1d554c1ea7d81b493806a1b|Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas]] - Atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.80CA64E588A1#^s-3f1bdee0eaf1435b60f50ac8|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/TAR.80CA64E588A1#^s-91c71058fdfb3572427280b4|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme
+- [[latest/679a5830a72d11ef90b5ee8931e5ce5e#^s-b03b68af35a159f5c1adea6b|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 3, 4, 8, 10 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme

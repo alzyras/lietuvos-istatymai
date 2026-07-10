@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.02CFAE383A3E"
 pavadinimas: "Lietuvos Respublikos žemės įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "žemės įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-17"
 latest_path: "latest/TAR.02CFAE383A3E.md"
 latest_sha256: "f1f10863e982ac47b4d8ab53dbaba76fad10ac34a7134c9d0dbcb8b3a0473ab1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.02CFAE383A3E]]"
 ---
 # Lietuvos Respublikos žemės įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.02CFAE383A3E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.02CFAE383A3E
+- Ryšiai: [[Ryšiai/TAR.02CFAE383A3E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 1 dalies pakeitimas ^s-2d24ed3bbd54097f208fcc7e
 
 
 Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:

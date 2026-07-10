@@ -1,0 +1,116 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.9F4371AB03A3"
+pavadinimas: "Lietuvos Respublikos advokatūros įstatymas"
+---
+# Lietuvos Respublikos advokatūros įstatymas: ryšiai
+
+- [[latest/TAR.9F4371AB03A3|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 4 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.36F1A4DEA3FE|Lietuvos Respublikos advokatūros įstatymo 19 straipsnio pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EB6C547451E8|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.0F6A573D9835|Lietuvos Respublikos advokatūros įstatymo 20 straipsnio pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.C2D6B526917C|Lietuvos Respublikos advokatūros įstatymo 4 straipsnio pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.B6B4FE1ED164|Lietuvos Respublikos advokatūros įstatymo 4, 7, 15, 16, 25, 49 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 4, 7, 15, 16, 25, 49 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.92CE461E8291|Lietuvos Respublikos advokatūros įstatymo 43 straipsnio pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.6E26DA8B65E0|Lietuvos Respublikos advokatūros įstatymo 50 ir 60 straipsnių pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 50 IR 60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.FC71F4C93F93|Lietuvos Respublikos advokatūros įstatymo 52 ir 59 straipsnių pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 52 IR 59 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EC8F5F711212|Lietuvos Respublikos advokatūros įstatymo 8, 57, 59 ir 60 straipsnių pakeitimo įstatymas]] - 4 citatos - ADVOKATŪROS ĮSTATYMO 8, 57, 59 IR 60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/3242a550df2311eb9f09e7df20500045|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 16 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-445
+- [[latest/ba3738501fde11e586708c6593c243ce|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 17, 22, 51 ir 60 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1850
+- [[latest/496076e08f4811eea5a28c81c82193a8|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 2, 9, 16, 17, 23, 24, 35, 39, 56, 57, 59, 60, 64, 66, 67, 68, 69 straipsnių ir keturioliktojo skirsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2290
+- [[latest/d28c7cb05ddf11e4bad5c03f56793630|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 20 straipsnio pakeitimo įstatymas]] - 5 citatos - Įstatymas Nr. XII-1244
+- [[latest/dab752501e5711ef8b14c5bcce136045|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 30 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2641
+- [[latest/3a4a57c0034911edb32c9f9d8ba206f8|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 43 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1360
+- [[latest/cf3af120407411e7b66ae890e1368363|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 45, 46 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-358
+- [[latest/8c37e060f2c811e3bb22becb572235f5|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 58, 60 ir 61 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-931
+- [[latest/7ed23490ba1b11eab9d9cd0c85e0b745|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 59 ir 60 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3082
+- [[latest/06bc4dc0b2ef11e5b12fbb7dc920ee2c|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 60 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2234
+- [[latest/5dfc8110e59011e7acd7ea182930b17f|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - 7 citatos - Įstatymas Nr. XIII-879
+- [[latest/7d5f770043b611ec992fe4cdfceb5666|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 9, 35, 39, 56, 57, 60 ir 64 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-611
+- [[latest/935cd9d0670611e7b85cfdc787069b42|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 13, 23 ir 36 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-571
+- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 4 citatos - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos dokumentų ir archyvų įstatymo
+- [[latest/TAR.C44837068B55#^s-1a7def7a3bf36eb95441b9f9|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 6 citatos - Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.074B2F6259F9#^s-1e94388fd957ab7c4b28b75a|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 2 citatos - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 57 straipsnį
+- [[latest/TAR.F707D11C62FE|Lietuvos Respublikos tarptautinių sankcijų įstatymas]] - 2 citatos - Lietuvos Respublikos tarptautinių sankcijų įstatyme
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.EB6C547451E8#^s-03ccf6f10adeb6018f3fd921|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - Advokatūros įstatymo 61 straipsnio 3 dalies
+- [[latest/TAR.EB6C547451E8#^s-06baa4746497ed2325db725d|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - Advokatūros įstatymo 8 straipsnio 3 punkto
+- [[latest/TAR.EB6C547451E8#^s-2cb8e823d2afb65e76af30d5|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - 3 citatos - Advokatūros įstatymo 16 straipsnio 3 punkto
+- [[latest/TAR.EB6C547451E8#^s-3e43d6d0850cc7b5749f6add|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - 14 citatos - Advokatūros įstatymo 13 straipsnio 1 dalies 6 punkte
+- [[latest/TAR.EB6C547451E8#^s-59cc6406fe6d155b6cc1ea5e|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - 2 citatos - Advokatūros įstatymo 13 straipsnio 1 dalies 6 punkte
+- [[latest/TAR.EB6C547451E8#^s-5c33d1a7d75f3445a8f16927|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - 2 citatos - Advokatūros įstatymo 16 straipsnio
+- [[latest/TAR.EB6C547451E8#^s-62d8d22ef144f71af3434c61|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - Advokatūros įstatymo 7 straipsnio 6 punkto
+- [[latest/TAR.EB6C547451E8#^s-7440bbb6b8ebc350e07883b5|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo
+- [[latest/TAR.EB6C547451E8#^s-7fbbda53ca4c261473cbd17a|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - Advokatūros įstatymo 60 straipsnio 1 dalies
+- [[latest/TAR.EB6C547451E8#^s-aea9499c341aacad708875ab|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - 2 citatos - Advokatūros įstatymo 16 straipsnio
+- [[latest/TAR.EB6C547451E8#^s-b403be831930a37b01445dcd|Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas]] - Advokatūros įstatymo 15 straipsnio
+- [[latest/ba3738501fde11e586708c6593c243ce#^s-5dd5609dc3d82563e1ba4c9d|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 17, 22, 51 ir 60 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos advokatūros įstatymo 17 ir 22 straipsnių
+- [[latest/ba3738501fde11e586708c6593c243ce#^s-9295c1c75dd4b9000102f8ff|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 17, 22, 51 ir 60 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos advokatūros įstatymo 17 ir 22 straipsnių
+- [[latest/d28c7cb05ddf11e4bad5c03f56793630#^s-57c31a7e6b8c3e9ef5d01c7f|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 20 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 20 straipsnio
+- [[latest/d28c7cb05ddf11e4bad5c03f56793630#^s-63006f9b3df70af6948d0fa4|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 20 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 20 straipsnio
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-5b5d22bbf065356ea682193d|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 7 straipsnio 6 punkto
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-c653c57873b4baedde38f02e|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - 3 citatos - Advokatūros įstatymo 44 straipsnio 1 punkto
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-caea9277ce4f6cf347d6e423|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - Advokatūros įstatymo 8 straipsnio
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-f17fa19777e1966dfce1fc00|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - Advokatūros įstatymo 44 straipsnio 1 punkto
+- [[latest/0f264420a10111efa605b9842742bf37#^s-24f2e24d7a6427ef282f1c9d|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 44, 56 ir 60 straipsnių pakeitimo įstatymas]] - 5 citatos - Advokatūros įstatymo 8 straipsnio
+- [[latest/0f264420a10111efa605b9842742bf37#^s-4dfdf7319a0215d1f558995d|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 44, 56 ir 60 straipsnių pakeitimo įstatymas]] - Advokatūros įstatymo 8 straipsniu
+- [[latest/0f264420a10111efa605b9842742bf37#^s-5985500f3e5bb5f6baddfdaf|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 44, 56 ir 60 straipsnių pakeitimo įstatymas]] - Advokatūros įstatymo 8 straipsnio
+- [[latest/0f264420a10111efa605b9842742bf37#^s-89b5d9c950bc2bf8ff0b8c65|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 44, 56 ir 60 straipsnių pakeitimo įstatymas]] - 2 citatos - Advokatūros įstatymo 8 straipsnyje
+- [[latest/0f264420a10111efa605b9842742bf37#^s-f62424b14250fbe63e37d001|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 44, 56 ir 60 straipsnių pakeitimo įstatymas]] - Advokatūros įstatymo 8 straipsniu
+- [[latest/TAR.14A7CDF6966E#^s-0812a1a8feadc140cb1d8924|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 7 citatos - Advokatūros įstatymas
+- [[latest/TAR.14A7CDF6966E#^s-1842636f1d6df8dcc307ef59|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 10 citatos - Advokatūros įstatymo įgyvendinimo įstatymo 5 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-25ecf3cc53c6614b76ccb2ea|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Advokatūros įstatymo
+- [[latest/TAR.14A7CDF6966E#^s-2aaac0c375d0a48896f9aac8|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Advokatūros įstatymo 7 straipsnio 3 punkte
+- [[latest/TAR.14A7CDF6966E#^s-2f71eae8d5e31893fcbc7683|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 35 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-3bcd5314a16bbacc848ade0f|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Advokatūros įstatyme
+- [[latest/TAR.14A7CDF6966E#^s-461a537387728c3903fb8455|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Advokatūros įstatymo 20 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-47510c11cb1cbb5e8dce5196|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 9 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-4b4989bd62cfff78d3a8269c|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Advokatūros įstatymas
+- [[latest/TAR.14A7CDF6966E#^s-57ea7904b1181ede276f628a|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 7 ir 18 straipsnių
+- [[latest/TAR.14A7CDF6966E#^s-615eb0d0bf324ccea022e35e|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 3 citatos - Advokatūros įstatymo
+- [[latest/TAR.14A7CDF6966E#^s-6d1065ac2639ed04ebf6b828|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Advokatūros įstatymo
+- [[latest/TAR.14A7CDF6966E#^s-71b542fdf37b22a5462498e6|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Advokatūros įstatyme
+- [[latest/TAR.14A7CDF6966E#^s-726f966b5c68911a08fc0f14|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo
+- [[latest/TAR.14A7CDF6966E#^s-86a77f45e9d7a40935bc0701|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Advokatūros įstatymo 7 straipsnio 3 punkte
+- [[latest/TAR.14A7CDF6966E#^s-880c2db6f321d4a3d716b1fe|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Advokatūros įstatymo įgyvendinimo įstatymo 5 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-8e8ef6c5160b1be4e767aaae|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Advokatūros įstatymo 39 straipsnio 2 dalies
+- [[latest/TAR.14A7CDF6966E#^s-a3c23584080b83b380e7bd49|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymas
+- [[latest/TAR.14A7CDF6966E#^s-ad6620a8f4fb5df5a644c200|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Advokatūros įstatymo
+- [[latest/TAR.14A7CDF6966E#^s-b12a7337c00a25330ac9396f|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo įgyvendinimo įstatymo 6 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-ba4a672414d275dd4350e567|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 7 ir 24 straipsnių
+- [[latest/TAR.14A7CDF6966E#^s-cdf1db17eb048604532103ce|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 3 citatos - Advokatūros įstatyme
+- [[latest/TAR.14A7CDF6966E#^s-d2e4e77b568e9c0ec25c4935|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 44 straipsnio
+- [[latest/TAR.14A7CDF6966E#^s-f6d17fcbcf35e44560e7c18e|Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Advokatūros įstatyme
+- [[latest/TAR.2E7C18F61454#^s-8a118f96e7251e0f1a922978|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Advokatūros įstatymo
+- [[latest/TAR.2E7C18F61454#^s-f299e643cb3c9a0e4b055dbc|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Advokatūros įstatymo
+- [[latest/TAR.28F4561D519F#^s-05b1451f9aca64922e67f829|Lietuvos Respublikos paslaugų įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 64 straipsnio 2 dalyje
+- [[latest/TAR.28F4561D519F#^s-445367e810e9de1b6f0dc014|Lietuvos Respublikos paslaugų įstatymas]] - Lietuvos Respublikos advokatūros įstatymo 64 straipsnio 2 dalyje
+- [[latest/57771670663d11e7b85cfdc787069b42#^s-af102dd6ab048873e8c85803|Lietuvos Respublikos patentinių patikėtinių įstatymas]] - Lietuvos Respublikos advokatūros įstatyme
+- [[latest/57771670663d11e7b85cfdc787069b42#^s-f07dd0dec2f127614d55fdb7|Lietuvos Respublikos patentinių patikėtinių įstatymas]] - Lietuvos Respublikos advokatūros įstatyme
+- [[latest/TAR.EAA93A47BAA1#^s-0a818bcefa3f1de0048a2ff6|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Lietuvos Respublikos advokatūros įstatymo
+- [[latest/TAR.EAA93A47BAA1#^s-0aa11c93e5385529e9f11aab|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Advokatūros įstatyme
+- [[latest/TAR.EAA93A47BAA1#^s-77319a1559aca7af79e1b470|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Advokatūros įstatymo
+- [[latest/TAR.EAA93A47BAA1#^s-79e76c9b32a787d13f744c0c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Advokatūros įstatymo
+- [[latest/TAR.EAA93A47BAA1#^s-93dbca21bbab16f18dfe35a4|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Advokatūros įstatyme
+- [[latest/TAR.EAA93A47BAA1#^s-ee2dae96c170bc6f409a00d0|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Lietuvos Respublikos advokatūros įstatymo
+- [[latest/2fda312084d111e8ae2bfd1913d66d57#^s-5b37462712678f6d53fb9919|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 2, 11, 12, 13, 14, 15, 18, 19, 21, 22, 23, 24, 29, 30, 31, 32, 34 straipsnių ir priedo pakeitimo įstatymas]] - Advokatūros įstatymo
+- [[latest/2fda312084d111e8ae2bfd1913d66d57#^s-f6b1b8b7f1ed1e6beb343f56|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 2, 11, 12, 13, 14, 15, 18, 19, 21, 22, 23, 24, 29, 30, 31, 32, 34 straipsnių ir priedo pakeitimo įstatymas]] - Advokatūros įstatymo
+- [[latest/985c04f01b3811eeb233e8b04dc9bb3d#^s-02a71d18efca01be838a7490|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 31, 32 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo
+- [[latest/985c04f01b3811eeb233e8b04dc9bb3d#^s-6bd7ea826ae6da56c6e00e0b|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 31, 32 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos advokatūros įstatymo
+- [[latest/985c04f01b3811eeb233e8b04dc9bb3d#^s-7020338c313395e3319752e4|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 31, 32 straipsnių ir priedo pakeitimo įstatymas]] - Advokatūros įstatymo
+- [[latest/985c04f01b3811eeb233e8b04dc9bb3d#^s-fcb10aeec442ffee8413a4ef|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 31, 32 straipsnių ir priedo pakeitimo įstatymas]] - Advokatūros įstatymo
+- [[latest/TAR.9AD785B0A8A3#^s-0911ed3a379785ca306e482c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas]] - Advokatūros įstatyme
+- [[latest/TAR.9AD785B0A8A3#^s-181b38026fee519c3541c4e7|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas]] - 2 citatos - Advokatūros įstatymas
+- [[latest/TAR.9AD785B0A8A3#^s-1cbacc55c8c48363099146d3|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas]] - Advokatūros įstatymo
+- [[latest/TAR.9AD785B0A8A3#^s-7c6b12eba80bfcdd0a708fae|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas]] - Advokatūros įstatyme
+- [[latest/TAR.9AD785B0A8A3#^s-94f8dae6aa1227222aae2556|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas]] - 2 citatos - Advokatūros įstatymas
+- [[latest/TAR.9AD785B0A8A3#^s-fcfda564f8c660d73d038613|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas]] - Advokatūros įstatymo

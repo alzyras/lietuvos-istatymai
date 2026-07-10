@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E84E90F51BA4"
 pavadinimas: "Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 10, 14, 15, 18 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 10, 14, 15, 18 straipsnių pakeitimo ir papildymo įstatymas"
+  - "transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 10, 14, 15, 18 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-09"
 latest_path: "latest/TAR.E84E90F51BA4.md"
 latest_sha256: "edf68b5d12120006649ea907bca5b4781faaadf40ad19ef42f2f99e3b594ae7d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E84E90F51BA4]]"
 ---
 # Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 10, 14, 15, 18 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E84E90F51BA4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E84E90F51BA4
+- Ryšiai: [[Ryšiai/TAR.E84E90F51BA4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies papildymas
+### 1 straipsnis. 10 straipsnio 1 dalies papildymas ^s-a28fdb4f2711e4fe47015052
 
 
 Papildyti 10 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -42,65 +47,65 @@ Papildyti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 14 straipsnio papildymas ir pakeitimas ^s-71d5953b600b3fb6fcc88bd7
 
 
-1. 14 straipsnio 1 dalyje po žodžių „sėdimosios vietos, yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^613fef234e2519ab52e3749f
+1. 14 straipsnio 1 dalyje po žodžių „sėdimosios vietos, yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-5550f25742a56a101dc1675f
 
 
 „1. Bazinės draudimo įmokos dydis lengviesiems automobiliams ir jų pagrindu sukonstruotoms transporto priemonėms, įskaitant mikroautobusus, kuriuose be vairuotojo vietos yra ne daugiau kaip 8 sėdimosios vietos, yra ne daugiau kaip 220 litų per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į šio tipo transporto priemonės variklio cilindrų darbinį tūrį, negali viršyti bazinės draudimo įmokos daugiau kaip 1,5 karto, o jeigu transporto priemonė naudojama komerciniams vežimams – daugiau kaip 2 kartus.“
 
 
-2. 14 straipsnio 2 dalyje po žodžių „transporto priemonėms yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^d7ad8e16b69d9f2aae29ac64
+2. 14 straipsnio 2 dalyje po žodžių „transporto priemonėms yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-3cd2df7efd7c06df5063f03f
 
 
 „2. Bazinės draudimo įmokos dydis krovininiams automobiliams ir jų pagrindu sukonstruotoms transporto priemonėms yra ne daugiau kaip 375 litai per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į šio tipo transporto priemonės keliamąją galią, negali viršyti bazinės draudimo įmokos daugiau kaip 1,3 karto, o atsižvelgiant į transporto priemonės naudojimo rūšį – daugiau kaip 2 kartus.“
 
 
-3. 14 straipsnio 3 dalyje po žodžių „transporto priemonėms yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^35574d81fdf35fab93a7d32b
+3. 14 straipsnio 3 dalyje po žodžių „transporto priemonėms yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-a3bb5231826ee139d8d63114
 
 
 „3. Bazinės draudimo įmokos dydis autobusams ir jų pagrindu sukonstruotoms transporto priemonėms yra ne daugiau kaip 350 litų per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į šio tipo transporto priemonės bendrąją masę, negali viršyti bazinės draudimo įmokos daugiau kaip 1,3 karto, o atsižvelgiant į transporto priemonės naudojimo rūšį – daugiau kaip 1,9 karto.“
 
 
-4. 14 straipsnio 4 dalyje po žodžių „transporto priemonėms yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^0009e9f7eae7cd6f09601f4e
+4. 14 straipsnio 4 dalyje po žodžių „transporto priemonėms yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-6000e6fb348723e875530dc4
 
 
 „4. Bazinės draudimo įmokos dydis motociklams, motoroleriams ir jų pagrindu sukonstruotoms transporto priemonėms yra ne daugiau kaip 80 litų per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į transporto priemonės variklio cilindrų darbinį tūrį, negali viršyti bazinės draudimo įmokos daugiau kaip 1,5 karto.“
 
 
-5. 14 straipsnio 5 dalyje po žodžių „savaeigiams mechanizmams yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^f21730f1b964d299f3ea873a
+5. 14 straipsnio 5 dalyje po žodžių „savaeigiams mechanizmams yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-1961b2d074f58db36edd25a0
 
 
 „5. Bazinės draudimo įmokos dydis traktoriams ir savaeigiams mechanizmams yra ne daugiau kaip 80 litų per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į transporto priemonės tipą, negali viršyti bazinės draudimo įmokos daugiau kaip 1,7 karto.“
 
 
-6. 14 straipsnio 6 dalyje po žodžių „troleibusams yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^7afac3b7d9b4557ceb7af003
+6. 14 straipsnio 6 dalyje po žodžių „troleibusams yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-b5b21fc90d8227eca3254ac8
 
 
 „6. Bazinės draudimo įmokos dydis troleibusams yra ne daugiau kaip 350 litų per metus.“
 
 
-7. 14 straipsnio 7 dalyje po žodžių „transporto priemonėms yra“, „mechanizmų priekaboms“ ir „transporto priemonėms“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^a84d5944ea09a7f0233391df
+7. 14 straipsnio 7 dalyje po žodžių „transporto priemonėms yra“, „mechanizmų priekaboms“ ir „transporto priemonėms“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-625671f6594e60e941f46b27
 
 
 „7. Bazinės draudimo įmokos dydis lengvųjų automobilių priekaboms ir jų pagrindu sukonstruotoms transporto priemonėms yra ne daugiau kaip 40 litų per metus, traktorių ir savaeigių mechanizmų priekaboms – ne daugiau kaip 50 litų per metus, krovininių automobilių priekaboms ir jų pagrindu sukonstruotoms transporto priemonėms – ne daugiau kaip 100 litų per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į priekabos keliamąją galią, šio tipo transporto priemonėms negali viršyti bazinės draudimo įmokos daugiau kaip 6 kartus.“
 
 
-8. 14 straipsnio 8 dalyje po žodžių „registruota užsienyje, yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^f44e3418786651035fe44323
+8. 14 straipsnio 8 dalyje po žodžių „registruota užsienyje, yra“ įrašyti žodžius „ne daugiau kaip“ ir šią dalį išdėstyti taip: ^s-557183093b6efe01876f0ace
 
 
 „8. Bazinės draudimo įmokos dydis, jeigu transporto priemonė yra registruota užsienyje, yra ne daugiau kaip 526 litai per metus. Sudarant konkrečią draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į transporto priemonės tipą, negali viršyti bazinės draudimo įmokos daugiau kaip 2 kartus.“
 
 
-9. Pakeisti 14 straipsnio 9 dalį ir ją išdėstyti taip: ^84b3ae0a73e80a2b12774c32
+9. Pakeisti 14 straipsnio 9 dalį ir ją išdėstyti taip: ^s-4f54c84450af29967239a95f
 
 
 „9. Draudimo įmoka už draudėjo pageidaujamą laikotarpį yra proporcinga pagal šį straipsnį draudiko nustatytai bazinei draudimo įmokai.“
 
 
 
-### 3 straipsnis. 15 straipsnio 1 dalies pakeitimas ir papildymas
+### 3 straipsnis. 15 straipsnio 1 dalies pakeitimas ir papildymas ^s-ca7f06b1fc4b8eb0c73e618a
 
 
 Pakeisti ir papildyti 15 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -110,7 +115,7 @@ Pakeisti ir papildyti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 18 straipsnio 4 dalies papildymas
+### 4 straipsnis. 18 straipsnio 4 dalies papildymas ^s-bd7234c4a30a842514fac616
 
 
 Papildyti 18 straipsnio 4 dalį ir ją išdėstyti taip:

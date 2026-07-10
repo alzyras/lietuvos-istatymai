@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5CC68712A93B"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso papildymo 292-1 straipsniu ir Kodekso priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso papildymo 292-1 straipsniu ir Kodekso priedo papildymo įstatymas"
+  - "baudžiamojo kodekso papildymo 292-1 straipsniu ir Kodekso priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-06"
 latest_path: "latest/TAR.5CC68712A93B.md"
 latest_sha256: "b4d641f557e8a714789edf127ba56fbb37c8b1e5c0977a67054fe227acec88f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5CC68712A93B]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso papildymo 292-1 straipsniu ir Kodekso priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5CC68712A93B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5CC68712A93B
+- Ryšiai: [[Ryšiai/TAR.5CC68712A93B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Kodekso papildymas 2921 straipsniu
+### 1 straipsnis. Kodekso papildymas 2921 straipsniu ^s-bdefa67d9e6d4840e2e8553c
 
 
 Papildyti Kodeksą 2921 straipsniu:
@@ -45,15 +50,15 @@ Papildyti Kodeksą 2921 straipsniu:
 „2921 straipsnis. Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbas
 
 
-1. Darbdavys ar jo įgaliotas asmuo, versliškai įdarbinęs Lietuvos Respublikoje nelegaliai esančius trečiųjų šalių piliečius arba įdarbinęs penkis ar daugiau Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių, arba įdarbinęs Lietuvos Respublikoje nelegaliai esantį trečiųjų šalių pilietį ypatingai išnaudojamo darbo sąlygomis, arba įdarbinęs Lietuvos Respublikoje nelegaliai esantį trečiųjų šalių nepilnametį pilietį, ^50d7e814bbd3ab33c7babf86
+1. Darbdavys ar jo įgaliotas asmuo, versliškai įdarbinęs Lietuvos Respublikoje nelegaliai esančius trečiųjų šalių piliečius arba įdarbinęs penkis ar daugiau Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių, arba įdarbinęs Lietuvos Respublikoje nelegaliai esantį trečiųjų šalių pilietį ypatingai išnaudojamo darbo sąlygomis, arba įdarbinęs Lietuvos Respublikoje nelegaliai esantį trečiųjų šalių nepilnametį pilietį, ^s-a6384edc1b90801b30e9130f
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“ ^97d4796d642568a6d34482d3
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“ ^s-fd8a664c87bb21c121036574
 
 
 
-### 2 straipsnis. Kodekso priedo papildymas 22 punktu
+### 2 straipsnis. Kodekso priedo papildymas 22 punktu ^s-f1db70bd7f265b73e8f4da84
 
 
 Papildyti Kodekso priedą 22 punktu:

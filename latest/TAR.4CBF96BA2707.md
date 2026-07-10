@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4CBF96BA2707"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 1 straipsnio pripažinimo netekusiu galios, 2 ir 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 1 straipsnio pripažinimo netekusiu galios, 2 ir 3 straipsnių pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 1 straipsnio pripažinimo netekusiu galios, 2 ir 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-31"
 latest_path: "latest/TAR.4CBF96BA2707.md"
 latest_sha256: "a1786666ab381520f8d875f1c6bb00186db15029d1b788d75063d6ee4b52acf3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4CBF96BA2707]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 1 straipsnio pripažinimo netekusiu galios, 2 ir 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4CBF96BA2707.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4CBF96BA2707
+- Ryšiai: [[Ryšiai/TAR.4CBF96BA2707|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,14 +41,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 1 straipsnio pripažinimas netekusiu galios ^s-7bd235a1b35d91b0bb74b765
 
 
 1 straipsnį pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-ad60a711c5f6df21ec465044
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ darbo apmokėjimo įstatymo priedėlis
 
 
 
-## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS ^s-5df2f4cb606538b8ad2bf6e4
 
 (Baziniais dydžiais)
 
@@ -325,7 +330,7 @@ Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
 
 
 
-## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS ^s-a8ae644c1aa0269ebfe0209c
 
 (Baziniais dydžiais)
 
@@ -475,7 +480,7 @@ Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams p
 
 
 
-### 3 straipsnis. 3 straipsnio 1 dalies pripažinimas netekusia galios
+### 3 straipsnis. 3 straipsnio 1 dalies pripažinimas netekusia galios ^s-9fea282cb412731e339bb790
 
 
 3 straipsnio 1 dalį pripažinti netekusia galios.

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2FDB4AAA3C52"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-01-05"
 latest_path: "latest/TAR.2FDB4AAA3C52.md"
 latest_sha256: "739bfbb13f51a74255b26d1af1a61026ef71310f4731bd62e5ebbee2b9ad4ab8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2FDB4AAA3C52]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2FDB4AAA3C52.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2FDB4AAA3C52
+- Ryšiai: [[Ryšiai/TAR.2FDB4AAA3C52|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +35,7 @@ DĖL LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO 16 STRAIPSNIO LAIKI
 
 
 
-Laikinai papildyti Lietuvos Respublikos žemės ūkio bendrovių įstatymo (Žin., 1991, Nr. 13-328; 1994, Nr. 1-1) 16 straipsnį 5 punktu:
+Laikinai papildyti [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymo]] (Žin., 1991, Nr. 13-328; 1994, Nr. 1-1) 16 straipsnį 5 punktu:
 
 
 „5) perduodant turtą už įsiskolinimus valstybės ar savivaldybių biudžetams.“

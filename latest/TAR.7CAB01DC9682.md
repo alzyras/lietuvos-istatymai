@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7CAB01DC9682"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo"
+  - "įstatymas dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-10-15"
 latest_path: "latest/TAR.7CAB01DC9682.md"
 latest_sha256: "22b5c11a2234e80c534200626b913cf7cdc3ba5190ee82efff6a60639f975c30"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7CAB01DC9682]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7CAB01DC9682.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7CAB01DC9682
+- Ryšiai: [[Ryšiai/TAR.7CAB01DC9682|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-8f14ec8a02e492bac08b3996
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 116, ratifikuoja 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolą.

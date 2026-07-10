@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "5e0af700fcf911e39cfacd978b6fd9bb"
 pavadinimas: "Lietuvos Respublikos tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimo netekusiu galios įstatymas"
+  - "tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-06-27"
 latest_path: "latest/5e0af700fcf911e39cfacd978b6fd9bb.md"
 latest_sha256: "ce06dbfa883fb2c77ece0d76ed6212995314bc964614f0b30a73a3d36dfa668b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/5e0af700fcf911e39cfacd978b6fd9bb]]"
 ---
 # Lietuvos Respublikos tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/5e0af700fcf911e39cfacd978b6fd9bb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/5e0af700fcf911e39cfacd978b6fd9bb
+- Ryšiai: [[Ryšiai/5e0af700fcf911e39cfacd978b6fd9bb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ TIEKIAMŲ RINKAI TRĄŠŲ ĮSTATYMO NR. XI-2157 PRIPAŽINIMO NETEKUSIU GALIOS
 
 
 
-### 1 straipsnis. Lietuvos Respublikos tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimas netekusiu galios
+### 1 straipsnis. Lietuvos Respublikos tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimas netekusiu galios ^s-9c0f0ba17bd382fc447c7b66
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos tiekiamų rinkai trąšų įstatymą  Nr. XI-2157.

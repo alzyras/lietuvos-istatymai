@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.74BCF79EB1FF"
 pavadinimas: "Dėl Lietuvos Respublikos vietos savivaldos įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos vietos savivaldos įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-19"
 latest_path: "latest/TAR.74BCF79EB1FF.md"
 latest_sha256: "4f8edd6c3d710567dc17893a178cae24f97255f937ed0f936321039e86257477"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.74BCF79EB1FF]]"
 ---
 # Dėl Lietuvos Respublikos vietos savivaldos įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.74BCF79EB1FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.74BCF79EB1FF
+- Ryšiai: [[Ryšiai/TAR.74BCF79EB1FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-Papildyti Lietuvos Respublikos vietos savivaldos įstatymo (Žin., 1994, Nr. 55-1049) 16 straipsnio pirmąją dalį – po žodžių „priešgaisrinę saugą“ įrašyti žodžius „organizuoti sveikatinimo veiklą savivaldybės teritorijoje Vyriausybės nustatyta tvarka“.
+Papildyti [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (Žin., 1994, Nr. 55-1049) 16 straipsnio pirmąją dalį – po žodžių „priešgaisrinę saugą“ įrašyti žodžius „organizuoti sveikatinimo veiklą savivaldybės teritorijoje Vyriausybės nustatyta tvarka“.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CB4A936A2395"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-07"
 latest_path: "latest/TAR.CB4A936A2395.md"
 latest_sha256: "51c69d6a09fe716d4ddf96e15d3c99749e3b7a3ed5dbddf68d9d8255d6e7b001"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CB4A936A2395]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CB4A936A2395.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CB4A936A2395
+- Ryšiai: [[Ryšiai/TAR.CB4A936A2395|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,86 +35,86 @@ Vilnius
 
 
 
-### 1 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2004 metų pajamos ir išlaidos
+### 1 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2004 metų pajamos ir išlaidos ^s-08184f30ad32ffcbaf5c4354
 
 
 Patvirtinti Lietuvos Respublikos valstybinio socialinio draudimo fondo 2004 metų biudžetą – 5250 043 tūkst. litų pajamų, 5227 043 tūkst. litų išlaidų (pajamos viršija išlaidas 23 000 tūkst. litų) ir 62 000 tūkst. litų kasos apyvartos lėšų (1 priedėlis).
 
 
 
-### 2 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2004 metų pinigų srautai
+### 2 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2004 metų pinigų srautai ^s-bd8c72ae5adc38d5ea0d3b81
 
 
 Patvirtinti Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų pinigų srautus (2 priedėlis).
 
 
 
-### 3 straipsnis. Valstybinio socialinio draudimo įmokų tarifai 2004 metais
+### 3 straipsnis. Valstybinio socialinio draudimo įmokų tarifai 2004 metais ^s-cbc4aa51d444a87c76b2b800
 
 
-1. Patvirtinti draudėjų bendrąjį valstybinio socialinio draudimo įmokų 31 procento tarifą ir jo dydžius atskiroms draudimo rūšims: ^9a1449f4e0a975d111c11960
+1. Patvirtinti draudėjų bendrąjį valstybinio socialinio draudimo įmokų 31 procento tarifą ir jo dydžius atskiroms draudimo rūšims: ^s-ff59dd3833dc08141d58f857
 
 
-1) pensijų socialiniam draudimui – 23,4 procento; ^5b6c37b0008477d33cd72534
+1) pensijų socialiniam draudimui – 23,4 procento; ^s-519e029bddf027395fda977d
 
 
-2) ligos ir motinystės socialiniam draudimui – 2,8 procento; ^75330c61a9bb2d1e98a11eca
+2) ligos ir motinystės socialiniam draudimui – 2,8 procento; ^s-38ffbbffd507a07b9658449e
 
 
-3) draudimui nuo nedarbo – 1,5 procento; ^b955aa1472ed75690ae062bb
+3) draudimui nuo nedarbo – 1,5 procento; ^s-dadec3944097b541b9ff1851
 
 
-4) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui – 0,3 procento; ^d2b3d780bac8df46a02f576a
+4) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui – 0,3 procento; ^s-c2f7dab7b7058cdc113e9ff7
 
 
-5) sveikatos draudimui – 3,0 procentus. ^bd58360872e079741714a22f
+5) sveikatos draudimui – 3,0 procentus. ^s-7bf061c7a5f1d15d913cea51
 
 
-2. Patvirtinti apdraustųjų bendrąjį valstybinio socialinio draudimo įmokų 3 procentų tarifą ir jo dydžius atskiroms draudimo rūšims: ^8a06362e49aeef558cfaefb8
+2. Patvirtinti apdraustųjų bendrąjį valstybinio socialinio draudimo įmokų 3 procentų tarifą ir jo dydžius atskiroms draudimo rūšims: ^s-cf244b779fd2fa37868fd0f6
 
 
-1) pensijų socialiniam draudimui – 2,5 procento; ^10e8ad666abd0b4d004b56cc
+1) pensijų socialiniam draudimui – 2,5 procento; ^s-fd0ba58288d46eeb6621f598
 
 
-2) ligos ir motinystės socialiniam draudimui – 0,5 procento. ^a396add8485cfa57efda3ece
+2) ligos ir motinystės socialiniam draudimui – 0,5 procento. ^s-6359d57ada160466e94988af
 
 
-3. Patvirtinti įmokos valstybinei socialinio draudimo bazinei pensijai gauti dydį – 50 procentų bazinės pensijos. ^363c724eff7b67a80d089553
+3. Patvirtinti įmokos valstybinei socialinio draudimo bazinei pensijai gauti dydį – 50 procentų bazinės pensijos. ^s-93601562072f28f5902a3864
 
 
-4. Patvirtinti valstybinio socialinio draudimo papildomai pensijos daliai gauti įmokos dydį – 15 procentų valstybiniam socialiniam draudimui deklaruojamų pajamų. ^dbbbd43daa7d27945c678bdf
+4. Patvirtinti valstybinio socialinio draudimo papildomai pensijos daliai gauti įmokos dydį – 15 procentų valstybiniam socialiniam draudimui deklaruojamų pajamų. ^s-5f9db702bcc52f89cd14493b
 
 
-5. Patvirtinti valstybinio socialinio pensijų draudimo įmokos tarifo dalį, skirtą valstybinės socialinio draudimo senatvės pensijos papildomai daliai – 10,5 procento. ^1f7784e2e9fc185a488ebabb
+5. Patvirtinti valstybinio socialinio pensijų draudimo įmokos tarifo dalį, skirtą valstybinės socialinio draudimo senatvės pensijos papildomai daliai – 10,5 procento. ^s-e0d570b5bb5b2a449ee8e63a
 
 
 
-### 4 straipsnis. Valstybinio savanoriškojo socialinio pensijų draudimo įmokų tarifai 2004 metais
+### 4 straipsnis. Valstybinio savanoriškojo socialinio pensijų draudimo įmokų tarifai 2004 metais ^s-7e607158ffa46987852f554d
 
 
 Patvirtinti šiuos Valstybinio savanoriškojo socialinio pensijų draudimo įmokų tarifus 2004 metams:
 
 
-1) valstybinei socialinio draudimo bazinei pensijai gauti įmokos dydis – 50 procentų bazinės pensijos; ^7be662f7553b320f234d66dd
+1) valstybinei socialinio draudimo bazinei pensijai gauti įmokos dydis – 50 procentų bazinės pensijos; ^s-2a082a0700fd38bb1dcbbdb9
 
 
-2) valstybinio socialinio draudimo papildomai pensijos daliai gauti įmokos dydis – 15 procentų deklaruojamų pajamų. ^a26ff790c593ea899d9d8152
+2) valstybinio socialinio draudimo papildomai pensijos daliai gauti įmokos dydis – 15 procentų deklaruojamų pajamų. ^s-9b4e23783824a5c7d4e979c2
 
 
 
-### 5 straipsnis. Valstybinio socialinio draudimo įmokų, pervedamų į pensijų kaupiamuosius fondus, kompensavimas
+### 5 straipsnis. Valstybinio socialinio draudimo įmokų, pervedamų į pensijų kaupiamuosius fondus, kompensavimas ^s-c38bd92048b02dba20954685
 
 
 Valstybinio socialinio draudimo įmokų, pervedamų į pensijų kaupiamuosius fondus, kompensavimui 2004 metams skirti 55 000 tūkst. litų valstybės rezervinio (stabilizavimo) fondo lėšų.
 
 
-### 6 straipsnis. Valstybinio socialinio draudimo fondo biudžeto laikino lėšų trūkumo dengimas
+### 6 straipsnis. Valstybinio socialinio draudimo fondo biudžeto laikino lėšų trūkumo dengimas ^s-4aead00a08707edc9d1fde1e
 
 
-1. Valstybinio socialinio draudimo fondo biudžeto laikiną lėšų trūkumą dengti skolintomis lėšomis. ^f2724f46510a51c8a5e66891
+1. Valstybinio socialinio draudimo fondo biudžeto laikiną lėšų trūkumą dengti skolintomis lėšomis. ^s-85dbd21240ac8527a4811104
 
 
-2. Privalomojo sveikatos draudimo fondui ir Užimtumo fondui pervesti faktiškai surinktas lėšas. ^5b49d9c616d6f3495ea95847
+2. Privalomojo sveikatos draudimo fondui ir Užimtumo fondui pervesti faktiškai surinktas lėšas. ^s-c97722c3894ff0f1e0687ee3
 
 
 
@@ -183,7 +188,7 @@ draudimo fondo
  tūkst. Lt
 
 
- 1. Pajamos ^8ee8d3040c694ca3de1cb0b1
+ 1. Pajamos ^s-2ad14f4c8b8b8b97e4005f6e
  5250043
 
 
@@ -191,35 +196,35 @@ draudimo fondo
 
 
 
- 1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos ^6085abbb1b6b1a1ce6929dc8
+ 1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos ^s-2de4e1fa18af0e8c1d758226
  4658763
 
 
- 1.2. Apdraustųjų privalomosios valstybinio socialinio draudimo įmokos ^df86c1e6ab41745191754a4a
+ 1.2. Apdraustųjų privalomosios valstybinio socialinio draudimo įmokos ^s-0eb25e1e75e51b0ee917e588
  447111
 
 
- 1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^3ef780431da4c37c849feb5b
+ 1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^s-6be6af955458b87fd51336ad
  49979
 
 
- 1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^0fdf6e38623e660d2df3d7da
+ 1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^s-54a2a695dfeca55f775392b4
  816
 
 
- 1.5. Baudos, delspinigiai ir kitos pajamos ^965896c100a5ca9388a9131e
+ 1.5. Baudos, delspinigiai ir kitos pajamos ^s-c08f5b696bd379eab2202a67
  11239
 
 
- 1.6. Asignavimai iš valstybės rezervinio (stabilizavimo) fondo ^22fb6ac6377f25c5bc834dcd
+ 1.6. Asignavimai iš valstybės rezervinio (stabilizavimo) fondo ^s-5b640d80c220a5b0fae8945f
  55000
 
 
- 1.7. Atgautos į ankstesnių metų išlaidas iškeltos abejotinai atgautinos sumos ^d4e302fed06d5a2ecc91b2ea
+ 1.7. Atgautos į ankstesnių metų išlaidas iškeltos abejotinai atgautinos sumos ^s-8111661f93d24c44547a4d0c
  20135
 
 
- 1.8. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^966f847c364ce5944edfa82d
+ 1.8. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^s-0e1e246b0bc58ee9d6e3c467
  7000
 
 
@@ -227,7 +232,7 @@ draudimo fondo
 
 
 
- 2. Išlaidos ^a8d6c9471db1486909416f94
+ 2. Išlaidos ^s-2e315bccd350e0e389fa11f9
  5227043
 
 
@@ -235,35 +240,35 @@ draudimo fondo
 
 
 
- 2.1. Pensijų socialiniam draudimui ^d7d6c03fed258b95e0f46adc
+ 2.1. Pensijų socialiniam draudimui ^s-fc22e2198bf036b54f5f370a
  3827190
 
 
- 2.2. Ligos ir motinystės socialiniam draudimui ^5d66fd6c483a105fec4ec48f
+ 2.2. Ligos ir motinystės socialiniam draudimui ^s-4e46b67496fd576e4f086522
  402919
 
 
- 2.3. Draudimui nuo nedarbo ^e805d61ac2567b3108dadca1
+ 2.3. Draudimui nuo nedarbo ^s-3d3f5dcd9add56e4eda7ea16
  212251
 
 
- 2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^60dcdcc13d03c8ed5c29d313
+ 2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^s-322ea02c0e026da79d5b7405
  24143
 
 
- 2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^d4b2ab540ab008e18f980824
+ 2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^s-72eb293b5ca1a71574a69ca4
  424954
 
 
- 2.6. Lėšos, pervedamos į pensijų fondus ^1e3e423fd064c4571550f7b8
+ 2.6. Lėšos, pervedamos į pensijų fondus ^s-3a0c3752b1abd4e4f7ff1682
  110000
 
 
- 2.7. Neatgautinos ir abejotinai atgautinos sumos ^e275bc5b15915ccbd63a013f
+ 2.7. Neatgautinos ir abejotinai atgautinos sumos ^s-f19bc1abe91de2a3cb8bebe8
  52696
 
 
- 2.8. Veiklos sąnaudos ^eb4bfaa5a5004d64e387a143
+ 2.8. Veiklos sąnaudos ^s-dc1725fdc3bc32f0bcebe15e
  172890
 
 
@@ -271,7 +276,7 @@ draudimo fondo
 
 
 
- 3. Grynasis einamųjų metų rezultatas ^9ffa8b3df15aad3d0912ef5a
+ 3. Grynasis einamųjų metų rezultatas ^s-efc1fa9ea650d65383f5bc39
  23000
 
 
@@ -279,7 +284,7 @@ draudimo fondo
 
 
 
- 4. Kasos apyvartos lėšos ^d95f9f5f32da1052cb83fd1c
+ 4. Kasos apyvartos lėšos ^s-dcd23d2fa54244e759ece9c0
  62000
 
 
@@ -324,127 +329,127 @@ fondo biudžeto
 
 
 
- 1. Įprastinė veikla ^34f916452bd70d0ecf08f592
+ 1. Įprastinė veikla ^s-fc668ff40f9a6d02b069b7e5
  18160
 
 
- 1.1. Grynųjų pinigų srautai iš įprastinės veiklos ^e4c5db71dab45bf696cc13ff
+ 1.1. Grynųjų pinigų srautai iš įprastinės veiklos ^s-755ec58218d0951716a8a4f5
  18160
 
 
- 1.1.1. Pinigų įplaukos ^3d3ac711f029be38ebea81d1
+ 1.1.1. Pinigų įplaukos ^s-416eb95b4eb55008d74c9b2d
  5164037
 
 
- 1.1.1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos ^cf8f4c80bbeeae72920d63b0
+ 1.1.1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos ^s-642069af55c77eb9ab374437
  4603525
 
 
- 1.1.1.1.1. pensijų socialiniam draudimui ^4e10310d808cba990ce77fdb
+ 1.1.1.1.1. pensijų socialiniam draudimui ^s-327845f38b76623081dd829f
  3472510
 
 
- 1.1.1.1.2. ligos ir motinystės socialiniam draudimui ^4bc7f21f519bcfa68082502f
+ 1.1.1.1.2. ligos ir motinystės socialiniam draudimui ^s-06ac32af5aede95bb333553e
  396254
 
 
- 1.1.1.1.3. draudimui nuo nedarbo ^3b4f0ffe6066ad8e33ad7337
+ 1.1.1.1.3. draudimui nuo nedarbo ^s-a80193d23d788a6bdf5019df
  212251
 
 
- 1.1.1.1.4. nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^aea2418e7d8a0a92a9f08d7b
+ 1.1.1.1.4. nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^s-3ea7622935f52cf7023bbdf5
  42429
 
 
- 1.1.1.1.5. sveikatos draudimui ^7c5daffc35dc8231fe2c6e92
+ 1.1.1.1.5. sveikatos draudimui ^s-cbdc7a8fcaa13ab9188fcd7b
  424502
 
 
- 1.1.1.1.6. baziniam pensiniam draudimui valstybės lėšomis ^fe6b0cb6ddde28994ce70966
+ 1.1.1.1.6. baziniam pensiniam draudimui valstybės lėšomis ^s-67abae7e624dbe247cdc7f13
  55579
 
 
- 1.1.1.2. Apdraustųjų privalomosios valstybinio socialinio draudimo įmokos ^2ca423ef68b539b9fe728d20
+ 1.1.1.2. Apdraustųjų privalomosios valstybinio socialinio draudimo įmokos ^s-5853266962cf94033e37decf
  441473
 
 
- 1.1.1.2.1. pensijų socialiniam draudimui ^db510c5a6567caffc80bbdb1
+ 1.1.1.2.1. pensijų socialiniam draudimui ^s-1d9e3e67a02328d6498e6efc
  370794
 
 
- 1.1.1.2.2. ligos ir motinystės socialiniam draudimui ^1d6df5a916c6257a5d7769c3
+ 1.1.1.2.2. ligos ir motinystės socialiniam draudimui ^s-9ad088a7875f9a8b88700b2c
  70679
 
 
- 1.1.1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^305d80553909d81b34812917
+ 1.1.1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^s-00c066bee8e82356ab33cb28
  49479
 
 
- 1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^f37549eb4619729c0a263824
+ 1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^s-0aacca3a6d76231ac869eef7
  816
 
 
- 1.1.1.5. Baudos, delspinigiai ir kitos pajamos ^52692e6a1992c3b38d631d0f
+ 1.1.1.5. Baudos, delspinigiai ir kitos pajamos ^s-5c4ab50e2f9792f570605d17
  6744
 
 
- 1.1.1.5.1. valstybinis socialinis draudimas ^470eca1749f1a9993a86784a
+ 1.1.1.5.1. valstybinis socialinis draudimas ^s-4d0c12356d0c449d95374a01
  6292
 
 
- 1.1.1.5.2. privalomasis sveikatos draudimas ^414e5204855f316213bd246e
+ 1.1.1.5.2. privalomasis sveikatos draudimas ^s-0c6cb3a2623e61526db4e607
  452
 
 
- 1.1.1.6. Asignavimai iš valstybės rezervinio (stabilizavimo) fondo ^a0db27de40324a4365f773ed
+ 1.1.1.6. Asignavimai iš valstybės rezervinio (stabilizavimo) fondo ^s-b83e65639657ef55cec3ae11
  55000
 
 
- 1.1.1.7. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^72cd4333c77685755e5d0416
+ 1.1.1.7. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^s-b705536e2f6de5b342e1aff7
  7000
 
 
- 1.1.2. Pinigų išlaidos ^161dd8839a7b667b3e52cfba
+ 1.1.2. Pinigų išlaidos ^s-24380fa81c369f9fbbabfcbc
  5145877
 
 
- 1.1.2.1. Pensijų socialiniam draudimui ^6077744683d562d86f966d9b
+ 1.1.2.1. Pensijų socialiniam draudimui ^s-cde98f226583c3891a4c0f65
  3825880
 
 
- 1.1.2.2. Ligos ir motinystės socialiniam draudimui ^ce8ab40335d741d5fe7eb15c
+ 1.1.2.2. Ligos ir motinystės socialiniam draudimui ^s-036b94be34004f365eeee54e
  402919
 
 
- 1.1.2.3. Draudimui nuo nedarbo ^08bae60b996a6a2363b41104
+ 1.1.2.3. Draudimui nuo nedarbo ^s-22c7acf8fbd96d347cfe38ff
  212251
 
 
- 1.1.2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^e410016a0a0dddd4bf388cf1
+ 1.1.2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^s-d68f5441f266964e86cf9924
  24143
 
 
- 1.1.2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^2b76ce2f9f7062328c01f444
+ 1.1.2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^s-d32217f079c2f930472c5b4f
  424954
 
 
- 1.1.2.6. Lėšos, pervedamos į kaupiamuosius pensijų fondus ^bfac9f82c1b16e0bdce5e4ae
+ 1.1.2.6. Lėšos, pervedamos į kaupiamuosius pensijų fondus ^s-58587cf3f2bbbfd69d22642d
  101000
 
 
- 1.1.2.7. Veiklos sąnaudos ^ea2c917e2ae6c18535c0b9ec
+ 1.1.2.7. Veiklos sąnaudos ^s-3a913f1900be302240096d83
  154730
 
 
- 1.2. Grynųjų pinigų srautai iš kitos Valstybinio socialinio draudimo fondui pavestos veiklos ^7f4d8e97e09ccaefa1b90982
+ 1.2. Grynųjų pinigų srautai iš kitos Valstybinio socialinio draudimo fondui pavestos veiklos ^s-aa320455c2675b5b612b251d
  0
 
 
- 1.2.1. Pinigų įplaukos ^38f3b846f561da85f9b917d3
+ 1.2.1. Pinigų įplaukos ^s-950fd2639621fd1ebf005a56
  217812
 
 
- 1.2.2. Pinigų išlaidos ^c80a1c47bbb03db14900d64f
+ 1.2.2. Pinigų išlaidos ^s-7c4b0135c593996d14bd0bed
  217812
 
 
@@ -452,27 +457,27 @@ fondo biudžeto
 
 
 
- 2. Investicinė veikla ^ad032f07189b76fec579b24a
+ 2. Investicinė veikla ^s-023c581bda420f944619a260
  -18160
 
 
- 2.1. Išlaidos nematerialiajam turtui įsigyti ^0bb96c7740654fc712b81c5e
+ 2.1. Išlaidos nematerialiajam turtui įsigyti ^s-4ebfdd08af77911a93b91020
  -7890
 
 
- 2.2. Įplaukos, gautos pardavus nematerialųjį turtą ^1fd387dfb1a4fd341340f344
+ 2.2. Įplaukos, gautos pardavus nematerialųjį turtą ^s-d601198e5db9a39073d47fd8
  0
 
 
- 2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti ^f0a8419a5e02a838246c93f9
+ 2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti ^s-424f7674a95e6ce2512a6ff5
  -13030
 
 
- 2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą ^9f614cb31ef7633d6178f98e
+ 2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą ^s-f7a96a782623a4085be65f44
  2760
 
 
- 2.5. Išlaidos akcijoms, obligacijoms, kitiems ^48b6361893b04b12fc001646
+ 2.5. Išlaidos akcijoms, obligacijoms, kitiems ^s-d877dede23c671dfeb6fa20d
 
 
 
@@ -480,7 +485,7 @@ fondo biudžeto
  0
 
 
- 2.6. Įplaukos, gautos pardavus akcijas, obligacijas, ^b5fcad66ccf3497b9812b3bd
+ 2.6. Įplaukos, gautos pardavus akcijas, obligacijas, ^s-db18db96bc646072256a9ec2
 
 
 
@@ -492,35 +497,19 @@ fondo biudžeto
 
 
 
- 3. Finansinė veikla ^2e7986e0160f50ba77bf0faa
+ 3. Finansinė veikla ^s-031e2d45445a2115e5116e2c
  0
 
 
- 3.1. Trumpalaikių paskolų pokytis ^dbd06a8b4d30731b50be6b09
+ 3.1. Trumpalaikių paskolų pokytis ^s-901c8b802d3b6841260ddae5
  0
 
 
- 3.2. Ilgalaikių paskolų pokytis ^b7595db05a79fc93dd6c326e
+ 3.2. Ilgalaikių paskolų pokytis ^s-82f65badd5ad5ae063d92ffa
  0
 
 
- 3.3. Mokėjimai lizingu ^3c57cd52acf25b3e305c7666
- 0
-
-
-
-
-
-
-
-
-
-
-
- 0
-
-
- 4. Grynų pinigų ir jų ekvivalentų pokytis ^890090148265e28ece5c1401
+ 3.3. Mokėjimai lizingu ^s-05ebf3617edbcc64fb749a9f
  0
 
 
@@ -528,17 +517,33 @@ fondo biudžeto
 
 
 
- 5. Grynų pinigų ir jų ekvivalentų cirkuliacija ^70ceb783008b5fef233a5782
 
 
 
- 5.1. Metų pradžioje ^23505f499ad5628f79212536
+
+
+ 0
+
+
+ 4. Grynų pinigų ir jų ekvivalentų pokytis ^s-a2707c3f7db417ead4877b98
+ 0
+
+
+
+
+
+
+ 5. Grynų pinigų ir jų ekvivalentų cirkuliacija ^s-1cb73ea5cc2b70fba78a8e9f
+
+
+
+ 5.1. Metų pradžioje ^s-06b12e89871f75202852d3c7
  51586
 
 
- 5.2. Pokytis ^46860f86a01094504dc5ca74
+ 5.2. Pokytis ^s-d3c97c9be2b3c0abe9707f93
  0
 
 
- 5.3. Metų pabaigoje ^bcc74de09c74d1dbe2fef483
+ 5.3. Metų pabaigoje ^s-48c55a73d9587e9dd33d3cab
  51586

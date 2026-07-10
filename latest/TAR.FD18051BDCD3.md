@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FD18051BDCD3"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymas"
+  - "valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-01"
 latest_path: "latest/TAR.FD18051BDCD3.md"
 latest_sha256: "2b32a4df7b09007ebe7d77bb9aa1c4068c321d636e87ce7ce1b9122b22df5949"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FD18051BDCD3]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FD18051BDCD3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FD18051BDCD3
+- Ryšiai: [[Ryšiai/TAR.FD18051BDCD3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 25 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 25 straipsnio 3 dalies pakeitimas ^s-2ad39fd04cdb0f93dfe5138c
 
 
 Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo 1 priedo pakeitimas
+### 2 straipsnis. Įstatymo 1 priedo pakeitimas ^s-2b539f90432c30b8c24df252
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
@@ -52,7 +57,7 @@ Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-valstybės tarnybos įstatymo
+[[latest/TAR.D3ED3792F52B|valstybės tarnybos įstatymo]]
 1 priedas
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORIJOS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
@@ -146,38 +151,38 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORIJOS IR PAREIGINI
 “
 
 
-### 3 straipsnis. Įstatymų pripažinimas netekusiais galios
+### 3 straipsnis. Įstatymų pripažinimas netekusiais galios ^s-e6947011e1399179cf7971cd
 
 
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymas (Žin., 2009, Nr. 91-3918); ^78deb6de5d896c0218106689
+1) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymas (Žin., 2009, Nr. 91-3918); ^s-6a34c7610e00c8b76d7e18ce
 
 
-2) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas|4 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 82-4298); ^c051e3859aa1430d6f9fd264
+2) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymo [[#^s-dce2641b028bc2abd3cfb9f1|4 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 82-4298); ^s-0cc5e365db7c62984b272474
 
 
-3) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas|4 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 150-7036); ^02305bcdc038b10901de1baf
+3) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymo [[#^s-dce2641b028bc2abd3cfb9f1|4 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 150-7036); ^s-c1a35c43a274d5142ac19277
 
 
-4) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas|4 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 155-7992); ^edffa577817a8e26204bc5ba
+4) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymo [[#^s-dce2641b028bc2abd3cfb9f1|4 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 155-7992); ^s-a2b477de957b3ba33d1beb2d
 
 
-5) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymas (Žin., 2009, Nr. 49-1937); ^21ca8ec346df681d9eb0cfbc
+5) [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymo]] 1 priedo pakeitimo įstatymas (Žin., 2009, Nr. 49-1937); ^s-cdb1e40c4fe29e356e7506e9
 
 
-6) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo [[#3 straipsnis. Įstatymų pripažinimas netekusiais galios|3 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 82-4297); ^6fbbc9a8fce3c8eb54dbcd32
+6) [[latest/TAR.D3ED3792F52B#^s-bf8be1b7d65210c7b3ee46cd|Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 82-4297); ^s-425ab31dbafcd30a084fa3fd
 
 
-7) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo [[#3 straipsnis. Įstatymų pripažinimas netekusiais galios|3 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 150-7038); ^646694ebfedd64ef2e6325e6
+7) [[latest/TAR.D3ED3792F52B#^s-bf8be1b7d65210c7b3ee46cd|Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 150-7038); ^s-841663e577e5d7d1d81739e8
 
 
-8) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo [[#3 straipsnis. Įstatymų pripažinimas netekusiais galios|3 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 155-7993). ^dfa752a5fc84e8c1a36ac346
+8) [[latest/TAR.D3ED3792F52B#^s-bf8be1b7d65210c7b3ee46cd|Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 155-7993). ^s-a207b35b4f280a55728a2c83
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-dce2641b028bc2abd3cfb9f1
 
 
 Šis įstatymas įsigalioja 2013 m. spalio 1 d.

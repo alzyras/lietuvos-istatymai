@@ -11,7 +11,7 @@
   "latest_revision": "2024-01-01",
   "latest_sha256": "86a20cd01ee257b028c33d4a079c627f16e26b3f32d574b24fd610f449afa627",
   "metadata_path": "latest/b7522400882311ed8df094f359a60216.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos Nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

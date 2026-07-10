@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E5C7DCAD90FA"
 pavadinimas: "Lietuvos Respublikos 2010 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2010 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+  - "2010 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-24"
 latest_path: "latest/TAR.E5C7DCAD90FA.md"
 latest_sha256: "87e6eae8ff71584d77319cdec9e10eb6cf02110c4b41d9dc372d6b291f0b559a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E5C7DCAD90FA]]"
 ---
 # Lietuvos Respublikos 2010 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E5C7DCAD90FA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E5C7DCAD90FA
+- Ryšiai: [[Ryšiai/TAR.E5C7DCAD90FA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,283 +36,283 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos 2010 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas
+### 1 straipsnis. Lietuvos Respublikos 2010 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas ^s-8e4aabc9bc3bb6fb1d45ea00
 
 
 Patvirtinti Lietuvos Respublikos 2010 metų valstybės biudžetą – 21 269 966 tūkst. litų pajamų, 26 199 953 tūkst. litų asignavimų išlaidoms ir turtui įsigyti (asignavimai viršija pajamas 4 929 987 tūkst. litų) (1, 2, 3 priedėliai).
 
 
 
-### 2 straipsnis. 2010 metų savivaldybių biudžetų finansinių rodiklių patvirtinimas
+### 2 straipsnis. 2010 metų savivaldybių biudžetų finansinių rodiklių patvirtinimas ^s-87c5beb91484cf021ca173ee
 
 
-1. Patvirtinti gyventojų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams nuo pajamų į nacionalinį biudžetą, – 73,47 procento. ^5fbb5818af53559e8ed56526
+1. Patvirtinti gyventojų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams nuo pajamų į nacionalinį biudžetą, – 73,47 procento. ^s-c487dd1c0bd6847e0c34bab4
 
 
-2. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialiąsias tikslines dotacijas – 2 703 438 tūkst. litų (4 priedėlis) ir valstybės biudžeto bendrosios dotacijos kompensacijas – 197 106 tūkst. litų (5 priedėlis), taip pat valstybės biudžeto bendrosios dotacijos kompensaciją Neringos savivaldybės biudžetui – 1 000 tūkst. litų padengti dalį paslaugų kainos už tiekiamą vandenį ir nuotekų surinkimą. ^c421afaf18094aaebcfb6340
+2. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialiąsias tikslines dotacijas – 2 703 438 tūkst. litų (4 priedėlis) ir valstybės biudžeto bendrosios dotacijos kompensacijas – 197 106 tūkst. litų (5 priedėlis), taip pat valstybės biudžeto bendrosios dotacijos kompensaciją Neringos savivaldybės biudžetui – 1 000 tūkst. litų padengti dalį paslaugų kainos už tiekiamą vandenį ir nuotekų surinkimą. ^s-f4caab227b5a93f817224755
 
 
-3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 47 499 tūkst. litų. Jas savivaldybės nuo antrojo ketvirčio perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (6 priedėlis). ^2b997510d8b79edc52c028b9
+3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 47 499 tūkst. litų. Jas savivaldybės nuo antrojo ketvirčio perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (6 priedėlis). ^s-26dccebbc6fb6124cc10a005
 
 
-4. Pasiūlyti savivaldybių taryboms tvirtinant 2010 metų biudžetus lėšas savivaldybių institucijų ir įstaigų darbo užmokesčio fondui pedagogams, socialiniams ir kultūros darbuotojams sumažinti 5 procentais, kitiems darbuotojams – 10 procentų. ^b75417d605048716bc584d03
-
-
-
-### 3 straipsnis. Mokinio krepšelio dydis ir jam patvirtintų asignavimų perskirstymas
-
-
-1. Mokinio krepšelis – mokymo lėšos, skirtos vienam sutartiniam mokiniui, apskaičiuojamos ir paskirstomos pagal Vyriausybės patvirtintą metodiką. ^c55d3713f056dd6aa9e2e6e6
-
-
-2. Nustatyti mokinio krepšelio dydį 2010 metais – 3 310 litų. ^98727330ab3334bd2d77b21e
-
-
-3. Nustatyti, kad iš mokymui patvirtintų asignavimų tarpusavyje suderintas sumas perveda: ^677e56a6f7fb876e2ae6920c
-
-
-1) atitinkamos savivaldybės viena kitai, kai mokiniai pereina iš vienos savivaldybės finansuojamų mokyklų į kitos savivaldybės finansuojamas mokyklas, ne vėliau kaip iki liepos 1 dienos (vienų mokslo metų pabaiga) ir ne vėliau kaip iki gruodžio 1 dienos (kiti mokslo metai); ^fe71a8a6726c9b7f98203d15
-
-
-2) Finansų ministerija atitinkamoms savivaldybėms ir valstybės biudžeto asignavimų valdytojams, kai mokiniai pereina iš savivaldybės finansuojamų mokyklų į finansuojamas iš valstybės biudžeto mokyklas ar atvirkščiai; ^d7f40f2ef1fd20a17aa2c9d1
-
-
-3) Finansų ministerija atitinkamiems valstybės biudžeto asignavimų valdytojams, kai mokiniai pereina iš valstybės biudžeto finansuojamų mokyklų į valstybės biudžeto finansuojamas mokyklas. ^7ce44eb60eda8188a595618d
-
-
-4. Mokyklų steigėjai perskirsto mokinio krepšelio lėšas tarp mokyklų dėl pasikeitusio sutartinių mokinių skaičiaus pagal rugsėjo 1 dienos duomenis. ^e4249bc19344ad6300f32d44
+4. Pasiūlyti savivaldybių taryboms tvirtinant 2010 metų biudžetus lėšas savivaldybių institucijų ir įstaigų darbo užmokesčio fondui pedagogams, socialiniams ir kultūros darbuotojams sumažinti 5 procentais, kitiems darbuotojams – 10 procentų. ^s-8b9291b32e0cab2f0e3a84b6
 
 
 
-### 4 straipsnis. Specialiosios tikslinės dotacijos valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti ir mokinio krepšeliui finansuoti naudojimas
+### 3 straipsnis. Mokinio krepšelio dydis ir jam patvirtintų asignavimų perskirstymas ^s-53b4472834ee9187cd662278
 
 
-1. Nustatyti, kad vykdant savivaldybių biudžetus nepanaudotos specialiosios tikslinės dotacijos valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti ketvirtąjį ketvirtį naudojamos tik savivaldybių biudžetų įsiskolinimams dengti, o nepanaudotos specialiosios tikslinės dotacijos mokinio krepšeliui finansuoti – tik mokymo reikmių įsiskolinimams dengti, įvykdžius ugdymo planą. ^db8338ac3df02e782caf5fd4
+1. Mokinio krepšelis – mokymo lėšos, skirtos vienam sutartiniam mokiniui, apskaičiuojamos ir paskirstomos pagal Vyriausybės patvirtintą metodiką. ^s-1f5c86e309a9a01cac180cd4
 
 
-2. Įpareigoti savivaldybes atsiskaityti: ^3fd6573181dc400bda60496f
+2. Nustatyti mokinio krepšelio dydį 2010 metais – 3 310 litų. ^s-5bbbd2314552cab04d77fbdb
 
 
-1) atitinkamoms valstybines (valstybės perduotas savivaldybėms) funkcijas kuruojančioms institucijoms už jų kuruojamų funkcijų atlikimą pagal šių institucijų patvirtintus atsiskaitymo tvarkos aprašus; ^ab787da1a9bde90b09b9b0d6
+3. Nustatyti, kad iš mokymui patvirtintų asignavimų tarpusavyje suderintas sumas perveda: ^s-3a32b44fdc9056f97805498c
 
 
-2) Švietimo ir mokslo ministerijai už savarankiškosios savivaldybių funkcijos – organizuoti vaikų, jaunimo ir suaugusiųjų bendrąjį lavinimą – dalies (mokinio krepšelis) atlikimą pagal šios ministerijos patvirtintą atsiskaitymo tvarkos aprašą. ^7073f4d567f2f902346052f8
+1) atitinkamos savivaldybės viena kitai, kai mokiniai pereina iš vienos savivaldybės finansuojamų mokyklų į kitos savivaldybės finansuojamas mokyklas, ne vėliau kaip iki liepos 1 dienos (vienų mokslo metų pabaiga) ir ne vėliau kaip iki gruodžio 1 dienos (kiti mokslo metai); ^s-7701ccdd479460517345252c
 
 
-3. Savivaldybės 5 procentus mokinio krepšeliui skirtų lėšų savo nustatyta tvarka naudoja: ^0628347301a0d77454160067
+2) Finansų ministerija atitinkamoms savivaldybėms ir valstybės biudžeto asignavimų valdytojams, kai mokiniai pereina iš savivaldybės finansuojamų mokyklų į finansuojamas iš valstybės biudžeto mokyklas ar atvirkščiai; ^s-fe2d334052b0c0a96e9d1ffd
 
 
-1) pedagoginei ir psichologinei pagalbai organizuoti; ^b93b25581069030dc3ccb6ad
+3) Finansų ministerija atitinkamiems valstybės biudžeto asignavimų valdytojams, kai mokiniai pereina iš valstybės biudžeto finansuojamų mokyklų į valstybės biudžeto finansuojamas mokyklas. ^s-54f66440d12e0a7cd76167b7
 
 
-2) brandos egzaminams organizuoti ir vykdyti; ^a12edf4d331827f4338e34b7
-
-
-3) bendrąjį lavinimą teikiančių mokyklų išorės auditui organizuoti; ^f97c09a19f4e18315f0e5922
-
-
-4) profesinės linkmės moduliams neformaliojo švietimo mokyklose finansuoti; ^097f4c93f8f2095e2179f3f0
-
-
-5) pedagoginių darbuotojų tarifinių atlygių koeficientų skirtumams išlyginti bendrąjį lavinimą ir priešmokyklinį ugdymą teikiančiose mokyklose; ^dcc659fda2b7e8fbbf0fb96d
-
-
-6) bendrojo lavinimo ir priešmokyklinio ugdymo paslaugų prieinamumui užtikrinti; ^286d8b83adbee77d3d54f72a
-
-
-7) neformaliajam švietimui, papildančiam bendrąsias pradinio, pagrindinio ir vidurinio ugdymo programas. ^7c6e95618a8672827a8b85ab
+4. Mokyklų steigėjai perskirsto mokinio krepšelio lėšas tarp mokyklų dėl pasikeitusio sutartinių mokinių skaičiaus pagal rugsėjo 1 dienos duomenis. ^s-02bfdb5c0df49c9fccd19e74
 
 
 
-### 5 straipsnis. Specialiosios tikslinės dotacijos socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti ir socialinei paramai mokiniams teikti
+### 4 straipsnis. Specialiosios tikslinės dotacijos valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti ir mokinio krepšeliui finansuoti naudojimas ^s-9ed680dbcaf90521b0243712
+
+
+1. Nustatyti, kad vykdant savivaldybių biudžetus nepanaudotos specialiosios tikslinės dotacijos valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti ketvirtąjį ketvirtį naudojamos tik savivaldybių biudžetų įsiskolinimams dengti, o nepanaudotos specialiosios tikslinės dotacijos mokinio krepšeliui finansuoti – tik mokymo reikmių įsiskolinimams dengti, įvykdžius ugdymo planą. ^s-578b084f82f6d64b5643508b
+
+
+2. Įpareigoti savivaldybes atsiskaityti: ^s-9aec79606e50dc432eaa1c30
+
+
+1) atitinkamoms valstybines (valstybės perduotas savivaldybėms) funkcijas kuruojančioms institucijoms už jų kuruojamų funkcijų atlikimą pagal šių institucijų patvirtintus atsiskaitymo tvarkos aprašus; ^s-bbfb9b963afa34737b1e5a57
+
+
+2) Švietimo ir mokslo ministerijai už savarankiškosios savivaldybių funkcijos – organizuoti vaikų, jaunimo ir suaugusiųjų bendrąjį lavinimą – dalies (mokinio krepšelis) atlikimą pagal šios ministerijos patvirtintą atsiskaitymo tvarkos aprašą. ^s-84d9eb1ac50c5d404e948b0c
+
+
+3. Savivaldybės 5 procentus mokinio krepšeliui skirtų lėšų savo nustatyta tvarka naudoja: ^s-7da103094b2c594da8c9e7c6
+
+
+1) pedagoginei ir psichologinei pagalbai organizuoti; ^s-f57c4fef765f43bd60941fd7
+
+
+2) brandos egzaminams organizuoti ir vykdyti; ^s-b284fda3230018c7596ff760
+
+
+3) bendrąjį lavinimą teikiančių mokyklų išorės auditui organizuoti; ^s-31ddb28b98a12c1b8b27731e
+
+
+4) profesinės linkmės moduliams neformaliojo švietimo mokyklose finansuoti; ^s-f99de7df56242b57542b4533
+
+
+5) pedagoginių darbuotojų tarifinių atlygių koeficientų skirtumams išlyginti bendrąjį lavinimą ir priešmokyklinį ugdymą teikiančiose mokyklose; ^s-c9c4b4b83b9fbc43dce7be07
+
+
+6) bendrojo lavinimo ir priešmokyklinio ugdymo paslaugų prieinamumui užtikrinti; ^s-26efc3c5ae92779372fd70bd
+
+
+7) neformaliajam švietimui, papildančiam bendrąsias pradinio, pagrindinio ir vidurinio ugdymo programas. ^s-0fad9af48c651636557287f3
+
+
+
+### 5 straipsnis. Specialiosios tikslinės dotacijos socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti ir socialinei paramai mokiniams teikti ^s-a2203f13e21692426710bec1
 
 
 Specialioji tikslinė dotacija socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti ir socialinei paramai mokiniams teikti pervedama atsižvelgiant į lėšų poreikį socialinėms išmokoms ir kompensacijoms mokėti ir socialinei paramai mokiniams teikti.
 
 
 
-### 6 straipsnis. Valstybės biudžeto asignavimų perskirstymas, asmeniui keičiant studijų programą
+### 6 straipsnis. Valstybės biudžeto asignavimų perskirstymas, asmeniui keičiant studijų programą ^s-c1f05dce79381ba832788c6b
 
 
-1. Nustatyti, kad, asmeniui, kurio studijos yra valstybės finansuojamos, keičiant studijų programą Lietuvos Respublikos mokslo ir studijų įstatymo ir kitų teisės aktų nustatyta tvarka, aukštosioms mokykloms sutarus Finansų ministerija perskirsto aukštųjų mokyklų tarpusavyje suderintas valstybės biudžeto asignavimų sumas tarp valstybės biudžeto asignavimų valdytojų: ^06ad41b5648ecf66db330725
+1. Nustatyti, kad, asmeniui, kurio studijos yra valstybės finansuojamos, keičiant studijų programą [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymo]] ir kitų teisės aktų nustatyta tvarka, aukštosioms mokykloms sutarus Finansų ministerija perskirsto aukštųjų mokyklų tarpusavyje suderintas valstybės biudžeto asignavimų sumas tarp valstybės biudžeto asignavimų valdytojų: ^s-8fb3f6bb2907ed5a584f89b1
 
 
-1) valstybinių universitetų, kai asmuo pereina iš vieno valstybinio universiteto į kitą; ^2aed43f17b50c3c3281695b4
+1) valstybinių universitetų, kai asmuo pereina iš vieno valstybinio universiteto į kitą; ^s-847a0753240cd3a0e882b290
 
 
-2) valstybinių universitetų ir Švietimo ir mokslo ministerijos, kai asmuo pereina iš valstybinio universiteto į nevalstybinę aukštąją mokyklą ar atvirkščiai. ^e0869da46043fc13680bd505
+2) valstybinių universitetų ir Švietimo ir mokslo ministerijos, kai asmuo pereina iš valstybinio universiteto į nevalstybinę aukštąją mokyklą ar atvirkščiai. ^s-85aeebcc69d776255f1f11ce
 
 
-2. Tais atvejais, kai asmuo pereina iš vienos kolegijos į kitą arba iš vienos nevalstybinės aukštosios mokyklos į kitą, aukštųjų mokyklų tarpusavyje suderintas  valstybės biudžeto asignavimų sumas tarp aukštųjų mokyklų perskirsto Švietimo ir mokslo ministerija. ^71e48f53d67c082e29c3864f
+2. Tais atvejais, kai asmuo pereina iš vienos kolegijos į kitą arba iš vienos nevalstybinės aukštosios mokyklos į kitą, aukštųjų mokyklų tarpusavyje suderintas  valstybės biudžeto asignavimų sumas tarp aukštųjų mokyklų perskirsto Švietimo ir mokslo ministerija. ^s-80614964621cb4de6ea0ac59
 
 
 
-### 7 straipsnis. Įmokos į Privalomojo sveikatos draudimo fondą
+### 7 straipsnis. Įmokos į Privalomojo sveikatos draudimo fondą ^s-fd9e086a039b42a31817d6f5
 
 
 Nustatyti, kad 2010 metų valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą dydis yra 33 procentai užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio ir sudaro 744,7 lito už vieną valstybės lėšomis draudžiamą asmenį.
 
 
 
-### 8 straipsnis. Įmokos į valstybės biudžetą, skiriamos pagal įstatymus specialiosioms programoms finansuoti
+### 8 straipsnis. Įmokos į valstybės biudžetą, skiriamos pagal įstatymus specialiosioms programoms finansuoti ^s-5785c84c92998ad58fa01270
 
 
 Patvirtinti 2010 metų įmokas į valstybės biudžetą, skiriamas specialiosioms programoms finansuoti, pagal asignavimų valdytojus – 1 900 851 tūkst. litų (2 priedėlis).
 
 
 
-### 9 straipsnis. Valstybės garantijų ir garantijų institucijų prisiimtų įsipareigojimų su valstybės garantija limitai
+### 9 straipsnis. Valstybės garantijų ir garantijų institucijų prisiimtų įsipareigojimų su valstybės garantija limitai ^s-2a25064a304c1184f7df55ea
 
 
-1. Nustatyti, kad 2010 metais valstybės garantijos gali būti teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio 2, 3 ir [[#^d0335b7bc4bc5f8c0080df5c|5 dalyse]] nurodytiems prisiimtiems įsipareigojimams užtikrinti. ^ab8c3411d8719b53b798bbfc
+1. Nustatyti, kad 2010 metais valstybės garantijos gali būti teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio 2, 3 ir [[#^s-70005ad1552e87261722668b|5 dalyse]] nurodytiems prisiimtiems įsipareigojimams užtikrinti. ^s-4d7cc11082578f5f67ff5d35
 
 
-2. Nustatyti, kad suteiktų garantijų pagal Lietuvos Respublikos finansinio tvarumo įstatymą suma negali viršyti 3 000 000 tūkst. litų. ^b3d6bc7ce55278fd475aaff9
+2. Nustatyti, kad suteiktų garantijų pagal Lietuvos Respublikos finansinio tvarumo įstatymą suma negali viršyti 3 000 000 tūkst. litų. ^s-2c598ade8bc627f81e6c0aa0
 
 
-3. Nustatyti, kad garantijų institucijų prisiimtų įsipareigojimų, kuriems suteikta valstybės garantija, suma negali viršyti 1 597 000 tūkst. litų, iš kurių 100 000 tūkst. litų limitas nustatomas garantijų institucijos (institucijų) išduodamoms garantijoms pagal Lietuvos Respublikos valstybės specialiųjų garantijų dėl eksporto kredito draudimo įstatymą. ^f5774202b9d1332d5dd549ce
+3. Nustatyti, kad garantijų institucijų prisiimtų įsipareigojimų, kuriems suteikta valstybės garantija, suma negali viršyti 1 597 000 tūkst. litų, iš kurių 100 000 tūkst. litų limitas nustatomas garantijų institucijos (institucijų) išduodamoms garantijoms pagal Lietuvos Respublikos valstybės specialiųjų garantijų dėl eksporto kredito draudimo įstatymą. ^s-cb680299e4f900e5faa89bb6
 
 
-4. Nustatyti, kad į garantijų institucijų prisiimtų įsipareigojimų su valstybės garantija limitą neįtraukiama garantijų institucijų įsipareigojimų dalis, kuri yra pergarantuota finansinių institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą tarptautinių reitingų agentūrų Moody’s ir (arba) Standard & Poor’s. ^e07b761c90703d80f2eced6f
+4. Nustatyti, kad į garantijų institucijų prisiimtų įsipareigojimų su valstybės garantija limitą neįtraukiama garantijų institucijų įsipareigojimų dalis, kuri yra pergarantuota finansinių institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą tarptautinių reitingų agentūrų Moody’s ir (arba) Standard & Poor’s. ^s-952deb8659ac6c5d912ab9b8
 
 
-5. Nustatyti, kad valstybės prisiimtų garantinių įsipareigojimų dėl studentams teikiamų paskolų suma negali viršyti 150 000 tūkst. litų. ^d0335b7bc4bc5f8c0080df5c
+5. Nustatyti, kad valstybės prisiimtų garantinių įsipareigojimų dėl studentams teikiamų paskolų suma negali viršyti 150 000 tūkst. litų. ^s-70005ad1552e87261722668b
 
 
 
-### 10 straipsnis. Vyriausybės grynojo skolinimosi limitas
+### 10 straipsnis. Vyriausybės grynojo skolinimosi limitas ^s-baa1f4b7dc43d0a044021474
 
 
 Nustatyti 2010 metų Vyriausybės grynojo skolinimosi limitą – 8 960 000 tūkst. litų.
 
 
 
-### 11 straipsnis. Savivaldybių skolinimosi limitai
+### 11 straipsnis. Savivaldybių skolinimosi limitai ^s-ccee39f8aaa8020c39096de7
 
 
-1. Nustatyti šiuos savivaldybių skolinimosi limitus: ^3ded368e85627b01962effd9
+1. Nustatyti šiuos savivaldybių skolinimosi limitus: ^s-2a2270d04cb878c1135e8784
 
 
-1) savivaldybės skola negali viršyti 40 procentų (Vilniaus miesto savivaldybės – 55 procentų, Kauno miesto savivaldybės – 55 procentų) patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų); ^5952daf2bb48141cb9ba58c8
+1) savivaldybės skola negali viršyti 40 procentų (Vilniaus miesto savivaldybės – 55 procentų, Kauno miesto savivaldybės – 55 procentų) patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų); ^s-6eb717bd46902b44f10787d6
 
 
-2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 20 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų); ^151a2198d7fe1717bc01a8e6
+2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 20 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų); ^s-a0c16003bcf7f03ef060e84a
 
 
-3) grąžintina 2010 kalendoriniais metais savivaldybės paskolų ir palūkanų ir su paskolų ėmimu susijusių įmokų suma negali viršyti 15 procentų patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų); ^0c4227be21278a888c7de9f1
+3) grąžintina 2010 kalendoriniais metais savivaldybės paskolų ir palūkanų ir su paskolų ėmimu susijusių įmokų suma negali viršyti 15 procentų patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų); ^s-08c8cb1852d9028cf5568700
 
 
-4) savivaldybės garantijų limitas negali viršyti 10 procentų patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų). ^51151c2e18c18c1d84517042
+4) savivaldybės garantijų limitas negali viršyti 10 procentų patvirtintų 2010 metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų ir valstybės biudžetui grąžinamų bendrosios dotacijos kompensacijų). ^s-f06290c7215c85bc2f6af9af
 
 
-2. Savivaldybėms, vykdančioms projektus, finansuojamus iš Europos Sąjungos ir kitos tarptautinės finansinės paramos, šiems projektams vykdyti nustatomas papildomas 30 procentų skolos limitas. ^3accb10c614122fbd34525c0
+2. Savivaldybėms, vykdančioms projektus, finansuojamus iš Europos Sąjungos ir kitos tarptautinės finansinės paramos, šiems projektams vykdyti nustatomas papildomas 30 procentų skolos limitas. ^s-c8d571aa675300a6f46b2848
 
 
-3. Savivaldybėms, kurių investicijų projektai įtraukti į Valstybės investicijų 2010–2012 metų programą, Vyriausybės nutarimu gali būti nustatyti didesni skolinimosi limitai, išskyrus tas savivaldybes, kurios nemažina kreditorių įsiskolinimo. ^ef12241a9f8ca670c75c4477
+3. Savivaldybėms, kurių investicijų projektai įtraukti į Valstybės investicijų 2010–2012 metų programą, Vyriausybės nutarimu gali būti nustatyti didesni skolinimosi limitai, išskyrus tas savivaldybes, kurios nemažina kreditorių įsiskolinimo. ^s-d724456b0f33d6a31e84e6cf
 
 
-4. Į skolinimosi limitus neįskaitomos iš valstybės biudžeto suteiktos trumpalaikės paskolos laikinam pajamų trūkumui padengti. ^9a24ed329b428876bff0f294
+4. Į skolinimosi limitus neįskaitomos iš valstybės biudžeto suteiktos trumpalaikės paskolos laikinam pajamų trūkumui padengti. ^s-237256ce60039f07023c6f2b
 
 
 
-### 12 straipsnis. Vyriausybės ir kitų institucijų teisės vykdant biudžetą
+### 12 straipsnis. Vyriausybės ir kitų institucijų teisės vykdant biudžetą ^s-61710f875e2eb3322330ab92
 
 
-1. Suteikti Vyriausybei arba jos įgaliotai institucijai teisę: ^4d49f956fe435555ec1c5360
+1. Suteikti Vyriausybei arba jos įgaliotai institucijai teisę: ^s-57ce549d76cd0f303913323c
 
 
-1) asignavimus, numatytus valstybės biudžete tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms, atsižvelgiant į tradicinių Lietuvos bažnyčių ir religinių organizacijų kanonus ir statutus, paskirstyti tradicinių Lietuvos bažnyčių ir religinių organizacijų vadovybėms; ^4ebe51d9c7b4ccb7a53f59b1
+1) asignavimus, numatytus valstybės biudžete tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms, atsižvelgiant į tradicinių Lietuvos bažnyčių ir religinių organizacijų kanonus ir statutus, paskirstyti tradicinių Lietuvos bažnyčių ir religinių organizacijų vadovybėms; ^s-54b588dc0a8ec05d66a24866
 
 
-2) Valstybės investicijų 2010–2012 metų programoje numatytas 2010 metų kapitalo investicijas paskirstyti pagal asignavimų valdytojus ir investicijų projektus (investicijų projektų įgyvendinimo programas); ^40c5649a1ba9e35bce0e74e4
+2) Valstybės investicijų 2010–2012 metų programoje numatytas 2010 metų kapitalo investicijas paskirstyti pagal asignavimų valdytojus ir investicijų projektus (investicijų projektų įgyvendinimo programas); ^s-68e1137ad8eb62ab3d7bfcf5
 
 
-3) perskirstyti tarp asignavimų valdytojų, investavimo sričių ir ekonominės klasifikacijos straipsnių programų asignavimų dalį, numatytą priemonėms, remiamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinti; ^e001d8eaff6c326938b4c95c
+3) perskirstyti tarp asignavimų valdytojų, investavimo sričių ir ekonominės klasifikacijos straipsnių programų asignavimų dalį, numatytą priemonėms, remiamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinti; ^s-637c60e8cb56dbda2f1ae160
 
 
-4) paskirstyti Privatizavimo fondo lėšų dalį, Seimo patvirtintą Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti, Privatizavimo komisijos ir valstybės įmonės Valstybės turto fondo funkcijoms atlikti, ekspertams už paslaugas sumokėti ir objektams parengti privatizuoti, pagal programas ir asignavimų valdytojus; ^afb3527ae6c613e4943e3f0b
+4) paskirstyti Privatizavimo fondo lėšų dalį, Seimo patvirtintą Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti, Privatizavimo komisijos ir valstybės įmonės Valstybės turto fondo funkcijoms atlikti, ekspertams už paslaugas sumokėti ir objektams parengti privatizuoti, pagal programas ir asignavimų valdytojus; ^s-27e2c6ea7d4c939a5c6c58bd
 
 
-5) paskirstyti savivaldybėms, valstybės institucijoms ir įstaigoms numatytus asignavimus piliečių nuosavybės teisėms į išlikusius gyvenamuosius namus, jų dalis, butus atkurti ir kompensacijoms už išperkamą nekilnojamąjį turtą religinėms bendrijoms išmokėti; ^27e4423c4439a4984a17fe2f
+5) paskirstyti savivaldybėms, valstybės institucijoms ir įstaigoms numatytus asignavimus piliečių nuosavybės teisėms į išlikusius gyvenamuosius namus, jų dalis, butus atkurti ir kompensacijoms už išperkamą nekilnojamąjį turtą religinėms bendrijoms išmokėti; ^s-71870b3e7b112b6ed75d0145
 
 
-6) perskirstyti specialiąsias tikslines dotacijas, skirtas socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti, socialinei paramai mokiniams teikti ir socialinėms paslaugoms finansuoti, tarp savivaldybių ir tarp specialiųjų tikslinių dotacijų; ^c7dc1494f321eb2544697045
+6) perskirstyti specialiąsias tikslines dotacijas, skirtas socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti, socialinei paramai mokiniams teikti ir socialinėms paslaugoms finansuoti, tarp savivaldybių ir tarp specialiųjų tikslinių dotacijų; ^s-fceef178e9a88c8a909d977c
 
 
-7) perskirstyti tarp savivaldybių specialiąją tikslinę dotaciją mokinio krepšeliui finansuoti; ^0bd7fccb83ef86f3501621a0
+7) perskirstyti tarp savivaldybių specialiąją tikslinę dotaciją mokinio krepšeliui finansuoti; ^s-7e070882b0701c2b8c6479ab
 
 
-8) paskirstyti pagal universitetus studijų krepšeliui valstybės biudžete numatytus asignavimus, skirtus studentų, 2010 metais priimamų studijuoti pagal pirmosios pakopos, vientisųjų, antrosios pakopos ir laipsnio nesuteikiančių studijų programas, studijų ir kitoms išlaidoms; ^34dccf23ec42ac7e0c924da8
+8) paskirstyti pagal universitetus studijų krepšeliui valstybės biudžete numatytus asignavimus, skirtus studentų, 2010 metais priimamų studijuoti pagal pirmosios pakopos, vientisųjų, antrosios pakopos ir laipsnio nesuteikiančių studijų programas, studijų ir kitoms išlaidoms; ^s-e87eb6efba2dcf96f31e9455
 
 
-9) valstybės biudžete išeitinėms išmokoms ir kompensacijoms už nepanaudotas kasmetines atostogas mokėti numatytus asignavimus prireikus paskirstyti pagal valstybės biudžeto asignavimų valdytojus; ^fc28f8be334fe786bf4ce477
+9) valstybės biudžete išeitinėms išmokoms ir kompensacijoms už nepanaudotas kasmetines atostogas mokėti numatytus asignavimus prireikus paskirstyti pagal valstybės biudžeto asignavimų valdytojus; ^s-9b032c62424d98a853d133b7
 
 
-10) valstybės biudžete numatytus asignavimus, susijusius su apskričių viršininkų administracijų funkcijų perskirstymu, prireikus paskirstyti ir (arba) perskirstyti pagal valstybės biudžeto asignavimų valdytojus ir savivaldybes; ^7a5113d2d3af97d11030fa84
+10) valstybės biudžete numatytus asignavimus, susijusius su apskričių viršininkų administracijų funkcijų perskirstymu, prireikus paskirstyti ir (arba) perskirstyti pagal valstybės biudžeto asignavimų valdytojus ir savivaldybes; ^s-df78acbc7d359f72640ef44e
 
 
-11) perskirstyti asignavimus tarp asignavimų valdytojų pagal priimtus teisės aktus dėl biudžetinių įstaigų pertvarkymo, reorganizavimo, likvidavimo arba biudžetinės įstaigos savininko teisių ir pareigų perdavimo; ^224f1d731625ce092b24e805
+11) perskirstyti asignavimus tarp asignavimų valdytojų pagal priimtus teisės aktus dėl biudžetinių įstaigų pertvarkymo, reorganizavimo, likvidavimo arba biudžetinės įstaigos savininko teisių ir pareigų perdavimo; ^s-46a4b75395864fb6a2eb9347
 
 
-12) valstybės biudžete mokslinių tyrimų įstaigoms numatytus asignavimus, atsižvelgiant į šių įstaigų pertvarkymą arba reorganizavimą, perskirstyti tarp valstybės biudžeto asignavimų valdytojų arba skirti valstybiniams mokslinių tyrimų institutams, po pertvarkymo arba reorganizavimo perimantiems asignavimų valdytojo teises ir pareigas. ^3b344e425a48475509a7cf51
+12) valstybės biudžete mokslinių tyrimų įstaigoms numatytus asignavimus, atsižvelgiant į šių įstaigų pertvarkymą arba reorganizavimą, perskirstyti tarp valstybės biudžeto asignavimų valdytojų arba skirti valstybiniams mokslinių tyrimų institutams, po pertvarkymo arba reorganizavimo perimantiems asignavimų valdytojo teises ir pareigas. ^s-17547cb589e78fa4600ae4bd
 
 
-2. Suteikti Finansų ministerijai teisę: ^e123913646706f57705b3eca
+2. Suteikti Finansų ministerijai teisę: ^s-14ef920f6952c21ce6fc2395
 
 
-1) laikantis Vyriausybės grynojo skolinimosi limito, išleisti Vyriausybės vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui finansuoti ir valstybės piniginių išteklių srautams subalansuoti, valstybės investicijoms finansuoti, valstybės skolai dengti, su valstybės skola susijusioms išlaidoms apmokėti, uždarosios akcinės bendrovės „Būsto paskolų draudimas“ įstatiniam kapitalui didinti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, prireikus tiesioginėms išmokoms Lietuvos žemės ūkio veiklos subjektams mokėti, išlaidoms, susijusioms su priemonių, finansuojamų iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinimu, finansuoti, turtinei ir neturtinei žalai, priteistai iš Lietuvos valstybės vykdant arbitražų ar teismų sprendimus, atlyginti; ^0bb53c559fc331a29d57a2d3
+1) laikantis Vyriausybės grynojo skolinimosi limito, išleisti Vyriausybės vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui finansuoti ir valstybės piniginių išteklių srautams subalansuoti, valstybės investicijoms finansuoti, valstybės skolai dengti, su valstybės skola susijusioms išlaidoms apmokėti, uždarosios akcinės bendrovės „Būsto paskolų draudimas“ įstatiniam kapitalui didinti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, prireikus tiesioginėms išmokoms Lietuvos žemės ūkio veiklos subjektams mokėti, išlaidoms, susijusioms su priemonių, finansuojamų iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinimu, finansuoti, turtinei ir neturtinei žalai, priteistai iš Lietuvos valstybės vykdant arbitražų ar teismų sprendimus, atlyginti; ^s-a2fe53678841348c1ea889b0
 
 
-2) leisti specialiųjų programų, Europos Sąjungos finansinės paramos, kitos gautos tarptautinės finansinės paramos laikinai laisvas lėšas grąžintinai naudoti valstybės biudžeto reikmėms, susijusioms su mokėjimais į Europos Sąjungos biudžetą ir Europos Sąjungos finansinės paramos specialiųjų programų finansavimu, ir biudžeto lėšų stygiui dengti, užtikrinant, kad specialiosios programos, programų asignavimų dalis, kurią sudaro Europos Sąjungos finansinė parama ir kita tarptautinė finansinė parama, iš valstybės biudžeto būtų finansuojamos laiku; ^20fc1adb8b58f2b11103ff6f
+2) leisti specialiųjų programų, Europos Sąjungos finansinės paramos, kitos gautos tarptautinės finansinės paramos laikinai laisvas lėšas grąžintinai naudoti valstybės biudžeto reikmėms, susijusioms su mokėjimais į Europos Sąjungos biudžetą ir Europos Sąjungos finansinės paramos specialiųjų programų finansavimu, ir biudžeto lėšų stygiui dengti, užtikrinant, kad specialiosios programos, programų asignavimų dalis, kurią sudaro Europos Sąjungos finansinė parama ir kita tarptautinė finansinė parama, iš valstybės biudžeto būtų finansuojamos laiku; ^s-9a94e4bbe62b7eadb77a701a
 
 
-3) paimti į valstybės biudžetą iš savivaldybių biudžetų priklausančias pervesti, bet nepervestas valstybės biudžetui bendrosios dotacijos kompensacijas; ^5567a0b04f847d96e04d6c40
+3) paimti į valstybės biudžetą iš savivaldybių biudžetų priklausančias pervesti, bet nepervestas valstybės biudžetui bendrosios dotacijos kompensacijas; ^s-46bfabc4d2b445bbe56e2f18
 
 
-4) nenumatytoms įmokoms į Europos Sąjungos biudžetą panaudoti valstybės biudžeto apyvartos ir skolintas lėšas; ^3fe546c3179fc83d28576805
+4) nenumatytoms įmokoms į Europos Sąjungos biudžetą panaudoti valstybės biudžeto apyvartos ir skolintas lėšas; ^s-92ead21d1ff496080ddb74ce
 
 
-5) apyvartos lėšas papildyti 2009 metais nepanaudotais valstybės biudžeto asignavimais, 2010 metų valstybės biudžeto viršplaninėmis pajamomis ir jas panaudoti (išskyrus Europos Sąjungos finansinės paramos ir kitos tarptautinės finansinės paramos viršplanines įmokas, specialiųjų programų lėšų likučius) valstybės biudžeto deficitui mažinti ir savivaldybių biudžetų negautoms pajamoms kompensuoti; ^9c311193052805b5548e357d
+5) apyvartos lėšas papildyti 2009 metais nepanaudotais valstybės biudžeto asignavimais, 2010 metų valstybės biudžeto viršplaninėmis pajamomis ir jas panaudoti (išskyrus Europos Sąjungos finansinės paramos ir kitos tarptautinės finansinės paramos viršplanines įmokas, specialiųjų programų lėšų likučius) valstybės biudžeto deficitui mažinti ir savivaldybių biudžetų negautoms pajamoms kompensuoti; ^s-22f4fe9ecda7a83a2eed8b78
 
 
-6) nustatyta tvarka kompensuoti Lietuvos Respublikos atstovų kelionių į Europos Sąjungos Tarybos darbo organų susitikimus išlaidas iš šiam tikslui Finansų ministerijai numatytų asignavimų; ^63134808211652d1e4f2ea82
+6) nustatyta tvarka kompensuoti Lietuvos Respublikos atstovų kelionių į Europos Sąjungos Tarybos darbo organų susitikimus išlaidas iš šiam tikslui Finansų ministerijai numatytų asignavimų; ^s-1f4b5201dfa4fa501f724f8b
 
 
-7) paskirstyti 2009 metais nepanaudotus Specialiajai lėšų Europos Sąjungos programoms įgyvendinti programai skirtus asignavimus pagal valstybės biudžeto asignavimų valdytojus ir (arba) savivaldybes ir leisti juos naudoti Europos Sąjungos projektams finansuoti. ^8303646149da0d4e9f2c55f5
+7) paskirstyti 2009 metais nepanaudotus Specialiajai lėšų Europos Sąjungos programoms įgyvendinti programai skirtus asignavimus pagal valstybės biudžeto asignavimų valdytojus ir (arba) savivaldybes ir leisti juos naudoti Europos Sąjungos projektams finansuoti. ^s-84b139be35f3bee7ebc5f89c
 
 
-3. Suteikti Švietimo ir mokslo ministerijai teisę iš ministerijai patvirtintų asignavimų teikti dotacijas užsienio subjektams užsienyje gyvenančių lietuvių, jų bendruomenių ir organizacijų švietimo, kultūros ir kitai veiklai finansuoti. ^6121419793080d1f01fff453
+3. Suteikti Švietimo ir mokslo ministerijai teisę iš ministerijai patvirtintų asignavimų teikti dotacijas užsienio subjektams užsienyje gyvenančių lietuvių, jų bendruomenių ir organizacijų švietimo, kultūros ir kitai veiklai finansuoti. ^s-ac4700893dce3edf382c5802
 
 
 
-### 13 straipsnis. Biudžetinių įstaigų skolų padengimas
+### 13 straipsnis. Biudžetinių įstaigų skolų padengimas ^s-a3d7c09a065ae63b9347e0ba
 
 
-1. Pavesti valstybės biudžeto asignavimų valdytojams, biudžetinių įstaigų vadovams ir savivaldybėms išanalizuoti įsiskolinimo priežastis, imtis priemonių įsiskolinimui sumažinti ir sudarant bei tvirtinant 2010 metų išlaidų sąmatas numatyti reikiamų asignavimų dalį 2010 m. sausio 1 d. esančiam įsiskolinimui už suteiktas paslaugas, atliktus darbus ir įsigytas prekes padengti. ^5809fcd6807c99d47ebb1a9d
+1. Pavesti valstybės biudžeto asignavimų valdytojams, biudžetinių įstaigų vadovams ir savivaldybėms išanalizuoti įsiskolinimo priežastis, imtis priemonių įsiskolinimui sumažinti ir sudarant bei tvirtinant 2010 metų išlaidų sąmatas numatyti reikiamų asignavimų dalį 2010 m. sausio 1 d. esančiam įsiskolinimui už suteiktas paslaugas, atliktus darbus ir įsigytas prekes padengti. ^s-9fbea4d898c334ce4b761448
 
 
-2. Iš sutaupytų asignavimų išlaidoms pirmiausia turi būti dengiamas įsiskolinimas. ^aa3ea23b0f7de8822856154f
+2. Iš sutaupytų asignavimų išlaidoms pirmiausia turi būti dengiamas įsiskolinimas. ^s-7069bb062f215323bf91e406
 
 
-3. Pasiūlyti savivaldybių taryboms, kad savivaldybių biudžetų gautos viršplaninės pajamos, palyginti su prognozuojamomis pajamomis, pirmiausia būtų naudojamos įsiskolinimui už suteiktas paslaugas ir atliktus darbus padengti. ^f90aef143cc78ae1e9d8eb65
+3. Pasiūlyti savivaldybių taryboms, kad savivaldybių biudžetų gautos viršplaninės pajamos, palyginti su prognozuojamomis pajamomis, pirmiausia būtų naudojamos įsiskolinimui už suteiktas paslaugas ir atliktus darbus padengti. ^s-f3d076b2cb0cb0cf5ef6cc2e
 
 
 
-### 14 straipsnis. Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatų patvirtinimas
+### 14 straipsnis. Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatų patvirtinimas ^s-247998ce4ce98a63ac66e118
 
 
 Patvirtinti 2010 metų Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatas (7 priedėlis).
 
 
 
-### 15 straipsnis. Valstybės investicijų 2010–2012 metų programos patvirtinimas
+### 15 straipsnis. Valstybės investicijų 2010–2012 metų programos patvirtinimas ^s-1806b83d77a428432bbd1dea
 
 
 Patvirtinti Valstybės investicijų 2010–2012 metų programą (8 priedėlis).
 
 
 
-### 16 straipsnis. 2010 metų Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšų sąmatos patvirtinimas
+### 16 straipsnis. 2010 metų Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšų sąmatos patvirtinimas ^s-da9771cb11645f0457eac650
 
 
 Patvirtinti 2010 metų Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšų sąmatą (9 priedėlis).
@@ -558,7 +563,7 @@ asignavimai
 
 
 
-## I. RESPUBLIKOS PREZIDENTUI, SEIMUI, VYRIAUSYBEI ATSKAITINGOS INSTITUCIJOS
+## I. RESPUBLIKOS PREZIDENTUI, SEIMUI, VYRIAUSYBEI ATSKAITINGOS INSTITUCIJOS ^s-283d63005a8057117be18091
 
 
  Lietuvos Respublikos Prezidento kanceliarija
@@ -694,7 +699,7 @@ asignavimai
  163
 
 
-## II. MINISTERIJOS
+## II. MINISTERIJOS ^s-d1562473f53bee79fe369974
 
 
  Aplinkos ministerija
@@ -816,7 +821,7 @@ asignavimai
  0
 
 
-## III. APSKRITYS
+## III. APSKRITYS ^s-7290de4eeb9df056f6489778
 
 
  Alytaus apskrities viršininko administracija
@@ -889,7 +894,7 @@ asignavimai
  146
 
 
-## IV. VYRIAUSYBĖS ĮSTAIGOS
+## IV. VYRIAUSYBĖS ĮSTAIGOS ^s-6e8adcc55be47f9c6b46e9c2
 
 
  Lietuvos archyvų departamentas prie Lietuvos Respublikos Vyriausybės
@@ -969,7 +974,7 @@ asignavimai
  20
 
 
-## V. ĮSTAIGOS PRIE MINISTERIJŲ
+## V. ĮSTAIGOS PRIE MINISTERIJŲ ^s-c5994ff85250585e85ea4252
 
 
  Aplinkos ministerijos valdymo sritis
@@ -1219,7 +1224,7 @@ asignavimai
  8 989
 
 
-## VI. KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS
+## VI. KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS ^s-f4006e3b5b505e972defcd87
 
 
  Lietuvos Respublikos Konstitucinis Teismas
@@ -1285,7 +1290,7 @@ asignavimai
  0
 
 
-## VII. ŠVIETIMO, KULTŪROS IR MOKSLO ORGANIZACIJOS (INSTITUTAI)
+## VII. ŠVIETIMO, KULTŪROS IR MOKSLO ORGANIZACIJOS (INSTITUTAI) ^s-da57e2198b172df6b8f50d3d
 
 
  Lietuvos technikos biblioteka
@@ -2418,7 +2423,7 @@ Lietuvos Respublikos
 
 
 
-*Aplinkos ministerijos – 150 000 tūkst. Lt (iš Specialiosios klimato kaitos programos) lėšas naudoti pagal Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo nuostatas gyvenamiesiems namams ir visuomeninės paskirties pastatams modernizuoti; aplinkai palankioms technologijoms diegti.
+*Aplinkos ministerijos – 150 000 tūkst. Lt (iš Specialiosios klimato kaitos programos) lėšas naudoti pagal [[latest/TAR.B77E00EAEBEB|Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo]] nuostatas gyvenamiesiems namams ir visuomeninės paskirties pastatams modernizuoti; aplinkai palankioms technologijoms diegti.
 ** Iš šių lėšų skirti bendroms biudžeto reikmėms:
 Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos – 135 000 tūkst. Lt (iš Specialiosios kelių priežiūros ir plėtros programos).
 
@@ -4125,19 +4130,19 @@ Lietuvos Respublikos
  III. Išlaidos
 
 
- 1. Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti ^5966346e92de6d3cbc1588f4
+ 1. Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti ^s-75b31d30583d4d54f3af6d64
  30 000
 
 
- 2. Rezerviniam (stabilizavimo) fondui sudaryti ^f6eaf941986ea0ff79590159
+ 2. Rezerviniam (stabilizavimo) fondui sudaryti ^s-4f8dddd95085a71d2a859cdb
  32 400
 
 
- 3. Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti ^98f635ef0015659ddc994c84
+ 3. Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti ^s-b301ddb5ca698718f4bed007
  38 000*
 
 
- 4. Privatizavimo komisijos ir valstybės įmonės Valstybės turto fondo funkcijoms atlikti, ekspertams už paslaugas sumokėti ir objektams parengti privatizuoti ^0d34ceaba84caa50c89c6431
+ 4. Privatizavimo komisijos ir valstybės įmonės Valstybės turto fondo funkcijoms atlikti, ekspertams už paslaugas sumokėti ir objektams parengti privatizuoti ^s-bde3223f663dec250e9de3de
  12 000
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2B706BFBFCA3"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "azartinių lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-11"
 latest_path: "latest/TAR.2B706BFBFCA3.md"
 latest_sha256: "dd86f54ccd127dafc991128db743b0ea19060fba383c14fb2d17f87a5f13c493"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2B706BFBFCA3]]"
 ---
 # Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2B706BFBFCA3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2B706BFBFCA3
+- Ryšiai: [[Ryšiai/TAR.2B706BFBFCA3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-6009989dc32dee79b14fcba8
 
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.097A936CDF68"
 pavadinimas: "Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimo įstatymas"
+  - "ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-06-13"
 latest_path: "latest/TAR.097A936CDF68.md"
 latest_sha256: "b65b849c6f0c482a064b03dcec11b4b5c9ca25d01b1eb641df0d33039589319f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.097A936CDF68]]"
 ---
 # Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.097A936CDF68.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.097A936CDF68
+- Ryšiai: [[Ryšiai/TAR.097A936CDF68|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimas
+### 1 straipsnis.         Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimas ^s-d7d732f6ecc01cbf94c707e9
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. gegužės 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimą“, ratifikuoja Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimą, pasirašytą 1997 m. balandžio 24 d. Vilniuje.

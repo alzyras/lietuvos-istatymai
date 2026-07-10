@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.320A31FECB7E"
 pavadinimas: "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-07-09"
 latest_path: "latest/TAR.320A31FECB7E.md"
 latest_sha256: "8d475290b0a92253ec52cf7565bf15d008b41dcc3e0864a52e223adee01716ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.320A31FECB7E]]"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.320A31FECB7E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.320A31FECB7E
+- Ryšiai: [[Ryšiai/TAR.320A31FECB7E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 3 dalies pakeitimas ^s-457707dabd010e81711308ca
 
 
 17 straipsnio 3 dalyje vietoj datos „1999 m. liepos 1 d.“ įrašyti datą „2000 m. balandžio 1 d.“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6296A3715324"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 5, 25, 31, 32, 40-1, 51 ir 53 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 5, 25, 31, 32, 40-1, 51 ir 53 straipsnių pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 5, 25, 31, 32, 40-1, 51 ir 53 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-11"
 latest_path: "latest/TAR.6296A3715324.md"
 latest_sha256: "5a1bf00c28316c5f62bdad976c4c2489c364b2bc9b7df9eb7f27309a068329c9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6296A3715324]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 5, 25, 31, 32, 40-1, 51 ir 53 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6296A3715324.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6296A3715324
+- Ryšiai: [[Ryšiai/TAR.6296A3715324|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,39 +38,39 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 4 ir 6 dalių pakeitimas
+### 1 straipsnis. 5 straipsnio 4 ir 6 dalių pakeitimas ^s-348f5887a48e6652cc439e6f
 
 
-1. Pakeisti 5 straipsnio 4 dalį ir ją išdėstyti taip: ^83318b060b07177d5ceae5d0
+1. Pakeisti 5 straipsnio 4 dalį ir ją išdėstyti taip: ^s-1d952d25fe82e91573a95f5e
 
 
 „4. Pelno nesiekiančių vienetų, kurių mokestinio laikotarpio pajamos iš ūkinės komercinės veiklos neviršija 1 milijono litų, apmokestinamojo pelno dalis, atitinkanti 25 tūkstančių litų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o likusi apmokestinamojo pelno dalis – taikant 15 procentų mokesčio tarifą. Pelno nesiekiančių vienetų ūkinės komercinės veiklos pajamoms nepriskiriamos pajamos, kurios tiesiogiai skiriamos tenkinant viešuosius interesus vykdomai veiklai finansuoti.“
 
 
-2. Pakeisti 5 straipsnio 6 dalį ir ją išdėstyti taip: ^af3d5e7e6d1984de41fc6233
+2. Pakeisti 5 straipsnio 6 dalį ir ją išdėstyti taip: ^s-77a93620bce39cd363c36161
 
 
 „6. Vienetų, kurių per mokestinį laikotarpį daugiau kaip 50 procentų pajamų sudaro pajamos iš žemės ūkio veiklos, įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą.“
 
 
 
-### 2 straipsnis. 25 straipsnio 1 ir 3 dalių pakeitimas
+### 2 straipsnis. 25 straipsnio 1 ir 3 dalių pakeitimas ^s-ee959bdc9488f9cd7b059e44
 
 
-1. Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip: ^e7d3f848c8e5b5ad53a21766
+1. Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip: ^s-148e36165f5ea8f7167c2275
 
 
 „1. Iš pajamų, pripažįstamų pagal kaupimo apskaitos principą, atskaitoma mokestiniu laikotarpiu atsiradusi beviltiškų skolų suma, jei ši suma buvo įtraukta į mokesčio mokėtojo pajamas. Iš pajamų, pripažįstamų pagal pinigų apskaitos principą, atskaitoma mokestiniu laikotarpiu atsiradusioms beviltiškoms skoloms tenkanti sąnaudų dalis, jeigu šių skolų atsiradimas buvo užfiksuotas mokesčio mokėtojo apskaitos dokumentuose. Tais atvejais, kai beviltiškomis laikomų skolų atsiradimo momentu mokesčio mokėtojas pajamas pripažino pagal pinigų apskaitos principą ir pagal šio Įstatymo nuostatas perėjo prie pajamų pripažinimo pagal kaupimo apskaitos principą, iš pajamų, pripažįstamų pagal kaupimo apskaitos principą, atskaitoma sąnaudų dalis, tenkanti mokestiniu laikotarpiu atsiradusioms beviltiškoms skoloms, jeigu šių skolų atsiradimas buvo užfiksuotas mokesčio mokėtojo apskaitos dokumentuose ir sąnaudų dalis, tenkanti beviltiškoms skoloms, nebuvo įtraukta į vieneto sąnaudas iki šio Įstatymo įsigaliojimo. Skolos yra laikomos beviltiškomis, jeigu mokesčio mokėtojas negali jų susigrąžinti praėjus ne mažiau kaip vieneriems metams nuo skolų sumos įtraukimo į mokesčio mokėtojo pajamas arba nuo skolų atsiradimo užfiksavimo mokesčio mokėtojo apskaitos dokumentuose arba jeigu skolininkas yra miręs ar paskelbtas mirusiu arba likviduotas, arba bankrutavęs. Visais šiais atvejais mokesčio mokėtojas turi įrodyti skolos beviltiškumą ir pastangas šioms skoloms susigrąžinti.“
 
 
-2. Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip: ^07984f4c87e25bb36142261e
+2. Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f93a97c08a47b9779bd72cd4
 
 
 „3. Jeigu atskaitytas beviltiškas skolas skolininkas arba už jį kitas asmuo vėliau grąžina, visa grąžintų skolų suma priskiriama pajamoms.“
 
 
 
-### 3 straipsnis. 31 straipsnio 1 dalies 12 punkto pakeitimas
+### 3 straipsnis. 31 straipsnio 1 dalies 12 punkto pakeitimas ^s-2b474b20cb113b2b3ca0f814
 
 
 Pakeisti 31 straipsnio 1 dalies 12 punktą ir jį išdėstyti taip:
@@ -75,7 +80,7 @@ Pakeisti 31 straipsnio 1 dalies 12 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 32 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 32 straipsnio 5 dalies pakeitimas ^s-fe4b2b6cb704bc02cd6e5781
 
 
 Pakeisti 32 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -85,7 +90,7 @@ Pakeisti 32 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 401 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 401 straipsnio 1 dalies pakeitimas ^s-9c6269bfa7d04aecb6a7752e
 
 
 Pakeisti 401 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -95,7 +100,7 @@ Pakeisti 401 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 51 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 51 straipsnio 2 dalies pakeitimas ^s-068e4994dae11325142fc672
 
 
 51 straipsnio 2 dalyje vietoj žodžio „dešimto“ įrašyti žodį „šešto“ ir šią dalį išdėstyti taip:
@@ -105,29 +110,29 @@ Pakeisti 401 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 53 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 53 straipsnio 1 dalies pakeitimas ^s-7bdf25c6223e48421609e89a
 
 
 Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip iki kito mokestinio laikotarpio dešimto mėnesio pirmos dienos. Veiklą baigiančių mokesčio mokėtojų pelno mokestis ir (arba) fiksuotas pelno mokestis pagal paskutinio mokestinio laikotarpio metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.“
+„1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip iki kito mokestinio laikotarpio dešimto mėnesio pirmos dienos. Veiklą baigiančių mokesčio mokėtojų pelno mokestis ir (arba) fiksuotas pelno mokestis pagal paskutinio mokestinio laikotarpio metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 8 straipsnis. Įstatymo taikymas
+### 8 straipsnis. Įstatymo taikymas ^s-1ec70131f91fb74c5d9f67cd
 
 
-1. Šio įstatymo 1, 2, [[#3 straipsnis. 31 straipsnio 1 dalies 12 punkto pakeitimas|3 straipsnių]] nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^1f3388615f3c04aff6d5208b
+1. Šio įstatymo 1, 2, [[#^s-2b474b20cb113b2b3ca0f814|3 straipsnių]] nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-7e8d8951ec6162b3886abcfe
 
 
-2. Šio įstatymo [[#4 straipsnis. 32 straipsnio 5 dalies pakeitimas|4 straipsnio]] nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^8dde5dfda8518eeb3f861fe0
+2. Šio įstatymo [[#^s-fe4b2b6cb704bc02cd6e5781|4 straipsnio]] nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-14c1c4f1441f52eaf6a02644
 
 
-3. Šio įstatymo [[#5 straipsnis. 401 straipsnio 1 dalies pakeitimas|5 straipsnio]] nuostatos taikomos paskirstant 2010 metų ir vėlesnių metų pelną (ar jo dalis). ^16f1abe97191a4833e732e9e
+3. Šio įstatymo [[#^s-9c6269bfa7d04aecb6a7752e|5 straipsnio]] nuostatos taikomos paskirstant 2010 metų ir vėlesnių metų pelną (ar jo dalis). ^s-a2dd413484641fb68eace0dd
 
 
-4. Šio įstatymo [[#6 straipsnis. 51 straipsnio 2 dalies pakeitimas|6 straipsnio]] nuostatos taikomos deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^61154a256f9a9b6c9acd947e
+4. Šio įstatymo [[#^s-068e4994dae11325142fc672|6 straipsnio]] nuostatos taikomos deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-c0b45dac8c5a9bec60148c2e
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.107E8AC92DB1"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 1 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 1 straipsnio papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 1 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-23"
 latest_path: "latest/TAR.107E8AC92DB1.md"
 latest_sha256: "e0ba0236c304362543735387a67d0f2c97cd56443beb28265b4e76473a59d44f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.107E8AC92DB1]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 1 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.107E8AC92DB1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.107E8AC92DB1
+- Ryšiai: [[Ryšiai/TAR.107E8AC92DB1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 4 dalimi ^s-9f2e0b56a68d73e0edf6a9c3
 
 
 Papildyti 1 straipsnį 4 dalimi:

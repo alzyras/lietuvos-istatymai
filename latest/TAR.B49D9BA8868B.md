@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B49D9BA8868B"
 pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos reglamento papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos reglamento papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-03-29"
 latest_path: "latest/TAR.B49D9BA8868B.md"
 latest_sha256: "a12efb5caf521c1110f0eeca1eab73f2a63cc5820a52672122e765a5814f1dd0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B49D9BA8868B]]"
 ---
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos reglamento papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B49D9BA8868B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B49D9BA8868B
+- Ryšiai: [[Ryšiai/TAR.B49D9BA8868B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

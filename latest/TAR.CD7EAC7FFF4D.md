@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CD7EAC7FFF4D"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-04-05"
 latest_path: "latest/TAR.CD7EAC7FFF4D.md"
 latest_sha256: "3062116b6a01faaa514200be3946f54d5ba3379f62a4a632dfa11cbb208a9693"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CD7EAC7FFF4D]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CD7EAC7FFF4D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CD7EAC7FFF4D
+- Ryšiai: [[Ryšiai/TAR.CD7EAC7FFF4D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio papildymas 13 dalimi
+### 1 straipsnis. 10 straipsnio papildymas 13 dalimi ^s-d1b7518fe250e4fd27da8eb0
 
 
 10 straipsnį papildyti 13 dalimi:

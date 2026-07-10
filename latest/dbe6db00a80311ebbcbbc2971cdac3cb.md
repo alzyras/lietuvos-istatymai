@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "dbe6db00a80311ebbcbbc2971cdac3cb"
 pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas"
+  - "kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-07-01"
 latest_path: "latest/dbe6db00a80311ebbcbbc2971cdac3cb.md"
 latest_sha256: "f7303e734712ca820a51665c624dd28c226d3882aaba7a3e8ad09103f44b26f7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/dbe6db00a80311ebbcbbc2971cdac3cb]]"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/dbe6db00a80311ebbcbbc2971cdac3cb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/dbe6db00a80311ebbcbbc2971cdac3cb
+- Ryšiai: [[Ryšiai/dbe6db00a80311ebbcbbc2971cdac3cb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 61 straipsnio pakeitimas
+### 1 straipsnis. 61 straipsnio pakeitimas ^s-97330cc081a735d04c98af90
 
 
 Pakeisti 61 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -41,20 +46,20 @@ Pakeisti 61 straipsnio 4 dalį ir ją išdėstyti taip:
 „4. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
 
 
-1) teikiama kooperatinės bendrovės nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus; ^efed4ea0123e7a75c0690a4f
+1) teikiama kooperatinės bendrovės nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus; ^s-079b2881f9a0454d69768b56
 
 
-2) perduodama susijusiems registrams, valstybės informacinėms sistemoms; ^d58afb6b835a2307dc3d96b6
+2) perduodama susijusiems registrams, valstybės informacinėms sistemoms; ^s-ee0eea1f58a9db0852e8ed01
 
 
-3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis; ^3be7792271427e9d5a66dce0
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis; ^s-7f9f22ec87d8e5d678b488dd
 
 
-4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.“ ^af8745fabb869203831da745
+4) teikiama žurnalistams [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymo]] nustatytomis sąlygomis.“ ^s-10f950fc7df9219c33f069bb
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ea33c12c867916b7ae30dc66
 
 
 Šis įstatymas įsigalioja 2021 m. liepos 1 d.

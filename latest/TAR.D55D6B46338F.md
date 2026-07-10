@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D55D6B46338F"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.D55D6B46338F.md"
 latest_sha256: "51317e0f911438eb20afc5f6367e37a2c2d4dba037abef4d0a299fd906881e92"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D55D6B46338F]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D55D6B46338F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D55D6B46338F
+- Ryšiai: [[Ryšiai/TAR.D55D6B46338F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 26 straipsnio 2 dalies pakeitimas ^s-7d86f6da32fc30b4c07694dc
 
 
 26 straipsnio 2 dalyje vietoj žodžio „atsiskaitytinai“ įrašyti žodžius „už kurią atsiskaitoma ne rečiau kaip vieną kartą per tris mėnesius“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-442ac2ab8f6a086836d83c21
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.60F3EFBEE432"
 pavadinimas: "Lietuvos Respublikos invalidų socialinės integracijos įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos invalidų socialinės integracijos įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "invalidų socialinės integracijos įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-16"
 latest_path: "latest/TAR.60F3EFBEE432.md"
 latest_sha256: "034b8feab9084711ddc117daf3dcf7ad4cc40887f0fd903eb4d9858bd967abe9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.60F3EFBEE432]]"
 ---
 # Lietuvos Respublikos invalidų socialinės integracijos įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.60F3EFBEE432.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.60F3EFBEE432
+- Ryšiai: [[Ryšiai/TAR.60F3EFBEE432|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 3 dalies pakeitimas ^s-d8a6d13fcec42d2a0f287e29
 
 
 12 straipsnio 3 dalyje vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DB4A2F9114AD"
 pavadinimas: "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-02-24"
 latest_path: "latest/TAR.DB4A2F9114AD.md"
 latest_sha256: "74a6411d746594ab74d40bbcb2a28e13b01c85d9c5c5b741a6f68f9ad25f9d5d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DB4A2F9114AD]]"
 ---
 # Dėl Lietuvos Respublikos teismų įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DB4A2F9114AD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DB4A2F9114AD
+- Ryšiai: [[Ryšiai/TAR.DB4A2F9114AD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -62,28 +66,28 @@ Apeliacinio teismo teisėju gali būti skiriamas nepriekaištingos reputacijos a
 Apygardos ir Apeliacinio teismo teisėjais be egzaminų gali būti skiriami socialinių mokslų daktarai ir habilituoti daktarai, apgynę teisių mokslo disertacijas.
 
 
-### 24 straipsnis. Aukščiausiojo Teismo teisėjai
+### 24 straipsnis. Aukščiausiojo Teismo teisėjai ^s-7bcfd4a3a0ecf5183f2b2afd
 
 
 Aukščiausiojo Teismo teisėju, jei išlaikė Aukščiausiojo Teismo teisėjo egzaminus, gali būti skiriamas:
 
 
-1) apygardos teismo arba Apeliacinio teismo teisėjas, turintis ne mažesnį kaip dešimties metų teisėjo stažą; ^3405e5d6d89432962064b895
+1) apygardos teismo arba Apeliacinio teismo teisėjas, turintis ne mažesnį kaip dešimties metų teisėjo stažą; ^s-e9b567c204a65e6776fd961d
 
 
-2) Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo, taip pat ir buvusios Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip dešimties metų stažą; ^f351b52483fcc2f0fdeb6a5c
+2) Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo, taip pat ir buvusios Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip dešimties metų stažą; ^s-74df164a184580871c08e561
 
 
-3) socialinių mokslų daktaras, apgynęs teisių mokslo disertaciją. ^1010c5067aaf291059785acb
+3) socialinių mokslų daktaras, apgynęs teisių mokslo disertaciją. ^s-4802fd86b7e225b2f6230eea
 
 
 Aukščiausiojo Teismo teisėju be Aukščiausiojo Teismo teisėjų egzaminų gali būti skiriamas:
 
 
-1) socialinių mokslų habilituotas daktaras, apgynęs teisių mokslo disertaciją; ^bc345d9014999e08107c3114
+1) socialinių mokslų habilituotas daktaras, apgynęs teisių mokslo disertaciją; ^s-605881e8507d4078607983e0
 
 
-2) buvęs Aukščiausiojo Teismo (taip pat ir iki 1994 m. gruodžio 31 d. veikusio Aukščiausiojo Teismo) teisėjas, atleistas iš pareigų savo noru, išrinkus į kitas pareigas arba jo sutikimu perkeltas į kitą darbą.“ ^865294fff1e32540d4f2c9b6
+2) buvęs Aukščiausiojo Teismo (taip pat ir iki 1994 m. gruodžio 31 d. veikusio Aukščiausiojo Teismo) teisėjas, atleistas iš pareigų savo noru, išrinkus į kitas pareigas arba jo sutikimu perkeltas į kitą darbą.“ ^s-3d01fd13d9e9992f440298ee
 
 
 

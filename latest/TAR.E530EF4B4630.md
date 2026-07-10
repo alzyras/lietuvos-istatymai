@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E530EF4B4630"
 pavadinimas: "Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-22"
 latest_path: "latest/TAR.E530EF4B4630.md"
 latest_sha256: "7a576ce5bacc6916f36f84361cb5dee44d7ec2a20c7f18b2e52b6b18815e5a85"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E530EF4B4630]]"
 ---
 # Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E530EF4B4630.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E530EF4B4630
+- Ryšiai: [[Ryšiai/TAR.E530EF4B4630|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-97bf870065024532f9206341
 
 
 Iš 3 straipsnio 2 dalies išbraukti žodžius „per 2 metus“ ir šią dalį išdėstyti taip:

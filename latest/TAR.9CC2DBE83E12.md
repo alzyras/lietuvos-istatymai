@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9CC2DBE83E12"
 pavadinimas: "Lietuvos Respublikos bankų įstatymo 2, 9, 21, 40, 55, 57, 58, 59, 64 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bankų įstatymo 2, 9, 21, 40, 55, 57, 58, 59, 64 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+  - "bankų įstatymo 2, 9, 21, 40, 55, 57, 58, 59, 64 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-30"
 latest_path: "latest/TAR.9CC2DBE83E12.md"
 latest_sha256: "c3148ec8da3229d452f1408da0f950c8aa7f1a4c6cf559714362dec3bb4dbb4e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9CC2DBE83E12]]"
 ---
 # Lietuvos Respublikos bankų įstatymo 2, 9, 21, 40, 55, 57, 58, 59, 64 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9CC2DBE83E12.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9CC2DBE83E12
+- Ryšiai: [[Ryšiai/TAR.9CC2DBE83E12|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-3c0c27c4915432cf7a439ea0
 
 
-1. Papildyti [[#2 straipsnis. 9 straipsnio 9 dalies pakeitimas|2 straipsnį]] nauja 9 dalimi: ^8acf4f0a320db4efada38767
+1. Papildyti [[#^s-37aff4fd7349bc0e5be304b4|2 straipsnį]] nauja 9 dalimi: ^s-bd0ec6c67633875424a70551
 
 
 „9. Dalyvavimas valdant kapitalą – tiesioginis ar netiesioginis valdymas 20 procentų ar daugiau įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalių, taip pat kitokia reali galimybė tiek būnant įmonės dalyviu, tiek turint kitų su kapitalu susijusių teisių daryti įtaką sprendimams dėl įmonės veiklos.“
 
 
-2. Buvusią 2 straipsnio 9 dalį laikyti 10 dalimi. ^314a8c199725ae5f3371681f
+2. Buvusią 2 straipsnio 9 dalį laikyti 10 dalimi. ^s-7c73c35c14130c7a0c4e33d3
 
 
 
-### 2 straipsnis. 9 straipsnio 9 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 9 dalies pakeitimas ^s-37aff4fd7349bc0e5be304b4
 
 
 9 straipsnio 9 dalyje po žodžio „struktūra“ įrašyti žodžius „rizikos valdymo sistema“ ir šią dalį išdėstyti taip:
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 21 straipsnio papildymas
+### 3 straipsnis. 21 straipsnio papildymas ^s-a89b8d216fcc088bfa434a7d
 
 
 Papildyti 21 straipsnį 4 dalimi:
@@ -64,23 +69,23 @@ Papildyti 21 straipsnį 4 dalimi:
 
 
 
-### 4 straipsnis. 40 straipsnio 1 ir 2 dalių pakeitimas
+### 4 straipsnis. 40 straipsnio 1 ir 2 dalių pakeitimas ^s-0547039174439aca5a586950
 
 
-1. 40 straipsnio 1 dalyje vietoj skaičių „3 ir 4“ įrašyti skaičius „3, 4 ir 7“ ir šią dalį išdėstyti taip: ^ab3b3134827b0dadedffecca
+1. 40 straipsnio 1 dalyje vietoj skaičių „3 ir 4“ įrašyti skaičius „3, 4 ir 7“ ir šią dalį išdėstyti taip: ^s-2a942e7c41b60a569a89af48
 
 
 „1. Šio Įstatymo 38 straipsnio 1 dalies 1, 2, 3, 4 ir 7 punktuose nustatytų banko nuosavo kapitalo dalių suma, išreikšta eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį, turi būti ne mažesnė kaip 5 milijonai eurų.“
 
 
-2. 40 straipsnio 2 dalyje vietoj skaičių „3 ir 4“ įrašyti skaičius „3, 4 ir 7“ ir šią dalį išdėstyti taip: ^02aa75d2a863ea40b201a152
+2. 40 straipsnio 2 dalyje vietoj skaičių „3 ir 4“ įrašyti skaičius „3, 4 ir 7“ ir šią dalį išdėstyti taip: ^s-319b91712f2dfa170f7a6b7d
 
 
 „2. Specializuoto banko, kuriam išduota licencija suteikia teisę tik išleisti ir tvarkyti elektroninius pinigus, šio Įstatymo 38 straipsnio 1 dalies 1, 2, 3, 4 ir 7 punktuose nustatytų nuosavo kapitalo dalių suma, išreikšta eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį, turi būti ne mažesnė kaip 1 milijonas eurų.“
 
 
 
-### 5 straipsnis. 55 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 55 straipsnio 2 dalies pakeitimas ^s-6f6e6fcd697df500a10cd21c
 
 
 55 straipsnio 2 dalyje po žodžio „dalyse“ įrašyti žodžius „šio Įstatymo 58 straipsnio 2 dalyje“ ir šią dalį išdėstyti taip:
@@ -90,7 +95,7 @@ Papildyti 21 straipsnį 4 dalimi:
 
 
 
-### 6 straipsnis. 57 straipsnio pakeitimas
+### 6 straipsnis. 57 straipsnio pakeitimas ^s-309eeca8a3db0a21dd5d4abb
 
 
 Pakeisti 57 straipsnį ir jį išdėstyti taip:
@@ -99,14 +104,14 @@ Pakeisti 57 straipsnį ir jį išdėstyti taip:
 „57 straipsnis. Jungtinės (konsoliduotos) priežiūros objektas
 
 
-1. Jungtinė (konsoliduota) priežiūra taikoma finansinei grupei, kurią sudaro globojantis (patronuojantis) bankas ar globojanti (patronuojanti) finansų kontroliuojančioji (holdingo) bendrovė (toliau šiame skirsnyje – globojanti grupės įstaiga) ir finansų įstaigos, kurias kontroliuoja globojanti grupės įstaiga arba kuriose globojanti grupės įstaiga dalyvauja valdant kapitalą. ^d0ba652c2b17362052ac8135
+1. Jungtinė (konsoliduota) priežiūra taikoma finansinei grupei, kurią sudaro globojantis (patronuojantis) bankas ar globojanti (patronuojanti) finansų kontroliuojančioji (holdingo) bendrovė (toliau šiame skirsnyje – globojanti grupės įstaiga) ir finansų įstaigos, kurias kontroliuoja globojanti grupės įstaiga arba kuriose globojanti grupės įstaiga dalyvauja valdant kapitalą. ^s-2bcc751c97b47ab4272f9433
 
 
-2. Priežiūros institucijos teisės aktai gali nustatyti atvejus, kada finansinei grupei priklausančioms finansų įstaigoms jungtinė (konsoliduota) priežiūra netaikoma, taip pat nustatyti atvejus, kada į finansinės grupės jungtinę (konsoliduotą) priežiūrą įtraukiamos ir finansinei grupei nepriklausančios įmonės.“ ^43525bc525de5a4857a40a27
+2. Priežiūros institucijos teisės aktai gali nustatyti atvejus, kada finansinei grupei priklausančioms finansų įstaigoms jungtinė (konsoliduota) priežiūra netaikoma, taip pat nustatyti atvejus, kada į finansinės grupės jungtinę (konsoliduotą) priežiūrą įtraukiamos ir finansinei grupei nepriklausančios įmonės.“ ^s-2fe55a40ee52a3133ce0514b
 
 
 
-### 7 straipsnis. 58 straipsnio pakeitimas
+### 7 straipsnis. 58 straipsnio pakeitimas ^s-e4a699ee4a97011d27e8f1d8
 
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
@@ -115,14 +120,14 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 „58 straipsnis. Konsoliduotos finansinės atskaitomybės sudarymas priežiūros tikslais
 
 
-1. Bankas, kuris yra globojanti grupės įstaiga, ar finansinei grupei priklausantis bankas (jei globojanti grupės įstaiga yra finansų kontroliuojančioji (holdingo) bendrovė) privalo parengti ir priežiūros institucijai pateikti visos finansinės grupės konsoliduotas finansines ir priežiūrai skirtas ataskaitas. Šios ataskaitos turi būti pateikiamos kas ketvirtį priežiūros institucijos nustatytais terminais. ^4c8030bff697da310a177f2e
+1. Bankas, kuris yra globojanti grupės įstaiga, ar finansinei grupei priklausantis bankas (jei globojanti grupės įstaiga yra finansų kontroliuojančioji (holdingo) bendrovė) privalo parengti ir priežiūros institucijai pateikti visos finansinės grupės konsoliduotas finansines ir priežiūrai skirtas ataskaitas. Šios ataskaitos turi būti pateikiamos kas ketvirtį priežiūros institucijos nustatytais terminais. ^s-022a8600d74541ca3b43891c
 
 
-2. Įmonės, kurioms taikoma jungtinė (konsoliduota) priežiūra, mišrią veiklą vykdančios kontroliuojančiosios (holdingo) bendrovės ir jos kontroliuojamos įmonės, taip pat globojančios grupės įstaigos kontroliuojamos įmonės, kurioms netaikoma jungtinė (konsoliduota) priežiūra, privalo pateikti [[#^4c8030bff697da310a177f2e|šio straipsnio 1 dalyje]] nurodytam bankui ataskaitas, duomenis ir informaciją, būtiną sudarant konsoliduotą finansinę atskaitomybę ir atliekant jungtinę (konsoliduotą) priežiūrą.“ ^d349ccc82dfc3c896aa66b2e
+2. Įmonės, kurioms taikoma jungtinė (konsoliduota) priežiūra, mišrią veiklą vykdančios kontroliuojančiosios (holdingo) bendrovės ir jos kontroliuojamos įmonės, taip pat globojančios grupės įstaigos kontroliuojamos įmonės, kurioms netaikoma jungtinė (konsoliduota) priežiūra, privalo pateikti [[#^s-022a8600d74541ca3b43891c|šio straipsnio 1 dalyje]] nurodytam bankui ataskaitas, duomenis ir informaciją, būtiną sudarant konsoliduotą finansinę atskaitomybę ir atliekant jungtinę (konsoliduotą) priežiūrą.“ ^s-9d5d47fb7b0f013af8875082
 
 
 
-### 8 straipsnis. 59 straipsnio pakeitimas
+### 8 straipsnis. 59 straipsnio pakeitimas ^s-1fcc30ab0e23fe4f8db2b1d5
 
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
@@ -131,32 +136,32 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 „59 straipsnis. Jungtinė (konsoliduota) priežiūra
 
 
-1. Šio Įstatymo 64 straipsnyje nurodyta priežiūros institucija atlieka visos finansinės grupės jungtinę (konsoliduotą) priežiūrą, išskyrus šio straipsnio 2 ir [[#^b5cecc212421c0e322dd1563|3 dalyse]] nustatytus atvejus. ^fc89f43ec0bd2be84219f2cd
+1. Šio Įstatymo 64 straipsnyje nurodyta priežiūros institucija atlieka visos finansinės grupės jungtinę (konsoliduotą) priežiūrą, išskyrus šio straipsnio 2 ir [[#^s-6e65a4a607402abb0d74a854|3 dalyse]] nustatytus atvejus. ^s-376adaad3e5685f5e6f36dbf
 
 
-2. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, į kurią įeina bent vienas kitoje Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, visos finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti institucija nustatoma su kitų Europos Sąjungos valstybių narių priežiūros institucijomis sudarytų susitarimų pagrindu arba vadovaujantis priežiūros institucijos teisės aktuose nustatytais kriterijais. ^3ff09ad23a660cdcb889869b
+2. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, į kurią įeina bent vienas kitoje Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, visos finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti institucija nustatoma su kitų Europos Sąjungos valstybių narių priežiūros institucijomis sudarytų susitarimų pagrindu arba vadovaujantis priežiūros institucijos teisės aktuose nustatytais kriterijais. ^s-31c34cf247018a4415f6a2e6
 
 
-3. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kurioje globojanti grupės įstaiga priklauso valstybės, nesančios Europos Sąjungos valstybe nare, jurisdikcijai, šio Įstatymo 64 straipsnyje nurodyta priežiūros institucija jungtiniu (konsoliduotu) pagrindu prižiūri tik finansinės grupės dalį, kurioje išduotą licenciją turintis bankas yra globojanti grupės įstaiga. ^b5cecc212421c0e322dd1563
+3. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kurioje globojanti grupės įstaiga priklauso valstybės, nesančios Europos Sąjungos valstybe nare, jurisdikcijai, šio Įstatymo 64 straipsnyje nurodyta priežiūros institucija jungtiniu (konsoliduotu) pagrindu prižiūri tik finansinės grupės dalį, kurioje išduotą licenciją turintis bankas yra globojanti grupės įstaiga. ^s-6e65a4a607402abb0d74a854
 
 
-4. Finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti priežiūros institucija jungtinės (konsoliduotos) priežiūros tikslu gali iš asmenų, nurodytų šio Įstatymo 58 straipsnio 2 dalyje, kreipdamasi tiesiogiai ar per prižiūrimą banką, reikalauti priežiūros institucijai reikalingų ataskaitų, duomenų arba informacijos, o šie privalo juos pateikti. Priežiūros institucijos reikalavimu pateikiamos finansinės ataskaitos privalo būti patvirtintos auditoriaus. Tokią pačią teisę gauti informaciją priežiūros institucija turi ir tuo atveju, jei ji pati neatlieka finansinės grupės jungtinės (konsoliduotos) priežiūros, tačiau informacijos prašo finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti kitos Europos Sąjungos valstybės narės priežiūros institucija. Šioje dalyje nustatyta teisė gauti informaciją nereiškia, kad priežiūros institucija atlieka šio Įstatymo 58 straipsnio 2 dalyje nurodytų asmenų, kurie nėra bankai, veiklos priežiūrą. ^0fbae49d531e64810546be43
+4. Finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti priežiūros institucija jungtinės (konsoliduotos) priežiūros tikslu gali iš asmenų, nurodytų šio Įstatymo 58 straipsnio 2 dalyje, kreipdamasi tiesiogiai ar per prižiūrimą banką, reikalauti priežiūros institucijai reikalingų ataskaitų, duomenų arba informacijos, o šie privalo juos pateikti. Priežiūros institucijos reikalavimu pateikiamos finansinės ataskaitos privalo būti patvirtintos auditoriaus. Tokią pačią teisę gauti informaciją priežiūros institucija turi ir tuo atveju, jei ji pati neatlieka finansinės grupės jungtinės (konsoliduotos) priežiūros, tačiau informacijos prašo finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti kitos Europos Sąjungos valstybės narės priežiūros institucija. Šioje dalyje nustatyta teisė gauti informaciją nereiškia, kad priežiūros institucija atlieka šio Įstatymo 58 straipsnio 2 dalyje nurodytų asmenų, kurie nėra bankai, veiklos priežiūrą. ^s-2a076c7b40fb267472506257
 
 
-5. Bankui šio Įstatymo 48 ir 49 straipsniuose nustatyti rizikos apribojimai jungtiniu (konsoliduotu) pagrindu taikomi visai finansinei grupei. ^dd5cf7452b868d84472cad02
+5. Bankui šio Įstatymo 48 ir 49 straipsniuose nustatyti rizikos apribojimai jungtiniu (konsoliduotu) pagrindu taikomi visai finansinei grupei. ^s-cacc59dd4b4ad7ffc6d18eb4
 
 
-6. Finansinėje grupėje, kuriai taikoma jungtinė (konsoliduota) priežiūra, turi būti tokia rizikos valdymo ir vidaus kontrolės sistema, įskaitant patikimas apskaitos tvarkymo ir atskaitomybės rengimo procedūras, kuri užtikrintų priėjimą prie visų tos finansinės grupės narių ataskaitų, duomenų ir informacijos, reikalingų sudarant konsoliduotą finansinę atskaitomybę ir atliekant jungtinę (konsoliduotą) priežiūrą. ^cf6d91a51410ecaf7528dedf
+6. Finansinėje grupėje, kuriai taikoma jungtinė (konsoliduota) priežiūra, turi būti tokia rizikos valdymo ir vidaus kontrolės sistema, įskaitant patikimas apskaitos tvarkymo ir atskaitomybės rengimo procedūras, kuri užtikrintų priėjimą prie visų tos finansinės grupės narių ataskaitų, duomenų ir informacijos, reikalingų sudarant konsoliduotą finansinę atskaitomybę ir atliekant jungtinę (konsoliduotą) priežiūrą. ^s-3511b14c7e3711bf68b76fa0
 
 
-7. Jeigu banką globojanti (patronuojanti) įmonė yra mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė, priežiūros institucija turi teisę atlikti tarp banko ir mišrią veiklą vykdančios kontroliuojančiosios (holdingo) bendrovės bei banko ir kitų šios bendrovės globojamų (patronuojamų) įmonių sudaromų sandorių priežiūrą, įvertindama jų rizikos valdymą ir vidaus kontrolę. ^17038ba96e0a77675a912ee7
+7. Jeigu banką globojanti (patronuojanti) įmonė yra mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė, priežiūros institucija turi teisę atlikti tarp banko ir mišrią veiklą vykdančios kontroliuojančiosios (holdingo) bendrovės bei banko ir kitų šios bendrovės globojamų (patronuojamų) įmonių sudaromų sandorių priežiūrą, įvertindama jų rizikos valdymą ir vidaus kontrolę. ^s-06c7c0fc7e4632621f2aba35
 
 
-8. Priežiūros institucija, atlikdama jungtinę (konsoliduotą) priežiūrą, turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su Lietuvos ir kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma konsoliduota priežiūra, veiklos priežiūrą. Jei priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji, be pagal šį Įstatymą vykdomos jungtinės (konsoliduotos) priežiūros, atlieka ir papildomas užduotis. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir papildomas užduotis reglamentuoja priežiūros institucijos teisės aktai.“ ^5882a92b761f80a13dc8c670
+8. Priežiūros institucija, atlikdama jungtinę (konsoliduotą) priežiūrą, turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su Lietuvos ir kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma konsoliduota priežiūra, veiklos priežiūrą. Jei priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji, be pagal šį Įstatymą vykdomos jungtinės (konsoliduotos) priežiūros, atlieka ir papildomas užduotis. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir papildomas užduotis reglamentuoja priežiūros institucijos teisės aktai.“ ^s-9b06ee436a375dbc073ead3d
 
 
 
-### 9 straipsnis. 64 straipsnio 2 dalies papildymas
+### 9 straipsnis. 64 straipsnio 2 dalies papildymas ^s-888b514e59a4be7d2786694c
 
 
 64 straipsnio 2 dalį papildyti nauju sakiniu ir šią dalį išdėstyti taip:
@@ -166,45 +171,45 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 
-### 10 straipsnis. Įstatymo priedo pakeitimas
+### 10 straipsnis. Įstatymo priedo pakeitimas ^s-07a2789779044e8e71c34fb8
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
 
 
-„Lietuvos Respublikos bankų įstatymo
+„[[latest/TAR.B6B636C7384A|Lietuvos Respublikos bankų įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1983 m. birželio 13 d. Septintoji Tarybos direktyva 83/349/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu, dėl konsoliduotos atskaitomybės (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 58). ^d4389fa70f6788a33d6d2326
+1. 1983 m. birželio 13 d. Septintoji Tarybos direktyva 83/349/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu, dėl konsoliduotos atskaitomybės (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 58). ^s-d411fe039533c5d1ee08e4a6
 
 
-2. 1986 m. gruodžio 8 d. Tarybos Direktyva 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 157). ^c0084fdf12adc86d8afe2a6d
+2. 1986 m. gruodžio 8 d. Tarybos Direktyva 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 157). ^s-beb8af28113610abb61d489b
 
 
-3. 1989 m. vasario 13 d. Tarybos Direktyva 89/117/EEB dėl valstybėje narėje įsteigtų kredito ir finansų įstaigų, kurių pagrindinės buveinės yra kitoje valstybėje narėje, filialų prievolių, susijusių su metinės finansinės atskaitomybės dokumentų skelbimu (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 213). ^6014fd363c6726aa73cc6538
+3. 1989 m. vasario 13 d. Tarybos Direktyva 89/117/EEB dėl valstybėje narėje įsteigtų kredito ir finansų įstaigų, kurių pagrindinės buveinės yra kitoje valstybėje narėje, filialų prievolių, susijusių su metinės finansinės atskaitomybės dokumentų skelbimu (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 213). ^s-f3eea2bde8cd036dbcf5753e
 
 
-4. 1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/19/EB dėl indėlių garantijų sistemų (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 252). ^cc0194556186314e516cde8b
+4. 1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/19/EB dėl indėlių garantijų sistemų (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 252). ^s-9658a3217438169b339272f1
 
 
-5. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/46/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 343). ^bf4a697202a5888bc60d90a0
+5. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/46/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 343). ^s-c52eb9dbc6d3378e6d61e917
 
 
-6. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 15). ^9c274e5b60b7294b54bb7744
+6. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 15). ^s-33648bc639e7905177896a3b
 
 
-7. 2001 m. rugsėjo 27 d. Europos Parlamento ir tarybos Direktyva 2001/65/EB, iš dalies keičianti Direktyvas 78/660/EEB, 83/349/EEB ir 86/635/EEB, dėl vertinimo taisyklių rengiant tam tikrų bendrovių, taip pat bankų ir kitų finansų įstaigų metinę ir konsoliduotą atskaitomybę (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 245). ^fbf0162de9fbbd93086f88db
+7. 2001 m. rugsėjo 27 d. Europos Parlamento ir tarybos Direktyva 2001/65/EB, iš dalies keičianti Direktyvas 78/660/EEB, 83/349/EEB ir 86/635/EEB, dėl vertinimo taisyklių rengiant tam tikrų bendrovių, taip pat bankų ir kitų finansų įstaigų metinę ir konsoliduotą atskaitomybę (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 245). ^s-611354efd9b7babe1b4188b7
 
 
-8. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1). ^67048ff69149190f4e13e45d
+8. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1). ^s-8061a367fdc044cd1dbf61d4
 
 
-9. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo (nauja redakcija) (OL 2006 L 177, p. 201).“ ^9194d98cdcb0da4d862503c9
+9. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo (nauja redakcija) (OL 2006 L 177, p. 201).“ ^s-909a531d7b707376ffe85144
 
 
 

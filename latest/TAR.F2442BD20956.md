@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F2442BD20956"
 pavadinimas: "Lietuvos Respublikos invalidų socialinės integracijos įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos invalidų socialinės integracijos įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "invalidų socialinės integracijos įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-01-01"
 latest_path: "latest/TAR.F2442BD20956.md"
 latest_sha256: "6936ca35595f95a72bcc1004b33f2ed905c004bb1ce359c5305893d44c7d7d07"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F2442BD20956]]"
 ---
 # Lietuvos Respublikos invalidų socialinės integracijos įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F2442BD20956.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F2442BD20956
+- Ryšiai: [[Ryšiai/TAR.F2442BD20956|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 3 dalies pakeitimas ^s-17a63c7a95562ff13e4127f5
 
 
 Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b2a7f805ea573d00a7d691a7
 
 
 Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.

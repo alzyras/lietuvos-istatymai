@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0368872F2F98"
 pavadinimas: "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 5, 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 5, 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "indėlių ir įsipareigojimų investuotojams draudimo įstatymo 5, 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-01"
 latest_path: "latest/TAR.0368872F2F98.md"
 latest_sha256: "4d0ae662bec348100f2f22170f17ba8be439a839da183cb58e2100e012e0b2e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0368872F2F98]]"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 5, 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0368872F2F98.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0368872F2F98
+- Ryšiai: [[Ryšiai/TAR.0368872F2F98|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies papildymas 5 punktu
+### 1 straipsnis. 5 straipsnio 1 dalies papildymas 5 punktu ^s-aecb7ca315c08b0f8e69cdca
 
 
 Papildyti 5 straipsnio 1 dalį 5 punktu:
@@ -43,7 +48,7 @@ Papildyti 5 straipsnio 1 dalį 5 punktu:
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies papildymas 6 punktu
+### 2 straipsnis. 9 straipsnio 3 dalies papildymas 6 punktu ^s-bc63f5ee3f46589cf51128cd
 
 
 Papildyti 9 straipsnio 3 dalį 6 punktu:
@@ -53,7 +58,7 @@ Papildyti 9 straipsnio 3 dalį 6 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-1ab699263ead4066b9be9233
 
 
 Šis įstatymas įsigalioja 2008 m. lapkričio 1 d.

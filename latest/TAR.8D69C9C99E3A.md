@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8D69C9C99E3A"
 pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo \"Dėl Lietuvos Respublikos Seimo rinkimų įstatymo įgyvendinimo\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo \"Dėl Lietuvos Respublikos Seimo rinkimų įstatymo įgyvendinimo\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-01-01"
 latest_path: "latest/TAR.8D69C9C99E3A.md"
 latest_sha256: "5c238971f64b58c1416a83b4c65cfc6783af9356746bf1cf974455e8bbefae9a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8D69C9C99E3A]]"
 ---
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo "Dėl Lietuvos Respublikos Seimo rinkimų įstatymo įgyvendinimo" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8D69C9C99E3A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8D69C9C99E3A
+- Ryšiai: [[Ryšiai/TAR.8D69C9C99E3A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

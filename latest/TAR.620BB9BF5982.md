@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.620BB9BF5982"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-27"
 latest_path: "latest/TAR.620BB9BF5982.md"
 latest_sha256: "7d946fc488a8da4b5d125d3735b97f4542e981ff0c6232739b4f9e3d219f9e45"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.620BB9BF5982]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.620BB9BF5982.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982
+- Ryšiai: [[Ryšiai/TAR.620BB9BF5982|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -64,56 +69,56 @@ skaičių) iš tų teismų teisėjų renka būtent to teismo (teismų) teisėjai
 taryba slaptu balsavimu paprasta visų Teisėjų tarybos narių balsų dauguma
 išrenka Teisėjų tarybos pirmininką, pirmininko pavaduotoją ir sekretorių.“
 
-### 2 straipsnis. 120 straipsnio
+### 2 straipsnis. 120 straipsnio ^s-0965d0f91fdce750d0981c84
 pakeitimas
 Pakeisti
 120 straipsnį ir jį išdėstyti taip:
 „120
 straipsnis. Teisėjų tarybos kompetencija
 Teisėjų taryba:
-1) renka Teisėjų ^f60bb9108ae55853f43a31e9
+1) renka Teisėjų ^s-821d4400f965cc39f558e604
 tarybos pirmininką, pirmininko pavaduotoją ir sekretorių;
-2) tvirtina ^de4153aa6a1d1d3b623b079f
+2) tvirtina ^s-a537008e9974277fcbbaee02
 Teisėjų tarybos reglamentą;
-3) pataria ^d9482cd408e86b4d6cd3c908
+3) pataria ^s-d363499f1d2317b723d5c53f
 Respublikos Prezidentui dėl teisėjų skyrimo, paaukštinimo, perkėlimo ir
 atleidimo iš pareigų;
-4) pataria ^4fc6dd2652ea0dc3cc3bff7e
+4) pataria ^s-f27ec5f82c11e5bc300db6a8
 Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių
 pirmininkų skyrimo ir atleidimo iš pareigų;
-5) pataria ^e6f3777dfec6d87edc9596e1
+5) pataria ^s-5805d63afc26f2dcb817d79a
 Respublikos Prezidentui dėl teisėjų skaičiaus teismuose nustatymo ar pakeitimo;
-6) sudaro ^de1ed2e246b5522acfb269eb
+6) sudaro ^s-5cec16e25f08334a24e8769a
 Pretendentų į teisėjus egzamino komisiją ir skiria jos pirmininką, svarsto šios
 komisijos nuostatus bei egzamino programą ir juos tvirtina;
-7) tvirtina ^dbedec30a55d989a4b210db2
+7) tvirtina ^s-4d4ad4b8a2f8a8c11dadd2ef
 asmenų įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą
 tvarką bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
-8) sudaro ^e37c8c9dc90a8e7a0d2cc245
+8) sudaro ^s-1cec24d95356ae0bb0f7316d
 nuolatines ar laikinąsias komisijas ir tvirtina jų nuostatus;
-9) skiria ^fc8fc613ff71c6c1d89d8385
+9) skiria ^s-b6d8e4d2e7396383fcef24d6
 Teisėjų etikos ir drausmės komisijos narius ir tvirtina jos pirmininką;
-10) skiria ^9dc8c44ba1af22f71560cb9d
+10) skiria ^s-66c99f744604b9eee6e273c1
 Teisėjų garbės teismo narius;
-11) tvirtina ^43fd1100103c9d4b9242c00c
+11) tvirtina ^s-a44986a4b2e85e12884b3f3b
 Teisėjų garbės teismo nuostatus;
-12) tvirtina ^fb4eef1d86ae6dff3b2edc52
+12) tvirtina ^s-5dc7f9882ef621a2f020f1ab
 Administravimo teismuose nuostatus, sprendžia kitus administravimo teismuose
 klausimus;
-13) tvirtina ^caad26035681fa48cca34551
+13) tvirtina ^s-9233f3802b050eb8acfef815
 Pretendentų į teisėjus atrankos nuostatus, Pretendentų į teisėjus vertinimo
 kriterijus, Teisėjų karjeros siekiančių asmenų atrankos nuostatus bei Teisėjų
 karjeros siekiančių asmenų vertinimo kriterijus;
-14) tvirtina ^a459fb3b9b9de7b70e14203d
+14) tvirtina ^s-bfe32e6bfe69b7295e3d1161
 tipines apylinkių teismų, apygardų teismų ir apygardų administracinių teismų
 struktūras, tipinius pareigybių sąrašus ir jų aprašymus;
-15) svarsto ir ^bf97d20340b248e1c716d76f
+15) svarsto ir ^s-46ffbf04dcc41116103f6025
 aprobuoja pasiūlymus dėl teismų investicinių programų projektų ir pasiūlymus
 dėl apylinkių teismų, apygardų teismų, apygardų administracinių teismų biudžetų
 projektų ir pateikia juos Vyriausybei;
-16) kontroliuoja ^0c33b87d193597ab3b67d07a
+16) kontroliuoja ^s-f76455e1081fb7ab197ab279
 Nacionalinės teismų administracijos veiklą, išklauso jos darbo ataskaitas;
-17) šaukia ^6314f994b819d5a0e571fd14
+17) šaukia ^s-cf678c6c59f05651074380a0
 Visuotinius teisėjų susirinkimus;
 18)
 bendradarbiauja su kitomis Lietuvos institucijomis bei organizacijomis teismų
@@ -121,30 +126,30 @@ savivaldos, administravimo ir kitais teismų veiklos klausimais;
 19)
 bendradarbiauja su kitų valstybių bei tarptautinėmis institucijomis teismų
 savivaldos, administravimo ir kitais teismų veiklos klausimais;
-20) sprendžia ^d2d13ef74529edc1d42f0ba9
+20) sprendžia ^s-9f39b12ea70977bcfd45b654
 kitus teismų veiklos bei įstatymų numatytus klausimus.“
 
-### 3 straipsnis. 121 straipsnio
+### 3 straipsnis. 121 straipsnio ^s-f454ce3d0611c37069554785
 pakeitimas
 Pakeisti 121
 straipsnį ir jį išdėstyti taip:
 „121
 straipsnis. Teisėjų tarybos posėdžiai
-1. Teisėjų ^187c45737092e141d763d8ca
+1. Teisėjų ^s-7393736491956867877cf353
 tarybos posėdis yra pagrindinė Teisėjų tarybos veiklos forma. Teisėjų tarybos posėdžiai
 paprastai vyksta Aukščiausiojo Teismo patalpose.
-2. Teisėjų ^a39a515bb41e92db4475b6d4
+2. Teisėjų ^s-86d0d99e00ac2e6542abacfb
 tarybos posėdžiai paprastai šaukiami kas mėnesį. Įsigaliojus Respublikos
 Prezidento dekretui dėl kreipimosi į Teisėjų tarybą, kad ši patartų Respublikos
 Prezidentui dėl teisėjų paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš
 pareigų, Teisėjų tarybos posėdis šaukiamas ne vėliau kaip per keturiolika
 dienų. Prireikus posėdžiai šaukiami Teisėjų tarybos pirmininko arba trečdalio
 Teisėjų tarybos narių iniciatyva.
-3. Medžiaga, ^332166b080dde7a8b4312c6f
+3. Medžiaga, ^s-1545697530b50e2d6166d1ee
 susijusi su Teisėjų tarybos posėdžiuose svarstomais klausimais, pateikiama
 visiems Teisėjų tarybos nariams ne vėliau kaip prieš tris darbo dienas iki
 Teisėjų tarybos posėdžio.
-4. Teisėjų ^83d3b15475fba12250b5fa5f
+4. Teisėjų ^s-29dcee31e7c3c1efb33761d4
 taryba, atlikdama savo funkcijas, priima nutarimus. Teisėjų tarybos nutarimai
 priimami atviru balsavimu. Teisėjų tarybos nutarimas yra priimtas, jeigu jam
 pritarė daugiau kaip pusė visų Teisėjų tarybos narių. Teisėjų tarybos nutarimus
@@ -152,11 +157,11 @@ pasirašo Teisėjų tarybos pirmininkas ir sekretorius. Nusprendusi Teisėjų ta
 nutarimus gali priimti slaptu balsavimu. Visi Teisėjų tarybos priimti nutarimai
 ne vėliau kaip per tris dienas skelbiami Nacionalinės teismų administracijos
 interneto tinklalapyje.
-5. Teisėjų ^99ffc65f8286a4255bc6028f
+5. Teisėjų ^s-610c3712399b543bb03800ae
 taryba nutarimus, kuriais Respublikos Prezidentui patariama dėl teisėjų
 paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš pareigų, priima tik atviru
 balsavimu.
-6. Teisėjų tarybos priimti nutarimai, kuriais ^b41c055cbc96648520ae7714
+6. Teisėjų tarybos priimti nutarimai, kuriais ^s-76cd30d9799a1e1dc1f533df
 Respublikos Prezidentui patariama tam tikrą asmenį skirti teisėju, paaukštinti,
 perkelti, atleisti iš teisėjo pareigų arba patariama to asmens neskirti
 teisėju, nepaaukštinti, neatleisti iš pareigų (o kai skiriamas, paaukštinamas,
@@ -164,18 +169,18 @@ perkeliamas ar atleidžiamas iš pareigų Aukščiausiojo Teismo pirmininkas,
 skyriaus pirmininkas ar šio teismo teisėjas arba Apeliacinio teismo
 pirmininkas, skyriaus pirmininkas ar šio teismo teisėjas – patariama teikti jo
 kandidatūrą Seimui arba jos neteikti), turi būti argumentuoti.
-7. Teisėjų ^bf8fee6b52208bcf3e03ceab
+7. Teisėjų ^s-6a89add7afde7de6ea2ec4ef
 taryba turi teisę gauti iš valstybės ir savivaldybių institucijų (jų pareigūnų)
 visą Tarybos funkcijoms atlikti reikalingą informaciją.
-8. Teisėjų ^e7ea3ce64c1bc4523d5f1d94
+8. Teisėjų ^s-e83ba99ccfe74959c5c67ec9
 tarybos posėdžiai yra vieši.“
 
 4
 straipsnis. Įstatymo įgyvendinimas
-1. Įsigaliojus ^ed1b004d32d14148459cc1a4
+1. Įsigaliojus ^s-e5e7e765fdc8bb98d55e7121
 šiam įstatymui, Teismų tarybos pirmininko ir jos narių, išskyrus narius, kurie
 yra teisėjai, įgaliojimai nutrūksta.
-2. Įsigaliojus ^e32c556267526bb96219fb20
+2. Įsigaliojus ^s-f9343d33c8ee4f434c0d5b63
 šiam įstatymui, Teismų tarybos nariai teisėjai laikinai tampa Teisėjų tarybos
 nariais. Pirmąjį šios tarybos posėdį ne vėliau kaip per septynias dienas
 sušaukia ir jam pirmininkauja vyriausias pagal amžių šios teisėjų tarybos narys
@@ -183,23 +188,23 @@ teisėjas. Šiame posėdyje ne mažesne kaip pusės visų Teisėjų tarybos nari
 dauguma išrenkamas Teisėjų tarybos pirmininkas, jo pavaduotojas ir sekretorius.
 Šios teisėjų tarybos įgaliojimai tęsiasi, kol šio įstatymo nustatyta tvarka bus
 sudaryta nauja Teisėjų taryba.
-3. [[#^e32c556267526bb96219fb20|Šio straipsnio 2 dalyje]] numatyta Teisėjų taryba ne ^f7e267a113be07b8f92c49a8
+3. Šio straipsnio 2 dalyje numatyta Teisėjų taryba ne ^s-f8cdf7d8b4a1a5b8533c0a94
 vėliau kaip per trisdešimt dienų nuo pirmojo savo posėdžio dienos sušaukia
 Visuotinį teisėjų susirinkimą, kuriame šio įstatymo 1 straipsnyje išdėstyto
-Teismų įstatymo 119 straipsnio nustatyta tvarka išrenkami Teisėjų tarybos nariai.
+[[latest/TAR.522B3E415B52#^s-74d8bccbd3038a2a6fe23b31|Teismų įstatymo 119 straipsnio]] nustatyta tvarka išrenkami Teisėjų tarybos nariai.
 Šiame susirinkime Teisėjų tarybos nariai renkami pagal šio įstatymo 1
-straipsnyje išdėstyto Teismų įstatymo 119 straipsnio teismui (teismams)
-nustatytą vietų skaičių. Šio įstatymo 1 straipsnyje išdėstyto Teismų įstatymo
+straipsnyje išdėstyto [[latest/TAR.522B3E415B52#^s-74d8bccbd3038a2a6fe23b31|Teismų įstatymo 119 straipsnio]] teismui (teismams)
+nustatytą vietų skaičių. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.522B3E415B52|Teismų įstatymo]]
 119 straipsnio nustatyta tvarka sudarytą Teisėjų tarybą ne vėliau kaip per
 septynias dienas į pirmąjį posėdį sušaukia ir, kol bus išrinktas Teisėjų
 tarybos pirmininkas, jam pirmininkauja vyriausias pagal amžių Teisėjų tarybos
 narys.
 4.
-Pagal [[#^f7e267a113be07b8f92c49a8|šio straipsnio 3 dalį]] šio įstatymo 1 straipsnyje išdėstyto Teismų
+Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 įstatymo 119 straipsnio nustatyta tvarka sudarytos Teisėjų tarybos
 įgaliojimai tęsiasi iki 2008 m. gegužės 1 d.
 5.
-Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų
+[[latest/TAR.522B3E415B52|Teismų įstatyme]] vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų
 taryba“.
 Straipsnio pakeitimas:
 Nr. X-985, 2006-12-14, Žin., 2006, Nr.

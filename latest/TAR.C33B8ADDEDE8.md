@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C33B8ADDEDE8"
 pavadinimas: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 24 straipsnio pakeitimo įstatymas"
+  - "Klaipėdos valstybinio jūrų uosto įstatymo 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.C33B8ADDEDE8.md"
 latest_sha256: "afbb8ad1ecac135454ecd0bc54e996119e1399826fb0d8a2b87ff7c25cf54e26"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C33B8ADDEDE8]]"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C33B8ADDEDE8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C33B8ADDEDE8
+- Ryšiai: [[Ryšiai/TAR.C33B8ADDEDE8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-d34ce4205425990cf39f728e
 
 
 Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-4529d89ae88176489529738d
 
 
-1. Šis įstatymas, išskyrus [[#^b16bdf312c4fc4403c09e1d9|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^2a7748813424ab331899f2bb
+1. Šis įstatymas, išskyrus [[#^s-38b1f98ad4da217d748b0009|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-4d6493c99f4b56c30630469c
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^b16bdf312c4fc4403c09e1d9
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-38b1f98ad4da217d748b0009
 
 
 

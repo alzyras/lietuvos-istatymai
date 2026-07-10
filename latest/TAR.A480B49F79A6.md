@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A480B49F79A6"
 pavadinimas: "Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-28"
 latest_path: "latest/TAR.A480B49F79A6.md"
 latest_sha256: "9b5b159a16fbf439e42cbef053d6606c2e5d1c859659b19a769a2c68a62fe76b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A480B49F79A6]]"
 ---
 # Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A480B49F79A6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A480B49F79A6
+- Ryšiai: [[Ryšiai/TAR.A480B49F79A6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -298,7 +302,7 @@ tūkst. Lt
 
 
 
-## I. MINISTERIJOS
+## I. MINISTERIJOS ^s-ab39c4a75f6f817b5a529875
 
 
 
@@ -452,7 +456,7 @@ tūkst. Lt
 
 
 
-## II. DEPARTAMENTAI, TARNYBOS
+## II. DEPARTAMENTAI, TARNYBOS ^s-421a12658c7188578c80dfd2
 
 
 
@@ -620,7 +624,7 @@ tūkst. Lt
 
 
 
-## III. ĮMONĖS IR ORGANIZACIJOS
+## III. ĮMONĖS IR ORGANIZACIJOS ^s-0fcbd5f12856c85d54884c13
 
 
 
@@ -809,7 +813,7 @@ tūkst. Lt
 
 
 
-## IV. TEISĖSAUGOS INSTITUCIJOS
+## IV. TEISĖSAUGOS INSTITUCIJOS ^s-1bd53156d1728271082a482f
 
 
 
@@ -844,7 +848,7 @@ tūkst. Lt
 
 
 
-## V. ŠVIETIMO, KULTŪROS IR KITOS
+## V. ŠVIETIMO, KULTŪROS IR KITOS ^s-4a81da3dcc62b0072d6449bc
 
 
 
@@ -1040,7 +1044,7 @@ tūkst. Lt
 
 
 
-## VI. VYRIAUSYBĖS REZERVO
+## VI. VYRIAUSYBĖS REZERVO ^s-4fd54f2a0f3e31b099da7d01
 
 
 
@@ -1061,7 +1065,7 @@ tūkst. Lt
 
 
 
-## VII. BENDRASIS PARAMOS
+## VII. BENDRASIS PARAMOS ^s-cdc9e6bb8ac5de6f1a3d572a
 
 
 
@@ -1103,7 +1107,7 @@ tūkst. Lt
 
 
 
-## VIII. KOMPENSACIJA BUVUSIEMS
+## VIII. KOMPENSACIJA BUVUSIEMS ^s-719ff85610320fb74d49ab7f
 
 
 

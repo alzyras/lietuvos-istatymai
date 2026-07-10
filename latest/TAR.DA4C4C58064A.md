@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA4C4C58064A"
 pavadinimas: "Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo pakeitimo įstatymas"
+  - "potencialiai pavojingų įrenginių priežiūros įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.DA4C4C58064A.md"
 latest_sha256: "22cc2a7cbc586ec7000f5c86dd71ee879c2e020bbe641c929366f4bb4c1375e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA4C4C58064A]]"
 ---
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA4C4C58064A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA4C4C58064A
+- Ryšiai: [[Ryšiai/TAR.DA4C4C58064A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo nauja redakcija ^s-623fb359d3c0ba6396a13a8e
 
 
 Pakeisti Potencialiai pavojingų įrenginių priežiūros įstatymą ir jį išdėstyti taip:
@@ -39,312 +44,312 @@ Pakeisti Potencialiai pavojingų įrenginių priežiūros įstatymą ir jį išd
 
 
 
-### 1 straipsnis. Įstatymo paskirtis ir taikymas
+### 1 straipsnis. Įstatymo paskirtis ir taikymas ^s-8fe353bae1dfe079a02dbfcd
 
 
-1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo [[#3 straipsnis. Įrenginių priežiūra ir įrenginių priežiūros norminių aktų taikymas|3 straipsnyje]], priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą bei žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo įrenginių žalingo poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. ^06adee8a10ef80be65db2b6a
+1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo [[#^s-5f7cafe6535c940928e15625|3 straipsnyje]], priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą bei žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo įrenginių žalingo poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. ^s-024703bd5e6e27f97dace5e5
 
 
-2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra nustatyta Branduolinės energijos, Radiacinės saugos, Radioaktyviųjų atliekų tvarkymo įstatymų, įrenginiams, naudojamiems išimtinai gynybos tikslams, taip pat elektros įrenginiams, išskyrus naudojamus sprogioje aplinkoje. ^dc6e33deac187ebd4528c052
+2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra nustatyta Branduolinės energijos, Radiacinės saugos, Radioaktyviųjų atliekų tvarkymo įstatymų, įrenginiams, naudojamiems išimtinai gynybos tikslams, taip pat elektros įrenginiams, išskyrus naudojamus sprogioje aplinkoje. ^s-78113523a28f1e58a17a4a23
 
 
 
-### 2 straipsnis. Pagrindinės sąvokos
+### 2 straipsnis. Pagrindinės sąvokos ^s-87614f83e00ec7910d7839ce
 
 
-1. Potencialiai pavojingi įrenginiai (toliau – įrenginiai) – darbo priemonės (darbui naudojamos mašinos, įrengimai, įrenginiai, aparatai, prietaisai ar įrankiai) ir kiti įrenginiai, kuriuos naudojant kyla pavojus darbuotojų ir kitų žmonių gyvybei, sveikatai, aplinkai ar turtui dėl juose sukauptos energijos bei vykstančių procesų ir kuriems reikalinga šio įstatymo nustatyta priežiūra. Įrenginiams priskiriami jų valdymo, signaliniai, blokavimo ir saugos įtaisai, kontroliniai matavimo prietaisai. ^a18e195b46cc120a745b8116
+1. Potencialiai pavojingi įrenginiai (toliau – įrenginiai) – darbo priemonės (darbui naudojamos mašinos, įrengimai, įrenginiai, aparatai, prietaisai ar įrankiai) ir kiti įrenginiai, kuriuos naudojant kyla pavojus darbuotojų ir kitų žmonių gyvybei, sveikatai, aplinkai ar turtui dėl juose sukauptos energijos bei vykstančių procesų ir kuriems reikalinga šio įstatymo nustatyta priežiūra. Įrenginiams priskiriami jų valdymo, signaliniai, blokavimo ir saugos įtaisai, kontroliniai matavimo prietaisai. ^s-c6fbb95e5a683e6681b05927
 
 
-2. Įrenginių naudojimas – veikla, susijusi su įrenginių paleidimu ar stabdymu, darbu, gabenimu, remontu, modifikavimu, priežiūra ir aptarnavimu, įskaitant ir valymą. ^f1e4f0e0747e4b3636098082
+2. Įrenginių naudojimas – veikla, susijusi su įrenginių paleidimu ar stabdymu, darbu, gabenimu, remontu, modifikavimu, priežiūra ir aptarnavimu, įskaitant ir valymą. ^s-48b88f0e2b7da52a2a678da2
 
 
-3. Įrenginių priežiūra – atitinkamuose įrenginių naudojimo ir priežiūros teisės norminiuose aktuose bei gamintojo pateiktuose įrenginių techniniuose dokumentuose nustatyta techninių paslaugų, teisinių ir organizacinių priemonių, skirtų užtikrinti, kad naudojami įrenginiai būtų saugūs ir nekeltų pavojaus žmonėms, turtui bei aplinkai, visuma; įrenginių priežiūra yra privaloma ir skirstoma į įrenginių techninės būklės tikrinimą ir nuolatinę įrenginių priežiūrą. ^e8237fe9366a6d7407abadbd
+3. Įrenginių priežiūra – atitinkamuose įrenginių naudojimo ir priežiūros teisės norminiuose aktuose bei gamintojo pateiktuose įrenginių techniniuose dokumentuose nustatyta techninių paslaugų, teisinių ir organizacinių priemonių, skirtų užtikrinti, kad naudojami įrenginiai būtų saugūs ir nekeltų pavojaus žmonėms, turtui bei aplinkai, visuma; įrenginių priežiūra yra privaloma ir skirstoma į įrenginių techninės būklės tikrinimą ir nuolatinę įrenginių priežiūrą. ^s-0ce9465859ce910280027623
 
 
-4. Įrenginių techninės būklės tikrinimas – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nustatyta tvarka ir terminais įgaliotos įrenginių techninės būklės tikrinimo įstaigos atliekami naudojamo įrenginio privalomoji apžiūra, privalomasis įrenginio parametrų, rodančių, kad jis atitinka saugos reikalavimus, patikrinimas, įrenginio bandymai ir kiti įrenginio saugos atitikties įvertinimo veiksmai. ^23fa4894f4e51e75214b4297
+4. Įrenginių techninės būklės tikrinimas – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nustatyta tvarka ir terminais įgaliotos įrenginių techninės būklės tikrinimo įstaigos atliekami naudojamo įrenginio privalomoji apžiūra, privalomasis įrenginio parametrų, rodančių, kad jis atitinka saugos reikalavimus, patikrinimas, įrenginio bandymai ir kiti įrenginio saugos atitikties įvertinimo veiksmai. ^s-a09cae69a808d2aa0624a1f5
 
 
-5. Nuolatinė įrenginių priežiūra – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nurodyti įrenginių savininkams privalomi nuolatiniai naudojamų įrenginių techninės būklės tikrinimai, apžiūros, remontas bei kiti veiksmai. ^45f3628e0fb35133d4eb4624
+5. Nuolatinė įrenginių priežiūra – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nurodyti įrenginių savininkams privalomi nuolatiniai naudojamų įrenginių techninės būklės tikrinimai, apžiūros, remontas bei kiti veiksmai. ^s-6918c06dea07ca7ca9124d46
 
 
-6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – pagal Viešųjų įstaigų įstatymą veikianti viešoji įstaiga, kuriai valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę ir į kurios kolegialų valdymo organą (tarybą ar (ir) valdybą) įeina viešosios įstaigos dalininkai (savininkas), valstybės institucijos, suteikusios įgaliojimus tikrinti įrenginių techninę būklę, bei įrenginių savininkų atstovas (atstovai). ^10289984bb2fd3b8605b6f1e
+6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – pagal Viešųjų įstaigų įstatymą veikianti viešoji įstaiga, kuriai valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę ir į kurios kolegialų valdymo organą (tarybą ar (ir) valdybą) įeina viešosios įstaigos dalininkai (savininkas), valstybės institucijos, suteikusios įgaliojimus tikrinti įrenginių techninę būklę, bei įrenginių savininkų atstovas (atstovai). ^s-5fde9a2411c0abf15db5c70f
 
 
-7. Įrenginio savininkas – juridinis ar fizinis asmuo arba įmonė, neturinti juridinio asmens teisių, kuriai įrenginys priklauso nuosavybės teise, arba įrenginio valdytojas, kuris valdo, naudoja įrenginį bei juo disponuoja turto patikėjimo teise. ^e049970fa073cfe2aabf07c5
+7. Įrenginio savininkas – juridinis ar fizinis asmuo arba įmonė, neturinti juridinio asmens teisių, kuriai įrenginys priklauso nuosavybės teise, arba įrenginio valdytojas, kuris valdo, naudoja įrenginį bei juo disponuoja turto patikėjimo teise. ^s-bafba2811a2c4c6f8daa960b
 
 
-8. Įrenginių naudojimo ir priežiūros teisės norminiai aktai (toliau – įrenginių priežiūros norminiai aktai) – nustatyta tvarka priimti, patvirtinti ir paskelbti teisės aktai (įstatymai, Seimo, Vyriausybės nutarimai, ministro (ministrų) įsakymais patvirtintos įrenginių priežiūros taisyklės, techniniai reglamentai, socialinės apsaugos ir darbo ministro įsakymu patvirtinti darbo įrenginių naudojimo bendrieji nuostatai, vyriausiojo valstybinio darbo inspektoriaus patvirtintos darbų saugos taisyklės ir tipinės instrukcijos), nustatantys įrenginių priežiūros tvarką. ^931185ac5448f2b97b5bf055
+8. Įrenginių naudojimo ir priežiūros teisės norminiai aktai (toliau – įrenginių priežiūros norminiai aktai) – nustatyta tvarka priimti, patvirtinti ir paskelbti teisės aktai (įstatymai, Seimo, Vyriausybės nutarimai, ministro (ministrų) įsakymais patvirtintos įrenginių priežiūros taisyklės, techniniai reglamentai, socialinės apsaugos ir darbo ministro įsakymu patvirtinti darbo įrenginių naudojimo bendrieji nuostatai, vyriausiojo valstybinio darbo inspektoriaus patvirtintos darbų saugos taisyklės ir tipinės instrukcijos), nustatantys įrenginių priežiūros tvarką. ^s-5aadda404abb95d32937935c
 
 
-9. Įrenginio techniniai dokumentai (toliau – techniniai dokumentai) – įrenginio atitikties deklaracija, įrenginio sertifikatas, įrenginio pasas, brėžiniai, įrenginio priežiūros dokumentai (įrenginio montavimo ir bandymo prieš pradedant jį naudoti, aptarnavimo, remonto, demontavimo taisyklės, instrukcijos) ir kiti kartu su įrenginiu gamintojo pateikiami dokumentai, kuriuose nurodoma įrenginio paskirtis, konstrukcija, parametrai, privalomieji saugos reikalavimai bei naudojimo tvarka. ^54f374da4ebba71286b8f707
+9. Įrenginio techniniai dokumentai (toliau – techniniai dokumentai) – įrenginio atitikties deklaracija, įrenginio sertifikatas, įrenginio pasas, brėžiniai, įrenginio priežiūros dokumentai (įrenginio montavimo ir bandymo prieš pradedant jį naudoti, aptarnavimo, remonto, demontavimo taisyklės, instrukcijos) ir kiti kartu su įrenginiu gamintojo pateikiami dokumentai, kuriuose nurodoma įrenginio paskirtis, konstrukcija, parametrai, privalomieji saugos reikalavimai bei naudojimo tvarka. ^s-be9ea6c47fc33c679ea04966
 
 
 
-### 3 straipsnis. Įrenginių priežiūra ir įrenginių priežiūros norminių aktų taikymas
+### 3 straipsnis. Įrenginių priežiūra ir įrenginių priežiūros norminių aktų taikymas ^s-5f7cafe6535c940928e15625
 
 
-1. Turi būti tikrinama šių grupių įrenginių techninė būklė: ^7bbafd8df32ddcb3a9405b53
+1. Turi būti tikrinama šių grupių įrenginių techninė būklė: ^s-fea0ff4dbca965af122fa6a8
 
 
-1) garo ir vandens šildymo katilų ir jų įrangos; ^4dcd51756d51c751f6ff68f4
+1) garo ir vandens šildymo katilų ir jų įrangos; ^s-6237569b29acdd265c9fde71
 
 
-2) slėginių indų ir jų įrangos; ^96356d70280c1915fb0c0c77
+2) slėginių indų ir jų įrangos; ^s-8e6a59a49d1e88762bc15473
 
 
-3) pavojingų medžiagų slėginių vamzdynų, slėginių garotiekių ir karšto vandens vamzdynų bei jų įrangos; ^55f6eb1bbc1f87dee69f3969
+3) pavojingų medžiagų slėginių vamzdynų, slėginių garotiekių ir karšto vandens vamzdynų bei jų įrangos; ^s-04d5d4f66377b41fc659eb0e
 
 
-4) pavojingų medžiagų talpyklų ir jų įrangos; ^bb1a378b384c43e489cfd697
+4) pavojingų medžiagų talpyklų ir jų įrangos; ^s-37345874be03912ed2cf31a2
 
 
-5) liftų ir jų įrangos; ^ff4c58e5d35c8fa4bade2139
+5) liftų ir jų įrangos; ^s-5d26f40395b4b48a72e580aa
 
 
-6) lynų kelių, funikulierių ir jų įrangos; ^74e9eb1d4af62485881beb7c
+6) lynų kelių, funikulierių ir jų įrangos; ^s-927b47d9972754c096dac17b
 
 
-7) eskalatorių ir jų įrangos; ^57cfcfc7fc4133710540df66
+7) eskalatorių ir jų įrangos; ^s-f2a7094d63ddfcfdc8c8cd93
 
 
-8) kėlimo kranų ir jų įrangos; ^803b942d36aa50e4e90a25ad
+8) kėlimo kranų ir jų įrangos; ^s-b1722b612eff519a7013c25c
 
 
-9) techninių medicinos įrenginių ir jų įrangos; ^331cfa4555719d2b41b69c84
+9) techninių medicinos įrenginių ir jų įrangos; ^s-4f8161c63c79e8805b811f2c
 
 
-10) sprogioje aplinkoje naudojamų elektros įrenginių; ^efb4032ddb7ac7f90bc60729
+10) sprogioje aplinkoje naudojamų elektros įrenginių; ^s-9b693fd82f283239e5455c9b
 
 
-11) pramoginių įrenginių ir jų įrangos. ^2505b29066562f019a37e670
+11) pramoginių įrenginių ir jų įrangos. ^s-97321d4564e7c92b80068d23
 
 
-2. Įrenginių gamintojai, jų įgalioti atstovai ir kiti juridiniai bei fiziniai asmenys ir įmonės, neturinčios juridinio asmens teisių, tiekiantys įrenginius į rinką, privalo vadovautis įrenginių priežiūros norminiais aktais ir užtikrinti, kad į rinką pateikti įrenginiai turėtų jų saugos atitiktį patvirtinančius dokumentus ir kad naudojamas įrenginys atitiktų konkretaus priežiūros norminio akto reikalavimus. Įrenginių gamintojai bei montuotojai privalo užtikrinti, kad įrenginiai būtų pagaminti, sumontuoti ir išbandyti pagal įrenginių priežiūros norminių aktų reikalavimus. Įrenginių projektavimo ir gamybos stadijose privalomąją priežiūrą priežiūros norminių aktų, kitų teisės aktų nustatyta tvarka atlieka paskelbtos (notifikuotos) įstaigos. ^6026586ef8c90cb7b9e7dad1
+2. Įrenginių gamintojai, jų įgalioti atstovai ir kiti juridiniai bei fiziniai asmenys ir įmonės, neturinčios juridinio asmens teisių, tiekiantys įrenginius į rinką, privalo vadovautis įrenginių priežiūros norminiais aktais ir užtikrinti, kad į rinką pateikti įrenginiai turėtų jų saugos atitiktį patvirtinančius dokumentus ir kad naudojamas įrenginys atitiktų konkretaus priežiūros norminio akto reikalavimus. Įrenginių gamintojai bei montuotojai privalo užtikrinti, kad įrenginiai būtų pagaminti, sumontuoti ir išbandyti pagal įrenginių priežiūros norminių aktų reikalavimus. Įrenginių projektavimo ir gamybos stadijose privalomąją priežiūrą priežiūros norminių aktų, kitų teisės aktų nustatyta tvarka atlieka paskelbtos (notifikuotos) įstaigos. ^s-578b2a24f81313a0c95650f5
 
 
-3. Visų montuojamų, naudojamų įrenginių, taip pat jiems remontuoti ir rekonstruoti naudojamų mazgų, detalių ir medžiagų priežiūra, nustatyta šių įrenginių priežiūros norminiuose aktuose bei įrenginių techniniuose dokumentuose, yra privaloma. ^c0c625326c6c9a94519251b4
+3. Visų montuojamų, naudojamų įrenginių, taip pat jiems remontuoti ir rekonstruoti naudojamų mazgų, detalių ir medžiagų priežiūra, nustatyta šių įrenginių priežiūros norminiuose aktuose bei įrenginių techniniuose dokumentuose, yra privaloma. ^s-e69e3c4470f0de7c9b98bee5
 
 
-4. Įrenginių savininkai, įgaliotos įstaigos, Valstybinė darbo inspekcija atlikdami savo funkcijas vadovaujasi įrenginių priežiūros norminiais aktais bei įrenginių techniniais dokumentais. ^53a71a6cd0244d2c27964f06
+4. Įrenginių savininkai, įgaliotos įstaigos, Valstybinė darbo inspekcija atlikdami savo funkcijas vadovaujasi įrenginių priežiūros norminiais aktais bei įrenginių techniniais dokumentais. ^s-d2a260c2d9d6c5775cfbd3cb
 
 
 
-### 4 straipsnis. Įrenginių priežiūros valstybinis reguliavimas
+### 4 straipsnis. Įrenginių priežiūros valstybinis reguliavimas ^s-f32679226a6f959b891728cc
 
 
-1. Vyriausybė: ^d60b118f29a58af918141f60
+1. Vyriausybė: ^s-487207eaf4d20a0a8b7afb49
 
 
-1) tvirtina įrenginių, nurodytų šio įstatymo [[#^7bbafd8df32ddcb3a9405b53|3 straipsnio 1 dalyje]], kategorijų sąrašą; ^b3971b0fab87e696cf1f14f1
+1) tvirtina įrenginių, nurodytų šio įstatymo [[#^s-fea0ff4dbca965af122fa6a8|3 straipsnio 1 dalyje]], kategorijų sąrašą; ^s-a2d0ad86606f63e44f5dfabc
 
 
-2) steigia potencialiai pavojingų įrenginių valstybės registrą ir tvirtina jo nuostatus; ^1dd73ab2e07c5fde006facda
+2) steigia potencialiai pavojingų įrenginių valstybės registrą ir tvirtina jo nuostatus; ^s-31ac27eeef11d272f27efa89
 
 
-3) paskiria valstybės institucijas, atsakingas už atskirų kategorijų įrenginių priežiūros organizavimą; ^0ee30136d760a4f9ee37c7e3
+3) paskiria valstybės institucijas, atsakingas už atskirų kategorijų įrenginių priežiūros organizavimą; ^s-8c9c3297cb55745f84e0ee77
 
 
-4) nustato įgaliojimų tikrinti įrenginių techninę būklę suteikimo viešosioms įstaigoms tvarką; ^98f6f983c2872427dcfff499
+4) nustato įgaliojimų tikrinti įrenginių techninę būklę suteikimo viešosioms įstaigoms tvarką; ^s-5ab265fd74f4fe86ac9ee236
 
 
-5) nustato įgaliotų įstaigų kolegialių valdymo organų, nurodytų šio įstatymo [[#^10289984bb2fd3b8605b6f1e|2 straipsnio 6 dalyje]], sudarymo tvarką; ^e92b7f3f6563021d96d12837
+5) nustato įgaliotų įstaigų kolegialių valdymo organų, nurodytų šio įstatymo [[#^s-5fde9a2411c0abf15db5c70f|2 straipsnio 6 dalyje]], sudarymo tvarką; ^s-0650eddf2632a810d0ce7859
 
 
-6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo didžiausias kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu. ^148491d3ccecaa12e24daa8c
+6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo didžiausias kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu. ^s-e565360dbc7217d14f128a9f
 
 
-2. Socialinės apsaugos ir darbo ministras koordinuoja valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, įrenginių priežiūros darbus. ^bbd8c23087c18a28adeaed66
+2. Socialinės apsaugos ir darbo ministras koordinuoja valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, įrenginių priežiūros darbus. ^s-e3b73171f9598ae68e8ebd9e
 
 
 
-### 5 straipsnis. Įrenginių priežiūros organizavimas
+### 5 straipsnis. Įrenginių priežiūros organizavimas ^s-08670c2fd9bd1b1d1523d061
 
 
 Valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūros organizavimą:
 
 
-1) Vyriausybės nustatyta tvarka suteikia viešosioms įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina ir tvirtina bendruosius įrenginių techninės būklės tikrinimo nuostatus; ^92485fc83a097801f0be1093
+1) Vyriausybės nustatyta tvarka suteikia viešosioms įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina ir tvirtina bendruosius įrenginių techninės būklės tikrinimo nuostatus; ^s-a39b3a065b18f924a1474337
 
 
-2) tvirtina įrenginių priežiūros norminius aktus, reglamentuojančius įrenginių, kurių priežiūrą joms pavesta organizuoti, techninės būklės tikrinimo tvarką; ^f8f9e48363ebbdb587e55549
+2) tvirtina įrenginių priežiūros norminius aktus, reglamentuojančius įrenginių, kurių priežiūrą joms pavesta organizuoti, techninės būklės tikrinimo tvarką; ^s-f5388245811f5dbd6e166b4c
 
 
-3) pagal Vyriausybės patvirtintą įrenginių kategorijų sąrašą sudaro ir tvirtina įgaliotų įstaigų prižiūrimų įrenginių sąrašus (nurodydamos jų parametrus) ir potencialiai pavojingų įrenginių valstybės registre registruojamų įrenginių sąrašus; ^4f89d30f026049ce82c3c544
+3) pagal Vyriausybės patvirtintą įrenginių kategorijų sąrašą sudaro ir tvirtina įgaliotų įstaigų prižiūrimų įrenginių sąrašus (nurodydamos jų parametrus) ir potencialiai pavojingų įrenginių valstybės registre registruojamų įrenginių sąrašus; ^s-dec4c95816f6d9b56d5e6f16
 
 
-4) analizuoja ir teikia Vyriausybei tvirtinti įgaliotų įstaigų apskaičiuotas atskirų kategorijų įrenginių techninės būklės tikrinimo didžiausias kainas ir (ar) tarifus; ^e395278090322d8b6b9edc04
+4) analizuoja ir teikia Vyriausybei tvirtinti įgaliotų įstaigų apskaičiuotas atskirų kategorijų įrenginių techninės būklės tikrinimo didžiausias kainas ir (ar) tarifus; ^s-d0f7750a0552b74d7563a03a
 
 
-5) nustato importuojamų įrenginių dokumentų patikrinimo ir šių įrenginių tinkamumo naudoti Lietuvos Respublikoje pripažinimo tvarką. ^e5c07365c41086ce6bfa6ce6
+5) nustato importuojamų įrenginių dokumentų patikrinimo ir šių įrenginių tinkamumo naudoti Lietuvos Respublikoje pripažinimo tvarką. ^s-e0bcc5512c446e212dff8db9
 
 
 
-### 6 straipsnis. Valstybinės darbo inspekcijos funkcijos įrenginių priežiūros srityje
+### 6 straipsnis. Valstybinės darbo inspekcijos funkcijos įrenginių priežiūros srityje ^s-b4bc6e46785064b6de5ce109
 
 
 Valstybinė darbo inspekcija:
 
 
-1) vadovaudamasi Valstybinės darbo inspekcijos įstatymu, kontroliuoja, kaip laikomasi įrenginių techninės būklės tikrinimo tvarkos ir terminų ir kaip atliekama nuolatinė įrenginių priežiūra; ^99b2f6706fe389ac9e5749df
+1) vadovaudamasi [[latest/TAR.1FD5C3A4D10A|Valstybinės darbo inspekcijos įstatymu]], kontroliuoja, kaip laikomasi įrenginių techninės būklės tikrinimo tvarkos ir terminų ir kaip atliekama nuolatinė įrenginių priežiūra; ^s-7763a5956a75dd5a085139f1
 
 
-2) atlieka potencialiai pavojingų įrenginių valstybės registro tvarkymo įstaigos funkcijas pagal Vyriausybės patvirtintus nuostatus; ^4ba15f54297969d17a21fd95
+2) atlieka potencialiai pavojingų įrenginių valstybės registro tvarkymo įstaigos funkcijas pagal Vyriausybės patvirtintus nuostatus; ^s-e6be68c8c57d81a8c52c1695
 
 
-3) organizuoja įrenginių priežiūros norminių aktų projektų rengimą. ^de2c20f483a16ae35a44588a
+3) organizuoja įrenginių priežiūros norminių aktų projektų rengimą. ^s-22e6b06e82a248c2ade02fb8
 
 
 
-### 7 straipsnis. Įgaliotų įstaigų uždaviniai
+### 7 straipsnis. Įgaliotų įstaigų uždaviniai ^s-309f40d6b8b6ea02969cbbb1
 
 
 Įgaliotų įstaigų uždaviniai:
 
 
-1) įrenginių priežiūros norminių aktų ir įrenginių techninių dokumentų nustatyta tvarka teikti išvadas įrenginių savininkams dėl įrenginių tinkamumo pradėti juos naudoti; ^1ab97472767ecc3f5d00727c
+1) įrenginių priežiūros norminių aktų ir įrenginių techninių dokumentų nustatyta tvarka teikti išvadas įrenginių savininkams dėl įrenginių tinkamumo pradėti juos naudoti; ^s-fb5413094ed6d7a35ff3431b
 
 
-2) įrenginių priežiūros norminiuose aktuose ir įrenginių techniniuose dokumentuose nustatyta tvarka tikrinti įrenginių techninę būklę jų naudojimo metu. ^f279146fc8b2e075720da016
+2) įrenginių priežiūros norminiuose aktuose ir įrenginių techniniuose dokumentuose nustatyta tvarka tikrinti įrenginių techninę būklę jų naudojimo metu. ^s-d1c74462149475e09c3f0b9b
 
 
 
-### 8 straipsnis. Įgaliotų įstaigų funkcijos ir teisės
+### 8 straipsnis. Įgaliotų įstaigų funkcijos ir teisės ^s-5d12f330eb499f4d7a74c104
 
 
-1. Įgaliotų įstaigų funkcijos: ^e4860d46369b5c865528a222
+1. Įgaliotų įstaigų funkcijos: ^s-2bfa3cc0fd8246b664384f04
 
 
-1) įrenginių priežiūros norminių aktų nustatyta tvarka ir vadovaujantis įrenginių techniniais dokumentais įvertinti įrenginių techninę būklę ir teikti išvadas įrenginių savininkams dėl įrenginių tinkamumo pradėti juos naudoti; ^7fd95a59df53bbb90a533b8b
+1) įrenginių priežiūros norminių aktų nustatyta tvarka ir vadovaujantis įrenginių techniniais dokumentais įvertinti įrenginių techninę būklę ir teikti išvadas įrenginių savininkams dėl įrenginių tinkamumo pradėti juos naudoti; ^s-5f03d9fdac000ec9e96845fa
 
 
-2) sudaryti sutartis su įrenginių savininkais dėl įrenginių techninės būklės tikrinimo; ^6848d2a345fc2e3f294c74a9
+2) sudaryti sutartis su įrenginių savininkais dėl įrenginių techninės būklės tikrinimo; ^s-4637d997b6bf3c848ec6ed19
 
 
-3) įrenginių priežiūros norminių aktų ir įrenginių techninių dokumentų nustatyta tvarka ir terminais patikrinti įrenginių techninę būklę: po instaliavimo, prieš juos paleidžiant pirmą kartą į darbą, taip pat sumontavus naujoje vietoje ar vietovėje; periodiškai ir specialiai, susidarius išskirtinėms aplinkybėms (po avarijos, gamtos reiškinių poveikio, neįprastų ar ilgalaikių prastovų, modifikavimo); ^a980670f26495eae859fb5af
+3) įrenginių priežiūros norminių aktų ir įrenginių techninių dokumentų nustatyta tvarka ir terminais patikrinti įrenginių techninę būklę: po instaliavimo, prieš juos paleidžiant pirmą kartą į darbą, taip pat sumontavus naujoje vietoje ar vietovėje; periodiškai ir specialiai, susidarius išskirtinėms aplinkybėms (po avarijos, gamtos reiškinių poveikio, neįprastų ar ilgalaikių prastovų, modifikavimo); ^s-d6fc520db0ed2e9c79a1ed55
 
 
-4) prieš pradedant įrenginį naudoti ir patikrinus įrenginio techninę būklę, Vyriausybės tvirtinamų Potencialiai pavojingų įrenginių valstybės registro nuostatų nustatyta tvarka teikti duomenis apie prižiūrimus įrenginius šio registro tvarkymo įstaigai; ^ab88ac7e81c5f9f517f109eb
+4) prieš pradedant įrenginį naudoti ir patikrinus įrenginio techninę būklę, Vyriausybės tvirtinamų Potencialiai pavojingų įrenginių valstybės registro nuostatų nustatyta tvarka teikti duomenis apie prižiūrimus įrenginius šio registro tvarkymo įstaigai; ^s-562aa1170d59776e90d184de
 
 
-5) apskaičiuoti ir nustatyti atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus ir pateikti juos suteikusiai įgaliojimus valstybės institucijai. Įgaliotų įstaigų nustatytos kainos ir (ar) tarifai neturi viršyti Vyriausybės patvirtintų kainų ir (ar) tarifų; ^5b821504c700484efd9be09f
+5) apskaičiuoti ir nustatyti atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus ir pateikti juos suteikusiai įgaliojimus valstybės institucijai. Įgaliotų įstaigų nustatytos kainos ir (ar) tarifai neturi viršyti Vyriausybės patvirtintų kainų ir (ar) tarifų; ^s-f9e690572904aadfc917b8b8
 
 
-6) nustačius, kad gali įvykti įrenginio avarija, atsirasti sutrikimų, kurie kelia pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, apie tai nedelsiant raštu informuoti įrenginio savininką ir Valstybinę darbo inspekciją. ^f0d5b72a955f4a33bae651f1
+6) nustačius, kad gali įvykti įrenginio avarija, atsirasti sutrikimų, kurie kelia pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, apie tai nedelsiant raštu informuoti įrenginio savininką ir Valstybinę darbo inspekciją. ^s-b4e775863dae177b58b49161
 
 
-2. Įgaliotos įstaigos turi teisę: ^6cbfa6632655a910d66300d8
+2. Įgaliotos įstaigos turi teisę: ^s-07ed5a3afa07bcf94d616738
 
 
-1) dalyvauti tiriant naudojamų įrenginių avarijas bei darbo sutrikimus, analizuoti jų priežastis, teikti pasiūlymus dėl šių įrenginių tobulinimo institucijoms, atsakingoms už įrenginių priežiūros organizavimą, siekiant išvengti avarijų bei sutrikimų; ^c86203271e63fd0b439e5922
+1) dalyvauti tiriant naudojamų įrenginių avarijas bei darbo sutrikimus, analizuoti jų priežastis, teikti pasiūlymus dėl šių įrenginių tobulinimo institucijoms, atsakingoms už įrenginių priežiūros organizavimą, siekiant išvengti avarijų bei sutrikimų; ^s-afda64e252ba95189a4e7a43
 
 
-2) atlikdamos įrenginių priežiūros funkcijas bendradarbiauti tarpusavyje bei su atitinkamomis kitų valstybių ir tarptautinėmis įstaigomis; ^54f545a8042b6e1179f868d4
+2) atlikdamos įrenginių priežiūros funkcijas bendradarbiauti tarpusavyje bei su atitinkamomis kitų valstybių ir tarptautinėmis įstaigomis; ^s-4bad12315be769878c4c3238
 
 
-3) teikti konsultacijas bei ekspertų paslaugas ir nustatyti šių paslaugų rinkos kainas. ^c5739c1d6c254c90b300d541
+3) teikti konsultacijas bei ekspertų paslaugas ir nustatyti šių paslaugų rinkos kainas. ^s-b3a2f2b31dfbb962a30ea1df
 
 
-3. Įgaliotų įstaigų darbuotojai gali dalyvauti rengiant darbų su įrenginiais vadovus ir darbuotojus – juos mokyti ir atestuoti. ^225088be8ca342d336875f7c
+3. Įgaliotų įstaigų darbuotojai gali dalyvauti rengiant darbų su įrenginiais vadovus ir darbuotojus – juos mokyti ir atestuoti. ^s-cc1004c1092972e84afa46c2
 
 
 
-### 9 straipsnis. Įgaliotų įstaigų ir jų darbuotojų atsakomybė
+### 9 straipsnis. Įgaliotų įstaigų ir jų darbuotojų atsakomybė ^s-31f900f2f2b31a119b0afee0
 
 
-1. Įgaliotos įstaigos: ^c2b90c6e64db752f4a0d164a
+1. Įgaliotos įstaigos: ^s-ad7aaa78dbe4b1ebdfefb84e
 
 
-1) įstatymų nustatyta tvarka atsako už joms pavestų įrenginių priežiūros funkcijų ir suteiktų įgaliojimų vykdymą; ^bb66da4a1377ab47cdee2307
+1) įstatymų nustatyta tvarka atsako už joms pavestų įrenginių priežiūros funkcijų ir suteiktų įgaliojimų vykdymą; ^s-e6ac3181ea8efac31197bed3
 
 
-2) atsako už savo veiksmus ir sprendimus; dėl jų kaltės padaryta žala juridiniams ir fiziniams asmenims ar įmonėms, neturinčioms juridinio asmens teisių, atlyginama įstatymų nustatyta tvarka; ^32b2e0048f5fbeffa3eefe08
+2) atsako už savo veiksmus ir sprendimus; dėl jų kaltės padaryta žala juridiniams ir fiziniams asmenims ar įmonėms, neturinčioms juridinio asmens teisių, atlyginama įstatymų nustatyta tvarka; ^s-77983867f9ab4a97603d232e
 
 
-3) privalo turėti civilinės atsakomybės draudimo sutartį. ^a00ca09a0ca57dd9f85efbb7
+3) privalo turėti civilinės atsakomybės draudimo sutartį. ^s-8a4875459fad49bc584d42a3
 
 
-2. Įgaliotų įstaigų darbuotojai privalo saugoti valstybės, tarnybos bei įmonių paslaptis ir nepriklausyti nuo įrenginių gamintojų, suteikusių įgaliojimus valstybės institucijų bei įrenginių savininkų. ^c0d336559af38c295a0f0858
+2. Įgaliotų įstaigų darbuotojai privalo saugoti valstybės, tarnybos bei įmonių paslaptis ir nepriklausyti nuo įrenginių gamintojų, suteikusių įgaliojimus valstybės institucijų bei įrenginių savininkų. ^s-36b40e9123f6e324df200877
 
 
 
-### 10 straipsnis. Įrenginių savininkų pareigos ir teisės
+### 10 straipsnis. Įrenginių savininkų pareigos ir teisės ^s-7345e14f400b031f3a571006
 
 
-1. Įrenginių savininkai privalo užtikrinti saugų įrenginių naudojimą, reikiamą techninę būklę ir nuolatinę priežiūrą pagal priežiūros norminių aktų ir įrenginių techninių dokumentų reikalavimus visą įrenginio naudojimo laiką. Savininko įsigyti, sumontuoti, rekonstruoti įrenginiai ir jų kokybę bei atitiktį patvirtinantys, taip pat priežiūros techniniai dokumentai priežiūros norminių aktų nustatyta tvarka privalo būti pateikti įgaliotoms įstaigoms patikrinti, kad būtų gauta išvada, ar įrenginiai tinkami ir parengti saugiai naudoti. ^ce9b2b996a031b33c41529de
+1. Įrenginių savininkai privalo užtikrinti saugų įrenginių naudojimą, reikiamą techninę būklę ir nuolatinę priežiūrą pagal priežiūros norminių aktų ir įrenginių techninių dokumentų reikalavimus visą įrenginio naudojimo laiką. Savininko įsigyti, sumontuoti, rekonstruoti įrenginiai ir jų kokybę bei atitiktį patvirtinantys, taip pat priežiūros techniniai dokumentai priežiūros norminių aktų nustatyta tvarka privalo būti pateikti įgaliotoms įstaigoms patikrinti, kad būtų gauta išvada, ar įrenginiai tinkami ir parengti saugiai naudoti. ^s-462f2168b10f704f8a8bc44a
 
 
-2. Įrenginių savininkai įrenginių priežiūros teisės aktų nustatyta tvarka privalo: ^1f6cb7299304e3271879e879
+2. Įrenginių savininkai įrenginių priežiūros teisės aktų nustatyta tvarka privalo: ^s-b5c124518f8a768f1a08984a
 
 
-1) įrenginius pradėti naudoti tik gavę įgaliotos įstaigos išvadą, kad jie yra tinkami saugiai naudoti; ^37a45794fcd09895113f9430
+1) įrenginius pradėti naudoti tik gavę įgaliotos įstaigos išvadą, kad jie yra tinkami saugiai naudoti; ^s-aef72ecadef61a43b2c23ae2
 
 
-2) gavę įgaliotos įstaigos išvadą, kad įrenginys yra tinkamas saugiai naudoti, užregistruoti jį Valstybinėje darbo inspekcijoje Potencialiai pavojingų įrenginių valstybės registro nuostatuose nustatyta tvarka; ^ae8dac5cdd00fc02d78fba2f
+2) gavę įgaliotos įstaigos išvadą, kad įrenginys yra tinkamas saugiai naudoti, užregistruoti jį Valstybinėje darbo inspekcijoje Potencialiai pavojingų įrenginių valstybės registro nuostatuose nustatyta tvarka; ^s-84a288702ab017938212428e
 
 
-3) vadovaudamiesi įrenginių priežiūros norminiais aktais ir įrenginių techniniais dokumentais, atlikti nuolatinę naudojamų įrenginių priežiūrą; ^edcefbc4bddea3c160d883ce
+3) vadovaudamiesi įrenginių priežiūros norminiais aktais ir įrenginių techniniais dokumentais, atlikti nuolatinę naudojamų įrenginių priežiūrą; ^s-f3c580588a65a358c760ae29
 
 
-4) sudaryti sutartį dėl įrenginio techninės būklės tikrinimo su pačių pasirinkta įgaliota įstaiga; ^4dd282256b4cebc774c70fd5
+4) sudaryti sutartį dėl įrenginio techninės būklės tikrinimo su pačių pasirinkta įgaliota įstaiga; ^s-4c135510058a70e5fd5c81c4
 
 
-5) paruošti įrenginius įgaliotų įstaigų atliekamiems priežiūros veiksmams ir apie tai šioms įstaigoms pranešti, sudaryti jų darbuotojams reikiamas darbo sąlygas ir pateikti įrenginių techninius dokumentus; ^5548349d114bc0c3f6831359
+5) paruošti įrenginius įgaliotų įstaigų atliekamiems priežiūros veiksmams ir apie tai šioms įstaigoms pranešti, sudaryti jų darbuotojams reikiamas darbo sąlygas ir pateikti įrenginių techninius dokumentus; ^s-83b4c3ebb8ccc58e2e7a4da1
 
 
-6) įrenginių nuolatinės priežiūros metu ar kai įgaliota įstaiga įrenginių techninės būklės tikrinimo metu nustato, kad gali įvykti įrenginio avarija, atsirasti sutrikimų, kad įrenginiai kelia pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, sustabdyti (išjungti) įrenginį ar įrenginius; ^27f4898b23467c1211ea210b
+6) įrenginių nuolatinės priežiūros metu ar kai įgaliota įstaiga įrenginių techninės būklės tikrinimo metu nustato, kad gali įvykti įrenginio avarija, atsirasti sutrikimų, kad įrenginiai kelia pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, sustabdyti (išjungti) įrenginį ar įrenginius; ^s-aabdf74b9ded1ba044dad9c4
 
 
-7) už žalą, padarytą nesaugiai naudojant įrenginį, atlyginti įstatymų nustatyta tvarka; ^51e43967d7e227dccbecdc6c
+7) už žalą, padarytą nesaugiai naudojant įrenginį, atlyginti įstatymų nustatyta tvarka; ^s-ec418c87cf7e2df026dacd73
 
 
-8) pranešti Valstybinei darbo inspekcijai, įgaliotoms įstaigoms apie įrenginių avarijas, jų naudojimo sutrikimus ir su tuo susijusius sunkius ir mirtinus nelaimingus atsitikimus bei žalą aplinkai ar turtui, organizuoti avarijų padarinių lokalizavimą ir likvidavimą bei tyrimą; ^1caebf28b9971b6f5247adeb
+8) pranešti Valstybinei darbo inspekcijai, įgaliotoms įstaigoms apie įrenginių avarijas, jų naudojimo sutrikimus ir su tuo susijusius sunkius ir mirtinus nelaimingus atsitikimus bei žalą aplinkai ar turtui, organizuoti avarijų padarinių lokalizavimą ir likvidavimą bei tyrimą; ^s-6d6282f61b255167eb6bc1dc
 
 
-9) įrenginiams naudoti ir prižiūrėti skirti teisės aktų nustatyta tvarka apmokytus ir atestuotus asmenis, aprūpinti juos įrenginių techniniais dokumentais; ^a8fd979bd5259f24c15ba71b
+9) įrenginiams naudoti ir prižiūrėti skirti teisės aktų nustatyta tvarka apmokytus ir atestuotus asmenis, aprūpinti juos įrenginių techniniais dokumentais; ^s-28c14ab95284c10c58e6144a
 
 
-10) apmokėti už įgaliotų įstaigų atliktus įrenginio techninės būklės tikrinimus pagal įgaliotų įstaigų nustatytas kainas ir (ar) tarifus. ^74cc1945b848f15f6198cadc
+10) apmokėti už įgaliotų įstaigų atliktus įrenginio techninės būklės tikrinimus pagal įgaliotų įstaigų nustatytas kainas ir (ar) tarifus. ^s-77f56172f5ea2e5179f702ff
 
 
-3. Įrenginių savininkai gali pavesti dalį savo pareigų, nurodytų [[#^1f6cb7299304e3271879e879|šio straipsnio 2 dalies]] 3, 5 ir 9 punktuose, kitam juridiniam asmeniui ar įmonei, neturinčiai juridinio asmens teisių, kai šie atlieka įrenginių nuolatinę priežiūrą pagal sutartį su įrenginio savininku. ^924527a7cff79fb2499c1ee3
+3. Įrenginių savininkai gali pavesti dalį savo pareigų, nurodytų [[#^s-b5c124518f8a768f1a08984a|šio straipsnio 2 dalies]] 3, 5 ir 9 punktuose, kitam juridiniam asmeniui ar įmonei, neturinčiai juridinio asmens teisių, kai šie atlieka įrenginių nuolatinę priežiūrą pagal sutartį su įrenginio savininku. ^s-af693817499cdbff04390515
 
 
-4. Įrenginio savininkas turi teisę pareikalauti, kad įgaliota įstaiga vykdytų įrenginio techninės būklės tikrinimo sutarties sąlygas. Jeigu įgaliota įstaiga atsisako vykdyti sutarties sąlygas, ginčas sprendžiamas įstatymų nustatyta tvarka. ^40bb728e0204d4bb9ffb647d
+4. Įrenginio savininkas turi teisę pareikalauti, kad įgaliota įstaiga vykdytų įrenginio techninės būklės tikrinimo sutarties sąlygas. Jeigu įgaliota įstaiga atsisako vykdyti sutarties sąlygas, ginčas sprendžiamas įstatymų nustatyta tvarka. ^s-656a1fb1fa25134f81cc2743
 
 
 
-### 11 straipsnis. Įrenginių savininkų ir fizinių asmenų atsakomybė
+### 11 straipsnis. Įrenginių savininkų ir fizinių asmenų atsakomybė ^s-68a0f8434311bccd316852cd
 
 
-1. Įrenginių savininkai atsako: ^4f7413fec581e1b1c206f1b4
+1. Įrenginių savininkai atsako: ^s-cbf9b72ee9b8212ef79a0698
 
 
-1) už saugų įrenginių naudojimą ir atlygina žalą, padarytą dėl nesaugaus įrenginių naudojimo; ^b8394b41969d33e7b2e6e4fb
+1) už saugų įrenginių naudojimą ir atlygina žalą, padarytą dėl nesaugaus įrenginių naudojimo; ^s-dc106e25b12d3631594a675d
 
 
-2) už išnuomoto (suteikto naudotis) įrenginio techninę būklę ir saugų jo naudojimą, jei kitaip nenumatyta nuomos (panaudos) sutartyje. ^a3d6677a0388d2f548790ecd
+2) už išnuomoto (suteikto naudotis) įrenginio techninę būklę ir saugų jo naudojimą, jei kitaip nenumatyta nuomos (panaudos) sutartyje. ^s-d2cd4f727c33416859c504ad
 
 
-2. Fiziniai asmenys, kurie naudodami įrenginius pažeidžia įrenginių priežiūros teisės aktų reikalavimus bei trukdo įgaliotų įstaigų darbuotojams atlikti jiems pavestas funkcijas, atsako įstatymų nustatyta tvarka.“ ^2848fc6994213dca8dd00e7a
+2. Fiziniai asmenys, kurie naudodami įrenginius pažeidžia įrenginių priežiūros teisės aktų reikalavimus bei trukdo įgaliotų įstaigų darbuotojams atlikti jiems pavestas funkcijas, atsako įstatymų nustatyta tvarka.“ ^s-fbff023f137d610d1f58833a
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-684020198a8764b18ddc987b
 
 
-1. Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d. ^b2098ad08a0386992ff5fc6b
+1. Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d. ^s-862191ab97f4171611cd980d
 
 
-2. Pasiūlymai Vyriausybei: ^e8c73e6f02673247c50a3e90
+2. Pasiūlymai Vyriausybei: ^s-7decec3d6fde74d0029cf52f
 
 
-1) iki 2000 m. gruodžio 1 d. patvirtinti potencialiai pavojingų įrenginių kategorijų sąrašą; ^a9cfa620e8f34b90f1489d94
+1) iki 2000 m. gruodžio 1 d. patvirtinti potencialiai pavojingų įrenginių kategorijų sąrašą; ^s-39b6de0565119a4eec4329a7
 
 
-2) iki 2000 m. gruodžio 1 d. nustatyti įgaliojimų tikrinti potencialiai pavojingų įrenginių techninę būklę suteikimo viešosioms įstaigoms tvarką; ^84ea8b8b14faec87f63a69db
+2) iki 2000 m. gruodžio 1 d. nustatyti įgaliojimų tikrinti potencialiai pavojingų įrenginių techninę būklę suteikimo viešosioms įstaigoms tvarką; ^s-661e96a8be00446aa420ddcf
 
 
-3) iki 2001 m. sausio 1 d. įsteigti potencialiai pavojingų įrenginių valstybės registrą ir patvirtinti jo nuostatus. ^822fd85d1d44b01bb47bdc69
+3) iki 2001 m. sausio 1 d. įsteigti potencialiai pavojingų įrenginių valstybės registrą ir patvirtinti jo nuostatus. ^s-cd944c5f3780c40efcbc2115
 
 
 

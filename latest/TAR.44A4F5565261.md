@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.44A4F5565261"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimo ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimo ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimo ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-08"
 latest_path: "latest/TAR.44A4F5565261.md"
 latest_sha256: "808f683f9cec59e845b1b6b14e5bf0e8602e0189d8ff1518e822478c5e08d411"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.44A4F5565261]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimo ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.44A4F5565261.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.44A4F5565261
+- Ryšiai: [[Ryšiai/TAR.44A4F5565261|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-5f79e51b99e63b34b8342258
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 19 d. dekretą Nr. 403, ratifikuoja 2003 m. spalio 24 d. Stokholme pasirašytą Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimą ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje.

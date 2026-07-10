@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1EA7A88A5619"
 pavadinimas: "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "valstybės sienos ir jos apsaugos įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-28"
 latest_path: "latest/TAR.1EA7A88A5619.md"
 latest_sha256: "28a883506fd03253edd0a7a5e5c020659246b9616d6cb2101fa9c359df2b442d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1EA7A88A5619]]"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1EA7A88A5619.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1EA7A88A5619
+- Ryšiai: [[Ryšiai/TAR.1EA7A88A5619|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 26 straipsnio 3 dalies pakeitimas ^s-92fb2eeef944bdb4a7fe6dbb
 
 
 Pakeisti 26 straipsnio 3 dalį ir ją išdėstyti taip:

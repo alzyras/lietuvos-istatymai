@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "e5665fd090cb11e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 10 straipsnio pakeitimo įstatymas"
+  - "turto arešto aktų registro įstatymo Nr. VIII-1375 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-01-01"
 latest_path: "latest/e5665fd090cb11e4bb408baba2bdddf3.md"
 latest_sha256: "a592745e58c4e60a989ed8170fb46f136a264e60ac7466575399da2183211c25"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/e5665fd090cb11e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/e5665fd090cb11e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/e5665fd090cb11e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/e5665fd090cb11e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio pakeitimas
+### 1 straipsnis. 10 straipsnio pakeitimas ^s-5e5e4f437637e8e5b19c6eda
 
 
 Papildyti 10 straipsnį 6 punktu:

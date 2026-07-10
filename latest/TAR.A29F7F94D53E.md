@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A29F7F94D53E"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-08-01"
 latest_path: "latest/TAR.A29F7F94D53E.md"
 latest_sha256: "5cc04e3b1854c26cba2253fe10af84a845107ad4961e99b36dbeae24a644dd8b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A29F7F94D53E]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A29F7F94D53E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A29F7F94D53E
+- Ryšiai: [[Ryšiai/TAR.A29F7F94D53E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas
+### 1 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas ^s-4850186acd6673946f9d416c
 
 
 Pakeisti Įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti Įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c18b9d85151b55e428e711ca
 
 
 Šis įstatymas įsigalioja 2012 m. rugpjūčio 1 d.

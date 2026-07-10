@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FDC9201F8F90"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimų ratifikavimo"
+  - "įstatymas dėl Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-04-13"
 latest_path: "latest/TAR.FDC9201F8F90.md"
 latest_sha256: "a85e4d0c103aa13af5b09d6659edd1d13f4108eca6aaf613f8d6f5cc4b2ed74b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FDC9201F8F90]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FDC9201F8F90.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FDC9201F8F90
+- Ryšiai: [[Ryšiai/TAR.FDC9201F8F90|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Statuto pakeitimų ratifikavimas
+### 1 straipsnis. Statuto pakeitimų ratifikavimas ^s-681ca39b23b2e428099c015b
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą Nr. 992, ratifikuoja Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimus.

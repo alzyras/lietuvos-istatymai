@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FE038824355C"
 pavadinimas: "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo papildymo įstatymas"
+  - "planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-18"
 latest_path: "latest/TAR.FE038824355C.md"
 latest_sha256: "364706c2b0b2289a3eb9efca05fefbb314974d694ac69438fe9cc5f2facb3f46"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FE038824355C]]"
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FE038824355C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FE038824355C
+- Ryšiai: [[Ryšiai/TAR.FE038824355C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 1 priedo papildymas
+### 1 straipsnis. Įstatymo 1 priedo papildymas ^s-c6b7b19083598ba27f62296c
 
 
 Papildyti Įstatymo 1 priedą 2.5 punktu:

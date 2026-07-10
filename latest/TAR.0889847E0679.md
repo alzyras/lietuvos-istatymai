@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0889847E0679"
 pavadinimas: "Lietuvos Respublikos poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.0889847E0679.md"
 latest_sha256: "5de4f1929b53ba2e6804cb8be7764bc9911080e65a5fa04312dbccab650a89a3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0889847E0679]]"
 ---
 # Lietuvos Respublikos poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0889847E0679.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0889847E0679
+- Ryšiai: [[Ryšiai/TAR.0889847E0679|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies 2 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies 2 punkto pakeitimas ^s-f87d707cd40b179d45a472d2
 
 
 5 straipsnio 3 dalies 2 punkte vietoj žodžio „operatyvinį“ įrašyti žodžius „kriminalinės žvalgybos“ ir šį punktą išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ac2f381806172842d6c8d3ee
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

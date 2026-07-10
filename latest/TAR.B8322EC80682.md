@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B8322EC80682"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 2 papildomo protokolo prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties \"3 protokolo dėl prekių kilmės taisyklių pakeitimai\" ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 2 papildomo protokolo prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties \"3 protokolo dėl prekių kilmės taisyklių pakeitimai\" ratifikavimo"
+  - "įstatymas dėl 2 papildomo protokolo prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties \"3 protokolo dėl prekių kilmės taisyklių pakeitimai\" ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-16"
 latest_path: "latest/TAR.B8322EC80682.md"
 latest_sha256: "009a047596bde695994f449060a2b95cdd1629531a41a1add81a8036753df210"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B8322EC80682]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 2 papildomo protokolo prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties "3 protokolo dėl prekių kilmės taisyklių pakeitimai" ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B8322EC80682.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B8322EC80682
+- Ryšiai: [[Ryšiai/TAR.B8322EC80682|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-fe0e83c83f3e88859ef9f441
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1006, ratifikuoja 2 papildomą protokolą prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties „3 protokolo dėl prekių kilmės taisyklių pakeitimai“, pasirašytą 1999 m. gruodžio 21 d. Vilniuje.

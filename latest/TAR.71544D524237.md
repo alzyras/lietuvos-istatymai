@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.71544D524237"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 45 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 45 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 45 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-11-24"
 latest_path: "latest/TAR.71544D524237.md"
 latest_sha256: "064542407d72ab491583e8b1a5ba80f6fbfea5a5477e963d7a77c50349c19986"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.71544D524237]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 45 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.71544D524237.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.71544D524237
+- Ryšiai: [[Ryšiai/TAR.71544D524237|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 45 straipsnio 4 dalies 2 punkto pakeitimas
+### 1 straipsnis. 45 straipsnio 4 dalies 2 punkto pakeitimas ^s-1fb519d397226b6335799bb3
 
 
 45 straipsnio 4 dalies 2 punkte po žodžių „sąskaitas bankuose“ įrašyti žodžius „Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka“ ir šį punktą išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2515B6DC0C16"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 31, 34 ir 35 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 31, 34 ir 35 straipsnių pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 31, 34 ir 35 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.2515B6DC0C16.md"
 latest_sha256: "da0a642afbaf1221f90a4511e554066122ae62a3db307046b551fd7d47913345"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2515B6DC0C16]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 31, 34 ir 35 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2515B6DC0C16.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2515B6DC0C16
+- Ryšiai: [[Ryšiai/TAR.2515B6DC0C16|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 31 straipsnio 6 punkto pakeitimas
+### 1 straipsnis. 31 straipsnio 6 punkto pakeitimas ^s-88d5457c68cdbc4cb67aa87a
 
 
 31 straipsnio 6 punkte išbraukti žodžius „apskričių viršininkų administracijų“ ir šį punktą išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 34 straipsnio 5 punkto pakeitimas
+### 2 straipsnis. 34 straipsnio 5 punkto pakeitimas ^s-ccdf3fb3903f697ca90fc90d
 
 
 34 straipsnio 5 punkte išbraukti žodžius „apskrities viršininko administracijos“ ir šį punktą išdėstyti taip:
@@ -52,7 +57,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 35 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 35 straipsnio 1 dalies pakeitimas ^s-c8a9e8a0bc1be82e9e0954ad
 
 
 35 straipsnio 1 dalyje išbraukti žodžius „po vieną į aptarnaujamą teritoriją įeinančių apskričių viršininkų deleguotą atstovą“ ir šią dalį išdėstyti taip:
@@ -62,7 +67,7 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-8a8299db43205f1df10b78c8
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.129FFA47A525"
 pavadinimas: "Dėl Užsienio valiutos Lietuvos Respublikoje įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Užsienio valiutos Lietuvos Respublikoje įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-05-06"
 latest_path: "latest/TAR.129FFA47A525.md"
 latest_sha256: "bffb896d37468c33ebc0c65db405a3fa507412c292afcc85d77fe939bfa7fc10"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.129FFA47A525]]"
 ---
 # Dėl Užsienio valiutos Lietuvos Respublikoje įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.129FFA47A525.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.129FFA47A525
+- Ryšiai: [[Ryšiai/TAR.129FFA47A525|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

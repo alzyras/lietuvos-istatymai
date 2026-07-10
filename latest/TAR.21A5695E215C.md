@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.21A5695E215C"
 pavadinimas: "Dėl kai kurių įstatymų aktų pripažinimo netekusiais galios"
+aliases:
+  - "Dėl kai kurių įstatymų aktų pripažinimo netekusiais galios"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-11-06"
 latest_path: "latest/TAR.21A5695E215C.md"
 latest_sha256: "8daedbb4b2438660ebce5e802ce6e9e326ca442359c8048eb5c7afe57db6102c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.21A5695E215C]]"
 ---
 # Dėl kai kurių įstatymų aktų pripažinimo netekusiais galios
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.21A5695E215C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.21A5695E215C
+- Ryšiai: [[Ryšiai/TAR.21A5695E215C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

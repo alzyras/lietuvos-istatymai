@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4163FA92D19E"
 pavadinimas: "Lietuvos Respublikos įstatymo dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo 2 straipsnio papildymo įstatymas"
+  - "įstatymo dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-13"
 latest_path: "latest/TAR.4163FA92D19E.md"
 latest_sha256: "07702c33a88f6acc1795c742a8f3fe20f3df1f670ca0e8727ed60a1f050bf9f8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4163FA92D19E]]"
 ---
 # Lietuvos Respublikos įstatymo dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4163FA92D19E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4163FA92D19E
+- Ryšiai: [[Ryšiai/TAR.4163FA92D19E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

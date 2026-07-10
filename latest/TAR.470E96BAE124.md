@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.470E96BAE124"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 45 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 45 straipsnių papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 45 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-01"
 latest_path: "latest/TAR.470E96BAE124.md"
 latest_sha256: "1c0f97bb301b2de2eb550340d8040e451d14d085e7370653bd0419d72869073b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.470E96BAE124]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 45 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.470E96BAE124.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.470E96BAE124
+- Ryšiai: [[Ryšiai/TAR.470E96BAE124|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 2 punkto papildymas
+### 1 straipsnis. 2 straipsnio 1 dalies 2 punkto papildymas ^s-bb30b45bd145fddad44cb477
 
 
 2 straipsnio 1 dalies 2 punkte po žodžių „Vidaus reikalų ministerijos“ įrašyti žodžius „Specialiųjų tyrimų tarnybos“ ir šią dalį išdėstyti taip:
@@ -41,17 +46,17 @@ Vilnius
 
 
 
-### 2 straipsnis. 45 straipsnio 4 dalies papildymas
+### 2 straipsnis. 45 straipsnio 4 dalies papildymas ^s-0923da071b57dcff32beaf18
 
 
 45 straipsnio 4 dalyje po žodžių „vidaus reikalų“ įrašyti žodžius „Specialiųjų tyrimų tarnybos“ ir šią dalį išdėstyti taip:
 
 
-„Ištarnauto laiko pensija perskaičiuojama į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju, jei jos gavėjas yra sukakęs šio įstatymo nustatytą senatvės pensijos amžių. Priešingu atveju pensininkui mokama paskirtoji pensija, indeksuojant ją šio įstatymo 50 straipsnyje nustatyta tvarka. Vidaus reikalų, Specialiųjų tyrimų tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir karių pensijų perskaičiavimo tvarką nustato Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymas.“
+„Ištarnauto laiko pensija perskaičiuojama į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju, jei jos gavėjas yra sukakęs šio įstatymo nustatytą senatvės pensijos amžių. Priešingu atveju pensininkui mokama paskirtoji pensija, indeksuojant ją šio įstatymo 50 straipsnyje nustatyta tvarka. Vidaus reikalų, Specialiųjų tyrimų tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir karių pensijų perskaičiavimo tvarką nustato Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros [[latest/TAR.EDDCB615126E|pareigūnų ir karių valstybinių pensijų įstatymas]].“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-92075e5195befaf59a1e493a
 
 
 Šis įstatymas įsigalioja nuo 2000 m. birželio 1 d.

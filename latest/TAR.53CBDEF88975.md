@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.53CBDEF88975"
 pavadinimas: "Lietuvos Respublikos labdaros ir paramos fondų įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos labdaros ir paramos fondų įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "labdaros ir paramos fondų įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-05-14"
 latest_path: "latest/TAR.53CBDEF88975.md"
 latest_sha256: "e6cee4cf2720ac2154e5ceeaa54019b9b7eb39c892cc794874536fc5b385a011"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.53CBDEF88975]]"
 ---
 # Lietuvos Respublikos labdaros ir paramos fondų įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.53CBDEF88975.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.53CBDEF88975
+- Ryšiai: [[Ryšiai/TAR.53CBDEF88975|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio pakeitimas
+### 1 straipsnis. 18 straipsnio pakeitimas ^s-4cd541c46464363445d4f917
 
 
 18 straipsnyje vietoj žodžių „per vienerius metus nuo šio įstatymo įsigaliojimo“ įrašyti žodžius „iki 1997 m. spalio 1 d.“ ir šį straipsnį išdėstyti taip:

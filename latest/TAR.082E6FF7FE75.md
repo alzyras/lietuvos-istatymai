@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.082E6FF7FE75"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimo ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-09-01"
 latest_path: "latest/TAR.082E6FF7FE75.md"
 latest_sha256: "8df0288a636529ea473a3e2324b3696196d0d325a25ada30d72302111793078f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.082E6FF7FE75]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.082E6FF7FE75.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.082E6FF7FE75
+- Ryšiai: [[Ryšiai/TAR.082E6FF7FE75|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos pakeitimo ratifikavimas
+### 1 straipsnis. Konvencijos pakeitimo ratifikavimas ^s-1381d844836785cbdfe24731
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. gegužės 9 d. dekretą Nr. 1K-955, ratifikuoja Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimą, priimtą 2005 m. gegužės 27 d. Almatoje.

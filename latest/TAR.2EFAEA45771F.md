@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2EFAEA45771F"
 pavadinimas: "Lietuvos Respublikos aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas"
+  - "aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.2EFAEA45771F.md"
 latest_sha256: "535bc19721711eccc938d57774ceda67bf6603819d0ba5e7ffcebbf446891b12"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2EFAEA45771F]]"
 ---
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2EFAEA45771F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2EFAEA45771F
+- Ryšiai: [[Ryšiai/TAR.2EFAEA45771F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas
+### 1 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas ^s-45b7ce443905e3604e05dcec
 
 
-1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^d207640444a826cd63ed0d90
+1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d5b20273ec1265e78fe53d3d
 
 
 „3. Savivaldybių institucijos, siekdamos užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti, savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numato aplinkos oro kokybės valdymo priemones. Kokios minimalios priemonės ir informacija turi būti numatytos savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose, nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija.“
 
 
-2. Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip: ^3f028018818a89ba2b026dc0
+2. Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip: ^s-5831afef651450be76f3f0be
 
 
 „4. Savivaldybės vykdomoji institucija Aplinkos ministerijos nustatyta tvarka Aplinkos ministerijai ar jos įgaliotai institucijai ir visuomenei teikia savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytų aplinkos oro kokybės valdymo priemonių vykdymo ataskaitas.“
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-d7e15b45d3b1fcfda7fed81b
 
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -59,7 +64,7 @@ Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-14ff0f616ff1ff730ba33a8e
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

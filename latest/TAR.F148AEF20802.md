@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F148AEF20802"
 pavadinimas: "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas"
+  - "nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-16"
 latest_path: "latest/TAR.F148AEF20802.md"
 latest_sha256: "71290aee4996f21d25b352d9b7c793a7fbd4859d6c0d1c45010d8059ddc364d8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F148AEF20802]]"
 ---
 # Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F148AEF20802.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F148AEF20802
+- Ryšiai: [[Ryšiai/TAR.F148AEF20802|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas
+### 1 straipsnis. 4 straipsnio papildymas ^s-d5824bfd95c799054272c2bb
 
 
 Papildyti 4 straipsnio 7 dalį sakiniu „Pareiginį atlyginimą Komisijos pirmininkui nustato Lietuvos Respublikos Vyriausybė“ ir šią dalį išdėstyti taip:

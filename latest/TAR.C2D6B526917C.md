@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C2D6B526917C"
 pavadinimas: "Lietuvos Respublikos advokatūros įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos advokatūros įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "advokatūros įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-11"
 latest_path: "latest/TAR.C2D6B526917C.md"
 latest_sha256: "d1086135471ad595552df8b4ecee92197b3916fc40cbc7409e71957144c56b2a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C2D6B526917C]]"
 ---
 # Lietuvos Respublikos advokatūros įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C2D6B526917C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C2D6B526917C
+- Ryšiai: [[Ryšiai/TAR.C2D6B526917C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas ^s-bce7c229c331bef239f35661
 
 
 Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:

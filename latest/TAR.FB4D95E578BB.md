@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB4D95E578BB"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-30"
 latest_path: "latest/TAR.FB4D95E578BB.md"
 latest_sha256: "23b3505a878ee952e1137dd726ce771412e2c567b037f68ef8920da2990348f5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB4D95E578BB]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB4D95E578BB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB4D95E578BB
+- Ryšiai: [[Ryšiai/TAR.FB4D95E578BB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas ^s-5e1c3b5049db3d122a1b698a
 
 
 Pakeisti  2 straipsnio 12 dalį ir ją išdėstyti taip:

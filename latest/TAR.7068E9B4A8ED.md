@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7068E9B4A8ED"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos\" 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos\" 3 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos\" 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-05-05"
 latest_path: "latest/TAR.7068E9B4A8ED.md"
 latest_sha256: "7428ce4e0da267ac7d2284e70c2a3225da25512502d6cfd9aa15e2e7404f9f75"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7068E9B4A8ED]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos" 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7068E9B4A8ED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7068E9B4A8ED
+- Ryšiai: [[Ryšiai/TAR.7068E9B4A8ED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-ec9d1b7d79a76b60660d2440
 
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Šio įstatymo 2 straipsnyje numatyti apribojimai netaikomi ir tiems buvusiems VSK kadriniams darbuotojams, kurie ir po 1990 m. kovo 11 d. dirbo VSK jau Lietuvos Respublikos valdžios institucijų pavedimu, šioms institucijoms suteikė visą turimą vertingą informaciją apie VSK veiklą ir kitokiu jų patvirtintu būdu veikė Lietuvos Respublikos labui. Tai, kad asmuo po 1990 m. kovo 11 d. dirbo VSK Lietuvos Respublikos valdžios institucijų pavedimu, šioms institucijoms suteikė visą turimą vertingą informaciją apie VSK veiklą ir kitokiu jų patvirtintu būdu veikė Lietuvos Respublikos labui, yra nustatoma administracinio teismo sprendimu pagal Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento bendrą teikimą. Atsisakymą teikti Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento bendrą teikimą administraciniam teismui asmuo gali apskųsti administraciniam teismui. Kol įsigalios Administracinių bylų teisenos įstatymas, šias bylas sprendžia Vilniaus apygardos teismas.“
+„2. Šio įstatymo 2 straipsnyje numatyti apribojimai netaikomi ir tiems buvusiems VSK kadriniams darbuotojams, kurie ir po 1990 m. kovo 11 d. dirbo VSK jau Lietuvos Respublikos valdžios institucijų pavedimu, šioms institucijoms suteikė visą turimą vertingą informaciją apie VSK veiklą ir kitokiu jų patvirtintu būdu veikė Lietuvos Respublikos labui. Tai, kad asmuo po 1990 m. kovo 11 d. dirbo VSK Lietuvos Respublikos valdžios institucijų pavedimu, šioms institucijoms suteikė visą turimą vertingą informaciją apie VSK veiklą ir kitokiu jų patvirtintu būdu veikė Lietuvos Respublikos labui, yra nustatoma administracinio teismo sprendimu pagal Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento bendrą teikimą. Atsisakymą teikti Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento bendrą teikimą administraciniam teismui asmuo gali apskųsti administraciniam teismui. Kol įsigalios [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymas]], šias bylas sprendžia Vilniaus apygardos teismas.“
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EE1C008B5565"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 17, 20, 35, 42 ir 43 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 17, 20, 35, 42 ir 43 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 17, 20, 35, 42 ir 43 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-28"
 latest_path: "latest/TAR.EE1C008B5565.md"
 latest_sha256: "53ab2141cea2850365bd6c08d17be6e1e0192a6c75d511980f39ce575f5810e7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EE1C008B5565]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 17, 20, 35, 42 ir 43 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EE1C008B5565.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EE1C008B5565
+- Ryšiai: [[Ryšiai/TAR.EE1C008B5565|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 5 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 5 punkto pakeitimas ^s-c93cb15d484da1f73304cd22
 
 
 Pakeisti 17 straipsnio 5 punktą ir jį išdėstyti taip:
@@ -41,33 +46,33 @@ Pakeisti 17 straipsnio 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 20 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 4 dalimi
+### 2 straipsnis. 20 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 4 dalimi ^s-7cde25a822259188bdbd0d8b
 
 
-1. Pakeisti 20 straipsnio pavadinimą ir jį išdėstyti taip: ^8f46d3a8928d2de607c0fb53
+1. Pakeisti 20 straipsnio pavadinimą ir jį išdėstyti taip: ^s-15a6c63f3cb64b424deef0e5
 
 
 „20 straipsnis. Karjeros valstybės tarnautojų ir įstaigos vadovų tarnybinis kaitumas“.
 
 
-2. Papildyti 20 straipsnį 4 dalimi: ^881455651a0a8dd37e0580b4
+2. Papildyti 20 straipsnį 4 dalimi: ^s-f319cf2b2695fd6de042bed5
 
 
 „4. Įstaigos vadovas (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) jo prašymu gali būti perkeltas į kitas laisvas tos pačios ar žemesnės kategorijos karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu jis atitinka pareigybės aprašyme nustatytus specialius reikalavimus.“
 
 
 
-### 3 straipsnis. 35 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 35 straipsnio 2 dalies pakeitimas ^s-1884e14ca2069296c3eef2f1
 
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Valstybės tarnautojai turi teisę į šio Įstatymo nustatytas atostogas. Valstybės tarnautojai taip pat turi teisę į Darbo kodekso nustatytas nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti, iki jam sueis treji metai, ir mokymosi atostogas.“
+„2. Valstybės tarnautojai turi teisę į šio Įstatymo nustatytas atostogas. Valstybės tarnautojai taip pat turi teisę į [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatytas nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti, iki jam sueis treji metai, ir mokymosi atostogas.“
 
 
 
-### 4 straipsnis. 42 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 42 straipsnio 1 dalies pakeitimas ^s-c85833de549c03f5c233f438
 
 
 Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -77,33 +82,33 @@ Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 43 straipsnio 4 dalies pakeitimas ir 14 dalies pripažinimas netekusia galios
+### 5 straipsnis. 43 straipsnio 4 dalies pakeitimas ir 14 dalies pripažinimas netekusia galios ^s-3f83c149ffbf073598631099
 
 
-1. Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip: ^caa6fd70776c7271c13da7a6
+1. Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip: ^s-14962f79f258faea9648c738
 
 
 „4. Žuvęs atlikdamas tarnybines pareigas arba miręs dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, valstybės tarnautojas laidojamas valstybės lėšomis. Valstybės tarnautojas pripažįstamas žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, jeigu įvykis, kuris buvo valstybės tarnautojo žūties (mirties) priežastimi, įvyko jam atliekant jo pareigybės aprašyme nustatytas funkcijas arba dėl šių funkcijų atlikimo, išskyrus atvejus, kai valstybės tarnautojas žuvo (mirė) darydamas tyčinę nusikalstamą veiką ar kitą teisės pažeidimą, taip pat jei valstybės tarnautojo žūties (mirties) priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų arba jei valstybės tarnautojas nusižudė dėl priežasčių, nesusijusių su tarnyba. Valstybės tarnautojas pripažįstamas žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka. Valstybės apmokamų laidojimo išlaidų aprašą tvirtina Vyriausybė ar jos įgaliota institucija. Valstybės tarnautojo, kuris žuvo arba mirė užsienyje atlikdamas tarnybines pareigas, palaikų pervežimo į Lietuvą išlaidas apmoka valstybė Vyriausybės nustatyta tvarka. Paramos teikimo valstybės tarnautojo, žuvusio ar mirusio užsienyje dėl priežasčių, nesusijusių su tarnybinių pareigų atlikimu, paramos suteikimo palaikams pervežti į Lietuvą tvarką nustato Vyriausybė. Žuvusio atliekant tarnybines pareigas arba mirusio dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, valstybės tarnautojo (išskyrus valstybės tarnautojus, Vyriausybės nustatyta tvarka apdraustus valstybės lėšomis) šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kol jiems sukaks 18 metų, taip pat vaikams (įvaikiams), besimokantiems nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose, kol jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jei jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, žuvusiojo (mirusiojo) vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei) išmokama vienkartinė 12 mėnesių jo gauto vidutinio darbo užmokesčio dydžio pašalpa. Mirusio, išskyrus žuvusį atliekant tarnybines pareigas arba mirusį dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, valstybės tarnautojo šeimos nariams išmokama 1 mėnesio jo gauto vidutinio darbo užmokesčio dydžio pašalpa. Šios pašalpos mokamos neatsižvelgiant į kitų įstatymų nustatytas ir išmokėtas išmokas ir pašalpas.“
 
 
-2. 43 straipsnio 14 dalį pripažinti netekusia galios. ^f1426d10bd7b1267fea89796
+2. 43 straipsnio 14 dalį pripažinti netekusia galios. ^s-dc8b46346952a622a9d9d203
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-a04aa4707fc2802f9bda1b79
 
 
-Šio įstatymo 3 ir [[#4 straipsnis. 42 straipsnio 1 dalies pakeitimas|4 straipsniai]] įsigalioja nuo 2006 m. liepos 1 d., [[#^caa6fd70776c7271c13da7a6|5 straipsnio 1 dalis]] įsigalioja nuo 2006 m. spalio 1 d.
+Šio įstatymo 3 ir [[#^s-c85833de549c03f5c233f438|4 straipsniai]] įsigalioja nuo 2006 m. liepos 1 d., [[#^s-14962f79f258faea9648c738|5 straipsnio 1 dalis]] įsigalioja nuo 2006 m. spalio 1 d.
 
 
 
-### 7 straipsnis. Pasiūlymai Vyriausybei
+### 7 straipsnis. Pasiūlymai Vyriausybei ^s-141ef4aa2947cf8c16a6a754
 
 
-1. Vyriausybė ir (ar) jos įgaliota institucija iki 2006 m. spalio 1 d. priima šio įstatymo [[#^caa6fd70776c7271c13da7a6|5 straipsnio 1 daliai]] įgyvendinti reikalingus teisės aktus. ^8c2144c7df34de7af3cc6b80
+1. Vyriausybė ir (ar) jos įgaliota institucija iki 2006 m. spalio 1 d. priima šio įstatymo [[#^s-14962f79f258faea9648c738|5 straipsnio 1 daliai]] įgyvendinti reikalingus teisės aktus. ^s-f6c9e11dfe72a5168cb1eace
 
 
-2. Vyriausybė iki 2006 m. spalio 1 d. pateikia Lietuvos Respublikos Seimui įstatymo, reglamentuojančio asmenų, nurodytų Vyriausybės 1991 m. gruodžio 5 d. nutarimu Nr. 530 patvirtintų Asmenų draudimo valstybės lėšomis ir kompensacijų mokėjimo juos sužeidus ar jiems žuvus ryšium su tarnyba sąlygų 1 punkte, draudimą valstybės lėšomis ir kompensacijų juos sužeidus arba jiems žuvus dėl priežasčių, susijusių su tarnyba, mokėjimą, projektą. ^666d2caf9b70168d549ba553
+2. Vyriausybė iki 2006 m. spalio 1 d. pateikia Lietuvos Respublikos Seimui įstatymo, reglamentuojančio asmenų, nurodytų Vyriausybės 1991 m. gruodžio 5 d. nutarimu Nr. 530 patvirtintų Asmenų draudimo valstybės lėšomis ir kompensacijų mokėjimo juos sužeidus ar jiems žuvus ryšium su tarnyba sąlygų 1 punkte, draudimą valstybės lėšomis ir kompensacijų juos sužeidus arba jiems žuvus dėl priežasčių, susijusių su tarnyba, mokėjimą, projektą. ^s-5874c3c49398a5f862cbdb51
 
 
 

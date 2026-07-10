@@ -11,7 +11,7 @@
   "latest_revision": "2000-05-31",
   "latest_sha256": "b41337a157491c7179f26b8f904a1e9b25a46e1c4ff19baf97bbc467a79efdf9",
   "metadata_path": "latest/TAR.FECCE884E54A.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

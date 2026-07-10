@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.556AA939FDBF"
 pavadinimas: "Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "teisėjų valstybinių pensijų įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.556AA939FDBF.md"
 latest_sha256: "ef86b29cc121b7225dff0aea4a195a9b9256f8920ccfdd049a51cd4e32a0ccaf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.556AA939FDBF]]"
 ---
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.556AA939FDBF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.556AA939FDBF
+- Ryšiai: [[Ryšiai/TAR.556AA939FDBF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 6 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 6 punkto pakeitimas ^s-b4859521f8b1348b4177e20c
 
 
 4 straipsnio 6 punkte po žodžių „(įskaitant ir darbdavio mokamas ligos dienomis), motinystės“ įrašyti žodį „tėvystės“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d14e0085fe45a2684068bef4
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

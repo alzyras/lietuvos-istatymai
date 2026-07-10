@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D3FFA6926B54"
 pavadinimas: "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-21"
 latest_path: "latest/TAR.D3FFA6926B54.md"
 latest_sha256: "2fab265eb87976f59e631ce0c0ae1c97f8d20d17ad8bfa1bd0720b9420bb8db2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D3FFA6926B54]]"
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D3FFA6926B54.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D3FFA6926B54
+- Ryšiai: [[Ryšiai/TAR.D3FFA6926B54|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 8 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 5 straipsnio 8 punkto pripažinimas netekusiu galios ^s-288a4cc27fe121d2a691cfef
 
 
 5 straipsnio 8 punktą pripažinti netekusiu galios.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ED05699FD196"
 pavadinimas: "Lietuvos Respublikos konsulinio mokesčio įstatymo 3, 6 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konsulinio mokesčio įstatymo 3, 6 straipsnių pakeitimo ir papildymo įstatymas"
+  - "konsulinio mokesčio įstatymo 3, 6 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-16"
 latest_path: "latest/TAR.ED05699FD196.md"
 latest_sha256: "1829e22523755f250e416156c02d45a27a1e547f849e8ffffd740d366fe07617"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ED05699FD196]]"
 ---
 # Lietuvos Respublikos konsulinio mokesčio įstatymo 3, 6 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ED05699FD196.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ED05699FD196
+- Ryšiai: [[Ryšiai/TAR.ED05699FD196|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas ^s-81a0518f766818139faff33f
 
 
-1. Papildyti 3 straipsnį nauju 7 punktu: ^00fa83c8b06a7b4d2b1e3cbf
+1. Papildyti 3 straipsnį nauju 7 punktu: ^s-e23095aa330f94723d813006
 
 
 „7) dokumentų išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą;“.
 
 
-2. Buvusius 3 straipsnio 7 ir 8 punktus laikyti atitinkamai 8 ir 9 punktais. ^60faeb7ce3d06663050d214c
+2. Buvusius 3 straipsnio 7 ir 8 punktus laikyti atitinkamai 8 ir 9 punktais. ^s-166816a9898af5087804509a
 
 
 
-### 2 straipsnis. 6 straipsnio papildymas 21 punktu
+### 2 straipsnis. 6 straipsnio papildymas 21 punktu ^s-8faa52eb075f4c2eec9259db
 
 
 Papildyti 6 straipsnį 21 punktu:

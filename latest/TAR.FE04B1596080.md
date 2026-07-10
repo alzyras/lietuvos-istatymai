@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FE04B1596080"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "akcizų įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-01"
 latest_path: "latest/TAR.FE04B1596080.md"
 latest_sha256: "c54b082e204ee3454d820e43292533e2f86e1dfef1be1aa740731186ededd717"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FE04B1596080]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FE04B1596080.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FE04B1596080
+- Ryšiai: [[Ryšiai/TAR.FE04B1596080|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 2 dalies pakeitimas ^s-ed98863f4e59a347f60433bb
 
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d63b463b45cf778317aef5dd
 
 
 Šis Įstatymas įsigalioja nuo 2002 m. liepos 1 d.

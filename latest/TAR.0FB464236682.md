@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0FB464236682"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-21"
 latest_path: "latest/TAR.0FB464236682.md"
 latest_sha256: "5adbe04fdb8ab2689f434cfff25c39545ab05e1ce27eb3f654fe2d205bbed573"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0FB464236682]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0FB464236682.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0FB464236682
+- Ryšiai: [[Ryšiai/TAR.0FB464236682|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-783c98343878516ac48e2f86
 
 
 Pakeisti projekto 7 straipsnio 1 dalį ir ją išdėstyti taip:

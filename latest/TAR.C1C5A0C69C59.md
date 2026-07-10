@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C1C5A0C69C59"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo\" įgyvendinimo\" papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo\" įgyvendinimo\" papildymo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo\" įgyvendinimo\" papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-10"
 latest_path: "latest/TAR.C1C5A0C69C59.md"
 latest_sha256: "10154aa08238ccd1b21b437609a0079039baf123e4ff9fe5e05dc2a22e8701ff"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C1C5A0C69C59]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo" įgyvendinimo" papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C1C5A0C69C59.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C1C5A0C69C59
+- Ryšiai: [[Ryšiai/TAR.C1C5A0C69C59|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 3 straipsniu
+### 1 straipsnis. Įstatymo papildymas 3 straipsniu ^s-a54f8be7f779a0e13387a8e7
 
 
 Papildyti Įstatymą 3 straipsniu:

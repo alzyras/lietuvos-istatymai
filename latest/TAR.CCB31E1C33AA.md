@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CCB31E1C33AA"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas"
+  - "Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-05-04"
 latest_path: "latest/TAR.CCB31E1C33AA.md"
 latest_sha256: "7fca6da7c9ffef91d25b9acc8ea3acb3889cd7194e4b3ba14506b316f631d5b3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CCB31E1C33AA]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CCB31E1C33AA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CCB31E1C33AA
+- Ryšiai: [[Ryšiai/TAR.CCB31E1C33AA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-dae413bf3e5890f646e44a68
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. sausio 23 d. dekretą Nr. 1656, ratifikuoja Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1998 m. spalio 13 d. Liublianoje.

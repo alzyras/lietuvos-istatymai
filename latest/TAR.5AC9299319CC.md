@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5AC9299319CC"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 ir 5 straipsnių pakeitimo įstatymas"
+  - "užsienio valiutos Lietuvos Respublikoje įstatymo 3 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-19"
 latest_path: "latest/TAR.5AC9299319CC.md"
 latest_sha256: "bc04cd12f4211d7e1a460910391af24baea6b5dc2c6c794007b331abf59fcaea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5AC9299319CC]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5AC9299319CC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5AC9299319CC
+- Ryšiai: [[Ryšiai/TAR.5AC9299319CC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-703e1ed710d772ce6e71c96c
 
 
 3 straipsnio pirmojoje dalyje po žodžių „Lietuvos Respublikoje“ įrašyti žodžius „taip pat laisvosiose ekonominėse zonose“ ir visą dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-25b8899a3bf18a2fa158b6dd
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -50,7 +55,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Kapitalo įvežimas ir išvežimas
 
 
-Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą nustato Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas ir Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.“
+Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą nustato Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas ir [[latest/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]].“
 
 
 

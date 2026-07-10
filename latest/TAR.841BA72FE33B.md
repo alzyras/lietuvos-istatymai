@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.841BA72FE33B"
 pavadinimas: "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 21 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 21 straipsnio papildymo įstatymas"
+  - "ginklų ir šaudmenų kontrolės įstatymo 21 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.841BA72FE33B.md"
 latest_sha256: "0c719bbc1fb132750d33619d26a2c93ef3df46674dde9f4bb96eea22206a8267"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.841BA72FE33B]]"
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 21 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.841BA72FE33B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.841BA72FE33B
+- Ryšiai: [[Ryšiai/TAR.841BA72FE33B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 2 dalies papildymas 10 punktu
+### 1 straipsnis. 21 straipsnio 2 dalies papildymas 10 punktu ^s-d23dc5ab374baa3aec323341
 
 
 Papildyti 21 straipsnio 2 dalį 10 punktu:
@@ -41,14 +46,14 @@ Papildyti 21 straipsnio 2 dalį 10 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c43b2a45a1f9fa8d1d881314
 
 
-Šis Įstatymas, išskyrus [[#3 straipsnis. Pasiūlymas Vyriausybei|3 straipsnį]], įsigalioja nuo 2005 m. sausio 1 d.
+Šis Įstatymas, išskyrus [[#^s-f907d0d4b783cc4c569a7c01|3 straipsnį]], įsigalioja nuo 2005 m. sausio 1 d.
 
 
 
-### 3 straipsnis. Pasiūlymas Vyriausybei
+### 3 straipsnis. Pasiūlymas Vyriausybei ^s-f907d0d4b783cc4c569a7c01
 
 
 Pasiūlyti Vyriausybei ar jos įgaliotai institucijai iki 2005 m. sausio 1 d. patvirtinti į Lietuvos Respubliką įvežtų ginklų žymėjimo tvarką.

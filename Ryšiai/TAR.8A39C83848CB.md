@@ -1,0 +1,499 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.8A39C83848CB"
+pavadinimas: "Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas"
+---
+# Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas: ryšiai
+
+- [[latest/TAR.8A39C83848CB|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.B919F567D54C|Lietuvos Respublikos civilinio kodekso 1.1, 6.350, 6.366, 6.367, 6.369, 6.370 straipsnių pakeitimo ir papildymo ir Kodekso papildymo priedu įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.1, 6.350, 6.366, 6.367, 6.369, 6.370 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO PRIEDU ĮSTATYMAS
+- [[latest/22ca653052c311e884cbc4327e55f3ca|Lietuvos Respublikos civilinio kodekso 1.111, 1.116 straipsnių ir priedo pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.111, 1.116 straipsnių ir priedo pakeitimo įstatymas
+- [[latest/280cb3806b0f11e4ac4be294a47d7c1f|Lietuvos Respublikos civilinio kodekso 1.116 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.116 straipsnio pakeitimo įstatymas
+- [[latest/4e125960e46411eb9f09e7df20500045|Lietuvos Respublikos civilinio kodekso 1.125, 6.228-1, 6.228-12, 6.228-14, 6.363, 6.364, 6.419 straipsnių ir priedo pakeitimo ir Kodekso papildymo 6.228-17, 6.228-18, 6.228-19, 6.228-20, 6.228-21, 6.228-22, 6.228-23, 6.228-24, 6.350-1, 6.364-1, 6.364-2, 6.364-3, 6.364-4 straipsniais įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.125, 6.228-1, 6.228-12, 6.228-14, 6.363, 6.364, 6.419 straipsnių ir priedo pakeitimo ir Kodekso papildymo 6.228-17, 6.228-18, 6.228-19, 6.228-20, 6.228-21, 6.228-22, 6.228-23, 6.228-24, 6.350-1, 6.364-1, 6.364-2, 6.364-3, 6.364-4 straipsniais įstatymas
+- [[latest/TAR.25726E56F3ED|Lietuvos Respublikos civilinio kodekso 1.134 straipsnio papildymo ir pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.134 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A5BA338C669B|Lietuvos Respublikos civilinio kodekso 1.21, 2.47, 2.49, 2.54, 2.55, 2.58, 2.62, 2.64, 2.65, 2.66, 2.70, 2.71, 2.72, 2.82, 2.100, 2.104, 2.106, 2.114, 2.180 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.21, 2.47, 2.49, 2.54, 2.55, 2.58, 2.62, 2.64, 2.65, 2.66, 2.70, 2.71, 2.72, 2.82, 2.100, 2.104, 2.106, 2.114, 2.180 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.7A513740CAE1|Lietuvos Respublikos civilinio kodekso 1.3, 1.65, 2.139, 5.39, 5.50, 5.52, 5.53, 5.54, 5.60 straipsnių pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.3, 1.65, 2.139, 5.39, 5.50, 5.52, 5.53, 5.54, 5.60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.0D3439E4CD13|Lietuvos Respublikos civilinio kodekso 1.3, 2.55, 2.61, 2.72, 2.79, 2.112, 2.152, 2.160, 2.167, 4.176, 6.292, 6.298, 6.299, 6.747, 6.748, 6.751, 6.753 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.3, 2.55, 2.61, 2.72, 2.79, 2.112, 2.152, 2.160, 2.167, 4.176, 6.292, 6.298, 6.299, 6.747, 6.748, 6.751, 6.753 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/e9fdd7a0034411edb32c9f9d8ba206f8|Lietuvos Respublikos civilinio kodekso 1.65, 1.117, 3.51, 3.52, 3.53, 3.61, 3.66, 3.67, 3.73, 3.77, 3.79, 3.85, 3.103, 3.140, 3.144, 3.188, 5.7, 6.492, 6.493 straipsnių pakeitimo ir kodekso papildymo 3.54-1, 3.54-2, 3.54-3, 3.54-4, 3.76-1 straipsniais įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.65, 1.117, 3.51, 3.52, 3.53, 3.61, 3.66, 3.67, 3.73, 3.77, 3.79, 3.85, 3.103, 3.140, 3.144, 3.188, 5.7, 6.492, 6.493 straipsnių pakeitimo ir kodekso papildymo 3.54-1, 3.54-2, 3.54-3, 3.54-4, 3.76-1 straipsniais įstatymas
+- [[latest/0603f9801fdf11e586708c6593c243ce|Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymas
+- [[latest/0272e4d0765511e5b7eba10a9b5a9c5f|Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymo Nr. XII-1851 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1961
+- [[latest/1b8efa70d8d911eb9f09e7df20500045|Lietuvos Respublikos civilinio kodekso 1.73, 1.122, 2.44, 2.49, 2.54, 2.66, 6.166, 6.192, 6.228-7, 6.228-14, 6.901, 6.991 ir 6.993 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.73, 1.122, 2.44, 2.49, 2.54, 2.66, 6.166, 6.192, 6.228-7, 6.228-14, 6.901, 6.991 ir 6.993 straipsnių pakeitimo įstatymas
+- [[latest/6a56bab059bc11e487eff7b424bd0f08|Lietuvos Respublikos civilinio kodekso 1.73, 2.109, 3.9, 3.244, 6.228-9, 6.299, 6.469, 6.831, 6.843 ir 6.871 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.73, 2.109, 3.9, 3.244, 6.228-9, 6.299, 6.469, 6.831, 6.843 ir 6.871 straipsnių pakeitimo įstatymas
+- [[latest/TAR.D9075E1FAA32|Lietuvos Respublikos civilinio kodekso 1.73, 2.50, 2.82, 2.115, 2.116, 2.117, 2.118, 2.119, 2.120, 2.121, 2.122, 2.123, 2.125, 6.969 straipsnių ir antrosios knygos ii dalies IX skyriaus pavadinimo pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.73, 2.50, 2.82, 2.115, 2.116, 2.117, 2.118, 2.119, 2.120, 2.121, 2.122, 2.123, 2.125, 6.969 STRAIPSNIŲ IR ANTROSIOS KNYGOS II DALIES IX SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
+- [[latest/93ba98f0670011e7b85cfdc787069b42|Lietuvos Respublikos civilinio kodekso 1.74 ir 4.58 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.74 ir 4.58 straipsnių pakeitimo įstatymas
+- [[latest/2029d04042e611e4b328ee8724e3e13c|Lietuvos Respublikos civilinio kodekso 1.74, 1.105 ir 6.871 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.74, 1.105 ir 6.871 straipsnių pakeitimo įstatymas
+- [[latest/TAR.CF6279BFAC8E|Lietuvos Respublikos civilinio kodekso 1.74 ir 6.393 straipsnių pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 1.74 IR 6.393 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/e124d1701d4b11e9875cdc20105dd260|Lietuvos Respublikos civilinio kodekso 1.84, 1.85, 2.10, 2.11, 2.26, 3.14, 3.210, 3.269, 3.279-1, 6.268 ir 6.729 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 1.84, 1.85, 2.10, 2.11, 2.26, 3.14, 3.210, 3.269, 3.279-1, 6.268 ir 6.729 straipsnių pakeitimo įstatymas
+- [[latest/6edb9e1002ba11e9a5eaf2cd290f1944|Lietuvos Respublikos civilinio kodekso 2.10-1 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.10-1 straipsnio pakeitimo įstatymas
+- [[latest/473c12b08eb811eea5a28c81c82193a8|Lietuvos Respublikos civilinio kodekso 2.104 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.104 straipsnio pakeitimo įstatymas
+- [[latest/d46cdc201fd411e586708c6593c243ce|Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas
+- [[latest/228619e048f511e6b5d09300a16a686c|Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.50 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.50 straipsnių pakeitimo įstatymas
+- [[latest/fdf26ea0c75611ea997c9ee767e856b4|Lietuvos Respublikos civilinio kodekso 2.137, 2.138, 2.138-1, 2.143, 2.144, 2.145, 2.146, 2.148, 2.178, 2.181 ir 2.184 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.137, 2.138, 2.138-1, 2.143, 2.144, 2.145, 2.146, 2.148, 2.178, 2.181 ir 2.184 straipsnių pakeitimo įstatymas
+- [[latest/a5db9e82040311edb32c9f9d8ba206f8|Lietuvos Respublikos civilinio kodekso 2.138 ir 5.28 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.138 ir 5.28 straipsnių pakeitimo įstatymas
+- [[latest/TAR.EE1AB9BB8A3C|Lietuvos Respublikos civilinio kodekso 2.1381, 2.139, 2.140, 2.147 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - Įstatymas Nr. XII-432
+- [[latest/c8f99da0a00911e58fd1fc0b9bba68a7|Lietuvos Respublikos civilinio kodekso 2.18, 2.19, 3.8, 3.18, 3.24, 3.37, 3.66, 3.138, 3.139, 3.140, 3.142, 3.143, 3.144, 3.145, 3.147, 3.152, 3.157, 3.167, 3.220, 4.255 straipsnių pakeitimo, 3.19, 3.20, 3.21, 3.22, 3.23, 3.25 straipsnių ir Kodekso trečiosios knygos VIII dalies pripažinimo netekusiais galios įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.18, 2.19, 3.8, 3.18, 3.24, 3.37, 3.66, 3.138, 3.139, 3.140, 3.142, 3.143, 3.144, 3.145, 3.147, 3.152, 3.157, 3.167, 3.220, 4.255 straipsnių pakeitimo, 3.19, 3.20, 3.21, 3.22, 3.23, 3.25 straipsnių ir Kodekso trečiosios knygos VIII dalies pripažinimo netekusiais galios įstatymas
+- [[latest/9d43fa82034811edb32c9f9d8ba206f8|Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas
+- [[latest/16d01510004111e88bcec397524184ce|Lietuvos Respublikos civilinio kodekso 2.33 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.33 straipsnio pakeitimo įstatymas
+- [[latest/TAR.901C06D044F3|Lietuvos Respublikos civilinio kodekso 2.33 straipsnio papildymo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 2.33 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.22C0D8445449|Lietuvos Respublikos civilinio kodekso 2.38 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-881
+- [[latest/TAR.CAB6E270694C|Lietuvos Respublikos civilinio kodekso 2.38 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-365
+- [[latest/TAR.11DC9290BF54|Lietuvos Respublikos civilinio kodekso 2.44 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 2.44 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.93F517840553|Lietuvos Respublikos civilinio kodekso 2.44, 5.31, 5.33 ir 6.991 straipsnių pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 2.44, 5.31, 5.33 IR 6.991 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/c34aa2c02d7911e69cf5d89a5fdd27cc|Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas
+- [[latest/3865cfd01e5311ef8b14c5bcce136045|Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2. 57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2. 57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymas
+- [[latest/bec3b4a049c011efbdaea558de59136c|Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2.57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymo Nr. XIV-2630 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2912
+- [[latest/cda72080126011e4adf3c8c5d7681e73|Lietuvos Respublikos civilinio kodekso 2.46, 2.66, 2.70, 2.75, 2.106 ir 2.108 straipsnių pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 2.46, 2.66, 2.70, 2.75, 2.106 IR 2.108 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/fd7fae7059ba11e487eff7b424bd0f08|Lietuvos Respublikos civilinio kodekso 2.46, 2.66, 2.70, 2.75, 2.106 ir 2.108 straipsnių pakeitimo įstatymo Nr. XII-1064 3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1225
+- [[latest/6302cd50acdd11eba871a26c1fc3fbc1|Lietuvos Respublikos civilinio kodekso 2.54, 2.64, 2.71, 2.72 straipsnių ir priedo pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.54, 2.64, 2.71, 2.72 straipsnių ir priedo pakeitimo įstatymas
+- [[latest/4d00dc20659311e8ac27abd8fa093003|Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1185
+- [[latest/effe700036d811efbdaea558de59136c|Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2825
+- [[latest/5fac2150dfab11eb9f09e7df20500045|Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-454
+- [[latest/fe9c41f0082c11edb4cae1b158f98ea5|Lietuvos Respublikos civilinio kodekso 2.70 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1385
+- [[latest/57c08112a8b711ef90b5ee8931e5ce5e|Lietuvos Respublikos civilinio kodekso 2.70 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3146
+- [[latest/bab6094098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos civilinio kodekso 2.70, 2.106, 6.410, 6.572 ir 6.765 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.70, 2.106, 6.410, 6.572 ir 6.765 straipsnių pakeitimo įstatymas
+- [[latest/c25f699002b011e49c45b5946a668bf8|Lietuvos Respublikos civilinio kodekso 2.71 straipsnio ir priedo pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 2.71 STRAIPSNIO IR PRIEDO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.570E251873D3|Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-485
+- [[latest/f221db80e3f411e7b3f0a470b0373cb2|Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-850
+- [[latest/244a0730a80b11ebbcbbc2971cdac3cb|Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-242
+- [[latest/3f0eab50a0a711ea9515f752ff221ec9|Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas
+- [[latest/9123a500d41a11e7910a89ac20768b0f|Lietuvos Respublikos civilinio kodekso 2.87 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 2.87 straipsnio pakeitimo įstatymas
+- [[latest/TAR.04AC90EE8FF4|Lietuvos Respublikos civilinio kodekso 3.14 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 3.14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/050d1c20034711edb32c9f9d8ba206f8|Lietuvos Respublikos civilinio kodekso 3.142, 3.143 ir 4.197 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.142, 3.143 ir 4.197 straipsnių pakeitimo įstatymas
+- [[latest/ccc818e01ac311e79800e8266c1e5d1b|Lietuvos Respublikos civilinio kodekso 3.172, 3.176, 3.180, 3.183, 3.210, 3.212, 3.217, 3.219,  3.222, 3.223,  3.224, 3.243, 3.249, 3.250, 3.252, 3.253, 3.254, 3.256,  3.257, 3.262, 3.264, 3.265, 3.266, 3.267, 3.269, 3.271, 3.274 straipsnių pakeitimo ir Kodekso papildymo 3.276-1 straipsniu įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.172, 3.176, 3.180, 3.183, 3.210, 3.212, 3.217, 3.219, 3.222, 3.223, 3.224, 3.243, 3.249, 3.250, 3.252, 3.253, 3.254, 3.256, 3.257, 3.262, 3.264, 3.265, 3.266, 3.267, 3.269, 3.271, 3.274 straipsnių pakeitimo ir Kodekso papildymo 3.276-1 straipsniu įstatymas
+- [[latest/9cc37250abdf11e6b844f0f29024f5ac|Lietuvos Respublikos civilinio kodekso 3.183 ir 4.236 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.183 ir 4.236 straipsnių pakeitimo įstatymas
+- [[latest/TAR.6CA15F16BB32|Lietuvos Respublikos civilinio kodekso 3.194 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 3.194 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/dd9b4802d9b311f08918e1adc7c5b1ec|Lietuvos Respublikos civilinio kodekso 3.204 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.204 straipsnio pakeitimo įstatymas
+- [[latest/6a0a68806d2411ec993ff5ca6e8ba60c|Lietuvos Respublikos civilinio kodekso 3.210, 3.224, 3.246, 3.250, 3.253, 3.254, 3.254-1, 3.257, 3.261, 3.262, 3.264, 3.268, 3.269 ir 3.276-1 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.210, 3.224, 3.246, 3.250, 3.253, 3.254, 3.254-1, 3.257, 3.261, 3.262, 3.264, 3.268, 3.269 ir 3.276-1 straipsnių pakeitimo įstatymas
+- [[latest/7ecb0d00cecc11ed9978886e85107ab2|Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262, 3.264 ir 3.266 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262, 3.264 ir 3.266 straipsnių pakeitimo įstatymas
+- [[latest/a96fafc0af5611ec8d9390588bf2de65|Lietuvos Respublikos civilinio kodekso 3.242 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.242 straipsnio pakeitimo įstatymas
+- [[latest/f7b48e4029a511eb932eb1ed7f923910|Lietuvos Respublikos civilinio kodekso 3.249 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.249 straipsnio pakeitimo įstatymas
+- [[latest/bb312630261411e5bf92d6af3f6a2e8b|Lietuvos Respublikos civilinio kodekso 3.249, 3.253 ir 3.261 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.249, 3.253 ir 3.261 straipsnių pakeitimo įstatymas
+- [[latest/5fe089e0629911e99676cb74c51fe1f4|Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas
+- [[latest/286ea780263911e5bf92d6af3f6a2e8b|Lietuvos Respublikos civilinio kodekso 3.298, 3.299 ir 3.302 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.298, 3.299 ir 3.302 straipsnių pakeitimo įstatymas
+- [[latest/e1c27480adb611e78a4c904b1afa0332|Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.182, 3.210, 3.212, 3.213, 3.217, 3.218, 3.219, 3.222, 3.224, 3.250, 3.253, 3.254, 3.259, 3.260, 3.261, 3.262, 3.263, 3.264, 3.266, 3.267, 3.268, 3.269, 3.270, 3.271 ir 3.2761 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 3.254-1 straipsniu įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.182, 3.210, 3.212, 3.213, 3.217, 3.218, 3.219, 3.222, 3.224, 3.250, 3.253, 3.254, 3.259, 3.260, 3.261, 3.262, 3.263, 3.264, 3.266, 3.267, 3.268, 3.269, 3.270, 3.271 ir 3.2761 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 3.254-1 straipsniu įstatymas
+- [[latest/7c26b81079f911e8ae2bfd1913d66d57|Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.212, 3.217, 3.219, 3.224, 3.253, 3.254, 3.259, 3.260, 3.261, 3.269 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir Kodekso papildymo 3.254-1 straipsniu įstatymo Nr. XIII-645 pakeitimo įstatymas]] - 5 citatos - įstatymo Nr. XIII-1290
+- [[latest/2e99ff80442211e6bd3bfefc575ccac4|Lietuvos Respublikos civilinio kodekso 3.43, 3.48, 3.53, 3.59, 3.64, 3.65, 3.76, 3.156, 3.157, 3.163, 3.169, 3.170, 3.174, 3.175, 3.178, 3.184 ir 3.190 straipsnių pakeitimo įstatymas]] - 14 citatos - įstatymo Nr. XII-2552
+- [[latest/TAR.C4A5EE23496A|Lietuvos Respublikos civilinio kodekso 3.65 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 3.65 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/57a442a1dfdb11f08918e1adc7c5b1ec|Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 3.211, 3.217, 3.224, 3.243, 3.246, 3.250, 3.260, 3.261, 3.262, 3.264, 3.266 ir 3.269 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 3.211, 3.217, 3.224, 3.243, 3.246, 3.250, 3.260, 3.261, 3.262, 3.264, 3.266 ir 3.269 straipsnių pakeitimo įstatymas
+- [[latest/67ae5c004adf11e4a8328599cac64d82|Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 5.28 ir 6.621 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 5.28 ir 6.621 straipsnių pakeitimo įstatymas
+- [[latest/TAR.A1C25F6211F7|Lietuvos Respublikos civilinio kodekso 4.100 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 4.100 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.89F361BCA548|Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. X-858
+- [[latest/TAR.FE736EB9DE3B|Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-993
+- [[latest/23e94b8012bf11efbcbfb318996800a8|Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2623
+- [[latest/675a5010ca0311f08918e1adc7c5b1ec|Lietuvos Respublikos civilinio kodekso 4.107, 4.109 ir 6.956 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 4.107, 4.109 ir 6.956 straipsnių pakeitimo įstatymas
+- [[latest/TAR.41F8F35A98F3|Lietuvos Respublikos civilinio kodekso 4.127, 4.170, 4.171, 4.172, 4.173, 4.174, 4.175, 4.176, 4.177, 4.178, 4.179, 4.180, 4.181, 4.182, 4.183, 4.184, 4.185, 4.186, 4.187, 4.188, 4.189, 4.190, 4.191, 4.192, 4.193, 4.195, 4.196, 4.197, 4.198, 4.199, 4.200, 4.201, 4.202, 4.204, 4.206, 4.207, 4.209, 4.210, 4.211, 4.212, 4.213, 4.214, 4.216, 4.219, 4.220, 4.221, 4.223, 4.224, 4.225, 4.226, 4.256 straipsnių pakeitimo ir papildymo ir kodekso papildymo 4.192-1, 4.194-1 straipsniais įstatymas]] - 2 citatos - Įstatymas Nr. XI-1842
+- [[latest/869e0f202e2311eabe008ea93139d588|Lietuvos Respublikos civilinio kodekso 4.173, 4.177 straipsnių, ketvirtosios knygos II dalies XI skyriaus antrojo skirsnio, 4.184, 4.189 straipsnių, ketvirtosios knygos II dalies XI skyriaus ketvirtojo ir penktojo skirsnių, 4.207, 4.209, 4.210, 4.212, 4.213, 4.223, 4.224, 4.225, 6.104, 6.561 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 4.173, 4.177 straipsnių, ketvirtosios knygos II dalies XI skyriaus antrojo skirsnio, 4.184, 4.189 straipsnių, ketvirtosios knygos II dalies XI skyriaus ketvirtojo ir penktojo skirsnių, 4.207, 4.209, 4.210, 4.212, 4.213, 4.223, 4.224, 4.225, 6.104, 6.561 straipsnių pakeitimo įstatymas
+- [[latest/8eb069f002ac11edb32c9f9d8ba206f8|Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straipsnių pakeitimo įstatymas
+- [[latest/640d6df01d7d11e9875cdc20105dd260|Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas
+- [[latest/TAR.4F70706E42FE|Lietuvos Respublikos civilinio kodekso 4.82, 4.83, 4.84, 4.85 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 4.82, 4.83, 4.84, 4.85 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/212986e0037511edb32c9f9d8ba206f8|Lietuvos Respublikos civilinio kodekso 4.84 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1356
+- [[latest/7bcde7c012bf11efbcbfb318996800a8|Lietuvos Respublikos civilinio kodekso 4.84 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2624
+- [[latest/c33dc14024ab11e5b336e9064144f02a|Lietuvos Respublikos civilinio kodekso 5.50, 5.57 ir 5.63 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 5.50, 5.57 ir 5.63 straipsnių pakeitimo įstatymas
+- [[latest/d8537f2055ce11f0b070ee7f1ceefc75|Lietuvos Respublikos civilinio kodekso 5.53 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 5.53 straipsnio pakeitimo įstatymas
+- [[latest/TAR.43E303BF04A7|Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-1710
+- [[latest/b7181950197711e4b542dec0b12e28b0|Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1049
+- [[latest/eafe76b098f611e58fd1fc0b9bba68a7|Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2065
+- [[latest/TAR.AFD9AA64CA0B|Lietuvos Respublikos civilinio kodekso 6.188 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 6.188 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/f77ecfd0ac9011e6b844f0f29024f5ac|Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-5, 6.228-6, 6.228-7, 6.228-9, 6.228-10, 6.228-11 ir 6.228-12 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-5, 6.228-6, 6.228-7, 6.228-9, 6.228-10, 6.228-11 ir 6.228-12 straipsnių pakeitimo įstatymas
+- [[latest/bdf251206d2311ec993ff5ca6e8ba60c|Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-6, 6.228-7, 6.228-8, 6.228-10, 6.228-11 straipsnių ir priedo pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-6, 6.228-7, 6.228-8, 6.228-10, 6.228-11 straipsnių ir priedo pakeitimo įstatymas
+- [[latest/4a42dff084d411e8ae2bfd1913d66d57|Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas
+- [[latest/8ec71db24cde11f0b070ee7f1ceefc75|Lietuvos Respublikos civilinio kodekso 6.228-3, 6.228-7, 6.228-10 straipsnių ir priedo pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.228-3, 6.228-7, 6.228-10 straipsnių ir priedo pakeitimo įstatymas
+- [[latest/3fe28730c68111e69dec860c1f4a5372|Lietuvos Respublikos civilinio kodekso 6.228-5, 6.228-13, 6.353, 6.362, 6.363 straipsnių pakeitimo ir Kodekso papildymo 6.358-1 straipsniu įstatymas]] - 6 citatos - įstatymo Nr. XIII-64
+- [[latest/23dadd6091e011eb9fecb5ecd3bd711c|Lietuvos Respublikos civilinio kodekso 6.353 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.353 straipsnio pakeitimo įstatymas
+- [[latest/515e68508b8d11e6b969d7ae07280e89|Lietuvos Respublikos civilinio kodekso 6.410, 6.427 ir 6.863 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.410, 6.427 ir 6.863 straipsnių pakeitimo įstatymas
+- [[latest/TAR.123EE1A47D7A|Lietuvos Respublikos civilinio kodekso 6.470 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 6.470 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/cd037bb2913011efa605b9842742bf37|Lietuvos Respublikos civilinio kodekso 6.476 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.476 straipsnio pakeitimo įstatymas
+- [[latest/TAR.7E58E9390219|Lietuvos Respublikos civilinio kodekso 6.546 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 6.546 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.54CDD4E39C9B|Lietuvos Respublikos civilinio kodekso 6.548 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 6.548 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/2f16cd00ddb511e48b678a6bad30f55f|Lietuvos Respublikos civilinio kodekso 6.623 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.623 straipsnio pakeitimo įstatymas
+- [[latest/f9f8f2f048f811e6b5d09300a16a686c|Lietuvos Respublikos civilinio kodekso 6.696, 6.697 ir 6.698 straipsnių pakeitimo įstatymas]] - 6 citatos - Lietuvos Respublikos civilinio kodekso 6.696, 6.697 ir 6.698 straipsnių pakeitimo įstatymas
+- [[latest/27a05aa046b711e8ade598b2394a491d|Lietuvos Respublikos civilinio kodekso 6.744 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.744 straipsnio pakeitimo įstatymas
+- [[latest/e8815f305ea911edbc04912defe897d1|Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752, 6.752-1, 6.753, 6.754, 6.754-1, 6.755 straipsnių pakeitimo įstatymas
+- [[latest/TAR.2AFAF6A54E09|Lietuvos Respublikos civilinio kodekso 6.750, 6.751, 6.754, 6.865 straipsnių papildymo ir pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO 6.750, 6.751, 6.754, 6.865 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/c9807770855711eab005936df725feed|Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2863
+- [[latest/f9e9b850a19e11ea9515f752ff221ec9|Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2956
+- [[latest/7f8261b05cb111eb9dc7b575f08e8bea|Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-168
+- [[latest/TAR.E11F2C08FF7C|Lietuvos Respublikos civilinio kodekso 6.886 straipsnio pakeitimo ir 6.887, 6.888, 6.889, 6.890, 6.891 straipsnių pripažinimo netekusiais galios įstatymas]] - 4 citatos - CIVILINIO KODEKSO 6.886 STRAIPSNIO PAKEITIMO IR 6.887, 6.888, 6.889, 6.890, 6.891 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+- [[latest/90e42e00ac9011e6b844f0f29024f5ac|Lietuvos Respublikos civilinio kodekso 6.895, 6.896 straipsnių pakeitimo ir Kodekso papildymo 6.895-1 straipsniu įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.895, 6.896 straipsnių pakeitimo ir Kodekso papildymo 6.895-1 straipsniu įstatymas
+- [[latest/TAR.88CC8DFF10C7|Lietuvos Respublikos civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-239
+- [[latest/0a3630a090c811e4bb408baba2bdddf3|Lietuvos Respublikos civilinio kodekso 6.927 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.927 straipsnio pakeitimo įstatymas
+- [[latest/0f4991d0fdf411ec8fa7d02a65c371ad|Lietuvos Respublikos civilinio kodekso 6.929 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.929 straipsnio pakeitimo įstatymas
+- [[latest/0d2409e043e911edbc04912defe897d1|Lietuvos Respublikos civilinio kodekso 6.978 straipsnio pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos civilinio kodekso 6.978 straipsnio pakeitimo įstatymas
+- [[latest/f1a30bf0778f11e3996afa27049d9d4e|Lietuvos Respublikos civilinio kodekso pakeitimo ir papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/281276c0f55911e39cfacd978b6fd9bb|Lietuvos Respublikos civilinio kodekso pakeitimo ir papildymo įstatymo Nr. XII-700 4 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-916
+- [[latest/e91c2ee0df7a11e48b678a6bad30f55f|Lietuvos Respublikos civilinio kodekso pakeitimo įstatymas]] - 6 citatos - įstatymo Nr. XII-1566
+- [[latest/65d40480a25d11e58fd1fc0b9bba68a7|Lietuvos Respublikos civilinio kodekso pakeitimo įstatymo Nr. XII-1566 72 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2126
+- [[latest/TAR.C428C49E6FBA|Lietuvos Respublikos civilinio kodekso papildymo 2.11-1, 2.138-1 straipsniais ir 2.147 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-1031
+- [[latest/TAR.8FB01DE59B87|Lietuvos Respublikos civilinio kodekso papildymo 3.192-1 straipsniu ir 3.194 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-396
+- [[latest/TAR.1C76822FA138|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo 11 straipsnio pakeitimo įstatymas]] - 4 citatos - CIVILINIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/4ee0a3b0126111e4adf3c8c5d7681e73|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 16 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1066
+- [[latest/f5565df024a511e5b336e9064144f02a|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 21 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1881
+- [[latest/1ccd9a00a01211e58fd1fc0b9bba68a7|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 21 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2125
+- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Lietuvos Respublikos elektroninių ryšių įstatyme
+- [[latest/TAR.291FFED8D558|Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas]] - 2 citatos - Finansinio užtikrinimo susitarimų įstatymas
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - 2 citatos - Lietuvos Respublikos juridinių asmenų nemokumo įstatyme
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 4 citatos - Lietuvos Respublikos konkurencijos įstatyme
+- [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 4 citatos - Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
+- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - 4 citatos - Notariato įstatymo
+- [[latest/28204f7002ac11edb32c9f9d8ba206f8|Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymas]] - 2 citatos - Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo
+- [[latest/TAR.38B0127A21E8|Lietuvos Respublikos prekybinės laivybos įstatymas]] - 2 citatos - Prekybinės laivybos įstatyme
+- [[latest/TAR.F0E2E67B1F2F|Lietuvos Respublikos turizmo įstatymas]] - 7 citatos - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.9E28E8E2F3F3|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - 2 citatos - Lietuvos Respublikos turto arešto aktų registro įstatyme
+- [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 4 citatos - Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatyme
+- [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas]] - 4 citatos - Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.67B5099C5848#^s-16fb6aeceb9b474c7ff3ff40|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.67B5099C5848#^s-7c83bba03d1654c2930e57b0|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Civilinis kodeksas
+- [[latest/bd7df33032e011e69cf5d89a5fdd27cc#^s-05d053e48f21c9e2ffc57ca7|Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/bd7df33032e011e69cf5d89a5fdd27cc#^s-6ef49919e3b67363d370ec35|Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E22116F1B0E0#^s-1bae83349b9d22ace19e966d|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E22116F1B0E0#^s-2c491b7b57e4cee1b2f49ab3|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E22116F1B0E0#^s-57c0b68de87fb40d556a8206|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E22116F1B0E0#^s-64537f93c6d362396660f218|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E22116F1B0E0#^s-7436a568a68ac527515ac4f9|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E22116F1B0E0#^s-fb903e8fd7325e2a6634cda6|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.26CE87C19C05#^s-26347bb50f1ae20bbb212211|Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.26CE87C19C05#^s-c4aefe07aa413a2d0b91d902|Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E9DC13B87509#^s-77a78cf2f1d9696817818666|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E9DC13B87509#^s-80fefc9db9c45095c2b8786b|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/749d9080ebe911e78a1adea6fe72f3c5#^s-c40dea20f73f51bfe696ec3c|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymo Nr. XI-1906 2 ir 4 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/8369b610f77e11e39cfacd978b6fd9bb#^s-33ee8b66c7fec47189a98008|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymo Nr. XI-1906 4 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6EDFAB619E76#^s-4b942544be23e7ed689d2b06|Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 7, 11, 12, 16, 17, 18, 26, 29, 33, 35 straipsnių pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6EDFAB619E76#^s-95ccfed7318b0b4ad7bd8e35|Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 7, 11, 12, 16, 17, 18, 26, 29, 33, 35 straipsnių pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.65C0438E6F29#^s-490484e99bfe39a45f16a385|Lietuvos Respublikos alkoholio kontrolės įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.65C0438E6F29#^s-ecd467e1c81c28a0c2152d9e|Lietuvos Respublikos alkoholio kontrolės įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.FF00B0EA2F0E#^s-3628962bd925996a9f37aaac|Lietuvos Respublikos asociacijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.FF00B0EA2F0E#^s-8f51ede773671f0f099ff021|Lietuvos Respublikos asociacijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8D38517814F1#^s-2b22d1dd7721a84032e1ffc9|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8D38517814F1#^s-88b7a13e76ff9040d1be74d2|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Civilinis kodeksas
+- [[latest/64676d00e46d11eb9f09e7df20500045#^s-22d58b646789edddb6faf7da|Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 10 ir 11 straipsnių pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/64676d00e46d11eb9f09e7df20500045#^s-63abe96cc04b9278c638af4d|Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 10 ir 11 straipsnių pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/a422fe80dda211ec8d9390588bf2de65#^s-90cadd02fc2de476dbd50dc7|Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4-2 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/a422fe80dda211ec8d9390588bf2de65#^s-d5a83766a27f4b0316ddf35e|Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4-2 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.201E1709BED5#^s-14ae4409f9edb5bd0fe8520f|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.A0823B2019D7#^s-1f5a38125614a842dfbc0eb6|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.A0823B2019D7#^s-633f51c8f6e4957f2437040a|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.201E1709BED5#^s-9dda48e682ae1f8d251dbdfe|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7DE5B8AD5D5B#^s-16a2df1124e91f6dd9eb0e0b|Lietuvos Respublikos augalų veislių apsaugos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7DE5B8AD5D5B#^s-498fbfc279becfc278805221|Lietuvos Respublikos augalų veislių apsaugos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.CAE1404D088E#^s-b5ee84a3a57666cdd738c16c|Lietuvos Respublikos augalų veislių apsaugos įstatymo 1, 2, 4, 5, 18, 19, 24, 26, 29, 37 straipsnių, dešimtojo skirsnio pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.CAE1404D088E#^s-d08e62d99bbac57768385d65|Lietuvos Respublikos augalų veislių apsaugos įstatymo 1, 2, 4, 5, 18, 19, 24, 26, 29, 37 straipsnių, dešimtojo skirsnio pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.551F0CDE5B64#^s-3644a169daa51e23281b9d24|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.551F0CDE5B64#^s-e9b53e251eb4fcbf54aacc6c|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D67BA8474C1F#^s-0c7ffa9294f242920361337c|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 40, 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 straipsnių, VI skyriaus ir priedo pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D67BA8474C1F#^s-55694d3d4cddce7bd2dc3c43|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 40, 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 straipsnių, VI skyriaus ir priedo pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.674960C67DAC#^s-5dad43350a0968cdad8011a1|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.674960C67DAC#^s-b7a877f061a1cde7de684ea8|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B6B636C7384A#^s-72ec04be32d50973d50a1656|Lietuvos Respublikos bankų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B6B636C7384A#^s-b0ca78663447ce460a864989|Lietuvos Respublikos bankų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.A0A0CCC6B997#^s-04c06553a39f0830453ef838|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.A0A0CCC6B997#^s-0d25d4edc7123e5a102b182e|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.A0A0CCC6B997#^s-1ea9bf711a698c728fc97af5|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.A0A0CCC6B997#^s-4af748ba7d4db518ae33a91c|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.A0A0CCC6B997#^s-df830fb3d7cc423bcf906630|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - Civilinis kodeksas
+- [[latest/4af3eb40636e11e58e1ab2c84776483b#^s-839bd8089b149570e679c09b|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/4af3eb40636e11e58e1ab2c84776483b#^s-be1833378ce1a36de6861734|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.03A6EC49D1B2#^s-211ea511323762624ff772c9|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.03A6EC49D1B2#^s-ca634c5101790b506845eed0|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6286F15970B3#^s-7a45a5d7f84e9face299c831|Lietuvos Respublikos branduolinės energijos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6286F15970B3#^s-a5f41fe2896d960f7edd475c|Lietuvos Respublikos branduolinės energijos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6DED3E902AB3#^s-2bcc4b8ca150e0aaea9da576|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6DED3E902AB3#^s-a8adf9a36acfbe6a185bbdd3|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.29EEB33AFCD0#^s-01757e18c2b10aed5ab307c3|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.29EEB33AFCD0#^s-3ca491d3c3db1088fb9c39a3|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.29EEB33AFCD0#^s-4d42407fa0c97a896d8eb546|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.29EEB33AFCD0#^s-eed263f8a0cbe03d20764c88|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - Civilinis kodeksas
+- [[latest/8064e77048f611e6b5d09300a16a686c#^s-0c936f8094b2026f5c9097bc|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/8064e77048f611e6b5d09300a16a686c#^s-610fc06e3e0f37238da4fc44|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/8064e77048f611e6b5d09300a16a686c#^s-8474be1f082c527b7dd49712|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/8064e77048f611e6b5d09300a16a686c#^s-b822a45982fd6cb5a6e3f1e8|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.816EAAB9F0CD#^s-08fd5b966bf5954fe72314a3|Lietuvos Respublikos centrinės kredito unijos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.816EAAB9F0CD#^s-a67885357a6b482ebae5fd16|Lietuvos Respublikos centrinės kredito unijos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C713BCA9525D#^s-150f2b8b8b86a09db63caf84|Lietuvos Respublikos civilinio proceso kodekso 542, 543, 544, 545, 551, 554, 566, 715, 744, 745, 746, 747 straipsnių pakeitimo ir papildymo ir 546, 547, 548, 549, 550, 552, 553, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 567, 568, 569 straipsnių pripažinimo netekusiais galios įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.2E7C18F61454#^s-5abf044acc1e5a726a78357f|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.2E7C18F61454#^s-e2babe9eeb8e9627b8883e81|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Civilinis kodeksas
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-0d77c6433d09ce1c84329898|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-dc0b05224862811c9268a342|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.0EC89509170B#^s-0dc050e88f828de701d65317|Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0EC89509170B#^s-622566d417de776609b3557f|Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.18D8FA977A2E#^s-21a9de720f595a1ed8307bec|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir Daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.18D8FA977A2E#^s-3cb1fdd72db3f9955268a58a|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir Daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.18D8FA977A2E#^s-503eaa127bab491436ff771c|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir Daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.18D8FA977A2E#^s-5ce9a185d83a8b747a087c14|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir Daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.37BBE6F953CC#^s-1d1dffc1be7aa9eda27b9347|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.37BBE6F953CC#^s-38f3f33fcf0881ad1f99ebcb|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.13BA31BA9E61#^s-2795dbd8d9e2bb5b6faffab9|Lietuvos Respublikos dizaino įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.13BA31BA9E61#^s-a12e9c9c45ca18ec70e06ec8|Lietuvos Respublikos dizaino įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B5EEEA708EA2#^s-f8133ef7a831132505416abf|Lietuvos Respublikos dizaino įstatymo aštuntojo skirsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B5EEEA708EA2#^s-f9233515c27e903dfc4243bf|Lietuvos Respublikos dizaino įstatymo aštuntojo skirsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8447F63760E9#^s-2de35b230fcb855165c662a9|Lietuvos Respublikos draudimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8447F63760E9#^s-4068d563a4de6e180c125d7a|Lietuvos Respublikos draudimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8447F63760E9#^s-6a6005aa0de09c843cd006c1|Lietuvos Respublikos draudimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8447F63760E9#^s-a188a6837ca914c0e9f5b389|Lietuvos Respublikos draudimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7FE50D845019#^s-0c60b0b376175cd997e12045|Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7FE50D845019#^s-3ab2fff9346d703cfda9e959|Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7FE50D845019#^s-4b88afc20800489f29f6605c|Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7FE50D845019#^s-fa73be4df9f1b970fe806cdb|Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/77503a101ac711e79800e8266c1e5d1b#^s-2272a7b142bd5a92a8ce4d0d|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 75 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 75-1, 75-2 straipsniais įstatymas]] - Civilinis kodeksas
+- [[latest/77503a101ac711e79800e8266c1e5d1b#^s-d9cdb59a139a15e1fb11ba7c|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 75 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 75-1, 75-2 straipsniais įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.44235B485568#^s-bfb2a61d54beb8ade8078188|Lietuvos Respublikos energetikos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.44235B485568#^s-e589fb209807ba0211e5af13|Lietuvos Respublikos energetikos įstatymas]] - Civilinis kodeksas
+- [[latest/ce8d454084d711e8ae2bfd1913d66d57#^s-4e0aa32ebc3ebd1fc2d1e004|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 21, 22, 28 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/ce8d454084d711e8ae2bfd1913d66d57#^s-56b7db4743adb703904e8d27|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 21, 22, 28 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/4eb521c0ad3b11e98451fa7b5933515d#^s-a03c98f445118d9978d6ba94|Lietuvos Respublikos Europos politinių partijų ir Europos politinių fondų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/4eb521c0ad3b11e98451fa7b5933515d#^s-f12b5b8e79de752ff3ffd080|Lietuvos Respublikos Europos politinių partijų ir Europos politinių fondų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.291FFED8D558#^s-e601304c3d4d98e277cb3c6c|Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.291FFED8D558#^s-e6a4d11008b8258ca860a4f5|Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.70843C3D3D9E#^s-0a35ac405c3bfd7fced092e7|Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.70843C3D3D9E#^s-0b438d6104d003f455107cb0|Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.779892D853B4#^s-7d8bf6efa910384a896b855a|Lietuvos Respublikos finansų įstaigų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/ea595760697011eca9ac839120d251c4#^s-38b9e6e07069f741b381873f|Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.4CF08CA2BA45#^s-48ce8fa141f2de481c7cdb31|Lietuvos Respublikos fizinių asmenų bankroto įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4CF08CA2BA45#^s-b1164a0a625390f7d79c29bb|Lietuvos Respublikos fizinių asmenų bankroto įstatymas]] - Civilinis kodeksas
+- [[latest/9ecc4bb0aee911e5b12fbb7dc920ee2c#^s-0860e40b970fa16cd038c0b4|Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir 29 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/9ecc4bb0aee911e5b12fbb7dc920ee2c#^s-fbfc5425b4cba2963a1f0091|Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir 29 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0C5C33AA865C#^s-8fd65921e8058722a036ac99|Lietuvos Respublikos gamtinių dujų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0C5C33AA865C#^s-9b69c301db340a22c2275e8b|Lietuvos Respublikos gamtinių dujų įstatymas]] - Civilinis kodeksas
+- [[latest/db854d901ac711e79800e8266c1e5d1b#^s-68085390c00d321f0c6c5151|Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20  straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas]] - Civilinis kodeksas
+- [[latest/db854d901ac711e79800e8266c1e5d1b#^s-e451311ae9ce3d28ee8163c5|Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20  straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas]] - Civilinis kodeksas
+- [[latest/f6f991a041d111e6a8ae9e1795984391#^s-0ca8c00f371b9bfb18b7607f|Lietuvos Respublikos geležinkelių transporto kodekso 3, 4, 4-1, 7, 11, 14, 23, 24, 25, 28, 29 straipsnių, priedo pakeitimo ir Kodekso papildymo 6-1, 7-1 straipsniais, ketvirtuoju-1 skirsniu įstatymas]] - Civilinis kodeksas
+- [[latest/f6f991a041d111e6a8ae9e1795984391#^s-b8f3bb3e1acafafd235eb879|Lietuvos Respublikos geležinkelių transporto kodekso 3, 4, 4-1, 7, 11, 14, 23, 24, 25, 28, 29 straipsnių, priedo pakeitimo ir Kodekso papildymo 6-1, 7-1 straipsniais, ketvirtuoju-1 skirsniu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6EA8AC8A483B#^s-11ee3bca4e1d820f2a11ec11|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.6EA8AC8A483B#^s-a9b0143d7c9850e0bea5a8d8|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Civilinis kodeksas
+- [[latest/7d4c6120f62411e39cfacd978b6fd9bb#^s-c5d2325a3c59f0389f5da65e|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/7d4c6120f62411e39cfacd978b6fd9bb#^s-d5f7dd3c5ded4d54953ca2b9|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/866bd72090cc11e4bb408baba2bdddf3#^s-2962755ac31cb4d1ebbfcfef|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2 ir 18 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/889672c07c4c11e8ae2bfd1913d66d57#^s-9de380b3c1128f4730ff54d3|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8DDDD8D87491#^s-65db5feb9178fb47bba181df|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8DDDD8D87491#^s-e90d21eac642fe2ee231cd96|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.083EC9CC29FD#^s-ab4a9bda5f2cf9939113101d|Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.083EC9CC29FD#^s-bd1d17e2ea74951438250f14|Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.FAB13F21783F#^s-261eca3c8c28e266d180e27c|Lietuvos Respublikos individualių įmonių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.FAB13F21783F#^s-4bfe31fc59d53e2a05a9e73a|Lietuvos Respublikos individualių įmonių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.CFC9E641B5A7#^s-3ba66ed8d5e4ebc74a0cac4b|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.CFC9E641B5A7#^s-7964336e0a58765274d4b3eb|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.BF41D2C35D24#^s-6023a338c7f0dfb096c9cd74|Lietuvos Respublikos kelių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.BF41D2C35D24#^s-8ccb80ae2e499ced59e2f26b|Lietuvos Respublikos kelių įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.37CA8EC066D3#^s-5a0748c71ef37165a4c04a7c|Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.37CA8EC066D3#^s-f680804b2d255be5c8cd1430|Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D66F6A760DE7#^s-ac882b032d9a2ed99b5f0fce|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D66F6A760DE7#^s-f88c46451f27c60158f9cad0|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.9D6BD92444EF#^s-784c56d84bdda5d62c71d43a|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 4, 8, 9, 11, 12, 13, 14, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 33, 34, 36, 38 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.9D6BD92444EF#^s-a57a4153174d22fcc2bb2d05|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 4, 8, 9, 11, 12, 13, 14, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 33, 34, 36, 38 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-4738c02aa760908d26e918be|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-8661386693af471768f84c94|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.1D27F59F611C#^s-03de3350ddbd83a0bad23234|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.1D27F59F611C#^s-929f14c613dc40fd624e71a5|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6A449FCC534B#^s-485aa9ab2d72a686a9c2a786|Lietuvos Respublikos koncesijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.6A449FCC534B#^s-4ca19c30fb6cd0bce7d3af2c|Lietuvos Respublikos koncesijų įstatymas]] - Civilinis kodeksas
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-172d34fa2f7be27ca5b42486|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-a526ee8211c52bafc3feacbe|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-625ac2a9d02f1d6f077efb9b|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - 2 citatos - Civilinis kodeksas
+- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-831d218545b0202037cf7d1a|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - 2 citatos - Civilinis kodeksas
+- [[latest/0c3d33b0126211e4adf3c8c5d7681e73#^s-76a9c355a4d50f9c99092630|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 21 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/0c3d33b0126211e4adf3c8c5d7681e73#^s-f9f734940ff3f018bea40d70|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 21 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.2F62A0733F8E#^s-483082994a3a338bd8819042|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.2F62A0733F8E#^s-c5917e98db25f648de3d11cc|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/461b0ed049a311efbdaea558de59136c#^s-c87d8134027a786068bc28d8|Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/461b0ed049a311efbdaea558de59136c#^s-c8b961bd1f0251ddf53bc213|Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.DE0B1FF26D01#^s-8deca462cc85d1de4ce2a215|Lietuvos Respublikos kredito unijų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.DE0B1FF26D01#^s-951e163ff7784ae00a1b9fdb|Lietuvos Respublikos kredito unijų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/caf5cd4048f611e6b5d09300a16a686c#^s-77b7cd324a859ea3ad29bf4e|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/caf5cd4048f611e6b5d09300a16a686c#^s-b4cd4a1535577c6ff66a8b06|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.DA5DEF72950D#^s-16938262817e6e0128ebf78c|Lietuvos Respublikos kredito unijų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.DA5DEF72950D#^s-1cd00962e5a68da2d8472b5e|Lietuvos Respublikos kredito unijų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.161CE95D588B#^s-b665e3151e5351a01ba0fa48|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.161CE95D588B#^s-eaf15ead8af4227c2e116a05|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/c7c5b620ebe911e78a1adea6fe72f3c5#^s-47b5a769908bcbdf9a525222|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 2 ir 4 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/b9270910f77e11e39cfacd978b6fd9bb#^s-51a0ddd61b6645c274b98291|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 4 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C5EBFFF409BF#^s-5b0aeec5d1ea3d3b038d05ea|Lietuvos Respublikos labdaros ir paramos fondų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C7D6B7141B5A#^s-cc64dd2b81efba0e6b3fa7b9|Lietuvos Respublikos labdaros ir paramos fondų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C7D6B7141B5A#^s-db6a405bd4893d9e6b862b65|Lietuvos Respublikos labdaros ir paramos fondų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E79004684F4D#^s-187115d0e174ca1a1a4a0cd6|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.E79004684F4D#^s-8558049e5060ece0ff59343a|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.B5ABB4E0C447#^s-6e09aef3a710112e2537190e|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B5ABB4E0C447#^s-8ca554656295cd0ac3933602|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/152ec230ebea11e78a1adea6fe72f3c5#^s-b542b007c02dc2623b16882b|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 2 ir 4 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/f8ecdf20f77e11e39cfacd978b6fd9bb#^s-16a9e6659ef530cd182faf26|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 4 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.A1FD809510BB#^s-4e909d8ff7292325d2a33599|Lietuvos Respublikos mažųjų bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.A1FD809510BB#^s-61797e30a1b3e4329a3d0036|Lietuvos Respublikos mažųjų bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.CB9B34EA4BA1#^s-0a4ea76bde0f416b48c46e85|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Civilinis kodeksas
+- [[latest/ae5ebdb0ac0411e6b844f0f29024f5ac#^s-95bdb81300676ea345f53820|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 3 ir 4 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.104DE38B4E45#^s-db9e82e8379f02ce6ae840cd|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.5D6D055CC00C#^s-208d5e4305faa46b4149b770|Lietuvos Respublikos miškų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.5D6D055CC00C#^s-e9ed2f3cb4945ed5fc0a02cc|Lietuvos Respublikos miškų įstatymas]] - Civilinis kodeksas
+- [[latest/059ab250cfa311e3a8ded1a0f5aff0a9#^s-9885a669a7668a58712de901|Lietuvos Respublikos miškų įstatymo Nr. I-671 papildymo 4-1 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/059ab250cfa311e3a8ded1a0f5aff0a9#^s-d1ca7745a917c4f5f6c4eabe|Lietuvos Respublikos miškų įstatymo Nr. I-671 papildymo 4-1 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C595FF45F869#^s-1fbe8e1c50e4879f320b95eb|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C595FF45F869#^s-27d53c3a79d812aad961ad2f|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C595FF45F869#^s-3d23c4b6956b9fa33c3308fa|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C595FF45F869#^s-87243efe162060fce20737d8|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Civilinis kodeksas
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-4920fe95b46d66d50b6ae538|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-546c10cf91eb9e3a42a1eaf0|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-b50e0c8d5b4f3adbf209f28a|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-f94829b459d304723e3019c6|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.926B9B9755A3#^s-44db32fc72aeeb3fe56c1734|Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.926B9B9755A3#^s-6a348c89f848c6a6e06f671f|Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4325B0C38B2F#^s-19ed40f2d057a82287194084|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4325B0C38B2F#^s-c76119a81090fe43ad8afa68|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - Civilinis kodeksas
+- [[latest/325dcd5042b911e6a8ae9e1795984391#^s-09870514d1882c1774400497|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/325dcd5042b911e6a8ae9e1795984391#^s-2bb8a7aae3327b1dcaec4035|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.62BDE4F534B3#^s-1cab0066e43c096e80d8bfdf|Lietuvos Respublikos notariato įstatymo 20, 26, 27, 31, 45, 46, 47, 48, 51 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.02B0D04CFDAD#^s-00de080676aa01a8890f5594|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.02B0D04CFDAD#^s-ae49ff6666f1a9dd9289fb9e|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.1FC6DF4EFB25#^s-3cf52c4898a1ed4dc8971ec6|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.1FC6DF4EFB25#^s-d63e56af1e4313947ce5f559|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/5b1ecfb0ebea11e78a1adea6fe72f3c5#^s-71bff9b3ac297f6007dbc024|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 2 ir 4 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/4c227240f77f11e39cfacd978b6fd9bb#^s-02f82caffe649ae23b3795e8|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 4 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.DDA1BD559D9B#^s-b5c77467fe7eded31e2b3ec4|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.DDA1BD559D9B#^s-bd8b346080b580e5bf03f7ff|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.976C93BAD1B6#^s-15d5a5ca6fda15ddd97a94fe|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AEC9F0069C30#^s-16de2029cecfe58aa7fa28be|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AEC9F0069C30#^s-6f2f0d72d43497f50ab6d86c|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.976C93BAD1B6#^s-73931c197042abe3d1e9486e|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.07786E0929A8#^s-3948b5b47fd2fb5e70604dd5|Lietuvos Respublikos patentų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.07786E0929A8#^s-56d2597a3f1cf8cf0c2d3a45|Lietuvos Respublikos patentų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4079C66E3DE2#^s-401ea4d01ea279f30bf2a178|Lietuvos Respublikos patentų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4079C66E3DE2#^s-dfe5e68386223590e286396a|Lietuvos Respublikos patentų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.8A42ABAEA812#^s-e03fd22279019efb970dd45a|Lietuvos Respublikos patentų įstatymo VII skirsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.314A49F80076#^s-8f4111bf707841338b34057c|Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio, IX-1 skyriaus pavadinimo pakeitimo ir papildymo ir įstatymo papildymo 17-2, 46-2 straipsniais įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.314A49F80076#^s-a3b2ad3b5f90c77963c67bb3|Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio, IX-1 skyriaus pavadinimo pakeitimo ir papildymo ir įstatymo papildymo 17-2, 46-2 straipsniais įstatymas]] - Civilinis kodeksas
+- [[latest/ccd3107090cc11e4bb408baba2bdddf3#^s-64f92e9e1b6f2a4fcf60a22e|Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 ir 31 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.809B60B7B740#^s-61a706cc2ae5b1c4ce86d6f8|Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.809B60B7B740#^s-c897ff835d16ed8e15bbdcf0|Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.3EEE59417F13#^s-0174f13fc7d147e5d27263dd|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.3EEE59417F13#^s-362a45260f29a90cbdf449aa|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AFA734FB8321#^s-29597a1c363cd9152a470ff3|Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AFA734FB8321#^s-2bb0ce52eca6922bedc2c7ea|Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B494EC0B78B0#^s-c458951a12b80b469d6daf71|Lietuvos Respublikos prekių ženklų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.B494EC0B78B0#^s-efe9228edbc3e3a6b366dac3|Lietuvos Respublikos prekių ženklų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.773A1D1B3CB0#^s-25d73ac9800e7e1588366a60|Lietuvos Respublikos prekių ženklų įstatymo dešimtojo skirsnio ir 56 straipsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.773A1D1B3CB0#^s-e902a2065f853dc73039ef6d|Lietuvos Respublikos prekių ženklų įstatymo dešimtojo skirsnio ir 56 straipsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/69c2779002b111e9a5eaf2cd290f1944#^s-51e196ce7e8d3a93d5f7d17e|Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/69c2779002b111e9a5eaf2cd290f1944#^s-746186dafa525ee7eb4cf8ea|Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4AD6D16769AB#^s-2b5c1bfddd2b4a45d472bdde|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 9, 12-1, 13, 14, 15, 25, 28, 31, 40, 46, 53, 58, 68, 71, 71-1, 74, 75, 78, 79, 84, 88-1, 88-2, 91, 95, 116, 117, 118, 119, 121 straipsnių, 2 priedo pakeitimo ir papildymo, XIII skyriaus pavadinimo pakeitimo, 13-1, 91-1 ir 127 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo 119-1 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4AD6D16769AB#^s-ac6fe0f5c801a55558eccd4c|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 9, 12-1, 13, 14, 15, 25, 28, 31, 40, 46, 53, 58, 68, 71, 71-1, 74, 75, 78, 79, 84, 88-1, 88-2, 91, 95, 116, 117, 118, 119, 121 straipsnių, 2 priedo pakeitimo ir papildymo, XIII skyriaus pavadinimo pakeitimo, 13-1, 91-1 ir 127 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo 119-1 straipsniu įstatymas]] - Civilinis kodeksas
+- [[latest/fc6b39b0abd811e6b844f0f29024f5ac#^s-06fc890e63adb71923b61162|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 12-3, 14, 15, 45, 53, 56, 71, 93, 94, 120 ir 121 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/fc6b39b0abd811e6b844f0f29024f5ac#^s-2780cda282cf3d8372138649|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 12-3, 14, 15, 45, 53, 56, 71, 93, 94, 120 ir 121 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AC724525A9B9#^s-1b3e1fe75d11cb8a9a6e3186|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AC724525A9B9#^s-ec4a9d7e11ebc730569440d1|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/4a1c0850ef2f11e4927fda1d051299fb#^s-1e93ed2efe9cdcbe305f8da4|Lietuvos Respublikos privačios detektyvinės veiklos įstatymas]] - Civilinis kodeksas
+- [[latest/4a1c0850ef2f11e4927fda1d051299fb#^s-f777504986b23bb2406ffa5a|Lietuvos Respublikos privačios detektyvinės veiklos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AF66A99A0A20#^s-1040537a98a543c55fb7aa90|Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AF66A99A0A20#^s-a1816ed29c2f0e26e0ce65c0|Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.F4F64EEB2E41#^s-a135ec4e43f50927ee956895|Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 1, 10 straipsnio, VI skyriaus pakeitimo bei papildymo ir Įstatymo papildymo priedu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.F4F64EEB2E41#^s-ab535ff7e83229e98ea5aca8|Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 1, 10 straipsnio, VI skyriaus pakeitimo bei papildymo ir Įstatymo papildymo priedu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.FD474D5CE327#^s-5a3693811a3a75b4d5ab85ee|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.FD474D5CE327#^s-5aa1bd94db9391f07f0daaca|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.647A5214E34A#^s-0c99991568854f207fa7fa2e|Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 17, 18, 20, 21, 27, 28 straipsnių pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.647A5214E34A#^s-ad1bf914822809358ce4d3e4|Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 17, 18, 20, 21, 27, 28 straipsnių pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.F725430A9EF6#^s-a2ef7e168404c8890d16caf2|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.F725430A9EF6#^s-e443cd7b8af2cdf20761d461|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.2CD0E4DDB288#^s-86a01f4101878b6080c4b4f1|Lietuvos Respublikos sveikatos draudimo įstatymo 5, 7, 8, 9, 10, 16, 17, 18, 19, 24, 25, 26, 27, 30, 31, 33, 34, 40, 45 straipsnių pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.2CD0E4DDB288#^s-c4456963d1bc27abea289eeb|Lietuvos Respublikos sveikatos draudimo įstatymo 5, 7, 8, 9, 10, 16, 17, 18, 19, 24, 25, 26, 27, 30, 31, 33, 34, 40, 45 straipsnių pakeitimo ir papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E964CE7A637A#^s-7465ca2de544c24661b2dce2|Lietuvos Respublikos sveikatos sistemos įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-7176e78b782d3013e6c91942|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-de4eaf36fdc1eac373a6ea46|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.26B563184529#^s-a6480c7e7359b78f3983de8d|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.26B563184529#^s-e32abdba02e6929c469c2dcc|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.91F3BE482534#^s-390b98a0e73f08204abd8e2e|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.91F3BE482534#^s-4cdceef1082812b7ae7a414a|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/b9cac8d0052d11e588da8908dfa91cac#^s-57276afb42d5561ea2f31063|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/b9cac8d0052d11e588da8908dfa91cac#^s-c7ad1668d174a243dc227b3b|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.84E248FD708D#^s-0772f6d4963cec91782306f2|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.101328A5921F#^s-31ee9d18f1007ef344ccab20|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.101328A5921F#^s-45b1d64c4cac03b1c3d1460a|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.84E248FD708D#^s-4a71941885156cde7e1466b3|Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C8205E261830#^s-20148bbd6b5e5780345f0206|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C8205E261830#^s-5aaf2c5bf49b36cdae9e31d6|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C8205E261830#^s-84cd3a5901280af4f54ebdff|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.C8205E261830#^s-f92ae6625b7f22db40e78b90|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Civilinis kodeksas
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-00e46febf6acc258f3eaece5|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-1121a306e24d819c520f832f|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-6a1f9f86640d9c1525063f02|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-ecd79901fc57a9aa9ee49804|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-fcea8d88810ca01056771b9e|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-fd393b17c4bffb71079f0010|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/3c3cf3d0af9b11e98451fa7b5933515d#^s-d0534817da6949271554510b|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas]] - Civilinis kodeksas
+- [[latest/dcec0410bb3611e38766a859941f6073#^s-71445c12e137c47fa045484e|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/dcec0410bb3611e38766a859941f6073#^s-be7e62103b966da77cc854ce|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/6a62a4805f4111e4bad5c03f56793630#^s-57142817d406a28864c40ae1|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3, 4, 6, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24 ir 26 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/6a62a4805f4111e4bad5c03f56793630#^s-5893236daec7d6fba03b4b61|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3, 4, 6, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24 ir 26 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/4eff1fc0133311e4adf3c8c5d7681e73#^s-026cae1b5acaea5a50387540|Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/4eff1fc0133311e4adf3c8c5d7681e73#^s-56fe3068b40d34194f7ed9ce|Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.9D04F98F7C14#^s-8a6ede2e6405b4212dd0b6f6|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.9D04F98F7C14#^s-9d4cf40b7cd05d0ad63a33d4|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - Civilinis kodeksas
+- [[latest/759306905b3a11e79198ffdb108a3753#^s-5c3362fdce891fd19e147d1f|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/759306905b3a11e79198ffdb108a3753#^s-d1bbf4d0610302ef9add1c5b|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.496C51E87DE9#^s-271ec202c51ee24b6bdac31e|Lietuvos Respublikos valstybės rezervo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.496C51E87DE9#^s-dc1d430b7aef155a3bc5745c|Lietuvos Respublikos valstybės rezervo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D790096B17EE#^s-69db1b96521b87628fa30fe7|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D790096B17EE#^s-712df779bd2f6a3ca0c3e082|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.D790096B17EE#^s-ac9a37799102356569720e70|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4E795F3A5D6E#^s-29a5c9c7fb474a1e52be4fad|Lietuvos Respublikos vartotojų teisių gynimo įstatymo 1, 2, 4, 30 straipsnių pakeitimo ir papildymo bei įstatymo papildymo devintuoju, dešimtuoju skirsniais ir priedu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.4E795F3A5D6E#^s-415fb09d7d61889a085fe5e0|Lietuvos Respublikos vartotojų teisių gynimo įstatymo 1, 2, 4, 30 straipsnių pakeitimo ir papildymo bei įstatymo papildymo devintuoju, dešimtuoju skirsniais ir priedu įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0B0FDEFFCD5C#^s-0f3560ee43a6f7c1f096f890|Lietuvos Respublikos vartotojų teisių gynimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0B0FDEFFCD5C#^s-59eba3c616dc7572a1016750|Lietuvos Respublikos vartotojų teisių gynimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0B0FDEFFCD5C#^s-eacec8dbb7b665317d91b69b|Lietuvos Respublikos vartotojų teisių gynimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0B0FDEFFCD5C#^s-ee18a7f55f01fae6c376c618|Lietuvos Respublikos vartotojų teisių gynimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.155C67077B8E#^s-0ac637efd23a41a2516be753|Lietuvos Respublikos vertybinių popierių įstatymo 2, 4, 5, 6, 7, 9, 10, 12, 15, 20, 23, 25, 26, 27, 31, 33, 34, 37, 38, 42, 46, 48 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 6-1 straipsniu ir penktuoju-1 skirsniu ir Įstatymo priedo papildymo įstatymas]] - Civilinis kodeksas
+- [[latest/a42ba94099c511e58fd1fc0b9bba68a7#^s-889dab86f51fa99fc2b7b7cb|Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/a42ba94099c511e58fd1fc0b9bba68a7#^s-ad7c5e120ade8586783b97f0|Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AAD38A37BFB9#^s-b1c9fa312107e0341f57f182|Lietuvos Respublikos vertybinių popierių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.AAD38A37BFB9#^s-bb14f65af1f80dcc34b60124|Lietuvos Respublikos vertybinių popierių įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/2180d030800311ec993ff5ca6e8ba60c#^s-46044fa895491591a34207f2|Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 16-2, 18, 19, 21, 22, 22-1, 24-1, 26, 27, 41 straipsnių, septintojo skirsnio ir priedo pakeitimo, Kodekso papildymo 27-1 straipsniu ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/2180d030800311ec993ff5ca6e8ba60c#^s-7893a22636d75237ca8b3b5b|Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 16-2, 18, 19, 21, 22, 22-1, 24-1, 26, 27, 41 straipsnių, septintojo skirsnio ir priedo pakeitimo, Kodekso papildymo 27-1 straipsniu ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/b62702e0133211e4adf3c8c5d7681e73#^s-fe3be18836b9257c5b8d37e2|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.9F0EEBEC3B24#^s-06ec254dbd81bcac20abddab|Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.9F0EEBEC3B24#^s-6950deca27d1845fa3604312|Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymas]] - Civilinis kodeksas
+- [[latest/320a6f10e01011e388bee944977d73d2#^s-34dc9c05c7294a6b384d5091|Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo Nr. I-281 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/320a6f10e01011e388bee944977d73d2#^s-f2db759662f982aa8f3640d8|Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo Nr. I-281 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/b2fbc350de7411ed9978886e85107ab2#^s-736a52bd015b5da2ecaf53cc|Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/b2fbc350de7411ed9978886e85107ab2#^s-946248fae4f0774119ee7f94|Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.F61ABF8F5638#^s-760114b4695d5f04bcd56d01|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.F61ABF8F5638#^s-8b7a0fe851a738d625a7dceb|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas]] - Civilinis kodeksas
+- [[latest/a58a0510ebea11e78a1adea6fe72f3c5#^s-0a957f1e15c3c3074ba6b769|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir 4 straipsnių pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/8bdcfdb0f77f11e39cfacd978b6fd9bb#^s-ae7d243626c78fd0698d7594|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E2EBE95E7723#^s-7334e3a5ef8970617733b7e4|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.E2EBE95E7723#^s-d56521cdf8e4febd69d1ab27|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.769B541DD7F7#^s-9fdab9751d493a7bb41a5331|Lietuvos Respublikos ūkininko ūkio įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.769B541DD7F7#^s-da7f6055f757ac95a2ac8bc5|Lietuvos Respublikos ūkininko ūkio įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.1F1BBB0DE7E3#^s-cedb84e62ee912bde6ba55aa|Lietuvos Respublikos ūkininko ūkio įstatymo 5 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.0539F4F420DF#^s-a77c1ea2981ddf9523ae1ce3|Lietuvos Respublikos ūkininko ūkio įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.0539F4F420DF#^s-eb8c6d154ba9b697dcb4b966|Lietuvos Respublikos ūkininko ūkio įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.97094B63FD95#^s-a43ff941bacda63852e4c79d|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.97094B63FD95#^s-d31018e430695cd3539cbb08|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.97094B63FD95#^s-dc454740936376cd5d0f0fbd|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.97094B63FD95#^s-efcea9891505939271ac4e1d|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - Civilinis kodeksas
+- [[latest/86f97d70126211e4adf3c8c5d7681e73#^s-671995ecbf33803a613143db|Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 16 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/86f97d70126211e4adf3c8c5d7681e73#^s-a351226e48f70034143ba0b4|Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 16 straipsnio pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/9144fed04d0611e7846ef01bfffb9b64#^s-1a3399b81fc2a21a575d6e47|Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/9144fed04d0611e7846ef01bfffb9b64#^s-2ecd805d6a131fb1fd06418e|Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/9144fed04d0611e7846ef01bfffb9b64#^s-3cba06f0d82e4bbe9b3a3103|Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/9144fed04d0611e7846ef01bfffb9b64#^s-4c62341e9ba591222f5a9d30|Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.407F7D4B62AE#^s-9d46c38200d8c409545c441a|Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.407F7D4B62AE#^s-ff081b97882ae5c33f104a2b|Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.075D49C59279#^s-6fabb4c84d857e18cf1cbc79|Lietuvos Respublikos žemės reformos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.075D49C59279#^s-9d9a1b236ef26c7a507f1eff|Lietuvos Respublikos žemės reformos įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7A3423ED809B#^s-12e710925395e214a356ba36|Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas]] - „Civilinis kodeksas“
+- [[latest/TAR.7A3423ED809B#^s-868701122793ba50c66c667e|Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas]] - „Civilinis kodeksas“
+- [[latest/TAR.CC10C5274343#^s-1be6e1d2be369892c001102e|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.CC10C5274343#^s-36e374214c90af75924117c1|Lietuvos Respublikos žemės įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.CC10C5274343#^s-bac0d7a3ccee4fd81b9b86c9|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.CC10C5274343#^s-cc0e0326c6bac751cb195d13|Lietuvos Respublikos žemės įstatymas]] - Civilinis kodeksas
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-1c83f0cada3ba59abdf41b0e|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-5e24204b219cea78bbb6cf53|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-ab0c08d2af2ae730e43607e2|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-ffd152127ec2c98dc6619731|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.7ED447C0D254#^s-00e3c747ab00cea8b631997f|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7ED447C0D254#^s-5e1cd13aaceac065caa64b0e|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7ED447C0D254#^s-86384003adf7751d1d3538cb|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/TAR.7ED447C0D254#^s-e03af1b9bb508ffab75775b8|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/c9a5e170cfa211e3a8ded1a0f5aff0a9#^s-49df544c6e9cd74036bfb23b|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo  Nr. IX-1314 pakeitimo įstatymas]] - Civilinis kodeksas
+- [[latest/c9a5e170cfa211e3a8ded1a0f5aff0a9#^s-ee590dd013421cd947a7d399|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo  Nr. IX-1314 pakeitimo įstatymas]] - Civilinis kodeksas

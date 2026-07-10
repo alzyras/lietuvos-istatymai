@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "6cfb29d0ec5e11e78a1adea6fe72f3c5"
 pavadinimas: "Lietuvos Respublikos administracinių nusižengimų kodekso 76, 168, 484, 485, 491, 589 straipsnių pakeitimo ir Kodekso papildymo 484-1 straipsniu įstatymo Nr. XIII-731 3 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių nusižengimų kodekso 76, 168, 484, 485, 491, 589 straipsnių pakeitimo ir Kodekso papildymo 484-1 straipsniu įstatymo Nr. XIII-731 3 ir 7 straipsnių pakeitimo įstatymas"
+  - "administracinių nusižengimų kodekso 76, 168, 484, 485, 491, 589 straipsnių pakeitimo ir Kodekso papildymo 484-1 straipsniu įstatymo Nr. XIII-731 3 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2017-12-30"
 latest_path: "latest/6cfb29d0ec5e11e78a1adea6fe72f3c5.md"
 latest_sha256: "090b6e37c611d3d7c349d5ae4a0cfaf82b674739d8bd9ddd71735e57335c953c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/6cfb29d0ec5e11e78a1adea6fe72f3c5]]"
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 76, 168, 484, 485, 491, 589 straipsnių pakeitimo ir Kodekso papildymo 484-1 straipsniu įstatymo Nr. XIII-731 3 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/6cfb29d0ec5e11e78a1adea6fe72f3c5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/6cfb29d0ec5e11e78a1adea6fe72f3c5
+- Ryšiai: [[Ryšiai/6cfb29d0ec5e11e78a1adea6fe72f3c5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-50392c3daf473ce53ee9aa79
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
@@ -47,21 +52,21 @@ Pakeisti 484 straipsnį ir jį išdėstyti taip:
 „484 straipsnis. Alkoholinių gėrimų gėrimas viešosiose vietose arba neblaivaus asmens pasirodymas viešosiose vietose
 
 
-1. Alkoholinių gėrimų ir kitų naudojant spiritą pagamintų svaigalų gėrimas gatvėse, stadionuose, skveruose, parkuose, visų rūšių viešajame transporte, automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos, parodose, mugėse ir masiniuose renginiuose, kuriuose savivaldybių tarybų nustatyta tvarka įmonėms, Europos juridiniams asmenims ar jų filialams yra išduotos licencijos prekiauti alkoholiniais gėrimais, sporto varžybų metu salėse ir kitose vietose, išskyrus mažmeninės prekybos ir viešojo maitinimo vietas, kuriose savivaldybių tarybų ar savivaldybių administracijų direktorių leista pardavinėti alkoholinius gėrimus išpilstant, neblaivaus asmens pasirodymas viešosiose vietose įžeidžiant žmogaus orumą ir dorovę ^045504d7e96e01a8de35e010
+1. Alkoholinių gėrimų ir kitų naudojant spiritą pagamintų svaigalų gėrimas gatvėse, stadionuose, skveruose, parkuose, visų rūšių viešajame transporte, automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos, parodose, mugėse ir masiniuose renginiuose, kuriuose savivaldybių tarybų nustatyta tvarka įmonėms, Europos juridiniams asmenims ar jų filialams yra išduotos licencijos prekiauti alkoholiniais gėrimais, sporto varžybų metu salėse ir kitose vietose, išskyrus mažmeninės prekybos ir viešojo maitinimo vietas, kuriose savivaldybių tarybų ar savivaldybių administracijų direktorių leista pardavinėti alkoholinius gėrimus išpilstant, neblaivaus asmens pasirodymas viešosiose vietose įžeidžiant žmogaus orumą ir dorovę ^s-b120d61539eb5e9c86e51dcc
 užtraukia baudą nuo dvidešimt iki vieno šimto eurų.
 
 
-2. [[#^045504d7e96e01a8de35e010|Šio straipsnio 1 dalyje]] numatytas administracinis nusižengimas, padarytas pakartotinai, ^3c5ce132f9ad268bf136a632
+2. [[#^s-b120d61539eb5e9c86e51dcc|Šio straipsnio 1 dalyje]] numatytas administracinis nusižengimas, padarytas pakartotinai, ^s-4536973e5edc147877fd42ac
 užtraukia baudą nuo vieno šimto iki dviejų šimtų eurų.
 
 
-3. Už [[#^3c5ce132f9ad268bf136a632|šio straipsnio 2 dalyje]] numatytą administracinį nusižengimą gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose). ^c9b633b44696519cc9f29dfc
+3. Už [[#^s-4536973e5edc147877fd42ac|šio straipsnio 2 dalyje]] numatytą administracinį nusižengimą gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose). ^s-6e0fb65fc4a287d5fb32d168
 
 
-4. Už šio straipsnio 1, [[#^3c5ce132f9ad268bf136a632|2 dalyse]] numatytus administracinius nusižengimus, padarytus viešojoje vietoje vykstančiame renginyje, gali būti skiriamas draudimas lankytis viešosiose vietose vykstančiuose renginiuose nuo vieno mėnesio iki vienų metų.“ ^22d526fca4bf99aa34394120
+4. Už šio straipsnio 1, [[#^s-4536973e5edc147877fd42ac|2 dalyse]] numatytus administracinius nusižengimus, padarytus viešojoje vietoje vykstančiame renginyje, gali būti skiriamas draudimas lankytis viešosiose vietose vykstančiuose renginiuose nuo vieno mėnesio iki vienų metų.“ ^s-76a3dc16e4b64d6ff2fae0ef
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-aeb58b5b7aa028c63fa6734b
 
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:

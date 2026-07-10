@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "a79bce20fdfa11ec8fa7d02a65c371ad"
 pavadinimas: "Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 8 straipsnio pakeitimo įstatymas"
+  - "aplinkos monitoringo įstatymo Nr. VIII-529 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2023-01-01"
 latest_path: "latest/a79bce20fdfa11ec8fa7d02a65c371ad.md"
 latest_sha256: "9b0370ab405292e4229f585e7ca4fba62737f97e419474f099b2b37d7486b612"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/a79bce20fdfa11ec8fa7d02a65c371ad]]"
 ---
 # Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/a79bce20fdfa11ec8fa7d02a65c371ad.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/a79bce20fdfa11ec8fa7d02a65c371ad
+- Ryšiai: [[Ryšiai/a79bce20fdfa11ec8fa7d02a65c371ad|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-31854df99ecf1600725f4a9d
 
 
 Pakeisti 8 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
@@ -44,16 +49,16 @@ Pakeisti 8 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-5ef03c840c41a2ed122203be
 
 
-1. Šis įstatymas, išskyrus [[#^334099cfa3e8629ea409f26b|šio straipsnio 3 dalį]], įsigalioja 2023 m. sausio 1 d. ^a517693c9acfa8a37a9acc3a
+1. Šis įstatymas, išskyrus [[#^s-197b442b962ab0ed731cc2b1|šio straipsnio 3 dalį]], įsigalioja 2023 m. sausio 1 d. ^s-da6ef4f600e31da5800b7d74
 
 
-2. Šio įstatymo nuostatos taikomos savivaldybių aplinkos monitoringo ataskaitoms, parengtoms po šio įstatymo įsigaliojimo dienos. ^900eb991e5f22de4910fadca
+2. Šio įstatymo nuostatos taikomos savivaldybių aplinkos monitoringo ataskaitoms, parengtoms po šio įstatymo įsigaliojimo dienos. ^s-8f61bb623be7311f6fcf5e9a
 
 
-3. Aplinkos ministras iki 2022 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^334099cfa3e8629ea409f26b
+3. Aplinkos ministras iki 2022 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-197b442b962ab0ed731cc2b1
 
 
 

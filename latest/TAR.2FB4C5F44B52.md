@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2FB4C5F44B52"
 pavadinimas: "Dėl Jungtinių Tautų vaiko teisių konvencijos ratifikavimo"
+aliases:
+  - "Dėl Jungtinių Tautų vaiko teisių konvencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-21"
 latest_path: "latest/TAR.2FB4C5F44B52.md"
 latest_sha256: "8e272cba98328b55dd44dc7966a6f3353c48569b91b3d2e585806032b64e11e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2FB4C5F44B52]]"
 ---
 # Dėl Jungtinių Tautų vaiko teisių konvencijos ratifikavimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2FB4C5F44B52.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2FB4C5F44B52
+- Ryšiai: [[Ryšiai/TAR.2FB4C5F44B52|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

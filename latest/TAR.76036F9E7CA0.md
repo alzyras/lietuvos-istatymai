@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.76036F9E7CA0"
 pavadinimas: "Lietuvos Respublikos labdaros ir paramos įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos labdaros ir paramos įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "labdaros ir paramos įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.76036F9E7CA0.md"
 latest_sha256: "d8a93a81fcf2c0769566174037d0e1bf5ef01e9e18facbed03875b07a86dbd24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.76036F9E7CA0]]"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.76036F9E7CA0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.76036F9E7CA0
+- Ryšiai: [[Ryšiai/TAR.76036F9E7CA0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio pakeitimas
+### 1 straipsnis. 11 straipsnio pakeitimas ^s-d9b4af8e39698ccf087422b0
 
 
 11 straipsnyje išbraukti žodžius „Lietuvos Respublikos“, „ir Muitų tarifų“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje n
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-97ee8da4c5fb6de91f81da51
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

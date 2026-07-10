@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9EC149C33198"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutarties dėl tarptautinio keleivių ir krovinių vežimo kelių transportu ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutarties dėl tarptautinio keleivių ir krovinių vežimo kelių transportu ratifikavimo įstatymas"
+  - "Vyriausybės ir Kipro Respublikos Vyriausybės sutarties dėl tarptautinio keleivių ir krovinių vežimo kelių transportu ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-02"
 latest_path: "latest/TAR.9EC149C33198.md"
 latest_sha256: "fa3cd2e53f23d5133c4b05dc2870421240dbbc6266580060ca49d764538dada7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9EC149C33198]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutarties dėl tarptautinio keleivių ir krovinių vežimo kelių transportu ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9EC149C33198.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9EC149C33198
+- Ryšiai: [[Ryšiai/TAR.9EC149C33198|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-a63cbbd32058a472f32dbaad
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 14 d. dekretą Nr. 1082, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl tarptautinio keleivių ir krovinių vežimo kelių transportu, pasirašytą 2000 m. vasario 15 d. Nikosijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 14 d. dekretą Nr. 1082, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl tarptautinio keleivių ir krovinių vežimo kelių transportu, pasirašytą 2000 m. vasario 15 d. Nikosijoje.
 
 
 

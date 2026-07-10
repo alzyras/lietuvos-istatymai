@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.62D29B6D2453"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-04"
 latest_path: "latest/TAR.62D29B6D2453.md"
 latest_sha256: "b80822b84759675d8a40307fc21882c0d6aa49f86c6e1c308a30564a0323a62a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.62D29B6D2453]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimo dėl įslaptintos informacijos abipusės apsaugos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.62D29B6D2453.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.62D29B6D2453
+- Ryšiai: [[Ryšiai/TAR.62D29B6D2453|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-d9aa01279ac99742622f015f
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 5 d. dekretą Nr. 761, ratifikuoja 2006 m. rugpjūčio 1 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.

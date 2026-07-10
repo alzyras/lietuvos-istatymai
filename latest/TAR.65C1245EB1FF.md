@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.65C1245EB1FF"
 pavadinimas: "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-12"
 latest_path: "latest/TAR.65C1245EB1FF.md"
 latest_sha256: "61393ff8a990eca984963924c2995b30c5039d2cbf2e595ca86ad312cb3ced35"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.65C1245EB1FF]]"
 ---
 # Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.65C1245EB1FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.65C1245EB1FF
+- Ryšiai: [[Ryšiai/TAR.65C1245EB1FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-0cd89250bc648b377a95d1ef
 
 
 Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Informacija, jeigu ji pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, nesuteikiama. Privati informacija be asmens sutikimo nesuteikiama, išskyrus šio įstatymo 7 straipsnio, Asmens duomenų teisinės apsaugos įstatymo, Visuomenės informavimo įstatymo ir Archyvų įstatymo nustatytus atvejus. Tai pranešama pareiškėjui ir nurodoma nesuteikimo priežastis. Taip pat neteikiama ta informacija, kurią teikti draudžia kiti įstatymai, nes jos suteikimas pakenktų valstybės saugumo ir gynybos interesams, užsienio politikos interesams, baudžiamajam persekiojimui bei pažeistų valstybės teritorijos vientisumą ar viešąją tvarką, kitų asmenų teises bei teisėtus interesus arba jos nesuteikimas užkirstų kelią sunkiems teisės pažeidimams ar būtų labai svarbus apsaugant žmonių sveikatą bei moralę.“
+„1. Informacija, jeigu ji pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, nesuteikiama. Privati informacija be asmens sutikimo nesuteikiama, išskyrus šio įstatymo 7 straipsnio, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]], [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymo]] ir [[latest/TAR.1FEF229DA7C6|Archyvų įstatymo]] nustatytus atvejus. Tai pranešama pareiškėjui ir nurodoma nesuteikimo priežastis. Taip pat neteikiama ta informacija, kurią teikti draudžia kiti įstatymai, nes jos suteikimas pakenktų valstybės saugumo ir gynybos interesams, užsienio politikos interesams, baudžiamajam persekiojimui bei pažeistų valstybės teritorijos vientisumą ar viešąją tvarką, kitų asmenų teises bei teisėtus interesus arba jos nesuteikimas užkirstų kelią sunkiems teisės pažeidimams ar būtų labai svarbus apsaugant žmonių sveikatą bei moralę.“
 
 
 

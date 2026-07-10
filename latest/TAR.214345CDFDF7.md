@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.214345CDFDF7"
 pavadinimas: "Lietuvos Respublikos melioracijos įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos melioracijos įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "melioracijos įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.214345CDFDF7.md"
 latest_sha256: "9a3568b34c3e6efbb74688b7f4aab94383ab0e5a6cdef95683bdeecbeb5a75c2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.214345CDFDF7]]"
 ---
 # Lietuvos Respublikos melioracijos įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.214345CDFDF7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.214345CDFDF7
+- Ryšiai: [[Ryšiai/TAR.214345CDFDF7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas ^s-b1731a70316b525657a177c6
 
 
 5 straipsnio 3 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:

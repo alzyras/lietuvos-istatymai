@@ -11,7 +11,7 @@
   "latest_revision": "1998-01-01",
   "latest_sha256": "f7df724e654590594217a7fc269e94fe4a6bd7e8632f6d499189f0fc9cf52b6c",
   "metadata_path": "latest/TAR.38E82AA2664C.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

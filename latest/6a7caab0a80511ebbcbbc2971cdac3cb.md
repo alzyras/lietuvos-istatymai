@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "6a7caab0a80511ebbcbbc2971cdac3cb"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 25-2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 25-2 straipsnio pakeitimo įstatymas"
+  - "pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 25-2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-07-01"
 latest_path: "latest/6a7caab0a80511ebbcbbc2971cdac3cb.md"
 latest_sha256: "5c438e164a89893032049db4d2afdcc9e7da4e23d9c69fb83ce7b8be5a2f4d02"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/6a7caab0a80511ebbcbbc2971cdac3cb]]"
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 25-2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/6a7caab0a80511ebbcbbc2971cdac3cb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/6a7caab0a80511ebbcbbc2971cdac3cb
+- Ryšiai: [[Ryšiai/6a7caab0a80511ebbcbbc2971cdac3cb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 252 straipsnio pakeitimas
+### 1 straipsnis. 252 straipsnio pakeitimas ^s-809be44e7d42aa8b79e3eb7c
 
 
 Papildyti 252 straipsnio 3 dalį 4 punktu:
@@ -42,7 +47,7 @@ Papildyti 252 straipsnio 3 dalį 4 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-996d3397464cdf27b555402c
 
 
 Šis įstatymas įsigalioja 2021 m. liepos 1 d.

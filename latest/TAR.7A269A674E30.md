@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7A269A674E30"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-20"
 latest_path: "latest/TAR.7A269A674E30.md"
 latest_sha256: "3d8e6eac1493050c3f144cbc41db8d73b1c70b0be9e0c0beb8877311e4be66cb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7A269A674E30]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7A269A674E30.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7A269A674E30
+- Ryšiai: [[Ryšiai/TAR.7A269A674E30|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-f2f4d8a6f14c67b52ff153bc
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 26 d. dekretą Nr. 1915, ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ir jos protokolą, pasirašytus 2002 m. gegužės 27 d. Berne.

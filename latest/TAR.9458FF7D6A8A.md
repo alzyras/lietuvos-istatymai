@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9458FF7D6A8A"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-23"
 latest_path: "latest/TAR.9458FF7D6A8A.md"
 latest_sha256: "bd503732e2bcb3d06f94367f1331b585d6f0175ae29953a877434166b8d1cd27"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9458FF7D6A8A]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9458FF7D6A8A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9458FF7D6A8A
+- Ryšiai: [[Ryšiai/TAR.9458FF7D6A8A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,10 +39,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-f5244fb0b1bdfca0725b4edc
 
 
-1. Pakeisti 2 straipsnyje išdėstyto Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 6 punktą ir jį išdėstyti taip: ^78037961bb10965508f4e1d4
+1. Pakeisti 2 straipsnyje išdėstyto Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 6 punktą ir jį išdėstyti taip: ^s-fe193c7f579c386d6f33439d
 
 
  „6.
@@ -48,7 +53,7 @@ Vilnius
 
 
 
-2. Pakeisti 2 straipsnyje išdėstyto Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^a8949a32c85b8f4aedcba0c4
+2. Pakeisti 2 straipsnyje išdėstyto Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^s-8e9ccc0126ed16e37bf02791
 
 
  „7.

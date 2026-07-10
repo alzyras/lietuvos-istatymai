@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.94739FD8BEBB"
 pavadinimas: "Lietuvos Respublikos šeimynų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šeimynų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "šeimynų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.94739FD8BEBB.md"
 latest_sha256: "fca9c8598cd828225139133079f0cdcb1c8ac45db9bf91eb8af90aa2dd8aa0ce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.94739FD8BEBB]]"
 ---
 # Lietuvos Respublikos šeimynų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.94739FD8BEBB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.94739FD8BEBB
+- Ryšiai: [[Ryšiai/TAR.94739FD8BEBB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-320cf2eb6bc7d634fcae62b6
 
 
 2 straipsnio 5 dalyje vietoj žodžio „turi“ įrašyti žodį „gali“, po žodžio „ir“ įrašyti žodžius „turi turėti“ ir šią dalį išdėstyti taip:

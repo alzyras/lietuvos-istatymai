@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5D85631E32C3"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 55 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 55 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "valstybės kontrolės įstatymo 55 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-04-03"
 latest_path: "latest/TAR.5D85631E32C3.md"
 latest_sha256: "eeb523c129f59bee6bcd48657be95b64704c79a7fb46ecf30eedebe441661b23"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5D85631E32C3]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 55 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5D85631E32C3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5D85631E32C3
+- Ryšiai: [[Ryšiai/TAR.5D85631E32C3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 55 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 55 straipsnio pripažinimas netekusiu galios ^s-e087adf2445a6c1af2547be3
 
 
 55 straipsnį pripažinti netekusiu galios.

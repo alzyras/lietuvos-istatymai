@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.200CD75C42BF"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo \"Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės\" pakeitimų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo \"Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės\" pakeitimų ratifikavimo"
+  - "įstatymas dėl 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo \"Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės\" pakeitimų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-05-05"
 latest_path: "latest/TAR.200CD75C42BF.md"
 latest_sha256: "a1664f29e329d853cf613616424dd557fbbdc978304b403fa411b7c42529e57f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.200CD75C42BF]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo "Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės" pakeitimų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.200CD75C42BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.200CD75C42BF
+- Ryšiai: [[Ryšiai/TAR.200CD75C42BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos III priedo pakeitimų ratifikavimas
+### 1 straipsnis. Konvencijos III priedo pakeitimų ratifikavimas ^s-52c0113828def2a1c702193f
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 8 d. dekretą Nr. 1K-822, ratifikuoja 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo „Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės“ pakeitimus, priimtus rekomendacija 21/12000 m. kovo 20 d. Helsinkyje.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7CFEF8F9260D"
 pavadinimas: "Lietuvos Respublikos vandens įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vandens įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "vandens įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-15"
 latest_path: "latest/TAR.7CFEF8F9260D.md"
 latest_sha256: "5bcd5e09359b9825d9650707128aa9d7b0a85481d940856fdef3004b5ce22c22"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7CFEF8F9260D]]"
 ---
 # Lietuvos Respublikos vandens įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7CFEF8F9260D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7CFEF8F9260D
+- Ryšiai: [[Ryšiai/TAR.7CFEF8F9260D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-00f936b4a15dbd129fef3e23
 
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:

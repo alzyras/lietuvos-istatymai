@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FD8B8B946F9F"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų įstatymo 4, 8, 10, 11, 13, 15, 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų įstatymo 4, 8, 10, 11, 13, 15, 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas"
+  - "azartinių lošimų įstatymo 4, 8, 10, 11, 13, 15, 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-01"
 latest_path: "latest/TAR.FD8B8B946F9F.md"
 latest_sha256: "155ee5a065097296527abf114b4fb7e5ec296ac54330d6d4310b391e2986b8e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FD8B8B946F9F]]"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 4, 8, 10, 11, 13, 15, 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FD8B8B946F9F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FD8B8B946F9F
+- Ryšiai: [[Ryšiai/TAR.FD8B8B946F9F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -38,47 +43,47 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-9b2ba96fe9848edbb3799220
 
 
-Pakeisti [[#4 straipsnis. 11 straipsnio pavadinimo ir 1 dalies pakeitimas|4 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#4 straipsnis. 11 straipsnio pavadinimo ir 1 dalies pakeitimas|4 straipsnis]]. Institucija, išduodanti licencijas organizuoti lošimus
-
-
-1. Licencijas organizuoti lošimus išduoda Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Priežiūros tarnyba). ^1baa07ce99602903dcabb40c
-
-
-2. Priežiūros tarnyba, prieš išduodama licenciją organizuoti lošimus, turi gauti Valstybės saugumo departamento, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos ir Policijos departamento prie Vidaus reikalų ministerijos išvadas.“ ^fabd7933b47fe96094ba6f59
+Pakeisti [[#^s-8df5bba452a58c9f937ab001|4 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 8 straipsnio pakeitimas
+„[[#^s-8df5bba452a58c9f937ab001|4 straipsnis]]. Institucija, išduodanti licencijas organizuoti lošimus
 
 
-[[#8 straipsnis. 18 straipsnio 2 dalies pakeitimas|8 straipsnyje]] vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šį straipsnį išdėstyti taip:
+1. Licencijas organizuoti lošimus išduoda Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Priežiūros tarnyba). ^s-ca8bb6fd7f3a1b5aed049f80
+
+
+2. Priežiūros tarnyba, prieš išduodama licenciją organizuoti lošimus, turi gauti Valstybės saugumo departamento, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos ir Policijos departamento prie Vidaus reikalų ministerijos išvadas.“ ^s-996bee61cb3762da4472d365
 
 
 
-„[[#8 straipsnis. 18 straipsnio 2 dalies pakeitimas|8 straipsnis]]. Lošimus organizuojantys subjektai
+### 2 straipsnis. 8 straipsnio pakeitimas ^s-6042bf21a9f590adf5f0189a
+
+
+[[#^s-046c31ac569a86b5bac7367e|8 straipsnyje]] vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šį straipsnį išdėstyti taip:
+
+
+
+„[[#^s-046c31ac569a86b5bac7367e|8 straipsnis]]. Lošimus organizuojantys subjektai
 
 
 Lošimus turi teisę organizuoti akcinės bendrovės ir uždarosios akcinės bendrovės (toliau – bendrovės), veikiančios Akcinių bendrovių įstatymo nustatyta tvarka bei gavusios šios veiklos licencijas ir leidimus atidaryti automatų, bingo salonus, lošimo namus (kazino) arba kai Priežiūros tarnyba patvirtina totalizatoriaus ar lažybų lošimo reglamentą.“
 
 
 
-### 3 straipsnis. 10 straipsnio 3 ir 12 dalių pakeitimas
+### 3 straipsnis. 10 straipsnio 3 ir 12 dalių pakeitimas ^s-23b3170a23dc78ea86588734
 
 
-1. [[#^9b6bc2548792e058c86f7244|10 straipsnio 3 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^69b3925d608beac1c4a949bb
+1. [[#^s-f7758ed41c396d29513c23a7|10 straipsnio 3 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-9dbddda24080ac264052295b
 
 
 „3. Draudžiama lošti savo bendrovės organizuojamuose lošimuose asmenims (patiems, per kitą asmenį arba pagal kito asmens išduotą įgaliojimą) – lošimus organizuojančios bendrovės steigėjams, akcininkams, juos kontroliuojantiems asmenims, lošimus organizuojančios bendrovės stebėtojų tarybos, valdybos nariams ir visiems bendrovės darbuotojams. Valstybės tarnautojai ir pareigūnai, kurie vykdo lošimų organizavimo priežiūrą ir kontrolę, gali lošti tik kontrolės vykdymo metu Priežiūros tarnybos nustatyta tvarka.“
 
 
-2. 10 straipsnio 12 dalyje vietoj žodžių „komisijai“ įrašyti žodžius „tarnybai“, vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^8a12461c639958c11376f502
+2. 10 straipsnio 12 dalyje vietoj žodžių „komisijai“ įrašyti žodžius „tarnybai“, vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-7e8882abe617f90245237c3f
 
 
 „12. Lošimus organizuojančios bendrovės akcininkai, perleidę visas arba dalį savo turimų akcijų kitiems asmenims, privalo per 30 dienų apie tai pranešti Priežiūros tarnybai jos nustatyta tvarka. Jeigu akcininkas miršta, jo akcijas paveldėjęs asmuo privalo per 30 dienų po paveldėjimo apie tai pranešti Priežiūros tarnybai jos nustatyta tvarka. Šiais atvejais Priežiūros tarnyba turi spręsti klausimą dėl licencijos organizuoti lošimus perregistravimo.“
@@ -86,23 +91,23 @@ Lošimus turi teisę organizuoti akcinės bendrovės ir uždarosios akcinės ben
 
 
 
-### 4 straipsnis. 11 straipsnio pavadinimo ir 1 dalies pakeitimas
+### 4 straipsnis. 11 straipsnio pavadinimo ir 1 dalies pakeitimas ^s-8df5bba452a58c9f937ab001
 
 
-1. [[#11 straipsnis. 22 straipsnio 1 dalies pakeitimas|11 straipsnio]] pavadinime vietoj žodžių „komisijos nariams bei“ įrašyti žodį „tarnybos“ ir straipsnio pavadinimą išdėstyti taip: ^ebdb2f86d75b64d0fb90a12e
+1. [[#^s-423cfff5a43bbd967afd552b|11 straipsnio]] pavadinime vietoj žodžių „komisijos nariams bei“ įrašyti žodį „tarnybos“ ir straipsnio pavadinimą išdėstyti taip: ^s-fc2b7ba39a83af6aa1340d22
 
 
 „11 straipsnis. Reikalavimai lošimų organizatoriams ir Priežiūros tarnybos valstybės tarnautojams ir darbuotojams“.
 
 
-2. 11 straipsnio 1 dalyje vietoj žodžio „komisijos nariais bei“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^48e3ae0c38c808a6e41f6527
+2. 11 straipsnio 1 dalyje vietoj žodžio „komisijos nariais bei“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-50e4029c162f9623176d834b
 
 
 „1. Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos kontroliuojančiais asmenimis, lošimus organizuojančios bendrovės stebėtojų tarybos, valdybos nariais ir administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošimo namų (kazino), bingo, automatų salonų administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošėjus aptarnaujančio personalo ir Priežiūros tarnybos valstybės tarnautojais ir darbuotojais negali būti asmenys, dėl kurių pačių ar jų artimųjų giminaičių bei šeimos narių yra atliekamas operatyvinis tyrimas dėl neteisėto lošimo namų (kazino) laikymo ar lošimų organizavimo arba priklausymo nusikalstamam susivienijimui, bei asmenys, turintys neišnykusį arba nepanaikintą teistumą už sunkius ir labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai.“
 
 
 
-### 5 straipsnis. 13 straipsnio 5 dalies pakeitimas
+### 5 straipsnis. 13 straipsnio 5 dalies pakeitimas ^s-732dfaae0164200ff798f5ba
 
 
 Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -111,20 +116,20 @@ Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
 „5. Minimali pinigų suma, kurią pagal Priežiūros tarnybos nustatytą investavimo tvarką bendrovės, organizuojančios lošimus, turi investuoti į Vyriausybės vertybinius popierius, laikyti banko sąskaitose, bendrovės kasoje ir (arba) tam skirtose lošimo automatų talpyklose ir skirti tik lošimų laimėjimų išmokėjimams, yra:
 
 
-1) vienam lošimo stalui – 40 tūkst. litų; ^166ff471944bc2e6ffd17671
+1) vienam lošimo stalui – 40 tūkst. litų; ^s-826650abbaf385c335c136a8
 
 
-2) A kategorijos lošimo automatui – 25 tūkst. litų; ^5e60ce165625f7e3467e7f69
+2) A kategorijos lošimo automatui – 25 tūkst. litų; ^s-25872ae6fade42e533be77c2
 
 
-3) B kategorijos lošimo automatui – 300 litų; ^1885b2e5f8ac925b8d40ed47
+3) B kategorijos lošimo automatui – 300 litų; ^s-78847b34db6705e0b1135a05
 
 
-4) bendrovėms, organizuojančioms bingą, totalizatorių, lažybas, žirgų totalizatorių, – ne mažiau kaip 25 proc. minimalaus reikalaujamo įstatinio kapitalo sumos.“ ^eed0d9fcbe4a258ce1211d25
+4) bendrovėms, organizuojančioms bingą, totalizatorių, lažybas, žirgų totalizatorių, – ne mažiau kaip 25 proc. minimalaus reikalaujamo įstatinio kapitalo sumos.“ ^s-f80418a3afba7efbd2d2548d
 
 
 
-### 6 straipsnis. 15 straipsnio 1 dalies 2 punkto pakeitimas
+### 6 straipsnis. 15 straipsnio 1 dalies 2 punkto pakeitimas ^s-06723c6d664d77790a24dc08
 
 
 Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
@@ -134,41 +139,41 @@ Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 16 straipsnio 4, 5, 6, 7 ir 8 dalių pakeitimas
+### 7 straipsnis. 16 straipsnio 4, 5, 6, 7 ir 8 dalių pakeitimas ^s-df27970274cd349b5bc62023
 
 
-1. [[#^ae6a06ccced902fa960a8d39|16 straipsnio 4 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^2d80fc15e37d0cae9ad7b04a
+1. [[#^s-ce67ca44fdc129b341fde4b5|16 straipsnio 4 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-c52f9930dcf89830ce5b1f29
 
 
 „4. Kiekvienas lošimo įrenginys turi atitikti šio įstatymo ir Priežiūros tarnybos nustatytus ir patvirtintus reikalavimus.“
 
 
-2. [[#^8660b8022225fcbe8b649985|16 straipsnio 5 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^1463d919ea0be44b1fbe1b35
+2. [[#^s-f3b088f1c26f859e6d7d71af|16 straipsnio 5 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-2490f28f696f3f885d4c63c0
 
 
 „5. Kiekvienas lošimo įrenginys turi turėti akredituotų įstaigų (laboratorijų) išduotą sertifikatą, patvirtinantį, kad lošimo įrenginiai atitinka šio įstatymo ir Priežiūros tarnybos nustatytus reikalavimus. Lietuvos Respublikos Vyriausybės įgaliotos institucijos sprendimu gali būti pripažįstami užsienio valstybėse akredituotų įstaigų išduoti sertifikatai.“
 
 
-3. [[#^a6c5fe1bdd5a65aeb95ef00a|16 straipsnio 6 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^53dd168d35721211986e42ed
+3. [[#^s-0e80785e5f64da943c964e2d|16 straipsnio 6 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-c7de22a717480bea418d2998
 
 
 „6. Kiekvienas lošimo įrenginys, turintis sertifikatą, privalo būti paženklinamas specialiu ženklu Priežiūros tarnybos nustatyta tvarka.“
 
 
-4. [[#^db5bce67671120fea41106bb|16 straipsnio 7 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^93cbde0bf19eaf6da5f8f000
+4. [[#^s-ebac510b29deecf7824a5060|16 straipsnio 7 dalyje]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-f49ea6383f5a0172a5440550
 
 
 „7. Bendrovė gali keisti arba pradėti naudoti naujus lošimų įrenginius tik įvykdžiusi šio straipsnio 5 ir 6 dalyse nustatytus reikalavimus ir gavusi Priežiūros tarnybos leidimą šio įstatymo nustatyta tvarka.“
 
 
-5. 16 straipsnio 8 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^f67c43e6e5160c904acf2bc7
+5. 16 straipsnio 8 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-e6fc225f990462a34dd62bd8
 
 
 „8. Turi būti pildomi lošimo įrenginių apskaitos žurnalai. Jų formą ir pildymo tvarką nustato Priežiūros tarnyba.“
 
 
 
-### 8 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 8 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-046c31ac569a86b5bac7367e
 
 
 18 straipsnio 2 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip:
@@ -178,128 +183,128 @@ Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 9 straipsnis. 20 straipsnio 1 ir 3 dalių pakeitimas
+### 9 straipsnis. 20 straipsnio 1 ir 3 dalių pakeitimas ^s-0c97331589eb38bf7702aa77
 
 
-1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip: ^937883471946a53718dae434
+1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip: ^s-6c7bf0be0576d1c6c80129d8
 
 
 „1. Azartinius lošimus organizuojančios bendrovės privalo patikrinti kliento, įeinančio į lošimo automatų ir bingo salonus, lažybų bei totalizatoriaus punktus tapatybę, esant abejonėms, kad asmuo yra jaunesnis negu 18 metų. Azartinius lošimus organizuojančios bendrovės privalo patikrinti kliento, įeinančio į lošimo namus (kazino), tapatybę ir jį registruoti. Lošimų organizatorius Vyriausybės nustatyta tvarka privalo registruoti asmenis, kurie arba keičia grynuosius pinigus į žetonus, arba įmoka, arba laimi sumą, viršijančią 3 500 litų ar ją atitinkančią sumą užsienio valiuta.“
 
 
-2. 20 straipsnio 3 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^54b3bb3a4d461f3a046054e7
+2. 20 straipsnio 3 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^s-43e63e7809a67bd1e635490d
 
 
-„3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 1 ir [[#^54b3bb3a4d461f3a046054e7|2 dalyse]] nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka.“
+„3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 1 ir [[#^s-43e63e7809a67bd1e635490d|2 dalyse]] nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka.“
 
 
 
-### 10 straipsnis. 21 straipsnio 1, 3 dalių, 4 dalies 5 punkto ir 5, 6, 8 dalių pakeitimas
+### 10 straipsnis. 21 straipsnio 1, 3 dalių, 4 dalies 5 punkto ir 5, 6, 8 dalių pakeitimas ^s-6788ff2f93586047c4807133
 
 
-1. 21 straipsnio 1 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^9165b563d6e8891dd27cd8e2
+1. 21 straipsnio 1 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-47c02c127b81da459a5f1c6c
 
 
 „1. Leidimus atidaryti automatų, bingo salonus, lošimo namus (kazino) išduoda Priežiūros tarnyba.“
 
 
-2. 21 straipsnio 3 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^308d5b54eedd50bce32da0f4
+2. 21 straipsnio 3 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^s-1d403873f44f5ed9c97b8ff1
 
 
 „3. Bendrovė, pageidaujanti gauti leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino), pateikia Priežiūros tarnybai prašymą, kuriame nurodoma bendrovės pavadinimas, kodas, buveinės adresas, telefono ir fakso numeriai, lošimų organizavimo vietos adresas, telefono numeris, numatomų organizuoti lošimų rūšys, licencijos organizuoti lošimus išdavimo data, numeris (jei leidimas išduodamas licenciją turinčiai bendrovei), bendrovės vadovo arba jo įgalioto asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir pavardė, prašymo padavimo data.“
 
 
-3. 21 straipsnio 4 dalies 5 punkte vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šį punktą išdėstyti taip: ^9b6bc2548792e058c86f7244
+3. 21 straipsnio 4 dalies 5 punkte vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šį punktą išdėstyti taip: ^s-f7758ed41c396d29513c23a7
 
 
 „5) Priežiūros tarnybos nustatyta informacija apie lošimų organizavimo vietą;“.
 
 
-4. 21 straipsnio 5 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^6e3694a6425e839e5f342772
+4. 21 straipsnio 5 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-6dbce334a8bfa9b5a530582b
 
 
 „5. Priežiūros tarnyba turi teisę pareikalauti papildomų dokumentų ir informacijos, kurių reikia priimti sprendimui dėl leidimo išdavimo, taip pat pareikalauti paaiškinti arba papildyti pateiktus duomenis.“
 
 
-5. 21 straipsnio 6 dalyje vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“, po žodžio „tarnautojai“ įrašyti žodžius „ir darbuotojai“ ir šią dalį išdėstyti taip: ^59343b5f1be2ff15e88f366e
+5. 21 straipsnio 6 dalyje vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“, po žodžio „tarnautojai“ įrašyti žodžius „ir darbuotojai“ ir šią dalį išdėstyti taip: ^s-d58af71df869715ad17af813
 
 
 „6. Priežiūros tarnybos valstybės tarnautojai ir darbuotojai patikrina, ar patalpos, kuriose numatoma atidaryti automatų ar bingo saloną arba lošimo namus (kazino), atitinka joms keliamus reikalavimus. Prašymas išduoti leidimą atidaryti lošimo patalpas turi būti išnagrinėtas per 30 kalendorinių dienų nuo jo gavimo. Jeigu pareikalaujama papildomų dokumentų ir informacijos, 30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos informacijos arba paaiškinimų bei pataisų pateikimo. Bendras leidimo išdavimo laikotarpis neturi viršyti 60 kalendorinių dienų skaičiuojant nuo tos dienos, kai buvo pirmą kartą pateikti visi reikiami dokumentai ir duomenys.“
 
 
-6. 21 straipsnio 8 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^c9c12ec705b5920f7c1eb2b0
+6. 21 straipsnio 8 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-9a34bf5d811abdde605089b4
 
 
 „8. Priežiūros tarnyba, išdavusi licenciją organizuoti lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino), per 5 darbo dienas nuo licencijos (leidimo) išdavimo praneša Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos, teritorinėms valstybinėms mokesčių inspekcijoms ir teritorinėms policijos įstaigoms, kurių teritorijoje bus organizuojami lošimai, bendrovės, kuriai išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono ir fakso numerius, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.“
 
 
 
-### 11 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 11 straipsnis. 22 straipsnio 1 dalies pakeitimas ^s-423cfff5a43bbd967afd552b
 
 
-[[#^2825b4bfbc7c7c0a19c11e1f|22 straipsnio 1 dalies]] pirmoje pastraipoje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“, [[#^aa2a0597f625fb674910017a|4 punkte]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip:
+[[#^s-9d31b4d1c93734cd79f779d6|22 straipsnio 1 dalies]] pirmoje pastraipoje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“, [[#^s-3e6c36d465db15083ea73674|4 punkte]] vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip:
 
 
 „1. Priežiūros tarnyba atsisako išduoti leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino), jeigu:
 
 
-1) prašyme išduoti leidimą arba kituose dokumentuose pateikiami žinomai neteisingi duomenys; ^0941a9d9423f9cf1ae62cb48
+1) prašyme išduoti leidimą arba kituose dokumentuose pateikiami žinomai neteisingi duomenys; ^s-3bd668731ca10a68b78d471c
 
 
-2) bendrovė atsisako pateikti šio įstatymo [[#21 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir Finansų ministerijai|21 straipsnio]] 3, 4, 5 dalyse nurodytus dokumentus, duomenis ar paaiškinimus arba pateikti dokumentai neatitinka reikalavimų; ^2ac5c28f7f3659883098ddda
+2) bendrovė atsisako pateikti šio įstatymo [[#^s-0549dfd0244d3828ab8e4655|21 straipsnio]] 3, 4, 5 dalyse nurodytus dokumentus, duomenis ar paaiškinimus arba pateikti dokumentai neatitinka reikalavimų; ^s-ee49dada59f2004c15251363
 
 
-3) patalpos, kuriose numatoma organizuoti lošimus automatais ar bingą arba stalo lošimus, neatitinka reikalavimų; ^5571ea24e7b91de9aeb1ff83
+3) patalpos, kuriose numatoma organizuoti lošimus automatais ar bingą arba stalo lošimus, neatitinka reikalavimų; ^s-b6fb1dbf266768ed74e5a6ba
 
 
-4) lošimo įrenginiai neatitinka šio įstatymo ir Priežiūros tarnybos nustatytų reikalavimų; ^aa2a0597f625fb674910017a
+4) lošimo įrenginiai neatitinka šio įstatymo ir Priežiūros tarnybos nustatytų reikalavimų; ^s-3e6c36d465db15083ea73674
 
 
-5) šio įstatymo 21 straipsnio 4 dalies 8 punkte išvardyti asmenys neatitinka šio įstatymo [[#11 straipsnis. 22 straipsnio 1 dalies pakeitimas|11 straipsnio]] reikalavimų.“ ^7df87aa1384f99840c7988ba
+5) šio įstatymo 21 straipsnio 4 dalies 8 punkte išvardyti asmenys neatitinka šio įstatymo [[#^s-423cfff5a43bbd967afd552b|11 straipsnio]] reikalavimų.“ ^s-ff60c90a23689156fe58ad2f
 
 
 
-### 12 straipsnis. 23 straipsnio 1, 2, 4, 5, 6 ir 7 dalių pakeitimas
+### 12 straipsnis. 23 straipsnio 1, 2, 4, 5, 6 ir 7 dalių pakeitimas ^s-34be0832b7ed456633177307
 
 
-1. 23 straipsnio 1 dalyje vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^fa70af75e018eb7f31acd166
+1. 23 straipsnio 1 dalyje vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-fc9ef8eb0f2f4faf99362f84
 
 
 „1. Bendrovė, turinti licenciją organizuoti lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino) ir pageidaujanti tose patalpose įrengti daugiau lošimo įrenginių, privalo gauti Priežiūros tarnybos sutikimą. Toks sutikimas įforminamas papildant leidimą.“
 
 
-2. 23 straipsnio 2 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^5eb2819b70df126a2ea8adef
+2. 23 straipsnio 2 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^s-c6f6b0dcdcb24d631aee2dfe
 
 
 „2. Bendrovė, pageidaujanti papildyti leidimą, pateikia Priežiūros tarnybai prašymą, kuriame nurodoma bendrovės pavadinimas, kodas, buveinės adresas, telefono ir fakso numeriai, lošimų organizavimo vietos adresas, telefono numeris, numatomų papildomai organizuoti lošimų rūšys ir lošimo įrenginių skaičius, bendrovės vadovo arba jo įgalioto asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir pavardė, prašymo padavimo data. Kartu su prašymu pateikiami šio įstatymo 21 straipsnio 4 dalies 1, 2, 3, 4 punktuose nurodyti duomenys ir dokumentai.“
 
 
-3. 23 straipsnio 4 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“, vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^ebc7ca7377967dc08cab6138
+3. 23 straipsnio 4 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“, vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“ ir šią dalį išdėstyti taip: ^s-bc318507f05e2d7b72ac4890
 
 
 „4. Priežiūros tarnyba gali atsisakyti papildyti leidimą, jeigu lošimo įrenginiai neatitinka šio įstatymo ir Priežiūros tarnybos nustatytų reikalavimų.“
 
 
-4. 23 straipsnio 5 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^29d77a9844759cd6d720a32b
+4. 23 straipsnio 5 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^s-105b68255a2a240eb7cd845e
 
 
 „5. Bendrovė, turinti licenciją organizuoti lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino), norinti sumažinti lošimo įrenginių skaičių arba juos pakeisti kitais, pateikia Priežiūros tarnybai prašymą, kuriame nurodo lošimų organizavimo vietos adresą ir kiek lošimo įrenginių prašo sumažinti arba kokius pakeisti.“
 
 
-5. 23 straipsnio 6 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^a8203feaeb1e17d85af2a6ab
+5. 23 straipsnio 6 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-f079bbea2afac066dc719a78
 
 
 „6. Priežiūros tarnyba per 10 kalendorinių dienų nuo prašymo gavimo pakeičia leidimą ir jame nurodo likusių lošimo įrenginių skaičių bei rūšis.“
 
 
-6. 23 straipsnio 7 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^2658487f0a725f822a936e44
+6. 23 straipsnio 7 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip: ^s-e1d9457c690d279274119a70
 
 
 „7. Priežiūros tarnyba, papildžiusi arba pakeitusi leidimą, per 5 darbo dienas nuo leidimo papildymo arba pakeitimo praneša Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos, teritorinėms valstybinėms mokesčių inspekcijoms ir teritorinėms policijos įstaigoms, kurių teritorijoje organizuojami lošimai, apie lošimo įrenginių skaičiaus pasikeitimą ir nurodo bendrovės, kurios leidimas papildytas arba pakeistas, pavadinimą, kodą, buveinės adresą, telefono ir fakso numerius, leidimo numerį, lošimų organizavimo adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.“
 
 
 
-### 13 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 13 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-4d4daa76a7d45e450aa8ec33
 
 
 24 straipsnio 2 dalyje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šią dalį išdėstyti taip:
@@ -309,7 +314,7 @@ Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 14 straipsnis. 25 straipsnio pakeitimas
+### 14 straipsnis. 25 straipsnio pakeitimas ^s-44136034e6011186649acece
 
 
 25 straipsnyje vietoj žodžių „komisija“ įrašyti žodžius „tarnyba“ ir šį straipsnį išdėstyti taip:
@@ -318,14 +323,14 @@ Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 „25 straipsnis. Totalizatoriaus ir lažybų organizavimas
 
 
-1. Bendrovė, turinti licenciją organizuoti totalizatorių arba lažybas, gali jas pradėti rengti tik tada, kai Priežiūros tarnyba patvirtina lošimo reglamentą. ^6ef38e03fd4579195d141f1b
+1. Bendrovė, turinti licenciją organizuoti totalizatorių arba lažybas, gali jas pradėti rengti tik tada, kai Priežiūros tarnyba patvirtina lošimo reglamentą. ^s-4b0daac16753be70410adbb9
 
 
-2. Lažybų tarpininkų darbo tvarką ir lažybų bei totalizatoriaus punktų steigimo tvarką nustato Priežiūros tarnyba.“ ^fd0040a9ca63639110177f99
+2. Lažybų tarpininkų darbo tvarką ir lažybų bei totalizatoriaus punktų steigimo tvarką nustato Priežiūros tarnyba.“ ^s-6cdb1692d19a16e8ec6b0a58
 
 
 
-### 15 straipsnis. Ketvirtojo skirsnio pavadinimo pakeitimas
+### 15 straipsnis. Ketvirtojo skirsnio pavadinimo pakeitimas ^s-d9bbb116b916bda46083c76b
 
 
 Ketvirtojo skirsnio pavadinime išbraukti žodį „Valstybinė“ ir skirsnio pavadinimą išdėstyti taip:
@@ -337,7 +342,7 @@ LOŠIMŲ ORGANIZAVIMO PRIEŽIŪRA IR KONTROLĖ“.
 
 
 
-### 16 straipsnis. 26 straipsnio pakeitimas
+### 16 straipsnis. 26 straipsnio pakeitimas ^s-035178a7a5c08382f2bb6b52
 
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
@@ -347,29 +352,29 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 „26 straipsnis. Priežiūros tarnyba
 
 
-1. Priežiūros tarnyba yra įstaiga prie Lietuvos Respublikos finansų ministerijos, teisės aktų nustatyta tvarka kartu su kitomis valstybės ir savivaldybių institucijomis dalyvaujanti įgyvendinant valstybės politiką azartinių lošimų srityje ir vykdanti lošimų kontrolę, kad būtų užtikrintas sąžiningas, skaidrus lošimų veiklos vykdymas ir lošėjų teisių bei jų teisėtų interesų apsauga. ^bbf255976af4168c01635dbb
+1. Priežiūros tarnyba yra įstaiga prie Lietuvos Respublikos finansų ministerijos, teisės aktų nustatyta tvarka kartu su kitomis valstybės ir savivaldybių institucijomis dalyvaujanti įgyvendinant valstybės politiką azartinių lošimų srityje ir vykdanti lošimų kontrolę, kad būtų užtikrintas sąžiningas, skaidrus lošimų veiklos vykdymas ir lošėjų teisių bei jų teisėtų interesų apsauga. ^s-49f6023a92ed7465a287876b
 
 
-2. Priežiūros tarnyba yra juridinis asmuo. Ji turi sąskaitų bankuose ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. ^5abbf73ee62be9342cd2aa77
+2. Priežiūros tarnyba yra juridinis asmuo. Ji turi sąskaitų bankuose ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. ^s-f0b5caff8b3dd70f48482d6a
 
 
-3. Priežiūros tarnyba yra biudžetinė įstaiga. ^8faf615a7bcdc8d39be72fe1
+3. Priežiūros tarnyba yra biudžetinė įstaiga. ^s-00356be75ab9db0b6455c498
 
 
-4. Priežiūros tarnyba finansuojama iš Lietuvos Respublikos valstybės biudžeto. Priežiūros tarnybai finansuoti gali būti naudojamos ir kitos įstatymų nustatyta tvarka gautos nebiudžetinės lėšos. ^ae6a06ccced902fa960a8d39
+4. Priežiūros tarnyba finansuojama iš Lietuvos Respublikos valstybės biudžeto. Priežiūros tarnybai finansuoti gali būti naudojamos ir kitos įstatymų nustatyta tvarka gautos nebiudžetinės lėšos. ^s-ce67ca44fdc129b341fde4b5
 
 
-5. Priežiūros tarnybai vadovauja direktorius. Priežiūros tarnybos direktorių į pareigas skiria ir iš pareigų atleidžia finansų ministras konkurso būdu Valstybės tarnybos įstatymo nustatyta tvarka. ^8660b8022225fcbe8b649985
+5. Priežiūros tarnybai vadovauja direktorius. Priežiūros tarnybos direktorių į pareigas skiria ir iš pareigų atleidžia finansų ministras konkurso būdu [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. ^s-f3b088f1c26f859e6d7d71af
 
 
-6. Priežiūros tarnyboje dirba valstybės tarnautojai, kuriems taikomas Valstybės tarnybos įstatymas, ir darbuotojai, įstatymų nustatyta tvarka dirbantys pagal darbo sutartis. ^a6c5fe1bdd5a65aeb95ef00a
+6. Priežiūros tarnyboje dirba valstybės tarnautojai, kuriems taikomas [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]], ir darbuotojai, įstatymų nustatyta tvarka dirbantys pagal darbo sutartis. ^s-0e80785e5f64da943c964e2d
 
 
-7. Priežiūros tarnybos darbo tvarką nustato šis ir kiti įstatymai, Priežiūros tarnybos nuostatai ir Priežiūros tarnybos direktoriaus patvirtintas darbo reglamentas.“ ^db5bce67671120fea41106bb
+7. Priežiūros tarnybos darbo tvarką nustato šis ir kiti įstatymai, Priežiūros tarnybos nuostatai ir Priežiūros tarnybos direktoriaus patvirtintas darbo reglamentas.“ ^s-ebac510b29deecf7824a5060
 
 
 
-### 17 straipsnis. 27 straipsnio pakeitimas
+### 17 straipsnis. 27 straipsnio pakeitimas ^s-85755bf1584bea82fe2e28b0
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
@@ -379,14 +384,14 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 „27 straipsnis. Priežiūros tarnybos steigimas ir likvidavimas
 
 
-1. Priežiūros tarnyba steigiama, reorganizuojama ir likviduojama įstatymų nustatyta tvarka. ^1f0b05da251eee5b30eefd70
+1. Priežiūros tarnyba steigiama, reorganizuojama ir likviduojama įstatymų nustatyta tvarka. ^s-59678b301947995a676db250
 
 
-2. Priežiūros tarnybos nuostatus tvirtina Vyriausybė arba jos pavedimu finansų ministras.“ ^5d17daea9e571d2598821683
+2. Priežiūros tarnybos nuostatus tvirtina Vyriausybė arba jos pavedimu finansų ministras.“ ^s-3d269da197a3b6138c66c100
 
 
 
-### 18 straipsnis. 28 straipsnio pakeitimas
+### 18 straipsnis. 28 straipsnio pakeitimas ^s-c4471eca121c501f1047c07d
 
 
 28 straipsnio pavadinime vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“, straipsnio pirmoje pastraipoje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šį straipsnį išdėstyti taip:
@@ -399,29 +404,29 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 Priežiūros tarnyba, įgyvendindama šio įstatymo nuostatas:
 
 
-1) nagrinėja dokumentus, reikalingus išduoti licencijoms organizuoti lošimus; ^d71fefb6026be8822409362b
+1) nagrinėja dokumentus, reikalingus išduoti licencijoms organizuoti lošimus; ^s-e04888c68741bf91fac8ceac
 
 
-2) nagrinėja dokumentus, reikalingus išduoti leidimams atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino); ^8ed07b8d2f0e83a6bb9e52c1
+2) nagrinėja dokumentus, reikalingus išduoti leidimams atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino); ^s-4f51aa2706b97b5c84f07600
 
 
-3) išduoda licencijas organizuoti lošimus ir panaikina jų galiojimą; ^f4c049318c0e00d6e937cca1
+3) išduoda licencijas organizuoti lošimus ir panaikina jų galiojimą; ^s-d2d71af103877f6df3d2aa73
 
 
-4) išduoda leidimus atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino), šiuos leidimus papildo, pakeičia ir panaikina jų galiojimą; ^78aa1c9e37dfcb5a5d32cea5
+4) išduoda leidimus atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino), šiuos leidimus papildo, pakeičia ir panaikina jų galiojimą; ^s-701aa80ccbef9ea3e7e6d6c0
 
 
-5) kontroliuoja, kaip lošimų organizatoriai laikosi įstatymų bei kitų teisės aktų, reglamentuojančių lošimų organizavimą, reikalavimų; ^329361e1dcc3f8b8ece8350f
+5) kontroliuoja, kaip lošimų organizatoriai laikosi įstatymų bei kitų teisės aktų, reglamentuojančių lošimų organizavimą, reikalavimų; ^s-587f0adb17efd9f01d01dd8f
 
 
-6) rengia lošimų organizavimą reglamentuojančių teisės aktų projektus; ^a80f7c998544a423d1272005
+6) rengia lošimų organizavimą reglamentuojančių teisės aktų projektus; ^s-136b44061e2200ec3558be63
 
 
-7) tvarko Lietuvos lošimo įrenginių registrą.“ ^159032d26d8cce881b20ef12
+7) tvarko Lietuvos lošimo įrenginių registrą.“ ^s-cf3b663b3b8b8bfb3ec43a4f
 
 
 
-### 19 straipsnis. 29 straipsnio pakeitimas
+### 19 straipsnis. 29 straipsnio pakeitimas ^s-9808d41f208d63e3296ec7f1
 
 
 29 straipsnio pavadinime vietoj žodžio „komisijos“ įrašyti žodį „tarnybos“, straipsnio pirmoje pastraipoje vietoj žodžio „komisija“ įrašyti žodį „tarnyba“ ir šį straipsnį išdėstyti taip:
@@ -434,41 +439,41 @@ Priežiūros tarnyba, įgyvendindama šio įstatymo nuostatas:
 Priežiūros tarnyba, atlikdama jai pavestas funkcijas, turi teisę:
 
 
-1) gauti informaciją, reikalingą priežiūros funkcijoms atlikti; ^1f8153fdf71269f20e99f7d3
+1) gauti informaciją, reikalingą priežiūros funkcijoms atlikti; ^s-9a2153f54eaf65eed34132bc
 
 
-2) tikrinti, kaip lošimų organizatoriai laikosi šio įstatymo ir kitų teisės aktų reikalavimų lošimų organizavimo vietose; ^534d17d457a53e5c51a08aec
+2) tikrinti, kaip lošimų organizatoriai laikosi šio įstatymo ir kitų teisės aktų reikalavimų lošimų organizavimo vietose; ^s-02b1c71d2cfb12cabb62dae1
 
 
-3) tikrinti lošimus organizuojančių bendrovių finansinę veiklą; ^bca52c469ed55244c14f761e
+3) tikrinti lošimus organizuojančių bendrovių finansinę veiklą; ^s-9b4c10a9d4ab73bacb9f3fdb
 
 
-4) reikalauti, kad lošimų organizatoriai pateiktų paaiškinimus apie lošimų organizavimą; ^14286e8a7af59be566f041a0
+4) reikalauti, kad lošimų organizatoriai pateiktų paaiškinimus apie lošimų organizavimą; ^s-15e46a5da15c65503a1cddc3
 
 
-5) nustatyti lošimus organizuojančių bendrovių įstatinio kapitalo dalies investavimo į Vyriausybės vertybinius popierius tvarką; ^d53dac07ed3d736148ad1aee
+5) nustatyti lošimus organizuojančių bendrovių įstatinio kapitalo dalies investavimo į Vyriausybės vertybinius popierius tvarką; ^s-fa7525369a06749a5136320e
 
 
-6) nustatyti lošimo įrenginių ženklinimo tvarką; ^d814c0016bdb8200df5b9e02
+6) nustatyti lošimo įrenginių ženklinimo tvarką; ^s-ff0afa24538ecb4526bfd1b0
 
 
-7) nustatyti reikalavimus lošimų įrenginiams; ^3017c5e364f5d7e817abd392
+7) nustatyti reikalavimus lošimų įrenginiams; ^s-3b54a90aaa269f64e020b01e
 
 
-8) nustatyti lošimų įrenginiams pildomų žurnalų formą ir jų pildymo tvarką; ^98fda5c55216045a438a6d93
+8) nustatyti lošimų įrenginiams pildomų žurnalų formą ir jų pildymo tvarką; ^s-a328a16149fd8c2b0c521608
 
 
-9) nustatyti, kokiai lošimo rūšiai priskirti lošimą, jeigu jis neatitinka visų konkrečiai lošimo rūšiai nustatytų požymių arba atitinka kelioms lošimo rūšims nustatytus požymius; ^833ffb9d941d7c40bf0538fc
+9) nustatyti, kokiai lošimo rūšiai priskirti lošimą, jeigu jis neatitinka visų konkrečiai lošimo rūšiai nustatytų požymių arba atitinka kelioms lošimo rūšims nustatytus požymius; ^s-d9fe54134b4550683c713c92
 
 
-10) nustatyti, kokias finansines ataskaitas ir kokia tvarka turi teikti lošimus organizuojanti bendrovė; ^8ebdcf6b79c015e4f023c99b
+10) nustatyti, kokias finansines ataskaitas ir kokia tvarka turi teikti lošimus organizuojanti bendrovė; ^s-1a26ebe2c8fde0ddeaaa4abe
 
 
-11) taikyti lošimus organizuojančioms bendrovėms šio įstatymo ir kitų teisės aktų, reglamentuojančių lošimų organizavimą, nustatytas poveikio priemones.“ ^e9e6045137f27e0bc87c5ffa
+11) taikyti lošimus organizuojančioms bendrovėms šio įstatymo ir kitų teisės aktų, reglamentuojančių lošimų organizavimą, nustatytas poveikio priemones.“ ^s-c7e6903becccb5114c7233e6
 
 
 
-### 20 straipsnis. 30 straipsnio pakeitimas
+### 20 straipsnis. 30 straipsnio pakeitimas ^s-ea0079c3c4fbc3374161a300
 
 
 30 straipsnyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šį straipsnį išdėstyti taip:
@@ -481,23 +486,23 @@ Lošimus organizuojanti bendrovė ne vėliau kaip per 4 mėnesius nuo ūkinių m
 
 
 
-### 21 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir Finansų ministerijai
+### 21 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir Finansų ministerijai ^s-0549dfd0244d3828ab8e4655
 
 
 Lietuvos Respublikos Vyriausybė ir Finansų ministerija iki šio įstatymo įsigaliojimo pagal savo kompetenciją parengia ir patvirtina teisės aktus, reikalingus šiam įstatymui įgyvendinti.
 
 
 
-### 22 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 22 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-f09937dd1620ba0d067e47ab
 
 
-1. Šis įstatymas, išskyrus [[#21 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir Finansų ministerijai|21 straipsnį]] ir [[#^99d1d65b90bd8c15e0a4169e|šio straipsnio 2 dalį]], įsigalioja 2012 m. kovo 1 d. ^2825b4bfbc7c7c0a19c11e1f
+1. Šis įstatymas, išskyrus [[#^s-0549dfd0244d3828ab8e4655|21 straipsnį]] ir [[#^s-cf7a8834aa3e4f214a737f64|šio straipsnio 2 dalį]], įsigalioja 2012 m. kovo 1 d. ^s-9d31b4d1c93734cd79f779d6
 
 
-2. Valstybinės lošimų priežiūros komisijos narių pareigybės panaikinamos likus vienai dienai iki šio įstatymo įsigaliojimo. Valstybinės lošimų priežiūros komisijos nariai apie atleidimą iš pareigų įspėjami Lietuvos Respublikos darbo kodekso nustatyta tvarka. ^99d1d65b90bd8c15e0a4169e
+2. Valstybinės lošimų priežiūros komisijos narių pareigybės panaikinamos likus vienai dienai iki šio įstatymo įsigaliojimo. Valstybinės lošimų priežiūros komisijos nariai apie atleidimą iš pareigų įspėjami [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] nustatyta tvarka. ^s-cf7a8834aa3e4f214a737f64
 
 
-3. Biudžetinė įstaiga Valstybinė lošimų priežiūros komisija keičia pavadinimą į Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos ir pavaldumą iš įstaigos, atskaitingos Vyriausybei, į įstaigą prie Lietuvos Respublikos finansų ministerijos. ^c67f26b03189b7cfbde26b68
+3. Biudžetinė įstaiga Valstybinė lošimų priežiūros komisija keičia pavadinimą į Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos ir pavaldumą iš įstaigos, atskaitingos Vyriausybei, į įstaigą prie Lietuvos Respublikos finansų ministerijos. ^s-102b63d4c9048a39703dadf3
 
 
 

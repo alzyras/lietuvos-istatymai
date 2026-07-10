@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CA47D1D0C944"
 pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos rinkliavų įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "rinkliavų įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-30"
 latest_path: "latest/TAR.CA47D1D0C944.md"
 latest_sha256: "909890fa2ab4148f1db024deaaf385ff6145edc96bd8fe2bcfc549be0ed91939"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CA47D1D0C944]]"
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CA47D1D0C944.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CA47D1D0C944
+- Ryšiai: [[Ryšiai/TAR.CA47D1D0C944|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-81721eed5679b0f62ed36552
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4AA6F3887386"
 pavadinimas: "Lietuvos Respublikos statistikos įstatymo 8, 9, 10, 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statistikos įstatymo 8, 9, 10, 12 straipsnių pakeitimo įstatymas"
+  - "statistikos įstatymo 8, 9, 10, 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.4AA6F3887386.md"
 latest_sha256: "64928b95eb8b9129ffcdb23e65a55429caae8338c5993a43cd3ae7600451217a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4AA6F3887386]]"
 ---
 # Lietuvos Respublikos statistikos įstatymo 8, 9, 10, 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4AA6F3887386.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4AA6F3887386
+- Ryšiai: [[Ryšiai/TAR.4AA6F3887386|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-558c4ca677db2a13f881d3dd
 
 
 8 straipsnyje vietoj žodžių „apskrities valdytojas“, „apskrities valdytojo“, „apskričių valdytojams“ įrašyti atitinkamai žodžius „apskrities viršininkas“, „apskrities viršininko“, „apskričių viršininkams“ ir visą straipsnį išdėstyti taip:
@@ -43,10 +48,10 @@ Vilnius
 Apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai pavaldūs Statistikos departamentui. Jie:
 
 
-1) atlieka statistikos darbus, numatytus Statistikos departamento metinėse darbų programose, gali atlikti kitus statistikos darbus, kuriuos paveda ir finansuoja apskrities viršininkas ir savivaldybės; ^e177cbb538e11b625e9e24f8
+1) atlieka statistikos darbus, numatytus Statistikos departamento metinėse darbų programose, gali atlikti kitus statistikos darbus, kuriuos paveda ir finansuoja apskrities viršininkas ir savivaldybės; ^s-42fa1bc0fa8229967cc68107
 
 
-2) rengia išsamią atitinkamo teritorinio darinio statistikos informaciją apie: ^f4ecb9ff05108735a8a7d00f
+2) rengia išsamią atitinkamo teritorinio darinio statistikos informaciją apie: ^s-603275602eb634688bd0b9f4
 gyventojų skaičių ir sudėtį,
 administracinį suskirstymą,
 ūkio subjektų gamybinį potencialą ir veiklos rezultatus,
@@ -57,14 +62,14 @@ politinių partijų, politinių ir visuomeninių organizacijų bei profesinių s
 Šiam tikslui statistikos valdybos ir skyriai naudoja savo sukauptą ir kitų apskrities viršininko administracijos ir savivaldybės administracijos padalinių surinktą statistikos medžiagą, nurodydami šaltinius ar autorius.
 
 
-3) nemokamai teikia apskričių viršininkams ir vietos savivaldos institucijoms statistikos informaciją, pagal sutartis teikia ir mokamą statistikos informaciją; ^7f8f6fdc711e59b82261781e
+3) nemokamai teikia apskričių viršininkams ir vietos savivaldos institucijoms statistikos informaciją, pagal sutartis teikia ir mokamą statistikos informaciją; ^s-ac4610c1f65a606ff7fffd0b
 
 
-4) informuoja visuomenę apie teritorinio darinio ekonominę ir socialinę būklę, demografinius bei aplinkos procesus.“ ^ace114255467fbfdcc402c71
+4) informuoja visuomenę apie teritorinio darinio ekonominę ir socialinę būklę, demografinius bei aplinkos procesus.“ ^s-17318b50ffea896f222dc3ab
 
 
 
-### 2 straipsnis. 9 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 2 dalies pakeitimas ^s-e965d43432ae1b5af1a814c6
 
 
 9 straipsnio 2 dalyje vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šią dalį išdėstyti taip:
@@ -74,7 +79,7 @@ politinių partijų, politinių ir visuomeninių organizacijų bei profesinių s
 
 
 
-### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-d9f211380bc578dbd4360bf2
 
 
 10 straipsnio 4 dalyje vietoj žodžių „Apskričių valdytojai“ įrašyti žodžius „Apskričių viršininkai“ ir šią dalį išdėstyti taip:
@@ -84,7 +89,7 @@ politinių partijų, politinių ir visuomeninių organizacijų bei profesinių s
 
 
 
-### 4 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-236ba21e046459873cecfb9d
 
 
 12 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0954057C7916"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.0954057C7916.md"
 latest_sha256: "dd42c394cd4ee97e2f2c00e55822fa055780999c49332c40dc0870418d3c503f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0954057C7916]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0954057C7916.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0954057C7916
+- Ryšiai: [[Ryšiai/TAR.0954057C7916|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,36 +38,36 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-5f06632effebc4f2f1c95956
 
 
-Pakeisti 3 straipsnio 1 dalies 2 punktą, straipsnį papildyti [[#^8667a5123f2d880e9e1207ea|2 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti 3 straipsnio 1 dalies 2 punktą, straipsnį papildyti [[#^s-7be36c5fac05b14afb9371af|2 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 
 „3 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti moterų ir vyrų lygias teises
 
 
-1. Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo: ^d035b5a7c9cde9bbecae4a2f
+1. Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo: ^s-0d8e18a9b3edd941c173a71c
 
 
-1) užtikrinti, kad visuose jų rengiamuose ir priimamuose teisės aktuose būtų įtvirtintos lygios moterų ir vyrų teisės; ^7cec3f6b63215c425c3fe1d1
+1) užtikrinti, kad visuose jų rengiamuose ir priimamuose teisės aktuose būtų įtvirtintos lygios moterų ir vyrų teisės; ^s-6d727d568a1e434b9df97ea7
 
 
-2) rengti ir įgyvendinti priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti; ^6b9257cab2fc7f8e65b47e51
+2) rengti ir įgyvendinti priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti; ^s-7fac13e619974d05cf7c949a
 
 
-3) įstatymų nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes; ^8098822c3d76dcfbe38171b5
+3) įstatymų nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes; ^s-452300a5c54ad7a2b698efc8
 
 
-4) teikiant administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių teisių. ^dd9714c4e1383a42748bc094
+4) teikiant administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių teisių. ^s-a7535aacf4edb6571df43c4f
 
 
-2. Valstybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato strateginio planavimo dokumentuose. Savivaldybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.“ ^8667a5123f2d880e9e1207ea
+2. Valstybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato strateginio planavimo dokumentuose. Savivaldybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.“ ^s-7be36c5fac05b14afb9371af
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6321e494de7ed463edbdc60f
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

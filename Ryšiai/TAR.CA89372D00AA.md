@@ -1,0 +1,137 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.CA89372D00AA"
+pavadinimas: "Lietuvos Respublikos policijos įstatymas"
+---
+# Lietuvos Respublikos policijos įstatymas: ryšiai
+
+- [[latest/TAR.CA89372D00AA|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.C9C43AA173A9|Lietuvos policijos veiklos įstatymo 12 ir 17 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. IX-1504
+- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme
+- [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme
+- [[latest/TAR.41DF8845007B|Lietuvos Respublikos policijos veiklos įstatymo 1, 2, 3, 6-2, 7, 11, 12, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - Įstatymas Nr. XI-444
+- [[latest/TAR.4713374F3EB1|Lietuvos Respublikos policijos veiklos įstatymo 12 ir 13 straipsnių pakeitimo įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO 12 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.44ABFFCFE219|Lietuvos Respublikos policijos veiklos įstatymo 14 straipsnio pakeitimo įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.BD49D36220A1|Lietuvos Respublikos policijos veiklos įstatymo 20 straipsnio pakeitimo įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A21A7B0F53DF|Lietuvos Respublikos policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A5AF47A700E1|Lietuvos Respublikos policijos veiklos įstatymo 6 straipsnio pakeitimo ir įstatymo papildymo 6(1) bei 6(2 )straipsniais įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 6(1) BEI 6(2) STRAIPSNIAIS ĮSTATYMAS
+- [[latest/TAR.2F59C1BF78B3|Lietuvos Respublikos policijos veiklos įstatymo 6, 12 straipsnių papildymo ir pakeitimo įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO 6, 12 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.20E97F7D46DA|Lietuvos Respublikos policijos veiklos įstatymo antrojo skirsnio pavadinimo ir 11, 12, 14 straipsnių pakeitimo įstatymas]] - 4 citatos - POLICIJOS VEIKLOS ĮSTATYMO ANTROJO SKIRSNIO PAVADINIMO IR 11, 12, 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/b7e723b0132e11e58569be21ff080a8c|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 18 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1765
+- [[latest/0cb158004ae611e4a8328599cac64d82|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1162
+- [[latest/28d39920217e11e5b336e9064144f02a|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - 4 citatos - įstatymo Nr. XII-1856
+- [[latest/34b281901d4a11e9875cdc20105dd260|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2 ir 23 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1917
+- [[latest/59aaf352a8b411ef90b5ee8931e5ce5e|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 27 ir 28 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3136
+- [[latest/3534232023de11e684adf059272c7587|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 6, 27 ir 28 straipsnių pakeitimo ir 26 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XII-2366
+- [[latest/7da292f0004511e88bcec397524184ce|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 28 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1006
+- [[latest/81fbe4f2040511edb32c9f9d8ba206f8|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1208
+- [[latest/f93a86709c1511ea9515f752ff221ec9|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2923
+- [[latest/08347d100aa511e9a5eaf2cd290f1944|Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6, 23 ir 27 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1866
+- [[latest/TAR.423D6799832E|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme
+- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - Lietuvos Respublikos Vyriausybės įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.A18D5887558C|Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo]] - Lietuvos Respublikos policijos įstatymo
+- [[latest/20eaebd0c1cb11ea9815f635b9c0dcef#^s-6dda7499da26d7d4f6be9154|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 1, 2, 3, 4, 6, 8, 9, 11, 12, 14, 39-8, 46, 48, 49, 50, 53 ir 54 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/20eaebd0c1cb11ea9815f635b9c0dcef#^s-dcff484fd8139b0c3cfa3f6f|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 1, 2, 3, 4, 6, 8, 9, 11, 12, 14, 39-8, 46, 48, 49, 50, 53 ir 54 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/8e16f8b023e211e684adf059272c7587#^s-c6fd5c42b3616892e99aeca4|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 12, 40, 41, 43 straipsnių, V skyriaus pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/11040ad0498f11ea8aceeadd0c5b168c#^s-3423d841c909f31681d491c8|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 3, 12 straipsnių, IV skyriaus antrojo skirsnio pakeitimo, Įstatymo papildymo 6-1 straipsniu ir IV skyriaus trečiojo skirsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/11040ad0498f11ea8aceeadd0c5b168c#^s-bae0ba6c5f9dcc494f68f9fe|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 3, 12 straipsnių, IV skyriaus antrojo skirsnio pakeitimo, Įstatymo papildymo 6-1 straipsniu ir IV skyriaus trečiojo skirsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/a1d20510a8b411ef90b5ee8931e5ce5e#^s-e2083ce7194447a5a9507a8a|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 41 ir 43 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/04d01952b3fd11f092fda1fd0c194cc5#^s-0ae7ee423939ee9f023da4f1|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/04d01952b3fd11f092fda1fd0c194cc5#^s-ac915c159f5fcb95560c6f5d|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/8b5a4a1088f711e8af589337bf1eb893#^s-55d33ef1e77641bfa361ad14|Lietuvos Respublikos bausmių vykdymo sistemos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/8b5a4a1088f711e8af589337bf1eb893#^s-d31d475e30b5372faa0af172|Lietuvos Respublikos bausmių vykdymo sistemos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/df4fe6f2a8b411ef90b5ee8931e5ce5e#^s-a9647e2165c433a5870e7f59|Lietuvos Respublikos bausmių vykdymo sistemos įstatymo Nr. XIII-1387 2, 13 ir 14 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.9390A9F9A815#^s-0b40fa88680b79fb6de05f8d|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - Lietuvos Respublikos policijos įstatymo
+- [[latest/TAR.9390A9F9A815#^s-6b5551165596bd081735c2ed|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.9390A9F9A815#^s-7d92278fe25bee78599ee16b|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/1c4a6802a8b511ef90b5ee8931e5ce5e#^s-9b18a44bce2d8f6d2eeaafb1|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 15 ir 17 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/b6d31ee023de11e684adf059272c7587#^s-6a946872aa6503da762b1bd2|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 7, 15, 17 straipsnių, V skyriaus pavadinimo pakeitimo ir 16, 18 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/b6d31ee023de11e684adf059272c7587#^s-6fef09eb8c38151f927b3250|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 7, 15, 17 straipsnių, V skyriaus pavadinimo pakeitimo ir 16, 18 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.23C5BC14E2B6#^s-07844339afa2a16db1339475|Lietuvos Respublikos karo policijos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.23C5BC14E2B6#^s-18c57dcf8fd7c69df907dcac|Lietuvos Respublikos karo policijos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.85D8113634A1#^s-2248444f6b062fcb7110413d|Lietuvos Respublikos karo policijos įstatymo 2, 5, 9, 10, 11, 12, 13, 14, 15, 20, 21 straipsnių pakeitimo ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos veiklos įstatyme
+- [[latest/TAR.85D8113634A1#^s-7c5cec542763ffbe539dfa2e|Lietuvos Respublikos karo policijos įstatymo 2, 5, 9, 10, 11, 12, 13, 14, 15, 20, 21 straipsnių pakeitimo ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos veiklos įstatyme
+- [[latest/7a250eb00a9311e9a5eaf2cd290f1944#^s-220c8d7a06467e0ac85b23dd|Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 2 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/8e83ace02b3411eb932eb1ed7f923910#^s-546e0f64535f6535f1894862|Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/8e83ace02b3411eb932eb1ed7f923910#^s-8c5d7b3ec7dbb8a073caa4f9|Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/8e83ace02b3411eb932eb1ed7f923910#^s-ec4fc226507af938723af7d1|Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.E0EA485657C8#^s-27d072cb982216f62c08f50a|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.E0EA485657C8#^s-6036464e7034aa470d78d3ce|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.E0EA485657C8#^s-9b8110960462c9657fcfd73f|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Policijos įstatymo 27 ir 28 straipsniuose
+- [[latest/TAR.E0EA485657C8#^s-fa585d4ef67b4baee5022f12|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Policijos įstatymo 27 ir 28 straipsniuose
+- [[latest/a9fbd730b02711ec8d9390588bf2de65#^s-69a89b7ce6ff1554771a0af4|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 16, 17, 32 ir 33 straipsnių pakeitimo įstatymas]] - Policijos įstatymo 27 ir 28 straipsniuose
+- [[latest/a9fbd730b02711ec8d9390588bf2de65#^s-f2748769ae57cad77f686076|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 16, 17, 32 ir 33 straipsnių pakeitimo įstatymas]] - Policijos įstatymo 27 ir 28 straipsniuose
+- [[latest/69699b02c13911ef88c08519262548c4#^s-1265347c05109e61d22f6e74|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-4d3200831c41f24bcdffeefe|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-64248241dbe9e6257d026894|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Policijos įstatymo 27 ir 28 straipsniuose
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-80f10b932dcf0afa8d855366|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/69699b02c13911ef88c08519262548c4#^s-a1dd6026ef5fb5c507483d38|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-eac8afb5fc07e0e3f0c1924d|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Policijos įstatymo 27 ir 28 straipsniuose
+- [[latest/TAR.532A15EA12B5#^s-a8d8a08e1438c46859fe64cb|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 1, 2, 3, 4, 5, 6 straipsnių bei priedėlio preambulės ir 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 skyrių pakeitimo ir papildymo įstatymas]] - Policijos veiklos įstatymas
+- [[latest/48f9e5506eb711ec993ff5ca6e8ba60c#^s-29060c352f20571d987513f4|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/48f9e5506eb711ec993ff5ca6e8ba60c#^s-39cad585e6bfdc3c09017ace|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-45db34bcd64727ac10f58be7|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-4b56d406eb6ad65675172f28|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.17D427E4AAD3#^s-dfd3218e9a8dd670394de688|Lietuvos Respublikos policijos rėmėjų įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.17D427E4AAD3#^s-fdc6e42e6a830d0e624b1959|Lietuvos Respublikos policijos rėmėjų įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.41DF8845007B#^s-4f322e4655915950ddc5d442|Lietuvos Respublikos policijos veiklos įstatymo 1, 2, 3, 6-2, 7, 11, 12, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos policijos veiklos įstatymo
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-0ca105a4408c756f29e71b7b|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 10 straipsnio 6 punkto
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-184ba87b57f924cbf1c16908|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-28034f83b6b2e0708862fd83|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 14 straipsnio 1 dalies
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-34bb5c107ce984beae9f499a|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 19 straipsnio 3 dalies
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-38b67ee02faacebe8a1b83a3|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS POLICIJos ĮSTATYMAS
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-5d77ef0be86e014440820ad7|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos policijos įstatymo 10 straipsnio 6 punkto
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-5e8350578665f4506753b637|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 19 straipsnio 3 dalies
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-82ef7845dfce11bf2476e056|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 14 straipsnio 1 dalies
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-d048b604a27b09adec865848|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo
+- [[latest/28d39920217e11e5b336e9064144f02a#^s-e8440a5e3ef8a786023fadda|Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 10 straipsnio 6 punkto
+- [[latest/TAR.5DC1759E42CB#^s-5a4c293bac87b3a6558c8281|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Policijos įstatyme
+- [[latest/TAR.5DC1759E42CB#^s-e08914fde74bf057640645e4|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Policijos įstatyme
+- [[latest/TAR.797DA59D50C9#^s-1911896cecbde44a16da35f7|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 1, 6, 7, 8 straipsnių pakeitimo įstatymas]] - Policijos įstatyme
+- [[latest/TAR.797DA59D50C9#^s-34120c818d34fb2f4dff9b43|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 1, 6, 7, 8 straipsnių pakeitimo įstatymas]] - Policijos įstatyme
+- [[latest/TAR.94AB09DDD644#^s-97b70711a9afcbde0c1bfa97|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2, 6, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 33 straipsnių, įstatymo priedo pakeitimo ir papildymo ir įstatymo papildymo 6-1, 27-1 straipsniais įstatymas]] - Policijos veiklos įstatyme
+- [[latest/TAR.94AB09DDD644#^s-9d1c1531721c8d3014eee3ab|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2, 6, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 33 straipsnių, įstatymo priedo pakeitimo ir papildymo ir įstatymo papildymo 6-1, 27-1 straipsniais įstatymas]] - Policijos veiklos įstatyme
+- [[latest/2ecfa200ec8e11e78a1adea6fe72f3c5#^s-061c45d424eea1330f1c3aa9|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 13 ir 22 straipsnių pakeitimo įstatymas]] - Policijos įstatyme
+- [[latest/2ecfa200ec8e11e78a1adea6fe72f3c5#^s-e5f3a1298e110342b4fb526f|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 13 ir 22 straipsnių pakeitimo įstatymas]] - Policijos įstatyme
+- [[latest/TAR.8D97CD7E1857#^s-c14f3ce689e68bfdfde0f255|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas]] - Policijos veiklos įstatyme
+- [[latest/TAR.8D97CD7E1857#^s-e17891b9da9d9744be18386f|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas]] - Policijos veiklos įstatyme
+- [[latest/787506209cf311e69ad4c8713b612d0f#^s-60c97ba70b15dcae32909adb|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/787506209cf311e69ad4c8713b612d0f#^s-edb60c59539a9185b9f774b1|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/2634aca02a8611e78397ae072f58c508#^s-cdc3c941b1c81cf6b80088b6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymo Nr. XII-2683 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.9C9FA25983BC#^s-043406e7237f303bdcec05b9|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.9C9FA25983BC#^s-f84c38d215ccb12f4081d8c6|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/a3e86c85a8b511ef90b5ee8931e5ce5e#^s-a00a57382c05205204f7c760|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 2, 67 ir 68 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/52d2a460ec7311e78a1adea6fe72f3c5#^s-47284e93a31ae52a19330c65|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/52d2a460ec7311e78a1adea6fe72f3c5#^s-aab25a2ee707bc5a5ccc44a3|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.AF4E384215F8#^s-090fe9820fd3a6ab3235f56a|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.AF4E384215F8#^s-f8bc6e47a13f1232a4489298|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/e872b542e56311f08918e1adc7c5b1ec#^s-ca3fa472d268fbb88805838f|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 1, 2, 4, 5, 9, 10, 11, 13, 14, 15, 16, 18, 19, 20, 23, 27, 36, 37, 38, 40, 45, 50, 55, 57, 58, 59, 60, 61, 65, 66, 72, 73, 74 straipsnių ir priedo pakeitimo, Įstatymo papildymo 63-1 straipsniu bei 35 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/e872b542e56311f08918e1adc7c5b1ec#^s-edce18c992c6a2a201ed4329|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 1, 2, 4, 5, 9, 10, 11, 13, 14, 15, 16, 18, 19, 20, 23, 27, 36, 37, 38, 40, 45, 50, 55, 57, 58, 59, 60, 61, 65, 66, 72, 73, 74 straipsnių ir priedo pakeitimo, Įstatymo papildymo 63-1 straipsniu bei 35 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/a423af2023df11e684adf059272c7587#^s-6ccb6d0a662cc2b2231f7be0|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 12, 22, 23 straipsnių pakeitimo ir 24, 25, 26 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/a423af2023df11e684adf059272c7587#^s-814b9f953311c7daaf37977e|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 12, 22, 23 straipsnių pakeitimo ir 24, 25, 26 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.0F8C601D8592#^s-23b62402f53ca59dda12b816|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.0F8C601D8592#^s-ac26a2c963042123e43f2c80|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/992654b0790b11ec993ff5ca6e8ba60c#^s-232d8a1d9cff90ed5d2aaf17|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 22, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/23dd73b0a8b411ef90b5ee8931e5ce5e#^s-ad40df87391cbe7e941c6529|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 28 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/ef35e3024c3111f0b070ee7f1ceefc75#^s-afb67c2c9968c3a593f2975a|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 4 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/1dea548067b411e7827cd63159af616c#^s-26f458a220882d37c99127e6|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/1dea548067b411e7827cd63159af616c#^s-468ffafa67f1a1d7cd5f89e1|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/1f9e84d0e43711ed9978886e85107ab2#^s-1936735e998616a47101a9d8|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/1f9e84d0e43711ed9978886e85107ab2#^s-976b3773bf788f88e5278021|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/TAR.4FC026AC03AE#^s-3e1b29e6dcfcf1cee60e37a3|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos policijos įstatymas
+- [[latest/TAR.4FC026AC03AE#^s-6bffbfb28a086a03d095dc08|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos policijos įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-b1bc3e7e6d8c758e0af09469|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - 5 citatos - Lietuvos Respublikos policijos įstatymas
+- [[latest/TAR.4FC026AC03AE#^s-c80b326ce26f0a710857823f|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 5, 27 straipsnių
+- [[latest/TAR.4FC026AC03AE#^s-e0efd72d860ad1a844d82d9f|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos policijos įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-eee8e25e0952798cbd2e5aae|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 12, 13, 25 straipsnių
+- [[latest/TAR.4FC026AC03AE#^s-fe74b03d10b92ff46d730ad9|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos policijos įstatymo 12, 13, 25 straipsnių
+- [[latest/a23c7ef08b7c11e9ae2e9d61b1f977b3#^s-ab70b3de4d0cbdf25faaac65|Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/a23c7ef08b7c11e9ae2e9d61b1f977b3#^s-e401b1c21d1d96b3b8732484|Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/7f94983023e011e684adf059272c7587#^s-2d2a7438c99587722f6c7daf|Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2, 7, 12, 14 straipsnių pakeitimo ir 13, 15, 16 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos policijos įstatyme
+- [[latest/7f94983023e011e684adf059272c7587#^s-3bc56428e3d3ac200921b0f0|Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2, 7, 12, 14 straipsnių pakeitimo ir 13, 15, 16 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos policijos įstatyme

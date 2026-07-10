@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5D53ED7683B5"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 straipsnių pakeitimo ir papildymo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-16"
 latest_path: "latest/TAR.5D53ED7683B5.md"
 latest_sha256: "74a4856f265c2ecad33500d74788a49dde41c5d950d38de33030778bbc48c304"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5D53ED7683B5]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5D53ED7683B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5D53ED7683B5
+- Ryšiai: [[Ryšiai/TAR.5D53ED7683B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-073f1f9b2170f9d8bd79e34b
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -40,14 +45,14 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Prekių tiekimu laikomas:
 
 
-1) prekių perdavimas kitam asmeniui, kai pagal sandorio sąlygas šis asmuo arba trečioji šalis įgyja teisę disponuoti tomis prekėmis kaip jų savininkas, išskyrus prekių, atgabentų iš kitos valstybės narės šio Įstatymo 41 straipsnio 6 dalyje nurodytomis sąlygomis, nuosavybės perdavimą toje dalyje nurodytam PVM mokėtojui, arba ^6b4b0a76ee3257a7d0a4fc7b
+1) prekių perdavimas kitam asmeniui, kai pagal sandorio sąlygas šis asmuo arba trečioji šalis įgyja teisę disponuoti tomis prekėmis kaip jų savininkas, išskyrus prekių, atgabentų iš kitos valstybės narės šio Įstatymo 41 straipsnio 6 dalyje nurodytomis sąlygomis, nuosavybės perdavimą toje dalyje nurodytam PVM mokėtojui, arba ^s-264ad56f8ffd261eeb3f0bff
 
 
-2) prekių išgabenimas iš šalies teritorijos kitos valstybės narės PVM mokėtojui, kuriam pagal sandorio sąlygas numatytas prekių nuosavybės perdavimas, o prekės yra padedamos saugoti į šiam PVM mokėtojui nuosavybės teise priklausančius ar kitais teisėtais pagrindais naudojamus sandėlius ar kitas patalpas, jeigu toje valstybėje narėje yra taikomos nuostatos, iš esmės atitinkančios šio Įstatymo 41 straipsnio 6 dalies nuostatas. Toks prekių išgabenimas laikomas prekių tiekimu kitos valstybės narės PVM mokėtojui.“ ^291dcebf805a7e57daab241c
+2) prekių išgabenimas iš šalies teritorijos kitos valstybės narės PVM mokėtojui, kuriam pagal sandorio sąlygas numatytas prekių nuosavybės perdavimas, o prekės yra padedamos saugoti į šiam PVM mokėtojui nuosavybės teise priklausančius ar kitais teisėtais pagrindais naudojamus sandėlius ar kitas patalpas, jeigu toje valstybėje narėje yra taikomos nuostatos, iš esmės atitinkančios šio Įstatymo 41 straipsnio 6 dalies nuostatas. Toks prekių išgabenimas laikomas prekių tiekimu kitos valstybės narės PVM mokėtojui.“ ^s-02e15e38b03a43b3d55bca56
 
 
 
-### 2 straipsnis. 41 straipsnio papildymas 6 dalimi
+### 2 straipsnis. 41 straipsnio papildymas 6 dalimi ^s-06a18839c01cd10e4a22e1db
 
 
 Papildyti 41 straipsnį 6 dalimi:
@@ -57,7 +62,7 @@ Papildyti 41 straipsnį 6 dalimi:
 
 
 
-### 3 straipsnis. 15 straipsnio 15 dalies 2 punkto pakeitimas
+### 3 straipsnis. 15 straipsnio 15 dalies 2 punkto pakeitimas ^s-5901aeba11b3a8815b505b2f
 
 
 Pakeisti 15 straipsnio 15 dalies 2 punktą ir jį išdėstyti taip:
@@ -67,7 +72,7 @@ Pakeisti 15 straipsnio 15 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-3bab129435b7a390ec5f4599
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -77,23 +82,23 @@ Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 22 straipsnio 1 ir 4 dalių pakeitimas
+### 5 straipsnis. 22 straipsnio 1 ir 4 dalių pakeitimas ^s-05f4b7ac10c3da77067b79a0
 
 
-1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip: ^5917dbd29f4f19a8f9d7e768
+1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip: ^s-bc6168ea206349767163c57e
 
 
 „1. PVM neapmokestinami ikimokyklinis ir priešmokyklinis ugdymas, mokymas pagal pradinio, pagrindinio, vidurinio ugdymo programas, aukštojo mokslo studijos ir kvalifikacijų teikimas, neformalusis vaikų švietimas, pirminis ir tęstinis profesinis mokymas, jeigu šias paslaugas teikia juridiniai asmenys, teisės aktų nustatyta tvarka įgiję teisę jas teikti.“
 
 
-2. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip: ^0a67f2cb394b89b1f1c94ff4
+2. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip: ^s-6850783a9f39a7cead758585
 
 
 „4. PVM neapmokestinama laisvojo mokytojo veikla, jeigu mokoma pagal pradinio, pagrindinio, vidurinio ugdymo, profesinių arba aukštųjų mokyklų programas.“
 
 
 
-### 6 straipsnis. 27 straipsnio pakeitimas
+### 6 straipsnis. 27 straipsnio pakeitimas ^s-c1adf3b71145678c85124f01
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
@@ -106,7 +111,7 @@ PVM neapmokestinamos visų rūšių draudimo ir perdraudimo paslaugos, išskyrus
 
 
 
-### 7 straipsnis. 43 straipsnio pakeitimas
+### 7 straipsnis. 43 straipsnio pakeitimas ^s-fa8ab8e315cc73ca47be414b
 
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
@@ -115,35 +120,35 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 „43 straipsnis. Laivai ir orlaiviai
 
 
-1. Taikant 0 procentų PVM tarifą apmokestinamas tiekimas, priežiūra, remontas ir (arba) pertvarkymas (modernizavimas), taip pat nuoma ar čarteris: ^cd0f62f900d564c2f0c44d74
+1. Taikant 0 procentų PVM tarifą apmokestinamas tiekimas, priežiūra, remontas ir (arba) pertvarkymas (modernizavimas), taip pat nuoma ar čarteris: ^s-99c4d319d57de4b139346278
 
 
-1) jūrų laivų, skirtų keleiviams ir (arba) kroviniams vežti tarptautiniais maršrutais ir (arba) kitokioms paslaugoms už atlygį teikti; ^cdb59ade077b2dd49f0f51ef
+1) jūrų laivų, skirtų keleiviams ir (arba) kroviniams vežti tarptautiniais maršrutais ir (arba) kitokioms paslaugoms už atlygį teikti; ^s-9c090af071d40c8d74908dc7
 
 
-2) jūrų žvejybos laivų; ^a493bcef2d55ff9fbe125611
+2) jūrų žvejybos laivų; ^s-32c8c2f685c1b63320754bef
 
 
-3) laivų, skirtų paieškos ir gelbėjimo darbams jūroje. ^6f9a3353635d61d3387c2adc
+3) laivų, skirtų paieškos ir gelbėjimo darbams jūroje. ^s-9a1c38b6cf8ecabe117e1965
 
 
-2. Taikant 0 procentų PVM tarifą apmokestinamas orlaivių tiekimas, nuoma ar čarteris, jeigu orlaiviai tiekiami ar nuomojami apmokestinamiesiems asmenims, daugiau kaip pusę pajamų per metus gaunantiems iš keleivių ir (arba) krovinių vežimo ar kitokių paslaugų teikimo už atlyginimą oro transportu tarptautiniais maršrutais, taip pat šių orlaivių (išskyrus orlaivius, naudojamus asmeniniams poreikiams) priežiūra ir remontas, jeigu šios paslaugos teikiamos šioje dalyje nurodytiems apmokestinamiesiems asmenims. ^d43fb3d7c175d60ea5649332
+2. Taikant 0 procentų PVM tarifą apmokestinamas orlaivių tiekimas, nuoma ar čarteris, jeigu orlaiviai tiekiami ar nuomojami apmokestinamiesiems asmenims, daugiau kaip pusę pajamų per metus gaunantiems iš keleivių ir (arba) krovinių vežimo ar kitokių paslaugų teikimo už atlyginimą oro transportu tarptautiniais maršrutais, taip pat šių orlaivių (išskyrus orlaivius, naudojamus asmeniniams poreikiams) priežiūra ir remontas, jeigu šios paslaugos teikiamos šioje dalyje nurodytiems apmokestinamiesiems asmenims. ^s-02b94be3dfd53564f0697dd0
 
 
-3. Taikant 0 procentų PVM tarifą apmokestinamas įprastinės ir būtinos šio straipsnio 1 ir [[#^d43fb3d7c175d60ea5649332|2 dalyse]] nurodytiems laivams ir orlaiviams įrangos tiekimas ir montavimas į tokius laivus ir orlaivius, jau įmontuotos tokios įrangos remontas ir priežiūra (įskaitant atvejus, kai įrangos, naudotos šio straipsnio 1 ir [[#^d43fb3d7c175d60ea5649332|2 dalyse]] nurodytuose laivuose ir orlaiviuose, remontas ar priežiūra atliekama šią įrangą išmontavus), atsarginių dalių tiekimas į nurodytus laivus ir orlaivius, taip pat atsarginių dalių nuoma, kai šios dalys įmontuojamos į nurodytus laivus ir orlaivius. Šios dalies nuostatos netaikomos, jei orlaiviai naudojami asmeniniams poreikiams. ^266a5dcc2d7ebd2cae8ef22c
+3. Taikant 0 procentų PVM tarifą apmokestinamas įprastinės ir būtinos šio straipsnio 1 ir [[#^s-02b94be3dfd53564f0697dd0|2 dalyse]] nurodytiems laivams ir orlaiviams įrangos tiekimas ir montavimas į tokius laivus ir orlaivius, jau įmontuotos tokios įrangos remontas ir priežiūra (įskaitant atvejus, kai įrangos, naudotos šio straipsnio 1 ir [[#^s-02b94be3dfd53564f0697dd0|2 dalyse]] nurodytuose laivuose ir orlaiviuose, remontas ar priežiūra atliekama šią įrangą išmontavus), atsarginių dalių tiekimas į nurodytus laivus ir orlaivius, taip pat atsarginių dalių nuoma, kai šios dalys įmontuojamos į nurodytus laivus ir orlaivius. Šios dalies nuostatos netaikomos, jei orlaiviai naudojami asmeniniams poreikiams. ^s-14547ce4d433d8a49b512985
 
 
-4. Taikant 0 procentų PVM tarifą taip pat apmokestinamos: ^ded4b5b50b288191869a8617
+4. Taikant 0 procentų PVM tarifą taip pat apmokestinamos: ^s-f8b18bece13ea5a41643c9a3
 
 
-1) paslaugos, reikalingos [[#^cd0f62f900d564c2f0c44d74|šio straipsnio 1 dalyje]] nurodytiems laivams ar jų kroviniams tiesiogiai aptarnauti ir tiesioginiams jų poreikiams tenkinti; ^9759215e16064d7853538613
+1) paslaugos, reikalingos [[#^s-99c4d319d57de4b139346278|šio straipsnio 1 dalyje]] nurodytiems laivams ar jų kroviniams tiesiogiai aptarnauti ir tiesioginiams jų poreikiams tenkinti; ^s-ab245b009aeecbdd402619a8
 
 
-2) paslaugos, teikiamos [[#^d43fb3d7c175d60ea5649332|šio straipsnio 2 dalyje]] nurodytiems asmenims, reikalingos orlaiviams ar jų kroviniams tiesiogiai aptarnauti ir tiesioginiams jų poreikiams tenkinti. Šio punkto nuostatos netaikomos, jei orlaiviai naudojami asmeniniams poreikiams.“ ^46c967e2405c0686aa58425e
+2) paslaugos, teikiamos [[#^s-02b94be3dfd53564f0697dd0|šio straipsnio 2 dalyje]] nurodytiems asmenims, reikalingos orlaiviams ar jų kroviniams tiesiogiai aptarnauti ir tiesioginiams jų poreikiams tenkinti. Šio punkto nuostatos netaikomos, jei orlaiviai naudojami asmeniniams poreikiams.“ ^s-a73120a0efd5b2aa5f99d2e9
 
 
 
-### 8 straipsnis. 56 straipsnio 1 dalies pakeitimas
+### 8 straipsnis. 56 straipsnio 1 dalies pakeitimas ^s-a629501ed18247ddeb528eea
 
 
 Pakeisti 56 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -153,33 +158,33 @@ Pakeisti 56 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 77 straipsnio 4 dalies pripažinimas netekusia galios
+### 9 straipsnis. 77 straipsnio 4 dalies pripažinimas netekusia galios ^s-62efadc6779aeff2e2eca97e
 
 
 77 straipsnio 4 dalį pripažinti netekusia galios.
 
 
 
-### 10 straipsnis.       80 straipsnio 1 dalies 13, 15 punktų pakeitimas ir 17 punkto pripažinimas netekusiu galios
+### 10 straipsnis.       80 straipsnio 1 dalies 13, 15 punktų pakeitimas ir 17 punkto pripažinimas netekusiu galios ^s-4daf4351f483a06099bd2dc4
 
 
-1. Pakeisti 80 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^a5f6a2904a0d99b515f5c99f
+1. Pakeisti 80 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^s-3703682e9e586167e43287ec
 
 
 „13) kai įforminamas prekių ir (arba) paslaugų, kurios neapmokestinamos, apmokestinamos taikant 0 procentų PVM tarifą arba už kurias prievolė apskaičiuoti (arba išskaityti) ir sumokėti PVM tenka pirkėjui (klientui), tiekimas (teikimas), – nuoroda į atitinkamą šio Įstatymo arba Direktyvos 77/388/EEB nuostatą arba bet kokia kita nuoroda, kad prekės (paslaugos) neapmokestinamos, apmokestinamos taikant 0 procentų PVM tarifu ir (arba) už jas prievolė apskaičiuoti (arba išskaityti) ir sumokėti PVM tenka pirkėjui (klientui);“.
 
 
-2. Pakeisti 80 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip: ^4584a6241e6314800890e5a1
+2. Pakeisti 80 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip: ^s-08e1ff574db4299282807859
 
 
 „15) nuoroda į atitinkamą šio Įstatymo arba Direktyvos 77/388/EEB nuostatą arba bet kokia kita nuoroda, kad taikoma speciali turizmo paslaugų arba naudotų prekių, meno kūrinių, kolekcinių ir antikvarinių daiktų apmokestinimo PVM schema, – kai taikoma speciali turizmo paslaugų apmokestinimo PVM schema, nurodyta šio Įstatymo XII skyriaus antrajame skirsnyje, arba speciali naudotų prekių, meno kūrinių, kolekcinių ir antikvarinių daiktų apmokestinimo PVM schema, nurodyta šio Įstatymo XII skyriaus trečiajame skirsnyje;“.
 
 
-3. 80 straipsnio 1 dalies 17 punktą pripažinti netekusiu galios. ^676874016c9f5c1b389040f9
+3. 80 straipsnio 1 dalies 17 punktą pripažinti netekusiu galios. ^s-1533eb362eefd00d8031f548
 
 
 
-### 11 straipsnis. 90 straipsnio 2 dalies pakeitimas
+### 11 straipsnis. 90 straipsnio 2 dalies pakeitimas ^s-73883d4405d1fa1dedf84965
 
 
 Pakeisti 90 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -189,17 +194,17 @@ Pakeisti 90 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 12 straipsnis. 91 straipsnio 5 dalies pakeitimas
+### 12 straipsnis. 91 straipsnio 5 dalies pakeitimas ^s-a7dcce6e848693d1be2c73db
 
 
 Pakeisti 91 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
-„5. Jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų, neįskaitytas ir negrąžintas PVM skirtumo likutis grąžinamas Mokesčių administravimo įstatymo nustatyta tvarka, neatsižvelgiant į šio straipsnio 2–4 dalyse nustatytus apribojimus. Neįskaitytas ir negrąžintas PVM skirtumo likutis, neatsižvelgiant į šio straipsnio 3 dalyje nustatytus apribojimus, be atskiro PVM mokėtojo prašymo taip pat gali būti grąžinamas PVM mokėtojams, atitinkantiems centrinio mokesčių administratoriaus nustatytus reikalavimus.“
+„5. Jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų, neįskaitytas ir negrąžintas PVM skirtumo likutis grąžinamas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka, neatsižvelgiant į šio straipsnio 2–4 dalyse nustatytus apribojimus. Neįskaitytas ir negrąžintas PVM skirtumo likutis, neatsižvelgiant į šio straipsnio 3 dalyje nustatytus apribojimus, be atskiro PVM mokėtojo prašymo taip pat gali būti grąžinamas PVM mokėtojams, atitinkantiems centrinio mokesčių administratoriaus nustatytus reikalavimus.“
 
 
 
-### 13 straipsnis. 94 straipsnio 1 dalies pakeitimas
+### 13 straipsnis. 94 straipsnio 1 dalies pakeitimas ^s-f3ddcfb7ab4d0d4dca113663
 
 
 Pakeisti 94 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -209,23 +214,23 @@ Pakeisti 94 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 14 straipsnis. 96 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
+### 14 straipsnis. 96 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios ^s-7d1d0900bce23ba79e274728
 
 
-1. Pakeisti 96 straipsnio 1 dalį ir ją išdėstyti taip: ^862fdb7fff79fa30510ae402
+1. Pakeisti 96 straipsnio 1 dalį ir ją išdėstyti taip: ^s-7e01c6dd1bd194dca075a999
 
 
 „1. Išskaityti ir sumokėti į biudžetą PVM, apskaičiuotą už nuosavybės teisės objektus, perimtus kaip turtinis įnašas arba dėl kito PVM mokėtojo reorganizavimo, taip pat šio Įstatymo 9 straipsnio 4 dalyje nustatyto prekių tiekimo atveju apskaičiuotą PVM už perduodamą pastato (statinio) esminį pagerinimą privalo PVM mokėtojas, kuriam išrašomas tokį prekių tiekimą arba paslaugų teikimą įforminantis dokumentas, t. y. PVM mokėtojas, perimantis nuosavybės teisės objektus kaip turtinį įnašą arba dėl kito PVM mokėtojo reorganizavimo, arba PVM mokėtojas – pagerinto pastato (statinio) daikto savininkas. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi teisę nustatyti ir kitus atvejus, kai PVM už tiekiamas prekes ir (arba) teikiamas paslaugas išskaito ir sumoka į biudžetą šių prekių ir (arba) paslaugų pirkėjas (klientas), jeigu jis yra PVM mokėtojas.“
 
 
-2. 96 straipsnio 2 dalį pripažinti netekusia galios. ^8e172fe340ac1637362f314f
+2. 96 straipsnio 2 dalį pripažinti netekusia galios. ^s-0bea73347fbed46896959e2d
 
 
 
-### 15 straipsnis. Įstatymo įsigaliojimas
+### 15 straipsnis. Įstatymo įsigaliojimas ^s-944512620bc685975472e516
 
 
-Šio įstatymo 1, 2, 4, [[#8 straipsnis. 56 straipsnio 1 dalies pakeitimas|8 straipsniai]] ir [[#^676874016c9f5c1b389040f9|10 straipsnio 3 dalis]] įsigalioja nuo 2007 m. sausio 1 d.
+Šio įstatymo 1, 2, 4, [[#^s-a629501ed18247ddeb528eea|8 straipsniai]] ir [[#^s-1533eb362eefd00d8031f548|10 straipsnio 3 dalis]] įsigalioja nuo 2007 m. sausio 1 d.
 
 
 

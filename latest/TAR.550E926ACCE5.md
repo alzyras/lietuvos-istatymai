@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.550E926ACCE5"
 pavadinimas: "Žemės reformos įstatymas"
+aliases:
+  - "Žemės reformos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1922-02-15"
 latest_path: "latest/TAR.550E926ACCE5.md"
 latest_sha256: "dc2c0c722c46d4acd66e64b399b7dd165b55f0d87d1b347b4bb2f53f3fdbdac1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.550E926ACCE5]]"
 ---
 # Žemės reformos įstatymas
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.550E926ACCE5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.550E926ACCE5
+- Ryšiai: [[Ryšiai/TAR.550E926ACCE5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

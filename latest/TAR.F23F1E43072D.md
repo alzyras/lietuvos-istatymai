@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F23F1E43072D"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 42 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 42 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 42 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-06-04"
 latest_path: "latest/TAR.F23F1E43072D.md"
 latest_sha256: "acb096095f959dcb622d25b22f7e97361c3aca47041587fcfe661732803ce186"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F23F1E43072D]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 42 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F23F1E43072D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F23F1E43072D
+- Ryšiai: [[Ryšiai/TAR.F23F1E43072D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 42 straipsnio 4 dalies pripažinimas netekusia galios
+### 1 straipsnis. 42 straipsnio 4 dalies pripažinimas netekusia galios ^s-f5bc9224eba418a9d89ccd5e
 
 
 42 straipsnio 4 dalį pripažinti netekusia galios.

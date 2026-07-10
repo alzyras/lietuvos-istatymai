@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0DBBCF68566B"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos įstatymo \"Dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakuos Respublikos sutarties dėl Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengruos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnuos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo\" papildymo 2 straipsniu"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos įstatymo \"Dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakuos Respublikos sutarties dėl Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengruos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnuos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo\" papildymo 2 straipsniu"
+  - "įstatymas dėl Lietuvos Respublikos įstatymo \"Dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakuos Respublikos sutarties dėl Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengruos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnuos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo\" papildymo 2 straipsniu"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-04-05"
 latest_path: "latest/TAR.0DBBCF68566B.md"
 latest_sha256: "cec914c708e88652e0b9b03a57e184b05f2c76ac965b1245b773851703759d4a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0DBBCF68566B]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos įstatymo "Dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakuos Respublikos sutarties dėl Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengruos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnuos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo" papildymo 2 straipsniu
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0DBBCF68566B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0DBBCF68566B
+- Ryšiai: [[Ryšiai/TAR.0DBBCF68566B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 2 straipsniu
+### 1 straipsnis. Įstatymo papildymas 2 straipsniu ^s-fe76b5a5b2a2cdde0ba09a0d
 
 
 Papildyti Įstatymą 2 straipsniu:

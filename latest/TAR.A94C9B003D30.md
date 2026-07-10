@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A94C9B003D30"
 pavadinimas: "Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+  - "1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-12"
 latest_path: "latest/TAR.A94C9B003D30.md"
 latest_sha256: "716c74cf2c7fd15f9a97a3b45429125d55839906ad3772fefec33abeb0074f12"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A94C9B003D30]]"
 ---
 # Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A94C9B003D30.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A94C9B003D30
+- Ryšiai: [[Ryšiai/TAR.A94C9B003D30|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,108 +34,108 @@ Vilnius
 
 
 
-### 1 straipsnis. 1998 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 1998 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas ^s-8fa7be81cc67d8c9c87a178c
 
 
-1. Patvirtinti Lietuvos Respublikos 1998 metų valstybės biudžetą – 6885936 tūkst. litų pajamų, 7580936 tūkst. litų išlaidų (išlaidos viršija pajamas 695000 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai). ^2370b9776c7c6f2a8083eea2
+1. Patvirtinti Lietuvos Respublikos 1998 metų valstybės biudžetą – 6885936 tūkst. litų pajamų, 7580936 tūkst. litų išlaidų (išlaidos viršija pajamas 695000 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai). ^s-f4f3b6585ca0916d32155fe6
 
 
-2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms paprastosioms išlaidoms finansuoti. ^8cae24f41097d91494bb5558
-
-
-
-### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
-
-
-1. Patvirtinti savivaldybių biudžetams skiriamo fizinių asmenų pajamų mokesčio dalis procentais, valstybės biudžeto bendrąją dotaciją mokestinėms pajamoms išlyginti – 356204 tūkst. litų ir savivaldybių išlaidų struktūros skirtumams išlyginti – 39578 tūkst. litų (4 priedėlis). ^09a8d943d51b249d416ea2cb
-
-
-2. Patvirtinti specialias tikslines dotacijas – 336997 tūkst. litų savivaldybių biudžetams, iš jų: ^cd5d7a62d81a0f5b851195a8
-
-
-1) asignavimus grįžtantiems į Lietuvą politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti – 3000 tūkst. litų; ^462812c3cb0ad2f0aa2ec343
-
-
-2) asignavimus kompensacijoms už valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams – 15000 tūkst. litų; ^ee4d2ec68d2b772eca646b07
-
-
-3) asignavimus savivaldybių biudžetinių įstaigų darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti – 33262 tūkst. litų; ^3c94edbc90bad274bd10c4ff
-
-
-4) asignavimus globojamiems vaikams išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą – 12000 tūkst. litų; ^d3ecaa2ba1cd7335484e876b
-
-
-5) rezervą savivaldybių biudžetams dėl Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo taikymo – 15000 tūkst. litų; ^cf56c7b49b7940d6f58d987f
-
-
-6) savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervą – 70000 tūkst. litų; ^eec7087d2b5941f8a015a957
-
-
-7) likusią specialios dotacijos sumą – 188735 tūkst. litų (5 priedėlis). ^9879df7d95e88dd59ccbca5f
+2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms paprastosioms išlaidoms finansuoti. ^s-f456555d5713fb1ce82f7048
 
 
 
-### 3 straipsnis. Savivaldybių biudžetų tvirtinimas
+### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas ^s-773325009bdfc970e830d91c
+
+
+1. Patvirtinti savivaldybių biudžetams skiriamo fizinių asmenų pajamų mokesčio dalis procentais, valstybės biudžeto bendrąją dotaciją mokestinėms pajamoms išlyginti – 356204 tūkst. litų ir savivaldybių išlaidų struktūros skirtumams išlyginti – 39578 tūkst. litų (4 priedėlis). ^s-05aaaebe1a465999c1bac008
+
+
+2. Patvirtinti specialias tikslines dotacijas – 336997 tūkst. litų savivaldybių biudžetams, iš jų: ^s-35c3aeb697295e2012446bcf
+
+
+1) asignavimus grįžtantiems į Lietuvą politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti – 3000 tūkst. litų; ^s-4dc7ded97f0e00aef1313b2d
+
+
+2) asignavimus kompensacijoms už valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams – 15000 tūkst. litų; ^s-6abdbc9a6fedb57711b36dc6
+
+
+3) asignavimus savivaldybių biudžetinių įstaigų darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti – 33262 tūkst. litų; ^s-959c4f8f6383ef0c3aec6f9f
+
+
+4) asignavimus globojamiems vaikams išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą – 12000 tūkst. litų; ^s-e4be5abf62876d9b5b4bd21f
+
+
+5) rezervą savivaldybių biudžetams dėl [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo]] taikymo – 15000 tūkst. litų; ^s-e35f1a3bccd948e002bcadaa
+
+
+6) savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervą – 70000 tūkst. litų; ^s-2ddf90574bfb21087ec3d7fc
+
+
+7) likusią specialios dotacijos sumą – 188735 tūkst. litų (5 priedėlis). ^s-15324ef1097ad3aa761cbaec
+
+
+
+### 3 straipsnis. Savivaldybių biudžetų tvirtinimas ^s-adbaa7a85a45ca65a1159662
 
 
 Nustatyti, kad miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto ir savivaldybių biudžetų pajamų šaltinių patvirtinimo ir vieną egzempliorių pateikia Finansų ministerijai.
 
 
 
-### 4 straipsnis.         Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
+### 4 straipsnis.         Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis ^s-9b8775d4d3be2dc2b25b950b
 
 
 Nustatyti, kad 1998 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio sumos.
 
 
 
-### 5 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+### 5 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis ^s-46b0d3116e549ca66efdf024
 
 
 Nustatyti, kad 1998 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 242,5 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
 
 
 
-### 6 straipsnis. Nebiudžetinių lėšų naudojimas
+### 6 straipsnis. Nebiudžetinių lėšų naudojimas ^s-415cc3851bd1be485f094930
 
 
 Nebiudžetinių lėšų naudojimo tvarką iš valstybės biudžeto išlaikomų įstaigų poreikiams, įskaitant ir darbo užmokestį, nustato Lietuvos Respublikos Vyriausybė.
 
 
-### 7 straipsnis.         Privatizavimo fondo lėšų naudojimas Ūkininkų ir valstybinio fondo žemių melioracijos ir dirvų kalkinimo rėmimo programai
+### 7 straipsnis.         Privatizavimo fondo lėšų naudojimas Ūkininkų ir valstybinio fondo žemių melioracijos ir dirvų kalkinimo rėmimo programai ^s-3c87711fc0365f164fbefba1
 
 
 Nustatyti, kad 1998 metais iš Privatizavimo fondo lėšų būtų skiriama iki 48000 tūkst. litų Ūkininkų ir valstybinio fondo žemių melioracijos ir dirvų kalkinimo rėmimo programai.
 
 
 
-### 8 straipsnis. Valdininkų kvalifikacijos kėlimas
+### 8 straipsnis. Valdininkų kvalifikacijos kėlimas ^s-43d540cd294bde2edf3a5dcb
 
 
 Nustatyti, kad valstybės ir savivaldybių valdymo institucijos valdininkų kvalifikacijai kelti skiria lėšų tiek, kad jos nesudarytų mažiau kaip 3 procentus jiems patvirtintų asignavimų darbo užmokesčiui.
 
 
 
-### 9 straipsnis. Užsienio paskolų ir užsienio paskolų su valstybės garantija limitas
+### 9 straipsnis. Užsienio paskolų ir užsienio paskolų su valstybės garantija limitas ^s-2369a113409cb66662b2523c
 
 
 Nustatyti 1998 metais gautinų užsienio paskolų ir užsienio paskolų su valstybės garantija limitą – 2460000 tūkst. litų.
 
 
 
-### 10 straipsnis. Vyriausybės teisės vykdant nacionalinį biudžetą
+### 10 straipsnis. Vyriausybės teisės vykdant nacionalinį biudžetą ^s-85d9b9187dddb8e0b87b20ed
 
 
 Suteikti Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai teisę:
 
 
-1) leisti vertybinius popierius ir imti paskolas kapitalo investicijoms finansuoti, valstybės skolai, susidariusiai iki 1998 m. sausio 1 d., dengti, 1998 metų valstybės biudžeto deficitui ir nustatytai valstybės skolai už energetinius išteklius dengti, likviduojamų bankų kreditoriams suteiktoms valstybės garantijoms įvykdyti, bankų akciniams kapitalams didinti bei kompensacijų įsiskolinimui už valstybės išperkamą žemę iš dalies dengti; ^ad8fc5b146f8186d1f0fa13d
+1) leisti vertybinius popierius ir imti paskolas kapitalo investicijoms finansuoti, valstybės skolai, susidariusiai iki 1998 m. sausio 1 d., dengti, 1998 metų valstybės biudžeto deficitui ir nustatytai valstybės skolai už energetinius išteklius dengti, likviduojamų bankų kreditoriams suteiktoms valstybės garantijoms įvykdyti, bankų akciniams kapitalams didinti bei kompensacijų įsiskolinimui už valstybės išperkamą žemę iš dalies dengti; ^s-f972adc3b4d551b476adb09f
 
 
-2) indeksuoti darbo užmokestį ir su juo susijusias išmokas biudžetinių įstaigų darbuotojams, taip pat mokamas iš biudžeto pensijas, pašalpas ir stipendijas, neviršijant valstybės biudžete tam numatytų asignavimų; ^1fa14d3530a5411f9f103e56
+2) indeksuoti darbo užmokestį ir su juo susijusias išmokas biudžetinių įstaigų darbuotojams, taip pat mokamas iš biudžeto pensijas, pašalpas ir stipendijas, neviršijant valstybės biudžete tam numatytų asignavimų; ^s-ba9eb28c29e15a1d51de0be9
 
 
-3) paskirstyti miestų, rajonų savivaldybėms valstybės biudžeto specialią dotaciją: ^c54ee30665e189937e4a8c22
+3) paskirstyti miestų, rajonų savivaldybėms valstybės biudžeto specialią dotaciją: ^s-acb74d1e4da547fbf55971da
 
 
 a) asignavimus grįžtantiems į Lietuvą politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti;
@@ -148,26 +153,26 @@ d) asignavimus globojamiems vaikams išlaikyti pagal Valstybinių pašalpų šei
 e) rezervą Savivaldybių biudžetų pajamų nustatymo metodikos įstatymui taikyti biudžetams tų savivaldybių, kurių 1998 metų bendrųjų pajamų didėjimas palyginti su 1997 metais sudaro ne daugiau kaip 27 procentus;
 
 
-4) perskirsčius ministerijų, apskričių, departamentų, valstybės tarnybų kai kurias funkcijas, atitinkamai pakeisti patvirtintus asignavimus. ^0c5bb71b13f3a72cb9a0f8bc
+4) perskirsčius ministerijų, apskričių, departamentų, valstybės tarnybų kai kurias funkcijas, atitinkamai pakeisti patvirtintus asignavimus. ^s-09758220e249a7908243e3ef
 
 
 
-### 11 straipsnis. Savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo naudojimas
+### 11 straipsnis. Savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo naudojimas ^s-69bfcb7010214652840761a2
 
 
 Nustatyti šią savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
 
 
-1) per metus Finansų ministerija teikia mokestinių pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai; ^3758a7df82e0d99225f47476
+1) per metus Finansų ministerija teikia mokestinių pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai; ^s-39775d6d90d49065ef1202c8
 
 
-2) 1998 metų antrame pusmetyje rezervo lėšomis padengiamos savivaldybių biudžetų 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^370c9784dff20e5b27e6479f
+2) 1998 metų antrame pusmetyje rezervo lėšomis padengiamos savivaldybių biudžetų 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^s-4254d51edc6dce1cf01e3c4d
 
 
-3) iš nepanaudotų pagal šio straipsnio [[#^370c9784dff20e5b27e6479f|2 punktą]] rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^6667f2b2ef974ecf2cc01fdd
+3) iš nepanaudotų pagal šio straipsnio [[#^s-4254d51edc6dce1cf01e3c4d|2 punktą]] rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^s-e1efe60e737ac60e7e09f992
 
 
-4) nepanaudotas pagal šio straipsnio 2 ir [[#^6667f2b2ef974ecf2cc01fdd|3 punktus]] mokestinių pajamų išlyginimo rezervo likutis paskirstomas taip: ^0f874eef4d8c2f5daced5d9f
+4) nepanaudotas pagal šio straipsnio 2 ir [[#^s-e1efe60e737ac60e7e09f992|3 punktus]] mokestinių pajamų išlyginimo rezervo likutis paskirstomas taip: ^s-31b90bbb137cb31f394fde1b
 
 
 a) savivaldybių butų fondui kaupti – ne daugiau kaip 10 mln. litų;
@@ -177,24 +182,24 @@ b) likusi suma – Vyriausybės rezervo fondui.
 
 
 
-### 12 straipsnis. Savivaldybių atsiskaitymas už sunaudotus energetinius išteklius
+### 12 straipsnis. Savivaldybių atsiskaitymas už sunaudotus energetinius išteklius ^s-7459c444cae4b61b00b526ef
 
 
-1. Savivaldybės užtikrina, kad būtų laiku atsiskaitoma už sunaudotus energetinius išteklius. ^df6e7612e3547c0a36c6b1e9
+1. Savivaldybės užtikrina, kad būtų laiku atsiskaitoma už sunaudotus energetinius išteklius. ^s-4a010c086ece0ba85e5fe256
 
 
-2. Jeigu biudžetinių įstaigų skola šilumos tinklų specialiosios paskirties akcinėms bendrovėms tęsiasi ilgiau kaip 30 dienų, ją Finansų ministerija padengia iš savivaldybių biudžetams priklausančių lėšų. ^2ad2b34843d051a09a37280c
+2. Jeigu biudžetinių įstaigų skola šilumos tinklų specialiosios paskirties akcinėms bendrovėms tęsiasi ilgiau kaip 30 dienų, ją Finansų ministerija padengia iš savivaldybių biudžetams priklausančių lėšų. ^s-f3269b300a9ca8b71109ee37
 
 
 
-### 13 straipsnis. Valstybės skolinimosi ir paskolų grąžinimo mastai
+### 13 straipsnis. Valstybės skolinimosi ir paskolų grąžinimo mastai ^s-006e710dc48204f68664e4c9
 
 
 Nustatyti skolintų lėšų pajamas iki 3281500 tūkst. litų, skolintų lėšų išlaidas – 2012500 tūkst. litų valstybės vardu gautoms skolintoms lėšoms grąžinti ir Lietuvos Respublikos įstatymų pripažintai valstybės vidaus skolai dengti.
 
 
 
-### 14 straipsnis.       Savivaldybių 1997 metais nepanaudotų asignavimų grąžinimas į valstybės biudžetą
+### 14 straipsnis.       Savivaldybių 1997 metais nepanaudotų asignavimų grąžinimas į valstybės biudžetą ^s-2100d3edb247938e2542dcb2
 
 
 1997 metais nepanaudoti pagal tikslinę paskirtį asignavimai kapitalo investicijoms, kurių sąmatinė kaina viršija 5000 tūkst. litų, gamtosaugos objektams finansuoti ir paskoloms su valstybės garantija grąžinti bei palūkanoms mokėti, sumažinti 1997 metais į savivaldybių biudžetus negautų pajamų suma (palyginti su pajamomis, nustatytomis tvirtinant atskaitymų į savivaldybių biudžetus normatyvus), grąžinami į valstybės biudžetą.

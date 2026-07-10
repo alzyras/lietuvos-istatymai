@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.39C37EAD4385"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 40 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 40 straipsnio papildymo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 40 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-02-05"
 latest_path: "latest/TAR.39C37EAD4385.md"
 latest_sha256: "2cb1be2bcc24c5a3ed50865fcadfc9207ab03c8a93a44f1ef96685b2f1258206"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.39C37EAD4385]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 40 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.39C37EAD4385.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.39C37EAD4385
+- Ryšiai: [[Ryšiai/TAR.39C37EAD4385|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 40 straipsnio 1 dalies papildymas 24 punktu
+### 1 straipsnis. 40 straipsnio 1 dalies papildymas 24 punktu ^s-6d30641f4329befedaeedf14
 
 
 Papildyti 40 straipsnio 1 dalį 24 punktu:

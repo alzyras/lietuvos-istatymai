@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.31A28B4F31FC"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-06-24"
 latest_path: "latest/TAR.31A28B4F31FC.md"
 latest_sha256: "7ec011aed8a6a4215a4e601cca449b6732a07aa59a8b7151c9107fde0437e23d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.31A28B4F31FC]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.31A28B4F31FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.31A28B4F31FC
+- Ryšiai: [[Ryšiai/TAR.31A28B4F31FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies 1 punkto pakeitimas ^s-2c3e9a16fd036612eb096e54
 
 
 Pakeisti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:

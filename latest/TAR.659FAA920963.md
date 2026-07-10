@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.659FAA920963"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl atsakomybės už Lietuvos gyventojų genocidą\" preambulės pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl atsakomybės už Lietuvos gyventojų genocidą\" preambulės pakeitimo įstatymas"
+  - "įstatymo \"Dėl atsakomybės už Lietuvos gyventojų genocidą\" preambulės pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.659FAA920963.md"
 latest_sha256: "f84fd73013d76967c0ce1b683ef8a452a231286fa3a16377c7217fe5a3d58d79"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.659FAA920963]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl atsakomybės už Lietuvos gyventojų genocidą" preambulės pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.659FAA920963.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.659FAA920963
+- Ryšiai: [[Ryšiai/TAR.659FAA920963|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo preambulės pakeitimas
+### 1 straipsnis. Įstatymo preambulės pakeitimas ^s-6b09e272e180283a24cdeff9
 
 
 Įstatymo preambulės ketvirtojoje pastraipoje vietoj žodžių „taikai ir karinius nusikaltimus“ įrašyti žodžius „karo nusikaltimus“ ir šią pastraipą išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-964574d19482f2c55ac4a9fc
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

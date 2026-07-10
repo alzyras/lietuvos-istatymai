@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F03593E730AB"
 pavadinimas: "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6, 10 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6, 10 ir 27 straipsnių pakeitimo įstatymas"
+  - "visuomenės sveikatos priežiūros įstatymo 6, 10 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.F03593E730AB.md"
 latest_sha256: "ba2b10795b833963d057a40561f1071f5ca86017291b4e18093cbccecb007bee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F03593E730AB]]"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6, 10 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F03593E730AB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F03593E730AB
+- Ryšiai: [[Ryšiai/TAR.F03593E730AB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-4162cb45f1322f2bda94c8ce
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -42,14 +47,14 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Savivaldybės:
 
 
-1) vykdo valstybines (valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros funkcijas: visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės sveikatos stebėseną; ^b8ced0f43c143082302385b3
+1) vykdo valstybines (valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros funkcijas: visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės sveikatos stebėseną; ^s-6f4a6d561d93c4b5aec234d7
 
 
-2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: įgyvendina savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytas visuomenės sveikatos priemones, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.“ ^318c0cc9a3e04b888df9918f
+2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: įgyvendina savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytas visuomenės sveikatos priemones, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.“ ^s-827e3623f983e506573f1d3b
 
 
 
-### 2 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-e218b01dee6be52e01a9f802
 
 
 Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -59,7 +64,7 @@ Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 27 straipsnio 2 dalies pakeitimas ^s-b58171f702c486caa497aca0
 
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -69,7 +74,7 @@ Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-717e944cfc588a9db1d3b614
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

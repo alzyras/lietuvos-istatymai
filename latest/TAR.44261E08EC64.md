@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.44261E08EC64"
 pavadinimas: "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas"
+  - "žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-23"
 latest_path: "latest/TAR.44261E08EC64.md"
 latest_sha256: "2f39fc7caf15813f62b037f969949dd8e7710c2435b8719e641088e858f65e4a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.44261E08EC64]]"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.44261E08EC64.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.44261E08EC64
+- Ryšiai: [[Ryšiai/TAR.44261E08EC64|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 3 dalies 3 punkto papildymas
+### 1 straipsnis. 29 straipsnio 3 dalies 3 punkto papildymas ^s-3381cf084b77dfb24edd8acf
 
 
 29 straipsnio 3 dalies 3 punkte po žodžio „prievolių“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki po reorganizavimo veikiančių įmonių įstatų įregistravimo įstatymų nustatyta tvarka“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 33 straipsnio 4 dalies papildymas
+### 2 straipsnis. 33 straipsnio 4 dalies papildymas ^s-d3e9393ade8b27d21ae0690c
 
 
 33 straipsnio 4 dalies antrajame sakinyje po žodžio „valstybei“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos bendrovės veiklos nutraukimo įregistravimo įstatymų nustatyta tvarka“ ir šią dalį išdėstyti taip:

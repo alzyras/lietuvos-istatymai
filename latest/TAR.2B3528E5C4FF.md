@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2B3528E5C4FF"
 pavadinimas: "Lietuvos Respublikos antstolių įstatymo papildymo 43-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos antstolių įstatymo papildymo 43-1 straipsniu įstatymas"
+  - "antstolių įstatymo papildymo 43-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.2B3528E5C4FF.md"
 latest_sha256: "989401e0e9f748cc591176e40b56bd2cd1769bea63da73f5d517fa92a9431c4a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2B3528E5C4FF]]"
 ---
 # Lietuvos Respublikos antstolių įstatymo papildymo 43-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2B3528E5C4FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2B3528E5C4FF
+- Ryšiai: [[Ryšiai/TAR.2B3528E5C4FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 431 straipsniu
+### 1 straipsnis. Įstatymo papildymas 431 straipsniu ^s-902fb77028c111b79340687d
 
 
 Papildyti Įstatymą 431 straipsniu:
@@ -45,31 +50,31 @@ Papildyti Įstatymą 431 straipsniu:
 „431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
 
-1. Su vykdomosiomis bylomis susiję elektroniniai duomenys antstolio kontoroje yra tvarkomi, įtraukiami į apskaitą ir saugomi naudojant informacines ir elektroninių ryšių technologijas teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. Vykdomosios bylos ir su vykdymo procesu susijusi informacija gali būti tvarkomos vien elektronine forma. Kai vedama elektroninė vykdomoji byla, antstolio gaunama ir siunčiama rašytinės formos informacija yra skaitmeninama [[#^a2a8e795ee5ac6ef7870d443|šio straipsnio 6 dalyje]] nustatyta tvarka, o rašytiniai dokumentai tvarkomi, saugomi ir sunaikinami teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. ^92a3223ab1fffa3774e64dc0
+1. Su vykdomosiomis bylomis susiję elektroniniai duomenys antstolio kontoroje yra tvarkomi, įtraukiami į apskaitą ir saugomi naudojant informacines ir elektroninių ryšių technologijas teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. Vykdomosios bylos ir su vykdymo procesu susijusi informacija gali būti tvarkomos vien elektronine forma. Kai vedama elektroninė vykdomoji byla, antstolio gaunama ir siunčiama rašytinės formos informacija yra skaitmeninama [[#^s-cadf17f69c9c56eb45cb1e59|šio straipsnio 6 dalyje]] nustatyta tvarka, o rašytiniai dokumentai tvarkomi, saugomi ir sunaikinami teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. ^s-f822eb28a194efb714877811
 
 
-2. Vykdymo proceso šalys ir suinteresuoti asmenys teisingumo ministro nustatyta tvarka turi teisę susipažinti su elektronine vykdomąja byla ir gauti joje esančių dokumentų kopijas. Be to, įstatymų nustatyta tvarka asmenys turi teisę susipažinti su užbaigtomis vykdomosiomis bylomis. Antstolio kontoroje sudaromos reikiamos techninės sąlygos šioms teisėms įgyvendinti; be to, turi būti sudaromos sąlygos susipažinti su elektroninėmis vykdomosiomis bylomis ir gauti jų kopijas nuotoliniu būdu. ^209b837ef8f2055b5a4d810e
+2. Vykdymo proceso šalys ir suinteresuoti asmenys teisingumo ministro nustatyta tvarka turi teisę susipažinti su elektronine vykdomąja byla ir gauti joje esančių dokumentų kopijas. Be to, įstatymų nustatyta tvarka asmenys turi teisę susipažinti su užbaigtomis vykdomosiomis bylomis. Antstolio kontoroje sudaromos reikiamos techninės sąlygos šioms teisėms įgyvendinti; be to, turi būti sudaromos sąlygos susipažinti su elektroninėmis vykdomosiomis bylomis ir gauti jų kopijas nuotoliniu būdu. ^s-7c14bbd6ce814c80c7fbc887
 
 
-3. Vykdymo proceso šalys ir suinteresuoti asmenys turi teisę visus dokumentus ir informaciją, susijusią su vykdymo procesu, antstoliui teikti elektroninės formos, teisingumo ministro nustatyta tvarka naudodami elektroninių ryšių priemones. Asmenys, teikiantys dokumentus elektroninių ryšių priemonėmis, turi juos pasirašyti saugiu elektroniniu parašu arba savo asmens tapatybę patvirtinti kitais būdais (per elektroninės bankininkystės sistemas ir pan.), arba užsiregistruoti Antstolių informacinėje sistemoje. Asmens tapatybės patvirtinimo reikalavimus ir būdus nustato teisingumo ministras. ^ab04d21215c3bf28e917421b
+3. Vykdymo proceso šalys ir suinteresuoti asmenys turi teisę visus dokumentus ir informaciją, susijusią su vykdymo procesu, antstoliui teikti elektroninės formos, teisingumo ministro nustatyta tvarka naudodami elektroninių ryšių priemones. Asmenys, teikiantys dokumentus elektroninių ryšių priemonėmis, turi juos pasirašyti saugiu elektroniniu parašu arba savo asmens tapatybę patvirtinti kitais būdais (per elektroninės bankininkystės sistemas ir pan.), arba užsiregistruoti Antstolių informacinėje sistemoje. Asmens tapatybės patvirtinimo reikalavimus ir būdus nustato teisingumo ministras. ^s-6976db3c7eb6e97df0a45264
 
 
-4. Įstatymų nustatytais atvejais antstolis praneša vykdymo proceso dalyviams apie vykdymo veiksmus ar procesinius sprendimus, teisingumo ministro nustatyta tvarka naudodamas elektroninių ryšių priemones. ^a647d534f6dbbcbb017f8aa3
+4. Įstatymų nustatytais atvejais antstolis praneša vykdymo proceso dalyviams apie vykdymo veiksmus ar procesinius sprendimus, teisingumo ministro nustatyta tvarka naudodamas elektroninių ryšių priemones. ^s-55cdac6b930d205fcfd69350
 
 
-5. Antstolio kontoroje sudaromos reikiamos techninės sąlygos su vykdymo procesu susijusius dokumentus ir jų kopijas tvirtinti saugiu elektroniniu parašu, sukurtu saugia parašo formavimo įranga ir patvirtintu kvalifikuotais sertifikatais. Elektroniniu parašu patvirtinti antstolio sudaryti procesiniai dokumentai ir jų kopijos turi tokią pat teisinę galią kaip ir rašytiniais parašais patvirtinti procesiniai dokumentai. ^4d4c7652f91b3b6f2ff1f186
+5. Antstolio kontoroje sudaromos reikiamos techninės sąlygos su vykdymo procesu susijusius dokumentus ir jų kopijas tvirtinti saugiu elektroniniu parašu, sukurtu saugia parašo formavimo įranga ir patvirtintu kvalifikuotais sertifikatais. Elektroniniu parašu patvirtinti antstolio sudaryti procesiniai dokumentai ir jų kopijos turi tokią pat teisinę galią kaip ir rašytiniais parašais patvirtinti procesiniai dokumentai. ^s-c26f68358f01ac422e1e7174
 
 
-6. Elektroninėje vykdomojoje byloje saugomos vykdymo proceso metu sudarytų ar gautų rašytinių dokumentų skaitmeninės kopijos, išskyrus dokumentus, kurių dėl teisės aktų nustatytų reikalavimų negalima skaitmeninti, ir sudaryti ar pateikti elektroniniai dokumentai. Rašytiniai dokumentai turi būti skaitmeninti ir jų skaitmeninės kopijos perkeltos į elektroninę vykdomąją bylą ne vėliau kaip per tris darbo dienas nuo jų gavimo antstolio kontoroje. Skaitmeninėje kopijoje turi būti nurodytas dokumento skaitmeninimo laikas ir dokumentą skaitmeninęs asmuo. Skaitmeninė kopija turi būti patvirtinta dokumentą skaitmeninusio asmens saugiu elektroniniu parašu. Kai dėl šioje dalyje nurodytų priežasčių rašytinių dokumentų negalima skaitmeninti, antstolis priima motyvuotą patvarkymą saugoti dokumentus tik rašytinės formos ir apie tai pažymi elektroninėje vykdomojoje byloje.“ ^a2a8e795ee5ac6ef7870d443
+6. Elektroninėje vykdomojoje byloje saugomos vykdymo proceso metu sudarytų ar gautų rašytinių dokumentų skaitmeninės kopijos, išskyrus dokumentus, kurių dėl teisės aktų nustatytų reikalavimų negalima skaitmeninti, ir sudaryti ar pateikti elektroniniai dokumentai. Rašytiniai dokumentai turi būti skaitmeninti ir jų skaitmeninės kopijos perkeltos į elektroninę vykdomąją bylą ne vėliau kaip per tris darbo dienas nuo jų gavimo antstolio kontoroje. Skaitmeninėje kopijoje turi būti nurodytas dokumento skaitmeninimo laikas ir dokumentą skaitmeninęs asmuo. Skaitmeninė kopija turi būti patvirtinta dokumentą skaitmeninusio asmens saugiu elektroniniu parašu. Kai dėl šioje dalyje nurodytų priežasčių rašytinių dokumentų negalima skaitmeninti, antstolis priima motyvuotą patvarkymą saugoti dokumentus tik rašytinės formos ir apie tai pažymi elektroninėje vykdomojoje byloje.“ ^s-cadf17f69c9c56eb45cb1e59
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-89ea982a430915ffb13928f6
 
 
-1. Šis įstatymas, išskyrus [[#^f31f026e11a04ff30c376b80|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^014c82103258e8cbf9e24c90
+1. Šis įstatymas, išskyrus [[#^s-9336a4e503032b82bc33abb1|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-3228435eb19901f8d1819c3d
 
 
-2. Teisingumo ministras iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^f31f026e11a04ff30c376b80
+2. Teisingumo ministras iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-9336a4e503032b82bc33abb1
 
 
 

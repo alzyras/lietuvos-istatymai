@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D52F0AAE533"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.4D52F0AAE533.md"
 latest_sha256: "fdd5d6e002b1142c71e34fd59036e9523bccca1a46242739626f735edc7fb68f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D52F0AAE533]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D52F0AAE533.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D52F0AAE533
+- Ryšiai: [[Ryšiai/TAR.4D52F0AAE533|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-94651fad7ee9860f6d2be392
 
 
 5 straipsnio 1 dalyje vietoj datos „2003 m. liepos 1 d.“ įrašyti datą „2004 m. sausio 1 d.“ ir šią dalį išdėstyti taip:

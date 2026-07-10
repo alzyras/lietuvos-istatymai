@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0C3DB907CD90"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 1 priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 1 priedėlio pakeitimo įstatymas"
+  - "viešųjų pirkimų įstatymo 1 priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.0C3DB907CD90.md"
 latest_sha256: "306195465e302196e9fddd0f53aec832e5092e723de282c77491f23522ca27a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0C3DB907CD90]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 1 priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0C3DB907CD90.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0C3DB907CD90
+- Ryšiai: [[Ryšiai/TAR.0C3DB907CD90|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 1 priedėlio 1 išnašos pakeitimas
+### 1 straipsnis. Įstatymo 1 priedėlio 1 išnašos pakeitimas ^s-dc13e0f7c6a37aa8c9205d54
 
 
 Pakeisti Įstatymo 1 priedėlio 1 išnašą ir ją išdėstyti taip:

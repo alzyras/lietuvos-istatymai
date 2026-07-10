@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.766F69D3E8D2"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 17, 19, 20, 33, 44, 45, 50 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 17, 19, 20, 33, 44, 45, 50 straipsnių pakeitimo ir papildymo įstatymas"
+  - "alkoholio kontrolės įstatymo 12, 17, 19, 20, 33, 44, 45, 50 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-04-18"
 latest_path: "latest/TAR.766F69D3E8D2.md"
 latest_sha256: "6f3912fe069ae4949194a4990a64b6afca49067e27c96441e39a6fd3e0aa58fd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.766F69D3E8D2]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 17, 19, 20, 33, 44, 45, 50 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.766F69D3E8D2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.766F69D3E8D2
+- Ryšiai: [[Ryšiai/TAR.766F69D3E8D2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+### 1 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas ir papildymas ^s-b43e59aba2be5167f7195249
 
 
-1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip: ^df587433ae2536b2aa898938
+1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip: ^s-d560dfcd270a08b9ebe47de7
 
 
 „Gaminti alkoholio produktus leidžiama tik toms įmonėms, kurios turi Lietuvos Respublikos Vyriausybės ar jos pavedimu VTAKT išduotą leidimą. Leidimas gaminti alkoholio produktus, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, išduodamas neterminuotam laikui ir kas treji metai perregistruojamas jį išdavusioje institucijoje. Leidimas gaminti alkoholio produktus, kurių tūrinė etilo alkoholio koncentracija viršija 22 procentus, išduodamas pagal šio įstatymo 13 straipsnio 4 dalies reikalavimus iki 2000 m. gruodžio 31 d. Leidimas gaminti alkoholio produktus išduodamas tik toms įmonėms, kurios turi nustatyta tvarka patvirtintus norminius dokumentus, nustatančius šių produktų gamybos technines sąlygas (įrangą), kokybės ir higieninius reikalavimus bei rodiklius, taip pat alkoholinių gėrimų kokybės tyrimo laboratoriją ir nustatytos kvalifikacijos personalą. Personalo kvalifikacinius reikalavimus nustato VTAKT. Įmonės, gaminančios per metus iki 2000 dekalitrų alaus ir neturinčios galimybės įsirengti nuosavos laboratorijos, naudojasi kitų žinybų maisto produktų kokybės tyrimo laboratorijų paslaugomis pagal sutartis.“
 
 
-2. 12 straipsnio 3 dalyje po žodžio „išdavimo“ įrašyti kablelį bei žodį „perregistravimo“, po žodžio „išduoti“ įrašyti žodžius „ir perregistruoti“ ir šią dalį išdėstyti taip: ^8c6d53e9840c71b3b50dc5a3
+2. 12 straipsnio 3 dalyje po žodžio „išdavimo“ įrašyti kablelį bei žodį „perregistravimo“, po žodžio „išduoti“ įrašyti žodžius „ir perregistruoti“ ir šią dalį išdėstyti taip: ^s-f5db8fd17817fcf98f5f9e59
 
 
 „Leidimų gaminti alkoholio produktus išdavimo, perregistravimo ir atšaukimo sąlygas bei tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
-### 2 straipsnis. 17 straipsnio pakeitimas
+### 2 straipsnis. 17 straipsnio pakeitimas ^s-880d9be97ddbb4e1d3b872dd
 
 
 Pakeisti 17 straipsnio 1, 4, 7 dalis, pripažinti netekusiomis galios 2 bei 3 dalis ir visą straipsnį išdėstyti taip:
@@ -72,7 +77,7 @@ Leidimų importuoti alkoholio produktus išdavimo, perregistravimo ir atšaukimo
 
 
 
-### 3 straipsnis. 19 straipsnio pakeitimas
+### 3 straipsnis. 19 straipsnio pakeitimas ^s-1ed85da277b3b628f878b70a
 
 
 Pakeisti 19 straipsnio 1, 3, 6, 8 dalis, pripažinti netekusiomis galios 4 bei 5 dalis ir visą straipsnį išdėstyti taip:
@@ -100,7 +105,7 @@ Leidimų įmonėms užsiimti vidaus prekyba alkoholio produktais išdavimo, perr
 
 
 
-### 4 straipsnis. 20 straipsnio 1 dalies 3 punkto pakeitimas
+### 4 straipsnis. 20 straipsnio 1 dalies 3 punkto pakeitimas ^s-d04f73656ec3f0c5b0527ec5
 
 
 Pakeisti 20 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
@@ -110,7 +115,7 @@ Pakeisti 20 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 33 straipsnio pakeitimas
+### 5 straipsnis. 33 straipsnio pakeitimas ^s-3de5dbe963e3be08226c6428
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
@@ -123,7 +128,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 44 straipsnio papildymas 10, 11 ir 12 dalimis
+### 6 straipsnis. 44 straipsnio papildymas 10, 11 ir 12 dalimis ^s-62a1ef6fc410f02a6a16fb66
 
 
 Papildyti 44 straipsnį 10, 11 ir 12 dalimis:
@@ -139,7 +144,7 @@ Leidimų panaikinimas neatleidžia įmonių nuo šio straipsnio 2, 3 ir 4 dalyse
 
 
 
-### 7 straipsnis. 45 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 45 straipsnio 2 dalies pakeitimas ^s-c87bf6af834426b5fcf2ddf6
 
 
 45 straipsnio 2 dalyje vietoj žodžių „šio įstatymo 44 straipsnio pirmojoje dalyje nurodytų institucijų sąskaitas banke“ įrašyti žodžius „valstybės biudžetą“ ir šią dalį išdėstyti taip:
@@ -149,7 +154,7 @@ Leidimų panaikinimas neatleidžia įmonių nuo šio straipsnio 2, 3 ir 4 dalyse
 
 
 
-### 8 straipsnis. 50 straipsnio pakeitimas
+### 8 straipsnis. 50 straipsnio pakeitimas ^s-ea6f82157fb992759e8f6d19
 
 
 Pakeisti 50 straipsnį ir jį išdėstyti taip:

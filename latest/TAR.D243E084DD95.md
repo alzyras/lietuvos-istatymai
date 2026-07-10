@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D243E084DD95"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 43 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 43 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 43 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-04-14"
 latest_path: "latest/TAR.D243E084DD95.md"
 latest_sha256: "7b9f213d3c13d4f33e41cee80e556b90fa6e4dcc53cb35d9c586ec523f1c780e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D243E084DD95]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 43 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D243E084DD95.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D243E084DD95
+- Ryšiai: [[Ryšiai/TAR.D243E084DD95|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 43 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 43 straipsnio 4 dalies pakeitimas ^s-46568cc1a46735b2b171d9b4
 
 
 Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip:

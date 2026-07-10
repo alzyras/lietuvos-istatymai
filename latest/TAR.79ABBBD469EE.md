@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.79ABBBD469EE"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 69 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 69 straipsnio pakeitimo ir papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 69 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-01"
 latest_path: "latest/TAR.79ABBBD469EE.md"
 latest_sha256: "735117cc0958d52416fc7374a459b81ff2ec946bb85a065c14c495f62255926d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.79ABBBD469EE]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 69 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.79ABBBD469EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.79ABBBD469EE
+- Ryšiai: [[Ryšiai/TAR.79ABBBD469EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,19 +37,19 @@ Vilnius
 
 
 
-### 1 straipsnis. 69 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 69 straipsnio pakeitimas ir papildymas ^s-48f6c47e97c7f2e590538528
 
 
-1. Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip: ^3a7ac96fc1f6fa8d570c8862
+1. Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip: ^s-34615f674cd1b34ab4e82769
 
 
-„2. Valstybės tarnautojams, kurių iki [[#^3a7ac96fc1f6fa8d570c8862|šio straipsnio 1 dalyje]] nurodytos datos gautas vidutinis darbo užmokestis (toliau – buvęs darbo užmokestis) yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas (neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34 straipsnio 1 dalies 1 ir 3 punktuose numatytų priemokų):
+„2. Valstybės tarnautojams, kurių iki [[#^s-34615f674cd1b34ab4e82769|šio straipsnio 1 dalyje]] nurodytos datos gautas vidutinis darbo užmokestis (toliau – buvęs darbo užmokestis) yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas (neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34 straipsnio 1 dalies 1 ir 3 punktuose numatytų priemokų):
 
 
-1) buvęs darbo užmokestis apskaičiuojamas iš paskutinių 3 mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių (neįskaičiuojant įstatymuose ir statutuose diplomatams ir statutiniams valstybės tarnautojams numatytų priedų už laipsnį, klasę, rangą, kvalifikacinę kategoriją), vadovaujantis Vyriausybės patvirtinta tvarka; ^65f2315dcd352ef57a3b8ab6
+1) buvęs darbo užmokestis apskaičiuojamas iš paskutinių 3 mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių (neįskaičiuojant įstatymuose ir statutuose diplomatams ir statutiniams valstybės tarnautojams numatytų priedų už laipsnį, klasę, rangą, kvalifikacinę kategoriją), vadovaujantis Vyriausybės patvirtinta tvarka; ^s-aa00f08eae880f561e3ded6e
 
 
-2) pereinamuoju laikotarpiu – iki 2004 m. liepos 1 d. – buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu): ^b3003a38392ae40431476a7d
+2) pereinamuoju laikotarpiu – iki 2004 m. liepos 1 d. – buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu): ^s-288a8d0badb4c5c9772f7df1
 
 
 A = C - [ ( C - B) x M] + P + S , čia:
@@ -102,7 +107,7 @@ P – šio įstatymo 34 straipsnio 1 dalies 1 ir 3 punktuose numatytos priemokos
 S – šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatyti priedai diplomatams ir statutiniams valstybės tarnautojams.“
 
 
-2. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip: ^c211d321f807ea41748456b0
+2. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f3e1af98692bb008c3b1ba11
 
 
 „3. Valstybės tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo užmokestį (neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34 straipsnio 1 dalies 1 ir 3 punktuose numatytų priemokų), naujasis darbo užmokesčio dydis pasiekiamas nuosekliai: pereinamuoju laikotarpiu – iki 2007 m. sausio 1 d. – kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę:
@@ -135,17 +140,17 @@ P – šio įstatymo 34 straipsnio 1 dalies 1 ir 3 punktuose numatytos priemokos
 S – šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatyti priedai diplomatams ir statutiniams valstybės tarnautojams.“
 
 
-3. Papildyti 69 straipsnį nauja 6 dalimi: ^e37b2141303c8e0ecc6fcab5
+3. Papildyti 69 straipsnį nauja 6 dalimi: ^s-2142b9c8ad455f78e5610048
 
 
-„6. Valstybės tarnautojams ne diplomatams, paskirtiems į pareigas Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose, darbo užmokestis apskaičiuojamas pagal šio įstatymo 31–34 straipsnių nuostatas ir dydžius, netaikant šio straipsnio 2, 3 ir [[#^ac2b26dadcd5bca2a34274b3|4 dalių]] nuostatų.“
+„6. Valstybės tarnautojams ne diplomatams, paskirtiems į pareigas Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose, darbo užmokestis apskaičiuojamas pagal šio įstatymo 31–34 straipsnių nuostatas ir dydžius, netaikant šio straipsnio 2, 3 ir [[#^s-d5ee45e2cfc696f193bf155c|4 dalių]] nuostatų.“
 
 
-4. 69 straipsnio buvusią 6 dalį laikyti 7 dalimi. ^ac2b26dadcd5bca2a34274b3
+4. 69 straipsnio buvusią 6 dalį laikyti 7 dalimi. ^s-d5ee45e2cfc696f193bf155c
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f23813074dd57112d644bfd3
 
 
 Šis Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.

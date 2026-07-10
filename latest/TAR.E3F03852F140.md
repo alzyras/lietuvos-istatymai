@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E3F03852F140"
 pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės reformos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
+  - "žemės reformos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-28"
 latest_path: "latest/TAR.E3F03852F140.md"
 latest_sha256: "0a1a0d30ded69bc7aa3b5fd36f891baa661e3bb00fce7a0f8eeaf582a65c1c46"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E3F03852F140]]"
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E3F03852F140.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E3F03852F140
+- Ryšiai: [[Ryšiai/TAR.E3F03852F140|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio papildymas 6 dalimi
+### 1 straipsnis. 8 straipsnio papildymas 6 dalimi ^s-5bcb548ea20165e7cc0f1585
 
 
 Papildyti 8 straipsnį 6 dalimi:
@@ -41,7 +46,7 @@ Papildyti 8 straipsnį 6 dalimi:
 
 
 
-### 2 straipsnis. 10 straipsnio papildymas 6 dalimi
+### 2 straipsnis. 10 straipsnio papildymas 6 dalimi ^s-357ba0d826bc04fe582fd59b
 
 
 Papildyti 10 straipsnį 6 dalimi:

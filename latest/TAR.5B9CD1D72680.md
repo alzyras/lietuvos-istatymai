@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5B9CD1D72680"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.5B9CD1D72680.md"
 latest_sha256: "4276f2b04fe54519dc6085cd54ef77ae0320863490892e860f93405369c33626"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5B9CD1D72680]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5B9CD1D72680.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5B9CD1D72680
+- Ryšiai: [[Ryšiai/TAR.5B9CD1D72680|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,43 +38,43 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 4 ir 5 dalių pakeitimas
+### 1 straipsnis. 3 straipsnio 4 ir 5 dalių pakeitimas ^s-eccb1b634c5c5c2532f496c9
 
 
-1. 3 straipsnio 4 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip: ^cf16e9e93931a49fc75bbb61
+1. 3 straipsnio 4 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip: ^s-55baeb02752e333408dcb6b5
 
 
 „4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus šio straipsnio 3 dalyje nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir Teisės aktų registre skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti.“
 
 
-2. 3 straipsnio 5 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip: ^e47b6b6a4329b1fa54d05f45
+2. 3 straipsnio 5 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip: ^s-27e77425206c119ad17d8940
 
 
 „5. Viešojo sektoriaus subjektai, tvarkydami apskaitą, vadovaujasi viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais, kuriuos tvirtina ir Teisės aktų registre skelbia Finansų ministerija. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos rengiamą metodiką (nurodymus, studijas).“
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-8f6009ec58692723017b9294
 
 
-7 straipsnio 1 ir [[#^cb2dc5cddf5a0bf8b0c49980|2 dalyse]] vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir visą straipsnį išdėstyti taip:
+7 straipsnio 1 ir [[#^s-4afdd24db9b65311d46080d4|2 dalyse]] vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir visą straipsnį išdėstyti taip:
 
 
 
 „7 straipsnis. Sąskaitų planas
 
 
-1. Ribotos civilinės atsakomybės juridiniams asmenims, savo veikla siekiantiems pelno, pavyzdinį sąskaitų planą rengia, tvirtina ir Teisės aktų registre skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. ^31e21d5feb0b3b625bd642d7
+1. Ribotos civilinės atsakomybės juridiniams asmenims, savo veikla siekiantiems pelno, pavyzdinį sąskaitų planą rengia, tvirtina ir Teisės aktų registre skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. ^s-f0968e9cda1dd1da705ef414
 
 
-2. Viešojo sektoriaus subjektams privalomąjį bendrąjį sąskaitų planą, kitiems pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims pavyzdinį sąskaitų planą rengia, tvirtina ir Teisės aktų registre skelbia Finansų ministerija. ^cb2dc5cddf5a0bf8b0c49980
+2. Viešojo sektoriaus subjektams privalomąjį bendrąjį sąskaitų planą, kitiems pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims pavyzdinį sąskaitų planą rengia, tvirtina ir Teisės aktų registre skelbia Finansų ministerija. ^s-4afdd24db9b65311d46080d4
 
 
-3. Ūkio subjektas susidaro savo sąskaitų planą. Jį tvirtina to ūkio subjekto vadovas.“ ^403627af2fafe18315dc8d1d
+3. Ūkio subjektas susidaro savo sąskaitų planą. Jį tvirtina to ūkio subjekto vadovas.“ ^s-412f22ad111981a1733b7746
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-29659d8d17aad528f039c8fe
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

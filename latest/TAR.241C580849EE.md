@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.241C580849EE"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 5, 12, 46-1, 51, 57 ir 58 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 5, 12, 46-1, 51, 57 ir 58 straipsnių pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 5, 12, 46-1, 51, 57 ir 58 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-01"
 latest_path: "latest/TAR.241C580849EE.md"
 latest_sha256: "6215f4e8d6e1b1323b1260788678b38d4899126fe208afc1c027e896449da999"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.241C580849EE]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 5, 12, 46-1, 51, 57 ir 58 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.241C580849EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.241C580849EE
+- Ryšiai: [[Ryšiai/TAR.241C580849EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,17 +39,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-141468123d8f7b2d381bc204
 
 
-Pakeisti [[#^af6a1dac89e294fa52aabf7e|5 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-3d2034d800eb08975daf73b2|5 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Vienetų (išskyrus pelno nesiekiančių), kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 1 milijono litų, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą, išskyrus atvejus, nustatytus šio straipsnio 3 dalyje.“
 
 
 
-### 2 straipsnis. 12 straipsnio 10 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 10 punkto pakeitimas ^s-dc5ebeb021a87ef0a864c6d1
 
 
 Pakeisti 12 straipsnio 10 punktą ir jį išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 12 straipsnio 10 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 461 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 461 straipsnio 5 dalies pakeitimas ^s-7f98fe1854676e33b064b516
 
 
 Pakeisti 461 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -64,7 +69,7 @@ Pakeisti 461 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 51 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 51 straipsnio 2 dalies pakeitimas ^s-a1c1b32a212a16c7faca93ef
 
 
 Pakeisti 51 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -74,23 +79,23 @@ Pakeisti 51 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 57 straipsnio 2 ir 4 dalių pakeitimas
+### 5 straipsnis. 57 straipsnio 2 ir 4 dalių pakeitimas ^s-27fdbfcbe455ed0b8e05ced2
 
 
-1. Pakeisti 57 straipsnio 2 dalį ir ją išdėstyti taip: ^2f3a9d8535d202e6f2f79850
+1. Pakeisti 57 straipsnio 2 dalį ir ją išdėstyti taip: ^s-1f9d46f144869d2b20c6b58c
 
 
 „2. Mokesčio mokėtojai apskaitą tvarko ir finansinių ataskaitų rinkinius sudaro vadovaudamiesi Lietuvos Respublikos buhalterinės apskaitos įstatymu ir kitais teisės aktais.“
 
 
-2. Pakeisti 57 straipsnio 4 dalį ir ją išdėstyti taip: ^af6a1dac89e294fa52aabf7e
+2. Pakeisti 57 straipsnio 4 dalį ir ją išdėstyti taip: ^s-3d2034d800eb08975daf73b2
 
 
 „4. Apskaičiuojant pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš (FIFO)“ metodu. Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio mokėtojo prašymu ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio administratorius gali leisti apskaityti atsargas taikant tą buhalterinę apskaitą reglamentuojančių teisės aktų numatytą metodą, kurį vienetas taiko sudarydamas finansinių ataskaitų rinkinį.“
 
 
 
-### 6 straipsnis. 58 straipsnio 16 dalies 2 punkto pakeitimas
+### 6 straipsnis. 58 straipsnio 16 dalies 2 punkto pakeitimas ^s-2240119ac428c18c5fdeaefa
 
 
 Pakeisti 58 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
@@ -100,13 +105,13 @@ Pakeisti 58 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. Įstatymo taikymas
+### 7 straipsnis. Įstatymo taikymas ^s-1b9e89078bff33717804ab7a
 
 
-1. Šio įstatymo 1 ir [[#6 straipsnis. 58 straipsnio 16 dalies 2 punkto pakeitimas|6 straipsnių]] nuostatos taikomos apskaičiuojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^83606a8e358bc10675963cc6
+1. Šio įstatymo 1 ir [[#^s-2240119ac428c18c5fdeaefa|6 straipsnių]] nuostatos taikomos apskaičiuojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-04722def567ec6c71aa5373b
 
 
-2. Šio įstatymo 2 ir [[#3 straipsnis. 461 straipsnio 5 dalies pakeitimas|3 straipsnių]] nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^ccd18dd834bbe28fd0a8d7cc
+2. Šio įstatymo 2 ir [[#^s-7f98fe1854676e33b064b516|3 straipsnių]] nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-7e844e67ed675949939ceb5c
 
 
 

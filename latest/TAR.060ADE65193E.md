@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.060ADE65193E"
 pavadinimas: "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-02-01"
 latest_path: "latest/TAR.060ADE65193E.md"
 latest_sha256: "ca097561cbb20d0628391cbb569042dd3776a795714c09a7663aadb07e8e783d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.060ADE65193E]]"
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.060ADE65193E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.060ADE65193E
+- Ryšiai: [[Ryšiai/TAR.060ADE65193E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,7 +42,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 4 dalies pakeitimas ^s-2177303f333d90d5c6d7638f
 
 
 Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -47,13 +52,13 @@ Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-3c6cee45b3d73d6bb6f475ff
 
 
-1. Šis įstatymas, išskyrus [[#^ae63e7143b51331e5b2829ef|šio straipsnio 2 dalį]], įsigalioja 2012 m. vasario 1 d. ^e5f901f9be3dea6c461150bf
+1. Šis įstatymas, išskyrus [[#^s-b05a33ef51944ce17e011479|šio straipsnio 2 dalį]], įsigalioja 2012 m. vasario 1 d. ^s-0c8482840f706df744ad5bc8
 
 
-2. Lietuvos Respublikos Vyriausybė iki 2012 m. vasario 1 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^ae63e7143b51331e5b2829ef
+2. Lietuvos Respublikos Vyriausybė iki 2012 m. vasario 1 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-b05a33ef51944ce17e011479
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B7C252BDB82D"
 pavadinimas: "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "sveikatos priežiūros įstaigų įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.B7C252BDB82D.md"
 latest_sha256: "12ace3e30a69029914047968d07d1a7312f2adf6235ec565d65211e51c804a66"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B7C252BDB82D]]"
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B7C252BDB82D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B7C252BDB82D
+- Ryšiai: [[Ryšiai/TAR.B7C252BDB82D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 11 punkto pakeitimas
+### 1 straipsnis. 10 straipsnio 11 punkto pakeitimas ^s-b96b842783a3370af107f555
 
 
 Pakeisti 10 straipsnio 11 punktą ir jį išdėstyti taip:

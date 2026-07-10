@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.49EC855049DA"
 pavadinimas: "Lietuvos Respublikos kredito unijų įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kredito unijų įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "kredito unijų įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-16"
 latest_path: "latest/TAR.49EC855049DA.md"
 latest_sha256: "0d5bc3d6ea612044097333a3dc317322f59acace3c43d6a803ab96b564383939"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.49EC855049DA]]"
 ---
 # Lietuvos Respublikos kredito unijų įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.49EC855049DA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.49EC855049DA
+- Ryšiai: [[Ryšiai/TAR.49EC855049DA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-4f31c38fdeb3d7ce9d04b911
 
 
 Iš 10 straipsnio 1 dalies išbraukti žodžius „Gyventojų“ ir „gyventojų“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.67636897F38A"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 13 ir 18 skyrių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 13 ir 18 skyrių pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 7, 13 ir 18 skyrių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-03"
 latest_path: "latest/TAR.67636897F38A.md"
 latest_sha256: "f8da766bfb1e75b6c55a7fefa07f6e79514897f19de90de49fe25d307de85101"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.67636897F38A]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 13 ir 18 skyrių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.67636897F38A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.67636897F38A
+- Ryšiai: [[Ryšiai/TAR.67636897F38A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio 7 skyriaus trečiojo skirsnio 2 dalies pakeitimas
+### 1 straipsnis. Įstatymo priedėlio 7 skyriaus trečiojo skirsnio 2 dalies pakeitimas ^s-344422c89f7e9c152eda227a
 
 
 Išbraukti 7 skyriaus trečiojo skirsnio 2 dalies paskutinį sakinį ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Išbraukti 7 skyriaus trečiojo skirsnio 2 dalies paskutinį sakinį ir šią da
 
 
 
-### 2 straipsnis. Įstatymo priedėlio 13 skyriaus 3 dalies pakeitimas
+### 2 straipsnis. Įstatymo priedėlio 13 skyriaus 3 dalies pakeitimas ^s-5ab32cd1285420ffe6e41da5
 
 
 Išbraukti 13 skyriaus 3 dalies antrą sakinį ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Išbraukti 13 skyriaus 3 dalies antrą sakinį ir šią dalį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo priedėlio 18 skyriaus 4 dalies pakeitimas
+### 3 straipsnis. Įstatymo priedėlio 18 skyriaus 4 dalies pakeitimas ^s-da9d8efee1de73cc33703fc2
 
 
 Išbraukti 18 skyriaus 4 dalies paskutinį sakinį ir šią dalį išdėstyti taip:

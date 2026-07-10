@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F12781EE4A08"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas"
+  - "valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-09-28"
 latest_path: "latest/TAR.F12781EE4A08.md"
 latest_sha256: "5a553323012025074d49d0ae30ca05d28af033b79e909ba28d2daf90c68fc468"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F12781EE4A08]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F12781EE4A08.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F12781EE4A08
+- Ryšiai: [[Ryšiai/TAR.F12781EE4A08|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -41,23 +46,23 @@ atsižvelgdamas į šalies finansinę padėtį, kad nėra sukaupta pakankamai l�
 
 
 
-### 1 straipsnis. Atkurtos darbo užmokesčio (atlyginimo) dalies išmokėjimas
+### 1 straipsnis. Atkurtos darbo užmokesčio (atlyginimo) dalies išmokėjimas ^s-a013b8fc51d8f58bbae4de47
 
 
 2013 metų valstybės ir savivaldybių biudžetų asignavimų valdytojai asignavimus išlaidoms (toliau – asignavimai) naudoja šiuo įstatymu įgyvendinamais įstatymais atkuriamai valstybės tarnautojų ir teisėjų darbo užmokesčio (atlyginimo) daliai ir susijusioms įmokoms bei kitoms išmokoms, kurių dydis priklauso nuo darbo užmokesčio (toliau – atkuriamoji dalis), mokėti. Nesant pakankamai asignavimų, atkuriamoji dalis, kuri turi būti sumokėta už laikotarpį nuo 2013 m. spalio 1 d. iki 2013 m. gruodžio 31 d., kartu su teisės aktų nustatyto dydžio delspinigiais sumokama ne vėliau kaip iki 2014 m. kovo 1 d.
 
 
 
-### 2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ^s-60aeb2116d8b79bf8b3107be
 
 
 Lietuvos Respublikos Vyriausybė:
 
 
-1) rengdama Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą numato reikalingas lėšas atkuriamajai daliai ir teisės aktų nustatyto dydžio delspinigiams sumokėti; ^00cc8b81da09294f91b1a7ec
+1) rengdama [[latest/e217dc9089d911e397b5c02d3197f382|Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą numato reikalingas lėšas atkuriamajai daliai ir teisės aktų nustatyto dydžio delspinigiams sumokėti; ^s-12cbe0453ff87aaa6057d483
 
 
-2) iki 2014 m. gegužės 1 d. parengia ir pateikia Lietuvos Respublikos Seimui asmenų, kuriems už darbą apmokama iš valstybės ar savivaldybės biudžeto lėšų, dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) patirtų praradimų kompensavimo mechanizmą (kompensavimo sąlygas, mastą ir būdą, laikotarpį, per kurį kompensuojama sumažinta darbo užmokesčio (atlyginimo) dalis, kompensacijų dydį ir kita) reglamentuojančio įstatymo projektą ir pateikia pagal jame nustatytą kompensavimo mechanizmą apskaičiuotą kompensacijoms reikalingą lėšų sumą. ^1fef5432ae2473d01bb075ef
+2) iki 2014 m. gegužės 1 d. parengia ir pateikia Lietuvos Respublikos Seimui asmenų, kuriems už darbą apmokama iš valstybės ar savivaldybės biudžeto lėšų, dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) patirtų praradimų kompensavimo mechanizmą (kompensavimo sąlygas, mastą ir būdą, laikotarpį, per kurį kompensuojama sumažinta darbo užmokesčio (atlyginimo) dalis, kompensacijų dydį ir kita) reglamentuojančio įstatymo projektą ir pateikia pagal jame nustatytą kompensavimo mechanizmą apskaičiuotą kompensacijoms reikalingą lėšų sumą. ^s-95749312273744693ea260ed
 
 
 

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2928046A8FCD"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-28"
 latest_path: "latest/TAR.2928046A8FCD.md"
 latest_sha256: "006627a30204a2907731f062eed8b98259061021b88b6625ef66e15c26a7b1c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2928046A8FCD]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2928046A8FCD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2928046A8FCD
+- Ryšiai: [[Ryšiai/TAR.2928046A8FCD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +35,7 @@ DĖL LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ  ĮSTATYMO PAKEITIMO
 
 
 
-Pakeisti Lietuvos Respublikos žemės ūkio bendrovių įstatymo (Žin., 1991, Nr. 13-328; 1993, Nr. 7-140; 1994, Nr. 1-1, Nr. 100-1998) 19 straipsnio antrąją dalį – vietoj žodžių „apylinkės (valsčiaus) viršaičiui“ įrašyti žodžius „savivaldybės seniūnijos kaimo vietovėje seniūnui“.
+Pakeisti [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymo]] (Žin., 1991, Nr. 13-328; 1993, Nr. 7-140; 1994, Nr. 1-1, Nr. 100-1998) 19 straipsnio antrąją dalį – vietoj žodžių „apylinkės (valsčiaus) viršaičiui“ įrašyti žodžius „savivaldybės seniūnijos kaimo vietovėje seniūnui“.
 
 
 

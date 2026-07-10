@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E353363A1DEB"
 pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "gyventojų turto ir pajamų deklaravimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-06-06"
 latest_path: "latest/TAR.E353363A1DEB.md"
 latest_sha256: "f4fecb7d32f3e196b2f13ed791f6f5a78db1cc800957f5e152709315007e5af3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E353363A1DEB]]"
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E353363A1DEB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E353363A1DEB
+- Ryšiai: [[Ryšiai/TAR.E353363A1DEB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-c5a0bffae0c5deefcd84f6f3
 
 
 4 straipsnyje po žodžių „nustato Vyriausybė“ įrašyti žodžius „arba jos įgaliota institucija“, vietoj žodžio „nuolatinai“ įrašyti žodžius „10 metų nuo gavimo datos“ ir visą straipsnį išdėstyti taip:

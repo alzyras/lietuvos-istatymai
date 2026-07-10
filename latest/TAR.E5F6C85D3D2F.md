@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E5F6C85D3D2F"
 pavadinimas: "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "atsinaujinančių išteklių energetikos įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.E5F6C85D3D2F.md"
 latest_sha256: "e4504832c28c12d0eaed10aabe377ada5278df9168df583b5e533c6865cd070a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E5F6C85D3D2F]]"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E5F6C85D3D2F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E5F6C85D3D2F
+- Ryšiai: [[Ryšiai/TAR.E5F6C85D3D2F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 5 dalies 3 punkto pakeitimas
+### 1 straipsnis. 16 straipsnio 5 dalies 3 punkto pakeitimas ^s-f84704927303ec0edc54898d
 
 
 Pakeisti 16 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 16 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-93134db9ae0ec1fae9d4e71b
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

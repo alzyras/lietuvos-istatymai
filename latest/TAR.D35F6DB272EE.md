@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D35F6DB272EE"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-05"
 latest_path: "latest/TAR.D35F6DB272EE.md"
 latest_sha256: "e6b3fb977e022ae9cd438eb0d867ba8a3aa4ef5a8c67359419d557f579e8b6df"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D35F6DB272EE]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D35F6DB272EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D35F6DB272EE
+- Ryšiai: [[Ryšiai/TAR.D35F6DB272EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-8637057cd9320c55954e8b5a
 
 
 Pakeisti 3 straipsnio 1 dalį – vietoj žodžių „ir įmonės įstatai“ įrašyti žodžius „įmonės įstatai ir kiti Lietuvos Respublikos įstatymai“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 3 straipsnio 1 dalį – vietoj žodžių „ir įmonės įstatai“ į
 
 
 
-### 2 straipsnis. 4 straipsnio 4 punkto papildymas
+### 2 straipsnis. 4 straipsnio 4 punkto papildymas ^s-9c22c4dc25c5674814948dbe
 
 
 Papildyti 4 straipsnio 4 punktą žodžiais „o jeigu tai nustato kiti Lietuvos Respublikos įstatymai, – ir kitu įmonės turtu“ ir visą straipsnį išdėstyti taip:
@@ -53,41 +58,41 @@ Papildyti 4 straipsnio 4 punktą žodžiais „o jeigu tai nustato kiti Lietuvos
 Įmonė gali:
 
 
-1) užsiimti įstatuose nustatyta ūkine veikla Lietuvos Respublikoje ir už jos ribų; ^f61174c0ba592313da45ecfe
+1) užsiimti įstatuose nustatyta ūkine veikla Lietuvos Respublikoje ir už jos ribų; ^s-09238312d1355ec827de2bbf
 
 
-2) turėti atsiskaitomąją ir valiutinę sąskaitas tik viename iš Lietuvos Respublikoje pasirinktų bankų, taip pat po vieną valiutinę sąskaitą bet kurioje užsienio valstybėje; ^f38110f2b271d117187f3959
+2) turėti atsiskaitomąją ir valiutinę sąskaitas tik viename iš Lietuvos Respublikoje pasirinktų bankų, taip pat po vieną valiutinę sąskaitą bet kurioje užsienio valstybėje; ^s-8946279138b8ca8b14d481d5
 
 
-3) sudaryti sutartis, prisiimti įsipareigojimus, skolintis piniginių lėšų; ^05e350c61c583573707555ae
+3) sudaryti sutartis, prisiimti įsipareigojimus, skolintis piniginių lėšų; ^s-2f47a63a45b6bbbeb4bc91be
 
 
-4) disponuoti bet kokiu įmonės trumpalaikiu turtu ir visiškai susidėvėjusiu ilgalaikiu turtu, o jeigu tai nustato kiti Lietuvos Respublikos įstatymai, – ir kitu įmonės turtu; ^52347eba8a60aaba97355883
+4) disponuoti bet kokiu įmonės trumpalaikiu turtu ir visiškai susidėvėjusiu ilgalaikiu turtu, o jeigu tai nustato kiti Lietuvos Respublikos įstatymai, – ir kitu įmonės turtu; ^s-81610c034973b15905dd8c6e
 
 
-5) steigėjo leidimu įkeisti ilgalaikį turtą; ^7c35e6d79995575706046bc8
+5) steigėjo leidimu įkeisti ilgalaikį turtą; ^s-9a02fa182e7530d99ba4c2d3
 
 
-6) parduoti ar kitaip perleisti įmonės turtą Valstybinio turto privatizavimo įstatymo nustatyta tvarka; ^da1b59214009262150a082da
+6) parduoti ar kitaip perleisti įmonės turtą Valstybinio turto privatizavimo įstatymo nustatyta tvarka; ^s-f3663c97954541ea4984f3c7
 
 
-7) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus tais atvejais, kada šio bei kitų Lietuvos Respublikos įstatymų nustatyta tvarka jų nenustato Lietuvos Respublikos Vyriausybė arba steigėjas; ^31ffcf6a3bf43b6b23636775
+7) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus tais atvejais, kada šio bei kitų Lietuvos Respublikos įstatymų nustatyta tvarka jų nenustato Lietuvos Respublikos Vyriausybė arba steigėjas; ^s-30792a2474cb9a3484c23263
 
 
-8) atsiskaityti už pateiktas prekes, atliktus darbus ir paslaugas bet kuria sutarta forma, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams; ^5955e226763dcf6d514b5368
+8) atsiskaityti už pateiktas prekes, atliktus darbus ir paslaugas bet kuria sutarta forma, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams; ^s-f8f86714addaf7958853be9f
 
 
-9) nustatyti įmonės vidaus struktūrą; ^9c6e7cc1a7103009bc1e4be2
+9) nustatyti įmonės vidaus struktūrą; ^s-683ea3d729d4f810b8d0dc32
 
 
-10) steigėjo leidimu steigti filialus, jungtis į asociacijas ar konsorciumus tik komanditoriaus teisėmis, jeigu tai neprieštarauja Lietuvos Respublikos konkurencijos įstatymui; ^2d0193086000062dbdbfef02
+10) steigėjo leidimu steigti filialus, jungtis į asociacijas ar konsorciumus tik komanditoriaus teisėmis, jeigu tai neprieštarauja Lietuvos Respublikos konkurencijos įstatymui; ^s-1a5a275d06140c71c3c6455f
 
 
-11) turėti kitokių, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.“ ^54c7df7bb1d7dd37c7275264
+11) turėti kitokių, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.“ ^s-a44736aed741bc91967f4263
 
 
 
-### 3 straipsnis. 13 straipsnio 7 dalies papildymas
+### 3 straipsnis. 13 straipsnio 7 dalies papildymas ^s-82a1962275e85fbcb53db2c5
 
 
 Papildyti 13 straipsnio 7 dalį žodžiais „jeigu kiti įstatymai ypatingais atvejais nesuteikia įmonei tokių investicijų teisės“ ir ją išdėstyti taip:

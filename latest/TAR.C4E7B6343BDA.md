@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C4E7B6343BDA"
 pavadinimas: "Lietuvos Respublikos šilumos ūkio įstatymo 19 ir 32 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šilumos ūkio įstatymo 19 ir 32 straipsnių pakeitimo įstatymas"
+  - "šilumos ūkio įstatymo 19 ir 32 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.C4E7B6343BDA.md"
 latest_sha256: "feb03da6cf392717ab7b602e41642efddbd3f43e76483263ba77be2ae54123ce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C4E7B6343BDA]]"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 19 ir 32 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C4E7B6343BDA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C4E7B6343BDA
+- Ryšiai: [[Ryšiai/TAR.C4E7B6343BDA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 4 dalies pakeitimas ^s-9302993d02e87ff025064035
 
 
 19 straipsnio 4 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 32 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 32 straipsnio 4 dalies pakeitimas ^s-79372433f0a9d752cef842f8
 
 
 32 straipsnio 4 dalyje vietoj žodžių „Valstybės žinių“ priede „Informaciniai pranešimai“ įrašyti žodžius „savo interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-51ba79f22490ebb671f99b2e
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

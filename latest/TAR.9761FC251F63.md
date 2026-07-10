@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9761FC251F63"
 pavadinimas: "Dėl Lietuvos Respublikos alkoholio kontrolės įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos alkoholio kontrolės įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-26"
 latest_path: "latest/TAR.9761FC251F63.md"
 latest_sha256: "e27ff68d088da9f98f6337265aaf9c3620b6aa4dca31ec59bfb40bffad0d1e40"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9761FC251F63]]"
 ---
 # Dėl Lietuvos Respublikos alkoholio kontrolės įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9761FC251F63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9761FC251F63
+- Ryšiai: [[Ryšiai/TAR.9761FC251F63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -182,7 +186,7 @@ Kitais šio įstatymo pažeidimų atvejais, taip pat baudas už alkoholio produk
 12. 52 straipsnį išdėstyti taip:
 
 
-„Alkoholio kontrolės įstatymo 4 straipsnio antroji ir trečioji dalys, 5 straipsnio antroji dalis, 6 straipsnio antroji, trečioji ir ketvirtoji dalys, 7 straipsnis, 8 straipsnis, 9 straipsnio pirmoji dalis, 10 straipsnis, 11 straipsnio pirmoji dalis, 12 straipsnis, 13 straipsnio pirmoji ir ketvirtoji dalys, 14 straipsnis, 16 straipsnio antroji, trečioji, ketvirtoji ir penktoji dalys, 17 straipsnio antroji, trečioji ir septintoji dalys, 18 straipsnis, 19 straipsnio aštuntoji dalis, 20 straipsnio antroji dalis, 21 straipsnio šeštoji dalis, 24 straipsnis, 30 straipsnio trečioji dalis, 32 straipsnio antroji dalis, 33 straipsnis, 35 straipsnio trečioji dalis, 36 straipsnio antroji ir ketvirtoji dalys, 43 straipsnio ketvirtoji dalis, 47 straipsnio antroji dalis, 50 straipsnio pirmosios dalies 3 punktas įsigalioja Lietuvos Respublikos Seimo nutarimo „Dėl Lietuvos Respublikos alkoholio kontrolės įstatymo 52 straipsnyje nurodytų straipsnių įgyvendinimo“ nustatyta tvarka.“
+„[[latest/TAR.9E5C5C16B6E6#^s-db65b4927163e79c300dec81|Alkoholio kontrolės įstatymo 4 straipsnio]] antroji ir trečioji dalys, 5 straipsnio antroji dalis, 6 straipsnio antroji, trečioji ir ketvirtoji dalys, 7 straipsnis, 8 straipsnis, 9 straipsnio pirmoji dalis, 10 straipsnis, 11 straipsnio pirmoji dalis, 12 straipsnis, 13 straipsnio pirmoji ir ketvirtoji dalys, 14 straipsnis, 16 straipsnio antroji, trečioji, ketvirtoji ir penktoji dalys, 17 straipsnio antroji, trečioji ir septintoji dalys, 18 straipsnis, 19 straipsnio aštuntoji dalis, 20 straipsnio antroji dalis, 21 straipsnio šeštoji dalis, 24 straipsnis, 30 straipsnio trečioji dalis, 32 straipsnio antroji dalis, 33 straipsnis, 35 straipsnio trečioji dalis, 36 straipsnio antroji ir ketvirtoji dalys, 43 straipsnio ketvirtoji dalis, 47 straipsnio antroji dalis, 50 straipsnio pirmosios dalies 3 punktas įsigalioja Lietuvos Respublikos Seimo nutarimo „Dėl Lietuvos Respublikos alkoholio kontrolės įstatymo 52 straipsnyje nurodytų straipsnių įgyvendinimo“ nustatyta tvarka.“
 
 
 

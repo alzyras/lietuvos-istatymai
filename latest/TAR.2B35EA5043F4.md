@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2B35EA5043F4"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-14"
 latest_path: "latest/TAR.2B35EA5043F4.md"
 latest_sha256: "3f36925768c8075c24b17e2b6e588270354454d78104874538b6a1ea99d40202"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2B35EA5043F4]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2B35EA5043F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2B35EA5043F4
+- Ryšiai: [[Ryšiai/TAR.2B35EA5043F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-ffb82c2f31d42e71eee46ee4
 
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:

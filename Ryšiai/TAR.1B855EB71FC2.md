@@ -1,0 +1,17 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.1B855EB71FC2"
+pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2013 metų rodiklių patvirtinimo įstatymas"
+---
+# Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2013 metų rodiklių patvirtinimo įstatymas: ryšiai
+
+- [[latest/TAR.1B855EB71FC2|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 4 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje
+- [[latest/TAR.0F9036415DBD#^s-ce9997d122a5061eec549d34|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 5 dalis
+
+## Šį įstatymą cituoja
+
+_Nėra._

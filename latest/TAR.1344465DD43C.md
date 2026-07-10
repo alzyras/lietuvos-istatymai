@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1344465DD43C"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-22"
 latest_path: "latest/TAR.1344465DD43C.md"
 latest_sha256: "eee81e92d5f63612acc7626cb03d1ae50a151855f3bfcc0f5de52d892c971087"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1344465DD43C]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1344465DD43C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1344465DD43C
+- Ryšiai: [[Ryšiai/TAR.1344465DD43C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimas netekusiu galios ^s-89a207d51b242fbbbf50c3f9
 
 
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymą pripažinti netekusiu galios.

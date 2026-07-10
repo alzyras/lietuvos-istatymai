@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.42B58C5141EA"
 pavadinimas: "Lietuvos Respublikos sutarties dėl prekių ženklų įstatymų ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sutarties dėl prekių ženklų įstatymų ratifikavimo įstatymas"
+  - "sutarties dėl prekių ženklų įstatymų ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-03"
 latest_path: "latest/TAR.42B58C5141EA.md"
 latest_sha256: "a991bec0b62464fd9bfabd1204dbe380644e330ba6273c38b4754845986fca8d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.42B58C5141EA]]"
 ---
 # Lietuvos Respublikos sutarties dėl prekių ženklų įstatymų ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.42B58C5141EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.42B58C5141EA
+- Ryšiai: [[Ryšiai/TAR.42B58C5141EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-54b85ea3831ba4bdeb9d4274
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti sutartį dėl prekių ženklų įstatymų“, ratifikuoja Sutartį dėl prekių ženklų įstatymų, pasirašytą 1994 m. spalio 27 d. Ženevoje.

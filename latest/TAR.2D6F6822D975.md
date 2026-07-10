@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2D6F6822D975"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimo dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS) ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimo dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS) ratifikavimo"
+  - "įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimo dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS) ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-29"
 latest_path: "latest/TAR.2D6F6822D975.md"
 latest_sha256: "2c769603bda616a05782772739bc6b25a4d44352d3ef7544d7bccab7acd94da6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2D6F6822D975]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimo dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS) ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2D6F6822D975.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2D6F6822D975
+- Ryšiai: [[Ryšiai/TAR.2D6F6822D975|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-44067977d50b2efa3db5b8a0
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. spalio 3 d. dekretą Nr. 1K-1123, ratifikuoja 2006 m. rugsėjo 9 d. Helsinkyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimą dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS).

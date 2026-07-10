@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6EC69CC551F1"
 pavadinimas: "Dėl 1953 m. Europos konvencijos dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo ratifikavimo"
+aliases:
+  - "Dėl 1953 m. Europos konvencijos dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-24"
 latest_path: "latest/TAR.6EC69CC551F1.md"
 latest_sha256: "8b0bff2d92033108cc88a8ae0a3872f139ebe7d36d58539dd476f1bb5cca81fd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6EC69CC551F1]]"
 ---
 # Dėl 1953 m. Europos konvencijos dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo ratifikavimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6EC69CC551F1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6EC69CC551F1
+- Ryšiai: [[Ryšiai/TAR.6EC69CC551F1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-91798f9634b5d96b7d4771bc
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 19 d. dekretą Nr. 1107 ir 1997 m. sausio 13 d. dekretą Nr. 1165, ratifikuoja 1953 m. gruodžio 11 d. Europos konvenciją dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo.
@@ -72,23 +76,23 @@ susitaria:
 1 straipsnis
 
 
-1. Kiekviena Susitariančioji šalis pripažins kitoje šalyje narėje išduotų diplomų lygiavertiškumą, suteikdama teisę juos gavusiems stoti į jos teritorijoje esančius valstybinius universitetus, jei jos stojamųjų egzaminų į panašias institucijas reikalavimai atitinka diplomą išdavusios šalies reikalavimus. ^3fbebb8839f934395d63985d
+1. Kiekviena Susitariančioji šalis pripažins kitoje šalyje narėje išduotų diplomų lygiavertiškumą, suteikdama teisę juos gavusiems stoti į jos teritorijoje esančius valstybinius universitetus, jei jos stojamųjų egzaminų į panašias institucijas reikalavimai atitinka diplomą išdavusios šalies reikalavimus. ^s-c4ad34b2ad9932d5b481ef31
 
 
-2. Priėmimą į bet kurį universitetą lems turimų vietų skaičius. ^56cb98f3a8cb1868349b7ea9
+2. Priėmimą į bet kurį universitetą lems turimų vietų skaičius. ^s-4aef026ae7f2145bb1aaad8b
 
 
-3. Kiekviena Susitariančioji šalis pasilieka teisę netaikyti [[#^de55190a9006466d6906b016|1 dalyje]] numatytų sąlygų savo šalies piliečiams. ^ffc81919511e4bc931099b35
+3. Kiekviena Susitariančioji šalis pasilieka teisę netaikyti 1 dalyje numatytų sąlygų savo šalies piliečiams. ^s-0215583f8347355c99f5c8bc
 
 
-4. Jei priėmimą į vienos iš Susitariančiųjų šalių teritorijoje esančius universitetus kontroliuoja ne valstybė, Susitariančioji šalis perduos šiems universitetams Konvencijos tekstą ir dės visas pastangas, kad jie laikytųsi jos principų. ^72f13174f91561e7b88efc7f
+4. Jei priėmimą į vienos iš Susitariančiųjų šalių teritorijoje esančius universitetus kontroliuoja ne valstybė, Susitariančioji šalis perduos šiems universitetams Konvencijos tekstą ir dės visas pastangas, kad jie laikytųsi jos principų. ^s-f12ff4c75a13fe90b6ff0e6f
 
 
 
 2 straipsnis
 
 
-Kiekviena Susitariančioji šalis per vienerius metus, pradedamus skaičiuoti nuo Konvencijos įsigaliojimo datos, raštu praneš Europos Tarybos Generaliniam Sekretoriui, kaip įgyvendinami [[#1 straipsnis. Konvencijos ratifikavimas|1 straipsnio]] principai.
+Kiekviena Susitariančioji šalis per vienerius metus, pradedamus skaičiuoti nuo Konvencijos įsigaliojimo datos, raštu praneš Europos Tarybos Generaliniam Sekretoriui, kaip įgyvendinami [[#^s-91798f9634b5d96b7d4771bc|1 straipsnio]] principai.
 
 
 
@@ -121,16 +125,16 @@ ii) institucijas, savo pobūdžiu panašias į universitetus, jei taip teigia Su
 5 straipsnis
 
 
-1. Šią Konvenciją galės pasirašyti šalys, Europos Tarybos narės. Ji bus ratifikuota. Ratifikavimo dokumentus saugos Europos Tarybos Generalinis Sekretorius. ^de55190a9006466d6906b016
+1. Šią Konvenciją galės pasirašyti šalys, Europos Tarybos narės. Ji bus ratifikuota. Ratifikavimo dokumentus saugos Europos Tarybos Generalinis Sekretorius. ^s-5e93add06737b36bf64ca64e
 
 
-2. Konvencija įsigalios, kai bus įteikti saugoti trys ratifikavimo dokumentai. ^dd212a7bd377ee87e61bd9fe
+2. Konvencija įsigalios, kai bus įteikti saugoti trys ratifikavimo dokumentai. ^s-282c1d45aa4b5c09777edf14
 
 
-3. Šalyse, kurios Konvenciją pasirašys vėliau, ji įsigalios nuo tos dienos, kai bus atiduoti saugoti ratifikavimo dokumentai. ^303e741ac4b412cb98f8dcdb
+3. Šalyse, kurios Konvenciją pasirašys vėliau, ji įsigalios nuo tos dienos, kai bus atiduoti saugoti ratifikavimo dokumentai. ^s-8f3c8f7dc80cb078ec500e76
 
 
-4. Europos Tarybos Generalinis Sekretorius raštu praneš visoms Europos Tarybos narėms apie Konvencijos įsigaliojimą, taip pat nurodys ją ratifikavusias Susitariančiąsias šalis ir įteiktus ratifikavimo dokumentus, kurie bus tvirtinami vėliau. ^8610133022661ffc9370d026
+4. Europos Tarybos Generalinis Sekretorius raštu praneš visoms Europos Tarybos narėms apie Konvencijos įsigaliojimą, taip pat nurodys ją ratifikavusias Susitariančiąsias šalis ir įteiktus ratifikavimo dokumentus, kurie bus tvirtinami vėliau. ^s-f1066e7a16800f20e715126a
 
 
 

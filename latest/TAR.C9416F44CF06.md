@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C9416F44CF06"
 pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 12 ir 27 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 12 ir 27 straipsnių papildymo įstatymas"
+  - "vaiko teisių apsaugos kontrolieriaus įstatymo 12 ir 27 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-10-04"
 latest_path: "latest/TAR.C9416F44CF06.md"
 latest_sha256: "8ae22fa5a63954030d6184cfce8df7d43515e75648e98af17b0e64fa75c0b44f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C9416F44CF06]]"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 12 ir 27 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C9416F44CF06.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C9416F44CF06
+- Ryšiai: [[Ryšiai/TAR.C9416F44CF06|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies papildymas 16 punktu
+### 1 straipsnis. 12 straipsnio 1 dalies papildymas 16 punktu ^s-e81e5637b691ca27d819413a
 
 
 Papildyti 12 straipsnio 1 dalį 16 punktu:
@@ -45,7 +50,7 @@ Papildyti 12 straipsnio 1 dalį 16 punktu:
 
 
 
-### 2 straipsnis. 27 straipsnio papildymas 3 dalimi
+### 2 straipsnis. 27 straipsnio papildymas 3 dalimi ^s-05a96cf6946c6c9927041e50
 
 
 Papildyti 27 straipsnį 3 dalimi:

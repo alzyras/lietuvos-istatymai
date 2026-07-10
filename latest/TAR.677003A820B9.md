@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.677003A820B9"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1, 2, 5, 6, 7(1), 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 24(1), 25, 26, 27, 28 straipsnių bei priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1, 2, 5, 6, 7(1), 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 24(1), 25, 26, 27, 28 straipsnių bei priedo pakeitimo ir papildymo įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 1, 2, 5, 6, 7(1), 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 24(1), 25, 26, 27, 28 straipsnių bei priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-21"
 latest_path: "latest/TAR.677003A820B9.md"
 latest_sha256: "db6073c09d8f6a3240d7f6c0281aac725886c46297946e1ba9e4c064ff2b56ac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.677003A820B9]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1, 2, 5, 6, 7(1), 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 24(1), 25, 26, 27, 28 straipsnių bei priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.677003A820B9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.677003A820B9
+- Ryšiai: [[Ryšiai/TAR.677003A820B9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas ^s-d456e3e22d33182835028a02
 
 
 1 straipsnio 1 dalyje išbraukti žodžius „tiesioginę ir netiesioginę“, po žodžio „lyties“ įrašyti žodžius „ypač kai tai susiję su šeimine ar santuokine padėtimi“ ir šią dalį išdėstyti taip:
@@ -41,90 +46,90 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-b5676a7d065cfb5ffe598771
 
 
-Papildyti 2 straipsnį nauja [[#^69c376f4dbbb649661074526|2 dalimi]], buvusias 2 straipsnio 2, 3, 4, [[#^1a41be90333e96934a286fc6|5 dalis]] laikyti atitinkamai 3, 4, 5, [[#^02cacd2e99935dbbf46a4928|6 dalimis]], jas pakeisti, straipsnį papildyti [[#^bad999f97b1333409be5d5e6|7 dalimi]] ir visą straipsnį išdėstyti taip:
+Papildyti 2 straipsnį nauja [[#^s-941a8b67a1036db3f470caa3|2 dalimi]], buvusias 2 straipsnio 2, 3, 4, [[#^s-0b7bfb4c6d5211dc6b141bea|5 dalis]] laikyti atitinkamai 3, 4, 5, [[#^s-6a6046374859b54655869da7|6 dalimis]], jas pakeisti, straipsnį papildyti [[#^s-3f922df6e01bc9cfcde47ca0|7 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Moterų ir vyrų lygios galimybės – tarptautiniuose žmogaus ir piliečių teisių dokumentuose ir Lietuvos Respublikos įstatymuose įtvirtintų žmogaus teisių įgyvendinimas. ^8dc5c11656970ada250d8ea6
+1. Moterų ir vyrų lygios galimybės – tarptautiniuose žmogaus ir piliečių teisių dokumentuose ir Lietuvos Respublikos įstatymuose įtvirtintų žmogaus teisių įgyvendinimas. ^s-074f838665a4d0e1fdcde98b
 
 
-2. Diskriminacija – tiesioginė ar netiesioginė diskriminacija, seksualinis priekabiavimas, priekabiavimas, nurodymas tiesiogiai ar netiesiogiai diskriminuoti asmenis dėl lyties. ^69c376f4dbbb649661074526
+2. Diskriminacija – tiesioginė ar netiesioginė diskriminacija, seksualinis priekabiavimas, priekabiavimas, nurodymas tiesiogiai ar netiesiogiai diskriminuoti asmenis dėl lyties. ^s-941a8b67a1036db3f470caa3
 
 
-3. Moterų ir vyrų lygių teisių pažeidimas – diskriminacija dėl lyties. Tai, kad asmuo atmeta moterų ir vyrų lygias teises pažeidžiantį elgesį arba paklūsta jam, negali daryti įtakos su tuo asmeniu susijusiems sprendimams. ^ae22070a0e847d278c5c6bd8
+3. Moterų ir vyrų lygių teisių pažeidimas – diskriminacija dėl lyties. Tai, kad asmuo atmeta moterų ir vyrų lygias teises pažeidžiantį elgesį arba paklūsta jam, negali daryti įtakos su tuo asmeniu susijusiems sprendimams. ^s-f7c331e1631a54d499a07e19
 
 
-4. Tiesioginė diskriminacija – pasyvus ar aktyvus elgesys ,su asmeniu, kai dėl jo lyties taikomos prastesnės sąlygos, negu panašiomis aplinkybėmis yra, buvo ar būtų taikomos kitam asmeniui, išskyrus: ^720cfa062aca75c163632ae5
+4. Tiesioginė diskriminacija – pasyvus ar aktyvus elgesys ,su asmeniu, kai dėl jo lyties taikomos prastesnės sąlygos, negu panašiomis aplinkybėmis yra, buvo ar būtų taikomos kitam asmeniui, išskyrus: ^s-f6f131f680ac024c1ae91bd6
 
 
-1) specialią moterų apsaugą nėštumo bei gimdymo ir vaiko žindymo metu; ^a28d81b035790b392952b5a3
+1) specialią moterų apsaugą nėštumo bei gimdymo ir vaiko žindymo metu; ^s-9c1a662e6ff99da175e35d62
 
 
-2) tik vyrams taikomą karinę prievolę; ^9841ac83a6b01c93e9a5f6fe
+2) tik vyrams taikomą karinę prievolę; ^s-b9b21ebe63c24797023ceba7
 
 
-3) skirtingą moterų ir vyrų pensinį amžių, išskyrus profesinių pensijų sistemas; ^924188948b4d3e616a678986
+3) skirtingą moterų ir vyrų pensinį amžių, išskyrus profesinių pensijų sistemas; ^s-10e7794e2505148438a517ab
 
 
-4) moterims taikomus žmonių saugos darbe reikalavimus, kuriais, atsižvelgiant į moterų fiziologines savybes, siekiama išsaugoti jų sveikatą; ^0503f282fcdfea9e33ca6f2b
+4) moterims taikomus žmonių saugos darbe reikalavimus, kuriais, atsižvelgiant į moterų fiziologines savybes, siekiama išsaugoti jų sveikatą; ^s-cf904b86141b34f0c640c83a
 
 
-5) tam tikrą darbą, kurį atlikti gali tik konkrečios lyties asmuo; ^2529ec85fb17cac643f6e30e
+5) tam tikrą darbą, kurį atlikti gali tik konkrečios lyties asmuo; ^s-ac6e79d7a2b7f142027b3fd7
 
 
-6) įstatymų nustatytas specialias laikinąsias priemones, taikomas siekiant paspartinti faktinės vyrų ir moterų lygybės įtvirtinimą, ir kurios, įgyvendinus moterų ir vyrų lygias teises ir vienodas galimybes, turi būti atšauktos; ^8bd211a9f9ae784f542ce35c
+6) įstatymų nustatytas specialias laikinąsias priemones, taikomas siekiant paspartinti faktinės vyrų ir moterų lygybės įtvirtinimą, ir kurios, įgyvendinus moterų ir vyrų lygias teises ir vienodas galimybes, turi būti atšauktos; ^s-131ab3aea2a5a3f919cbb5b5
 
 
-7) skirtingų tam tikrų bausmių vykdymo tvarką ir sąlygas; ^2bc7d41010ddd59dd85b7c09
+7) skirtingų tam tikrų bausmių vykdymo tvarką ir sąlygas; ^s-15d84b42a20dfc1ea8cf7883
 
 
-8) kai prekių pardavimą ar paslaugų teikimą vien tik ar visų pirma vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis. ^ab7337366031297dfa6a9e51
+8) kai prekių pardavimą ar paslaugų teikimą vien tik ar visų pirma vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis. ^s-9e5a1f48637aec46a272f6c0
 
 
-5. Netiesioginė diskriminacija – veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika, kurie formaliai yra vienodi moterims ir vyrams, bet juos įgyvendinant ar taikant vienos lyties asmenys gali atsidurti ar atsiduria tam tikroje prastesnėje padėtyje negu kitos lyties asmenys. ^1a41be90333e96934a286fc6
+5. Netiesioginė diskriminacija – veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika, kurie formaliai yra vienodi moterims ir vyrams, bet juos įgyvendinant ar taikant vienos lyties asmenys gali atsidurti ar atsiduria tam tikroje prastesnėje padėtyje negu kitos lyties asmenys. ^s-0b7bfb4c6d5211dc6b141bea
 
 
-6. Seksualinis priekabiavimas – nepageidaujamas užgaulus, žodžiu, raštu ar fiziniu veiksmu išreikštas seksualinio pobūdžio elgesys su asmeniu, kai tokį elgesį lemia tikslas ar jo poveikis pakenkti asmens orumui, ypač sukuriant bauginančią, priešišką, žeminančią ar įžeidžiančią aplinką. ^02cacd2e99935dbbf46a4928
+6. Seksualinis priekabiavimas – nepageidaujamas užgaulus, žodžiu, raštu ar fiziniu veiksmu išreikštas seksualinio pobūdžio elgesys su asmeniu, kai tokį elgesį lemia tikslas ar jo poveikis pakenkti asmens orumui, ypač sukuriant bauginančią, priešišką, žeminančią ar įžeidžiančią aplinką. ^s-6a6046374859b54655869da7
 
 
-7. Priekabiavimas – nepageidaujamas elgesys, kai dėl asmens lyties siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.“ ^bad999f97b1333409be5d5e6
+7. Priekabiavimas – nepageidaujamas elgesys, kai dėl asmens lyties siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.“ ^s-3f922df6e01bc9cfcde47ca0
 
 
 
-### 3 straipsnis. 5 straipsnio pakeitimas
+### 3 straipsnis. 5 straipsnio pakeitimas ^s-214cfe04fe90d20f545e3b01
 
 
-Pakeisti [[#5 straipsnis. 71 straipsnio papildymas 3 punktu|5 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-4725a438b373b74a0c68f476|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#5 straipsnis. 71 straipsnio papildymas 3 punktu|5 straipsnis]]. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
+„[[#^s-4725a438b373b74a0c68f476|5 straipsnis]]. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
 
 
 Įgyvendindamas lygias moterų ir vyrų teises, darbdavys privalo:
 
 
-1) priimdamas į darbą, taikyti vienodus atrankos kriterijus ir priėmimo sąlygas, išskyrus [[#^2529ec85fb17cac643f6e30e|2 straipsnio 4 dalies 5 punkte]] numatytą atvejį; ^5b692c3068b2cd00fd20523b
+1) priimdamas į darbą, taikyti vienodus atrankos kriterijus ir priėmimo sąlygas, išskyrus [[#^s-ac6e79d7a2b7f142027b3fd7|2 straipsnio 4 dalies 5 punkte]] numatytą atvejį; ^s-c869d657f94face7ed838faa
 
 
-2) sudaryti vienodas darbo sąlygas, galimybes kelti kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti vienodas lengvatas; ^b11824069e5b92cc66c80f28
+2) sudaryti vienodas darbo sąlygas, galimybes kelti kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti vienodas lengvatas; ^s-184a222d63367678459c5efa
 
 
-3) už tokį pat ar vienodos vertės darbą mokėti vienodą darbo užmokestį; ^552cfd5b72a1614cfff91b51
+3) už tokį pat ar vienodos vertės darbą mokėti vienodą darbo užmokestį; ^s-3fd8c08ae6dbb7c0d62cfd5f
 
 
-4) imtis priemonių, kad darbuotojas nepatirtų seksualinio priekabiavimo ar priekabiavimo; ^0a4c91314d060672a926ae64
+4) imtis priemonių, kad darbuotojas nepatirtų seksualinio priekabiavimo ar priekabiavimo; ^s-3bf5d04e7e66cb70444cbe05
 
 
-5) imtis priemonių, kad darbuotojas būtų apsaugotas nuo priešiško elgesio, neigiamų pasekmių bei kitokio persekiojimo, kai reaguojama į jo skundą dėl diskriminacijos.“ ^ef471fd9dc0ed498120f09ef
+5) imtis priemonių, kad darbuotojas būtų apsaugotas nuo priešiško elgesio, neigiamų pasekmių bei kitokio persekiojimo, kai reaguojama į jo skundą dėl diskriminacijos.“ ^s-2ea7df56ea40144cece2698b
 
 
 
-### 4 straipsnis. 6 straipsnio 1 punkto pakeitimas
+### 4 straipsnis. 6 straipsnio 1 punkto pakeitimas ^s-3fe0ec370c0e7adcd5a4f541
 
 
 6 straipsnio 1 punkte išbraukti žodžius „už tokį pat darbą“, „darbo“, po žodžio „apmokėjimo“ įrašyti žodžius „už tokį pat ar vienodos vertės darbą“ ir šį punktą išdėstyti taip:
@@ -134,7 +139,7 @@ Pakeisti [[#5 straipsnis. 71 straipsnio papildymas 3 punktu|5 straipsnį]] ir j�
 
 
 
-### 5 straipsnis. 71 straipsnio papildymas 3 punktu
+### 5 straipsnis. 71 straipsnio papildymas 3 punktu ^s-4725a438b373b74a0c68f476
 
 
 Papildyti 71 straipsnį 3 punktu:
@@ -144,375 +149,375 @@ Papildyti 71 straipsnį 3 punktu:
 
 
 
-### 6 straipsnis. 8 straipsnio pakeitimas
+### 6 straipsnis. 8 straipsnio pakeitimas ^s-fe7b899a402fd2ea2f6a17b0
 
 
-[[#8 straipsnis. 10 straipsnio pakeitimas|8 straipsnyje]] vietoj skaičiaus ir žodžio „3 dalies“ įrašyti skaičių ir žodį „4 dalies“ ir šį straipsnį išdėstyti taip:
+[[#^s-8bc6c61b0bf4255b521c168b|8 straipsnyje]] vietoj skaičiaus ir žodžio „3 dalies“ įrašyti skaičių ir žodį „4 dalies“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#8 straipsnis. 10 straipsnio pakeitimas|8 straipsnis]]. Diskriminuojantys skelbimai
+„[[#^s-8bc6c61b0bf4255b521c168b|8 straipsnis]]. Diskriminuojantys skelbimai
 
 
-Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę vienai iš lyčių, išskyrus [[#^2529ec85fb17cac643f6e30e|2 straipsnio 4 dalies 5 punkte]] nurodytą atvejį, reikalauti iš darbo ieškančių asmenų informacijos apie jų šeiminę padėtį, amžių (išskyrus įstatyme numatytus atvejus), privatų gyvenimą ar šeimos planus.“
+Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę vienai iš lyčių, išskyrus [[#^s-ac6e79d7a2b7f142027b3fd7|2 straipsnio 4 dalies 5 punkte]] nurodytą atvejį, reikalauti iš darbo ieškančių asmenų informacijos apie jų šeiminę padėtį, amžių (išskyrus įstatyme numatytus atvejus), privatų gyvenimą ar šeimos planus.“
 
 
 
-### 7 straipsnis. 9 straipsnio pakeitimas
+### 7 straipsnis. 9 straipsnio pakeitimas ^s-8a7fef92f2d41a98deda0b68
 
 
-Pakeisti [[#9 straipsnis. 11 straipsnio pakeitimas|9 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-e79ba39a36a48bd316aa3934|9 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#9 straipsnis. 11 straipsnio pakeitimas|9 straipsnis]]. Diskriminuojamo asmens teisės
+„[[#^s-e79ba39a36a48bd316aa3934|9 straipsnis]]. Diskriminuojamo asmens teisės
 
 
 Asmuo, manantis, kad jam buvo taikomi šiame skyriuje nurodyti diskriminuojantys veiksmai, arba tapęs seksualinio priekabiavimo ar kitokio priekabiavimo objektu, turi teisę kreiptis į lygių galimybių kontrolierių.“
 
 
 
-### 8 straipsnis. 10 straipsnio pakeitimas
+### 8 straipsnis. 10 straipsnio pakeitimas ^s-8bc6c61b0bf4255b521c168b
 
 
-Pakeisti [[#10 straipsnis. 12 straipsnio pakeitimas|10 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-56feb4933f6c25f74eb70f41|10 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#10 straipsnis. 12 straipsnio pakeitimas|10 straipsnis]]. Įstatymo vykdymo priežiūra
+„[[#^s-56feb4933f6c25f74eb70f41|10 straipsnis]]. Įstatymo vykdymo priežiūra
 
 
-1. Moterų ir vyrų lygių galimybių įstatymo vykdymo priežiūrą atlieka lygių galimybių kontrolierius. ^88eaba37683212e564a8906e
+1. [[latest/TAR.746227138BCB|Moterų ir vyrų lygių galimybių įstatymo]] vykdymo priežiūrą atlieka lygių galimybių kontrolierius. ^s-13a3a8427ceb8f07d51b345c
 
 
-2. Lygių galimybių kontrolieriaus darbui užtikrinti steigiama Lygių galimybių kontrolieriaus tarnyba.“ ^8ddb51e7c21cc0e85a110ecd
-
-
-
-### 9 straipsnis. 11 straipsnio pakeitimas
-
-
-Pakeisti [[#11 straipsnis. 13 straipsnio pakeitimas|11 straipsnį]] ir jį išdėstyti taip:
-
-
-„[[#11 straipsnis. 13 straipsnio pakeitimas|11 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos teisiniai pagrindai
-
-
-1. Lygių galimybių kontrolieriaus tarnyba vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^1e82ce42f415b8f81e196709
-
-
-2. Lygių galimybių kontrolieriaus tarnyba savo veiklą grindžia teisėtumo, nešališkumo ir teisingumo principais. ^6bbfa9f202abf71416b4a873
-
-
-3. Lygių galimybių kontrolieriaus tarnybai vadovauja lygių galimybių kontrolierius.“ ^8a7947ae9710362495d778f3
+2. Lygių galimybių kontrolieriaus darbui užtikrinti steigiama Lygių galimybių kontrolieriaus tarnyba.“ ^s-705c8c48410a0c25a3366a0c
 
 
 
-### 10 straipsnis. 12 straipsnio pakeitimas
+### 9 straipsnis. 11 straipsnio pakeitimas ^s-e79ba39a36a48bd316aa3934
 
 
-Pakeisti [[#12 straipsnis. 14 straipsnio pakeitimas|12 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-d170bf7b7a973d0412479f4a|11 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#12 straipsnis. 14 straipsnio pakeitimas|12 straipsnis]]. Lygių galimybių kontrolieriaus kompetencija
+„[[#^s-d170bf7b7a973d0412479f4a|11 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos teisiniai pagrindai
 
 
-1. Lygių galimybių kontrolierius tiria skundus dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ir seksualinio priekabiavimo. ^35e84ffc05d58af8d1d6c1d4
+1. Lygių galimybių kontrolieriaus tarnyba vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-9f9a056dd6467a0fa5c094fb
 
 
-2. Lygių galimybių kontrolierius teikia išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos valdžios ir valdymo institucijoms dėl teisės aktų tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.“ ^aeef8cb1391f7abc607b5186
+2. Lygių galimybių kontrolieriaus tarnyba savo veiklą grindžia teisėtumo, nešališkumo ir teisingumo principais. ^s-68f041023482fff669f5b0c4
+
+
+3. Lygių galimybių kontrolieriaus tarnybai vadovauja lygių galimybių kontrolierius.“ ^s-6f3d271e39d1dbe6424467e8
 
 
 
-### 11 straipsnis. 13 straipsnio pakeitimas
+### 10 straipsnis. 12 straipsnio pakeitimas ^s-56feb4933f6c25f74eb70f41
 
 
-[[#13 straipsnis. 15 straipsnio pakeitimas|13 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+Pakeisti [[#^s-0b37e74355cf631a118137fa|12 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#13 straipsnis. 15 straipsnio pakeitimas|13 straipsnis]]. Lygių galimybių kontrolieriui keliami reikalavimai
+„[[#^s-0b37e74355cf631a118137fa|12 straipsnis]]. Lygių galimybių kontrolieriaus kompetencija
+
+
+1. Lygių galimybių kontrolierius tiria skundus dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ir seksualinio priekabiavimo. ^s-da62efa5cbbf62f8abda146f
+
+
+2. Lygių galimybių kontrolierius teikia išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos valdžios ir valdymo institucijoms dėl teisės aktų tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.“ ^s-3fb45df748cc5aae992ea338
+
+
+
+### 11 straipsnis. 13 straipsnio pakeitimas ^s-d170bf7b7a973d0412479f4a
+
+
+[[#^s-22decfac398daf702f619eac|13 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+
+
+„[[#^s-22decfac398daf702f619eac|13 straipsnis]]. Lygių galimybių kontrolieriui keliami reikalavimai
 
 
 Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį išsilavinimą ir ne mažesnį kaip penkerių metų teisinio darbo arba darbo valstybės valdžios bei valdymo institucijose stažą.“
 
 
 
-### 12 straipsnis. 14 straipsnio pakeitimas
+### 12 straipsnis. 14 straipsnio pakeitimas ^s-0b37e74355cf631a118137fa
 
 
-[[#14 straipsnis. 16 straipsnio pakeitimas|14 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-e677b4ce837238c56291215d|14 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#14 straipsnis. 16 straipsnio pakeitimas|14 straipsnis]]. Lygių galimybių kontrolieriaus skyrimo tvarka
+„[[#^s-e677b4ce837238c56291215d|14 straipsnis]]. Lygių galimybių kontrolieriaus skyrimo tvarka
 
 
-1. Lygių galimybių kontrolierių Seimo Pirmininko teikimu 4 metams skiria ir atleidžia Seimas. ^e868738ef453bce62e58bc5d
+1. Lygių galimybių kontrolierių Seimo Pirmininko teikimu 4 metams skiria ir atleidžia Seimas. ^s-15a6d06ae89f0d1abf634d29
 
 
-2. Lygių galimybių kontrolieriaus kadencijų skaičius neribojamas.“ ^23fa53ff0a25db5f772536d9
-
-
-
-### 13 straipsnis. 15 straipsnio pakeitimas
-
-
-[[#15 straipsnis. 17 straipsnio pakeitimas|15 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
-
-
-„[[#15 straipsnis. 17 straipsnio pakeitimas|15 straipsnis]]. Lygių galimybių kontrolieriaus įgaliojimų pasibaigimas
-
-
-1. Lygių galimybių kontrolierius atleidžiamas iš pareigų: ^f2b26e7999507ef8e22b5b72
-
-
-1) paties prašymu; ^a84ab4cd77e067444d5785d9
-
-
-2) pasibaigus įgaliojimų laikui; ^e2a3b180508aecaf57b85bb9
-
-
-3) kai negali eiti pareigų dėl sveikatos būklės, t. y. per vienerius kalendorinius metus kontrolierius serga daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutiniuosius dvylika mėnesių; ^263a7322dd96844ca7560cc3
-
-
-4) kai jam įsiteisėja apkaltinamasis teismo nuosprendis; ^f3a4abba97076d1f046faa75
-
-
-5) kai Lietuvos Respublikos Seimas pareiškia jam nepasitikėjimą. ^982a7c057f5b70157a87fef6
-
-
-2. Lygių galimybių kontrolieriaus įgaliojimai pasibaigia jam mirus.“ ^c12b70da741fe2a71c420cc1
+2. Lygių galimybių kontrolieriaus kadencijų skaičius neribojamas.“ ^s-940d11e512c2ff90c7909411
 
 
 
-### 14 straipsnis. 16 straipsnio pakeitimas
+### 13 straipsnis. 15 straipsnio pakeitimas ^s-22decfac398daf702f619eac
 
 
-[[#16 straipsnis. 18 straipsnio pakeitimas|16 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-32dda29f7e7cd050a513c0af|15 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#16 straipsnis. 18 straipsnio pakeitimas|16 straipsnis]]. Draudimai lygių galimybių kontrolieriui
+„[[#^s-32dda29f7e7cd050a513c0af|15 straipsnis]]. Lygių galimybių kontrolieriaus įgaliojimų pasibaigimas
 
 
-1. Lygių galimybių kontrolierius negali eiti jokių kitų pareigų valstybinėse įstaigose ir organizacijose, taip pat dirbti verslo, komercijos bei kitose privačiose įstaigose ar įmonėse. ^293003183608c3ec9c8ab626
+1. Lygių galimybių kontrolierius atleidžiamas iš pareigų: ^s-e12ca3e54ae783f8b2b0c0e0
 
 
-2. Lygių galimybių kontrolierius negali gauti kito atlyginimo, išskyrus nustatytąjį pagal einamas pareigas bei užmokestį už pedagoginę ar kūrybinę veiklą.“ ^0a82c53cdd86c28d59119781
+1) paties prašymu; ^s-64929834522fdd586fcfb95b
+
+
+2) pasibaigus įgaliojimų laikui; ^s-b7b0743285f6680cdf4c5098
+
+
+3) kai negali eiti pareigų dėl sveikatos būklės, t. y. per vienerius kalendorinius metus kontrolierius serga daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutiniuosius dvylika mėnesių; ^s-fcdbe420d05f16d7e2e10078
+
+
+4) kai jam įsiteisėja apkaltinamasis teismo nuosprendis; ^s-aa7131804abfa650adf61b90
+
+
+5) kai Lietuvos Respublikos Seimas pareiškia jam nepasitikėjimą. ^s-8606c9bd4b91ef8176b8d1b3
+
+
+2. Lygių galimybių kontrolieriaus įgaliojimai pasibaigia jam mirus.“ ^s-deb9ee45bc7aeae6575b94d7
 
 
 
-### 15 straipsnis. 17 straipsnio pakeitimas
+### 14 straipsnis. 16 straipsnio pakeitimas ^s-e677b4ce837238c56291215d
 
 
-[[#17 straipsnis. 19 straipsnio pakeitimas|17 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-a491cd30c8418a49c5037d5b|16 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#17 straipsnis. 19 straipsnio pakeitimas|17 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos finansavimas
+„[[#^s-a491cd30c8418a49c5037d5b|16 straipsnis]]. Draudimai lygių galimybių kontrolieriui
+
+
+1. Lygių galimybių kontrolierius negali eiti jokių kitų pareigų valstybinėse įstaigose ir organizacijose, taip pat dirbti verslo, komercijos bei kitose privačiose įstaigose ar įmonėse. ^s-0a05718206f05f9eabe1b507
+
+
+2. Lygių galimybių kontrolierius negali gauti kito atlyginimo, išskyrus nustatytąjį pagal einamas pareigas bei užmokestį už pedagoginę ar kūrybinę veiklą.“ ^s-4ae0ae19622fbb8d8492b6be
+
+
+
+### 15 straipsnis. 17 straipsnio pakeitimas ^s-32dda29f7e7cd050a513c0af
+
+
+[[#^s-d0412ab4f6f08846444999b6|17 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+
+
+„[[#^s-d0412ab4f6f08846444999b6|17 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos finansavimas
 
 
 Lygių galimybių kontrolieriaus tarnybos veikla finansuojama iš valstybės biudžeto.“
 
 
 
-### 16 straipsnis. 18 straipsnio pakeitimas
+### 16 straipsnis. 18 straipsnio pakeitimas ^s-a491cd30c8418a49c5037d5b
 
 
-[[#18 straipsnis. 20 straipsnio pakeitimas|18 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-353d328b43d1c6cc01f98010|18 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#18 straipsnis. 20 straipsnio pakeitimas|18 straipsnis]]. Skundų priėmimas
+„[[#^s-353d328b43d1c6cc01f98010|18 straipsnis]]. Skundų priėmimas
 
 
-1. Kiekvienas fizinis ir juridinis asmuo turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių teisių pažeidimo. ^6765ceceb490777c56c1559e
+1. Kiekvienas fizinis ir juridinis asmuo turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių teisių pažeidimo. ^s-1493205cac9856441605c4b2
 
 
-2. Skundai teikiami raštu. Skundų registravimo bei paskirstymo spręsti tvarką nustato lygių galimybių kontrolieriaus tarnybos reglamentas, kurį tvirtina lygių galimybių kontrolierius. ^567f2f6882134e19ee045d92
+2. Skundai teikiami raštu. Skundų registravimo bei paskirstymo spręsti tvarką nustato lygių galimybių kontrolieriaus tarnybos reglamentas, kurį tvirtina lygių galimybių kontrolierius. ^s-15f0e155318120126592a7a1
 
 
-3. Jeigu skundas gautas žodžiu ar telefonu arba jeigu lygių galimybių kontrolierius nustatė lygių teisių pažeidimo požymius iš spaudos ir kitų visuomenės informavimo priemonių ar kitokių šaltinių, jis gali pradėti tyrimą savo iniciatyva. ^508e0687b8783a2dda3b49d2
+3. Jeigu skundas gautas žodžiu ar telefonu arba jeigu lygių galimybių kontrolierius nustatė lygių teisių pažeidimo požymius iš spaudos ir kitų visuomenės informavimo priemonių ar kitokių šaltinių, jis gali pradėti tyrimą savo iniciatyva. ^s-4f17168a8fe1baa12b70cf5b
 
 
-4. Anoniminiai skundai nenagrinėjami, jeigu lygių galimybių kontrolierius nenusprendžia kitaip.“ ^9365bb72e70119df3b70894f
-
-
-
-### 17 straipsnis. 19 straipsnio pakeitimas
-
-
-[[#19 straipsnis. 21 straipsnio pakeitimas|19 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
-
-
-„[[#19 straipsnis. 21 straipsnio pakeitimas|19 straipsnis]]. Skundo reikalavimai
-
-
-1. Skunde turi būti: ^5fa7a0c571d43e86f7d7d9d1
-
-
-1) adresatas – lygių galimybių kontrolierius; ^d47ba23e74b6d28549c3146b
-
-
-2) pareiškėjo vardas, pavardė ar institucijos pavadinimas ir adresas; ^af2c24cea719f9b1ba1afc41
-
-
-3) apskundžiamų institucijų pavadinimai ar asmenų vardai, pavardės ir institucija, kurioje jie dirba; ^42400893189469c2c1e43785
-
-
-4) apibūdintas skundžiamas sprendimas arba skundžiami veiksmai, nurodytas jų padarymo laikas ir aplinkybės; ^66a98badb8753c8368c02f1b
-
-
-5) prašymas lygių galimybių kontrolieriui; ^dc04b67e168423786ecddd0d
-
-
-6) skundo parašymo data ir pareiškėjo parašas. ^98b93dfac60ef5b38a2549df
-
-
-2. Prie skundo gali būti pridedama: ^80cf0bdfec84401b6bc83616
-
-
-1) ginčijamo sprendimo nuorašas; ^53d1de92f10e745397be3611
-
-
-2) turimi įrodymai ir jų aprašymas; ^085d6c2db9467106ef0e9259
-
-
-3) siūlomų apklausti asmenų sąrašas su jų adresais ir nurodymu, kokias aplinkybes kiekvienas iš jų gali patvirtinti. ^00694cb87ca9377ba9f53aa6
-
-
-3. [[#^5fa7a0c571d43e86f7d7d9d1|Šio straipsnio 1 dalyje]] nurodytų skundo reikalavimų nesilaikymas ar rekvizitų nenurodymas negali būti pagrindas atsisakyti nagrinėti skundą.“ ^7004ee40403c0b0415ab518a
+4. Anoniminiai skundai nenagrinėjami, jeigu lygių galimybių kontrolierius nenusprendžia kitaip.“ ^s-0ca23ed4a6395ac00d3d4738
 
 
 
-### 18 straipsnis. 20 straipsnio pakeitimas
+### 17 straipsnis. 19 straipsnio pakeitimas ^s-d0412ab4f6f08846444999b6
 
 
-[[#20 straipsnis. 22 straipsnio pakeitimas|20 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-082052931be717b1dfc067c5|19 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#20 straipsnis. 22 straipsnio pakeitimas|20 straipsnis]]. Skundų padavimo terminas
+„[[#^s-082052931be717b1dfc067c5|19 straipsnis]]. Skundo reikalavimai
+
+
+1. Skunde turi būti: ^s-2808171695acd3a14a043efb
+
+
+1) adresatas – lygių galimybių kontrolierius; ^s-ec2911f8a78bfe39a8cf38b2
+
+
+2) pareiškėjo vardas, pavardė ar institucijos pavadinimas ir adresas; ^s-b47040835e1af669a9ecf70d
+
+
+3) apskundžiamų institucijų pavadinimai ar asmenų vardai, pavardės ir institucija, kurioje jie dirba; ^s-d83ef21e58ccc7a9e2ccc4cf
+
+
+4) apibūdintas skundžiamas sprendimas arba skundžiami veiksmai, nurodytas jų padarymo laikas ir aplinkybės; ^s-88dcd0d323026f04c014d499
+
+
+5) prašymas lygių galimybių kontrolieriui; ^s-60eccaa43045fef4e3b156c5
+
+
+6) skundo parašymo data ir pareiškėjo parašas. ^s-115ac8acd9deed10ee609793
+
+
+2. Prie skundo gali būti pridedama: ^s-ab3829bc1353a20a4024229f
+
+
+1) ginčijamo sprendimo nuorašas; ^s-1222adf7294d5d2839bccbe4
+
+
+2) turimi įrodymai ir jų aprašymas; ^s-731e022842cbbd29b2c153b1
+
+
+3) siūlomų apklausti asmenų sąrašas su jų adresais ir nurodymu, kokias aplinkybes kiekvienas iš jų gali patvirtinti. ^s-e9e4455ceea3696a91a81ca9
+
+
+3. [[#^s-2808171695acd3a14a043efb|Šio straipsnio 1 dalyje]] nurodytų skundo reikalavimų nesilaikymas ar rekvizitų nenurodymas negali būti pagrindas atsisakyti nagrinėti skundą.“ ^s-01b6560d119a26d4abb6dad8
+
+
+
+### 18 straipsnis. 20 straipsnio pakeitimas ^s-353d328b43d1c6cc01f98010
+
+
+[[#^s-dcedfc358f8d8ff3c04bafd3|20 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+
+
+„[[#^s-dcedfc358f8d8ff3c04bafd3|20 straipsnis]]. Skundų padavimo terminas
 
 
 Skundą galima paduoti per 3 mėnesius nuo skundžiamų veiksmų padarymo. Skundai, paduoti praėjus šiam terminui, nenagrinėjami, jeigu lygių galimybių kontrolierius nenusprendžia kitaip.“
 
 
 
-### 19 straipsnis. 21 straipsnio pakeitimas
+### 19 straipsnis. 21 straipsnio pakeitimas ^s-082052931be717b1dfc067c5
 
 
-[[#21 straipsnis. 23 straipsnio pakeitimas|21 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-bc8ef258bf8e246039e241d5|21 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#21 straipsnis. 23 straipsnio pakeitimas|21 straipsnis]]. Atsisakymas nagrinėti skundą
+„[[#^s-bc8ef258bf8e246039e241d5|21 straipsnis]]. Atsisakymas nagrinėti skundą
 
 
-1. Lygių galimybių kontrolierius atsisako nagrinėti skundą ir ne vėliau kaip per 15 dienų grąžina jį pareiškėjui, jeigu: ^c1ce3334ba04b4222b604dc9
+1. Lygių galimybių kontrolierius atsisako nagrinėti skundą ir ne vėliau kaip per 15 dienų grąžina jį pareiškėjui, jeigu: ^s-41ff652c4a7a59d0029cf100
 
 
-1) neįmanoma pradėti tyrimo dėl duomenų trūkumo, o pareiškėjas lygių galimybių kontrolieriaus prašymu nepateikia reikiamų duomenų; ^13aa148c78361355f34a17db
+1) neįmanoma pradėti tyrimo dėl duomenų trūkumo, o pareiškėjas lygių galimybių kontrolieriaus prašymu nepateikia reikiamų duomenų; ^s-1c6dab533431fb2f8b930897
 
 
-2) skundas paduotas praėjus šio įstatymo [[#20 straipsnis. 22 straipsnio pakeitimas|20 straipsnyje]] nustatytam terminui; ^b12f0997a17e958728ac8a75
+2) skundas paduotas praėjus šio įstatymo [[#^s-dcedfc358f8d8ff3c04bafd3|20 straipsnyje]] nustatytam terminui; ^s-8d63a713b652d39689eda1a5
 
 
-3) skunde nurodytų aplinkybių tyrimas nepriskirtas lygių galimybių kontrolieriaus kompetencijai; ^99bf951b99e0cc7e85026051
+3) skunde nurodytų aplinkybių tyrimas nepriskirtas lygių galimybių kontrolieriaus kompetencijai; ^s-37df7857b39d1e8d384c07c3
 
 
-4) skundas tuo pačiu klausimu buvo išnagrinėtas, yra nagrinėjamas teisme arba pagal įstatymus turi būti nagrinėjamas teisme; ^3b982dd926749510b0253677
+4) skundas tuo pačiu klausimu buvo išnagrinėtas, yra nagrinėjamas teisme arba pagal įstatymus turi būti nagrinėjamas teisme; ^s-7cfb0fdc3b240a53bfb02bc5
 
 
-5) dėl skunde keliamo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą. ^d2a6d4ffe04cbc72e78b1eb9
+5) dėl skunde keliamo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą. ^s-4079f1a116bb8d076573311c
 
 
-2. Jeigu pareiškėjui skundas grąžinamas, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriklauso lygių galimybių kontrolieriaus kompetencijai, atsisakyme nagrinėti nurodoma, į kokią instituciją tuo klausimu galėtų kreiptis pareiškėjas. ^de7d94f43cc6cbeedee86654
+2. Jeigu pareiškėjui skundas grąžinamas, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriklauso lygių galimybių kontrolieriaus kompetencijai, atsisakyme nagrinėti nurodoma, į kokią instituciją tuo klausimu galėtų kreiptis pareiškėjas. ^s-d804abc60044bcdbb16f2595
 
 
-3. Po ištyrimo pakartotinai paduotas skundas nenagrinėjamas, išskyrus atvejus, kai nurodomos naujos aplinkybės ar pateikiami nauji faktai. ^40ecaad15b89c9a040c8dc16
+3. Po ištyrimo pakartotinai paduotas skundas nenagrinėjamas, išskyrus atvejus, kai nurodomos naujos aplinkybės ar pateikiami nauji faktai. ^s-5dc1d97bbbad9b48175777db
 
 
-4. Jeigu skundo tyrimo metu išaiškėja [[#^c1ce3334ba04b4222b604dc9|šio straipsnio 1 dalyje]] nurodytos aplinkybės arba jeigu pareiškėjas nepateikia duomenų, be kurių neįmanoma pradėti skundo tyrimo, skundas paliekamas nenagrinėtas.“ ^098af9340d7f47eb1c95421e
+4. Jeigu skundo tyrimo metu išaiškėja [[#^s-41ff652c4a7a59d0029cf100|šio straipsnio 1 dalyje]] nurodytos aplinkybės arba jeigu pareiškėjas nepateikia duomenų, be kurių neįmanoma pradėti skundo tyrimo, skundas paliekamas nenagrinėtas.“ ^s-5bea0319b6f858ba8ad21a53
 
 
 
-### 20 straipsnis. 22 straipsnio pakeitimas
+### 20 straipsnis. 22 straipsnio pakeitimas ^s-dcedfc358f8d8ff3c04bafd3
 
 
-[[#22 straipsnis. 24 straipsnio pakeitimas|22 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-613bf2c1d1d8cc2889886974|22 straipsnyje]] išbraukti žodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#22 straipsnis. 24 straipsnio pakeitimas|22 straipsnis]]. Skundo ištyrimo terminai
+„[[#^s-613bf2c1d1d8cc2889886974|22 straipsnis]]. Skundo ištyrimo terminai
 
 
 Skundas turi būti ištirtas ir pareiškėjui atsakyta per vieną mėnesį nuo skundo gavimo dienos. Prireikus lygių galimybių kontrolierius tyrimo terminą gali pratęsti iki dviejų mėnesių. Apie tai turi būti informuojamas pareiškėjas.“
 
 
 
-### 21 straipsnis. 23 straipsnio pakeitimas
+### 21 straipsnis. 23 straipsnio pakeitimas ^s-bc8ef258bf8e246039e241d5
 
 
-Pakeisti [[#23 straipsnis. 241 straipsnio pakeitimas|23 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-457002143682403ccd09dd25|23 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#23 straipsnis. 241 straipsnio pakeitimas|23 straipsnis]]. Skundo tyrimo eiga
+„[[#^s-457002143682403ccd09dd25|23 straipsnis]]. Skundo tyrimo eiga
 
 
-1. Tirdamas skundą, lygių galimybių kontrolierius išsiaiškina: ^d51334777e0843bde9b8e328
+1. Tirdamas skundą, lygių galimybių kontrolierius išsiaiškina: ^s-24a50ecb1177541e0e6660cf
 
 
-1) skunde minimų sprendimų ar skundžiamų veiksmų buvimo ar nebuvimo faktą; ^3572a07b4262624732f7f24f
+1) skunde minimų sprendimų ar skundžiamų veiksmų buvimo ar nebuvimo faktą; ^s-1ec0d49008d01c109dfd872a
 
 
-2) kuo remiantis ir kokiomis aplinkybėmis sprendimai arba veiksmai padaryti; ^796cfc4b348cce74945c3863
+2) kuo remiantis ir kokiomis aplinkybėmis sprendimai arba veiksmai padaryti; ^s-c767e753e185a27cdaaace58
 
 
-3) ar skunde minimi sprendimai arba veiksmai prieštarauja įstatymams bei kitiems teisės aktams; ^6c6be0cc21dcb7083a34c670
+3) ar skunde minimi sprendimai arba veiksmai prieštarauja įstatymams bei kitiems teisės aktams; ^s-791eaf49f27b724e3a27c413
 
 
-4) kas padarė pažeidimą, dėl kokių priežasčių (ar tikslų) tai padaryta, koks pažeidimų mastas, kaip pažeidimą padariusieji asmenys aiškina savo veiksmus; ^c2f30f59c8352cf88383ab06
+4) kas padarė pažeidimą, dėl kokių priežasčių (ar tikslų) tai padaryta, koks pažeidimų mastas, kaip pažeidimą padariusieji asmenys aiškina savo veiksmus; ^s-cb46da5a87c287f40c6ba94a
 
 
-5) kokie faktai ar įrodymai patvirtina padarytąjį teisės aktų pažeidimą. ^3b69502b97ec52fbf209ed50
+5) kokie faktai ar įrodymai patvirtina padarytąjį teisės aktų pažeidimą. ^s-7723d523c42a736cfa0e3cec
 
 
-2. Jeigu lygių galimybių kontrolierius dėl giminystės ryšių ar kitų svarbių priežasčių negali nešališkai nagrinėti konkretaus skundo, jis paveda skundą tirti vienam iš savo tarnybos darbuotojų. ^4aad5d1f46ae4c196f91e13a
+2. Jeigu lygių galimybių kontrolierius dėl giminystės ryšių ar kitų svarbių priežasčių negali nešališkai nagrinėti konkretaus skundo, jis paveda skundą tirti vienam iš savo tarnybos darbuotojų. ^s-4b77098aa00897cccdad21cc
 
 
-3. Baigus nagrinėti skundą, parašoma pažyma, kurioje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai bei veiksmų juridinis įvertinimas. Pažymą pasirašo lygių galimybių kontrolierius. ^691c24a4d2bd5cad16c2ccdd
+3. Baigus nagrinėti skundą, parašoma pažyma, kurioje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai bei veiksmų juridinis įvertinimas. Pažymą pasirašo lygių galimybių kontrolierius. ^s-479cda1df0c4eddf886bf75f
 
 
-4. Su tyrimo rezultatais supažindinamas skundo autorius, institucijos, kurioje buvo atliekamas tyrimas, vadovas ir asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami pažymos nuorašai.“ ^08827e1f817f0160e2fb90f7
+4. Su tyrimo rezultatais supažindinamas skundo autorius, institucijos, kurioje buvo atliekamas tyrimas, vadovas ir asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami pažymos nuorašai.“ ^s-2615d6356748d8e64bf535ba
 
 
 
-### 22 straipsnis. 24 straipsnio pakeitimas
+### 22 straipsnis. 24 straipsnio pakeitimas ^s-613bf2c1d1d8cc2889886974
 
 
-Pakeisti [[#24 straipsnis. 25 straipsnio pakeitimas|24 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-d456940ad03a45571d7b0d1b|24 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#24 straipsnis. 25 straipsnio pakeitimas|24 straipsnis]]. Lygių galimybių kontrolieriaus sprendimai
+„[[#^s-d456940ad03a45571d7b0d1b|24 straipsnis]]. Lygių galimybių kontrolieriaus sprendimai
 
 
 Atlikęs tyrimą, lygių galimybių kontrolierius gali priimti sprendimą:
 
 
-1) perduoti tyrimo medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, jeigu nustatomi nusikalstamos veikos požymiai; ^eb91561b3c7ea4018880160e
+1) perduoti tyrimo medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, jeigu nustatomi nusikalstamos veikos požymiai; ^s-e178c67b3fe94187caccd376
 
 
-2) kreiptis į atitinkamą asmenį ar instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus ar panaikinti su tuo susijusį aktą; ^12beb935d9e1cbc837f3c341
+2) kreiptis į atitinkamą asmenį ar instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus ar panaikinti su tuo susijusį aktą; ^s-92236da01caf314040a5b3ec
 
 
-3) nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^b4d60c2762a33e4fb66376c9
+3) nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^s-5b2c24e75437987208dbf575
 
 
-4) atmesti skundą, jeigu nepasitvirtino jame nurodyti pažeidimai; ^53280f1f317b1cad15b4658b
+4) atmesti skundą, jeigu nepasitvirtino jame nurodyti pažeidimai; ^s-d4ce62bd3d64bea850f895d1
 
 
-5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas panaikinamas; ^fab3270513bbae1d2302c958
+5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas panaikinamas; ^s-3be11e28547a9723a43f025d
 
 
-6) įspėti dėl padaryto pažeidimo; ^fdd0b6b3a7fe0017f2ec8a41
+6) įspėti dėl padaryto pažeidimo; ^s-dc62bbddaa8e79379c425c8c
 
 
-7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs.“ ^c2edeb6e8c813b338ea6ed07
+7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs.“ ^s-be08a92f5d1e2fef0a9516a0
 
 
 
-### 23 straipsnis. 241 straipsnio pakeitimas
+### 23 straipsnis. 241 straipsnio pakeitimas ^s-457002143682403ccd09dd25
 
 
 241 straipsnyje išbraukti žodį „ar“, po žodžio „priekabiavimą“ įrašyti žodžius „ar priekabiavimą“ ir šį straipsnį išdėstyti taip:
@@ -525,71 +530,71 @@ Asmuo, patyręs diskriminaciją dėl lyties, seksualinį priekabiavimą ar priek
 
 
 
-### 24 straipsnis. 25 straipsnio pakeitimas
+### 24 straipsnis. 25 straipsnio pakeitimas ^s-d456940ad03a45571d7b0d1b
 
 
-Pakeisti [[#25 straipsnis. 26 straipsnio pakeitimas|25 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-0fd3f2f3ecc9f9fb87ef2e20|25 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#25 straipsnis. 26 straipsnio pakeitimas|25 straipsnis]]. Lygių galimybių kontrolieriaus reikalavimų privalomumas
+„[[#^s-0fd3f2f3ecc9f9fb87ef2e20|25 straipsnis]]. Lygių galimybių kontrolieriaus reikalavimų privalomumas
 
 
-1. Valdžios ir valdymo institucijos, įmonės, įstaigos, organizacijos, fiziniai asmenys lygių galimybių kontrolieriaus reikalavimu privalo nedelsdami pateikti jam informaciją, dokumentus ir medžiagą, būtinus kontrolieriaus funkcijoms atlikti. ^a50393dbc4a67884ea81c2ed
+1. Valdžios ir valdymo institucijos, įmonės, įstaigos, organizacijos, fiziniai asmenys lygių galimybių kontrolieriaus reikalavimu privalo nedelsdami pateikti jam informaciją, dokumentus ir medžiagą, būtinus kontrolieriaus funkcijoms atlikti. ^s-2b9e47425cdb960975d47053
 
 
-2. Tirdamas skundą, lygių galimybių kontrolierius turi teisę kreiptis į asmenį, kurio veiksmai nagrinėjami, ir reikalauti paaiškinimo. Tokį paaiškinimą asmuo privalo pateikti per 10 darbo dienų. ^2e858911a3725ce839574621
+2. Tirdamas skundą, lygių galimybių kontrolierius turi teisę kreiptis į asmenį, kurio veiksmai nagrinėjami, ir reikalauti paaiškinimo. Tokį paaiškinimą asmuo privalo pateikti per 10 darbo dienų. ^s-141e1fc9af477a5461b06f7d
 
 
-3. Asmenys, trukdantys lygių galimybių kontrolieriui atlikti pareigas, atsako pagal įstatymus.“ ^6888c7a6ebc6a4404462787e
-
-
-
-### 25 straipsnis. 26 straipsnio pakeitimas
-
-
-[[#26 straipsnis. 27 straipsnio pakeitimas|26 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
-
-
-„[[#26 straipsnis. 27 straipsnio pakeitimas|26 straipsnis]]. Lygių galimybių kontrolieriaus atlyginimas ir socialinės garantijos
-
-
-1. Lygių galimybių kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos lygių galimybių kontrolieriui nemokami. ^44b5218009788688a689f735
-
-
-2. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, lygių galimybių kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos. ^ebed8e60fe90ab3ebca452ea
-
-
-3. Lygių galimybių kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo įstatymo nustatyta tvarka.“ ^f063f465da84442c1de336cd
+3. Asmenys, trukdantys lygių galimybių kontrolieriui atlikti pareigas, atsako pagal įstatymus.“ ^s-e37120818e68b42e99c76f83
 
 
 
-### 26 straipsnis. 27 straipsnio pakeitimas
+### 25 straipsnis. 26 straipsnio pakeitimas ^s-0fd3f2f3ecc9f9fb87ef2e20
 
 
-[[#27 straipsnis. 28 straipsnio pakeitimas|27 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-58b6920d96245d33a90c5dec|26 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#27 straipsnis. 28 straipsnio pakeitimas|27 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos veiklos ataskaita
+„[[#^s-58b6920d96245d33a90c5dec|26 straipsnis]]. Lygių galimybių kontrolieriaus atlyginimas ir socialinės garantijos
+
+
+1. Lygių galimybių kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos lygių galimybių kontrolieriui nemokami. ^s-f588c61dbf179d3f9747db27
+
+
+2. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, lygių galimybių kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos. ^s-c045429820edaaeddd3f5f8d
+
+
+3. Lygių galimybių kontrolierius valstybiniu socialiniu draudimu draudžiamas [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka.“ ^s-37727377b6ee4d7f16f28be7
+
+
+
+### 26 straipsnis. 27 straipsnio pakeitimas ^s-58b6920d96245d33a90c5dec
+
+
+[[#^s-a1c17245182ed20e5cbc8c01|27 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+
+
+„[[#^s-a1c17245182ed20e5cbc8c01|27 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos veiklos ataskaita
 
 
 Lygių galimybių kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių galimybių kontrolieriaus tarnybos veiklos ataskaitą, kuri nagrinėjama Seime. Visa ataskaita turi būti paskelbta Lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.“
 
 
 
-### 27 straipsnis. 28 straipsnio pakeitimas
+### 27 straipsnis. 28 straipsnio pakeitimas ^s-a1c17245182ed20e5cbc8c01
 
 
-[[#28 straipsnis. Įstatymo priedo pakeitimas ir papildymas|28 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
+[[#^s-0e72b33f8047b6b1d3ff6d60|28 straipsnyje]] išbraukti žodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#28 straipsnis. Įstatymo priedo pakeitimas ir papildymas|28 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos veiklos viešumas
+„[[#^s-0e72b33f8047b6b1d3ff6d60|28 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos veiklos viešumas
 
 
 Lygių galimybių kontrolieriaus tarnyba informaciją spaudai ir kitoms visuomenės informavimo priemonėms apie skundo dėl lygių teisių pažeidimo tyrimą teikia tik pareiškėjui sutikus.“
 
 
 
-### 28 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+### 28 straipsnis. Įstatymo priedo pakeitimas ir papildymas ^s-0e72b33f8047b6b1d3ff6d60
 
 
 Papildyti ir pakeisti Įstatymo priedą ir jį išdėstyti taip:
@@ -605,19 +610,19 @@ priedas
 
 
 
-1. 1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies keičianti Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo įgyvendinimo profesinėse socialinės apsaugos sistemose. ^88fabf9e09cf09e034d679ee
+1. 1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies keičianti Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo įgyvendinimo profesinėse socialinės apsaugos sistemose. ^s-b27c75fa5093be18c33f2d47
 
 
-2. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose. ^857e231f8eec3d0ec4a93aeb
+2. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose. ^s-d2ab65e17f36acaf7837f66d
 
 
-3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei. ^47ec96607c77ccf3ed5a55de
+3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei. ^s-cd0cbf55cc34142768f62ed1
 
 
-4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/73/EB, iš dalies keičianti Tarybos direktyvą 76/207/EEB dėl vienodo požiūrio į vyrus ir moteris principo taikymo įsidarbinimo, profesinio mokymo, pareigų paaukštinimo ir darbo sąlygų atžvilgiu. ^f09b25c863466834dba8161a
+4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/73/EB, iš dalies keičianti Tarybos direktyvą 76/207/EEB dėl vienodo požiūrio į vyrus ir moteris principo taikymo įsidarbinimo, profesinio mokymo, pareigų paaukštinimo ir darbo sąlygų atžvilgiu. ^s-a08720a4c8f118b631b8001e
 
 
-5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo.“ ^1979b5a59edddc5503479d72
+5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo.“ ^s-d1713e049d74702b6e747c02
 
 
 

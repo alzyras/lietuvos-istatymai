@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B8932F968826"
 pavadinimas: "Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-30"
 latest_path: "latest/TAR.B8932F968826.md"
 latest_sha256: "65e9b6571d42d8d8fe9ae0d70e2ebe69808bdec92841118d8f850ee91b8a780a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B8932F968826]]"
 ---
 # Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B8932F968826.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B8932F968826
+- Ryšiai: [[Ryšiai/TAR.B8932F968826|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-0dcb36eb710d40496969148b
 
 
 2 straipsnio 2 dalyje išbraukti žodžius „Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo projektą, susijusį su šio Įstatymo 4 straipsnio 2 dalies normų pažeidimu, bei“ ir šią dalį išdėstyti taip:

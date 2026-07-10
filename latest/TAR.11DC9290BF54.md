@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.11DC9290BF54"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 2.44 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 2.44 straipsnio pakeitimo įstatymas"
+  - "civilinio kodekso 2.44 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-04-14"
 latest_path: "latest/TAR.11DC9290BF54.md"
 latest_sha256: "6001c3509a7db9ff6b1d865968e5fc905c6ba7a6c9c57624befff701afda7946"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.11DC9290BF54]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 2.44 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.11DC9290BF54.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.11DC9290BF54
+- Ryšiai: [[Ryšiai/TAR.11DC9290BF54|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,10 +39,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 2.44 straipsnio 3 dalies pripažinimas netekusia galios
+### 1 straipsnis. 2.44 straipsnio 3 dalies pripažinimas netekusia galios ^s-a829af74a44cab474ee824e9
 
 
-2.44 straipsnio 3 dalį pripažinti netekusia galios. ^aa73d806b4353f40dcee3f4f
+2.44 straipsnio 3 dalį pripažinti netekusia galios. ^s-fafb3287a6a0ff98c247a0ad
 
 
 

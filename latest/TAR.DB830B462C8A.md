@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DB830B462C8A"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimo III/1 (Bazelio konvencijos pakeitimas) ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimo III/1 (Bazelio konvencijos pakeitimas) ratifikavimo"
+  - "įstatymas dėl 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimo III/1 (Bazelio konvencijos pakeitimas) ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-10-15"
 latest_path: "latest/TAR.DB830B462C8A.md"
 latest_sha256: "de5a978c8235ed99c52b32e125ada344f9a4edf9d0cba09c203e2e38d0ffa41b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DB830B462C8A]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimo III/1 (Bazelio konvencijos pakeitimas) ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DB830B462C8A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DB830B462C8A
+- Ryšiai: [[Ryšiai/TAR.DB830B462C8A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sprendimo III/1 ratifikavimas
+### 1 straipsnis. Sprendimo III/1 ratifikavimas ^s-06fd15a8e42d33d5d95db92d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. rugpjūčio 21 d. dekretą Nr. 186, ratifikuoja 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimą III/1 (Bazelio konvencijos pakeitimas).

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2BCDDE648E91"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-09-15"
 latest_path: "latest/TAR.2BCDDE648E91.md"
 latest_sha256: "678e8fce07021695068ec94458569ed6221361d84cacb054151a430cde58221e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2BCDDE648E91]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2BCDDE648E91.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2BCDDE648E91
+- Ryšiai: [[Ryšiai/TAR.2BCDDE648E91|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-8b5e3cb7dc948562f967bc59
 
 
 10 straipsnio 2 dalyje vietoj žodžių „Lietuvos Respublikos Vyriausybės kanclerio“ įrašyti žodžius „Ministro Pirmininko kanclerio, Ministro Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos departamentų direktorių, Ministro Pirmininko patarėjų“, vietoj žodžių „ministerijų valstybės sekretorių, ministerijų sekretorių“ įrašyti žodžius „ministerijų kanclerių“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-cd02b8a09289d8e58aefca60
 
 
 Šis įstatymas įsigalioja 2009 m. rugsėjo 15 d.

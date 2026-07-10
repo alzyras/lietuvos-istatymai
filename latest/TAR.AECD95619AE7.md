@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AECD95619AE7"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 72, 80 straipsnių pakeitimo ir įstatymo papildymo priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 72, 80 straipsnių pakeitimo ir įstatymo papildymo priedu įstatymas"
+  - "sveikatos sistemos įstatymo 72, 80 straipsnių pakeitimo ir įstatymo papildymo priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-29"
 latest_path: "latest/TAR.AECD95619AE7.md"
 latest_sha256: "009cc07f870986e1a80ed626a5ac9c8c779722ba8f181f05526692d4cab5373d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AECD95619AE7]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 72, 80 straipsnių pakeitimo ir įstatymo papildymo priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AECD95619AE7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AECD95619AE7
+- Ryšiai: [[Ryšiai/TAR.AECD95619AE7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 72 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 72 straipsnio 2 dalies pakeitimas ^s-8a924089e5c4c5f292728cb8
 
 
-1. Papildyti 72 straipsnio 2 dalį nauju 5 punktu: ^bf8a7e126071e9af2c2fca58
+1. Papildyti 72 straipsnio 2 dalį nauju 5 punktu: ^s-6935a4c06480d2815eee33c6
 
 
 „5) išduoda leidimus klinikiniams vaistinio preparato tyrimams Lietuvos bioetikos komiteto pritarimu;“.
 
 
-2. Buvusį 72 straipsnio 2 dalies 5 punktą laikyti 6 punktu. ^cef8a7a0f6291fa1d47b52bf
+2. Buvusį 72 straipsnio 2 dalies 5 punktą laikyti 6 punktu. ^s-b7fb3c468cb52bea9579011a
 
 
 
-### 2 straipsnis. 80 straipsnio 2 dalies 2 punkto pakeitimas
+### 2 straipsnis. 80 straipsnio 2 dalies 2 punkto pakeitimas ^s-1f690fec0992d22b7cec5f7b
 
 
 Pakeisti 80 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 80 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo papildymas priedu
+### 3 straipsnis. Įstatymo papildymas priedu ^s-e137a2ef569fe1c49c963828
 
 
 Papildyti Įstatymą priedu:
@@ -63,7 +68,7 @@ Papildyti Įstatymą priedu:
 
 „Lietuvos Respublikos
 1994 m. liepos 19 d.
-įstatymo Nr. I-552
+[[latest/TAR.E2B2957B9182|įstatymo Nr. I-552]]
 priedas
 
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
@@ -72,7 +77,7 @@ priedas
 
 
 
-### 4 straipsnis. Pasiūlymas Vyriausybei
+### 4 straipsnis. Pasiūlymas Vyriausybei ^s-8f5961663731f74364faba0d
 
 
 Vyriausybė ar Sveikatos apsaugos ministerija iki 2004 m. liepos 1 d. parengia ir patvirtina šiam Įstatymui įgyvendinti reikalingus teisės aktus.

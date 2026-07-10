@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.436A2B69FE31"
 pavadinimas: "Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas"
+  - "religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-11"
 latest_path: "latest/TAR.436A2B69FE31.md"
 latest_sha256: "c2ee02bbca6cfcec396660ced50c09cabc06c3860fd80453062993b5c10a64c2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.436A2B69FE31]]"
 ---
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.436A2B69FE31.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.436A2B69FE31
+- Ryšiai: [[Ryšiai/TAR.436A2B69FE31|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio papildymas
+### 1 straipsnis. 10 straipsnio papildymas ^s-d800319ac03bdadf53690fd9
 
 
 10 straipsnį papildyti 3 ir 4 dalimis ir jį išdėstyti taip:

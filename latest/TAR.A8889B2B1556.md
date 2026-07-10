@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8889B2B1556"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 3 straipsnio, 3, 4 ir 6 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 3 straipsnio, 3, 4 ir 6 priedėlių pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 3 straipsnio, 3, 4 ir 6 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.A8889B2B1556.md"
 latest_sha256: "33b82c3792f5cf5c09e8fc4791ce9fcb4e274fba4687c5ed0b07f5eaa215d032"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8889B2B1556]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 3 straipsnio, 3, 4 ir 6 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8889B2B1556.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8889B2B1556
+- Ryšiai: [[Ryšiai/TAR.A8889B2B1556|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,14 +40,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 3 straipsnio 1 punkto pripažinimas netekusiu galios ^s-4fd21779177c193ef8e219d9
 
 
 3 straipsnio 1 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 3 priedėlio pakeitimas
+### 2 straipsnis. 3 priedėlio pakeitimas ^s-3acc7e430850642aeea26a1c
 
 
 Pakeisti 3 priedėlio 1 punktą ir jį išdėstyti taip:
@@ -167,10 +172,10 @@ Pakeisti 3 priedėlio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 4 priedėlio pakeitimas
+### 3 straipsnis. 4 priedėlio pakeitimas ^s-83f43446666c6fa53e1c350d
 
 
-1. 4 priedėlio I skirsnyje po žodžių „mokestis nustatomas sumuojant“ išbraukti žodžius „lentelėje nurodytus“ ir šį skirsnį išdėstyti taip: ^abdf43f293333fa6f355b8df
+1. 4 priedėlio I skirsnyje po žodžių „mokestis nustatomas sumuojant“ išbraukti žodžius „lentelėje nurodytus“ ir šį skirsnį išdėstyti taip: ^s-ace760c2ea79f9e467ee9024
 
 
 „I. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE, TARP JŲ IR EUROPOS SĄJUNGOS VALSTYBĖSE NARĖSE, ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
@@ -250,14 +255,14 @@ Pakeisti 3 priedėlio 1 punktą ir jį išdėstyti taip:
 Jei lentelėje nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami (aukštis – daugiau nei 50 cm, plotis – daugiau nei 100 cm, ilgis – daugiau nei 500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų matmenų viršijimą. Kai transporto priemonės (jų junginio) matmenys viršija lentelėje nurodytus maksimalius, būtina gauti atskirą leidimą, kurį išduodant pridedamas papildomas mokestis už maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos būtina atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų junginiui) važiuoti leidime nurodytu maršrutu, vertė.“
 
 
-2. 4 priedėlio III skirsnio 2 punkte išbraukti žodį „puspriekabių“ ir šį punktą išdėstyti taip: ^ab718cd294342e87e378c154
+2. 4 priedėlio III skirsnio 2 punkte išbraukti žodį „puspriekabių“ ir šį punktą išdėstyti taip: ^s-56ed1749d895f2e9113d6ee8
 
 
 „2. Triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.“
 
 
 
-### 4 straipsnis. 6 priedėlio pakeitimas
+### 4 straipsnis. 6 priedėlio pakeitimas ^s-24e417d593f7f11660c056c0
 
 
 Pakeisti 6 priedėlio 2 punktą ir jį išdėstyti taip:
@@ -267,13 +272,13 @@ Pakeisti 6 priedėlio 2 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-5d84785a55f85e9aa13c47a6
 
 
-1. Šis įstatymas įsigalioja 2009 m. sausio 1 d. ^1a442fb7c85f43d9c2286a5f
+1. Šis įstatymas įsigalioja 2009 m. sausio 1 d. ^s-5038cfe2ff8299988d9051c8
 
 
-2. Lietuvos Respublikos Vyriausybė ir jos įgaliota institucija iki šio įstatymo įsigaliojimo priima teisės aktus, reikalingus šiam įstatymui įgyvendinti. ^aeedd43afc0a684d54a9a0c8
+2. Lietuvos Respublikos Vyriausybė ir jos įgaliota institucija iki šio įstatymo įsigaliojimo priima teisės aktus, reikalingus šiam įstatymui įgyvendinti. ^s-bfbc99a13fae568fd8456ace
 
 
 

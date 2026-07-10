@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.75517927EE49"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 59 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 59 straipsnio pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 59 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-06"
 latest_path: "latest/TAR.75517927EE49.md"
 latest_sha256: "20bd0595ee2245ae47c23b544165b5446167c6b631bb6fb284837a2d2aea7aa9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.75517927EE49]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 59 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.75517927EE49.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.75517927EE49
+- Ryšiai: [[Ryšiai/TAR.75517927EE49|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 59 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 59 straipsnio 6 dalies pakeitimas ^s-29a2fe324145288c8bbcadba
 
 
 Pakeisti 59 straipsnio 6 dalį ir ją išdėstyti taip:

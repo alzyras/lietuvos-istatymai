@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A049B3C6ACAF"
 pavadinimas: "Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-07-28"
 latest_path: "latest/TAR.A049B3C6ACAF.md"
 latest_sha256: "1d9db0ad11fcf017012933f9e04771e6410fd0f664398f70d19516d0e1cfccdb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A049B3C6ACAF]]"
 ---
 # Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A049B3C6ACAF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A049B3C6ACAF
+- Ryšiai: [[Ryšiai/TAR.A049B3C6ACAF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

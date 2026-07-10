@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F5F63A14319A"
 pavadinimas: "Lietuvos Respublikos elektroninių ryšių įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektroninių ryšių įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "elektroninių ryšių įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-15"
 latest_path: "latest/TAR.F5F63A14319A.md"
 latest_sha256: "bb5373842b68556937f7afb2b0c663be77c3c6aa265207d9caf1c57c1483295d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F5F63A14319A]]"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F5F63A14319A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F5F63A14319A
+- Ryšiai: [[Ryšiai/TAR.F5F63A14319A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-4af972e285ff78141decc20f
 
 
 7 straipsnio 2 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:

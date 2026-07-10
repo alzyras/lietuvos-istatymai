@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CBA4C73B6959"
 pavadinimas: "Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo galiojimo termino"
+aliases:
+  - "Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo galiojimo termino"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-10-10"
 latest_path: "latest/TAR.CBA4C73B6959.md"
 latest_sha256: "7d03b5165a69b0845d384d8439c65364593368fe73bf467a806db4de70697272"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CBA4C73B6959]]"
 ---
 # Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo galiojimo termino
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CBA4C73B6959.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CBA4C73B6959
+- Ryšiai: [[Ryšiai/TAR.CBA4C73B6959|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

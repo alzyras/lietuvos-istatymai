@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1B2CFA8ABBF4"
 pavadinimas: "Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas"
+  - "kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-06-18"
 latest_path: "latest/TAR.1B2CFA8ABBF4.md"
 latest_sha256: "11d25d47e7c46a21a60eab93e774105048d65bcbfd42edbf126fd486c20e231e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1B2CFA8ABBF4]]"
 ---
 # Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1B2CFA8ABBF4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1B2CFA8ABBF4
+- Ryšiai: [[Ryšiai/TAR.1B2CFA8ABBF4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio pakeitimas
+### 1 straipsnis. 41 straipsnio pakeitimas ^s-0fcff3d1492859019ec5a9cb
 
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:

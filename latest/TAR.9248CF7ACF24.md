@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9248CF7ACF24"
 pavadinimas: "Lietuvos Respublikos pilietybės įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pilietybės įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "pilietybės įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-18"
 latest_path: "latest/TAR.9248CF7ACF24.md"
 latest_sha256: "4948678e1b55d8e772739fd405a6936be9177b8ddb791eaf4ce3080153961829"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9248CF7ACF24]]"
 ---
 # Lietuvos Respublikos pilietybės įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9248CF7ACF24.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9248CF7ACF24
+- Ryšiai: [[Ryšiai/TAR.9248CF7ACF24|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-8382358a58d614f6cb7e2b90
 
 
 3 straipsnyje vietoj žodžio „sausio“ įrašyti žodį „balandžio“ ir šį straipsnį išdėstyti taip:

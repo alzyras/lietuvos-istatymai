@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.657C26389380"
 pavadinimas: "Lietuvos Respublikos civilinio proceso kodekso 746 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio proceso kodekso 746 straipsnio pakeitimo įstatymas"
+  - "civilinio proceso kodekso 746 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-03-01"
 latest_path: "latest/TAR.657C26389380.md"
 latest_sha256: "f04c2b2bc3f21c789f9c48ee2101279ef5b25b59b0eb82438400a0b79423255f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.657C26389380]]"
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 746 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.657C26389380.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.657C26389380
+- Ryšiai: [[Ryšiai/TAR.657C26389380|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 746 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 746 straipsnio 5 dalies pakeitimas ^s-accbb8a54b6b354b5fb51038
 
 
 Pakeisti 746 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 746 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3d39fb2a7707f3ff3ef33577
 
 
 Šis įstatymas įsigalioja 2013 m. kovo 1 d.

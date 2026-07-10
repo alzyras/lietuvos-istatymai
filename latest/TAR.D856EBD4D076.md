@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D856EBD4D076"
 pavadinimas: "Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-28"
 latest_path: "latest/TAR.D856EBD4D076.md"
 latest_sha256: "46b793915da404573a8a3791a53f2cd6a15b625fe42c2a10946db747d754e044"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D856EBD4D076]]"
 ---
 # Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D856EBD4D076.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D856EBD4D076
+- Ryšiai: [[Ryšiai/TAR.D856EBD4D076|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -82,7 +86,7 @@ steigiamoms įmonėms – pagal detaliuose planuose nustatytas žemės sklypų r
 „11 straipsnis. Disponavimas privatizuota žeme ir mišku ir jų naudojimo apribojimai
 
 
-Disponavimą privatizuota žeme ir mišku bei jų naudojimo apribojimus nustato Lietuvos Respublikos žemės įstatymas, Miškų įstatymas ir Saugomų teritorijų įstatymas.“
+Disponavimą privatizuota žeme ir mišku bei jų naudojimo apribojimus nustato [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]], [[latest/TAR.5D6D055CC00C|Miškų įstatymas]] ir [[latest/TAR.FF1083B528B7|Saugomų teritorijų įstatymas]].“
 
 
 6. 12 straipsnio:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.71A3D7D36213"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir įstatymo papildymo 2, 3 priedais įstatymo 7, 8 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir įstatymo papildymo 2, 3 priedais įstatymo 7, 8 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir įstatymo papildymo 2, 3 priedais įstatymo 7, 8 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.71A3D7D36213.md"
 latest_sha256: "6c035f8b427cb616448bb7aba08ac5fb60cec720ca8bebce559875b288a340f1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.71A3D7D36213]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir įstatymo papildymo 2, 3 priedais įstatymo 7, 8 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.71A3D7D36213.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.71A3D7D36213
+- Ryšiai: [[Ryšiai/TAR.71A3D7D36213|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,21 +39,21 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 4 dalies pripažinimas netekusia galios
+### 1 straipsnis. 7 straipsnio 4 dalies pripažinimas netekusia galios ^s-2391d047ec75525bc851a203
 
 
 7 straipsnio 4 dalį pripažinti netekusia galios.
 
 
 
-### 2 straipsnis. 8 straipsnio 3 dalies pripažinimas netekusia galios
+### 2 straipsnis. 8 straipsnio 3 dalies pripažinimas netekusia galios ^s-8fe66dab469ccc5bae737f68
 
 
 8 straipsnio 3 dalį pripažinti netekusia galios.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-60d1d3093ff4ed19830c4e76
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

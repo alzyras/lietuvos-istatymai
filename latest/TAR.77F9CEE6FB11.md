@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.77F9CEE6FB11"
 pavadinimas: "Lietuvos Respublikos kriminalinės žvalgybos įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kriminalinės žvalgybos įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "kriminalinės žvalgybos įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.77F9CEE6FB11.md"
 latest_sha256: "b7ea38d271a409a4bc98eaa0f4d1a0ad04470f39dfd70c1c277fe75be0150fd8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.77F9CEE6FB11]]"
 ---
 # Lietuvos Respublikos kriminalinės žvalgybos įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.77F9CEE6FB11.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.77F9CEE6FB11
+- Ryšiai: [[Ryšiai/TAR.77F9CEE6FB11|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 8 straipsnio 1 dalies 1 punkto pakeitimas ^s-e60ebeadf474388385ad8e25
 
 
 Pakeisti 8 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 8 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-dd9c07f30c590cea7898eea1
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

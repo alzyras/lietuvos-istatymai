@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5AB9E9D4C6C0"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 165 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 165 straipsnio pakeitimo įstatymas"
+  - "baudžiamojo proceso kodekso 165 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-28"
 latest_path: "latest/TAR.5AB9E9D4C6C0.md"
 latest_sha256: "ec347547193967f4fa64326279b476e762dfb10f232e091a20a0bb426e407aec"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5AB9E9D4C6C0]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 165 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5AB9E9D4C6C0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5AB9E9D4C6C0
+- Ryšiai: [[Ryšiai/TAR.5AB9E9D4C6C0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 165 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 165 straipsnio 1 dalies pakeitimas ^s-b9d9c431c3b7233283568c83
 
 
 165 straipsnio 1 dalyje vietoj žodžių „Muitinės departamentas“ įrašyti žodžius „Lietuvos Respublikos muitinė“ ir šią dalį išdėstyti taip:

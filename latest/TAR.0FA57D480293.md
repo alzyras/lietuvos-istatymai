@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0FA57D480293"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 4 straipsnio ir 3 priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 4 straipsnio ir 3 priedo pakeitimo ir papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 4 straipsnio ir 3 priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.0FA57D480293.md"
 latest_sha256: "29a557ae78af250978120275c425df015fde75a4273d0f1b330ccb1893bafc8d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0FA57D480293]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4 straipsnio ir 3 priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0FA57D480293.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0FA57D480293
+- Ryšiai: [[Ryšiai/TAR.0FA57D480293|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,23 +40,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas ir 5 dalies papildymas 8 punktu
+### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas ir 5 dalies papildymas 8 punktu ^s-625fdc1c47c72c6b5d4aca42
 
 
-1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^4ea33612985a05283d1b0060
+1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^s-7e1c7480da59868938f7dd69
 
 
 „3. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės įstaigų vadovams ir Vyriausybės priimamiems kitiems šių įstaigų pareigūnams taikoma šio Įstatymo 33 straipsnio 3 dalis. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio Įstatymo 36 straipsnis. Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams, policijos generaliniam komisarui taikomos šio Įstatymo VI skyriaus nuostatos. Respublikos Prezidento kanceliarijos kancleriui šis Įstatymas taikomas be išlygų, o Seimo kancleriui – su Seimo statute numatytomis taisyklėmis.“
 
 
-2. Papildyti 4 straipsnio 5 dalį 8 punktu: ^78cef2cc42175ffd611efffd
+2. Papildyti 4 straipsnio 5 dalį 8 punktu: ^s-29e4aa152cd9e3454d98e55d
 
 
 „8) žvalgybos pareigūnams.“
 
 
 
-### 2 straipsnis. 3 priedo II skyriaus pakeitimas
+### 2 straipsnis. 3 priedo II skyriaus pakeitimas ^s-7898682d0f8a2ee3c4c21a5b
 
 
 Pakeisti Įstatymo 3 priedo II skyriaus 6 eilutės 5 skiltį ir šią eilutę išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti Įstatymo 3 priedo II skyriaus 6 eilutės 5 skiltį ir šią eilutę i�
 
 
 
-### 3 straipsnis. 3 priedo III skyriaus pakeitimas
+### 3 straipsnis. 3 priedo III skyriaus pakeitimas ^s-54ea9608c4b9809558edca36
 
 
 Pakeisti Įstatymo 3 priedo III skyriaus 6 eilutės 5 skiltį ir šią eilutę išdėstyti taip:
@@ -96,7 +101,7 @@ Pakeisti Įstatymo 3 priedo III skyriaus 6 eilutės 5 skiltį ir šią eilutę i
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-d49cd8d44c3cc9af237fc385
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

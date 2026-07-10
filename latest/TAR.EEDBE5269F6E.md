@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EEDBE5269F6E"
 pavadinimas: "Lietuvos Respublikos turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.EEDBE5269F6E.md"
 latest_sha256: "6ff03623f0bee639538b8f932a6c40f8e1ecb4b9a1fbfb881a81dd48b99c4f1c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EEDBE5269F6E]]"
 ---
 # Lietuvos Respublikos turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EEDBE5269F6E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EEDBE5269F6E
+- Ryšiai: [[Ryšiai/TAR.EEDBE5269F6E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-c00c08afddaeb78f5fda7598
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

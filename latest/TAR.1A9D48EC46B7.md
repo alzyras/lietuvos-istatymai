@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1A9D48EC46B7"
 pavadinimas: "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.1A9D48EC46B7.md"
 latest_sha256: "0e6cac48791d7f1c6247039158cbced1b89660ba8860f21ca4824861b266481f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1A9D48EC46B7]]"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1A9D48EC46B7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1A9D48EC46B7
+- Ryšiai: [[Ryšiai/TAR.1A9D48EC46B7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 2 dalies 1 punkto pakeitimas
+### 1 straipsnis. 18 straipsnio 2 dalies 1 punkto pakeitimas ^s-bec394554283df0e08abad4b
 
 
 Pakeisti 18 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 18 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 19 straipsnio 2 punkto pakeitimas
+### 2 straipsnis. 19 straipsnio 2 punkto pakeitimas ^s-a4314353d0bb6e4cedce6b93
 
 
 Pakeisti 19 straipsnio 2 punktą ir jį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 19 straipsnio 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis.  30 straipsnio 1 dalies pakeitimas
+### 3 straipsnis.  30 straipsnio 1 dalies pakeitimas ^s-921f0ffe2949352f1067ebe2
 
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -61,14 +66,14 @@ Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 32 straipsnio pripažinimas netekusiu galios
+### 4 straipsnis. 32 straipsnio pripažinimas netekusiu galios ^s-c019369df63dd83851262bdc
 
 
 32 straipsnį pripažinti netekusiu galios.
 
 
 
-### 5 straipsnis. 33 straipsnio 1 dalies  pakeitimas
+### 5 straipsnis. 33 straipsnio 1 dalies  pakeitimas ^s-2783de00a378e535c48628b0
 
 
 Pakeisti 33 straipsnio 1 dalį  ir ją išdėstyti taip:

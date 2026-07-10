@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4EC49B98C640"
 pavadinimas: "Dėl įstatymo \"Dėl Lietuvos Respublikos politinių partijų įstatymo pakeitimo ir papildymo\" įgyvendinimo"
+aliases:
+  - "Dėl įstatymo \"Dėl Lietuvos Respublikos politinių partijų įstatymo pakeitimo ir papildymo\" įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-13"
 latest_path: "latest/TAR.4EC49B98C640.md"
 latest_sha256: "497683a2b6faa3b860421a04ef358bdb00e6e50bf44836eced60ad4a486e6f27"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4EC49B98C640]]"
 ---
 # Dėl įstatymo "Dėl Lietuvos Respublikos politinių partijų įstatymo pakeitimo ir papildymo" įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4EC49B98C640.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4EC49B98C640
+- Ryšiai: [[Ryšiai/TAR.4EC49B98C640|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -50,7 +54,7 @@ Visuomeninės politinės organizacijos ir visuomeniniai politiniai judėjimai, n
 
 
 
-### 4 straipsnis.
+### 4 straipsnis. ^s-637b0576753359340d6e5455
 
 
 Šio įstatymo 1, 2 ir 3 straipsniuose nustatyti terminai taikomi visuomeninėms politinėms organizacijoms ir visuomeniniams politiniams judėjimams, kurie registruosis dalyvauti 1994 m. vyksiančiuose rinkimuose. Visuomeninės politinės organizacijos ir visuomeniniai politiniai judėjimai, kurie nedalyvaus 1994 m. vyksiančiuose rinkimuose, šio įstatymo reikalavimus turi įvykdyti iki 1995 m. sausio 1 d. ir nuo šios dienos jie netenka teisių, numatytų šioms organizacijoms Lietuvos Respublikos savivaldybių tarybų rinkimų įstatyme, Lietuvos Respublikos Seimo rinkimų įstatyme ir Lietuvos Respublikos Prezidento rinkimų įstatyme.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0C235DB6C1E5"
 pavadinimas: "Lietuvos Respublikos 1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisos ratifikavimo įstatymas"
+  - "1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-02-06"
 latest_path: "latest/TAR.0C235DB6C1E5.md"
 latest_sha256: "be82d3a26b232cf9be805645609fc762f05306f8d5ccfaacd5c45a650ab821f2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0C235DB6C1E5]]"
 ---
 # Lietuvos Respublikos 1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0C235DB6C1E5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0C235DB6C1E5
+- Ryšiai: [[Ryšiai/TAR.0C235DB6C1E5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Pataisos ratifikavimas
+### 1 straipsnis. Pataisos ratifikavimas ^s-44af94f36c1d99b4f2d2a2f1
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. gruodžio 28 d. dekretą Nr. 1629, ratifikuoja 1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisą, patvirtintą Jungtinių Tautų Generalinėje Asamblėjoje 1995 m. gruodžio 21 d.

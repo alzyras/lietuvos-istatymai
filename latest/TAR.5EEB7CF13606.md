@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5EEB7CF13606"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimo dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimo) ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimo dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimo) ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimo dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimo) ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-31"
 latest_path: "latest/TAR.5EEB7CF13606.md"
 latest_sha256: "b6d3b26a4f3224c636c0a71bf84ea2ed3ef5bda5fc06fc18d274cdae9c2098a5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5EEB7CF13606]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimo dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimo) ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5EEB7CF13606.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5EEB7CF13606
+- Ryšiai: [[Ryšiai/TAR.5EEB7CF13606|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-667a91232690e1e7f50cd500
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gegužės 27 d. dekretą Nr. 92, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimą), pasirašytą 2003 m. gegužės 12 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2003 m. gegužės 27 d. dekretą Nr. 92, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimą), pasirašytą 2003 m. gegužės 12 d. Vilniuje.
 
 
 

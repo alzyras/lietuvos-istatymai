@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B77576A7F7F3"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.B77576A7F7F3.md"
 latest_sha256: "3d9fbcda88063a6af11f9eb541f1e5cf9c245878fa6632e152b48c9a77961176"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B77576A7F7F3]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B77576A7F7F3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3
+- Ryšiai: [[Ryšiai/TAR.B77576A7F7F3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies 11 punkto papildymas
+### 1 straipsnis. 17 straipsnio 1 dalies 11 punkto papildymas ^s-ae241120ad91bb5eb94877a6
 
 
 17 straipsnio 1 dalies 11 punkte po žodžio „pensijos“ įrašyti žodžius „ir rentos“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-7a163deb4ca6e882220f3eff
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CB0204056355"
 pavadinimas: "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+  - "žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.CB0204056355.md"
 latest_sha256: "95d2623e59f196646b8a396675867dbf2f5376ddadb702da4835fc112fd44c3b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CB0204056355]]"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CB0204056355.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CB0204056355
+- Ryšiai: [[Ryšiai/TAR.CB0204056355|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-71c1cad8de3c80f97a760688
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
@@ -43,46 +48,46 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 „4 straipsnis. Maksimalus įsigyjamos nuosavybės teise žemės ūkio paskirties žemės plotas
 
 
-1. Asmuo ar susiję asmenys gali įsigyti tiek žemės, kad bendras jų iš valstybės įgytos žemės ūkio paskirties žemės plotas nebūtų didesnis kaip 300 ha. ^8736543ca78f37fc0d7c68cc
+1. Asmuo ar susiję asmenys gali įsigyti tiek žemės, kad bendras jų iš valstybės įgytos žemės ūkio paskirties žemės plotas nebūtų didesnis kaip 300 ha. ^s-7489355cee26508356d36053
 
 
-2. Asmuo ar susiję asmenys gali įsigyti tiek žemės, kad bendras jiems priklausantis iš valstybės ir kitų asmenų įgytos žemės ūkio paskirties žemės plotas nebūtų didesnis kaip 500 ha. ^37dfc02c8a7f3142422c30b4
+2. Asmuo ar susiję asmenys gali įsigyti tiek žemės, kad bendras jiems priklausantis iš valstybės ir kitų asmenų įgytos žemės ūkio paskirties žemės plotas nebūtų didesnis kaip 500 ha. ^s-81bd5215057cd1dbf394b88b
 
 
-3. Susijusiais asmenimis laikomi sutuoktiniai, taip pat tėvai (įtėviai) su jų nepilnamečiais vaikais (įvaikiais). Šiame straipsnyje apibrėžiant fizinio asmens ryšius su juridiniais asmenimis, sutuoktiniai arba tėvai (įtėviai) ir jų nepilnamečiai vaikai (įvaikiai) laikomi susijusiais su juridiniu asmeniu, jeigu bent vienas iš sutuoktinių arba tėvų (įtėvių) ir jų nepilnamečių vaikų (įvaikių) yra susijęs su šiuo juridiniu asmeniu. ^aa221193e5a4540dcc9689f0
+3. Susijusiais asmenimis laikomi sutuoktiniai, taip pat tėvai (įtėviai) su jų nepilnamečiais vaikais (įvaikiais). Šiame straipsnyje apibrėžiant fizinio asmens ryšius su juridiniais asmenimis, sutuoktiniai arba tėvai (įtėviai) ir jų nepilnamečiai vaikai (įvaikiai) laikomi susijusiais su juridiniu asmeniu, jeigu bent vienas iš sutuoktinių arba tėvų (įtėvių) ir jų nepilnamečių vaikų (įvaikių) yra susijęs su šiuo juridiniu asmeniu. ^s-185815d93d2353ec8adf9e64
 
 
-4. Susijusiais asmenimis laikomi asmenys, kurie tiesiogiai ar netiesiogiai turi balsų daugumą juridiniame asmenyje arba tiesiogiai ar netiesiogiai daro lemiamą įtaką juridiniam asmeniui. ^19757cdbefa01ba44a2711a6
+4. Susijusiais asmenimis laikomi asmenys, kurie tiesiogiai ar netiesiogiai turi balsų daugumą juridiniame asmenyje arba tiesiogiai ar netiesiogiai daro lemiamą įtaką juridiniam asmeniui. ^s-fd4860ad854b991d709e1421
 
 
-5. Laikoma, kad asmuo tiesiogiai turi balsų daugumą juridiniame asmenyje, jeigu jis yra juridinio asmens ar kito juridinio asmens dalyvis, turintis ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. ^87e04264350e0fa3b31cbe1c
+5. Laikoma, kad asmuo tiesiogiai turi balsų daugumą juridiniame asmenyje, jeigu jis yra juridinio asmens ar kito juridinio asmens dalyvis, turintis ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. ^s-dbd9d3143950b2b3580a485b
 
 
-6. Laikoma, kad asmuo netiesiogiai turi balsų daugumą juridiniame asmenyje ar kitame juridiniame asmenyje, jeigu juridinis asmuo ar kitas juridinis asmuo, kuriame šis asmuo turi balsų daugumą, gali įgyvendinti [[#^87e04264350e0fa3b31cbe1c|šio straipsnio 5 dalyje]] išvardytas teises. ^e2ff2e90ab89fdf7f17735c3
+6. Laikoma, kad asmuo netiesiogiai turi balsų daugumą juridiniame asmenyje ar kitame juridiniame asmenyje, jeigu juridinis asmuo ar kitas juridinis asmuo, kuriame šis asmuo turi balsų daugumą, gali įgyvendinti [[#^s-dbd9d3143950b2b3580a485b|šio straipsnio 5 dalyje]] išvardytas teises. ^s-1c29c4127cf3d68b615e498d
 
 
-7. Laikoma, kad tiesiogiai daryti lemiamą įtaką juridiniam asmeniui gali asmuo, kuris: ^51424a195589051ee122a815
+7. Laikoma, kad tiesiogiai daryti lemiamą įtaką juridiniam asmeniui gali asmuo, kuris: ^s-91ea980aca59f46067e0074b
 
 
-1) naudodamasis savo turimomis teisėmis ar sutartimis gali skirti ar atšaukti juridinio asmens ar kito juridinio asmens vienasmenį ar kolegialų organą ar kolegialaus valdymo organo narių daugumą arba ^4f1dcdb3dc769db9e8c6fa21
+1) naudodamasis savo turimomis teisėmis ar sutartimis gali skirti ar atšaukti juridinio asmens ar kito juridinio asmens vienasmenį ar kolegialų organą ar kolegialaus valdymo organo narių daugumą arba ^s-aa8d15403eef1d4f1ecdd505
 
 
-2) yra juridinio asmens dalyvis ir pagal susitarimus dėl balsavimo teisės perleidimo, sudarytus su kitais dalyviais, turi ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. ^2dc0dcf3fa3a56bf6bf510be
+2) yra juridinio asmens dalyvis ir pagal susitarimus dėl balsavimo teisės perleidimo, sudarytus su kitais dalyviais, turi ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. ^s-2bc279fbf2cd19dd307b0803
 
 
-8. Laikoma, kad asmuo daro netiesioginę lemiamą įtaką juridiniam asmeniui ar kitam juridiniam asmeniui, jeigu juridinis asmuo ar kitas juridinis asmuo, kuriame šis asmuo daro lemiamą įtaką, gali įgyvendinti [[#^51424a195589051ee122a815|šio straipsnio 7 dalyje]] išvardytas teises. ^3c58c933ff3a54b9b331f5fe
+8. Laikoma, kad asmuo daro netiesioginę lemiamą įtaką juridiniam asmeniui ar kitam juridiniam asmeniui, jeigu juridinis asmuo ar kitas juridinis asmuo, kuriame šis asmuo daro lemiamą įtaką, gali įgyvendinti [[#^s-91ea980aca59f46067e0074b|šio straipsnio 7 dalyje]] išvardytas teises. ^s-d52127084bfbf72f269fc8f0
 
 
-9. Susijusiais asmenimis taip pat laikomi juridiniai asmenys, kuriuose, kaip ir pageidaujančiame įsigyti žemės ūkio paskirties žemės juridiniame asmenyje, tas pats asmuo arba tie patys asmenys turi ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. ^139fe76a6814826a1b1363cb
+9. Susijusiais asmenimis taip pat laikomi juridiniai asmenys, kuriuose, kaip ir pageidaujančiame įsigyti žemės ūkio paskirties žemės juridiniame asmenyje, tas pats asmuo arba tie patys asmenys turi ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. ^s-9c4598895941f6038076ddec
 
 
-10. Asmuo, pageidaujantis įsigyti žemės ūkio paskirties žemės, iki žemės sklypo perleidimo sandorio sudarymo privalo užpildyti žemės ūkio paskirties žemės pirkėjo deklaraciją, patvirtinančią, kad sudarius žemės sklypo perleidimo sandorį asmens ir su juo susijusių asmenų turimos žemės plotas neviršys maksimalaus žemės ūkio paskirties žemės ploto dydžio, kurį asmuo ir su juo susiję asmenys kartu gali įsigyti pagal šio straipsnio 1 ir [[#^37dfc02c8a7f3142422c30b4|2 dalis]]. Jeigu sudaromas žemės sklypo perleidimo sandoris atitinka Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 17 straipsnyje apibrėžtus požymius, pirkėjas žemės ūkio paskirties žemės pirkėjo deklaracijoje nurodo lėšų, už kurias įsigyjamas žemės sklypas, įsigijimo šaltinius. Žemės ūkio paskirties žemės pirkėjo deklaracijos formą, pildymo ir pateikimo taisykles nustato Vyriausybės įgaliota institucija. Asmuo, įsigyjantis žemės ūkio paskirties žemę, atsako už žemės ūkio paskirties žemės pirkėjo deklaracijoje pateiktų duomenų teisingumą. Žemės sklypo perleidimo sandoris, sudarytas pažeidžiant šio įstatymo reikalavimus, laikomas niekiniu, o privačion nuosavybėn įsigytas didesnis negu šio straipsnio 1 ir [[#^37dfc02c8a7f3142422c30b4|2 dalyse]] nurodytas žemės plotas pagal prokuroro, ginančio viešąjį interesą, ieškinį teismo sprendimu paimamas ir perduodamas valstybės nuosavybėn. Valstybė Vyriausybės nustatyta tvarka asmeniui atlygina paimto žemės ploto žemės įsigijimo kainą arba vidutinę rinkos vertę, kurios dydis nustatomas pagal Žemės verčių zonų žemėlapius, jeigu vidutinė rinkos vertė yra mažesnė. ^7a7880b99aa5a2150ceb3d07
+10. Asmuo, pageidaujantis įsigyti žemės ūkio paskirties žemės, iki žemės sklypo perleidimo sandorio sudarymo privalo užpildyti žemės ūkio paskirties žemės pirkėjo deklaraciją, patvirtinančią, kad sudarius žemės sklypo perleidimo sandorį asmens ir su juo susijusių asmenų turimos žemės plotas neviršys maksimalaus žemės ūkio paskirties žemės ploto dydžio, kurį asmuo ir su juo susiję asmenys kartu gali įsigyti pagal šio straipsnio 1 ir [[#^s-81bd5215057cd1dbf394b88b|2 dalis]]. Jeigu sudaromas žemės sklypo perleidimo sandoris atitinka [[latest/TAR.C44837068B55#^s-fb61f4a14fc5df6b09a0ffbd|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 17 straipsnyje]] apibrėžtus požymius, pirkėjas žemės ūkio paskirties žemės pirkėjo deklaracijoje nurodo lėšų, už kurias įsigyjamas žemės sklypas, įsigijimo šaltinius. Žemės ūkio paskirties žemės pirkėjo deklaracijos formą, pildymo ir pateikimo taisykles nustato Vyriausybės įgaliota institucija. Asmuo, įsigyjantis žemės ūkio paskirties žemę, atsako už žemės ūkio paskirties žemės pirkėjo deklaracijoje pateiktų duomenų teisingumą. Žemės sklypo perleidimo sandoris, sudarytas pažeidžiant šio įstatymo reikalavimus, laikomas niekiniu, o privačion nuosavybėn įsigytas didesnis negu šio straipsnio 1 ir [[#^s-81bd5215057cd1dbf394b88b|2 dalyse]] nurodytas žemės plotas pagal prokuroro, ginančio viešąjį interesą, ieškinį teismo sprendimu paimamas ir perduodamas valstybės nuosavybėn. Valstybė Vyriausybės nustatyta tvarka asmeniui atlygina paimto žemės ploto žemės įsigijimo kainą arba vidutinę rinkos vertę, kurios dydis nustatomas pagal Žemės verčių zonų žemėlapius, jeigu vidutinė rinkos vertė yra mažesnė. ^s-190e81113494a1e41fc7392f
 
 
-11. Šio straipsnio 1 ir [[#^37dfc02c8a7f3142422c30b4|2 dalių]] nuostatos taikomos sudarant žemės ūkio paskirties žemės sklypų perleidimo sandorius, išskyrus atvejus, kai žemė įgyjama paveldėjimo ir nuosavybės teisės atkūrimo būdais.“ ^8e675c446c547d3dd60ac9b4
+11. Šio straipsnio 1 ir [[#^s-81bd5215057cd1dbf394b88b|2 dalių]] nuostatos taikomos sudarant žemės ūkio paskirties žemės sklypų perleidimo sandorius, išskyrus atvejus, kai žemė įgyjama paveldėjimo ir nuosavybės teisės atkūrimo būdais.“ ^s-13554f5f00586b07d9d66913
 
 
-### 2 straipsnis. 6 straipsnio pakeitimas
+### 2 straipsnis. 6 straipsnio pakeitimas ^s-66c55b33fedfed99cb0d6300
 
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
@@ -92,49 +97,49 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 „6 straipsnis. Pirmumo teisė įsigyti privačią žemės ūkio paskirties žemę
 
 
-1. Pirmumo teisę įsigyti privačią žemės ūkio paskirties žemę ta kaina, kuria ji parduodama, ir kitomis tokiomis pačiomis sąlygomis, išskyrus atvejus, kai parduodama iš viešųjų varžytynių, šia eilės tvarka turi: ^c3b4ae4791914f9a23c95511
+1. Pirmumo teisę įsigyti privačią žemės ūkio paskirties žemę ta kaina, kuria ji parduodama, ir kitomis tokiomis pačiomis sąlygomis, išskyrus atvejus, kai parduodama iš viešųjų varžytynių, šia eilės tvarka turi: ^s-f0b2f18addcfd9626c34eb92
 
 
-1) žemės sklypo bendraturčiai – Civilinio kodekso 4.79 straipsnyje nustatyta tvarka; ^5d1c8e1fc9275752ea021942
+1) žemės sklypo bendraturčiai – Civilinio kodekso 4.79 straipsnyje nustatyta tvarka; ^s-e910fce4bd63ff524b7d1be5
 
 
-2) parduodamo žemės sklypo naudotojas, pagal Nekilnojamojo turto registre įregistruotą sutartį naudojęs šią žemę žemės ūkio veiklai ne mažiau kaip vienus metus, – jeigu jis atitinka šio įstatymo [[#^c3b4ae4791914f9a23c95511|2 straipsnio 1 dalyje]] nurodytus reikalavimus; ^92d64b09f6b6688aaaf196d7
+2) parduodamo žemės sklypo naudotojas, pagal Nekilnojamojo turto registre įregistruotą sutartį naudojęs šią žemę žemės ūkio veiklai ne mažiau kaip vienus metus, – jeigu jis atitinka šio įstatymo [[#^s-f0b2f18addcfd9626c34eb92|2 straipsnio 1 dalyje]] nurodytus reikalavimus; ^s-5c17fabe09803db67107bc36
 
 
-3) asmuo, nuosavybės teise turintis žemės ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, – jeigu jis atitinka šio įstatymo [[#^c3b4ae4791914f9a23c95511|2 straipsnio 1 dalyje]] nurodytus reikalavimus. ^ef30fdacf75cdf230ffd85db
+3) asmuo, nuosavybės teise turintis žemės ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, – jeigu jis atitinka šio įstatymo [[#^s-f0b2f18addcfd9626c34eb92|2 straipsnio 1 dalyje]] nurodytus reikalavimus. ^s-625f18b83cc7c8cb81ad5e0a
 
 
-2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačią žemės ūkio paskirties žemę, kuri pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, taip pat žemės ūkio paskirties žemę, reikalingą valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, ta kaina, kuria ji parduodama, ir kitomis tokiomis pačiomis sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka arba rinkos vertės, apskaičiuotos taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė. ^e74f97321f63777aa58538c0
+2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačią žemės ūkio paskirties žemę, kuri pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, taip pat žemės ūkio paskirties žemę, reikalingą valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, ta kaina, kuria ji parduodama, ir kitomis tokiomis pačiomis sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka arba rinkos vertės, apskaičiuotos taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė. ^s-fd08a3ea578490aa6a89a65e
 
 
-3. Žemės savininkas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Pranešime apie sprendimą parduoti žemės sklypą žemės savininkas privalo nurodyti žemės sklypo naudotoją (naudotojus), jeigu žemės sklypą naudoja kitas asmuo, ir pardavimo sąlygas. Jeigu žemės ūkio paskirties žemės pardavėjo pranešimas pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti žemės ūkio paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam padaliniui pateikiamas tik tuo atveju, jeigu Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja žemės sklypo bendraturtis. ^960b339548a5d138d404c3fa
+3. Žemės savininkas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Pranešime apie sprendimą parduoti žemės sklypą žemės savininkas privalo nurodyti žemės sklypo naudotoją (naudotojus), jeigu žemės sklypą naudoja kitas asmuo, ir pardavimo sąlygas. Jeigu žemės ūkio paskirties žemės pardavėjo pranešimas pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti žemės ūkio paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam padaliniui pateikiamas tik tuo atveju, jeigu Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja žemės sklypo bendraturtis. ^s-feb5814039e8faa853505ac9
 
 
-4. Nacionalinės žemės tarnybos teritorinis padalinys apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės administracijos direktoriui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Valstybės žemės fondui. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės vardu) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinės žemės tarnybos teritoriniam padaliniui ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo dienos. [[#^c3b4ae4791914f9a23c95511|Šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemę, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, patvirtinančius, kad jie atitinka reikalavimus, nurodytus šio įstatymo [[#^c3b4ae4791914f9a23c95511|2 straipsnio 1 dalyje]]. ^5fa7f133d32d6639b119ad0f
+4. Nacionalinės žemės tarnybos teritorinis padalinys apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės administracijos direktoriui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Valstybės žemės fondui. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės vardu) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinės žemės tarnybos teritoriniam padaliniui ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo dienos. [[#^s-f0b2f18addcfd9626c34eb92|Šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemę, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, patvirtinančius, kad jie atitinka reikalavimus, nurodytus šio įstatymo [[#^s-f0b2f18addcfd9626c34eb92|2 straipsnio 1 dalyje]]. ^s-dd76af1b3c050d96791d6aaf
 
 
-5. Nacionalinės žemės tarnybos teritorinis padalinys, gavęs rašytinį sutikimą (sprendimą) pirkti žemės sklypą, ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti žemės ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pasibaigimo dienos išduoda pažymą, kad šis žemės sklypas parduodamas šiame straipsnyje nustatyta tvarka pirmumo teisę turinčiam jį pirkti asmeniui. Kai pirkti parduodamą žemės sklypą pirmumo teise pageidauja keli asmenys, Nacionalinės žemės tarnybos teritorinis padalinys raštu informuoja asmenis, pageidavusius įsigyti žemės sklypą, apie tai, kad žemės sklypas bus parduodamas asmenims pagal šiame įstatyme nustatytą eilę. Kai pirkti parduodamą žemės sklypą pirmumo teise pageidauja keli vienodą pirmumo teisę turintys asmenys, pažymoje išvardijami visi vienodą pirmumo teisę turintys asmenys ir žemės savininkas pats nusprendžia, kuriam asmeniui arba asmenims, kai parduodama keliems asmenims bendrosios nuosavybės teise, pasiūlytomis sąlygomis parduoti žemės sklypą. ^d9efdd02f78c2fe81e2600d1
+5. Nacionalinės žemės tarnybos teritorinis padalinys, gavęs rašytinį sutikimą (sprendimą) pirkti žemės sklypą, ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti žemės ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pasibaigimo dienos išduoda pažymą, kad šis žemės sklypas parduodamas šiame straipsnyje nustatyta tvarka pirmumo teisę turinčiam jį pirkti asmeniui. Kai pirkti parduodamą žemės sklypą pirmumo teise pageidauja keli asmenys, Nacionalinės žemės tarnybos teritorinis padalinys raštu informuoja asmenis, pageidavusius įsigyti žemės sklypą, apie tai, kad žemės sklypas bus parduodamas asmenims pagal šiame įstatyme nustatytą eilę. Kai pirkti parduodamą žemės sklypą pirmumo teise pageidauja keli vienodą pirmumo teisę turintys asmenys, pažymoje išvardijami visi vienodą pirmumo teisę turintys asmenys ir žemės savininkas pats nusprendžia, kuriam asmeniui arba asmenims, kai parduodama keliems asmenims bendrosios nuosavybės teise, pasiūlytomis sąlygomis parduoti žemės sklypą. ^s-9ec6ebf3fc2218e144e8aa38
 
 
-6. Kai turintys pirmumo teisę asmenys atsisako pirkti žemės ūkio paskirties žemės sklypą arba nustatytu laiku nepateikia sutikimo pirkti žemės ūkio paskirties žemės sklypą, Nacionalinės žemės tarnybos teritorinis padalinys ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti žemės ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pasibaigimo dienos išduoda pažymą, kad siūlomo parduoti žemės sklypo nepageidavo pirkti asmenys, turintys pirmumo teisę jį pirkti pagal šio straipsnio nuostatas, ir žemės savininkas šį žemės sklypą gali perleisti kitiems asmenims. Kai žemės ūkio paskirties žemės sklypas parduodamas kitiems asmenims už mažesnę kainą ir (ar) kitomis sąlygomis, negu buvo nurodyta pirminiame žemės savininko pranešime, [[#^960b339548a5d138d404c3fa|šio straipsnio 3 dalyje]] nustatyta tvarka turi būti pateikiamas pakartotinis pranešimas. ^f46255345487b7a24d452f00
+6. Kai turintys pirmumo teisę asmenys atsisako pirkti žemės ūkio paskirties žemės sklypą arba nustatytu laiku nepateikia sutikimo pirkti žemės ūkio paskirties žemės sklypą, Nacionalinės žemės tarnybos teritorinis padalinys ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti žemės ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pasibaigimo dienos išduoda pažymą, kad siūlomo parduoti žemės sklypo nepageidavo pirkti asmenys, turintys pirmumo teisę jį pirkti pagal šio straipsnio nuostatas, ir žemės savininkas šį žemės sklypą gali perleisti kitiems asmenims. Kai žemės ūkio paskirties žemės sklypas parduodamas kitiems asmenims už mažesnę kainą ir (ar) kitomis sąlygomis, negu buvo nurodyta pirminiame žemės savininko pranešime, [[#^s-feb5814039e8faa853505ac9|šio straipsnio 3 dalyje]] nustatyta tvarka turi būti pateikiamas pakartotinis pranešimas. ^s-686db64c1867e20e73eda1f6
 
 
-7. Jeigu žemės sklypas parduotas pažeidžiant pirmumo teisę jį pirkti, suinteresuotas asmuo per 3 mėnesius nuo sužinojimo dienos arba nuo momento, kai akivaizdžiai galėjo sužinoti apie žemės ūkio paskirties žemės pardavimą, turi teisę teismo tvarka reikalauti, kad jam būtų perkeltos pirkėjo teisės ir pareigos.“ ^8194ddb9db140200aa4ee4ce
+7. Jeigu žemės sklypas parduotas pažeidžiant pirmumo teisę jį pirkti, suinteresuotas asmuo per 3 mėnesius nuo sužinojimo dienos arba nuo momento, kai akivaizdžiai galėjo sužinoti apie žemės ūkio paskirties žemės pardavimą, turi teisę teismo tvarka reikalauti, kad jam būtų perkeltos pirkėjo teisės ir pareigos.“ ^s-047c0428b9b3ffcc31a605c5
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-7489dd23e644137874723b99
 
 
-1. Šio įstatymo [[#1 straipsnis. 4 straipsnio pakeitimas|1 straipsnio]] nuostatos taikomos tik tiems žemės ūkio paskirties žemės įsigijimo sandoriams, kurie bus sudaryti po šio įstatymo įsigaliojimo. ^f86b8c95441b04661ce5a6ab
+1. Šio įstatymo [[#^s-71c1cad8de3c80f97a760688|1 straipsnio]] nuostatos taikomos tik tiems žemės ūkio paskirties žemės įsigijimo sandoriams, kurie bus sudaryti po šio įstatymo įsigaliojimo. ^s-cfd8deeb9768b1c87150efcf
 
 
-2. Iki šio įstatymo įsigaliojimo pradėtos žemės sklypo pardavimo procedūros užbaigiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo nuostatas. Pardavimo procedūra laikoma pradėta, jeigu žemės savininko pranešimas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą yra išsiųstas žemės ūkio paskirties žemės sklypo naudotojui arba Civilinio kodekso 6.165 straipsnyje nustatyta tvarka yra sudaryta preliminarioji sutartis dėl žemės ūkio paskirties žemės sklypo perleidimo sandorio sudarymo. ^b82ec9fc4e243001f334e83d
+2. Iki šio įstatymo įsigaliojimo pradėtos žemės sklypo pardavimo procedūros užbaigiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo nuostatas. Pardavimo procedūra laikoma pradėta, jeigu žemės savininko pranešimas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą yra išsiųstas žemės ūkio paskirties žemės sklypo naudotojui arba Civilinio kodekso 6.165 straipsnyje nustatyta tvarka yra sudaryta preliminarioji sutartis dėl žemės ūkio paskirties žemės sklypo perleidimo sandorio sudarymo. ^s-dbb5a284b082ca9d505eb038
 
 
-3. Šis įstatymas, išskyrus [[#^1cf414a49cd73a707d639f24|šio straipsnio 4 dalį]], įsigalioja 2014 m. sausio 1 d. ^21f3a6f75f467488d0b85ade
+3. Šis įstatymas, išskyrus [[#^s-1980e40627ce76256723324b|šio straipsnio 4 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-bdaf34a4ec53668036ee97b0
 
 
-4. Žemės ūkio ministerija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^1cf414a49cd73a707d639f24
+4. Žemės ūkio ministerija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-1980e40627ce76256723324b
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.310682044160"
 pavadinimas: "Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "Prezidento valstybinės rentos įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.310682044160.md"
 latest_sha256: "c4117ac7c26cf315f1376ab181bab55a3daf4dcc94a11cb1c569ce427d343d05"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.310682044160]]"
 ---
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.310682044160.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.310682044160
+- Ryšiai: [[Ryšiai/TAR.310682044160|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,23 +37,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 ir 7 dalių pakeitimas
+### 1 straipsnis. 7 straipsnio 3 ir 7 dalių pakeitimas ^s-94462cffe39de46b40dbf303
 
 
-1. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip: ^ec2234b91e3535672a8cf683
+1. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip: ^s-da286fa969071b4627a41c21
 
 
 „3. Respublikos Prezidento valstybinę rentą ar Respublikos Prezidento valstybinę našlių ir našlaičių rentą iš Lietuvos Respublikos valstybės biudžeto lėšų moka Respublikos Prezidento kanceliarija, vadovaudamasi šiuo įstatymu bei Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais.“
 
 
-2. Pakeisti 7 straipsnio 7 dalį ir ją išdėstyti taip: ^abec90b75ef7952dcc1ea45e
+2. Pakeisti 7 straipsnio 7 dalį ir ją išdėstyti taip: ^s-0c1c5eb5425052e48ccc8120
 
 
 „7. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos gavėjas apie aplinkybes, turinčias įtakos Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos mokėjimui, išskyrus šio įstatymo 2 straipsnio 2 dalyje nurodytas aplinkybes, privalo per 10 darbo dienų nuo šių aplinkybių atsiradimo pranešti Respublikos Prezidento kanceliarijai. Jeigu apie nurodytas aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ee9d72f8117dcc082da9c57e
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

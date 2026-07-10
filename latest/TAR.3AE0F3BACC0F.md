@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3AE0F3BACC0F"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 3, 4, 5, 24, 39, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 21(1), 29(1), 36(1) straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 3, 4, 5, 24, 39, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 21(1), 29(1), 36(1) straipsniais įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 3, 4, 5, 24, 39, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 21(1), 29(1), 36(1) straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-01"
 latest_path: "latest/TAR.3AE0F3BACC0F.md"
 latest_sha256: "2e04751cfabfc4303d09448c092e1776f43fba3f25ce5f678c2b05f1232824a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3AE0F3BACC0F]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 3, 4, 5, 24, 39, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 21(1), 29(1), 36(1) straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3AE0F3BACC0F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3AE0F3BACC0F
+- Ryšiai: [[Ryšiai/TAR.3AE0F3BACC0F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,33 +36,33 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-10f58a7d58c22ac67cc7fa71
 
 
-[[#3 straipsnis. 5 straipsnio 1 dalies pakeitimas|3 straipsnio]] pradžioje įrašyti žodžius „Pagal šį įstatymą“ ir šį straipsnį išdėstyti taip:
+[[#^s-eb215a9b177872bcddde8d8d|3 straipsnio]] pradžioje įrašyti žodžius „Pagal šį įstatymą“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. 5 straipsnio 1 dalies pakeitimas|3 straipsnis]]. Valstybinių socialinio draudimo pensijų skyrimo sąlygos
+„[[#^s-eb215a9b177872bcddde8d8d|3 straipsnis]]. Valstybinių socialinio draudimo pensijų skyrimo sąlygos
 
 
-Pagal šį įstatymą valstybinės socialinio draudimo pensijos skiriamos asmenims, nurodytiems 1 ir [[#2 straipsnis. 4 straipsnio pakeitimas|2 straipsniuose]], jeigu jie atitinka šio įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus atitinkamai pensijos rūšiai skirti ir sukanka šio įstatymo nustatytą amžių, pripažįstami invalidais, o tokiems asmenims mirus – jų šeimos nariams.“
+Pagal šį įstatymą valstybinės socialinio draudimo pensijos skiriamos asmenims, nurodytiems 1 ir [[#^s-6cfc458ba0558082b162e45b|2 straipsniuose]], jeigu jie atitinka šio įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus atitinkamai pensijos rūšiai skirti ir sukanka šio įstatymo nustatytą amžių, pripažįstami invalidais, o tokiems asmenims mirus – jų šeimos nariams.“
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-6cfc458ba0558082b162e45b
 
 
-Pakeisti [[#4 straipsnis. Įstatymo papildymas 211 straipsniu|4 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-b17f78edf5c4940c66e3aa9e|4 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#4 straipsnis. Įstatymo papildymas 211 straipsniu|4 straipsnis]]. Valstybinių socialinio draudimo pensijų rūšys
+„[[#^s-b17f78edf5c4940c66e3aa9e|4 straipsnis]]. Valstybinių socialinio draudimo pensijų rūšys
 
 
 Nustatomos šios valstybinės socialinio draudimo pensijos: senatvės, invalidumo, našlių ir našlaičių (maitintojo netekimo).“
 
 
 
-### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-eb215a9b177872bcddde8d8d
 
 
 5 straipsnio 1 dalies antrame sakinyje po žodžio „pensijomis“ įrašyti žodžius „jei įstatymų nenustatyta kitaip“ ir šią dalį išdėstyti taip:
@@ -67,7 +72,7 @@ Nustatomos šios valstybinės socialinio draudimo pensijos: senatvės, invalidum
 
 
 
-### 4 straipsnis. Įstatymo papildymas 211 straipsniu
+### 4 straipsnis. Įstatymo papildymas 211 straipsniu ^s-b17f78edf5c4940c66e3aa9e
 
 
 Papildyti Įstatymą 211 straipsniu:
@@ -80,7 +85,7 @@ Asmeniui, gavusiam valstybinę socialinio draudimo senatvės pensiją pagal Vals
 
 
 
-### 5 straipsnis. 24 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 24 straipsnio 1 dalies pakeitimas ^s-37353fa0cc93349f49cecef7
 
 
 24 straipsnio 1 dalyje po žodžių „socialinio draudimo senatvės pensiją“ įrašyti žodžius „pagal šį įstatymą“ ir šią dalį išdėstyti taip:
@@ -90,7 +95,7 @@ Asmeniui, gavusiam valstybinę socialinio draudimo senatvės pensiją pagal Vals
 
 
 
-### 6 straipsnis. Įstatymo papildymas 291 straipsniu
+### 6 straipsnis. Įstatymo papildymas 291 straipsniu ^s-0dc9c5ed99f65ece5dfa8e0a
 
 
 Papildyti Įstatymą 291 straipsniu:
@@ -106,7 +111,7 @@ Asmeniui, kuriam valstybinė socialinio draudimo invalidumo pensija skiriama iš
 
 
 
-### 7 straipsnis. Įstatymo papildymas 361 straipsniu
+### 7 straipsnis. Įstatymo papildymas 361 straipsniu ^s-c101e1a2a3d66b43eb5123d3
 
 
 Papildyti Įstatymą 361 straipsniu:
@@ -122,7 +127,7 @@ Mirus asmeniui, kuris išankstinę senatvės pensiją buvo gavęs anksčiau, val
 
 
 
-### 8 straipsnis. 39 straipsnio 1 dalies pakeitimas
+### 8 straipsnis. 39 straipsnio 1 dalies pakeitimas ^s-9e567023f890d114981a454e
 
 
 Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -132,7 +137,7 @@ Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 56 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 56 straipsnio 1 dalies pakeitimas ^s-ab4c4191349d7e34b1eab8bf
 
 
 56 straipsnio 1 dalies antrame sakinyje po žodžių „šio įstatymo“ įrašyti žodžius „ir Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo“ ir šią dalį išdėstyti taip:
@@ -142,7 +147,7 @@ Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. Įstatymo įsigaliojimas
+### 10 straipsnis. Įstatymo įsigaliojimas ^s-aa013b71fc8f64a35dd3f00c
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. liepos 1 d.

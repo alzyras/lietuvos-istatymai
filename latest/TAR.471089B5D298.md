@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.471089B5D298"
 pavadinimas: "Lietuvos Respublikos pensijų kaupimo įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pensijų kaupimo įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "pensijų kaupimo įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2016-01-01"
 latest_path: "latest/TAR.471089B5D298.md"
 latest_sha256: "33cb61a869f11f3a8d527973479efb6fd0433e3f8cc2941ce03636bb69e9ecb3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.471089B5D298]]"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.471089B5D298.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.471089B5D298
+- Ryšiai: [[Ryšiai/TAR.471089B5D298|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,23 +44,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies 1 punkto ir 3 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies 1 punkto ir 3 dalies pakeitimas ^s-298bdfa1642636ffbdd69188
 
 
-1. Pakeisti 11 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^5133061061dddb2bc31177cc
+1. Pakeisti 11 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-00eb161a6af929abb67db58d
 
 
 „1) nuolat vykdyti mokumo kapitalo reikalavimus;“.
 
 
-2. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^bfcc822b5ceb89dc33271bfb
+2. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^s-27dd7af9065098b74cb5e10d
 
 
 „3. Draudimo įmonė mokumo kapitalą skaičiuoja priežiūros institucijos nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-403b0de717527698aa690576
 
 
 Šis įstatymas įsigalioja 2016 m. sausio 1 d.
@@ -82,4 +87,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-721, 2013-12-19, Žin., 2013, Nr. 140-7082 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00023
-Lietuvos Respublikos pensijų kaupimo įstatymo 11 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo ĮSTATYMAS
+[[latest/cf5b0270723811e3b29084acd991add8|Lietuvos Respublikos pensijų kaupimo įstatymo 11 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo ĮSTATYMAS]]

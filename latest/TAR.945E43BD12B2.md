@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.945E43BD12B2"
 pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 10 straipsnių pakeitimo įstatymas"
+  - "Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-02-21"
 latest_path: "latest/TAR.945E43BD12B2.md"
 latest_sha256: "7b22d88ca7a3767fd3010068c293c77e4951a7082abb603189be5f1f21c5fe1a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.945E43BD12B2]]"
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.945E43BD12B2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.945E43BD12B2
+- Ryšiai: [[Ryšiai/TAR.945E43BD12B2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-3158d9fcaa4b2d84aabf488c
 
 
 4 straipsnio 4 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
@@ -40,17 +45,17 @@ Vilnius
 „4 straipsnis. LRT programoms keliami reikalavimai
 
 
-1. LRT programose turi būti užtikrinta temų ir žanrų įvairovė, laidos turi būti orientuotos įvairiems visuomenės sluoksniams, įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms. Programose neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse laidose, komentaruose pateikiama informacija turi būti subalansuota, atspindinti įvairias politines pažiūras, o nuomonės ir faktinės žinios turi būti autorizuotos, patikrintos ir išsamios. ^f62aec842b040b82f343d091
+1. LRT programose turi būti užtikrinta temų ir žanrų įvairovė, laidos turi būti orientuotos įvairiems visuomenės sluoksniams, įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms. Programose neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse laidose, komentaruose pateikiama informacija turi būti subalansuota, atspindinti įvairias politines pažiūras, o nuomonės ir faktinės žinios turi būti autorizuotos, patikrintos ir išsamios. ^s-faf0c5b990d6df0306cb8e6d
 
 
-2. LRT programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno laidoms. Masinė kultūra atspindima apžvalginio, pažintinio, analitinio pobūdžio laidose. ^897b82b493acda4de641f1aa
+2. LRT programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno laidoms. Masinė kultūra atspindima apžvalginio, pažintinio, analitinio pobūdžio laidose. ^s-c68105ce960f25710d336cf7
 
 
-3. Europos kūrinių bei nepriklausomų kūrėjų garso ir vaizdo (audiovizualinių) kūrinių LRT programose mastus nustato Visuomenės informavimo įstatymas.“ ^28f4424ec095369732f5266a
+3. Europos kūrinių bei nepriklausomų kūrėjų garso ir vaizdo (audiovizualinių) kūrinių LRT programose mastus nustato [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymas]].“ ^s-43d01b9a18e8166a40295641
 
 
 
-### 2 straipsnis. 10 straipsnio 1 dalies 2 punkto pakeitimas
+### 2 straipsnis. 10 straipsnio 1 dalies 2 punkto pakeitimas ^s-b0d5b254f2dd6995c52e7601
 
 
 10 straipsnio 1 dalies 2 punkte po žodžio „struktūrą“ įrašyti žodžius „nustato LRT programų transliavimo trukmę“ ir šį punktą išdėstyti taip:

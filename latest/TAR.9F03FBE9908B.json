@@ -11,7 +11,7 @@
   "latest_revision": "2013-01-01",
   "latest_sha256": "af3604a742f855b6689700e6a0ccd75b696927b81cfc7a120d0e50b1b357572f",
   "metadata_path": "latest/TAR.9F03FBE9908B.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

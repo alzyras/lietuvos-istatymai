@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E8048BAAD929"
 pavadinimas: "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.E8048BAAD929.md"
 latest_sha256: "f584d954e010615d26ad61a15d768affc21d0c2279096511a99bb23d0e04ee1d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E8048BAAD929]]"
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E8048BAAD929.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E8048BAAD929
+- Ryšiai: [[Ryšiai/TAR.E8048BAAD929|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 3 dalies 1 punkto pakeitimas
+### 1 straipsnis. 16 straipsnio 3 dalies 1 punkto pakeitimas ^s-f4c8f1e8072f1656b2e98b61
 
 
 Pakeisti 16 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -43,16 +48,16 @@ Pakeisti 16 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas ^s-40a69ba1f6bfc093cf1d5d35
 
 
-1. Šis įstatymas, išskyrus [[#^cccc2fc5439298465e871351|šio straipsnio 3 dalį]], įsigalioja 2014 m. sausio 1 d. ^aa5aa0e730b16a57cf7c15cf
+1. Šis įstatymas, išskyrus [[#^s-a0473371b48429dc51a91b38|šio straipsnio 3 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-4eecb6ae8cb66b3fbf8f584f
 
 
-2. Iki šio įstatymo įsigaliojimo paskirtos pareigūnų ir karių valstybinės pensijos perskaičiuojamos pareigūnų ir karių valstybinių pensijų gavėjų, nurodytų Pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio 3 dalies 1 punkte, prašymu. Perskaičiuotosios pagal naujus duomenis ir mokėtosios pensijos skirtumas mokamas už laikotarpį nuo 2013 m. vasario 28 d., bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje ar įstaigoje dienos. Perskaičiuojant pensijos dydį, taikomi darbo užmokesčio dydžiai, pagal kuriuos buvo apskaičiuojama pareigūnų ir karių valstybinė pensija. ^d7c3924a6538f52e816706ae
+2. Iki šio įstatymo įsigaliojimo paskirtos pareigūnų ir karių valstybinės pensijos perskaičiuojamos pareigūnų ir karių valstybinių pensijų gavėjų, nurodytų [[latest/TAR.EDDCB615126E#^s-6d4fe6530ca11fefb5bb9a85|Pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio 3 dalies 1 punkte]], prašymu. Perskaičiuotosios pagal naujus duomenis ir mokėtosios pensijos skirtumas mokamas už laikotarpį nuo 2013 m. vasario 28 d., bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje ar įstaigoje dienos. Perskaičiuojant pensijos dydį, taikomi darbo užmokesčio dydžiai, pagal kuriuos buvo apskaičiuojama pareigūnų ir karių valstybinė pensija. ^s-5f0a7c3ae379e542f172a7e2
 
 
-3. Lietuvos Respublikos Vyriausybė iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^cccc2fc5439298465e871351
+3. Lietuvos Respublikos Vyriausybė iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-a0473371b48429dc51a91b38
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "0dee8b7090cd11e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės ir 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės ir 5 straipsnio pakeitimo įstatymas"
+  - "Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės ir 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2016-01-01"
 latest_path: "latest/0dee8b7090cd11e4bb408baba2bdddf3.md"
 latest_sha256: "b6dd686571b0a437c0620c2f9ea6d727f3b0916f268572b29df753879e768268"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/0dee8b7090cd11e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės ir 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/0dee8b7090cd11e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/0dee8b7090cd11e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/0dee8b7090cd11e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo preambulės pakeitimas
+### 1 straipsnis. Įstatymo preambulės pakeitimas ^s-e821982d3fcfe0af82274c3f
 
 
 Pakeisti Įstatymo preambulę ir ją išdėstyti taip:
@@ -50,7 +55,7 @@ priima šį įstatymą.“
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-de86a2987848d791d0f6ce8c
 
 
 Papildyti 5 straipsnį 24 punktu:
@@ -60,7 +65,7 @@ Papildyti 5 straipsnį 24 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-016df9eaa056a4723dc30a91
 
 
 Šis įstatymas įsigalioja 2016 m. sausio 1 d.

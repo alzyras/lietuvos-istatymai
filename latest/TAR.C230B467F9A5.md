@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C230B467F9A5"
 pavadinimas: "Dėl akcinės bendrovės \"Aurabankas\""
+aliases:
+  - "Dėl akcinės bendrovės \"Aurabankas\""
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-30"
 latest_path: "latest/TAR.C230B467F9A5.md"
 latest_sha256: "f08a4214e6213831edaf364b897fad4df1a5814158bfd435a6007b3af2cdd799"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C230B467F9A5]]"
 ---
 # Dėl akcinės bendrovės "Aurabankas"
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C230B467F9A5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C230B467F9A5
+- Ryšiai: [[Ryšiai/TAR.C230B467F9A5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

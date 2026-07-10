@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9F0B5321D2DB"
 pavadinimas: "Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas"
+  - "Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.9F0B5321D2DB.md"
 latest_sha256: "9fef97a31492a1ed6743014fa6b1ac7285fab355123ebb585d7eb1d6ea15f2ef"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9F0B5321D2DB]]"
 ---
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9F0B5321D2DB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB
+- Ryšiai: [[Ryšiai/TAR.9F0B5321D2DB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010IS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-43fb71e70770814d68f4c62a
 
 
 Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarai) ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos, vienintelės teisėtos valdžios okupuotoje Lietuvoje, 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statusą ir socialines garantijas.
@@ -46,60 +51,60 @@ Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. [[latest/
 
 
 
-### 2 straipsnis. Lietuvos Nepriklausomybės Akto signataras
+### 2 straipsnis. Lietuvos Nepriklausomybės Akto signataras ^s-dd1524a60fad6c7118755237
 
 
-1. Lietuvos Nepriklausomybės Akto signataras (toliau – signataras) – tautos išrinktas Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatas, kuris nustatyta tvarka 1990 m. kovo 11 d. užpildė vardinio balsavimo kortelę, joje pasirašė, balsavo už Aktą „Dėl Lietuvos Nepriklausomos valstybės atstatymo“ ir po juo pasirašė. ^6f702c469ac893d26c05ed6b
+1. Lietuvos Nepriklausomybės Akto signataras (toliau – signataras) – tautos išrinktas Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatas, kuris nustatyta tvarka 1990 m. kovo 11 d. užpildė vardinio balsavimo kortelę, joje pasirašė, balsavo už Aktą „Dėl Lietuvos Nepriklausomos valstybės atstatymo“ ir po juo pasirašė. ^s-a62c03adb7e23850516aeb9b
 
 
-2. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatus ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusius asmenis, kuriems suteikiamas signataro statusas, nustato šis Įstatymas (Įstatymo priedėlis). ^5e4bb04177b069191728e2dc
+2. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatus ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusius asmenis, kuriems suteikiamas signataro statusas, nustato šis Įstatymas (Įstatymo priedėlis). ^s-cf487615d5259f0e6a6a1de7
 Straipsnio dalies pakeitimai:
 Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. [[latest/TAR.26FC743BC588|1101010ISTA0XI-1197]]
 
 
 
-### 3 straipsnis. Signataro pažymėjimas ir ženklas
+### 3 straipsnis. Signataro pažymėjimas ir ženklas ^s-57a2534f66cfea07b8b914cf
 
 
-1. Signatarui išduodamas Lietuvos Respublikos Vyriausybės patvirtinto pavyzdžio Signataro pažymėjimas ir Signataro ženklas. ^76895abdf4bada24d407b597
+1. Signatarui išduodamas Lietuvos Respublikos Vyriausybės patvirtinto pavyzdžio Signataro pažymėjimas ir Signataro ženklas. ^s-2c78c2ddced1c4f46545b9eb
 
 
-2. Signataro pažymėjimus ir Signataro ženklus išduoda, jų apskaitą tvarko Vyriausioji rinkimų komisija. ^5d0b70482b32b71fcca13bfb
-
-
-
-### 4 straipsnis. Signataro teisės ir pareigos
-
-
-1. Signataras, pateikęs pažymėjimą, turi teisę: ^7b39fd346b48e51ea477979a
-
-
-1) nekliudomai lankytis Seime, Prezidentūroje, Vyriausybėje bei kitose valstybės ir savivaldybių institucijose; ^ddfd6398ba915d9cd6554a8b
-
-
-2) be eilės būti priimtas šio straipsnio [[#^ddfd6398ba915d9cd6554a8b|1 punkte]] išvardytų institucijų ir įstaigų vadovų; ^0e19006437b63c7967b28984
-
-
-3) gauti ir naudotis šio straipsnio [[#^ddfd6398ba915d9cd6554a8b|1 punkte]] išvardytų institucijų ir įstaigų turima informacija, išskyrus informaciją, kuri pagal Valstybės ir tarnybos paslapčių įstatymą yra valstybės ir tarnybos paslaptis; ^25cd40c4c9fcd3a93e55d0e4
-
-
-4) suderinęs su šio straipsnio [[#^ddfd6398ba915d9cd6554a8b|1 punkte]] išvardytų institucijų ir įstaigų vadovais, dalyvauti jų rengiamuose posėdžiuose ir kituose renginiuose, pareikšti savo nuomonę dėl svarstomų teisės aktų projektų. ^4a4a2254d19dfdcaa582da71
-
-
-2. Signataras turi teisę raštu teikti siūlymus dėl valstybės bei savivaldybių institucijų ir įstaigų darbo gerinimo, svarstomų teisės aktų projektų. Į signataro rašytinius pasiūlymus, rekomendacijas ir pastabas atitinkamų institucijų ir įstaigų vadovai privalo atsakyti įstatymų nustatyta tvarka. ^5f0c415de1ac13c9164265fd
-
-
-3. Kelionėms į užsienio valstybes signataras turi teisę naudotis Lietuvos Respublikos diplomatiniu pasu. ^3b17696c415cd80686eb1399
+2. Signataro pažymėjimus ir Signataro ženklus išduoda, jų apskaitą tvarko Vyriausioji rinkimų komisija. ^s-cafaffab6217b28d33885e14
 
 
 
-### 5 straipsnis. Nepriklausomybės Akto signatarų klubas
+### 4 straipsnis. Signataro teisės ir pareigos ^s-6c0d36ce62a22f6b0a691b44
 
 
-1. Nepriklausomybės Akto signatarų klubas (toliau – Signatarų klubas) – įstatymų nustatyta tvarka įsteigta visuomeninė signatarus vienijanti organizacija. ^be174d8a9c8f33c38c25f1cc
+1. Signataras, pateikęs pažymėjimą, turi teisę: ^s-3c1893a8da8d3b55b4415ec1
 
 
-2. Signatarų klubo buveinė yra Seimo rūmuose. Signatarų klubo buveinė išlaikoma, Signatarų klubo veikla aprūpinama reikiamomis paslaugomis ir priemonėmis Seimo kanceliarijos lėšomis. ^702325869a7a23a16424fce9
+1) nekliudomai lankytis Seime, Prezidentūroje, Vyriausybėje bei kitose valstybės ir savivaldybių institucijose; ^s-3e799307205f03b322d5a680
+
+
+2) be eilės būti priimtas šio straipsnio [[#^s-3e799307205f03b322d5a680|1 punkte]] išvardytų institucijų ir įstaigų vadovų; ^s-66a775f4ad4fc980eae55cf8
+
+
+3) gauti ir naudotis šio straipsnio [[#^s-3e799307205f03b322d5a680|1 punkte]] išvardytų institucijų ir įstaigų turima informacija, išskyrus informaciją, kuri pagal Valstybės ir tarnybos paslapčių įstatymą yra valstybės ir tarnybos paslaptis; ^s-6c563df037f70b04284ea01c
+
+
+4) suderinęs su šio straipsnio [[#^s-3e799307205f03b322d5a680|1 punkte]] išvardytų institucijų ir įstaigų vadovais, dalyvauti jų rengiamuose posėdžiuose ir kituose renginiuose, pareikšti savo nuomonę dėl svarstomų teisės aktų projektų. ^s-b88cc04b335dd04798c8b099
+
+
+2. Signataras turi teisę raštu teikti siūlymus dėl valstybės bei savivaldybių institucijų ir įstaigų darbo gerinimo, svarstomų teisės aktų projektų. Į signataro rašytinius pasiūlymus, rekomendacijas ir pastabas atitinkamų institucijų ir įstaigų vadovai privalo atsakyti įstatymų nustatyta tvarka. ^s-5467483d8b33098f31d4f13b
+
+
+3. Kelionėms į užsienio valstybes signataras turi teisę naudotis Lietuvos Respublikos diplomatiniu pasu. ^s-9731f4b2057d00cdf88821f9
+
+
+
+### 5 straipsnis. Nepriklausomybės Akto signatarų klubas ^s-ef960c48165dc03f73dface8
+
+
+1. Nepriklausomybės Akto signatarų klubas (toliau – Signatarų klubas) – įstatymų nustatyta tvarka įsteigta visuomeninė signatarus vienijanti organizacija. ^s-16cbd7cee2995f600efe3a5c
+
+
+2. Signatarų klubo buveinė yra Seimo rūmuose. Signatarų klubo buveinė išlaikoma, Signatarų klubo veikla aprūpinama reikiamomis paslaugomis ir priemonėmis Seimo kanceliarijos lėšomis. ^s-601fb1657fbd27fc9c32c9b4
 
 
 Straipsnio pakeitimai:
@@ -107,16 +112,16 @@ Nr. XII-2219, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00084
 
 
 
-### 6 straipsnis. Valstybinė signataro renta
+### 6 straipsnis. Valstybinė signataro renta ^s-6dd4954e229ccf914d5f3e12
 
 
-1. Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 38,79 procento Seimo nario pareiginės algos per mėnesį. ^136f2bbf1bab4e28481e295e
+1. Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 38,79 procento Seimo nario pareiginės algos per mėnesį. ^s-e8c5d081d38487506884d9d6
 Straipsnio dalies pakeitimai:
 Nr. XIII-1352, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11454
 
 
 
-2. Valstybinę signataro rentą turi teisę tomis pačiomis sąlygomis gauti ir Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje. ^8004c0ddb703103419b65808
+2. Valstybinę signataro rentą turi teisę tomis pačiomis sąlygomis gauti ir Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje. ^s-4b14876cba9d2fb15ef4843d
 
 
 Straipsnio pakeitimai:
@@ -124,159 +129,159 @@ Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. [[latest/
 
 
 
-### 7 straipsnis. Valstybinės signataro rentos skyrimo ir mokėjimo sąlygos
+### 7 straipsnis. Valstybinės signataro rentos skyrimo ir mokėjimo sąlygos ^s-7cdba0bdf9ab2aae4e2dd4ee
 
 
-1. Valstybinė signataro renta skiriama ir mokama šio Įstatymo [[#2 straipsnis. Lietuvos Nepriklausomybės Akto signataras|2 straipsnyje]] nurodytiems asmenims. ^efbeeb3859b7cd7c6a979d79
+1. Valstybinė signataro renta skiriama ir mokama šio Įstatymo [[#^s-dd1524a60fad6c7118755237|2 straipsnyje]] nurodytiems asmenims. ^s-9663e6fd6722c8cd56c4e736
 
 
-2. Valstybinė signataro renta neskiriama, o paskirtoji nemokama, jeigu: ^42157ca3702ed5550daf929c
+2. Valstybinė signataro renta neskiriama, o paskirtoji nemokama, jeigu: ^s-66f30d535879678f15cb7027
 
 
-1) signataras nėra Lietuvos Respublikos pilietis; ^3d57eadc646372fdbc4d684c
+1) signataras nėra Lietuvos Respublikos pilietis; ^s-0c9bde11aa9ada230971ee22
 
 
-2) signataras turi draudžiamųjų pajamų, išskyrus draudžiamąsias pajamas pagal autorines sutartis už kūrybinę veiklą; ^46cb8f2588234dd41f57df15
+2) signataras turi draudžiamųjų pajamų, išskyrus draudžiamąsias pajamas pagal autorines sutartis už kūrybinę veiklą; ^s-6321208c13bf27077bd905d2
 Straipsnio punkto pakeitimai:
 Nr. XII-936, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07835
 
 
 
-3) signatarui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas); ^b68d93a905a0499185457f8d
+3) signatarui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas); ^s-3900fa4c36dad044790fc566
 
 
-4) signataras neatsisako gaunamos valstybinės pensijos, išskyrus valstybinę socialinio draudimo pensiją. ^b503a8cea4cc4567d984340a
+4) signataras neatsisako gaunamos valstybinės pensijos, išskyrus valstybinę socialinio draudimo pensiją. ^s-349cfe8adf07e6ea43f30a7e
 
 
-3. Valstybinės signataro rentos gavėjas privalo pranešti jam rentą mokančiai institucijai apie [[#^42157ca3702ed5550daf929c|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to permokama renta, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka. ^92b82b53ee3289f643c43834
-
-
-
-### 8 straipsnis. Valstybinės signataro rentos skyrimo ir mokėjimo terminai
-
-
-1. Kreiptis dėl valstybinės signataro rentos paskyrimo galima bet kuriuo metu po teisės gauti šią rentą įgijimo dienos. ^6a62ce44894f58102572f699
-
-
-2. Kreipiantis dėl valstybinės signataro rentos paskyrimo, būtina pateikti visus Valstybinės signataro rentos skyrimo ir mokėjimo nuostatuose nurodytus dokumentus. ^09e02997bf7d76daa5537e60
-
-
-3. Valstybinė signataro renta skiriama nuo teisės į šią rentą įgijimo dienos, tačiau už praėjusį laikotarpį mokama ne daugiau kaip už 12 mėnesių, skaičiuojant nuo dienos, kurią Socialinės apsaugos ir darbo ministerija arba jos įgaliota institucija gavo visus reikiamus dokumentus. ^845b8b5d8e5efab9e8aab7dc
+3. Valstybinės signataro rentos gavėjas privalo pranešti jam rentą mokančiai institucijai apie [[#^s-66f30d535879678f15cb7027|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to permokama renta, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka. ^s-37f974b6c763eba5be87d908
 
 
 
-### 9 straipsnis. Valstybinė signataro našlių ir našlaičių renta
+### 8 straipsnis. Valstybinės signataro rentos skyrimo ir mokėjimo terminai ^s-91c079164d42e53a4e0e1527
 
 
-1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai ir įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. – invalidai), taip pat nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti valstybinę signataro našlaičių rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai. ^092acf8b45770eb50b6a5148
+1. Kreiptis dėl valstybinės signataro rentos paskyrimo galima bet kuriuo metu po teisės gauti šią rentą įgijimo dienos. ^s-45e5c627dad25e1b18f858f6
+
+
+2. Kreipiantis dėl valstybinės signataro rentos paskyrimo, būtina pateikti visus Valstybinės signataro rentos skyrimo ir mokėjimo nuostatuose nurodytus dokumentus. ^s-cbb023cacafd634fe135e931
+
+
+3. Valstybinė signataro renta skiriama nuo teisės į šią rentą įgijimo dienos, tačiau už praėjusį laikotarpį mokama ne daugiau kaip už 12 mėnesių, skaičiuojant nuo dienos, kurią Socialinės apsaugos ir darbo ministerija arba jos įgaliota institucija gavo visus reikiamus dokumentus. ^s-1961985c1eb7dd95e69ba0bf
+
+
+
+### 9 straipsnis. Valstybinė signataro našlių ir našlaičių renta ^s-a7005159160f3fa7ed268c5d
+
+
+1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai ir įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. – invalidai), taip pat nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti valstybinę signataro našlaičių rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai. ^s-3bd8eaab7626f0b227e45c7e
 Straipsnio dalies pakeitimai:
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. [[latest/TAR.8D1E439FB91A|1051010ISTA000X-208]]
 Nr. XI-1647, 2011-11-10, Žin., 2011, Nr. 144-6756 (2011-11-29), i. k. [[latest/TAR.A7EE94C99E70|1111010ISTA0XI-1647]]
 
 
 
-2. Valstybinę signataro našlių ir našlaičių rentą turi teisę tomis pačiomis sąlygomis gauti ir šio Įstatymo [[#^8004c0ddb703103419b65808|6 straipsnio 2 dalyje]] nurodytų Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatų našlės ir našlaičiai. ^d8c84f3e1757bcd8774ac946
+2. Valstybinę signataro našlių ir našlaičių rentą turi teisę tomis pačiomis sąlygomis gauti ir šio Įstatymo [[#^s-4b14876cba9d2fb15ef4843d|6 straipsnio 2 dalyje]] nurodytų Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatų našlės ir našlaičiai. ^s-98f6dad05883a1b78f22baa9
 Papildyta straipsnio dalimi:
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. [[latest/TAR.490B9FBBDB37|1041010ISTA0IX-2564]]
 
 
 
-3. Valstybinės signataro našlių ir našlaičių rentos dydis yra 25 procentai valstybinės signataro rentos dydžio kiekvienam [[#^092acf8b45770eb50b6a5148|šio straipsnio 1 dalyje]] nurodytam asmeniui. ^484e8ed6b6f523d3f9631cc0
+3. Valstybinės signataro našlių ir našlaičių rentos dydis yra 25 procentai valstybinės signataro rentos dydžio kiekvienam [[#^s-3bd8eaab7626f0b227e45c7e|šio straipsnio 1 dalyje]] nurodytam asmeniui. ^s-87b1d0b97d85892a79e4da93
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. [[latest/TAR.490B9FBBDB37|1041010ISTA0IX-2564]]
 
 
 
-4. Valstybinė signataro našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu: ^0a4666398569a002058ea2f9
+4. Valstybinė signataro našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu: ^s-8ca0538db4fdcf578d029d7c
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. [[latest/TAR.490B9FBBDB37|1041010ISTA0IX-2564]]
 
 
 
-1) mirusio signataro sutuoktinis, vaikas, įvaikis nėra Lietuvos Respublikos pilietis; ^1719221797434892b4a7f0b6
+1) mirusio signataro sutuoktinis, vaikas, įvaikis nėra Lietuvos Respublikos pilietis; ^s-cca2fea31e815544123868b5
 
 
-2) mirusio signataro sutuoktinis, vaikas, įvaikis turi draudžiamųjų pajamų; ^dffd5bfafe75d4c3bc2bf56c
+2) mirusio signataro sutuoktinis, vaikas, įvaikis turi draudžiamųjų pajamų; ^s-4bc8c5957ef02cbf6b3d4568
 
 
-3) mirusio sutuoktiniui, vaikui, įvaikiui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas); ^b4ca527c5bd940043bedec2d
+3) mirusio sutuoktiniui, vaikui, įvaikiui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas); ^s-0efd91cf09dca38453834f8a
 
 
-4) mirusio signataro sutuoktinis neatsisako gaunamos valstybinės pensijos, išskyrus valstybinę socialinio draudimo pensiją. ^0873eca0a86f181ec0f2bd93
+4) mirusio signataro sutuoktinis neatsisako gaunamos valstybinės pensijos, išskyrus valstybinę socialinio draudimo pensiją. ^s-eb9b19a1afe35b1772b910ed
 
 
-5. Valstybinės signataro našlių ir našlaičių rentos gavėjas privalo pranešti rentą mokančiai institucijai apie [[#^484e8ed6b6f523d3f9631cc0|šio straipsnio 3 dalyje]] nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka. ^16503d3e6993c83bd2b566f4
+5. Valstybinės signataro našlių ir našlaičių rentos gavėjas privalo pranešti rentą mokančiai institucijai apie [[#^s-87b1d0b97d85892a79e4da93|šio straipsnio 3 dalyje]] nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka. ^s-ee643931a520a7c29175709b
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. [[latest/TAR.490B9FBBDB37|1041010ISTA0IX-2564]]
 
 
 
-### 10 straipsnis. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos skyrimo ir mokėjimo tvarka
+### 10 straipsnis. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos skyrimo ir mokėjimo tvarka ^s-b4162d33e67774f6b09c198c
 
 
-1. Valstybinę signataro rentą, valstybinę signataro našlių ir našlaičių rentą skiria Vyriausybė. ^f76b78d4b48106ee0baca667
+1. Valstybinę signataro rentą, valstybinę signataro našlių ir našlaičių rentą skiria Vyriausybė. ^s-8e619a822cc5cb6268e90295
 
 
-2. Valstybinę signataro rentą, valstybinę signataro našlių ir našlaičių rentą moka Seimo kanceliarija. ^7821305be21305136cdb142c
+2. Valstybinę signataro rentą, valstybinę signataro našlių ir našlaičių rentą moka Seimo kanceliarija. ^s-7f3476d2da46cba9c397fb0c
 
 
-3. Seimo kanceliarija, mokėdama valstybines signataro rentas, valstybines signataro našlių ir našlaičių rentas, vadovaujasi šiuo ir kitais įstatymais bei Vyriausybės patvirtintais Valstybinės signataro rentos skyrimo ir mokėjimo nuostatais. ^ff10f2f657e13152dcc4fbdc
+3. Seimo kanceliarija, mokėdama valstybines signataro rentas, valstybines signataro našlių ir našlaičių rentas, vadovaujasi šiuo ir kitais įstatymais bei Vyriausybės patvirtintais Valstybinės signataro rentos skyrimo ir mokėjimo nuostatais. ^s-2599e2d9148f84aab966a25d
 
 
-4. Kai valstybinės signataro rentos gavėjas miršta, renta jį laidojusiems asmenims išmokama už tą mėnesį, kurį valstybinės signataro rentos gavėjas mirė, jei renta dar nebuvo išmokėta. ^418c94a824b1eda337c957b1
+4. Kai valstybinės signataro rentos gavėjas miršta, renta jį laidojusiems asmenims išmokama už tą mėnesį, kurį valstybinės signataro rentos gavėjas mirė, jei renta dar nebuvo išmokėta. ^s-397a3f26b2db9e9229186787
 
 
-5. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos mokamos iš valstybės biudžeto. ^85c564d3f1173158aa84b31a
+5. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos mokamos iš valstybės biudžeto. ^s-cc450236efa4c98da4016bf6
 
 
 
-### 11 straipsnis. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos mokėjimas, kai rentos gavėjas persikelia nuolat gyventi į užsienį
+### 11 straipsnis. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos mokėjimas, kai rentos gavėjas persikelia nuolat gyventi į užsienį ^s-37dfd7a3d005e325e1b54834
 
 
 Valstybinės signataro, valstybinės signataro našlių ir našlaičių rentos gavėjui, persikėlusiam nuolat gyventi į užsienį, renta mokama Valstybinės signataro rentos skyrimo ir mokėjimo nuostatų nustatyta tvarka.
 
 
 
-### 12 straipsnis. Išskaitos iš valstybinės signataro rentos bei valstybinės signataro našlių ir našlaičių rentos
+### 12 straipsnis. Išskaitos iš valstybinės signataro rentos bei valstybinės signataro našlių ir našlaičių rentos ^s-386dd659398b3db3f348f3bf
 
 
 Išskaityti iš valstybinės signataro rentos bei valstybinės signataro našlių ir našlaičių rentos pagal vykdomuosius dokumentus galima tik įstatymų nustatyta tvarka.
 
 
 
-### 13 straipsnis. Signataro atminimo pagerbimas
+### 13 straipsnis. Signataro atminimo pagerbimas ^s-9671781dc3af30f3e865711d
 
 
-1. Signatarui mirus, jo atminimas įamžinamas Vyriausybės nustatyta tvarka. ^e6da76e6a439fbb940d317ba
+1. Signatarui mirus, jo atminimas įamžinamas Vyriausybės nustatyta tvarka. ^s-f9218faafb0c36e288de2ef5
 
 
-2. Signataro sutuoktinio, tėvų (įtėvių), vaikų (įvaikių) pageidavimu signatarai laidojami valstybės lėšomis pagal Vyriausybės patvirtintą laidojimo ceremonialą. Signataro sutuoktinio, tėvų (įtėvių), vaikų (įvaikių) pageidavimu laidotuves organizuoja Seimo valdybos sudaroma komisija. ^4eb97d26d18ae7072877dab1
+2. Signataro sutuoktinio, tėvų (įtėvių), vaikų (įvaikių) pageidavimu signatarai laidojami valstybės lėšomis pagal Vyriausybės patvirtintą laidojimo ceremonialą. Signataro sutuoktinio, tėvų (įtėvių), vaikų (įvaikių) pageidavimu laidotuves organizuoja Seimo valdybos sudaroma komisija. ^s-588ffd9ae35aaad6a4e84e5b
 
 
-3. Signataro kapavietė ir antkapis tvarkomi pagal Vyriausybės patvirtintą Signataro antkapio atributiką. ^444bc48e2cbf08fa31a7fcc4
+3. Signataro kapavietė ir antkapis tvarkomi pagal Vyriausybės patvirtintą Signataro antkapio atributiką. ^s-08c6eb263acad28f2ee22ee8
 
 
 
-### 14 straipsnis. Pasiūlymai Vyriausybei
+### 14 straipsnis. Pasiūlymai Vyriausybei ^s-438f8285ee7dac2becb79942
 
 
 Pasiūlyti Vyriausybei:
 
 
-1) iki 2003 m. gruodžio 1 d. patvirtinti Valstybinės signataro rentos skyrimo ir mokėjimo nuostatus bei kitus teisės aktus, būtinus šiam Įstatymui įgyvendinti. ^f68a1fe3b3b20ffa5907de4a
+1) iki 2003 m. gruodžio 1 d. patvirtinti Valstybinės signataro rentos skyrimo ir mokėjimo nuostatus bei kitus teisės aktus, būtinus šiam Įstatymui įgyvendinti. ^s-efaba9d40732a1ddf6056aaa
 
 
-2) iki 2003 m. gruodžio 1 d. patvirtinti Signataro pažymėjimo ir Signataro ženklo pavyzdžius, Signataro antkapio atributiką ir laidojimo ceremonialą. ^bbb966f054f5dbb8caeff27f
+2) iki 2003 m. gruodžio 1 d. patvirtinti Signataro pažymėjimo ir Signataro ženklo pavyzdžius, Signataro antkapio atributiką ir laidojimo ceremonialą. ^s-21521cc0f0f0ec08f0d39169
 
 
 
-### 15 straipsnis. Baigiamosios nuostatos
+### 15 straipsnis. Baigiamosios nuostatos ^s-1cdb8f0a472710d37a810ff9
 
 
-1. Šis Įstatymas, išskyrus [[#14 straipsnis. Pasiūlymai Vyriausybei|14 straipsnį]], įsigalioja nuo 2004 m. sausio 1 d. ^92de11649ae9f47b392a25ee
+1. Šis Įstatymas, išskyrus [[#^s-438f8285ee7dac2becb79942|14 straipsnį]], įsigalioja nuo 2004 m. sausio 1 d. ^s-f53ee91208a82856591f2016
 
 
-2. Šio Įstatymo nustatytos valstybinės signataro rentos ir valstybinės signataro našlių ir našlaičių rentos skiriamos ir mokamos nuo 2004 m. sausio 1 d. ^638c91a328497c1bf13914c3
+2. Šio Įstatymo nustatytos valstybinės signataro rentos ir valstybinės signataro našlių ir našlaičių rentos skiriamos ir mokamos nuo 2004 m. sausio 1 d. ^s-3e31b8b647989e2de6fb6a44
 
 
 
@@ -302,376 +307,376 @@ I. Lietuvos Nepriklausomybės Akto signatarai
 
 
 
-1. Aleksandras Algirdas ABIŠALA ^2fb0b456f45c60e24efb44f1
+1. Aleksandras Algirdas ABIŠALA ^s-c6fa1546af0826ffc1372f78
 
 
-2. Povilas AKSOMAITIS ^df1fcf15b4965bf9fc5ed65f
+2. Povilas AKSOMAITIS ^s-fff4a64739a9af336289daca
 
 
-3. Nijolė AMBRAZAITYTĖ ^2603cb0a333d9f540ba7b6b6
+3. Nijolė AMBRAZAITYTĖ ^s-bc6bcddeea19feb3e2c76794
 
 
-4. Aleksandras AMBRAZEVIČIUS ^41cf032144f6bc65d4b7baaf
+4. Aleksandras AMBRAZEVIČIUS ^s-aac55985f97899831678adfa
 
 
-5. Laima Liucija ANDRIKIENĖ ^33da83be9e3a482f715efad6
+5. Laima Liucija ANDRIKIENĖ ^s-ccb700a84a13ad7e064fb1ad
 
 
-6. Vytenis Povilas ANDRIUKAITIS ^164f406cf94e8dd736f23c92
+6. Vytenis Povilas ANDRIUKAITIS ^s-fcb36dbb6e2f85b85d30413b
 
 
-7. Irena ANDRUKAITIENĖ ^7fcdcc1f3f6ff86571bf02f8
+7. Irena ANDRUKAITIENĖ ^s-bfe516827f1e93d3fc4f5a60
 
 
-8. Kazimieras ANTANAVIČIUS ^6d7b01cabfc716f7b187dd9c
+8. Kazimieras ANTANAVIČIUS ^s-bb8471f65759667adfdff620
 
 
-9. Leonas APŠEGA ^511ea96691d97f00a4e48e62
+9. Leonas APŠEGA ^s-7def8563ed5f026f11ced092
 
 
-10. Mykolas ARLAUSKAS ^de9a5e1ce5fad0b253cb0235
+10. Mykolas ARLAUSKAS ^s-c3d6ce61f3a4dab2b38a3b4c
 
 
-11. Rimantas ASTRAUSKAS ^64928bf81329ce70d3660542
+11. Rimantas ASTRAUSKAS ^s-697dbb62b8e7beb91e6a028f
 
 
-12. Zbignevas BALCEVIČIUS ^c7b7678c9bc1ac62c6543ef1
+12. Zbignevas BALCEVIČIUS ^s-20a979ab15b130f87bbd483b
 
 
-13. Vilius BALDIŠIS ^aa122ea5e7be9e60ad0c1b93
+13. Vilius BALDIŠIS ^s-ae6c70b75e025338a029888f
 
 
-14. Julius BEINORTAS ^e88d0f238721630afd4b463a
+14. Julius BEINORTAS ^s-74a89bb8f5d9d2982cfeb4fb
 
 
-15. Vladimiras BERIOZOVAS ^dd6a4f14990ac7d1849e652b
+15. Vladimiras BERIOZOVAS ^s-0d3db092de02c2f2e4afe4e5
 
 
-16. Egidijus BIČKAUSKAS ^2999d16021b467fea408edbb
+16. Egidijus BIČKAUSKAS ^s-c44b562def7b5a10f397d69c
 
 
-17. Algirdas Mykolas BRAZAUSKAS ^6c94566f634f6ab4d03367c5
+17. Algirdas Mykolas BRAZAUSKAS ^s-1e559ada777768209f8a27ef
 
 
-18. Audrius BUTKEVIČIUS ^8fc40dc47ebee9bcd82b5cb1
+18. Audrius BUTKEVIČIUS ^s-ed20981aba826d26bc4bdd00
 
 
 19.Virgilijus Juozas ČEPAITIS
 
 
-20. Medardas ČOBOTAS ^8ddec243cfdd35e506e211af
+20. Medardas ČOBOTAS ^s-bf391df22af11697d5e3384c
 
 
-21. Arūnas DEGUTIS ^787b3ed1d62224580206c1e8
+21. Arūnas DEGUTIS ^s-6984619dbe1cdc7ac46e2683
 
 
-22. Juozas DRINGELIS ^0061764643836f357ced5ca1
+22. Juozas DRINGELIS ^s-50e5e3913b2ce1e7716bd434
 
 
-23. Algirdas ENDRIUKAITIS ^8a4c9589ff50f3698e4d1bd0
+23. Algirdas ENDRIUKAITIS ^s-67b0acbbe5046ff615b6e1c0
 
 
-24. Balys GAJAUSKAS ^17c69f292755d5148a20dc92
+24. Balys GAJAUSKAS ^s-784064bb3ef378ac0abe86b6
 
 
-25. Eugenijus GENTVILAS ^b6aae9967bcf3826742a9ef6
+25. Eugenijus GENTVILAS ^s-71235afbfad2006028bcd1b4
 
 
-26. Bronislovas GENZELIS ^4a2c98d7963ec33fd1b3a35b
+26. Bronislovas GENZELIS ^s-93d8faca5a271e58d18d2131
 
 
-27. Miglutė GERDAITYTĖ ^ca86a9dee2dcecd5b9f243a5
+27. Miglutė GERDAITYTĖ ^s-229246c901c8052889be36bc
 
 
-28. Petras GINIOTAS ^7b9a3eb979f39e2e518b3a61
+28. Petras GINIOTAS ^s-bb4580f504f7777fe53f14d8
 
 
-29. Kęstutis GLAVECKAS ^f355e911a6498de7c6691660
+29. Kęstutis GLAVECKAS ^s-09319679ff37dad25415ce2f
 
 
-30. Eimantas GRAKAUSKAS ^69c71016dd60b5f0f5718a83
+30. Eimantas GRAKAUSKAS ^s-b24bbf02d3b0c4971186c0f2
 
 
-31. Kęstutis GRINIUS ^4b710085f42dba040a60003e
+31. Kęstutis GRINIUS ^s-f3ca3167364082dc522b71de
 
 
-32. Romas GUDAITIS ^f7f27d96428aaad6979ff25e
+32. Romas GUDAITIS ^s-09d948902744a773e4de1edc
 
 
-33. Romualda HOFERTIENĖ ^929aa08a1a19c82e5073ae80
+33. Romualda HOFERTIENĖ ^s-6f308b3db5e462550602c540
 
 
-34. Gintautas Vincas IEŠMANTAS ^322a8df5da96095ef4b8e396
+34. Gintautas Vincas IEŠMANTAS ^s-df3ab479a95cd705bb468e56
 
 
-35. Stanislovas Gediminas ILGŪNAS ^26140d0667230f65611eb42c
+35. Stanislovas Gediminas ILGŪNAS ^s-fda5855bdbdd90bc01839fbf
 
 
-36. Albinas JANUŠKA ^6dbc219941a37e21f21238a7
+36. Albinas JANUŠKA ^s-a0d215ce1994c94c8cc4f87a
 
 
-37. Egidijus JARAŠIŪNAS ^c752eda78fa8ae64cf995477
+37. Egidijus JARAŠIŪNAS ^s-3057d9aab436ba60474fb643
 
 
-38. Vladimiras JARMOLENKO ^a9e19c3e5ab7c13aee3e9658
+38. Vladimiras JARMOLENKO ^s-807c0a4471c0cb376c5c8e29
 
 
-39. Vidmantė JASUKAITYTĖ ^e0b80a0b1825d5b7ceaa4ada
+39. Vidmantė JASUKAITYTĖ ^s-f043ebaa30f8681bb9a0522c
 
 
-40. Zenonas JUKNEVIČIUS ^12104d3c63cabe9910c12ad7
+40. Zenonas JUKNEVIČIUS ^s-7f4bb805996e0d79c8e210a1
 
 
-41. Jurgis JURGELIS ^386a53ab18a867fb7dc6ea95
+41. Jurgis JURGELIS ^s-6b6a366e5461739e11aa0afc
 
 
-42. Česlovas JURŠĖNAS ^d80485e894a7eb70543a845b
+42. Česlovas JURŠĖNAS ^s-84d174efe097c6e576b064eb
 
 
-43. Virgilijus KAČINSKAS ^d73f5fcdff2dd6f4b2d5dba9
+43. Virgilijus KAČINSKAS ^s-57ca747fc1aa8306c0efc8f3
 
 
-44. Antanas KAROBLIS ^8ffe8bbdaccc4c0140a0b021
+44. Antanas KAROBLIS ^s-cab5de6bd599560c8b366d99
 
 
-45. Juozas KARVELIS ^87e940f10da19fee2118d0e8
+45. Juozas KARVELIS ^s-fd94ad102fee734b7850bc3b
 
 
-46. Valdemaras KATKUS ^d9e77ba0f8c89cf71ca53c5a
+46. Valdemaras KATKUS ^s-9a51e9ad5b5660ef8685b6e9
 
 
-47. Egidijus KLUMBYS ^50ae4ea96b750b75be5893fd
+47. Egidijus KLUMBYS ^s-35850e54d4c23f538c002f64
 
 
-48. Vytautas KOLESNIKOVAS ^c145b2add298bb69642972f7
+48. Vytautas KOLESNIKOVAS ^s-d4290d3d9a21f6303aea55a5
 
 
-49. Stasys KROPAS ^882f5c1cd4deeb2d4dd0dbb5
+49. Stasys KROPAS ^s-ae8579a4f4eb5b94722222bf
 
 
-50. Česlovas KUDABA ^134bfdacb067837e7f7012c1
+50. Česlovas KUDABA ^s-7def98b5d3165c11602d4fc4
 
 
-51. Algirdas KUMŽA ^e58dfa4cb4cd00e33dcb9e59
+51. Algirdas KUMŽA ^s-39985fde193a456ae845e117
 
 
-52. Bronislovas Juozas KUZMICKAS ^427425a804bc43a277f4e209
+52. Bronislovas Juozas KUZMICKAS ^s-a604b95acb54b1a68c0f79aa
 
 
-53. Vytautas LANDSBERGIS ^2cd05ae0141ab2300da37e67
+53. Vytautas LANDSBERGIS ^s-22186071f38abff2d5b6d9fb
 
 
-54. Kęstutis LAPINSKAS ^6d366f4bdc64bc72d656be09
+54. Kęstutis LAPINSKAS ^s-89df9b7d87080ed25071f879
 
 
-55. Mečys LAURINKUS ^e4a2f7e2049755fe25d26759
+55. Mečys LAURINKUS ^s-1378953ee77c7d2e31a6f8de
 
 
-56. Arvydas Kostas LEŠČINSKAS ^0d346992d91ad8c964ec50f6
+56. Arvydas Kostas LEŠČINSKAS ^s-fcd8c9002c6590e061a7077d
 
 
-57. Jonas LIAUČIUS ^f64b18c88f84d95ec1b8661e
+57. Jonas LIAUČIUS ^s-70dede07cb63994498afb74f
 
 
-58. Bronislovas LUBYS ^967ac8dcb026924cca617bc2
+58. Bronislovas LUBYS ^s-e6e2858b589224f83c2181c1
 
 
-59. Jonas MAČYS ^14b6282a813141a994812aa2
+59. Jonas MAČYS ^s-749dc3485151926298dc0787
 
 
-60. Stasys MALKEVIČIUS ^67d457cb6f8fb402ded82acb
+60. Stasys MALKEVIČIUS ^s-9d7677181d31caeb6b86bf82
 
 
-61. Leonas MILČIUS ^fde74ef5228bea01cee16bde
+61. Leonas MILČIUS ^s-a4b88477d90ccc2e451d38b4
 
 
-62. Jokūbas MINKEVIČIUS ^e2f6bc436ac5576c898bf92a
+62. Jokūbas MINKEVIČIUS ^s-d817a3cbbd298df588022a38
 
 
-63. Albertas MIŠKINIS ^e22fa4e2dadbbb0e6142e4db
+63. Albertas MIŠKINIS ^s-f4bfa74ce49895423ab32a86
 
 
-64. Donatas MORKŪNAS ^a176fb0a528443851f7fde42
+64. Donatas MORKŪNAS ^s-a83a099056b11c1615f97626
 
 
-65. Kazimieras MOTIEKA ^db9cf01649cdd58b6f8b9cc9
+65. Kazimieras MOTIEKA ^s-3c9fa35bd2768e270f093313
 
 
-66. Birutė NEDZINSKIENĖ ^7ddf5bbaf1f45bb95f63b9bb
+66. Birutė NEDZINSKIENĖ ^s-a80ee16923b0d0fbbec8123e
 
 
-67. Algimantas NORVILAS ^7ed4a31750d63091063b5c7d
+67. Algimantas NORVILAS ^s-3d6a237168209d94e6ddc126
 
 
-68. Česlavas OKINČICAS ^9952700a9995abb7967d0dcf
+68. Česlavas OKINČICAS ^s-8fb6e99f33ebe6b1d38760f3
 
 
-69. Romualdas OZOLAS ^94158539bf2376f53e4b3a4e
+69. Romualdas OZOLAS ^s-a7cc18824e08a829b5ebee8c
 
 
-70. Nijolė OŽELYTĖ-VAITIEKŪNIENĖ ^248d6a85759c77195351f19c
+70. Nijolė OŽELYTĖ-VAITIEKŪNIENĖ ^s-ddaed8cf4e33d606ee1dc517
 
 
-71. Justas Vincas PALECKIS ^f3dae769db4f1dbd6d7f88f6
+71. Justas Vincas PALECKIS ^s-ca2b6d1798de74be7e064ff0
 
 
-72. Vytautas PALIŪNAS ^34ee9785b99ed7cdff96d3c8
+72. Vytautas PALIŪNAS ^s-6bc75aa43d0c45b26b503749
 
 
-73. Jonas PANGONIS ^6e5395bdf60662eff9fa545e
+73. Jonas PANGONIS ^s-8a99fe0b17fd837f4bc8f28b
 
 
-74. Algirdas PATACKAS ^c5c3c3895358fd8fa909ace0
+74. Algirdas PATACKAS ^s-c2e93ce1d4f80c3e5efa6e7e
 
 
-75. Rolandas PAULAUSKAS ^5e202487bfadd147e10ab886
+75. Rolandas PAULAUSKAS ^s-5b8f89a0ad8d72c77e145d3d
 
 
-76. Saulius PEČELIŪNAS ^f8b11be84e3a5c2b99a57a7a
+76. Saulius PEČELIŪNAS ^s-8f8c39331e116612487c8861
 
 
-77. Eugenijus PETROVAS ^639ba1d0a2dcda03cbfd036b
+77. Eugenijus PETROVAS ^s-3f04c9cf0f8050afd224e827
 
 
-78. Virginijus PIKTURNA ^f3dae0fb218b5cbd95001c54
+78. Virginijus PIKTURNA ^s-0dbdc744dc90621456414bec
 
 
-79. Vytautas Petras PLEČKAITIS ^48259f07da2aa9d3eb112163
+79. Vytautas Petras PLEČKAITIS ^s-3e66dbd47423bf5b7b47cd91
 
 
-80. Petras POŠKUS ^48b455b68d466df3336eac6c
+80. Petras POŠKUS ^s-a8ef781644cde89fea7f3d47
 
 
-81. Vidmantas POVILIONIS ^04c5d4f8dde6517385ccf4de
+81. Vidmantas POVILIONIS ^s-2845e6ff4e25a571a9120bec
 
 
-82. Jonas PRAPIESTIS ^b86bddd6539fb383ec290df0
+82. Jonas PRAPIESTIS ^s-393e64d0ae0ce5419def584b
 
 
-83. Kazimira Danutė PRUNSKIENĖ ^dccd990eb6a547c512d7554e
+83. Kazimira Danutė PRUNSKIENĖ ^s-37c3ad1bd23d1bff3e220360
 
 
-84. Vytautas PUPLAUSKAS ^06e2f64fbad10a7fe9ab66d5
+84. Vytautas PUPLAUSKAS ^s-5a3a9bbaf745af9c85d612c2
 
 
-85. Antanas RAČAS ^7c9ae9d473080aefeae5363f
+85. Antanas RAČAS ^s-c9783c140d040da2a0b89fcf
 
 
-86. Gintaras RAMONAS ^37c316282f90a46786a1a306
+86. Gintaras RAMONAS ^s-1fe1eee58223f871c5d72177
 
 
-87. Liudvikas Narcizas RASIMAVIČIUS ^b77713abd1ae66bce0d0f63c
+87. Liudvikas Narcizas RASIMAVIČIUS ^s-531758ff92821f8617237c5e
 
 
-88. Rasa RASTAUSKIENĖ (dabar – JUKNEVIČIENĖ) ^4d531694be2d450f27665dac
+88. Rasa RASTAUSKIENĖ (dabar – JUKNEVIČIENĖ) ^s-dbe69c821be1b2acf8a6254d
 
 
-89. Liudvikas Saulius RAZMA ^849ea6b59baddfa7c76b6f8e
+89. Liudvikas Saulius RAZMA ^s-288d0e05339bf43d8f832e3a
 
 
-90. Algirdas RAŽAUSKAS ^16f20f07dfdae835867a4e1d
+90. Algirdas RAŽAUSKAS ^s-2218e9002a4aa317ee0f87ea
 
 
-91. Kęstutis RIMKUS ^fe86473410619d6a71ab97a4
+91. Kęstutis RIMKUS ^s-c3d145eeff00b0812608114d
 
 
-92. Audrius RUDYS ^72d880920be6b51b986fb9af
+92. Audrius RUDYS ^s-34412c8f81935f8b0ebc27ae
 
 
-93. Romualdas RUDZYS ^e3d4ee0c08bb84eeecd5b972
+93. Romualdas RUDZYS ^s-c79b1538dfd0e92325cee157
 
 
-94. Benediktas Vilmantas RUPEIKA ^09d53fc2aed82e833048066d
+94. Benediktas Vilmantas RUPEIKA ^s-dff70d6997dd0ae9780225a0
 
 
-95. Liudvikas SABUTIS ^dc14c0eeea87bfbf9f10a72a
+95. Liudvikas SABUTIS ^s-dfff9b06b82fdd55dd3fdf05
 
 
-96. Kazys SAJA ^6aae64954e34f83eb8e8fcbf
+96. Kazys SAJA ^s-fc0f1f7365a9ae45ca6709ab
 
 
-97. Aloyzas SAKALAS ^ee9338a8adf0bf3a785b9b60
+97. Aloyzas SAKALAS ^s-3c52f0ea3823ec2c4bd0499e
 
 
-98. Algirdas SAUDARGAS ^c60fba220d1913278ebfeea4
+98. Algirdas SAUDARGAS ^s-b87d920f29897997c060e83f
 
 
-99. Algimantas SĖJŪNAS ^bfd5339b9ff0568d086c88cb
+99. Algimantas SĖJŪNAS ^s-8692d0988b741fe6784c5d8f
 
 
-100. Liudvikas SIMUTIS ^0d8b2a089ecfa2e6c277e108
+100. Liudvikas SIMUTIS ^s-d06e4d2f9fcc22b71e956ca2
 
 
-101. Česlovas Vytautas STANKEVIČIUS ^d30018bcf9c8c4bf63c12fce
+101. Česlovas Vytautas STANKEVIČIUS ^s-b830f98f7f942a95868759ce
 
 
-102. Rimvydas Raimondas SURVILA ^65a877786b3ba2e211159c0d
+102. Rimvydas Raimondas SURVILA ^s-bfca4cb3c623f5b144c976fa
 
 
-103. Valerijonas ŠADREIKA ^4a2b0b68f2d85cef4694d26d
+103. Valerijonas ŠADREIKA ^s-3f9d6c1062cb4f9d597eea4a
 
 
-104. Saulius ŠALTENIS ^ac52d2e6e9045fce7d2b518b
+104. Saulius ŠALTENIS ^s-fb5e12bf983ab6be6522d49e
 
 
-105. Lionginas ŠEPETYS ^ea3dfcaa6cb6f02d305ad0c4
+105. Lionginas ŠEPETYS ^s-59458ccf16d431191815225b
 
 
-106. Gediminas ŠERKŠNYS ^4941cd5e25f905eef03f5b43
+106. Gediminas ŠERKŠNYS ^s-d604afa332c4314cb80b1968
 
 
-107. Albertas ŠIMĖNAS ^9c1aa6ad252a3260ef7c3f3e
+107. Albertas ŠIMĖNAS ^s-b31b46aab077a5d3bfde9a4e
 
 
-108. Jonas ŠIMĖNAS ^321855e658978ada2feb6075
+108. Jonas ŠIMĖNAS ^s-59eff4da9ee9f6f6e6d7a588
 
 
-109. Jonas TAMULIS ^1153fa24954c1bc494303e52
+109. Jonas TAMULIS ^s-5ceac2721d3641f406c7af23
 
 
-110. Aurimas TAURANTAS ^7778345a9570a24e2c52fc74
+110. Aurimas TAURANTAS ^s-bea8c8f99fb8d5eb90f33ca5
 
 
-111. Vladas TERLECKAS ^28c0a4c5ff8c3fc960052704
+111. Vladas TERLECKAS ^s-a24ed2162a37a463341c5ead
 
 
-112. Pranciškus TUPIKAS ^ba92abb64a80740bb76b9b89
+112. Pranciškus TUPIKAS ^s-f56c0228669f1e13121de536
 
 
-113. Algimantas Vincas ULBA ^2522487588731e7a991de7cd
+113. Algimantas Vincas ULBA ^s-c42b5dc7e3b7a6dfe3bff8ee
 
 
-114. Kazimieras UOKA ^61941a0ebc769f6189dfa680
+114. Kazimieras UOKA ^s-6e995548c5cb1d18db11afbf
 
 
-115. Gediminas VAGNORIUS ^bd4f397ade5b3314567f7f56
+115. Gediminas VAGNORIUS ^s-078edac7c813bbe89815262f
 
 
-116. Zigmas VAIŠVILA ^6f3d103f869358d4aef89797
+116. Zigmas VAIŠVILA ^s-4ad0b5c3a3c8aafa4c01f2ea
 
 
-117. Petras VAITIEKŪNAS ^fb16d38d10565f837c4469eb
+117. Petras VAITIEKŪNAS ^s-f0484b909a4f905e5e652c20
 
 
-118. Rimvydas VALATKA ^e56a01392ddd49c02d236c23
+118. Rimvydas VALATKA ^s-850df7e9dcf8df1c58908072
 
 
-119. Birutė VALIONYTĖ ^e9851e54ecd8fe067daf487e
+119. Birutė VALIONYTĖ ^s-f2878b5027be36caceb4f4a3
 
 
-120. Povilas VARANAUSKAS ^4c86cef06b9f039cc64bd52e
+120. Povilas VARANAUSKAS ^s-c1860b08b2b3d40bb6002968
 
 
-121. Eduardas VILKAS ^5c9113f57a50cf56fe659608
+121. Eduardas VILKAS ^s-0f39924dfee86bed2971e58e
 
 
-122. Emanuelis ZINGERIS ^cf179161995a47a8007f2ec0
+122. Emanuelis ZINGERIS ^s-088ced08a95405e9d0e54fcc
 
 
-123. Alfonsas ŽALYS ^1e26570967f770ad9b5efcd4
+123. Alfonsas ŽALYS ^s-62f5e0ae6eddc8696b71bd62
 
 
-124. Vidmantas ŽIEMELIS ^86c05a7448dfdb6684c54e93
+124. Vidmantas ŽIEMELIS ^s-82f21620697debc1f16b2d16
 
 
 
@@ -679,13 +684,13 @@ II. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputat
 
 
 
-1. Stasys KAŠAUSKAS ^9a7c1491c68821fe9c9d343f
+1. Stasys KAŠAUSKAS ^s-b66973d3587d68185a0e876c
 
 
-2. Nikolaj MEDVEDEV ^65fbba70684750f4f88cf972
+2. Nikolaj MEDVEDEV ^s-8c4d6b16ba76f219448294a1
 
 
-3. Mindaugas STAKVILEVIČIUS ^5015d433e0b2abb00a2c5cf0
+3. Mindaugas STAKVILEVIČIUS ^s-aab919b2ae58180c1fe768ae
 
 
 
@@ -693,28 +698,28 @@ III. Lietuvos Laisvės Kovos Sąjūdžio Tarybos  1949 m. vasario 16 d. deklarac
 
 
 
-1. Jonas ŽEMAITIS-VYTAUTAS ^d476d04d4ab56870f5952da1
+1. Jonas ŽEMAITIS-VYTAUTAS ^s-a50a9d368f117f401cdea2b8
 
 
-2. Adolfas RAMANAUSKAS-VANAGAS ^b91091239c8505a019774f82
+2. Adolfas RAMANAUSKAS-VANAGAS ^s-2f8560543224015d02984cfe
 
 
-3. Juozas ŠIBAILA-MERAINIS ^ea7babf9a41ae3a9af41c0d9
+3. Juozas ŠIBAILA-MERAINIS ^s-86c56d406c11c100d8dc4044
 
 
-4. Leonas GRIGONIS-UŽPALIS ^6587a5509ebf7fdd62c3bd95
+4. Leonas GRIGONIS-UŽPALIS ^s-cbb280d86383063411c351ad
 
 
-5. Aleksandras GRYBINAS-FAUSTAS ^ecfaa67f8b2c613ad5869184
+5. Aleksandras GRYBINAS-FAUSTAS ^s-6535c865a3a1084fe69725c5
 
 
-6. Vytautas GUŽAS-KARDAS ^f88a6abefc80ba5a98327d1a
+6. Vytautas GUŽAS-KARDAS ^s-81cea39b3360b64816d78647
 
 
-7. Bronius LIESYS-NAKTIS ^b6f157988cb42b21528fff59
+7. Bronius LIESYS-NAKTIS ^s-ac114077001b3562489f6a96
 
 
-8. Petras BARTKUS-ŽADGAILA ^71d3dba1c0adc87a12abdce6
+8. Petras BARTKUS-ŽADGAILA ^s-40a9dfe8c5d94ebe47dba446
 
 
 
@@ -729,34 +734,34 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. [[latest/TAR.490B9FBBDB37|1041010ISTA0IX-2564]]
-Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo 6, [[#9 straipsnis. Valstybinė signataro našlių ir našlaičių renta|9 straipsnių]] ir priedėlio papildymo įstatymas
+[[latest/TAR.490B9FBBDB37|Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo 6, 9 straipsnių ir priedėlio papildymo įstatymas]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. [[latest/TAR.8D1E439FB91A|1051010ISTA000X-208]]
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
+[[latest/TAR.8D1E439FB91A|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. [[latest/TAR.26FC743BC588|1101010ISTA0XI-1197]]
-Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo pavadinimo, 1, [[#2 straipsnis. Lietuvos Nepriklausomybės Akto signataras|2 straipsnių]] ir priedėlio pakeitimo įstatymas
+[[latest/TAR.26FC743BC588|Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo pavadinimo, 1, 2 straipsnių ir priedėlio pakeitimo įstatymas]]
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1647, 2011-11-10, Žin., 2011, Nr. 144-6756 (2011-11-29), i. k. [[latest/TAR.A7EE94C99E70|1111010ISTA0XI-1647]]
-Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo [[#9 straipsnis. Valstybinė signataro našlių ir našlaičių renta|9 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.A7EE94C99E70|Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas]]
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-936, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07835
-Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 [[#7 straipsnis. Valstybinės signataro rentos skyrimo ir mokėjimo sąlygos|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 [[#^s-7cdba0bdf9ab2aae4e2dd4ee|7 straipsnio]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2219, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00084
-Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 [[#5 straipsnis. Nepriklausomybės Akto signatarų klubas|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 [[#^s-ef960c48165dc03f73dface8|5 straipsnio]] pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1352, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11454
-Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 [[#6 straipsnis. Valstybinė signataro renta|6 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 [[#^s-6dd4954e229ccf914d5f3e12|6 straipsnio]] pakeitimo įstatymas

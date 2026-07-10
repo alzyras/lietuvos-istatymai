@@ -11,7 +11,7 @@
   "latest_revision": "2022-01-01",
   "latest_sha256": "6a131764438b4b1e66f9b8ba247f495da64d9eb9f22834fe0bbe6149abf073f5",
   "metadata_path": "latest/5ac5de204de111ec862fdcbc8b3e3e05.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 9, 21 ir 26 straipsnių pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

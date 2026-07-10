@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9572C558F837"
 pavadinimas: "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-05-17"
 latest_path: "latest/TAR.9572C558F837.md"
 latest_sha256: "10ba3b105d5ff425eaecd8c8703d4eced327aaeb151d5470f66cd4a9d75e9f17"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9572C558F837]]"
 ---
 # Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9572C558F837.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9572C558F837
+- Ryšiai: [[Ryšiai/TAR.9572C558F837|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.17E51523948F"
 pavadinimas: "Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-29"
 latest_path: "latest/TAR.17E51523948F.md"
 latest_sha256: "45b666f23b5bdc929f9d607d26863082f05161f2a9c72472cc35173d668b5589"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.17E51523948F]]"
 ---
 # Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.17E51523948F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.17E51523948F
+- Ryšiai: [[Ryšiai/TAR.17E51523948F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

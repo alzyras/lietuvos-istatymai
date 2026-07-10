@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0A9049449290"
 pavadinimas: "Lietuvos Respublikos fiskalinės drausmės įstatymo 2 ir 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos fiskalinės drausmės įstatymo 2 ir 3 straipsnių pakeitimo įstatymas"
+  - "fiskalinės drausmės įstatymo 2 ir 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.0A9049449290.md"
 latest_sha256: "11a13c2ab42256db62cfce976ca7fe0fee153a1104d011f4b11cb0b1577b6762"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0A9049449290]]"
 ---
 # Lietuvos Respublikos fiskalinės drausmės įstatymo 2 ir 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0A9049449290.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0A9049449290
+- Ryšiai: [[Ryšiai/TAR.0A9049449290|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas ^s-c362c7d6a956d6c91663a992
 
 
 Pakeisti 2 straipsnio 7 dalį ir ją dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 7 dalį ir ją dalį išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 straipsnio 3 dalies 1 punkto pakeitimas
+### 2 straipsnis. 3 straipsnio 3 dalies 1 punkto pakeitimas ^s-d7e915b2e6dcfe44bd681cd8
 
 
 Pakeisti 3 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:

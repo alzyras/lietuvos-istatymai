@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "30eb3a80fcfb11e39cfacd978b6fd9bb"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 8 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-06-27"
 latest_path: "latest/30eb3a80fcfb11e39cfacd978b6fd9bb.md"
 latest_sha256: "776f6fc7730352c95e325a2d5bc118d029505c336850ed88f5f8b0aca8167c0b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/30eb3a80fcfb11e39cfacd978b6fd9bb]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/30eb3a80fcfb11e39cfacd978b6fd9bb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/30eb3a80fcfb11e39cfacd978b6fd9bb
+- Ryšiai: [[Ryšiai/30eb3a80fcfb11e39cfacd978b6fd9bb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 8
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-3eb289cc48a67ff9550b5c01
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:

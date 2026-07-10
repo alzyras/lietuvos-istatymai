@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C120B020F3E7"
 pavadinimas: "Lietuvos Respublikos civilinio proceso kodekso 587 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio proceso kodekso 587 straipsnio pakeitimo ir papildymo įstatymas"
+  - "civilinio proceso kodekso 587 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.C120B020F3E7.md"
 latest_sha256: "fd00d19817c7d59923777672a2ee1854c1cf909cf222d9116409f20eaf369e38"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C120B020F3E7]]"
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 587 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C120B020F3E7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C120B020F3E7
+- Ryšiai: [[Ryšiai/TAR.C120B020F3E7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,20 +38,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 587 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 587 straipsnio pakeitimas ir papildymas ^s-83a19d807c5d6db32642b5e3
 
 
-1. Papildyti 587 straipsnį nauju 9 punktu: ^b36ad7bd4130a34960761d72
+1. Papildyti 587 straipsnį nauju 9 punktu: ^s-7190825afd8ff6a9c31c214c
 
 
 „9) darbo ginčų komisijos sprendimai;“.
 
 
-2. Buvusį 587 straipsnio 9 punktą laikyti 10 punktu. ^6661851bce99a63ed5a7da20
+2. Buvusį 587 straipsnio 9 punktą laikyti 10 punktu. ^s-dc4ff17a220096d4af9eadb9
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-cf3dd6e54dd83c8a6da7c1c3
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

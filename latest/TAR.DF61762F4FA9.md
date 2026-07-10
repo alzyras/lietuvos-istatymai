@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DF61762F4FA9"
 pavadinimas: "Lietuvos Respublikos pašarų įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pašarų įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "pašarų įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.DF61762F4FA9.md"
 latest_sha256: "1bff2ad418d806a3226164e09ddf64caee51860c5b94e56c359294440d1bdd83"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DF61762F4FA9]]"
 ---
 # Lietuvos Respublikos pašarų įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DF61762F4FA9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DF61762F4FA9
+- Ryšiai: [[Ryšiai/TAR.DF61762F4FA9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-375b55446da54b1cdf06463a
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:

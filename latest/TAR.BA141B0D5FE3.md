@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BA141B0D5FE3"
 pavadinimas: "Lietuvos Respublikos korupcijos prevencijos įstatymo 9 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos korupcijos prevencijos įstatymo 9 straipsnio papildymo įstatymas"
+  - "korupcijos prevencijos įstatymo 9 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.BA141B0D5FE3.md"
 latest_sha256: "49e03f9ed812c1bd9f777a3f1e5f8091c98f85c6848f91adab9feff7cb724caf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BA141B0D5FE3]]"
 ---
 # Lietuvos Respublikos korupcijos prevencijos įstatymo 9 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BA141B0D5FE3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BA141B0D5FE3
+- Ryšiai: [[Ryšiai/TAR.BA141B0D5FE3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 2 dalies papildymas 10 ir 11 punktais
+### 1 straipsnis. 9 straipsnio 2 dalies papildymas 10 ir 11 punktais ^s-a922af4291b636fdb976b6bf
 
 
-1. Papildyti 9 straipsnio 2 dalį 10 punktu: ^e58cc1e9a4f150c3cb84314a
+1. Papildyti 9 straipsnio 2 dalį 10 punktu: ^s-225157e7d68ccbcf1ff8b053
 
 
 „10) galiojančias administracines nuobaudas už asmens padarytus administracinius teisės pažeidimus;“.
 
 
-2. Papildyti 9 straipsnio 2 dalį 11 punktu: ^d4b26d6c6856e3f8a6c55a99
+2. Papildyti 9 straipsnio 2 dalį 11 punktu: ^s-e828fd28af0b55805ee38deb
 
 
 „11) asmens atžvilgiu atliktus mokestinius patikrinimus, tyrimus, kurių metu buvo nustatyti mokesčių įstatymų pažeidimai (informacija pateikiama už paskutinius dešimt metų, skaičiuojant nuo rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, gavimo dienos).“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ce740ebdde1891714acdeb1c
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

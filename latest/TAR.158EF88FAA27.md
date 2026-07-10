@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.158EF88FAA27"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "notariato įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-12-08"
 latest_path: "latest/TAR.158EF88FAA27.md"
 latest_sha256: "d144265c26ee8c77c500c0bb5c1804cdd32fd95425cbc1f1040019bb8277a9f3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.158EF88FAA27]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,11 +21,12 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.158EF88FAA27.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.158EF88FAA27
+- Ryšiai: [[Ryšiai/TAR.158EF88FAA27|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
 LIETUVOS RESPUBLIKOS
-NOTARIATO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+[[latest/TAR.BE3136A78E80#^s-c76e944deb11ea8758beb114|NOTARIATO ĮSTATYMO 5 STRAIPSNIO]] PAKEITIMO
 Į S T A T Y M A S
 
 2005 m. lapkričio 22 d. Nr. X-416

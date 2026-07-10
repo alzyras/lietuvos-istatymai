@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6CA15F16BB32"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 3.194 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 3.194 straipsnio pakeitimo įstatymas"
+  - "civilinio kodekso 3.194 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-26"
 latest_path: "latest/TAR.6CA15F16BB32.md"
 latest_sha256: "f362bef370e0953453e08ef46bdaa239b6c1bd4984918c7b406f90a8841c7995"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6CA15F16BB32]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 3.194 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6CA15F16BB32.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6CA15F16BB32
+- Ryšiai: [[Ryšiai/TAR.6CA15F16BB32|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3.194 straipsnio 3 dalies  pakeitimas
+### 1 straipsnis. 3.194 straipsnio 3 dalies  pakeitimas ^s-10d88784ff87df4f360cbf1b
 
 
 Pakeisti  3.194 straipsnio 3 dalį ir ją išdėstyti taip:

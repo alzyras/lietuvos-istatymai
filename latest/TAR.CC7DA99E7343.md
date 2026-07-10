@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CC7DA99E7343"
 pavadinimas: "Lietuvos Respublikos susirinkimų įstatymo 8 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos susirinkimų įstatymo 8 straipsnio papildymo įstatymas"
+  - "susirinkimų įstatymo 8 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-03"
 latest_path: "latest/TAR.CC7DA99E7343.md"
 latest_sha256: "04e6757fba97d09636550af2733513958892b591426e03d207b2dd0ea14e3528"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CC7DA99E7343]]"
 ---
 # Lietuvos Respublikos susirinkimų įstatymo 8 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CC7DA99E7343.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CC7DA99E7343
+- Ryšiai: [[Ryšiai/TAR.CC7DA99E7343|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio papildymas 5 punktu
+### 1 straipsnis. 8 straipsnio papildymas 5 punktu ^s-c0a55810f83898702c75e4f6
 
 
 Papildyti 8 straipsnį 5 punktu:

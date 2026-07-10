@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1F1F38C47AAF"
 pavadinimas: "Dėl Lietuvos Respublikos 1995 metų valstybės ir savivaldybių biudžetų patikslinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos 1995 metų valstybės ir savivaldybių biudžetų patikslinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-06"
 latest_path: "latest/TAR.1F1F38C47AAF.md"
 latest_sha256: "4f7ab31001440cd2cd841516537a1759df2b4e786b9bcd3d8c2f5571b3ef4e50"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1F1F38C47AAF]]"
 ---
 # Dėl Lietuvos Respublikos 1995 metų valstybės ir savivaldybių biudžetų patikslinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1F1F38C47AAF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1F1F38C47AAF
+- Ryšiai: [[Ryšiai/TAR.1F1F38C47AAF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,28 +38,28 @@ Vilnius
 
 
 
-### 1 straipsnis. Pritarti 1995 metais numatomų papildomai gauti 288 000 tūkst. Lt valstybės biudžeto pajamų, iš jų 13 522 tūkst. Lt – Lietuvos banko likutinio pelno įmokos, paskirstymui.
+### 1 straipsnis. Pritarti 1995 metais numatomų papildomai gauti 288 000 tūkst. Lt valstybės biudžeto pajamų, iš jų 13 522 tūkst. Lt – Lietuvos banko likutinio pelno įmokos, paskirstymui. ^s-292c90989112a0bb0c7e9084
 
 
-### 2 straipsnis. Sumažinti kaip netekusius paskirties valstybės biudžeto asignavimus 43 661 tūkst. Lt pagal 1 priedėlį.
+### 2 straipsnis. Sumažinti kaip netekusius paskirties valstybės biudžeto asignavimus 43 661 tūkst. Lt pagal 1 priedėlį. ^s-00e776945a84853092a594ef
 
 
-### 3 straipsnis. Dėl indeksavimo padidinti darbo užmokesčio fondą, nedidinant patvirtintų asignavimų sumos, 20 442 tūkst. Lt pagal 2 priedėlį.
+### 3 straipsnis. Dėl indeksavimo padidinti darbo užmokesčio fondą, nedidinant patvirtintų asignavimų sumos, 20 442 tūkst. Lt pagal 2 priedėlį. ^s-56d18ffdf18934e699d996e6
 
 
-### 4 straipsnis. Skirti iš valstybės biudžeto ministerijoms, departamentams ir Vyriausybės tarnyboms 283 782 tūkst. Lt pagal 3 priedėlį, savivaldybėms – 153 992 tūkst. Lt pagal 4 priedėlį.
+### 4 straipsnis. Skirti iš valstybės biudžeto ministerijoms, departamentams ir Vyriausybės tarnyboms 283 782 tūkst. Lt pagal 3 priedėlį, savivaldybėms – 153 992 tūkst. Lt pagal 4 priedėlį. ^s-f906989a20c9d6ebf6719f56
 
 
-### 5 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę iš lėšų – 62 000 tūkst. Lt, numatytų valstybės biudžete kompensacijoms ir subsidijoms už gyventojams tiektą šiluminę energiją, perduoti savivaldybių biudžetams sumas, kurios pagal savivaldybių skaičiavimus priklauso vietiniams šiluminės energijos tiekėjams.
+### 5 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę iš lėšų – 62 000 tūkst. Lt, numatytų valstybės biudžete kompensacijoms ir subsidijoms už gyventojams tiektą šiluminę energiją, perduoti savivaldybių biudžetams sumas, kurios pagal savivaldybių skaičiavimus priklauso vietiniams šiluminės energijos tiekėjams. ^s-92a23ba2040be2e81c27e65b
 
 
-### 6 straipsnis. Nekeičiant bendros 1995 metams patvirtintos asignavimų sumos, pakeisti valstybės biudžeto paprastąsias ir nepaprastąsias išlaidas pagal 5 priedėlį.
+### 6 straipsnis. Nekeičiant bendros 1995 metams patvirtintos asignavimų sumos, pakeisti valstybės biudžeto paprastąsias ir nepaprastąsias išlaidas pagal 5 priedėlį. ^s-c707089556e928553e9cdc02
 
 
-### 7 straipsnis. Leisti valstybės biudžeto asignavimų valdytojams šiuo įstatymu papildomai skirtas lėšas paskirstyti pagal valstybės funkcijas.
+### 7 straipsnis. Leisti valstybės biudžeto asignavimų valdytojams šiuo įstatymu papildomai skirtas lėšas paskirstyti pagal valstybės funkcijas. ^s-ad5a9bd0a683912c6e415cf0
 
 
-### 8 straipsnis. Padidinti 1995 metų valstybės biudžeto deficitą 106 113 tūkst. litų.
+### 8 straipsnis. Padidinti 1995 metų valstybės biudžeto deficitą 106 113 tūkst. litų. ^s-1931f1dd299be628998d09a0
 
 
 

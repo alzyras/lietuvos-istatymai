@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B3BCC69BD09"
 pavadinimas: "Lietuvos Respublikos labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.6B3BCC69BD09.md"
 latest_sha256: "8de066d03687935eeb586a7c90eaea481494727a7eba6be3656155cb1f309c6d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B3BCC69BD09]]"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B3BCC69BD09.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B3BCC69BD09
+- Ryšiai: [[Ryšiai/TAR.6B3BCC69BD09|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-338cd611b948e384fc523db9
 
 
 2 straipsnio 3 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip:

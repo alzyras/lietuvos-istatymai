@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.96E2E9450BDD"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 132-1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 132-1 straipsnio pakeitimo įstatymas"
+  - "baudžiamojo proceso kodekso 132-1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-13"
 latest_path: "latest/TAR.96E2E9450BDD.md"
 latest_sha256: "907cedb99e5a36df4ac4505b0da881adedb2ffc065fdc1bbf04e213eb39137d1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.96E2E9450BDD]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 132-1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.96E2E9450BDD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.96E2E9450BDD
+- Ryšiai: [[Ryšiai/TAR.96E2E9450BDD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1321 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1321 straipsnio 1 dalies pakeitimas ^s-b59a38e4e8434d459d737bd6
 
 
 Pakeisti 1321 straipsnio 1 dalį ir ją išdėstyti taip:

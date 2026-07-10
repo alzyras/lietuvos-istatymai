@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8A021FF804C8"
 pavadinimas: "Lietuvos Respublikos konsulinio statuto 32 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konsulinio statuto 32 straipsnio pakeitimo įstatymas"
+  - "konsulinio statuto 32 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.8A021FF804C8.md"
 latest_sha256: "6d0a6f94312534cf9a08e35b9bd574733932ff8bd77cc6960564712703edd01d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8A021FF804C8]]"
 ---
 # Lietuvos Respublikos konsulinio statuto 32 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8A021FF804C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8A021FF804C8
+- Ryšiai: [[Ryšiai/TAR.8A021FF804C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,14 +40,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 32 straipsnio 6 dalies pripažinimas netekusia galios
+### 1 straipsnis. 32 straipsnio 6 dalies pripažinimas netekusia galios ^s-27baf12c792d936dfa955e60
 
 
 32 straipsnio 6 dalį pripažinti netekusia galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-a660348a5d679f753fee17ca
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

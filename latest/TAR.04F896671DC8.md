@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.04F896671DC8"
 pavadinimas: "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas"
+  - "asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.04F896671DC8.md"
 latest_sha256: "a120325eae40366188490e0401d9dcccff2867071baee9f317c87746a88b39eb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.04F896671DC8]]"
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.04F896671DC8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.04F896671DC8
+- Ryšiai: [[Ryšiai/TAR.04F896671DC8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo nauja redakcija ^s-8d28d45a99a4545ab9c314a5
 
 
 Pakeisti Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymą ir jį išdėstyti taip:
@@ -58,48 +63,48 @@ priima šį įstatymą.
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-987ba62f17dd5e76c58eb18b
 
 
-1. Šis įstatymas apibrėžia nacistinės Vokietijos ir Sovietų Sąjungos okupacinių valdžių politiniais ar kilmės (politiniais, religiniais, tautiniais, socialinės ar etninės kilmės ir kt.) motyvais persekiotų ir nuo 1939–1990 metų okupacijų nukentėjusių asmenų kategorijų sąvokas ir nustato nukentėjusių asmenų teisinio statuso pripažinimo pagrindinius kriterijus. ^762aea0e40cfe399cec77084
+1. Šis įstatymas apibrėžia nacistinės Vokietijos ir Sovietų Sąjungos okupacinių valdžių politiniais ar kilmės (politiniais, religiniais, tautiniais, socialinės ar etninės kilmės ir kt.) motyvais persekiotų ir nuo 1939–1990 metų okupacijų nukentėjusių asmenų kategorijų sąvokas ir nustato nukentėjusių asmenų teisinio statuso pripažinimo pagrindinius kriterijus. ^s-027c4bd533e62c438d3562c1
 
 
-2. Įstatymas apima visus 1939–1990 metų okupacinius laikotarpius, taip pat atskirus represijų veiksmus, įvykdytus 1991 metais. ^8803a74a109de77def1e66a5
+2. Įstatymas apima visus 1939–1990 metų okupacinius laikotarpius, taip pat atskirus represijų veiksmus, įvykdytus 1991 metais. ^s-5aa084e12f7ed82cbdac56ac
 
 
 
-### 2 straipsnis. Nuo okupacijų nukentėję asmenys
+### 2 straipsnis. Nuo okupacijų nukentėję asmenys ^s-775c3be59914c42d9dcbab27
 
 
 Nuo okupacijų nukentėjusiais asmenimis pripažįstami asmenys, kurie:
 
 
-1) okupacinių režimų buvo įkalinti, ištremti, nutremti arba kuriems dėl politinių ar kilmės motyvų kitokiais būdais buvo atimta laisvė; ^9c19d0b8ec780832908f5ba2
+1) okupacinių režimų buvo įkalinti, ištremti, nutremti arba kuriems dėl politinių ar kilmės motyvų kitokiais būdais buvo atimta laisvė; ^s-e34b09c8d2463d916234875d
 
 
-2) okupacijų metais dėl okupacinio režimo represinių ir kitų struktūrų bei okupavusių valstybių slaptųjų tarnybų veiksmų yra suluošinti, praradę sveikatą ar turtą; ^b84fd4306020bb19e3ab7947
+2) okupacijų metais dėl okupacinio režimo represinių ir kitų struktūrų bei okupavusių valstybių slaptųjų tarnybų veiksmų yra suluošinti, praradę sveikatą ar turtą; ^s-52c78f97d4ef455e477a07c9
 
 
-3) prievarta paimti į okupavusių valstybių karinius dalinius arba priverstiniams darbams; ^7e38693ec9d661e11b80967c
+3) prievarta paimti į okupavusių valstybių karinius dalinius arba priverstiniams darbams; ^s-74c40f09f46d750a13a2e38b
 
 
-4) persekioti dėl politinių motyvų; ^16374a81ea7c7e57dc6805f8
+4) persekioti dėl politinių motyvų; ^s-3ce2f01d635ab1d91363e3db
 
 
-5) dėl politinių ar kilmės motyvų negalėjo įgyti mokslo cenzo arba dirbti pagal specialybę; ^0ca14d4391d6a04499d1fc13
+5) dėl politinių ar kilmės motyvų negalėjo įgyti mokslo cenzo arba dirbti pagal specialybę; ^s-6ed4af62fa45d28218f3ce7d
 
 
-6) dėl okupacinių režimų struktūrų veiksmų patyrė kitokią žalą. ^982f99b90d6988ef01049740
+6) dėl okupacinių režimų struktūrų veiksmų patyrė kitokią žalą. ^s-d5581512d361901602a23747
 
 
 
-### 3 straipsnis. Nuo okupacijų nukentėjusių asmenų grupės
+### 3 straipsnis. Nuo okupacijų nukentėjusių asmenų grupės ^s-5801b6e237a6909dba34841f
 
 
 Nuo okupacijų nukentėjusių asmenų grupės yra šios:
 
 
-1) okupacinių režimų politiniais ar kilmės motyvais represuoti asmenys: ^b7b8d866f1fe9ec3f4b57a00
+1) okupacinių režimų politiniais ar kilmės motyvais represuoti asmenys: ^s-3a752a841accb6ce7f2d1627
 
 
 a) politiniai kaliniai ir jiems prilyginti asmenys;
@@ -114,150 +119,150 @@ c) perkeltieji asmenys;
 d) kiti represuoti asmenys;
 
 
-2) buvę beglobiai vaikai; ^8898d2c8e6ad4aca7e904427
+2) buvę beglobiai vaikai; ^s-d6738678cd90d8dce9cdc053
 
 
-3) kiti nukentėję asmenys. ^2c8e4f48e2f24c8761ec2de9
+3) kiti nukentėję asmenys. ^s-eb4cd4406d4af45d7819413c
 
 
 
-### 4 straipsnis. Politiniai kaliniai ir jiems prilyginti asmenys
+### 4 straipsnis. Politiniai kaliniai ir jiems prilyginti asmenys ^s-f85387f914e5b872a37dc626
 
 
-1. Politiniais kaliniais pripažįstami: ^f6fa3239f4175ac078483324
+1. Politiniais kaliniais pripažįstami: ^s-04e8147cf2164c350d760259
 
 
-1) asmenys, nuteisti laisvės atėmimu ar mirties bausme pagal Rusijos SFSR baudžiamojo kodekso 58 ir Lietuvos SSR baudžiamojo kodekso 62 straipsnius, taip pat kitus Sovietų Sąjungos respublikų baudžiamųjų kodeksų analogiškus straipsnius politiniais motyvais, varžančius žmogaus ir piliečio teises bei laisves; ^906a2d1b4dbf89db24029929
+1) asmenys, nuteisti laisvės atėmimu ar mirties bausme pagal Rusijos SFSR baudžiamojo kodekso 58 ir Lietuvos SSR baudžiamojo kodekso 62 straipsnius, taip pat kitus Sovietų Sąjungos respublikų baudžiamųjų kodeksų analogiškus straipsnius politiniais motyvais, varžančius žmogaus ir piliečio teises bei laisves; ^s-a9bcbd98fae4da9de87a5b70
 
 
-2) asmenys, įkalinti nacistinės Vokietijos okupacinio režimo represinių struktūrų ar teismų sprendimu už veiklą, skirtą atkurti Lietuvos nepriklausomybę, išsaugoti krašto turtą, kultūros vertybes ar apginti gyventojus; ^3e16d05d0fd88c145a45f7d6
+2) asmenys, įkalinti nacistinės Vokietijos okupacinio režimo represinių struktūrų ar teismų sprendimu už veiklą, skirtą atkurti Lietuvos nepriklausomybę, išsaugoti krašto turtą, kultūros vertybes ar apginti gyventojus; ^s-5c563f9b199f88b299aed6b4
 
 
-3) asmenys, politiniais ar kilmės motyvais nuteisti arba įkalinti be teismo sprendimo kaip „kontrrevoliuciniai“ arba socialiai pavojingi elementai; ^68bb88eb62e011477661a670
+3) asmenys, politiniais ar kilmės motyvais nuteisti arba įkalinti be teismo sprendimo kaip „kontrrevoliuciniai“ arba socialiai pavojingi elementai; ^s-7c3abc2f446de600c0a597cd
 
 
-4) asmenys, nuteisti laisvės atėmimu už okupacinio režimo struktūrų skirtų natūrinių ir finansinių mokestinių prievolių nevykdymą; ^a5eb71abab991eae48da7085
+4) asmenys, nuteisti laisvės atėmimu už okupacinio režimo struktūrų skirtų natūrinių ir finansinių mokestinių prievolių nevykdymą; ^s-3c03b238789a6668bed25ac9
 
 
-5) asmenys, nuteisti laisvės atėmimu arba įkalinti be teismo sprendimo  1939–1990 m., taip pat atskirais represijų atvejais 1991 metais už atsisakymą dėl politinių motyvų tarnauti Lietuvą okupavusių valstybių ginkluotosiose pajėgose arba už pasitraukimą iš šių ginkluotųjų pajėgų; ^485d8dd1984f7643e677f9f1
+5) asmenys, nuteisti laisvės atėmimu arba įkalinti be teismo sprendimo  1939–1990 m., taip pat atskirais represijų atvejais 1991 metais už atsisakymą dėl politinių motyvų tarnauti Lietuvą okupavusių valstybių ginkluotosiose pajėgose arba už pasitraukimą iš šių ginkluotųjų pajėgų; ^s-b06dde6fff58cc2326f5a97a
 
 
-6) asmenys, nuteisti laisvės atėmimu kaip politiniai bėgliai už bandymą pereiti Sovietų Sąjungos sieną; ^742bab2d06affbb23fe772b7
+6) asmenys, nuteisti laisvės atėmimu kaip politiniai bėgliai už bandymą pereiti Sovietų Sąjungos sieną; ^s-e84ed29aabd63eb15febc22c
 
 
-7) asmenys, įkalinti kaip pasipriešinimo okupacijoms dalyvių ar Lietuvos Respublikos valstybės pareigūnų šeimos nariai; ^cb6a0f9948910ec01ef34b9d
+7) asmenys, įkalinti kaip pasipriešinimo okupacijoms dalyvių ar Lietuvos Respublikos valstybės pareigūnų šeimos nariai; ^s-22ba3618c9d75fc8035ec3b9
 
 
-8) asmenys, dėl politinių motyvų neteisėtai priverstinai gydyti psichiatrinėse gydymo įstaigose; ^fc8909c2a82e5e2ebb174503
+8) asmenys, dėl politinių motyvų neteisėtai priverstinai gydyti psichiatrinėse gydymo įstaigose; ^s-3656bde6c5818d0b03094584
 
 
-9) asmenys, pabėgę iš tremties ir už pabėgimą nuteisti pagal SSRS baudžiamąjį kodeksą. ^eb780dc145e789cb6684da67
+9) asmenys, pabėgę iš tremties ir už pabėgimą nuteisti pagal SSRS baudžiamąjį kodeksą. ^s-8e94e66628e9cee5fa03aab9
 
 
-2. Politiniams kaliniams prilygintais asmenimis pripažįstami: ^e0aa6e0df7ed47af093e4ba6
+2. Politiniams kaliniams prilygintais asmenimis pripažįstami: ^s-0519d790c8002a1fa717f361
 
 
-1) į tėvynę grįžtantys asmenys (repatriantai) ar asmenys, sulaikyti be dokumentų ir įkalinti ne mažiau kaip 6 mėnesius patikrinimo filtracinėse stovyklose; ^1331b24876ad1a90016dd016
+1) į tėvynę grįžtantys asmenys (repatriantai) ar asmenys, sulaikyti be dokumentų ir įkalinti ne mažiau kaip 6 mėnesius patikrinimo filtracinėse stovyklose; ^s-ab33615120ef900985bce4cf
 
 
-2) asmenys, dėl politinių motyvų nuteisti laisvės atėmimu pagal dirbtinai sudarytas kriminalines bylas arba nuteisti laisvės atėmimu pagal kriminalines bylas už veiklą remiant partizanus ar pogrindines organizacijas; ^e6dda6b209381ed52f17db2f
+2) asmenys, dėl politinių motyvų nuteisti laisvės atėmimu pagal dirbtinai sudarytas kriminalines bylas arba nuteisti laisvės atėmimu pagal kriminalines bylas už veiklą remiant partizanus ar pogrindines organizacijas; ^s-00f7c89996b1ce50e3d3344a
 
 
-3) asmenys, suimti dėl politinių motyvų ar baudžiamųjų akcijų metu tardymams, apklausoms ar kitokiais tikslais, bet nenuteisti ir paleisti, jeigu jų įkalinimo laikas buvo ne trumpesnis kaip 6 mėnesiai; ^1b3f3ee1dee7ea09ef26348f
+3) asmenys, suimti dėl politinių motyvų ar baudžiamųjų akcijų metu tardymams, apklausoms ar kitokiais tikslais, bet nenuteisti ir paleisti, jeigu jų įkalinimo laikas buvo ne trumpesnis kaip 6 mėnesiai; ^s-5aa413177aa1783a9a9190c2
 
 
-4) asmenys, gimę kalėjimuose, koncentracijos stovyklose ar kitose įkalinimo vietose, jeigu bent vienas iš tėvų tuo metu buvo politinis kalinys ar jam prilygintas asmuo. ^b089b2eab64ef3999492ca1b
+4) asmenys, gimę kalėjimuose, koncentracijos stovyklose ar kitose įkalinimo vietose, jeigu bent vienas iš tėvų tuo metu buvo politinis kalinys ar jam prilygintas asmuo. ^s-1ae3cff0855e957cc3ec2222
 
 
-3. Šio straipsnio 1 ir [[#^e0aa6e0df7ed47af093e4ba6|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – politinio kalinio teisinis statusas. ^8a9e521deb25b2339ee9eaa4
+3. Šio straipsnio 1 ir [[#^s-0519d790c8002a1fa717f361|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – politinio kalinio teisinis statusas. ^s-288d34843617bfbfcb09d63d
 
 
 
-### 5 straipsnis. Tremtiniai ir jiems prilyginti asmenys
+### 5 straipsnis. Tremtiniai ir jiems prilyginti asmenys ^s-e2346c3f6f53d3f3609770a7
 
 
-1. Tremtiniais pripažįstami: ^4cdddff36f1e16dedff38588
+1. Tremtiniais pripažįstami: ^s-abb95b00c70ee32bbb204ec4
 
 
-1) asmenys, okupacinių režimų struktūrų arba teismų sprendimais dėl politinių ar kilmės motyvų priversti išsikelti iš Lietuvos arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos (ištremti) už Lietuvos ribų; ^1a8c54c9b91686d21a551f3a
+1) asmenys, okupacinių režimų struktūrų arba teismų sprendimais dėl politinių ar kilmės motyvų priversti išsikelti iš Lietuvos arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos (ištremti) už Lietuvos ribų; ^s-4e233ce45a6030c794d4abb1
 
 
-2) asmenys, okupacinių režimų struktūrų arba teismo sprendimais dėl politinių ar kilmės motyvų priversti išsikelti arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos ir priversti apsigyventi arba prievarta apgyvendinti nurodytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas arba apribojus gyvenamosios vietos pasirinkimo teisę (uždraudus grįžti ir gyventi Lietuvoje); ^402430555c5e599ab4242a5e
+2) asmenys, okupacinių režimų struktūrų arba teismo sprendimais dėl politinių ar kilmės motyvų priversti išsikelti arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos ir priversti apsigyventi arba prievarta apgyvendinti nurodytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas arba apribojus gyvenamosios vietos pasirinkimo teisę (uždraudus grįžti ir gyventi Lietuvoje); ^s-70ade3b26084247f2fa89f63
 
 
-3) asmenys, kurie, pasibaigus jų įkalinimo laikui, dėl politinių ar kilmės motyvų buvo prievarta apgyvendinti nustatytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas; ^749b3b55c9323c632be867ba
+3) asmenys, kurie, pasibaigus jų įkalinimo laikui, dėl politinių ar kilmės motyvų buvo prievarta apgyvendinti nustatytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas; ^s-477bd6ed3877ba432801be9e
 
 
-4) asmenys, kuriems, pasibaigus jų įkalinimo laikui arba panaikinus specialios įskaitos (komendantūros) sąlygas, dėl politinių ar kilmės motyvų buvo uždrausta grįžti ir gyventi Lietuvoje (ištremti); ^9c689275e4504268614242f6
+4) asmenys, kuriems, pasibaigus jų įkalinimo laikui arba panaikinus specialios įskaitos (komendantūros) sąlygas, dėl politinių ar kilmės motyvų buvo uždrausta grįžti ir gyventi Lietuvoje (ištremti); ^s-7432ba69777b9d42026f8ca9
 
 
-5) asmenys, gimę tremtinių šeimose trėmimo metu ir tremtyje, jeigu bent vienas iš tėvų buvo tremtinys ir jeigu bent vienam iš tėvų buvo taikomas specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje); ^00c31b748afb9e686a842ea7
+5) asmenys, gimę tremtinių šeimose trėmimo metu ir tremtyje, jeigu bent vienas iš tėvų buvo tremtinys ir jeigu bent vienam iš tėvų buvo taikomas specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje); ^s-0cb91548f67ec4f083bf8636
 
 
-6) asmenys, savo noru nuvykę pas savo šeimos narius į tremtį ir patekę į tremtinio teisinę padėtį, tai yra jiems buvo taikomos specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje). ^a562a8b42a30c9aa84d4a676
+6) asmenys, savo noru nuvykę pas savo šeimos narius į tremtį ir patekę į tremtinio teisinę padėtį, tai yra jiems buvo taikomos specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje). ^s-b6487b2778968311fe65b321
 
 
-2. Tremtiniams prilygintais asmenimis pripažįstami: ^8ec9ecb3f7e91a3e1afa4c4c
+2. Tremtiniams prilygintais asmenimis pripažįstami: ^s-6158345ff709d0d337bbc379
 
 
-1) tremtinių šeimos nariai, kurie nebuvo įrašyti į tremiamųjų sąrašus, atvykę ir nuolat gyvenę pas savo šeimos narius (tėvus, globėjus, vaikus ar sutuoktinius), kuriems tuo metu buvo taikomos specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje); ^f2ecfd3b6ac4b546b7b168a3
+1) tremtinių šeimos nariai, kurie nebuvo įrašyti į tremiamųjų sąrašus, atvykę ir nuolat gyvenę pas savo šeimos narius (tėvus, globėjus, vaikus ar sutuoktinius), kuriems tuo metu buvo taikomos specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje); ^s-9b50a82f2a3d72f04107e288
 
 
-2) asmenys, įrašyti į tremiamųjų sąrašus ir trėmimo metu pabėgę, pasislėpę arba kitaip išvengę trėmimo, jeigu jie trėmimo metu buvo nepilnamečiai arba pilnamečiai, tačiau toliau negalėjo legaliai gyventi savo ankstesnėje nuolatinėje gyvenamojoje vietoje, taip pat įkalintų, ištremtų ar įrašytų į tremiamųjų sąrašus asmenų nepilnamečiai vaikai, likę be tėvų globos. Įrašymo į tremiamųjų sąrašus sąlyga nebūtina nepilnamečiams vaikams, išvengusiems tremties, jei abu tėvai buvo įkalinti, ištremti arba vienas įkalintas, o kitas ištremtas ar įrašytas į tremiamųjų sąrašus; ^d3e5104e912fa1ec7dadd510
+2) asmenys, įrašyti į tremiamųjų sąrašus ir trėmimo metu pabėgę, pasislėpę arba kitaip išvengę trėmimo, jeigu jie trėmimo metu buvo nepilnamečiai arba pilnamečiai, tačiau toliau negalėjo legaliai gyventi savo ankstesnėje nuolatinėje gyvenamojoje vietoje, taip pat įkalintų, ištremtų ar įrašytų į tremiamųjų sąrašus asmenų nepilnamečiai vaikai, likę be tėvų globos. Įrašymo į tremiamųjų sąrašus sąlyga nebūtina nepilnamečiams vaikams, išvengusiems tremties, jei abu tėvai buvo įkalinti, ištremti arba vienas įkalintas, o kitas ištremtas ar įrašytas į tremiamųjų sąrašus; ^s-14714a72f4c0c74bb8c17299
 
 
-3) tėvų įkalinimo metu buvę nepilnamečiai politinių kalinių vaikai, jeigu bent vienas iš tėvų buvo įkalintas ir šeima tuo metu negalėjo legaliai gyventi ankstesnėje nuolatinėje gyvenamojoje vietoje; ^2cfc07a5b8c25d657939d879
+3) tėvų įkalinimo metu buvę nepilnamečiai politinių kalinių vaikai, jeigu bent vienas iš tėvų buvo įkalintas ir šeima tuo metu negalėjo legaliai gyventi ankstesnėje nuolatinėje gyvenamojoje vietoje; ^s-0858ebb51f14b8b0d4c7f9cc
 
 
-4) asmenys, okupacinių režimų institucijų arba teismų sprendimais dėl politinių ar kilmės motyvų priversti išsikelti arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos (ištremti), arba prievarta apgyvendinti nurodytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas arba apribojus gyvenamosios vietos pasirinkimo teisę (uždrausta grįžti ir gyventi Lietuvoje), jeigu šiuo metu jie yra Lietuvos Respublikos piliečiai. ^7e4abfb1d76331dc56670c99
+4) asmenys, okupacinių režimų institucijų arba teismų sprendimais dėl politinių ar kilmės motyvų priversti išsikelti arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos (ištremti), arba prievarta apgyvendinti nurodytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas arba apribojus gyvenamosios vietos pasirinkimo teisę (uždrausta grįžti ir gyventi Lietuvoje), jeigu šiuo metu jie yra Lietuvos Respublikos piliečiai. ^s-aed5a67bcdcff81ba8911670
 
 
-3. Asmeniui, kuriam buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje), pateikus Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ir Vidaus reikalų ministerijos bei kitų valstybių įgaliotų institucijų išduotus dokumentus, kad nėra duomenų apie šio apribojimo panaikinimo datą, leidimo grįžti ir gyventi data [[#^4cdddff36f1e16dedff38588|5 straipsnio 1 dalyje]] ir 2 dalies 1 punkte išvardytais atvejais laikoma faktinio grįžimo į Lietuvą data, bet ne vėlesnė kaip iki 1990 m. kovo 11 d. ^ec30cfb6fc835ebc9059123e
+3. Asmeniui, kuriam buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje), pateikus Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ir Vidaus reikalų ministerijos bei kitų valstybių įgaliotų institucijų išduotus dokumentus, kad nėra duomenų apie šio apribojimo panaikinimo datą, leidimo grįžti ir gyventi data [[#^s-abb95b00c70ee32bbb204ec4|5 straipsnio 1 dalyje]] ir 2 dalies 1 punkte išvardytais atvejais laikoma faktinio grįžimo į Lietuvą data, bet ne vėlesnė kaip iki 1990 m. kovo 11 d. ^s-f9c539f967b018307a6407af
 
 
-4. Šio straipsnio 1 ir [[#^8ec9ecb3f7e91a3e1afa4c4c|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – tremtinio teisinis statusas. ^1255bd6b8794787f1cd10bff
+4. Šio straipsnio 1 ir [[#^s-6158345ff709d0d337bbc379|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – tremtinio teisinis statusas. ^s-a5454860b261c6f8b6c29442
 
 
 
-### 51 straipsnis. Perkeltieji asmenys
+### 51 straipsnis. Perkeltieji asmenys ^s-4823624e775c57818b72e8f5
 
 
-1. Perkeltaisiais asmenimis pripažįstami: ^31a0c7a832d4bdcf26f259cb
+1. Perkeltaisiais asmenimis pripažįstami: ^s-8c1d40daad3276f1cd79a529
 
 
-1) asmenys, pagal Sovietų Sąjungos ir nacistinės Vokietijos 1941 m. sausio 10 d. susitarimą dėl gyventojų mainų atkelti į Lietuvą; ^b9b2c1c53ccf74197d2d26e6
+1) asmenys, pagal Sovietų Sąjungos ir nacistinės Vokietijos 1941 m. sausio 10 d. susitarimą dėl gyventojų mainų atkelti į Lietuvą; ^s-2385bd53f493dda5a79ecd80
 
 
-2) asmenys, okupacinio režimo struktūrų sprendimais perkelti iš vienų Lietuvos vietovių į kitas. ^154b955f61ba48c481341bda
+2) asmenys, okupacinio režimo struktūrų sprendimais perkelti iš vienų Lietuvos vietovių į kitas. ^s-ed59d97498241a3fa18e354b
 
 
-2. [[#^31a0c7a832d4bdcf26f259cb|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – perkeltojo teisinis statusas. ^643b22fd346d996d84f37c3e
+2. [[#^s-8c1d40daad3276f1cd79a529|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – perkeltojo teisinis statusas. ^s-d8723e51418db34424c8df49
 
 
 
-### 6 straipsnis. Kiti represuoti asmenys
+### 6 straipsnis. Kiti represuoti asmenys ^s-284c98a73b2a0fac8f0f8ee6
 
 
-1. Kitais represuotais asmenimis pripažįstami: ^360f3b93c7f4339926fbe73e
+1. Kitais represuotais asmenimis pripažįstami: ^s-d2316c80603099c9f188c878
 
 
-1) asmenys, okupacijų metu įkalinti kalėjimuose ar kitose įkalinimo vietose, getuose, koncentracijos arba kitokio tipo prievartinėse stovyklose, persekioti už priklausymą kokiai nors tautinei, etninei, rasinei, religinei, politinei, socialinei ar visuomeninei grupei arba organizacijai; ^a7e7e90eb0f082632b01a9c5
+1) asmenys, okupacijų metu įkalinti kalėjimuose ar kitose įkalinimo vietose, getuose, koncentracijos arba kitokio tipo prievartinėse stovyklose, persekioti už priklausymą kokiai nors tautinei, etninei, rasinei, religinei, politinei, socialinei ar visuomeninei grupei arba organizacijai; ^s-7bc2812ee9e66ed42aa2a663
 
 
-2) asmenys, suimti dėl politinių motyvų ar baudžiamųjų akcijų metu tardymams, apklausoms ar kitokiais tikslais, bet nenuteisti ir paleisti, jeigu jų įkalinimo laikas buvo trumpesnis negu 6 mėnesiai. ^3251c579eae268fd46f8d159
+2) asmenys, suimti dėl politinių motyvų ar baudžiamųjų akcijų metu tardymams, apklausoms ar kitokiais tikslais, bet nenuteisti ir paleisti, jeigu jų įkalinimo laikas buvo trumpesnis negu 6 mėnesiai. ^s-a7ccf055fa5c101e62ef8c98
 
 
-2. [[#^360f3b93c7f4339926fbe73e|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – represuotojo teisinis statusas. ^4209af69b58d45d21c090ff6
+2. [[#^s-d2316c80603099c9f188c878|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – represuotojo teisinis statusas. ^s-20a36a8520f91ac4cdf4d089
 
 
 
-### 7 straipsnis. Kiti nuo okupacijų nukentėję asmenys
+### 7 straipsnis. Kiti nuo okupacijų nukentėję asmenys ^s-678409be828c20db60ddfbb1
 
 
-1. Kitais nuo okupacijų nukentėjusiais asmenimis pripažįstami: ^615912819623f1a3b0da1ccd
+1. Kitais nuo okupacijų nukentėjusiais asmenimis pripažįstami: ^s-ce354b14ca1cbac977510e4e
 
 
-1) asmenys, nukentėję represinių ar baudžiamųjų akcijų metu, kurie dėl šių akcijų vykdytojų – okupacinės kariuomenės dalinių ar okupacinio režimo represinių struktūrų ginkluotų būrių veiksmų arba dėl slaptų pogrindžio ginkluotų ar neginkluotų struktūrų, veikusių prieš Lietuvos valstybingumą bei jos gyventojus ir kitų valstybių naudai, taip pat dėl karo veiksmų fronto metu ar dėl karo padarinių bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo aplinkybių nulemtų veiksmų metu: ^a9b1507bb31b459a2d1eaccd
+1) asmenys, nukentėję represinių ar baudžiamųjų akcijų metu, kurie dėl šių akcijų vykdytojų – okupacinės kariuomenės dalinių ar okupacinio režimo represinių struktūrų ginkluotų būrių veiksmų arba dėl slaptų pogrindžio ginkluotų ar neginkluotų struktūrų, veikusių prieš Lietuvos valstybingumą bei jos gyventojus ir kitų valstybių naudai, taip pat dėl karo veiksmų fronto metu ar dėl karo padarinių bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo aplinkybių nulemtų veiksmų metu: ^s-a6cdd787acab47e3d63b00d9
 
 
 a) buvo suluošinti ar sužaloti;
@@ -269,19 +274,19 @@ b) prarado kilnojamąjį ar nekilnojamąjį turtą;
 c) taip pat kurių tėvai (įtėviai), sutuoktinis ar vaikai (įvaikiai) – buvo nužudyti arba įkalinimo metu mirė;
 
 
-2) pasipriešinimo dalyvių, žuvusių kovos lauke, suėmimo ar trėmimo metu, nužudytų ar mirusių tardymo ar įkalinimo bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo veiksmų metu, nuteistų mirties bausme (bausmė įvykdyta), tėvai (įtėviai), sutuoktiniai, vaikai (įvaikiai), žuvimo metu buvę nepilnamečiai broliai ir seserys; ^d9286ea5841d0f3b90b59f31
+2) pasipriešinimo dalyvių, žuvusių kovos lauke, suėmimo ar trėmimo metu, nužudytų ar mirusių tardymo ar įkalinimo bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo veiksmų metu, nuteistų mirties bausme (bausmė įvykdyta), tėvai (įtėviai), sutuoktiniai, vaikai (įvaikiai), žuvimo metu buvę nepilnamečiai broliai ir seserys; ^s-4c2b244cc3dcf0204938dd80
 
 
-3) asmenys, kurių kilnojamasis ar nekilnojamasis turtas politiniais ar kilmės motyvais okupacinio režimo administracinių ir kitų struktūrų ar teismų atskirais ir specialiais sprendimais buvo nacionalizuotas, konfiskuotas ar kitaip atimtas arba sunaikintas; ^b72c9c18d33b1f5897b22922
+3) asmenys, kurių kilnojamasis ar nekilnojamasis turtas politiniais ar kilmės motyvais okupacinio režimo administracinių ir kitų struktūrų ar teismų atskirais ir specialiais sprendimais buvo nacionalizuotas, konfiskuotas ar kitaip atimtas arba sunaikintas; ^s-376730a5eaa3a9cc30554ce3
 
 
-4) asmenys, kurie dėl diskriminacijos politiniais ar kilmės motyvais arba dėl to, kad neteko namų ar būsto, negalėjo legaliai gyventi ir gauti darbo savo nuolatinėje gyvenamojoje vietoje arba Lietuvoje; ^e61af2d121e65ef53015f765
+4) asmenys, kurie dėl diskriminacijos politiniais ar kilmės motyvais arba dėl to, kad neteko namų ar būsto, negalėjo legaliai gyventi ir gauti darbo savo nuolatinėje gyvenamojoje vietoje arba Lietuvoje; ^s-c9bfe6c014e8676ced85560d
 
 
-5) asmenys, kurie dėl diskriminacijos politiniais ar kilmės motyvais negalėjo mokytis ar buvo pašalinti iš mokymo įstaigų ir negalėjo įgyti mokslo cenzo vidurinėse ir aukštosiose mokyklose arba negalėjo gauti mokslo laipsnių, arba dėl šių motyvų negalėjo dirbti pagal turimą specialybę ar buvo atleisti iš pareigų; ^79ba84c75e0843518da788ed
+5) asmenys, kurie dėl diskriminacijos politiniais ar kilmės motyvais negalėjo mokytis ar buvo pašalinti iš mokymo įstaigų ir negalėjo įgyti mokslo cenzo vidurinėse ir aukštosiose mokyklose arba negalėjo gauti mokslo laipsnių, arba dėl šių motyvų negalėjo dirbti pagal turimą specialybę ar buvo atleisti iš pareigų; ^s-c878bc2177f70f8538b8097b
 
 
-6) asmenys, kurie prarado sveikatą ar tapo invalidais okupacijų laikotarpiu: ^902602ed0cfab74b8b92ec65
+6) asmenys, kurie prarado sveikatą ar tapo invalidais okupacijų laikotarpiu: ^s-4d436ca5c50393d33a1d8825
 
 
 a) priverstinės karinės tarnybos ar karinių mokymų metu;
@@ -299,10 +304,10 @@ d) dirbę priverstiniuose darbuose Lietuvoje arba už jos ribų;
 e) vėliau pripažinti invalidais dėl ligų, susijusių su šio straipsnio 6 punkto a–d papunkčiuose nurodytais atvejais;
 
 
-7) asmenys, kurie dėl represijų ir persekiojimų grėsmės politiniais ar kilmės motyvais arba dėl vykdomų represinių ar baudžiamųjų akcijų buvo priversti pasitraukti iš savo nuolatinės gyvenamosios vietos ir iš Lietuvos, o vėliau dėl draudimo ar represijų bei persekiojimų grėsmės nebegalėjo grįžti; ^5511a6a1c9d73d6359905a4d
+7) asmenys, kurie dėl represijų ir persekiojimų grėsmės politiniais ar kilmės motyvais arba dėl vykdomų represinių ar baudžiamųjų akcijų buvo priversti pasitraukti iš savo nuolatinės gyvenamosios vietos ir iš Lietuvos, o vėliau dėl draudimo ar represijų bei persekiojimų grėsmės nebegalėjo grįžti; ^s-592ff233e8235b056b5c1f1b
 
 
-8) taip pat šie asmenys: ^63c99bd2058540f1020da0c5
+8) taip pat šie asmenys: ^s-8d1e6b87d15948c91d53884a
 
 
 a) dėl represijų ir persekiojimų politiniais ar kilmės motyvais grėsmės priversti pakeisti pavardę ir gyventi svetima pavarde ar naudotis svetimais bei suklastotais dokumentais;
@@ -320,7 +325,7 @@ d) partizanų, jų ryšininkų ir rėmėjų bei politinių kalinių šeimų nari
 e) dėl prievartavimo dirbti okupacinių režimų struktūrų informatoriais arba dėl prievartavimo stoti į komjaunimą ar komunistų partiją turėję pasitraukti iš darbo ar mokymo įstaigų arba persikelti į kitą gyvenamąją vietą;
 
 
-f) [[#^63c99bd2058540f1020da0c5|šio straipsnio 1 dalies 8 punkto]] b ir c papunkčiuose išvardytų asmenų šeimų represavimo metu buvę nepilnamečiai nariai;
+f) [[#^s-8d1e6b87d15948c91d53884a|šio straipsnio 1 dalies 8 punkto]] b ir c papunkčiuose išvardytų asmenų šeimų represavimo metu buvę nepilnamečiai nariai;
 
 
 g) paimti priverstiniams darbams, taip pat kartu su jais buvę nepilnamečiai – vaikai (įvaikiai), broliai ir seserys ar išlaikytiniai;
@@ -335,68 +340,68 @@ i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje
 j) asmenys, kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius ir statant Slavutičiaus miestą Ukrainoje.
 
 
-2. [[#^615912819623f1a3b0da1ccd|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas. ^6f1460822efd358e376898f2
+2. [[#^s-ce354b14ca1cbac977510e4e|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas. ^s-d6439b668c03e9745c98c707
 
 
 
-### 71 straipsnis. Buvę beglobiai vaikai
+### 71 straipsnis. Buvę beglobiai vaikai ^s-1da5d08eeef4bbb3548bb8bc
 
 
-1. Buvusiais beglobiais vaikais pripažįstami: ^6b7447d2bba3953586ace6d6
+1. Buvusiais beglobiais vaikais pripažįstami: ^s-5ad161d34b7421e273d676f1
 
 
-1) pasipriešinimo 1940–1990 metų okupacijoms dalyvių, žuvusių kovos lauke ar suėmimo metu, nužudytų ar mirusių tardymo ar kalinimo metu, nuteistų mirties bausme, jei bausmė įvykdyta, nepilnamečiai vaikai (įvaikiai), likę be tėvų globos; ^7ac43987c15af7f9416c6e8d
+1) pasipriešinimo 1940–1990 metų okupacijoms dalyvių, žuvusių kovos lauke ar suėmimo metu, nužudytų ar mirusių tardymo ar kalinimo metu, nuteistų mirties bausme, jei bausmė įvykdyta, nepilnamečiai vaikai (įvaikiai), likę be tėvų globos; ^s-68c91cf46cb2b7d392455d95
 
 
-2) pasipriešinimo 1940–1990 metų okupacijoms dalyvių likę be tėvų globos nepilnamečiai vaikai (įvaikiai), jeigu jų abu tėvai tuo metu priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai, taip pat jeigu vienas jų tėvų (įtėvių) buvo miręs, žuvęs, dingęs be žinios, kalėjo ar buvo ištremtas, o kitas priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai; ^bb5f944ebc5be481ae6b89a2
+2) pasipriešinimo 1940–1990 metų okupacijoms dalyvių likę be tėvų globos nepilnamečiai vaikai (įvaikiai), jeigu jų abu tėvai tuo metu priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai, taip pat jeigu vienas jų tėvų (įtėvių) buvo miręs, žuvęs, dingęs be žinios, kalėjo ar buvo ištremtas, o kitas priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai; ^s-1f0497753d734c79c5a6a0bf
 
 
-3) politinių kalinių vaikai (įvaikiai), jeigu jie abiejų tėvų kalinimo metu (taip pat jeigu vienas tėvų (įtėvių) buvo miręs, dingęs be žinios ar ištremtas, o kitas kalėjo) buvo nepilnamečiai; ^da5f03233708057af5c1316d
+3) politinių kalinių vaikai (įvaikiai), jeigu jie abiejų tėvų kalinimo metu (taip pat jeigu vienas tėvų (įtėvių) buvo miręs, dingęs be žinios ar ištremtas, o kitas kalėjo) buvo nepilnamečiai; ^s-a28948f80e530128452d700b
 
 
-4) nepilnamečiai vaikai, kurie Antrojo pasaulinio karo metu ar vėliau be tėvų pasitraukė iš Vokietijos Rytprūsių krašto karo veiksmų zonos į Lietuvos teritoriją ir šiuo metu yra Lietuvos Respublikos piliečiai; ^e76e174166c2ee69eee2d713
+4) nepilnamečiai vaikai, kurie Antrojo pasaulinio karo metu ar vėliau be tėvų pasitraukė iš Vokietijos Rytprūsių krašto karo veiksmų zonos į Lietuvos teritoriją ir šiuo metu yra Lietuvos Respublikos piliečiai; ^s-27d30a9f0afccff5cf7721fc
 
 
-5) nepilnamečiai vaikai, kurių abu tėvai (įtėviai) buvo nužudyti represinių, baudžiamųjų akcijų ar okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų ar partizaninio karo aplinkybių nulemtų veiksmų metu arba įkalinimo metu mirė. ^b8222fbed189c86159acafba
+5) nepilnamečiai vaikai, kurių abu tėvai (įtėviai) buvo nužudyti represinių, baudžiamųjų akcijų ar okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų ar partizaninio karo aplinkybių nulemtų veiksmų metu arba įkalinimo metu mirė. ^s-e9edf7c0a234eb24e453867f
 
 
-2. [[#^6b7447d2bba3953586ace6d6|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – buvusio beglobio vaiko teisinis statusas. ^6ffd2241869d12c07ef71173
-
-
-
-### 8 straipsnis. Įstatymo taikymas
-
-
-1. Šis įstatymas taikomas asmenims, kurie 1939–1990 metų okupaciniais laikotarpiais buvo Lietuvai šiuo metu priklausančių teritorijų nuolatiniai gyventojai. ^444534813a09915123179ade
-
-
-2. Asmenims, kurie nukentėjo nuo Sovietų Sąjungos ir nacistinės Vokietijos represinių režimų, neatsižvelgiant į jų pilietybę ir gyvenamąją vietą represavimo ar žalos padarymo metu, jeigu šiuo metu jie yra Lietuvos Respublikos piliečiai, yra pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas. ^ae166c421a702c98032bc6b8
-
-
-3. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinis statusas nepripažįstamas asmenims: ^c7c331afca99c6b1553c60e1
-
-
-1) vykdžiusiems genocido nusikaltimus žmonijai ir žmoniškumui ar karo nusikaltimus; ^46db1e1a4f597a4b26b8cf4a
-
-
-2) Sovietų Sąjungos ir nacistinės Vokietijos represinių struktūrų kadriniams darbuotojams, šių struktūrų agentams ir informatoriams bei nacionalsocialistų ir komunistų partijų vadovaujantiems darbuotojams, taip pat organizacijų ar struktūrų, veikusių prieš Lietuvos nepriklausomybę ir teritorijos vientisumą bei jos gyventojus, nariams. Komunistų partijos vadovaujantiems darbuotojams yra priskiriami LKP CK sekretoriai, padalinių vadovai (iki skyrių instruktorių), rajonų komitetų sekretoriai, padalinių vadovai ir instruktoriai, įmonių ir organizacijų etatiniai partijos sekretoriai. ^f1a56c8e2251b983ae85a183
-
-
-4. [[#^c7c331afca99c6b1553c60e1|Šio straipsnio 3 dalies]] nuostata dėl nukentėjusio asmens teisinio statuso nepripažinimo asmenims, išvardytiems [[#^f1a56c8e2251b983ae85a183|šio straipsnio 3 dalies 2 punkte]], netaikoma, jeigu jie tuo metu bendradarbiavo su pasipriešinimo (rezistencijos) organizacijomis ar struktūromis ir vykdė jų specialias užduotis. ^fa16f962cb7c1b0566774219
+2. [[#^s-5ad161d34b7421e273d676f1|Šio straipsnio 1 dalyje]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – buvusio beglobio vaiko teisinis statusas. ^s-cba0101bfabd298f9a55ffc0
 
 
 
-### 9 straipsnis. Baigiamosios nuostatos
+### 8 straipsnis. Įstatymo taikymas ^s-cf7d5335d134aeb21d323c2d
 
 
-1. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, socialinės rūpybos ir valstybės paramos bei kompensacijų ir lengvatų skyrimo tvarką nustato įstatymai. ^d35a9c99817ad805b20339bb
+1. Šis įstatymas taikomas asmenims, kurie 1939–1990 metų okupaciniais laikotarpiais buvo Lietuvai šiuo metu priklausančių teritorijų nuolatiniai gyventojai. ^s-a88fffd1573da9e96be82af2
 
 
-2. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinį statusą pripažįsta, pažymėjimus išduoda bei jų apskaitą tvarko Vyriausybės nustatyta tvarka Lietuvos gyventojų genocido ir rezistencijos tyrimo centras. Sprendimas dėl statuso pripažinimo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo prašymo padavimo. Lietuvos gyventojų genocido ir rezistencijos tyrimo centro sprendimą dėl nukentėjusio asmens statuso pripažinimo ar nepripažinimo asmuo gali apskųsti administraciniam teismui per 30 dienų nuo pranešimo gavimo.“ ^9742875333673df22161a09b
+2. Asmenims, kurie nukentėjo nuo Sovietų Sąjungos ir nacistinės Vokietijos represinių režimų, neatsižvelgiant į jų pilietybę ir gyvenamąją vietą represavimo ar žalos padarymo metu, jeigu šiuo metu jie yra Lietuvos Respublikos piliečiai, yra pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas. ^s-359378f13c51c627ae2d41b0
+
+
+3. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinis statusas nepripažįstamas asmenims: ^s-2aeb7dd7d2e38d8159163893
+
+
+1) vykdžiusiems genocido nusikaltimus žmonijai ir žmoniškumui ar karo nusikaltimus; ^s-23d1b5c91ca56325c5b3b407
+
+
+2) Sovietų Sąjungos ir nacistinės Vokietijos represinių struktūrų kadriniams darbuotojams, šių struktūrų agentams ir informatoriams bei nacionalsocialistų ir komunistų partijų vadovaujantiems darbuotojams, taip pat organizacijų ar struktūrų, veikusių prieš Lietuvos nepriklausomybę ir teritorijos vientisumą bei jos gyventojus, nariams. Komunistų partijos vadovaujantiems darbuotojams yra priskiriami LKP CK sekretoriai, padalinių vadovai (iki skyrių instruktorių), rajonų komitetų sekretoriai, padalinių vadovai ir instruktoriai, įmonių ir organizacijų etatiniai partijos sekretoriai. ^s-ec3f5afc5db52a5199d9962c
+
+
+4. [[#^s-2aeb7dd7d2e38d8159163893|Šio straipsnio 3 dalies]] nuostata dėl nukentėjusio asmens teisinio statuso nepripažinimo asmenims, išvardytiems [[#^s-ec3f5afc5db52a5199d9962c|šio straipsnio 3 dalies 2 punkte]], netaikoma, jeigu jie tuo metu bendradarbiavo su pasipriešinimo (rezistencijos) organizacijomis ar struktūromis ir vykdė jų specialias užduotis. ^s-921f4e48ed8d5f7a8e9f4bab
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 9 straipsnis. Baigiamosios nuostatos ^s-e425b9099da2784931b72ac3
+
+
+1. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, socialinės rūpybos ir valstybės paramos bei kompensacijų ir lengvatų skyrimo tvarką nustato įstatymai. ^s-ba67e7fc735d0f723800bdba
+
+
+2. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinį statusą pripažįsta, pažymėjimus išduoda bei jų apskaitą tvarko Vyriausybės nustatyta tvarka Lietuvos gyventojų genocido ir rezistencijos tyrimo centras. Sprendimas dėl statuso pripažinimo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo prašymo padavimo. Lietuvos gyventojų genocido ir rezistencijos tyrimo centro sprendimą dėl nukentėjusio asmens statuso pripažinimo ar nepripažinimo asmuo gali apskųsti administraciniam teismui per 30 dienų nuo pranešimo gavimo.“ ^s-eddce9e37ed0473e8e3a76c6
+
+
+
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-97392ae8b066be3166ba8877
 
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.

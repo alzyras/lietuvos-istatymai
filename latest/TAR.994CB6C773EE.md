@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.994CB6C773EE"
 pavadinimas: "Lietuvos Respublikos žuvininkystės įstatymo 4, 7, 9 ir 22 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žuvininkystės įstatymo 4, 7, 9 ir 22 straipsnių pakeitimo įstatymas"
+  - "žuvininkystės įstatymo 4, 7, 9 ir 22 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-04"
 latest_path: "latest/TAR.994CB6C773EE.md"
 latest_sha256: "8f71e91f30c0f21111fd0e8b83f3684e38ada6113013734de7851aa4f5896b9f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.994CB6C773EE]]"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymo 4, 7, 9 ir 22 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.994CB6C773EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.994CB6C773EE
+- Ryšiai: [[Ryšiai/TAR.994CB6C773EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-be2ea2d43124a0c9827341a2
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -45,39 +50,39 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 7 straipsnio 2 ir 5 dalių pakeitimas
+### 2 straipsnis. 7 straipsnio 2 ir 5 dalių pakeitimas ^s-1a49f4483767bf70de010ed9
 
 
-1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^211e0d45b5a402bc2327567d
+1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^s-ada9de1a4ca7414fe78fb247
 
 
 „2. Verslinės žvejybos jūrų vandenyse leidimus išduoda ir panaikina Žemės ūkio ministerijos įgaliota institucija. Už verslinės žvejybos jūrų vandenyse leidimų išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava.“
 
 
-2. Pakeisti 7 straipsnio 5 dalį ir ją išdėstyti taip: ^e6350042c6d8c18a14d64174
+2. Pakeisti 7 straipsnio 5 dalį ir ją išdėstyti taip: ^s-e835f2127f5ae3f5ac3a4efc
 
 
 „5. Verslinės žvejybos vidaus vandenyse leidimus, išskyrus privačius žuvininkystės vandens telkinius, išduoda ir panaikina Aplinkos ministerijos įgaliotos institucijos. Už verslinės žvejybos vidaus vandenyse leidimų, išskyrus privačius žuvininkystės vandens telkinius, išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava.“
 
 
 
-### 3 straipsnis. 9 straipsnio 2 ir 3 dalių pakeitimas
+### 3 straipsnis. 9 straipsnio 2 ir 3 dalių pakeitimas ^s-54ff01685a7e46418fa30eb4
 
 
-1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip: ^7d3752128f08b00355e85a3b
+1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip: ^s-c00b588be31505fb53613b7f
 
 
 „2. Specialiosios žvejybos jūrų vandenyse leidimus pagal Žemės ūkio ministerijos nustatytą specialiosios žvejybos jūrų vandenyse tvarką išduoda ir panaikina Žemės ūkio ministerijos įgaliota institucija. Specialiosios žvejybos vidaus vandenyse leidimus pagal Aplinkos ministerijos nustatytą specialiosios žvejybos vidaus vandenyse tvarką išduoda ir panaikina Aplinkos ministerijos įgaliota institucija. Už specialiosios žvejybos jūrų vandenyse leidimo išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava. Už specialiosios žvejybos vidaus vandenyse leidimo išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava.“
 
 
-2. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^d681011413c2f627548ca4f2
+2. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^s-05151757023f99c3162eed76
 
 
 „3. Specialiosios žvejybos leidimai žuvininkystės tvenkiniuose, privačiuose žuvininkystės vandens telkiniuose arba telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, išduodami tik gavus šių vandens telkinių valdytojų arba žvejybos ploto naudotojų rašytinį sutikimą.“
 
 
 
-### 4 straipsnis. 22 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 22 straipsnio 2 dalies pakeitimas ^s-9ed43177f80f5d0ece8f4138
 
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:

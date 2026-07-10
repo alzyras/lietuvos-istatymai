@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AC6992EDE823"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-19"
 latest_path: "latest/TAR.AC6992EDE823.md"
 latest_sha256: "e6b5d8899a666961da43a5a6e877b2751b051be8b4aad58b6a1cecf31dbcf4a0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AC6992EDE823]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AC6992EDE823.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AC6992EDE823
+- Ryšiai: [[Ryšiai/TAR.AC6992EDE823|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 5 dalies pakeitimas ^s-1f73e4070bcecfd5988d26d4
 
 
 14 straipsnio 5 dalyje įrašyti naują pirmąjį sakinį ir šią dalį išdėstyti taip:

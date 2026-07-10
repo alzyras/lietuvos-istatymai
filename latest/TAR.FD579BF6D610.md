@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FD579BF6D610"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 4 priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 4 priedėlio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 4 priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.FD579BF6D610.md"
 latest_sha256: "0d12d1f0329a70644753767c2a38d89a93d1908658bdbae57120ca3c928bdcf9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FD579BF6D610]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 4 priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FD579BF6D610.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FD579BF6D610
+- Ryšiai: [[Ryšiai/TAR.FD579BF6D610|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 priedėlio pakeitimas
+### 1 straipsnis. 4 priedėlio pakeitimas ^s-937e51157cfb4012c54d0de3
 
 
 Pakeisti 4 priedėlio III skirsnio 1 punktą ir jį išdėstyti taip:
@@ -68,13 +73,13 @@ Pakeisti 4 priedėlio III skirsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e01d02260dce39e5cfca1c37
 
 
-1. Šis įstatymas įsigalioja 2014 m. sausio 1 d. ^33b7a479f7f3aba65d32cf27
+1. Šis įstatymas įsigalioja 2014 m. sausio 1 d. ^s-908b07fb2b71786ea5c51cfa
 
 
-2. Lietuvos Respublikos susisiekimo ministerija iki 2014 m. sausio 1 d. nustato atsiskaitymų tvarką ir suderina maršrutus. ^d06f7dbe11351b81764c9fbe
+2. Lietuvos Respublikos susisiekimo ministerija iki 2014 m. sausio 1 d. nustato atsiskaitymų tvarką ir suderina maršrutus. ^s-93867d8e73fc8104d3c4bdc5
 
 
 

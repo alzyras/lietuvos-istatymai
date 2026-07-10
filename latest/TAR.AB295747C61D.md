@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AB295747C61D"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "miškų įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.AB295747C61D.md"
 latest_sha256: "567a051955bd6f88d3d068119ae2c1d5ce98feaf2cac5110bd7d309d3de3c0de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AB295747C61D]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AB295747C61D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AB295747C61D
+- Ryšiai: [[Ryšiai/TAR.AB295747C61D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas ^s-7d7e641ee3b9a200f645d1b9
 
 
 Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-914a8bf7c8fa61dbc7f2e2ff
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

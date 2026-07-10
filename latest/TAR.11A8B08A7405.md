@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.11A8B08A7405"
 pavadinimas: "Lietuvos Respublikos suėmimo vykdymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos suėmimo vykdymo įstatymas"
+  - "suėmimo vykdymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-02-01"
 latest_path: "latest/TAR.11A8B08A7405.md"
 latest_sha256: "21439409e6219addc4469c635c8df9a177e39d7196cdc60c48abcf28718526e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.11A8B08A7405]]"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.11A8B08A7405.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405
+- Ryšiai: [[Ryšiai/TAR.11A8B08A7405|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,763 +42,763 @@ Vilnius
 
 
 
-## I SKYRIUS
+## I SKYRIUS ^s-05342c352bc004b922638b35
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-10717de916e1e353637b560a
 
 
-1. Šio įstatymo paskirtis – nustatyti kardomosios priemonės – suėmimo – vykdymo tvarką ir sąlygas, taip pat suimtųjų, laikomų laisvės atėmimo vietų įstaigoje, teisinę padėtį. ^727ac8a3a7ddb464496b29d0
+1. Šio įstatymo paskirtis – nustatyti kardomosios priemonės – suėmimo – vykdymo tvarką ir sąlygas, taip pat suimtųjų, laikomų laisvės atėmimo vietų įstaigoje, teisinę padėtį. ^s-f4c5c0099ba63465b73b830a
 
 
-2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede. ^8417bce2afd70fd6c24e343d
+2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede. ^s-c5538588fe14458d89fb4c61
 
 
 
-### 2 straipsnis. Suėmimo vykdymo tvarkos ir suimtųjų laikymo sąlygų užtikrinimas
+### 2 straipsnis. Suėmimo vykdymo tvarkos ir suimtųjų laikymo sąlygų užtikrinimas ^s-e1d7c64a47f98c7e315b633f
 
 
 Laisvės atėmimo vietų įstaiga, užtikrindama suėmimo vykdymo tvarką ir tinkamas suimtųjų laikymo laisvės atėmimo vietų įstaigoje sąlygas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Lietuvos Respublikos ir Europos Sąjungos teisės aktais.
 
 
 
-### 3 straipsnis. Įstatymų taikymas vykdant suėmimą
+### 3 straipsnis. Įstatymų taikymas vykdant suėmimą ^s-cca5cec897ae7fa1cba5b514
 
 
-1. Suėmimas vykdomas pagal tuo metu galiojančius Lietuvos Respublikos įstatymus. ^97363804c5b93eba4dbe7691
+1. Suėmimas vykdomas pagal tuo metu galiojančius Lietuvos Respublikos įstatymus. ^s-dd3150651cdc18696233e25a
 
 
-2. Suėmimo vykdymą reglamentuojančių Lietuvos Respublikos įstatymų kolizijos atveju taikomas palankesnis suimtojo teisinę padėtį nustatantis įstatymas. ^2ceca23465f6e29a31f24120
+2. Suėmimo vykdymą reglamentuojančių Lietuvos Respublikos įstatymų kolizijos atveju taikomas palankesnis suimtojo teisinę padėtį nustatantis įstatymas. ^s-ad682b1ab48e0798d39f46bf
 
 
-3. Jeigu Lietuvos Respublikos tarptautinėje sutartyje nustatytos kitokios taisyklės negu šiame įstatyme, taikomos tarptautinės sutarties taisyklės. ^0f548bc44aa09904355ce19b
-
-
-
-### 4 straipsnis. Bendrosios suimtųjų teisinės padėties nuostatos
-
-
-1. Lietuvos Respublikos piliečiai, kuriems paskirtas suėmimas, turi visas Lietuvos Respublikos piliečiams įstatymų nustatytas teises, laisves ir pareigas su apribojimais, kuriuos nustato Lietuvos Respublikos baudžiamojo proceso kodeksas, šis ir kiti tokius apribojimus nustatantys įstatymai. ^e37f1e9d11e67ced76f49768
-
-
-2. Užsieniečių, kuriems paskirtas suėmimas, teisinę padėtį nustato Lietuvos Respublikos įstatymai, reglamentuojantys šių asmenų teises, laisves ir pareigas jų buvimo Lietuvos Respublikoje metu, Baudžiamojo proceso kodeksas, šis ir kiti suimtųjų užsieniečių teisinę padėtį reglamentuojantys įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys. ^6b05c0aecfdf64599a5e4baa
-
-
-3. Vykdant suėmimą, draudžiama žmogų kankinti, žiauriai su juo elgtis arba žeminti jo orumą. Su suimtuoju net ir jo sutikimu draudžiami medicinos, biologiniai ir kitokie mokslo bandymai. Draudžiama, išskyrus Lietuvos Respublikos teisės aktuose numatytus atvejus, filmuoti ar fotografuoti suimtąjį be išankstinio jo sutikimo. ^a59e45c29859145648aeeaf3
-
-
-4. Suimtieji iki jų pasiuntimo į laisvės atėmimo vietų įstaigą gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant laisvės atėmimo vietų įstaigoje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš laisvės atėmimo vietų įstaigos gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip septynioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant laisvės atėmimo vietų įstaigoje arba dėl suimtųjų dalyvavimo nagrinėjant bylą teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems suimtiesiems taikomos šio įstatymo, išskyrus [[#^f2cf75800ccaaec4fb7f7eab|13 straipsnio 3 dalies 2 punktą]], 5 ir 6 dalis, [[#14 straipsnis. Suimtųjų teisė paskambinti|14 straipsnį]], [[#15 straipsnis. Suimtųjų teisė laisvės atėmimo vietų įstaigoje turėti asmeninių daiktų, šių daiktų įgijimo būdai ir naudojimosi jais reikalavimai|15 straipsnio]] 2 ir 5 dalis bei 6 dalies 1 ir 2 punktus, 16, 21, 22 ir [[#23 straipsnis. Socialinis darbas su suimtaisiais|23 straipsnius]], nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina Lietuvos policijos generalinis komisaras. ^b38248a043b266ba0f7ea521
+3. Jeigu Lietuvos Respublikos tarptautinėje sutartyje nustatytos kitokios taisyklės negu šiame įstatyme, taikomos tarptautinės sutarties taisyklės. ^s-53042c2b379f4b66aea23ca6
 
 
 
-## II SKYRIUS
+### 4 straipsnis. Bendrosios suimtųjų teisinės padėties nuostatos ^s-3229b19437f3e97ccbcb220c
+
+
+1. Lietuvos Respublikos piliečiai, kuriems paskirtas suėmimas, turi visas Lietuvos Respublikos piliečiams įstatymų nustatytas teises, laisves ir pareigas su apribojimais, kuriuos nustato [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksas]], šis ir kiti tokius apribojimus nustatantys įstatymai. ^s-8b93fd56b27db99bcad9c95e
+
+
+2. Užsieniečių, kuriems paskirtas suėmimas, teisinę padėtį nustato Lietuvos Respublikos įstatymai, reglamentuojantys šių asmenų teises, laisves ir pareigas jų buvimo Lietuvos Respublikoje metu, [[latest/TAR.EC588C321777|Baudžiamojo proceso kodeksas]], šis ir kiti suimtųjų užsieniečių teisinę padėtį reglamentuojantys įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys. ^s-9b68d640446f9b7150c76533
+
+
+3. Vykdant suėmimą, draudžiama žmogų kankinti, žiauriai su juo elgtis arba žeminti jo orumą. Su suimtuoju net ir jo sutikimu draudžiami medicinos, biologiniai ir kitokie mokslo bandymai. Draudžiama, išskyrus Lietuvos Respublikos teisės aktuose numatytus atvejus, filmuoti ar fotografuoti suimtąjį be išankstinio jo sutikimo. ^s-e37f83561b2b1b53e728994e
+
+
+4. Suimtieji iki jų pasiuntimo į laisvės atėmimo vietų įstaigą gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant laisvės atėmimo vietų įstaigoje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš laisvės atėmimo vietų įstaigos gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip septynioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant laisvės atėmimo vietų įstaigoje arba dėl suimtųjų dalyvavimo nagrinėjant bylą teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems suimtiesiems taikomos šio įstatymo, išskyrus [[#^s-7cbaf18c56ae2fb8399a8c72|13 straipsnio 3 dalies 2 punktą]], 5 ir 6 dalis, [[#^s-6a4b1a97108b254477e029c8|14 straipsnį]], [[#^s-0db220607a4f1a3e5a7ae1ce|15 straipsnio]] 2 ir 5 dalis bei 6 dalies 1 ir 2 punktus, 16, 21, 22 ir [[#^s-45c6a7d921543662cc174a52|23 straipsnius]], nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina Lietuvos policijos generalinis komisaras. ^s-d8c93c25a11bad318793f30d
+
+
+
+## II SKYRIUS ^s-6e505614bfae15f8888759a3
 ASMENŲ SUĖMIMAS IR KONVOJAVIMAS Į LAISVĖS ATĖMIMO VIETŲ ĮSTAIGĄ
 
 
 
-### 5 straipsnis. Asmenų suėmimo tvarka
+### 5 straipsnis. Asmenų suėmimo tvarka ^s-df7436614a323db4c1b63c77
 
 
-1. Asmenis, kuriems paskirtas suėmimas, išskyrus arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes atliekančius nuteistuosius, suima ikiteisminio tyrimo ar kiti teisėsaugos institucijų pareigūnai. ^b414b3b77c8c90893bb57c25
+1. Asmenis, kuriems paskirtas suėmimas, išskyrus arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes atliekančius nuteistuosius, suima ikiteisminio tyrimo ar kiti teisėsaugos institucijų pareigūnai. ^s-47f1bf3e76c74720c1d2b45b
 
 
-2. Suimant gali būti daroma asmens krata. Asmens krata daroma Baudžiamojo proceso kodekso nustatyta tvarka. ^0392af1610f882524bf85338
+2. Suimant gali būti daroma asmens krata. Asmens krata daroma [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nustatyta tvarka. ^s-1e9b79fac544c20830a21849
 
 
-3. Nuteistasis, atliekantis arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, gavus ikiteisminio tyrimo teisėjo ar teismo nutartį skirti jam suėmimą, nedelsiant izoliuojamas nuo kitų nuteistųjų. ^ed260ae8365bb2406f441b9d
-
-
-
-### 6 straipsnis. Suimtųjų priėmimo į laisvės atėmimo vietų įstaigą pagrindai ir tvarka
-
-
-1. Suimtieji į laisvės atėmimo vietų įstaigą priimami, kai laisvės atėmimo vietų įstaigoje gaunamas: ^2b58e1e85242b91d54139cc1
-
-
-1) ikiteisminio tyrimo teisėjo ar teismo nutartis (nuosprendis) skirti suėmimą arba ^c32fe3cec612a1b5e8042e64
-
-
-2) Baudžiamojo proceso kodekso 77 straipsnyje arba Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nustatyta tvarka priimtas Lietuvos Respublikos generalinės prokuratūros prokuroro sprendimas dėl suimto ar su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perėmimo į Lietuvos Respubliką, arba Lietuvos Respublikos generalinės prokuratūros išduotas ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos pripažintas Europos tyrimo orderis dėl suimto ar su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perdavimo į Lietuvos Respubliką. ^bdc61c1ca1f73d34c2aa610b
-
-
-2. Suimtuosius į laisvės atėmimo vietų įstaigą ir iš jos konvojuoja konvojavimo teisę turinčios institucijos. ^6ea49a69cf654fdf9ca0c5b5
-
-
-3. Į laisvės atėmimo vietų įstaigą atvykusiems suimtiesiems daroma asmens krata, jų turimi daiktai patikrinami. Daryti asmens kratą ir jos metu dalyvauti gali tik tos pačios lyties pareigūnai. ^115f33012e35800719b3ebdc
-
-
-4. Į laisvės atėmimo vietų įstaigą atvykę suimtieji ne vėliau kaip kitą dieną pasirašytinai supažindinami su suėmimo vykdymo tvarka, jų teisėmis, pareigomis ir draudimais. Šią informaciją laisvės atėmimo vietų įstaiga pateikia lietuvių kalba arba suimtojo gimtąja kalba, arba ta kalba, kurią suimtasis supranta. Teisingumo ministro nustatyta tvarka laisvės atėmimo vietų įstaigoje turi būti skelbiamos suimtųjų teisės, pareigos, jiems taikomi draudimai ir kita su suėmimo vykdymu susijusi aktuali informacija, taip pat suimtųjų dienotvarkė. ^f5f52f74d4bc06b2cc7baeb7
-
-
-5. Apie suimtojo atvykimą į laisvės atėmimo vietų įstaigą ne vėliau kaip kitą dieną suimtojo sutikimu pranešama jo nurodytam asmeniui. ^1f7d435b4793a8884d3947b3
+3. Nuteistasis, atliekantis arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, gavus ikiteisminio tyrimo teisėjo ar teismo nutartį skirti jam suėmimą, nedelsiant izoliuojamas nuo kitų nuteistųjų. ^s-b9657591bef88bf182f1220a
 
 
 
-## III SKYRIUS
+### 6 straipsnis. Suimtųjų priėmimo į laisvės atėmimo vietų įstaigą pagrindai ir tvarka ^s-b7d2c24633a9fd693349495b
+
+
+1. Suimtieji į laisvės atėmimo vietų įstaigą priimami, kai laisvės atėmimo vietų įstaigoje gaunamas: ^s-b095a39ca126ac83d6c4c510
+
+
+1) ikiteisminio tyrimo teisėjo ar teismo nutartis (nuosprendis) skirti suėmimą arba ^s-e247fccb6fd76b9cb5df8219
+
+
+2) [[latest/TAR.EC588C321777#^s-47686804a3ee33809c134138|Baudžiamojo proceso kodekso 77 straipsnyje]] arba Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nustatyta tvarka priimtas Lietuvos Respublikos generalinės prokuratūros prokuroro sprendimas dėl suimto ar su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perėmimo į Lietuvos Respubliką, arba Lietuvos Respublikos generalinės prokuratūros išduotas ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos pripažintas Europos tyrimo orderis dėl suimto ar su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perdavimo į Lietuvos Respubliką. ^s-1d8cb12a420c65862939265b
+
+
+2. Suimtuosius į laisvės atėmimo vietų įstaigą ir iš jos konvojuoja konvojavimo teisę turinčios institucijos. ^s-46bfc9abf9f4de20faeb24a4
+
+
+3. Į laisvės atėmimo vietų įstaigą atvykusiems suimtiesiems daroma asmens krata, jų turimi daiktai patikrinami. Daryti asmens kratą ir jos metu dalyvauti gali tik tos pačios lyties pareigūnai. ^s-bb574c4ee770335eda60dba4
+
+
+4. Į laisvės atėmimo vietų įstaigą atvykę suimtieji ne vėliau kaip kitą dieną pasirašytinai supažindinami su suėmimo vykdymo tvarka, jų teisėmis, pareigomis ir draudimais. Šią informaciją laisvės atėmimo vietų įstaiga pateikia lietuvių kalba arba suimtojo gimtąja kalba, arba ta kalba, kurią suimtasis supranta. Teisingumo ministro nustatyta tvarka laisvės atėmimo vietų įstaigoje turi būti skelbiamos suimtųjų teisės, pareigos, jiems taikomi draudimai ir kita su suėmimo vykdymu susijusi aktuali informacija, taip pat suimtųjų dienotvarkė. ^s-f88ed15bab3c0d0148a58e4a
+
+
+5. Apie suimtojo atvykimą į laisvės atėmimo vietų įstaigą ne vėliau kaip kitą dieną suimtojo sutikimu pranešama jo nurodytam asmeniui. ^s-cad7fe9d2a676edbcf944332
+
+
+
+## III SKYRIUS ^s-f3848ba4ff8785df764a3487
 SUĖMIMO VYKDYMO TVARKA IR SUIMTŲJŲ LAIKYMO SĄLYGOS
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-ee17df6648204324fbc8856e
 SUIMTŲJŲ TEISĖS, PAREIGOS IR JIEMS TAIKOMI DRAUDIMAI
 
 
 
-### 7 straipsnis. Suimtųjų teisė gauti teisinę pagalbą
+### 7 straipsnis. Suimtųjų teisė gauti teisinę pagalbą ^s-68865a7695c9f5e226f852bb
 
 
-1. Suimtieji turi teisę teisingumo ministro nustatyta tvarka nekliudomai susitikti, susirašinėti su savo gynėju ir jam skambinti. Susitikimų ir skambinimo kartų skaičius ir trukmė, laiškų kiekis neribojami. ^5562cae6a81605ce82ccb204
+1. Suimtieji turi teisę teisingumo ministro nustatyta tvarka nekliudomai susitikti, susirašinėti su savo gynėju ir jam skambinti. Susitikimų ir skambinimo kartų skaičius ir trukmė, laiškų kiekis neribojami. ^s-2153719224d832b1e574b08e
 
 
-2. Suimtųjų bendravimo su savo gynėju metu turi būti užtikrinamas suimtojo ir jo gynėjo bendravimo konfidencialumas. ^829127144ba2436c04cef381
+2. Suimtųjų bendravimo su savo gynėju metu turi būti užtikrinamas suimtojo ir jo gynėjo bendravimo konfidencialumas. ^s-7ce518d240dcd1f731ffd6ea
 
 
-3. Jeigu suimtasis pageidauja paskambinti gynėjui ar susirašinėti su savo gynėju, bet asmeninėje sąskaitoje neturi pinigų skambinimo išlaidoms apmokėti, vokams, pašto ženklams, rašymo priemonėms ir popieriui įsigyti, suimtojo prašymu laisvės atėmimo vietų įstaiga iš šios įstaigos lėšų sudaro sąlygas skambinti gynėjui ar aprūpina susirašinėti su gynėju būtinomis priemonėmis arba sudaro sąlygas į gynėją kreiptis elektroninių ryšių priemonėmis. ^f9bcb5601bbbccfdf38c5d08
+3. Jeigu suimtasis pageidauja paskambinti gynėjui ar susirašinėti su savo gynėju, bet asmeninėje sąskaitoje neturi pinigų skambinimo išlaidoms apmokėti, vokams, pašto ženklams, rašymo priemonėms ir popieriui įsigyti, suimtojo prašymu laisvės atėmimo vietų įstaiga iš šios įstaigos lėšų sudaro sąlygas skambinti gynėjui ar aprūpina susirašinėti su gynėju būtinomis priemonėmis arba sudaro sąlygas į gynėją kreiptis elektroninių ryšių priemonėmis. ^s-39953d6ca2771e366736d752
 
 
-4. [[#^829127144ba2436c04cef381|Šio straipsnio 2 dalies]] nuostatos mutatis mutandis taikomos ir tais atvejais, kai laisvės atėmimo vietų įstaigoje suimtiesiems teikiamos notarinės ir mediacijos paslaugos. ^39410b7246ed9065694efdb0
+4. [[#^s-7ce518d240dcd1f731ffd6ea|Šio straipsnio 2 dalies]] nuostatos mutatis mutandis taikomos ir tais atvejais, kai laisvės atėmimo vietų įstaigoje suimtiesiems teikiamos notarinės ir mediacijos paslaugos. ^s-468ded71185319b76d72e216
 
 
 
-### 8 straipsnis. Suimtųjų teisė susirašinėti
+### 8 straipsnis. Suimtųjų teisė susirašinėti ^s-da7e77ab4ef51a022d59bccc
 
 
-1. Suimtieji turi teisę siųsti ir gauti neribotą kiekį laiškų. ^efbe8627163dccb81f7118f9
+1. Suimtieji turi teisę siųsti ir gauti neribotą kiekį laiškų. ^s-0f185c3ae50e43777396fe42
 
 
-2. Suimtiesiems draudžiama siųsti anoniminius ar kolektyvinius skundus valstybės ir savivaldybių institucijoms. Be to, draudžiama kreiptis į valstybės ir savivaldybių institucijas su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais kitų asmenų vardu. ^2cdfb9eee3bbcf54ed76e317
+2. Suimtiesiems draudžiama siųsti anoniminius ar kolektyvinius skundus valstybės ir savivaldybių institucijoms. Be to, draudžiama kreiptis į valstybės ir savivaldybių institucijas su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais kitų asmenų vardu. ^s-010f6d8f84efb368d91d1013
 
 
-3. Laiškų siuntimo išlaidas apmoka patys suimtieji. ^39f1c373cd2c4f1a841cfdf3
+3. Laiškų siuntimo išlaidas apmoka patys suimtieji. ^s-a9fc56bc4991b1dd7a5ad36f
 
 
-4. Suimtųjų gaunami ir siunčiami laiškai (išskyrus suimtųjų susirašinėjimą su savo gynėju, nusikalstamą veiką tiriančiu ikiteisminio tyrimo pareigūnu ar prokuroru, teismu, kurio žinioje yra byla, kitomis valstybės ir savivaldybių institucijomis ir tarptautinėmis organizacijomis, kurių jurisdikciją ar kompetenciją priimti asmenų, kuriems suėmimas vykdomas Lietuvoje, pareiškimus yra pripažinusi Lietuvos Respublika) ikiteisminio tyrimo teisėjo ar teismo nutartimi gali būti tikrinami, kad būtų užkirstas kelias nusikalstamoms veikoms ar kitiems teisės pažeidimams arba apsaugotos kitų asmenų teisės ir laisvės, arba laikinai (iki trijų mėnesių) apribotas laiškų išsiuntimas ir įteikimas. Ikiteisminio tyrimo teisėjo ar teismo nutartyje turi būti nurodomi laiškų tikrinimo arba išsiuntimo ir įteikimo apribojimo pagrindai, trukmė, būdas, asmenys, kurių siunčiami ar gaunami laiškai bus tikrinami arba kuriems leidžiama siųsti bei iš jų gauti laiškus, ir kitos aplinkybės, dėl kurių laiškus būtina tikrinti arba apriboti jų išsiuntimą ir įteikimą. Laiškų išsiuntimo ir įteikimo apribojimo terminas gali būti pratęstas, tačiau kiekvienu atveju ne ilgesniam negu trijų mėnesių laikotarpiui. Laiškų tikrinimas nutraukiamas arba jų išsiuntimas ir įteikimas atnaujinamas išnykus pagrindams, dėl kurių laiškai buvo tikrinami arba jų išsiuntimas ir įteikimas buvo apribotas. ^30d881ac8fb5f1582b47c6e9
+4. Suimtųjų gaunami ir siunčiami laiškai (išskyrus suimtųjų susirašinėjimą su savo gynėju, nusikalstamą veiką tiriančiu ikiteisminio tyrimo pareigūnu ar prokuroru, teismu, kurio žinioje yra byla, kitomis valstybės ir savivaldybių institucijomis ir tarptautinėmis organizacijomis, kurių jurisdikciją ar kompetenciją priimti asmenų, kuriems suėmimas vykdomas Lietuvoje, pareiškimus yra pripažinusi Lietuvos Respublika) ikiteisminio tyrimo teisėjo ar teismo nutartimi gali būti tikrinami, kad būtų užkirstas kelias nusikalstamoms veikoms ar kitiems teisės pažeidimams arba apsaugotos kitų asmenų teisės ir laisvės, arba laikinai (iki trijų mėnesių) apribotas laiškų išsiuntimas ir įteikimas. Ikiteisminio tyrimo teisėjo ar teismo nutartyje turi būti nurodomi laiškų tikrinimo arba išsiuntimo ir įteikimo apribojimo pagrindai, trukmė, būdas, asmenys, kurių siunčiami ar gaunami laiškai bus tikrinami arba kuriems leidžiama siųsti bei iš jų gauti laiškus, ir kitos aplinkybės, dėl kurių laiškus būtina tikrinti arba apriboti jų išsiuntimą ir įteikimą. Laiškų išsiuntimo ir įteikimo apribojimo terminas gali būti pratęstas, tačiau kiekvienu atveju ne ilgesniam negu trijų mėnesių laikotarpiui. Laiškų tikrinimas nutraukiamas arba jų išsiuntimas ir įteikimas atnaujinamas išnykus pagrindams, dėl kurių laiškai buvo tikrinami arba jų išsiuntimas ir įteikimas buvo apribotas. ^s-e6177891149409f50a73904d
 Straipsnio dalies pakeitimai:
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 
 
 
-5. Jeigu suimtasis pageidauja kreiptis į nusikalstamą veiką tiriantį ikiteisminio tyrimo pareigūną ar prokurorą, teismą, kurio žinioje yra byla, kitas valstybės ir savivaldybių institucijas ir tarptautines organizacijas, kurių jurisdikciją ar kompetenciją priimti asmenų, kuriems suėmimas vykdomas Lietuvoje, pareiškimus yra pripažinusi Lietuvos Respublika, bet asmeninėje sąskaitoje neturi pinigų vokams, pašto ženklams, rašymo priemonėms ir popieriui įsigyti, šio suimtojo prašymu laisvės atėmimo vietų įstaiga iš šios įstaigos lėšų aprūpina jį susirašinėti su šioje dalyje nurodytais adresatais būtinomis priemonėmis arba sudaro sąlygas į šiuos adresatus kreiptis elektroninių ryšių priemonėmis. ^00ed84949ab85c6826eaefd4
+5. Jeigu suimtasis pageidauja kreiptis į nusikalstamą veiką tiriantį ikiteisminio tyrimo pareigūną ar prokurorą, teismą, kurio žinioje yra byla, kitas valstybės ir savivaldybių institucijas ir tarptautines organizacijas, kurių jurisdikciją ar kompetenciją priimti asmenų, kuriems suėmimas vykdomas Lietuvoje, pareiškimus yra pripažinusi Lietuvos Respublika, bet asmeninėje sąskaitoje neturi pinigų vokams, pašto ženklams, rašymo priemonėms ir popieriui įsigyti, šio suimtojo prašymu laisvės atėmimo vietų įstaiga iš šios įstaigos lėšų aprūpina jį susirašinėti su šioje dalyje nurodytais adresatais būtinomis priemonėmis arba sudaro sąlygas į šiuos adresatus kreiptis elektroninių ryšių priemonėmis. ^s-ec45e41aa766a0c0304733bc
 
 
 
-### 9 straipsnis. Suimtųjų teisė susitikti su žurnalistais
+### 9 straipsnis. Suimtųjų teisė susitikti su žurnalistais ^s-8513e0266a6d2a746b31b4ec
 
 
 Ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu suimtieji turi teisę susitikti su žurnalistais.
 
 
 
-### 10 straipsnis. Suimtųjų teisė sudaryti civilinius sandorius
+### 10 straipsnis. Suimtųjų teisė sudaryti civilinius sandorius ^s-c4df9c122b7e362cdf7bcf6b
 
 
-Suimtieji turi teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka disponuoti savo turtu, kuris yra ne laisvės atėmimo vietų įstaigoje, taip pat sudaryti sandorius, išskyrus tuos sandorius, kurių pobūdis nesuderinamas su šio įstatymo [[#20 straipsnis. Suimtųjų pareigos ir jiems taikomi draudimai|20 straipsnyje]] suimtiesiems nustatytais draudimais.
-
-
-
-### 11 straipsnis. Suimtųjų teisė sudaryti santuoką
-
-
-1. Suimtieji turi teisę Civilinio kodekso nustatyta tvarka sudaryti santuoką. ^e7da63daf36c24cc8e63b19c
-
-
-2. Apie suimtojo prašymą suteikti jam galimybę sudaryti santuoką laisvės atėmimo vietų įstaiga privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla. ^5df0c4dde00ccb0bc82db7c9
-
-
-3. Suimtojo santuoka sudaroma laisvės atėmimo vietų įstaigoje. ^22e135c6ac81b3ba9def3f1f
-
-
-4. Santuokos sudarymo tvarką nustato teisingumo ministras. ^2a0f21f4bfbbf687f90eab3b
+Suimtieji turi teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka disponuoti savo turtu, kuris yra ne laisvės atėmimo vietų įstaigoje, taip pat sudaryti sandorius, išskyrus tuos sandorius, kurių pobūdis nesuderinamas su šio įstatymo [[#^s-94f78f1c10665d7dec61e413|20 straipsnyje]] suimtiesiems nustatytais draudimais.
 
 
 
-### 12 straipsnis. Suimtųjų teisė atlikti religines apeigas
+### 11 straipsnis. Suimtųjų teisė sudaryti santuoką ^s-2f73642fea9cb449338ae2ec
 
 
-1. Suimtieji turi teisę laisvės atėmimo vietų įstaigos nustatytu laiku atlikti religines apeigas. ^54bb669f3ef777c6d15a39be
+1. Suimtieji turi teisę Civilinio kodekso nustatyta tvarka sudaryti santuoką. ^s-9409af36dffa149e2ada184f
 
 
-2. Dvasininkus religinėms apeigoms atlikti kviečia laisvės atėmimo vietų įstaiga. ^47ef0f6293b2e4ea87aa3fb1
+2. Apie suimtojo prašymą suteikti jam galimybę sudaryti santuoką laisvės atėmimo vietų įstaiga privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla. ^s-3e179a0924ae25b2173e47e3
 
 
-3. Laisvės atėmimo vietų įstaiga privalo užtikrinti, kad religinės apeigos netrukdytų kitų suimtųjų poilsiui. ^1876c9539bc2eb01dcc6c880
+3. Suimtojo santuoka sudaroma laisvės atėmimo vietų įstaigoje. ^s-738ff1660acedd76626fa22d
+
+
+4. Santuokos sudarymo tvarką nustato teisingumo ministras. ^s-fee8094915e8e69b762f0be5
 
 
 
-### 13 straipsnis. Suimtųjų teisė pasimatyti
+### 12 straipsnis. Suimtųjų teisė atlikti religines apeigas ^s-84afb6d1a01f6f13804a0b63
 
 
-1. Suimtieji turi teisę pasimatyti su kitais asmenimis, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas apriboti suimtojo teisę pasimatyti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo pasimatymas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo apriboti suimtojo teisę pasimatyti, šiam suimtajam ir laisvės atėmimo vietų įstaigai turi būti nurodoma šio draudimo trukmė, asmenys, su kuriais leidžiama pasimatyti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti. ^34dcd5a2d5b61bb6045d853f
+1. Suimtieji turi teisę laisvės atėmimo vietų įstaigos nustatytu laiku atlikti religines apeigas. ^s-6ab916acab5b1a2bab98a5f1
+
+
+2. Dvasininkus religinėms apeigoms atlikti kviečia laisvės atėmimo vietų įstaiga. ^s-82a67787aa40ea7a4fb8b3b5
+
+
+3. Laisvės atėmimo vietų įstaiga privalo užtikrinti, kad religinės apeigos netrukdytų kitų suimtųjų poilsiui. ^s-96a083d2bc9d580f20871ecd
+
+
+
+### 13 straipsnis. Suimtųjų teisė pasimatyti ^s-9717ca1bf991f7e0073aa068
+
+
+1. Suimtieji turi teisę pasimatyti su kitais asmenimis, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas apriboti suimtojo teisę pasimatyti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo pasimatymas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo apriboti suimtojo teisę pasimatyti, šiam suimtajam ir laisvės atėmimo vietų įstaigai turi būti nurodoma šio draudimo trukmė, asmenys, su kuriais leidžiama pasimatyti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti. ^s-4df2a0f29534aea6b363395f
 Straipsnio dalies pakeitimai:
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 
 
 
-2. Suimtieji turi teisę pasimatyti su kitais asmenimis ne dažniau kaip vieną kartą per dieną. Suimtųjų pasimatymai vyksta prižiūrint laisvės atėmimo vietų įstaigos atstovams arba neprižiūrint. Suimtieji pasirenka, kaip įgyvendins savo teisę pasimatyti. ^e057c85843e588d07e09fd1e
+2. Suimtieji turi teisę pasimatyti su kitais asmenimis ne dažniau kaip vieną kartą per dieną. Suimtųjų pasimatymai vyksta prižiūrint laisvės atėmimo vietų įstaigos atstovams arba neprižiūrint. Suimtieji pasirenka, kaip įgyvendins savo teisę pasimatyti. ^s-c8c4a1ad5edc8f99cad27410
 
 
-3. Prižiūrint laisvės atėmimo vietų įstaigos atstovams, suimtiesiems leidžiama pasimatyti šiais būdais: ^55b815e3dc84addb6d2d5192
+3. Prižiūrint laisvės atėmimo vietų įstaigos atstovams, suimtiesiems leidžiama pasimatyti šiais būdais: ^s-0b25a18d8114a32013113832
 
 
-1) nuotoliniu arba nekontaktiniu būdu – iki dviejų valandų; ^a7e80000db1e8813b1e4d933
+1) nuotoliniu arba nekontaktiniu būdu – iki dviejų valandų; ^s-5dfa2fd17f6e40b3ef47d69e
 
 
-2) kontaktiniu būdu – iki trijų valandų. ^f2cf75800ccaaec4fb7f7eab
+2) kontaktiniu būdu – iki trijų valandų. ^s-7cbaf18c56ae2fb8399a8c72
 
 
-4. [[#^f2cf75800ccaaec4fb7f7eab|Šio straipsnio 3 dalies 2 punkte]] nurodyto pasimatymo metu suimtajam leidžiama pasimatyti tik su sutuoktiniu arba sugyventiniu ir artimaisiais giminaičiais (toliau kartu – artimieji) ir ne dažniau kaip vieną kartą per mėnesį. ^6a5466cf9835b9daac5edfbf
+4. [[#^s-7cbaf18c56ae2fb8399a8c72|Šio straipsnio 3 dalies 2 punkte]] nurodyto pasimatymo metu suimtajam leidžiama pasimatyti tik su sutuoktiniu arba sugyventiniu ir artimaisiais giminaičiais (toliau kartu – artimieji) ir ne dažniau kaip vieną kartą per mėnesį. ^s-d44c27ca96f70e4dceb7f5dd
 
 
-5. Laisvės atėmimo vietų įstaigos atstovams neprižiūrint, suimtajam leidžiama pasimatyti tik su sutuoktiniu arba sugyventiniu. Toks pasimatymas vyksta specialiai įrengtose uždarose patalpose ne ilgiau kaip dvidešimt keturias valandas. Šį pasimatymą laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas gali suteikti drausminių nuobaudų neturinčiam suimtajam ne anksčiau kaip po dviejų savaičių nuo suimtojo atvykimo į laisvės atėmimo vietų įstaigą dienos, vėliau toks pasimatymas gali būti suteikiamas ne dažniau kaip vieną kartą per mėnesį. ^9e811c631eb6333ef8d62316
+5. Laisvės atėmimo vietų įstaigos atstovams neprižiūrint, suimtajam leidžiama pasimatyti tik su sutuoktiniu arba sugyventiniu. Toks pasimatymas vyksta specialiai įrengtose uždarose patalpose ne ilgiau kaip dvidešimt keturias valandas. Šį pasimatymą laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas gali suteikti drausminių nuobaudų neturinčiam suimtajam ne anksčiau kaip po dviejų savaičių nuo suimtojo atvykimo į laisvės atėmimo vietų įstaigą dienos, vėliau toks pasimatymas gali būti suteikiamas ne dažniau kaip vieną kartą per mėnesį. ^s-ca4c812372857de8605160a1
 
 
-6. [[#^9e811c631eb6333ef8d62316|Šio straipsnio 5 dalyje]] nurodyto pasimatymo metu suimtojo arba lankytojo pageidavimu teisingumo ministro nustatyta tvarka jiems nemokamai tiekiamas šio įstatymo [[#^1849879008b856c652ed8828|25 straipsnio 5 dalyje]] nurodytas maistas arba sudaromos sąlygos laisvės atėmimo vietų įstaigoje įsigyti maisto produktų. ^9ac2075075adec19ac01731c
+6. [[#^s-ca4c812372857de8605160a1|Šio straipsnio 5 dalyje]] nurodyto pasimatymo metu suimtojo arba lankytojo pageidavimu teisingumo ministro nustatyta tvarka jiems nemokamai tiekiamas šio įstatymo [[#^s-8fecd1857b56f0d790810a34|25 straipsnio 5 dalyje]] nurodytas maistas arba sudaromos sąlygos laisvės atėmimo vietų įstaigoje įsigyti maisto produktų. ^s-e113397b90817226b6866f55
 
 
-7. Pasimatymas, kurio metu pažeidžiama pasimatymų tvarka, nedelsiant nutraukiamas. Jeigu per šešis mėnesius nuo pasimatymų tvarkos pažeidimo dienos pakartotinai pažeidžiama pasimatymų tvarka arba jeigu už padarytą pasimatymų tvarkos pažeidimą suimtajam buvo paskirta drausminė nuobauda, kiti šio suimtojo pasimatymai vyksta tik nuotoliniu arba nekontaktiniu būdu, o pasimatymai kontaktiniu būdu arba neprižiūrint laisvės atėmimo vietų įstaigos atstovams vėl leidžiami praėjus trims mėnesiams nuo pasimatymų tvarkos pažeidimo dienos ir jeigu suimtasis neturi drausminių nuobaudų, paskirtų už padarytus pasimatymų tvarkos pažeidimus. ^22afd5c1507dc62b5cdd6ad0
+7. Pasimatymas, kurio metu pažeidžiama pasimatymų tvarka, nedelsiant nutraukiamas. Jeigu per šešis mėnesius nuo pasimatymų tvarkos pažeidimo dienos pakartotinai pažeidžiama pasimatymų tvarka arba jeigu už padarytą pasimatymų tvarkos pažeidimą suimtajam buvo paskirta drausminė nuobauda, kiti šio suimtojo pasimatymai vyksta tik nuotoliniu arba nekontaktiniu būdu, o pasimatymai kontaktiniu būdu arba neprižiūrint laisvės atėmimo vietų įstaigos atstovams vėl leidžiami praėjus trims mėnesiams nuo pasimatymų tvarkos pažeidimo dienos ir jeigu suimtasis neturi drausminių nuobaudų, paskirtų už padarytus pasimatymų tvarkos pažeidimus. ^s-8fbfff18de0f2158c8c89d3b
 
 
-8. Pasimatymų tvarką nustato teisingumo ministras. ^0bc960ece73273a093094499
+8. Pasimatymų tvarką nustato teisingumo ministras. ^s-345e984fab7405f63a6b68d7
 
 
-9. Sugyventinis yra Civilinio kodekso 3.229 straipsnyje nurodytas asmuo, artimieji giminaičiai – Civilinio kodekso 3.135 straipsnyje nurodyti asmenys. ^6cae5713b48b592dee153fcd
+9. Sugyventinis yra Civilinio kodekso 3.229 straipsnyje nurodytas asmuo, artimieji giminaičiai – Civilinio kodekso 3.135 straipsnyje nurodyti asmenys. ^s-d84f8df9162b12074cfde788
 
 
 
-### 14 straipsnis. Suimtųjų teisė paskambinti
+### 14 straipsnis. Suimtųjų teisė paskambinti ^s-6a4b1a97108b254477e029c8
 
 
-1. Suimtieji turi teisę paskambinti telefonu arba naudojantis internetine telefonija, jeigu nėra priimtas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas apriboti suimtojo teisę paskambinti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo skambinimas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, priima nurodymą apriboti suimtojo teisę paskambinti, šiam suimtajam ir laisvės atėmimo vietų įstaigai turi būti nurodoma šio apribojimo trukmė, asmenys, kuriems leidžiama paskambinti, ir kitos aplinkybės, dėl kurių apribojimą būtina taikyti. Šioje dalyje nurodyti suimtųjų teisės paskambinti apribojimai netaikomi suimtųjų skambinimui savo gynėjui. ^98c13a41d5dd84bdb0fcf74f
+1. Suimtieji turi teisę paskambinti telefonu arba naudojantis internetine telefonija, jeigu nėra priimtas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas apriboti suimtojo teisę paskambinti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo skambinimas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, priima nurodymą apriboti suimtojo teisę paskambinti, šiam suimtajam ir laisvės atėmimo vietų įstaigai turi būti nurodoma šio apribojimo trukmė, asmenys, kuriems leidžiama paskambinti, ir kitos aplinkybės, dėl kurių apribojimą būtina taikyti. Šioje dalyje nurodyti suimtųjų teisės paskambinti apribojimai netaikomi suimtųjų skambinimui savo gynėjui. ^s-98c8e7e7457b156b6760d70f
 Straipsnio dalies pakeitimai:
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 
 
 
-2. Suimtajam leidžiama paskambinti, jeigu jis gali apmokėti skambinimo išlaidas arba jas apmoka kitas abonentas. Paskambinus kalbėtis galima iki dvidešimt minučių. ^75440beb0bb9073c63833d3c
+2. Suimtajam leidžiama paskambinti, jeigu jis gali apmokėti skambinimo išlaidas arba jas apmoka kitas abonentas. Paskambinus kalbėtis galima iki dvidešimt minučių. ^s-17e2ea9f7df65672326457ae
 
 
-3. Pokalbis gali būti nutrauktas, jeigu suimtasis pažeidžia teisingumo ministro nustatytą skambinimo tvarką. ^8694cad9a594f9d1cdd76c9d
-
-
-
-### 15 straipsnis. Suimtųjų teisė laisvės atėmimo vietų įstaigoje turėti asmeninių daiktų, šių daiktų įgijimo būdai ir naudojimosi jais reikalavimai
-
-
-1. Suimtieji turi teisę laisvės atėmimo vietų įstaigoje turėti asmeninių daiktų. Šiuos daiktus suimtieji gali įsigyti (išskyrus suimtuosius, laikomus teritorinių policijos įstaigų areštinėse) arba gauti perduodamus. Suimtiesiems leidžiamų turėti asmeninių daiktų sąrašą, daiktų kiekį ir bendrą masę nustato teisingumo ministras. ^af9ad64bbc636ea14fc50277
-
-
-2. Suimtieji turi teisę prenumeruotis, o kiti asmenys turi teisę suimtiesiems prenumeruoti spaudos leidinius (išskyrus pornografinius leidinius ar leidinius, kuriuose propaguojamas smurtas arba žiaurumas). ^83d8371671f07c78a55e9f32
-
-
-3. Suimtieji turi teisę vieną kartą per tris mėnesius gauti perduodamų daiktų. Konkrečių daiktų, kurie suimtiesiems gali būti perduodami arba atsiunčiami paštu, sąrašą, perduodamų daiktų priėmimo ir įteikimo suimtiesiems tvarką nustato teisingumo ministras. Viena pašto siunta (vienu kartu perduodami daiktai) neturi sverti daugiau kaip penkiolika kilogramų. ^4d73c9f635869aaedca50d77
-
-
-4. Pas suimtuosius rasti daiktai, kurie nenurodyti [[#^af9ad64bbc636ea14fc50277|šio straipsnio 1 dalyje]] nurodytame sąraše, ar leidžiamą turėti daiktų kiekį arba bendrą leidžiamų turėti daiktų masę viršijantys daiktai paimami. Apie iš suimtojo, atvykusio į laisvės atėmimo vietų įstaigą, paimtus daiktus pranešama nusikalstamą veiką tiriančiam ikiteisminio tyrimo pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Jeigu šie daiktai nepridedami prie baudžiamosios bylos, pinigai įrašomi į suimtojo, iš kurio jie paimti, asmeninę sąskaitą, kiti iš suimtojo paimti daiktai atiduodami saugoti ar sunaikinti teisingumo ministro nustatyta tvarka. ^9709f4869f9a997159d83cfa
-
-
-5. Suimtieji, turintys teisę naudotis elektros prietaisais, sumoka už šių prietaisų sunaudotą elektros energiją. Suimtiesiems leidžiamų naudotis elektros prietaisų technines charakteristikas ir naudojimosi elektros prietaisais tvarką, taip pat šių prietaisų elektros energijos sąnaudų ir išlaidų už sunaudotą elektros energiją apskaičiavimo ir apmokėjimo taisykles nustato teisingumo ministras. ^a3ddec4b20adb133691b601e
-
-
-6. Elektros prietaisai iš suimtųjų paimami, jeigu: ^af89cdcc6498f63582322ee1
-
-
-1) suimtieji pažeidžia [[#^a3ddec4b20adb133691b601e|šio straipsnio 5 dalyje]] nurodytą naudojimosi elektros prietaisais tvarką, – iki šešių mėnesių; ^449e3ef9799861f271ac0501
-
-
-2) suimtieji įsiskolina už elektros prietaisų sunaudotą elektros energiją, – iki bus sumokėta skola; ^ea315b8c4712c902bf22f9ed
-
-
-3) suimtieji atlieka šio įstatymo [[#^51363b31bd8d5e54e68de010|29 straipsnio 3 punkte]] nustatytą drausminę nuobaudą. ^4528397854fbf5faf194fe0f
-
-
-7. [[#^af89cdcc6498f63582322ee1|Šio straipsnio 6 dalyje]] nurodytais atvejais paimti elektros prietaisai saugomi laisvės atėmimo vietų įstaigoje. Paimti elektros prietaisai suimtojo prašymu perduodami jų pasiimti į laisvės atėmimo vietų įstaigą atvykusiems suimtojo nurodytiems asmenims arba grąžinami suimtajam, kai jis vėl įgyja teisę naudotis elektros prietaisais arba perkeliamas atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, arba paleidžiamas iš laisvės atėmimo vietų įstaigos. ^342333f9b248d3d13944bfca
+3. Pokalbis gali būti nutrauktas, jeigu suimtasis pažeidžia teisingumo ministro nustatytą skambinimo tvarką. ^s-40cf4b6381d9cf768c47d0d6
 
 
 
-### 16 straipsnis. Suimtųjų teisė gauti ir siųsti pinigines perlaidas
+### 15 straipsnis. Suimtųjų teisė laisvės atėmimo vietų įstaigoje turėti asmeninių daiktų, šių daiktų įgijimo būdai ir naudojimosi jais reikalavimai ^s-0db220607a4f1a3e5a7ae1ce
 
 
-1. Suimtieji turi teisę gauti pinigines perlaidas ir siųsti jas artimiesiems, o laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimu – ir kitiems asmenims. ^69538fadcbd5f3d454f3a08d
+1. Suimtieji turi teisę laisvės atėmimo vietų įstaigoje turėti asmeninių daiktų. Šiuos daiktus suimtieji gali įsigyti (išskyrus suimtuosius, laikomus teritorinių policijos įstaigų areštinėse) arba gauti perduodamus. Suimtiesiems leidžiamų turėti asmeninių daiktų sąrašą, daiktų kiekį ir bendrą masę nustato teisingumo ministras. ^s-6373fbab34d98686c5e1573e
 
 
-2. Perlaidomis gauti pinigai įrašomi į suimtojo asmeninę sąskaitą. ^fa1e93c0a8c6e4309ea254fa
+2. Suimtieji turi teisę prenumeruotis, o kiti asmenys turi teisę suimtiesiems prenumeruoti spaudos leidinius (išskyrus pornografinius leidinius ar leidinius, kuriuose propaguojamas smurtas arba žiaurumas). ^s-5ad1ecdb5c22bec2375ab104
 
 
-3. Suimtiesiems atnešti grynieji pinigai laisvės atėmimo vietų įstaigoje nepriimami. ^b58219f355bb01008ad04008
+3. Suimtieji turi teisę vieną kartą per tris mėnesius gauti perduodamų daiktų. Konkrečių daiktų, kurie suimtiesiems gali būti perduodami arba atsiunčiami paštu, sąrašą, perduodamų daiktų priėmimo ir įteikimo suimtiesiems tvarką nustato teisingumo ministras. Viena pašto siunta (vienu kartu perduodami daiktai) neturi sverti daugiau kaip penkiolika kilogramų. ^s-9a2ea48c67d8202c6f7fb716
 
 
-
-### 17 straipsnis. Suimtųjų teisė pasivaikščioti gryname ore
-
-
-1. Suimtieji turi teisę kasdien ne mažiau kaip vieną valandą pasivaikščioti gryname ore. Nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, nėščioms moterims ir ligoniams pagal gydytojų išvadą suteikiama teisė pasivaikščioti ne mažiau kaip tris valandas per dieną. ^ec091eae91be328c2c4aab59
+4. Pas suimtuosius rasti daiktai, kurie nenurodyti [[#^s-6373fbab34d98686c5e1573e|šio straipsnio 1 dalyje]] nurodytame sąraše, ar leidžiamą turėti daiktų kiekį arba bendrą leidžiamų turėti daiktų masę viršijantys daiktai paimami. Apie iš suimtojo, atvykusio į laisvės atėmimo vietų įstaigą, paimtus daiktus pranešama nusikalstamą veiką tiriančiam ikiteisminio tyrimo pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Jeigu šie daiktai nepridedami prie baudžiamosios bylos, pinigai įrašomi į suimtojo, iš kurio jie paimti, asmeninę sąskaitą, kiti iš suimtojo paimti daiktai atiduodami saugoti ar sunaikinti teisingumo ministro nustatyta tvarka. ^s-fb512d7aa8e8e021d62a4c36
 
 
-2. Suimtųjų pasivaikščiojimai vyksta dienos metu, laikantis šio įstatymo [[#27 straipsnis. Suimtųjų laikymas atskirai|27 straipsnyje]] nustatytų reikalavimų. ^9b3cd3b0c9f5f405d8932ce5
+5. Suimtieji, turintys teisę naudotis elektros prietaisais, sumoka už šių prietaisų sunaudotą elektros energiją. Suimtiesiems leidžiamų naudotis elektros prietaisų technines charakteristikas ir naudojimosi elektros prietaisais tvarką, taip pat šių prietaisų elektros energijos sąnaudų ir išlaidų už sunaudotą elektros energiją apskaičiavimo ir apmokėjimo taisykles nustato teisingumo ministras. ^s-6880e6789d4618b16f3da21f
 
 
-3. Pasivaikščiojimas gali būti nutrauktas, jeigu suimtasis pažeidžia teisingumo ministro nustatytą pasivaikščiojimų tvarką arba pats prašo nutraukti pasivaikščiojimą. ^84133dbe30f159f79f7af531
+6. Elektros prietaisai iš suimtųjų paimami, jeigu: ^s-694a7cf82b105a1b9a043a70
 
 
-
-### 18 straipsnis. Suimtųjų teisė į trumpalaikę išvyką dėl svarbių priežasčių
-
-
-1. Suimtieji, gavę leidimą, turi teisę išvykti iš laisvės atėmimo vietų įstaigos Lietuvos Respublikos teritorijoje ne ilgiau kaip penkioms paroms dėl artimojo mirties ar gyvybei gresiančios sunkios ligos, kuri patvirtinta gydytojų išvada, dėl gaivalinės nelaimės, padariusios didelę turtinę žalą suimtajam ar jo artimiesiems, jeigu apie tai laisvės atėmimo vietų įstaigoje gauti kompetentingos institucijos dokumentai. ^ded46d91ec2cf38b0930c8e5
+1) suimtieji pažeidžia [[#^s-6880e6789d4618b16f3da21f|šio straipsnio 5 dalyje]] nurodytą naudojimosi elektros prietaisais tvarką, – iki šešių mėnesių; ^s-da591faba0a72ce27b8a53b1
 
 
-2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti iš laisvės atėmimo vietų įstaigos, suimtajam ir laisvės atėmimo vietų įstaigai turi būti pateikiamas motyvuotas sprendimas. Laikas, kurį suimtasis buvo išvykęs iš laisvės atėmimo vietų įstaigos, įskaitomas į suėmimo laiką. Suimtasis arba kiti jo nurodyti asmenys apmoka visas su suimtojo kelione ir palyda susijusias laisvės atėmimo vietų įstaigos patiriamas išlaidas. Šios išlaidos apskaičiuojamos teisingumo ministro nustatyta tvarka. ^ce544b8ff8a133e39e3c6330
+2) suimtieji įsiskolina už elektros prietaisų sunaudotą elektros energiją, – iki bus sumokėta skola; ^s-050ac5dff6b16a57e01d8edc
 
 
-3. Suimtuosius [[#^ded46d91ec2cf38b0930c8e5|šio straipsnio 1 dalyje]] numatytos išvykos metu lydi laisvės atėmimo vietų įstaigos pareigūnas arba pareigūnai. Pilnamečiams suimtiesiems šios išvykos metu gali būti uždedami antrankiai. ^41375cd3b40a53e70e635287
+3) suimtieji atlieka šio įstatymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nustatytą drausminę nuobaudą. ^s-c08766a4a7c8157a7ce461bb
+
+
+7. [[#^s-694a7cf82b105a1b9a043a70|Šio straipsnio 6 dalyje]] nurodytais atvejais paimti elektros prietaisai saugomi laisvės atėmimo vietų įstaigoje. Paimti elektros prietaisai suimtojo prašymu perduodami jų pasiimti į laisvės atėmimo vietų įstaigą atvykusiems suimtojo nurodytiems asmenims arba grąžinami suimtajam, kai jis vėl įgyja teisę naudotis elektros prietaisais arba perkeliamas atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, arba paleidžiamas iš laisvės atėmimo vietų įstaigos. ^s-7227f8e5f69c021183c73e67
 
 
 
-### 19 straipsnis. Suimtųjų užsieniečių teisė palaikyti ryšius su savo valstybės atstovais
+### 16 straipsnis. Suimtųjų teisė gauti ir siųsti pinigines perlaidas ^s-8647d03aedc1ec7b07d34570
+
+
+1. Suimtieji turi teisę gauti pinigines perlaidas ir siųsti jas artimiesiems, o laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimu – ir kitiems asmenims. ^s-4a3f5ecdc79a843db77fe1f4
+
+
+2. Perlaidomis gauti pinigai įrašomi į suimtojo asmeninę sąskaitą. ^s-e840f8ac4c094f36f0be3d5d
+
+
+3. Suimtiesiems atnešti grynieji pinigai laisvės atėmimo vietų įstaigoje nepriimami. ^s-204aa08772be07439df39d95
+
+
+
+### 17 straipsnis. Suimtųjų teisė pasivaikščioti gryname ore ^s-a6c0a44d598384bc8134341c
+
+
+1. Suimtieji turi teisę kasdien ne mažiau kaip vieną valandą pasivaikščioti gryname ore. Nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, nėščioms moterims ir ligoniams pagal gydytojų išvadą suteikiama teisė pasivaikščioti ne mažiau kaip tris valandas per dieną. ^s-d71ac332f7562de78ccc6a2e
+
+
+2. Suimtųjų pasivaikščiojimai vyksta dienos metu, laikantis šio įstatymo [[#^s-e7f46e48220e14d139be1b2b|27 straipsnyje]] nustatytų reikalavimų. ^s-7177bec39894bbe079f80197
+
+
+3. Pasivaikščiojimas gali būti nutrauktas, jeigu suimtasis pažeidžia teisingumo ministro nustatytą pasivaikščiojimų tvarką arba pats prašo nutraukti pasivaikščiojimą. ^s-0ed304a7f2ad151bb415e658
+
+
+
+### 18 straipsnis. Suimtųjų teisė į trumpalaikę išvyką dėl svarbių priežasčių ^s-1abbd0216e7197573608a99b
+
+
+1. Suimtieji, gavę leidimą, turi teisę išvykti iš laisvės atėmimo vietų įstaigos Lietuvos Respublikos teritorijoje ne ilgiau kaip penkioms paroms dėl artimojo mirties ar gyvybei gresiančios sunkios ligos, kuri patvirtinta gydytojų išvada, dėl gaivalinės nelaimės, padariusios didelę turtinę žalą suimtajam ar jo artimiesiems, jeigu apie tai laisvės atėmimo vietų įstaigoje gauti kompetentingos institucijos dokumentai. ^s-60ba32524b10484ab48360d7
+
+
+2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti iš laisvės atėmimo vietų įstaigos, suimtajam ir laisvės atėmimo vietų įstaigai turi būti pateikiamas motyvuotas sprendimas. Laikas, kurį suimtasis buvo išvykęs iš laisvės atėmimo vietų įstaigos, įskaitomas į suėmimo laiką. Suimtasis arba kiti jo nurodyti asmenys apmoka visas su suimtojo kelione ir palyda susijusias laisvės atėmimo vietų įstaigos patiriamas išlaidas. Šios išlaidos apskaičiuojamos teisingumo ministro nustatyta tvarka. ^s-8126d7e131128f9020a51789
+
+
+3. Suimtuosius [[#^s-60ba32524b10484ab48360d7|šio straipsnio 1 dalyje]] numatytos išvykos metu lydi laisvės atėmimo vietų įstaigos pareigūnas arba pareigūnai. Pilnamečiams suimtiesiems šios išvykos metu gali būti uždedami antrankiai. ^s-e4542a8c97f9f113e9beedca
+
+
+
+### 19 straipsnis. Suimtųjų užsieniečių teisė palaikyti ryšius su savo valstybės atstovais ^s-cd375530d045a36735c97d6a
 
 
 Suimtieji užsieniečiai turi teisę palaikyti ryšius su savo valstybės diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis, įskaitant teisę susitikti ar susirašinėti su savo valstybės diplomatinės atstovybės ar konsulinės įstaigos atstovais arba jiems paskambinti. Suimtojo pageidavimu jo valstybės konsulinės įstaigos turi teisę užtikrinti suimtojo teisinį atstovavimą, įskaitant suimtojo teisę į gynybą.
 
 
 
-### 20 straipsnis. Suimtųjų pareigos ir jiems taikomi draudimai
+### 20 straipsnis. Suimtųjų pareigos ir jiems taikomi draudimai ^s-94f78f1c10665d7dec61e413
 
 
-1. Suimtieji privalo: ^cda87d783b9e2fea5ddfc986
+1. Suimtieji privalo: ^s-1e0ba6c6fcbfbbd94d21bb39
 
 
-1) vykdyti įstatymuose nustatytus reikalavimus ir laikytis teisingumo ministro nustatytos laisvės atėmimo vietų įstaigos vidaus tvarkos; ^47f0c617b5e8d4dd8924943b
+1) vykdyti įstatymuose nustatytus reikalavimus ir laikytis teisingumo ministro nustatytos laisvės atėmimo vietų įstaigos vidaus tvarkos; ^s-73824af73551501043e89323
 
 
-2) vykdyti laisvės atėmimo vietų įstaigos pareigūnų reikalavimus. ^6f65b4ae75398c91738bd207
+2) vykdyti laisvės atėmimo vietų įstaigos pareigūnų reikalavimus. ^s-3413dbe6db124a055665843d
 
 
-2. Suimtiesiems draudžiama: ^7e3faf1d596faa328eee4ec0
+2. Suimtiesiems draudžiama: ^s-23afa4ee36009bedd92764f7
 
 
-1) organizuoti piketus, mitingus, demonstracijas ir kitus grupinius renginius be laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimo ir juose dalyvauti; ^8e4b8a56f72f95b0a63f1eb8
+1) organizuoti piketus, mitingus, demonstracijas ir kitus grupinius renginius be laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimo ir juose dalyvauti; ^s-ad9961836e134f4c0ae8a7ac
 
 
-2) be laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimo bendrauti su asmenimis, laikomais kitose kamerose; ^edc2a574ef1e86aea45c9499
+2) be laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimo bendrauti su asmenimis, laikomais kitose kamerose; ^s-d996d5476d2f4fe681286bac
 
 
-3) vartoti alkoholinius gėrimus ar jų surogatus, narkotines, psichotropines ar kitokias psichiką veikiančias medžiagas arba toksines priemones, taip pat be gydytojo leidimo vartoti medikamentus; ^3f0918c893a0517ebdd16ae4
+3) vartoti alkoholinius gėrimus ar jų surogatus, narkotines, psichotropines ar kitokias psichiką veikiančias medžiagas arba toksines priemones, taip pat be gydytojo leidimo vartoti medikamentus; ^s-43f06f3b34ad87f052803f15
 
 
-4) perleisti savo turtą kitiems suimtiesiems, nuteistiesiems ar laisvės atėmimo vietų įstaigos darbuotojams (pareigūnams, valstybės tarnautojams, darbuotojams, dirbantiems pagal darbo sutartis) arba jį įsigyti iš šių asmenų; teikti mokamas ar kitaip atlyginamas paslaugas tiek kitiems suimtiesiems ar nuteistiesiems, tiek laisvės atėmimo vietų įstaigos darbuotojams arba gauti tokias paslaugas iš šių asmenų; ^7b61fbc78a83d8dc9235fc30
+4) perleisti savo turtą kitiems suimtiesiems, nuteistiesiems ar laisvės atėmimo vietų įstaigos darbuotojams (pareigūnams, valstybės tarnautojams, darbuotojams, dirbantiems pagal darbo sutartis) arba jį įsigyti iš šių asmenų; teikti mokamas ar kitaip atlyginamas paslaugas tiek kitiems suimtiesiems ar nuteistiesiems, tiek laisvės atėmimo vietų įstaigos darbuotojams arba gauti tokias paslaugas iš šių asmenų; ^s-692847e21d932f2a4b031dc5
 
 
-5) darytis tatuiruotes ir jas daryti kitiems asmenims; ^f6021faf43ee42de44a996af
+5) darytis tatuiruotes ir jas daryti kitiems asmenims; ^s-f5c4d4f8f4dd15d914dabb6b
 
 
-6) be laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimo platinti rankraščius ir leidinius; ^ffc3e2e981e3c69b802b6ee2
+6) be laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno leidimo platinti rankraščius ir leidinius; ^s-caa4531a07dac1d150571883
 
 
-7) kurstyti kitus suimtuosius ir nuteistuosius atsisakyti vykdyti laisvės atėmimo vietų įstaigos pareigūnų reikalavimus; ^9e06cec46b0c3a470cdca686
+7) kurstyti kitus suimtuosius ir nuteistuosius atsisakyti vykdyti laisvės atėmimo vietų įstaigos pareigūnų reikalavimus; ^s-008f73d5e5e0fb0836117384
 
 
-8) reikalauti bet kokios paslaugos iš kito suimtojo ar nuteistojo, naudoti fizinį ar psichinį smurtą prieš kitus asmenis; ^d841a59c704eadedfb612529
+8) reikalauti bet kokios paslaugos iš kito suimtojo ar nuteistojo, naudoti fizinį ar psichinį smurtą prieš kitus asmenis; ^s-6a518f598a987a3efcce7d5e
 
 
-9) gauti, įsigyti pornografinių ar smurtą arba žiaurumą propaguojančių spaudos leidinių, knygų, vaizdo ar garso įrašų, taip pat juos laikyti, platinti arba prenumeruoti; ^6f9c88e800daecd3a1482ffa
+9) gauti, įsigyti pornografinių ar smurtą arba žiaurumą propaguojančių spaudos leidinių, knygų, vaizdo ar garso įrašų, taip pat juos laikyti, platinti arba prenumeruoti; ^s-ee0b1c38c083fd2406b34a1b
 
 
-10) turėti tabako gaminių patalpose, kuriose izoliuojami suimtieji, taip pat laisvės atėmimo vietų įstaigos nurodytose vietose ir patalpose, kuriose suimtiesiems teikiamos sveikatos priežiūros paslaugos; ^8e04834e9b33a91795b7d0b0
+10) turėti tabako gaminių patalpose, kuriose izoliuojami suimtieji, taip pat laisvės atėmimo vietų įstaigos nurodytose vietose ir patalpose, kuriose suimtiesiems teikiamos sveikatos priežiūros paslaugos; ^s-d5630a27bb318f7b209ee55c
 
 
-11) su savimi turėti asmeninių daiktų, nenurodytų šio įstatymo [[#^af9ad64bbc636ea14fc50277|15 straipsnio 1 dalyje]] ir [[#^eeed9f3a8001b956fe6dc15e|33 straipsnio 1 dalyje]] nurodytuose sąrašuose. ^d7fe56f408f4cbe853f71aad
+11) su savimi turėti asmeninių daiktų, nenurodytų šio įstatymo [[#^s-6373fbab34d98686c5e1573e|15 straipsnio 1 dalyje]] ir [[#^s-821fcde6145e63332a38c0c2|33 straipsnio 1 dalyje]] nurodytuose sąrašuose. ^s-2b8480442b358d413f9bea85
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-52b298c0cec52419165fa5eb
 SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
 
 
 
-### 21 straipsnis. Suimtųjų užimtumas
+### 21 straipsnis. Suimtųjų užimtumas ^s-6cdcd8ca666128188d1209e6
 
 
-1. Laisvės atėmimo vietų įstaiga, organizuodama suimtųjų užimtumą, privalo kiekvienam suimtajam pasiūlyti įvairios prasmingos veiklos, kad bendras suimtojo už kameros ribų praleidžiamas laikas būtų ne trumpesnis kaip keturios valandos per parą. ^8103daa476182748e39ca609
+1. Laisvės atėmimo vietų įstaiga, organizuodama suimtųjų užimtumą, privalo kiekvienam suimtajam pasiūlyti įvairios prasmingos veiklos, kad bendras suimtojo už kameros ribų praleidžiamas laikas būtų ne trumpesnis kaip keturios valandos per parą. ^s-f7f3ba4214288b1fbf006e6a
 
 
-2. Suimtųjų užimtumo įvairia prasminga veikla formos: ^a71603d9f2c483d65d58c82d
+2. Suimtųjų užimtumo įvairia prasminga veikla formos: ^s-f12db2bd984ec05d89e60594
 
 
-1) bendrasis ugdymas; ^571be223926771436cb3cf4e
+1) bendrasis ugdymas; ^s-047213a9a8aa592a498bb925
 
 
-2) nuotolinės studijos; ^f963ecae2e2b6288946739ec
+2) nuotolinės studijos; ^s-07e5d5db93d40466f836863d
 
 
-3) individuali veikla; ^652011e30c65f00422bac32e
+3) individuali veikla; ^s-3bbf5505c9d38c939f51f121
 
 
-4) dalyvavimas laisvės atėmimo vietų įstaigos ar nevyriausybinių organizacijų, asociacijų, valstybės pripažintų religinių bendruomenių ir bendrijų, kitų juridinių asmenų ar jų padalinių bei patikimų savanorių organizuojamoje kultūrinėje, švietėjiškoje, sporto ir kitoje laisvalaikio veikloje; ^599cc23fc69544b9c23cbc0a
+4) dalyvavimas laisvės atėmimo vietų įstaigos ar nevyriausybinių organizacijų, asociacijų, valstybės pripažintų religinių bendruomenių ir bendrijų, kitų juridinių asmenų ar jų padalinių bei patikimų savanorių organizuojamoje kultūrinėje, švietėjiškoje, sporto ir kitoje laisvalaikio veikloje; ^s-58d3d0e28c7fc262f0c365e1
 
 
-5) darbinė veikla. ^c3964ffd6915bf96461ce121
+5) darbinė veikla. ^s-3b316b05fb7c7fb636efaaaa
 
 
-3. Laisvės atėmimo vietų įstaiga, organizuodama suimtųjų užimtumą: ^f6eeda757ed9de1331f550bb
+3. Laisvės atėmimo vietų įstaiga, organizuodama suimtųjų užimtumą: ^s-f5417a4f8d0274e6ad61fd66
 
 
-1) konsultuoja suimtuosius, siekdama padidinti jų motyvaciją pradėti ar tęsti mokymąsi pagal bendrojo ugdymo programas laisvės atėmimo vietų įstaigoje; ^3c853ae46781070dcfcbd82b
+1) konsultuoja suimtuosius, siekdama padidinti jų motyvaciją pradėti ar tęsti mokymąsi pagal bendrojo ugdymo programas laisvės atėmimo vietų įstaigoje; ^s-9004bf2982aa56787b82e0bf
 
 
-2) sudaro sąlygas suimtiesiems nuotoliniu būdu studijuoti ne laisvės atėmimo vietų įstaigoje veikiančiose švietimo įstaigose; ^0c83ad0e2116b75b55004814
+2) sudaro sąlygas suimtiesiems nuotoliniu būdu studijuoti ne laisvės atėmimo vietų įstaigoje veikiančiose švietimo įstaigose; ^s-3b3d47870ae032771c1dbb4b
 
 
-3) padeda suimtiesiems įsigyti jų individualiai veiklai reikalingų priemonių; ^5e6d30b4f91514e571af918e
+3) padeda suimtiesiems įsigyti jų individualiai veiklai reikalingų priemonių; ^s-2923d0fc1c20a7d0b7892a6d
 
 
-4) organizuoja kultūrinius, švietėjiškus ir sporto renginius. ^e436adc65ef1b661b92e2028
+4) organizuoja kultūrinius, švietėjiškus ir sporto renginius. ^s-bdb5e12e629363fcc6dec938
 
 
-4. Suimtųjų užimtumas, kai tai būtina, organizuojamas laikantis šio įstatymo [[#27 straipsnis. Suimtųjų laikymas atskirai|27 straipsnyje]] nustatytų reikalavimų. ^1733ee47bdc5783926a6d082
+4. Suimtųjų užimtumas, kai tai būtina, organizuojamas laikantis šio įstatymo [[#^s-e7f46e48220e14d139be1b2b|27 straipsnyje]] nustatytų reikalavimų. ^s-c8bf40c122110a0a1415c4bc
 
 
-5. Jeigu yra galimybė, suimtieji gali jų rašytiniu prašymu užsiimti darbine veikla. Suimtųjų užimtumas darbine veikla nelaikomas darbo santykiais ir darbo teisę reglamentuojantys teisės aktai suimtųjų užimtumo darbine veikla nereguliuoja. Darbine veikla suimtiesiems leidžiama užsiimti tik laisvės atėmimo vietų įstaigos teritorijoje. Už darbinės veiklos rezultatus, atsižvelgdama į šios veiklos sudėtingumą, apimtį ir veiklai atlikti skirtą laiką, laisvės atėmimo vietų įstaiga suimtiesiems moka pinigines išmokas. Šių išmokų apskaičiavimo tvarką nustato teisingumo ministras. Darbine veikla užsiimantiems suimtiesiems piniginės išmokos mokamos iš Lietuvos Respublikos bausmių vykdymo kodekso 58 straipsnyje nurodytame fonde sukauptų lėšų. ^70001cf74331b6ee00796786
+5. Jeigu yra galimybė, suimtieji gali jų rašytiniu prašymu užsiimti darbine veikla. Suimtųjų užimtumas darbine veikla nelaikomas darbo santykiais ir darbo teisę reglamentuojantys teisės aktai suimtųjų užimtumo darbine veikla nereguliuoja. Darbine veikla suimtiesiems leidžiama užsiimti tik laisvės atėmimo vietų įstaigos teritorijoje. Už darbinės veiklos rezultatus, atsižvelgdama į šios veiklos sudėtingumą, apimtį ir veiklai atlikti skirtą laiką, laisvės atėmimo vietų įstaiga suimtiesiems moka pinigines išmokas. Šių išmokų apskaičiavimo tvarką nustato teisingumo ministras. Darbine veikla užsiimantiems suimtiesiems piniginės išmokos mokamos iš [[latest/TAR.A0A0CCC6B997#^s-aa4fca8d9e2f026e5e69e40f|Lietuvos Respublikos bausmių vykdymo kodekso 58 straipsnyje]] nurodytame fonde sukauptų lėšų. ^s-a241003515e2ce091548e4a8
 
 
-6. Suimtųjų individualios veiklos vykdymo laisvės atėmimo vietų įstaigoje klausimai sprendžiami vadovaujantis Bausmių vykdymo kodekso 56 straipsnio 4 dalies nuostatomis. ^02c10b00d20f3ea1df8a7e6a
-
-
-
-### 22 straipsnis. Suimtųjų bendrasis ugdymas
-
-
-1. Laisvės atėmimo vietų įstaigoje organizuojamas suimtųjų iki šešiolikos metų bendrasis ugdymas. ^404f454bb38b92f2a8dd4f4c
-
-
-2. Vyresnių negu šešiolikos metų suimtųjų bendrasis ugdymas organizuojamas rašytiniu jų prašymu ir laisvės atėmimo vietų įstaigos direktoriaus sutikimu. ^c11c7435136a239ca052c78d
-
-
-3. Suimtųjų bendrąjį ugdymą organizuoja savivaldybės, kurių teritorijoje suimtiesiems vykdomas suėmimas. Mokyklų veiklai vykdyti reikalingas patalpas suteikia laisvės atėmimo vietų įstaiga, ji taip pat apmoka šių patalpų eksploatavimo, remonto ir mokyklinių baldų įsigijimo išlaidas. Mokymo lėšos ugdymo planui įgyvendinti, vadovėliams ir kitoms mokymo priemonėms įsigyti ir mokyklos ūkiui skirtos lėšos skiriamos iš Lietuvos Respublikos valstybės biudžete numatytų asignavimų. Organizaciniai suimtųjų bendrojo ugdymo vykdymo klausimai gali būti aptariami laisvės atėmimo vietų įstaigos ir suimtųjų bendrąjį ugdymą vykdančių mokyklų susitarimuose. ^15e9058804f9d329cb0450a3
-
-
-4. Suimtųjų bendrasis ugdymas vykdomas švietimo sistemos organizavimą reglamentuojančių Lietuvos Respublikos įstatymų nustatyta tvarka. ^d2d0ce53e554511646765d65
+6. Suimtųjų individualios veiklos vykdymo laisvės atėmimo vietų įstaigoje klausimai sprendžiami vadovaujantis Bausmių vykdymo kodekso 56 straipsnio 4 dalies nuostatomis. ^s-e00d797ae2c21a6d7b3d8bb5
 
 
 
-### 23 straipsnis. Socialinis darbas su suimtaisiais
+### 22 straipsnis. Suimtųjų bendrasis ugdymas ^s-095ddc55abbcfb1959a69bc4
 
 
-1. Socialinį darbą su suimtaisiais organizuoja laisvės atėmimo vietų įstaiga. ^984d64fd733063becdf49c22
+1. Laisvės atėmimo vietų įstaigoje organizuojamas suimtųjų iki šešiolikos metų bendrasis ugdymas. ^s-14dda1974a6b928fb2df853b
 
 
-2. Pagrindinės socialinio darbo su suimtaisiais formos: ^fe0de7bcc8aa006c063f5643
+2. Vyresnių negu šešiolikos metų suimtųjų bendrasis ugdymas organizuojamas rašytiniu jų prašymu ir laisvės atėmimo vietų įstaigos direktoriaus sutikimu. ^s-90e99988b3c2d61ebd3e94d1
 
 
-1) socialinis ir teisinis švietimas; ^c64a318e2b8a3aa2f092df4d
+3. Suimtųjų bendrąjį ugdymą organizuoja savivaldybės, kurių teritorijoje suimtiesiems vykdomas suėmimas. Mokyklų veiklai vykdyti reikalingas patalpas suteikia laisvės atėmimo vietų įstaiga, ji taip pat apmoka šių patalpų eksploatavimo, remonto ir mokyklinių baldų įsigijimo išlaidas. Mokymo lėšos ugdymo planui įgyvendinti, vadovėliams ir kitoms mokymo priemonėms įsigyti ir mokyklos ūkiui skirtos lėšos skiriamos iš Lietuvos Respublikos valstybės biudžete numatytų asignavimų. Organizaciniai suimtųjų bendrojo ugdymo vykdymo klausimai gali būti aptariami laisvės atėmimo vietų įstaigos ir suimtųjų bendrąjį ugdymą vykdančių mokyklų susitarimuose. ^s-9c56847aed29dcbe4a324e01
 
 
-2) suimtųjų socialinių ir dvasinių poreikių tenkinimas; ^cdf8f3f51b32a65132a1b9c2
-
-
-3) pagalba sprendžiant suimtųjų problemas. ^0502e9e344db325232dfd42a
-
-
-3. Socialinis darbas su suimtaisiais, kai tai būtina, organizuojamas laikantis šio įstatymo [[#27 straipsnis. Suimtųjų laikymas atskirai|27 straipsnyje]] nustatytų reikalavimų. ^2abbb6392609d2061e2128ab
+4. Suimtųjų bendrasis ugdymas vykdomas švietimo sistemos organizavimą reglamentuojančių Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-14b3f86292c532aac5125969
 
 
 
-### TREČIASIS SKIRSNIS
+### 23 straipsnis. Socialinis darbas su suimtaisiais ^s-45c6a7d921543662cc174a52
+
+
+1. Socialinį darbą su suimtaisiais organizuoja laisvės atėmimo vietų įstaiga. ^s-275d4f3969439a991e792d38
+
+
+2. Pagrindinės socialinio darbo su suimtaisiais formos: ^s-06b374220416e591af54d4f4
+
+
+1) socialinis ir teisinis švietimas; ^s-c9635ea1ca018350a66621db
+
+
+2) suimtųjų socialinių ir dvasinių poreikių tenkinimas; ^s-670a932a583ca3638f97ff11
+
+
+3) pagalba sprendžiant suimtųjų problemas. ^s-f6926cbb416d0ede17442d0f
+
+
+3. Socialinis darbas su suimtaisiais, kai tai būtina, organizuojamas laikantis šio įstatymo [[#^s-e7f46e48220e14d139be1b2b|27 straipsnyje]] nustatytų reikalavimų. ^s-594179cd21e0d20a453382c9
+
+
+
+### TREČIASIS SKIRSNIS ^s-5f1c422bab4d4cb8f0b743a0
 SUIMTŲJŲ SVEIKATOS PRIEŽIŪRA IR APRŪPINIMAS
 
 
 
-### 24 straipsnis. Suimtųjų asmens sveikatos priežiūra
+### 24 straipsnis. Suimtųjų asmens sveikatos priežiūra ^s-4884bc97cc3c179d7c1cc938
 
 
-1. Asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka. ^8db851446263b9524684d96f
+1. Asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka. ^s-e586da6e26676b92f06a9796
 
 
-2. Pirminio lygio ambulatorinės asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos laisvės atėmimo vietų įstaigoje. Šias paslaugas teikia laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padaliniai. ^040296c26792c027acdd8e8e
+2. Pirminio lygio ambulatorinės asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos laisvės atėmimo vietų įstaigoje. Šias paslaugas teikia laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padaliniai. ^s-c880cd93d626b172422aa05a
 
 
-3. Privaloma nuodugniai patikrinti naujų į laisvės atėmimo vietų įstaigą atvykusių suimtųjų sveikatos būklę. Atsižvelgiant į nepilnamečio suimtojo sveikatos būklę, taip pat į nepilnamečio suimtojo arba jo gynėjo ar artimojo giminaičio arba globėjo (rūpintojo) prašymą, turi būti atliktas papildomas ar pakartotinis šio nepilnamečio suimtojo sveikatos būklės patikrinimas. ^5d588963b723801a8a27b667
+3. Privaloma nuodugniai patikrinti naujų į laisvės atėmimo vietų įstaigą atvykusių suimtųjų sveikatos būklę. Atsižvelgiant į nepilnamečio suimtojo sveikatos būklę, taip pat į nepilnamečio suimtojo arba jo gynėjo ar artimojo giminaičio arba globėjo (rūpintojo) prašymą, turi būti atliktas papildomas ar pakartotinis šio nepilnamečio suimtojo sveikatos būklės patikrinimas. ^s-a282fc5bd37ebc2638d329e8
 
 
-4. Kai laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padaliniai dėl objektyvių priežasčių negali užtikrinti pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems, šių paslaugų teikimą laisvės atėmimo vietų įstaigos patalpose pagal sudarytas sutartis užtikrina savivaldybės, kurios teritorijoje suimtajam vykdomas suėmimas, pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Sprendimą dėl konkrečios pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikiančios asmens sveikatos priežiūros įstaigos, kuri užtikrins asmens sveikatos priežiūros paslaugų teikimą suimtiesiems, paskyrimo priima savivaldybės, kurios teritorijoje suimtajam vykdomas suėmimas, taryba. ^ae461013373739f515c63cbe
+4. Kai laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padaliniai dėl objektyvių priežasčių negali užtikrinti pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems, šių paslaugų teikimą laisvės atėmimo vietų įstaigos patalpose pagal sudarytas sutartis užtikrina savivaldybės, kurios teritorijoje suimtajam vykdomas suėmimas, pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Sprendimą dėl konkrečios pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikiančios asmens sveikatos priežiūros įstaigos, kuri užtikrins asmens sveikatos priežiūros paslaugų teikimą suimtiesiems, paskyrimo priima savivaldybės, kurios teritorijoje suimtajam vykdomas suėmimas, taryba. ^s-73b29638bb9e0c13aade6ac5
 
 
-5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir reikalingas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. Kai valstybės arba savivaldybių asmens sveikatos priežiūros įstaigos šioje dalyje nurodytų asmens sveikatos priežiūros paslaugų neteikia, šios paslaugos suimtiesiems gali būti teikiamos arčiausiai esančioje ir atitinkamas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamas asmens sveikatos priežiūros paslaugas teikiančioje privačioje asmens sveikatos priežiūros įstaigoje. ^374dfc42ca70411b3132339e
+5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir reikalingas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. Kai valstybės arba savivaldybių asmens sveikatos priežiūros įstaigos šioje dalyje nurodytų asmens sveikatos priežiūros paslaugų neteikia, šios paslaugos suimtiesiems gali būti teikiamos arčiausiai esančioje ir atitinkamas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamas asmens sveikatos priežiūros paslaugas teikiančioje privačioje asmens sveikatos priežiūros įstaigoje. ^s-efaf2196df9fb882cf4b672f
 Straipsnio dalies pakeitimai:
 Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
 
 
 
-6. Asmens sveikatos priežiūros paslaugos valstybės, savivaldybių arba privačiose asmens sveikatos priežiūros įstaigose suimtiesiems teikiamos užtikrinant suimtųjų apsaugą. ^5a016b69ccebf48ac822c86f
+6. Asmens sveikatos priežiūros paslaugos valstybės, savivaldybių arba privačiose asmens sveikatos priežiūros įstaigose suimtiesiems teikiamos užtikrinant suimtųjų apsaugą. ^s-8162ce6319ff49a97a0646a8
 Straipsnio dalies pakeitimai:
 Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
 
 
 
-7. Suimtųjų asmens sveikatos priežiūrą organizuoja Lietuvos Respublikos sveikatos apsaugos ministerija. ^45fc6b3fc187a204e0663594
+7. Suimtųjų asmens sveikatos priežiūrą organizuoja Lietuvos Respublikos sveikatos apsaugos ministerija. ^s-3326545f51fe7de6e2a33399
 
 
 
-### 25 straipsnis. Suimtųjų buities poreikių užtikrinimo tvarka
+### 25 straipsnis. Suimtųjų buities poreikių užtikrinimo tvarka ^s-be9a593846dc7cb51ae3ec8c
 
 
-1. Suimtiesiems užtikrinamos gyvenamųjų patalpų ir buities sąlygos, atitinkančios Lietuvos Respublikos teisės aktuose nustatytų higienos normų reikalavimus. ^4acb76fb3451724201cca560
+1. Suimtiesiems užtikrinamos gyvenamųjų patalpų ir buities sąlygos, atitinkančios Lietuvos Respublikos teisės aktuose nustatytų higienos normų reikalavimus. ^s-dfd443cc0683580763d18dfb
 
 
-2. Kiekvienam suimtajam nemokamai suteikiama atskira miegamoji vieta ir patalynė. Suimtieji gali naudotis savo patalyne (išskyrus antklodę, čiužinį ir pagalvę), jeigu to pageidauja. ^0db7ecef36dad3601d9cae6b
+2. Kiekvienam suimtajam nemokamai suteikiama atskira miegamoji vieta ir patalynė. Suimtieji gali naudotis savo patalyne (išskyrus antklodę, čiužinį ir pagalvę), jeigu to pageidauja. ^s-dc24a7b1eb6815ed65e2077f
 
 
-3. Suimtieji, kurie neturi savo drabužių ir avalynės, nemokamai aprūpinami drabužiais ir avalyne pagal sezoną. ^45fba1ef07a160d1229d0617
+3. Suimtieji, kurie neturi savo drabužių ir avalynės, nemokamai aprūpinami drabužiais ir avalyne pagal sezoną. ^s-f6f8cd5685b996b18833f0c8
 
 
-4. Ne rečiau kaip kartą per savaitę suimtiesiems turi būti sudarytos sąlygos gauti išskalbtą patalynę (išskyrus antklodę, čiužinį ir pagalvę) ir apatinius drabužius. Suimtųjų pageidavimu turi būti suteikta galimybė ne dažniau kaip du kartus per mėnesį pasinaudoti kirpėjo paslaugomis. ^aaf67b102ff3bd7e0485982f
+4. Ne rečiau kaip kartą per savaitę suimtiesiems turi būti sudarytos sąlygos gauti išskalbtą patalynę (išskyrus antklodę, čiužinį ir pagalvę) ir apatinius drabužius. Suimtųjų pageidavimu turi būti suteikta galimybė ne dažniau kaip du kartus per mėnesį pasinaudoti kirpėjo paslaugomis. ^s-b9f33adecd2bd49960b74c9f
 
 
-5. Suimtiesiems tiekiamas maistas turi atitikti rekomenduojamas paros maistinių medžiagų ir energijos normas ir, kiek tai įmanoma, jų religinius įsitikinimus. Maistu suimtieji aprūpinami nemokamai. ^1849879008b856c652ed8828
+5. Suimtiesiems tiekiamas maistas turi atitikti rekomenduojamas paros maistinių medžiagų ir energijos normas ir, kiek tai įmanoma, jų religinius įsitikinimus. Maistu suimtieji aprūpinami nemokamai. ^s-8fecd1857b56f0d790810a34
 
 
-6. Nėščioms moterims pagal gydytojo išvadą leidžiama gauti pašto ar perduodamų maisto produktų siuntinių; jų svorį ir periodiškumą nustato teisingumo ministras. ^3d44a450f88296b8308b0b2d
+6. Nėščioms moterims pagal gydytojo išvadą leidžiama gauti pašto ar perduodamų maisto produktų siuntinių; jų svorį ir periodiškumą nustato teisingumo ministras. ^s-bbaf163a55aec82bb288aed0
 
 
-7. Suimtųjų maitinimo, aprūpinimo drabužiais, avalyne ir higienos priemonėmis tvarką nustato teisingumo ministras. ^2e41eaab887354ae544ef8b1
+7. Suimtųjų maitinimo, aprūpinimo drabužiais, avalyne ir higienos priemonėmis tvarką nustato teisingumo ministras. ^s-83dd93f4775935db3bd75b3b
 
 
 
-### KETVIRTASIS SKIRSNIS
+### KETVIRTASIS SKIRSNIS ^s-bacc32742be496567688c7fa
 SAUGUMO VALDYMAS LAISVĖS ATĖMIMO VIETŲ ĮSTAIGOJE
 
 
 
-### 26 straipsnis. Saugumo užtikrinimas laisvės atėmimo vietų įstaigoje
+### 26 straipsnis. Saugumo užtikrinimas laisvės atėmimo vietų įstaigoje ^s-f32ad5ed64f665819ff3b8a8
 
 
-1. Bausmių vykdymo sistemos pareigūnai, laisvės atėmimo vietų įstaigos karjeros valstybės tarnautojai ir kiti darbuotojai, palaikydami profesionaliai pozityvius santykius su suimtaisiais ir stengdamiesi juos individualiai pažinti ir suprasti, užima suimtuosius prasminga veikla, vertina galimą riziką, ją valdo ir taip užtikrina saugią aplinką sau ir suimtiesiems (toliau – dinaminis saugumas). Dinaminio saugumo užtikrinimo tvarką nustato teisingumo ministras. ^2f226609727c5ce9a44020ff
+1. Bausmių vykdymo sistemos pareigūnai, laisvės atėmimo vietų įstaigos karjeros valstybės tarnautojai ir kiti darbuotojai, palaikydami profesionaliai pozityvius santykius su suimtaisiais ir stengdamiesi juos individualiai pažinti ir suprasti, užima suimtuosius prasminga veikla, vertina galimą riziką, ją valdo ir taip užtikrina saugią aplinką sau ir suimtiesiems (toliau – dinaminis saugumas). Dinaminio saugumo užtikrinimo tvarką nustato teisingumo ministras. ^s-ac2e4ef1cd4f9c304b68dbaf
 
 
-2. Laisvės atėmimo vietų įstaigoje naudojamos laisvės atėmimo vietų įstaigos direktoriaus nustatytos inžinerinės ir techninės priemonės, teisingumo ministro nustatyta tvarka atliekamos suimtųjų, jų asmeninių daiktų, kamerų kratos ir apžiūros. Suimtiesiems pranešama apie inžinerines ir technines priemones, kurios gali kelti pavojų asmens gyvybei ir sveikatai. ^1ea9e1e3126bb6b64cb0e236
+2. Laisvės atėmimo vietų įstaigoje naudojamos laisvės atėmimo vietų įstaigos direktoriaus nustatytos inžinerinės ir techninės priemonės, teisingumo ministro nustatyta tvarka atliekamos suimtųjų, jų asmeninių daiktų, kamerų kratos ir apžiūros. Suimtiesiems pranešama apie inžinerines ir technines priemones, kurios gali kelti pavojų asmens gyvybei ir sveikatai. ^s-63325d2fc75841ea0c88a28b
 
 
-3. Suimtieji laikomi rakinamose kamerose. ^1bfffe8ae27cce170bbc2682
+3. Suimtieji laikomi rakinamose kamerose. ^s-b03b5f84ca270fcb823d352a
 
 
-4. Lietuvos Respublikos ryšių reguliavimo tarnybos nustatyta tvarka užtikrinama, kad laisvės atėmimo vietų įstaigos teritorijos, kuriose vykdomas suėmimas, nepatektų į judriojo ryšio tinklų aprėpties zoną. ^f0127f1d7a89c999b6c23852
+4. Lietuvos Respublikos ryšių reguliavimo tarnybos nustatyta tvarka užtikrinama, kad laisvės atėmimo vietų įstaigos teritorijos, kuriose vykdomas suėmimas, nepatektų į judriojo ryšio tinklų aprėpties zoną. ^s-0ca5d962f1f58f0237459e33
 
 
-5. Vidaus reikalų ministro ir teisingumo ministro nustatytais atvejais ir tvarka laisvės atėmimo vietų įstaiga, vykdydama suėmimą, gali pasitelkti Viešojo saugumo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos ir policiją. ^bc3f8207c140a4b0401eb285
+5. Vidaus reikalų ministro ir teisingumo ministro nustatytais atvejais ir tvarka laisvės atėmimo vietų įstaiga, vykdydama suėmimą, gali pasitelkti Viešojo saugumo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos ir policiją. ^s-964868c3342db8472eb2740c
 
 
-6. Į laisvės atėmimo vietų įstaigos teritoriją, kurioje vykdomas suėmimas, įeinantys ir iš jos išeinantys asmenys, išskyrus Respublikos Prezidentą, Lietuvos Respublikos Seimo, Europos Parlamento ar Lietuvos Respublikos Vyriausybės narius, teisėjus, tikrinami laisvės atėmimo vietų įstaigos direktoriaus nustatytomis techninėmis priemonėmis, taip pat tikrinamos įvažiuojančios ir išvažiuojančios transporto priemonės. Kilus pagrįstų įtarimų, patikrinami į laisvės atėmimo vietų įstaigos teritoriją, kurioje vykdomas suėmimas, įeinančių ir iš jos išeinančių asmenų daiktai ir drabužiai. Įėjimo į laisvės atėmimo vietų įstaigos teritoriją, kurioje vykdomas suėmimas, ir išėjimo iš jos tvarką nustato teisingumo ministras. ^47316b08bfaef01396bfc0b5
+6. Į laisvės atėmimo vietų įstaigos teritoriją, kurioje vykdomas suėmimas, įeinantys ir iš jos išeinantys asmenys, išskyrus Respublikos Prezidentą, Lietuvos Respublikos Seimo, Europos Parlamento ar Lietuvos Respublikos Vyriausybės narius, teisėjus, tikrinami laisvės atėmimo vietų įstaigos direktoriaus nustatytomis techninėmis priemonėmis, taip pat tikrinamos įvažiuojančios ir išvažiuojančios transporto priemonės. Kilus pagrįstų įtarimų, patikrinami į laisvės atėmimo vietų įstaigos teritoriją, kurioje vykdomas suėmimas, įeinančių ir iš jos išeinančių asmenų daiktai ir drabužiai. Įėjimo į laisvės atėmimo vietų įstaigos teritoriją, kurioje vykdomas suėmimas, ir išėjimo iš jos tvarką nustato teisingumo ministras. ^s-b54a8d11959cad1b878803e6
 
 
-7. Ypatingųjų situacijų metu laisvės atėmimo vietų įstaiga veikia vadovaudamasi Bausmių vykdymo kodekso 76 straipsnio nuostatomis. ^fd5192c87047648abf310511
-
-
-
-### 27 straipsnis. Suimtųjų laikymas atskirai
-
-
-1. Laisvės atėmimo vietų įstaigoje atskirai vieni nuo kitų turi būti laikomi: ^3e5b59e9d26492dcaca75991
-
-
-1) vyrai – atskirai nuo moterų; ^3f3b10d73979fe62c079876b
-
-
-2) nepilnamečiai – atskirai nuo pilnamečių; ^797268ad09d745bd08028616
-
-
-3) suimtieji – atskirai nuo nuteistųjų; ^fc6818f21d727d89e794afca
-
-
-4) buvę ir esami valstybės politikai, teisėsaugos, teismų, prokuratūros, kontrolės, valdžios ir valdymo institucijų pareigūnai – atskirai nuo kitų suimtųjų; ^299a96d9b710cac2f6e61fcf
-
-
-5) suimtieji, kuriems taikomos Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo nuostatos, – atskirai nuo kitų suimtųjų. ^b61088aa0a4cd8ac57aaf985
-
-
-2. To paties baudžiamojo proceso dalyviai laikomi atskirai vieni nuo kitų tik gavus ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį nurodymą. ^74058289d3000d0214bef5cd
-
-
-3. Nepilnametis, kuris nepasibaigus suėmimo terminui sulaukia pilnametystės, gali būti toliau, bet ne ilgiau, negu iki jam sukaks dvidešimt vieni metai, laikomas kartu su nepilnamečiais suimtaisiais, kai tai atitinka šių nepilnamečių interesus. Sprendimą dėl tokio suimtojo laikymo kartu su nepilnamečiais priima laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^f0278fc9be28fb1626e821e4
-
-
-4. Suimtieji vieni nuo kitų izoliuojami arba atskirai laikomi ir kitų Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka. Teisingumo ministro nustatyta tvarka atskirai nuo kitų suimtųjų gali būti laikomi ir kiti [[#^3e5b59e9d26492dcaca75991|šio straipsnio 1 dalyje]] nenurodyti suimtieji. ^ea7335a98abf0ece9ab5170a
+7. Ypatingųjų situacijų metu laisvės atėmimo vietų įstaiga veikia vadovaudamasi [[latest/TAR.A0A0CCC6B997#^s-a5439e44a4998b19abce7ea3|Bausmių vykdymo kodekso 76 straipsnio]] nuostatomis. ^s-3b7f05e93f5fee43101d414c
 
 
 
-### PENKTASIS SKIRSNIS
+### 27 straipsnis. Suimtųjų laikymas atskirai ^s-e7f46e48220e14d139be1b2b
+
+
+1. Laisvės atėmimo vietų įstaigoje atskirai vieni nuo kitų turi būti laikomi: ^s-fd296949ce7bf270c2b6e44f
+
+
+1) vyrai – atskirai nuo moterų; ^s-a57dbdd6419e6048b4ec682f
+
+
+2) nepilnamečiai – atskirai nuo pilnamečių; ^s-08eba6add159d6a8d25511b0
+
+
+3) suimtieji – atskirai nuo nuteistųjų; ^s-30cad2e3e72c75b0af81ba45
+
+
+4) buvę ir esami valstybės politikai, teisėsaugos, teismų, prokuratūros, kontrolės, valdžios ir valdymo institucijų pareigūnai – atskirai nuo kitų suimtųjų; ^s-b7bd53b8e32f05e711a95119
+
+
+5) suimtieji, kuriems taikomos [[latest/TAR.717DD0E6FE37|Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo]] nuostatos, – atskirai nuo kitų suimtųjų. ^s-1f8df0c7beea7e9f33b93062
+
+
+2. To paties baudžiamojo proceso dalyviai laikomi atskirai vieni nuo kitų tik gavus ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį nurodymą. ^s-9dd6db0b952429184840be02
+
+
+3. Nepilnametis, kuris nepasibaigus suėmimo terminui sulaukia pilnametystės, gali būti toliau, bet ne ilgiau, negu iki jam sukaks dvidešimt vieni metai, laikomas kartu su nepilnamečiais suimtaisiais, kai tai atitinka šių nepilnamečių interesus. Sprendimą dėl tokio suimtojo laikymo kartu su nepilnamečiais priima laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^s-a45f3082c8e9560d0c71324c
+
+
+4. Suimtieji vieni nuo kitų izoliuojami arba atskirai laikomi ir kitų Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka. Teisingumo ministro nustatyta tvarka atskirai nuo kitų suimtųjų gali būti laikomi ir kiti [[#^s-fd296949ce7bf270c2b6e44f|šio straipsnio 1 dalyje]] nenurodyti suimtieji. ^s-772085cf5ed78099704bd4f7
+
+
+
+### PENKTASIS SKIRSNIS ^s-dc31fac304b0035e64ab7ad4
 SUIMTŲJŲ SKATINIMAS IR DRAUSMINIMAS
 
 
 
-### 28 straipsnis. Suimtųjų skatinimo priemonės
+### 28 straipsnis. Suimtųjų skatinimo priemonės ^s-6f009771fe69c46cdb0572c5
 
 
 Už nepriekaištingą elgesį suimtiesiems gali būti skiriamos šios skatinimo priemonės:
 
 
-1) paskirtos drausminės nuobaudos panaikinimas; ^c258fb176125489ee05f7d2a
+1) paskirtos drausminės nuobaudos panaikinimas; ^s-68fc30de5de08982e39a9034
 
 
-2) pasivaikščiojimo laiko pailginimas; ^6ca206cf4593a23288b683a7
+2) pasivaikščiojimo laiko pailginimas; ^s-d80f59e7304cdccf3e26a8b5
 
 
-3) pasimatymo laiko pailginimas. ^3e5809e98b11092e66718a01
+3) pasimatymo laiko pailginimas. ^s-f9796308b8c986534fe5e994
 
 
 
-### 29 straipsnis. Suimtųjų drausminimo priemonės
+### 29 straipsnis. Suimtųjų drausminimo priemonės ^s-83e419595282b3864a996c5d
 
 
-Suimtieji, nevykdantys šio įstatymo [[#20 straipsnis. Suimtųjų pareigos ir jiems taikomi draudimai|20 straipsnyje]] nustatytų pareigų ir (ar) nesilaikantys jiems nustatytų draudimų (toliau – pažeidimai), gali būti drausminami jiems skiriant šias drausmines nuobaudas:
+Suimtieji, nevykdantys šio įstatymo [[#^s-94f78f1c10665d7dec61e413|20 straipsnyje]] nustatytų pareigų ir (ar) nesilaikantys jiems nustatytų draudimų (toliau – pažeidimai), gali būti drausminami jiems skiriant šias drausmines nuobaudas:
 
 
-1) pailginto pasivaikščiojimo laiko panaikinimas; ^affe4e7406f49f0000801d40
+1) pailginto pasivaikščiojimo laiko panaikinimas; ^s-2a6bce1177fa3561ed865fd6
 
 
-2) draudimas vieną mėnesį įsigyti asmeninių daiktų (išskyrus higienos reikmenis ir kanceliarines prekes); ^17112e1b2bc1869a47ac9408
+2) draudimas vieną mėnesį įsigyti asmeninių daiktų (išskyrus higienos reikmenis ir kanceliarines prekes); ^s-597934d0c523a6b390e0b696
 
 
-3) suimtojo izoliavimas iki dešimt parų, o nepilnamečio suimtojo – iki penkių parų. ^51363b31bd8d5e54e68de010
+3) suimtojo izoliavimas iki dešimt parų, o nepilnamečio suimtojo – iki penkių parų. ^s-98383fcd103cbe02a8ec3867
 
 
 
 
-### 30 straipsnis. Skatinimo priemonių skyrimo suimtiesiems tvarka
+### 30 straipsnis. Skatinimo priemonių skyrimo suimtiesiems tvarka ^s-59f2567c66ac3ae089740df4
 
 
-1. Šio įstatymo [[#28 straipsnis. Suimtųjų skatinimo priemonės|28 straipsnyje]] nurodytas skatinimo priemones suimtiesiems skiria laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^26f83715daaa24b218fd034b
+1. Šio įstatymo [[#^s-6f009771fe69c46cdb0572c5|28 straipsnyje]] nurodytas skatinimo priemones suimtiesiems skiria laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^s-3150d44ee12d2e4380777bd0
 
 
-2. Skiriant šio įstatymo [[#^c258fb176125489ee05f7d2a|28 straipsnio 1 punkte]] nurodytą skatinimo priemonę, suimtajam panaikinama viena jo turima drausminė nuobauda. ^7c3751a2e6634022085377ce
+2. Skiriant šio įstatymo [[#^s-68fc30de5de08982e39a9034|28 straipsnio 1 punkte]] nurodytą skatinimo priemonę, suimtajam panaikinama viena jo turima drausminė nuobauda. ^s-bd4d15f064fd3a5aef1c8242
 
 
-3. Skatinimo tvarka pailgintas pasivaikščiojimo laikas taikomas ne ilgiau kaip vieną mėnesį. ^08afe92441ce2fa7ce763d81
+3. Skatinimo tvarka pailgintas pasivaikščiojimo laikas taikomas ne ilgiau kaip vieną mėnesį. ^s-7f9be0cb3e1da22ec0b46b0e
 
 
-4. Vienu paskatinimu galima pailginti vieno pasimatymo laiką. ^8f0215a069c8f16746b51742
+4. Vienu paskatinimu galima pailginti vieno pasimatymo laiką. ^s-17fa250f29640d3b81bd1ab3
 
 
 
-### 31 straipsnis. Drausminių nuobaudų skyrimo suimtiesiems tvarka
+### 31 straipsnis. Drausminių nuobaudų skyrimo suimtiesiems tvarka ^s-bcd8d2a749df23894b7b0653
 
 
-1. Šio įstatymo [[#29 straipsnis. Suimtųjų drausminimo priemonės|29 straipsnyje]] nurodytas drausmines nuobaudas suimtiesiems skiria laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^e1c80569858cfdc853b156b9
+1. Šio įstatymo [[#^s-83e419595282b3864a996c5d|29 straipsnyje]] nurodytas drausmines nuobaudas suimtiesiems skiria laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^s-edb6ad9e64c0122be6f13419
 
 
-2. Skiriant drausmines nuobaudas, atsižvelgiama į pažeidimo padarymo aplinkybes ir paskirtų drausminių nuobaudų kiekį bei pobūdį, taip pat į suimtojo rašytinį pasiaiškinimą dėl pažeidimo padarymo. Skiriamos drausminės nuobaudos turi atitikti padaryto pažeidimo sunkumą ir pobūdį. ^21bf0a8e5371172e23e50002
+2. Skiriant drausmines nuobaudas, atsižvelgiama į pažeidimo padarymo aplinkybes ir paskirtų drausminių nuobaudų kiekį bei pobūdį, taip pat į suimtojo rašytinį pasiaiškinimą dėl pažeidimo padarymo. Skiriamos drausminės nuobaudos turi atitikti padaryto pažeidimo sunkumą ir pobūdį. ^s-1e5fac4fdae2818555794b00
 
 
-3. Už kelis vienu metu padarytus pažeidimus skiriama viena drausminė nuobauda. ^4bfc66848c26b6a830e88648
+3. Už kelis vienu metu padarytus pažeidimus skiriama viena drausminė nuobauda. ^s-b7c0de197b089df113b7397e
 
 
-4. Šio įstatymo [[#^51363b31bd8d5e54e68de010|29 straipsnio 3 punkte]] nustatyta drausminė nuobauda gali būti skiriama tik tuo atveju, kai suimtasis nevykdo šio įstatymo [[#^6f65b4ae75398c91738bd207|20 straipsnio 1 dalies 2 punkte]] nustatytos pareigos arba nesilaiko šio įstatymo [[#^7e3faf1d596faa328eee4ec0|20 straipsnio 2 dalies]] 1, 3, 7 ir 8 punktuose nustatytų draudimų, taip pat jeigu suimtajam iki šio pažeidimo padarymo per vienus metus tris kartus buvo paskirtos administracinės ir (ar) drausminės nuobaudos. Nėščioms moterims ir asmenims, kurie dėl medicininių priežasčių negali būti izoliuojami, ši drausminė nuobauda neskiriama, o jeigu buvo paskirta, – nevykdoma. ^55895103cf87257f1a6d5ece
+4. Šio įstatymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nustatyta drausminė nuobauda gali būti skiriama tik tuo atveju, kai suimtasis nevykdo šio įstatymo [[#^s-3413dbe6db124a055665843d|20 straipsnio 1 dalies 2 punkte]] nustatytos pareigos arba nesilaiko šio įstatymo [[#^s-23afa4ee36009bedd92764f7|20 straipsnio 2 dalies]] 1, 3, 7 ir 8 punktuose nustatytų draudimų, taip pat jeigu suimtajam iki šio pažeidimo padarymo per vienus metus tris kartus buvo paskirtos administracinės ir (ar) drausminės nuobaudos. Nėščioms moterims ir asmenims, kurie dėl medicininių priežasčių negali būti izoliuojami, ši drausminė nuobauda neskiriama, o jeigu buvo paskirta, – nevykdoma. ^s-f2e9cf495aafe56fd51c08dd
 
 
-5. Drausminė nuobauda turi būti paskirta ne vėliau kaip per dešimt parų nuo pažeidimo atskleidimo dienos, o kai dėl pažeidimo buvo atliekamas tyrimas, – nuo tyrimo pabaigos dienos, bet ne vėliau kaip per mėnesį nuo pažeidimo padarymo dienos. ^592538cfd59edf3d86b905db
+5. Drausminė nuobauda turi būti paskirta ne vėliau kaip per dešimt parų nuo pažeidimo atskleidimo dienos, o kai dėl pažeidimo buvo atliekamas tyrimas, – nuo tyrimo pabaigos dienos, bet ne vėliau kaip per mėnesį nuo pažeidimo padarymo dienos. ^s-eff02f4e6d50efe7a41c5857
 
 
-6. Paskirta drausminė nuobauda pradedama vykdyti tuoj pat, bet ne vėliau kaip per vieną mėnesį nuo jos paskyrimo dienos. Drausminė nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo dienos, nebevykdoma. ^fca7e8a5bcebd7f9a4e35bbc
+6. Paskirta drausminė nuobauda pradedama vykdyti tuoj pat, bet ne vėliau kaip per vieną mėnesį nuo jos paskyrimo dienos. Drausminė nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo dienos, nebevykdoma. ^s-406cd8acec14544d5c175c3c
 
 
-7. Suimtieji turi teisę šio įstatymo [[#37 straipsnis. Pareigūnų veiksmų ir sprendimų apskundimas|37 straipsnyje]] nustatyta tvarka apskųsti jiems paskirtas drausmines nuobaudas. Skundo pateikimas drausminės nuobaudos vykdymo nesustabdo. Laisvės atėmimo vietų įstaigos direktorius, išnagrinėjęs skundą, turi teisę suimtajam paskirtą drausminę nuobaudą sušvelninti arba panaikinti, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus, netinkamai įvertino visas pažeidimo padarymo aplinkybes arba jeigu drausminė nuobauda paskirta nepadariusiam pažeidimo suimtajam. ^371759e9ab4b35eb370593eb
+7. Suimtieji turi teisę šio įstatymo [[#^s-5da467c38c6e979160f8662a|37 straipsnyje]] nustatyta tvarka apskųsti jiems paskirtas drausmines nuobaudas. Skundo pateikimas drausminės nuobaudos vykdymo nesustabdo. Laisvės atėmimo vietų įstaigos direktorius, išnagrinėjęs skundą, turi teisę suimtajam paskirtą drausminę nuobaudą sušvelninti arba panaikinti, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus, netinkamai įvertino visas pažeidimo padarymo aplinkybes arba jeigu drausminė nuobauda paskirta nepadariusiam pažeidimo suimtajam. ^s-7cd8409fc6a4a88d4633ff1d
 
 
-8. Jeigu per tris mėnesius, o nepilnamečiui – per du mėnesius po drausminės nuobaudos atlikimo dienos (kai drausminė nuobauda nebuvo vykdoma, – nuo jos paskyrimo dienos) nepaskiriama nauja drausminė nuobauda, laikoma, kad asmuo neturi drausminių nuobaudų. ^943013da65b90623505b551f
+8. Jeigu per tris mėnesius, o nepilnamečiui – per du mėnesius po drausminės nuobaudos atlikimo dienos (kai drausminė nuobauda nebuvo vykdoma, – nuo jos paskyrimo dienos) nepaskiriama nauja drausminė nuobauda, laikoma, kad asmuo neturi drausminių nuobaudų. ^s-1fb78b452cfb35911cf98a33
 
 
-9. Suimtiesiems, kurie siunčiami atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmių, paskirtos drausminės nuobaudos nebevykdomos. ^9ad2eaa654de3cdbc268cc75
+9. Suimtiesiems, kurie siunčiami atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmių, paskirtos drausminės nuobaudos nebevykdomos. ^s-2f82e627ba22a23ff99e46b0
 
 
-10. Suimtasis pasirašytinai informuojamas apie drausminės nuobaudos paskyrimą, jam įteikiama sprendimo, kuriuo paskirta drausminė nuobauda, kopija. ^1155e9c779cc772167bfd5fd
+10. Suimtasis pasirašytinai informuojamas apie drausminės nuobaudos paskyrimą, jam įteikiama sprendimo, kuriuo paskirta drausminė nuobauda, kopija. ^s-804dff692c927bf720ad01d5
 
 
 
-### 32 straipsnis. Laikinas suimtųjų izoliavimas
+### 32 straipsnis. Laikinas suimtųjų izoliavimas ^s-8242fbfcfc1b6efe7af4e89c
 
 
-Suimtasis, kai gali kilti grėsmė jo sveikatai ar gyvybei, taip pat kai kitomis priemonėmis negalima užkirsti kelio teisės pažeidimui ir būtina besirengiantį daryti teisės pažeidimą arba jį darantį ar padariusį suimtąjį izoliuoti, ne ilgiau kaip keturiasdešimt aštuonioms valandoms izoliuojamas nuo kitų suimtųjų, iki bus priimtas sprendimas dėl šio suimtojo laikymo sąlygų. Šis suimtojo laikinas izoliavimas nelaikomas drausmine nuobauda. Jeigu už padarytą pažeidimą paskiriama šio statymo [[#^51363b31bd8d5e54e68de010|29 straipsnio 3 punkte]] nurodyta drausminė nuobauda, laikino izoliavimo laikas įskaitomas į bendrą suimtajam paskirtos drausminės nuobaudos laiką.
+Suimtasis, kai gali kilti grėsmė jo sveikatai ar gyvybei, taip pat kai kitomis priemonėmis negalima užkirsti kelio teisės pažeidimui ir būtina besirengiantį daryti teisės pažeidimą arba jį darantį ar padariusį suimtąjį izoliuoti, ne ilgiau kaip keturiasdešimt aštuonioms valandoms izoliuojamas nuo kitų suimtųjų, iki bus priimtas sprendimas dėl šio suimtojo laikymo sąlygų. Šis suimtojo laikinas izoliavimas nelaikomas drausmine nuobauda. Jeigu už padarytą pažeidimą paskiriama šio statymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nurodyta drausminė nuobauda, laikino izoliavimo laikas įskaitomas į bendrą suimtajam paskirtos drausminės nuobaudos laiką.
 
 
 
-### 33 straipsnis. Suimtųjų izoliavimo sąlygos
+### 33 straipsnis. Suimtųjų izoliavimo sąlygos ^s-e24e84ac88af6a25eead80b4
 
 
-1. Šio įstatymo [[#^51363b31bd8d5e54e68de010|29 straipsnio 3 punkte]] nustatytą drausminę nuobaudą atliekantys suimtieji neturi teisės gauti pasimatymų (išskyrus teisę susitikti su gynėju), perduodamų daiktų, paskambinti (išskyrus teisę paskambinti gynėjui). Jiems leidžiamų įsigyti ir (ar) turėti drabužių ir avalynės, higienos priemonių ir kitų asmeninių daiktų sąrašą ir jų kiekį nustato teisingumo ministras. Šioje dalyje nurodytiems suimtiesiems leidžiama skaityti knygas, spaudos leidinius ir kitą literatūrą kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, nėščioms moterims ir ligoniams pagal gydytojų išvadą – po tris valandas pasivaikščioti. ^eeed9f3a8001b956fe6dc15e
+1. Šio įstatymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nustatytą drausminę nuobaudą atliekantys suimtieji neturi teisės gauti pasimatymų (išskyrus teisę susitikti su gynėju), perduodamų daiktų, paskambinti (išskyrus teisę paskambinti gynėjui). Jiems leidžiamų įsigyti ir (ar) turėti drabužių ir avalynės, higienos priemonių ir kitų asmeninių daiktų sąrašą ir jų kiekį nustato teisingumo ministras. Šioje dalyje nurodytiems suimtiesiems leidžiama skaityti knygas, spaudos leidinius ir kitą literatūrą kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, nėščioms moterims ir ligoniams pagal gydytojų išvadą – po tris valandas pasivaikščioti. ^s-821fcde6145e63332a38c0c2
 
 
-2. Už izoliavimo metu padarytus pažeidimus suimtiesiems gali būti skiriamos šio įstatymo [[#29 straipsnis. Suimtųjų drausminimo priemonės|29 straipsnyje]] nurodytos drausminės nuobaudos, išskyrus pakartotinį izoliavimą. ^22994f38dd0d808ce1e991eb
+2. Už izoliavimo metu padarytus pažeidimus suimtiesiems gali būti skiriamos šio įstatymo [[#^s-83e419595282b3864a996c5d|29 straipsnyje]] nurodytos drausminės nuobaudos, išskyrus pakartotinį izoliavimą. ^s-b2397bdffdfa13cb9c43d012
 
 
 
-## IV SKYRIUS
+## IV SKYRIUS ^s-d026736c2f8ba542aabebe6d
 SUIMTŲJŲ PALEIDIMAS IŠ LAISVĖS ATĖMIMO VIETŲ ĮSTAIGOS
 
 
 
-### 34 straipsnis. Suimtųjų paleidimo iš laisvės atėmimo vietų įstaigos pagrindai
+### 34 straipsnis. Suimtųjų paleidimo iš laisvės atėmimo vietų įstaigos pagrindai ^s-b027da52ec93fe94cadff2da
 
 
 Suimtieji paleidžiami iš laisvės atėmimo vietų įstaigos, kai:
 
 
-1) suėmimas panaikinamas; ^bc4ab7a8ad4fe14b4defec81
+1) suėmimas panaikinamas; ^s-0d968ffc22db292f9b76e5ca
 
 
-2) suėmimas pakeičiamas kita kardomąja priemone; ^a07497ce12854d3cd2e13360
+2) suėmimas pakeičiamas kita kardomąja priemone; ^s-9106eeb49efb43dca4ba5b5d
 
 
-3) pasibaigė paskirto ar pratęsto suėmimo terminas. ^fc327e1dd21c88b882ba5713
-
-
-
-### 35 straipsnis. Suimtųjų paleidimo iš laisvės atėmimo vietų įstaigos tvarka
-
-
-1. Nuosprendis, nutartis arba nutarimas dėl suimtojo paleidimo vykdomi nedelsiant, kai tik jie gaunami laisvės atėmimo vietų įstaigoje. ^b5eee99e745eeeb267c3e62e
-
-
-2. Pasibaigus suėmimo terminui, laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas privalo paleisti suimtąjį ir apie tai pranešti šio asmens nusikalstamą veiką tiriančiam pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Jeigu suimtasis prašo, laisvės atėmimo vietų įstaiga privalo leisti suimtajam pranešti telefonu apie jo paleidimą. ^f75458102c48960895a7dbb2
-
-
-3. Paleidžiamiems asmenims paleidimo dieną pasirašytinai išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje turimi pinigai, taip pat išbūtą suėmimo laiką liudijantys dokumentai. ^410ebcdc468c0eba55d5898d
-
-
-4. Paleidžiami nepilnamečiai pasiunčiami pas artimuosius giminaičius arba globėjus (rūpintojus). Šiuos nepilnamečius privalo lydėti laisvės atėmimo vietų įstaigos atstovas arba tėvai, globėjai (rūpintojai) ar artimieji giminaičiai. ^224ec2e0741581a8e8362520
-
-
-5. Jeigu laisvės atėmimo vietų įstaiga yra gavusi pažymą, kad nukentėjusysis pageidauja būti informuotas apie būsimą suimtojo paleidimą į laisvę ar suimtojo pabėgimą iš laisvės atėmimo vietų įstaigos, laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas apie suimtojo paleidimą į laisvę ar suimtojo pabėgimą iš laisvės atėmimo vietų įstaigos privalo pranešti nukentėjusiajam. Nukentėjusysis taip pat informuojamas apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir šių priemonių skyrimo tvarką. Nukentėjusiajam apie suimtojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki suimtojo paleidimo dienos. Tais atvejais, kai suimtasis iš laisvės atėmimo vietų įstaigos turi būti paleidžiamas tuoj pat po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl suimtojo paleidimo į laisvę, taip pat kai suimtasis pabėga iš laisvės atėmimo vietų įstaigos, nukentėjusiajam pranešama iš karto po suimtojo paleidimo į laisvę ar suimtojo pabėgimo iš laisvės atėmimo vietų įstaigos. ^c1f606cff0e182dd6f11b5be
-
-
-6. Paleidžiami asmenys, kurie asmeninėse sąskaitose neturi lėšų, aprūpinami viešojo transporto bilietais kelionei iki gyvenamosios vietos Lietuvos Respublikos teritorijoje. Paleidžiami asmenys, kurie neturi pagal sezoną reikiamų drabužių, avalynės ir lėšų jiems įsigyti, drabužiais ir avalyne pagal sezoną aprūpinami nemokamai. ^b2bb4dbe867f1c09ab6ef02b
+3) pasibaigė paskirto ar pratęsto suėmimo terminas. ^s-225996218a8462aefaf2006b
 
 
 
-## V SKYRIUS
+### 35 straipsnis. Suimtųjų paleidimo iš laisvės atėmimo vietų įstaigos tvarka ^s-10184c0fcf0947795e8043bc
+
+
+1. Nuosprendis, nutartis arba nutarimas dėl suimtojo paleidimo vykdomi nedelsiant, kai tik jie gaunami laisvės atėmimo vietų įstaigoje. ^s-38662b5c03302e9751a5ecae
+
+
+2. Pasibaigus suėmimo terminui, laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas privalo paleisti suimtąjį ir apie tai pranešti šio asmens nusikalstamą veiką tiriančiam pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Jeigu suimtasis prašo, laisvės atėmimo vietų įstaiga privalo leisti suimtajam pranešti telefonu apie jo paleidimą. ^s-2312918d39aba68d7584eb94
+
+
+3. Paleidžiamiems asmenims paleidimo dieną pasirašytinai išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje turimi pinigai, taip pat išbūtą suėmimo laiką liudijantys dokumentai. ^s-30a9df4a8640fb96c936dca1
+
+
+4. Paleidžiami nepilnamečiai pasiunčiami pas artimuosius giminaičius arba globėjus (rūpintojus). Šiuos nepilnamečius privalo lydėti laisvės atėmimo vietų įstaigos atstovas arba tėvai, globėjai (rūpintojai) ar artimieji giminaičiai. ^s-67daa7379fe6424761c0c90e
+
+
+5. Jeigu laisvės atėmimo vietų įstaiga yra gavusi pažymą, kad nukentėjusysis pageidauja būti informuotas apie būsimą suimtojo paleidimą į laisvę ar suimtojo pabėgimą iš laisvės atėmimo vietų įstaigos, laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas apie suimtojo paleidimą į laisvę ar suimtojo pabėgimą iš laisvės atėmimo vietų įstaigos privalo pranešti nukentėjusiajam. Nukentėjusysis taip pat informuojamas apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir šių priemonių skyrimo tvarką. Nukentėjusiajam apie suimtojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki suimtojo paleidimo dienos. Tais atvejais, kai suimtasis iš laisvės atėmimo vietų įstaigos turi būti paleidžiamas tuoj pat po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl suimtojo paleidimo į laisvę, taip pat kai suimtasis pabėga iš laisvės atėmimo vietų įstaigos, nukentėjusiajam pranešama iš karto po suimtojo paleidimo į laisvę ar suimtojo pabėgimo iš laisvės atėmimo vietų įstaigos. ^s-4c98022b2780611244ce701c
+
+
+6. Paleidžiami asmenys, kurie asmeninėse sąskaitose neturi lėšų, aprūpinami viešojo transporto bilietais kelionei iki gyvenamosios vietos Lietuvos Respublikos teritorijoje. Paleidžiami asmenys, kurie neturi pagal sezoną reikiamų drabužių, avalynės ir lėšų jiems įsigyti, drabužiais ir avalyne pagal sezoną aprūpinami nemokamai. ^s-701447d42d2973234d43fb5e
+
+
+
+## V SKYRIUS ^s-9fb93909cf70515986d7d5db
 BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 36 straipsnis. Suimtųjų valstybei padarytos turtinės žalos atlyginimas
+### 36 straipsnis. Suimtųjų valstybei padarytos turtinės žalos atlyginimas ^s-44e286a01c5121e251e0d600
 
 
-1. Suimtieji privalo atlyginti visą jų suėmimo vykdymo metu valstybei padarytą turtinę žalą. ^f3ebed3906f8f4d39565056d
+1. Suimtieji privalo atlyginti visą jų suėmimo vykdymo metu valstybei padarytą turtinę žalą. ^s-134f56ea697ca082da346a99
 
 
-2. Suimtųjų valstybei padarytos turtinės žalos atlyginimas išieškomas motyvuotu laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais turtinės žalos atlyginimas išieškomas Lietuvos Respublikos civilinio proceso kodekso nustatytais pagrindais ir tvarka. ^4ad22f2fe93c8ad77311680c
+2. Suimtųjų valstybei padarytos turtinės žalos atlyginimas išieškomas motyvuotu laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais turtinės žalos atlyginimas išieškomas Lietuvos Respublikos civilinio proceso kodekso nustatytais pagrindais ir tvarka. ^s-6d2a81350a153eb65120025b
 
 
-3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios neatlygino paleistas iš laisvės atėmimo vietų įstaigos asmuo, išieškoma Civilinio proceso kodekso nustatytais pagrindais ir tvarka. ^3ee66014bec08829d7cd36eb
+3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios neatlygino paleistas iš laisvės atėmimo vietų įstaigos asmuo, išieškoma Civilinio proceso kodekso nustatytais pagrindais ir tvarka. ^s-df12400e866d461296b41eef
 
 
 
-### 37 straipsnis. Pareigūnų veiksmų ir sprendimų apskundimas
+### 37 straipsnis. Pareigūnų veiksmų ir sprendimų apskundimas ^s-5da467c38c6e979160f8662a
 
 
-1. Laisvės atėmimo vietų įstaigos pareigūnų veiksmai ir sprendimai skundžiami Bausmių vykdymo kodekso 100 straipsnyje nustatyta tvarka. ^3803c6c81dac513cc8d873d1
+1. Laisvės atėmimo vietų įstaigos pareigūnų veiksmai ir sprendimai skundžiami [[latest/TAR.A0A0CCC6B997#^s-8c564340996c7d3fe4a7512c|Bausmių vykdymo kodekso 100 straipsnyje]] nustatyta tvarka. ^s-e478f209bf33282292e2b2be
 
 
-2. Ikiteisminio tyrimo pareigūnų, prokurorų ir teisėjų veiksmai ir sprendimai skundžiami Baudžiamojo proceso kodekso ar kitų teisės aktų nustatyta tvarka. ^91cd804ca2ac8820f2bfdba5
+2. Ikiteisminio tyrimo pareigūnų, prokurorų ir teisėjų veiksmai ir sprendimai skundžiami [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] ar kitų teisės aktų nustatyta tvarka. ^s-dc3cdb6a27851dc0bef91d4d
 
 
 
@@ -818,13 +823,13 @@ priedas
 
 
 
-1. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR. ^81df13dee1b4fe2a33a03184
+1. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR. ^s-fc6244c92516a9f7de13bd47
 
 
-2. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu. ^df09e988d98b7dac24245414
+2. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu. ^s-90e0359a58996ef1923aee22
 
 
-3. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^eeb6b6d2fd602beeeb401407
+3. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-452fbdc0109ee7a63a34f554
 
 
 
@@ -835,47 +840,47 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. [[latest/TAR.38777A68F765|0961010ISTA00I-1348]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo 6, 9 ir [[#35 straipsnis. Suimtųjų paleidimo iš laisvės atėmimo vietų įstaigos tvarka|35 straipsnių]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.38777A68F765|Lietuvos Respublikos kardomojo kalinimo įstatymo 6, 9 ir 35 straipsnių pakeitimo ir papildymo įstatymas]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. [[latest/TAR.789324744FA8|0971010ISTAVIII-151]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir [[#33 straipsnis. Suimtųjų izoliavimo sąlygos|33 straipsnių]] pakeitimo įstatymas
+[[latest/TAR.789324744FA8|Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. [[latest/TAR.DBEE09C5F4C2|0991010ISTAIII-1424]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo [[#5 straipsnis. Asmenų suėmimo tvarka|5 straipsnio]] ir 1 priedėlio pakeitimo įstatymas
+[[latest/TAR.DBEE09C5F4C2|Lietuvos Respublikos kardomojo kalinimo įstatymo 5 straipsnio ir 1 priedėlio pakeitimo įstatymas]]
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. [[latest/TAR.EB7DE90D9BC3|1001010ISTAIII-1634]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo 5, 15, 19, 32 ir [[#33 straipsnis. Suimtųjų izoliavimo sąlygos|33 straipsnių]] pakeitimo įstatymas
+[[latest/TAR.EB7DE90D9BC3|Lietuvos Respublikos kardomojo kalinimo įstatymo 5, 15, 19, 32 ir 33 straipsnių pakeitimo įstatymas]]
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. [[latest/TAR.CF823168EC74|1011010ISTA00IX-431]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo 10, 15, [[#18 straipsnis. Suimtųjų teisė į trumpalaikę išvyką dėl svarbių priežasčių|18 straipsnių]] bei 1 priedėlio pakeitimo ir papildymo įstatymas
+[[latest/TAR.CF823168EC74|Lietuvos Respublikos kardomojo kalinimo įstatymo 10, 15, 18 straipsnių bei 1 priedėlio pakeitimo ir papildymo įstatymas]]
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. [[latest/TAR.9C7D2C4C5AE0|1041010ISTA0IX-2058]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo [[#18 straipsnis. Suimtųjų teisė į trumpalaikę išvyką dėl svarbių priežasčių|18 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.9C7D2C4C5AE0|Lietuvos Respublikos kardomojo kalinimo įstatymo 18 straipsnio pakeitimo įstatymas]]
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. [[latest/TAR.25D777B9177C|1061010ISTA000X-636]]
-Lietuvos Respublikos baudžiamojo proceso kodekso, Bausmių vykdymo kodekso ir Kardomojo kalinimo įstatymo pakeitimo ir papildymo įstatymas
+[[latest/TAR.25D777B9177C|Lietuvos Respublikos baudžiamojo proceso kodekso, Bausmių vykdymo kodekso ir Kardomojo kalinimo įstatymo pakeitimo ir papildymo įstatymas]]
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1660, 2008-07-01, Žin., 2008, Nr. 81-3172 (2008-07-17), i. k. [[latest/TAR.CFC9E641B5A7|1081010ISTA00X-1660]]
-Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas
+[[latest/TAR.CFC9E641B5A7|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]]
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2247, 2012-10-02, Žin., 2012, Nr. 122-6106 (2012-10-20), i. k. [[latest/TAR.D58E8EC8571C|1121010ISTA0XI-2247]]
-Lietuvos Respublikos suėmimo vykdymo įstatymo [[#10 straipsnis. Suimtųjų teisė sudaryti civilinius sandorius|10 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.D58E8EC8571C|Lietuvos Respublikos suėmimo vykdymo įstatymo 10 straipsnio pakeitimo įstatymas]]
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -890,17 +895,17 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 48 straipsnio ir prie
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 14, 23, [[#31 straipsnis. Drausminių nuobaudų skyrimo suimtiesiems tvarka|31 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 14, 23, [[#^s-bcd8d2a749df23894b7b0653|31 straipsnių]] ir priedo pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir [[#8 straipsnis. Suimtųjų teisė susirašinėti|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir [[#^s-da7e77ab4ef51a022d59bccc|8 straipsnių]] pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-495, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10916
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#11 straipsnis. Suimtųjų teisė sudaryti santuoką|11 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-2f73642fea9cb449338ae2ec|11 straipsnio]] pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -925,7 +930,7 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 1
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir [[#10 straipsnis. Suimtųjų teisė sudaryti civilinius sandorius|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir [[#^s-c4df9c122b7e362cdf7bcf6b|10 straipsnių]] pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -935,9 +940,9 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymas
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymo Nr. XIV-1198 [[#1 straipsnis. Įstatymo paskirtis|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo [[latest/a2029f80040211edb32c9f9d8ba206f8|įstatymo Nr. XIV-1198]] [[#^s-10717de916e1e353637b560a|1 straipsnio]] pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#24 straipsnis. Suimtųjų asmens sveikatos priežiūra|24 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-4884bc97cc3c179d7c1cc938|24 straipsnio]] pakeitimo įstatymas

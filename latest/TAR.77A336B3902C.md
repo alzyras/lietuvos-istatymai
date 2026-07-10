@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.77A336B3902C"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.77A336B3902C.md"
 latest_sha256: "d9163ad49fd0b714d979f9ba9fcd8a940c50a2dea9602d52505b8fb4077f4382"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.77A336B3902C]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.77A336B3902C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.77A336B3902C
+- Ryšiai: [[Ryšiai/TAR.77A336B3902C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 3 dalies pakeitimas ^s-b7383c61bfab4ebfc5a8b78a
 
 
 22 straipsnio 3 dalyje po žodžių „Įstaigos vadovus“ įrašyti žodžius „vidaus audito tarnybos vadovus bei auditorius“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-0ddedf3632aa28f1ac094bc3
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A98399150BF9"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 38 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 38 straipsnių pakeitimo ir papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 6, 38 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-02-05"
 latest_path: "latest/TAR.A98399150BF9.md"
 latest_sha256: "d9fd0368af7c0903024997869bdadcb416364faffac654f17f0e843db9e70d35"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A98399150BF9]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 38 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A98399150BF9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A98399150BF9
+- Ryšiai: [[Ryšiai/TAR.A98399150BF9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-1480a582ffebbbcd8697101b
 
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -42,39 +47,39 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 „4. Už pajamas, per mokestinį laikotarpį gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, mokamas savivaldybių tarybų nustatytas fiksuoto dydžio pajamų mokestis, kuris negali būti mažesnis už pajamų mokestį, apskaičiuojamą iš dvylikos minimaliųjų mėnesinių algų, galiojančių mokestinio laikotarpio, einančio prieš mokestinį laikotarpį, kuriam įsigyjami verslo liudijimai, spalio 1 dieną, sumos atėmus dvylika pagrindinių neapmokestinamųjų pajamų dydžių, galiosiančių to mokestinio laikotarpio, kuriam įsigyjami verslo liudijimai, sausio 1 dieną, ir pritaikius šio straipsnio 3 dalyje nurodytą pajamų mokesčio tarifą, galiosiantį to mokestinio laikotarpio, kuriam įsigyjami verslo liudijimai, sausio 1 dieną. Savivaldybių tarybos turi teisę nustatyti mažesnį fiksuoto dydžio pajamų mokestį už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą:
 
 
-1) neįgaliesiems asmenims, asmenims, sukakusiems senatvės pensijos amžių, motinai (įmotei) arba tėvui (įtėviui), kuris (kuri) vaikus (įvaikius) iki 18 metų, taip pat vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, augina vienas (viena), asmenims (tėvams arba įtėviams), auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, taip pat vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, arba vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, bendrojo lavinimo, profesinių, aukštųjų mokyklų dieninių skyrių moksleiviams ir studentams, taip pat bedarbiams, kurie nustatyta tvarka įregistruoti teritorinėse darbo biržose; ^0f77f7f4afae66170ebebf2e
+1) neįgaliesiems asmenims, asmenims, sukakusiems senatvės pensijos amžių, motinai (įmotei) arba tėvui (įtėviui), kuris (kuri) vaikus (įvaikius) iki 18 metų, taip pat vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, augina vienas (viena), asmenims (tėvams arba įtėviams), auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, taip pat vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, arba vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, bendrojo lavinimo, profesinių, aukštųjų mokyklų dieninių skyrių moksleiviams ir studentams, taip pat bedarbiams, kurie nustatyta tvarka įregistruoti teritorinėse darbo biržose; ^s-146a62f85d8e3108a82e1374
 
 
-2) asmenims, įsigyjantiems verslo liudijimą verstis verslo liudijime nurodytos rūšies veikla visoje Lietuvos Respublikoje, išskyrus Alytaus, Kauno, Klaipėdos, Marijampolės, Neringos, Palangos, Panevėžio, Šiaulių ir Vilniaus miestus, arba konkrečios savivaldybės teritorijoje, išskyrus Alytaus, Kauno, Klaipėdos, Marijampolės, Neringos, Palangos, Panevėžio, Šiaulių ir Vilniaus miestų savivaldybių teritorijas; ^b7e09c36b36d2e61c5df4a1f
+2) asmenims, įsigyjantiems verslo liudijimą verstis verslo liudijime nurodytos rūšies veikla visoje Lietuvos Respublikoje, išskyrus Alytaus, Kauno, Klaipėdos, Marijampolės, Neringos, Palangos, Panevėžio, Šiaulių ir Vilniaus miestus, arba konkrečios savivaldybės teritorijoje, išskyrus Alytaus, Kauno, Klaipėdos, Marijampolės, Neringos, Palangos, Panevėžio, Šiaulių ir Vilniaus miestų savivaldybių teritorijas; ^s-382583e3ab880bbcd6321697
 
 
-3) asmenims, įsigyjantiems verslo liudijimą verstis tradicinių amatų veikla; ^993de493babfd88dee1d8add
+3) asmenims, įsigyjantiems verslo liudijimą verstis tradicinių amatų veikla; ^s-e973558610aa1ad47561323d
 
 
-4) asmenims, kurie laikotarpiu, kuriam įsigyjamas verslo liudijimas, gauna su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų.“ ^d1ca7111b3bf7101721329dc
+4) asmenims, kurie laikotarpiu, kuriam įsigyjamas verslo liudijimas, gauna su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų.“ ^s-5c191bcbab0347af59e2b1d5
 
 
 
-### 2 straipsnis. 38 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 38 straipsnio pakeitimas ir papildymas ^s-b9aa461c5e32f2268e47f6d7
 
 
-1. Papildyti 38 straipsnį nauja 5 dalimi: ^98bc87eb68cca79e0889da31
+1. Papildyti 38 straipsnį nauja 5 dalimi: ^s-95256e820c03f5e2af91c254
 
 
 „5. Fiksuoto dydžio pajamų mokestis už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, įskaitomas į tos savivaldybės, kurios teritorijoje yra išduotas verslo liudijimas, biudžetą.“
 
 
-2. Buvusias 38 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^75e726f0357501553a169d5d
+2. Buvusias 38 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^s-0062c07016505f9643cfbb54
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-4fe33426086db1b8d9bd9eb6
 
 
-1. Šio įstatymo [[#1 straipsnis. 6 straipsnio 4 dalies pakeitimas|1 straipsnio]] nuostatos taikomos nuo 2008 m. liepos 1 d. ^4a4e3b71d75f6b27f12f63ff
+1. Šio įstatymo [[#^s-1480a582ffebbbcd8697101b|1 straipsnio]] nuostatos taikomos nuo 2008 m. liepos 1 d. ^s-7370bcdb0cee4363c4da2e51
 
 
-2. Konkrečius fiksuoto pajamų mokesčio, mokamo už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, dydžius, kurie 2008 metų mokestiniu laikotarpiu bus taikomi įsigyjant verslo liudijimus nuo liepos 1 dienos, savivaldybių tarybos nustato iki 2008 m. birželio 1 d., vadovaudamosi šio įstatymo [[#1 straipsnis. 6 straipsnio 4 dalies pakeitimas|1 straipsnio]] nuostatomis ir taikydamos 2007 m. spalio 1 d. galiojusią minimaliąją mėnesinę algą, 2008 m. sausio 1 d. galiojusį pagrindinį neapmokestinamąjį pajamų dydį ir 24 procentų pajamų mokesčio tarifą. ^69140e9d086af8921da86a87
+2. Konkrečius fiksuoto pajamų mokesčio, mokamo už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, dydžius, kurie 2008 metų mokestiniu laikotarpiu bus taikomi įsigyjant verslo liudijimus nuo liepos 1 dienos, savivaldybių tarybos nustato iki 2008 m. birželio 1 d., vadovaudamosi šio įstatymo [[#^s-1480a582ffebbbcd8697101b|1 straipsnio]] nuostatomis ir taikydamos 2007 m. spalio 1 d. galiojusią minimaliąją mėnesinę algą, 2008 m. sausio 1 d. galiojusį pagrindinį neapmokestinamąjį pajamų dydį ir 24 procentų pajamų mokesčio tarifą. ^s-e44be51572f64dfa657dc477
 
 
 

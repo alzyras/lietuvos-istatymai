@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF91D34A410D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Tarptautinės civilinės aviacijos konvencijos pakeitimų protokolų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Tarptautinės civilinės aviacijos konvencijos pakeitimų protokolų ratifikavimo"
+  - "įstatymas dėl Tarptautinės civilinės aviacijos konvencijos pakeitimų protokolų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-09-26"
 latest_path: "latest/TAR.AF91D34A410D.md"
 latest_sha256: "1a51d3cd144186c1266f7079eb142cb305a87633fe583c21bc579244499c6ded"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF91D34A410D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės civilinės aviacijos konvencijos pakeitimų protokolų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF91D34A410D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF91D34A410D
+- Ryšiai: [[Ryšiai/TAR.AF91D34A410D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolų ratifikavimas
+### 1 straipsnis. Protokolų ratifikavimas ^s-af2b37b96803cf5efded71df
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 114, ratifikuoja Tarptautinės civilinės aviacijos konvencijos, sudarytos1944 m. gruodžio 7 d. Čikagoje, pakeitimų protokolus:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13A40EAFA015"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Protokolo, keičiančio Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus, ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Protokolo, keičiančio Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus, ratifikavimo"
+  - "įstatymas dėl Protokolo, keičiančio Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus, ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-18"
 latest_path: "latest/TAR.13A40EAFA015.md"
 latest_sha256: "f88909feabaa410636a7fc5cb173decdd3f37d7100f8a7283588ae8f72d31e6e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13A40EAFA015]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Protokolo, keičiančio Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus, ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13A40EAFA015.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13A40EAFA015
+- Ryšiai: [[Ryšiai/TAR.13A40EAFA015|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-5710011fe0b26bd43045aabb
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 22 d. dekretą Nr. 359, ratifikuoja 1998 m. liepos 16 d. Briuselyje pasirašytą Protokolą, keičiantį Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus.

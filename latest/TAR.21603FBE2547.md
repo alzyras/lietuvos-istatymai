@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.21603FBE2547"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 2, 16, 20, 22, 55-2 straipsnių bei priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 2, 16, 20, 22, 55-2 straipsnių bei priedo pakeitimo ir papildymo įstatymas"
+  - "draudimo įstatymo 2, 16, 20, 22, 55-2 straipsnių bei priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-04-04"
 latest_path: "latest/TAR.21603FBE2547.md"
 latest_sha256: "fee1864b14daf5454ed6a58e439312140aee7528b717ca1d4a4320fd8d56270b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.21603FBE2547]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 2, 16, 20, 22, 55-2 straipsnių bei priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.21603FBE2547.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.21603FBE2547
+- Ryšiai: [[Ryšiai/TAR.21603FBE2547|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,35 +38,35 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-f1598c9f3bbd72f0e6cbba45
 
 
-1. Papildyti [[#2 straipsnis. 16 straipsnio 2 dalies pakeitimas|2 straipsnį]] nauja 40 dalimi: ^f5e9c72313c9c8ee59abf9fd
+1. Papildyti [[#^s-5b72da47630b63029fd91211|2 straipsnį]] nauja 40 dalimi: ^s-eb7828d87f8fd7fcaa41e993
 
 
 „40. Kartu veikiantys asmenys – du ar daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia įgyvendinti savo teises, turimas pagal draudimo įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalį, nurodytą šio straipsnio 52 dalyje.“
 
 
-2. Buvusias [[#2 straipsnis. 16 straipsnio 2 dalies pakeitimas|2 straipsnio]] 40–61 dalis laikyti atitinkamai 41–62 dalimis. ^b51e01f6ab3c8f301f3c5150
+2. Buvusias [[#^s-5b72da47630b63029fd91211|2 straipsnio]] 40–61 dalis laikyti atitinkamai 41–62 dalimis. ^s-432550011a4fc84501623cc1
 
 
-3. Papildyti [[#2 straipsnis. 16 straipsnio 2 dalies pakeitimas|2 straipsnį]] nauja 63 dalimi: ^ee57649424890473ec763c3d
+3. Papildyti [[#^s-5b72da47630b63029fd91211|2 straipsnį]] nauja 63 dalimi: ^s-eb7e173ebb4a7fcfa82a7ec8
 
 
 „63. Suderintieji kolektyvinio investavimo subjektai – kaip tai apibrėžta Kolektyvinio investavimo subjektų įstatyme.“
 
 
-4. Buvusias 62–69 dalis laikyti atitinkamai 64–71 dalimis. ^8333b103204b6a3359ef44dd
+4. Buvusias 62–69 dalis laikyti atitinkamai 64–71 dalimis. ^s-9b61a6c04eba608ab6755e0d
 
 
-5. Papildyti 2 straipsnį 72 dalimi: ^27c9c2cebc04d46ae2d82229
+5. Papildyti 2 straipsnį 72 dalimi: ^s-8e510556e9a5f509f748a205
 
 
 „72. Valdymo įmonė – kaip tai apibrėžta Kolektyvinio investavimo subjektų įstatyme.“
 
 
 
-### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-5b72da47630b63029fd91211
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -70,17 +75,17 @@ Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Prieš išduodama draudimo veiklos licenciją, Priežiūros komisija privalo konsultuotis su Lietuvos banku, Vertybinių popierių komisija ar kitos Europos Sąjungos valstybės narės kompetentinga institucija, prižiūrinčia atitinkamą finansų sektorių, kai draudimo įmonė yra:
 
 
-1) Europos Sąjungos valstybės narės kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės dukterinė įmonė; ^29fa1c889a88286ed8541940
+1) Europos Sąjungos valstybės narės kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės dukterinė įmonė; ^s-6b2789c86a0c3fff885af9aa
 
 
-2) Europos Sąjungos valstybės narės kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės patronuojančios įmonės dukterinė įmonė; ^1b41205202fa7a5c5bc34660
+2) Europos Sąjungos valstybės narės kredito įstaigos, finansų maklerio įmonės ar valdymo įmonės patronuojančios įmonės dukterinė įmonė; ^s-f1af568e0dcdf4649817f22b
 
 
-3) kontroliuojama to paties asmens, kuris kontroliuoja kitos Europos Sąjungos valstybės narės kredito įstaigą, finansų maklerio įmonę ar valdymo įmonę.“ ^1797599279365ad701481d66
+3) kontroliuojama to paties asmens, kuris kontroliuoja kitos Europos Sąjungos valstybės narės kredito įstaigą, finansų maklerio įmonę ar valdymo įmonę.“ ^s-cb062161112bb5c5b4bdff59
 
 
 
-### 3 straipsnis. 20 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 20 straipsnio 3 dalies pakeitimas ^s-e365313391c978c773f640d2
 
 
 Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -90,7 +95,7 @@ Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 22 straipsnio pakeitimas
+### 4 straipsnis. 22 straipsnio pakeitimas ^s-211515dee735df403aceb131
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -99,101 +104,101 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 „22 straipsnis. Tiesiogiai ar netiesiogiai valdomų draudimo įmonės akcijų įsigijimas ir perleidimas
 
 
-1. Fizinis ar juridinis asmuo arba kartu veikiantys asmenys (toliau šiame straipsnyje – įsigyjantis asmuo), nusprendę tiesiogiai ar netiesiogiai įsigyti pakankamą akcijų paketą arba padidinti jį lygiai iki 20 procentų, 30 procentų ar 50 procentų arba daugiau draudimo įmonės įstatinio kapitalo, arba padidinti turimų balsų draudimo įmonės visuotiniame akcininkų susirinkime skaičių lygiai iki 20 procentų, 30 procentų ar 50 procentų arba daugiau visų balsų, arba jei tiesiogiai ar netiesiogiai įsigijusi akcijų draudimo įmonė taps įsigijusio akcijų asmens dukterine įmone (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti Priežiūros komisijos sprendimą neprieštarauti siūlomam įsigijimui. Įsigyjantis asmuo privalo apie siūlomą įsigijimą raštu pranešti Priežiūros komisijai, nurodyti planuojamo įsigyti pakankamo akcijų paketo dydį ir pateikti [[#^17230b4b64b2e94c8c93a532|šio straipsnio 3 dalyje]] nurodytame sąraše nustatytus dokumentus ir informaciją. ^a91601fc2d49a3ba01890a4d
+1. Fizinis ar juridinis asmuo arba kartu veikiantys asmenys (toliau šiame straipsnyje – įsigyjantis asmuo), nusprendę tiesiogiai ar netiesiogiai įsigyti pakankamą akcijų paketą arba padidinti jį lygiai iki 20 procentų, 30 procentų ar 50 procentų arba daugiau draudimo įmonės įstatinio kapitalo, arba padidinti turimų balsų draudimo įmonės visuotiniame akcininkų susirinkime skaičių lygiai iki 20 procentų, 30 procentų ar 50 procentų arba daugiau visų balsų, arba jei tiesiogiai ar netiesiogiai įsigijusi akcijų draudimo įmonė taps įsigijusio akcijų asmens dukterine įmone (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti Priežiūros komisijos sprendimą neprieštarauti siūlomam įsigijimui. Įsigyjantis asmuo privalo apie siūlomą įsigijimą raštu pranešti Priežiūros komisijai, nurodyti planuojamo įsigyti pakankamo akcijų paketo dydį ir pateikti [[#^s-61200782c4f78ed9e9f431b5|šio straipsnio 3 dalyje]] nurodytame sąraše nustatytus dokumentus ir informaciją. ^s-8e22577fdf285cd0ed9925e7
 
 
-2. Fizinis ar juridinis asmuo, nusprendęs perleisti tiesiogiai ar netiesiogiai valdomą pakankamą akcijų paketą arba sumažinti tiesiogiai ar netiesiogiai valdomo pakankamo akcijų paketo dydį taip, kad jis po akcijų perleidimo taps mažesnis už 20 procentų, 30 procentų ar 50 procentų draudimo įmonės įstatinio kapitalo arba sumažins turimų balsų draudimo įmonės visuotiniame akcininkų susirinkime skaičių taip, kad jis po tiesiogiai ar netiesiogiai valdomo pakankamo akcijų paketo perleidimo taps mažesnis už 20 procentų, 30 procentų ar 50 procentų visų balsų, arba jei perleidus tiesiogiai ar netiesiogiai valdomas akcijas draudimo įmonė nebebus akcijas perleidusio asmens dukterine įmone, privalo apie tai raštu pranešti Priežiūros komisijai ir nurodyti ketinamo perleisti pakankamo akcijų paketo dydį. ^ebc30e9c48e492a115d0299e
+2. Fizinis ar juridinis asmuo, nusprendęs perleisti tiesiogiai ar netiesiogiai valdomą pakankamą akcijų paketą arba sumažinti tiesiogiai ar netiesiogiai valdomo pakankamo akcijų paketo dydį taip, kad jis po akcijų perleidimo taps mažesnis už 20 procentų, 30 procentų ar 50 procentų draudimo įmonės įstatinio kapitalo arba sumažins turimų balsų draudimo įmonės visuotiniame akcininkų susirinkime skaičių taip, kad jis po tiesiogiai ar netiesiogiai valdomo pakankamo akcijų paketo perleidimo taps mažesnis už 20 procentų, 30 procentų ar 50 procentų visų balsų, arba jei perleidus tiesiogiai ar netiesiogiai valdomas akcijas draudimo įmonė nebebus akcijas perleidusio asmens dukterine įmone, privalo apie tai raštu pranešti Priežiūros komisijai ir nurodyti ketinamo perleisti pakankamo akcijų paketo dydį. ^s-9c93b3792cad6e281f9c22c3
 
 
-3. Priežiūros komisija nustato kartu su pranešimu apie siūlomą įsigijimą pateikiamų dokumentų ir informacijos, būtinų įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, sąrašą. Sąraše nurodyti dokumentai ir informacija turi būti proporcingi ir pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui. Sąraše neturi būti nurodyti dokumentai ir informacija, kurie nėra reikalingi įsigyjančio asmens ir siūlomo įsigijimo vertinimui pagal [[#^215aaf0a7e0f3b39b45cff17|šio straipsnio 8 dalyje]] nustatytus kriterijus atlikti. ^17230b4b64b2e94c8c93a532
+3. Priežiūros komisija nustato kartu su pranešimu apie siūlomą įsigijimą pateikiamų dokumentų ir informacijos, būtinų įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, sąrašą. Sąraše nurodyti dokumentai ir informacija turi būti proporcingi ir pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui. Sąraše neturi būti nurodyti dokumentai ir informacija, kurie nėra reikalingi įsigyjančio asmens ir siūlomo įsigijimo vertinimui pagal [[#^s-316c02a16c4b6346476fd813|šio straipsnio 8 dalyje]] nustatytus kriterijus atlikti. ^s-61200782c4f78ed9e9f431b5
 
 
-4. Priežiūros komisija, gavusi pagal [[#^a91601fc2d49a3ba01890a4d|šio straipsnio 1 dalį]] reikalaujamą pranešimą, dokumentus ir informaciją, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, taip pat vėliau gavusi [[#^82103f43a154dfb633a8baf6|šio straipsnio 6 dalyje]] nurodytus papildomus dokumentus ir informaciją, reikalingus vertinimui atlikti, nedelsdama, ne vėliau kaip per 2 darbo dienas, raštu patvirtina jų gavimą ir praneša įsigyjančiam asmeniui datą, kada baigiasi vertinimo laikotarpis. ^20ce740b02823fc6177e63d1
+4. Priežiūros komisija, gavusi pagal [[#^s-8e22577fdf285cd0ed9925e7|šio straipsnio 1 dalį]] reikalaujamą pranešimą, dokumentus ir informaciją, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, taip pat vėliau gavusi [[#^s-6e79fab889e7792957f89f0b|šio straipsnio 6 dalyje]] nurodytus papildomus dokumentus ir informaciją, reikalingus vertinimui atlikti, nedelsdama, ne vėliau kaip per 2 darbo dienas, raštu patvirtina jų gavimą ir praneša įsigyjančiam asmeniui datą, kada baigiasi vertinimo laikotarpis. ^s-c7b3238dc33e45bbfedb35c4
 
 
-5. Priežiūros komisija įsigyjančio asmens ir siūlomo įsigijimo vertinimą atlieka ne vėliau kaip per 60 darbo dienų nuo rašytinio patvirtinimo, kad gauti pranešimas apie siūlomą įsigijimą ir visi [[#^17230b4b64b2e94c8c93a532|šio straipsnio 3 dalyje]] nurodyti dokumentai bei informacija (toliau šiame straipsnyje – vertinimo laikotarpis). ^044d9de6043eec970830a43a
+5. Priežiūros komisija įsigyjančio asmens ir siūlomo įsigijimo vertinimą atlieka ne vėliau kaip per 60 darbo dienų nuo rašytinio patvirtinimo, kad gauti pranešimas apie siūlomą įsigijimą ir visi [[#^s-61200782c4f78ed9e9f431b5|šio straipsnio 3 dalyje]] nurodyti dokumentai bei informacija (toliau šiame straipsnyje – vertinimo laikotarpis). ^s-b9b8faebecad3c2e10acdb75
 
 
-6. Vertinimo laikotarpiu Priežiūros komisija prireikus, ne vėliau kaip penkiasdešimtą vertinimo laikotarpio darbo dieną, gali prašyti pateikti papildomus dokumentus ir informaciją, reikalingus vertinimui užbaigti. Šis prašymas pateikiamas raštu ir nurodoma, kokių papildomų dokumentų ir informacijos reikia. Vertinimo laikotarpio trukmės skaičiavimas stabdomas nuo tos dienos, kurią Priežiūros komisija pateikia prašymą pateikti papildomus dokumentus ir informaciją, ir atnaujinamas tą dieną, kurią gaunamas įsigyjančio asmens atsakymas į prašymą. Sustabdyti vertinimo laikotarpio trukmės skaičiavimą galima ne ilgiau kaip 20 darbo dienų. Be to, Priežiūros komisija turi teisę savo nuožiūra pakartotinai prašyti pateikti papildomų dokumentų ir informacijos ar juos patikslinti, tačiau dėl to vertinimo laikotarpio trukmės skaičiavimas nebegali būti stabdomas. ^82103f43a154dfb633a8baf6
+6. Vertinimo laikotarpiu Priežiūros komisija prireikus, ne vėliau kaip penkiasdešimtą vertinimo laikotarpio darbo dieną, gali prašyti pateikti papildomus dokumentus ir informaciją, reikalingus vertinimui užbaigti. Šis prašymas pateikiamas raštu ir nurodoma, kokių papildomų dokumentų ir informacijos reikia. Vertinimo laikotarpio trukmės skaičiavimas stabdomas nuo tos dienos, kurią Priežiūros komisija pateikia prašymą pateikti papildomus dokumentus ir informaciją, ir atnaujinamas tą dieną, kurią gaunamas įsigyjančio asmens atsakymas į prašymą. Sustabdyti vertinimo laikotarpio trukmės skaičiavimą galima ne ilgiau kaip 20 darbo dienų. Be to, Priežiūros komisija turi teisę savo nuožiūra pakartotinai prašyti pateikti papildomų dokumentų ir informacijos ar juos patikslinti, tačiau dėl to vertinimo laikotarpio trukmės skaičiavimas nebegali būti stabdomas. ^s-6e79fab889e7792957f89f0b
 
 
-7. Priežiūros komisija turi teisę pratęsti [[#^82103f43a154dfb633a8baf6|šio straipsnio 6 dalyje]] nurodytą vertinimo laikotarpio trukmės skaičiavimo sustabdymą ne ilgiau kaip 30 darbo dienų, jei įsigyjantis asmuo yra: ^b7a3829fa366adde37fd1f30
+7. Priežiūros komisija turi teisę pratęsti [[#^s-6e79fab889e7792957f89f0b|šio straipsnio 6 dalyje]] nurodytą vertinimo laikotarpio trukmės skaičiavimo sustabdymą ne ilgiau kaip 30 darbo dienų, jei įsigyjantis asmuo yra: ^s-b10637b19c9217fce25eb294
 
 
-1) įsisteigęs arba jo veikla reglamentuojama užsienio valstybėje; ^4e66790ee55fdef22e303f4f
+1) įsisteigęs arba jo veikla reglamentuojama užsienio valstybėje; ^s-fb3a46e4c7e5cfb28c18e4b2
 
 
-2) fizinis ar juridinis asmuo, kuriam netaikoma priežiūra pagal Lietuvos Respublikos ar kitų Europos Sąjungos valstybių narių teisės aktus, reglamentuojančius kredito įstaigų, draudimo įmonių, perdraudimo įmonių, finansų maklerio įmonių ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonių veiklą. ^62d748e6ce705d08932bf55a
+2) fizinis ar juridinis asmuo, kuriam netaikoma priežiūra pagal Lietuvos Respublikos ar kitų Europos Sąjungos valstybių narių teisės aktus, reglamentuojančius kredito įstaigų, draudimo įmonių, perdraudimo įmonių, finansų maklerio įmonių ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonių veiklą. ^s-8e0098ba6763dff201791706
 
 
-8. Nagrinėdama [[#^a91601fc2d49a3ba01890a4d|šio straipsnio 1 dalyje]] nurodytą pranešimą apie siūlomą įsigijimą ir dokumentus bei informaciją, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, taip pat gautus papildomus dokumentus ir informaciją, Priežiūros komisija, siekdama užtikrinti patikimą ir riziką ribojantį draudimo įmonės, kurios pakankamą akcijų paketą nusprendžiama įsigyti, valdymą ir atsižvelgdama į galimą įsigyjančio asmens poveikį draudimo įmonei, vertina įsigyjančio asmens tinkamumą ir siūlomo įsigijimo finansinį patikimumą pagal visus šiuos kriterijus: ^215aaf0a7e0f3b39b45cff17
+8. Nagrinėdama [[#^s-8e22577fdf285cd0ed9925e7|šio straipsnio 1 dalyje]] nurodytą pranešimą apie siūlomą įsigijimą ir dokumentus bei informaciją, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, taip pat gautus papildomus dokumentus ir informaciją, Priežiūros komisija, siekdama užtikrinti patikimą ir riziką ribojantį draudimo įmonės, kurios pakankamą akcijų paketą nusprendžiama įsigyti, valdymą ir atsižvelgdama į galimą įsigyjančio asmens poveikį draudimo įmonei, vertina įsigyjančio asmens tinkamumą ir siūlomo įsigijimo finansinį patikimumą pagal visus šiuos kriterijus: ^s-316c02a16c4b6346476fd813
 
 
-1) įsigyjančio asmens nepriekaištingą reputaciją; ^be8e0e9c91fcfd151c5af8c1
+1) įsigyjančio asmens nepriekaištingą reputaciją; ^s-187f8e020f3a8024ef301460
 
 
-2) asmens, kuris po siūlomo įsigijimo vadovaus draudimo įmonei, nepriekaištingą reputaciją ir patirtį; ^5b1e228f1007b435fe39aaee
+2) asmens, kuris po siūlomo įsigijimo vadovaus draudimo įmonei, nepriekaištingą reputaciją ir patirtį; ^s-4cc09d4f49f016bf1b93e57f
 
 
-3) įsigyjančio asmens finansinį patikimumą, ypač pagal draudimo įmonės, dėl kurios siūlomas įsigijimas, vykdomos ir numatomos vykdyti veiklos rūšį; ^e1729bdc7ea377a2f225d737
+3) įsigyjančio asmens finansinį patikimumą, ypač pagal draudimo įmonės, dėl kurios siūlomas įsigijimas, vykdomos ir numatomos vykdyti veiklos rūšį; ^s-3d96489ae278bbabff55970a
 
 
-4) ar draudimo įmonė galės nuolat laikytis šio Įstatymo ir kitų teisės aktų nustatytų riziką ribojančių reikalavimų, visų pirma, ar įmonių grupės, kurios dalimi draudimo įmonė taps, struktūra sudaro sąlygas atlikti veiksmingą priežiūrą, Priežiūros komisijai ir kitų Europos Sąjungos valstybių narių priežiūros institucijoms veiksmingai keistis informacija ir apibrėžti Priežiūros komisijos ir kitų Europos Sąjungos valstybių narių priežiūros institucijų atsakomybės pasiskirstymą; ^a92e570088f52080dea682fd
+4) ar draudimo įmonė galės nuolat laikytis šio Įstatymo ir kitų teisės aktų nustatytų riziką ribojančių reikalavimų, visų pirma, ar įmonių grupės, kurios dalimi draudimo įmonė taps, struktūra sudaro sąlygas atlikti veiksmingą priežiūrą, Priežiūros komisijai ir kitų Europos Sąjungos valstybių narių priežiūros institucijoms veiksmingai keistis informacija ir apibrėžti Priežiūros komisijos ir kitų Europos Sąjungos valstybių narių priežiūros institucijų atsakomybės pasiskirstymą; ^s-ad5f59970023c51a68bd1d43
 
 
-5) ar yra pagrindas įtarti, kad siekiant įgyvendinti siūlomą įsigijimą yra vykdoma, buvo įvykdyta ar buvo bandoma įvykdyti pinigų plovimo ar teroristų finansavimo veikla, kaip tai apibrėžta Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, ar kad siūlomas įsigijimas gali padidinti tokių veiksmų pavojų. ^a2874dc75dab57ef6d23579b
+5) ar yra pagrindas įtarti, kad siekiant įgyvendinti siūlomą įsigijimą yra vykdoma, buvo įvykdyta ar buvo bandoma įvykdyti pinigų plovimo ar teroristų finansavimo veikla, kaip tai apibrėžta [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]], ar kad siūlomas įsigijimas gali padidinti tokių veiksmų pavojų. ^s-d7eca0ec5f234fc0e3c6ff05
 
 
-9. Priežiūros komisija turi teisę priimti sprendimą prieštarauti siūlomam įsigijimui, jei: ^df00a10ca549474eff09a809
+9. Priežiūros komisija turi teisę priimti sprendimą prieštarauti siūlomam įsigijimui, jei: ^s-a37122acf535732621621d5b
 
 
-1) nėra pateikti Priežiūros komisijos numatyti ar šio Įstatymo ir kitų Lietuvos Respublikos teisės aktų nustatyta tvarka pareikalauti dokumentai arba pateikti dokumentai neatitinka Lietuvos Respublikos teisės aktų reikalavimų; ^cae44dd92afb52260e413fb2
+1) nėra pateikti Priežiūros komisijos numatyti ar šio Įstatymo ir kitų Lietuvos Respublikos teisės aktų nustatyta tvarka pareikalauti dokumentai arba pateikti dokumentai neatitinka Lietuvos Respublikos teisės aktų reikalavimų; ^s-95adbfba7e7e50c0489543ea
 
 
-2) įsigyjantis asmuo ar siūlomas įsigijimas įvertinamas kaip netinkamas ar finansiškai nepatikimas pagal [[#^215aaf0a7e0f3b39b45cff17|šio straipsnio 8 dalyje]] nustatytus kriterijus. ^f355933584387fde0ebc4c4f
+2) įsigyjantis asmuo ar siūlomas įsigijimas įvertinamas kaip netinkamas ar finansiškai nepatikimas pagal [[#^s-316c02a16c4b6346476fd813|šio straipsnio 8 dalyje]] nustatytus kriterijus. ^s-3f1bf04d092cb81b1d9c2d92
 
 
-10. Jei baigusi vertinimą Priežiūros komisija priima sprendimą prieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio 14 ir [[#^07e7ea1e819e26dd10eeda91|15 dalis]] gautos Lietuvos banko ir Vertybinių popierių komisijos, kitos Europos Sąjungos valstybės narės kompetentingos institucijos, prižiūrinčios atitinkamą finansų sektorių, nuomonės ir išlygos. Priežiūros komisija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus ir patį sprendimą turi teisę paskelbti viešai Priežiūros komisijos interneto tinklalapyje. ^828610cd6f4be68c1fbfebf7
+10. Jei baigusi vertinimą Priežiūros komisija priima sprendimą prieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio 14 ir [[#^s-9d3e8169e85aad503f9dffe2|15 dalis]] gautos Lietuvos banko ir Vertybinių popierių komisijos, kitos Europos Sąjungos valstybės narės kompetentingos institucijos, prižiūrinčios atitinkamą finansų sektorių, nuomonės ir išlygos. Priežiūros komisija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus ir patį sprendimą turi teisę paskelbti viešai Priežiūros komisijos interneto tinklalapyje. ^s-c60ee2386c3648f18398cb5e
 
 
-11. Jei Priežiūros komisija nepasibaigus vertinimo laikotarpiui priima sprendimą neprieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas privalo raštu pranešti įsigyjančiam asmeniui. Jei Priežiūros komisija per vertinimo laikotarpį nepriima sprendimo prieštarauti siūlomam įsigijimui, laikoma, kad ji siūlomam įsigijimui neprieštarauja. ^7e1cf6d39f0184ae1cfd1ab6
+11. Jei Priežiūros komisija nepasibaigus vertinimo laikotarpiui priima sprendimą neprieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas privalo raštu pranešti įsigyjančiam asmeniui. Jei Priežiūros komisija per vertinimo laikotarpį nepriima sprendimo prieštarauti siūlomam įsigijimui, laikoma, kad ji siūlomam įsigijimui neprieštarauja. ^s-9913f6167f70444ab27eaf85
 
 
-12. Priežiūros komisija neturi teisės nustatyti jokių išankstinių sąlygų dėl privalomo įsigyti pakankamo akcijų paketo dydžio ir nagrinėti siūlomo įsigijimo pagal rinkos ekonominius poreikius. ^d43ef5384ba29074b3d8a7db
+12. Priežiūros komisija neturi teisės nustatyti jokių išankstinių sąlygų dėl privalomo įsigyti pakankamo akcijų paketo dydžio ir nagrinėti siūlomo įsigijimo pagal rinkos ekonominius poreikius. ^s-389b0a1f209fda143a6fb849
 
 
-13. Priežiūros komisija, gavusi daugiau kaip vieną pranešimą apie siūlomą įsigijimą toje pačioje draudimo įmonėje, visus gautus pranešimus nagrinėja tokia pat tvarka, nediskriminuodama įsigyjančių asmenų. ^e04742721d3894d91bd69ee0
+13. Priežiūros komisija, gavusi daugiau kaip vieną pranešimą apie siūlomą įsigijimą toje pačioje draudimo įmonėje, visus gautus pranešimus nagrinėja tokia pat tvarka, nediskriminuodama įsigyjančių asmenų. ^s-225e4d5fbc06ed28e5c39ed1
 
 
-14. Priežiūros komisija vertindama privalo konsultuotis su Lietuvos banku, Vertybinių popierių komisija, kitos Europos Sąjungos valstybės narės kompetentinga institucija, prižiūrinčia atitinkamą finansų sektorių, ir priimdama sprendimą atsižvelgti į jų nuomonę, jei įsigyjantis asmuo yra: ^bdf9017fa733a4464d765043
+14. Priežiūros komisija vertindama privalo konsultuotis su Lietuvos banku, Vertybinių popierių komisija, kitos Europos Sąjungos valstybės narės kompetentinga institucija, prižiūrinčia atitinkamą finansų sektorių, ir priimdama sprendimą atsižvelgti į jų nuomonę, jei įsigyjantis asmuo yra: ^s-2d7a26614efa971035a767e5
 
 
-1) kitos Europos Sąjungos valstybės narės draudimo įmonė, perdraudimo įmonė arba kitos Europos Sąjungos valstybės narės ar Lietuvos Respublikos kredito įstaiga, finansų maklerio įmonė ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonė; ^4d07d4ad29251e5c9be98390
+1) kitos Europos Sąjungos valstybės narės draudimo įmonė, perdraudimo įmonė arba kitos Europos Sąjungos valstybės narės ar Lietuvos Respublikos kredito įstaiga, finansų maklerio įmonė ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonė; ^s-105ac13c6857ffbc08f5f32a
 
 
-2) kitos Europos Sąjungos valstybės narės draudimo įmonės, perdraudimo įmonės arba kitos Europos Sąjungos valstybės narės ar Lietuvos Respublikos kredito įstaigos, finansų maklerio įmonės ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonės patronuojanti įmonė; ^2832f6ec5773e1b2f85fe7da
+2) kitos Europos Sąjungos valstybės narės draudimo įmonės, perdraudimo įmonės arba kitos Europos Sąjungos valstybės narės ar Lietuvos Respublikos kredito įstaigos, finansų maklerio įmonės ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonės patronuojanti įmonė; ^s-14a9d478f4f06e3694c45c3d
 
 
-3) kitos Europos Sąjungos valstybės narės draudimo įmonę, perdraudimo įmonę arba kitos Europos Sąjungos valstybės narės ar Lietuvos Respublikos kredito įstaigą, finansų maklerio įmonę ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonę kontroliuojantis fizinis ar juridinis asmuo ir jei po tiesioginio ar netiesioginio akcijų įsigijimo draudimo įmonė taptų šio asmens dukterine ar kontroliuojama įmone. ^4c838bc406f8bde826a936e8
+3) kitos Europos Sąjungos valstybės narės draudimo įmonę, perdraudimo įmonę arba kitos Europos Sąjungos valstybės narės ar Lietuvos Respublikos kredito įstaigą, finansų maklerio įmonę ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonę kontroliuojantis fizinis ar juridinis asmuo ir jei po tiesioginio ar netiesioginio akcijų įsigijimo draudimo įmonė taptų šio asmens dukterine ar kontroliuojama įmone. ^s-28b4da9e117bfe922a8e73da
 
 
-15. Priežiūros komisija, konsultuodamasi pagal [[#^bdf9017fa733a4464d765043|šio straipsnio 14 dalį]], Lietuvos banko ir Vertybinių popierių komisijos, kitos Europos Sąjungos valstybės narės kompetentingos institucijos, prižiūrinčios atitinkamą finansų sektorių, prašo pateikti visą įsigyjančio asmens tinkamumo ir siūlomo įsigijimo finansinio patikimumo vertinimui svarbią informaciją ir pati nedelsdama šioms priežiūros institucijoms teikia jų prašomą atliekamam vertinimui svarbią informaciją, o visą atliekamam vertinimui esminę informaciją teikia savo iniciatyva. ^07e7ea1e819e26dd10eeda91
+15. Priežiūros komisija, konsultuodamasi pagal [[#^s-2d7a26614efa971035a767e5|šio straipsnio 14 dalį]], Lietuvos banko ir Vertybinių popierių komisijos, kitos Europos Sąjungos valstybės narės kompetentingos institucijos, prižiūrinčios atitinkamą finansų sektorių, prašo pateikti visą įsigyjančio asmens tinkamumo ir siūlomo įsigijimo finansinio patikimumo vertinimui svarbią informaciją ir pati nedelsdama šioms priežiūros institucijoms teikia jų prašomą atliekamam vertinimui svarbią informaciją, o visą atliekamam vertinimui esminę informaciją teikia savo iniciatyva. ^s-9d3e8169e85aad503f9dffe2
 
 
-16. Priežiūros komisija, priimdama sprendimą neprieštarauti siūlomam įsigijimui, turi teisę nustatyti siūlomo įsigijimo įgyvendinimo terminą ir prireikus jį pratęsti. ^b3f0335b68c6df0e380e03d0
+16. Priežiūros komisija, priimdama sprendimą neprieštarauti siūlomam įsigijimui, turi teisę nustatyti siūlomo įsigijimo įgyvendinimo terminą ir prireikus jį pratęsti. ^s-8dd9f72e252bf85b06c0ef17
 
 
-17. Sandoriai, pagal kuriuos asmenys draudimo įmonės akcijų tiesiogiai ar netiesiogiai įsigyja neįvykdę [[#^a91601fc2d49a3ba01890a4d|šio straipsnio 1 dalyje]] nustatytos pareigos arba nepaisydami [[#^828610cd6f4be68c1fbfebf7|šio straipsnio 10 dalyje]] nurodyto Priežiūros komisijos prieštaravimo, yra niekiniai, o įsigyjantys asmenys neįgyja balsavimo teisių. Visi reikalavimai dėl šių sandorių pasekmių, įskaitant reikalavimą dėl balsavimo teisių įgijimo, įstatymų nustatyta tvarka nagrinėjami Lietuvos Respublikos teisme pagal draudimo įmonės buveinės vietą. ^ee758f5f16d620412c9f2d5d
+17. Sandoriai, pagal kuriuos asmenys draudimo įmonės akcijų tiesiogiai ar netiesiogiai įsigyja neįvykdę [[#^s-8e22577fdf285cd0ed9925e7|šio straipsnio 1 dalyje]] nustatytos pareigos arba nepaisydami [[#^s-c60ee2386c3648f18398cb5e|šio straipsnio 10 dalyje]] nurodyto Priežiūros komisijos prieštaravimo, yra niekiniai, o įsigyjantys asmenys neįgyja balsavimo teisių. Visi reikalavimai dėl šių sandorių pasekmių, įskaitant reikalavimą dėl balsavimo teisių įgijimo, įstatymų nustatyta tvarka nagrinėjami Lietuvos Respublikos teisme pagal draudimo įmonės buveinės vietą. ^s-cb9c9931bed28aeedaa4fbd6
 
 
-18. Draudimo įmonės privalo pranešti Priežiūros komisijai šios nustatyta tvarka apie draudimo įmonių asmenų, tiesiogiai ar netiesiogiai valdančių akcijas, pasikeitimą. ^17eabdfb3713c6777a90b6ab
+18. Draudimo įmonės privalo pranešti Priežiūros komisijai šios nustatyta tvarka apie draudimo įmonių asmenų, tiesiogiai ar netiesiogiai valdančių akcijas, pasikeitimą. ^s-8c9623dcfbe099aac8fde43c
 
 
-19. Kilus įtarimui, kad tiesiogiai ar netiesiogiai valdomos draudimo įmonės akcijos gali būti apmokėtos pinigais, kurių kilmė nėra teisėta, Priežiūros komisija Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka privalo kreiptis į Valstybės saugumo departamentą ir (ar) į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos su prašymu pateikti išvadą apie šių pinigų kilmę. Valstybės saugumo departamentas ir Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos, kitos valstybės ir savivaldybių institucijos, taip pat kiti asmenys Priežiūros komisijos prašymu privalo nedelsdami jai pateikti turimą informaciją apie įsigyjantį asmenį, jo dalyvius, vadovus, finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas, kitą informaciją, kuri Priežiūros komisijai reikalinga įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti.“ ^8bd297500c33eaf659426096
+19. Kilus įtarimui, kad tiesiogiai ar netiesiogiai valdomos draudimo įmonės akcijos gali būti apmokėtos pinigais, kurių kilmė nėra teisėta, Priežiūros komisija [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] nustatyta tvarka privalo kreiptis į Valstybės saugumo departamentą ir (ar) į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos su prašymu pateikti išvadą apie šių pinigų kilmę. Valstybės saugumo departamentas ir Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos, kitos valstybės ir savivaldybių institucijos, taip pat kiti asmenys Priežiūros komisijos prašymu privalo nedelsdami jai pateikti turimą informaciją apie įsigyjantį asmenį, jo dalyvius, vadovus, finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas, kitą informaciją, kuri Priežiūros komisijai reikalinga įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti.“ ^s-cfcdbdb62ee29f51c9197400
 
 
 
-### 5 straipsnis. 552 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 552 straipsnio 2 dalies pakeitimas ^s-96e74c1274903bc3853f87a6
 
 
 552 straipsnio 2 dalyje po žodžio „akcijų“ įrašyti žodžius „įsigijimui ir“ ir šią dalį išdėstyti taip:
@@ -203,7 +208,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo priedo papildymas
+### 6 straipsnis. Įstatymo priedo papildymas ^s-312ea8949eea7285ecc82e03
 
 
 Papildyti Įstatymo priedą 26 punktu:
@@ -213,7 +218,7 @@ Papildyti Įstatymo priedą 26 punktu:
 
 
 
-### 7 straipsnis. Įstatymo taikymas
+### 7 straipsnis. Įstatymo taikymas ^s-c12184387c744a160e45d3e3
 
 
 Iki šio įstatymo įsigaliojimo Priežiūros komisijai paduoti prašymai dėl sutikimo įsigyti ar padidinti pakankamą akcijų paketą nagrinėjami ir sprendimai priimami prašymo padavimo metu galiojusių teisės aktų nustatyta tvarka.

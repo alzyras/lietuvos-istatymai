@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.61CBE54ADE2D"
 pavadinimas: "Dėl fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms"
+aliases:
+  - "Dėl fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-04-26"
 latest_path: "latest/TAR.61CBE54ADE2D.md"
 latest_sha256: "4522e72282a8e7c31971d2a0651127c7d6cfcafe9bb13a8f280164bad4a1fb3f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.61CBE54ADE2D]]"
 ---
 # Dėl fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.61CBE54ADE2D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.61CBE54ADE2D
+- Ryšiai: [[Ryšiai/TAR.61CBE54ADE2D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

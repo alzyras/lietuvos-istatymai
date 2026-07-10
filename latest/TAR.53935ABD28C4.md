@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.53935ABD28C4"
 pavadinimas: "Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas"
+  - "paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-05-13"
 latest_path: "latest/TAR.53935ABD28C4.md"
 latest_sha256: "64ef49e6cf03bce0373132cd7a1b2a3d898aa1500b706cb73d43e2eb4a3ca99b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.53935ABD28C4]]"
 ---
 # Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.53935ABD28C4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.53935ABD28C4
+- Ryšiai: [[Ryšiai/TAR.53935ABD28C4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-6ec7b9256929d41575598681
 
 
 1 straipsnio 1 dalį pakeisti, 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
@@ -40,11 +45,11 @@ Vilnius
 „1 straipsnis. Sprendimas imti paskolas
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Valstybės skolos įstatymo 5 straipsnio 1 dalimi bei 7 straipsnio 1 dalimi, nusprendžia imti užsienio paskolas iš užsienio bankų, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems bankams dėl teikiamų paskolų akcinei bendrovei „Būtingės nafta“ Būtingės naftos terminalo projektui finansuoti.“
+Lietuvos Respublikos Seimas, vadovaudamasis [[latest/TAR.5C23DECF6210#^s-a0c827a2147f97698de099bd|Valstybės skolos įstatymo 5 straipsnio 1 dalimi]] bei 7 straipsnio 1 dalimi, nusprendžia imti užsienio paskolas iš užsienio bankų, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems bankams dėl teikiamų paskolų akcinei bendrovei „Būtingės nafta“ Būtingės naftos terminalo projektui finansuoti.“
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-dad85d54c1c0faede97cf8d1
 
 
 Iš 2 straipsnio išbraukti pirmojo sakinio žodžius „1 straipsnyje išvardytais“ bei paskutinįjį sakinį ir šį straipsnį išdėstyti taip:
@@ -57,7 +62,7 @@ Iš 2 straipsnio išbraukti pirmojo sakinio žodžius „1 straipsnyje išvardyt
 
 
 
-### 3 straipsnis. Įstatymo papildymas 3 straipsniu
+### 3 straipsnis. Įstatymo papildymas 3 straipsniu ^s-6a03dd00ad20e17de10879ea
 
 
 Papildyti įstatymą 3 straipsniu:

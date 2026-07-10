@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.66806DEDB027"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ir baudimą bei jos pirmojo ir antrojo protokolų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ir baudimą bei jos pirmojo ir antrojo protokolų ratifikavimo"
+  - "įstatymas dėl Europos Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ir baudimą bei jos pirmojo ir antrojo protokolų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-10-02"
 latest_path: "latest/TAR.66806DEDB027.md"
 latest_sha256: "ba83cb1a2f7615f42a40625657e79aee3e18d889e2b5288a726fb6a419859dbd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.66806DEDB027]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ir baudimą bei jos pirmojo ir antrojo protokolų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.66806DEDB027.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.66806DEDB027
+- Ryšiai: [[Ryšiai/TAR.66806DEDB027|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ir jos protokolų ratifikavimas
+### 1 straipsnis. Konvencijos ir jos protokolų ratifikavimas ^s-aad0dad8df15e7dd3ff72fb0
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 4 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Konvenciją prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ir baudimą bei jos pirmąjį ir antrąjį protokolus“, ratifikuoja 1987 m. Europos Konvenciją prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ir baudimą bei jos 1993 m. pirmąjį ir antrąjį protokolus, pasirašytus 1995 m. rugsėjo 14 d. Strasbūre.

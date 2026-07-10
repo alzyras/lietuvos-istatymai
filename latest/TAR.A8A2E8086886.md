@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8A2E8086886"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 103, 104, 105 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 103, 104, 105 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teismų įstatymo 103, 104, 105 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-31"
 latest_path: "latest/TAR.A8A2E8086886.md"
 latest_sha256: "da8497004dab8d50600c41e5f86b77f7a8fbdf75f1efe9f032ab2ade8a85c800"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8A2E8086886]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 103, 104, 105 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8A2E8086886.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8A2E8086886
+- Ryšiai: [[Ryšiai/TAR.A8A2E8086886|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 103 straipsnio papildymas 6 dalimi
+### 1 straipsnis. 103 straipsnio papildymas 6 dalimi ^s-eb686886031e0453e6ac6087
 
 
 Papildyti 103 straipsnį 6 dalimi:
@@ -43,7 +48,7 @@ Papildyti 103 straipsnį 6 dalimi:
 
 
 
-### 2 straipsnis. 104 straipsnio pakeitimas
+### 2 straipsnis. 104 straipsnio pakeitimas ^s-1c8f2764e8c9ad2176daa4ca
 
 
 Pakeisti 104 straipsnį ir jį išdėstyti taip:
@@ -53,29 +58,29 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 „104 straipsnis. Teismų administracinės veiklos priežiūra
 
 
-1. Administracinės veiklos priežiūrą Administravimo teismuose nuostatų nustatyta tvarka atlieka: ^01fe6314c55bdf7a64bba025
+1. Administracinės veiklos priežiūrą Administravimo teismuose nuostatų nustatyta tvarka atlieka: ^s-3e76e83573afac052403d4e3
 
 
-1) apylinkių teismų – atitinkamo apygardos teismo pirmininkas; ^436beaeb1b9ee75c0063506f
+1) apylinkių teismų – atitinkamo apygardos teismo pirmininkas; ^s-04633f29e7136995b7e5ee40
 
 
-2) apygardų administracinių teismų – Vyriausiojo administracinio teismo pirmininkas; ^e64a6c393384e6ccfac4246b
+2) apygardų administracinių teismų – Vyriausiojo administracinio teismo pirmininkas; ^s-2a7432fe76f5ddfd18ec6ab6
 
 
-3) apygardų teismų – Apeliacinio teismo pirmininkas; ^ad02e0475a3017cb01416712
+3) apygardų teismų – Apeliacinio teismo pirmininkas; ^s-dd204db71cfe6609227951f7
 
 
-4) Apeliacinio teismo – Aukščiausiojo Teismo pirmininkas; ^1030e092cd3a480d69828f2e
+4) Apeliacinio teismo – Aukščiausiojo Teismo pirmininkas; ^s-686e90e0bd460cb34652d815
 
 
-5) visų teismų – Teisėjų taryba. ^08ca9a4798d30605afb5584c
+5) visų teismų – Teisėjų taryba. ^s-d539d5156bfd4dc2147ec7b7
 
 
-2. [[#^01fe6314c55bdf7a64bba025|Šio straipsnio 1 dalyje]] nurodyti subjektai, įgyvendindami teismų administracinės veiklos priežiūros funkcijas, gali atlikti teismo administracinės veiklos ar su teisingumo vykdymu nesusijusios teisėjo veiklos tyrimus. Šiam tikslui gali būti sudaryta tyrimo komisija, į kurią gali būti įtraukti kelių teismų teisėjai, taip pat kitų institucijų, įstaigų specialistai, mokslininkai, visuomenės atstovai. Šių asmenų dalyvavimas įgyvendinant teismų administravimo funkcijas grindžiamas skaidrumo, savanoriškumo ir nešališkumo principais. Šioje dalyje numatytos komisijos įgaliojimus ir sudarymo tvarką tvirtina Teisėjų taryba.“ ^6442426925f04ddbc90174c2
+2. [[#^s-3e76e83573afac052403d4e3|Šio straipsnio 1 dalyje]] nurodyti subjektai, įgyvendindami teismų administracinės veiklos priežiūros funkcijas, gali atlikti teismo administracinės veiklos ar su teisingumo vykdymu nesusijusios teisėjo veiklos tyrimus. Šiam tikslui gali būti sudaryta tyrimo komisija, į kurią gali būti įtraukti kelių teismų teisėjai, taip pat kitų institucijų, įstaigų specialistai, mokslininkai, visuomenės atstovai. Šių asmenų dalyvavimas įgyvendinant teismų administravimo funkcijas grindžiamas skaidrumo, savanoriškumo ir nešališkumo principais. Šioje dalyje numatytos komisijos įgaliojimus ir sudarymo tvarką tvirtina Teisėjų taryba.“ ^s-aa95cdb2558db3bc65ff1556
 
 
 
-### 3 straipsnis. 105 straipsnio pakeitimas
+### 3 straipsnis. 105 straipsnio pakeitimas ^s-ab52a83c8abdda2d4ff77b8a
 
 
 Pakeisti 105 straipsnį ir jį išdėstyti taip:
@@ -85,28 +90,28 @@ Pakeisti 105 straipsnį ir jį išdėstyti taip:
 „105 straipsnis. Teismo vadovų pavadavimas ir laikinas pareigų ėjimas
 
 
-1. Kai nėra apygardos teismo, Apeliacinio teismo ar Aukščiausiojo Teismo pirmininko, šias pareigas eina didesnį teisėjo darbo stažą šiame teisme turintis skyriaus pirmininkas. Kai šioje dalyje nurodytame teisme nėra teismo skyrių pirmininkų, teismo pirmininko pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^e52b49ead607c67d2e2835fb
+1. Kai nėra apygardos teismo, Apeliacinio teismo ar Aukščiausiojo Teismo pirmininko, šias pareigas eina didesnį teisėjo darbo stažą šiame teisme turintis skyriaus pirmininkas. Kai šioje dalyje nurodytame teisme nėra teismo skyrių pirmininkų, teismo pirmininko pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^s-7dff0b6a0f225cda59d1726a
 
 
-2. Kai nėra apygardos teismo, Apeliacinio teismo ar Aukščiausiojo Teismo skyriaus pirmininko, šias pareigas eina didžiausią teisėjo darbo stažą šiame teisme turintis to skyriaus teisėjas. ^f63fc789bec3afb303fe43f7
+2. Kai nėra apygardos teismo, Apeliacinio teismo ar Aukščiausiojo Teismo skyriaus pirmininko, šias pareigas eina didžiausią teisėjo darbo stažą šiame teisme turintis to skyriaus teisėjas. ^s-2f429408b4f021d95a778c82
 
 
-3. Kai nėra apygardos administracinio teismo ar Vyriausiojo administracinio teismo pirmininko, šias pareigas eina atitinkamo teismo pirmininko pavaduotojas arba didžiausią teisėjo darbo stažą šiame teisme turintis teismo pirmininko pavaduotojas. Kai šioje dalyje nurodytame teisme nėra teismo pirmininko pavaduotojo pareigybės, teismo pirmininko pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^228579f9f79d9a8e4da47ec2
+3. Kai nėra apygardos administracinio teismo ar Vyriausiojo administracinio teismo pirmininko, šias pareigas eina atitinkamo teismo pirmininko pavaduotojas arba didžiausią teisėjo darbo stažą šiame teisme turintis teismo pirmininko pavaduotojas. Kai šioje dalyje nurodytame teisme nėra teismo pirmininko pavaduotojo pareigybės, teismo pirmininko pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^s-679b1506a174871f75022531
 
 
-4. Kai nėra apygardos administracinio teismo ar Vyriausiojo administracinio teismo pirmininko pavaduotojo, bet tokia pareigybė teisme yra, šias pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^24ba065ac7f6e853418db230
+4. Kai nėra apygardos administracinio teismo ar Vyriausiojo administracinio teismo pirmininko pavaduotojo, bet tokia pareigybė teisme yra, šias pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^s-19ee93894f4f42d842361a23
 
 
-5. Kai nėra apylinkės teismo pirmininko, šias pareigas eina šio teismo pirmininko pavaduotojas arba didžiausią teisėjo darbo stažą šiame teisme turintis teismo pirmininko pavaduotojas. Kai apylinkės teisme nėra teismo pirmininko pavaduotojo pareigybės, apylinkės teismo pirmininko pareigas eina didžiausią teisėjo darbo stažą šiame teisme turintis teisėjas. ^31ba948c3f09d9ae1f5cde4b
+5. Kai nėra apylinkės teismo pirmininko, šias pareigas eina šio teismo pirmininko pavaduotojas arba didžiausią teisėjo darbo stažą šiame teisme turintis teismo pirmininko pavaduotojas. Kai apylinkės teisme nėra teismo pirmininko pavaduotojo pareigybės, apylinkės teismo pirmininko pareigas eina didžiausią teisėjo darbo stažą šiame teisme turintis teisėjas. ^s-cc52622ebe9eca3c2c38a3cb
 
 
-6. Kai nėra apylinkės teismo pirmininko pavaduotojo, bet tokia pareigybė apylinkės teisme yra, šias pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^a50224d74be1ddfc2c15079f
+6. Kai nėra apylinkės teismo pirmininko pavaduotojo, bet tokia pareigybė apylinkės teisme yra, šias pareigas eina didžiausią darbo stažą šiame teisme turintis teisėjas. ^s-61e2b6d0af13428a5669157f
 
 
-7. Kai šiame straipsnyje numatytais atvejais apskaičiuojant didžiausią darbo atitinkame teisme turinčio teisėjo stažą nustatoma, kad tokį patį stažą iš tuo metu teisme ar teismo skyriuje esančių teisėjų turi keli teisėjai, atitinkamas pareigas eina vyriausias pagal amžių teisėjas. ^1a1ec63bbe3dfdd762b310e8
+7. Kai šiame straipsnyje numatytais atvejais apskaičiuojant didžiausią darbo atitinkame teisme turinčio teisėjo stažą nustatoma, kad tokį patį stažą iš tuo metu teisme ar teismo skyriuje esančių teisėjų turi keli teisėjai, atitinkamas pareigas eina vyriausias pagal amžių teisėjas. ^s-14c57862899cc8e97cbdbf70
 
 
-8. Šio straipsnio nuostatos taikomos ir tais atvejais, kai teismo pirmininkas, pirmininko pavaduotojas, skyriaus pirmininkas šio įstatymo nustatyta tvarka yra atleistas iš pareigų ir nėra paskirtas naujas teismo pirmininkas, pirmininko pavaduotojas ar skyriaus pirmininkas. Šiuo atveju teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas šio straipsnio nustatyta tvarka laikinai eina kitas šio teismo teisėjas.“ ^ab96d9b49cfdc17286540944
+8. Šio straipsnio nuostatos taikomos ir tais atvejais, kai teismo pirmininkas, pirmininko pavaduotojas, skyriaus pirmininkas šio įstatymo nustatyta tvarka yra atleistas iš pareigų ir nėra paskirtas naujas teismo pirmininkas, pirmininko pavaduotojas ar skyriaus pirmininkas. Šiuo atveju teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas šio straipsnio nustatyta tvarka laikinai eina kitas šio teismo teisėjas.“ ^s-87f4b553bafa3b760420daef
 
 
 

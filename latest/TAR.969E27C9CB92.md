@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.969E27C9CB92"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 13 ir 19 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 13 ir 19 straipsnių pakeitimo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 13 ir 19 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.969E27C9CB92.md"
 latest_sha256: "4bfa3663962ffc4fb0cc18d8b79075ed7cf895c9432d523446873d456e033dce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.969E27C9CB92]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 13 ir 19 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.969E27C9CB92.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.969E27C9CB92
+- Ryšiai: [[Ryšiai/TAR.969E27C9CB92|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 5 dalies pakeitimas ^s-c483e4a0df3787093e016e37
 
 
 Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 19 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 19 straipsnio 2 dalies pakeitimas ^s-34e26c579601a4a2d7ccc4b8
 
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,13 +58,13 @@ Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-da0bb5a97792e3b98769651b
 
 
-1. Šis įstatymas, išskyrus [[#^9979e699e86719d9d7bf75a2|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^d9f21db1453e9b5a54226211
+1. Šis įstatymas, išskyrus [[#^s-c4be8eafd33bd5f8e4903c9c|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-6fe7957fd73c96a64f36bd2b
 
 
-2. Vyriausybė ar jos įgaliotos institucijos priima šio įstatymo įgyvendinamuosius teisės aktus. ^9979e699e86719d9d7bf75a2
+2. Vyriausybė ar jos įgaliotos institucijos priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-c4be8eafd33bd5f8e4903c9c
 
 
 

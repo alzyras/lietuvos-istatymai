@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.726A21B257D2"
 pavadinimas: "Lietuvos Respublikos gamtinių dujų įstatymo 2, 5, 19, 20, 21, 23, 26, 28, 29, 30, 33, 35, 36, 37, 38, 40, 43, 46, 47, 54, 55, 56, 57, 58, 63 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos gamtinių dujų įstatymo 2, 5, 19, 20, 21, 23, 26, 28, 29, 30, 33, 35, 36, 37, 38, 40, 43, 46, 47, 54, 55, 56, 57, 58, 63 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "gamtinių dujų įstatymo 2, 5, 19, 20, 21, 23, 26, 28, 29, 30, 33, 35, 36, 37, 38, 40, 43, 46, 47, 54, 55, 56, 57, 58, 63 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-19"
 latest_path: "latest/TAR.726A21B257D2.md"
 latest_sha256: "d3465cedbf66fbf0100dfa792755427911c78cffdf46dfef7435848e015e1e02"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.726A21B257D2]]"
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo 2, 5, 19, 20, 21, 23, 26, 28, 29, 30, 33, 35, 36, 37, 38, 40, 43, 46, 47, 54, 55, 56, 57, 58, 63 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.726A21B257D2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.726A21B257D2
+- Ryšiai: [[Ryšiai/TAR.726A21B257D2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,42 +42,42 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-7fad01453406105f48d9c720
 
 
-1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^22df9fde9af9b44fc33f104e
+1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-469ae63537e90b3cc4c93077
 
 
 „5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.“
 
 
-2. Papildyti [[#2 straipsnis. 5 straipsnio pakeitimas|2 straipsnį]] nauja 53 dalimi: ^efa0117d0ee1c75770fc08a1
+2. Papildyti [[#^s-4ab98f5d362ea4c0d5aecc58|2 straipsnį]] nauja 53 dalimi: ^s-a3f541491b49a3ec74fd34b9
 
 
 „53. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.“
 
 
-3. Buvusias [[#2 straipsnis. 5 straipsnio pakeitimas|2 straipsnio]] 53, 54, 55 ir 56 dalis laikyti atitinkamai 54, 55, 56 ir 57 dalimis. ^34160570ac0594b8f5696492
+3. Buvusias [[#^s-4ab98f5d362ea4c0d5aecc58|2 straipsnio]] 53, 54, 55 ir 56 dalis laikyti atitinkamai 54, 55, 56 ir 57 dalimis. ^s-0b3c23d5503f4c23b9986526
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-4ab98f5d362ea4c0d5aecc58
 
 
-1. 5 straipsnio 6 punktą pripažinti netekusiu galios. ^1ad6d6e6085e2a728ce5a743
+1. 5 straipsnio 6 punktą pripažinti netekusiu galios. ^s-2a4c25b08a9a8d39df3a6909
 
 
-2. Papildyti [[#5 straipsnis. 21 straipsnio 3 dalies pakeitimas|5 straipsnį]] nauju 15 punktu: ^49b4db06d0bd081f62c78386
+2. Papildyti [[#^s-6234ce3be815977d6605d407|5 straipsnį]] nauju 15 punktu: ^s-5e48816c14112e0c99f34f46
 
 
 „15) imasi tinkamų priemonių, kurios skirtos nustatyto energijos nepritekliaus klausimams spręsti, įskaitant kovą su skurdu;“.
 
 
-3. Buvusį 5 straipsnio 15 punktą laikyti 16 punktu. ^f274b7b6e1949b4a7d91d59c
+3. Buvusį 5 straipsnio 15 punktą laikyti 16 punktu. ^s-29ff1a747eea0e080901ef01
 
 
 
-### 3 straipsnis. 19 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 19 straipsnio 1 dalies pakeitimas ^s-82e0b2b58087745952ac8dbb
 
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -82,20 +87,20 @@ Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 20 straipsnio 4 dalies pripažinimas netekusia galios ir 8 dalies pakeitimas
+### 4 straipsnis. 20 straipsnio 4 dalies pripažinimas netekusia galios ir 8 dalies pakeitimas ^s-0be2f4d286b962c06c944d14
 
 
-1. 20 straipsnio 4 dalį pripažinti netekusia galios. ^b617e17f9583a90d4d9c3bc5
+1. 20 straipsnio 4 dalį pripažinti netekusia galios. ^s-b7f441d4285c7d7c647339af
 
 
-2. Pakeisti 20 straipsnio 8 dalį ir ją išdėstyti taip: ^26f573f409d53d7520db5e3e
+2. Pakeisti 20 straipsnio 8 dalį ir ją išdėstyti taip: ^s-ab4747c0c5613fbf8600af8e
 
 
-„8. Asmenys, eksploatuojantys dujų perdavimo, skirstymo sistemas, dujų laikymo įrenginius ar SGD sistemas arba atliekantys energijos vartojimo auditą, privalo turėti Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.“
+„8. Asmenys, eksploatuojantys dujų perdavimo, skirstymo sistemas, dujų laikymo įrenginius ar SGD sistemas arba atliekantys energijos vartojimo auditą, privalo turėti [[latest/TAR.44235B485568|Energetikos įstatymo]] nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.“
 
 
 
-### 5 straipsnis. 21 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 21 straipsnio 3 dalies pakeitimas ^s-6234ce3be815977d6605d407
 
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -105,14 +110,14 @@ Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 22 straipsnio pripažinimas netekusiu galios
+### 6 straipsnis. 22 straipsnio pripažinimas netekusiu galios ^s-5a303dc49db95685643d9ebd
 
 
-[[#22 straipsnis. 55 straipsnio 2 dalies pakeitimas|22 straipsnį]] pripažinti netekusiu galios.
+[[#^s-0e2abfa841aca80d20b71c6d|22 straipsnį]] pripažinti netekusiu galios.
 
 
 
-### 7 straipsnis. 23 straipsnio 5 dalies pakeitimas
+### 7 straipsnis. 23 straipsnio 5 dalies pakeitimas ^s-280b3f81849cd9cf5cd96d43
 
 
 Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -122,36 +127,36 @@ Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 26 straipsnio pakeitimas ir papildymas
+### 8 straipsnis. 26 straipsnio pakeitimas ir papildymas ^s-b2abdfb89ca45e0536a7cb42
 
 
-1. Pakeisti 26 straipsnio 5 dalį ir ją išdėstyti taip: ^37f3fb77dd2a8b88e5b574dd
+1. Pakeisti 26 straipsnio 5 dalį ir ją išdėstyti taip: ^s-018984bd17c3ded9fb0303e5
 
 
 „5. Komisija prižiūri, kad perdavimo sistemos operatoriai laikytųsi Vyriausybės ar jos įgaliotos institucijos nustatytų būtiniausių perdavimo sistemos plėtros standartų.“
 
 
-2. Papildyti [[#26 straipsnis. 63 straipsnio 1 ir 2 dalių pripažinimas netekusiomis galios|26 straipsnį]] nauja 6 dalimi: ^d527c13b813c875a329b3e94
+2. Papildyti [[#^s-1649ffbba203599563828f84|26 straipsnį]] nauja 6 dalimi: ^s-74b9d26ca853411b04e28456
 
 
 „6. Valstybinė energetikos inspekcija prie Energetikos ministerijos prižiūri, kad perdavimo sistemos operatoriai laikytųsi Vyriausybės ar jos įgaliotos institucijos nustatytų būtiniausių perdavimo sistemos priežiūros standartų.“
 
 
-3. Buvusias [[#26 straipsnis. 63 straipsnio 1 ir 2 dalių pripažinimas netekusiomis galios|26 straipsnio]] 6 ir 7 dalis laikyti atitinkamai 7 ir 8 dalimis. ^c7c144904e16b769fa0c7ac6
+3. Buvusias [[#^s-1649ffbba203599563828f84|26 straipsnio]] 6 ir 7 dalis laikyti atitinkamai 7 ir 8 dalimis. ^s-b6f410852203f1ba1b3ea67f
 
 
 
-### 9 straipsnis. 28 straipsnio 2 dalies pakeitimas
+### 9 straipsnis. 28 straipsnio 2 dalies pakeitimas ^s-3f302305ff792ab9986df3e3
 
 
 Pakeisti 28 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Numanomas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo yra priimamas per keturių mėnesių laikotarpį nuo visų pareiškėjo pateiktų dokumentų, reikalingų licencijai išduoti, gavimo dienos. Numanomas sprendimas notifikuojamas Europos Komisijai. Komisijos galutinis sprendimas turi būti priimtas ne vėliau kaip per du mėnesius nuo 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 211, p. 36), 3 straipsnio 1 dalyje Europos Komisijos nuomonei pateikti nustatyto laiko pabaigos. Komisijos galutinis sprendimas ir Europos Komisijos nuomonė, jeigu ji pateikta, skelbiami kartu. Jeigu Komisija nepriima jokio sprendimo iki šio laikotarpio pabaigos, laikoma, kad licencija yra išduota ir gamtinių dujų įmonė paskiriama perdavimo sistemos operatoriumi. Siekiant užtikrinti gamtinių dujų perdavimo veiklos tęstinumą ir nenutrūkstamumą, kol bus paskirtas šio įstatymo ketvirtojo ir aštuntojo skirsnių reikalavimus atitinkantis perdavimo sistemos operatorius ir jam išduota licencija, Komisija turi teisę išduoti terminuotą gamtinių dujų perdavimo licenciją, netaikydama šio įstatymo aštuntojo skirsnio reikalavimų. Terminuota gamtinių dujų perdavimo veiklos licencija galioja tol, kol energetikos įmonės, neatitinkančios šio įstatymo aštuntojo skirsnio reikalavimų, įvykdys Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymo įgyvendinimo įstatyme (Žin., 2011, Nr. 87-4187) nustatytas procedūras ir bus paskirtas gamtinių dujų perdavimo sistemos operatorius, atitinkantis šio įstatymo ketvirtajame ir aštuntajame skirsniuose nustatytus reikalavimus.“
+„2. Numanomas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo yra priimamas per keturių mėnesių laikotarpį nuo visų pareiškėjo pateiktų dokumentų, reikalingų licencijai išduoti, gavimo dienos. Numanomas sprendimas notifikuojamas Europos Komisijai. Komisijos galutinis sprendimas turi būti priimtas ne vėliau kaip per du mėnesius nuo 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 211, p. 36), 3 straipsnio 1 dalyje Europos Komisijos nuomonei pateikti nustatyto laiko pabaigos. Komisijos galutinis sprendimas ir Europos Komisijos nuomonė, jeigu ji pateikta, skelbiami kartu. Jeigu Komisija nepriima jokio sprendimo iki šio laikotarpio pabaigos, laikoma, kad licencija yra išduota ir gamtinių dujų įmonė paskiriama perdavimo sistemos operatoriumi. Siekiant užtikrinti gamtinių dujų perdavimo veiklos tęstinumą ir nenutrūkstamumą, kol bus paskirtas šio įstatymo ketvirtojo ir aštuntojo skirsnių reikalavimus atitinkantis perdavimo sistemos operatorius ir jam išduota licencija, Komisija turi teisę išduoti terminuotą gamtinių dujų perdavimo licenciją, netaikydama šio įstatymo aštuntojo skirsnio reikalavimų. Terminuota gamtinių dujų perdavimo veiklos licencija galioja tol, kol energetikos įmonės, neatitinkančios šio įstatymo aštuntojo skirsnio reikalavimų, įvykdys [[latest/TAR.9467D6FD69D5|Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymo įgyvendinimo įstatyme]] (Žin., 2011, Nr. 87-4187) nustatytas procedūras ir bus paskirtas gamtinių dujų perdavimo sistemos operatorius, atitinkantis šio įstatymo ketvirtajame ir aštuntajame skirsniuose nustatytus reikalavimus.“
 
 
 
-### 10 straipsnis. 29 straipsnio 3 dalies pakeitimas
+### 10 straipsnis. 29 straipsnio 3 dalies pakeitimas ^s-702de162d52a21e19e10fba6
 
 
 Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -160,30 +165,30 @@ Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Numanomas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo yra priimamas per keturių mėnesių laikotarpį (šio įstatymo 28 straipsnio 2 dalyje nurodytos išimties atveju perdavimo licencija išduodama pagal šio įstatymo 21 straipsnio 2 dalį) nuo visų pareiškėjo pateiktų dokumentų, reikalingų licencijai išduoti, gavimo dienos. Numanomas sprendimas notifikuojamas Europos Komisijai. Komisija, prieš priimdama galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo, kreipiasi į Europos Komisiją dėl nuomonės, patvirtinančios, kad:
 
 
-1) tenkinami Europos Sąjungos teisės aktų reikalavimai dėl veiklų atskyrimo; ^5b296c5770b6ec91fc982ad8
+1) tenkinami Europos Sąjungos teisės aktų reikalavimai dėl veiklų atskyrimo; ^s-94d2ce5996999bc6820751e6
 
 
-2) išdavus licenciją, nekils pavojus Europos Sąjungoje vykstančiam energijos tiekimui.“ ^a994f6eacd2b7080f4a73f56
+2) išdavus licenciją, nekils pavojus Europos Sąjungoje vykstančiam energijos tiekimui.“ ^s-af02632c07917afe8ca47f49
 
 
 
-### 11 straipsnis. 30 straipsnio 2 dalies 1 ir 3 punktų pakeitimas
+### 11 straipsnis. 30 straipsnio 2 dalies 1 ir 3 punktų pakeitimas ^s-ae0b1c9b362b5561080a98ad
 
 
-1. Pakeisti 30 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^57337eac219a96fe87cfdb28
+1. Pakeisti 30 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^s-2b66cf37731e3d5ce442b101
 
 
 „1) ryšių su trečiosiomis šalimis ir reguliavimo institucijomis palaikymas;“.
 
 
-2. Pakeisti 30 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^8fb605105636d1e07cdce2f4
+2. Pakeisti 30 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^s-c1ca8a123ef4c9af40cf5911
 
 
 „3) prieigos suteikimas trečiajai šaliai nediskriminuojant sistemos naudotojų ar tam tikrų sistemos naudotojų kategorijų ir tokios prieigos valdymas;“.
 
 
 
-### 12 straipsnis. 33 straipsnio 2 punkto pakeitimas
+### 12 straipsnis. 33 straipsnio 2 punkto pakeitimas ^s-2fb544ec95c0b9008aec4706
 
 
 Pakeisti 33 straipsnio 2 punktą ir jį išdėstyti taip:
@@ -193,7 +198,7 @@ Pakeisti 33 straipsnio 2 punktą ir jį išdėstyti taip:
 
 
 
-### 13 straipsnis. 35 straipsnio 2 dalies pakeitimas
+### 13 straipsnis. 35 straipsnio 2 dalies pakeitimas ^s-03b044f8470864ff230adda2
 
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -203,7 +208,7 @@ Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 14 straipsnis. 36 straipsnio 3 punkto pakeitimas
+### 14 straipsnis. 36 straipsnio 3 punkto pakeitimas ^s-645a329e6dd46dd024e3a210
 
 
 Pakeisti 36 straipsnio 3 punktą ir jį išdėstyti taip:
@@ -213,38 +218,38 @@ Pakeisti 36 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. 37 straipsnio 3 dalies pakeitimas
+### 15 straipsnis. 37 straipsnio 3 dalies pakeitimas ^s-7c1e2116c450ef2a71740542
 
 
 Pakeisti 37 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Naujas perdavimo ar skirstymo sistemas nedujofikuotoje teritorijoje turi teisę įrengti asmenys, įgiję šią teisę konkurso būdu. Konkurso metu asmenys Komisijai pateikia rinkos tyrimų, įvertinančių dujų naudojimo dešimties metų laikotarpiu prognozes nedujofikuotoje teritorijoje, rezultatus ir naujų perdavimo ar skirstymo sistemų nedujofikuotoje teritorijoje investicijų projektus. Konkurso metu geriausias pasiūlymas išrenkamas vadovaujantis šiais kriterijais: gamtinių dujų transportavimo kainos viršutinė riba nedujofikuotos teritorijos vartotojams; numatytu paskirstyti dujų kiekiu; investicijų mastu pagal numatomų pastatyti dujotiekio tinklų ilgį bei atsižvelgus į tiekimo patikimumo, reguliarumo, kokybės, vartotojų apsaugos reikalavimus. Sprendimą leisti įrengti naujas sistemas priima Komisija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtintomis naujų sistemų nedujofikuotoje (naujai dujofikuojamoje) teritorijoje įrengimo tvarkos taisyklėmis. Komisijos sprendimas leisti įrengti naujas perdavimo ar skirstymo sistemas yra privaloma sąlyga išduodant leidimą statyti šiuos objektus Lietuvos Respublikos statybos įstatymo nustatyta tvarka.“
+„3. Naujas perdavimo ar skirstymo sistemas nedujofikuotoje teritorijoje turi teisę įrengti asmenys, įgiję šią teisę konkurso būdu. Konkurso metu asmenys Komisijai pateikia rinkos tyrimų, įvertinančių dujų naudojimo dešimties metų laikotarpiu prognozes nedujofikuotoje teritorijoje, rezultatus ir naujų perdavimo ar skirstymo sistemų nedujofikuotoje teritorijoje investicijų projektus. Konkurso metu geriausias pasiūlymas išrenkamas vadovaujantis šiais kriterijais: gamtinių dujų transportavimo kainos viršutinė riba nedujofikuotos teritorijos vartotojams; numatytu paskirstyti dujų kiekiu; investicijų mastu pagal numatomų pastatyti dujotiekio tinklų ilgį bei atsižvelgus į tiekimo patikimumo, reguliarumo, kokybės, vartotojų apsaugos reikalavimus. Sprendimą leisti įrengti naujas sistemas priima Komisija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtintomis naujų sistemų nedujofikuotoje (naujai dujofikuojamoje) teritorijoje įrengimo tvarkos taisyklėmis. Komisijos sprendimas leisti įrengti naujas perdavimo ar skirstymo sistemas yra privaloma sąlyga išduodant leidimą statyti šiuos objektus [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymo]] nustatyta tvarka.“
 
 
 
 
-### 16 straipsnis. 38 straipsnio 2 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios
+### 16 straipsnis. 38 straipsnio 2 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios ^s-c31f5ebc906d119b86f181c7
 
 
-1. Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip: ^2564215fa9028310da894389
+1. Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip: ^s-fe2b50bdc3f1a642861ee3a8
 
 
 „2. Rinkos operatoriaus veikloje patiriamoms gamtinių dujų rinkos administravimo ir susijusioms sąnaudoms padengti rinkos operatorius, suderinęs su Komisija, nustato prekybos gamtinių dujų biržoje įmokas.“
 
 
-2. 38 straipsnio 4 dalį pripažinti netekusia galios. ^3ea386e4f107cc8f432d0e03
+2. 38 straipsnio 4 dalį pripažinti netekusia galios. ^s-b6bad191713197964a43aabf
 
 
 
-### 17 straipsnis. 40 straipsnio 3 dalies pripažinimas netekusia galios
+### 17 straipsnis. 40 straipsnio 3 dalies pripažinimas netekusia galios ^s-1dde0580b0b5c0ac73f2547d
 
 
 40 straipsnio 3 dalį pripažinti netekusia galios.
 
 
 
-### 18 straipsnis. 43 straipsnio papildymas 5 dalimi
+### 18 straipsnis. 43 straipsnio papildymas 5 dalimi ^s-a5ac46704b0dce344ebeffe2
 
 
 Papildyti 43 straipsnį 5 dalimi:
@@ -254,7 +259,7 @@ Papildyti 43 straipsnį 5 dalimi:
 
 
 
-### 19 straipsnis. 46 straipsnio 4 dalies pakeitimas
+### 19 straipsnis. 46 straipsnio 4 dalies pakeitimas ^s-bef44f21280dc1d8306836bd
 
 
 Pakeisti 46 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -264,20 +269,20 @@ Pakeisti 46 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 20 straipsnis. 47 straipsnio 3 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios
+### 20 straipsnis. 47 straipsnio 3 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios ^s-262c0638c79cb8d7a574ca69
 
 
-1. Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip: ^be844312db14cc96089062ce
+1. Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip: ^s-6e0835b3f5a26990fb4d3bb3
 
 
-„3. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į vidutinį buitinių vartotojų ir nebuitinių vartotojų, kurie per metus suvartoja iki 20 000 kubinių metrų gamtinių dujų, gamtinių dujų suvartojimą Reglamento (ES) Nr. 994/2010 [[#^37f3fb77dd2a8b88e5b574dd|8 straipsnio 1 dalyje]] nustatytais atvejais ir į būtinybę užtikrinti nepertraukiamą gamtinių dujų tiekimą, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį ir šio kiekio sukaupimo terminus.“
+„3. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į vidutinį buitinių vartotojų ir nebuitinių vartotojų, kurie per metus suvartoja iki 20 000 kubinių metrų gamtinių dujų, gamtinių dujų suvartojimą Reglamento (ES) Nr. 994/2010 [[#^s-018984bd17c3ded9fb0303e5|8 straipsnio 1 dalyje]] nustatytais atvejais ir į būtinybę užtikrinti nepertraukiamą gamtinių dujų tiekimą, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį ir šio kiekio sukaupimo terminus.“
 
 
-2. 47 straipsnio 5 dalį pripažinti netekusia galios. ^fcabaf91fee601f2781b1dbc
+2. 47 straipsnio 5 dalį pripažinti netekusia galios. ^s-8b6745167ed59ec3a9a0881a
 
 
 
-### 21 straipsnis. 54 straipsnio 3 dalies pakeitimas
+### 21 straipsnis. 54 straipsnio 3 dalies pakeitimas ^s-bd01ff388129ed5071c0fd20
 
 
 Pakeisti 54 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -287,7 +292,7 @@ Pakeisti 54 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 22 straipsnis. 55 straipsnio 2 dalies pakeitimas
+### 22 straipsnis. 55 straipsnio 2 dalies pakeitimas ^s-0e2abfa841aca80d20b71c6d
 
 
 Pakeisti 55 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -297,62 +302,62 @@ Pakeisti 55 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 23 straipsnis. 56 straipsnio 8 dalies pripažinimas netekusia galios
+### 23 straipsnis. 56 straipsnio 8 dalies pripažinimas netekusia galios ^s-c8b4363fc143697d1291f087
 
 
 56 straipsnio 8 dalį pripažinti netekusia galios.
 
 
 
-### 24 straipsnis. 57 straipsnio 2 dalies 11 punkto pripažinimas netekusiu galios ir 6, 7 dalių pakeitimas
+### 24 straipsnis. 57 straipsnio 2 dalies 11 punkto pripažinimas netekusiu galios ir 6, 7 dalių pakeitimas ^s-89ece3742050f27fa4c5c81d
 
 
-1. 57 straipsnio 2 dalies 11 punktą pripažinti netekusiu galios. ^30745b88050192dbd63ed457
+1. 57 straipsnio 2 dalies 11 punktą pripažinti netekusiu galios. ^s-9c6221573909a226669250af
 
 
-2. Pakeisti 57 straipsnio 6 dalį ir ją išdėstyti taip: ^7aba370c37f765ad3fd68f9d
+2. Pakeisti 57 straipsnio 6 dalį ir ją išdėstyti taip: ^s-d5617daddcc51cfd0045ad69
 
 
 „6. Gamtinių dujų įmonė, raštu įspėjusi vartotoją ne vėliau kaip prieš 5 dienas, turi teisę nutraukti gamtinių dujų perdavimą, skirstymą ar tiekimą tuo atveju, kai:
 
 
-1) vartotojas, nepaisydamas gauto rašytinio dujų įmonės įspėjimo, savo veiksmais ar neveikimu kelia trikdžius ir neigiamai veikia gamtinių dujų kokybę; ^6c573fb509f1755300d3e25d
+1) vartotojas, nepaisydamas gauto rašytinio dujų įmonės įspėjimo, savo veiksmais ar neveikimu kelia trikdžius ir neigiamai veikia gamtinių dujų kokybę; ^s-c7c5d8befdd1d63e8a7a99d4
 
 
-2) būtina atlikti remontą ar kitų vartotojų sistemų prijungimo darbus; ^a2b2d6e0e7522e5cdbffafdf
+2) būtina atlikti remontą ar kitų vartotojų sistemų prijungimo darbus; ^s-5ed219076816c3238db20b88
 
 
-3) vartotojas nesutinka įleisti perdavimo sistemos ar skirstomųjų sistemų operatoriaus į vartotojo teritoriją ir (ar) patalpas įrengti, prižiūrėti arba pakeisti gamtinių dujų apskaitos prietaisų ar fiksuoti jų rodmenis.“ ^9aeffe36df92dc1a1cb3b8cc
+3) vartotojas nesutinka įleisti perdavimo sistemos ar skirstomųjų sistemų operatoriaus į vartotojo teritoriją ir (ar) patalpas įrengti, prižiūrėti arba pakeisti gamtinių dujų apskaitos prietaisų ar fiksuoti jų rodmenis.“ ^s-14654497627f9ad8ec7041e3
 
 
-3. Pakeisti 57 straipsnio 7 dalį ir ją išdėstyti taip: ^98be893c4c69fc760bd41182
+3. Pakeisti 57 straipsnio 7 dalį ir ją išdėstyti taip: ^s-3f63ef973ce076bfa01a4afe
 
 
 „7. Gamtinių dujų įmonė turi teisę nutraukti gamtinių dujų perdavimą, skirstymą ar tiekimą tiems vartotojams, kurie po rašytinio įspėjimo gavimo neapmokėjo sąskaitų už suvartotas gamtines dujas arba jų transportavimą ir su tuo susijusias paslaugas: buitiniai vartotojai – per 15 dienų nuo rašytinio įspėjimo gavimo, o visi kiti vartotojai – per 10 dienų nuo rašytinio įspėjimo gavimo.“
 
 
 
-### 25 straipsnis. 58 straipsnio 1 dalies 4 punkto pripažinimas netekusiu galios
+### 25 straipsnis. 58 straipsnio 1 dalies 4 punkto pripažinimas netekusiu galios ^s-c108b127f1f81783a349a79c
 
 
 58 straipsnio 1 dalies 4 punktą pripažinti netekusiu galios.
 
 
 
-### 26 straipsnis. 63 straipsnio 1 ir 2 dalių pripažinimas netekusiomis galios
+### 26 straipsnis. 63 straipsnio 1 ir 2 dalių pripažinimas netekusiomis galios ^s-1649ffbba203599563828f84
 
 
-1. 63 straipsnio 1 dalį pripažinti netekusia galios. ^9fb90aaede8d37667a18c5f7
+1. 63 straipsnio 1 dalį pripažinti netekusia galios. ^s-161930908003d7cfde88bb3f
 
 
-2. 63 straipsnio 2 dalį pripažinti netekusia galios. ^aaa66500cc924da1c9099fd7
+2. 63 straipsnio 2 dalį pripažinti netekusia galios. ^s-427c1b5bdf5916cd1b809ba7
 
 
 
-### 27 straipsnis. Įstatymo įsigaliojimas
+### 27 straipsnis. Įstatymo įsigaliojimas ^s-fd827309ef77155daf9de1b5
 
 
-Šio įstatymo [[#10 straipsnis. 29 straipsnio 3 dalies pakeitimas|10 straipsnis]] įsigalioja 2013 m. kovo 3 d.
+Šio įstatymo [[#^s-702de162d52a21e19e10fba6|10 straipsnis]] įsigalioja 2013 m. kovo 3 d.
 
 
 

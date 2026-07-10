@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F48E17FE243D"
 pavadinimas: "Lietuvos Respublikos žemės įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "žemės įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.F48E17FE243D.md"
 latest_sha256: "1324822db26d34f329906cc64ef58bda10ef4e7abc8190109efa3985bcbd796e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F48E17FE243D]]"
 ---
 # Lietuvos Respublikos žemės įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F48E17FE243D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F48E17FE243D
+- Ryšiai: [[Ryšiai/TAR.F48E17FE243D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 11 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 11 dalies pakeitimas ^s-7782eb2e3e9c56ef6667a3db
 
 
 Pakeisti 9 straipsnio 11 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8FCEB11C0AB7"
 pavadinimas: "Lietuvos Respublikos Konstitucinio Teismo įstatymo 40 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucinio Teismo įstatymo 40 straipsnio pakeitimo įstatymas"
+  - "Konstitucinio Teismo įstatymo 40 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-09"
 latest_path: "latest/TAR.8FCEB11C0AB7.md"
 latest_sha256: "f4bab8208771eafa1b41f7449195d38e8984d5ef725d7bbb3e5d177abea3147b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8FCEB11C0AB7]]"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 40 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8FCEB11C0AB7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8FCEB11C0AB7
+- Ryšiai: [[Ryšiai/TAR.8FCEB11C0AB7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 40 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 40 straipsnio 2 dalies pakeitimas ^s-89f562c378cc21262fa321e0
 
 
 40 straipsnio 2 dalyje po žodžių „iki vieno“ įrašyti žodžius „paskutinio paskelbto šalies ūkio“, po žodžio „užmokesčio“ įrašyti žodžius „(toliau – VMDU)“, vietoj žodžių „keturių vidutinių mėnesinių darbo užmokesčių“ įrašyti skaičių ir santrumpą „4 VMDU“ ir šią dalį išdėstyti taip:

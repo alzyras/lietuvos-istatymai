@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AC4C8D02A270"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos organų išlaikymo išlaidų 1991 metams padidinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos organų išlaikymo išlaidų 1991 metams padidinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-12-01"
 latest_path: "latest/TAR.AC4C8D02A270.md"
 latest_sha256: "3d36e19eef3423cd851fa1f1201b7a4cfd856c665f94630caafb15708f9d6ab6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AC4C8D02A270]]"
 ---
 # Dėl Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos organų išlaikymo išlaidų 1991 metams padidinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AC4C8D02A270.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AC4C8D02A270
+- Ryšiai: [[Ryšiai/TAR.AC4C8D02A270|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

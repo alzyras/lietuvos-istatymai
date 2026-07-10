@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.52508DC27E0E"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.52508DC27E0E.md"
 latest_sha256: "b6c1cfa971121a352907ead2679269be76dffdcb035759a8dc6c582b2cbe63c2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.52508DC27E0E]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.52508DC27E0E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.52508DC27E0E
+- Ryšiai: [[Ryšiai/TAR.52508DC27E0E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,51 +41,51 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ir papildymas ^s-05a3ce2f1692b19bbca668f3
 
 
-1. 2 straipsnio 3 dalies 8 punkte po žodžio „vadovams“ išbraukti žodžius „Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus“ ir šį punktą išdėstyti taip: ^ea105e2fbfbba22f3c6f1881
+1. 2 straipsnio 3 dalies 8 punkte po žodžio „vadovams“ išbraukti žodžius „Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus“ ir šį punktą išdėstyti taip: ^s-541802c8c538cc4ac949f7dc
 
 
 „8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos generalinį komisarą) bei pareigūnams;“.
 
 
-2. [[#^5b3de6f9a207ea1d8f80f745|2 straipsnio 3 dalį]] papildyti 11 punktu: ^12e89a5417b7340e7880ba75
+2. [[#^s-05307155e085bd4089083b77|2 straipsnio 3 dalį]] papildyti 11 punktu: ^s-4cdc707277c755c1def3cc75
 
 
 „11) žvalgybos pareigūnams.“
 
 
 
-### 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 3 straipsnio papildymas ir pakeitimas ^s-aa0406b396b465198c8a7b12
 
 
-1. Papildyti [[#3 straipsnis. Įstatymo priedėlio papildymas V skyriumi|3 straipsnį]] nauja 4 dalimi: ^9b8dcc8119c992edc4bcbd84
+1. Papildyti [[#^s-08f2f9445382c6aa4ea2d6f2|3 straipsnį]] nauja 4 dalimi: ^s-dc2260d160bf4de6f2dacad4
 
 
 „4. Žvalgybos pareigūnų darbo užmokestis susideda iš:
 
 
-1) pareiginės algos; ^64671543546d43bfeca0813a
+1) pareiginės algos; ^s-573c36522b555a02d6c04569
 
 
-2) priedo už tarnybinį rangą ar kario laipsnį; ^69aecd0ae695541ecb4708e7
+2) priedo už tarnybinį rangą ar kario laipsnį; ^s-fa095d2688d743d027d9c327
 
 
-3) priedo už tarnybos stažą.“ ^1fba8ca845174fad128704e0
+3) priedo už tarnybos stažą.“ ^s-0bdf6d4892c2e6eab963c925
 
 
-2. Papildyti [[#3 straipsnis. Įstatymo priedėlio papildymas V skyriumi|3 straipsnį]] nauja 5 dalimi: ^e94e8579f914f2fa1d4b5f33
+2. Papildyti [[#^s-08f2f9445382c6aa4ea2d6f2|3 straipsnį]] nauja 5 dalimi: ^s-b11cbbe2d82dd1e3118f77d4
 
 
 „5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario laipsnį ir tarnybos stažą dydžius nustato Lietuvos Respublikos žvalgybos įstatymas.“
 
 
-3. Buvusią 3 straipsnio 4 dalį laikyti 6 dalimi. ^5b3de6f9a207ea1d8f80f745
+3. Buvusią 3 straipsnio 4 dalį laikyti 6 dalimi. ^s-05307155e085bd4089083b77
 
 
 
-### 3 straipsnis. Įstatymo priedėlio papildymas V skyriumi
+### 3 straipsnis. Įstatymo priedėlio papildymas V skyriumi ^s-08f2f9445382c6aa4ea2d6f2
 
 
 Papildyti Įstatymo priedėlį V skyriumi:
@@ -143,7 +148,7 @@ Papildyti Įstatymo priedėlį V skyriumi:
 “
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-ebd28493f4d6a891ebbe3d96
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0CE5558CB3DE"
 pavadinimas: "Dėl Lietuvos Respublikos profesinių sąjungų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos profesinių sąjungų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-06-03"
 latest_path: "latest/TAR.0CE5558CB3DE.md"
 latest_sha256: "0ef54591fb806fab1228247230683ede4b1c7442d27cc5caa5b6ae0c91361ba5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0CE5558CB3DE]]"
 ---
 # Dėl Lietuvos Respublikos profesinių sąjungų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0CE5558CB3DE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0CE5558CB3DE
+- Ryšiai: [[Ryšiai/TAR.0CE5558CB3DE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

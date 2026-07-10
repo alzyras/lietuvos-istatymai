@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9070B2A9D320"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" įsigaliojimo\" papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" įsigaliojimo\" papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-04-07"
 latest_path: "latest/TAR.9070B2A9D320.md"
 latest_sha256: "bf10060525e146047156bae22367a5eca89a09b926aefe9ceb03c0c28f661fbc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9070B2A9D320]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" įsigaliojimo" papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9070B2A9D320.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9070B2A9D320
+- Ryšiai: [[Ryšiai/TAR.9070B2A9D320|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

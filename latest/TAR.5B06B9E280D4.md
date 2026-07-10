@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5B06B9E280D4"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Povandeninio kultūros paveldo apsaugos konvencijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Povandeninio kultūros paveldo apsaugos konvencijos ratifikavimo"
+  - "įstatymas dėl Povandeninio kultūros paveldo apsaugos konvencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-10"
 latest_path: "latest/TAR.5B06B9E280D4.md"
 latest_sha256: "9138b67651574f144ceeb79eaca79c279f5abb057a9b32471470ea4ee396f255"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5B06B9E280D4]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Povandeninio kultūros paveldo apsaugos konvencijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5B06B9E280D4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5B06B9E280D4
+- Ryšiai: [[Ryšiai/TAR.5B06B9E280D4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-918aa6d7dd8782419e6b4057
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 536, ratifikuoja 2001 m. lapkričio 6 d. Paryžiuje priimtą Povandeninio kultūros paveldo apsaugos konvenciją.
 
 
 
-### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-c9935cb963f66bc133c70e72
 
 
 Lietuvos Respublikos Vyriausybė paskiria institucijas, atsakingas už Povandeninio kultūros paveldo apsaugos konvencijos nuostatų vykdymą.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.83CA45F166B9"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-04-26"
 latest_path: "latest/TAR.83CA45F166B9.md"
 latest_sha256: "1eb1cc2df2db4a8520e26f9a38df72ae0b52510911855897d3b17ca45fe0c1ff"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.83CA45F166B9]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.83CA45F166B9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.83CA45F166B9
+- Ryšiai: [[Ryšiai/TAR.83CA45F166B9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 3 dalies 3 punkto pakeitimas
+### 1 straipsnis. 19 straipsnio 3 dalies 3 punkto pakeitimas ^s-434e1610efa17174bac12f7b
 
 
 19 straipsnio 3 dalies 3 punkte vietoj žodžių „(įskaitant veterinarinius)“ įrašyti žodžius „(vaistiniams preparatams), veterinariniams vaistams“, vietoj žodžių „specialios medicininės paskirties maisto produktams bei medicininės paskirties kūno ir dantų priežiūros priemonėms“ įrašyti žodžius „specialios medicininės paskirties dietiniam maistui, medicininės paskirties produktams“ ir šį punktą išdėstyti taip:

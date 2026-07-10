@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FCBCC2BA2B28"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 8 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 8 straipsnių pakeitimo ir papildymo įstatymas"
+  - "mokesčio už aplinkos teršimą įstatymo 2, 5, 8 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-02-14"
 latest_path: "latest/TAR.FCBCC2BA2B28.md"
 latest_sha256: "c5785f6c5009867c3a98a829ac044f429ca9d7d4b1c5a15a31db20717f13638e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FCBCC2BA2B28]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 8 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FCBCC2BA2B28.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FCBCC2BA2B28
+- Ryšiai: [[Ryšiai/TAR.FCBCC2BA2B28|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,29 +36,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas nauja 11 dalimi
+### 1 straipsnis. 2 straipsnio papildymas nauja 11 dalimi ^s-0085e35dd63b8d74bd402039
 
 
-1. Papildyti [[#2 straipsnis. 5 straipsnio 5 dalies pakeitimas|2 straipsnį]] nauja 11 dalimi: ^3f267246e7dd7f8d80ce3d46
+1. Papildyti [[#^s-3f4b9f79b65cbd7c22976e1a|2 straipsnį]] nauja 11 dalimi: ^s-4bb356fcbebcc8d05e492fe6
 
 
 „11. Išleidimas į Lietuvos Respublikos vidaus rinką:
 
 
-1) Lietuvos Respublikoje pagamintų apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės atlygintinai arba neatlygintinai perleidimas bet kuriam kitam asmeniui Lietuvos Respublikoje ar sunaudojimas gamintojo reikmėms arba ^758114486064be31e21f58e6
+1) Lietuvos Respublikoje pagamintų apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės atlygintinai arba neatlygintinai perleidimas bet kuriam kitam asmeniui Lietuvos Respublikoje ar sunaudojimas gamintojo reikmėms arba ^s-02f2651eaf9574895af2c70e
 
 
-2) importuotų į Lietuvos Respubliką apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės atlygintinai arba neatlygintinai perleidimas bet kuriam kitam asmeniui Lietuvos Respublikoje ar sunaudojimas importuotojo reikmėms arba ^39a3a5517649202b51402e89
+2) importuotų į Lietuvos Respubliką apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės atlygintinai arba neatlygintinai perleidimas bet kuriam kitam asmeniui Lietuvos Respublikoje ar sunaudojimas importuotojo reikmėms arba ^s-c486139a584fb9f821dd862c
 
 
-3) likviduojamų ar reorganizuojamų mokesčių mokėtojų apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės, neperleistų kitam asmeniui, pagaminimas ir (ar) importas.“ ^8d5b3acc5cd7af0ea293811f
+3) likviduojamų ar reorganizuojamų mokesčių mokėtojų apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės, neperleistų kitam asmeniui, pagaminimas ir (ar) importas.“ ^s-b8f263dc504dd888821af1ee
 
 
-2. Buvusias [[#2 straipsnis. 5 straipsnio 5 dalies pakeitimas|2 straipsnio]] 11–19 dalis laikyti atitinkamai 12–20 dalimis. ^aa7f20ce648ec3d16b938b2f
+2. Buvusias [[#^s-3f4b9f79b65cbd7c22976e1a|2 straipsnio]] 11–19 dalis laikyti atitinkamai 12–20 dalimis. ^s-e978e6dfa053a7ebbcc5c1a6
 
 
 
-### 2 straipsnis. 5 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 5 dalies pakeitimas ^s-3f4b9f79b65cbd7c22976e1a
 
 
 Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 4 dalies pakeitimas ^s-884fe9752d1246898b9826ed
 
 
 Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -73,10 +78,10 @@ Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo taikymas
+### 4 straipsnis. Įstatymo taikymas ^s-f0ebd276f35d1f1a0fb712a2
 
 
-Šio Įstatymo 1, 2 ir [[#3 straipsnis. 8 straipsnio 4 dalies pakeitimas|3 straipsnių]] nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
+Šio Įstatymo 1, 2 ir [[#^s-884fe9752d1246898b9826ed|3 straipsnių]] nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
 
 
 

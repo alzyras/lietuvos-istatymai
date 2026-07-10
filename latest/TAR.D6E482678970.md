@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D6E482678970"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-25"
 latest_path: "latest/TAR.D6E482678970.md"
 latest_sha256: "d1fe08a8aa3f8e1890ae0e958e29aabdd65a5276828df23f427b330848a93383"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D6E482678970]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D6E482678970.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D6E482678970
+- Ryšiai: [[Ryšiai/TAR.D6E482678970|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-0e71ab646fb4509687437e6c
 
 
 2 straipsnio 1 dalyje išbraukti žodžius „pagal įstatymus“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F9402E95943E"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas"
+  - "nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.F9402E95943E.md"
 latest_sha256: "ab16dcc4d985dc02992554e677b1a4b2e372670483f2f4012573f6b13192d918"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F9402E95943E]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F9402E95943E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F9402E95943E
+- Ryšiai: [[Ryšiai/TAR.F9402E95943E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,69 +40,69 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1, 2 ir 4 dalių pripažinimas netekusiomis galios
+### 1 straipsnis. 2 straipsnio 1, 2 ir 4 dalių pripažinimas netekusiomis galios ^s-ca7a1445ca72ae5693f288e4
 
 
-1. 2 straipsnio 1 dalį pripažinti netekusia galios. ^9a1f0847ebc32d79ca698818
+1. 2 straipsnio 1 dalį pripažinti netekusia galios. ^s-e98b28e6795622f03e5180b0
 
 
-2. 2 straipsnio 2 dalį pripažinti netekusia galios. ^f04b38ae91cf59573cf1105f
+2. 2 straipsnio 2 dalį pripažinti netekusia galios. ^s-dfb7489313c567ee8f6ae828
 
 
-3. 2 straipsnio 4 dalį pripažinti netekusia galios. ^839f11649b4ba874d883fbd6
-
-
-
-### 2 straipsnis. 4 straipsnio pakeitimas
-
-
-Pakeisti [[#4 straipsnis. 7 straipsnio papildymas|4 straipsnį]] ir jį išdėstyti taip:
+3. 2 straipsnio 4 dalį pripažinti netekusia galios. ^s-c2f1f4b1eb0762bdeae7e6a6
 
 
 
-„[[#4 straipsnis. 7 straipsnio papildymas|4 straipsnis]]. Mokesčio objektas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-af17da3a30e28910edcf3087
+
+
+Pakeisti [[#^s-e106d5e8c92aa7693006dc8b|4 straipsnį]] ir jį išdėstyti taip:
+
+
+
+„[[#^s-e106d5e8c92aa7693006dc8b|4 straipsnis]]. Mokesčio objektas
 
 
 Mokesčio objektas yra nekilnojamasis turtas, esantis Lietuvos Respublikoje, išskyrus:
 
 
-1) faktiškai nenaudojamą nekilnojamąjį turtą, kurio statyba neužbaigta Lietuvos Respublikos statybos įstatymo nustatyta tvarka; ^983bd11606900be8187c701d
+1) faktiškai nenaudojamą nekilnojamąjį turtą, kurio statyba neužbaigta [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymo]] nustatyta tvarka; ^s-93cd2c8cf5529a2a60747c60
 
 
-2) valdžios ir privataus subjektų partnerystės, kaip tai apibrėžta Lietuvos Respublikos investicijų įstatyme, pagrindu sukurtą ar įgytą nekilnojamąjį turtą, kol vykdoma atitinkama valdžios ir privataus subjektų partnerystės sutartis ir šis nekilnojamasis turtas naudojamas pagal toje sutartyje nustatytą paskirtį.“ ^d06dcd4cd2c734904b2d3a9d
+2) valdžios ir privataus subjektų partnerystės, kaip tai apibrėžta [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatyme]], pagrindu sukurtą ar įgytą nekilnojamąjį turtą, kol vykdoma atitinkama valdžios ir privataus subjektų partnerystės sutartis ir šis nekilnojamasis turtas naudojamas pagal toje sutartyje nustatytą paskirtį.“ ^s-b5358390671ffe258fdbc16b
 
 
-### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 4 dalimi ^s-2834a6aaab0781c734d7151d
 
 
-1. Pakeisti [[#^05ea64ecf5cda4197d4e6dfa|6 straipsnio 1 dalį]] ir ją išdėstyti taip: ^6008432b16ef83c9857d3b40
+1. Pakeisti [[#^s-46294c3c8d051398c122c50e|6 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-f63fd11e2ec87ea6fa23779e
 
 
 „1. Mokesčio tarifas – nuo 0,3 procento iki 1 procento nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.“
 
 
-2. Papildyti 6 straipsnį 4 dalimi: ^9d47ebc82896c9fcb8ce7911
+2. Papildyti 6 straipsnį 4 dalimi: ^s-7bd1a2b74c227fcdab44ec42
 
 
 „4. Šio įstatymo 7 straipsnio 1 dalies 6 punkte nurodyto turto mokestinės vertės daliai, viršijančiai neapmokestinamąjį dydį, taikomas 1 procento mokesčio tarifas.“
 
 
-### 4 straipsnis. 7 straipsnio papildymas
+### 4 straipsnis. 7 straipsnio papildymas ^s-e106d5e8c92aa7693006dc8b
 
 
-1. Papildyti 7 straipsnio 1 dalį 6 punktu: ^f8c6e4c8bb88861861bbf25b
+1. Papildyti 7 straipsnio 1 dalį 6 punktu: ^s-8ba0cf4863d2e06cc6013a28
 
 
 „6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 1 milijono litų.“
 
 
-2. Papildyti 7 straipsnį 6 dalimi: ^4b86c11f78d0283d2d13a1e5
+2. Papildyti 7 straipsnį 6 dalimi: ^s-cc4a8be91d86e2d3fd24bb36
 
 
 „6. Šio straipsnio 1 dalies 6 punkte nustatyta neapmokestinamoji vertė taikoma visam šiame punkte nurodytos paskirties nekilnojamajam turtui, kuris nuosavybės teise priklauso šeimos nariams arba yra jų įsigyjamas. Taikant šią nuostatą, šeimos nariais laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai) iki 18 metų.“
 
 
-### 5 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-6b6891b1b5ac2e8bcd0712bd
 
 
 Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -107,43 +112,43 @@ Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 12 straipsnio 4 ir 6 dalių pakeitimas
+### 6 straipsnis. 12 straipsnio 4 ir 6 dalių pakeitimas ^s-ac31487395acbd264ba00e47
 
 
-1. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^05ea64ecf5cda4197d4e6dfa
+1. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^s-46294c3c8d051398c122c50e
 
 
 „4. Mokesčio mokėtojai atitinkamo mokestinio laikotarpio mokesčio už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, deklaraciją vietos mokesčių administratoriui pateikia iki einamojo mokestinio laikotarpio gruodžio 15 dienos, o mokesčio už kitą nekilnojamąjį turtą – iki kitų kalendorinių metų vasario 1 dienos. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.“
 
 
-2. Pakeisti 12 straipsnio 6 dalį ir ją išdėstyti taip: ^3c448ff4281a31b3817b15c6
+2. Pakeisti 12 straipsnio 6 dalį ir ją išdėstyti taip: ^s-d105969efe14d958297e18b4
 
 
-„6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo 3 ir [[#4 straipsnis. 7 straipsnio papildymas|4 straipsnių]] nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių:
+„6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo 3 ir [[#^s-e106d5e8c92aa7693006dc8b|4 straipsnių]] nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių:
 
 
-1) juridiniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, jiems grąžintos teisės į įsigyjamą nekilnojamąjį turtą arba kurį nekilnojamasis turtas yra jiems perduotas šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju; fiziniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį juridinis asmuo nekilnojamąjį turtą grąžino; ^c760a0979864d3d61df62700
+1) juridiniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, jiems grąžintos teisės į įsigyjamą nekilnojamąjį turtą arba kurį nekilnojamasis turtas yra jiems perduotas šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju; fiziniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį juridinis asmuo nekilnojamąjį turtą grąžino; ^s-1470f6439effb442ce242076
 
 
-2) juridiniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, einančio po mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleido, perleido teises į įsigyjamą nekilnojamąjį turtą ar šių teisių neteko, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį nekilnojamąjį turtą grąžino; fiziniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, einančio po mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleido, perleido teises į įsigyjamą nekilnojamąjį turtą ar šių teisių neteko, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį nekilnojamąjį turtą perdavė juridiniam asmeniui.“ ^88cb6f12b7442cadfd102ed8
+2) juridiniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, einančio po mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleido, perleido teises į įsigyjamą nekilnojamąjį turtą ar šių teisių neteko, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį nekilnojamąjį turtą grąžino; fiziniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, einančio po mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleido, perleido teises į įsigyjamą nekilnojamąjį turtą ar šių teisių neteko, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį nekilnojamąjį turtą perdavė juridiniam asmeniui.“ ^s-0b68ea26c3d402dbd35ead51
 
 
-### 7 straipsnis. 14 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
+### 7 straipsnis. 14 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi ^s-582c9982316934b6308a3151
 
 
-1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip: ^3c4785c99293a3e938c8a17f
+1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip: ^s-0148c77ad3eac0d62e63d7f2
 
 
 „1. Mokestis įskaitomas į savivaldybės, kurios teritorijoje yra nekilnojamasis turtas, biudžetą, jeigu šiame straipsnyje nenustatyta kitaip.“
 
 
-2. Papildyti 14 straipsnį 3 dalimi: ^2af4ef8a82ea6b5b0aa94353
+2. Papildyti 14 straipsnį 3 dalimi: ^s-aa373d3b7f9cf31e2421a2b2
 
 
 „3. Mokestis už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, įskaitomas į valstybės biudžetą.“
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-2594e89c32868af05bf154f7
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

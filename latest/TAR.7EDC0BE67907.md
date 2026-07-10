@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7EDC0BE67907"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 4, 6, 16, 17, 20, 29, 32, 35, 50, 51 straipsnių pakeitimo ir papildymo bei įstatymo papildymo trečiuoju-1 skirsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 4, 6, 16, 17, 20, 29, 32, 35, 50, 51 straipsnių pakeitimo ir papildymo bei įstatymo papildymo trečiuoju-1 skirsniu įstatymas"
+  - "vietos savivaldos įstatymo 4, 6, 16, 17, 20, 29, 32, 35, 50, 51 straipsnių pakeitimo ir papildymo bei įstatymo papildymo trečiuoju-1 skirsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.7EDC0BE67907.md"
 latest_sha256: "613db462fc82bb1e7852cd1ef14d8d05d989d645b4540e7b0bc62d8f615d2b4a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7EDC0BE67907]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 4, 6, 16, 17, 20, 29, 32, 35, 50, 51 straipsnių pakeitimo ir papildymo bei įstatymo papildymo trečiuoju-1 skirsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7EDC0BE67907.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7EDC0BE67907
+- Ryšiai: [[Ryšiai/TAR.7EDC0BE67907|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,42 +39,42 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 4 straipsnio papildymas ir pakeitimas ^s-62ce15632db7507ee20a88de
 
 
-1. Papildyti [[#4 straipsnis. 16 straipsnio 2 dalies 35, 40 ir 41 punktų pakeitimas|4 straipsnį]] nauju 11 punktu: ^6b4825f82ac4937ffbe29e8c
+1. Papildyti [[#^s-b9ecc0b4b35cec86928e65b2|4 straipsnį]] nauju 11 punktu: ^s-9b0a5dd1816f398fd7c014a6
 
 
 „11) plėtros ir veiklos planingumo. Savivaldybės savo veiklą vykdo pagal tarpusavyje suderintus skirtingos trukmės teritorijų, strateginio ir finansinio planavimo dokumentus, į kurių rengimą, svarstymą ir įgyvendinimo priežiūrą (stebėseną, ataskaitų svarstymą) įtraukiami ir savivaldybės gyventojai;“.
 
 
-2. Buvusius [[#4 straipsnis. 16 straipsnio 2 dalies 35, 40 ir 41 punktų pakeitimas|4 straipsnio]] 11 ir 12 punktus laikyti atitinkamai 12 ir 13 punktais. ^867d1d354579bc397c3ad8f3
+2. Buvusius [[#^s-b9ecc0b4b35cec86928e65b2|4 straipsnio]] 11 ir 12 punktus laikyti atitinkamai 12 ir 13 punktais. ^s-6cdeddc83b3e3de5b71e38c6
 
 
 
-### 2 straipsnis. 6 straipsnio 18, 22 ir 34 punktų pakeitimas
+### 2 straipsnis. 6 straipsnio 18, 22 ir 34 punktų pakeitimas ^s-df875dd4c4568204407bf255
 
 
-1. 6 straipsnio 18 punkte vietoj žodžių „sveikatos programų rengimas“ įrašyti žodžius „sveikatinimo priemonių“ ir šį punktą išdėstyti taip: ^27d976b2ebef3973bf0d6cf5
+1. 6 straipsnio 18 punkte vietoj žodžių „sveikatos programų rengimas“ įrašyti žodžius „sveikatinimo priemonių“ ir šį punktą išdėstyti taip: ^s-8077b8937251b75a99812676
 
 
 „18) savivaldybių sveikatinimo priemonių planavimas ir įgyvendinimas; parama savivaldybės gyventojų sveikatos priežiūrai;“.
 
 
-2. Pakeisti 6 straipsnio 22 punktą ir jį išdėstyti taip: ^189003bc6ff3f00ffa06f1a7
+2. Pakeisti 6 straipsnio 22 punktą ir jį išdėstyti taip: ^s-0e7f815670c0d89d7f780aa5
 
 
 „22) savivaldybės strateginio planavimo dokumentų ir juos įgyvendinančių planavimo dokumentų rengimas ir įgyvendinimas;“.
 
 
-3. 6 straipsnio 34 punkte vietoj žodžio „programas“ įrašyti žodį „priemones“ ir šį punktą išdėstyti taip: ^2ae87abc167fece0f78bf109
+3. 6 straipsnio 34 punkte vietoj žodžio „programas“ įrašyti žodį „priemones“ ir šį punktą išdėstyti taip: ^s-dfd8219a0593358780a1c343
 
 
 „34) dalyvavimas, bendradarbiavimas užtikrinant viešąją tvarką, kuriant ir įgyvendinant nusikaltimų prevencijos priemones;“.
 
 
 
-### 3 straipsnis. Įstatymo papildymas trečiuoju1 skirsniu
+### 3 straipsnis. Įstatymo papildymas trečiuoju1 skirsniu ^s-13325e0bda0ecddae5358fb0
 
 
 Papildyti Įstatymą trečiuoju1 skirsniu:
@@ -81,75 +86,75 @@ PLANAVIMAS IR PLANAI SAVIVALDYBĖJE
 
 
 
-### 101 straipsnis. Planavimas savivaldybėje
+### 101 straipsnis. Planavimas savivaldybėje ^s-2591aaa70851bd46443cf522
 
 
 Savivaldybėje sukuriama ir veikia planavimo sistema, kurią sudaro teritorijų, strateginis ir finansinis planavimas.
 
 
 
-### 102 straipsnis. Teritorijų planavimas savivaldybėje
+### 102 straipsnis. Teritorijų planavimas savivaldybėje ^s-c7f813b59fb5520a49aefcb3
 
 
-Teritorijų planavimas savivaldybėje vykdomas ir teritorijų planavimo dokumentai rengiami ir įgyvendinami Lietuvos Respublikos teritorijų planavimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ir sąlygomis.
-
-
-
-### 103 straipsnis. Strateginis planavimas savivaldybėje
-
-
-1. Savivaldybėje yra rengiami šie savivaldybės strateginio planavimo dokumentai: savivaldybės strateginis plėtros planas, atskirų savivaldybės ūkio šakų (sektorių) plėtros programos ir savivaldybės strateginis veiklos planas. Atskirų savivaldybės ūkio šakų (sektorių) programos rengiamos tik tais atvejais, kai tokių planavimo dokumentų rengimas numatytas įstatyme. ^818bf06b86587ac923194603
-
-
-2. Savivaldybės strateginis plėtros planas ir savivaldybės atskirų ūkio šakų (sektorių) plėtros programos yra ilgesnio laikotarpio (daugiau kaip 3 metų) planavimo dokumentai, skirti aplinkos, socialinei ir ekonominei raidai savivaldybės teritorijoje numatyti ir rengiami atsižvelgiant į valstybės ir regioninio lygmens teritorijų ir strateginio planavimo dokumentus, taip pat į savivaldybės teritorijų planavimo dokumentus. ^76ffdd4ba17ad1d0b11a2d33
-
-
-3. Savivaldybės strateginis veiklos planas, kuris rengiamas 3 metų laikotarpiui (kiekvienais metais jį tikslinant), detalizuoja savivaldybės strateginio plėtros plano ir savivaldybės atskirų ūkio šakų (sektorių) plėtros programų tikslų ir uždavinių įgyvendinimą ir sudaromas atsižvelgiant į planuojamus savivaldybės finansinius ir žmogiškuosius išteklius. ^dcc0516fc7fb7ad9d7a155f1
-
-
-4. Savivaldybės administracijos, seniūnijos, savivaldybės biudžetinės įstaigos metiniai veiklos planai yra savivaldybės strateginio veiklos plano programų ar jų dalies (tikslų ar uždavinių, atskirų priemonių), už kurias atsakinga savivaldybės administracija, seniūnija, savivaldybės biudžetinė įstaiga, įgyvendinimą detalizuojantys dokumentai, kurie rengiami atsižvelgiant į savivaldybės biudžete numatomus joms skirti asignavimus. Šiuose planuose nurodomi konkretūs savivaldybės administracijos (jos struktūrinių padalinių), seniūnijos, savivaldybės biudžetinės įstaigos darbai (veiksmai) ir (ar) projektai, kurie numatomi atlikti tais metais, darbams (veiksmams) ir (ar) projektams planuojami skirti asignavimai ir rezultatų, kuriuos šios įstaigos ar jų padaliniai turi pasiekti, vertinimo kriterijai (ir jų reikšmės). ^41b7b7ec15a3dc9627f13051
-
-
-5. Strateginio planavimo savivaldybėje organizavimo (savivaldybės strateginio planavimo dokumentų ir jų įgyvendinimą detalizuojančių planavimo dokumentų rengimo, svarstymo ir tvirtinimo, įgyvendinimo stebėsenos, numatytų pasiekti rezultatų vertinimo, ataskaitų dėl planavimo dokumentų įgyvendinimo rengimo ir svarstymo, savivaldybės gyventojų įtraukimo į jų rengimą, svarstymą ir įgyvendinimo priežiūrą, viešinimo ir kt.) tvarką nustato savivaldybės taryba, atsižvelgusi į Vyriausybės nutarimu patvirtintas strateginio planavimo savivaldybėse rekomendacijas. ^de17f84da562cf25f5a82326
-
-
-6. Savivaldybės strateginio planavimo dokumentai ir jų įgyvendinimą detalizuojantys planavimo dokumentai, taip pat ataskaitos dėl šių dokumentų įgyvendinimo yra vieši ir skelbiami savivaldybės interneto svetainėje. ^0183318252bedc75dd4cf556
+Teritorijų planavimas savivaldybėje vykdomas ir teritorijų planavimo dokumentai rengiami ir įgyvendinami [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymo]] ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ir sąlygomis.
 
 
 
-### 104 straipsnis. Finansinis planavimas savivaldybėje
+### 103 straipsnis. Strateginis planavimas savivaldybėje ^s-85b4e2ffba1273e88f142d05
 
 
-1. Savivaldybių veiklos finansinis planavimas yra procesas, kurio metu atsižvelgiant į patvirtintus savivaldybės strateginio planavimo dokumentus yra rengiamas savivaldybės biudžetas ir kitų finansavimo šaltinių sąmatos. ^ede11f80a4ba5156e6271cd6
+1. Savivaldybėje yra rengiami šie savivaldybės strateginio planavimo dokumentai: savivaldybės strateginis plėtros planas, atskirų savivaldybės ūkio šakų (sektorių) plėtros programos ir savivaldybės strateginis veiklos planas. Atskirų savivaldybės ūkio šakų (sektorių) programos rengiamos tik tais atvejais, kai tokių planavimo dokumentų rengimas numatytas įstatyme. ^s-10f8a2bfca502085f087d002
 
 
-2. Savivaldybės biudžetas (savivaldybės metinis finansinis planas) rengiamas, vadovaujantis patvirtintu savivaldybės strateginiu veiklos planu, taip pat atsižvelgiant į kitus patvirtintus savivaldybės strateginio planavimo dokumentus, asignavimus planuojant savivaldybės strateginio veiklos plano programoms įgyvendinti ir planuojamiems rezultatams pasiekti ir paskirstant juos asignavimų valdytojams.“ ^18951801763b42e02eafab3c
+2. Savivaldybės strateginis plėtros planas ir savivaldybės atskirų ūkio šakų (sektorių) plėtros programos yra ilgesnio laikotarpio (daugiau kaip 3 metų) planavimo dokumentai, skirti aplinkos, socialinei ir ekonominei raidai savivaldybės teritorijoje numatyti ir rengiami atsižvelgiant į valstybės ir regioninio lygmens teritorijų ir strateginio planavimo dokumentus, taip pat į savivaldybės teritorijų planavimo dokumentus. ^s-8e944d45aa1f507fe31061e1
+
+
+3. Savivaldybės strateginis veiklos planas, kuris rengiamas 3 metų laikotarpiui (kiekvienais metais jį tikslinant), detalizuoja savivaldybės strateginio plėtros plano ir savivaldybės atskirų ūkio šakų (sektorių) plėtros programų tikslų ir uždavinių įgyvendinimą ir sudaromas atsižvelgiant į planuojamus savivaldybės finansinius ir žmogiškuosius išteklius. ^s-84dedee90f98fd8367cef2c0
+
+
+4. Savivaldybės administracijos, seniūnijos, savivaldybės biudžetinės įstaigos metiniai veiklos planai yra savivaldybės strateginio veiklos plano programų ar jų dalies (tikslų ar uždavinių, atskirų priemonių), už kurias atsakinga savivaldybės administracija, seniūnija, savivaldybės biudžetinė įstaiga, įgyvendinimą detalizuojantys dokumentai, kurie rengiami atsižvelgiant į savivaldybės biudžete numatomus joms skirti asignavimus. Šiuose planuose nurodomi konkretūs savivaldybės administracijos (jos struktūrinių padalinių), seniūnijos, savivaldybės biudžetinės įstaigos darbai (veiksmai) ir (ar) projektai, kurie numatomi atlikti tais metais, darbams (veiksmams) ir (ar) projektams planuojami skirti asignavimai ir rezultatų, kuriuos šios įstaigos ar jų padaliniai turi pasiekti, vertinimo kriterijai (ir jų reikšmės). ^s-2ad89b706a70c9481e19b2b4
+
+
+5. Strateginio planavimo savivaldybėje organizavimo (savivaldybės strateginio planavimo dokumentų ir jų įgyvendinimą detalizuojančių planavimo dokumentų rengimo, svarstymo ir tvirtinimo, įgyvendinimo stebėsenos, numatytų pasiekti rezultatų vertinimo, ataskaitų dėl planavimo dokumentų įgyvendinimo rengimo ir svarstymo, savivaldybės gyventojų įtraukimo į jų rengimą, svarstymą ir įgyvendinimo priežiūrą, viešinimo ir kt.) tvarką nustato savivaldybės taryba, atsižvelgusi į Vyriausybės nutarimu patvirtintas strateginio planavimo savivaldybėse rekomendacijas. ^s-657e887a76bf78cd1752dfdb
+
+
+6. Savivaldybės strateginio planavimo dokumentai ir jų įgyvendinimą detalizuojantys planavimo dokumentai, taip pat ataskaitos dėl šių dokumentų įgyvendinimo yra vieši ir skelbiami savivaldybės interneto svetainėje. ^s-1ddc05b942106a63c515d3ce
 
 
 
-### 4 straipsnis. 16 straipsnio 2 dalies 35, 40 ir 41 punktų pakeitimas
+### 104 straipsnis. Finansinis planavimas savivaldybėje ^s-39c5d5be94fe686197ae047c
 
 
-1. 16 straipsnio 2 dalies 35 punkte vietoj žodžių „veiksmų plano“ įrašyti žodžius „ir mažinimo priemonių“ ir šį punktą išdėstyti taip: ^f24babc80b92453f19c8d087
+1. Savivaldybių veiklos finansinis planavimas yra procesas, kurio metu atsižvelgiant į patvirtintus savivaldybės strateginio planavimo dokumentus yra rengiamas savivaldybės biudžetas ir kitų finansavimo šaltinių sąmatos. ^s-3f99d42860fad1becc7fae00
+
+
+2. Savivaldybės biudžetas (savivaldybės metinis finansinis planas) rengiamas, vadovaujantis patvirtintu savivaldybės strateginiu veiklos planu, taip pat atsižvelgiant į kitus patvirtintus savivaldybės strateginio planavimo dokumentus, asignavimus planuojant savivaldybės strateginio veiklos plano programoms įgyvendinti ir planuojamiems rezultatams pasiekti ir paskirstant juos asignavimų valdytojams.“ ^s-f89a3a6e66a487e78ad6f6fe
+
+
+
+### 4 straipsnis. 16 straipsnio 2 dalies 35, 40 ir 41 punktų pakeitimas ^s-b9ecc0b4b35cec86928e65b2
+
+
+1. 16 straipsnio 2 dalies 35 punkte vietoj žodžių „veiksmų plano“ įrašyti žodžius „ir mažinimo priemonių“ ir šį punktą išdėstyti taip: ^s-741b635a373ad694d417bed1
 
 
 „35) savivaldybės triukšmo prevencijos ir mažinimo priemonių, triukšmo savivaldybės teritorijoje rodiklių, aglomeracijų strateginių triukšmo žemėlapių, gyvenamųjų vietovių teritorijų, kuriose būtina įgyvendinti triukšmo prevencijos ir mažinimo priemones (triukšmo prevencijos zonų), ir triukšmo prevencijos viešosiose vietose taisyklių tvirtinimas, tyliųjų zonų nustatymas. Savivaldybės vykdomosios institucijos, kitų pavaldžių viešojo administravimo subjektų funkcijų triukšmo valdymo srityje įgyvendinimo priežiūra;“.
 
 
-2. Pakeisti 16 straipsnio 2 dalies 40 punktą ir jį išdėstyti taip: ^96925c6f9fd2777c54cc3f8b
+2. Pakeisti 16 straipsnio 2 dalies 40 punktą ir jį išdėstyti taip: ^s-2782843c46603ec225229411
 
 
 „40) savivaldybės strateginių plėtros ir veiklos planų, savivaldybės atskirų ūkio šakų (sektorių) plėtros programų tvirtinimas ir ataskaitų dėl jų įgyvendinimo išklausymas ir sprendimų dėl jų priėmimas;“.
 
 
-3. Pakeisti 16 straipsnio 2 dalies 41 punktą ir jį išdėstyti taip: ^efb158b4b9ad28055055a457
+3. Pakeisti 16 straipsnio 2 dalies 41 punktą ir jį išdėstyti taip: ^s-fd9e1a45f040300bdd8522c6
 
 
 „41) strateginio planavimo savivaldybėje organizavimo tvarkos aprašo tvirtinimas;“.
 
 
 
-### 5 straipsnis. 17 straipsnio 4 dalies 2 punkto pakeitimas
+### 5 straipsnis. 17 straipsnio 4 dalies 2 punkto pakeitimas ^s-b397c682403ddf1c02d6a08a
 
 
 Pakeisti 17 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
@@ -159,7 +164,7 @@ Pakeisti 17 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 20 straipsnio 3 dalies 2 punkto pakeitimas
+### 6 straipsnis. 20 straipsnio 3 dalies 2 punkto pakeitimas ^s-818c465d02cabd98282e33fb
 
 
 Pakeisti 20 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
@@ -169,39 +174,39 @@ Pakeisti 20 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 29 straipsnio 8 dalies 3 punkto pakeitimas ir 8 dalies papildymas 16 punktu
+### 7 straipsnis. 29 straipsnio 8 dalies 3 punkto pakeitimas ir 8 dalies papildymas 16 punktu ^s-7ebfdfe57e85aa097044a808
 
 
-1. Pakeisti 29 straipsnio 8 dalies 3 punktą ir jį išdėstyti taip: ^3b63bd9122912111969a5b05
+1. Pakeisti 29 straipsnio 8 dalies 3 punktą ir jį išdėstyti taip: ^s-bdc9ae5ebc519c4bea08af84
 
 
 „3) organizuoja savivaldybės administracijos darbą, tvirtina savivaldybės administracijos struktūrinių padalinių ir savivaldybės administracijos filialų – seniūnijų veiklos nuostatus, tvirtina savivaldybės administracijos, seniūnijų metinius veiklos planus ir kitus strateginio planavimo dokumentų įgyvendinimą detalizuojančius dokumentus ir kontroliuoja jų įgyvendinimą, atsako už vidaus administravimą savivaldybės administracijoje;“.
 
 
-2. Papildyti 29 straipsnio 8 dalį 16 punktu: ^833bd2e1bcd8cde474864047
+2. Papildyti 29 straipsnio 8 dalį 16 punktu: ^s-06d315d04cc0f529d6847fb2
 
 
 „16) organizuoja savivaldybės strateginio planavimo procesą, atsako už patvirtintų savivaldybės planavimo dokumentų ir jų įgyvendinimo ataskaitų viešinimą.“
 
 
 
-### 8 straipsnis. 32 straipsnio 1 ir 3 dalių pakeitimas
+### 8 straipsnis. 32 straipsnio 1 ir 3 dalių pakeitimas ^s-105ac89470315a2ac34d99fe
 
 
-1. Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip: ^a726f6a4afda1da0b9c5d153
+1. Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip: ^s-6114df19f424a698e4a3b2b5
 
 
 „1. Seniūnijos veiklą reglamentuoja savivaldybės administracijos direktoriaus patvirtinti seniūnijos veiklos nuostatai. Seniūnijos veikla organizuojama pagal seniūnijos metinį veiklos planą. Seniūnijos veikla finansuojama iš savivaldybės biudžeto. Seniūnijos ir seniūno funkcijoms įgyvendinti reikalingos lėšos gali būti skiriamos ir iš kitų finansavimo šaltinių.“
 
 
-2. Pakeisti 32 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^6fda531ef7cbb229f16ae4e0
+2. Pakeisti 32 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^s-cdd5bfad959bc591c00f6202
 
 
 „3) savivaldybės administracijos direktoriui teikia siūlymus dėl savivaldybės strateginių plėtros ir veiklos planų projektų, rengia seniūnijos metinio veiklos plano projektą ir šio plano įgyvendinimo ataskaitą, teikia juos svarstyti seniūnijos seniūnaičių sueigoje. Supažindina seniūnaičius ir vietos gyventojus su patvirtintu seniūnijos metiniu veiklos planu ir aptaria seniūnijos metinio veiklos plano įgyvendinimo rezultatus.“
 
 
 
-### 9 straipsnis. 35 straipsnio 2 dalies pakeitimas
+### 9 straipsnis. 35 straipsnio 2 dalies pakeitimas ^s-c7a1b729a5871fa9ccf28834
 
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -211,7 +216,7 @@ Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 50 straipsnio 3 dalies pakeitimas
+### 10 straipsnis. 50 straipsnio 3 dalies pakeitimas ^s-451cd3ce9dd6c5861b86bb1d
 
 
 Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -221,7 +226,7 @@ Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 11 straipsnis. 51 straipsnio 3 dalies pakeitimas
+### 11 straipsnis. 51 straipsnio 3 dalies pakeitimas ^s-3abfeacb5ca0c8d58ab20c31
 
 
 Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -231,16 +236,16 @@ Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-f017824474ca53418bb69a34
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^6e9576e49c59f2b6876f12cf|3 dalis]], įsigalioja 2014 m. spalio 1 d. ^c50f590298286b10bc71cf1b
+1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-dd52af22dff87190b232b478|3 dalis]], įsigalioja 2014 m. spalio 1 d. ^s-1adee3b99923ea47474a418e
 
 
-2. Lietuvos Respublikos Vyriausybė iki 2014 m. balandžio 1 d. patvirtina Strateginio planavimo savivaldybėse rekomendacijas, kuriose, be kitų dalykų, siekiant kelti strateginio valdymo savivaldybėse kultūros lygį, turi būti numatytas visuotinės kokybės vadybos principų, savivaldybės veiklos rezultatyvumo (veiksmingumo) ir efektyvumo matavimo metodų, savivaldybės politikų, savivaldybės administracijos, visuomeninių organizacijų ir kitų savivaldybės bendruomenės atstovų sąveikos formų, kitų pažangių mokslinių metodų ir priemonių taikymas savivaldybių strateginio planavimo procese. ^946c15c4a3c2bf7f5c777f38
+2. Lietuvos Respublikos Vyriausybė iki 2014 m. balandžio 1 d. patvirtina Strateginio planavimo savivaldybėse rekomendacijas, kuriose, be kitų dalykų, siekiant kelti strateginio valdymo savivaldybėse kultūros lygį, turi būti numatytas visuotinės kokybės vadybos principų, savivaldybės veiklos rezultatyvumo (veiksmingumo) ir efektyvumo matavimo metodų, savivaldybės politikų, savivaldybės administracijos, visuomeninių organizacijų ir kitų savivaldybės bendruomenės atstovų sąveikos formų, kitų pažangių mokslinių metodų ir priemonių taikymas savivaldybių strateginio planavimo procese. ^s-add1eb0ae0e25425f72f3f09
 
 
-3. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos, savivaldybių institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^6e9576e49c59f2b6876f12cf
+3. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos, savivaldybių institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-dd52af22dff87190b232b478
 
 
 

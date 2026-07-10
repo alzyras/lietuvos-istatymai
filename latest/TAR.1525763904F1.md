@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1525763904F1"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-21"
 latest_path: "latest/TAR.1525763904F1.md"
 latest_sha256: "2a7e973d14e5235aa95d6f5961dcb0d625efd3ff0fbf59af699efda99cc87fd8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1525763904F1]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1525763904F1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1525763904F1
+- Ryšiai: [[Ryšiai/TAR.1525763904F1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,16 +36,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 5 dalimi
+### 1 straipsnis. 16 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 5 dalimi ^s-d26120b541402d591369b8cc
 
 
-1. Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip: ^9740139799a068680cd97452
+1. Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip: ^s-59b4899096c36498cb07f6a7
 
 
 „16 straipsnis.     Bendrieji reikalavimai kelių transporto priemonėms ir jų savininkams (valdytojams)“.
 
 
-2. Papildyti 16 straipsnį 5 dalimi: ^f37019bbdf70df5bf0d089ed
+2. Papildyti 16 straipsnį 5 dalimi: ^s-479dc3bbaabfec196449125f
 
 
 „5. Policijos pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone. Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka. Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą netaikoma, jei jis prarado transporto priemonę prieš savo valią.“

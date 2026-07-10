@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.65C6B7670DD3"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-10-13"
 latest_path: "latest/TAR.65C6B7670DD3.md"
 latest_sha256: "13f7cc12c0b955aab0c798b9d6b2e6741dffd0622e291fef9d926ffdf5c7c2d9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.65C6B7670DD3]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.65C6B7670DD3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.65C6B7670DD3
+- Ryšiai: [[Ryšiai/TAR.65C6B7670DD3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

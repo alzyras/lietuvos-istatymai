@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4A763C45A145"
 pavadinimas: "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 13 straipsnio pakeitimo ir papildymo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 13 straipsnio pakeitimo ir papildymo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 13 straipsnio pakeitimo ir papildymo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.4A763C45A145.md"
 latest_sha256: "a33012944b0faa1aab7e60678fda90a6200a27611bf5bdd275f24c4fa7e69e94"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4A763C45A145]]"
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 13 straipsnio pakeitimo ir papildymo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4A763C45A145.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4A763C45A145
+- Ryšiai: [[Ryšiai/TAR.4A763C45A145|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-41f4acf46a764923b0f3c6ea
 
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-256e6d236bb43b9d37f8055d
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

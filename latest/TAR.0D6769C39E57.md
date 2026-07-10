@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0D6769C39E57"
 pavadinimas: "Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-24"
 latest_path: "latest/TAR.0D6769C39E57.md"
 latest_sha256: "292091d5886ad5904f6201896d42581db999b5eb34895e8c46e434606697d3e9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0D6769C39E57]]"
 ---
 # Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0D6769C39E57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0D6769C39E57
+- Ryšiai: [[Ryšiai/TAR.0D6769C39E57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-a3a8d1c0879d0c63637e7bcd
 
 
 Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:

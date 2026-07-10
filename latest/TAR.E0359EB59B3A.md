@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E0359EB59B3A"
 pavadinimas: "Dėl kai kurių Lietuvos Respublikos įstatymų ir Seimo nutarimų pripažinimo netekusiais galios"
+aliases:
+  - "Dėl kai kurių Lietuvos Respublikos įstatymų ir Seimo nutarimų pripažinimo netekusiais galios"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-09-28"
 latest_path: "latest/TAR.E0359EB59B3A.md"
 latest_sha256: "52a5c6cabf6b9e8e0b7a745388f611eeed78d27c41997d0f9ba10a716ff546bb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E0359EB59B3A]]"
 ---
 # Dėl kai kurių Lietuvos Respublikos įstatymų ir Seimo nutarimų pripažinimo netekusiais galios
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E0359EB59B3A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E0359EB59B3A
+- Ryšiai: [[Ryšiai/TAR.E0359EB59B3A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

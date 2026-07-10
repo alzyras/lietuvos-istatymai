@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.45676D54D8D8"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-11-17"
 latest_path: "latest/TAR.45676D54D8D8.md"
 latest_sha256: "44ea4a08483ea9e13b1c2406f431874a73df0234a627c70a6d12b2b7008da88c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.45676D54D8D8]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.45676D54D8D8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.45676D54D8D8
+- Ryšiai: [[Ryšiai/TAR.45676D54D8D8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

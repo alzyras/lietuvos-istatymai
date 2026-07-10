@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9BA292B4843F"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 41 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 41 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 41 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-19"
 latest_path: "latest/TAR.9BA292B4843F.md"
 latest_sha256: "75b5fbcd65b96ee3df20083933d421cf4e7790c8ba1d6f341a76933f47690be9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9BA292B4843F]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 41 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9BA292B4843F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9BA292B4843F
+- Ryšiai: [[Ryšiai/TAR.9BA292B4843F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41straipsnio 1 dalies 5 punkto pakeitimas
+### 1 straipsnis. 41straipsnio 1 dalies 5 punkto pakeitimas ^s-7bd177e1a91069afddf451fd
 
 
 Pakeisti 41 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:

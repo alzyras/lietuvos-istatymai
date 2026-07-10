@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4E2FC1C7690C"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.4E2FC1C7690C.md"
 latest_sha256: "a555ed99061dce1b97cead29c6d4f3b927c4ba1c2bab0976da9eb29a3334fbdc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4E2FC1C7690C]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 5, 6 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4E2FC1C7690C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4E2FC1C7690C
+- Ryšiai: [[Ryšiai/TAR.4E2FC1C7690C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-af03d41adb22838098e9ced3
 
 
 3 straipsnio 2 dalyje išbraukti žodį „apskaičiuotos“, vietoj žodžių „ir jiems Vyriausybės nustatyta tvarka prilygintų savarankiškai dirbančių asmenų“ įrašyti žodžius „individualių (personalinių) įmonių nuomininkų, advokatų, advokatų padėjėjų, notarų, tikrųjų ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, patentus įsigijusių asmenų“ ir šią dalį išdėstyti taip:
@@ -41,20 +46,20 @@ Vilnius
 
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios
+### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios ^s-8930b8b799e6d54698e6b8b6
 
 
-1. [[#^641d5d2b74197c183b9a1d86|5 straipsnio 2 dalyje]] išbraukti žodžius „į Privalomojo sveikatos draudimo fondą“ ir šią dalį išdėstyti taip: ^d19528045e6fc4f5e6c66539
+1. [[#^s-775a566d99a3257319348147|5 straipsnio 2 dalyje]] išbraukti žodžius „į Privalomojo sveikatos draudimo fondą“ ir šią dalį išdėstyti taip: ^s-027ac14b16772c403d2ddad8
 
 
 „2. Fondo biudžeto išlaidas sudaro: pensijų socialinio draudimo, ligos, motinystės ir motinystės (tėvystės) socialinio draudimo, nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išlaidos bei draudimui nuo nedarbo pervedamos lėšos, įvertintos neatgautinos ir abejotinai atgautinos sumos bei Fondo biudžeto veiklos sąnaudos.“
 
 
-2. 5 straipsnio 7 dalį pripažinti netekusia galios. ^bb33bad1a6c300f670441ba7
+2. 5 straipsnio 7 dalį pripažinti netekusia galios. ^s-d155bd9049eff3444605a344
 
 
 
-### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-ce62e16dfb8f956cd47ddfbf
 
 
 6 straipsnio 3 dalyje po žodžių „valstybės tarnautojų“ įrašyti žodžius „ir darbuotojų“, po žodžio „nusidėvėjimo“ įrašyti žodžius „ir amortizacijos“, išbraukti žodžius „sveikatos draudimo“ ir šią dalį išdėstyti taip:
@@ -64,7 +69,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-2d68b22923c149c461940c04
 
 
 7 straipsnio 1 dalyje išbraukti žodžius „neįskaitant lėšų, pervedamų į Privalomojo sveikatos draudimo fondą“ ir šią dalį išdėstyti taip:
@@ -74,13 +79,13 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-fe8cb9cfc7523430e0f826e1
 
 
-1. Šis Įstatymas, išskyrus [[#1 straipsnis. 3 straipsnio 2 dalies pakeitimas|1 straipsnį]], įsigalioja nuo 2003 m. liepos 1 d. ^b848cd7ee2ec86e7090183f5
+1. Šis Įstatymas, išskyrus [[#^s-af03d41adb22838098e9ced3|1 straipsnį]], įsigalioja nuo 2003 m. liepos 1 d. ^s-74c9e998faad9032e9e7284d
 
 
-2. Šio Įstatymo [[#3 straipsnis. 6 straipsnio 3 dalies pakeitimas|3 straipsnyje]] išdėstyto 6 straipsnio 3 dalies nuostata, kad Fondo biudžeto veiklos sąnaudas sudaro ir Fondo įstaigų darbuotojų darbo apmokėjimo bei jų valstybinio socialinio draudimo sąnaudos, įsigalioja nuo 2002 m. liepos 1 d. ^641d5d2b74197c183b9a1d86
+2. Šio Įstatymo [[#^s-ce62e16dfb8f956cd47ddfbf|3 straipsnyje]] išdėstyto 6 straipsnio 3 dalies nuostata, kad Fondo biudžeto veiklos sąnaudas sudaro ir Fondo įstaigų darbuotojų darbo apmokėjimo bei jų valstybinio socialinio draudimo sąnaudos, įsigalioja nuo 2002 m. liepos 1 d. ^s-775a566d99a3257319348147
 
 
 

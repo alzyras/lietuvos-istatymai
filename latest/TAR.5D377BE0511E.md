@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5D377BE0511E"
 pavadinimas: "Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas"
+  - "jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-19"
 latest_path: "latest/TAR.5D377BE0511E.md"
 latest_sha256: "079e46a6a3cd40f3dfe2cfd1256cb4dff48ecddaf53dfd2472fa2d26f01c15eb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5D377BE0511E]]"
 ---
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5D377BE0511E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5D377BE0511E
+- Ryšiai: [[Ryšiai/TAR.5D377BE0511E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 53 straipsnio pakeitimas
+### 1 straipsnis. 53 straipsnio pakeitimas ^s-70115cafe22457ead65a60a5
 
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
@@ -42,7 +47,7 @@ Kad būtų išsaugota jūros rajono pakrantės aplinka, nustatomos dvi skirtingo
 
 
 
-### 2 straipsnis. 54 straipsnio pakeitimas
+### 2 straipsnis. 54 straipsnio pakeitimas ^s-c01cccfacb92b66c8c415d24
 
 
 Pakeisti 54 straipsnį ir jį išdėstyti taip:
@@ -51,11 +56,11 @@ Pakeisti 54 straipsnį ir jį išdėstyti taip:
 „54 straipsnis. Pajūrio juostos naudojimo režimas
 
 
-Jūros rajono pajūrio juostos naudojimo bei apsaugos režimą nustato Pajūrio juostos įstatymas, kiti teisės aktai.“
+Jūros rajono pajūrio juostos naudojimo bei apsaugos režimą nustato [[latest/TAR.4F95269B43A0|Pajūrio juostos įstatymas]], kiti teisės aktai.“
 
 
 
-### 3 straipsnis. 56 straipsnio pakeitimas
+### 3 straipsnis. 56 straipsnio pakeitimas ^s-e24876d30a51f02ab072ba11
 
 
 56 straipsnyje išbraukti žodžius „(paplūdimio, kopagūbrio, kranto, povandeninio šlaito)“ ir šį straipsnį išdėstyti taip:
@@ -68,7 +73,7 @@ Jūros kranto zonos tvarkymą reglamentuoja Krantų apsaugos ir naudojimo nuosta
 
 
 
-### 4 straipsnis. 57 straipsnio pakeitimas
+### 4 straipsnis. 57 straipsnio pakeitimas ^s-98aa7a7c32024ff639f8f1d3
 
 
 Pakeisti 57 straipsnį ir jį išdėstyti taip:
@@ -77,7 +82,7 @@ Pakeisti 57 straipsnį ir jį išdėstyti taip:
 „57 straipsnis. Pajūrio juostos ir jūros kranto zonos žymėjimas
 
 
-Pajūrio juostos ir jūros kranto zonos ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose Teritorijų planavimo įstatymo nustatyta tvarka.“
+Pajūrio juostos ir jūros kranto zonos ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka.“
 
 
 

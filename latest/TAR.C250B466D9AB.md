@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C250B466D9AB"
 pavadinimas: "Lietuvos Respublikos konstitucinio teismo įstatymo 18, 26 ir 84 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konstitucinio teismo įstatymo 18, 26 ir 84 straipsnių pakeitimo įstatymas"
+  - "konstitucinio teismo įstatymo 18, 26 ir 84 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.C250B466D9AB.md"
 latest_sha256: "c3fc443bfc8dd1eed3e232092381a6fdc01dbb1099a491da4a3241bf72cb00fb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C250B466D9AB]]"
 ---
 # Lietuvos Respublikos konstitucinio teismo įstatymo 18, 26 ir 84 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C250B466D9AB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C250B466D9AB
+- Ryšiai: [[Ryšiai/TAR.C250B466D9AB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas ^s-12d782a11ce8f32e0e162e8e
 
 
 18 straipsnio 1 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 26 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 26 straipsnio 2 dalies pakeitimas ^s-5891ed9962fa5835b9bbec73
 
 
 Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 84 straipsnio pakeitimas
+### 3 straipsnis. 84 straipsnio pakeitimas ^s-b6d955a7dc0769afce2ad626
 
 
 Pakeisti 84 straipsnį ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 84 straipsnį ir jį išdėstyti taip:
 „84 straipsnis. Konstitucinio Teismo aktų ir Konstitucinio Teismo pirmininko potvarkių paskelbimas ir įsigaliojimas
 
 
-Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo oficialiai skelbiami Teisės aktų registre Teisėkūros pagrindų įstatymo nustatyta tvarka ir Konstitucinio Teismo interneto svetainėje.
+Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo oficialiai skelbiami Teisės aktų registre [[latest/TAR.B4FA4C56B8D5|Teisėkūros pagrindų įstatymo]] nustatyta tvarka ir Konstitucinio Teismo interneto svetainėje.
 
 
 Konstitucinio Teismo išvados, taip pat sprendimai priimti nagrinėti prašymą ar paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti bylą (teiseną), Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2 punktuose nurodytais klausimais skelbiami Konstitucinio Teismo interneto svetainėje.
@@ -79,7 +84,7 @@ Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosio
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-3ec1487cbbe5669dd355148f
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

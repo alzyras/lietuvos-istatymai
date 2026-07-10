@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F88F05066479"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-05-25"
 latest_path: "latest/TAR.F88F05066479.md"
 latest_sha256: "ea7f532b3b5a69394e65cbdf128aa4f562246eb16f7ee69508221c1efd4882fb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F88F05066479]]"
 ---
 # Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F88F05066479.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F88F05066479
+- Ryšiai: [[Ryšiai/TAR.F88F05066479|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

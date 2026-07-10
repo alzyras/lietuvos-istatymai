@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FCE14630662E"
 pavadinimas: "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "transporto veiklos pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-24"
 latest_path: "latest/TAR.FCE14630662E.md"
 latest_sha256: "beab58e694cd1ac227deb9f680beadbc19c5bb43f86792e9f1745d1608ea103b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FCE14630662E]]"
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FCE14630662E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FCE14630662E
+- Ryšiai: [[Ryšiai/TAR.FCE14630662E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio pakeitimas
+### 1 straipsnis. 9 straipsnio pakeitimas ^s-174344192b6b1003444a2098
 
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:

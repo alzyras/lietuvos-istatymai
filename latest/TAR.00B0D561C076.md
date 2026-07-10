@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.00B0D561C076"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" įsigaliojimo\" papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" įsigaliojimo\" papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-11-18"
 latest_path: "latest/TAR.00B0D561C076.md"
 latest_sha256: "bb54de9f82bcebf65582152a66e34785850e1b4e3a6852b9992ef5cddd843e6e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.00B0D561C076]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" įsigaliojimo" papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.00B0D561C076.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.00B0D561C076
+- Ryšiai: [[Ryšiai/TAR.00B0D561C076|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -55,7 +59,7 @@ Dabartinio Lietuvos Aukščiausiojo Teismo pirmininkas, jei jis nepaskirtas nauj
 16 straipsnis
 
 
-Lietuvos Respublikos teismų įstatymo 51 straipsnio trečiosios dalies nuostata gali būti taikoma nuo 1994 m. lapkričio 15 dienos.“
+[[latest/TAR.522B3E415B52#^s-ea1a3b17454bd2eb579ffa60|Lietuvos Respublikos teismų įstatymo 51 straipsnio]] trečiosios dalies nuostata gali būti taikoma nuo 1994 m. lapkričio 15 dienos.“
 
 
 

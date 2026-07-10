@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE01E0885487"
 pavadinimas: "Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.DE01E0885487.md"
 latest_sha256: "ec4fe75fee5daef5b5879137f7e004121de1eeb84d86e1ceee61eb9a1b886f78"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE01E0885487]]"
 ---
 # Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE01E0885487.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE01E0885487
+- Ryšiai: [[Ryšiai/TAR.DE01E0885487|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-2b24c8fd75b2b02cd7c25bab
 
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-21501abcd84d1dad9f82307d
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

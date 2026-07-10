@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.56BE9B78CBF7"
 pavadinimas: "Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-07-28"
 latest_path: "latest/TAR.56BE9B78CBF7.md"
 latest_sha256: "2cc50899c8d2e8e2d0e3822037f10184a0be51f0e124dbaf12c2102b743c9594"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.56BE9B78CBF7]]"
 ---
 # Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.56BE9B78CBF7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.56BE9B78CBF7
+- Ryšiai: [[Ryšiai/TAR.56BE9B78CBF7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -43,7 +47,7 @@ Profesinis išsilavinimas įgyjamas ir tobulinamas profesinio mokymo įstaigose 
 Aukštasis išsilavinimas įgyjamas aukštosiose mokyklose.
 
 
-Aukštųjų mokyklų steigimo, reorganizavimo, likvidavimo, studijų tvarką bei veiklos ir valdymo pagrindus reglamentuoja Lietuvos Respublikos mokslo ir studijų įstatymas bei aukštųjų mokyklų statutai.
+Aukštųjų mokyklų steigimo, reorganizavimo, likvidavimo, studijų tvarką bei veiklos ir valdymo pagrindus reglamentuoja [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] bei aukštųjų mokyklų statutai.
 
 
 Nevalstybines aukštąsias mokyklas steigia, reorganizuoja ir likviduoja Lietuvos Respublikos juridiniai ir fiziniai asmenys, gavę Lietuvos Respublikos Vyriausybės licenciją. Į mokyklas, neturinčias tokios licencijos, draudžiama skelbti priėmimą ir organizuoti jose mokymą.“

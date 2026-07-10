@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EFB2252C29BD"
 pavadinimas: "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-22"
 latest_path: "latest/TAR.EFB2252C29BD.md"
 latest_sha256: "d682aee9ae859402542921ff8fe5c9d5be6cd48737b1474e7d1bdf52d2698e51"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EFB2252C29BD]]"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EFB2252C29BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EFB2252C29BD
+- Ryšiai: [[Ryšiai/TAR.EFB2252C29BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 8 punkto pakeitimas
+### 1 straipsnis. 1 straipsnio 8 punkto pakeitimas ^s-46e2fe7fa5ca73ae0ed593aa
 
 
 1 straipsnio 8 punkte vietoj datos „2012 m. sausio 1 d.“ įrašyti žodžius „bus priimtas ir įsigalios naujos redakcijos įstatymas, keičiantis visą Lietuvos Respublikos administracinių teisės pažeidimų kodeksą“ ir šį punktą išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.213026608DE0"
 pavadinimas: "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 15 straipsnių pakeitimo įstatymas"
+  - "valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-01"
 latest_path: "latest/TAR.213026608DE0.md"
 latest_sha256: "856d6576ed0aaee86765e25c40b1c42a9221b01bf3b877d74e5aa9d5923ea554"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.213026608DE0]]"
 ---
 # Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.213026608DE0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.213026608DE0
+- Ryšiai: [[Ryšiai/TAR.213026608DE0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas ^s-aa12d4913857a6829f77b2ee
 
 
 5 straipsnio 1 dalies 3 punkte vietoj žodžių „Ministro Pirmininko tarnyba“ įrašyti žodžius „Vyriausybės kanceliarija“ ir šį punktą išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 15 straipsnio 2 dalies 3 punkto pakeitimas
+### 2 straipsnis. 15 straipsnio 2 dalies 3 punkto pakeitimas ^s-fa20c03b70ea38f7ea547fa4
 
 
 15 straipsnio 2 dalies 3 punkte vietoj žodžių „Ministro Pirmininko“ įrašyti žodį „Vyriausybės“ ir šį punktą išdėstyti taip:
@@ -55,7 +60,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ba1e946cda554468303ee7f4
 
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.

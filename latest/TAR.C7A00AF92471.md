@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C7A00AF92471"
 pavadinimas: "Dėl dotacijų savivaldybių biudžetams pakeitimo"
+aliases:
+  - "Dėl dotacijų savivaldybių biudžetams pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-11-21"
 latest_path: "latest/TAR.C7A00AF92471.md"
 latest_sha256: "3bd1e320b0ffe1f0954e76781d2a175a1191a34fd35434bd09a1ec75962ed4e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C7A00AF92471]]"
 ---
 # Dėl dotacijų savivaldybių biudžetams pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C7A00AF92471.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C7A00AF92471
+- Ryšiai: [[Ryšiai/TAR.C7A00AF92471|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

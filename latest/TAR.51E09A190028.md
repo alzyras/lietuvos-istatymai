@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.51E09A190028"
 pavadinimas: "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 3, 4, 5, 8, 15, 18 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 3, 4, 5, 8, 15, 18 straipsnių pakeitimo ir papildymo įstatymas"
+  - "nedarbo socialinio draudimo įstatymo 3, 4, 5, 8, 15, 18 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.51E09A190028.md"
 latest_sha256: "662b76276671f1ca589132dcf8997dc05d3bc98d81d493e6a7f7745f838c5082"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.51E09A190028]]"
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 3, 4, 5, 8, 15, 18 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.51E09A190028.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.51E09A190028
+- Ryšiai: [[Ryšiai/TAR.51E09A190028|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ LIETUVOS RESPUBLIKOS NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 8, 15, 18 ST
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-fa25de9cbb0ca381a818dbe6
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -42,61 +47,61 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-30c82ba8a2302d9b14712367
 
 
-1. Pakeisti 4 straipsnio 1 punktą ir jį išdėstyti taip: ^4284d88afa0e8339997610dc
+1. Pakeisti 4 straipsnio 1 punktą ir jį išdėstyti taip: ^s-a04294e1d4b85eb85e25a4b5
 
 
 „1) Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodyti asmenys;“.
 
 
-2. 4 straipsnio 2 punktą pripažinti netekusiu galios. ^a66c5d1c72bc88a5a2562a4c
+2. 4 straipsnio 2 punktą pripažinti netekusiu galios. ^s-151658db5df1e45af419963b
 
 
-3. Pakeisti 4 straipsnio 5 punktą ir jį išdėstyti taip: ^b65b99680f462457d68def3a
+3. Pakeisti 4 straipsnio 5 punktą ir jį išdėstyti taip: ^s-17ccbff8b6f03c09e56b8627
 
 
 „5) nesukakę senatvės pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais, valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje, ar užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju, jei deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija;“.
 
 
-4. Papildyti [[#4 straipsnis. 8 straipsnio pakeitimas|4 straipsnį]] 7 ir [[#^6d97dd19c280c149c382a2d3|8 punktais]]: ^c444591c0afb927eac185402
+4. Papildyti [[#^s-d96f3c5e67cbc7effccbefb3|4 straipsnį]] 7 ir [[#^s-d37f8c0eecd07f3bad4982fe|8 punktais]]: ^s-72e3acb2b02230d296eb4eca
 
 
 „7) šeimos pasirinkimu vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju, auginantys vaiką iki trejų metų;
 
 
-8) nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuose nurodytą neįgalų asmenį. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d.“ ^6d97dd19c280c149c382a2d3
+8) nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuose nurodytą neįgalų asmenį. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d.“ ^s-d37f8c0eecd07f3bad4982fe
 
 
 
-### 3 straipsnis. 5 straipsnio 2 dalies pripažinimas netekusia galios
+### 3 straipsnis. 5 straipsnio 2 dalies pripažinimas netekusia galios ^s-bab879bf51216c78ba60d75a
 
 
 5 straipsnio 2 dalį pripažinti netekusia galios.
 
 
 
-### 4 straipsnis. 8 straipsnio pakeitimas
+### 4 straipsnis. 8 straipsnio pakeitimas ^s-d96f3c5e67cbc7effccbefb3
 
 
-1. Pakeisti 8 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip: ^726b17720ab4d755e05c2c43
+1. Pakeisti 8 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip: ^s-5c2206982d52987e8d136f5c
 
 
 „4) kintama nedarbo draudimo išmokos dalis sudaro 40 procentų šios dalies 3 punkte nurodyto dydžio.“
 
 
-2. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^bdf9a7b40b709f7ded511f03
+2. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^s-6f8e3f881e904c19c3bd1dec
 
 
-„4. Pirmus 3 mėnesius mokama visa nedarbo išmoka, likusį [[#^be381b1067c690fa634a8c9d|7 straipsnio 2 dalyje]] ir 14 straipsnio 1, 2 ir 4 dalyse nustatytą nedarbo išmokos mokėjimo laikotarpį – pastovi nedarbo draudimo išmokos dalis ir pusė kintamos nedarbo išmokos dalies. Kiekvienu iš nurodytų laikotarpių mokama nedarbo draudimo išmoka negali būti didesnė kaip 70 procentų paskutinių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžio.“
+„4. Pirmus 3 mėnesius mokama visa nedarbo išmoka, likusį [[#^s-344cc32a2beba042145ccba5|7 straipsnio 2 dalyje]] ir 14 straipsnio 1, 2 ir 4 dalyse nustatytą nedarbo išmokos mokėjimo laikotarpį – pastovi nedarbo draudimo išmokos dalis ir pusė kintamos nedarbo išmokos dalies. Kiekvienu iš nurodytų laikotarpių mokama nedarbo draudimo išmoka negali būti didesnė kaip 70 procentų paskutinių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžio.“
 
 
-3. 8 straipsnio 5 dalį pripažinti netekusia galios. ^5eb72874cbfedac409831184
+3. 8 straipsnio 5 dalį pripažinti netekusia galios. ^s-26609189f49ae352effa2280
 
 
 
-### 5 straipsnis. 15 straipsnio pakeitimas
+### 5 straipsnis. 15 straipsnio pakeitimas ^s-8708d5fbf686bffed195968d
 
 
 15 straipsnyje išbraukti žodžius „kompensacijas už ypatingas darbo sąlygas“ ir jį išdėstyti taip:
@@ -110,33 +115,33 @@ Asmenims, gaunantiems valstybines socialinio draudimo, šalpos ar valstybines pe
 
 
 
-### 6 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+### 6 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas ^s-257e729cab9a9ea0f9364332
 
 
-1. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip: ^3c5236f7323d9bb1b992b09d
+1. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip: ^s-e738e6532f143f765d45ce2c
 
 
 „1. Šiame įstatyme nustatytos nedarbo draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio įstatymo 4 straipsnyje, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu su kitomis socialinio draudimo rūšių įmokomis.“
 
 
-2. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip: ^eda0f6683aa4d10e514e306c
+2. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip: ^s-525495ea66ccaf62730ed119
 
 
-„2. Asmenys, nurodyti šio įstatymo [[#4 straipsnis. 8 straipsnio pakeitimas|4 straipsnio]] 5–8 punktuose, nedarbo draudimu privalomai draudžiami valstybės lėšomis. Nedarbo draudimo įmokos už asmenis, nurodytus 5 punkte, mokamos nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio. Nedarbo draudimo įmokos už asmenis, nurodytus 6–8 punktuose, mokamos nuo minimalios mėnesinės algos.“
-
-
-
-### 7 straipsnis. Baigiamosios nuostatos
-
-
-1. Nedarbo draudimo išmokos, paskirtos iki šio įstatymo įsigaliojimo bedarbiams, išskyrus nurodytus [[#^be381b1067c690fa634a8c9d|šio straipsnio 2 dalyje]], neperskaičiuojamos. ^d99c8ea5f097c3a3f10bd943
-
-
-2. Bedarbiams, gaunantiems kompensacijas už ypatingas darbo sąlygas, iki šio įstatymo įsigaliojimo paskirtos nedarbo draudimo išmokos, kurių mokėjimas tęsiamas, nuo šio įstatymo įsigaliojimo perskaičiuojamos pagal šio įstatymo nuostatas. ^be381b1067c690fa634a8c9d
+„2. Asmenys, nurodyti šio įstatymo [[#^s-d96f3c5e67cbc7effccbefb3|4 straipsnio]] 5–8 punktuose, nedarbo draudimu privalomai draudžiami valstybės lėšomis. Nedarbo draudimo įmokos už asmenis, nurodytus 5 punkte, mokamos nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio. Nedarbo draudimo įmokos už asmenis, nurodytus 6–8 punktuose, mokamos nuo minimalios mėnesinės algos.“
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Baigiamosios nuostatos ^s-1f3da9d5027688d7c668b9fa
+
+
+1. Nedarbo draudimo išmokos, paskirtos iki šio įstatymo įsigaliojimo bedarbiams, išskyrus nurodytus [[#^s-344cc32a2beba042145ccba5|šio straipsnio 2 dalyje]], neperskaičiuojamos. ^s-8eb3c65edb9f43276d9c9d2b
+
+
+2. Bedarbiams, gaunantiems kompensacijas už ypatingas darbo sąlygas, iki šio įstatymo įsigaliojimo paskirtos nedarbo draudimo išmokos, kurių mokėjimas tęsiamas, nuo šio įstatymo įsigaliojimo perskaičiuojamos pagal šio įstatymo nuostatas. ^s-344cc32a2beba042145ccba5
+
+
+
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-69a3b35263cb01fea043daf9
 
 
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.

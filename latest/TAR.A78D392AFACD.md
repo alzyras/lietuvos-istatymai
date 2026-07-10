@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A78D392AFACD"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 2, 3 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 2, 3 ir 15 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 2, 3 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-25"
 latest_path: "latest/TAR.A78D392AFACD.md"
 latest_sha256: "a38fc1ecc8ec9163b63e39710e7f52d1e65e0754d04305860fa2f14dbb518684"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A78D392AFACD]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2, 3 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A78D392AFACD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A78D392AFACD
+- Ryšiai: [[Ryšiai/TAR.A78D392AFACD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,17 +37,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas ^s-95e621a7eb0920e995712058
 
 
 Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Valstybės ir savivaldybių institucijos ir įstaigos – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms Viešojo administravimo įstatymo nustatyta tvarka yra suteikti viešojo administravimo įgaliojimai.“
+„4. Valstybės ir savivaldybių institucijos ir įstaigos – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka yra suteikti viešojo administravimo įgaliojimai.“
 
 
 
-### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-eb9d43b1a4b6f08c955101b1
 
 
 3 straipsnio 1 dalyje po žodžio „viršenybės“ įrašyti žodį „teisėtumo“ ir šią dalį išdėstyti taip:
@@ -52,7 +57,7 @@ Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 15 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 15 straipsnio 1 dalies 1 punkto pakeitimas ^s-d436242a8267063105219965
 
 
 Pakeisti 15 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:

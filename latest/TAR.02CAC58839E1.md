@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.02CAC58839E1"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 24 straipsnio pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-29"
 latest_path: "latest/TAR.02CAC58839E1.md"
 latest_sha256: "c1edc8d0d4a6219292cb8cc14f6b43e6cb4fa7428c75f12e03d5581d91a3c34d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.02CAC58839E1]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.02CAC58839E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.02CAC58839E1
+- Ryšiai: [[Ryšiai/TAR.02CAC58839E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,13 +38,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-67226938bae8c3f6a5ce6c35
 
 
 24 straipsnio 2 dalyje išbraukti žodį „sumokėto“ ir šią dalį išdėstyti taip:
 
 
-„2. Iš pajamų atskaitomos tik tos pirkimo ir importo pridėtinės vertės mokesčio sumos, kurios neatskaitomos pagal Pridėtinės vertės mokesčio įstatymo nuostatas, ir tik tais atvejais, kai šios sumos apskaičiuotos nuo šiame Įstatyme nustatytų leidžiamų atskaitymų.“
+„2. Iš pajamų atskaitomos tik tos pirkimo ir importo pridėtinės vertės mokesčio sumos, kurios neatskaitomos pagal [[latest/TAR.ED68997709F5|Pridėtinės vertės mokesčio įstatymo]] nuostatas, ir tik tais atvejais, kai šios sumos apskaičiuotos nuo šiame Įstatyme nustatytų leidžiamų atskaitymų.“
 
 
 

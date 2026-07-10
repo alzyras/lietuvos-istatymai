@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9159BAF6EBE0"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-02-05"
 latest_path: "latest/TAR.9159BAF6EBE0.md"
 latest_sha256: "79c97294f1d5d42605b8d7379116132152349748eff36d9a2d016a3d3652cc11"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9159BAF6EBE0]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9159BAF6EBE0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9159BAF6EBE0
+- Ryšiai: [[Ryšiai/TAR.9159BAF6EBE0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 2 dalies 8 punkto pakeitimas
+### 1 straipsnis. 18 straipsnio 2 dalies 8 punkto pakeitimas ^s-712424365af1d0ce0377fe38
 
 
 Pakeisti 18 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip:

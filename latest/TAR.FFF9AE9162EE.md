@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FFF9AE9162EE"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas"
+  - "mokesčio už aplinkos teršimą įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-01-01"
 latest_path: "latest/TAR.FFF9AE9162EE.md"
 latest_sha256: "c8fbcb4f67e6c50e0bed23068f458898527fb6dac1f211eb9bb770ee660a0a31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FFF9AE9162EE]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FFF9AE9162EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE
+- Ryšiai: [[Ryšiai/TAR.FFF9AE9162EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,168 +34,168 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-c28ee8a702dd4d585ab79377
 
 
-1. Šis įstatymas reglamentuoja mokesčio už aplinkos teršimą mokėjimo tvarką, kontrolę ir atsakomybę. ^b8f267e1691259092df8823a
+1. Šis įstatymas reglamentuoja mokesčio už aplinkos teršimą mokėjimo tvarką, kontrolę ir atsakomybę. ^s-a80e5902da9f09cb308759a4
 
 
-2. Įstatymo paskirtis – ekonominėmis priemonėmis skatinti teršėjus mažinti aplinkos teršimą, neviršyti teršalams nustatytų išmetimo į aplinką normatyvų, taip pat iš mokesčių kaupti lėšas aplinkosaugos priemonėms įgyvendinti. ^b34bfcead31546bbb20febea
-
-
-
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Normatyvas – nustatyta tvarka įteisintas tam tikro teršalo kiekio, apmokestinamuoju laikotarpiu leidžiamo išmesti į aplinką, rodiklis. ^63186cd98bc86c4fb59a3a47
-
-
-2. Didžiausios leidžiamos taršos normatyvas – didžiausio tam tikro teršalo kiekio, leidžiamo išmesti į aplinką per laiko vienetą, rodiklis. ^9798eb2b5b2ba9d0e62bd944
-
-
-3. Laikinai leidžiamos taršos normatyvas – laikinai leidžiamo išmesti į aplinką per laiko vienetą tam tikro teršalo kiekio, nustatomo konkrečiam objektui, kol bus galima nustatyti didžiausios leidžiamos taršos normatyvą, rodiklis. ^92cf00b22e0502c33a280ef5
-
-
-4. Stacionarus taršos šaltinis – taršos šaltinis, esantis nekintamoje vietoje. ^0ce389a20ba703034c8df44c
-
-
-5. Mobilus taršos šaltinis – motorinės transporto priemonės ir kiti judantys mechanizmai, naudojantys degalus. ^58aff04c6c42858bed84ba1d
-
-
-6. Asmuo – fizinis asmuo, juridinis asmuo, kitas, neturintis juridinio asmens teisių, asmuo. ^c469869d14f13ab11dd81ba5
+2. Įstatymo paskirtis – ekonominėmis priemonėmis skatinti teršėjus mažinti aplinkos teršimą, neviršyti teršalams nustatytų išmetimo į aplinką normatyvų, taip pat iš mokesčių kaupti lėšas aplinkosaugos priemonėms įgyvendinti. ^s-e89b2a7a90bb1da2c1b2f04a
 
 
 
-### 3 straipsnis. Mokesčio objektas
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-25266cb51ba7c15ac4e1eb2b
+
+
+1. Normatyvas – nustatyta tvarka įteisintas tam tikro teršalo kiekio, apmokestinamuoju laikotarpiu leidžiamo išmesti į aplinką, rodiklis. ^s-47b311d3c9ec919a8db35431
+
+
+2. Didžiausios leidžiamos taršos normatyvas – didžiausio tam tikro teršalo kiekio, leidžiamo išmesti į aplinką per laiko vienetą, rodiklis. ^s-6393ace782bd3d80a4f6ad12
+
+
+3. Laikinai leidžiamos taršos normatyvas – laikinai leidžiamo išmesti į aplinką per laiko vienetą tam tikro teršalo kiekio, nustatomo konkrečiam objektui, kol bus galima nustatyti didžiausios leidžiamos taršos normatyvą, rodiklis. ^s-20ffbd6c981c480e148e4cf1
+
+
+4. Stacionarus taršos šaltinis – taršos šaltinis, esantis nekintamoje vietoje. ^s-30a201e82b45bbbc02742f43
+
+
+5. Mobilus taršos šaltinis – motorinės transporto priemonės ir kiti judantys mechanizmai, naudojantys degalus. ^s-b46fc028a8d5b4d7845161e0
+
+
+6. Asmuo – fizinis asmuo, juridinis asmuo, kitas, neturintis juridinio asmens teisių, asmuo. ^s-1865256e42cf5723229cb250
+
+
+
+### 3 straipsnis. Mokesčio objektas ^s-e8562cacdc0dfecd6370f84a
 
 
 Mokesčio objektas – išmetami į aplinką neigiamai veikiantys žmogų ir aplinką fizikiniai, biologiniai ir cheminiai teršalai.
 
 
 
-### 4 straipsnis. Mokesčio mokėtojai
+### 4 straipsnis. Mokesčio mokėtojai ^s-dc1bc3e04fddbb0ee2ef45e6
 
 
-1. Mokestį už aplinkos teršimą iš stacionarių taršos šaltinių moka aplinką teršiantys asmenys, kuriems Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka privaloma turėti gamtos išteklių naudojimo leidimą su nurodytais teršalų išmetimo į aplinką normatyvais. ^14ebb3d7fa7ffa464ed764d1
+1. Mokestį už aplinkos teršimą iš stacionarių taršos šaltinių moka aplinką teršiantys asmenys, kuriems Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka privaloma turėti gamtos išteklių naudojimo leidimą su nurodytais teršalų išmetimo į aplinką normatyvais. ^s-20ab9efc923e075bdeadf438
 
 
-2. Mokestį už aplinkos teršimą iš mobilių taršos šaltinių moka asmenys, teršiantys aplinką iš ūkinei-komercinei veiklai naudojamų mobilių taršos šaltinių, išskyrus žemės ūkio veikla besiverčiančių asmenų transportą. ^84b34cb56d939ceeab54ceaf
+2. Mokestį už aplinkos teršimą iš mobilių taršos šaltinių moka asmenys, teršiantys aplinką iš ūkinei-komercinei veiklai naudojamų mobilių taršos šaltinių, išskyrus žemės ūkio veikla besiverčiančių asmenų transportą. ^s-54b35055aed696c674debb42
 
 
 
-### 5 straipsnis. Teršiančių medžiagų apmokestinimo ir tarifų nustatymo tvarka
+### 5 straipsnis. Teršiančių medžiagų apmokestinimo ir tarifų nustatymo tvarka ^s-5974a2de3f7b3d0d27f6537d
 
 
-1. Mokesčio už aplinkos teršimą tarifai ir tarifų koeficientai nustatomi teršalams ir teršalų grupėms pagal jų kenksmingumą aplinkai. ^fb39395c30aa95773dfc0f5a
+1. Mokesčio už aplinkos teršimą tarifai ir tarifų koeficientai nustatomi teršalams ir teršalų grupėms pagal jų kenksmingumą aplinkai. ^s-bff9d28ccee333515e3800b4
 
 
-2. Mokesčio už aplinkos teršimą tarifai, pateikti šio įstatymo 1 priedėlyje, nustatomi vienai teršalų tonai. ^dd88b82a72fce2d45a84d75a
+2. Mokesčio už aplinkos teršimą tarifai, pateikti šio įstatymo 1 priedėlyje, nustatomi vienai teršalų tonai. ^s-19e1735204f1aec3ce7f7cb1
 
 
-3. Stacionarių taršos šaltinių išmetamiems į aplinką teršalams, kuriems nustatytas laikinai leidžiamos taršos normatyvas, mokesčio už aplinkos teršimą tarifai, pateikti šio įstatymo 1 priedėlyje, didinami taikant koeficientą 1,2. Ši nuostata pradedama taikyti po 3 metų nuo įstatymo įsigaliojimo datos. ^50b27161860277e451d725f5
+3. Stacionarių taršos šaltinių išmetamiems į aplinką teršalams, kuriems nustatytas laikinai leidžiamos taršos normatyvas, mokesčio už aplinkos teršimą tarifai, pateikti šio įstatymo 1 priedėlyje, didinami taikant koeficientą 1,2. Ši nuostata pradedama taikyti po 3 metų nuo įstatymo įsigaliojimo datos. ^s-6fda6e6414de79ecc5e6f5a0
 
 
-4. Asmenys, įgyvendinantys priemones, sumažinančias teršalų išmetimą į aplinką ne mažiau kaip 10 procentų skaičiuojant nuo nustatyto didžiausios leidžiamos taršos normatyvo, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už tuos teršalus, kurių kiekis sumažinamas 10 procentų. Atleidimas nuo priemonės įgyvendinimo pradžios galioja ne ilgiau kaip 3 metus. ^4dd57e49b72e32511dd40125
+4. Asmenys, įgyvendinantys priemones, sumažinančias teršalų išmetimą į aplinką ne mažiau kaip 10 procentų skaičiuojant nuo nustatyto didžiausios leidžiamos taršos normatyvo, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už tuos teršalus, kurių kiekis sumažinamas 10 procentų. Atleidimas nuo priemonės įgyvendinimo pradžios galioja ne ilgiau kaip 3 metus. ^s-73313357483e08cee74c8510
 
 
-5. Jei teršalų išmetimo sumažinimo priemonė nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už aplinkos teršimą už visą nesumokėtą laikotarpį sumokamas arba išieškomas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka. ^cf3bcb2ca464d90052bbfe4e
+5. Jei teršalų išmetimo sumažinimo priemonė nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už aplinkos teršimą už visą nesumokėtą laikotarpį sumokamas arba išieškomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-e16d2832891b77eb3ef2e1bd
 
 
-6. Bauda mokama už stacionarių taršos šaltinių išmetamą į aplinką normatyvus viršijantį teršalų kiekį. Jos dydis apskaičiuojamas normatyvus viršijantį teršalų kiekį dauginant iš mokesčio už aplinkos teršimą tarifo, nurodyto šio įstatymo 1 priedėlyje, ir šiam teršalui nustatyto koeficiento, nurodyto 2 priedėlyje. ^c310333a00697b5c4afb91fa
+6. Bauda mokama už stacionarių taršos šaltinių išmetamą į aplinką normatyvus viršijantį teršalų kiekį. Jos dydis apskaičiuojamas normatyvus viršijantį teršalų kiekį dauginant iš mokesčio už aplinkos teršimą tarifo, nurodyto šio įstatymo 1 priedėlyje, ir šiam teršalui nustatyto koeficiento, nurodyto 2 priedėlyje. ^s-d707993d824cc088612a8585
 
 
-7. Įkainius už aplinkos teršimą iš mobilių taršos šaltinių vienai tonai sunaudotų degalų, o lėktuvams – pakilimo ir nusileidimo ciklui nustato Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos pagal šio įstatymo 1 priedėlyje nurodytus apmokestinamų teršalų tarifus. ^d0fc0608545eb5f95e0854a9
+7. Įkainius už aplinkos teršimą iš mobilių taršos šaltinių vienai tonai sunaudotų degalų, o lėktuvams – pakilimo ir nusileidimo ciklui nustato Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos pagal šio įstatymo 1 priedėlyje nurodytus apmokestinamų teršalų tarifus. ^s-dd8f9671a3f93f0eecc9b88b
 
 
-8. Mobiliems taršos šaltiniams įkainis už aplinkos teršimą, atsižvelgiant į taršos šaltinio technines savybes, yra koreguojamas (mažinamas ar didinamas) taikant Lietuvos Respublikos Vyriausybės arba jos įgaliotų institucijų nustatytus koeficientus. ^5675a0da95ca10d47fb92188
+8. Mobiliems taršos šaltiniams įkainis už aplinkos teršimą, atsižvelgiant į taršos šaltinio technines savybes, yra koreguojamas (mažinamas ar didinamas) taikant Lietuvos Respublikos Vyriausybės arba jos įgaliotų institucijų nustatytus koeficientus. ^s-e0e4377870f225648fa4a4ae
 
 
-9. Mokesčiu už aplinkos teršimą neapmokestinamos transporto priemonės, kuriose įrengtos ir veikia išmetamųjų dujų neutralizavimo sistemos. ^bc2c2349ed3539ba6915eae4
+9. Mokesčiu už aplinkos teršimą neapmokestinamos transporto priemonės, kuriose įrengtos ir veikia išmetamųjų dujų neutralizavimo sistemos. ^s-de8344398299618beceb7817
 
 
-10. Apmokestinamų teršalų sąrašą ir jų grupes nustato ir tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos. ^7be53e5aa1bef4b30beefdc7
+10. Apmokestinamų teršalų sąrašą ir jų grupes nustato ir tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos. ^s-1066157e725bb8c3a7300a60
 
 
 
-### 6 straipsnis. Mokesčio už aplinkos teršimą skaičiavimo ir mokėjimo tvarka
+### 6 straipsnis. Mokesčio už aplinkos teršimą skaičiavimo ir mokėjimo tvarka ^s-ba9afe87db6886cfd084cb18
 
 
-1. Asmenys, kurie pagal šį įstatymą privalo mokėti mokestį už aplinkos teršimą, Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka tvarko teršalų išmetimo į aplinką apskaitą. ^1894640fef245cda58296431
+1. Asmenys, kurie pagal šį įstatymą privalo mokėti mokestį už aplinkos teršimą, Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka tvarko teršalų išmetimo į aplinką apskaitą. ^s-9e65f8801aac2bbeb0b23223
 
 
-2. Mokestį už aplinkos teršimą apskaičiuoja ir moka mokesčio mokėtojai Lietuvos Respublikos įstatymų nustatyta tvarka. ^1e17fe986d72eced594bfeb8
+2. Mokestį už aplinkos teršimą apskaičiuoja ir moka mokesčio mokėtojai Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-7ea4dd44795822ae8e4cb97c
 
 
-3. Mokestis už aplinkos teršimą  iš stacionarių taršos šaltinių mokamas pagal faktiškai per ataskaitinį laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių taršos šaltinių (išskyrus lėktuvus) – pagal sunaudotą per ataskaitinį laikotarpį kuro kiekį, už teršimą iš lėktuvų – pagal nusileidimo ir kilimo ciklų skaičių. ^aac70b03a4e022852d729c74
+3. Mokestis už aplinkos teršimą  iš stacionarių taršos šaltinių mokamas pagal faktiškai per ataskaitinį laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių taršos šaltinių (išskyrus lėktuvus) – pagal sunaudotą per ataskaitinį laikotarpį kuro kiekį, už teršimą iš lėktuvų – pagal nusileidimo ir kilimo ciklų skaičių. ^s-71810f7cbdc33287bece99e9
 
 
-4. Mokestis už aplinkos teršimą mokamas kas ketvirtį arba kas pusę metų, suderinus su Lietuvos Respublikos aplinkos ministerija. Mokestis sumokamas per 30 dienų nuo ataskaitinio laikotarpio pabaigos. ^77434906c143935b60534ddc
+4. Mokestis už aplinkos teršimą mokamas kas ketvirtį arba kas pusę metų, suderinus su Lietuvos Respublikos aplinkos ministerija. Mokestis sumokamas per 30 dienų nuo ataskaitinio laikotarpio pabaigos. ^s-9d2d5ad0bead46794766fde9
 
 
-5. Naujiems taršos šaltiniams mokestis už aplinkos teršimą skaičiuojamas nuo tos dienos, kurią pradėta aplinką teršianti ūkinė veikla. ^07352fcb383bd8068476377d
+5. Naujiems taršos šaltiniams mokestis už aplinkos teršimą skaičiuojamas nuo tos dienos, kurią pradėta aplinką teršianti ūkinė veikla. ^s-6a8d7422f9f6a838d94cf7a9
 
 
-6. Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už ataskaitoje pateiktus duomenis. ^1e11db01b12cccc26c0f1b67
+6. Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už ataskaitoje pateiktus duomenis. ^s-7b9dad22af650527a2bde5bf
 
 
-7. Lietuvos Respublikos aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką apskaitą, tikrina mokesčio už aplinkos teršimą apskaičiavimą, įstatymų nustatyta tvarka skiria šiame įstatyme numatytas baudas. ^092afa4f18cfa5fa05f88750
+7. Lietuvos Respublikos aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką apskaitą, tikrina mokesčio už aplinkos teršimą apskaičiavimą, įstatymų nustatyta tvarka skiria šiame įstatyme numatytas baudas. ^s-bf689a007a317ca28995fad7
 
 
-8. Už nuslėptą teršalų kiekį nustatyta tvarka mokamas mokestis už aplinkos teršimą ir bauda. Baudos dydis apskaičiuojamas nuslėptą teršalų kiekį dauginant iš mokesčio už aplinkos teršimą tarifo, nurodyto šio įstatymo 1 priedėlyje, ir iš šiam teršalui nustatyto koeficiento, nurodyto 2 priedėlyje. ^c83b7e1294383ec5a603efc3
+8. Už nuslėptą teršalų kiekį nustatyta tvarka mokamas mokestis už aplinkos teršimą ir bauda. Baudos dydis apskaičiuojamas nuslėptą teršalų kiekį dauginant iš mokesčio už aplinkos teršimą tarifo, nurodyto šio įstatymo 1 priedėlyje, ir iš šiam teršalui nustatyto koeficiento, nurodyto 2 priedėlyje. ^s-df16a95fbf3d6b1264418907
 
 
-9. Asmenims, kurie netvarko privalomos teršalų išmetimo į aplinką apskaitos, apmokestinamų teršalų kiekis nustatomas pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatytas metodikas. ^35007cbe7040e31904e0d3af
+9. Asmenims, kurie netvarko privalomos teršalų išmetimo į aplinką apskaitos, apmokestinamų teršalų kiekis nustatomas pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatytas metodikas. ^s-eebf68ceecbffd6a27498201
 
 
-10. Mokesčio už aplinkos teršimą 10 procentų mokama į valstybės biudžetą, 20 procentų – į Lietuvos aplinkos apsaugos investicijų fondą ir 70 procentų – į atitinkamos savivaldybės gamtos apsaugos fondą. ^9166917868d5e79f54bb116d
+10. Mokesčio už aplinkos teršimą 10 procentų mokama į valstybės biudžetą, 20 procentų – į Lietuvos aplinkos apsaugos investicijų fondą ir 70 procentų – į atitinkamos savivaldybės gamtos apsaugos fondą. ^s-0cfb187a0fa9b57821dc2170
 
 
-11. Baudos mokamos arba išieškomos iš pažeidėjo sąskaitos į Valstybinį gamtos apsaugos fondą. ^b1f03f3887dd836b2f603017
+11. Baudos mokamos arba išieškomos iš pažeidėjo sąskaitos į Valstybinį gamtos apsaugos fondą. ^s-80374cd33f0ebef25c463eb6
 
 
-12. Nesumokėtas mokestis už aplinkos teršimą ir baudos sumokami arba išieškomi, delspinigiai skaičiuojami, grąžinama permokėta mokesčio suma Mokesčių administravimo įstatymo nustatyta tvarka. ^8c4fdc699bc2c780871642ab
+12. Nesumokėtas mokestis už aplinkos teršimą ir baudos sumokami arba išieškomi, delspinigiai skaičiuojami, grąžinama permokėta mokesčio suma [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-dbaa0111c13b879836f958cf
 
 
-13. Mokesčio už aplinkos teršimą tarifai indeksuojami Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, taikant vartotojų kainų indeksą. ^3a6c53655aa98b1925ee251c
+13. Mokesčio už aplinkos teršimą tarifai indeksuojami Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, taikant vartotojų kainų indeksą. ^s-21ff48b71aaf8fb4dece0aa8
 
 
 
-### 7 straipsnis. Mokesčio tarifų galiojimo terminas
+### 7 straipsnis. Mokesčio tarifų galiojimo terminas ^s-e0ee69a6e595be98d4f10b7e
 
 
-1. Mokesčio už aplinkos teršimą tarifai nustatomi 5 metams. ^112b3f42a69fa2dffb40b6b1
+1. Mokesčio už aplinkos teršimą tarifai nustatomi 5 metams. ^s-ba0defd88830370a0e357570
 
 
-2. Kiekvienam kitam periodui mokesčio už aplinkos teršimą tarifai nustatomi prieš 2 metus iki jų įsigaliojimo. ^3c2dc45ebbfeedbeb560cc4a
+2. Kiekvienam kitam periodui mokesčio už aplinkos teršimą tarifai nustatomi prieš 2 metus iki jų įsigaliojimo. ^s-5e37819d20247de2246d55a1
 
 
 
-### 8 straipsnis. Įstatymų ir kitų teisės aktų pripažinimas netekusiais galios
+### 8 straipsnis. Įstatymų ir kitų teisės aktų pripažinimas netekusiais galios ^s-f3d753b772b9147276dff4d9
 
 
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymą (Žin., 1991, Nr.12-309); ^4e7d0b861f4949c6c4da95c2
+1) Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymą (Žin., 1991, Nr.12-309); ^s-b0bfc803a85df149090a41b0
 
 
-2) Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. balandžio 9 d. nutarimą Nr.I-1205 „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ (Žin., 1991, Nr.12-310); ^4b8c563509973fa77eab7297
+2) Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. balandžio 9 d. nutarimą Nr.I-1205 „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ (Žin., 1991, Nr.12-310); ^s-6299e1841daf345b505f013b
 
 
-3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo papildymo“ (Žin., 1994, Nr.30-528); ^03347fcd1a389e773edf1098
+3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo papildymo“ (Žin., 1994, Nr.30-528); ^s-ab2fe95c8a4ddd4f6299ce5f
 
 
-4) Lietuvos Respublikos Seimo 1994 m. balandžio 12 d. nutarimą Nr.I-428 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1994, Nr.30-529); ^ccf593f037cc607ff0f71cab
+4) Lietuvos Respublikos Seimo 1994 m. balandžio 12 d. nutarimą Nr.I-428 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1994, Nr.30-529); ^s-0abb88dc04ef06ee0bc82666
 
 
-5) Lietuvos Respublikos Seimo 1995 m. gruodžio 12 d. nutarimą Nr.I-1124 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr.102-2286; 1996, Nr.15); ^3894344bd36f663d667def49
+5) Lietuvos Respublikos Seimo 1995 m. gruodžio 12 d. nutarimą Nr.I-1124 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr.102-2286; 1996, Nr.15); ^s-eead5bd80440b83a49093b8f
 
 
-6) Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo 11, 12, 13 straipsnių pakeitimo įstatymą (Žin., 1996, Nr.46-1110). ^b470e039df7d6e552fff60c9
+6) Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo 11, 12, 13 straipsnių pakeitimo įstatymą (Žin., 1996, Nr.46-1110). ^s-122e6da0798f9ee4cb12f17a
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas
+### 9 straipsnis. Įstatymo įsigaliojimas ^s-91a5c90a178feee66ab05f2d
 
 
 Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.

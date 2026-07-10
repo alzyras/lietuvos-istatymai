@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8B9588B7415"
 pavadinimas: "Dėl Lietuvos Respublikos Valstybinio televizijos ir radijo komiteto reorganizavimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Valstybinio televizijos ir radijo komiteto reorganizavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-04-11"
 latest_path: "latest/TAR.A8B9588B7415.md"
 latest_sha256: "58b5672125e965a0addec308875ac1ca58d5ce8d61ede36b7c438fc58531c62f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8B9588B7415]]"
 ---
 # Dėl Lietuvos Respublikos Valstybinio televizijos ir radijo komiteto reorganizavimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8B9588B7415.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8B9588B7415
+- Ryšiai: [[Ryšiai/TAR.A8B9588B7415|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

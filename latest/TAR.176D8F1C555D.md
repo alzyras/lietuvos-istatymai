@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.176D8F1C555D"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-06-18"
 latest_path: "latest/TAR.176D8F1C555D.md"
 latest_sha256: "89b23aea7062f6341d62c780673087272f87074d0a0d6a7e9faf9f36285eeb6e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.176D8F1C555D]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.176D8F1C555D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.176D8F1C555D
+- Ryšiai: [[Ryšiai/TAR.176D8F1C555D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies 31 punkto papildymas
+### 1 straipsnis. 17 straipsnio 1 dalies 31 punkto papildymas ^s-9b8107345de18cd8937fe088
 
 
 17 straipsnio 1 dalies 31 punkte po žodžių „organizacijų lėšų“ įrašyti žodžius „taip pat Lietuvos Respublikos Vyriausybės nustatyto dydžio premijos sportininkams ir jų treneriams, gydytojams, masažuotojams ir mokslininkams, išmokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui prie Lietuvos Respublikos Vyriausybės“ ir šį punktą išdėstyti taip:

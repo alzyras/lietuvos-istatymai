@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F0DA1F4A47C5"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" 8 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-12"
 latest_path: "latest/TAR.F0DA1F4A47C5.md"
 latest_sha256: "60991f3a082b1d92b45c1b593a7feef56c09ad565b82818c3096c86b0b6e2d5b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F0DA1F4A47C5]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F0DA1F4A47C5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F0DA1F4A47C5
+- Ryšiai: [[Ryšiai/TAR.F0DA1F4A47C5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-86a5ae645adedad108395c8d
 
 
 8 straipsnio antrąją dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1D67B7E48715"
 pavadinimas: "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 17, 18, 19, 20, 22, 24, 25, 26, 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 17, 18, 19, 20, 22, 24, 25, 26, 27 straipsnių pakeitimo įstatymas"
+  - "cheminių medžiagų ir preparatų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 17, 18, 19, 20, 22, 24, 25, 26, 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-01"
 latest_path: "latest/TAR.1D67B7E48715.md"
 latest_sha256: "5679794ef33a1ee998c30fa04f25080cb7d9c3165b4bebbc922df156a7fedf16"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1D67B7E48715]]"
 ---
 # Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 17, 18, 19, 20, 22, 24, 25, 26, 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1D67B7E48715.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1D67B7E48715
+- Ryšiai: [[Ryšiai/TAR.1D67B7E48715|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-f039a45988225eb91bc877fb
 
 
 1 straipsnio 1 dalyje vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-14dd2ab45cbb55caeb743f26
 
 
 2 straipsnio 1 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams“, vietoj žodžio „tiekiant“ įrašyti žodį „tiekiantiems“, vietoj žodžio „tvarkant“ įrašyti žodį „tvarkantiems“ ir šią dalį išdėstyti taip:
@@ -51,88 +56,88 @@ Vilnius
 
 
 
-### 3 straipsnis. 3 straipsnio 9, 10, 11, 19, 20, 22 dalių pakeitimas
+### 3 straipsnis. 3 straipsnio 9, 10, 11, 19, 20, 22 dalių pakeitimas ^s-e3579d5ba1c905ebe754728e
 
 
-1. Pakeisti 3 straipsnio 9 dalį ir ją išdėstyti taip: ^c33e7112652ce207d2c0d4f5
+1. Pakeisti 3 straipsnio 9 dalį ir ją išdėstyti taip: ^s-d217e0ae3d2cd8562c92633a
 
 
 „9. Tiekimas į rinką – bet koks cheminių medžiagų ir preparatų tiekimas bet kuriam fiziniam ar juridiniam asmeniui bei užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams. Cheminių medžiagų ir preparatų įvežimas į Europos Bendrijos muitų teritoriją taip pat laikomas tiekimu į rinką.“
 
 
-2. 3 straipsnio 10 dalyje vietoj žodžių „teisės aktų“ įrašyti žodį „įstatymų“, vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^899f294c155d6140caaa789c
+2. 3 straipsnio 10 dalyje vietoj žodžių „teisės aktų“ įrašyti žodį „įstatymų“, vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-2af47ffb8a61f0b5ffeea52c
 
 
 „10. Gamintojas – Lietuvos Respublikoje įstatymų nustatyta tvarka įregistravęs savo veiklą juridinis ar fizinis asmuo bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, kurie pagamino cheminę medžiagą ar preparatą ir apie tai viešai pareiškė, pažymėdami juos savo pavadinimu, prekės ženklu ar kitu skiriamuoju ženklu.“
 
 
-3. 3 straipsnio 11 dalyje vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „įvežę į Lietuvos Respubliką iš užsienio juridinio ar fizinio asmens nupirktas ar kitaip įgytas chemines medžiagas ir preparatus“ įrašyti žodžius „kurie yra cheminės medžiagos gavėjai jos įvežimo į Europos Bendrijos muitų teritoriją metu“ ir šią dalį išdėstyti taip: ^7b96777106b54bb13ecccef2
+3. 3 straipsnio 11 dalyje vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „įvežę į Lietuvos Respubliką iš užsienio juridinio ar fizinio asmens nupirktas ar kitaip įgytas chemines medžiagas ir preparatus“ įrašyti žodžius „kurie yra cheminės medžiagos gavėjai jos įvežimo į Europos Bendrijos muitų teritoriją metu“ ir šią dalį išdėstyti taip: ^s-972c65d9d899b2b7cd1dcaf7
 
 
 „11. Importuotojas – Lietuvos Respublikos juridinis ar fizinis asmuo bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, kurie yra cheminės medžiagos gavėjai jos įvežimo į Europos Bendrijos muitų teritoriją metu.“
 
 
-4. 3 straipsnio 19 dalyje išbraukti žodžius „bet kuris“, vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^fe809d2fc1e3aab56fc3e69a
+4. 3 straipsnio 19 dalyje išbraukti žodžius „bet kuris“, vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-3759a8c695785798754f5111
 
 
 „19. Naudotojas – juridinis ar fizinis asmuo arba Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, kurie naudoja chemines medžiagas ir preparatus komercinėje-ūkinėje veikloje arba vartotojų asmeniniams ir namų ūkio poreikiams tenkinti.“
 
 
-5. 3 straipsnio 20 dalyje vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^befd5a9ac5f3f4ac5f9ba07b
+5. 3 straipsnio 20 dalyje vietoj žodžių „įmonė, neturinti juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-c491e42ede98eaf921c8d215
 
 
 „20. Profesionalus naudotojas – juridinis ar fizinis asmuo arba Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, kurie naudoja chemines medžiagas ir preparatus komercinėje-ūkinėje veikloje.“
 
 
-6. 3 straipsnio 22 dalyje vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^8e862fd3a53d92b09ec90e1b
+6. 3 straipsnio 22 dalyje vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^s-fe74041ace1f82b2fcc3cd94
 
 
 „22. Pranešimas apie naujas chemines medžiagas – dokumentų su būtina informacija, nustatyta pagal šio įstatymo 7 straipsnio 2 dalį, pateikimas Aplinkos ministerijos įgaliotai institucijai.“
 
 
 
-### 4 straipsnis. 4 straipsnio pakeitimas
+### 4 straipsnis. 4 straipsnio pakeitimas ^s-cb8edc8dda0276f78fc18150
 
 
-[[#^e00749010f58e3a3be0946f8|4 straipsnio 1 dalyje]] žodžius „ne maisto produktų saugos kontrolės institucija“ išbraukti, po žodžių „Žemės ūkio ministerija“ įrašyti žodžius „Ūkio ministerija ar jų įgaliotos institucijos“, vietoj žodžių „vietos savivaldos institucijos“ įrašyti žodžius „savivaldybių institucijos ir įstaigos“, [[#^1c19b1c7d132c1b1dfcb690d|2 dalyje]] vietoj žodžių „vietos savivaldos institucijos“ įrašyti žodžius „savivaldybių institucijos ir įstaigos“ ir visą straipsnį išdėstyti taip:
+[[#^s-4ec4c0b621ba6c99a9a20975|4 straipsnio 1 dalyje]] žodžius „ne maisto produktų saugos kontrolės institucija“ išbraukti, po žodžių „Žemės ūkio ministerija“ įrašyti žodžius „Ūkio ministerija ar jų įgaliotos institucijos“, vietoj žodžių „vietos savivaldos institucijos“ įrašyti žodžius „savivaldybių institucijos ir įstaigos“, [[#^s-0c65fb75ab2d87f92564eae9|2 dalyje]] vietoj žodžių „vietos savivaldos institucijos“ įrašyti žodžius „savivaldybių institucijos ir įstaigos“ ir visą straipsnį išdėstyti taip:
 
 
 „4 straipsnis. Cheminių medžiagų ir preparatų valdymą vykdančios institucijos
 
 
-1. Cheminių medžiagų ir preparatų valdymą įstatymų nustatyta tvarka vykdo Aplinkos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, Žemės ūkio ministerija, Ūkio ministerija ar jų įgaliotos institucijos, kitos valstybės ir savivaldybių institucijos ir įstaigos. ^e00749010f58e3a3be0946f8
+1. Cheminių medžiagų ir preparatų valdymą įstatymų nustatyta tvarka vykdo Aplinkos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, Žemės ūkio ministerija, Ūkio ministerija ar jų įgaliotos institucijos, kitos valstybės ir savivaldybių institucijos ir įstaigos. ^s-4ec4c0b621ba6c99a9a20975
 
 
-2. Savivaldybių institucijos ir įstaigos pagal savo kompetenciją organizuoja šio įstatymo ir jo pagrindu priimtų kitų norminių teisės aktų įgyvendinimo kontrolę savo teritorijose.“ ^1c19b1c7d132c1b1dfcb690d
+2. Savivaldybių institucijos ir įstaigos pagal savo kompetenciją organizuoja šio įstatymo ir jo pagrindu priimtų kitų norminių teisės aktų įgyvendinimo kontrolę savo teritorijose.“ ^s-0c65fb75ab2d87f92564eae9
 
 
 
-### 5 straipsnis. 5 straipsnio 1 ir 2 dalių pakeitimas
+### 5 straipsnis. 5 straipsnio 1 ir 2 dalių pakeitimas ^s-5e906d217efef9f77b9289b3
 
 
-1. [[#^244d503ebd25f72a8ba1b575|5 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, po žodžių „į rinką“ įrašyti žodžius „taip pat“ ir šią dalį išdėstyti taip: ^244d503ebd25f72a8ba1b575
+1. [[#^s-c4fbb21d6af34b1fd3067da3|5 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, po žodžių „į rinką“ įrašyti žodžius „taip pat“ ir šią dalį išdėstyti taip: ^s-c4fbb21d6af34b1fd3067da3
 
 
 „1. Už šiame įstatyme numatytų cheminių medžiagų ir preparatų tvarkymo reikalavimų įgyvendinimą yra atsakingi cheminių medžiagų ir preparatų gamintojai, importuotojai, kiti juridiniai ar fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys chemines medžiagas ir preparatus į rinką, taip pat profesionalūs naudotojai.“
 
 
-2. [[#^072c34846fd7b3990327e6ba|5 straipsnio 2 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^072c34846fd7b3990327e6ba
+2. [[#^s-b24357eb75b8020abec5e4bb|5 straipsnio 2 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-b24357eb75b8020abec5e4bb
 
 
 „2. Gamintojai, importuotojai, kiti juridiniai ar fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys chemines medžiagas ir preparatus į rinką, privalo užtikrinti šiuos cheminių medžiagų ir preparatų tvarkymo reikalavimus:
 
 
-1) numatyti ir taikyti priemones, šalinančias arba iki minimumo mažinančias kenksmingą cheminių medžiagų ir preparatų poveikį žmogaus sveikatai ir aplinkai; ^36693805c416d421aaa15346
+1) numatyti ir taikyti priemones, šalinančias arba iki minimumo mažinančias kenksmingą cheminių medžiagų ir preparatų poveikį žmogaus sveikatai ir aplinkai; ^s-229f8a594c8ee1088d0f72ce
 
 
-2) turėti duomenis apie tiekiamų į rinką cheminių medžiagų ir preparatų savybes ir saugos priemones bei taikyti šias priemones savo veikloje; ^e4eef2a61d2d6ecdaa9d1703
+2) turėti duomenis apie tiekiamų į rinką cheminių medžiagų ir preparatų savybes ir saugos priemones bei taikyti šias priemones savo veikloje; ^s-fbea54f38dad17454e73c6c6
 
 
-3) teikti naudotojams informaciją apie cheminių medžiagų ir preparatų pavojingas savybes, galinčias pakenkti žmonių sveikatai ar aplinkai, taip pat taikytinas saugos priemones, ženklinti tiekiamas į rinką chemines medžiagas ir preparatus.“ ^1a6040c868c3293dd2579431
+3) teikti naudotojams informaciją apie cheminių medžiagų ir preparatų pavojingas savybes, galinčias pakenkti žmonių sveikatai ar aplinkai, taip pat taikytinas saugos priemones, ženklinti tiekiamas į rinką chemines medžiagas ir preparatus.“ ^s-73774ddba70828d3ad73347a
 
 
 
-### 6 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-dabad54ddf3c0fa9deec9d5c
 
 
 6 straipsnio 3 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip:
@@ -142,39 +147,39 @@ Vilnius
 
 
 
-### 7 straipsnis. 7 straipsnio 1, 3 ir 4 dalių pakeitimas
+### 7 straipsnis. 7 straipsnio 1, 3 ir 4 dalių pakeitimas ^s-8e55a12a91b144dccebd62c0
 
 
-1. [[#^ac46977a4a77404a640cf762|7 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^ac46977a4a77404a640cf762
+1. [[#^s-cd86a5147486bc0019f3500b|7 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^s-cd86a5147486bc0019f3500b
 
 
 „1. Cheminių medžiagų ir preparatų gamintojai, importuotojai ir kiti juridiniai ir fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, prieš pirmą kartą tiekdami į rinką naują cheminę medžiagą (taip pat įeinančią į preparatus), privalo apie ją pranešti Aplinkos ministerijos įgaliotai institucijai.“
 
 
-2. [[#^0b9b349462334d7dd1f480f2|7 straipsnio 3 dalyje]] vietoj žodžių „Ne maisto produktų saugos kontrolės institucija“ įrašyti žodžius „Aplinkos ministerijos įgaliota institucija“, po žodžio „naują“ įrašyti žodį „cheminę“, po žodžio „tvarką“ įrašyti žodį „ir“, žodžius „Lietuvai įstojus į Europos Sąjungą, ne maisto produktų saugos kontrolės institucija“ išbraukti ir šią dalį išdėstyti taip: ^c3ac7bc8e8004a1a2eb47b0d
+2. [[#^s-4dcfb16c01928265e8742516|7 straipsnio 3 dalyje]] vietoj žodžių „Ne maisto produktų saugos kontrolės institucija“ įrašyti žodžius „Aplinkos ministerijos įgaliota institucija“, po žodžio „naują“ įrašyti žodį „cheminę“, po žodžio „tvarką“ įrašyti žodį „ir“, žodžius „Lietuvai įstojus į Europos Sąjungą, ne maisto produktų saugos kontrolės institucija“ išbraukti ir šią dalį išdėstyti taip: ^s-4a9da6d2a38656cb1cead704
 
 
 „3. Aplinkos ministerijos įgaliota institucija, gavusi pranešimą apie naują cheminę medžiagą, pateiktą informaciją ir duomenis įvertina pagal Pranešimų apie tiekiamas į rinką naujas chemines medžiagas tvarką ir nustatyta tvarka teikia pranešimus apie naujas chemines medžiagas Europos Sąjungos Komisijai.“
 
 
-3. 7 straipsnio 4 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^0b9b349462334d7dd1f480f2
+3. 7 straipsnio 4 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-4dcfb16c01928265e8742516
 
 
 „4. Išlaidas už paslaugas, įvertinus pateiktus duomenis apie naujas chemines medžiagas, apmoka šiuos duomenis teikiantys gamintojai, importuotojai, kiti juridiniai ir fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai.“
 
 
 
-### 8 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 8 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-d5eb1cf5afce755593def922
 
 
 8 straipsnio 1 dalyje vietoj žodžių „Ne maisto produktų saugos kontrolės institucija“ įrašyti žodžius „Aplinkos ministerijos įgaliota institucija“ ir šią dalį išdėstyti taip:
 
 
-„1. Aplinkos ministerijos įgaliota institucija, gavusi šio įstatymo [[#7 straipsnis. 7 straipsnio 1, 3 ir 4 dalių pakeitimas|7 straipsnyje]] nurodytą pranešimą, įvertina jame pateiktus duomenis dėl naujos cheminės medžiagos (taip pat įeinančios į preparatus) rizikos aplinkai bei žmonių sveikatai ir pateikia atitinkamas išvadas.“
+„1. Aplinkos ministerijos įgaliota institucija, gavusi šio įstatymo [[#^s-8e55a12a91b144dccebd62c0|7 straipsnyje]] nurodytą pranešimą, įvertina jame pateiktus duomenis dėl naujos cheminės medžiagos (taip pat įeinančios į preparatus) rizikos aplinkai bei žmonių sveikatai ir pateikia atitinkamas išvadas.“
 
 
 
-### 9 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-013a1317de28a9f170e8a105
 
 
 9 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip:
@@ -184,7 +189,7 @@ Vilnius
 
 
 
-### 10 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 10 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-fc38b9a67ac2549c9ea75a26
 
 
 10 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžio „naudodamos“ įrašyti žodį „naudodami“ ir šią dalį išdėstyti taip:
@@ -194,35 +199,35 @@ Vilnius
 
 
 
-### 11 straipsnis. 11 straipsnio 1, 3, 4 ir 5 dalių pakeitimas
+### 11 straipsnis. 11 straipsnio 1, 3, 4 ir 5 dalių pakeitimas ^s-d809d776a90df57c04cc85f7
 
 
-1. [[#^8eb039b19821a67dd52e00e0|11 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^8eb039b19821a67dd52e00e0
+1. [[#^s-f18741879a937405572efa49|11 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-f18741879a937405572efa49
 
 
 „1. Gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką pavojingas chemines medžiagas ar preparatus, privalo jų pakuotes ženklinti pagal cheminių medžiagų ir preparatų pavojingumo kategorijas, nurodytas šio įstatymo 3 straipsnio 23 dalyje, ir pagal nustatytą ženklinimo tvarką.“
 
 
-2. [[#^54d5ad427734ec0feb42ea7c|11 straipsnio 3 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^30bb59768ceadd3a5cb6ec4c
+2. [[#^s-d58e83ecb24f1fac37b49b69|11 straipsnio 3 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-d26029062b0d0932cd96be3d
 
 
 „3. Gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, prieš tiekdami į rinką pavojingas chemines medžiagas (taip pat įeinančias į preparatus), kurios yra įrašytos į suklasifikuotų cheminių medžiagų sąrašą, privalo jų pakuotes ženklinti pagal šiame sąraše nurodytą cheminių medžiagų klasifikaciją.“
 
 
-3. [[#^864061a62690cc962a512610|11 straipsnio 4 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^54d5ad427734ec0feb42ea7c
+3. [[#^s-3f2faaaa8a1c7c002e1bedcb|11 straipsnio 4 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-d58e83ecb24f1fac37b49b69
 
 
 „4. Gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, prieš tiekdami į rinką pavojingas chemines medžiagas (taip pat įeinančias į preparatus), kurios yra įrašytos į Europos esamų komercinių cheminių medžiagų sąrašą, tačiau dar nėra įrašytos į suklasifikuotų cheminių medžiagų sąrašą, taip pat naujas chemines medžiagas, privalo surinkti duomenis apie tų medžiagų savybes ar jas ištirti, kad tas chemines medžiagas, iki jos nustatyta tvarka bus ištirtos ir įrašytos į suklasifikuotų cheminių medžiagų sąrašą, būtų galima pakuoti ir laikinai ženklinti pagal nustatytą ženklinimo tvarką.“
 
 
-4. 11 straipsnio 5 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^864061a62690cc962a512610
+4. 11 straipsnio 5 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip: ^s-3f2faaaa8a1c7c002e1bedcb
 
 
 „5. Ženklinimo užrašai turi būti lietuvių kalba. Gamintojai, importuotojai, kiti juridiniai ir fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką pavojingas chemines medžiagas, šalia užrašo lietuvių kalba gali papildomai pateikti užrašus kitomis kalbomis. Papildomo užrašo tekstas turi būti tapatus užrašui lietuvių kalba.“
 
 
 
-### 12 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 12 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-4f0b1e3e589a3c1b6edfd018
 
 
 12 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip:
@@ -232,17 +237,17 @@ Vilnius
 
 
 
-### 13 straipsnis. 15 straipsnio 1 dalies pakeitimas
+### 13 straipsnis. 15 straipsnio 1 dalies pakeitimas ^s-b886800e37cb964755973970
 
 
-[[#^e56aa9e1db3a6f43fbedb188|15 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžio „kiekius“ įrašyti žodį „kiekį“ ir šią dalį išdėstyti taip:
+[[#^s-4e49b6830c94889bc5118a83|15 straipsnio 1 dalyje]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžio „kiekius“ įrašyti žodį „kiekį“ ir šią dalį išdėstyti taip:
 
 
 „1. Gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką ir eksportuojantys pavojingas chemines medžiagas bei preparatus, taip pat profesionalūs naudotojai privalo chemines medžiagas ir preparatus įrašyti į apskaitą, joje nurodyti naudojamų cheminių medžiagų ir preparatų pavadinimus, savybes, kiekį, juos gaminant, sandėliuojant, eksportuojant, tiekiant į rinką. Apskaitos duomenys turi būti prieinami valstybinę cheminių medžiagų ir preparatų tvarkymo kontrolę atliekantiems valstybės tarnautojams.“
 
 
 
-### 14 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 14 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-ca17e6e3053e143480df3efc
 
 
 17 straipsnio 1 dalyje vietoj žodžių „Ne maisto produktų saugos kontrolės institucija“ įrašyti žodžius „Aplinkos ministerijos įgaliota institucija“ ir šią dalį išdėstyti taip:
@@ -252,39 +257,39 @@ Vilnius
 
 
 
-### 15 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+### 15 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas ^s-93870cb9ce940fae9bd0b6e1
 
 
-1. 18 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^e56aa9e1db3a6f43fbedb188
+1. 18 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^s-4e49b6830c94889bc5118a83
 
 
 „1. Cheminių medžiagų ir preparatų gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką ir eksportuojantys pavojingas chemines medžiagas ir preparatus, bei profesionalūs naudotojai šio straipsnio 3 dalyje nurodyta tvarka privalo teikti Aplinkos ministerijai ir Aplinkos ministerijos įgaliotai institucijai duomenis apie gaminamas, importuojamas, eksportuojamas ir gamyboje naudojamas pavojingas chemines medžiagas ir preparatus, o apie cheminius augalų apsaugos preparatus – ir Žemės ūkio ministerijai.“
 
 
-2. 18 straipsnio 2 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^371f26825ecb03ebf760d04c
+2. 18 straipsnio 2 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „ne maisto produktų saugos kontrolės institucijai“ įrašyti žodžius „Aplinkos ministerijos įgaliotai institucijai“ ir šią dalį išdėstyti taip: ^s-bf51da4a25024caa713fa7d2
 
 
 „2. Cheminių medžiagų ir preparatų gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką ir eksportuojantys pavojingas chemines medžiagas ir preparatus, bei profesionalūs naudotojai, gavę naujos papildomos informacijos apie cheminių medžiagų ar preparatų pavojingumą aplinkai ar žmogaus sveikatai, privalo apie tai nedelsdami pranešti Aplinkos ministerijai ir Aplinkos ministerijos įgaliotai institucijai.“
 
 
 
-### 16 straipsnis. 19 straipsnio 1 ir 3 dalių pakeitimas
+### 16 straipsnis. 19 straipsnio 1 ir 3 dalių pakeitimas ^s-9066f589121809548ec7921a
 
 
-1. 19 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „taip pat įmonei, neturinčiai juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams“, vietoj žodžių „gamintojo, importuotojo ar profesionalaus naudotojo“ įrašyti žodžius „šiuos duomenis pateikusio asmens“ ir šią dalį išdėstyti taip: ^38b38cd64254ddc202bac420
+1. 19 straipsnio 1 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžių „taip pat įmonei, neturinčiai juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams“, vietoj žodžių „gamintojo, importuotojo ar profesionalaus naudotojo“ įrašyti žodžius „šiuos duomenis pateikusio asmens“ ir šią dalį išdėstyti taip: ^s-54fe1781427bc182fe0b621b
 
 
-„1. Gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką ir eksportuojantys pavojingas chemines medžiagas ir preparatus, bei profesionalūs naudotojai, teikdami duomenis šio įstatymo [[#18 straipsnis. 22 straipsnio 3 dalies pakeitimas|18 straipsnyje]] išvardytoms cheminių medžiagų ir preparatų valdymą vykdančioms institucijoms, nurodo, kokius duomenis jie laiko komercine ir pramonine paslaptimi. Tokie duomenys gali būti teikiami kitam juridiniam ar fiziniam asmeniui, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams tik pagal šiuos duomenis pateikusio asmens raštišką sutikimą.“
+„1. Gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys į rinką ir eksportuojantys pavojingas chemines medžiagas ir preparatus, bei profesionalūs naudotojai, teikdami duomenis šio įstatymo [[#^s-929a227ba9369ec52a9f6279|18 straipsnyje]] išvardytoms cheminių medžiagų ir preparatų valdymą vykdančioms institucijoms, nurodo, kokius duomenis jie laiko komercine ir pramonine paslaptimi. Tokie duomenys gali būti teikiami kitam juridiniam ar fiziniam asmeniui, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams tik pagal šiuos duomenis pateikusio asmens raštišką sutikimą.“
 
 
-2. 19 straipsnio 3 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams“, žodžius „bei ne maisto produktų saugos kontrolės institucija“ išbraukti, vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių“, žodžius „ir kontrolei“ išbraukti ir šią dalį išdėstyti taip: ^610173d3078b085297e5a15b
+2. 19 straipsnio 3 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams“, žodžius „bei ne maisto produktų saugos kontrolės institucija“ išbraukti, vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių“, žodžius „ir kontrolei“ išbraukti ir šią dalį išdėstyti taip: ^s-b5e36780eddaf439edf0a086
 
 
 „3. Duomenys apie Lietuvos Respublikoje gaminamas, importuojamas, eksportuojamas ir gamyboje naudojamas pavojingas chemines medžiagas ir preparatus, kurie pagal Lietuvos Respublikos įstatymus nėra priskirti valstybės ar tarnybos paslaptims, ir duomenys, kurie nėra komercinė ir pramoninė paslaptis, turi būti prieinami visiems juridiniams ir fiziniams asmenims bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotiems užsienio valstybių juridinių asmenų filialams ir kitiems padaliniams. Cheminių medžiagų ir preparatų valdymą vykdančios valstybės institucijos nustatyta tvarka turi teisę gauti iš bet kurio juridinio ar fizinio asmens bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių visus veiklos priežiūrai reikalingus duomenis, tarp jų ir duomenis, kurie laikomi valstybės ar tarnybos ir komercine bei pramonine paslaptimi. Šios valstybės institucijos atsako už duomenų, kurie yra valstybės ar tarnybos ir komercinė bei pramoninė paslaptis, apsaugą.“
 
 
 
-### 17 straipsnis. 20 straipsnio 2 dalies pakeitimas
+### 17 straipsnis. 20 straipsnio 2 dalies pakeitimas ^s-eb4dffc314fa3358fd22659b
 
 
 20 straipsnio 2 dalyje vietoj žodžių „Ne maisto produktų saugos kontrolės institucija“ įrašyti žodžius „Aplinkos ministerijos įgaliota institucija“ ir šią dalį išdėstyti taip:
@@ -294,7 +299,7 @@ Vilnius
 
 
 
-### 18 straipsnis. 22 straipsnio 3 dalies pakeitimas
+### 18 straipsnis. 22 straipsnio 3 dalies pakeitimas ^s-929a227ba9369ec52a9f6279
 
 
 22 straipsnio 3 dalyje vietoj žodžių „ne maisto produktų saugos kontrolės institucija“ įrašyti žodžius „Aplinkos ministerijos įgaliota institucija“ ir šią dalį išdėstyti taip:
@@ -304,7 +309,7 @@ Vilnius
 
 
 
-### 19 straipsnis. 24 straipsnio 4 dalies pakeitimas
+### 19 straipsnis. 24 straipsnio 4 dalies pakeitimas ^s-89c7b98e1846905e33e3be47
 
 
 24 straipsnio 4 dalyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šią dalį išdėstyti taip:
@@ -314,7 +319,7 @@ Vilnius
 
 
 
-### 20 straipsnis. 25 straipsnio pakeitimas
+### 20 straipsnis. 25 straipsnio pakeitimas ^s-ba9b43784f20188261eb3e91
 
 
 25 straipsnyje po žodžių „Žemės ūkio ministerijos“ įrašyti žodžius „Ūkio ministerijos“ ir visą straipsnį išdėstyti taip:
@@ -327,23 +332,23 @@ Lietuvos Respublikoje cheminių medžiagų ir preparatų tvarkymo valstybinę ko
 
 
 
-### 21 straipsnis. 26 straipsnio 3 dalies 1 ir 3 punktų pakeitimas
+### 21 straipsnis. 26 straipsnio 3 dalies 1 ir 3 punktų pakeitimas ^s-528b449ada41335f73c35063
 
 
-1. 26 straipsnio 3 dalies 1 punkte vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šį punktą išdėstyti taip: ^e86d43fbdfa7ab74981d4e48
+1. 26 straipsnio 3 dalies 1 punkte vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“ ir šį punktą išdėstyti taip: ^s-7a9c788c11d7225c8a436f23
 
 
 „1) tikrinti, kaip cheminių medžiagų ir preparatų gamintojai, importuotojai ir kiti juridiniai bei fiziniai asmenys, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, tiekiantys pavojingas chemines medžiagas į rinką, naudotojai ir kiti asmenys, tvarkantys chemines medžiagas ir preparatus, laikosi teisės normų, reglamentuojančių cheminių medžiagų ir preparatų tvarkymą;“.
 
 
-2. 26 straipsnio 3 dalies 3 punkte vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių“, po žodžio „pavyzdžius“ įrašyti žodį „cheminių“ ir šį punktą išdėstyti taip: ^b37694abcaf13464c8595dde
+2. 26 straipsnio 3 dalies 3 punkte vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių“, po žodžio „pavyzdžius“ įrašyti žodį „cheminių“ ir šį punktą išdėstyti taip: ^s-cafc6a39549cd6c25348bc28
 
 
 „3) gauti iš gamintojų, importuotojų ir kitų juridinių ar fizinių asmenų bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių, tiekiančių į rinką pavojingas chemines medžiagas, profesionalių naudotojų ir kitų asmenų, tvarkančių chemines medžiagas ir preparatus, ar iš kitos kontroliuojančios institucijos visą turimą informaciją, taip pat ir duomenis, kurie laikomi valstybės ar tarnybos ir komercine bei pramonine paslaptimi, ir dokumentus kontrolei atlikti, imti cheminių medžiagų ir preparatų pavyzdžius cheminių medžiagų sudėčiai bei savybėms ištirti ar bandymams atlikti. Cheminių medžiagų ir preparatų pavyzdžių paėmimas nekompensuojamas;“.
 
 
 
-### 22 straipsnis. 27 straipsnio pakeitimas
+### 22 straipsnis. 27 straipsnio pakeitimas ^s-1f8562ff2abbad173864699e
 
 
 27 straipsnyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai“, vietoj žodžio „pažeidusios“ įrašyti žodį „pažeidę“, vietoj žodžių „ir materialinėn“ įrašyti žodžius „ar civilinėn“ ir visą straipsnį išdėstyti taip
@@ -352,11 +357,11 @@ Lietuvos Respublikoje cheminių medžiagų ir preparatų tvarkymo valstybinę ko
 „27 straipsnis. Atsakomybė pažeidus cheminių medžiagų ir preparatų tvarkymo reikalavimus
 
 
-Juridiniai ir fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, pažeidę Cheminių medžiagų ir preparatų įstatymo reikalavimus bei kitus teisės aktus, kurie reglamentuoja iš šio įstatymo atsirandančius santykius, traukiami baudžiamojon, administracinėn ar civilinėn atsakomybėn įstatymų nustatyta tvarka.“
+Juridiniai ir fiziniai asmenys bei Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruoti užsienio valstybių juridinių asmenų filialai ir kiti padaliniai, pažeidę [[latest/TAR.2A629A227788|Cheminių medžiagų ir preparatų įstatymo]] reikalavimus bei kitus teisės aktus, kurie reglamentuoja iš šio įstatymo atsirandančius santykius, traukiami baudžiamojon, administracinėn ar civilinėn atsakomybėn įstatymų nustatyta tvarka.“
 
 
 
-### 23 straipsnis. Įstatymo įsigaliojimas
+### 23 straipsnis. Įstatymo įsigaliojimas ^s-fadeddc4afee815c3d39f306
 
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.

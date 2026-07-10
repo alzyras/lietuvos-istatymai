@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF31D7BB828A"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 91, 94, 151, 198, 199, 212, 216, 238, 254, 279, 283, 303, 327, 342, 357, 361, 421 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 170-1, 199-1 straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 91, 94, 151, 198, 199, 212, 216, 238, 254, 279, 283, 303, 327, 342, 357, 361, 421 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 170-1, 199-1 straipsniais įstatymas"
+  - "baudžiamojo proceso kodekso 91, 94, 151, 198, 199, 212, 216, 238, 254, 279, 283, 303, 327, 342, 357, 361, 421 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 170-1, 199-1 straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-11"
 latest_path: "latest/TAR.CF31D7BB828A.md"
 latest_sha256: "263d056e7959e4d569b177b77971ed88d2c6550f61c86551f2254f485cd79ffc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF31D7BB828A]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 91, 94, 151, 198, 199, 212, 216, 238, 254, 279, 283, 303, 327, 342, 357, 361, 421 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 170-1, 199-1 straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF31D7BB828A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF31D7BB828A
+- Ryšiai: [[Ryšiai/TAR.CF31D7BB828A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 91 straipsnio pakeitimas
+### 1 straipsnis. 91 straipsnio pakeitimas ^s-afbdf4e9a5fb1dd5ceea58f6
 
 
 91 straipsnyje po žodžių „ar priemonėmis“ įrašyti žodžius „nusikalstamos veikos rezultatais“ ir šį straipsnį išdėstyti taip:
@@ -49,42 +54,42 @@ Daiktais, turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, laiko
 
 
 
-### 2 straipsnis. 94 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 94 straipsnio pakeitimas ir papildymas ^s-8bb7d057e6c77a7ea92e922f
 
 
-1. Pakeisti 94 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^8b5e1d34f21c34c5d1b749b5
+1. Pakeisti 94 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-1b656ebe50f786db0a775566
 
 
 „1) Lietuvos Respublikos baudžiamojo kodekso 72 ir 723 straipsniuose nurodytas turtas konfiskuojamas;“.
 
 
-2. Papildyti 94 straipsnį nauja [[#^79b99ca007b10cca7b48b9d1|3 dalimi]]: ^ae505151bc0dca4055be14dd
+2. Papildyti 94 straipsnį nauja [[#^s-d80c3d34b800202b1bffa7da|3 dalimi]]: ^s-3de2441278cba512a4c26598
 
 
 „3. Jeigu nutraukiant ikiteisminį tyrimą turi būti išspręstas Lietuvos Respublikos baudžiamojo kodekso 72 ar 723 straipsnyje nurodyto turto konfiskavimo klausimas, ikiteisminis tyrimas nutraukiamas ikiteisminio tyrimo teisėjo sprendimu, kuriuo patvirtinamas prokuroro nutarimas nutraukti ikiteisminį tyrimą. Sprendžiant turto konfiskavimo arba išplėstinio turto konfiskavimo klausimą, rengiamas posėdis, į kurį turi būti kviečiamas prokuroras, asmuo, dėl kurio turto konfiskavimo priimtas nutarimas, šio asmens atstovas. Ikiteisminio tyrimo teisėjo sprendimu į posėdį gali būti kviečiami ir kiti asmenys. Prokuroro ir asmens, dėl kurio turto konfiskavimo priimtas nutarimas, atstovo dalyvavimas tokiame posėdyje būtinas. Ikiteisminio tyrimo teisėjo sprendimas gali būti skundžiamas šio Kodekso X dalyje nustatyta tvarka.“
 
 
-3. 94 straipsnio 3 dalį laikyti 4 dalimi. ^79b99ca007b10cca7b48b9d1
+3. 94 straipsnio 3 dalį laikyti 4 dalimi. ^s-d80c3d34b800202b1bffa7da
 
 
 
-### 3 straipsnis. 151 straipsnio 1 dalies ir 2 dalies 1 punkto pakeitimas
+### 3 straipsnis. 151 straipsnio 1 dalies ir 2 dalies 1 punkto pakeitimas ^s-4130f69859d6cbda14dfcc50
 
 
-1. Pakeisti 151 straipsnio 1 dalį ir ją išdėstyti taip: ^ff0cfdb91bcde7084950f6f8
+1. Pakeisti 151 straipsnio 1 dalį ir ją išdėstyti taip: ^s-f97195f0b4806d217bc4545d
 
 
 „1. Civiliniam ieškiniui, galimam turto konfiskavimui arba išplėstiniam turto konfiskavimui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims, kurie turi nusikalstamu būdu gautą ar įgytą arba Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje nurodytus požymius atitinkantį konfiskuotiną turtą, gali būti skiriamas laikinas nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar krata.“
 
 
-2. 151 straipsnio 2 dalies 1 punkte po žodžių „numatytais atvejais“ įrašyti žodžius ir skaičių „ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais“ ir šį punktą išdėstyti taip: ^ed7f9c2dfce4cd0d0d2f651d
+2. 151 straipsnio 2 dalies 1 punkte po žodžių „numatytais atvejais“ įrašyti žodžius ir skaičių „ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais“ ir šį punktą išdėstyti taip: ^s-cfb083989f84703b29f6715b
 
 
 „1) siekiama užtikrinti galimą turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 72 straipsnyje numatytais atvejais ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais;“.
 
 
 
-### 4 straipsnis. Kodekso papildymas 1701 straipsniu
+### 4 straipsnis. Kodekso papildymas 1701 straipsniu ^s-fe32fda0e9fa1276a3bfd6b8
 
 
 Papildyti Kodeksą 1701 straipsniu ir jį išdėstyti taip:
@@ -98,7 +103,7 @@ Proceso metu prokuroras turi imtis priemonių turto, kuris atitinka Lietuvos Res
 
 
 
-### 5 straipsnis. 198 straipsnio papildymas 3 dalimi
+### 5 straipsnis. 198 straipsnio papildymas 3 dalimi ^s-608acc32bb2b2ca98afee380
 
 
 Papildyti 198 straipsnį 3 dalimi:
@@ -108,7 +113,7 @@ Papildyti 198 straipsnį 3 dalimi:
 
 
 
-### 6 straipsnis. 199 straipsnio 1 dalies 1 punkto pakeitimas
+### 6 straipsnis. 199 straipsnio 1 dalies 1 punkto pakeitimas ^s-e76272718e0480810ffa0bcd
 
 
 Pakeisti 199 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -118,7 +123,7 @@ Pakeisti 199 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. Kodekso papildymas 1991 straipsniu
+### 7 straipsnis. Kodekso papildymas 1991 straipsniu ^s-1d060f252b69d4ca0207d19b
 
 
 Papildyti Kodeksą 1991 straipsniu:
@@ -128,20 +133,20 @@ Papildyti Kodeksą 1991 straipsniu:
 „1991 straipsnis. Dalinis anonimiškumas
 
 
-1. Kai yra šio Kodekso 199 straipsnyje numatyti pagrindai, taip pat kitais atvejais, kai yra duomenų, kad tam tikrų liudytojo ar nukentėjusiojo duomenų atskleidimas gali turėti neigiamų padarinių jų, jų šeimos narių ar artimųjų giminaičių teisėms ir teisėtiems interesams ir šių teisių ir interesų apsaugai užtikrinti pakanka dalies duomenų apie liudytoją ar nukentėjusįjį slaptumo, gali būti taikomas dalinis anonimiškumas. ^b30d139f876dc42c5658dad0
+1. Kai yra šio Kodekso 199 straipsnyje numatyti pagrindai, taip pat kitais atvejais, kai yra duomenų, kad tam tikrų liudytojo ar nukentėjusiojo duomenų atskleidimas gali turėti neigiamų padarinių jų, jų šeimos narių ar artimųjų giminaičių teisėms ir teisėtiems interesams ir šių teisių ir interesų apsaugai užtikrinti pakanka dalies duomenų apie liudytoją ar nukentėjusįjį slaptumo, gali būti taikomas dalinis anonimiškumas. ^s-bd8a2e3e90b136a042689477
 
 
-2. Kai yra [[#^b30d139f876dc42c5658dad0|šio straipsnio 1 dalyje]] nurodytos aplinkybės, prokuroras ar ikiteisminio tyrimo pareigūnas nutarimu taikyti dalinį anonimiškumą nustato įslaptinamų duomenų apimtį. Gali būti įslaptinami liudytojo ar nukentėjusiojo vardas ir pavardė, gimimo data, asmens kodas, gyvenamosios vietos adresas, profesija, darbo ar mokymosi vieta, giminystės ryšiai, taip pat kiti liudytojo ar nukentėjusiojo duomenys (išskyrus duomenis apie liudytojo ar nukentėjusiojo santykius su įtariamuoju), kurių įslaptinimas yra grindžiamas [[#^b30d139f876dc42c5658dad0|šio straipsnio 1 dalyje]] nurodytomis aplinkybėmis. ^4ac5ea9f82403fe68ddb767b
+2. Kai yra [[#^s-bd8a2e3e90b136a042689477|šio straipsnio 1 dalyje]] nurodytos aplinkybės, prokuroras ar ikiteisminio tyrimo pareigūnas nutarimu taikyti dalinį anonimiškumą nustato įslaptinamų duomenų apimtį. Gali būti įslaptinami liudytojo ar nukentėjusiojo vardas ir pavardė, gimimo data, asmens kodas, gyvenamosios vietos adresas, profesija, darbo ar mokymosi vieta, giminystės ryšiai, taip pat kiti liudytojo ar nukentėjusiojo duomenys (išskyrus duomenis apie liudytojo ar nukentėjusiojo santykius su įtariamuoju), kurių įslaptinimas yra grindžiamas [[#^s-bd8a2e3e90b136a042689477|šio straipsnio 1 dalyje]] nurodytomis aplinkybėmis. ^s-b838da823892b8efd88d9318
 
 
-3. Nukentėjusysis ir liudytojas, kuriems taikomas dalinis anonimiškumas įslaptinant jų vardą ir pavardę, tyrimo veiksmų ir kituose bylos dokumentuose įvardijamas numeriu. ^9f803fb2192bc802920fa1b5
+3. Nukentėjusysis ir liudytojas, kuriems taikomas dalinis anonimiškumas įslaptinant jų vardą ir pavardę, tyrimo veiksmų ir kituose bylos dokumentuose įvardijamas numeriu. ^s-e2926e6ee77589bca52dddc3
 
 
-4. Dalinio anonimiškumo taikymo atvejais tyrimo veiksmai atliekami ir bylos dokumentai surašomi bendra šio Kodekso nustatyta tvarka, įslaptinti duomenys surašomi, saugomi ir naudojami šio Kodekso 201 straipsnyje nustatyta tvarka, išskyrus šiame straipsnyje nustatytas išimtis.“ ^17633e5853d57b7255a258d7
+4. Dalinio anonimiškumo taikymo atvejais tyrimo veiksmai atliekami ir bylos dokumentai surašomi bendra šio Kodekso nustatyta tvarka, įslaptinti duomenys surašomi, saugomi ir naudojami šio Kodekso 201 straipsnyje nustatyta tvarka, išskyrus šiame straipsnyje nustatytas išimtis.“ ^s-351784747ae1631037fb9654
 
 
 
-### 8 straipsnis. 212 straipsnio 8 punkto pakeitimas
+### 8 straipsnis. 212 straipsnio 8 punkto pakeitimas ^s-86afa37b4b94f8aab0420d01
 
 
 212 straipsnio 8 punkte po skaičių ir žodžių „114 straipsnio 3 dalyje“ įrašyti skaičius ir žodžius „1891 straipsnio 2 dalyje“ ir šį punktą išdėstyti taip:
@@ -151,7 +156,7 @@ Papildyti Kodeksą 1991 straipsniu:
 
 
 
-### 9 straipsnis. 216 straipsnio 2 dalies pakeitimas
+### 9 straipsnis. 216 straipsnio 2 dalies pakeitimas ^s-f42ca8f3e02b954ba2084333
 
 
 Pakeisti 216 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -161,7 +166,7 @@ Pakeisti 216 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 238 straipsnio papildymas 4 dalimi
+### 10 straipsnis. 238 straipsnio papildymas 4 dalimi ^s-2c45c1b74428c294d9e40b1f
 
 
 Papildyti 238 straipsnį 4 dalimi:
@@ -171,7 +176,7 @@ Papildyti 238 straipsnį 4 dalimi:
 
 
 
-### 11 straipsnis. 254 straipsnio 5 dalies pakeitimas
+### 11 straipsnis. 254 straipsnio 5 dalies pakeitimas ^s-7eb7410500ade31bfbaf36ad
 
 
 254 straipsnio 5 dalyje po skaičių ir žodžių „114 straipsnio 3 dalyje“ įrašyti skaičius ir žodžius „1891 straipsnio 2 dalyje“ ir šią dalį išdėstyti taip:
@@ -181,7 +186,7 @@ Papildyti 238 straipsnį 4 dalimi:
 
 
 
-### 12 straipsnis. 279 straipsnio papildymas 7 dalimi
+### 12 straipsnis. 279 straipsnio papildymas 7 dalimi ^s-5f6abd10ca55266ef7622d35
 
 
 Papildyti 279 straipsnį 7 dalimi:
@@ -191,7 +196,7 @@ Papildyti 279 straipsnį 7 dalimi:
 
 
 
-### 13 straipsnis. 283 straipsnio papildymas 5 dalimi
+### 13 straipsnis. 283 straipsnio papildymas 5 dalimi ^s-a3634a22e3ef614b7374c8a2
 
 
 Papildyti 283 straipsnį 5 dalimi:
@@ -201,7 +206,7 @@ Papildyti 283 straipsnį 5 dalimi:
 
 
 
-### 14 straipsnis. 303 straipsnio 4 dalies pakeitimas
+### 14 straipsnis. 303 straipsnio 4 dalies pakeitimas ^s-f968fa5caa7b8b4541c35416
 
 
 303 straipsnio 4 dalyje po skaičių ir žodžių „114 straipsnio 3 dalyje“ įrašyti skaičius ir žodžius „1891 straipsnio 2 dalyje“ ir šią dalį išdėstyti taip:
@@ -211,7 +216,7 @@ Papildyti 283 straipsnį 5 dalimi:
 
 
 
-### 15 straipsnis. 327 straipsnio 2 punkto pakeitimas
+### 15 straipsnis. 327 straipsnio 2 punkto pakeitimas ^s-c4851aa65ea1a6e43a46625d
 
 
 327 straipsnio 2 punkte po skaičių ir žodžių „114 straipsnio 3 dalyje“ įrašyti skaičius ir žodžius „1891 straipsnio 2 dalyje“ ir šį punktą išdėstyti taip:
@@ -221,7 +226,7 @@ Papildyti 283 straipsnį 5 dalimi:
 
 
 
-### 16 straipsnis. 342 straipsnio 4 dalies 8 punkto pakeitimas
+### 16 straipsnis. 342 straipsnio 4 dalies 8 punkto pakeitimas ^s-42b197f69e14d44c65918d85
 
 
 Pakeisti 342 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
@@ -231,7 +236,7 @@ Pakeisti 342 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 17 straipsnis. 357 straipsnio 1 dalies pakeitimas
+### 17 straipsnis. 357 straipsnio 1 dalies pakeitimas ^s-8e273b582d9ef10cdbcce9c7
 
 
 357 straipsnio 1 dalyje po žodžių „turto konfiskavimas“ įrašyti žodžius „arba išplėstinis turto konfiskavimas“ ir šią dalį išdėstyti taip:
@@ -241,7 +246,7 @@ Pakeisti 342 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 18 straipsnis. 361 straipsnio 2 dalies pakeitimas
+### 18 straipsnis. 361 straipsnio 2 dalies pakeitimas ^s-39a559692babba647e50598f
 
 
 Pakeisti 361 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -251,7 +256,7 @@ Pakeisti 361 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 19 straipsnis. 421 straipsnio 4 punkto pakeitimas
+### 19 straipsnis. 421 straipsnio 4 punkto pakeitimas ^s-1058467be04a37bdf3600f78
 
 
 421 straipsnio 4 punkte po žodžių „dėl turto konfiskavimo“ įrašyti žodžius „dėl išplėstinio turto konfiskavimo“ ir šį punktą išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2E64ED74C5F3"
 pavadinimas: "Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "slaugos praktikos ir akušerijos praktikos įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.2E64ED74C5F3.md"
 latest_sha256: "6cd6e18e8e65e6386ba8b6f28e7ca8bc005589aad8c61477ab8be8ffe1d771fa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2E64ED74C5F3]]"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2E64ED74C5F3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2E64ED74C5F3
+- Ryšiai: [[Ryšiai/TAR.2E64ED74C5F3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 8 dalies pakeitimas ^s-4261b6d0fcf6209489352768
 
 
 5 straipsnio 8 dalyje išbraukti žodžius „leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir“, prieš žodį „interneto“ įrašyti žodį „savo“ ir šią dalį išdėstyti taip:
@@ -43,14 +48,14 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-315c6d904542845a69a5f2bf
 
 
-Šis įstatymas, išskyrus [[#3 straipsnis. Įstatymo įgyvendinimas|3 straipsnį]], įsigalioja 2011 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-c641abc31be47dc887dc3a33|3 straipsnį]], įsigalioja 2011 m. sausio 1 d.
 
 
 
-### 3 straipsnis. Įstatymo įgyvendinimas
+### 3 straipsnis. Įstatymo įgyvendinimas ^s-c641abc31be47dc887dc3a33
 
 
 Lietuvos Respublikos Vyriausybė ir kitos institucijos pagal savo kompetenciją iki šio įstatymo įsigaliojimo dienos parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.

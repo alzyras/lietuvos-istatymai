@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A6EF4B6F3E3A"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-03-01"
 latest_path: "latest/TAR.A6EF4B6F3E3A.md"
 latest_sha256: "b3af88b1005097074697cf7da9c898737b6f6871b6869f63fa1a463d1d71b82e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A6EF4B6F3E3A]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A6EF4B6F3E3A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A6EF4B6F3E3A
+- Ryšiai: [[Ryšiai/TAR.A6EF4B6F3E3A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 68 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 68 straipsnio 6 dalies pakeitimas ^s-762d626d7e9b1a19a6f842e7
 
 
 Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -41,13 +46,13 @@ Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-961d81eda80d598ab01f40c7
 
 
-1. Šis įstatymas įsigalioja nuo 2005 m. kovo 1 d. ^c9889bede616d411c88a9892
+1. Šis įstatymas įsigalioja nuo 2005 m. kovo 1 d. ^s-63a95930b38b4172c8e8bf53
 
 
-2. Jeigu profesinės karo tarnybos kariams, esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio įstatymo nuostatas apskaičiuota 70 procentų vidutinio jų tarnybinio atlyginimo suma yra mažesnė nei mokėta iki šio įstatymo įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma. ^6099c62adfa6773c3f70cf27
+2. Jeigu profesinės karo tarnybos kariams, esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio įstatymo nuostatas apskaičiuota 70 procentų vidutinio jų tarnybinio atlyginimo suma yra mažesnė nei mokėta iki šio įstatymo įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma. ^s-fceda67ab0f959907b77d171
 
 
 

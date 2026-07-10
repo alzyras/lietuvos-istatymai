@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2EDF7C125B7E"
 pavadinimas: "Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 7, 12 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 7, 12 ir 15 straipsnių pakeitimo įstatymas"
+  - "piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 7, 12 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-02-01"
 latest_path: "latest/TAR.2EDF7C125B7E.md"
 latest_sha256: "a8ebbbe101d723d3cbdc586234436e9a66c45b691ea9d87e2ba24bc76294aecf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2EDF7C125B7E]]"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 7, 12 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2EDF7C125B7E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2EDF7C125B7E
+- Ryšiai: [[Ryšiai/TAR.2EDF7C125B7E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas ^s-621e2e4f580de57bb6c6333f
 
 
 Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 12 straipsnio 1 dalies 9 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 1 dalies 9 punkto pakeitimas ^s-984a0cf146ab923d15ebb118
 
 
 Pakeisti 12 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
@@ -55,23 +60,23 @@ Pakeisti 12 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 15 straipsnio 6 ir 7 dalių pakeitimas
+### 3 straipsnis. 15 straipsnio 6 ir 7 dalių pakeitimas ^s-d9091a156202a4a3b0436fdf
 
 
-1. Pakeisti 15 straipsnio 6 dalį ir ją išdėstyti taip: ^8099a6309a5ac0fe7a02f8b8
+1. Pakeisti 15 straipsnio 6 dalį ir ją išdėstyti taip: ^s-c4b91fd6f288425e38750fb7
 
 
 „6. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės ir užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės ir motinystės (tėvystės) pašalpos, taip pat kitos kas mėnesį gaunamos pajamos įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio straipsnio 7 dalyje numatytą atvejį.“
 
 
-2. Pakeisti 15 straipsnio 7 dalį ir ją išdėstyti taip: ^22746ade76d705e29cf4997c
+2. Pakeisti 15 straipsnio 7 dalį ir ją išdėstyti taip: ^s-1513bdc74a7ace0c54b3054b
 
 
 „7. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės ir užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės ir motinystės (tėvystės) pašalpos, taip pat kitos kas mėnesį gaunamos pajamos, kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat vienkartinės, už du ar daugiau mėnesių iš karto išmokėtos mėnesinės išmokos ir piniginės lėšos vaikui išlaikyti (alimentai) įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.“
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-a7424a262c8c11434c399e26
 
 
 Šis įstatymas įsigalioja 2011 m. vasario 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D4EB0EB25156"
 pavadinimas: "Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-21"
 latest_path: "latest/TAR.D4EB0EB25156.md"
 latest_sha256: "261dbcd920b6d2dff6a1ffbbfa8eef429ce71ffd61287dc504d0b3ea83effe70"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D4EB0EB25156]]"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D4EB0EB25156.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D4EB0EB25156
+- Ryšiai: [[Ryšiai/TAR.D4EB0EB25156|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,16 +38,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 ir 21 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 5 ir 21 dalių pakeitimas ^s-3b11f494ec72585d90ecf028
 
 
-1. 2 straipsnio 5 dalyje vietoj žodžių „Vertybinių popierių rinkos“ įrašyti žodžius „Įmonių konsoliduotos finansinės atskaitomybės“ ir šią dalį išdėstyti taip: ^d8de81b5c24944ccab684112
+1. 2 straipsnio 5 dalyje vietoj žodžių „Vertybinių popierių rinkos“ įrašyti žodžius „Įmonių konsoliduotos finansinės atskaitomybės“ ir šią dalį išdėstyti taip: ^s-f7f7a1e04fd8fd7ff4da051a
 
 
 „5. Dukterinė įmonė – Įmonių konsoliduotos finansinės atskaitomybės įstatyme apibūdinta įmonė.“
 
 
-2. Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip: ^b4bfa06dbcae5460c3f6a165
+2. Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip: ^s-418d0b3fe646232a691e4fbd
 
 
 „21. Vertybiniai popieriai – finansinės priemonės, nurodytos Finansinių priemonių rinkų įstatyme, ir vekseliai, išrašyti Įsakomųjų ir paprastųjų vekselių įstatymo nustatyta tvarka.“

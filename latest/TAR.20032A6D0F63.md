@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.20032A6D0F63"
 pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 19 ir 20 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 19 ir 20 straipsnių papildymo įstatymas"
+  - "kooperatinių bendrovių (kooperatyvų) įstatymo 19 ir 20 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-23"
 latest_path: "latest/TAR.20032A6D0F63.md"
 latest_sha256: "35a76f4f372b309576ebe86c848622d76a61cb5101324625d374f0a1354b838c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.20032A6D0F63]]"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 19 ir 20 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.20032A6D0F63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.20032A6D0F63
+- Ryšiai: [[Ryšiai/TAR.20032A6D0F63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 5 dalies 3 punkto papildymas
+### 1 straipsnis. 19 straipsnio 5 dalies 3 punkto papildymas ^s-5938b2bc8347dea831b1eec6
 
 
 19 straipsnio 5 dalies 3 punkte po žodžio „prievolių“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki po reorganizavimo veikiančių įmonių įstatų įregistravimo įstatymų nustatyta tvarka“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 20 straipsnio 4 dalies 5 punkto papildymas
+### 2 straipsnis. 20 straipsnio 4 dalies 5 punkto papildymas ^s-6b29ec2306f4e00ec27daee1
 
 
 20 straipsnio 4 dalies 5 punkte po žodžio „prievoles“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, ne vėliau kaip per 6 mėnesius nuo likvidavimo paskelbimo dienos“ ir šį punktą išdėstyti taip:

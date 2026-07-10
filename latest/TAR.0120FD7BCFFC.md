@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0120FD7BCFFC"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-08-05"
 latest_path: "latest/TAR.0120FD7BCFFC.md"
-latest_sha256: "07ab958bfe5400db97f056638519fdce76ce60c00b0536bc20aad3fcd56b8d32"
-parser_version: "0.1.0"
+latest_sha256: "5d57dd05b0a25dd0af9377324e9f6768b5597d6e62fd3d7f646283769d591bb0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0120FD7BCFFC]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0120FD7BCFFC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC
+- Ryšiai: [[Ryšiai/TAR.0120FD7BCFFC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,12 +39,12 @@ Vilnius
 
 
 
-## I SKYRIUS
+## I SKYRIUS ^s-809d6f88f71509fee1f10b11
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Lietuvos Respublikos teritorijos administraciniai vienetai ir gyvenamosios vietovės
+### 1 straipsnis. Lietuvos Respublikos teritorijos administraciniai vienetai ir gyvenamosios vietovės ^s-9eed80465ad5ba2d2ec9522f
 
 
 Lietuvos Respublikos teritorija skirstoma į administracinius vienetus, kurie susideda iš gyvenamųjų vietovių. Lietuvos Respublikos teritorijos administracinis vienetas yra teritorijos dalis, kurioje valdymą organizuoja Lietuvos Respublikos Vyriausybė arba savivaldybės institucijos.
@@ -69,10 +74,10 @@ Nr. XIV-924, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01290
 
 
 
-### 2 straipsnis. Lietuvos Respublikos teritorijos administracinių vienetų samprata
+### 2 straipsnis. Lietuvos Respublikos teritorijos administracinių vienetų samprata ^s-22d6a2dd9e16a92f95ac81fb
 
 
-Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinkta savivaldybės taryba pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Jos teritorija gali būti skirstoma į seniūnijų aptarnaujamas teritorijas. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas Lietuvos Respublikos vietos savivaldos įstatyme.
+Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinkta savivaldybės taryba pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Jos teritorija gali būti skirstoma į seniūnijų aptarnaujamas teritorijas. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]].
 Straipsnio dalies pakeitimai:
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/TAR.DE37D2EF2CDC|1041010ISTA0IX-2423]]
 
@@ -88,7 +93,7 @@ Apskritis sudaroma iš savivaldybių teritorijų, pasižyminčių socialinių, e
 
 
 
-### 3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių bei sodininkų bendrijų teritorijų samprata
+### 3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių bei sodininkų bendrijų teritorijų samprata ^s-bb5ddf3844a1b439506bdc4d
 Pakeistas straipsnio pavadinimas:
 Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
@@ -142,10 +147,10 @@ Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. [[latest/TA
 
 
 
-### 31 straipsnis. Lietuvos Respublikos adresų registro tvarkymas
+### 31 straipsnis. Lietuvos Respublikos adresų registro tvarkymas ^s-1ae9285daf61a04b2d27925a
 
 
-### 31 straipsnis. Lietuvos Respublikos adresų registras
+### 31 straipsnis. Lietuvos Respublikos adresų registras ^s-1b5016726e91d4da6b6eb476
 
 
 Lietuvos Respublikos adresų registras tvarkomas Lietuvos Respublikos adresų registro informacinėje sistemoje. Šioje informacinėje sistemoje registruojami objektai – apskritys, savivaldybės, seniūnijos, gyvenamosios vietovės, gatvės, adresai, pavadinimai, suteikti pastatui, statiniui ar kitam objektui.
@@ -166,7 +171,7 @@ Duomenų tvarkymo Lietuvos Respublikos adresų registro informacinėje sistemoje
 Lietuvos Respublikos adresų registro informacinės sistemos valdytoja ir duomenų valdytoja yra Lietuvos Respublikos teisingumo ministerija.
 
 
-Lietuvos Respublikos adresų registro informacinėje sistemoje tvarkomi duomenys yra vieši ir gali būti teikiami pakartotinai naudoti vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais, Valstybės informacinių išteklių valdymo įstatymu, Teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymu, kitais įstatymais ir Lietuvos Respublikos adresų registro informacinės sistemos nuostatais.
+Lietuvos Respublikos adresų registro informacinėje sistemoje tvarkomi duomenys yra vieši ir gali būti teikiami pakartotinai naudoti vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais, [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.FA13E28615F6|Teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymu]], kitais įstatymais ir Lietuvos Respublikos adresų registro informacinės sistemos nuostatais.
 
 
 Straipsnio dalies pakeitimai:
@@ -179,13 +184,13 @@ Nr. X-1240, 2007-06-28, Žin., 2007, Nr. 81-3315 (2007-07-21), i. k. [[latest/TA
 
 
 
-## II SKYRIUS
+## II SKYRIUS ^s-bde129d0757f415d64b4d0bd
 LIETUVOS RESPUBLIKOS TERITORIJOS
 ADMINISTRACINIS SKIRSTYMAS
 
 
 
-### 4 straipsnis. Lietuvos Respublikos savivaldybės ir jų centrai
+### 4 straipsnis. Lietuvos Respublikos savivaldybės ir jų centrai ^s-5d634a8d6e5cc0548d8501f8
 
 
 Lietuvos Respublikoje pirmajame teritorijos administracinių vienetų reformos etape steigiamos šios savivaldybės: Vilniaus miesto, Alytaus miesto, Birštono miesto, Druskininkų miesto, Kauno miesto, Klaipėdos miesto, Marijampolės miesto, Neringos miesto, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Visagino miesto, Akmenės rajono, Alytaus rajono, Anykščių rajono, Biržų rajono, Ignalinos rajono, Jonavos rajono, Joniškio rajono, Jurbarko rajono, Kaišiadorių rajono, Kauno rajono, Kėdainių rajono, Kelmės rajono, Klaipėdos rajono, Kretingos rajono, Kupiškio rajono, Lazdijų rajono, Marijampolės rajono, Mažeikių rajono, Molėtų rajono, Pakruojo rajono, Panevėžio rajono, Pasvalio rajono, Plungės rajono, Prienų rajono, Radviliškio rajono, Raseinių rajono, Rokiškio rajono, Skuodo rajono, Šakių rajono, Šalčininkų rajono, Šiaulių rajono, Šilalės rajono, Šilutės rajono, Širvintų rajono, Švenčionių rajono, Tauragės rajono, Telšių rajono, Trakų rajono, Ukmergės rajono, Utenos rajono, Varėnos rajono, Vilkaviškio rajono, Vilniaus rajono, Zarasų rajono.
@@ -194,16 +199,16 @@ Lietuvos Respublikoje pirmajame teritorijos administracinių vienetų reformos e
 Antrojo teritorijos administracinių vienetų reformos etapo pirmojoje pakopoje:
 
 
-1) steigiamos šios savivaldybės: Elektrėnų savivaldybė, Kalvarijos savivaldybė, Kazlų Rūdos savivaldybė, Pagėgių savivaldybė, Rietavo savivaldybė; ^79f190ee4c45db569bd542f9
+1) steigiamos šios savivaldybės: Elektrėnų savivaldybė, Kalvarijos savivaldybė, Kazlų Rūdos savivaldybė, Pagėgių savivaldybė, Rietavo savivaldybė; ^s-f848a7101597a2c0332301ad
 
 
-2) įsteigus Kalvarijos ir Kazlų Rūdos savivaldybes panaikinama Marijampolės rajono savivaldybė; ^4393d343bfa9bbf3ad550282
+2) įsteigus Kalvarijos ir Kazlų Rūdos savivaldybes panaikinama Marijampolės rajono savivaldybė; ^s-6b42e361bd998224b050cbb4
 
 
-3) pakeičiamos šių savivaldybių teritorijos ir ribos: Birštono miesto, Druskininkų miesto, Marijampolės miesto, Vilniaus miesto, Akmenės rajono, Kaišiadorių rajono, Lazdijų rajono, Mažeikių rajono, Plungės rajono, Šakių rajono, Šilutės rajono, Trakų rajono, Varėnos rajono, Vilkaviškio rajono; ^6ba20c1d198e2cd6b5c1c7e9
+3) pakeičiamos šių savivaldybių teritorijos ir ribos: Birštono miesto, Druskininkų miesto, Marijampolės miesto, Vilniaus miesto, Akmenės rajono, Kaišiadorių rajono, Lazdijų rajono, Mažeikių rajono, Plungės rajono, Šakių rajono, Šilutės rajono, Trakų rajono, Varėnos rajono, Vilkaviškio rajono; ^s-0e60388823912abec42894e2
 
 
-4) pakeičiami šie savivaldybių pavadinimai: Birštono miesto – į Birštono, Druskininkų miesto – į Druskininkų, Marijampolės miesto – į Marijampolės, Neringos miesto – į Neringos, Visagino miesto – į Visagino. ^d76849a9715834be63b528c2
+4) pakeičiami šie savivaldybių pavadinimai: Birštono miesto – į Birštono, Druskininkų miesto – į Druskininkų, Marijampolės miesto – į Marijampolės, Neringos miesto – į Neringos, Visagino miesto – į Visagino. ^s-0ff500f3e7afd199cc2d8ea2
 Straipsnio punkto pakeitimai:
 Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. [[latest/TAR.949C92EAC54A|1021010ISTA0IX-1101]]
 
@@ -220,7 +225,7 @@ Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. [[lates
 
 
 
-### 5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos
+### 5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos ^s-b4cae5283d6d8efa1b20598f
 
 
 Lietuvos Respublikos teritorijoje yra šios apskritys: Alytaus – centras Alytaus miestas; Kauno – centras Kauno miestas; Klaipėdos – centras Klaipėdos miestas; Marijampolės – centras Marijampolės miestas; Panevėžio – centras Panevėžio miestas; Šiaulių – centras Šiaulių miestas; Tauragės – centras Tauragės miestas; Telšių – centras Telšių miestas; Utenos – centras Utenos miestas; Vilniaus – centras Vilniaus miestas.
@@ -229,37 +234,37 @@ Lietuvos Respublikos teritorijoje yra šios apskritys: Alytaus – centras Alyta
 Apskričių teritorijas sudaro šių savivaldybių teritorijos:
 
 
-1) Alytaus – Alytaus miesto, Alytaus rajono, Druskininkų, Lazdijų rajono, Varėnos rajono savivaldybės; ^24d81e57e3312ed171e8ceeb
+1) Alytaus – Alytaus miesto, Alytaus rajono, Druskininkų, Lazdijų rajono, Varėnos rajono savivaldybės; ^s-55311315d064d39545002f6d
 
 
-2) Kauno – Birštono, Jonavos rajono, Kaišiadorių rajono, Kauno miesto, Kauno rajono, Kėdainių rajono, Prienų rajono, Raseinių rajono savivaldybės; ^0674c78a120e3859fa981676
+2) Kauno – Birštono, Jonavos rajono, Kaišiadorių rajono, Kauno miesto, Kauno rajono, Kėdainių rajono, Prienų rajono, Raseinių rajono savivaldybės; ^s-2e0ecea478cba6a0a8a6778a
 
 
-3) Klaipėdos – Klaipėdos rajono, Klaipėdos miesto, Kretingos rajono, Neringos, Palangos miesto, Skuodo rajono, Šilutės rajono savivaldybės; ^91bf4d5c537cc9bd5d22ba65
+3) Klaipėdos – Klaipėdos rajono, Klaipėdos miesto, Kretingos rajono, Neringos, Palangos miesto, Skuodo rajono, Šilutės rajono savivaldybės; ^s-0375600bec97f06f17459d43
 
 
-4) Marijampolės – Kalvarijos, Kazlų Rūdos, Marijampolės, Šakių rajono, Vilkaviškio rajono savivaldybės; ^90123e2cb99875156deff34d
+4) Marijampolės – Kalvarijos, Kazlų Rūdos, Marijampolės, Šakių rajono, Vilkaviškio rajono savivaldybės; ^s-df364157cf872fc2dba8a5aa
 
 
-5) Panevėžio – Biržų rajono, Kupiškio rajono, Panevėžio miesto, Panevėžio rajono, Pasvalio rajono, Rokiškio rajono savivaldybės; ^dfaf0cfcb472c2ad3f85f692
+5) Panevėžio – Biržų rajono, Kupiškio rajono, Panevėžio miesto, Panevėžio rajono, Pasvalio rajono, Rokiškio rajono savivaldybės; ^s-616ef916210f82f075ec6b9f
 
 
-6) Šiaulių – Joniškio rajono, Kelmės rajono, Pakruojo rajono, Akmenės rajono, Radviliškio rajono, Šiaulių miesto, Šiaulių rajono savivaldybės; ^05d44de46126ef4922e0803b
+6) Šiaulių – Joniškio rajono, Kelmės rajono, Pakruojo rajono, Akmenės rajono, Radviliškio rajono, Šiaulių miesto, Šiaulių rajono savivaldybės; ^s-6c833434b05715755e08756a
 
 
-7) Tauragės – Jurbarko rajono, Pagėgių, Šilalės rajono, Tauragės rajono savivaldybės; ^e7e20b5230a8f381b05f3b44
+7) Tauragės – Jurbarko rajono, Pagėgių, Šilalės rajono, Tauragės rajono savivaldybės; ^s-7121582b8a4f9c87a9d2a4ba
 
 
-8) Telšių – Mažeikių rajono, Plungės rajono, Rietavo, Telšių rajono savivaldybės; ^aae3fc3cd7f3d82da18bf18a
+8) Telšių – Mažeikių rajono, Plungės rajono, Rietavo, Telšių rajono savivaldybės; ^s-05d96208e6f70967d2d8a395
 
 
-9) Utenos – Anykščių rajono, Ignalinos rajono, Molėtų rajono, Utenos rajono, Visagino, Zarasų rajono savivaldybės; ^9ee5eed0c2697bd9ffcc56b8
+9) Utenos – Anykščių rajono, Ignalinos rajono, Molėtų rajono, Utenos rajono, Visagino, Zarasų rajono savivaldybės; ^s-475e89f709d9af11dfd87932
 Straipsnio punkto pakeitimai:
 Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. [[latest/TAR.949C92EAC54A|1021010ISTA0IX-1101]]
 
 
 
-10) Vilniaus – Elektrėnų, Šalčininkų rajono, Širvintų rajono, Švenčionių rajono, Trakų rajono, Ukmergės rajono, Vilniaus miesto, Vilniaus rajono savivaldybės. ^20441d79aa20aec6e4b70631
+10) Vilniaus – Elektrėnų, Šalčininkų rajono, Širvintų rajono, Švenčionių rajono, Trakų rajono, Ukmergės rajono, Vilniaus miesto, Vilniaus rajono savivaldybės. ^s-306dde28b6add9e4a79e57f5
 
 
 Straipsnio pakeitimai:
@@ -267,14 +272,14 @@ Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. [[lates
 
 
 
-## III SKYRIUS
+## III SKYRIUS ^s-7f068c4cd7e6eafe3640ba17
 LIETUVOS RESPUBLIKOS TERITORIJOS ADMINISTRACINIŲ VIENETŲ, SENIŪNIJŲ APTARNAUJAMŲ TERITORIJŲ IR GYVENAMŲJŲ VIETOVIŲ NUSTATYMAS IR JŲ RIBŲ KEITIMAS
 Pakeistas skyriaus pavadinimas:
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/TAR.DE37D2EF2CDC|1041010ISTA0IX-2423]]
 
 
 
-### 6 straipsnis. Apskričių steigimas ir jų ribų keitimas
+### 6 straipsnis. Apskričių steigimas ir jų ribų keitimas ^s-ee12193dfcdf31bba1566601
 
 
 Apskritis steigia ir panaikina, taip pat jų teritorijų ribas bei centrus nustato ir keičia Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu. Apskrities ribos turi būti tikslinamos, jeigu keičiant savivaldybių teritorijų ribas kinta su keičiamomis ribomis sutampančios apskrities teritorijos ribos. Savivaldybės teritorija apskričių teritorijų ribomis nedaloma.
@@ -285,25 +290,25 @@ Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. [[latest/TAR
 
 
 
-### 7 straipsnis. Savivaldybių steigimas, jų ribų nustatymas ir keitimas
+### 7 straipsnis. Savivaldybių steigimas, jų ribų nustatymas ir keitimas ^s-8a68748eeb42cd77dbe17018
 
 
 Savivaldybes steigia, esamas savivaldybes panaikina, taip pat jų teritorijų ribas ir centrus nustato ir keičia Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu. Lietuvos Respublikos Vyriausybė parengia ir teikia Lietuvos Respublikos Seimui dokumentus dėl naujų savivaldybių steigimo ir jų teritorijų ribų nustatymo, kai numatomos steigti savivaldybės vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė numatomos steigti savivaldybės gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už naujos savivaldybės steigimą ir kai numatomos steigti savivaldybės ir savivaldybės, kurių teritorijų ribas numatoma keisti dėl naujos savivaldybės steigimo, atitinka šiuos kriterijus:
 
 
-1) ne mažiau kaip 20 procentų savivaldybės biudžeto be Lietuvos Respublikos valstybės biudžeto dotacijų, skiriamų savivaldybių biudžetams, sudarytų tos teritorijos gyventojų pajamų mokesčiai; ^a0409a1256df527cee8ad9ee
+1) ne mažiau kaip 20 procentų savivaldybės biudžeto be Lietuvos Respublikos valstybės biudžeto dotacijų, skiriamų savivaldybių biudžetams, sudarytų tos teritorijos gyventojų pajamų mokesčiai; ^s-2fd39715a178f041c050361f
 
 
-2) bendras savivaldybės gyventojų skaičius būtų ne mažesnis kaip 10 tūkst.; ^d261946a343bfbb5b8413f0e
+2) bendras savivaldybės gyventojų skaičius būtų ne mažesnis kaip 10 tūkst.; ^s-754fbebf12004612e113863a
 
 
-3) savivaldybės centro gyventojų skaičius būtų ne mažesnis kaip 3 tūkst.; ^6bdb69194006322095786c0d
+3) savivaldybės centro gyventojų skaičius būtų ne mažesnis kaip 3 tūkst.; ^s-198b2d366f6e8035c275e915
 
 
-4) savivaldybės centras būtų už 20 km ar toliau nuo artimiausio esamo savivaldybės centro; ^a680ec7955d8e8cde1c71e7c
+4) savivaldybės centras būtų už 20 km ar toliau nuo artimiausio esamo savivaldybės centro; ^s-f36c1229730bd750077468eb
 
 
-5) savivaldybė turėtų ribas su ne mažiau kaip dviem savivaldybėmis. ^1fff8a3a5e2588e7a079c0f1
+5) savivaldybė turėtų ribas su ne mažiau kaip dviem savivaldybėmis. ^s-bcf63af4d5c3cb5e853c3604
 
 
 Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl naujų savivaldybių steigimo ir jų ribų nustatymo, kartu pateikia savivaldybių, kurių teritorijų ribas numatoma keisti, tarybų nuomonę ir numatomos steigti naujos savivaldybės gyventojų nuomonę, pareikštą vietos gyventojų apklausoje.
@@ -312,14 +317,14 @@ Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentu
 Lietuvos Respublikos Vyriausybė parengia ir teikia Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kai tenkinamos visos šios sąlygos:
 
 
-1) savivaldybės teritorijos dalies, kurią siūloma priskirti kitai savivaldybei, vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė šios savivaldybės teritorijos dalies vietos gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už šios savivaldybės teritorijos dalies priskyrimą kitai savivaldybei; ^b46ee061b952568d2dc43b79
+1) savivaldybės teritorijos dalies, kurią siūloma priskirti kitai savivaldybei, vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė šios savivaldybės teritorijos dalies vietos gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už šios savivaldybės teritorijos dalies priskyrimą kitai savivaldybei; ^s-cb65945f6dec5b25617e7f43
 
 
-2) savivaldybės teritorijos dalies be kitai savivaldybei siūlomos priskirti savivaldybės teritorijos vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė šios savivaldybės teritorijos dalies vietos gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už šios savivaldybės teritorijos dalies priskyrimą kitai savivaldybei; ^39bd2b20d38e435aa1efa128
+2) savivaldybės teritorijos dalies be kitai savivaldybei siūlomos priskirti savivaldybės teritorijos vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė šios savivaldybės teritorijos dalies vietos gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už šios savivaldybės teritorijos dalies priskyrimą kitai savivaldybei; ^s-a8a6ddec68fb5e768ab3d71f
 
 
-3) savivaldybės, kurios teritorijos dalį siūloma priskirti kitai savivaldybei, teritorijos dalis be kitai savivaldybei siūlomos priskirti teritorijos atitinka šio straipsnio 1 dalies 1 ir [[#^39bd2b20d38e435aa1efa128|2 punktuose]] nustatytus kriterijus. ^ffc0035d419d9b71aaf8b632
-TAR pastaba. [[#7 straipsnis. Savivaldybių steigimas, jų ribų nustatymas ir keitimas|7 straipsnio]] 3 ir 4 dalyse nustatyta tvarka yra taikoma toms savivaldybių teritorijų ribų keitimo procedūroms, dėl kurių inicijavimo iki įstatymo Nr. XIII-2583 įsigaliojimo (2019-12-13) savivaldybės taryba arba gyventojų iniciatyvinė grupė Lietuvos Respublikos Vyriausybės nustatyta tvarka nėra pateikusi reikalaujamų dokumentų.
+3) savivaldybės, kurios teritorijos dalį siūloma priskirti kitai savivaldybei, teritorijos dalis be kitai savivaldybei siūlomos priskirti teritorijos atitinka šio straipsnio 1 dalies 1 ir 2 punktuose nustatytus kriterijus. ^s-972f0558516cbda23d1853d5
+TAR pastaba. [[#^s-8a68748eeb42cd77dbe17018|7 straipsnio]] 3 ir 4 dalyse nustatyta tvarka yra taikoma toms savivaldybių teritorijų ribų keitimo procedūroms, dėl kurių inicijavimo iki [[latest/1ec5a2501cad11eabe008ea93139d588|įstatymo Nr. XIII-2583]] įsigaliojimo (2019-12-13) savivaldybės taryba arba gyventojų iniciatyvinė grupė Lietuvos Respublikos Vyriausybės nustatyta tvarka nėra pateikusi reikalaujamų dokumentų.
 
 
 Papildyta straipsnio dalimi:
@@ -327,14 +332,15 @@ Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
 
 
 
-Šio straipsnio 3 dalies 2 ir [[#^ffc0035d419d9b71aaf8b632|3 punktuose]] nustatytos sąlygos nėra taikomos, kai savivaldybių teritorijų ribos siūlomos keisti siekiant sujungti savivaldybių teritorijų ribomis padalytą gyvenamąją vietovę ar Nekilnojamojo turto kadastre įregistruotą žemės (miško) sklypą arba siekiant vienos ar kelių gyvenamųjų vietovių, priklausančių vienai savivaldybei, teritoriją, kurioje savo gyvenamąją vietą yra deklaravę ne daugiau kaip 500 gyventojų, priskirti gretimos savivaldybės teritorijai ir kai tam pritaria abiejų savivaldybių tarybos.
-TAR pastaba. [[#7 straipsnis. Savivaldybių steigimas, jų ribų nustatymas ir keitimas|7 straipsnio]] 3 ir 4 dalyse nustatyta tvarka yra taikoma toms savivaldybių teritorijų ribų keitimo procedūroms, dėl kurių inicijavimo iki įstatymo Nr. XIII-2583 įsigaliojimo (2019-12-13) savivaldybės taryba arba gyventojų iniciatyvinė grupė Lietuvos Respublikos Vyriausybės nustatyta tvarka nėra pateikusi reikalaujamų dokumentų.
+Šio straipsnio 3 dalies 2 ir 3 punktuose nustatytos sąlygos nėra taikomos, kai savivaldybių teritorijų ribas siūloma keisti siekiant sujungti savivaldybių teritorijų ribomis padalytą gyvenamąją vietovę ar Nekilnojamojo turto registrų informacinėje sistemoje įregistruotą žemės (miško) sklypą arba siekiant vienos ar kelių gyvenamųjų vietovių, priklausančių vienai savivaldybei, teritoriją, kurioje savo gyvenamąją vietą yra deklaravę ne daugiau kaip 500 gyventojų, priskirti gretimos savivaldybės teritorijai ir kai tam pritaria abiejų savivaldybių tarybos.
 Papildyta straipsnio dalimi:
 Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
+Straipsnio dalies pakeitimai:
+Nr. XV-1069, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11523
 
 
 
-Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kartu pateikia savivaldybių, kurių teritorijų ribos keičiamos, tarybų nuomonę ir savivaldybės, kurios teritorijos dalį ketinama priskirti kitai savivaldybei, vietos gyventojų nuomonę, pareikštą vietos gyventojų apklausoje, nurodytoje šio straipsnio 3 dalies 1 ir (ar) [[#^39bd2b20d38e435aa1efa128|2 punktuose]].
+Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kartu pateikia savivaldybių, kurių teritorijų ribos keičiamos, tarybų nuomonę ir savivaldybės, kurios teritorijos dalį ketinama priskirti kitai savivaldybei, vietos gyventojų nuomonę, pareikštą vietos gyventojų apklausoje, nurodytoje šio straipsnio 3 dalies 1 ir (ar) 2 punktuose.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
 
@@ -346,7 +352,7 @@ Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. [[latest/TA
 
 
 
-### 71 straipsnis. Seniūnijų aptarnaujamų teritorijų ribų nustatymas ir keitimas
+### 71 straipsnis. Seniūnijų aptarnaujamų teritorijų ribų nustatymas ir keitimas ^s-ace2b2a9acc69835fc6c7994
 
 
 Seniūnijų aptarnaujamų teritorijų ribas nustato ir keičia savivaldybės taryba.
@@ -364,25 +370,25 @@ Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/
 
 
 
-### 72 straipsnis. Sodininkų bendrijų teritorijų ribų kadastro duomenų nustatymas ir keitimas
+### 72 straipsnis. Sodininkų bendrijų teritorijų ribų kadastro duomenų nustatymas ir keitimas ^s-f3c757d405d5f5c5f0c93208
 
 
-Sodininkų bendrijų teritorijų ribų kadastro duomenys nustatomi ir keičiami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Sodininkų bendrijų teritorijų ribų kadastro duomenys nustatomi ir keičiami Lietuvos Respublikos nekilnojamųjų daiktų kadastrinių matavimų įstatymo nustatyta tvarka.
 
 
-Papildyta straipsniu:
-Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
+Straipsnio pakeitimai:
+Nr. XV-1069, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11523
 
 
 
-## IV SKYRIUS
+## IV SKYRIUS ^s-e8c48c3b5907c6297cba8f8d
 PAVADINIMŲ SUTEIKIMAS LIETUVOS RESPUBLIKOS
 TERITORIJOS ADMINISTRACINIAMS VIENETAMS IR GYVENAMOSIOMS
 VIETOVĖMS BEI JŲ KEITIMAS
 
 
 
-### 8 straipsnis. Apskričių ir savivaldybių pavadinimai
+### 8 straipsnis. Apskričių ir savivaldybių pavadinimai ^s-9ffa71286e1d36de84e345aa
 
 
 Apskritims pavadinimus suteikia ir juos keičia Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu.
@@ -392,7 +398,7 @@ Savivaldybėms pavadinimus Lietuvos Respublikos Vyriausybės teikimu suteikia ir
 
 
 
-### 9 straipsnis. Pavadinimų ir statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas
+### 9 straipsnis. Pavadinimų ir statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas ^s-f77282f2fa143b98374ce6c2
 
 
 Gyvenamosios vietovės pavadinimą sudaro gyvenamosios vietovės vardas ir jos tipas (miestas, miestelis, kaimas, viensėdis). Gyvenamosioms vietovėms pavadinimus, atsižvelgdama į savivaldybės tarybos siūlymą, pateiktą įvertinus vietos gyventojų nuomonę, suteikia ir keičia Lietuvos Respublikos Vyriausybė.
@@ -428,7 +434,7 @@ Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
 
 
-### 10 straipsnis. Gyvenamųjų vietovių nustatymas ir panaikinimas, jų teritorijų ribų nustatymas ir keitimas
+### 10 straipsnis. Gyvenamųjų vietovių nustatymas ir panaikinimas, jų teritorijų ribų nustatymas ir keitimas ^s-8b3102702bf28805c1ae4f86
 
 
 Gyvenamąsias vietoves nustato ir panaikina, jų teritorijų ribas nustato ir keičia Lietuvos Respublikos Vyriausybė, atsižvelgdama į savivaldybės tarybos siūlymą, pateiktą įvertinus vietos gyventojų nuomonę.
@@ -440,14 +446,14 @@ Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. [[latest/TAR
 
 
 
-## V SKYRIUS
+## V SKYRIUS ^s-19da408271d3840f2eebc929
 LIETUVOS RESPUBLIKOS TERITORIJOS ADMINISTRACINIŲ VIENETŲ, SENIŪNIJŲ IR GYVENAMŲJŲ VIETOVIŲ REGISTRAVIMAS IR APSKAITA
 Pakeistas skyriaus pavadinimas:
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/TAR.DE37D2EF2CDC|1041010ISTA0IX-2423]]
 
 
 
-### 11 straipsnis. Neteko galios nuo 2027-01-01
+### 11 straipsnis. Neteko galios nuo 2027-01-01 ^s-bc27e19fbb3499fa97d788d7
 Straipsnio naikinimas:
 Nr. XV-966, 2026-05-19, paskelbta TAR 2026-05-22, i. k. 2026-08625
 Straipsnio pakeitimai:
@@ -455,7 +461,7 @@ Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/
 
 
 
-### 12 straipsnis. Neteko galios nuo 2027-01-01
+### 12 straipsnis. Neteko galios nuo 2027-01-01 ^s-0ea5623e148c6cbeeb128eb0
 Straipsnio naikinimas:
 Nr. XV-966, 2026-05-19, paskelbta TAR 2026-05-22, i. k. 2026-08625
 Straipsnio pakeitimai:
@@ -463,7 +469,7 @@ Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/
 
 
 
-### 121 straipsnis. Sodininkų bendrijų registravimas ir duomenų apie jų teritorijų ribas įrašymas
+### 121 straipsnis. Sodininkų bendrijų registravimas ir duomenų apie jų teritorijų ribas įrašymas ^s-b59821c13a0c2df05938205a
 
 
 Sodininkų bendrijos registruojamos Juridinių asmenų registro informacinėje sistemoje, o duomenys apie jų teritorijų ribas įrašomi į Nekilnojamojo turto registrų informacinę sistemą šios informacinės sistemos nuostatuose nustatyta tvarka.
@@ -474,7 +480,7 @@ Nr. XV-966, 2026-05-19, paskelbta TAR 2026-05-22, i. k. 2026-08625
 
 
 
-### 13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas
+### 13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas ^s-b016ebb5777c1f2a7095c3e3
 
 
 Pasiūlymus steigti naujas savivaldybes, panaikinti esamas savivaldybes, nustatyti ir keisti jų teritorijų ribas ir centrus Lietuvos Respublikos Vyriausybei turi teisę teikti gyventojų iniciatyvinė grupė ir savivaldybės taryba. Gyventojų iniciatyvinės grupės sudarymo ir pasiūlymų teikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
@@ -498,18 +504,18 @@ Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. [[latest/TA
 
 
 
-## VI SKYRIUS
+## VI SKYRIUS ^s-fa546d2d4cc3d898777d4c20
 BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 14 straipsnis. Įstatymo įgyvendinimas
+### 14 straipsnis. Įstatymo įgyvendinimas ^s-3aa5b4915e15809e74eb14ff
 
 
 Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo įgyvendinimo“.
 
 
-Šio įstatymo 4 straipsnio 2 dalyje nurodytos savivaldybės steigiamos ir 4 bei [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnių]] nuostatos įgyvendinamos pagal Teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymą.
+Šio įstatymo 4 straipsnio 2 dalyje nurodytos savivaldybės steigiamos ir 4 bei [[#^s-b4cae5283d6d8efa1b20598f|5 straipsnių]] nuostatos įgyvendinamos pagal [[latest/TAR.E2D9EFEC4ED0|Teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo]] įgyvendinimo įstatymą.
 
 
 Straipsnio pakeitimai:
@@ -517,7 +523,7 @@ Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. [[lates
 
 
 
-### 15 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+### 15 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ^s-7c048a7c9c6b3ac6cfeb2b86
 
 
 Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1999 m. birželio 30 d. patvirtinti vietos gyventojų apklausos tvarką.
@@ -543,84 +549,89 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. [[latest/TAR.A59537EBF065|0951010ISTA00I-1040]]
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#9 straipsnis. Pavadinimų ir statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas|9 straipsnio]] papildymo
+[[latest/TAR.A59537EBF065|Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-316, 1997-06-26, Žin., 1997, Nr. 65-1544 (1997-07-09), i. k. [[latest/TAR.EA97A70D2C58|0971010ISTAVIII-316]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.EA97A70D2C58|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. [[latest/TAR.CD9600D64819|0991010ISTAIII-1163]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnių]] pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas
+[[latest/TAR.CD9600D64819|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas]]
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. [[latest/TAR.E2D9EFEC4ED0|0991010ISTAIII-1492]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, [[#14 straipsnis. Įstatymo įgyvendinimas|14 straipsnių]] papildymo ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.E2D9EFEC4ED0|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymas]]
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. [[latest/TAR.011034D153F2|1011010ISTA00IX-299]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 9 ir [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnių]] papildymo įstatymas
+[[latest/TAR.011034D153F2|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 9 ir 13 straipsnių papildymo įstatymas]]
 
 6.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, [[#14 straipsnis. Įstatymo įgyvendinimas|14 straipsnių]] papildymo ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnio]] pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, [[#14 straipsnis. Įstatymo įgyvendinimas|14 straipsnių]] papildymo ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnių]] pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnių]] pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsniams]] ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
+Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir [[#^s-b4cae5283d6d8efa1b20598f|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei [[#^s-b016ebb5777c1f2a7095c3e3|13 straipsniams]] ir [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. [[latest/TAR.949C92EAC54A|1021010ISTA0IX-1101]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir [[#5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos|5 straipsnių]] pakeitimo įstatymas
+[[latest/TAR.949C92EAC54A|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymas]]
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1839, 2003-11-20, Žin., 2003, Nr. 115-5194 (2003-12-10), i. k. [[latest/TAR.98046A98122F|1031010ISTA0IX-1839]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#9 straipsnis. Pavadinimų ir statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas|9 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.98046A98122F|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas]]
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. [[latest/TAR.DE37D2EF2CDC|1041010ISTA0IX-2423]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnių]] pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas
+[[latest/TAR.DE37D2EF2CDC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas]]
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. [[latest/TAR.B8F76AB69207|1051010ISTA000X-307]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnių]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.B8F76AB69207|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, 13 straipsnių pakeitimo ir papildymo įstatymas]]
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1240, 2007-06-28, Žin., 2007, Nr. 81-3315 (2007-07-21), i. k. [[latest/TAR.A1C0E416F69E|1071010ISTA00X-1240]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas
+[[latest/TAR.A1C0E416F69E|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas]]
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. [[latest/TAR.2B506D8AF441|1091010ISTA00XI-206]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnių]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.2B506D8AF441|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 13 straipsnių pakeitimo ir papildymo įstatymas]]
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. [[latest/TAR.7B015BF16A07|1101010ISTA00XI-709]]
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, [[#13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas|13 straipsnių]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.7B015BF16A07|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas]]
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3, [[#9 straipsnis. Pavadinimų ir statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas|9 straipsnių]] pakeitimo ir Įstatymo papildymo 7-2, 12-1 straipsniais įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3, [[#^s-f77282f2fa143b98374ce6c2|9 straipsnių]] pakeitimo ir Įstatymo papildymo 7-2, 12-1 straipsniais įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 [[#7 straipsnis. Savivaldybių steigimas, jų ribų nustatymas ir keitimas|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 [[#^s-8a68748eeb42cd77dbe17018|7 straipsnio]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-924, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01290
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 1 ir [[#3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių bei sodininkų bendrijų teritorijų samprata|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 1 ir [[#^s-bb5ddf3844a1b439506bdc4d|3 straipsnių]] pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-966, 2026-05-19, paskelbta TAR 2026-05-22, i. k. 2026-08625
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3-1, 7-1, 12-1 straipsnių pakeitimo ir 11, [[#12 straipsnis. Neteko galios nuo 2027-01-01|12 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3-1, 7-1, 12-1 straipsnių pakeitimo ir 11, [[#^s-0ea5623e148c6cbeeb128eb0|12 straipsnių]] pripažinimo netekusiais galios įstatymas
+
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-1069, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11523
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 7 ir 7-2 straipsnių pakeitimo įstatymas

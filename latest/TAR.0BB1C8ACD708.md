@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0BB1C8ACD708"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.0BB1C8ACD708.md"
 latest_sha256: "977807c026efbe697389d4fa2f878c7595ca4abf860d29436dcb830f84fc7f0c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0BB1C8ACD708]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0BB1C8ACD708.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0BB1C8ACD708
+- Ryšiai: [[Ryšiai/TAR.0BB1C8ACD708|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio  2 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio  2 dalies pakeitimas ^s-b24f26886b41b3c4e97c9962
 
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-7723905ee36408dbcdc52473
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

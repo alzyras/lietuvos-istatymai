@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.348B9DD92898"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 6, 17, 19 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 6, 17, 19 ir 26 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 6, 17, 19 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-26"
 latest_path: "latest/TAR.348B9DD92898.md"
 latest_sha256: "b3ef519edaa2384e554806d5c7483f985eea532eb11350dad102ff6a97d208de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.348B9DD92898]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6, 17, 19 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.348B9DD92898.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.348B9DD92898
+- Ryšiai: [[Ryšiai/TAR.348B9DD92898|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 5 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 5 punkto pakeitimas ^s-bf87a31183407f2c7ac0030b
 
 
 6 straipsnio 5 punkte po žodžio „įstaigų“ įrašyti žodį „šeimynų“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 17 straipsnio 23 punkto pakeitimas
+### 2 straipsnis. 17 straipsnio 23 punkto pakeitimas ^s-74706d44d7f975ae93a6c91b
 
 
 17 straipsnio 23 punkte po žodžių „savivaldybės įmonių“ įrašyti žodžius „bei šeimynų“, po žodžių „dėl šių įstaigų ir įmonių“ įrašyti žodžius „bei šeimynų“, po žodžio „reorganizavimo“ įrašyti žodį „pertvarkymo“, po žodžio „reorganizuojant“ įrašyti žodį „pertvarkant“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 19 straipsnio 1 dalies 13 punkto pakeitimas
+### 3 straipsnis. 19 straipsnio 1 dalies 13 punkto pakeitimas ^s-2005adce751f5382d3e8aa3b
 
 
 19 straipsnio 1 dalies 13 punkte po žodžio „įstaigas“ įrašyti žodį „šeimynas“ bei po žodžio „jas“ įrašyti žodį „pertvarkyti“ ir šį punktą išdėstyti taip:
@@ -61,7 +66,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 26 straipsnio 1 dalies pakeitimas ^s-a4e419e4d19a9370c82820b9
 
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:

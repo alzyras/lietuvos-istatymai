@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EEEDA1F6DC44"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 66 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 66 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 66 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-03-15"
 latest_path: "latest/TAR.EEEDA1F6DC44.md"
 latest_sha256: "5d211b7f6452b4248d8f4ee3253920ecdc8b43ebcad00cf3cfc6bb4d8c81b6de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EEEDA1F6DC44]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 66 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EEEDA1F6DC44.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EEEDA1F6DC44
+- Ryšiai: [[Ryšiai/TAR.EEEDA1F6DC44|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 66 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 66 straipsnio 1 dalies pakeitimas ^s-e8e9ea134af29f0217a80b79
 
 
 Pakeisti 66 straipsnio 1 dalį ir ją išdėstyti taip:

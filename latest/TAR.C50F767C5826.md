@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C50F767C5826"
 pavadinimas: "Lietuvos Respublikos šilumos ūkio įstatymo 3 ir 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šilumos ūkio įstatymo 3 ir 10 straipsnių pakeitimo įstatymas"
+  - "šilumos ūkio įstatymo 3 ir 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-03-26"
 latest_path: "latest/TAR.C50F767C5826.md"
 latest_sha256: "a590661c21a7e5cc26f5f61acd6350bfa0b0277fc20dcc8c99fcf363f2808ea1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C50F767C5826]]"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 3 ir 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C50F767C5826.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C50F767C5826
+- Ryšiai: [[Ryšiai/TAR.C50F767C5826|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,17 +38,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-4492610eae60b6e00bb53131
 
 
-Pakeisti [[#^3feb7e526a1c14044b47b4aa|3 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-17f13bedfab877be2fa0e607|3 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Šilumos gamyba grindžiama šilumos gamintojų konkurencija. Siekiant užtikrinti konkurenciją tarp šilumos gamintojų, Valstybinė kainų ir energetikos kontrolės komisija tvirtina Naudojimosi šilumos perdavimo tinklais sąlygų sąvadą, privalomą visiems asmenims, kurie verčiasi energetikos veikla šilumos energijos sektoriuje, įskaitant asmenis, ketinančius plėtoti šilumos energijos gamybą ir prisijungti prie šilumos perdavimo tinklų.“
 
 
 
-### 2 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-c83c27f24ad931ba9b3b7397
 
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -53,16 +58,16 @@ Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-cec2a8f06a38edcd7e53a0f5
 
 
-1. Šio įstatymo [[#1 straipsnis. 3 straipsnio 2 dalies pakeitimas|1 straipsnis]] įsigalioja 2013 m. liepos 1 d. ^0afd11ec346dc9de0fe12c50
+1. Šio įstatymo [[#^s-4492610eae60b6e00bb53131|1 straipsnis]] įsigalioja 2013 m. liepos 1 d. ^s-fbd0d303f76b8a5f450bd3e1
 
 
-2. Šio įstatymo [[#2 straipsnis. 10 straipsnio 1 dalies pakeitimas|2 straipsnis]] įsigalioja 2013 m. balandžio 1 d. ^3feb7e526a1c14044b47b4aa
+2. Šio įstatymo [[#^s-c83c27f24ad931ba9b3b7397|2 straipsnis]] įsigalioja 2013 m. balandžio 1 d. ^s-17f13bedfab877be2fa0e607
 
 
-3. Valstybinė kainų ir energetikos kontrolės komisija patvirtina šio įstatymo įgyvendinamuosius teisės aktus iki atitinkamų šio įstatymo teisės normų įsigaliojimo. ^7e28b0645f871e9ce421582a
+3. Valstybinė kainų ir energetikos kontrolės komisija patvirtina šio įstatymo įgyvendinamuosius teisės aktus iki atitinkamų šio įstatymo teisės normų įsigaliojimo. ^s-af41f646a2f46f52ef3ba00d
 
 
 

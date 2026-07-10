@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.81565E539CBC"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 34 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 34 straipsnio pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo 34 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-03"
 latest_path: "latest/TAR.81565E539CBC.md"
 latest_sha256: "2b2041e4425e1a3d3de6fd7b87ec84f0d9588b80459cc1e822fe91cf83749a92"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.81565E539CBC]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 34 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.81565E539CBC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.81565E539CBC
+- Ryšiai: [[Ryšiai/TAR.81565E539CBC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 34 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 34 straipsnio 1 dalies pakeitimas ^s-dd76cd7c9c4f6daf127b6eec
 
 
 34 straipsnio 1 dalyje išbraukti žodžius „prie Lietuvos Respublikos Seimo“ ir šią dalį išdėstyti taip:

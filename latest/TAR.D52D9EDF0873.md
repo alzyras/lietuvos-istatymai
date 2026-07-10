@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D52D9EDF0873"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo papildymo 125(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo papildymo 125(1) straipsniu įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo papildymo 125(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-01"
 latest_path: "latest/TAR.D52D9EDF0873.md"
 latest_sha256: "4a31f22f98093d11dfa8c2afbe116bcdf32b57d78990f01df29e36aab8b84221"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D52D9EDF0873]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo papildymo 125(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D52D9EDF0873.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D52D9EDF0873
+- Ryšiai: [[Ryšiai/TAR.D52D9EDF0873|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 1251 straipsniu
+### 1 straipsnis. Įstatymo papildymas 1251 straipsniu ^s-27929664aff9c9d532141880
 
 
 Papildyti Įstatymą 1251 straipsniu:
@@ -44,7 +49,7 @@ PVM, apskaičiuotas už šilumos energiją, tiekiamą gyvenamosioms patalpoms š
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-368ba6a77cb0a48b50278ffd
 
 
 Šis įstatymas taikomas nuo 2004 m. liepos 1 d. tiekiamai šilumos energijai ir karštam vandeniui arba šaltam vandeniui, skirtam karštam vandeniui paruošti, bei šilumos energijai, sunaudotai šiam vandeniui pašildyti.

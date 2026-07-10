@@ -11,7 +11,7 @@
   "latest_revision": "2011-12-08",
   "latest_sha256": "c88f9829490f581d46de3807d58f624a119214d213e8f374649cb92f12fade62",
   "metadata_path": "latest/TAR.ADB2EB25A2BB.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

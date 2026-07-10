@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9039A758A526"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso 95 straipsnio pakeitimo bei papildymo, Kodekso papildymo 170-2 straipsniu ir Kodekso priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso 95 straipsnio pakeitimo bei papildymo, Kodekso papildymo 170-2 straipsniu ir Kodekso priedo papildymo įstatymas"
+  - "baudžiamojo kodekso 95 straipsnio pakeitimo bei papildymo, Kodekso papildymo 170-2 straipsniu ir Kodekso priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-29"
 latest_path: "latest/TAR.9039A758A526.md"
 latest_sha256: "b9f681e668766b50666ac86a4449070690d810a9c6fddfeba00ca05db7528692"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9039A758A526]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 95 straipsnio pakeitimo bei papildymo, Kodekso papildymo 170-2 straipsniu ir Kodekso priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9039A758A526.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9039A758A526
+- Ryšiai: [[Ryšiai/TAR.9039A758A526|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 95 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 95 straipsnio pakeitimas ir papildymas ^s-cedb48cc1e729f0d0a115914
 
 
 Pakeisti ir papildyti 95 straipsnį ir jį išdėstyti taip:
@@ -44,10 +49,10 @@ Pakeisti ir papildyti 95 straipsnį ir jį išdėstyti taip:
 „95 straipsnis. Apkaltinamojo nuosprendžio priėmimo senatis
 
 
-1. Asmeniui, padariusiam nusikalstamą veiką, negali būti priimtas apkaltinamasis nuosprendis, jeigu: ^c5300ae06b269f1b12bf0262
+1. Asmeniui, padariusiam nusikalstamą veiką, negali būti priimtas apkaltinamasis nuosprendis, jeigu: ^s-b4b5183cc5914fe3132e899c
 
 
-1) praėję: ^62528d7a2c3c7f595ff9608c
+1) praėję: ^s-482bed201225a879d77f0e67
 
 
 a) treji metai, kai buvo padarytas baudžiamasis nusižengimas;
@@ -68,77 +73,77 @@ e) dvidešimt penkeri metai, kai buvo padarytas labai sunkus nusikaltimas;
 f)  trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito žmogaus gyvybės atėmimu;
 
 
-2) per [[#^62528d7a2c3c7f595ff9608c|šio straipsnio 1 dalies 1 punkte]] nustatytą laiką asmuo nesislėpė nuo ikiteisminio tyrimo ar teismo ir nepadarė naujos tyčinės nusikalstamos veikos. ^bf1893782f97a3d4a2e805e3
+2) per [[#^s-482bed201225a879d77f0e67|šio straipsnio 1 dalies 1 punkte]] nustatytą laiką asmuo nesislėpė nuo ikiteisminio tyrimo ar teismo ir nepadarė naujos tyčinės nusikalstamos veikos. ^s-7d0ca895a81c2f28daeccdec
 
 
-2. Senaties terminas skaičiuojamas nuo nusikalstamos veikos padarymo iki nuosprendžio priėmimo dienos. ^0f9b025a6f209a538a1cede2
+2. Senaties terminas skaičiuojamas nuo nusikalstamos veikos padarymo iki nuosprendžio priėmimo dienos. ^s-a35b69669480d862cd257844
 
 
-3. Jeigu nuo šio kodekso XVIII, XX, XXI, XXIII ir XLIV skyriuose numatytų nusikalstamų veikų nukentėjo nepilnametis, senaties terminas negali baigtis anksčiau, negu šiam asmeniui sueina dvidešimt penkeri metai. ^dd5bde6b6222b9284182bc1b
+3. Jeigu nuo šio kodekso XVIII, XX, XXI, XXIII ir XLIV skyriuose numatytų nusikalstamų veikų nukentėjo nepilnametis, senaties terminas negali baigtis anksčiau, negu šiam asmeniui sueina dvidešimt penkeri metai. ^s-5c06d0191f4c748a847fcccb
 
 
-4. Jeigu nusikalstamą veiką padaręs asmuo pasislėpė nuo ikiteisminio tyrimo ar teismo, senaties eiga sustoja. Senaties eiga atsinaujina nuo tos dienos, kurią asmuo sulaikomas arba kurią jis pats atvyksta pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą. Tačiau apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo to laiko, kai asmuo padarė nusikalstamą veiką, praėjo dvidešimt penkeri metai, o nuo to laiko, kai padarė nusikaltimą, susijusį su tyčiniu kito žmogaus gyvybės atėmimu, – trisdešimt metų ir senaties eiga nenutrūko dėl naujos tyčinės nusikalstamos veikos padarymo. ^d86c528adce8786e0906a824
+4. Jeigu nusikalstamą veiką padaręs asmuo pasislėpė nuo ikiteisminio tyrimo ar teismo, senaties eiga sustoja. Senaties eiga atsinaujina nuo tos dienos, kurią asmuo sulaikomas arba kurią jis pats atvyksta pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą. Tačiau apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo to laiko, kai asmuo padarė nusikalstamą veiką, praėjo dvidešimt penkeri metai, o nuo to laiko, kai padarė nusikaltimą, susijusį su tyčiniu kito žmogaus gyvybės atėmimu, – trisdešimt metų ir senaties eiga nenutrūko dėl naujos tyčinės nusikalstamos veikos padarymo. ^s-296d5ee3644f4a5eda44fb21
 
 
-5. Bylos nagrinėjimo teisme metu senaties eiga sustoja laikotarpiui, kuriam: ^402e88b3a495a4293ea13a8a
+5. Bylos nagrinėjimo teisme metu senaties eiga sustoja laikotarpiui, kuriam: ^s-232c97395c9793d1d978136c
 
 
-1) teismas paskelbia nagrinėjimo teisme pertrauką ar bylos nagrinėjimą atideda dėl kaltinamojo ar jo gynėjo nedalyvavimo; ^e8347ef55c8d70afabbd3759
+1) teismas paskelbia nagrinėjimo teisme pertrauką ar bylos nagrinėjimą atideda dėl kaltinamojo ar jo gynėjo nedalyvavimo; ^s-f2c3e540de619ffb0de58c51
 
 
-2) teismas paskelbia nagrinėjimo teisme pertrauką, kol bus atlikta teismo paskirta ekspertizė, specialisto tyrimas ar bus įvykdytas teisinės pagalbos prašymas užsienio valstybei; ^b938749aae41ee9309b18243
+2) teismas paskelbia nagrinėjimo teisme pertrauką, kol bus atlikta teismo paskirta ekspertizė, specialisto tyrimas ar bus įvykdytas teisinės pagalbos prašymas užsienio valstybei; ^s-44c9a399354914e666a61abd
 
 
-3) teismas paskelbia nagrinėjimo teisme pertrauką ir paveda prokurorui ar ikiteisminio tyrimo teisėjui atlikti Lietuvos Respublikos baudžiamojo proceso kodekse numatytus procesinius veiksmus; ^7835bb70e6db38fad7e672ee
+3) teismas paskelbia nagrinėjimo teisme pertrauką ir paveda prokurorui ar ikiteisminio tyrimo teisėjui atlikti [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]] numatytus procesinius veiksmus; ^s-66cfea59308e82bf567dacae
 
 
-4) teismas paskelbia nagrinėjimo teisme pertrauką naujai pakviestam kaltinamojo gynėjui susipažinti su bylos medžiaga. ^ff87840af4b34bf2d79409f1
+4) teismas paskelbia nagrinėjimo teisme pertrauką naujai pakviestam kaltinamojo gynėjui susipažinti su bylos medžiaga. ^s-5f51461494168fe71f30d3e1
 
 
-6. [[#^402e88b3a495a4293ea13a8a|Šio straipsnio 5 dalyje]] numatytais atvejais apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo senaties termino pradžios praėjo penkeriais metais ilgesnis terminas, negu numatyta [[#^c5300ae06b269f1b12bf0262|šio straipsnio 1 dalyje]]. ^38d9265e3b61005443d300f4
+6. [[#^s-232c97395c9793d1d978136c|Šio straipsnio 5 dalyje]] numatytais atvejais apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo senaties termino pradžios praėjo penkeriais metais ilgesnis terminas, negu numatyta [[#^s-b4b5183cc5914fe3132e899c|šio straipsnio 1 dalyje]]. ^s-bb4e5ca8ee78473008bd7a11
 
 
-7. Jeigu asmuo iki šiame straipsnyje nurodytų terminų pabaigos padaro naują tyčinę  nusikalstamą veiką, senaties eiga nutrūksta. Šiuo atveju senaties eiga už pirmą nusikalstamą veiką pradedama skaičiuoti nuo tos dienos, kurią buvo padarytas naujas tyčinis nusikaltimas ar baudžiamasis nusižengimas. ^9d9f9cfa255e254c49f86331
+7. Jeigu asmuo iki šiame straipsnyje nurodytų terminų pabaigos padaro naują tyčinę  nusikalstamą veiką, senaties eiga nutrūksta. Šiuo atveju senaties eiga už pirmą nusikalstamą veiką pradedama skaičiuoti nuo tos dienos, kurią buvo padarytas naujas tyčinis nusikaltimas ar baudžiamasis nusižengimas. ^s-fc177baa5ff41353cb3e9b80
 
 
-8.  Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse: ^b44a2115034a090878c74a6a
+8.  Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse: ^s-10f92bf321fdd0746499a602
 
 
-1) genocidui (99 straipsnis); ^ba6efb8b0fc193f160eeb326
+1) genocidui (99 straipsnis); ^s-f44af94ab406b7a8e248b8bd
 
 
-2) tarptautinės teisės draudžiamam elgesiui su žmonėmis (100 straipsnis); ^fcc69e5d47d9dd48abf022e4
+2) tarptautinės teisės draudžiamam elgesiui su žmonėmis (100 straipsnis); ^s-545621725a708df6c41991ea
 
 
-3) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis); ^e9f747c290030a951a42c3e6
+3) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis); ^s-c420cba0c4881d1117d5ffc7
 
 
-4) okupuotos valstybės civilių trėmimui ar okupavusios valstybės civilių gyventojų perkėlimui (102 straipsnis); ^4908f2c979f6d77c0dcf0ce3
+4) okupuotos valstybės civilių trėmimui ar okupavusios valstybės civilių gyventojų perkėlimui (102 straipsnis); ^s-0988576d816db8e5a56a2038
 
 
-5) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais (103 straipsnis); ^4b9adf122a573618ea596e2c
+5) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais (103 straipsnis); ^s-d0beb2bece41085dd301631b
 
 
-6) tarptautinės humanitarinės teisės normų dėl civilių ir jų turto apsaugos karo metu pažeidimui (104 straipsnis); ^f15727cc99fd4c646c9648aa
+6) tarptautinės humanitarinės teisės normų dėl civilių ir jų turto apsaugos karo metu pažeidimui (104 straipsnis); ^s-0105f41107ef2f3c4b24b6d1
 
 
-7) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis); ^96af51f20b716339a32d8a67
+7) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis); ^s-9231fb32116f9410f653de2c
 
 
-8) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis); ^f9bd1b794aeafe224abc6dc5
+8) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis); ^s-5e23dcd8add7ee9e8b9204cd
 
 
-9) agresijai (110 straipsnis); ^f87fdd35d0ab0027e5130342
+9) agresijai (110 straipsnis); ^s-d244339a877440251e6c9b01
 
 
-10) draudžiamai karo atakai (111 straipsnis); ^70da5b5d4e6aeddc1f850558
+10) draudžiamai karo atakai (111 straipsnis); ^s-8ac011707741ac40f265e041
 
 
-11) uždraustų karo priemonių naudojimui (112 straipsnis).“ ^96b4f3d63ff93c1d94894ba3
+11) uždraustų karo priemonių naudojimui (112 straipsnis).“ ^s-046f1a38269d1820eaf48df7
 
 
 
-### 2 straipsnis. Kodekso papildymas 1702 straipsniu
+### 2 straipsnis. Kodekso papildymas 1702 straipsniu ^s-9d844950b1c89fccbb7cef70
 
 
 Papildyti Kodeksą 1702 straipsniu:
@@ -148,15 +153,15 @@ Papildyti Kodeksą 1702 straipsniu:
 „1702 straipsnis. Viešas pritarimas tarptautiniams nusikaltimams, SSRS ar nacistinės Vokietijos nusikaltimams Lietuvos Respublikai ar jos gyventojams, jų neigimas ar šiurkštus menkinimas
 
 
-1. Tas, kas viešai pritarė Lietuvos Respublikos ar Europos Sąjungos teisės aktais arba įsiteisėjusiais Lietuvos Respublikos ar tarptautinių teismų sprendimais pripažintiems genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka, taip pat tas, kas viešai pritarė SSRS ar nacistinės Vokietijos įvykdytai agresijai prieš Lietuvos Respubliką, SSRS ar nacistinės Vokietijos įvykdytiems Lietuvos Respublikos teritorijoje ar prieš Lietuvos Respublikos gyventojus genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, arba 1990–1991 metais įvykdytiems kitiems agresiją prieš Lietuvos Respubliką vykdžiusių ar joje dalyvavusių asmenų labai sunkiems ar sunkiems nusikaltimams Lietuvos Respublikai arba labai sunkiems nusikaltimams Lietuvos Respublikos gyventojams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka, ^2bdfaa788ff2482cd099eeea
+1. Tas, kas viešai pritarė Lietuvos Respublikos ar Europos Sąjungos teisės aktais arba įsiteisėjusiais Lietuvos Respublikos ar tarptautinių teismų sprendimais pripažintiems genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka, taip pat tas, kas viešai pritarė SSRS ar nacistinės Vokietijos įvykdytai agresijai prieš Lietuvos Respubliką, SSRS ar nacistinės Vokietijos įvykdytiems Lietuvos Respublikos teritorijoje ar prieš Lietuvos Respublikos gyventojus genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, arba 1990–1991 metais įvykdytiems kitiems agresiją prieš Lietuvos Respubliką vykdžiusių ar joje dalyvavusių asmenų labai sunkiems ar sunkiems nusikaltimams Lietuvos Respublikai arba labai sunkiems nusikaltimams Lietuvos Respublikos gyventojams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka, ^s-c10bb22d4f6375052af664f5
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“ ^640ef9f047ee21bf749165ff
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“ ^s-996aaccc46921fcf3fcdfa15
 
 
 
-### 3 straipsnis. Kodekso priedo papildymas 20 punktu
+### 3 straipsnis. Kodekso priedo papildymas 20 punktu ^s-4412e0e50aa0c7c3f99111cd
 
 
 Papildyti Kodekso priedą 20 punktu:

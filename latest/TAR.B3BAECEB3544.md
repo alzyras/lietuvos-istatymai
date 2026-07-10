@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B3BAECEB3544"
 pavadinimas: "Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 7, 9, 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 7, 9, 10 straipsnių pakeitimo įstatymas"
+  - "mokesčių už valstybinius gamtos išteklius įstatymo 7, 9, 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-01"
 latest_path: "latest/TAR.B3BAECEB3544.md"
 latest_sha256: "4e1498f9e2ed2c83f3b4a20a2bbdd0b0c2d1a38e746027ba5f64ef54715f04b5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B3BAECEB3544]]"
 ---
 # Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 7, 9, 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B3BAECEB3544.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B3BAECEB3544
+- Ryšiai: [[Ryšiai/TAR.B3BAECEB3544|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio pakeitimas
+### 1 straipsnis. 7 straipsnio pakeitimas ^s-96854622a0d9fa1a4700b18a
 
 
 7 straipsnio pirmajame sakinyje vietoj žodžio „departamentas“ įrašyti žodį „ministerija“, antrajame sakinyje vietoj žodžių „ekonominė sankcija“ įrašyti žodį „bauda“ ir straipsnį išdėstyti taip:
@@ -40,7 +45,7 @@ Vilnius
 „7 straipsnis. Aplinkos apsaugos ministerija kontroliuoja mokesčių apskaičiavimo teisingumą. Už nuslėptą išteklių kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio bauda.“
 
 
-### 2 straipsnis. 9 straipsnio pakeitimas
+### 2 straipsnis. 9 straipsnio pakeitimas ^s-684d504833888415c53387b6
 
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
@@ -49,7 +54,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 „9 straipsnis. Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
 
 
-### 3 straipsnis. 10 straipsnio pakeitimas
+### 3 straipsnis. 10 straipsnio pakeitimas ^s-b158d09e5cff98a520491609
 
 
 10 straipsnyje vietoj žodžių „už kiekvieną pavėluotą dieną imami 0,5 procento delspinigiai“ įrašyti žodžius „imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka“ ir straipsnį išdėstyti taip:
@@ -58,7 +63,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 „10 straipsnis. Mokesčio laiku nesumokėjus, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-079d855dab9addeb55834630
 
 
 Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.

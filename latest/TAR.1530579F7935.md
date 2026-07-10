@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1530579F7935"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 28 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 28 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 28 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.1530579F7935.md"
 latest_sha256: "b85943b782a335e49b6f1485d872cea58ed83d603e480e8e908861d3641a4502"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1530579F7935]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 28 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1530579F7935.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1530579F7935
+- Ryšiai: [[Ryšiai/TAR.1530579F7935|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio 2 dalies 9 punkto pakeitimas
+### 1 straipsnis. 28 straipsnio 2 dalies 9 punkto pakeitimas ^s-8122ce7cc16fc489a4c92acf
 
 
 28 straipsnio 2 dalies 9 punkte vietoj žodžio „nusikaltimo“ įrašyti žodžius „nusikalstamos veikos“ ir šį punktą išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-60660522af83af4522381705
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A1D18BB4FFCD"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas"
+  - "sveikatos draudimo įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.A1D18BB4FFCD.md"
 latest_sha256: "e8897ccb87d866a81fc1cd54fdf064ef88fda722a57185231de14bf75ae2be7b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A1D18BB4FFCD]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A1D18BB4FFCD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A1D18BB4FFCD
+- Ryšiai: [[Ryšiai/TAR.A1D18BB4FFCD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas 10 dalimi
+### 1 straipsnis. 2 straipsnio papildymas 10 dalimi ^s-40552897dd7d257d8503de5a
 
 
 Papildyti 2 straipsnį 10 dalimi:
@@ -43,7 +48,7 @@ Papildyti 2 straipsnį 10 dalimi:
 
 
 
-### 2 straipsnis. 17 straipsnio 7 dalies pakeitimas
+### 2 straipsnis. 17 straipsnio 7 dalies pakeitimas ^s-a458c138eb1ad19de2c9b632
 
 
 Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-c010fc4685973e0c10a8975e
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.472225A22370"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 20 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 20 straipsnių pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 ir 20 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.472225A22370.md"
 latest_sha256: "28cb6cd4f4bb4fa9198f124d7fb6a125d0a421e99701db0488a75f18a5b75500"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.472225A22370]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 20 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.472225A22370.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.472225A22370
+- Ryšiai: [[Ryšiai/TAR.472225A22370|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies 23 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 1 dalies 23 punkto pakeitimas ^s-c3131f9db8fe736b9dd1b948
 
 
 Pakeisti 17 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
@@ -43,13 +48,13 @@ Pakeisti 17 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 20 straipsnio 1, 2, 4, 5, 6, 7 ir 12 dalių pakeitimas
+### 2 straipsnis. 20 straipsnio 1, 2, 4, 5, 6, 7 ir 12 dalių pakeitimas ^s-f2d914aade0f21f74a54b578
 
 
-1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip: ^861af5ec0201940b97099d46
+1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip: ^s-964ed2af951cc7b7f1503aa5
 
 
-„1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei [[#^56e8fe90db97afa9707f1fde|šio straipsnio 6 dalyje]] nenustatyta kitaip, negali būti didesnis negu 5 640 litų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija 9 600 litų. Jeigu GMP viršija 9 600 litų, MNPD, jei [[#^56e8fe90db97afa9707f1fde|šio straipsnio 6 dalyje]] nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+„1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei [[#^s-64b57aae97241dd64c1d7170|šio straipsnio 6 dalyje]] nenustatyta kitaip, negali būti didesnis negu 5 640 litų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija 9 600 litų. Jeigu GMP viršija 9 600 litų, MNPD, jei [[#^s-64b57aae97241dd64c1d7170|šio straipsnio 6 dalyje]] nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
@@ -59,14 +64,14 @@ Pakeisti 17 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
 
 
 
-2. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^9e45c8de2670e7c3fff367e6
-„2. Jeigu [[#^56e8fe90db97afa9707f1fde|šio straipsnio 6 dalyje]] nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
+2. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^s-ed98afcd8412af599db94990
+„2. Jeigu [[#^s-64b57aae97241dd64c1d7170|šio straipsnio 6 dalyje]] nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos neviršija 800 litų per mėnesį, taikomas mėnesio NPD yra 470 litų; ^aa411c2cfa8464d86ee1d016
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos neviršija 800 litų per mėnesį, taikomas mėnesio NPD yra 470 litų; ^s-44fae022b67f2fb31d8c5f8d
 
 
-2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos viršija 800 litų per mėnesį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę: ^12f0069e185bf617be2dfac4
+2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos viršija 800 litų per mėnesį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę: ^s-3ebbb48abe1c58827423340e
 
 
 
@@ -76,36 +81,36 @@ Pakeisti 17 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
 
 
 
-3. 20 straipsnio 4 dalies pirmajame sakinyje po žodžių ir skaičiaus „šio straipsnio 2“ įrašyti žodžius ir skaičių „ar [[#^56e8fe90db97afa9707f1fde|6 dalies]]“ ir šią dalį išdėstyti taip: ^2070b539cc51b74ae8f7a0fd
-„4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal šio straipsnio 2 ar [[#^56e8fe90db97afa9707f1fde|6 dalies]] nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant [[#^9e45c8de2670e7c3fff367e6|šio straipsnio 2 dalies]] nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais.“
+3. 20 straipsnio 4 dalies pirmajame sakinyje po žodžių ir skaičiaus „šio straipsnio 2“ įrašyti žodžius ir skaičių „ar [[#^s-64b57aae97241dd64c1d7170|6 dalies]]“ ir šią dalį išdėstyti taip: ^s-55485f2c5efabc3a62d059f1
+„4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal šio straipsnio 2 ar [[#^s-64b57aae97241dd64c1d7170|6 dalies]] nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant [[#^s-ed98afcd8412af599db94990|šio straipsnio 2 dalies]] nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais.“
 
 
-4. 20 straipsnio 5 dalyje po santrumpos „NPD“ įrašyti žodžius „ar jo dalies“, po žodžių ir skaičiaus „šio straipsnio 2“ įrašyti žodį ir skaičių „ar 6“ ir šią dalį išdėstyti taip: ^28b72ea2d633b8b79a5b18ee
+4. 20 straipsnio 5 dalyje po santrumpos „NPD“ įrašyti žodžius „ar jo dalies“, po žodžių ir skaičiaus „šio straipsnio 2“ įrašyti žodį ir skaičių „ar 6“ ir šią dalį išdėstyti taip: ^s-f5ab14e2f78d768b0b5af805
 
 
 „5. Gyventojas turi teisę mokestiniu laikotarpiu atsisakyti NPD ar jo dalies taikymo net tuo atveju, kai jis pagal šio straipsnio 2 ar 6 dalį jam gali būti pritaikytas.“
 
 
-5. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: ^c4e6b859bf2795174353cd6f
+5. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: ^s-3d168ac4653d4acab10c8be1
 
 
-„6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 800 litų. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, ar asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 600 litų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD dydį, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal [[#^861af5ec0201940b97099d46|šio straipsnio 1 dalį]] šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.“
+„6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 800 litų. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, ar asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 600 litų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD dydį, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal [[#^s-964ed2af951cc7b7f1503aa5|šio straipsnio 1 dalį]] šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.“
 
 
-6. Pakeisti 20 straipsnio 7 dalį ir ją išdėstyti taip: ^56e8fe90db97afa9707f1fde
+6. Pakeisti 20 straipsnio 7 dalį ir ją išdėstyti taip: ^s-64b57aae97241dd64c1d7170
 
 
 „7. GMP yra lygios gyventojo mokestinio laikotarpio apmokestinamųjų pajamų, išskyrus išmokas, mokamas pasibaigus ar nutraukus gyvybės draudimo ar pensijų kaupimo sutartį, neviršijančias sumokėtų įmokų dydžio, sumai, neatėmus šio Įstatymo 21 straipsnyje nurodytų išlaidų ir gyventojui taikytino MNPD, ir metinio papildomo neapmokestinamojo pajamų dydžio (toliau – MPNPD).“
 
 
-7. Pakeisti 20 straipsnio 12 dalį ir ją išdėstyti taip: ^2a8773a30740a62884316235
+7. Pakeisti 20 straipsnio 12 dalį ir ją išdėstyti taip: ^s-69c77f4fbb4de9a5cf4a0b88
 
 
 „12. MPNPD nustatomas sudedant tėvams (įtėviams) taikytinus pagal šio straipsnio nuostatas mokestinio laikotarpio atitinkamų mėnesių PNPD.“
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-458540e064e3af4ed5b2b17f
 
 
 Šis įstatymas taikomas apskaičiuojant ir deklaruojant 2009 metų ir vėlesnių mokestinių laikotarpių pajamas.

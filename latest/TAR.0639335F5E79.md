@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0639335F5E79"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-06-30"
 latest_path: "latest/TAR.0639335F5E79.md"
 latest_sha256: "3a2b365447b1ff0a395c7e956b5a1f0a57872ccb79b773d0f221fd9ce5ee7235"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0639335F5E79]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0639335F5E79.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0639335F5E79
+- Ryšiai: [[Ryšiai/TAR.0639335F5E79|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-c18a551315c86d0d81d30401
 
 
 10 straipsnio 4 dalyje vietoj datos „2003 m. liepos 1 d.“ įrašyti datą „2003 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip:

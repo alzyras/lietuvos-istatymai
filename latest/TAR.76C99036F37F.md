@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.76C99036F37F"
 pavadinimas: "Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas"
+  - "turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-10-26"
 latest_path: "latest/TAR.76C99036F37F.md"
 latest_sha256: "b6d9adb9bd925750c5d7031d3b2c17305645611bc96ca8a3f9ab6329a43cc543"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.76C99036F37F]]"
 ---
 # Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.76C99036F37F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.76C99036F37F
+- Ryšiai: [[Ryšiai/TAR.76C99036F37F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 ir 10 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 5 ir 10 dalių pakeitimas ^s-7ec898adbf5a0fb7a04136a0
 
 
-1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^da72950db0fbd8be57e1a713
+1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-73806604eb74dc7814ffb509
 
 
 „5. Kelionės organizatorius – juridinis asmuo, kuris įstatymų nustatyta tvarka ir sąlygomis reguliariai verčiasi turizmo verslu ir tiesiogiai arba per tarpininkus (kelionių pardavimo agentus) savo vardu viešai siūlo teikti turizmo paslaugas bet kuriam asmeniui arba tam tikrai asmenų grupei.“
 
 
-2. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^5d1d50c9be202567e19fb754
+2. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^s-0e521083cdc66645c129c461
 
 
 „10. Organizuota turistinė kelionė – iš anksto už bendrą kainą parengtas arba siūlomas įsigyti turizmo paslaugų rinkinys, kurį sudaro ne mažiau kaip dvi turizmo paslaugos (apgyvendinimo, vežimo, kita esminę kelionės dalį sudaranti turizmo paslauga, nesusijusi su vežimu ar apgyvendinimu), ir jeigu ši turistinė kelionė tęsiasi ilgiau kaip 24 valandas arba į ją yra įtraukta nakvynė.“
 
 
 
-### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-ce94f1fcd4e565e061ee9470
 
 
 6 straipsnio 4 dalyje išbraukti žodžius „jei ši informacija turistui nebuvo žinoma iš jam pateikto kelionės prospekto, katalogo, kitos turistinę kelionę aprašančios medžiagos arba jei ta informacija nėra nurodyta sutartyje ar jos priede“ ir šią dalį išdėstyti taip:

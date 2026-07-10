@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C7390F65284F"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 63, 64, 66, 67, 68, 105 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 63, 64, 66, 67, 68, 105 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teismų įstatymo 63, 64, 66, 67, 68, 105 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-17"
 latest_path: "latest/TAR.C7390F65284F.md"
 latest_sha256: "a75baae0307939c54c290bd53417822cc07b6f470a4dd8e87911e84095acd646"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C7390F65284F]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 63, 64, 66, 67, 68, 105 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C7390F65284F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C7390F65284F
+- Ryšiai: [[Ryšiai/TAR.C7390F65284F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,9 +40,9 @@ Vilnius
 Nr. 17-700; 2004, Nr. 84-3042; 2006, Nr. 60-2121, Nr. 68-2493;
 2008, Nr. 81-3186; 2010, Nr. 157-7975; 2011, Nr. 67-3157)
 
-### 1 straipsnis. 63 straipsnio 6, 7 ir
+### 1 straipsnis. 63 straipsnio 6, 7 ir ^s-b888c07a0fdc3d62a9f0a6fc
 8 dalių pakeitimas
-1. Pakeisti 63 straipsnio 6 dalį ir ją išdėstyti ^38c7a6f7ad9431d9c1936109
+1. Pakeisti 63 straipsnio 6 dalį ir ją išdėstyti ^s-57c77956d36b769941d5b92c
 taip:
 „6. Teisėjo sutikimo nereikia, kai dėl laikino pobūdžio
 priežasčių (teisėjas serga, yra laisva teisėjo vieta, padidėjęs darbo krūvis
@@ -54,13 +59,13 @@ to teismo, iš kurio teisėjas perkeltas, skaičiuojamas teisėjo darbo stažas 
 paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos.
 Šioje dalyje nustatyta tvarka perkelti teisėją galima ne ilgesniam kaip
 vienerių metų laikotarpiui ir ne dažniau kaip kartą per trejus metus.“
-2. Pakeisti 63 straipsnio 7 dalį ir ją išdėstyti ^e4bf5732daedf198fab03921
+2. Pakeisti 63 straipsnio 7 dalį ir ją išdėstyti ^s-a2adea6191bbfe030c2d8593
 taip:
 „7. Šio straipsnio 5 ir 6 dalyse nustatytais
 atvejais teisėjas perkeliamas į kitą teismą laikantis šiame Įstatyme nustatytos
 teisėjo skyrimo į pareigas ir atleidimo iš pareigų tvarkos, netaikant šio
 Įstatymo 551 straipsnyje nustatytos atrankos tvarkos.“
-3. Pakeisti 63 straipsnio 8 dalį ir ją išdėstyti ^a2b5742c15995c0c5670fed5
+3. Pakeisti 63 straipsnio 8 dalį ir ją išdėstyti ^s-b54aecc22d8e61d8fb37b7ac
 taip:
 „8. Sprendžiant dėl teisėjo perkėlimo šio straipsnio 6 dalyje
 numatytais atvejais, įvertinamas perkeliamo teisėjo darbo stažas,
@@ -68,7 +73,7 @@ specializacija, šeiminė padėtis, atstumas nuo teisėjo gyvenamosios vietovės
 teismo, į kurį teisėjas yra perkeliamas, teisėjo nuomonė ir argumentai dėl
 galimo perkėlimo, taip pat kitos esminės aplinkybės.“
 
-### 2 straipsnis. 64 straipsnio papildymas
+### 2 straipsnis. 64 straipsnio papildymas ^s-ed97f1cf6314180663f290aa
 6 dalimi
 Papildyti 64 straipsnį 6 dalimi:
 „6. Šiame straipsnyje nustatyta tvarka teisėjas be atrankos
@@ -83,7 +88,7 @@ teismo, iš kurio teisėjas buvo atleistas, skaičiuojamas teisėjo darbo staža
 paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos, taip
 pat ir pirmumo teisė be atrankos būti paskirtam į ankstesnes pareigas.“
 
-### 3 straipsnis. 66 straipsnio pakeitimas
+### 3 straipsnis. 66 straipsnio pakeitimas ^s-84a2544b616252af73341567
 Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
 „66 straipsnis. Reikalavimai asmeniui, siekiančiam
@@ -97,7 +102,7 @@ pedagoginį darbą, skaičiuojant šiame straipsnyje nurodytą darbo stažą tok
 laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio darbo stažas
 nėra sumuojami.“
 
-### 4 straipsnis. 67 straipsnio 1 dalies
+### 4 straipsnis. 67 straipsnio 1 dalies ^s-df9499c9bcc3027f5ccfb577
 pakeitimas
 Pakeisti 67 straipsnio 1 dalį ir ją išdėstyti
 taip:
@@ -110,7 +115,7 @@ teisėju ir teisinį pedagoginį darbą, skaičiuojant šioje dalyje nurodytą d
 stažą tokiu laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio
 darbo stažas nėra sumuojami.“
 
-### 5 straipsnis. 68 straipsnio pakeitimas
+### 5 straipsnis. 68 straipsnio pakeitimas ^s-b3939fbf0aa87e7d9f2abd10
 Pakeisti 68 straipsnį ir jį išdėstyti taip:
 
 „68 straipsnis. Reikalavimai asmeniui, siekiančiam
@@ -123,7 +128,7 @@ pedagoginį darbą, skaičiuojant šiame straipsnyje nurodytą darbo stažą tok
 laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio darbo stažas
 nėra sumuojami.“
 
-### 6 straipsnis. 105 straipsnio 8 dalies
+### 6 straipsnis. 105 straipsnio 8 dalies ^s-5f2f4878bd22fb16c3e602f4
 pakeitimas
 Pakeisti 105 straipsnio 8 dalį ir ją išdėstyti
 taip:

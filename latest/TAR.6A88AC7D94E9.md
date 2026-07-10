@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6A88AC7D94E9"
 pavadinimas: "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-01-05"
 latest_path: "latest/TAR.6A88AC7D94E9.md"
 latest_sha256: "6fc54d245f874f5209ec34eeafa64cc8cd141fd8937c7027b37fec4def747db7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6A88AC7D94E9]]"
 ---
 # Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6A88AC7D94E9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6A88AC7D94E9
+- Ryšiai: [[Ryšiai/TAR.6A88AC7D94E9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6C0856EF7C2A"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo"
+  - "įstatymas dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-11"
 latest_path: "latest/TAR.6C0856EF7C2A.md"
 latest_sha256: "3cab5d707811f94be2b7c6a755784aad880f2c907f23957494b018b3c70858de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6C0856EF7C2A]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6C0856EF7C2A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6C0856EF7C2A
+- Ryšiai: [[Ryšiai/TAR.6C0856EF7C2A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,14 +39,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ir jos priedų ratifikavimas
+### 1 straipsnis. Konvencijos ir jos priedų ratifikavimas ^s-eaf7f47dd1fefb4628e125c6
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. vasario 12 d. dekretą Nr. 367, ratifikuoja su pareiškimu Tauriųjų metalų gaminių kontrolės ir prabavimo konvenciją, pasirašytą 1972 m. lapkričio 15 d. Vienoje (iš dalies pakeistą 1988 m. gegužės 18 d.), ir jos priedus, priimtus 1998 m. gegužės 25 ir 26 d. Helsinkyje.
 
 
 
-### 2 straipsnis. Lietuvos Respublikos pareiškimas
+### 2 straipsnis. Lietuvos Respublikos pareiškimas ^s-87b2a9b4521c5342db444cb2
 
 
 Vadovaudamasis Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos 5 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublikos vienintele kompetentinga prabavimo institucija yra skiriama viešoji įstaiga Lietuvos prabavimo rūmai.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.186E0D7F2A26"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolo dėl televizijos kūrinių apsaugos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolo dėl televizijos kūrinių apsaugos ratifikavimo"
+  - "įstatymas dėl Europos konvencijos dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolo dėl televizijos kūrinių apsaugos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-03-28"
 latest_path: "latest/TAR.186E0D7F2A26.md"
 latest_sha256: "08ce3924b03bc026d37f4813906932d5ca3e4aa9cb0fcc3ac0ab28d0879af7e3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.186E0D7F2A26]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolo dėl televizijos kūrinių apsaugos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.186E0D7F2A26.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.186E0D7F2A26
+- Ryšiai: [[Ryšiai/TAR.186E0D7F2A26|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas
+### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas ^s-2cc8c53525825cb6108ab5f8
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 10 d. dekretą Nr. 2008, ratifikuoja Europos konvenciją dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolą dėl televizijos kūrinių apsaugos, priimtus 2001 m. lapkričio 8 d. Strasbūre.
 
 
 
-### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-20a52d5f9fcff6463392ea21
 
 
 Lietuvos Respublikos Vyriausybė, vadovaudamasi Konvencijos 6 straipsnio 1 dalimi bei Konvencijos protokolo dėl televizijos kūrinių apsaugos 5 straipsniu, paskiria instituciją, atsakingą už Konvencijoje ir jos Protokole numatytų archyvo funkcijų įgyvendinimą.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7FC2A2DDDAB6"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio pakeitimo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 27 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-18"
 latest_path: "latest/TAR.7FC2A2DDDAB6.md"
 latest_sha256: "dc95a4bca72c07bbf2a3915c8b0cf6cb9bc475f43731b3c8115e4fb9c33eaf5c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7FC2A2DDDAB6]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7FC2A2DDDAB6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7FC2A2DDDAB6
+- Ryšiai: [[Ryšiai/TAR.7FC2A2DDDAB6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 27 straipsnio 1 dalies pakeitimas ^s-efa48e4cf2d8322514d80a47
 
 
 Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:

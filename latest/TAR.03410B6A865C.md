@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.03410B6A865C"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl SSRS okupacijos žalos atlyginimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl SSRS okupacijos žalos atlyginimo"
+  - "įstatymas dėl SSRS okupacijos žalos atlyginimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-28"
 latest_path: "latest/TAR.03410B6A865C.md"
 latest_sha256: "2b3918bdb12d4a9dd8c3bc61033b31990b1cccc140f2d3325ed3530887b63fac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.03410B6A865C]]"
 ---
 # Lietuvos Respublikos įstatymas dėl SSRS okupacijos žalos atlyginimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.03410B6A865C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.03410B6A865C
+- Ryšiai: [[Ryšiai/TAR.03410B6A865C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -43,42 +48,42 @@ priima šį įstatymą.
 
 
 
-### 1 straipsnis. SSRS okupacijos žalos Lietuvai laikotarpiai
+### 1 straipsnis. SSRS okupacijos žalos Lietuvai laikotarpiai ^s-127be90cce94ae4a2f716d84
 
 
 SSRS okupacijos žalos Lietuvai laikotarpiai:
 
 
-1) SSRS okupacija ir žala 1940–1990 m. laikotarpiu, įskaitant žalą, padarytą Lietuvos žmonėms, deportuotiems ir prievarta laikytiems SSRS teritorijoje 1941–1945 m., taip pat šiuo laikotarpiu SSRS kariuomenės ir represinių struktūrų padarytą žalą; ^a07d452b9a20c975a0936cf4
+1) SSRS okupacija ir žala 1940–1990 m. laikotarpiu, įskaitant žalą, padarytą Lietuvos žmonėms, deportuotiems ir prievarta laikytiems SSRS teritorijoje 1941–1945 m., taip pat šiuo laikotarpiu SSRS kariuomenės ir represinių struktūrų padarytą žalą; ^s-de4cd82255fa1ca08847f10d
 
 
-2) SSRS, jos represinių struktūrų ir kariuomenės padarytos žalos 1990–1991 m. bei SSRS (1992–1993 m. Rusijos Federacijos) kariuomenės padarytos žalos 1991–1993 m. laikotarpis. ^3a03d6d580e2b79a08339ac9
+2) SSRS, jos represinių struktūrų ir kariuomenės padarytos žalos 1990–1991 m. bei SSRS (1992–1993 m. Rusijos Federacijos) kariuomenės padarytos žalos 1991–1993 m. laikotarpis. ^s-bc3d43c764a66c4ed6c1c9d3
 
 
 
-### 2 straipsnis. Lietuvos Respublikos Vyriausybės prievolės
+### 2 straipsnis. Lietuvos Respublikos Vyriausybės prievolės ^s-47a90c2815868044015ef2d9
 
 
 Lietuvos Respublikos Vyriausybė:
 
 
-1) iki 2000 m. rugsėjo 1 d. sudaro Lietuvos Respublikos derybų su Rusijos Federacija delegaciją dėl SSRS okupacijos žalos atlyginimo Lietuvos Respublikai; ^e2b9efd11befe48faf461c14
+1) iki 2000 m. rugsėjo 1 d. sudaro Lietuvos Respublikos derybų su Rusijos Federacija delegaciją dėl SSRS okupacijos žalos atlyginimo Lietuvos Respublikai; ^s-ae8caab592c4332ec7ffd335
 
 
-2) iki 2000 m. spalio 1 d. pagal darbų programą, patvirtintą 1996 m. vasario 13 d. Vyriausybės nutarimu „Dėl žalos, padarytos Lietuvos Respublikai 1940–1991 metais buvusios SSRS ir 1991–1993 metais – Rusijos Federacijos kariuomenės, nustatymo darbų programos“ Nr. 242, patikslina ir užbaigia SSRS okupacijos padarytos žalos skaičiavimus, įtraukiant išmokėjimus Lietuvos piliečiams už SSRS okupacijos metu padarytą žalą ir jos pasekmes, taip pat deportuotų asmenų ir jų palikuonių grįžimo į Tėvynę išlaidas; ^ebcfea0b037131a1658ec006
+2) iki 2000 m. spalio 1 d. pagal darbų programą, patvirtintą 1996 m. vasario 13 d. Vyriausybės nutarimu „Dėl žalos, padarytos Lietuvos Respublikai 1940–1991 metais buvusios SSRS ir 1991–1993 metais – Rusijos Federacijos kariuomenės, nustatymo darbų programos“ Nr. 242, patikslina ir užbaigia SSRS okupacijos padarytos žalos skaičiavimus, įtraukiant išmokėjimus Lietuvos piliečiams už SSRS okupacijos metu padarytą žalą ir jos pasekmes, taip pat deportuotų asmenų ir jų palikuonių grįžimo į Tėvynę išlaidas; ^s-28ec8c423d3a0f800bb9c388
 
 
-3) iki 2000 m. lapkričio 1 d. kreipiasi į Rusijos Federaciją dėl SSRS okupacijos metu padarytos žalos atlyginimo, kartu pateikdama šios žalos skaičiavimus, taip pat apie tai informuoja Jungtinių Tautų Organizaciją, Europos Tarybą ir Europos Sąjungą bei nuolatos siekia šių tarptautinių organizacijų ir jų valstybių narių paramos sprendžiant SSRS okupacijos žalos atlyginimo Lietuvai klausimus; ^597987fa20aacf2d97cd08f2
+3) iki 2000 m. lapkričio 1 d. kreipiasi į Rusijos Federaciją dėl SSRS okupacijos metu padarytos žalos atlyginimo, kartu pateikdama šios žalos skaičiavimus, taip pat apie tai informuoja Jungtinių Tautų Organizaciją, Europos Tarybą ir Europos Sąjungą bei nuolatos siekia šių tarptautinių organizacijų ir jų valstybių narių paramos sprendžiant SSRS okupacijos žalos atlyginimo Lietuvai klausimus; ^s-cca16072a355c4b02c050db2
 
 
-4) inicijuoja derybas ir nuolatos siekia, kad Rusijos Federacija atlygintų Lietuvos žmonėms ir Lietuvos valstybei SSRS okupacijos padarytą žalą; ^b038d87d2e61b8d425e9ff1c
+4) inicijuoja derybas ir nuolatos siekia, kad Rusijos Federacija atlygintų Lietuvos žmonėms ir Lietuvos valstybei SSRS okupacijos padarytą žalą; ^s-178f07f82b1ba7fab34c9717
 
 
-5) iš Rusijos Federacijos gautas SSRS okupacijos padarytos žalos atlyginimo lėšas kaupia Valstybės iždo atskiroje okupacijų žalos atlyginimo sąskaitoje ir jas pirmiausia skiria atlyginti Lietuvos gyventojams žalą, patirtą dėl deportacijų, prievartinio darbo, okupacinio režimo represijų ir prarasto turto. ^5474ca91fc3504687a39e92e
+5) iš Rusijos Federacijos gautas SSRS okupacijos padarytos žalos atlyginimo lėšas kaupia Valstybės iždo atskiroje okupacijų žalos atlyginimo sąskaitoje ir jas pirmiausia skiria atlyginti Lietuvos gyventojams žalą, patirtą dėl deportacijų, prievartinio darbo, okupacinio režimo represijų ir prarasto turto. ^s-93460e3837d58b9d0a9e4e0e
 
 
 
-### 3 straipsnis. SSRS deportuotų asmenų grįžimo į Tėvynę fondas
+### 3 straipsnis. SSRS deportuotų asmenų grįžimo į Tėvynę fondas ^s-fff22bf88b632ba7c2daa0ff
 
 
 Atsižvelgdama į tai, kad Rusijos Federacija 1996 m. sausio 25 d. įsipareigojo Europos Tarybai, jog padės asmenims, anksčiau deportuotiems iš okupuotų Baltijos valstybių, ir (ar) jų palikuonims sugrįžti į savo šalį pagal specialias repatrijavimo ir atlyginimo programas, Lietuvos Respublikos Vyriausybė steigia SSRS deportuotų asmenų grįžimo į Tėvynę fondą ir kreipiasi į Rusijos Federaciją, kad ši skirtų lėšų iš Lietuvos deportuotiems asmenims ir jų palikuonims grįžti į Tėvynę.

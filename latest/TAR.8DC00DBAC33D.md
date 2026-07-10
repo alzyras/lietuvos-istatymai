@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8DC00DBAC33D"
 pavadinimas: "Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-22"
 latest_path: "latest/TAR.8DC00DBAC33D.md"
 latest_sha256: "0c28abb5078e03ad229786ebac347a53ac83970b491cac826aad7920103c164d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8DC00DBAC33D]]"
 ---
 # Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8DC00DBAC33D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8DC00DBAC33D
+- Ryšiai: [[Ryšiai/TAR.8DC00DBAC33D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 5 dalies pakeitimas ^s-12c095b7e8ad6fee46df4d61
 
 
 Pakeisti 3 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -40,7 +45,7 @@ Pakeisti 3 straipsnio 5 dalį ir ją išdėstyti taip:
 „5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.“
 
 
-### 2 straipsnis. Pasiūlymai Vyriausybei
+### 2 straipsnis. Pasiūlymai Vyriausybei ^s-1ecf0b9d27c6e9e198dab0c4
 
 
 Vyriausybė iki 2003 m. vasario 1 d. patvirtina Skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo licencijavimo taisyklių pakeitimą.

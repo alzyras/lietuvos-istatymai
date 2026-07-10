@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF931FB86A84"
 pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2, 3, 5, 6, 10, 11 straipsnių, 1, 2 priedėlių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2, 3, 5, 6, 10, 11 straipsnių, 1, 2 priedėlių pakeitimo ir papildymo įstatymas"
+  - "gyventojų turto ir pajamų deklaravimo įstatymo 2, 3, 5, 6, 10, 11 straipsnių, 1, 2 priedėlių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-08-09"
 latest_path: "latest/TAR.CF931FB86A84.md"
 latest_sha256: "ea64e5ab7e5ebe4ad379863b1707db8fde201c29db04439d5ae429fbb9605a0b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF931FB86A84]]"
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2, 3, 5, 6, 10, 11 straipsnių, 1, 2 priedėlių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF931FB86A84.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF931FB86A84
+- Ryšiai: [[Ryšiai/TAR.CF931FB86A84|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,19 +37,19 @@ Nr. 20-504, Nr. 41-1096, Nr. 63-1802)
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-c5e24ebf0cddb6790fedae43
 
 
-Pakeisti [[#2 straipsnis. 3 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi|2 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-a6c8cdc90824bb7369218f6c|2 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#2 straipsnis. 3 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi|2 straipsnis]]. Deklaravimo objektas
+„[[#^s-a6c8cdc90824bb7369218f6c|2 straipsnis]]. Deklaravimo objektas
 
 
-1. Lietuvos Respublikos gyventojai, nurodyti šio įstatymo 11 straipsnyje, privalo deklaruoti: ^2a5d2da9e63946886fb91d94
+1. Lietuvos Respublikos gyventojai, nurodyti šio įstatymo 11 straipsnyje, privalo deklaruoti: ^s-7fd196ab55688ce92cd107e2
 
 
-1) kalendorinių metų pradžioje turimą, per kalendorinius metus įsigytą ir kalendorinių metų pabaigoje turimą šį turtą: ^ff132e624b89540989b57718
+1) kalendorinių metų pradžioje turimą, per kalendorinius metus įsigytą ir kalendorinių metų pabaigoje turimą šį turtą: ^s-bea5fe4bfac82145706c36cb
 
 
 a) įregistruotą kilnojamąjį ir nekilnojamąjį turtą, kuriam nustatyta privaloma teisinė registracija, nebaigtus statyti arba pastatytus, bet neįregistruotus statinius;
@@ -59,83 +64,83 @@ c) akcijas, obligacijas, vekselius ir kitus vertybinius popierius, pajus, kai j�
 d) pinigines lėšas, indėlius, paskolintas ir negrąžintas pinigines lėšas, kai jų bendra suma didesnė kaip 2000 litų;
 
 
-2) per kalendorinius metus gautas visų rūšių pajamas (pinigais ar natūra), sugrąžintų paskolintų lėšų, indėlių sumas ir sumokėtą pajamų mokestį; ^bdce8449f039b8f87421ccca
+2) per kalendorinius metus gautas visų rūšių pajamas (pinigais ar natūra), sugrąžintų paskolintų lėšų, indėlių sumas ir sumokėtą pajamų mokestį; ^s-f54e39b75c78231b48ff4beb
 
 
-3) per kalendorinius metus dovanotas pinigines lėšas, kai jų bendra suma didesnė kaip 2000 litų. ^eceb603eedb8be7104bdaada
+3) per kalendorinius metus dovanotas pinigines lėšas, kai jų bendra suma didesnė kaip 2000 litų. ^s-0f659cf1cf5265a7ce6db5eb
 
 
-2. Šiame straipsnyje nurodytas turtas deklaruojamas esantis Lietuvos Respublikoje ir užsienyje. ^f66859977a9f8919646d419c
+2. Šiame straipsnyje nurodytas turtas deklaruojamas esantis Lietuvos Respublikoje ir užsienyje. ^s-d5228a17ca0122a72a8287b5
 
 
-3. Deklaruojamos kalendoriniais metais gautos pajamos, įsigytas turtas, paskolintos ir negrąžintos piniginės lėšos (įskaitant ir kalendorinių metų pradžioje buvusias paskolintas ir negrąžintas pinigines lėšas) bei dovanotos piniginės lėšos pagrindžiamos įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais. Gyventojai, deklaruojantys turtą ir pajamas pagal šį įstatymą pirmą kartą, kalendorinių metų pradžioje turėtas pinigines lėšas, kurios viršija atitinkamų metų pradžioje buvusį minimalų deklaruoti privalomo turto kainos dydį, nustatytą Komisijos privalomam registruoti turtui įvertinti, įskaitant pasiskolintas, privalo pagrįsti įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais. Prie užsienio kalba surašytų dokumentų turi būti pridėtas notarine tvarka patvirtintas jų vertimas į lietuvių kalbą, o užsienio valstybėse išduoti dokumentai privalo būti legalizuoti, išskyrus atvejus, kai pagal galiojančias Lietuvos Respublikoje tarptautines sutartis yra atleidžiama nuo legalizavimo. ^faeda3b6af28f4e69020f2d0
+3. Deklaruojamos kalendoriniais metais gautos pajamos, įsigytas turtas, paskolintos ir negrąžintos piniginės lėšos (įskaitant ir kalendorinių metų pradžioje buvusias paskolintas ir negrąžintas pinigines lėšas) bei dovanotos piniginės lėšos pagrindžiamos įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais. Gyventojai, deklaruojantys turtą ir pajamas pagal šį įstatymą pirmą kartą, kalendorinių metų pradžioje turėtas pinigines lėšas, kurios viršija atitinkamų metų pradžioje buvusį minimalų deklaruoti privalomo turto kainos dydį, nustatytą Komisijos privalomam registruoti turtui įvertinti, įskaitant pasiskolintas, privalo pagrįsti įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais. Prie užsienio kalba surašytų dokumentų turi būti pridėtas notarine tvarka patvirtintas jų vertimas į lietuvių kalbą, o užsienio valstybėse išduoti dokumentai privalo būti legalizuoti, išskyrus atvejus, kai pagal galiojančias Lietuvos Respublikoje tarptautines sutartis yra atleidžiama nuo legalizavimo. ^s-335058d4f8b2fe523d093be1
 
 
-4. Nustačius, kad deklaruotos kalendorinių metų pradžioje turėtos piniginės lėšos, kurios viršija atitinkamų metų pradžioje buvusį minimalų deklaruoti privalomo turto kainos dydį, nustatytą Komisijos privalomam registruoti turtui įvertinti (tuo atveju, kai gyventojai deklaruoja turtą ir pajamas pagal šį įstatymą pirmą kartą), kalendoriniais metais gautos pajamos, įsigytas turtas, paskolintos ir negrąžintos piniginės lėšos (įskaitant ir kalendorinių metų pradžioje buvusias paskolintas ir negrąžintas pinigines lėšas) bei dovanotos piniginės lėšos nepagrįstos įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais, nuo nepagrįstosios sumos skiriama 20 procentų dydžio bauda. Bauda turi būti sumokėta ne vėliau kaip per 20 dienų nuo valstybinės mokesčių inspekcijos sprendimo skirti baudą gavimo dienos. Nesumokėta bauda išieškoma Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“ ^82419da230b45fd51b3c48f8
+4. Nustačius, kad deklaruotos kalendorinių metų pradžioje turėtos piniginės lėšos, kurios viršija atitinkamų metų pradžioje buvusį minimalų deklaruoti privalomo turto kainos dydį, nustatytą Komisijos privalomam registruoti turtui įvertinti (tuo atveju, kai gyventojai deklaruoja turtą ir pajamas pagal šį įstatymą pirmą kartą), kalendoriniais metais gautos pajamos, įsigytas turtas, paskolintos ir negrąžintos piniginės lėšos (įskaitant ir kalendorinių metų pradžioje buvusias paskolintas ir negrąžintas pinigines lėšas) bei dovanotos piniginės lėšos nepagrįstos įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais, nuo nepagrįstosios sumos skiriama 20 procentų dydžio bauda. Bauda turi būti sumokėta ne vėliau kaip per 20 dienų nuo valstybinės mokesčių inspekcijos sprendimo skirti baudą gavimo dienos. Nesumokėta bauda išieškoma [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.“ ^s-349464fe2948156f6afe0b08
 
 
 
-### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi ^s-a6c8cdc90824bb7369218f6c
 
 
-1. Pakeisti [[#^67d7acfec07003a24213ebda|3 straipsnio 1 dalį]] ir ją išdėstyti taip: ^c15fc3fcee66812cd5069523
+1. Pakeisti [[#^s-847a60ace14cd1cdc4e8d901|3 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-5422eff4916c5023a6446644
 
 
 „1. Šio įstatymo 11 straipsnyje nurodyti Lietuvos Respublikos gyventojai fiziniai asmenys, kurių pagrindinė gyvenamoji vieta yra Lietuvos Respublika, bei fiziniai asmenys, gyvenę Lietuvos Respublikoje ataskaitiniais metais su pertraukomis arba ištisai 183 dienas ir ilgiau, išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulinių įstaigų darbuotojus užsienio valstybių piliečius, deklaruoja turtą ir pajamas pateikdami gyvenamosios vietos valstybinei mokesčių inspekcijai du Vyriausybės ar jos įgaliotos institucijos nustatytos formos turto ir pajamų deklaracijos egzempliorius. Pagrindine gyvenamąja vieta laikoma vieta, kurią gyventojas deklaruoja Lietuvos Respublikoje, o jei gyventojas nedeklaruoja gyvenamosios vietos, pagrindine gyvenamąja vieta laikoma vieta, kurioje jis nuolat arba daugiausiai gyvena, arba vieta, kuri yra jo asmeninių, socialinių arba ekonominių interesų buvimo vieta. Nepilnamečių asmenų ir pilnamečių asmenų invalidų bei pensininkų, reikalaujančių globos, gyvenančių kartu su šeima, turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų. Šeima laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų. Jeigu asmuo šeimos nariu tampa arba nustoja juo būti tais kalendoriniais metais, už kuriuos deklaruojamas turtas ir pajamos, jis privalo deklaruoti turtą ir pajamas už visus kalendorinius metus. Jeigu vaikams (įvaikiams) tais kalendoriniais metais, už kuriuos deklaruojamas turtas ir pajamos, sukanka 18 metų, jų turtą ir pajamas vienas iš tėvų (įtėvių) deklaruoja už laikotarpį nuo kalendorinių metų pradžios iki jiems sukaks 18 metų. Už nepilnamečio asmens turto ir pajamų nedeklaravimą atsakomybėn traukiamas asmuo, dėl kurio atsiranda prievolė deklaruoti turtą ir pajamas pagal šį įstatymą.“
 
 
-2. Papildyti [[#^1a477d8555751a3c48ca2216|3 straipsnį 3 dalimi]]: ^ebb96c60e854c12bf9d8cae8
+2. Papildyti [[#^s-a4a7bfaf4a272d5e5f71c644|3 straipsnį 3 dalimi]]: ^s-4d4cec8b0ffc8228ad44cf51
 
 
 „3. Gali būti tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais tikslinama. Deklaracijos tikslinimo tvarką nustato centrinis mokesčio administratorius. Duomenys apie kalendorinių metų pradžioje ar pabaigoje ne kredito įstaigose turėtas pinigines lėšas gali būti tikslinami tik tuo atveju, kai ankstesnių kalendorinių metų turto ir pajamų deklaracijoje nurodyti duomenys apie metų pabaigoje turėtas pinigines lėšas neatitinka tikslinamoje kalendorinių metų deklaracijoje nurodytų duomenų apie metų pradžioje turėtas pinigines lėšas. Deklaracijų duomenys apie gautas paskolas negali būti tikslinami.“
 
 
 
-### 3 straipsnis. 5 straipsnio pakeitimas
+### 3 straipsnis. 5 straipsnio pakeitimas ^s-fa2acd20282845efc139b533
 
 
-Pakeisti [[#5 straipsnis. 10 straipsnio 2 dalies pakeitimas|5 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-d379eb7ed6599f4057531baf|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#5 straipsnis. 10 straipsnio 2 dalies pakeitimas|5 straipsnis]].       Kandidatų į politikus, naujų politikų ar valstybės tarnautojų, nustojusių eiti pareigas politikų ar valstybės tarnautojų, nustojusių eiti pareigas kitų asmenų turto ir pajamų deklaravimas
+„[[#^s-d379eb7ed6599f4057531baf|5 straipsnis]].       Kandidatų į politikus, naujų politikų ar valstybės tarnautojų, nustojusių eiti pareigas politikų ar valstybės tarnautojų, nustojusių eiti pareigas kitų asmenų turto ir pajamų deklaravimas
 
 
-1. Kandidatai į Respublikos prezidentus, Seimo narius, ministrus pirmininkus, ministrus ir savivaldybių tarybų narius bei jų šeimų nariai privalo deklaruoti turtą ir pajamas nuo kalendorinių metų pradžios iki kandidatavimo pradžios. Turtą ir pajamas deklaravusiems kandidatams į politikus valstybinė mokesčių inspekcija per 15 darbo dienų išduoda patvirtintus pagrindinių deklaracijos duomenų išrašus, kuriuos šie asmenys privalo pateikti Vyriausiajai rinkimų komisijai ar apygardos rinkimų komisijai. ^67d7acfec07003a24213ebda
+1. Kandidatai į Respublikos prezidentus, Seimo narius, ministrus pirmininkus, ministrus ir savivaldybių tarybų narius bei jų šeimų nariai privalo deklaruoti turtą ir pajamas nuo kalendorinių metų pradžios iki kandidatavimo pradžios. Turtą ir pajamas deklaravusiems kandidatams į politikus valstybinė mokesčių inspekcija per 15 darbo dienų išduoda patvirtintus pagrindinių deklaracijos duomenų išrašus, kuriuos šie asmenys privalo pateikti Vyriausiajai rinkimų komisijai ar apygardos rinkimų komisijai. ^s-847a60ace14cd1cdc4e8d901
 
 
-2. Paskirti į pareigas valstybės tarnautojai ir jų šeimų nariai privalo deklaruoti savo turtą ir pajamas už laikotarpį nuo kalendorinių metų pradžios iki paskyrimo į tas pareigas dienos. Deklaracijos pateikiamos per 20 dienų nuo paskyrimo į pareigas pradžios. Paskirtiems valstybės tarnautojams bei jų šeimų nariams, deklaravusiems turtą ir pajamas, valstybinė mokesčių inspekcija per 15 darbo dienų išduoda pažymas apie deklaracijų pateikimą. Valstybės tarnautojai šias pažymas (savo ir savo šeimos narių) turi pateikti savo darbovietei. ^22917f6e9f96de4efb743e41
+2. Paskirti į pareigas valstybės tarnautojai ir jų šeimų nariai privalo deklaruoti savo turtą ir pajamas už laikotarpį nuo kalendorinių metų pradžios iki paskyrimo į tas pareigas dienos. Deklaracijos pateikiamos per 20 dienų nuo paskyrimo į pareigas pradžios. Paskirtiems valstybės tarnautojams bei jų šeimų nariams, deklaravusiems turtą ir pajamas, valstybinė mokesčių inspekcija per 15 darbo dienų išduoda pažymas apie deklaracijų pateikimą. Valstybės tarnautojai šias pažymas (savo ir savo šeimos narių) turi pateikti savo darbovietei. ^s-a4e204150f7a551e20ce8258
 
 
-3. Nustoję eiti pareigas politikai bei iš pareigų atleisti valstybės tarnautojai, kiti šio įstatymo priedėliuose nurodyti asmenys, taip pat jų šeimų nariai turtą ir pajamas deklaruoja metams pasibaigus (visų kalendorinių metų). ^1a477d8555751a3c48ca2216
+3. Nustoję eiti pareigas politikai bei iš pareigų atleisti valstybės tarnautojai, kiti šio įstatymo priedėliuose nurodyti asmenys, taip pat jų šeimų nariai turtą ir pajamas deklaruoja metams pasibaigus (visų kalendorinių metų). ^s-a4a7bfaf4a272d5e5f71c644
 
 
-4. Į politikus kandidatuojančių asmenų, išrinktų naujų politikų, paskirtų naujų valstybės tarnautojų, nustojusių eiti pareigas politikų ar atleistų iš pareigų valstybės tarnautojų, asmenų, nustojusių eiti Įstatymo priedėliuose nurodytas pareigas, bei jų šeimų narių turto ir pajamų deklaracijos į apskaitą įtraukiamos atskirai nuo kitų deklaracijų.“ ^db403f9690c91da156fbaf61
+4. Į politikus kandidatuojančių asmenų, išrinktų naujų politikų, paskirtų naujų valstybės tarnautojų, nustojusių eiti pareigas politikų ar atleistų iš pareigų valstybės tarnautojų, asmenų, nustojusių eiti Įstatymo priedėliuose nurodytas pareigas, bei jų šeimų narių turto ir pajamų deklaracijos į apskaitą įtraukiamos atskirai nuo kitų deklaracijų.“ ^s-964e08bf0e0de8b51e156f7d
 
 
 
-### 4 straipsnis. 6 straipsnio 1, 2 ir 4 dalių pakeitimas
+### 4 straipsnis. 6 straipsnio 1, 2 ir 4 dalių pakeitimas ^s-18719880bdb1940b6ec91648
 
 
-1. 6 straipsnio 1 dalyje vietoj žodžių „Vyriausybės ar jos įgaliotos institucijos“ įrašyti žodžius „centrinio mokesčio administratoriaus“ ir šią dalį išdėstyti taip: ^38daffabffdb662d5610d06f
+1. 6 straipsnio 1 dalyje vietoj žodžių „Vyriausybės ar jos įgaliotos institucijos“ įrašyti žodžius „centrinio mokesčio administratoriaus“ ir šią dalį išdėstyti taip: ^s-a4d6141c550214573d3b1c5d
 
 
 „1. Lietuvos Respublikos juridiniai ir fiziniai asmenys bei juridinio asmens teisių neturintys subjektai, išmokėję šio įstatymo 11 straipsnyje nurodytiems gyventojams bet kurios rūšies išmokas, nemokamai išdavę turto bei vertybių ar suteikę paslaugų ir tam tikrais atvejais išskaitę mokesčius, kasmet iki kovo 1 dienos privalo parengti centrinio mokesčio administratoriaus patvirtintos formos pažymas apie Lietuvos Respublikos gyventojams per praėjusius metus išmokėtas sumas, išskaičiuotus mokesčius, nemokamai išduotą turtą ar suteiktas paslaugas. Vieną šios pažymos egzempliorių išdavėjai nemokamai išsiunčia ar išduoda šio įstatymo 11 straipsnyje nurodytiems Lietuvos Respublikos gyventojams, o kitą - jų gyvenamosios vietos valstybinei mokesčių inspekcijai.“
 
 
-2. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip: ^a376e9156ff10b6def18369e
+2. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip: ^s-3acddf75aa164f52707f1fe1
 
 
-„2. Šio įstatymo 11 straipsnyje nurodyti asmenys kasmet iki vasario 1 dienos juridiniams, fiziniams asmenims bei juridinių asmens teisių neturintiems subjektams (atitinkamais kalendoriniais metais išmokėjusiems bet kurios rūšies išmokas, nemokamai išdavusiems turto bei vertybių ar suteikusiems paslaugų) turi raštiškai pranešti, kad jų gyvenamosios vietos valstybinei mokesčių inspekcijai ir jiems patiems pateiktų [[#^38daffabffdb662d5610d06f|šio straipsnio 1 dalyje]] nurodytą pažymą. Jei asmenys prašymą pateikė vėliau kaip iki vasario 1 dienos, pažyma turi būti išduota per 10 darbo dienų nuo prašymo gavimo dienos. Pagal raštišką pranešimą pažymą pateikti yra privaloma.“
+„2. Šio įstatymo 11 straipsnyje nurodyti asmenys kasmet iki vasario 1 dienos juridiniams, fiziniams asmenims bei juridinių asmens teisių neturintiems subjektams (atitinkamais kalendoriniais metais išmokėjusiems bet kurios rūšies išmokas, nemokamai išdavusiems turto bei vertybių ar suteikusiems paslaugų) turi raštiškai pranešti, kad jų gyvenamosios vietos valstybinei mokesčių inspekcijai ir jiems patiems pateiktų [[#^s-a4d6141c550214573d3b1c5d|šio straipsnio 1 dalyje]] nurodytą pažymą. Jei asmenys prašymą pateikė vėliau kaip iki vasario 1 dienos, pažyma turi būti išduota per 10 darbo dienų nuo prašymo gavimo dienos. Pagal raštišką pranešimą pažymą pateikti yra privaloma.“
 
 
-3. 6 straipsnio 4 dalyje vietoj žodžių „valdininkams ir pareigūnams“ įrašyti žodžius „valstybės tarnautojams ir pareigūnams“ ir šią dalį išdėstyti taip: ^b78b164a4dd793fdf6493118
+3. 6 straipsnio 4 dalyje vietoj žodžių „valdininkams ir pareigūnams“ įrašyti žodžius „valstybės tarnautojams ir pareigūnams“ ir šią dalį išdėstyti taip: ^s-fc8fd1ef97a28ef6494e3c4e
 
 
 „4. Lietuvos Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojams ir pareigūnams, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimos nariams pažymų pateikimo terminus ir tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
 
 
 
-### 5 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-d379eb7ed6599f4057531baf
 
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -145,10 +150,10 @@ Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 11 straipsnio 2, 4 punktų pakeitimas ir papildymas 5 punktu
+### 6 straipsnis. 11 straipsnio 2, 4 punktų pakeitimas ir papildymas 5 punktu ^s-13d28bdf14481ae4da50393e
 
 
-Pakeisti 11 straipsnio 2, 4 punktus, papildyti [[#^5c08147f76cafc136427e4b8|5 punktu]] ir šiuos punktus išdėstyti taip:
+Pakeisti 11 straipsnio 2, 4 punktus, papildyti [[#^s-2b7f862ee2ce26428ae4fdfc|5 punktu]] ir šiuos punktus išdėstyti taip:
 
 
 „2) Valstybės saugumo departamento, vidaus reikalų sistemos valstybės tarnautojai ir jų šeimų nariai, išskyrus šio straipsnio 4 punkte nurodytus asmenis, taip pat teismo antstoliai ir jų šeimų nariai, kurie turtą ir pajamas pradeda deklaruoti už 1997 metus;“
@@ -157,11 +162,11 @@ Pakeisti 11 straipsnio 2, 4 punktus, papildyti [[#^5c08147f76cafc136427e4b8|5 pu
 „4) Lietuvos Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojai ir pareigūnai, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų nariai turtą ir pajamas deklaruoja atskirais Vyriausybės arba jos įgaliotos institucijos nustatytais terminais ir tvarka;
 
 
-5) Lietuvos Respublikos gyventojai, kalendoriniais metais suteikę juridiniams, fiziniams asmenims bei juridinio asmens teisių neturinčioms įmonėms paskolas, kurių suma per kalendorinius metus didesnė kaip 10 000 litų, arba padovanoję dovanas, kurių suma per kalendorinius metus didesnė kaip 10 000 litų, savo turtą ir pajamas pradeda deklaruoti nuo tų kalendorinių metų, kuriais suteikė paskolas arba padovanojo dovanas.“ ^5c08147f76cafc136427e4b8
+5) Lietuvos Respublikos gyventojai, kalendoriniais metais suteikę juridiniams, fiziniams asmenims bei juridinio asmens teisių neturinčioms įmonėms paskolas, kurių suma per kalendorinius metus didesnė kaip 10 000 litų, arba padovanoję dovanas, kurių suma per kalendorinius metus didesnė kaip 10 000 litų, savo turtą ir pajamas pradeda deklaruoti nuo tų kalendorinių metų, kuriais suteikė paskolas arba padovanojo dovanas.“ ^s-2b7f862ee2ce26428ae4fdfc
 
 
 
-### 7 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-f8f144fa2894db7225453d45
 
 
 Pakeisti 1 priedėlyje pateikto sąrašo 4, 6, 8, 10, 11, 12, 15 punktus, papildyti 16 punktu ir šiuos punktus išdėstyti taip:
@@ -179,20 +184,20 @@ Pakeisti 1 priedėlyje pateikto sąrašo 4, 6, 8, 10, 11, 12, 15 punktus, papild
 „10. Muitinės departamento prie Finansų ministerijos ir teritorinių muitinių valstybės tarnautojai.
 
 
-11. Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojai. ^c02909bd25f8b0a1072030d3
+11. Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojai. ^s-e79aa84bbfccc0a72de7e7c5
 
 
-12. Vidaus reikalų sistemos ir Mokesčių policijos departamento prie Vidaus reikalų ministerijos valstybės tarnautojai.“ ^64edd7eeba104f72e4238555
+12. Vidaus reikalų sistemos ir Mokesčių policijos departamento prie Vidaus reikalų ministerijos valstybės tarnautojai.“ ^s-8e0fe4d22c936458fb556d2a
 
 
 „15. Valstybės saugumo sistemos valstybės tarnautojai.
 
 
-16. Krašto apsaugos sistemos kariai ir karininkai, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas.“ ^8b57b199c3629b26d79e014d
+16. Krašto apsaugos sistemos kariai ir karininkai, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas.“ ^s-e8f348d606da7ecb999b94d6
 
 
 
-### 8 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-585862dac56d2982edbc25d7
 
 
 Pakeisti 2 priedėlyje pateikto sąrašo 1, 4, 5, 6, 12, 15, 16 punktus ir šiuos punktus išdėstyti taip:
@@ -204,10 +209,10 @@ Pakeisti 2 priedėlyje pateikto sąrašo 1, 4, 5, 6, 12, 15, 16 punktus ir šiuo
 „4. Lietuvos Respublikos Vyriausybės sekretorius, kanceliarijos skyrių vedėjai (viršininkai) ir skyrių vedėjų (viršininkų) pavaduotojai, vyriausiasis buhalteris (finansininkas) ir vyriausiojo buhalterio (finansininko) pavaduotojai.
 
 
-5. Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą). ^7c38826f056bbd9243e8e907
+5. Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą). ^s-f5739e5404b91a1cd54cb089
 
 
-6. Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių, poskyrių, sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų pavaduotojai.“ ^0eee45e9b95eec00d251ce2a
+6. Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių, poskyrių, sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų pavaduotojai.“ ^s-ca8b9faebb36323d3b222115
 
 
 „12. Savivaldybių administracijų padalinių (departamentų, skyrių, poskyrių, sektorių, biurų, grupių, tarnybų centrų) vadovai ir padalinių vadovų pavaduotojai, seniūnų pavaduotojai.“
@@ -216,7 +221,7 @@ Pakeisti 2 priedėlyje pateikto sąrašo 1, 4, 5, 6, 12, 15, 16 punktus ir šiuo
 „15. Komercinių bankų tarybų ir valdybų pirmininkai, valdybų pirmininkų pavaduotojai, tarybų ir valdybų nariai, administracijų vadovai, taip pat struktūrinių padalinių (filialų, skyrių, atstovybių) vadovai ir jų pavaduotojai.
 
 
-16. Visų rūšių įmonių vadovai, išskyrus individualių (personalinių) įmonių savininkus, jų pavaduotojai, tarybų ir valdybų nariai, vyriausieji buhalteriai (finansininkai), taip pat struktūrinių padalinių (filialų, skyrių, atstovybių) vadovai bei jų pavaduotojai.“ ^15ec9d2de951b0abe701de86
+16. Visų rūšių įmonių vadovai, išskyrus individualių (personalinių) įmonių savininkus, jų pavaduotojai, tarybų ir valdybų nariai, vyriausieji buhalteriai (finansininkai), taip pat struktūrinių padalinių (filialų, skyrių, atstovybių) vadovai bei jų pavaduotojai.“ ^s-9db9d1444651652ab3623f85
 
 
 

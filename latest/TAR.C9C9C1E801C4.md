@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C9C9C1E801C4"
 pavadinimas: "Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymas"
+  - "farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-06"
 latest_path: "latest/TAR.C9C9C1E801C4.md"
 latest_sha256: "9cd083382bf87cbb446326f55c4a34d20efbbe64149125f10769b3b828561645"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C9C9C1E801C4]]"
 ---
 # Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C9C9C1E801C4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C9C9C1E801C4
+- Ryšiai: [[Ryšiai/TAR.C9C9C1E801C4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -40,7 +45,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 13 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 13 dalies pakeitimas ^s-ca697976908643c1c922b32e
 
 
 Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
@@ -50,7 +55,7 @@ Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 9 dalies 2 punkto pakeitimas
+### 2 straipsnis. 4 straipsnio 9 dalies 2 punkto pakeitimas ^s-f434394ec182e29bc139299d
 
 
 Pakeisti 4 straipsnio 9 dalies 2 punktą ir jį išdėstyti taip:
@@ -60,7 +65,7 @@ Pakeisti 4 straipsnio 9 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 5 straipsnio 8 dalies papildymas 7 punktu
+### 3 straipsnis. 5 straipsnio 8 dalies papildymas 7 punktu ^s-c7bec0c2da49f853ddcdc109
 
 
 Papildyti 5 straipsnio 8 dalį 7 punktu:
@@ -70,41 +75,41 @@ Papildyti 5 straipsnio 8 dalį 7 punktu:
 
 
 
-### 4 straipsnis. 7 straipsnio 2, 3 ir 4 dalių pakeitimas ir papildymas
+### 4 straipsnis. 7 straipsnio 2, 3 ir 4 dalių pakeitimas ir papildymas ^s-64067bf0b9c91d76faa677bb
 
 
-1. Papildyti 7 straipsnio 2 dalį 8 punktu: ^ccae74afdae80c41be1958ed
+1. Papildyti 7 straipsnio 2 dalį 8 punktu: ^s-f63f71681a1600891291c105
 
 
 „8) užsiimti kita Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme vaistininko profesinę kvalifikaciją turinčiam asmeniui nustatyta veikla.“
 
 
-2. Papildyti 7 straipsnio 3 dalį nauju 4 punktu: ^8b708dd47c1a9e26bd3794e3
+2. Papildyti 7 straipsnio 3 dalį nauju 4 punktu: ^s-8a413dc2523e93ffc92d7fb8
 
 
 „4) prižiūrėti vaistininko padėjėjo (farmakotechniko) teikiamas farmacines paslaugas, atliekamą vaistinių preparatų pardavimą (išdavimą) ir ekstemporalių vaistinių preparatų gamybą, jeigu tai nustatyta vaistininko pareigybės aprašyme;“.
 
 
-3. Buvusį 7 straipsnio 3 dalies 4 punktą laikyti 5 punktu. ^28e2dbd562080b132fa1dc1f
+3. Buvusį 7 straipsnio 3 dalies 4 punktą laikyti 5 punktu. ^s-e466b846042953bd6d0e4aa2
 
 
-4. Pakeisti 7 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip: ^08ddd2c08b8c608616dc8264
+4. Pakeisti 7 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip: ^s-a469e65976cc9a022f217a1a
 
 
 „2) parduoti vaistinių prekes, teikti informaciją apie jų vartojimą ir laikymo sąlygas, prižiūrint vaistininkui teikti farmacines paslaugas ir parduoti (išduoti) vaistinius preparatus;“.
 
 
-5. Pakeisti 7 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip: ^92721bc0c21488c30d8417e7
+5. Pakeisti 7 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip: ^s-278f08f086da1998a6b22a68
 
 
 „3) prižiūrint vaistininkui gaminti ekstemporalius vaistinius preparatus;“.
 
 
 
-### 5 straipsnis. 35 straipsnio papildymas ir pakeitimas
+### 5 straipsnis. 35 straipsnio papildymas ir pakeitimas ^s-09166bd9571e1800b7e7562b
 
 
-1. Papildyti 35 straipsnį nauja 12 dalimi: ^e1f67d3d6878504107849330
+1. Papildyti 35 straipsnį nauja 12 dalimi: ^s-6fdc9f1265ba0b7c54a2e3ea
 
 
 „12. Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, turinčius mažiau kaip 3 tūkst. gyventojų, ir kaimo gyvenamąsias vietoves, kuriuose nesant vaistininko vaistinės patalpose jos darbo laiku gali dirbti vaistininko padėjėjas (farmakotechnikas), iki 2006 m. įgijęs vaistininko padėjėjo (farmakotechniko) ar jai prilygintą profesinę kvalifikaciją, sveikatos apsaugos ministro nustatyta tvarka ryšio priemonėmis prižiūrimas vaistininko.“
@@ -115,17 +120,17 @@ Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
 
 
 
-2. Papildyti 35 straipsnį nauja 12 dalimi: ^d7582961dda4e9d5f295268b
+2. Papildyti 35 straipsnį nauja 12 dalimi: ^s-76e694eaf5002daf9169c27b
 
 
 „12. Vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimo (išdavimo) ir ekstemporalių vaistinių preparatų gamybos priežiūra vaistinėje suprantama kaip receptų, pagal kuriuos vaistininko padėjėjas (farmakotechnikas) pardavė (išdavė) vaistinius preparatus, patikrinimas, jeigu reikia, vaistininko padėjėjo (farmakotechniko) konsultavimas (žodžiu ar ryšio priemonėmis), parenkant gyventojui reikalingus vaistinius preparatus, teikiant farmacinę informaciją, vaistininko padėjėjo (farmakotechniko) pagamintų ekstemporalių vaistinių preparatų patikrinimas.“
 
 
-3. Buvusias 35 straipsnio 11, 12, 13, 14 ir 15 dalis laikyti atitinkamai 13, 14, 15, 16 ir 17 dalimis. ^68798e40c5556cf7bf0a3ef9
+3. Buvusias 35 straipsnio 11, 12, 13, 14 ir 15 dalis laikyti atitinkamai 13, 14, 15, 16 ir 17 dalimis. ^s-33eb6a35302a350402400321
 
 
 
-### 6 straipsnis. 39 straipsnio 1 punkto pakeitimas
+### 6 straipsnis. 39 straipsnio 1 punkto pakeitimas ^s-d89a134eabe71bb3f604cf57
 
 
 Pakeisti 39 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -135,27 +140,27 @@ Pakeisti 39 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 76 straipsnio 5 dalies pripažinimas netekusia galios
+### 7 straipsnis. 76 straipsnio 5 dalies pripažinimas netekusia galios ^s-27b996953f464cb219058bd8
 
 
 76 straipsnio 5 dalį pripažinti netekusia galios.
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-7621bd2e01e60199e8ddec2f
 
 
-1. Šis įstatymas, išskyrus [[#^e1f67d3d6878504107849330|5 straipsnio 1 dalį]] ir [[#^003c5cee7b3b27279654f2fd|šio straipsnio 3 dalį]], įsigalioja po trijų mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“. ^d19652e7fc359a7e37932480
+1. Šis įstatymas, išskyrus [[#^s-6fdc9f1265ba0b7c54a2e3ea|5 straipsnio 1 dalį]] ir [[#^s-6eff2fc79239f6ff10e98d42|šio straipsnio 3 dalį]], įsigalioja po trijų mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“. ^s-49309c17d5369f004115815b
 
 
-2. Šio įstatymo [[#^e1f67d3d6878504107849330|5 straipsnio 1 dalis]] įsigalioja 2023 m. liepos 1 d. ^b8c16a3deac0225d46662ef2
+2. Šio įstatymo [[#^s-6fdc9f1265ba0b7c54a2e3ea|5 straipsnio 1 dalis]] įsigalioja 2023 m. liepos 1 d. ^s-11a544655e5e697f4d38b3cb
 Straipsnio dalies pakeitimai:
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
 
 
 
-3. Sveikatos apsaugos ministras iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^003c5cee7b3b27279654f2fd
+3. Sveikatos apsaugos ministras iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-6eff2fc79239f6ff10e98d42
 
 
 
@@ -173,14 +178,14 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
-Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-7621bd2e01e60199e8ddec2f|8 straipsnio]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
-Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-7621bd2e01e60199e8ddec2f|8 straipsnio]] pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
-Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#5 straipsnis. 35 straipsnio papildymas ir pakeitimas|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-09166bd9571e1800b7e7562b|5 straipsnio]] pakeitimo įstatymas

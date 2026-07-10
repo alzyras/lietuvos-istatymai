@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.37D28B00E8C5"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 straipsnių pakeitimo ir papildymo įstatymo 13, 14 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 straipsnių pakeitimo ir papildymo įstatymo 13, 14 ir 15 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 straipsnių pakeitimo ir papildymo įstatymo 13, 14 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-22"
 latest_path: "latest/TAR.37D28B00E8C5.md"
 latest_sha256: "8efd567ba7ad323bebef9047e1689470d168f57218f35761dcb78d9b6044d0e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.37D28B00E8C5]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 straipsnių pakeitimo ir papildymo įstatymo 13, 14 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.37D28B00E8C5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.37D28B00E8C5
+- Ryšiai: [[Ryšiai/TAR.37D28B00E8C5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-7d9b383b0e1bb0727f1d4a04
 
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio pakeitimas
+### 2 straipsnis. 14 straipsnio pakeitimas ^s-97357459aee286535a2dd033
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -58,13 +63,13 @@ Vyriausybė iki 2012 m. sausio 1 d. parengia ir priima šio įstatymo 13 straips
 
 
 
-### 3 straipsnis. 15 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 15 straipsnio 2 dalies pakeitimas ^s-389971558583a6566725a2fc
 
 
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Šio įstatymo 10 straipsnyje išdėstyto Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2012 m. sausio 1 d. ir vėlesnių datų.“
+„2. Šio įstatymo 10 straipsnyje išdėstyto [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2012 m. sausio 1 d. ir vėlesnių datų.“
 
 
 

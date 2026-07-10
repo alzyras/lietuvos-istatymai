@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.22B70DC17F89"
 pavadinimas: "Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas"
+  - "nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-24"
 latest_path: "latest/TAR.22B70DC17F89.md"
 latest_sha256: "a6b6abb5aab352da4a8af0af65e85ec26c2da1f2ba3c2dde603e6e470286dc0a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.22B70DC17F89]]"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.22B70DC17F89.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.22B70DC17F89
+- Ryšiai: [[Ryšiai/TAR.22B70DC17F89|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas ^s-3806a543c6875d446a6d9325
 
 
 20 straipsnio 2 dalies antrame sakinyje vietoj žodžių „padaryta žala atlyginama įstatymų nustatyta tvarka“ įrašyti žodžius „padarytą žalą atlygina valstybė Vyriausybės nustatyta tvarka“ ir šią dalį išdėstyti taip:

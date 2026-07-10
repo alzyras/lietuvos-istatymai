@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.08BE17A40AF1"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4 straipsnių pakeitimo ir priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4 straipsnių pakeitimo ir priedo papildymo įstatymas"
+  - "pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4 straipsnių pakeitimo ir priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.08BE17A40AF1.md"
 latest_sha256: "bbe5c571860c45f3d373f3ee312e29fc3f90b76103682aa6dc924ba5f88da30a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.08BE17A40AF1]]"
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4 straipsnių pakeitimo ir priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.08BE17A40AF1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.08BE17A40AF1
+- Ryšiai: [[Ryšiai/TAR.08BE17A40AF1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,17 +38,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas ^s-c1cbb3d81ba95a952bdf59e6
 
 
 Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
-„7. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžtos mokėjimo įstaigos, taip pat investicinės kintamojo kapitalo bendrovės.“
+„7. Finansų įstaigos – [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]] apibrėžtos kredito įstaigos ir finansų įmonės, [[latest/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatyme]] apibrėžtos mokėjimo įstaigos, taip pat investicinės kintamojo kapitalo bendrovės.“
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-a2caafebd8633639a8b6ee75
 
 
 4 straipsnio 1 dalyje po žodžių „kredito“ įrašyti žodžius „ir mokėjimo“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo priedo papildymas
+### 3 straipsnis. Įstatymo priedo papildymas ^s-5fcb078c72a7453bfa2b85ab
 
 
 Papildyti Įstatymo priedą 5 punktu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F21A2BDD9A79"
 pavadinimas: "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-09-28"
 latest_path: "latest/TAR.F21A2BDD9A79.md"
 latest_sha256: "2df9a21f8b8a1886da594aff3aea8358b5dfb4f4144766fd91f3fb242f0d4f31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F21A2BDD9A79]]"
 ---
 # Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F21A2BDD9A79.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F21A2BDD9A79
+- Ryšiai: [[Ryšiai/TAR.F21A2BDD9A79|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-f68a22fb1a764a53953e2769
 
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:

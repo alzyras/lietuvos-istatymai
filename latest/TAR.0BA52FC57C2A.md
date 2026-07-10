@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0BA52FC57C2A"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Moldovos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-08-21"
 latest_path: "latest/TAR.0BA52FC57C2A.md"
 latest_sha256: "41d2bddd010cf440ead1a67a7e362af8faf1f965ec8772a5f6f2fd32fda3219a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0BA52FC57C2A]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0BA52FC57C2A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0BA52FC57C2A
+- Ryšiai: [[Ryšiai/TAR.0BA52FC57C2A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-d3499d933b1fd8df9c3ab80f
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 16 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja 1998 m. vasario 18 d. Minske pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo.

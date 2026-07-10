@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.576E1C07386E"
 pavadinimas: "Lietuvos Respublikos ūkinių bendrijų įstatymo 12 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkinių bendrijų įstatymo 12 straipsnio papildymo įstatymas"
+  - "ūkinių bendrijų įstatymo 12 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-05"
 latest_path: "latest/TAR.576E1C07386E.md"
 latest_sha256: "fa0d0e506d88b43e99187387dea3fdefae980a49e615262ab606583df719dfaa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.576E1C07386E]]"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymo 12 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.576E1C07386E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.576E1C07386E
+- Ryšiai: [[Ryšiai/TAR.576E1C07386E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio papildymas 9 dalimi
+### 1 straipsnis. 12 straipsnio papildymas 9 dalimi ^s-af6fbdc029156e446fc05a0b
 
 
 Papildyti 12 straipsnį 9 dalimi:

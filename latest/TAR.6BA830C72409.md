@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6BA830C72409"
 pavadinimas: "Lietuvos Respublikos socialinės paramos mokiniams įstatymo 2, 6, 10, 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos socialinės paramos mokiniams įstatymo 2, 6, 10, 14 straipsnių pakeitimo įstatymas"
+  - "socialinės paramos mokiniams įstatymo 2, 6, 10, 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.6BA830C72409.md"
 latest_sha256: "bd5494845d3a74631370201dd2d371318a84ad9c77d6beb68b4a88c9978e8fa1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6BA830C72409]]"
 ---
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymo 2, 6, 10, 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6BA830C72409.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6BA830C72409
+- Ryšiai: [[Ryšiai/TAR.6BA830C72409|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,22 +35,22 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 ir 4 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 3 ir 4 dalių pakeitimas ^s-6aa699b0efa5f2bdce83d090
 
 
-1. 2 straipsnio 3 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šią dalį išdėstyti taip: ^486f0181e2d17e2fcf020866
+1. 2 straipsnio 3 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šią dalį išdėstyti taip: ^s-509d4c5b14b9062f67a80fa8
 
 
 „3. Socialinės rizikos šeima – kaip ši sąvoka apibrėžta Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatyme.“
 
 
-2. 2 straipsnio 4 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šią dalį išdėstyti taip: ^09de85b93ceb8923a8027d13
+2. 2 straipsnio 4 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šią dalį išdėstyti taip: ^s-aebfc5a13d9479e5db8d1a59
 
 
 „4. Šeima – kaip ši sąvoka apibrėžta Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatyme.“
 
 
-### 2 straipsnis. 6 straipsnio pakeitimas
+### 2 straipsnis. 6 straipsnio pakeitimas ^s-43e720e8a8f1d883334e94f0
 
 
 6 straipsnyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 13 straipsnyje“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo penktajame skirsnyje“ ir visą straipsnį išdėstyti taip:
@@ -57,22 +62,22 @@ Vilnius
 Šeimos pajamos per mėnesį apskaičiuojamos Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo penktajame skirsnyje nustatyta tvarka.“
 
 
-### 3 straipsnis. 10 straipsnio 1 ir 4 dalių pakeitimas
+### 3 straipsnis. 10 straipsnio 1 ir 4 dalių pakeitimas ^s-48b3f67707c96bd74049b4c4
 
 
-1. 10 straipsnio 1 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 16 straipsnyje“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 19 straipsnyje“ ir šią dalį išdėstyti taip: ^8e18d7fedbe94bc002607aac
+1. 10 straipsnio 1 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 16 straipsnyje“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 19 straipsnyje“ ir šią dalį išdėstyti taip: ^s-e9226d03df5af0fa25c916c3
 
 
 „1. Vienas iš mokinio tėvų (įtėvių) (toliau – pareiškėjas) dėl socialinės paramos mokiniams kreipiasi į deklaruotos gyvenamosios vietos savivaldybės administraciją, o jeigu gyvenamoji vieta nedeklaruota, – į savivaldybės, kurioje gyvena, administraciją, užpildydamas Vyriausybės ar jos įgaliotos institucijos patvirtintą prašymo-paraiškos socialinei paramai mokiniams gauti formą, ir prideda reikalingus dokumentus, nustatytus Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 19 straipsnyje, išskyrus duomenis apie šeimos turimą turtą.“
 
 
-2. 10 straipsnio 4 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šią dalį išdėstyti taip: ^c1820e73fd852ec41e551f45
+2. 10 straipsnio 4 dalyje vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šią dalį išdėstyti taip: ^s-2f23d9a5d0814e353a714230
 
 
 „4. Jei kreipimosi dėl socialinės paramos mokiniams metu šeima gauna piniginę socialinę paramą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą, pareiškėjas pateikia mokyklos ar gyvenamosios vietos savivaldybės administracijai laisvos formos prašymą socialinei paramai mokiniams gauti.“
 
 
-### 4 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas
+### 4 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas ^s-a1f159a705cfb80b27d1861f
 
 
 14 straipsnio 3 dalies 2 punkte vietoj žodžių „mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims)“ įrašyti žodžius „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ ir šį punktą išdėstyti taip:
@@ -81,7 +86,7 @@ Vilnius
 „2) esant šio įstatymo 5 straipsnio 2 dalyje ar 10 straipsnio 5 dalyje nustatytoms aplinkybėms ar kilus įtarimui, kad pateikta neteisinga informacija, tikrina šeimos gyvenimo sąlygas ir surašo buities tyrimo aktą Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo nustatyta tvarka. Tokiais atvejais šis aktas yra vienas iš dokumentų teisei į socialinę paramą mokiniams nustatyti;“.
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-e9ba1839ae40a13a4493aa59
 
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.

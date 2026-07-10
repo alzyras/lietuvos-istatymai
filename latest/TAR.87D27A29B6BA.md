@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.87D27A29B6BA"
 pavadinimas: "Lietuvos Respublikos Lietuvos banko įstatymo 53 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos banko įstatymo 53 straipsnio pakeitimo įstatymas"
+  - "Lietuvos banko įstatymo 53 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.87D27A29B6BA.md"
 latest_sha256: "cbc13bc427385c7e6f9f2b606a253a764721b1bd8daf94baff4872fd3d4ae8e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.87D27A29B6BA]]"
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 53 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.87D27A29B6BA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.87D27A29B6BA
+- Ryšiai: [[Ryšiai/TAR.87D27A29B6BA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 53 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 53 straipsnio 3 dalies pakeitimas ^s-37ef177b9cfa3e888089574c
 
 
 53 straipsnio 3 dalyje išbraukti žodžius „raštu įspėjęs skolininką“, vietoj žodžių „sutartyje numatytu būdu“ įrašyti žodžius „teisės aktų nustatyta tvarka“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3a1d441600a353232dcb00b1
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

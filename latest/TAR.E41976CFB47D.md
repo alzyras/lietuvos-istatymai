@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E41976CFB47D"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-01-01"
 latest_path: "latest/TAR.E41976CFB47D.md"
 latest_sha256: "c34c0a64478d4dd9602efc8db738e8a055c15e650401adb250f98af5a0cd8bb7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E41976CFB47D]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E41976CFB47D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E41976CFB47D
+- Ryšiai: [[Ryšiai/TAR.E41976CFB47D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

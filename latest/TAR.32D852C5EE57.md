@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.32D852C5EE57"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 straipsnių pakeitimo ir papildymo, 104 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 113-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 straipsnių pakeitimo ir papildymo, 104 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 113-1 straipsniu įstatymas"
+  - "baudžiamojo kodekso 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 straipsnių pakeitimo ir papildymo, 104 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 113-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-03-31"
 latest_path: "latest/TAR.32D852C5EE57.md"
 latest_sha256: "f60001e9a20be18c5651cefdfa851d4abd81773182a6156eca7e89e5fd9cab74"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.32D852C5EE57]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 straipsnių pakeitimo ir papildymo, 104 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 113-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.32D852C5EE57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.32D852C5EE57
+- Ryšiai: [[Ryšiai/TAR.32D852C5EE57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-127279774ad048c016a7130f
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 7 straipsnio 1 punkto pakeitimas
+### 2 straipsnis. 7 straipsnio 1 punkto pakeitimas ^s-ff2b961a880b50dada428535
 
 
 Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 95 straipsnio 8 dalies pakeitimas
+### 3 straipsnis. 95 straipsnio 8 dalies pakeitimas ^s-d94bad84a74185f647334d8b
 
 
 Pakeisti 95 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -63,41 +68,41 @@ Pakeisti 95 straipsnio 8 dalį ir ją išdėstyti taip:
 „8. Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse:
 
 
-1) genocidui (99 straipsnis); ^dbeb0fef9b4a50681ad629c3
+1) genocidui (99 straipsnis); ^s-fd94f2bab6523cfe1a326374
 
 
-2) tarptautinės teisės draudžiamam elgesiui su žmonėmis (100 straipsnis); ^1d2ca3ae6b5ce37f433bbebb
+2) tarptautinės teisės draudžiamam elgesiui su žmonėmis (100 straipsnis); ^s-1f0b7d67cec76b7ad832c852
 
 
-3) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis); ^15014662c26d75420ca7373a
+3) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis); ^s-b8868d35f145d4fc3891fe53
 
 
-4) civilių trėmimui ar perkėlimui (102 straipsnis); ^21073d14f35f6bd744610319
+4) civilių trėmimui ar perkėlimui (102 straipsnis); ^s-f9d64f4a82c376464de7c91f
 
 
-5) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis); ^32c5a1712a74c065b0b53363
+5) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis); ^s-3f2744a27482a55e9b5617dc
 
 
-6) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis); ^534e630c7bca9373ef5d4b30
+6) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis); ^s-210a6367838bef19ccbca68d
 
 
-7) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis); ^6c1e39e4e5ceb083d0ed9db8
+7) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis); ^s-93dedf36429ae5f5d105912b
 
 
-8) agresijai (110 straipsnis); ^0be6870a00bd15daa5896f93
+8) agresijai (110 straipsnis); ^s-e74040a3f9e63e724f38b8f7
 
 
-9) draudžiamai karo atakai (111 straipsnis); ^e1ddd441a43e45b98f5750c1
+9) draudžiamai karo atakai (111 straipsnis); ^s-a213298e2c6df3b6863daf15
 
 
-10) uždraustų karo priemonių naudojimui (112 straipsnis); ^67759d68e1a06e1d09ccab5f
+10) uždraustų karo priemonių naudojimui (112 straipsnis); ^s-e82db21411126202fdc5bc55
 
 
-11) aplaidžiam vado pareigų vykdymui (1131 straipsnis).“ ^8d1cfee0841ec4d94a8b3055
+11) aplaidžiam vado pareigų vykdymui (1131 straipsnis).“ ^s-58bf11a6e1b8d5ce1544ffc2
 
 
 
-### 4 straipsnis. 100 straipsnio pakeitimas
+### 4 straipsnis. 100 straipsnio pakeitimas ^s-5cc7859403fbf5db2b0ce3d8
 
 
 Pakeisti 100 straipsnį ir jį išdėstyti taip:
@@ -113,7 +118,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki dvidešimties metų arba laisvė
 
 
 
-### 5 straipsnis. 101 straipsnio pakeitimas
+### 5 straipsnis. 101 straipsnio pakeitimas ^s-75077e3ecf976bbe429060b6
 
 
 Pakeisti 101 straipsnį ir jį išdėstyti taip:
@@ -129,7 +134,7 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 
 
-### 6 straipsnis. 102 straipsnio pakeitimas
+### 6 straipsnis. 102 straipsnio pakeitimas ^s-f3ccb7deccf6670123b8d50d
 
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
@@ -145,7 +150,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.“
 
 
 
-### 7 straipsnis. 103 straipsnio pakeitimas ir papildymas
+### 7 straipsnis. 103 straipsnio pakeitimas ir papildymas ^s-737a0847b72721e690df3bd6
 
 
 Pakeisti ir papildyti 103 straipsnį ir jį išdėstyti taip:
@@ -154,22 +159,22 @@ Pakeisti ir papildyti 103 straipsnį ir jį išdėstyti taip:
 „103 straipsnis. Tarptautinės humanitarinės teisės saugomų asmenų žalojimas, kankinimas ar kitoks nežmoniškas elgesys su jais ar jų turto apsaugos pažeidimas
 
 
-1. Tas, kas karo ar ginkluoto konflikto arba agresijos, okupacijos ar aneksijos metu įsakė, kurstė ar organizavo nežmoniškai elgtis ar nežmoniškai elgėsi su tarptautinės humanitarinės teisės saugomais asmenimis: juos sunkiai sužalojo, susargdino arba kankino; atliko su jais biologinį ar medicininį eksperimentą, neteisėtai paėmė persodinti jų organą ar audinį, neteisėtai ėmė jų kraują arba kitaip nežmoniškai su jais elgėsi; ėmė juos įkaitais; baudė kriminalinėmis bausmėmis be nepriklausomo ir nešališko teismo sprendimo ar be gynybos garantijų teisme; taikė kolektyvines bausmes; žagino ar seksualiai prievartavo žmones, įtraukė juos į seksualinę vergovę ar vertė juos užsiimti prostitucija; priverstinai sterilizavo arba apvaisino; naudojo bauginimo ir teroro priemones; neteisėtai suvaržė ar atėmė jų laisvę; atskyrė vaikus nuo tėvų ar globėjų; sukėlė jiems mirties nuo bado grėsmę; neteisėtai atėmė, konfiskavo civilių asmenų turtą ar vykdė didelio masto jo nusavinimą, nepateisinamą karo būtinumu; užgauliai žemino jų orumą; vertė pereiti į kitą tikėjimą; išniekino nukautųjų palaikus, ^5267c0a2f0ea264137199870
+1. Tas, kas karo ar ginkluoto konflikto arba agresijos, okupacijos ar aneksijos metu įsakė, kurstė ar organizavo nežmoniškai elgtis ar nežmoniškai elgėsi su tarptautinės humanitarinės teisės saugomais asmenimis: juos sunkiai sužalojo, susargdino arba kankino; atliko su jais biologinį ar medicininį eksperimentą, neteisėtai paėmė persodinti jų organą ar audinį, neteisėtai ėmė jų kraują arba kitaip nežmoniškai su jais elgėsi; ėmė juos įkaitais; baudė kriminalinėmis bausmėmis be nepriklausomo ir nešališko teismo sprendimo ar be gynybos garantijų teisme; taikė kolektyvines bausmes; žagino ar seksualiai prievartavo žmones, įtraukė juos į seksualinę vergovę ar vertė juos užsiimti prostitucija; priverstinai sterilizavo arba apvaisino; naudojo bauginimo ir teroro priemones; neteisėtai suvaržė ar atėmė jų laisvę; atskyrė vaikus nuo tėvų ar globėjų; sukėlė jiems mirties nuo bado grėsmę; neteisėtai atėmė, konfiskavo civilių asmenų turtą ar vykdė didelio masto jo nusavinimą, nepateisinamą karo būtinumu; užgauliai žemino jų orumą; vertė pereiti į kitą tikėjimą; išniekino nukautųjų palaikus, ^s-2cc56324f1ec742925e1f9ab
 baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
 
 
-2. Tas, kas padarė [[#^5267c0a2f0ea264137199870|šio straipsnio 1 dalyje]] numatytą veiką panaudodamas apgaulę, baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.“ ^aab216ea6505c062dc9eae87
+2. Tas, kas padarė [[#^s-2cc56324f1ec742925e1f9ab|šio straipsnio 1 dalyje]] numatytą veiką panaudodamas apgaulę, baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.“ ^s-be69eef1504d73b1be0eeeed
 
 
 
-### 8 straipsnis. 104 straipsnio pripažinimas netekusiu galios
+### 8 straipsnis. 104 straipsnio pripažinimas netekusiu galios ^s-519086bbc6adff38d9ad485b
 
 
 104 straipsnį pripažinti netekusiu galios.
 
 
 
-### 9 straipsnis. 105 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 105 straipsnio 1 dalies pakeitimas ^s-4fd77432b456c5007448066f
 
 
 Pakeisti 105 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -180,7 +185,7 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.“
 
 
 
-### 10 straipsnis. 106 straipsnio pakeitimas
+### 10 straipsnis. 106 straipsnio pakeitimas ^s-825fee7f06fddd1e7fd9559f
 
 
 Pakeisti 106 straipsnį ir jį išdėstyti taip:
@@ -196,7 +201,7 @@ baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.“
 
 
 
-### 11 straipsnis. 109 straipsnio pakeitimas
+### 11 straipsnis. 109 straipsnio pakeitimas ^s-8037082d0517a71d5cb906f7
 
 
 Pakeisti 109 straipsnį ir jį išdėstyti taip:
@@ -212,7 +217,7 @@ baudžiamas laisvės atėmimu iki trejų metų arba bauda.“
 
 
 
-### 12 straipsnis. 111 straipsnio 1 dalies pakeitimas
+### 12 straipsnis. 111 straipsnio 1 dalies pakeitimas ^s-374aa85325c08419c5b26831
 
 
 Pakeisti 111 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -223,7 +228,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.“
 
 
 
-### 13 straipsnis. Kodekso papildymas 1131 straipsniu
+### 13 straipsnis. Kodekso papildymas 1131 straipsniu ^s-c265ffb4f193546cf10695f8
 
 
 Papildyti Kodeksą 1131 straipsniu:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ED063FC075EA"
 pavadinimas: "Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-28"
 latest_path: "latest/TAR.ED063FC075EA.md"
 latest_sha256: "f7511f74295a21d4eecdb7f84b50feaeb76de86530f973a5a1a64603917da153"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ED063FC075EA]]"
 ---
 # Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ED063FC075EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ED063FC075EA
+- Ryšiai: [[Ryšiai/TAR.ED063FC075EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

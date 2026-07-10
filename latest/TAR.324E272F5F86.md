@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.324E272F5F86"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 23 ir 29 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 23 ir 29 straipsnių pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 23 ir 29 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-12-13"
 latest_path: "latest/TAR.324E272F5F86.md"
 latest_sha256: "328290d23cd272c22e067408922db9e57a4a8aaf85db919903a44b2e426fa595"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.324E272F5F86]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 23 ir 29 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.324E272F5F86.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.324E272F5F86
+- Ryšiai: [[Ryšiai/TAR.324E272F5F86|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 2 dalies 5 punkto pakeitimas
+### 1 straipsnis. 23 straipsnio 2 dalies 5 punkto pakeitimas ^s-f442a39adad60c3cef5b3be5
 
 
 23 straipsnio 2 dalies 5 punkte vietoj žodžio „sekretorius“ įrašyti žodį „viceministrus“, vietoj žodžio „sekretoriams“ įrašyti žodį „viceministrams“ ir visą 5 punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 29 straipsnio pakeitimas
+### 2 straipsnis. 29 straipsnio pakeitimas ^s-d13d96728e54450bab15d323
 
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:

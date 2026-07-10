@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.802AB09B8067"
 pavadinimas: "Lietuvos Respublikos teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.802AB09B8067.md"
 latest_sha256: "bed3a688f6e5caa5cdb3e51f0d8048bd1cc3d1bf188edeb908f79757c28e4cc4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.802AB09B8067]]"
 ---
 # Lietuvos Respublikos teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.802AB09B8067.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.802AB09B8067
+- Ryšiai: [[Ryšiai/TAR.802AB09B8067|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 6 dalies pakeitimas ^s-54e5f9b5b787006a94e9c071
 
 
 8 straipsnio 6 dalyje vietoj žodžių „Valstybės žinių“ priede „Informaciniai pranešimai“ įrašyti žodžius „Teisingumo ministerijos interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6f8593e5857dc6bd496dfd59
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

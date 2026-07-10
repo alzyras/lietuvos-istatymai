@@ -1,0 +1,16 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.E9E8FECB6200"
+pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 6, 24 straipsnių pakeitimo ir papildymo įstatymas"
+---
+# Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 6, 24 straipsnių pakeitimo ir papildymo įstatymas: ryšiai
+
+- [[latest/TAR.E9E8FECB6200|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+_Nėra._
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.4325B0C38B2F#^s-0f293cf075915aa864230fb7|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 2 citatos - NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 6, 24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

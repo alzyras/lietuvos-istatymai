@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C87205318488"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-04-30"
 latest_path: "latest/TAR.C87205318488.md"
 latest_sha256: "ef00564218376d7ce0b27d6e25d19c5d43a8f0ddd7dcdb2fad1d0d2546f159a3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C87205318488]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C87205318488.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C87205318488
+- Ryšiai: [[Ryšiai/TAR.C87205318488|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +36,7 @@ Vilnius
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-Padaryti Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatyme (Žin., 1991, Nr. 24-637) šiuos papildymus ir pakeitimus:
+Padaryti [[latest/TAR.671AE17BDB50|Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatyme]] (Žin., 1991, Nr. 24-637) šiuos papildymus ir pakeitimus:
 
 
 1. 1 straipsnio 1 punktą išdėstyti taip:

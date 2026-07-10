@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.14A55BF50A01"
 pavadinimas: "Lietuvos Respublikos energetikos įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos energetikos įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "energetikos įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.14A55BF50A01.md"
 latest_sha256: "8d6086b298b8ba04e99a3ea66dabbfeaad483ed00616dd310009fa10ffaabce5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.14A55BF50A01]]"
 ---
 # Lietuvos Respublikos energetikos įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.14A55BF50A01.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.14A55BF50A01
+- Ryšiai: [[Ryšiai/TAR.14A55BF50A01|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,17 +40,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 6 dalies pakeitimas ^s-d65b1d7d6d2f0027339765fb
 
 
 Pakeisti 18 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
-„6. Branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir valstybinę priežiūrą atlieka Valstybinė atominės energetikos saugos inspekcija. Valstybinės atominės energetikos saugos inspekcijos kompetenciją nustato Branduolinės energijos įstatymas, Branduolinės saugos įstatymas, Radiacinės saugos įstatymas ir Radioaktyviųjų atliekų tvarkymo įstatymas.“
+„6. Branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir valstybinę priežiūrą atlieka Valstybinė atominės energetikos saugos inspekcija. Valstybinės atominės energetikos saugos inspekcijos kompetenciją nustato [[latest/TAR.6286F15970B3|Branduolinės energijos įstatymas]], [[latest/TAR.424F7C72601E|Branduolinės saugos įstatymas]], [[latest/TAR.7083DB116A2E|Radiacinės saugos įstatymas]] ir [[latest/TAR.951DF53F837F|Radioaktyviųjų atliekų tvarkymo įstatymas]].“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c856167cd509aed14043447d
 
 
 Šis įstatymas įsigalioja 2011 m. spalio 1 d.

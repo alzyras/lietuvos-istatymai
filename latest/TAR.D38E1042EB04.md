@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D38E1042EB04"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl pataisytos 1992 metų Europos archeologijos paveldo apsaugos konvencijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl pataisytos 1992 metų Europos archeologijos paveldo apsaugos konvencijos ratifikavimo"
+  - "įstatymas dėl pataisytos 1992 metų Europos archeologijos paveldo apsaugos konvencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-11-25"
 latest_path: "latest/TAR.D38E1042EB04.md"
 latest_sha256: "ec684bdf3c63121629944331a07b8f11b4272e2dda894c7e5beff06825f05d92"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D38E1042EB04]]"
 ---
 # Lietuvos Respublikos įstatymas dėl pataisytos 1992 metų Europos archeologijos paveldo apsaugos konvencijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D38E1042EB04.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D38E1042EB04
+- Ryšiai: [[Ryšiai/TAR.D38E1042EB04|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-0a6a10e1a3eb5eb28c76cefd
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 24 d. dekretą Nr. 588, ratifikuoja pataisytą 1992 metų Europos archeologijos paveldo apsaugos konvenciją, pasirašytą 1998 m. sausio 26 d. Strasbūre.

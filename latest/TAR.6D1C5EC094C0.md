@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6D1C5EC094C0"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-28"
 latest_path: "latest/TAR.6D1C5EC094C0.md"
 latest_sha256: "7bbb295bf8de70a5d4933e65fc7bfd478b99f9c930b3d4abcb6eb8efeadb7ace"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6D1C5EC094C0]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6D1C5EC094C0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6D1C5EC094C0
+- Ryšiai: [[Ryšiai/TAR.6D1C5EC094C0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 56 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 56 straipsnio 2 dalies pakeitimas ^s-8c637884f77f27ce2c434226
 
 
 56 straipsnio 2 dalyje vietoj skaičiaus „2012“ įrašyti skaičių „2013“ ir šią dalį išdėstyti taip:

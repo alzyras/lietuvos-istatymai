@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.40D275B34EDF"
 pavadinimas: "Lietuvos Respublikos karo prievolės įstatymo 8, 9, 18 ir 25 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo prievolės įstatymo 8, 9, 18 ir 25 straipsnių pakeitimo įstatymas"
+  - "karo prievolės įstatymo 8, 9, 18 ir 25 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.40D275B34EDF.md"
 latest_sha256: "89f780f188c795c154394ddf4aefb0d2ca12731ed15c56cc1fe764ff9e8f4883"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.40D275B34EDF]]"
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 8, 9, 18 ir 25 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.40D275B34EDF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.40D275B34EDF
+- Ryšiai: [[Ryšiai/TAR.40D275B34EDF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-56876870a4140aaf56c8e04d
 
 
 8 straipsnio 2 dalyje po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 9 straipsnio 1 dalies 5 punkto pakeitimas
+### 2 straipsnis. 9 straipsnio 1 dalies 5 punkto pakeitimas ^s-936df0fd0ac6201f2c1d02fa
 
 
 Pakeisti 9 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 9 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 18 straipsnio 2 dalies 2 punkto pakeitimas
+### 3 straipsnis. 18 straipsnio 2 dalies 2 punkto pakeitimas ^s-620cb79c368cd40f673dc26c
 
 
 18 straipsnio 2 dalies 2 punkte po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šį punktą išdėstyti taip:
@@ -61,7 +66,7 @@ Pakeisti 9 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 25 straipsnio 4 dalies pakeitimas
+### 4 straipsnis. 25 straipsnio 4 dalies pakeitimas ^s-499fe87065cff95e4a463980
 
 
 25 straipsnio 4 dalyje po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šią dalį išdėstyti taip:
@@ -71,10 +76,10 @@ Pakeisti 9 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-1f38a3a02afbc793705ae82c
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

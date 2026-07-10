@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F76C3087F5C3"
 pavadinimas: "Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 6, 8 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 6, 8 straipsnių pakeitimo ir papildymo įstatymas"
+  - "asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 6, 8 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-28"
 latest_path: "latest/TAR.F76C3087F5C3.md"
 latest_sha256: "521435d8b2e595b8fe79c7fb96b91c39cd14fe5986e001bdc6248acf5c6717ac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F76C3087F5C3]]"
 ---
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 6, 8 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F76C3087F5C3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F76C3087F5C3
+- Ryšiai: [[Ryšiai/TAR.F76C3087F5C3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 ir 3 dalių papildymas
+### 1 straipsnis. 6 straipsnio 1 ir 3 dalių papildymas ^s-b87ca80597d332bad2726304
 
 
-1. 6 straipsnio 1 dalyje po žodžio „atskleisti“ įrašyti žodį „visą“ ir šią dalį išdėstyti taip: ^d702c058ade8dc4ab0c4b616
+1. 6 straipsnio 1 dalyje po žodžio „atskleisti“ įrašyti žodį „visą“ ir šią dalį išdėstyti taip: ^s-e464be8ba1f94767633e05e3
 
 
 „1. Asmenys, slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, per 6 mėnesius nuo „Valstybės žiniose“ Komisijos paskelbtos registravimo ir prisipažinimų priėmimo dienos turi atvykti registruotis, savanoriškai raštu prisipažinti Lietuvos valstybei slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, atskleisti visą jiems žinomą informaciją apie specialiųjų tarnybų veiklą bei perduoti turimus dokumentus ar daiktus, susijusius su buvusios SSRS specialiosiomis tarnybomis.“
 
 
-2. 6 straipsnio 3 dalyje po žodžių „pateikus žinomai melagingas žinias“ įrašyti žodžius „ar neperdavus turimų dokumentų arba daiktų, susijusių su buvusios SSRS specialiosiomis tarnybomis“ ir šią dalį išdėstyti taip: ^8d0efc16b6a5a7c066fce0b6
+2. 6 straipsnio 3 dalyje po žodžių „pateikus žinomai melagingas žinias“ įrašyti žodžius „ar neperdavus turimų dokumentų arba daiktų, susijusių su buvusios SSRS specialiosiomis tarnybomis“ ir šią dalį išdėstyti taip: ^s-35f5a3822309b4e2d9e0d7af
 
 
 „3. Atvykę registruotis ir prisipažinti asmenys yra įspėjami, kad, nuslėpus informaciją apie save ir specialiųjų tarnybų veiklą arba pateikus melagingas žinias ar neperdavus turimų dokumentų arba daiktų, susijusių su buvusios SSRS specialiosiomis tarnybomis, duomenys apie jų slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis gali būti paskelbti šio įstatymo 8 straipsnio 3 arba 4 dalies nustatyta tvarka. Asmenys taip pat įspėjami, kad asmuo, pateikęs žinomai melagingas žinias apie kitus asmenis, yra baudžiamas pagal įstatymą.“
 
 
 
-### 2 straipsnis. 8 straipsnio 3 dalies pakeitimas ir papildymas
+### 2 straipsnis. 8 straipsnio 3 dalies pakeitimas ir papildymas ^s-a45031785868976877fd6c9a
 
 
 Pakeisti ir papildyti 8 straipsnio 3 dalį ir ją išdėstyti taip:

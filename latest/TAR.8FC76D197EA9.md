@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8FC76D197EA9"
 pavadinimas: "Lietuvos Respublikos gamtinių dujų įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gamtinių dujų įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "gamtinių dujų įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-30"
 latest_path: "latest/TAR.8FC76D197EA9.md"
 latest_sha256: "1b931a2ce719333eef0bc49d7c1fa09493f3d04a0ffb7b2d3e4211b37098f561"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8FC76D197EA9]]"
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8FC76D197EA9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8FC76D197EA9
+- Ryšiai: [[Ryšiai/TAR.8FC76D197EA9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-a207fbff07d7de48987cb9b9
 
 
 23 straipsnio 1 dalyje vietoj datos „2001 m. sausio 1 d.“ įrašyti datą „2001 m. liepos 1 d.“ ir šią dalį išdėstyti taip:

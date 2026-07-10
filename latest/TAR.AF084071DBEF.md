@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF084071DBEF"
 pavadinimas: "Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas"
+  - "Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.AF084071DBEF.md"
 latest_sha256: "75ba81c436f92572bab4b15e06cd06261e9ce3551608e23fc8fdffeadba740c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF084071DBEF]]"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF084071DBEF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF084071DBEF
+- Ryšiai: [[Ryšiai/TAR.AF084071DBEF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 36 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 36 straipsnio 8 dalies pakeitimas ^s-60fef8ad234f3527e27fe569
 
 
 Pakeisti 36 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 36 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-10007dcf5dbd4ece73cb65ae
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

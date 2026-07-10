@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AC9CABDA10FE"
 pavadinimas: "Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.AC9CABDA10FE.md"
 latest_sha256: "e71d0658ff21c9c027e5e443bcc54a82e0a932e6acab96a950bdca9bde0e9182"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AC9CABDA10FE]]"
 ---
 # Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AC9CABDA10FE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AC9CABDA10FE
+- Ryšiai: [[Ryšiai/TAR.AC9CABDA10FE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies 5 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies 5 punkto pakeitimas ^s-54af040c56487f1028d01e7f
 
 
 Pakeisti 7 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:

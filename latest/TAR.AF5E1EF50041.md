@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF5E1EF50041"
 pavadinimas: "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 7, 11, 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 7, 11, 14 straipsnių pakeitimo įstatymas"
+  - "kilnojamųjų kultūros vertybių apsaugos įstatymo 7, 11, 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.AF5E1EF50041.md"
 latest_sha256: "9efb6625f604d790df411997caab08e3813a7560b5000652b3785b653e10c68a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF5E1EF50041]]"
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 7, 11, 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF5E1EF50041.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF5E1EF50041
+- Ryšiai: [[Ryšiai/TAR.AF5E1EF50041|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 4 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 4 punkto pakeitimas ^s-dc1ce8bb0701369f16879aaf
 
 
 7 straipsnio 4 punkte vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio pakeitimas
+### 2 straipsnis. 11 straipsnio pakeitimas ^s-d214980466dd647a71e75849
 
 
 11 straipsnio pavadinime vietoj žodžių „Apskrities valdytojo“ įrašyti žodžius „Apskrities viršininko“, straipsnyje vietoj žodžių „Apskrities valdytojas“ įrašyti žodžius „Apskrities viršininkas“ ir šį straipsnį išdėstyti taip:
@@ -53,23 +58,23 @@ Vilnius
 Apskrities viršininkas:
 
 
-1) kaupia informaciją apie į Registrą įrašytas kultūros vertybes, esančias apskrityje; ^3c05b48a4756513eb24c1c90
+1) kaupia informaciją apie į Registrą įrašytas kultūros vertybes, esančias apskrityje; ^s-20ef551a5ee1b96aa8d12e7c
 
 
-2) turi teisę siūlyti Kultūros ministerijai įrašyti kultūros vertybes į Registrą; ^0a81466e74dbc3248498fe44
+2) turi teisę siūlyti Kultūros ministerijai įrašyti kultūros vertybes į Registrą; ^s-b17507d076dac5507aebe179
 
 
-3) rengia kultūros vertybių apsaugos, konservavimo ir restauravimo apskrities reikšmės programas ir įstatymo nustatyta tvarka kooperuoja lėšas šioms programoms finansuoti; ^77a55af7b59b83963a879e19
+3) rengia kultūros vertybių apsaugos, konservavimo ir restauravimo apskrities reikšmės programas ir įstatymo nustatyta tvarka kooperuoja lėšas šioms programoms finansuoti; ^s-a14c48ccb7b9abc86011c454
 
 
-4) steigia, finansuoja, kontroliuoja, reorganizuoja ir likviduoja apskrities muziejų bei kitas apskrities reikšmės institucijas, susijusias su kilnojamųjų kultūros vertybių apsauga; ^d19352825ad5fec577b5e0d5
+4) steigia, finansuoja, kontroliuoja, reorganizuoja ir likviduoja apskrities muziejų bei kitas apskrities reikšmės institucijas, susijusias su kilnojamųjų kultūros vertybių apsauga; ^s-ea0a27d658e42f29c4720c87
 
 
-5) skiria ir atleidžia apskrities muziejaus vadovą bei vyriausiąjį fondų saugotoją, gavęs Kultūros ministerijos raštišką sutikimą.“ ^cf39d4a6389540a7fef1eaf7
+5) skiria ir atleidžia apskrities muziejaus vadovą bei vyriausiąjį fondų saugotoją, gavęs Kultūros ministerijos raštišką sutikimą.“ ^s-c8decb4dfa6c2fb3c85715d3
 
 
 
-### 3 straipsnis. 14 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 14 straipsnio 5 dalies pakeitimas ^s-dfa4de356bf27d4ec9b2a67e
 
 
 14 straipsnio 5 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:

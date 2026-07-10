@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB60CC70F45D"
 pavadinimas: "Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-11"
 latest_path: "latest/TAR.FB60CC70F45D.md"
 latest_sha256: "7d6f6bec2016b010ade04c259f038837b49a438d5acd19c01d485d4301191ae8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB60CC70F45D]]"
 ---
 # Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB60CC70F45D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB60CC70F45D
+- Ryšiai: [[Ryšiai/TAR.FB60CC70F45D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-9a5746db7d2c29685dc0b5ea
 
 
-Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.291CCA046F0D|Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo]] įsigaliojimo ir įgyvendinimo įstatymą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ec4703dff3f2c221220f1688
 
 
 Šis įstatymas įsigalioja nuo 2007 m. birželio 11 d.

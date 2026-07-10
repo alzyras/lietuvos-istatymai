@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5051DC93DEDE"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-01"
 latest_path: "latest/TAR.5051DC93DEDE.md"
 latest_sha256: "ec53149be6034e37c215b6e929208aea3ec9e2a60a99a856c7937efcc69bdc22"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5051DC93DEDE]]"
 ---
 # Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5051DC93DEDE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5051DC93DEDE
+- Ryšiai: [[Ryšiai/TAR.5051DC93DEDE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-586a2a3afeb239f803a1ffb3
 
 
 2 straipsnio 5 dalies pirmajame sakinyje išbraukti žodžius „investicijų valdymo bei konsultavimo įmonės“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-73938288da88f983236c721b
 
 
 Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FAE10008C818"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-31"
 latest_path: "latest/TAR.FAE10008C818.md"
 latest_sha256: "debb6a993f2cf463da6ccd4834265245fed0f97600cbed03cd42d258b54e1115"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FAE10008C818]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FAE10008C818.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FAE10008C818
+- Ryšiai: [[Ryšiai/TAR.FAE10008C818|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 3 dalies pakeitimas ^s-9814409fe5f87a4b58d98fd6
 
 
 Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:

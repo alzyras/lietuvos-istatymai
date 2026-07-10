@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.66139D744CA2"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje ratifikavimo įstatymas"
+  - "Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-03-12"
 latest_path: "latest/TAR.66139D744CA2.md"
 latest_sha256: "db66106e0b2a2c298ff38a7a377afbb17154b39e99783e6601347bb19c2a791d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.66139D744CA2]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.66139D744CA2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.66139D744CA2
+- Ryšiai: [[Ryšiai/TAR.66139D744CA2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-300fd506f9c9d93110ef4a76
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje, pasirašytą 1996 m. liepos 4 d. Bonoje.

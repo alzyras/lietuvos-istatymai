@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4D0D5381891"
 pavadinimas: "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "sveikatos priežiūros įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.B4D0D5381891.md"
 latest_sha256: "ee5c042e9cbdcadbd71d9a62c30ca43d21f1466f1314a448a0cf5918ad6894a2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4D0D5381891]]"
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4D0D5381891.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4D0D5381891
+- Ryšiai: [[Ryšiai/TAR.B4D0D5381891|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 8 dalies pakeitimas ^s-0b4ef2ffc462d0e8c5a3e75c
 
 
 5 straipsnio 8 dalyje vietoj žodžių „mokamas žyminis mokestis“ įrašyti žodžius „mokama valstybės rinkliava“ ir šią dalį išdėstyti taip:

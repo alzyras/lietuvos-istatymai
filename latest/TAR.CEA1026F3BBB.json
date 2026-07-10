@@ -11,7 +11,7 @@
   "latest_revision": "1997-04-18",
   "latest_sha256": "2344927fbd6856e4ca725423324c22ab7a94f81aa099fedb597212e6111901ec",
   "metadata_path": "latest/TAR.CEA1026F3BBB.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

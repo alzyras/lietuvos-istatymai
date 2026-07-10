@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.977AB44C0B48"
 pavadinimas: "Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.977AB44C0B48.md"
 latest_sha256: "1d83c15eb4c5bacde65a67e00b0efacb5c728dd5b2ae8a909d38d27a36b266f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.977AB44C0B48]]"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.977AB44C0B48.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.977AB44C0B48
+- Ryšiai: [[Ryšiai/TAR.977AB44C0B48|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-f483f1120864b43875b8fa46
 
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-67671092d1a6f8ff678d3394
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

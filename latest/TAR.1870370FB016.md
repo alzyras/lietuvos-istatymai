@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1870370FB016"
 pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.1870370FB016.md"
 latest_sha256: "d7c90b81dd2ea3197d20b66b55e5d6f0dc49338dd0e2875549fdc9a91d2b8a30"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1870370FB016]]"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1870370FB016.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1870370FB016
+- Ryšiai: [[Ryšiai/TAR.1870370FB016|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 12 straipsnio 1 dalies 3 punkto pakeitimas ^s-5bab5df73ea8e5bf1dfb48b3
 
 
 12 straipsnio 1 dalies 3 punkte vietoj žodžių „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ įrašyti žodžius „nepasiturintiems gyventojams“ ir šį punktą išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-84cd92efaf1ec79c1db266ae
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

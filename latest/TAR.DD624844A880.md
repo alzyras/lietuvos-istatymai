@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DD624844A880"
 pavadinimas: "Lietuvos Respublikos audito įstatymo 3, 28, 31, 34 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos audito įstatymo 3, 28, 31, 34 straipsnių pakeitimo ir papildymo įstatymas"
+  - "audito įstatymo 3, 28, 31, 34 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-14"
 latest_path: "latest/TAR.DD624844A880.md"
 latest_sha256: "8daf30609fd6609035627b6bb655b93a0faf9608c186298a4e706bb8d5ff971a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DD624844A880]]"
 ---
 # Lietuvos Respublikos audito įstatymo 3, 28, 31, 34 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DD624844A880.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DD624844A880
+- Ryšiai: [[Ryšiai/TAR.DD624844A880|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas ^s-329a724a526f1356f8842155
 
 
 Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
@@ -41,29 +46,29 @@ Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis.         28 straipsnio 2 dalies 5 punkto pakeitimas ir straipsnio papildymas 6 dalimi
+### 2 straipsnis.         28 straipsnio 2 dalies 5 punkto pakeitimas ir straipsnio papildymas 6 dalimi ^s-4eb42b11462ec5bb3bb9315f
 
 
-1. Pakeisti 28 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^6a8732778af5675e0b17cdba
+1. Pakeisti 28 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^s-9cf1eb12bf4b9e66cb9ea98b
 
 
 „5) teikė įmonei paslaugas, numatytas šio Įstatymo 33 straipsnio 1 dalies 4, 5, 9, 13 punktuose, ir kai šių paslaugų teikimas sutampa su audituojamų laikotarpiu;“.
 
 
-2. Papildyti 28 straipsnį 6 dalimi: ^f97681ca1ae34e0a32eebc49
+2. Papildyti 28 straipsnį 6 dalimi: ^s-4c2621fe98797efbfe4c78fe
 
 
 „6. Auditoriui draudžiama atlikti auditą visuomenės intereso įmonėse, jeigu:
 
 
-1) auditorius turi mažesnę kaip 3 metų atestuoto auditoriaus darbo patirtį; ^aec1deb7aeac4818a717a09a
+1) auditorius turi mažesnę kaip 3 metų atestuoto auditoriaus darbo patirtį; ^s-61c0b3047b33941d76ab7c04
 
 
-2) per paskutinius vienerius metus auditoriui buvo paskirta Audito kokybės kontrolės komiteto ar Auditorių garbės teismo nuobauda.“ ^d02bed437cf8728a7b3a1ca3
+2) per paskutinius vienerius metus auditoriui buvo paskirta Audito kokybės kontrolės komiteto ar Auditorių garbės teismo nuobauda.“ ^s-6c318922db16b6647ed3e2c8
 
 
 
-### 3 straipsnis. 31 straipsnio 1 dalies 5 punkto pakeitimas
+### 3 straipsnis. 31 straipsnio 1 dalies 5 punkto pakeitimas ^s-affdcb16e8d7c395d7501db1
 
 
 Pakeisti 31 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 31 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 34 straipsnio 1 dalies papildymas 4 punktu
+### 4 straipsnis. 34 straipsnio 1 dalies papildymas 4 punktu ^s-2d9a1913545dc80efdddefb9
 
 
 Papildyti 34 straipsnio 1 dalį 4 punktu:

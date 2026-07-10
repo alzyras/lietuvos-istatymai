@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.79A41FC67E2F"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-01"
 latest_path: "latest/TAR.79A41FC67E2F.md"
 latest_sha256: "2b3815fa560960c71cdd65ecc5e5f33fc61d1e14e577fc59f42858f2fd6c6e53"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.79A41FC67E2F]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.79A41FC67E2F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.79A41FC67E2F
+- Ryšiai: [[Ryšiai/TAR.79A41FC67E2F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 6 dalies pakeitimas ^s-b61442901790c60bb756534d
 
 
 Pakeisti 17 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -45,17 +50,17 @@ Pakeisti 17 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ^s-82b16ae31a5d9bc4fc4ea519
 
 
 Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-937c85bc6d0bd61b9fdccb2f
 
 
-Šis įstatymas, išskyrus [[#2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei|2 straipsnį]], įsigalioja 2012 m. rugsėjo 1 d.
+Šis įstatymas, išskyrus [[#^s-82b16ae31a5d9bc4fc4ea519|2 straipsnį]], įsigalioja 2012 m. rugsėjo 1 d.
 
 
 

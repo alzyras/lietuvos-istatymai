@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C59D00F6190A"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-11-21"
 latest_path: "latest/TAR.C59D00F6190A.md"
 latest_sha256: "e14deb736dd936c18f5e5c64956ae42b8134f5a78aafb862b578c8bc398dd554"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C59D00F6190A]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C59D00F6190A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C59D00F6190A
+- Ryšiai: [[Ryšiai/TAR.C59D00F6190A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +36,7 @@ Vilnius
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-Papildyti Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo (Žin., 1991, Nr. 24-637) 9 straipsnį tokia trečiąja dalimi:
+Papildyti [[latest/TAR.671AE17BDB50|Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo]] (Žin., 1991, Nr. 24-637) 9 straipsnį tokia trečiąja dalimi:
 
 
 „Lietuvos Respublikos Vyriausybė turi teisę šiame straipsnyje nustatytus terminus pratęsti.“

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB889480DF51"
 pavadinimas: "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-10-26"
 latest_path: "latest/TAR.FB889480DF51.md"
 latest_sha256: "fff1446d368363f5e192f1867387e7a11fd133fb9fba4183715eab0676db1cb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB889480DF51]]"
 ---
 # Dėl Lietuvos Respublikos teismų įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB889480DF51.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB889480DF51
+- Ryšiai: [[Ryšiai/TAR.FB889480DF51|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

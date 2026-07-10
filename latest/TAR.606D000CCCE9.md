@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.606D000CCCE9"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-10"
 latest_path: "latest/TAR.606D000CCCE9.md"
 latest_sha256: "8ea24113ffa92279cae3c5a2d9f5e0ba25cf3d9f3da47cf71d722813c5daeff0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.606D000CCCE9]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.606D000CCCE9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.606D000CCCE9
+- Ryšiai: [[Ryšiai/TAR.606D000CCCE9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 10 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 10 punkto pakeitimas ^s-2ecc6e6271d0c7ec87062685
 
 
 Pakeisti 7 straipsnio 10 punktą ir jį išdėstyti taip:

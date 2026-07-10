@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E954D121AD66"
 pavadinimas: "Lietuvos Respublikos konsulinio mokesčio įsatymo 8 ir 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konsulinio mokesčio įsatymo 8 ir 9 straipsnių pakeitimo įstatymas"
+  - "konsulinio mokesčio įsatymo 8 ir 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-01"
 latest_path: "latest/TAR.E954D121AD66.md"
 latest_sha256: "d2df2a4431122031ed6a57f25ec247ea34d2eba60d49dd9d546af64548df7f94"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E954D121AD66]]"
 ---
 # Lietuvos Respublikos konsulinio mokesčio įsatymo 8 ir 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E954D121AD66.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E954D121AD66
+- Ryšiai: [[Ryšiai/TAR.E954D121AD66|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio antrosios dalies pakeitimas
+### 1 straipsnis. 8 straipsnio antrosios dalies pakeitimas ^s-a561aaa6a4cf38282065a7e8
 
 
 8 straipsnio antrojoje dalyje vietoj žodžių „pateiktas ne vėliau kaip per dvejus metus po mokesčio sumokėjimo“ įrašyti žodžius „valstybinei mokesčių inspekcijai pateiktas per Lietuvos Respublikos mokesčių administravimo įstatyme nustatytą terminą“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 9 straipsnio pakeitimas
+### 2 straipsnis. 9 straipsnio pakeitimas ^s-55d21e9b8f3dad7af76479be
 
 
 Pakeisti 9 straipsnio antrąją dalį, trečiąją dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
@@ -53,11 +58,11 @@ Pakeisti 9 straipsnio antrąją dalį, trečiąją dalį pripažinti netekusia g
 Konsulinio mokesčio ėmimą kontroliuoja Valstybinė mokesčių inspekcija.
 
 
-Klaidingai paimtas arba nepaimtas konsulinis mokestis išieškomas iš įstaigos, dėl kurios kaltės mokestis buvo paimtas klaidingai arba visai nepaimtas, Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
+Klaidingai paimtas arba nepaimtas konsulinis mokestis išieškomas iš įstaigos, dėl kurios kaltės mokestis buvo paimtas klaidingai arba visai nepaimtas, [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-f4e579aa0bed4b7c2903a4cf
 
 
 Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.

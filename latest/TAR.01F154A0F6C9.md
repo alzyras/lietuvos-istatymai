@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.01F154A0F6C9"
 pavadinimas: "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 4 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 4 ir 14 straipsnių pakeitimo įstatymas"
+  - "naftos produktų ir naftos valstybės atsargų įstatymo 4 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.01F154A0F6C9.md"
 latest_sha256: "aab4d1b7d7072ff84f0e11838915ba37deb0e9a6f691e3d25e183e1b5fbbdea2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.01F154A0F6C9]]"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 4 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.01F154A0F6C9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.01F154A0F6C9
+- Ryšiai: [[Ryšiai/TAR.01F154A0F6C9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-c279f649fb9c6dc57317f06c
 
 
 4 straipsnio 1 dalyje vietoj skaičiaus ir žodžių „50 procentų atsargų“ įrašyti žodžius ir skaičių „tiek naftos produktų atsargų, kad jų pakaktų ne mažiau kaip 30 dienų“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 14 straipsnio pakeitimas
+### 2 straipsnis. 14 straipsnio pakeitimas ^s-10599bfee263a0ac3d201234
 
 
 14 straipsnyje vietoj datos „2009 m. liepos 31 d.“ įrašyti datą „2009 m. gruodžio 31 d.“ ir šį straipsnį išdėstyti taip:
@@ -57,7 +62,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-a8f6a799ce5fb2bc403d3d5f
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

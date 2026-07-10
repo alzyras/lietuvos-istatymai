@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3B928BE58E41"
 pavadinimas: "Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "Prezidento įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-09"
 latest_path: "latest/TAR.3B928BE58E41.md"
 latest_sha256: "10497a6dc5a255197164f96b536902c06bd6e95ad2f01f4e351c9ab49907fb4b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3B928BE58E41]]"
 ---
 # Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3B928BE58E41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3B928BE58E41
+- Ryšiai: [[Ryšiai/TAR.3B928BE58E41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 1 punkto pakeitimas
+### 1 straipsnis. 18 straipsnio 1 punkto pakeitimas ^s-d6d1274bd4ed803f3d0791c9
 
 
 18 straipsnio 1 punkte vietoj skaičiaus ir žodžių „12 vidutinių mėnesinių darbo užmokesčių (VMDU) dydžio“ įrašyti žodžius „lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių“, papildyti punktą sakiniu „Ši norma galioja iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 1 dalies taikymo pradžios“ ir jį išdėstyti taip:

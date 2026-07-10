@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9427DEF39A96"
 pavadinimas: "Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+  - "2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-14"
 latest_path: "latest/TAR.9427DEF39A96.md"
 latest_sha256: "1c2dfa07b9f3d31ca5dd53021282aa42c5898a7d24c39b0a018960300ce47d6e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9427DEF39A96]]"
 ---
 # Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9427DEF39A96.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9427DEF39A96
+- Ryšiai: [[Ryšiai/TAR.9427DEF39A96|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-f4894c653dd2d609af04cbd8
 
 
 2 straipsnio 5 dalyje vietoj skaičiaus „16727“ įrašyti skaičių „14527“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 9 straipsnio 8 punkto pakeitimas
+### 2 straipsnis. 9 straipsnio 8 punkto pakeitimas ^s-0bad7ac1049df3b5e5934429
 
 
 9 straipsnio 8 punkte išbraukti žodžius „iš valstybės biudžeto savivaldybių biudžetams 1997 – 2000 metais neperduotą valstybės biudžeto lėšų dalį ir“ ir šį punktą išdėstyti taip:
@@ -52,7 +57,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo papildymas 14 straipsniu
+### 3 straipsnis. Įstatymo papildymas 14 straipsniu ^s-34c96f4d73fece218ae5a398
 
 
 Papildyti įstatymą 14 straipsniu:
@@ -65,7 +70,7 @@ Suteikti teisę Švietimo ir mokslo ministerijai Švietimo aprūpinimo centro 10
 
 
 
-### 4 straipsnis. Įstatymo papildymas 15 straipsniu
+### 4 straipsnis. Įstatymo papildymas 15 straipsniu ^s-a05da0e316c1bdac2d84efd1
 
 
 Papildyti įstatymą 15 straipsniu:
@@ -78,13 +83,13 @@ Suteikti teisę Mokslo ir studijų departamentui prie Švietimo ir mokslo minist
 
 
 
-### 5 straipsnis. Įstatymo 1 priedėlio dalies „Asignavimai“ pakeitimas
+### 5 straipsnis. Įstatymo 1 priedėlio dalies „Asignavimai“ pakeitimas ^s-071ab855b42bbe26a4b6d87a
 
 
 Įstatymo 1 priedėlio dalyje „Asignavimai“:
 
 
-1) skyriuje „I. Ministerijos“ eilutėje „Finansų ministerija“ vietoj skaičių „1561691“ ir „1464772“ įrašyti skaičius „1508654“ ir „1411735“, eilutėje „Sveikatos apsaugos ministerija“ vietoj skaičių „140530“ ir „65283“ įrašyti skaičius „140297“ ir „65050“, eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičių „416338“ ir „385413“, „30925“ įrašyti skaičius „417479“ ir „386658“, „30821“, eilutėje „Teisingumo ministerija“ vietoj skaičių „27418“ ir „4310“ įrašyti skaičius „26348“ ir „5380“, eilutėje „Užsienio reikalų ministerija“ vietoj skaičių „112707“ ir „4886“ įrašyti skaičius „142707“ ir „34886“, eilutėje „Vidaus reikalų ministerija“ vietoj skaičių „146918“ ir „20283“ įrašyti skaičius „144708“ ir „22493“, eilutėje „Žemės ūkio ministerija“ vietoj skaičių „454387“ ir „447908“ įrašyti skaičius „474387“ ir „467908“, įrašyti eilutę „iš jų: Valstybės įmonės Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūros nuostoliams padengti 20000 ir 20000“ ir šias eilutes išdėstyti taip: ^a0ca6a3c53d3f5b242c573d1
+1) skyriuje „I. Ministerijos“ eilutėje „Finansų ministerija“ vietoj skaičių „1561691“ ir „1464772“ įrašyti skaičius „1508654“ ir „1411735“, eilutėje „Sveikatos apsaugos ministerija“ vietoj skaičių „140530“ ir „65283“ įrašyti skaičius „140297“ ir „65050“, eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičių „416338“ ir „385413“, „30925“ įrašyti skaičius „417479“ ir „386658“, „30821“, eilutėje „Teisingumo ministerija“ vietoj skaičių „27418“ ir „4310“ įrašyti skaičius „26348“ ir „5380“, eilutėje „Užsienio reikalų ministerija“ vietoj skaičių „112707“ ir „4886“ įrašyti skaičius „142707“ ir „34886“, eilutėje „Vidaus reikalų ministerija“ vietoj skaičių „146918“ ir „20283“ įrašyti skaičius „144708“ ir „22493“, eilutėje „Žemės ūkio ministerija“ vietoj skaičių „454387“ ir „447908“ įrašyti skaičius „474387“ ir „467908“, įrašyti eilutę „iš jų: Valstybės įmonės Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūros nuostoliams padengti 20000 ir 20000“ ir šias eilutes išdėstyti taip: ^s-22ab9d9cbde69531cc31d5fe
 
 
  „Finansų ministerija
@@ -157,7 +162,7 @@ Suteikti teisę Mokslo ir studijų departamentui prie Švietimo ir mokslo minist
 
 
 
-2) skyriuje „II. Apskritys“ eilutėje „Alytaus apskrities viršininko administracija“ vietoj skaičių „19113“, „9616“ ir „1535“ įrašyti skaičius „19107“, „9611“ ir „1541“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičių „57531“ ir „51221“ įrašyti skaičius „ 58331“ ir „ 52021“, eilutėje „iš jų: žemės reformai vykdyti“ vietoj skaičių „4421“ ir „4421“ įrašyti skaičius „4203“ ir „4203“, eilutėje „Klaipėdos apskrities viršininko administracija“ vietoj skaičiaus „16437“ įrašyti skaičių „16407“, eilutėje „Panevėžio apskrities viršininko administracija“ vietoj skaičių „37255“, „13219“ ir „7870“ įrašyti skaičius „37488“, „13215“ ir „8103“, eilutėje „Vilniaus apskrities viršininko administracija“ vietoj skaičiaus „29426“ įrašyti skaičių „29302“ ir šias eilutes išdėstyti taip: ^30caf5d9d6812c21c6fddfdb
+2) skyriuje „II. Apskritys“ eilutėje „Alytaus apskrities viršininko administracija“ vietoj skaičių „19113“, „9616“ ir „1535“ įrašyti skaičius „19107“, „9611“ ir „1541“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičių „57531“ ir „51221“ įrašyti skaičius „ 58331“ ir „ 52021“, eilutėje „iš jų: žemės reformai vykdyti“ vietoj skaičių „4421“ ir „4421“ įrašyti skaičius „4203“ ir „4203“, eilutėje „Klaipėdos apskrities viršininko administracija“ vietoj skaičiaus „16437“ įrašyti skaičių „16407“, eilutėje „Panevėžio apskrities viršininko administracija“ vietoj skaičių „37255“, „13219“ ir „7870“ įrašyti skaičius „37488“, „13215“ ir „8103“, eilutėje „Vilniaus apskrities viršininko administracija“ vietoj skaičiaus „29426“ įrašyti skaičių „29302“ ir šias eilutes išdėstyti taip: ^s-9c150118bc78d75b20640760
 
 
  „Alytaus apskrities viršininko administracija
@@ -202,7 +207,7 @@ Suteikti teisę Mokslo ir studijų departamentui prie Švietimo ir mokslo minist
  5980“;
 
 
-3) skyriuje „III. Departamentai, tarnybos ir inspekcijos“ eilutėje „Mokslo ir studijų departamentas prie Švietimo ir mokslo ministerijos“ vietoj skaičių „4352“ ir „4152“ įrašyti skaičius „5052“ ir „4852“ir šią eilutę išdėstyti taip: ^0a990505f4708be25c61747d
+3) skyriuje „III. Departamentai, tarnybos ir inspekcijos“ eilutėje „Mokslo ir studijų departamentas prie Švietimo ir mokslo ministerijos“ vietoj skaičių „4352“ ir „4152“ įrašyti skaičius „5052“ ir „4852“ir šią eilutę išdėstyti taip: ^s-a06b247fca44ac7ef9fbe64e
 
 
  „Mokslo ir studijų departamentas prie Švietimo ir mokslo ministerijos
@@ -212,7 +217,7 @@ Suteikti teisę Mokslo ir studijų departamentui prie Švietimo ir mokslo minist
  200“;
 
 
-4) skyriuje „VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ eilutėje „Mokslas ir studijos“ vietoj skaičių „611531“, „572621“ ir „38910“ įrašyti skaičius „611927“, „572663“ ir „39264“, eilutėje „IŠ VISO“ vietoj skaičių „6839684“, „2018479“ ir „574772“ įrašyti skaičius „6806148“, „2018316“ ir „608308“ ir šias eilutes išdėstyti taip: ^7389d3129b4a57923bc4e48d
+4) skyriuje „VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ eilutėje „Mokslas ir studijos“ vietoj skaičių „611531“, „572621“ ir „38910“ įrašyti skaičius „611927“, „572663“ ir „39264“, eilutėje „IŠ VISO“ vietoj skaičių „6839684“, „2018479“ ir „574772“ įrašyti skaičius „6806148“, „2018316“ ir „608308“ ir šias eilutes išdėstyti taip: ^s-f5573aa0ff66fbe3ca7dc04b
 
 
  „Mokslas ir studijos
@@ -232,7 +237,7 @@ Suteikti teisę Mokslo ir studijų departamentui prie Švietimo ir mokslo minist
 
 
 
-### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-4360241df6bf1054dc98bad9
 
 
 Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
@@ -518,7 +523,7 @@ tūkst. Lt
 
 
 
-### 7 straipsnis. Įstatymo 8 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 8 priedėlio pakeitimas ^s-3614a45e4aa1f2710e09243f
 
 
 Pakeisti Įstatymo 8 priedėlį ir jį išdėstyti taip:
@@ -536,7 +541,7 @@ VALSTYBĖS BIUDŽETO SPECIALIOS DOTACIJOS SAVIVALDYBĖMS
 
  Savivaldybės pavadinimas
  Karo prievolei administruoti
- Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo pakeitimo ir papildymo įstatymui vykdyti
+ [[latest/TAR.1DEDD43B92AE|Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo]] pakeitimo ir papildymo įstatymui vykdyti
 
 
  Vilniaus miesto
@@ -857,13 +862,13 @@ Kalvarijos savivaldybės biudžetui – 1011 tūkst. litų, Kazlų Rūdos saviva
 
 
 
-### 8 straipsnis. Įstatymo 10 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 10 priedėlio pakeitimas ^s-28ce1f11fad1850703e5c488
 
 
 Įstatymo 10 priedėlyje:
 
 
-1) eilutėje „Iš viso“ vietoj skaičių „1275998“, „313256“ ir „325742“ įrašyti skaičius „1305587“, „349845“ ir „318742“ ir šią eilutę išdėstyti taip: ^e4b02c09b5ea46f6732961a5
+1) eilutėje „Iš viso“ vietoj skaičių „1275998“, „313256“ ir „325742“ įrašyti skaičius „1305587“, „349845“ ir „318742“ ir šią eilutę išdėstyti taip: ^s-747d21e840708a49e1f54a75
 
 
  „Iš viso
@@ -876,7 +881,7 @@ Kalvarijos savivaldybės biudžetui – 1011 tūkst. litų, Kazlų Rūdos saviva
  990596“;
 
 
-2) eilutėje „švietimas“ vietoj skaičių „129813“ ir „19700“ įrašyti skaičius „131467“ ir,“21354“ ir šią eilutę išdėstyti taip: ^6764b0838888dc14bffd16d3
+2) eilutėje „švietimas“ vietoj skaičių „129813“ ir „19700“ įrašyti skaičius „131467“ ir,“21354“ ir šią eilutę išdėstyti taip: ^s-ede954e7d3c51a0acb9e4b24
 
 
  „švietimas
@@ -888,7 +893,7 @@ Kalvarijos savivaldybės biudžetui – 1011 tūkst. litų, Kazlų Rūdos saviva
  55436“;
 
 
-3) eilutėje „narystė Europos Sąjungoje“ vietoj skaičių „3700“ ir „2700“ įrašyti skaičius „33700“ ir „32700“ ir šią eilutę išdėstyti taip: ^c372a1409c1b8b47e8a5aa1d
+3) eilutėje „narystė Europos Sąjungoje“ vietoj skaičių „3700“ ir „2700“ įrašyti skaičius „33700“ ir „32700“ ir šią eilutę išdėstyti taip: ^s-e98de865c11e467cb14a46b9
 
 
  „narystė Europos Sąjungoje
@@ -899,7 +904,7 @@ Kalvarijos savivaldybės biudžetui – 1011 tūkst. litų, Kazlų Rūdos saviva
  10630“;
 
 
-4) eilutėje „informatika“ vietoj skaičių „76216“ ir „51746“ įrašyti skaičius „78316“ ir „53846“ ir šią eilutę išdėstyti taip: ^63a970017fdc32c9b767178a
+4) eilutėje „informatika“ vietoj skaičių „76216“ ir „51746“ įrašyti skaičius „78316“ ir „53846“ ir šią eilutę išdėstyti taip: ^s-d00d03c67f0d2c0bd91b244b
 
 
  „informatika
@@ -912,13 +917,13 @@ Kalvarijos savivaldybės biudžetui – 1011 tūkst. litų, Kazlų Rūdos saviva
  34771“;
 
 
-5) eilutėje „sveikatos apsauga“ vietoj skaičių „101861“ ir „30362“ įrašyti skaičius „96626“, „32127“, skaičių „7000“ išbraukti ir šią eilutę išdėstyti taip: ^61682d4c5ec1ce36e4fbfedc
+5) eilutėje „sveikatos apsauga“ vietoj skaičių „101861“ ir „30362“ įrašyti skaičius „96626“, „32127“, skaičių „7000“ išbraukti ir šią eilutę išdėstyti taip: ^s-02e2625f61698b378687ce79
 
 
 „sveikatos apsauga 96626 32127 15499 49000                                           105610 49368“;
 
 
-6) eilutėje „teisėsauga“ vietoj skaičių „51490“ ir „2010“ įrašyti skaičius „52560“ ir „3080“ ir šią eilutę išdėstyti taip: ^80867031e121fd6cf60850d6
+6) eilutėje „teisėsauga“ vietoj skaičių „51490“ ir „2010“ įrašyti skaičius „52560“ ir „3080“ ir šią eilutę išdėstyti taip: ^s-ff106ef5ffdb35f09b66ab5e
 
 
  „teisėsauga

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.87E91081ED49"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 59 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 59 straipsnio pakeitimo ir papildymo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 59 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-10-13"
 latest_path: "latest/TAR.87E91081ED49.md"
 latest_sha256: "05f7c1489a3bda74c9c2784c02594fd24919357742aa95fbc702812a5f4df1dd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.87E91081ED49]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 59 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.87E91081ED49.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.87E91081ED49
+- Ryšiai: [[Ryšiai/TAR.87E91081ED49|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 59 straipsnio 9 dalies pakeitimas
+### 1 straipsnis. 59 straipsnio 9 dalies pakeitimas ^s-7ac7144f758718b1676da117
 
 
 Pakeisti 59 straipsnio 9 dalį ir ją išdėstyti taip:

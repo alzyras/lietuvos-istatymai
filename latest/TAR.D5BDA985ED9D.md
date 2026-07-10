@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D5BDA985ED9D"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio papildymo ir 1 priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio papildymo ir 1 priedėlio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 22 straipsnio papildymo ir 1 priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-08"
 latest_path: "latest/TAR.D5BDA985ED9D.md"
 latest_sha256: "94875fc14d1c6bd29e2abb4079aadf8a2af00a8bd6fab0e071e53fc152b9d6b2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D5BDA985ED9D]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio papildymo ir 1 priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D5BDA985ED9D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D5BDA985ED9D
+- Ryšiai: [[Ryšiai/TAR.D5BDA985ED9D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 7 punkto papildymas
+### 1 straipsnis. 22 straipsnio 7 punkto papildymas ^s-0245725c04d284efef5b4b3a
 
 
 Papildyti 22 straipsnio 7 punktą sakiniu „Seimo nario padėjėjui-sekretoriui leidžiama eiti kito Seimo nario, priklausančio tai pačiai frakcijai, padėjėjo-sekretoriaus, Seimo frakcijos seniūno referento arba paslaugų valstybės tarnautojo pareigas šio įstatymo 20 straipsnio 15 punkte nustatyta tvarka“ ir šį punktą išdėstyti taip:
@@ -41,13 +46,13 @@ Papildyti 22 straipsnio 7 punktą sakiniu „Seimo nario padėjėjui-sekretoriui
 
 
 
-### 2 straipsnis. 1 priedėlio 1 skirsnio pakeitimas
+### 2 straipsnis. 1 priedėlio 1 skirsnio pakeitimas ^s-61b954568cb30612ad27db60
 
 
 Pakeisti 1 priedėlio 1 skirsnį ir jį išdėstyti taip:
 
 
-1. LIETUVOS RESPUBLIKOS SEIMAS ^08d24b0a8cc9147aa179d90b
+1. LIETUVOS RESPUBLIKOS SEIMAS ^s-e9571fc444181234aa024363
 
 
  PAREIGYBĖS PAVADINIMAS

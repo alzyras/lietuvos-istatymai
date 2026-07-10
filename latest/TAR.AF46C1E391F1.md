@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF46C1E391F1"
 pavadinimas: "Lietuvos Respublikos 20 mln. eurų Šiaurės investicijų banko paskolos gamtosaugos investiciniams projektams ir kitiems savivaldybių investiciniams projektams finansuoti įstatymas"
+aliases:
+  - "Lietuvos Respublikos 20 mln. eurų Šiaurės investicijų banko paskolos gamtosaugos investiciniams projektams ir kitiems savivaldybių investiciniams projektams finansuoti įstatymas"
+  - "20 mln. eurų Šiaurės investicijų banko paskolos gamtosaugos investiciniams projektams ir kitiems savivaldybių investiciniams projektams finansuoti įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-01-25"
 latest_path: "latest/TAR.AF46C1E391F1.md"
 latest_sha256: "525c983e679ef0b4be6bdd961f7902f86b5d6917b36e35085f5712ace98ccc77"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF46C1E391F1]]"
 ---
 # Lietuvos Respublikos 20 mln. eurų Šiaurės investicijų banko paskolos gamtosaugos investiciniams projektams ir kitiems savivaldybių investiciniams projektams finansuoti įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF46C1E391F1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF46C1E391F1
+- Ryšiai: [[Ryšiai/TAR.AF46C1E391F1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Sprendimas dėl paskolos ėmimo
+### 1 straipsnis. Sprendimas dėl paskolos ėmimo ^s-07dacea90bc8b793d99aa20b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Valstybės skolos įstatymo 5 straipsnio 1 dalimi, nutaria imti 20 mln. ekiu paskolą iš Šiaurės investicijų banko gamtosaugos programai finansuoti.
+Lietuvos Respublikos Seimas, vadovaudamasis [[latest/TAR.5C23DECF6210#^s-a0c827a2147f97698de099bd|Valstybės skolos įstatymo 5 straipsnio 1 dalimi]], nutaria imti 20 mln. ekiu paskolą iš Šiaurės investicijų banko gamtosaugos programai finansuoti.
 
 
 

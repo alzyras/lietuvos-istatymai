@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0432C09866CA"
 pavadinimas: "Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio papildymo įstatymas"
+  - "valstybės iždo įstatymo 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-08"
 latest_path: "latest/TAR.0432C09866CA.md"
 latest_sha256: "64da320a8e92c1b052e09ac20ee5eecf9726cfe43482bb7e43814a4f04bdcc22"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0432C09866CA]]"
 ---
 # Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0432C09866CA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0432C09866CA
+- Ryšiai: [[Ryšiai/TAR.0432C09866CA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 3 straipsnio papildymas 4 dalimi ^s-7ac157155fc8b479c4f30e95
 
 
 Papildyti 3 straipsnį 4 dalimi:
@@ -44,14 +49,14 @@ Papildyti 3 straipsnį 4 dalimi:
 „4. Į valstybės iždo bendrąją sąskaitą negali būti nukreiptas:
 
 
-1) bet koks išieškojimas, išskyrus atvejus, kai valstybė teisės aktų nustatyta tvarka ir terminais neįvykdo arba netinkamai įvykdo savo įsipareigojimus pagal arbitražo ar teismo sprendimus, kuriais iš Lietuvos valstybės priteistos mokėtinos sumos turtinei ir neturtinei žalai atlyginti; ^33158b0fc320eafd22940c99
+1) bet koks išieškojimas, išskyrus atvejus, kai valstybė teisės aktų nustatyta tvarka ir terminais neįvykdo arba netinkamai įvykdo savo įsipareigojimus pagal arbitražo ar teismo sprendimus, kuriais iš Lietuvos valstybės priteistos mokėtinos sumos turtinei ir neturtinei žalai atlyginti; ^s-f654f3977114e79c21131fce
 
 
-2) bet kokių laikinųjų apsaugos priemonių taikymas.“ ^4c0f976ec36dcacee02b5116
+2) bet kokių laikinųjų apsaugos priemonių taikymas.“ ^s-0f7ab8fed553813a1e17fe70
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-45668513515c0461fe168712
 
 
 Šio įstatymo nuostatos, be kita ko, taikomos ir arbitražo ar teismo sprendimų vykdymo procesui, kai antstoliai jau yra nukreipę išieškojimą į valstybės iždo bendrąją sąskaitą, bet dar nėra paskirstę ar išmokėję lėšų išieškotojams.

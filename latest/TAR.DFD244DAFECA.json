@@ -11,7 +11,7 @@
   "latest_revision": "2013-06-01",
   "latest_sha256": "5e3757a3f160e0ae03ce8c4d2e38bd3d5e12ba49a3a6b5e8096c75b245f9247a",
   "metadata_path": "latest/TAR.DFD244DAFECA.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

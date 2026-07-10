@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.822956221E63"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "valstybės kontrolės įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.822956221E63.md"
 latest_sha256: "c1566ce1ab04e30dcfc66a878760c3fa36849a4c826bf172ae7bf5d69f91dba9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.822956221E63]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.822956221E63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.822956221E63
+- Ryšiai: [[Ryšiai/TAR.822956221E63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,17 +39,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 4 dalies pakeitimas ^s-96d393687dec4c1daf3d37b3
 
 
 Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Valstybės kontrolė gali atlikti Lietuvos banko įstatyme nustatytos vykdomos veiklos, įskaitant veiklą, susijusią su finansų rinkos priežiūros atlikimu, auditą tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų sistemos konfidencialumo ir nepriklausomumo režimo.“
+„4. Valstybės kontrolė gali atlikti [[latest/TAR.1B4D7B687895|Lietuvos banko įstatyme]] nustatytos vykdomos veiklos, įskaitant veiklą, susijusią su finansų rinkos priežiūros atlikimu, auditą tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų sistemos konfidencialumo ir nepriklausomumo režimo.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e09a4343689d04c1ff4b0675
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

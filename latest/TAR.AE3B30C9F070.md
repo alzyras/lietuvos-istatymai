@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AE3B30C9F070"
 pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 4 ir 17 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 4 ir 17 straipsnių pakeitimo įstatymas"
+  - "valstybės garantuojamos teisinės pagalbos įstatymo 4 ir 17 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-17"
 latest_path: "latest/TAR.AE3B30C9F070.md"
 latest_sha256: "5afde7107ea4c073f4710a3dac1e9d1569ceb5c6b0cee693e21519a6732e6d1c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AE3B30C9F070]]"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 4 ir 17 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AE3B30C9F070.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AE3B30C9F070
+- Ryšiai: [[Ryšiai/TAR.AE3B30C9F070|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas ^s-364fea9cfce8f1f2338f9255
 
 
 4 straipsnio 1 dalies 2 punkte po žodžių „Lietuvos Respublikos“ įrašyti žodžius „įstatymuose ar“ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 17 straipsnio pakeitimas
+### 2 straipsnis. 17 straipsnio pakeitimas ^s-ebba7b836e37f30ce4e9300e
 
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
@@ -50,7 +55,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 „17 straipsnis.     Valstybinės teisinės pagalbos skyrimas, kai baudžiamųjų bylų procese yra būtinas gynėjo dalyvavimas
 
 
-Kai būtinąjį gynėjo dalyvavimą baudžiamųjų bylų procese nustato Baudžiamojo proceso kodeksas, įtariamojo, kaltinamojo, teisiamojo ar nuteistojo sutikimu skiriama valstybinė teisinė pagalba.“
+Kai būtinąjį gynėjo dalyvavimą baudžiamųjų bylų procese nustato [[latest/TAR.EC588C321777|Baudžiamojo proceso kodeksas]], įtariamojo, kaltinamojo, teisiamojo ar nuteistojo sutikimu skiriama valstybinė teisinė pagalba.“
 
 
 

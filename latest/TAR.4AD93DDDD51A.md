@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4AD93DDDD51A"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-01"
 latest_path: "latest/TAR.4AD93DDDD51A.md"
 latest_sha256: "6921267c1835a7408ce3d77a9e0a144d730c0c3b50d9c3c7007082a54d911a9a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4AD93DDDD51A]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4AD93DDDD51A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4AD93DDDD51A
+- Ryšiai: [[Ryšiai/TAR.4AD93DDDD51A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimas
+### 1 straipsnis. Įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimas ^s-b2ffbb52e9d2400494b7e7f7
 
 
 Pakeisti Įstatymo priedėlio III dalies 14 skyriaus antrąjį skirsnį ir jį išdėstyti taip:
@@ -52,7 +57,7 @@ Krizių valdymą reglamentuoja įstatymai ir kiti teisės aktai.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-4d43db12862add85a56195e3
 
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2331AAFD1483"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 131 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 131 ir 14 straipsnių pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 131 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.2331AAFD1483.md"
 latest_sha256: "29ad1e0b87de5c9070673de2dc75285bf7a075ee029dff81bf413be0718a9907"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2331AAFD1483]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 131 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2331AAFD1483.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2331AAFD1483
+- Ryšiai: [[Ryšiai/TAR.2331AAFD1483|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 131 straipsnio pakeitimas
+### 1 straipsnis. 131 straipsnio pakeitimas ^s-571d9f474bcba271be6b1d0b
 
 
 Pakeisti 131 straipsnį ir jį išdėstyti taip:
@@ -43,20 +48,20 @@ Pakeisti 131 straipsnį ir jį išdėstyti taip:
 „131 straipsnis. Privalomojo sveikatos draudimo fondo finansinių ir biudžeto vykdymo ataskaitų rinkiniai
 
 
-1. Privalomojo sveikatos draudimo fondo ir Privalomojo sveikatos draudimo fondo administravimo įstaigų finansinių ataskaitų rinkinių ir Privalomojo sveikatos draudimo fondo konsoliduotųjų ataskaitų rinkinio sudėtį ir šių rinkinių sudarymo reikalavimus reglamentuoja Viešojo sektoriaus atskaitomybės įstatymas. Privalomojo sveikatos draudimo fondo ir Privalomojo sveikatos draudimo fondo administravimo įstaigų biudžeto vykdymo ataskaitų rinkinių sudėtį ir šių rinkinių sudarymo reikalavimus reglamentuoja šio Įstatymo 14 straipsnio 4 dalyje nurodytos Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisyklės. ^ea77145a08bd09678d182694
+1. Privalomojo sveikatos draudimo fondo ir Privalomojo sveikatos draudimo fondo administravimo įstaigų finansinių ataskaitų rinkinių ir Privalomojo sveikatos draudimo fondo konsoliduotųjų ataskaitų rinkinio sudėtį ir šių rinkinių sudarymo reikalavimus reglamentuoja [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]]. Privalomojo sveikatos draudimo fondo ir Privalomojo sveikatos draudimo fondo administravimo įstaigų biudžeto vykdymo ataskaitų rinkinių sudėtį ir šių rinkinių sudarymo reikalavimus reglamentuoja šio Įstatymo 14 straipsnio 4 dalyje nurodytos Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisyklės. ^s-def9449aa7723622459c20e1
 
 
-2. Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinį rengia Valstybinė ligonių kasa. ^a9bc4567c3e719a46e7553a0
+2. Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinį rengia Valstybinė ligonių kasa. ^s-b204c69891e939b81b67e33b
 
 
-3. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinį kartu su Privalomojo sveikatos draudimo tarybos išvada teikia Sveikatos apsaugos ministerijai. ^bb7a1eb57e5118ce075bb7df
+3. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinį kartu su Privalomojo sveikatos draudimo tarybos išvada teikia Sveikatos apsaugos ministerijai. ^s-4479b7894fb4db43dec6b243
 
 
-4. Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinio teikimą už aukštesniojo lygio konsoliduotųjų ataskaitų rinkinio parengimą atsakingam viešojo sektoriaus subjektui ir Vyriausybei, šio rinkinio tvirtinimą, skelbimą ir auditą reglamentuoja Viešojo sektoriaus atskaitomybės įstatymas.“ ^027f2e831f30a905f66378b4
+4. Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinio teikimą už aukštesniojo lygio konsoliduotųjų ataskaitų rinkinio parengimą atsakingam viešojo sektoriaus subjektui ir Vyriausybei, šio rinkinio tvirtinimą, skelbimą ir auditą reglamentuoja [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]].“ ^s-ef4b57eadb3a273417358a57
 
 
 
-### 2 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-c98f48556a9c565e0e36b574
 
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -66,7 +71,7 @@ Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-2589e4bca9b205752bf7609f
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

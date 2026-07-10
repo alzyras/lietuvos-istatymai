@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FDF8FD41E7E5"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-30"
 latest_path: "latest/TAR.FDF8FD41E7E5.md"
 latest_sha256: "acefddbaf5f19bf6548477db6eadc996697e3210c9e86f1a27af17c73745bfa4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FDF8FD41E7E5]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FDF8FD41E7E5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FDF8FD41E7E5
+- Ryšiai: [[Ryšiai/TAR.FDF8FD41E7E5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-621d6433ad769f8be43f30f6
 
 
 Pakeisti 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:

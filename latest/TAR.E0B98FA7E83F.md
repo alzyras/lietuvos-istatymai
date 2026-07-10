@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E0B98FA7E83F"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 6, 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 6, 7 straipsnių pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 6, 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-28"
 latest_path: "latest/TAR.E0B98FA7E83F.md"
 latest_sha256: "ef3e6842b44141b36fa4d0d31b587ba2cf734eaef8e59d8b336514c5609f4740"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E0B98FA7E83F]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 6, 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E0B98FA7E83F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E0B98FA7E83F
+- Ryšiai: [[Ryšiai/TAR.E0B98FA7E83F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas ^s-0ced21af39fd636f2e13fbc5
 
 
 Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Panevėžio apygardos teismo veiklos teritorija apima: Panevėžio miesto apylin
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-14864a36523930e3cd98022a
 
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
@@ -98,10 +103,10 @@ Apylinkių teismai steigiami savivaldybės teritorijoje, kurioje gyvena ne maži
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-a58e8b04607983b66b97efe0
 
 
-Šis įstatymas įsigalioja nuo jo paskelbimo, o jo [[#2 straipsnis. 7 straipsnio pakeitimas|2 straipsnyje]] išdėstyto 7 straipsnio 14 dalis – nuo 2003 m. sausio 1 d.
+Šis įstatymas įsigalioja nuo jo paskelbimo, o jo [[#^s-14864a36523930e3cd98022a|2 straipsnyje]] išdėstyto 7 straipsnio 14 dalis – nuo 2003 m. sausio 1 d.
 
 
 

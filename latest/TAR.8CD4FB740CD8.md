@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8CD4FB740CD8"
 pavadinimas: "Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento straipsnius"
+aliases:
+  - "Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento straipsnius"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-10-29"
 latest_path: "latest/TAR.8CD4FB740CD8.md"
 latest_sha256: "d9a8d77b4e69909c52f81725f8696897e201a9f81645b7d54bd8515fd2e6ca71"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8CD4FB740CD8]]"
 ---
 # Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento straipsnius
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8CD4FB740CD8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8CD4FB740CD8
+- Ryšiai: [[Ryšiai/TAR.8CD4FB740CD8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

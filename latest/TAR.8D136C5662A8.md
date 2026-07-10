@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8D136C5662A8"
 pavadinimas: "Lietuvos Respublikos principinės kariuomenės struktūros 2008 metais, planuojamos principinės kariuomenės struktūros 2013 metais nustatymo ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinio skaičiaus patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos principinės kariuomenės struktūros 2008 metais, planuojamos principinės kariuomenės struktūros 2013 metais nustatymo ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinio skaičiaus patvirtinimo įstatymas"
+  - "principinės kariuomenės struktūros 2008 metais, planuojamos principinės kariuomenės struktūros 2013 metais nustatymo ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinio skaičiaus patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-31"
 latest_path: "latest/TAR.8D136C5662A8.md"
 latest_sha256: "0afee60de642584fb04cd8fab16b34f979457996c17d7a2dd33f2dc985ee44d3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8D136C5662A8]]"
 ---
 # Lietuvos Respublikos principinės kariuomenės struktūros 2008 metais, planuojamos principinės kariuomenės struktūros 2013 metais nustatymo ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinio skaičiaus patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8D136C5662A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8D136C5662A8
+- Ryšiai: [[Ryšiai/TAR.8D136C5662A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -27,117 +32,117 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-c4d33e465648433895f5ac28
 
 
-1. Šis įstatymas nustato principinę kariuomenės struktūrą 2008 metais: ^4c6fd00f522b3aa5e55d8a47
+1. Šis įstatymas nustato principinę kariuomenės struktūrą 2008 metais: ^s-445dab079cb8136e53d45631
 
 
-1) nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų skaičių; ^2a2fa35f5aed22f2b217f02d
+1) nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų skaičių; ^s-4f716dfab909a353ecf1285d
 
 
-2) bendrą ribinį karių skaičių, ribinius profesinės ir privalomosios pradinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, kariūnų skaičius kalendorinių metų paskutinę dieną; ^2213417dcd3ba5cd4dff5447
+2) bendrą ribinį karių skaičių, ribinius profesinės ir privalomosios pradinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, kariūnų skaičius kalendorinių metų paskutinę dieną; ^s-1e4487ecbde77c12d7975e64
 
 
-3) ribinius kiekvieno laipsnio vyresniųjų karininkų ir generolų bei admirolų skaičius. ^b7fb5cd0a6f025d25af00112
+3) ribinius kiekvieno laipsnio vyresniųjų karininkų ir generolų bei admirolų skaičius. ^s-17851ce6bcc902bf1da91706
 
 
-2. Šis įstatymas taip pat nustato bendrą ribinį civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičių. ^156059813bf7697ddbdaf9e4
+2. Šis įstatymas taip pat nustato bendrą ribinį civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičių. ^s-bf86408471d3fc56fae4ae7a
 
 
-3. Šis įstatymas nustato planuojamą principinę kariuomenės struktūrą 2013 metais. ^8d3d0737696a34d959ed3e3f
+3. Šis įstatymas nustato planuojamą principinę kariuomenės struktūrą 2013 metais. ^s-63bd81e1c57d2c19f79904e2
 
 
 
-### 2 straipsnis. Principinė kariuomenės struktūra 2008 metais
+### 2 straipsnis. Principinė kariuomenės struktūra 2008 metais ^s-d34f155350cfbfc521074186
 
 
-1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra 2008 metais: ^ae168d31577e012fc9133767
+1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra 2008 metais: ^s-1873c234db0b1249dab80f4c
 
 
-1) sausumos pajėgų – Motorizuotoji pėstininkų brigada „Geležinis Vilkas“ (Karaliaus Mindaugo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Algirdo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Kęstučio motorizuotasis pėstininkų batalionas, Didžiosios kunigaikštienės Birutės motorizuotasis pėstininkų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas), Juozo Vitkaus inžinerijos batalionas, Krašto apsaugos savanorių pajėgos (penkios rinktinės, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų mokomasis batalionas); ^f6076249526a9ce30202e70e
+1) sausumos pajėgų – Motorizuotoji pėstininkų brigada „Geležinis Vilkas“ (Karaliaus Mindaugo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Algirdo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Kęstučio motorizuotasis pėstininkų batalionas, Didžiosios kunigaikštienės Birutės motorizuotasis pėstininkų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas), Juozo Vitkaus inžinerijos batalionas, Krašto apsaugos savanorių pajėgos (penkios rinktinės, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų mokomasis batalionas); ^s-93522d2be16c60da2e4e2116
 
 
-2) karinių oro pajėgų – Aviacijos bazė, Oro gynybos batalionas, Oro erdvės stebėjimo ir kontrolės valdyba; ^3c59567efc00a86965b95b3e
+2) karinių oro pajėgų – Aviacijos bazė, Oro gynybos batalionas, Oro erdvės stebėjimo ir kontrolės valdyba; ^s-293577d0dbfb8e534e129bb9
 
 
-3) karinių jūrų pajėgų – Karo laivų flotilė, Jūros ir pakrančių stebėjimo tarnyba; ^d5aad438d9b2f4f4d212e4fe
+3) karinių jūrų pajėgų – Karo laivų flotilė, Jūros ir pakrančių stebėjimo tarnyba; ^s-22a6696b72f956696d04289f
 
 
-4) specialiųjų operacijų pajėgų – Vytauto Didžiojo jėgerių batalionas, Ypatingos paskirties tarnyba; ^b98b5fed32cfb8eb5626208a
+4) specialiųjų operacijų pajėgų – Vytauto Didžiojo jėgerių batalionas, Ypatingos paskirties tarnyba; ^s-680a71d9b79588797fac3f34
 
 
-5) Logistikos valdybos – Lietuvos didžiojo kunigaikščio Vytenio bendrosios paramos logistikos batalionas, Kunigaikščio Vaidoto tiesioginės paramos logistikos batalionas, Karo medicinos tarnyba; ^899472f7081e6e9723c91d9f
+5) Logistikos valdybos – Lietuvos didžiojo kunigaikščio Vytenio bendrosios paramos logistikos batalionas, Kunigaikščio Vaidoto tiesioginės paramos logistikos batalionas, Karo medicinos tarnyba; ^s-5c71c4350b6e28ef2716b3c4
 
 
-6) Mokymo ir doktrinų valdybos – Didžiojo Lietuvos etmono Jonušo Radvilos mokomasis pulkas (du mokomieji batalionai); ^5279984417b88468d45736ab
+6) Mokymo ir doktrinų valdybos – Didžiojo Lietuvos etmono Jonušo Radvilos mokomasis pulkas (du mokomieji batalionai); ^s-681b5e00dd3074dc0b12b25e
 
 
-7) Lietuvos didžiojo kunigaikščio Gedimino štabo batalionas, Karo policija. ^16a32b87da6172e4c75d9ce4
+7) Lietuvos didžiojo kunigaikščio Gedimino štabo batalionas, Karo policija. ^s-d8bf86e47e7e1db3213b19bb
 
 
-2. Bendras ribinis karių skaičius, ribinis profesinės ir privalomosios pradinės karo tarnybos karių, karių  savanorių  ir  kitų  aktyviojo  rezervo  karių,  kariūnų  skaičius 2008 metais nustatomas iki 16 230. Iš to skaičiaus: ^274885fdef8badc32f30d44e
+2. Bendras ribinis karių skaičius, ribinis profesinės ir privalomosios pradinės karo tarnybos karių, karių  savanorių  ir  kitų  aktyviojo  rezervo  karių,  kariūnų  skaičius 2008 metais nustatomas iki 16 230. Iš to skaičiaus: ^s-85cfdf826e0b99d79bb89818
 
 
-1) profesinės karo tarnybos karių – iki 8 390, iš jų generolų ir admirolų – iki 10, pulkininkų ir jūrų kapitonų – iki 40, pulkininkų leitenantų ir komandorų – iki 140, majorų ir komandorų leitenantų – iki 375; ^e8b6862a95752d8012fa5ab0
+1) profesinės karo tarnybos karių – iki 8 390, iš jų generolų ir admirolų – iki 10, pulkininkų ir jūrų kapitonų – iki 40, pulkininkų leitenantų ir komandorų – iki 140, majorų ir komandorų leitenantų – iki 375; ^s-a41d0b19abadf02f4c0330d2
 
 
-2) privalomosios pradinės karo tarnybos karių – iki 1 600; ^290d2749f8d92cd31343467a
+2) privalomosios pradinės karo tarnybos karių – iki 1 600; ^s-8a0275ce969ed026936b6e70
 
 
-3) karių savanorių ir kitų aktyviojo rezervo karių – iki 6 000; ^f07d750db6d5c1d8f1dccbba
+3) karių savanorių ir kitų aktyviojo rezervo karių – iki 6 000; ^s-a53598f401d063cc0dc2c538
 
 
-4) kariūnų – iki 240. ^3fc373d28d8d58ff2a4abf4f
+4) kariūnų – iki 240. ^s-98a7b5795874e920fb378e73
 
 
-3. Bendras ribinis civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičius 2008 metais nustatomas iki 180. ^132e7e0f7b98634d8706fa8b
+3. Bendras ribinis civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičius 2008 metais nustatomas iki 180. ^s-f75e4719372581f9c606fab4
 
 
 
-### 3 straipsnis. Planuojama principinė kariuomenės struktūra 2013 metais
+### 3 straipsnis. Planuojama principinė kariuomenės struktūra 2013 metais ^s-b7e726a5bc4c2dd41bc479f5
 
 
-1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra 2013 metais: ^b2679dc5508fd97c522e6f34
+1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra 2013 metais: ^s-a1f0c899bb726eef07ed225f
 
 
-1) sausumos pajėgų – Mechanizuotoji pėstininkų brigada „Geležinis Vilkas“ (Karaliaus Mindaugo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Algirdo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Kęstučio mechanizuotasis pėstininkų batalionas, Didžiosios kunigaikštienės Birutės mechanizuotasis pėstininkų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Kunigaikščio Vaidoto tiesioginės paramos logistikos batalionas), Juozo Vitkaus inžinerijos batalionas, Oro gynybos batalionas, Ryšių ir informacinių sistemų batalionas, Sausumos pajėgų mokykla, Krašto apsaugos savanorių pajėgos (penkios rinktinės); ^d3c0a7a53c06754e5057f7df
+1) sausumos pajėgų – Mechanizuotoji pėstininkų brigada „Geležinis Vilkas“ (Karaliaus Mindaugo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Algirdo mechanizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Kęstučio mechanizuotasis pėstininkų batalionas, Didžiosios kunigaikštienės Birutės mechanizuotasis pėstininkų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Kunigaikščio Vaidoto tiesioginės paramos logistikos batalionas), Juozo Vitkaus inžinerijos batalionas, Oro gynybos batalionas, Ryšių ir informacinių sistemų batalionas, Sausumos pajėgų mokykla, Krašto apsaugos savanorių pajėgos (penkios rinktinės); ^s-2662ac401af82ad15c4cf136
 
 
-2) karinių oro pajėgų – Aviacijos bazė, Oro erdvės stebėjimo ir kontrolės valdyba; ^11b2a0d7203d6e1ccf7c99a7
+2) karinių oro pajėgų – Aviacijos bazė, Oro erdvės stebėjimo ir kontrolės valdyba; ^s-b6e26184437c09b9fa323b20
 
 
-3) karinių jūrų pajėgų – Karo laivų flotilė, Jūros ir pakrančių stebėjimo tarnyba; ^e3616a9717dbac587fb0871c
+3) karinių jūrų pajėgų – Karo laivų flotilė, Jūros ir pakrančių stebėjimo tarnyba; ^s-00d2a276b957323f1111b8e2
 
 
-4) specialiųjų operacijų pajėgų – Vytauto Didžiojo jėgerių batalionas, Ypatingos paskirties tarnyba; ^b8a648d49dd2dc662bd59d6c
+4) specialiųjų operacijų pajėgų – Vytauto Didžiojo jėgerių batalionas, Ypatingos paskirties tarnyba; ^s-beb2a0a7605a459bd72ad684
 
 
-5) Logistikos valdybos – Lietuvos didžiojo kunigaikščio Vytenio bendrosios paramos logistikos batalionas, Karo medicinos tarnyba; ^0f29b0b8970fcbcfed8e883e
+5) Logistikos valdybos – Lietuvos didžiojo kunigaikščio Vytenio bendrosios paramos logistikos batalionas, Karo medicinos tarnyba; ^s-9373eba5b8b40d7829d86c85
 
 
-6) Mokymo ir personalo valdybos – Didžiojo Lietuvos etmono Jonušo Radvilos mokomasis pulkas; ^79f69509f19db3f6fdc3c833
+6) Mokymo ir personalo valdybos – Didžiojo Lietuvos etmono Jonušo Radvilos mokomasis pulkas; ^s-3ac1058a4ce561a670758fd9
 
 
-7) Lietuvos didžiojo kunigaikščio Gedimino štabo batalionas, Karo policija. ^bb35a78bafad35085cd97114
+7) Lietuvos didžiojo kunigaikščio Gedimino štabo batalionas, Karo policija. ^s-2b303ee05a1643d551f25dd2
 
 
-2. Bendras ribinis karių skaičius, ribinis profesinės ir privalomosios pradinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, kariūnų skaičius 2013 metais nustatomas iki 14 650. Iš to skaičiaus: ^f0e3bef0716c428f7f2791e7
+2. Bendras ribinis karių skaičius, ribinis profesinės ir privalomosios pradinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, kariūnų skaičius 2013 metais nustatomas iki 14 650. Iš to skaičiaus: ^s-cd11dd3174a1f9b1fdc655da
 
 
-1) profesinės karo tarnybos karių – iki 8 450, iš jų generolų ir admirolų – iki 12, pulkininkų ir jūrų kapitonų – iki 45, pulkininkų leitenantų ir komandorų – iki 150, majorų ir komandorų leitenantų – iki 400; ^51820007193ed25e923cce0d
+1) profesinės karo tarnybos karių – iki 8 450, iš jų generolų ir admirolų – iki 12, pulkininkų ir jūrų kapitonų – iki 45, pulkininkų leitenantų ir komandorų – iki 150, majorų ir komandorų leitenantų – iki 400; ^s-6b86a430ec696d2708190895
 
 
-2) privalomosios pradinės karo tarnybos karių – 0; ^edda6c564a37ccda7f5857a6
+2) privalomosios pradinės karo tarnybos karių – 0; ^s-a5163ff66d8da891296b8fa1
 
 
-3) karių savanorių ir kitų aktyviojo rezervo karių – ne mažiau kaip 6 000; ^c329c94f6e019577816f532e
+3) karių savanorių ir kitų aktyviojo rezervo karių – ne mažiau kaip 6 000; ^s-7dc6e376ee4fef994dae8aab
 
 
-4) kariūnų – iki 200. ^9279a7306eec5307974fd01d
+4) kariūnų – iki 200. ^s-6adb2b3629ce6bf81264d11f
 
 
-3. Bendras ribinis civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičius 2013 metais nustatomas iki 200. ^8023143ac96183e6b7bef9b9
+3. Bendras ribinis civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičius 2013 metais nustatomas iki 200. ^s-330590e2139388105ef0f858
 
 
 

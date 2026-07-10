@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1933E527F603"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.1933E527F603.md"
 latest_sha256: "020df275033559673de3cdccb67346a64cfd7b2d04ace101bc8902fc2b59d1da"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1933E527F603]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1933E527F603.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1933E527F603
+- Ryšiai: [[Ryšiai/TAR.1933E527F603|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 1 punkto pakeitimas ^s-7ec9c4375b1be4f90edf85cd
 
 
 3 straipsnio 1 punkte vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šį punktą išdėstyti taip:

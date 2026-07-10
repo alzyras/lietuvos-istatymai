@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF40BAA0A4B8"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 47 ir 53-2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 47 ir 53-2 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo 47 ir 53-2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.AF40BAA0A4B8.md"
 latest_sha256: "e0c4f9c8567a3172205efa6ba36a617d4c86a34d78710a6f61c89aff8db32e2f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF40BAA0A4B8]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 47 ir 53-2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF40BAA0A4B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF40BAA0A4B8
+- Ryšiai: [[Ryšiai/TAR.AF40BAA0A4B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas ^s-5e4985b281746655143121cf
 
 
 Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 532 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 532 straipsnio 2 dalies pakeitimas ^s-4a5bd07941a6447d32ecfb6d
 
 
 Pakeisti 532 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 532 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-4687bb2fea6e340ad9714318
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

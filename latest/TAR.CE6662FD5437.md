@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CE6662FD5437"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 13, 46 ir 160 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 13, 46 ir 160 straipsnių pakeitimo įstatymas"
+  - "administracinių bylų teisenos įstatymo 13, 46 ir 160 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.CE6662FD5437.md"
 latest_sha256: "947680411eac6927ac6e239e48b589747a6dd1473fe9806eb48f13e9c5386cf6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CE6662FD5437]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 13, 46 ir 160 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CE6662FD5437.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CE6662FD5437
+- Ryšiai: [[Ryšiai/TAR.CE6662FD5437|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-9db17e4380e4b0570eda5586
 
 
 13 straipsnio 2 dalyje po žodžio „penkių“ įrašyti žodžius „arba septynių“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 46 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 46 straipsnio 2 dalies pakeitimas ^s-65ea5655c4e110add24ab4b0
 
 
 46 straipsnio 2 dalyje po žodžio „penkių“ įrašyti žodžius „arba septynių“ ir šią dalį išdėstyti taip:
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 160 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 160 straipsnio 2 dalies pakeitimas ^s-7197d496fdd211d59278490f
 
 
 Pakeisti 160 straipsnio 2 dalį ir ją išdėstyti taip:

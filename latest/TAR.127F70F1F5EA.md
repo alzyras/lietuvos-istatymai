@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.127F70F1F5EA"
 pavadinimas: "Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "smulkaus ir vidutinio verslo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-08-03"
 latest_path: "latest/TAR.127F70F1F5EA.md"
 latest_sha256: "6a510bbf6ce8e7802fce1135f6630d215652b51bebf4b3a72d39b9b3ee0b8ed2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.127F70F1F5EA]]"
 ---
 # Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.127F70F1F5EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.127F70F1F5EA
+- Ryšiai: [[Ryšiai/TAR.127F70F1F5EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-6b00e926cd801fe8cf620cc1
 
 
 5 straipsnio 2 dalyje vietoj žodžių „Valstybės pagalbos ūkio subjektams kontrolės įstatymo nustatytų apribojimų“ įrašyti žodžius „valstybės pagalbą reglamentuojančių Europos Sąjungos teisės aktų“ ir šią dalį išdėstyti taip:

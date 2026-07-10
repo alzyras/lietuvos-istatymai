@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E1633499EE15"
 pavadinimas: "Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "mokesčio už valstybinius gamtos išteklius įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.E1633499EE15.md"
 latest_sha256: "48d94b18a511de229c59e4263766a4eafc2ac349be93ca5de5c8f83a63d307de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E1633499EE15]]"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E1633499EE15.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E1633499EE15
+- Ryšiai: [[Ryšiai/TAR.E1633499EE15|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-8a1ae36ee6c8ecb495630a6e
 
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:

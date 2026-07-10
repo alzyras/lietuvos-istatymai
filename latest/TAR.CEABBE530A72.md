@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CEABBE530A72"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas"
+  - "buhalterinės apskaitos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-01"
 latest_path: "latest/TAR.CEABBE530A72.md"
 latest_sha256: "4fbd5be9dae6ca94f61d15c437be6ad0736fadb82e09be6e80e731b377ff4593"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CEABBE530A72]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CEABBE530A72.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CEABBE530A72
+- Ryšiai: [[Ryšiai/TAR.CEABBE530A72|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 22 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 22 dalies pakeitimas ^s-d06ef24d134373c20143fd37
 
 
 2 straipsnio 22 dalyje po žodžio „savininkas“ įrašyti žodžius „arba mažosios bendrijos atstovas“ ir šią dalį išdėstyti taip:
@@ -45,20 +50,20 @@ Vilnius
 
 
 
-### 2 straipsnis. 10 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 10 straipsnio papildymas ir pakeitimas ^s-32e0e3480ca025dd8c58446a
 
 
-1. Papildyti 10 straipsnį nauja 4 dalimi: ^2a7e6ee9330fd4f916d287a3
+1. Papildyti 10 straipsnį nauja 4 dalimi: ^s-fed3f0c006aaaee285cc1785
 
 
 „4. Mažosios bendrijos apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti tos bendrijos narys.“
 
 
-2. Buvusias 10 straipsnio 4, 5 ir 6 dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^531d3d34691394ce884121d4
+2. Buvusias 10 straipsnio 4, 5 ir 6 dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^s-f18fef058121d50e24343625
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-b6208e485fc95d2c76722e43
 
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.

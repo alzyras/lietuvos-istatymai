@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.74D8B260CB90"
 pavadinimas: "Lietuvos Respublikos Šventosios jūrų uosto įstatymas"
+aliases:
+  - "Lietuvos Respublikos Šventosios jūrų uosto įstatymas"
+  - "Šventosios jūrų uosto įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-03-01"
 latest_path: "latest/TAR.74D8B260CB90.md"
 latest_sha256: "f1a43974b2c438a01036698c57ad445309723af9fc46430a3b2d18b6f04fecda"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.74D8B260CB90]]"
 ---
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.74D8B260CB90.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90
+- Ryšiai: [[Ryšiai/TAR.74D8B260CB90|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,82 +41,82 @@ Vilnius
 
 
 
-## I SKYRIUS
+## I SKYRIUS ^s-fa76482f7dd108b227b7d691
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis ir taikymas
+### 1 straipsnis. Įstatymo paskirtis ir taikymas ^s-cbe224c2b7b2ba426ae1c154
 
 
-1. Šis įstatymas nustato Šventosios jūrų uosto (toliau – uostas) veiklą ir valdymą. ^ca52320ef1177763e989494e
+1. Šis įstatymas nustato Šventosios jūrų uosto (toliau – uostas) veiklą ir valdymą. ^s-a99055ceba3722b70a480741
 
 
-2. Uosto ir uosto naudotojų veiklą reglamentuojantys kiti Lietuvos Respublikos įstatymai taikomi tiek, kiek šios veiklos nereglamentuoja šis įstatymas. ^3c93e60aa01b6c9658822cf7
-
-
-
-### 2 straipsnis. Įstatyme vartojamos sąvokos
-
-
-Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+2. Uosto ir uosto naudotojų veiklą reglamentuojantys kiti Lietuvos Respublikos įstatymai taikomi tiek, kiek šios veiklos nereglamentuoja šis įstatymas. ^s-6285d51e6a87d57c0f6278f4
 
 
 
-## II SKYRIUS
+### 2 straipsnis. Įstatyme vartojamos sąvokos ^s-74dbe7b5fa8e74dd29c93283
+
+
+Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatyme]], [[latest/TAR.D66F6A760DE7|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme]] ir [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatyme]].
+
+
+
+## II SKYRIUS ^s-940ac4ff2690662359362281
 UOSTO VEIKLOS REGLAMENTAVIMAS
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-4739c122bcd90bd3471d3b6e
 UOSTAS
 
 
 
-### 3 straipsnis. Uosto žemės ir akvatorijos teritorijų ribos
+### 3 straipsnis. Uosto žemės ir akvatorijos teritorijų ribos ^s-01dc85e98db238da255604b5
 
 
 Uosto žemės ir akvatorijos teritorijų ribas Palangos miesto savivaldybės tarybos teikimu nustato Lietuvos Respublikos Vyriausybė.
 
 
 
-### 4 straipsnis. Uosto paskirtis
+### 4 straipsnis. Uosto paskirtis ^s-499b3bdfc3f13a0392d05490
 
 
-1. Uosto paskirtis: ^b31f54a5720270196d8fe93a
+1. Uosto paskirtis: ^s-67cf68ee2451485fbaca1104
 
 
-1) priimti pramoginius, mažuosius ir sportinius laivus; ^fa0a58bf73455849c321dbfe
+1) priimti pramoginius, mažuosius ir sportinius laivus; ^s-8da1e65163910544b2d1e867
 
 
-2) priimti žvejybos laivus; ^3b5db5303adf5ac534a545b9
+2) priimti žvejybos laivus; ^s-3f6613ebb85a02dbc68ac138
 
 
-3) priimti nedidelius jūrų kruizinius ir keleivinius įvažiuojamuosius laivus; ^b35a4617947a768f08ad79e4
+3) priimti nedidelius jūrų kruizinius ir keleivinius įvažiuojamuosius laivus; ^s-2c324e0ec90de85e1261a820
 
 
-4) priimti Lietuvos Respublikos valstybės sienos apsaugos tarnybos laivus, specializuotus gelbėjimo, išsiliejusios naftos surinkimo, priešgaisrinės ir jūros aplinkos apsaugos, laivybos ir žvejybos kontrolės, kitų valstybės institucijų laivus; ^6399e3a6ce8114de5064c7e9
+4) priimti Lietuvos Respublikos valstybės sienos apsaugos tarnybos laivus, specializuotus gelbėjimo, išsiliejusios naftos surinkimo, priešgaisrinės ir jūros aplinkos apsaugos, laivybos ir žvejybos kontrolės, kitų valstybės institucijų laivus; ^s-701a68216f2db42e51f26796
 
 
-5) atlikti pirminį žuvų apdorojimą, plėtoti prekybą. ^92b30f548f8604221ece06e1
+5) atlikti pirminį žuvų apdorojimą, plėtoti prekybą. ^s-ae17d1b5364a0dd5c4a41a68
 
 
-2. Uosto naudotojai ir uosto žemės naudotojai, sudarę sutartį su šio įstatymo [[#^0477ce222dc55917a105a9e1|7 straipsnio 1 dalyje]] nurodyta savivaldybės įmone atitinkamai dėl veiklos uoste arba dėl uosto žemės nuomos, uosto teritorijoje gali vykdyti tik tokią veiklą, kuri atitinka uosto paskirtį. ^50a9133a4eeae2755b211126
+2. Uosto naudotojai ir uosto žemės naudotojai, sudarę sutartį su šio įstatymo [[#^s-ed1892bad8c806baeff7eeeb|7 straipsnio 1 dalyje]] nurodyta savivaldybės įmone atitinkamai dėl veiklos uoste arba dėl uosto žemės nuomos, uosto teritorijoje gali vykdyti tik tokią veiklą, kuri atitinka uosto paskirtį. ^s-d22a7bf2310c768d4d9c9ecf
 Straipsnio dalies pakeitimai:
 Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
 
 
 
-### 5 straipsnis. Uosto žemė, akvatorija ir uosto infrastruktūra
+### 5 straipsnis. Uosto žemė, akvatorija ir uosto infrastruktūra ^s-46c640d1fd5f26fb52c0d0c2
 
 
-1. Uosto žemė, akvatorija ir uosto infrastruktūra yra Lietuvos valstybės turtas, kuris Vyriausybės nutarimu perduodamas valdyti, naudoti ir disponuoti juo patikėjimo teise šio įstatymo [[#^0477ce222dc55917a105a9e1|7 straipsnio 1 dalyje]] nurodytai savivaldybės įmonei šio įstatymo [[#^b31f54a5720270196d8fe93a|4 straipsnio 1 dalyje]] ir [[#^eb618c281a3da9d6d3cbf047|7 straipsnio 2 dalyje]] nurodytoms reikmėms. ^c1c076c244ab976f15d45627
+1. Uosto žemė, akvatorija ir uosto infrastruktūra yra Lietuvos valstybės turtas, kuris Vyriausybės nutarimu perduodamas valdyti, naudoti ir disponuoti juo patikėjimo teise šio įstatymo [[#^s-ed1892bad8c806baeff7eeeb|7 straipsnio 1 dalyje]] nurodytai savivaldybės įmonei šio įstatymo [[#^s-67cf68ee2451485fbaca1104|4 straipsnio 1 dalyje]] ir [[#^s-0021cfaaf1df9f49100d8c35|7 straipsnio 2 dalyje]] nurodytoms reikmėms. ^s-f597567fb77a070296d147f7
 
 
-2. Uosto žemė, akvatorija ir uosto infrastruktūra neprivatizuojamos. ^463f03e8a1e733ff179dfb1b
+2. Uosto žemė, akvatorija ir uosto infrastruktūra neprivatizuojamos. ^s-0e28b59014e0363c83239e16
 
 
-3. [[#^c1c076c244ab976f15d45627|Šio straipsnio 1 dalyje]] nurodytas Lietuvos valstybės turtas negali būti perduotas nuosavybės teise kitiems asmenims, įkeistas ar negali būti kitaip suvaržytos daiktinės teisės į jį, negalima juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo. ^d06c7470ecd2ccd80fa22e86
+3. [[#^s-f597567fb77a070296d147f7|Šio straipsnio 1 dalyje]] nurodytas Lietuvos valstybės turtas negali būti perduotas nuosavybės teise kitiems asmenims, įkeistas ar negali būti kitaip suvaržytos daiktinės teisės į jį, negalima juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo. ^s-3eaff4fbbc17f9b0f102a41e
 
 
 Straipsnio pakeitimai:
@@ -119,79 +124,79 @@ Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
 
 
 
-### 6 straipsnis. Naudojimosi uostu tvarka
+### 6 straipsnis. Naudojimosi uostu tvarka ^s-59da1424d6112d9418c6cff1
 
 
-1. Uostas yra atviras tarptautinei ir vidaus laivybai. ^2a164ec2a5dd081db630e568
+1. Uostas yra atviras tarptautinei ir vidaus laivybai. ^s-abcb73bcfbbc5c6262fcaaae
 
 
-2. Uosto naudojimo taisykles ir uosto laivybos taisykles tvirtina Palangos miesto savivaldybės taryba. Šios taisyklės yra privalomos visiems uoste esantiems, dirbantiems ar veiklą vykdantiems fiziniams ir juridiniams asmenims, organizacijoms ir jų padaliniams. ^3ea12a4315ef3ba68dfe8bcd
+2. Uosto naudojimo taisykles ir uosto laivybos taisykles tvirtina Palangos miesto savivaldybės taryba. Šios taisyklės yra privalomos visiems uoste esantiems, dirbantiems ar veiklą vykdantiems fiziniams ir juridiniams asmenims, organizacijoms ir jų padaliniams. ^s-3470a774d6ca13d1bd310c04
 
 
-3. Laivams su branduolinėmis jėgainėmis ir branduoliniu ginklu įplaukti į uostą draudžiama. Kitų valstybių karo ir kiti valstybinį statusą turintys laivai į uostą gali įplaukti Vyriausybės nustatyta tvarka. ^d703f18d9da632732d17cc89
+3. Laivams su branduolinėmis jėgainėmis ir branduoliniu ginklu įplaukti į uostą draudžiama. Kitų valstybių karo ir kiti valstybinį statusą turintys laivai į uostą gali įplaukti Vyriausybės nustatyta tvarka. ^s-1c9f4abefc3e7fd7fbcb0474
 
 
-4. Uoste esantys, dirbantys ar veiklą vykdantys fiziniai ir juridiniai asmenys, organizacijos ir jų padaliniai privalo laikytis šio įstatymo ir kitų uosto veiklą reglamentuojančių teisės aktų reikalavimų. ^7151aa91da0fdaffbcbff7b8
+4. Uoste esantys, dirbantys ar veiklą vykdantys fiziniai ir juridiniai asmenys, organizacijos ir jų padaliniai privalo laikytis šio įstatymo ir kitų uosto veiklą reglamentuojančių teisės aktų reikalavimų. ^s-f9c2e705ab715d050044b6e4
 
 
-5. Už uoste esančių, dirbančių ar veiklą vykdančių fizinių ir juridinių asmenų, organizacijų ir jų padalinių vykdomų darbų saugą atsako jų vadovai. ^be11554752c1859bc6e32a7b
+5. Už uoste esančių, dirbančių ar veiklą vykdančių fizinių ir juridinių asmenų, organizacijų ir jų padalinių vykdomų darbų saugą atsako jų vadovai. ^s-aa8e77c2d202be144172dbde
 
 
-6. Uoste esantys, dirbantys ar veiklą vykdantys fiziniai ir juridiniai asmenys, organizacijos ir jų padaliniai turi suteikti patalpas tikrinimą atliekančioms institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. ^5c8218ced58dd1cf3d03015d
+6. Uoste esantys, dirbantys ar veiklą vykdantys fiziniai ir juridiniai asmenys, organizacijos ir jų padaliniai turi suteikti patalpas tikrinimą atliekančioms institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. ^s-83914e3698f2c664e1a1efaa
 
 
-7. Laivai uoste priimami ir aprūpinami atsargomis pagal šių laivų kapitonų ar jų įgaliotų asmenų konkretiems laivus priimantiems ir aprūpinantiems asmenims pateiktas paraiškas. Laivus priimantys ir aprūpinantys asmenys turi teisę patekti prie uosto krantinių, prie pirsų stovinčių laivų tik gavę leidimus. Palangos miesto savivaldybės taryba, suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos ir Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, patvirtina šių leidimų išdavimo tvarkos aprašą. ^54acda29cdfcf13d598d2b57
+7. Laivai uoste priimami ir aprūpinami atsargomis pagal šių laivų kapitonų ar jų įgaliotų asmenų konkretiems laivus priimantiems ir aprūpinantiems asmenims pateiktas paraiškas. Laivus priimantys ir aprūpinantys asmenys turi teisę patekti prie uosto krantinių, prie pirsų stovinčių laivų tik gavę leidimus. Palangos miesto savivaldybės taryba, suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos ir Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, patvirtina šių leidimų išdavimo tvarkos aprašą. ^s-098bf04c97d9875df635008b
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-26033cc40cbb2d2c52224376
 UOSTO VALDYMAS
 
 
 
-### 7 straipsnis. Uosto valdymas
+### 7 straipsnis. Uosto valdymas ^s-a71cbf89129c6f4bb402ff4b
 
 
-1. Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, naudoja ir jomis disponuoja Šventosios jūrų uosto direkcija šiame įstatyme, Šventosios jūrų uosto direkcijos įstatuose, jos veiklą reglamentuojančiuose teisės aktuose nustatyta tvarka ir sąlygomis. Šventosios jūrų uosto direkcija yra Palangos miesto savivaldybės tarybos sprendimu įsteigta savivaldybės įmonė (toliau – savivaldybės įmonė). Jos savininko teises ir pareigas įgyvendina Palangos miesto savivaldybės vykdomoji institucija. ^0477ce222dc55917a105a9e1
+1. Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, naudoja ir jomis disponuoja Šventosios jūrų uosto direkcija šiame įstatyme, Šventosios jūrų uosto direkcijos įstatuose, jos veiklą reglamentuojančiuose teisės aktuose nustatyta tvarka ir sąlygomis. Šventosios jūrų uosto direkcija yra Palangos miesto savivaldybės tarybos sprendimu įsteigta savivaldybės įmonė (toliau – savivaldybės įmonė). Jos savininko teises ir pareigas įgyvendina Palangos miesto savivaldybės vykdomoji institucija. ^s-ed1892bad8c806baeff7eeeb
 
 
-2. Pagrindinės savivaldybės įmonės funkcijos: ^eb618c281a3da9d6d3cbf047
+2. Pagrindinės savivaldybės įmonės funkcijos: ^s-0021cfaaf1df9f49100d8c35
 
 
-1) koordinuoti uosto žemės naudotojų vykdomą uosto teritorijos apsaugą; ^f0253f7dbf5ece8e55656dd5
+1) koordinuoti uosto žemės naudotojų vykdomą uosto teritorijos apsaugą; ^s-905e0a196ea2ba2ad4d9e00e
 
 
-2) užtikrinti saugią laivybą uoste; ^c0cff1a0503f9989eac8c6ce
+2) užtikrinti saugią laivybą uoste; ^s-53ecfbb0cb7fcf5fb5105c3f
 
 
-3) nuomoti uosto žemę; ^dbb8e64aede6503db3e46faa
+3) nuomoti uosto žemę; ^s-d3c9c96bc3f2fb8e2a8b1445
 
 
-4) rinkti atlyginimą už uosto paslaugas; ^8c94ef70d8417f4472b51ddb
+4) rinkti atlyginimą už uosto paslaugas; ^s-8c826f4dbbd3e755941a5a17
 
 
-5) organizuoti uosto akvatorijoje žmonių ir laivų gelbėjimo darbus; ^ab845540dd404c10a414259a
+5) organizuoti uosto akvatorijoje žmonių ir laivų gelbėjimo darbus; ^s-60ce375826bbf92e6859288b
 
 
-6) rengti uosto plėtros krypčių projektus, organizuoti jų įgyvendinimą, mokslinių tyrimų darbus, reklamuoti uostą; ^07e70d0e5026daccb4888060
+6) rengti uosto plėtros krypčių projektus, organizuoti jų įgyvendinimą, mokslinių tyrimų darbus, reklamuoti uostą; ^s-89482462ae5df57bdad9cc7c
 
 
-7) įgyvendinti uosto apsaugos nuo taršos prevencijos priemones ir organizuoti taršos padarinių likvidavimą; ^e53a9358c4e9e3e30c68d516
+7) įgyvendinti uosto apsaugos nuo taršos prevencijos priemones ir organizuoti taršos padarinių likvidavimą; ^s-37c49edbbee356949a5ec439
 
 
-8) stebėti ir išlaikyti projektinius gylius uosto akvatorijoje, prie krantinių ir pirsų; ^b9693017b34e5a2f2092a5de
+8) stebėti ir išlaikyti projektinius gylius uosto akvatorijoje, prie krantinių ir pirsų; ^s-78731f1f30cc72bff18bb09d
 
 
-9) statyti, remontuoti, rekonstruoti, griauti ir atnaujinti (modernizuoti) uosto infrastruktūrą; ^8d6616327ab554ca687fa48b
+9) statyti, remontuoti, rekonstruoti, griauti ir atnaujinti (modernizuoti) uosto infrastruktūrą; ^s-f1291a5312f07e2a16fe90e6
 
 
-10) organizuoti ir vykdyti uosto aplinkos apsaugą; ^22b03ebb8810e9562d6b07ea
+10) organizuoti ir vykdyti uosto aplinkos apsaugą; ^s-672407e53766b8a225fc3c64
 
 
-11) užtikrinti neišnuomotos uosto žemės (teritorijos) priežiūrą; ^5794f37d256d25234e505a1e
+11) užtikrinti neišnuomotos uosto žemės (teritorijos) priežiūrą; ^s-60692b3dc0de054b3dd5b16f
 
 
-12) vykdyti kitą jos įstatuose nustatytą veiklą. ^03b306a637b7e39a0bd108ff
+12) vykdyti kitą jos įstatuose nustatytą veiklą. ^s-3e0e0fd4f1e89913f7f1a0e3
 
 
 Straipsnio pakeitimai:
@@ -199,49 +204,49 @@ Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
 
 
 
-### 8 straipsnis. Uosto kapitonas
+### 8 straipsnis. Uosto kapitonas ^s-eecd6fb0a43fc20d4025b8ca
 
 
-1. Uosto veiklą, susijusią su laivyba, užtikrina uosto kapitonas. Uosto kapitono pareigas gali eiti laivavedys, mokantis valstybinę ir anglų kalbas ir turintis aukštąjį jūrinį išsilavinimą ir ne mažesnį kaip penkerių metų plaukiojimo jūrų laivo kapitonu stažą. Uosto kapitoną skiria ir atleidžia Palangos miesto savivaldybės administracijos direktorius. ^d0bc5b63a2dc5acf18b187aa
+1. Uosto veiklą, susijusią su laivyba, užtikrina uosto kapitonas. Uosto kapitono pareigas gali eiti laivavedys, mokantis valstybinę ir anglų kalbas ir turintis aukštąjį jūrinį išsilavinimą ir ne mažesnį kaip penkerių metų plaukiojimo jūrų laivo kapitonu stažą. Uosto kapitoną skiria ir atleidžia Palangos miesto savivaldybės administracijos direktorius. ^s-6e9d961467603a12c2ccc124
 
 
-2. Uosto kapitono veiklą nustato Saugios laivybos įstatymas, šis įstatymas ir Šventosios jūrų uosto kapitono nuostatai, kuriuos, suderinęs su Lietuvos transporto saugos administracija, tvirtina Palangos miesto savivaldybės administracijos direktorius. ^711120e3a23fbd38e7848790
+2. Uosto kapitono veiklą nustato [[latest/TAR.8FBB384266D1|Saugios laivybos įstatymas]], šis įstatymas ir Šventosios jūrų uosto kapitono nuostatai, kuriuos, suderinęs su Lietuvos transporto saugos administracija, tvirtina Palangos miesto savivaldybės administracijos direktorius. ^s-2fcb142c00b4a5eda25db3ef
 
 
-3. Uosto kapitonas neleidžia laivui išplaukti iš uosto, jeigu laivybos bendrovė nesumokėjo laivui apskaičiuoto atlyginimo už uosto paslaugas ir baudų, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, laivybos bendrovė nepadengė išlaidų, kurias savivaldybės įmonė patyrė organizuodama laivo ar krovinio gelbėjimo darbus ir taršos iš laivų prevencijos ar likvidavimo darbus, arba nepateikė prievolių įvykdymo užtikrinimo Lietuvos Respublikos įstatymų nustatytais būdais. Kai laivybos bendrovė atlygina už uosto paslaugas, sumoka baudas ir kompensuoja savivaldybės įmonės išlaidas arba pateikia prievolių įvykdymo užtikrinimą Lietuvos Respublikos įstatymų nustatytais būdais, uosto kapitonas leidžia laivui išplaukti iš uosto. ^ee9ed08a72c708814fa8ce33
+3. Uosto kapitonas neleidžia laivui išplaukti iš uosto, jeigu laivybos bendrovė nesumokėjo laivui apskaičiuoto atlyginimo už uosto paslaugas ir baudų, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, laivybos bendrovė nepadengė išlaidų, kurias savivaldybės įmonė patyrė organizuodama laivo ar krovinio gelbėjimo darbus ir taršos iš laivų prevencijos ar likvidavimo darbus, arba nepateikė prievolių įvykdymo užtikrinimo Lietuvos Respublikos įstatymų nustatytais būdais. Kai laivybos bendrovė atlygina už uosto paslaugas, sumoka baudas ir kompensuoja savivaldybės įmonės išlaidas arba pateikia prievolių įvykdymo užtikrinimą Lietuvos Respublikos įstatymų nustatytais būdais, uosto kapitonas leidžia laivui išplaukti iš uosto. ^s-4d868f9875d41805400a9113
 
 
 
-## III SKYRIUS
+## III SKYRIUS ^s-ef1cc6152c4e4a748fd8544b
 UOSTO ŪKINĖ IR KOMERCINĖ VEIKLA
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-df619fc4093d116b74de2969
 UOSTO PLĖTRA IR UOSTO ŽEMĖS NUOMA
 
 
 
-### 9 straipsnis. Uosto plėtra
+### 9 straipsnis. Uosto plėtra ^s-c6a2289f5f5b58fc0987bda2
 
 
-Uosto plėtra planuojama Lietuvos Respublikos teritorijų planavimo įstatymo nustatyta tvarka. Uosto teritorijoje leidžiama statyti, rekonstruoti, remontuoti ar griauti statinius, vadovaujantis Teritorijų planavimo įstatymu, Statybos įstatymu, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu.
+Uosto plėtra planuojama [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymo]] nustatyta tvarka. Uosto teritorijoje leidžiama statyti, rekonstruoti, remontuoti ar griauti statinius, vadovaujantis [[latest/TAR.26B563184529|Teritorijų planavimo įstatymu]], [[latest/TAR.F31E79DEC55D|Statybos įstatymu]], [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu]].
 
 
 
-### 10 straipsnis. Uosto žemės nuoma
+### 10 straipsnis. Uosto žemės nuoma ^s-f875130b65c1ce2be5bd4b07
 
 
-1. Savivaldybės įmonė turi teisę išnuomoti uosto žemę tik su uosto paskirtimi susijusiai veiklai, nurodytai šio įstatymo [[#^b31f54a5720270196d8fe93a|4 straipsnio 1 dalyje]], vykdyti. ^ac37575c9ff9c906438f337e
+1. Savivaldybės įmonė turi teisę išnuomoti uosto žemę tik su uosto paskirtimi susijusiai veiklai, nurodytai šio įstatymo [[#^s-67cf68ee2451485fbaca1104|4 straipsnio 1 dalyje]], vykdyti. ^s-414d276d55da2b0e70404fce
 
 
-2. Savivaldybės įmonė uosto žemę gali išnuomoti tik konkurso tvarka. Šios tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė. ^20c702318306d84834411036
+2. Savivaldybės įmonė uosto žemę gali išnuomoti tik konkurso tvarka. Šios tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė. ^s-5d01d86e12f49ef9e8eacd4e
 
 
-3. Uosto žemės nuomos sutarties formą ir uosto žemės nuomos mokesčio apskaičiavimo tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė. ^7762aae376d6a9fdf372cf4b
+3. Uosto žemės nuomos sutarties formą ir uosto žemės nuomos mokesčio apskaičiavimo tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė. ^s-4fff8f79ccf306eafd768a25
 
 
-4. Uosto žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. Sprendimą perduoti uosto žemę neatlygintinai naudotis priima Palangos miesto savivaldybės taryba. Uosto žemė perduodama laikinai neatlygintinai naudotis Vyriausybės nustatyta tvarka. ^90a15c5f99664cbfffd113be
+4. Uosto žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. Sprendimą perduoti uosto žemę neatlygintinai naudotis priima Palangos miesto savivaldybės taryba. Uosto žemė perduodama laikinai neatlygintinai naudotis Vyriausybės nustatyta tvarka. ^s-d6cfbead315dd265d0bd4696
 
 
 Straipsnio pakeitimai:
@@ -249,213 +254,213 @@ Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
 
 
 
-### 11 straipsnis. Uosto žemės nuomos sąlygos, uosto žemės nuomos sutartis ir terminai
+### 11 straipsnis. Uosto žemės nuomos sąlygos, uosto žemės nuomos sutartis ir terminai ^s-283d35cafd6207f7a56d7355
 
 
-1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 25 metams, laikantis Lietuvos Respublikos civiliniame kodekse ir šiame įstatyme nustatytų reikalavimų. ^869aefb61c37f4e5f1090aac
+1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 25 metams, laikantis Lietuvos Respublikos civiliniame kodekse ir šiame įstatyme nustatytų reikalavimų. ^s-b2f36e42512fd43965afed50
 
 
-2. Be Civiliniame kodekse nustatytų žemės nuomos sutarties sąlygų, uosto žemės nuomos sutartyje papildomai nurodomos šios sąlygos: ^8753fa74ed10dd5cab1bc8a1
+2. Be Civiliniame kodekse nustatytų žemės nuomos sutarties sąlygų, uosto žemės nuomos sutartyje papildomai nurodomos šios sąlygos: ^s-53dde61e08141bc155ee43e0
 
 
-1) uosto žemės nuomos mokesčio dydžio apskaičiavimo, šio mokesčio dydžio keitimo sąlygos ir tvarka; ^7adf1f70d67027139c06e696
+1) uosto žemės nuomos mokesčio dydžio apskaičiavimo, šio mokesčio dydžio keitimo sąlygos ir tvarka; ^s-0065a610a18540f6bdaf9dc2
 
 
-2) draudimas subnuomoti uosto žemę; ^512ae2998e920b1edf83636e
+2) draudimas subnuomoti uosto žemę; ^s-254930ed8f429c3ef8e7e1cc
 
 
-3) veikla, kurią vykdys uosto žemės naudotojas; ^b81da253275d44b280d39586
+3) veikla, kurią vykdys uosto žemės naudotojas; ^s-79692fe2f9dea4f099669acc
 
 
-4) uosto žemės naudotojo įsipareigojimas, nelaimėjus uosto žemės nuomos konkurso, perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, konkurso laimėtojui. ^3c7952dbe8cc5f72c02e327e
+4) uosto žemės naudotojo įsipareigojimas, nelaimėjus uosto žemės nuomos konkurso, perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, konkurso laimėtojui. ^s-50942ed8f3ce2bfba33dd09d
 
 
-3. Uosto žemės nuomos sutartyje gali būti nustatytos uosto infrastruktūros pagerinimo ar sukūrimo uosto žemės nuomininko prašymu ir lėšomis sąlygos, uosto žemės nuomininko patirtų išlaidų kompensavimo ar įskaitymo į uosto žemės nuomos mokestį sąlygos. ^6dd377f4abd4bca48981168d
+3. Uosto žemės nuomos sutartyje gali būti nustatytos uosto infrastruktūros pagerinimo ar sukūrimo uosto žemės nuomininko prašymu ir lėšomis sąlygos, uosto žemės nuomininko patirtų išlaidų kompensavimo ar įskaitymo į uosto žemės nuomos mokestį sąlygos. ^s-98509eed2b02394704ce95a4
 
 
-4. Nuomotojas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą, jeigu: ^313867f55831d7bda0434195
+4. Nuomotojas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą, jeigu: ^s-86488a5540d9c8a2167418df
 
 
-1) nuomininkas nevykdo šiame įstatyme ir uosto žemės nuomos sutartyje numatytų įsipareigojimų; ^ec55401abfabd267c4619680
+1) nuomininkas nevykdo šiame įstatyme ir uosto žemės nuomos sutartyje numatytų įsipareigojimų; ^s-fd79f0a6759b03a2a70a5768
 
 
-2) nuomininkas nevykdo uosto žemės nuomos sutartyje numatytos veiklos; ^c19d0167629efe3003fb90ad
+2) nuomininkas nevykdo uosto žemės nuomos sutartyje numatytos veiklos; ^s-33e6ee18d78df3841fb3e86a
 
 
-3) kitais Civiliniame kodekse numatytais pagrindais; ^c6e8c4b6a410b822bc9b1650
+3) kitais Civiliniame kodekse numatytais pagrindais; ^s-6a7fb3922985ba67ab0b05ba
 
 
-4) nuomininkas atsisako pakeisti uosto žemės nuomos sutartį pasikeitus uosto žemės nuomos mokesčio apskaičiavimo tvarkai ar uosto žemės nuomos mokesčio dydžiui arba nemoka uosto žemės nuomos mokesčio. ^b5ad0a5c99d066ccfef54dd4
+4) nuomininkas atsisako pakeisti uosto žemės nuomos sutartį pasikeitus uosto žemės nuomos mokesčio apskaičiavimo tvarkai ar uosto žemės nuomos mokesčio dydžiui arba nemoka uosto žemės nuomos mokesčio. ^s-ec4d22c86d72dcf042b2f14e
 
 
-5. Nuomininkas turi teisę Civilinio kodekso nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą. ^744c190e8ee9cfa23bd70545
-
-
-
-### 12 straipsnis. Uosto žemės nuomininko turto naudojimo, valdymo, disponavimo juo ir jo perdavimo sąlygos
-
-
-1. Vykdydamas žemės nuomos sutartyje nustatytą įsipareigojimą, uosto žemės nuomininkas, nelaimėjęs uosto žemės nuomos konkurso, privalo perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, konkurso laimėtojui. Uosto žemės nuomininkas turi teisę nuspręsti, kokį kitą turtą, reikalingą su uostu susijusiai veiklai vykdyti uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, jis perleis kartu su nekilnojamuoju turtu. Informacija apie perleidžiamą turtą, jo vertę, atsiskaitymo už jį ir kitas esmines sąlygas yra viešai skelbiama informaciniame skelbime apie uosto žemės nuomos konkursą. ^1749ca8d35f6161abe967a89
-
-
-2. Sudaromų sutarčių, kuriomis nustatomi nekilnojamojo turto, esančio uosto žemės nuomos sutarties pagrindu naudojamame žemės sklype, suvaržymai, terminas negali būti ilgesnis už uosto žemės nuomos sutarties terminą. Konkurso laimėtojui perleidžiamas turtas negali būti įkeistas, išnuomotas, suteiktas panaudai arba perduotas pagal patikėjimo sutartį, taip pat negali būti sudaromi sandoriai, kurie pasunkintų galimybę valdyti, naudoti turtą ar juo disponuoti. ^d18cef11232540ad15209b7a
-
-
-3. Konkurso laimėtojui turtas perleidžiamas turto rinkos verte, kurią nustato nepriklausomas turto vertintojas. ^8eccb1f7ac78168ba72816fd
-
-
-4. Uosto žemės nuomininkas turi teisę iki uosto žemės nuomos termino pabaigos uosto žemės nuomos sutartyse nustatyta tvarka ir sąlygomis uosto žemės sklype statyti statinius, valdyti, naudoti naudojamame uosto žemės sklype esantį turtą ar juo disponuoti. Kai uosto žemės nuomos sutarties galiojimo metu yra perleidžiamas nuomininkui priklausantis nekilnojamasis turtas, esantis uosto žemės sklype (išskyrus nekilnojamąjį turtą, kuris perleidžiamas konkurso laimėtojui), nekilnojamojo turto įgijėjas (perėmėjas) įgyja teisę ir pareigą naudotis uosto žeme tokiomis pačiomis sąlygomis kaip nuomininkas, perleidžiantis jam priklausantį nekilnojamąjį turtą, esantį šiame uosto žemės sklype. ^fc88b4f679e57929bf8bde48
+5. Nuomininkas turi teisę Civilinio kodekso nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą. ^s-3df648ac44e682f77966b9cf
 
 
 
-### ANTRASIS SKIRSNIS
+### 12 straipsnis. Uosto žemės nuomininko turto naudojimo, valdymo, disponavimo juo ir jo perdavimo sąlygos ^s-e2e9ed14e2d25e4b5c1b0aba
+
+
+1. Vykdydamas žemės nuomos sutartyje nustatytą įsipareigojimą, uosto žemės nuomininkas, nelaimėjęs uosto žemės nuomos konkurso, privalo perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, konkurso laimėtojui. Uosto žemės nuomininkas turi teisę nuspręsti, kokį kitą turtą, reikalingą su uostu susijusiai veiklai vykdyti uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, jis perleis kartu su nekilnojamuoju turtu. Informacija apie perleidžiamą turtą, jo vertę, atsiskaitymo už jį ir kitas esmines sąlygas yra viešai skelbiama informaciniame skelbime apie uosto žemės nuomos konkursą. ^s-dff6574487924a0498291b74
+
+
+2. Sudaromų sutarčių, kuriomis nustatomi nekilnojamojo turto, esančio uosto žemės nuomos sutarties pagrindu naudojamame žemės sklype, suvaržymai, terminas negali būti ilgesnis už uosto žemės nuomos sutarties terminą. Konkurso laimėtojui perleidžiamas turtas negali būti įkeistas, išnuomotas, suteiktas panaudai arba perduotas pagal patikėjimo sutartį, taip pat negali būti sudaromi sandoriai, kurie pasunkintų galimybę valdyti, naudoti turtą ar juo disponuoti. ^s-2ea820967c6d8b556c888b72
+
+
+3. Konkurso laimėtojui turtas perleidžiamas turto rinkos verte, kurią nustato nepriklausomas turto vertintojas. ^s-755e9c658a7f6661332e25eb
+
+
+4. Uosto žemės nuomininkas turi teisę iki uosto žemės nuomos termino pabaigos uosto žemės nuomos sutartyse nustatyta tvarka ir sąlygomis uosto žemės sklype statyti statinius, valdyti, naudoti naudojamame uosto žemės sklype esantį turtą ar juo disponuoti. Kai uosto žemės nuomos sutarties galiojimo metu yra perleidžiamas nuomininkui priklausantis nekilnojamasis turtas, esantis uosto žemės sklype (išskyrus nekilnojamąjį turtą, kuris perleidžiamas konkurso laimėtojui), nekilnojamojo turto įgijėjas (perėmėjas) įgyja teisę ir pareigą naudotis uosto žeme tokiomis pačiomis sąlygomis kaip nuomininkas, perleidžiantis jam priklausantį nekilnojamąjį turtą, esantį šiame uosto žemės sklype. ^s-512c70717ed1fb7bb6609395
+
+
+
+### ANTRASIS SKIRSNIS ^s-8f42bf2fcb29105745223ec4
 ŪKINĖS IR KOMERCINĖS VEIKLOS UOSTE YPATUMAI
 
 
 
-### 13 straipsnis. Teisės aktai, nustatantys ūkinės ir komercinės veiklos uoste ypatumus
+### 13 straipsnis. Teisės aktai, nustatantys ūkinės ir komercinės veiklos uoste ypatumus ^s-8324bf85924858b92546d18a
 
 
-1. Ūkinės ir komercinės veiklos uoste ypatumus nustato šis įstatymas ir uosto naudojimo taisyklės. ^d40ab12bc10d05d1b88dc89f
+1. Ūkinės ir komercinės veiklos uoste ypatumus nustato šis įstatymas ir uosto naudojimo taisyklės. ^s-21e8a66fb0bcbc5da1cc9a51
 
 
-2. Pavojingųjų krovinių vežimo, krovos ir sandėliavimo uoste tvarką nustato Lietuvos Respublikos įstatymai ir Lietuvos Respublikos tarptautinės sutartys, uosto laivybos taisyklės ir uosto naudojimo taisyklės, taip pat kiti teisės aktai. ^5a1fda53ae948134988fadf1
+2. Pavojingųjų krovinių vežimo, krovos ir sandėliavimo uoste tvarką nustato Lietuvos Respublikos įstatymai ir Lietuvos Respublikos tarptautinės sutartys, uosto laivybos taisyklės ir uosto naudojimo taisyklės, taip pat kiti teisės aktai. ^s-3caf99e097d8ace19ec4607a
 
 
-3. Uosto žemės naudotojai, suderinę su Palangos miesto savivaldybės administracija, turi teisę jiems išnuomotoje uosto žemėje savo lėšomis įrengti savo reikmėms naudojamus suprastruktūros objektus. ^9313bf9d9e54f64aaabbde4e
+3. Uosto žemės naudotojai, suderinę su Palangos miesto savivaldybės administracija, turi teisę jiems išnuomotoje uosto žemėje savo lėšomis įrengti savo reikmėms naudojamus suprastruktūros objektus. ^s-b17f95022db45b35e0a1f227
 
 
-4. Uosto žemės naudotojai organizuoja ir vykdo išnuomotos uosto žemės (teritorijos) apsaugą. ^41e8cbb1fd04ea7496042a3e
-
-
-
-### 14 straipsnis. Paslaugos uoste
-
-
-1. Uoste keleiviai aptarnaujami, laivai priimami, kroviniai ir pašto siuntos perkraunami, vežimo, ekspedijavimo ir sandėliavimo operacijos atliekamos tik specialiai tam skirtose vietose. ^f417035e22d587378f851904
-
-
-2. Linijiniai laivai uoste priimami pirmumo tvarka. ^6cb050a1c865c1bc615c32e1
-
-
-3. Palangos miesto savivaldybė privalo užtikrinti laivuose susidarančių atliekų ir kitų teršalų priėmimą ir tvarkymą. ^381f7e46e4657b4ad229cda9
+4. Uosto žemės naudotojai organizuoja ir vykdo išnuomotos uosto žemės (teritorijos) apsaugą. ^s-1545355d62ae8e31edf03420
 
 
 
-### 15 straipsnis. Laikinas ūkinės ir komercinės veiklos nutraukimas ar apribojimas
+### 14 straipsnis. Paslaugos uoste ^s-a53dce22f334e98535dcdcea
+
+
+1. Uoste keleiviai aptarnaujami, laivai priimami, kroviniai ir pašto siuntos perkraunami, vežimo, ekspedijavimo ir sandėliavimo operacijos atliekamos tik specialiai tam skirtose vietose. ^s-63b5c8c652454826edc229f6
+
+
+2. Linijiniai laivai uoste priimami pirmumo tvarka. ^s-f80e2843c787ab61f1834361
+
+
+3. Palangos miesto savivaldybė privalo užtikrinti laivuose susidarančių atliekų ir kitų teršalų priėmimą ir tvarkymą. ^s-6178428908cbebe7d3aff744
+
+
+
+### 15 straipsnis. Laikinas ūkinės ir komercinės veiklos nutraukimas ar apribojimas ^s-9c80954f45a22ce382c20ccc
 
 
 Savivaldybės įmonė turi teisę laikinai nutraukti ar apriboti laivų priėmimą, keleivių aptarnavimą, krovinių ir pašto siuntų priėmimą uoste dėl gaivalinių nelaimių, katastrofų, avarijų, karantino, streiko, embargo ar kitų panašių aplinkybių. Apie šį savivaldybės įmonės sprendimą nedelsiant pranešama uoste veikiantiems fiziniams, juridiniams asmenims, jų padaliniams, organizacijoms ir laivų kapitonams.
 
 
 
-### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS ^s-fd6f95c5b898a9bc777c525e
 UOSTO LĖŠOS
 
 
 
-### 16 straipsnis. Uosto lėšos
+### 16 straipsnis. Uosto lėšos ^s-6bf0bb2bf48bbe482579f24b
 
 
 Uosto lėšas sudaro:
 
 
-1) uosto žemės nuomos mokestis; ^28ad9e26bcb381bcd8ac90ed
+1) uosto žemės nuomos mokestis; ^s-6b85511e323b74b2fc4dd92f
 
 
-2) atlyginimas už uosto paslaugas; ^ac089eb439c36e23d3b53209
+2) atlyginimas už uosto paslaugas; ^s-de6ad5695a41650ac11c5782
 
 
-3) kitos teisėtai gautos lėšos. ^896832c123ff909a1941ff13
+3) kitos teisėtai gautos lėšos. ^s-960892a568090f7c6c641adc
 
 
 
-### 17 straipsnis. Uosto lėšų naudojimas
+### 17 straipsnis. Uosto lėšų naudojimas ^s-220e0019568a540ed524a416
 
 
 Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir kitoms išlaidoms, susijusioms su uosto veikla, apmokėti. Šios lėšos skiriamos:
 
 
-1) uosto teritorijai prižiūrėti ir saugoti; ^f622c8cced6076e069b7d492
+1) uosto teritorijai prižiūrėti ir saugoti; ^s-420b5ad1bbae60739b6f6377
 
 
-2) saugiai laivybai uoste užtikrinti; ^ce8d20babf4cbc6fd915c6e6
+2) saugiai laivybai uoste užtikrinti; ^s-04267e771c145b57014270f7
 
 
-3) projektiniam uosto vandens gyliui užtikrinti ir akvatorijos gilinimo darbams atlikti; ^683e104695688815429d7c6f
+3) projektiniam uosto vandens gyliui užtikrinti ir akvatorijos gilinimo darbams atlikti; ^s-a6d94484a45de15333b46397
 
 
-4) gelbėjimo darbams ir taršos padariniams uosto akvatorijoje likviduoti; ^df5f3e50564257bd0d2cf409
+4) gelbėjimo darbams ir taršos padariniams uosto akvatorijoje likviduoti; ^s-9dc2c212e0203455774cda1a
 
 
-5) uosto infrastruktūrai statyti, remontuoti, rekonstruoti, griauti ir atnaujinti (modernizuoti); ^ca02f4e03fee35427f3a8a51
+5) uosto infrastruktūrai statyti, remontuoti, rekonstruoti, griauti ir atnaujinti (modernizuoti); ^s-8f613e0505f8f6a5bb841c9c
 
 
-6) mokslinių tyrimų ir projektavimo darbams atlikti; ^d7d9408fab63a86aefc89ef9
+6) mokslinių tyrimų ir projektavimo darbams atlikti; ^s-dfaaaff418aeb82a22ce6ad7
 
 
-7) kompensacijoms už privačios nuosavybės objektų paėmimą visuomenės poreikiams, taip pat už nuostolius, patirtus nutraukus žvejybą dėl uosto infrastruktūros objektų statybos ir uosto teritorijos plėtros, mokėti; ^e1ecd237a09f9e5df4db93de
+7) kompensacijoms už privačios nuosavybės objektų paėmimą visuomenės poreikiams, taip pat už nuostolius, patirtus nutraukus žvejybą dėl uosto infrastruktūros objektų statybos ir uosto teritorijos plėtros, mokėti; ^s-cc8353a791f25df86b545c83
 
 
-8) žemei ar kitiems privačios nuosavybės objektams įsigyti; ^0e89992a2db87238c4723390
+8) žemei ar kitiems privačios nuosavybės objektams įsigyti; ^s-0dd4530201c16a61ae431848
 
 
-9) paskendusiam, apleistam ar paliktam be priežiūros turtui iškelti ar pašalinti; ^adc97b76376e5a391bd7c64d
+9) paskendusiam, apleistam ar paliktam be priežiūros turtui iškelti ar pašalinti; ^s-70d524c0c4820777bbb0c166
 
 
-10) uosto žemės nuomininko patirtoms išlaidoms dėl jo prašymu pagerintos ar sukurtos uosto infrastruktūros kompensuoti. ^ea015db6cec7b5ce4d7027eb
+10) uosto žemės nuomininko patirtoms išlaidoms dėl jo prašymu pagerintos ar sukurtos uosto infrastruktūros kompensuoti. ^s-4938288959ba26d9aa160b07
 
 
 
-### 18 straipsnis. Atlyginimas už uosto paslaugas
+### 18 straipsnis. Atlyginimas už uosto paslaugas ^s-7c0b9262bab8a1c2503e5b4c
 
 
 Už uosto paslaugas laivų savininkai (valdytojai) privalo atlyginti pagal atlyginimo už uosto paslaugas tvarką, kurią nustato Palangos miesto savivaldybės taryba.
 
 
 
-### KETVIRTASIS SKIRSNIS
+### KETVIRTASIS SKIRSNIS ^s-bd0e11f3d520ef7b73d9d901
 UOSTO AKVATORIJOJE PASKENDĘS, PALIKTAS BE PRIEŽIŪROS ARBA APLEISTAS TURTAS
 
 
 
-### 19 straipsnis. Paskendusio turto savanoriško iškėlimo tvarka
+### 19 straipsnis. Paskendusio turto savanoriško iškėlimo tvarka ^s-2110109a2b01290f7da4cd2b
 
 
-1. Uosto akvatorijoje paskendusio turto savininkas (valdytojas), norintis turtą iškelti, turi apie tai raštu pranešti savivaldybės įmonei per 3 mėnesius nuo turto paskendimo dienos. ^8c594f57468d40d8f3034ef2
+1. Uosto akvatorijoje paskendusio turto savininkas (valdytojas), norintis turtą iškelti, turi apie tai raštu pranešti savivaldybės įmonei per 3 mėnesius nuo turto paskendimo dienos. ^s-a34d66856edebaf3eabec33a
 
 
-2. Savivaldybės įmonė, suderinusi su suinteresuotomis valstybės institucijomis, nustato terminą turtui iškelti, šių darbų atlikimo tvarką ir apie tai praneša turto savininkui (valdytojui). ^235bcab96318da639d226f2e
+2. Savivaldybės įmonė, suderinusi su suinteresuotomis valstybės institucijomis, nustato terminą turtui iškelti, šių darbų atlikimo tvarką ir apie tai praneša turto savininkui (valdytojui). ^s-f8fa31a2923ac77f5b7da822
 
 
-3. Savivaldybės įmonė turi teisę neleisti savininkui kelti paskendusio turto savo priemonėmis arba jo pasirinktos laivų kėlimo įmonės priemonėmis, jeigu paskendęs turtas yra akvatorijos dalyse, kuriose taikomas ypatingas laivybos režimas. Šiuo atveju turto iškėlimą organizuoja savivaldybės įmonė turto savininko (valdytojo) lėšomis. ^42db53d5374b2f89ac5c567e
-
-
-
-### 20 straipsnis. Privalomas uosto akvatorijoje paskendusio, palikto be priežiūros arba apleisto turto iškėlimas ar pašalinimas
-
-
-1. Jeigu uosto akvatorijoje paskendęs, paliktas be priežiūros arba apleistas turtas kliudo laivybai, hidrotechnikos arba kitiems darbams, kelia grėsmę žmonių gyvybei ar saugumui, gali teršti arba teršia aplinką, turto savininkas (valdytojas) privalo iškelti ar pašalinti šį turtą savivaldybės įmonės reikalavimu per jos nustatytą terminą. ^64b57d00d20bef3798a57b1d
-
-
-2. Jeigu paskendusio, palikto be priežiūros arba apleisto turto savininkas (valdytojas) per nustatytą terminą raštu nepraneša savivaldybės įmonei apie savo sprendimą iškelti ar pašalinti paskendusį, paliktą be priežiūros ar apleistą turtą arba neiškelia ar nepašalina jo per savivaldybės įmonės nustatytą terminą, savivaldybės įmonė turi teisę imtis priemonių turtui iškelti arba kitu būdu pašalinti ir gauti dėl to patirtų išlaidų atlyginimą. ^49459fce12c249a52665088f
+3. Savivaldybės įmonė turi teisę neleisti savininkui kelti paskendusio turto savo priemonėmis arba jo pasirinktos laivų kėlimo įmonės priemonėmis, jeigu paskendęs turtas yra akvatorijos dalyse, kuriose taikomas ypatingas laivybos režimas. Šiuo atveju turto iškėlimą organizuoja savivaldybės įmonė turto savininko (valdytojo) lėšomis. ^s-50bced8153dd6a72f38e2a8e
 
 
 
-### 21 straipsnis. Savivaldybės įmonės iškelto akvatorijoje paskendusio turto išreikalavimas
+### 20 straipsnis. Privalomas uosto akvatorijoje paskendusio, palikto be priežiūros arba apleisto turto iškėlimas ar pašalinimas ^s-febe94acfbcc405c9f48d508
+
+
+1. Jeigu uosto akvatorijoje paskendęs, paliktas be priežiūros arba apleistas turtas kliudo laivybai, hidrotechnikos arba kitiems darbams, kelia grėsmę žmonių gyvybei ar saugumui, gali teršti arba teršia aplinką, turto savininkas (valdytojas) privalo iškelti ar pašalinti šį turtą savivaldybės įmonės reikalavimu per jos nustatytą terminą. ^s-15c345299770335e7d520080
+
+
+2. Jeigu paskendusio, palikto be priežiūros arba apleisto turto savininkas (valdytojas) per nustatytą terminą raštu nepraneša savivaldybės įmonei apie savo sprendimą iškelti ar pašalinti paskendusį, paliktą be priežiūros ar apleistą turtą arba neiškelia ar nepašalina jo per savivaldybės įmonės nustatytą terminą, savivaldybės įmonė turi teisę imtis priemonių turtui iškelti arba kitu būdu pašalinti ir gauti dėl to patirtų išlaidų atlyginimą. ^s-2d4ccf84909af1f902890bf8
+
+
+
+### 21 straipsnis. Savivaldybės įmonės iškelto akvatorijoje paskendusio turto išreikalavimas ^s-61845686533109ca7ae830d1
 
 
 Uosto akvatorijoje paskendęs ir iškeltas turtas, kurio iškėlimo darbus organizavo savivaldybės įmonė, atitenka turto savininkui (valdytojui), jeigu jis pateikė prašymą per šešis mėnesius nuo šio turto iškėlimo dienos. Turto savininkas (valdytojas) privalo atlyginti savivaldybės įmonei už turto iškėlimą, saugojimą ir su tuo susijusias kitas patirtas išlaidas, neatsižvelgiant į tai, ar turto savininkas (valdytojas) atsisako iškelto turto, ar ne.
 
 
 
-### 22 straipsnis. Atsitiktinai iškeltas uosto akvatorijoje paskendęs turtas
+### 22 straipsnis. Atsitiktinai iškeltas uosto akvatorijoje paskendęs turtas ^s-80837144bf5d489a1e96c437
 
 
-1. Atsitiktinai iškeltas uosto akvatorijoje paskendęs turtas turi būti perduotas savivaldybės įmonei. Savivaldybės įmonė apie turto iškėlimą ir jo saugojimo vietą praneša turto savininkui (valdytojui). ^0334180e043dab50daccea33
+1. Atsitiktinai iškeltas uosto akvatorijoje paskendęs turtas turi būti perduotas savivaldybės įmonei. Savivaldybės įmonė apie turto iškėlimą ir jo saugojimo vietą praneša turto savininkui (valdytojui). ^s-0e838ee710ee1163c8a26a30
 
 
-2. Turto savininkas (valdytojas) privalo atlyginti savivaldybės įmonės patirtas tokio turto saugojimo išlaidas, taip pat asmens, iškėlusio ir perdavusio savivaldybės įmonei turtą, patirtas išlaidas. ^bbc1b84512c02d696210f4cc
+2. Turto savininkas (valdytojas) privalo atlyginti savivaldybės įmonės patirtas tokio turto saugojimo išlaidas, taip pat asmens, iškėlusio ir perdavusio savivaldybės įmonei turtą, patirtas išlaidas. ^s-5f894ab5bd6b3883de2fadb6
 
 
 
@@ -477,22 +482,22 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. [[latest/TAR.4BD2E9E568C8|1101010ISTA00XI-716]]
-Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo [[#9 straipsnis. Uosto plėtra|9 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.4BD2E9E568C8|Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1218, 2010-12-09, Žin., 2010, Nr. 153-7787 (2010-12-28), i. k. [[latest/TAR.0FFB49601ED5|1101010ISTA0XI-1218]]
-Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas
+[[latest/TAR.0FFB49601ED5|Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
-Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 2, 4, 6, 10 ir [[#13 straipsnis. Teisės aktai, nustatantys ūkinės ir komercinės veiklos uoste ypatumus|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 2, 4, 6, 10 ir [[#^s-8324bf85924858b92546d18a|13 straipsnių]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-763, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18815
-Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 [[#10 straipsnis. Uosto žemės nuoma|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 [[#^s-f875130b65c1ce2be5bd4b07|10 straipsnio]] pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -502,4 +507,4 @@ Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 pa
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
-Lietuvos Respublikos Šventosios jūrų uosto įstatymo Nr. X-910 4, 5, 7 ir [[#10 straipsnis. Uosto žemės nuoma|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šventosios jūrų uosto įstatymo Nr. X-910 4, 5, 7 ir [[#^s-f875130b65c1ce2be5bd4b07|10 straipsnių]] pakeitimo įstatymas

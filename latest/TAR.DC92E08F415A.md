@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DC92E08F415A"
 pavadinimas: "Lietuvos Respublikos kredito unijų įstatymo 2, 4, 24, 29 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kredito unijų įstatymo 2, 4, 24, 29 straipsnių pakeitimo ir papildymo įstatymas"
+  - "kredito unijų įstatymo 2, 4, 24, 29 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-13"
 latest_path: "latest/TAR.DC92E08F415A.md"
 latest_sha256: "992668bed1c82d14750c8ffdafdd72e3339eefcfe50c8eea348e0108bd04f60d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DC92E08F415A]]"
 ---
 # Lietuvos Respublikos kredito unijų įstatymo 2, 4, 24, 29 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DC92E08F415A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DC92E08F415A
+- Ryšiai: [[Ryšiai/TAR.DC92E08F415A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,20 +41,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-9e41a2f471ddf3dd92cdf798
 
 
-1. Papildyti [[#2 straipsnis. 4 straipsnio 5 dalies pakeitimas|2 straipsnį]] nauja 7 dalimi: ^a0f5ba8af62dfa93c412ba0f
+1. Papildyti [[#^s-cdea7a624ef4587d5915720e|2 straipsnį]] nauja 7 dalimi: ^s-ec5da8a26cff2cbcaa49ee94
 
 
 „7. Negrąžintinos lėšos – kredito unijos iš trečiųjų asmenų kaip dovana, parama ar auka gautos lėšos, kurios pereina kredito unijos nuosavybėn ir neatsispindi kredito unijos įsipareigojimuose.“
 
 
-2. Buvusias [[#2 straipsnis. 4 straipsnio 5 dalies pakeitimas|2 straipsnio]] 7, 8 ir 9 dalis laikyti atitinkamai 8, 9 ir 10 dalimis. ^f0bb21b5ac852bae8cc5a3ae
+2. Buvusias [[#^s-cdea7a624ef4587d5915720e|2 straipsnio]] 7, 8 ir 9 dalis laikyti atitinkamai 8, 9 ir 10 dalimis. ^s-f229d70b9b8099c52fd540e0
 
 
 
-### 2 straipsnis. 4 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 5 dalies pakeitimas ^s-cdea7a624ef4587d5915720e
 
 
 Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -59,7 +64,7 @@ Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 24 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 24 straipsnio 4 dalies pakeitimas ^s-e7701030e4c8d05cb459c53d
 
 
 Pakeisti 24 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -69,7 +74,7 @@ Pakeisti 24 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 29 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 29 straipsnio 5 dalies pakeitimas ^s-17db820ecd2cb4feb94805ec
 
 
 Pakeisti 29 straipsnio 5 dalį ir ją išdėstyti taip:

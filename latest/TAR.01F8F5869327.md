@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.01F8F5869327"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.01F8F5869327.md"
 latest_sha256: "5d70b6aaa0c2776e8d9457dc2d1b077d108955d5b3b224b698eadedddea98700"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.01F8F5869327]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.01F8F5869327.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.01F8F5869327
+- Ryšiai: [[Ryšiai/TAR.01F8F5869327|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 15 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 15 dalies pakeitimas ^s-688f370320c937d7d1713be0
 
 
 Pakeisti 19 straipsnio 15 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.46364C481EE7"
 pavadinimas: "Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas"
+  - "stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-23"
 latest_path: "latest/TAR.46364C481EE7.md"
 latest_sha256: "073b83e439322e860b820951db08d0df225b7faf724cae9944b31ea87090482f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.46364C481EE7]]"
 ---
 # Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.46364C481EE7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.46364C481EE7
+- Ryšiai: [[Ryšiai/TAR.46364C481EE7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,13 +34,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-5bc4d505d9f9a69154746b0c
 
 
-Iš [[#2 straipsnis. 3 straipsnio pakeitimas|2 straipsnio]] išbraukti žodžius „Gydytojų licencijų komitetas (GLK) – institucija, steigiama prie Sveikatos apsaugos ministerijos licencijavimo funkcijoms vykdyti“ ir šį straipsnį išdėstyti taip:
+Iš [[#^s-a876773eb1355da86599fd17|2 straipsnio]] išbraukti žodžius „Gydytojų licencijų komitetas (GLK) – institucija, steigiama prie Sveikatos apsaugos ministerijos licencijavimo funkcijoms vykdyti“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#2 straipsnis. 3 straipsnio pakeitimas|2 straipsnis]]. Pagrindinės sąvokos
+„[[#^s-a876773eb1355da86599fd17|2 straipsnis]]. Pagrindinės sąvokos
 
 
 Šiame įstatyme vartojamos sąvokos:
@@ -81,17 +86,17 @@ specializuotos stomatologinės praktikos licencija – dokumentas, leidžiantis 
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-a876773eb1355da86599fd17
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Licencijas verstis stomatologine praktika ir sertifikatus teikti tam tikras stomatologinės priežiūros paslaugas išduoda, atnaujina, sustabdo ir panaikina Sveikatos apsaugos ministerija Gydytojo medicinos praktikos įstatymo ir kitų teisės aktų nustatyta tvarka.“
+„3. Licencijas verstis stomatologine praktika ir sertifikatus teikti tam tikras stomatologinės priežiūros paslaugas išduoda, atnaujina, sustabdo ir panaikina Sveikatos apsaugos ministerija [[latest/TAR.10E8E285740C|Gydytojo medicinos praktikos įstatymo]] ir kitų teisės aktų nustatyta tvarka.“
 
 
 
-### 3 straipsnis. 7 straipsnio pakeitimas
+### 3 straipsnis. 7 straipsnio pakeitimas ^s-c7646079b65e0a1951d7398f
 
 
 Iš 7 straipsnio 7 punkto išbraukti santrumpą „GLK“ ir šį punktą išdėstyti taip:

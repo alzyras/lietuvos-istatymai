@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.31A9C7673FD3"
 pavadinimas: "Lietuvos Respublikos ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-10-02"
 latest_path: "latest/TAR.31A9C7673FD3.md"
 latest_sha256: "b10f2504b310edae7ff544f2dc01db614e3d9302a2c5bce35879722ed1303454"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.31A9C7673FD3]]"
 ---
 # Lietuvos Respublikos ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.31A9C7673FD3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.31A9C7673FD3
+- Ryšiai: [[Ryšiai/TAR.31A9C7673FD3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-945065ac9b9de2128d679bce
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:

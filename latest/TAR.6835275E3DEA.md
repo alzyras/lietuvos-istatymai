@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6835275E3DEA"
 pavadinimas: "Lietuvos Respublikos tarptautinės darbo organizacijos 1919 metų konvencijos Nr.4 \"Dėl moterų nakties darbo\" denonsavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarptautinės darbo organizacijos 1919 metų konvencijos Nr.4 \"Dėl moterų nakties darbo\" denonsavimo įstatymas"
+  - "tarptautinės darbo organizacijos 1919 metų konvencijos Nr.4 \"Dėl moterų nakties darbo\" denonsavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-07-15"
 latest_path: "latest/TAR.6835275E3DEA.md"
 latest_sha256: "275e8fe6ec2c92db72a84abbd427f030229e00e3cf18b1767d6b178fd6fe1d96"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6835275E3DEA]]"
 ---
 # Lietuvos Respublikos tarptautinės darbo organizacijos 1919 metų konvencijos Nr.4 "Dėl moterų nakties darbo" denonsavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6835275E3DEA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6835275E3DEA
+- Ryšiai: [[Ryšiai/TAR.6835275E3DEA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos denonsavimas
+### 1 straipsnis. Konvencijos denonsavimas ^s-2b3c08353d506e0cc9844c1d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui denonsuoti Tarptautinės darbo organizacijos 1919 metų konvenciją Nr. 4 „Dėl moterų nakties darbo“, denonsuoja 1931 m. birželio 19 d. Lietuvos Respublikos Seimo ratifikuotą Tarptautinės darbo organizacijos 1919 metų konvenciją Nr. 4 „Dėl moterų nakties darbo“.

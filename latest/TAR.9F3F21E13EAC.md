@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9F3F21E13EAC"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 168 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 168 straipsnio pakeitimo įstatymas"
+  - "baudžiamojo proceso kodekso 168 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-04"
 latest_path: "latest/TAR.9F3F21E13EAC.md"
 latest_sha256: "e533601e1073f0d8305ba41419404a4d765ab53692bb0da62d560eb83df82321"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9F3F21E13EAC]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 168 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9F3F21E13EAC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9F3F21E13EAC
+- Ryšiai: [[Ryšiai/TAR.9F3F21E13EAC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 168 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 168 straipsnio 1 dalies pakeitimas ^s-6d629e82f3dd4b0091631ef4
 
 
 Pakeisti 168 straipsnio 1 dalį ir ją išdėstyti taip:

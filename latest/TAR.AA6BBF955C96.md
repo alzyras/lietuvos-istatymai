@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AA6BBF955C96"
 pavadinimas: "Lietuvos Respublikos pilietybės įstatymo 36 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pilietybės įstatymo 36 straipsnio pakeitimo įstatymas"
+  - "pilietybės įstatymo 36 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.AA6BBF955C96.md"
 latest_sha256: "d0749a120dd7d022b0104b0eba1e2de9421ad04c3dc07d52305c08a7ece0ad40"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AA6BBF955C96]]"
 ---
 # Lietuvos Respublikos pilietybės įstatymo 36 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AA6BBF955C96.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AA6BBF955C96
+- Ryšiai: [[Ryšiai/TAR.AA6BBF955C96|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 36 straipsnio pakeitimas
+### 1 straipsnis. 36 straipsnio pakeitimas ^s-8a072ba563aaeb888dbd5262
 
 
 Pakeisti 36 straipsnio 1 dalį, 2 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
@@ -47,7 +52,7 @@ Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo 
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-086124114814775ba6f17771
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

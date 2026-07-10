@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.309180C69F27"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8 ir 14 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.309180C69F27.md"
 latest_sha256: "3c2da4ad3953b94cdd7b03ff087016bdb2d78bc4eec2203597e6bd4d4e2d723e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.309180C69F27]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.309180C69F27.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.309180C69F27
+- Ryšiai: [[Ryšiai/TAR.309180C69F27|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 10 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies 10 punkto pakeitimas ^s-b669a10726e29474ace5a7fd
 
 
 Pakeisti 2 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 2 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-3dc2c49124fce53400985fad
 
 
 6 straipsnio 4 dalyje po skaičiaus „7“ įrašyti žodį ir skaičių „ir 10“ ir šią dalį išdėstyti taip:
@@ -51,29 +56,29 @@ Pakeisti 2 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio 2, 3 ir 6 dalių pakeitimas
+### 3 straipsnis. 8 straipsnio 2, 3 ir 6 dalių pakeitimas ^s-444383b57de242ca89f44635
 
 
-1. 8 straipsnio 2 dalies 2 punkte po žodžių „(įskaitant darbdavio mokamas ligos dienomis), motinystės“ įrašyti žodį „tėvystės“ ir šį punktą išdėstyti taip: ^e2795e9265e48b4211426df2
+1. 8 straipsnio 2 dalies 2 punkte po žodžių „(įskaitant darbdavio mokamas ligos dienomis), motinystės“ įrašyti žodį „tėvystės“ ir šį punktą išdėstyti taip: ^s-a844d0d4977546a66b0a778d
 
 
 „2) laikas, per kurį šie asmenys gauna ligos (įskaitant darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės) arba profesinės reabilitacijos pašalpas, mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, ir nedarbo socialinio draudimo išmokas, mokamas pagal Nedarbo socialinio draudimo įstatymą. Į valstybinio socialinio pensijų draudimo stažą taip pat įskaitomas bedarbio pašalpų, mokėtų draustiems nuo nedarbo asmenims pagal Bedarbių rėmimo įstatymo nuostatas, galiojusias iki 2005 m. sausio 1 d., gavimo laikas. Šiame punkte išvardytos pašalpos bei išmoka toliau šiame įstatyme vadinamos valstybinio socialinio draudimo pašalpomis ir nedarbo socialinio draudimo išmokomis. Šių pašalpų ir išmokų gavimo laikas įskaitomas tik įstatymų nustatyta tvarka privalomai draustiems ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu bei nedarbo socialiniu draudimu (iki 2005 m. sausio 1 d. – socialiniu draudimu nuo nedarbo) asmenims.“
 
 
-2. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip: ^6f60463175d9051e1392484d
+2. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip: ^s-0733dd3113d9978cc7e86058
 
 
 „3. Asmenų, išvardytų 2 straipsnio 1 dalies 6, 7 ir 10 punktuose, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu. Šiam stažui taip pat prilyginami laikotarpiai, kuriais 2 straipsnio 1 dalies 8 punkte nurodyti asmenys privalomai draudėsi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti. Asmenims, išvardytiems 2 straipsnio 1 dalies 7 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2005 m. sausio 1 d. Asmenims, išvardytiems 2 straipsnio 1 dalies 10 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2008 m. sausio 1 d.“
 
 
-3. Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip: ^6a3301b83428ab26412eaa5c
+3. Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip: ^s-de524360090d53e1f7b3853a
 
 
 „6. Asmenų, išvardytų 2 straipsnio 1 dalies 11 ir 12 punktuose, privalomojo draudimo valstybiniu socialiniu pensijų draudimu valstybės lėšomis laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant savarankiškai. Šiam stažui taip pat prilyginami 2 straipsnio 1 dalies 7 punkte nurodytos tarnybos laikotarpiai, buvę iki 2005 m. sausio 1 d., kai tuo metu galiojusių teisės aktų nustatyta tvarka privalomosios nuolatinės pradinės karo tarnybos ir alternatyviosios krašto apsaugos tarnybos kariai valstybės lėšomis buvo draudžiami tik valstybinei socialinio draudimo bazinei pensijai.“
 
 
 
-### 4 straipsnis. 14 straipsnio pakeitimas
+### 4 straipsnis. 14 straipsnio pakeitimas ^s-13fca459a0051bd5935bf1b3
 
 
 14 straipsnyje po skaičiaus „6“ išbraukti žodį „ir“, po skaičiaus „7“ įrašyti žodį ir skaičių „ir 10“ ir šį straipsnį išdėstyti taip:
@@ -86,13 +91,13 @@ Asmenų, išvardytų 2 straipsnio 1 dalies 1–5 punktuose, draudžiamosiomis pa
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-e48a5dd5a2989886916edd06
 
 
-1. Šio įstatymo [[#^e2795e9265e48b4211426df2|3 straipsnio 1 dalis]] įsigalioja nuo 2006 m. liepos 1 d. ^c8b202429013743a312f01eb
+1. Šio įstatymo [[#^s-a844d0d4977546a66b0a778d|3 straipsnio 1 dalis]] įsigalioja nuo 2006 m. liepos 1 d. ^s-4c8c980426a29881eb17a9bc
 
 
-2. Šio įstatymo 1, [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsniai]], [[#3 straipsnis. 8 straipsnio 2, 3 ir 6 dalių pakeitimas|3 straipsnio]] 2 ir 3 dalys ir [[#4 straipsnis. 14 straipsnio pakeitimas|4 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d. ^55caf6a587d686d850d004c6
+2. Šio įstatymo 1, [[#^s-3dc2c49124fce53400985fad|2 straipsniai]], [[#^s-444383b57de242ca89f44635|3 straipsnio]] 2 ir 3 dalys ir [[#^s-13fca459a0051bd5935bf1b3|4 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d. ^s-21e57beafca1269f93a06018
 
 
 

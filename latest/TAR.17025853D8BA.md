@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.17025853D8BA"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 36, 45(1) straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 36, 45(1) straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 36, 45(1) straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-05-01"
 latest_path: "latest/TAR.17025853D8BA.md"
 latest_sha256: "ccb275828f25a2a5e7402faa52a17bf288235a40b92522dbf468737a4ad9b72f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.17025853D8BA]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 36, 45(1) straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.17025853D8BA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.17025853D8BA
+- Ryšiai: [[Ryšiai/TAR.17025853D8BA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 36 straipsnio pakeitimas
+### 1 straipsnis. 36 straipsnio pakeitimas ^s-080958fdc1ef06b0e33128ed
 
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Senatvės ar invalidumo pensininkui mirus, valstybinės socialinio draudimo naš
 
 
 
-### 2 straipsnis. 451 straipsnio 5 dalies papildymas
+### 2 straipsnis. 451 straipsnio 5 dalies papildymas ^s-2ecbac3b076f0e458134e12f
 
 
 Papildyti 451 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Papildyti 451 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-baea42ef6b33993dd6b46a6f
 
 
 Šis Įstatymas įsigalioja nuo 2002 m. gegužės 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "cdba6b00e56911e39ea8c7e1dfdc4b5c"
 pavadinimas: "Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas"
+  - "daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-07-01"
 latest_path: "latest/cdba6b00e56911e39ea8c7e1dfdc4b5c.md"
 latest_sha256: "8af47a7b973319edfeea8dad18540224a758f0aa46f0fdff42f416563a388720"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/cdba6b00e56911e39ea8c7e1dfdc4b5c]]"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/cdba6b00e56911e39ea8c7e1dfdc4b5c.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/cdba6b00e56911e39ea8c7e1dfdc4b5c
+- Ryšiai: [[Ryšiai/cdba6b00e56911e39ea8c7e1dfdc4b5c|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,23 +35,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-43b3ad4f0d1546efa3a668b2
 
 
-1. Pakeisti 2 straipsnio 15 dalies 1 punktą ir jį išdėstyti taip: ^35281565231e3091aa3dfb04
+1. Pakeisti 2 straipsnio 15 dalies 1 punktą ir jį išdėstyti taip: ^s-cecefbc2a032103bfbe8b206
 
 
 „1) bendrosios pastato konstrukcijos – pagrindinės pastato konstrukcijos (pamatai, visos laikančiosios sienos ir kolonos, išorinės sienos ir vidinės pertvaros, atskiriančios bendrojo naudojimo patalpas nuo skirtingiems savininkams priklausančių butų ir kitų patalpų, perdangos, stogas, fasado architektūros detalės ir išorinės (fasado) konstrukcijos (balkonų, lodžijų ir terasų laikančiosios konstrukcijos, aptvarai, stogeliai, išorės durys, išoriniai laiptai), tarpaukštinių laiptų konstrukcijos, nuožulnos);“.
 
 
-2. Pakeisti 2 straipsnio 15 dalies 3 punktą ir jį išdėstyti taip: ^4a483cb54106bbfa502b914e
+2. Pakeisti 2 straipsnio 15 dalies 3 punktą ir jį išdėstyti taip: ^s-eb41b232eaef75c26119d273
 
 
 „3) pastato bendrojo naudojimo patalpos ir kitos pastato dalys – pastato laiptinės, holai, koridoriai, galerijos, palėpės, sandėliai, rūsiai, pusrūsiai ir kitos patalpos, bendrojo naudojimo balkonai, lodžijos, terasos, jeigu jie nuosavybės teise nepriklauso atskiriems savininkams;“.
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-8de5f6d32ca4a53b251a2b39
 
 
 Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
@@ -56,7 +61,7 @@ Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio pakeitimas
+### 3 straipsnis. 8 straipsnio pakeitimas ^s-de920d5e7cf0e4b98a1803a2
 
 
 Papildyti 8 straipsnį 5 dalimi:
@@ -66,35 +71,35 @@ Papildyti 8 straipsnį 5 dalimi:
 
 
 
-### 4 straipsnis. 14 straipsnio pakeitimas
+### 4 straipsnis. 14 straipsnio pakeitimas ^s-5dc319b1f03e06ff08753696
 
 
-1. Pakeisti 14 straipsnio 6 dalies 5 punktą ir jį išdėstyti taip: ^4ad644e98096ea17382bac01
+1. Pakeisti 14 straipsnio 6 dalies 5 punktą ir jį išdėstyti taip: ^s-034afc19aa65575de78b3bf7
 
 
 „5) bendrijos dokumentų ir duomenų pateikimą Juridinių asmenų registro tvarkytojui ir savivaldybės vykdomajai institucijai ir, įregistravus Juridinių asmenų registre bendriją, Juridinių asmenų registro ir Nekilnojamojo turto registro išrašų pateikimą savivaldybės vykdomajai institucijai;“.
 
 
-2. Pakeisti 14 straipsnio 6 dalies 13 punktą ir jį išdėstyti taip: ^2e3baa3e534d82147865d301
+2. Pakeisti 14 straipsnio 6 dalies 13 punktą ir jį išdėstyti taip: ^s-84930fcf436dd33bbf8223a1
 
 
 „13) duomenų pateikimą bendrijos revizijos komisijai ir (ar) auditoriui, taip pat savivaldybės vykdomajai institucijai ar jos įgaliotiems asmenims, turintiems teisę prižiūrėti ir kontroliuoti, kaip bendrijos valdymo organai atlieka jiems pagal šį įstatymą priskirtas funkcijas.“
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-27f041b3e79a002a4a0abe10
 
 
-1. Šis įstatymas, išskyrus [[#3 straipsnis. 8 straipsnio pakeitimas|3 straipsnį]], įsigalioja 2014 m. liepos 1 d. ^4e4c08c71f5fa9c5785a72f4
+1. Šis įstatymas, išskyrus [[#^s-de920d5e7cf0e4b98a1803a2|3 straipsnį]], įsigalioja 2014 m. liepos 1 d. ^s-18f93c65ab390aca40726dce
 
 
-2. Šio įstatymo [[#3 straipsnis. 8 straipsnio pakeitimas|3 straipsnis]] įsigalioja 2015 m. sausio 1 d. ^0ca6f754aae4e923497f3d23
+2. Šio įstatymo [[#^s-de920d5e7cf0e4b98a1803a2|3 straipsnis]] įsigalioja 2015 m. sausio 1 d. ^s-e9f86370f43292ed8450426d
 
 
-3. Šio įstatymo [[#2 straipsnis. 7 straipsnio pakeitimas|2 straipsnio]] nuostatos taikomos po šio įstatymo įsigaliojimo dienos steigiamų daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijų įstatams, taip pat iki šio įstatymo įsigaliojimo įsteigtų daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijų įstatams, kai šie įstatai keičiami ir perregistruojami. ^67343b80c64b70acb4774e71
+3. Šio įstatymo [[#^s-8de5f6d32ca4a53b251a2b39|2 straipsnio]] nuostatos taikomos po šio įstatymo įsigaliojimo dienos steigiamų daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijų įstatams, taip pat iki šio įstatymo įsigaliojimo įsteigtų daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijų įstatams, kai šie įstatai keičiami ir perregistruojami. ^s-203ad8c060bfbfcdf50fde84
 
 
-4. Daugiabučio gyvenamojo namo ar kitos paskirties pastato savininkų bendrijos, įsteigtos ir Juridinių asmenų registre įregistruotos iki šio įstatymo įsigaliojimo dienos, pirmininkas per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos pateikia Nekilnojamojo turto registro tvarkytojui prašymą bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre faktą įregistruoti Nekilnojamojo turto registre, jeigu toks faktas nebuvo įregistruotas iki šio įstatymo įsigaliojimo dienos. Bendrijos, steigiamos ir Juridinių asmenų registre įregistruojamos nuo šio įstatymo įsigaliojimo dienos iki 2015 m. sausio 1 d., pirmininkas prašymą Nekilnojamojo turto registro tvarkytojui dėl bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre fakto įregistravimo Nekilnojamojo turto registre teikia per 3 mėnesius nuo bendrijos įsteigimo ir Juridinių asmenų registre įregistravimo dienos. ^d5c1de3ea6ad255e5364cdb7
+4. Daugiabučio gyvenamojo namo ar kitos paskirties pastato savininkų bendrijos, įsteigtos ir Juridinių asmenų registre įregistruotos iki šio įstatymo įsigaliojimo dienos, pirmininkas per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos pateikia Nekilnojamojo turto registro tvarkytojui prašymą bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre faktą įregistruoti Nekilnojamojo turto registre, jeigu toks faktas nebuvo įregistruotas iki šio įstatymo įsigaliojimo dienos. Bendrijos, steigiamos ir Juridinių asmenų registre įregistruojamos nuo šio įstatymo įsigaliojimo dienos iki 2015 m. sausio 1 d., pirmininkas prašymą Nekilnojamojo turto registro tvarkytojui dėl bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre fakto įregistravimo Nekilnojamojo turto registre teikia per 3 mėnesius nuo bendrijos įsteigimo ir Juridinių asmenų registre įregistravimo dienos. ^s-93abb7b716d6f3f05336ee4b
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.97FA35DEC51E"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-13"
 latest_path: "latest/TAR.97FA35DEC51E.md"
 latest_sha256: "31ba06e6b5a8a020e3f8643607ae25f0b02b08f65e132e53cb9836b8388a2d01"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.97FA35DEC51E]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.97FA35DEC51E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.97FA35DEC51E
+- Ryšiai: [[Ryšiai/TAR.97FA35DEC51E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-aa1d514d36b1f655bf42c480
 
 
 Pakeisti 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip:

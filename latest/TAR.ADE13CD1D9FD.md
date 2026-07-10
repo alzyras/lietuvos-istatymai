@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ADE13CD1D9FD"
 pavadinimas: "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.ADE13CD1D9FD.md"
 latest_sha256: "f0c998d4b17c632baa527ad5166c395a17f17f0fbe8d98bca5fcd2a59f8ee2ba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ADE13CD1D9FD]]"
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ADE13CD1D9FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ADE13CD1D9FD
+- Ryšiai: [[Ryšiai/TAR.ADE13CD1D9FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio pakeitimas
+### 1 straipsnis. 19 straipsnio pakeitimas ^s-c03f9e87a04c0f5c05060d05
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:

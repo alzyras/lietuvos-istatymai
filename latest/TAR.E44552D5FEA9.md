@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E44552D5FEA9"
 pavadinimas: "Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-08"
 latest_path: "latest/TAR.E44552D5FEA9.md"
 latest_sha256: "c97e2c58d811d0843c77c1f13175b70092febb75cc2f5008a7460196091c890f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E44552D5FEA9]]"
 ---
 # Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E44552D5FEA9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E44552D5FEA9
+- Ryšiai: [[Ryšiai/TAR.E44552D5FEA9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

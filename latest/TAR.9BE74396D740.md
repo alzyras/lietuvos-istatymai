@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9BE74396D740"
 pavadinimas: "Lietuvos Respublikos vaikų išlaikymo fondo įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaikų išlaikymo fondo įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "vaikų išlaikymo fondo įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.9BE74396D740.md"
 latest_sha256: "1defdf721b0afeeaa976590fe2762057908040c413d4c15de722dabb4e97a84c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9BE74396D740]]"
 ---
 # Lietuvos Respublikos vaikų išlaikymo fondo įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9BE74396D740.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9BE74396D740
+- Ryšiai: [[Ryšiai/TAR.9BE74396D740|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-3c52932f38b76fa9aadffbbb
 
 
 14 straipsnio 2 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Fondo administratoriaus interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-60752c3c7fefc5978b448b6d
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

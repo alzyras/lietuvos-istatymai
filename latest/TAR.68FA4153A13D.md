@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.68FA4153A13D"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3 straipsnio pakeitimo ir 26, 27 straipsnių pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3 straipsnio pakeitimo ir 26, 27 straipsnių pripažinimo netekusiais galios įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 3 straipsnio pakeitimo ir 26, 27 straipsnių pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.68FA4153A13D.md"
 latest_sha256: "b348539f415ac4400ab2cb026bcf6d28f52aef33fc084ab92ddd54a48aebc665"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.68FA4153A13D]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3 straipsnio pakeitimo ir 26, 27 straipsnių pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.68FA4153A13D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.68FA4153A13D
+- Ryšiai: [[Ryšiai/TAR.68FA4153A13D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,31 +37,31 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-7d25e68de018fee7b95b50ac
 
 
-1. 3 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios. ^a6a48dd2cc589227b24456b2
+1. 3 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios. ^s-7f22e6fc6162fd466374e42e
 
 
-2. Buvusius 3 straipsnio 1 dalies 4 ir 5 punktus laikyti 3 ir 4 punktais. ^0c293fd553f5b28d18b66f26
+2. Buvusius 3 straipsnio 1 dalies 4 ir 5 punktus laikyti 3 ir 4 punktais. ^s-5f40233779dd12ab73eda4eb
 
 
 
-### 2 straipsnis. 26 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 26 straipsnio pripažinimas netekusiu galios ^s-4d77c325416949963d6a4c44
 
 
 26 straipsnį pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. 27 straipsnio pripažinimas netekusiu galios
+### 3 straipsnis. 27 straipsnio pripažinimas netekusiu galios ^s-c00d5ee9ab7292c0ee9892b8
 
 
 27 straipsnį pripažinti netekusiu galios.
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-ab1aa997b72cd83bc6ed90a0
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

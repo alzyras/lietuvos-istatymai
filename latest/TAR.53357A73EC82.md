@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.53357A73EC82"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 75 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 75 straipsnio papildymo įstatymas"
+  - "sveikatos sistemos įstatymo 75 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-02"
 latest_path: "latest/TAR.53357A73EC82.md"
 latest_sha256: "1c63d7bfb1311d72583cf2205decf9d7705bbbfb73133291c8d5f5abc4f4a97b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.53357A73EC82]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 75 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.53357A73EC82.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.53357A73EC82
+- Ryšiai: [[Ryšiai/TAR.53357A73EC82|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,16 +36,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 75 straipsnio 2 dalies papildymas
+### 1 straipsnis. 75 straipsnio 2 dalies papildymas ^s-868ea46da9b78535aa4d9fae
 
 
-1. Papildyti 75 straipsnio 2 dalį nauju 4 punktu: ^d9f56833312458c1abe726d3
+1. Papildyti 75 straipsnio 2 dalį nauju 4 punktu: ^s-1367182a091d035d2cf7a33c
 
 
 „4) teisės aktų nustatyta tvarka vykdo Sveikatos apsaugos ministerijos įgaliotos institucijos valdymo funkcijas medicinos prietaisų atitikties įvertinimo srityje;“.
 
 
-2. 75 straipsnio 2 dalies buvusį 4 punktą laikyti 5 punktu. ^7a401fc1c04cae359f596182
+2. 75 straipsnio 2 dalies buvusį 4 punktą laikyti 5 punktu. ^s-e43d42943a683d268447a322
 
 
 

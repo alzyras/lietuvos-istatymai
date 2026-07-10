@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CFB5203284A2"
 pavadinimas: "Lietuvos Respublikos maisto įstatymo 2, 9, 11 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos maisto įstatymo 2, 9, 11 straipsnių pakeitimo ir papildymo įstatymas"
+  - "maisto įstatymo 2, 9, 11 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.CFB5203284A2.md"
 latest_sha256: "f65ce19715559cd50c572960f44d725cc7b052ef61073542e75f54e6f4b14bee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CFB5203284A2]]"
 ---
 # Lietuvos Respublikos maisto įstatymo 2, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CFB5203284A2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CFB5203284A2
+- Ryšiai: [[Ryšiai/TAR.CFB5203284A2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 19 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 19 dalies pakeitimas ^s-a8a03b4f4ab6be4a9da7f1f1
 
 
 Pakeisti 2 straipsnio 19 dalį ir ją išdėstyti taip:
@@ -43,44 +48,44 @@ Pakeisti 2 straipsnio 19 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 9 straipsnio 5 dalies papildymas ir pakeitimas
+### 2 straipsnis. 9 straipsnio 5 dalies papildymas ir pakeitimas ^s-f4bf2078a8869cc96f538aba
 
 
-1. Papildyti 9 straipsnio 5 dalį nauju 6 punktu: ^8ce299ba0fab30ef4dafa92a
+1. Papildyti 9 straipsnio 5 dalį nauju 6 punktu: ^s-937219c0ba2257b0f93f0cb7
 
 
 „6) nustato tvarką ir ūkio subjekto prašymu išduoda leidimus maisto tvarkymo subjektų laboratorijoms, atliekančioms maisto žaliavų, produktų tyrimus, išskyrus laboratorijas, akredituotas šiems tyrimams teisės aktų nustatyta tvarka;“.
 
 
-2. Papildyti 9 straipsnio 5 dalį 7 punktu: ^0878b0e27fa4cbb1719d2329
+2. Papildyti 9 straipsnio 5 dalį 7 punktu: ^s-0de35404626db5cda8ef1a58
 
 
 „7) nustato tvarką ir išduoda leidimus geriamojo vandens tiekėjų laboratorijoms, atliekančioms geriamojo vandens saugos ir kokybės tyrimus, išskyrus laboratorijas, akredituotas šiems tyrimams teisės aktų nustatyta tvarka;“.
 
 
-3. Papildyti 9 straipsnio 5 dalį 8 punktu: ^e55aea4f723c27a00be20c0e
+3. Papildyti 9 straipsnio 5 dalį 8 punktu: ^s-b3cbfaca290b08cfa424de63
 
 
 „8) nustato tvarką ir pripažįsta Lietuvos Respublikos rinkai teikiamą natūralų mineralinį vandenį ir išduoda natūralaus mineralinio vandens pripažinimo Lietuvos Respublikoje pažymėjimą. Už natūralaus mineralinio vandens pripažinimo Lietuvos Respublikoje pažymėjimų ir jų dublikatų išdavimą bei šių pažymėjimų tikslinimą imama valstybės rinkliava;“.
 
 
-4. Papildyti 9 straipsnio 5 dalį 9 punktu: ^d1add93d51c9c79d6089993d
+4. Papildyti 9 straipsnio 5 dalį 9 punktu: ^s-7223dca95580da61d2f4f641
 
 
 „9) nustato tvarką ir notifikuoja maisto papildus ir specialios paskirties maisto produktus;“.
 
 
-5. Papildyti 9 straipsnio 5 dalį 10 punktu: ^1de1baa548861c4943e59a3a
+5. Papildyti 9 straipsnio 5 dalį 10 punktu: ^s-f0ff19d9584f522da645048a
 
 
 „10) vykdo fizinių ir juridinių asmenų, organizacijų ar jų filialų, gaminančių medžiagas ir gaminius, besiliečiančius su maistu, valstybinę maisto kontrolę;“.
 
 
-6. Buvusį 9 straipsnio 5 dalies 6 punktą laikyti 11 punktu. ^ecee5b91297c14ba88428073
+6. Buvusį 9 straipsnio 5 dalies 6 punktą laikyti 11 punktu. ^s-5be1b088dfdfa378cf59b57c
 
 
 
-### 3 straipsnis. 11 straipsnio 5 dalies 3 punkto pakeitimas
+### 3 straipsnis. 11 straipsnio 5 dalies 3 punkto pakeitimas ^s-efe54c05eb0743f9d1f2cd1d
 
 
 Pakeisti 11 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
@@ -90,13 +95,13 @@ Pakeisti 11 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-944386eba6ed7c439795ec17
 
 
-1. Šis įstatymas, išskyrus [[#^60b237faed8dc87f5a42713a|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^4c1be1990b2863e4bc0588bc
+1. Šis įstatymas, išskyrus [[#^s-2358ee9beff62b406974ed8d|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-1f0eae201541dc7fda708c10
 
 
-2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^60b237faed8dc87f5a42713a
+2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-2358ee9beff62b406974ed8d
 
 
 

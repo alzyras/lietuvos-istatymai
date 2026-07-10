@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E2A987141698"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 1, 2, 3, 12, 18, 20, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 1, 2, 3, 12, 18, 20, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas"
+  - "aplinkos apsaugos valstybinės kontrolės įstatymo 1, 2, 3, 12, 18, 20, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-28"
 latest_path: "latest/TAR.E2A987141698.md"
 latest_sha256: "b1a6693fccf44cdd4ebce4f5bcf504b66b2b5f959f946d44d7a22db4c2359601"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E2A987141698]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 1, 2, 3, 12, 18, 20, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E2A987141698.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E2A987141698
+- Ryšiai: [[Ryšiai/TAR.E2A987141698|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 2 dalimi ^s-e023dbcf62090b962fafc36e
 
 
-1 straipsnį papildyti [[#^83fd1dbf0ac503f6bdaabb2d|2 dalimi]] ir visą straipsnį išdėstyti taip:
+1 straipsnį papildyti [[#^s-0fcc02b8b2a9c2ab92ae4ab0|2 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančias institucijas bei pareigūnus, jų teisinį statusą, veiklos teisinius pagrindus bei pagrindinius principus, veiklos organizavimą, reglamentuoja aplinkos apsaugos valstybinės kontrolės procesą. ^527838962971098816bf320a
+1. Šis Įstatymas nustato aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančias institucijas bei pareigūnus, jų teisinį statusą, veiklos teisinius pagrindus bei pagrindinius principus, veiklos organizavimą, reglamentuoja aplinkos apsaugos valstybinės kontrolės procesą. ^s-faaf2e810a3ee2145ea3b2f1
 
 
-2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.“ ^83fd1dbf0ac503f6bdaabb2d
+2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.“ ^s-0fcc02b8b2a9c2ab92ae4ab0
 
 
 
-### 2 straipsnis. 2 straipsnio 6 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 6 dalies pakeitimas ^s-5554d9d49187b95cc6f2e546
 
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -57,58 +62,58 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 3 straipsnio papildymas 11 ir 12 punktais
+### 3 straipsnis. 3 straipsnio papildymas 11 ir 12 punktais ^s-41e3d2e00f4f52fd06ef5642
 
 
-Papildyti 3 straipsnį 11 ir [[#^7c0c11e659ddc35380e8efa1|12 punktais]]:
+Papildyti 3 straipsnį 11 ir [[#^s-010c910c0372aec26c3f9869|12 punktais]]:
 
 
 „11) kontroliuoja, ar cheminės medžiagos ir preparatai (išskyrus tiekiamas rinkai chemines medžiagas ir preparatus, skirtus vartotojų asmeniniams ir namų ūkio poreikiams tenkinti) klasifikuojami, ženklinami, pakuojami, saugomi, laikomi, įtraukiami į apskaitą ir jų apskaita vykdoma pagal teisės aktų reikalavimus, teisėtai valdomi, naudojami, jais disponuojama; nepažeidžiami pranešimų apie naujas chemines medžiagas, duomenų, ataskaitų dėl cheminių medžiagų ir preparatų teikimo reikalavimai; taip pat pagal kompetenciją kontroliuoja, ar nepažeidžiami cheminių medžiagų ir preparatų importo (įvežimo) į Lietuvos Respublikos teritoriją, eksporto (išvežimo) iš Lietuvos Respublikos teritorijos reikalavimai;
 
 
-12) kontroliuoja, ar genetiškai modifikuoti organizmai ribotai naudojami, išleidžiami į aplinką laikantis teisės aktuose nustatytų reikalavimų.“ ^7c0c11e659ddc35380e8efa1
+12) kontroliuoja, ar genetiškai modifikuoti organizmai ribotai naudojami, išleidžiami į aplinką laikantis teisės aktuose nustatytų reikalavimų.“ ^s-010c910c0372aec26c3f9869
 
 
 
-### 4 straipsnis. 12 straipsnio 1 dalies 1, 6 ir 16 punktų pakeitimas
+### 4 straipsnis. 12 straipsnio 1 dalies 1, 6 ir 16 punktų pakeitimas ^s-937d9f9124b0e357fda8c4de
 
 
-1. Pakeisti 12 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^5da9885a6360a08d3c53fc5f
+1. Pakeisti 12 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-718b46bc1e60ebe41a00e5c1
 
 
 „1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo bei privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), kitus ūkinės veiklos objektus ir tikrinti, ar juose laikomasi aplinkos apsaugą, gamtos išteklių naudojimą ir atkūrimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, atlikti kontrolinius tyrimus ir matavimus, neatlygintinai gauti cheminių medžiagų ir preparatų pavyzdžius tyrimams, jų sudėčiai bei savybėms ištirti ar bandymams atlikti, taip pat įstatymų nustatyta tvarka gauti informaciją bei duomenis, kurie yra valstybės ar tarnybos, komercinė ar pramoninė paslaptis, cheminių medžiagų ir preparatų kontrolei atlikti;“.
 
 
-2. Pakeisti 12 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^117ef4c2a73b7321b94369fd
+2. Pakeisti 12 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-0758f955c783185db5007881
 
 
 „6) šio Įstatymo nustatytais atvejais ir nustatyta tvarka duoti privalomuosius nurodymus fiziniams ir juridiniams asmenims;“.
 
 
-3. Pakeisti 12 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip: ^acdee51149547b3a40c10b26
+3. Pakeisti 12 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip: ^s-e0829ea65579f8939810d6f8
 
 
 „16) išaiškinę aplinkos apsaugą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, kuriuo aplinkai buvo padaryta žala, privalo per 30 dienų pasiūlyti pažeidėjui gera valia atlyginti žalą. Jei pažeidėjas per aplinkos apsaugos valstybinės kontrolės pareigūno nurodytą terminą savanoriškai žalos neatlygina arba ją atlygina nevisiškai, aplinkos apsaugos valstybinės kontrolės pareigūnas ne vėliau kaip per 30 dienų nuo šio termino pabaigos privalo pareikšti ieškinį teisme dėl padarytos aplinkai žalos atlyginimo.“
 
 
 
-### 5 straipsnis. 18 straipsnio 1 punkto pakeitimas ir straipsnio papildymas 5 punktu
+### 5 straipsnis. 18 straipsnio 1 punkto pakeitimas ir straipsnio papildymas 5 punktu ^s-983c5d933148d9c980419e49
 
 
-1. Pakeisti 18 straipsnio 1 punktą ir jį išdėstyti taip: ^739249dd32759543d7b59cfe
+1. Pakeisti 18 straipsnio 1 punktą ir jį išdėstyti taip: ^s-0171cd1baeae414b1569ffa2
 
 
 „1) kai yra grėsmė, kad bus pažeisti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimai ir (arba) kai dėl fizinių ar juridinių asmenų veiksmų ar neveikimo gali būti padaryta žala aplinkai, siekiant tokių pažeidimų ir (arba) žalos aplinkai išvengti ar ją sumažinti;“.
 
 
-2. Papildyti 18 straipsnį 5 punktu: ^4bf6a17c94cf49c2a171554b
+2. Papildyti 18 straipsnį 5 punktu: ^s-06d66cf914bfe19cb346c4ce
 
 
 „5) kai padaryta žala aplinkai ir nustatomos aplinkos atkūrimo priemonės ir jų įgyvendinimo terminai.“
 
 
 
-### 6 straipsnis. 20 straipsnio 1 dalies 4 punkto pakeitimas
+### 6 straipsnis. 20 straipsnio 1 dalies 4 punkto pakeitimas ^s-8b592ac6170fdb455aa70279
 
 
 Pakeisti 20 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
@@ -118,7 +123,7 @@ Pakeisti 20 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 24 straipsnio pakeitimas
+### 7 straipsnis. 24 straipsnio pakeitimas ^s-e045e820f0d361db3404fc4f
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
@@ -131,13 +136,13 @@ Jei privalomasis nurodymas laiku neįvykdomas, aplinkos apsaugos valstybinės ko
 
 
 
-### 8 straipsnis. Įstatymo papildymas priedu
+### 8 straipsnis. Įstatymo papildymas priedu ^s-8c3f8fda0359ea1ad76d4d78
 
 
 Papildyti Įstatymą priedu:
 
 
-„Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo
+„[[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo]]
 Priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A0B0EECEA0C2"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsnių pakeitimo įstatymas"
+  - "nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-04-08"
 latest_path: "latest/TAR.A0B0EECEA0C2.md"
 latest_sha256: "f74e352c98b96d612aef4d079de76256ef84bde50d2b0afafe8d26354a1cf700"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A0B0EECEA0C2]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A0B0EECEA0C2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A0B0EECEA0C2
+- Ryšiai: [[Ryšiai/TAR.A0B0EECEA0C2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,22 +36,22 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas
+### 1 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas ^s-9798ca674ea8190edad0762a
 
 
-1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip: ^025553059e1a0ae5fca2a321
+1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip: ^s-dcd96ce9937477c3fb972672
 
 
-„1. Mokesčio mokėtojų skundai dėl nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) ir prašymai dėl individualiu vertinimo būdu nustatytos nekilnojamojo turto vertės naudojimo apskaičiuojant mokestinę vertę (toliau -prašymas) pateikiami turto vertintojui per tris mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo (išskyrus 2006 metų mokestinį laikotarpį, kai skundai ir prašymai turto vertintojui pateikiami per šešis mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo). Šiuos skundus ir prašymus turto vertintojas išnagrinėja per du mėnesius nuo skundo ar prašymo gavimo dienos ir priima sprendimą. Sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
+„1. Mokesčio mokėtojų skundai dėl nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) ir prašymai dėl individualiu vertinimo būdu nustatytos nekilnojamojo turto vertės naudojimo apskaičiuojant mokestinę vertę (toliau -prašymas) pateikiami turto vertintojui per tris mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo (išskyrus 2006 metų mokestinį laikotarpį, kai skundai ir prašymai turto vertintojui pateikiami per šešis mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo). Šiuos skundus ir prašymus turto vertintojas išnagrinėja per du mėnesius nuo skundo ar prašymo gavimo dienos ir priima sprendimą. Sprendimas gali būti skundžiamas [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka.“
 
 
-2. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip: ^371aee10841aa194e85fa9d5
+2. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip: ^s-fe74ad51197598085ecbd781
 
 
-„3. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas jas naikinti.“
+„3. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas [[latest/TAR.3EB34933E485#^s-8e349f0fb2639388bb65b926|Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje]], arba pagrindas jas naikinti.“
 
 
-### 2 straipsnis. 12 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 12 straipsnio 3 dalies pakeitimas ^s-0ab0bcc8f2589d87639fc353
 
 
 Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:

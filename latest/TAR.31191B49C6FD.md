@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.31191B49C6FD"
 pavadinimas: "Lietuvos Respublikos žemės įstatymo 29 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės įstatymo 29 straipsnio papildymo įstatymas"
+  - "žemės įstatymo 29 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.31191B49C6FD.md"
 latest_sha256: "d8eb3a0283fe90727a1d68b42244daa03b0f9a4391eaac3f8fac24fb3ae0e4a5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.31191B49C6FD]]"
 ---
 # Lietuvos Respublikos žemės įstatymo 29 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.31191B49C6FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.31191B49C6FD
+- Ryšiai: [[Ryšiai/TAR.31191B49C6FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 1 dalies papildymas 12 punktu
+### 1 straipsnis. 29 straipsnio 1 dalies papildymas 12 punktu ^s-a8425661e74aa06e83f9ef9d
 
 
 Papildyti 29 straipsnio 1 dalį 12 punktu:
@@ -41,7 +46,7 @@ Papildyti 29 straipsnio 1 dalį 12 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6aba7d391ecad4ff9fee06f3
 
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.

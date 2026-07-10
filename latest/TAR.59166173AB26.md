@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.59166173AB26"
 pavadinimas: "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo papildymo 4(1) straipsniu ir 9 bei 11 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo papildymo 4(1) straipsniu ir 9 bei 11 straipsnių papildymo įstatymas"
+  - "valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo papildymo 4(1) straipsniu ir 9 bei 11 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-31"
 latest_path: "latest/TAR.59166173AB26.md"
 latest_sha256: "d9cf96541b888300faa5678e677308b415d444924697d494b1f4a38b90afedc7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.59166173AB26]]"
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo papildymo 4(1) straipsniu ir 9 bei 11 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.59166173AB26.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.59166173AB26
+- Ryšiai: [[Ryšiai/TAR.59166173AB26|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 41 straipsniu
+### 1 straipsnis. Įstatymo papildymas 41 straipsniu ^s-7eee50d8123174bfe2c7da17
 
 
 Papildyti Įstatymą 41 straipsniu:
@@ -50,7 +55,7 @@ Jei motinos nėra, jei ji atsisako vaikų, jei iš jos atimtos motinystės  teis
 
 
 
-### 2 straipsnis. 9 straipsnio 1 dalies papildymas
+### 2 straipsnis. 9 straipsnio 1 dalies papildymas ^s-3264410bdaf77b7c46af6a31
 
 
 9 straipsnio 1 dalyje po skaičiaus „4“ įrašyti skaičių „41“, dalį papildyti antruoju sakiniu ir išdėstyti taip:
@@ -60,7 +65,7 @@ Pašalpos, nurodytos šio įstatymo 2, 4, 41, 5, 6 ir 8 straipsniuose, mokamos i
 
 
 
-### 3 straipsnis. 11 straipsnio papildymas 2 dalimi
+### 3 straipsnis. 11 straipsnio papildymas 2 dalimi ^s-b20489d8ce4108473c7d26ea
 
 
 11 straipsnį papildyti 2 dalimi:

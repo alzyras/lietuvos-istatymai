@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.81016B2E5366"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių\" 3 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių\" 3 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-11-15"
 latest_path: "latest/TAR.81016B2E5366.md"
 latest_sha256: "348cf7fdd0d78808d16a8ffdcc77476710bce6a6bb5b7c832c39d8589a593a28"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.81016B2E5366]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių" 3 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.81016B2E5366.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.81016B2E5366
+- Ryšiai: [[Ryšiai/TAR.81016B2E5366|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

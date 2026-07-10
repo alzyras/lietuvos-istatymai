@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.92012CDDC386"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymo 30 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymo 30 straipsnio pakeitimo įstatymas"
+  - "aplinkos apsaugos įstatymo 30 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.92012CDDC386.md"
 latest_sha256: "ea9efc2890edf41c29570e8e22719335376e78a4b228b11a4a201ad2270fb233"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.92012CDDC386]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 30 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.92012CDDC386.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.92012CDDC386
+- Ryšiai: [[Ryšiai/TAR.92012CDDC386|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio 3, 4 dalių pakeitimas
+### 1 straipsnis. 30 straipsnio 3, 4 dalių pakeitimas ^s-25727d2306ed18324923f12e
 
 
 Pakeisti 30 straipsnio 3, 4 dalis ir jas išdėstyti taip:
@@ -40,11 +45,11 @@ Pakeisti 30 straipsnio 3, 4 dalis ir jas išdėstyti taip:
 „Aplinkos apsaugos rėmimo programos lėšos ir savivaldybių gamtos apsaugos fondai yra papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo šaltinis gali būti užsienio kreditai.
 
 
-Aplinkos apsaugos rėmimo programos lėšas bei jų panaudojimo tvarką nustato Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas.“
+Aplinkos apsaugos rėmimo programos lėšas bei jų panaudojimo tvarką nustato [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]].“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-251e3b6c425fb25e8d03abae
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

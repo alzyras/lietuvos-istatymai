@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.172514F99B47"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 33 ir 36 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 33 ir 36 straipsnių pakeitimo įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 33 ir 36 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-25"
 latest_path: "latest/TAR.172514F99B47.md"
 latest_sha256: "efc140733b373c955fb6bc286d60a89c6969aa33fc0cc827de62a01ab1f79622"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.172514F99B47]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 33 ir 36 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.172514F99B47.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.172514F99B47
+- Ryšiai: [[Ryšiai/TAR.172514F99B47|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 33 straipsnio pakeitimas
+### 1 straipsnis. 33 straipsnio pakeitimas ^s-c179e77bf5831798b7624078
 
 
 33 straipsnyje vietoj skaičiaus „2003“ įrašyti skaičių „2004“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifai priklauso nuo 
 
 
 
-### 2 straipsnis. 36 straipsnio 6 dalies pakeitimas
+### 2 straipsnis. 36 straipsnio 6 dalies pakeitimas ^s-17e465ffedac6defbe30d888
 
 
 36 straipsnio 6 dalyje išbraukti žodžius „Po šio įstatymo įsigaliojimo praėjus dvejiems metams“ ir šią dalį išdėstyti taip:

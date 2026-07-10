@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.17D58E477DEB"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimo dėl nelegaliai esančių asmenų grąžinimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimo dėl nelegaliai esančių asmenų grąžinimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimo dėl nelegaliai esančių asmenų grąžinimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-03"
 latest_path: "latest/TAR.17D58E477DEB.md"
 latest_sha256: "7edd71236e09fe5e98774b1f08a05b732b32bac018ceb47e330f05e8b2d9b011"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.17D58E477DEB]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimo dėl nelegaliai esančių asmenų grąžinimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.17D58E477DEB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.17D58E477DEB
+- Ryšiai: [[Ryšiai/TAR.17D58E477DEB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-d6aa7ff1d1c17dad3059c80c
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl nelegaliai esančių asmenų grąžinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl nelegaliai esančių asmenų grąžinimo, pasirašytą 1998 m. gruodžio 4 d. Vilniuje.

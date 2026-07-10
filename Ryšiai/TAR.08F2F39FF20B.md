@@ -1,0 +1,121 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.08F2F39FF20B"
+pavadinimas: "Lietuvos Respublikos laukinės gyvūnijos įstatymas"
+---
+# Lietuvos Respublikos laukinės gyvūnijos įstatymas: ryšiai
+
+- [[latest/TAR.08F2F39FF20B|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo
+- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos aplinkos apsaugos įstatyme
+- [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - Lietuvos Respublikos aplinkos monitoringo įstatymo
+- [[latest/TAR.8DDDD8D87491|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas]] - 21 citatos - Gyvūnų gerovės ir apsaugos įstatymo
+- [[latest/TAR.3BAA3000A177|Lietuvos Respublikos laukinės gyvūnijos įstatymo 2, 9, 10, 11, 14 ir 20 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1051010ISTA000X-159
+- [[latest/TAR.69BBEC7498C4|Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 10 ir 13 straipsnių pakeitimo įstatymas]] - 6 citatos - 1021010ISTA0IX-1091
+- [[latest/TAR.39B71E385FC5|Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 8, 10 ir 24 straipsnių pakeitimo įstatymas]] - 6 citatos - 1031010ISTA0IX-1614
+- [[latest/e3b498a0a16011eea5a28c81c82193a8|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 4 ir 18 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2352
+- [[latest/da825090d41311e7910a89ac20768b0f|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 5, 8, 9 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-776
+- [[latest/a2fa6d30e78d11ee9f5b8ffa077f9188|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2486
+- [[latest/b49583d00a2411ebb74de75171d26d52|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3297
+- [[latest/TAR.14279DE776C2|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - 4 citatos - 1011010ISTA00IX-638
+- [[latest/TAR.6F08892C89ED|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - 4 citatos - 1101010ISTA00XI-920
+- [[latest/TAR.A92E17FDCD13|Lietuvos Respublikos medžioklės įstatymas]] - 18 citatos - Medžioklės įstatymu
+- [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - 4 citatos - Miškų įstatyme
+- [[latest/TAR.11BAD851321B|Lietuvos Respublikos mėgėjų žvejybos įstatymas]] - 8 citatos - Lietuvos Respublikos mėgėjų žvejybos įstatymas
+- [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - 2 citatos - Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo
+- [[latest/TAR.1746D2A4EFB9|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - 14 citatos - Saugomų gyvūnų, augalų ir grybų rūšių įstatymu
+- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 4 citatos - Lietuvos Respublikos saugomų teritorijų įstatyme
+- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 3 citatos - Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 2 citatos - Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo
+- [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymas]] - 2 citatos - Lietuvos Respublikos veterinarijos įstatymo
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatymo
+- [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - 2 citatos - Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme
+- [[latest/TAR.EE245B47423C|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo
+- [[latest/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - 10 citatos - Lietuvos Respublikos žuvininkystės įstatymas
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.FC7AB69BE291#^s-514ac69bf8519bd533d2c00f|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo 23 straipsnio 1 dalyje
+- [[latest/bd0c979255c611f0b070ee7f1ceefc75#^s-2442d9e5f6d6a8d3c00eba0b|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo 23 straipsnio 1 dalyje
+- [[latest/TAR.8DDDD8D87491#^s-ce6ca4ec5cc55d162b74b0c2|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymas
+- [[latest/TAR.8DDDD8D87491#^s-ee9c4cf448330f35380ecaba|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymas
+- [[latest/TAR.083EC9CC29FD#^s-0bb3109f5c9130084ffc6377|Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymas
+- [[latest/TAR.083EC9CC29FD#^s-dfa81d16c1843c5caf7f48cc|Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymas
+- [[latest/47bc6c40570111f0a3d380837a821750#^s-1c14c7e83b9f7137222f9edd|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 35 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/47bc6c40570111f0a3d380837a821750#^s-7f7983888a92cd1fba381ad4|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 35 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-28489a3177eb7ce32ce62b70|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo 6 straipsnio 6 dalis
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-2e06aa2801da6e3750303fd2|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - LAUKINĖS GYVŪNIJOS ĮSTATYMO
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-3304707427306cd2f70bdfb4|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-64632fef1da368c2fab94377|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS LAUKINĖS GYVŪNIJOS ĮSTATYMAS
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-b0debbe070be1b2ba1f520a0|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-d55025195409c7268b299175|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos laukinės gyvūnijos įstatymo 6 straipsnio 6 dalis
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-e68386ac5b4615a2393df662|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo 8 straipsnyje
+- [[latest/TAR.6F08892C89ED#^s-177e3201735ed5d37396268a|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - LAUKINĖS GYVŪNIJOS ĮSTATYMO
+- [[latest/TAR.6F08892C89ED#^s-1c3fe3049f459aabc838ad77|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS  LAUKINĖS GYVŪNIJOS ĮSTATYMAS
+- [[latest/TAR.14279DE776C2#^s-238b8e34097876032075a665|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.6F08892C89ED#^s-249f4155554a513fbefd577d|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.14279DE776C2#^s-497a9b5ec6dacfc2ef173c37|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.14279DE776C2#^s-4a1b97138922b6d09d76ec9e|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - 2 citatos - Laukinės gyvūnijos įstatymo 13 straipsnio 2 dalies
+- [[latest/TAR.6F08892C89ED#^s-59d4f14e423dab71012df7fe|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.14279DE776C2#^s-5bfc1043c7818f39a9fa7105|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - LAUKINĖS GYVŪNIJOS ĮSTATYMO
+- [[latest/TAR.14279DE776C2#^s-f7243a58cdb3bc317a584c73|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.A92E17FDCD13#^s-2924df7d638315811447d5bb|Lietuvos Respublikos medžioklės įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/TAR.A92E17FDCD13#^s-e5dd80dda204d88784d846eb|Lietuvos Respublikos medžioklės įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-0378187638a9e0db93848abf|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-075c6a0df212e54cf1931d13|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.1746D2A4EFB9#^s-2ab5aa16fd210c67e34b8316|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-2b41651ce668c5b960d9a37e|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.1746D2A4EFB9#^s-2cac7260c3a65ab1effde410|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.1746D2A4EFB9#^s-2d3d06eb850c73f0a018a433|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-31f13fc02bbb8f693d72f84c|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - 3 citatos - Laukinės gyvūnijos įstatymas
+- [[latest/TAR.1746D2A4EFB9#^s-33f2b962f7a690c53772a1c6|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.1746D2A4EFB9#^s-52dcca35cbc5af01e09aa204|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-5ad4006417b8946210d1992d|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymas
+- [[latest/TAR.1746D2A4EFB9#^s-68befb6b987acb69654b0799|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-99cf3d2606a7e266e2bacca4|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - 2 citatos - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.1746D2A4EFB9#^s-9a9021a1194ba8a89a7034e3|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.1746D2A4EFB9#^s-a6b801c2dfb53dc9b98343a1|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-b3b57f4356aff76bad3c4dde|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-c2ff898abd9eb31ab4099c29|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-cd891aa546f208290961a442|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-d679caa2213f0636bf192f3b|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-e02e4f70d1d91323e46cb608|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/TAR.1746D2A4EFB9#^s-eea3896ad0d13bb2384b5a87|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-f3db326a8a9859c00b7eba64|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-006f523f66a8c6a5849f861c|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-1f1da55b8c2c4193888c8331|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-289f5e3a213456380a2b3786|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-2e63129376f975f3bb78c923|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-31ef0c374b97ae1161379e78|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-39314b3ffff5c224d3f33aa8|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-58b939126973c6f7ffe111cb|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-5fbf5a575988831e961a6590|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-756f428ac3541ba1106b4726|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymo
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-7dde171e39dc1757384460a0|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-8d800857fa3d01f7acc0fbbd|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymas
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-b753a6b2174ee920280bdf92|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - 3 citatos - Laukinės gyvūnijos įstatymas
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-c00f7e8ef6a97d22502f1ce7|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-c81e9593f322bb2786d240dc|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-e967f4592b37115446bf5576|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-f476722def69135d1fdd5cc6|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - Laukinės gyvūnijos įstatymu
+- [[latest/454b42c00a2511ebb74de75171d26d52#^s-f8f7f81e9b1f044e223256ea|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas]] - 2 citatos - Laukinės gyvūnijos įstatymo
+- [[latest/TAR.BF39F17A7E62#^s-0040349ac89e74dfd870b7fc|Lietuvos Respublikos saugomų gyvūnų, augalų, grybų rūšių ir bendrijų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.BF39F17A7E62#^s-e54efc4d88bb557c35d9805e|Lietuvos Respublikos saugomų gyvūnų, augalų, grybų rūšių ir bendrijų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatymo
+- [[latest/TAR.FF1083B528B7#^s-1933d8b4bea7876d4695f4b1|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Laukinės gyvūnijos įstatymas
+- [[latest/TAR.FF1083B528B7#^s-258885767d986e803649d705|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Laukinės gyvūnijos įstatymas
+- [[latest/TAR.FF1083B528B7#^s-2e8235188c7fac24ec39e1a9|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/TAR.FF1083B528B7#^s-9acf754affaff246bafa60aa|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/787506209cf311e69ad4c8713b612d0f#^s-60c97ba70b15dcae32909adb|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/787506209cf311e69ad4c8713b612d0f#^s-edb60c59539a9185b9f774b1|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/2634aca02a8611e78397ae072f58c508#^s-cdc3c941b1c81cf6b80088b6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymo Nr. XII-2683 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/20973eb00a2611ebb74de75171d26d52#^s-9337a51da9c84b67af806002|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2 ir 5 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-47e0f009ba980b93122de8a4|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-56fefea004f20ef939f5f6c2|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-0bb420ec2d1d4663c9d98b3a|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Laukinės gyvūnijos įstatymas
+- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-4169a280bd323715780a68ed|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Laukinės gyvūnijos įstatymas
+- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-743bd48f9490bf118e673e21|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme
+- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-baefbe603a5f709e88bef371|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos laukinės gyvūnijos įstatyme

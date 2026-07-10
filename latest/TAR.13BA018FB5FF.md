@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13BA018FB5FF"
 pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimų Centrinės privatizavimo komisijos skyrimo klausimais pripažinimo netekusiais galios"
+aliases:
+  - "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimų Centrinės privatizavimo komisijos skyrimo klausimais pripažinimo netekusiais galios"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-07-16"
 latest_path: "latest/TAR.13BA018FB5FF.md"
 latest_sha256: "c4940f5bffb09ca8f5a38347f3bef0eae8aa0cbdc817f1991cca6ed434e4e300"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13BA018FB5FF]]"
 ---
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimų Centrinės privatizavimo komisijos skyrimo klausimais pripažinimo netekusiais galios
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13BA018FB5FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13BA018FB5FF
+- Ryšiai: [[Ryšiai/TAR.13BA018FB5FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.764D2FF3D369"
 pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnio papildymo įstatymas"
+  - "mokesčių administravimo įstatymo 13 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.764D2FF3D369.md"
 latest_sha256: "92faa6b5375b2979e24447b3eff92e4f55f741cbc9c5f62358de857c6c6c05ab"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.764D2FF3D369]]"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.764D2FF3D369.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.764D2FF3D369
+- Ryšiai: [[Ryšiai/TAR.764D2FF3D369|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio papildymas 25 punktu
+### 1 straipsnis. 13 straipsnio papildymas 25 punktu ^s-2317e1725e6bbc66de5aa912
 
 
 Papildyti 13 straipsnį 25 punktu:
@@ -41,7 +46,7 @@ Papildyti 13 straipsnį 25 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b895b420533d857ee2e49654
 
 
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.

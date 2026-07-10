@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D38527A64A5"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 14, 15, 34, 103 straipsnių pakeitimo ir 16, 17, 58 straipsnių pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 14, 15, 34, 103 straipsnių pakeitimo ir 16, 17, 58 straipsnių pripažinimo netekusiais galios įstatymas"
+  - "teismų įstatymo 14, 15, 34, 103 straipsnių pakeitimo ir 16, 17, 58 straipsnių pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.4D38527A64A5.md"
 latest_sha256: "81926ff03547a24b22450674a556b6a1c22e2c9a356db7be8d27bef22c55efa7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D38527A64A5]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 14, 15, 34, 103 straipsnių pakeitimo ir 16, 17, 58 straipsnių pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D38527A64A5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D38527A64A5
+- Ryšiai: [[Ryšiai/TAR.4D38527A64A5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio pakeitimas
+### 1 straipsnis. 14 straipsnio pakeitimas ^s-3eb2eef4b4cd7447f2bc8449
 
 
 14 straipsnio 2 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
@@ -49,28 +54,28 @@ Apylinkės teismas susideda iš šio teismo pirmininko, pirmininko pavaduotojo (
 
 
 
-### 2 straipsnis. 15 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios
+### 2 straipsnis. 15 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ^s-1b602784dc6d7ad97d79a169
 
 
 15 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+### 3 straipsnis. 16 straipsnio pripažinimas netekusiu galios ^s-78b64cb03b1da63274824a73
 
 
 16 straipsnį pripažinti netekusiu galios.
 
 
 
-### 4 straipsnis. 17 straipsnio pripažinimas netekusiu galios
+### 4 straipsnis. 17 straipsnio pripažinimas netekusiu galios ^s-d1fa7843269bcacc35860197
 
 
 17 straipsnį pripažinti netekusiu galios.
 
 
 
-### 5 straipsnis. 34 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 34 straipsnio 3 dalies pakeitimas ^s-8e9b9a80590ef40c0b120f34
 
 
 Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -80,14 +85,14 @@ Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 58 straipsnio pripažinimas netekusiu galios
+### 6 straipsnis. 58 straipsnio pripažinimas netekusiu galios ^s-0634ee8f49aaf82639e74e94
 
 
 58 straipsnį pripažinti netekusiu galios.
 
 
 
-### 7 straipsnis. 103 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 103 straipsnio 2 dalies pakeitimas ^s-ed0e618fce3c53c35acfec58
 
 
 103 straipsnio 2 dalyje išbraukti žodžius „paveda atlikti hipotekos teisėjo funkcijas“ ir šią dalį išdėstyti taip:
@@ -97,7 +102,7 @@ Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. Baigiamosios nuostatos
+### 8 straipsnis. Baigiamosios nuostatos ^s-4014b4a30c261ba01424ca36
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

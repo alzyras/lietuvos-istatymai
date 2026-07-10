@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "b3df7eb04ab511f0b070ee7f1ceefc75"
 pavadinimas: "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 ir 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 ir 3 straipsnių pakeitimo įstatymas"
+  - "smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 ir 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2025-07-01"
 latest_path: "latest/b3df7eb04ab511f0b070ee7f1ceefc75.md"
 latest_sha256: "5b0b9921764084a50449d428716a2f0f5831df7a97fe304e644b07df63d31208"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/b3df7eb04ab511f0b070ee7f1ceefc75]]"
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 ir 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/b3df7eb04ab511f0b070ee7f1ceefc75.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/b3df7eb04ab511f0b070ee7f1ceefc75
+- Ryšiai: [[Ryšiai/b3df7eb04ab511f0b070ee7f1ceefc75|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-b2b524ed716275344bbaecc2
 
 
 Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip:
@@ -39,29 +44,29 @@ Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-d4ed9cec7002c58837272196
 
 
-1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip: ^be20c105c634f28ff09dc4d2
+1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip: ^s-08b36026ff542ed480278e84
 
 
 „6. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įregistravimo Juridinių asmenų registro informacinėje sistemoje.“
 
 
-2. Pakeisti 3 straipsnio 11 dalį ir ją išdėstyti taip: ^a67c3050fe94181de58bb777
+2. Pakeisti 3 straipsnio 11 dalį ir ją išdėstyti taip: ^s-bdf9ce11bcc15bd1dcce22c7
 
 
 „11. Įmonės, turinčios patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nėra patvirtinti, šio straipsnio 1, 2 ir 3 dalyse nustatytų sąlygų atitiktis nustatoma pagal vidutinį metinį darbuotojų skaičių, finansinius duomenis (pasirinktinai – balanse nurodyto turto vertę arba metines pajamas) nuo įmonės įregistravimo Juridinių asmenų registro informacinėje sistemoje ir planuojamus finansinių metų duomenis.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-ec3567b52a49152d627285de
 
 
-1. Šis įstatymas įsigalioja 2025 m. liepos 1 d. ^67e2d69acf187f9a97473bbc
+1. Šis įstatymas įsigalioja 2025 m. liepos 1 d. ^s-d9fcf99de368d72f858926e7
 
 
-2. Iki 2025 m. birželio 30 d. paskelbtų kvietimų dėl valstybės paramos startuoliams teikimo sąlygoms taikomas iki 2025 m. birželio 30 d. galiojęs teisinis reguliavimas. ^2439c0b1bcb5dce7a1d73c84
+2. Iki 2025 m. birželio 30 d. paskelbtų kvietimų dėl valstybės paramos startuoliams teikimo sąlygoms taikomas iki 2025 m. birželio 30 d. galiojęs teisinis reguliavimas. ^s-97fcf345d61e50dd718785a6
 
 
 

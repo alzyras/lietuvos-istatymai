@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B47BA891E221"
 pavadinimas: "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 18(1) straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 18(1) straipsnio papildymo įstatymas"
+  - "žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 18(1) straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-14"
 latest_path: "latest/TAR.B47BA891E221.md"
 latest_sha256: "1081ecc1950586f1afcbafad5ca7962571b77ac367e4c4c7f9b8264f0fe04497"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B47BA891E221]]"
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 18(1) straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B47BA891E221.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B47BA891E221
+- Ryšiai: [[Ryšiai/TAR.B47BA891E221|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 181 straipsnio 1 dalies papildymas 4 punktu
+### 1 straipsnis. 181 straipsnio 1 dalies papildymas 4 punktu ^s-164530a2769710f3e99b3ce9
 
 
 Papildyti 181 straipsnio 1 dalį 4 punktu:
@@ -41,13 +46,13 @@ Papildyti 181 straipsnio 1 dalį 4 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-199a3108d958bbd82fa45dca
 
 
-1. Šio Įstatymo [[#1 straipsnis. 181 straipsnio 1 dalies papildymas 4 punktu|1 straipsnyje]] išdėstytame 181 straipsnio 1 dalies 4 punkte nurodytiems asmenims mokamas tokio dydžio žalos atlyginimas, į kokį jie turėjo teisę 2003 m. sausio 1 d. ^b981524b771017339f37bbc5
+1. Šio Įstatymo [[#^s-164530a2769710f3e99b3ce9|1 straipsnyje]] išdėstytame 181 straipsnio 1 dalies 4 punkte nurodytiems asmenims mokamas tokio dydžio žalos atlyginimas, į kokį jie turėjo teisę 2003 m. sausio 1 d. ^s-7ab916787e4aba2cedc615a1
 
 
-2. Šio Įstatymo nuostatos taikomos nuo 2003 m. sausio 1 d. ^7ed1f4b8e9631046edeef7e0
+2. Šio Įstatymo nuostatos taikomos nuo 2003 m. sausio 1 d. ^s-35326a51026719ac27805d12
 
 
 

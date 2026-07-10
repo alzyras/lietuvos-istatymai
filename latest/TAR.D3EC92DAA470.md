@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D3EC92DAA470"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 14, 54, 55 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 14, 54, 55 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 14, 54, 55 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-20"
 latest_path: "latest/TAR.D3EC92DAA470.md"
 latest_sha256: "e026bb83f9fbcb36f1f4938c2ec559e760d00ec66b1645d9dcf76992faee8143"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D3EC92DAA470]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 14, 54, 55 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D3EC92DAA470.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D3EC92DAA470
+- Ryšiai: [[Ryšiai/TAR.D3EC92DAA470|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies papildymas 13 punktu
+### 1 straipsnis. 2 straipsnio 1 dalies papildymas 13 punktu ^s-2ee7e63d8fa2df2a82aabd96
 
 
 Papildyti 2 straipsnio 1 dalį 13 punktu:
@@ -43,7 +48,7 @@ Papildyti 2 straipsnio 1 dalį 13 punktu:
 
 
 
-### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-cdf6c667efe3b23cc2d9b766
 
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 3 dalies pakeitimas ^s-f5458b7556bf1bc59d3d38b4
 
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 14 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 14 straipsnio 1 dalies pakeitimas ^s-79f9db3613ecaa822ab3ed42
 
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 54 straipsnio 2 dalies 5 punkto pakeitimas
+### 5 straipsnis. 54 straipsnio 2 dalies 5 punkto pakeitimas ^s-d7733cf56124e4c0a7afb371
 
 
 Pakeisti 54 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
@@ -83,7 +88,7 @@ Pakeisti 54 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 55 straipsnio 2 dalies papildymas 5 punktu
+### 6 straipsnis. 55 straipsnio 2 dalies papildymas 5 punktu ^s-c74b583046439624c8ac3fae
 
 
 Papildyti 55 straipsnio 2 dalį 5 punktu:
@@ -93,14 +98,14 @@ Papildyti 55 straipsnio 2 dalį 5 punktu:
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-b5044aaf980b35d2ede65674
 
 
-Šis įstatymas, išskyrus [[#8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|8 straipsnį]], įsigalioja 2010 m. rugpjūčio 1 d.
+Šis įstatymas, išskyrus [[#^s-b1e4a4e5a996b0ebdf1c66b9|8 straipsnį]], įsigalioja 2010 m. rugpjūčio 1 d.
 
 
 
-### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-b1e4a4e5a996b0ebdf1c66b9
 
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo parengia šio įstatymo įgyvendinamuosius teisės aktus.

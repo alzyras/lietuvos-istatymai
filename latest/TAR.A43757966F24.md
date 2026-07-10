@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A43757966F24"
 pavadinimas: "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 33 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 33 straipsnio pakeitimo įstatymas"
+  - "autorių teisių ir gretutinių teisių įstatymo 33 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-03-27"
 latest_path: "latest/TAR.A43757966F24.md"
 latest_sha256: "e0c1b270f4c4378980381609e92afe4e53c8de645b862bcd21af98d1adf04712"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A43757966F24]]"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 33 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A43757966F24.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A43757966F24
+- Ryšiai: [[Ryšiai/TAR.A43757966F24|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 33 straipsnio pakeitimas
+### 1 straipsnis. 33 straipsnio pakeitimas ^s-54fc1fcdfc45349c88600aff
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1941F78E8CF7"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 19, 24 ir 56 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 19, 24 ir 56 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 19, 24 ir 56 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.1941F78E8CF7.md"
 latest_sha256: "a48a9496aef7219e02a3c566ee3bde0696fcf359247ff5960665cfba505fc36a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1941F78E8CF7]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 19, 24 ir 56 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1941F78E8CF7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1941F78E8CF7
+- Ryšiai: [[Ryšiai/TAR.1941F78E8CF7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 1 dalies pakeitimas ^s-eb291a68a70f3565236e56d0
 
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 24 straipsnio pakeitimas
+### 2 straipsnis. 24 straipsnio pakeitimas ^s-5c335ecf40fd43d1d3a79793
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
@@ -52,26 +57,26 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 „24 straipsnis. Valstybinės socialinio draudimo senatvės pensijos papildomos dalies dydis
 
 
-1. Valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama asmenims, turintiems teisę gauti valstybinę socialinio draudimo senatvės pensiją ir turintiems valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, pagal formulę 0,005 x S x K x D. Joje: ^d489accd2ddb0e2c5402cc98
-S – visas asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (8 straipsnio 2, 3 ir 4 dalys bei 54 straipsnio 1 ir [[#^dad834496c59950550d228c7|2 dalys]]);
+1. Valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama asmenims, turintiems teisę gauti valstybinę socialinio draudimo senatvės pensiją ir turintiems valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, pagal formulę 0,005 x S x K x D. Joje: ^s-5110f8e270c9ad7713b6e300
+S – visas asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (8 straipsnio 2, 3 ir 4 dalys bei 54 straipsnio 1 ir [[#^s-58f465f7a76198f8f7319810|2 dalys]]);
 K – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d. (19 straipsnis, 56 straipsnio 3 dalis);
 D – Vyriausybės patvirtintos einamųjų metų draudžiamosios pajamos, galiojančios tą mėnesį, už kurį mokama pensija (16 straipsnio 1 dalis).
 
 
-2. Asmenų, turinčių valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d., prašymu valstybinės socialinio draudimo senatvės pensijos papildoma dalis gali būti apskaičiuojama pagal formulę 0,005 x s x k x D + 0,005 x S x K x D. Joje: ^dad834496c59950550d228c7
-s – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d. (54 straipsnio 1 ir [[#^dad834496c59950550d228c7|2 dalys]]);
+2. Asmenų, turinčių valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d., prašymu valstybinės socialinio draudimo senatvės pensijos papildoma dalis gali būti apskaičiuojama pagal formulę 0,005 x s x k x D + 0,005 x S x K x D. Joje: ^s-58f465f7a76198f8f7319810
+s – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d. (54 straipsnio 1 ir [[#^s-58f465f7a76198f8f7319810|2 dalys]]);
 k – asmens draudžiamųjų pajamų koeficientas iki 1994 m. sausio 1 d. (56 straipsnis);
 S – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu po 1994 m. sausio 1 d. (8 straipsnio 2, 3 ir 4 dalys);
 K – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d. (19 straipsnis, 56 straipsnio 3 dalis);
 D – Vyriausybės patvirtintos einamųjų metų draudžiamosios pajamos, galiojančios tą mėnesį, už kurį mokama pensija (16 straipsnio 1 dalis).
 
 
-3. [[#^dad834496c59950550d228c7|Šio straipsnio 2 dalyje]] nurodyta tvarka valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama, jeigu asmeniui tai naudinga.“ ^3896ceac3e89ebcf014636d8
+3. [[#^s-58f465f7a76198f8f7319810|Šio straipsnio 2 dalyje]] nurodyta tvarka valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama, jeigu asmeniui tai naudinga.“ ^s-55a06532f45e7ad3780f2ff6
 
 
 
 
-### 3 straipsnis. 56 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 56 straipsnio 2 dalies pakeitimas ^s-61b5526c4c0f46fc661fcc46
 
 
 Pakeisti 56 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -81,7 +86,7 @@ Pakeisti 56 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-9ffd08d3785e53ec6b7e48ae
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

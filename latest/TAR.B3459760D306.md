@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B3459760D306"
 pavadinimas: "Lietuvos Respublikos ir Šiaurės investicijų banko sutarties dėl paskolos \"Via Baltica\" projektui finansuoti ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Šiaurės investicijų banko sutarties dėl paskolos \"Via Baltica\" projektui finansuoti ratifikavimo įstatymas"
+  - "ir Šiaurės investicijų banko sutarties dėl paskolos \"Via Baltica\" projektui finansuoti ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-16"
 latest_path: "latest/TAR.B3459760D306.md"
 latest_sha256: "735ef3752097466fb005bf5ca9064dddedadd9df02a5dcbfaa23f04f046e26a7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B3459760D306]]"
 ---
 # Lietuvos Respublikos ir Šiaurės investicijų banko sutarties dėl paskolos "Via Baltica" projektui finansuoti ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B3459760D306.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B3459760D306
+- Ryšiai: [[Ryšiai/TAR.B3459760D306|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-76b1bc3ac81e80779abb0066
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. spalio 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Šiaurės investicijų banko sutartį dėl 6,7 mln. JAV dolerių paskolos „Via Baltica“ projektui finansuoti“, ratifikuoja Lietuvos Respublikos ir Šiaurės investicijų banko sutartį dėl 6,7 mln. JAV dolerių paskolos „Via Baltica“ projektui finansuoti.

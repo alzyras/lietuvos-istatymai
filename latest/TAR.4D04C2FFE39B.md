@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D04C2FFE39B"
 pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio pakeitimo įstatymas"
+  - "valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.4D04C2FFE39B.md"
 latest_sha256: "01d74e3d4bb3e3e8b550e46049d9f60060aaaa5897a9f06de1b8291fb93f6201"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D04C2FFE39B]]"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D04C2FFE39B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D04C2FFE39B
+- Ryšiai: [[Ryšiai/TAR.4D04C2FFE39B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis.         Valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio 2 dalies 23 punkto pripažinimas netekusiu galios
+### 1 straipsnis.         Valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio 2 dalies 23 punkto pripažinimas netekusiu galios ^s-3babb625baf10b1579544e24
 
 
 7 straipsnio 2 dalies 23 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f22ab81bc97383473e4dc92f
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

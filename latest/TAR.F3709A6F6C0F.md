@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F3709A6F6C0F"
 pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2 straipsnio papildymo įstatymas"
+  - "gyventojų turto ir pajamų deklaravimo įstatymo 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-06-21"
 latest_path: "latest/TAR.F3709A6F6C0F.md"
 latest_sha256: "1570588992d0638717de5701cd3d7292d2ed64010eb90a96524179b60afed455"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F3709A6F6C0F]]"
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F3709A6F6C0F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F3709A6F6C0F
+- Ryšiai: [[Ryšiai/TAR.F3709A6F6C0F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 2 punkto papildymas
+### 1 straipsnis. 2 straipsnio 1 dalies 2 punkto papildymas ^s-e09e09a2b4d79b6e75c2bd36
 
 
 2 straipsnio 1 dalies 2 punkte po žodžių „ir sumokėtą pajamų mokestį“ įrašyti žodžius „išskyrus turtą ar pajamas, gautus už suteiktą pagalbą slaptai bendradarbiaujant su operatyvinės veiklos subjektais“ ir šį punktą išdėstyti taip:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9B15915572D7"
 pavadinimas: "Dėl buvusių Lietuvos TSR sąjunginio-respublikinio pavaldumo Valstybės valdymo organų statuso pakeitimo"
+aliases:
+  - "Dėl buvusių Lietuvos TSR sąjunginio-respublikinio pavaldumo Valstybės valdymo organų statuso pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-03-11"
 latest_path: "latest/TAR.9B15915572D7.md"
 latest_sha256: "3bc2feb71ebdee182e8f4a9af79a4535e4437871e1ccfae584a8c1e12e828829"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9B15915572D7]]"
 ---
 # Dėl buvusių Lietuvos TSR sąjunginio-respublikinio pavaldumo Valstybės valdymo organų statuso pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9B15915572D7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9B15915572D7
+- Ryšiai: [[Ryšiai/TAR.9B15915572D7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

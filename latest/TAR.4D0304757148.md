@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D0304757148"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 35 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 35 straipsnio papildymo įstatymas"
+  - "valstybės kontrolės įstatymo 35 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-31"
 latest_path: "latest/TAR.4D0304757148.md"
 latest_sha256: "ca9f1d26635a857d4e6c3ea8bebfe2e4cdacd758e155380b80d4c60856b7df9c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D0304757148]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 35 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D0304757148.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D0304757148
+- Ryšiai: [[Ryšiai/TAR.4D0304757148|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 35 straipsnio 3 punkto papildymas
+### 1 straipsnis. 35 straipsnio 3 punkto papildymas ^s-be86e74d9427dc75c1d72c40
 
 
 35 straipsnio 3 punktą papildyti ir išdėstyti taip:

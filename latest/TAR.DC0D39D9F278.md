@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DC0D39D9F278"
 pavadinimas: "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 8 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 8 straipsnių pakeitimo įstatymas"
+  - "valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 8 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-08-01"
 latest_path: "latest/TAR.DC0D39D9F278.md"
 latest_sha256: "57b9b895299e169a4cb8ad7c6f1f58251c1c825a25c610c513cb62376a366f4f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DC0D39D9F278]]"
 ---
 # Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 ir 8 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DC0D39D9F278.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DC0D39D9F278
+- Ryšiai: [[Ryšiai/TAR.DC0D39D9F278|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 6 dalies pakeitimas ^s-3e0541de438d9b6a24ee7d3e
 
 
 Pakeisti 5 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 5 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 8 straipsnio 7 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 7 dalies pakeitimas ^s-652365101e09176312e2466f
 
 
 Pakeisti 8 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 8 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-7bc270c215ba97f92b4622fb
 
 
 Šis įstatymas įsigalioja 2011 m. rugpjūčio 1 d.

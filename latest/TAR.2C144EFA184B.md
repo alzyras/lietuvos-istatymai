@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2C144EFA184B"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-23"
 latest_path: "latest/TAR.2C144EFA184B.md"
 latest_sha256: "1f7c11b2307a85fac75206d6dd6787de7b604afc1919abe4b54476cd352aab94"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2C144EFA184B]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2C144EFA184B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2C144EFA184B
+- Ryšiai: [[Ryšiai/TAR.2C144EFA184B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

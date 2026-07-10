@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.606495E318F6"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 12, 16, 17, 18, 22, 29, 34 straipsnių pakeitimo ir papildymo, Įstatymo papildymo III skyriaus ketvirtuoju skirsniu ir 34-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 12, 16, 17, 18, 22, 29, 34 straipsnių pakeitimo ir papildymo, Įstatymo papildymo III skyriaus ketvirtuoju skirsniu ir 34-1 straipsniu įstatymas"
+  - "alkoholio kontrolės įstatymo 2, 12, 16, 17, 18, 22, 29, 34 straipsnių pakeitimo ir papildymo, Įstatymo papildymo III skyriaus ketvirtuoju skirsniu ir 34-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.606495E318F6.md"
 latest_sha256: "b7ab2dc24489860356c53da9560b3b930e301491c521b5a6cdaaa9477a63ec34"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.606495E318F6]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 12, 16, 17, 18, 22, 29, 34 straipsnių pakeitimo ir papildymo, Įstatymo papildymo III skyriaus ketvirtuoju skirsniu ir 34-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.606495E318F6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.606495E318F6
+- Ryšiai: [[Ryšiai/TAR.606495E318F6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 18 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 18 dalies pakeitimas ^s-d289e96e25729b69ee857342
 
 
 2 straipsnio 18 dalyje išbraukti žodžius „išskyrus aukštąsias mokyklas“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 12 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 12 straipsnio 3 dalies pakeitimas ^s-48b4a1d3c75f9df6d781e58b
 
 
 12 straipsnio 3 dalyje išbraukti antrą ir trečią sakinius ir šią dalį išdėstyti taip:
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 16 straipsnio 7 dalies pakeitimas
+### 3 straipsnis. 16 straipsnio 7 dalies pakeitimas ^s-b8cfb1bceb542ee708aefe70
 
 
 16 straipsnio 7 dalyje išbraukti antrą, trečią ir ketvirtą sakinius ir šią dalį išdėstyti taip:
@@ -64,93 +69,93 @@ Vilnius
 
 
 
-### 4 straipsnis. 17 straipsnio 2 dalies papildymas 11 punktu ir 3, 4 dalių pakeitimas
+### 4 straipsnis. 17 straipsnio 2 dalies papildymas 11 punktu ir 3, 4 dalių pakeitimas ^s-7471182417b781ee5f0511ec
 
 
-1. Papildyti 17 straipsnio 2 dalį 11 punktu: ^e250cb414e0ae2550fec85f2
+1. Papildyti 17 straipsnio 2 dalį 11 punktu: ^s-3c62cf816ab1e5ebe9e686fa
 
 
 „11) alkoholinius gėrimus atidarytoje pakuotėje automobilių salonuose.“
 
 
-2. Pakeisti 17 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip: ^1d11de5f4746d7dcb27f333e
+2. Pakeisti 17 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip: ^s-16dce18d2df076438f9fb242
 
 
 „7) etilo alkoholiui, naudojamam gamybos (įskaitant biodegalų arba standartus ar teisės aktų nustatytus reikalavimus atitinkančių degalų mišinių gamybą, kuriai naudojamas nedenatūruotas dehidratuotas ir dehidratuotas denatūruotas etilo alkoholis, ir atvejus, kai naudojant etilo alkoholį gamybos operacijų metu jis virsta kitu alkoholio produktu, kuris visas sunaudojamas kito galutinio ne alkoholio produkto gamybai), taip pat techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose, kurį įsigyja, laiko, gabena ir naudoja įmonės, įstaigos ir organizacijos, turinčios Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotus leidimus, išskyrus Lietuvos Respublikos Vyriausybės nustatytus atvejus, kai leidimai nėra privalomi.“
 
 
-3. Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip: ^4873229d0273625f46895af8
+3. Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip: ^s-b0cee3d80af3312728dddd66
 
 
 „4. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
 
 
-### 5 straipsnis. 18 straipsnio 1 ir 3 dalių pakeitimas
+### 5 straipsnis. 18 straipsnio 1 ir 3 dalių pakeitimas ^s-01da6da918a8a5d4ed99496b
 
 
-1. 18 straipsnio 1 dalies 1 punkte po žodžio „pastatuose“ įrašyti žodžius „viešbučių kambariuose įrengtuose minibaruose“ ir šį punktą išdėstyti taip: ^3bf62d8bb5de5daea4f05449
+1. 18 straipsnio 1 dalies 1 punkte po žodžio „pastatuose“ įrašyti žodžius „viešbučių kambariuose įrengtuose minibaruose“ ir šį punktą išdėstyti taip: ^s-0e0cc4968a6a4ab12223a17a
 
 
 „1) alkoholiniais gėrimais – stacionariose specializuotose alkoholinių gėrimų prekybos įmonėse, stacionarių prekybos įmonių specializuotuose alkoholinių gėrimų prekybos skyriuose, stacionariose viešojo maitinimo įmonėse, stacionarių degalinių ir kaimo gyvenamosiose vietovėse esančių stacionarių prekybos įmonių nespecializuotuose skyriuose, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose bei mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose;“.
 
 
-2. Pakeisti 18 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^f1a3f9273acdabce1885c6e6
+2. Pakeisti 18 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-288e76e437a841c2a8a4796a
 
 
 „2) gamyklų supilstytais į tarą natūralios fermentacijos sidru (kurio tūrinė etilo alkoholio koncentracija neviršija 8,5 procento), alumi ir alaus mišiniais su nealkoholiniais gėrimais – kioskuose iki 2010 m. sausio 1 d., paviljonuose, automobiliuose-parduotuvėse (kurios aptarnauja kaimo gyventojus savivaldybės tarybos nustatyta tvarka) ir stacionarių prekybos įmonių nespecializuotuose skyriuose;“.
 
 
-3. 18 straipsnio 1 dalies 4 punkte išbraukti žodžius „masiniuose renginiuose“, „ir mugėse“ ir šį punktą išdėstyti taip: ^08c044b494723c5f61011644
+3. 18 straipsnio 1 dalies 4 punkte išbraukti žodžius „masiniuose renginiuose“, „ir mugėse“ ir šį punktą išdėstyti taip: ^s-2fa7010adf2f42bf1edca670
 
 
 „4) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, – parodose;“.
 
 
-4. Papildyti 18 straipsnio 1 dalį 5 punktu: ^d276c756d6ba9dc8c93682b9
+4. Papildyti 18 straipsnio 1 dalį 5 punktu: ^s-09092dced53a7dcdfce94ba4
 
 
 „5) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 6 procentų, – masiniuose renginiuose ir mugėse.“
 
 
-5. 18 straipsnio 3 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“ ir šį punktą išdėstyti taip: ^62c63d7af8c82c0ac6804fb1
+5. 18 straipsnio 3 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“ ir šį punktą išdėstyti taip: ^s-0371de1ef1446c965625147c
 
 
 „1) laisvės atėmimo, karinėse ir sukarintos tarnybos, policijos ir kitose statutinėse, sveikatos priežiūros, ugdymo įstaigose ir jų teritorijose, taip pat prie šių įstaigų ir maldos namų (atstumu, kurį nustato savivaldybės taryba, suderinusi atitinkamai su šių įstaigų vadovais ir religinėmis bendruomenėmis);“.
 
 
-6. 18 straipsnio 3 dalies 2 punkte vietoj skaičiaus „50“ įrašyti skaičių „30“ ir šį punktą išdėstyti taip: ^b608e146188cd7d82a607f7c
+6. 18 straipsnio 3 dalies 2 punkte vietoj skaičiaus „50“ įrašyti skaičių „30“ ir šį punktą išdėstyti taip: ^s-756afcdfde26ca8f3d1f4e83
 
 
 „2) mažmeninės prekybos įmonėse, kuriose vaikams ir paaugliams skirtų prekių dalis sudaro 30 arba daugiau procentų mažmeninės prekių apyvartos;“.
 
 
-7. Pakeisti18 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^86d24b2d712e741fc1ebc2a5
+7. Pakeisti18 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^s-317c279ba9750a51997844e8
 
 
 „3) masiniuose renginiuose ir mugėse (išskyrus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 6 procentų), parodose (išskyrus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų);“.
 
 
-8. 18 straipsnio 3 dalies 6 punkte po žodžio „pastatuose“ įrašyti žodžius „viešbučių kambariuose įrengtuose minibaruose“ ir šį punktą išdėstyti taip: ^692702bffc9716f993951c46
+8. 18 straipsnio 3 dalies 6 punkte po žodžio „pastatuose“ įrašyti žodžius „viešbučių kambariuose įrengtuose minibaruose“ ir šį punktą išdėstyti taip: ^s-afe6026615bcc361cb234e35
 
 
-„6) nestacionariose mažmeninės prekybos ir viešojo maitinimo įmonėse. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose bei mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat [[#^3bf62d8bb5de5daea4f05449|šio straipsnio 1 dalies]] 2–4 punktuose nurodytais atvejais;“.
+„6) nestacionariose mažmeninės prekybos ir viešojo maitinimo įmonėse. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose bei mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat [[#^s-0e0cc4968a6a4ab12223a17a|šio straipsnio 1 dalies]] 2–4 punktuose nurodytais atvejais;“.
 
 
-9. Pakeisti 18 straipsnio 3 dalies 10 punktą ir jį išdėstyti taip: ^6d044157e9504c67b71120a5
+9. Pakeisti 18 straipsnio 3 dalies 10 punktą ir jį išdėstyti taip: ^s-b9721af497d78bd11006c53e
 
 
 „10) kiekvienų metų rugsėjo 1 dieną, išskyrus viešojo maitinimo įmones. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, viešbučių kambariuose įrengtuose minibaruose, taip pat neapmuitinamose parduotuvėse ir specialiose prekybos vietose, kuriose alkoholiniai gėrimai parduodami tik iš Lietuvos Respublikos išvykstantiems keleiviams;“.
 
 
-10. Pakeisti 18 straipsnio 3 dalies 11 punktą ir jį išdėstyti taip: ^f7feae6f058a3ca1ea9a8b4b
+10. Pakeisti 18 straipsnio 3 dalies 11 punktą ir jį išdėstyti taip: ^s-3ba491b7c4ed055fbc5bd467
 
 
 „11) nuo 22 valandos iki 8 valandos mažmeninės prekybos įmonėse (išskyrus savivaldybių tarybų ribojamus atvejus). Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, neapmuitinamose parduotuvėse ir specialiose prekybos vietose, kuriose alkoholiniai gėrimai parduodami tik iš Lietuvos Respublikos išvykstantiems keleiviams.“
 
 
 
-### 6 straipsnis. III skyriaus papildymas ketvirtuoju skirsniu
+### 6 straipsnis. III skyriaus papildymas ketvirtuoju skirsniu ^s-77fc5b283069e3eec3e5851b
 
 
 Papildyti III skyrių ketvirtuoju skirsniu:
@@ -162,116 +167,116 @@ ATSISAKYMAS IŠDUOTI LICENCIJĄ
 
 
 
-### 181 straipsnis. Atsisakymas išduoti licenciją
+### 181 straipsnis. Atsisakymas išduoti licenciją ^s-700c647a08729c594a347b2e
 
 
 Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar mažmenine prekyba alkoholiniais gėrimais neišduodamos šiais atvejais:
 
 
-1) įmonė pateikia ne visus reikiamus dokumentus ir neįvykdo licencijas išduodančios institucijos reikalavimo pateikti trūkstamus dokumentus; ^f5aeae7dce1b7b0689c472cd
+1) įmonė pateikia ne visus reikiamus dokumentus ir neįvykdo licencijas išduodančios institucijos reikalavimo pateikti trūkstamus dokumentus; ^s-ecc250f53dfd7c71b3e5023a
 
 
-2) įmonė pateikia nevisiškai arba neteisingai užpildytus dokumentus ir neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus; ^73890704c22bf8a7e29f6f5f
+2) įmonė pateikia nevisiškai arba neteisingai užpildytus dokumentus ir neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus; ^s-419933d145688088f9fbd139
 
 
-3) įmonė pateikia dokumentus, neatitinkančius jiems keliamų reikalavimų, ir neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus; ^1e128492e10db8cf74f2263d
+3) įmonė pateikia dokumentus, neatitinkančius jiems keliamų reikalavimų, ir neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus; ^s-72bdea8e1e0bd846cddde3bd
 
 
-4) įmonė turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai įmonei mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolinga Valstybinio socialinio draudimo fondo biudžetui; ^39304376c8601c6d0564690d
+4) įmonė turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai įmonei mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolinga Valstybinio socialinio draudimo fondo biudžetui; ^s-93f29059852768a0a21c43ce
 
 
-5) įmonei buvo panaikintas licencijos galiojimas pagal šio Įstatymo 34 straipsnio 18 dalyje ir (ar) 20 [[#^39304376c8601c6d0564690d|dalies 4 punkte]] nustatytus reikalavimus (licencijos apskritai neišduodamos); ^df318d8eab7289dbe32d5ff4
+5) įmonei buvo panaikintas licencijos galiojimas pagal šio Įstatymo 34 straipsnio 18 dalyje ir (ar) 20 [[#^s-93f29059852768a0a21c43ce|dalies 4 punkte]] nustatytus reikalavimus (licencijos apskritai neišduodamos); ^s-8d554865b30ea9eb0b3bee9d
 
 
-6) norinčių įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo panaikintas licencijų galiojimas pagal šio Įstatymo 34 straipsnio 18 dalyje ir (ar) 20 [[#^39304376c8601c6d0564690d|dalies 4 punkte]] nustatytus reikalavimus, steigėjai, vadovai ar kiti šio Įstatymo 34 straipsnio 18 dalyje nurodyti darbuotojai (licencijos apskritai neišduodamos); ^2044b53044d50777472deeda
+6) norinčių įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo panaikintas licencijų galiojimas pagal šio Įstatymo 34 straipsnio 18 dalyje ir (ar) 20 [[#^s-93f29059852768a0a21c43ce|dalies 4 punkte]] nustatytus reikalavimus, steigėjai, vadovai ar kiti šio Įstatymo 34 straipsnio 18 dalyje nurodyti darbuotojai (licencijos apskritai neišduodamos); ^s-e3d75fa56b6c58b7dfffca0a
 
 
-7) įmonėms arba jų vadovams ar kitiems darbuotojams (jeigu jie veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą (licencijos apskritai neišduodamos); ^0c829fe8a5528bb30789d48c
+7) įmonėms arba jų vadovams ar kitiems darbuotojams (jeigu jie veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą (licencijos apskritai neišduodamos); ^s-e8f68b64870a6000f0f1c91b
 
 
-8) norinčių įsigyti licencijas įmonių steigėjai ar vadovai yra ar buvo įmonių, kuriose nustatyta atvejų, kai buvo gaminami, parduodami ir (ar) laikomi, gabenami alkoholio produktai, neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo šio pažeidimo nustatymo dienos). ^5a5dd2d2dc402c5f627de0d3
-
-
-
-### 182 straipsnis. Kiti atsisakymo išduoti licenciją atvejai
-
-
-1. Be šio Įstatymo [[#181 straipsnis. Atsisakymas išduoti licenciją|181 straipsnyje]] nustatytų atvejų, licencijos gaminti alkoholio produktus neišduodamos ir šiais atvejais: ^d115106ccfaefbfdfacb6826
-
-
-1) įmonei buvo panaikintas licencijos gaminti alkoholio produktus galiojimas pagal šio Įstatymo 34 straipsnio 20 dalies 1 ir (ar) 5 punktuose nustatytus reikalavimus (licencijos neišduodamos vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^3035869d1262acffa4baa6af
-
-
-2) įmonei buvo panaikintas licencijos gaminti alkoholio produktus galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje ir (ar) 20 [[#^6cbb2e372765973415402add|dalies 3 punkte]] nustatytus reikalavimus (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^b05d4edf4f4cf2ba2319020d
-
-
-3) norinčių įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo panaikintas licencijų gaminti alkoholio produktus galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje nustatytus reikalavimus, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos). ^6cbb2e372765973415402add
-
-
-2. Be šio Įstatymo [[#181 straipsnis. Atsisakymas išduoti licenciją|181 straipsnyje]] nustatytų atvejų, licencijos verstis didmenine prekyba alkoholio produktais neišduodamos ir šiais atvejais: ^1b1fbb0004780f4f8bfdf030
-
-
-1) įmonei buvo panaikintas licencijos verstis didmenine prekyba alkoholio produktais galiojimas pagal šio Įstatymo 34 straipsnio 20 dalies 1, 2 ir (ar) 5 punktuose nustatytus reikalavimus (licencijos neišduodamos vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^ba51765bb722d34fadf8929e
-
-
-2) įmonei buvo panaikintas licencijos verstis didmenine prekyba alkoholio produktais galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje ir (ar) 20 [[#^53dda9a37e02baab83299b88|dalies 3 punkte]] nustatytus reikalavimus (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^e0a838f1fde8496f847da284
-
-
-3) norinčių įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo panaikintas licencijų verstis didmenine prekyba alkoholio produktais galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje nustatytus reikalavimus, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^53dda9a37e02baab83299b88
-
-
-4) įmonė nevykdo įsipareigojimų muitinei. ^0725794937562752a1200cb5
-
-
-3. Be šio Įstatymo [[#181 straipsnis. Atsisakymas išduoti licenciją|181 straipsnyje]] nustatytų atvejų, licencijos verstis mažmenine prekyba alkoholiniais gėrimais neišduodamos ir šiais atvejais: ^2342375b63920e672a30d831
-
-
-1) įmonei buvo panaikintas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas pagal šio Įstatymo 34 straipsnio 20 dalies 1, 2 ir (ar) 5 punktuose nustatytus reikalavimus (licencijos neišduodamos vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^de8d192425f4d7365f4cf050
-
-
-2) įmonei buvo panaikintas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas pagal šio Įstatymo 34 straipsnio 17, 19 dalyse ir (ar) 20 [[#^0ca2313c52458b41ec88ff7d|dalies 3 punkte]] nustatytus reikalavimus (licencija verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatytas pažeidimas, jį padariusiai įmonei neišduodama vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^25b6000ebbb15b040e85d0fb
-
-
-3) įmonė, prekiaudama alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse, pažeidė šio Įstatymo 18 straipsnio 4 dalies 3 punkto reikalavimą. Šiuo atveju vienerius metus nuo pažeidimo nustatymo dienos neišduodama vienkartinė licencija verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse, rengiamuose toje savivaldybėje, kurioje nustatytas pažeidimas; ^0ca2313c52458b41ec88ff7d
-
-
-4) įmonė nevykdo įsipareigojimų muitinei (taikoma įmonėms, norinčioms įsigyti licencijas verstis mažmenine prekyba alkoholiniais gėrimais neapmuitinamose parduotuvėse).“ ^822486f8a223283a3979d3bc
+8) norinčių įsigyti licencijas įmonių steigėjai ar vadovai yra ar buvo įmonių, kuriose nustatyta atvejų, kai buvo gaminami, parduodami ir (ar) laikomi, gabenami alkoholio produktai, neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo šio pažeidimo nustatymo dienos). ^s-ecd7509990c6d1552ea9ab5f
 
 
 
-### 7 straipsnis. 22 straipsnio pakeitimas ir papildymas
+### 182 straipsnis. Kiti atsisakymo išduoti licenciją atvejai ^s-d3b1101e6ff525d5c818f92a
 
 
-22 straipsnio 1 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“, papildyti straipsnį 2 ir [[#^41bb1d1c9751e7aef37ecbb1|3 dalimis]] ir visą straipsnį išdėstyti taip:
+1. Be šio Įstatymo [[#^s-700c647a08729c594a347b2e|181 straipsnyje]] nustatytų atvejų, licencijos gaminti alkoholio produktus neišduodamos ir šiais atvejais: ^s-c2c4971627cafb785b1d7815
+
+
+1) įmonei buvo panaikintas licencijos gaminti alkoholio produktus galiojimas pagal šio Įstatymo 34 straipsnio 20 dalies 1 ir (ar) 5 punktuose nustatytus reikalavimus (licencijos neišduodamos vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-b99b0646b49e54b50dc32995
+
+
+2) įmonei buvo panaikintas licencijos gaminti alkoholio produktus galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje ir (ar) 20 [[#^s-18fd89543bac3b31b34bed94|dalies 3 punkte]] nustatytus reikalavimus (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-51b8105d065aca0fb0aa2ea2
+
+
+3) norinčių įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo panaikintas licencijų gaminti alkoholio produktus galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje nustatytus reikalavimus, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos). ^s-18fd89543bac3b31b34bed94
+
+
+2. Be šio Įstatymo [[#^s-700c647a08729c594a347b2e|181 straipsnyje]] nustatytų atvejų, licencijos verstis didmenine prekyba alkoholio produktais neišduodamos ir šiais atvejais: ^s-afd21321ea7ad367b03d9a53
+
+
+1) įmonei buvo panaikintas licencijos verstis didmenine prekyba alkoholio produktais galiojimas pagal šio Įstatymo 34 straipsnio 20 dalies 1, 2 ir (ar) 5 punktuose nustatytus reikalavimus (licencijos neišduodamos vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-f62b2aa318a8f970d539de5e
+
+
+2) įmonei buvo panaikintas licencijos verstis didmenine prekyba alkoholio produktais galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje ir (ar) 20 [[#^s-cc8e23916817c43c9519dd87|dalies 3 punkte]] nustatytus reikalavimus (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-ecd558ea31a627c5a6a73e6e
+
+
+3) norinčių įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo panaikintas licencijų verstis didmenine prekyba alkoholio produktais galiojimas pagal šio Įstatymo 34 straipsnio 17 dalyje nustatytus reikalavimus, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-cc8e23916817c43c9519dd87
+
+
+4) įmonė nevykdo įsipareigojimų muitinei. ^s-764da0317cf182a195b8a7bc
+
+
+3. Be šio Įstatymo [[#^s-700c647a08729c594a347b2e|181 straipsnyje]] nustatytų atvejų, licencijos verstis mažmenine prekyba alkoholiniais gėrimais neišduodamos ir šiais atvejais: ^s-076b12f29273f2a77b8c56f1
+
+
+1) įmonei buvo panaikintas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas pagal šio Įstatymo 34 straipsnio 20 dalies 1, 2 ir (ar) 5 punktuose nustatytus reikalavimus (licencijos neišduodamos vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-54160ab9b874e8bbde5ef9ba
+
+
+2) įmonei buvo panaikintas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas pagal šio Įstatymo 34 straipsnio 17, 19 dalyse ir (ar) 20 [[#^s-4b3a4d79a6abba26ef40132e|dalies 3 punkte]] nustatytus reikalavimus (licencija verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatytas pažeidimas, jį padariusiai įmonei neišduodama vienerius metus nuo anksčiau turėtos licencijos galiojimo panaikinimo dienos); ^s-2538e0ad451872bc3911f8ed
+
+
+3) įmonė, prekiaudama alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse, pažeidė šio Įstatymo 18 straipsnio 4 dalies 3 punkto reikalavimą. Šiuo atveju vienerius metus nuo pažeidimo nustatymo dienos neišduodama vienkartinė licencija verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse, rengiamuose toje savivaldybėje, kurioje nustatytas pažeidimas; ^s-4b3a4d79a6abba26ef40132e
+
+
+4) įmonė nevykdo įsipareigojimų muitinei (taikoma įmonėms, norinčioms įsigyti licencijas verstis mažmenine prekyba alkoholiniais gėrimais neapmuitinamose parduotuvėse).“ ^s-bb8549b935e8f657ccaa8d39
+
+
+
+### 7 straipsnis. 22 straipsnio pakeitimas ir papildymas ^s-94ed8465734a57ffe98ac86e
+
+
+22 straipsnio 1 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“, papildyti straipsnį 2 ir [[#^s-55f0ed0d0f38782d84b7742a|3 dalimis]] ir visą straipsnį išdėstyti taip:
 
 
 
 „22 straipsnis. Alkoholinių gėrimų vartojimo ribojimas
 
 
-1. Lietuvos Respublikoje vartoti alkoholinius gėrimus draudžiama: ^1aae86c58431ed7974745d06
+1. Lietuvos Respublikoje vartoti alkoholinius gėrimus draudžiama: ^s-42cdedf10d68a6d37869e94b
 
 
-1) laisvės atėmimo, karinėse ir sukarintos tarnybos, policijos ir kitose statutinėse, sveikatos priežiūros, ugdymo įstaigose ir jų teritorijose; ^d6bf170b2332c4a8e0b9df19
+1) laisvės atėmimo, karinėse ir sukarintos tarnybos, policijos ir kitose statutinėse, sveikatos priežiūros, ugdymo įstaigose ir jų teritorijose; ^s-39900dd98a8c788e88198fdc
 
 
-2) valstybės valdžios ir valdymo institucijose, išskyrus oficialius priėmimus ir kitus protokolinius renginius. Ši nuostata netaikoma šių institucijų patalpose įrengtose viešojo maitinimo įmonėse, turinčiose licencijas verstis mažmenine prekyba alkoholiniais gėrimais; ^c98420db76a85fc448faa556
+2) valstybės valdžios ir valdymo institucijose, išskyrus oficialius priėmimus ir kitus protokolinius renginius. Ši nuostata netaikoma šių institucijų patalpose įrengtose viešojo maitinimo įmonėse, turinčiose licencijas verstis mažmenine prekyba alkoholiniais gėrimais; ^s-76538e826d87beed4f9706ef
 
 
-3) visų rūšių viešajame transporte, išskyrus tarptautinio susisiekimo traukinius, siaurojo geležinkelio traukinius ir laivus, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, taip pat orlaivius, skrendančius už Lietuvos Respublikos ribų; ^d42f27598342d1df5288ea3c
+3) visų rūšių viešajame transporte, išskyrus tarptautinio susisiekimo traukinius, siaurojo geležinkelio traukinius ir laivus, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, taip pat orlaivius, skrendančius už Lietuvos Respublikos ribų; ^s-6ea133d73dcfad3fa475899c
 
 
-4) viešose vietose, išskyrus viešojo maitinimo įmones, turinčias licencijas verstis mažmenine prekyba alkoholiniais gėrimais, ir parodose, mugėse bei masiniuose renginiuose, kuriuose savivaldybių tarybų nustatyta tvarka įmonėms yra išduotos licencijos prekiauti alkoholiniais gėrimais. ^84931d79a1fe41934f4775eb
+4) viešose vietose, išskyrus viešojo maitinimo įmones, turinčias licencijas verstis mažmenine prekyba alkoholiniais gėrimais, ir parodose, mugėse bei masiniuose renginiuose, kuriuose savivaldybių tarybų nustatyta tvarka įmonėms yra išduotos licencijos prekiauti alkoholiniais gėrimais. ^s-8862f48132a06fd86bcf4db3
 
 
-2. Lietuvos Respublikoje draudžiama asmenims iki 18 metų vartoti alkoholinius gėrimus ar jų turėti. ^5a07ddaf4d199e0b29fa3c00
+2. Lietuvos Respublikoje draudžiama asmenims iki 18 metų vartoti alkoholinius gėrimus ar jų turėti. ^s-12cff0bda827021e98100db3
 
 
-3. Įmonės, turinčios licencijas verstis mažmenine prekyba alkoholiniais gėrimais ir vykdančios viešojo maitinimo veiklą, privalo užtikrinti, kad prekybos alkoholiniais gėrimais vietose asmenys iki 18 metų nevartotų alkoholinių gėrimų.“ ^41bb1d1c9751e7aef37ecbb1
+3. Įmonės, turinčios licencijas verstis mažmenine prekyba alkoholiniais gėrimais ir vykdančios viešojo maitinimo veiklą, privalo užtikrinti, kad prekybos alkoholiniais gėrimais vietose asmenys iki 18 metų nevartotų alkoholinių gėrimų.“ ^s-55f0ed0d0f38782d84b7742a
 
 
 
-### 8 straipsnis. 29 straipsnio 7 dalies pakeitimas
+### 8 straipsnis. 29 straipsnio 7 dalies pakeitimas ^s-a7d580c47f5d162fb92ed9f9
 
 
 Pakeisti 29 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -281,98 +286,98 @@ Pakeisti 29 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 34 straipsnio 1, 3, 6, 11, 12, 14, 17, 18 ir 20 dalių pakeitimas
+### 9 straipsnis. 34 straipsnio 1, 3, 6, 11, 12, 14, 17, 18 ir 20 dalių pakeitimas ^s-68df74a4e0e3ef578467af4a
 
 
-1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^eb0781215d3a9def9f88fa08
+1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^s-70774337958502d9437f4eea
 
 
 „1. Už šio Įstatymo pažeidimus baudas juridiniams asmenims ir užsienio juridinių asmenų filialams bei atstovybėms pagal savo kompetenciją turi teisę skirti Tarnyba, Valstybinė maisto ir veterinarijos tarnyba, Valstybinė mokesčių inspekcija, institucija, Lietuvos Respublikos Vyriausybės įgaliota išduoti vyno produktų ir žemės ūkio kilmės etilo alkoholio importo ir eksporto licencijas, Lietuvos Respublikos Vyriausybės įgaliota institucija, kuri turi būti informuojama apie alkoholio produktų (išskyrus vyno produktus ir žemės ūkio kilmės etilo alkoholį) importą, savivaldybių institucijos ir policija.“
 
 
-2. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip: ^39db30e1911acf04aaa0a345
+2. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip: ^s-615a867e647240279af70584
 
 
-„3. Už šio Įstatymo 17 straipsnio 1 dalies 1 ir 12 punktuose, [[#^39db30e1911acf04aaa0a345|2 dalies]] 1, 10 ir 11 punktuose, 18 straipsnio 1, [[#^73dd3aaf359b80a875f61ca9|3 dalyse]], [[#^a57e0b96dac5fb4055dcb837|4 dalies]] 1, 2 punktuose, [[#^e410721c1bddf633469dc07b|9 dalyje]] ir 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per dvejus metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda.“
+„3. Už šio Įstatymo 17 straipsnio 1 dalies 1 ir 12 punktuose, [[#^s-615a867e647240279af70584|2 dalies]] 1, 10 ir 11 punktuose, 18 straipsnio 1, [[#^s-649030d05d1906495a08f6b5|3 dalyse]], [[#^s-8c5abb19313b1885c1997a92|4 dalies]] 1, 2 punktuose, [[#^s-9eb964c7d2bbf7b8dbc4b1df|9 dalyje]] ir 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per dvejus metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda.“
 
 
-3. Pakeisti 34 straipsnio 6 dalį ir ją išdėstyti taip: ^73dd3aaf359b80a875f61ca9
+3. Pakeisti 34 straipsnio 6 dalį ir ją išdėstyti taip: ^s-649030d05d1906495a08f6b5
 
 
 „6. Už šio Įstatymo 29 straipsnio reikalavimų nesilaikymą juridiniai asmenys ir užsienio juridinių asmenų filialai bei atstovybės baudžiami nuo dešimties tūkstančių litų iki penkiasdešimties tūkstančių litų bauda, už kiekvieną to paties reikalavimo pakartotinį pažeidimą, padarytą per dvejus metus nuo baudos paskyrimo, – nuo penkiasdešimties tūkstančių litų iki šimto tūkstančių litų bauda.“
 
 
-4. Pakeisti 34 straipsnio 11 dalį ir ją išdėstyti taip: ^a57e0b96dac5fb4055dcb837
+4. Pakeisti 34 straipsnio 11 dalį ir ją išdėstyti taip: ^s-8c5abb19313b1885c1997a92
 
 
-„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^39db30e1911acf04aaa0a345|2 dalies]] 2, 3, 6–11 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir [[#^e410721c1bddf633469dc07b|9 dalyse]], 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
+„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-615a867e647240279af70584|2 dalies]] 2, 3, 6–11 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir [[#^s-9eb964c7d2bbf7b8dbc4b1df|9 dalyse]], 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
 
 
-5. 34 straipsnio 12 dalyje išbraukti žodžius „bei teritorinės valstybinės mokesčių inspekcijos“ ir šią dalį išdėstyti taip: ^51c8153d066722693c162449
+5. 34 straipsnio 12 dalyje išbraukti žodžius „bei teritorinės valstybinės mokesčių inspekcijos“ ir šią dalį išdėstyti taip: ^s-23aa541abb1071a9becbeae2
 
 
-„12. Baudas už šio įstatymo 17 straipsnio 1 dalies 2, 3, 7, 9–12 punktuose, [[#^39db30e1911acf04aaa0a345|2 dalies]] 2, 3, 6, 8–10 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1 dalyje, [[#^73dd3aaf359b80a875f61ca9|3 dalies]] 6–8 punktuose, 4 dalies 1 punkte nustatytų reikalavimų nesilaikymą skiria Valstybinė mokesčių inspekcija.“
+„12. Baudas už šio įstatymo 17 straipsnio 1 dalies 2, 3, 7, 9–12 punktuose, [[#^s-615a867e647240279af70584|2 dalies]] 2, 3, 6, 8–10 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1 dalyje, [[#^s-649030d05d1906495a08f6b5|3 dalies]] 6–8 punktuose, 4 dalies 1 punkte nustatytų reikalavimų nesilaikymą skiria Valstybinė mokesčių inspekcija.“
 
 
-6. Pakeisti 34 straipsnio 14 dalį ir ją išdėstyti taip: ^89105f8964739d8b7a655eec
+6. Pakeisti 34 straipsnio 14 dalį ir ją išdėstyti taip: ^s-31d676d8c12d80809908050a
 
 
 „14. Baudas už šio Įstatymo 29 straipsnyje nustatytų reikalavimų pažeidimus skiria Tarnyba ir savivaldybių institucijos (už išorinės reklamos draudimo pažeidimus).“
 
 
-7. Pakeisti 34 straipsnio 17 dalį ir ją išdėstyti taip: ^37de9c7ace7fcb5a75ab20eb
+7. Pakeisti 34 straipsnio 17 dalį ir ją išdėstyti taip: ^s-64a5dccea7416f0c6bd72402
 
 
-„17. Įmonėms, turinčioms licencijas gaminti alkoholio produktus ar licencijas verstis didmenine prekyba alkoholio produktais ir pažeidusioms šio Įstatymo 17 straipsnio 1 dalies 2, 4, 8 ir (ar) 9 punktų, [[#^39db30e1911acf04aaa0a345|2 dalies]] 2, 4 ir (ar) 7 punktų reikalavimus, licencijų galiojimas panaikinamas ir naujos licencijos neišduodamos penkerius metus nuo licencijų galiojimo panaikinimo dienos. Įmonėms, turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais ir pažeidusioms šio Įstatymo 17 straipsnio 1 dalies 2, 4, 8 ir (ar) 9 punktų, [[#^39db30e1911acf04aaa0a345|2 dalies]] 2, 4 ir (ar) 7 punktų reikalavimus, licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatytas pažeidimas, galiojimas panaikinamas ir nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos.“
+„17. Įmonėms, turinčioms licencijas gaminti alkoholio produktus ar licencijas verstis didmenine prekyba alkoholio produktais ir pažeidusioms šio Įstatymo 17 straipsnio 1 dalies 2, 4, 8 ir (ar) 9 punktų, [[#^s-615a867e647240279af70584|2 dalies]] 2, 4 ir (ar) 7 punktų reikalavimus, licencijų galiojimas panaikinamas ir naujos licencijos neišduodamos penkerius metus nuo licencijų galiojimo panaikinimo dienos. Įmonėms, turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais ir pažeidusioms šio Įstatymo 17 straipsnio 1 dalies 2, 4, 8 ir (ar) 9 punktų, [[#^s-615a867e647240279af70584|2 dalies]] 2, 4 ir (ar) 7 punktų reikalavimus, licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatytas pažeidimas, galiojimas panaikinamas ir nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos.“
 
 
-8. 34 straipsnio 18 dalyje išbraukti žodį „administracijos“, po žodžio „muitinės“ įrašyti žodį „Valstybinės“ ir šią dalį išdėstyti taip: ^1c5f1dcd1a0c892bbd168fd7
+8. 34 straipsnio 18 dalyje išbraukti žodį „administracijos“, po žodžio „muitinės“ įrašyti žodį „Valstybinės“ ir šią dalį išdėstyti taip: ^s-55c21cc8b2c7f3e5d5676291
 
 
 „18. Įmonėms licencijų galiojimas panaikinamas ir pakartotinai licencijos neišduodamos, jeigu joms arba jų vadovams ar kitiems darbuotojams (jeigu jie veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą.“
 
 
-9. 34 straipsnio 19 dalyje vietoj žodžių „šio straipsnio 20 dalyje nurodytas įmones“ įrašyti žodžius „įmones, turinčias vienkartines licencijas verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse“ ir šią dalį išdėstyti taip: ^e410721c1bddf633469dc07b
+9. 34 straipsnio 19 dalyje vietoj žodžių „šio straipsnio 20 dalyje nurodytas įmones“ įrašyti žodžius „įmones, turinčias vienkartines licencijas verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse“ ir šią dalį išdėstyti taip: ^s-9eb964c7d2bbf7b8dbc4b1df
 
 
-„19. Įmonėms, turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais (išskyrus įmones, turinčias vienkartines licencijas verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse), per trejus metus nuo [[#^a57e0b96dac5fb4055dcb837|šio straipsnio 4 dalyje]] nustatytos baudos už šio Įstatymo 18 straipsnio 4 dalies 3 punkto reikalavimo pažeidimą pirmą kartą paskyrimo ir pažeidusioms šį reikalavimą toje pačioje prekybos vietoje pakartotinai, panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatyti pažeidimai, galiojimas ir nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos.“
+„19. Įmonėms, turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais (išskyrus įmones, turinčias vienkartines licencijas verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse), per trejus metus nuo [[#^s-8c5abb19313b1885c1997a92|šio straipsnio 4 dalyje]] nustatytos baudos už šio Įstatymo 18 straipsnio 4 dalies 3 punkto reikalavimo pažeidimą pirmą kartą paskyrimo ir pažeidusioms šį reikalavimą toje pačioje prekybos vietoje pakartotinai, panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatyti pažeidimai, galiojimas ir nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos.“
 
 
-10. Pakeisti 34 straipsnio 20 dalį ir ją išdėstyti taip: ^68c2338bb00c54c650975b19
+10. Pakeisti 34 straipsnio 20 dalį ir ją išdėstyti taip: ^s-bb9428d448f443eda95baf1d
 
 
 „20. Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar verstis mažmenine prekyba alkoholiniais gėrimais galiojimas panaikinamas ir šiais atvejais:
 
 
-1) paaiškėja, kad licencijai gauti įmonė pateikė neteisingus duomenis; ^4207ac6eccd5be014c449e46
+1) paaiškėja, kad licencijai gauti įmonė pateikė neteisingus duomenis; ^s-378c1c8e22b2b640f2c1cffe
 
 
-2) įmonė, kuriai buvo sustabdytas licencijos verstis didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais gėrimais galiojimas, per nustatytą terminą nepašalina nurodytų licencijuojamos veiklos pažeidimų; ^77a3a987a60f5bb17a2dcd0b
+2) įmonė, kuriai buvo sustabdytas licencijos verstis didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais gėrimais galiojimas, per nustatytą terminą nepašalina nurodytų licencijuojamos veiklos pažeidimų; ^s-967c0755c4f609803bac4c17
 
 
-3) įmonė nesilaiko šio Įstatymo 17 straipsnio 5–11 dalyse nustatytų reikalavimų; ^556b9d8f2400b91680d5e28b
+3) įmonė nesilaiko šio Įstatymo 17 straipsnio 5–11 dalyse nustatytų reikalavimų; ^s-a9d56cb19714ac802fc8c8c2
 
 
-4) pasikeitus įmonės vadovui paaiškėja, kad naujam įmonės vadovui yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, laikymą ar gabenimą ir per licenciją išdavusios institucijos nustatytą terminą įmonė šio vadovo nepakeičia; ^73a58be67445646c00295456
+4) pasikeitus įmonės vadovui paaiškėja, kad naujam įmonės vadovui yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, laikymą ar gabenimą ir per licenciją išdavusios institucijos nustatytą terminą įmonė šio vadovo nepakeičia; ^s-2846bf8e064dcce1c20517cc
 
 
-5) įmonė verčiasi licencijoje nurodyta veikla arba laiko licencijoje nurodytus alkoholio produktus ne toje vietoje, kuri nurodyta licencijoje; ^5e9efa4676d5c35cb07c5320
+5) įmonė verčiasi licencijoje nurodyta veikla arba laiko licencijoje nurodytus alkoholio produktus ne toje vietoje, kuri nurodyta licencijoje; ^s-5297bd098782ceb92e8bb48f
 
 
-6) yra gautas teritorinės valstybinės maisto ir veterinarijos tarnybos pranešimas apie įmonei išduoto maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimo panaikinimą už nustatytus pažeidimus (panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas toje prekybos vietoje, kuriai panaikintas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas, o alkoholio produktų gamybos ir didmeninės prekybos licencijose išbraukiami tie padaliniai, kuriems panaikintas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas); ^b2dd171c383585e9fd73cd79
+6) yra gautas teritorinės valstybinės maisto ir veterinarijos tarnybos pranešimas apie įmonei išduoto maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimo panaikinimą už nustatytus pažeidimus (panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais galiojimas toje prekybos vietoje, kuriai panaikintas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas, o alkoholio produktų gamybos ir didmeninės prekybos licencijose išbraukiami tie padaliniai, kuriems panaikintas maisto tvarkymo subjekto patvirtinimo pažymėjimo galiojimas); ^s-ba6bf97120a574d0ba9a7a61
 
 
-7) įmonė pateikia paraišką panaikinti licencijos galiojimą; ^e1de9bf94a37cb3550510e67
+7) įmonė pateikia paraišką panaikinti licencijos galiojimą; ^s-d79cfea3733d2cd29c34a301
 
 
-8) įmonė likviduojama ar reorganizuojama, baigdama veiklą kaip savarankiškas juridinis asmuo; ^7ac2d16f05a8985d7638cfe3
+8) įmonė likviduojama ar reorganizuojama, baigdama veiklą kaip savarankiškas juridinis asmuo; ^s-ce962cd0f2724784da20f249
 
 
-9) įmonė, kuri buvo įspėta apie galimą licencijos galiojimo panaikinimą, per nustatytą terminą nepašalina nurodytų licencijuojamos veiklos pažeidimų.“ ^35aefa9fb6e15bc90dc98388
+9) įmonė, kuri buvo įspėta apie galimą licencijos galiojimo panaikinimą, per nustatytą terminą nepašalina nurodytų licencijuojamos veiklos pažeidimų.“ ^s-29a7b00b1840ae845b9c8e3f
 
 
 
-### 10 straipsnis. Įstatymo papildymas 341 straipsniu
+### 10 straipsnis. Įstatymo papildymas 341 straipsniu ^s-698fa92d3bfa6d4381fd3b8d
 
 
 Papildyti Įstatymą 341 straipsniu:
@@ -386,13 +391,13 @@ Už licencijuojamos veiklos sąlygų pažeidimus įmonės, turinčios licencijas
 
 
 
-### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-6762aa9ae6f4dfc761cd242e
 
 
-1. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir patvirtina būtinus šiam įstatymui įgyvendinti teisės aktus. ^6c5433be2ab811395c22384e
+1. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir patvirtina būtinus šiam įstatymui įgyvendinti teisės aktus. ^s-d425f05dc9ca633418977571
 
 
-2. Šis įstatymas, išskyrus [[#2 straipsnis. 12 straipsnio 3 dalies pakeitimas|2 straipsnį]], [[#3 straipsnis. 16 straipsnio 7 dalies pakeitimas|3 straipsnį]], [[#^1d11de5f4746d7dcb27f333e|4 straipsnio 2 dalį]], [[#5 straipsnis. 18 straipsnio 1 ir 3 dalių pakeitimas|5 straipsnio]] 1, 8, 9 dalis, [[#6 straipsnis. III skyriaus papildymas ketvirtuoju skirsniu|6 straipsnį]], [[#8 straipsnis. 29 straipsnio 7 dalies pakeitimas|8 straipsnį]], [[#9 straipsnis. 34 straipsnio 1, 3, 6, 11, 12, 14, 17, 18 ir 20 dalių pakeitimas|9 straipsnio]] 1, 3, 5, 6, 7, 8, 9, 10 dalis, [[#10 straipsnis. Įstatymo papildymas 341 straipsniu|10 straipsnį]], įsigalioja 2009 m. sausio 1 d. ^5cdd7038805558958dd7f0ea
+2. Šis įstatymas, išskyrus [[#^s-48b4a1d3c75f9df6d781e58b|2 straipsnį]], [[#^s-b8cfb1bceb542ee708aefe70|3 straipsnį]], [[#^s-16dce18d2df076438f9fb242|4 straipsnio 2 dalį]], [[#^s-01da6da918a8a5d4ed99496b|5 straipsnio]] 1, 8, 9 dalis, [[#^s-77fc5b283069e3eec3e5851b|6 straipsnį]], [[#^s-a7d580c47f5d162fb92ed9f9|8 straipsnį]], [[#^s-68df74a4e0e3ef578467af4a|9 straipsnio]] 1, 3, 5, 6, 7, 8, 9, 10 dalis, [[#^s-698fa92d3bfa6d4381fd3b8d|10 straipsnį]], įsigalioja 2009 m. sausio 1 d. ^s-9647d151dcc205803e2d18bd
 
 
 

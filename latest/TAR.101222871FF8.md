@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.101222871FF8"
 pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės reformos įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "žemės reformos įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-03"
 latest_path: "latest/TAR.101222871FF8.md"
 latest_sha256: "df815ad22d176e67bbfa257df72c45e8ed623b7e3162759108caf8cce665bd67"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.101222871FF8]]"
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.101222871FF8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.101222871FF8
+- Ryšiai: [[Ryšiai/TAR.101222871FF8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 7 straipsnio 1 punkto pripažinimas netekusiu galios ^s-2a6e3227c0528f5b2668b619
 
 
 7 straipsnio 1 punktą pripažinti netekusiu galios.

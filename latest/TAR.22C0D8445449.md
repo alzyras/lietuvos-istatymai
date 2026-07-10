@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.22C0D8445449"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 2.38 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 2.38 straipsnio pakeitimo įstatymas"
+  - "civilinio kodekso 2.38 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-19"
 latest_path: "latest/TAR.22C0D8445449.md"
 latest_sha256: "c0c58c7b575ac043f42ba071bec859ab40a20617f0e9b2c54c1f615fc2b5c0e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.22C0D8445449]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 2.38 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.22C0D8445449.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.22C0D8445449
+- Ryšiai: [[Ryšiai/TAR.22C0D8445449|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2.38 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2.38 straipsnio 2 dalies pakeitimas ^s-c4bd7599dc3e3bb7f4584a74
 
 
 Pakeisti 2.38 straipsnio 2 dalį ir ją išdėstyti taip:

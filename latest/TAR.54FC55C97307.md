@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.54FC55C97307"
 pavadinimas: "Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+  - "reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-10-06"
 latest_path: "latest/TAR.54FC55C97307.md"
 latest_sha256: "1ae12d9a5872f07952e170ea653a28835a5d788e751bae289bf5271144541cd5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.54FC55C97307]]"
 ---
 # Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.54FC55C97307.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.54FC55C97307
+- Ryšiai: [[Ryšiai/TAR.54FC55C97307|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,39 +36,39 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas ^s-66d4cd14fddb1384e166f204
 
 
-1. Papildyti [[#1 straipsnis. 1 straipsnio pakeitimas ir papildymas|1 straipsnį]] nauja 4 dalimi: ^38279062ce214947a9562711
+1. Papildyti [[#^s-66d4cd14fddb1384e166f204|1 straipsnį]] nauja 4 dalimi: ^s-96a0a072a52c91466a797185
 
 
 „4. Šio įstatymo nuostatos atitinkamai taikomos dėl Bendrijoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kai pažeidžiamos šio įstatymo 5 ar 6 straipsnio nuostatos.“
 
 
-2. Buvusias [[#1 straipsnis. 1 straipsnio pakeitimas ir papildymas|1 straipsnio]] 4, 5 ir 6 dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^2783246196716ffd9babd8b5
+2. Buvusias [[#^s-66d4cd14fddb1384e166f204|1 straipsnio]] 4, 5 ir 6 dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^s-1e4df6a0c83a7a16f6d72e69
 
 
-3. 1 straipsnio 7 dalyje vietoj žodžių „yra suderintos su“ įrašyti žodį „įgyvendina“, vietoj žodžių „aktais, nurodytais“ įrašyti žodžius „aktus, nurodytus“ ir šią dalį išdėstyti taip: ^4bcee38afe046cb9a687b0a1
+3. 1 straipsnio 7 dalyje vietoj žodžių „yra suderintos su“ įrašyti žodį „įgyvendina“, vietoj žodžių „aktais, nurodytais“ įrašyti žodžius „aktus, nurodytus“ ir šią dalį išdėstyti taip: ^s-9d90825043dd609d51587036
 
 
 „7. Šio įstatymo nuostatos įgyvendina Europos Sąjungos teisės aktus, nurodytus šio įstatymo priede.“
 
 
 
-### 2 straipsnis. 17 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 17 straipsnio pakeitimas ir papildymas ^s-2df08e3b410d852514d7ec61
 
 
-1. Papildyti 17 straipsnį nauja 3 dalimi: ^a65b96a0f9723fb3767cd1d0
+1. Papildyti 17 straipsnį nauja 3 dalimi: ^s-ecf5b89995d6af5bafc1889b
 
 
 „3. Konkurencijos taryba yra atsakinga už 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.“
 
 
-2. Buvusią 17 straipsnio 3 dalį laikyti 4 dalimi. ^ae638716f82fd253590ad43d
+2. Buvusią 17 straipsnio 3 dalį laikyti 4 dalimi. ^s-fd09f159bbfb5691839a815e
 
 
 
-### 3 straipsnis. 19 straipsnio papildymas 3 dalimi
+### 3 straipsnis. 19 straipsnio papildymas 3 dalimi ^s-8aa8c1e1ad99304404f6e108
 
 
 Papildyti 19 straipsnį 3 dalimi:
@@ -73,7 +78,7 @@ Papildyti 19 straipsnį 3 dalimi:
 
 
 
-### 4 straipsnis. Įstatymo priedo pakeitimas
+### 4 straipsnis. Įstatymo priedo pakeitimas ^s-ef73f65e5979e2f5d6e7b2e6
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
@@ -81,20 +86,20 @@ Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-reklamos įstatymo
+[[latest/TAR.303FC0152D04|reklamos įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1984 m. rugsėjo 10 d. Tarybos direktyva 84/450/EEB dėl valstybių narių įstatymų ir kitų teisės aktų dėl klaidinančios reklamos suderinimo (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 227). ^0f4c2657f00466ce3a7b1a9d
+1. 1984 m. rugsėjo 10 d. Tarybos direktyva 84/450/EEB dėl valstybių narių įstatymų ir kitų teisės aktų dėl klaidinančios reklamos suderinimo (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 227). ^s-b2cbf870557fcd7206b60b11
 
 
-2. 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva 97/55/EB, iš dalies pakeičianti Direktyvą 84/450 dėl klaidinančios reklamos taip, kad būtų įtraukta lyginamoji reklama (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 365). ^2408f2e3629af263c966fb65
+2. 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva 97/55/EB, iš dalies pakeičianti Direktyvą 84/450 dėl klaidinančios reklamos taip, kad būtų įtraukta lyginamoji reklama (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 365). ^s-a35f7a6318df4e6e3c417841
 
 
-3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 m. L 364, p. 1).“ ^c1efe6434feb37f8175701d6
+3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 m. L 364, p. 1).“ ^s-28c1b7678a7d9ce4af7eb046
 
 
 

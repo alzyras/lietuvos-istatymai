@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FCB6C3C80AC1"
 pavadinimas: "Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "Valstybinės lietuvių kalbos komisijos įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.FCB6C3C80AC1.md"
 latest_sha256: "6e59b27ca890d9dcef790dc91eb90ad2a34500ddeed545742cffbdaf8370dffc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FCB6C3C80AC1]]"
 ---
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FCB6C3C80AC1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FCB6C3C80AC1
+- Ryšiai: [[Ryšiai/TAR.FCB6C3C80AC1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-83942e06bc0567ce032af618
 
 
 6 straipsnio 3 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ebd144aeb00cf2c0dc6e9843
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

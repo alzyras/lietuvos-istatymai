@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.83C0D87BD821"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.83C0D87BD821.md"
 latest_sha256: "9d18a8721e5eb1249e622c0eeeed27c728901d130841e9b57276b2e7ba4f735e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.83C0D87BD821]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.83C0D87BD821.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.83C0D87BD821
+- Ryšiai: [[Ryšiai/TAR.83C0D87BD821|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,50 +38,50 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 1, 2 dalių, 3 dalies 1, 3 punktų ir 4 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 1, 2 dalių, 3 dalies 1, 3 punktų ir 4 dalies pakeitimas ^s-94a4f26c7dee56ee5b8fd336
 
 
-1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip: ^9d8f857b293e7511eed616dd
+1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip: ^s-0483e6c66a6bbac557175638
 
 
 „1. Prekių tiekimo bei įsigijimo iš kitos valstybės narės ir paslaugų teikimo atvejais, nenurodytais šio straipsnio 3, 4, 5 ir 6 dalyse bei šio Įstatymo IV ir V skyriuose, taikomas standartinis PVM tarifas.“
 
 
-2. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^8d7c01698649469911cb0155
+2. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^s-e8f4db7af202753c345d1c9d
 
 
 „2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3, 4 ir 5 dalyse bei šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas.“
 
 
-3. 19 straipsnio 3 dalies 1 punkte vietoj datos „2013 m. gruodžio 31 d.“ įrašyti datą „2014 m. gruodžio 31 d.“ ir šį punktą išdėstyti taip: ^bdf3f6ad2d5ab86ce301f233
+3. 19 straipsnio 3 dalies 1 punkte vietoj datos „2013 m. gruodžio 31 d.“ įrašyti datą „2014 m. gruodžio 31 d.“ ir šį punktą išdėstyti taip: ^s-61d166132f61ba736efa1db0
 
 
 „1) iki 2014 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;“.
 
 
-4. Pakeisti 19 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^b49e3ba1d35c0bbc728595c7
+4. Pakeisti 19 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^s-222690bcfbd3eed1a063f551
 
 
 „3) turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms;“.
 
 
-5. Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip: ^f6bad0df87ed5ae1a8910dd9
+5. Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip: ^s-808da186d793a56f43b2d82c
 
 
 „4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-af570af4016b7847eb497bc0
 
 
-1. Šis įstatymas, išskyrus [[#^b49e3ba1d35c0bbc728595c7|1 straipsnio 4 dalyje]] išdėstytą Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 3 punktą, įsigalioja 2014 m. sausio 1 d. ^d73cd46b8034c127fed4e440
+1. Šis įstatymas, išskyrus [[#^s-222690bcfbd3eed1a063f551|1 straipsnio 4 dalyje]] išdėstytą [[latest/TAR.ED68997709F5#^s-4fca119f3223ae6edc245c09|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 3 punktą]], įsigalioja 2014 m. sausio 1 d. ^s-f371dfd19cedc91457e29355
 
 
-2. Šio įstatymo [[#^b49e3ba1d35c0bbc728595c7|1 straipsnio 4 dalyje]] išdėstytas Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 3 punktas įsigalioja 2015 m. sausio 1 d. ^6b1a7119ca47224473399838
+2. Šio įstatymo [[#^s-222690bcfbd3eed1a063f551|1 straipsnio 4 dalyje]] išdėstytas [[latest/TAR.ED68997709F5#^s-4fca119f3223ae6edc245c09|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 3 punktas]] įsigalioja 2015 m. sausio 1 d. ^s-fef51eed2f5c13203074330c
 
 
-3. Šio įstatymo [[#^bdf3f6ad2d5ab86ce301f233|1 straipsnio 3 dalyje]] išdėstytos Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto nuostatos taikomos tame punkte nurodytoms iki 2014 m. gruodžio 31 d. faktiškai patiektoms prekėms. ^1f10b6fad04e7facc186c24b
+3. Šio įstatymo [[#^s-61d166132f61ba736efa1db0|1 straipsnio 3 dalyje]] išdėstytos [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto]] nuostatos taikomos tame punkte nurodytoms iki 2014 m. gruodžio 31 d. faktiškai patiektoms prekėms. ^s-18f5b384541bb24586573a15
 
 
 

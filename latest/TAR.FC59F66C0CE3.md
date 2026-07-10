@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FC59F66C0CE3"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 32 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 32 straipsnio pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 32 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-31"
 latest_path: "latest/TAR.FC59F66C0CE3.md"
 latest_sha256: "5a7fc43d3aa15cee722d320cd377a4cb25fbc26302bceba81950df6e51d44401"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FC59F66C0CE3]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 32 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FC59F66C0CE3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FC59F66C0CE3
+- Ryšiai: [[Ryšiai/TAR.FC59F66C0CE3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 32 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 32 straipsnio 2 dalies pakeitimas ^s-dc7933be44be11c1f6c5b943
 
 
 Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:

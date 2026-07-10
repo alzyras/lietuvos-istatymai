@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F59B9B8A74E1"
 pavadinimas: "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo įstatymas"
+  - "gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-05"
 latest_path: "latest/TAR.F59B9B8A74E1.md"
 latest_sha256: "c0f5202c697032bf4dc6722d911cd565615e4aa477fe0bf29a7ca4a948ede14d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F59B9B8A74E1]]"
 ---
 # Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F59B9B8A74E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F59B9B8A74E1
+- Ryšiai: [[Ryšiai/TAR.F59B9B8A74E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 4 dalies pakeitimas ^s-58fd55bc1616dce332defdf9
 
 
 Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -42,23 +47,23 @@ Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-9530bc61b94f69d2852d5e76
 
 
-3 straipsnio 1 dalies 2 sakinyje vietoj žodžio „Vyriausybė“ įrašyti žodžius „Sveikatos apsaugos ministerija“, pakeisti [[#^697aefa5b8e59f45dabf6dc6|šio straipsnio 2 dalį]] ir šį straipsnį išdėstyti taip:
+3 straipsnio 1 dalies 2 sakinyje vietoj žodžio „Vyriausybė“ įrašyti žodžius „Sveikatos apsaugos ministerija“, pakeisti [[#^s-d8acb14f0de79c37cced6b6d|šio straipsnio 2 dalį]] ir šį straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. 9 straipsnio 1 dalies pakeitimas|3 straipsnis]]. Gydytojo medicinos praktikos reguliavimo pagrindai
+„[[#^s-b71dbf0e38a8442f44d8ea01|3 straipsnis]]. Gydytojo medicinos praktikos reguliavimo pagrindai
 
 
-1. Licencijas verstis medicinos praktika (pirmine ir specializuota) gydytojams išduoda, įregistruoja, perregistruoja, sustabdo, atnaujina ir panaikina Sveikatos apsaugos ministerija šio įstatymo ir Gydytojo medicinos praktikos licencijavimo nuostatų nustatyta tvarka. Gydytojo medicinos praktikos licencijavimo nuostatus tvirtina Sveikatos apsaugos ministerija. ^32f588dc5e2dfa3d3e698ccb
+1. Licencijas verstis medicinos praktika (pirmine ir specializuota) gydytojams išduoda, įregistruoja, perregistruoja, sustabdo, atnaujina ir panaikina Sveikatos apsaugos ministerija šio įstatymo ir Gydytojo medicinos praktikos licencijavimo nuostatų nustatyta tvarka. Gydytojo medicinos praktikos licencijavimo nuostatus tvirtina Sveikatos apsaugos ministerija. ^s-1aa6a5ba1af98c57ee500f4f
 
 
-2. Sveikatos apsaugos ministerija [[#^32f588dc5e2dfa3d3e698ccb|šio straipsnio 1 dalyje]] nurodytai veiklai sudaro nuolatinę komisiją, kurios sudėtį, sudarymo tvarką ir veiklą reglamentuoja Gydytojo medicinos praktikos licencijavimo nuostatai.“ ^697aefa5b8e59f45dabf6dc6
+2. Sveikatos apsaugos ministerija [[#^s-1aa6a5ba1af98c57ee500f4f|šio straipsnio 1 dalyje]] nurodytai veiklai sudaro nuolatinę komisiją, kurios sudėtį, sudarymo tvarką ir veiklą reglamentuoja Gydytojo medicinos praktikos licencijavimo nuostatai.“ ^s-d8acb14f0de79c37cced6b6d
 
 
 
-### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-b71dbf0e38a8442f44d8ea01
 
 
 9 straipsnio 1 dalyje vietoj žodžio „tris“ įrašyti žodį „penkias“ ir šią dalį išdėstyti taip:
@@ -68,7 +73,7 @@ Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 10 straipsnio 3 dalies papildymas
+### 4 straipsnis. 10 straipsnio 3 dalies papildymas ^s-ce631530ad70a9386541d172
 
 
 10 straipsnio 3 dalyje po žodžio „pirminės“ įrašyti žodžius „ar specializuotos“, po žodžio „ministeriją“ įrašyti žodį „dienos“ ir šią dalį išdėstyti taip:
@@ -78,7 +83,7 @@ Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 12 straipsnio 3 punkto pakeitimas
+### 5 straipsnis. 12 straipsnio 3 punkto pakeitimas ^s-ca8ead54f5be1d6c7edaab63
 
 
 Iš 12 straipsnio 3 punkto išbraukti paskutinįjį sakinį ir šį punktą išdėstyti taip:
@@ -88,23 +93,23 @@ Iš 12 straipsnio 3 punkto išbraukti paskutinįjį sakinį ir šį punktą išd
 
 
 
-### 6 straipsnis. 13 straipsnio 1 ir 2 dalių papildymas ir pakeitimas
+### 6 straipsnis. 13 straipsnio 1 ir 2 dalių papildymas ir pakeitimas ^s-b38f1513498afc9a78dda52d
 
 
-1. Papildyti 13 straipsnio 1 dalį ir ją išdėstyti taip: ^2fc8fedb88098b5ec5b9faac
+1. Papildyti 13 straipsnio 1 dalį ir ją išdėstyti taip: ^s-9d3db52592d9a23455761619
 
 
-„1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi [[#^a9e24a6e581c86c2c95a9395|šio straipsnio 2 dalyje]] nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos. Sveikatos apsaugos ministerija apie priimtą sprendimą per penkias darbo dienas praneša gydytojui bei jo darbdaviui. Pagal šį sprendimą darbdavys privalo nutraukti darbo sutartį su gydytoju Darbo sutarties įstatymo nustatyta tvarka.“
+„1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi [[#^s-09c0f2cebdda41bc1f09a478|šio straipsnio 2 dalyje]] nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos. Sveikatos apsaugos ministerija apie priimtą sprendimą per penkias darbo dienas praneša gydytojui bei jo darbdaviui. Pagal šį sprendimą darbdavys privalo nutraukti darbo sutartį su gydytoju Darbo sutarties įstatymo nustatyta tvarka.“
 
 
-2. Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip: ^a9e24a6e581c86c2c95a9395
+2. Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip: ^s-09c0f2cebdda41bc1f09a478
 
 
 „2. Dėl licencijos galiojimo panaikinimo gali kreiptis Lietuvos medicinos etikos komitetas, Valstybinė medicininio audito inspekcija, savivaldybių gydytojai, sveikatos priežiūros įstaigos administracija, atitinkamos gydytojų specialybės mokslinė draugija.“
 
 
 
-### 7 straipsnis. 14 straipsnio 5 dalies pakeitimas ir papildymas
+### 7 straipsnis. 14 straipsnio 5 dalies pakeitimas ir papildymas ^s-b7a00351a97e05ebf9a020da
 
 
 14 straipsnio 5 dalyje vietoj žodžio „tris“ įrašyti žodį „penkias“, šią dalį papildyti ir išdėstyti taip:
@@ -114,7 +119,7 @@ Iš 12 straipsnio 3 punkto išbraukti paskutinįjį sakinį ir šį punktą išd
 
 
 
-### 8 straipsnis. 17 straipsnio 2 punkto pakeitimas
+### 8 straipsnis. 17 straipsnio 2 punkto pakeitimas ^s-15d2109bda36d067d7ecac06
 
 
 Pakeisti 17 straipsnio 2 punktą ir jį išdėstyti taip:

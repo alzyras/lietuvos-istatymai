@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6D421F578408"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Sutarties dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Sutarties dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų ratifikavimo"
+  - "įstatymas dėl Sutarties dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-02"
 latest_path: "latest/TAR.6D421F578408.md"
 latest_sha256: "31cf7b0b57b8c2a4f7b3df32c8b1a8675624080da6310a84a2b4547b6473babe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6D421F578408]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Sutarties dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6D421F578408.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6D421F578408
+- Ryšiai: [[Ryšiai/TAR.6D421F578408|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-70d28bafc6c83808eebe3924
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą Nr. 1075, ratifikuoja Sutartį dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų.
 
 
 
-### 2 straipsnis. Sutarties įgyvendinimas
+### 2 straipsnis. Sutarties įgyvendinimas ^s-c7ee3afaf882d6346f45d003
 
 
 Lietuvos Respublikos Vyriausybė paskiria kompetentingą instituciją Sutarties dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų nuostatoms įgyvendinti.

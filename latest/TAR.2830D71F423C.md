@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2830D71F423C"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 4 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 4 ir 7 straipsnių pakeitimo įstatymas"
+  - "užsienio valiutos Lietuvos respublikoje įstatymo 4 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-04-14"
 latest_path: "latest/TAR.2830D71F423C.md"
 latest_sha256: "d54cf7ad004eed118f1afe525c02b5f5803553143990d8106a1508db65bf1e82"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2830D71F423C]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 4 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2830D71F423C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2830D71F423C
+- Ryšiai: [[Ryšiai/TAR.2830D71F423C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-9531fbd62e1d67bfb180c88e
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
@@ -47,7 +52,7 @@ Lietuvos Respublikos juridinių asmenų ir įmonių, neturinčių juridinio asme
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-41a0c32cb7b1d9ed42639577
 
 
 7 straipsnyje po žodžio „išvežimo“ įrašyti žodžius „taip pat už užsienio paskolų registravimo“ ir šį straipsnį išdėstyti taip:

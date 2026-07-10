@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F10FD4A3BB48"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5 ir 7-2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5 ir 7-2 straipsnių pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 2, 5 ir 7-2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-04"
 latest_path: "latest/TAR.F10FD4A3BB48.md"
 latest_sha256: "4de4fd204676d5628bb6ed928512473a8fc27b4d17cf7e8dfc5f5fdf692c76ca"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F10FD4A3BB48]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5 ir 7-2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F10FD4A3BB48.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F10FD4A3BB48
+- Ryšiai: [[Ryšiai/TAR.F10FD4A3BB48|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 27 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies 27 punkto pakeitimas ^s-1b50a95c5c0396bbf8d70d9a
 
 
 Pakeisti 2 straipsnio 1 dalies 27 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 1 dalies 27 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-cf7b057944f8c1a315d95fed
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 72 straipsnio pakeitimas
+### 3 straipsnis. 72 straipsnio pakeitimas ^s-dd584b79ba02611b1a3e493b
 
 
 
@@ -63,13 +68,13 @@ Pakeisti 72 straipsnį ir jį išdėstyti taip:
 „72 straipsnis. Asmenų, aukojančių savarankiškam politinės kampanijos dalyviui, ir jų šeimos narių turto (įskaitant gautas pajamas) deklaravimas
 
 
-1. Asmenys, prieš suteikdami auką savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš metus, kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas) pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^5de254787d845898a5e5e1d3
+1. Asmenys, prieš suteikdami auką savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš metus, kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas) pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^s-c3e6a0f222acd30f8dc97775
 
 
-2. Deklaracija pateikiama likus ne mažiau kaip 10 darbo dienų iki aukos suteikimo. ^bfed24500e2989ee29d18bdc
+2. Deklaracija pateikiama likus ne mažiau kaip 10 darbo dienų iki aukos suteikimo. ^s-a153f849102ad0d2c460bdc5
 
 
-3. Asmenys, šiame įstatyme nustatyta tvarka deklaravę kalendorinių metų, einančių prieš metus, kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą ir pajamas, prieš suteikdami auką savarankiškam politinės kampanijos dalyviui pakartotinai šių kalendorinių metų deklaracijos neteikia.“ ^09e26f5f7f3f25e8be6daa07
+3. Asmenys, šiame įstatyme nustatyta tvarka deklaravę kalendorinių metų, einančių prieš metus, kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą ir pajamas, prieš suteikdami auką savarankiškam politinės kampanijos dalyviui pakartotinai šių kalendorinių metų deklaracijos neteikia.“ ^s-5f81f4e1914424899cf6e739
 
 
 

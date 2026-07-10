@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.661273A88968"
 pavadinimas: "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.661273A88968.md"
 latest_sha256: "c26b3c3fd3d415173dfd5ac6cfe5d27a777d71cf701a7ebbdc94ebaf5510244f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.661273A88968]]"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.661273A88968.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.661273A88968
+- Ryšiai: [[Ryšiai/TAR.661273A88968|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-9090f2eae6290ee7daf9be59
 
 
 6 straipsnio 1 dalyje po žodžių „Valstybės žiniose“ įrašyti žodžius „ar Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 „1. Lietuvos Respublikos Vyriausybė, ministerijos ir kitos valstybės ar savivaldybių institucijos ir įstaigos, Specialiųjų tyrimų tarnybai pareikalavus, per 5 darbo dienas privalo jai pateikti priimtus, tačiau „Valstybės žiniose“ ar Teisės aktų registre neskelbtus teisės aktus.“
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-fe648561fffc4ccbfb4a0bbf
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

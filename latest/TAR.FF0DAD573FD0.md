@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FF0DAD573FD0"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Protokolo, iš dalies pakeičiančio Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo, ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Protokolo, iš dalies pakeičiančio Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo, ratifikavimo"
+  - "įstatymas dėl Protokolo, iš dalies pakeičiančio Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo, ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-08"
 latest_path: "latest/TAR.FF0DAD573FD0.md"
 latest_sha256: "ede7356bf345887214730cdeee86ea7444bc57fa7c8bc175310e81ec992312e6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FF0DAD573FD0]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Protokolo, iš dalies pakeičiančio Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo, ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FF0DAD573FD0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FF0DAD573FD0
+- Ryšiai: [[Ryšiai/TAR.FF0DAD573FD0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-32609f867ecdfa0cc0c7150d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. vasario 27 d. dekretą Nr. 386, ratifikuoja 2003 m. lapkričio 28 d. Vilniuje pasirašytą Protokolą, iš dalies pakeičiantį Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo.

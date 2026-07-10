@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.109B71E8E0C3"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 29, 30 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 29, 30 straipsnių pakeitimo ir papildymo įstatymas"
+  - "alkoholio kontrolės įstatymo 29, 30 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-16"
 latest_path: "latest/TAR.109B71E8E0C3.md"
 latest_sha256: "ea7584d45842a668c317774ca32d55c66297fd78ebe625651526cdae16cd7d85"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.109B71E8E0C3]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 29, 30 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.109B71E8E0C3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.109B71E8E0C3
+- Ryšiai: [[Ryšiai/TAR.109B71E8E0C3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 1 dalies 4 punkto pakeitimas
+### 1 straipsnis. 29 straipsnio 1 dalies 4 punkto pakeitimas ^s-87e41624b586c5b22ec784b6
 
 
 29 straipsnio 1 dalies 4 punkte išbraukti žodžius „išskyrus alų ir putojančius vynus, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų“ ir šį punktą išdėstyti taip:
@@ -41,32 +46,32 @@ Vilnius
 
 
 
-### 2 straipsnis. 30 straipsnio 2 dalies 4 ir 8 punktų papildymas ir 5 dalies pakeitimas
+### 2 straipsnis. 30 straipsnio 2 dalies 4 ir 8 punktų papildymas ir 5 dalies pakeitimas ^s-03d8541b5a792a4481146d28
 
 
-1. Papildyti 30 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip: ^1540cc7cc6ac2d3497044af7
+1. Papildyti 30 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip: ^s-3b817e5cdaaff3b8c1dc515d
 
 
 „4) koncertų, cirko, diskotekų ir kitų masinių renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus šių renginių vietose esančiose prekybos vietose šio straipsnio šeštojoje dalyje leidžiamą pateikti informaciją. Masiniuose renginiuose (išskyrus renginius, skirtus vaikams ir paaugliams iki 18 metų) taip pat gali būti pateikiamas renginį remiančios ir gaminančios alkoholinius gėrimus, kuriais leidžiama prekiauti masiniuose renginiuose, arba jais prekiaujančios įmonės pavadinimas ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys teisės aktų reikalavimams;“.
 
 
-2. 30 straipsnio 2 dalies 8 punkte po žodžio „teritorijose“ įrašyti žodžius „esančiose alkoholinių gėrimų prekybos vietose, išskyrus šio straipsnio šeštojoje dalyje numatytą alkoholinių gėrimų prekybos vietose leidžiamą pateikti informaciją“ ir šį punktą išdėstyti taip: ^fcba240c0d4b182008a6baf6
+2. 30 straipsnio 2 dalies 8 punkte po žodžio „teritorijose“ įrašyti žodžius „esančiose alkoholinių gėrimų prekybos vietose, išskyrus šio straipsnio šeštojoje dalyje numatytą alkoholinių gėrimų prekybos vietose leidžiamą pateikti informaciją“ ir šį punktą išdėstyti taip: ^s-e26a96b3525bba1aedbb0277
 
 
 „8) degalinėse ir jų teritorijose esančiose alkoholinių gėrimų prekybos vietose, išskyrus šio straipsnio šeštojoje dalyje numatytą alkoholinių gėrimų prekybos vietose leidžiamą pateikti informaciją;“.
 
 
-3. 30 straipsnio 5 dalyje vietoj žodžių „informacija apie alkoholinius gėrimus prekybos vietose“ įrašyti žodžius „alkoholinių gėrimų prekybos vietoje esanti šio straipsnio šeštojoje dalyje leidžiama pateikti informacija, informacija apie alkoholinius gėrimus“ ir šią dalį išdėstyti taip: ^9aec9a5fb270a7eb5850ad20
+3. 30 straipsnio 5 dalyje vietoj žodžių „informacija apie alkoholinius gėrimus prekybos vietose“ įrašyti žodžius „alkoholinių gėrimų prekybos vietoje esanti šio straipsnio šeštojoje dalyje leidžiama pateikti informacija, informacija apie alkoholinius gėrimus“ ir šią dalį išdėstyti taip: ^s-acb0cee1c464382eb2dff5b3
 
 
 „Reklama nelaikoma alkoholinių gėrimų prekybos vietoje esanti šio straipsnio šeštojoje dalyje leidžiama pateikti informacija, informacija apie alkoholinius gėrimus informaciniuose pranešimuose, kurie skirti tik alkoholio verslo specialistams, taip pat alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių registruoti pavadinimai (jei alkoholinių gėrimų gamintojo pavadinimas yra sudėtinė šių įmonių registruoto pavadinimo dalis) bei prekių ženklai, kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių įmonių buveinės ar padalinio pastato bei įmonių specializuoto transporto.“
 
 
 
-### 3 straipsnis. Įstatymo 1 straipsnio įsigaliojimas
+### 3 straipsnis. Įstatymo 1 straipsnio įsigaliojimas ^s-3eac7b4ba09e72622e2149d7
 
 
-Šio Įstatymo [[#1 straipsnis. 29 straipsnio 1 dalies 4 punkto pakeitimas|1 straipsnis]] įsigalioja nuo 2003 m. spalio 1 d.
+Šio Įstatymo [[#^s-87e41624b586c5b22ec784b6|1 straipsnis]] įsigalioja nuo 2003 m. spalio 1 d.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.07C6FA6CC42B"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 5 straipsnio ir 3 priedėlio pakeitimo bei 11 straipsnio 2 dalies įgyvendinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 5 straipsnio ir 3 priedėlio pakeitimo bei 11 straipsnio 2 dalies įgyvendinimo įstatymas"
+  - "mokesčio už aplinkos teršimą įstatymo 5 straipsnio ir 3 priedėlio pakeitimo bei 11 straipsnio 2 dalies įgyvendinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.07C6FA6CC42B.md"
 latest_sha256: "5d96dbeff0391e80d7c4fbba57e4f8c0827546b9d973056fe6bf012306ebd29c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.07C6FA6CC42B]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 5 straipsnio ir 3 priedėlio pakeitimo bei 11 straipsnio 2 dalies įgyvendinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.07C6FA6CC42B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.07C6FA6CC42B
+- Ryšiai: [[Ryšiai/TAR.07C6FA6CC42B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas ^s-14427b992c5b2f2615a8fd40
 
 
 Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 priedėlio pakeitimas
+### 2 straipsnis. 3 priedėlio pakeitimas ^s-9fb73183dffd6f3cfa915f45
 
 
 Pakeisti 3 priedėlio 1, 2, 4 punktus bei nuorodą ir 3 priedėlį išdėstyti taip:
@@ -50,7 +55,7 @@ Pakeisti 3 priedėlio 1, 2, 4 punktus bei nuorodą ir 3 priedėlį išdėstyti t
 
 „Lietuvos Respublikos
 2002 m. sausio 22 d.
-įstatymo Nr. IX-720
+[[latest/TAR.7E966DA54042|įstatymo Nr. IX-720]]
 3 priedėlis
 
 APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
@@ -117,17 +122,17 @@ APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
 
 
 
-### 3 straipsnis. 11 straipsnio 2 dalies įgyvendinimas
+### 3 straipsnis. 11 straipsnio 2 dalies įgyvendinimas ^s-df32733eb339e0429e32fc35
 
 
-Mokesčio už aplinkos teršimą iš stacionarių ir mobilių taršos šaltinių tarifai, nustatyti Mokesčio už aplinkos teršimą įstatymo 1 ir 5 priedėliuose, 2005–2009 metų periodui atitinkamai nustatomi šio Įstatymo 1 ir 2 priedėliuose (pridedami).
+Mokesčio už aplinkos teršimą iš stacionarių ir mobilių taršos šaltinių tarifai, nustatyti [[latest/TAR.FFF9AE9162EE|Mokesčio už aplinkos teršimą įstatymo]] 1 ir 5 priedėliuose, 2005–2009 metų periodui atitinkamai nustatomi šio Įstatymo 1 ir 2 priedėliuose (pridedami).
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-ccd8a092fdf5cfc200bc6820
 
 
-Šis Įstatymas, išskyrus 1 ir [[#2 straipsnis. 3 priedėlio pakeitimas|2 straipsnius]], įsigalioja nuo 2005 m. sausio 1 d.
+Šis Įstatymas, išskyrus 1 ir [[#^s-9fb73183dffd6f3cfa915f45|2 straipsnius]], įsigalioja nuo 2005 m. sausio 1 d.
 
 
 
@@ -381,7 +386,7 @@ TARIFAI
  2009 m.
 
 
- 1. Motorinėms  transporto  priemonėms su vidaus degimo  varikliais ^6cd1f5b03daddc898a4446b3
+ 1. Motorinėms  transporto  priemonėms su vidaus degimo  varikliais ^s-42fbf60b0211612b9b3a5f88
  benzinas
  21
  21
@@ -414,7 +419,7 @@ TARIFAI
  16
 
 
- 2. Laivams ^98e9941e72aa78d1a6021b4c
+ 2. Laivams ^s-4678c30953ec090bfac9ad4b
  benzinas
  32
  32
@@ -455,7 +460,7 @@ TARIFAI
  20
 
 
- 3. Geležinkelių transporto priemonėms ^b3dded31659357191c6720e9
+ 3. Geležinkelių transporto priemonėms ^s-bb78df7d6edd420b38cce387
  dyzelinas
  26
  26
@@ -464,7 +469,7 @@ TARIFAI
  26
 
 
- 4. Lėktuvų pakilimo ir nusileidimo ciklui ^93abd44233c62391fa275937
+ 4. Lėktuvų pakilimo ir nusileidimo ciklui ^s-d95f227b75f377f96fb5534a
  už vieną ciklą
  5
  5

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FA00E3FCDEFC"
 pavadinimas: "Dėl Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-03-01"
 latest_path: "latest/TAR.FA00E3FCDEFC.md"
 latest_sha256: "547d3120173a1c770d58e5d17dae74001175b8b943ef404415fdd48cfaf4cacb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FA00E3FCDEFC]]"
 ---
 # Dėl Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FA00E3FCDEFC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FA00E3FCDEFC
+- Ryšiai: [[Ryšiai/TAR.FA00E3FCDEFC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

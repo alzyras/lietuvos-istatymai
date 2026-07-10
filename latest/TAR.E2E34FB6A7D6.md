@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E2E34FB6A7D6"
 pavadinimas: "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "gydytojo medicinos praktikos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.E2E34FB6A7D6.md"
 latest_sha256: "539e21a3b589897ff0b218fb221b8ef3c4bbe7f5442d31251f1cfd201d0ff513"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E2E34FB6A7D6]]"
 ---
 # Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E2E34FB6A7D6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E2E34FB6A7D6
+- Ryšiai: [[Ryšiai/TAR.E2E34FB6A7D6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-0748f7dca8d2b12d5e351981
 
 
 2 straipsnio 2 dalyje vietoj žodžio „stomatologų“ įrašyti žodį „odontologų“, vietoj žodžio „(stomatologijos)“ įrašyti žodį „(odontologijos)“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-81fe7f9e2d058626224a9722
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

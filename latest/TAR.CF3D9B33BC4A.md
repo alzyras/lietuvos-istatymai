@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF3D9B33BC4A"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 30, 31 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 30, 31 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teritorijų planavimo įstatymo 30, 31 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-04-26"
 latest_path: "latest/TAR.CF3D9B33BC4A.md"
 latest_sha256: "bad5862000a63e53830a178b0d4d236dff71c06ca6b88bc9a5f6b6c67dba0e46"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF3D9B33BC4A]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 30, 31 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF3D9B33BC4A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF3D9B33BC4A
+- Ryšiai: [[Ryšiai/TAR.CF3D9B33BC4A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio 2 dalies 2 punkto pakeitimas
+### 1 straipsnis. 30 straipsnio 2 dalies 2 punkto pakeitimas ^s-81db9db0bf0e3e0cccda6c67
 
 
 30 straipsnio 2 dalies 2 punkte vietoj žodžių „Statybos ir urbanistikos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 31 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 31 straipsnio pakeitimas ir papildymas ^s-bf65225d52825aeb0cf14dac
 
 
 Pakeisti ir papildyti 31 straipsnį ir jį išdėstyti taip:
@@ -53,19 +58,19 @@ Pakeisti ir papildyti 31 straipsnį ir jį išdėstyti taip:
 Priežiūrą atliekančios institucijos pareigūnai:
 
 
-1) tikrina, ar teritorijų planavimo dokumentų rengimo, derinimo, viešo svarstymo procedūra atitinka teisės normas, ar sprendimai atitinka teritorijų planavimo normų sąvadą; ^0fea49bf730ce5b0c5000ed5
+1) tikrina, ar teritorijų planavimo dokumentų rengimo, derinimo, viešo svarstymo procedūra atitinka teisės normas, ar sprendimai atitinka teritorijų planavimo normų sąvadą; ^s-4668af12485ac35244e7a807
 
 
-2) kai nustatyti pažeidimai, reikalauja ištaisyti teisės normų pažeidimus ir laikytis teritorijų planavimo normų sąvado, taip pat kai nustatyti pažeidimai, reikalauja papildomo derinimo ar ekspertizės, taiko administracinio poveikio priemones nesilaikantiems reikalavimų; ^eaf77c6b53607eb1df0f4066
+2) kai nustatyti pažeidimai, reikalauja ištaisyti teisės normų pažeidimus ir laikytis teritorijų planavimo normų sąvado, taip pat kai nustatyti pažeidimai, reikalauja papildomo derinimo ar ekspertizės, taiko administracinio poveikio priemones nesilaikantiems reikalavimų; ^s-06e03659a3981e474fc2387a
 
 
-3) teikia motyvuotas išvadas teritorijų planavimo dokumentą tvirtinančiai institucijai dėl dokumento tvirtinimo tikslingumo; ^7ccf521d335b1c6f1219a79f
+3) teikia motyvuotas išvadas teritorijų planavimo dokumentą tvirtinančiai institucijai dėl dokumento tvirtinimo tikslingumo; ^s-c8aa28a17a67e5b16f03a607
 
 
-4) sprendžia ginčus, kylančius planuojant ir vykdant planus, jeigu jų sprendimo tvarka nėra reglamentuota kitų įstatymų; ^8dc152f8b71cd2cd746bb29f
+4) sprendžia ginčus, kylančius planuojant ir vykdant planus, jeigu jų sprendimo tvarka nėra reglamentuota kitų įstatymų; ^s-5f8d63819ff7a81de9ef18c3
 
 
-5) kreipiasi į Lietuvos Respublikos Vyriausybės atstovą dėl jam suteiktų įgaliojimų įgyvendinimo vykdant savivaldybių administracinę priežiūrą.“ ^11977846c9e1522eb5de892a
+5) kreipiasi į Lietuvos Respublikos Vyriausybės atstovą dėl jam suteiktų įgaliojimų įgyvendinimo vykdant savivaldybių administracinę priežiūrą.“ ^s-43a13239effb655eb365c28c
 
 
 

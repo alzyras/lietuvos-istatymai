@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3BA6ED8C88FB"
 pavadinimas: "Dėl deputatų, neapsisprendusių priimti Lietuvos Respublikos pilietybę, įgaliojimų"
+aliases:
+  - "Dėl deputatų, neapsisprendusių priimti Lietuvos Respublikos pilietybę, įgaliojimų"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-11-05"
 latest_path: "latest/TAR.3BA6ED8C88FB.md"
 latest_sha256: "7bd784dbe15c93504a76478cd05dd008318c2962ef3edbf6b30e9170be5b1e87"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3BA6ED8C88FB]]"
 ---
 # Dėl deputatų, neapsisprendusių priimti Lietuvos Respublikos pilietybę, įgaliojimų
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3BA6ED8C88FB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3BA6ED8C88FB
+- Ryšiai: [[Ryšiai/TAR.3BA6ED8C88FB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

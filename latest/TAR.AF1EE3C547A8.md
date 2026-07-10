@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF1EE3C547A8"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo\" pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo\" pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo\" pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-11"
 latest_path: "latest/TAR.AF1EE3C547A8.md"
 latest_sha256: "384f55e249af595c63b38fc8d68fe57b2d7fc9cf29ed352e7af8f57da8a55959"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF1EE3C547A8]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo" pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF1EE3C547A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF1EE3C547A8
+- Ryšiai: [[Ryšiai/TAR.AF1EE3C547A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,7 +44,7 @@ Iš 8 straipsnio 1 dalies išbraukti žodžius „pradinis pasirašytas“, viet
 
 
 
-### 2 straipsnis. Lietuvos vystymo banko statuto pakeitimų registravimas
+### 2 straipsnis. Lietuvos vystymo banko statuto pakeitimų registravimas ^s-6a1b57a69a71ad4fe66bc704
 
 
 Lietuvos bankas nustatyta tvarka registruoja Lietuvos vystymo banko statuto pakeitimus, kuriuos patvirtina Lietuvos Respublikos Seimas.

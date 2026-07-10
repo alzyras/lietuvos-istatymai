@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.286D42A988FC"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-27"
 latest_path: "latest/TAR.286D42A988FC.md"
 latest_sha256: "e5845a318853f3c1a5d214531f54d3b5bf64f9919a86e22925eed2108586da2d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.286D42A988FC]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.286D42A988FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.286D42A988FC
+- Ryšiai: [[Ryšiai/TAR.286D42A988FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas ^s-734d11b5129a5f489b5dfdb7
 
 
 Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:

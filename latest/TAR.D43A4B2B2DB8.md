@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D43A4B2B2DB8"
 pavadinimas: "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 9, 21, 23 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 9, 21, 23 straipsnių pakeitimo įstatymas"
+  - "kilnojamųjų kultūros vertybių apsaugos įstatymo 9, 21, 23 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-29"
 latest_path: "latest/TAR.D43A4B2B2DB8.md"
 latest_sha256: "c883d94032c71d86d8b9621d8486071595ed2233c54984677159e7bedb1a2e0f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D43A4B2B2DB8]]"
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 9, 21, 23 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D43A4B2B2DB8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D43A4B2B2DB8
+- Ryšiai: [[Ryšiai/TAR.D43A4B2B2DB8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio pakeitimas
+### 1 straipsnis. 9 straipsnio pakeitimas ^s-e4cbc2d473fd94961f07dd4f
 
 
 Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekusiu galios, pakeisti 2 dalies 11 punktą, 9–14 punktus laikyti 8–13 punktais ir visą straipsnį išdėstyti taip:
@@ -40,129 +45,129 @@ Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekus
 „9 straipsnis.       Kultūros ministerijos ir Kultūros ministerijos Kultūros vertybių apsaugos departamento kompetencija kilnojamųjų kultūros vertybių apsaugos srityje
 
 
-1. Kultūros ministerija: ^716c00bb16a2d36fb8fcdeb1
+1. Kultūros ministerija: ^s-cd864d017d5b3a2ee621bcc2
 
 
-1) kartu su Valstybine paminklosaugos komisija nustato kilnojamųjų kultūros vertybių apsaugos strategiją, jos įgyvendinimo politiką; ^7c642fbbc9edbb1b468365dc
+1) kartu su Valstybine paminklosaugos komisija nustato kilnojamųjų kultūros vertybių apsaugos strategiją, jos įgyvendinimo politiką; ^s-0a761beb377c072254da7c6d
 
 
-2) įgyvendina Valstybinę kilnojamųjų kultūros vertybių apsaugos politiką, atsiskaito už šios politikos įgyvendinimą Vyriausybei ir Seimui; ^686bba05abfc7be4f865bce1
+2) įgyvendina Valstybinę kilnojamųjų kultūros vertybių apsaugos politiką, atsiskaito už šios politikos įgyvendinimą Vyriausybei ir Seimui; ^s-20c2d48dd953d5ad9651c4c6
 
 
-3) rengia įstatymų ir kitų teisės aktų, reglamentuojančių kilnojamųjų kultūros vertybių apsaugą, projektus; ^3869a07449bb1ffec9c96a14
+3) rengia įstatymų ir kitų teisės aktų, reglamentuojančių kilnojamųjų kultūros vertybių apsaugą, projektus; ^s-d521688d623c61299b8d08bf
 
 
-4) nustato ir, aprobavus Valstybinei paminklosaugos komisijai, tvirtina kilnojamųjų kultūros vertybių įrašymo į Registrą ir kilnojamųjų kultūros vertybių skelbimo Lietuvos kultūros paminklais kriterijus ir tvarką, skiria kilnojamųjų kultūros vertybių vertinimo ekspertų komisiją; ^fe618f7c276cc2f7ef3a96fb
+4) nustato ir, aprobavus Valstybinei paminklosaugos komisijai, tvirtina kilnojamųjų kultūros vertybių įrašymo į Registrą ir kilnojamųjų kultūros vertybių skelbimo Lietuvos kultūros paminklais kriterijus ir tvarką, skiria kilnojamųjų kultūros vertybių vertinimo ekspertų komisiją; ^s-b3d458c4bb5f27d318eb58df
 
 
-5) steigia, reorganizuoja, likviduoja, finansuoja ir kontroliuoja muziejus ir bibliotekas bei kitas institucijas, susijusias su kilnojamųjų kultūros vertybių apsauga; ^8178fd0477b06fb22626d36f
+5) steigia, reorganizuoja, likviduoja, finansuoja ir kontroliuoja muziejus ir bibliotekas bei kitas institucijas, susijusias su kilnojamųjų kultūros vertybių apsauga; ^s-ed3edd2cdaa612885fc7ae4e
 
 
-6) Kultūros ministerijos atestavimo komisijos teikimu restauratoriams suteikia kvalifikacines kategorijas; ^dfe169de68309235fbaab3f3
+6) Kultūros ministerijos atestavimo komisijos teikimu restauratoriams suteikia kvalifikacines kategorijas; ^s-043f096a40ef8b6e6cf42cee
 
 
-7) tvirtina restauravimo tarybas, restauratorių atestacinę komisiją, kultūros vertybių išvežimo ekspertų tarybą; ^43834f6e62997cb043749d9d
+7) tvirtina restauravimo tarybas, restauratorių atestacinę komisiją, kultūros vertybių išvežimo ekspertų tarybą; ^s-58670cfd8cde8fa8b58abd13
 
 
-8) valstybinėms saugykloms suteikia eksperto teises; ^8af452e73efdb6cfe685fd04
+8) valstybinėms saugykloms suteikia eksperto teises; ^s-edc1889aa73d94583fd8f250
 
 
-9) rengia ir finansuoja kilnojamųjų kultūros vertybių, esančių muziejuose ir bibliotekose, apsaugos ir restauravimo programas; ^bd67f74dc8a375694017c85a
+9) rengia ir finansuoja kilnojamųjų kultūros vertybių, esančių muziejuose ir bibliotekose, apsaugos ir restauravimo programas; ^s-01166b9f1eb6c22e976bf6f9
 
 
-10) nustato kilnojamųjų kultūros vertybių (išskyrus archyvinius dokumentus) apskaitos, saugojimo, konservavimo, restauravimo tvarką; ^854943033077f23250b8c7e6
+10) nustato kilnojamųjų kultūros vertybių (išskyrus archyvinius dokumentus) apskaitos, saugojimo, konservavimo, restauravimo tvarką; ^s-09fb5f4b7e2c4fdc4e1042f9
 
 
-11) teikia kilnojamųjų kultūros vertybių draudimo valstybės garantijas laikinai įvežamoms į Lietuvos Respubliką užsienio valstybių kilnojamųjų kultūros vertybių parodoms; ^d429f4da7d04218831f83047
+11) teikia kilnojamųjų kultūros vertybių draudimo valstybės garantijas laikinai įvežamoms į Lietuvos Respubliką užsienio valstybių kilnojamųjų kultūros vertybių parodoms; ^s-12bfb3bba2b676d9e866a734
 
 
-12) rūpinasi dingusių kilnojamųjų kultūros vertybių paieška ir jų grąžinimu; ^22aca9f6d8d1ce55c2d33a6a
+12) rūpinasi dingusių kilnojamųjų kultūros vertybių paieška ir jų grąžinimu; ^s-1d14e3ae94fae808c6e9ec81
 
 
-13) kontroliuoja kilnojamųjų kultūros vertybių apskaitą ir apsaugą muziejuose ir bibliotekose. ^2c467da14d6535713b06d847
+13) kontroliuoja kilnojamųjų kultūros vertybių apskaitą ir apsaugą muziejuose ir bibliotekose. ^s-1c87a5032da0b1b426349c50
 
 
-2. Kultūros ministerijos Kultūros vertybių apsaugos departamentas: ^2e5876249be4e5abcc886fc7
+2. Kultūros ministerijos Kultūros vertybių apsaugos departamentas: ^s-83ba9be04c6af2a6b3404554
 
 
-1) įgyvendina valstybinę kultūros vertybių, nesančių valstybinėse saugyklose, apsaugos politiką; ^01da95691e7cc39cb5d50321
+1) įgyvendina valstybinę kultūros vertybių, nesančių valstybinėse saugyklose, apsaugos politiką; ^s-9b5755515916c4c2d1922fd5
 
 
-2) rengia įstatymų ir kitų teisės aktų, reglamentuojančių kilnojamųjų kultūros vertybių, nesančių kultūros vertybių saugyklose, apsaugą, projektus; ^e3f941a49eb71efd47c85b54
+2) rengia įstatymų ir kitų teisės aktų, reglamentuojančių kilnojamųjų kultūros vertybių, nesančių kultūros vertybių saugyklose, apsaugą, projektus; ^s-d27b37bd1a003dbd77ae29fe
 
 
-3) apskaito kultūros kilnojamąsias vertybes (išskyrus archyvinius dokumentus), nesančias valstybinėse saugyklose, rengia, tvarko ir saugo Registrą; ^d49951b000e9b0e3895d5555
+3) apskaito kultūros kilnojamąsias vertybes (išskyrus archyvinius dokumentus), nesančias valstybinėse saugyklose, rengia, tvarko ir saugo Registrą; ^s-db991288ac0ef41173c4adbe
 
 
-4) išduoda į Registrą įrašytų kilnojamųjų kultūros vertybių pasus, parengia kilnojamųjų kultūros vertybių apsaugos reglamentus; ^6e782ca839a1cc30f74fd477
+4) išduoda į Registrą įrašytų kilnojamųjų kultūros vertybių pasus, parengia kilnojamųjų kultūros vertybių apsaugos reglamentus; ^s-1ad5f2f8b6c8913ea1a468ec
 
 
-5) tikrina, kaip laikomasi kultūros vertybių, įrašytų į Registrą, apsaugos reglamento; ^e3f5e7a9a0971a4470b5cd83
+5) tikrina, kaip laikomasi kultūros vertybių, įrašytų į Registrą, apsaugos reglamento; ^s-e2268cedeb2ce0dee5e03a41
 
 
-6) kreipiasi į teismą dėl kultūros vertybių, įrašytų į Registrą, priverstinio išpirkimo, lėšų, įdėtų į kultūros vertybių restauravimą ir konservavimą, išieškojimo, taip pat dėl žalos, padarytos dėl netinkamo kultūros vertybių restauravimo ir konservavimo bei netinkamo saugojimo ir naudojimo, atlyginimo; ^98b5e488afc3f5c7327fdbdc
+6) kreipiasi į teismą dėl kultūros vertybių, įrašytų į Registrą, priverstinio išpirkimo, lėšų, įdėtų į kultūros vertybių restauravimą ir konservavimą, išieškojimo, taip pat dėl žalos, padarytos dėl netinkamo kultūros vertybių restauravimo ir konservavimo bei netinkamo saugojimo ir naudojimo, atlyginimo; ^s-256a0615f80f69d3c55d8a0d
 
 
-7) rengia ir finansuoja kultūros vertybių, įrašytų į Registrą, restauravimo, konservavimo ir tyrimo programas; ^83a54f98a200725e3060a758
+7) rengia ir finansuoja kultūros vertybių, įrašytų į Registrą, restauravimo, konservavimo ir tyrimo programas; ^s-46056e49e885c82d391f0623
 
 
-8) registruoja sandorius dėl kultūros vertybių, įrašytų į Registrą; ^42e3fe189cd3ecb0d942408f
+8) registruoja sandorius dėl kultūros vertybių, įrašytų į Registrą; ^s-7ea215e7469b806e0be46998
 
 
-9) duoda leidimus išvežti kultūros vertybes ir antikvarinius daiktus į užsienį; ^88136f246bfd6f1124821c34
+9) duoda leidimus išvežti kultūros vertybes ir antikvarinius daiktus į užsienį; ^s-ee6c3f177a6e0615c36802bc
 
 
-10) kontroliuoja, kaip laikomasi prekybos antikvariniais daiktais taisyklių. Už šių taisyklių pažeidimus surašo administracinių teisės pažeidimų protokolus, skiria administracines nuobaudas; ^b01fc6364ba7bad181a042f3
+10) kontroliuoja, kaip laikomasi prekybos antikvariniais daiktais taisyklių. Už šių taisyklių pažeidimus surašo administracinių teisės pažeidimų protokolus, skiria administracines nuobaudas; ^s-3532efffa1527c64a8f1e79d
 
 
-11) kontroliuoja kilnojamųjų kultūros vertybių apskaitą ir apsaugą muziejuose ir bibliotekose, už kilnojamųjų kultūros vertybių apskaitos ir apsaugos taisyklių pažeidimus surašo administracinių teisės pažeidimų protokolus, skiria administracines nuobaudas; ^fc5550d1aa9e6ad34962f2bd
+11) kontroliuoja kilnojamųjų kultūros vertybių apskaitą ir apsaugą muziejuose ir bibliotekose, už kilnojamųjų kultūros vertybių apskaitos ir apsaugos taisyklių pažeidimus surašo administracinių teisės pažeidimų protokolus, skiria administracines nuobaudas; ^s-d4c12411b4c26309dad0ea6e
 
 
-12) kontroliuoja, kaip laikomasi kilnojamųjų kultūros vertybių restauravimo ir konservavimo tvarkos. Už šios tvarkos pažeidimus surašo administracinių teisės pažeidimų protokolus, skiria administracines nuobaudas; ^d7d2d700f9e38559cf15937e
+12) kontroliuoja, kaip laikomasi kilnojamųjų kultūros vertybių restauravimo ir konservavimo tvarkos. Už šios tvarkos pažeidimus surašo administracinių teisės pažeidimų protokolus, skiria administracines nuobaudas; ^s-1c4aefd4976c7eea9305b0aa
 
 
-13) atlieka kitas Kultūros ministerijos pavestas funkcijas.“ ^826cc69a223c103ebb09d7b5
+13) atlieka kitas Kultūros ministerijos pavestas funkcijas.“ ^s-b1e9be8cda6595a54250a0cb
 
 
 
-### 2 straipsnis. 21 straipsnio pakeitimas
+### 2 straipsnis. 21 straipsnio pakeitimas ^s-003de9c06c80ffaf6dd8d9ee
 
 
-21 straipsnio 1 dalį pripažinti netekusia galios, pakeisti [[#^c11d060bb7eebb434474fcc8|2 dalį]], 2–4 dalis laikyti 1–[[#^6bb00fe5721dea7ba1588a14|3 dalimis]] ir visą straipsnį išdėstyti taip:
+21 straipsnio 1 dalį pripažinti netekusia galios, pakeisti [[#^s-dd9905612ae6c4dfc1b31f46|2 dalį]], 2–4 dalis laikyti 1–[[#^s-13c5d765457f4abf382993fb|3 dalimis]] ir visą straipsnį išdėstyti taip:
 
 
 „21 straipsnis. Kilnojamųjų kultūros vertybių konservavimas ir restauravimas
 
 
-1. Konservuoti ir restauruoti kilnojamąsias kultūros vertybes gali tik Kultūros ministerijos atestavimo komisijos atestuoti restauratoriai. ^97e46d81f4c3dd74a3c5f61d
+1. Konservuoti ir restauruoti kilnojamąsias kultūros vertybes gali tik Kultūros ministerijos atestavimo komisijos atestuoti restauratoriai. ^s-969e54405a8c7502d20f0eef
 
 
-2. Kilnojamosios kultūros vertybės restauravimo ir konservavimo programą tvirtina, darbų procesą ir kokybę kontroliuoja bei darbą priima restauravimo taryba. ^c11d060bb7eebb434474fcc8
+2. Kilnojamosios kultūros vertybės restauravimo ir konservavimo programą tvirtina, darbų procesą ir kokybę kontroliuoja bei darbą priima restauravimo taryba. ^s-dd9905612ae6c4dfc1b31f46
 
 
-3. Konservavimo ir restauravimo tvarką nustato Kultūros ministerija, o kontroliuoja, kaip jos laikomasi, Kultūros vertybių apsaugos departamentas.“ ^6bb00fe5721dea7ba1588a14
+3. Konservavimo ir restauravimo tvarką nustato Kultūros ministerija, o kontroliuoja, kaip jos laikomasi, Kultūros vertybių apsaugos departamentas.“ ^s-13c5d765457f4abf382993fb
 
 
 
-### 3 straipsnis. 23 straipsnio pakeitimas
+### 3 straipsnis. 23 straipsnio pakeitimas ^s-296feb917e196df99a8403e1
 
 
-23 straipsnio 1 dalį pripažinti netekusia galios, 2–5 dalis laikyti 1–[[#^dc0de297e4ae8ec8835a71e5|4 dalimis]] ir visą straipsnį išdėstyti taip:
+23 straipsnio 1 dalį pripažinti netekusia galios, 2–5 dalis laikyti 1–[[#^s-c4add54cdf71debb6e58ee3f|4 dalimis]] ir visą straipsnį išdėstyti taip:
 
 
 „23 straipsnis. Prekyba antikvariniais daiktais
 
 
-1. Prekybos antikvariniais daiktais taisykles nustato Vyriausybė. ^bde5b7def2260b2b521a64df
+1. Prekybos antikvariniais daiktais taisykles nustato Vyriausybė. ^s-4aab51100047a670b7fc157f
 
 
-2. Prekybą antikvariniais daiktais kontroliuoja Kultūros vertybių apsaugos departamentas ir savivaldybė. Patikrinti, kaip laikomasi prekybos antikvariniais daiktais taisyklių, taip pat turi teisę Valstybinė paminklosaugos komisija. ^7d9880a321391ed22ce0412b
+2. Prekybą antikvariniais daiktais kontroliuoja Kultūros vertybių apsaugos departamentas ir savivaldybė. Patikrinti, kaip laikomasi prekybos antikvariniais daiktais taisyklių, taip pat turi teisę Valstybinė paminklosaugos komisija. ^s-d488102edf6955a211f57488
 
 
-3. Kultūros vertybių apsaugos departamentas turi teisę sulaikyti 15 dienų antikvarinio daikto pardavimą antikvariniais daiktais prekiaujančioje parduotuvėje. Jeigu per minėtas 15 dienų ekspertai nustato, kad antikvarinis daiktas yra kilnojamoji kultūros vertybė, ji gali būti valstybės išperkama arba savininko sutikimu įrašoma į Registrą. ^13e7566de5e053324fd7d1cc
+3. Kultūros vertybių apsaugos departamentas turi teisę sulaikyti 15 dienų antikvarinio daikto pardavimą antikvariniais daiktais prekiaujančioje parduotuvėje. Jeigu per minėtas 15 dienų ekspertai nustato, kad antikvarinis daiktas yra kilnojamoji kultūros vertybė, ji gali būti valstybės išperkama arba savininko sutikimu įrašoma į Registrą. ^s-fec19f3d0a3da50f3c93384d
 
 
-4. Valstybinėms saugykloms suteikiama pirmumo teisė įsigyti įrašytas į Registrą kilnojamąsias kultūros vertybes parduotuvėse, prekiaujančiose antikvariniais daiktais, bei aukcionuose. Aukcionuose valstybinės saugyklos neturi teisės varžytis dėl kainos. Paskelbus galutinę kultūros vertybės kainą, valstybinės saugyklos atstovas turi teisę šią vertybę nupirkti.“ ^dc0de297e4ae8ec8835a71e5
+4. Valstybinėms saugykloms suteikiama pirmumo teisė įsigyti įrašytas į Registrą kilnojamąsias kultūros vertybes parduotuvėse, prekiaujančiose antikvariniais daiktais, bei aukcionuose. Aukcionuose valstybinės saugyklos neturi teisės varžytis dėl kainos. Paskelbus galutinę kultūros vertybės kainą, valstybinės saugyklos atstovas turi teisę šią vertybę nupirkti.“ ^s-c4add54cdf71debb6e58ee3f
 
 
 

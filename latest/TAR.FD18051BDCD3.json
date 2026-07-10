@@ -11,7 +11,7 @@
   "latest_revision": "2013-10-01",
   "latest_sha256": "2b32a4df7b09007ebe7d77bb9aa1c4068c321d636e87ce7ce1b9122b22df5949",
   "metadata_path": "latest/TAR.FD18051BDCD3.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.54E3BF7CDBDE"
 pavadinimas: "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.54E3BF7CDBDE.md"
 latest_sha256: "2086731dce94124bc19d2461404c9c48ea4d34058d5c3de5ffc46eec1edb0c5d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.54E3BF7CDBDE]]"
 ---
 # Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.54E3BF7CDBDE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.54E3BF7CDBDE
+- Ryšiai: [[Ryšiai/TAR.54E3BF7CDBDE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-07b5cbb6a503acf18ddb8b3e
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:

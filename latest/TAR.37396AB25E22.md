@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.37396AB25E22"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 8, 16, 18, 18-1, 18-3, 19 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 8, 16, 18, 18-1, 18-3, 19 ir 21 straipsnių pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 5, 8, 16, 18, 18-1, 18-3, 19 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.37396AB25E22.md"
 latest_sha256: "830bf596e028354c4f0bc5e6f7a8e4260bfafa10f585527b6c72f1201e2a2151"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.37396AB25E22]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 8, 16, 18, 18-1, 18-3, 19 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.37396AB25E22.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.37396AB25E22
+- Ryšiai: [[Ryšiai/TAR.37396AB25E22|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas ^s-7c7bfe780c5d6cbdb318caed
 
 
 Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -42,17 +47,17 @@ Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 „5. Asmenims, privalomai draudžiamiems ligos ir motinystės socialiniu draudimu, kai draudžiama motinystės, tėvystės ir motinystės (tėvystės) pašalpoms, ir asmenims, nurodytiems šio įstatymo 4 straipsnio 3 dalyje, pašalpos skiriamos šiais atvejais:
 
 
-1) motinystės – pagal pateiktą nėštumo ir gimdymo atostogų pažymėjimą, išduotą šio įstatymo 16 straipsnio 5 dalyje nustatyta tvarka; ^0d13e593eb3b7f65931e4a95
+1) motinystės – pagal pateiktą nėštumo ir gimdymo atostogų pažymėjimą, išduotą šio įstatymo 16 straipsnio 5 dalyje nustatyta tvarka; ^s-db6e6d0490428e8f69108574
 
 
-2) tėvystės – vieną mėnesį nuo vaiko gimimo; ^a2018ed34b4b47604e64cbab
+2) tėvystės – vieną mėnesį nuo vaiko gimimo; ^s-4285f2b4f540b5efbe7b4de2
 
 
-3) motinystės (tėvystės) – kol vaikui sueis dveji metai.“ ^48ae53adbd3f0e3d3f6efb3a
+3) motinystės (tėvystės) – kol vaikui sueis dveji metai.“ ^s-792faa483d7bef179b4308b5
 
 
 
-### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-b4c101a0a3c2a1d938fe92b0
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -62,7 +67,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-a67ff76a4b78a39b22c39a11
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -72,7 +77,7 @@ Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-ddeec86099ea7ce2b601bee7
 
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -82,7 +87,7 @@ Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 181 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 181 straipsnio 2 dalies pakeitimas ^s-4d1b7c66a67778ef1560a9d9
 
 
 Pakeisti 181 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -92,7 +97,7 @@ Pakeisti 181 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 183 straipsnio pakeitimas
+### 6 straipsnis. 183 straipsnio pakeitimas ^s-8dbb31336270e1ab75f65f83
 
 
 Pakeisti 183 straipsnį ir jį išdėstyti taip:
@@ -102,14 +107,14 @@ Pakeisti 183 straipsnį ir jį išdėstyti taip:
 „183 straipsnis. Tėvystės pašalpos dydis
 
 
-1. Tėvystės pašalpa mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa per mėnesį negali būti mažesnė už tėvystės atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų trečdalį. Pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka. ^a872e595607cf047d5ca3978
+1. Tėvystės pašalpa mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa per mėnesį negali būti mažesnė už tėvystės atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų trečdalį. Pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka. ^s-16f29ee7f01475494235a77e
 
 
-2. Jeigu apdraustasis asmuo tėvystės pašalpos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos ligos ir motinystės socialinio draudimo įmokos, ir jų dydis mažesnis už tėvystės pašalpą, jam mokamas šios pašalpos ir jo atitinkamą mėnesį turėtų draudžiamųjų pajamų skirtumas. Mokant tėvystės pašalpą, į draudžiamąsias pajamas neįtraukiamos pajamos, gautos pagal autorines sutartis už darbą, atliktą iki pirmosios tėvystės atostogų dienos. Tėvystės pašalpa ar jos dalis apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.“ ^31608979cfa6e1e419c3f266
+2. Jeigu apdraustasis asmuo tėvystės pašalpos gavimo laikotarpiu turi pajamų, nuo kurių skaičiuojamos ligos ir motinystės socialinio draudimo įmokos, ir jų dydis mažesnis už tėvystės pašalpą, jam mokamas šios pašalpos ir jo atitinkamą mėnesį turėtų draudžiamųjų pajamų skirtumas. Mokant tėvystės pašalpą, į draudžiamąsias pajamas neįtraukiamos pajamos, gautos pagal autorines sutartis už darbą, atliktą iki pirmosios tėvystės atostogų dienos. Tėvystės pašalpa ar jos dalis apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.“ ^s-8ed718e289ac05c494a12f99
 
 
 
-### 7 straipsnis. 19 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 19 straipsnio 2 dalies pakeitimas ^s-668fef871af21ee2322b5134
 
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -119,7 +124,7 @@ Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 21 straipsnio 4 dalies pakeitimas
+### 8 straipsnis. 21 straipsnio 4 dalies pakeitimas ^s-1da372b6d73f9b805ca2935b
 
 
 Pakeisti 21 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -129,13 +134,13 @@ Pakeisti 21 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-c7a1a6aaded2b4b474aec12c
 
 
-1. Šis įstatymas, išskyrus [[#^3877dfd36e93180b91944946|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^a75126ac83abb8e8c5b59c03
+1. Šis įstatymas, išskyrus [[#^s-416965ceae96e59765900bf9|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^s-6fed63d1d4e7ba4f21aa2bb8
 
 
-2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^3877dfd36e93180b91944946
+2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-416965ceae96e59765900bf9
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.264C4EACA82E"
 pavadinimas: "Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas"
+  - "nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-24"
 latest_path: "latest/TAR.264C4EACA82E.md"
 latest_sha256: "77f0a6ef244d1843393f1a29a18f9c7108110be27cd2960cf6403fc2ceb25dfc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.264C4EACA82E]]"
 ---
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.264C4EACA82E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.264C4EACA82E
+- Ryšiai: [[Ryšiai/TAR.264C4EACA82E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,16 +34,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies papildymas
+### 1 straipsnis. 2 straipsnio 1 dalies papildymas ^s-9f660db09601adac7dd390e9
 
 
-1. 2 straipsnio 1 dalies 2 punkte po žodžių „duomenų bazes“ įrašyti žodžius „dalyvauja kuriant ir diegiant teismuose informacines sistemas, atlieka jų administravimą ir tobulinimą“ ir šį punktą išdėstyti taip: ^75f5890f780c201e0a02aade
+1. 2 straipsnio 1 dalies 2 punkte po žodžių „duomenų bazes“ įrašyti žodžius „dalyvauja kuriant ir diegiant teismuose informacines sistemas, atlieka jų administravimą ir tobulinimą“ ir šį punktą išdėstyti taip: ^s-581632da81916eaf175234f3
 
 
 „2) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, dalyvauja kuriant ir diegiant teismuose informacines sistemas, atlieka jų administravimą ir tobulinimą;“.
 
 
-2. Papildyti 2 straipsnio 1 dalį 6 punktu: ^481cbbcdd84e17f9dc8d6249
+2. Papildyti 2 straipsnio 1 dalį 6 punktu: ^s-cd1b9c9d739995c21dd2ee38
 
 
 „6) atlieka vidaus auditą apylinkių, apygardų, apygardų administraciniuose teismuose, taip pat Nacionalinėje teismų administracijoje.“

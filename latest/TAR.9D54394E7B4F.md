@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9D54394E7B4F"
 pavadinimas: "Lietuvos Respublikos aviacijos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aviacijos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas"
+  - "aviacijos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-01"
 latest_path: "latest/TAR.9D54394E7B4F.md"
 latest_sha256: "15fc49eb2e676e208c79454b4685ed6581d360f028cbbc195520593714f5076a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9D54394E7B4F]]"
 ---
 # Lietuvos Respublikos aviacijos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9D54394E7B4F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9D54394E7B4F
+- Ryšiai: [[Ryšiai/TAR.9D54394E7B4F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,20 +40,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-bfcdcf01b0a5a1198530def1
 
 
-1. Papildyti [[#2 straipsnis. 10 straipsnio pakeitimas|2 straipsnį]] nauja 11 dalimi: ^2fe67b64baf213ae870256b9
+1. Papildyti [[#^s-a9d9f9eb4710db4e1bb15084|2 straipsnį]] nauja 11 dalimi: ^s-885227a1d51c8369f2fa66ef
 
 
 „11. Kliūtys – statiniai ir įrenginiai, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, pasienio ruože – 30 m ir daugiau, taip pat visi aerodromo apsaugos zonoje esantys nejudantys (laikini arba nuolatiniai) ir judantys objektai ir jų dalys, kurie yra numatytame orlaiviams judėti paviršiuje arba iškilę virš nustatytų ribojančių paviršių (plokštumų), skirtų skrendančių orlaivių saugai užtikrinti.“
 
 
-2. Buvusias [[#2 straipsnis. 10 straipsnio pakeitimas|2 straipsnio]] 11–39 dalis laikyti atitinkamai 12–40 dalimis. ^7696d14ad6ca59aac05ea5f4
+2. Buvusias [[#^s-a9d9f9eb4710db4e1bb15084|2 straipsnio]] 11–39 dalis laikyti atitinkamai 12–40 dalimis. ^s-fa5910387a1840366479a2b9
 
 
 
-### 2 straipsnis. 10 straipsnio pakeitimas
+### 2 straipsnis. 10 straipsnio pakeitimas ^s-a9d9f9eb4710db4e1bb15084
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
@@ -58,28 +63,28 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 „10 straipsnis. Statinių statyba ir kliūčių ženklinimas bei žiburių įrengimas
 
 
-1. Statinių statyba bei rekonstravimas ir ūkinė veikla aerodromo apsaugos ir sanitarinėse apsaugos zonose leidžiama Vyriausybės nustatyta tvarka. ^fd7e70758f12f98544d152a5
+1. Statinių statyba bei rekonstravimas ir ūkinė veikla aerodromo apsaugos ir sanitarinėse apsaugos zonose leidžiama Vyriausybės nustatyta tvarka. ^s-4dece25a2dd6b109fac2198d
 
 
-2. Aerodromo sanitarinės apsaugos zonos teritorijos ribos nustatomos atsižvelgiant į triukšmo, elektromagnetinės energijos dydžius, oro, dirvožemio ir vandens taršą. ^1224d52bd5b0a15684543df1
+2. Aerodromo sanitarinės apsaugos zonos teritorijos ribos nustatomos atsižvelgiant į triukšmo, elektromagnetinės energijos dydžius, oro, dirvožemio ir vandens taršą. ^s-4bbf8f9def5283a453802b1a
 
 
-3. CAA ir kariuomenės vadas atitinkamai turi teisę uždrausti civilinių ir karinių aerodromų apsaugos zonose įrengti arba naudoti žiburius, galinčius kelti pavojų orlaivių skrydžių saugai. ^50927160474d04be9916607f
+3. CAA ir kariuomenės vadas atitinkamai turi teisę uždrausti civilinių ir karinių aerodromų apsaugos zonose įrengti arba naudoti žiburius, galinčius kelti pavojų orlaivių skrydžių saugai. ^s-4bcbd84d3abcdebfcd291ab9
 
 
-4. Statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, statyba, rekonstravimas ar įrengimas, išskyrus aerodromo apsaugos ir sanitarines apsaugos zonas, Vyriausybės nustatyta tvarka turi būti suderinti su CAA ir kariuomenės vadu, o pasienio ruože statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 30 m ir daugiau, – ir su Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. ^92814a8b8fc21f5bad21116a
+4. Statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, statyba, rekonstravimas ar įrengimas, išskyrus aerodromo apsaugos ir sanitarines apsaugos zonas, Vyriausybės nustatyta tvarka turi būti suderinti su CAA ir kariuomenės vadu, o pasienio ruože statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 30 m ir daugiau, – ir su Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. ^s-fd24299e4fc40e7465756e7d
 
 
-5. Kliūtys turi būti ženklinamos tam tikrais nakties ir dienos ženklais. Jų įrengimo ir naudojimo tvarką nustato CAA, suderinusi su kariuomenės vadu.“ ^a7ca5c25b1e1166a2c5d1dd0
+5. Kliūtys turi būti ženklinamos tam tikrais nakties ir dienos ženklais. Jų įrengimo ir naudojimo tvarką nustato CAA, suderinusi su kariuomenės vadu.“ ^s-b7f876f0b3800e7be2d8e8e9
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-a486df3b526f63ee5eb78ad5
 
 
-1. Šis įstatymas, išskyrus [[#^4f7fdf380c0137a76042e08c|šio straipsnio 2 dalį]], įsigalioja 2011 m. liepos 1 d. ^8c8e4555f6035da60d8ef926
+1. Šis įstatymas, išskyrus [[#^s-cc1f615d49803af8745bd455|šio straipsnio 2 dalį]], įsigalioja 2011 m. liepos 1 d. ^s-08ec7e60b266b5603806372c
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2011 m. liepos 1 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^4f7fdf380c0137a76042e08c
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2011 m. liepos 1 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-cc1f615d49803af8745bd455
 
 
 

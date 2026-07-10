@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.585F264186E1"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-05-01"
 latest_path: "latest/TAR.585F264186E1.md"
 latest_sha256: "2b2f3cbdc033ab2da5511ff3b8728942ff207dfcdf29059b95b1eb5a5623b9da"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.585F264186E1]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.585F264186E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.585F264186E1
+- Ryšiai: [[Ryšiai/TAR.585F264186E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio pakeitimas
+### 1 straipsnis. Įstatymo priedėlio pakeitimas ^s-511872fb1f2b39591e9fee8a
 
 
 Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
@@ -46,7 +51,7 @@ pareigūnų darbo apmokėjimo įstatymo priedėlis
 
 
 
-## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS ^s-f5c05d2712f43ddf04b82382
 
 (Baziniais dydžiais)
 
@@ -188,7 +193,7 @@ pareigūnų darbo apmokėjimo įstatymo priedėlis
 
 
 
-## III. PROKURORŲ PAREIGINĖS ALGOS
+## III. PROKURORŲ PAREIGINĖS ALGOS ^s-0caf4b56be790b2dc60b6cc4
 
 (Baziniais dydžiais)
 
@@ -399,7 +404,7 @@ Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
 
 
 
-## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS ^s-d48c06d97e59d314961d5a70
 
 (Baziniais dydžiais)
 
@@ -560,7 +565,7 @@ Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams p
 
 
 
-### 2 straipsnis. Įstatymo priedėlio pakeitimas
+### 2 straipsnis. Įstatymo priedėlio pakeitimas ^s-11855aec3ea767cff77dcc82
 
 
 Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
@@ -573,7 +578,7 @@ pareigūnų darbo apmokėjimo įstatymo priedėlis
 
 
 
-## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS ^s-3db7a2f04bbcedf955587649
 
 (Baziniais dydžiais)
 
@@ -713,7 +718,7 @@ pareigūnų darbo apmokėjimo įstatymo priedėlis
 
 
 
-## III. PROKURORŲ PAREIGINĖS ALGOS
+## III. PROKURORŲ PAREIGINĖS ALGOS ^s-9e45fb409894082242200887
 
 (Baziniais dydžiais)
 
@@ -899,7 +904,7 @@ Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
 
 
 
-## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS ^s-85717ece73ba34705e338e3f
 
 (Baziniais dydžiais)
 
@@ -1060,13 +1065,13 @@ Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams p
 
 
 
-### 3 straipsnis. Įstatymo galiojimas
+### 3 straipsnis. Įstatymo galiojimas ^s-be7febd3a95eebedc2588417
 
 
-1. Šio įstatymo [[#1 straipsnis. Įstatymo priedėlio pakeitimas|1 straipsnis]] įsigalioja 2009 m. gegužės 1 d. ^4873c2ae3d74e9311682ebbc
+1. Šio įstatymo [[#^s-511872fb1f2b39591e9fee8a|1 straipsnis]] įsigalioja 2009 m. gegužės 1 d. ^s-1352075c0db7c692efa265e8
 
 
-2. Šio įstatymo [[#2 straipsnis. Įstatymo priedėlio pakeitimas|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^7bb73c8bedc5bc938e770638
+2. Šio įstatymo [[#^s-11855aec3ea767cff77dcc82|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-6e1d5cccf60e438a28dbd7e0
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.04C73E59173D"
 pavadinimas: "Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 11, 12, 30, 38, 40, 43, 45, 46, 49, 50 straipsnių ir įstatymo priedo pakeitimo bei papildymo ir įstatymo papildymo 55(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 11, 12, 30, 38, 40, 43, 45, 46, 49, 50 straipsnių ir įstatymo priedo pakeitimo bei papildymo ir įstatymo papildymo 55(1) straipsniu įstatymas"
+  - "prekių ženklų įstatymo 2, 5, 7, 8, 11, 12, 30, 38, 40, 43, 45, 46, 49, 50 straipsnių ir įstatymo priedo pakeitimo bei papildymo ir įstatymo papildymo 55(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-13"
 latest_path: "latest/TAR.04C73E59173D.md"
 latest_sha256: "7db57266b0dd92a03f6adacf421ff1948ae6d0314d8ce368cfffe82cb01ce8de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.04C73E59173D]]"
 ---
 # Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 11, 12, 30, 38, 40, 43, 45, 46, 49, 50 straipsnių ir įstatymo priedo pakeitimo bei papildymo ir įstatymo papildymo 55(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.04C73E59173D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.04C73E59173D
+- Ryšiai: [[Ryšiai/TAR.04C73E59173D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,35 +36,35 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 21, 22, 23 dalimis
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 21, 22, 23 dalimis ^s-c18a192f47fcddf93195f5ab
 
 
-1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^c556e53a1a10c750c70348c8
+1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-ecdf4ecbe3699e564500f25b
 
 
 „2. Asmuo – fizinis arba juridinis asmuo.“
 
 
-2. Papildyti 2 straipsnį 21 dalimi: ^af8db1199d94ee773794eb37
+2. Papildyti 2 straipsnį 21 dalimi: ^s-e9b8a41bc8af3e0545339cfb
 
 
 „21. Juridinio asmens pavadinimas – juridinio asmens, jo filialo arba atstovybės pavadinimas.“
 
 
-3. Papildyti 2 straipsnį 22 dalimi: ^cbfb3e4174997e3b77bac6cc
+3. Papildyti 2 straipsnį 22 dalimi: ^s-8e3b7d3737ff46f4664ed847
 
 
 „22. Bendrijos prekių ženklas – ženklas, pareikštas registruoti arba įregistruotas pagal Reglamentą dėl Bendrijos prekių ženklo.“
 
 
-4. Papildyti 2 straipsnį 23 dalimi: ^154bfa327ed5b75fdabecade
+4. Papildyti 2 straipsnį 23 dalimi: ^s-787be0d1ad9baba32ef6239a
 
 
 „23. Reglamentas dėl Bendrijos prekių ženklo – 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.“
 
 
 
-### 2 straipsnis. 5 straipsnio 1 punkto pakeitimas
+### 2 straipsnis. 5 straipsnio 1 punkto pakeitimas ^s-0ff1ebe183bfae5c6ebeb422
 
 
 5 straipsnio 1 punkte vietoj žodžių „firmų vardų“ įrašyti žodžius „juridinių asmenų pavadinimų“ ir šį punktą išdėstyti taip:
@@ -69,80 +74,80 @@ Vilnius
 
 
 
-### 3 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+### 3 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas ir papildymas ^s-1278c4e8d5e1554f86f621c0
 
 
-1. Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^fae2c44a4d49617b9789712e
+1. Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^s-fa7218d5c5e31927cb224ec9
 
 
 „4) tapatus juridinio asmens pavadinimui arba klaidinamai panašus į juridinio asmens pavadinimą, priklausantį kitam asmeniui, kuris teisę į tą pavadinimą Lietuvos Respublikoje įgijo iki paraiškos įregistruoti ženklą padavimo arba prioriteto datos, jeigu datoje nurodytą dieną juridinis asmuo turėjo teisę į tą pačią ar panašią veiklą, kuriai gali būti priskiriamos įregistruotu ženklu žymimos prekės ir (ar) paslaugos;“.
 
 
-2. Papildyti 7 straipsnio 1 dalį 7 punktu: ^34f38e1525bc1f0d900ac256
+2. Papildyti 7 straipsnio 1 dalį 7 punktu: ^s-39dbf53cec68836fbbe0e75d
 
 
 „7) tapatus ankstesniam Bendrijos prekių ženklui arba klaidinamai į jį panašus, jeigu vėlesnis ženklas pareikštas registruoti ar įregistruotas prekėms ir (ar) paslaugoms, kurios nėra panašios į prekes ir (ar) paslaugas, kurioms registruotas ankstesnis Bendrijos prekių ženklas, jeigu ankstesnis Bendrijos prekių ženklas turi reputaciją Europos Bendrijoje ir jeigu dėl neteisėto vėlesnio ženklo naudojimo gali atsirasti galimybė nesąžiningai įgyti pranašumą arba pažeisti ankstesnio Bendrijos prekių ženklo skiriamąjį požymį, arba pakenkti jo reputacijai.“
 
 
-3. [[#^18fc326261d736c9c6de4a95|7 straipsnio 2 dalyje]] vietoj skaičių ir žodžio „1 ir 2“ įrašyti skaičius ir žodį „1, 2 ir 7“, [[#^9a5ef18f6d0ae9288fa9ca64|3 punkte]] vietoj žodžio „datą“ įrašyti žodį „datai“, dalį papildyti 4 bei [[#^c15d913c12af47c4675a4b98|5 punktais]] ir visą dalį išdėstyti taip: ^7f55f68262bf755337ef5050
+3. [[#^s-b1cd6e4bc35017ec72804af7|7 straipsnio 2 dalyje]] vietoj skaičių ir žodžio „1 ir 2“ įrašyti skaičius ir žodį „1, 2 ir 7“, [[#^s-56f4d68915a45dd2e6dc98c9|3 punkte]] vietoj žodžio „datą“ įrašyti žodį „datai“, dalį papildyti 4 bei [[#^s-a0dfef98c5db74c64e30401e|5 punktais]] ir visą dalį išdėstyti taip: ^s-dc01fb1a7407a08aba6e8954
 
 
-„2. [[#^fae2c44a4d49617b9789712e|Šio straipsnio 1 dalies]] 1, 2 ir 7 punktuose nurodytas ankstesnis ženklas yra:
+„2. [[#^s-fa7218d5c5e31927cb224ec9|Šio straipsnio 1 dalies]] 1, 2 ir 7 punktuose nurodytas ankstesnis ženklas yra:
 
 
-1) ženklas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už [[#^fae2c44a4d49617b9789712e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^62b9331ab54bd8e3cfe71c5b
+1) ženklas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už [[#^s-fa7218d5c5e31927cb224ec9|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-c8a9756a6400a140891ee9bf
 
 
-2) ženklas, kurio įregistravimo data Lietuvos Respublikai pagal Madrido protokolą yra ankstesnė už [[#^fae2c44a4d49617b9789712e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^4b703e974c2d0841f8bba428
+2) ženklas, kurio įregistravimo data Lietuvos Respublikai pagal Madrido protokolą yra ankstesnė už [[#^s-fa7218d5c5e31927cb224ec9|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-063943de0aee3433d0461381
 
 
-3) ženklas, kuris [[#^fae2c44a4d49617b9789712e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datai, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, šio įstatymo [[#9 straipsnis. 40 straipsnio 1 dalies pakeitimas|9 straipsnio]] nustatyta tvarka yra pripažintas plačiai žinomu Lietuvos Respublikoje; ^9a5ef18f6d0ae9288fa9ca64
+3) ženklas, kuris [[#^s-fa7218d5c5e31927cb224ec9|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datai, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, šio įstatymo [[#^s-875d92a6c5d7b30b72eca483|9 straipsnio]] nustatyta tvarka yra pripažintas plačiai žinomu Lietuvos Respublikoje; ^s-56f4d68915a45dd2e6dc98c9
 
 
-4) Bendrijos prekių ženklas, kurio paraiškos padavimo data pagal Reglamentą dėl Bendrijos prekių ženklo yra ankstesnė už [[#^fae2c44a4d49617b9789712e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^567688732b51f2d7fd0ce317
+4) Bendrijos prekių ženklas, kurio paraiškos padavimo data pagal Reglamentą dėl Bendrijos prekių ženklo yra ankstesnė už [[#^s-fa7218d5c5e31927cb224ec9|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-7e98e0d56e5c419f1c44b3f5
 
 
-5) Bendrijos prekių ženklas, kuriam Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka prašoma suteikti pirmenybę [[#^34f38e1525bc1f0d900ac256|šio straipsnio 2 dalies]] 1 ar [[#^4b703e974c2d0841f8bba428|2 punkte]] nurodyto ženklo pagrindu, net jeigu pastarojo buvo atsisakyta arba leista pasibaigti jo galiojimo terminui.“ ^c15d913c12af47c4675a4b98
+5) Bendrijos prekių ženklas, kuriam Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka prašoma suteikti pirmenybę [[#^s-39dbf53cec68836fbbe0e75d|šio straipsnio 2 dalies]] 1 ar [[#^s-063943de0aee3433d0461381|2 punkte]] nurodyto ženklo pagrindu, net jeigu pastarojo buvo atsisakyta arba leista pasibaigti jo galiojimo terminui.“ ^s-a0dfef98c5db74c64e30401e
 
 
 
-### 4 straipsnis. 8 straipsnio 2 dalies papildymas
+### 4 straipsnis. 8 straipsnio 2 dalies papildymas ^s-4f21998bfc027a8ca46423b1
 
 
-[[#^2d497779cace7a72f45d6774|8 straipsnio 2 dalyje]] po žodžio „pareiškėjo“ įrašyti žodžius „arba ženklo savininko“ ir šią dalį išdėstyti taip:
+[[#^s-fe7c3e7222a4a1813ea1c8e1|8 straipsnio 2 dalyje]] po žodžio „pareiškėjo“ įrašyti žodžius „arba ženklo savininko“ ir šią dalį išdėstyti taip:
 
 
 „2. Jeigu ženkle yra šio straipsnio 1 dalyje nurodytų elementų ir jeigu yra pagrindas manyti, kad tokio ženklo registracija gali sukelti abejonių dėl ženklo suteikiamos apsaugos apimties, tokie elementai pareiškėjo arba ženklo savininko prašymu, Valstybinio patentų biuro arba teismo sprendimu gali būti pripažinti nesaugomais ženklo elementais.“
 
 
 
-### 5 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-ffd1824a7f468d96ded81b90
 
 
-Pakeisti [[#^bb3381c9ef24d0c7aa62d6ec|11 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-efcea71332807489c2470027|11 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.“
 
 
 
-### 6 straipsnis. 12 straipsnio papildymas 3 ir 4 dalimis
+### 6 straipsnis. 12 straipsnio papildymas 3 ir 4 dalimis ^s-4d3683daacd3891157a423f5
 
 
-1. Papildyti 12 straipsnį 3 dalimi: ^99e9ed7f76980cc1915e7403
+1. Papildyti 12 straipsnį 3 dalimi: ^s-38947ccf697a85bd185fe6cd
 
 
 „3. Nuo paraiškos padavimo datos, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, pareiškėjas įgyja pirmumo teisę į ženklą. Nuo šios datos iki ženklo registracijos liudijimo išdavimo datos ženklui suteikiama laikina teisinė apsauga, kuri suteikia teisę reikšti pretenzijas kitam asmeniui įspėjant dėl teisių, numatytų šio įstatymo 38 straipsnyje, galimo pažeidimo.“
 
 
-2. Papildyti 12 straipsnį 4 dalimi: ^e3eb4e76ac48436b56b9b6d9
+2. Papildyti 12 straipsnį 4 dalimi: ^s-0cd31ecb6f9e8f8423aa2926
 
 
 „4. Jeigu pareiškėjas atšaukė savo paraišką, ženklas neįregistruojamas, išregistruojamas ženklo savininko prašymu arba jo registraciją nuginčija kitas asmuo, laikoma, kad šio straipsnio 3 dalyje numatyta laikina teisinė apsauga ženklui nebuvo suteikta.“
 
 
 
-### 7 straipsnis. 30 straipsnio pakeitimas
+### 7 straipsnis. 30 straipsnio pakeitimas ^s-5b8ccac9313964373a470851
 
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
@@ -151,36 +156,36 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 „30 straipsnis. Tarptautinės ženklo registracijos galiojimas
 
 
-1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos pagal Madrido protokolo 3 straipsnio 4 dalį arba teritorinio išplėtimo po tarptautinės registracijos (toliau – vėlesnis teritorinis išplėtimas) datos pagal Madrido protokolo 3(ter) [[#^18fc326261d736c9c6de4a95|straipsnio 2 dalį]], tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir šio įstatymo nustatyta tvarka pareikštas registruoti ženklas. ^15d532470159a776dc01300c
+1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos pagal Madrido protokolo 3 straipsnio 4 dalį arba teritorinio išplėtimo po tarptautinės registracijos (toliau – vėlesnis teritorinis išplėtimas) datos pagal Madrido protokolo 3(ter) [[#^s-b1cd6e4bc35017ec72804af7|straipsnio 2 dalį]], tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir šio įstatymo nustatyta tvarka pareikštas registruoti ženklas. ^s-e60c266341d0853f8ee46971
 
 
-2. Nuo [[#^15d532470159a776dc01300c|šio straipsnio 1 dalyje]] nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu vadovaujantis Madrido protokolo [[#5 straipsnis. 11 straipsnio 2 dalies pakeitimas|5 straipsnio]] 1 ir [[#^18fc326261d736c9c6de4a95|2 dalių]] nuostatomis tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas. ^18fc326261d736c9c6de4a95
+2. Nuo [[#^s-e60c266341d0853f8ee46971|šio straipsnio 1 dalyje]] nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu vadovaujantis Madrido protokolo [[#^s-ffd1824a7f468d96ded81b90|5 straipsnio]] 1 ir [[#^s-b1cd6e4bc35017ec72804af7|2 dalių]] nuostatomis tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas. ^s-b1cd6e4bc35017ec72804af7
 
 
-3. Tarptautinės ženklo registracijos duomenys skelbiami Tarptautinio biuro tarptautinių ženklų biuletenyje. ^40407eaf99f2fbd76cf96cc4
+3. Tarptautinės ženklo registracijos duomenys skelbiami Tarptautinio biuro tarptautinių ženklų biuletenyje. ^s-e0847bfee5e023aabbc78b53
 
 
-4. Valstybinis patentų biuras duomenis apie tarptautinę ženklo registraciją, išplėstą Lietuvos Respublikoje, įrašo į Lietuvos Respublikos prekių ženklų registrą.“ ^89db0a04ed03849e8533c5bb
+4. Valstybinis patentų biuras duomenis apie tarptautinę ženklo registraciją, išplėstą Lietuvos Respublikoje, įrašo į Lietuvos Respublikos prekių ženklų registrą.“ ^s-2b59187ec9e1efd221d0fe35
 
 
 
-### 8 straipsnis. 38 straipsnio 1 dalies 2 punkto ir 3 dalies 1 punkto pakeitimas
+### 8 straipsnis. 38 straipsnio 1 dalies 2 punkto ir 3 dalies 1 punkto pakeitimas ^s-3a2d22efd5e3fa3711783c28
 
 
-1. Pakeisti 38 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^0843d2e2b96832962c1bb7b0
+1. Pakeisti 38 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-fb34bc83c6eb9577378353cd
 
 
 „2) tapatus įregistruotam ženklui tapačioms ar panašioms prekėms ir (ar) paslaugoms ar klaidinamai į jį panašus ir dėl to yra galimybė suklaidinti visuomenę, įskaitant ir klaidinamą asocijavimą su įregistruotu ženklu;“.
 
 
-2. 38 straipsnio 3 dalies 1 punkte vietoj žodžių „firmos vardas“ įrašyti žodžius „juridinio asmens pavadinimas“ ir šį punktą išdėstyti taip: ^2d497779cace7a72f45d6774
+2. 38 straipsnio 3 dalies 1 punkte vietoj žodžių „firmos vardas“ įrašyti žodžius „juridinio asmens pavadinimas“ ir šį punktą išdėstyti taip: ^s-fe7c3e7222a4a1813ea1c8e1
 
 
 „1) žymuo naudojamas kaip juridinio asmens pavadinimas ir toks jo naudojimas klaidina visuomenę dėl savo panašumo į įregistruotą ženklą bei prekes ir (ar) paslaugas, kurioms šis ženklas įregistruotas;“.
 
 
 
-### 9 straipsnis. 40 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 40 straipsnio 1 dalies pakeitimas ^s-875d92a6c5d7b30b72eca483
 
 
 Pakeisti 40 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -190,7 +195,7 @@ Pakeisti 40 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 43 straipsnio 1 dalies pakeitimas
+### 10 straipsnis. 43 straipsnio 1 dalies pakeitimas ^s-0972e63da72a4d6d319952bf
 
 
 Pakeisti 43 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -200,7 +205,7 @@ Pakeisti 43 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 11 straipsnis. 45 straipsnio pakeitimas
+### 11 straipsnis. 45 straipsnio pakeitimas ^s-102536259ce76d53585068d4
 
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
@@ -209,14 +214,14 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 „45 straipsnis. Teisės į ženklą įkeitimas ar areštas
 
 
-1. Teisė į ženklą gali būti įkeista ar areštuota (laikinai apribota teisė naudoti, valdyti ženklą arba juo disponuoti) Lietuvos Respublikos įstatymų nustatyta tvarka. ^eaebf06bff31abc908750eea
+1. Teisė į ženklą gali būti įkeista ar areštuota (laikinai apribota teisė naudoti, valdyti ženklą arba juo disponuoti) Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-1acd5788eefa5872365e8da8
 
 
-2. Gavęs hipotekos ar turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.“ ^bb3381c9ef24d0c7aa62d6ec
+2. Gavęs hipotekos ar turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.“ ^s-efcea71332807489c2470027
 
 
 
-### 12 straipsnis. 46 straipsnio papildymas 6 dalimi
+### 12 straipsnis. 46 straipsnio papildymas 6 dalimi ^s-7a63d3962e8ab743b46f95b6
 
 
 Papildyti 46 straipsnį 6 dalimi:
@@ -226,7 +231,7 @@ Papildyti 46 straipsnį 6 dalimi:
 
 
 
-### 13 straipsnis. 49 straipsnio 2 dalies papildymas 6 punktu
+### 13 straipsnis. 49 straipsnio 2 dalies papildymas 6 punktu ^s-cf8007e4b70e92974c402a03
 
 
 Papildyti 49 straipsnio 2 dalį 6 punktu:
@@ -236,35 +241,35 @@ Papildyti 49 straipsnio 2 dalį 6 punktu:
 
 
 
-### 14 straipsnis. 50 straipsnio papildymas 4, 5, 6 ir 7 dalimis
+### 14 straipsnis. 50 straipsnio papildymas 4, 5, 6 ir 7 dalimis ^s-fcc4022be241cd514d3f88d7
 
 
-1. Papildyti 50 straipsnį 4 dalimi: ^3b22a701d567e039e0d02c3a
+1. Papildyti 50 straipsnį 4 dalimi: ^s-f4d72b6b317107d895ffeea5
 
 
 „4. Ženklo savininkas turi teisę prašyti teismo pritaikyti laikinąsias apsaugos priemones Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“
 
 
-2. Papildyti 50 straipsnį 5 dalimi: ^2bbf11f49e6734bcdd493018
+2. Papildyti 50 straipsnį 5 dalimi: ^s-e959557260c78fc6bd12e0e3
 
 
 „5. Teismas ženklo savininko prašymu gali įpareigoti atsakovą pateikti informaciją apie gaminių, pažeidžiančių ženklo savininko teises, kilmę bei jų platinimo būdus.“
 
 
-3. Papildyti 50 straipsnį 6 dalimi: ^81de2235b06db5d8b2ad554b
+3. Papildyti 50 straipsnį 6 dalimi: ^s-d3acea32bc43c5ce1e57ace1
 
 
 „6. Nagrinėjant ženklo savininko teisių pažeidimo bylą, atsakovas turi teisę pareikšti priešieškinį dėl ženklo registracijos pripažinimo negaliojančia.“
 
 
-4. Papildyti 50 straipsnį 7 dalimi: ^5496a87dbc1245bfbb47b2b8
+4. Papildyti 50 straipsnį 7 dalimi: ^s-d971502379d481330a3d22bd
 
 
 „7. Ženklo savininkas turi teisę kreiptis į teismą prašydamas uždrausti Lietuvos Respublikos teritorijoje naudoti Bendrijos prekių ženklą pagal 2003 m. balandžio 16 d. Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą akto dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų II priedo „Stojimo akto 20 straipsnyje nurodytas sąrašas. 4. Bendrovių teisė. C. Pramoninės nuosavybės teisės“ nuostatas dėl Bendrijos prekių ženklo.“
 
 
 
-### 15 straipsnis. Įstatymo papildymas 551 straipsniu
+### 15 straipsnis. Įstatymo papildymas 551 straipsniu ^s-49099a938be8effaa66aeac4
 
 
 Papildyti Įstatymą 551 straipsniu:
@@ -273,17 +278,17 @@ Papildyti Įstatymą 551 straipsniu:
 „551 straipsnis. Reglamento dėl Bendrijos prekių ženklo taikymas
 
 
-1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Reglamentą dėl Bendrijos prekių ženklo. ^52e314d47be59c3659f79fb6
+1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Reglamentą dėl Bendrijos prekių ženklo. ^s-3081d84621c9e363a84e633f
 
 
-2. Valstybinis patentų biuras patvirtina reikalingus teisės aktus, susijusius su Reglamento dėl Bendrijos prekių ženklo taikymu. ^2c039a21a7ee76b05df116f8
+2. Valstybinis patentų biuras patvirtina reikalingus teisės aktus, susijusius su Reglamento dėl Bendrijos prekių ženklo taikymu. ^s-a54e26ec6c32bced90b6aad8
 
 
-3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus padavus per Valstybinį patentų biurą paraišką Bendrijos prekių ženklui registruoti mokami Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo ir Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka.“ ^acfc46a9e5f5e1d0e0bf3c09
+3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus padavus per Valstybinį patentų biurą paraišką Bendrijos prekių ženklui registruoti mokami [[latest/TAR.7DE59B8C46B2|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo]] ir Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka.“ ^s-18fe9e3d82b75683bb1936f9
 
 
 
-### 16 straipsnis. Įstatymo priedo pakeitimas
+### 16 straipsnis. Įstatymo priedo pakeitimas ^s-295a3f69e91882dc0a344640
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
@@ -297,17 +302,17 @@ priedas
 
 
 
-1. 1988 m. gruodžio 21 d. Pirmoji Tarybos direktyva 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo. ^4f781b2acb5f3e2d66e16ad5
+1. 1988 m. gruodžio 21 d. Pirmoji Tarybos direktyva 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo. ^s-0446809ff09e14f4d6cf0e84
 
 
-2. 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.“ ^60a72cb4d712b031f24ceb1e
+2. 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.“ ^s-b4ce99d47ce49686e39db3c2
 
 
 
-### 17 straipsnis. Įstatymo įsigaliojimas
+### 17 straipsnis. Įstatymo įsigaliojimas ^s-e48638ad69d6bf2d4eb4aaa8
 
 
-Šio Įstatymo [[#1 straipsnis. 2 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 21, 22, 23 dalimis|1 straipsnio]] 3 ir 4 dalys, [[#3 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas ir papildymas|3 straipsnio]] 2 ir 3 dalys, 5, 9, 12, [[#13 straipsnis. 49 straipsnio 2 dalies papildymas 6 punktu|13 straipsniai]], [[#^5496a87dbc1245bfbb47b2b8|14 straipsnio 4 dalis]], 15 ir [[#16 straipsnis. Įstatymo priedo pakeitimas|16 straipsniai]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
+Šio Įstatymo [[#^s-c18a192f47fcddf93195f5ab|1 straipsnio]] 3 ir 4 dalys, [[#^s-1278c4e8d5e1554f86f621c0|3 straipsnio]] 2 ir 3 dalys, 5, 9, 12, [[#^s-cf8007e4b70e92974c402a03|13 straipsniai]], [[#^s-d971502379d481330a3d22bd|14 straipsnio 4 dalis]], 15 ir [[#^s-295a3f69e91882dc0a344640|16 straipsniai]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 
 
 

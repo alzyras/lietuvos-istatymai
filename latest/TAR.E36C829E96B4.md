@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E36C829E96B4"
 pavadinimas: "Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-10"
 latest_path: "latest/TAR.E36C829E96B4.md"
 latest_sha256: "79919b8f2fc8a41cd5b8d5d31f377465873cb40d91a32adec11a6507be6274ef"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E36C829E96B4]]"
 ---
 # Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E36C829E96B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E36C829E96B4
+- Ryšiai: [[Ryšiai/TAR.E36C829E96B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas ^s-a85b38a532aabeac500a762d
 
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:

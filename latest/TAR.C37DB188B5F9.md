@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C37DB188B5F9"
 pavadinimas: "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 25 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 25 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-05-25"
 latest_path: "latest/TAR.C37DB188B5F9.md"
 latest_sha256: "8c3c0d7bfdba9f3b1eabccbbeea11e3a1ac5e7581744b7fe7b70b78f45c59377"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C37DB188B5F9]]"
 ---
 # Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 25 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C37DB188B5F9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C37DB188B5F9
+- Ryšiai: [[Ryšiai/TAR.C37DB188B5F9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EC9FE626ACBD"
 pavadinimas: "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "pareigūnų ir karių valstybinių pensijų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.EC9FE626ACBD.md"
 latest_sha256: "b3d859dbad5e0a0f8d45f4d9087946f806ffb0af17e6154d855a2dbc428c268c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EC9FE626ACBD]]"
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EC9FE626ACBD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EC9FE626ACBD
+- Ryšiai: [[Ryšiai/TAR.EC9FE626ACBD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas ^s-74d9c737fe3fdb75eb83d056
 
 
 Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -43,16 +48,16 @@ Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-a9232ad11eaaa4cf01bb3b43
 
 
-1. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^369fed70f342a1fc4a93401a
+1. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-c57e51416a61d471dd129bc3
 
 
-2. Sprendimai dėl išmokų laidojusiems asmenims už pareigūnų ir karių valstybinių pensijų gavėjus, mirusius iki šio įstatymo įsigaliojimo, priimami šių pensijų gavėjų mirties dieną galiojusių teisės aktų nustatyta tvarka. ^a7af6409277a4c2fc4360f5d
+2. Sprendimai dėl išmokų laidojusiems asmenims už pareigūnų ir karių valstybinių pensijų gavėjus, mirusius iki šio įstatymo įsigaliojimo, priimami šių pensijų gavėjų mirties dieną galiojusių teisės aktų nustatyta tvarka. ^s-1f0089b319a2fc6b91ee32b2
 
 
-3. Šis įstatymas, išskyrus [[#^369fed70f342a1fc4a93401a|šio straipsnio 1 dalį]], įsigalioja 2010 m. sausio 1 d. ^8707c11795beb5b5c3571d0b
+3. Šis įstatymas, išskyrus [[#^s-c57e51416a61d471dd129bc3|šio straipsnio 1 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-3159126a4ffa07227a88480c
 
 
 

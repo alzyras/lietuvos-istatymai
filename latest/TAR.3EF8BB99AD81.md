@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3EF8BB99AD81"
 pavadinimas: "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-30"
 latest_path: "latest/TAR.3EF8BB99AD81.md"
 latest_sha256: "3198999af0fad941eae237e405875aa246debbee0fa3fe438b892aa46f8bace0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3EF8BB99AD81]]"
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3EF8BB99AD81.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3EF8BB99AD81
+- Ryšiai: [[Ryšiai/TAR.3EF8BB99AD81|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-28471737f9a628bec656a185
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:

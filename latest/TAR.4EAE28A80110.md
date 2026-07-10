@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4EAE28A80110"
 pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 45 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 45 straipsnio pakeitimo įstatymas"
+  - "valstybės ir tarnybos paslapčių įstatymo 45 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-02-01"
 latest_path: "latest/TAR.4EAE28A80110.md"
 latest_sha256: "d49696599f540204eb36ac1a2b37cf7c2ec0de87ef289e41390029b5fe32c0e6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4EAE28A80110]]"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 45 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4EAE28A80110.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4EAE28A80110
+- Ryšiai: [[Ryšiai/TAR.4EAE28A80110|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,26 +37,26 @@ Vilnius
 
 
 
-### 1 straipsnis. 45 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ir 7, 8 dalių pakeitimas
+### 1 straipsnis. 45 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ir 7, 8 dalių pakeitimas ^s-4baf06cc8ca0a44db4f3c426
 
 
-1. 45 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios. ^84fce912835f08f9ff8c2372
+1. 45 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios. ^s-509ffa671f8e5670f8cd79f5
 
 
-2. Pakeisti 45 straipsnio 7 dalį ir ją išdėstyti taip: ^a12685dd34c8c94b45bb3ce1
+2. Pakeisti 45 straipsnio 7 dalį ir ją išdėstyti taip: ^s-c940d30f1b0650fa8ed6d325
 
 
 „7. Jeigu atlikus šio straipsnio 6 dalyje ar šio Įstatymo 27 straipsnyje numatytą patikrinimą paaiškėja, kad įslaptinta informacija tikrai prarasta ar neteisėtai atskleista, paslapčių subjekto vadovas nedelsdamas apie tai praneša Valstybės saugumo departamentui.“
 
 
-3. 45 straipsnio 8 dalyje išbraukti žodžius „o šis atlieka ikiteisminį tyrimą“ ir šią dalį išdėstyti taip: ^64a6cfb7989be0dc3bb4b5a3
+3. 45 straipsnio 8 dalyje išbraukti žodžius „o šis atlieka ikiteisminį tyrimą“ ir šią dalį išdėstyti taip: ^s-db9bbdfcc504f78c5194ea27
 
 
 „8. Jeigu atlikus patikrinimą paaiškėja, kad Lietuvos Respublikai užsienio valstybių ar tarptautinių organizacijų perduota įslaptinta informacija buvo tikrai prarasta ar neteisėtai atskleista, nedelsiant pranešama Paslapčių apsaugos koordinavimo komisijai, informaciją perdavusios valstybės ar tarptautinės organizacijos atitinkamoms tarnyboms ir Valstybės saugumo departamentui.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c2cad716339463075c2188ff
 
 
 Šis įstatymas įsigalioja 2011 m. vasario 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DDA88F5F387E"
 pavadinimas: "Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-01"
 latest_path: "latest/TAR.DDA88F5F387E.md"
 latest_sha256: "8a8717a41e3447bd799260b2e1847f7ab882ff32da32fe031fb8a23eb2057cba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DDA88F5F387E]]"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DDA88F5F387E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DDA88F5F387E
+- Ryšiai: [[Ryšiai/TAR.DDA88F5F387E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 18 straipsnio 1 dalies 3 punkto pakeitimas ^s-da331a15d661d819c01a4d41
 
 
 18 straipsnio 1 dalies 3 punkte vietoj žodžių „Ministro Pirmininko“ įrašyti žodį „Vyriausybės“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-07b1bcc09e8b82f1f0d64388
 
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.

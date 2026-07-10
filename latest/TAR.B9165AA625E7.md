@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B9165AA625E7"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 17, 21, 33, 43, 50, 55, 56, 62, 66, 69, 71, 76, 78 straipsnių ir 1 bei 2 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 17, 21, 33, 43, 50, 55, 56, 62, 66, 69, 71, 76, 78 straipsnių ir 1 bei 2 priedėlių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 7, 17, 21, 33, 43, 50, 55, 56, 62, 66, 69, 71, 76, 78 straipsnių ir 1 bei 2 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-29"
 latest_path: "latest/TAR.B9165AA625E7.md"
 latest_sha256: "a25c793c16a3a0177172806e90c9b66d833e07b98fdef3e27258995964be76be"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B9165AA625E7]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 7, 17, 21, 33, 43, 50, 55, 56, 62, 66, 69, 71, 76, 78 straipsnių ir 1 bei 2 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B9165AA625E7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B9165AA625E7
+- Ryšiai: [[Ryšiai/TAR.B9165AA625E7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas ^s-1848a576d47cfe9a33a69230
 
 
 Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,14 +48,14 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Pareigybes tam tikrai kategorijai priskiria:
 
 
-1) politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybes ir viešojo administravimo valstybės tarnautojų tipines pareigybes – šis įstatymas (1 ir 2 priedėliai); ^47321a64a21c33e37d2df899
+1) politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybes ir viešojo administravimo valstybės tarnautojų tipines pareigybes – šis įstatymas (1 ir 2 priedėliai); ^s-3fc7362464580942ae69d4b2
 
 
-2) viešojo administravimo valstybės tarnautojų ir paslaugų valstybės tarnautojų pareigybes, įrašytas į Valstybės tarnautojų pareigybių pavyzdinį sąrašą, – Vyriausybė bei valstybės ir savivaldybių institucijos ir įstaigos pagal Vyriausybės tvirtinamą Pareigybių aprašymo ir vertinimo metodiką.“ ^23ebfbfd0a02dc83137f819e
+2) viešojo administravimo valstybės tarnautojų ir paslaugų valstybės tarnautojų pareigybes, įrašytas į Valstybės tarnautojų pareigybių pavyzdinį sąrašą, – Vyriausybė bei valstybės ir savivaldybių institucijos ir įstaigos pagal Vyriausybės tvirtinamą Pareigybių aprašymo ir vertinimo metodiką.“ ^s-5a782ac7f2ea8e7f27ad4967
 
 
 
-### 2 straipsnis. 17 straipsnio 4 dalies 5 punkto pakeitimas
+### 2 straipsnis. 17 straipsnio 4 dalies 5 punkto pakeitimas ^s-2d563f6514cdd2646e1cf0ed
 
 
 17 straipsnio 4 dalies 5 punkte po žodžio „administratorius“ įrašyti žodžius „(savivaldybės administracijoje)“, po žodžio „kontrolierius“ – žodžius „(savivaldybės kontrolieriaus tarnyboje)“, sakinį „Savivaldybės kontrolierius sprendžia, kuris pretendentas tinka į karjeros valstybės tarnautojų pareigas savivaldybės kontrolieriaus tarnyboje“ išbraukti ir šį punktą išdėstyti taip:
@@ -60,7 +65,7 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 21 straipsnio 14 punkto pakeitimas
+### 3 straipsnis. 21 straipsnio 14 punkto pakeitimas ^s-a21200763b9ec53c2dcdfbbb
 
 
 21 straipsnio 14 punkte išbraukti sakinį „Gauti šią kompensaciją turi teisę tik tie asmenys, kurie prieš tapdami politinio (asmeninio) pasitikėjimo valstybės tarnautojais arba įstaigų vadovais nebuvo karjeros valstybės tarnautojai“, vietoj žodžių „tokios teisės neturi“ įrašyti žodžius „teisės gauti šią kompensaciją neturi“ ir šį punktą išdėstyti taip:
@@ -70,7 +75,7 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 33 straipsnio 3 dalies pakeitimas ir papildymas
+### 4 straipsnis. 33 straipsnio 3 dalies pakeitimas ir papildymas ^s-d51c8023a674b37f54a7ccc3
 
 
 33 straipsnio 3 dalyje išbraukti žodžius „kuris nėra bendroji darbo trukmė“, po žodžių „arba paskyrimo“ įrašyti žodį „ (išrinkimo)“, dalį papildyti sakiniu „Pagal tarnybos stažą nustatomas šio straipsnio 4 dalyje nurodyto priedo dydis, šio įstatymo 50 straipsnyje nurodytų kasmetinių atostogų trukmė ir 76 straipsnio 2 dalyje nurodytos kompensacijos dydis“ ir ją išdėstyti taip:
@@ -80,7 +85,7 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 43 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 43 straipsnio 1 dalies pakeitimas ^s-c6b6e895071b5681fe336071
 
 
 43 straipsnio 1 dalyje vietoj žodžio „tiesioginiam“ įrašyti žodžius „įstaigos vadovo ar tiesioginio“, vietoj žodžio „vadovui“ – žodžius „vadovo iniciatyva arba jiems“ ir šią dalį išdėstyti taip:
@@ -90,7 +95,7 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 50 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 50 straipsnio 2 dalies pakeitimas ^s-735c58898e208d3029045a72
 
 
 50 straipsnio 2 dalyje po skaičiaus ir žodžio „5 metų“ išbraukti žodį „valstybės“, vietoj skaičiaus „2“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:
@@ -100,23 +105,23 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 55 straipsnio 1 dalies ir 3 dalies 3 punkto pakeitimas ir papildymas
+### 7 straipsnis. 55 straipsnio 1 dalies ir 3 dalies 3 punkto pakeitimas ir papildymas ^s-db9242dd101eff4b2fa6d3fe
 
 
-1. 55 straipsnio 1 dalyje po žodžio „likvidavus“ įrašyti žodį „(panaikinus)“, vietoj žodžių „kitas laisvas ar naujai įsteigtas to paties lygio ir kategorijos pareigas, o jei tokių nėra“ – žodžius „ kitą laisvą ar naujai steigiamą to paties lygio ir kategorijos pareigybę, o jei tokios nėra“ ir šią dalį išdėstyti taip: ^dd7b4d3988a41ac5b4dd0aca
+1. 55 straipsnio 1 dalyje po žodžio „likvidavus“ įrašyti žodį „(panaikinus)“, vietoj žodžių „kitas laisvas ar naujai įsteigtas to paties lygio ir kategorijos pareigas, o jei tokių nėra“ – žodžius „ kitą laisvą ar naujai steigiamą to paties lygio ir kategorijos pareigybę, o jei tokios nėra“ ir šią dalį išdėstyti taip: ^s-36d4e46f447c89582bb1011a
 
 
 „1. Panaikinus savivaldybę, likvidavus (panaikinus) ar reorganizavus valstybės instituciją ar įstaigą, savivaldybės administraciją, jos padalinį ar kitą savivaldybės įstaigą, panaikinus pareigybę, sumažinus etatų skaičių arba kai dėl etatų mažinimo pareigybei nustatoma ne visos darbo dienos darbo trukmė, karjeros valstybės tarnautojas perkeliamas į valstybės tarnybos rezervą (kai dėl etatų mažinimo pareigybei nustatoma ne visos darbo dienos darbo trukmė, perkeliama valstybės tarnautojo prašymu), o iš jo – į kitą laisvą ar naujai steigiamą to paties lygio ir kategorijos pareigybę, o jei tokios nėra, – tarnautojo sutikimu ir į žemesnes pareigas. Valstybės ar savivaldybių įstaigų reorganizavimo į valstybės ar savivaldybių įmones ar viešąsias įstaigas atveju valstybės tarnautojas gali būti perkeliamas į šias įmones ar įstaigas. Perkėlimo sąlygas ir tvarką nustato Vyriausybė.“
 
 
-2. 55 straipsnio 3 dalies 3 punkte po žodžio „teismą“ įrašyti žodžius „kitas teismines, teisėsaugos ar kontrolės (priežiūros) institucijas“ ir šį punktą išdėstyti taip: ^f42057fbef65de40ba449e49
+2. 55 straipsnio 3 dalies 3 punkte po žodžio „teismą“ įrašyti žodžius „kitas teismines, teisėsaugos ar kontrolės (priežiūros) institucijas“ ir šį punktą išdėstyti taip: ^s-b1491adbf2096639abaf8e4a
 
 
 „3) pagal kvietimą vyksta į teismą, kitas teismines, teisėsaugos ar kontrolės (priežiūros) institucijas;.“
 
 
 
-### 8 straipsnis. 56 straipsnio 1 dalies 4 punkto papildymas
+### 8 straipsnis. 56 straipsnio 1 dalies 4 punkto papildymas ^s-4217381f4adcc7b5a4bcce09
 
 
 56 straipsnio 1 dalies 4 punkte po žodžio „taikoma“ įrašyti žodžius „savivaldybės kontrolieriui ir“, po žodžių „lygių galimybių kontrolieriumi“ – žodžius „vaiko teisių apsaugos kontrolieriumi“ ir jį išdėstyti taip:
@@ -126,23 +131,23 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 62 straipsnio 10 ir 12 dalių pakeitimas
+### 9 straipsnis. 62 straipsnio 10 ir 12 dalių pakeitimas ^s-7529ddd9ab48a8527dd8779b
 
 
-1. Pakeisti 62 straipsnio 10 dalį ir ją išdėstyti taip: ^44e81f01a2dd6f93948418dd
+1. Pakeisti 62 straipsnio 10 dalį ir ją išdėstyti taip: ^s-f71986fade2902395885db21
 
 
 „10. Valstybės tarnautojams ankstesnės darbo apmokėjimo sąlygos lieka galioti iki 2001 m. sausio 1 d.“
 
 
-2. Pakeisti 62 straipsnio 12 dalį ir ją išdėstyti taip: ^85d25f528fbec42cdfa19a42
+2. Pakeisti 62 straipsnio 12 dalį ir ją išdėstyti taip: ^s-3807d13e0782a0b5c1fa597a
 
 
-„12. Pasikeitus valstybės tarnautojo pareigybės statusui (kai valstybės tarnautojo, pagal šio įstatymo [[#15 straipsnis. 1 priedėlio 1 skirsnio pakeitimas|15 straipsnį]] ar pagal 62 straipsnio 4 dalį tapusio politinio (asmeninio) pasitikėjimo valstybės tarnautoju, pareigybė buvo įrašyta į šio įstatymo 2 priedėlį arba kai pareigybė perkeliama iš 1 priedėlio į 2 priedėlį arba iš 2 priedėlio į 1 priedėlį), einančio šias pareigas asmens tarnybos santykiai tęsiasi – jis tampa atitinkamai karjeros valstybės tarnautoju, įstaigos vadovu ar politinio (asmeninio) pasitikėjimo valstybės tarnautoju. Jo tarnybos santykiai įteisinami asmenų, nurodytų šio įstatymo 14 straipsnio 7 dalyje (karjeros valstybės tarnautojams), 15 straipsnio 2 dalyje (politinio (asmeninio) pasitikėjimo valstybės tarnautojams) ar 62 straipsnio 5 dalyje (įstaigų vadovams), įsakymu (potvarkiu). Politinio (asmeninio) pasitikėjimo valstybės tarnautojai, šioje dalyje nurodytu būdu tapę savivaldybės administracijos karjeros valstybės tarnautojais ar viešojo administravimo įstaigos vadovais ir išrinkti tos pačios savivaldybės tarybos nariais, turi apsispręsti dėl tolesnės tarnybos. Apsisprendę tęsti valstybės tarnybą asmenys turi pareiškimu kreiptis į Vyriausiąją rinkimų komisiją dėl atsistatydinimo iš savivaldybės tarybos narių. Asmenys, Savivaldybių tarybų rinkimų įstatymo 86 straipsnio 1 dalies nustatyta tvarka nepateikę pareiškimo, praranda valstybės tarnautojo statusą pagal Valstybės tarnybos įstatymo 56 straipsnio 1 dalies 4 punktą.“
+„12. Pasikeitus valstybės tarnautojo pareigybės statusui (kai valstybės tarnautojo, pagal šio įstatymo [[#^s-ff4a0480e640e35b9464ea12|15 straipsnį]] ar pagal 62 straipsnio 4 dalį tapusio politinio (asmeninio) pasitikėjimo valstybės tarnautoju, pareigybė buvo įrašyta į šio įstatymo 2 priedėlį arba kai pareigybė perkeliama iš 1 priedėlio į 2 priedėlį arba iš 2 priedėlio į 1 priedėlį), einančio šias pareigas asmens tarnybos santykiai tęsiasi – jis tampa atitinkamai karjeros valstybės tarnautoju, įstaigos vadovu ar politinio (asmeninio) pasitikėjimo valstybės tarnautoju. Jo tarnybos santykiai įteisinami asmenų, nurodytų šio įstatymo 14 straipsnio 7 dalyje (karjeros valstybės tarnautojams), 15 straipsnio 2 dalyje (politinio (asmeninio) pasitikėjimo valstybės tarnautojams) ar 62 straipsnio 5 dalyje (įstaigų vadovams), įsakymu (potvarkiu). Politinio (asmeninio) pasitikėjimo valstybės tarnautojai, šioje dalyje nurodytu būdu tapę savivaldybės administracijos karjeros valstybės tarnautojais ar viešojo administravimo įstaigos vadovais ir išrinkti tos pačios savivaldybės tarybos nariais, turi apsispręsti dėl tolesnės tarnybos. Apsisprendę tęsti valstybės tarnybą asmenys turi pareiškimu kreiptis į Vyriausiąją rinkimų komisiją dėl atsistatydinimo iš savivaldybės tarybos narių. Asmenys, Savivaldybių tarybų rinkimų įstatymo 86 straipsnio 1 dalies nustatyta tvarka nepateikę pareiškimo, praranda valstybės tarnautojo statusą pagal Valstybės tarnybos įstatymo 56 straipsnio 1 dalies 4 punktą.“
 
 
 
-### 10 straipsnis. 66 straipsnio 1 dalies pakeitimas
+### 10 straipsnis. 66 straipsnio 1 dalies pakeitimas ^s-93de7ee17d22c6e3744a5bd0
 
 
 66 straipsnio 1 dalyje vietoj skaičiaus „21“ įrašyti skaičių „23“, vietoj žodžių „išmokama Vyriausybės nustatyta tvarka“ įrašyti žodžius „šio įstatymo 21 straipsnio 14 punkte ir Vyriausybės nustatyta tvarka išmokama“ ir šią dalį išdėstyti taip:
@@ -152,25 +157,25 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 11 straipsnis. 69 straipsnio 1, 2 ir 4 dalių pakeitimas
+### 11 straipsnis. 69 straipsnio 1, 2 ir 4 dalių pakeitimas ^s-7349181651678e488e355792
 
 
-1. Pakeisti 69 straipsnio 1 dalį ir ją išdėstyti taip: ^0e54c60ab34b5e18152cc154
+1. Pakeisti 69 straipsnio 1 dalį ir ją išdėstyti taip: ^s-d543a13cdd072c4923e42f2c
 
 
 „1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir 4 dalių nuostatas nuo 2001 m. sausio 1 d.“
 
 
-2. Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip: ^2e645f4fcf3594e6c18a235d
+2. Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0285031d8020db32a9b75b64
 
 
-„2. Valstybės tarnautojams, kurių iki [[#^0e54c60ab34b5e18152cc154|šio straipsnio 1 dalyje]] nurodytos datos gautas vidutinis darbo užmokestis yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas:
+„2. Valstybės tarnautojams, kurių iki [[#^s-d543a13cdd072c4923e42f2c|šio straipsnio 1 dalyje]] nurodytos datos gautas vidutinis darbo užmokestis yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas:
 
 
-1) 6 mėnesius prie darbo užmokesčio, nustatyto pagal šį įstatymą, papildomai mokamas kiekvieną mėnesį apskaičiuotas darbo užmokesčio skirtumas tarp iki [[#^0e54c60ab34b5e18152cc154|šio straipsnio 1 dalyje]] nurodytos datos valstybės tarnautojo gauto vidutinio darbo užmokesčio (toliau – buvęs darbo užmokestis) ir pagal šį įstatymą nustatyto darbo užmokesčio dydžių. Valstybės tarnautojo buvęs darbo užmokestis apskaičiuojamas iš paskutinių 3 mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių, vadovaujantis Vyriausybės patvirtinta tvarka; ^e6b8c222d6d606809e7bb356
+1) 6 mėnesius prie darbo užmokesčio, nustatyto pagal šį įstatymą, papildomai mokamas kiekvieną mėnesį apskaičiuotas darbo užmokesčio skirtumas tarp iki [[#^s-d543a13cdd072c4923e42f2c|šio straipsnio 1 dalyje]] nurodytos datos valstybės tarnautojo gauto vidutinio darbo užmokesčio (toliau – buvęs darbo užmokestis) ir pagal šį įstatymą nustatyto darbo užmokesčio dydžių. Valstybės tarnautojo buvęs darbo užmokestis apskaičiuojamas iš paskutinių 3 mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių, vadovaujantis Vyriausybės patvirtinta tvarka; ^s-01bba26d252759bfce7f5100
 
 
-2) praėjus 6 mėnesiams, nurodytiems [[#^e6b8c222d6d606809e7bb356|šios dalies 1 punkte]], pereinamuoju laikotarpiu – iki 2003 m. sausio 1 d. buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu): ^30e37d08f3f6d03553185b89
+2) praėjus 6 mėnesiams, nurodytiems [[#^s-01bba26d252759bfce7f5100|šios dalies 1 punkte]], pereinamuoju laikotarpiu – iki 2003 m. sausio 1 d. buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu): ^s-3673ea4a4c5017cb4858ffe7
 
 
 A = C – [(C – B) x M], čia:
@@ -182,7 +187,7 @@ A – pereinamuoju laikotarpiu valstybės tarnautojui priklausantis darbo užmok
 B – pagal šį įstatymą nustatytas valstybės tarnautojo darbo užmokestis;
 
 
-C – valstybės tarnautojo buvęs darbo užmokestis ([[#^e6b8c222d6d606809e7bb356|šio straipsnio 2 dalies 1 punktas]]);
+C – valstybės tarnautojo buvęs darbo užmokestis ([[#^s-01bba26d252759bfce7f5100|šio straipsnio 2 dalies 1 punktas]]);
 
 
 M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai viešojo administravimo ir paslaugų valstybės tarnautojams:
@@ -214,12 +219,12 @@ M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
  0,8
 
 
-3. 69 straipsnio 4 dalyje vietoj skaičių ir žodžių „1 dalies 1 ar 2 punktuose nurodytų datų“ įrašyti skaičių ir žodžius „1 dalyje nurodytos datos“ ir šią dalį išdėstyti taip: ^ddaafc0fabde348be5752586
-„4. [[#^ddaafc0fabde348be5752586|Šio straipsnio 3 dalies]] nuostatos turi būti įgyvendintos ne vėliau kaip iki 2006 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio 2 ir [[#^ddaafc0fabde348be5752586|3 dalių]] nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki [[#^0e54c60ab34b5e18152cc154|šio straipsnio 1 dalyje]] nurodytos datos galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir  asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
+3. 69 straipsnio 4 dalyje vietoj skaičių ir žodžių „1 dalies 1 ar 2 punktuose nurodytų datų“ įrašyti skaičių ir žodžius „1 dalyje nurodytos datos“ ir šią dalį išdėstyti taip: ^s-dd9ee6f23323cb1d0841a854
+„4. [[#^s-dd9ee6f23323cb1d0841a854|Šio straipsnio 3 dalies]] nuostatos turi būti įgyvendintos ne vėliau kaip iki 2006 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio 2 ir [[#^s-dd9ee6f23323cb1d0841a854|3 dalių]] nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki [[#^s-d543a13cdd072c4923e42f2c|šio straipsnio 1 dalyje]] nurodytos datos galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir  asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
 
 
 
-### 12 straipsnis. 71 straipsnio pakeitimas
+### 12 straipsnis. 71 straipsnio pakeitimas ^s-d8ce4ad181dcdd092aca3245
 
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
@@ -232,26 +237,26 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
 
 
-### 13 straipsnis. 76 straipsnio pakeitimas ir papildymas
+### 13 straipsnis. 76 straipsnio pakeitimas ir papildymas ^s-684c40761fbc0d4a97238c19
 
 
-1. Pakeisti 76 straipsnio 3 dalį ir ją išdėstyti taip: ^785bd1cbb538f7fe030b2f9d
+1. Pakeisti 76 straipsnio 3 dalį ir ją išdėstyti taip: ^s-3f48940ea3d0bf319197fe5c
 
 
-„3. [[#^15361041f12d350361cfcf46|Šio straipsnio 2 dalyje]] nurodytas kompensacijas kas mėnesį dalimis, lygiomis vieno mėnesio vidutiniam darbo užmokesčiui, taip pat 1 dalies 2 punkte nurodytas kompensacijas moka valstybės institucija, įstaiga ar savivaldybė, priėmusi sprendimą dėl valstybės institucijos ar įstaigos, savivaldybės administracijos, jos padalinio ar savivaldybės įstaigos likvidavimo (panaikinimo) ar reorganizavimo, pareigybės panaikinimo ar etatų skaičiaus sumažinimo. Tuo atveju, kai sprendimą dėl  savivaldybės panaikinimo, valstybės institucijos ar įstaigos likvidavimo (panaikinimo) ar reorganizavimo, pareigybės panaikinimo ar etatų skaičiaus sumažinimo priima Seimas ar Vyriausybė, kompensacijas ta pačia tvarka moka Vyriausybės įgaliota institucija.“
+„3. [[#^s-4694f73a64036f93e79de2f7|Šio straipsnio 2 dalyje]] nurodytas kompensacijas kas mėnesį dalimis, lygiomis vieno mėnesio vidutiniam darbo užmokesčiui, taip pat 1 dalies 2 punkte nurodytas kompensacijas moka valstybės institucija, įstaiga ar savivaldybė, priėmusi sprendimą dėl valstybės institucijos ar įstaigos, savivaldybės administracijos, jos padalinio ar savivaldybės įstaigos likvidavimo (panaikinimo) ar reorganizavimo, pareigybės panaikinimo ar etatų skaičiaus sumažinimo. Tuo atveju, kai sprendimą dėl  savivaldybės panaikinimo, valstybės institucijos ar įstaigos likvidavimo (panaikinimo) ar reorganizavimo, pareigybės panaikinimo ar etatų skaičiaus sumažinimo priima Seimas ar Vyriausybė, kompensacijas ta pačia tvarka moka Vyriausybės įgaliota institucija.“
 
 
-2. Papildyti 76 straipsnį nauja 4 dalimi: ^15361041f12d350361cfcf46
+2. Papildyti 76 straipsnį nauja 4 dalimi: ^s-4694f73a64036f93e79de2f7
 
 
 „4. Jeigu kompensacijos mokėjimo laikotarpiu asmuo įgijo valstybės tarnautojo statusą, kompensacijos mokėjimas jam nutraukiamas nuo kito mėnesio pirmos dienos po valstybės tarnautojo statuso įgijimo.“
 
 
-3. 76 straipsnio buvusias 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^754302aad7e38be5da132742
+3. 76 straipsnio buvusias 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^s-e2b0712d39dc643adc669ec4
 
 
 
-### 14 straipsnis. 78 straipsnio 2 punkto pakeitimas
+### 14 straipsnis. 78 straipsnio 2 punkto pakeitimas ^s-67c3fc819f03093c6a9ec5b3
 
 
 Pakeisti 78 straipsnio 2 punktą ir jį išdėstyti taip:
@@ -261,7 +266,7 @@ Pakeisti 78 straipsnio 2 punktą ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. 1 priedėlio 1 skirsnio pakeitimas
+### 15 straipsnis. 1 priedėlio 1 skirsnio pakeitimas ^s-ff4a0480e640e35b9464ea12
 
 
 Pakeisti 1 priedėlio 1 skirsnį ir jį išdėstyti taip:
@@ -327,10 +332,10 @@ Pakeisti 1 priedėlio 1 skirsnį ir jį išdėstyti taip:
 
 
 
-### 16 straipsnis. 2 priedėlio 1, 7, 13-28 skirsnių pakeitimas
+### 16 straipsnis. 2 priedėlio 1, 7, 13-28 skirsnių pakeitimas ^s-83c87f9e671c6cda0d574243
 
 
-1. Pakeisti 2 priedėlio 1 skirsnį ir jį išdėstyti taip: ^dc14e47ca9458a097e331295
+1. Pakeisti 2 priedėlio 1 skirsnį ir jį išdėstyti taip: ^s-4f4034f301e30fb28a942190
 
 „1. SEIMO KANCELIARIJA
 
@@ -392,7 +397,7 @@ Pakeisti 1 priedėlio 1 skirsnį ir jį išdėstyti taip:
 
 
 
-2. Pakeisti 2 priedėlio 7 skirsnį ir jį išdėstyti taip: ^4f16589fc4ffc0bde8a31854
+2. Pakeisti 2 priedėlio 7 skirsnį ir jį išdėstyti taip: ^s-d2bde2f85540391b76eac775
 
 „7. KITI TEISMAI
 
@@ -434,10 +439,10 @@ Pakeisti 1 priedėlio 1 skirsnį ir jį išdėstyti taip:
 
 
 
-3. 2 priedėlio 13-28 skirsnius laikyti atitinkamai 12-27 skirsniais. ^396bdcb1d19e4a1c62fcba0c
+3. 2 priedėlio 13-28 skirsnius laikyti atitinkamai 12-27 skirsniais. ^s-8d32b920365ff0f2f5132906
 
 
-4. Pakeisti 2 priedėlio 15 skirsnį ir jį išdėstyti taip: ^688ed2bdb2bc5b488593adb3
+4. Pakeisti 2 priedėlio 15 skirsnį ir jį išdėstyti taip: ^s-18e7c2a8c902deaa5c57b06d
 
 „15. VERTYBINIŲ POPIERIŲ KOMISIJA, KONKURENCIJOS TARYBA,
 
@@ -477,7 +482,7 @@ VALSTYBINĖ KAINŲ IR ENERGETIKOS KONTROLĖS KOMISIJA
 
 
 
-5. Pakeisti 2 priedėlio 17, 18, 19, 20 skirsnius ir juos išdėstyti taip: ^d06feda8a088f6bd2cbd84f3
+5. Pakeisti 2 priedėlio 17, 18, 19, 20 skirsnius ir juos išdėstyti taip: ^s-44023a301ae53347aad8c0d8
 
 „17. VYRIAUSYBĖS ĮSTEIGTOS VALSTYBINĖS (NUOLATINĖS) KOMISIJOS,
 
@@ -518,7 +523,7 @@ VYRIAUSYBĖS ĮSTAIGOS
 
 
 
-18. DEPARTAMENTAI IR KITOS ĮSTAIGOS PRIE MINISTERIJŲ, ^48200f2d9570b0ef70502d86
+18. DEPARTAMENTAI IR KITOS ĮSTAIGOS PRIE MINISTERIJŲ, ^s-e050563cf33b37b164066d30
 
 
 MINISTERIJOMS ATSKAITINGOS ĮSTAIGOS, LIETUVOS KARIUOMENĖ
@@ -560,7 +565,7 @@ MINISTERIJOMS ATSKAITINGOS ĮSTAIGOS, LIETUVOS KARIUOMENĖ
 
 
 
-19. REVIZIJŲ DEPARTAMENTAS, MUITINĖS DEPARTAMENTAS IR KITOS ^96e7504bc1e8549d20de4e96
+19. REVIZIJŲ DEPARTAMENTAS, MUITINĖS DEPARTAMENTAS IR KITOS ^s-c1313a9df0f2a02854474e1d
 
 
 MUITINĖS ĮSTAIGOS, INSPEKCIJOS
@@ -627,7 +632,7 @@ MUITINĖS ĮSTAIGOS, INSPEKCIJOS
 
 
 
-20. ĮSTAIGOS, PAVALDŽIOS MINISTERIJOMS, VYRIAUSYBĖS ĮSTAIGOMS AR ^6fa511d7182bc4d910ca2554
+20. ĮSTAIGOS, PAVALDŽIOS MINISTERIJOMS, VYRIAUSYBĖS ĮSTAIGOMS AR ^s-3c8a8155bc046f3171f82c55
 
 
 ĮSTAIGOMS PRIE MINISTERIJŲ
@@ -665,7 +670,7 @@ MUITINĖS ĮSTAIGOS, INSPEKCIJOS
 
 
 
-6. Pakeisti 2 priedėlio 22 skirsnį ir jį išdėstyti taip: ^269cc8233578beff9879dbc7
+6. Pakeisti 2 priedėlio 22 skirsnį ir jį išdėstyti taip: ^s-2d60f3b682948b5440368715
 
 „22. VALSTYBĖS SIENOS APSAUGOS TARNYBOS PADALINIAI BEI VIDAUS
 
@@ -717,7 +722,7 @@ REIKALŲ MINISTERIJOS VIDAUS TARNYBOS PULKAI
 
 
 
-7. Pakeisti 2 priedėlio 25 skirsnį ir jį išdėstyti taip: ^a6e62a86c52ec076d7d95e77
+7. Pakeisti 2 priedėlio 25 skirsnį ir jį išdėstyti taip: ^s-efab9e7b02d6e2369655ca41
 
 „25. APSKRITIES VIRŠININKO ADMINISTRACIJA
 
@@ -779,7 +784,7 @@ REIKALŲ MINISTERIJOS VIDAUS TARNYBOS PULKAI
 
 
 
-8. Pakeisti 2 priedėlio 27 skirsnį ir jį išdėstyti taip: ^6a5e470601ba43567a2a6ed4
+8. Pakeisti 2 priedėlio 27 skirsnį ir jį išdėstyti taip: ^s-e668ddaaf680ece02ea7fa7a
 
 „27. SAVIVALDYBĖS
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B5FA1C684921"
 pavadinimas: "Lietuvos Respublikos 1996 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1996 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas"
+  - "1996 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-17"
 latest_path: "latest/TAR.B5FA1C684921.md"
 latest_sha256: "2f5e6078172ac0b3a3573060aaaea48de9e238edf7e83f731c78ca12972a833f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B5FA1C684921]]"
 ---
 # Lietuvos Respublikos 1996 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B5FA1C684921.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B5FA1C684921
+- Ryšiai: [[Ryšiai/TAR.B5FA1C684921|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,49 +34,49 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-ad43afa91a9a748b030f0ba3
 1996 METŲ VALSTYBĖS IR SAVIVALDYBIŲ BIUDŽETŲ PAKEITIMAS
 
 
 
-### 1 straipsnis. Asignavimų sumažinimas
+### 1 straipsnis. Asignavimų sumažinimas ^s-cb2b9e5ef54bf027ba726622
 
 
-1. Sumažinti valstybės biudžeto asignavimus 276724 tūkst. litų pagal 1 priedėlį. Iš to skaičiaus valstybės valdžios ir valdymo institucijų paprastąsias išlaidas, patvirtintas 1996 metų antrajam pusmečiui, sumažinti 5 procentais. ^c5f8337e0954d93b749efb53
+1. Sumažinti valstybės biudžeto asignavimus 276724 tūkst. litų pagal 1 priedėlį. Iš to skaičiaus valstybės valdžios ir valdymo institucijų paprastąsias išlaidas, patvirtintas 1996 metų antrajam pusmečiui, sumažinti 5 procentais. ^s-b2f424fe235f636d8ed287c6
 
 
-2. Sumažinti asignavimus kapitalo investicijoms ir gamtosaugos objektams finansuoti, numatytus atskaitymų į savivaldybių biudžetus normatyvuose, 23480 tūkst. litų pagal 2 priedėlį. ^6cd9b75e7089b19abda9c021
+2. Sumažinti asignavimus kapitalo investicijoms ir gamtosaugos objektams finansuoti, numatytus atskaitymų į savivaldybių biudžetus normatyvuose, 23480 tūkst. litų pagal 2 priedėlį. ^s-49ec5229dc2b6b4d958cce18
 
 
-3. Įpareigoti savivaldybes, turinčias įsiskolinimų už šiluminę energiją ir ryšių paslaugas, sumažinti savivaldybių biudžetų 1996 metų antrajam pusmečiui skirtas paprastąsias išlaidas (įskaitant ir valdymo išlaidas) ne mažiau kaip 5 procentais ir šias lėšas skirti susidariusiam įsiskolinimui padengti. ^b59887bb1e7253916c031ead
-
-
-
-### 2 straipsnis. Asignavimų skyrimas
-
-
-1. Padidinti valstybės biudžeto asignavimus valstybės biudžeto asignavimų valdytojams 292604 tūkst. litų pagal 3 priedėlį. ^236022d4b978af5f80f3b01b
-
-
-2. Skirti, nurodant tikslinę paskirtį, valstybės biudžeto asignavimus savivaldybių gamtosaugos objektams finansuoti pagal 4 priedėlį. ^fd1c7814024af8c27533393c
+3. Įpareigoti savivaldybes, turinčias įsiskolinimų už šiluminę energiją ir ryšių paslaugas, sumažinti savivaldybių biudžetų 1996 metų antrajam pusmečiui skirtas paprastąsias išlaidas (įskaitant ir valdymo išlaidas) ne mažiau kaip 5 procentais ir šias lėšas skirti susidariusiam įsiskolinimui padengti. ^s-f473e30363cb3c7205fcd777
 
 
 
-### 3 straipsnis. Asignavimų pakeitimas
+### 2 straipsnis. Asignavimų skyrimas ^s-514434f39bd7818dd148d989
+
+
+1. Padidinti valstybės biudžeto asignavimus valstybės biudžeto asignavimų valdytojams 292604 tūkst. litų pagal 3 priedėlį. ^s-b6f42f5a9398d72a75057953
+
+
+2. Skirti, nurodant tikslinę paskirtį, valstybės biudžeto asignavimus savivaldybių gamtosaugos objektams finansuoti pagal 4 priedėlį. ^s-9a7efe2ba05206d2445a7b46
+
+
+
+### 3 straipsnis. Asignavimų pakeitimas ^s-ef756eb6be4c1b192aa79b33
 
 
 Leisti valstybės biudžeto asignavimų valdytojams padaryti jų prašomus asignavimų pakeitimus pagal 5 priedėlį.
 
 
 
-### 4 straipsnis. Valstybės biudžeto išlaidų paskirstymas pagal funkcijas
+### 4 straipsnis. Valstybės biudžeto išlaidų paskirstymas pagal funkcijas ^s-b19611d8c3f7ab8d4016fe35
 
 
 Leisti Lietuvos Respublikos Vyriausybei, remiantis šiuo įstatymu, paskirstyti išlaidas pagal biudžeto išlaidų funkcijas.
 
 
 
-### 5 straipsnis. Finansavimo eiliškumas
+### 5 straipsnis. Finansavimo eiliškumas ^s-110830e03cdf901bb2534e3f
 
 
 Suteikti Lietuvos Respublikos Vyriausybei teisę, finansuojant valstybės biudžeto išlaidas, nurodyti tikslinę pervedamų lėšų paskirtį sunaudotiems energijos ištekliams apmokėti.
@@ -1303,14 +1308,14 @@ ______________
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-de99ba445f74a04f38ee2d36
 LIETUVOS RESPUBLIKOS ĮSTATYMO [[latest/TAR.11F4B795287C|„DĖL LIETUVOS RESPUBLIKOS 1996 METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ BIUDŽETUS NORMATYVŲ BEI DOTACIJŲ PATVIRTINIMO“]] (1995 M. GRUODŽIO 7 D. Nr. I-1116) PAKEITIMAS
 
 (Žin., 1995, Nr. 103-2302; 1996, Nr. 33-811, Nr. 44-1067, Nr. 60-1410):
 
 
 
-### 1 straipsnis. 1 straipsnio pirmosios dalies pakeitimas
+### 1 straipsnis. 1 straipsnio pirmosios dalies pakeitimas ^s-05b613e25b9354e3a12c53b7
 
 
 Pakeisti 1 straipsnio pirmąją dalį ir ją išdėstyti taip:
@@ -1320,24 +1325,24 @@ Pakeisti 1 straipsnio pirmąją dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio antrosios dalies pakeitimas
+### 2 straipsnis. 5 straipsnio antrosios dalies pakeitimas ^s-209987b5f1a39cb311d6db70
 
 
-Pakeisti [[#5 straipsnis. Įstatymo 5 priedėlio pakeitimas|5 straipsnio]] antrąją dalį ir ją išdėstyti taip:
+Pakeisti 5 straipsnio antrąją dalį ir ją išdėstyti taip:
 
 
 „Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms.“
 
 
 
-### 3 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 3 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-8773fc66b2c466aff68847ec
 
 
 Pakeisti 1 priedėlį ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos1995 m.
-gruodžio 7 d.įstatymo Nr. I-1116
+gruodžio 7 d.[[latest/TAR.11F4B795287C|įstatymo Nr. I-1116]]
 1 priedėlis
 (Lietuvos Respublikos1996 m..
 liepos 3 d įstatymo Nr. I-1427
@@ -2628,14 +2633,14 @@ IŠLAIDOS
 
 
 
-### 4 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 4 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-be3669001eed0e503f9a14c9
 
 
 Pakeisti 2 priedėlį ir jį išdėstyti taip:
 „Lietuvos Respublikos1995 m.
 
 
-gruodžio 7 d. įstatymo Nr. I-1116
+gruodžio 7 d. [[latest/TAR.11F4B795287C|įstatymo Nr. I-1116]]
 2 priedėlis
 (Lietuvos Respublikos1996 m.
 liepos 3 d. įstatymo Nr. I-1427
@@ -2852,14 +2857,14 @@ SOCIALINĖS EKONOMINĖS PROGRAMOS, FINANSUOJAMOS IŠ 1 PRIEDĖLYJE PATVIRTINTŲ 
 
 
 
-### 5 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 5 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-72367d93aef86843bf172588
 
 
 Pakeisti 5 priedėlį ir jį išdėstyti taip:
 „Lietuvos Respublikos1995m.
 
 
-gruodžio 7 d. įstatymo Nr. I-1116
+gruodžio 7 d. [[latest/TAR.11F4B795287C|įstatymo Nr. I-1116]]
 5 priedėlis
 (Lietuvos Respublikos1996m. liepos 3 d.
 įstatymo Nr. I-1427 redakcija)

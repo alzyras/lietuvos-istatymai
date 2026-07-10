@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BB31D9AB9B61"
 pavadinimas: "Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr. 2/1999 \"Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo\" ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr. 2/1999 \"Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo\" ratifikavimo įstatymas"
+  - "ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr. 2/1999 \"Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo\" ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-16"
 latest_path: "latest/TAR.BB31D9AB9B61.md"
 latest_sha256: "e3e51cfcf814acbe647afc49539f130d6ffe84c5ba3f3668a045d4ca6fdfdd8f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BB31D9AB9B61]]"
 ---
 # Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr. 2/1999 "Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo" ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BB31D9AB9B61.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BB31D9AB9B61
+- Ryšiai: [[Ryšiai/TAR.BB31D9AB9B61|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sprendimo ratifikavimas
+### 1 straipsnis. Sprendimo ratifikavimas ^s-d200ddf7e2bc568928bcdc57
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1012, ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 2/1999 „Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo“, pasirašytą 1999 m. gruodžio 23 d. Bratislavoje.

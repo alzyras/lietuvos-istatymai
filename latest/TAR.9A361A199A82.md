@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9A361A199A82"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 5-1, 14, 19, 31, 32, 36, 43, 47, 49, 53, 57, 64, 66, 71, 71-1, 78, 79, 80, 83, 92 straipsnių pakeitimo ir papildymo, 2 priedo papildymo, 82 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 63-1, 78-1, 89-1 straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 5-1, 14, 19, 31, 32, 36, 43, 47, 49, 53, 57, 64, 66, 71, 71-1, 78, 79, 80, 83, 92 straipsnių pakeitimo ir papildymo, 2 priedo papildymo, 82 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 63-1, 78-1, 89-1 straipsniais įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 5-1, 14, 19, 31, 32, 36, 43, 47, 49, 53, 57, 64, 66, 71, 71-1, 78, 79, 80, 83, 92 straipsnių pakeitimo ir papildymo, 2 priedo papildymo, 82 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 63-1, 78-1, 89-1 straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-29"
 latest_path: "latest/TAR.9A361A199A82.md"
 latest_sha256: "ef912d624a66a15d6e5e2526d1c3376937c54b89b044a776055da5ecbe05171f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9A361A199A82]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 5-1, 14, 19, 31, 32, 36, 43, 47, 49, 53, 57, 64, 66, 71, 71-1, 78, 79, 80, 83, 92 straipsnių pakeitimo ir papildymo, 2 priedo papildymo, 82 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 63-1, 78-1, 89-1 straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9A361A199A82.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9A361A199A82
+- Ryšiai: [[Ryšiai/TAR.9A361A199A82|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,7 +44,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 51 straipsnio 2 dalies 5 punkto pakeitimas
+### 1 straipsnis. 51 straipsnio 2 dalies 5 punkto pakeitimas ^s-4310cc0b2914122aa049ec68
 
 
 Pakeisti 51 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
@@ -49,39 +54,39 @@ Pakeisti 51 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio 6 ir 10 dalių pakeitimas
+### 2 straipsnis. 14 straipsnio 6 ir 10 dalių pakeitimas ^s-3e5de0630bdc3dcc2d143fea
 
 
-1. Pakeisti 14 straipsnio 6 dalies pirmąją pastraipą ir ją išdėstyti taip: ^8b46a6196e4a6f80296b05c5
+1. Pakeisti 14 straipsnio 6 dalies pirmąją pastraipą ir ją išdėstyti taip: ^s-0daabbc37fa622686eace208
 
 
 „6. Neatsižvelgiant į kitas šio straipsnio nuostatas, jeigu teikiamos ilgalaikės paslaugos (t. y. paslaugos, kurios teikiamos tam tikrą tęstinį laikotarpį (telekomunikacijų, nuomos ar kt.), taip pat ilgą laiką tiekiama elektros energija, dujos, šilumos ir kitų rūšių energija, prievolė apskaičiuoti PVM atsiranda, kai šio Įstatymo nustatyta tvarka išrašoma PVM sąskaita faktūra, kuria įforminamas per atitinkamą ataskaitinį laikotarpį suteiktų paslaugų arba patiektų prekių kiekis, o jeigu PVM sąskaita faktūra neišrašoma, – kai gaunamas atlygis už per tą ataskaitinį laikotarpį suteiktų paslaugų arba patiektų prekių kiekį. Jeigu iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos arba patiektos prekės, 10 dienos nėra išrašyta PVM sąskaita faktūra už per tą ataskaitinį laikotarpį suteiktų paslaugų arba patiektų prekių kiekį ir negautas atlygis, prievolė apskaičiuoti PVM atsiranda kitą dieną po minėto termino, per kurį dokumentas turėjo būti išrašytas, pabaigos. Jeigu pagal nuomos sutartį nuomojamą daiktą numatyta nuomininkui perduoti ne anksčiau kaip po 12 mėnesių nuo sandorio sudarymo dienos ir gaunamas avansas, taikomos šio straipsnio 4 dalies nuostatos. Jeigu šioje dalyje nurodytų paslaugų teikėjas yra užsienio apmokestinamasis asmuo, kai pagal šio Įstatymo 95 straipsnio  2 dalies nuostatas apskaičiuoti ir sumokėti PVM privalo pirkėjas (klientas), prievolė apskaičiuoti PVM atsiranda, kai šio Įstatymo nustatyta tvarka išrašoma PVM sąskaita faktūra, kuria įforminamas per atitinkamą ataskaitinį laikotarpį suteiktų paslaugų kiekis, o jeigu PVM sąskaita faktūra neišrašoma, – kai sumokamas atlygis už per atitinkamą ataskaitinį laikotarpį suteiktų paslaugų kiekį. Jeigu PVM sąskaita faktūra nėra išrašyta ir nesumokėtas atlygis, prievolė apskaičiuoti PVM už šias paslaugas atsiranda, kai paslaugos baigiamos teikti, o tais atvejais, kai šios paslaugos teikiamos ilgiau negu 12 mėnesių ir šiuo laikotarpiu nėra išrašyta PVM sąskaita faktūra už per atitinkamą laikotarpį suteiktų paslaugų kiekį ir nesumokėtas atlygis, prievolė apskaičiuoti PVM už per atitinkamą laikotarpį suteiktų paslaugų kiekį atsiranda kiekvienų kalendorinių metų paskutinę dieną, iki paslaugos baigiamos teikti. Jeigu šioje dalyje nurodytų paslaugų teikėjas arba prekių tiekėjas yra užsienio apmokestinamasis asmuo, kai kitais negu šio Įstatymo 95 straipsnio  2 dalyje nurodytais atvejais apskaičiuoti ir sumokėti PVM privalo pirkėjas (klientas), prievolė apskaičiuoti PVM atsiranda įvykus tam iš nurodytų įvykių, kuris įvyksta anksčiau:“.
 
 
-2. Pakeisti 14 straipsnio 10 dalį ir ją išdėstyti taip: ^595cdba7ef983ae035bcc964
+2. Pakeisti 14 straipsnio 10 dalį ir ją išdėstyti taip: ^s-c2f18b5d8f2a9db6db93a763
 
 
 „10. Neatsižvelgiant į kitas šio straipsnio nuostatas, prievolė apskaičiuoti PVM už prekių tiekimą į kitą valstybę narę, kuriam taikomos šio Įstatymo VI skyriaus nuostatos, atsiranda, kai išrašoma PVM sąskaita faktūra, kuria įforminamas toks prekių tiekimas, bet ne vėliau kaip kito mėnesio, einančio po mėnesio, kurį prekės buvo išgabentos, 15 dieną.“
 
 
 
-### 3 straipsnis. 19 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas
+### 3 straipsnis. 19 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas ^s-1b0003ce41eee1754f587d1f
 
 
-1. 19 straipsnio 3 dalies 1 punkte vietoj datos „2011 m. gruodžio 31 d.“ įrašyti datą „2012 m. gruodžio 31 d.“ ir šį punktą išdėstyti taip: ^3b0f2ccbcf1f029b434b7fe2
+1. 19 straipsnio 3 dalies 1 punkte vietoj datos „2011 m. gruodžio 31 d.“ įrašyti datą „2012 m. gruodžio 31 d.“ ir šį punktą išdėstyti taip: ^s-d91a3585b25f281685958925
 
 
 „1) iki 2012 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;“.
 
 
-2. [[#^40633a07e49ed906e301d189|19 straipsnio 4 dalyje]] vietoj datos „2011 m. gruodžio 31 d.“ įrašyti datą „2012 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip: ^37b26e1e8c3fe6ea41d9d139
+2. [[#^s-881044fad2095952cec2fad9|19 straipsnio 4 dalyje]] vietoj datos „2011 m. gruodžio 31 d.“ įrašyti datą „2012 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip: ^s-b129b6932433241d6fe6a3ae
 
 
-„4. Iki 2012 m. gruodžio 31 d. lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka.“
+„4. Iki 2012 m. gruodžio 31 d. lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 4 straipsnis. 31 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 31 straipsnio 3 dalies pakeitimas ^s-d4c1d5a2f3daf9b99ad06594
 
 
 Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -91,7 +96,7 @@ Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 32 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 32 straipsnio 3 dalies pakeitimas ^s-f52c573b823dcd3ded35fcfa
 
 
 Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -101,23 +106,23 @@ Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 36 straipsnio papildymas ir pakeitimas
+### 6 straipsnis. 36 straipsnio papildymas ir pakeitimas ^s-16b5fba364af30c428048127
 
 
-1. Papildyti 36 straipsnį nauja 4 dalimi: ^31182797c4ec2bdfc59268aa
+1. Papildyti 36 straipsnį nauja 4 dalimi: ^s-26b3d5a1d8fce6e28ee04e80
 
 
 „4. Importo PVM neapmokestinamos įvežamos prekės, skirtos Europos Sąjungos įsteigtų Lietuvos Respublikoje įstaigų, kurioms taikomas Protokolas dėl Europos Sąjungos privilegijų ir imunitetų, darbuotojų (išskyrus aptarnaujantį personalą ir Europos Sąjungos valstybių narių deleguotus ekspertus) asmeniniam naudojimui ir (arba) įsikūrimui, jeigu šie asmenys nėra Lietuvos Respublikos piliečiai ir praėjusius penkerius metus jų nuolatinė gyvenamoji vieta iki darbo Europos Sąjungos įsteigtoje Lietuvos Respublikoje įstaigoje pradžios nebuvo Lietuvos Respublika. Šioje dalyje nurodyta lengvata taikoma prekėms, kurias darbuotojai importuoja ne vėliau kaip vieni metai nuo jų įsidarbinimo pirmą kartą Europos Sąjungos įsteigtoje Lietuvos Respublikoje įstaigoje pradžios. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi teisę nustatyti šioje dalyje nurodytos lengvatos taikymo apribojimus.“
 
 
-2. Buvusią 36 straipsnio 4 dalį laikyti 5 dalimi, ją pakeisti ir išdėstyti taip: ^2dd787c2e0f88b03ac03a932
+2. Buvusią 36 straipsnio 4 dalį laikyti 5 dalimi, ją pakeisti ir išdėstyti taip: ^s-f70d226cb2f33e76557f64a3
 
 
 „5. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
 
 
-### 7 straipsnis. 43 straipsnio 1 dalies 1 punkto pakeitimas
+### 7 straipsnis. 43 straipsnio 1 dalies 1 punkto pakeitimas ^s-04c52a8c3e1613cc6bd212fb
 
 
 Pakeisti 43 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -127,36 +132,36 @@ Pakeisti 43 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. 47 straipsnio papildymas ir pakeitimas
+### 8 straipsnis. 47 straipsnio papildymas ir pakeitimas ^s-068c0cb0f5f2afef8b51dd6f
 
 
-1. Papildyti 47 straipsnį nauja 8 dalimi: ^17631e04a99b87cf09d6fd93
+1. Papildyti 47 straipsnį nauja 8 dalimi: ^s-b0c481ac5df02d14bbd42fd7
 
 
 „8. Taikant 0 procentų PVM tarifą apmokestinamos Europos Sąjungos įsteigtų Lietuvos Respublikoje įstaigų, kurioms taikomas Protokolas dėl Europos Sąjungos privilegijų ir imunitetų, darbuotojų (išskyrus aptarnaujantį personalą ir Europos Sąjungos valstybių narių deleguotus ekspertus) asmeniniam naudojimui ir (arba) įsikūrimui tiekiamos prekės, jeigu šie asmenys nėra Lietuvos Respublikos piliečiai ir praėjusius penkerius metus jų nuolatinė gyvenamoji vieta iki darbo Europos Sąjungos įsteigtoje Lietuvos Respublikoje įstaigoje pradžios nebuvo Lietuvos Respublika. Šioje dalyje nurodyta lengvata taikoma prekėms, kurias darbuotojai įsigyja ne vėliau kaip vieni metai nuo jų įsidarbinimo pirmą kartą Europos Sąjungos įsteigtoje Lietuvos Respublikoje įstaigoje pradžios. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi teisę nustatyti šioje dalyje nurodytos lengvatos taikymo apribojimus.“
 
 
-2. Buvusią 47 straipsnio 8 dalį laikyti 9 dalimi. ^0e62a5421e2ef744d85540d0
+2. Buvusią 47 straipsnio 8 dalį laikyti 9 dalimi. ^s-78c9f4f87cfd0f8ac32e06ce
 
 
 
-### 9 straipsnis. 49 straipsnio 2 ir 3 dalių pakeitimas
+### 9 straipsnis. 49 straipsnio 2 ir 3 dalių pakeitimas ^s-cced67bf681424722544292b
 
 
-1. Pakeisti 49 straipsnio 2 dalį ir ją išdėstyti taip: ^9aff8fe1246e38006ad62469
+1. Pakeisti 49 straipsnio 2 dalį ir ją išdėstyti taip: ^s-67aebbb9d0a2beb083a22517
 
 
 „2. Taikant 0 procentų PVM tarifą apmokestinamos naujos transporto priemonės, tiekiamos bet kuriam asmeniui ir išgabenamos iš šalies teritorijos į kitą valstybę narę (neatsižvelgiant į tai, kas (prekių tiekėjas, pirkėjas ar bet kurio iš jų užsakymu trečioji šalis) prekes gabena).“
 
 
-2. Pakeisti 49 straipsnio 3 dalį ir ją išdėstyti taip: ^470bc3828ecc007d4903c4f1
+2. Pakeisti 49 straipsnio 3 dalį ir ją išdėstyti taip: ^s-5f98cab5bdc049f73ceb0eb4
 
 
-„3. Taikant 0 procentų PVM tarifą apmokestinamos akcizais apmokestinamos prekės, tiekiamos apmokestinamajam asmeniui arba juridiniam asmeniui, kuris nėra apmokestinamasis asmuo, kai šių asmenų kitų negu akcizais apmokestinamų prekių įsigijimas kitoje valstybėje narėje pagal Direktyvos 2006/112/EB [[#^3b0f2ccbcf1f029b434b7fe2|3 straipsnio 1 dalies]] nuostatas yra ne PVM objektas, ir išgabenamos iš šalies teritorijos į kitą valstybę narę (neatsižvelgiant į tai, kas (prekių tiekėjas, pirkėjas ar bet kurio iš jų užsakymu trečioji šalis) prekes gabena), kai jos laikantis Lietuvos Respublikos akcizų įstatymo nuostatų gabenamos su akcizais apmokestinamų prekių gabenimo dokumentu ar su supaprastintu akcizais apmokestinamų prekių gabenimo dokumentu.“
+„3. Taikant 0 procentų PVM tarifą apmokestinamos akcizais apmokestinamos prekės, tiekiamos apmokestinamajam asmeniui arba juridiniam asmeniui, kuris nėra apmokestinamasis asmuo, kai šių asmenų kitų negu akcizais apmokestinamų prekių įsigijimas kitoje valstybėje narėje pagal Direktyvos 2006/112/EB [[#^s-d91a3585b25f281685958925|3 straipsnio 1 dalies]] nuostatas yra ne PVM objektas, ir išgabenamos iš šalies teritorijos į kitą valstybę narę (neatsižvelgiant į tai, kas (prekių tiekėjas, pirkėjas ar bet kurio iš jų užsakymu trečioji šalis) prekes gabena), kai jos laikantis [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymo]] nuostatų gabenamos su akcizais apmokestinamų prekių gabenimo dokumentu ar su supaprastintu akcizais apmokestinamų prekių gabenimo dokumentu.“
 
 
 
-### 10 straipsnis. 53 straipsnio 8 dalies pakeitimas
+### 10 straipsnis. 53 straipsnio 8 dalies pakeitimas ^s-bdd5462b7c93032f6575739f
 
 
 Pakeisti 53 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -166,7 +171,7 @@ Pakeisti 53 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 11 straipsnis. 57 straipsnio 1 dalies pakeitimas
+### 11 straipsnis. 57 straipsnio 1 dalies pakeitimas ^s-37f5e1e9c65dabf0027bcb77
 
 
 Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -176,7 +181,7 @@ Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 12 straipsnis. Įstatymo papildymas 631 straipsniu
+### 12 straipsnis. Įstatymo papildymas 631 straipsniu ^s-73760795e28e286b08005f2a
 
 
 Papildyti Įstatymą 631 straipsniu:
@@ -186,33 +191,33 @@ Papildyti Įstatymą 631 straipsniu:
 „631 straipsnis. PVM mokėtoju neįregistruoto asmens įsigytos ir (arba) importuotos prekės ir (arba) paslaugos
 
 
-1. PVM mokėtoju neįregistruotas apmokestinamasis asmuo turi teisę į PVM atskaitą įtraukti įsigytų ir (arba) importuotų prekių ir paslaugų, šio asmens faktiškai panaudotų šio Įstatymo 58 straipsnio 1 dalyje nurodytai veiklai, pirkimo ir (arba) importo PVM, laikydamasis šio skyriaus nuostatų ir šiame straipsnyje nustatytų apribojimų. ^82377d7ea2df2ebec37f79ae
+1. PVM mokėtoju neįregistruotas apmokestinamasis asmuo turi teisę į PVM atskaitą įtraukti įsigytų ir (arba) importuotų prekių ir paslaugų, šio asmens faktiškai panaudotų šio Įstatymo 58 straipsnio 1 dalyje nurodytai veiklai, pirkimo ir (arba) importo PVM, laikydamasis šio skyriaus nuostatų ir šiame straipsnyje nustatytų apribojimų. ^s-fd251b9f13afd75f03f7ea42
 
 
-2. Prekių ir (arba) paslaugų, panaudotų tik [[#^82377d7ea2df2ebec37f79ae|šio straipsnio 1 dalyje]] nurodytai veiklai, pirkimo ir (arba) importo PVM gali būti įtrauktas į PVM atskaitą. ^1048bf93a864602751203d7f
+2. Prekių ir (arba) paslaugų, panaudotų tik [[#^s-fd251b9f13afd75f03f7ea42|šio straipsnio 1 dalyje]] nurodytai veiklai, pirkimo ir (arba) importo PVM gali būti įtrauktas į PVM atskaitą. ^s-b0bae3f63a5f1d47e1a1de26
 
 
-3. Šio straipsnio nuostatos netaikomos prekėms ir (arba) paslaugoms (jų daliai), kurios dar nėra panaudotos apmokestinamojo asmens veiklai ir kurių pirkimo (importo) PVM (jo dalis) atskaitoma šio Įstatymo 63 straipsnyje nustatyta tvarka.“ ^054255db7de96e4cb57c73e0
+3. Šio straipsnio nuostatos netaikomos prekėms ir (arba) paslaugoms (jų daliai), kurios dar nėra panaudotos apmokestinamojo asmens veiklai ir kurių pirkimo (importo) PVM (jo dalis) atskaitoma šio Įstatymo 63 straipsnyje nustatyta tvarka.“ ^s-ec1b66d90867c7f4e92bb0a1
 
 
 
-### 13 straipsnis. 64 straipsnio 1 ir 3 dalių pakeitimas
+### 13 straipsnis. 64 straipsnio 1 ir 3 dalių pakeitimas ^s-a12dfe40044f0eaf17eb3524
 
 
-1. Pakeisti 64 straipsnio 1 dalį ir ją išdėstyti taip: ^cba0a03abcb04273439b7f65
+1. Pakeisti 64 straipsnio 1 dalį ir ją išdėstyti taip: ^s-412d993c356a40644dd7cd4b
 
 
 „1. Pirkimo PVM gali būti įtraukiamas į PVM atskaitą tik tuo atveju, jeigu PVM mokėtojas turi atitinkamą PVM sąskaitą faktūrą. Turimoje PVM sąskaitoje faktūroje ši PVM suma turi būti išskirta, o PVM mokėtojas nurodytas kaip prekių ir (arba) paslaugų pirkėjas, jeigu šiame straipsnyje nenustatyta kitaip. Turima PVM sąskaita faktūra privalo atitikti visus šio Įstatymo ir kitų jį įgyvendinančių teisės aktų reikalavimus (išskyrus reikalavimus dėl rekvizitų: PVM sąskaitoje faktūroje, kurioje nurodytas PVM traukiamas į PVM atskaitą, privalo būti šio Įstatymo 80 straipsnio 1 dalyje nurodyti rekvizitai). Jeigu PVM mokėtojas buvo į PVM atskaitą įtraukęs pirkimo PVM nuo prekių tiekėjui arba paslaugų teikėjui sumokėtų avansų, tokia (tokiomis) pirkimo PVM suma (sumomis) atitinkamai mažinama pagal galutinę PVM sąskaitą faktūrą į PVM atskaitą įtrauktina pirkimo PVM suma.“
 
 
-2. Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip: ^d0adcb07f678976d8d9b38b7
+2. Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip: ^s-efc9edba003063529436c327
 
 
-„3. Pirkimo PVM, šio Įstatymo nustatyta tvarka apskaičiuotas už iš kitos valstybės narės įsigyjamas prekes, į PVM atskaitą gali būti įtrauktas tik tuo atveju, kai įsigytų prekių apmokestinamoji vertė ir pardavimo PVM, apskaičiuotas už šias prekes, yra deklaruoti šio Įstatymo nustatyta tvarka teikiamoje PVM deklaracijoje, o PVM mokėtojas turi PVM sąskaitą faktūrą, kuria įformintas prekių tiekimas ir kuri atitinka reikalavimus, keliamus PVM sąskaitai faktūrai, kuria įforminamas prekių tiekimas kitoje valstybėje narėje registruotam PVM mokėtojui. Jeigu PVM sąskaita faktūra nėra gauta, tačiau prievolė apskaičiuoti pardavimo PVM pagal šio Įstatymo [[#14 straipsnis. 66 straipsnio 2 dalies papildymas 3 punktu|14 straipsnį]] atsirado, pirkimo PVM gali būti atskaitytas, jeigu tenkinami kiti šioje dalyje nustatyti reikalavimai. Ta pačia tvarka atskaitomos ir pirkimo PVM sumos už prekes ir paslaugas, kai pagal šio Įstatymo nuostatas prievolė apskaičiuoti pardavimo PVM už tiekiamas prekes ir teikiamas paslaugas tenka jų pirkėjui.“
+„3. Pirkimo PVM, šio Įstatymo nustatyta tvarka apskaičiuotas už iš kitos valstybės narės įsigyjamas prekes, į PVM atskaitą gali būti įtrauktas tik tuo atveju, kai įsigytų prekių apmokestinamoji vertė ir pardavimo PVM, apskaičiuotas už šias prekes, yra deklaruoti šio Įstatymo nustatyta tvarka teikiamoje PVM deklaracijoje, o PVM mokėtojas turi PVM sąskaitą faktūrą, kuria įformintas prekių tiekimas ir kuri atitinka reikalavimus, keliamus PVM sąskaitai faktūrai, kuria įforminamas prekių tiekimas kitoje valstybėje narėje registruotam PVM mokėtojui. Jeigu PVM sąskaita faktūra nėra gauta, tačiau prievolė apskaičiuoti pardavimo PVM pagal šio Įstatymo [[#^s-19a1b0a0eb47e6b7e35a3160|14 straipsnį]] atsirado, pirkimo PVM gali būti atskaitytas, jeigu tenkinami kiti šioje dalyje nustatyti reikalavimai. Ta pačia tvarka atskaitomos ir pirkimo PVM sumos už prekes ir paslaugas, kai pagal šio Įstatymo nuostatas prievolė apskaičiuoti pardavimo PVM už tiekiamas prekes ir teikiamas paslaugas tenka jų pirkėjui.“
 
 
 
-### 14 straipsnis. 66 straipsnio 2 dalies papildymas 3 punktu
+### 14 straipsnis. 66 straipsnio 2 dalies papildymas 3 punktu ^s-19a1b0a0eb47e6b7e35a3160
 
 
 Papildyti 66 straipsnio 2 dalį 3 punktu:
@@ -222,23 +227,23 @@ Papildyti 66 straipsnio 2 dalį 3 punktu:
 
 
 
-### 15 straipsnis. 71 straipsnio 2 ir 3 dalių pakeitimas
+### 15 straipsnis. 71 straipsnio 2 ir 3 dalių pakeitimas ^s-763b94f29242d6f7e59b3ed3
 
 
-1. Pakeisti 71 straipsnio 2 dalies pirmąją pastraipą ir ją išdėstyti taip: ^1a63d1634509ea92d076f20b
+1. Pakeisti 71 straipsnio 2 dalies pirmąją pastraipą ir ją išdėstyti taip: ^s-dd8827cd47f6fdcd74ebf53e
 
 
-„2. Neatsižvelgiant į [[#^1a63d1634509ea92d076f20b|šio straipsnio 1 dalį]], Lietuvos Respublikos apmokestinamasis asmuo neprivalo pateikti prašymo įregistruoti jį PVM mokėtoju bei už tiekiamas prekes (išskyrus į kitas valstybes nares tiekiamas naujas transporto priemones) ir (arba) teikiamas paslaugas šio Įstatymo nustatyta tvarka skaičiuoti PVM ir mokėti jį į biudžetą, jeigu bendra atlygio už vykdant ekonominę veiklą šalies teritorijoje patiektas prekes ir (arba) suteiktas paslaugas suma per metus (paskutinius 12 mėnesių) neviršijo 155 000 litų. PVM turi būti pradėtas skaičiuoti nuo to mėnesio, kurį minėta riba buvo viršyta. Už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo nurodytosios 155 000 litų sumos, PVM neskaičiuojamas. Skaičiuojant nurodytą 155 000 litų sumą, neatsižvelgiama į:“.
+„2. Neatsižvelgiant į [[#^s-dd8827cd47f6fdcd74ebf53e|šio straipsnio 1 dalį]], Lietuvos Respublikos apmokestinamasis asmuo neprivalo pateikti prašymo įregistruoti jį PVM mokėtoju bei už tiekiamas prekes (išskyrus į kitas valstybes nares tiekiamas naujas transporto priemones) ir (arba) teikiamas paslaugas šio Įstatymo nustatyta tvarka skaičiuoti PVM ir mokėti jį į biudžetą, jeigu bendra atlygio už vykdant ekonominę veiklą šalies teritorijoje patiektas prekes ir (arba) suteiktas paslaugas suma per metus (paskutinius 12 mėnesių) neviršijo 155 000 litų. PVM turi būti pradėtas skaičiuoti nuo to mėnesio, kurį minėta riba buvo viršyta. Už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo nurodytosios 155 000 litų sumos, PVM neskaičiuojamas. Skaičiuojant nurodytą 155 000 litų sumą, neatsižvelgiama į:“.
 
 
-2. Pakeisti 71 straipsnio 3 dalies pirmąją pastraipą ir ją išdėstyti taip: ^36544b0bf567a42306685746
+2. Pakeisti 71 straipsnio 3 dalies pirmąją pastraipą ir ją išdėstyti taip: ^s-09b1cba017d99f3f756be4d8
 
 
 „3. Užsienio apmokestinamasis asmuo PVM mokėtoju privalo registruotis per šalies teritorijoje esantį padalinį, o jeigu tokio padalinio nėra, – per paskirtą Lietuvos Respublikoje esantį fiskalinį agentą. Reikalavimas paskirti fiskalinį agentą netaikomas kitose valstybėse narėse ar teritorijose, kuriose taikomos savitarpio pagalbos taikymo dokumentų nuostatos, iš esmės savo taikymo sritimi tolygios 2010 m. kovo 16 d. Tarybos direktyvos 2010/24/ES dėl savitarpio pagalbos vykdant reikalavimus, susijusius su mokesčiais, muitais ir kitomis priemonėmis (toliau – Direktyva 2010/24/ES), ir 2010 m. spalio 7 d. Tarybos reglamento (ES) Nr. 904/2010 dėl administracinio bendradarbiavimo ir kovos su sukčiavimu pridėtinės vertės mokesčio srityje (toliau – Reglamentas (ES) Nr. 904/2010) nuostatoms, įsikūrusiems apmokestinamiesiems asmenims, kurie PVM mokėtojais gali būti registruojami tiesiogiai. Užsienio apmokestinamasis asmuo neprivalo registruotis PVM mokėtoju, jeigu jis šalies teritorijoje vykdo tik šią veiklą:“.
 
 
 
-### 16 straipsnis. 711 straipsnio pavadinimo pakeitimas
+### 16 straipsnis. 711 straipsnio pavadinimo pakeitimas ^s-c44abd96638ed892a86fe2fe
 
 
 711 straipsnio pavadinime išbraukti žodžius „taip pat paslaugas iš užsienio apmokestinamųjų asmenų įsigyjančių ar paslaugas kitoje valstybėje narėje teikiančių“ ir straipsnio pavadinimą išdėstyti taip:
@@ -250,29 +255,29 @@ Papildyti 66 straipsnio 2 dalį 3 punktu:
 
 
 
-### 17 straipsnis. 78 straipsnio papildymas 4 dalimi ir 5, 7 dalių pakeitimas
+### 17 straipsnis. 78 straipsnio papildymas 4 dalimi ir 5, 7 dalių pakeitimas ^s-a76b42ed03ab3bd9b138d5dd
 
 
-1. Papildyti 78 straipsnį 4 dalimi: ^2d707b10827ac338022bdc43
+1. Papildyti 78 straipsnį 4 dalimi: ^s-30d176757f0cea4a6548bcd7
 
 
 „4. Apmokestinamieji asmenys privalo atskirai tvarkyti prekių, kurias šiems asmenims į šalies teritoriją atgabena kitoje valstybėje narėje PVM mokėtoju registruotas asmuo ar jo užsakymu kitas asmuo prekių vertinimo, taip pat jų aptarnavimo (remonto, priežiūros, derinimo ir kt.), apdirbimo ir perdirbimo paslaugoms atlikti, ir suteiktų paslaugų (įskaitant tam sunaudotas prekes) apskaitą. Šios apskaitos tvarkymo reikalavimus nustato centrinis mokesčio administratorius.“
 
 
-2. Pakeisti 78 straipsnio 5 dalį ir ją išdėstyti taip: ^1b1e993bdf47fda93865183f
+2. Pakeisti 78 straipsnio 5 dalį ir ją išdėstyti taip: ^s-2ab46c12419585c090b82ab8
 
 
 „5. Apmokestinamieji asmenys privalo tvarkyti gaunamų ir išrašomų PVM sąskaitų faktūrų registrus; į juos turi būti įtraukiamos visos išrašytos, taip pat gautos PVM sąskaitos faktūros, išskyrus PVM sąskaitas faktūras, nurodytas šio Įstatymo 80 straipsnio 7 dalyje, ar supaprastintas PVM sąskaitas faktūras. Šių registrų tvarkymo, taip pat jų saugojimo ir pateikimo reikalavimus nustato centrinis mokesčio administratorius.“
 
 
-3. Pakeisti 78 straipsnio 7 dalį ir ją išdėstyti taip: ^8872c5046d333bc48676dd96
+3. Pakeisti 78 straipsnio 7 dalį ir ją išdėstyti taip: ^s-01dc9a62fd0d94e8ea10a2af
 
 
-„7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo saugoti dokumentus tokios formos (rašytinės ar elektroninės), kokios jie buvo išsiųsti ar pateikti, ir užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi, tačiau tais atvejais, kai tiekiamos prekės ar teikiamos paslaugos, nurodytos šio Įstatymo 14 straipsnio 6 dalyje, apmokestinamųjų asmenų išsiųstos rašytinės formos PVM sąskaitos faktūros gali būti saugomos tik elektronine forma. Jeigu PVM sąskaitos faktūros yra elektroninės formos, kartu naudojant elektronines priemones turi būti saugomi ir duomenys, užtikrinantys šių PVM sąskaitų faktūrų kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma Direktyva 2010/24/ES ir Reglamentas (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygūs savitarpio pagalbos taikymo dokumentai. Apmokestinamieji asmenys, kurie šalies teritorijoje saugo savo (ar jų vardu pirkėjų arba trečiosios šalies) išrašytas PVM sąskaitas faktūras, taip pat gautas PVM sąskaitas faktūras, naudodami elektronines priemones, kurios užtikrina visišką prieigą prie jose esančių duomenų, privalo sudaryti valstybių narių, kuriose šie apmokestinamieji asmenys yra įsikūrę arba kuriose tiekiamos prekės ar teikiamos paslaugos, kompetentingoms institucijoms galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais.“
+„7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo saugoti dokumentus tokios formos (rašytinės ar elektroninės), kokios jie buvo išsiųsti ar pateikti, ir užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi, tačiau tais atvejais, kai tiekiamos prekės ar teikiamos paslaugos, nurodytos šio Įstatymo 14 straipsnio 6 dalyje, apmokestinamųjų asmenų išsiųstos rašytinės formos PVM sąskaitos faktūros gali būti saugomos tik elektronine forma. Jeigu PVM sąskaitos faktūros yra elektroninės formos, kartu naudojant elektronines priemones turi būti saugomi ir duomenys, užtikrinantys šių PVM sąskaitų faktūrų kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma Direktyva 2010/24/ES ir Reglamentas (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygūs savitarpio pagalbos taikymo dokumentai. Apmokestinamieji asmenys, kurie šalies teritorijoje saugo savo (ar jų vardu pirkėjų arba trečiosios šalies) išrašytas PVM sąskaitas faktūras, taip pat gautas PVM sąskaitas faktūras, naudodami elektronines priemones, kurios užtikrina visišką prieigą prie jose esančių duomenų, privalo sudaryti valstybių narių, kuriose šie apmokestinamieji asmenys yra įsikūrę arba kuriose tiekiamos prekės ar teikiamos paslaugos, kompetentingoms institucijoms galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais.“
 
 
 
-### 18 straipsnis. Įstatymo papildymas 781 straipsniu
+### 18 straipsnis. Įstatymo papildymas 781 straipsniu ^s-34390770cddd3eac4f01c9bf
 
 
 Papildyti Įstatymą 781 straipsniu:
@@ -282,26 +287,26 @@ Papildyti Įstatymą 781 straipsniu:
 „781 straipsnis. Prekių tiekimo ir paslaugų teikimo įforminimui PVM sąskaita faktūra taikomos taisyklės
 
 
-1. Šio Įstatymo reikalavimai dėl prekių tiekimo arba paslaugų teikimo įforminimo PVM sąskaita faktūra taikomi tais atvejais, kai prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas vyksta šalies teritorijoje. ^e327d7e241988fcff84c4130
+1. Šio Įstatymo reikalavimai dėl prekių tiekimo arba paslaugų teikimo įforminimo PVM sąskaita faktūra taikomi tais atvejais, kai prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas vyksta šalies teritorijoje. ^s-63485936565f7b730fc5f54f
 
 
-2. Šio Įstatymo reikalavimai dėl prekių tiekimo arba paslaugų teikimo įforminimo PVM sąskaita faktūra taip pat taikomi, kai prekes ar paslaugas, kurių tiekimo (teikimo) vieta, remiantis nuostatomis, iš esmės tolygiomis šio Įstatymo nuostatoms, nustatančioms prekių tiekimo (paslaugų teikimo) vietą, yra už Europos Sąjungos teritorijos ribų, tiekia (teikia) Lietuvos Respublikos apmokestinamasis asmuo ar užsienio apmokestinamasis asmuo per padalinį, esantį šalies teritorijoje. ^5c266c4b1e2091cf8244758d
+2. Šio Įstatymo reikalavimai dėl prekių tiekimo arba paslaugų teikimo įforminimo PVM sąskaita faktūra taip pat taikomi, kai prekes ar paslaugas, kurių tiekimo (teikimo) vieta, remiantis nuostatomis, iš esmės tolygiomis šio Įstatymo nuostatoms, nustatančioms prekių tiekimo (paslaugų teikimo) vietą, yra už Europos Sąjungos teritorijos ribų, tiekia (teikia) Lietuvos Respublikos apmokestinamasis asmuo ar užsienio apmokestinamasis asmuo per padalinį, esantį šalies teritorijoje. ^s-c22ddff4921abd9534aa6925
 
 
-3. Neatsižvelgiant į [[#^e327d7e241988fcff84c4130|šio straipsnio 1 dalies]] nuostatas, tais atvejais, kai prievolė PVM už prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo 95 straipsnio nuostatas arba joms tolygias kitų valstybių narių teisės aktų nuostatas atitinkamai šalies teritorijoje ar kitoje valstybėje narėje apskaičiuoti ir sumokėti tenka jų pirkėjui (arba tektų jų pirkėjui, jeigu prekės nebūtų neapmokestinamos PVM ar apmokestinamos taikant 0 procentų PVM tarifą), šio Įstatymo reikalavimai dėl prekių tiekimo arba paslaugų teikimo įforminimo PVM sąskaita faktūra: ^568624599c26c030c4fceb7d
+3. Neatsižvelgiant į [[#^s-63485936565f7b730fc5f54f|šio straipsnio 1 dalies]] nuostatas, tais atvejais, kai prievolė PVM už prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo 95 straipsnio nuostatas arba joms tolygias kitų valstybių narių teisės aktų nuostatas atitinkamai šalies teritorijoje ar kitoje valstybėje narėje apskaičiuoti ir sumokėti tenka jų pirkėjui (arba tektų jų pirkėjui, jeigu prekės nebūtų neapmokestinamos PVM ar apmokestinamos taikant 0 procentų PVM tarifą), šio Įstatymo reikalavimai dėl prekių tiekimo arba paslaugų teikimo įforminimo PVM sąskaita faktūra: ^s-186dc9772691bb50fc6038e5
 
 
-1) netaikomi, jeigu šalies teritorijoje prekes tiekia arba paslaugas teikia kitoje valstybėje narėje įsikūręs apmokestinamasis asmuo (tuo atveju, jei jis šalies teritorijoje turi padalinį, prekes tiekia ar paslaugas teikia ne per šį padalinį) arba kai šalies teritorijoje prekės tiekiamos ar paslaugos teikiamos per užsienio apmokestinamojo asmens padalinį, esantį kitoje valstybėje narėje; ^5b287ca3bcdb156388182295
+1) netaikomi, jeigu šalies teritorijoje prekes tiekia arba paslaugas teikia kitoje valstybėje narėje įsikūręs apmokestinamasis asmuo (tuo atveju, jei jis šalies teritorijoje turi padalinį, prekes tiekia ar paslaugas teikia ne per šį padalinį) arba kai šalies teritorijoje prekės tiekiamos ar paslaugos teikiamos per užsienio apmokestinamojo asmens padalinį, esantį kitoje valstybėje narėje; ^s-00fe7bb3041cb531ebb37dec
 
 
-2) taikomi, jeigu prekes ar paslaugas, kurių tiekimo (teikimo) vieta, remiantis nuostatomis, iš esmės tolygiomis šio Įstatymo nuostatoms, nustatančioms prekių tiekimo (paslaugų teikimo) vietą, yra kita valstybė narė, tiekia (teikia) Lietuvos Respublikos apmokestinamasis asmuo (tuo atveju, jei jis kitoje valstybėje narėje turi padalinį, prekes tiekia ar paslaugas teikia ne per šį padalinį) ar užsienio apmokestinamasis asmuo per padalinį, esantį šalies teritorijoje. ^c79dde15ec4a78d66fa36c02
+2) taikomi, jeigu prekes ar paslaugas, kurių tiekimo (teikimo) vieta, remiantis nuostatomis, iš esmės tolygiomis šio Įstatymo nuostatoms, nustatančioms prekių tiekimo (paslaugų teikimo) vietą, yra kita valstybė narė, tiekia (teikia) Lietuvos Respublikos apmokestinamasis asmuo (tuo atveju, jei jis kitoje valstybėje narėje turi padalinį, prekes tiekia ar paslaugas teikia ne per šį padalinį) ar užsienio apmokestinamasis asmuo per padalinį, esantį šalies teritorijoje. ^s-95bc74185bddb518361d18cb
 
 
-4. Jeigu [[#^568624599c26c030c4fceb7d|šio straipsnio 3 dalyje]] nurodytų prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo nuostatas ar joms tolygias kitų valstybių narių nuostatas PVM sąskaita faktūra įformina šių prekių ar paslaugų pirkėjas, taikomos [[#^e327d7e241988fcff84c4130|šio straipsnio 1 dalies]] nuostatos.“ ^d4c7b581bf55b3f995c2b05b
+4. Jeigu [[#^s-186dc9772691bb50fc6038e5|šio straipsnio 3 dalyje]] nurodytų prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo nuostatas ar joms tolygias kitų valstybių narių nuostatas PVM sąskaita faktūra įformina šių prekių ar paslaugų pirkėjas, taikomos [[#^s-63485936565f7b730fc5f54f|šio straipsnio 1 dalies]] nuostatos.“ ^s-d5bdc04c5b673b8839817668
 
 
 
-### 19 straipsnis. 79 straipsnio pakeitimas
+### 19 straipsnis. 79 straipsnio pakeitimas ^s-799b4494bf69e545c0cbdcab
 
 
 Pakeisti 79 straipsnį ir jį išdėstyti taip:
@@ -311,179 +316,179 @@ Pakeisti 79 straipsnį ir jį išdėstyti taip:
 „79 straipsnis. Prekių tiekimo arba paslaugų teikimo įforminimas PVM sąskaita faktūra
 
 
-1. Įvykusį prekių tiekimą arba paslaugų teikimą apmokestinamasis asmuo (išskyrus Lietuvos Respublikos apmokestinamąjį asmenį, kuriam taikomos šio Įstatymo 71 straipsnio 2 dalies nuostatos) privalo įforminti PVM sąskaita faktūra arba užtikrinti, kad įvykusį prekių tiekimą arba paslaugų teikimą jo vardu įformintų šių prekių ar paslaugų pirkėjas arba trečiasis asmuo. PVM sąskaita faktūra išrašoma įforminant: ^33815e562f7dd379b76969d1
+1. Įvykusį prekių tiekimą arba paslaugų teikimą apmokestinamasis asmuo (išskyrus Lietuvos Respublikos apmokestinamąjį asmenį, kuriam taikomos šio Įstatymo 71 straipsnio 2 dalies nuostatos) privalo įforminti PVM sąskaita faktūra arba užtikrinti, kad įvykusį prekių tiekimą arba paslaugų teikimą jo vardu įformintų šių prekių ar paslaugų pirkėjas arba trečiasis asmuo. PVM sąskaita faktūra išrašoma įforminant: ^s-9d7c4176dd9fd513895c931b
 
 
-1) prekių tiekimą arba paslaugų teikimą kitam apmokestinamajam asmeniui arba juridiniam asmeniui, kuris nėra apmokestinamasis asmuo (jeigu teikiamos šio Įstatymo 27 ir 28 straipsniuose nurodytos draudimo ir finansinės paslaugos, PVM sąskaita faktūra išrašoma tik tais atvejais, jeigu draudimo ir finansines paslaugas šalies teritorijoje teikia Lietuvos Respublikos apmokestinamasis asmuo ar užsienio apmokestinamasis asmuo per padalinį, esantį šalies teritorijoje). Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais PVM sąskaita faktūra gali būti neišrašoma, kai tiekiamos (teikiamos) PVM neapmokestinamos ar 0 procentų PVM tarifu apmokestinamos prekės (paslaugos); ^3325b064910fdfbde3698dd5
+1) prekių tiekimą arba paslaugų teikimą kitam apmokestinamajam asmeniui arba juridiniam asmeniui, kuris nėra apmokestinamasis asmuo (jeigu teikiamos šio Įstatymo 27 ir 28 straipsniuose nurodytos draudimo ir finansinės paslaugos, PVM sąskaita faktūra išrašoma tik tais atvejais, jeigu draudimo ir finansines paslaugas šalies teritorijoje teikia Lietuvos Respublikos apmokestinamasis asmuo ar užsienio apmokestinamasis asmuo per padalinį, esantį šalies teritorijoje). Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais PVM sąskaita faktūra gali būti neišrašoma, kai tiekiamos (teikiamos) PVM neapmokestinamos ar 0 procentų PVM tarifu apmokestinamos prekės (paslaugos); ^s-07681feab1d9e3477c18262c
 
 
-2) prekių tiekimą pagal šio Įstatymo [[#^054255db7de96e4cb57c73e0|12 straipsnio 3 dalį]]; ^5f7fc4a5d44e5d43002b68bd
+2) prekių tiekimą pagal šio Įstatymo [[#^s-ec1b66d90867c7f4e92bb0a1|12 straipsnio 3 dalį]]; ^s-90473161d710d589dc40b90e
 
 
-3) prekių tiekimą, kuriam pagal šio Įstatymo 49 straipsnį taikomas 0 procentų PVM tarifas. ^2221720a1db3eb7e9c230625
+3) prekių tiekimą, kuriam pagal šio Įstatymo 49 straipsnį taikomas 0 procentų PVM tarifas. ^s-b3896d7f343ee60ee756ff9c
 
 
-2. PVM sąskaita faktūra privalo būti išrašyta: ^74bacdd6defcbda49d32e730
+2. PVM sąskaita faktūra privalo būti išrašyta: ^s-3bdf9e1a825b5fabdfe619d0
 
 
-1) nedelsiant patiekus prekes ar suteikus paslaugas, tačiau teikiant ilgalaikes paslaugas (t. y. paslaugas, kurios teikiamos tam tikrą tęstinį laikotarpį (telekomunikacijų, nuomos ar kt.), taip pat ilgą laiką tiekiant elektros energiją, dujas, šilumos ir kitų rūšių energiją, PVM sąskaita faktūra gali būti išrašoma už visą per mėnesį suteiktų paslaugų arba patiektų prekių kiekį ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos arba patiektos prekės, 10 dienos; ^4bc07c17d4d77c3e9c2a8a3f
+1) nedelsiant patiekus prekes ar suteikus paslaugas, tačiau teikiant ilgalaikes paslaugas (t. y. paslaugas, kurios teikiamos tam tikrą tęstinį laikotarpį (telekomunikacijų, nuomos ar kt.), taip pat ilgą laiką tiekiant elektros energiją, dujas, šilumos ir kitų rūšių energiją, PVM sąskaita faktūra gali būti išrašoma už visą per mėnesį suteiktų paslaugų arba patiektų prekių kiekį ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos arba patiektos prekės, 10 dienos; ^s-3bc0beca541f5cf25706b25e
 
 
-2) ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos arba patiektos prekės, 15 dienos tais atvejais, kai vykdomas prekių į kitą valstybę narę tiekimas, kuriam taikomos šio Įstatymo VI skyriaus nuostatos arba iš esmės joms tolygios kitos valstybės narės teisės aktų nuostatos, arba teikiamos paslaugos, už kurias prievolė PVM pagal šio Įstatymo 95 straipsnio nuostatas arba joms tolygias kitų valstybių narių teisės aktų nuostatas, atitinkamai šalies teritorijoje ar kitoje valstybėje narėje apskaičiuoti ir sumokėti tenka jų pirkėjui (arba tektų jų pirkėjui, jeigu prekės nebūtų neapmokestinamos PVM ar apmokestinamos taikant 0 procentų PVM tarifą). Už šiame punkte nurodytas prekes, tiekiamas ilgiau negu vieną kalendorinį mėnesį, PVM sąskaita faktūra privalo būti išrašyta ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo patiektos prekės, 15 dienos. Už šiame punkte nurodytas ilgalaikes paslaugas PVM sąskaita faktūra gali būti išrašoma už visą per mėnesį suteiktų paslaugų kiekį ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos, 15 dienos. ^30b9437298a02f7d2a7ed53d
+2) ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos arba patiektos prekės, 15 dienos tais atvejais, kai vykdomas prekių į kitą valstybę narę tiekimas, kuriam taikomos šio Įstatymo VI skyriaus nuostatos arba iš esmės joms tolygios kitos valstybės narės teisės aktų nuostatos, arba teikiamos paslaugos, už kurias prievolė PVM pagal šio Įstatymo 95 straipsnio nuostatas arba joms tolygias kitų valstybių narių teisės aktų nuostatas, atitinkamai šalies teritorijoje ar kitoje valstybėje narėje apskaičiuoti ir sumokėti tenka jų pirkėjui (arba tektų jų pirkėjui, jeigu prekės nebūtų neapmokestinamos PVM ar apmokestinamos taikant 0 procentų PVM tarifą). Už šiame punkte nurodytas prekes, tiekiamas ilgiau negu vieną kalendorinį mėnesį, PVM sąskaita faktūra privalo būti išrašyta ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo patiektos prekės, 15 dienos. Už šiame punkte nurodytas ilgalaikes paslaugas PVM sąskaita faktūra gali būti išrašoma už visą per mėnesį suteiktų paslaugų kiekį ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį buvo suteiktos paslaugos, 15 dienos. ^s-7d40b0d34a3db33e59bf260c
 
 
-3. Lietuvos Respublikos PVM mokėtojai PVM sąskaita faktūra privalo įforminti ir prekių tiekimą ar paslaugų teikimą fiziniams asmenims, kurie nėra apmokestinamieji asmenys, jeigu prekių tiekimas ar paslaugų teikimas įvyko šalies teritorijoje, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus atvejus. ^7e441552e0adcce469d4c48a
+3. Lietuvos Respublikos PVM mokėtojai PVM sąskaita faktūra privalo įforminti ir prekių tiekimą ar paslaugų teikimą fiziniams asmenims, kurie nėra apmokestinamieji asmenys, jeigu prekių tiekimas ar paslaugų teikimas įvyko šalies teritorijoje, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus atvejus. ^s-235f908177b6f1d80f6308c2
 
 
-4. Jeigu bet kuriuo iš šio straipsnio 1, 2 ir [[#^7e441552e0adcce469d4c48a|3 dalyse]] nurodytų atvejų prieš prekių tiekimą (paslaugų teikimą) gaunamas avansas, dėl kurio gavimo pagal šio Įstatymo [[#14 straipsnis. 66 straipsnio 2 dalies papildymas 3 punktu|14 straipsnio]] nuostatas atsiranda prievolė apskaičiuoti PVM, toks avanso gavimas turi būti įformintas PVM sąskaita faktūra. ^40633a07e49ed906e301d189
+4. Jeigu bet kuriuo iš šio straipsnio 1, 2 ir [[#^s-235f908177b6f1d80f6308c2|3 dalyse]] nurodytų atvejų prieš prekių tiekimą (paslaugų teikimą) gaunamas avansas, dėl kurio gavimo pagal šio Įstatymo [[#^s-19a1b0a0eb47e6b7e35a3160|14 straipsnio]] nuostatas atsiranda prievolė apskaičiuoti PVM, toks avanso gavimas turi būti įformintas PVM sąskaita faktūra. ^s-881044fad2095952cec2fad9
 
 
-5. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais viena PVM sąskaita faktūra gali būti įforminamos kelių PVM mokėtojų bendrai tiekiamos prekės arba teikiamos paslaugos. ^6ee3dfac7798cd50a832dba8
+5. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais viena PVM sąskaita faktūra gali būti įforminamos kelių PVM mokėtojų bendrai tiekiamos prekės arba teikiamos paslaugos. ^s-a94f4b81f656916a541593fe
 
 
-6. Bendra PVM sąskaita faktūra gali būti įforminami visi per tam tikrą laiką įvykę prekių tiekimai ar paslaugų teikimai, už kuriuos prievolė apskaičiuoti PVM atsiranda tą patį kalendorinį mėnesį. Bendroje PVM sąskaitoje faktūroje turi būti nurodyti visi PVM sąskaitos faktūros rekvizitai kiekvienam konkrečiam įvykusiam prekių tiekimui ar paslaugų teikimui, išskyrus bendrus šiems tiekimams (teikimams) PVM sąskaitos faktūros rekvizitus (išrašymo datą, prekių tiekėjo ar paslaugų teikėjo PVM mokėtojo kodą ir kt.). Centrinis mokesčio administratorius turi teisę nustatyti ir kitus atvejus, kuriais visi per tam tikrą laiką įvykę prekių tiekimai ar paslaugų teikimai, už kuriuos prievolė apskaičiuoti PVM atsiranda per ilgesnį negu kalendorinis mėnuo laikotarpį, įforminami bendra PVM sąskaita faktūra, išrašoma centrinio mokesčio administratoriaus nustatytu laiku. ^52f3b2e242842ca6ef885e8c
+6. Bendra PVM sąskaita faktūra gali būti įforminami visi per tam tikrą laiką įvykę prekių tiekimai ar paslaugų teikimai, už kuriuos prievolė apskaičiuoti PVM atsiranda tą patį kalendorinį mėnesį. Bendroje PVM sąskaitoje faktūroje turi būti nurodyti visi PVM sąskaitos faktūros rekvizitai kiekvienam konkrečiam įvykusiam prekių tiekimui ar paslaugų teikimui, išskyrus bendrus šiems tiekimams (teikimams) PVM sąskaitos faktūros rekvizitus (išrašymo datą, prekių tiekėjo ar paslaugų teikėjo PVM mokėtojo kodą ir kt.). Centrinis mokesčio administratorius turi teisę nustatyti ir kitus atvejus, kuriais visi per tam tikrą laiką įvykę prekių tiekimai ar paslaugų teikimai, už kuriuos prievolė apskaičiuoti PVM atsiranda per ilgesnį negu kalendorinis mėnuo laikotarpį, įforminami bendra PVM sąskaita faktūra, išrašoma centrinio mokesčio administratoriaus nustatytu laiku. ^s-fbcd53d2ec7b9d525fcf8eba
 
 
-7. Kai į kitą valstybę narę tiekiamos naujos transporto priemonės, PVM sąskaitas faktūras privalo išrašyti ir asmenys, kurie nėra PVM mokėtojai, neatsižvelgiant į tai, kokiam asmeniui jos tiekiamos. ^0f180a35f122d0e44afbcad9
+7. Kai į kitą valstybę narę tiekiamos naujos transporto priemonės, PVM sąskaitas faktūras privalo išrašyti ir asmenys, kurie nėra PVM mokėtojai, neatsižvelgiant į tai, kokiam asmeniui jos tiekiamos. ^s-1eb688506807d9eab9ee674a
 
 
-8. Prekių tiekimą arba paslaugų teikimą prekių tiekėjo arba paslaugų teikėjo vardu turi teisę įforminti trečiasis asmuo. Prekių tiekimą arba paslaugų teikimą prekių tiekėjo arba paslaugų teikėjo vardu gali įforminti ir šių prekių arba paslaugų pirkėjas, tačiau tik tuo atveju, kai yra išankstinis tiekėjo (teikėjo) ir pirkėjo susitarimas. ^671148d00dfa78e68b50566a
+8. Prekių tiekimą arba paslaugų teikimą prekių tiekėjo arba paslaugų teikėjo vardu turi teisę įforminti trečiasis asmuo. Prekių tiekimą arba paslaugų teikimą prekių tiekėjo arba paslaugų teikėjo vardu gali įforminti ir šių prekių arba paslaugų pirkėjas, tačiau tik tuo atveju, kai yra išankstinis tiekėjo (teikėjo) ir pirkėjo susitarimas. ^s-047c098a7a7c30594bce9144
 
 
-9. PVM sąskaitas faktūras už Lietuvos Respublikoje registruotų PVM mokėtojų tiekiamą žemės ūkio produkciją visais atvejais išrašo žemės ūkio produkcijos pirkėjas, jeigu jis yra Lietuvos Respublikos PVM mokėtojas. ^a71b098dac28b8d131c7e2a4
+9. PVM sąskaitas faktūras už Lietuvos Respublikoje registruotų PVM mokėtojų tiekiamą žemės ūkio produkciją visais atvejais išrašo žemės ūkio produkcijos pirkėjas, jeigu jis yra Lietuvos Respublikos PVM mokėtojas. ^s-3674ef059c0c54ae4eaa5dc7
 
 
-10. Jeigu pageidaujama, kad prekių tiekimą arba paslaugų teikimą įforminančias PVM sąskaitas faktūras prekių tiekėjo ar paslaugų teikėjo vardu išrašytų pirkėjas ar trečiasis asmuo, įsikūręs teritorijoje, kurioje netaikomos Direktyvos 2010/24/ES ir Reglamento (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygių savitarpio pagalbos taikymo dokumentų nuostatos, centrinis mokesčio administratorius turi teisę nustatyti papildomas sąlygas ir reikalavimus, kuriuos įvykdžius toks prekių tiekimo arba paslaugų teikimo įforminimas yra galimas. ^ca6a934016815d2e328bc5cd
+10. Jeigu pageidaujama, kad prekių tiekimą arba paslaugų teikimą įforminančias PVM sąskaitas faktūras prekių tiekėjo ar paslaugų teikėjo vardu išrašytų pirkėjas ar trečiasis asmuo, įsikūręs teritorijoje, kurioje netaikomos Direktyvos 2010/24/ES ir Reglamento (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygių savitarpio pagalbos taikymo dokumentų nuostatos, centrinis mokesčio administratorius turi teisę nustatyti papildomas sąlygas ir reikalavimus, kuriuos įvykdžius toks prekių tiekimo arba paslaugų teikimo įforminimas yra galimas. ^s-01ca0e8092dc0e2123a9849a
 
 
-11. PVM sąskaitos faktūros gali būti rašytinės (išrašomos spausdintame blanke) ir elektroninės. Elektronine PVM sąskaita faktūra laikoma PVM sąskaita faktūra, kurioje nurodomi nustatyti PVM sąskaitos faktūros rekvizitai ir kuri yra išrašyta ir gauta elektroniniu formatu. Elektroninė PVM sąskaita faktūra gali būti naudojama tik tuo atveju, kai yra išankstinis pirkėjo sutikimas. Asmuo, kuris pagal šį Įstatymą privalo įforminti PVM sąskaitą faktūrą arba užtikrinti jos įforminimą, taip pat turi nustatyti būdus, kuriais užtikrinamas PVM sąskaitos faktūros kilmės autentiškumas, turinio vientisumas ir įskaitomumas. PVM sąskaitos faktūros kilmės autentiškumu šiame Įstatyme laikomas prekių tiekėjo (paslaugų teikėjo) arba asmens, kuris įformina PVM sąskaitą faktūrą, tapatybės tikrumas, o PVM sąskaitos faktūros turinio vientisumas – rekvizitų, kurie PVM sąskaitoje faktūroje nurodomi pagal šį Įstatymą, pakeitimų nebuvimas. PVM sąskaitos faktūros kilmės autentiškumą, turinio vientisumą ir įskaitomumą asmuo gali užtikrinti bet kokiomis verslo kontrolės priemonėmis, kuriomis sudaroma galimybė patikimai patikrinti PVM sąskaitos faktūros ir ja įforminto prekių tiekimo arba paslaugų teikimo sąryšį. Elektroninės PVM sąskaitos faktūros kilmės autentiškumas, turinio vientisumas taip pat gali būti užtikrinamas ir tokiais būdais: ^e8b78bfc89075bd4af0e8da9
+11. PVM sąskaitos faktūros gali būti rašytinės (išrašomos spausdintame blanke) ir elektroninės. Elektronine PVM sąskaita faktūra laikoma PVM sąskaita faktūra, kurioje nurodomi nustatyti PVM sąskaitos faktūros rekvizitai ir kuri yra išrašyta ir gauta elektroniniu formatu. Elektroninė PVM sąskaita faktūra gali būti naudojama tik tuo atveju, kai yra išankstinis pirkėjo sutikimas. Asmuo, kuris pagal šį Įstatymą privalo įforminti PVM sąskaitą faktūrą arba užtikrinti jos įforminimą, taip pat turi nustatyti būdus, kuriais užtikrinamas PVM sąskaitos faktūros kilmės autentiškumas, turinio vientisumas ir įskaitomumas. PVM sąskaitos faktūros kilmės autentiškumu šiame Įstatyme laikomas prekių tiekėjo (paslaugų teikėjo) arba asmens, kuris įformina PVM sąskaitą faktūrą, tapatybės tikrumas, o PVM sąskaitos faktūros turinio vientisumas – rekvizitų, kurie PVM sąskaitoje faktūroje nurodomi pagal šį Įstatymą, pakeitimų nebuvimas. PVM sąskaitos faktūros kilmės autentiškumą, turinio vientisumą ir įskaitomumą asmuo gali užtikrinti bet kokiomis verslo kontrolės priemonėmis, kuriomis sudaroma galimybė patikimai patikrinti PVM sąskaitos faktūros ir ja įforminto prekių tiekimo arba paslaugų teikimo sąryšį. Elektroninės PVM sąskaitos faktūros kilmės autentiškumas, turinio vientisumas taip pat gali būti užtikrinamas ir tokiais būdais: ^s-0321736b7eb8cd2e7f6dfbc2
 
 
-1) naudojant saugų elektroninį parašą, kaip nustatyta Lietuvos Respublikos elektroninio parašo įstatyme; ^9752a8c1a766f6544bf280a6
+1) naudojant saugų elektroninį parašą, kaip nustatyta Lietuvos Respublikos elektroninio parašo įstatyme; ^s-fd4d3546ff096ec5da37c9b4
 
 
-2) taikant elektroninių duomenų apsikeitimo priemones, kaip jos apibrėžtos 1994 m. spalio 19 d. Komisijos rekomendacijos 1994/820/EB dėl apsikeitimo elektroniniais duomenimis teisinių aspektų 1 priedo [[#2 straipsnis. 14 straipsnio 6 ir 10 dalių pakeitimas|2 straipsnyje]], jeigu susitarime dėl apsikeitimo elektroniniais duomenimis numatyta taikyti procedūras, kuriomis užtikrinamas duomenų kilmės autentiškumas ir vientisumas. ^d90f064f10833f46e4f75a14
+2) taikant elektroninių duomenų apsikeitimo priemones, kaip jos apibrėžtos 1994 m. spalio 19 d. Komisijos rekomendacijos 1994/820/EB dėl apsikeitimo elektroniniais duomenimis teisinių aspektų 1 priedo [[#^s-3e5de0630bdc3dcc2d143fea|2 straipsnyje]], jeigu susitarime dėl apsikeitimo elektroniniais duomenimis numatyta taikyti procedūras, kuriomis užtikrinamas duomenų kilmės autentiškumas ir vientisumas. ^s-5e1ddaf2963fad7d4a6ee975
 
 
-12. PVM sąskaita faktūra įforminamas ir prekių tiekimas bei paslaugų teikimas šio Įstatymo 5, 6, 8 ir [[#9 straipsnis. 49 straipsnio 2 ir 3 dalių pakeitimas|9 straipsniuose]] nurodytais atvejais. ^076f3b25cede614a2383b780
+12. PVM sąskaita faktūra įforminamas ir prekių tiekimas bei paslaugų teikimas šio Įstatymo 5, 6, 8 ir [[#^s-cced67bf681424722544292b|9 straipsniuose]] nurodytais atvejais. ^s-988f3eac1f1261e9136e56f7
 
 
-13. Jeigu bendra PVM sąskaitoje faktūroje nurodomų patiektų prekių ir (arba) suteiktų paslaugų vertė (įskaitant PVM) neviršija 345 litų, gali būti išrašoma supaprastinta PVM sąskaita faktūra, nurodyta šio Įstatymo 80 straipsnio 9 dalyje. ^c110a2baed710551100a9b11
+13. Jeigu bendra PVM sąskaitoje faktūroje nurodomų patiektų prekių ir (arba) suteiktų paslaugų vertė (įskaitant PVM) neviršija 345 litų, gali būti išrašoma supaprastinta PVM sąskaita faktūra, nurodyta šio Įstatymo 80 straipsnio 9 dalyje. ^s-cb530854fb71fd418f8129db
 
 
-14. [[#^c110a2baed710551100a9b11|Šio straipsnio 13 dalies]] nuostatos netaikomos, jeigu PVM sąskaitą faktūrą išrašyti reikalaujama pagal [[#^33815e562f7dd379b76969d1|šio straipsnio 1 dalies]] 2 ir 3 punktus, [[#^0f180a35f122d0e44afbcad9|7 dalį]] arba kai prekes tiekia (paslaugas teikia) apmokestinamasis asmuo, kuris nėra įsikūręs valstybėje narėje (tuo atveju, jeigu jis šioje valstybėje narėje turi padalinį, prekes tiekia arba paslaugas teikia ne per šį padalinį), kurioje prekės laikomos patiektomis (paslaugos suteiktomis) ir šių prekių arba paslaugų pirkėjas toje valstybėje narėje, kurioje prekės laikomos patiektomis (paslaugos suteiktomis), privalo apskaičiuoti ir sumokėti PVM pagal šio Įstatymo 95 straipsnio ar joms tolygias kitos valstybės narės teisės aktų nuostatas.“ ^b8d8af083132386d776cd51e
+14. [[#^s-cb530854fb71fd418f8129db|Šio straipsnio 13 dalies]] nuostatos netaikomos, jeigu PVM sąskaitą faktūrą išrašyti reikalaujama pagal [[#^s-9d7c4176dd9fd513895c931b|šio straipsnio 1 dalies]] 2 ir 3 punktus, [[#^s-1eb688506807d9eab9ee674a|7 dalį]] arba kai prekes tiekia (paslaugas teikia) apmokestinamasis asmuo, kuris nėra įsikūręs valstybėje narėje (tuo atveju, jeigu jis šioje valstybėje narėje turi padalinį, prekes tiekia arba paslaugas teikia ne per šį padalinį), kurioje prekės laikomos patiektomis (paslaugos suteiktomis) ir šių prekių arba paslaugų pirkėjas toje valstybėje narėje, kurioje prekės laikomos patiektomis (paslaugos suteiktomis), privalo apskaičiuoti ir sumokėti PVM pagal šio Įstatymo 95 straipsnio ar joms tolygias kitos valstybės narės teisės aktų nuostatas.“ ^s-c45bd8931456784ac628c84a
 
 
 
-### 20 straipsnis. 80 straipsnio pakeitimas ir papildymas
+### 20 straipsnis. 80 straipsnio pakeitimas ir papildymas ^s-38e08435bffa6c9504be030a
 
 
-1. Pakeisti 80 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^081ae276ca4f10f8a8aa9cd9
+1. Pakeisti 80 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^s-d80db0c418ad2c4bbe0a1851
 
 
 „7) tiekiamų prekių arba teikiamų paslaugų pavadinimas, taip pat jų kiekis;“.
 
 
-2. Pakeisti 80 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^39e32d0f12d17c8b46a215ff
+2. Pakeisti 80 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^s-649a89e83b0eea83d59e0896
 
 
 „13) kai įforminamas prekių ir (arba) paslaugų, kurios neapmokestinamos arba apmokestinamos taikant 0 procentų PVM tarifą, tiekimas (teikimas), – nuoroda į atitinkamą šio Įstatymo arba Direktyvos 2006/112/EB nuostatą arba bet kokia kita nuoroda, kad prekės (paslaugos) neapmokestinamos, apmokestinamos taikant 0 procentų PVM tarifą;“.
 
 
-3. Pakeisti 80 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip: ^7951f2ae2ba52034218293a3
+3. Pakeisti 80 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip: ^s-f75f481b3d2b256b6e72d61d
 
 
 „15) kai taikoma speciali turizmo paslaugų apmokestinimo PVM schema, nurodyta šio Įstatymo XII skyriaus antrajame skirsnyje, – nuoroda „Maržos apmokestinimo schema. Kelionių agentūros“, o kai taikoma speciali naudotų prekių, meno kūrinių, kolekcinių ir antikvarinių daiktų apmokestinimo PVM schema, nurodyta šio Įstatymo XII skyriaus trečiajame skirsnyje, – atitinkama nuoroda „Maržos apmokestinimo schema. Naudotos prekės“, „Maržos apmokestinimo schema. Meno kūriniai“ arba „Maržos apmokestinimo schema. Kolekcionavimo objektai ir antikvariniai daiktai“;“.
 
 
-4. Papildyti 80 straipsnio 1 dalį 17 punktu: ^5d36fc3d5522e6670bdaf162
+4. Papildyti 80 straipsnio 1 dalį 17 punktu: ^s-77a2ca9f46c96949ad824526
 
 
 „17) kai įforminamas prekių ir (arba) paslaugų, už kurias prievolė apskaičiuoti (arba išskaityti) ir sumokėti PVM tenka pirkėjui (klientui), tiekimas (teikimas), – nuoroda „Atvirkštinis apmokestinimas“;“.
 
 
-5. Papildyti 80 straipsnio 1 dalį 18 punktu: ^1300d0019efbec521c824704
+5. Papildyti 80 straipsnio 1 dalį 18 punktu: ^s-0012fd96fcb4f2b615b24a7d
 
 
 „18) kai prievolė apskaičiuoti PVM atsiranda gavus atlygį už patiektas prekes ar suteiktas paslaugas, – nuoroda „Pinigų apskaitos sistema“;“.
 
 
-6. Papildyti 80 straipsnio 1 dalį 19 punktu: ^155475ea90d5b31bbf51745f
+6. Papildyti 80 straipsnio 1 dalį 19 punktu: ^s-d9b3dfa54bc82940d8686503
 
 
 „19) kai PVM sąskaitą faktūrą prekių tiekėjo ar paslaugų teikėjo vardu įformina pirkėjas, – nuoroda „Sąskaitų faktūrų išsirašymas“. “
 
 
-7. Pakeisti 80 straipsnio 7 dalį ir ją išdėstyti taip: ^d26fe88ca12e4456ae1b7d28
+7. Pakeisti 80 straipsnio 7 dalį ir ją išdėstyti taip: ^s-14c9e41d4f424bfb20c1ab16
 
 
 „7. Mažmeninėje degalų (variklių benzino, dyzelinių degalų, suskystintų dujų) prekyboje parduodant prekes ir paslaugas, kasos aparato kvitas, kuriame nurodyta prekių (paslaugų) vertė (įskaitant PVM) neviršija 500 litų ir kuriame yra visi teisės aktų nustatyti kasos aparato kvitui privalomi rekvizitai, taip pat rekvizitas (rekvizitai), pagal kurį (kuriuos) galima identifikuoti prekių (paslaugų) pirkėją, laikomas PVM sąskaita faktūra. Šios dalies nuostatos netaikomos šio Įstatymo 79 straipsnio 14 dalyje nustatytais atvejais.“
 
 
-8. Papildyti 80 straipsnį 8 dalimi: ^aa5548b4a30f2927d8357a72
+8. Papildyti 80 straipsnį 8 dalimi: ^s-5027230d471ff81c60103f73
 
 
-„8. Kai PVM už prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo 95 straipsnio nuostatas arba joms tolygias kitų valstybių narių teisės aktų nuostatas privalo apskaičiuoti ir sumokėti jų pirkėjas, išskyrus atvejus, jeigu šių prekių tiekimą arba paslaugų teikimą PVM sąskaita faktūra įformina pirkėjas, vietoj [[#^081ae276ca4f10f8a8aa9cd9|šio straipsnio 1 dalies]] 9–12 punktuose nustatytų rekvizitų gali būti nurodoma tiekiamų prekių ar teikiamų paslaugų apmokestinamoji vertė.“
+„8. Kai PVM už prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo 95 straipsnio nuostatas arba joms tolygias kitų valstybių narių teisės aktų nuostatas privalo apskaičiuoti ir sumokėti jų pirkėjas, išskyrus atvejus, jeigu šių prekių tiekimą arba paslaugų teikimą PVM sąskaita faktūra įformina pirkėjas, vietoj [[#^s-d80db0c418ad2c4bbe0a1851|šio straipsnio 1 dalies]] 9–12 punktuose nustatytų rekvizitų gali būti nurodoma tiekiamų prekių ar teikiamų paslaugų apmokestinamoji vertė.“
 
 
-9. Papildyti 80 straipsnį 9 dalimi: ^8c152f8b114a7ce4cd426e83
+9. Papildyti 80 straipsnį 9 dalimi: ^s-fba6e94330f139d20083d8e2
 
 
 „9. Supaprastintoje PVM sąskaitoje faktūroje turi būti nurodyta:
 
 
-1) PVM sąskaitos faktūros išrašymo data; ^9aff39f4b378c8746211e2ff
+1) PVM sąskaitos faktūros išrašymo data; ^s-71689e558cd72424bb2d1d20
 
 
-2) PVM sąskaitos faktūros numeris, leidžiantis identifikuoti PVM sąskaitą faktūrą; ^9426ac8b55ac91d01805eb9d
+2) PVM sąskaitos faktūros numeris, leidžiantis identifikuoti PVM sąskaitą faktūrą; ^s-2c566fb3dc4e960d16ab68fa
 
 
-3) prekių tiekėjo arba paslaugų teikėjo PVM mokėtojo kodas; ^98f6d7f83678503806a00645
+3) prekių tiekėjo arba paslaugų teikėjo PVM mokėtojo kodas; ^s-b165737cf9d80963b35e98b5
 
 
-4) prekių tiekėjo arba paslaugų teikėjo pavadinimas arba vardas, pavardė (jeigu tai fizinis asmuo); ^3536eef40bb68bbfad6b02a9
+4) prekių tiekėjo arba paslaugų teikėjo pavadinimas arba vardas, pavardė (jeigu tai fizinis asmuo); ^s-92426971b9c96961654e8094
 
 
-5) prekių arba paslaugų pirkėjo (kliento) PVM mokėtojo kodas, kurį jis nurodė įsigydamas prekes ar paslaugas. Jeigu Lietuvos Respublikos apmokestinamasis asmuo tiekia prekes ar teikia paslaugas šalies teritorijoje, pirkėjo PVM mokėtojo kodas (jeigu pirkėjas registruotas PVM mokėtoju) nurodomas visais atvejais; ^8bd6fb6d322fd236a4f44114
+5) prekių arba paslaugų pirkėjo (kliento) PVM mokėtojo kodas, kurį jis nurodė įsigydamas prekes ar paslaugas. Jeigu Lietuvos Respublikos apmokestinamasis asmuo tiekia prekes ar teikia paslaugas šalies teritorijoje, pirkėjo PVM mokėtojo kodas (jeigu pirkėjas registruotas PVM mokėtoju) nurodomas visais atvejais; ^s-88bfd0a54c3fdb3f5cb32c2c
 
 
-6) tiekiamų prekių arba teikiamų paslaugų pavadinimas; ^9e108666c9c0e67a2b4de827
+6) tiekiamų prekių arba teikiamų paslaugų pavadinimas; ^s-bd890e3cecb68bf1f91c63ea
 
 
-7) tiekiamų prekių arba teikiamų paslaugų, apmokestinamų taikant vienodą tarifą, apmokestinamoji vertė; ^4f03b77553f2fe7d69574e9b
+7) tiekiamų prekių arba teikiamų paslaugų, apmokestinamų taikant vienodą tarifą, apmokestinamoji vertė; ^s-c2ab17d2d6cb4e0d00ca83c0
 
 
-8) PVM tarifas (tarifai); ^47041df1bee6f1c6d7d1d705
+8) PVM tarifas (tarifai); ^s-795c9f9ad9b2f708a559d773
 
 
-9) PVM suma nacionaline valiuta.“ ^3095f45f55765e0439fcda51
+9) PVM suma nacionaline valiuta.“ ^s-3cd39b0469915ea3982f545f
 
 
 
-### 21 straipsnis. 82 straipsnio pripažinimas netekusiu galios
+### 21 straipsnis. 82 straipsnio pripažinimas netekusiu galios ^s-1d623fa785be55d836bb3316
 
 
 82 straipsnį pripažinti netekusiu galios.
 
 
 
-### 22 straipsnis. 83 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+### 22 straipsnis. 83 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi ^s-5e5df2f0efe6d31aa6d7719b
 
 
-1. Pakeisti 83 straipsnio 3 dalį ir ją išdėstyti taip: ^494bd886d1de4ee37b22569e
+1. Pakeisti 83 straipsnio 3 dalį ir ją išdėstyti taip: ^s-1c142611536b4197bf3c1f7b
 
 
 „3. Kreditiniuose ir debetiniuose dokumentuose nurodomi šio Įstatymo 80 straipsnio 1 dalyje nustatyti PVM sąskaitų faktūrų rekvizitai (įskaitant netikslinamus rekvizitus), tikslinamos PVM sąskaitos faktūros išrašymo data, serija, numeris (jeigu įmanoma tiksliai nustatyti, kurio apskaitos dokumento duomenys tikslinami) ar pateikiami kiti duomenys (jeigu neįmanoma tiksliai nustatyti, kurio apskaitos dokumento duomenys tikslinami) apie tikslinamus apskaitos dokumentus (laikotarpis, kuriuo buvo patiektos prekės ar suteiktos paslaugos, ir kt.).“
 
 
-2. Papildyti 83 straipsnį 4 dalimi: ^828f4db0cd0382ad36337868
+2. Papildyti 83 straipsnį 4 dalimi: ^s-fe59c371027a37828d71a67d
 
 
 „4. Neatsižvelgiant į šio straipsnio 3 dalies nuostatas, asmuo gali pasirinkti kreditiniuose ir debetiniuose dokumentuose nurodyti šio Įstatymo 80 straipsnio 9 dalyje nustatytus supaprastintų PVM sąskaitų faktūrų rekvizitus. Tokiais atvejais kreditiniuose ir debetiniuose dokumentuose, be nustatytų supaprastintų PVM sąskaitų faktūrų rekvizitų (įskaitant netikslinamus rekvizitus), nurodoma tikslinamos PVM sąskaitos faktūros išrašymo data, serija, numeris (jeigu įmanoma tiksliai nustatyti, kurio apskaitos dokumento duomenys tikslinami) ar pateikiami kiti duomenys (jeigu neįmanoma tiksliai nustatyti, kurio apskaitos dokumento duomenys tikslinami) apie tikslinamus apskaitos dokumentus (laikotarpis, kuriuo buvo patiektos prekės ar suteiktos paslaugos, ir kt.) ir kiti tikslinami rekvizitai, kai tikslinamas apskaitos dokumentas, išrašytas vadovaujantis šio Įstatymo 80 straipsnio 1 dalies nuostatomis. Šios dalies nuostatos netaikomos šio Įstatymo 79 straipsnio 14 dalyje nustatytais atvejais.“
 
 
 
-### 23 straipsnis. Įstatymo papildymas 891 straipsniu
+### 23 straipsnis. Įstatymo papildymas 891 straipsniu ^s-b6a255ab8ed9f8beb5d6c9f0
 
 
 Papildyti Įstatymą 891 straipsniu:
@@ -493,80 +498,80 @@ Papildyti Įstatymą 891 straipsniu:
 „891 straipsnis. Už mokestinį laikotarpį mokėtinos į biudžetą PVM sumos tikslinimas dėl beviltiškų skolų
 
 
-1. Šio Įstatymo 89 straipsnyje nustatyta tvarka apskaičiuota mokėtina į biudžetą PVM suma gali būti mažinama šio straipsnio nustatyta tvarka pripažintoms beviltiškoms skoloms (įskaitant pardavimo PVM) priskiriama pardavimo PVM suma. Už patiektas prekes ir (arba) suteiktas paslaugas gautinas atlygis yra laikomas beviltiška skola (įskaitant pardavimo PVM), jeigu tokio atlygio asmuo negali susigrąžinti praėjus ne mažiau kaip 12 paskutinių kalendorinių mėnesių nuo tiekiamų prekių ar teikiamų paslaugų apmokestinimo momento ir jeigu skolai priskiriama pardavimo PVM suma už patiektas prekes ir (arba) suteiktas paslaugas buvo apskaičiuota ir deklaruota šio Įstatymo nustatyta tvarka. Visais atvejais asmuo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi įrodyti skolų (įskaitant pardavimo PVM) beviltiškumą ir pastangas šioms skoloms susigrąžinti. Skolai priskiriama pardavimo PVM suma apskaičiuojama proporcingai gautinam atlygiui (atlygio daliai). ^81cd3ebb7e0eefe0b9b475f9
+1. Šio Įstatymo 89 straipsnyje nustatyta tvarka apskaičiuota mokėtina į biudžetą PVM suma gali būti mažinama šio straipsnio nustatyta tvarka pripažintoms beviltiškoms skoloms (įskaitant pardavimo PVM) priskiriama pardavimo PVM suma. Už patiektas prekes ir (arba) suteiktas paslaugas gautinas atlygis yra laikomas beviltiška skola (įskaitant pardavimo PVM), jeigu tokio atlygio asmuo negali susigrąžinti praėjus ne mažiau kaip 12 paskutinių kalendorinių mėnesių nuo tiekiamų prekių ar teikiamų paslaugų apmokestinimo momento ir jeigu skolai priskiriama pardavimo PVM suma už patiektas prekes ir (arba) suteiktas paslaugas buvo apskaičiuota ir deklaruota šio Įstatymo nustatyta tvarka. Visais atvejais asmuo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi įrodyti skolų (įskaitant pardavimo PVM) beviltiškumą ir pastangas šioms skoloms susigrąžinti. Skolai priskiriama pardavimo PVM suma apskaičiuojama proporcingai gautinam atlygiui (atlygio daliai). ^s-2cf1b7fe4e4441d4f36ae0e5
 
 
-2. Jeigu prekės patiektos ar paslaugos suteiktos apmokestinamajam asmeniui arba juridiniam asmeniui, kuris nėra apmokestinamasis asmuo, išskyrus atvejus, kai patiektų prekių ir (arba) suteiktų paslaugų apmokestinamoji vertė yra marža, apskaičiuota šio Įstatymo XII skyriuje nustatyta tvarka, prekių tiekėjas (paslaugų teikėjas) skolos pripažinimą beviltiška ir pardavimo PVM sumos jai priskyrimą ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį skola (įskaitant pardavimo PVM) buvo pripažinta beviltiška, 10 dienos turi įforminti laisvos formos apskaitos dokumentu. Šio apskaitos dokumento išrašymo tvarką ir reikalaujamus jame nurodyti rekvizitus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^047d25073d3d3a4bd8bbd543
+2. Jeigu prekės patiektos ar paslaugos suteiktos apmokestinamajam asmeniui arba juridiniam asmeniui, kuris nėra apmokestinamasis asmuo, išskyrus atvejus, kai patiektų prekių ir (arba) suteiktų paslaugų apmokestinamoji vertė yra marža, apskaičiuota šio Įstatymo XII skyriuje nustatyta tvarka, prekių tiekėjas (paslaugų teikėjas) skolos pripažinimą beviltiška ir pardavimo PVM sumos jai priskyrimą ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį skola (įskaitant pardavimo PVM) buvo pripažinta beviltiška, 10 dienos turi įforminti laisvos formos apskaitos dokumentu. Šio apskaitos dokumento išrašymo tvarką ir reikalaujamus jame nurodyti rekvizitus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^s-e629197c1081bdd2f28059f5
 
 
-3. [[#^047d25073d3d3a4bd8bbd543|Šio straipsnio 2 dalyje]] nurodytų dokumentų saugojimui taikomi šio Įstatymo 78 straipsnyje PVM sąskaitoms faktūroms nustatyti reikalavimai. ^b24db5b87de06bc0c3c00eb6
+3. [[#^s-e629197c1081bdd2f28059f5|Šio straipsnio 2 dalyje]] nurodytų dokumentų saugojimui taikomi šio Įstatymo 78 straipsnyje PVM sąskaitoms faktūroms nustatyti reikalavimai. ^s-9b0e888ad403eb1945532ee3
 
 
-4. Jeigu pirkėjas pirkimo PVM už įsigyjamas prekes ir (arba) paslaugas, už kurias jų tiekėjui (teikėjui) atsirado beviltiška skola (įskaitant pardavimo PVM), buvo įtraukęs į PVM atskaitą, atskaityta pirkimo PVM, priskirto jo neapmokėtai beviltiškai skolai, dalimi remiantis [[#^047d25073d3d3a4bd8bbd543|šio straipsnio 2 dalimi]] išrašytu laisvos formos apskaitos dokumentu didinama mokėtina į biudžetą PVM suma, šiuos duomenis deklaruojant tą mokestinį laikotarpį, kurį paaiškėjo minėtos aplinkybės. ^c530910ba8be31037534d5a4
+4. Jeigu pirkėjas pirkimo PVM už įsigyjamas prekes ir (arba) paslaugas, už kurias jų tiekėjui (teikėjui) atsirado beviltiška skola (įskaitant pardavimo PVM), buvo įtraukęs į PVM atskaitą, atskaityta pirkimo PVM, priskirto jo neapmokėtai beviltiškai skolai, dalimi remiantis [[#^s-e629197c1081bdd2f28059f5|šio straipsnio 2 dalimi]] išrašytu laisvos formos apskaitos dokumentu didinama mokėtina į biudžetą PVM suma, šiuos duomenis deklaruojant tą mokestinį laikotarpį, kurį paaiškėjo minėtos aplinkybės. ^s-d51d22e363eb33653006c101
 
 
-5. Jeigu beviltiška skola (įskaitant pardavimo PVM) visiškai ar iš dalies yra grąžinama prekių tiekėjui (paslaugų teikėjui), prekių tiekėjas (paslaugų teikėjas) grąžintai beviltiškai sumai priskiriama pardavimo PVM suma didina mokėtiną į biudžetą PVM sumą tą mokestinį laikotarpį, kurį skola buvo grąžinta. Pirkėjas, grąžinęs skolą, tikslina pirkimo PVM. ^abaffcef5e5c5cc8245a45eb
+5. Jeigu beviltiška skola (įskaitant pardavimo PVM) visiškai ar iš dalies yra grąžinama prekių tiekėjui (paslaugų teikėjui), prekių tiekėjas (paslaugų teikėjas) grąžintai beviltiškai sumai priskiriama pardavimo PVM suma didina mokėtiną į biudžetą PVM sumą tą mokestinį laikotarpį, kurį skola buvo grąžinta. Pirkėjas, grąžinęs skolą, tikslina pirkimo PVM. ^s-a408acade86088f5f33cc4aa
 
 
-6. Jeigu beviltiškų skolų pripažinimo ar atitinkamai jų grąžinimo momentu prekių tiekėjas (paslaugų teikėjas) arba šių prekių (paslaugų) pirkėjas yra išregistruoti iš PVM mokėtojų, jie šio straipsnio nustatyta tvarka apskaičiuotas papildomai mokėtinas ar grąžintinas PVM sumas tikslina pateikdami patikslintą to mokestinio laikotarpio PVM deklaraciją, į kurią buvo įtraukti tikslinamieji duomenys. ^7dcb0bd2c671affda5c65213
+6. Jeigu beviltiškų skolų pripažinimo ar atitinkamai jų grąžinimo momentu prekių tiekėjas (paslaugų teikėjas) arba šių prekių (paslaugų) pirkėjas yra išregistruoti iš PVM mokėtojų, jie šio straipsnio nustatyta tvarka apskaičiuotas papildomai mokėtinas ar grąžintinas PVM sumas tikslina pateikdami patikslintą to mokestinio laikotarpio PVM deklaraciją, į kurią buvo įtraukti tikslinamieji duomenys. ^s-9ce9bdcd047ca5ddb19a1a3b
 
 
-7. Šio straipsnio nuostatos netaikomos, jeigu prekių tiekėjas (paslaugų teikėjas) ir prekių (paslaugų) pirkėjas yra susiję asmenys arba jais tapo kalendoriniais metais, einančiais po tų kalendorinių metų, kuriais skola (įskaitant pardavimo PVM) buvo pripažinta beviltiška ir jai priskiriama pardavimo PVM suma buvo sumažinta mokėtina į biudžetą PVM suma.“ ^7b7c18d85794b5d1febb1cd6
+7. Šio straipsnio nuostatos netaikomos, jeigu prekių tiekėjas (paslaugų teikėjas) ir prekių (paslaugų) pirkėjas yra susiję asmenys arba jais tapo kalendoriniais metais, einančiais po tų kalendorinių metų, kuriais skola (įskaitant pardavimo PVM) buvo pripažinta beviltiška ir jai priskiriama pardavimo PVM suma buvo sumažinta mokėtina į biudžetą PVM suma.“ ^s-d3bcc2690fdf5da9c9f5298e
 
 
 
-### 24 straipsnis. 92 straipsnio 1 ir 3 dalių pakeitimas
+### 24 straipsnis. 92 straipsnio 1 ir 3 dalių pakeitimas ^s-bedd2273befb4eb4793f58b7
 
 
-1. Pakeisti 92 straipsnio 1 dalies pirmąją pastraipą ir ją išdėstyti taip: ^efc3e2b7ebeac881a075935d
+1. Pakeisti 92 straipsnio 1 dalies pirmąją pastraipą ir ją išdėstyti taip: ^s-52e5360e1e9762cfe4f928de
 
 
 „1. Apmokestinamasis asmuo, privalėjęs pateikti prašymą įregistruoti jį PVM mokėtoju pagal šio Įstatymo 71 straipsnį arba pagal 711 straipsnį, tačiau to nepadaręs, privalo laikydamasis šiame straipsnyje nustatytos tvarkos skaičiuoti ir mokėti į biudžetą PVM už prekes ir paslaugas, už kurias jis pagal šio Įstatymo nuostatas privalėtų skaičiuoti ir mokėti PVM būdamas PVM mokėtoju. Mokėtina už patiektas prekes ir (arba) suteiktas paslaugas PVM suma apskaičiuojama pagal tokią formulę (kai taikoma šio Įstatymo 71 straipsnio 2 dalis, – už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo šio Įstatymo 71 straipsnio 2 dalyje nurodytos 155 000 litų sumos, PVM neskaičiuojamas, tačiau tuo atveju, kai nurodytoji riba viršijama, PVM privalo būti apskaičiuojamas už visas patiektas prekes ir (arba) suteiktas paslaugas, dėl kurių tiekimo (teikimo) nurodytoji riba buvo viršyta):“.
 
 
-2. Pakeisti 92 straipsnio 3 dalį ir ją išdėstyti taip: ^da53b7c771cad10bdcbe3ecb
+2. Pakeisti 92 straipsnio 3 dalį ir ją išdėstyti taip: ^s-ddc0fab6c0c7fbf032b0d727
 
 
-„3. Šio straipsnio 1 ir [[#^da53b7c771cad10bdcbe3ecb|2 dalyse]] nurodyti asmenys, taip pat kiti PVM mokėtojais neįsiregistravę užsienio apmokestinamieji asmenys, kurie šalies teritorijoje tiekia (teikia) PVM apmokestinamas prekes (paslaugas), išskyrus nurodytąsias šio Įstatymo 117 straipsnio 2 dalyje, už konkretų kalendorinį mėnesį mokėtiną į biudžetą (grąžintiną iš biudžeto) PVM sumą apskaičiuoja laikydamiesi šio Įstatymo 89 straipsnio nustatytos tvarkos, iki kito mėnesio 25 dienos pateikdami centrinio mokesčio administratoriaus nustatytos formos PVM mokėtoju neįregistruoto asmens PVM apyskaitą. Už konkretų kalendorinį mėnesį apskaičiuota mokėtina į biudžetą PVM suma į biudžetą turi būti sumokėta iki kito mėnesio 25 dienos.“
+„3. Šio straipsnio 1 ir [[#^s-ddc0fab6c0c7fbf032b0d727|2 dalyse]] nurodyti asmenys, taip pat kiti PVM mokėtojais neįsiregistravę užsienio apmokestinamieji asmenys, kurie šalies teritorijoje tiekia (teikia) PVM apmokestinamas prekes (paslaugas), išskyrus nurodytąsias šio Įstatymo 117 straipsnio 2 dalyje, už konkretų kalendorinį mėnesį mokėtiną į biudžetą (grąžintiną iš biudžeto) PVM sumą apskaičiuoja laikydamiesi šio Įstatymo 89 straipsnio nustatytos tvarkos, iki kito mėnesio 25 dienos pateikdami centrinio mokesčio administratoriaus nustatytos formos PVM mokėtoju neįregistruoto asmens PVM apyskaitą. Už konkretų kalendorinį mėnesį apskaičiuota mokėtina į biudžetą PVM suma į biudžetą turi būti sumokėta iki kito mėnesio 25 dienos.“
 
 
 
-### 25 straipsnis. Įstatymo 2 priedo papildymas 17 ir 18 punktais
+### 25 straipsnis. Įstatymo 2 priedo papildymas 17 ir 18 punktais ^s-381faa65a3fa044babc814b9
 
 
-1. Papildyti Įstatymo 2 priedą 17 punktu: ^077b96eec0dcdd9d30b71e3e
+1. Papildyti Įstatymo 2 priedą 17 punktu: ^s-a2e311807d2e33bdff40c37e
 
 
 „17. 2011 m. gegužės 30 d. Tarybos įgyvendinimo sprendimas 2011/335/ES, kuriuo leidžiama Lietuvos Respublikai taikyti priemonę, kuria nukrypstama nuo Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos 287 straipsnio (OL 2011 L 150, p. 6).“
 
 
-2. Papildyti Įstatymo 2 priedą 18 punktu: ^70ab5757a8caa909a877ba18
+2. Papildyti Įstatymo 2 priedą 18 punktu: ^s-9b728de126adc18ece87ffca
 
 
 „18. 2010 m. liepos 13 d. Tarybos direktyva 2010/45/ES, kuria iš dalies keičiamos Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos nuostatos dėl sąskaitų faktūrų išrašymo taisyklių (OL 2010 L 189, p. 1).“
 
 
 
-### 26 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 26 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-a66c8d75dbaba40db129cc0a
 
 
-1. Šio įstatymo 6, 8, [[#10 straipsnis. 53 straipsnio 8 dalies pakeitimas|10 straipsniai]], [[#^d0adcb07f678976d8d9b38b7|13 straipsnio 2 dalis]], [[#14 straipsnis. 66 straipsnio 2 dalies papildymas 3 punktu|14 straipsnis]], [[#^1a63d1634509ea92d076f20b|15 straipsnio 1 dalis]], [[#^efc3e2b7ebeac881a075935d|24 straipsnio 1 dalis]] ir [[#^077b96eec0dcdd9d30b71e3e|25 straipsnio 1 dalis]] įsigalioja 2012 m. sausio 1 d. ^a3d4baa51150efd7e7dd39c4
+1. Šio įstatymo 6, 8, [[#^s-bdd5462b7c93032f6575739f|10 straipsniai]], [[#^s-efc9edba003063529436c327|13 straipsnio 2 dalis]], [[#^s-19a1b0a0eb47e6b7e35a3160|14 straipsnis]], [[#^s-dd8827cd47f6fdcd74ebf53e|15 straipsnio 1 dalis]], [[#^s-52e5360e1e9762cfe4f928de|24 straipsnio 1 dalis]] ir [[#^s-a2e311807d2e33bdff40c37e|25 straipsnio 1 dalis]] įsigalioja 2012 m. sausio 1 d. ^s-a9965d71d68073f15abc5605
 
 
-2. Šio įstatymo 1, 2, 11, [[#12 straipsnis. Įstatymo papildymas 631 straipsniu|12 straipsniai]], [[#^cba0a03abcb04273439b7f65|13 straipsnio 1 dalis]], [[#^36544b0bf567a42306685746|15 straipsnio 2 dalis]], 17–[[#22 straipsnis. 83 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi|22 straipsniai]], [[#^da53b7c771cad10bdcbe3ecb|24 straipsnio 2 dalis]] ir [[#^70ab5757a8caa909a877ba18|25 straipsnio 2 dalis]] įsigalioja 2013 m. sausio 1 d. ^86a81cc674e4bddb9d2b194d
+2. Šio įstatymo 1, 2, 11, [[#^s-73760795e28e286b08005f2a|12 straipsniai]], [[#^s-412d993c356a40644dd7cd4b|13 straipsnio 1 dalis]], [[#^s-09b1cba017d99f3f756be4d8|15 straipsnio 2 dalis]], 17–[[#^s-5e5df2f0efe6d31aa6d7719b|22 straipsniai]], [[#^s-ddc0fab6c0c7fbf032b0d727|24 straipsnio 2 dalis]] ir [[#^s-9b728de126adc18ece87ffca|25 straipsnio 2 dalis]] įsigalioja 2013 m. sausio 1 d. ^s-0bb6d30c6ef393cb074273d2
 
 
-3. Šio įstatymo [[#23 straipsnis. Įstatymo papildymas 891 straipsniu|23 straipsnyje]] išdėstytos Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 891 straipsnio nuostatos taikomos pardavimo PVM sumoms, apskaičiuotoms ir deklaruotoms Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo nustatyta tvarka nuo 2012 m. sausio 1 d. ^8a4c505d896bda19aa3b295c
+3. Šio įstatymo [[#^s-b6a255ab8ed9f8beb5d6c9f0|23 straipsnyje]] išdėstytos [[latest/TAR.ED68997709F5#^s-8f8b7c8f1050c35eb0d2a709|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 891 straipsnio]] nuostatos taikomos pardavimo PVM sumoms, apskaičiuotoms ir deklaruotoms [[latest/TAR.ED68997709F5|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo]] nustatyta tvarka nuo 2012 m. sausio 1 d. ^s-34d2ac01457e603cec95ae80
 
 
-4. Šio įstatymo [[#^3b0f2ccbcf1f029b434b7fe2|3 straipsnio 1 dalyje]] išdėstytos Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto nuostatos taikomos iki 2012 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms. ^1f00bc4a3079f4e3c21b7031
+4. Šio įstatymo [[#^s-d91a3585b25f281685958925|3 straipsnio 1 dalyje]] išdėstytos [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto]] nuostatos taikomos iki 2012 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms. ^s-8bde36f27a169cbc5584ea64
 
 
-5. Šiuo įstatymu išdėstytoje Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 36 straipsnio 4 dalyje ir 47 straipsnio 8 dalyje nustatytos lengvatos taip pat taikomos prekėms, kurias ne vėliau kaip per vienus metus nuo šio įstatymo 6 ir [[#8 straipsnis. 47 straipsnio papildymas ir pakeitimas|8 straipsnių]] įsigaliojimo dienos įsigyja (importuoja) nustatytas lengvatos taikymo sąlygas atitinkantys Europos Sąjungos įsteigtų Lietuvos Respublikoje įstaigų darbuotojai, šio įstatymo 6 ir [[#8 straipsnis. 47 straipsnio papildymas ir pakeitimas|8 straipsnių]] įsigaliojimo metu jau dirbantys nurodytose įstaigose. ^0dc63709df3dd67d23e5405e
+5. Šiuo įstatymu išdėstytoje [[latest/TAR.ED68997709F5#^s-18a3f3de778b15a17fb2ad8a|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 36 straipsnio 4 dalyje]] ir 47 straipsnio 8 dalyje nustatytos lengvatos taip pat taikomos prekėms, kurias ne vėliau kaip per vienus metus nuo šio įstatymo 6 ir [[#^s-068c0cb0f5f2afef8b51dd6f|8 straipsnių]] įsigaliojimo dienos įsigyja (importuoja) nustatytas lengvatos taikymo sąlygas atitinkantys Europos Sąjungos įsteigtų Lietuvos Respublikoje įstaigų darbuotojai, šio įstatymo 6 ir [[#^s-068c0cb0f5f2afef8b51dd6f|8 straipsnių]] įsigaliojimo metu jau dirbantys nurodytose įstaigose. ^s-e4086bf99ac8a817615bfd7f
 
 
 
-### 27 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
+### 27 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai ^s-e22d691fc2e3f19c8a521ee4
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija priima šio įstatymo įgyvendinamuosius teisės aktus.

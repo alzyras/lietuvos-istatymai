@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.9E28E8E2F3F3.md",
   "latest_revision": "2002-01-01",
-  "latest_sha256": "da68c02d102ecb15110d9b9c8d8f2d3292b947d68e5979a3197b865913a54ed5",
+  "latest_sha256": "02f719a7b0ae9540c14e5b74c9ad63aad64267af9051b0b9d375cba404247467",
   "metadata_path": "latest/TAR.9E28E8E2F3F3.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos turto arešto aktų registro įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

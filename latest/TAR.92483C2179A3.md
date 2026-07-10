@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.92483C2179A3"
 pavadinimas: "Lietuvos Respublikos kelių transporto kodekso 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių transporto kodekso 16 straipsnio pakeitimo įstatymas"
+  - "kelių transporto kodekso 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-02"
 latest_path: "latest/TAR.92483C2179A3.md"
 latest_sha256: "f7df4e82e5ddac74fbc12608cd5d15153c8b44b562dfdb5d69210f769754302d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.92483C2179A3]]"
 ---
 # Lietuvos Respublikos kelių transporto kodekso 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.92483C2179A3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.92483C2179A3
+- Ryšiai: [[Ryšiai/TAR.92483C2179A3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas ^s-793e5876fe43a943b73a51c1
 
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:

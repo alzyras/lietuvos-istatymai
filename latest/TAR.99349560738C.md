@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.99349560738C"
 pavadinimas: "Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas"
+  - "socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-20"
 latest_path: "latest/TAR.99349560738C.md"
 latest_sha256: "0e3114bda68816b4eafbac376b21d5b046630200314356fd77885c7d2156b2a9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.99349560738C]]"
 ---
 # Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.99349560738C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.99349560738C
+- Ryšiai: [[Ryšiai/TAR.99349560738C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio pakeitimas
+### 1 straipsnis. 15 straipsnio pakeitimas ^s-25d0f56876890e5343ba8e5f
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -43,13 +48,13 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Įstatymo galiojimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus 16 straipsnį, įsigalioja 2010 m. sausio 1 d. ir galioja iki 2011 m. gruodžio 31 d. ^5e8284c06bf71428ee0110e2
+1. Šis įstatymas, išskyrus 16 straipsnį, įsigalioja 2010 m. sausio 1 d. ir galioja iki 2011 m. gruodžio 31 d. ^s-e3413cdc587e4ffd8c92c0cc
 
 
-2. Šio įstatymo 9 ir 10 straipsnių nuostatos netaikomos nuo 2011 m. liepos 1 d. naujai skiriamoms socialinio draudimo pašalpoms ir iš valstybės biudžeto mokamoms motinystės (tėvystės) išmokoms. ^ecf7d0256b8877e77fee135c
+2. Šio įstatymo 9 ir 10 straipsnių nuostatos netaikomos nuo 2011 m. liepos 1 d. naujai skiriamoms socialinio draudimo pašalpoms ir iš valstybės biudžeto mokamoms motinystės (tėvystės) išmokoms. ^s-6aadd60ed9ccd26e396db189
 
 
-3. Pagal šio įstatymo nuostatas iki 2011 m. liepos 1 d. apskaičiuotos socialinio draudimo pašalpos ir iš valstybės biudžeto mokamos motinystės (tėvystės) išmokos mokamos iki jų mokėjimo termino pabaigos.“ ^0aac56a43872bf5f5f1c33cc
+3. Pagal šio įstatymo nuostatas iki 2011 m. liepos 1 d. apskaičiuotos socialinio draudimo pašalpos ir iš valstybės biudžeto mokamos motinystės (tėvystės) išmokos mokamos iki jų mokėjimo termino pabaigos.“ ^s-50f9e477a908739b76bfb12f
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2184FD507E7E"
 pavadinimas: "Lietuvos Respublikos 2011 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2011 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2011 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-28"
 latest_path: "latest/TAR.2184FD507E7E.md"
 latest_sha256: "3470e7f16307b4da848029bc663cbcb7610d419e95d99dcd2de6b199fc5337d3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2184FD507E7E]]"
 ---
 # Lietuvos Respublikos 2011 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2184FD507E7E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2184FD507E7E
+- Ryšiai: [[Ryšiai/TAR.2184FD507E7E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos 2011 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. Lietuvos Respublikos 2011 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-3d640be09f7f93c4e6840df9
 
 
 Patvirtinti Lietuvos Respublikos 2011 metų Privalomojo sveikatos draudimo fondo biudžetą – 4 168 578 tūkst. litų pajamų ir 4 168 578 tūkst. litų išlaidų, iš jo – 20 000 tūkst. litų kasos apyvartos lėšų (priedėlis).

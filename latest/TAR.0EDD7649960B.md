@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0EDD7649960B"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 9 ir 44 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 9 ir 44 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 9 ir 44 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.0EDD7649960B.md"
 latest_sha256: "d16fe6a290d7a7223dc92613954dba4a642cf8a8cf056a6a977a110cdcbfa30e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0EDD7649960B]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 9 ir 44 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0EDD7649960B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B
+- Ryšiai: [[Ryšiai/TAR.0EDD7649960B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 3 dalies 1 punkto pakeitimas
+### 1 straipsnis. 9 straipsnio 3 dalies 1 punkto pakeitimas ^s-dc4a9b34cc9a9503e31f0b53
 
 
 9 straipsnio 3 dalies 1 punkte po žodžio „sunkaus“ įrašyti žodžius „ar labai sunkaus“, vietoj žodžių „ar nusikaltimo valstybės tarnybai“ įrašyti žodžius „nusikalstamos veikos valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamos veikos“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 44 straipsnio 1 dalies 16 punkto pakeitimas
+### 2 straipsnis. 44 straipsnio 1 dalies 16 punkto pakeitimas ^s-a3cec73d5f7f49098edcdaf2
 
 
 44 straipsnio 1 dalies 16 punkte po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“, vietoj žodžių „ar nusikaltimą valstybės tarnybai“ įrašyti žodžius „nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką“ ir šį punktą išdėstyti taip:
@@ -51,10 +56,10 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-b1c6acd490fe114deea3f3c0
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

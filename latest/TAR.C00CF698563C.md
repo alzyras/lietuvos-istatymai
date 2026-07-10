@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C00CF698563C"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 22 straipsnio pakeitimo ir VI dalies pripažinimo netekusia galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 22 straipsnio pakeitimo ir VI dalies pripažinimo netekusia galios įstatymas"
+  - "sveikatos sistemos įstatymo 22 straipsnio pakeitimo ir VI dalies pripažinimo netekusia galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-24"
 latest_path: "latest/TAR.C00CF698563C.md"
 latest_sha256: "46a1726243bffb761a7708fc8b7fc5709fe97ab38acb81454d71f6f63f4cfc92"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C00CF698563C]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 22 straipsnio pakeitimo ir VI dalies pripažinimo netekusia galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C00CF698563C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C00CF698563C
+- Ryšiai: [[Ryšiai/TAR.C00CF698563C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio pakeitimas
+### 1 straipsnis. 22 straipsnio pakeitimas ^s-d641e498b63cdfc098e690e3
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -40,14 +45,14 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 „22 straipsnis. Žmogaus audinių, ląstelių ir organų panaudojimo ribojimas
 
 
-1. Gyvo ar mirusio žmogaus audiniai, ląstelės ir organai negali būti civilinių komercinių sandorių objektas. ^9df8006406e18cac5fcf8409
+1. Gyvo ar mirusio žmogaus audiniai, ląstelės ir organai negali būti civilinių komercinių sandorių objektas. ^s-eb0731ecec95f9b2015657c8
 
 
-2. Žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos sąlygas bei tvarką nustato Žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymas.“ ^a7385c87b46c180e5194cbc1
+2. Žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos sąlygas bei tvarką nustato Žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymas.“ ^s-d71d3464e29208771c35d83e
 
 
 
-### 2 straipsnis. VI dalies pripažinimas netekusia galios
+### 2 straipsnis. VI dalies pripažinimas netekusia galios ^s-4904be1e84ab64c402e63fcf
 
 
 VI dalį pripažinti netekusia galios.

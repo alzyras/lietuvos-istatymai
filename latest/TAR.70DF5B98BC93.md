@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.70DF5B98BC93"
 pavadinimas: "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-03"
 latest_path: "latest/TAR.70DF5B98BC93.md"
 latest_sha256: "62d58d72f590188a2f3839b589920bc9058b4f0bdd1e619d809aeab7f9ad300a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.70DF5B98BC93]]"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.70DF5B98BC93.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.70DF5B98BC93
+- Ryšiai: [[Ryšiai/TAR.70DF5B98BC93|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,20 +40,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 24 straipsnio 4 dalies 2 ir 3 punktų pakeitimas
+### 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 24 straipsnio 4 dalies 2 ir 3 punktų pakeitimas ^s-b483858ee8b7542947253031
 
 
-Pakeisti 24 straipsnio 4 dalies 2 ir [[#^38855066a90aefd720b46471|3 punktus]] ir juos išdėstyti taip:
+Pakeisti 24 straipsnio 4 dalies 2 ir [[#^s-b5157d8caa5a591633b2d866|3 punktus]] ir juos išdėstyti taip:
 
 
 „2) jeigu tai susiję su traukinio mašinistu, kuriam traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos valstybės narės kompetentinga institucija, eismo saugos institucija kreipiasi į tą instituciją su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą. Eismo saugos institucija apie savo prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą nedelsdama informuoja Europos Komisiją ir kitas Europos Sąjungos valstybių narių suinteresuotas kompetentingas institucijas. Tuo atveju, kai prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna eismo saugos institucija, šį prašymą ji išnagrinėja per keturias savaites nuo prašymo gavimo dienos ir apie savo sprendimą informuoja prašymą pateikusią kompetentingą instituciją, Europos Komisiją ir kitas suinteresuotas Europos Sąjungos valstybių narių kompetentingas institucijas. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas susijusios kompetentingos institucijos, į kurią buvo kreiptasi su prašymu, atsakymas; tuo atveju, kai eismo saugos institucija mano, kad kitos Europos Sąjungos valstybės narės kompetentingos institucijos sprendimas yra nepagrįstas, šis klausimas perduodamas svarstyti Europos Komisijai;
 
 
-3) jeigu tai susiję su traukinio mašinisto sertifikatu, eismo saugos institucija kreipiasi į šį dokumentą išdavusį asmenį su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto sertifikato galiojimą. Prašymą gavęs Lietuvos Respublikoje įregistruotas asmuo privalo nedelsdamas imtis priemonių, per keturias savaites nuo prašymo gavimo dienos jį išnagrinėti ir apie savo sprendimą informuoti eismo saugos instituciją. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas atsakymas, ir turi apie tai informuoti Europos Komisiją ir kitas susijusias kompetentingas institucijas.“ ^38855066a90aefd720b46471
+3) jeigu tai susiję su traukinio mašinisto sertifikatu, eismo saugos institucija kreipiasi į šį dokumentą išdavusį asmenį su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto sertifikato galiojimą. Prašymą gavęs Lietuvos Respublikoje įregistruotas asmuo privalo nedelsdamas imtis priemonių, per keturias savaites nuo prašymo gavimo dienos jį išnagrinėti ir apie savo sprendimą informuoti eismo saugos instituciją. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas atsakymas, ir turi apie tai informuoti Europos Komisiją ir kitas susijusias kompetentingas institucijas.“ ^s-b5157d8caa5a591633b2d866
 
 
 
-### 2 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 25 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 25 straipsnio 2 dalies pakeitimas ^s-bdf4dc642140f0d1f94ec791
 
 
 Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:

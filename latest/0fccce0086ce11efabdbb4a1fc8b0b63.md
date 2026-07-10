@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "0fccce0086ce11efabdbb4a1fc8b0b63"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos denonsavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos denonsavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos denonsavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2024-10-11"
 latest_path: "latest/0fccce0086ce11efabdbb4a1fc8b0b63.md"
 latest_sha256: "d1b4777ab1220b89502d46e53e0549977280d5170f9c12caf3f558771a94d858"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/0fccce0086ce11efabdbb4a1fc8b0b63]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos denonsavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/0fccce0086ce11efabdbb4a1fc8b0b63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/0fccce0086ce11efabdbb4a1fc8b0b63
+- Ryšiai: [[Ryšiai/0fccce0086ce11efabdbb4a1fc8b0b63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,10 +37,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties denonsavimas
+### 1 straipsnis. Sutarties denonsavimas ^s-7f5e3cf01083ccf83b97707f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2024 m. rugsėjo 16 d. dekretą Nr. 1K-69 „Dėl teikimo Lietuvos Respublikos Seimui denonsuoti Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, denonsuoja 1999 m. birželio 29 d. Maskvoje pasirašytą Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, ratifikuotą Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo įstatymu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2024 m. rugsėjo 16 d. dekretą Nr. 1K-69 „Dėl teikimo Lietuvos Respublikos Seimui denonsuoti Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, denonsuoja 1999 m. birželio 29 d. Maskvoje pasirašytą Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, ratifikuotą [[latest/TAR.01036CB0DBC1|Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo įstatymu]].
 
 
 

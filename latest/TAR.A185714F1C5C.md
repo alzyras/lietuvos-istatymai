@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A185714F1C5C"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.A185714F1C5C.md"
 latest_sha256: "d58788eeb4b456f9517f16441807a284b4f06ca1a5b21259f8e4c4b606d78a97"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A185714F1C5C]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A185714F1C5C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A185714F1C5C
+- Ryšiai: [[Ryšiai/TAR.A185714F1C5C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-6afc7c0b810005dd5ef6d09a
 
 
 1 straipsnio 3 dalyje po žodžių „kitų kredito įstaigų“ įrašyti žodžius „mokėjimo įstaigų“ ir šią dalį išdėstyti taip:

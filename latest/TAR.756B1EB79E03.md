@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.756B1EB79E03"
 pavadinimas: "Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5, 6, 7, 8 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5, 6, 7, 8 ir 12 straipsnių pakeitimo įstatymas"
+  - "etninės kultūros valstybinės globos pagrindų įstatymo 5, 6, 7, 8 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-25"
 latest_path: "latest/TAR.756B1EB79E03.md"
 latest_sha256: "5e584ccb28af597fcf830ea69667e8dda092b4fe0da4d673b82cf73bbe20d2da"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.756B1EB79E03]]"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5, 6, 7, 8 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.756B1EB79E03.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.756B1EB79E03
+- Ryšiai: [[Ryšiai/TAR.756B1EB79E03|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies 5 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies 5 punkto pakeitimas ^s-f6e19f0c4c8a4c996e5e1115
 
 
 5 straipsnio 1 dalies 5 punkte vietoj žodžių „vietos savivaldos“ įrašyti žodžius „savivaldybių“ ir šį punktą išdėstyti taip:
@@ -41,14 +46,14 @@ Vilnius
 
 
 
-### 2 straipsnis. 6 straipsnio 4 dalies pripažinimas netekusia galios
+### 2 straipsnis. 6 straipsnio 4 dalies pripažinimas netekusia galios ^s-2c13f121cfa252dd3f083929
 
 
 6 straipsnio 4 dalį pripažinti netekusia galios.
 
 
 
-### 3 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-dcf2e43944f35413dc98afb6
 
 
 7 straipsnio 1 dalyje vietoj žodžių „ar aprobuotų“ įrašyti žodžius „ir Vyriausybės patvirtintų“ ir šią dalį išdėstyti taip:
@@ -58,7 +63,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-f2f06933b5a263c0dc610c7b
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -68,7 +73,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 12 straipsnio pakeitimas
+### 5 straipsnis. 12 straipsnio pakeitimas ^s-3f6f6dfd4f730afcc4e060df
 
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:

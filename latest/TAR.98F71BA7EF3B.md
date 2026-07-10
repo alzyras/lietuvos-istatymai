@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.98F71BA7EF3B"
 pavadinimas: "Lietuvos Respublikos Bendrojo susitarimo dėl muitų tarifų ir prekybos (GATT 1947), Baigiamojo dokumento, išreiškiančio daugiašalių derybų dėl prekybos Urugvajaus raundo rezultatus, Sutarties dėl civilinės aviacijos orlaivių prekybos, Lietuvos prisijungimo prie Marakešo sutarties, įsteigiančios Pasaulio prekybos organizaciją, protokolo, Lietuvos Respublikos ir Jungtinių Meksikos Valstijų supratimo memorandumo dėl geografinių nuorodų apsaugos ir Darbo grupės dėl Lietuvos stojimo į Pasaulio prekybos organizaciją ataskaitos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Bendrojo susitarimo dėl muitų tarifų ir prekybos (GATT 1947), Baigiamojo dokumento, išreiškiančio daugiašalių derybų dėl prekybos Urugvajaus raundo rezultatus, Sutarties dėl civilinės aviacijos orlaivių prekybos, Lietuvos prisijungimo prie Marakešo sutarties, įsteigiančios Pasaulio prekybos organizaciją, protokolo, Lietuvos Respublikos ir Jungtinių Meksikos Valstijų supratimo memorandumo dėl geografinių nuorodų apsaugos ir Darbo grupės dėl Lietuvos stojimo į Pasaulio prekybos organizaciją ataskaitos ratifikavimo įstatymas"
+  - "Bendrojo susitarimo dėl muitų tarifų ir prekybos (GATT 1947), Baigiamojo dokumento, išreiškiančio daugiašalių derybų dėl prekybos Urugvajaus raundo rezultatus, Sutarties dėl civilinės aviacijos orlaivių prekybos, Lietuvos prisijungimo prie Marakešo sutarties, įsteigiančios Pasaulio prekybos organizaciją, protokolo, Lietuvos Respublikos ir Jungtinių Meksikos Valstijų supratimo memorandumo dėl geografinių nuorodų apsaugos ir Darbo grupės dėl Lietuvos stojimo į Pasaulio prekybos organizaciją ataskaitos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-31"
 latest_path: "latest/TAR.98F71BA7EF3B.md"
 latest_sha256: "e9f523b736d4d553476a6d347cc230120ff008c3c00aaf2774d8ac9596ff0746"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.98F71BA7EF3B]]"
 ---
 # Lietuvos Respublikos Bendrojo susitarimo dėl muitų tarifų ir prekybos (GATT 1947), Baigiamojo dokumento, išreiškiančio daugiašalių derybų dėl prekybos Urugvajaus raundo rezultatus, Sutarties dėl civilinės aviacijos orlaivių prekybos, Lietuvos prisijungimo prie Marakešo sutarties, įsteigiančios Pasaulio prekybos organizaciją, protokolo, Lietuvos Respublikos ir Jungtinių Meksikos Valstijų supratimo memorandumo dėl geografinių nuorodų apsaugos ir Darbo grupės dėl Lietuvos stojimo į Pasaulio prekybos organizaciją ataskaitos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.98F71BA7EF3B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.98F71BA7EF3B
+- Ryšiai: [[Ryšiai/TAR.98F71BA7EF3B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Dokumentų ratifikavimas
+### 1 straipsnis. Dokumentų ratifikavimas ^s-0ec7e36375dea9f37a994a5d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 23 d. dekretą Nr. 1252, ratifikuoja Bendrąjį susitarimą dėl muitų tarifų ir prekybos (GATT 1947), sudarytą 1947 m. spalio 30 d. Ženevoje, Baigiamąjį dokumentą, išreiškiantį daugiašalių derybų dėl prekybos Urugvajaus raundo rezultatus, sudarytą 1994 m. balandžio 15 d. Marakeše, Sutartį dėl civilinės aviacijos orlaivių prekybos, sudarytą 1979 m. balandžio 12 d. Ženevoje, Lietuvos prisijungimo prie Marakešo sutarties, įsteigiančios Pasaulio prekybos organizaciją, protokolą, pasirašytą 2000 m. gruodžio 8 d. Ženevoje, Lietuvos Respublikos ir Jungtinių Meksikos Valstijų supratimo memorandumą dėl geografinių nuorodų apsaugos, pasirašytą 1999 m. spalio 14 d. Ženevoje, ir Darbo grupės dėl Lietuvos stojimo į Pasaulio prekybos organizaciją ataskaitą, sudarytą 2000 m. lapkričio 7 d. Ženevoje.

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E2C4AFA7F58C"
 pavadinimas: "Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
+aliases:
+  - "Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-12-31"
 latest_path: "latest/TAR.E2C4AFA7F58C.md"
 latest_sha256: "d1d1ed1b77d3b9f964ec542170880ab1c8e690479afe72887d9b659c2981640d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E2C4AFA7F58C]]"
 ---
 # Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E2C4AFA7F58C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E2C4AFA7F58C
+- Ryšiai: [[Ryšiai/TAR.E2C4AFA7F58C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,42 +33,42 @@ Vilnius
 
 
 
-### 1 straipsnis.
+### 1 straipsnis. ^s-ef4a7c775be4ce2cbc9d6a3c
 
 
 Patvirtinti Lietuvos Respublikos 1994 metų valstybės biudžetą: 2782322 tūkst. litų pajamų, 2945855 tūkst. litų išlaidų (išlaidos viršija pajamas 163533 tūkst. litų) ir 40000 tūkst. litų kasos apyvartos lėšų (1 priedėlis).
 
 
 
-### 2 straipsnis.
+### 2 straipsnis. ^s-3365c9a32cba2cd4ae1783d7
 
 
 Nustatyti 1994 metams fizinių asmenų pajamų mokesčio ir pridėtosios vertės mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (2 priedėlis).
 
 
 
-### 3 straipsnis.
+### 3 straipsnis. ^s-2c24f01b318a568e301b3e4b
 
 
 Nustatyti asignavimus iš savivaldybių biudžetų melioracijai ir gamtosaugos objektams finansuoti (3 priedėlis).
 
 
 
-### 4 straipsnis.
+### 4 straipsnis. ^s-7052d07a62b796b4288440ba
 
 
 Lietuvos Respublikos Vyriausybė, vykdydama 1994 metų valstybės biudžetą ir atsižvelgdama į Lietuvos Respublikos Seimo frakcijų bei komitetų pasiūlymus, papildomai gautas lėšas pagal galimybes skiria žemės ūkiui, socialiniams reikalams bei kitiems poreikiams, o jei laikinai nevykdomi nustatytų valstybės biudžeto pajamų planai, nemažina valstybės biudžeto išlaidų darbo užmokesčiui, pašalpoms, pensijoms ir stipendijoms.
 
 
 
-### 5 straipsnis.
+### 5 straipsnis. ^s-1ba0d430c4b6a0f9cb15f73c
 
 
 Suteikti Lietuvos Respublikos Vyriausybei teisę, didinant darbo užmokestį biudžetinių įstaigų darbuotojams, tikslinti šio įstatymo 1 priedėlyje patvirtintus darbo užmokesčio asignavimus.
 
 
 
-### 6 straipsnis.
+### 6 straipsnis. ^s-334a70e20021fa31a5e30240
 
 
 Suteikti rajonų taryboms teisę perskirstyti pagal poreikius aukštesniosios ir žemesniosios pakopos savivaldybių biudžetams žemės ir žemės nuomos mokesčio įplaukas.

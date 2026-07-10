@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2AA95F3D6F7D"
 pavadinimas: "Lietuvos Respublikos 2005 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2005 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+  - "2005 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-12"
 latest_path: "latest/TAR.2AA95F3D6F7D.md"
 latest_sha256: "d1f091a8c413fc1ee8b7ffde8ebc1a014a63839f8e3b4cc74a51e29f95f61b1c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2AA95F3D6F7D]]"
 ---
 # Lietuvos Respublikos 2005 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2AA95F3D6F7D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2AA95F3D6F7D
+- Ryšiai: [[Ryšiai/TAR.2AA95F3D6F7D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-9710c289e5a98f1c3c3e1a4f
 
 
 1 straipsnyje vietoj skaičių „13850340“, „15659940“ įrašyti skaičius „13859660“, „15669260“ ir šį straipsnį išdėstyti taip:
@@ -42,23 +47,23 @@ Patvirtinti Lietuvos Respublikos 2005 metų valstybės biudžetą – 13859660 t
 
 
 
-### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
+### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas ^s-516fc94302236c272fc7998a
 
 
-1. [[#^f5c9367fc9bee67c19a96759|2 straipsnio 2 dalyje]] vietoj skaičių „2238741“ ir „45250“ įrašyti skaičius „2179480“ ir „68671“, po žodžio „įrengti“ įrašyti žodžius „Kauno miesto savivaldybės biudžetui – 300 tūkst. litų Lietuvos jėzuitų provincijos pastatų avarinei būklei likviduoti, Panevėžio miesto savivaldybės biudžetui – 200 tūkst. litų Vytauto Žemkalnio gimnazijos stogui ir patalpoms remontuoti ir 183 tūkst. litų Panevėžio muzikos mokyklos langams pakeisti, Kaišiadorių rajono savivaldybės biudžetui – 220 tūkst. litų Vilkyškių kaimo tvenkinio sutvarkymo projektui parengti ir pylimo atstatymo darbams, Kėdainių rajono savivaldybės biudžetui – 1550 tūkst. litų darželių ir mokyklų langams pakeisti, Skuodo rajono savivaldybės biudžetui – 500 tūkst. litų Skuodo bendruomenės higienos ir sveikatingumo centrui, Šiaulių rajono savivaldybės biudžetui – 220 tūkst. litų Šilėnų pagrindinės mokyklos langams pakeisti“ ir šią dalį išdėstyti taip: ^a8ece4c67b64bf2d2c65ab34
+1. [[#^s-8e7167180e33e3e7f8baf9de|2 straipsnio 2 dalyje]] vietoj skaičių „2238741“ ir „45250“ įrašyti skaičius „2179480“ ir „68671“, po žodžio „įrengti“ įrašyti žodžius „Kauno miesto savivaldybės biudžetui – 300 tūkst. litų Lietuvos jėzuitų provincijos pastatų avarinei būklei likviduoti, Panevėžio miesto savivaldybės biudžetui – 200 tūkst. litų Vytauto Žemkalnio gimnazijos stogui ir patalpoms remontuoti ir 183 tūkst. litų Panevėžio muzikos mokyklos langams pakeisti, Kaišiadorių rajono savivaldybės biudžetui – 220 tūkst. litų Vilkyškių kaimo tvenkinio sutvarkymo projektui parengti ir pylimo atstatymo darbams, Kėdainių rajono savivaldybės biudžetui – 1550 tūkst. litų darželių ir mokyklų langams pakeisti, Skuodo rajono savivaldybės biudžetui – 500 tūkst. litų Skuodo bendruomenės higienos ir sveikatingumo centrui, Šiaulių rajono savivaldybės biudžetui – 220 tūkst. litų Šilėnų pagrindinės mokyklos langams pakeisti“ ir šią dalį išdėstyti taip: ^s-e79622d1bc53ce87ca79b55f
 
 
 „2. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialias tikslines dotacijas – 2179480 tūkst. litų ir valstybės biudžeto bendrosios dotacijos kompensacijas –68671 tūkst. litų (4 priedėlis), taip pat specialią tikslinę dotaciją Klaipėdos miesto savivaldybės biudžetui – 1000 tūkst. litų gyventojams iškeldinti iš miesto plėtrai skirtos teritorijos, Biržų rajono savivaldybės biudžetui – 680 tūkst. litų dujotiekio trasai įrengti, Kauno miesto savivaldybės biudžetui – 300 tūkst. litų Lietuvos jėzuitų provincijos pastatų avarinei būklei likviduoti, Panevėžio miesto savivaldybės biudžetui – 200 tūkst. litų Vytauto Žemkalnio gimnazijos stogui ir patalpoms remontuoti ir 183 tūkst. litų Panevėžio muzikos mokyklos langams pakeisti, Kaišiadorių rajono savivaldybės biudžetui – 220 tūkst. litų Vilkyškių kaimo tvenkinio sutvarkymo projektui parengti ir pylimo atstatymo darbams, Kėdainių rajono savivaldybės biudžetui – 1550 tūkst. litų darželių ir mokyklų langams pakeisti, Skuodo rajono savivaldybės biudžetui – 500 tūkst. litų Skuodo bendruomenės higienos ir sveikatingumo centrui, Šiaulių rajono savivaldybės biudžetui – 220 tūkst. litų Šilėnų pagrindinės mokyklos langams pakeisti.“
 
 
-2. 2 straipsnio 3 dalyje vietoj skaičiaus „32505“ įrašyti skaičių „41511“ ir šią dalį išdėstyti taip: ^f5c9367fc9bee67c19a96759
+2. 2 straipsnio 3 dalyje vietoj skaičiaus „32505“ įrašyti skaičių „41511“ ir šią dalį išdėstyti taip: ^s-8e7167180e33e3e7f8baf9de
 
 
 „3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 41511 tūkst. litų. Jas savivaldybės perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (5 priedėlis).“
 
 
 
-### 3 straipsnis. 5 straipsnio 3 dalies papildymas 3 punktu
+### 3 straipsnis. 5 straipsnio 3 dalies papildymas 3 punktu ^s-bef8d2be590399868a42b790
 
 
 Papildyti 5 straipsnio 3 dalį 3 punktu:
@@ -68,20 +73,20 @@ Papildyti 5 straipsnio 3 dalį 3 punktu:
 
 
 
-### 4 straipsnis. 6 straipsnio pakeitimas
+### 4 straipsnis. 6 straipsnio pakeitimas ^s-4bed9482cc72c7dd5192b3d5
 
 
-Pakeisti [[#6 straipsnis. 13 straipsnio 4 ir 6 punktų pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-222e3c7c9391bf91a11913b0|6 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#6 straipsnis. 13 straipsnio 4 ir 6 punktų pakeitimas|6 straipsnis]]. Specialios tikslinės dotacijos mokinio krepšeliui finansuoti naudojimas
+„[[#^s-222e3c7c9391bf91a11913b0|6 straipsnis]]. Specialios tikslinės dotacijos mokinio krepšeliui finansuoti naudojimas
 
 
 Nustatyti, kad įvykdžius bendruosius ugdymo planus bei visiškai patenkinus mokinio krepšelio poreikį, likusi nepanaudota suma nuo liepos 1 d. (mokslo metų pabaiga) bei nuo kitų mokslo metų gruodžio 1 d. gali būti perskirstyta kitoms švietimo reikmėms finansuoti.“
 
 
 
-### 5 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-495f8ec6a98a08493b431908
 
 
 9 straipsnio 1 dalyje vietoj skaičiaus „727871“ įrašyti skaičių „727285“ ir šią dalį išdėstyti taip:
@@ -91,23 +96,23 @@ Nustatyti, kad įvykdžius bendruosius ugdymo planus bei visiškai patenkinus mo
 
 
 
-### 6 straipsnis. 13 straipsnio 4 ir 6 punktų pakeitimas
+### 6 straipsnis. 13 straipsnio 4 ir 6 punktų pakeitimas ^s-222e3c7c9391bf91a11913b0
 
 
-1. 13 straipsnio 4 punkte po žodžio „subalansuoti“ įrašyti žodžius „tiesioginėms išmokoms Lietuvos žemės ūkio veiklos subjektams mokėti, turtinei ir neturtinei žalai, priteistai iš Lietuvos valstybės vykdant arbitražų ar teismų sprendimus, atlyginti“ ir šį punktą išdėstyti taip: ^c602aef18b12d28a6ce1cba8
+1. 13 straipsnio 4 punkte po žodžio „subalansuoti“ įrašyti žodžius „tiesioginėms išmokoms Lietuvos žemės ūkio veiklos subjektams mokėti, turtinei ir neturtinei žalai, priteistai iš Lietuvos valstybės vykdant arbitražų ar teismų sprendimus, atlyginti“ ir šį punktą išdėstyti taip: ^s-421a4a6aa36033c1e133c6a0
 
 
 „4) laikantis Vyriausybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, valstybės fondų skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti, tiesioginėms išmokoms Lietuvos žemės ūkio veiklos subjektams mokėti, turtinei ir neturtinei žalai, priteistai iš Lietuvos valstybės vykdant arbitražų ar teismų sprendimus, atlyginti ir kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas;“.
 
 
-2. 13 straipsnio 6 punkte po žodžių „bendrai finansuojamoms programoms ir projektams“ įrašyti žodžius „(įskaitant Pasirengimo pereiti prie Europos Sąjungos cukraus režimo programai)“ ir šį punktą išdėstyti taip: ^58c16c08a4c4a4dc7f75f097
+2. 13 straipsnio 6 punkte po žodžių „bendrai finansuojamoms programoms ir projektams“ įrašyti žodžius „(įskaitant Pasirengimo pereiti prie Europos Sąjungos cukraus režimo programai)“ ir šį punktą išdėstyti taip: ^s-4c67f49724c5b60d1e1fe2d4
 
 
 „6) perskirstyti tarp asignavimų valdytojų, investavimo sričių ir ekonominės klasifikacijos straipsnių Europos Sąjungos paramos ir bendrojo finansavimo programoms bei projektams skirtas lėšas, taip pat lėšas minėtų programų ir projektų pridėtinės vertės mokesčiui mokėti. Leisti Europos Sąjungos paramos bendrai finansuojamoms programoms ir projektams (įskaitant Pasirengimo pereiti prie Europos Sąjungos cukraus režimo programai) skirtų lėšų nepanaudotus (palyginti su planu) 2004 metų pabaigos likučius naudoti bendrai finansuojamiems projektams kaip specialiųjų programų nepanaudotas lėšas;“.
 
 
 
-### 7 straipsnis. 14 straipsnio papildymas 3 dalimi
+### 7 straipsnis. 14 straipsnio papildymas 3 dalimi ^s-d9eb4582dc1cf1fd64c0ab78
 
 
 Papildyti 14 straipsnį 3 dalimi:
@@ -117,7 +122,7 @@ Papildyti 14 straipsnį 3 dalimi:
 
 
 
-### 8 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-0ddb306cc1ac78c7efbeece5
 
 
 Pakeisti Įstatymo 1 priedėlį ir jį išdėstyti taip:
@@ -479,7 +484,7 @@ ASIGNAVIMAI
 
 
 
-## I. MINISTERIJOS
+## I. MINISTERIJOS ^s-341792a8b14d221068f6cf4c
 
 
 
@@ -591,7 +596,7 @@ ASIGNAVIMAI
  8846
 
 
-## II. APSKRITYS
+## II. APSKRITYS ^s-efbd12234a90f4e5a35fc51d
 
 
 
@@ -756,7 +761,7 @@ ASIGNAVIMAI
  0
 
 
-## III. VYRIAUSYBĖS ĮSTAIGOS IR KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS
+## III. VYRIAUSYBĖS ĮSTAIGOS IR KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS ^s-1b0365503d49c67ec564e5d2
 
 
 
@@ -911,7 +916,7 @@ ASIGNAVIMAI
 
 
 
-## IV. ĮSTAIGOS PRIE MINISTERIJŲ
+## IV. ĮSTAIGOS PRIE MINISTERIJŲ ^s-069515494fe3500041e9a2b7
 
 
 
@@ -1366,7 +1371,7 @@ ASIGNAVIMAI
  8501
 
 
-## V. TEISĖSAUGOS VALDŽIOS INSTITUCIJOS
+## V. TEISĖSAUGOS VALDŽIOS INSTITUCIJOS ^s-81421c56fdae56872f0b2377
 
 
 
@@ -1415,7 +1420,7 @@ ASIGNAVIMAI
 
 
 
-## VI. ŠVIETIMO, KULTŪROS IR KITOS ĮSTAIGOS BEI ORGANIZACIJOS
+## VI. ŠVIETIMO, KULTŪROS IR KITOS ĮSTAIGOS BEI ORGANIZACIJOS ^s-6ff1fdf181d242c451a5b75b
 
 
 
@@ -1958,7 +1963,7 @@ Pastaba: 260 mln. Lt bendrojo finansavimo lėšų ir PVM Europos Sąjungos lėš
 
 
 
-### 9 straipsnis. Įstatymo 2 priedėlio pakeitimas ir papildymas
+### 9 straipsnis. Įstatymo 2 priedėlio pakeitimas ir papildymas ^s-b29fb5bf7a5c86ad8a6d4ee1
 
 
 Įstatymo 2 priedėlio eilutėje „Žemės ūkio ministerija“ vietoj skaičiaus „8940“ įrašyti skaičių „8990“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičiaus „3348“ įrašyti skaičių „3350“, eilutėje „Panevėžio apskrities viršininko administracija“ vietoj skaičiaus „1954“ įrašyti skaičių „1959“, eilutėje „Telšių apskrities viršininko administracija“ vietoj skaičiaus „1125“ įrašyti skaičių „1145“, vietoj eilutės „Kultūros ministerijos Kultūros vertybių apsaugos departamentas 80“ įrašyti eilutę „Kultūros paveldo departamentas prie Kultūros ministerijos 80“, eilutėje „Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos“ vietoj skaičiaus „14533“ įrašyti skaičių „13849“, po eilutės „Lietuvos vyriausiasis administracinis teismas 50“ įrašyti eilutes „Vilniaus miesto 1 apylinkės teismas 5“ ir „Kauno miesto apylinkės teismas 3“, po eilutės „Klaipėdos miesto apylinkės teismas 10“ įrašyti eilutes „Marijampolės rajono apylinkės teismas 1“, „Vilniaus rajono apylinkės teismas 4“ ir „Vilniaus apygardos administracinis teismas 8“, eilutėje „Iš viso:“ vietoj skaičiaus „727871“ įrašyti skaičių „727285“, žvaigždute pažymėtoje išnašoje „*Iš šių lėšų 30000 tūkst. litų skirti bendroms biudžeto reikmėms“ vietoj skaičiaus „30000“ įrašyti skaičių „69800“ ir šias eilutes bei išnašą išdėstyti taip:
@@ -2016,7 +2021,7 @@ Pastaba: 260 mln. Lt bendrojo finansavimo lėšų ir PVM Europos Sąjungos lėš
 
 
 
-### 10 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 10 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-d31c0bb93b2ea641f37f5522
 
 
 Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
@@ -2506,7 +2511,7 @@ LIETUVOS RESPUBLIKOS 2005 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI TEISMAMS
 
 
 
-### 11 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-12d4e54ce1e42fe9d00e84f9
 
 
 Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
@@ -4221,7 +4226,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-### 12 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 12 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-13075f33afe15cd4dd630a52
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -4560,7 +4565,7 @@ Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
 
 
 
-### 13 straipsnis. Įstatymo 7 priedėlio pakeitimas
+### 13 straipsnis. Įstatymo 7 priedėlio pakeitimas ^s-2b64555719d50b51b7a91a69
 
 
 Pakeisti Įstatymo 7 priedėlį ir jį išdėstyti taip:
@@ -4744,7 +4749,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
 
-### 14 straipsnis. Įstatymo 8 priedėlio pakeitimas
+### 14 straipsnis. Įstatymo 8 priedėlio pakeitimas ^s-5aee6ad3cd7b1a051928a58e
 
 
 Įstatymo 8 priedėlio eilutėje „1. Lėšų likutis Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo sąskaitoje 2005 m. sausio 1 d.“ vietoj skaičiaus „201544“ įrašyti skaičių „228368“, eilutėje „3. Išlaidos:“ vietoj skaičiaus „42016“ įrašyti skaičių „59016“, eilutėje „3.5. Kitoms valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo programos priemonėms vykdyti“ vietoj skaičiaus „5545“ įrašyti skaičių „7545“, eilutėje „3.6. Nenumatytos išlaidos, susijusios su valstybės įmonės Ignalinos atominės elektrinės I bloko sustabdymu“ vietoj skaičiaus „10000“ įrašyti skaičių „23000“, eilutėje „4. Numatomas lėšų likutis Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fonde 2006 m. sausio 1 d.“ vietoj skaičiaus „181528“ įrašyti skaičių „193352“ ir šias eilutes išdėstyti taip:
@@ -4762,11 +4767,11 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
  7545
 
 
- 3.6. Nenumatytos išlaidos, susijusios su valstybės įmonės Ignalinos atominės elektrinės I bloko sustabdymu ^537259cdbec342aca84455e4
+ 3.6. Nenumatytos išlaidos, susijusios su valstybės įmonės Ignalinos atominės elektrinės I bloko sustabdymu ^s-c679b4f44f6d03d329080f54
  23000
 
 
- 4. Numatomas lėšų likutis Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fonde 2006 m. sausio 1 d. ^f6f1e917b575c026267a1df6
+ 4. Numatomas lėšų likutis Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fonde 2006 m. sausio 1 d. ^s-bdf25ecd51b4ce732bc9f6db
  193352“.
 
 

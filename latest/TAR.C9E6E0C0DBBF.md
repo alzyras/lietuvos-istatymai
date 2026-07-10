@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C9E6E0C0DBBF"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 straipsnio papildymo įstatymas"
+  - "įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-25"
 latest_path: "latest/TAR.C9E6E0C0DBBF.md"
 latest_sha256: "9e4802acdda7fbcf75ae498a18d624f7bdd790213f0ef0e6425ff22c68416177"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C9E6E0C0DBBF]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C9E6E0C0DBBF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C9E6E0C0DBBF
+- Ryšiai: [[Ryšiai/TAR.C9E6E0C0DBBF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 punkto papildymas
+### 1 straipsnis. 3 straipsnio 1 punkto papildymas ^s-0a9f32f907d5add81f1bf9b8
 
 
 Papildyti 3 straipsnio 1 punktą ir jį išdėstyti taip:

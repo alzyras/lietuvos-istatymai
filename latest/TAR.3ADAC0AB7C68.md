@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3ADAC0AB7C68"
 pavadinimas: "Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutarties dėl prekybinės laivybos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutarties dėl prekybinės laivybos ratifikavimo įstatymas"
+  - "Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutarties dėl prekybinės laivybos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-03"
 latest_path: "latest/TAR.3ADAC0AB7C68.md"
 latest_sha256: "d924fa3fb9e3af845264890cedcddaa494613b1600fe9ba620e7e959f912f8e7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3ADAC0AB7C68]]"
 ---
 # Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutarties dėl prekybinės laivybos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3ADAC0AB7C68.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3ADAC0AB7C68
+- Ryšiai: [[Ryšiai/TAR.3ADAC0AB7C68|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-dc16bb2b31e4ed935ceaee5f
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl prekybinės laivybos“, ratifikuoja 1999 m. balandžio 15 d. Klaipėdoje pasirašytą Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl prekybinės laivybos.

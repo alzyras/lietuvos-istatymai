@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8D8DAC9FFB5B"
 pavadinimas: "Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "visuomenės sveikatos stebėsenos (monitoringo) įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.8D8DAC9FFB5B.md"
 latest_sha256: "7eff2916e493647bf1fc0532a200d61f2c062685cbe185c24eccfa07006f9507"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8D8DAC9FFB5B]]"
 ---
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8D8DAC9FFB5B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8D8DAC9FFB5B
+- Ryšiai: [[Ryšiai/TAR.8D8DAC9FFB5B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-ec26e387fec849dee8232ab1
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-0cadf98d3edcda3ce37146f8
 
 
-1. Šis įstatymas, išskyrus [[#^038bb48fc8190d5194a7aa4f|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^6ba7a37d62b2643d585dd57b
+1. Šis įstatymas, išskyrus [[#^s-7c5c8abf83871dfb8e6dca7f|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-ec062b81e63e48ea58294b28
 
 
-2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^038bb48fc8190d5194a7aa4f
+2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-7c5c8abf83871dfb8e6dca7f
 
 
 

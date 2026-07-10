@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A57C5A9E2AF1"
 pavadinimas: "Lietuvos Respublikos antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatymo 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatymo 3 straipsnio papildymo įstatymas"
+  - "antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatymo 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.A57C5A9E2AF1.md"
 latest_sha256: "46bf5a46740130dab413406ee8ec225ecb13e826276fe1cec8346a5715003764"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A57C5A9E2AF1]]"
 ---
 # Lietuvos Respublikos antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatymo 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A57C5A9E2AF1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A57C5A9E2AF1
+- Ryšiai: [[Ryšiai/TAR.A57C5A9E2AF1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas 7 dalimi
+### 1 straipsnis. 3 straipsnio papildymas 7 dalimi ^s-a0bd4fc8aff8ad61f27c5bfb
 
 
 Papildyti 3 straipsnį 7 dalimi:

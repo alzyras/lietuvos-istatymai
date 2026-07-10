@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1A491D4FCF8B"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 25 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 25 straipsnio pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 25 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-09-04"
 latest_path: "latest/TAR.1A491D4FCF8B.md"
 latest_sha256: "99c956701472cbecdf2dec989ff718ebf4a20908aacca05d17cdc53bd6c56e7e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1A491D4FCF8B]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 25 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1A491D4FCF8B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1A491D4FCF8B
+- Ryšiai: [[Ryšiai/TAR.1A491D4FCF8B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 25 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 25 straipsnio 1 dalies pakeitimas ^s-60015163fce297ede4694cec
 
 
 25 straipsnio 1 dalyje vietoj žodžių „viešųjų juridinių asmenų“ įrašyti žodžius „universaliųjų pašto paslaugų teikėjo“ ir šią dalį išdėstyti taip:

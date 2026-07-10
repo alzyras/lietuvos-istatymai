@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.867899ACCB24"
 pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 straipsnių pakeitimo ir papildymo įstatymas"
+  - "mokesčių administravimo įstatymo 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.867899ACCB24.md"
 latest_sha256: "f978f1749b93f7570aed9e2b73e12ab8d11cb1c165c420258677b52527e5d662"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.867899ACCB24]]"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.867899ACCB24.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.867899ACCB24
+- Ryšiai: [[Ryšiai/TAR.867899ACCB24|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,26 +39,26 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-da0c829c0bdc60ebeb382972
 
 
-1. Papildyti [[#2 straipsnis. 33 straipsnio 1 punkto pakeitimas|2 straipsnį]] nauja 4 dalimi: ^871ef00f1acf4ffc3fbf2176
+1. Papildyti [[#^s-0a2ba33453ee6740f1dbed44|2 straipsnį]] nauja 4 dalimi: ^s-20f188b6e12a93f24c896093
 
 
 „4. Elektroninių pinigų įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme.“
 
 
-2. Buvusias [[#2 straipsnis. 33 straipsnio 1 punkto pakeitimas|2 straipsnio]] 4–31 dalis laikyti atitinkamai 5–32 dalimis. ^605ad2cf9afefb7bd11ccd00
+2. Buvusias [[#^s-0a2ba33453ee6740f1dbed44|2 straipsnio]] 4–31 dalis laikyti atitinkamai 5–32 dalimis. ^s-434d607fc3f4883a2bba377d
 
 
-3. Pakeisti 2 straipsnio 30 dalį ir ją išdėstyti taip: ^d9db181d819a9bb964ffa6df
+3. Pakeisti 2 straipsnio 30 dalį ir ją išdėstyti taip: ^s-40a5f21340f69c0433659071
 
 
 „30. Šio Įstatymo 1 straipsnio 1–26 dalyse vartojamos sąvokos suprantamos taip, jeigu atitinkamo mokesčio įstatymas nenustato kitaip.“
 
 
 
-### 2 straipsnis. 33 straipsnio 1 punkto pakeitimas
+### 2 straipsnis. 33 straipsnio 1 punkto pakeitimas ^s-0a2ba33453ee6740f1dbed44
 
 
 Pakeisti 33 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 33 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 40 straipsnio 9 punkto pakeitimas
+### 3 straipsnis. 40 straipsnio 9 punkto pakeitimas ^s-b2928076edae42198e999350
 
 
 Pakeisti 40 straipsnio 9 punktą ir jį išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 40 straipsnio 9 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 42 straipsnio pakeitimas
+### 4 straipsnis. 42 straipsnio pakeitimas ^s-43d2218591edbf3f0fa1e5e3
 
 
 Pakeisti 42 straipsnį ir jį išdėstyti taip:
@@ -87,7 +92,7 @@ Lietuvos Respublikoje įregistruoti juridiniai asmenys apie atidarytas ir uždar
 
 
 
-### 5 straipsnis. 55 straipsnio pakeitimas
+### 5 straipsnis. 55 straipsnio pakeitimas ^s-476d05b2461492bf7056aeb5
 
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
@@ -101,7 +106,7 @@ Kredito, mokėjimo ir elektroninių pinigų įstaigos privalo pateikti mokesči�
 
 
 
-### 6 straipsnis. 63 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 63 straipsnio 3 dalies pakeitimas ^s-f6d4a4b46f0c53e5d6bc7858
 
 
 Pakeisti 63 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -111,7 +116,7 @@ Pakeisti 63 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 64 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 64 straipsnio 2 dalies pakeitimas ^s-c5ebe58c71402b1325204eaf
 
 
 Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -121,7 +126,7 @@ Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 95 straipsnio 1 dalies 3 punkto pakeitimas
+### 8 straipsnis. 95 straipsnio 1 dalies 3 punkto pakeitimas ^s-8c250dda31f803b71e079c7d
 
 
 Pakeisti 95 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
@@ -131,7 +136,7 @@ Pakeisti 95 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 9 straipsnis. 102 straipsnio pakeitimas
+### 9 straipsnis. 102 straipsnio pakeitimas ^s-6037255f911833bbfd25b360
 
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
@@ -145,23 +150,23 @@ Mokesčių administratorius turi teisę duoti nurodymus kredito įstaigoms, mok�
 
 
 
-### 10 straipsnis. 106 straipsnio 1 dalies 1 ir 3 punktų pakeitimas
+### 10 straipsnis. 106 straipsnio 1 dalies 1 ir 3 punktų pakeitimas ^s-e9a0f1255385789ba5b23f0b
 
 
-1. Pakeisti 106 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^c22cad03b42c82ded486a9db
+1. Pakeisti 106 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-9ff6f136a4772faca664264c
 
 
 „1) duodant kredito, mokėjimo ar elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;“.
 
 
-2. Pakeisti 106 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip: ^463e0c75e3df6e38d7f4561e
+2. Pakeisti 106 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip: ^s-bd1cb3c83045d8c69305f2e2
 
 
 „3) duodant kredito, mokėjimo ar elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos, jeigu laiduotojas arba garantas nevykdo šio straipsnio 2 punkto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;“.
 
 
 
-### 11 straipsnis. Įstatymo įsigaliojimas
+### 11 straipsnis. Įstatymo įsigaliojimas ^s-85e585c77190cd9a58c713a2
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

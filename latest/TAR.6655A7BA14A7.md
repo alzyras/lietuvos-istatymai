@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6655A7BA14A7"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 97 ir 100 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 97 ir 100 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo 97 ir 100 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-19"
 latest_path: "latest/TAR.6655A7BA14A7.md"
 latest_sha256: "8b6360ac412af873b493bc4ccba7468c05f5f7cf9afb9c9161dac9221a8514d7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6655A7BA14A7]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 97 ir 100 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6655A7BA14A7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6655A7BA14A7
+- Ryšiai: [[Ryšiai/TAR.6655A7BA14A7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 97 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 97 straipsnio 2 dalies pakeitimas ^s-34604a75b0fece294eea1463
 
 
 97 straipsnio 2 dalyje po žodžio „apskaičiuoti“ įrašyti žodį „ir“, žodžius „ir teisėjo pensijai“ išbraukti ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 100 straipsnio pakeitimas
+### 2 straipsnis. 100 straipsnio pakeitimas ^s-30eff5d3ebf8d12b5d5bd098
 
 
 Pakeisti 100 straipsnį ir jį išdėstyti taip:
@@ -50,7 +55,7 @@ Pakeisti 100 straipsnį ir jį išdėstyti taip:
 „100 straipsnis. Teisėjų pensinis aprūpinimas
 
 
-Teisėjų pensinį aprūpinimą nustato Valstybinių socialinio draudimo pensijų įstatymas, Valstybinių pensijų įstatymas bei Teisėjų valstybinių pensijų įstatymas.“
+Teisėjų pensinį aprūpinimą nustato [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymas]], [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymas]] bei [[latest/TAR.8E89798D5C4E|Teisėjų valstybinių pensijų įstatymas]].“
 
 
 

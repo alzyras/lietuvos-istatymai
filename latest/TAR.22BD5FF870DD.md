@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.22BD5FF870DD"
 pavadinimas: "Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas"
+  - "Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.22BD5FF870DD.md"
 latest_sha256: "f6cb667aa420b16709603a59e03e999c48381b690281e45d64014ace7c220f60"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.22BD5FF870DD]]"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.22BD5FF870DD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.22BD5FF870DD
+- Ryšiai: [[Ryšiai/TAR.22BD5FF870DD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 28 straipsnio 2 dalies pakeitimas ^s-9f6a2bfb9b11434c52ce93a2
 
 
 28 straipsnio 2 dalyje vietoj žodžio „valdininkai“ įrašyti žodžius „valstybės tarnautojai“ ir šią dalį išdėstyti taip:
@@ -41,17 +46,17 @@ Vilnius
 
 
 
-### 2 straipsnis. 30 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 30 straipsnio 3 dalies pakeitimas ^s-cfcbda2bc7c10529f264a503
 
 
 Pakeisti 30 straipsnio 3 dalį ir ją dalį išdėstyti taip:
 
 
-„3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.“
+„3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ad9377e573c5f436d6826eb1
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

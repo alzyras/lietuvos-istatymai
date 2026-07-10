@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.62B977537332"
 pavadinimas: "Dėl Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo įgyvendinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-26"
 latest_path: "latest/TAR.62B977537332.md"
 latest_sha256: "9763cbacfb5731972c087f6f3bc538bea9d15d1e8cbedc2726cebecedb3ba1a7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.62B977537332]]"
 ---
 # Dėl Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.62B977537332.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.62B977537332
+- Ryšiai: [[Ryšiai/TAR.62B977537332|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,41 +33,41 @@ Vilnius
 
 
 
-### 1 straipsnis.
+### 1 straipsnis. ^s-161683bf1d21e2356c4d33cb
 
 
 Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1995 m. gruodžio 1 dienos:
 
 
-1) parengti kontroliuojamųjų prekių sąrašą ir paskirstyti kontroliuojamąsias prekes ministerijoms bei valstybinėms tarnyboms pagal jų veiklos sritis; ^d5e50922bb364ab3d4877693
+1) parengti kontroliuojamųjų prekių sąrašą ir paskirstyti kontroliuojamąsias prekes ministerijoms bei valstybinėms tarnyboms pagal jų veiklos sritis; ^s-104ecf9c7311c2176714a059
 
 
-2) parengti sąrašą valstybių, į kurias draudžiama eksportuoti kontroliuojamąsias prekes, ir sąrašą valstybių, iš kurių draudžiama importuoti kontroliuojamąsias prekes, ir šiuos sąrašus pateikti Lietuvos Respublikos Seimui tvirtinti; ^f7bcc86ab9836208d57162c6
+2) parengti sąrašą valstybių, į kurias draudžiama eksportuoti kontroliuojamąsias prekes, ir sąrašą valstybių, iš kurių draudžiama importuoti kontroliuojamąsias prekes, ir šiuos sąrašus pateikti Lietuvos Respublikos Seimui tvirtinti; ^s-9eea16f93e8c68af714f8993
 
 
-3) nustatyti darbų koordinavimo tarp ministerijų ir valstybės tarnybų, kurios dalyvauja priimant galutinį sprendimą išduoti licenciją ir kontroliuoja kontroliuojamųjų prekių importo bei eksporto sandorius, tvarką; ^f2c6ea455402fb2516a8acfd
+3) nustatyti darbų koordinavimo tarp ministerijų ir valstybės tarnybų, kurios dalyvauja priimant galutinį sprendimą išduoti licenciją ir kontroliuoja kontroliuojamųjų prekių importo bei eksporto sandorius, tvarką; ^s-b2786964c6a456269fb4bf2a
 
 
-4) nustatyti licencijos gavimo sąlygas ir parengti licencijų išdavimo bei atšaukimo tvarką; ^aca988dee968b72fb9e1a07f
+4) nustatyti licencijos gavimo sąlygas ir parengti licencijų išdavimo bei atšaukimo tvarką; ^s-c834ae59139fe68f83022817
 
 
-5) nustatyti informacijos apie kontroliuojamąsias prekes pateikimo ministerijoms ir valstybės tarnyboms, kurios dalyvauja išduodant licenciją, tvarką bei pateikiamos informacijos turinį; ^aea81e08dd3994616191c9ac
+5) nustatyti informacijos apie kontroliuojamąsias prekes pateikimo ministerijoms ir valstybės tarnyboms, kurios dalyvauja išduodant licenciją, tvarką bei pateikiamos informacijos turinį; ^s-05c7be94fd708bb340a39c73
 
 
-6) parengti išankstinės kontrolės ir nuolatinės kontrolės atlikimo tvarką; ^e79d6e3e7343801c016b3cf8
+6) parengti išankstinės kontrolės ir nuolatinės kontrolės atlikimo tvarką; ^s-960c674b3c312181ae01b290
 
 
-7) nustatyti konfiskuotų kontroliuojamųjų prekių realizavimo tvarką; ^603afc3a0a506ce7fe9b59bd
+7) nustatyti konfiskuotų kontroliuojamųjų prekių realizavimo tvarką; ^s-06c969366f543526b088dc7a
 
 
-8) parengti įstatymų dėl Lietuvos Respublikos baudžiamojo ir Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo projektus. ^a1f69c5355be25e5b851cd2a
+8) parengti įstatymų dėl Lietuvos Respublikos baudžiamojo ir Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo projektus. ^s-017e3e0a38dbb7a91da17c26
 
 
 
-### 2 straipsnis.
+### 2 straipsnis. ^s-896b0b9196e74cd187ade87f
 
 
-Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymas įsigalioja nuo 1996 m. sausio 1 dienos.
+[[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymas]] įsigalioja nuo 1996 m. sausio 1 dienos.
 
 
 

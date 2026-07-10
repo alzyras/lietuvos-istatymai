@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9FC33663DE33"
 pavadinimas: "Lietuvos Respublikos darbo sutarties įstatymo 29 straipsnio papildymo įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos darbo sutarties įstatymo 29 straipsnio papildymo įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "darbo sutarties įstatymo 29 straipsnio papildymo įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-30"
 latest_path: "latest/TAR.9FC33663DE33.md"
 latest_sha256: "4240972604b5d607e33575d9a33b0ba81c1c699172a5dc732624ddc83dc2a3ba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9FC33663DE33]]"
 ---
 # Lietuvos Respublikos darbo sutarties įstatymo 29 straipsnio papildymo įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9FC33663DE33.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9FC33663DE33
+- Ryšiai: [[Ryšiai/TAR.9FC33663DE33|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-513f18841fc8732ce31cf960
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos darbo sutarties įstatymo 29 straipsnio papildymo įstatymo įgyvendinimo įstatymą.

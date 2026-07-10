@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0F1CCBEFF3F2"
 pavadinimas: "Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 4, 25, 27, 28, 30, 31, 35 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 30-1, 30-2 straipsniais įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 4, 25, 27, 28, 30, 31, 35 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 30-1, 30-2 straipsniais įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "atliekų tvarkymo įstatymo 2, 4, 25, 27, 28, 30, 31, 35 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 30-1, 30-2 straipsniais įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-31"
 latest_path: "latest/TAR.0F1CCBEFF3F2.md"
 latest_sha256: "473c320a7fc7a3e31dbf80c7d953d4aa9122eecf61572814e32ccf7701bafeab"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0F1CCBEFF3F2]]"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 4, 25, 27, 28, 30, 31, 35 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 30-1, 30-2 straipsniais įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0F1CCBEFF3F2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0F1CCBEFF3F2
+- Ryšiai: [[Ryšiai/TAR.0F1CCBEFF3F2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio pakeitimas
+### 1 straipsnis. 11 straipsnio pakeitimas ^s-23088a529e746c2a10323621
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -44,10 +49,10 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 „11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šio įstatymo 4 straipsnio 3 dalis, 5 straipsnio 3 dalis, 6 straipsnyje išdėstyto Atliekų tvarkymo įstatymo 30 straipsnio 8 ir 14 dalys įsigalioja 2012 m. spalio 1 d., šio įstatymo 6 straipsnyje išdėstyto Atliekų tvarkymo įstatymo 30 straipsnio 16 ir 18 dalys įsigalioja 2013 m. sausio 1 d., šio įstatymo 7 ir 8 straipsniai – 2013 m. liepos 1 d. ^63c5015831cbb6a362487836
+1. Šio įstatymo 4 straipsnio 3 dalis, 5 straipsnio 3 dalis, 6 straipsnyje išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 8 ir 14 dalys įsigalioja 2012 m. spalio 1 d., šio įstatymo 6 straipsnyje išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 16 ir 18 dalys įsigalioja 2013 m. sausio 1 d., šio įstatymo 7 ir 8 straipsniai – 2013 m. liepos 1 d. ^s-b91fef77d954c61649d14137
 
 
-2. Vyriausybė ar kitos valstybės ar savivaldybių institucijos atitinkamai iki 2012 m. rugsėjo 30 d., 2012 m. gruodžio 31 d. arba iki 2013 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.“ ^171a2412229f5d00e29b5ea9
+2. Vyriausybė ar kitos valstybės ar savivaldybių institucijos atitinkamai iki 2012 m. rugsėjo 30 d., 2012 m. gruodžio 31 d. arba iki 2013 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.“ ^s-f13ff610671e8dff4bd52bf5
 
 
 

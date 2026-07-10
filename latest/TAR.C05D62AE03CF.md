@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C05D62AE03CF"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-15"
 latest_path: "latest/TAR.C05D62AE03CF.md"
 latest_sha256: "6d7e09491bbaa0afc33efac12904fd5b8335eb90f554c0a56f7afa70a5e7fb2d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C05D62AE03CF]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C05D62AE03CF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C05D62AE03CF
+- Ryšiai: [[Ryšiai/TAR.C05D62AE03CF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-305573b374f72930c8acd1bb
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B77566D7E848"
 pavadinimas: "Lietuvos Respublikos aviacijos įstatymo 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aviacijos įstatymo 3 straipsnio papildymo įstatymas"
+  - "aviacijos įstatymo 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-09-01"
 latest_path: "latest/TAR.B77566D7E848.md"
 latest_sha256: "0d193cc9687892c632df744f0c1be4309217447592d381e7962ae77b8be60610"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B77566D7E848]]"
 ---
 # Lietuvos Respublikos aviacijos įstatymo 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B77566D7E848.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B77566D7E848
+- Ryšiai: [[Ryšiai/TAR.B77566D7E848|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,27 +36,27 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas
+### 1 straipsnis. 3 straipsnio papildymas ^s-b27247719be79e0bac426e59
 
 
-[[#3 straipsnis. Įstatymo įsigaliojimas|3 straipsnį]] papildyti 5 dalimi:
+[[#^s-01ce212c81c1d2ba9ab0b7e2|3 straipsnį]] papildyti 5 dalimi:
 
 
 „5. Šis įstatymas netaikomas bemotoriams orlaiviams, kurių minimalus greitis ne mažesnis kaip 45 kilometrai per valandą, maksimali pakilimo masė neviršija 170 kilogramų, kai šie orlaiviai naudojami vaikų aviaciniam švietimui ir mokymui.“
 
 
 
-### 2 straipsnis. Pasiūlymai Vyriausybei
+### 2 straipsnis. Pasiūlymai Vyriausybei ^s-529773ff787a6c955b997981
 
 
-Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo nustato orlaivių, nurodytų Aviacijos įstatymo 3 straipsnio 5 dalyje, naudojimo tvarką.
+Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo nustato orlaivių, nurodytų [[latest/TAR.9D2F66B96EBC#^s-b2722e8fa4ccc38572cb0db7|Aviacijos įstatymo 3 straipsnio 5 dalyje]], naudojimo tvarką.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-01ce212c81c1d2ba9ab0b7e2
 
 
-Šis įstatymas, išskyrus [[#2 straipsnis. Pasiūlymai Vyriausybei|2 straipsnį]], įsigalioja nuo 2004 m. rugsėjo 1 d.
+Šis įstatymas, išskyrus [[#^s-529773ff787a6c955b997981|2 straipsnį]], įsigalioja nuo 2004 m. rugsėjo 1 d.
 
 
 

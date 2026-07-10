@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.42B2B5D8CA14"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 1, 2, 57 straipsnių pakeitimo ir papildymo bei priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 1, 2, 57 straipsnių pakeitimo ir papildymo bei priedo papildymo įstatymas"
+  - "draudimo įstatymo 1, 2, 57 straipsnių pakeitimo ir papildymo bei priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-11"
 latest_path: "latest/TAR.42B2B5D8CA14.md"
 latest_sha256: "2731bd0e0b92343f74d22071ca1a5201c3f1ba3d99b1be98dbe48efc58be1a31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.42B2B5D8CA14]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 1, 2, 57 straipsnių pakeitimo ir papildymo bei priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.42B2B5D8CA14.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.42B2B5D8CA14
+- Ryšiai: [[Ryšiai/TAR.42B2B5D8CA14|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 8 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 8 dalimi ^s-ab283b81d44028068efaa6a8
 
 
 Papildyti 1 straipsnį 8 dalimi:
@@ -41,7 +46,7 @@ Papildyti 1 straipsnį 8 dalimi:
 
 
 
-### 2 straipsnis. 2 straipsnio 30 dalies 2 punkto pakeitimas
+### 2 straipsnis. 2 straipsnio 30 dalies 2 punkto pakeitimas ^s-107b708a5e6a36d9d2c9eb0e
 
 
 Pakeisti 2 straipsnio 30 dalies 2 punktą ir jį išdėstyti taip:
@@ -51,108 +56,108 @@ Pakeisti 2 straipsnio 30 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 57 straipsnio 3 dalies pripažinimas netekusia galios ir 4 dalies papildymas
+### 3 straipsnis. 57 straipsnio 3 dalies pripažinimas netekusia galios ir 4 dalies papildymas ^s-ce7bf8a37b20df6b6bf7c8ef
 
 
-1. 57 straipsnio 3 dalį pripažinti netekusia galios. ^35143a6b41369b5c7b33d68f
+1. 57 straipsnio 3 dalį pripažinti netekusia galios. ^s-73b3226608d0a85d548946e5
 
 
-2. Papildyti 57 straipsnio 4 dalį ir ją išdėstyti taip: ^cca516616e6e07a36258c28c
+2. Papildyti 57 straipsnio 4 dalį ir ją išdėstyti taip: ^s-b6fbb9a113c03fc6ba709685
 
 
 „4. Šiame straipsnyje numatytas atstovo paskyrimas ir atstovo Lietuvos Respublikoje buvimas nelaikomas kitos Europos Sąjungos valstybės narės draudimo įmonės filialu ar atstovybe ir biuru Lietuvos Respublikoje šio Įstatymo 2 straipsnio 54 dalies ir 6 straipsnio prasme. Tačiau atstovu gali būti paskirtas kitos Europos Sąjungos valstybės narės draudimo įmonės (tos pačios ar kitos nei atstovaujamoji įmonė) filialas, įsteigtas Lietuvos Respublikoje.“
 
 
 
-### 4 straipsnis. Įstatymo priedo papildymas
+### 4 straipsnis. Įstatymo priedo papildymas ^s-9b23ff082e0adb0e8726ff9b
 
 
 Papildyti Įstatymo priedą ir jį išdėstyti taip:
 
 
 
-„Lietuvos Respublikos draudimo įstatymo
+„[[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1964 m. vasario 25 d. Tarybos direktyva 64/225/EEB dėl verslo steigimo laisvės ir laisvės teikti paslaugas apribojimų panaikinimo perdraudimo bei retrocesijos srityse (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 5). ^a4eb31f2042cd61ecd519a82
+1. 1964 m. vasario 25 d. Tarybos direktyva 64/225/EEB dėl verslo steigimo laisvės ir laisvės teikti paslaugas apribojimų panaikinimo perdraudimo bei retrocesijos srityse (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 5). ^s-d87f443ee07d6aed82b2158b
 
 
-2. 1972 m. balandžio 24 d. Tarybos direktyva 72/166/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo tokios atsakomybės draudimo įgyvendinimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 10). ^7cd921c15c664ba2b95c2456
+2. 1972 m. balandžio 24 d. Tarybos direktyva 72/166/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo tokios atsakomybės draudimo įgyvendinimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 10). ^s-f8dbe6fa24416b02b744284b
 
 
-3. 1973 m. liepos 24 d. pirmoji Tarybos direktyva 73/239/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimu ir plėtojimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 14). ^fef7ee447f01aa4babd0f488
-
-
-
-4. 1973 m. liepos 24 d. Tarybos direktyva 73/240/EEB, panaikinanti steigimo laisvės apribojimus tiesioginiame draudime, išskyrus gyvybės draudimą (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 31). ^603b57b04b39f788b129e8dc
-
-
-5. 1976 m. birželio 29 d. Tarybos direktyva 76/580/EEB, iš dalies pakeičianti Direktyvą 73/239/EEB dėl tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimą ir plėtojimą reglamentuojančių įstatymų ir kitų teisės aktų suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 44). ^98523b2aba0ae733da494ebc
-
-
-6. 1978 m. gegužės 30 d. Tarybos direktyva 78/473/EEB dėl valstybių narių įstatymų, įstatymų lydimųjų aktų ir administracinių nuostatų, susijusių su Bendrijos bendruoju draudimu, derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 64). ^23d7ed9b2769e6edcf00216d
-
-
-7. 1978 m. liepos 25 d. ketvirtoji Tarybos direktyva 78/660/EEB, pagrįsta Europos Bendrijų sutarties 54 straipsnio 3 dalies g punktu dėl tam tikrų rūšių bendrovių metinių atskaitomybių (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 21). ^4d0f74b8f4c0053f92bbc6c8
-
-
-8. 1983 m. birželio 13 d. septintoji Tarybos direktyva 83/349/EEB, pagrįsta Europos Bendrijų sutarties 54 straipsnio 3 dalies g punktu dėl konsoliduotų ataskaitų (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 58). ^85df10db1bc644266e52f220
-
-
-9. 1983 m. gruodžio 30 d. antroji Tarybos direktyva 84/5/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu, suderinimo (OL 2004m. specialusis leidimas, 6 skyrius, 7 tomas, p. 3). ^991ea531deab43754de64b43
-
-
-10. 1988 m. birželio 22 d. antroji Tarybos direktyva 88/357/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, apibrėžianti nuostatas, padedančias veiksmingai įgyvendinti laisvę teikti paslaugas, ir pataisanti Direktyvą 73/239/EEB (OL 2004 m specialusis leidimas, 6 skyrius, 1 tomas, p. 198). ^a964e4aa617d0b72623d8ad7
-
-
-11. 1990 m. lapkričio 8 d. Tarybos direktyva 90/618/EEB, iš dalies pakeičianti Direktyvą 73/239/EEB ir Direktyvą 88/ 357/EEB dėl įstatymų ir kitų teisės aktų, reglamentuojančių tiesioginį draudimą, išskyrus gyvybės draudimą, suderinimą, ir pirmiausia pakeičianti šių direktyvų nuostatas dėl motorinių transporto priemonių civilinės atsakomybės draudimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 252). ^a15a4330a6ff7c901d50e958
-
-
-12. 1992 m. birželio 18 d. Tarybos direktyva 92/49/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, iš dalies pakeičianti Direktyvas 73/239/EEB ir 88/357/EEB (trečioji ne gyvybės draudimo direktyva) (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 346). ^c2e2eb59c28257ff5fc47ab8
-
-
-13. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies pakeičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių bendrovių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIAVPS), kad būtų gerinama riziką ribojanti priežiūra (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 269). ^2942f7eb85b65f5b8eeff92c
-
-
-14. 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyva 98/78/EB dėl draudimo įmonių papildomos priežiūros draudimo įmonių grupėje (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 151). ^2f64130a414aa49e02eb982f
-
-
-15. 2000 m. lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies pakeičianti Tarybos direktyvas 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB dėl keitimosi informacija su trečiosiomis valstybėmis (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 348). ^6f9410e73dd3df5acb6c5909
-
-
-16. 2001 m. kovo 19 d. Europos Parlamento ir Tarybos direktyva 2001/17/EB dėl draudimo įmonių reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 3). ^618c17058c0e8f3225486fe5
-
-
-17. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251). ^546ac9849fdedcca3a85d0ff
-
-
-18. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies pakeičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms keliamų mokumo atsargų reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310). ^69d6be3fe6203aaa068cf6a7
-
-
-19. 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos direktyva 2002/83/EB dėl gyvybės draudimo (OL2004m. specialusis leidimas, 6 skyrius, 6 tomas, p. 3). ^98b130b21d228c0f09784964
-
-
-20. 2002 m. gruodžio 9 d. Europos Parlamento ir Tarybos direktyva 2002/92/EB dėl draudimo tarpininkavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 330). ^92d23db6e62fed38b01a6618
-
-
-21. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl papildomos kredito įstaigų, draudimo įmonių ir finansų maklerio įmonių, priklausančių finansų konglomeratui, priežiūros ir pakeičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB, 93/22/EEB ir Europos Parlamento bei Tarybos direktyvas 98/78/EB ir 2000/12/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 340). ^1bab9cdfb40f93a99af3276c
-
-
-22. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 m. L 373, p. 37). ^bb5c330ad444f399f5aa2909
-
-
-23. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/61 l/EEB, 91/675/EEB, 92/49/EEB, 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą (OL 2005 m. L 79, p. 9). ^68ddaf15350507668d86a585
-
-
-24. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/14/EB, iš dalies keičianti Tarybos direktyvas 72/166/EEB, 84/5/EEB, 88/357/EEB ir 90/232/EEB bei Europos Parlamento ir Tarybos direktyvą 2000/26/EB, susijusias su motorinių transporto priemonių valdytojų civilinės atsakomybės draudimu (OL 2005 m. L 149, p. 14).“ ^0c28a29c191046d5dac077d6
+3. 1973 m. liepos 24 d. pirmoji Tarybos direktyva 73/239/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimu ir plėtojimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 14). ^s-b133b5f3f52fa9731b87f998
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+4. 1973 m. liepos 24 d. Tarybos direktyva 73/240/EEB, panaikinanti steigimo laisvės apribojimus tiesioginiame draudime, išskyrus gyvybės draudimą (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 31). ^s-94eb95f465b2f5f3d49e1314
+
+
+5. 1976 m. birželio 29 d. Tarybos direktyva 76/580/EEB, iš dalies pakeičianti Direktyvą 73/239/EEB dėl tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimą ir plėtojimą reglamentuojančių įstatymų ir kitų teisės aktų suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 44). ^s-9b83ed2d5e226f39d8af85fc
+
+
+6. 1978 m. gegužės 30 d. Tarybos direktyva 78/473/EEB dėl valstybių narių įstatymų, įstatymų lydimųjų aktų ir administracinių nuostatų, susijusių su Bendrijos bendruoju draudimu, derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 64). ^s-6e34b185d9389a601edadaa6
+
+
+7. 1978 m. liepos 25 d. ketvirtoji Tarybos direktyva 78/660/EEB, pagrįsta Europos Bendrijų sutarties 54 straipsnio 3 dalies g punktu dėl tam tikrų rūšių bendrovių metinių atskaitomybių (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 21). ^s-1edb9b1009f6c674d9da68cf
+
+
+8. 1983 m. birželio 13 d. septintoji Tarybos direktyva 83/349/EEB, pagrįsta Europos Bendrijų sutarties 54 straipsnio 3 dalies g punktu dėl konsoliduotų ataskaitų (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 58). ^s-eb8c022ddd027dd01f1fc5b1
+
+
+9. 1983 m. gruodžio 30 d. antroji Tarybos direktyva 84/5/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu, suderinimo (OL 2004m. specialusis leidimas, 6 skyrius, 7 tomas, p. 3). ^s-1df16ddec2b909123dd69e7e
+
+
+10. 1988 m. birželio 22 d. antroji Tarybos direktyva 88/357/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, apibrėžianti nuostatas, padedančias veiksmingai įgyvendinti laisvę teikti paslaugas, ir pataisanti Direktyvą 73/239/EEB (OL 2004 m specialusis leidimas, 6 skyrius, 1 tomas, p. 198). ^s-7030555de1423fe29d96cd37
+
+
+11. 1990 m. lapkričio 8 d. Tarybos direktyva 90/618/EEB, iš dalies pakeičianti Direktyvą 73/239/EEB ir Direktyvą 88/ 357/EEB dėl įstatymų ir kitų teisės aktų, reglamentuojančių tiesioginį draudimą, išskyrus gyvybės draudimą, suderinimą, ir pirmiausia pakeičianti šių direktyvų nuostatas dėl motorinių transporto priemonių civilinės atsakomybės draudimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 252). ^s-1054c6aee0f78fe6f8a5faaf
+
+
+12. 1992 m. birželio 18 d. Tarybos direktyva 92/49/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, iš dalies pakeičianti Direktyvas 73/239/EEB ir 88/357/EEB (trečioji ne gyvybės draudimo direktyva) (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 346). ^s-43cf75b8fbe95cce85694c38
+
+
+13. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies pakeičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių bendrovių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIAVPS), kad būtų gerinama riziką ribojanti priežiūra (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 269). ^s-20c811a721f99bdd09b01a06
+
+
+14. 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyva 98/78/EB dėl draudimo įmonių papildomos priežiūros draudimo įmonių grupėje (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 151). ^s-5f2cadabc7cf27ae1fb5e5f6
+
+
+15. 2000 m. lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies pakeičianti Tarybos direktyvas 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB dėl keitimosi informacija su trečiosiomis valstybėmis (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 348). ^s-bfe775bb6e0d5c20a494069a
+
+
+16. 2001 m. kovo 19 d. Europos Parlamento ir Tarybos direktyva 2001/17/EB dėl draudimo įmonių reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 3). ^s-58874dc60b3bc8d0b0201e91
+
+
+17. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251). ^s-2bce840ec5b9a01dc2b6de3d
+
+
+18. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies pakeičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms keliamų mokumo atsargų reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310). ^s-33bae4fcfdc32905158ac783
+
+
+19. 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos direktyva 2002/83/EB dėl gyvybės draudimo (OL2004m. specialusis leidimas, 6 skyrius, 6 tomas, p. 3). ^s-361b12f8c931173a8a10564d
+
+
+20. 2002 m. gruodžio 9 d. Europos Parlamento ir Tarybos direktyva 2002/92/EB dėl draudimo tarpininkavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 330). ^s-f5c255930122f0334cc7b4dd
+
+
+21. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl papildomos kredito įstaigų, draudimo įmonių ir finansų maklerio įmonių, priklausančių finansų konglomeratui, priežiūros ir pakeičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB, 93/22/EEB ir Europos Parlamento bei Tarybos direktyvas 98/78/EB ir 2000/12/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 340). ^s-e321d4e4d6c6a9b91cd8dea6
+
+
+22. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 m. L 373, p. 37). ^s-07f60dc3f7cf8b894855b7a8
+
+
+23. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/61 l/EEB, 91/675/EEB, 92/49/EEB, 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą (OL 2005 m. L 79, p. 9). ^s-9ff24707e7e93fc2bf5daf94
+
+
+24. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/14/EB, iš dalies keičianti Tarybos direktyvas 72/166/EEB, 84/5/EEB, 88/357/EEB ir 90/232/EEB bei Europos Parlamento ir Tarybos direktyvą 2000/26/EB, susijusias su motorinių transporto priemonių valdytojų civilinės atsakomybės draudimu (OL 2005 m. L 149, p. 14).“ ^s-8a49cee829b786a076c37b51
+
+
+
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-d96db5e906ac188cc2f5184b
 
 
 Šis įstatymas įsigalioja nuo 2007 m. birželio 11 d.

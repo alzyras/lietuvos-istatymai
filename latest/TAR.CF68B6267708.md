@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF68B6267708"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl valstybės sienos įgaliotinių veiklos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl valstybės sienos įgaliotinių veiklos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl valstybės sienos įgaliotinių veiklos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-22"
 latest_path: "latest/TAR.CF68B6267708.md"
 latest_sha256: "3725317f0879a852ad5d9ff2c8724f366d66c51b0601b64fe01b7c008381c006"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF68B6267708]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl valstybės sienos įgaliotinių veiklos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF68B6267708.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF68B6267708
+- Ryšiai: [[Ryšiai/TAR.CF68B6267708|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-5892bf7d42770fdaca0efb28
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu bei atsižvelgdamas j Respublikos Prezidento 2006 m. balandžio 14 d. dekretą Nr. 576, ratifikuoja 2005 m. spalio 27 d. Gardine pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas j Respublikos Prezidento 2006 m. balandžio 14 d. dekretą Nr. 576, ratifikuoja 2005 m. spalio 27 d. Gardine pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos.
 
 
 

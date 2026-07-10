@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.842041BCD3D9"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso\" 4 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso\" 4 ir 6 straipsnių pakeitimo įstatymas"
+  - "įstatymo \"Dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso\" 4 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-10-26"
 latest_path: "latest/TAR.842041BCD3D9.md"
 latest_sha256: "8b217ba66cb90895627d9a3c9fc06f531e9b03db7dd5f7ec37285047ab604857"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.842041BCD3D9]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso" 4 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.842041BCD3D9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.842041BCD3D9
+- Ryšiai: [[Ryšiai/TAR.842041BCD3D9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-ea9ae8d95b2f5a8d0b0d65c0
 
 
 4 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikos Seimo Pirmininko“ įrašyti žodžius „Respublikos Prezidento“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-90848bcc4e184a0d31b7bc13
 
 
 6 straipsnio 1 dalyje po žodžio „nuo“ įrašyti žodį „jų“, vietoj žodžių „įgaliojamojo rašto“ įrašyti žodžius „įgaliojamųjų raštų“, vietoj žodžių „Lietuvos Respublikos Seimo Pirmininkui“ įrašyti žodžius „Respublikos Prezidentui“ ir šią dalį išdėstyti taip:

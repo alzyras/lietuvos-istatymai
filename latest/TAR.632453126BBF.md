@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.632453126BBF"
 pavadinimas: "Lietuvos Respublikos prekyviečių mokesčio įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekyviečių mokesčio įstatymo pripažinimo netekusiu galios įstatymas"
+  - "prekyviečių mokesčio įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.632453126BBF.md"
 latest_sha256: "886cf8ab5252cb05f6b4cf02ac59ff0e759ba471789bd4aec1551b5c00c97a0c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.632453126BBF]]"
 ---
 # Lietuvos Respublikos prekyviečių mokesčio įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.632453126BBF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.632453126BBF
+- Ryšiai: [[Ryšiai/TAR.632453126BBF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Prekyviečių mokesčio įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Prekyviečių mokesčio įstatymo pripažinimas netekusiu galios ^s-c3934c5278300262418cf36c
 
 
 Prekyviečių mokesčio įstatymą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-dbcf71246b036f7b7e9d4c0b
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

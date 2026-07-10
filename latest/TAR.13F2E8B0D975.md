@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13F2E8B0D975"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.13F2E8B0D975.md"
 latest_sha256: "1982f8b629d6c9b9e4bbce286cba44be23c73688141c0ce6da6869ea6f61cfc6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13F2E8B0D975]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13F2E8B0D975.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13F2E8B0D975
+- Ryšiai: [[Ryšiai/TAR.13F2E8B0D975|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 26 straipsnio 1 dalies pakeitimas ^s-cc174adf2a95e2b713803a8d
 
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-56e92541f889ccc7cdc02189
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

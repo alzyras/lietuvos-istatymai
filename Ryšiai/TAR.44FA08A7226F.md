@@ -1,0 +1,251 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.44FA08A7226F"
+pavadinimas: "Lietuvos Respublikos profesinio mokymo įstatymas"
+---
+# Lietuvos Respublikos profesinio mokymo įstatymas: ryšiai
+
+- [[latest/TAR.44FA08A7226F|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - 8 citatos - Asmens su negalia teisių apsaugos pagrindų įstatymas
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 4 citatos - Lietuvos Respublikos darbo kodekse
+- [[latest/TAR.82D8168D3049#^s-e16afbf468244b0bdec26304|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje
+- [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
+- [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme
+- [[latest/TAR.78D7BFF62892|Lietuvos Respublikos profesinio mokymo įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.537420FEDA68|Lietuvos Respublikos profesinio mokymo įstatymo 2, 6, 10, 11, 12, 13, 14, 18, 19, 21, 22, 23, 24, 27, 28, 31, 33 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 12-1 straipsniu ir 26 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XI-839
+- [[latest/TAR.6BDBED9E614B|Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio pakeitimo ir 41 straipsnio pripažinimo netekusiu galios įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO 40 STRAIPSNIO PAKEITIMO IR 41 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+- [[latest/TAR.72E6852BCA21|Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio pakeitimo įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO 40 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.55DCBE04BDA6|Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO 40 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.CB176F2F9493|Lietuvos Respublikos profesinio mokymo įstatymo 6, 7, 11, 14, 18, 22, 23, 28 ir 31 straipsnių pakeitimo įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO 6, 7, 11, 14, 18, 22, 23, 28 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.45091AEC328E|Lietuvos Respublikos profesinio mokymo įstatymo 7, 9, 10, 11, 12, 18, 19, 21, 22, 23, 25, 28 ir 31 straipsnių pakeitimo įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO 7, 9, 10, 11, 12, 18, 19, 21, 22, 23, 25, 28 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/bd457ce0f77c11e39cfacd978b6fd9bb|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 12-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-923
+- [[latest/064e44b2d1d411f08918e1adc7c5b1ec|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 13, 14, 25 ir 26 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-607
+- [[latest/97110bf0a0ab11ea9515f752ff221ec9|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2969
+- [[latest/7a559c0090c711e4bb408baba2bdddf3|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 14, 22, 23-1, 31 ir 32 straipsnių pakeitimo ir Įstatymo papildymo 23-2 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-1448
+- [[latest/5a024ea0040d11edb32c9f9d8ba206f8|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 21, 26, 28, 29, 36, 37 ir 38 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1224
+- [[latest/00d61a20a62b11eea5a28c81c82193a8|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 28 ir 37 straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2408
+- [[latest/de2e6c40b59d11ec8d9390588bf2de65|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 17 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1000
+- [[latest/866310b08eb811eea5a28c81c82193a8|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 17 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2257
+- [[latest/cbb14210f6c311ec8fa7d02a65c371ad|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 18 ir 19 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1145
+- [[latest/652f99a088fa11e8af589337bf1eb893|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 18, 26, 28 ir 29 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1392
+- [[latest/40176720b1c511e98451fa7b5933515d|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 10, 12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 25, 26, 27, 31, 32, 36, 40 ir 41 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2369
+- [[latest/66ac76508c0f11ed8df094f359a60216|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1732
+- [[latest/77e52fd0a62a11eea5a28c81c82193a8|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-1732 9, 18 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2406
+- [[latest/7c326650f77c11e39cfacd978b6fd9bb|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 22, 23, 24, 31 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-922
+- [[latest/b1ea5b5061f211eebc77e58877a83c4e|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 33 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2181
+- [[latest/1bca00f0ba1e11eab9d9cd0c85e0b745|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 36 ir 38 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3154
+- [[latest/a747bd20e01e11ec8d9390588bf2de65|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 37 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1128
+- [[latest/54bd1ba020e211eca51399bc661f78e7|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 38 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-536
+- [[latest/759b5d407d6111eea5a28c81c82193a8|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 40 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2204
+- [[latest/093a9010eb0b11e7acd7ea182930b17f|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-888
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1345
+- [[latest/f1f68be0ff7611e78bcec397524184ce|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-986
+- [[latest/3c7e8f309e6911e58fd1fc0b9bba68a7|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 papildymo 34 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-2109
+- [[latest/TAR.520097AFEB05|Lietuvos Respublikos profesinio mokymo įstatymo pakeitimo įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.DBD7ECB15218|Lietuvos Respublikos profesinio mokymo įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas]] - 4 citatos - PROFESINIO MOKYMO ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 10 citatos - Užimtumo įstatymas
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatymo
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatymo
+- [[latest/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - 4 citatos - Lietuvos Respublikos viešųjų įstaigų įstatymu
+- [[latest/TAR.1E52802BE548#^s-940964888b7b2114aec75cf3|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - 2 citatos - Viešųjų įstaigų įstatymo 12 straipsnio 1 dalies
+- [[latest/TAR.9A3AD08EA5D0|Lietuvos Respublikos švietimo įstatymas]] - 23 citatos - Švietimo įstatymo
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.199156E4E004#^s-8307ee3ff6e4975cdbcfdf64|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/TAR.199156E4E004#^s-a1d1e643216c6598cb027e30|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/df4fe6f2a8b411ef90b5ee8931e5ce5e#^s-a9647e2165c433a5870e7f59|Lietuvos Respublikos bausmių vykdymo sistemos įstatymo Nr. XIII-1387 2, 13 ir 14 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.C595FF45F869#^s-412d09f06a328283ffeb3f99|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.C595FF45F869#^s-47bf88fba1db05b33399ca39|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.C595FF45F869#^s-4c71974f4d5f103009126009|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.C595FF45F869#^s-cf284f252a10b5d776b0cb4a|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/235bae90eb0e11e7acd7ea182930b17f#^s-bd901d95d1caefd547968746|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 19 ir 21 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/60718c50037311edb32c9f9d8ba206f8#^s-76f7b891f1ce019c1988f593|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/60718c50037311edb32c9f9d8ba206f8#^s-e31a4c39a4a6126fb35e8d37|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/eb9829b0f31911e88568e724760eeafa#^s-2b04d3aab68f44e59b6e9ef1|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 48, 52, 53, 58, 59, 77, 78, 79 ir 82 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/eb9829b0f31911e88568e724760eeafa#^s-512ab44a28ad5a2c624a7b0b|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 48, 52, 53, 58, 59, 77, 78, 79 ir 82 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/eb9829b0f31911e88568e724760eeafa#^s-a971ad5d55412916d561a5b8|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 48, 52, 53, 58, 59, 77, 78, 79 ir 82 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/919457a0869411e8af589337bf1eb893#^s-5d6f38859156680b9834b49a|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 14, 15, 21, 23, 24, 84 straipsnių pakeitimo ir 18, 25 straipsnių pripažinimo netekusiais galios įstatymas]] - Profesinio mokymo įstatyme
+- [[latest/919457a0869411e8af589337bf1eb893#^s-6e205402c7cd18d221c178d7|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 14, 15, 21, 23, 24, 84 straipsnių pakeitimo ir 18, 25 straipsnių pripažinimo netekusiais galios įstatymas]] - Profesinio mokymo įstatyme
+- [[latest/1f8c9530037411edb32c9f9d8ba206f8#^s-9bda5fe45e85c9785dcb477e|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 19, 52, 53, 58, 77, 82-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/65fcc8802b2d11eb932eb1ed7f923910#^s-6307d9ed7f8a645b41ba4b48|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 48, 52 ir 59 straipsnių pakeitimo įstatymas]] - Profesinio mokymo įstatyme
+- [[latest/TAR.CE3B174CA7E6#^s-c0b8908bbebd3e32bd20eeba|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.CE3B174CA7E6#^s-fbaec358ee817c122114543f|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/96c19810f32611ed9978886e85107ab2#^s-5a004adb37a19c8202629169|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 2, 4, 7, 8, 9, 10, 11, 13, 15, 16, 17 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/96c19810f32611ed9978886e85107ab2#^s-b7a7b2369192ece6ef7f5926|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 2, 4, 7, 8, 9, 10, 11, 13, 15, 16, 17 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-041efbbe90c9aaa92d6ad512|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-5de460db65aee99b9224e3ba|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-45db34bcd64727ac10f58be7|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-4b56d406eb6ad65675172f28|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.41DF8845007B#^s-84c3f78eddf89dcafa418cff|Lietuvos Respublikos policijos veiklos įstatymo 1, 2, 3, 6-2, 7, 11, 12, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/TAR.41DF8845007B#^s-ade118eb9af483e2b137644f|Lietuvos Respublikos policijos veiklos įstatymo 1, 2, 3, 6-2, 7, 11, 12, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/66ac76508c0f11ed8df094f359a60216#^s-7cd1123d7649a7da9357ac27|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 3 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 39 straipsnio 2 dalies
+- [[latest/66ac76508c0f11ed8df094f359a60216#^s-8b4b3c4273f3032ce6c9a4ad|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Profesinio mokymo įstatymo 38 straipsnio 2 dalies
+- [[latest/66ac76508c0f11ed8df094f359a60216#^s-ddbd69287c7f90aa0800c920|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 39 straipsnio 2 dalies
+- [[latest/759b5d407d6111eea5a28c81c82193a8#^s-0c848088512f5da22dbc60ef|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 40 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio 8 dalies
+- [[latest/759b5d407d6111eea5a28c81c82193a8#^s-b0ca8d231b71de654a47338e|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 40 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio 8 dalies
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-18ff603b0c64cf764f65ef36|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-1b2fdce63835264197054769|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-296f1c5ac9cbb61800eb062d|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMAS
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-512b7e8ca001cddb24b8486b|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 35 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-58701c595da9cc138cd7f13d|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 39 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-717b7d5cb6aadc320f1db6db|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - įstatymo Nr. VIII-450
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-727e91ffc414748b71527e92|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 16 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-78245f61f9e91b5429da1e58|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 13 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-94fe9fb3725b2401e2ca9fdb|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 38 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-98150e72944843b7106325ad|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-a466e840585eaf33335ad5b8|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 15 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-a5465e58a0df05169ad6609b|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - 16 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 12 straipsnio 2 dalies
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-a971b6bb1ae071784385984c|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 12 straipsnio 2 dalį
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-b17fd8483710796fa8906020|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 20 straipsnio 2 dalies
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-b7d324b92de22a540d459863|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 22 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-c7260cf46a01a78d17318565|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 12 straipsnio 2 dalies
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-d3cd05ead97c22e38be8b431|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 12 straipsnio 2 dalis
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-f8e6a19707a9ed9c143ba4a5|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 14 straipsnio
+- [[latest/093a9010eb0b11e7acd7ea182930b17f#^s-fba54c4172469455d8a842d0|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-1d3e1638dbd6ab02c6fa1277|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio 13 dalį
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-29c46a8571d7b5c82ce0770d|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - 5 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-3840e00d245e23aebf818000|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 35 straipsnio
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-7c399b90b3fcf2dff56ade0c|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio 6 dalį
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-89628b3c09e7bc33efd1cd1d|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio 5 dalį
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-c9ff753d534c47b52533fb48|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 39 straipsnio
+- [[latest/c51fc9e0801a11e8ae2bfd1913d66d57#^s-cfa5b4d320ace2e6537b17ef|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio 7 dalį
+- [[latest/f1f68be0ff7611e78bcec397524184ce#^s-02fdda4d0ac64873ef0ac32b|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio
+- [[latest/f1f68be0ff7611e78bcec397524184ce#^s-15736cf5fcfaa33e63954d5c|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio 8 dalį
+- [[latest/f1f68be0ff7611e78bcec397524184ce#^s-1e3281ffa3552da15b79e655|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio
+- [[latest/f1f68be0ff7611e78bcec397524184ce#^s-447a90d7ca4e8d8ca898a1e5|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio 12 dalį
+- [[latest/f1f68be0ff7611e78bcec397524184ce#^s-acdf342a1ed9b4f5e2b789ff|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 38 straipsnio
+- [[latest/f1f68be0ff7611e78bcec397524184ce#^s-c75e09c8ae774cd730ac3375|Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo 36 straipsnio
+- [[latest/TAR.520097AFEB05#^s-084fed5a7b75caafa1aacf22|Lietuvos Respublikos profesinio mokymo įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMAS
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-638e6acf4a075131976cf964|Lietuvos Respublikos užimtumo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-702b5d4176507fcc473f3df1|Lietuvos Respublikos užimtumo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-793ed638f756912a0c7988e1|Lietuvos Respublikos užimtumo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-916b33f645922b95fcdf7121|Lietuvos Respublikos užimtumo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-cb944d1304d14efaa17ccc6a|Lietuvos Respublikos užimtumo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-d183157751fbfbc115f48897|Lietuvos Respublikos užimtumo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/2ee59da0e1ab11ec8d9390588bf2de65#^s-45ed9f3b4c7743a606339cf5|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 12, 16, 20, 22, 24, 28, 29, 30, 31, 36, 37, 38, 39-1, 40, 44, 46, 47, 48, 48-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 39-2, 39-3 ir 48-2 straipsniais įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/2ee59da0e1ab11ec8d9390588bf2de65#^s-6d3930ded0df7ecb8284ab09|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 12, 16, 20, 22, 24, 28, 29, 30, 31, 36, 37, 38, 39-1, 40, 44, 46, 47, 48, 48-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 39-2, 39-3 ir 48-2 straipsniais įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/2ee59da0e1ab11ec8d9390588bf2de65#^s-cdbcac8d81b4caa3d4830618|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 12, 16, 20, 22, 24, 28, 29, 30, 31, 36, 37, 38, 39-1, 40, 44, 46, 47, 48, 48-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 39-2, 39-3 ir 48-2 straipsniais įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/2ee59da0e1ab11ec8d9390588bf2de65#^s-f42dd08a44cfb463639ba539|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 12, 16, 20, 22, 24, 28, 29, 30, 31, 36, 37, 38, 39-1, 40, 44, 46, 47, 48, 48-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 39-2, 39-3 ir 48-2 straipsniais įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/471c0ae0ec6d11e78a1adea6fe72f3c5#^s-830dea6e9820bee689d9486a|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 13, 16, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 37, 38, 39, 39-1, 40, 41, 42, 44, 45, 47, 48 ir 49 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/471c0ae0ec6d11e78a1adea6fe72f3c5#^s-fe9a6af96748d2a228aa5809|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 13, 16, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 37, 38, 39, 39-1, 40, 41, 42, 44, 45, 47, 48 ir 49 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/6d4840607a5211eab005936df725feed#^s-81317c3238569168e1aa8cdd|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 13, 24, 35, 37, 38, 39, 41, 42, 44, 49 ir 50 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/6d4840607a5211eab005936df725feed#^s-a010f87a4ed0fc6687dc5c4f|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 13, 24, 35, 37, 38, 39, 41, 42, 44, 49 ir 50 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/f1954e7095d811ea9515f752ff221ec9#^s-4c1e4003d556ac45f0d2ab0b|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 20, 25, 35, 37, 38, 41, 42, 43, 44, 47, 55 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/f1954e7095d811ea9515f752ff221ec9#^s-c606a929bd0e6ceb9616255b|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 20, 25, 35, 37, 38, 41, 42, 43, 44, 47, 55 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/ae99e331ebdd11e7acd7ea182930b17f#^s-4a98a5f9687c4580cba31bb3|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 III skyriaus pirmojo skirsnio pavadinimo ir 12, 20, 36, 37 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/ae99e331ebdd11e7acd7ea182930b17f#^s-5184e976c6ad2426214d2652|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 III skyriaus pirmojo skirsnio pavadinimo ir 12, 20, 36, 37 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/edc55260693011eabee4a336e7e6fdab#^s-3e3a19bc4cc6c458de80be1b|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 papildymo 5-1 straipsniu ir 24, 25, 35, 37, 41, 42, 44 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/edc55260693011eabee4a336e7e6fdab#^s-9f4f9186c6156e91a6d3ecd7|Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 papildymo 5-1 straipsniu ir 24, 25, 35, 37, 41, 42, 44 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/TAR.90D8CF4E3E9F#^s-4c6d8e5102160fe4f97d04c5|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.90D8CF4E3E9F#^s-dd24f7e2476a4b47d5dfbfc3|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/1f1b6450cefd11ed9978886e85107ab2#^s-19fc34c366cdaf686b13fc57|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 2, 7, 11, 12, 15, 16, 17, 18, 21, 22, 23, 24, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/5f313450087811ebb74de75171d26d52#^s-80f600560b00c81e81dd48ae|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/70593dd04a7311e6b5d09300a16a686c#^s-841136ab5435c4c1d7ce87bc|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/70593dd04a7311e6b5d09300a16a686c#^s-cbba21a81dfb229d505aee01|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/5f313450087811ebb74de75171d26d52#^s-e858dba8002c6fcb8e363233|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.4C876D398907#^s-353b9be3a43f2cf452ffdc81|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.4C876D398907#^s-9bdc7daf596f7f66b76ea009|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.5C23DECF6210#^s-29ffd1527576207db5f8467a|Lietuvos Respublikos valstybės skolos įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.5C23DECF6210#^s-3555378e5d393151552865cd|Lietuvos Respublikos valstybės skolos įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/e57ae2724cdb11f0b070ee7f1ceefc75#^s-1ee0cff77da9383085c5e872|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 1, 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/96842d9088f511e8af589337bf1eb893#^s-35285509b08f65e8e8f0b9ea|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/b1a6b7b0217d11e5b336e9064144f02a#^s-3ceeb39480e99c462af25d73|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/014ced40a62a11eea5a28c81c82193a8#^s-560630193a97a3bae1c26d6c|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Profesinio mokymo įstatymu
+- [[latest/96842d9088f511e8af589337bf1eb893#^s-686a82f817d0812e6f3fdd2f|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymu
+- [[latest/014ced40a62a11eea5a28c81c82193a8#^s-8a44a9f2a21f07160a4f7576|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/96842d9088f511e8af589337bf1eb893#^s-a7e984fd1ceef7a349ad77d9|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymu
+- [[latest/b1a6b7b0217d11e5b336e9064144f02a#^s-b62b9ea5477063b8929b35de|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/96842d9088f511e8af589337bf1eb893#^s-c7ead17ff7d0e072e51a5eca|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/014ced40a62a11eea5a28c81c82193a8#^s-c9ed7e9af3c55d93cd0c5611|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/014ced40a62a11eea5a28c81c82193a8#^s-e07d114ac661e123833b4a97|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/014ced40a62a11eea5a28c81c82193a8#^s-e6a6a75f8f4fd5a26ab1c347|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-1bba83c695dc85dcaeb45566|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-3f8023f819b46a720dfb8343|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-b4e139e586db506af0bfa956|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-e1dbf16249ce79ea24faacba|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymo
+- [[latest/TAR.4FC026AC03AE#^s-fc32530f0b2df2aa2d9846e4|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Profesinio mokymo įstatymu
+- [[latest/TAR.5A7AFA3A0DEF#^s-57f12f68b08e4ac9af909ba1|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 17, 19, 20, 21, 27, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Profesinio mokymo įstatyme
+- [[latest/TAR.5A7AFA3A0DEF#^s-7a91f945836e8f874b197327|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 17, 19, 20, 21, 27, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Profesinio mokymo įstatyme
+- [[latest/2f5830f0aee911e5b12fbb7dc920ee2c#^s-45e9f9b010bbde7c92dbbb8e|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/2f5830f0aee911e5b12fbb7dc920ee2c#^s-6385ffdfd8838b06181f0511|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/92ba7f10658d11e8ac27abd8fa093003#^s-471071aef254162f6ae925d9|Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1, 3, 9, 10, 11, 12, 13, 14 ir 18 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/92ba7f10658d11e8ac27abd8fa093003#^s-ce5768a970361e7ddab5cc15|Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1, 3, 9, 10, 11, 12, 13, 14 ir 18 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/TAR.96A68BFC9E82#^s-795281cdcd870fd7144269e0|Lietuvos Respublikos Vyriausybės įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.96A68BFC9E82#^s-e69e739c29bc8afd7c91f4a8|Lietuvos Respublikos Vyriausybės įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/dbec2d908eb411eea5a28c81c82193a8#^s-d6466a288a97b907918bd9aa|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5, 13, 22, 26, 28-1, 29, 29-1, 30, 30-1, 30-2, 31, 31-1, 32 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/dbec2d908eb411eea5a28c81c82193a8#^s-eb781ba8128bcc696d57d655|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5, 13, 22, 26, 28-1, 29, 29-1, 30, 30-1, 30-2, 31, 31-1, 32 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/65ef51c0b1c411e98451fa7b5933515d#^s-2c288561859da362d9cd6381|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-2 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/65ef51c0b1c411e98451fa7b5933515d#^s-6c9e1f3134147532608dbe6a|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-2 straipsniu įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.9A3AD08EA5D0#^s-1ed961aae24153722c8ff4d3|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-246ca37624a8fbeec7a9843d|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-2828806b21deda633890a36a|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-30ce394baf804608a2f5426d|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-3801e9c3ec2f43be243a8613|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-5682072104743f21683364f9|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-582f6b6df33aa6c0bdedd8ac|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-62255a6555ff80b5c6d14296|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-647fdedc61e57c524addc7a8|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymu
+- [[latest/TAR.9A3AD08EA5D0#^s-7aac8ddc8220227a64d1a16b|Lietuvos Respublikos švietimo įstatymas]] - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-7f364aae80415888ca814e95|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-8630e394e42e39259369167c|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-87588fcdc0cb5b01e2b4f0ff|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-94f22af4e7902f40cae293b3|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-9b8fb601f703b9fcec3db7c8|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymu
+- [[latest/TAR.9A3AD08EA5D0#^s-9ecd0ad3e5f74a4323794296|Lietuvos Respublikos švietimo įstatymas]] - 2 citatos - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-9f2cab5f069fa8ae44e8a500|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-a4875514adfbfa51ca97adb7|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-a7f7ba418641f7b1e707b8e2|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-ac4886f0772e13a83b6c0b62|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-ad849cc18705e93d5e376f39|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-b9fa7f66f14957d94ab779d8|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymu
+- [[latest/TAR.9A3AD08EA5D0#^s-c388794426fd6a38014e5a85|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-cb26ec228482e20bd6c2bc8e|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-cef3cf50e99220006e21db12|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-d799f762b31697fb910db9fa|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.9A3AD08EA5D0#^s-f8567d6eb0f23427cd0c6a7b|Lietuvos Respublikos švietimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-f9e4cd51e2bfa860a16f8d30|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-fad150e35fdef8b9c4c89b9e|Lietuvos Respublikos švietimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.F84844C38030#^s-3ddeb50e8cb77e881b3e98c8|Lietuvos Respublikos švietimo įstatymo 2, 12, 37, 39, 41, 43, 45, 46, 56, 62, 63, 66, 71 ir 72 straipsnių pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/929e4f408c0f11ed8df094f359a60216#^s-55c123e291035668dfd4ffb1|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12 straipsnio pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/929e4f408c0f11ed8df094f359a60216#^s-ebed8763b677675d58bcd6ec|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12 straipsnio pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/4b3eef00eb0c11e7acd7ea182930b17f#^s-14ea4c44356914b87be1e360|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 43, 44, 56, 56-1, 62, 69 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/4b3eef00eb0c11e7acd7ea182930b17f#^s-6ad4873ee92641f17d8b19ea|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 43, 44, 56, 56-1, 62, 69 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/7d2216b061f211eebc77e58877a83c4e#^s-18c135c31553f9fd0b23bed3|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir 67 straipsnių pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/7d2216b061f211eebc77e58877a83c4e#^s-5cec624aad11e5e0d49cba6c|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir 67 straipsnių pakeitimo įstatymas]] - 2 citatos - Profesinio mokymo įstatymo
+- [[latest/7d2216b061f211eebc77e58877a83c4e#^s-64a5d54a2ac96885c1bb690f|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir 67 straipsnių pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/7d2216b061f211eebc77e58877a83c4e#^s-c2d780f3e20f55b82324e94b|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir 67 straipsnių pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/7d2216b061f211eebc77e58877a83c4e#^s-d1322e6db3c81ff366e9fe4f|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir 67 straipsnių pakeitimo įstatymas]] - Profesinio mokymo įstatymu
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-157b39cb48f5513aca2f82a9|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-2246c3f9b1b20790cdb00cc3|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-bf18eead5177c9e3fb8100ef|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-d3e0eb9fad6c6127b7da0c6a|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-00f450b98790781d85e0f04a|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-07da6be5284de5ec402ff3e6|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.0546D91E9C63#^s-0d440857472b54fa72b96aff|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.0546D91E9C63#^s-1de51ff20716ed2e08abd433|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-1e5ea464e93ee6f634144813|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-3578abafef28fd1e4bee23db|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-50dc15ba81e57f9d5160711d|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.0546D91E9C63#^s-60209d581f7215eb960e3228|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-64af6780e625d3c03ec755be|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-669a6ade6e7cfc7db1b8200f|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.0546D91E9C63#^s-8a9e82a4a351798830072fa8|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-9e0d07016d0f2a79e13b0c2d|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-a224df79b9369270855190ab|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-a774b6e8c1a7e9e8cadb5aad|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.E2EBE95E7723#^s-a8d760216d4c3b0965015507|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/TAR.85CFB188C5F8#^s-c69db4358507f3e8569cefe2|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-ccb0645be8c90e6b6f7b9f04|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-d4a005aa0fcab0e8b5551199|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.85CFB188C5F8#^s-d778759fc34a658a1b605ee6|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.E2EBE95E7723#^s-e5187928a68e8c3b35e2ff3e|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.0546D91E9C63#^s-f9b350e27d51e64fbf63709b|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.0546D91E9C63#^s-fdbd02aeff922f7fac1d92bd|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Profesinio mokymo įstatymas
+- [[latest/TAR.13E108ED3981#^s-41282f9240cfa99fb0c12dca|Lietuvos Respublikos žemės gelmių įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/TAR.13E108ED3981#^s-70161c8366ee91b2dce2d75a|Lietuvos Respublikos žemės gelmių įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-5174b58268a29b44f12c0a63|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Profesinio mokymo įstatymo
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-c856a01ad3f073fed9da2515|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Profesinio mokymo įstatymo

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C67CAB4879E4"
 pavadinimas: "Lietuvos Respublikos Europos bendrovių įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Europos bendrovių įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "Europos bendrovių įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.C67CAB4879E4.md"
 latest_sha256: "bf85e1b34b8f377ebc08d94f020351ce2142a592eff91b0fc806beb49ea0128a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C67CAB4879E4]]"
 ---
 # Lietuvos Respublikos Europos bendrovių įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C67CAB4879E4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C67CAB4879E4
+- Ryšiai: [[Ryšiai/TAR.C67CAB4879E4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas ^s-b1f9754f7849b04f6f016ba7
 
 
 Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-a186714ccc1c640cc5d34f9e
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.179E9BA071FD"
 pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.179E9BA071FD.md"
 latest_sha256: "ea558fe44a8c4ba224729968fa662f47bca865d076ba03306ecd06cb90daddf3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.179E9BA071FD]]"
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.179E9BA071FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.179E9BA071FD
+- Ryšiai: [[Ryšiai/TAR.179E9BA071FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-0e6400e6bba8bf97787b6b42
 
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1D802B6A87D4"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl paramos mirties atveju\" 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl paramos mirties atveju\" 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl paramos mirties atveju\" 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.1D802B6A87D4.md"
 latest_sha256: "27c959985b7a1be184b0ff2b919cfefb6196ccad6d281bdab81d1625c4efe8df"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1D802B6A87D4]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1D802B6A87D4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1D802B6A87D4
+- Ryšiai: [[Ryšiai/TAR.1D802B6A87D4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-57229e2cc696a70363ae7557
 
 
-[[#2 straipsnis. Įstatymo įsigaliojimas|2 straipsnyje]] vietoj skaičiaus „6“ įrašyti skaičių „8“ ir šį straipsnį išdėstyti taip:
+[[#^s-f659a1bd67a906a49a062dc8|2 straipsnyje]] vietoj skaičiaus „6“ įrašyti skaičių „8“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#2 straipsnis. Įstatymo įsigaliojimas|2 straipsnis]]. Pašalpos dydis
+„[[#^s-f659a1bd67a906a49a062dc8|2 straipsnis]]. Pašalpos dydis
 
 
 Pašalpa yra 8 minimalių gyvenimo lygių (toliau – MGL) dydžio. Pašalpos dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į pašalpą, galiojusio MGL dydį.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f659a1bd67a906a49a062dc8
 
 
 Įstatymas įsigalioja 2008 m. sausio 1 d.

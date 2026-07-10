@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.56EA9765D8A8"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.56EA9765D8A8.md"
 latest_sha256: "44643e2b50de5c88fe4a1baf37a0abe8d6c5dee8f4129ccc5a4728d10f62e654"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.56EA9765D8A8]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.56EA9765D8A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.56EA9765D8A8
+- Ryšiai: [[Ryšiai/TAR.56EA9765D8A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,17 +38,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies 9 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies 9 punkto pakeitimas ^s-5da5e5c9e8394478861b82fe
 
 
 Pakeisti 7 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip:
 
 
-„9) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, nekilnojamasis turtas, kuris visas ar kurio dalis naudojami pajamoms iš žemės ūkio veiklos ir (ar) kooperatinių bendrovių (kooperatyvų) pajamoms už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus gauti (uždirbti);“.
+„9) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta [[latest/TAR.A5ACBDA529A9#^s-79cce4230d712dbe9adc99d0|Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje]], įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, nekilnojamasis turtas, kuris visas ar kurio dalis naudojami pajamoms iš žemės ūkio veiklos ir (ar) kooperatinių bendrovių (kooperatyvų) pajamoms už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus gauti (uždirbti);“.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-aef266d85c50e3253f5222ff
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

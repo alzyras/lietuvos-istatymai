@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9BA65B99577E"
 pavadinimas: "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo preambulės, 2 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo preambulės, 2 ir 5 straipsnių pakeitimo įstatymas"
+  - "Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo preambulės, 2 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.9BA65B99577E.md"
 latest_sha256: "100961b73ee5876466a8b02b8e0a4a88299632afe79fe3f21bf976fd98db7ec6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9BA65B99577E]]"
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo preambulės, 2 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9BA65B99577E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9BA65B99577E
+- Ryšiai: [[Ryšiai/TAR.9BA65B99577E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo preambulės pakeitimas
+### 1 straipsnis. Įstatymo preambulės pakeitimas ^s-a13a6dd11ef5d8809dc9c072
 
 
 Pakeisti Įstatymo preambulę ir ją išdėstyti taip:
@@ -68,7 +73,7 @@ priima šį įstatymą.“
 
 
 
-### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-17410a995c2d8a83d7af5fb8
 
 
 2 straipsnio 1 dalyje vietoj žodžių „nusikaltimų žmonijai ir žmoniškumui“ įrašyti žodžius „bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų“ ir šią dalį išdėstyti taip:
@@ -78,26 +83,26 @@ priima šį įstatymą.“
 
 
 
-### 3 straipsnis. 5 straipsnio 2 ir 18 punktų pakeitimas
+### 3 straipsnis. 5 straipsnio 2 ir 18 punktų pakeitimas ^s-d4ab3e4f6b3ec82ae3fd6308
 
 
-1. 5 straipsnio 2 punkte po žodžių „genocido bei“ įrašyti žodį „kitų“, žodžius „nustato genocido organizatorius bei vykdytojus ir pateikia medžiagą apie juos; inicijuoja baudžiamųjų bylų iškėlimą“ išbraukti ir šį punktą išdėstyti taip: ^2bc669596a24bda5a8a5c36c
+1. 5 straipsnio 2 punkte po žodžių „genocido bei“ įrašyti žodį „kitų“, žodžius „nustato genocido organizatorius bei vykdytojus ir pateikia medžiagą apie juos; inicijuoja baudžiamųjų bylų iškėlimą“ išbraukti ir šį punktą išdėstyti taip: ^s-f6aff147682ee2e5b1eddfed
 
 
 „2) renka, kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus nusikaltimus, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;“.
 
 
-2. 5 straipsnio 18 punkte vietoj žodžio „kvotos“ įrašyti žodžius „ikiteisminio tyrimo“, žodžius „kontroliuoja, kad šis tyrimas nebūtų vilkinamas“ išbraukti, vietoj žodžių „nusikaltimų, nusikaltimų žmonijai bei“ įrašyti žodžius „bei kitų nusikaltimų“ ir šį punktą išdėstyti taip: ^d887efe2b5abcda72986ef3b
+2. 5 straipsnio 18 punkte vietoj žodžio „kvotos“ įrašyti žodžius „ikiteisminio tyrimo“, žodžius „kontroliuoja, kad šis tyrimas nebūtų vilkinamas“ išbraukti, vietoj žodžių „nusikaltimų, nusikaltimų žmonijai bei“ įrašyti žodžius „bei kitų nusikaltimų“ ir šį punktą išdėstyti taip: ^s-2a2b4b56a8e3229588cd09b3
 
 
 „18) fiksuoja genocido ir Lietuvos gyventojų persekiojimo faktus ir teikia medžiagą apie konkrečius genocido vykdytojus valstybės teisėsaugos institucijoms; bendradarbiauja su šiomis institucijomis, deleguodamas savo atstovus į darbo grupes, vykdančias tyrimą ir turinčias ikiteisminio tyrimo teisę; gali būti pareiškėju teismuose dėl genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų;“.
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-395f2e4da049e2afc2320c4b
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

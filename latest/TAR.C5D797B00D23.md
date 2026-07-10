@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C5D797B00D23"
 pavadinimas: "Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo įstatymas"
+  - "saugomų teritorijų įstatymo 31 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-28"
 latest_path: "latest/TAR.C5D797B00D23.md"
 latest_sha256: "607b73fd747a76e12568dddbdf2e4b8f8b91a691105a27bdfabb2efa9d86b17e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C5D797B00D23]]"
 ---
 # Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C5D797B00D23.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C5D797B00D23
+- Ryšiai: [[Ryšiai/TAR.C5D797B00D23|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,13 +40,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 31 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 31 straipsnio 3 dalies pakeitimas ^s-39e35bd0a24843982c4f7e64
 
 
 Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Žemė, reikalinga specialioms gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių) apsaugos programoms įgyvendinti ir visuomenės poreikiams tenkinti (poilsiavietėms, specialiems poilsio parkams, pažintiniams takams, rekreacinei infrastruktūrai ir kt. įrengti), iš privačios žemės savininkų gali būti paimama arba tam tikslui valstybinės žemės naudojimo teisė ir valstybinės žemės nuomos sutartis prieš terminą nutraukiama Žemės įstatymo nustatyta tvarka. Žemė, reikalinga ypatingos valstybinės svarbos projektams įgyvendinti, iš privačios žemės savininkų gali būti paimama arba tam tikslui valstybinės žemės naudojimo teisė ir valstybinės žemės nuomos sutartis prieš terminą nutraukiama Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo nustatyta tvarka.“
+„3. Žemė, reikalinga specialioms gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių) apsaugos programoms įgyvendinti ir visuomenės poreikiams tenkinti (poilsiavietėms, specialiems poilsio parkams, pažintiniams takams, rekreacinei infrastruktūrai ir kt. įrengti), iš privačios žemės savininkų gali būti paimama arba tam tikslui valstybinės žemės naudojimo teisė ir valstybinės žemės nuomos sutartis prieš terminą nutraukiama [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka. Žemė, reikalinga ypatingos valstybinės svarbos projektams įgyvendinti, iš privačios žemės savininkų gali būti paimama arba tam tikslui valstybinės žemės naudojimo teisė ir valstybinės žemės nuomos sutartis prieš terminą nutraukiama [[latest/TAR.057DCC40ECC6|Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo]] nustatyta tvarka.“
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

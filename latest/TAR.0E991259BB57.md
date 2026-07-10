@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0E991259BB57"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims\" 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims\" 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims\" 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-19"
 latest_path: "latest/TAR.0E991259BB57.md"
 latest_sha256: "1f501f417b78187703cbb0803dd73e10ef93b379333c5f41c6afac498aa11bb2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0E991259BB57]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims" 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0E991259BB57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0E991259BB57
+- Ryšiai: [[Ryšiai/TAR.0E991259BB57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-ba451462d389d145e4cc1a6e
 
 
 2 straipsnio 1 dalyje vietoj skaičiaus „0,04“ įrašyti skaičių „0,02“ ir šią dalį išdėstyti taip:

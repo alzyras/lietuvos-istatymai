@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.541E9954CEEA"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-20"
 latest_path: "latest/TAR.541E9954CEEA.md"
 latest_sha256: "802372eb3b0f44f7b1a01e388525a22e47ce7f539acfd556abdcd75deb891fb1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.541E9954CEEA]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.541E9954CEEA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.541E9954CEEA
+- Ryšiai: [[Ryšiai/TAR.541E9954CEEA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,38 +38,38 @@ Vilnius
 
 
 
-### 1 straipsnis. 68 straipsnio 2, 6 dalių pakeitimas ir 7, 8 dalių pripažinimas netekusiomis galios
+### 1 straipsnis. 68 straipsnio 2, 6 dalių pakeitimas ir 7, 8 dalių pripažinimas netekusiomis galios ^s-c3777e5259c30cc1c8225fd0
 
 
-1. Pakeisti 68 straipsnio 2 dalį ir ją išdėstyti taip: ^fb359a5f61cf804cd275cc43
+1. Pakeisti 68 straipsnio 2 dalį ir ją išdėstyti taip: ^s-e896e5b4ac55e180b39baf5a
 
 
-„2. Profesinės karo tarnybos kariams mokama ligos pašalpa vidutinio atlyginimo ar jo dalies dydžio, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė bei kitos sąlygos nustatomos vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis.“
+„2. Profesinės karo tarnybos kariams mokama ligos pašalpa vidutinio atlyginimo ar jo dalies dydžio, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė bei kitos sąlygos nustatomos vadovaujantis [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo]] nuostatomis.“
 
 
-2. Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip: ^eda78cf42a527b5ab139a218
+2. Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip: ^s-b61bbaa7cf8d247a2b7ced38
 
 
-„6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas arba jo dalis. Mokamo vidutinio atlyginimo ar jo dalies dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis.“
+„6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas arba jo dalis. Mokamo vidutinio atlyginimo ar jo dalies dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo]] nuostatomis.“
 
 
-3. 68 straipsnio 7 dalį pripažinti netekusia galios. ^bc444e7fc81b426ce9d47e0e
+3. 68 straipsnio 7 dalį pripažinti netekusia galios. ^s-b1b084c1e331cc5f08679bfa
 
 
-4. 68 straipsnio 8 dalį pripažinti netekusia galios. ^fdbc296374bab1a947d007b7
+4. 68 straipsnio 8 dalį pripažinti netekusia galios. ^s-9e74b79543583a18fd212563
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-854a8f28f1570655ec469a72
 
 
-1. Šio įstatymo nuostatos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d. ^70d106424a05dccba67123cb
+1. Šio įstatymo nuostatos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d. ^s-99f85430503f8863f8d9b295
 
 
-2. Šio įstatymo nuostatos dėl laikinojo nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio 1 d. ^4981baa141a4593d959112d9
+2. Šio įstatymo nuostatos dėl laikinojo nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio 1 d. ^s-7bf86d01e6fb8d2b798e8818
 
 
-3. Šio įstatymo nuostatos taikomos po šio įstatymo įsigaliojimo skiriamoms išmokoms. ^2f9372b056c237ee755028ef
+3. Šio įstatymo nuostatos taikomos po šio įstatymo įsigaliojimo skiriamoms išmokoms. ^s-73ae561988c94c12b40404ef
 
 
 

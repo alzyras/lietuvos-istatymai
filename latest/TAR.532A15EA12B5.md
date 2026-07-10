@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.532A15EA12B5"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 1, 2, 3, 4, 5, 6 straipsnių bei priedėlio preambulės ir 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 skyrių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 1, 2, 3, 4, 5, 6 straipsnių bei priedėlio preambulės ir 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 skyrių pakeitimo ir papildymo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo 1, 2, 3, 4, 5, 6 straipsnių bei priedėlio preambulės ir 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 skyrių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-13"
 latest_path: "latest/TAR.532A15EA12B5.md"
 latest_sha256: "deae25aa7b7e1c0d434cc2c9616cd311c9ea7a14f3430580054386e2f5a60599"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.532A15EA12B5]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 1, 2, 3, 4, 5, 6 straipsnių bei priedėlio preambulės ir 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 skyrių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.532A15EA12B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.532A15EA12B5
+- Ryšiai: [[Ryšiai/TAR.532A15EA12B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. Įstatymo 1 straipsnio 3 dalies pakeitimas ^s-f5fe1ef8063a281a9c66f7f4
 
 
 1 straipsnio 3 dalyje vietoj žodžių „integracijos į Europos ir transatlantinę sąjungas“ įrašyti žodžius „narystės Europos ir transatlantinėje sąjungose“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 2 straipsnio papildymas
+### 2 straipsnis. Įstatymo 2 straipsnio papildymas ^s-fa02d24906c8de3499f0e5bd
 
 
 2 straipsnyje po žodžio „policija“ įrašyti žodžius „Valstybės saugumo departamentas“ ir šį straipsnį išdėstyti taip:
@@ -54,7 +59,7 @@ Lietuvos nacionalinį saugumą užtikrina Lietuvos Respublikos piliečiai, jų b
 
 
 
-### 3 straipsnis. Įstatymo 3 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. Įstatymo 3 straipsnio 1 dalies pakeitimas ^s-14e3a39c643edcb76e3491b7
 
 
 3 straipsnio 1 dalyje vietoj žodžių „Respublikos Prezidentas, Seimas“ įrašyti žodžius „Seimas, Respublikos Prezidentas“ ir šią dalį išdėstyti taip:
@@ -64,23 +69,23 @@ Lietuvos nacionalinį saugumą užtikrina Lietuvos Respublikos piliečiai, jų b
 
 
 
-### 4 straipsnis. Įstatymo 4 straipsnio 2 ir 3 dalių pakeitimas
+### 4 straipsnis. Įstatymo 4 straipsnio 2 ir 3 dalių pakeitimas ^s-6c2c2fc33e0e04e352d3a83e
 
 
-1. Pakeisti [[#^cc7a665e23fbdc9c887a8664|4 straipsnio 2 dalį]] ir ją išdėstyti taip: ^6abfa242371bee3f3c704fcc
+1. Pakeisti [[#^s-72df3b4dcb952b3ea4826c30|4 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-f39d2e6a21c6498fa9eb52e9
 
 
 „2. Seimas priima nacionalinio saugumo sistemos plėtrai reikalingus įstatymus.“
 
 
-2. 4 straipsnio 3 dalyje po žodžio „nuostatomis“ išbraukti žodžius „ir teikia Seimui“ ir šią dalį išdėstyti taip: ^cc7a665e23fbdc9c887a8664
+2. 4 straipsnio 3 dalyje po žodžio „nuostatomis“ išbraukti žodžius „ir teikia Seimui“ ir šią dalį išdėstyti taip: ^s-72df3b4dcb952b3ea4826c30
 
 
 „3. Vyriausybė, rengdama naujų ir galiojančių įstatymų pakeitimo projektus, jų nuostatas suderina su Nacionalinio saugumo pagrindų įstatymo ir Nacionalinio saugumo strategijos nuostatomis.“
 
 
 
-### 5 straipsnis. Įstatymo 5 straipsnio pakeitimas
+### 5 straipsnis. Įstatymo 5 straipsnio pakeitimas ^s-5740464ac3bb26274e1941ca
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -89,20 +94,20 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Ilgalaikės valstybinės saugumo stiprinimo programos
 
 
-1. Vyriausybė, Respublikos Prezidentas, vadovaudamiesi Nacionalinio saugumo pagrindais, pateikia Seimui pasiūlymus dėl ilgalaikių valstybinių saugumo stiprinimo programų rengimo plano. Jame numatoma programų rengimo tvarka ir atsakingos institucijos. Planą tvirtina Seimas nutarimu. ^74406812e2b5ff3fde7b3058
+1. Vyriausybė, Respublikos Prezidentas, vadovaudamiesi Nacionalinio saugumo pagrindais, pateikia Seimui pasiūlymus dėl ilgalaikių valstybinių saugumo stiprinimo programų rengimo plano. Jame numatoma programų rengimo tvarka ir atsakingos institucijos. Planą tvirtina Seimas nutarimu. ^s-4baff3f95b9e5193e9f28386
 
 
-2. Programų projektus Seimui pateikia Vyriausybė, išskyrus valstybės paslaptį sudarančias jų dalis. Pateiktas programas Seimas tvirtina nutarimu. Įslaptintas programas ar jų dalis svarsto Seimo Nacionalinio saugumo ir gynybos komitetas ir tvirtina Vyriausybė. ^8692e36b682b965b7f798adc
+2. Programų projektus Seimui pateikia Vyriausybė, išskyrus valstybės paslaptį sudarančias jų dalis. Pateiktas programas Seimas tvirtina nutarimu. Įslaptintas programas ar jų dalis svarsto Seimo Nacionalinio saugumo ir gynybos komitetas ir tvirtina Vyriausybė. ^s-176239d3b4fb8fd3b8da2ff0
 
 
-3. Vyriausybė, pateikdama ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia skaičiavimus, kiek lėšų joms įgyvendinti reikėtų skirti iš viso ir kiekvienais biudžetiniais metais. ^8fc09e8a0dbb49e4a2cbbe8b
+3. Vyriausybė, pateikdama ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia skaičiavimus, kiek lėšų joms įgyvendinti reikėtų skirti iš viso ir kiekvienais biudžetiniais metais. ^s-54871d6b16c70524b52e4fa6
 
 
-4. Vyriausybė, rengdama kiekvienų metų valstybės biudžeto projektus, numato lėšų ilgalaikėms valstybinėms saugumo stiprinimo programoms parengti ir koordinuoja jų įgyvendinimą.“ ^8b6bb915b002b2eaace868d2
+4. Vyriausybė, rengdama kiekvienų metų valstybės biudžeto projektus, numato lėšų ilgalaikėms valstybinėms saugumo stiprinimo programoms parengti ir koordinuoja jų įgyvendinimą.“ ^s-b43a6d3f33f5ee67fb94036c
 
 
 
-### 6 straipsnis. Įstatymo 6 straipsnio pakeitimas
+### 6 straipsnis. Įstatymo 6 straipsnio pakeitimas ^s-f11c334b72f3fbb79d1e150d
 
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
@@ -115,16 +120,16 @@ Vyriausybė atsiskaito už nacionalinio saugumo sistemos būklę ir plėtrą įs
 
 
 
-### 7 straipsnis. Įstatymo priedėlio preambulės pakeitimas
+### 7 straipsnis. Įstatymo priedėlio preambulės pakeitimas ^s-82a5ce1cb950e1efeb736421
 
 
-1. Priedėlio preambulės antroje pastraipoje po žodžio „besiremianti“ įrašyti žodžius „Tautos sukurtomis etninėmis kultūros vertybėmis bei“, po žodžio „Europos“ įrašyti žodžius „ir pasaulio“ ir šią pastraipą išdėstyti taip: ^1f9f94ed929274608b7483f1
+1. Priedėlio preambulės antroje pastraipoje po žodžio „besiremianti“ įrašyti žodžius „Tautos sukurtomis etninėmis kultūros vertybėmis bei“, po žodžio „Europos“ įrašyti žodžius „ir pasaulio“ ir šią pastraipą išdėstyti taip: ^s-76ed73b144e49a53abcdf222
 
 
 „– prieš daugelį amžių susikūrusi Lietuvos valstybė, besiremianti Tautos sukurtomis etninėmis kultūros vertybėmis bei Europą vienijančios krikščioniškosios kultūros pagrindais, yra neatskiriama Europos ir pasaulio tautų bendrijos dalis;“.
 
 
-2. Priedėlio preambulės ketvirtoje pastraipoje vietoj žodžių „tautinę tapatybę“ įrašyti žodžius „tautinį tapatumą ir savimonę“, penktoje pastraipoje vietoj žodžių „valstybės saugumas yra būtina demokratinės raidos sąlyga“ įrašyti žodžius „sukurta efektyvi nacionalinio saugumo sistema yra Tautos siekių bei demokratinės raidos užtikrinimo garantas“ ir šias pastraipas išdėstyti taip: ^8d129984d70faba44b48222e
+2. Priedėlio preambulės ketvirtoje pastraipoje vietoj žodžių „tautinę tapatybę“ įrašyti žodžius „tautinį tapatumą ir savimonę“, penktoje pastraipoje vietoj žodžių „valstybės saugumas yra būtina demokratinės raidos sąlyga“ įrašyti žodžius „sukurta efektyvi nacionalinio saugumo sistema yra Tautos siekių bei demokratinės raidos užtikrinimo garantas“ ir šias pastraipas išdėstyti taip: ^s-4032a46f18b97a1651f7bb37
 
 
 „– lietuvių tauta siekė ir tebesiekia išsaugoti savo laisvę, garantuoti saugią ir laisvą raidą savo etninėje žemėje, puoselėti tautinį tapatumą ir savimonę, ugdyti prigimtines kūrybos galias ir prisidėti prie pasaulio pažangos;
@@ -134,23 +139,23 @@ Vyriausybė atsiskaito už nacionalinio saugumo sistemos būklę ir plėtrą įs
 
 
 
-### 8 straipsnis.         Įstatymo priedėlio 1 skyriaus 1 dalies pakeitimas ir skyriaus papildymas 6 dalimi
+### 8 straipsnis.         Įstatymo priedėlio 1 skyriaus 1 dalies pakeitimas ir skyriaus papildymas 6 dalimi ^s-6df515b64ba9fbf495628eb2
 
 
-1. 1 skyriaus [[#^e688c8e94b1f1223cbe69fdc|1 dalyje]] vietoj žodžių „užtikrinti Tautos ir valstybės saugų būvį“ įrašyti žodžius „užtikrinti Tautos saugų būvį ir valstybės vidaus bei išorės saugumą“ ir šią dalį išdėstyti taip: ^e688c8e94b1f1223cbe69fdc
+1. 1 skyriaus [[#^s-da1fd98d2d86709fcfcf03de|1 dalyje]] vietoj žodžių „užtikrinti Tautos ir valstybės saugų būvį“ įrašyti žodžius „užtikrinti Tautos saugų būvį ir valstybės vidaus bei išorės saugumą“ ir šią dalį išdėstyti taip: ^s-da1fd98d2d86709fcfcf03de
 
 
 „Nacionalinio saugumo politikos tikslas – sutelktomis valstybės ir piliečių pastangomis plėtoti ir stiprinti demokratiją, užtikrinti Tautos saugų būvį ir valstybės vidaus bei išorės saugumą, atgrasyti kiekvieną potencialų užpuoliką, ginti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką.“
 
 
-2. Papildyti 1 skyrių 6 dalimi: ^b352a13e1d7e52844b5eab76
+2. Papildyti 1 skyrių 6 dalimi: ^s-2c3ff775cea4ebc7061499db
 
 
 „Lietuvos nacionalinio saugumo politiką sudaro valstybės užsienio, gynybos, ekonominės, viešojo saugumo, socialinės, kultūros, sveikatos, aplinkos apsaugos, švietimo ir mokslo bei kitos valstybės politikos nuostatos, užtikrinančios nacionalinį saugumą. Atskirų valstybės sričių ilgalaikio funkcionavimo strategijos ir doktrinos remiasi šiuo įstatymu ir Nacionalinio saugumo strategija.“
 
 
 
-### 9 straipsnis. Įstatymo priedėlio 2 skyriaus pirmojo skirsnio papildymas
+### 9 straipsnis. Įstatymo priedėlio 2 skyriaus pirmojo skirsnio papildymas ^s-8999495359a0b993944813d9
 
 
 Papildyti 2 skyriaus pirmąjį skirsnį aštunta pastraipa ir šį skirsnį išdėstyti taip:
@@ -171,10 +176,10 @@ Pagrindiniai nacionalinio saugumo objektai yra:
 
 
 
-### 10 straipsnis. Įstatymo priedėlio 2 skyriaus trečiojo skirsnio pakeitimas ir papildymas
+### 10 straipsnis. Įstatymo priedėlio 2 skyriaus trečiojo skirsnio pakeitimas ir papildymas ^s-7fce95c6e5511d32cf6f6a05
 
 
-1. Pakeisti ir papildyti 2 skyriaus trečiojo skirsnio [[#^948eb4cb1333877120cbda25|1 dalies]] a punktą ir jį išdėstyti taip: ^948eb4cb1333877120cbda25
+1. Pakeisti ir papildyti 2 skyriaus trečiojo skirsnio [[#^s-ed043056b4e152aaa5d9c3df|1 dalies]] a punktą ir jį išdėstyti taip: ^s-ed043056b4e152aaa5d9c3df
 
 
 „a) VALSTYBĖ:
@@ -204,20 +209,20 @@ Pagrindiniai nacionalinio saugumo objektai yra:
 – integruodamasi į Europos Sąjungą (EU) ir Šiaurės Atlanto sutarties organizaciją (NATO) bei kaip visateisė narė aktyviai dalyvaudama šiose organizacijose;“.
 
 
-2. Pakeisti 2 skyriaus trečiojo skirsnio [[#^46e0908c47891fa97a944dda|2 dalį]] ir ją išdėstyti taip: ^46e0908c47891fa97a944dda
+2. Pakeisti 2 skyriaus trečiojo skirsnio [[#^s-7470a3cab1223c10436a04c6|2 dalį]] ir ją išdėstyti taip: ^s-7470a3cab1223c10436a04c6
 
 
 „Nacionalinio saugumo institucijos veikia ir plėtojamos, saugumo stiprinimo priemonės rengiamos ir vykdomos vadovaujantis demokratinės kontrolės principais.“
 
 
-3. Pakeisti 2 skyriaus trečiojo skirsnio [[#^801080fddda7502822001f80|3 dalį]] ir ją išdėstyti taip: ^801080fddda7502822001f80
+3. Pakeisti 2 skyriaus trečiojo skirsnio [[#^s-1881f36785042fd2c61ee9b6|3 dalį]] ir ją išdėstyti taip: ^s-1881f36785042fd2c61ee9b6
 
 
 „Valstybės institucijų vykdomas nacionalinio saugumo priemones nustato šis įstatymas, Nacionalinio saugumo strategija, ilgalaikės valstybinės saugumo stiprinimo programos bei kiti teisės aktai. Šioms priemonėms finansuoti naudojamos nacionalinio biudžeto, kreditų bei paramos lėšos.“
 
 
 
-### 11 straipsnis. Įstatymo priedėlio 4 skyriaus pakeitimas
+### 11 straipsnis. Įstatymo priedėlio 4 skyriaus pakeitimas ^s-f1f75541f4bc540134f53ebd
 
 
 Pakeisti 4 skyrių ir jį išdėstyti taip:
@@ -307,10 +312,10 @@ Tautinių mažumų bendrijoms priklausančių piliečių teises puoselėti savo 
 
 
 
-### 12 straipsnis. Įstatymo priedėlio 5 skyriaus pakeitimas
+### 12 straipsnis. Įstatymo priedėlio 5 skyriaus pakeitimas ^s-0d0f95a532512825afc8245c
 
 
-1. 5 skyriaus pavadinime po žodžio „SVARBIAUSIOS“ įrašyti žodį „NACIONALINĮ“ ir pavadinimą išdėstyti taip: ^ca37e0228b791a79a874ccab
+1. 5 skyriaus pavadinime po žodžio „SVARBIAUSIOS“ įrašyti žodį „NACIONALINĮ“ ir pavadinimą išdėstyti taip: ^s-5ecd08c512e892e2825c6038
 
 
 
@@ -320,14 +325,14 @@ UŽSIENIO POLITIKOS NUOSTATOS“
 
 
 
-2. 5 skyriaus 4 dalies penktoje pastraipoje po žodžio „kelią“ įrašyti žodį „terorizmui“ ir šią pastraipą išdėstyti taip: ^8708acc8b500b5f1eb5a528f
+2. 5 skyriaus 4 dalies penktoje pastraipoje po žodžio „kelią“ įrašyti žodį „terorizmui“ ir šią pastraipą išdėstyti taip: ^s-9a8b5607be478f60868e25bc
 
 
 „– aktyviai prisidėti prie tarptautinės bendrijos pastangų užkirsti kelią terorizmui, konfliktams, įvesti, atkurti ir palaikyti taiką krizių paveiktuose regionuose.
 
 
 
-### 13 straipsnis. Įstatymo priedėlio 7 skyriaus antrojo skirsnio 3 dalies pakeitimas
+### 13 straipsnis. Įstatymo priedėlio 7 skyriaus antrojo skirsnio 3 dalies pakeitimas ^s-6997e46cd2de6a05cce97bee
 
 
 7 skyriaus antrojo skirsnio 3 dalyje vietoj žodžių „specializuoti policijos daliniai“ įrašyti žodžius „policijos viešojo saugumo dalinys (tarnyba)“ ir šią dalį išdėstyti taip:
@@ -335,7 +340,7 @@ UŽSIENIO POLITIKOS NUOSTATOS“
 
 
 
-### 14 straipsnis. Įstatymo priedėlio 7 skyriaus trečiojo skirsnio pakeitimas
+### 14 straipsnis. Įstatymo priedėlio 7 skyriaus trečiojo skirsnio pakeitimas ^s-f5ecfef2148c6f7fb72bcce4
 
 
 Pakeisti 7 skyriaus trečiąjį skirsnį ir jį išdėstyti taip:
@@ -352,36 +357,36 @@ Priešo užimtose teritorijose naudojami ir partizaninės kovos veiksmai.“
 
 
 
-### 15 straipsnis. Įstatymo priedėlio 7 skyriaus ketvirtojo skirsnio 3 ir 4 dalių pakeitimas
+### 15 straipsnis. Įstatymo priedėlio 7 skyriaus ketvirtojo skirsnio 3 ir 4 dalių pakeitimas ^s-3159b34018d7f686bb451f8f
 
 
-1. 7 skyriaus ketvirtojo skirsnio 3 dalyje išbraukti žodį „reguliariai“ ir šią dalį išdėstyti taip: ^525fa1e1959e90062eda8044
+1. 7 skyriaus ketvirtojo skirsnio 3 dalyje išbraukti žodį „reguliariai“ ir šią dalį išdėstyti taip: ^s-5f81502c2c01f9ed0e82b299
 
 
 „Piliečiai mokomi įvairių pasipriešinimo ir civilinės saugos būdų. Valstybė juos aprūpina būtinomis techninėmis priemonėmis.“
 
 
-2. 7 skyriaus ketvirtojo skirsnio 4 dalyje išbraukti žodžius „pasipriešinimo būdų mokymas ir įgūdžių ugdymas“ ir šią dalį išdėstyti taip: ^f3867b84b4e488e65e44d273
+2. 7 skyriaus ketvirtojo skirsnio 4 dalyje išbraukti žodžius „pasipriešinimo būdų mokymas ir įgūdžių ugdymas“ ir šią dalį išdėstyti taip: ^s-02d24e35bdc4daba8a3975c6
 
 
 „Patriotizmo ugdymas yra ir mokyklos privalomosios lavinimo programos sudėtinė dalis.“
 
 
 
-### 16 straipsnis.       Įstatymo priedėlio 8 skyriaus 5 dalies pakeitimas ir 10 dalies pripažinimas netekusia galios
+### 16 straipsnis.       Įstatymo priedėlio 8 skyriaus 5 dalies pakeitimas ir 10 dalies pripažinimas netekusia galios ^s-07545eaf8412051b855c60e3
 
 
-1. 8 skyriaus 5 dalies pirmame sakinyje išbraukti žodžius „piliečių demokratiškai išrinktas“ ir šią dalį išdėstyti taip: ^11938857aa0bdfa7317ddd32
+1. 8 skyriaus 5 dalies pirmame sakinyje išbraukti žodžius „piliečių demokratiškai išrinktas“ ir šią dalį išdėstyti taip: ^s-75b1d300eaed99ab582ce92d
 
 
 „Ginkluotųjų pajėgų organizaciją, plėtrą, apginklavimo poreikius, asignavimus nustato Seimas. Seimas įstatymų nustatyta tvarka vykdo ginkluotųjų pajėgų ir kitų nacionalinio saugumo institucijų parlamentinę kontrolę. Už ginkluotųjų pajėgų tvarkymą ir vadovavimą joms Seimui yra atsakingi Vyriausybė, krašto apsaugos ministras ir kariuomenės vadas.“
 
 
-2. 8 skyriaus 10 dalį pripažinti netekusia galios. ^1dace10605dda34a088fefe8
+2. 8 skyriaus 10 dalį pripažinti netekusia galios. ^s-2bba0a1719776f1b2fdabb31
 
 
 
-### 17 straipsnis. Įstatymo priedėlio 9 skyriaus pakeitimas
+### 17 straipsnis. Įstatymo priedėlio 9 skyriaus pakeitimas ^s-e15aa6bc2e854e6141f6d8f0
 
 
 Pakeisti 9 skyrių ir jį išdėstyti taip:
@@ -397,7 +402,7 @@ Vyriausybės įsteigtas strateginių tyrimų ir analizės centras analizuoja bei
 
 
 
-### 18 straipsnis. Įstatymo priedėlio 11 skyriaus pakeitimas
+### 18 straipsnis. Įstatymo priedėlio 11 skyriaus pakeitimas ^s-77a57be95aec6ffa1dc50444
 
 
 Pakeisti 11 skyrių ir jį išdėstyti taip:
@@ -428,7 +433,7 @@ Prireikus parengiamos ir kitos programos.“
 
 
 
-### 19 straipsnis. Įstatymo priedėlio 12 skyriaus pakeitimas
+### 19 straipsnis. Įstatymo priedėlio 12 skyriaus pakeitimas ^s-77cc2cea9522fad794bd10c0
 
 
 Pakeisti 12 skyrių ir jį išdėstyti taip:
@@ -452,7 +457,7 @@ VYKDOMOSIOS IR KITOS INSTITUCIJOS:
 
 
 
-### 20 straipsnis. Įstatymo priedėlio 14 skyriaus pakeitimas
+### 20 straipsnis. Įstatymo priedėlio 14 skyriaus pakeitimas ^s-85756b9434ca89a59d30106a
 
 
 Pakeisti 14 skyrių ir jį išdėstyti taip:
@@ -464,7 +469,7 @@ VYRIAUSYBĖS VEIKLA NACIONALINIAM SAUGUMUI UŽTIKRINTI
 
 
 
-### PirmasIS skirsnis
+### PirmasIS skirsnis ^s-293df0a7b74de68de79f4bb3
 PAGRINDINIAI VYRIAUSYBĖS UŽDAVINIAI
 
 Vyriausybė saugo Lietuvos Respublikos teritorijos neliečiamybę, garantuoja valstybės saugumą ir viešąją tvarką. Vyriausybė koordinuoja nacionalinį saugumą stiprinančių priemonių įgyvendinimą bei ministerijų ir kitų valstybės įstaigų, atliekančių šias funkcijas, veiklą, sutelkia šias įstaigas aktualiems ir svarbiems nacionalinio saugumo uždaviniams spręsti.
@@ -475,7 +480,7 @@ Vyriausybė, teikdama Seimui metinę ataskaitą, dalyje apie nacionalinio saugum
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-650d3665a7869abc3db2b506
 KRIZIŲ VALDYMAS
 
 Krizių valdymo sistema kuriama ir plėtojama pavojų keliančioms bei ekstremalioms situacijoms ir grėsmėms prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
@@ -485,7 +490,7 @@ Krizių valdymą reglamentuoja įstatymai ir kiti teisės aktai.“
 
 
 
-### 21 straipsnis. Įstatymo priedėlio 15 skyriaus pirmojo skirsnio pakeitimas
+### 21 straipsnis. Įstatymo priedėlio 15 skyriaus pirmojo skirsnio pakeitimas ^s-d726d9fa2d3d33bbd34d7269
 
 
 Pakeisti 15 skyriaus pirmąjį skirsnį ir jį išdėstyti taip:
@@ -501,7 +506,7 @@ Seimas įgyvendina nacionalinio saugumo pagrindų nuostatas sukurdamas teisinę 
 
 
 
-### 22 straipsnis. Įstatymo priedėlio 15 skyriaus trečiojo skirsnio pakeitimas
+### 22 straipsnis. Įstatymo priedėlio 15 skyriaus trečiojo skirsnio pakeitimas ^s-cd4b5ae612f79b84f6f45634
 
 
 Pakeisti 15 skyriaus trečiąjį skirsnį ir jį išdėstyti taip:
@@ -515,7 +520,7 @@ Seimas vykdo Vyriausybės bei kitų nacionalinį saugumą užtikrinančių vykdo
 
 
 
-### 23 straipsnis. Įstatymo priedėlio 16 skyriaus pakeitimas
+### 23 straipsnis. Įstatymo priedėlio 16 skyriaus pakeitimas ^s-b6bda760e26c8252fbdeaae2
 
 
 16 skyriuje vietoj žodžių „valstybės saugumo užtikrinimo ir gynimo“ įrašyti žodžius „nacionalinio saugumo užtikrinimo“ ir šį skyrių išdėstyti taip:
@@ -529,7 +534,7 @@ Svarbiausius valstybės gynimo reikalus, įskaitant valstybės institucijų veik
 
 
 
-### 24 straipsnis. Įstatymo priedėlio 17 skyriaus 2 dalies pakeitimas
+### 24 straipsnis. Įstatymo priedėlio 17 skyriaus 2 dalies pakeitimas ^s-c469dc8174492bf52a2845aa
 
 
 17 skyriaus 2 dalyje vietoj žodžių „tarptautinio saugumo grėsmių“ įrašyti žodžius „tarptautinių grėsmių saugumui“ ir šią dalį išdėstyti taip:
@@ -539,7 +544,7 @@ Svarbiausius valstybės gynimo reikalus, įskaitant valstybės institucijų veik
 
 
 
-### 25 straipsnis. Įstatymo priedėlio 19 skyriaus pakeitimas
+### 25 straipsnis. Įstatymo priedėlio 19 skyriaus pakeitimas ^s-a8d8a08e1438c46859fe64cb
 
 
 Pakeisti 19 skyrių ir jį išdėstyti taip:
@@ -551,7 +556,7 @@ VIDAUS REIKALŲ MINISTERIJA, POLICIJA IR KITOS MINISTERIJOS VALDYMO SRIČIAI PRI
 
 Vidaus reikalų ministerija pagal savo kompetenciją vadovauja viešojo saugumo užtikrinimo valstybės politikos įgyvendinimui ir jį kontroliuoja.
 Pagrindinė policijos, kaip nacionalinio saugumo sistemos sudedamosios dalies, paskirtis – užtikrinti asmens ir visuomenės saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su nusikalstamomis veikomis. Policijos funkcijas nustato įstatymas.
-Vidaus reikalų ministerijos vidaus tarnybos daliniai reorganizuojami į policijos viešojo saugumo dalinį (tarnybą), kuris yra tiesiogiai pavaldus vidaus reikalų ministrui. Šio dalinio (tarnybos) funkcijas ir panaudojimo tvarką reglamentuoja Policijos veiklos įstatymas.
+Vidaus reikalų ministerijos vidaus tarnybos daliniai reorganizuojami į policijos viešojo saugumo dalinį (tarnybą), kuris yra tiesiogiai pavaldus vidaus reikalų ministrui. Šio dalinio (tarnybos) funkcijas ir panaudojimo tvarką reglamentuoja [[latest/TAR.CA89372D00AA|Policijos veiklos įstatymas]].
 Valstybės finansų sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja įstatymas.
 Lietuvos Respublikos vadovybės ir oficialių svečių apsaugą nuo teroro aktų, smurto ir kitokio kėsinimosi bei su šio uždavinio įgyvendinimu susijusių saugomų objektų apsaugą užtikrina Vadovybės apsaugos departamentas. Jo veiklos pagrindus bei saugomų asmenų statusą nustato įstatymas.
 Valstybės sienos apsaugos tarnybos paskirtis – įgyvendinti valstybės sienos sausumoje, jūroje, Kuršių mariose ir pasienio vidaus vandenyse apsaugą ir valstybės sienos kirtimo kontrolę, užkardyti ir reguliuoti pasienio incidentus. Pagal Gynybos štabo planus šios tarnybos daliniai rengiami ginkluotos gynybos veiksmams valstybės gynybos (karo) atveju. Jų rengimo gynybai tvarką reglamentuoja įstatymas.
@@ -561,7 +566,7 @@ Policija, Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerij
 
 
 
-### 26 straipsnis. Įstatymo priedėlio 20 skyriaus 1 dalies pakeitimas
+### 26 straipsnis. Įstatymo priedėlio 20 skyriaus 1 dalies pakeitimas ^s-bdb220219eba487ea0ff4865
 
 
 20 skyriaus 1 dalyje vietoj žodžių „Respublikos Prezidentui ir Seimui“ įrašyti žodžius „Seimui ir Respublikos Prezidentui“ ir šią dalį išdėstyti taip:
@@ -571,7 +576,7 @@ Policija, Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerij
 
 
 
-### 27 straipsnis. Įstatymo priedėlio 21 skyriaus pakeitimas
+### 27 straipsnis. Įstatymo priedėlio 21 skyriaus pakeitimas ^s-f70e3789173b3bbed865d4a1
 
 
 Pakeisti 21 skyrių ir jį išdėstyti taip:
@@ -587,7 +592,7 @@ Jeigu reikia, katastrofoms ir kitoms didelio masto nelaimėms įveikti, gelbėji
 
 
 
-### 28 straipsnis. Įstatymo priedėlio 23 skyriaus pakeitimas
+### 28 straipsnis. Įstatymo priedėlio 23 skyriaus pakeitimas ^s-fbc3aad649662c61da16ccba
 
 
 Pakeisti 23 skyrių ir jį išdėstyti taip:

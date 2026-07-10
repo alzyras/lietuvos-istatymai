@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3BF5553284FB"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.3BF5553284FB.md"
 latest_sha256: "1e6c980428230a4fd573c525e6b3ee5f436a05d39d8341cb9f243ef3c18f36b2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3BF5553284FB]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3BF5553284FB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3BF5553284FB
+- Ryšiai: [[Ryšiai/TAR.3BF5553284FB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies papildymas 10 punktu
+### 1 straipsnis. 11 straipsnio 1 dalies papildymas 10 punktu ^s-94cad2e15d1edd3e18a96eb6
 
 
 Papildyti 11 straipsnio 1 dalį 10 punktu:
@@ -42,7 +47,7 @@ Papildyti 11 straipsnio 1 dalį 10 punktu:
 
 
 
-### 2 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-32621038f3d468684939963d
 
 
 13 straipsnio 1 dalyje vietoj skaičių „8, 9“ įrašyti skaičius „8–10“ ir šią dalį išdėstyti taip:
@@ -52,7 +57,7 @@ Papildyti 11 straipsnio 1 dalį 10 punktu:
 
 
 
-### 3 straipsnis. 14 straipsnio 5 dalies 5 punkto pakeitimas
+### 3 straipsnis. 14 straipsnio 5 dalies 5 punkto pakeitimas ^s-08225f0930fd7166e28d7ab2
 
 
 14 straipsnio 5 dalies 5 punkte vietoj žodžio ir skaičiaus „ir 5“ įrašyti žodį ir skaičius „5 ir 10“ ir šį punktą išdėstyti taip:
@@ -62,7 +67,7 @@ Papildyti 11 straipsnio 1 dalį 10 punktu:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-5c42fa1898cc34d57ffe4d86
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

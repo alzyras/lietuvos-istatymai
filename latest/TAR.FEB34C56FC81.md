@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FEB34C56FC81"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymo 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymo 24 straipsnio pakeitimo įstatymas"
+  - "aplinkos apsaugos įstatymo 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.FEB34C56FC81.md"
 latest_sha256: "c426a5667f5bbe0ce52ab7ff64f2f082ffbaeaf45a39dd3c97ba8d973399d510"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FEB34C56FC81]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FEB34C56FC81.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FEB34C56FC81
+- Ryšiai: [[Ryšiai/TAR.FEB34C56FC81|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 24 straipsnio 8 dalies pakeitimas ^s-b5061704217267df06e4be73
 
 
 24 straipsnio 8 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:

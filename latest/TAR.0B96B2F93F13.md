@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0B96B2F93F13"
 pavadinimas: "Lietuvos Respublikos išmokų vaikams įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos išmokų vaikams įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "išmokų vaikams įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-21"
 latest_path: "latest/TAR.0B96B2F93F13.md"
 latest_sha256: "a60c709dcaaa66678d866a7ab10bf2a8c78e9223de8e5131a810f1c76c9bdb76"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0B96B2F93F13]]"
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0B96B2F93F13.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0B96B2F93F13
+- Ryšiai: [[Ryšiai/TAR.0B96B2F93F13|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 2 dalies pakeitimas ^s-94e25fbd41f0cc419beeaf7f
 
 
 22 straipsnio 2 dalyje vietoj datos „2009 m. sausio 1 d.“ įrašyti datą „2008 m. sausio 1 d.“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6D7029E93D6E"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-14"
 latest_path: "latest/TAR.6D7029E93D6E.md"
 latest_sha256: "169ee93eec92d5b798d788507bf77afe199496f1b2b674a33ba7848423fbd19a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6D7029E93D6E]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6D7029E93D6E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6D7029E93D6E
+- Ryšiai: [[Ryšiai/TAR.6D7029E93D6E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 16 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 16 punkto pakeitimas ^s-faee6eb41a89738fd88d32b8
 
 
 Pakeisti 7 straipsnio 16 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 7 straipsnio 16 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ee244ba875097adf3ca6c2f9
 
 
 Šis įstatymas įsigalioja 2011 m. liepos 1 d.

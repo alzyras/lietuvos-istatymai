@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.424714E938BD"
 pavadinimas: "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 5, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 5, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinės darbo inspekcijos įstatymo 5, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-10"
 latest_path: "latest/TAR.424714E938BD.md"
 latest_sha256: "b9614e88a72053b41194f6421588328300dc26547502c48e74fbc5f13325c10f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.424714E938BD]]"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 5, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.424714E938BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.424714E938BD
+- Ryšiai: [[Ryšiai/TAR.424714E938BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,86 +38,86 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas
+### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas ^s-a2b0561a455c18fec12cbffb
 
 
-1. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip: ^a7e4cf4003018e22df74918d
+1. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip: ^s-22dd766521bb578e5f1a96c5
 
 
 „2. Valstybinę darbo inspekciją sudaro administracija ir teritoriniai skyriai.“
 
 
-2. Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip: ^5ab6848a9a81a9f88d0b0d4b
+2. Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip: ^s-257f33744ab53961df5ae868
 
 
 „3. Administracijos padalinių ir teritorinių skyrių (toliau – struktūriniai padaliniai) skaičius ir pavaldumas nustatomas tvirtinant Valstybinės darbo inspekcijos struktūrą. Struktūriniuose padaliniuose gali būti sektoriai, vienijantys Valstybinės darbo inspekcijos tam tikros veiklos specialistus.“
 
 
 
-### 2 straipsnis. 6 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-92f26331982a12c52fd8107e
 
 
-1. Papildyti [[#^bb4f647fdf25f941e05457af|6 straipsnio 1 dalį]] nauju 25 punktu: ^1b6f635af9d37c73f2231b2b
+1. Papildyti [[#^s-6c8aacd4ff04121ec639e0ea|6 straipsnio 1 dalį]] nauju 25 punktu: ^s-c32287f6c660606e62f54535
 
 
 „25) organizuoja darbo ginčų komisijų darbą;“.
 
 
-2. Buvusį 6 straipsnio 25 punktą laikyti 26 punktu. ^9f54594a3fdfca95d656ba75
+2. Buvusį 6 straipsnio 25 punktą laikyti 26 punktu. ^s-1b3f42b7ef397dc1c849d370
 
 
 
-### 3 straipsnis. 7 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
+### 3 straipsnis. 7 straipsnio 1 dalies 3 ir 4 punktų pakeitimas ^s-cd5fbf09a4945d24480c2f37
 
 
-1. Pakeisti 7 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip: ^75a4318245c1c3ccb6a418ac
+1. Pakeisti 7 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip: ^s-e52b13382586da548bf73db9
 
 
 „3) struktūrinių padalinių vedėjus – vyriausiuosius darbo inspektorius;“.
 
 
-2. Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^1f47cb6773a564eae1f02423
+2. Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^s-34aae9d752e8718a087753a7
 
 
 „4) struktūrinių padalinių vedėjų pavaduotojus – vyriausiuosius darbo inspektorius;“.
 
 
 
-### 4 straipsnis. 8 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-3a7de3a7c5722990332aa63c
 
 
-1. Pakeisti 8 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^c0e1bd1f239215e2dd5c97c0
+1. Pakeisti 8 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^s-c439bf4f2832d9230ba6d4ab
 
 
 „3) tvirtina Valstybinės darbo inspekcijos darbo reglamentą, struktūrinių padalinių nuostatus ir pareigybių aprašymus, reikalavimų, protokolų, nutarimų formas ir kitus dokumentus pagal savo kompetenciją, įgalioja jo nesant vieną iš pavaduotojų atlikti vyriausiojo valstybinio darbo inspektoriaus pareigas;“.
 
 
-2. 8 straipsnio 2 dalies 4 punktą pripažinti netekusiu galios. ^f01afe9acec0ad47b12eaf6b
+2. 8 straipsnio 2 dalies 4 punktą pripažinti netekusiu galios. ^s-50a2345f427637332fce8b30
 
 
-3. Buvusį 8 straipsnio 2 dalies 5 punktą laikyti 4 punktu. ^3bde237bd74f3a52be20a6e0
+3. Buvusį 8 straipsnio 2 dalies 5 punktą laikyti 4 punktu. ^s-9da2cdf495cc93a1914a0d9a
 
 
-4. Buvusį 8 straipsnio 2 dalies 6 punktą laikyti 5 punktu, jį pakeisti ir išdėstyti taip: ^ba9ad312f500827b2de2bf95
+4. Buvusį 8 straipsnio 2 dalies 6 punktą laikyti 5 punktu, jį pakeisti ir išdėstyti taip: ^s-3054697f86a030995e1e2b77
 
 
 „5) nustato Valstybinės darbo inspekcijos struktūrinių padalinių darbo laiko režimus, atsižvelgdamas į jų veiklos specifiką;“.
 
 
-5. Buvusius 8 straipsnio 2 dalies 7, 8, 9, 10, 11, 12 punktus laikyti atitinkamai 6, 7, 8, 9, 10, 11 punktais. ^416276fc9aeb169ef37198d2
+5. Buvusius 8 straipsnio 2 dalies 7, 8, 9, 10, 11, 12 punktus laikyti atitinkamai 6, 7, 8, 9, 10, 11 punktais. ^s-e9455df93b06e91ab3eef1bd
 
 
-6. Papildyti 8 straipsnio 2 dalį nauju 11 punktu: ^25ce28401d6f68c989f09dd3
+6. Papildyti 8 straipsnio 2 dalį nauju 11 punktu: ^s-b46e5f1ca70e2e53e911ffc2
 
 
 „11) skiria darbo ginčų komisijų pirmininkus;“.
 
 
-7. Buvusį 8 straipsnio 11 punktą laikyti 12 punktu. ^8449bb24d6d6b4e703fcd3d4
+7. Buvusį 8 straipsnio 11 punktą laikyti 12 punktu. ^s-a4401cc8ecfafc996b84c79d
 
 
 
-### 5 straipsnis. 9 straipsnio 1 dalies 3 punkto pakeitimas
+### 5 straipsnis. 9 straipsnio 1 dalies 3 punkto pakeitimas ^s-903cf9983ec588250e04a2eb
 
 
 Pakeisti 9 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
@@ -122,13 +127,13 @@ Pakeisti 9 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-eaf85adbc7018fda84ec157e
 
 
-1. Šio įstatymo [[#2 straipsnis. 6 straipsnio papildymas ir pakeitimas|2 straipsnis]] ir [[#4 straipsnis. 8 straipsnio pakeitimas ir papildymas|4 straipsnio]] 6 ir 7 dalys įsigalioja 2013 m. sausio 1 d. ^bb4f647fdf25f941e05457af
+1. Šio įstatymo [[#^s-92f26331982a12c52fd8107e|2 straipsnis]] ir [[#^s-3a7de3a7c5722990332aa63c|4 straipsnio]] 6 ir 7 dalys įsigalioja 2013 m. sausio 1 d. ^s-6c8aacd4ff04121ec639e0ea
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2013 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^461354e494450dabff8e8b60
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2013 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-6804cd0fc61d6895d3967166
 
 
 

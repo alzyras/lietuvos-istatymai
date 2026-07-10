@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0A19475ECAFE"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 6 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-21"
 latest_path: "latest/TAR.0A19475ECAFE.md"
 latest_sha256: "81acd946f1d339b13b7e9839259314d6e79faf7aefed66f981b64d881dff2df5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0A19475ECAFE]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0A19475ECAFE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0A19475ECAFE
+- Ryšiai: [[Ryšiai/TAR.0A19475ECAFE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 2 dalies papildymas 16 punktu
+### 1 straipsnis. 6 straipsnio 2 dalies papildymas 16 punktu ^s-8bdfb4e151cf223020578d45
 
 
 Papildyti 6 straipsnio 2 dalį 16 punktu:

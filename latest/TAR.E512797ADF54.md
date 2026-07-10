@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E512797ADF54"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 2, 4, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.E512797ADF54.md"
 latest_sha256: "150b02858874055e2e1f0bd397043c54928bf4cd9d77acb4d0c2ec837e1e7aea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E512797ADF54]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E512797ADF54.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E512797ADF54
+- Ryšiai: [[Ryšiai/TAR.E512797ADF54|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,33 +38,33 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas ^s-ba55bf07a21efd3092927d58
 
 
 Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
-„8. Savarankiškai dirbantys asmenys – individualių įmonių savininkai; tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrieji nariai; asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme (advokatai, advokatų padėjėjai, notarai, antstoliai, verslo liudijimus turintys asmenys ir kiti asmenys); ūkininkai ir jų partneriai, tuo atveju, kai žemės ūkio valdos, įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 4 europinio dydžio vienetams arba didesnis, nustatomi vadovaujantis 1985 m. birželio 7 d. Europos Komisijos sprendimu 85/377/EEB (su vėlesniais pakeitimais), nustatančiu Bendrijos žemės ūkio valdų tipologiją (toliau – ūkininkai ir jų partneriai).“
+„8. Savarankiškai dirbantys asmenys – individualių įmonių savininkai; tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrieji nariai; asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (advokatai, advokatų padėjėjai, notarai, antstoliai, verslo liudijimus turintys asmenys ir kiti asmenys); ūkininkai ir jų partneriai, tuo atveju, kai žemės ūkio valdos, įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 4 europinio dydžio vienetams arba didesnis, nustatomi vadovaujantis 1985 m. birželio 7 d. Europos Komisijos sprendimu 85/377/EEB (su vėlesniais pakeitimais), nustatančiu Bendrijos žemės ūkio valdų tipologiją (toliau – ūkininkai ir jų partneriai).“
 
 
 
-### 2 straipsnis. 4 straipsnio 3 ir 5 dalių pakeitimas
+### 2 straipsnis. 4 straipsnio 3 ir 5 dalių pakeitimas ^s-67b9285a1d706c31b8feffdf
 
 
-1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^09138396e451d57e8d8d9d12
+1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^s-a0a2a1f9d9edb0062bc08750
 
 
 „3. Savarankiškai dirbantys asmenys, išskyrus tuos, kurie verčiasi individualia veikla turėdami verslo liudijimus, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3 straipsnio 2 punktas).“
 
 
-2. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip: ^2b1fb655e4da45b19590f930
+2. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip: ^s-67b49e2da2482ba443e41ed7
 
 
-„5. Nuolatiniai Lietuvos Respublikos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme (toliau šioje dalyje – nuolatiniai Lietuvos Respublikos gyventojai), kurie gauna pajamas pagal autorines sutartis, iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme (toliau šioje dalyje – Lietuvos vienetas), su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas). Nuolatiniai Lietuvos Respublikos gyventojai, gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, kaip šios sąvokos apibrėžtos Gyventojų pajamų mokesčio įstatyme, iš draudėjo – Lietuvos vieneto, su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas).“
+„5. Nuolatiniai Lietuvos Respublikos gyventojai, kaip jie apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (toliau šioje dalyje – nuolatiniai Lietuvos Respublikos gyventojai), kurie gauna pajamas pagal autorines sutartis, iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (toliau šioje dalyje – Lietuvos vienetas), su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas). Nuolatiniai Lietuvos Respublikos gyventojai, gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, kaip šios sąvokos apibrėžtos [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], iš draudėjo – Lietuvos vieneto, su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas).“
 
 
 
-### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-695b48aa83a1a513c8e4fa69
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -69,39 +74,39 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 7 straipsnio 2 ir 3 dalių pakeitimas
+### 4 straipsnis. 7 straipsnio 2 ir 3 dalių pakeitimas ^s-fa7ab7a513c2ae6007e91e0c
 
 
-1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^ca1e5a251f1bb0d4565da883
+1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^s-175b5e458800ba52165afe6e
 
 
-„2. Šio įstatymo 4 straipsnio 3 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos ir mokamos nuo praėjusiais metais gautų pajamų metinės sumos. Individualios įmonės savininko pajamų metinę sumą sudaro įmonės apmokestinamojo pelno, apskaičiuoto pagal Pelno mokesčio įstatymą, ir mokestinių metų pelno mokesčio skirtumas. Ūkinės bendrijos tikrojo nario pajamų metine suma yra laikoma tam nariui tenkanti pajamų, kurias sudaro ūkinės bendrijos apmokestinamojo pelno, apskaičiuoto pagal Pelno mokesčio įstatymą, ir mokestinių metų pelno mokesčio sumos skirtumas, dalis (ją Fondo valdybos teritoriniam skyriui nurodo ūkinė bendrija). Asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, pajamų metinę sumą sudaro Valstybinei mokesčių inspekcijai deklaruotų individualios veiklos apmokestinamųjų pajamų ir apskaičiuotos mokestinių metų individualios veiklos pajamų mokesčio sumos skirtumas. Ūkininkų ir jų partnerių, tuo atveju, kai žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra didesnis nei 14 europinio dydžio vienetų, pajamų metinė suma, nuo kurios skaičiuojamos socialinio draudimo įmokos, yra laikoma suma, kurią sudaro skirtumas tarp Valstybinei mokesčių inspekcijai deklaruotų kiekvieno asmens žemės ūkio veiklos apmokestinamųjų pajamų ir apskaičiuotos mokestinių metų žemės ūkio veiklos pajamų mokesčio sumos, tačiau ne mažesnė nei 12 minimaliųjų mėnesinių algų ir ne didesnė nei 12 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma. Ūkininkų ir jų partnerių, tuo atveju, kai žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 14 europinio dydžio vienetų arba mažesnis, pajamų metinė suma laikoma 12 minimaliųjų mėnesinių algų suma.“
+„2. Šio įstatymo 4 straipsnio 3 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos ir mokamos nuo praėjusiais metais gautų pajamų metinės sumos. Individualios įmonės savininko pajamų metinę sumą sudaro įmonės apmokestinamojo pelno, apskaičiuoto pagal Pelno mokesčio įstatymą, ir mokestinių metų pelno mokesčio skirtumas. Ūkinės bendrijos tikrojo nario pajamų metine suma yra laikoma tam nariui tenkanti pajamų, kurias sudaro ūkinės bendrijos apmokestinamojo pelno, apskaičiuoto pagal Pelno mokesčio įstatymą, ir mokestinių metų pelno mokesčio sumos skirtumas, dalis (ją Fondo valdybos teritoriniam skyriui nurodo ūkinė bendrija). Asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], pajamų metinę sumą sudaro Valstybinei mokesčių inspekcijai deklaruotų individualios veiklos apmokestinamųjų pajamų ir apskaičiuotos mokestinių metų individualios veiklos pajamų mokesčio sumos skirtumas. Ūkininkų ir jų partnerių, tuo atveju, kai žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra didesnis nei 14 europinio dydžio vienetų, pajamų metinė suma, nuo kurios skaičiuojamos socialinio draudimo įmokos, yra laikoma suma, kurią sudaro skirtumas tarp Valstybinei mokesčių inspekcijai deklaruotų kiekvieno asmens žemės ūkio veiklos apmokestinamųjų pajamų ir apskaičiuotos mokestinių metų žemės ūkio veiklos pajamų mokesčio sumos, tačiau ne mažesnė nei 12 minimaliųjų mėnesinių algų ir ne didesnė nei 12 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma. Ūkininkų ir jų partnerių, tuo atveju, kai žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 14 europinio dydžio vienetų arba mažesnis, pajamų metinė suma laikoma 12 minimaliųjų mėnesinių algų suma.“
 
 
-2. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip: ^22972b09e077505862e96b78
+2. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip: ^s-2505fd9200bd51e8cff31389
 
 
 „3. Pagal šio įstatymo 4 straipsnio 1 dalies 1 punktą ir 4 straipsnio 5 dalį socialinio draudimo įmokos priskaičiuojamos ir privalomai sumokamos nuo pajamų, gautų iš sporto ir (ar) atlikėjo veiklos, ir (ar) pajamų, gautų pagal autorines sutartis. Nuo savarankiškai dirbančių asmenų pajamų, gautų iš sporto ir (ar) atlikėjo veiklos, taip pat pajamų, gautų pagal autorines sutartis, sumų, kurios įtraukiamos į jų individualios veiklos pajamas, socialinio draudimo įmokos pagal šio įstatymo 4 straipsnio 1 dalies 1 punktą ir to paties straipsnio 5 dalį neskaičiuojamos ir nemokamos.“
 
 
 
-### 5 straipsnis. 8 straipsnio papildymas
+### 5 straipsnis. 8 straipsnio papildymas ^s-c16793eea414cc17bf353cc6
 
 
-1. Papildyti 8 straipsnio 1 dalį 27 punktu: ^2fcffac1579d4a41d448bad0
+1. Papildyti 8 straipsnio 1 dalį 27 punktu: ^s-d4d30ef5e8754a315a18ea65
 
 
 „27) kolektyvinio teisių administravimo būdu autoriams ir gretutinių teisių subjektams surinkto atlyginimo už kūrinių ir gretutinių teisių objektų panaudojimą pagal suteiktas licencijas panaudoti kūrinius ar gretutinių teisių objektus, taip pat nuo autoriams ir gretutinių teisių subjektams mokamo kompensacinio atlyginimo už knygų panaudą bibliotekose, kūrinių atgaminimą reprografijos būdu ir kūrinių bei gretutinių teisių objektų atgaminimą asmeniniais tikslais, pajamų, gautų už perduotą ar pagal licencinę sutartį suteiktą teisę naudotis pramoninės nuosavybės objektu.“
 
 
-2. Papildyti 8 straipsnį 3 dalimi: ^82ddce9bc247972dddbd8397
+2. Papildyti 8 straipsnį 3 dalimi: ^s-aaba6ea9a6bcd9f22c4f00be
 
 
-„3. Ūkininkai ir jų partneriai, kai žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 14 europinio dydžio vienetų arba mažesnis, socialinio draudimo įmokų gali nemokėti (tas laikotarpis bus neįskaitytas į socialinio draudimo stažą) [[#^82ddce9bc247972dddbd8397|šio straipsnio 2 dalies]] 1–3 punktuose numatytais atvejais.“
+„3. Ūkininkai ir jų partneriai, kai žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 14 europinio dydžio vienetų arba mažesnis, socialinio draudimo įmokų gali nemokėti (tas laikotarpis bus neįskaitytas į socialinio draudimo stažą) [[#^s-aaba6ea9a6bcd9f22c4f00be|šio straipsnio 2 dalies]] 1–3 punktuose numatytais atvejais.“
 
 
 
-### 6 straipsnis. 9 straipsnio 5 dalies pakeitimas
+### 6 straipsnis. 9 straipsnio 5 dalies pakeitimas ^s-810f6b160c55249937c6186e
 
 
 Pakeisti 9 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -111,7 +116,7 @@ Pakeisti 9 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Įstatymo taikymas
+### 7 straipsnis. Įstatymo taikymas ^s-a302883ac2780dc4575daed8
 
 
 Šio įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.

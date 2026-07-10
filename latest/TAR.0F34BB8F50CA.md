@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0F34BB8F50CA"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 63, 67, 75 ir 77 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 63, 67, 75 ir 77 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 63, 67, 75 ir 77 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.0F34BB8F50CA.md"
 latest_sha256: "5426d14ec69c3708690d708bdd6a9d3d117e14df77fbd305dc16402e7e70ea3e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0F34BB8F50CA]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 63, 67, 75 ir 77 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0F34BB8F50CA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0F34BB8F50CA
+- Ryšiai: [[Ryšiai/TAR.0F34BB8F50CA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 63 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 63 straipsnio 2 dalies pakeitimas ^s-78308baf1a5da8592b471da7
 
 
 63 straipsnio 2 dalyje vietoj žodžių „Valdymo reformų ir savivaldybių ministerijai“ įrašyti žodžius „Vidaus reikalų ministerijai“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 67 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 67 straipsnio 1 dalies pakeitimas ^s-d97941c021332c777481c5a8
 
 
 67 straipsnio 1 dalyje vietoj žodžių „Valdymo reformų ir savivaldybių reikalų ministerijos“ įrašyti žodžius „už valstybės tarnybą atsakingo ministro“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 75 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 75 straipsnio 2 dalies pakeitimas ^s-4437e1d1f0ddf37bb39dd74f
 
 
 75 straipsnio 2 dalyje vietoj žodžių „valdymo reformų ir savivaldybių reikalų ministras“ įrašyti žodžius „už valstybės tarnybą atsakingas ministras“ ir šią dalį išdėstyti taip:
@@ -61,7 +66,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 77 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 77 straipsnio 2 dalies pakeitimas ^s-4cafef5d7cad4ed807fec2d9
 
 
 77 straipsnio 2 dalyje vietoj žodžių „valdymo reformų ir savivaldybių reikalų ministro“ įrašyti žodžius „už valstybės tarnybą atsakingo ministro“ ir šią dalį išdėstyti taip:
@@ -71,7 +76,7 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-421f65e37b78659b776d5f49
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

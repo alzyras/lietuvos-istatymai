@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0C148091EB60"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 ir 25 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 ir 25 straipsnių pakeitimo įstatymas"
+  - "administracinių bylų teisenos įstatymo 2 ir 25 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-25"
 latest_path: "latest/TAR.0C148091EB60.md"
 latest_sha256: "712721e396ed3f1462a6d38b11926387a1c046f061140b9138492a20ffc1cb4f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0C148091EB60]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 ir 25 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0C148091EB60.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0C148091EB60
+- Ryšiai: [[Ryšiai/TAR.0C148091EB60|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,31 +38,31 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1, 4 ir 10 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 1, 4 ir 10 dalių pakeitimas ^s-f61d0c7cfa07938e817b46d0
 
 
-1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^3177767d082c69896d805be7
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-87f49fdafacebbf2ebed0832
 
 
 „1. Viešasis administravimas – įstatymų ir kitų teisės aktų reglamentuojama viešojo administravimo subjektų veikla, skirta įstatymams ir kitiems teisės aktams įgyvendinti: administracinių sprendimų priėmimas, įstatymų ir administracinių sprendimų įgyvendinimo kontrolė, įstatymų nustatytų administracinių paslaugų teikimas, viešųjų paslaugų teikimo administravimas ir viešojo administravimo subjekto vidaus administravimas.“
 
 
 
-2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^58128098c2e00fed3c07d397
+2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-432f38f591c505e6a6cdbdaf
 
 
-„4. Viešojo administravimo subjektas – institucija, įstaiga, pareigūnas, valstybės tarnautojas, kitas fizinis ar juridinis asmuo, Viešojo administravimo įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.
+„4. Viešojo administravimo subjektas – institucija, įstaiga, pareigūnas, valstybės tarnautojas, kitas fizinis ar juridinis asmuo, [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka įgalioti atlikti viešąjį administravimą.
 Pastaba. Tarnautojų (pareigūnų) skirstymą pagal jiems suteiktus viešojo administravimo įgaliojimus nustato ir jų administracinį subjektiškumą apibrėžia valstybės tarnybą reglamentuojantys ar kiti specialūs įstatymai.“
 
 
-3. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^71d264ce3d6d368182350627
+3. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^s-bcbea142a9ad198af43f5806
 
 
-„10. Kiti viešojo administravimo subjektai – fiziniai ar juridiniai asmenys (viešosios įstaigos, valstybės įmonės, nevyriausybinės organizacijos, asociacijos), Viešojo administravimo įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.“
+„10. Kiti viešojo administravimo subjektai – fiziniai ar juridiniai asmenys (viešosios įstaigos, valstybės įmonės, nevyriausybinės organizacijos, asociacijos), [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka įgalioti atlikti viešąjį administravimą.“
 
 
 
-### 2 straipsnis. 25 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 25 straipsnio 1 dalies pakeitimas ^s-c6f3d95596b697e6af54147b
 
 
 Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip:

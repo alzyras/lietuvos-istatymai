@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B51EB2073886"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 1 ir 3 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 1 ir 3 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 1 ir 3 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.B51EB2073886.md"
 latest_sha256: "2ef6a8643796f0595416eb3024efdc03c70e8c72d743a074336542d2feeca8b8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B51EB2073886]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 1 ir 3 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B51EB2073886.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B51EB2073886
+- Ryšiai: [[Ryšiai/TAR.B51EB2073886|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,51 +37,51 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies papildymas ir 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies papildymas ir 3 dalies pakeitimas ^s-3bcc9ba15e7021d9476b55c2
 
 
-1. Papildyti [[#^5b83d7cfa5a846976427b385|1 straipsnio 1 dalį 6 punktu]] ir šią dalį išdėstyti taip: ^539dada6ba8f3986c0c769c8
+1. Papildyti [[#^s-8b477ceaf96e6b3b89c0c88e|1 straipsnio 1 dalį 6 punktu]] ir šią dalį išdėstyti taip: ^s-fdbdf05539290d39b343a204
 
 
 „Lietuvos Respublikoje nustatomos šios valstybinės pensijos:
 
 
-1) Respublikos Prezidento valstybinė pensija; ^8447c5f48c89b0318716c0c5
+1) Respublikos Prezidento valstybinė pensija; ^s-cc1dba9b9df242babb106db6
 
 
-2) Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos; ^a6cdf7e841407a75b19dbe41
+2) Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos; ^s-7919cd23ef1280764ec52235
 
 
-3) nukentėjusiųjų asmenų valstybinės pensijos; ^89dab8f700fdb4dea079d3c5
+3) nukentėjusiųjų asmenų valstybinės pensijos; ^s-006b4e446cfc8cb8df0b41d5
 
 
-4) pareigūnų ir karių valstybinės pensijos; ^fcb95603f73c03dde44465d3
+4) pareigūnų ir karių valstybinės pensijos; ^s-f54d975d4fb44a4b5d4ec719
 
 
-5) mokslininkų valstybinės pensijos; ^864de4ec8842872fd94bc933
+5) mokslininkų valstybinės pensijos; ^s-a3a0cc5758fb06f1c037bd48
 
 
-6) teisėjų valstybinės pensijos.“ ^5b83d7cfa5a846976427b385
+6) teisėjų valstybinės pensijos.“ ^s-8b477ceaf96e6b3b89c0c88e
 
 
-2. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip: ^e063290fd4a99bff2bc0b356
+2. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip: ^s-374a6c0dac983ad85d073574
 
 
 „Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos, taip pat nukentėjusiųjų asmenų valstybinės pensijos skiriamos pagal šį įstatymą. Respublikos Prezidento, pareigūnų ir karių, mokslininkų bei teisėjų valstybinės pensijos skiriamos pagal specialius įstatymus.“
 
 
 
-### 2 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-3f9afd293d0f06b2509a4548
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„Kiekvienos šio įstatymo [[#^539dada6ba8f3986c0c769c8|1 straipsnio 1 dalies]] 3–6 punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio pirmąją dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.“
+„Kiekvienos šio įstatymo [[#^s-fdbdf05539290d39b343a204|1 straipsnio 1 dalies]] 3–6 punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio pirmąją dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-93a0c658d0005019940bc799
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.

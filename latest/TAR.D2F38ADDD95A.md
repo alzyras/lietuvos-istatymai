@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2F38ADDD95A"
 pavadinimas: "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.D2F38ADDD95A.md"
 latest_sha256: "5174ee57a74132631ae4906e9fea6f64c00bb1ef5a20054f348d38e7c480b2c7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2F38ADDD95A]]"
 ---
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2F38ADDD95A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2F38ADDD95A
+- Ryšiai: [[Ryšiai/TAR.D2F38ADDD95A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,17 +36,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-5de8641fd0b371c4d08cc723
 
 
 3 straipsnio 2 dalyje po žodžių „(įskaitant ir darbdavio mokamas ligos dienomis), motinystės“ įrašyti žodį „tėvystės“ ir šią dalį išdėstyti taip:
 
 
-„Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.“
+„Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] ir kitų įstatymų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-a4d2c64a040d599099f2b186
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.10244C66F913"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.10244C66F913.md"
 latest_sha256: "63e2d494d0fde9a1fb91e44445f6e94f8671731e0b0e69a0395abf92f2f2294e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.10244C66F913]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.10244C66F913.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.10244C66F913
+- Ryšiai: [[Ryšiai/TAR.10244C66F913|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-2a3fbdd66201be780d6afb23
 
 
 6 straipsnio 1 dalyje vietoj skaičiaus „1“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 „1. Mokesčio tarifas – nuo 0,3 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.“
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6403554e1ac0274a7fa342c2
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

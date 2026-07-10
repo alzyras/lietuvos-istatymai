@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.16417CEA656D"
 pavadinimas: "Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "ūkinių bendrijų įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-24"
 latest_path: "latest/TAR.16417CEA656D.md"
 latest_sha256: "25898d0e10f65847c202a1b2db829696aff449017ffe69bcf23d69483c99299b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.16417CEA656D]]"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.16417CEA656D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.16417CEA656D
+- Ryšiai: [[Ryšiai/TAR.16417CEA656D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 7 dalies pakeitimas ^s-f3c2a565eac591d799f496d3
 
 
 21 straipsnio 7 dalyje prieš žodį „dokumentai“ įrašyti žodžius „ilgo ir laikino saugojimo“, vietoj žodžio „savivaldybei“ įrašyti žodžius „vietos savivaldos institucijai“, išbraukti žodžius ir skaičių „ir saugomi joje 10 metų“ ir šią dalį išdėstyti taip:

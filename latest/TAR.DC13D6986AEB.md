@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DC13D6986AEB"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 57 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 57 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 57 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-31"
 latest_path: "latest/TAR.DC13D6986AEB.md"
 latest_sha256: "e90c27db24e26c09383e9de39616b6fd21b2b66de7c2d7658896dadd331ee6b2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DC13D6986AEB]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 57 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DC13D6986AEB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DC13D6986AEB
+- Ryšiai: [[Ryšiai/TAR.DC13D6986AEB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 57 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 57 straipsnio 3 dalies pakeitimas ^s-fe826644d9be9e742c080f8d
 
 
 Pakeisti 57 straipsnio 3 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.990F3139C625"
 pavadinimas: "Lietuvos Respublikos elektroninių ryšių įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektroninių ryšių įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "elektroninių ryšių įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.990F3139C625.md"
 latest_sha256: "11df46357425bd032f48626e670440e8b25320035d224424fe9009b638d2bd28"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.990F3139C625]]"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.990F3139C625.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.990F3139C625
+- Ryšiai: [[Ryšiai/TAR.990F3139C625|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 9 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 9 dalies pakeitimas ^s-8ca97221bdde442992e779fa
 
 
 12 straipsnio 9 dalyje vietoj žodžių „Valstybinė visuomenės sveikatos priežiūros tarnyba, vykdydama“ įrašyti žodžius „Visuomenės sveikatos centrai apskrityse, atlikdami“ ir šią dalį išdėstyti taip:
@@ -45,13 +50,13 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-f750714b64b8f2fed188b269
 
 
-1. Šis įstatymas, išskyrus [[#^054427cc419f53eb94a46c29|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d. ^f0f6c16b8d500f256c11f8fd
+1. Šis įstatymas, išskyrus [[#^s-fdbb3a333144533c2b051524|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d. ^s-a03b26e041406a36d3d71fca
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^054427cc419f53eb94a46c29
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-fdbb3a333144533c2b051524
 
 
 

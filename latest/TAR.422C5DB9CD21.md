@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.422C5DB9CD21"
 pavadinimas: "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-03-08"
 latest_path: "latest/TAR.422C5DB9CD21.md"
 latest_sha256: "67a2f75ebe127ab33df105a7f11e9140416bce61e03c1298e70b9a896eaf92de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.422C5DB9CD21]]"
 ---
 # Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.422C5DB9CD21.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.422C5DB9CD21
+- Ryšiai: [[Ryšiai/TAR.422C5DB9CD21|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

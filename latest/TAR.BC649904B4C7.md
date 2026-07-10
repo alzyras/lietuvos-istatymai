@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BC649904B4C7"
 pavadinimas: "Dėl Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-04-25"
 latest_path: "latest/TAR.BC649904B4C7.md"
 latest_sha256: "64b9924211a6c7b3fa465d7aeb1f497e894877b3b1c6f67f573bc67905d99bdd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BC649904B4C7]]"
 ---
 # Dėl Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BC649904B4C7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BC649904B4C7
+- Ryšiai: [[Ryšiai/TAR.BC649904B4C7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8FD102675C8E"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Papildomo protokolo prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų ir Protokolo Nr.2 prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, reguliuojančio teritorinį bendradarbiavimą, ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Papildomo protokolo prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų ir Protokolo Nr.2 prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, reguliuojančio teritorinį bendradarbiavimą, ratifikavimo"
+  - "įstatymas dėl Papildomo protokolo prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų ir Protokolo Nr.2 prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, reguliuojančio teritorinį bendradarbiavimą, ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-20"
 latest_path: "latest/TAR.8FD102675C8E.md"
 latest_sha256: "f7a6012e9a9818abcb2bd398970147441a31fa2430aea08a6c7a237e035d0b86"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8FD102675C8E]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Papildomo protokolo prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų ir Protokolo Nr.2 prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, reguliuojančio teritorinį bendradarbiavimą, ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8FD102675C8E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8FD102675C8E
+- Ryšiai: [[Ryšiai/TAR.8FD102675C8E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolų ratifikavimas
+### 1 straipsnis. Protokolų ratifikavimas ^s-b37fb3cc700330604d4abf39
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 26 d. dekretą Nr. 1914, ratifikuoja su pareiškimu Papildomą protokolą prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, priimtą 1995 m. lapkričio 9 d. Strasbūre, ir Protokolą Nr. 2 prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, reguliuojantį teritorinį bendradarbiavimą, priimtą 1998 m. gegužės 5 d. Strasbūre.
 
 
 
-### 2 straipsnis. Lietuvos Respublikos pareiškimas
+### 2 straipsnis. Lietuvos Respublikos pareiškimas ^s-f68b95748663c11f69a66029
 
 
 Lietuvos Respublikos Seimas, remdamasis Papildomo protokolo prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų 8 straipsnio 1 dalimi ir Protokolo Nr. 2 prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų, reguliuojančio teritorinį bendradarbiavimą, 6 straipsnio 1 dalimi, pareiškia, kad Lietuvos Respublika taikys Papildomo protokolo prie Europos konvencijos dėl pasienio bendradarbiavimo tarp teritorinių bendrijų ir valdžios organų 4 ir 5 straipsnių nuostatas.

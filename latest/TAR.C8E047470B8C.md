@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8E047470B8C"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 34 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 34 straipsnio papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 34 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-01"
 latest_path: "latest/TAR.C8E047470B8C.md"
 latest_sha256: "0e131a4accb649d2436a80dbf944108b0df97ca7c96a96e5f8aea4b00cad341f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8E047470B8C]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 34 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8E047470B8C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8E047470B8C
+- Ryšiai: [[Ryšiai/TAR.C8E047470B8C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 34 straipsnio 2 dalies papildymas
+### 1 straipsnis. 34 straipsnio 2 dalies papildymas ^s-ddbfafa623f30c852676d2bf
 
 
 Papildyti 34 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-090b4d5fb4e5b770ad26e704
 
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.

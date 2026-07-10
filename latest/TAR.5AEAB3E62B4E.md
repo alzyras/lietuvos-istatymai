@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5AEAB3E62B4E"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 12, 15, 23 ir 31 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 12, 15, 23 ir 31 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo 12, 15, 23 ir 31 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.5AEAB3E62B4E.md"
 latest_sha256: "8562020da1840f12d979b40d4d532707e35e82252fbabe7490e564bf76755e9e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5AEAB3E62B4E]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 12, 15, 23 ir 31 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5AEAB3E62B4E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5AEAB3E62B4E
+- Ryšiai: [[Ryšiai/TAR.5AEAB3E62B4E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 3 dalies pakeitimas ^s-d23850bc48d0d6b5341d1af5
 
 
 Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 15 straipsnio 1 dalies 4 punkto pakeitimas
+### 2 straipsnis. 15 straipsnio 1 dalies 4 punkto pakeitimas ^s-5d8211c0907048337afe3118
 
 
 15 straipsnio 1 dalies 4 punkte išbraukti žodžius „įstatymų priskirtoms jo kompetencijai“ ir šį punktą išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-dec5892eee71d7c55c37e65d
 
 
 Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -63,26 +68,26 @@ Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 31 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ir 4 punkto pakeitimas
+### 4 straipsnis. 31 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ir 4 punkto pakeitimas ^s-794587c4aa4537c66b124c5a
 
 
-1. 31 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios. ^43c4612afc26da91bd0d1600
+1. 31 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios. ^s-2d132f4fa18984c67451b5a1
 
 
-2. 31 straipsnio 1 dalies 4 punkte išbraukti žodžius „įskaitant administracinių teisės pažeidimų bylas“ ir šį punktą išdėstyti taip: ^7ca67383e8b97c7e5657b836
+2. 31 straipsnio 1 dalies 4 punkte išbraukti žodžius „įskaitant administracinių teisės pažeidimų bylas“ ir šį punktą išdėstyti taip: ^s-bcf88c4b53a96cc2b986c1fb
 
 
 „4) instancija, įstatymų nustatytais atvejais nagrinėjanti prašymus dėl proceso atnaujinimo užbaigtose administracinėse bylose.“
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-5620a8f935e8694008a31aee
 
 
-1. Šis įstatymas įsigalioja 2011 m. sausio 1 d. ^ec5a4a926ca5ba4f9b8960e1
+1. Šis įstatymas įsigalioja 2011 m. sausio 1 d. ^s-f0cd7504bd99d0601c6da6d0
 
 
-2. Administracinių teisės pažeidimų bylos, pradėtos ir nebaigtos iki šio įstatymo įsigaliojimo, nagrinėjamos iki šio įstatymo įsigaliojimo galiojusia tvarka. ^5b04716dea8880203b9ba9aa
+2. Administracinių teisės pažeidimų bylos, pradėtos ir nebaigtos iki šio įstatymo įsigaliojimo, nagrinėjamos iki šio įstatymo įsigaliojimo galiojusia tvarka. ^s-890163a7be3bba814a0390fa
 
 
 

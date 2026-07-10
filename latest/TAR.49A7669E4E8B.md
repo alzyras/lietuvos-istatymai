@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.49A7669E4E8B"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo papildymo 11 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo papildymo 11 straipsniu įstatymas"
+  - "gyventojų turto deklaravimo įstatymo papildymo 11 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-30"
 latest_path: "latest/TAR.49A7669E4E8B.md"
 latest_sha256: "f22b8c9054e3b8875dc80251e48ef0a4a4f5f5e32d633934a6abbf475952f27f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.49A7669E4E8B]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo papildymo 11 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.49A7669E4E8B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.49A7669E4E8B
+- Ryšiai: [[Ryšiai/TAR.49A7669E4E8B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 11 straipsniu
+### 1 straipsnis. Įstatymo papildymas 11 straipsniu ^s-edbc1629f6b95e0ce0a696de
 
 
 Papildyti Įstatymą 11 straipsniu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E15302DCC2B8"
 pavadinimas: "Lietuvos Respublikos konsulinio statuto 51 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konsulinio statuto 51 straipsnio papildymo ir pakeitimo įstatymas"
+  - "konsulinio statuto 51 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-01"
 latest_path: "latest/TAR.E15302DCC2B8.md"
 latest_sha256: "7bfbaf83abb5e145230ce4a09bddda309694042456938a429a075446478b9157"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E15302DCC2B8]]"
 ---
 # Lietuvos Respublikos konsulinio statuto 51 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E15302DCC2B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E15302DCC2B8
+- Ryšiai: [[Ryšiai/TAR.E15302DCC2B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,10 +36,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 51 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 51 straipsnio papildymas ir pakeitimas ^s-fc93dc89ea23c2f0337bcc03
 
 
-Papildyti 51 straipsnį nauju [[#^135852784c6bbc6cbc5c23b6|15 punktu]], buvusį [[#^135852784c6bbc6cbc5c23b6|15 punktą]] laikyti [[#^ddfceb6b0b05e16938d3cc07|16 punktu]] ir šį straipsnį išdėstyti taip:
+Papildyti 51 straipsnį nauju [[#^s-3494a8bac5736f5b236cb830|15 punktu]], buvusį [[#^s-3494a8bac5736f5b236cb830|15 punktą]] laikyti [[#^s-775d5e7c73d5d889318dfc03|16 punktu]] ir šį straipsnį išdėstyti taip:
 
 
 „51 straipsnis
@@ -43,56 +48,56 @@ Papildyti 51 straipsnį nauju [[#^135852784c6bbc6cbc5c23b6|15 punktu]], buvusį 
 Konsulinis pareigūnas atlieka šiuos notarinius veiksmus:
 
 
- 1) tvirtina sandorius (sutartis, testamentus, įgaliojimus ir kt.), išskyrus sutartis dėl nekilnojamojo turto, esančio Lietuvos Respublikoje, perleidimo ar įkeitimo; ^31e64799a5d9f95856b40d67
+ 1) tvirtina sandorius (sutartis, testamentus, įgaliojimus ir kt.), išskyrus sutartis dėl nekilnojamojo turto, esančio Lietuvos Respublikoje, perleidimo ar įkeitimo; ^s-31aab7728451e1179e2cf3ad
 
 
-2) imasi priemonių paveldėtam turtui apsaugoti; ^992d34097c14f098d7f64cf2
+2) imasi priemonių paveldėtam turtui apsaugoti; ^s-b3913b22f30bccdc4b7d46e4
 
 
-3) išduoda paveldėjimo teisės liudijimus; ^6272a3a95d224dc211c184bb
+3) išduoda paveldėjimo teisės liudijimus; ^s-9665471045d2997dd5e98eba
 
 
-4) išduoda nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus; ^1d1dbb64104315a35f19d500
+4) išduoda nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus; ^s-4af14e393b957327b2a81962
 
 
-5) liudija dokumentų nuorašų ir jų išrašų tikrumą; ^31e483e8a3d23b8db38f67ff
+5) liudija dokumentų nuorašų ir jų išrašų tikrumą; ^s-58ba988e21a0464c1e3fe644
 
 
-6) liudija parašų dokumentuose tikrumą; ^5521d8c4435eda20a04db9c6
+6) liudija parašų dokumentuose tikrumą; ^s-6cda31707db4a2adb6b379ba
 
 
-7) liudija dokumento vertimo iš vienos kalbos į kitą tikrumą; ^272a2c9b54321f1068e2605b
+7) liudija dokumento vertimo iš vienos kalbos į kitą tikrumą; ^s-002d25d3bd25222a231777b3
 
 
-8) tvirtina faktą, kad pilietis yra gyvas ir yra tam tikroje vietovėje; ^b76b215fed05bb94c23c4c72
+8) tvirtina faktą, kad pilietis yra gyvas ir yra tam tikroje vietovėje; ^s-0fc0a3ed2ea5e6d45b99337d
 
 
-9) priima saugoti dokumentus; ^752b61433663db8aa3836600
+9) priima saugoti dokumentus; ^s-c06be3370b022f2d469ab96a
 
 
-10) tvirtina dokumentų pateikimo laiką; ^20723b8775710b41ab673a66
+10) tvirtina dokumentų pateikimo laiką; ^s-a8fa5e52e09bdd3237d1c205
 
 
-11) priima kaip depozitą pinigus ir vertybinius popierius; ^824ab51c1b31a61414e6fdbb
+11) priima kaip depozitą pinigus ir vertybinius popierius; ^s-43a99cb6241632c923894591
 
 
- 12) daro vykdomuosius įrašus pagal konsulinių įstaigų patvirtintus skolos dokumentus; ^f6f6875443299c586a39e996
+ 12) daro vykdomuosius įrašus pagal konsulinių įstaigų patvirtintus skolos dokumentus; ^s-62c652581120c98c84c5f8ac
 
 
-13) priima jūrinius protestus; ^de9f814d28f6e6368b082da5
+13) priima jūrinius protestus; ^s-a52c05814cf1278808ff16bd
 
 
-14) protestuoja vekselius ir čekius; ^336c9755b0c39557c1913e45
+14) protestuoja vekselius ir čekius; ^s-4b7768e49ae821ae8df15917
 
 
-15) priima saugoti asmeninius testamentus; ^135852784c6bbc6cbc5c23b6
+15) priima saugoti asmeninius testamentus; ^s-3494a8bac5736f5b236cb830
 
 
-16) atlieka kitus įstatymų numatytus notarinius veiksmus.“ ^ddfceb6b0b05e16938d3cc07
+16) atlieka kitus įstatymų numatytus notarinius veiksmus.“ ^s-775d5e7c73d5d889318dfc03
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-5d617402ca46b670ffdfce7b
 
 
 Šis įstatymas įsigalioja nuo Civilinio kodekso (Žin., 2000, Nr. 74-2262) įsigaliojimo dienos.

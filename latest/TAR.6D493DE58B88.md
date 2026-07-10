@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6D493DE58B88"
 pavadinimas: "Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas"
+  - "finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.6D493DE58B88.md"
 latest_sha256: "3c0f5cde061608d9d7b1dad38f536de66a9cea03284092486b03cecb5e3bb280"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6D493DE58B88]]"
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6D493DE58B88.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6D493DE58B88
+- Ryšiai: [[Ryšiai/TAR.6D493DE58B88|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,34 +36,34 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 23 dalies ir 42 dalies 2 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 23 dalies ir 42 dalies 2 punkto pakeitimas ^s-b58b7b34a4d62dbdf8820e04
 
 
-1. 2 straipsnio 23 dalyje vietoj žodžių „piniginių paskolų teikimu“ įrašyti žodžius „jų skolinimu“ ir šią dalį išdėstyti taip: ^9bc509959a3ed0618c5176a4
+1. 2 straipsnio 23 dalyje vietoj žodžių „piniginių paskolų teikimu“ įrašyti žodžius „jų skolinimu“ ir šią dalį išdėstyti taip: ^s-82fbbe2fc58d67c0837e248d
 
 
 „23. Kredito įstaiga - Lietuvos Respublikos įmonė ar įstaiga arba užsienio valstybės įmonės padalinys, veikiantis Lietuvos Respublikoje, kurie turi licenciją verstis ir verčiasi indėlių ir kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių bei jų skolinimu, taip pat turintys teisę verstis dalies ar visų kitų šio Įstatymo 3 straipsnio 1 dalyje nustatytų paslaugų teikimu ir prisiimantys su tuo susijusią riziką bei atsakomybę.“
 
 
-2. Pakeisti 2 straipsnio 42 dalies 2 punktą ir jį išdėstyti taip: ^2ebc15650d5ed711f1f7fa8d
+2. Pakeisti 2 straipsnio 42 dalies 2 punktą ir jį išdėstyti taip: ^s-b298c9e600ae52c3f5621823
 
 
 „2) veikla, kurios pagrindinę dalį sudaro finansinių paslaugų teikimas.“
 
 
-### 2 straipsnis. 4 straipsnio 2 dalies pripažinimas netekusia galios ir straipsnio papildymas 5 dalimi
+### 2 straipsnis. 4 straipsnio 2 dalies pripažinimas netekusia galios ir straipsnio papildymas 5 dalimi ^s-a12de288930978c84aaa1399
 
 
-1. 4 straipsnio 2 dalį pripažinti netekusia galios. ^30362615992af887e51590d9
+1. 4 straipsnio 2 dalį pripažinti netekusia galios. ^s-fdc23beb8e47734a1a8562d9
 
 
-2. Papildyti 4 straipsnį 5 dalimi: ^57d80407fa1215f4e60c8ae6
+2. Papildyti 4 straipsnį 5 dalimi: ^s-e2347bd586c3f44a4ffd0eb5
 
 
 „5. Jei Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustato kitokias normas negu šis Įstatymas, taikomos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, normos.“
 
 
-### 3 straipsnis. 45 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 45 straipsnio 3 dalies pakeitimas ^s-20e443b53835c89c04dfaf22
 
 
 Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -67,7 +72,7 @@ Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Tos pačios audito įmonės auditoriui draudžiama atlikti auditą, taip pat kitam asmeniui draudžiama kartu su auditoriumi dalyvauti atliekant auditą toje pačioje finansų įstaigoje daugiau kaip už 3 finansinius metus iš eilės.“
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-e6e1a122c226a60dba20c58f
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

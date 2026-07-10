@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9D0C434BAA08"
 pavadinimas: "Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas"
+  - "finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-03-01"
 latest_path: "latest/TAR.9D0C434BAA08.md"
 latest_sha256: "1f0180f96aeb6253fbf23a7a73119cc5f969dde3fd5ff0c9a6c32289e3265d24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9D0C434BAA08]]"
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9D0C434BAA08.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9D0C434BAA08
+- Ryšiai: [[Ryšiai/TAR.9D0C434BAA08|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas ^s-d9aac2038b57dac06ef2a97e
 
 
 2 straipsnio 7 dalyje po skaičių „5–17“ įrašyti skaičių „19“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 „7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kuris veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir verčiasi vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalies 2, 3, 5–17, 19 punktuose nurodytų finansinių paslaugų teikimu.“
 
 
-### 2 straipsnis. 3 straipsnio 1 dalies 19 punkto pakeitimas
+### 2 straipsnis. 3 straipsnio 1 dalies 19 punkto pakeitimas ^s-6cea6d704dd41c3ec94e93f2
 
 
 3 straipsnio 1 dalies 19 punkte po žodžių „investicinių fondų“ įrašyti žodžius „uždaro tipo investicinių bendrovių, pensijų fondų“, vietoj žodžio „administravimas“ įrašyti žodį „valdymas“ ir šį punktą išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 „19) investicinių fondų, uždaro tipo investicinių bendrovių, pensijų fondų ar investicinių kintamojo kapitalo bendrovių valdymas.“
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-0886e90e605d568f363101a6
 
 
 Šis įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymo įsigaliojimo dieną.

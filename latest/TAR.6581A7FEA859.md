@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6581A7FEA859"
 pavadinimas: "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 4 ir 18 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 4 ir 18 straipsnių pakeitimo įstatymas"
+  - "nedarbo socialinio draudimo įstatymo 4 ir 18 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.6581A7FEA859.md"
 latest_sha256: "bcaa56533a12b688d39033ec497920fd2a97adec4abd9de6b7c2054534b932d4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6581A7FEA859]]"
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 4 ir 18 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6581A7FEA859.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6581A7FEA859
+- Ryšiai: [[Ryšiai/TAR.6581A7FEA859|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 5 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 5 punkto pakeitimas ^s-c50c68e0060ea0519cad7f70
 
 
 Pakeisti 4 straipsnio 5 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 4 straipsnio 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-86650956f40ec191bb8e370d
 
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-f2dcffac77c94f09791725b0
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

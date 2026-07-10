@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A06366E7D3D2"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrojo fakultatyvinio protokolo mirties bausmei panaikinti ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrojo fakultatyvinio protokolo mirties bausmei panaikinti ratifikavimo"
+  - "įstatymas dėl 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrojo fakultatyvinio protokolo mirties bausmei panaikinti ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-31"
 latest_path: "latest/TAR.A06366E7D3D2.md"
 latest_sha256: "c181da23e1ff04fa0081c79244203e79ee46414c34dd11802e83643b8dc91495"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A06366E7D3D2]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrojo fakultatyvinio protokolo mirties bausmei panaikinti ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A06366E7D3D2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A06366E7D3D2
+- Ryšiai: [[Ryšiai/TAR.A06366E7D3D2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-00e0f0c4267ccdc1da98e075
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. liepos 10 d. dekretą Nr. 1413, ratifikuoja 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrąjį fakultatyvinį protokolą mirties bausmei panaikinti, pasirašytą 2000 m. rugsėjo 8 d.

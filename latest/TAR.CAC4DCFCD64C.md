@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CAC4DCFCD64C"
 pavadinimas: "Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.CAC4DCFCD64C.md"
 latest_sha256: "70dc130c3bf60481445b05bf754167a01e59d40c2bc5f4ccf7f6b91e34f0d436"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CAC4DCFCD64C]]"
 ---
 # Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CAC4DCFCD64C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CAC4DCFCD64C
+- Ryšiai: [[Ryšiai/TAR.CAC4DCFCD64C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio pakeitimas
+### 1 straipsnis. 6 straipsnio pakeitimas ^s-8e46cd415fa802c9ebe0393c
 
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:

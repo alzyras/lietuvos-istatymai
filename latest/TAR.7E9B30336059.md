@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7E9B30336059"
 pavadinimas: "Lietuvos Respublikos branduolinės energijos įstatymo 16 ir 32 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos branduolinės energijos įstatymo 16 ir 32 straipsnių pakeitimo įstatymas"
+  - "branduolinės energijos įstatymo 16 ir 32 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-01"
 latest_path: "latest/TAR.7E9B30336059.md"
 latest_sha256: "95a4bcf8deac2a4128ae5ed5184d9ba7c471ee5b80adcea3adb069e7e0fceeeb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7E9B30336059]]"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymo 16 ir 32 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7E9B30336059.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7E9B30336059
+- Ryšiai: [[Ryšiai/TAR.7E9B30336059|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio papildymas 11 punktu
+### 1 straipsnis. 16 straipsnio papildymas 11 punktu ^s-8399b0e1a4d6e69de9d0f9e3
 
 
 Papildyti 16 straipsnį 11 punktu:
@@ -40,74 +45,74 @@ Papildyti 16 straipsnį 11 punktu:
 „11) branduolinės energetikos objektų valstybinę statybos kontrolę ir priežiūrą atliekančių institucijų teikimu arba savo iniciatyva panaikina leidimą statyti ar rekonstruoti branduolinės energetikos objektą, kai paaiškėja, kad toks leidimas išduotas neteisėtai.“
 
 
-### 2 straipsnis. 32 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 32 straipsnio pakeitimas ir papildymas ^s-a4deefadacb5a495a5f2f6b7
 
 
-1. 32 straipsnio 1 dalyje po žodžio „statyti“ įrašyti žodžius „ar rekonstruoti“, vietoj žodžių „apskrities viršininko administracija“ įrašyti žodžius „Vyriausybė ar jos įgaliota institucija“ ir šią dalį išdėstyti taip: ^bae035692579a5a920329c9c
+1. 32 straipsnio 1 dalyje po žodžio „statyti“ įrašyti žodžius „ar rekonstruoti“, vietoj žodžių „apskrities viršininko administracija“ įrašyti žodžius „Vyriausybė ar jos įgaliota institucija“ ir šią dalį išdėstyti taip: ^s-968e77642c314c5766b8ec3e
 
 
 „1. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą išduoda Vyriausybė ar jos įgaliota institucija.“
 
 
-2. Papildyti 32 straipsnį naujomis 2, 3, 4, 5, 6 ir [[#^78d08de9591a0e8faba89ad4|7 dalimis]]: ^f8c8a84d41fc3018c9442d1b
+2. Papildyti 32 straipsnį naujomis 2, 3, 4, 5, 6 ir [[#^s-5977a8ce43b5efc3e6193f6f|7 dalimis]]: ^s-bcda5e12973eaadc917d5e2f
 
 
 „2. Statytojas (užsakovas), norėdamas gauti leidimą statyti ar rekonstruoti branduolinės energetikos objektą, turi pateikti Vyriausybei ar jos įgaliotai institucijai:
 
 
-1) nustatytos formos prašymą; ^017a3cd461979c9943ef34cf
+1) nustatytos formos prašymą; ^s-d19c99a2f65ab5b0b60dd1f4
 
 
-2) VATESI išduotą licenciją statyti branduolinės energetikos objektą; ^4da068ff96486c1585f60e4f
+2) VATESI išduotą licenciją statyti branduolinės energetikos objektą; ^s-b2179ffdbc4b8a08cead45bb
 
 
-3) dokumentą, patvirtinantį statytojo (užsakovo) nuosavybės teisę ar kitokias teises į žemės sklypą; ^a131da31dcd29a5600dda265
+3) dokumentą, patvirtinantį statytojo (užsakovo) nuosavybės teisę ar kitokias teises į žemės sklypą; ^s-466ee80e6ea89a9b63a18728
 
 
-4) šio įstatymo 30 straipsnio nustatyta tvarka suderintą branduolinės energetikos objekto projektą; ^d8f302fd5c7fa43f08834c92
+4) šio įstatymo 30 straipsnio nustatyta tvarka suderintą branduolinės energetikos objekto projektą; ^s-e744d188ec1b9f5413fb5bef
 
 
-5) branduolinės energetikos objekto projekto ekspertizės, atliktos šio įstatymo 31 straipsnio nustatyta tvarka, išvadas; ^3fa0b55d21dbd6766a95969a
+5) branduolinės energetikos objekto projekto ekspertizės, atliktos šio įstatymo 31 straipsnio nustatyta tvarka, išvadas; ^s-30557030c20907bce3ffdafb
 
 
-6) atsakingos institucijos sprendimą, kad planuojama ūkinė veikla poveikio aplinkai požiūriu pasirinktoje vietoje yra leistina; ^483805b9da04d1dcece7f35b
+6) atsakingos institucijos sprendimą, kad planuojama ūkinė veikla poveikio aplinkai požiūriu pasirinktoje vietoje yra leistina; ^s-52884fa42ee9a78980fc3d3c
 
 
-7) dokumentą dėl branduolinės energetikos objekto statybos techninės priežiūros vadovo paskyrimo; ^c247ae53a0e4333670b73cd1
+7) dokumentą dėl branduolinės energetikos objekto statybos techninės priežiūros vadovo paskyrimo; ^s-d4afc54dbc4651a1a155a826
 
 
-8) branduolinės energetikos objekto kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai branduolinės energetikos objektas rekonstruojamas). ^2ee92b27b1246f99a9ea7fe4
+8) branduolinės energetikos objekto kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai branduolinės energetikos objektas rekonstruojamas). ^s-a05fb4c343ca44540c4547f7
 
 
-3. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą Vyriausybė ar jos įgaliota institucija išduoda ne vėliau kaip per 20 dienų nuo [[#^f8c8a84d41fc3018c9442d1b|šio straipsnio 2 dalyje]] nurodytų dokumentų pateikimo dienos, juos patikrinusi ir nustačiusi, kad branduolinės energetikos objekto statyba atitinka teritorijų planavimo dokumentų nustatyto statybos sklypo režimo reikalavimus. ^4be229dc333df215fa3bd804
+3. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą Vyriausybė ar jos įgaliota institucija išduoda ne vėliau kaip per 20 dienų nuo [[#^s-bcda5e12973eaadc917d5e2f|šio straipsnio 2 dalyje]] nurodytų dokumentų pateikimo dienos, juos patikrinusi ir nustačiusi, kad branduolinės energetikos objekto statyba atitinka teritorijų planavimo dokumentų nustatyto statybos sklypo režimo reikalavimus. ^s-6de531a10bc58cf16ffe2999
 
 
-4. Jei leidimas statyti ar rekonstruoti branduolinės energetikos objektą neišduodamas, Vyriausybė ar jos įgaliota institucija per [[#^d333ca90c330e5e925035fa8|šio straipsnio 3 dalyje]] nurodytą laiką praneša apie tai raštu statytojui (užsakovui), nurodydama konkrečias minėto leidimo neišdavimo priežastis. ^c600c7c384a0aee4c9f1657c
+4. Jei leidimas statyti ar rekonstruoti branduolinės energetikos objektą neišduodamas, Vyriausybė ar jos įgaliota institucija per šio straipsnio 3 dalyje nurodytą laiką praneša apie tai raštu statytojui (užsakovui), nurodydama konkrečias minėto leidimo neišdavimo priežastis. ^s-9a251ddf5f9c9d94b5df12ea
 
 
-5. Leidimas statyti ar rekonstruoti branduolinės energetikos objektą netenka galios: ^288e6a23c80f2b4a6ab4359f
+5. Leidimas statyti ar rekonstruoti branduolinės energetikos objektą netenka galios: ^s-bf761adf1ac726844f5d2465
 
 
-1) teismo sprendimu; ^ccb23a76366b5c54ef985c51
+1) teismo sprendimu; ^s-55c0755c6f674cb012407e5e
 
 
-2) Aplinkos ministerijos sprendimu – paaiškėjus, kad jis išduotas neteisėtai; ^0bb4e468d539a67740d4324b
+2) Aplinkos ministerijos sprendimu – paaiškėjus, kad jis išduotas neteisėtai; ^s-856bcfdf6ab38ca25775c58d
 
 
-3) jei per 10 metų nuo leidimo išdavimo dienos branduolinės energetikos objektas neperduotas eksploatuoti. ^1217c1c1ce780eb64ad1dbb3
+3) jei per 10 metų nuo leidimo išdavimo dienos branduolinės energetikos objektas neperduotas eksploatuoti. ^s-07066599022fe84dda583c50
 
 
-6. Leidimų statyti ar rekonstruoti branduolinės energetikos objektą išdavimo taisykles nustato Vyriausybė. ^fc1bd4bca0ecc3ff41de382e
+6. Leidimų statyti ar rekonstruoti branduolinės energetikos objektą išdavimo taisykles nustato Vyriausybė. ^s-bd0eb1af3f025ffdeac13c85
 
 
-7. Leidimų statyti ar rekonstruoti branduolinės energetikos objektus apskaitą, sąrašą bei statistikos atskaitomybę tvarko Vyriausybė ar jos įgaliota institucija.“ ^78d08de9591a0e8faba89ad4
+7. Leidimų statyti ar rekonstruoti branduolinės energetikos objektus apskaitą, sąrašą bei statistikos atskaitomybę tvarko Vyriausybė ar jos įgaliota institucija.“ ^s-5977a8ce43b5efc3e6193f6f
 
 
-3. Buvusias 32 straipsnio 2 ir [[#^d333ca90c330e5e925035fa8|3 dalis]] laikyti atitinkamai 8 ir 9 dalimis. ^d333ca90c330e5e925035fa8
+3. Buvusias 32 straipsnio 2 ir 3 dalis laikyti atitinkamai 8 ir 9 dalimis. ^s-8bcafebc5d6e9061287d61ad
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-06426229048ba2c07d018b15
 
 
 Įstatymas įsigalioja nuo 2002 m. liepos 1 d.

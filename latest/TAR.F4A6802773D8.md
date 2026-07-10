@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F4A6802773D8"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4, 5, 12 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4, 5, 12 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4, 5, 12 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-11-21"
 latest_path: "latest/TAR.F4A6802773D8.md"
 latest_sha256: "6f8eb59923fe35f493508e0166f19d4c83f2ee736cb3adc29bac086c5dd221ce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F4A6802773D8]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4, 5, 12 ir 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F4A6802773D8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F4A6802773D8
+- Ryšiai: [[Ryšiai/TAR.F4A6802773D8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Nr. 112-4965; 2003, Nr. 101-4542; 2004, Nr. 53-1791)
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas ^s-77b7b04613b30387a0bd67a6
 
 
 Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas
+### 2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas ^s-8cb41d5abfd4a5e52e3f9e1a
 
 
 Pakeisti 5 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
@@ -53,35 +58,35 @@ Pakeisti 5 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 12 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 12 straipsnio pakeitimas ir papildymas ^s-fa54a3b5d813b6c1e8ab7f1c
 
 
-1. Pakeisti 12 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip: ^ad561f742478566577bbe93f
+1. Pakeisti 12 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip: ^s-c777d566a44b1767130ed857
 
 
 „8) suteikta kaimo vietovėje mokslo ir studijų institucijoms, šių institucijų įsteigtoms viešosioms įstaigoms, organizuojančioms praktinį mokymą ir tyrimus, profesinio mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms, valstybiniams specializuotiems sėklininkystės, veislininkystės ūkiams ir specializuotą veislininkystės bei sėklininkystės veiklą vykdančioms valstybės kontroliuojamoms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei priklauso daugiau kaip 1/2 akcijų. Šios žemės naudotojų sąrašą ir jų naudojamų žemės sklypų dydžius nustato Vyriausybė;“.
 
 
-2. Papildyti 12 straipsnį 14 punktu: ^94bfcd1aaa379b8b3537fd56
+2. Papildyti 12 straipsnį 14 punktu: ^s-d0fe8f4cafd25edaa3412028
 
 
 „14) iki 1995 m. birželio 1 d. buvo miestams nustatyta tvarka priskirtose teritorijose ir yra užimta parkų. Šių parkų ribas ir plotus nustato Vyriausybė.“
 
 
-3. Papildyti 12 straipsnį 2 dalimi: ^36d8a3a70f36ca4687260e05
+3. Papildyti 12 straipsnį 2 dalimi: ^s-89dccc902911d1ff07c49e33
 
 
-„2. Žemė iš šio įstatymo [[#2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas|2 straipsnyje]] nurodytų piliečių, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, taip pat išperkama valstybės ir už ją atlyginama pagal šio įstatymo 16 straipsnį, jeigu ji:
+„2. Žemė iš šio įstatymo [[#^s-8cb41d5abfd4a5e52e3f9e1a|2 straipsnyje]] nurodytų piliečių, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, taip pat išperkama valstybės ir už ją atlyginama pagal šio įstatymo 16 straipsnį, jeigu ji:
 
 
-1) pagal įstatymų nustatyta tvarka patvirtintus žemės reformos žemėtvarkos projektus užimta suprojektuotų, numatomų perduoti neatlygintinai nuosavybėn kitiems piliečiams žemės sklypų; ^1ed3f83362d75eba0d28d22a
+1) pagal įstatymų nustatyta tvarka patvirtintus žemės reformos žemėtvarkos projektus užimta suprojektuotų, numatomų perduoti neatlygintinai nuosavybėn kitiems piliečiams žemės sklypų; ^s-7f8aec053b0bd5b4e5f5d8f3
 
 
-2) iki 1995 m. birželio 1 d. buvo miestams nustatyta tvarka priskirtose teritorijose, kur buvo likusi rėžių sistema, ir pagal nustatyta tvarka savivaldybės administracijos direktoriaus patvirtintus žemės sklypų planus numatoma grąžinti piliečiams, kurie prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki sprendimo dėl šių planų patvirtinimo priėmimo.“ ^4e8b9d3c00fc2340b328a764
+2) iki 1995 m. birželio 1 d. buvo miestams nustatyta tvarka priskirtose teritorijose, kur buvo likusi rėžių sistema, ir pagal nustatyta tvarka savivaldybės administracijos direktoriaus patvirtintus žemės sklypų planus numatoma grąžinti piliečiams, kurie prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki sprendimo dėl šių planų patvirtinimo priėmimo.“ ^s-fd93c082cc5d7f96b2154348
 
 
 
-### 4 straipsnis. 13 straipsnio papildymas 2 dalimi
+### 4 straipsnis. 13 straipsnio papildymas 2 dalimi ^s-a99095441814d27dcef17280
 
 
 Papildyti 13 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
@@ -90,31 +95,31 @@ Papildyti 13 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 „13 straipsnis. Valstybės išperkami miškai ir vandens telkiniai
 
 
-1. Miškai ir vandens telkiniai iš šio įstatymo [[#2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas|2 straipsnyje]] nurodytų piliečių išperkami valstybės ir už juos valstybė atlygina pagal šio įstatymo 16 straipsnį, jeigu jie: ^9e7eb05a0ade71a6d1ed1cac
+1. Miškai ir vandens telkiniai iš šio įstatymo [[#^s-8cb41d5abfd4a5e52e3f9e1a|2 straipsnyje]] nurodytų piliečių išperkami valstybės ir už juos valstybė atlygina pagal šio įstatymo 16 straipsnį, jeigu jie: ^s-38ffa00a663a0b1a9356eea9
 
 
-1) priskirti valstybinės reikšmės miškams, valstybinės reikšmės vidaus vandenims. Šių miškų ir vandens telkinių plotus tvirtina Vyriausybė; ^f6430eb98b0358e9852097d3
+1) priskirti valstybinės reikšmės miškams, valstybinės reikšmės vidaus vandenims. Šių miškų ir vandens telkinių plotus tvirtina Vyriausybė; ^s-14d98d40de0d21b07bc3290c
 
 
-2) priskirti valstybiniams rezervatams, valstybinių parkų rezervatams ir rezervatinėms apyrubėms, Kuršių nerijos nacionaliniam parkui; ^eb251ecdf581ad195c79a704
+2) priskirti valstybiniams rezervatams, valstybinių parkų rezervatams ir rezervatinėms apyrubėms, Kuršių nerijos nacionaliniam parkui; ^s-d6f99e5581cec92b147bcfc3
 
 
-3) priskirti miestų miškams, miestų sanitarinės apsaugos pirmajai zonai, miško parkams. Išvardytų miškų sąrašus su juose nurodytais miškų plotais tvirtina Vyriausybė; ^d5915045a5153887ecdcf30d
+3) priskirti miestų miškams, miestų sanitarinės apsaugos pirmajai zonai, miško parkams. Išvardytų miškų sąrašus su juose nurodytais miškų plotais tvirtina Vyriausybė; ^s-28d667034c4924d5fc1f66d8
 
 
-4) priskirti miško genetiniams draustiniams, valstybiniams miško medelynams, valstybiniams miško daigynams ir miško sėklinėms plantacijoms; ^af5c0b58d2a7bd5fe67d13ac
+4) priskirti miško genetiniams draustiniams, valstybiniams miško medelynams, valstybiniams miško daigynams ir miško sėklinėms plantacijoms; ^s-99b65872fb38caec4d09c8df
 
 
-5) priskirti miškų mokslinio tyrimo ir mokymo bei selekcinės sėklininkystės objektams. Šių miškų plotus tvirtina Vyriausybė; ^52d8e90455d0e231017a1b2c
+5) priskirti miškų mokslinio tyrimo ir mokymo bei selekcinės sėklininkystės objektams. Šių miškų plotus tvirtina Vyriausybė; ^s-68596ae7ec3b5914bef20826
 
 
-6) valstybinės reikšmės miškai, esantys 7 km pločio juostoje nuo Baltijos jūros ir Kuršių marių; ^5e04e4585aefbfb99d45df5d
+6) valstybinės reikšmės miškai, esantys 7 km pločio juostoje nuo Baltijos jūros ir Kuršių marių; ^s-8ca63236fe6ca4a0e3d77986
 
 
-7) pagal įstatymus įsigyti privačion nuosavybėn. ^f58770b5db33f591f97dc026
+7) pagal įstatymus įsigyti privačion nuosavybėn. ^s-1ad2736d0f13e3755b858508
 
 
-2. Miškas ir vandens telkiniai iš šio įstatymo [[#2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas|2 straipsnyje]] nurodytų piliečių, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, taip pat išperkami valstybės ir už juos atlyginama pagal šio įstatymo 16 straipsnį, jeigu jie pagal įstatymų nustatyta tvarka patvirtintus žemės reformos žemėtvarkos projektus užimti suprojektuotų numatomų perduoti neatlygintinai nuosavybėn kitiems piliečiams miško sklypų ar vandens telkinių.“ ^430534edee0f94f08cc57fbc
+2. Miškas ir vandens telkiniai iš šio įstatymo [[#^s-8cb41d5abfd4a5e52e3f9e1a|2 straipsnyje]] nurodytų piliečių, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, taip pat išperkami valstybės ir už juos atlyginama pagal šio įstatymo 16 straipsnį, jeigu jie pagal įstatymų nustatyta tvarka patvirtintus žemės reformos žemėtvarkos projektus užimti suprojektuotų numatomų perduoti neatlygintinai nuosavybėn kitiems piliečiams miško sklypų ar vandens telkinių.“ ^s-1f230bffd9ed5b4b76d8c60d
 
 
 

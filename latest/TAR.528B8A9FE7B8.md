@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.528B8A9FE7B8"
 pavadinimas: "Lietuvos Respublikos profesinių sąjungų įstatymo preambulės, 1, 2, 3, 4, 8, 9, 13, 14, 15, 16, 17, 20, 21 straipsnių ir iv skirsnio pavadinimo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos profesinių sąjungų įstatymo preambulės, 1, 2, 3, 4, 8, 9, 13, 14, 15, 16, 17, 20, 21 straipsnių ir iv skirsnio pavadinimo pakeitimo įstatymas"
+  - "profesinių sąjungų įstatymo preambulės, 1, 2, 3, 4, 8, 9, 13, 14, 15, 16, 17, 20, 21 straipsnių ir iv skirsnio pavadinimo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-28"
 latest_path: "latest/TAR.528B8A9FE7B8.md"
 latest_sha256: "f2ec7935aa3b2ffde848b9d99725dc72bd2d5e3dc86aa31cc3a7d2d765f26f2c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.528B8A9FE7B8]]"
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo preambulės, 1, 2, 3, 4, 8, 9, 13, 14, 15, 16, 17, 20, 21 straipsnių ir iv skirsnio pavadinimo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.528B8A9FE7B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.528B8A9FE7B8
+- Ryšiai: [[Ryšiai/TAR.528B8A9FE7B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Preambulės pakeitimas
+### 1 straipsnis. Preambulės pakeitimas ^s-66db1bfefdfa43efb916e6b7
 
 
 Pakeisti preambulę ir ją išdėstyti taip:
@@ -47,14 +52,14 @@ Pakeisti preambulę ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 1 straipsnio pakeitimas
+### 2 straipsnis. 1 straipsnio pakeitimas ^s-4293e8bec9b8f42cc2f27512
 
 
-Pakeisti [[#1 straipsnis. Preambulės pakeitimas|1 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-66db1bfefdfa43efb916e6b7|1 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#1 straipsnis. Preambulės pakeitimas|1 straipsnis]]. Teisė jungtis į profesines sąjungas
+„[[#^s-66db1bfefdfa43efb916e6b7|1 straipsnis]]. Teisė jungtis į profesines sąjungas
 
 
 Fiziniai asmenys, turintys darbinį teisnumą ir veiksnumą, turi teisę laisvai steigti ir stoti į profesines sąjungas valstybės, šakos ar teritoriniu lygiu ir dalyvauti jų veikloje. Įmonės ar jos struktūrinio padalinio lygiu organizuotų profesinių sąjungų nariais gali būti tik tos įmonės ar jos struktūrinio padalinio darbuotojai.
@@ -70,14 +75,14 @@ Darbdavys, jo įgaliotasis atstovas negali būti jo įmonėje, įstaigoje, organ
 
 
 
-### 3 straipsnis. 2 straipsnio pakeitimas
+### 3 straipsnis. 2 straipsnio pakeitimas ^s-5cb5501b266924667abd86ab
 
 
-Pakeisti [[#2 straipsnis. 1 straipsnio pakeitimas|2 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-4293e8bec9b8f42cc2f27512|2 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#2 straipsnis. 1 straipsnio pakeitimas|2 straipsnis]]. Profesinių sąjungų narystė
+„[[#^s-4293e8bec9b8f42cc2f27512|2 straipsnis]]. Profesinių sąjungų narystė
 
 
 Į profesinę sąjungą įstojama ir iš jos išstojama profesinės sąjungos įstatuose (statute) nustatyta tvarka.
@@ -90,7 +95,7 @@ Kiti profesinių sąjungų nariai turi visas profesinės sąjungos narių teises
 
 
 
-### 4 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-a0ae8d1671f37157908bf217
 
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -100,14 +105,14 @@ Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 4 straipsnio pakeitimas
+### 5 straipsnis. 4 straipsnio pakeitimas ^s-9c3740451d54097f8ff9baea
 
 
-Pakeisti [[#4 straipsnis. 3 straipsnio 2 dalies pakeitimas|4 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-a0ae8d1671f37157908bf217|4 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#4 straipsnis. 3 straipsnio 2 dalies pakeitimas|4 straipsnis]]. Profesinių sąjungų veiklos teisiniai pagrindai
+„[[#^s-a0ae8d1671f37157908bf217|4 straipsnis]]. Profesinių sąjungų veiklos teisiniai pagrindai
 
 
 Profesinės sąjungos veikia, laikydamosi Lietuvos Respublikos Konstitucijos, šio ir kitų Lietuvos Respublikos įstatymų, Tarptautinės darbo organizacijos konvencijų, ir savo veiklą grindžia nustatyta tvarka įregistruotais profesinės sąjungos įstatais (statutu).
@@ -117,7 +122,7 @@ Valstybės, šakos ar teritoriniu lygiu organizuotos profesinės sąjungos pagal
 
 
 
-### 6 straipsnis. 8 straipsnio 2 dalies 8 punkto pakeitimas
+### 6 straipsnis. 8 straipsnio 2 dalies 8 punkto pakeitimas ^s-ad4ca64b58a2322af4445568
 
 
 Pakeisti 8 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip:
@@ -127,23 +132,23 @@ Pakeisti 8 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 9 straipsnio pakeitimas
+### 7 straipsnis. 9 straipsnio pakeitimas ^s-cb050c35ccaec75512c1bdf8
 
 
-Pakeisti [[#9 straipsnis. IV skirsnio pavadinimo pakeitimas|9 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-08f823a2be848f551ed3401f|9 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#9 straipsnis. IV skirsnio pavadinimo pakeitimas|9 straipsnis]]. Profesinės sąjungos, jų susivienijimų veiklos sustabdymas ar nutraukimas
+„[[#^s-08f823a2be848f551ed3401f|9 straipsnis]]. Profesinės sąjungos, jų susivienijimų veiklos sustabdymas ar nutraukimas
 
 
 Profesinės sąjungos, jų susivienijimų veikla gali būti sustabdyta ir nutraukta:
 
 
-1) jų įstatuose (statute) nustatyta tvarka; ^4ba44750bef119948dcba581
+1) jų įstatuose (statute) nustatyta tvarka; ^s-4d7e12994412bd7d9a8ea409
 
 
-2) teismo sprendimu. ^9e62be5748fe1799e175b339
+2) teismo sprendimu. ^s-7a96ba84ce9c3616f2fbc35d
 
 
 Jei profesinė sąjunga, jų susivienijimas pažeidžia Lietuvos Respublikos Konstituciją, šį ir kitus Lietuvos Respublikos įstatymus, prokuroras apie pažeidimą raštu praneša profesinės sąjungos, susivienijimo valdymo organams ir nurodo terminą, per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti, prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų susivienijimo veiklos sustabdymo.
@@ -156,14 +161,14 @@ Profesinių sąjungų, jų susivienijimų veikla teismo sprendimu taip pat gali 
 
 
 
-### 8 straipsnis. 13 straipsnio pakeitimas
+### 8 straipsnis. 13 straipsnio pakeitimas ^s-2230970eeb5b8771003606c5
 
 
-Pakeisti [[#13 straipsnis. 17 straipsnio pakeitimas|13 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-ad7a5d61a72a9f5378ac625f|13 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#13 straipsnis. 17 straipsnio pakeitimas|13 straipsnis]]. Darbdavio pareigos santykiuose su profesinėmis sąjungomis
+„[[#^s-ad7a5d61a72a9f5378ac625f|13 straipsnis]]. Darbdavio pareigos santykiuose su profesinėmis sąjungomis
 
 
 Darbo, ekonominius, socialinius klausimus įstatymų numatytais atvejais darbdavys privalo spręsti, suderinęs su profesinės sąjungos organais.
@@ -182,7 +187,7 @@ Profesinės sąjungos atstovaujamųjų ir (arba) valdymo organų nariai pareigas
 
 
 
-### 9 straipsnis. IV skirsnio pavadinimo pakeitimas
+### 9 straipsnis. IV skirsnio pavadinimo pakeitimas ^s-08f823a2be848f551ed3401f
 
 
 IV skirsnio pavadinime vietoj žodžio „organai“ įrašyti žodžius „ir savivaldybių institucijos bei įstaigos“ ir skirsnio pavadinimą išdėstyti taip:
@@ -192,28 +197,28 @@ IV skirsnio pavadinime vietoj žodžio „organai“ įrašyti žodžius „ir s
 
 
 
-### 10 straipsnis. 14 straipsnio pakeitimas
+### 10 straipsnis. 14 straipsnio pakeitimas ^s-c0948f008e6ae3b2b1b4cb1e
 
 
-Pakeisti [[#14 straipsnis. 20 straipsnio pakeitimas|14 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-d2f6672177e148af36b3167c|14 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#14 straipsnis. 20 straipsnio pakeitimas|14 straipsnis]]. Profesinių sąjungų teisė teisės aktų leidyboje
+„[[#^s-d2f6672177e148af36b3167c|14 straipsnis]]. Profesinių sąjungų teisė teisės aktų leidyboje
 
 
 Profesinės sąjungos ir jų susivienijimai teikia pasiūlymus valstybės ir savivaldybių institucijoms bei įstaigoms dėl teisės aktų darbo, ekonominiais ir socialiniais klausimais priėmimo, pakeitimo ar panaikinimo.“
 
 
 
-### 11 straipsnis. 15 straipsnio pakeitimas
+### 11 straipsnis. 15 straipsnio pakeitimas ^s-20b245da3e58ccaf7c8ebbdf
 
 
-Pakeisti [[#15 straipsnis. 21 straipsnio pakeitimas|15 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-7840e21870bc8de41487f23c|15 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#15 straipsnis. 21 straipsnio pakeitimas|15 straipsnis]]. Profesinių sąjungų teisių gynimas
+„[[#^s-7840e21870bc8de41487f23c|15 straipsnis]]. Profesinių sąjungų teisių gynimas
 
 
 Profesinės sąjungos atstovauja savo nariams ir įstatymų nustatyta tvarka gina savo ir savo narių teises ir teisėtus interesus valstybės ir savivaldybių institucijose bei įstaigose.
@@ -223,7 +228,7 @@ Profesinės sąjungos, gindamos savo narių teises ir teisėtus interesus, gali 
 
 
 
-### 12 straipsnis. 16 straipsnio pakeitimas
+### 12 straipsnis. 16 straipsnio pakeitimas ^s-a3ebbc2f6d1dc6b4d408a716
 
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
@@ -240,7 +245,7 @@ Valstybės ir savivaldybių institucijos bei įstaigos skatina derybas tarp prof
 
 
 
-### 13 straipsnis. 17 straipsnio pakeitimas
+### 13 straipsnis. 17 straipsnio pakeitimas ^s-ad7a5d61a72a9f5378ac625f
 
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
@@ -257,7 +262,7 @@ Profesinės sąjungos, jų inspekcijos informaciją dėl darbo įstatymų, kitų
 
 
 
-### 14 straipsnis. 20 straipsnio pakeitimas
+### 14 straipsnis. 20 straipsnio pakeitimas ^s-d2f6672177e148af36b3167c
 
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
@@ -274,7 +279,7 @@ Asmenys, neteisėtais veiksmais padarę žalą profesinei sąjungai, privalo ją
 
 
 
-### 15 straipsnis. 21 straipsnio pakeitimas
+### 15 straipsnis. 21 straipsnio pakeitimas ^s-7840e21870bc8de41487f23c
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:

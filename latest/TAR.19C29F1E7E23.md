@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.19C29F1E7E23"
 pavadinimas: "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 2, 12, 18(1), 20, 23 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 2, 12, 18(1), 20, 23 straipsnių pakeitimo ir papildymo įstatymas"
+  - "žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 2, 12, 18(1), 20, 23 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-25"
 latest_path: "latest/TAR.19C29F1E7E23.md"
 latest_sha256: "de793f799bc2bed67fe773723475736e42eaf5f703fc886bb7747f7842ed3bea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.19C29F1E7E23]]"
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 2, 12, 18(1), 20, 23 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.19C29F1E7E23.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.19C29F1E7E23
+- Ryšiai: [[Ryšiai/TAR.19C29F1E7E23|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 10 dalies pakeitimas ^s-896742a93857a7e7efe8b758
 
 
 Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
@@ -40,29 +45,29 @@ Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 12 straipsnio pakeitimas
+### 2 straipsnis. 12 straipsnio pakeitimas ^s-1b6c3cea7ade6598dfaa35ce
 
 
-1. 12 straipsnio 2 dalį pripažinti netekusia galios. ^681d69869d653e6e1a115356
+1. 12 straipsnio 2 dalį pripažinti netekusia galios. ^s-3b58101417aa3b95111c68dc
 
 
-2. Buvusias 3, 4, 5 ir 6 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^861803b8dcfd0361f35252e0
+2. Buvusias 3, 4, 5 ir 6 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^s-8177bf5e17cc15c1ab67a16e
 
 
-3. 12 straipsnio 2 dalyje išbraukti žodžius „Nukentėjusiesiems, kuriems žalos atlyginimas iki šio įstatymo įsigaliojimo buvo paskirtas“ ir šią dalį išdėstyti taip: ^4b8d9cd0ce7b62c262de31bd
+3. 12 straipsnio 2 dalyje išbraukti žodžius „Nukentėjusiesiems, kuriems žalos atlyginimas iki šio įstatymo įsigaliojimo buvo paskirtas“ ir šią dalį išdėstyti taip: ^s-0e91d4cac34db22807656a28
 
 
 „2. Kompensuojamasis uždarbis apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10 dalis), t.y. pagal formulę k x D.“
 
 
-4. 12 straipsnio 3 dalyje vietoj skaičiaus „3“ įrašyti skaičių „2“ ir šią dalį išdėstyti taip: ^ec248aaa010045af1fde7f3d
+4. 12 straipsnio 3 dalyje vietoj skaičiaus „3“ įrašyti skaičių „2“ ir šią dalį išdėstyti taip: ^s-59ffdfdc5da7dbf4200b3afe
 
 
 „3. Jeigu nukentėjusiajam nustatytas pastovus nedarbingumas, išmokama trigubai didesnė vienkartinė kompensacija, negu nurodyta šio straipsnio 1 ir 2 dalyse.“
 
 
 
-### 3 straipsnis. 181 straipsnio 1 dalies 3 punkto pakeitimas
+### 3 straipsnis. 181 straipsnio 1 dalies 3 punkto pakeitimas ^s-26061b4773d65b52f2bd8b55
 
 
 Pakeisti 181 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
@@ -72,7 +77,7 @@ Pakeisti 181 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 20 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 20 straipsnio 3 dalies pakeitimas ^s-a30cf96bf3ea6bcbff75b022
 
 
 Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -82,7 +87,7 @@ Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 23 straipsnio papildymas 7 dalimi
+### 5 straipsnis. 23 straipsnio papildymas 7 dalimi ^s-b2a2228739e87c6f75a13acf
 
 
 Papildyti 23 straipsnį 7 dalimi:
@@ -91,17 +96,17 @@ Papildyti 23 straipsnį 7 dalimi:
 „7. Šis įstatymas taikomas žalai atlyginti:
 
 
-1) dėl nelaimingų atsitikimų darbe, įvykusių iki 1999 m. gruodžio 31 d. įskaitytinai, ir susirgimų profesine liga, kurie nustatyta tvarka buvo pripažinti profesinėmis ligomis iki 1999 m. gruodžio 31 d. įskaitytinai; ^86863c166806159763234b79
+1) dėl nelaimingų atsitikimų darbe, įvykusių iki 1999 m. gruodžio 31 d. įskaitytinai, ir susirgimų profesine liga, kurie nustatyta tvarka buvo pripažinti profesinėmis ligomis iki 1999 m. gruodžio 31 d. įskaitytinai; ^s-5a6d6f1eb47e758d2ebeb2de
 
 
-2) dėl susirgimų profesine liga, nustatyta tvarka pripažintų profesinėmis ligomis nuo 2000 m. sausio 1 d. iki 2001 m. liepos 1 d. tiems nukentėjusiesiems, kurie nebuvo apdrausti pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatas.“ ^b63a729c18c1d3e6e12779da
+2) dėl susirgimų profesine liga, nustatyta tvarka pripažintų profesinėmis ligomis nuo 2000 m. sausio 1 d. iki 2001 m. liepos 1 d. tiems nukentėjusiesiems, kurie nebuvo apdrausti pagal [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo]] nuostatas.“ ^s-0bfa65f3ee682d58ea157d34
 
 
 
-### 6 straipsnis. Įstatymo 3 straipsnio įsigaliojimas
+### 6 straipsnis. Įstatymo 3 straipsnio įsigaliojimas ^s-0a72cd0334386728b17f0d7e
 
 
-Šio Įstatymo [[#3 straipsnis. 181 straipsnio 1 dalies 3 punkto pakeitimas|3 straipsnis]] įsigalioja nuo 2003 m. sausio 1 d.
+Šio Įstatymo [[#^s-26061b4773d65b52f2bd8b55|3 straipsnis]] įsigalioja nuo 2003 m. sausio 1 d.
 
 
 

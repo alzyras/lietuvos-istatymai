@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A1FFB9E4275D"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 3, 4, 8, 10, 12, 33, 36 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 3, 4, 8, 10, 12, 33, 36 straipsnių pakeitimo ir papildymo įstatymas"
+  - "akcizų įstatymo 3, 4, 8, 10, 12, 33, 36 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-01"
 latest_path: "latest/TAR.A1FFB9E4275D.md"
 latest_sha256: "6543706f068344763d6df3f8ec7bd341f1cd0b988c5dd095dcc73912e8957e47"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A1FFB9E4275D]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 3, 4, 8, 10, 12, 33, 36 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A1FFB9E4275D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A1FFB9E4275D
+- Ryšiai: [[Ryšiai/TAR.A1FFB9E4275D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 13 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 13 dalies pakeitimas ^s-3e46670e511df6dd1429dd18
 
 
 Pakeisti 3 straipsnio 13 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 3 straipsnio 13 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-191bd568f35015b6c691e01e
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -51,27 +56,27 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio 3 dalies pripažinimas netekusia galios ir 6 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 3 dalies pripažinimas netekusia galios ir 6 dalies pakeitimas ^s-3924791f9c1f2cf9ace19d1e
 
 
-1. [[#^f9c22a5925ce6c0e0f019b82|8 straipsnio 3 dalį]] pripažinti netekusia galios. ^fec56a0b8960bd3cb258bd04
+1. [[#^s-e172d10d41fc8e712cb81b62|8 straipsnio 3 dalį]] pripažinti netekusia galios. ^s-a3795fb0b04db159cf5cef00
 
 
-2. Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip: ^13ccf4d82b75ca5420723165
+2. Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip: ^s-0ce727f93c23d8ec011727e6
 
 
 „6. Šio straipsnio 1, 2 ir 4 dalių nuostatos netaikomos importuojamoms akcizais apmokestinamoms prekėms.“
 
 
 
-### 4 straipsnis. 10 straipsnio 2 dalies pripažinimas netekusia galios
+### 4 straipsnis. 10 straipsnio 2 dalies pripažinimas netekusia galios ^s-452562171eeaed988296c7dc
 
 
 10 straipsnio 2 dalį pripažinti netekusia galios.
 
 
 
-### 5 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-249ed9f4c3923ac1c0c43d0d
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -81,7 +86,7 @@ Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 33 straipsnio pakeitimas
+### 6 straipsnis. 33 straipsnio pakeitimas ^s-742643b2e718e581d488b369
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
@@ -94,38 +99,38 @@ Naftos dujoms ir dujiniams angliavandeniliams, jų pakaitalams ir priedams taiko
 
 
 
-### 7 straipsnis. 36 straipsnio papildymas
+### 7 straipsnis. 36 straipsnio papildymas ^s-e21d3e4106f884fa6b233086
 
 
-1. Papildyti 36 straipsnio 1 dalį 7–[[#^798e28d80b60b348582cce9d|9 punktais]]: ^43a861a0fad721f6225a5657
+1. Papildyti 36 straipsnio 1 dalį 7–[[#^s-e3800ee0d340295cb479312a|9 punktais]]: ^s-2e2315dac64834bb6b4ec19c
 
 
 „7) naftos dujos ir dujiniai angliavandeniliai, išpilstyti į buitinius dujų balionus;
 
 
-8) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, įsigyjami arba importuojami centrinio mokesčio administratoriaus nustatyta tvarka registruotų vartotojų, tiekiančių (naudojančių) juos buitinėms reikmėms (šildymui, maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos dujas į buitinius dujų balionus (toliau – registruoti vartotojai); ^6a880be9b201e1db9332fdaa
+8) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, įsigyjami arba importuojami centrinio mokesčio administratoriaus nustatyta tvarka registruotų vartotojų, tiekiančių (naudojančių) juos buitinėms reikmėms (šildymui, maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos dujas į buitinius dujų balionus (toliau – registruoti vartotojai); ^s-8b1383d50e25da4246d76a6b
 
 
-9) neišpilstytos dujos ir dujiniai angliavandeniliai, registruotų vartotojų tiekiami į grupinius įrenginius, per kuriuos jie gali būti tiekiami tik buitinėms reikmėms.“ ^798e28d80b60b348582cce9d
+9) neišpilstytos dujos ir dujiniai angliavandeniliai, registruotų vartotojų tiekiami į grupinius įrenginius, per kuriuos jie gali būti tiekiami tik buitinėms reikmėms.“ ^s-e3800ee0d340295cb479312a
 
 
-2. Papildyti 36 straipsnį 3 dalimi: ^a22f6b927846fe8575c82156
+2. Papildyti 36 straipsnį 3 dalimi: ^s-597fd3ba03998e2f2c8f2227
 
 
 „3. Šio straipsnio 1 dalies 8 punkte nurodytiems registruotiems vartotojams apskaitos reikalavimus nustato centrinis mokesčio administratorius.“
 
 
 
-### 8 straipsnis. Baigiamosios nuostatos
+### 8 straipsnis. Baigiamosios nuostatos ^s-0a0b0c7d5a196459b8bcafed
 
 
-1. Šis Įstatymas įsigalioja nuo 2004 m. kovo 1 d. ^61b421d8f5b19dca252f57de
+1. Šis Įstatymas įsigalioja nuo 2004 m. kovo 1 d. ^s-2252854f91f2c10d68d14cad
 
 
-2. Leidimai steigti akcizais apmokestinamų prekių sandėlius patalpose (teritorijose), kuriose vykdoma mažmeninė prekyba skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be Lietuvos Respublikos akcizų įstatymo 9 straipsnio 1 ir [[#^ed12876e45002e2cc6ba9e67|2 dalyse]] nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d. ^ed12876e45002e2cc6ba9e67
+2. Leidimai steigti akcizais apmokestinamų prekių sandėlius patalpose (teritorijose), kuriose vykdoma mažmeninė prekyba skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be [[latest/TAR.B9E1D301256F#^s-d900c0252f0c9a1279e34bac|Lietuvos Respublikos akcizų įstatymo 9 straipsnio]] 1 ir [[#^s-ec4b9c27e895babbb92d3cbf|2 dalyse]] nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d. ^s-ec4b9c27e895babbb92d3cbf
 
 
-3. Asmenys, iki šio Įstatymo įsigaliojimo įsteigę akcizais apmokestinamų prekių sandėlį, kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo. ^f9c22a5925ce6c0e0f019b82
+3. Asmenys, iki šio Įstatymo įsigaliojimo įsteigę akcizais apmokestinamų prekių sandėlį, kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo. ^s-e172d10d41fc8e712cb81b62
 
 
 

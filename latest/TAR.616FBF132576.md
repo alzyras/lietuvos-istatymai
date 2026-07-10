@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.616FBF132576"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 7-2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 7-2 straipsnių pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 2 ir 7-2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-15"
 latest_path: "latest/TAR.616FBF132576.md"
 latest_sha256: "b05dbd4eef9e02188c72308cf106bed3cb33adb6d16f7ed1554a2db7dc20602c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.616FBF132576]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 7-2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.616FBF132576.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.616FBF132576
+- Ryšiai: [[Ryšiai/TAR.616FBF132576|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 27 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies 27 punkto pakeitimas ^s-06478cad79de12080aeb3216
 
 
 Pakeisti 2 straipsnio 1 dalies 27 punktą ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 2 straipsnio 1 dalies 27 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 72 straipsnio pakeitimas
+### 2 straipsnis. 72 straipsnio pakeitimas ^s-c31d9f1e8e93bd1674b1c8b0
 
 
 Pakeisti 72 straipsnį ir jį išdėstyti taip:
@@ -54,10 +59,10 @@ Pakeisti 72 straipsnį ir jį išdėstyti taip:
 „72 straipsnis. Asmenų, suteikusių auką politinės kampanijos dalyviui, ir jų šeimos narių turto (įskaitant gautas pajamas) deklaravimas
 
 
-1. Asmenys, suteikę auką politinės kampanijos dalyviui, ir jų šeimos nariai privalo deklaruoti kalendorinių metų, kuriais jie suteikė auką politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą ir pajamas pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^2ea257666149f22be1542d4f
+1. Asmenys, suteikę auką politinės kampanijos dalyviui, ir jų šeimos nariai privalo deklaruoti kalendorinių metų, kuriais jie suteikė auką politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą ir pajamas pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^s-bd65fb96f83dd413c258da68
 
 
-2. Deklaracija pateikiama iki kalendorinių metų, einančių po kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos.“ ^8a32a9d5976b98cc908cd4db
+2. Deklaracija pateikiama iki kalendorinių metų, einančių po kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos.“ ^s-7477c6355734bbab755523c8
 
 
 

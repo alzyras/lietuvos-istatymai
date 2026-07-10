@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B40BC8B74C73"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2, 12 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2, 12 straipsnių pakeitimo ir papildymo įstatymas"
+  - "pinigų plovimo prevencijos įstatymo 2, 12 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-01"
 latest_path: "latest/TAR.B40BC8B74C73.md"
 latest_sha256: "08b31761ddbf2c3597210cdc074c3b64c81d1d60d89522e2b11ae2fe3a0738e4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B40BC8B74C73]]"
 ---
 # Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 2, 12 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B40BC8B74C73.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B40BC8B74C73
+- Ryšiai: [[Ryšiai/TAR.B40BC8B74C73|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-69e6156fec3a1c15b773f3d0
 
 
 2 straipsnio 5 dalies antrajame sakinyje po žodžio „Lombardo“ įrašyti žodžius „azartinius lošimus organizuojančios bendrovės“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 12 straipsnio 7 dalies 2 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 7 dalies 2 punkto pakeitimas ^s-93095ce4de699624d0db33a7
 
 
 Iš 12 straipsnio 7 dalies 2 punkto išbraukti žodį „bingo“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Iš 12 straipsnio 7 dalies 2 punkto išbraukti žodį „bingo“ ir šį punkt�
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-54d4f99d1acedc2267263de1
 
 
 Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE9E4EA038CB"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-17"
 latest_path: "latest/TAR.DE9E4EA038CB.md"
 latest_sha256: "6dd4d60651ce79a5e10756e7b274fc0206102cbf689ebc6653ae221a3eff4aa6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE9E4EA038CB]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE9E4EA038CB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE9E4EA038CB
+- Ryšiai: [[Ryšiai/TAR.DE9E4EA038CB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 3 dalies papildymas 10 punktu
+### 1 straipsnis. 19 straipsnio 3 dalies papildymas 10 punktu ^s-8dccb82e89994843c8398f09
 
 
 Papildyti 19 straipsnio 3 dalį 10 punktu:

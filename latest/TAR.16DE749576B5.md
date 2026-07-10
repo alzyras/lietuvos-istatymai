@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.16DE749576B5"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo \"Dėl 1957 m. gruodžio 13 d. Europos konvencijos dėl ekstradicijos, 1975 m. spalio 15 d. Europos konvencijos dėl ekstradicijos papildomo protokolo ir 1978 m. kovo 17 d. Europos konvencijos dėl ekstradicijos antrojo papildomojo protokolo ratifikavimo\" 2 punkto papildymo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo \"Dėl 1957 m. gruodžio 13 d. Europos konvencijos dėl ekstradicijos, 1975 m. spalio 15 d. Europos konvencijos dėl ekstradicijos papildomo protokolo ir 1978 m. kovo 17 d. Europos konvencijos dėl ekstradicijos antrojo papildomojo protokolo ratifikavimo\" 2 punkto papildymo"
+  - "įstatymas dėl Lietuvos Respublikos Seimo nutarimo \"Dėl 1957 m. gruodžio 13 d. Europos konvencijos dėl ekstradicijos, 1975 m. spalio 15 d. Europos konvencijos dėl ekstradicijos papildomo protokolo ir 1978 m. kovo 17 d. Europos konvencijos dėl ekstradicijos antrojo papildomojo protokolo ratifikavimo\" 2 punkto papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-13"
 latest_path: "latest/TAR.16DE749576B5.md"
 latest_sha256: "1c2933a1e19571300db6e7dd2bbf2332f41876d2bda5f5f5cf7bb3ded2171a5d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.16DE749576B5]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo "Dėl 1957 m. gruodžio 13 d. Europos konvencijos dėl ekstradicijos, 1975 m. spalio 15 d. Europos konvencijos dėl ekstradicijos papildomo protokolo ir 1978 m. kovo 17 d. Europos konvencijos dėl ekstradicijos antrojo papildomojo protokolo ratifikavimo" 2 punkto papildymo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.16DE749576B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.16DE749576B5
+- Ryšiai: [[Ryšiai/TAR.16DE749576B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 punkto papildymas
+### 1 straipsnis. 2 punkto papildymas ^s-f4761c3acc7081aa9fcd43d5
 
 
 Papildyti 2 punktą šiuo pareiškimu:

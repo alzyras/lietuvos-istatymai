@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5F6B93BA30A3"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo\" 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo\" 3 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo\" 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.5F6B93BA30A3.md"
 latest_sha256: "5f8f32abd9fba2def57390756c6a4eb29e8ee571b1f07021fb60d71bcf2ddc08"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5F6B93BA30A3]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo" 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5F6B93BA30A3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5F6B93BA30A3
+- Ryšiai: [[Ryšiai/TAR.5F6B93BA30A3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-2fddc2771e6b6ba69d8155b5
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
@@ -49,7 +54,7 @@ Veiklos branduolinės energetikos srityje ir kitos veiklos, susijusios su brandu
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-8a9768fd3188c7012bdba1c1
 
 
 Šis įstatymas įsigalioja 2011 m. spalio 1 d.

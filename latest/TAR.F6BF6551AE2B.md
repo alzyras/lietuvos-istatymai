@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F6BF6551AE2B"
 pavadinimas: "Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-04-27"
 latest_path: "latest/TAR.F6BF6551AE2B.md"
 latest_sha256: "815da2027da907b141a66248796f6689f6b171a1522e2148f358de36bdfb8331"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F6BF6551AE2B]]"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F6BF6551AE2B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F6BF6551AE2B
+- Ryšiai: [[Ryšiai/TAR.F6BF6551AE2B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,14 +38,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 6 straipsnio pripažinimas netekusiu galios ^s-d7c3d13f9d1612974e4bc7f8
 
 
 6 straipsnį pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 7 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 5 dalies pakeitimas ^s-d1544027a800bc847c5728a2
 
 
 Pakeisti 7 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -49,19 +54,19 @@ Pakeisti 7 straipsnio 5 dalį ir ją išdėstyti taip:
 „5. Zonos valdymo bendrovės valdybą sudaro 8 nariai. Į valdybą įeina:
 
 
-1) Vyriausybės skiriamas 1 narys; ^498c15efab63b2dc4140b93f
+1) Vyriausybės skiriamas 1 narys; ^s-cdceb8bc816c3d7ed40fb222
 
 
-2) Kauno miesto savivaldybės tarybos skiriamas 1 narys; ^9e6a08e7e8b4d13fa35724b0
+2) Kauno miesto savivaldybės tarybos skiriamas 1 narys; ^s-90ed66493e2e257906977c2f
 
 
-3) Kauno rajono savivaldybės tarybos skiriamas 1 narys; ^c0c0ea054d0cb60d2076bba2
+3) Kauno rajono savivaldybės tarybos skiriamas 1 narys; ^s-240c2829968dbc8122a9c494
 
 
-4) visuotiniame akcininkų susirinkime išrinkti 5 nariai.“ ^3c3a59d9dd6a96948059e1be
+4) visuotiniame akcininkų susirinkime išrinkti 5 nariai.“ ^s-5f190d37bcefd393a0216202
 
 
-### 3 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-4c805ef441ce65e4234f4179
 
 
 8 straipsnio 2 dalyje vietoj žodžių „Kauno apskrities viršininko administracija“ įrašyti žodžius „Lietuvos Respublikos ūkio ministerija“ ir šią dalį išdėstyti taip:

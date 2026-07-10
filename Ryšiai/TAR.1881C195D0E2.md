@@ -1,0 +1,174 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.1881C195D0E2"
+pavadinimas: "Lietuvos Respublikos žvalgybos įstatymas"
+---
+# Lietuvos Respublikos žvalgybos įstatymas: ryšiai
+
+- [[latest/TAR.1881C195D0E2|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 4 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu
+- [[latest/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - 2 citatos - Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo
+- [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas]] - 2 citatos - Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo
+- [[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 2 citatos - Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
+- [[latest/TAR.717DD0E6FE37|Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas]] - 2 citatos - Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatyme
+- [[latest/2d8b78b0e79411e68503b67e3b82e8bd|Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas]] - 2 citatos - Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 8 citatos - Lietuvos Respublikos darbo kodeksas
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-f118108cf42c450b2f7d2781|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Darbo kodekso nustatyta tvarka, tačiau ne ilgiau, negu pareigūnas sulaukia šio įstatymo 45 straipsnio 1 dalyje
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 8 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme
+- [[latest/TAR.15C705E93776#^s-de7aaea1e1469701de6edd38|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 2 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 612 straipsnyje
+- [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatymas]] - 6 citatos - Lietuvos Respublikos kriminalinės žvalgybos įstatymo
+- [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 2 citatos - Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme
+- [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme
+- [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu
+- [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 5 citatos - Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme
+- [[latest/8253c29006c711ee9978886e85107ab2|Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas]] - 2 citatos - Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatyme
+- [[latest/TAR.423D6799832E|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo
+- [[latest/TAR.94F6B680E8B8#^s-b2aba1272cdaf55c3a9c747e|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio
+- [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 4 citatos - Lietuvos Respublikos užimtumo įstatyme
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatyme
+- [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 6 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje
+- [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/fa177910658911eca9ac839120d251c4|Lietuvos Respublikos žvalgybos kontrolierių įstatymas]] - 5 citatos - Žvalgybos kontrolierių įstatymo
+- [[latest/TAR.64A45AD2A23E|Lietuvos Respublikos žvalgybos įstatymo 13 straipsnio pakeitimo įstatymas]] - 6 citatos - 1021010ISTA0IX-1019
+- [[latest/c144bfa0fec811e488da8908dfa91cac|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 13 ir 24 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1683
+- [[latest/5dd59560c66011ea997c9ee767e856b4|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 14, 16 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3254
+- [[latest/3554e0d0658a11eca9ac839120d251c4|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 16-1, 23 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-869
+- [[latest/976ad552a8b611ef90b5ee8931e5ce5e|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 48 ir 49 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3143
+- [[latest/30bd2970a62811eea5a28c81c82193a8|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2392
+- [[latest/542f6e60b7f311e7afb78266242a6adf|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 9, 48, 49 straipsnių ir devintojo skirsnio pavadinimo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-674
+- [[latest/9c1f1df028b711e6acf89da936cb7409|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 20 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2382
+- [[latest/166a0990c75f11ea997c9ee767e856b4|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 27 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3245
+- [[latest/a565647006ca11ee9978886e85107ab2|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 63, 64, 64-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 2 priedu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2017
+- [[latest/e80c84100a9511e9a5eaf2cd290f1944|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 29 ir 50 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1821
+- [[latest/8dd19a1000e811ed8fa7d02a65c371ad|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 31 ir 70 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1194
+- [[latest/1c32e4701d4f11e9875cdc20105dd260|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 41 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1952
+- [[latest/f5fdc9e0b39511e98451fa7b5933515d|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 50 straipsnio pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2349
+- [[latest/773fe89048e011e6b5d09300a16a686c|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 52 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2526
+- [[latest/f74e22e04e0b11e8ade598b2394a491d|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1102
+- [[latest/65017ae0e87b11ecb369fde863feb27d|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1123
+- [[latest/5de558c24c3311f0b070ee7f1ceefc75|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-252
+- [[latest/df3bfb00dfda11f08918e1adc7c5b1ec|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-665
+- [[latest/e76fccd0ef3011e4927fda1d051299fb|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 67 ir 69 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1645
+- [[latest/3e4fa060858111e6b969d7ae07280e89|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 ir 70 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2621
+- [[latest/c7db11000a8d11e9a5eaf2cd290f1944|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1808
+- [[latest/9ef93e80b7f311e7afb78266242a6adf|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-675
+- [[latest/634664e0eac511f09cfce49e7aeb76fe|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-740
+- [[latest/7af596801b3511e586708c6593c243ce|Lietuvos Respublikos žvalgybos įstatymo Nr. XI-2289 46 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1801
+- [[latest/TAR.8DC7CE5B68DD|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymas]] - 6 citatos - 1121010ISTA0XI-2289
+- [[latest/TAR.4514DDC8FED1|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 1, 2 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1121010ISTA0XII-121
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.95C79D036AA4#^s-8f8f7d5ad5afd4e9b2b353aa|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - Lietuvos Respublikos žvalgybos įstatymas
+- [[latest/TAR.95C79D036AA4#^s-fdf2bbb355abc6df7ce69881|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - Lietuvos Respublikos žvalgybos įstatymas
+- [[latest/a5045930747811e3b675ad30753d4b1b#^s-80ea5e6e970a1d23b5510695|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 2, 4, 42, 43, 44, 45 straipsnių pakeitimo ir papildymo ĮSTATYMAS]] - Lietuvos Respublikos žvalgybos įstatymas
+- [[latest/5aa471f01b3311ea8e248c77339e1836#^s-5a82183c2737957400ccf8e5|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 3, 4, 6, 25, 27, 39 ir 41 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymas
+- [[latest/5aa471f01b3311ea8e248c77339e1836#^s-b9dd2c4e94e747e67cb101bd|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 3, 4, 6, 25, 27, 39 ir 41 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymas
+- [[latest/TAR.82D8168D3049#^s-7514250e2ffaf6baa5e48337|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/TAR.82D8168D3049#^s-91f6708b972d393642a9bb56|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/ea0fa3d07d6011eea5a28c81c82193a8#^s-2db2db23aded6b7b75749d49|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/ea0fa3d07d6011eea5a28c81c82193a8#^s-d8e00998ded624c25a0a930c|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-228051f49e6ff40c037918b0|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-4f774cf0a1fc3a3e235815c2|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-5f0d476df2f94281d76dcd1a|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-d1604e0e2d6acfdc1664e7aa|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/TAR.EFE69222D6BC#^s-262ea2096f2a6da75745ee26|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Žvalgybos įstatymo 5 straipsnio 3 dalyje
+- [[latest/TAR.EFE69222D6BC#^s-538b0d3c408205ce919d022c|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Žvalgybos įstatymo 5 straipsnio 3 dalyje
+- [[latest/TAR.EFE69222D6BC#^s-5da160967e7b3a25feebc60e|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 5 straipsnio 3 dalyje
+- [[latest/TAR.EFE69222D6BC#^s-c353ca93143db8a678eba4ac|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 5 straipsnio 3 dalyje
+- [[latest/TAR.D4A66ACB9F97#^s-11a9a76d3233940d1eea581e|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.D4A66ACB9F97#^s-2b03c55666aeb6eb972ecb1f|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.D4A66ACB9F97#^s-7c1c456fe1b5345ceb4d73b8|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.D4A66ACB9F97#^s-7e51634c6266110cece8b8fc|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.58DB9002D07A#^s-6ec440f336e5adbcbf78b809|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.585B57A261A7#^s-be40a293c8dd47b87f8baed8|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 3, 5 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.585B57A261A7#^s-c7ee15c73861e19414a3ed18|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 3, 5 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/94a6cea050b311eb9dc7b575f08e8bea#^s-f69c767834b18a88eb75d649|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/524313f0658b11eca9ac839120d251c4#^s-f15bab390d6f2c2a600cd0e3|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 3, 5, 9 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/96a40eb0e4bf11e7acd7ea182930b17f#^s-4b7efad32208102e57bd0660|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 5 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/96a40eb0e4bf11e7acd7ea182930b17f#^s-4f8930425558916bb3b36ae7|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 5 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/96a40eb0e4bf11e7acd7ea182930b17f#^s-7905d0bedc1ac7ce2d02aa09|Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 5 ir 10 straipsnių pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.C70309CDEB7B#^s-1a2c2c8eb06c10579ffd1baa|Lietuvos Respublikos karo padėties įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/TAR.C70309CDEB7B#^s-3dc7104c544f8d838f42b0f9|Lietuvos Respublikos karo padėties įstatymas]] - Žvalgybos įstatyme
+- [[latest/TAR.C70309CDEB7B#^s-7dfd229938f62c3c3f33169d|Lietuvos Respublikos karo padėties įstatymas]] - Žvalgybos įstatyme
+- [[latest/TAR.C70309CDEB7B#^s-a32e5c2db47694e83456cca2|Lietuvos Respublikos karo padėties įstatymas]] - Žvalgybos įstatyme
+- [[latest/TAR.C70309CDEB7B#^s-f5a7b425c077c4a0f6fc268e|Lietuvos Respublikos karo padėties įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/5b25f100337811efbdaea558de59136c#^s-678197a2af59755028c7a034|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-52fe8f71a93ed5d1caa5233b|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Žvalgybos įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-acbae3af24d9d7cdc9854a80|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Žvalgybos įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-ae204103c6aaed77d9c4d4b4|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-e308a9e1a60fc599e51b30a1|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-f861de1b771f4b295102b898|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Žvalgybos įstatyme
+- [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-41706aeb79880a9e214d8c2b|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-fc745e1b78a4268da10aed19|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/32167570d41011eba2bad9a0748ee64d#^s-355713742eff2f6cf84728ce|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/32167570d41011eba2bad9a0748ee64d#^s-ad0dd6513f09ab83bbe0fb15|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/eb6e4a20c1b011ea9815f635b9c0dcef#^s-d37634c2a73b75e0d23a0d84|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 2, 4, 5 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/67b9e0b07eb711e8ae2bfd1913d66d57#^s-4bfa6ea8e7ae595f1601cf21|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/67b9e0b07eb711e8ae2bfd1913d66d57#^s-57ee6c2a7bed44b61de68aec|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/1261a35049bd11efbdaea558de59136c#^s-aa72e592a1941fec6b759001|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/1261a35049bd11efbdaea558de59136c#^s-d228895b2c834b34ea3d8ff6|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/TAR.15C705E93776#^s-1289001fcd5b8489b41343a5|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Žvalgybos įstatyme
+- [[latest/TAR.15C705E93776#^s-21981e996094bec5441754a9|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.15C705E93776#^s-4385e48f1af295bd7892fe09|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.15C705E93776#^s-801932a6d79a7ad805fdc003|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Žvalgybos įstatyme
+- [[latest/TAR.15C705E93776#^s-c753afd31f5f4877ee582396|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.15C705E93776#^s-f9488e4cd95d1896559b03e7|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.E01E97BDFC6D#^s-7c602091e476e1728875d9f0|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 3, 9, 10, 25, 60, 63, 72, 73, 74 straipsnių pakeitimo ir papildymo bei 77-1 straipsnio pripažinimo netekusiu galios įstatymas]] - Žvalgybos įstatymas
+- [[latest/145eb2407c4811e8ae2bfd1913d66d57#^s-02c7be747c0b6bc7f663a21d|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymas]] - Žvalgybos įstatymas
+- [[latest/145eb2407c4811e8ae2bfd1913d66d57#^s-f18feb1b2a0e88749a5e87c5|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymas]] - Žvalgybos įstatymas
+- [[latest/7aca1a900a8e11e9a5eaf2cd290f1944#^s-a4ba4ca9f0055cceab48593f|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 2, 5, 9, 10, 25, 60, 61-1, 63, 65, 65-1 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 61-2 straipsniu ir septintojo skirsnio pripažinimo netekusiu galios įstatymas]] - Žvalgybos įstatymas
+- [[latest/6e1363400a9511e9a5eaf2cd290f1944#^s-b4714b79efb35c1ca8a03a89|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/6e1363400a9511e9a5eaf2cd290f1944#^s-ffac1761e12716d5f255ea84|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas]] - Žvalgybos įstatymas
+- [[latest/TAR.FBE404535C5B#^s-1aaede8fe7a4f678f7df2588|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/TAR.FBE404535C5B#^s-dc8f683cdb101053b3b57b0d|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/d59730f041cf11e6a8ae9e1795984391#^s-7467b60a10c6c8adc27080cf|Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19-1, 20, 21, 22, 23, 24, 25, 26, 27 ir 28 straipsnių pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/d59730f041cf11e6a8ae9e1795984391#^s-ff02e9988984d7e9d8f0d636|Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19-1, 20, 21, 22, 23, 24, 25, 26, 27 ir 28 straipsnių pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/4f82da90a54b11eea5a28c81c82193a8#^s-22ca620eed4045c1ca240851|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 6, 10, 11, 14, 32, 34, 34-1 ir 40 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/9197387088f211e8af589337bf1eb893#^s-1bb4832911599d9220868490|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/9197387088f211e8af589337bf1eb893#^s-7fc2969b24da0e429a4cd43a|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/5a64cba00a9911e9a5eaf2cd290f1944#^s-07ff963d6e0ce0f24bfc2602|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/5a64cba00a9911e9a5eaf2cd290f1944#^s-55a88445b422daadd2e1aeb0|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/30bd2970a62811eea5a28c81c82193a8#^s-2ebe7f51ee62d53570d9dbfb|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas]] - Žvalgybos įstatymo
+- [[latest/30bd2970a62811eea5a28c81c82193a8#^s-3f99e60f1f8c77f11064526b|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žvalgybos įstatymo 64 straipsnio
+- [[latest/30bd2970a62811eea5a28c81c82193a8#^s-68e5540edb6c7cea220178aa|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas]] - Žvalgybos įstatymo
+- [[latest/30bd2970a62811eea5a28c81c82193a8#^s-a7de95290c1a0fd81024315c|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žvalgybos įstatymo 64 straipsnio
+- [[latest/30bd2970a62811eea5a28c81c82193a8#^s-b780e00daf4626e5ce01598a|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/a565647006ca11ee9978886e85107ab2#^s-394dbd9910bf7ed53801d58c|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 63, 64, 64-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 2 priedu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 58 straipsnio 4 punkte
+- [[latest/a565647006ca11ee9978886e85107ab2#^s-b0b6c56d5e9b40ecde1658e0|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 63, 64, 64-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 2 priedu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 58 straipsnio 4 punkte
+- [[latest/a565647006ca11ee9978886e85107ab2#^s-b36a90065078c9f2b9470a6d|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 63, 64, 64-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 2 priedu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/e80c84100a9511e9a5eaf2cd290f1944#^s-81217f633cbca707bb373905|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 29 ir 50 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/e80c84100a9511e9a5eaf2cd290f1944#^s-a16778efabb3c686cf9777d9|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 29 ir 50 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/8dd19a1000e811ed8fa7d02a65c371ad#^s-16f470720272ee7f5da997f2|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 31 ir 70 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 70 straipsnio 5 dalyje
+- [[latest/8dd19a1000e811ed8fa7d02a65c371ad#^s-3b03297ca77eaaa904a1a38d|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 31 ir 70 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 70 straipsnio 5 dalyje
+- [[latest/f5fdc9e0b39511e98451fa7b5933515d#^s-1578063f651923f1a8b35e36|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 50 straipsnio pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 641 straipsnio 16 dalies
+- [[latest/f5fdc9e0b39511e98451fa7b5933515d#^s-ce5fd25181727f923024ae8b|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 50 straipsnio pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 641 straipsnio 16 dalies
+- [[latest/773fe89048e011e6b5d09300a16a686c#^s-0a0b630818841c4385ffdbb3|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 52 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 52 straipsnio 1 dalies 2 punkto
+- [[latest/773fe89048e011e6b5d09300a16a686c#^s-93dd37e64e2ee7f06f73ab50|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 52 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 52 straipsnio 1 dalies 2 punkto
+- [[latest/f74e22e04e0b11e8ade598b2394a491d#^s-11e60710c9efdf0b2cdb6a5d|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/f74e22e04e0b11e8ade598b2394a491d#^s-955ccbe967fbcf679da00cd7|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/c7db11000a8d11e9a5eaf2cd290f1944#^s-0a95358cf2d47ba6b65cc8f4|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žvalgybos įstatymo 69 straipsnio
+- [[latest/c7db11000a8d11e9a5eaf2cd290f1944#^s-1dee68617cf4112c1be58f46|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 69 straipsnio
+- [[latest/c7db11000a8d11e9a5eaf2cd290f1944#^s-7ff009d00ff09adbcd527d18|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 69 straipsnio
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-175d170284e416b8ad82c53b|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - Žvalgybos įstatymo 43 straipsnio
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-4d01bdf36cec7d8ec574d8b9|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-861d44ce7c9f87bce9227434|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - Žvalgybos įstatymo 69 straipsnio 3 dalies 4 punkte
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-8a02dfd57e950041b16eeda3|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - 2 citatos - Žvalgybos įstatymo
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-c336dac6c3267717b536edc7|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - Žvalgybos įstatymo 60 straipsnio 5 dalies
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-db24cc0c710dae5e71d78b39|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 40 straipsnio 1 dalies
+- [[latest/634664e0eac511f09cfce49e7aeb76fe#^s-ebcb28f04512f43e22ba2d16|Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas]] - 6 citatos - Lietuvos Respublikos žvalgybos įstatymo 40 straipsnio 1 dalies
+- [[latest/TAR.8DC7CE5B68DD#^s-6a395ffb1edddc8cbbf444f7|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/TAR.8DC7CE5B68DD#^s-6e8bf4567b429593babd5af5|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žvalgybos įstatymo
+- [[latest/TAR.8DC7CE5B68DD#^s-6ee01e04c3ebbd404264c729|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymas]] - Žvalgybos įstatymo
+- [[latest/TAR.8DC7CE5B68DD#^s-e2456dd4960a66a6dc712b5a|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymas]] - Žvalgybos įstatymo
+- [[latest/TAR.4514DDC8FED1#^s-27386252260c4e3edf5dc880|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 1, 2 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 64 straipsnio 5 dalį
+- [[latest/TAR.4514DDC8FED1#^s-c2bc5e380662ad0dfbf05fa0|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 1, 2 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žvalgybos įstatymo 64 straipsnio 5 dalį

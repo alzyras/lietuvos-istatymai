@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C5C7D8160A0"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-25"
 latest_path: "latest/TAR.8C5C7D8160A0.md"
 latest_sha256: "2a9681225102f41de2b1d496bd21cea188af1c3f2aa11c0f3a7884e79e7391eb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C5C7D8160A0]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C5C7D8160A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C5C7D8160A0
+- Ryšiai: [[Ryšiai/TAR.8C5C7D8160A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,13 +38,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 68 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 68 straipsnio 6 dalies pakeitimas ^s-17a81b78988b7ed795f5957f
 
 
 Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
-„6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, profesinės karo tarnybos kariams mokamos Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo arba jo dalies dydžio išmokos, neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis.“
+„6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, profesinės karo tarnybos kariams mokamos Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo arba jo dalies dydžio išmokos, neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo]] nuostatomis.“
 
 
 

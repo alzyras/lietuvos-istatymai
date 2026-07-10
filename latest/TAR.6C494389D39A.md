@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6C494389D39A"
 pavadinimas: "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 straipsnių ir Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 20-1 straipsniu ir 1, 2 priedais įstatymas"
+aliases:
+  - "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 straipsnių ir Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 20-1 straipsniu ir 1, 2 priedais įstatymas"
+  - "autorių teisių ir gretutinių teisių įstatymo 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 straipsnių ir Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 20-1 straipsniu ir 1, 2 priedais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-10"
 latest_path: "latest/TAR.6C494389D39A.md"
 latest_sha256: "97df860dd2cb4fef5ed06ecfe6b854103923d4b0c6f3b1de40bb42084ee8d9f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6C494389D39A]]"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 straipsnių ir Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 20-1 straipsniu ir 1, 2 priedais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6C494389D39A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6C494389D39A
+- Ryšiai: [[Ryšiai/TAR.6C494389D39A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,20 +41,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-13aae745f1598cfe95242bcb
 
 
-1. Papildyti [[#2 straipsnis. 16 straipsnio 3 dalies pakeitimas|2 straipsnį]] nauja 22 dalimi: ^932d0c3688cd7e0a3ec80b82
+1. Papildyti [[#^s-d5d420c716381056101843d1|2 straipsnį]] nauja 22 dalimi: ^s-1604aa18d2a810bac4ff1c6d
 
 
 „22. Negalia – sveikatos sutrikimas, dėl kurio asmuo negali savarankiškai naudotis tokios formos autorių teisių ir gretutinių teisių objektais, kokios jie buvo teisėtai išleisti ar viešai paskelbti. Negalia šiame Įstatyme apima visišką ir dalinę regos ar klausos negalią, galūnių negalią, varžančią galėjimą laikyti knygą ar kitą leidinį ir jais manipuliuoti, suvokimo (mokymosi) negalią.“
 
 
-2. Buvusias [[#2 straipsnis. 16 straipsnio 3 dalies pakeitimas|2 straipsnio]] 22, 23, 24, 25, 26, 27, 28, 29, 30 ir 31 dalis laikyti atitinkamai 23, 24, 25, 26, 27, 28, 29, 30, 31 ir 32 dalimis. ^cf463dfecf2f044c37d7abf7
+2. Buvusias [[#^s-d5d420c716381056101843d1|2 straipsnio]] 22, 23, 24, 25, 26, 27, 28, 29, 30 ir 31 dalis laikyti atitinkamai 23, 24, 25, 26, 27, 28, 29, 30, 31 ir 32 dalimis. ^s-1825d897e6efc9142c376eba
 
 
 
-### 2 straipsnis. 16 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 16 straipsnio 3 dalies pakeitimas ^s-d5d420c716381056101843d1
 
 
 Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -59,92 +64,92 @@ Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 19 straipsnio papildymas ir pakeitimas
+### 3 straipsnis. 19 straipsnio papildymas ir pakeitimas ^s-221d2b6a632d3c872311851c
 
 
-Papildyti [[#^0aae113f7ecad5f749b94b5d|19 straipsnį 2 dalimi]] ir visą straipsnį išdėstyti taip:
-
-
-
-„[[#19 straipsnis. Įstatymo priedo pakeitimas|19 straipsnis]]. Turtinių teisių apribojimo sąlygos
-
-
-1. Apriboti turtines teises leidžiama specialiais šio Įstatymo numatytais atvejais. Turtinių teisių apribojimas neturi prieštarauti įprastiniam kūrinio naudojimui ir nepagrįstai pažeisti teisėtų autoriaus arba kito autorių teisių subjekto interesų. ^3257ff140a393b50d69043a3
-
-
-2. Šio Įstatymo nustatytais atvejais, kai turtinių teisių apribojimai gali būti taikomi tik nekomerciniais tikslais, nustatant, ar kūrinys, gretutinių teisių ar sui generis teisių objektas buvo panaudotas nekomerciniais tikslais, turi būti atsižvelgiama į naudojimo paskirtį. Kūrinio, gretutinių teisių ar sui generis teisių objekto naudotojo teisinė forma, organizacinė struktūra ir finansavimo būdas šiuo atveju nėra lemiami veiksniai.“ ^579d3150c448b1048e27f6e6
+Papildyti [[#^s-661501f2e1116c59d4967a92|19 straipsnį 2 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 
-### 4 straipsnis. 20 straipsnio pakeitimas
+„[[#^s-1004dbc172e45031ef95afdc|19 straipsnis]]. Turtinių teisių apribojimo sąlygos
 
 
-Pakeisti [[#20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|20 straipsnį]] ir jį išdėstyti taip:
+1. Apriboti turtines teises leidžiama specialiais šio Įstatymo numatytais atvejais. Turtinių teisių apribojimas neturi prieštarauti įprastiniam kūrinio naudojimui ir nepagrįstai pažeisti teisėtų autoriaus arba kito autorių teisių subjekto interesų. ^s-d7376989acb2bfdcf4d3a988
 
 
-
-„[[#20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|20 straipsnis]]. Kūrinio atgaminimas asmeniniais tikslais
-
-
-1. Be kūrinio autoriaus arba kito šio kūrinio autorių teisių subjekto leidimo fiziniam asmeniui išimtinai savo asmeniniam naudojimui nekomerciniais tikslais leidžiama atgaminti teisėtai išleisto ar viešai paskelbto kūrinio egzempliorių. ^1afdc2dfeef16bea3a9916ec
-
-
-2. Kūrinių atgaminimą asmeniniais tikslais reprografijos būdu (bet kokiu fotokopijavimo būdu ar naudojant kitus panašaus pobūdžio procesus, kai atgaminama popieriuje ar kitoje panašioje laikmenoje) reglamentuoja šio Įstatymo 201 straipsnio nuostatos. ^c1268ef23ef06d5f732b8ecf
-
-
-3. [[#^1afdc2dfeef16bea3a9916ec|Šio straipsnio 1 dalies]] nuostatos netaikomos, kai atgaminami šie kūriniai: ^b1b3264d223592d53624f0f6
-
-
-1) architektūros kūriniai pastatų ar kitokių statinių pavidalu; ^0795b61e3e19287136a18490
-
-
-2) kompiuterių programos (išskyrus šio Įstatymo 30 ir 31 straipsniuose numatytus atvejus); ^8c86213e8a85eae9e4a7a1b0
-
-
-3) elektroninės duomenų bazės (išskyrus šio Įstatymo 32 straipsnyje numatytus atvejus). ^17ff11c2f0d54b0f70aa5f25
-
-
-4. Autorių teisių ir gretutinių teisių subjektai turi teisę gauti kompensacinį atlyginimą už [[#^1afdc2dfeef16bea3a9916ec|šio straipsnio 1 dalyje]] numatytą audiovizualinių kūrinių ar fonogramose įrašytų kūrinių atgaminimą asmeniniais tikslais (toliau šiame straipsnyje – kompensacinis atlyginimas). ^3e40d3431fda1db7bb1b59c0
-
-
-5. Kompensacinis atlyginimas turi būti mokamas už šio Įstatymo 1 priede nustatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus įrenginius (toliau šiame straipsnyje – įrenginiai) ir tuščias analogines ir skaitmenines garso ir audiovizualines laikmenas (toliau šiame straipsnyje – tuščios laikmenos). Kompensacinį atlyginimą privalo mokėti asmenys, parduodantys šiuos įrenginius ir tuščias laikmenas (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^f3f14f626ae89f8754dcec99
-
-
-6. Tuščių laikmenų ir įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 1 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, atsižvelgdama į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir [[#^c1268ef23ef06d5f732b8ecf|2 dalyse]] nustatytos techninės apsaugos priemonės, nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių bei gretutinių teisių kolektyvinio administravimo asociacijomis. ^e8a1bebd87bb130b0ae23cd0
-
-
-7. Sumokėtas kompensacinis atlyginimas Vyriausybės nustatyta tvarka grąžinamas šiais atvejais: ^17b71c4638f1be712b41b8b8
-
-
-1) kai tuščios laikmenos ir įrenginiai yra įsigyti profesionalioms reikmėms. Profesionaliomis reikmėmis šiame straipsnyje laikomos transliuojančiųjų organizacijų ir asmenų, tiražuojančių audiovizualinius kūrinius ir fonogramose įrašytus kūrinius ar gretutinių teisių objektus audiovizualinių kūrinių ir fonogramų gamintojams, reikmės, susijusios su kūrinių ar gretutinių teisių objektų įrašymu, ir asmenų, kurie tuščias laikmenas ir įrenginius įsigyja akivaizdžiai kitiems tikslams negu kūrinių atgaminimas asmeniniam naudojimui, reikmės (pvz., kai kūriniai atgaminami viešojo valdymo ir gynybos įstaigose ir organizacijose, ligoninėse, švietimo įstaigose, bibliotekose ir valstybės archyvuose, muziejuose, mokslinių tyrimų įstaigose bei organizacijose ir kai kūrinių atgaminimas yra skirtas išimtinai tų įstaigų ir organizacijų veiklos reikmėms); ^c5b4b27d76ff69eae419e04f
-
-
-2) kai tuščios laikmenos ir įrenginiai yra įsigyti neįgalių žmonių reikmėms; ^b0829fe933170aedcf7efed0
-
-
-3) kai tuščios laikmenos ir įrenginiai yra išvežami iš Lietuvos Respublikos teritorijos. ^3c14178c8180b916140690f0
-
-
-8. Kompensacinį atlyginimą [[#^3e40d3431fda1db7bb1b59c0|šio straipsnio 4 dalyje]] nurodytiems teisių subjektams Vyriausybės nustatyta tvarka surenka, paskirsto ir moka Vyriausybės įgaliotos institucijos patvirtintos kolektyvinio administravimo asociacijos. ^38368a9d32b34e18d8238261
-
-
-9. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo skiriama kūrybinės veiklos programoms ir autorių teisių ir gretutinių teisių apsaugos programoms. ^62ffadc884e7f4b5f1ac3f2c
-
-
-10. Iš surinkto kompensacinio atlyginimo atskaičius [[#^62ffadc884e7f4b5f1ac3f2c|šio straipsnio 9 dalyje]] nustatytą sumą ir kolektyvinio administravimo asociacijų išlaidas kompensaciniam atlyginimui surinkti, paskirstyti ir grąžinti, likusi suma paskirstoma taip: ^54b8d92c7aa260e8b45de863
-
-
-1) už tuščias garso laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 – fonogramų gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintas fonogramas); ^845c24fa3b20f187cddf5577
-
-
-2) už tuščias audiovizualinių kūrinių laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 –audiovizualinių kūrinių gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintus audiovizualinius kūrinius). ^f29b826df27a026d1f9eb193
-
-
-11. Apskaitos dokumentuose, kuriais įforminamas [[#^f3f14f626ae89f8754dcec99|šio straipsnio 5 dalyje]] nustatytas laikmenų ir įrangos pardavimas, kompensacinio atlyginimo suma turi būti apskaičiuota, išskirta ir nurodyta atskira eilute, o išrašomų sąskaitų pastabose nurodoma, kad laikmenas ar įrangą įsigijęs asmuo turi teisę susigrąžinti kompensacinį atlyginimą [[#^17b71c4638f1be712b41b8b8|šio straipsnio 7 dalyje]] numatytais atvejais.“ ^654c055ecc9e339555c67f1b
+2. Šio Įstatymo nustatytais atvejais, kai turtinių teisių apribojimai gali būti taikomi tik nekomerciniais tikslais, nustatant, ar kūrinys, gretutinių teisių ar sui generis teisių objektas buvo panaudotas nekomerciniais tikslais, turi būti atsižvelgiama į naudojimo paskirtį. Kūrinio, gretutinių teisių ar sui generis teisių objekto naudotojo teisinė forma, organizacinė struktūra ir finansavimo būdas šiuo atveju nėra lemiami veiksniai.“ ^s-aac4a60b8140e88962d7c89e
 
 
 
-### 5 straipsnis. Įstatymo papildymas 201 straipsniu
+### 4 straipsnis. 20 straipsnio pakeitimas ^s-f61ad95d66b635549a9089ea
+
+
+Pakeisti [[#^s-0378d177ea6cc73434bcc10a|20 straipsnį]] ir jį išdėstyti taip:
+
+
+
+„[[#^s-0378d177ea6cc73434bcc10a|20 straipsnis]]. Kūrinio atgaminimas asmeniniais tikslais
+
+
+1. Be kūrinio autoriaus arba kito šio kūrinio autorių teisių subjekto leidimo fiziniam asmeniui išimtinai savo asmeniniam naudojimui nekomerciniais tikslais leidžiama atgaminti teisėtai išleisto ar viešai paskelbto kūrinio egzempliorių. ^s-95e2cdc3e31e2f922905eb24
+
+
+2. Kūrinių atgaminimą asmeniniais tikslais reprografijos būdu (bet kokiu fotokopijavimo būdu ar naudojant kitus panašaus pobūdžio procesus, kai atgaminama popieriuje ar kitoje panašioje laikmenoje) reglamentuoja šio Įstatymo 201 straipsnio nuostatos. ^s-d02a15c3edffff9cd97d43c7
+
+
+3. [[#^s-95e2cdc3e31e2f922905eb24|Šio straipsnio 1 dalies]] nuostatos netaikomos, kai atgaminami šie kūriniai: ^s-ebb0bc017763278af5b125a5
+
+
+1) architektūros kūriniai pastatų ar kitokių statinių pavidalu; ^s-de7149357cdb08160ce79f27
+
+
+2) kompiuterių programos (išskyrus šio Įstatymo 30 ir 31 straipsniuose numatytus atvejus); ^s-b23705626bfc8312bcdc5ab0
+
+
+3) elektroninės duomenų bazės (išskyrus šio Įstatymo 32 straipsnyje numatytus atvejus). ^s-ee34997dc38c4787311dc96d
+
+
+4. Autorių teisių ir gretutinių teisių subjektai turi teisę gauti kompensacinį atlyginimą už [[#^s-95e2cdc3e31e2f922905eb24|šio straipsnio 1 dalyje]] numatytą audiovizualinių kūrinių ar fonogramose įrašytų kūrinių atgaminimą asmeniniais tikslais (toliau šiame straipsnyje – kompensacinis atlyginimas). ^s-4413838312fa63b29fab5869
+
+
+5. Kompensacinis atlyginimas turi būti mokamas už šio Įstatymo 1 priede nustatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus įrenginius (toliau šiame straipsnyje – įrenginiai) ir tuščias analogines ir skaitmenines garso ir audiovizualines laikmenas (toliau šiame straipsnyje – tuščios laikmenos). Kompensacinį atlyginimą privalo mokėti asmenys, parduodantys šiuos įrenginius ir tuščias laikmenas (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^s-6ed60feef211bdaebc3b1d19
+
+
+6. Tuščių laikmenų ir įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 1 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, atsižvelgdama į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir [[#^s-d02a15c3edffff9cd97d43c7|2 dalyse]] nustatytos techninės apsaugos priemonės, nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių bei gretutinių teisių kolektyvinio administravimo asociacijomis. ^s-65e5ae72fe14d6f702c81962
+
+
+7. Sumokėtas kompensacinis atlyginimas Vyriausybės nustatyta tvarka grąžinamas šiais atvejais: ^s-f4db7d830e92a8469e32407a
+
+
+1) kai tuščios laikmenos ir įrenginiai yra įsigyti profesionalioms reikmėms. Profesionaliomis reikmėmis šiame straipsnyje laikomos transliuojančiųjų organizacijų ir asmenų, tiražuojančių audiovizualinius kūrinius ir fonogramose įrašytus kūrinius ar gretutinių teisių objektus audiovizualinių kūrinių ir fonogramų gamintojams, reikmės, susijusios su kūrinių ar gretutinių teisių objektų įrašymu, ir asmenų, kurie tuščias laikmenas ir įrenginius įsigyja akivaizdžiai kitiems tikslams negu kūrinių atgaminimas asmeniniam naudojimui, reikmės (pvz., kai kūriniai atgaminami viešojo valdymo ir gynybos įstaigose ir organizacijose, ligoninėse, švietimo įstaigose, bibliotekose ir valstybės archyvuose, muziejuose, mokslinių tyrimų įstaigose bei organizacijose ir kai kūrinių atgaminimas yra skirtas išimtinai tų įstaigų ir organizacijų veiklos reikmėms); ^s-2a9c1e7222f47f0a5f448b6a
+
+
+2) kai tuščios laikmenos ir įrenginiai yra įsigyti neįgalių žmonių reikmėms; ^s-81fd4695b97fb1d1d669c4a0
+
+
+3) kai tuščios laikmenos ir įrenginiai yra išvežami iš Lietuvos Respublikos teritorijos. ^s-0cfbd0dbd09ae2ed791d3aab
+
+
+8. Kompensacinį atlyginimą [[#^s-4413838312fa63b29fab5869|šio straipsnio 4 dalyje]] nurodytiems teisių subjektams Vyriausybės nustatyta tvarka surenka, paskirsto ir moka Vyriausybės įgaliotos institucijos patvirtintos kolektyvinio administravimo asociacijos. ^s-517b1e503ce70213ea6ad686
+
+
+9. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo skiriama kūrybinės veiklos programoms ir autorių teisių ir gretutinių teisių apsaugos programoms. ^s-f83dc74fc87279b073cb858b
+
+
+10. Iš surinkto kompensacinio atlyginimo atskaičius [[#^s-f83dc74fc87279b073cb858b|šio straipsnio 9 dalyje]] nustatytą sumą ir kolektyvinio administravimo asociacijų išlaidas kompensaciniam atlyginimui surinkti, paskirstyti ir grąžinti, likusi suma paskirstoma taip: ^s-ed881c67b7571022787151fd
+
+
+1) už tuščias garso laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 – fonogramų gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintas fonogramas); ^s-30813a286e3843808f0f43c5
+
+
+2) už tuščias audiovizualinių kūrinių laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 –audiovizualinių kūrinių gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintus audiovizualinius kūrinius). ^s-22b03590a7e5a090175b7565
+
+
+11. Apskaitos dokumentuose, kuriais įforminamas [[#^s-6ed60feef211bdaebc3b1d19|šio straipsnio 5 dalyje]] nustatytas laikmenų ir įrangos pardavimas, kompensacinio atlyginimo suma turi būti apskaičiuota, išskirta ir nurodyta atskira eilute, o išrašomų sąskaitų pastabose nurodoma, kad laikmenas ar įrangą įsigijęs asmuo turi teisę susigrąžinti kompensacinį atlyginimą [[#^s-f4db7d830e92a8469e32407a|šio straipsnio 7 dalyje]] numatytais atvejais.“ ^s-10b0eb9e938b7159ec179010
+
+
+
+### 5 straipsnis. Įstatymo papildymas 201 straipsniu ^s-816865fe0ea23327ba03ffda
 
 
 Papildyti Įstatymą 201 straipsniu:
@@ -154,56 +159,56 @@ Papildyti Įstatymą 201 straipsniu:
 „201 straipsnis. Kūrinio atgaminimas asmeniniais tikslais reprografijos būdu
 
 
-1. Leidžiama be kūrinio autoriaus arba kito šio kūrinio autorių teisių subjekto leidimo atgaminti asmeniniais tikslais reprografijos būdu (bet kokiu fotokopijavimo būdu ar naudojant kitus panašaus pobūdžio procesus, kai atgaminama popieriuje ar kitoje panašioje laikmenoje) teisėtai išleistą straipsnį ar kitą trumpą kūrinį arba trumpą rašytinio kūrinio ištrauką su iliustracijomis ar be jų, kai atgaminama nekomerciniais tikslais. ^1a67f15c8f3529a0d2e8358b
+1. Leidžiama be kūrinio autoriaus arba kito šio kūrinio autorių teisių subjekto leidimo atgaminti asmeniniais tikslais reprografijos būdu (bet kokiu fotokopijavimo būdu ar naudojant kitus panašaus pobūdžio procesus, kai atgaminama popieriuje ar kitoje panašioje laikmenoje) teisėtai išleistą straipsnį ar kitą trumpą kūrinį arba trumpą rašytinio kūrinio ištrauką su iliustracijomis ar be jų, kai atgaminama nekomerciniais tikslais. ^s-5ce20073d35c20bcf32179d5
 
 
-2. [[#^1a67f15c8f3529a0d2e8358b|Šio straipsnio 1 dalies]] nuostatos netaikomos reprografijos būdu viso knygos teksto ar didesnės jo dalies arba muzikos kūrinio natų atgaminimui. ^3071f0d09fb310579405bf72
+2. [[#^s-5ce20073d35c20bcf32179d5|Šio straipsnio 1 dalies]] nuostatos netaikomos reprografijos būdu viso knygos teksto ar didesnės jo dalies arba muzikos kūrinio natų atgaminimui. ^s-1102f867905ef5596913cb7b
 
 
-3. Autorių teisių subjektai ir leidėjai turi teisę gauti kompensacinį atlyginimą už [[#^1a67f15c8f3529a0d2e8358b|šio straipsnio 1 dalyje]] numatytą kūrinių atgaminimą reprografijos būdu (toliau šiame straipsnyje – kompensacinis atlyginimas). ^12a1049cba1e31cec8c3540e
+3. Autorių teisių subjektai ir leidėjai turi teisę gauti kompensacinį atlyginimą už [[#^s-5ce20073d35c20bcf32179d5|šio straipsnio 1 dalyje]] numatytą kūrinių atgaminimą reprografijos būdu (toliau šiame straipsnyje – kompensacinis atlyginimas). ^s-b6696aef4fe7f93b7797002d
 
 
-4. Kompensacinis atlyginimas turi būti mokamas už atgaminimo reprografijos būdu paslaugas, teikiamas fiziniams asmenims, ir už šio Įstatymo 2 priede numatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus reprografijos įrenginius (toliau šiame straipsnyje – reprografijos įrenginiai). Kompensacinį atlyginimą privalo mokėti asmenys, teikiantys reprografijos paslaugas, ir asmenys, parduodantys reprografijos įrenginius (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^7b75e2c9295de69fd262409d
+4. Kompensacinis atlyginimas turi būti mokamas už atgaminimo reprografijos būdu paslaugas, teikiamas fiziniams asmenims, ir už šio Įstatymo 2 priede numatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus reprografijos įrenginius (toliau šiame straipsnyje – reprografijos įrenginiai). Kompensacinį atlyginimą privalo mokėti asmenys, teikiantys reprografijos paslaugas, ir asmenys, parduodantys reprografijos įrenginius (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^s-5073ce7ac3180d2bb2a6829c
 
 
-5. Reprografijos įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 2 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, taip pat kompensacinio atlyginimo skaičiavimo, atsižvelgiant į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir [[#^3071f0d09fb310579405bf72|2 dalyse]] nustatytos techninės apsaugos priemonės, tvarką nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių kolektyvinio administravimo asociacijomis. ^346aca89ab7dda9d2639a0af
+5. Reprografijos įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 2 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, taip pat kompensacinio atlyginimo skaičiavimo, atsižvelgiant į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir [[#^s-1102f867905ef5596913cb7b|2 dalyse]] nustatytos techninės apsaugos priemonės, tvarką nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių kolektyvinio administravimo asociacijomis. ^s-122830e6ce91dd0f71dc6384
 
 
-6. Už reprografijos įrenginius sumokėtas kompensacinis atlyginimas Vyriausybės nustatyta tvarka grąžinamas šiais atvejais: ^de7e5fb6443abdc3c5e09c48
+6. Už reprografijos įrenginius sumokėtas kompensacinis atlyginimas Vyriausybės nustatyta tvarka grąžinamas šiais atvejais: ^s-137dca2d9350b9e42bd9cfad
 
 
-1) kai reprografijos įrenginiai yra įsigyti profesionalioms reikmėms. Profesionaliomis reikmėmis šiame straipsnyje laikomos reprografijos paslaugas teikiančių asmenų reikmės ir asmenų, kurie reprografijos įrenginius įsigyja akivaizdžiai kitiems tikslams negu kūrinių atgaminimas asmeniniam naudojimui, reikmės (pvz., kai kūriniai atgaminami viešojo valdymo ir gynybos įstaigose ir organizacijose, ligoninėse, švietimo įstaigose, bibliotekose ir valstybės archyvuose, muziejuose, mokslinių tyrimų įstaigose bei organizacijose ir kai kūrinių atgaminimas yra skirtas išimtinai tų įstaigų ir organizacijų veiklos reikmėms); ^f3b8ed4691d5cd1be02055dd
+1) kai reprografijos įrenginiai yra įsigyti profesionalioms reikmėms. Profesionaliomis reikmėmis šiame straipsnyje laikomos reprografijos paslaugas teikiančių asmenų reikmės ir asmenų, kurie reprografijos įrenginius įsigyja akivaizdžiai kitiems tikslams negu kūrinių atgaminimas asmeniniam naudojimui, reikmės (pvz., kai kūriniai atgaminami viešojo valdymo ir gynybos įstaigose ir organizacijose, ligoninėse, švietimo įstaigose, bibliotekose ir valstybės archyvuose, muziejuose, mokslinių tyrimų įstaigose bei organizacijose ir kai kūrinių atgaminimas yra skirtas išimtinai tų įstaigų ir organizacijų veiklos reikmėms); ^s-4add1f54abeaeaac2e5a5b31
 
 
-2) kai reprografijos įrenginiai yra įsigyti neįgalių žmonių reikmėms; ^043e042641a9f4226facf698
+2) kai reprografijos įrenginiai yra įsigyti neįgalių žmonių reikmėms; ^s-90a72eff63f70d8cf0513fa6
 
 
-3) kai reprografijos įrenginiai yra išvežami iš Lietuvos Respublikos teritorijos. ^fa46d5ded484a035e90a75d1
+3) kai reprografijos įrenginiai yra išvežami iš Lietuvos Respublikos teritorijos. ^s-3a937b99defc13b5a09d8989
 
 
-7. Kompensacinį atlyginimą [[#^12a1049cba1e31cec8c3540e|šio straipsnio 3 dalyje]] nurodytiems subjektams Vyriausybės nustatyta tvarka surenka, paskirsto ir moka Vyriausybės įgaliotos institucijos patvirtintos kolektyvinio administravimo asociacijos. ^ae275afed13a72e05c905114
+7. Kompensacinį atlyginimą [[#^s-b6696aef4fe7f93b7797002d|šio straipsnio 3 dalyje]] nurodytiems subjektams Vyriausybės nustatyta tvarka surenka, paskirsto ir moka Vyriausybės įgaliotos institucijos patvirtintos kolektyvinio administravimo asociacijos. ^s-692bbfd913b18d00b48f0ac1
 
 
-8. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo skiriama kūrybinės veiklos programoms ir autorių teisių ir gretutinių teisių apsaugos programoms. ^4f90737d23b1eaf594c1b291
+8. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo skiriama kūrybinės veiklos programoms ir autorių teisių ir gretutinių teisių apsaugos programoms. ^s-4a8d3757ca78c33bee6a5c33
 
 
-9. Iš surinkto kompensacinio atlyginimo atskaičius [[#^4f90737d23b1eaf594c1b291|šio straipsnio 8 dalyje]] nustatytą sumą ir kolektyvinio administravimo asociacijų išlaidas kompensaciniam atlyginimui surinkti, paskirstyti ir grąžinti, likusi suma paskirstoma taip: ^ba1294c1394c6f7cdaa82833
+9. Iš surinkto kompensacinio atlyginimo atskaičius [[#^s-4a8d3757ca78c33bee6a5c33|šio straipsnio 8 dalyje]] nustatytą sumą ir kolektyvinio administravimo asociacijų išlaidas kompensaciniam atlyginimui surinkti, paskirstyti ir grąžinti, likusi suma paskirstoma taip: ^s-0e5b865dd7b9db1a21e89693
 
 
-1) 60 procentų skiriama autoriams, iš jų: 20 procentų – mokslinės ir dalykinės literatūros kūrinių autoriams, 15 procentų – grožinės literatūros ir eseistikos kūrinių autoriams, 15 procentų – vaizduojamojo meno kūrinių autoriams ir 10 procentų – publicistikos kūrinių autoriams (žurnalistams); ^cec7a61bad0c56eb8c7590d0
+1) 60 procentų skiriama autoriams, iš jų: 20 procentų – mokslinės ir dalykinės literatūros kūrinių autoriams, 15 procentų – grožinės literatūros ir eseistikos kūrinių autoriams, 15 procentų – vaizduojamojo meno kūrinių autoriams ir 10 procentų – publicistikos kūrinių autoriams (žurnalistams); ^s-daa94293843e77b2f64ae0d7
 
 
-2) 20 procentų skiriama knygų leidėjams; ^8ba9a1a195a76b587c4bbd30
+2) 20 procentų skiriama knygų leidėjams; ^s-47b7849e2b1f97586ff1fdbf
 
 
-3) 20 procentų skiriama periodinės spaudos leidėjams. ^32b27656e9649530488d6bea
+3) 20 procentų skiriama periodinės spaudos leidėjams. ^s-6e9c788e9b59fb9fc849beba
 
 
-10. Apskaitos dokumentuose, kuriais įforminamas paslaugos suteikimas ar įrangos pardavimas, numatytas [[#^7b75e2c9295de69fd262409d|šio straipsnio 4 dalyje]], kompensacinio atlyginimo suma turi būti apskaičiuota, išskirta ir nurodyta atskira eilute, o išrašant sąskaitas jų pastabose nurodoma, kad paslaugas gavęs ar įrangą įsigijęs asmuo turi teisę susigrąžinti kompensacinį atlyginimą [[#^de7e5fb6443abdc3c5e09c48|šio straipsnio 6 dalyje]] numatytais atvejais.“ ^47311381e6e36090da839094
+10. Apskaitos dokumentuose, kuriais įforminamas paslaugos suteikimas ar įrangos pardavimas, numatytas [[#^s-5073ce7ac3180d2bb2a6829c|šio straipsnio 4 dalyje]], kompensacinio atlyginimo suma turi būti apskaičiuota, išskirta ir nurodyta atskira eilute, o išrašant sąskaitas jų pastabose nurodoma, kad paslaugas gavęs ar įrangą įsigijęs asmuo turi teisę susigrąžinti kompensacinį atlyginimą [[#^s-137dca2d9350b9e42bd9cfad|šio straipsnio 6 dalyje]] numatytais atvejais.“ ^s-f9deb71394f040c5c6206400
 
 
 
-### 6 straipsnis. 21 straipsnio pakeitimas
+### 6 straipsnis. 21 straipsnio pakeitimas ^s-aabe538fdddf7fc7d9350441
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -217,7 +222,7 @@ Leidžiama be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto
 
 
 
-### 7 straipsnis. 22 straipsnio pakeitimas
+### 7 straipsnis. 22 straipsnio pakeitimas ^s-96de20bafdd353f3da322fc9
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -230,20 +235,20 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, leidžiama:
 
 
-1) kaip pavyzdį nekomerciniais mokymo ir mokslinių tyrimų tikslais atgaminti, viešai paskelbti ir viešai rodyti nedidelius teisėtai išleistus ar viešai paskelbtus kūrinius ir trumpas teisėtai išleistų ar viešai paskelbtų kūrinių ištraukas tiek originalo kalba, tiek išverstus į kitą kalbą, kiek tai susiję su mokymo programomis ir neviršija mokymui ar moksliniam tyrimui reikalingo masto; ^ae7fe0ab76094bc47b54b444
+1) kaip pavyzdį nekomerciniais mokymo ir mokslinių tyrimų tikslais atgaminti, viešai paskelbti ir viešai rodyti nedidelius teisėtai išleistus ar viešai paskelbtus kūrinius ir trumpas teisėtai išleistų ar viešai paskelbtų kūrinių ištraukas tiek originalo kalba, tiek išverstus į kitą kalbą, kiek tai susiję su mokymo programomis ir neviršija mokymui ar moksliniam tyrimui reikalingo masto; ^s-9f5ae37b411d53103aa98da2
 
 
-2) kaip pavyzdį nekomerciniais tikslais atgaminti, viešai paskelbti ir viešai rodyti mokinių mokymosi pasiekimams vertinti sukurtus kūrinius, kiek tai susiję su mokymo ir pedagogų kvalifikacijos tobulinimo programomis ir neviršija mokymui ar pedagogų kvalifikacijos tobulinimui reikalingo masto; ^410bd8e75a43bd3d6f293437
+2) kaip pavyzdį nekomerciniais tikslais atgaminti, viešai paskelbti ir viešai rodyti mokinių mokymosi pasiekimams vertinti sukurtus kūrinius, kiek tai susiję su mokymo ir pedagogų kvalifikacijos tobulinimo programomis ir neviršija mokymui ar pedagogų kvalifikacijos tobulinimui reikalingo masto; ^s-7994b8b10a82ae1879331663
 
 
-3) naudoti kūrinius, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose, nekomerciniais mokslinių tyrimų ar asmeninių studijų tikslais juos padarant viešai prieinamus kompiuterių tinklais tam skirtuose terminaluose tų įstaigų patalpose, jeigu kūrinio nėra viešoje prekyboje ir autorių teisių subjektai nėra uždraudę tokio kūrinių panaudojimo. Šio apribojimo tikslais šiame punkte nurodytos įstaigos gali atgaminti įsigytus kūrinių egzempliorius, tačiau tik tam, kad būtų įmanoma techniškai padaryti kūrinį viešai prieinamą kompiuterių tinklais. Tuo pačiu metu negali būti padaroma prieinamų kompiuterių tinklais daugiau kūrinio egzempliorių, negu jų yra šiose įstaigose. Šiame punkte nurodytos įstaigos privalo užtikrinti, kad būtų naudojamos efektyvios techninės apsaugos priemonės, neleidžiančios atgaminti kūrinių kopijų, taip pat bet kokiu būdu perkelti ar perduoti kūrinių turinio informaciją už įstaigų terminalų ribų į išorės tinklus; ^a066f42b2d380310eb534467
+3) naudoti kūrinius, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose, nekomerciniais mokslinių tyrimų ar asmeninių studijų tikslais juos padarant viešai prieinamus kompiuterių tinklais tam skirtuose terminaluose tų įstaigų patalpose, jeigu kūrinio nėra viešoje prekyboje ir autorių teisių subjektai nėra uždraudę tokio kūrinių panaudojimo. Šio apribojimo tikslais šiame punkte nurodytos įstaigos gali atgaminti įsigytus kūrinių egzempliorius, tačiau tik tam, kad būtų įmanoma techniškai padaryti kūrinį viešai prieinamą kompiuterių tinklais. Tuo pačiu metu negali būti padaroma prieinamų kompiuterių tinklais daugiau kūrinio egzempliorių, negu jų yra šiose įstaigose. Šiame punkte nurodytos įstaigos privalo užtikrinti, kad būtų naudojamos efektyvios techninės apsaugos priemonės, neleidžiančios atgaminti kūrinių kopijų, taip pat bet kokiu būdu perkelti ar perduoti kūrinių turinio informaciją už įstaigų terminalų ribų į išorės tinklus; ^s-0fe4a6beb1a50aaeca7399bf
 
 
-4) nekomerciniais tikslais viešai atlikti ir viešai rodyti kūrinį formaliojo ir neformaliojo švietimo mokyklų ir ikimokyklinio ugdymo mokyklų (lopšelių, lopšelių-darželių, darželių, specialiųjų poreikių vaikų ikimokykliniam ugdymui skirtų lopšelių, lopšelių-darželių ir darželių) koncertuose, parodose, kurie yra šių įstaigų vykdomo ugdymo proceso dalis.“ ^ab8ec7e075e6bd85041ab15d
+4) nekomerciniais tikslais viešai atlikti ir viešai rodyti kūrinį formaliojo ir neformaliojo švietimo mokyklų ir ikimokyklinio ugdymo mokyklų (lopšelių, lopšelių-darželių, darželių, specialiųjų poreikių vaikų ikimokykliniam ugdymui skirtų lopšelių, lopšelių-darželių ir darželių) koncertuose, parodose, kurie yra šių įstaigų vykdomo ugdymo proceso dalis.“ ^s-b136f1af147087db0a329c31
 
 
 
-### 8 straipsnis. 23 straipsnio pakeitimas
+### 8 straipsnis. 23 straipsnio pakeitimas ^s-52c64030aa9a2d98728b35a1
 
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
@@ -257,7 +262,7 @@ Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir
 
 
 
-### 9 straipsnis. 24 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 24 straipsnio 1 dalies pakeitimas ^s-2de0a5c1fabdc93f38cf368c
 
 
 Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -266,23 +271,23 @@ Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Leidžiama be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą:
 
 
-1) atgaminti spaudoje, viešai skelbti (įskaitant padarymą viešai prieinamų kompiuterių tinklais) išleistus ar viešai paskelbtus straipsnius aktualiomis ekonomikos, politikos ar religijos temomis, taip pat analogiško pobūdžio transliuojamus kūrinius, jeigu autoriai ar kiti tų kūrinių autorių teisių subjektai nėra uždraudę taip naudoti kūrinius, nurodant šaltinį, įskaitant autoriaus vardą, išleistuose ar viešai paskelbtuose kūrinių egzemplioriuose arba kitais būdais; ^1c3e50cf7c8c38bd23e21551
+1) atgaminti spaudoje, viešai skelbti (įskaitant padarymą viešai prieinamų kompiuterių tinklais) išleistus ar viešai paskelbtus straipsnius aktualiomis ekonomikos, politikos ar religijos temomis, taip pat analogiško pobūdžio transliuojamus kūrinius, jeigu autoriai ar kiti tų kūrinių autorių teisių subjektai nėra uždraudę taip naudoti kūrinius, nurodant šaltinį, įskaitant autoriaus vardą, išleistuose ar viešai paskelbtuose kūrinių egzemplioriuose arba kitais būdais; ^s-737e594f83acfbf4ed7bf116
 
 
-2) atgaminti ir viešai skelbti literatūros ir meno kūrinius, kai iš jų atlikimo vietos ar viešos parodos pateikiama informacija apie visuomenės gyvenimo įvykius arba dienos įvykių apžvalgos spaudoje, per radiją ar televiziją, jeigu tokį kūrinių naudojimą pateisina informacijos pateikimo tikslas ir tai yra pagalbinė informacijos medžiaga; ^02705aeac20da7a4d9d27306
+2) atgaminti ir viešai skelbti literatūros ir meno kūrinius, kai iš jų atlikimo vietos ar viešos parodos pateikiama informacija apie visuomenės gyvenimo įvykius arba dienos įvykių apžvalgos spaudoje, per radiją ar televiziją, jeigu tokį kūrinių naudojimą pateisina informacijos pateikimo tikslas ir tai yra pagalbinė informacijos medžiaga; ^s-b9e3b4c6f17f4c8e3e962fe6
 
 
-3) informuojant visuomenę atgaminti laikraščiuose, periodiniuose leidiniuose ar bet kuriuo būdu viešai skelbti politines kalbas, ištraukas iš viešų paskaitų ar kitų panašių kūrinių, taip pat teismo proceso metu pasakytas kalbas tiek, kiek tai pateisina informavimo tikslai; ^097554914f9b27bc51430a6a
+3) informuojant visuomenę atgaminti laikraščiuose, periodiniuose leidiniuose ar bet kuriuo būdu viešai skelbti politines kalbas, ištraukas iš viešų paskaitų ar kitų panašių kūrinių, taip pat teismo proceso metu pasakytas kalbas tiek, kiek tai pateisina informavimo tikslai; ^s-9d23ca3d542b604bed171f53
 
 
-4) atgaminti, išleisti ir viešai paskelbti kūrinius meno kūrinių viešai parodai ar pardavimui reklamuoti, kiek to reikia pranešti apie renginį, išskyrus bet kokį kitą komercinį naudojimą; ^177dcf99f710fcbf8917cb84
+4) atgaminti, išleisti ir viešai paskelbti kūrinius meno kūrinių viešai parodai ar pardavimui reklamuoti, kiek to reikia pranešti apie renginį, išskyrus bet kokį kitą komercinį naudojimą; ^s-a797a84dfe7ab554d65a71ed
 
 
-5) atgaminti ir viešai skelbti kūrinį, kai tai susiję su įrangos demonstravimu ar taisymu.“ ^797421ad88582095b564a6f3
+5) atgaminti ir viešai skelbti kūrinį, kai tai susiję su įrangos demonstravimu ar taisymu.“ ^s-b469b8a3b99054924c3fc60a
 
 
 
-### 10 straipsnis. 25 straipsnio pakeitimas
+### 10 straipsnis. 25 straipsnio pakeitimas ^s-2759a8da6243b6afff462213
 
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
@@ -292,17 +297,17 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 „25 straipsnis. Kūrinių panaudojimas neįgaliems žmonėms skirtais būdais
 
 
-1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, Vyriausybės įgaliotos institucijos patvirtintiems fiziniams ir juridiniams asmenims, atstovaujantiems neįgalių žmonių interesams, kai jie veikia nekomerciniais tikslais, leidžiama teisėtai išleistą ar viešai paskelbtą kūrinį naudoti nekomerciniais tikslais šio straipsnio 2 ir [[#^43055a726d7588769425b734|3 dalyse]] nurodytais būdais, jeigu tuo kūriniu galės naudotis ir prieigą prie jo turės tik neįgalūs žmonės, kiek tai pateisinama konkrečia negalia, išskyrus atvejus, kai tie kūriniai buvo specialiai sukurti šiam tikslui. ^809013700ba782ee5b27c3a5
+1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, Vyriausybės įgaliotos institucijos patvirtintiems fiziniams ir juridiniams asmenims, atstovaujantiems neįgalių žmonių interesams, kai jie veikia nekomerciniais tikslais, leidžiama teisėtai išleistą ar viešai paskelbtą kūrinį naudoti nekomerciniais tikslais šio straipsnio 2 ir [[#^s-83902057309f84a575f0bc58|3 dalyse]] nurodytais būdais, jeigu tuo kūriniu galės naudotis ir prieigą prie jo turės tik neįgalūs žmonės, kiek tai pateisinama konkrečia negalia, išskyrus atvejus, kai tie kūriniai buvo specialiai sukurti šiam tikslui. ^s-467e2f33a97128609b31d418
 
 
-2. [[#^809013700ba782ee5b27c3a5|Šio straipsnio 1 dalyje]] nustatyto apribojimo tikslais galima atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamos kompiuterių tinklais (internete), kūrinio garsinę versiją (taip pat ir elektroninės formos) ir versiją Brailio raštu. ^dfc98bd840c924c93f302263
+2. [[#^s-467e2f33a97128609b31d418|Šio straipsnio 1 dalyje]] nustatyto apribojimo tikslais galima atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamos kompiuterių tinklais (internete), kūrinio garsinę versiją (taip pat ir elektroninės formos) ir versiją Brailio raštu. ^s-5c5303ece7aae25f80179c91
 
 
-3. Intelekto ir skaitymo sutrikimų turinčių asmenų poreikiams leidžiama atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamų kompiuterių tinklais (internete), specialiai pritaikytus jiems kūrinius. Kūrinių pritaikymas intelekto ir skaitymo sutrikimų turintiems asmenims reiškia kūrinių perdirbimą supaprastinant leksiką, gramatiką ir (ar) morfologiją, sutrumpinant tekstą, t. y. tokiu būdu, kad kūriniai taptų suvokiami tokių sutrikimų turintiems asmenims.“ ^43055a726d7588769425b734
+3. Intelekto ir skaitymo sutrikimų turinčių asmenų poreikiams leidžiama atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamų kompiuterių tinklais (internete), specialiai pritaikytus jiems kūrinius. Kūrinių pritaikymas intelekto ir skaitymo sutrikimų turintiems asmenims reiškia kūrinių perdirbimą supaprastinant leksiką, gramatiką ir (ar) morfologiją, sutrumpinant tekstą, t. y. tokiu būdu, kad kūriniai taptų suvokiami tokių sutrikimų turintiems asmenims.“ ^s-83902057309f84a575f0bc58
 
 
 
-### 11 straipsnis. 26 straipsnio pakeitimas
+### 11 straipsnis. 26 straipsnio pakeitimas ^s-76c2dcc20e33530625eb11fa
 
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
@@ -316,7 +321,7 @@ Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir
 
 
 
-### 12 straipsnis. 28 straipsnio 1 dalies pakeitimas
+### 12 straipsnis. 28 straipsnio 1 dalies pakeitimas ^s-e9fbe9b5052fd3765ad79426
 
 
 Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -325,14 +330,14 @@ Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, leidžiama:
 
 
-1) atgaminti ir viešai paskelbti architektūros kūrinius ir skulptūras, sukurtus nuolat stovėti viešosiose vietose, išskyrus atvejus, kai jie eksponuojami parodose ir muziejuose; ^4637778bf7499e207676f63f
+1) atgaminti ir viešai paskelbti architektūros kūrinius ir skulptūras, sukurtus nuolat stovėti viešosiose vietose, išskyrus atvejus, kai jie eksponuojami parodose ir muziejuose; ^s-e7c5baf6efc7bd793dd2b697
 
 
-2) pastato ar kito statinio projektą, brėžinį, eskizą ar modelį panaudoti to pastato ar statinio rekonstrukcijai.“ ^8551a31dd1e18c0e6d533e03
+2) pastato ar kito statinio projektą, brėžinį, eskizą ar modelį panaudoti to pastato ar statinio rekonstrukcijai.“ ^s-5274c71339347fa626b508e3
 
 
 
-### 13 straipsnis. 33 straipsnio pakeitimas
+### 13 straipsnis. 33 straipsnio pakeitimas ^s-512a20ed1de73bb591cc2e89
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
@@ -346,7 +351,7 @@ Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir
 
 
 
-### 14 straipsnis. 39 straipsnio 3 dalies pakeitimas
+### 14 straipsnis. 39 straipsnio 3 dalies pakeitimas ^s-84877a7ed4fc08e9016437ba
 
 
 Pakeisti 39 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -356,7 +361,7 @@ Pakeisti 39 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 15 straipsnis. 58 straipsnio pakeitimas
+### 15 straipsnis. 58 straipsnio pakeitimas ^s-c2b9865e23dd2731a28da87a
 
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
@@ -366,76 +371,76 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 „58 straipsnis. Gretutinių teisių apribojimai
 
 
-1. Be gretutinių teisių subjektų leidimo ir be atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir atlikėjo vardą, leidžiama naudoti atlikimą, fonogramą, audiovizualinio kūrinio (filmo) įrašą ir transliuojančiosios organizacijos transliaciją arba jų įrašus: ^24b95ab3f40503da110ae039
+1. Be gretutinių teisių subjektų leidimo ir be atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir atlikėjo vardą, leidžiama naudoti atlikimą, fonogramą, audiovizualinio kūrinio (filmo) įrašą ir transliuojančiosios organizacijos transliaciją arba jų įrašus: ^s-08fe57391c895a77ac079e13
 
 
-1) laikiniems atgaminimo veiksmams, kurie yra trumpalaikiai arba atsitiktiniai, sudarantys neatskiriamą ir esminę technologinio proceso dalį ir atliekami tik tam, kad tarpininkas galėtų užtikrinti veiksmingą perdavimą kompiuterių tinklais tarp trečiųjų asmenų, arba tam, kad paskui būtų teisėtai (kai tai leidžia gretutinių teisių subjektas arba to neriboja šis Įstatymas) pasinaudota gretutinių teisių objektu, jeigu tokie laikini atgaminimo veiksmai atskirai neturi ekonominės vertės; ^9e92551d9d342963ae434888
+1) laikiniems atgaminimo veiksmams, kurie yra trumpalaikiai arba atsitiktiniai, sudarantys neatskiriamą ir esminę technologinio proceso dalį ir atliekami tik tam, kad tarpininkas galėtų užtikrinti veiksmingą perdavimą kompiuterių tinklais tarp trečiųjų asmenų, arba tam, kad paskui būtų teisėtai (kai tai leidžia gretutinių teisių subjektas arba to neriboja šis Įstatymas) pasinaudota gretutinių teisių objektu, jeigu tokie laikini atgaminimo veiksmai atskirai neturi ekonominės vertės; ^s-1807b60002180c4762ad60e7
 
 
-2) atgaminti, viešai skelbti trumpas gretutinių teisių objektų ištraukas aktualių įvykių apžvalgose tiek, kiek to reikia informacijai apie tuos įvykius; ^3b33214fbe4326c4300fe2fc
+2) atgaminti, viešai skelbti trumpas gretutinių teisių objektų ištraukas aktualių įvykių apžvalgose tiek, kiek to reikia informacijai apie tuos įvykius; ^s-6ed7b228ff251e5ef934d3ad
 
 
-3) naudoti gretutinių teisių objektus, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose taip, kaip nurodyta šio Įstatymo 22 straipsnio 3 punkte; ^d54889b71a3f75858fc6741e
+3) naudoti gretutinių teisių objektus, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose taip, kaip nurodyta šio Įstatymo 22 straipsnio 3 punkte; ^s-52df894f9efc4b22c0920261
 
 
-4) atgaminti gretutinių teisių objektą bibliotekose, mokymo įstaigose, muziejuose arba archyvuose, išskyrus gretutinių teisių objektą, paskelbtą kompiuterių tinklais (internete), nesiekiant tiesioginės ar netiesioginės ekonominės ar komercinės naudos, kai gretutinių teisių objekto kopija daroma tam, kad būtų išsaugotas arba atgamintas prarastas, sunaikintas arba tapęs netinkamas naudoti šiame punkte nurodytų įstaigų fondų ar kolekcijų egzempliorius arba kai reikia atkurti prarastą, sunaikintą ar tapusį netinkamą naudoti kitos panašios bibliotekos, mokymo įstaigos, muziejaus arba archyvo nuolatinės kolekcijos egzempliorių, jeigu tokio egzemplioriaus neįmanoma gauti kitais būdais. Pakartotiniai tokio atgaminimo atvejai leidžiami, jeigu jie vienas su kitu nesusiję; ^a0726f363e40172d08cb9dcb
+4) atgaminti gretutinių teisių objektą bibliotekose, mokymo įstaigose, muziejuose arba archyvuose, išskyrus gretutinių teisių objektą, paskelbtą kompiuterių tinklais (internete), nesiekiant tiesioginės ar netiesioginės ekonominės ar komercinės naudos, kai gretutinių teisių objekto kopija daroma tam, kad būtų išsaugotas arba atgamintas prarastas, sunaikintas arba tapęs netinkamas naudoti šiame punkte nurodytų įstaigų fondų ar kolekcijų egzempliorius arba kai reikia atkurti prarastą, sunaikintą ar tapusį netinkamą naudoti kitos panašios bibliotekos, mokymo įstaigos, muziejaus arba archyvo nuolatinės kolekcijos egzempliorių, jeigu tokio egzemplioriaus neįmanoma gauti kitais būdais. Pakartotiniai tokio atgaminimo atvejai leidžiami, jeigu jie vienas su kitu nesusiję; ^s-35f02f30c43185106e841a23
 
 
-5) kaip pavyzdį nekomerciniais mokymo ir mokslinių tyrimų tikslais atgaminti, viešai paskelbti nedidelį teisėtai išleistą ar viešai paskelbtą gretutinių teisių objektą ar jo ištrauką, kiek tai susiję su mokymo programomis ir neviršija mokymui ar moksliniam tyrimui reikalingo masto; ^b67816e519d8ce591a106d9a
+5) kaip pavyzdį nekomerciniais mokymo ir mokslinių tyrimų tikslais atgaminti, viešai paskelbti nedidelį teisėtai išleistą ar viešai paskelbtą gretutinių teisių objektą ar jo ištrauką, kiek tai susiję su mokymo programomis ir neviršija mokymui ar moksliniam tyrimui reikalingo masto; ^s-40358ca74aefcdb2ad20d17a
 
 
-6) nekomerciniais tikslais viešai paskelbti gretutinių teisių objektus formaliojo ir neformaliojo švietimo mokyklų ir ikimokyklinio ugdymo mokyklų (lopšelių, lopšelių-darželių, darželių, specialiųjų poreikių vaikų ikimokykliniam ugdymui skirtų lopšelių, lopšelių-darželių ir darželių) koncertuose, kurie yra šių įstaigų vykdomo ugdymo proceso dalis; ^241bb4683a8d9035fcc730be
+6) nekomerciniais tikslais viešai paskelbti gretutinių teisių objektus formaliojo ir neformaliojo švietimo mokyklų ir ikimokyklinio ugdymo mokyklų (lopšelių, lopšelių-darželių, darželių, specialiųjų poreikių vaikų ikimokykliniam ugdymui skirtų lopšelių, lopšelių-darželių ir darželių) koncertuose, kurie yra šių įstaigų vykdomo ugdymo proceso dalis; ^s-f46f3a7997253d1a5182597b
 
 
-7) trumpalaikiams gretutinių teisių objektų įrašams, kuriuos daro transliuojančiosios organizacijos ar transliuojančiosios organizacijos vardu ir atsakomybe veikiantis asmuo savo pačių įranga ir savo transliacijoms. Tokie įrašai gali būti saugomi ne ilgiau kaip 30 dienų ir juos panaudojus transliacijai turi būti ištrinti. Išimtinai dokumentinio pobūdžio įrašai gali būti perduoti saugoti oficialiems valstybės archyvams; ^56757ce496ba5eb91c70a7d7
+7) trumpalaikiams gretutinių teisių objektų įrašams, kuriuos daro transliuojančiosios organizacijos ar transliuojančiosios organizacijos vardu ir atsakomybe veikiantis asmuo savo pačių įranga ir savo transliacijoms. Tokie įrašai gali būti saugomi ne ilgiau kaip 30 dienų ir juos panaudojus transliacijai turi būti ištrinti. Išimtinai dokumentinio pobūdžio įrašai gali būti perduoti saugoti oficialiems valstybės archyvams; ^s-e7b87c1177e5b4a372f1d9b0
 
 
-8) nekomerciniais tikslais naudoti taip, kaip nurodyta šio Įstatymo 25 straipsnyje; ^eb0860690cb42d788386fd23
+8) nekomerciniais tikslais naudoti taip, kaip nurodyta šio Įstatymo 25 straipsnyje; ^s-0414f879331763f0f58df0a1
 
 
-9) panaudoti visuomenės saugumo tikslais arba siekiant užtikrinti tinkamą valstybės valdžios, valdymo ar teismo proceso veiksmų atlikimą ar pranešimą apie juos; ^0a908bbb068bb51aed45227e
+9) panaudoti visuomenės saugumo tikslais arba siekiant užtikrinti tinkamą valstybės valdžios, valdymo ar teismo proceso veiksmų atlikimą ar pranešimą apie juos; ^s-6637d5e45e963a65e61d2b23
 
 
-10) nekomerciniais tikslais atgaminti, viešai skelbti religinių apeigų metu; ^58278c035ff388ffad8d69f3
+10) nekomerciniais tikslais atgaminti, viešai skelbti religinių apeigų metu; ^s-24cbc6d7f636d98ee0f5115a
 
 
-11) kai atsitiktinai gretutinių teisių objektas įtraukiamas į kitą medžiagą; ^e7c0791222a90af71c8304f0
+11) kai atsitiktinai gretutinių teisių objektas įtraukiamas į kitą medžiagą; ^s-0fc22bd887b18341ded4adb5
 
 
-12) karikatūrai ar parodijai sukurti; ^2ee666575e82cfc719f93105
+12) karikatūrai ar parodijai sukurti; ^s-12c637a7ff0e37a76aeccdac
 
 
-13) kai tai susiję su įrangos demonstravimu ar taisymu. ^a0dccff7c4f361aa590371d0
+13) kai tai susiję su įrangos demonstravimu ar taisymu. ^s-e514d42c930c9da9f9520140
 
 
-2. Be gretutinių teisių subjektų leidimo fiziniam asmeniui išimtinai savo asmeniniam naudojimui nekomerciniais tikslais leidžiama atgaminti teisėtai išleisto ar viešai paskelbto atlikimo, fonogramos, audiovizualinio kūrinio (filmo) ar transliuojančiosios organizacijos transliacijos įrašo kopiją. Atlyginimas už gretutinių teisių objekto atgaminimą asmeniniam naudojimui nekomerciniais tikslais gretutinių teisių subjektams mokamas šio Įstatymo [[#20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|20 straipsnyje]] nustatyta tvarka. ^fda05f0d740ac3e4284035a4
+2. Be gretutinių teisių subjektų leidimo fiziniam asmeniui išimtinai savo asmeniniam naudojimui nekomerciniais tikslais leidžiama atgaminti teisėtai išleisto ar viešai paskelbto atlikimo, fonogramos, audiovizualinio kūrinio (filmo) ar transliuojančiosios organizacijos transliacijos įrašo kopiją. Atlyginimas už gretutinių teisių objekto atgaminimą asmeniniam naudojimui nekomerciniais tikslais gretutinių teisių subjektams mokamas šio Įstatymo [[#^s-0378d177ea6cc73434bcc10a|20 straipsnyje]] nustatyta tvarka. ^s-8d4333b909f4301a6f1897b7
 
 
-3. [[#^24b95ab3f40503da110ae039|Šio straipsnio 1 dalyje]] nurodyti gretutinių teisių apribojimai turi neprieštarauti įprastiniam šių teisių objektų naudojimui ir nepažeisti atlikėjų, fonogramų gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojų ar transliuojančiųjų organizacijų teisėtų interesų. ^bc3abf52764aed6c828cdc56
+3. [[#^s-08fe57391c895a77ac079e13|Šio straipsnio 1 dalyje]] nurodyti gretutinių teisių apribojimai turi neprieštarauti įprastiniam šių teisių objektų naudojimui ir nepažeisti atlikėjų, fonogramų gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojų ar transliuojančiųjų organizacijų teisėtų interesų. ^s-2b447d789141d72d0b54f6ff
 
 
-4. Atlikėjų, fonogramų gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojų ir transliuojančiųjų organizacijų teisė į kabelinę retransliaciją įgyvendinama tik per gretutinių teisių kolektyvinio administravimo asociacijas šio Įstatymo 65 straipsnio 4 ir 5 dalyse nustatyta tvarka. Ši nuostata netaikoma transliuojančiųjų organizacijų teisėms į jų pačių retransliuojamas laidas ir programas, nepaisant to, ar šios teisės priklauso pačiai transliuojančiajai organizacijai, ar jai jas perdavė kiti autorių teisių ar gretutinių teisių subjektai.“ ^da938d3cc5d2149e5b24aa86
+4. Atlikėjų, fonogramų gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojų ir transliuojančiųjų organizacijų teisė į kabelinę retransliaciją įgyvendinama tik per gretutinių teisių kolektyvinio administravimo asociacijas šio Įstatymo 65 straipsnio 4 ir 5 dalyse nustatyta tvarka. Ši nuostata netaikoma transliuojančiųjų organizacijų teisėms į jų pačių retransliuojamas laidas ir programas, nepaisant to, ar šios teisės priklauso pačiai transliuojančiajai organizacijai, ar jai jas perdavė kiti autorių teisių ar gretutinių teisių subjektai.“ ^s-afffb4934db344f392b64700
 
 
 
-### 16 straipsnis. 75 straipsnio 1 dalies pakeitimas
+### 16 straipsnis. 75 straipsnio 1 dalies pakeitimas ^s-930207b4283f0b95e6397fdb
 
 
 Pakeisti 75 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo [[#^2ae38186b2ab4067e820429c|20 straipsnio 1 dalyje]], 201 straipsnio 1 dalyje, 22 straipsnio 1 dalies 1 punkte, 25 straipsnio 1 dalyje, 27 straipsnyje, 29 straipsnio 1 dalies 2 punkte, 58 straipsnio 1 dalies 4, 5, 7, 8, 9 punktuose ir 2 dalyje ir 63 straipsnio 1 dalyje, teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų.“
+„1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo [[#^s-95033bbc5834073a69fb5436|20 straipsnio 1 dalyje]], 201 straipsnio 1 dalyje, 22 straipsnio 1 dalies 1 punkte, 25 straipsnio 1 dalyje, 27 straipsnyje, 29 straipsnio 1 dalies 2 punkte, 58 straipsnio 1 dalies 4, 5, 7, 8, 9 punktuose ir 2 dalyje ir 63 straipsnio 1 dalyje, teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų.“
 
 
 
-### 17 straipsnis. Įstatymo papildymas nauju 1 priedu
+### 17 straipsnis. Įstatymo papildymas nauju 1 priedu ^s-135e089fa3e7086fd74c112f
 
 
 Papildyti Įstatymą nauju 1 priedu:
 
 
 
-„Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
+„[[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo]]
 1 priedas
 
 TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ AUDIOVIZUALINIŲ KŪRINIŲ IR FONOGRAMOSE ĮRAŠYTŲ KŪRINIŲ ATGAMINIMĄ ASMENINIAIS TIKSLAIS, IR KOMPENSACINIO ATLYGINIMO TARIFAI
@@ -446,34 +451,34 @@ TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMA
  Kompensacinio atlyginimo tarifas
 
 
- 1. Garsajuostės ^65d36de6cc4d9fb5143c96e6
+ 1. Garsajuostės ^s-194289b9c74a72008e3dbe2e
  6 proc.
 
 
- 2. Vaizdajuostės ^d192ce446c879da1ac3ae23b
+ 2. Vaizdajuostės ^s-0cf996cff6d9eec6b4986bb3
  6 proc.
 
 
- 3. Minidiskai ^623750e9a2fbaaa8ad82801e
+ 3. Minidiskai ^s-26386ac0a24301e41f8c1bf6
  6 proc.
 
 
- 4. Visų tipų kompaktiniai diskai (CD+R, CD+RW, CD-R, CD-RW) ^02045ecd8f79ae47fc1936a4
+ 4. Visų tipų kompaktiniai diskai (CD+R, CD+RW, CD-R, CD-RW) ^s-8f9379c181306e8de85537bf
  6 proc.
 
 
- 5. Visų tipų universalieji diskai (DVD+R, DVD+RW, DVD-R, DVD-RW, DVD RAM, HD-DVD, dvisluoksniai DVD) ^5c06983f2be827ea0b628168
+ 5. Visų tipų universalieji diskai (DVD+R, DVD+RW, DVD-R, DVD-RW, DVD RAM, HD-DVD, dvisluoksniai DVD) ^s-f72397fed158e4267d2d830c
  6 proc.
 
 
- 6. Diskai „Blu-ray“ ^103eaca50973d263db630cfd
+ 6. Diskai „Blu-ray“ ^s-0c2b2e37f3b3d34e0fe6fff4
  6 proc.
 
 
  Pastaba. Kompensacinis atlyginimas skaičiuojamas nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų įrenginių ir tuščių laikmenų pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių.
 
 
- 7. Atminties kortelės (neintegruotos): ^21d3400c27ddc00e964db1c1
+ 7. Atminties kortelės (neintegruotos): ^s-0c70f123cca4d76c8d3224bf
 
 
 
@@ -505,7 +510,7 @@ TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMA
  10,00 Lt
 
 
- 8. USB atmintinės: ^b765faba92f59280c1c77657
+ 8. USB atmintinės: ^s-00dc441fd1784e34704615ee
 
 
 
@@ -537,7 +542,7 @@ TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMA
  10,00 Lt
 
 
- 9. Išoriniai ir vidiniai neintegruoti asmeninių kompiuterių pastoviosios būsenos diskai (SSD) ir standieji diskai (HDD): ^4bbd77a2109ecc9b4e918077
+ 9. Išoriniai ir vidiniai neintegruoti asmeninių kompiuterių pastoviosios būsenos diskai (SSD) ir standieji diskai (HDD): ^s-7edc5e276f3da1ad4661f0fe
 
 
 
@@ -564,7 +569,7 @@ TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMA
  Kompensacinio atlyginimo tarifas (litais)
 
 
- 1. Skaitmeniniai ir analoginiai garso ir vaizdo leistuvai su atminties įtaisu bei garso ir vaizdo įrašymo funkcija (garsajuosčių, vaizdajuosčių leistuvai, CD, DVD, HD-DVD, diskų „Blu-ray“ leistuvai, namų kino sistemos, muzikos centrai, magnetolos, automobilių magnetolos, radijo imtuvai, MP3 leistuvai, MP4 leistuvai, HD medijos leistuvai ir kiti leistuvai)   2. Mobilieji telefonai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   3. Televizoriai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   4. TV imtuvai (priedėliai) su atminties įtaisu ir garso ir vaizdo įrašymo funkcija ^631595eb19a1c9bac05915f5
+ 1. Skaitmeniniai ir analoginiai garso ir vaizdo leistuvai su atminties įtaisu bei garso ir vaizdo įrašymo funkcija (garsajuosčių, vaizdajuosčių leistuvai, CD, DVD, HD-DVD, diskų „Blu-ray“ leistuvai, namų kino sistemos, muzikos centrai, magnetolos, automobilių magnetolos, radijo imtuvai, MP3 leistuvai, MP4 leistuvai, HD medijos leistuvai ir kiti leistuvai)   2. Mobilieji telefonai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   3. Televizoriai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   4. TV imtuvai (priedėliai) su atminties įtaisu ir garso ir vaizdo įrašymo funkcija ^s-3a1421b352c0610dba916bed
  mažesni negu 1 GB
  1,50
 
@@ -601,7 +606,7 @@ TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMA
  40,00
 
 
- 5. Asmeniniai kompiuteriai ^568983650ef6905b44d9bff6
+ 5. Asmeniniai kompiuteriai ^s-3ba88ad7f71361e101c1d5ee
 
  20,00
 
@@ -610,14 +615,14 @@ TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMA
 
 
 
-### 18 straipsnis. Įstatymo papildymas 2 priedu
+### 18 straipsnis. Įstatymo papildymas 2 priedu ^s-5a86b075160ea99bce43238d
 
 
 Papildyti Įstatymą 2 priedu:
 
 
 
-„Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
+„[[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo]]
 2 priedas
 
 REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪRINIŲ ATGAMINIMĄ, IR KOMPENSACINIO ATLYGINIMO TARIFAI
@@ -629,7 +634,7 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
  Kompensacinio atlyginimo tarifas (procentais)
 
 
- 1. Nespalviniai kopijuokliai ^c38eeb29eac54008f8f79925
+ 1. Nespalviniai kopijuokliai ^s-a0a1f95bc79a79d3904c539d
 
  1,8–2,00
 
@@ -649,7 +654,7 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
  2,00
 
 
- 2. Spalviniai kopijuokliai ^d57fda5f861dc12f29d223d4
+ 2. Spalviniai kopijuokliai ^s-7abb69913d8a5cc9c47f5bbc
 
  2,7–3,00
 
@@ -669,7 +674,7 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
  3,00
 
 
- 3. Nespalviniai daugiafunkciai kopijuokliai ^4aeea28be525046a3de10820
+ 3. Nespalviniai daugiafunkciai kopijuokliai ^s-34af6d4dd923842c9e606920
 
  0,6–0,7
 
@@ -689,7 +694,7 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
  0,7
 
 
- 4. Spalviniai daugiafunkciai kopijuokliai ^66862e3cd375e12314fd4094
+ 4. Spalviniai daugiafunkciai kopijuokliai ^s-61f54a2152d26bc20aca0289
 
  0,9–1,00
 
@@ -715,58 +720,58 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
 
 
 
-### 19 straipsnis. Įstatymo priedo pakeitimas
+### 19 straipsnis. Įstatymo priedo pakeitimas ^s-1004dbc172e45031ef95afdc
 
 
 Buvusį Įstatymo priedą laikyti 3 priedu, jį pakeisti ir išdėstyti taip:
 
 
 
-„Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
+„[[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo]]
 3 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1993 m. rugsėjo 27 d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių teisių taisyklių, taikomų palydoviniam transliavimui ir kabeliniam perdavimui, koordinavimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 134). ^9d3cb50a184f5694501837a0
+1. 1993 m. rugsėjo 27 d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių teisių taisyklių, taikomų palydoviniam transliavimui ir kabeliniam perdavimui, koordinavimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 134). ^s-6e54eb21b803093eb9247163
 
 
-2. 1996 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 96/9/EB dėl duomenų bazių teisinės apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 15 tomas, p. 459). ^0aae113f7ecad5f749b94b5d
+2. 1996 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 96/9/EB dėl duomenų bazių teisinės apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 15 tomas, p. 459). ^s-661501f2e1116c59d4967a92
 
 
-3. 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų suderinimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 230). ^6ce801f1abebd13070a76f08
+3. 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų suderinimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 230). ^s-7b6b7c8372bc9eb77bd10f94
 
 
-4. 2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/84/EB dėl originalaus meno kūrinio perpardavimo teisės autoriaus naudai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 240). ^20b88104962e641ba51c3ea1
+4. 2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/84/EB dėl originalaus meno kūrinio perpardavimo teisės autoriaus naudai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 240). ^s-6b6e9a1b3f97d0efa7e0b29f
 
 
-5. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32). ^5e5c28de063c13cc3c690b53
+5. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32). ^s-37d126da0377167487918113
 
 
-6. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/115/EB dėl nuomos ir panaudos teisių bei tam tikrų teisių, gretutinių autorių teisėms, intelektinės nuosavybės srityje (kodifikuota redakcija) (OL 2006 L 376, p. 28). ^b4c37e8c59b6c4c57867482e
+6. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/115/EB dėl nuomos ir panaudos teisių bei tam tikrų teisių, gretutinių autorių teisėms, intelektinės nuosavybės srityje (kodifikuota redakcija) (OL 2006 L 376, p. 28). ^s-41ddd994480f03bc4225cc91
 
 
-7. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (kodifikuota redakcija) (OL 2006 L 372, p. 12). ^59ff61379e80ad94c9c50c34
+7. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (kodifikuota redakcija) (OL 2006 L 372, p. 12). ^s-ef7d3bb07e4aef44bcf9f35f
 
 
-8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).“ ^b759427e4a7210b41e3fd352
+8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).“ ^s-6b29ccfab47eb60eb347a870
 
 
 
-### 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-0378d177ea6cc73434bcc10a
 
 
-1. Šio įstatymo 4, 5, 10, 15, 17, [[#18 straipsnis. Įstatymo papildymas 2 priedu|18 straipsniai]] įsigalioja 2012 m. kovo 1 d. ^2ae38186b2ab4067e820429c
+1. Šio įstatymo 4, 5, 10, 15, 17, [[#^s-5a86b075160ea99bce43238d|18 straipsniai]] įsigalioja 2012 m. kovo 1 d. ^s-95033bbc5834073a69fb5436
 
 
-2. Šio įstatymo [[#7 straipsnis. 22 straipsnio pakeitimas|7 straipsnyje]] išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas, taip pat šio įstatymo [[#15 straipsnis. 58 straipsnio pakeitimas|15 straipsnyje]] išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas taikomi tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo įsigaliojimo. ^398be54dd82c1705b6673295
+2. Šio įstatymo [[#^s-96de20bafdd353f3da322fc9|7 straipsnyje]] išdėstyto [[latest/TAR.551F0CDE5B64#^s-af2b8a5de75a48b245f9fe38|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas]], taip pat šio įstatymo [[#^s-c2b9865e23dd2731a28da87a|15 straipsnyje]] išdėstyto [[latest/TAR.551F0CDE5B64#^s-9c6d6ef068c965858a08ca2e|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas]] taikomi tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo įsigaliojimo. ^s-73c81e2bc6ff73fff1ff6d09
 
 
-3. Lietuvos Respublikos Vyriausybė iki šio įstatymo 4, 5, 10, 15, 17, [[#18 straipsnis. Įstatymo papildymas 2 priedu|18 straipsnių]] įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^fef31eb9f77d9392faeba395
+3. Lietuvos Respublikos Vyriausybė iki šio įstatymo 4, 5, 10, 15, 17, [[#^s-5a86b075160ea99bce43238d|18 straipsnių]] įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-2873dbdbdf630536dae93866
 
 
-4. Lietuvos Respublikos kultūros ministerija iki šio įstatymo 4, 5, 10, 15, 17, [[#18 straipsnis. Įstatymo papildymas 2 priedu|18 straipsnių]] įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^7f31aaff9fefc51d03ac6568
+4. Lietuvos Respublikos kultūros ministerija iki šio įstatymo 4, 5, 10, 15, 17, [[#^s-5a86b075160ea99bce43238d|18 straipsnių]] įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-7576cb0e9ba1112bafe8d687
 
 
 

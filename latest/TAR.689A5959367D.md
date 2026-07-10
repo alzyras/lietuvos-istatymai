@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.689A5959367D"
 pavadinimas: "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+  - "2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-30"
 latest_path: "latest/TAR.689A5959367D.md"
 latest_sha256: "43f384ffe4613fd7a1ca73020144f3023479dcb927a12759de41279596b5e273"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.689A5959367D]]"
 ---
 # Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.689A5959367D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.689A5959367D
+- Ryšiai: [[Ryšiai/TAR.689A5959367D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,143 +34,143 @@ Vilnius
 
 
 
-### 1 straipsnis. 2000 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 2000 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas ^s-53fb6c4dc502eb3c81f09270
 
 
-1. Patvirtinti Lietuvos Respublikos 2000 metų valstybės biudžetą – 6051088 tūkst. litų pajamų, 6851088 tūkst. litų išlaidų (išlaidos viršija pajamas 800000 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 6 priedėliai). ^60b43a2534581f12250ac672
+1. Patvirtinti Lietuvos Respublikos 2000 metų valstybės biudžetą – 6051088 tūkst. litų pajamų, 6851088 tūkst. litų išlaidų (išlaidos viršija pajamas 800000 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 6 priedėliai). ^s-1bda201af650ee8fd14b72e0
 
 
-2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija naudojama kreditoriniam įsiskolinimui dengti bei kitoms paprastosioms išlaidoms finansuoti. ^5478fbe025c0392ebf151676
-
-
-
-### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
-
-
-1. Patvirtinti savivaldybių biudžetams prognozuojamas mokestinių pajamų sumas (4 priedėlis). ^faf7d7bc6c2e7a98162358ba
-
-
-2. Patvirtinti savivaldybių biudžetams skiriamas fizinių asmenų pajamų mokesčio dalis procentais (4 priedėlis). ^b0a6e8881986f843c18f503f
-
-
-3. Patvirtinti savivaldybių biudžetams bendrąsias dotacijas – 176201 tūkst. litų (5 priedėlis), iš jų: ^f91a26bc6dbea639c05975ea
-
-
-1) mokestinėms pajamoms išlyginti – 159408 tūkst. litų; ^eeca1e673e35a6b70d42cd70
-
-
-2) išlaidų struktūros skirtumams išlyginti – 16793 tūkst. litų. ^8fce3dfaa79843ce3f4511b2
-
-
-4. Patvirtinti savivaldybių biudžetams valstybės biudžeto bendrosios dotacijos kompensacijas – 97000 tūkst. litų (5 priedėlis). ^69b4f7b766cb052b6e47cb10
-
-
-5. Patvirtinti Vilniaus miesto savivaldybės biudžetui specialią tikslinę dotaciją Vilniaus senamiesčio atgaivinimo programai vykdyti – 2000 tūkst. litų. ^cabd4a36431863296e461bb3
+2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija naudojama kreditoriniam įsiskolinimui dengti bei kitoms paprastosioms išlaidoms finansuoti. ^s-536c125da58180f072a71741
 
 
 
-### 3 straipsnis. Savivaldybių biudžetų tvirtinimas
+### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas ^s-f72f523e727cc6970d6fc603
+
+
+1. Patvirtinti savivaldybių biudžetams prognozuojamas mokestinių pajamų sumas (4 priedėlis). ^s-bc62be38fc9d1045bf51f374
+
+
+2. Patvirtinti savivaldybių biudžetams skiriamas fizinių asmenų pajamų mokesčio dalis procentais (4 priedėlis). ^s-4b37a28075b3e8650f0e7956
+
+
+3. Patvirtinti savivaldybių biudžetams bendrąsias dotacijas – 176201 tūkst. litų (5 priedėlis), iš jų: ^s-c1297f3645629ad001f5e699
+
+
+1) mokestinėms pajamoms išlyginti – 159408 tūkst. litų; ^s-baf3e392b211960834f55285
+
+
+2) išlaidų struktūros skirtumams išlyginti – 16793 tūkst. litų. ^s-56d98a7a2101740ae4d4b0e9
+
+
+4. Patvirtinti savivaldybių biudžetams valstybės biudžeto bendrosios dotacijos kompensacijas – 97000 tūkst. litų (5 priedėlis). ^s-ed7ccdcade7defe2e0e649ce
+
+
+5. Patvirtinti Vilniaus miesto savivaldybės biudžetui specialią tikslinę dotaciją Vilniaus senamiesčio atgaivinimo programai vykdyti – 2000 tūkst. litų. ^s-ec203041a1919e2bd5a52de8
+
+
+
+### 3 straipsnis. Savivaldybių biudžetų tvirtinimas ^s-4e99af4de07b482e5850b378
 
 
 Nustatyti, kad miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo ir vieną egzempliorių pateikia Finansų ministerijai.
 
 
 
-### 4 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
+### 4 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis ^s-85787f399a9f678201a09f77
 
 
 Nustatyti, kad 2000 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos šio mokesčio sumos.
 
 
 
-### 5 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+### 5 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis ^s-ece06b728d2d30892271223e
 
 
 Nustatyti, kad 2000 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 201,7 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
 
 
 
-### 6 straipsnis. Nebiudžetinių (specialiųjų) lėšų įmokos
+### 6 straipsnis. Nebiudžetinių (specialiųjų) lėšų įmokos ^s-7a4c6f76d5cfe1a89153ecb6
 
 
-1. Valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų iš ūkinės veiklos gautas lėšas – 71590 tūkst. litų – įtraukti į apskaitą kaip valstybės biudžeto pajamas (3 priedėlis). ^fe08c3d591f0c999084e866e
+1. Valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų iš ūkinės veiklos gautas lėšas – 71590 tūkst. litų – įtraukti į apskaitą kaip valstybės biudžeto pajamas (3 priedėlis). ^s-17231e9a053329625c1c2b33
 
 
-2. Finansų ministerija, pervesdama asignavimų valdytojams patvirtintas valstybės biudžeto sumas, atsižvelgia į faktiškai negautas (palyginti su planu) nebiudžetinių (specialiųjų) lėšų įmokas į valstybės biudžetą. ^99c43768d99d9649fbabba5d
+2. Finansų ministerija, pervesdama asignavimų valdytojams patvirtintas valstybės biudžeto sumas, atsižvelgia į faktiškai negautas (palyginti su planu) nebiudžetinių (specialiųjų) lėšų įmokas į valstybės biudžetą. ^s-65f9d39c47aa6af952d4c38f
 
 
 
-### 7 straipsnis. Privatizavimo fondo lėšų naudojimas
+### 7 straipsnis. Privatizavimo fondo lėšų naudojimas ^s-d52b198a0b0c81cfdc47e9e0
 
 
 Nustatyti Privatizavimo fondo lėšų naudojimo limitus pagal pagrindines naudojimo kryptis: gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Lietuvos Respublikos Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų; šios lėšos Vyriausybės sprendimu laikinai gali būti naudojamos įgyvendinant Valstybės skolos įstatymą atsirandantiems valstybės turtiniams įsipareigojimams vykdyti) – iki 1067000 tūkst. litų; Smulkaus ir vidutinio verslo skatinimo fondui formuoti bei Vyriausybės patvirtintoms šalies programoms įgyvendinti (iki 1/3 iš privatizavimo gautų lėšų) – iki 463000 tūkst. litų, iš jų iki 352000 tūkst. litų pagrindiniam kapitalui įsigyti (investicijoms, numatytoms Valstybės investicijų programoje, įskaitant 1999 metų finansavimo skolą); atskaitymams į specialų fondą bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti – iki 20000 tūkst. litų; išlaidoms, susijusioms su Privatizavimo komisijos ir Turto fondo funkcijų įgyvendinimu, ekspertų paslaugoms apmokėti bei išlaidoms, susijusioms su objektų parengimu privatizuoti, – iki 50000 tūkst. litų.
 
 
 
-### 8 straipsnis.         Garantijų institucijų ir draudimo įmonių prisiimamų įsipareigojimų su valstybės garantija limitas
+### 8 straipsnis.         Garantijų institucijų ir draudimo įmonių prisiimamų įsipareigojimų su valstybės garantija limitas ^s-048544776b2093aff2e5b754
 
 
 Nustatyti, kad garantijų institucijų ir draudimo įmonių prisiimtų įsipareigojimų, dėl kurių teikiama valstybės garantija, suma negali viršyti 300000 tūkst. litų.
 
 
 
-### 9 straipsnis. Valstybės skolos limitai
+### 9 straipsnis. Valstybės skolos limitai ^s-8f5e5b5a2d924a3c74c7dc0d
 
 
 Nustatyti 2000 metų valstybės grynojo skolinimosi limitą – 1600000 tūkst. litų. Valstybės grynojo skolinimosi dydis fiksuojamas biudžetinių metų paskutinę kalendorinę dieną Finansų ministerijos nustatyta tvarka.
 
 
 
-### 10 straipsnis. Savivaldybių skolinimosi limitai
+### 10 straipsnis. Savivaldybių skolinimosi limitai ^s-99afa0354fbdb945a992e6fb
 
 
 Nustatyti šiuos savivaldybės skolinimosi limitus:
 
 
-1) bendra savivaldybės skola negali viršyti 20 procentų (Vilniaus miesto savivaldybės – 30 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų bei nepalūkaninių paskolų, skirtų laikinam biudžeto lėšų trūkumui padengti); ^cab60452d14306d206529023
+1) bendra savivaldybės skola negali viršyti 20 procentų (Vilniaus miesto savivaldybės – 30 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų bei nepalūkaninių paskolų, skirtų laikinam biudžeto lėšų trūkumui padengti); ^s-528f9f8a84fb234a035cb26a
 
 
-2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 15 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų, patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų bei nepalūkaninių paskolų, skirtų laikinam biudžeto lėšų trūkumui padengti, pirmiausia socialinėms išmokoms ir lengvatoms finansuoti); ^aba1460d7e568d35aead76b6
+2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 15 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų, patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų bei nepalūkaninių paskolų, skirtų laikinam biudžeto lėšų trūkumui padengti, pirmiausia socialinėms išmokoms ir lengvatoms finansuoti); ^s-188169c756c91525c8a1b2b6
 
 
-3) grąžintina tais kalendoriniais metais bendra savivaldybės paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 15 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų bei nepalūkaninių paskolų, skirtų laikinam biudžeto lėšų trūkumui padengti). ^b5959fada88969ed92745fa3
+3) grąžintina tais kalendoriniais metais bendra savivaldybės paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 15 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų bei nepalūkaninių paskolų, skirtų laikinam biudžeto lėšų trūkumui padengti). ^s-316ae7d2fc9bba457d5574af
 
 
 
-### 11 straipsnis. Vyriausybės teisės vykdant biudžetą
+### 11 straipsnis. Vyriausybės teisės vykdant biudžetą ^s-48f97725b0cc8c784306532f
 
 
 Suteikti Vyriausybei arba jos įgaliotai institucijai teisę:
 
 
-1) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti – iki 800000 tūkst. litų, valstybės investicijoms finansuoti ir įmonių apyvartinėms lėšoms papildyti – iki 538600 tūkst. litų; ^96a0b0ba6960ed0dde1354a0
+1) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti – iki 800000 tūkst. litų, valstybės investicijoms finansuoti ir įmonių apyvartinėms lėšoms papildyti – iki 538600 tūkst. litų; ^s-bfca020fb0377f940cb657ea
 
 
-2) laikantis valstybės grynojo skolinimosi limito, teikti valstybės garantijas paskoloms, naudojamoms valstybės investicijoms finansuoti, įmonių apyvartinėms lėšoms papildyti, Valstybinio socialinio draudimo fondo skoliniams įsipareigojimams dengti bei šio fondo pinigų srautams subalansuoti – iki 1089000 tūkst. litų; ^2a2b28e3b234b46b54a7472a
+2) laikantis valstybės grynojo skolinimosi limito, teikti valstybės garantijas paskoloms, naudojamoms valstybės investicijoms finansuoti, įmonių apyvartinėms lėšoms papildyti, Valstybinio socialinio draudimo fondo skoliniams įsipareigojimams dengti bei šio fondo pinigų srautams subalansuoti – iki 1089000 tūkst. litų; ^s-4dc5a9812c9f9e4f8840b337
 
 
-3) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti bei kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas. ^075357af21f1027164b9540c
-
-
-
-### 12 straipsnis. Patvirtintų programų finansavimą užtikrinančios priemonės
-
-
-1. Pavesti valstybės biudžeto asignavimų valdytojams ir savivaldybėms parengti, patvirtinti ir vykdyti valstybės biudžeto ir savivaldybių biudžetų išlaidų sumažinimo (lyginant 2000 metams patvirtintas asignavimų sumas su 1999 metų patikslintu planu) priemonių planus, užtikrinančius patvirtintų programų finansavimą ir kreditorinio įsiskolinimo padengimą. ^5131c522ded7816632fcad16
-
-
-2. Pavesti valstybės ir savivaldybių kontrolės institucijoms tikrinti [[#^5131c522ded7816632fcad16|šio straipsnio 1 dalyje]] numatytų priemonių planų realumą bei vykdymą ir išvadas pateikti atitinkamai Seimui ir savivaldybių taryboms. ^16d234ff9c8ce843f7c55cf7
+3) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti bei kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas. ^s-9a376de7bd57dce13d1a1ad1
 
 
 
-### 13 straipsnis.       Krašto apsaugos sistemos finansavimo strategijos įstatymo įgyvendinimas 2000 metais
+### 12 straipsnis. Patvirtintų programų finansavimą užtikrinančios priemonės ^s-71bda740a7142687a9d6ae52
 
 
-Lietuvos Respublikos Vyriausybė, įgyvendindama Krašto apsaugos sistemos finansavimo strategijos įstatymą, nustato, kad 2000 metais gynybos investiciniams projektams iš Privatizavimo fondo, valstybės vardu gaunamų paskolų ir paskolų, gaunamų su valstybės garantija, skiriamas finansavimas kartu su krašto apsaugai nustatytais asignavimais iš valstybės biudžeto turi atitikti Krašto apsaugos sistemos finansavimo strategijos įstatyme nustatytą krašto apsaugos sistemos finansavimo santykinį rodiklį (procentais nuo bendrojo vidaus produkto).
+1. Pavesti valstybės biudžeto asignavimų valdytojams ir savivaldybėms parengti, patvirtinti ir vykdyti valstybės biudžeto ir savivaldybių biudžetų išlaidų sumažinimo (lyginant 2000 metams patvirtintas asignavimų sumas su 1999 metų patikslintu planu) priemonių planus, užtikrinančius patvirtintų programų finansavimą ir kreditorinio įsiskolinimo padengimą. ^s-47a53ac11d2b78138a21468d
+
+
+2. Pavesti valstybės ir savivaldybių kontrolės institucijoms tikrinti [[#^s-47a53ac11d2b78138a21468d|šio straipsnio 1 dalyje]] numatytų priemonių planų realumą bei vykdymą ir išvadas pateikti atitinkamai Seimui ir savivaldybių taryboms. ^s-fbc4dcca9fe009bf08058ca6
 
 
 
-### 14 straipsnis. Melioracijos ir dirvų kalkinimo darbų finansavimas
+### 13 straipsnis.       Krašto apsaugos sistemos finansavimo strategijos įstatymo įgyvendinimas 2000 metais ^s-d541f958e6c522bf9b767fad
+
+
+Lietuvos Respublikos Vyriausybė, įgyvendindama Krašto apsaugos sistemos finansavimo strategijos įstatymą, nustato, kad 2000 metais gynybos investiciniams projektams iš Privatizavimo fondo, valstybės vardu gaunamų paskolų ir paskolų, gaunamų su valstybės garantija, skiriamas finansavimas kartu su krašto apsaugai nustatytais asignavimais iš valstybės biudžeto turi atitikti [[latest/TAR.8C3F4CB9D6B7|Krašto apsaugos sistemos finansavimo strategijos įstatyme]] nustatytą krašto apsaugos sistemos finansavimo santykinį rodiklį (procentais nuo bendrojo vidaus produkto).
+
+
+
+### 14 straipsnis. Melioracijos ir dirvų kalkinimo darbų finansavimas ^s-f03f0ba104c198897900a2a7
 
 
 Lietuvos Respublikos Vyriausybė, įgyvendindama Žemės ūkio ekonominių santykių valstybinio reguliavimo įstatymą, nustato, kad melioracijos ir dirvų kalkinimo darbai bus finansuojami iš valstybės biudžeto ir iš melioracijos ir vandentvarkos įrenginių naudotojų surinktų lėšų įstatymų nustatyta tvarka.
@@ -290,7 +295,7 @@ tūkst. Lt
 
 
 
- 1.900. 1 ^873384a6a68189a4dd7f28df
+ 1.900. 1 ^s-ebfc9c749d1c4541da75189e
  Lietuvos Respublikos Prezidentūra
 
 
@@ -336,7 +341,7 @@ tūkst. Lt
 
 
 
- 2.900. 2 ^9b7da889a2cbf848f163f92e
+ 2.900. 2 ^s-a0d4ab3dc470634fa00f7606
  Lietuvos Respublikos Seimas
 
 
@@ -399,7 +404,7 @@ tūkst. Lt
 
 
 
- 3.900. 3 ^66fae49d16232a0f27e54f6e
+ 3.900. 3 ^s-bc4d000075371962f55e5da5
  Vyriausioji rinkimų komisija
 
 
@@ -444,7 +449,7 @@ tūkst. Lt
 
 
 
- 4.900. 4 ^528b4998e3c2be6839152013
+ 4.900. 4 ^s-2fc76f46f02d544c788c0872
  Seimo kontrolierių įstaiga
 
 
@@ -480,7 +485,7 @@ tūkst. Lt
 
 
 
- 5.900. 5 ^0e84418a56e495c93e5f68a3
+ 5.900. 5 ^s-8b5988386fcb1baabfb94c54
  Lietuvos Respublikos Konstitucinis Teismas
 
 
@@ -516,7 +521,7 @@ tūkst. Lt
 
 
 
- 6.900. 6 ^7e9e27cc8c19c47d4b3c485a
+ 6.900. 6 ^s-3f18a67f968785db39fab19b
  Lietuvos Respublikos valstybės kontrolė
 
 
@@ -795,7 +800,7 @@ tūkst. Lt
 
 
 
- 7.900. 7 ^2cd3cfed6836fdacbc9da164
+ 7.900. 7 ^s-549b4ea8c689102f10a8cedb
  Valstybinė paminklo-saugos komisija
 
 
@@ -858,7 +863,7 @@ tūkst. Lt
 
 
 
- 8.900. 8 ^c2686ae99cbfe5aa2801e3c0
+ 8.900. 8 ^s-c4abd63f83a1c7788fd23ae1
  Lietuvos Respublikos Vyriausybės kanceliarija
 
 
@@ -939,7 +944,7 @@ tūkst. Lt
 
 
 
- 0. 0. 0 ^46b0132abc727643593ada2c
+ 0. 0. 0 ^s-1f4c782134485b9d1f9d52d2
  I. Ministerijos
 
 
@@ -948,7 +953,7 @@ tūkst. Lt
 
 
 
- 9.900. 9 ^2a4c88a3e3fe383de59057d6
+ 9.900. 9 ^s-600703442e55369d44d7a5cc
  Aplinkos ministerija
 
 
@@ -1083,7 +1088,7 @@ tūkst. Lt
 
 
 
- 12.900. 32 ^acdf973d026bf0864a252932
+ 12.900. 32 ^s-69434a0968b6ed3e9f0c8308
  Finansų ministerija
 
 
@@ -1236,7 +1241,7 @@ tūkst. Lt
 
 
 
- 13.900. 91 ^0a9953e82a426a03f7b6c4cc
+ 13.900. 91 ^s-f6c1466d1e5d3d3ecf81d922
  Krašto apsaugos ministerija
 
 
@@ -1389,7 +1394,7 @@ tūkst. Lt
 
 
 
- 14.900. 116 ^c0a421f8a7fb59a5ab961f14
+ 14.900. 116 ^s-985318102f4681a2fc091c93
  Kultūros ministerija
 
 
@@ -1569,7 +1574,7 @@ tūkst. Lt
 
 
 
- 18.900. 173 ^61df441d9b17b9c0bd69f8e1
+ 18.900. 173 ^s-6b801e945fee7d41cce23d00
  Socialinės apsaugos ir darbo ministerija
 
 
@@ -1695,7 +1700,7 @@ tūkst. Lt
 
 
 
- 20.900. 219 ^c5cc71448b9c6b35dbddfb2c
+ 20.900. 219 ^s-01d62c921a81de6548bb52fc
  Susisiekimo ministerija
 
 
@@ -1776,7 +1781,7 @@ tūkst. Lt
 
 
 
- 21.900. 220 ^01fe189f6ad7e36c5298197f
+ 21.900. 220 ^s-8c366b1e859e0dfc01a32f09
  Sveikatos apsaugos ministerija
 
 
@@ -1911,7 +1916,7 @@ tūkst. Lt
 
 
 
- 22.900. 326 ^80f1458de66a7465b8fd669a
+ 22.900. 326 ^s-e24b56eefabba0d8e9a22738
  Švietimo ir mokslo ministerija
 
 
@@ -2037,7 +2042,7 @@ tūkst. Lt
 
 
 
- 23.900. 551 ^6652fe71e1e3fd5b2b32a50d
+ 23.900. 551 ^s-5e08d863134b41935021a18d
  Teisingumo ministerija
 
 
@@ -2298,7 +2303,7 @@ tūkst. Lt
 
 
 
- 24.900. 554 ^20c4fd04534fb418a13d3da8
+ 24.900. 554 ^s-4615a583c75d4e68ccbc200b
  Užsienio reikalų ministerija
 
 
@@ -2379,7 +2384,7 @@ tūkst. Lt
 
 
 
- 25.900. 616 ^b6f4270b84a7feb1754211b0
+ 25.900. 616 ^s-72e8e8638c2cbd986f01e48b
  Valdymo reformų ir savivaldybių reikalų ministerija
 
 
@@ -2541,7 +2546,7 @@ tūkst. Lt
 
 
 
- 26.900. 617 ^941647841fca5cfd3a702f47
+ 26.900. 617 ^s-6372dd70409e8207377fec24
  Vidaus reikalų ministerija
 
 
@@ -2722,7 +2727,7 @@ tūkst. Lt
 
 
  8 1
- Gyvulių veislininkystės įstatymo ir kitų su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
+ [[latest/TAR.A039F278F253|Gyvulių veislininkystės įstatymo]] ir kitų su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
                  10.
                  403
                  403
@@ -2883,7 +2888,7 @@ tūkst. Lt
 
 
 
- 0. 0. 0 ^e4a5b3d4f99e1acc96e504b9
+ 0. 0. 0 ^s-7e82adc2e3cc9f82d7b7b607
  II. Apskritys
 
 
@@ -2892,7 +2897,7 @@ tūkst. Lt
 
 
 
- 90. 26.1147 ^ab6de1f6006e2f839e8e4af2
+ 90. 26.1147 ^s-89e9c536eb492d26c91444fe
  Alytaus apskrities viršininko administracija
 
 
@@ -3018,7 +3023,7 @@ tūkst. Lt
 
 
 
- 90. 27.1178 ^e345af13e50d0d9acde2810b
+ 90. 27.1178 ^s-d802eeb63faaae78205ca6ed
  Kauno apskrities viršininko administracija
 
 
@@ -3162,7 +3167,7 @@ tūkst. Lt
 
 
 
- 90. 28.1229 ^859d63ee5b2411573bb9b9b2
+ 90. 28.1229 ^s-26386e3cc0c3028fefc87fa2
  Klaipėdos apskrities viršininko administracija
 
 
@@ -3288,7 +3293,7 @@ tūkst. Lt
 
 
 
- 90. 29.1270 ^7df53ff47863ca65628e8632
+ 90. 29.1270 ^s-4db9acad1f38226dca737a0e
  Marijampolės apskrities viršininko administracija
 
 
@@ -3405,7 +3410,7 @@ tūkst. Lt
 
 
 
- 90. 30.1311 ^0ecfb4d80c21ff5b0dc67d36
+ 90. 30.1311 ^s-34ddd394ceadff75bcd92d41
  Panevėžio apskrities viršininko administracija
 
 
@@ -3531,7 +3536,7 @@ tūkst. Lt
 
 
 
- 90. 31.1352 ^67fa1687809a58ce2ef5d169
+ 90. 31.1352 ^s-c7f593e170527be3e134a2cc
  Šiaulių apskrities viršininko administracija
 
 
@@ -3657,7 +3662,7 @@ tūkst. Lt
 
 
 
- 90. 32.1393 ^e8ea0f9af7375cf51ff2f237
+ 90. 32.1393 ^s-5b5e4194880ba8e47d1dd741
  Tauragės apskrities viršininko administracija
 
 
@@ -3765,7 +3770,7 @@ tūkst. Lt
 
 
 
- 90. 33.1424 ^d07145e95ed3960105ddcb5d
+ 90. 33.1424 ^s-4c75a3d79af9445ada5478a8
  Telšių apskrities viršininko administracija
 
 
@@ -3864,7 +3869,7 @@ tūkst. Lt
 
 
 
- 90. 34.1455 ^9f75547c87dbd903ebb755f5
+ 90. 34.1455 ^s-d5d5b85facf1896f612c22a7
  Utenos apskrities viršininko administracija
 
 
@@ -3972,7 +3977,7 @@ tūkst. Lt
 
 
 
- 90. 35.1496 ^7354d36a4fef6d7ed06d8f92
+ 90. 35.1496 ^s-f14431cbc809a62c8cc499af
  Vilniaus apskrities viršininko administracija
 
 
@@ -4134,7 +4139,7 @@ tūkst. Lt
 
 
 
- 0. 0. 0 ^6b1dbdb1ee8574fc55ab3fd7
+ 0. 0. 0 ^s-fe86f9c10ff45a87e34d1207
  III. Departamentai, tarnybos ir inspekcijos
 
 
@@ -4143,7 +4148,7 @@ tūkst. Lt
 
 
 
- 90. 24.1140 ^69bd1c93a8fdc700bbceb19f
+ 90. 24.1140 ^s-d0ead2e6a94280055a1790a9
  Lietuvos archyvų departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -4314,7 +4319,7 @@ tūkst. Lt
 
 
 
- 90. 1. 806 ^7ad2f0513df9d909d4e2a9ad
+ 90. 1. 806 ^s-72d0f380de5dc32765fc5b93
  Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -4377,7 +4382,7 @@ tūkst. Lt
 
 
 
- 90. 5. 921 ^8fd39712c5d75440bc81e6e1
+ 90. 5. 921 ^s-404e57460a1229a6ae92edcb
  Tautinių mažumų ir išeivijos departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -4449,7 +4454,7 @@ tūkst. Lt
 
 
 
- 90. 8. 927 ^cdbceccb8ca6cc64e15c4de6
+ 90. 8. 927 ^s-b7d56b1d6d6135f2e4f7ea0c
  Statistikos departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -4548,7 +4553,7 @@ tūkst. Lt
 
 
 
- 90. 50.2070 ^b7609c654895819ffed824cb
+ 90. 50.2070 ^s-a46bcf20d54bb42ed9abddbe
  Vyriausioji administracinių ginčų komisija
 
 
@@ -4584,7 +4589,7 @@ tūkst. Lt
 
 
 
- 90. 42.1872 ^7519afb18330d7e56b97d043
+ 90. 42.1872 ^s-28f028830225710f42f5eb23
  Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
@@ -4638,7 +4643,7 @@ tūkst. Lt
 
 
 
- 90. 15.1049 ^a5fbe3d6969e51072f809a19
+ 90. 15.1049 ^s-e9844cdcd368172462a56412
  Lietuvos Respublikos konkurencijos taryba
 
 
@@ -4683,7 +4688,7 @@ tūkst. Lt
 
 
 
- 90. 40.1744 ^fcaf01725e1b1affdb2243df
+ 90. 40.1744 ^s-875205a53b40f59bf6825706
  Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
@@ -4693,7 +4698,7 @@ tūkst. Lt
 
 
  1 1
- Alkoholio ir tabako kontrolės įstatymo ir įstatymo lydimųjų aktų kontrolės vykdymas
+ Alkoholio ir [[latest/TAR.F8090E375DA0|tabako kontrolės įstatymo]] ir įstatymo lydimųjų aktų kontrolės vykdymas
              1.
              1165
              1165
@@ -4729,7 +4734,7 @@ tūkst. Lt
 
 
  1 1
- Viešųjų pirkimų įstatymo įgyvendinimas, pirkimo veiklos koordinavimas bei priežiūra ir viešųjų pirkimų sistemos tobulinimas
+ [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] įgyvendinimas, pirkimo veiklos koordinavimas bei priežiūra ir viešųjų pirkimų sistemos tobulinimas
                  13.
                  959
                  959
@@ -4863,7 +4868,7 @@ tūkst. Lt
 
 
 
- 90. 7. 925 ^25a3b1f3ecbaaf6c900d3b12
+ 90. 7. 925 ^s-99e62962f0d628de3925a12d
  Lietuvos Respublikos valstybės saugumo departamentas
 
 
@@ -4908,7 +4913,7 @@ tūkst. Lt
 
 
 
- 90. 48.1981 ^66b1220473637568088615ce
+ 90. 48.1981 ^s-e0420cbe939eac85f2764db8
  Teismų departamentas prie Teisingumo ministerijos
 
 
@@ -4944,7 +4949,7 @@ tūkst. Lt
 
 
 
- 90. 47.1967 ^1356768a24cdbdb6882fd912
+ 90. 47.1967 ^s-c9819c9db96f6034e420e633
  Mokslo ir studijų departamentas prie Švietimo ir mokslo ministerijos
 
 
@@ -4980,7 +4985,7 @@ tūkst. Lt
 
 
 
- 90. 14. 981 ^960ebaba480d9758c9ca6dfe
+ 90. 14. 981 ^s-158cbffd5ad87ad8d09ed5cc
  Valstybinė veterinarijos tarnyba
 
 
@@ -5052,7 +5057,7 @@ tūkst. Lt
 
 
 
- 90. 18.1056 ^22766fb66f389792f7bf7003
+ 90. 18.1056 ^s-b45fca1c1bc88c49f5abcc93
  Valstybinė atominės energetikos saugos inspekcija
 
 
@@ -5097,7 +5102,7 @@ tūkst. Lt
 
 
 
- 90. 20.1058 ^ecba7b1cbb5a4ae07748fe64
+ 90. 20.1058 ^s-b532e845bdd7c6c4bdefecff
  Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
 
 
@@ -5160,7 +5165,7 @@ tūkst. Lt
 
 
 
- 90. 16.1050 ^4efbfe11ea2b04e107bcc6fd
+ 90. 16.1050 ^s-021a3cd17534de799491a8de
  Vyriausybinių ryšių centras prie Lietuvos Respublikos valstybės saugumo departamento
 
 
@@ -5196,7 +5201,7 @@ tūkst. Lt
 
 
 
- 0. 0. 0 ^ec784a1da6fa0271595cda70
+ 0. 0. 0 ^s-77027747164b47ca55dca8c8
  IV. Įmonės ir organizacijos
 
 
@@ -5205,7 +5210,7 @@ tūkst. Lt
 
 
 
- 0.909. 0 ^f876bf372a339aaa464c1b5f
+ 0.909. 0 ^s-cf9b0682f83e600a335e2fe4
  Aplinkos ministerijos valdymo sritis
 
 
@@ -5214,7 +5219,7 @@ tūkst. Lt
 
 
 
- 90. 49.1982 ^3cc579ee34b9db0245f4fb2d
+ 90. 49.1982 ^s-3994b1e1c9e0dd6ba28a80eb
  Miškų ir saugomų teritorijų departamentas prie Aplinkos ministerijos
 
 
@@ -5331,7 +5336,7 @@ tūkst. Lt
 
 
 
- 90. 11. 978 ^20c8408dc26e0b0705246565
+ 90. 11. 978 ^s-8ecb7ca6ce1dfba3a7134c3e
  Lietuvos geologijos tarnyba prie Aplinkos ministerijos
 
 
@@ -5439,7 +5444,7 @@ tūkst. Lt
 
 
 
- 0.912. 0 ^e6404635cadf15e5af73a9df
+ 0.912. 0 ^s-3e910e40124f6dbcd226d37e
  Finansų ministerijos valdymo sritis
 
 
@@ -5448,7 +5453,7 @@ tūkst. Lt
 
 
 
- 90. 21.1059 ^269d57e70f81e9a92d66d549
+ 90. 21.1059 ^s-aa2fb7f715ec2fe49bc86b92
  Muitinės departamentas prie Finansų ministerijos
 
 
@@ -5529,7 +5534,7 @@ tūkst. Lt
 
 
 
- 90. 37. 90 ^5561741c0881dad741afffb5
+ 90. 37. 90 ^s-9bf449f87b09f382791326ce
  Revizijų departamentas prie Finansų ministerijos
 
 
@@ -5565,7 +5570,7 @@ tūkst. Lt
 
 
 
- 90. 36. 33 ^55e9c13084a531e999fd2715
+ 90. 36. 33 ^s-f73b8d485335e9f00835ab00
  Valstybinė mokesčių inspekcija prie Finansų ministerijos
 
 
@@ -5709,7 +5714,7 @@ tūkst. Lt
 
 
 
- 0.914. 0 ^cb43353a0ab2af4f1e7d88d3
+ 0.914. 0 ^s-d2b4cd970671be1b193eb05e
  Kultūros ministerijos valdymo sritis
 
 
@@ -5718,7 +5723,7 @@ tūkst. Lt
 
 
 
- 90. 22.1075 ^6ef7b5a8b6c7778aae6409f9
+ 90. 22.1075 ^s-5dc9e3122e0056347a8ff267
  Kultūros ministerijos Kultūros vertybių apsaugos departamentas
 
 
@@ -6069,7 +6074,7 @@ tūkst. Lt
 
 
 
- 0.918. 0 ^119ebb3a8ccd1b2c369081b4
+ 0.918. 0 ^s-3ad1bd59737697eae34e4e6b
  Socialinės apsaugos ir darbo ministerijos valdymo sritis
 
 
@@ -6078,7 +6083,7 @@ tūkst. Lt
 
 
 
- 90. 12. 979 ^f662c1c2baf5f386fa67b67b
+ 90. 12. 979 ^s-63ed279fd6a0c506ba2d0d68
  Technikos priežiūros tarnyba prie Socialinės apsaugos ir darbo ministerijos
 
 
@@ -6114,7 +6119,7 @@ tūkst. Lt
 
 
 
- 90. 9. 976 ^9ad5045ed38695ce516d7bee
+ 90. 9. 976 ^s-2108d887c3f8d55d4bc9dac8
  Vaikų teisių apsaugos tarnyba prie Socialinės apsaugos ir darbo ministerijos
 
 
@@ -6150,7 +6155,7 @@ tūkst. Lt
 
 
 
- 90. 19.1057 ^10f94357726d150da4464e6e
+ 90. 19.1057 ^s-1e869fb8c00f7467dd90ce4b
  Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos
 
 
@@ -6204,7 +6209,7 @@ tūkst. Lt
 
 
 
- 0.920. 0 ^7d6d64d1860bb3ae375a3af2
+ 0.920. 0 ^s-9a76b37cfa8bd2e62c4ed38e
  Susisiekimo ministerijos valdymo sritis
 
 
@@ -6618,7 +6623,7 @@ tūkst. Lt
 
 
 
- 0.921. 0 ^3a6c71c19b63368aa73ef633
+ 0.921. 0 ^s-deb0849ffdd7142000bbce01
  Sveikatos apsaugos ministerijos valdymo sritis
 
 
@@ -6726,7 +6731,7 @@ tūkst. Lt
 
 
 
- 0.929. 0 ^2cba72498f08a9ee979e8e65
+ 0.929. 0 ^s-154cac3d9fb893ba3e0e9944
  Ūkio ministerijos valdymo sritis
 
 
@@ -6807,7 +6812,7 @@ tūkst. Lt
 
 
 
- 0.925. 0 ^6de2c3a3b9db657c16ffcc84
+ 0.925. 0 ^s-cb748eed13e203464a9451fe
  Valdymo reformų ir savivaldybių reikalų ministerijos valdymo sritis
 
 
@@ -6816,7 +6821,7 @@ tūkst. Lt
 
 
 
- 90. 17.1051 ^1ec1a47f5164095a83b6abf1
+ 90. 17.1051 ^s-00260eef8c547a575f619c67
  Lietuvos standartizacijos departamentas prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
@@ -6933,7 +6938,7 @@ tūkst. Lt
 
 
 
- 90. 44.1894 ^d8f787f6ea544a9b1361608c
+ 90. 44.1894 ^s-52573c3ae5fcc6e9fcda313b
  Lietuvos metrologijos inspekcija
 
 
@@ -7059,7 +7064,7 @@ tūkst. Lt
 
 
 
- 90. 13. 980 ^6ffb7665e3efcb94abd7219a
+ 90. 13. 980 ^s-04dcbc5ea8efb48787122f05
  Valstybinis turizmo departamentas prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
@@ -7221,7 +7226,7 @@ tūkst. Lt
 
 
 
- 0.926. 0 ^cedfb67d803fc8b728c86013
+ 0.926. 0 ^s-456a784fd07a43077a4a7088
  Vidaus reikalų ministerijos valdymo sritis
 
 
@@ -7230,7 +7235,7 @@ tūkst. Lt
 
 
 
- 90. 6. 924 ^d4c3cf1d122145cd72c40523
+ 90. 6. 924 ^s-2a347a46927322d4dbdb1ecd
  Lietuvos Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamentas prie VRM
 
 
@@ -7284,7 +7289,7 @@ tūkst. Lt
 
 
 
- 90. 4. 864 ^1cfc025f7dfd81a61069911e
+ 90. 4. 864 ^s-e0194d84e4709aa73b1c0acb
  Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos
 
 
@@ -7329,7 +7334,7 @@ tūkst. Lt
 
 
 
- 90. 3. 826 ^e10748072b12dac174bde751
+ 90. 3. 826 ^s-8f6c19dad4c8e603e958b490
  Pasienio policijos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -7392,7 +7397,7 @@ tūkst. Lt
 
 
 
- 90. 2. 809 ^185b4eedc32823fb4bd3d5de
+ 90. 2. 809 ^s-51aeede76ca15a205c7594e8
  Pataisos reikalų departamentas prie Vidaus reikalų ministerijos
 
 
@@ -7455,7 +7460,7 @@ tūkst. Lt
 
 
 
- 90. 46.1902 ^0323cb755d4b6dc2697db3f2
+ 90. 46.1902 ^s-71a151eb388a422afad3526f
  Specialiųjų tyrimų tarnyba prie Vidaus reikalų ministerijos
 
 
@@ -7491,7 +7496,7 @@ tūkst. Lt
 
 
 
- 90. 43.1873 ^b3709cddd7a556c81a753774
+ 90. 43.1873 ^s-d49f45ff309240e5ac8a52da
  Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -7527,7 +7532,7 @@ tūkst. Lt
 
 
 
- 90. 45.1932 ^d9177f9ef73849d31dc670ee
+ 90. 45.1932 ^s-0e4c006fb440eea8a4f02226
  Policijos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -7563,7 +7568,7 @@ tūkst. Lt
 
 
 
- 0.930. 0 ^779f0c2366a193d86f54a34e
+ 0.930. 0 ^s-ebc89d9d16e5e661575c6043
  Žemės ūkio ministerijos valdymo sritis
 
 
@@ -7618,7 +7623,7 @@ tūkst. Lt
 
 
  1 1
- Gyvulių veislininkystės įstatymo ir kitų su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
+ [[latest/TAR.A039F278F253|Gyvulių veislininkystės įstatymo]] ir kitų su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
                  10.
                  1408
                  1408
@@ -7788,7 +7793,7 @@ tūkst. Lt
 
 
 
- 0. 0. 0 ^ff60c2e5537e9b998a9f9ad4
+ 0. 0. 0 ^s-4275b7964171525c6e5dc3a0
  V. Teisėsaugos institucijos
 
 
@@ -7914,7 +7919,7 @@ tūkst. Lt
 
 
 
- 0. 0. 0 ^01b894de3f433fde90c0d704
+ 0. 0. 0 ^s-b10fa6e68b60957dcb094a9a
  VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos
 
 
@@ -8283,7 +8288,7 @@ tūkst. Lt
 
 
 
- 90. 25.1145 ^487b1df65abc8c5ccca8ae03
+ 90. 25.1145 ^s-5b07c4278c0f2ae0da1ae540
  Lietuvos nacionalinis radijas ir televizija
 
 
@@ -8751,7 +8756,7 @@ tūkst. Lt
 
 
 
- 90. 38.1669 ^282515de91cf9cad76740774
+ 90. 38.1669 ^s-ce771fa44ce9cc55876a042b
  Lietuvos vartotojų kooperatyvų sąjunga (aukštesniosios kooperacijos mokyklos)
 
 
@@ -8787,7 +8792,7 @@ tūkst. Lt
 
 
 
- 90. 39.1633 ^0003c387ca3885a94dee3fb4
+ 90. 39.1633 ^s-389b7bb727c28a002a2ed19e
  Lietuvos invalidų reikalų taryba prie Lietuvos Respublikos Vyriausybės
 
 

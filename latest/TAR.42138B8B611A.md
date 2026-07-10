@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.42138B8B611A"
 pavadinimas: "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas"
+  - "žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-24"
 latest_path: "latest/TAR.42138B8B611A.md"
 latest_sha256: "4501e40b745279fed45d2b785c63f2fd9ae3b277b88b30b37f0e6188568d94c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.42138B8B611A]]"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.42138B8B611A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.42138B8B611A
+- Ryšiai: [[Ryšiai/TAR.42138B8B611A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 33 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 33 straipsnio 10 dalies pakeitimas ^s-6bf76af9a726796300219c22
 
 
 33 straipsnio 10 dalyje prieš žodį „dokumentai“ įrašyti žodžius „ilgo ir laikino saugojimo“, vietoj žodžių „savivaldybei saugoti dešimtį metų“ įrašyti žodžius „saugoti vietos savivaldos institucijai“ ir šią dalį išdėstyti taip:

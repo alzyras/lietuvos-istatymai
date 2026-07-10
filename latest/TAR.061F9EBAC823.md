@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.061F9EBAC823"
 pavadinimas: "Lietuvos Respublikos Seimo narių darbo sąlygų įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo narių darbo sąlygų įstatymo pripažinimo netekusiu galios įstatymas"
+  - "Seimo narių darbo sąlygų įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-01"
 latest_path: "latest/TAR.061F9EBAC823.md"
 latest_sha256: "85d95d8a28616bf4b60e5e5ae53d64795c9e25cc30c64c94e11dab12c7ff0e77"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.061F9EBAC823]]"
 ---
 # Lietuvos Respublikos Seimo narių darbo sąlygų įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.061F9EBAC823.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.061F9EBAC823
+- Ryšiai: [[Ryšiai/TAR.061F9EBAC823|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-f7dc1d866de479407c749a64
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos Seimo narių darbo sąlygų įstatymą.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-679970d73218ecf891bde889
 
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.

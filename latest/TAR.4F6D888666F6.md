@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F6D888666F6"
 pavadinimas: "Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas"
+  - "atmintinų dienų įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-01"
 latest_path: "latest/TAR.4F6D888666F6.md"
 latest_sha256: "1ae44d07efcf48fc578436e824b7f775245ceda7449a2afd634d22a347db6129"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F6D888666F6]]"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F6D888666F6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F6D888666F6
+- Ryšiai: [[Ryšiai/TAR.4F6D888666F6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,181 +38,181 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies papildymas ir pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies papildymas ir pakeitimas ^s-28d7bd114df01c80c9af470f
 
 
-1. Papildyti ir pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip: ^671247f4a6249c13b406cfdd
+1. Papildyti ir pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip: ^s-a6aecab3cafa232824996353
 
 
 „2. Nustatyti šias atmintinas dienas:
 
 
-1) sausio 1-oji – Lietuvos vėliavos diena; ^50fd55ef843867479e425587
+1) sausio 1-oji – Lietuvos vėliavos diena; ^s-d0c63775d325408404362589
 
 
-2) sausio 13-oji – Laisvės gynėjų diena; ^5c154e1898d875aa1ce35ac6
+2) sausio 13-oji – Laisvės gynėjų diena; ^s-64fc47777447b5ddf872a003
 
 
-3) sausio 15-oji – Klaipėdos krašto diena; ^218d17a61445259366c19175
+3) sausio 15-oji – Klaipėdos krašto diena; ^s-10ae976d6c865e472d301ada
 
 
-4) vasario 11-oji – Pasaulinė ligonių diena; ^a1edd77c8be805be73d5ca7b
+4) vasario 11-oji – Pasaulinė ligonių diena; ^s-e5141e4614c9b5f9041f4a75
 
 
-5) kovo 4-oji – Lietuvos globėjo šv. Kazimiero diena; ^15bf34c888b99852e889a5ba
+5) kovo 4-oji – Lietuvos globėjo šv. Kazimiero diena; ^s-e09e56819e3dc26fbe59eb09
 
 
-6) kovo 8-oji – Tarptautinė moterų solidarumo diena; ^9f84692dbf614406f0e285a7
+6) kovo 8-oji – Tarptautinė moterų solidarumo diena; ^s-bdc6e0db8090488029efcb27
 
 
-7) kovo 20-oji – Žemės diena; ^dc28aa9bd7a38ef93f432bc2
+7) kovo 20-oji – Žemės diena; ^s-bae15e2cfb5643ec545564e2
 
 
-8) kovo 27-oji – Tarptautinė teatro diena; ^7145459dffffe865c418376f
+8) kovo 27-oji – Tarptautinė teatro diena; ^s-9ff013109e28bf94c957c6f8
 
 
-9) kovo 29-oji – Lietuvos įstojimo į NATO diena; ^34931b76b94013a2d74b153f
+9) kovo 29-oji – Lietuvos įstojimo į NATO diena; ^s-a0627084240714c057e2a3ef
 
 
-10) balandžio 6-oji – Saugaus eismo diena; ^e9442a6cbcc289f0925f9d5e
+10) balandžio 6-oji – Saugaus eismo diena; ^s-2441ee7fef1fe4641824143d
 
 
-11) balandžio 7-oji – Pasaulinė sveikatos diena; ^cfe5d9a53518ab12e2de86ac
+11) balandžio 7-oji – Pasaulinė sveikatos diena; ^s-685a30cc106109e53a5dcc83
 
 
-12) balandžio 15-oji – Kultūros diena; ^118d109a1fefc0f9617be570
+12) balandžio 15-oji – Kultūros diena; ^s-c5896976bf8bfb2a8ad7c4df
 
 
-13) balandžio 17-oji – Lietuvos energetikų diena; ^659af7135e7f769d348e1f44
+13) balandžio 17-oji – Lietuvos energetikų diena; ^s-b9569578c1425f6b789b3df6
 
 
-14) balandžio 27-oji – Medicinos darbuotojų diena; ^0467833fb8e7476037bd31c9
+14) balandžio 27-oji – Medicinos darbuotojų diena; ^s-01bbded4529e82c32090af83
 
 
-15) balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena; ^14d9ff66745e22c496a3ae33
+15) balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena; ^s-f4de838787c371c9a5370d8b
 
 
-16) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena; ^00c9576c8e2287c2928bdd01
+16) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena; ^s-d4b868b29a7ceb1ebc6580c9
 
 
-17) gegužės 3-ioji – 1791 m. pirmosios rašytinės Konstitucijos Europoje diena; ^720bed195ea78f10dbf7fca3
+17) gegužės 3-ioji – 1791 m. pirmosios rašytinės Konstitucijos Europoje diena; ^s-c52c2e43ba36d7066a92aa34
 
 
-18) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena; ^6b35ba4348c9dc6efdcc54c6
+18) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena; ^s-25b75280f0cb0f1b5285f6d6
 
 
-19) gegužės 8-oji – Antrojo pasaulinio karo aukų atminimo diena; ^bc892175adabbb5651653679
+19) gegužės 8-oji – Antrojo pasaulinio karo aukų atminimo diena; ^s-d9ba3bbc02a61a0fb688690d
 
 
-20) gegužės 9-oji – Europos diena; ^2dc598ed56225d8057f4d0fa
+20) gegužės 9-oji – Europos diena; ^s-404352e4d78ea707d8140729
 
 
-21) gegužės 14-oji – Pilietinio pasipriešinimo diena; ^2cc235addca5d5445f99f187
+21) gegužės 14-oji – Pilietinio pasipriešinimo diena; ^s-3d57202039fccba219383446
 
 
-22) gegužės 15-oji – Steigiamojo Seimo susirinkimo diena, Tarptautinė šeimos diena; ^e54ae53fa974927afb9abc49
+22) gegužės 15-oji – Steigiamojo Seimo susirinkimo diena, Tarptautinė šeimos diena; ^s-b150e5eb92394598741a29e2
 
 
-23) gegužės 17-oji – Pasaulinė informacinės visuomenės diena; ^a7cde319ca1b7ae55d0a0b1f
+23) gegužės 17-oji – Pasaulinė informacinės visuomenės diena; ^s-0ee7735734e1eb06fd3bfba1
 
 
-24) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena; ^f46012993c782d0f1f0aead9
+24) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena; ^s-d7e742d8946be550a9afa3ce
 
 
-25) gegužės 25-oji – Tarptautinė dingusių vaikų diena; ^5e31fc8ed6a71f96ac791f80
+25) gegužės 25-oji – Tarptautinė dingusių vaikų diena; ^s-c7d852f175397c4faca17f89
 
 
-26) birželio 1-oji – Tarptautinė vaikų gynimo diena; ^3bf13ee9730c058f7141638c
+26) birželio 1-oji – Tarptautinė vaikų gynimo diena; ^s-64d2c5704d04707c9120b639
 
 
-27) birželio 3-ioji – Sąjūdžio diena; ^983ea518c580bdfa0eb71d76
+27) birželio 3-ioji – Sąjūdžio diena; ^s-1e894614a99571904a65f35f
 
 
-28) birželio 14-oji – Gedulo ir vilties diena; ^530a95d18574ae052701f676
+28) birželio 14-oji – Gedulo ir vilties diena; ^s-926add147fbbaa7f7d344452
 
 
-29) birželio 15-oji – Okupacijos ir genocido diena; ^e2f914e0bd0f223dffd1f34b
+29) birželio 15-oji – Okupacijos ir genocido diena; ^s-fa368a5028ff1afdaf6de9f4
 
 
-30) birželio 23-ioji – Birželio sukilimo diena; ^2e698ba292b7763c92ddef96
+30) birželio 23-ioji – Birželio sukilimo diena; ^s-013dbafe4cb04f1f0dd85d02
 
 
-31) liepos 15-oji – Žalgirio mūšio diena; ^2153111b13f69ce4d01334db
+31) liepos 15-oji – Žalgirio mūšio diena; ^s-8dff88ec65ebab0b0076e72e
 
 
-32) liepos 17-oji – Pasaulio lietuvių vienybės diena; ^f8f8ab27834fd4bed3d92c55
+32) liepos 17-oji – Pasaulio lietuvių vienybės diena; ^s-17161e1dce199dbe3a1df7aa
 
 
-33) liepos paskutinis sekmadienis – Jūros diena ir Žvejų diena; ^06fd9efc3fd0e598f49ff47d
+33) liepos paskutinis sekmadienis – Jūros diena ir Žvejų diena; ^s-e2187c69c9debf0d47f71c1b
 
 
-34) rugpjūčio 12-oji – Tarptautinė jaunimo diena; ^b9f587bd3ce33df30c8bb533
+34) rugpjūčio 12-oji – Tarptautinė jaunimo diena; ^s-5a8a23822f43d4eb82b98b6a
 
 
-35) rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena; ^fe690717ff83c9d53201353a
+35) rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena; ^s-147ef0a1da8a4819480fb4f9
 
 
-36) rugpjūčio 31-oji – Laisvės diena; ^bfb2befe3fb8b883fcc708b2
+36) rugpjūčio 31-oji – Laisvės diena; ^s-1add57276e22291186824aa9
 
 
-37) rugsėjo 1-oji – Mokslo ir žinių diena; ^b653b87270826a01923c974e
+37) rugsėjo 1-oji – Mokslo ir žinių diena; ^s-43a3707e1673aba96409e914
 
 
-38) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena; ^e960b6ea1db6260be0a0a105
+38) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena; ^s-ead2b9bbe0033df6c7383425
 
 
-39) rugsėjo antrasis šeštadienis – Statybininkų diena; ^dea508828e2607018fdfc4f3
+39) rugsėjo antrasis šeštadienis – Statybininkų diena; ^s-9ff5548e008d57cf59664e1a
 
 
-40) rugsėjo 22-oji – Baltų vienybės diena; ^27887e03fac45670a38f2d1e
+40) rugsėjo 22-oji – Baltų vienybės diena; ^s-c6d41c3bf22cb2cbc68dce8b
 
 
-41) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena; ^b1666a3f988709ab57e55597
+41) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena; ^s-17d72b391f2231439911da87
 
 
-42) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena; ^5f423f1693494168d2be1ff4
+42) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena; ^s-9a7d16e94b43d9661e1f6472
 
 
-43) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena; ^2ce0b707d906deecb1742540
+43) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena; ^s-a6d4d4681b2920eb684dbb5a
 
 
-44) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena; ^8229db0306d51136e621487d
+44) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena; ^s-4db6f711015cb70c33da440a
 
 
-45) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena; ^4a24dcc22b6b4f836318234c
+45) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena; ^s-896d30f15e024f83f7fe5a77
 
 
-46) spalio 5-oji – Tarptautinė mokytojų diena; ^3ad71b9d29ee0e743f68140a
+46) spalio 5-oji – Tarptautinė mokytojų diena; ^s-0374dce37d0af3d01b2cdb2a
 
 
-47) spalio 10-oji – Vietos savivaldos diena; ^a01bb9df519307adbb3dc5cc
+47) spalio 10-oji – Vietos savivaldos diena; ^s-ccaa9bad75bfc39bdd7e3f0f
 
 
-48) spalio antrasis šeštadienis – Derliaus diena; ^9cd325fa02af46cbc31b7e7b
+48) spalio antrasis šeštadienis – Derliaus diena; ^s-56bd7898ab4e4ac64e327b35
 
 
-49) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena; ^01eb477b0ae2205750c74c44
+49) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena; ^s-c8650addbf589507a212457a
 
 
-50) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena; ^2f9870149d9b227e7f7771ee
+50) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena; ^s-5a86f2f722bd233c490cf7e8
 
 
-51) spalio 25-oji – Konstitucijos diena; ^8f166cbdcca10fc24a2c5b1f
+51) spalio 25-oji – Konstitucijos diena; ^s-f891567ad1601e24a36047a7
 
 
-52) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena; ^e3f78a3eb950f2a5c7a176ad
+52) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena; ^s-8a03673eba40bdf6b0562be2
 
 
-53) lapkričio 16-oji – Tarptautinė tolerancijos diena; ^36bf0e2272117070bc06d92d
+53) lapkričio 16-oji – Tarptautinė tolerancijos diena; ^s-36373003c8fdb20bd8d13f96
 
 
-54) lapkričio 23-ioji – Lietuvos kariuomenės diena; ^c61c1d4a970fcfc459fc0852
+54) lapkričio 23-ioji – Lietuvos kariuomenės diena; ^s-f823483d633de3d19edd1d56
 
 
-55) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena; ^4f4be07b6c1377df459983e9
+55) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena; ^s-aac7e29770668c9141ab8258
 
 
-56) gruodžio 10-oji – Tarptautinė žmogaus teisių diena.“ ^834130c546e70a58cde0944a
+56) gruodžio 10-oji – Tarptautinė žmogaus teisių diena.“ ^s-9fd7a6a5f57256fa61cc862c
 
 
 

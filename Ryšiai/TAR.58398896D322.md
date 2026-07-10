@@ -1,0 +1,82 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.58398896D322"
+pavadinimas: "Lietuvos Respublikos probacijos įstatymas"
+---
+# Lietuvos Respublikos probacijos įstatymas: ryšiai
+
+- [[latest/TAR.58398896D322|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 4 citatos - Baudžiamojo proceso kodekso
+- [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - 2 citatos - Lietuvos Respublikos bausmių vykdymo kodekse
+- [[latest/TAR.A0A0CCC6B997#^s-210a33286874dcdc095ba2ba|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - 2 citatos - Bausmių vykdymo kodekso 82 straipsnio
+- [[latest/a7ee8a6024a511e5b336e9064144f02a|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 11, 17, 18, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1821
+- [[latest/0fe00b80112811efbcbfb318996800a8|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 14, 15, 16, 25, 29 ir 30 straipsnių pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. XIV-2592
+- [[latest/d214ac7088f711e8af589337bf1eb893|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1388
+- [[latest/77573e62040411edb32c9f9d8ba206f8|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2, 6, 8, 10, 11, 15, 17, 18, 20, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1204
+- [[latest/8b0d8d402d7a11e69cf5d89a5fdd27cc|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 30 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2408
+- [[latest/d262bec06eb711ec993ff5ca6e8ba60c|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 5, 6, 8, 10, 17, 18, 21, 22, 25, 28, 32, 33 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XIV-880
+- [[latest/c8b990f0ec7611e78a1adea6fe72f3c5|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 14 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-956
+- [[latest/67114020a67f11e69ad4c8713b612d0f|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir 30 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2712
+- [[latest/a74e45b09efd11e9878fc525390407ce|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2266
+
+## Šį įstatymą cituoja
+
+- [[latest/a21409019efc11e9878fc525390407ce#^s-42e8b614cc83961b6ac7650f|Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67, 70, 71, 74, 75, 85, 92 ir 243 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/a21409019efc11e9878fc525390407ce#^s-582bd9ededb59c1ca4737f60|Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67, 70, 71, 74, 75, 85, 92 ir 243 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/a21409019efc11e9878fc525390407ce#^s-67e850f28bd536fa374bd39d|Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67, 70, 71, 74, 75, 85, 92 ir 243 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/a21409019efc11e9878fc525390407ce#^s-cce1c4142d4fd7d79beafec1|Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67, 70, 71, 74, 75, 85, 92 ir 243 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B5EDB4B9A33#^s-1c8a46b68a7697fca2916af4|Lietuvos Respublikos baudžiamojo kodekso 48, 64, 67, 75, 82, 87, 92 straipsnių pakeitimo ir 77, 94 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B5EDB4B9A33#^s-307496c76ee22bf123230808|Lietuvos Respublikos baudžiamojo kodekso 48, 64, 67, 75, 82, 87, 92 straipsnių pakeitimo ir 77, 94 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B5EDB4B9A33#^s-ba2ac7127246de4671066838|Lietuvos Respublikos baudžiamojo kodekso 48, 64, 67, 75, 82, 87, 92 straipsnių pakeitimo ir 77, 94 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B5EDB4B9A33#^s-baab36fb2fbf7f205f6bf745|Lietuvos Respublikos baudžiamojo kodekso 48, 64, 67, 75, 82, 87, 92 straipsnių pakeitimo ir 77, 94 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/5e517ba0087c11efbcbfb318996800a8#^s-2d9a7e28d19b2f80434cebd1|Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/5e517ba0087c11efbcbfb318996800a8#^s-3a2913c5e8c27807818518a3|Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/5e517ba0087c11efbcbfb318996800a8#^s-53e90171c9e7d2772b8a4bd4|Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/5e517ba0087c11efbcbfb318996800a8#^s-ad353047665b63779f1f85a0|Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B866DFF7D43#^s-112ee1b9781b6ca1ebe3b0b2|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B866DFF7D43#^s-2e5f98ac5b7ebd5fedaa67cf|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B866DFF7D43#^s-9170f60c2f2906092892ce7f|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.2B866DFF7D43#^s-d62868cfe60a3ce48e03ce0f|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/60b497c024a511e5b336e9064144f02a#^s-1228a09a4fd1689cd4f31b41|Lietuvos Respublikos baudžiamojo proceso kodekso 253-1, 360, 362 ir 364 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/3ff9f0d09efd11e9878fc525390407ce#^s-3437bd655be94c64931f626d|Lietuvos Respublikos baudžiamojo proceso kodekso 309, 339, 342, 353, 354, 357, 358, 360, 361, 362 ir 364 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje
+- [[latest/3ff9f0d09efd11e9878fc525390407ce#^s-8d4634521e98bc15a2c11323|Lietuvos Respublikos baudžiamojo proceso kodekso 309, 339, 342, 353, 354, 357, 358, 360, 361, 362 ir 364 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje
+- [[latest/cb33a190112711efbcbfb318996800a8#^s-b425c35d93696817b8e6abdd|Lietuvos Respublikos baudžiamojo proceso kodekso 358 ir 360 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje
+- [[latest/2b2bebd0d37011ed9978886e85107ab2#^s-8ecacec7ad48bcfc607d3fc9|Lietuvos Respublikos baudžiamojo proceso kodekso 362 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/64067072040311edb32c9f9d8ba206f8#^s-3740445b4b3571914b1eebd3|Lietuvos Respublikos baudžiamojo proceso kodekso 69, 69-1, 101, 128, 165, 188, 189, 189-1, 235, 246, 308, 333, 339, 342, 357, 358, 360, 362, 365, 377, 453, 454 ir 460 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje
+- [[latest/64067072040311edb32c9f9d8ba206f8#^s-a3afc26a66b0094c9947790c|Lietuvos Respublikos baudžiamojo proceso kodekso 69, 69-1, 101, 128, 165, 188, 189, 189-1, 235, 246, 308, 333, 339, 342, 357, 358, 360, 362, 365, 377, 453, 454 ir 460 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje
+- [[latest/64067072040311edb32c9f9d8ba206f8#^s-abdac4539edb94d78b0426f6|Lietuvos Respublikos baudžiamojo proceso kodekso 69, 69-1, 101, 128, 165, 188, 189, 189-1, 235, 246, 308, 333, 339, 342, 357, 358, 360, 362, 365, 377, 453, 454 ir 460 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje
+- [[latest/64067072040311edb32c9f9d8ba206f8#^s-e478257fb791d8157931842f|Lietuvos Respublikos baudžiamojo proceso kodekso 69, 69-1, 101, 128, 165, 188, 189, 189-1, 235, 246, 308, 333, 339, 342, 357, 358, 360, 362, 365, 377, 453, 454 ir 460 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje
+- [[latest/TAR.EC588C321777#^s-27299c771f2a1ed1cedf7eb4|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje
+- [[latest/TAR.EC588C321777#^s-6bd383cc8bd0bb91c2226fef|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje
+- [[latest/TAR.EC588C321777#^s-99fed49ff18eb9fb27afcbb1|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/TAR.EC588C321777#^s-9aff38c2320b53d9c6d9eda1|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje
+- [[latest/TAR.EC588C321777#^s-e57fa890d9438ccb0a492291|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/TAR.EC588C321777#^s-e9eee0be9e07b38d003e2d9c|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje
+- [[latest/TAR.74A0670833B6#^s-5418f78aac038a446d53dbd1|Lietuvos Respublikos bausmių vykdymo kodekso 18, 19, 66, 90, 91, 126, 138, 140, 152, 154, 157, 158, 159, 164, 176 straipsnių pakeitimo ir 127, 160, 161, 162, 163, 179 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.74A0670833B6#^s-df4a052c61873ef2a67049f5|Lietuvos Respublikos bausmių vykdymo kodekso 18, 19, 66, 90, 91, 126, 138, 140, 152, 154, 157, 158, 159, 164, 176 straipsnių pakeitimo ir 127, 160, 161, 162, 163, 179 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos probacijos įstatymas
+- [[latest/6d3310b0037a11edb32c9f9d8ba206f8#^s-0277e3845eba2d9a59a1e105|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Probacijos įstatyme
+- [[latest/fca994709efc11e9878fc525390407ce#^s-169b55844272e758eb7091b6|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo
+- [[latest/6d3310b0037a11edb32c9f9d8ba206f8#^s-5d485f4b950ddb13e8aca01d|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/fca994709efc11e9878fc525390407ce#^s-61cd7c3c7cc59719b0ceb8d9|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo
+- [[latest/6d3310b0037a11edb32c9f9d8ba206f8#^s-bc10affe4e33f2a4c40482d6|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Probacijos įstatyme
+- [[latest/fca994709efc11e9878fc525390407ce#^s-d24a7956e19b9a92b3811b67|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/6d3310b0037a11edb32c9f9d8ba206f8#^s-d44cb92dd3fe425058fa9a31|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/fca994709efc11e9878fc525390407ce#^s-ee86e65c77e637cc6cedd883|Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/df4fe6f2a8b411ef90b5ee8931e5ce5e#^s-a9647e2165c433a5870e7f59|Lietuvos Respublikos bausmių vykdymo sistemos įstatymo Nr. XIII-1387 2, 13 ir 14 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-1b02c6591000db08b0b9d2f7|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Probacijos įstatymas
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-45db34bcd64727ac10f58be7|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-4b56d406eb6ad65675172f28|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatyme
+- [[latest/496a91c0040211edb32c9f9d8ba206f8#^s-636b36b38ea7cabfd3fc2d34|Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas]] - Probacijos įstatymas
+- [[latest/0fe00b80112811efbcbfb318996800a8#^s-9825b8dbd2e8d33b7e0efc68|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 14, 15, 16, 25, 29 ir 30 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos probacijos įstatymo 30 straipsnį
+- [[latest/67114020a67f11e69ad4c8713b612d0f#^s-c76b1aaebe3f0f7380e87c2d|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir 30 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos probacijos įstatymo (toliau – Probacijos įstatymas) 6 straipsnio 2 dalies
+- [[latest/67114020a67f11e69ad4c8713b612d0f#^s-f2d03559f26bb3572ac23daa|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir 30 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos probacijos įstatymo (toliau – Probacijos įstatymas) 6 straipsnio 2 dalies
+- [[latest/a74e45b09efd11e9878fc525390407ce#^s-1e5dca8d9f8a28d22ce0f9b2|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
+- [[latest/a74e45b09efd11e9878fc525390407ce#^s-30371b48c9b079e356a81eb1|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos probacijos įstatymo 15 straipsnio
+- [[latest/a74e45b09efd11e9878fc525390407ce#^s-6a6de1e9f0130472d6306c6a|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas]] - Probacijos įstatymo 28, 29 ar 30 straipsnyje
+- [[latest/a74e45b09efd11e9878fc525390407ce#^s-c4100f13b4c76e0516743aa6|Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas]] - Lietuvos Respublikos probacijos įstatymo 15 straipsnio
+- [[latest/08cb15c0f25111e88568e724760eeafa#^s-3e6709dc4a16aa56729fafbf|Lietuvos Respublikos įstatymas dėl amnestijos akto]] - Lietuvos Respublikos probacijos įstatymo
+- [[latest/08cb15c0f25111e88568e724760eeafa#^s-ee189525555ab27ff06b208b|Lietuvos Respublikos įstatymas dėl amnestijos akto]] - Lietuvos Respublikos probacijos įstatymo

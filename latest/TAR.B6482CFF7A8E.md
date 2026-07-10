@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B6482CFF7A8E"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 45 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 45 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 45 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-30"
 latest_path: "latest/TAR.B6482CFF7A8E.md"
 latest_sha256: "936f9e22159b5b2b6c692c94ae0dd71faa93d4d6e7ee28837e58841f56294ea9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B6482CFF7A8E]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 45 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B6482CFF7A8E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B6482CFF7A8E
+- Ryšiai: [[Ryšiai/TAR.B6482CFF7A8E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 45 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 45 straipsnio 4 dalies pakeitimas ^s-31822fd8e94d33ffeeb37442
 
 
 Pakeisti 45 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„Ištarnauto laiko pensija perskaičiuojama į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju, jeigu jos gavėjas yra sukakęs šio įstatymo nustatytą senatvės pensijos amžių arba pripažintas invalidu. Šiais atvejais ištarnauto laiko pensija perskaičiuojama pagal ištarnauto laiko pensijos byloje fiksuotus stažo ir uždarbio duomenis (47 ir 48 straipsniai) Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatų nustatyta tvarka. Ištarnauto laiko pensijos gavėjas, kuriam ši pensija perskaičiuojama į senatvės ar invalidumo pensiją, gali papildyti ištarnauto laiko pensijos byloje fiksuotus stažo duomenis, pateikdamas dokumentus apie stažą, įgytą tais laikotarpiais, kurie pagal šio įstatymo 52 straipsnio nuostatas prilyginami valstybinio socialinio pensijų draudimo stažui. Ištarnauto laiko pensijos gavėjo pageidavimu senatvės ar invalidumo pensija taip pat gali būti paskirta pagal šio įstatymo nuostatas dėl naujai skiriamų pensijų arba vietoj perskaičiuotos ar iš naujo paskirtos senatvės ar invalidumo pensijos toliau mokama ištarnauto laiko pensija. Iki šio įstatymo įsigaliojimo paskirtoji ištarnauto laiko pensija toliau mokama ir tiems jų gavėjams, kurie nėra sukakę senatvės pensijos amžiaus arba pripažinti invalidais. Ištarnauto laiko pensijos indeksuojamos šio įstatymo 50 straipsnyje nustatyta tvarka. Asmenims, gaunantiems senatvės ar invalidumo pensiją, ištarnauto laiko pensija nemokama. Vidaus reikalų, Specialiųjų tyrimų tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir karių pensijų perskaičiavimo ir mokėjimo tvarką nustato Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymas.“
+„Ištarnauto laiko pensija perskaičiuojama į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju, jeigu jos gavėjas yra sukakęs šio įstatymo nustatytą senatvės pensijos amžių arba pripažintas invalidu. Šiais atvejais ištarnauto laiko pensija perskaičiuojama pagal ištarnauto laiko pensijos byloje fiksuotus stažo ir uždarbio duomenis (47 ir 48 straipsniai) Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatų nustatyta tvarka. Ištarnauto laiko pensijos gavėjas, kuriam ši pensija perskaičiuojama į senatvės ar invalidumo pensiją, gali papildyti ištarnauto laiko pensijos byloje fiksuotus stažo duomenis, pateikdamas dokumentus apie stažą, įgytą tais laikotarpiais, kurie pagal šio įstatymo 52 straipsnio nuostatas prilyginami valstybinio socialinio pensijų draudimo stažui. Ištarnauto laiko pensijos gavėjo pageidavimu senatvės ar invalidumo pensija taip pat gali būti paskirta pagal šio įstatymo nuostatas dėl naujai skiriamų pensijų arba vietoj perskaičiuotos ar iš naujo paskirtos senatvės ar invalidumo pensijos toliau mokama ištarnauto laiko pensija. Iki šio įstatymo įsigaliojimo paskirtoji ištarnauto laiko pensija toliau mokama ir tiems jų gavėjams, kurie nėra sukakę senatvės pensijos amžiaus arba pripažinti invalidais. Ištarnauto laiko pensijos indeksuojamos šio įstatymo 50 straipsnyje nustatyta tvarka. Asmenims, gaunantiems senatvės ar invalidumo pensiją, ištarnauto laiko pensija nemokama. Vidaus reikalų, Specialiųjų tyrimų tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir karių pensijų perskaičiavimo ir mokėjimo tvarką nustato Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E|pareigūnų ir karių valstybinių pensijų įstatymas]].“
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-26e2e8ccc23766f92795ee33
 
 
-Šio Įstatymo [[#1 straipsnis. 45 straipsnio 4 dalies pakeitimas|1 straipsnyje]] išdėstytos 45 straipsnio 4 dalies nuostatos pradedamos taikyti nuo Lietuvos Respublikos Konstitucinio Teismo 2003 m. gruodžio 3 d. nutarimo (Žin., 2003, Nr. 115-5221) įsigaliojimo.
+Šio Įstatymo [[#^s-31822fd8e94d33ffeeb37442|1 straipsnyje]] išdėstytos 45 straipsnio 4 dalies nuostatos pradedamos taikyti nuo Lietuvos Respublikos Konstitucinio Teismo 2003 m. gruodžio 3 d. nutarimo (Žin., 2003, Nr. 115-5221) įsigaliojimo.
 
 
 

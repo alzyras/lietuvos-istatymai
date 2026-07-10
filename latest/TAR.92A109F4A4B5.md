@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.92A109F4A4B5"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 7 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.92A109F4A4B5.md"
 latest_sha256: "cc921257233482530d042753b1f0852aeccf3f3edf652702eab66242cbfb48d3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.92A109F4A4B5]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.92A109F4A4B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.92A109F4A4B5
+- Ryšiai: [[Ryšiai/TAR.92A109F4A4B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio pakeitimas
+### 1 straipsnis. 7 straipsnio pakeitimas ^s-55e51b3ad235f200b62146c5
 
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
@@ -83,7 +88,7 @@ Apylinkių teismai steigiami savivaldybės teritorijoje, kurioje gyvena ne maži
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d209ec1ee21922a4dd6640cb
 
 
 Šis įstatymas įsigalioja 2007 m. sausio 1 d.

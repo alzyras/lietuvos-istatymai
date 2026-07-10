@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.556E700ACD67"
 pavadinimas: "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo 6 straipsnio pakeitimo įstatymas"
+  - "planuojamos ūkinės veiklos poveikio aplinkai vertinimo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.556E700ACD67.md"
 latest_sha256: "a4a1d7254496eadc29f8cda14e9b55583c6221e97650c1854e9df4aeb68f33c7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.556E700ACD67]]"
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.556E700ACD67.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.556E700ACD67
+- Ryšiai: [[Ryšiai/TAR.556E700ACD67|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 1 punkto pakeitimas ^s-cf9e07560ece9d1b7eee5a80
 
 
 6 straipsnio 1 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:

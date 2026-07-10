@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C4914C2ACED"
 pavadinimas: "Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
+aliases:
+  - "Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-03-04"
 latest_path: "latest/TAR.8C4914C2ACED.md"
 latest_sha256: "950d32172d882ce798311c3db18be3f71771de04c9cc1f0c0be270fcecd1bd52"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C4914C2ACED]]"
 ---
 # Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C4914C2ACED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C4914C2ACED
+- Ryšiai: [[Ryšiai/TAR.8C4914C2ACED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,19 +43,19 @@ DĖL LIETUVOS RESPUBLIKOS 1993 METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVI
 Lietuvos Respublikos Seimas nutaria:
 
 
-### 1 straipsnis. Patvirtinti Lietuvos Respublikos 1993 metų valstybės biudžetą: 116333179 tūkst. talonų pajamų, 121569200 tūkst. talonų išlaidų (išlaidos viršija pajamas 5236021 tūkst. talonų) ir 1000000 tūkst. talonų kasos apyvartos lėšų (1 priedėlis).
+### 1 straipsnis. Patvirtinti Lietuvos Respublikos 1993 metų valstybės biudžetą: 116333179 tūkst. talonų pajamų, 121569200 tūkst. talonų išlaidų (išlaidos viršija pajamas 5236021 tūkst. talonų) ir 1000000 tūkst. talonų kasos apyvartos lėšų (1 priedėlis). ^s-38f8f497325119edf878e73d
 
 
-### 2 straipsnis. Nustatyti fizinių asmenų pajamų mokesčio ir pridėtosios vertės mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (2 priedėlis).
+### 2 straipsnis. Nustatyti fizinių asmenų pajamų mokesčio ir pridėtosios vertės mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (2 priedėlis). ^s-7740cd67c913c07183063ce5
 
 
-### 3 straipsnis. Nustatyti, kad Lietuvos Respublikos Vyriausybė, vykdydama 1993 metų valstybės biudžetą ir atsižvelgdama į Lietuvos Respublikos Seimo frakcijų bei komitetų pasiūlymus, gavusi didesnes negu planuota pajamas, pagal galimybes skiria jas žemės ūkiui, socialiniams reikalams bei kitiems poreikiams, o jei laikinai nevykdomi nustatytų valstybės biudžeto pajamų planai, nemažina valstybės biudžeto išlaidų vyriausiesiems asignavimų valdytojams pagal savo nustatytus prioritetus.
+### 3 straipsnis. Nustatyti, kad Lietuvos Respublikos Vyriausybė, vykdydama 1993 metų valstybės biudžetą ir atsižvelgdama į Lietuvos Respublikos Seimo frakcijų bei komitetų pasiūlymus, gavusi didesnes negu planuota pajamas, pagal galimybes skiria jas žemės ūkiui, socialiniams reikalams bei kitiems poreikiams, o jei laikinai nevykdomi nustatytų valstybės biudžeto pajamų planai, nemažina valstybės biudžeto išlaidų vyriausiesiems asignavimų valdytojams pagal savo nustatytus prioritetus. ^s-83817ec4bc5997446db3c99c
 
 
-### 4 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę, didinant darbo užmokestį biudžetinių įstaigų darbuotojams, tikslinti šio įstatymo 1 priedėlyje patvirtintus darbo užmokesčio asignavimus.
+### 4 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę, didinant darbo užmokestį biudžetinių įstaigų darbuotojams, tikslinti šio įstatymo 1 priedėlyje patvirtintus darbo užmokesčio asignavimus. ^s-5015ca4c9a94538a6b835d20
 
 
-### 5 straipsnis. Suteikti rajonų taryboms teisę perskirstyti pagal poreikius aukštesniosios ir žemesniosios pakopos savivaldybių biudžetams žemės ir žemės nuomos mokesčio įplaukas.
+### 5 straipsnis. Suteikti rajonų taryboms teisę perskirstyti pagal poreikius aukštesniosios ir žemesniosios pakopos savivaldybių biudžetams žemės ir žemės nuomos mokesčio įplaukas. ^s-d4cf7dffe5fce7e19d5b9916
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FF2A8FD2BD52"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3, 9, 14 ir 42 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3, 9, 14 ir 42 straipsnių pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3, 9, 14 ir 42 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.FF2A8FD2BD52.md"
 latest_sha256: "88d06320e437447b632fe051fe1e0b05e98790ac382754ae14ae287da39c4aac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FF2A8FD2BD52]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3, 9, 14 ir 42 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FF2A8FD2BD52.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FF2A8FD2BD52
+- Ryšiai: [[Ryšiai/TAR.FF2A8FD2BD52|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies 2 punkto pakeitimas ^s-8702634e3df2f14c0142a2a2
 
 
 Pakeisti 3 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 3 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies 6 punkto pakeitimas
+### 2 straipsnis. 9 straipsnio 3 dalies 6 punkto pakeitimas ^s-62f1430a4bba4dd07d887667
 
 
 9 straipsnio 3 dalies 6 punkte vietoj žodžio „Šaulių“ įrašyti žodžius „Lietuvos šaulių“ ir šį punktą išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 3 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 14 straipsnio 14 dalies pakeitimas
+### 3 straipsnis. 14 straipsnio 14 dalies pakeitimas ^s-a9491689df4be43924be44ef
 
 
 Pakeisti 14 straipsnio 14 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 14 straipsnio 14 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 42 straipsnio 4 dalies pakeitimas
+### 4 straipsnis. 42 straipsnio 4 dalies pakeitimas ^s-50598fb81819fcb920b6b4b9
 
 
 Pakeisti 42 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 42 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-c1fe72e464371f9337b55452
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

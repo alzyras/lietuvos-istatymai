@@ -1,0 +1,17 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.48D041932637"
+pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 71 straipsnio pakeitimo įstatymas"
+---
+# Lietuvos Respublikos sveikatos sistemos įstatymo 71 straipsnio pakeitimo įstatymas: ryšiai
+
+- [[latest/TAR.48D041932637|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas]] - 2 citatos - Visuomenės sveikatos priežiūros įstatymas
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.E2B2957B9182#^s-1836480c1b1c8923cea6f171|Lietuvos Respublikos sveikatos sistemos įstatymas]] - 2 citatos - SVEIKATOS SISTEMOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.E2B2957B9182#^s-55c80320605fe354b9add709|Lietuvos Respublikos sveikatos sistemos įstatymas]] - 2 citatos - SVEIKATOS SISTEMOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO ĮSTATYMAS

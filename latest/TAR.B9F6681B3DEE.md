@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B9F6681B3DEE"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.B9F6681B3DEE.md"
 latest_sha256: "d0e90daf66cc5f18ca6c096302bdd9050a271de6ac23147968a650c840829718"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B9F6681B3DEE]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B9F6681B3DEE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B9F6681B3DEE
+- Ryšiai: [[Ryšiai/TAR.B9F6681B3DEE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 3 dalies pakeitimas ^s-1996174c42e805d9d69907ef
 
 
 Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip:

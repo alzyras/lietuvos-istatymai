@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.C7A984833333.md",
   "latest_revision": "2004-04-01",
-  "latest_sha256": "68bddf18cf62543cec27587e6f29d58d4fc6bc4e6ce705c39bea275b569312e2",
+  "latest_sha256": "d1224c22efb4182b939e691a4d12c7fbb8a112fde39fc58e14ac017baa6e05ad",
   "metadata_path": "latest/TAR.C7A984833333.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

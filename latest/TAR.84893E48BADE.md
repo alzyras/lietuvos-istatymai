@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.84893E48BADE"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 9, 14 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 9, 14 straipsnių pakeitimo ir papildymo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 5, 9, 14 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-08-01"
 latest_path: "latest/TAR.84893E48BADE.md"
 latest_sha256: "075219780a39ea4ffbb9b368c75281b7bc7361d08f0be0e6235bb3e18b9da872"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.84893E48BADE]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 9, 14 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.84893E48BADE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.84893E48BADE
+- Ryšiai: [[Ryšiai/TAR.84893E48BADE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies papildymas 7 punktu
+### 1 straipsnis. 5 straipsnio 2 dalies papildymas 7 punktu ^s-0b0182843f135ed358003d06
 
 
 Papildyti 5 straipsnio 2 dalį 7 punktu:
@@ -43,7 +48,7 @@ Papildyti 5 straipsnio 2 dalį 7 punktu:
 
 
 
-### 2 straipsnis. 9 straipsnio papildymas nauja 4 dalimi
+### 2 straipsnis. 9 straipsnio papildymas nauja 4 dalimi ^s-d26550361950a386dad221ee
 
 
 Papildyti 9 straipsnį nauja 4 dalimi:
@@ -53,32 +58,32 @@ Papildyti 9 straipsnį nauja 4 dalimi:
 
 
 
-### 3 straipsnis. 14 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 14 straipsnio pakeitimas ir papildymas ^s-42ccde6c9b3f2e451d35f9da
 
 
-1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^166eba6184e37b7b22d22fb1
+1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^s-8b7c9bd053bad52bee6520f2
 
 
 „2. Ligos pašalpa, mokama iš Valstybinio socialinio draudimo fondo lėšų, lygi 85 procentams pašalpos gavėjo kompensuojamojo uždarbio.“
 
 
-2. Papildyti 14 straipsnį nauja [[#^f6cf68a4616976724c4fb5f7|3 dalimi]]: ^6e9a320ab0bd00e8c8d06e94
+2. Papildyti 14 straipsnį nauja [[#^s-f4f4af6dea09fee28f5504a2|3 dalimi]]: ^s-f4738d3c1b8a72c793848dec
 
 
 „3. Ligos pašalpa, tapus laikinai nedarbingam dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio.“
 
 
-3. Papildyti 14 straipsnį nauja [[#^7dfbb8d1a32cf08c01c3881b|4 dalimi]]: ^f6cf68a4616976724c4fb5f7
+3. Papildyti 14 straipsnį nauja [[#^s-bf61732ccf87feaf23018152|4 dalimi]]: ^s-f4f4af6dea09fee28f5504a2
 
 
 „4. Ligos pašalpa, mokama iš Valstybinio socialinio draudimo fondo lėšų, per mėnesį negali būti mažesnė už nedarbingumo atsiradimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų ketvirtadalį.“
 
 
-4. Buvusią 14 straipsnio 3 dalį laikyti 5 dalimi. ^7dfbb8d1a32cf08c01c3881b
+4. Buvusią 14 straipsnio 3 dalį laikyti 5 dalimi. ^s-bf61732ccf87feaf23018152
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-94cd1bf2d4c5873c412eb996
 
 
 Šis įstatymas įsigalioja 2008 m. rugpjūčio 1 d.

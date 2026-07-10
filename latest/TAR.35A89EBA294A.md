@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.35A89EBA294A"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-11-26"
 latest_path: "latest/TAR.35A89EBA294A.md"
 latest_sha256: "ec3c42c8dde4832390be6611a783152f08ae5d9ee0860d149f13730f345a451e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.35A89EBA294A]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.35A89EBA294A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.35A89EBA294A
+- Ryšiai: [[Ryšiai/TAR.35A89EBA294A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas ^s-9aa4ec1a1afc207873368c8e
 
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:

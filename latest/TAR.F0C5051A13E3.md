@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F0C5051A13E3"
 pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 11 straipsnio ir 2 priedėlio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 11 straipsnio ir 2 priedėlio papildymo įstatymas"
+  - "gyventojų turto ir pajamų deklaravimo įstatymo 11 straipsnio ir 2 priedėlio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-06-26"
 latest_path: "latest/TAR.F0C5051A13E3.md"
 latest_sha256: "f39550033a9cb3557bc0cda734b9cef6f7ec86e16e145b2d688f0b068b9a86f5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F0C5051A13E3]]"
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 11 straipsnio ir 2 priedėlio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F0C5051A13E3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F0C5051A13E3
+- Ryšiai: [[Ryšiai/TAR.F0C5051A13E3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 3 punkto papildymas
+### 1 straipsnis. 11 straipsnio 3 punkto papildymas ^s-d1f23ba61a5233e9c5953072
 
 
 Papildyti 11 straipsnio 3 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 11 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo 2 priedėlio papildymas
+### 2 straipsnis. Įstatymo 2 priedėlio papildymas ^s-13342472e52d895b5e1eb65f
 
 
 Papildyti 2 priedėlyje pateiktą sąrašą 17 punktu:

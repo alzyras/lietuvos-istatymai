@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.232096D12427"
 pavadinimas: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 3, 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39 straipsnių pakeitimo ir papildymo, 6, 40, 41, 43 straipsnių pripažinimo netekusiais galios, įstatymo papildymo 12-1 straipsniu ir II skyriaus trečiojo skirsnio pavadinimo pakeitimo įstatymo 1, 6, 9, 10, 11, 13, 16, 17, 18, 19, 20, 21, 34 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 3, 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39 straipsnių pakeitimo ir papildymo, 6, 40, 41, 43 straipsnių pripažinimo netekusiais galios, įstatymo papildymo 12-1 straipsniu ir II skyriaus trečiojo skirsnio pavadinimo pakeitimo įstatymo 1, 6, 9, 10, 11, 13, 16, 17, 18, 19, 20, 21, 34 straipsnių pakeitimo ir papildymo įstatymas"
+  - "Klaipėdos valstybinio jūrų uosto įstatymo 2, 3, 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39 straipsnių pakeitimo ir papildymo, 6, 40, 41, 43 straipsnių pripažinimo netekusiais galios, įstatymo papildymo 12-1 straipsniu ir II skyriaus trečiojo skirsnio pavadinimo pakeitimo įstatymo 1, 6, 9, 10, 11, 13, 16, 17, 18, 19, 20, 21, 34 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-01"
 latest_path: "latest/TAR.232096D12427.md"
 latest_sha256: "7ddf8c7701edfe0c6cdfb577c7154bb2cd3c9d696b55abf64c4b186e75e91824"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.232096D12427]]"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 3, 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39 straipsnių pakeitimo ir papildymo, 6, 40, 41, 43 straipsnių pripažinimo netekusiais galios, įstatymo papildymo 12-1 straipsniu ir II skyriaus trečiojo skirsnio pavadinimo pakeitimo įstatymo 1, 6, 9, 10, 11, 13, 16, 17, 18, 19, 20, 21, 34 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.232096D12427.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.232096D12427
+- Ryšiai: [[Ryšiai/TAR.232096D12427|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,17 +37,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas
+### 1 straipsnis. 1 straipsnio papildymas ^s-11987a0cc5a97c2de9e2f872
 
 
-Papildyti 1 straipsnyje išdėstytą [[#2 straipsnis. 6 straipsnio papildymas|2 straipsnį]] 15 pastraipa ir visą 1 straipsnį išdėstyti taip:
+Papildyti 1 straipsnyje išdėstytą [[#^s-3afad870eeaa404d96295c30|2 straipsnį]] 15 pastraipa ir visą 1 straipsnį išdėstyti taip:
 
 
-„1 straipsnis. [[#2 straipsnis. 6 straipsnio papildymas|2 straipsnio]] pakeitimas ir papildymas
+„1 straipsnis. [[#^s-3afad870eeaa404d96295c30|2 straipsnio]] pakeitimas ir papildymas
 
 
-[[#2 straipsnis. 6 straipsnio papildymas|2 straipsnio]] 3 pastraipoje įrašyti žodžius „Lietuvos Respublikos Vyriausybės nustatytų ribų“, 6 pastraipą pakeisti, 7 pastraipoje išbraukti žodžius „ir krovinių savininkų“, 8 ir 9 pastraipas pripažinti netekusiomis galios, buvusias 10 ir 11 pastraipas laikyti 8 ir 9 pastraipomis, jas pakeisti, straipsnį papildyti naujomis 10–15 pastraipomis ir visą straipsnį išdėstyti taip:
-„[[#2 straipsnis. 6 straipsnio papildymas|2 straipsnis]]. Įstatyme vartojamos sąvokos
+[[#^s-3afad870eeaa404d96295c30|2 straipsnio]] 3 pastraipoje įrašyti žodžius „Lietuvos Respublikos Vyriausybės nustatytų ribų“, 6 pastraipą pakeisti, 7 pastraipoje išbraukti žodžius „ir krovinių savininkų“, 8 ir 9 pastraipas pripažinti netekusiomis galios, buvusias 10 ir 11 pastraipas laikyti 8 ir 9 pastraipomis, jas pakeisti, straipsnį papildyti naujomis 10–15 pastraipomis ir visą straipsnį išdėstyti taip:
+„[[#^s-3afad870eeaa404d96295c30|2 straipsnis]]. Įstatyme vartojamos sąvokos
 
 
 Šiame įstatyme:
@@ -91,152 +96,152 @@ uosto riba – linija, skirianti muitinės prižiūrimą nustatytų ribų uosto 
 
 
 
-### 2 straipsnis. 6 straipsnio papildymas
+### 2 straipsnis. 6 straipsnio papildymas ^s-3afad870eeaa404d96295c30
 
 
-Papildyti [[#6 straipsnis. 13 straipsnio pakeitimas|6 straipsnyje]] išdėstytą 11 straipsnį 14 punktu ir visą [[#6 straipsnis. 13 straipsnio pakeitimas|6 straipsnį]]  išdėstyti taip:
+Papildyti [[#^s-0e4bba4a2932d68e10955105|6 straipsnyje]] išdėstytą 11 straipsnį 14 punktu ir visą [[#^s-0e4bba4a2932d68e10955105|6 straipsnį]]  išdėstyti taip:
 
 
-„[[#6 straipsnis. 13 straipsnio pakeitimas|6 straipsnis]]. [[#11 straipsnis. 20 straipsnio pakeitimas|11 straipsnio]] pakeitimas
+„[[#^s-0e4bba4a2932d68e10955105|6 straipsnis]]. [[#^s-e64587a46704bd0a6f86796e|11 straipsnio]] pakeitimas
 
 
-Pakeisti [[#11 straipsnis. 20 straipsnio pakeitimas|11 straipsnį]] ir jį išdėstyti taip:
-„[[#11 straipsnis. 20 straipsnio pakeitimas|11 straipsnis]]. Uosto direkcijos funkcijos
+Pakeisti [[#^s-e64587a46704bd0a6f86796e|11 straipsnį]] ir jį išdėstyti taip:
+„[[#^s-e64587a46704bd0a6f86796e|11 straipsnis]]. Uosto direkcijos funkcijos
 
 
 Pagrindinės Uosto direkcijos funkcijos:
 
 
-1) organizuoti uosto veiklą, užtikrinti saugią laivybą uoste; ^a96979b469b707e095a7e9f7
+1) organizuoti uosto veiklą, užtikrinti saugią laivybą uoste; ^s-a0d168bd017db598a21dc7ab
 
 
-2) užtikrinti uosto kapitono veiklą; ^5bbab5d260d65d9e884c840f
+2) užtikrinti uosto kapitono veiklą; ^s-e3133b364d66aa7599774f1a
 
 
-3) efektyviai naudoti ir išsaugoti priskirtą valstybės turtą ir finansinius išteklius; ^fb018a446f99d34d63bf56d1
+3) efektyviai naudoti ir išsaugoti priskirtą valstybės turtą ir finansinius išteklius; ^s-971232a44120b41e557387bb
 
 
-4) nuomoti uosto žemę; ^6050198932e000cc81a64ca1
+4) nuomoti uosto žemę; ^s-d1d84bbb9c0c1772b587b082
 
 
-5) rinkti uosto rinkliavas; ^93f6ab82e530cc8c1e6a4553
+5) rinkti uosto rinkliavas; ^s-c1ac560fd9e5a7fc9eefd6a6
 
 
-6) organizuoti uosto akvatorijoje laivų ir žmonių gelbėjimo darbus; ^0fd810fae9549af15b48ac93
+6) organizuoti uosto akvatorijoje laivų ir žmonių gelbėjimo darbus; ^s-80e6f0121af0aefcf5a2a747
 
 
-7) rengti uosto plėtros krypčių projektus, organizuoti jų įgyvendinimą, mokslinio tyrimo darbus, reklamuoti uostą; ^0ff962089646b144950bff3b
+7) rengti uosto plėtros krypčių projektus, organizuoti jų įgyvendinimą, mokslinio tyrimo darbus, reklamuoti uostą; ^s-e13931ddd30411301fc5aa37
 
 
-8) nagrinėti uoste veikiančių įmonių rekonstrukcijos, naujų objektų statybos projektus, juos derinti, nustatyti ir tvirtinti privalomas technines sąlygas; ^4e7cc2f6dfba8c863406ed6e
+8) nagrinėti uoste veikiančių įmonių rekonstrukcijos, naujų objektų statybos projektus, juos derinti, nustatyti ir tvirtinti privalomas technines sąlygas; ^s-9e23950140fad0b9b1f356f8
 
 
-9) uosto apsaugos nuo taršos prevencija bei taršos padarinių likvidavimo organizavimas; ^1885cd223b62b920387b0035
+9) uosto apsaugos nuo taršos prevencija bei taršos padarinių likvidavimo organizavimas; ^s-75cb8c31618361f4f3c5d422
 
 
-10) uosto infrastruktūros statyba, naudojimas ir plėtra; ^82e86add6478dddd2e741d56
+10) uosto infrastruktūros statyba, naudojimas ir plėtra; ^s-283fe4acf20d544d221b9cc5
 
 
-11) laisvojo uosto veiklos organizavimas ir jo ribų apsauga; ^ef0d8c160df6bcba3db3a7bb
+11) laisvojo uosto veiklos organizavimas ir jo ribų apsauga; ^s-91c6b3c3c5cc8d0327f2744c
 
 
-12) uosto aplinkos apsauga; ^0c0303e7b021e838785bd606
+12) uosto aplinkos apsauga; ^s-c04275b8d5cf3a9c6b2800cd
 
 
-13) uosto kultūros vertybių apsauga; ^56e9871715b005f950f06494
+13) uosto kultūros vertybių apsauga; ^s-17a1ca32d5f7ce4db8471d93
 
 
-14) uosto ribų pagal perimetrą apsaugos organizavimas ir vykdymas.“ ^ae12462b18e5413e9292cb76
-
-
-
-### 3 straipsnis. 9 straipsnio pakeitimas
-
-
-Pakeisti [[#9 straipsnis. 18 straipsnio pakeitimas|9 straipsnyje]] išdėstytą [[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnį]] ir visą [[#9 straipsnis. 18 straipsnio pakeitimas|9 straipsnį]] išdėstyti  taip:
-
-
-„[[#9 straipsnis. 18 straipsnio pakeitimas|9 straipsnis]]. [[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnio]] pakeitimas
-
-
-Pakeisti [[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnį]] ir jį išdėstyti taip:
-„[[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnis]]. Laisvojo uosto steigimas
-
-
-1. Laisvuoju uostu skelbiama Klaipėdos valstybinio jūrų uosto teritorija, kurios ribas ir veiklos sąlygas nustato Lietuvos Respublikos Vyriausybė. ^371306c971ed2602ba86159d
-
-
-2. Laisvojo uosto teritorijoje esančios atskiros uosto teritorijos dalys, kuriose veikiantys ūkio subjektai neturi, negali arba nenori veikti laisvojo uosto sąlygomis, Lietuvos Respublikos Vyriausybės nutarimu laisvojo uosto teritorijai nepriklauso.“ ^54adf2e085718edd794a126d
+14) uosto ribų pagal perimetrą apsaugos organizavimas ir vykdymas.“ ^s-36437862004bf71034320a4f
 
 
 
-### 4 straipsnis. 10 straipsnio papildymas
+### 3 straipsnis. 9 straipsnio pakeitimas ^s-681fa312a5495d328ccb98e3
 
 
-Papildyti [[#10 straipsnis. 19 straipsnio pakeitimas|10 straipsnyje]] išdėstytą 14 straipsnį 4 dalimi ir visą [[#10 straipsnis. 19 straipsnio pakeitimas|10 straipsnį]] išdėstyti taip:
+Pakeisti [[#^s-fed88fb915c496801a86e0f9|9 straipsnyje]] išdėstytą [[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnį]] ir visą [[#^s-fed88fb915c496801a86e0f9|9 straipsnį]] išdėstyti  taip:
 
 
-„[[#10 straipsnis. 19 straipsnio pakeitimas|10 straipsnis]]. 14 straipsnio pakeitimas
+„[[#^s-fed88fb915c496801a86e0f9|9 straipsnis]]. [[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnio]] pakeitimas
+
+
+Pakeisti [[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnį]] ir jį išdėstyti taip:
+„[[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnis]]. Laisvojo uosto steigimas
+
+
+1. Laisvuoju uostu skelbiama Klaipėdos valstybinio jūrų uosto teritorija, kurios ribas ir veiklos sąlygas nustato Lietuvos Respublikos Vyriausybė. ^s-dcfa7d397b07ae65c98a78df
+
+
+2. Laisvojo uosto teritorijoje esančios atskiros uosto teritorijos dalys, kuriose veikiantys ūkio subjektai neturi, negali arba nenori veikti laisvojo uosto sąlygomis, Lietuvos Respublikos Vyriausybės nutarimu laisvojo uosto teritorijai nepriklauso.“ ^s-84525dbeea31361172b545b7
+
+
+
+### 4 straipsnis. 10 straipsnio papildymas ^s-fc2020e9f723393e844d4ce7
+
+
+Papildyti [[#^s-c5be6c79fceeb4815a2da5bc|10 straipsnyje]] išdėstytą 14 straipsnį 4 dalimi ir visą [[#^s-c5be6c79fceeb4815a2da5bc|10 straipsnį]] išdėstyti taip:
+
+
+„[[#^s-c5be6c79fceeb4815a2da5bc|10 straipsnis]]. 14 straipsnio pakeitimas
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Laisvojo uosto įrengimo sutartis
 
 
-1. Laisvojo uosto žemės sklypo nuomininkas, norėdamas pradėti veiklą laisvajame uoste, sudaro su Uosto direkcija žemės sklypo įrengimo sutartį. ^58ca86e0256fd34dee88b3dd
+1. Laisvojo uosto žemės sklypo nuomininkas, norėdamas pradėti veiklą laisvajame uoste, sudaro su Uosto direkcija žemės sklypo įrengimo sutartį. ^s-412ae86df82813f5d7f08968
 
 
-2. Laisvojo uosto žemės sklypų įrengimo tvarka nustatoma Tipinėje laisvojo uosto žemės sklypų įrengimo sutartyje. ^dc0f3bb678d2ec54fd0c4d37
+2. Laisvojo uosto žemės sklypų įrengimo tvarka nustatoma Tipinėje laisvojo uosto žemės sklypų įrengimo sutartyje. ^s-4c1745119b90587740ba1c8b
 
 
-3. Tipinę laisvojo uosto žemės sklypų įrengimo sutarties formą nustato susisiekimo ministras suderinęs su finansų ministru ir vidaus reikalų ministru. ^3bd9a74b8042076b2ca222ae
+3. Tipinę laisvojo uosto žemės sklypų įrengimo sutarties formą nustato susisiekimo ministras suderinęs su finansų ministru ir vidaus reikalų ministru. ^s-6966b59343ad367640ca2f26
 
 
-4. Uosto žemės naudotojui įvykdžius visus tipinės sutarties reikalavimus dėl laisvojo uosto įrengimo, Uosto direkcija privalo per vieną mėnesį pasirašyti sutartį, suteikiančią laisvojo uosto statusą minėtam uosto žemės naudotojui.“ ^d4553ec94e39e3f7e597063d
+4. Uosto žemės naudotojui įvykdžius visus tipinės sutarties reikalavimus dėl laisvojo uosto įrengimo, Uosto direkcija privalo per vieną mėnesį pasirašyti sutartį, suteikiančią laisvojo uosto statusą minėtam uosto žemės naudotojui.“ ^s-159a9dcce141a5823a173cf7
 
 
 
-### 5 straipsnis. 11 straipsnio pakeitimas
+### 5 straipsnis. 11 straipsnio pakeitimas ^s-463ccc9150ea3dcb6deba615
 
 
-Pakeisti [[#11 straipsnis. 20 straipsnio pakeitimas|11 straipsnyje]] išdėstytą 15 straipsnį ir visą [[#11 straipsnis. 20 straipsnio pakeitimas|11 straipsnį]] išdėstyti taip:
+Pakeisti [[#^s-e64587a46704bd0a6f86796e|11 straipsnyje]] išdėstytą 15 straipsnį ir visą [[#^s-e64587a46704bd0a6f86796e|11 straipsnį]] išdėstyti taip:
 
 
-„[[#11 straipsnis. 20 straipsnio pakeitimas|11 straipsnis]]. 15 straipsnio pakeitimas
+„[[#^s-e64587a46704bd0a6f86796e|11 straipsnis]]. 15 straipsnio pakeitimas
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Veikla laisvajame uoste
 
 
-1. Laisvajame uoste gali būti vykdoma Ekonominių veiklos rūšių klasifikatoriuje numatyta su Klaipėdos valstybinio jūrų uosto funkcine paskirtimi susijusi veikla. ^85239fd55c8e68bdb3b9f984
+1. Laisvajame uoste gali būti vykdoma Ekonominių veiklos rūšių klasifikatoriuje numatyta su Klaipėdos valstybinio jūrų uosto funkcine paskirtimi susijusi veikla. ^s-8df922c0e2bf58a365b6cfc5
 
 
-2. Su Klaipėdos valstybinio jūrų uosto funkcine paskirtimi susijusių veiklos rūšių sąrašą tvirtina Lietuvos Respublikos Vyriausybė.“ ^2c6ee0ce77fcb85efa61fa29
+2. Su Klaipėdos valstybinio jūrų uosto funkcine paskirtimi susijusių veiklos rūšių sąrašą tvirtina Lietuvos Respublikos Vyriausybė.“ ^s-f82ef9d5cecca8663d926d9c
 
 
 
-### 6 straipsnis. 13 straipsnio pakeitimas
+### 6 straipsnis. 13 straipsnio pakeitimas ^s-0e4bba4a2932d68e10955105
 
 
-Pakeisti [[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnyje]] išdėstyto 17 straipsnio 1 dalį ir visą [[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnį]] išdėstyti taip:
+Pakeisti [[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnyje]] išdėstyto 17 straipsnio 1 dalį ir visą [[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnį]] išdėstyti taip:
 
 
-„[[#13 straipsnis. 34 straipsnio pakeitimas|13 straipsnis]]. 17 straipsnio pakeitimas
+„[[#^s-b1c35234cf0df2a89d8a44d0|13 straipsnis]]. 17 straipsnio pakeitimas
 
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 „17 straipsnis. Leidimas veiklai laisvajame uoste
 
 
-1. Fiziniai ir juridiniai asmenys laisvojo uosto teritorijoje gali verstis šio įstatymo 15 straipsnyje numatyta veikla tik gavę leidimą veiklai laisvajame uoste. Sąlygos ir reikalavimai gauti leidimą veiklai laisvajame uoste turi būti vienodi visiems asmenims. Leidimo formą, jo išdavimo, galiojimo sustabdymo ir panaikinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. ^6c58d1089041d486b7e7667a
+1. Fiziniai ir juridiniai asmenys laisvojo uosto teritorijoje gali verstis šio įstatymo 15 straipsnyje numatyta veikla tik gavę leidimą veiklai laisvajame uoste. Sąlygos ir reikalavimai gauti leidimą veiklai laisvajame uoste turi būti vienodi visiems asmenims. Leidimo formą, jo išdavimo, galiojimo sustabdymo ir panaikinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. ^s-e0b7aadc5407747ed7a76f44
 
 
-2. Asmuo, gavęs leidimą veiklai laisvajame uoste, privalo pateikti muitinei bendrąją garantiją, reikalingą galinčių atsirasti skolininko įsipareigojimų, susijusių su laisvajame uoste laikomomis prekėmis, įvykdymui užtikrinti.“ ^7a88e0773128ae2d0f1535e2
+2. Asmuo, gavęs leidimą veiklai laisvajame uoste, privalo pateikti muitinei bendrąją garantiją, reikalingą galinčių atsirasti skolininko įsipareigojimų, susijusių su laisvajame uoste laikomomis prekėmis, įvykdymui užtikrinti.“ ^s-92ab230f759e03605ebf5768
 
 
 
-### 7 straipsnis. 16 straipsnio pakeitimas
+### 7 straipsnis. 16 straipsnio pakeitimas ^s-4449d373e5018875c8585543
 
 
 Pakeisti 16 straipsnyje išdėstyto 20 straipsnio 3 dalį ir visą 16 straipsnį išdėstyti taip:
@@ -249,20 +254,20 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 „20 straipsnis. Muitai ir mokesčiai
 
 
-1. Prekėms, įvežamoms į Lietuvos Respubliką iš laisvojo uosto, taikomi Lietuvos Respublikos teisės aktų šioms prekėms nustatyti importo muitai ir mokesčiai, taip pat importo draudimai bei apribojimai. ^825eed19e5efeebd9673066c
+1. Prekėms, įvežamoms į Lietuvos Respubliką iš laisvojo uosto, taikomi Lietuvos Respublikos teisės aktų šioms prekėms nustatyti importo muitai ir mokesčiai, taip pat importo draudimai bei apribojimai. ^s-ce6fe8853e9f9ba5fff25272
 
 
-2. Prekėms, išvežamoms iš Lietuvos Respublikos į laisvąjį uostą, taikomi Lietuvos Respublikos teisės aktų šioms prekėms nustatyti eksporto muitai ir mokesčiai, taip pat eksporto draudimai ir apribojimai. ^98bb095bfe415ea31f19aaf4
+2. Prekėms, išvežamoms iš Lietuvos Respublikos į laisvąjį uostą, taikomi Lietuvos Respublikos teisės aktų šioms prekėms nustatyti eksporto muitai ir mokesčiai, taip pat eksporto draudimai ir apribojimai. ^s-83df690904fdae19fd20739f
 
 
-3. Prekėms, įvežamoms į laisvąjį uostą ir išvežamoms iš jo į užsienį vandens transportu, muitinės procedūros netaikomos.“ ^466d7155bd5d911efa40ccbf
+3. Prekėms, įvežamoms į laisvąjį uostą ir išvežamoms iš jo į užsienį vandens transportu, muitinės procedūros netaikomos.“ ^s-c37b7c21a668cf3896cc46b9
 
 
 
-### 8 straipsnis. 17 straipsnio pakeitimas
+### 8 straipsnis. 17 straipsnio pakeitimas ^s-ad8c5e5d84a26997ebf1c0b3
 
 
-Pakeisti 17 straipsnyje išdėstyto 21 straipsnio 1 ir [[#^1745ef33776bde1bf44a80a7|2 dalis]] ir visą 17 straipsnį išdėstyti taip:
+Pakeisti 17 straipsnyje išdėstyto 21 straipsnio 1 ir [[#^s-71141bfd27f03b7aa4d36752|2 dalis]] ir visą 17 straipsnį išdėstyti taip:
 
 
 „17 straipsnis. 21 straipsnio pakeitimas
@@ -272,17 +277,17 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 „21 straipsnis. Laisvojo uosto priežiūra
 
 
-1. Laisvojo uosto ribas ir prekių įvežimo bei išvežimo vietas prižiūri muitinė, kuri tikrina į laisvąjį uostą atvykstančius ir iš jo išvykstančius fizinius asmenis bei transporto priemones. Laisvojo uosto ribų pagal perimetrą apsaugą organizuoja ir už ją atsako Uosto direkcija. ^e3f11cb464f1fa9c0c758b64
+1. Laisvojo uosto ribas ir prekių įvežimo bei išvežimo vietas prižiūri muitinė, kuri tikrina į laisvąjį uostą atvykstančius ir iš jo išvykstančius fizinius asmenis bei transporto priemones. Laisvojo uosto ribų pagal perimetrą apsaugą organizuoja ir už ją atsako Uosto direkcija. ^s-577c26310c8d1d3acb0d4aff
 
 
-2. Prekės iš Lietuvos Respublikos muitų teritorijos į laisvąjį uostą įvežamos ir iš laisvojo uosto į Lietuvos Respublikos muitų teritoriją išvežamos per tam tikslui įrengtas vietas. Postų ir muitinio tikrinimo vietų įrengimą organizuoja Vyriausybės įgaliota institucija, patalpų, muitinio tikrinimo vietų bei infrastruktūros projektus suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos. ^1745ef33776bde1bf44a80a7
+2. Prekės iš Lietuvos Respublikos muitų teritorijos į laisvąjį uostą įvežamos ir iš laisvojo uosto į Lietuvos Respublikos muitų teritoriją išvežamos per tam tikslui įrengtas vietas. Postų ir muitinio tikrinimo vietų įrengimą organizuoja Vyriausybės įgaliota institucija, patalpų, muitinio tikrinimo vietų bei infrastruktūros projektus suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos. ^s-71141bfd27f03b7aa4d36752
 
 
-3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes Muitinės kodekso nustatyta tvarka.“ ^bf79d04e2f41cc22d37cf576
+3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes Muitinės kodekso nustatyta tvarka.“ ^s-0921ccfd473a38e7f7b30c20
 
 
 
-### 9 straipsnis. 18 straipsnio pakeitimas
+### 9 straipsnis. 18 straipsnio pakeitimas ^s-fed88fb915c496801a86e0f9
 
 
 Pakeisti 18 straipsnyje išdėstytą 22 straipsnį ir visą 18 straipsnį išdėstyti taip:
@@ -299,7 +304,7 @@ Vyriausybės nutarimu uostas gali būti plečiamas prijungiant žemes, kurios ri
 
 
 
-### 10 straipsnis. 19 straipsnio pakeitimas
+### 10 straipsnis. 19 straipsnio pakeitimas ^s-c5be6c79fceeb4815a2da5bc
 
 
 Pakeisti 19 straipsnyje išdėstyto 23 straipsnio 1 dalį ir visą 19 straipsnį išdėstyti taip:
@@ -312,34 +317,34 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 „23 straipsnis. Uosto žemės nuomos sutarties sudarymo tvarka
 
 
-1. Uosto direkcija uosto žemę gali išnuomoti tik aukciono ar konkurso tvarka, išskyrus atvejį, kuomet įmonėms, įstaigoms ir organizacijoms, kurios įsigijo statinius komercinei-ūkinei ar nekomercinei veiklai, uosto žemė joms išnuomojama tik pastatų pardavimo (perdavimo) metu buvusiai tiesioginei pastatų paskirčiai reikalingus žemės plotus. ^d29ec0ccfe6b11212573d0e6
+1. Uosto direkcija uosto žemę gali išnuomoti tik aukciono ar konkurso tvarka, išskyrus atvejį, kuomet įmonėms, įstaigoms ir organizacijoms, kurios įsigijo statinius komercinei-ūkinei ar nekomercinei veiklai, uosto žemė joms išnuomojama tik pastatų pardavimo (perdavimo) metu buvusiai tiesioginei pastatų paskirčiai reikalingus žemės plotus. ^s-5d0c61af7efe8bf191d79776
 
 
-2. Uosto žemės nuomos aukciono sąlygas, tipinę uosto žemės nuomos sutarties formą, nuomos užmokesčio apskaičiavimo tvarką ir dydį tvirtina susisiekimo ministras.“ ^338cb8799c82ae0827ea2452
+2. Uosto žemės nuomos aukciono sąlygas, tipinę uosto žemės nuomos sutarties formą, nuomos užmokesčio apskaičiavimo tvarką ir dydį tvirtina susisiekimo ministras.“ ^s-5d4b35f2bb466d55a2e5cecf
 
 
 
-### 11 straipsnis. 20 straipsnio pakeitimas
+### 11 straipsnis. 20 straipsnio pakeitimas ^s-e64587a46704bd0a6f86796e
 
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
-„20 straipsnis. 24 straipsnio pavadinimo ir [[#^129700a82826a47af752f748|1 dalies]] pakeitimas
+„20 straipsnis. 24 straipsnio pavadinimo ir [[#^s-8fcd614b7371252b32a0ec90|1 dalies]] pakeitimas
 
 
-24 straipsnio pavadinime prieš žodžius „Nuomos sutarties“ įrašyti žodžius „Uosto žemės“, [[#^129700a82826a47af752f748|1 dalyje]] vietoj skaičiaus ir žodžio „25 metų“ įrašyti skaičius ir žodžius „kaip 50 metų“, vietoj žodžių „Lietuvos Respublikos civilinio kodekso“ įrašyti žodžius „Lietuvos Respublikos žemės nuomos įstatymo“ ir šį straipsnį išdėstyti taip:
+24 straipsnio pavadinime prieš žodžius „Nuomos sutarties“ įrašyti žodžius „Uosto žemės“, [[#^s-8fcd614b7371252b32a0ec90|1 dalyje]] vietoj skaičiaus ir žodžio „25 metų“ įrašyti skaičius ir žodžius „kaip 50 metų“, vietoj žodžių „Lietuvos Respublikos civilinio kodekso“ įrašyti žodžius „Lietuvos Respublikos žemės nuomos įstatymo“ ir šį straipsnį išdėstyti taip:
 „24 straipsnis. Uosto žemės nuomos sutarties forma ir terminas
 
 
-1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos Respublikos žemės nuomos įstatymo ir šio įstatymo reikalavimų. ^129700a82826a47af752f748
+1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos Respublikos žemės nuomos įstatymo ir šio įstatymo reikalavimų. ^s-8fcd614b7371252b32a0ec90
 
 
-2. Nuomininkas, tvarkingai vykdęs uosto žemės nuomos sutartyje nustatytas pareigas, pasibaigus sutarties terminui, turi pirmumo teisę atnaujinti sutartį.“ ^bcdffc8d428fa61d09499caa
+2. Nuomininkas, tvarkingai vykdęs uosto žemės nuomos sutartyje nustatytas pareigas, pasibaigus sutarties terminui, turi pirmumo teisę atnaujinti sutartį.“ ^s-1137d5f9a50d29d9cf1a09b1
 
 
 
-### 12 straipsnis. 21 straipsnio pakeitimas
+### 12 straipsnis. 21 straipsnio pakeitimas ^s-c5e4421b35efc41c106c19e6
 
 
 Pakeisti 21 straipsnyje išdėstytą 25 straipsnį ir visą 21 straipsnį išdėstyti taip:
@@ -352,38 +357,38 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 „25 straipsnis. Uosto žemės nuomos sutarties sąlygos
 
 
-1. Nuomininkas privalo laikytis visų uosto žemės nuomos sutartyje nustatytų sąlygų. ^437d39e8885ecd3301104dc8
+1. Nuomininkas privalo laikytis visų uosto žemės nuomos sutartyje nustatytų sąlygų. ^s-eb7738f1b5a09111de6b4504
 
 
-2. Uosto žemės nuomos sutartyje turi būti: ^6c222dc2f9c3ca4e4bacd64f
+2. Uosto žemės nuomos sutartyje turi būti: ^s-9393ad32589df1e426d143ef
 
 
-1) nustatyti nuomininko krovos ar kitų darbų minimalūs mastai; ^1de5d34592211d25aa8d483c
+1) nustatyti nuomininko krovos ar kitų darbų minimalūs mastai; ^s-b98b55468a65293b5e6da444
 
 
-2) uosto žemės subnuomos uždraudimas. ^9fcea81df01a3b6de369fe4a
+2) uosto žemės subnuomos uždraudimas. ^s-dac5dea8eac16b9418aa8fe0
 
 
-3. Nuomotojas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą, jeigu: ^a42948008d5eb7cfcbaca8c4
+3. Nuomotojas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą, jeigu: ^s-71e65756fc84a7e3aed1fd12
 
 
-1) nuomininkas nevykdo šiame įstatyme ar uosto žemės nuomos sutartyje numatytų įsipareigojimų; ^0bbcbf4b649ec638026dab78
+1) nuomininkas nevykdo šiame įstatyme ar uosto žemės nuomos sutartyje numatytų įsipareigojimų; ^s-07c51d3b0514c7d186d47625
 
 
-2) nuomininkas sistemingai nevykdo uosto žemės nuomos sutartyje numatytos veiklos ar tai nustato Lietuvos Respublikos žemės nuomos ar kiti įstatymai; ^7dcc4a37a83b746ceca7f5c3
+2) nuomininkas sistemingai nevykdo uosto žemės nuomos sutartyje numatytos veiklos ar tai nustato Lietuvos Respublikos žemės nuomos ar kiti įstatymai; ^s-34285285e789f98a8e923b8d
 
 
-3) Lietuvos Respublikos įstatymų nustatyta tvarka to reikia visuomenės poreikiams tenkinti. ^9ff181212cf78bff5f7d2ab9
+3) Lietuvos Respublikos įstatymų nustatyta tvarka to reikia visuomenės poreikiams tenkinti. ^s-26521fa01e20e4772e6dfcf4
 
 
-4. Nuomininkas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą. ^43505b4cbfe6028d026afe6f
+4. Nuomininkas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš terminą. ^s-03f99461d0ec43de7d0b1a05
 
 
-5. Tipinėje uosto žemės nuomos sutartyje turi būti numatyta, kad tais atvejais, kai uosto žemės nuomos sutartis nutraukiama dėl nuomininko uosto žemės nuomos sutarties nevykdymo, kompensacijos už žalą, patirtą nutraukus sutartį, nuomininkui nemokomos.“ ^bbcd4653f0f9b7fa73d55eaf
+5. Tipinėje uosto žemės nuomos sutartyje turi būti numatyta, kad tais atvejais, kai uosto žemės nuomos sutartis nutraukiama dėl nuomininko uosto žemės nuomos sutarties nevykdymo, kompensacijos už žalą, patirtą nutraukus sutartį, nuomininkui nemokomos.“ ^s-c2d4db5744e89892ee4a35ab
 
 
 
-### 13 straipsnis. 34 straipsnio pakeitimas
+### 13 straipsnis. 34 straipsnio pakeitimas ^s-b1c35234cf0df2a89d8a44d0
 
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:

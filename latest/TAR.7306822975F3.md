@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7306822975F3"
 pavadinimas: "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-03"
 latest_path: "latest/TAR.7306822975F3.md"
 latest_sha256: "0ffc5028aa9028a206e5e29520c15eabbbbae671f4b7770357a72772af59fa80"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7306822975F3]]"
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7306822975F3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7306822975F3
+- Ryšiai: [[Ryšiai/TAR.7306822975F3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 5 dalies pakeitimas ^s-f6735e607c84a11496f92044
 
 
 Pakeisti 14 straipsnio 5 dalį ir ją išdėstyti taip:

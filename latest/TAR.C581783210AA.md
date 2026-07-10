@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C581783210AA"
 pavadinimas: "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 73 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 73 straipsnio pakeitimo įstatymas"
+  - "autorių teisių ir gretutinių teisių įstatymo 73 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-08-04"
 latest_path: "latest/TAR.C581783210AA.md"
 latest_sha256: "0dffcd143f527686b88daa70b154b110ecfc7865c265e61a7492360d4b4eccb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C581783210AA]]"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 73 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C581783210AA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C581783210AA
+- Ryšiai: [[Ryšiai/TAR.C581783210AA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 73 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 73 straipsnio 1 dalies pakeitimas ^s-edac1278a9f48af85edfc92a
 
 
 73 straipsnio 1 dalyje vietoj datos „2000 m. liepos 1 d.“ įrašyti datą „2002 m. liepos 1 d.“ ir šią dalį išdėstyti taip:

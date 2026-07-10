@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C17931D8FD20"
 pavadinimas: "Dėl 1992 m. valstybės biudžeto asignavimų valstybinės valdžios, valdymo ir teisėsaugos struktūroms išlaikyti patikslinimo"
+aliases:
+  - "Dėl 1992 m. valstybės biudžeto asignavimų valstybinės valdžios, valdymo ir teisėsaugos struktūroms išlaikyti patikslinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-11-05"
 latest_path: "latest/TAR.C17931D8FD20.md"
 latest_sha256: "bc3683a84d7a235a1420a569f33494d9c48b51b060eb2169dd6541f0f56d0e92"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C17931D8FD20]]"
 ---
 # Dėl 1992 m. valstybės biudžeto asignavimų valstybinės valdžios, valdymo ir teisėsaugos struktūroms išlaikyti patikslinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C17931D8FD20.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C17931D8FD20
+- Ryšiai: [[Ryšiai/TAR.C17931D8FD20|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

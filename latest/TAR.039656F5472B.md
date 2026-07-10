@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.039656F5472B"
 pavadinimas: "Dėl Lietuvos Respublikos statistikos įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos statistikos įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-05"
 latest_path: "latest/TAR.039656F5472B.md"
 latest_sha256: "4be7e56526f1c35b3ed670f33392f5aedd903c6e7b1b16d0c2653407217c4d4f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.039656F5472B]]"
 ---
 # Dėl Lietuvos Respublikos statistikos įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.039656F5472B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.039656F5472B
+- Ryšiai: [[Ryšiai/TAR.039656F5472B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

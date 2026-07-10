@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.95BF57B68217"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 4 skyriaus papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 4 skyriaus papildymo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 4 skyriaus papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-27"
 latest_path: "latest/TAR.95BF57B68217.md"
 latest_sha256: "315066da4511d430d0e332625974f8d16921b0657d214dfdcab9011bbeed6e7c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.95BF57B68217]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 4 skyriaus papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.95BF57B68217.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.95BF57B68217
+- Ryšiai: [[Ryšiai/TAR.95BF57B68217|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio 4 skyriaus skirsnio „Viešojo saugumo politika“ papildymas
+### 1 straipsnis. Įstatymo priedėlio 4 skyriaus skirsnio „Viešojo saugumo politika“ papildymas ^s-cd46a20487c3fc5cdcf4459f
 
 
 Papildyti Įstatymo priedėlio 4 skyriaus skirsnį „Viešojo saugumo politika“ 3 dalimi:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6F87DFE3AFE4"
 pavadinimas: "Lietuvos Respublikos pensijų fondų įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pensijų fondų įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "pensijų fondų įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.6F87DFE3AFE4.md"
 latest_sha256: "4a2e3e99957bca5686ea1013ba5d01c3e14d5cda1bb807cba98719b3cbcb1b33"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6F87DFE3AFE4]]"
 ---
 # Lietuvos Respublikos pensijų fondų įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6F87DFE3AFE4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6F87DFE3AFE4
+- Ryšiai: [[Ryšiai/TAR.6F87DFE3AFE4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-c3e9989cc821ab17baa7e21f
 
 
 12 straipsnio 1 dalyje vietoj žodžių „teistumą už nusikaltimus nuosavybei, finansams ar ūkininkavimo tvarkai“ įrašyti žodžius „neišnykusį arba nepanaikintą teistumą už nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, finansų sistemai ar ekonomikai ir verslo tvarkai“ ir šią dalį išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-556a90744c88e457757d3638
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

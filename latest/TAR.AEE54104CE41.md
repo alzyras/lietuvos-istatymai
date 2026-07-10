@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AEE54104CE41"
 pavadinimas: "Dėl Lietuvos TSR Aukščiausiosios Tarybos reglamento papildymo"
+aliases:
+  - "Dėl Lietuvos TSR Aukščiausiosios Tarybos reglamento papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-03-11"
 latest_path: "latest/TAR.AEE54104CE41.md"
 latest_sha256: "e72aa897b73871d9b17a4e18cadc0e0809a9d6ad5c5e427280cc7e04f875636d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AEE54104CE41]]"
 ---
 # Dėl Lietuvos TSR Aukščiausiosios Tarybos reglamento papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AEE54104CE41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AEE54104CE41
+- Ryšiai: [[Ryšiai/TAR.AEE54104CE41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -45,7 +49,7 @@ PIRMININKO RINKIMAS IR ATŠAUKIMAS
 
 
 
-### 161 straipsnis.
+### 161 straipsnis. ^s-e868fa4a8de666b637de8497
 
 
 Naujai išrinktos Lietuvos TSR Aukščiausiosios Tarybos Pirmininkas renkamas Lietuvos TSR Aukščiausiosios Tarybos pirmojoje sesijoje.
@@ -61,7 +65,7 @@ Lietuvos TSR Aukščiausiosios Tarybos Pirmininko rinkimai yra teisėti, kai juo
 
 
 
-### 162 straipsnis.
+### 162 straipsnis. ^s-53c309eb0a13b7b6f6abe934
 
 
 Kandidatus į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas gali siūlyti visi Lietuvos TSR Aukščiausiosios Tarybos deputatai.
@@ -74,7 +78,7 @@ Vienas Lietuvos TSR Aukščiausiosios Tarybos deputatas gali siūlyti arba prita
 
 
 
-### 163 straipsnis.
+### 163 straipsnis. ^s-0a7396f318528357d4fde16c
 
 
 Pasibaigus kandidatų kėlimui, posėdžio pirmininkas perskaito visų kandidatų pavardes ir paprašo jų sutikti balotiruotis.
@@ -87,7 +91,7 @@ Balsavimo biuletenio pavyzdį patvirtina Lietuvos TSR Aukščiausioji Taryba.
 
 
 
-### 164 straipsnis.
+### 164 straipsnis. ^s-813f205815f27ef0f2a06fd1
 
 
 Iškelti kandidatai abėcėlės tvarka paskelbia savo būsimosios veiklos programas. Jas svarsto Lietuvos TSR Aukščiausiosios Tarybos deputatai.
@@ -100,7 +104,7 @@ Būsimosios veiklos programoms paskelbti skiriama iki 15 minučių, o baigiamaja
 
 
 
-### 165 straipsnis.
+### 165 straipsnis. ^s-e2911322e610a888b74b2736
 
 
 Po programų svarstymo Lietuvos TSR Aukščiausioji Taryba išrenka balsų skaičiavimo komisiją.
@@ -116,7 +120,7 @@ Gaudami balsavimo biuletenį, Lietuvos TSR Aukščiausiosios Tarybos deputatai p
 
 
 
-### 166 straipsnis.
+### 166 straipsnis. ^s-f97e71d5eb70f4877e0361c6
 
 
 Balsavimo vietoje turi būti slapto balsavimo kabina ir balsadėžė.
@@ -129,7 +133,7 @@ Už balsavimo organizavimą atsakinga balsų skaičiavimo komisija.
 
 
 
-### 167 straipsnis.
+### 167 straipsnis. ^s-fdf619c42a50e340467ce423
 
 
 Balsuojantysis išbraukia balsavimo biuletenyje pavardes tų kandidatų, prieš kuriuos jis balsuoja.
@@ -139,14 +143,14 @@ Negaliojančiais pripažįstami nepatvirtinto pavyzdžio balsavimo biuleteniai, 
 
 
 
-### 168 straipsnis.
+### 168 straipsnis. ^s-7b0af2d0b06ef7ea95aeecfa
 
 
 Iškėlus vieną kandidatą į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas, jis laikomas išrinktu, jeigu už jį balsavo daugiau kaip pusė deputatų, dalyvaujančių Aukščiausiosios Tarybos sesijoje.
 
 
 
-### 169 straipsnis.
+### 169 straipsnis. ^s-e3cb0155dc90ce6f370778ca
 
 
 Jeigu iškelti du kandidatai į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas, kandidatas laikomas išrinktu, jeigu už jį balsavo daugiau kaip pusė deputatų, dalyvaujančių Aukščiausiosios Tarybos sesijoje.
@@ -159,7 +163,7 @@ Jeigu balsai pasiskirstė po lygiai, po pertraukos balsuojama dar kartą.
 
 
 
-### 1610 straipsnis.
+### 1610 straipsnis. ^s-21e5ae6a5dd52b011646c139
 
 
 Jeigu iškelti daugiau kaip du kandidatai į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas, išrinktu laikomas tas, už kurį balsavo daugiau kaip pusė deputatų, dalyvaujančių Aukščiausiosios Tarybos sesijoje.
@@ -175,42 +179,42 @@ Jeigu už lygiai ir mažiausiai surinkusiuosius daugiau balsų surinko mažiau n
 
 
 
-### 1611 straipsnis.
+### 1611 straipsnis. ^s-aa3f966e7adb079bb7339c7c
 
 
 Jeigu pakartotiniam balsavimui lieka du kandidatai, laimi tas, kuris gavo daugiau balsų. Jei balsai pasiskirstė po lygiai, po pertraukos balsuojama dar kartą.
 
 
 
-### 1612 straipsnis.
+### 1612 straipsnis. ^s-e2b029eefaa9819638e5baaf
 
 
 Jei balsuojant dėl dviejų kandidatų du kartus balsai pasiskirstė po lygiai, dar kartą balsuojama kitą dieną.
 
 
 
-### 1613 straipsnis.
+### 1613 straipsnis. ^s-a5ddccd35f2b72e5dfda5cfa
 
 
 Jei balsuojant dėl dviejų kandidatų, laimėjęs kandidatas nesurinko daugiau kaip pusės balsų, dėl pasitikėjimo juo balsuojama atvirai. Jei Aukščiausioji Taryba paprasta balsų dauguma pareiškia pasitikėjimą, šis kandidatas laikomas išrinktu Pirmininku. Jei Aukščiausioji Taryba pasitikėjimo nepareiškia, skelbiami nauji rinkimai.
 
 
 
-### 1614 straipsnis.
+### 1614 straipsnis. ^s-72414f02758131684805ec3e
 
 
 Prieš kiekvieną pakartotinį balsavimą kandidatas gali atšaukti savo sutikimą balotiruotis.
 
 
 
-### 1615 straipsnis.
+### 1615 straipsnis. ^s-18eec563b812c06503222826
 
 
 Slapto balsavimo rezultatus tvirtina Aukščiausioji Taryba.
 
 
 
-### 1616 straipsnis.
+### 1616 straipsnis. ^s-64acc11a88587185cdbbb7e1
 
 
 Reikalauti atšaukti Pirmininką turi teisę ne mažiau kaip penkiolika Aukščiausiosios Tarybos deputatų. Toks reikalavimas turi būti raštu pateiktas posėdžio pirmininkui, kuris jį privalo nedelsdamas paskelbti Aukščiausiajai Tarybai.
@@ -228,7 +232,7 @@ Pasiūlymas dėl Lietuvos TSR Aukščiausiosios Tarybos Pirmininko atšaukimo sv
 Sprendimas dėl Lietuvos TSR Aukščiausiosios Tarybos Pirmininko atšaukimo priimamas slaptu balsavimu, jeigu už tai balsavo daugiau kaip pusė visų Lietuvos TSR Aukščiausiosios Tarybos deputatų“.
 
 
-2. Lietuvos TSR Aukščiausiosios Tarybos reglamento 15 straipsnio trečiąją dalį išdėstyti taip: ^08cdb7a77440986d6246af98
+2. Lietuvos TSR Aukščiausiosios Tarybos reglamento 15 straipsnio trečiąją dalį išdėstyti taip: ^s-7723b2126c306308735ac223
 
 
 „Lietuvos TSR Aukščiausiosios Tarybos posėdžiuose svarstomais konstitucinių pataisų, įstatymų ir nutarimų priėmimo klausimais, taip pat skiriant, renkant ir atleidžiant Aukščiausiosios Tarybos sudaromų organų pareigūnus, išskyrus Aukščiausiosios Tarybos Pirmininko išrinkimą ir atšaukimą, balsuojama atvirai – pakeliant balsavimo kortelę, arba vardiniu būdu - užpildant balsavimo kortelę. Kortelė įteikiama balsų skaičiavimo komisijai.
@@ -240,10 +244,10 @@ Vardinio balsavimo rezultatus, pagarsindamas balsavusiųjų pavardes, skelbia po
 Vardiniu būdu balsuojama, jei to reikalauja bent 15 deputatų. Sesijos vidaus darbo tvarkos klausimais balsuojama panaudojant elektroninę skaičiavimo sistemą“.
 
 
-3. Pripažinti netekusiu galios Lietuvos TSR Aukščiausiosios Tarybos reglamento 8 straipsnį. ^0dc5c4506fc7fdc17e7b85bc
+3. Pripažinti netekusiu galios Lietuvos TSR Aukščiausiosios Tarybos reglamento 8 straipsnį. ^s-d5dcf6544cc7bbfbf1372d5a
 
 
-4. Šis įstatymas įsigalioja nuo jo priėmimo dienos. Jį pasirašo Aukščiausiosios Tarybos Pirmininkas ir sekretorius po to, kai išrenkami. ^eb82780fad62694104c7ac48
+4. Šis įstatymas įsigalioja nuo jo priėmimo dienos. Jį pasirašo Aukščiausiosios Tarybos Pirmininkas ir sekretorius po to, kai išrenkami. ^s-5b5662ff5c682fc47b76739e
 
 
 

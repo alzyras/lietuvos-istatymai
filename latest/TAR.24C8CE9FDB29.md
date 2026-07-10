@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.24C8CE9FDB29"
 pavadinimas: "Lietuvos Respublikos Konstitucinio Teismo įstatymo 7, 13, 17, 18, 19, 26, 77, 78, 84 ir 86 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucinio Teismo įstatymo 7, 13, 17, 18, 19, 26, 77, 78, 84 ir 86 straipsnių pakeitimo įstatymas"
+  - "Konstitucinio Teismo įstatymo 7, 13, 17, 18, 19, 26, 77, 78, 84 ir 86 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-11-19"
 latest_path: "latest/TAR.24C8CE9FDB29.md"
 latest_sha256: "dac20ca6177bc7f2d1330dfce1a852f037a2ad95a521e5096663e06fe7872d51"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.24C8CE9FDB29]]"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 7, 13, 17, 18, 19, 26, 77, 78, 84 ir 86 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.24C8CE9FDB29.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.24C8CE9FDB29
+- Ryšiai: [[Ryšiai/TAR.24C8CE9FDB29|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio pakeitimas
+### 1 straipsnis. 7 straipsnio pakeitimas ^s-cd6d758135827f96cfb5624f
 
 
-Pakeisti [[#7 straipsnis. 77 straipsnio 2 dalies pakeitimas|7 straipsnio]] 1 ir 2 dalis, 3 dalį pripažinti netekusia galios, 4, 5, 6 dalis laikyti atitinkamai 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-fb7d9a14e8c72a9d4774062e|7 straipsnio]] 1 ir 2 dalis, 3 dalį pripažinti netekusia galios, 4, 5, 6 dalis laikyti atitinkamai 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 
 
-„[[#7 straipsnis. 77 straipsnio 2 dalies pakeitimas|7 straipsnis]]. Konstitucinio Teismo teisėjo priesaika
+„[[#^s-fb7d9a14e8c72a9d4774062e|7 straipsnis]]. Konstitucinio Teismo teisėjo priesaika
 
 
 Asmuo, paskirtas Konstitucinio Teismo teisėju, prieš pradėdamas eiti savo pareigas, Seimo posėdyje prisiekia. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šio straipsnio antrojoje dalyje nustatytų priesaikos tekstų.
@@ -46,7 +51,7 @@ Asmuo, paskirtas Konstitucinio Teismo teisėju, prieš pradėdamas eiti savo par
 Nustatomi tokie priesaikos tekstai:
 
 
-1) „Aš, (vardas, pavardė), ^1eba1b46e050ba69a084a428
+1) „Aš, (vardas, pavardė), ^s-fe0aa923a4bd21c1cfdcdb8c
 
 
 prisiekiu būti ištikimas Lietuvos Respublikai;
@@ -61,7 +66,7 @@ prisiekiu ginti nepriklausomos Lietuvos valstybės konstitucinę santvarką ir s
 Tepadeda man Dievas!“
 
 
-2) „Aš, (vardas, pavardė), ^f6689eede66f9f3bc5f99511
+2) „Aš, (vardas, pavardė), ^s-f09bdbcec567ac324d463765
 
 
 prisiekiu būti ištikimas Lietuvos Respublikai;
@@ -83,7 +88,7 @@ Konstitucinio Teismo teisėjas, įstatymų nustatyta tvarka neprisiekęs arba pr
 
 
 
-### 2 straipsnis. 13 straipsnio 1 dalies 6 punkto pakeitimas
+### 2 straipsnis. 13 straipsnio 1 dalies 6 punkto pakeitimas ^s-8cad4d23eafe7ad23b01f8fb
 
 
 Pakeisti 13 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
@@ -93,7 +98,7 @@ Pakeisti 13 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 17 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 17 straipsnio 4 dalies pakeitimas ^s-ac3e03a71155da7935d1d144
 
 
 17 straipsnio 4 dalyje vietoj žodžių „masinės informacijos“ įrašyti žodžius „visuomenės informavimo“ ir šią dalį išdėstyti taip:
@@ -103,7 +108,7 @@ Pakeisti 13 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 18 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 18 straipsnio 1 dalies pakeitimas ^s-0258c10b9df58f6320ff7bd6
 
 
 18 straipsnio 1 dalyje po žodžio „patalpose“ įrašyti žodžius „taip pat Konstitucinio Teismo interneto tinklalapyje“, žodžius „per Lietuvos telegramų agentūrą (ELTA)“ išbraukti ir šią dalį išdėstyti taip:
@@ -113,7 +118,7 @@ Pakeisti 13 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 19 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 19 straipsnio 1 dalies pakeitimas ^s-7a69f7266249e4b24226c46b
 
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -123,7 +128,7 @@ Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 26 straipsnio pakeitimas
+### 6 straipsnis. 26 straipsnio pakeitimas ^s-400534419632d90e994f0fc4
 
 
 26 straipsnio 1 dalyje prieš žodžius „arba kai jis“ įrašyti žodžius „ir įstatymus“, 2 dalyje vietoj žodžių „arba specialiame Seimo leidinyje, arba laikraščiuose per Lietuvos telegramų agentūrą (ELTA)“ įrašyti žodžius „taip pat Konstitucinio Teismo interneto tinklalapyje“, 3 dalyje vietoj žodžių „nurodytuose leidiniuose“ įrašyti žodžius „nustatyta tvarka“ ir šį straipsnį išdėstyti taip:
@@ -142,7 +147,7 @@ Tais atvejais, kai Konstitucinis Teismas, išnagrinėjęs bylą, priima nutarim�
 
 
 
-### 7 straipsnis. 77 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 77 straipsnio 2 dalies pakeitimas ^s-fb7d9a14e8c72a9d4774062e
 
 
 Pakeisti 77 straipsnio 2 dalį ir ją dalį išdėstyti taip:
@@ -152,7 +157,7 @@ Pakeisti 77 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
 
 
-### 8 straipsnis. 78 straipsnio 1 dalies pakeitimas
+### 8 straipsnis. 78 straipsnio 1 dalies pakeitimas ^s-fe79e0ebf183e1165a5492ad
 
 
 78 straipsnio 1 dalyje vietoj žodžių „daugiau kaip pusės visų Seimo narių balsų dauguma“ įrašyti žodžius „Seimo statuto nustatyta tvarka“ ir šią dalį išdėstyti taip:
@@ -162,7 +167,7 @@ Pakeisti 77 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
 
 
-### 9 straipsnis. 84 straipsnio pakeitimas
+### 9 straipsnis. 84 straipsnio pakeitimas ^s-ea3638c206f4bfcbd7a28113
 
 
 Pakeisti 84 straipsnį ir jį išdėstyti taip:
@@ -187,7 +192,7 @@ Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosio
 
 
 
-### 10 straipsnis. 86 straipsnio pakeitimas
+### 10 straipsnis. 86 straipsnio pakeitimas ^s-93ae8ee2325f0fa516dc4cb9
 
 
 Pakeisti 86 straipsnį ir jį išdėstyti taip:

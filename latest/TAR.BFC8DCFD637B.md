@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BFC8DCFD637B"
 pavadinimas: "Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2 straipsnio 1 dalies 1 punkto pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2 straipsnio 1 dalies 1 punkto pripažinimo netekusiu galios įstatymas"
+  - "strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2 straipsnio 1 dalies 1 punkto pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-10"
 latest_path: "latest/TAR.BFC8DCFD637B.md"
 latest_sha256: "a29c9340cf4d10bca5cac145e734d1084e0ee5b45985217307b7906b6ad1cae1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BFC8DCFD637B]]"
 ---
 # Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2 straipsnio 1 dalies 1 punkto pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BFC8DCFD637B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BFC8DCFD637B
+- Ryšiai: [[Ryšiai/TAR.BFC8DCFD637B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 1 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 2 straipsnio 1 dalies 1 punkto pripažinimas netekusiu galios ^s-b89a88b24b0b4e098c38c18a
 
 
 2 straipsnio 1 dalies 1 punktą pripažinti netekusiu galios.

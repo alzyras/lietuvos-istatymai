@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3253F3333A0F"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-06-06"
 latest_path: "latest/TAR.3253F3333A0F.md"
 latest_sha256: "6769bf703e2c342d24a91d4c30999135147ee9434f434fab9543af8cf61e47d2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3253F3333A0F]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3253F3333A0F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3253F3333A0F
+- Ryšiai: [[Ryšiai/TAR.3253F3333A0F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,47 +36,47 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-2f828760aad752a206399651
 
 
-2 straipsnio 3 dalį papildyti nauju [[#^5960cccdda382a38ebf02d07|9 punktu]], buvusius 9, [[#^0f96147ef03fb34fd54823e2|10 punktus]] laikyti atitinkamai 10 ir [[#^950f73d7ae06ec7abc6269b1|11 punktais]] ir šią dalį išdėstyti taip:
+2 straipsnio 3 dalį papildyti nauju [[#^s-567efadec25160721badb4b2|9 punktu]], buvusius 9, [[#^s-2ed89af81a9f46c15cc44a73|10 punktus]] laikyti atitinkamai 10 ir [[#^s-8023c068fbe431107c53bc08|11 punktais]] ir šią dalį išdėstyti taip:
 
 
-„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos įstatymas (toliau – valstybės pareigūnai):
+„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – valstybės pareigūnai):
 
 
-1) prokuratūros pareigūnams; ^c55c810eb360670f48e1ddec
+1) prokuratūros pareigūnams; ^s-0c89304bd53c0921d4b865df
 
 
-2) Valstybės saugumo departamento generaliniam direktoriui ir jo pavaduotojams; ^fac431dbca5ef68efed1d39b
+2) Valstybės saugumo departamento generaliniam direktoriui ir jo pavaduotojams; ^s-f4bc59a33a790408fa9432dd
 
 
-3) Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams; ^f6d7b43693858c9cb6f90d5b
+3) Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams; ^s-8276c5b0b95ff8e20e3a8207
 
 
-5) valstybės kontrolieriui ir jo pavaduotojams; ^ae2d67c1e361b5fb5cde3f3f
+5) valstybės kontrolieriui ir jo pavaduotojams; ^s-8de317f815c0a522e6cac4e7
 
 
-6) Seimo kontrolieriams; ^9c6750169e322d2c55ecc910
+6) Seimo kontrolieriams; ^s-879560a8569fcc533e3f1f8a
 
 
-7) moterų ir vyrų lygių galimybių kontrolieriui; ^ce9504be25dff5b532f0025d
+7) moterų ir vyrų lygių galimybių kontrolieriui; ^s-92cc96e78e035fd8a96b9cd4
 
 
-8) vaiko teisių apsaugos kontrolieriui; ^4c6b137711fcbe61e28aae3c
+8) vaiko teisių apsaugos kontrolieriui; ^s-0928a7e95a384705cca866fc
 
 
-9) žurnalistų etikos inspektoriui; ^5960cccdda382a38ebf02d07
+9) žurnalistų etikos inspektoriui; ^s-567efadec25160721badb4b2
 
 
-10) Seimo ar Respublikos Prezidento paskirtiems institucijų ir įstaigų vadovams bei pareigūnams; ^0f96147ef03fb34fd54823e2
+10) Seimo ar Respublikos Prezidento paskirtiems institucijų ir įstaigų vadovams bei pareigūnams; ^s-2ed89af81a9f46c15cc44a73
 
 
-11) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.“ ^950f73d7ae06ec7abc6269b1
+11) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.“ ^s-8023c068fbe431107c53bc08
 
 
 
-### 2 straipsnis. Įstatymo priedėlio IV skyriaus pakeitimas
+### 2 straipsnis. Įstatymo priedėlio IV skyriaus pakeitimas ^s-b38c1e0f10e15743467aa2c1
 
 
 Įstatymo priedėlio IV skyrių papildyti nauju 8 punktu, buvusius 8, 8.1, 8.2, 8.3, 9, 9.1, 9.2, 9.3, 10, 10.1, 10.2 punktus bei papunkčius laikyti atitinkamai 9, 9.1, 9.2, 9.3, 10, 10.1, 10.2, 10.3, 11, 11.1, 11.2 punktais ir papunkčiais ir šį skyrių išdėstyti taip:

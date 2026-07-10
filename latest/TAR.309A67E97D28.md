@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.309A67E97D28"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "valstybės kontrolės įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.309A67E97D28.md"
 latest_sha256: "9f64a20443d630f7ee675e505eef175b84311c7aa92341527d07870a4e3db940"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.309A67E97D28]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.309A67E97D28.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.309A67E97D28
+- Ryšiai: [[Ryšiai/TAR.309A67E97D28|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas ^s-c5b8f7bf6fd94a3cd8a2d780
 
 
 Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e1dc00c783f522d93f6782fe
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6DDC5B3E87B4"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.6DDC5B3E87B4.md"
 latest_sha256: "8609a532fb392aa3dc64fd0224d4b0af7bdcf07fa62adaf29c2cc6ce28cd4894"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6DDC5B3E87B4]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6DDC5B3E87B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6DDC5B3E87B4
+- Ryšiai: [[Ryšiai/TAR.6DDC5B3E87B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas ^s-0ad4d360c785cb298ac842f6
 
 
 Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-3eed49413ae1211aca1b65cb
 
 
-1. Šis įstatymas, išskyrus [[#^8b15697b01463c351d1deed4|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d. ^f96aca120854763f32343ee9
+1. Šis įstatymas, išskyrus [[#^s-63a1d78a92443d0d46580765|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d. ^s-8f4957589d5b1930bee8d423
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^8b15697b01463c351d1deed4
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-63a1d78a92443d0d46580765
 
 
 

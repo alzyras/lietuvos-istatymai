@@ -11,11 +11,9 @@ Duomenų šaltinis: [Teisės aktų registro duomenys](https://data.gov.lt/datase
 ## Greita navigacija
 
 - [[Indeksai/Pagal pavadinimą|Pagal pavadinimą]]
-- [[Indeksai/Pagal metus|Pagal metus]]
-- [[Indeksai/Pagal rūšį|Pagal rūšį]]
-- [[Indeksai/Pagal būseną|Pagal būseną]]
-- [[Indeksai/Pagal instituciją|Pagal instituciją]]
-- [[Indeksai/Nacionaliniai ir savivaldybių aktai|Nacionaliniai ir savivaldybių aktai]]
+- [[Ryšiai/README|Įstatymų ryšių katalogas]]
+- [[Indeksai/Ryšių žemėlapis|Ryšių žemėlapis ir canvas]]
+- [[Ataskaitos/linking|Linkinimo kokybės ataskaita]]
 
 ## Machine-readable failai
 
@@ -33,4 +31,4 @@ Duomenų šaltinis: [Teisės aktų registro duomenys](https://data.gov.lt/datase
 
 | Būsena | Kiekis |
 | --- | ---: |
-| galioja | 12271 |
+| galioja | 12274 |

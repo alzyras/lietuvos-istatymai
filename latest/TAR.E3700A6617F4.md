@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E3700A6617F4"
 pavadinimas: "Lietuvos Respublikos 2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 3 ir 9 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 3 ir 9 priedėlių pakeitimo įstatymas"
+  - "2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 3 ir 9 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-08"
 latest_path: "latest/TAR.E3700A6617F4.md"
 latest_sha256: "ad85b264d32a2bc28cf69d0c1108b1f3997242d55b5f75d54f1c2afc8e9a2925"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E3700A6617F4]]"
 ---
 # Lietuvos Respublikos 2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 1, 3 ir 9 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E3700A6617F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E3700A6617F4
+- Ryšiai: [[Ryšiai/TAR.E3700A6617F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -38,10 +43,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 1 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-0a9fcf89694b2122f76269a8
 
 
-1. Įstatymo 1 priedėlio eilutėje „Finansų ministerija“ vietoj skaičių „7 117 709“ ir „7 105 357“ įrašyti atitinkamai skaičius „7 095 971“ ir „7 083 619“ ir šią eilutę išdėstyti taip: ^4f7d770e9c069cf7daf17bdc
+1. Įstatymo 1 priedėlio eilutėje „Finansų ministerija“ vietoj skaičių „7 117 709“ ir „7 105 357“ įrašyti atitinkamai skaičius „7 095 971“ ir „7 083 619“ ir šią eilutę išdėstyti taip: ^s-5f61c7f8202f14acf94dc35e
 
 
  „Finansų ministerija
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-2. Įstatymo 1 priedėlio eilutėje „Kultūros ministerija“ vietoj skaičių „261 861“, „209 104“ ir „52 757“ įrašyti atitinkamai skaičius „259 861“, „209 604“ ir „50 257“ ir šią eilutę išdėstyti taip: ^d9876355ac18cc3930bbd1a2
+2. Įstatymo 1 priedėlio eilutėje „Kultūros ministerija“ vietoj skaičių „261 861“, „209 104“ ir „52 757“ įrašyti atitinkamai skaičius „259 861“, „209 604“ ir „50 257“ ir šią eilutę išdėstyti taip: ^s-b13669deac524d47127b426a
 
 
  „Kultūros ministerija
@@ -67,7 +72,7 @@ Vilnius
 
 
 
-3. Įstatymo 1 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičių „1 426 347“ ir „1 380 911“ įrašyti atitinkamai skaičius „1 427 667“ ir „1 382 231“ ir šią eilutę išdėstyti taip: ^cc43c6b3b2f1215c73e61130
+3. Įstatymo 1 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičių „1 426 347“ ir „1 380 911“ įrašyti atitinkamai skaičius „1 427 667“ ir „1 382 231“ ir šią eilutę išdėstyti taip: ^s-d8b433db733081c09904ee50
 
 
  „Švietimo ir mokslo ministerija
@@ -80,7 +85,7 @@ Vilnius
 
 
 
-4. Įstatymo 1 priedėlio eilutėje „Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos“ vietoj skaičių „145 530“, „119 634“ ir „80 483“ įrašyti atitinkamai skaičius „162 530“, „136 634“ ir „90 716“ ir šią eilutę išdėstyti taip: ^1e43d3f5877dbe6d23aa8398
+4. Įstatymo 1 priedėlio eilutėje „Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos“ vietoj skaičių „145 530“, „119 634“ ir „80 483“ įrašyti atitinkamai skaičius „162 530“, „136 634“ ir „90 716“ ir šią eilutę išdėstyti taip: ^s-fe1ab187986237418deaab0b
 
 
  „Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos
@@ -93,7 +98,7 @@ Vilnius
 
 
 
-5. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinė Martyno Mažvydo biblioteka“ vietoj skaičių „22 974“ ir „9 320“ įrašyti atitinkamai skaičius „23 474“ ir „9 820“ ir šią eilutę išdėstyti taip: ^06cc50b83c96348b04ca4cba
+5. Įstatymo 1 priedėlio eilutėje „Lietuvos nacionalinė Martyno Mažvydo biblioteka“ vietoj skaičių „22 974“ ir „9 320“ įrašyti atitinkamai skaičius „23 474“ ir „9 820“ ir šią eilutę išdėstyti taip: ^s-5791e718f15d5830d57a40cf
 
 
  „Lietuvos nacionalinė Martyno Mažvydo biblioteka
@@ -106,7 +111,7 @@ Vilnius
 
 
 
-6. Įstatymo 1 priedėlio eilutėje „Nacionalinis M. K. Čiurlionio dailės muziejus“ vietoj skaičių „8 262“, „5 212“ ir „3 050“ įrašyti atitinkamai skaičius „9 762“, „5 712“ ir „4 050“ ir šią eilutę išdėstyti taip: ^b8585f3dc3aa751a4f75066f
+6. Įstatymo 1 priedėlio eilutėje „Nacionalinis M. K. Čiurlionio dailės muziejus“ vietoj skaičių „8 262“, „5 212“ ir „3 050“ įrašyti atitinkamai skaičius „9 762“, „5 712“ ir „4 050“ ir šią eilutę išdėstyti taip: ^s-62b6fddbba919629c6e5015d
 
 
  „Nacionalinis M. K. Čiurlionio dailės muziejus
@@ -119,7 +124,7 @@ Vilnius
 
 
 
-7. Įstatymo 1 priedėlio eilutėje „Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos“ vietoj skaičių „181 128“ ir „178 686“ įrašyti atitinkamai skaičius „182 128“ ir „179 686“ ir šią eilutę išdėstyti taip: ^0c4c5b767e9a90533cd97e7c
+7. Įstatymo 1 priedėlio eilutėje „Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos“ vietoj skaičių „181 128“ ir „178 686“ įrašyti atitinkamai skaičius „182 128“ ir „179 686“ ir šią eilutę išdėstyti taip: ^s-ac955b13ef54adb6fb5726b2
 
 
  „Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos
@@ -132,7 +137,7 @@ Vilnius
 
 
 
-8. Įstatymo 1 priedėlio eilutėje „Teismai“ vietoj skaičių „177 041“, „177 041“ ir „122 610“ įrašyti atitinkamai skaičius „179 459“, „179 459“ ir „124 265“ ir šią eilutę išdėstyti taip: ^f7dbf6c248935c2e75664583
+8. Įstatymo 1 priedėlio eilutėje „Teismai“ vietoj skaičių „177 041“, „177 041“ ir „122 610“ įrašyti atitinkamai skaičius „179 459“, „179 459“ ir „124 265“ ir šią eilutę išdėstyti taip: ^s-76891482c61a1e03df624a32
 
 
  „Teismai
@@ -145,7 +150,7 @@ Vilnius
 
 
 
-9. Įstatymo 1 priedėlio eilutėje „IŠ VISO:“ vietoj skaičių „25 589 104“, „2 850 204“ ir „791 283“ įrašyti atitinkamai skaičius „25 590 104“, „2 862 092“ ir „790 283“ ir šią eilutę išdėstyti taip: ^b1f51947fb6cc6ebf01d7949
+9. Įstatymo 1 priedėlio eilutėje „IŠ VISO:“ vietoj skaičių „25 589 104“, „2 850 204“ ir „791 283“ įrašyti atitinkamai skaičius „25 590 104“, „2 862 092“ ir „790 283“ ir šią eilutę išdėstyti taip: ^s-53565ff91f271ebb49eebc77
 
 
  „Iš viso:
@@ -158,7 +163,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 2 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-0676f9af0a7d8368fa93676a
 
 
 Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
@@ -167,7 +172,7 @@ Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2010 m. gruodžio 9 d.
-įstatymo Nr. XI-1210
+[[latest/TAR.FE51590E2B56|įstatymo Nr. XI-1210]]
 3 priedėlis
 
 lietuvos respublikos 2011 metų valstybės biudžeto asignavimai teismams
@@ -528,10 +533,10 @@ lietuvos respublikos 2011 metų valstybės biudžeto asignavimai teismams
 
 
 
-### 3 straipsnis. Įstatymo 9 priedėlio pakeitimas
+### 3 straipsnis. Įstatymo 9 priedėlio pakeitimas ^s-3db8af3138f55eeaa987ca42
 
 
-1. Įstatymo 9 priedėlio eilutėje „Kultūra“ vietoj skaičiaus „104 602“ įrašyti skaičių „104 102“ ir šią eilutę išdėstyti taip: ^7409454e00783e7ebc3e7d3e
+1. Įstatymo 9 priedėlio eilutėje „Kultūra“ vietoj skaičiaus „104 602“ įrašyti skaičių „104 102“ ir šią eilutę išdėstyti taip: ^s-18d5d488f1da93b476a44b23
 
 
  „Kultūra
@@ -544,7 +549,7 @@ lietuvos respublikos 2011 metų valstybės biudžeto asignavimai teismams
 
 
 
-2. Įstatymo 9 priedėlio eilutėje „Iš viso:“ vietoj skaičiaus „3 788 191“ įrašyti skaičių „3 787 691“ ir šią eilutę išdėstyti taip: ^dd5efd6570480ce8724c01ce
+2. Įstatymo 9 priedėlio eilutėje „Iš viso:“ vietoj skaičiaus „3 788 191“ įrašyti skaičių „3 787 691“ ir šią eilutę išdėstyti taip: ^s-14bfacb4cb87428fe9534152
 
 
  „Iš viso:

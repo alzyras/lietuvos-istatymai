@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2BC2D2E5FFFA"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos šalių susitarimo dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR) ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos šalių susitarimo dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR) ratifikavimo"
+  - "įstatymas dėl Europos šalių susitarimo dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR) ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-04"
 latest_path: "latest/TAR.2BC2D2E5FFFA.md"
 latest_sha256: "b2130c0c1006d5df9158a53351ff04dde91fd1d4854df3e9ec831f1dfb151211"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2BC2D2E5FFFA]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos šalių susitarimo dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR) ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2BC2D2E5FFFA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2BC2D2E5FFFA
+- Ryšiai: [[Ryšiai/TAR.2BC2D2E5FFFA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-038e9f96b3cb522b7ad701dc
 
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 21 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR)“, ratifikuoja Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR), sudarytą 1970 m. liepos 1 d. Ženevoje.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B93BC52AA0F"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "azartinių lošimų įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.6B93BC52AA0F.md"
 latest_sha256: "39fea80d55a37a2f614ea91311b311f405528617745ea3f1a4cf75a595fb8c3e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B93BC52AA0F]]"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B93BC52AA0F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B93BC52AA0F
+- Ryšiai: [[Ryšiai/TAR.6B93BC52AA0F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-13c25e92dba006f23c4c4e31
 
 
 11 straipsnio 1 dalyje išbraukti žodžius „dėl kurių pačių ar jų artimųjų giminaičių bei šeimos narių yra atliekamas operatyvinis tyrimas dėl neteisėto lošimo namų (kazino) laikymo ar lošimų organizavimo arba priklausymo nusikalstamam susivienijimui, bei asmenys“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b226ef2e42271e35e18bba8b
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

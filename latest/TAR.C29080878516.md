@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C29080878516"
 pavadinimas: "Lietuvos Respublikos kredito unijų įstatymo 56 ir 61 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kredito unijų įstatymo 56 ir 61 straipsnių pakeitimo įstatymas"
+  - "kredito unijų įstatymo 56 ir 61 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.C29080878516.md"
 latest_sha256: "eb4d713a420ce4686afd10304485d0e4b522ea9fe450fe56af479009893a9e10"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C29080878516]]"
 ---
 # Lietuvos Respublikos kredito unijų įstatymo 56 ir 61 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C29080878516.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C29080878516
+- Ryšiai: [[Ryšiai/TAR.C29080878516|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 56 straipsnio pakeitimas
+### 1 straipsnis. 56 straipsnio pakeitimas ^s-65b44f605534e593a53df4db
 
 
 Pakeisti 56 straipsnį ir jį išdėstyti taip:
@@ -45,11 +50,11 @@ Pakeisti 56 straipsnį ir jį išdėstyti taip:
 „56 straipsnis. Priežiūros tikslams gautos informacijos apsauga
 
 
-Kredito unijų priežiūros tikslams gautos informacijos apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo 65 straipsnis.“
+Kredito unijų priežiūros tikslams gautos informacijos apsaugai mutatis mutandis taikomas [[latest/TAR.B6B636C7384A#^s-f8b4491577818839d66a9c2d|Lietuvos Respublikos bankų įstatymo 65 straipsnis]].“
 
 
 
-### 2 straipsnis. 61 straipsnio 1 dalies 8 punkto pakeitimas
+### 2 straipsnis. 61 straipsnio 1 dalies 8 punkto pakeitimas ^s-059a6a6b5509209bbf6d4876
 
 
 Pakeisti 61 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
@@ -59,7 +64,7 @@ Pakeisti 61 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-f5c81474ac77c95c64e1f9e4
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

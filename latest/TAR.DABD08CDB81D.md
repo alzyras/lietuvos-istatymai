@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DABD08CDB81D"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 11 ir 13 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 11 ir 13 straipsnių papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 11 ir 13 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-01"
 latest_path: "latest/TAR.DABD08CDB81D.md"
 latest_sha256: "5c47e47463d2704ce5fca3892fd5869659c3a4d6418a4d32fd39d7314763c225"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DABD08CDB81D]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 11 ir 13 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DABD08CDB81D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DABD08CDB81D
+- Ryšiai: [[Ryšiai/TAR.DABD08CDB81D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies papildymas 9 punktu
+### 1 straipsnis. 11 straipsnio 1 dalies papildymas 9 punktu ^s-d9e3eaeb65acb755ffe8037a
 
 
 Papildyti 11 straipsnio 1 dalį 9 punktu:
@@ -41,7 +46,7 @@ Papildyti 11 straipsnio 1 dalį 9 punktu:
 
 
 
-### 2 straipsnis. 13 straipsnio 1 dalies papildymas
+### 2 straipsnis. 13 straipsnio 1 dalies papildymas ^s-e5a72e237d38dbbcc9f19b8c
 
 
 13 straipsnio 1 dalyje po skaičiaus „8“ įrašyti skaičių „9“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Papildyti 11 straipsnio 1 dalį 9 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-79869d659e7b1428c45688ca
 
 
 Šis įstatymas įsigalioja nuo 2005 m. liepos 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.82B3923041D2"
 pavadinimas: "Lietuvos Respublikos Seimo nario priesaikos įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo nario priesaikos įstatymas"
+  - "Seimo nario priesaikos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-11-02"
 latest_path: "latest/TAR.82B3923041D2.md"
 latest_sha256: "3ac2c123919f1feb32653e88c3a110d6b0b78caae54125fea245671d484e9f7d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.82B3923041D2]]"
 ---
 # Lietuvos Respublikos Seimo nario priesaikos įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.82B3923041D2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.82B3923041D2
+- Ryšiai: [[Ryšiai/TAR.82B3923041D2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

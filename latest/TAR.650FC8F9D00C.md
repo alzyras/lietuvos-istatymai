@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.650FC8F9D00C"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymo 6 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymo 6 ir 21 straipsnių pakeitimo įstatymas"
+  - "aplinkos apsaugos įstatymo 6 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.650FC8F9D00C.md"
 latest_sha256: "1f071599cef5fd0c4b3f18828550bc4fce380c5c4f1c93de0e28086eca281ff5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.650FC8F9D00C]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 6 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.650FC8F9D00C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.650FC8F9D00C
+- Ryšiai: [[Ryšiai/TAR.650FC8F9D00C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 5 dalies 8 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 5 dalies 8 punkto pakeitimas ^s-2f52c9a62837b7d77c2e890b
 
 
 Pakeisti 6 straipsnio 5 dalies 8 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 6 straipsnio 5 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 21 straipsnio pakeitimas
+### 2 straipsnis. 21 straipsnio pakeitimas ^s-df1fe217f8e4b7c46bf45419
 
 
 Pakeisti 21 straipsnio 1 dalį, 2 ir 3 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
@@ -54,11 +59,11 @@ Pakeisti 21 straipsnio 1 dalį, 2 ir 3 dalis pripažinti netekusiomis galios ir 
 „21 straipsnis. Radioaktyviųjų medžiagų gamyba ir naudojimas
 
 
-Radioaktyviųjų medžiagų ir radioaktyviųjų atliekų bei kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos, dėjimo į radioaktyviųjų atliekų atliekynus, dezaktyvacijos, įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato Lietuvos Respublikos branduolinės saugos įstatymas, Lietuvos Respublikos radiacinės saugos įstatymas ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas.“
+Radioaktyviųjų medžiagų ir radioaktyviųjų atliekų bei kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos, dėjimo į radioaktyviųjų atliekų atliekynus, dezaktyvacijos, įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato [[latest/TAR.424F7C72601E|Lietuvos Respublikos branduolinės saugos įstatymas]], [[latest/TAR.7083DB116A2E|Lietuvos Respublikos radiacinės saugos įstatymas]] ir [[latest/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas]].“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-20e4c554744ce390b9271c8d
 
 
 Šis įstatymas įsigalioja 2011 m. spalio 1 d.

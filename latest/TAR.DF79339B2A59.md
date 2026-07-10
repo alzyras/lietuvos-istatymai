@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DF79339B2A59"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-07"
 latest_path: "latest/TAR.DF79339B2A59.md"
 latest_sha256: "18c0b9fd14a09108c432575db1fbf698528f0c69fd9030579df537a9f212b5b3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DF79339B2A59]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DF79339B2A59.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DF79339B2A59
+- Ryšiai: [[Ryšiai/TAR.DF79339B2A59|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 26 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 26 dalies pakeitimas ^s-7f299cd24728fa6302a61e54
 
 
 2 straipsnio 26 dalyje išbraukti paskutinį sakinį ir visą dalį išdėstyti taip:

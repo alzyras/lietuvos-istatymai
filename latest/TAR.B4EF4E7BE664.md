@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4EF4E7BE664"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.B4EF4E7BE664.md"
 latest_sha256: "59b2e988f1eda6682e21c4235ce2c4c4810bdf833b43cffbff8ca4adf2d6e1d6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4EF4E7BE664]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4EF4E7BE664.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4EF4E7BE664
+- Ryšiai: [[Ryšiai/TAR.B4EF4E7BE664|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,23 +37,23 @@ Nr. 188-7002; 2005, Nr. 61-2159, Nr. 86-3209)
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies 1 ir 9 punktų pakeitimas
+### 1 straipsnis. 6 straipsnio 4 dalies 1 ir 9 punktų pakeitimas ^s-7ef742ae4d61e18a016d5ef3
 
 
-1. Pakeisti 6 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^6b09f4c5e7846a61356012cf
+1. Pakeisti 6 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^s-e7a245e508a2618bc013eea3
 
 
 „1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją ar šalpos kompensaciją;“.
 
 
-2. Pakeisti 6 straipsnio 4 dalies 9 punktą ir jį išdėstyti taip: ^57121a495218db9ddbd6f321
+2. Pakeisti 6 straipsnio 4 dalies 9 punktą ir jį išdėstyti taip: ^s-486a7633bb3fe662734f6c05
 
 
 „9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantis namuose asmenį, kuriam nustatytas neįgalumo lygis (vaiką invalidą), arba asmenį, pripažintą nedarbingu (iki 2005 m. liepos 1 d. – I grupės invalidu) iki 24 metų, arba asmenį, pripažintą nedarbingu (iki 2005 m. liepos 1 d. – I grupės invalidu) iki 26 metų dėl ligų, atsiradusių iki 24 metų, arba asmenį, kuriam nustatytas specialusis nuolatinės slaugos poreikis (iki 2005 m. liepos 1 d. – visiška negalia);“.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-87b1523ece7622c080fbbd08
 
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.

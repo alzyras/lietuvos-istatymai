@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.11010092E221"
 pavadinimas: "Lietuvos Respublikos audito įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos audito įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "audito įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-03-01"
 latest_path: "latest/TAR.11010092E221.md"
 latest_sha256: "a35e1cbc8031540dbadfa45bd8789d019113a7d180b64d0f739303f43796887f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.11010092E221]]"
 ---
 # Lietuvos Respublikos audito įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.11010092E221.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.11010092E221
+- Ryšiai: [[Ryšiai/TAR.11010092E221|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 21 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 21 dalies pakeitimas ^s-6dd2165c4cedffdf2496e4d5
 
 
 2 straipsnio 21 dalyje po žodžių „investicinės kintamojo kapitalo bendrovės“ įrašyti žodžius „uždaro tipo investicinės bendrovės“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-8c7c98754badac9267294e3a
 
 
 Šis įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymo įsigaliojimo dieną.

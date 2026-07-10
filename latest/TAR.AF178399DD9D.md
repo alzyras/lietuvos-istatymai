@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF178399DD9D"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas"
+  - "notariato įstatymo 14 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.AF178399DD9D.md"
 latest_sha256: "84c5b3efaa1ef59325a35e8e7ec7f997b6f8fcb9555b33c099c53aaa04c236bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF178399DD9D]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF178399DD9D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF178399DD9D
+- Ryšiai: [[Ryšiai/TAR.AF178399DD9D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 3 dalies papildymas
+### 1 straipsnis. 14 straipsnio 3 dalies papildymas ^s-30cd31336dfaee1bf43225c9
 
 
 14 straipsnio 3 dalyje po žodžių „civilinių bylų“ įrašyti žodžius „taip pat kitais Lietuvos Respublikos įstatymų nustatytais atvejais“ ir ją išdėstyti taip:

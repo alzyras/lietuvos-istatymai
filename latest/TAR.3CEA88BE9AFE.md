@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3CEA88BE9AFE"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-07-01"
 latest_path: "latest/TAR.3CEA88BE9AFE.md"
 latest_sha256: "27352a9becee76db95eace5527b54ee94eb8b3d153ae631988af9cc2362e9abf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3CEA88BE9AFE]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3CEA88BE9AFE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3CEA88BE9AFE
+- Ryšiai: [[Ryšiai/TAR.3CEA88BE9AFE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 28 straipsnio 3 dalies pakeitimas ^s-6f0ec5167a2ae86b73077e05
 
 
 Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-eaadf18ab3a4ebb12c746e44
 
 
-1. Šis įstatymas, išskyrus [[#^690b55eaaedba58847bc64d8|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d. ^a52b0203a31b6502783ee278
+1. Šis įstatymas, išskyrus [[#^s-43aafc27c56f469b3ccb5463|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d. ^s-e2f9fe7b88351f4400adeae7
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^690b55eaaedba58847bc64d8
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-43aafc27c56f469b3ccb5463
 
 
 

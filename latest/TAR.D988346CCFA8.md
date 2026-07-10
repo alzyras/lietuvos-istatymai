@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D988346CCFA8"
 pavadinimas: "Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-10-21"
 latest_path: "latest/TAR.D988346CCFA8.md"
 latest_sha256: "e5e68af77f856c997421b433d570ba0acec54a10ea508308f4b98bc3463c1daf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D988346CCFA8]]"
 ---
 # Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D988346CCFA8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D988346CCFA8
+- Ryšiai: [[Ryšiai/TAR.D988346CCFA8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -69,4 +73,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-486, 1994-05-31, Žin., 1994, Nr. 43-773 (1994-06-08), i. k. [[latest/TAR.F8F36D253EB1|0941010ISTA000I-486]]
-Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
+[[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]]

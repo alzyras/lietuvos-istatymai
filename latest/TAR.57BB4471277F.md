@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.57BB4471277F"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Susitarimo dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomo protokolo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Susitarimo dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomo protokolo ratifikavimo"
+  - "įstatymas dėl Susitarimo dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomo protokolo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-08-28"
 latest_path: "latest/TAR.57BB4471277F.md"
 latest_sha256: "5c0c42cd0d9786c2524b0f5888c3bb677cbd90ccbe94c31591abdbc0ecb7c150"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.57BB4471277F]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Susitarimo dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomo protokolo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.57BB4471277F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.57BB4471277F
+- Ryšiai: [[Ryšiai/TAR.57BB4471277F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ir jo Papildomo protokolo ratifikavimas
+### 1 straipsnis. Susitarimo ir jo Papildomo protokolo ratifikavimas ^s-1a7ebe84b664446d5c4b6e6e
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. birželio 18 d. dekretą Nr. 1807, ratifikuoja Susitarimą dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomą protokolą, priimtus atitinkamai 1960 m. balandžio 28 d. ir 1982 m. rugsėjo 29 d.

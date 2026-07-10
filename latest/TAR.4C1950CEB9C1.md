@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4C1950CEB9C1"
 pavadinimas: "Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 11 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 11 straipsnio papildymo įstatymas"
+  - "1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 11 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-16"
 latest_path: "latest/TAR.4C1950CEB9C1.md"
 latest_sha256: "7f873363fc27a485c02e3f512579db87dd53c41132f36b4cf3e3128b561316ec"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4C1950CEB9C1]]"
 ---
 # Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 11 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4C1950CEB9C1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4C1950CEB9C1
+- Ryšiai: [[Ryšiai/TAR.4C1950CEB9C1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies 1 punkto papildymas
+### 1 straipsnis. 11 straipsnio 1 dalies 1 punkto papildymas ^s-a3f5899ebe2b96b0b49f9e25
 
 
 11 straipsnio 1 dalies 1 punktą papildyti žodžiais „žemės reformai vykdyti“ ir šį punktą išdėstyti taip:

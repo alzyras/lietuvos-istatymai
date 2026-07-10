@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.955166852BD7.md",
   "latest_revision": "2006-09-26",
-  "latest_sha256": "0d052bd564343b7b7c2499d8e41fa72f94c6afac15f68ac6fb0748b2a7ca959e",
+  "latest_sha256": "aa2c28763de0933d444573a65e419963b7f260d1444eaedcda53742215fba790",
   "metadata_path": "latest/TAR.955166852BD7.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybės politikų elgesio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Valstybės politikų elgesio kodeksas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

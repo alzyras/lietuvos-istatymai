@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/bd5bb9405de011e4bad5c03f56793630.md",
   "latest_revision": "2015-01-01",
-  "latest_sha256": "4b053b0897ffce7ad961895c60c9c82f3dc037ecb390138d747acc8df9783ac9",
+  "latest_sha256": "9dc2c3e2d25e8456b334f22c4f026a63b35e4861427bd216cfe347697bc4ee3e",
   "metadata_path": "latest/bd5bb9405de011e4bad5c03f56793630.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 20 ir 21 straipsnių pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

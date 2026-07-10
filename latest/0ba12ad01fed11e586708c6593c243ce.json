@@ -11,7 +11,7 @@
   "latest_revision": "2015-11-01",
   "latest_sha256": "8f24f9321e1b119e0cb670c5ce70b13147a84fede0f68d004acabd98c2fedb44",
   "metadata_path": "latest/0ba12ad01fed11e586708c6593c243ce.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 26 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

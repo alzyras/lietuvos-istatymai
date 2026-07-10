@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0079FBD960D1"
 pavadinimas: "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 7 ir 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 7 ir 9 straipsnių pakeitimo įstatymas"
+  - "vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 7 ir 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-29"
 latest_path: "latest/TAR.0079FBD960D1.md"
 latest_sha256: "0165ec7e0a1d30f090f1f5c2bad74f1eba2c6f9e54315a67a5aa832b49552255"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0079FBD960D1]]"
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 7 ir 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0079FBD960D1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0079FBD960D1
+- Ryšiai: [[Ryšiai/TAR.0079FBD960D1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio pakeitimas
+### 1 straipsnis. 7 straipsnio pakeitimas ^s-43ce305c64dc37f868c3612b
 
 
 Pakeisti 7 straipsnio 1 dalį, 2 ir 3 dalyse vietoj žodžio „mokama“ įrašyti žodį „skiriama“ ir visą straipsnį išdėstyti taip:
@@ -46,11 +51,11 @@ Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal paskutinio
 Už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama po 1% šio straipsnio pirmojoje dalyje nurodyto darbo užmokesčio.
 
 
-Atleistiems dėl sveikatos ([[#3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|3 straipsnio]] pirmosios dalies 4 punktas) pareigūnams ir kariams, ištarnavusiems nuo 5 iki 10 metų, už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama po 2% šio straipsnio pirmojoje dalyje nurodyto darbo užmokesčio, ištarnavusiems nuo 10 iki 20 metų – 20% šio darbo užmokesčio, o ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio antrojoje dalyje nurodyto dydžio pensija.“
+Atleistiems dėl sveikatos ([[#^s-28227784c5a99164e7c14ce4|3 straipsnio]] pirmosios dalies 4 punktas) pareigūnams ir kariams, ištarnavusiems nuo 5 iki 10 metų, už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama po 2% šio straipsnio pirmojoje dalyje nurodyto darbo užmokesčio, ištarnavusiems nuo 10 iki 20 metų – 20% šio darbo užmokesčio, o ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio antrojoje dalyje nurodyto dydžio pensija.“
 
 
 
-### 2 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-44d43ee554390c6b1c98becb
 
 
 9 straipsnio 1 dalyje vietoj žodžio „mokama“ įrašyti žodį „skiriama“ ir šią dalį išdėstyti taip:
@@ -60,16 +65,16 @@ Atleistiems dėl sveikatos ([[#3 straipsnis. Įstatymo įsigaliojimas ir įgyven
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-28227784c5a99164e7c14ce4
 
 
-1. Iki 1991 m. liepos 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydį, nuo 2004 m. rugsėjo 1 d. didinamos vieną kartą 30 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydžio. ^ea44f8bdc0fce02a6cdccad3
+1. Iki 1991 m. liepos 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydį, nuo 2004 m. rugsėjo 1 d. didinamos vieną kartą 30 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydžio. ^s-e85c218b52b1e37764b3cee0
 
 
-2. Iki 1995 m. sausio 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydį, nuo 2005 m. sausio 1 d. didinamos vieną kartą 20 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydžio. ^80a2a0d0795af7f4549293ce
+2. Iki 1995 m. sausio 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydį, nuo 2005 m. sausio 1 d. didinamos vieną kartą 20 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydžio. ^s-bf9d8d770322d3c286f638d7
 
 
-3. Pasiūlyti Vyriausybei iki 2005 m. sausio 1 d. parengti ir pateikti Seimui įstatymo projektą dėl socialinės apsaugos išmokų indeksavimo. ^1f46aa55296b65f2d3045b26
+3. Pasiūlyti Vyriausybei iki 2005 m. sausio 1 d. parengti ir pateikti Seimui įstatymo projektą dėl socialinės apsaugos išmokų indeksavimo. ^s-30af2572e003232d314bffb8
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.101FBB7E88A8"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-10"
 latest_path: "latest/TAR.101FBB7E88A8.md"
 latest_sha256: "b36a79514bd687126c0ece7509a504867a6efa54ad22190d864056d9f3446544"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.101FBB7E88A8]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.101FBB7E88A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.101FBB7E88A8
+- Ryšiai: [[Ryšiai/TAR.101FBB7E88A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas ^s-827f61345f7e0d147b50b5d3
 
 
 Pakeisti 5 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:

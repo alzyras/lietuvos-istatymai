@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8EA1EF900063"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo ir 18-2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo ir 18-2 straipsnio papildymo įstatymas"
+  - "alkoholio kontrolės įstatymo 18 straipsnio pakeitimo ir 18-2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-30"
 latest_path: "latest/TAR.8EA1EF900063.md"
 latest_sha256: "fa44ba73d95991b2f2bc8fa831de79bb4a5097adb9a0cd9006c53660d634650a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8EA1EF900063]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo ir 18-2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8EA1EF900063.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8EA1EF900063
+- Ryšiai: [[Ryšiai/TAR.8EA1EF900063|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 9 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 9 dalies pakeitimas ^s-b21bf27f17671134e7ff68bb
 
 
 Pakeisti 18 straipsnio 9 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 18 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 182 straipsnio 3 dalies papildymas 5 punktu
+### 2 straipsnis. 182 straipsnio 3 dalies papildymas 5 punktu ^s-a02e78a5f98ef49521a47e56
 
 
 Papildyti 182 straipsnio 3 dalį 5 punktu:

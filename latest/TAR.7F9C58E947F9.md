@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7F9C58E947F9"
 pavadinimas: "Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.7F9C58E947F9.md"
 latest_sha256: "5d4e83fc634c010bef18fef24229ef5604fa14c5b33ef2b26a69aff68c291130"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7F9C58E947F9]]"
 ---
 # Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7F9C58E947F9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7F9C58E947F9
+- Ryšiai: [[Ryšiai/TAR.7F9C58E947F9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 1 punkto ir 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 1 punkto ir 2 dalies pakeitimas ^s-9260cc30ad44e9cfbbbe7d90
 
 
-1. Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^fd7a2ef8ab8bdeab163fbf84
+1. Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-276e436a9cdce78ad7419d66
 
 
 „1) susipažinti su informacija, susijusia su tiriamu klausimu, ir gauti iš visų valstybės valdžios ir valdymo institucijų, Lietuvos banko, valstybės ir savivaldybių įmonių (taip pat ir jų kontroliuojamų), įstaigų ir organizacijų dokumentus, duomenis ar žinias, net jeigu tai yra valstybės, komercinė, banko, tarnybinė paslaptis, taip pat gauti pirminius bei kitus dokumentus, kuriuose šie duomenys ar žinios užfiksuoti. Jeigu žinios sudaro valstybės paslaptį, jos komisijai turi būti pateiktos Valstybės ir tarnybos paslapčių bei Kriminalinės žvalgybos įstatymų nustatyta tvarka;“.
 
 
-2. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^ebf1f0edcd8cc6091a530ab0
+2. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^s-c585c43deef36e82f5e86c11
 
 
 „2. Tais atvejais, kai atsisakoma pateikti šio straipsnio 1 dalies 1 punkte nurodytus komisijos reikalaujamus dokumentus, medžiagą, komisija turi teisę pasitelkti policijos pareigūnus ir paimti šiuos dokumentus, medžiagą, išskyrus atvejus, kai tokie dokumentai, medžiaga yra baudžiamojoje byloje, kriminalinės žvalgybos informacinėse sistemose ir kriminalinės žvalgybos tyrimų bylose, civilinėje ar administracinėje byloje. Asmenys, paimantys dokumentus, medžiagą, surašo jų paėmimo aktą (protokolą) ir palieka dokumentų, medžiagos kopijas. Jeigu nėra galimybės palikti kopijų, protokole surašomi visi paimtų dokumentų, medžiagos rekvizitai.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-2da5530470aa4a5cd6c8f785
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

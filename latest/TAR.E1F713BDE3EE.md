@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E1F713BDE3EE"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 11, 18 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 11, 18 ir 26 straipsnių pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 11, 18 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-04-05"
 latest_path: "latest/TAR.E1F713BDE3EE.md"
 latest_sha256: "7d3c6bee9b871f957ae23ec4caf89df4a80b15a2ca495f7ff43289bc518b3ad0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E1F713BDE3EE]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 11, 18 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E1F713BDE3EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E1F713BDE3EE
+- Ryšiai: [[Ryšiai/TAR.E1F713BDE3EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 10 ir 11 dalių pakeitimas
+### 1 straipsnis. 11 straipsnio 10 ir 11 dalių pakeitimas ^s-9371b137fe48fb02837ef7cc
 
 
-1. 11 straipsnio 10 dalyje po žodžio „patvirtinimo“ įrašyti žodžius „ir visas teritorijų planavimo dokumentas paskelbiamas „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt)“ ir šią dalį išdėstyti taip: ^595b1cb99de92c2e3d9fd04b
+1. 11 straipsnio 10 dalyje po žodžio „patvirtinimo“ įrašyti žodžius „ir visas teritorijų planavimo dokumentas paskelbiamas „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt)“ ir šią dalį išdėstyti taip: ^s-64205acbeddfa0e230be2802
 
 
 „10. Patvirtintas valstybės, apskrities bendrasis (generalinis) planas įsigalioja kitą dieną po to, kai „Valstybės žiniose“ paskelbiamas jį tvirtinančios institucijos sprendimas dėl bendrojo (generalinio) plano patvirtinimo ir visas teritorijų planavimo dokumentas paskelbiamas „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt), jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data.“
 
 
-2. Pakeisti 11 straipsnio 11 dalį ir ją išdėstyti taip: ^7efcd34b9546be264955bbdf
+2. Pakeisti 11 straipsnio 11 dalį ir ją išdėstyti taip: ^s-1ce148a3b26c7462c2141af2
 
 
 „11. Patvirtintas savivaldybės ar jos dalies teritorijos bendrasis planas įsigalioja kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiame teisės akte nenustatyta vėlesnė jo įsigaliojimo data.“
 
 
 
-### 2 straipsnis. 18 straipsnio 8 dalies pakeitimas
+### 2 straipsnis. 18 straipsnio 8 dalies pakeitimas ^s-8891533fbc81859bd97788f8
 
 
 Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -57,7 +62,7 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 26 straipsnio 8 dalies pakeitimas
+### 3 straipsnis. 26 straipsnio 8 dalies pakeitimas ^s-35bb49773d4d1a8439edf0fb
 
 
 Pakeisti 26 straipsnio 8 dalį ir ją išdėstyti taip:

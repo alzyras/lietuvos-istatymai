@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2CBC645A67BD"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 6, 7, 9, 10, 11, 14, 17, 19, 22 straipsnių pakeitimo ir papildymo įstatymo 3 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 6, 7, 9, 10, 11, 14, 17, 19, 22 straipsnių pakeitimo ir papildymo įstatymo 3 ir 13 straipsnių pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1, 2, 3, 6, 7, 9, 10, 11, 14, 17, 19, 22 straipsnių pakeitimo ir papildymo įstatymo 3 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-29"
 latest_path: "latest/TAR.2CBC645A67BD.md"
 latest_sha256: "eea064a8c20b2c44adcb63e980baa366cd6ccaf83b639feb452c9c6afb69bd8c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2CBC645A67BD]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 6, 7, 9, 10, 11, 14, 17, 19, 22 straipsnių pakeitimo ir papildymo įstatymo 3 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2CBC645A67BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2CBC645A67BD
+- Ryšiai: [[Ryšiai/TAR.2CBC645A67BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-ab68fa907133d8ab6505035f
 
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 13 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 13 straipsnio 3 dalies pakeitimas ^s-e6f6188655f615f1287e1a41
 
 
 Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip:

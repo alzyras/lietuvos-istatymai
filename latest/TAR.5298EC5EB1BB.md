@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5298EC5EB1BB"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 39 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 39 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 39 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.5298EC5EB1BB.md"
 latest_sha256: "2a7a6ff203953e3a1c7202ddfe864966d65144bf3b4f72796d17453a27eff515"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5298EC5EB1BB]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 39 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5298EC5EB1BB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5298EC5EB1BB
+- Ryšiai: [[Ryšiai/TAR.5298EC5EB1BB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 39 straipsnio 1 dalies pakeitimas ^s-d42c6ea53eea68a7ec7b6f25
 
 
 Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-965674b6be7bc3e89624dcf6
 
 
 Šis įstatymas įsigalioja 2013 m. kovo 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F39C1B85F819"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl Druskininkų sanatorijos \"Baltarusija\" ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl Druskininkų sanatorijos \"Baltarusija\" ratifikavimo įstatymas"
+  - "Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl Druskininkų sanatorijos \"Baltarusija\" ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-26"
 latest_path: "latest/TAR.F39C1B85F819.md"
 latest_sha256: "f35ded4e9b8da2b25bf4d61f1808dee824244840ea5052ab40510cdc1f7f4906"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F39C1B85F819]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl Druskininkų sanatorijos "Baltarusija" ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F39C1B85F819.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F39C1B85F819
+- Ryšiai: [[Ryšiai/TAR.F39C1B85F819|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-db4655bb095fdb9c4df78da3
 
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 12 d. dekretą Nr. 885, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Druskininkų sanatorijos „Baltarusija“, pasirašytą 1995 m. vasario 6 d. Vilniuje.

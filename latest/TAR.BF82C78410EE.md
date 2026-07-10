@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BF82C78410EE"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybinės vėliavos\" pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybinės vėliavos\" pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-02-25"
 latest_path: "latest/TAR.BF82C78410EE.md"
 latest_sha256: "d75aed876bcd5d048066ef9b35d9d0b5f62760a530b932eecaeb80bc42503898"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BF82C78410EE]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybinės vėliavos" pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BF82C78410EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BF82C78410EE
+- Ryšiai: [[Ryšiai/TAR.BF82C78410EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

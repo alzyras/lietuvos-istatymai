@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.427A23D473BF"
 pavadinimas: "Lietuvos Respublikos ūkinių bendrijų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkinių bendrijų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "ūkinių bendrijų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-11"
 latest_path: "latest/TAR.427A23D473BF.md"
 latest_sha256: "174d27ec9e37796d8699adf6b1cc0d6205e82ba0f36b45a5c6f97baa2f2a823e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.427A23D473BF]]"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.427A23D473BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.427A23D473BF
+- Ryšiai: [[Ryšiai/TAR.427A23D473BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-55f67a79b27073838e070966
 
 
 Pakeisti 2 straipsnio 2 dalį ir išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 2 straipsnio 2 dalį ir išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įgyvendinimas
+### 2 straipsnis. Įstatymo įgyvendinimas ^s-9f717fe74f9d145990781b4b
 
 
 Konsorciumai, kuriuose valstybės ar savivaldybės įmonės yra tikraisiais nariais, per 30 dienų nuo šio įstatymo įsigaliojimo turi priimti sprendimą dėl persiregistravimo į komanditines (pasitikėjimo) ūkines bendrijas arba dėl likvidavimo.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3B34806373C6"
 pavadinimas: "Lietuvos Respublikos bausmių vykdymo kodekso 173 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bausmių vykdymo kodekso 173 straipsnio pakeitimo įstatymas"
+  - "bausmių vykdymo kodekso 173 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.3B34806373C6.md"
 latest_sha256: "8c12f95db61ddeedcd29ab9e9cab17501eb146d2a8832485987d94559f1da9b0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3B34806373C6]]"
 ---
 # Lietuvos Respublikos bausmių vykdymo kodekso 173 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3B34806373C6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3B34806373C6
+- Ryšiai: [[Ryšiai/TAR.3B34806373C6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 173 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 173 straipsnio 5 dalies pakeitimas ^s-a40b044ccad3167b7c223c57
 
 
 Pakeisti 173 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 173 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ea28fadc3ea1728cd5510b13
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

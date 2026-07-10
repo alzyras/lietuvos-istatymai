@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C5EEEA24CFC1"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3, 27, 37(1) straipsnių pakeitimo ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3, 27, 37(1) straipsnių pakeitimo ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 3, 27, 37(1) straipsnių pakeitimo ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-01"
 latest_path: "latest/TAR.C5EEEA24CFC1.md"
 latest_sha256: "75f88323165f42f54b63cebf3034a518236dc7e3a4d67aed1ddef51b2362db8e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C5EEEA24CFC1]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3, 27, 37(1) straipsnių pakeitimo ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C5EEEA24CFC1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C5EEEA24CFC1
+- Ryšiai: [[Ryšiai/TAR.C5EEEA24CFC1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,42 +37,42 @@ Nr. 88-1666, Nr. 96-1874; 1995, Nr. 36-889, Nr. 59-1481, Nr. 89-1987)
 
 
 
-### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas ^s-d0cf5a34f70b855e7d050a66
 
 
 Pakeisti 3 straipsnio 3 punktą ir visą straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. 27 straipsnio pakeitimas|3 straipsnis]]. Valstybinio socialinio draudimo rūšys
+„[[#^s-96ea4a16d914890959e9aa52|3 straipsnis]]. Valstybinio socialinio draudimo rūšys
 
 
 Lietuvos Respublikoje nustatomos tokios valstybinio socialinio draudimo rūšys:
 
 
-1) pensijų draudimas, kai draudžiama pensijoms, numatytoms Valstybinių socialinio draudimo pensijų įstatyme; ^55c5813b2829ecec28d66fef
+1) pensijų draudimas, kai draudžiama pensijoms, numatytoms [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]]; ^s-bf0da07a2bbe366ce24273e2
 
 
-2) ligos ir motinystės draudimas, kai draudžiama ligos ir motinystės (tėvystės) pašalpoms, numatytoms šio įstatymo 6–17 straipsniuose, taip pat laidojimo pašalpoms, numatytoms šio įstatymo 20–22 straipsniuose; ^2494e2c73650afb82af3b8df
+2) ligos ir motinystės draudimas, kai draudžiama ligos ir motinystės (tėvystės) pašalpoms, numatytoms šio įstatymo 6–17 straipsniuose, taip pat laidojimo pašalpoms, numatytoms šio įstatymo 20–22 straipsniuose; ^s-697c5d9c22bef18b77a0e4d2
 
 
-3) draudimas kompensacijoms, numatytoms šio įstatymo 26 straipsnyje; ^92a917765e176ccb5260e51a
+3) draudimas kompensacijoms, numatytoms šio įstatymo 26 straipsnyje; ^s-537e42027316ba7d0787578e
 
 
-4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas Gyventojų užimtumo įstatyme; ^c12d24f2f9ab3a9a4821e751
+4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas Gyventojų [[latest/422c8b5042b811e6a8ae9e1795984391|užimtumo įstatyme]]; ^s-687b210b7cacac64c5643cd2
 
 
-5) draudimas nuo nelaimingų atsitikimų gamyboje, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme.“ ^a0bbb537007a4719673bf0a1
+5) draudimas nuo nelaimingų atsitikimų gamyboje, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme.“ ^s-71e4ac72433336c42c19692f
 
 
 
-### 2 straipsnis. 23, 24 ir 25 straipsnių pripažinimas netekusiais galios
+### 2 straipsnis. 23, 24 ir 25 straipsnių pripažinimas netekusiais galios ^s-41513c19e91d0660a27064a1
 
 
 Pripažinti netekusiais galios Įstatymo 23, 24 ir 25 straipsnius.
 
 
 
-### 3 straipsnis. 27 straipsnio pakeitimas
+### 3 straipsnis. 27 straipsnio pakeitimas ^s-96ea4a16d914890959e9aa52
 
 
 27 straipsnyje vietoj skaičių ir žodžio „23–26 straipsniuose“ įrašyti skaičių ir žodį „26 straipsnyje“ ir šį straipsnį išdėstyti taip:
@@ -80,7 +85,7 @@ Apdraustasis netenka teisės į 26 straipsnyje išvardintas išmokas iš valstyb
 
 
 
-### 4 straipsnis. 371 straipsnio pirmosios dalies pakeitimas
+### 4 straipsnis. 371 straipsnio pirmosios dalies pakeitimas ^s-c386d0f73abcd501396578eb
 
 
 Pakeisti 371 straipsnio pirmosios dalies paskutinįjį sakinį ir šią dalį išdėstyti taip:
@@ -90,7 +95,7 @@ Pakeisti 371 straipsnio pirmosios dalies paskutinįjį sakinį ir šią dalį i�
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-c473eeed119e07be68ce2ac3
 
 
 Šis įstatymas įsigalioja nuo 1997 metų sausio 1 dienos.

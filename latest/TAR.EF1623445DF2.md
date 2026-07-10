@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EF1623445DF2"
 pavadinimas: "Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas"
+  - "nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-05-28"
 latest_path: "latest/TAR.EF1623445DF2.md"
 latest_sha256: "c1dfe0fa807d806676985e29d6da68af00b826dd4f5e9c3700fc3b09a4f6ca43"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EF1623445DF2]]"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EF1623445DF2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EF1623445DF2
+- Ryšiai: [[Ryšiai/TAR.EF1623445DF2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio 4 punkto pakeitimas
+### 1 straipsnis. 28 straipsnio 4 punkto pakeitimas ^s-ea6b1abe5679442fa6713f9a
 
 
 28 straipsnio 4 punkte prieš žodžius „Ginklų fondą“ įrašyti žodžius „Lietuvos Respublikos“ ir šį punktą išdėstyti taip:

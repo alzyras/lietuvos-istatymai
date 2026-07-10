@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.34CCDFAEBFC7"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.34CCDFAEBFC7.md"
 latest_sha256: "3ef06a13fba864fe13acf865a2e2a8ca95924097d7b064e80956fad24a1398d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.34CCDFAEBFC7]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.34CCDFAEBFC7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.34CCDFAEBFC7
+- Ryšiai: [[Ryšiai/TAR.34CCDFAEBFC7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas ^s-2892d567597edca10db8965c
 
 
 18 straipsnio 1 dalyje vietoj žodžių ir skaičiaus „daugiau kaip 1/2 akcijų“ įrašyti skaičių ir žodžius „1/2 ir daugiau akcijų“ ir šią dalį išdėstyti taip:

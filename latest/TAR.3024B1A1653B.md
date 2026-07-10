@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3024B1A1653B"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-15"
 latest_path: "latest/TAR.3024B1A1653B.md"
 latest_sha256: "eecb89f8757e70960f7f79def1f2f220a0102eeed1fc62ef1d00f8033cd65d80"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3024B1A1653B]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3024B1A1653B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3024B1A1653B
+- Ryšiai: [[Ryšiai/TAR.3024B1A1653B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,10 +36,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 2 dalies 6 punkto pakeitimas
+### 1 straipsnis. 13 straipsnio 2 dalies 6 punkto pakeitimas ^s-959ac1cb5a39c9c53c30b6fa
 
 
-1. Pakeisti 13 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip: ^8439c125b8bba0bcb6f15bec
+1. Pakeisti 13 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip: ^s-329c2322a21366d280fe549e
 
 
 „6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti ir skolintis pinigų. Bendrovė, skolindamasi pinigų iš savo akcininkų, neturi teisės įkeisti jiems savo turto. Bendrovės negali verstis kredito įstaigų veikla. Bendrovės fiziniams bei juridiniams asmenims paskolintų lėšų suma negali viršyti bendrovės nuosavo kapitalo. Bendrovei skolinantis iš akcininko pagal paskolos sutartį, metinė paskolos palūkanų norma negali būti didesnė už praėjusį kalendorinį ketvirtį aukciono būdu išleistų litais Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį, kurį „Valstybės žiniose“ skelbia Vyriausybė arba jos įgaliota institucija;“.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A02CF0336CE1"
 pavadinimas: "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas"
+  - "transporto veiklos pagrindų įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-24"
 latest_path: "latest/TAR.A02CF0336CE1.md"
 latest_sha256: "e8dfada235b33d08d554c873b115fa4f54b42c3c4fbd805a270a1312dcad3c36"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A02CF0336CE1]]"
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A02CF0336CE1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A02CF0336CE1
+- Ryšiai: [[Ryšiai/TAR.A02CF0336CE1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,16 +39,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-8f3a2143a12bf39fec40b34a
 
 
-1. Papildyti 2 straipsnį nauja [[#^b007dafdc60c60b5216a8837|1 dalimi]]: ^b007dafdc60c60b5216a8837
+1. Papildyti 2 straipsnį nauja [[#^s-320a114c974374e4b70f5f33|1 dalimi]]: ^s-320a114c974374e4b70f5f33
 
 
 „1. Elektroninis keleivinio transporto bilietas – skaitmeninėje duomenų bazėje saugomas įrašas, patvirtinantis, kad yra sumokėta už vežimo paslaugą.“
 
 
-2. Buvusias 2 straipsnio 1–18 dalis laikyti atitinkamai 2–19 dalimis. ^d74a88bbbd1956c7623c5994
+2. Buvusias 2 straipsnio 1–18 dalis laikyti atitinkamai 2–19 dalimis. ^s-beb9b233e80122d3aaaf064a
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BF7E97855929"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio papildymo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-30"
 latest_path: "latest/TAR.BF7E97855929.md"
 latest_sha256: "659b116a6e207c7a32da1e3a0a3b0089a927a0c75cb7e275a9ccafc9a70b4f09"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BF7E97855929]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BF7E97855929.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BF7E97855929
+- Ryšiai: [[Ryšiai/TAR.BF7E97855929|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies papildymas
+### 1 straipsnis. 7 straipsnio 2 dalies papildymas ^s-07206272b4cdd63f594bd17e
 
 
 Papildyti 7 straipsnio 2 dalį ir ją išdėstyti taip:

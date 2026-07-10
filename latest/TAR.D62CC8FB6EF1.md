@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D62CC8FB6EF1"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Valstybės herbo\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Valstybės herbo\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-09-21"
 latest_path: "latest/TAR.D62CC8FB6EF1.md"
 latest_sha256: "e55d5e71fcaf7e4d378bbe0841da74a852059a0014e5f2fcce92d70b2061babe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D62CC8FB6EF1]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Valstybės herbo" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D62CC8FB6EF1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D62CC8FB6EF1
+- Ryšiai: [[Ryšiai/TAR.D62CC8FB6EF1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

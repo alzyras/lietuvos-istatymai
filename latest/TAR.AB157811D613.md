@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AB157811D613"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.AB157811D613.md"
 latest_sha256: "7fe1c4afcb9530ddc289d3645fce17a6eeeb8701e146a7c1612602eba7e01d27"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AB157811D613]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AB157811D613.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AB157811D613
+- Ryšiai: [[Ryšiai/TAR.AB157811D613|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies 10 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies 10 punkto pakeitimas ^s-19a4ff2558ed9a0f65872d52
 
 
 Pakeisti 7 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 7 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
 „10) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas;“.
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-564f4f46e5a00debe878547d
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

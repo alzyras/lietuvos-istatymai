@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3C497B1D3C54"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-02-18"
 latest_path: "latest/TAR.3C497B1D3C54.md"
 latest_sha256: "8b5f8ccce421af025e4a1791f48405f4852536dfb3a70c03c321394eff6e7531"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3C497B1D3C54]]"
 ---
 # Dėl Lietuvos Respublikos valstybinės kalbos įstatymo įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3C497B1D3C54.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3C497B1D3C54
+- Ryšiai: [[Ryšiai/TAR.3C497B1D3C54|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

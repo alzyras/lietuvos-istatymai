@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1222412DD2A0"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl paramos mirties atveju\" 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl paramos mirties atveju\" 2 straipsnio papildymo įstatymas"
+  - "įstatymo \"Dėl paramos mirties atveju\" 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-30"
 latest_path: "latest/TAR.1222412DD2A0.md"
 latest_sha256: "6ec0a7f48dd6e38be440438ec8ac6e158b51748f9d442b9da8bc6428764a5eb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1222412DD2A0]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1222412DD2A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1222412DD2A0
+- Ryšiai: [[Ryšiai/TAR.1222412DD2A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies papildymas
+### 1 straipsnis. 2 straipsnio 2 dalies papildymas ^s-7325aba46bac88076728a01d
 
 
 2 straipsnio 2 dalyje po žodžio „nariui“ įrašyti žodžius „bedarbiui, įsiregistravusiam darbo biržoje“ ir šią dalį išdėstyti taip:

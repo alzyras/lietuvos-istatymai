@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.85582B6CAA33"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymas"
+  - "buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.85582B6CAA33.md"
 latest_sha256: "fb5aad493434b7da8893e948b76142d2483f85f246817b391729a4d0368a19e3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.85582B6CAA33]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.85582B6CAA33.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.85582B6CAA33
+- Ryšiai: [[Ryšiai/TAR.85582B6CAA33|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -41,23 +46,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas
+### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas ^s-c98b680a3bd998b2afad94e0
 
 
-1. Pakeisti [[#^0a92f1c5d505dbec8f0c6d35|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^0a92f1c5d505dbec8f0c6d35
+1. Pakeisti [[#^s-45b3a1ff173a9898840e2cf8|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-45b3a1ff173a9898840e2cf8
 
 
 „1. Šis įstatymas nustato ribotos civilinės atsakomybės juridinių asmenų ir neribotos civilinės atsakomybės juridinių asmenų, išteklių ir mokesčių fondų, ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla (nuolatinių Lietuvos gyventojų, kurie verčiasi individualia veikla, ir nenuolatinių Lietuvos gyventojų, veikiančių per nuolatinę bazę Lietuvos Respublikoje), užsienio juridinių asmenų filialų ir atstovybių, esančių Lietuvos Respublikoje, (toliau – ūkio subjektai) turto, nuosavo kapitalo, finansavimo sumų, įsipareigojimų buhalterinę apskaitą, jos organizavimą ir tvarkymą. Šis įstatymas netaikomas šeimynoms.“
 
 
-2. 1 straipsnio 3 dalyje po žodžių „investicinių fondų“ įrašyti žodžius „ir jų“ ir šią dalį išdėstyti taip: ^e7daa0396ac46aa62c287dce
+2. 1 straipsnio 3 dalyje po žodžių „investicinių fondų“ įrašyti žodžius „ir jų“ ir šią dalį išdėstyti taip: ^s-665efda50180089de98e60e6
 
 
 „3. Lietuvos banko, kitų kredito įstaigų, mokėjimo įstaigų, elektroninių pinigų įstaigų, finansų maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir jų valdymo įmonių, uždaro tipo investicinių bendrovių ir jų valdymo įmonių, pensijų fondų ir jų valdymo įmonių, investicinių fondų ir jų valdymo įmonių, reguliuojamos rinkos operatoriaus, Lietuvos centrinio vertybinių popierių depozitoriumo, draudimo įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis įstatymas, jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.“
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-2602559115572324fa20b68d
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
@@ -69,70 +74,70 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 „2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Apskaitos dokumentas – popierinis arba elektroninis liudijimas, patvirtinantis ūkinę operaciją arba ūkinį įvykį ir turintis rekvizitus, pagal kuriuos galima nustatyti ūkinės operacijos arba ūkinio įvykio tapatumą, taip pat šio įstatymo 13 straipsnio 7 dalyje nurodytas dokumentas. ^7be9a479c9167314b5daca83
+1. Apskaitos dokumentas – popierinis arba elektroninis liudijimas, patvirtinantis ūkinę operaciją arba ūkinį įvykį ir turintis rekvizitus, pagal kuriuos galima nustatyti ūkinės operacijos arba ūkinio įvykio tapatumą, taip pat šio įstatymo 13 straipsnio 7 dalyje nurodytas dokumentas. ^s-fafdcd18c00b0ee747cba864
 
 
-2. Apskaitos politika – apskaitos principai, apskaitos metodai ir taisyklės, skirti ūkio subjekto apskaitai tvarkyti ir finansinėms ataskaitoms sudaryti. ^63eab239c33c02a0c2bf5e08
+2. Apskaitos politika – apskaitos principai, apskaitos metodai ir taisyklės, skirti ūkio subjekto apskaitai tvarkyti ir finansinėms ataskaitoms sudaryti. ^s-2f847507848d198630b7dccb
 
 
-3. Apskaitos registras – remiantis apskaitos dokumentais parengta ūkinių operacijų ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys. ^6efa1708735f12da63312696
+3. Apskaitos registras – remiantis apskaitos dokumentais parengta ūkinių operacijų ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys. ^s-26eed1fe025159d1834c325c
 
 
-4. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir ūkinių įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo sistema, skirta informacijai, reikalingai priimant ekonominius sprendimus, gauti ir (arba) finansinių ataskaitų rinkiniui (toliau – finansinės ataskaitos) sudaryti. ^5e9347a7c119e4ae10822041
+4. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir ūkinių įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo sistema, skirta informacijai, reikalingai priimant ekonominius sprendimus, gauti ir (arba) finansinių ataskaitų rinkiniui (toliau – finansinės ataskaitos) sudaryti. ^s-15f9a4df28121bafb96ab864
 
 
-5. Buhalterinė sąskaita (toliau – sąskaita) – informacijos kaupimo ir grupavimo būdas ūkio subjekto turtui, nuosavam kapitalui, finansavimo sumoms, įsipareigojimams, pajamoms ir sąnaudoms nustatyti per ataskaitinį laikotarpį. ^cf74e42c532c264c4c1fc48a
+5. Buhalterinė sąskaita (toliau – sąskaita) – informacijos kaupimo ir grupavimo būdas ūkio subjekto turtui, nuosavam kapitalui, finansavimo sumoms, įsipareigojimams, pajamoms ir sąnaudoms nustatyti per ataskaitinį laikotarpį. ^s-5c551366cad2019fca272ddb
 
 
-6. Buhalterių profesionalų etikos kodeksas – Tarptautinės buhalterių federacijos Tarptautinių etikos normų buhalteriams valdybos parengti ir patvirtinti profesinės etikos principai. ^a07bd53ba6c9ac9f9a886d89
+6. Buhalterių profesionalų etikos kodeksas – Tarptautinės buhalterių federacijos Tarptautinių etikos normų buhalteriams valdybos parengti ir patvirtinti profesinės etikos principai. ^s-90bab0b6541b23ea37aeeeef
 
 
-7. Dvejybinis įrašas – ūkinių operacijų ir ūkinių įvykių registravimo būdas, kai kiekvienos ūkinės operacijos arba kiekvieno ūkinio įvykio vertė įrašoma į sąskaitos (sąskaitų) debetą, o jai lygi suma – į kitos sąskaitos (sąskaitų) kreditą. ^2fd64d3a436d604407617b2d
+7. Dvejybinis įrašas – ūkinių operacijų ir ūkinių įvykių registravimo būdas, kai kiekvienos ūkinės operacijos arba kiekvieno ūkinio įvykio vertė įrašoma į sąskaitos (sąskaitų) debetą, o jai lygi suma – į kitos sąskaitos (sąskaitų) kreditą. ^s-86754053feaacb13848b5e41
 
 
-8. Įsipareigojimas – prievolė, atsirandanti dėl atliktų ūkinių operacijų ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityti turtu ir kurių dydį galima objektyviai nustatyti. ^1de3c2a7413b2e872a6d5a64
+8. Įsipareigojimas – prievolė, atsirandanti dėl atliktų ūkinių operacijų ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityti turtu ir kurių dydį galima objektyviai nustatyti. ^s-52651ce485d67d3f3710f055
 
 
-9. Nuosavas kapitalas – ūkio subjekto turto dalis, likusi iš viso turto atėmus visus įsipareigojimus. ^900731fa1364b0b32760ddeb
+9. Nuosavas kapitalas – ūkio subjekto turto dalis, likusi iš viso turto atėmus visus įsipareigojimus. ^s-ccdb1af8dd670063d4d42dfa
 
 
-10. Paprastasis įrašas – ūkinių operacijų ir ūkinių įvykių registravimo būdas, kai nedaromas dvejybinis įrašas. ^a6fc664b41274a8abdffc62e
+10. Paprastasis įrašas – ūkinių operacijų ir ūkinių įvykių registravimo būdas, kai nedaromas dvejybinis įrašas. ^s-edc341aec5bf3309a04598dc
 
 
-11. Pinigų apskaitos dokumentas – popierinis liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio subjektui. ^2c8def88e0dc2fb80fc594b1
+11. Pinigų apskaitos dokumentas – popierinis liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio subjektui. ^s-8ccc6a0c3fc76b134f8fa287
 
 
-12. Sąskaitų planas – sąskaitų, kuriose sukaupiama informacija, parodanti ūkio subjekto turtą, nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas, sąrašas. ^6257d03f31117e1118cb1c28
+12. Sąskaitų planas – sąskaitų, kuriose sukaupiama informacija, parodanti ūkio subjekto turtą, nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas, sąrašas. ^s-b557fba684c3228d7980c12d
 
 
-13. Supaprastinta apskaita – apskaita, tvarkoma darant paprastąjį įrašą. ^496d8dfe2724410cc593e441
+13. Supaprastinta apskaita – apskaita, tvarkoma darant paprastąjį įrašą. ^s-6efe17ed098b495b89247882
 
 
-14. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo. ^bbbea2346930e4a78054c138
+14. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo. ^s-61511190f4ef6f4c70bdcf71
 
 
-15. Tarptautiniai viešojo sektoriaus apskaitos standartai – Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos patvirtintos viešojo sektoriaus subjektų ūkinių operacijų ir ūkinių įvykių registravimo apskaitoje ir finansinių ataskaitų sudarymo taisyklės. ^bc4e1013baf01683704e30bf
+15. Tarptautiniai viešojo sektoriaus apskaitos standartai – Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos patvirtintos viešojo sektoriaus subjektų ūkinių operacijų ir ūkinių įvykių registravimo apskaitoje ir finansinių ataskaitų sudarymo taisyklės. ^s-8fd1622d3d07431b7ab24d7b
 
 
-16. Turtas – materialiosios, nematerialiosios ir finansinės vertybės, kurias valdo ir naudoja ir (arba) kuriomis disponuoja ūkio subjektas ir kurias naudojant tikimasi gauti ekonominės naudos. ^2a5daf777ef75576678fb253
+16. Turtas – materialiosios, nematerialiosios ir finansinės vertybės, kurias valdo ir naudoja ir (arba) kuriomis disponuoja ūkio subjektas ir kurias naudojant tikimasi gauti ekonominės naudos. ^s-22f7a306c8c2a1676be6b6f5
 
 
-17. Ūkinė operacija – ūkio subjekto veikla, keičianti turto ir (arba) nuosavo kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą. ^41b3b8ab8587a641801964e1
+17. Ūkinė operacija – ūkio subjekto veikla, keičianti turto ir (arba) nuosavo kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą. ^s-06aca8b9e5985e9bde5cfe6e
 
 
-18. Ūkinis įvykis – nuo ūkio subjekto nepriklausantis faktas, keičiantis turto ir (arba) nuosavo kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą. ^02c88e2ac6ac2179b642eb4d
+18. Ūkinis įvykis – nuo ūkio subjekto nepriklausantis faktas, keičiantis turto ir (arba) nuosavo kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą. ^s-443044b0ed4e25f45559ddae
 
 
-19. Ūkio subjekto vadovas – juridinio asmens vadovas arba jo administracijos vadovas, arba išteklių ar mokesčių fondą administruojančio (jį tvarkančio) subjekto vadovas, arba ūkio subjekto, kuris neturi vadovo, savininkas, arba mažosios bendrijos atstovas, arba kolektyvinio investavimo subjekto ir pensijų fondo valdymo įmonės vadovas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys, kuris paskirtas vykdyti Lietuvos Respublikos civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas valdymo organo pareigas. ^217cd44891bc7dcc6ef2ffcc
+19. Ūkio subjekto vadovas – juridinio asmens vadovas arba jo administracijos vadovas, arba išteklių ar mokesčių fondą administruojančio (jį tvarkančio) subjekto vadovas, arba ūkio subjekto, kuris neturi vadovo, savininkas, arba mažosios bendrijos atstovas, arba kolektyvinio investavimo subjekto ir pensijų fondo valdymo įmonės vadovas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys, kuris paskirtas vykdyti Lietuvos Respublikos civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas valdymo organo pareigas. ^s-428b8338f2da9b6374751a0d
 
 
-20. Valdymo (vidaus) apskaita – informacijos, reikalingos ūkio subjektui valdyti, rinkimas, sisteminimas, įvertinimas ir pateikimas. ^c5bafdeddbebafcb92e96449
+20. Valdymo (vidaus) apskaita – informacijos, reikalingos ūkio subjektui valdyti, rinkimas, sisteminimas, įvertinimas ir pateikimas. ^s-53b1f4bca619a0a27e22d12a
 
 
-21. Vyriausiasis buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto buhalterinę apskaitą, arba struktūrinio buhalterinės apskaitos padalinio vadovas. ^9b226f7aa8f8316796271825
+21. Vyriausiasis buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto buhalterinę apskaitą, arba struktūrinio buhalterinės apskaitos padalinio vadovas. ^s-260fbfd3b846579de9f5c20a
 
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme (toliau – Įmonių finansinės atskaitomybės įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme (toliau – Viešojo sektoriaus atskaitomybės įstatymas) ir kituose teisės aktuose.“ ^1b5f1681cb618364a643c2cf
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme (toliau – Įmonių finansinės atskaitomybės įstatymas), [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]] (toliau – [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]]) ir kituose teisės aktuose.“ ^s-f32425229f9a93cea12010de
 
 
 Straipsnio pakeitimai:
@@ -140,149 +145,149 @@ Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr.
 
 
 
-### 3 straipsnis. 3 straipsnio 3, 4 ir 8 dalių pakeitimas
+### 3 straipsnis. 3 straipsnio 3, 4 ir 8 dalių pakeitimas ^s-4f42c8300511f05fbfdb3e20
 
 
-1. Pakeisti [[#^4680c850122c5fb624957408|3 straipsnio 3 dalį]] ir ją išdėstyti taip: ^97d3bd150ed4a10e3b389281
+1. Pakeisti [[#^s-1a2df83ea9ece3b88a7beb8c|3 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-f67e024d2caad614c8454991
 
 
 „3. Pagal tarptautinius apskaitos standartus apskaitą tvarko ūkio subjektai, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, finansų maklerio įmonės, reguliuojamos rinkos operatorius, Lietuvos centrinis vertybinių popierių depozitoriumas, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, ir valdymo įmonės, veikiančios pagal Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kredito įstaigos, išskyrus kredito unijas.“
 
 
-2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^41b86e490249733ca66fdd04
+2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^s-b85516e84929221d1695e41d
 
 
-„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^4680c850122c5fb624957408|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir „Valstybės žiniose“ skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti.“
+„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-1a2df83ea9ece3b88a7beb8c|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir „Valstybės žiniose“ skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti.“
 
 
-3. Pakeisti 3 straipsnio 8 dalį ir ją išdėstyti taip: ^4680c850122c5fb624957408
+3. Pakeisti 3 straipsnio 8 dalį ir ją išdėstyti taip: ^s-1a2df83ea9ece3b88a7beb8c
 
 
 „8. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų paaiškinimus teikia Finansų ministerija.“
 
 
 
-### 4 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-675c7653419cc04b967cfa80
 
 
-Pakeisti [[#^b2d7ebc624efb61be1a5d575|5 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-2951e41cff72ec31b03e45c8|5 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į litus pagal Lietuvos banko nustatytą lito ir užsienio valiutos santykį, galiojantį ūkinio įvykio arba ūkinės operacijos atlikimo dieną, arba pagal vadovaujantis kitais teisės aktais nustatytą lito ir užsienio valiutos santykį.“
 
 
 
-### 5 straipsnis. 6 straipsnio pakeitimas
+### 5 straipsnis. 6 straipsnio pakeitimas ^s-c6ba520be9aacf216a332779
 
 
-Pakeisti [[#6 straipsnis. 7 straipsnio 2 dalies pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#6 straipsnis. 7 straipsnio 2 dalies pakeitimas|6 straipsnis]]. Apskaitos tvarkymo nustatymas ir parinkimas
-
-
-1. Apskaitos metodų visumą, nustatytą teisės aktuose, kuriais reglamentuojamas apskaitos tvarkymas ir finansinių ataskaitų sudarymas, lemia ūkio subjekto teisinė forma, ūkio subjekto dydis, veiklos pobūdis ir nuosavybės forma. ^815c47cbd1aefa181421bb02
-
-
-2. Į apskaitą privaloma įtraukti visas ūkines operacijas ir ūkinius įvykius, susijusius su turto, nuosavo kapitalo, finansavimo sumų, įsipareigojimų dydžio arba struktūros pasikeitimu. ^b2d7ebc624efb61be1a5d575
-
-
-3. Ūkio subjektai apskaitai tvarkyti taiko dvejybinio įrašo būdą. Gyventojai, kurie verčiasi individualia veikla, neribotos civilinės atsakomybės juridiniai asmenys, kurie nėra pridėtinės vertės mokesčio mokėtojai ir neturi samdomų darbuotojų ataskaitiniais ir praėjusiais ataskaitiniais metais, gali pasirinkti supaprastintą apskaitą. ^192d42549035ca4bfdb99976
-
-
-4. Apskaitos dokumentai ir apskaitos registrai sudaromi lietuvių kalba, o prireikus – ir lietuvių, ir užsienio kalbomis. Gauti dokumentai, sudaryti užsienio kalba, prireikus turi būti išversti į lietuvių kalbą. ^bbc90fbbb2828be75955529e
-
-
-5. Grynųjų pinigų priėmimo, išmokėjimo, jų apskaitos ir laikymo tvarką nustato Vyriausybė arba jos įgaliota institucija. ^daedad126d96c6733549a052
-
-
-6. Minimalią ilgalaikio materialiojo turto vertę viešojo sektoriaus subjektams nustato Vyriausybė. ^abd715f62c8feb90a1ee8c0f
-
-
-7. Ilgalaikio turto nusidėvėjimo minimalius ir maksimalius ekonominius normatyvus viešojo sektoriaus subjektams nustato Vyriausybė.“ ^c77e16a8e2f04a1f99fee115
+Pakeisti [[#^s-d1d114bc3447f2e39eedf7a3|6 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 7 straipsnio 2 dalies pakeitimas
+„[[#^s-d1d114bc3447f2e39eedf7a3|6 straipsnis]]. Apskaitos tvarkymo nustatymas ir parinkimas
 
 
-[[#^00933d6bfc1e0d4f67167922|7 straipsnio 2 dalyje]] išbraukti žodžius „išskyrus įmones, priskiriamas viešojo sektoriaus subjektams, ir Lietuvos banką“ ir šią dalį išdėstyti taip:
+1. Apskaitos metodų visumą, nustatytą teisės aktuose, kuriais reglamentuojamas apskaitos tvarkymas ir finansinių ataskaitų sudarymas, lemia ūkio subjekto teisinė forma, ūkio subjekto dydis, veiklos pobūdis ir nuosavybės forma. ^s-ee2e4724e269041139d3f7f9
+
+
+2. Į apskaitą privaloma įtraukti visas ūkines operacijas ir ūkinius įvykius, susijusius su turto, nuosavo kapitalo, finansavimo sumų, įsipareigojimų dydžio arba struktūros pasikeitimu. ^s-2951e41cff72ec31b03e45c8
+
+
+3. Ūkio subjektai apskaitai tvarkyti taiko dvejybinio įrašo būdą. Gyventojai, kurie verčiasi individualia veikla, neribotos civilinės atsakomybės juridiniai asmenys, kurie nėra pridėtinės vertės mokesčio mokėtojai ir neturi samdomų darbuotojų ataskaitiniais ir praėjusiais ataskaitiniais metais, gali pasirinkti supaprastintą apskaitą. ^s-033a65e5c75c763c15dc7c6c
+
+
+4. Apskaitos dokumentai ir apskaitos registrai sudaromi lietuvių kalba, o prireikus – ir lietuvių, ir užsienio kalbomis. Gauti dokumentai, sudaryti užsienio kalba, prireikus turi būti išversti į lietuvių kalbą. ^s-84fccca2e4a7389d5944a9f6
+
+
+5. Grynųjų pinigų priėmimo, išmokėjimo, jų apskaitos ir laikymo tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-d919922ce3a176156c337667
+
+
+6. Minimalią ilgalaikio materialiojo turto vertę viešojo sektoriaus subjektams nustato Vyriausybė. ^s-f777c376ad771d9db8e4106e
+
+
+7. Ilgalaikio turto nusidėvėjimo minimalius ir maksimalius ekonominius normatyvus viešojo sektoriaus subjektams nustato Vyriausybė.“ ^s-3b3557cf2c90771e61331938
+
+
+
+### 6 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-d1d114bc3447f2e39eedf7a3
+
+
+[[#^s-2a036e8c0d53ef3d1fb9962d|7 straipsnio 2 dalyje]] išbraukti žodžius „išskyrus įmones, priskiriamas viešojo sektoriaus subjektams, ir Lietuvos banką“ ir šią dalį išdėstyti taip:
 
 
 „2. Viešojo sektoriaus subjektams privalomąjį bendrąjį sąskaitų planą, kitiems pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims pavyzdinį sąskaitų planą rengia, tvirtina ir „Valstybės žiniose“ skelbia Finansų ministerija.“
 
 
 
-### 7 straipsnis. 9 straipsnio pakeitimas
+### 7 straipsnis. 9 straipsnio pakeitimas ^s-6309dc3d9c999826740f8da4
 
 
-Pakeisti [[#9 straipsnis. Neteko galios nuo 2015-05-30|9 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#9 straipsnis. Neteko galios nuo 2015-05-30|9 straipsnis]]. Apskaitos politika
-
-
-1. Ūkio subjekto vadovas turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į konkrečias sąlygas, veiklos pobūdį ir vadovaudamasis arba verslo apskaitos standartais, arba tarptautiniais apskaitos standartais, arba viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais, arba kitais teisės aktais, reglamentuojančiais apskaitą ir finansinę atskaitomybę. ^fcb52c7575ed1d1d47f88e25
-
-
-2. Ūkio subjekto vadovo patvirtintoje apskaitos politikoje turi būti nurodoma: ^00933d6bfc1e0d4f67167922
-
-
-1) ūkio subjekto apskaitai taikomi apskaitos standartai ar kiti teisės aktai, reglamentuojantys apskaitą ir finansinę atskaitomybę; ^1d481906b7f6103e0dd13e9a
-
-
-2) finansinių ataskaitų rinkinio sudėtis ir finansinėms ataskaitoms sudaryti taikomi apskaitos principai; ^703abe6bddfa2f3d46882805
-
-
-3) apskaitos metodai ir taisyklės, kuriais vadovaujamasi registruojant ūkio subjekto turtą, nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas, sąnaudas ir (ar) pinigų srautus.“ ^6d601d360075b74432c3b545
+Pakeisti [[#^s-5259b797e7bc1e7acb0be7b9|9 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. 10 straipsnio pakeitimas
+„[[#^s-5259b797e7bc1e7acb0be7b9|9 straipsnis]]. Apskaitos politika
 
 
-1. Pakeisti [[#10 straipsnis. Įstatymo papildymas 102 straipsniu|10 straipsnį]] ir jį išdėstyti taip: ^09408f965b178d970952141f
+1. Ūkio subjekto vadovas turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į konkrečias sąlygas, veiklos pobūdį ir vadovaudamasis arba verslo apskaitos standartais, arba tarptautiniais apskaitos standartais, arba viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais, arba kitais teisės aktais, reglamentuojančiais apskaitą ir finansinę atskaitomybę. ^s-3f079b1447f6958afd593f49
+
+
+2. Ūkio subjekto vadovo patvirtintoje apskaitos politikoje turi būti nurodoma: ^s-2a036e8c0d53ef3d1fb9962d
+
+
+1) ūkio subjekto apskaitai taikomi apskaitos standartai ar kiti teisės aktai, reglamentuojantys apskaitą ir finansinę atskaitomybę; ^s-30d5047f89c7beea5fa63afe
+
+
+2) finansinių ataskaitų rinkinio sudėtis ir finansinėms ataskaitoms sudaryti taikomi apskaitos principai; ^s-0ae6518388eac3de5ab338e6
+
+
+3) apskaitos metodai ir taisyklės, kuriais vadovaujamasi registruojant ūkio subjekto turtą, nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas, sąnaudas ir (ar) pinigų srautus.“ ^s-b1cd96f479754592aa5ace4d
+
+
+
+### 8 straipsnis. 10 straipsnio pakeitimas ^s-b0a86797189b1e75e88639b9
+
+
+1. Pakeisti [[#^s-c997de005d542723f59c952b|10 straipsnį]] ir jį išdėstyti taip: ^s-36b6d2434ede5c7f2c33accd
 
 
 
 
 
-„[[#10 straipsnis. Įstatymo papildymas 102 straipsniu|10 straipsnis]]. Apskaitos tvarkymas
+„[[#^s-c997de005d542723f59c952b|10 straipsnis]]. Apskaitos tvarkymas
 
 
-1. Ūkio subjekto apskaitą tvarko: ^3eeb1c580b2e2b15f274d3ed
+1. Ūkio subjekto apskaitą tvarko: ^s-1ae72c56129c75161151855c
 
 
-1) vyriausiasis buhalteris (buhalteris); ^fd07a89c33b53d372ede4750
+1) vyriausiasis buhalteris (buhalteris); ^s-debb4008a23879760169d429
 
 
-2) pagal sutartį apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo. ^3968ecf87329d21ed492c709
+2) pagal sutartį apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo. ^s-aced99034b988c0e996896b2
 
 
-2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio 5 ir [[#^eee5336c904de8a1bc948179|6 dalyse]] nustatytus atvejus. ^ff456959e72566db4140a5b7
+2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio 5 ir [[#^s-d9c608ef7b1e63a024d32922|6 dalyse]] nustatytus atvejus. ^s-22298519f1ad7bed364d22d9
 
 
-3. [[#^3968ecf87329d21ed492c709|Šio straipsnio 1 dalies 2 punkte]] nurodyti asmenys turi atitikti šio įstatymo 102 straipsnyje nustatytus reikalavimus. ^c4c601edd66c010f424f4ab9
+3. [[#^s-aced99034b988c0e996896b2|Šio straipsnio 1 dalies 2 punkte]] nurodyti asmenys turi atitikti šio įstatymo 102 straipsnyje nustatytus reikalavimus. ^s-5ae64b4a9de3e12c3b6b90cb
 
 
-4. Biudžetinių įstaigų apskaita tvarkoma [[#^fd07a89c33b53d372ede4750|šio straipsnio 1 dalies 1 punkte]] nustatyta tvarka arba centralizuotai. ^afa0e46aa089ef47f273431a
+4. Biudžetinių įstaigų apskaita tvarkoma [[#^s-debb4008a23879760169d429|šio straipsnio 1 dalies 1 punkte]] nustatyta tvarka arba centralizuotai. ^s-ae9621f15aff07d7efdfc410
 
 
-5. Mažosios bendrijos apskaitą, be [[#^3eeb1c580b2e2b15f274d3ed|šio straipsnio 1 dalyje]] nurodytų subjektų, gali tvarkyti tos bendrijos narys. ^942fb128187c37909f0079d5
+5. Mažosios bendrijos apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti tos bendrijos narys. ^s-1efe04e1b7dae778c0e2c914
 
 
-6. Individualios įmonės apskaitą, be [[#^3eeb1c580b2e2b15f274d3ed|šio straipsnio 1 dalyje]] nurodytų subjektų, gali tvarkyti tos įmonės savininkas. ^eee5336c904de8a1bc948179
+6. Individualios įmonės apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti tos įmonės savininkas. ^s-d9c608ef7b1e63a024d32922
 
 
-7. Ūkininko ūkio apskaitą, be [[#^3eeb1c580b2e2b15f274d3ed|šio straipsnio 1 dalyje]] nurodytų subjektų, gali tvarkyti pats ūkininkas arba ūkininko partneriai. ^f686d27b79aa0d1fa2a5ca81
+7. Ūkininko ūkio apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats ūkininkas arba ūkininko partneriai. ^s-78bc7380002e58df61f6021e
 
 
-8. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be [[#^3eeb1c580b2e2b15f274d3ed|šio straipsnio 1 dalyje]] nurodytų subjektų, gali tvarkyti pats gyventojas.“ ^4ddbaeeb2218c1827c1735b1
+8. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats gyventojas.“ ^s-30f0c487322fe0116f32e3bb
 
 
-2. Neteko galios nuo 2015-05-30 ^534da52ed6bd0e129ba5512b
+2. Neteko galios nuo 2015-05-30 ^s-d02e7510ac99ff3ae582694c
 Straipsnio dalies naikinimas:
 Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
 
@@ -293,13 +298,13 @@ Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr.
 
 
 
-### 9 straipsnis. Neteko galios nuo 2015-05-30
+### 9 straipsnis. Neteko galios nuo 2015-05-30 ^s-5259b797e7bc1e7acb0be7b9
 Straipsnio naikinimas:
 Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
 
 
 
-### 10 straipsnis. Įstatymo papildymas 102 straipsniu
+### 10 straipsnis. Įstatymo papildymas 102 straipsniu ^s-c997de005d542723f59c952b
 
 
 Papildyti Įstatymą 102 straipsniu:
@@ -309,17 +314,17 @@ Papildyti Įstatymą 102 straipsniu:
 „102 straipsnis. Apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens civilinės atsakomybės draudimas
 
 
-1. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo apdrausti savo civilinę atsakomybę bendrosios civilinės atsakomybės draudimu. Bendrosios civilinės atsakomybės draudimo sutartis sudaroma Lietuvos Respublikos teisės aktų nustatyta tvarka. ^d464f8caee2620c85be837f4
+1. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo apdrausti savo civilinę atsakomybę bendrosios civilinės atsakomybės draudimu. Bendrosios civilinės atsakomybės draudimo sutartis sudaroma Lietuvos Respublikos teisės aktų nustatyta tvarka. ^s-c364e0d6629e8135293c8e63
 
 
-2. Metinė bendrosios civilinės atsakomybės draudimo suma turi būti ne mažesnė kaip 10 000 Lt. ^f524cff9e4a2e89b9d19a3ec
+2. Metinė bendrosios civilinės atsakomybės draudimo suma turi būti ne mažesnė kaip 10 000 Lt. ^s-4392be28c435b7ef02062ec4
 
 
-3. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo būti apsidraudę bendrosios civilinės atsakomybės draudimu visą apskaitos paslaugų teikimo laikotarpį.“ ^03cc81408f957c106feef849
+3. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo būti apsidraudę bendrosios civilinės atsakomybės draudimu visą apskaitos paslaugų teikimo laikotarpį.“ ^s-3d545a54431827903c38622b
 
 
 
-### 11 straipsnis. 11 straipsnio pakeitimas
+### 11 straipsnis. 11 straipsnio pakeitimas ^s-edbe8cea86d5f78e6003d584
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -329,15 +334,15 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 „11 straipsnis. Atsakomybė už buhalterinių įrašų teisingumą
 
 
-1. Už buhalterinių įrašų teisingumą Lietuvos Respublikos teisės aktų nustatyta tvarka atsako vyriausiasis buhalteris (buhalteris) arba kiti šio įstatymo [[#10 straipsnis. Įstatymo papildymas 102 straipsniu|10 straipsnyje]] nurodyti asmenys, kurie tvarko ūkio subjekto apskaitą. ^6c7c427aaa309076514c0988
+1. Už buhalterinių įrašų teisingumą Lietuvos Respublikos teisės aktų nustatyta tvarka atsako vyriausiasis buhalteris (buhalteris) arba kiti šio įstatymo [[#^s-c997de005d542723f59c952b|10 straipsnyje]] nurodyti asmenys, kurie tvarko ūkio subjekto apskaitą. ^s-ba78826606a6ef0cf24d79ee
 
 
-2. Apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens, arba centralizuotai tvarkančios apskaitą biudžetinės įstaigos atsakomybė nustatoma rašytinėje sutartyje, sudaromoje su užsakovu. Prie sutarties pridedama apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens bendrosios civilinės atsakomybės draudimo sutartis.“ ^f2fb4da58e0e0b159653c1e9
+2. Apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens, arba centralizuotai tvarkančios apskaitą biudžetinės įstaigos atsakomybė nustatoma rašytinėje sutartyje, sudaromoje su užsakovu. Prie sutarties pridedama apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens bendrosios civilinės atsakomybės draudimo sutartis.“ ^s-437f75fe0b438ec448fecd50
 
 
 
 
-### 12 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
+### 12 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas ^s-44c256306ba219ca864c4337
 
 
 Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
@@ -350,23 +355,23 @@ KLAIDŲ TAISYMAS“.
 
 
 
-### 13 straipsnis. 12 straipsnio 2 ir 4 dalių pakeitimas
+### 13 straipsnis. 12 straipsnio 2 ir 4 dalių pakeitimas ^s-0c033ea3466af7317bb7a3f4
 
 
-1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^cb5862d64f6a1ed03693d9c6
+1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^s-7db0a40290f82ea6596e6dfb
 
 
-„2. Ūkinės operacijos ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos dokumentais, pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių apskaitos dokumentais, surašant buhalterinę pažymą, kuri turi šio įstatymo [[#^cb5862d64f6a1ed03693d9c6|13 straipsnio 1 dalyje]] nurodytus rekvizitus.“
+„2. Ūkinės operacijos ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos dokumentais, pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių apskaitos dokumentais, surašant buhalterinę pažymą, kuri turi šio įstatymo [[#^s-7db0a40290f82ea6596e6dfb|13 straipsnio 1 dalyje]] nurodytus rekvizitus.“
 
 
-2. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^0f72d40f6cb1014455f4e82a
+2. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^s-27164d8544008e23864963ab
 
 
 „4. Apskaitos registruose ūkinių operacijų ir ūkinių įvykių duomenys užregistruojami ūkinės operacijos arba ūkinio įvykio dieną, arba iškart po to, kai yra galimybė tai padaryti, bet ne vėliau kaip per 4 mėnesius.“
 
 
 
-### 14 straipsnis. 14 straipsnio pakeitimas
+### 14 straipsnis. 14 straipsnio pakeitimas ^s-1e268596cb594b8b56da6737
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -376,14 +381,14 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Apskaitos dokumentų pasirašymas
 
 
-1. Ūkio subjekto vadovas nustato apskaitos dokumentų pasirašymo tvarką ir asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą. Apskaitos dokumentai pasirašomi asmeniškai arba Lietuvos Respublikos elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo, arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudaromoje su užsakovu. ^9c357520ab0117172efa61ec
+1. Ūkio subjekto vadovas nustato apskaitos dokumentų pasirašymo tvarką ir asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą. Apskaitos dokumentai pasirašomi asmeniškai arba Lietuvos Respublikos elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo, arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudaromoje su užsakovu. ^s-6b72b30c63b7a84451fee165
 
 
-2. Už apskaitos dokumentų surašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos dokumentus surašę ir pasirašę asmenys. Ūkio subjekto vadovas atsako už teisingos, tikslios, išsamios ir laiku pateiktos informacijos apie ūkinius įvykius ir ūkines operacijas pateikimą vyriausiajam buhalteriui (buhalteriui) arba apskaitos paslaugas teikiančiai įmonei, arba apskaitos paslaugas savarankiškai teikiančiam asmeniui.“ ^0d078cfd2aacf9f8185f99b1
+2. Už apskaitos dokumentų surašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos dokumentus surašę ir pasirašę asmenys. Ūkio subjekto vadovas atsako už teisingos, tikslios, išsamios ir laiku pateiktos informacijos apie ūkinius įvykius ir ūkines operacijas pateikimą vyriausiajam buhalteriui (buhalteriui) arba apskaitos paslaugas teikiančiai įmonei, arba apskaitos paslaugas savarankiškai teikiančiam asmeniui.“ ^s-a828eb42181152696e9faebf
 
 
 
-### 15 straipsnis. 15 straipsnio pakeitimas
+### 15 straipsnis. 15 straipsnio pakeitimas ^s-a225beb0145c5297659d490d
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -393,14 +398,14 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Patikslinamieji apskaitos dokumentai
 
 
-1. Kai prekės grąžinamos, nukainojamos, parduodamos su nuolaida, kai suteikiamos apyvartos nuolaidos, taip pat kai taisomos apskaitos dokumentų, kuriais įforminamos pirkimo–pardavimo operacijos, išrašymo metu padarytos, bet vėliau pastebėtos klaidos ir kitais atvejais rašomi patikslinamieji apskaitos dokumentai. Patikslinamieji pinigų apskaitos dokumentai nesurašomi. Patikslinamąjį apskaitos dokumentą surašo ūkio subjektas, kuris surašė apskaitos dokumentą, kurį reikia tikslinti, arba šalių susitarimu ūkio subjektas, kuris gavo šį apskaitos dokumentą. ^dfca98f07675c735dca1e925
+1. Kai prekės grąžinamos, nukainojamos, parduodamos su nuolaida, kai suteikiamos apyvartos nuolaidos, taip pat kai taisomos apskaitos dokumentų, kuriais įforminamos pirkimo–pardavimo operacijos, išrašymo metu padarytos, bet vėliau pastebėtos klaidos ir kitais atvejais rašomi patikslinamieji apskaitos dokumentai. Patikslinamieji pinigų apskaitos dokumentai nesurašomi. Patikslinamąjį apskaitos dokumentą surašo ūkio subjektas, kuris surašė apskaitos dokumentą, kurį reikia tikslinti, arba šalių susitarimu ūkio subjektas, kuris gavo šį apskaitos dokumentą. ^s-7b78dadaa98bffc1c4965301
 
 
-2. Patikslinamajame apskaitos dokumente, be šio įstatymo [[#13 straipsnis. 12 straipsnio 2 ir 4 dalių pakeitimas|13 straipsnio]] 1 ir [[#^05bb669a4065d986f2137a4e|2 dalyse]] nurodytų rekvizitų, nurodomas tikslinamo dokumento pavadinimas ir jo surašymo data. Apyvartos nuolaidos suteikimo atveju surašytame patikslinamajame apskaitos dokumente nurodomas nuolaidos teikimo laikotarpis ir to laikotarpio apyvartos suma, nuo kurios teikiama nuolaida, o tikslinamo dokumento pavadinimas ir jo surašymo data nenurodomi.“ ^05bb669a4065d986f2137a4e
+2. Patikslinamajame apskaitos dokumente, be šio įstatymo [[#^s-0c033ea3466af7317bb7a3f4|13 straipsnio]] 1 ir [[#^s-aed3aa9d6170865c87a31af8|2 dalyse]] nurodytų rekvizitų, nurodomas tikslinamo dokumento pavadinimas ir jo surašymo data. Apyvartos nuolaidos suteikimo atveju surašytame patikslinamajame apskaitos dokumente nurodomas nuolaidos teikimo laikotarpis ir to laikotarpio apyvartos suma, nuo kurios teikiama nuolaida, o tikslinamo dokumento pavadinimas ir jo surašymo data nenurodomi.“ ^s-aed3aa9d6170865c87a31af8
 
 
 
-### 16 straipsnis. 16 straipsnio pakeitimas
+### 16 straipsnis. 16 straipsnio pakeitimas ^s-9d8f06203064e7b992f2af4e
 
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
@@ -410,55 +415,55 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 „16 straipsnis. Apskaitos registrai
 
 
-1. Ūkinių operacijų ir ūkinių įvykių duomenys registruojami apskaitos registruose. ^1860e21ec9ac40758bc6f08f
+1. Ūkinių operacijų ir ūkinių įvykių duomenys registruojami apskaitos registruose. ^s-170069d105805657805d3dd6
 
 
-2. Apskaitos registrų formą, turinį ir skaičių nusistato ūkio subjektas pagal savo poreikius. ^1a4d416c78b43ae5a2f3a14f
+2. Apskaitos registrų formą, turinį ir skaičių nusistato ūkio subjektas pagal savo poreikius. ^s-a832b1259ce1501cd049a307
 
 
-3. Apskaitos registruose ūkinės operacijos ir ūkiniai įvykiai registruojami pagal apskaitos dokumentus chronologine, sistemine, chronologine-sistemine tvarka. Apskaitos registrą pasirašo jį sudaręs asmuo asmeniškai arba saugiu kvalifikuotu elektroniniu parašu. ^11417c4109a645c8b1829785
+3. Apskaitos registruose ūkinės operacijos ir ūkiniai įvykiai registruojami pagal apskaitos dokumentus chronologine, sistemine, chronologine-sistemine tvarka. Apskaitos registrą pasirašo jį sudaręs asmuo asmeniškai arba saugiu kvalifikuotu elektroniniu parašu. ^s-6375829e3193e57574ac78c0
 
 
-4. Apskaitos registrai gali būti sudaromi rankiniu būdu arba techninėmis priemonėmis. ^005befcef828069c93792c50
+4. Apskaitos registrai gali būti sudaromi rankiniu būdu arba techninėmis priemonėmis. ^s-46f133a506fe52827a113f0d
 
 
-5. Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka ir atvejais viešojo sektoriaus subjektai ir ūkio subjektai, sudarydami apskaitos registrus techninėmis priemonėmis, vadovaujasi Vyriausybės arba jos įgaliotos institucijos parengta standartinės apskaitos duomenų rinkmenos technine specifikacija ir techniniais reikalavimais, pagal kuriuos vidaus ir išorės apskaitos dokumentų informacijos naudotojams apskaitos dokumentų duomenys būtų teikiami standartinėje apskaitos duomenų rinkmenoje.“ ^f15aaf7baddecab2e2ad05ae
+5. Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka ir atvejais viešojo sektoriaus subjektai ir ūkio subjektai, sudarydami apskaitos registrus techninėmis priemonėmis, vadovaujasi Vyriausybės arba jos įgaliotos institucijos parengta standartinės apskaitos duomenų rinkmenos technine specifikacija ir techniniais reikalavimais, pagal kuriuos vidaus ir išorės apskaitos dokumentų informacijos naudotojams apskaitos dokumentų duomenys būtų teikiami standartinėje apskaitos duomenų rinkmenoje.“ ^s-ba671dd85e53e0a3b5d9a0ea
 
 
 
-### 17 straipsnis. 18 straipsnio 1 ir 4 dalių pakeitimas
+### 17 straipsnis. 18 straipsnio 1 ir 4 dalių pakeitimas ^s-e70157d85d2ee1aefbe5f63e
 
 
-1. Pakeisti [[#^5ecb03eb83297bac55f34653|18 straipsnio 1 dalį]] ir ją išdėstyti taip: ^562c7f5ac1fbc79f46668369
+1. Pakeisti [[#^s-adc8fc9e0eac409aa369fb82|18 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-d849da3489a1d69bd79e13a2
 
 
 „1. Pinigų apskaitos dokumentus taisyti draudžiama. Jeigu padaryta klaida, pinigų apskaitos dokumentas anuliuojamas ir laikomas negaliojančiu, po to surašomas naujas pinigų apskaitos dokumentas.“
 
 
-2. Pakeisti 18 straipsnio 4 dalį ir ją išdėstyti taip: ^d6590b41fa7c5c0d9688777a
+2. Pakeisti 18 straipsnio 4 dalį ir ją išdėstyti taip: ^s-6d7c1ecbf0c9d657c9e7efb7
 
 
-„4. Klaidos apskaitos registruose, pastebėtos iki metinių finansinių ataskaitų sudarymo ir patvirtinimo, gali būti taisomos perbraukiant klaidingą tekstą ir skaičių taip, kad būtų galima juos perskaityti, ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę pažymą. Šalia ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir nurodoma taisymo data. Klaidos apskaitos registruose, pastebėtos po metinių finansinių ataskaitų sudarymo ir patvirtinimo, taisomos tik einamaisiais finansiniais metais surašant buhalterinę pažymą, kuri turi šio įstatymo [[#^cb5862d64f6a1ed03693d9c6|13 straipsnio 1 dalyje]] nurodytus rekvizitus.“
+„4. Klaidos apskaitos registruose, pastebėtos iki metinių finansinių ataskaitų sudarymo ir patvirtinimo, gali būti taisomos perbraukiant klaidingą tekstą ir skaičių taip, kad būtų galima juos perskaityti, ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę pažymą. Šalia ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir nurodoma taisymo data. Klaidos apskaitos registruose, pastebėtos po metinių finansinių ataskaitų sudarymo ir patvirtinimo, taisomos tik einamaisiais finansiniais metais surašant buhalterinę pažymą, kuri turi šio įstatymo [[#^s-7db0a40290f82ea6596e6dfb|13 straipsnio 1 dalyje]] nurodytus rekvizitus.“
 
 
 
-### 18 straipsnis. 19 straipsnio 2 ir 5 dalių pakeitimas
+### 18 straipsnis. 19 straipsnio 2 ir 5 dalių pakeitimas ^s-864eb5bad6fb0a82ab094e4e
 
 
-1. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^5ecb03eb83297bac55f34653
+1. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^s-adc8fc9e0eac409aa369fb82
 
 
-„2. Patvirtinus finansines ataskaitas, apskaitos dokumentai ir apskaitos registrai saugomi ūkio subjekto vadovo nustatyta tvarka vadovaujantis Lietuvos Respublikos dokumentų ir archyvų įstatymo (toliau – Dokumentų ir archyvų įstatymas) nuostatomis.“
+„2. Patvirtinus finansines ataskaitas, apskaitos dokumentai ir apskaitos registrai saugomi ūkio subjekto vadovo nustatyta tvarka vadovaujantis [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] (toliau – [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymas]]) nuostatomis.“
 
 
-2. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip: ^2cf63adb93287b9f95c2357e
+2. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip: ^s-5565adbfdaccbfca3f8d4258
 
 
 „5. Jeigu pasikeičia ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo, ūkio subjekto vadovo nustatyta tvarka ir per nustatytą laikotarpį ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo apskaitos dokumentus, apskaitos registrus ir sudarytas finansines ataskaitas perduoda tvarkyti ūkio subjekto vadovo paskirtam asmeniui.“
 
 
 
-### 19 straipsnis. 20 straipsnio 2 dalies pakeitimas
+### 19 straipsnis. 20 straipsnio 2 dalies pakeitimas ^s-0518ab7ba81f93f92ecd768d
 
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -468,7 +473,7 @@ Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 20 straipsnis. Penktojo skirsnio pavadinimo pakeitimas
+### 20 straipsnis. Penktojo skirsnio pavadinimo pakeitimas ^s-333565e0a89a8d08f9b59a95
 
 
 Pakeisti penktojo skirsnio pavadinimą ir jį išdėstyti taip:
@@ -480,24 +485,24 @@ ATSAKOMYBĖ UŽ APSKAITOS ORGANIZAVIMĄ, APSKAITOS DOKUMENTŲ IR APSKAITOS REGIS
 
 
 
-### 21 straipsnis. 21 straipsnio pakeitimas
+### 21 straipsnis. 21 straipsnio pakeitimas ^s-0b8023c19862c145fe337542
 
 
-Pakeisti 21 straipsnio pavadinimą, [[#^c45dde6be48f39cdfabcb7de|2 dalyje]] po žodžio „dokumentų“ įrašyti žodžius „ir apskaitos registrų“ ir visą straipsnį išdėstyti taip:
+Pakeisti 21 straipsnio pavadinimą, [[#^s-964d997247c7db1d937269d4|2 dalyje]] po žodžio „dokumentų“ įrašyti žodžius „ir apskaitos registrų“ ir visą straipsnį išdėstyti taip:
 
 
 
 „21 straipsnis. Atsakomybė už apskaitos organizavimą, apskaitos dokumentų ir apskaitos registrų išsaugojimą
 
 
-1. Už apskaitos organizavimą pagal šio įstatymo reikalavimus atsako ūkio subjekto vadovas. ^9421481964edc5493c34c2f7
+1. Už apskaitos organizavimą pagal šio įstatymo reikalavimus atsako ūkio subjekto vadovas. ^s-80ba27229c0bee106c8a2f21
 
 
-2. Už apskaitos dokumentų ir apskaitos registrų išsaugojimą įstatymų nustatyta tvarka atsako ūkio subjekto vadovas.“ ^c45dde6be48f39cdfabcb7de
+2. Už apskaitos dokumentų ir apskaitos registrų išsaugojimą įstatymų nustatyta tvarka atsako ūkio subjekto vadovas.“ ^s-964d997247c7db1d937269d4
 
 
 
-### 22 straipsnis. Įstatymo priedo 3 punkto pakeitimas
+### 22 straipsnis. Įstatymo priedo 3 punkto pakeitimas ^s-d40ba3efe167d79ccf360398
 
 
 Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
@@ -507,27 +512,27 @@ Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 
 
 
-### 23 straipsnis. Baigiamosios nuostatos
+### 23 straipsnis. Baigiamosios nuostatos ^s-60efe512b925c0f18034fd77
 
 
-1. Šis įstatymas, išskyrus [[#^56db2d3c53a7602350b44ceb|šio straipsnio 2 dalyje]] nustatytą atvejį ir šio įstatymo [[#16 straipsnis. 16 straipsnio pakeitimas|16 straipsniu]] keičiamo [[#^f15aaf7baddecab2e2ad05ae|16 straipsnio 5 dalį]], įsigalioja 2013 m. sausio 1 d. ^ee89b6c285ff1dfa241591c4
+1. Šis įstatymas, išskyrus [[#^s-dc405037bd8ff4c4895143cf|šio straipsnio 2 dalyje]] nustatytą atvejį ir šio įstatymo [[#^s-9d8f06203064e7b992f2af4e|16 straipsniu]] keičiamo [[#^s-ba671dd85e53e0a3b5d9a0ea|16 straipsnio 5 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-3570ea3ee461d564a95007a3
 Straipsnio dalies pakeitimai:
 Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. [[latest/TAR.F38A838F5A24|1121010ISTA0XI-2174]]
 Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
 
 
 
-2. Šio įstatymo [[#^41b86e490249733ca66fdd04|3 straipsnio 2 dalis]] dėl Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromo kolegialaus patariamojo organo – Apskaitos standartų komiteto – įsigalioja 2012 m. gegužės 1 d. ^56db2d3c53a7602350b44ceb
+2. Šio įstatymo [[#^s-b85516e84929221d1695e41d|3 straipsnio 2 dalis]] dėl Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromo kolegialaus patariamojo organo – Apskaitos standartų komiteto – įsigalioja 2012 m. gegužės 1 d. ^s-dc405037bd8ff4c4895143cf
 
 
-3. Šio įstatymo [[#16 straipsnis. 16 straipsnio pakeitimas|16 straipsniu]] keičiamo [[#^f15aaf7baddecab2e2ad05ae|16 straipsnio 5 dalis]] įsigalioja 2016 m. sausio 1 d. ^6b3d771e0fd7154455d2e54a
+3. Šio įstatymo [[#^s-9d8f06203064e7b992f2af4e|16 straipsniu]] keičiamo [[#^s-ba671dd85e53e0a3b5d9a0ea|16 straipsnio 5 dalis]] įsigalioja 2016 m. sausio 1 d. ^s-ec7306c719eab71fc925cc5c
 Straipsnio dalies pakeitimai:
 Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. [[latest/TAR.F38A838F5A24|1121010ISTA0XI-2174]]
 Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
 
 
 
-4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus. ^9dbbef3a6f1a20533d128f97
+4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-4ff8c515842a2d73f7be20ac
 
 
 
@@ -546,9 +551,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. [[latest/TAR.F38A838F5A24|1121010ISTA0XI-2174]]
-Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, [[#21 straipsnis. 21 straipsnio pakeitimas|21 straipsnių]], trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo 2, 8 ir [[#23 straipsnis. Baigiamosios nuostatos|23 straipsnių]] pakeitimo įstatymas
+[[latest/TAR.F38A838F5A24|Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo 2, 8 ir 23 straipsnių pakeitimo įstatymas]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
-Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, [[#21 straipsnis. 21 straipsnio pakeitimas|21 straipsnių]], trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, [[#23 straipsnis. Baigiamosios nuostatos|23 straipsnių]] pakeitimo ir [[#9 straipsnis. Neteko galios nuo 2015-05-30|9 straipsnio]] pripažinimo netekusiu galios įstatymas
+[[latest/TAR.43178AA9832E#^s-e708f0819ed8305843b44b2e|Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, [[#^s-0b8023c19862c145fe337542\|21 straipsnių]]]], trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, [[#^s-60efe512b925c0f18034fd77|23 straipsnių]] pakeitimo ir [[#^s-5259b797e7bc1e7acb0be7b9|9 straipsnio]] pripažinimo netekusiu galios įstatymas

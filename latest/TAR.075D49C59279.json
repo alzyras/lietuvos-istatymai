@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.075D49C59279.md",
   "latest_revision": "1991-09-01",
-  "latest_sha256": "1812b4bcf68d25abca54b711b26ffbeb50ade60dd8d681e29f2ee0e41f389440",
+  "latest_sha256": "d8abde3f934fd355770ac5195bd4f3efbeb779bc86e5e678fb50d53fe8c189b6",
   "metadata_path": "latest/TAR.075D49C59279.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos žemės reformos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

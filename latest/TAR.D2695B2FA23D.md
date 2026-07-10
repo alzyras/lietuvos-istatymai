@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2695B2FA23D"
 pavadinimas: "Dėl Lietuvos Respublikos 1991 m. valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
+aliases:
+  - "Dėl Lietuvos Respublikos 1991 m. valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-04-13"
 latest_path: "latest/TAR.D2695B2FA23D.md"
 latest_sha256: "78b594688b8fe8927b905f9a15b2e495bcd4af09261f64f477bcf705a7d97339"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2695B2FA23D]]"
 ---
 # Dėl Lietuvos Respublikos 1991 m. valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2695B2FA23D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2695B2FA23D
+- Ryšiai: [[Ryšiai/TAR.D2695B2FA23D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

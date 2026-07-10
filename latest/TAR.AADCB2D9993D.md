@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AADCB2D9993D"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-07"
 latest_path: "latest/TAR.AADCB2D9993D.md"
 latest_sha256: "a06f2a5e6f006b471968f35eeb7db01636ecb9cd01d79654342f50dde2de5d79"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AADCB2D9993D]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AADCB2D9993D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AADCB2D9993D
+- Ryšiai: [[Ryšiai/TAR.AADCB2D9993D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Nr. 116-5258)
 
 
 
-### 1 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-fbcf9a28dc667522427c1b5c
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:

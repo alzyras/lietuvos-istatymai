@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4C7D419A96D5"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 64 ir 65 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 64 ir 65 straipsnių papildymo ir pakeitimo įstatymas"
+  - "viešųjų pirkimų įstatymo 64 ir 65 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-13"
 latest_path: "latest/TAR.4C7D419A96D5.md"
 latest_sha256: "12278350b03c9f63916a14d39abb8e006c930a95993539b3f493e847b9231aa4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4C7D419A96D5]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 64 ir 65 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4C7D419A96D5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4C7D419A96D5
+- Ryšiai: [[Ryšiai/TAR.4C7D419A96D5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 64 straipsnio papildymas 3 dalimi
+### 1 straipsnis. 64 straipsnio papildymas 3 dalimi ^s-5cfcca1d6f25114cb18d2f10
 
 
 Papildyti 64 straipsnį 3 dalimi:
@@ -41,7 +46,7 @@ Papildyti 64 straipsnį 3 dalimi:
 
 
 
-### 2 straipsnis. 65 straipsnio 5 dalies 5 punkto pripažinimas netekusiu galios
+### 2 straipsnis. 65 straipsnio 5 dalies 5 punkto pripažinimas netekusiu galios ^s-eba60b2a233b90fb7457f270
 
 
 65 straipsnio 5 dalies 5 punktą pripažinti netekusiu galios.

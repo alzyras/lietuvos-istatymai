@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FF9DFAB7EBC9"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir Įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir Įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir Įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-02-01"
 latest_path: "latest/TAR.FF9DFAB7EBC9.md"
 latest_sha256: "dd246fa9ae14cde7a26a355c755940ddb752b6b2c33d975b9e8b6002fda2af18"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FF9DFAB7EBC9]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir Įstatymo priedėlio IV skirsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FF9DFAB7EBC9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FF9DFAB7EBC9
+- Ryšiai: [[Ryšiai/TAR.FF9DFAB7EBC9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,27 +40,27 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies 4 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 2 straipsnio 3 dalies 4 punkto pripažinimas netekusiu galios ^s-63907aaa30cd770114f96c9f
 
 
 2 straipsnio 3 dalies 4 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis.         Įstatymo priedėlio IV skirsnio 3 punkto pripažinimas netekusiu galios
+### 2 straipsnis.         Įstatymo priedėlio IV skirsnio 3 punkto pripažinimas netekusiu galios ^s-d51275c209da1e5487c0cd46
 
 
 Įstatymo priedėlio IV skirsnio „Valstybės pareigūnų pareiginės algos“ 3 punktą pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-d6bea3d1fa071ca97d9917e7
 
 
-1. Šis įstatymas įsigalioja 2009 m. vasario 1 d. ^78182be530194476ffed990b
+1. Šis įstatymas įsigalioja 2009 m. vasario 1 d. ^s-20fe50d63c0b620527f4a902
 
 
-2. Iki šio įstatymo įsigaliojimo paskirtam Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatos. ^8437328f967ea9bc654746e9
+2. Iki šio įstatymo įsigaliojimo paskirtam Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatos. ^s-3712567560cb3e07dee9d8e9
 
 
 

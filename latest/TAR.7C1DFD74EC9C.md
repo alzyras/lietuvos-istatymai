@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7C1DFD74EC9C"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4, 7, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4, 7, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 4, 7, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-03-01"
 latest_path: "latest/TAR.7C1DFD74EC9C.md"
 latest_sha256: "276a4ee76e1f9c06a51fffb0e1973c49ee76ad7cb02329313764a57dd735ca66"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7C1DFD74EC9C]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4, 7, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7C1DFD74EC9C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7C1DFD74EC9C
+- Ryšiai: [[Ryšiai/TAR.7C1DFD74EC9C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,146 +36,146 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies, 2 dalies 3, 4 punktų pakeitimas ir 5 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 4 straipsnio 1 dalies, 2 dalies 3, 4 punktų pakeitimas ir 5 punkto pripažinimas netekusiu galios ^s-2b4651b391513753d013eff4
 
 
-1. [[#^e34f54fb4747345352ba6713|4 straipsnio 1 dalyje]] po žodžių „pavestas funkcijas“ įrašyti žodžius „ir suteiktus įgaliojimus“, po žodžių „objekto valdytojas“ įrašyti žodžius „ir įgaliotas asmuo“ ir šią dalį išdėstyti taip: ^1a6d0fb0d785ace27fb97105
+1. [[#^s-775828cda438ffc8622e4e79|4 straipsnio 1 dalyje]] po žodžių „pavestas funkcijas“ įrašyti žodžius „ir suteiktus įgaliojimus“, po žodžių „objekto valdytojas“ įrašyti žodžius „ir įgaliotas asmuo“ ir šią dalį išdėstyti taip: ^s-69e286a174e2c841a30861ef
 
 
 „1. Turto fondas, vykdydamas šio bei Valstybės turto fondo įstatymų jam pavestas funkcijas ir suteiktus įgaliojimus valstybės ir savivaldybių turto privatizavimo srityje, veikia kaip privatizavimo objekto valdytojas ir įgaliotas asmuo, privatizuojantis valstybei nuosavybės teise priklausantį turtą. Pagal atskiras sutartis su savivaldybėmis Turto fondas taip pat gali veikti kaip atskiros savivaldybės atstovas, privatizuojantis savivaldybei nuosavybės teise priklausantį turtą.“
 
 
-2. Pakeisti 4 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^22edc310c7efdeaeeccb0797
+2. Pakeisti 4 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^s-dc9c912862b16a8ec852fc00
 
 
 „3) viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka sudaro viešojo pirkimo–pardavimo sutartis privatizavimo užduotims atlikti (įskaitant privatizavimo objektų vertinimą);“.
 
 
-3. Pakeisti 4 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip: ^e048154adf20812b0419fc01
+3. Pakeisti 4 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip: ^s-e3579b241edcb904e08dcf0f
 
 
 „4) turto ir verslo vertinimą reglamentuojančių teisės aktų nustatyta tvarka vertina privatizavimo objektą;“.
 
 
-4. 4 straipsnio 2 dalies 5 punktą pripažinti netekusiu galios. ^3278abf5a4a23971459c89f9
+4. 4 straipsnio 2 dalies 5 punktą pripažinti netekusiu galios. ^s-8481efc776b2ea8bdf65e44a
 
 
 
-### 2 straipsnis. 7 straipsnio 3 dalies 2, 3 ir 4 punktų pakeitimas, papildymas 7 punktu ir 4 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 3 dalies 2, 3 ir 4 punktų pakeitimas, papildymas 7 punktu ir 4 dalies pakeitimas ^s-a3a99a4a874a8d2831bf1175
 
 
-1. 7 straipsnio 3 dalies 2 punkte išbraukti žodžius „smulkaus ir vidutinio verslo skatinimo fondui formuoti bei“ ir žodį „šalies“ ir šį punktą išdėstyti taip: ^7f232ac9957b94333191b934
+1. 7 straipsnio 3 dalies 2 punkte išbraukti žodžius „smulkaus ir vidutinio verslo skatinimo fondui formuoti bei“ ir žodį „šalies“ ir šį punktą išdėstyti taip: ^s-467047a5048891101501acf8
 
 
 „2) Vyriausybės patvirtintoms programoms įgyvendinti (iki 1/3 iš privatizavimo gautų lėšų);“.
 
 
-2. Pakeisti 7 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^678f5ea28590ee39a136c283
+2. Pakeisti 7 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^s-8eb2a681d463f540e4bc4d65
 
 
 „3) Garantiniam fondui pagal atskirą programą;“.
 
 
-3. 7 straipsnio 3 dalies 4 punkte po žodžio „įstatyme“ įrašyti žodžius „ir kituose teisės aktuose“ ir šį punktą išdėstyti taip: ^91e4635267eadceb49a86ae1
+3. 7 straipsnio 3 dalies 4 punkte po žodžio „įstatyme“ įrašyti žodžius „ir kituose teisės aktuose“ ir šį punktą išdėstyti taip: ^s-6be3f50df918a594086c8aea
 
 
 „4) išlaidoms, susijusioms su šiame įstatyme ir kituose teisės aktuose nustatytų Privatizavimo komisijos ir Turto fondo funkcijų įgyvendinimu;“.
 
 
-4. 7 straipsnio 4 dalies trečiame sakinyje išbraukti žodžius „kas pusę metų“ ir šią dalį išdėstyti taip: ^6d45d7021783208e45de9fe7
+4. 7 straipsnio 4 dalies trečiame sakinyje išbraukti žodžius „kas pusę metų“ ir šią dalį išdėstyti taip: ^s-aa48c3f702e2573c8156bb30
 
 
-„4. Turto fondui pervedama privatizavimo lėšų dalis nustatoma procentais nuo [[#^7f232ac9957b94333191b934|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų pajamų, gautų pinigais, į privatizavimo fondo sąskaitą. Šį procentą Finansų ministerijos teikimu kas pusę metų tvirtina Vyriausybė. Privatizavimo komisijos funkcijoms įgyvendinti lėšas pagal Finansų ministerijos pateiktą sąmatą skiria Vyriausybė. Vyriausybė nustato ir privatizavimo fondo lėšų apskaitos ir naudojimo tvarką. Vyriausybė periodiškai informuoja Seimą apie privatizavimo lėšų naudojimą.“
+„4. Turto fondui pervedama privatizavimo lėšų dalis nustatoma procentais nuo [[#^s-467047a5048891101501acf8|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų pajamų, gautų pinigais, į privatizavimo fondo sąskaitą. Šį procentą Finansų ministerijos teikimu kas pusę metų tvirtina Vyriausybė. Privatizavimo komisijos funkcijoms įgyvendinti lėšas pagal Finansų ministerijos pateiktą sąmatą skiria Vyriausybė. Vyriausybė nustato ir privatizavimo fondo lėšų apskaitos ir naudojimo tvarką. Vyriausybė periodiškai informuoja Seimą apie privatizavimo lėšų naudojimą.“
 
 
-### 3 straipsnis. 9 straipsnio pakeitimas
+### 3 straipsnis. 9 straipsnio pakeitimas ^s-13beecb6a64d4ce86c5fc3d4
 
 
-Pakeisti [[#9 straipsnis. 19 straipsnio 2 dalies 2 punkto ir 6 dalies 2 punkto pakeitimas|9 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-bd03e02d3b0186695546d472|9 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#9 straipsnis. 19 straipsnio 2 dalies 2 punkto ir 6 dalies 2 punkto pakeitimas|9 straipsnis]]. Privatizavimo objekto vertinimas
+„[[#^s-bd03e02d3b0186695546d472|9 straipsnis]]. Privatizavimo objekto vertinimas
 
 
-1. Privatizavimo objektas vertinamas Turto ir verslo vertinimo pagrindų įstatyme nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šis įstatymas nustato kitaip. ^c17b8ea807d6c6a7ea1dd372
+1. Privatizavimo objektas vertinamas Turto ir verslo vertinimo pagrindų įstatyme nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šis įstatymas nustato kitaip. ^s-5cbe15b1fcf21bba5187216e
 
 
-2. Vyriausybė turi teisę nustatyti supaprastintus vertės nustatymo metodus ir jų derinius, kurie privatizavimo institucijos sprendimu gali būti taikomi tais atvejais, kai parduodama mažiau kaip 1/3 įmonės akcijų. ^7c1d048d8cbb0ab20f474224
+2. Vyriausybė turi teisę nustatyti supaprastintus vertės nustatymo metodus ir jų derinius, kurie privatizavimo institucijos sprendimu gali būti taikomi tais atvejais, kai parduodama mažiau kaip 1/3 įmonės akcijų. ^s-ac722272e8ea80fdc6fd1de5
 
 
-3. Turto ir verslo vertinimo pagrindų įstatyme nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama vertybinių popierių biržoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. ^a3ae8bda7e83c38b064acff2
+3. Turto ir verslo vertinimo pagrindų įstatyme nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama vertybinių popierių biržoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. ^s-54d07187e34973623402648e
 
 
-4. Vertinant valstybei ar savivaldybei nuosavybės teise priklausančius privatizuojamus statinius ir įrenginius ar jų dalis, turi būti įvertintas šiems statiniams ir įrenginiams nustatyta tvarka priskirtas žemės sklypas ar jo dalis. ^345b3e7de76ad9786507043e
+4. Vertinant valstybei ar savivaldybei nuosavybės teise priklausančius privatizuojamus statinius ir įrenginius ar jų dalis, turi būti įvertintas šiems statiniams ir įrenginiams nustatyta tvarka priskirtas žemės sklypas ar jo dalis. ^s-928af956ad575332d3803d26
 
 
-5. Privatizavimo objektą vertina Turto fondas arba viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka parinktos turtą vertinančios įmonės. ^8353b003ab759b6181a92a16
+5. Privatizavimo objektą vertina Turto fondas arba viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka parinktos turtą vertinančios įmonės. ^s-8c07a12c106074ee32e061e3
 
 
-6. Turtą vertinantys asmenys teisės aktų ir sutartyje dėl turto įvertinimo nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų.“ ^a7488ced92fde2198703e2c8
+6. Turtą vertinantys asmenys teisės aktų ir sutartyje dėl turto įvertinimo nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų.“ ^s-a1984282e4eb903a5cca153a
 
 
-### 4 straipsnis. 10 straipsnio 1, 4, 12 dalių pakeitimas ir 11 dalies pripažinimas netekusia galios
+### 4 straipsnis. 10 straipsnio 1, 4, 12 dalių pakeitimas ir 11 dalies pripažinimas netekusia galios ^s-4fb2b37a343ede0eb6ef9d4f
 
 
-1. 10 straipsnio 1 dalies 2 punkte išbraukti žodžius „objekto balansinė likutinė vertė“ ir šį punktą išdėstyti taip: ^e34f54fb4747345352ba6713
+1. 10 straipsnio 1 dalies 2 punkte išbraukti žodžius „objekto balansinė likutinė vertė“ ir šį punktą išdėstyti taip: ^s-775828cda438ffc8622e4e79
 
 
 „2) privatizavimo objekto pavadinimas, trumpa objekto charakteristika – kai privatizuojamas kitas turtas.“
 
 
-2. 10 straipsnio 4 dalies 3 punkte prieš žodį „privatizavimo“ įrašyti žodį „trumpa“, po žodžio „objekto“ išbraukti žodį „trumpa“, po žodžių „įstatinis kapitalas“ išbraukti „arba vertė“ ir šį punktą išdėstyti taip: ^5be230a407e6e5401a64e60e
+2. 10 straipsnio 4 dalies 3 punkte prieš žodį „privatizavimo“ įrašyti žodį „trumpa“, po žodžio „objekto“ išbraukti žodį „trumpa“, po žodžių „įstatinis kapitalas“ išbraukti „arba vertė“ ir šį punktą išdėstyti taip: ^s-2cb1b3cf93f41019c8845d5d
 
 
 „3) trumpa privatizavimo objekto charakteristika (įstatinis kapitalas, valstybei ar savivaldybei tenkančių akcijų nominali vertė, įstatinio kapitalo rentabilumas, gamybos apimtis ar metinė apyvarta, darbuotojų skaičius, pagrindinės veiklos pobūdis, geografinė padėtis, informacija apie valstybės ar savivaldybės kontroliuojamos įmonės produkcijos ar paslaugų dalį rinkoje ir trečiųjų asmenų teises į tokią įmonę);“.
 
 
-3. 10 straipsnio 11 dalį pripažinti netekusia galios. ^1f22f6aa4fc71124945cd709
+3. 10 straipsnio 11 dalį pripažinti netekusia galios. ^s-72649165743ef0cba795be1f
 
 
-4. 10 straipsnio 12 dalies pirmame sakinyje po žodžių „tvarkos, taip pat“ įrašyti žodį „valstybės“, papildyti dalį trečiu sakiniu ir šią dalį išdėstyti taip: ^edba19a8f9e0f7f5f6945551
+4. 10 straipsnio 12 dalies pirmame sakinyje po žodžių „tvarkos, taip pat“ įrašyti žodį „valstybės“, papildyti dalį trečiu sakiniu ir šią dalį išdėstyti taip: ^s-2ca9969b60757c1e21668bc2
 
 
-„12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. Privatizavimo objekto privatizavimo programa pripažįstama pasibaigusia, jei akcinės bendrovės akcininkas, veikdamas savarankiškai ar sutartinai su kitais asmenimis įsigijęs akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teisę suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balso teisę šios akcinės bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų, reikalauja, kad visi kiti šios akcinės bendrovės akcininkai parduotų jiems priklausančias akcijas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka.“
+„12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis [[latest/TAR.542D2FA3CA61|Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu]], taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. Privatizavimo objekto privatizavimo programa pripažįstama pasibaigusia, jei akcinės bendrovės akcininkas, veikdamas savarankiškai ar sutartinai su kitais asmenimis įsigijęs akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teisę suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balso teisę šios akcinės bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų, reikalauja, kad visi kiti šios akcinės bendrovės akcininkai parduotų jiems priklausančias akcijas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka.“
 
 
-### 5 straipsnis. 11 straipsnio 1 dalies 2 ir 3 punktų pakeitimas ir papildymas 6 punktu
+### 5 straipsnis. 11 straipsnio 1 dalies 2 ir 3 punktų pakeitimas ir papildymas 6 punktu ^s-6e4886283041d8a26be490d2
 
 
-1. 11 straipsnio 1 dalies 2 punkte po žodžio „telefonas“ įrašyti žodžius „elektroninio pašto adresas“ ir šį punktą išdėstyti taip: ^60b7848dd4f4e161352676a6
+1. 11 straipsnio 1 dalies 2 punkte po žodžio „telefonas“ įrašyti žodžius „elektroninio pašto adresas“ ir šį punktą išdėstyti taip: ^s-50b634059cf27524faf51599
 
 
 „2) Turto fondo darbuotojo, atsakingo už objekto privatizavimo programos vykdymą, pavardė, pareigos, adresas, telefonas, elektroninio pašto adresas ir faksas;“.
 
 
-2. 11 straipsnio 1 dalies 3 punkte po žodžio „parduodamos“ įrašyti žodžius „ir kito turto, kuris yra privatizuojamas“ ir šį punktą išdėstyti taip: ^590b09f1e6a518dbf04ae077
+2. 11 straipsnio 1 dalies 3 punkte po žodžio „parduodamos“ įrašyti žodžius „ir kito turto, kuris yra privatizuojamas“ ir šį punktą išdėstyti taip: ^s-cd8f1ff713c6aa4e1e8b26ef
 
 
 „3) valstybės (savivaldybės) kontroliuojamos įmonės, kurios akcijos yra parduodamos, ir kito turto, kuris yra privatizuojamas, apžiūros laikas;“.
 
 
-3. [[#^33860bc515e622a034a86435|11 straipsnio 1 dalį]] papildyti 6 punktu: ^90524fc4fb5fd17731d0bda9
+3. [[#^s-e2e14aba5a68eefb29d5d576|11 straipsnio 1 dalį]] papildyti 6 punktu: ^s-a291873b4afd5d36155bc7ca
 
 
 „6) privatizavimo objekto valdytojo nustatytas galutinio atsiskaitymo už privatizavimo objektą terminas.“
 
 
-### 6 straipsnis. 13 straipsnio 2 ir 4 dalių pakeitimas
+### 6 straipsnis. 13 straipsnio 2 ir 4 dalių pakeitimas ^s-f7ea59382ccf3e827de53536
 
 
-1. Pakeisti [[#^c04bd576d8353eeb2c3f20ec|13 straipsnio 2 dalį]] ir ją išdėstyti taip: ^e69a802237905408d257ab84
+1. Pakeisti [[#^s-ff75c892c775735da32babfc|13 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-90bda508a808955e5d755677
 
 
 „2. Turto fondas (savivaldybių turto fondai) turi teisę taikyti šiame įstatyme nustatytų privatizavimo būdų derinį arba pakeisti privatizavimo būdą, jei tam pritaria Privatizavimo komisija. Informacija apie privatizavimo objekto privatizavimo būdų derinio taikymą ir privatizavimo būdo pakeitimą skelbiama Informaciniame privatizavimo biuletenyje šio įstatymo nustatyta tvarka.“
 
 
-2. 13 straipsnio 4 dalyje vietoj žodžių „samdyti fizinius ar juridinius asmenis, taip pat įmones, neturinčias juridinio asmens teisių“ įrašyti žodžius „sudaryti viešojo pirkimo–pardavimo sutartis“, po žodžių „investitoriaus suradimą ir“ įrašyti žodžius „privatizavimo objekto“ ir šią dalį išdėstyti taip: ^0b0c7890c8edba35928dc445
+2. 13 straipsnio 4 dalyje vietoj žodžių „samdyti fizinius ar juridinius asmenis, taip pat įmones, neturinčias juridinio asmens teisių“ įrašyti žodžius „sudaryti viešojo pirkimo–pardavimo sutartis“, po žodžių „investitoriaus suradimą ir“ įrašyti žodžius „privatizavimo objekto“ ir šią dalį išdėstyti taip: ^s-9ab4a87a200682cb4f654e80
 
 
-„4. Kiekvienam iš privatizavimo objektų, privatizuojamų bet kuriuo šiame įstatyme nustatytu privatizavimo būdu, Turto fondas turi teisę Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka sudaryti viešojo pirkimo–pardavimo sutartis visoms su privatizavimu susijusioms užduotims atlikti (įskaitant investitoriaus suradimą ir privatizavimo objekto pirkimo–pardavimo sutarties projekto parengimą).“
+„4. Kiekvienam iš privatizavimo objektų, privatizuojamų bet kuriuo šiame įstatyme nustatytu privatizavimo būdu, Turto fondas turi teisę [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymo]] nustatyta tvarka sudaryti viešojo pirkimo–pardavimo sutartis visoms su privatizavimu susijusioms užduotims atlikti (įskaitant investitoriaus suradimą ir privatizavimo objekto pirkimo–pardavimo sutarties projekto parengimą).“
 
 
-### 7 straipsnis. 16 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 16 straipsnio 1 dalies pakeitimas ^s-ae64cb4903676b53f5d62827
 
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -179,49 +184,49 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Viešas konkursas – vieno ar kelių privatizavimo objektų perdavimas potencialiam pirkėjui – viešo konkurso laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti akcinės bendrovės ar uždarosios akcinės bendrovės įstatiniam kapitalui padidinti), įvykdžius privatizavimo sąlygose nustatytus reikalavimus, yra geriausi. Geriausią konkursinį pasiūlymą pateikusiam potencialiam pirkėjui ir visiems potencialiems pirkėjams, kurių konkursiniai pasiūlymai nuo geriausio konkursinio pasiūlymo skiriasi ne daugiau kaip 10 procentų, pasiūloma per Vyriausybės nustatytą terminą pagerinti konkursinius pasiūlymus. Pagal potencialių pirkėjų pagerintus pasiūlymus sudaroma potencialių pirkėjų eilė, kurią tvirtina Turto fondo vadovas. Viešo konkurso laimėtoju pripažįstamas ir pirkimo–pardavimo sutartį suderinti kviečiamas geriausią pagerintą pasiūlymą pateikęs potencialus pirkėjas. Jei viešo konkurso laimėtoju pripažintas potencialus pirkėjas nustatytu laiku nepateikia privatizavimo programoje nurodytų ketinamų prisiimti sutartinių įsipareigojimų įvykdymo užtikrinimo priemonių, neatvyksta pasirašytinai suderinti pirkimo–pardavimo sutarties projekto, atsisako pasirašyti pirkimo–pardavimo sutartį ar iki nustatyto termino nesumoka už viešame konkurse įsigytą objektą (kai už privatizavimo objektą turi būti sumokama iš karto), potencialaus pirkėjo pripažinimas konkurso laimėtoju laikomas netekusiu galios. Tokiu atveju teisės aktų nustatyta tvarka viešo konkurso laimėtoju pripažįstamas ir pirkimo–pardavimo sutartį suderinti eilės tvarka kviečiamas kitas potencialių pirkėjų eilėje esantis potencialus pirkėjas.“
 
 
-### 8 straipsnis. 17 straipsnio 1, 5 ir 7 dalių pakeitimas
+### 8 straipsnis. 17 straipsnio 1, 5 ir 7 dalių pakeitimas ^s-4252449abbfbdf913f4ddbe9
 
 
-1. 17 straipsnio 1 dalyje išbraukti žodžius „darbo vietų minimalius“ ir šią dalį išdėstyti taip: ^8ad2f629660ca2cf4bd25c7b
+1. 17 straipsnio 1 dalyje išbraukti žodžius „darbo vietų minimalius“ ir šią dalį išdėstyti taip: ^s-0553ec3649dfd914c90f34fc
 
 
 „1. Tiesioginės derybos – vieno ar kelių privatizavimo objektų perdavimas tiesioginių derybų laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti įsigyti ilgalaikį ir trumpalaikį materialųjį turtą didinant akcinės ar uždarosios akcinės bendrovės įstatinį kapitalą), įvykdžius privatizavimo sąlygose nustatytus reikalavimus, yra geriausi.“
 
 
-2. Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip: ^9f731d1fb61c90ac33976138
+2. Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip: ^s-ec10631493bb09855a4533f5
 
 
 „5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, kuriuos (kurias) nuomininkas nuomotojo leidimu pagerino. Šiuo atveju Vyriausybės nustatyta tvarka tiesioginės derybos su vieninteliu pirkėju – šių pastatų ar patalpų nuomininku ar asmeniu, turinčiu nuomininko reikalavimo teisę į būtinųjų išlaidų atlyginimą, gali būti vykdomos, jei yra tenkinamos šios sąlygos:
 
 
-1) teisės aktų nustatyta tvarka nuomininkas ar kitas asmuo turi reikalavimo teisę į būtinųjų išlaidų, nuomotojo leidimu nuomininko patirtų pastatams ar patalpoms pagerinti, atlyginimą ir šių atlygintinų išlaidų suma yra didesnė negu 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės. Tiesioginės derybos nevedamos, jei iki sprendimo dėl tiesioginių derybų vedimo priėmimo momento reikalavimo teisė į būtinųjų išlaidų atlyginimą sumažėja tiek, kad neviršija 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės; ^c7b4a393f77972f51e6c9c00
+1) teisės aktų nustatyta tvarka nuomininkas ar kitas asmuo turi reikalavimo teisę į būtinųjų išlaidų, nuomotojo leidimu nuomininko patirtų pastatams ar patalpoms pagerinti, atlyginimą ir šių atlygintinų išlaidų suma yra didesnė negu 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės. Tiesioginės derybos nevedamos, jei iki sprendimo dėl tiesioginių derybų vedimo priėmimo momento reikalavimo teisė į būtinųjų išlaidų atlyginimą sumažėja tiek, kad neviršija 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės; ^s-cb056560b9cb45663e13f97d
 
 
-2) pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrenginiai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrenginiams, pastatui arba patalpoms.“ ^0bfd00d0ebe2428a12e502b0
+2) pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrenginiai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrenginiams, pastatui arba patalpoms.“ ^s-8afd3280576567a7af3ebdae
 
 
-3. 17 straipsnio 7 dalyje vietoj žodžio „iniciatyvinio“ įrašyti žodį „rašytinio“, vietoj žodžio „vykdyti“ įrašyti žodį „vesti“ ir šią dalį išdėstyti taip: ^845fece2fb16948ae080b7d9
+3. 17 straipsnio 7 dalyje vietoj žodžio „iniciatyvinio“ įrašyti žodį „rašytinio“, vietoj žodžio „vykdyti“ įrašyti žodį „vesti“ ir šią dalį išdėstyti taip: ^s-8c88814e50d6e1cee587b537
 
 
 „7. Privatizavimo objekto valdytojas per 45 kalendorines dienas nuo potencialaus pirkėjo rašytinio pasiūlymo ir dokumentų, patvirtinančių, kad tenkinamos šio straipsnio 5 ar 6 dalyse nustatytos sąlygos, gavimo dienos privalo priimti sprendimą vesti tiesiogines derybas dėl šio straipsnio 5 ar 6 dalyse nurodyto turto privatizavimo arba motyvuotai atsakyti, kodėl pagal pateiktus dokumentus šis turtas negali būti privatizuojamas tiesioginių derybų būdu.“
 
 
-### 9 straipsnis. 19 straipsnio 2 dalies 2 punkto ir 6 dalies 2 punkto pakeitimas
+### 9 straipsnis. 19 straipsnio 2 dalies 2 punkto ir 6 dalies 2 punkto pakeitimas ^s-bd03e02d3b0186695546d472
 
 
-1. Pakeisti 19 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^9493ec437f934209dd88ca0f
+1. Pakeisti 19 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-d52477b26e1eddc92f68790f
 
 
 „2) valstybei ar savivaldybei nuosavybės teise priklausančius pastatus ar patalpas, kuriuos (kurias) nuomininkas nuomotojo leidimu pagerino. Šis privatizavimo būdas gali būti taikomas, jei yra tenkinamos šio įstatymo 17 straipsnio 5 dalyje nustatytos sąlygos. Privatizuojant tokį turtą nuomos su išsipirkimu būdu, Vyriausybės nustatyta tvarka derybos gali būti vedamos su vienu pirkėju (nuomininku ar asmeniu, turinčiu nuomininko reikalavimo teisę į būtinųjų išlaidų atlyginimą), patyrusiu būtinąsias išlaidas šiame punkte nustatytomis sąlygomis. Šis privatizavimo būdas negali būti taikomas, jei iki sprendimo dėl šio būdo taikymo priėmimo momento reikalavimo teisė į būtinųjų išlaidų atlyginimą sumažėja tiek, kad neviršija 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės. Nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu konkurso rengimo dieną.“
 
 
-2. 19 straipsnio 6 dalies 2 punkte vietoj žodžio „minimalia“ įrašyti žodį „sutarta“, išbraukti žodžius „suma, kurią potencialus pirkėjas savo šalies pinigais gali pervesti per banką“ ir šį punktą išdėstyti taip: ^ccfa28953ebc11f0199402ac
+2. 19 straipsnio 6 dalies 2 punkte vietoj žodžio „minimalia“ įrašyti žodį „sutarta“, išbraukti žodžius „suma, kurią potencialus pirkėjas savo šalies pinigais gali pervesti per banką“ ir šį punktą išdėstyti taip: ^s-3f78d6aaf6be2c7ffbd2bc5d
 
 
 „2) mokant nuomos mokestį ir pasibaigus nuomos terminui išperkant privatizavimo objektą sutarta kaina.“
 
 
-### 10 straipsnis. 20 straipsnio pakeitimas
+### 10 straipsnis. 20 straipsnio pakeitimas ^s-aa3301445383016d4f7e8e9d
 
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
@@ -230,37 +235,37 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 „20 straipsnis. Mokėjimas už privatizavimo objektą
 
 
-1. Potencialus pirkėjas už įsigyjamą privatizavimo objektą moka objekto privatizavimo programoje nurodytais pinigais valiuta, kuri pagal galiojančius Lietuvos Respublikos ar valstybės, kurioje turi būti atliktas mokėjimas, teisės aktus laikoma teisėta atsiskaitymo priemone. Mokėjimo už privatizavimo objektą tvarka ir terminai nustatomi privatizavimo sandoryje. ^b4ca19bbe0c678715f45cd3a
+1. Potencialus pirkėjas už įsigyjamą privatizavimo objektą moka objekto privatizavimo programoje nurodytais pinigais valiuta, kuri pagal galiojančius Lietuvos Respublikos ar valstybės, kurioje turi būti atliktas mokėjimas, teisės aktus laikoma teisėta atsiskaitymo priemone. Mokėjimo už privatizavimo objektą tvarka ir terminai nustatomi privatizavimo sandoryje. ^s-d23d94923411135e7a8ca412
 
 
-2. Už privatizavimo objektą gali būti sumokama iš karto (per penkias darbo dienas po privatizavimo objekto pirkimo–pardavimo sutarties pasirašymo) arba dalimis (etapais). Vėliausią galimą atsiskaitymo už privatizavimo objektą terminą nustato privatizavimo objekto valdytojas. Šis terminas negali būti ilgesnis kaip penkeri metai, kai privatizuojamos akcijos, ir dveji metai, kai privatizuojamas ilgalaikis materialusis turtas, išskyrus atvejus, kai ilgalaikis materialusis turtas privatizuojamas nuomos su išsipirkimu būdu. ^02ca61948652d72c88189b19
+2. Už privatizavimo objektą gali būti sumokama iš karto (per penkias darbo dienas po privatizavimo objekto pirkimo–pardavimo sutarties pasirašymo) arba dalimis (etapais). Vėliausią galimą atsiskaitymo už privatizavimo objektą terminą nustato privatizavimo objekto valdytojas. Šis terminas negali būti ilgesnis kaip penkeri metai, kai privatizuojamos akcijos, ir dveji metai, kai privatizuojamas ilgalaikis materialusis turtas, išskyrus atvejus, kai ilgalaikis materialusis turtas privatizuojamas nuomos su išsipirkimu būdu. ^s-fad21afc62e71cf8dc2b7ca4
 
 
-3. Už privatizavimo objektą mokant dalimis, pirmoji dalis turi būti sumokama ne vėliau kaip per penkias darbo dienas po privatizavimo objekto pirkimo–pardavimo sutarties pasirašymo dienos. Pirmąja dalimi turi būti sumokama ne mažiau kaip 51 procentas pirkimo–pardavimo sutartyje nustatytos už privatizavimo objektą mokėtinos sumos, kai privatizuojamos akcijos, arba ne mažiau kaip 25 procentai pirkimo-pardavimo sutartyje nustatytos už privatizavimo objektą mokėtinos sumos, kai privatizuojamas ilgalaikis materialusis turtas. Jeigu privatizavimo objekto (statinio) privatizavimo programoje nustatytas vertės padidėjimo procentas dėl nuomos metu šiam objektui pagerinti padarytų išlaidų, pirmąja dalimi turi būti sumokama ne mažiau kaip 25 procentai valstybės (savivaldybės) dalį pirkimo kainoje sudarančios sumos. Potencialaus pirkėjo sumokėta pradinė įmoka įskaitoma į pirmąja dalimi mokėtiną sumą. ^aaf4cfb0380932b3d4f21c97
+3. Už privatizavimo objektą mokant dalimis, pirmoji dalis turi būti sumokama ne vėliau kaip per penkias darbo dienas po privatizavimo objekto pirkimo–pardavimo sutarties pasirašymo dienos. Pirmąja dalimi turi būti sumokama ne mažiau kaip 51 procentas pirkimo–pardavimo sutartyje nustatytos už privatizavimo objektą mokėtinos sumos, kai privatizuojamos akcijos, arba ne mažiau kaip 25 procentai pirkimo-pardavimo sutartyje nustatytos už privatizavimo objektą mokėtinos sumos, kai privatizuojamas ilgalaikis materialusis turtas. Jeigu privatizavimo objekto (statinio) privatizavimo programoje nustatytas vertės padidėjimo procentas dėl nuomos metu šiam objektui pagerinti padarytų išlaidų, pirmąja dalimi turi būti sumokama ne mažiau kaip 25 procentai valstybės (savivaldybės) dalį pirkimo kainoje sudarančios sumos. Potencialaus pirkėjo sumokėta pradinė įmoka įskaitoma į pirmąja dalimi mokėtiną sumą. ^s-ec55d5205f0df140e6bc306d
 
 
-4. Už atidėtą mokėjimą potencialus pirkėjas moka palūkanas. Palūkanos apskaičiuojamos Vyriausybės nustatyta tvarka, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo likusios už privatizavimo objektą mokėti sumos.“ ^344fe721d418d0479f0a19d5
+4. Už atidėtą mokėjimą potencialus pirkėjas moka palūkanas. Palūkanos apskaičiuojamos Vyriausybės nustatyta tvarka, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo likusios už privatizavimo objektą mokėti sumos.“ ^s-be7a6cbcbb9699755fe1aa66
 
 
-### 11 straipsnis. 21 straipsnio 2 dalies 2 punkto, 6 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios
+### 11 straipsnis. 21 straipsnio 2 dalies 2 punkto, 6 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios ^s-a46701148de5a298ac569af3
 
 
-1. 21 straipsnio 2 dalies 2 punkte išbraukti žodžius „ne žemės ūkio paskirties“ ir šį punktą išdėstyti taip: ^33860bc515e622a034a86435
+1. 21 straipsnio 2 dalies 2 punkte išbraukti žodžius „ne žemės ūkio paskirties“ ir šį punktą išdėstyti taip: ^s-e2e14aba5a68eefb29d5d576
 
 
 „2) sąlygą, draudžiančią sustabdyti ar nutraukti valstybės (savivaldybės) kontroliuojamos įmonės veiklą. Privatizavimo sandoryje gali būti pirkėjo įsipareigojimas išsinuomoti ar išsipirkti privatizavimo objektui priskirtą žemės sklypą, taip pat kiti pirkėjo įsipareigojimai.“
 
 
-2. 21 straipsnio 5 dalį pripažinti netekusia galios. ^741b78fbb0428222527c13f0
+2. 21 straipsnio 5 dalį pripažinti netekusia galios. ^s-c206f66f0de749da8d72610f
 
 
-3. Pakeisti 21 straipsnio 6 dalį ir ją išdėstyti taip: ^4e3342ab6801bb1eba62088e
+3. Pakeisti 21 straipsnio 6 dalį ir ją išdėstyti taip: ^s-7b807f5ccd741aeb774e7a65
 
 
 „6. Privatizavimo sandoriui ir nuosavybės teisės į privatizavimo objektą atsiradimui yra taikomos Civilinio kodekso nuostatos, jei šiame įstatyme ar privatizavimo sandoryje nenustatyta kitaip.“
 
 
-### 12 straipsnis. 22 straipsnio pakeitimas
+### 12 straipsnis. 22 straipsnio pakeitimas ^s-75bc80a2a96e74db2a75be49
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -272,13 +277,13 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 Valstybinės žemės sklypų ir savivaldybėms nuosavybės teise priklausančių žemės sklypų, priskirtų privatizuojamiems statiniams ir įrenginiams, pardavimo, nuomos ar kitokio perleidimo tvarką nustato žemės santykius reglamentuojantys teisės aktai.“
 
 
-### 13 straipsnis. Įstatymo įsigaliojimas
+### 13 straipsnis. Įstatymo įsigaliojimas ^s-5742b4efb23c2bfae81558d6
 
 
-1. Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d. ^2eecbfe87857d8ed88f3f70a
+1. Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d. ^s-57aba157869d56f32e94905d
 
 
-2. Iki šio įstatymo įsigaliojimo paskelbtos objektų privatizavimo programos įgyvendinamos pagal Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatas, galiojusias šių privatizavimo programų paskelbimo metu. ^c04bd576d8353eeb2c3f20ec
+2. Iki šio įstatymo įsigaliojimo paskelbtos objektų privatizavimo programos įgyvendinamos pagal Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatas, galiojusias šių privatizavimo programų paskelbimo metu. ^s-ff75c892c775735da32babfc
 
 
 

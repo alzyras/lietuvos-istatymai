@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "1bb3d7a0140f11ee9f7ec2ffce8b47bc"
 pavadinimas: "Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 15 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 15 straipsnio pakeitimo įstatymas"
+  - "mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 15 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2024-01-01"
 latest_path: "latest/1bb3d7a0140f11ee9f7ec2ffce8b47bc.md"
 latest_sha256: "a833a42eec0d441baff6140600f3e4650df202b65dd52782c0ebd44b0ac0c7c7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/1bb3d7a0140f11ee9f7ec2ffce8b47bc]]"
 ---
 # Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 15 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/1bb3d7a0140f11ee9f7ec2ffce8b47bc.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/1bb3d7a0140f11ee9f7ec2ffce8b47bc
+- Ryšiai: [[Ryšiai/1bb3d7a0140f11ee9f7ec2ffce8b47bc|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio pakeitimas
+### 1 straipsnis. 15 straipsnio pakeitimas ^s-9619c6a67a87502fa5738f9f
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -48,13 +53,13 @@ Konkurencijos taryba iki kiekvienų metų vasario 1 dienos pateikia žemės ūki
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-ff07e92cf0ce72c200baa96d
 
 
-1. Šis įstatymas, išskyrus [[#^9d7d79e2f83d8ef726e73865|šio straipsnio 2 dalį]], įsigalioja 2024 m. sausio 1 d. ^2c3c4a3642c72b26695aaf47
+1. Šis įstatymas, išskyrus [[#^s-9ab3de2d53354580d7984f8d|šio straipsnio 2 dalį]], įsigalioja 2024 m. sausio 1 d. ^s-0cbe7107ce8652128f174506
 
 
-2. Žemės ūkio ministras iki 2023 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^9d7d79e2f83d8ef726e73865
+2. Žemės ūkio ministras iki 2023 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-9ab3de2d53354580d7984f8d
 
 
 

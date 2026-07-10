@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DDF6460C319B"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 15 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 15 straipsnio papildymo įstatymas"
+  - "viešųjų pirkimų įstatymo 15 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-30"
 latest_path: "latest/TAR.DDF6460C319B.md"
 latest_sha256: "a4a1dd2d728390a2abcd6e4215915dac1c88e07740dcecd16a649f3ac21ad9cc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DDF6460C319B]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 15 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DDF6460C319B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DDF6460C319B
+- Ryšiai: [[Ryšiai/TAR.DDF6460C319B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,32 +38,32 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio papildymas 4, 5 ir 6 dalimis
+### 1 straipsnis. 15 straipsnio papildymas 4, 5 ir 6 dalimis ^s-fad87ec50ac0755f9aa7389f
 
 
-1. Papildyti 15 straipsnį 4 dalimi: ^0a85c721e9b2925ce5e02236
+1. Papildyti 15 straipsnį 4 dalimi: ^s-fea414bca62c161cda67adbf
 
 
 „4. Centrinės perkančiosios organizacijos veikla finansuojama iš įstaigai, kuri įgyvendina centrinės perkančiosios organizacijos funkcijas vykdančio juridinio asmens dalyvio ar savininko teises ir pareigas, skirtų valstybės ar savivaldybės biudžeto asignavimų ir (ar) kitų lėšų.“
 
 
-2. Papildyti 15 straipsnį 5 dalimi: ^c8de68de67045ea1e737bb10
+2. Papildyti 15 straipsnį 5 dalimi: ^s-dcb07867d9c651d66a63a86f
 
 
 „5. Perkančiosios organizacijos, išskyrus Lietuvos Respublikos diplomatines atstovybes, konsulines įstaigas užsienyje ir Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, privalo įsigyti prekes, paslaugas ir darbus iš centrinės perkančiosios organizacijos arba per ją, kai centrinės perkančiosios organizacijos kataloge siūlomos prekės, paslaugos ar darbai atitinka perkančiosios organizacijos poreikius ir perkančioji organizacija negali jų atlikti efektyvesniu būdu racionaliai naudodama tam skirtas lėšas. Perkančiosios organizacijos privalo motyvuoti savo sprendimą neatlikti centrinės perkančiosios organizacijos kataloge siūlomų prekių, paslaugų ar darbų pirkimo ir saugoti tai patvirtinantį dokumentą kartu su kitais pirkimo dokumentais šio įstatymo 21 straipsnyje nustatyta tvarka.“
 
 
-3. Papildyti 15 straipsnį 6 dalimi: ^e8d65f16b13976872d6c4ec3
+3. Papildyti 15 straipsnį 6 dalimi: ^s-d993c1e2ecf3336335996b10
 
 
 „6. Centrinė perkančioji organizacija ketvirčiui pasibaigus per 5 darbo dienas privalo pateikti Viešųjų pirkimų tarnybai informaciją apie perkančiųjų organizacijų pirkimus, atliktus per ketvirtį iš centrinės perkančiosios organizacijos arba per ją, ir kartu nurodyti informaciją apie atliktus žaliuosius pirkimus ir jų vertes bei energijos vartojimo efektyvumo reikalavimų taikymą.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3c4d20f8146aa1b7f3dec12d
 
 
-Šio įstatymo [[#1 straipsnis. 15 straipsnio papildymas 4, 5 ir 6 dalimis|1 straipsnio]] 2 ir 3 dalys įsigalioja 2014 m. sausio 1 d.
+Šio įstatymo [[#^s-fad87ec50ac0755f9aa7389f|1 straipsnio]] 2 ir 3 dalys įsigalioja 2014 m. sausio 1 d.
 
 
 

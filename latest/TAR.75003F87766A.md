@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.75003F87766A"
 pavadinimas: "Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-04-27"
 latest_path: "latest/TAR.75003F87766A.md"
 latest_sha256: "b457ed4e5af228d2aa5d184452954638ca308bb3967ed083c26ab7bb85713dd1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.75003F87766A]]"
 ---
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.75003F87766A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.75003F87766A
+- Ryšiai: [[Ryšiai/TAR.75003F87766A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 6 straipsnio pripažinimas netekusiu galios ^s-bbfdcd8700ab66f1e92bec5c
 
 
 6 straipsnį pripažinti netekusiu galios.

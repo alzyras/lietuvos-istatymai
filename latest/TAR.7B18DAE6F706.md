@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7B18DAE6F706"
 pavadinimas: "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 1, 2, 3, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 36, 37, 38, 40, 41 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 1, 2, 3, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 36, 37, 38, 40, 41 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo priedu įstatymas"
+  - "ginklų ir šaudmenų kontrolės įstatymo 1, 2, 3, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 36, 37, 38, 40, 41 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-05"
 latest_path: "latest/TAR.7B18DAE6F706.md"
 latest_sha256: "3c57326824d41eb581db556f2f4a05f9af833d3cc5eafa2d39122310e6a60cb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7B18DAE6F706]]"
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 1, 2, 3, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 36, 37, 38, 40, 41 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7B18DAE6F706.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7B18DAE6F706
+- Ryšiai: [[Ryšiai/TAR.7B18DAE6F706|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -38,202 +43,202 @@ Vilnius
 
 
 
-### 1 straipsnis.         1 straipsnio 3 dalies 3 ir 4 punktų pripažinimas netekusiais galios, 9 punkto pakeitimas ir straipsnio papildymas 7 dalimi
+### 1 straipsnis.         1 straipsnio 3 dalies 3 ir 4 punktų pripažinimas netekusiais galios, 9 punkto pakeitimas ir straipsnio papildymas 7 dalimi ^s-48f28a202bc78bb6a9eb7353
 
 
-1. 1 straipsnio 3 dalies 3 punktą pripažinti netekusiu galios. ^64521a1f249ed7a696010d44
+1. 1 straipsnio 3 dalies 3 punktą pripažinti netekusiu galios. ^s-97c1c76395814e943e0f2842
 
 
-2. 1 straipsnio 3 dalies 4 punktą pripažinti netekusiu galios. ^0716ade94f48e8f79324b06b
+2. 1 straipsnio 3 dalies 4 punktą pripažinti netekusiu galios. ^s-d43ca6a3843a5b9540039862
 
 
-3. 1 straipsnio 3 dalies 9 punkte prieš žodį „sprogmenims“ įrašyti žodžius „civilinėje apyvartoje naudojamiems“, išbraukti žodžius „(išskyrus šaudmenis)“ ir šį punktą išdėstyti taip: ^6865c482d50322602c1d50e3
+3. 1 straipsnio 3 dalies 9 punkte prieš žodį „sprogmenims“ įrašyti žodžius „civilinėje apyvartoje naudojamiems“, išbraukti žodžius „(išskyrus šaudmenis)“ ir šį punktą išdėstyti taip: ^s-722da86ed3b1035c65f8535d
 
 
 „9) civilinėje apyvartoje naudojamiems sprogmenims.“
 
 
-4. Papildyti 1 straipsnį 7 dalimi: ^492ed43b046909afabf6b47e
+4. Papildyti 1 straipsnį 7 dalimi: ^s-097c36bab3a4aba721b9cccd
 
 
 „7. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu Įstatymo priede.“
 
 
 
-### 2 straipsnis.         2 straipsnio 2, 3, 6, 9, 10, 12, 13, 14, 16, 17, 18, 21, 28, 30, 31, 32, 35, 36, 37, 41, 44, 45, 47 dalių pakeitimas ir straipsnio papildymas 48, 49, 50, 51, 52, 53, 54, 55 ir 56 dalimis
+### 2 straipsnis.         2 straipsnio 2, 3, 6, 9, 10, 12, 13, 14, 16, 17, 18, 21, 28, 30, 31, 32, 35, 36, 37, 41, 44, 45, 47 dalių pakeitimas ir straipsnio papildymas 48, 49, 50, 51, 52, 53, 54, 55 ir 56 dalimis ^s-753a2e5517f4be6f0c8f6192
 
 
-1. Pakeisti [[#^9a0efe6ee0d84bfa08bf21a2|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^c64bb36f53d8185de54e9828
+1. Pakeisti [[#^s-bde9bcb17bbaeddbe19c79e0|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-9f60485205b57f53feb8638c
 
 
 „2. Šaunamasis ginklas – įrenginys ar daiktas, sukonstruotas ar pritaikytas kaip ginklas, iš kurio sprogstamųjų medžiagų degimo produktų slėgio jėga gali būti paleisti kulkos, sviediniai arba kenksmingos, dirginančiosios medžiagos mechaniškai, termiškai, chemiškai ar kitaip taikiniui per atstumą paveikti arba duotas garso ar šviesos signalas. Šaunamaisiais ginklais šiame įstatyme laikomos ir pagrindinės šaunamųjų ginklų dalys.“
 
 
-2. [[#^028ce0f6bc45945a8d9e945d|2 straipsnio 3 dalyje]] vietoj žodžių „sviedinių seriją“ įrašyti žodžius „daugiau kaip vieną kartą“ ir šią dalį išdėstyti taip: ^9a0efe6ee0d84bfa08bf21a2
+2. [[#^s-1358d8a9ceb73e1970a40da7|2 straipsnio 3 dalyje]] vietoj žodžių „sviedinių seriją“ įrašyti žodžius „daugiau kaip vieną kartą“ ir šią dalį išdėstyti taip: ^s-bde9bcb17bbaeddbe19c79e0
 
 
 „3. Automatinis šaunamasis ginklas – šaunamasis ginklas, kuris po kiekvieno šūvio užsitaiso automatiškai ir kuriuo, vieną kartą nuspaudus nuleistuką, galima iššauti daugiau kaip vieną kartą.“
 
 
-3. Pakeisti [[#^44881bd2e1bde0216d283919|2 straipsnio 6 dalį]] ir ją išdėstyti taip: ^028ce0f6bc45945a8d9e945d
+3. Pakeisti [[#^s-7e0c927fb4ea11634eec728c|2 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-1358d8a9ceb73e1970a40da7
 
 
 „6. Vienašūvis šaunamasis ginklas – šaunamasis ginklas su vienu ar keliais vamzdžiais be šovinių dėtuvės, kurį prieš kiekvieną šūvį reikia užtaisyti ranka šovinį įdedant į šovinio lizdą ar į užtaisymo mechanizmą.“
 
 
-4. Pakeisti [[#^1b5b241b79de3b9e3b708101|2 straipsnio 9 dalį]] ir ją išdėstyti taip: ^6816a3a5f214cbbb8db124b6
+4. Pakeisti [[#^s-ad05d95501c4ebf7d5bb7f83|2 straipsnio 9 dalį]] ir ją išdėstyti taip: ^s-9a4cbdb014b273fe47bd4dcf
 
 
 „9. Dujinis ginklas – nešaunamasis ginklas, iš kurio gali būti paleistos kenksmingos, dirginančiosios medžiagos ar jų užtaisas. Dujiniai pistoletai (revolveriai) priskiriami šaunamiesiems ginklams.“
 
 
-5. Pakeisti [[#^6621d4e0d0b8f0109d32fd62|2 straipsnio 10 dalį]] ir ją išdėstyti taip: ^dddb2017ca52cf469fa70a6c
+5. Pakeisti [[#^s-4b7154b459b739bfa4a2cf12|2 straipsnio 10 dalį]] ir ją išdėstyti taip: ^s-aca8b111fa89879d31cc0dbe
 
 
 „10. Templinis ginklas – nešaunamasis ginklas, kurio sviediniui, naudojantis raumenų jėga ar mechaniniais įrenginiais, energiją suteikia tamprus elementas.“
 
 
-6. Pakeisti [[#^b9a706a5545ed0f8fc6729a9|2 straipsnio 12 dalį]] ir ją išdėstyti taip: ^44881bd2e1bde0216d283919
+6. Pakeisti [[#^s-fd99c62466436cd4950994a8|2 straipsnio 12 dalį]] ir ją išdėstyti taip: ^s-7e0c927fb4ea11634eec728c
 
 
 „12. Pneumatinis ginklas – nešaunamasis ginklas, iš kurio paleidžiamos kulkos ar kitokio sviedinio kryptingas judėjimas atsiranda dėl suspausto oro ar kitų dujų jėgos.“
 
 
-7. Pakeisti [[#^6d40f025bd7aea4a84745fa2|2 straipsnio 13 dalį]] ir ją išdėstyti taip: ^7166e91e64eab7f820f5697b
+7. Pakeisti [[#^s-28c86f9480976637ab30178a|2 straipsnio 13 dalį]] ir ją išdėstyti taip: ^s-0d8608512fffe8cfe14cf1d8
 
 
 „13. Senovinis šaunamasis ginklas – šaunamasis ginklas, kurio modelis sukurtas iki 1870 metų ir kurio negalima užtaisyti šoviniais, skirtais ginklams, draudžiamiems civilinėje apyvartoje, arba ginklams, kuriems laikyti ar nešiotis privalomas leidimas.“
 
 
-8. [[#^a9aa10568165a0035a8c2187|2 straipsnio 14 dalyje]] po žodžio „įdėklas“ įrašyti žodžius „(mažesnio kalibro vamzdis)“ ir šią dalį išdėstyti taip: ^ff6875aeb898052f40c3fb32
+8. [[#^s-036754f2e7d468dcdf72e270|2 straipsnio 14 dalyje]] po žodžio „įdėklas“ įrašyti žodžius „(mažesnio kalibro vamzdis)“ ir šią dalį išdėstyti taip: ^s-102d5182532afb198f589c69
 
 
 „14. Pagrindinės šaunamojo ginklo dalys – vamzdis, būgnelis, spyna (užraktas), spynos (užrakto) rėmas, pistoleto
 (revolverio) rėmas ir jų pusgaminiai, taip pat į šaunamojo ginklo vamzdį įdedamas įdėklas (mažesnio kalibro vamzdis).“
 
 
-9. Pakeisti [[#^ddd131f67edfeb98a251174c|2 straipsnio 16 dalį]] ir ją išdėstyti taip: ^1b5b241b79de3b9e3b708101
+9. Pakeisti [[#^s-9e983af5461ea57a8b9a6280|2 straipsnio 16 dalį]] ir ją išdėstyti taip: ^s-ad05d95501c4ebf7d5bb7f83
 
 
 „16. Nešaunamasis ginklas – įrenginys arba daiktas, sukonstruotas ar pritaikytas naudoti kaip ginklas, kuriuo taikinys paveikiamas nenaudojant sprogstamųjų medžiagų degimo produktų slėgio jėgos.“
 
 
-10. Pakeisti [[#^d2bd0e6344f39463f3ea0a21|2 straipsnio 17 dalį]] ir ją išdėstyti taip: ^6621d4e0d0b8f0109d32fd62
+10. Pakeisti [[#^s-a666e325afd29ccf0ecc73ff|2 straipsnio 17 dalį]] ir ją išdėstyti taip: ^s-4b7154b459b739bfa4a2cf12
 
 
 „17. Šaudmuo – tai, kuo šaudoma iš šaunamųjų ginklų.“
 
 
-11. [[#^c66369664abdcf177fe18e57|2 straipsnio 18 dalyje]] išbraukti žodį „užtaisoma“ ir šią dalį išdėstyti taip: ^127cc8cba46c54fdc266f42b
+11. [[#^s-0d446d7e405eb90a487b7ad1|2 straipsnio 18 dalyje]] išbraukti žodį „užtaisoma“ ir šią dalį išdėstyti taip: ^s-34fcc57d9fa24657c25ceb99
 
 
 „18. Šaudmens dalis – sviedinys, užtaisas, kapsulė, kapsulinė tūtelė, tūtelė.“
 
 
-12. Pakeisti [[#^0e6c2c6f6cb2afdb81c9d9a6|2 straipsnio 21 dalį]] ir ją išdėstyti taip: ^b9a706a5545ed0f8fc6729a9
+12. Pakeisti [[#^s-39b054856b73e9f033b55e35|2 straipsnio 21 dalį]] ir ją išdėstyti taip: ^s-fd99c62466436cd4950994a8
 
 
 „21. Ekspansyvioji kulka – kulka su susilpnintu smaigaliu, kuri skverbdamasi į kliūtį staiga deformuojasi.“
 
 
-13. Pakeisti 2 straipsnio 28 dalį ir ją išdėstyti taip: ^6d40f025bd7aea4a84745fa2
+13. Pakeisti 2 straipsnio 28 dalį ir ją išdėstyti taip: ^s-28c86f9480976637ab30178a
 
 
 „28. Ginklų ar šaudmenų apyvarta – ginklų ar šaudmenų gamyba, taisymas, pardavimas, perdavimas, įgijimas, dovanojimas, laikymas, saugojimas, gabenimas, nešiojimas, naudojimas, paėmimas, realizavimas, sunaikinimas, eksportas (išvežimas iš Lietuvos Respublikos teritorijos), importas (įvežimas į Lietuvos Respublikos teritoriją), taip pat kiti šio Įstatymo reglamentuojami veiksmai.“
 
 
-14. 2 straipsnio 30 dalyje po žodžių „Vidaus reikalų ministerija“ įrašyti žodžius „vidaus reikalų statutinės įstaigos“, po žodžių „Generalinė prokuratūra“ išbraukti žodžius „prie Lietuvos Aukščiausiojo Teismo“ ir šią dalį išdėstyti taip: ^a9aa10568165a0035a8c2187
+14. 2 straipsnio 30 dalyje po žodžių „Vidaus reikalų ministerija“ įrašyti žodžius „vidaus reikalų statutinės įstaigos“, po žodžių „Generalinė prokuratūra“ išbraukti žodžius „prie Lietuvos Aukščiausiojo Teismo“ ir šią dalį išdėstyti taip: ^s-036754f2e7d468dcdf72e270
 
 
 „30. Specialaus statuso subjektai – Specialiųjų tyrimų tarnyba, Krašto apsaugos ministerija, Vidaus reikalų ministerija, vidaus reikalų statutinės įstaigos, Valstybės saugumo departamentas, Generalinė prokuratūra, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės (toliau – Ginklų fondas), Kalėjimų departamentas prie Teisingumo ministerijos, Šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, taip pat Lietuvos Respublikos muitinė.“
 
 
-15. Pakeisti 2 straipsnio 31 dalį ir ją išdėstyti taip: ^877b075a6de7c7bf876fdf0b
+15. Pakeisti 2 straipsnio 31 dalį ir ją išdėstyti taip: ^s-ddd949eb1ae80cc895d1b760
 
 
 „31. Kontroliuojantysis asmuo – fizinis asmuo, kuris būdamas Lietuvos Respublikoje įregistruoto juridinio asmens akcininkas (pajininkas, narys) pats turi daugiau kaip trečdalį visų balsų arba turi teisę išrinkti (paskirti) daugumą stebėtojų tarybos (valdybos) narių, administracijos vadovus arba faktiškai kontroliuoja Lietuvos Respublikoje įregistruoto juridinio asmens ar jo filialo priimamus sprendimus“.
 
 
-16. Pakeisti 2 straipsnio 32 dalį ir ją išdėstyti taip: ^ddd131f67edfeb98a251174c
+16. Pakeisti 2 straipsnio 32 dalį ir ją išdėstyti taip: ^s-9e983af5461ea57a8b9a6280
 
 
 „32. Ginklininkas – Lietuvos Respublikoje įregistruoto juridinio asmens administracijos vadovo ar kito įgalioto asmens sprendimu paskirtas asmuo, atsakingas už Lietuvos Respublikoje įregistruoto juridinio asmens ar jo padalinio ginklų, šaudmenų gabenimą, priėmimą, laikymą, išdavimą, apskaitą.“
 
 
-17. 2 straipsnio 35 dalyje išbraukti žodžius „iš šaunamųjų ginklų“ ir šią dalį išdėstyti taip: ^d2bd0e6344f39463f3ea0a21
+17. 2 straipsnio 35 dalyje išbraukti žodžius „iš šaunamųjų ginklų“ ir šią dalį išdėstyti taip: ^s-a666e325afd29ccf0ecc73ff
 
 
 „35. Tiras – statinys, specialiai įrengtas saugiai šaudyti.“
 
 
-18. Pakeisti 2 straipsnio 36 dalį ir ją išdėstyti taip: ^c66369664abdcf177fe18e57
+18. Pakeisti 2 straipsnio 36 dalį ir ją išdėstyti taip: ^s-0d446d7e405eb90a487b7ad1
 
 
 „36. Šaudykla – vietovė, pritaikyta saugiai šaudyti.“
 
 
-19. Pakeisti 2 straipsnio 37 dalį ir ją išdėstyti taip: ^e4ec5dfeacd9bce16f7d0412
+19. Pakeisti 2 straipsnio 37 dalį ir ją išdėstyti taip: ^s-4979e9776362600974b2057a
 
 
 „37. Ginklų, jų pagrindinių dalių, priedėlių ir šaudmenų gamyba – ginklų, jų pagrindinių dalių, priedėlių, taip pat šaudmenų gaminimas, jų dalių surinkimas į visumą.“
 
 
-20. Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip: ^472c3b74bc33a119127f4a1d
+20. Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip: ^s-589ccdc4b46adf98eed577d8
 
 
 „41. Ginklo ir (ar) šaudmenų laikymas – ginklo, šaudmenų valdymas (faktinis turėjimas savo žinioje) fizinio asmens būste ar juridinio asmens patalpose arba kitose vietose, turinčiose aiškiai apibrėžtas ribas.“
 
 
-21. Pakeisti 2 straipsnio 44 dalį ir ją išdėstyti taip: ^0e6c2c6f6cb2afdb81c9d9a6
+21. Pakeisti 2 straipsnio 44 dalį ir ją išdėstyti taip: ^s-39b054856b73e9f033b55e35
 
 
 „44. Leidimas vežti ginklus, šaudmenis, jų dalis – dokumentas, kuriuo suteikiama teisė vežti ginklus, šaudmenis, jų dalis iš Europos Sąjungos valstybės narės į Europos Sąjungos valstybę narę.“
 
 
-22. Pakeisti 2 straipsnio 45 dalį ir ją išdėstyti taip: ^bb2bafd96d502ff354972dcf
+22. Pakeisti 2 straipsnio 45 dalį ir ją išdėstyti taip: ^s-a007769db2e49d4f557d9dcc
 
 
 „45. Išankstinis sutikimas dėl ginklų, šaudmenų, jų dalių įvežimo – dokumentas, kuriuo Europos Sąjungos valstybės narės kompetentinga institucija patvirtina, kad neprieštarauja dėl dokumente nurodytų ginklų, jų dalių, šaudmenų įvežimo į šios valstybės teritoriją.“
 
 
-23. Pakeisti 2 straipsnio 47 dalį ir ją išdėstyti taip: ^18e791ecbf035240c3e96117
+23. Pakeisti 2 straipsnio 47 dalį ir ją išdėstyti taip: ^s-7ca696f6043631add4648759
 
 
 „47. Ginklų, jų priedėlių ir šaudmenų klasifikacija – šiame Įstatyme nustatytas ginklų, jų priedėlių ir šaudmenų priskyrimas pagal jų pavojingumo laipsnį vienai iš kategorijų (A, B, C arba D). Pavojingiausi yra A kategorijos ginklai, jų priedėliai ir šaudmenys, mažiausiai pavojingi – D kategorijos ginklai ir šaudmenys.“
 
 
-24. Papildyti [[#2 straipsnis.         2 straipsnio 2, 3, 6, 9, 10, 12, 13, 14, 16, 17, 18, 21, 28, 30, 31, 32, 35, 36, 37, 41, 44, 45, 47 dalių pakeitimas ir straipsnio papildymas 48, 49, 50, 51, 52, 53, 54, 55 ir 56 dalimis|2 straipsnį]] 48, 49, 50, 51, 52, 53, 54, 55 ir [[#^46846972860305ba0a5e19c6|56 dalimis]]: ^af7caedffa8cf15b2b23115d
+24. Papildyti [[#^s-753a2e5517f4be6f0c8f6192|2 straipsnį]] 48, 49, 50, 51, 52, 53, 54, 55 ir [[#^s-89f72b92fc6bbf400996ab3c|56 dalimis]]: ^s-6f9c05abd880a213e34c6196
 
 
 „48. Ginklo priedėlis – duslintuvas, lazerinis, optinis ir naktinis taikikliai.
 
 
-49. Šaltasis ginklas – nešaunamasis ginklas, kuriuo, naudojantis raumenų jėga, per atstumą arba esant tiesioginiam sąlyčiui galima sunaikinti ar kitaip mechaniškai paveikti taikinį (durti, pjauti, kirsti, smogti, triuškinti). Šaltaisiais ginklais nelaikomi ūkinės ar buitinės paskirties įrankiai. ^24b9c2319e7f8580b3eab050
+49. Šaltasis ginklas – nešaunamasis ginklas, kuriuo, naudojantis raumenų jėga, per atstumą arba esant tiesioginiam sąlyčiui galima sunaikinti ar kitaip mechaniškai paveikti taikinį (durti, pjauti, kirsti, smogti, triuškinti). Šaltaisiais ginklais nelaikomi ūkinės ar buitinės paskirties įrankiai. ^s-e65dee4940f5d432200c29f7
 
 
-50. Profesinė veikla – fizinio ar juridinio asmens veikla, už kurią šis asmuo gauna pajamų ir kuriai vykdyti įstatymų nustatyta tvarka reikia nešiotis (naudoti) ginklus. ^7d12b26f3db86a1ec97ef7dd
+50. Profesinė veikla – fizinio ar juridinio asmens veikla, už kurią šis asmuo gauna pajamų ir kuriai vykdyti įstatymų nustatyta tvarka reikia nešiotis (naudoti) ginklus. ^s-bca2ea27b3d2c6fc15cca441
 
 
-51. Karinė technika – technikos priemonės kariniam naudojimui. ^8fa76670b1e2fa791a761827
+51. Karinė technika – technikos priemonės kariniam naudojimui. ^s-393b94bdae07c691acf4de74
 
 
-52. Karinės technikos įranga – įrankiai, prietaisai, įtaisai karinės technikos veikimui ir jos sėkmingam naudojimui užtikrinti. ^184a1913dab0c55f57d81e05
+52. Karinės technikos įranga – įrankiai, prietaisai, įtaisai karinės technikos veikimui ir jos sėkmingam naudojimui užtikrinti. ^s-20d4b1430154bf2c71635e15
 
 
-53. Imitacinis šaudmuo – šaudmuo be sviedinio (susidedantis iš tūtos, kapsulės, parako užtaiso ir kamščio ar be kamščio) šūviui iš šaunamojo ginklo imituoti. ^6c3887585c76b0d7d379f9d2
+53. Imitacinis šaudmuo – šaudmuo be sviedinio (susidedantis iš tūtos, kapsulės, parako užtaiso ir kamščio ar be kamščio) šūviui iš šaunamojo ginklo imituoti. ^s-1d50ee814fde43eb58572b45
 
 
-54. Elektros šoko įtaisas – nešaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus ar per atstumą paveikti taikinį elektros srove. ^ae4aa648751fc1e2a8e415ed
+54. Elektros šoko įtaisas – nešaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus ar per atstumą paveikti taikinį elektros srove. ^s-e96f355048c724c4650dc2a6
 
 
-55. Naktinis taikiklis – tvirtinamas prie ginklo ir skirtas ginklui nutaikyti į taikinį prietaisas, kuriuo, pasinaudojus elektronika, išryškinamas silpnai apšviestas arba neapšviestas taikinys. ^8eb5b52f10151f20e59b6da9
+55. Naktinis taikiklis – tvirtinamas prie ginklo ir skirtas ginklui nutaikyti į taikinį prietaisas, kuriuo, pasinaudojus elektronika, išryškinamas silpnai apšviestas arba neapšviestas taikinys. ^s-a2d5bdad65a9af1fc0b2ebd5
 
 
-56. Lietuvos Respublikoje įregistruoti juridiniai asmenys – Lietuvos Respublikoje įregistruoti juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių filialai.“ ^46846972860305ba0a5e19c6
+56. Lietuvos Respublikoje įregistruoti juridiniai asmenys – Lietuvos Respublikoje įregistruoti juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių filialai.“ ^s-89f72b92fc6bbf400996ab3c
 
 
 
-### 3 straipsnis. 3 straipsnio pakeitimas
+### 3 straipsnis. 3 straipsnio pakeitimas ^s-bb830b80ba05b9f6220b7a85
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
@@ -246,274 +251,274 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 A kategorijai priskiriami šie ginklai, įrenginiai, daiktai, šaudmenys, ginklų priedėliai:
 
 
-1) karinės raketos su sprogstamaisiais užtaisais ir jų paleidimo įtaisai; ^6cb540e70a7398f466402c55
+1) karinės raketos su sprogstamaisiais užtaisais ir jų paleidimo įtaisai; ^s-24c1b326d7a4c033f029b937
 
 
-2) automatiniai šaunamieji ginklai; ^b155ee8b4b9369162762e601
+2) automatiniai šaunamieji ginklai; ^s-18a316edecb8910ae92dae05
 
 
-3) ginklai, kurie užmaskuoti kaip kiti daiktai; ^166bd66264f3b8b87f05a0e7
+3) ginklai, kurie užmaskuoti kaip kiti daiktai; ^s-f74105fa22c6e54a08144dd9
 
 
-4) šaudmenys su šarvamušiais, sprogstamaisiais arba padegamaisiais sviediniais ir šių šaudmenų sviediniai bei jų paleidimo įtaisai; ^62f8a5329f8b8e51e43bc674
+4) šaudmenys su šarvamušiais, sprogstamaisiais arba padegamaisiais sviediniais ir šių šaudmenų sviediniai bei jų paleidimo įtaisai; ^s-d9d9b15eb231988bed7d0aba
 
 
-5) pistoletų ir revolverių šoviniai su ekspansyviosiomis kulkomis ir kulkos tokiems šoviniams, išskyrus atvejus, kai tokius šovinius ir kulkas medžioklei ar sportiniam šaudymui naudoja turintys tam teisę asmenys; ^27923f863dda9bff2bb30fdc
+5) pistoletų ir revolverių šoviniai su ekspansyviosiomis kulkomis ir kulkos tokiems šoviniams, išskyrus atvejus, kai tokius šovinius ir kulkas medžioklei ar sportiniam šaudymui naudoja turintys tam teisę asmenys; ^s-60c77117e0bb788e57b079c3
 
 
-6) duslintuvai, naktinio matymo taikikliai; ^082436522f45d700d0551b1b
+6) duslintuvai, naktinio matymo taikikliai; ^s-6123cd5be7b545affbe26b06
 
 
-7) visų kalibrų patrankos, haubicos, mortyros, minosvaidžiai; ^c737768aefe9ded7042f4587
+7) visų kalibrų patrankos, haubicos, mortyros, minosvaidžiai; ^s-b569082ed54cb23872a9387b
 
 
-8) granatos ir granatsvaidžiai, tarp jų ir ašarinės granatos bei jų paleidimo įtaisai; ^6d7080fc8cfb8678ddc7b50c
+8) granatos ir granatsvaidžiai, tarp jų ir ašarinės granatos bei jų paleidimo įtaisai; ^s-cd81bcc8f548c15344ad393d
 
 
-9) visų rūšių bombos, torpedos, minos, jų užtaisyti ir neužtaisyti sviediniai bei jų paleidimo įtaisai; ^9146d92f08a093f875ea39c3
+9) visų rūšių bombos, torpedos, minos, jų užtaisyti ir neužtaisyti sviediniai bei jų paleidimo įtaisai; ^s-71598ac745c92ac115c659df
 
 
-10) liepsnosvaidžiai ir visi padegamieji sviediniai; ^6a2bd313a5edf8241c13e5dc
+10) liepsnosvaidžiai ir visi padegamieji sviediniai; ^s-1240792c2a9b9e4fb7630f53
 
 
-11) ginklai, kurių lazerio spindulys naudojamas karo tikslams ar taikiniui sunaikinti; ^5272b8edc28022b8ce29c481
+11) ginklai, kurių lazerio spindulys naudojamas karo tikslams ar taikiniui sunaikinti; ^s-e273d93697926599abb844a8
 
 
-12) ginklai, įtaisai, skirti taikiniui chemiškai sunaikinti; ^3d25fc01af3366a86f89a872
+12) ginklai, įtaisai, skirti taikiniui chemiškai sunaikinti; ^s-b7c40343d043e0292ad684f7
 
 
-13) templiniai ginklai, kurių visa įtempimo jėga viršija 1 200 N; ^e9502793a320398056c182d9
+13) templiniai ginklai, kurių visa įtempimo jėga viršija 1 200 N; ^s-1914e0450232dd7c9bfa1551
 
 
-14) šaunamieji ginklai, kurių konstrukcija leidžia panaudoti juos išardytus ar jie pakeičiami taip, kad tampa lengvai paslepiami; ^ae62a472a0a3debda876978c
+14) šaunamieji ginklai, kurių konstrukcija leidžia panaudoti juos išardytus ar jie pakeičiami taip, kad tampa lengvai paslepiami; ^s-81d64fd647348a318b9fe910
 
 
-15) ginklai, kuriuose kaip taikinį naikinanti ar kitaip jį žalojanti priemonė naudojamas radioaktyvusis, elektromagnetinis, šviesos, šilumos, infragarso ar ultragarso spinduliavimas, pavojingas biologinis poveikis, pavojingos gyvybei dujos ar kitokios pavojingos sveikatai ar gyvybei medžiagos arba energija; ^c81f8061552345b4e8c372a3
+15) ginklai, kuriuose kaip taikinį naikinanti ar kitaip jį žalojanti priemonė naudojamas radioaktyvusis, elektromagnetinis, šviesos, šilumos, infragarso ar ultragarso spinduliavimas, pavojingas biologinis poveikis, pavojingos gyvybei dujos ar kitokios pavojingos sveikatai ar gyvybei medžiagos arba energija; ^s-a68645cd5f43965a4cd8a533
 
 
-16) šaudmenys tik A kategorijos ginklams; ^a728bdd03bc36d89515794ae
+16) šaudmenys tik A kategorijos ginklams; ^s-4ad75d660884dc0670f33227
 
 
-17) snaiperiniai šaunamieji ginklai kariniam naudojimui.“ ^85b0bca82791d404a5a1da37
+17) snaiperiniai šaunamieji ginklai kariniam naudojimui.“ ^s-91c38e53ff553bf8616a832b
 
 
 
-### 4 straipsnis. 6 straipsnio pakeitimas
+### 4 straipsnis. 6 straipsnio pakeitimas ^s-f328289559fc394b9bbb2778
 
 
-Pakeisti [[#6 straipsnis. 8 straipsnio 1 dalies pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-f05b42fa5ed728c1aa95e7a1|6 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#6 straipsnis. 8 straipsnio 1 dalies pakeitimas|6 straipsnis]]. D kategorijos ginklai
+„[[#^s-f05b42fa5ed728c1aa95e7a1|6 straipsnis]]. D kategorijos ginklai
 
 
-1. D kategorijos ginklams priskiriami: ^6d560d32a39dfe846907c183
+1. D kategorijos ginklams priskiriami: ^s-bef0b06e5883aa800a8f4ef8
 
 
-1) vienašūviai ilgieji lygiavamzdžiai šaunamieji ginklai; ^07f70f3b4c73233d14425c6d
+1) vienašūviai ilgieji lygiavamzdžiai šaunamieji ginklai; ^s-7d8b75d792e79826b8facb11
 
 
-2) signaliniai šautuvai, pistoletai (revolveriai); ^49f560191522bb9f0233d0f5
+2) signaliniai šautuvai, pistoletai (revolveriai); ^s-848756f71d5f9f3c3bcfa618
 
 
-3) pneumatiniai ginklai, kurių sviedinio kinetinė energija yra nuo 2,5 J iki 7,5 J; ^2ec6801d4de066d6a24c1ea1
+3) pneumatiniai ginklai, kurių sviedinio kinetinė energija yra nuo 2,5 J iki 7,5 J; ^s-01122ee40eae989474a398ef
 
 
-4) dujiniai ginklai (pistoletai (revolveriai), aerozoliniai įrenginiai, įtaisai); ^6d35b9e9754aca2afcde075f
+4) dujiniai ginklai (pistoletai (revolveriai), aerozoliniai įrenginiai, įtaisai); ^s-98a0e43f07d85ccce5c1c515
 
 
-5) šaunamieji ginklai, atitinkantys kitų kategorijų kriterijus, tačiau joms nepriskiriami dėl nedidelės nukaunamosios galios, ir kurių sviedinio kinetinė energija yra nuo 2,5 J iki 7,5 J; ^068f0df404589940c2516416
+5) šaunamieji ginklai, atitinkantys kitų kategorijų kriterijus, tačiau joms nepriskiriami dėl nedidelės nukaunamosios galios, ir kurių sviedinio kinetinė energija yra nuo 2,5 J iki 7,5 J; ^s-891a2949eacb30c30e567e92
 
 
-6) šaltieji ginklai, nepriskirti draudžiamiesiems ginklams; ^3779015aaf1c565b58820120
+6) šaltieji ginklai, nepriskirti draudžiamiesiems ginklams; ^s-14ae28622378a19560054aab
 
 
-7) senoviniai šaunamieji ginklai; ^16515281445e1cce5ed0b03f
+7) senoviniai šaunamieji ginklai; ^s-7c0d02ff25693eb75bd02e9e
 
 
-8) elektros šoko įtaisai savigynai; ^b8aef4ef35bdf9d71c533704
+8) elektros šoko įtaisai savigynai; ^s-aaeca585c9ba821b8184f886
 
 
-9) ginklai, visiškai netinkami naudoti pagal tiesioginę paskirtį; ^df895f29763bb5d1cc0c1ce0
+9) ginklai, visiškai netinkami naudoti pagal tiesioginę paskirtį; ^s-9b48d457fae0326535d32957
 
 
-10) prietaisai ar daiktai, sukonstruoti kaip svoriniai-gabaritiniai ginklų maketai. ^0e94fba37848a0fd9d81d842
+10) prietaisai ar daiktai, sukonstruoti kaip svoriniai-gabaritiniai ginklų maketai. ^s-78cc9ab6f0d263dbc95312ec
 
 
-2. [[#^07f70f3b4c73233d14425c6d|Šio straipsnio 1 dalies 1 punkte]] nurodytų vienašūvių ilgųjų lygiavamzdžių šaunamųjų ginklų apyvartai taikomi tokie patys reikalavimai kaip ir C kategorijos ilgųjų šaunamųjų ginklų apyvartai, nors atskiruose šio Įstatymo straipsniuose vienašūviai ilgieji lygiavamzdžiai šaunamieji ginklai ir nepaminėti, o Įstatymo straipsniai, reglamentuojantys D kategorijos ginklų apyvartą, netaikomi vienašūviams ilgiesiems lygiavamzdžiams šaunamiesiems ginklams.“ ^bc34f446bd727e623d718924
+2. [[#^s-7d8b75d792e79826b8facb11|Šio straipsnio 1 dalies 1 punkte]] nurodytų vienašūvių ilgųjų lygiavamzdžių šaunamųjų ginklų apyvartai taikomi tokie patys reikalavimai kaip ir C kategorijos ilgųjų šaunamųjų ginklų apyvartai, nors atskiruose šio Įstatymo straipsniuose vienašūviai ilgieji lygiavamzdžiai šaunamieji ginklai ir nepaminėti, o Įstatymo straipsniai, reglamentuojantys D kategorijos ginklų apyvartą, netaikomi vienašūviams ilgiesiems lygiavamzdžiams šaunamiesiems ginklams.“ ^s-35f1278f33e372019002c6d2
 
 
 
-### 5 straipsnis. 7 straipsnio pakeitimas
+### 5 straipsnis. 7 straipsnio pakeitimas ^s-1f04bdb6b45fff4ba3646acf
 
 
-Pakeisti [[#7 straipsnis. 11 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi|7 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-1cf8397f983b8f88c7c11723|7 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#7 straipsnis. 11 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi|7 straipsnis]]. Draudžiami ginklai ir šaudmenys
+„[[#^s-1cf8397f983b8f88c7c11723|7 straipsnis]]. Draudžiami ginklai ir šaudmenys
 
 
-1. Lietuvos Respublikoje draudžiami visi ginklai, ginklų priedėliai ir šaudmenys, kuriuos draudžia Lietuvos Respublikos tarptautinės sutartys. ^ec36e1e6c47517aaefa5868c
+1. Lietuvos Respublikoje draudžiami visi ginklai, ginklų priedėliai ir šaudmenys, kuriuos draudžia Lietuvos Respublikos tarptautinės sutartys. ^s-a504264b2e654a9c10d08217
 
 
-2. Lietuvos Respublikoje draudžiami A, B, C kategorijų graižtviniai ir lygiavamzdžiai šaunamieji ginklai, neturintys identifikacinių numerių. Tokius ginklus gali turėti tik kriminalistinės ekspertizės įstaigos, taip pat šio Įstatymo 38 straipsnio nustatyta tvarka perdirbtus ginklus – juos kolekcionuojantys asmenys. ^537bb92045e6489cc67d2fb3
+2. Lietuvos Respublikoje draudžiami A, B, C kategorijų graižtviniai ir lygiavamzdžiai šaunamieji ginklai, neturintys identifikacinių numerių. Tokius ginklus gali turėti tik kriminalistinės ekspertizės įstaigos, taip pat šio Įstatymo 38 straipsnio nustatyta tvarka perdirbtus ginklus – juos kolekcionuojantys asmenys. ^s-4e33a38defdf514f7346d7e7
 
 
-3. Civilinėje apyvartoje draudžiami: ^cbce57e44277805d19032f7b
+3. Civilinėje apyvartoje draudžiami: ^s-727e532a9229f3623d4db8ed
 
 
-1) A kategorijos ginklai, ginklų priedėliai ir šaudmenys, skirti tik A kategorijos ginklams, išskyrus atvejus, kai juos naudoja Lietuvos bankas, Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys A kategorijos ginklus, ginklų priedėlius, šaudmenis A kategorijos ginklams, jų dalis, valstybinės kriminalistinės ekspertizės įstaigos, valstybiniai muziejai ir A kategorijos ginklus, šaudmenis, jų dalis ir priedėlius tiriančios bei konstruojančios mokslinio tyrimo įstaigos; ^23a12edb167a56a115dd2544
+1) A kategorijos ginklai, ginklų priedėliai ir šaudmenys, skirti tik A kategorijos ginklams, išskyrus atvejus, kai juos naudoja Lietuvos bankas, Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys A kategorijos ginklus, ginklų priedėlius, šaudmenis A kategorijos ginklams, jų dalis, valstybinės kriminalistinės ekspertizės įstaigos, valstybiniai muziejai ir A kategorijos ginklus, šaudmenis, jų dalis ir priedėlius tiriančios bei konstruojančios mokslinio tyrimo įstaigos; ^s-03ef5ae6e0271e16e8c5b50b
 
 
-2) bet kokie savadarbiai šaunamieji ginklai; ^7a72b1085981274a5dfd1153
+2) bet kokie savadarbiai šaunamieji ginklai; ^s-07e13a61eae4e4409b574a6d
 
 
-3) dujiniai ginklai su nuodingosiomis medžiagomis, šaunamųjų ginklų šaudmenys su nuodingosiomis medžiagomis; ^271e4eb6cac573ab3e689fb7
+3) dujiniai ginklai su nuodingosiomis medžiagomis, šaunamųjų ginklų šaudmenys su nuodingosiomis medžiagomis; ^s-531c27eff4dfa078359eef76
 
 
-4) begarsiai šoviniai; ^34e55b8ca1713409ef16e0d9
+4) begarsiai šoviniai; ^s-2e73e624a6536f90c63a2691
 
 
-5) šoviniai, kurių kulkos yra su kieto metalo šerdimi ar kieto metalo apvalkalu; ^398c90237fa9f32b77b45d71
+5) šoviniai, kurių kulkos yra su kieto metalo šerdimi ar kieto metalo apvalkalu; ^s-40c0b76113f458cad832533a
 
 
-6) lazeriniai taikikliai, išskyrus naudojamus sportui; ^f7b79aed99365fe0b391c1de
+6) lazeriniai taikikliai, išskyrus naudojamus sportui; ^s-36843fd99de3c261aab087f1
 
 
-7) kastetai, blakštai, mėtomosios žvaigždės ir kiti šaltieji smogiamojo ir svaidomojo pobūdžio ginklai; ^9f4a1ce5f0925a490dcbda59
+7) kastetai, blakštai, mėtomosios žvaigždės ir kiti šaltieji smogiamojo ir svaidomojo pobūdžio ginklai; ^s-d0fb2617dcfd77a1bdc0107e
 
 
-8) elektros šoko įtaisai su iššaunamosiomis adatomis, lanksčiais laidais sujungtomis su aukštosios įtampos elektros energijos šaltiniu. ^249f8121e3514d9a68672d8e
+8) elektros šoko įtaisai su iššaunamosiomis adatomis, lanksčiais laidais sujungtomis su aukštosios įtampos elektros energijos šaltiniu. ^s-516bfd91212d70cb314d9509
 
 
-4. Civilinėje apyvartoje draudžiami šaltieji duriamieji, pjaunamieji ginklai su automatiškai iššokančia ar atsilenkiančia geležte, kurie atitinka bent vieną iš šių kriterijų: ^0df2360da8455cd8a9ee9c15
+4. Civilinėje apyvartoje draudžiami šaltieji duriamieji, pjaunamieji ginklai su automatiškai iššokančia ar atsilenkiančia geležte, kurie atitinka bent vieną iš šių kriterijų: ^s-680591b28bcf06aa3b4970eb
 
 
-1) iššokanti ar atsilenkianti geležtė yra ilgesnė kaip 8,5 cm; ^1295cf8c755537fe73f72a50
+1) iššokanti ar atsilenkianti geležtė yra ilgesnė kaip 8,5 cm; ^s-4879a5baacec8f7c419b38e1
 
 
-2) per vidurį geležtė yra siauresnė kaip 14 proc. jos ilgio; ^8b2082722f522348994c5fa7
+2) per vidurį geležtė yra siauresnė kaip 14 proc. jos ilgio; ^s-03178eab35d328bd1b0cfcdc
 
 
-3) iš abiejų pusių paaštrinta geležtė. ^dcf0bb940ef29015f32f8c90
+3) iš abiejų pusių paaštrinta geležtė. ^s-2416bf3c1a7b8aa51aac82b6
 
 
-5. Sprendimą dėl daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos, infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas gyvybei dujas ar kitokias pavojingas sveikatai ar gyvybei medžiagas arba energiją, pripažinimo ginklais, nurodytais šio Įstatymo [[#^c81f8061552345b4e8c372a3|3 straipsnio 15 punkte]], priima ekspertų komisija, nurodyta šio Įstatymo 1 straipsnio 5 dalyje.“ ^3ec674d8783cca8080eb80c6
+5. Sprendimą dėl daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos, infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas gyvybei dujas ar kitokias pavojingas sveikatai ar gyvybei medžiagas arba energiją, pripažinimo ginklais, nurodytais šio Įstatymo [[#^s-a68645cd5f43965a4cd8a533|3 straipsnio 15 punkte]], priima ekspertų komisija, nurodyta šio Įstatymo 1 straipsnio 5 dalyje.“ ^s-d3ffb597d32c60189372f13e
 
 
 
-### 6 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-f05b42fa5ed728c1aa95e7a1
 
 
-Pakeisti [[#^5ca439daac9f898c576cf701|8 straipsnio 1 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-6af6d5ae4db2e62990d119a5|8 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Valstybinis ginklų registras – tai oficialus duomenų apie Lietuvos Respublikoje įregistruotus ginklus, jų savininkus ar valdytojus rinkinys. Valstybiniame ginklų registre kaupiami duomenys ir apie importuotus, eksportuotus, įvežtus į Lietuvos Respublikos teritoriją ir išvežtus iš Lietuvos Respublikos teritorijos ginklus, sunaikintus ginklus.“
 
 
 
-### 7 straipsnis. 11 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+### 7 straipsnis. 11 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi ^s-1cf8397f983b8f88c7c11723
 
 
-1. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^15b6dba39de63845870637fa
+1. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^s-1a800ccdba02d587d7560797
 
 
-„3. Lietuvos Respublikoje įregistruoto juridinio asmens, kuris nori įsigyti ir turėti ginklų, šaudmenų, darbuotoju, tiesiogiai susijusiu su ginklų, šaudmenų įsigijimu, laikymu, apskaita, taip pat ginklininku negali būti asmuo, kuriam taikomi šio Įstatymo [[#^b88de5262ee53f33552a2a16|17 straipsnio 1 dalies]] 3, 4 punktuose ir [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalyje]] nustatyti apribojimai. Šioje dalyje nurodyto Lietuvos Respublikoje įregistruoto juridinio asmens administracijos vadovu negali būti asmuo, kuriam taikomi šio Įstatymo [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalyje]] nustatyti apribojimai.“
+„3. Lietuvos Respublikoje įregistruoto juridinio asmens, kuris nori įsigyti ir turėti ginklų, šaudmenų, darbuotoju, tiesiogiai susijusiu su ginklų, šaudmenų įsigijimu, laikymu, apskaita, taip pat ginklininku negali būti asmuo, kuriam taikomi šio Įstatymo [[#^s-68eb19bd46283a702b53a784|17 straipsnio 1 dalies]] 3, 4 punktuose ir [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalyje]] nustatyti apribojimai. Šioje dalyje nurodyto Lietuvos Respublikoje įregistruoto juridinio asmens administracijos vadovu negali būti asmuo, kuriam taikomi šio Įstatymo [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalyje]] nustatyti apribojimai.“
 
 
-2. Papildyti straipsnį 4 dalimi: ^49e200ac4ff6318ba9e1a9af
+2. Papildyti straipsnį 4 dalimi: ^s-d0fd04478e581f3d77369bc3
 
 
 „4. Lietuvos Respublikoje įregistruotas juridinis asmuo, kurio kontroliuojančiajam asmeniui taikomi šio Įstatymo 18 straipsnio 2 dalyje nustatyti apribojimai, negali įsigyti ir turėti ginklų, šaudmenų.“
 
 
 
-### 8 straipsnis. 12 straipsnio 1, 2, 8 ir 10 dalių pakeitimas
+### 8 straipsnis. 12 straipsnio 1, 2, 8 ir 10 dalių pakeitimas ^s-8ffe14ca1d4ce2402f5370f5
 
 
-1. Pakeisti [[#^0f920e8f336965763aca158a|12 straipsnio 1 dalį]] ir ją išdėstyti taip: ^5ca439daac9f898c576cf701
+1. Pakeisti [[#^s-22676ac0b9f6a4db6ea3df87|12 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-6af6d5ae4db2e62990d119a5
 
 
 „1. Leidimus įsigyti A, B, C kategorijų ginklus fiziniams asmenims, Lietuvos Respublikoje įregistruotiems juridiniams asmenims (išskyrus specialaus statuso subjektus, valstybines kriminalistinės ekspertizės įstaigas) išduoda policijos įstaigos.“
 
 
-2. Pakeisti [[#^82d5dc557bf60f29c3e13561|12 straipsnio 2 dalį]] ir ją išdėstyti taip: ^f2c76b02b30302096a6e1c65
+2. Pakeisti [[#^s-dfb1b52ef81ac537febb5286|12 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-5ca11bf1341db3f16b383579
 
 
 „2. Leidimai įsigyti A, B, C kategorijų ginklus išduodami:
 
 
-1) fiziniams asmenims, turintiems teisę įsigyti tokių kategorijų ginklus; ^fec0e056bf1c011df10ad346
+1) fiziniams asmenims, turintiems teisę įsigyti tokių kategorijų ginklus; ^s-d1f2eca820816e8230a765f4
 
 
-2) Lietuvos Respublikoje įregistruotiems juridiniams asmenims, gavusiems šio Įstatymo [[#^e0055bcc2644a61e5b077f5a|19 straipsnio 1 dalies]] 1, 5 ir 6 punktuose nurodytos veiklos licencijas ir turintiems teisę įsigyti tokių kategorijų ginklus; ^ffb0bdca5ee521ff6f42a6d6
+2) Lietuvos Respublikoje įregistruotiems juridiniams asmenims, gavusiems šio Įstatymo [[#^s-b019e2c1db1de9355743b6c5|19 straipsnio 1 dalies]] 1, 5 ir 6 punktuose nurodytos veiklos licencijas ir turintiems teisę įsigyti tokių kategorijų ginklus; ^s-dd68f40aa4335161901507f4
 
 
-3) Lietuvos Respublikoje įregistruotiems juridiniams asmenims, vykdantiems profesinę veiklą ir turintiems teisę įsigyti tokių kategorijų ginklus.“ ^ec6b895f06f90b6a90cb317c
+3) Lietuvos Respublikoje įregistruotiems juridiniams asmenims, vykdantiems profesinę veiklą ir turintiems teisę įsigyti tokių kategorijų ginklus.“ ^s-fdabda6830b56a35a7a881f4
 
 
-3. 12 straipsnio 8 dalyje vietoj skaičiaus „300“ įrašyti skaičių „500“, vietoj skaičiaus ir žodžių „iki 1000 vienetų“ įrašyti žodžius „neribotą kiekį“ ir šią dalį išdėstyti taip: ^35095d4ac99a0b20a3ed1a91
+3. 12 straipsnio 8 dalyje vietoj skaičiaus „300“ įrašyti skaičių „500“, vietoj skaičiaus ir žodžių „iki 1000 vienetų“ įrašyti žodžius „neribotą kiekį“ ir šią dalį išdėstyti taip: ^s-5bc573a0ec6898590965d3c1
 
 
 „8. Fiziniai asmenys gali įsigyti ir vienu metu turėti ne daugiau kaip 500 vienetų kiekvieno tipo (kalibro) šovinių ginklams, kuriuos jie turi. Fiziniai asmenys, turintys ginklus sportui, gali įsigyti ir vienu metu turėti neribotą kiekį kiekvieno tipo (kalibro) šovinių.“
 
 
-4. Papildyti 12 straipsnio 10 dalį nauju sakiniu ir šią dalį išdėstyti taip: ^1eefd4ff03f2deb0b98b2037
+4. Papildyti 12 straipsnio 10 dalį nauju sakiniu ir šią dalį išdėstyti taip: ^s-4fc90999664bf43baf1a8894
 
 
 „10. Leidimai įsigyti A, B, C kategorijų ginklus, jų šaudmenis Lietuvos Respublikos nuolatiniams gyventojams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims išduodami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Įsigyti ginklai turi būti įregistruojami policijos įstaigose ne vėliau kaip per 10 dienų nuo įsigijimo. Įregistravus ginklus, išduodamas leidimas nešiotis ginklus arba leidimas laikyti ginklus. Fiziniams asmenims gali būti išduodamas tik vienas leidimas laikyti (nešiotis) ginklus. Jame nurodoma, kokius ginklus asmuo gali laikyti, kokius – nešiotis.“
 
 
 
-### 9 straipsnis.         13 straipsnio 1, 7, 8, 9, 11 dalių pakeitimas ir straipsnio papildymas 12, 13 ir 14 dalimis
+### 9 straipsnis.         13 straipsnio 1, 7, 8, 9, 11 dalių pakeitimas ir straipsnio papildymas 12, 13 ir 14 dalimis ^s-0f6b0a943123360cf88116c0
 
 
-1. Pakeisti [[#^a1b6f5a4dfb31a52506d39c2|13 straipsnio 1 dalį]] ir ją išdėstyti taip: ^48ed67a42303c30fa5e97114
+1. Pakeisti [[#^s-777b55a3d3a592a5765e92ef|13 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-72b25377d4b43837ffeb0a4c
 
 
 „1. Veikiančius A kategorijos ginklus, jų priedėlius, šaudmenis gali įsigyti ir turėti tik specialaus statuso subjektai, valstybinės kriminalistinės ekspertizės įstaigos, taip pat Lietuvos Respublikoje įregistruoti juridiniai asmenys, kurie verčiasi A kategorijos ginklų, jų priedėlių, šaudmenų A kategorijos ginklams, jų dalių gamyba, A kategorijos ginklų, šaudmenų, jų dalių ir priedėlių tyrimais bei konstravimu užsiimančios mokslinio tyrimo įstaigos, Lietuvos bankas. A, B, C, D kategorijų ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimo ir apyvartos tvarką specialaus statuso subjektams, valstybinės kriminalistinės ekspertizės įstaigoms nustato kiti teisės aktai. A, B, C, D kategorijų ginklus, šaudmenis, jų dalis, ginklų priedėlius specialaus statuso subjektai, valstybinės kriminalistinės ekspertizės įstaigos gali įsigyti be leidimų.“
 
 
-2. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^9da34b75c66b01ddbceb16ad
+2. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^s-171bdb1c3259d09f338b99cd
 
 
 „7. Profesinei veiklai B, C kategorijų ginklus, jų šovinius gali įsigyti ir turėti fiziniai asmenys ir Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą. Nešiotis šiuos ginklus, vykdydami tarnybines pareigas, gali ne jaunesni kaip 21 metų Lietuvos Respublikos nuolatiniai gyventojai – Lietuvos Respublikoje įregistruotų juridinių asmenų darbuotojai, išlaikę egzaminą ir gavę leidimą. Automatinius šaunamuosius ginklus, jų šaudmenis, gavęs leidimą, turi teisę įsigyti ir turėti Lietuvos bankas, šiuos ginklus, vykdydami tarnybines pareigas, gali nešiotis Lietuvos banko darbuotojai – ne jaunesni kaip 21 metų Lietuvos Respublikos nuolatiniai gyventojai, išlaikę egzaminą ir gavę leidimą.“
 
 
-3. Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip: ^dfbb8ffb60a6898a9332f944
+3. Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip: ^s-fe2430654e18ea6a6c56218d
 
 
 „8. Kolekcijoms sudaryti B, C kategorijų ginklus, jų šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį, gali įsigyti ir turėti ne jaunesni kaip 23 metų Lietuvos Respublikos nuolatiniai gyventojai, išlaikę egzaminą ir gavę leidimą, ir Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą. A kategorijos ginklus, šaudmenis kolekcijoms sudaryti gali įsigyti institucijos, turinčios teisę įsigyti veikiančius A kategorijos ginklus. Valstybiniai muziejai, gavę leidimą, gali įsigyti visų kategorijų ginklus, šaudmenis ir ne vėliau kaip per 30 dienų privalo perdirbti juos taip, kad jų nebūtų galima panaudoti pagal paskirtį. Ginklų perdirbimu į netinkamus naudoti pagal paskirtį laikomas toks ginklų perdirbimas, kai juos atkurti galima tik pakeičiant reikiamas dalis naujomis.“
 
 
-4. 13 straipsnio 9 dalyje išbraukti žodžius „taip pat mokymui B, C kategorijų ginklus ir šaudmenis ir A kategorijos ginklus, šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį“ ir šią dalį išdėstyti taip: ^2f3594b66e1ef04228941d81
+4. 13 straipsnio 9 dalyje išbraukti žodžius „taip pat mokymui B, C kategorijų ginklus ir šaudmenis ir A kategorijos ginklus, šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį“ ir šią dalį išdėstyti taip: ^s-1619d8bf2234311cdeb74d42
 
 
 „9. Moksliniam tyrimui, savo pagamintų ginklų, jų priedėlių, šaudmenų ir jų dalių išbandymui A, B, C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą.“
 
 
-5. Pakeisti 13 straipsnio 11 dalį ir ją išdėstyti taip: ^2c2208a25b26d63b2a092f05
+5. Pakeisti 13 straipsnio 11 dalį ir ją išdėstyti taip: ^s-b30d51e044fb17240a3accf5
 
 
 „11. Šaunamųjų ginklų lazerinius taikiklius gali įsigyti, turėti ir naudoti asmenys, turintys šaunamąjį ginklą sportui.“
 
 
-6. Papildyti [[#13 straipsnis. 17 straipsnio 1 dalies pakeitimas ir papildymas|13 straipsnį]] 12, 13 ir [[#^9b2a9fee4c06fae7866dd78c|14 dalimis]]: ^cafbfd3bc8cb1269d7442380
+6. Papildyti [[#^s-c02cced2eb96c59cdb99aad2|13 straipsnį]] 12, 13 ir [[#^s-9855a31af66b3f9e35e6d510|14 dalimis]]: ^s-77ba0fbb422855e949649617
 
 
 „12. Mokymui B, C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą.
 
 
-13. Visų kategorijų šaunamuosius ginklus, gavę leidimą, gali įsigyti ir turėti teatrai ir kiti Lietuvos Respublikoje įregistruoti juridiniai asmenys, kurie verčiasi teatralizuotų vaidinimų kūrimu ar filmų gamyba arba televizijos laidų kūrimu. Jie privalo per 30 dienų nuo įsigijimo perdirbti šaunamuosius ginklus taip, kad jais būtų galima šaudyti tik imitaciniais šaudmenimis. Perdirbtus šaunamuosius ginklus galima naudoti tik vaidinimo ar filmavimo vietoje. Ginklų perdirbimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija. ^40a67aa0d080d1d240b0ae01
+13. Visų kategorijų šaunamuosius ginklus, gavę leidimą, gali įsigyti ir turėti teatrai ir kiti Lietuvos Respublikoje įregistruoti juridiniai asmenys, kurie verčiasi teatralizuotų vaidinimų kūrimu ar filmų gamyba arba televizijos laidų kūrimu. Jie privalo per 30 dienų nuo įsigijimo perdirbti šaunamuosius ginklus taip, kad jais būtų galima šaudyti tik imitaciniais šaudmenimis. Perdirbtus šaunamuosius ginklus galima naudoti tik vaidinimo ar filmavimo vietoje. Ginklų perdirbimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-d10e2fac83766aaaeea91962
 
 
-14. Senovinius šaunamuosius ginklus turintys karo istorijos klubai šaudmenis jiems gali įsigyti tik gavę leidimą. Masinių renginių metu šaudyti iš senovinių šaunamųjų ginklų galima tik renginio organizatoriams tai suderinus su atitinkama savivaldybe ir nenaudojant sviedinių (tik sukuriant garso ir šviesos efektus).“ ^9b2a9fee4c06fae7866dd78c
+14. Senovinius šaunamuosius ginklus turintys karo istorijos klubai šaudmenis jiems gali įsigyti tik gavę leidimą. Masinių renginių metu šaudyti iš senovinių šaunamųjų ginklų galima tik renginio organizatoriams tai suderinus su atitinkama savivaldybe ir nenaudojant sviedinių (tik sukuriant garso ir šviesos efektus).“ ^s-9855a31af66b3f9e35e6d510
 
 
 
-### 10 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 10 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-acf43f3f34fd5370c2ca476d
 
 
 14 straipsnio 3 dalyje po žodžių „išankstinį sutikimą“ įrašyti žodžius „dėl ginklų ir (ar) šaudmenų įvežimo“ ir šią dalį išdėstyti taip:
@@ -523,139 +528,139 @@ Pakeisti [[#^5ca439daac9f898c576cf701|8 straipsnio 1 dalį]] ir ją išdėstyti 
 
 
 
-### 11 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas
+### 11 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas ^s-3e8236f94814f1936df4bc62
 
 
-1. [[#15 straipsnis. 19 straipsnio 1 ir 2 dalių pakeitimas|15 straipsnio]] pavadinime išbraukti žodžius „Tam tikrų kategorijų“ ir straipsnio pavadinimą išdėstyti taip: ^9f098bd3f966ec3333cfcc25
+1. [[#^s-fde5b53fa0491a8749c30fd5|15 straipsnio]] pavadinime išbraukti žodžius „Tam tikrų kategorijų“ ir straipsnio pavadinimą išdėstyti taip: ^s-7a45ffe4f342a9f8a6446c65
 
 
 
 „15 straipsnis. Ginklų įsigijimo reikalavimai užsieniečiams“.
 
 
-2. Pakeisti [[#^e0edf19a6fb5e8678cbedb08|15 straipsnio 1 dalį]] ir ją išdėstyti taip: ^3dd0e99708539302c3d68bf5
+2. Pakeisti [[#^s-5cadd411a316043a9a5f234a|15 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-cfd112f6c82698c42dc0a069
 
 
-„1. Užsieniečiai, nurodyti šio Įstatymo [[#^60752325e7e35e15e7fb37e0|14 straipsnio 1 dalyje]], ginklus ir šaudmenis Lietuvos Respublikoje įsigyja, juos laiko, įsiveža į Lietuvos Respublikos teritoriją, išveža iš Lietuvos Respublikos teritorijos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.“
+„1. Užsieniečiai, nurodyti šio Įstatymo [[#^s-09de63a60f36ec1f5111c6a1|14 straipsnio 1 dalyje]], ginklus ir šaudmenis Lietuvos Respublikoje įsigyja, juos laiko, įsiveža į Lietuvos Respublikos teritoriją, išveža iš Lietuvos Respublikos teritorijos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.“
 
 
 
-### 12 straipsnis. 16 straipsnio 3 ir 4 dalių pakeitimas
+### 12 straipsnis. 16 straipsnio 3 ir 4 dalių pakeitimas ^s-6eb1031a93db566926a77c3d
 
 
-1. 16 straipsnio 3 dalyje prieš žodį „juridinis“ įrašyti žodžius „Lietuvos Respublikoje įregistruotas“, išbraukti žodžius „fiziniam asmeniui“ ir šią dalį išdėstyti taip: ^0f920e8f336965763aca158a
+1. 16 straipsnio 3 dalyje prieš žodį „juridinis“ įrašyti žodžius „Lietuvos Respublikoje įregistruotas“, išbraukti žodžius „fiziniam asmeniui“ ir šią dalį išdėstyti taip: ^s-22676ac0b9f6a4db6ea3df87
 
 
 „3. Lietuvos Respublikoje įregistruotas juridinis asmuo jam priklausančius B, C kategorijų ginklus, jų šaudmenis gali perleisti nuolat naudoti juridinio asmens darbuotojui, turinčiam teisę laikyti ir nešiotis tos kategorijos ginklą.“
 
 
-2. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip: ^82d5dc557bf60f29c3e13561
+2. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip: ^s-dfb1b52ef81ac537febb5286
 
 
 „4. Lietuvos Respublikoje įregistruotas juridinis ir fizinis asmuo jam priklausančius B, C kategorijų ginklus, jų šaudmenis turi teisę šaudymo varžybų, pratybų, mokymų metu laikinai perleisti naudotis fiziniams asmenims, prižiūrint treneriui ar kitam atsakingam už saugų šaudymą asmeniui.“
 
 
 
-### 13 straipsnis. 17 straipsnio 1 dalies pakeitimas ir papildymas
+### 13 straipsnis. 17 straipsnio 1 dalies pakeitimas ir papildymas ^s-c02cced2eb96c59cdb99aad2
 
 
-1. 17 straipsnio 1 dalies 3 punkte išbraukti žodžius „arba įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar esantis sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo“ ir šį punktą išdėstyti taip: ^a1b6f5a4dfb31a52506d39c2
+1. 17 straipsnio 1 dalies 3 punkte išbraukti žodžius „arba įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar esantis sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo“ ir šį punktą išdėstyti taip: ^s-777b55a3d3a592a5765e92ef
 
 
 „3) sergantis kai kuriomis ligomis ar turintis fizinių trūkumų, trukdančių tinkamai elgtis su ginklu;“.
 
 
-2. Papildyti [[#^b88de5262ee53f33552a2a16|17 straipsnio 1 dalį]] nauju 4 punktu: ^70f4d9cac4814a91fb3c3772
+2. Papildyti [[#^s-68eb19bd46283a702b53a784|17 straipsnio 1 dalį]] nauju 4 punktu: ^s-233e8d30b4bbc30121910c77
 
 
 „4) įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar esantis sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo;“.
 
 
-3. Buvusius [[#^b88de5262ee53f33552a2a16|17 straipsnio 1 dalies]] 4–9 punktus atitinkamai laikyti 5–10 punktais. ^b82744d339b8c8aaa1695218
+3. Buvusius [[#^s-68eb19bd46283a702b53a784|17 straipsnio 1 dalies]] 4–9 punktus atitinkamai laikyti 5–10 punktais. ^s-614f26cf888c404f05d2f954
 
 
-4. 17 straipsnio 1 dalies 6 punkte po žodžio „dokumentų“ įrašyti žodžius „arba pateikęs sąmoningai klaidingą informaciją ar suklastotus dokumentus“ ir šį punktą išdėstyti taip: ^c343782288ba937c7358aacb
+4. 17 straipsnio 1 dalies 6 punkte po žodžio „dokumentų“ įrašyti žodžius „arba pateikęs sąmoningai klaidingą informaciją ar suklastotus dokumentus“ ir šį punktą išdėstyti taip: ^s-2f7bdfd22a2101236d1ccc8a
 
 
 „6) nepateikęs ginklui įsigyti, registruoti, perregistruoti reikalingų dokumentų arba pateikęs sąmoningai klaidingą informaciją ar suklastotus dokumentus;“.
 
 
-5. 17 straipsnio 1 dalies 10 punkte vietoj skaičių ir žodžio „1–9 punktų“ įrašyti skaičius ir žodį „1–12 punktų“, vietoj žodžių „gyvenamojoje vietoje“ įrašyti žodį „būste“ ir šį punktą išdėstyti taip: ^68a9f557da1041adb9fadbc5
+5. 17 straipsnio 1 dalies 10 punkte vietoj skaičių ir žodžio „1–9 punktų“ įrašyti skaičius ir žodį „1–12 punktų“, vietoj žodžių „gyvenamojoje vietoje“ įrašyti žodį „būste“ ir šį punktą išdėstyti taip: ^s-cbb7730e847d30bb85e8c9b5
 
 
-„10) gyvenantis kartu su kitais asmenimis, kurie atitinka šio Įstatymo [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalies]] 1–12 punktų nuostatas. Šis punktas netaikomas, jei asmuo, norintis įsigyti ginklą ar jį turintis, ginklą įsipareigoja laikyti ar laiko ne savo būste, o kitose tam pritaikytose vietose.“
-
-
-
-### 14 straipsnis. 18 straipsnio pakeitimas
-
-
-Pakeisti [[#18 straipsnis. 22 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas|18 straipsnį]] ir jį išdėstyti taip:
+„10) gyvenantis kartu su kitais asmenimis, kurie atitinka šio Įstatymo [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalies]] 1–12 punktų nuostatas. Šis punktas netaikomas, jei asmuo, norintis įsigyti ginklą ar jį turintis, ginklą įsipareigoja laikyti ar laiko ne savo būste, o kitose tam pritaikytose vietose.“
 
 
 
-„[[#18 straipsnis. 22 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas|18 straipsnis]]. Nepriekaištingos reputacijos asmuo
+### 14 straipsnis. 18 straipsnio pakeitimas ^s-c33fdab1527ad8d8f2edfde7
 
 
-1. Šiame Įstatyme nepriekaištingos reputacijos asmeniu laikomas asmuo, kuriam netaikomos [[#^cfd5e22d0eee260927951a42|šio straipsnio 2 dalies]] nuostatos. ^60752325e7e35e15e7fb37e0
-
-
-2. Nepriekaištingos reputacijos asmeniu nelaikomas asmuo: ^cfd5e22d0eee260927951a42
-
-
-1) nuteistas už tyčinį nusikaltimą daugiau kaip 6 metams laisvės atėmimo bausme ir nuo jo teistumo išnykimo ar panaikinimo nėra praėję 10 metų; ^9f1524bba55a0993c0f3bda9
-
-
-2) nuteistas už neatsargų nusikaltimą, kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, arba tyčinį nusikaltimą (išskyrus nurodytą [[#^9f1524bba55a0993c0f3bda9|šios dalies 1 punkte]]) ir nuo jo teistumo išnykimo ar panaikinimo nėra praėję 3 metai; ^ac502bd887a5eaa4ac197bae
-
-
-3) nuteistas už neatsargų nusikaltimą (išskyrus nurodytą [[#^ac502bd887a5eaa4ac197bae|šios dalies 2 punkte]]), jei teistumas neišnykęs arba nepanaikintas; ^be53d0b047b6f0f7691e8cd2
-
-
-4) kuris per pastaruosius 3 metus dėl padaryto nusikaltimo teismo sprendimu buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą arba dėl to, kad susitaikė su nukentėjusiuoju, arba dėl lengvinančių aplinkybių; ^2fd0d5230cf2ab496b322b51
-
-
-5) kuris per pastaruosius 3 metus buvo nuteistas už baudžiamąjį nusižengimą; ^48cf61c6866d06391d7e9db0
-
-
-6) kuris per pastaruosius metus dėl padaryto baudžiamojo nusižengimo teismo sprendimu buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą arba dėl to, kad susitaikė su nukentėjusiuoju, arba dėl lengvinančių aplinkybių; ^f5aeb1750a92b223de410ca8
-
-
-7) kuris įstatymų nustatyta tvarka įtariamas arba kaltinamas padaręs nusikalstamą veiką; ^dd4bcb6a0e82e8984b085bce
-
-
-8) kuris yra įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^0ae8bb9a20800d75a1952599
-
-
-9) padaręs pakartotinai per metus administracinį teisės pažeidimą, kuriuo kėsinosi į nuosavybę, viešąją ar valdymo tvarką; ^71f8a3ae6b92337fd611f126
-
-
-10) kuris per pastaruosius 3 metus ne mažiau kaip 2 kartus buvo baustas už šiurkštų teisės aktų, reglamentuojančių medžioklę, reikalavimų pažeidimą; ^16f206c674ad81ff84f4ca32
-
-
-11) kuris per pastaruosius 3 metus ne mažiau kaip 2 kartus padarė administracinius teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų; ^9b5f8851cd19b9a0e2b13b4d
-
-
-12) kuriam leidimas nešiotis, leidimas laikyti ginklą buvo panaikintas ar nepratęstas šio straipsnio pagrindais, taip pat už kitus ginklų apyvartos pažeidimus, ir nuo to laiko nėra praėję 3 metai.“ ^45b8ed4b3e464b873d448410
+Pakeisti [[#^s-1aefca46706e06446eff8ccf|18 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. 19 straipsnio 1 ir 2 dalių pakeitimas
+„[[#^s-1aefca46706e06446eff8ccf|18 straipsnis]]. Nepriekaištingos reputacijos asmuo
 
 
-1. 19 straipsnio 1 dalies 1 punkte po žodžio „ginklų“ įrašyti žodžius „A kategorijos ginklų priedėlių“ ir šį punktą išdėstyti taip: ^e0edf19a6fb5e8678cbedb08
+1. Šiame Įstatyme nepriekaištingos reputacijos asmeniu laikomas asmuo, kuriam netaikomos [[#^s-354cad67f722655ad0ef02d6|šio straipsnio 2 dalies]] nuostatos. ^s-09de63a60f36ec1f5111c6a1
+
+
+2. Nepriekaištingos reputacijos asmeniu nelaikomas asmuo: ^s-354cad67f722655ad0ef02d6
+
+
+1) nuteistas už tyčinį nusikaltimą daugiau kaip 6 metams laisvės atėmimo bausme ir nuo jo teistumo išnykimo ar panaikinimo nėra praėję 10 metų; ^s-a6db1252efdd1a2f6a27b956
+
+
+2) nuteistas už neatsargų nusikaltimą, kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, arba tyčinį nusikaltimą (išskyrus nurodytą [[#^s-a6db1252efdd1a2f6a27b956|šios dalies 1 punkte]]) ir nuo jo teistumo išnykimo ar panaikinimo nėra praėję 3 metai; ^s-6738dca342661642acd74bc3
+
+
+3) nuteistas už neatsargų nusikaltimą (išskyrus nurodytą [[#^s-6738dca342661642acd74bc3|šios dalies 2 punkte]]), jei teistumas neišnykęs arba nepanaikintas; ^s-a5a132e8558c350871b1af4c
+
+
+4) kuris per pastaruosius 3 metus dėl padaryto nusikaltimo teismo sprendimu buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą arba dėl to, kad susitaikė su nukentėjusiuoju, arba dėl lengvinančių aplinkybių; ^s-f488014b9138b378aeb12af3
+
+
+5) kuris per pastaruosius 3 metus buvo nuteistas už baudžiamąjį nusižengimą; ^s-e1cabc3c5b382e6c83d5e912
+
+
+6) kuris per pastaruosius metus dėl padaryto baudžiamojo nusižengimo teismo sprendimu buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą arba dėl to, kad susitaikė su nukentėjusiuoju, arba dėl lengvinančių aplinkybių; ^s-a93a38dc39f56da67ea9f6c3
+
+
+7) kuris įstatymų nustatyta tvarka įtariamas arba kaltinamas padaręs nusikalstamą veiką; ^s-3e99e67fe2586a578801bc65
+
+
+8) kuris yra įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-d087f137dea90b6d2e82cad2
+
+
+9) padaręs pakartotinai per metus administracinį teisės pažeidimą, kuriuo kėsinosi į nuosavybę, viešąją ar valdymo tvarką; ^s-6b770b3da01a611113677130
+
+
+10) kuris per pastaruosius 3 metus ne mažiau kaip 2 kartus buvo baustas už šiurkštų teisės aktų, reglamentuojančių medžioklę, reikalavimų pažeidimą; ^s-82ac30985eda604d03b5c88f
+
+
+11) kuris per pastaruosius 3 metus ne mažiau kaip 2 kartus padarė administracinius teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų; ^s-44661c95a408c238b61c4c68
+
+
+12) kuriam leidimas nešiotis, leidimas laikyti ginklą buvo panaikintas ar nepratęstas šio straipsnio pagrindais, taip pat už kitus ginklų apyvartos pažeidimus, ir nuo to laiko nėra praėję 3 metai.“ ^s-e75920bdc7a84a13834f7853
+
+
+
+### 15 straipsnis. 19 straipsnio 1 ir 2 dalių pakeitimas ^s-fde5b53fa0491a8749c30fd5
+
+
+1. 19 straipsnio 1 dalies 1 punkte po žodžio „ginklų“ įrašyti žodžius „A kategorijos ginklų priedėlių“ ir šį punktą išdėstyti taip: ^s-5cadd411a316043a9a5f234a
 
 
 „1) ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba;“.
 
 
-2. 19 straipsnio 1 dalies 2 punkte po žodžio „ginklų“ įrašyti žodžius „ginklų priedėlių“ ir šį punktą išdėstyti taip: ^e27ee9935f5367ce199b9fe2
+2. 19 straipsnio 1 dalies 2 punkte po žodžio „ginklų“ įrašyti žodžius „ginklų priedėlių“ ir šį punktą išdėstyti taip: ^s-47b8212c9b15d279bf6835b4
 
 
 „2) ginklų, ginklų priedėlių, šaudmenų, jų dalių importas, eksportas;“.
 
 
-3. 19 straipsnio 1 dalies 3 punkte po žodžio „prekyba“ įrašyti žodžius „civilinėje apyvartoje“ ir po žodžio „ginklais“ įrašyti žodžius „ginklų priedėliais“ ir šį punktą išdėstyti taip: ^5c80116f10c275085b997333
+3. 19 straipsnio 1 dalies 3 punkte po žodžio „prekyba“ įrašyti žodžius „civilinėje apyvartoje“ ir po žodžio „ginklais“ įrašyti žodžius „ginklų priedėliais“ ir šį punktą išdėstyti taip: ^s-11f2153c19dc62dc18e8e610
 
 
 „3) prekyb
@@ -664,294 +669,294 @@ Pakeisti [[#18 straipsnis. 22 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas|18 st
 a civilinėje apyvartoje ginklais, ginklų priedėliais, šaudmenimis, jų dalimis;“.
 
 
-4. [[#^02e59249c679e49a710294cb|19 straipsnio 2 dalyje]] po žodžių „nustatyta tvarka“ įrašyti žodžius „Lietuvos Respublikoje“ ir šią dalį išdėstyti taip: ^d0ecca4ca1dd284156d3946d
+4. [[#^s-f31ab6462dd62088b7eafd34|19 straipsnio 2 dalyje]] po žodžių „nustatyta tvarka“ įrašyti žodžius „Lietuvos Respublikoje“ ir šią dalį išdėstyti taip: ^s-7aed6ea25f0caef91f532d44
 
 
 „2. Licenciją verstis šio straipsnio 1 dalyje nurodyta veikla gali gauti įstatymų ir kitų teisės aktų nustatyta tvarka Lietuvos Respublikoje įregistruoti juridiniai asmenys.“
 
 
 
-### 16 straipsnis. 20 straipsnio pakeitimas
+### 16 straipsnis. 20 straipsnio pakeitimas ^s-33dd991a0cb928a995497eaf
 
 
-Pakeisti [[#20 straipsnis.       24 straipsnio 1 dalies, 2 dalies 1, 4, 5, 6 punktų, 3 dalies, 4 dalies 1 punkto pakeitimas|20 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#20 straipsnis.       24 straipsnio 1 dalies, 2 dalies 1, 4, 5, 6 punktų, 3 dalies, 4 dalies 1 punkto pakeitimas|20 straipsnis]]. Teisės dirbti darbą, susijusį su licencijuojama veikla, apribojimai
-
-
-Lietuvos Respublikoje įregistruoto juridinio asmens, kuris verčiasi licencijuojama veikla, darbuotoju, tiesiogiai susijusiu su ginklų, šaudmenų įsigijimu, laikymu, taisymu, perdirbimu, bandymais, apskaita, realizavimu, taip pat ginklininku negali būti asmuo, kuriam taikomos šio Įstatymo [[#^b88de5262ee53f33552a2a16|17 straipsnio 1 dalies]] 3 ir 4 punktų ir [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalies]] nuostatos.“
+Pakeisti [[#^s-e326006780e25f17fd72ba31|20 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 17 straipsnis.       21 straipsnio 1 dalies, 2 dalies 3, 6, 9, 10 punktų pakeitimas ir papildymas 11 punktu, 3 dalies 1 punkto pakeitimas
+„[[#^s-e326006780e25f17fd72ba31|20 straipsnis]]. Teisės dirbti darbą, susijusį su licencijuojama veikla, apribojimai
 
 
-1. [[#^c2dec94c65fa7b7b90730087|21 straipsnio 1 dalyje]] vietoj žodžių „numatytos licencijuojamos veiklos sąlygų“ įrašyti žodžius „nurodytų reikalavimų“ ir šią dalį išdėstyti taip: ^b88de5262ee53f33552a2a16
+Lietuvos Respublikoje įregistruoto juridinio asmens, kuris verčiasi licencijuojama veikla, darbuotoju, tiesiogiai susijusiu su ginklų, šaudmenų įsigijimu, laikymu, taisymu, perdirbimu, bandymais, apskaita, realizavimu, taip pat ginklininku negali būti asmuo, kuriam taikomos šio Įstatymo [[#^s-68eb19bd46283a702b53a784|17 straipsnio 1 dalies]] 3 ir 4 punktų ir [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalies]] nuostatos.“
+
+
+
+### 17 straipsnis.       21 straipsnio 1 dalies, 2 dalies 3, 6, 9, 10 punktų pakeitimas ir papildymas 11 punktu, 3 dalies 1 punkto pakeitimas ^s-f67af20e63a5650dc713cbc6
+
+
+1. [[#^s-40eac77b30ee951e2997eddd|21 straipsnio 1 dalyje]] vietoj žodžių „numatytos licencijuojamos veiklos sąlygų“ įrašyti žodžius „nurodytų reikalavimų“ ir šią dalį išdėstyti taip: ^s-68eb19bd46283a702b53a784
 
 
 „1. Už šio Įstatymo šeštajame skirsnyje nurodytų reikalavimų laikymąsi yra atsakingas licencijos turėtojas.“
 
 
-2. 21 straipsnio 2 dalies 3 punkte vietoj žodžio „įmonės“ įrašyti žodžius „Lietuvos Respublikoje įregistruoto juridinio asmens“ ir šį punktą išdėstyti taip: ^2bc50a2b61fb53933156b41e
+2. 21 straipsnio 2 dalies 3 punkte vietoj žodžio „įmonės“ įrašyti žodžius „Lietuvos Respublikoje įregistruoto juridinio asmens“ ir šį punktą išdėstyti taip: ^s-0950bdb8cd761e3dd14f570a
 
 
 „3) pasikeitus Lietuvos Respublikoje įregistruoto juridinio asmens veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose licencijai gauti, apie tai ne vėliau kaip per 10 darbo dienų informuoti licenciją išdavusią instituciją;“.
 
 
-3. 21 straipsnio 2 dalies 6 punkte vietoj žodžio „įmonės“ įrašyti žodžius „Lietuvos Respublikoje įregistruoto juridinio asmens“ ir šį punktą išdėstyti taip: ^9fc9322d28c749e305b350fb
+3. 21 straipsnio 2 dalies 6 punkte vietoj žodžio „įmonės“ įrašyti žodžius „Lietuvos Respublikoje įregistruoto juridinio asmens“ ir šį punktą išdėstyti taip: ^s-afdfbff92abc6d56c5c75520
 
 
 „6) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų darbuotojams tikrinti Lietuvos Respublikoje įregistruoto juridinio asmens veiklą, susijusią su licencijuojama veikla;“.
 
 
-4. Pakeisti 21 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip: ^87171ddd90d2890d0a2cfc66
+4. Pakeisti 21 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip: ^s-092fecba02b514d0841f9b7b
 
 
 „9) ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitos žurnalus ir kitus dokumentus saugoti ne mažiau kaip 10 metų nuo paskutinio įrašo padarymo dienos, neatsižvelgiant į tai, ar Lietuvos Respublikoje įregistruotas juridinis asmuo verčiasi licencijuojama veikla, ar ne (likvidavus Lietuvos Respublikoje įregistruotą juridinį asmenį, apskaitos dokumentai perduodami licenciją išdavusiai ar jos įgaliotai institucijai);“.
 
 
-5. 21 straipsnio 2 dalies 10 punkte prieš žodį „Vyriausybės“ išbraukti žodžius „Lietuvos Respublikos“ ir „(išskyrus pneumatinius ir templinius)“ ir šį punktą išdėstyti taip: ^91455d4d9deccecdbc8a3edf
+5. 21 straipsnio 2 dalies 10 punkte prieš žodį „Vyriausybės“ išbraukti žodžius „Lietuvos Respublikos“ ir „(išskyrus pneumatinius ir templinius)“ ir šį punktą išdėstyti taip: ^s-496602b393032c4a50fb363c
 
 
 „10) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka žymėti į Lietuvos Respublikos teritoriją įvežtus B, C kategorijų šaunamuosius ginklus bei D kategorijos vienašūvius ilguosius lygiavamzdžius šaunamuosius ginklus, jeigu jie nėra nustatyta tvarka pažymėti;“.
 
 
-6. Papildyti 21 straipsnio 2 dalį 11 punktu: ^7764522fcaa95a7e3cd4504b
+6. Papildyti 21 straipsnio 2 dalį 11 punktu: ^s-919264b7fbf5342f025b7e17
 
 
 „11) Vyriausybės nustatyta tvarka įvežus į Lietuvos Respublikos teritoriją arba iš jos išvežus ginklus, licencijos turėtojas privalo ne vėliau kaip per 5 darbo dienas pateikti įvežtų ar išvežtų ginklų duomenis licenciją išdavusiai institucijai.“
 
 
-7. Pakeisti 21 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip: ^27c1cd00f0614b0003e50424
+7. Pakeisti 21 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip: ^s-aa6afbd037cf02b863a5842e
 
 
 „1) pavesti, įgalioti ar kitaip perleisti teisę verstis licencijoje nurodyta veikla kitam asmeniui, išskyrus sandorių sudarymą per tarpininkus, turinčius šio Įstatymo nustatyta tvarka išduotą prekybos ginklais tarpininko registravimo pažymėjimą;“.
 
 
 
-### 18 straipsnis. 22 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas
+### 18 straipsnis. 22 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas ^s-1aefca46706e06446eff8ccf
 
 
-1. [[#^4a5046a81f3805fdd3a05423|22 straipsnio 1 dalyje]] po žodžio „ginklų“ įrašyti žodžius „A kategorijos ginklų priedėlių“ ir šią dalį išdėstyti taip: ^36116c0419c0b143702476b3
+1. [[#^s-049f2d7080a060130f0ffc22|22 straipsnio 1 dalyje]] po žodžio „ginklų“ įrašyti žodžius „A kategorijos ginklų priedėlių“ ir šią dalį išdėstyti taip: ^s-199ddfb2dec8f4519be0929d
 
 
 „1. Licenciją verstis ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba Vyriausybės nustatyta tvarka išduoda Ginklų fondas.“
 
 
-2. [[#^b245fa307204274f845a7570|22 straipsnio 2 dalyje]] po žodžio „šaudmenys“ įrašyti žodžius „A kategorijos ginklų priedėliai“ ir šią dalį išdėstyti taip: ^33ba7c2ff7f97824efd2860b
+2. [[#^s-778de090828397fee0025899|22 straipsnio 2 dalyje]] po žodžio „šaudmenys“ įrašyti žodžius „A kategorijos ginklų priedėliai“ ir šią dalį išdėstyti taip: ^s-73e04911bdb9ef4b0bdc489b
 
 
 „2. A kategorijos ginklai, jų šaudmenys, A kategorijos ginklų priedėliai gali būti gaminami tik suderinus su Ginklų fondu.“
 
 
-3. 22 straipsnio 3 dalyje vietoj žodžių „Visos įmonės, gaminančios“ įrašyti žodžius „Visi Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys“, po žodžio „ginklus“ įrašyti žodį „šaudmenis“ ir šią dalį išdėstyti taip: ^cb0bd41ec6c55b9586b36232
+3. 22 straipsnio 3 dalyje vietoj žodžių „Visos įmonės, gaminančios“ įrašyti žodžius „Visi Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys“, po žodžio „ginklus“ įrašyti žodį „šaudmenis“ ir šią dalį išdėstyti taip: ^s-a4d8ad7a080d635e244ee840
 
 
 „3. Visi Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys ginklus, šaudmenis, privalo užtikrinti gamybos saugumą, kontrolę ir gaminių kokybę. Pagamintas ginklas ir šaudmenys turi atitikti techniniuose dokumentuose nurodomus parametrus.“
 
 
-4. 22 straipsnio 4 dalies 3 punkte po žodžių „pagrindinių dalių“ įrašyti žodžius „ir priedėlių“ ir šį punktą išdėstyti taip: ^07d88bc7d5dceaa378412e85
+4. 22 straipsnio 4 dalies 3 punkte po žodžių „pagrindinių dalių“ įrašyti žodžius „ir priedėlių“ ir šį punktą išdėstyti taip: ^s-54e2b054c1f4d82d9cb4aaf3
 
 
 „3) ant pagamintų ginklų, jų pagrindinių dalių ir priedėlių nurodyti šalį gamintoją, gamintojo pavadinimą, pagaminimo metus ir numerį;“.
 
 
-5. 22 straipsnio 4 dalies 6 punktą pripažinti netekusiu galios. ^965e19e92dd7de945dfd401b
+5. 22 straipsnio 4 dalies 6 punktą pripažinti netekusiu galios. ^s-fd127e82f3013f472ff169e2
 
 
-6. 22 straipsnio 7 dalyje išbraukti žodžius „Lygiavamzdžių, graižtvinių, pneumatinių bei templinių šaunamųjų“ ir šią dalį išdėstyti taip: ^420cf22a74254b222f8946b8
+6. 22 straipsnio 7 dalyje išbraukti žodžius „Lygiavamzdžių, graižtvinių, pneumatinių bei templinių šaunamųjų“ ir šią dalį išdėstyti taip: ^s-af3d07515675cef432a05fb6
 
 
 „7. Ginklų savininkai ir valdytojai savo reikmėms šaudmenis gali gamintis patys. Asmenys, teisėtai turintys lygiavamzdžius ir graižtvinius ginklus, gali įsigyti ir laikyti iki 1 kg parako bei 200 kapsulių.“
 
 
 
-### 19 straipsnis. 23 straipsnio pakeitimas
+### 19 straipsnis. 23 straipsnio pakeitimas ^s-74cb595a231f46d59c3fc5bb
 
 
-Pakeisti [[#23 straipsnis. 27 straipsnio 1 dalies pakeitimas|23 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#23 straipsnis. 27 straipsnio 1 dalies pakeitimas|23 straipsnis]]. Ginklų, ginklų priedėlių, šaudmenų ar jų dalių eksportas (išvežimas), importas (įvežimas) ir tranzitas
-
-
-1. Ginklų fondas turi teisę importuoti (įvežti), eksportuoti (išvežti) visų kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos ministerija turi teisę importuoti (įvežti) visų kategorijų ginklus, skirtus kariuomenei, jų šaudmenis, ginklų ir šaudmenų dalis bei ginklų priedėlius. ^e0055bcc2644a61e5b077f5a
-
-
-2. A kategorijos ginklai, šaudmenys, jų dalys, A kategorijos ginklų priedėliai importuojami (įvežami), eksportuojami (išvežami), gabenami tranzitu kitų teisės aktų nustatyta tvarka. B, C, D kategorijų ginklus, šaudmenis šiems ginklams, jų dalis ir ginklų priedėlius Krašto apsaugos ministerija ir Ginklų fondas importuoja (įveža) kitų teisės aktų nustatyta tvarka. ^02e59249c679e49a710294cb
-
-
-3. Lietuvos Respublikoje įregistruotas juridinis asmuo, norintis importuoti, eksportuoti B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus B, C kategorijų trumpuosius šaunamuosius ginklus, jų dalis, A kategorijos ginklų priedėlius, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija), privalo turėti licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Licencija importuoti, eksportuoti ginklus, šaudmenis, jų dalis ir ginklų priedėlius suteikia teisę Lietuvos Respublikoje įregistruotam juridiniam asmeniui: ^fbc52afc8d77e262d9457d91
-
-
-1) juos gabenti tranzitu per Lietuvos Respublikos teritoriją; ^d22eb5b501ce581dfb964d31
-
-
-2) juos įvežti į Europos Sąjungos valstybę narę ar iš jos išvežti. ^d6006b8335d2dc00deae4fc5
-
-
-4. Pageidaujantis importuoti, eksportuoti ar gabenti tranzitu per Lietuvos Respublikos teritoriją B, C, D kategorijos ginklus, jų šaudmenis, jų dalis importuotojas, eksportuotojas, užsienio valstybės ūkio subjektas (tik dėl gabenimo tranzitu) kiekvienai jų partijai turi gauti vienkartinį leidimą. Šiuos leidimus Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos, suderinęs su Ginklų fondu. ^8cff877624006e42a7ad8e58
-
-
-5. Tvarką, reglamentuojančią B, C, D kategorijų ginklų, jų šaudmenų, jų dalių eksportą (išvežimą), importą (įvežimą), gabenimą tranzitu, nustato Vyriausybė. ^135dd6505f10d2b708e68e6b
-
-
-6. Lietuvos Respublikoje įregistruotas juridinis asmuo, pageidaujantis išvežti ginklus, šaudmenis, jų dalis iš Lietuvos Respublikos į Europos Sąjungos valstybę narę, turi gauti Policijos departamento prie Vidaus reikalų ministerijos leidimą vežti ginklus, šaudmenis, jų dalis. Šis leidimas galioja ne ilgiau kaip 3 metus. Policijos departamentas prie Vidaus reikalų ministerijos leidimą vežti ginklus, šaudmenis, jų dalis išduoda tik gavęs išankstinį Europos Sąjungos valstybės narės sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Europos Sąjungos valstybę narę. ^445704022f87bcc63827a0fc
-
-
-7. Lietuvos Respublikoje įregistruotas juridinis asmuo, pageidaujantis įvežti ginklus, šaudmenis, jų dalis iš Europos Sąjungos valstybės narės į Lietuvos Respubliką, turi gauti išankstinį Policijos departamento prie Vidaus reikalų ministerijos sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Lietuvos Respublikos teritoriją. Šis leidimas galioja ne ilgiau kaip 3 metus.“ ^93a0c9f722cebd7076b02d13
+Pakeisti [[#^s-0f4d7ed686a81291382ce8de|23 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 20 straipsnis.       24 straipsnio 1 dalies, 2 dalies 1, 4, 5, 6 punktų, 3 dalies, 4 dalies 1 punkto pakeitimas
+„[[#^s-0f4d7ed686a81291382ce8de|23 straipsnis]]. Ginklų, ginklų priedėlių, šaudmenų ar jų dalių eksportas (išvežimas), importas (įvežimas) ir tranzitas
 
 
-1. Pakeisti [[#^e507085bdbe9410e49848b9f|24 straipsnio 1 dalį]] ir ją išdėstyti taip: ^2d9523c7f7a8b0c06c7d7fef
+1. Ginklų fondas turi teisę importuoti (įvežti), eksportuoti (išvežti) visų kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos ministerija turi teisę importuoti (įvežti) visų kategorijų ginklus, skirtus kariuomenei, jų šaudmenis, ginklų ir šaudmenų dalis bei ginklų priedėlius. ^s-b019e2c1db1de9355743b6c5
+
+
+2. A kategorijos ginklai, šaudmenys, jų dalys, A kategorijos ginklų priedėliai importuojami (įvežami), eksportuojami (išvežami), gabenami tranzitu kitų teisės aktų nustatyta tvarka. B, C, D kategorijų ginklus, šaudmenis šiems ginklams, jų dalis ir ginklų priedėlius Krašto apsaugos ministerija ir Ginklų fondas importuoja (įveža) kitų teisės aktų nustatyta tvarka. ^s-f31ab6462dd62088b7eafd34
+
+
+3. Lietuvos Respublikoje įregistruotas juridinis asmuo, norintis importuoti, eksportuoti B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus B, C kategorijų trumpuosius šaunamuosius ginklus, jų dalis, A kategorijos ginklų priedėlius, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija), privalo turėti licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Licencija importuoti, eksportuoti ginklus, šaudmenis, jų dalis ir ginklų priedėlius suteikia teisę Lietuvos Respublikoje įregistruotam juridiniam asmeniui: ^s-073a71180bec3140e7595187
+
+
+1) juos gabenti tranzitu per Lietuvos Respublikos teritoriją; ^s-01d6960b3cccc0817a8a5cae
+
+
+2) juos įvežti į Europos Sąjungos valstybę narę ar iš jos išvežti. ^s-121165a8aabfcc1590ee2e4a
+
+
+4. Pageidaujantis importuoti, eksportuoti ar gabenti tranzitu per Lietuvos Respublikos teritoriją B, C, D kategorijos ginklus, jų šaudmenis, jų dalis importuotojas, eksportuotojas, užsienio valstybės ūkio subjektas (tik dėl gabenimo tranzitu) kiekvienai jų partijai turi gauti vienkartinį leidimą. Šiuos leidimus Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos, suderinęs su Ginklų fondu. ^s-342b4046c8d3f804018d460f
+
+
+5. Tvarką, reglamentuojančią B, C, D kategorijų ginklų, jų šaudmenų, jų dalių eksportą (išvežimą), importą (įvežimą), gabenimą tranzitu, nustato Vyriausybė. ^s-c1f0afa8fa88a5d33665d829
+
+
+6. Lietuvos Respublikoje įregistruotas juridinis asmuo, pageidaujantis išvežti ginklus, šaudmenis, jų dalis iš Lietuvos Respublikos į Europos Sąjungos valstybę narę, turi gauti Policijos departamento prie Vidaus reikalų ministerijos leidimą vežti ginklus, šaudmenis, jų dalis. Šis leidimas galioja ne ilgiau kaip 3 metus. Policijos departamentas prie Vidaus reikalų ministerijos leidimą vežti ginklus, šaudmenis, jų dalis išduoda tik gavęs išankstinį Europos Sąjungos valstybės narės sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Europos Sąjungos valstybę narę. ^s-4f128c695a11697e6a71c9a6
+
+
+7. Lietuvos Respublikoje įregistruotas juridinis asmuo, pageidaujantis įvežti ginklus, šaudmenis, jų dalis iš Europos Sąjungos valstybės narės į Lietuvos Respubliką, turi gauti išankstinį Policijos departamento prie Vidaus reikalų ministerijos sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Lietuvos Respublikos teritoriją. Šis leidimas galioja ne ilgiau kaip 3 metus.“ ^s-304d946f11f10e29ada2b7d5
+
+
+
+### 20 straipsnis.       24 straipsnio 1 dalies, 2 dalies 1, 4, 5, 6 punktų, 3 dalies, 4 dalies 1 punkto pakeitimas ^s-e326006780e25f17fd72ba31
+
+
+1. Pakeisti [[#^s-7c98a1bd073b3f8eb220b791|24 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-c95639c0a469f66b8b13239c
 
 
 „1. Lietuvos Respublikos teritorijoje B, C kategorijų trumpaisiais šaunamaisiais ginklais, jų dalimis, A kategorijos ginklais, šaudmenimis, jų dalimis ir A kategorijos ginklų priedėliais turi teisę prekiauti tik Ginklų fondas. Kitais B, C, D kategorijų ginklais, jų šaudmenimis, jų dalimis, ginklų priedėliais turi teisę prekiauti Ginklų fondas ir Lietuvos Respublikoje įregistruoti juridiniai asmenys, turintys licenciją prekiauti civilinėje apyvartoje ginklais, šaudmenimis, jų dalimis ir ginklų priedėliais. Licenciją prekiauti civilinėje apyvartoje įmonėms Vyriausybės nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos.“
 
 
-2. 24 straipsnio 2 dalies 1 punkte po žodžio „ginklų“ įrašyti žodžius „ginklų priedėlių“, po žodžio „nurodyti“ įrašyti žodį „jų“ ir šį punktą išdėstyti taip: ^be5e2b6dc30f9d3eb502e0d8
+2. 24 straipsnio 2 dalies 1 punkte po žodžio „ginklų“ įrašyti žodžius „ginklų priedėlių“, po žodžio „nurodyti“ įrašyti žodį „jų“ ir šį punktą išdėstyti taip: ^s-8f35a9995714d4fae8fae7bc
 
 
 „1) turėti parduodamų ginklų, ginklų priedėlių ir šaudmenų dokumentus, kuriuose nurodyti jų techniniai duomenys;“.
 
 
-3. 24 straipsnio 2 dalies 4 punkte po žodžio „ginklų“ įrašyti žodžius „ginklų priedėlių“ ir šį punktą išdėstyti taip: ^f9b79297ec3a372264c6c809
+3. 24 straipsnio 2 dalies 4 punkte po žodžio „ginklų“ įrašyti žodžius „ginklų priedėlių“ ir šį punktą išdėstyti taip: ^s-3bb1ade206bca5ff26e56c36
 
 
 „4) užtikrinti įsigyjamų ir parduodamų ginklų, ginklų priedėlių bei šaudmenų apskaitą, saugoti įsigijimo ir apskaitos dokumentus;“.
 
 
-4. Pakeisti 24 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^818b19e16555fe890951a18d
+4. Pakeisti 24 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^s-7e813188ec19387ac3fe47a5
 
 
 „5) registruoti visų kategorijų ginklų, ginklų priedėlių ir šaudmenų (išskyrus šaudmenis D kategorijos ginklams, dujinius aerozolinius įrenginius), parako, kapsulių ir tūtelių su įstatytomis kapsulėmis pirkėjus nustatytos formos žurnale;“.
 
 
-5. 24 straipsnio 2 dalies 6 punkte po žodžio „ginklus“ įrašyti žodžius „ginklų priedėlius“ ir šį punktą išdėstyti taip: ^bc350850231825d6cf9ea635
+5. 24 straipsnio 2 dalies 6 punkte po žodžio „ginklus“ įrašyti žodžius „ginklų priedėlius“ ir šį punktą išdėstyti taip: ^s-f4da20da6a746a30af624bdf
 
 
 „6) pateikti teritorinei policijos įstaigai vieną kartą per pusmetį duomenis apie visus fiziniams ir juridiniams asmenims, išskyrus specialaus statuso subjektus, parduotus ginklus, ginklų priedėlius ir šaudmenis pagal Policijos departamento prie Vidaus reikalų ministerijos nustatytą formą;“.
 
 
-6. Pakeisti [[#^76813060f2cedc1415003bed|24 straipsnio 3 dalį]] ir ją išdėstyti taip: ^b7dec47585ecd4b2e8324c7b
+6. Pakeisti [[#^s-75c48ae93d43cfebc3babfb6|24 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-2a95e99527541a4386d3850a
 
 
 „3. Draudžiama parduoti:
 
 
-1) B, C kategorijų ginklus fiziniams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims, nepateikusiems leidimo įsigyti ginklus; ^785abe18778812278eddc892
+1) B, C kategorijų ginklus fiziniams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims, nepateikusiems leidimo įsigyti ginklus; ^s-10203ca05cfd2d2e6159ed8a
 
 
-2) B, C kategorijų ginklams skirtus šaudmenis ir ginklų priedėlius fiziniams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims, nepateikusiems leidimo įsigyti ginklus ar šaudmenis arba leidimo laikyti ginklus ar leidimo nešiotis ginklus; ^0ab9e0b11807244130287125
+2) B, C kategorijų ginklams skirtus šaudmenis ir ginklų priedėlius fiziniams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims, nepateikusiems leidimo įsigyti ginklus ar šaudmenis arba leidimo laikyti ginklus ar leidimo nešiotis ginklus; ^s-628bcc44a524e8d0d2efd687
 
 
-3) graižtvinius ir lygiavamzdžius šaunamuosius ginklus, kurie neturi identifikacinio numerio, bei ginklus ir šaudmenis be būtino žymens; ^18cc89b96bedd0dfbd65190f
+3) graižtvinius ir lygiavamzdžius šaunamuosius ginklus, kurie neturi identifikacinio numerio, bei ginklus ir šaudmenis be būtino žymens; ^s-2344f8c17b57e086f03c7e2a
 
 
-4) B, C kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius fiziniams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims, išskyrus specialaus statuso subjektus, nepaprastosios ar karo padėties atvejais.“ ^2a3c83145676765e2cf4b9bb
+4) B, C kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius fiziniams ir Lietuvos Respublikoje įregistruotiems juridiniams asmenims, išskyrus specialaus statuso subjektus, nepaprastosios ar karo padėties atvejais.“ ^s-53d7fe4d44550738f39b7491
 
 
-7. Pakeisti 24 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^2861dc8226bb24bd408f688e
+7. Pakeisti 24 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^s-376ea16f098fcc7ffdf0c3eb
 
 
-„1) ginklus, šaudmenis, jų dalis, ginklų priedėlius – specialaus statuso subjektai, valstybinės kriminalistinės ekspertizės įstaigos, taip pat Lietuvos Respublikoje įregistruoti juridiniai asmenys, turintys licencijas verstis veikla, nurodyta šio Įstatymo [[#^e0055bcc2644a61e5b077f5a|19 straipsnio 1 dalies]] 1–3 punktuose;“.
-
-
-
-### 21 straipsnis. 25 straipsnio pakeitimas
-
-
-Pakeisti [[#25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas|25 straipsnį]] ir jį išdėstyti taip:
+„1) ginklus, šaudmenis, jų dalis, ginklų priedėlius – specialaus statuso subjektai, valstybinės kriminalistinės ekspertizės įstaigos, taip pat Lietuvos Respublikoje įregistruoti juridiniai asmenys, turintys licencijas verstis veikla, nurodyta šio Įstatymo [[#^s-b019e2c1db1de9355743b6c5|19 straipsnio 1 dalies]] 1–3 punktuose;“.
 
 
 
-„[[#25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas|25 straipsnis]]. Vertimasis ginklų, šaudmenų, jų dalių, ginklų priedėlių prekybos tarpininko veikla
+### 21 straipsnis. 25 straipsnio pakeitimas ^s-1c58f5c20de9ab52d15d91f4
 
 
-1. Ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojai, importuotojai, eksportuotojai, prekiautojai ar pirkėjai turi teisę sudaryti sutartis dėl ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimo, importo, eksporto per tarpininkus. ^c2dec94c65fa7b7b90730087
-
-
-2. Tarpininkais gali būti Lietuvos Respublikoje įregistruoti juridiniai asmenys ir fiziniai asmenys. Tarpininkai su užsakovais privalo sudaryti rašytines sutartis dėl gamintojo, importuotojo, eksportuotojo, prekiautojo ar pirkėjo interesų atstovavimo. ^30650472adb9ddcde69a79e6
-
-
-3. Tarpininkai privalo Vyriausybės nustatyta tvarka užsiregistruoti Policijos departamente prie Vidaus reikalų ministerijos. ^e33ca9d7742ff81a02742d00
-
-
-4. Lietuvos Respublikoje įregistruoto juridinio asmens, kuris verčiasi tarpininko veikla, darbuotoju, tiesiogiai susijusiu su ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimu, įvežimu (importu), išvežimu (eksportu), laikymu, apskaita, realizavimu, tarpininku (kai tarpininkas fizinis asmuo) negali būti asmuo, kuriam taikomos šio Įstatymo [[#^b88de5262ee53f33552a2a16|17 straipsnio 1 dalies]] 3 ir 4 punktų ir [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalies]] nuostatos. Lietuvos Respublikoje įregistruoto juridinio asmens, kuris verčiasi tarpininko veikla, administracijos vadovu negali būti asmuo, kuriam taikomos šio Įstatymo [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalies]] nuostatos. Lietuvos Respublikoje įregistruotas juridinis asmuo, kurio kontroliuojančiajam asmeniui taikomi šio Įstatymo [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalyje]] nustatyti apribojimai, negali verstis tarpininko veikla. ^b1b040be0bdd5b24db91e376
-
-
-5. Tarpininkas, pagal rašytinę sutartį atstovaujantis ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojo, importuotojo, eksportuotojo, prekiautojo ar pirkėjo interesams, turi teisę: ^fb687e55d169dad884f86ba3
-
-
-1) savo ar atstovaujamojo vardu įsigyti, įvežti (importuoti) į Lietuvos Respublikos teritoriją ar iš jos išvežti (eksportuoti) ginklus, šaudmenis, jų dalis, ginklų priedėlius; ^d4051e78f6a17a996e095921
-
-
-2) realizuoti ginklus, šaudmenis, jų dalis, ginklų priedėlius ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojams, importuotojams, eksportuotojams, prekiautojams ar pirkėjams, kurių interesams jis atstovauja pagal rašytinę sutartį; ^9657c06da60725433c535db6
-
-
-3) tarpininkauti užsienio valstybių ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojams, importuotojams, eksportuotojams, prekiautojams ar pirkėjams (tik Vyriausybės nustatyta tvarka gavęs Policijos departamento prie Vidaus reikalų ministerijos sutikimą dėl kiekvienos ginklų, šaudmenų, jų dalių, ginklų priedėlių partijos perdavimo). ^172a096143c173b6d36ed684
-
-
-6. Tarpininkas privalo: ^07a2c61cb8d9abc04887688e
-
-
-1) užtikrinti ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitą, laikymą ir apsaugą; ^4ed1975858e2ad2ce4d57147
-
-
-2) iki kiekvienų metų sausio 15 dienos pateikti Policijos departamentui prie Vidaus reikalų ministerijos ūkinės komercinės veiklos, susijusios su tarpininkavimo veikla, Policijos departamento prie Vidaus reikalų ministerijos nustatytos formos ataskaitą; ^c334bd840de2beef3cd0cba3
-
-
-3) pasikeitus veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose registruojantis Policijos departamente prie Vidaus reikalų ministerijos, apie tai ne vėliau kaip per 10 darbo dienų informuoti Policijos departamentą prie Vidaus reikalų ministerijos; ^66ca3ffb4a8f072b838785f7
-
-
-4) kontroliuojančiųjų valstybės institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius su ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimu, įvežimu (importu), išvežimu (eksportu), laikymu, apskaita, realizavimu susijusį darbą, ir jų asmens duomenis; ^6b94e5c498da00fcd0de6652
-
-
-5) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų darbuotojams tikrinti veiklą, susijusią su tarpininkavimo veikla; ^fd20a1500e8da4c7e519f451
-
-
-6) sandėliuoti, laikyti, realizuoti ginklus, šaudmenis, jų dalis tik tose patalpose, kurios atitinka Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus; ^07652f6bd912fd2a6abb811d
-
-
-7) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimu, įvežimu (importu), išvežimu (eksportu), realizavimu, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardas, pavardė, asmens kodas, gyvenamoji vieta) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo; ^0268cff78a728ee739e66eaf
-
-
-8) ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitos žurnalus ir kitus su tarpininkavimo veikla susijusius dokumentus saugoti ne mažiau kaip 10 metų nuo paskutinio įrašo padarymo dienos, neatsižvelgiant į tai, ar tarpininkas verčiasi tarpininkavimo veikla, ar ne (nutraukus tarpininko veiklą, apskaitos dokumentai perduodami Policijos departamentui prie Vidaus reikalų ministerijos); ^f795ac8bfb532844d9083809
-
-
-9) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka žymėti į Lietuvos Respublikos teritoriją įvežtus B, C kategorijų šaunamuosius ginklus ir D kategorijos vienašūvius ilguosius lygiavamzdžius šaunamuosius ginklus, jeigu jie nėra nustatyta tvarka pažymėti; ^5bc0db9ba4f6761a120eba1b
-
-
-10) prekiaudamas ginklais, šaudmenimis, ginklų priedėliais Lietuvos Respublikos teritorijoje, laikytis šio Įstatymo 24 straipsnio 2-4 dalyse nustatytų reikalavimų; ^246ef46d9ffb68592fe3db17
-
-
-11) įveždamas (importuodamas) į Lietuvos Respublikos teritoriją ar iš jos išveždamas (eksportuodamas) ginklus, šaudmenis, jų dalis, ginklų priedėlius, laikytis šio Įstatymo [[#23 straipsnis. 27 straipsnio 1 dalies pakeitimas|23 straipsnio]] 4–7 dalyse nustatytų reikalavimų.“ ^c730456600a4cfebc2540d5e
+Pakeisti [[#^s-9121caf4bc26e847c9fe8d54|25 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 22 straipsnis. 26 straipsnio 1 ir 2 dalių pakeitimas
+„[[#^s-9121caf4bc26e847c9fe8d54|25 straipsnis]]. Vertimasis ginklų, šaudmenų, jų dalių, ginklų priedėlių prekybos tarpininko veikla
 
 
-1. Pakeisti [[#^0043de0491fbb45a4c6d2d20|26 straipsnio 1 dalį]] ir ją išdėstyti taip: ^4a5046a81f3805fdd3a05423
+1. Ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojai, importuotojai, eksportuotojai, prekiautojai ar pirkėjai turi teisę sudaryti sutartis dėl ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimo, importo, eksporto per tarpininkus. ^s-40eac77b30ee951e2997eddd
+
+
+2. Tarpininkais gali būti Lietuvos Respublikoje įregistruoti juridiniai asmenys ir fiziniai asmenys. Tarpininkai su užsakovais privalo sudaryti rašytines sutartis dėl gamintojo, importuotojo, eksportuotojo, prekiautojo ar pirkėjo interesų atstovavimo. ^s-78be298773f4a9eb9ea0e91a
+
+
+3. Tarpininkai privalo Vyriausybės nustatyta tvarka užsiregistruoti Policijos departamente prie Vidaus reikalų ministerijos. ^s-0dcfe2a96bc3f6b82c5ba472
+
+
+4. Lietuvos Respublikoje įregistruoto juridinio asmens, kuris verčiasi tarpininko veikla, darbuotoju, tiesiogiai susijusiu su ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimu, įvežimu (importu), išvežimu (eksportu), laikymu, apskaita, realizavimu, tarpininku (kai tarpininkas fizinis asmuo) negali būti asmuo, kuriam taikomos šio Įstatymo [[#^s-68eb19bd46283a702b53a784|17 straipsnio 1 dalies]] 3 ir 4 punktų ir [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalies]] nuostatos. Lietuvos Respublikoje įregistruoto juridinio asmens, kuris verčiasi tarpininko veikla, administracijos vadovu negali būti asmuo, kuriam taikomos šio Įstatymo [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalies]] nuostatos. Lietuvos Respublikoje įregistruotas juridinis asmuo, kurio kontroliuojančiajam asmeniui taikomi šio Įstatymo [[#^s-73e04911bdb9ef4b0bdc489b|18 straipsnio 2 dalyje]] nustatyti apribojimai, negali verstis tarpininko veikla. ^s-100430c748e579e40611df2c
+
+
+5. Tarpininkas, pagal rašytinę sutartį atstovaujantis ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojo, importuotojo, eksportuotojo, prekiautojo ar pirkėjo interesams, turi teisę: ^s-6678f2fbf941f7f1e360eb26
+
+
+1) savo ar atstovaujamojo vardu įsigyti, įvežti (importuoti) į Lietuvos Respublikos teritoriją ar iš jos išvežti (eksportuoti) ginklus, šaudmenis, jų dalis, ginklų priedėlius; ^s-1d88e33adafd5bc0fe00435b
+
+
+2) realizuoti ginklus, šaudmenis, jų dalis, ginklų priedėlius ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojams, importuotojams, eksportuotojams, prekiautojams ar pirkėjams, kurių interesams jis atstovauja pagal rašytinę sutartį; ^s-1bf4a87a489464f54a1f7edf
+
+
+3) tarpininkauti užsienio valstybių ginklų, šaudmenų, jų dalių, ginklų priedėlių gamintojams, importuotojams, eksportuotojams, prekiautojams ar pirkėjams (tik Vyriausybės nustatyta tvarka gavęs Policijos departamento prie Vidaus reikalų ministerijos sutikimą dėl kiekvienos ginklų, šaudmenų, jų dalių, ginklų priedėlių partijos perdavimo). ^s-1a38de9b52c40ac155581a20
+
+
+6. Tarpininkas privalo: ^s-f012d1a0bcfacd4eefe48822
+
+
+1) užtikrinti ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitą, laikymą ir apsaugą; ^s-a655dd5858da18574d32105f
+
+
+2) iki kiekvienų metų sausio 15 dienos pateikti Policijos departamentui prie Vidaus reikalų ministerijos ūkinės komercinės veiklos, susijusios su tarpininkavimo veikla, Policijos departamento prie Vidaus reikalų ministerijos nustatytos formos ataskaitą; ^s-5c3aa558b0d3ec9e90b101dc
+
+
+3) pasikeitus veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose registruojantis Policijos departamente prie Vidaus reikalų ministerijos, apie tai ne vėliau kaip per 10 darbo dienų informuoti Policijos departamentą prie Vidaus reikalų ministerijos; ^s-5a93f70ad55d0be18813bf20
+
+
+4) kontroliuojančiųjų valstybės institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius su ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimu, įvežimu (importu), išvežimu (eksportu), laikymu, apskaita, realizavimu susijusį darbą, ir jų asmens duomenis; ^s-bd1c2fc4bb7f57cbcfded2a5
+
+
+5) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų darbuotojams tikrinti veiklą, susijusią su tarpininkavimo veikla; ^s-3b210cc1f799facc22f57819
+
+
+6) sandėliuoti, laikyti, realizuoti ginklus, šaudmenis, jų dalis tik tose patalpose, kurios atitinka Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus; ^s-81bc7663ee7fa34713584d95
+
+
+7) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su ginklų, šaudmenų, jų dalių, ginklų priedėlių įsigijimu, įvežimu (importu), išvežimu (eksportu), realizavimu, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardas, pavardė, asmens kodas, gyvenamoji vieta) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo; ^s-3f46c375fc2127713694a7b9
+
+
+8) ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitos žurnalus ir kitus su tarpininkavimo veikla susijusius dokumentus saugoti ne mažiau kaip 10 metų nuo paskutinio įrašo padarymo dienos, neatsižvelgiant į tai, ar tarpininkas verčiasi tarpininkavimo veikla, ar ne (nutraukus tarpininko veiklą, apskaitos dokumentai perduodami Policijos departamentui prie Vidaus reikalų ministerijos); ^s-1d1d853e2b51f0a0ef46505e
+
+
+9) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka žymėti į Lietuvos Respublikos teritoriją įvežtus B, C kategorijų šaunamuosius ginklus ir D kategorijos vienašūvius ilguosius lygiavamzdžius šaunamuosius ginklus, jeigu jie nėra nustatyta tvarka pažymėti; ^s-ec9b723d9d31fbb14ed56d10
+
+
+10) prekiaudamas ginklais, šaudmenimis, ginklų priedėliais Lietuvos Respublikos teritorijoje, laikytis šio Įstatymo 24 straipsnio 2-4 dalyse nustatytų reikalavimų; ^s-8354dfae1ed10be44ac2d966
+
+
+11) įveždamas (importuodamas) į Lietuvos Respublikos teritoriją ar iš jos išveždamas (eksportuodamas) ginklus, šaudmenis, jų dalis, ginklų priedėlius, laikytis šio Įstatymo [[#^s-0f4d7ed686a81291382ce8de|23 straipsnio]] 4–7 dalyse nustatytų reikalavimų.“ ^s-92f857abaadba71a10f9f77b
+
+
+
+### 22 straipsnis. 26 straipsnio 1 ir 2 dalių pakeitimas ^s-cd4110065d9eed4f1b49b6ee
+
+
+1. Pakeisti [[#^s-310ca770a748fe662a18c87c|26 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-049f2d7080a060130f0ffc22
 
 
 „1. Lietuvos Respublikoje įregistruotas juridinis asmuo, norintis taisyti ginklus, perdirbti ginklus ir šaudmenis, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Ginklų fondas. Licencija taisyti ginklus, perdirbti ginklus ir šaudmenis suteikia teisę Lietuvos Respublikoje įregistruotam juridiniam asmeniui įsigyti Lietuvos Respublikoje ir įsivežti iš užsienio valstybių šiai veiklai reikalingas ginklų dalis.“
 
 
-2. Pakeisti [[#^55af6c89230b2ba12de56c26|26 straipsnio 2 dalį]] ir ją išdėstyti taip: ^b245fa307204274f845a7570
+2. Pakeisti [[#^s-b0e0b8d79d4b475b1a5cac5b|26 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-778de090828397fee0025899
 
 
 „2. Lietuvos Respublikoje ginklą, jo pagrindines dalis gali taisyti, perdirbti tik Lietuvos Respublikoje įregistruotas juridinis asmuo, turintis licenciją taisyti ir perdirbti ginklus.“
 
 
 
-### 23 straipsnis. 27 straipsnio 1 dalies pakeitimas
+### 23 straipsnis. 27 straipsnio 1 dalies pakeitimas ^s-0f4d7ed686a81291382ce8de
 
 
 27 straipsnio 1 dalyje vietoj žodžių „Įmonė, norinti“ įrašyti žodžius „Lietuvos Respublikoje įregistruotas juridinis asmuo, norintis“ ir šią dalį išdėstyti taip:
@@ -961,38 +966,38 @@ Pakeisti [[#25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas|25 straips
 
 
 
-### 24 straipsnis.       28 straipsnio 1, 2 ir 5 dalių pakeitimas ir straipsnio papildymas 4 dalimi
+### 24 straipsnis.       28 straipsnio 1, 2 ir 5 dalių pakeitimas ir straipsnio papildymas 4 dalimi ^s-aa0cd2a0a0a64b45fec15fcb
 
 
-1. Pakeisti [[#^2348bb4bd7c6031aaf80a4fc|28 straipsnio 1 dalį]] ir ją išdėstyti taip: ^e507085bdbe9410e49848b9f
+1. Pakeisti [[#^s-ba1f85b5db618cb15ba8f66e|28 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-7c98a1bd073b3f8eb220b791
 
 
 „1. Lietuvos Respublikoje įregistruotas juridinis asmuo, norintis nuomoti ginklus medžioklei ar sportui, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Licencija nuomoti ginklus suteikia teisę asmeniui, išsinuomojusiam ginklą, įsigyti šaudmenų iš subjektų, turinčių teisę prekiauti šaudmenimis, ir juos parduoti.“
 
 
-2. Pakeisti [[#^72f1aa1d98f00416d54da8f6|28 straipsnio 2 dalį]] ir ją išdėstyti taip: ^5195390a52d6e593baad524f
+2. Pakeisti [[#^s-72001816e73437938d5e006c|28 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-21206ddfe0c9ecd9e54b6ab3
 
 
 „2. Lietuvos Respublikoje įregistruotas juridinis asmuo, turintis licenciją nuomoti ginklus, turi teisę medžioklei nuomoti B, C kategorijų medžioklinius ginklus, sportui – B, C kategorijų ginklus.“
 
 
-3. Papildyti [[#28 straipsnis. 36 straipsnio 1 ir 2 dalių pakeitimas|28 straipsnį]] nauja [[#^09a32821e169a1aecbf1d679|4 dalimi]]: ^76813060f2cedc1415003bed
+3. Papildyti [[#^s-5576a5e29612625b3fef7bc5|28 straipsnį]] nauja [[#^s-6d4726f656bdfd95c8124bb5|4 dalimi]]: ^s-75c48ae93d43cfebc3babfb6
 
 
 „4. Ginklus sportui galima nuomoti Lietuvos Respublikos nuolatiniams gyventojams ir užsieniečiams, turintiems teisę laikyti ir nešiotis tos kategorijos ginklą ir pateikusiems šią teisę įrodančius dokumentus bei galiojantį šaudymo sporto organizacijos nario pažymėjimą.“
 
 
-4. Buvusias [[#28 straipsnis. 36 straipsnio 1 ir 2 dalių pakeitimas|28 straipsnio]] 4 ir [[#^ad65fc78f6918fba755bb19c|5 dalis]] laikyti atitinkamai 5 ir 6 dalimis. ^09a32821e169a1aecbf1d679
+4. Buvusias [[#^s-5576a5e29612625b3fef7bc5|28 straipsnio]] 4 ir [[#^s-77b861960b648a6a34979af8|5 dalis]] laikyti atitinkamai 5 ir 6 dalimis. ^s-6d4726f656bdfd95c8124bb5
 
 
-5. 28 straipsnio 5 dalyje vietoj žodžių „Įmonė, nuomojanti“ įrašyti žodžius „Lietuvos Respublikoje įregistruotas juridinis asmuo, nuomojantis“ ir šią dalį išdėstyti taip: ^ad65fc78f6918fba755bb19c
+5. 28 straipsnio 5 dalyje vietoj žodžių „Įmonė, nuomojanti“ įrašyti žodžius „Lietuvos Respublikoje įregistruotas juridinis asmuo, nuomojantis“ ir šią dalį išdėstyti taip: ^s-77b861960b648a6a34979af8
 
 
 „5. Lietuvos Respublikoje įregistruotas juridinis asmuo, nuomojantis ginklus, juos išsinuomojančiam asmeniui privalo nustatyta tvarka išduoti laikiną ginklo kortelę.“
 
 
 
-### 25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas
+### 25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas ^s-9121caf4bc26e847c9fe8d54
 
 
 30 straipsnio 2 dalies 4 punkte vietoj žodžio „neblaivumas“ įrašyti žodį „blaivumas“ ir šį punktą išdėstyti taip:
@@ -1002,23 +1007,23 @@ Pakeisti [[#25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas|25 straips
 
 
 
-### 26 straipsnis. 31 straipsnio 1 dalies papildymas 5 punktu ir 2 dalies pakeitimas
+### 26 straipsnis. 31 straipsnio 1 dalies papildymas 5 punktu ir 2 dalies pakeitimas ^s-927b5b202de14a45f006cbf9
 
 
-1. 31 straipsnio 1 dalį papildyti 5 punktu: ^0043de0491fbb45a4c6d2d20
+1. 31 straipsnio 1 dalį papildyti 5 punktu: ^s-310ca770a748fe662a18c87c
 
 
 „5) panaudojęs ginklą, nevartoti alkoholinių gėrimų, narkotinių, psichotropinių ar kitų svaigiųjų medžiagų, kol bus patikrintas blaivumas ar apsvaigimas arba bus atsisakyta tai atlikti.“
 
 
-2. 31 straipsnio 2 dalies 2 punkte vietoj žodžių „elektrošoko įrenginius ir“ įrašyti žodžius „elektros šoko“ ir šį punktą išdėstyti taip: ^55af6c89230b2ba12de56c26
+2. 31 straipsnio 2 dalies 2 punkte vietoj žodžių „elektrošoko įrenginius ir“ įrašyti žodžius „elektros šoko“ ir šį punktą išdėstyti taip: ^s-b0e0b8d79d4b475b1a5cac5b
 
 
 „2) nešiotis D kategorijos ginklą, išskyrus gynybinio pobūdžio elektros šoko įtaisus, dujinius ginklus;“.
 
 
 
-### 27 straipsnis. 33 straipsnio 4 dalies pakeitimas
+### 27 straipsnis. 33 straipsnio 4 dalies pakeitimas ^s-642a8b521088bbe3a3709255
 
 
 33 straipsnio 4 dalyje išbraukti žodį „šaunamieji“ ir šią dalį išdėstyti taip:
@@ -1028,73 +1033,73 @@ Pakeisti [[#25 straipsnis. 30 straipsnio 2 dalies 4 punkto pakeitimas|25 straips
 
 
 
-### 28 straipsnis. 36 straipsnio 1 ir 2 dalių pakeitimas
+### 28 straipsnis. 36 straipsnio 1 ir 2 dalių pakeitimas ^s-5576a5e29612625b3fef7bc5
 
 
-1. Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip: ^2348bb4bd7c6031aaf80a4fc
+1. Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip: ^s-ba1f85b5db618cb15ba8f66e
 
 
 „1. Europos šaunamojo ginklo leidimą Lietuvos Respublikos nuolatiniam gyventojui, turinčiam ginklą ir pageidaujančiam jį išvežti į Europos Sąjungos valstybę narę, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Šis leidimas galioja ne ilgiau kaip 5 metus. Jeigu į leidimą įrašomi tik D kategorijai priskirti ginklai, leidimas galioja 10 metų.“
 
 
-2. 36 straipsnio 2 dalyje išbraukti žodį „kuris“, po žodžių „Europos Sąjungos valstybėje“ įrašyti žodį „narėje“, vietoj žodžių „naudojasi šaunamuoju ginklu“ įrašyti žodžius „turėdamas šaunamąjį ginklą“ ir šią dalį išdėstyti taip: ^72f1aa1d98f00416d54da8f6
+2. 36 straipsnio 2 dalyje išbraukti žodį „kuris“, po žodžių „Europos Sąjungos valstybėje“ įrašyti žodį „narėje“, vietoj žodžių „naudojasi šaunamuoju ginklu“ įrašyti žodžius „turėdamas šaunamąjį ginklą“ ir šią dalį išdėstyti taip: ^s-72001816e73437938d5e006c
 
 
 „2. Europos šaunamojo ginklo leidimo negalima perleisti kitiems asmenims. Asmuo, Europos Sąjungos valstybėje narėje turėdamas šaunamąjį ginklą, privalo su savimi turėti šį leidimą.“
 
 
 
-### 29 straipsnis. 37 straipsnio 1, 2 ir 6 dalių pakeitimas
+### 29 straipsnis. 37 straipsnio 1, 2 ir 6 dalių pakeitimas ^s-b78f2ce1c05a0ba12e1a9e48
 
 
-1. 37 straipsnio 1 dalyje po raidžių „B, C“ įrašyti raidę „D“, po žodžio „gyventojai“ įrašyti žodžius „Lietuvos Respublikoje įregistruoti“, dalį papildyti antru sakiniu ir ją išdėstyti taip: ^d83b836c4e71c7a28374dcb6
+1. 37 straipsnio 1 dalyje po raidžių „B, C“ įrašyti raidę „D“, po žodžio „gyventojai“ įrašyti žodžius „Lietuvos Respublikoje įregistruoti“, dalį papildyti antru sakiniu ir ją išdėstyti taip: ^s-f40f0fe26e1d52bb235ce3d5
 
 
 „1. Lietuvos Respublikos nuolatiniai gyventojai, Lietuvos Respublikoje įregistruoti juridiniai asmenys, užsieniečiai turi teisę įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti tranzitu teisėtai įgytus B, C, D kategorijų ginklus, jų šaudmenis, taip pat visų kategorijų kolekcinius pavienius ginklus, nustatyta tvarka gavę Policijos departamento prie Vidaus reikalų ministerijos leidimą. Be leidimo galima įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti tranzitu vieną D kategorijos ginklą, ne daugiau kaip 50 vienetų D kategorijos ginklams skirtų šaudmenų, išskyrus pneumatinio ginklo šaudmenis, kurių be leidimo galima įvežti neribotą kiekį.“
 
 
-2. Pakeisti 37 straipsnio 2 dalį ir ją išdėstyti taip: ^2a23b112c33d09d7f81bab81
+2. Pakeisti 37 straipsnio 2 dalį ir ją išdėstyti taip: ^s-9bb62bd794530f3df3a9b45b
 
 
 „2. Lietuvos Respublikos ir Europos Sąjungos valstybių narių nuolatiniai gyventojai pavienius ginklus, jų šaudmenis taip pat gali įvežti į Lietuvos Respubliką ar išvežti iš jos turėdami Europos šaunamojo ginklo leidimą ir dokumento, patvirtinančio atvykimo tikslą, kopiją. Be to, Lietuvos Respublikos ir Europos Sąjungos valstybių narių nuolatiniai gyventojai turi teisę įvežti iš Europos Sąjungos valstybės narės į Lietuvos Respubliką B, C, D kategorijų pavienius ginklus, jų šaudmenis, taip pat visų kategorijų kolekcinius pavienius ginklus, turėdami Policijos departamento prie Vidaus reikalų ministerijos išankstinį sutikimą dėl ginklų ir (ar) šaudmenų įvežimo į Lietuvos Respublikos teritoriją, ir išvežti juos iš Lietuvos Respublikos į Europos Sąjungos valstybę narę, turėdami tam Policijos departamento prie Vidaus reikalų ministerijos išduotą leidimą. Policijos departamentas prie Vidaus reikalų ministerijos leidimą vežti ginklus ir (ar) šaudmenis išduoda po to, kai gauna Europos Sąjungos valstybės narės išankstinį sutikimą dėl ginklų ir (ar) šaudmenų įvežimo.“
 
 
-3. 37 straipsnio 6 dalyje vietoj skaičiaus „200“ įrašyti skaičių „500“ ir šią dalį išdėstyti taip: ^49618cf870031cb01a295eae
+3. 37 straipsnio 6 dalyje vietoj skaičiaus „200“ įrašyti skaičių „500“ ir šią dalį išdėstyti taip: ^s-b5229507c9c37a457bc0799e
 
 
 „6. Įvežamų į Lietuvos Respubliką, išvežamų iš jos, gabenamų tranzitu pavienių ginklų skaičius negali viršyti 3 vienetų vienam asmeniui, 500 vienetų šaudmenų vienam įvežamam ar turimam to paties kalibro ginklui. Sportui (varžyboms, treniruotėms) įvežamų į Lietuvos Respubliką, išvežamų iš jos ginklų, šaudmenų skaičius neribojamas.“
 
 
 
-### 30 straipsnis. 38 straipsnio 1 ir 2 dalių pakeitimas ir straipsnio papildymas 7 dalimi
+### 30 straipsnis. 38 straipsnio 1 ir 2 dalių pakeitimas ir straipsnio papildymas 7 dalimi ^s-6c6392d052bf823f3bb81862
 
 
-1. 38 straipsnio 1 dalies 1 punkte vietoj žodžių „kaip ginklų, šaudmenų“ įrašyti žodžius „pagal paskirtį“ ir šį punktą išdėstyti taip: ^0cba91de4e6c47fe8bc67d18
+1. 38 straipsnio 1 dalies 1 punkte vietoj žodžių „kaip ginklų, šaudmenų“ įrašyti žodžius „pagal paskirtį“ ir šį punktą išdėstyti taip: ^s-4e3d307c74b576e243660288
 
 
 „1) šaunamuosius ginklus, jų šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį, taip pat jų dalis;“.
 
 
-2. Papildyti 38 straipsnio 1 dalį 4 punktu: ^723b19675339c1d1fcff37dc
+2. Papildyti 38 straipsnio 1 dalį 4 punktu: ^s-39c403bc5f6af651a46fb712
 
 
 „4) visiškai netinkamus naudoti ginklus.“
 
 
-3. Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip: ^d811ac1e27b1a6777ff8c440
+3. Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip: ^s-c0424f92fb6f79d523bc74f4
 
 
 „2. Šaunamieji ginklai turi būti perdirbti taip, kad jų nebūtų įmanoma naudoti pagal paskirtį. Šaudmenys turi būti perdirbti taip, kad jų nebūtų galima iššauti.“
 
 
-4. Papildyti 38 straipsnį 7 dalimi: ^5a3f99052556c44d6d34f47d
+4. Papildyti 38 straipsnį 7 dalimi: ^s-9f5d2be202d6e5f9ebf1875b
 
 
 „7. Pažymą, kad ginklas (išskyrus specialaus statuso subjektų naudojamus ginklus) yra visiškai netinkamas naudoti, išduoda Ginklų fondas.“
 
 
 
-### 31 straipsnis. 40 straipsnio 1 dalies 5 punkto pakeitimas
+### 31 straipsnis. 40 straipsnio 1 dalies 5 punkto pakeitimas ^s-1d74ba60bca6f0f98737e607
 
 
 Pakeisti 40 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -1104,74 +1109,74 @@ Pakeisti 40 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 32 straipsnis. 41 straipsnio 1, 3, 4, 5, 6 ir 7 dalių pakeitimas
+### 32 straipsnis. 41 straipsnio 1, 3, 4, 5, 6 ir 7 dalių pakeitimas ^s-a510641b6ba2c3f8810f10ac
 
 
-1. Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip: ^ecc444e0ce46d42cbfce4208
+1. Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip: ^s-3d4c47e4b7f66cc1a965cd59
 
 
 „1. Policija ar kitos įstatymų įgaliotos valstybės institucijos ginklus, ginklų priedėlius, šaudmenis, jų dalis gali paimti:
 
 
-1) kai ginklai, ginklų priedėliai ir šaudmenys, jų dalys gaminami, importuojami, eksportuojami, gabenami, laikomi ar nešiojami, jais prekiaujama neturint atitinkamo leidimo ar licencijos arba pasibaigus jų galiojimo laikui; ^d68f2cc3f6e096a4471e22af
+1) kai ginklai, ginklų priedėliai ir šaudmenys, jų dalys gaminami, importuojami, eksportuojami, gabenami, laikomi ar nešiojami, jais prekiaujama neturint atitinkamo leidimo ar licencijos arba pasibaigus jų galiojimo laikui; ^s-02c3c154aefdf754a3e9e906
 
 
-2) panaikinus licencijos, leidimo nešiotis, leidimo laikyti ginklus, šaudmenis galiojimą; ^894cb8527c93529fa68c89c8
+2) panaikinus licencijos, leidimo nešiotis, leidimo laikyti ginklus, šaudmenis galiojimą; ^s-2c27b6f02029c7854e46ad2d
 
 
-3) pažeidus šio Įstatymo reikalavimus, kai pažeidimas kelia grėsmę žmonių gyvybei, sveikatai, visuomenės saugumui ar viešajai tvarkai; ^cd2076b5773e38a68c58a351
+3) pažeidus šio Įstatymo reikalavimus, kai pažeidimas kelia grėsmę žmonių gyvybei, sveikatai, visuomenės saugumui ar viešajai tvarkai; ^s-91b4018c4cf5091d8d0fea4d
 
 
-4) mirus ginklo savininkui, kol bus išspręstas turto paveldėjimo klausimas; ^307167beb2bb7123399552f4
+4) mirus ginklo savininkui, kol bus išspręstas turto paveldėjimo klausimas; ^s-33039c81a6c29d14a2bf5717
 
 
-5) kai asmuo įstatymų nustatyta tvarka įtariamas ar kaltinamas padaręs tyčinę nusikalstamą veiką ar jam paskirta kardomoji priemonė – suėmimas; ^b4cd150ff9c57358dbc96525
+5) kai asmuo įstatymų nustatyta tvarka įtariamas ar kaltinamas padaręs tyčinę nusikalstamą veiką ar jam paskirta kardomoji priemonė – suėmimas; ^s-a8e67506881ef6336236e474
 
 
-6) esant pakankamam pagrindui įtarti, kad asmuo serga ligomis ar turi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, ar turi sveikatos sutrikimų, problemų dėl alkoholizmo, narkomanijos, psichikos būklės; ^5d2f2d525da8204932673c24
+6) esant pakankamam pagrindui įtarti, kad asmuo serga ligomis ar turi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, ar turi sveikatos sutrikimų, problemų dėl alkoholizmo, narkomanijos, psichikos būklės; ^s-63cf9a05dcfbb9936de4465e
 
 
-7) jei įtariama, kad ginklas, ginklo priedėlis, šaudmenys galėjo būti teisės pažeidimo, nusikalstamos veikos įrankis ar teisės pažeidimo ar nusikalstamos veikos objektas; ^d4c11cfb0653dfd653f6fa13
+7) jei įtariama, kad ginklas, ginklo priedėlis, šaudmenys galėjo būti teisės pažeidimo, nusikalstamos veikos įrankis ar teisės pažeidimo ar nusikalstamos veikos objektas; ^s-b51aa57b39d32e48a0118d99
 
 
-8) asmeniui raštiškai atsisakius ginklo; ^6f76cd8e4e57ac9bcdcdfa1b
+8) asmeniui raštiškai atsisakius ginklo; ^s-c717a102b56bfcc6e6b258a7
 
 
-9) nepaprastosios ir karo padėties atvejais.“ ^084f3abcad328599302475dd
+9) nepaprastosios ir karo padėties atvejais.“ ^s-50c07755c857b3abe08d534d
 
 
-2. Pakeisti 41 straipsnio 3 dalį ir ją išdėstyti taip: ^72bd86e44b112cf721a8965a
+2. Pakeisti 41 straipsnio 3 dalį ir ją išdėstyti taip: ^s-194dc9bb75500680027c8ca1
 
 
 „3. Tinkami saugiai naudoti ginklai, ginklų priedėliai ar fabrikinės gamybos šaudmenys asmens prašymu realizuojami per Ginklų fondą arba Lietuvos Respublikoje įregistruotus juridinius asmenis, turinčius teisę prekiauti ginklais, ginklų priedėliais, šaudmenimis. Jeigu asmuo, kuriam policijos įstaiga panaikino leidimą laikyti ginklus ar leidimą nešiotis ginklus, per 30 dienų nesikreipia į policijos įstaigą su prašymu realizuoti ginklą, ginklo priedėlį, šaudmenis, tai ginklas, ginklo priedėlis, šaudmenys perduodami realizuoti Ginklų fondui. Netinkami saugiai naudoti ginklai, ginklų priedėliai, šaudmenys, kurie nepriimami realizuoti, neatlygintinai (išskyrus turinčius istorinę ar kriminalistinę vertę) perduodami sunaikinti į Ginklų fondą.“
 
 
-3. Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip: ^238f89f9c77a1c948084f7f0
+3. Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip: ^s-7c4e095ff97cf5f0ba3ae01f
 
 
 „4. Per 10 dienų nuo ginklo, ginklo priedėlio, šaudmenų realizavimo jų savininkui pranešama apie realizuotą ginklą, ginklo priedėlį, šaudmenis ir jam atvykus sumokama už šį ginklą, ginklo priedėlį, šaudmenis gauta pinigų suma, atskaičius realizavimo išlaidas. Perduoto realizuoti Ginklų fondui ginklo, ginklų priedėlių, šaudmenų tinkamumas naudoti nustatomas ir vertė apskaičiuojama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
 
-4. Pakeisti 41 straipsnio 5 dalį ir ją išdėstyti taip: ^66bdedd4cb83da16d28254d3
+4. Pakeisti 41 straipsnio 5 dalį ir ją išdėstyti taip: ^s-0c3cae3c00cb9655561d09f1
 
 
-„5. [[#^b4cd150ff9c57358dbc96525|Šio straipsnio 1 dalies 5 punkte]] nurodytais atvejais ginklai, ginklo priedėliai ir šaudmenys, leidimas laikyti, leidimas nešiotis ginklus paimami iki ikiteisminio tyrimo ar baudžiamosios bylos nutraukimo arba kardomosios priemonės asmeniui panaikinimo įstatymų nustatyta tvarka. [[#^ecc444e0ce46d42cbfce4208|Šio straipsnio 1 dalies]] 6, 7 punktuose nurodytais atvejais policijos įstaigos ginklus, ginklo priedėlius, šaudmenis, leidimą laikyti, leidimą nešiotis ginklus paima, kol bus priimtas atitinkamas sprendimas dėl leidimo panaikinimo ar ginklo grąžinimo. Tais atvejais, kai ginklai, ginklo priedėliai, šaudmenys buvo paimti pasibaigus licencijos ar leidimo galiojimo laikui, tačiau jų galiojimo terminas teisės aktų nustatyta tvarka buvo pratęstas, ginklai, ginklų priedėliai ir šaudmenys grąžinami jų savininkui.“
+„5. [[#^s-a8e67506881ef6336236e474|Šio straipsnio 1 dalies 5 punkte]] nurodytais atvejais ginklai, ginklo priedėliai ir šaudmenys, leidimas laikyti, leidimas nešiotis ginklus paimami iki ikiteisminio tyrimo ar baudžiamosios bylos nutraukimo arba kardomosios priemonės asmeniui panaikinimo įstatymų nustatyta tvarka. [[#^s-3d4c47e4b7f66cc1a965cd59|Šio straipsnio 1 dalies]] 6, 7 punktuose nurodytais atvejais policijos įstaigos ginklus, ginklo priedėlius, šaudmenis, leidimą laikyti, leidimą nešiotis ginklus paima, kol bus priimtas atitinkamas sprendimas dėl leidimo panaikinimo ar ginklo grąžinimo. Tais atvejais, kai ginklai, ginklo priedėliai, šaudmenys buvo paimti pasibaigus licencijos ar leidimo galiojimo laikui, tačiau jų galiojimo terminas teisės aktų nustatyta tvarka buvo pratęstas, ginklai, ginklų priedėliai ir šaudmenys grąžinami jų savininkui.“
 
 
-5. 41 straipsnio 6 dalyje po žodžio „ginklas“ įrašyti žodžius „ginklo priedėlis“ ir šią dalį išdėstyti taip: ^1cfb9ef4e9852d342e0c764b
+5. 41 straipsnio 6 dalyje po žodžio „ginklas“ įrašyti žodžius „ginklo priedėlis“ ir šią dalį išdėstyti taip: ^s-d60142f62b861282f2e720b2
 
 
 „6. Jei sprendimas dėl leidimo panaikinimo ar nepratęsimo, licencijos panaikinimo apskundžiamas įstatymų nustatyta tvarka, ginklas, ginklo priedėlis ir šaudmenys laikinai paimami saugoti iki galutinio sprendimo priėmimo.“
 
 
-6. 41 straipsnio 7 dalyje po žodžio „ginklas“ įrašyti žodžius „ginklo priedėlis“ ir šią dalį išdėstyti taip: ^7d7994c99fa92a97914e7dd9
+6. 41 straipsnio 7 dalyje po žodžio „ginklas“ įrašyti žodžius „ginklo priedėlis“ ir šią dalį išdėstyti taip: ^s-c0d906dbfc6da9ff7b3a4b7d
 
 
 „7. Šaunamojo ginklo savininko mirties atveju ginklas, ginklo priedėlis ir šaudmenys perduodami į teritorinę policijos įstaigą laikinai saugoti, kol bus išspręstas turto paveldėjimo klausimas.“
 
 
 
-### 33 straipsnis. Įstatymo papildymas priedu
+### 33 straipsnis. Įstatymo papildymas priedu ^s-f803357752a3e25f6d9af7dc
 
 
 Papildyti Įstatymą priedu:
@@ -1188,26 +1193,26 @@ priedas
 
 
 
-### 34 straipsnis. Pasiūlymas Vyriausybei
+### 34 straipsnis. Pasiūlymas Vyriausybei ^s-874de44b547f75f78c0f7768
 
 
 Vyriausybė ar jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir patvirtina Įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 35 straipsnis. Įstatymo įsigaliojimas
+### 35 straipsnis. Įstatymo įsigaliojimas ^s-f0b199bc13ca2ff47e4d51de
 
 
-1. Šis įstatymas, išskyrus [[#33 straipsnis. Įstatymo papildymas priedu|33 straipsnį]], įsigalioja po 6 mėnesių nuo Įstatymo priėmimo dienos. ^878db4066042df9a3a439f0b
+1. Šis įstatymas, išskyrus [[#^s-f803357752a3e25f6d9af7dc|33 straipsnį]], įsigalioja po 6 mėnesių nuo Įstatymo priėmimo dienos. ^s-2464578870bb5c329874a430
 
 
-2. Šio įstatymo [[#^35095d4ac99a0b20a3ed1a91|8 straipsnio 3 dalyje]] nustatytas griežtesnis nei iki šio įstatymo įsigaliojimo galiojusioje Ginklų ir šaudmenų kontrolės įstatymo 13 straipsnio 8 dalyje nustatytas teisės kolekcionuoti ginklus apribojimas netaikomas asmenims, kuriems leidimas kolekcionuoti ginklus buvo išduotas iki šio įstatymo įsigaliojimo. ^a1d74c54b38cf20973c4e248
+2. Šio įstatymo [[#^s-5bc573a0ec6898590965d3c1|8 straipsnio 3 dalyje]] nustatytas griežtesnis nei iki šio įstatymo įsigaliojimo galiojusioje [[latest/TAR.389CB90C666D#^s-14ff43a4df5ce15fac1a8d41|Ginklų ir šaudmenų kontrolės įstatymo 13 straipsnio 8 dalyje]] nustatytas teisės kolekcionuoti ginklus apribojimas netaikomas asmenims, kuriems leidimas kolekcionuoti ginklus buvo išduotas iki šio įstatymo įsigaliojimo. ^s-bb9a2a6a1a772617f27b65e3
 
 
-3. Šio įstatymo [[#13 straipsnis. 17 straipsnio 1 dalies pakeitimas ir papildymas|13 straipsnyje]] nustatyti griežtesni nei iki šio įstatymo įsigaliojimo galiojusioje Ginklų ir šaudmenų kontrolės įstatymo [[#^33ba7c2ff7f97824efd2860b|18 straipsnio 2 dalyje]] nustatyti teisės turėti ginklus apribojimai netaikomi asmenims, kurie ginklus įsigijo iki šio įstatymo įsigaliojimo, jei aplinkybės, dėl kurių gali būti taikomi apribojimai, atsirado iki šio įstatymo įsigaliojimo. ^2c9c6b37ad66bc633c4435ea
+3. Šio įstatymo [[#^s-c02cced2eb96c59cdb99aad2|13 straipsnyje]] nustatyti griežtesni nei iki šio įstatymo įsigaliojimo galiojusioje [[latest/TAR.389CB90C666D#^s-df7f6d281f4a07c241e87501|Ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalyje]] nustatyti teisės turėti ginklus apribojimai netaikomi asmenims, kurie ginklus įsigijo iki šio įstatymo įsigaliojimo, jei aplinkybės, dėl kurių gali būti taikomi apribojimai, atsirado iki šio įstatymo įsigaliojimo. ^s-5412e1a29d1a837e509446b9
 
 
-4. Juridiniai asmenys, turintys Vyriausybės nustatyta tvarka iki šio įstatymo įsigaliojimo išduotas licencijas prekiauti ginklais, šaudmenimis, jų dalimis, per 6 mėnesius nuo šio įstatymo įsigaliojimo turi pakeisti jas į naujas licencijas prekiauti civilinėje apyvartoje ginklais, šaudmenimis, jų dalimis ir ginklų priedėliais pagal šio įstatymo nustatytus reikalavimus. ^ace20d3a5bba45a7ff44f0b8
+4. Juridiniai asmenys, turintys Vyriausybės nustatyta tvarka iki šio įstatymo įsigaliojimo išduotas licencijas prekiauti ginklais, šaudmenimis, jų dalimis, per 6 mėnesius nuo šio įstatymo įsigaliojimo turi pakeisti jas į naujas licencijas prekiauti civilinėje apyvartoje ginklais, šaudmenimis, jų dalimis ir ginklų priedėliais pagal šio įstatymo nustatytus reikalavimus. ^s-3ac5422d86e25669444f6aec
 
 
 

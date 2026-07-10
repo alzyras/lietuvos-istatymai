@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.91EDAB944501"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo, Administracinių bylų teisenos įstatymo, Civilinio proceso kodekso, Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo ketvirtojo skirsnio 1 ir 2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo, Administracinių bylų teisenos įstatymo, Civilinio proceso kodekso, Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo ketvirtojo skirsnio 1 ir 2 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo, Administracinių bylų teisenos įstatymo, Civilinio proceso kodekso, Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo ketvirtojo skirsnio 1 ir 2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.91EDAB944501.md"
 latest_sha256: "8b8b9f1ef8e193e2de276dd2c1ce170125738582d8638c5fc7d11a72e76e9b84"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.91EDAB944501]]"
 ---
 # Lietuvos Respublikos teismų įstatymo, Administracinių bylų teisenos įstatymo, Civilinio proceso kodekso, Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo ketvirtojo skirsnio 1 ir 2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.91EDAB944501.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.91EDAB944501
+- Ryšiai: [[Ryšiai/TAR.91EDAB944501|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Ketvirtojo skirsnio 1 straipsnio pakeitimas
+### 1 straipsnis. Ketvirtojo skirsnio 1 straipsnio pakeitimas ^s-d0471dc35c23049c8b41fda4
 
 
 Pakeisti ketvirtojo skirsnio 1 straipsnį ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Papildyti 234 straipsnio 5 dalį 4 punktu:
 
 
 
-### 2 straipsnis. Ketvirtojo skirsnio 2 straipsnio pakeitimas
+### 2 straipsnis. Ketvirtojo skirsnio 2 straipsnio pakeitimas ^s-6666c6fc8c0c88aa45f0a9d9
 
 
 Ketvirtojo skirsnio 2 straipsnyje vietoj žodžių „3 dalies“ įrašyti žodžius „5 dalies“ ir visą straipsnį išdėstyti taip:
@@ -59,7 +64,7 @@ Ketvirtojo skirsnio 2 straipsnyje vietoj žodžių „3 dalies“ įrašyti žod
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-e24ffaf72dff336fc5fa2d03
 
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.

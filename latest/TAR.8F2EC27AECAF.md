@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8F2EC27AECAF"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.8F2EC27AECAF.md"
 latest_sha256: "1f3af8c5172ff6e950cdfb76ccf4c2e171ee65d14b54f7a4bac4203727751c2c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8F2EC27AECAF]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8F2EC27AECAF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8F2EC27AECAF
+- Ryšiai: [[Ryšiai/TAR.8F2EC27AECAF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Nr. 115-2911; 1998, Nr. 56-1546)
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 5 straipsnio pakeitimas ir papildymas ^s-9d1afc0fb30bf83284be7743
 
 
 Pakeisti 5 straipsnio pavadinimą, straipsnį papildyti nauja 7 dalimi ir šį straipsnį išdėstyti taip:
@@ -59,11 +64,11 @@ Lietuvos Nepriklausomybės Akto signatarams pirmojo laipsnio valstybinę pensij�
 Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą, pirmojo ar antrojo laipsnio valstybinės pensijos paskyrimas panaikinamas nuo nuosprendžio įsigaliojimo dienos.
 
 
-Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir išauginusioms bei gerai išauklėjusioms 10 ir daugiau vaikų. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.“
+Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir išauginusioms bei gerai išauklėjusioms 10 ir daugiau vaikų. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] ir kitų įstatymų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-162195f42a181769a0f7b562
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

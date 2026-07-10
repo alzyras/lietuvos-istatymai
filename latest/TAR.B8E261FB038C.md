@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B8E261FB038C"
 pavadinimas: "Lietuvos Respublikos audito įstatymo 21, 22, 36, 43 ir 60 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos audito įstatymo 21, 22, 36, 43 ir 60 straipsnių pakeitimo įstatymas"
+  - "audito įstatymo 21, 22, 36, 43 ir 60 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.B8E261FB038C.md"
 latest_sha256: "7331c333f1bfa90eaa93a41c44281e0249572321afe34e54787702f5a9012e1f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B8E261FB038C]]"
 ---
 # Lietuvos Respublikos audito įstatymo 21, 22, 36, 43 ir 60 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B8E261FB038C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B8E261FB038C
+- Ryšiai: [[Ryšiai/TAR.B8E261FB038C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 21 straipsnio 1 dalies 2 punkto pakeitimas ^s-8e5297162759151a815ca0a5
 
 
 Pakeisti 21 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 21 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 22 straipsnio 1 dalies 5 punkto pakeitimas
+### 2 straipsnis. 22 straipsnio 1 dalies 5 punkto pakeitimas ^s-668417062df7bfa34e76f17a
 
 
 Pakeisti 22 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -53,32 +58,32 @@ Pakeisti 22 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 36 straipsnio 3 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios
+### 3 straipsnis. 36 straipsnio 3 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios ^s-9f21e543c424e37029e5adfa
 
 
-1. Pakeisti 36 straipsnio 3 dalį ir ją išdėstyti taip: ^71257a6772edf61ff0190420
+1. Pakeisti 36 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d06b972cc031afac7323cd85
 
 
-„3. Be [[#^b0e199a61bbcf84a981ffe33|šio straipsnio 2 dalyje]] nustatyto atvejo inicijuoti auditoriaus arba audito įmonės atlikto audito tyrimą, tyrimas gali būti pradėtas Įstaigos sprendimu, kai:
+„3. Be [[#^s-f87a833f70bd93312f535e69|šio straipsnio 2 dalyje]] nustatyto atvejo inicijuoti auditoriaus arba audito įmonės atlikto audito tyrimą, tyrimas gali būti pradėtas Įstaigos sprendimu, kai:
 
 
-1) valstybės institucijos, Auditorių rūmai, kiti juridiniai ir fiziniai asmenys kreipiasi į Įstaigą su pasiūlymu ištirti auditoriaus ir (arba) audito įmonės atliktą auditą; ^0414f9784a401c9549e61c3a
+1) valstybės institucijos, Auditorių rūmai, kiti juridiniai ir fiziniai asmenys kreipiasi į Įstaigą su pasiūlymu ištirti auditoriaus ir (arba) audito įmonės atliktą auditą; ^s-6191d247bfb3a01eb978996a
 
 
-2) valstybių narių ir valstybių ne narių kompetentingų institucijų prašymu; ^67367166560c4618affd1245
+2) valstybių narių ir valstybių ne narių kompetentingų institucijų prašymu; ^s-700176355916429a9315bc26
 
 
-3) siekiama nustatyti, ar auditorius auditą viešojo intereso įmonėse atliko laikydamasis šio įstatymo 27 straipsnio 3 dalyje nustatytų reikalavimų ir (arba) audito įmonė viešojo intereso įmonėse auditą atliko laikydamasi šio įstatymo 29 straipsnio 3 dalyje nustatyto reikalavimo; ^5af2a7109ddfb1deb7beb03b
+3) siekiama nustatyti, ar auditorius auditą viešojo intereso įmonėse atliko laikydamasis šio įstatymo 27 straipsnio 3 dalyje nustatytų reikalavimų ir (arba) audito įmonė viešojo intereso įmonėse auditą atliko laikydamasi šio įstatymo 29 straipsnio 3 dalyje nustatyto reikalavimo; ^s-14afc1cf5e77ebaa01b13b4a
 
 
-4) siekiama užtikrinti atlikto audito kokybės peržiūrų kokybę.“ ^3ad75490e88a72531868327a
+4) siekiama užtikrinti atlikto audito kokybės peržiūrų kokybę.“ ^s-70875fcb842f0ba99e1a6f64
 
 
-2. 36 straipsnio 4 dalį pripažinti netekusia galios. ^b0e199a61bbcf84a981ffe33
+2. 36 straipsnio 4 dalį pripažinti netekusia galios. ^s-f87a833f70bd93312f535e69
 
 
 
-### 4 straipsnis. 43 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 43 straipsnio 5 dalies pakeitimas ^s-a9e4a7d8770ed4888085b30f
 
 
 Pakeisti 43 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -88,20 +93,20 @@ Pakeisti 43 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 60 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+### 5 straipsnis. 60 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios ^s-4e78b9871cb37688899ec339
 
 
-1. Pakeisti 60 straipsnio 2 dalį ir ją išdėstyti taip: ^3c4139c05ff4cb45591ba1ac
+1. Pakeisti 60 straipsnio 2 dalį ir ją išdėstyti taip: ^s-27601673c9c529d125cbb32a
 
 
 „2. Audito įmonės už šiame įstatyme nustatytas funkcijas kiekvienais metais iki birželio 30 dienos sumoka Auditorių rūmams atskaitymus, kurie sudaro 0,3 procento pajamų, gautų už atliktą auditą. Į audito įmonių sąrašą įrašytos valstybės narės audito įmonės moka tik gautų pajamų už Lietuvos Respublikos teisės aktų nustatyta tvarka atliktą auditą atskaitymus Auditorių rūmams. Informaciją, reikalingą audito įmonių atskaitymams apskaičiuoti, Auditorių rūmai gauna iš audito įmonių.“
 
 
-2. 60 straipsnio 3 dalį pripažinti netekusia galios. ^0dcc018ceecd2523067be6bc
+2. 60 straipsnio 3 dalį pripažinti netekusia galios. ^s-a926b8985aec2fd6c2dce339
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-5c918943639c34b268d8894e
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

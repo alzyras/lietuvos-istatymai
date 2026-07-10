@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.770A3DAC5194"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinių pensijų įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinių pensijų įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-15"
 latest_path: "latest/TAR.770A3DAC5194.md"
 latest_sha256: "b61958c01b5ea5242341998b7798cb30057238ccdd891e8d1d61bc167d715f07"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.770A3DAC5194]]"
 ---
 # Dėl Lietuvos Respublikos valstybinių pensijų įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.770A3DAC5194.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194
+- Ryšiai: [[Ryšiai/TAR.770A3DAC5194|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

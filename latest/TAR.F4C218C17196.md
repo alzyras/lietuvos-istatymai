@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F4C218C17196"
 pavadinimas: "Lietuvos Respublikos 2005 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2005 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2005 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-26"
 latest_path: "latest/TAR.F4C218C17196.md"
 latest_sha256: "49e1b4f6f94cec9d860d5f4d14c71eabea6891b32d0b7cd607848d5745ca51bb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F4C218C17196]]"
 ---
 # Lietuvos Respublikos 2005 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F4C218C17196.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F4C218C17196
+- Ryšiai: [[Ryšiai/TAR.F4C218C17196|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         2005 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis.         2005 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-41f87be35d42f612612c504c
 
 
 Patvirtinti Lietuvos Respublikos 2005 metų Privalomojo sveikatos draudimo fondo biudžetą – 2360810 tūkst. litų pajamų ir 2360810 tūkst. litų išlaidų, iš jų 20000 tūkst. litų kasos apyvartos lėšų (priedėlis).
@@ -69,7 +74,7 @@ DRAUDIMO FONDO BIUDŽETAS
 
 
  1 02
- Įmonių, įstaigų bei organizacijų ir fizinių asmenų, kurie verčiasi individualia veikla, kaip apibrėžta Gyventojų pajamų mokesčio įstatyme, atskaitymai iš gyventojų pajamų mokesčio
+ Įmonių, įstaigų bei organizacijų ir fizinių asmenų, kurie verčiasi individualia veikla, kaip apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], atskaitymai iš gyventojų pajamų mokesčio
  1156330
 
 

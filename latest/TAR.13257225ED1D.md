@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13257225ED1D"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 4 straipsnio papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.13257225ED1D.md"
 latest_sha256: "fd162a3b9e11f5ddd0edc0e4c60b2c65acb3474df9bbf7699041168ced549442"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13257225ED1D]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13257225ED1D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13257225ED1D
+- Ryšiai: [[Ryšiai/TAR.13257225ED1D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies papildymas 3 punktu
+### 1 straipsnis. 4 straipsnio 2 dalies papildymas 3 punktu ^s-5a00c9fe1b837f133233df81
 
 
 Papildyti 4 straipsnio 2 dalį 3 punktu:
@@ -43,7 +48,7 @@ Papildyti 4 straipsnio 2 dalį 3 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ef0314f98665ede3aee1c52b
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

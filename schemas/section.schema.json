@@ -56,6 +56,15 @@
         "null"
       ]
     },
+    "occurrence": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
     "parent_article": {
       "type": [
         "string",
@@ -130,6 +139,7 @@
     "heading",
     "kind",
     "number",
+    "occurrence",
     "parent_article",
     "parent_part",
     "path",

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D8160DD444A"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo ir papildymo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo\" pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-06-26"
 latest_path: "latest/TAR.4D8160DD444A.md"
 latest_sha256: "78dce5dd084e1a133978841a7ee0b29e6ce6da161f16310f986b3868e75bb4dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D8160DD444A]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D8160DD444A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D8160DD444A
+- Ryšiai: [[Ryšiai/TAR.4D8160DD444A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,37 +34,37 @@ Vilnius
 
 
 
-### 1 straipsnis. Pajamų padidinimas
+### 1 straipsnis. Pajamų padidinimas ^s-03b635823e687204f17099a2
 
 
 Įskaityti į valstybės biudžeto pajamas 1995 metų valstybės biudžeto nepanaudotų lėšų likutį – 17 429 tūkst. litų.
 
 
 
-### 2 straipsnis. Asignavimų padidinimas
+### 2 straipsnis. Asignavimų padidinimas ^s-a249a8e1f155b6c2d8a08931
 
 
 Skirti Finansų ministerijai 64 234 tūkst. litų valstybės investicijoms į reorganizuojamą AB „Aurabankas“.
 
 
 
-### 3 straipsnis. Biudžeto deficito padidinimas
+### 3 straipsnis. Biudžeto deficito padidinimas ^s-15e738cacb42e4ac80b8b2da
 
 
 Padidinti 1996 m. valstybės biudžeto deficitą 46 805 tūkst. litų ir suteikti Lietuvos Respublikos Vyriausybei teisę papildomai išleisti valstybės vertybinių popierių.
 
 
 
-### 4 straipsnis. Įstatymo 1 ir 5 straipsnių, taip pat 1 ir 3 priedėlių pakeitimas
+### 4 straipsnis. Įstatymo 1 ir 5 straipsnių, taip pat 1 ir 3 priedėlių pakeitimas ^s-ca15ed6426b0aebd097637d3
 
 
-1. Pakeisti [[#1 straipsnis. Pajamų padidinimas|1 straipsnio]] pirmąją dalį ir ją išdėstyti taip: ^0a9000d144566f628f9f16a9
+1. Pakeisti [[#^s-03b635823e687204f17099a2|1 straipsnio]] pirmąją dalį ir ją išdėstyti taip: ^s-045245dbbdff7a6b2fbf71fa
 
 
-„[[#1 straipsnis. Pajamų padidinimas|1 straipsnis]]. Patvirtinti Lietuvos Respublikos 1996 metų valstybės biudžetą – 4 860 444 tūkst. litų pajamų, 5 562 289 tūkst. litų išlaidų, iš to skaičiaus – pagal socialines ekonomines programas (išlaidos viršija pajamas 701 845 tūkst. litų) ir 100 000 tūkst. litų kasos apyvartos lėšų (1, 2 ir 3 priedėliai).“
+„[[#^s-03b635823e687204f17099a2|1 straipsnis]]. Patvirtinti Lietuvos Respublikos 1996 metų valstybės biudžetą – 4 860 444 tūkst. litų pajamų, 5 562 289 tūkst. litų išlaidų, iš to skaičiaus – pagal socialines ekonomines programas (išlaidos viršija pajamas 701 845 tūkst. litų) ir 100 000 tūkst. litų kasos apyvartos lėšų (1, 2 ir 3 priedėliai).“
 
 
-2. Pakeisti 5 straipsnio antrąją pastraipą ir visą straipsnį išdėstyti taip: ^2d76b0f5a91d615bba21055a
+2. Pakeisti 5 straipsnio antrąją pastraipą ir visą straipsnį išdėstyti taip: ^s-a9084ca249f1d165c2df6a79
 
 
 „5 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę:
@@ -80,10 +85,10 @@ indeksuoti darbo užmokestį ir su tuo susijusias išmokas biudžetinių įstaig
 Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms. Teikti Seimui pasiūlymus dėl 16600 tūkst. litų, numatytų Vyriausybės rezervo fonde gamtos apsaugos objektams finansuoti, paskirstymo savivaldybėms.“
 
 
-3. Pakeisti 1 priedėlį: ^056a2df49e8a6f03ea4aeb17
+3. Pakeisti 1 priedėlį: ^s-89e6d13dccf4aed3dbddaeec
 
 
-1) pajamų dalies eilutėje „Kitos“ vietoj skaičiaus „40801“ įrašyti skaičių „58230“, eilutėje „Iš viso“ vietoj skaičiaus „4843015“ įrašyti skaičių „4860444“ ir skyrių „Nemokestinės pajamos“ išdėstyti taip: ^531712653717a558d092947e
+1) pajamų dalies eilutėje „Kitos“ vietoj skaičiaus „40801“ įrašyti skaičių „58230“, eilutėje „Iš viso“ vietoj skaičiaus „4843015“ įrašyti skaičių „4860444“ ir skyrių „Nemokestinės pajamos“ išdėstyti taip: ^s-44137e5f33350d255952ac3f
 
 
 „NEMOKESTINĖS PAJAMOS
@@ -121,7 +126,7 @@ Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms. Teikti
  4860444“
 
 
-2) išlaidų dalyje skirsnyje „VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ po eilutės „Vyriausybės rezervo fondas“ įrašyti eilutę ^6d9e6ed382587882cb7eba06
+2) išlaidų dalyje skirsnyje „VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ po eilutės „Vyriausybės rezervo fondas“ įrašyti eilutę ^s-9a406d8bdb99360eb6882860
 
 
  „Valstybės investicijos į reorganizuojamą  AB „Aurabankas“ (Finansų ministerija)
@@ -170,7 +175,7 @@ eilutėse „Iš viso“ vietoj skaičiaus „4947438“ įrašyti skaičių „
 
 
 
-4. Pakeisti 3 priedėlį – eilutėje „Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija“ vietoj skaičiaus „546189“ įrašyti skaičių „535189“, vietoj skaičiaus „231901“ įrašyti skaičių „242901“, eilutėje „Išlaidos, nepriskirtos pagrindinių funkcijų grupėms“ vietoj skaičiaus „992721“ įrašyti skaičių „1056955“, vietoj skaičiaus „975984“ įrašyti skaičių „1040218“, eilutėje „Iš viso“ vietoj skaičiaus „5498055“ įrašyti skaičių „5562289“, vietoj skaičiaus „4728376“ įrašyti skaičių „4781610“, vietoj skaičiaus „769679“ įrašyti skaičių „780679“ ir visą priedėlį išdėstyti taip: ^847c7eb150f5620a0d79a8bc
+4. Pakeisti 3 priedėlį – eilutėje „Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija“ vietoj skaičiaus „546189“ įrašyti skaičių „535189“, vietoj skaičiaus „231901“ įrašyti skaičių „242901“, eilutėje „Išlaidos, nepriskirtos pagrindinių funkcijų grupėms“ vietoj skaičiaus „992721“ įrašyti skaičių „1056955“, vietoj skaičiaus „975984“ įrašyti skaičių „1040218“, eilutėje „Iš viso“ vietoj skaičiaus „5498055“ įrašyti skaičių „5562289“, vietoj skaičiaus „4728376“ įrašyti skaičių „4781610“, vietoj skaičiaus „769679“ įrašyti skaičių „780679“ ir visą priedėlį išdėstyti taip: ^s-0c840fd77b4ca45845632fde
 „LIETUVOS RESPUBLIKOS 1996 METŲ VALSTYBĖS BIUDŽETAS
 tūkst. Lt
 

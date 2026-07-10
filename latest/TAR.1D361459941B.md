@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1D361459941B"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-01-01"
 latest_path: "latest/TAR.1D361459941B.md"
 latest_sha256: "0638d2173be384f18a9d9e6bb1ec79d22763a943f774077104a36dbdee3854c3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1D361459941B]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1D361459941B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1D361459941B
+- Ryšiai: [[Ryšiai/TAR.1D361459941B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-f864a85f8f44709bef3402b8
 
 
-3 straipsnio 1 dalies 1 punkte vietoj žodžio „Gilučių“ įrašyti žodį „Gilučiai“, išbraukti žodžius ir skaičius „kadastro vietovės blokų Nr. 2, 4 dalis, blokai Nr. 3, 5, 6“, išbraukti žodį ir skaičių „Liutonys Nr. 4930“, vietoj skaičiaus „53,5“ rašyti skaičių „50,8“, vietoj skaičiaus „32,0“ – skaičių „31,5“, [[#^6c80c03c27e490712bec69fc|2 punkte]] vietoj žodžių ir skaičių „Liutonių Nr. 4930 kadastro vietovių, Gilučių Nr. 4910 kadastro vietovės blokų Nr. 6, 3 išorines ribas, Gilučių Nr. 4910 kadastro vietovės bloko Nr. 2 Strošiūnų šilo 46 kvartalo pietų ribą, krašto kelio Nr. 143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, bloko Nr. 4 projektinę krašto kelio Nr. 143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, blokų Nr. 4, 5“ įrašyti žodžius ir skaičius „Naujųjų Kietaviškių Nr. 4936, Gilučių Nr. 4910“, vietoj žodžio „vietovės“ įrašyti žodį „vietovių“ ir šią dalį išdėstyti taip:
+3 straipsnio 1 dalies 1 punkte vietoj žodžio „Gilučių“ įrašyti žodį „Gilučiai“, išbraukti žodžius ir skaičius „kadastro vietovės blokų Nr. 2, 4 dalis, blokai Nr. 3, 5, 6“, išbraukti žodį ir skaičių „Liutonys Nr. 4930“, vietoj skaičiaus „53,5“ rašyti skaičių „50,8“, vietoj skaičiaus „32,0“ – skaičių „31,5“, [[#^s-6c809899eb2e290deb8da2ba|2 punkte]] vietoj žodžių ir skaičių „Liutonių Nr. 4930 kadastro vietovių, Gilučių Nr. 4910 kadastro vietovės blokų Nr. 6, 3 išorines ribas, Gilučių Nr. 4910 kadastro vietovės bloko Nr. 2 Strošiūnų šilo 46 kvartalo pietų ribą, krašto kelio Nr. 143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, bloko Nr. 4 projektinę krašto kelio Nr. 143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, blokų Nr. 4, 5“ įrašyti žodžius ir skaičius „Naujųjų Kietaviškių Nr. 4936, Gilučių Nr. 4910“, vietoj žodžio „vietovės“ įrašyti žodį „vietovių“ ir šią dalį išdėstyti taip:
 
 
 „1. Elektrėnų savivaldybės teritorija ir ribos:
 
 
-1) savivaldybę sudaro šios kadastro vietovės: Trakų rajono – Ausieniškės Nr. 7910, Balceriškės Nr. 7914, Beižionys Nr. 7917, Elektrėnai Nr. 7930, Kazokiškės Nr. 7942, Pastrėvys Nr. 7957, Semeliškės Nr. 7967 ir Vievis Nr. 7980; Kaišiadorių rajono – Gilučiai Nr. 4910, Jagelonys Nr. 4915 ir Naujosios Kietaviškės Nr. 4936. Bendras savivaldybės teritorijos plotas – 50, 8 tūkst. ha, 31, 5 tūkst. gyventojų; ^661433702da60a180dd17f3d
+1) savivaldybę sudaro šios kadastro vietovės: Trakų rajono – Ausieniškės Nr. 7910, Balceriškės Nr. 7914, Beižionys Nr. 7917, Elektrėnai Nr. 7930, Kazokiškės Nr. 7942, Pastrėvys Nr. 7957, Semeliškės Nr. 7967 ir Vievis Nr. 7980; Kaišiadorių rajono – Gilučiai Nr. 4910, Jagelonys Nr. 4915 ir Naujosios Kietaviškės Nr. 4936. Bendras savivaldybės teritorijos plotas – 50, 8 tūkst. ha, 31, 5 tūkst. gyventojų; ^s-cf32c6448743a6d3a8424c43
 
 
-2) savivaldybės ribos nustatomos pagal Kazokiškių Nr. 7942, Balceriškių Nr. 7914, Pastrėvio Nr. 7957, Semeliškių Nr. 7967, Beižionių Nr. 7917, Jagelonių Nr. 4915, Naujųjų Kietaviškių Nr. 4936, Gilučių Nr. 4910 ir Ausieniškių Nr. 7910 kadastro vietovių išorines ribas.“ ^6c80c03c27e490712bec69fc
+2) savivaldybės ribos nustatomos pagal Kazokiškių Nr. 7942, Balceriškių Nr. 7914, Pastrėvio Nr. 7957, Semeliškių Nr. 7967, Beižionių Nr. 7917, Jagelonių Nr. 4915, Naujųjų Kietaviškių Nr. 4936, Gilučių Nr. 4910 ir Ausieniškių Nr. 7910 kadastro vietovių išorines ribas.“ ^s-6c809899eb2e290deb8da2ba
 
 
 
-### 2 straipsnis. 4 straipsnio 6 dalies 1 punkto pakeitimas
+### 2 straipsnis. 4 straipsnio 6 dalies 1 punkto pakeitimas ^s-4760931f66b58f19b690c31c
 
 
 4 straipsnio 6 dalies 1 punkte išbraukti žodžius ir skaičius „Gilučių Nr. 4910 kadastro vietovės blokas Nr. 1, blokų Nr. 2, 4 dalis“, po žodžio ir skaičiaus „Kruonis Nr. 4928“ įrašyti žodį ir skaičių „Liutonys Nr. 4930“ ir šį punktą išdėstyti taip:
@@ -57,7 +62,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-aef2cf87facd4ee759329dbe
 
 
 Įstatymas įsigalioja 2002 m. sausio 1 d.

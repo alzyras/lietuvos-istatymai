@@ -1,0 +1,424 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.C6C5599DD9A1"
+pavadinimas: "Lietuvos Respublikos mokėjimų įstatymas"
+---
+# Lietuvos Respublikos mokėjimų įstatymas: ryšiai
+
+- [[latest/TAR.C6C5599DD9A1|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 2 citatos - Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme
+- [[latest/TAR.40DFB5151B33|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - 4 citatos - Elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme
+- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Lietuvos Respublikos elektroninių ryšių įstatyme
+- [[latest/TAR.1B4D7B687895|Lietuvos Respublikos Lietuvos banko įstatymas]] - 11 citatos - Lietuvos banko įstatymas
+- [[latest/TAR.1B4D7B687895#^s-98b3b2f78e311f3719fb704c|Lietuvos Respublikos Lietuvos banko įstatymas]] - Lietuvos banko įstatymo 43 straipsnio
+- [[latest/TAR.1B4D7B687895#^s-b7a5a5ee37c7372ac6986283|Lietuvos Respublikos Lietuvos banko įstatymas]] - 2 citatos - Lietuvos banko įstatymo 421 straipsnyje
+- [[latest/TAR.1B4D7B687895#^s-c87e731d7a7d70c84f669b85|Lietuvos Respublikos Lietuvos banko įstatymas]] - 2 citatos - Lietuvos banko įstatymo 433 straipsnyje
+- [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 6 citatos - Mobilizacijos ir priimančiosios šalies paramos įstatymo
+- [[latest/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimo įstaigų įstatyme
+- [[latest/TAR.4A05AB3730DD#^s-289b01df037f57700bdad50d|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnyje
+- [[latest/TAR.B6B7EE54785F|Lietuvos Respublikos mokėjimų įstatymo 1, 3, 6 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas]] - 6 citatos - 1111010ISTA0XI-1340
+- [[latest/TAR.B9CDAF015B39|Lietuvos Respublikos mokėjimų įstatymo 2, 3, 6, 7 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1111010ISTA0XI-1876
+- [[latest/TAR.908E9B9C8B9E|Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas]] - 6 citatos - 1071010ISTA00X-1351
+- [[latest/TAR.43F9458AFB15|Lietuvos Respublikos mokėjimų įstatymo 3 ir 49 straipsnių pakeitimo, Įstatymo papildymo 51 straipsniu ir priedo papildymo įstatymas]] - 6 citatos - 1131010ISTA0XII-303
+- [[latest/TAR.B38349767B81|Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas]] - 6 citatos - 1041010ISTA0IX-2404
+- [[latest/TAR.C6BA8ABAC453|Lietuvos Respublikos mokėjimų įstatymo 9 straipsnio, VI ir VII skyrių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1111010ISTA0XI-1685
+- [[latest/1215c42255c511f0b070ee7f1ceefc75|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2 straipsnio pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XV-325
+- [[latest/20b5f4202ed211efbdaea558de59136c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 15, 64, 71, 72, 73, 75 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2710
+- [[latest/6e01b4a255c111f0b070ee7f1ceefc75|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 3, 56, 57, 76, 80 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-302
+- [[latest/c39619124cde11f0b070ee7f1ceefc75|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-270
+- [[latest/a840ced0eb1a11ed9978886e85107ab2|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3, 76 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1895
+- [[latest/c8ef9b404a2c11e483c6e89f9dba57fd|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 4, 30, 36 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1108
+- [[latest/bfb76ff06f1011e8b83be60b2e217f90|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 63, 64, 65, 66, 67 straipsnių pakeitimo, Įstatymo papildymo 62-1 straipsniu ir 68, 69, 70 straipsnių pripažinimo netekusiais galios įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1243
+- [[latest/39006ef042f011f180c9c618618421ed|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 76, 80 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-858
+- [[latest/bece4970a67a11e69ad4c8713b612d0f|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2699
+- [[latest/bc8fc2d2a67411ef90b5ee8931e5ce5e|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3094
+- [[latest/987474520fc811f08e9f87c0d053bf09|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymo Nr. XIV-3094 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-137
+- [[latest/66a2ee0048f511e6b5d09300a16a686c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2561
+- [[latest/3e7a9e6049e211e8ade598b2394a491d|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1092
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1301
+- [[latest/ee9f2ef0fa5311e99681cd81dcdca52c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2488
+- [[latest/f5a68cf049a111efbdaea558de59136c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 priedo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2891
+- [[latest/TAR.68EBBD2CAC0C|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 4 citatos - 1031010ISTA0IX-1596
+- [[latest/TAR.6A58820A3491|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 4 citatos - 1091010ISTA00XI-550
+- [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 9 citatos - Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme
+- [[latest/TAR.640D50DB8877#^s-d303a28643a2e30b51818f99|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas]] - 2 citatos - Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3 straipsnio
+- [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatymas]] - 6 citatos - Vartojimo kredito įstatymo
+- [[latest/TAR.D790096B17EE#^s-3ed05bae2f11d264aa0a7ec4|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 37 straipsnio 1 dalyje
+- [[latest/TAR.E5C9671DCD73|Lietuvos Respublikos čekių įstatymas]] - 4 citatos - Lietuvos Respublikos čekių įstatymas
+- [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas]] - 2 citatos - Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme
+- [[latest/TAR.2C94E75C224B#^s-c27cb1de999f4f6cf3f4ee7c|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas]] - 2 citatos - Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje
+- [[latest/TAR.C71CC1B1BFCE|Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas]] - 4 citatos - Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.5F9F5C944DB1#^s-29d0f51e06ec0dc342498ba3|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.5F9F5C944DB1#^s-2a4cafa735be400c4145f47b|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.5F9F5C944DB1#^s-817d5e60874f396d7127e0bc|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.5F9F5C944DB1#^s-9d451e08c70aaf8b21d72e1d|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 6 straipsnyje
+- [[latest/TAR.5F9F5C944DB1#^s-ad2f16399a6e8124a9332d78|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.9E21208C214B#^s-86286f4df959b0c3458fd19b|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 2, 4, 5, 6, 7 ir 8 straipsnių pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.9E21208C214B#^s-a3c4858deec9b075e87957f3|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 2, 4, 5, 6, 7 ir 8 straipsnių pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatymo
+- [[latest/3c5ab150db0811eb9f09e7df20500045#^s-1d4a85514c76eaeabd9fcf54|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 6 straipsnyje
+- [[latest/3c5ab150db0811eb9f09e7df20500045#^s-8fe2b0f065fcc8e7dcf5ea94|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 6 straipsnyje
+- [[latest/15e5c8904aee11e4a8328599cac64d82#^s-0443924961cce991b055351a|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/15e5c8904aee11e4a8328599cac64d82#^s-42dd4b1a390d3926af23e1fb|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/15e5c8904aee11e4a8328599cac64d82#^s-5bb449de3b0383226a04c641|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/15e5c8904aee11e4a8328599cac64d82#^s-ac572fda59f3521c939c24bc|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.201E1709BED5#^s-14ae4409f9edb5bd0fe8520f|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 6 straipsnyje
+- [[latest/TAR.201E1709BED5#^s-273202fcf806b75ac58a91a9|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.A0823B2019D7#^s-4b19c7399ba70093d307963a|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.A0823B2019D7#^s-4bf8c3df1d91b086d768e171|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.201E1709BED5#^s-7d1e2bde38db03c2f29d0580|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.201E1709BED5#^s-9dda48e682ae1f8d251dbdfe|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 6 straipsnyje
+- [[latest/d7206ef0fdf311ec8fa7d02a65c371ad#^s-f3ede7a6da1bc67f20023623|Lietuvos Respublikos atsiskaitymų grynaisiais pinigais ribojimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/9926c840f1be11ee9f5b8ffa077f9188#^s-c5b3e14cdd9b5ddaab190b07|Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.E5509883EBB4#^s-3930cf19e6bac7c4efbb3484|Lietuvos Respublikos azartinių lošimų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.E5509883EBB4#^s-cb58a513dca1b65a7df4c780|Lietuvos Respublikos azartinių lošimų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/26526d32d88911efa5ddd96c482819f5#^s-45a0307ffeacb53456cd057a|Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 20-7 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.B6B636C7384A#^s-1aacc96a27e25e54955d085e|Lietuvos Respublikos bankų įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.B6B636C7384A#^s-42f85d8c4dfa1458db92a148|Lietuvos Respublikos bankų įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.498789873681#^s-731d397ce13215c30249c8de|Lietuvos Respublikos bankų įstatymo 1, 2, 4, 14, 40, 48, 49, 85 straipsnių ir priedo pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.498789873681#^s-b7de1e53d5f82089470f8a5d|Lietuvos Respublikos bankų įstatymo 1, 2, 4, 14, 40, 48, 49, 85 straipsnių ir priedo pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.23A016D4C3C6#^s-430744bde964f5cd89f39432|Lietuvos Respublikos bankų įstatymo 2 ir 4 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 5 punkte
+- [[latest/TAR.23A016D4C3C6#^s-b783bc1bc985bf3926b57ef9|Lietuvos Respublikos bankų įstatymo 2 ir 4 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 5 punkte
+- [[latest/TAR.0AB15583E205#^s-0e03607b6033d408ddda9018|Lietuvos Respublikos bankų įstatymo 2, 9, 59, 64, 65, 70-1, 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 5 punkte
+- [[latest/TAR.0AB15583E205#^s-3e9949e41c151340b3e0cb06|Lietuvos Respublikos bankų įstatymo 2, 9, 59, 64, 65, 70-1, 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 5 punkte
+- [[latest/TAR.29EEB33AFCD0#^s-2de4f44cfdeca6e5107ee0d6|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.29EEB33AFCD0#^s-6c0c5f3345ca69d8fd45b8ce|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/8064e77048f611e6b5d09300a16a686c#^s-2706eeff4f701e6b6036c285|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/8064e77048f611e6b5d09300a16a686c#^s-281f458a490fb4d13e16de68|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.8447F63760E9#^s-66e266a7e1f6afdcecc034fc|Lietuvos Respublikos draudimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.8447F63760E9#^s-eebb09b92be049df5cef4d32|Lietuvos Respublikos draudimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/ddce02804e0c11e8ade598b2394a491d#^s-2e88250e722f7e2868e40c72|Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/ddce02804e0c11e8ade598b2394a491d#^s-70ebd6fd04d4b73a2f5e1ffc|Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.40DFB5151B33#^s-0f37634e7bbcc47cbf9bda3c|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.40DFB5151B33#^s-28c83d1d09750f46f3b54a18|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.40DFB5151B33#^s-29e067f17cf69e8700a6377b|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.40DFB5151B33#^s-2a6e29d1a18a38185f779933|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.40DFB5151B33#^s-2b3ad721633be689200477e5|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.40DFB5151B33#^s-464d564e087c2973e4aac383|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.40DFB5151B33#^s-4b268cbe299626c2827d29c9|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.40DFB5151B33#^s-5e6a2b9559a1351da21f66c6|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 9 straipsnyje
+- [[latest/TAR.40DFB5151B33#^s-624e1f962d738c7da7f4fed7|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.40DFB5151B33#^s-6408723ef451c9b48675c4e7|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.40DFB5151B33#^s-6a1ff87a2ee81132aaa62be5|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-6bc489bd413d6d301c117400|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-870af1aca329850794c7a3a2|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.40DFB5151B33#^s-89be6ce45d39fabe5a26ff5a|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-92906cd27b888f147ec1c4a0|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - 2 citatos - Mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte
+- [[latest/TAR.40DFB5151B33#^s-ab16f3770811d35b748ea618|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-ac07f34df757266ab391b9ee|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-c7b64442a28bf35d65c42668|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-d19438b0198f1b9e6f6c64f1|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-e24d05b06f373ad34c2cdf00|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymu
+- [[latest/TAR.40DFB5151B33#^s-ee6b196fd569992781503c55|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymu
+- [[latest/TAR.40DFB5151B33#^s-f0c3c2d534c42689fd9c104c|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 57 straipsnyje
+- [[latest/TAR.40DFB5151B33#^s-f6d76a9143926e710794629a|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.40DFB5151B33#^s-fa2aca9942c67275f652991c|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/1c82408055c211f0b070ee7f1ceefc75#^s-10b19d8eae7fe5b3130bf5df|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 2, 13, 26, 28, 40 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/f33939a048f511e6b5d09300a16a686c#^s-5090e9c68385012646635a0a|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 8 straipsnio pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-07fc704e81543c03f3392ed8|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 57 straipsnyje
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-243e3b3807f07a60418cce44|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-358d80b90db9a42aa82360cd|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-3779bf00b35b889ba5317770|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymu
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-3c30417ab07eb6ec75197e08|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-54d0ca64cc94599c20af8fde|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-561f6996279d802948045839|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-5b62b707c89213df8c50625c|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-5e5324ed979b03ff084825d6|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-650ad0d77ebe2f287348f919|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 2 straipsnio 22 dalyje
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-6ed2ff1245c1b94f8d9a14f8|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-6fef0b3b832a3772ab6d0671|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo, galiojusio iki šio įstatymo įsigaliojimo, 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-74b323833993f40f0fdac472|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-7adb7ad88421deff0cdb91bb|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 2 straipsnio 53 dalyje
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-7b878e6a58c7f14be71e7279|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-8390102871b69f637fce8fe2|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 9 straipsnyje
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-8b09cc071be85f4045e9fd1e|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-93f6e67b77feb9dcfdba989f|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-9d94b5f91f16195a893bafbe|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-aabdefb4f085c8ab958ad0b5|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymu
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-b6fabbafd586bd4a313b636c|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-b7755b9118b4b2afc7213aec|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-c5d2b63e68b5f785bc19055b|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-cab3f9b2f24fb604e7c91d64|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio 3 punkte
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-db59617543ebfbf5250e44e9|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-edf2ecf80025dc4070b7363a|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-f2209b138402129f4175337e|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 9 citatos - Lietuvos Respublikos mokėjimų įstatymo, galiojusio iki šio įstatymo įsigaliojimo, 5 straipsnio
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-fab88f97bb2c962cac51e365|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/d211d26049e211e8ade598b2394a491d#^s-fcb97ab0deef8678ae8de81b|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/88ad61b052c111e884cbc4327e55f3ca#^s-0387deca706ab272ea8f237b|Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/88ad61b052c111e884cbc4327e55f3ca#^s-cb9c2c2a10defb161a377edc|Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/e45846b0f96f11ed9978886e85107ab2#^s-096e406566b60782b6eb3f19|Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo Nr. XIII-1120 1, 2, 3, 12, 13, 16, 17, 18 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 4-1, 4-2 straipsniais, V-1, V-2 skyriais įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/e45846b0f96f11ed9978886e85107ab2#^s-6f012c67f5e3312e4b574afc|Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo Nr. XIII-1120 1, 2, 3, 12, 13, 16, 17, 18 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 4-1, 4-2 straipsniais, V-1, V-2 skyriais įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.44235B485568#^s-163cb5ae7046fe15682c3eb2|Lietuvos Respublikos energetikos įstatymas]] - Lietuvos Respublikos mokėjimų įstatymas
+- [[latest/TAR.44235B485568#^s-1b83a85638b8b5f3afaa0657|Lietuvos Respublikos energetikos įstatymas]] - Lietuvos Respublikos mokėjimų įstatymas
+- [[latest/TAR.44235B485568#^s-1fdb2168de7171c85107cf5e|Lietuvos Respublikos energetikos įstatymas]] - Mokėjimų įstatymas
+- [[latest/TAR.44235B485568#^s-5fea159fb4c8e31e7e629a67|Lietuvos Respublikos energetikos įstatymas]] - Mokėjimų įstatymas
+- [[latest/5b2e0b02dfee11f08918e1adc7c5b1ec#^s-094f21c8954db3b41b7c9d06|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir 28 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymas
+- [[latest/5b2e0b02dfee11f08918e1adc7c5b1ec#^s-3843ce5aefba0dafd101fd8c|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymas
+- [[latest/5b2e0b02dfee11f08918e1adc7c5b1ec#^s-4e6d873546bdcfc426260699|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir 28 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymas
+- [[latest/5b2e0b02dfee11f08918e1adc7c5b1ec#^s-762951e0cd65a87ea4d2d79d|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymas
+- [[latest/TAR.9845F775C518#^s-7b9bc5ca9b73deb08867dd3f|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.9845F775C518#^s-e0ecfe1e7951a5b7c5c96200|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/e3c4203036d511efbdaea558de59136c#^s-0b209e6feba6cabb3544fefc|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/e3c4203036d511efbdaea558de59136c#^s-cf69db4d95fc3933675afd75|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/8869165081dc11ed8df094f359a60216#^s-196f6d95e9591a109078884a|Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas]] - Mokėjimų įstatyme
+- [[latest/8869165081dc11ed8df094f359a60216#^s-1e25dbff3899899e6c984642|Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 2 straipsnio 58 dalyje
+- [[latest/8869165081dc11ed8df094f359a60216#^s-4b6e169216221ae191ce4cec|Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas]] - Mokėjimų įstatymo 2 straipsnio 32 dalyje
+- [[latest/8869165081dc11ed8df094f359a60216#^s-cb4fc8bcb5930e65ab2aa396|Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas]] - 3 citatos - Lietuvos Respublikos mokėjimų įstatymo 2 straipsnio 58 dalyje
+- [[latest/25be17201ed811f1a552c76556910e9c#^s-09f7d29e2a3512dcac0584bf|Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymo Nr. XIV-1633 1, 2, 3, 6, 7, 14, 16, 17, 18, 19, 20, 26, 29 straipsnių ir 1 priedo pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/25be17201ed811f1a552c76556910e9c#^s-fb2ec3c5381ba9acc3631ab8|Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymo Nr. XIV-1633 1, 2, 3, 6, 7, 14, 16, 17, 18, 19, 20, 26, 29 straipsnių ir 1 priedo pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.3BAADED2C30B#^s-9e534127cd63e2f76e4e7971|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.3BAADED2C30B#^s-e7cc4c554e278452a9454626|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/1523831098f011e58fd1fc0b9bba68a7#^s-442e4c54af6270b2501ac444|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/1523831098f011e58fd1fc0b9bba68a7#^s-e0241c3639574b1a78f0ac28|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/12ec1e0049e311eb8d9fe110e148c770#^s-84894bd8d9d8c2d50f4d9343|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 23, 26, 28, 32, 33, 35, 40, 41, 42, 46 straipsnių, šeštojo skirsnio pavadinimo ir 2 priedo pakeitimo ir 5, 47 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/12ec1e0049e311eb8d9fe110e148c770#^s-d732a6414b519026d4791cdd|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 23, 26, 28, 32, 33, 35, 40, 41, 42, 46 straipsnių, šeštojo skirsnio pavadinimo ir 2 priedo pakeitimo ir 5, 47 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.15C705E93776#^s-117e7f62ab358a43db426915|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 2 straipsnyje
+- [[latest/TAR.15C705E93776#^s-e0eae785eed2219fb37da6c7|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 2 straipsnyje
+- [[latest/7c10862000e211ed8fa7d02a65c371ad#^s-7c5406c18a2539e5ee8bd2f3|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 2 straipsnyje
+- [[latest/7c10862000e211ed8fa7d02a65c371ad#^s-fcf4191f123db7740179d875|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 2 straipsnyje
+- [[latest/TAR.DE0B1FF26D01#^s-6f30b52804c8789e8480cf8b|Lietuvos Respublikos kredito unijų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.DE0B1FF26D01#^s-be36578cc69459a99bbcbacd|Lietuvos Respublikos kredito unijų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.22FC55646475#^s-3905a71a64a342c297d8db11|Lietuvos Respublikos kredito unijų įstatymo 4 ir 9 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.22FC55646475#^s-6018450872d1901e4c2f2250|Lietuvos Respublikos kredito unijų įstatymo 4 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.22FC55646475#^s-656ad7bd2c8c6ef83888cabf|Lietuvos Respublikos kredito unijų įstatymo 4 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.22FC55646475#^s-aee9949ef837d83dcd868d8c|Lietuvos Respublikos kredito unijų įstatymo 4 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.22FC55646475#^s-d57eb006f2996e6c5645a1ca|Lietuvos Respublikos kredito unijų įstatymo 4 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio
+- [[latest/caf5cd4048f611e6b5d09300a16a686c#^s-48c0beac41c045635e594009|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/caf5cd4048f611e6b5d09300a16a686c#^s-82e5a66b4caadc3f76bfcc85|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.1B4D7B687895#^s-37cb8638d8fe2190c56686fe|Lietuvos Respublikos Lietuvos banko įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.1B4D7B687895#^s-4b1192b6a463e02a5fa9b52d|Lietuvos Respublikos Lietuvos banko įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.1B4D7B687895#^s-6542a7e85a27917468953440|Lietuvos Respublikos Lietuvos banko įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.1B4D7B687895#^s-e117b1ca01abf5aa8ff89283|Lietuvos Respublikos Lietuvos banko įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.571BC1525657#^s-6fbfbe8be7756518481657bd|Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.571BC1525657#^s-a35309fe2ce80782a5131346|Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/0fd5ca406f0c11e8b83be60b2e217f90#^s-0919f9b3d9462490c6b46e98|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 2, 6, 8, 11, 21-1, 42, 43, 47 straipsnių, 1 ir 3 priedų pakeitimo ir Įstatymo papildymo 17-1, 42-1, 43-1, 43-2, 43-3, 43-4, 43-5, 43-6, 43-7 straipsniais ir septintuoju-3 skirsniu įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/0fd5ca406f0c11e8b83be60b2e217f90#^s-370489a6d7405037939fec12|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 2, 6, 8, 11, 21-1, 42, 43, 47 straipsnių, 1 ir 3 priedų pakeitimo ir Įstatymo papildymo 17-1, 42-1, 43-1, 43-2, 43-3, 43-4, 43-5, 43-6, 43-7 straipsniais ir septintuoju-3 skirsniu įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/0fd5ca406f0c11e8b83be60b2e217f90#^s-b1f996380e636bae8907f6e7|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 2, 6, 8, 11, 21-1, 42, 43, 47 straipsnių, 1 ir 3 priedų pakeitimo ir Įstatymo papildymo 17-1, 42-1, 43-1, 43-2, 43-3, 43-4, 43-5, 43-6, 43-7 straipsniais ir septintuoju-3 skirsniu įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/0fd5ca406f0c11e8b83be60b2e217f90#^s-c7f1d7fb8b8864768a68f15a|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 2, 6, 8, 11, 21-1, 42, 43, 47 straipsnių, 1 ir 3 priedų pakeitimo ir Įstatymo papildymo 17-1, 42-1, 43-1, 43-2, 43-3, 43-4, 43-5, 43-6, 43-7 straipsniais ir septintuoju-3 skirsniu įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/714d27f089d611eab005936df725feed#^s-b0701aebebafc9c333992ddc|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 47 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/ca04a980105111ea9d279ea27696ab7b#^s-3ba30d96afe7d42cc595a230|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 3 priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/ca04a980105111ea9d279ea27696ab7b#^s-fb4fa476f83e64233e666444|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 3 priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/ce906f40499d11efbdaea558de59136c#^s-3939c3a662d6888d0a785068|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-7, 47 straipsnių ir 1, 3 priedų pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/ce906f40499d11efbdaea558de59136c#^s-efbb0180376de19a248b4c7c|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-7, 47 straipsnių ir 1, 3 priedų pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/ad88580048f511e6b5d09300a16a686c#^s-b10650a12cd1b27a9a35be36|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/1441b4e0640411eca9ac839120d251c4#^s-64ee5d02a78536170d06af8f|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 43-2 straipsnių ir 1, 2, 3 priedų pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/1441b4e0640411eca9ac839120d251c4#^s-69672cfc04a8e6da4ec37ca2|Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 43-2 straipsnių ir 1, 2, 3 priedų pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/4bb0838002da11efbcbfb318996800a8#^s-3fce1bd151c0bfe509438531|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 11, 16, 18, 28 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/c5adb5f0222d11eabe008ea93139d588#^s-1816029f12d2ac995411299e|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/c5adb5f0222d11eabe008ea93139d588#^s-c3447a7239d1dcb899b5ec6a|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.3EB34933E485#^s-1726332444688d6aade9d29c|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.3EB34933E485#^s-25d9291d0467ff6b11e32c01|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.3EB34933E485#^s-26285fef9da8fd964e299898|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.3EB34933E485#^s-46b99b8da84f4255d61fd1db|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - Mokėjimų įstatyme
+- [[latest/TAR.3EB34933E485#^s-5f92f52e114db662b3093100|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.3EB34933E485#^s-62d32158a6d99c2bd6a5e752|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.3EB34933E485#^s-c08a7ee45c1db29bb5a0442a|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.3EB34933E485#^s-d95bf5389e5f67837c74845d|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokėjimų įstatyme, išskyrus Mokėjimų įstatymo 3 straipsnio 5 dalyje
+- [[latest/TAR.F638076B3DBC#^s-46cce2b8ec578de648489200|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 55, 63, 64, 83, 102 straipsnių papildymo ir pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.F638076B3DBC#^s-fd5092b21da559b260613b68|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 55, 63, 64, 83, 102 straipsnių papildymo ir pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/47cc99e081dd11ed8df094f359a60216#^s-1026a1a47eb6bf1987d1890e|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymo Nr. XIV-761 pavadinimo, 3, 5 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Mokėjimų įstatyme, išskyrus Mokėjimų įstatymo 3 straipsnio 5 dalyje
+- [[latest/47cc99e081dd11ed8df094f359a60216#^s-4eaaf8d627c4b7766fa93b6f|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymo Nr. XIV-761 pavadinimo, 3, 5 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/47cc99e081dd11ed8df094f359a60216#^s-7881d90116a00602fe3dfb8b|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymo Nr. XIV-761 pavadinimo, 3, 5 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas]] - 4 citatos - Mokėjimų įstatyme
+- [[latest/47cc99e081dd11ed8df094f359a60216#^s-99bb2c6fae769469f43be456|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymo Nr. XIV-761 pavadinimo, 3, 5 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Mokėjimų įstatyme
+- [[latest/6f0be6f0632a11eca9ac839120d251c4#^s-6284f5d5f912334aa1ee99d1|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 81 straipsnių ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas]] - Mokėjimų įstatyme, išskyrus Mokėjimų įstatymo 3 straipsnio 5 dalyje
+- [[latest/6f0be6f0632a11eca9ac839120d251c4#^s-63ab8459bee65949539c5cf8|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 81 straipsnių ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas]] - 4 citatos - Mokėjimų įstatyme
+- [[latest/6f0be6f0632a11eca9ac839120d251c4#^s-9abc98a9a0d91b6cf17ceea9|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 81 straipsnių ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/6f0be6f0632a11eca9ac839120d251c4#^s-ff0db72a3be2ff54b3d295f7|Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 81 straipsnių ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.4A05AB3730DD#^s-04a43d62c90c64c2b4fa5db8|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-06d74bc46b7553cdf5d291a5|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymu
+- [[latest/TAR.4A05AB3730DD#^s-09e3bdea11221f7f085c64ea|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-11f565072df59de59d394ab4|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-1f76a11519f9e6e7db086267|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.4A05AB3730DD#^s-24851084da3fae15e8913a4b|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 57 straipsnyje
+- [[latest/TAR.4A05AB3730DD#^s-289b01df037f57700bdad50d|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 4 citatos - Mokėjimų įstatymo 8 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-304a8b12239af9e5098c4531|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio 7 punkte
+- [[latest/TAR.4A05AB3730DD#^s-30f69e343b36a1f946bc9cbf|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-37fb4d0f097af380e081d3bb|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 9 straipsnyje
+- [[latest/TAR.4A05AB3730DD#^s-3a1441d5ed1e4315a1d7ebb4|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-3ac2e18e2d2a97907a29fb17|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 38, 51, 52 ir 53 straipsniuose
+- [[latest/TAR.4A05AB3730DD#^s-412b640969d50c0cfc4cd676|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-424eefa88c025e6c8bab3a31|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-5041b43645d7aa0941916ad5|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymu
+- [[latest/TAR.4A05AB3730DD#^s-51d7f190a39a42a3bc8b58e4|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.4A05AB3730DD#^s-70978213a1a1dc365ce57f4a|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 8 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-82f219a7df743e4f9876c656|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio 6 punkte
+- [[latest/TAR.4A05AB3730DD#^s-83915560da36f60a28d7d42f|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-9744c73afe36f2eb141cfe97|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-9afa4bb64c068b22b8227fac|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-a457fc43a98c4ec4fcd3e955|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-a9dc111f95d1262390ccbf5b|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-b5bde37ded871e77920ac022|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 38, 51, 52 ir 53 straipsniuose
+- [[latest/TAR.4A05AB3730DD#^s-bd8422c5603d45e02fafb94b|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.4A05AB3730DD#^s-c4e1e75fbeed2365994323fe|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.4A05AB3730DD#^s-c5707b2d6038f681ef5b9dee|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-c8234524f1503bf345596c73|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-cde119e89eca19616c46f355|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-d2d240643eaf69c03f96f078|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-d31f7b9c87ec4d4a6fe3bdff|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-d461798613d900e6ca08f1f0|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-d5a1d35ac3cbd884a436e7b2|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-d8187169f47ee136beff567d|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/TAR.4A05AB3730DD#^s-d84aba9d66a9d91bbb5d2c2d|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-e86d934b48dc0c5eeb875adb|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 8 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-ef45ee358eb422f107cb7ed6|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-f20b740109f0df1371e305d3|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 57 straipsnyje
+- [[latest/TAR.4A05AB3730DD#^s-f537223504714ecdb73abfbf|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo
+- [[latest/TAR.4A05AB3730DD#^s-fc37b845f6f5a9966aafa014|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 2 citatos - Mokėjimų įstatymo 8 straipsnio
+- [[latest/TAR.4A05AB3730DD#^s-fddf89cf5ba720d2dd01a199|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/a63314e055c111f0b070ee7f1ceefc75#^s-80926a59e304cf0612d7b895|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 2, 5, 6, 19, 22, 34 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/4eacfb406f0011e484b9c12b550436a3#^s-2d6162d5c9f1479ddca7c0cb|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 7 punkte
+- [[latest/4eacfb406f0011e484b9c12b550436a3#^s-600c6d764a66e3c566fd3b0e|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/4eacfb406f0011e484b9c12b550436a3#^s-b77e7560ac10c15dcd5baa2d|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 6 punkte
+- [[latest/4eacfb406f0011e484b9c12b550436a3#^s-f64af5c393711ce987b6d77f|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-09e256142cea3ae9c63b8adc|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymu
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-0efa8fe3aded15ab23266e01|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-0fa0fafff328e5efa29219c1|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-1b39b476831a653017ee08e1|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-206e9c4b629366e1ce7ea8f5|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-21a3e50ff9494e2ac97dffff|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 8 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-2d96c73ad7e560eddb3776ed|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-302915d9ba029427e9b03f95|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-30910f9d9e16a76d4723c3e6|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-31f42457157e34531cc45075|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 57 straipsnyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-33ad7f2d5893391bbf0cd54c|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 7 punkte
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-3a22d14c3274f4b4489b7099|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-4b6190722ed5062c261a714b|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-4bbc38c92212e85d04491bec|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 2 straipsnio 53 dalyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-4cc7d28e0bc072fe4dac4769|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-50257b0b5504cd4ad5bd2d34|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 38, 51, 52 ir 53 straipsniuose
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-576f100ae884ec352fb175eb|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 38, 51, 52 ir 53 straipsniuose
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-588ac0062e5aca4c14dba806|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-58fb56d1b3c86990f922fa20|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymu
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-5b63c90364da8f2c26a47842|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 9 straipsnyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-5e8fc659a1d4947ca6525c0f|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-6d7b1acdb4cc805211060f7c|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-6fabfce4b9be3aa402435fae|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-7e61d013ff868de9409dbd1c|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-7ff222045d5057b9e92b974e|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 57 straipsnyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-84dc59e86e3b342a7c79d2d9|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-87ba2015071fbd4304884ca8|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-88887fb2d9eafaf9c0ee6b0f|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-9123d0669e060c42c46d4138|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 8 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-9434b26f2de1fda031dc4d0a|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 2 straipsnio 22 dalyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-94cff40cb7575fb85e0002ac|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-9995385d58541da140bd19ee|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-a0c36eaa51f0e2215edb3e48|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 4 citatos - Mokėjimų įstatymo 8 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-a57b91b75920c4228bcbeb57|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-a90b142e3c5e05e20d9d1ece|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-a932f3cc8c561ff2090da467|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-ab370f5bd1e686530ad47d6f|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-bf96d1b7bc9e0dfe23abdedc|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-c151f03608bb2615f4f3a9e7|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 5 straipsnio 6 punkte
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-c55d2c44ccf2057d406327ec|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 9 citatos - Lietuvos Respublikos mokėjimų įstatymo, galiojusio iki šio įstatymo įsigaliojimo, 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-c72ba9abcbffe977125444e5|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo 8 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-cbe8a4864c0d27aa66cc6bd1|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Mokėjimų įstatymo
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-d2420ee7e416cee8662cdf14|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 3 citatos - Mokėjimų įstatymo 5 straipsnio 3 punkte
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-d2cfd4db606835b4e202e515|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymo 5 straipsnyje
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-dde3dc9469a29faabf043eb8|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo, galiojusio iki šio įstatymo įsigaliojimo, 5 straipsnio
+- [[latest/8e34031049e211e8ade598b2394a491d#^s-e2823c22571ae3a479c5bee8|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.B6B7EE54785F#^s-5de76f021adc6204a0e66dc5|Lietuvos Respublikos mokėjimų įstatymo 1, 3, 6 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/a840ced0eb1a11ed9978886e85107ab2#^s-e7c40cfcbfcdd5a026f41ba5|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3, 76 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/bfb76ff06f1011e8b83be60b2e217f90#^s-d63db5fed8f1be6e81d5ce82|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 63, 64, 65, 66, 67 straipsnių pakeitimo, Įstatymo papildymo 62-1 straipsniu ir 68, 69, 70 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/bfb76ff06f1011e8b83be60b2e217f90#^s-ed83763573247cf8b662d9b6|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 63, 64, 65, 66, 67 straipsnių pakeitimo, Įstatymo papildymo 62-1 straipsniu ir 68, 69, 70 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/bc8fc2d2a67411ef90b5ee8931e5ce5e#^s-7d802ba5ec9f5dafd48c60a4|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-07f3928221cee626820ac3e9|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 47, 48, 49 ir 50 straipsniai
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-0d2fe29277c4fd3983fa5aaa|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 10, 51 ir 78 straipsniai
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-0e6b35e6d265c3aae69d81b5|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 30 straipsnio 2 dalies 4 punktas
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-17919b26f4b8ea1ed041c27c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-182019bf9ad4e48bec0ef805|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 61, 62, 63 ir 64 straipsniai
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-1a5a8b41db815f128e8dc1cd|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-1aa2e3a9ff835ba6767a60f1|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-46965e1b90e8ce7b8bc394d3|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-554ffa593bda3e47c7d3f079|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio 5 dalies 16 punkto
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-5d9d74e0c04c22b9538d0f24|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 65 straipsnio
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-623fd1a549aaabb0281d1c76|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 30 straipsnio 2 dalies 4 punktą
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-69b53f9d19b6ea5e76e2e964|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-75e8d6c0741ac2a1e81d0624|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-7e03cb857617d78e323b222c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-922007eeb0d562b3dcc691fe|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-b6613e647613e56b83f0eaca|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 15 straipsnio
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-c5989d1d2cae63d29be0dd5f|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-deff35667c48a8d65efa07aa|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MOKĖJIMŲ ĮSTATYMAS
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-e29167c1ee5fd158b213673c|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MOKĖJIMŲ ĮSTATYMAS
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-fc14b71017f15a8bf9f3ee4e|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - 10 citatos - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/3e7a9e6049e211e8ade598b2394a491d#^s-fe281229f3060c8466ddbc76|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 60 straipsnis
+- [[latest/66a2ee0048f511e6b5d09300a16a686c#^s-fe77bc65d8ab13d396de9c2d|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 46 straipsnis
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-12f2934d2adcfe6b9d52b4b2|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo papildymas 761 straipsniu
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-1ef00d992c71fcac77b30842|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 90 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-2e6680ec31101ae808d54ca2|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 76 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-3e5ecd83da0413770422f0b0|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 82, 83 ir 84 straipsnius
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-84bb78b7216bb1a0c65dcccf|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 79 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-8fbd2fcf588a59ad8767f003|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 80 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-b805352b80c06f1f0fb0083a|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 30 straipsnio 2 dalies 4 punktą
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-dcfeef40ca76d9554357d7e1|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 81 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-dda9f345872eb80d63fb6b4b|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 77 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-e556b6527c329daeffb62775|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 78 straipsnio
+- [[latest/29deb1a07f7d11e8ae2bfd1913d66d57#^s-e6c684be68be9ff82c591b0a|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 30 straipsnio 2 dalies 4 punktą
+- [[latest/ee9f2ef0fa5311e99681cd81dcdca52c#^s-12f60afdda85eff7abeb33ea|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies
+- [[latest/ee9f2ef0fa5311e99681cd81dcdca52c#^s-58fa74f3bf7df634034a6ba8|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies
+- [[latest/ee9f2ef0fa5311e99681cd81dcdca52c#^s-e105147c0df9c8e420875760|Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies
+- [[latest/TAR.6A58820A3491#^s-053a4a14ee8459e9d4c260ad|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MOKĖJIMŲ ĮSTATYMAS
+- [[latest/TAR.6A58820A3491#^s-136544670ae06b34a65ba5a6|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.68EBBD2CAC0C#^s-2c22de0c90636971d95bd9fe|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo straipsnius bei šio Įstatymo 3 straipsnį
+- [[latest/TAR.68EBBD2CAC0C#^s-40291b5a5604516d1b78023a|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 13–16 straipsniai
+- [[latest/TAR.6A58820A3491#^s-40e11b4f400b83e063be4800|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.68EBBD2CAC0C#^s-50dbd5f8602e0fd1cb1e31ae|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MOKĖJIMŲ ĮSTATYMO
+- [[latest/TAR.6A58820A3491#^s-c3a6303d3749ee52acc2f024|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 14, 15, 18, 35 straipsniai
+- [[latest/TAR.68EBBD2CAC0C#^s-d9d0f2fbae79ab7eed37bb00|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 1999 m. spalio 28 d. įstatymo Nr. VIII-1370
+- [[latest/TAR.68EBBD2CAC0C#^s-e7fdc075a0a8a8f602d7e1f4|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 17–21 straipsniai
+- [[latest/TAR.6A58820A3491#^s-e99e9d846e39a729c91129c1|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.68EBBD2CAC0C#^s-ec5b13caa6cadb6eaebe3774|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos mokėjimų įstatymo 13–16 straipsniai
+- [[latest/TAR.6A58820A3491#^s-f939f17a6fb47444af72e392|Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo
+- [[latest/TAR.28F4561D519F#^s-05b1451f9aca64922e67f829|Lietuvos Respublikos paslaugų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymas
+- [[latest/TAR.28F4561D519F#^s-9dc12e0f836e7c0404a40ab9|Lietuvos Respublikos paslaugų įstatymas]] - Lietuvos Respublikos mokėjimų įstatymas
+- [[latest/TAR.C44837068B55#^s-1f8bd7fef9e05ac661fd568f|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte
+- [[latest/TAR.C44837068B55#^s-c1a8f4c2a3d25cd1782d20e7|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte
+- [[latest/TAR.07D828F9462F#^s-6200670ae216c1fa977a79b1|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4, 10 straipsnių pakeitimo ir priedo papildymo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/3850e840ab3d11e6a6f98c1425a5ffa8#^s-9976348982ec739b5deab93a|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/270dc7201b9c11e4b542dec0b12e28b0#^s-c2d589575f5381749bd53446|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/f04cf400222911eabe008ea93139d588#^s-0653ed937e9833e7ca379003|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 48, 49, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 7-1, 14-1, 25-1, 25-2 straipsniais įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte
+- [[latest/f04cf400222911eabe008ea93139d588#^s-5a7a13507577a46736d0750e|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 48, 49, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 7-1, 14-1, 25-1, 25-2 straipsniais įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte
+- [[latest/ea8fee50ac9311e6b844f0f29024f5ac#^s-3a6fbc1b18ab88fb649b7bab|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/ea8fee50ac9311e6b844f0f29024f5ac#^s-3ada88346f31727735acbb80|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/91118690657411edbc04912defe897d1#^s-1c45db344546e83cdc6e961b|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 2, 3, 7, 12, 24, 28, 31, 33, 34 ir 43 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/91118690657411edbc04912defe897d1#^s-7733bd6f7a9178b4c2820687|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 2, 3, 7, 12, 24, 28, 31, 33, 34 ir 43 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/e179d69049a311efbdaea558de59136c#^s-8b2224f2c6417076dd208842|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 21, 33 straipsnių, priedo pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/fd3ca900087d11efbcbfb318996800a8#^s-c4c237f99bf18bcd4b693543|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 6, 14, 16 ir 22 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/d66b11604a4311efbdaea558de59136c#^s-c1dbab34cb2af75e91984095|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 6, 14, 16 ir 22 straipsnių pakeitimo įstatymo Nr. XIV-2580 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.0F9036415DBD#^s-35545d45fac29b7c29a86f45|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.0F9036415DBD#^s-af85d6e5d2432d010a48bb38|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.ADFFF7DE2E08#^s-e7b7e5add91991d1e25e61cb|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.ADFFF7DE2E08#^s-f021b27dce6624843497e043|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.E4F420A14C07#^s-0a8112c7d3c70113383bb892|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 5, 6, 7, 8, 9, 10, 12, 13, 16, 17, 21, 29, 31, 36, 37 straipsnių pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.E4F420A14C07#^s-5caa60d1456febd02da1bb03|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 5, 6, 7, 8, 9, 10, 12, 13, 16, 17, 21, 29, 31, 36, 37 straipsnių pakeitimo ir papildymo įstatymas]] - Mokėjimų įstatyme
+- [[latest/9b91fe2090c911e4bb408baba2bdddf3#^s-18a55adb42caa340f3790be3|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 17, 21 ir 36 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/9b91fe2090c911e4bb408baba2bdddf3#^s-8271f8f429cdc4f5422972d5|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 17, 21 ir 36 straipsnių pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/89ccbb604a6f11e6b5d09300a16a686c#^s-0af52fc7fc3a5f72bdee9ee3|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/89ccbb604a6f11e6b5d09300a16a686c#^s-ec848f7e43ef886ba82dda2f|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.AB8D4779ABE1#^s-9db59be0068c3823e72c886d|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/TAR.AB8D4779ABE1#^s-dbb96802d4ae6e310b24a3ab|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo įstatymas]] - Mokėjimų įstatyme
+- [[latest/3be40b20353e11efbdaea558de59136c#^s-1c4763195b904143268332f1|Lietuvos Respublikos valstybės gynybos fondo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/835b9800535c11f0b070ee7f1ceefc75#^s-6c9c220bfa7bb8cc1f784f71|Lietuvos Respublikos valstybės gynybos fondo įstatymo Nr. XIV-2775 2, 4, 5 ir 8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/7ce71ed04ddf11ec862fdcbc8b3e3e05#^s-a8bb1144cb533877f217eb72|Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/7ce71ed04ddf11ec862fdcbc8b3e3e05#^s-d9870a69fe7b5633690e652b|Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.3E5A0E0D14C8#^s-0d7a20e241c6d2ec353f7cea|Lietuvos Respublikos vartojimo kredito įstatymas]] - Mokėjimų įstatymo 5 straipsnio 4 punkte
+- [[latest/TAR.3E5A0E0D14C8#^s-1b983825aaea69de89d582bf|Lietuvos Respublikos vartojimo kredito įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.3E5A0E0D14C8#^s-355d5e2bfc3e3582d718644d|Lietuvos Respublikos vartojimo kredito įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio 4 punkte
+- [[latest/TAR.3E5A0E0D14C8#^s-43eea6c1811332301876bcc3|Lietuvos Respublikos vartojimo kredito įstatymas]] - Mokėjimų įstatymo 5 straipsnio 4 punkte
+- [[latest/TAR.3E5A0E0D14C8#^s-4c3f177a8df5914a82ae4206|Lietuvos Respublikos vartojimo kredito įstatymas]] - Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio 4 punkte
+- [[latest/TAR.3E5A0E0D14C8#^s-c02c1fe09af3afc65e72d31c|Lietuvos Respublikos vartojimo kredito įstatymas]] - Lietuvos Respublikos mokėjimų įstatyme
+- [[latest/TAR.D790096B17EE#^s-3265621750fc89930a653c92|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Mokėjimų įstatymo 11 straipsnio 4 dalies
+- [[latest/TAR.D790096B17EE#^s-3f5a21b513da79f12337d0b7|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Mokėjimų įstatymo 11 straipsnio 4 dalies
+- [[latest/TAR.D790096B17EE#^s-b6ae426051085e8f83ae611d|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymas, vietoj šio įstatymo 37 straipsnio 1 dalyje
+- [[latest/TAR.D790096B17EE#^s-fe07cd97493caa70a03a35ca|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymas, vietoj šio įstatymo 37 straipsnio 1 dalyje
+- [[latest/TAR.5DB3B75FCBD9#^s-83d93cec34fd2424efbf613e|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 1 straipsnio ir priedo papildymo įstatymas]] - 2 citatos - Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio
+- [[latest/1de15d4049e411e8ade598b2394a491d#^s-d57dfb3879915ef55827bd3c|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio
+- [[latest/39d2cd9048f611e6b5d09300a16a686c#^s-75f56052d03027c337fc1728|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio
+- [[latest/55b659f24cde11f0b070ee7f1ceefc75#^s-5ea1b541ae4728e436b3408e|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, 40 straipsnių, aštuntojo skirsnio ir priedo pakeitimo įstatymas]] - Mokėjimų įstatymo 11 straipsnio 4 dalies
+- [[latest/55b659f24cde11f0b070ee7f1ceefc75#^s-82d848f625abdd2a788e925c|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, 40 straipsnių, aštuntojo skirsnio ir priedo pakeitimo įstatymas]] - Mokėjimų įstatymo 11 straipsnio 4 dalies
+- [[latest/55b659f24cde11f0b070ee7f1ceefc75#^s-c740e2f00855b253235a449a|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, 40 straipsnių, aštuntojo skirsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokėjimų įstatymas, vietoj šio įstatymo 37 straipsnio 1 dalyje

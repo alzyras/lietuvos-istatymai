@@ -1,0 +1,16 @@
+{
+  "centerStrength": 0.5,
+  "collapse-filter": true,
+  "hideUnresolved": true,
+  "lineSizeMultiplier": 1,
+  "linkDistance": 250,
+  "linkStrength": 1,
+  "nodeSizeMultiplier": 1,
+  "repelStrength": 10,
+  "search": "-path:Indeksai -path:Ataskaitos -path:Atnaujinimai -path:Ryšiai",
+  "showArrow": true,
+  "showAttachments": false,
+  "showOrphans": false,
+  "showTags": false,
+  "textFadeMultiplier": 0
+}

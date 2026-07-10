@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.33876215A890"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laikotarpiu\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laikotarpiu\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-11-18"
 latest_path: "latest/TAR.33876215A890.md"
 latest_sha256: "cea07e0984be91b2b07ad8101908d8d00aa62ec0a3d3e3528fc8be68688804bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.33876215A890]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laikotarpiu" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.33876215A890.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.33876215A890
+- Ryšiai: [[Ryšiai/TAR.33876215A890|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

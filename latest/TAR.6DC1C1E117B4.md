@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6DC1C1E117B4"
 pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "karo padėties įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-02-01"
 latest_path: "latest/TAR.6DC1C1E117B4.md"
 latest_sha256: "200f516f98646f04663b55b87e2525550414b72afa38c90995dcedb2d3a42a8e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6DC1C1E117B4]]"
 ---
 # Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6DC1C1E117B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6DC1C1E117B4
+- Ryšiai: [[Ryšiai/TAR.6DC1C1E117B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio pakeitimas
+### 1 straipsnis. 26 straipsnio pakeitimas ^s-0b03964c8b7963e72f178c3d
 
 
 26 straipsnyje po žodžių „Valstybės saugumo departamento“ išbraukti žodžius „ikiteisminio tyrimo“ ir šį straipsnį išdėstyti taip:
@@ -41,11 +46,11 @@ Vilnius
 „26 straipsnis. Ikiteisminio tyrimo įstaigos
 
 
-Kai ikiteisminio tyrimo įstaigos negali atlikti joms Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento padaliniai, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.“
+Kai ikiteisminio tyrimo įstaigos negali atlikti joms [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento padaliniai, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3cb8ec37ade8e87e16860afd
 
 
 Šis įstatymas įsigalioja 2011 m. vasario 1 d.

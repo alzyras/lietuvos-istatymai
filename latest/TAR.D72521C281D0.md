@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D72521C281D0"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo 2 ir 67 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo 2 ir 67 straipsnių pakeitimo įstatymas"
+  - "švietimo įstatymo 2 ir 67 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.D72521C281D0.md"
 latest_sha256: "c8cc3b2d0fee2985ed294db84e6175a6065b6479f486406e86e02cf83168be23"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D72521C281D0]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo 2 ir 67 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D72521C281D0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D72521C281D0
+- Ryšiai: [[Ryšiai/TAR.D72521C281D0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 13 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 13 dalies pakeitimas ^s-db844b18b583e82ed1a12223
 
 
 Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 67 straipsnio 4 dalies 1 punkto pakeitimas
+### 2 straipsnis. 67 straipsnio 4 dalies 1 punkto pakeitimas ^s-45931ce9e756ed702c99d8e0
 
 
 Pakeisti 67 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
@@ -53,14 +58,14 @@ Pakeisti 67 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-956d2955681afa0b0183a86d
 
 
 Lietuvos Respublikos Vyriausybė iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-e8ae7a23e873ce2e4286198d
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

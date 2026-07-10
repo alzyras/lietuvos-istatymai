@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1522CADCB7A8"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinio dydžio, taikomo 2008 metais, įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinio dydžio, taikomo 2008 metais, įstatymas"
+  - "valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinio dydžio, taikomo 2008 metais, įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-19"
 latest_path: "latest/TAR.1522CADCB7A8.md"
 latest_sha256: "79feb7bd2eb52850eeda70fd4596f11460a4c5603b627fda2943f269f423664b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1522CADCB7A8]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinio dydžio, taikomo 2008 metais, įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1522CADCB7A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1522CADCB7A8
+- Ryšiai: [[Ryšiai/TAR.1522CADCB7A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,31 +34,31 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-6625e06db06f872520620bef
 
 
 Šis įstatymas nustato Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinį dydį.
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-e0f2619cf887417a4e0fb7e0
 
 
 Šiuo įstatymu nustatytas bazinis dydis taikomas valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų pareiginėms algoms ir karių tarnybiniams atlyginimams bei kitoms teisės aktais nustatytoms išmokoms apskaičiuoti 2008 metais.
 
 
 
-### 3 straipsnis. Pareiginės algos bazinis dydis
+### 3 straipsnis. Pareiginės algos bazinis dydis ^s-00fdb925b87c2caf5efcb51a
 
 
 Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinis dydis 2008 metais – 490 litų.
 
 
 
-### 4 straipsnis. Pasiūlymas Vyriausybei
+### 4 straipsnis. Pasiūlymas Vyriausybei ^s-1a0a32406b256e563107bf56
 
 
-Vyriausybė Lietuvos Respublikos 2008 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą rengia vadovaudamasi šio įstatymo [[#3 straipsnis. Pareiginės algos bazinis dydis|3 straipsnyje]] nustatytu pareiginės algos baziniu dydžiu.
+Vyriausybė [[latest/TAR.E51A2DE98B9E#^s-2059f7d1d01de329083c0a1e|Lietuvos Respublikos 2008 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą rengia vadovaudamasi šio įstatymo 3 straipsnyje]] nustatytu pareiginės algos baziniu dydžiu.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.47E18DAC569F"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 24, 56 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 24, 56 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 24, 56 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-14"
 latest_path: "latest/TAR.47E18DAC569F.md"
 latest_sha256: "e227f7011673d5787fb3eeda6b4e1c36b888f596d3f02fa2306b8cedb6173f2d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.47E18DAC569F]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 24, 56 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.47E18DAC569F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.47E18DAC569F
+- Ryšiai: [[Ryšiai/TAR.47E18DAC569F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,22 +38,22 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 24 straipsnio papildymas ir pakeitimas ^s-9f3a22e07bed7d5ab62fb85e
 
 
-1. Papildyti 24 straipsnį nauja 3 dalimi: ^b00cb434b3cc728763b505eb
+1. Papildyti 24 straipsnį nauja 3 dalimi: ^s-d8d37b7485c04707234ad4be
 
 
 „3. Asmenų, turinčių valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d., ir pasirinkusių dalyvauti pensijų kaupime pagal Pensijų sistemos reformos įstatymą, valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama pagal formulę 0,005 x s x Kn x D + 0,005 x S x K x D. Joje:
 Kn – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d., apskaičiuotas netaikant šio įstatymo 17 straipsnio 4 dalies nuostatų.
-Kiti dydžiai nurodyti [[#^6b0a83c6948f5232bff3c6ab|šio straipsnio 2 dalyje]].“
+Kiti dydžiai nurodyti [[#^s-94aa001802c69188c40a22a1|šio straipsnio 2 dalyje]].“
 
 
-2. Buvusią 24 straipsnio 3 dalį laikyti 4 dalimi. ^6b0a83c6948f5232bff3c6ab
+2. Buvusią 24 straipsnio 3 dalį laikyti 4 dalimi. ^s-94aa001802c69188c40a22a1
 
 
 
-### 2 straipsnis. 56 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 56 straipsnio 2 dalies pakeitimas ^s-509b35188f3a8a8ca628e677
 
 
 Pakeisti 56 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -58,17 +63,17 @@ Pakeisti 56 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-dabca7ff35f30fa5893ced17
 
 
 Šis įstatymas įsigalioja po trijų mėnesių nuo šio įstatymo oficialaus paskelbimo dienos.
 
 
 
-### 4 straipsnis. Baigiamosios nuostatos
+### 4 straipsnis. Baigiamosios nuostatos ^s-3d76ac94075c654fb9952b8b
 
 
-Pensijų kaupimo dalyviams, kuriems pensijos buvo paskirtos nuo 2013 m. sausio 1 d. iki šio įstatymo įsigaliojimo taikant Valstybinių socialinio draudimo pensijų įstatymo 24 straipsnio 1 dalies nuostatas, pensijos perskaičiuojamos pagal šio įstatymo nuostatas nuo šio įstatymo įsigaliojimo dienos.
+Pensijų kaupimo dalyviams, kuriems pensijos buvo paskirtos nuo 2013 m. sausio 1 d. iki šio įstatymo įsigaliojimo taikant [[latest/TAR.A7F77DF94F5D#^s-387645fe3fafeb3a47333603|Valstybinių socialinio draudimo pensijų įstatymo 24 straipsnio 1 dalies]] nuostatas, pensijos perskaičiuojamos pagal šio įstatymo nuostatas nuo šio įstatymo įsigaliojimo dienos.
 
 
 

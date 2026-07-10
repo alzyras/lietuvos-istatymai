@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E0A26E13642C"
 pavadinimas: "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 11 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 11 ir 13 straipsnių pakeitimo įstatymas"
+  - "gyvenamosios vietos deklaravimo įstatymo 3, 11 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-01"
 latest_path: "latest/TAR.E0A26E13642C.md"
 latest_sha256: "0fd97a633e8a65113dfdb0dfe875c952b80ba1ef25f603e46f55434901afc249"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E0A26E13642C]]"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 11 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E0A26E13642C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E0A26E13642C
+- Ryšiai: [[Ryšiai/TAR.E0A26E13642C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 6 dalies pakeitimas ^s-7f9dca00cb4653c5e65e95bd
 
 
 3 straipsnio 6 dalyje vietoj žodžių „tvarko deklaravimo duomenis“ įrašyti žodžius „užtikrina gyvenamosios vietos deklaravimo duomenų apskaitą“, vietoj žodžio „taisykles“ įrašyti žodį „tikslus“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio pakeitimas
+### 2 straipsnis. 11 straipsnio pakeitimas ^s-7b059bfc41402782603d418c
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -54,7 +59,7 @@ Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenis bei gyvenamosi
 
 
 
-### 3 straipsnis. 13 straipsnio pakeitimas
+### 3 straipsnis. 13 straipsnio pakeitimas ^s-5684004d3c904511356afa4d
 
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
@@ -63,21 +68,21 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 „13 straipsnis. Deklaravimo duomenų tvarkymas
 
 
-Gyvenamosios vietos deklaravimo duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, kitais Lietuvos Respublikos įstatymais ir norminiais teisės aktais.“
+Gyvenamosios vietos deklaravimo duomenys tvarkomi vadovaujantis [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], kitais Lietuvos Respublikos įstatymais ir norminiais teisės aktais.“
 
 
 
-### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-fc13e473120a04b0818d911c
 
 
 Lietuvos Respublikos Vyriausybė iki 2007 m. liepos 1 d. patvirtina Gyvenamosios vietos deklaravimo duomenų ir gyvenamosios vietos neturinčių asmenų apskaitos tvarkymo funkcijos perdavimo savivaldybėms tvarkos aprašą.
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-495fd092c488f60b3fd8784c
 
 
-Šis įstatymas, išskyrus [[#4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|4 straipsnį]], įsigalioja nuo 2007 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-fc13e473120a04b0818d911c|4 straipsnį]], įsigalioja nuo 2007 m. liepos 1 d.
 
 
 

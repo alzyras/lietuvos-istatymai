@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.11F4B795287C"
 pavadinimas: "Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-20"
 latest_path: "latest/TAR.11F4B795287C.md"
 latest_sha256: "a21640f350487bcd4e43481bad9da0833ac69f89cc9d2d58aef62430bfd1111a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.11F4B795287C]]"
 ---
 # Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.11F4B795287C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.11F4B795287C
+- Ryšiai: [[Ryšiai/TAR.11F4B795287C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,32 +38,32 @@ Vilnius
 
 
 
-### 1 straipsnis. Patvirtinti Lietuvos Respublikos 1996 metų valstybės biudžetą – 4 843 015 tūkst. litų pajamų, 5 498 055 tūkst. litų išlaidų, iš to skaičiaus – pagal socialines ekonomines programas (išlaidos viršija pajamas 655 040 tūkst. litų) ir 100 000 tūkst. litų kasos apyvartos lėšų (1, 2 ir 3 priedėliai).
+### 1 straipsnis. Patvirtinti Lietuvos Respublikos 1996 metų valstybės biudžetą – 4 843 015 tūkst. litų pajamų, 5 498 055 tūkst. litų išlaidų, iš to skaičiaus – pagal socialines ekonomines programas (išlaidos viršija pajamas 655 040 tūkst. litų) ir 100 000 tūkst. litų kasos apyvartos lėšų (1, 2 ir 3 priedėliai). ^s-82df7aa840e637a3f7c20f92
 
 
 Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms paprastosioms išlaidoms finansuoti.
 
 
 
-### 2 straipsnis. Nustatyti 1996 metams fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (4 priedėlis).
+### 2 straipsnis. Nustatyti 1996 metams fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (4 priedėlis). ^s-fccbaa0607ec7d446125412b
 
 
 Valstybės įmonės „Ignalinos AE“ fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukas įskaityti į valstybės biudžetą.
 
 
 
-### 3 straipsnis. Nustatyti asignavimus iš savivaldybių biudžetų kapitalo investicijoms, kurių sąmatinė kaina viršija 5 000 tūkst. litų, ir gamtosaugos objektams finansuoti (5 priedėlis).
+### 3 straipsnis. Nustatyti asignavimus iš savivaldybių biudžetų kapitalo investicijoms, kurių sąmatinė kaina viršija 5 000 tūkst. litų, ir gamtosaugos objektams finansuoti (5 priedėlis). ^s-9c4efc7ef302d8a41ad75844
 
 
 Nepanaudoti pagal tikslinę paskirtį asignavimai grąžinami į valstybės biudžetą.
 
 
 
-### 4 straipsnis. Nustatyti asignavimų darbo užmokesčiui ir įmokų socialiniam draudimui indeksavimo sumas, numatytas atskaitymų į savivaldybių biudžetus normatyvuose (6 priedėlis).
+### 4 straipsnis. Nustatyti asignavimų darbo užmokesčiui ir įmokų socialiniam draudimui indeksavimo sumas, numatytas atskaitymų į savivaldybių biudžetus normatyvuose (6 priedėlis). ^s-0c6facfab7ea5fa3dbbde6fd
 
 
 
-### 5 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę:
+### 5 straipsnis. Suteikti Lietuvos Respublikos Vyriausybei teisę: ^s-8f6d7f231ce9a82e02045a9f
 
 
 leisti valstybės vertybinius popierius ir imti trumpalaikes paskolas 1996 metų valstybės biudžeto deficitui, ne didesniam kaip 655 040 tūkst. litų, finansuoti;
@@ -78,26 +82,26 @@ Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms. Teikti
 
 
 
-### 6 straipsnis. Nustatyti, kad iš savivaldybių biudžetų finansuojamoms įstaigoms darbo užmokesčio fondą tvirtina miestų, rajonų tarybos, neviršydamos 1995 metais tam skirtų lėšų, perskaičiuotų pagal Lietuvos Respublikos Vyriausybės nutarimus dėl darbo užmokesčio didinimo.
+### 6 straipsnis. Nustatyti, kad iš savivaldybių biudžetų finansuojamoms įstaigoms darbo užmokesčio fondą tvirtina miestų, rajonų tarybos, neviršydamos 1995 metais tam skirtų lėšų, perskaičiuotų pagal Lietuvos Respublikos Vyriausybės nutarimus dėl darbo užmokesčio didinimo. ^s-75191f33bb2b298abd7ebc25
 
 
 
-### 7 straipsnis. Nustatyti, kad miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto patvirtinimo ir vieną egzempliorių pateikia Lietuvos Respublikos finansų ministerijai.
+### 7 straipsnis. Nustatyti, kad miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto patvirtinimo ir vieną egzempliorių pateikia Lietuvos Respublikos finansų ministerijai. ^s-809b0a83162a7b09e3d5d5f4
 
 
 
-### 8 straipsnis. Nustatyti, kad už skolintus iš Lietuvos banko išteklius, iki 1993 m. vasario 1 d. panaudotus gyvenamiesiems namams, butams statyti lengvatinėmis sąlygomis, kredituojantys bankai palūkanų Lietuvos bankui nemoka. Už Lietuvos banko paskolintus kredito išteklius gyvenamiesiems namams, butams statyti lengvatinėmis sąlygomis kredituojantiems bankams nustatoma maržos dydžio palūkanų norma, neviršijanti 5 procentų metinių palūkanų.
+### 8 straipsnis. Nustatyti, kad už skolintus iš Lietuvos banko išteklius, iki 1993 m. vasario 1 d. panaudotus gyvenamiesiems namams, butams statyti lengvatinėmis sąlygomis, kredituojantys bankai palūkanų Lietuvos bankui nemoka. Už Lietuvos banko paskolintus kredito išteklius gyvenamiesiems namams, butams statyti lengvatinėmis sąlygomis kredituojantiems bankams nustatoma maržos dydžio palūkanų norma, neviršijanti 5 procentų metinių palūkanų. ^s-da7e75f63d0d3f82f2d65fe3
 
 
 Bendrojo paramos gyvenamiesiems namams, butams statyti arba pirkti fondo lėšos, numatytos šio įstatymo 1 priedėlyje, naudojamos palūkanoms už kreditus, suteiktus pagal Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą ir gyvenamųjų namų statybos bendrijoms nustatyta tvarka pradėtiems statyti gyvenamiesiems namams užbaigti, bei lengvatoms, teikiamoms socialiai remtiniems asmenims, padengti.
 
 
 
-### 9 straipsnis. Lietuvos Respublikos Vyriausybė per mėnesį nuo Valstybės ir savivaldybių įstaigų ir organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo įsigaliojimo pateikia Seimui Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo“ patikslinimo pagal Valstybės ir savivaldybių įstaigų ir organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo nuostatas projektą.
+### 9 straipsnis. Lietuvos Respublikos Vyriausybė per mėnesį nuo Valstybės ir savivaldybių įstaigų ir organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo įsigaliojimo pateikia Seimui Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo“ patikslinimo pagal Valstybės ir savivaldybių įstaigų ir organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo nuostatas projektą. ^s-387dc0ed0626b1795f318c5d
 
 
 
-### 10 straipsnis. Nustatyti, kad iš Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansuojamos įstaigos, įsigydamos prekių ir paslaugų, privalo teikti pirmenybę Lietuvoje pagamintoms prekėms ir paslaugoms, kurias teikia Lietuvos ūkio subjektai.
+### 10 straipsnis. Nustatyti, kad iš Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansuojamos įstaigos, įsigydamos prekių ir paslaugų, privalo teikti pirmenybę Lietuvoje pagamintoms prekėms ir paslaugoms, kurias teikia Lietuvos ūkio subjektai. ^s-388914afadf08f764efb32b7
 
 
 

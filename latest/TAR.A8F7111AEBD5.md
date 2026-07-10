@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8F7111AEBD5"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1 straipsnio papildymo, įstatymo papildymo 2-1 straipsniu ir priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1 straipsnio papildymo, įstatymo papildymo 2-1 straipsniu ir priedu įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 1 straipsnio papildymo, įstatymo papildymo 2-1 straipsniu ir priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-24"
 latest_path: "latest/TAR.A8F7111AEBD5.md"
 latest_sha256: "b8d4c815299a0880b3528e5a38244b91d954ba7c4f219c49a0035225035803c1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8F7111AEBD5]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1 straipsnio papildymo, įstatymo papildymo 2-1 straipsniu ir priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8F7111AEBD5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8F7111AEBD5
+- Ryšiai: [[Ryšiai/TAR.A8F7111AEBD5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 3 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 3 dalimi ^s-93aba4dc92c2e0ca1af9dc42
 
 
 Papildyti 1 straipsnį 3 dalimi:
@@ -41,7 +46,7 @@ Papildyti 1 straipsnį 3 dalimi:
 
 
 
-### 2 straipsnis. Įstatymo papildymas 21 straipsniu
+### 2 straipsnis. Įstatymo papildymas 21 straipsniu ^s-e150ac6b77e9831b55b2488a
 
 
 Papildyti Įstatymą 21 straipsniu:
@@ -54,7 +59,7 @@ Teismuose ar kitose kompetentingose institucijose nagrinėjant fizinių asmenų 
 
 
 
-### 3 straipsnis. Įstatymo papildymas priedu:
+### 3 straipsnis. Įstatymo papildymas priedu: ^s-3f76e562fa929cd9cb0443c2
 
 
 „Lietuvos Respublikos
@@ -66,10 +71,10 @@ priedas
 
 
 
-1. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose. ^306ad84e6bdb0e69b2713e5f
+1. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose. ^s-682d14724c5d9da77d98faad
 
 
-2. 1998 m. liepos 13 d. Tarybos  direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose taikymą Didžiosios Britanijos ir Šiaurės Airijos Jungtinei Karalystei.“ ^88eb8ea6b2ad65bb44fffffc
+2. 1998 m. liepos 13 d. Tarybos  direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose taikymą Didžiosios Britanijos ir Šiaurės Airijos Jungtinei Karalystei.“ ^s-da93d139031b45e4b8dbb7d8
 
 
 

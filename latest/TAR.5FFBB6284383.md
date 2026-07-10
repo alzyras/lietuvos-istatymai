@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5FFBB6284383"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-04-30"
 latest_path: "latest/TAR.5FFBB6284383.md"
 latest_sha256: "64d9c9b98067a46dd9ffcf1d946e28988465c64c38cfb10b0ad5661a1e21d531"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5FFBB6284383]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5FFBB6284383.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5FFBB6284383
+- Ryšiai: [[Ryšiai/TAR.5FFBB6284383|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +35,7 @@ DĖL LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ  ĮSTATYMO PAPILDYMO IR PAKEI
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-Padaryti Lietuvos Respublikos žemės ūkio bendrovių įstatyme (Žin., 1991, Nr. 13-328) šiuos pakeitimus ir papildymus:
+Padaryti [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatyme]] (Žin., 1991, Nr. 13-328) šiuos pakeitimus ir papildymus:
 
 
 1. 14 straipsnio 7 punktą laikyti negaliojančiu.

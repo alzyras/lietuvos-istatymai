@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9361370A5996"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-07-09"
 latest_path: "latest/TAR.9361370A5996.md"
 latest_sha256: "1ed6015ebc093dce693aef70d4756e91fa388ca9db5f7ef971e665916419d3c0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9361370A5996]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9361370A5996.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9361370A5996
+- Ryšiai: [[Ryšiai/TAR.9361370A5996|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-2feda075570aebba21c1915f
 
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -39,7 +44,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 11 straipsnio 3 dalies papildymas
+### 2 straipsnis. 11 straipsnio 3 dalies papildymas ^s-33740cd8731233875f3fabe9
 
 
 11 straipsnio 3 dalyje po žodžio „valdininkai“ įrašyti žodžius „Lietuvos banko darbuotojai“ ir šią dalį išdėstyti taip:
@@ -49,7 +54,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 19 straipsnio 5 dalies papildymas
+### 3 straipsnis. 19 straipsnio 5 dalies papildymas ^s-e5ac8e9176b136f8bc23e9d2
 
 
 19 straipsnio 5 dalį papildyti sakiniu ir visą ją išdėstyti taip:

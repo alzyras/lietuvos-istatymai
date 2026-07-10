@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7813375FF647"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 21, 25, 33, 56, 57, 67 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 21, 25, 33, 56, 57, 67 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 21, 25, 33, 56, 57, 67 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-28"
 latest_path: "latest/TAR.7813375FF647.md"
 latest_sha256: "cfe99046ede4e663951481a254a63ca0fcd635de7fe94b22c18f220ae290d0fa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7813375FF647]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 21, 25, 33, 56, 57, 67 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7813375FF647.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7813375FF647
+- Ryšiai: [[Ryšiai/TAR.7813375FF647|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas ^s-5e60b3e7fa0fa54e21c40073
 
 
 21 straipsnio 1 dalyje vietoj žodžių ir skaičių „moterims – 60 metų, vyrams – 62 metai ir 6 mėnesiai“ įrašyti žodį ir skaičių „65 metai“ ir šią dalį išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 25 straipsnio papildymas 2 dalimi
+### 2 straipsnis. 25 straipsnio papildymas 2 dalimi ^s-8ecb4cfbcd0d09c3e17c645e
 
 
 Papildyti 25 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
@@ -55,14 +60,14 @@ Papildyti 25 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 „25 straipsnis. Valstybinės socialinio draudimo senatvės pensijos apskaičiavimas asmeniui, gavusiam valstybinę socialinio draudimo senatvės pensiją pagal Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą
 
 
-1. Asmeniui, gavusiam valstybinę socialinio draudimo senatvės pensiją pagal Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą (toliau – išankstinė senatvės pensija), šio įstatymo nustatyta tvarka apskaičiuotos valstybinės socialinio draudimo senatvės pensijos dydis mažinamas dydžiu, kurį sudaro apskaičiuotos pensijos 0,4 procento, padauginto iš pilnų mėnesių, kuriuos asmuo gavo išankstinę senatvės pensiją, skaičiaus. ^a6467d3de4b99bf2257aff64
+1. Asmeniui, gavusiam valstybinę socialinio draudimo senatvės pensiją pagal Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą (toliau – išankstinė senatvės pensija), šio įstatymo nustatyta tvarka apskaičiuotos valstybinės socialinio draudimo senatvės pensijos dydis mažinamas dydžiu, kurį sudaro apskaičiuotos pensijos 0,4 procento, padauginto iš pilnų mėnesių, kuriuos asmuo gavo išankstinę senatvės pensiją, skaičiaus. ^s-adff6d6263355343d49e5699
 
 
-2. Asmenims, kuriems išankstinė senatvės pensija buvo paskirta iki 2012 m. sausio 1 d., apskaičiuotos valstybinės socialinio draudimo senatvės pensijos dydis mažinamas dydžiu, kurį sudaro apskaičiuotos pensijos 0,4 procento, padauginto iš skaičiaus pilnų mėnesių, kuriuos asmuo gavo išankstinę senatvės pensiją, kol sukako iki 2012 m. sausio 1 d. nustatytą senatvės pensijos amžių: moterys – 60 metų, vyrai – 62 metus 6 mėnesius, nepaisant faktinio išankstinės senatvės pensijos mokėjimo laiko.“ ^bd516b6836a82d18337feb85
+2. Asmenims, kuriems išankstinė senatvės pensija buvo paskirta iki 2012 m. sausio 1 d., apskaičiuotos valstybinės socialinio draudimo senatvės pensijos dydis mažinamas dydžiu, kurį sudaro apskaičiuotos pensijos 0,4 procento, padauginto iš skaičiaus pilnų mėnesių, kuriuos asmuo gavo išankstinę senatvės pensiją, kol sukako iki 2012 m. sausio 1 d. nustatytą senatvės pensijos amžių: moterys – 60 metų, vyrai – 62 metus 6 mėnesius, nepaisant faktinio išankstinės senatvės pensijos mokėjimo laiko.“ ^s-07c6c26601d483e320ada1d4
 
 
 
-### 3 straipsnis. 33 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 33 straipsnio 1 dalies pakeitimas ^s-617033dc1af56633b463ea3f
 
 
 Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -72,7 +77,7 @@ Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 56 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 56 straipsnio 2 dalies pakeitimas ^s-e9b6670342f7b55dbf601431
 
 
 56 straipsnio 2 dalyje vietoj skaičiaus „2010“ įrašyti skaičių „2012“ ir šią dalį išdėstyti taip:
@@ -82,7 +87,7 @@ Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 57 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 57 straipsnio 2 dalies pakeitimas ^s-f2f74dfbb654edc2cb737898
 
 
 Pakeisti 57 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -92,7 +97,7 @@ Pakeisti 57 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 67 straipsnio 8 dalies pakeitimas
+### 6 straipsnis. 67 straipsnio 8 dalies pakeitimas ^s-60c9b234eba22beed6a7c3d7
 
 
 Pakeisti 67 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -102,17 +107,17 @@ Pakeisti 67 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-fa073f63bfc4b56c0c59ff1d
 
 
 Lietuvos Respublikos Vyriausybė iki 2012 m. sausio 1 d. patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-0a44577c4eb1fb4d57ad5ab8
 
 
-Šis įstatymas, išskyrus 4 ir [[#7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|7 straipsnius]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus 4 ir [[#^s-fa073f63bfc4b56c0c59ff1d|7 straipsnius]], įsigalioja 2012 m. sausio 1 d.
 
 
 

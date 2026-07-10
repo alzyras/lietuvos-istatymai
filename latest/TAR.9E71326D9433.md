@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9E71326D9433"
 pavadinimas: "Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-31"
 latest_path: "latest/TAR.9E71326D9433.md"
 latest_sha256: "24db58b3cda1d4f1b478ce6cc948aec421af71e2fb787a29e89f06b5eed277c8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9E71326D9433]]"
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9E71326D9433.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9E71326D9433
+- Ryšiai: [[Ryšiai/TAR.9E71326D9433|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas ^s-f948248fd57a5db53beea0f9
 
 
 Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:

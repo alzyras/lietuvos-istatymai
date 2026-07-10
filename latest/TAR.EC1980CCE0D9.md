@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EC1980CCE0D9"
 pavadinimas: "Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-04"
 latest_path: "latest/TAR.EC1980CCE0D9.md"
 latest_sha256: "1a47e849aac2f69dacbdc1acf2187ff88b90bea16c9481596fa7960c1c98f0df"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EC1980CCE0D9]]"
 ---
 # Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EC1980CCE0D9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EC1980CCE0D9
+- Ryšiai: [[Ryšiai/TAR.EC1980CCE0D9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas ^s-4a7c43bfbc29e6b6754fb58c
 
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:

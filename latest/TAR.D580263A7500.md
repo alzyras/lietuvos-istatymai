@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D580263A7500"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-23"
 latest_path: "latest/TAR.D580263A7500.md"
 latest_sha256: "821171e12fcbbc2a4b72876854a2640448d989481d3129a7f34d5f2040b37937"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D580263A7500]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D580263A7500.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D580263A7500
+- Ryšiai: [[Ryšiai/TAR.D580263A7500|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-cb63624efe34f36b75831498
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:

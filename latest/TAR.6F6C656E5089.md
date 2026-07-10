@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6F6C656E5089"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 5, 6, 7, 11, 14, 15, 18, 22 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 5, 6, 7, 11, 14, 15, 18, 22 straipsnių pakeitimo ir papildymo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 5, 6, 7, 11, 14, 15, 18, 22 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-27"
 latest_path: "latest/TAR.6F6C656E5089.md"
 latest_sha256: "657e4673aade13eb8d057874f47ab61134b730baa31e56a5c175f59f7f1c206e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6F6C656E5089]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 5, 6, 7, 11, 14, 15, 18, 22 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6F6C656E5089.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6F6C656E5089
+- Ryšiai: [[Ryšiai/TAR.6F6C656E5089|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,138 +39,138 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-dd6c605fc3f3cb73a490f3df
 
 
-1. Pakeisti [[#^ce60871e81ad8f7b9267c4b4|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^d479416a006bcffb75719fab
+1. Pakeisti [[#^s-ca0c6868d3d4c2bdd47ba5a5|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-508fc446e215bec71d92915d
 
 
 „1. Asmenys, dirbantys valstybinėje tarnyboje, – valstybės politikai, valstybės pareigūnai, valstybės tarnautojai, teisėjai, profesinės karo tarnybos kariai, vykdantys operatyvinę veiklą, profesinės karo tarnybos karininkai, asmenys, dirbantys valstybės ir savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo įgaliojimus, asmenys, dirbantys viešosiose įstaigose ir asociacijose, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turinys administravimo įgaliojimus, Lietuvos banko darbuotojai, turintys viešojo administravimo įgaliojimus (atliekantys finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, vadovai ir vadovų pavaduotojai, taip pat kiti asmenys, turintys viešojo administravimo įgaliojimus.“
 
 
-2. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^9c02ae3f6705c4290ccb38c7
+2. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-023d7e861bb81cd673eb8610
 
 
 „5. Artimi asmenys – valstybinėje tarnyboje dirbančio asmens sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka (toliau – partneris), taip pat jų tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų sutuoktiniai, sugyventiniai ar partneriai.“
 
 
-3. Papildyti 2 straipsnį 8 dalimi: ^e63d78c091cf5094871b1f4d
+3. Papildyti 2 straipsnį 8 dalimi: ^s-77d7f066e033dff32a39f2d3
 
 
 „8. Kontroliuojama įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme.“
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-d405cc7633d9132133a6a895
 
 
-Pakeisti ir papildyti [[#3 straipsnis. 4 straipsnio pakeitimas|3 straipsnį]] ir jį išdėstyti taip:
+Pakeisti ir papildyti [[#^s-a1b6da3f23e286716de18129|3 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#3 straipsnis. 4 straipsnio pakeitimas|3 straipsnis]]. Asmenų, pretenduojančių dirbti, dirbančių ir dirbusių valstybinėje tarnyboje, prievolės
+„[[#^s-a1b6da3f23e286716de18129|3 straipsnis]]. Asmenų, pretenduojančių dirbti, dirbančių ir dirbusių valstybinėje tarnyboje, prievolės
 
 
-1. Viešųjų interesų viršenybei užtikrinti asmenys, dirbantys valstybinėje tarnyboje, privalo: ^ce60871e81ad8f7b9267c4b4
+1. Viešųjų interesų viršenybei užtikrinti asmenys, dirbantys valstybinėje tarnyboje, privalo: ^s-ca0c6868d3d4c2bdd47ba5a5
 
 
-1) nešališkai, sąžiningai ir tinkamai atlikti tarnybines pareigas; ^bd100c35e596482ca4edc4bd
+1) nešališkai, sąžiningai ir tinkamai atlikti tarnybines pareigas; ^s-f85674c54c4e90be44c46094
 
 
-2) teisės aktų nustatyta tvarka ir priemonėmis vengti interesų konflikto ir elgtis taip, kad nekiltų abejonių, jog toks konfliktas yra; ^4fbf333623c358bf5bc641ef
+2) teisės aktų nustatyta tvarka ir priemonėmis vengti interesų konflikto ir elgtis taip, kad nekiltų abejonių, jog toks konfliktas yra; ^s-bf3e43a24ddfc71fd11dcb24
 
 
-3) nesinaudoti pareigomis asmeninei naudai gauti; ^53bc4761fe174145ef1e1019
+3) nesinaudoti pareigomis asmeninei naudai gauti; ^s-164fe14526ca9ff85bd06af8
 
 
-4) priimdami sprendimus, vadovautis įstatymais ir visų asmenų lygybės principu; ^0561a0a547eaa701b6d99d42
+4) priimdami sprendimus, vadovautis įstatymais ir visų asmenų lygybės principu; ^s-0d49b6d0bc37a9c3c8f52d28
 
 
-5) nesinaudoti viešai neskelbiama tarnybine informacija ne tarnybinei veiklai; ^2297a976e83ada7483090c35
+5) nesinaudoti viešai neskelbiama tarnybine informacija ne tarnybinei veiklai; ^s-6cc233cdcf40b59fee6d2203
 
 
-6) nesinaudoti ir neleisti naudotis jokiu valstybės ar savivaldybių valdomu turtu ne tarnybinei veiklai. Atskirais atvejais taikomas išimtis gali nustatyti įstatymai. ^984220acece7ca38cebc9d84
+6) nesinaudoti ir neleisti naudotis jokiu valstybės ar savivaldybių valdomu turtu ne tarnybinei veiklai. Atskirais atvejais taikomas išimtis gali nustatyti įstatymai. ^s-e40126fbbb1d22fec128d802
 
 
-2. Asmenys, pretenduojantys dirbti ir dirbantys valstybinėje tarnyboje, taip pat kiti asmenys, nurodyti šio įstatymo [[#^e18d3aae198d8ecba19846d4|4 straipsnio 1 dalyje]], privalo deklaruoti privačius interesus. ^c0e098abea88661d3da7c9a3
+2. Asmenys, pretenduojantys dirbti ir dirbantys valstybinėje tarnyboje, taip pat kiti asmenys, nurodyti šio įstatymo [[#^s-15d04c37485a0d2702d428cb|4 straipsnio 1 dalyje]], privalo deklaruoti privačius interesus. ^s-3bcfded962466d7c84cff73c
 
 
-3. Asmenims, nustojusiems eiti pareigas valstybinėje tarnyboje, taikomi šio įstatymo penktajame skirsnyje nustatyti apribojimai.“ ^552efd5f8abe8cd69dc0bd2a
+3. Asmenims, nustojusiems eiti pareigas valstybinėje tarnyboje, taikomi šio įstatymo penktajame skirsnyje nustatyti apribojimai.“ ^s-a9f023bec568170169d4600c
 
 
 
-### 3 straipsnis. 4 straipsnio pakeitimas
+### 3 straipsnis. 4 straipsnio pakeitimas ^s-a1b6da3f23e286716de18129
 
 
-Pakeisti [[#4 straipsnis. 5 straipsnio papildymas ir pakeitimas|4 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-8d247869758aa1459673b5b4|4 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#4 straipsnis. 5 straipsnio papildymas ir pakeitimas|4 straipsnis]]. Privačių interesų deklaracija
+„[[#^s-8d247869758aa1459673b5b4|4 straipsnis]]. Privačių interesų deklaracija
 
 
-1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams. ^c4d9d5fc1f88fd710edbea15
+1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams. ^s-f2220e1860158cf47f71f18c
 
 
-2. Kandidatai į Seimo narius, Respublikos Prezidentus, Europos Parlamento narius, savivaldybių tarybų narius deklaracijas pateikia atitinkamų rinkimų įstatymų nustatyta tvarka.“ ^290073250dc1beec93d12eba
+2. Kandidatai į Seimo narius, Respublikos Prezidentus, Europos Parlamento narius, savivaldybių tarybų narius deklaracijas pateikia atitinkamų rinkimų įstatymų nustatyta tvarka.“ ^s-8cc32fb31153b2876d961c5e
 
 
 
-### 4 straipsnis. 5 straipsnio papildymas ir pakeitimas
+### 4 straipsnis. 5 straipsnio papildymas ir pakeitimas ^s-8d247869758aa1459673b5b4
 
 
-1. Papildyti [[#5 straipsnis. 6 straipsnio pakeitimas|5 straipsnį]] nauja [[#^e18d3aae198d8ecba19846d4|1 dalimi]]: ^e18d3aae198d8ecba19846d4
+1. Papildyti [[#^s-f2fba4e6c1b24158c06bbd33|5 straipsnį]] nauja [[#^s-15d04c37485a0d2702d428cb|1 dalimi]]: ^s-15d04c37485a0d2702d428cb
 
 
-„1. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus asmenis, nurodytus šio įstatymo [[#^e202ca8250656c8ab1f88270|4 straipsnio 2 dalyje]]), pateikia deklaraciją valstybės ar savivaldybės institucijos, kurioje jie pretenduoja dirbti, vadovui ar šio įgaliotam asmeniui iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos, jeigu kiti teisės aktai nenustato kitaip.“
+„1. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus asmenis, nurodytus šio įstatymo [[#^s-36c18b6c45789f4fb6f3240d|4 straipsnio 2 dalyje]]), pateikia deklaraciją valstybės ar savivaldybės institucijos, kurioje jie pretenduoja dirbti, vadovui ar šio įgaliotam asmeniui iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos, jeigu kiti teisės aktai nenustato kitaip.“
 
 
-2. Buvusias šio straipsnio 1, 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^e202ca8250656c8ab1f88270
+2. Buvusias šio straipsnio 1, 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^s-36c18b6c45789f4fb6f3240d
 
 
 
-### 5 straipsnis. 6 straipsnio pakeitimas
+### 5 straipsnis. 6 straipsnio pakeitimas ^s-f2fba4e6c1b24158c06bbd33
 
 
-Pakeisti [[#6 straipsnis. 7 straipsnio 1 dalies pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-7155c4547d71157dc9525989|6 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#6 straipsnis. 7 straipsnio 1 dalies pakeitimas|6 straipsnis]]. Deklaracijos turinys
+„[[#^s-7155c4547d71157dc9525989|6 straipsnis]]. Deklaracijos turinys
 
 
-1. Deklaruojantis asmuo deklaracijoje privalo nurodyti šiuos savo ir sutuoktinio, sugyventinio, partnerio duomenis: ^c13e95cec6f6b1451712851f
+1. Deklaruojantis asmuo deklaracijoje privalo nurodyti šiuos savo ir sutuoktinio, sugyventinio, partnerio duomenis: ^s-f2a24608c63fad18243647c9
 
 
-1) vardą, pavardę, asmens kodą, valstybinio socialinio draudimo pažymėjimo numerį, darbovietę (darbovietes) ir pareigas; ^ca680716f16120277dced2b0
+1) vardą, pavardę, asmens kodą, valstybinio socialinio draudimo pažymėjimo numerį, darbovietę (darbovietes) ir pareigas; ^s-329fd662a69d8748199b7a27
 
 
-2) juridinį asmenį, kurio dalyvis jis ar jo sutuoktinis, sugyventinis, partneris yra; ^9d62e8c6ddb0676b430bf046
+2) juridinį asmenį, kurio dalyvis jis ar jo sutuoktinis, sugyventinis, partneris yra; ^s-9fc2c0f1a5e7c783d7e75340
 
 
-3) individualią veiklą, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme; ^babfed764821cb154fd013ea
+3) individualią veiklą, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]]; ^s-207b616453c9859f8a602c01
 
 
-4) narystę ir pareigas įmonėse, įstaigose, asociacijose ar fonduose, išskyrus narystę politinėse partijose ar organizacijose; ^5b934ee9c2a123031376cc44
+4) narystę ir pareigas įmonėse, įstaigose, asociacijose ar fonduose, išskyrus narystę politinėse partijose ar organizacijose; ^s-4385bb03bfc8b1bad6ad5e0f
 
 
-5) per paskutinius 12 kalendorinių mėnesių gautas dovanas (išskyrus artimų asmenų dovanas), jeigu dovanų vertė didesnė negu 500 Lt; ^4329a4a20cb947b472dad069
+5) per paskutinius 12 kalendorinių mėnesių gautas dovanas (išskyrus artimų asmenų dovanas), jeigu dovanų vertė didesnė negu 500 Lt; ^s-bdeaca258efb4c3f10193021
 
 
-6) informaciją apie per paskutinius 12 kalendorinių mėnesių sudarytus ir kitus galiojančius sandorius, jeigu sandorio vertė didesnė negu 10 000 Lt; ^3664ade1fd3246959386e4ca
+6) informaciją apie per paskutinius 12 kalendorinių mėnesių sudarytus ir kitus galiojančius sandorius, jeigu sandorio vertė didesnė negu 10 000 Lt; ^s-3921cd5f782cbddd47fcabf6
 
 
-7) artimus asmenis ar kitus jam žinomus asmenis arba duomenis, dėl kurių, deklaruojančiojo nuomone, gali kilti interesų konfliktas. ^7d4643ea8ab7c4bf5897ed43
+7) artimus asmenis ar kitus jam žinomus asmenis arba duomenis, dėl kurių, deklaruojančiojo nuomone, gali kilti interesų konfliktas. ^s-44dfd68080df95a9a6c8bc16
 
 
-2. Deklaruojantis asmuo gali nenurodyti duomenų apie sutuoktinį, sugyventinį, partnerį, jeigu sutuoktiniai, sugyventiniai, partneriai gyvena skyrium, neturi bendro namų ūkio ir dėl to šie duomenys jam nėra žinomi.“ ^aaf1f6fa96ae72fa1dd2baa2
+2. Deklaruojantis asmuo gali nenurodyti duomenų apie sutuoktinį, sugyventinį, partnerį, jeigu sutuoktiniai, sugyventiniai, partneriai gyvena skyrium, neturi bendro namų ūkio ir dėl to šie duomenys jam nėra žinomi.“ ^s-0d5cad0b3377f7ce5d45427a
 
 
 
-### 6 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-7155c4547d71157dc9525989
 
 
-Pakeisti [[#^51cadc266f0c6ba28ab7d26d|7 straipsnio 1 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-1721704f5d4280f6efe9c2e1|7 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Jeigu pateiktoje deklaracijoje nurodyti duomenys apie deklaruojančio asmens ir jo sutuoktinio, sugyventinio, partnerio privačius interesus pasikeitė, deklaruojantis asmuo privalo deklaraciją patikslinti per 30 kalendorinių dienų nuo duomenų pasikeitimo dienos.“
@@ -173,36 +178,36 @@ Pakeisti [[#^51cadc266f0c6ba28ab7d26d|7 straipsnio 1 dalį]] ir ją išdėstyti 
 
 
 
-### 7 straipsnis. 11 straipsnio pakeitimas
+### 7 straipsnis. 11 straipsnio pakeitimas ^s-c0a57631b32b7899d253786e
 
 
-Pakeisti [[#11 straipsnis. 22 straipsnio papildymas 4 dalimi|11 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#11 straipsnis. 22 straipsnio papildymas 4 dalimi|11 straipsnis]]. Pareiga nusišalinti
-
-
-1. Asmeniui, dirbančiam valstybinėje tarnyboje, draudžiama dalyvauti rengiant, svarstant ar priimant sprendimus arba kitaip paveikti sprendimus, kurie sukelia interesų konfliktą. ^51cadc266f0c6ba28ab7d26d
-
-
-2. Prieš pradedant tokio sprendimo rengimo, svarstymo ar priėmimo procedūrą arba pačios procedūros metu asmuo, dirbantis valstybinėje tarnyboje, privalo informuoti savo tiesioginį vadovą ar institucijos vadovo įgaliotą atstovą ir asmenis, kurie kartu dalyvauja sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų konfliktą ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos vadovas ar jo įgaliotas atstovas motyvuotu rašytiniu sprendimu gali nepriimti pareikšto nusišalinimo ir įpareigoti asmenį dalyvauti tolesnėje procedūroje. ^af265c3a6c23102bfc2666a0
-
-
-3. Asmuo, dirbantis valstybinėje tarnyboje, privalo vykdyti institucijos vadovo ar jo įgalioto atstovo rašytines išankstines rekomendacijas, nuo kokių sprendimų rengimo, svarstymo ar priėmimo jis privalo nusišalinti. Šios rekomendacijos, remiantis deklaracijomis arba asmens prašymu, yra sudaromos konkrečiai situacijai. Išankstines rekomendacijas asmuo, dirbantis valstybinėje tarnyboje, gali skelbti viešai savo nuožiūra. ^a934cbe23ab65831699df68a
-
-
-4. Asmuo, dirbantis valstybinėje tarnyboje, negali dalyvauti kontrolės, tyrimų komisijų ar kitų tokio pobūdžio institucijų darbe, jeigu tai sukelia interesų konfliktą. ^42499eeee067abc1d3efb0ff
-
-
-5. Institucijos vadovas arba jo įgaliotas atstovas motyvuotu rašytiniu sprendimu nušalina valstybinėje tarnyboje dirbantį asmenį nuo konkretaus sprendimo rengimo, svarstymo ar priėmimo procedūros, kitų tarnybinių pareigų atlikimo, jeigu yra pakankamas pagrindas manyti, kad šio asmens dalyvavimas sukels interesų konfliktą. ^7e6ce0c581ff3936149a1f02
-
-
-6. Respublikos Prezidentui, Seimo ir Vyriausybės nariams, savivaldybių tarybų nariams, teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančiuose įstatymuose, šio straipsnio nuostatos taikomos tiek, kiek jų veiklą reglamentuojančiuose įstatymuose nenustatyti viešųjų interesų viršenybės užtikrinimo būdai.“ ^16eec3eece2635aa588af05d
+Pakeisti [[#^s-5d517bf3845abf52fc27ce59|11 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. 14 straipsnio pakeitimas
+„[[#^s-5d517bf3845abf52fc27ce59|11 straipsnis]]. Pareiga nusišalinti
+
+
+1. Asmeniui, dirbančiam valstybinėje tarnyboje, draudžiama dalyvauti rengiant, svarstant ar priimant sprendimus arba kitaip paveikti sprendimus, kurie sukelia interesų konfliktą. ^s-1721704f5d4280f6efe9c2e1
+
+
+2. Prieš pradedant tokio sprendimo rengimo, svarstymo ar priėmimo procedūrą arba pačios procedūros metu asmuo, dirbantis valstybinėje tarnyboje, privalo informuoti savo tiesioginį vadovą ar institucijos vadovo įgaliotą atstovą ir asmenis, kurie kartu dalyvauja sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų konfliktą ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos vadovas ar jo įgaliotas atstovas motyvuotu rašytiniu sprendimu gali nepriimti pareikšto nusišalinimo ir įpareigoti asmenį dalyvauti tolesnėje procedūroje. ^s-0f918e4da94b3e89aacc88ea
+
+
+3. Asmuo, dirbantis valstybinėje tarnyboje, privalo vykdyti institucijos vadovo ar jo įgalioto atstovo rašytines išankstines rekomendacijas, nuo kokių sprendimų rengimo, svarstymo ar priėmimo jis privalo nusišalinti. Šios rekomendacijos, remiantis deklaracijomis arba asmens prašymu, yra sudaromos konkrečiai situacijai. Išankstines rekomendacijas asmuo, dirbantis valstybinėje tarnyboje, gali skelbti viešai savo nuožiūra. ^s-8047af112ef0182884b0dbb0
+
+
+4. Asmuo, dirbantis valstybinėje tarnyboje, negali dalyvauti kontrolės, tyrimų komisijų ar kitų tokio pobūdžio institucijų darbe, jeigu tai sukelia interesų konfliktą. ^s-031fdbaa73ac5b30a089a492
+
+
+5. Institucijos vadovas arba jo įgaliotas atstovas motyvuotu rašytiniu sprendimu nušalina valstybinėje tarnyboje dirbantį asmenį nuo konkretaus sprendimo rengimo, svarstymo ar priėmimo procedūros, kitų tarnybinių pareigų atlikimo, jeigu yra pakankamas pagrindas manyti, kad šio asmens dalyvavimas sukels interesų konfliktą. ^s-e0a20e3480467adc8e5c4d7e
+
+
+6. Respublikos Prezidentui, Seimo ir Vyriausybės nariams, savivaldybių tarybų nariams, teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančiuose įstatymuose, šio straipsnio nuostatos taikomos tiek, kiek jų veiklą reglamentuojančiuose įstatymuose nenustatyti viešųjų interesų viršenybės užtikrinimo būdai.“ ^s-2fa6a7a47b56bf05af8ad1e6
+
+
+
+### 8 straipsnis. 14 straipsnio pakeitimas ^s-3c14c040c1a8e4e454b1b824
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -212,21 +217,21 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Dovanų ar paslaugų priėmimo ir teikimo apribojimai
 
 
-1. Asmuo, dirbantis valstybinėje tarnyboje, negali priimti dovanų ar paslaugų arba jas teikti, jeigu tai gali sukelti šio įstatymo [[#2 straipsnis. 3 straipsnio pakeitimas ir papildymas|2 straipsnyje]] numatytą viešųjų ir privačių interesų konfliktą. ^0cd8f96873e73c590b654315
+1. Asmuo, dirbantis valstybinėje tarnyboje, negali priimti dovanų ar paslaugų arba jas teikti, jeigu tai gali sukelti šio įstatymo [[#^s-d405cc7633d9132133a6a895|2 straipsnyje]] numatytą viešųjų ir privačių interesų konfliktą. ^s-10684af336cb1722e6b0c93c
 
 
-2. [[#^0cd8f96873e73c590b654315|Šio straipsnio 1 dalyje]] nustatytas apribojimas netaikomas asmenims, gavusiems dovanų ar paslaugų pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio valstybinėje tarnyboje, pareigomis, taip pat reprezentacijai skirtoms dovanoms (valstybės, įstaigos ir kitokia simbolika, kalendoriai, knygos ir kitokie informacinio pobūdžio spaudiniai), kurių vertė neviršija 100 Lt. ^e0b221bfcd43785784a94ba4
+2. [[#^s-10684af336cb1722e6b0c93c|Šio straipsnio 1 dalyje]] nustatytas apribojimas netaikomas asmenims, gavusiems dovanų ar paslaugų pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio valstybinėje tarnyboje, pareigomis, taip pat reprezentacijai skirtoms dovanoms (valstybės, įstaigos ir kitokia simbolika, kalendoriai, knygos ir kitokie informacinio pobūdžio spaudiniai), kurių vertė neviršija 100 Lt. ^s-29263ebf0550b132097495c9
 
 
-3. Jeigu [[#^e0b221bfcd43785784a94ba4|šio straipsnio 2 dalyje]] nurodytos dovanos vertė viršija 100 Lt, ši dovana yra laikoma valstybės ar savivaldybės nuosavybe. Tokia dovana įvertinama ir saugoma Vyriausybės nustatyta tvarka. ^c94288339707bf92442469f3
+3. Jeigu [[#^s-29263ebf0550b132097495c9|šio straipsnio 2 dalyje]] nurodytos dovanos vertė viršija 100 Lt, ši dovana yra laikoma valstybės ar savivaldybės nuosavybe. Tokia dovana įvertinama ir saugoma Vyriausybės nustatyta tvarka. ^s-e06a2be6466c78d5177cf3ee
 
 
-4. Valstybinėje tarnyboje dirbantis asmuo, kuris asmeniškai ar per tarpininkus priėmė leidžiamo dydžio dovaną iš fizinio ar juridinio asmens ir dėl to gali kilti viešųjų ir privačių interesų konfliktas, vienerius metus negali dalyvauti rengiant, svarstant ar priimant sprendimus ar atlikti kitų tarnybinių pareigų dėl šio asmens.“ ^7a23f84c04b6fe293206764d
+4. Valstybinėje tarnyboje dirbantis asmuo, kuris asmeniškai ar per tarpininkus priėmė leidžiamo dydžio dovaną iš fizinio ar juridinio asmens ir dėl to gali kilti viešųjų ir privačių interesų konfliktas, vienerius metus negali dalyvauti rengiant, svarstant ar priimant sprendimus ar atlikti kitų tarnybinių pareigų dėl šio asmens.“ ^s-432ef17b9d094be84b839050
 
 
 
 
-### 9 straipsnis. 15 straipsnio pakeitimas ir papildymas
+### 9 straipsnis. 15 straipsnio pakeitimas ir papildymas ^s-cd326eb8c479406c78bfdea5
 
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
@@ -236,14 +241,14 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Kiti apribojimai ir draudimai
 
 
-1. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo antrojo skirsnio reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo pirmojo skirsnio 3 straipsnio 6 punkto reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami, priimami, skiriami ar renkami į aukštesnes pareigas. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais kitus šio įstatymo reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami, priimami, skiriami ar renkami į aukštesnes pareigas, o asmenys, atleisti už šio įstatymo pažeidimą iš pareigų, trejus metus nuo atleidimo iš pareigų dienos negali būti priimami, skiriami ar renkami į pareigas valstybinėje tarnyboje. ^3ad8d8e4b95ead72203b766a
+1. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo antrojo skirsnio reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo pirmojo skirsnio 3 straipsnio 6 punkto reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami, priimami, skiriami ar renkami į aukštesnes pareigas. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais kitus šio įstatymo reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami, priimami, skiriami ar renkami į aukštesnes pareigas, o asmenys, atleisti už šio įstatymo pažeidimą iš pareigų, trejus metus nuo atleidimo iš pareigų dienos negali būti priimami, skiriami ar renkami į pareigas valstybinėje tarnyboje. ^s-8c835cba9c62f330f860943a
 
 
-2. Asmenims, dirbantiems valstybinėje tarnyboje, kituose įstatymuose gali būti nustatyta ir kitų apribojimų ir draudimų, susijusių su šio įstatymo, Korupcijos prevencijos įstatymo, Valstybės tarnybos įstatymo, Politikų elgesio kodekso ar kito teisės akto, reglamentuojančio tarnybinės etikos ir elgesio normas, reikalavimų pažeidimais.“ ^220c01f366d94583ccd2bea3
+2. Asmenims, dirbantiems valstybinėje tarnyboje, kituose įstatymuose gali būti nustatyta ir kitų apribojimų ir draudimų, susijusių su šio įstatymo, [[latest/TAR.4DBDE27621A2|Korupcijos prevencijos įstatymo]], [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]], Politikų elgesio kodekso ar kito teisės akto, reglamentuojančio tarnybinės etikos ir elgesio normas, reikalavimų pažeidimais.“ ^s-5ed1377c6524d872c8d97905
 
 
 
-### 10 straipsnis. 18 straipsnio pakeitimas
+### 10 straipsnis. 18 straipsnio pakeitimas ^s-915d2c5996656020ee237033
 
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
@@ -257,7 +262,7 @@ Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus neturi t
 
 
 
-### 11 straipsnis. 22 straipsnio papildymas 4 dalimi
+### 11 straipsnis. 22 straipsnio papildymas 4 dalimi ^s-5d517bf3845abf52fc27ce59
 
 
 Papildyti 22 straipsnį 4 dalimi:

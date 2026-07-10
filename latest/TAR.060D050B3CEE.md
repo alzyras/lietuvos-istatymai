@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.060D050B3CEE"
 pavadinimas: "Dėl Lietuvos Respublikos teismų įstatymo 51 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos teismų įstatymo 51 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-04-05"
 latest_path: "latest/TAR.060D050B3CEE.md"
 latest_sha256: "a6622211a9f47490873155ca025aa4cd5bcd7981d1c919c9915a7d60210ce92e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.060D050B3CEE]]"
 ---
 # Dėl Lietuvos Respublikos teismų įstatymo 51 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.060D050B3CEE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.060D050B3CEE
+- Ryšiai: [[Ryšiai/TAR.060D050B3CEE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-Pakeisti Lietuvos Respublikos teismų įstatymo (Žin., 1994, Nr. 46-851) 51 straipsnį:
+Pakeisti [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymo]] (Žin., 1994, Nr. 46-851) 51 straipsnį:
 
 
 trečiojoje dalyje po žodžių „perkeltas į“ įrašyti žodžius „Lietuvos Aukščiausiojo Teismo ar“.

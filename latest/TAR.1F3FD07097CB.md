@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1F3FD07097CB"
 pavadinimas: "Lietuvos Respublikos vidaus vandenų transporto kodekso 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus vandenų transporto kodekso 13 straipsnio pakeitimo įstatymas"
+  - "vidaus vandenų transporto kodekso 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.1F3FD07097CB.md"
 latest_sha256: "68cb1dc2f138a21ac0bd65a068af168c8edd06823985c52620c974002da23a61"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1F3FD07097CB]]"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1F3FD07097CB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1F3FD07097CB
+- Ryšiai: [[Ryšiai/TAR.1F3FD07097CB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 5 dalies pakeitimas ^s-72d617ef7285ea217674aa78
 
 
 Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-db8a39178d53ba79101317f5
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

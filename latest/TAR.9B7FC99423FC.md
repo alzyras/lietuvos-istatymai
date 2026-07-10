@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9B7FC99423FC"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 9 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 9 straipsnio papildymo įstatymas"
+  - "valstybės kontrolės įstatymo 9 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-23"
 latest_path: "latest/TAR.9B7FC99423FC.md"
 latest_sha256: "7b5d824c47361619dc9c9e45cf21a860f07407eda1713bec53923fcf5bb12a0a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9B7FC99423FC]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 9 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9B7FC99423FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9B7FC99423FC
+- Ryšiai: [[Ryšiai/TAR.9B7FC99423FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 9 straipsnio papildymas 4 dalimi ^s-39b1bff07fd4181272d2d239
 
 
 Papildyti 9 straipsnį 4 dalimi:

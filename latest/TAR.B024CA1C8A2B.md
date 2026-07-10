@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B024CA1C8A2B"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas"
+  - "nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-19"
 latest_path: "latest/TAR.B024CA1C8A2B.md"
 latest_sha256: "e767371440235c140e8cae4f1051c496c257f3a571057375b379b95d4730ff84"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B024CA1C8A2B]]"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B024CA1C8A2B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B024CA1C8A2B
+- Ryšiai: [[Ryšiai/TAR.B024CA1C8A2B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies papildymas 21 punktu
+### 1 straipsnis. 7 straipsnio 2 dalies papildymas 21 punktu ^s-d1dd5ce5f859bc250c2ea52b
 
 
 Papildyti 7 straipsnio 2 dalį 21 punktu:
@@ -43,7 +48,7 @@ Papildyti 7 straipsnio 2 dalį 21 punktu:
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-9f5d53b9b49e7ca7370735de
 
 
 Šis įstatymas taikomas apskaičiuojant nekilnojamojo turto mokestį nuo 2009 m. sausio 1 d.

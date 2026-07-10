@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0D75011BE1AB"
 pavadinimas: "Lietuvos Respublikos bankų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bankų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas"
+  - "bankų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-05"
 latest_path: "latest/TAR.0D75011BE1AB.md"
 latest_sha256: "3559307bb62e8b818b6d339d3c5b121ef1a47894cccac218a26e15e536c4c695"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0D75011BE1AB]]"
 ---
 # Lietuvos Respublikos bankų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0D75011BE1AB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0D75011BE1AB
+- Ryšiai: [[Ryšiai/TAR.0D75011BE1AB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas ^s-c7806c748d1857b49ae55806
 
 
 5 straipsnio 2 dalies 1 punkte išbraukti žodžius „ar buveinės“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 9 straipsnio 5 dalies 1 punkto pakeitimas
+### 2 straipsnis. 9 straipsnio 5 dalies 1 punkto pakeitimas ^s-bd0bb387b4e378373a704695
 
 
 9 straipsnio 5 dalies 1 punkte išbraukti žodžius „ir registravimo pažymėjimą“ ir šį punktą išdėstyti taip:

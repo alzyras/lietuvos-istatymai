@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AD8181E6AE0E"
 pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3-1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3-1 straipsnio pakeitimo įstatymas"
+  - "kooperatinių bendrovių (kooperatyvų) įstatymo 3-1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-25"
 latest_path: "latest/TAR.AD8181E6AE0E.md"
 latest_sha256: "ee5c9059280529a002cdb8b8115223aac60ba508a1d029faa76cfd3d74f99457"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AD8181E6AE0E]]"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3-1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AD8181E6AE0E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AD8181E6AE0E
+- Ryšiai: [[Ryšiai/TAR.AD8181E6AE0E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 31 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 31 straipsnio 5 dalies pakeitimas ^s-45d814171e940311e3c0f37a
 
 
 31 straipsnio 5 dalyje išbraukti ketvirtą sakinį ir šią dalį išdėstyti taip:

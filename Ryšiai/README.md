@@ -1,0 +1,410 @@
+---
+tipas: "rysiu_katalogas"
+---
+# Įstatymų ryšių katalogas
+
+## Dažniausiai cituojami
+
+- [[Ryšiai/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 1645
+- [[Ryšiai/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 1472
+- [[Ryšiai/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 1412
+- [[Ryšiai/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 1302
+- [[Ryšiai/TAR.1B4D7B687895|Lietuvos Respublikos Lietuvos banko įstatymas]] - 1192
+- [[Ryšiai/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 1057
+- [[Ryšiai/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 1045
+- [[Ryšiai/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 1026
+- [[Ryšiai/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 953
+- [[Ryšiai/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 941
+- [[Ryšiai/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 905
+- [[Ryšiai/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 868
+- [[Ryšiai/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 864
+- [[Ryšiai/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 839
+- [[Ryšiai/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 791
+- [[Ryšiai/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 775
+- [[Ryšiai/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 733
+- [[Ryšiai/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 701
+- [[Ryšiai/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]] - 651
+- [[Ryšiai/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymas]] - 583
+- [[Ryšiai/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 571
+- [[Ryšiai/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 552
+- [[Ryšiai/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 534
+- [[Ryšiai/TAR.B6B636C7384A|Lietuvos Respublikos bankų įstatymas]] - 516
+- [[Ryšiai/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatymas]] - 511
+- [[Ryšiai/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 502
+- [[Ryšiai/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 498
+- [[Ryšiai/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymas]] - 483
+- [[Ryšiai/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 478
+- [[Ryšiai/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - 474
+- [[Ryšiai/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 469
+- [[Ryšiai/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas]] - 443
+- [[Ryšiai/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 441
+- [[Ryšiai/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 430
+- [[Ryšiai/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 429
+- [[Ryšiai/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 429
+- [[Ryšiai/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - 425
+- [[Ryšiai/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 405
+- [[Ryšiai/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 404
+- [[Ryšiai/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 395
+- [[Ryšiai/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 392
+- [[Ryšiai/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 376
+- [[Ryšiai/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 369
+- [[Ryšiai/TAR.424F7C72601E|Lietuvos Respublikos branduolinės saugos įstatymas]] - 362
+- [[Ryšiai/TAR.9A3AD08EA5D0|Lietuvos Respublikos švietimo įstatymas]] - 360
+- [[Ryšiai/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 358
+- [[Ryšiai/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 354
+- [[Ryšiai/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 351
+- [[Ryšiai/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 337
+- [[Ryšiai/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 333
+- [[Ryšiai/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas]] - 323
+- [[Ryšiai/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - 323
+- [[Ryšiai/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 322
+- [[Ryšiai/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 307
+- [[Ryšiai/9116a35030a011e78397ae072f58c508|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 297
+- [[Ryšiai/TAR.DDA1BD559D9B|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 294
+- [[Ryšiai/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 294
+- [[Ryšiai/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 288
+- [[Ryšiai/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 284
+- [[Ryšiai/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - 274
+- [[Ryšiai/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - 267
+- [[Ryšiai/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 261
+- [[Ryšiai/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - 260
+- [[Ryšiai/TAR.2C94E75C224B|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas]] - 259
+- [[Ryšiai/TAR.E2B2957B9182|Lietuvos Respublikos sveikatos sistemos įstatymas]] - 259
+- [[Ryšiai/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - 256
+- [[Ryšiai/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 254
+- [[Ryšiai/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 253
+- [[Ryšiai/TAR.91609F53E29E|Lietuvos Respublikos socialinių paslaugų įstatymas]] - 249
+- [[Ryšiai/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 239
+- [[Ryšiai/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 239
+- [[Ryšiai/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymas]] - 237
+- [[Ryšiai/TAR.ED68997709F5|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 235
+- [[Ryšiai/TAR.0C5C33AA865C|Lietuvos Respublikos gamtinių dujų įstatymas]] - 232
+- [[Ryšiai/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 230
+- [[Ryšiai/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 230
+- [[Ryšiai/TAR.E838D0C06065|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - 230
+- [[Ryšiai/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas]] - 228
+- [[Ryšiai/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 226
+- [[Ryšiai/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - 225
+- [[Ryšiai/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 219
+- [[Ryšiai/TAR.057DCC40ECC6|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - 219
+- [[Ryšiai/TAR.3BAADED2C30B|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - 216
+- [[Ryšiai/TAR.DE0B1FF26D01|Lietuvos Respublikos kredito unijų įstatymas]] - 212
+- [[Ryšiai/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - 211
+- [[Ryšiai/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 204
+- [[Ryšiai/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 203
+- [[Ryšiai/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas]] - 198
+- [[Ryšiai/TAR.C0FF21832A85|Lietuvos Respublikos labdaros ir paramos įstatymas]] - 188
+- [[Ryšiai/TAR.40DFB5151B33|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - 188
+- [[Ryšiai/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 183
+- [[Ryšiai/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - 179
+- [[Ryšiai/TAR.29EEB33AFCD0|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - 177
+- [[Ryšiai/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymas]] - 175
+- [[Ryšiai/TAR.C81BD50A27C6|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - 173
+- [[Ryšiai/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymas]] - 172
+- [[Ryšiai/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 171
+- [[Ryšiai/TAR.769B541DD7F7|Lietuvos Respublikos ūkininko ūkio įstatymas]] - 170
+- [[Ryšiai/TAR.640D50DB8877|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas]] - 170
+- [[Ryšiai/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatymas]] - 169
+- [[Ryšiai/TAR.9D1ADB9E1518|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 166
+- [[Ryšiai/TAR.C7A984833333|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 165
+- [[Ryšiai/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymas]] - 161
+- [[Ryšiai/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas]] - 159
+- [[Ryšiai/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - 156
+- [[Ryšiai/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - 155
+- [[Ryšiai/TAR.FDF42614DE52|Lietuvos Respublikos nedarbo socialinio draudimo įstatymas]] - 155
+- [[Ryšiai/TAR.F62AD965997D|Lietuvos Respublikos šilumos ūkio įstatymas]] - 154
+- [[Ryšiai/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 152
+- [[Ryšiai/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - 152
+- [[Ryšiai/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 150
+- [[Ryšiai/TAR.C70309CDEB7B|Lietuvos Respublikos karo padėties įstatymas]] - 148
+- [[Ryšiai/TAR.7083DB116A2E|Lietuvos Respublikos radiacinės saugos įstatymas]] - 147
+- [[Ryšiai/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] - 147
+- [[Ryšiai/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 147
+- [[Ryšiai/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas]] - 146
+- [[Ryšiai/TAR.7E8386C5AA76|Lietuvos Respublikos regioninės plėtros įstatymas]] - 145
+- [[Ryšiai/TAR.D4A66ACB9F97|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 144
+- [[Ryšiai/TAR.8DDDD8D87491|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas]] - 142
+- [[Ryšiai/TAR.594F129CE9AD|Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas]] - 140
+- [[Ryšiai/TAR.791BF9249C9C|Lietuvos Respublikos sporto įstatymas]] - 137
+- [[Ryšiai/5468a25089ef11e4a98a9f2247652cf4|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - 137
+- [[Ryšiai/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 136
+- [[Ryšiai/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatymas]] - 134
+- [[Ryšiai/TAR.1EABAD7265D5|Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymas]] - 134
+- [[Ryšiai/8253c29006c711ee9978886e85107ab2|Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas]] - 133
+- [[Ryšiai/2d8b78b0e79411e68503b67e3b82e8bd|Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas]] - 132
+- [[Ryšiai/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas]] - 131
+- [[Ryšiai/TAR.1DEDD43B92AE|Lietuvos Respublikos išmokų vaikams įstatymas]] - 131
+- [[Ryšiai/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymas]] - 130
+- [[Ryšiai/TAR.9F4371AB03A3|Lietuvos Respublikos advokatūros įstatymas]] - 126
+- [[Ryšiai/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas]] - 125
+- [[Ryšiai/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - 125
+- [[Ryšiai/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 125
+- [[Ryšiai/TAR.2CE6CFE9E2EE|Lietuvos Respublikos šalpos pensijų įstatymas]] - 124
+- [[Ryšiai/TAR.F8090E375DA0|Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymas]] - 122
+- [[Ryšiai/TAR.F0E2E67B1F2F|Lietuvos Respublikos turizmo įstatymas]] - 121
+- [[Ryšiai/TAR.38E82AA2664C|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 121
+- [[Ryšiai/TAR.BF41D2C35D24|Lietuvos Respublikos kelių įstatymas]] - 120
+- [[Ryšiai/TAR.5BA7CEA07B90|Lietuvos Respublikos atitikties vertinimo įstatymas]] - 120
+- [[Ryšiai/TAR.1881C195D0E2|Lietuvos Respublikos žvalgybos įstatymas]] - 120
+- [[Ryšiai/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas]] - 118
+- [[Ryšiai/TAR.1746D2A4EFB9|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - 116
+- [[Ryšiai/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymas]] - 113
+- [[Ryšiai/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - 112
+- [[Ryšiai/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymas]] - 110
+- [[Ryšiai/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatymas]] - 110
+- [[Ryšiai/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - 110
+- [[Ryšiai/TAR.27B041C4CCDE|Lietuvos Respublikos mediacijos įstatymas]] - 110
+- [[Ryšiai/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas]] - 108
+- [[Ryšiai/TAR.CA89372D00AA|Lietuvos Respublikos policijos įstatymas]] - 108
+- [[Ryšiai/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 108
+- [[Ryšiai/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - 107
+- [[Ryšiai/TAR.A7D82E8EDC6B|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 106
+- [[Ryšiai/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 106
+- [[Ryšiai/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatymas]] - 105
+- [[Ryšiai/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 104
+- [[Ryšiai/946da260a67b11e69ad4c8713b612d0f|Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymas]] - 104
+- [[Ryšiai/TAR.94DB985EB965|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas]] - 101
+- [[Ryšiai/TAR.04F64676CE77|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - 96
+- [[Ryšiai/e68da860903411e4bb408baba2bdddf3|Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas]] - 93
+- [[Ryšiai/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas]] - 90
+- [[Ryšiai/ea80d52054f211e7846ef01bfffb9b64|Lietuvos Respublikos architektūros įstatymas]] - 90
+- [[Ryšiai/e944ee00600111e4bad5c03f56793630|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - 90
+- [[Ryšiai/TAR.08F2F39FF20B|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 90
+- [[Ryšiai/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 89
+- [[Ryšiai/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatymas]] - 88
+- [[Ryšiai/TAR.B4FA4C56B8D5|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 87
+- [[Ryšiai/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - 86
+- [[Ryšiai/TAR.817CC58C1A54|Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas]] - 85
+- [[Ryšiai/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 85
+- [[Ryšiai/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - 84
+- [[Ryšiai/TAR.BA283DF0FB41|Lietuvos Respublikos želdynų įstatymas]] - 84
+- [[Ryšiai/TAR.FA13E28615F6|Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas]] - 83
+- [[Ryšiai/TAR.103565D95E60|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - 83
+- [[Ryšiai/TAR.29FB2C8807FE|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas]] - 83
+- [[Ryšiai/TAR.9893688FA176|Lietuvos Respublikos geriamojo vandens įstatymas]] - 82
+- [[Ryšiai/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 82
+- [[Ryšiai/ed3eaf90087c11efbcbfb318996800a8|Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymas]] - 82
+- [[Ryšiai/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatymas]] - 82
+- [[Ryšiai/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 82
+- [[Ryšiai/TAR.F789235C18BB|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - 82
+- [[Ryšiai/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - 81
+- [[Ryšiai/b1eee4909be911ea9515f752ff221ec9|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - 81
+- [[Ryšiai/TAR.A92E17FDCD13|Lietuvos Respublikos medžioklės įstatymas]] - 81
+- [[Ryšiai/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - 81
+- [[Ryšiai/TAR.B77E00EAEBEB|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 81
+- [[Ryšiai/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 80
+- [[Ryšiai/ea8fee50ac9311e6b844f0f29024f5ac|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas]] - 80
+- [[Ryšiai/TAR.2E0162CE3FB9|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas]] - 80
+- [[Ryšiai/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 79
+- [[Ryšiai/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - 78
+- [[Ryšiai/2986b360db3611e7910a89ac20768b0f|Lietuvos Respublikos pranešėjų apsaugos įstatymas]] - 77
+- [[Ryšiai/TAR.7A932101FADA|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 76
+- [[Ryšiai/TAR.95C79D036AA4|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - 75
+- [[Ryšiai/TAR.12977CB93B03|Lietuvos Respublikos paramos mirties atveju įstatymas]] - 74
+- [[Ryšiai/d1e6be90747611e3b675ad30753d4b1b|Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS]] - 73
+- [[Ryšiai/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatymas]] - 72
+- [[Ryšiai/TAR.A3C0EA6B2203|Lietuvos Respublikos metrologijos įstatymas]] - 72
+- [[Ryšiai/TAR.EE245B47423C|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 72
+
+## Daugiausia cituojantys
+
+- [[Ryšiai/4ebe66c0262311e5bf92d6af3f6a2e8b|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - 1322
+- [[Ryšiai/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 582
+- [[Ryšiai/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 500
+- [[Ryšiai/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 484
+- [[Ryšiai/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 482
+- [[Ryšiai/TAR.2B866DFF7D43|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - 477
+- [[Ryšiai/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 475
+- [[Ryšiai/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 445
+- [[Ryšiai/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 440
+- [[Ryšiai/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 392
+- [[Ryšiai/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 387
+- [[Ryšiai/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 372
+- [[Ryšiai/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - 371
+- [[Ryšiai/TAR.9A3AD08EA5D0|Lietuvos Respublikos švietimo įstatymas]] - 365
+- [[Ryšiai/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 364
+- [[Ryšiai/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 362
+- [[Ryšiai/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - 358
+- [[Ryšiai/TAR.2E7C18F61454|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - 354
+- [[Ryšiai/TAR.B6B636C7384A|Lietuvos Respublikos bankų įstatymas]] - 330
+- [[Ryšiai/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 327
+- [[Ryšiai/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 317
+- [[Ryšiai/TAR.E2B2957B9182|Lietuvos Respublikos sveikatos sistemos įstatymas]] - 317
+- [[Ryšiai/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 313
+- [[Ryšiai/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 308
+- [[Ryšiai/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 301
+- [[Ryšiai/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 292
+- [[Ryšiai/TAR.1B4D7B687895|Lietuvos Respublikos Lietuvos banko įstatymas]] - 273
+- [[Ryšiai/TAR.ED68997709F5|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 272
+- [[Ryšiai/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 271
+- [[Ryšiai/TAR.C81BD50A27C6|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - 268
+- [[Ryšiai/TAR.4FC026AC03AE|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - 264
+- [[Ryšiai/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 264
+- [[Ryšiai/33d53292042311edb32c9f9d8ba206f8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 262
+- [[Ryšiai/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymas]] - 252
+- [[Ryšiai/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]] - 251
+- [[Ryšiai/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 249
+- [[Ryšiai/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 246
+- [[Ryšiai/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - 242
+- [[Ryšiai/TAR.9E5C5C16B6E6|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - 242
+- [[Ryšiai/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 241
+- [[Ryšiai/9116a35030a011e78397ae072f58c508|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 240
+- [[Ryšiai/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 235
+- [[Ryšiai/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 234
+- [[Ryšiai/TAR.E22116F1B0E0|Lietuvos Respublikos akcinių bendrovių įstatymas]] - 234
+- [[Ryšiai/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 227
+- [[Ryšiai/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 227
+- [[Ryšiai/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 226
+- [[Ryšiai/TAR.DE0B1FF26D01|Lietuvos Respublikos kredito unijų įstatymas]] - 223
+- [[Ryšiai/TAR.29EEB33AFCD0|Lietuvos Respublikos centrinių kredito unijų įstatymas]] - 217
+- [[Ryšiai/TAR.7E60B29052C0|Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas]] - 214
+- [[Ryšiai/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 214
+- [[Ryšiai/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - 211
+- [[Ryšiai/TAR.42837E5A79DD|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - 211
+- [[Ryšiai/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 210
+- [[Ryšiai/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 207
+- [[Ryšiai/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 207
+- [[Ryšiai/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 206
+- [[Ryšiai/8e34031049e211e8ade598b2394a491d|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas]] - 199
+- [[Ryšiai/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymas]] - 195
+- [[Ryšiai/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 194
+- [[Ryšiai/d211d26049e211e8ade598b2394a491d|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas]] - 191
+- [[Ryšiai/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 189
+- [[Ryšiai/TAR.1DEDD43B92AE|Lietuvos Respublikos išmokų vaikams įstatymas]] - 186
+- [[Ryšiai/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - 185
+- [[Ryšiai/c753b2904dc511ec862fdcbc8b3e3e05|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - 184
+- [[Ryšiai/bd0c979255c611f0b070ee7f1ceefc75|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - 183
+- [[Ryšiai/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 182
+- [[Ryšiai/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymas]] - 182
+- [[Ryšiai/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 180
+- [[Ryšiai/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - 180
+- [[Ryšiai/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatymas]] - 180
+- [[Ryšiai/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - 177
+- [[Ryšiai/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 177
+- [[Ryšiai/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 176
+- [[Ryšiai/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas]] - 175
+- [[Ryšiai/TAR.F62AD965997D|Lietuvos Respublikos šilumos ūkio įstatymas]] - 172
+- [[Ryšiai/e563b270e56111f08918e1adc7c5b1ec|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - 172
+- [[Ryšiai/dc2b26b0a15d11eea5a28c81c82193a8|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - 171
+- [[Ryšiai/TAR.075D49C59279|Lietuvos Respublikos žemės reformos įstatymas]] - 169
+- [[Ryšiai/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 168
+- [[Ryšiai/TAR.EDDCB615126E|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 168
+- [[Ryšiai/TAR.0C5C33AA865C|Lietuvos Respublikos gamtinių dujų įstatymas]] - 166
+- [[Ryšiai/TAR.F8090E375DA0|Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymas]] - 166
+- [[Ryšiai/TAR.A7D82E8EDC6B|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 162
+- [[Ryšiai/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 162
+- [[Ryšiai/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 161
+- [[Ryšiai/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas]] - 161
+- [[Ryšiai/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 157
+- [[Ryšiai/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatymas]] - 157
+- [[Ryšiai/TAR.3EB53577EFCA|Lietuvos Respublikos prokuratūros įstatymas]] - 156
+- [[Ryšiai/TAR.FDF42614DE52|Lietuvos Respublikos nedarbo socialinio draudimo įstatymas]] - 156
+- [[Ryšiai/TAR.88059DE4EB75|Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymas]] - 153
+- [[Ryšiai/TAR.1881C195D0E2|Lietuvos Respublikos žvalgybos įstatymas]] - 151
+- [[Ryšiai/e68da860903411e4bb408baba2bdddf3|Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas]] - 151
+- [[Ryšiai/f3b97790131511e9b2b6e7cdb14007b4|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - 151
+- [[Ryšiai/TAR.3BAADED2C30B|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - 149
+- [[Ryšiai/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 149
+- [[Ryšiai/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 149
+- [[Ryšiai/TAR.C70309CDEB7B|Lietuvos Respublikos karo padėties įstatymas]] - 146
+- [[Ryšiai/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - 146
+- [[Ryšiai/TAR.2CE6CFE9E2EE|Lietuvos Respublikos šalpos pensijų įstatymas]] - 145
+- [[Ryšiai/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatymas]] - 144
+- [[Ryšiai/TAR.40DFB5151B33|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas]] - 142
+- [[Ryšiai/TAR.BF41D2C35D24|Lietuvos Respublikos kelių įstatymas]] - 142
+- [[Ryšiai/TAR.DDA1BD559D9B|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 142
+- [[Ryšiai/caf5cd4048f611e6b5d09300a16a686c|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - 142
+- [[Ryšiai/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 141
+- [[Ryšiai/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymas]] - 141
+- [[Ryšiai/TAR.F617B8D97E05|Lietuvos Respublikos konsulinis statutas]] - 141
+- [[Ryšiai/TAR.94F5702CA0F1|Lietuvos Respublikos antstolių įstatymas]] - 140
+- [[Ryšiai/a004a610a55011eea5a28c81c82193a8|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - 135
+- [[Ryšiai/af0add73325111f08fdabd4950271e2c|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - 135
+- [[Ryšiai/5468a25089ef11e4a98a9f2247652cf4|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - 134
+- [[Ryšiai/TAR.08F2F39FF20B|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 134
+- [[Ryšiai/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 134
+- [[Ryšiai/TAR.13BA31BA9E61|Lietuvos Respublikos dizaino įstatymas]] - 133
+- [[Ryšiai/TAR.5756AB4F657E|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas]] - 133
+- [[Ryšiai/TAR.E838D0C06065|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - 131
+- [[Ryšiai/b8814b70041c11edb32c9f9d8ba206f8|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - 131
+- [[Ryšiai/TAR.E5509883EBB4|Lietuvos Respublikos azartinių lošimų įstatymas]] - 130
+- [[Ryšiai/1261a35049bd11efbdaea558de59136c|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - 127
+- [[Ryšiai/TAR.91609F53E29E|Lietuvos Respublikos socialinių paslaugų įstatymas]] - 127
+- [[Ryšiai/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 126
+- [[Ryšiai/e3c4203036d511efbdaea558de59136c|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - 126
+- [[Ryšiai/8064e77048f611e6b5d09300a16a686c|Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas]] - 125
+- [[Ryšiai/TAR.6DED3E902AB3|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - 125
+- [[Ryšiai/9197387088f211e8af589337bf1eb893|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - 124
+- [[Ryšiai/TAR.1EABAD7265D5|Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymas]] - 124
+- [[Ryšiai/736b48002b2f11eb932eb1ed7f923910|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - 123
+- [[Ryšiai/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 123
+- [[Ryšiai/TAR.AF4E384215F8|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - 123
+- [[Ryšiai/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 123
+- [[Ryšiai/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - 122
+- [[Ryšiai/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymas]] - 121
+- [[Ryšiai/2f22d6604dbe11ec862fdcbc8b3e3e05|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas]] - 119
+- [[Ryšiai/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - 119
+- [[Ryšiai/TAR.D4A66ACB9F97|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 119
+- [[Ryšiai/425fccc05b2d11e79198ffdb108a3753|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 118
+- [[Ryšiai/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 116
+- [[Ryšiai/8c05bd901fa711eeb233e8b04dc9bb3d|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 pakeitimo įstatymas]] - 115
+- [[Ryšiai/TAR.9C9FA25983BC|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas]] - 115
+- [[Ryšiai/TAR.E2EBE95E7723|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - 115
+- [[Ryšiai/bd8f6e20131711e9b2b6e7cdb14007b4|Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo įstatymas]] - 115
+- [[Ryšiai/0892744006bf11ee9978886e85107ab2|Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas]] - 114
+- [[Ryšiai/TAR.789C6EE505FD|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - 114
+- [[Ryšiai/TAR.C7A984833333|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 114
+- [[Ryšiai/29ccd900828711ed8df094f359a60216|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas]] - 113
+- [[Ryšiai/TAR.95C79D036AA4|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - 113
+- [[Ryšiai/e944ee00600111e4bad5c03f56793630|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - 113
+- [[Ryšiai/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatymas]] - 112
+- [[Ryšiai/TAR.A92E17FDCD13|Lietuvos Respublikos medžioklės įstatymas]] - 112
+- [[Ryšiai/207ad17030a011e78397ae072f58c508|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - 111
+- [[Ryšiai/f749ed906f0f11e8b83be60b2e217f90|Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 pakeitimo įstatymas]] - 111
+- [[Ryšiai/a09f7a8098ef11e58fd1fc0b9bba68a7|Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas]] - 110
+- [[Ryšiai/b49583d00a2411ebb74de75171d26d52|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - 109
+- [[Ryšiai/TAR.EE245B47423C|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 108
+- [[Ryšiai/b5c313d0986d11eb9fecb5ecd3bd711c|Lietuvos Respublikos alternatyviųjų degalų įstatymas]] - 108
+- [[Ryšiai/b606e370e4f611e4a4809231b4b55019|Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymo Nr. XI-2277 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 4 ir 5 straipsniais įstatymas]] - 108
+- [[Ryšiai/472b4a90e4c111e7acd7ea182930b17f|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 pakeitimo įstatymo Nr. XII-2512 1 ir 3 straipsnių pakeitimo įstatymas]] - 107
+- [[Ryšiai/7217ebd07f7d11e8ae2bfd1913d66d57|Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymo Nr. XIII-1093 1 ir 2 straipsnių pakeitimo įstatymas]] - 107
+- [[Ryšiai/7a58f650a62711eea5a28c81c82193a8|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 5, 11, 13, 14, 20-1, 20-2, 22, 22-1, 26, 49, 64 straipsnių pakeitimo ir Įstatymo papildymo 14-1 ir 20-4 straipsniais įstatymas]] - 107
+- [[Ryšiai/TAR.F0E2E67B1F2F|Lietuvos Respublikos turizmo įstatymas]] - 107
+- [[Ryšiai/c2e7f0a07f7d11e8ae2bfd1913d66d57|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymo Nr. XIII-1094 1 ir 2 straipsnių pakeitimo įstatymas]] - 107
+- [[Ryšiai/77def150a54511eea5a28c81c82193a8|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - 106
+- [[Ryšiai/TAR.E0EA485657C8|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - 106
+- [[Ryšiai/TAR.103565D95E60|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - 105
+- [[Ryšiai/0e823d30131811e9b2b6e7cdb14007b4|Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo Nr. XII-1467 pakeitimo įstatymas]] - 104
+- [[Ryšiai/0edcd0d0fdf511ec8fa7d02a65c371ad|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 20, 21-1, 22, 22-2, 23, 31, 39, 41, 41-1, 48-2, 48-3, 48-4, 49, 58, 59, 67, 71-1, 72, 74 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 73-2 straipsniais įstatymas]] - 104
+- [[Ryšiai/7dce02600aa711e9a5eaf2cd290f1944|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymas]] - 104
+- [[Ryšiai/81ab9500801e11e8ae2bfd1913d66d57|Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymas]] - 104
+- [[Ryšiai/TAR.0F8C601D8592|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - 104
+- [[Ryšiai/TAR.9D1ADB9E1518|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 104
+- [[Ryšiai/1523831098f011e58fd1fc0b9bba68a7|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 pakeitimo įstatymas]] - 103
+- [[Ryšiai/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 103
+- [[Ryšiai/442d41001fa711eeb233e8b04dc9bb3d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 102
+- [[Ryšiai/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - 102
+- [[Ryšiai/TAR.D570962773F8|Lietuvos Respublikos atmintinų dienų įstatymas]] - 102
+- [[Ryšiai/ea8fee50ac9311e6b844f0f29024f5ac|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas]] - 102
+- [[Ryšiai/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatymas]] - 101
+- [[Ryšiai/TAR.7055451E838B|Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas]] - 101
+- [[Ryšiai/e7c46170c0a011ec8d9390588bf2de65|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - 101
+- [[Ryšiai/04d01952b3fd11f092fda1fd0c194cc5|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - 100
+- [[Ryšiai/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas]] - 100
+- [[Ryšiai/TAR.F960F4CF3005|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]] - 100
+- [[Ryšiai/TAR.10E8E285740C|Lietuvos Respublikos medicinos praktikos įstatymas]] - 98
+- [[Ryšiai/TAR.11A8B08A7405|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 98
+- [[Ryšiai/89ccbb604a6f11e6b5d09300a16a686c|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymas]] - 96
+- [[Ryšiai/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 96
+- [[Ryšiai/TAR.EFE69222D6BC|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - 96
+- [[Ryšiai/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 95
+- [[Ryšiai/2eaee1d064b311edbc04912defe897d1|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - 94
+- [[Ryšiai/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 94
+- [[Ryšiai/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - 94
+- [[Ryšiai/TAR.C0FF21832A85|Lietuvos Respublikos labdaros ir paramos įstatymas]] - 93
+- [[Ryšiai/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 93
+- [[Ryšiai/613244607e7011e6b969d7ae07280e89|Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas]] - 92
+- [[Ryšiai/TAR.7A932101FADA|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 92
+- [[Ryšiai/TAR.9F4371AB03A3|Lietuvos Respublikos advokatūros įstatymas]] - 92
+- [[Ryšiai/TAR.B8F45E398856|Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas]] - 92
+- [[Ryšiai/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - 92

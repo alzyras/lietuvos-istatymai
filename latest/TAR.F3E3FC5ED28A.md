@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F3E3FC5ED28A"
 pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+  - "rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-10-11"
 latest_path: "latest/TAR.F3E3FC5ED28A.md"
 latest_sha256: "c730de445b6ac9f8ad4767ad998536ca580481c341280e183a54f51528e2de6a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F3E3FC5ED28A]]"
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F3E3FC5ED28A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F3E3FC5ED28A
+- Ryšiai: [[Ryšiai/TAR.F3E3FC5ED28A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas ^s-6d0a3145f64552419316668b
 
 
 4 straipsnio 1 dalies 3 punkte išbraukti žodžius „arba perregistravimą“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 6 straipsnio 2 dalies 1 punkto pakeitimas
+### 2 straipsnis. 6 straipsnio 2 dalies 1 punkto pakeitimas ^s-7426c041769b3f24f54ed7c2
 
 
 Pakeisti 6 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:

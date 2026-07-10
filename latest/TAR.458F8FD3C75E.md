@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.458F8FD3C75E"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-10"
 latest_path: "latest/TAR.458F8FD3C75E.md"
 latest_sha256: "3492258f7f4703a4a1844c85a244f423d610c779a37002823928ce34bfb719d7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.458F8FD3C75E]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.458F8FD3C75E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.458F8FD3C75E
+- Ryšiai: [[Ryšiai/TAR.458F8FD3C75E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 5 dalies pakeitimas ^s-c9ea3449676e06396aabda11
 
 
 Pakeisti 11 straipsnio 5 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E6F037A40B07"
 pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.E6F037A40B07.md"
 latest_sha256: "bad8224ac9b787f2b9daeb2f951d76edbd0c5eff869191d122401f8226195429"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E6F037A40B07]]"
 ---
 # Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E6F037A40B07.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E6F037A40B07
+- Ryšiai: [[Ryšiai/TAR.E6F037A40B07|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-442e74f0e1d120dfa62f6096
 
 
 11 straipsnio 2 dalyje išbraukti žodžius „apskričių viršininkams“ ir „ir valdybų“, vietoj žodžio „merams“ įrašyti žodžius „savivaldybių administracijų direktoriams“ ir šią dalį išdėstyti taip:
@@ -43,14 +48,14 @@ Vilnius
 
 
 
-### 2 straipsnis. 23 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 23 straipsnio pripažinimas netekusiu galios ^s-2f87beb8124bbd9025b8105a
 
 
 23 straipsnį pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. 25 straipsnio pakeitimas
+### 3 straipsnis. 25 straipsnio pakeitimas ^s-18bf6b765e30e733454249cb
 
 
 25 straipsnyje išbraukti žodžius „taip pat apskričių viršininkų“ ir šį straipsnį išdėstyti taip:
@@ -64,7 +69,7 @@ Karo komendantų veiklą atliekant vietos savivaldos institucijų funkcijas pri�
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-dccda949e03217a54d8554bd
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

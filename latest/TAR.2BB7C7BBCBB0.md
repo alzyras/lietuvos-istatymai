@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2BB7C7BBCBB0"
 pavadinimas: "Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas"
+  - "biudžetinių įstaigų įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-04"
 latest_path: "latest/TAR.2BB7C7BBCBB0.md"
 latest_sha256: "217a3bcfb81eaa1f1992fa26322040b22bf22764a0092ef4226f81f8eaa57304"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2BB7C7BBCBB0]]"
 ---
 # Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2BB7C7BBCBB0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2BB7C7BBCBB0
+- Ryšiai: [[Ryšiai/TAR.2BB7C7BBCBB0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-b7b82c8be09fbdb82377e0ab
 
 
 Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
@@ -40,34 +45,34 @@ Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 „4 straipsnis. Biudžetinių įstaigų reorganizavimas ir likvidavimas
 
 
-1. Biudžetinių įstaigų veikla pasibaigia likvidavimo arba reorganizavimo būdu. ^ae3ef06361609979b8737cae
+1. Biudžetinių įstaigų veikla pasibaigia likvidavimo arba reorganizavimo būdu. ^s-720b089055b7a0b9f4974de0
 
 
-2. Biudžetinės įstaigos gali būti likviduojamos tik Civilinio kodekso nustatytais pagrindais. ^c843e443f9338d871a1a8a3c
+2. Biudžetinės įstaigos gali būti likviduojamos tik Civilinio kodekso nustatytais pagrindais. ^s-d82ba59ec5447b0c05e0efe6
 
 
-3. Biudžetinės įstaigos gali būti reorganizuojamos į šių formų juridinio asmens teises turinčias įstaigas ar įmones: ^9856ca8893f5e53812474719
+3. Biudžetinės įstaigos gali būti reorganizuojamos į šių formų juridinio asmens teises turinčias įstaigas ar įmones: ^s-1d8761725c2d05d34955f685
 
 
-1) biudžetines įstaigas (sujungus ar išskaidžius); ^c5d61df54277df4645b35413
+1) biudžetines įstaigas (sujungus ar išskaidžius); ^s-11e54b3dcc411630bca7a974
 
 
-2) valstybės ar savivaldybės įmones; ^9bf905a2fc81e5b81354d3b2
+2) valstybės ar savivaldybės įmones; ^s-36eb60426040a6575e5ba6ae
 
 
-3) viešąsias įstaigas. ^0bf96e93351b030626a003f8
+3) viešąsias įstaigas. ^s-044cdb0b00f9d3ac4d0bfe79
 
 
-4. Sprendimą dėl biudžetinės įstaigos reorganizavimo priima valstybinė ar savivaldybės institucija, įstaiga, priėmusi teisės aktą dėl biudžetinės įstaigos steigimo. ^e42799b3b791364cb83dc814
+4. Sprendimą dėl biudžetinės įstaigos reorganizavimo priima valstybinė ar savivaldybės institucija, įstaiga, priėmusi teisės aktą dėl biudžetinės įstaigos steigimo. ^s-ede7fdccfd4253d3810d54dc
 
 
-5. Reorganizuojamos biudžetinės įstaigos, kuri išlaikoma iš valstybės biudžeto, įvertintas turtas perduodamas Vyriausybės nustatyta tvarka steigiamai valstybės įmonei valdyti, naudoti ir juo disponuoti patikėjimo teise. ^cea54a25969d36445f445402
+5. Reorganizuojamos biudžetinės įstaigos, kuri išlaikoma iš valstybės biudžeto, įvertintas turtas perduodamas Vyriausybės nustatyta tvarka steigiamai valstybės įmonei valdyti, naudoti ir juo disponuoti patikėjimo teise. ^s-77d8297aa5ddacc5a6000fc1
 
 
-6. Reorganizuojamos biudžetinės įstaigos, kuri išlaikoma iš savivaldybės biudžeto, įvertintas turtas perduodamas Vyriausybės nustatyta tvarka steigiamai savivaldybės įmonei valdyti, naudoti ir juo disponuoti patikėjimo teise. ^e70be5b497146810659d9261
+6. Reorganizuojamos biudžetinės įstaigos, kuri išlaikoma iš savivaldybės biudžeto, įvertintas turtas perduodamas Vyriausybės nustatyta tvarka steigiamai savivaldybės įmonei valdyti, naudoti ir juo disponuoti patikėjimo teise. ^s-f12491f70e9cb0884511ef3b
 
 
-7. Kai biudžetinė įstaiga reorganizuojama į viešąją įstaigą, jos įvertintas turtas Vyriausybės nustatyta tvarka steigėjo sprendimu perduodamas steigiamai viešajai įstaigai panaudos sutarties pagrindais.“ ^080fa421b4daeb6841c543fc
+7. Kai biudžetinė įstaiga reorganizuojama į viešąją įstaigą, jos įvertintas turtas Vyriausybės nustatyta tvarka steigėjo sprendimu perduodamas steigiamai viešajai įstaigai panaudos sutarties pagrindais.“ ^s-06cdc0200f6137fc1d95b1ee
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FF719C66AB38"
 pavadinimas: "Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio pakeitimo ir 6 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio pakeitimo ir 6 straipsnio papildymo įstatymas"
+  - "žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio pakeitimo ir 6 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-05"
 latest_path: "latest/TAR.FF719C66AB38.md"
 latest_sha256: "d527b6994261787a38b589b3810506adababd2fb0bc1ea6ace3cfdc34de655d2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FF719C66AB38]]"
 ---
 # Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio pakeitimo ir 6 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FF719C66AB38.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FF719C66AB38
+- Ryšiai: [[Ryšiai/TAR.FF719C66AB38|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,17 +41,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-cf294987771414f1fda97928
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Kai ketinama žemę paimti visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, projektą įgyvendinanti institucija kreipiasi į Vyriausybę su prašymu priimti nutarimą pradėti žemės paėmimo visuomenės poreikiams procedūrą. Projektą įgyvendinanti institucija kartu su prašymu Vyriausybei pateikia ypatingos valstybinės svarbos projekto specialiojo plano (toliau – specialusis planas) projektą, parengtą Lietuvos Respublikos teritorijų planavimo įstatymo (toliau – Teritorijų planavimo įstatymas) nustatyta tvarka, žemės sklypų, kurių visą plotą arba jų dalis numatoma paimti visuomenės poreikiams, sąrašą, taip pat valstybinės žemės sklypų, kurių valstybinės žemės nuomos ar panaudos sutartis numatoma nutraukti, sąrašą su nurodytais šių plotų savininkais ir (ar) kitais naudotojais ir šių žemės sklypų unikaliais numeriais. Projektą įgyvendinančiai institucijai informaciją apie numatomus paimti visuomenės poreikiams žemės sklypus pateikia Nekilnojamojo turto registro tvarkytojas.“
+„1. Kai ketinama žemę paimti visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, projektą įgyvendinanti institucija kreipiasi į Vyriausybę su prašymu priimti nutarimą pradėti žemės paėmimo visuomenės poreikiams procedūrą. Projektą įgyvendinanti institucija kartu su prašymu Vyriausybei pateikia ypatingos valstybinės svarbos projekto specialiojo plano (toliau – specialusis planas) projektą, parengtą [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymo]] (toliau – [[latest/TAR.26B563184529|Teritorijų planavimo įstatymas]]) nustatyta tvarka, žemės sklypų, kurių visą plotą arba jų dalis numatoma paimti visuomenės poreikiams, sąrašą, taip pat valstybinės žemės sklypų, kurių valstybinės žemės nuomos ar panaudos sutartis numatoma nutraukti, sąrašą su nurodytais šių plotų savininkais ir (ar) kitais naudotojais ir šių žemės sklypų unikaliais numeriais. Projektą įgyvendinančiai institucijai informaciją apie numatomus paimti visuomenės poreikiams žemės sklypus pateikia Nekilnojamojo turto registro tvarkytojas.“
 
 
 
-### 2 straipsnis. 6 straipsnio papildymas 6 dalimi
+### 2 straipsnis. 6 straipsnio papildymas 6 dalimi ^s-e1395d9f1e6e585c0936eba3
 
 
 Papildyti 6 straipsnį 6 dalimi:
@@ -56,10 +61,10 @@ Papildyti 6 straipsnį 6 dalimi:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-bd1c7f8a0505d260f1758b03
 
 
-Šio įstatymo [[#1 straipsnis. 4 straipsnio 1 dalies pakeitimas|1 straipsnis]] įsigalioja 2012 m. liepos 1 d.
+Šio įstatymo [[#^s-cf294987771414f1fda97928|1 straipsnis]] įsigalioja 2012 m. liepos 1 d.
 
 
 

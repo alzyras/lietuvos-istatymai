@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DD687094A4E6"
 pavadinimas: "Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-20"
 latest_path: "latest/TAR.DD687094A4E6.md"
 latest_sha256: "2d513e9db4f5303c137e3cf2678009ad3ee2862ad8a7ddae75ffad260ac91f51"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DD687094A4E6]]"
 ---
 # Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DD687094A4E6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DD687094A4E6
+- Ryšiai: [[Ryšiai/TAR.DD687094A4E6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

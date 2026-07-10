@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4C56E871C63"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių\" pakeitimo ir papildymo\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių\" pakeitimo ir papildymo\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-07-15"
 latest_path: "latest/TAR.B4C56E871C63.md"
 latest_sha256: "07a36fe5b407de72bcf8a26e7d04f6d54a3e3a8a0ad9b490b0f52c35af666246"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4C56E871C63]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4C56E871C63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4C56E871C63
+- Ryšiai: [[Ryšiai/TAR.B4C56E871C63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

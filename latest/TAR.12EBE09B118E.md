@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.12EBE09B118E"
 pavadinimas: "Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymo 1 priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymo 1 priedėlio pakeitimo įstatymas"
+  - "1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymo 1 priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-11"
 latest_path: "latest/TAR.12EBE09B118E.md"
 latest_sha256: "32198570364c8459e2e27e4ec573abcddefbed58d19b5c6dc164bb5e6d1879bd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.12EBE09B118E]]"
 ---
 # Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymo 1 priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.12EBE09B118E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.12EBE09B118E
+- Ryšiai: [[Ryšiai/TAR.12EBE09B118E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 1 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-d27a375178409831b3bf04e3
 
 
 1 priedėlio dalyje „Išlaidos“ skirsnyje „II. Apskritys“ vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį skirsnį išdėstyti taip:

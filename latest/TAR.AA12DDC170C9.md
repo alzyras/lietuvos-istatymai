@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AA12DDC170C9"
 pavadinimas: "Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas"
+  - "neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.AA12DDC170C9.md"
 latest_sha256: "0f81a5af32cce49b697f0dfbffbd7a1d899ba40ccb84675e74c2eefa34f14c9b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AA12DDC170C9]]"
 ---
 # Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AA12DDC170C9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AA12DDC170C9
+- Ryšiai: [[Ryšiai/TAR.AA12DDC170C9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,39 +34,39 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimas netekusiais galios
+### 1 straipsnis.         Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimas netekusiais galios ^s-cafe020a6957c31281a7a275
 
 
 Įsigaliojus šiam Įstatymui, netenka galios šie teisės aktai:
 
 
-1) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymas (Žin., 1996, Nr. 116-2689); ^21a319fadd8599bb049fbcc8
+1) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymas (Žin., 1996, Nr. 116-2689); ^s-c70c20cc99f80cea5e98d274
 
 
-2) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo 2, 3, 4, 8 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1997, Nr. 67-1667); ^4ac55c75e7ba06eac2eea670
+2) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo 2, 3, 4, 8 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1997, Nr. 67-1667); ^s-56dc54d6c234dec06ec90b36
 
 
-3) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo [[#3 straipsnis. Įstatymo įsigaliojimas|3 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 39-1356); ^e177dfad00d3559e3dde3028
+3) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo [[#^s-359426bc0455112e9357e0c0|3 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 39-1356); ^s-0cfb30baa032a015489d2def
 
 
-4) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo 3, 5, 6 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 90-3146); ^48335b0b66ca8ead1dbe6d11
+4) Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo 3, 5, 6 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 90-3146); ^s-fc2dc451e5f9ff3a50bcb3d1
 
 
-5) Lietuvos Respublikos Seimo nutarimas „Dėl Neapmuitinamų parduotuvių įstatymo įgyvendinimo“ (Žin., 1996, Nr. 116-2698). ^7a003d435042625c15259754
-
-
-
-### 2 straipsnis. Baigiamosios nuostatos
-
-
-1. Neapmuitinamos parduotuvės, įsteigtos vadovaujantis Neapmuitinamų parduotuvių įstatymu bei jo taikymą reglamentuojančiais teisės aktais tarptautiniuose oro ar jūrų uostuose ir pradėjusios veiklą iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d., atlikus jose esančių prekių inventorizaciją ir prekių likučiams teisės aktų nustatyta tvarka įforminus muitinės sankcionuotus veiksmus, gali toliau tęsti veiklą teisės aktų nustatyta tvarka kaip neapmuitinamos parduotuvės. ^5819f492805a879fb948c0ff
-
-
-2. Neapmuitinamos parduotuvės, įsteigtos vadovaujantis Neapmuitinamų parduotuvių įstatymu bei jo taikymą reglamentuojančiais teisės aktais valstybės sienos sausumos perėjimo punktuose ir pradėjusios veiklą iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d., atlikus jose esančių prekių inventorizaciją ir prekių likučiams teisės aktų nustatyta tvarka įforminus muitinės sankcionuotus veiksmus, gali toliau veikti kaip parduotuvės, teisės aktų nustatyta tvarka vykdančios mažmeninę prekybą laisvoje apyvartoje esančiomis prekėmis. ^931f9c7db58e29cd1938e915
+5) Lietuvos Respublikos Seimo nutarimas „Dėl Neapmuitinamų parduotuvių įstatymo įgyvendinimo“ (Žin., 1996, Nr. 116-2698). ^s-8565b787c707599bf1740da0
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Baigiamosios nuostatos ^s-cf02d814fb68aef0857e0b88
+
+
+1. Neapmuitinamos parduotuvės, įsteigtos vadovaujantis Neapmuitinamų parduotuvių įstatymu bei jo taikymą reglamentuojančiais teisės aktais tarptautiniuose oro ar jūrų uostuose ir pradėjusios veiklą iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d., atlikus jose esančių prekių inventorizaciją ir prekių likučiams teisės aktų nustatyta tvarka įforminus muitinės sankcionuotus veiksmus, gali toliau tęsti veiklą teisės aktų nustatyta tvarka kaip neapmuitinamos parduotuvės. ^s-35663fe337db35f33b0dbef6
+
+
+2. Neapmuitinamos parduotuvės, įsteigtos vadovaujantis Neapmuitinamų parduotuvių įstatymu bei jo taikymą reglamentuojančiais teisės aktais valstybės sienos sausumos perėjimo punktuose ir pradėjusios veiklą iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d., atlikus jose esančių prekių inventorizaciją ir prekių likučiams teisės aktų nustatyta tvarka įforminus muitinės sankcionuotus veiksmus, gali toliau veikti kaip parduotuvės, teisės aktų nustatyta tvarka vykdančios mažmeninę prekybą laisvoje apyvartoje esančiomis prekėmis. ^s-a945c3d0c9030819de824d69
+
+
+
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-359426bc0455112e9357e0c0
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

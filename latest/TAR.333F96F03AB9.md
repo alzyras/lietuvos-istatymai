@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.333F96F03AB9"
 pavadinimas: "Lietuvos Respublikos gyvūninės kilmės atliekų tvarkymo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyvūninės kilmės atliekų tvarkymo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "gyvūninės kilmės atliekų tvarkymo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-17"
 latest_path: "latest/TAR.333F96F03AB9.md"
 latest_sha256: "7d0fd06326d649343dba7dbffd82f59b3d2b9352c7744a4be847de1d5aee5939"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.333F96F03AB9]]"
 ---
 # Lietuvos Respublikos gyvūninės kilmės atliekų tvarkymo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.333F96F03AB9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.333F96F03AB9
+- Ryšiai: [[Ryšiai/TAR.333F96F03AB9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-d8d247511acf693a1fe8baae
 
 
 Lietuvos Respublikos gyvūninės kilmės atliekų tvarkymo įstatymą pripažinti netekusiu galios.

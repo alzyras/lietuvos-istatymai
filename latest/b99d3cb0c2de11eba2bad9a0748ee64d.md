@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "b99d3cb0c2de11eba2bad9a0748ee64d"
 pavadinimas: "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas"
+  - "įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-06-02"
 latest_path: "latest/b99d3cb0c2de11eba2bad9a0748ee64d.md"
 latest_sha256: "925fd0e2da55a0cb4fc4ed2436fa646ef76424d55476de8a70a4a3474df3ce93"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/b99d3cb0c2de11eba2bad9a0748ee64d]]"
 ---
 # Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/b99d3cb0c2de11eba2bad9a0748ee64d.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/b99d3cb0c2de11eba2bad9a0748ee64d
+- Ryšiai: [[Ryšiai/b99d3cb0c2de11eba2bad9a0748ee64d|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 133 straipsnio pakeitimas
+### 1 straipsnis. 133 straipsnio pakeitimas ^s-3e101c9fc7542c99c20d8f38
 
 
 Pakeisti 133 straipsnio 4 dalį ir ją išdėstyti taip:

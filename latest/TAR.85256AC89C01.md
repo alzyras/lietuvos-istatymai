@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.85256AC89C01"
 pavadinimas: "Lietuvos Respublikos statybos įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statybos įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "statybos įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.85256AC89C01.md"
 latest_sha256: "8ec0df1245297c0c9fc59def123c3ba7f0e87974a92ef1abfa833cf688f283bd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.85256AC89C01]]"
 ---
 # Lietuvos Respublikos statybos įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.85256AC89C01.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.85256AC89C01
+- Ryšiai: [[Ryšiai/TAR.85256AC89C01|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-e10ee44df916209362624820
 
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -42,13 +47,13 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-75938a49489e7999b05d767e
 
 
-1. Šis įstatymas, išskyrus [[#^58075bd75faee620774b15e6|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^e97a7ec618ac26253180a609
+1. Šis įstatymas, išskyrus [[#^s-75f864d06104e45e88b1766c|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-12e7b52110a5dfcece3b9f60
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^58075bd75faee620774b15e6
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-75f864d06104e45e88b1766c
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.31C621B02FD5"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "viešųjų pirkimų įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-27"
 latest_path: "latest/TAR.31C621B02FD5.md"
 latest_sha256: "f1e84ab3fbb30ff30e85ef3e0293b733b9150a0af3aa0c04430b789202a33ecb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.31C621B02FD5]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.31C621B02FD5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.31C621B02FD5
+- Ryšiai: [[Ryšiai/TAR.31C621B02FD5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas ^s-90ad9ad37f988eba8f2f46a3
 
 
 Pakeisti 9 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.14DAB1D4E236"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 20, 62 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 20, 62 straipsnių pakeitimo ir papildymo įstatymas"
+  - "notariato įstatymo 20, 62 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-30"
 latest_path: "latest/TAR.14DAB1D4E236.md"
 latest_sha256: "feec1b55f75c5205f457afc4eef89d7004b841707937b4b4874f058d2da6fa49"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.14DAB1D4E236]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 20, 62 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.14DAB1D4E236.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.14DAB1D4E236
+- Ryšiai: [[Ryšiai/TAR.14DAB1D4E236|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 20 straipsnio pakeitimas ir papildymas ^s-563e7a97ef25be233f672fac
 
 
 20 straipsnio 2 dalyje po žodžių „notaro atlyginimą“ įrašyti žodžius „atlygį už arbitro funkcijų atlikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose“, straipsnį papildyti 3 dalimi ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Atlikdamas arbitro funkcijas, notaras privalo vengti interesų konflikto ar kit�
 
 
 
-### 2 straipsnis. 62 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 62 straipsnio pakeitimas ir papildymas ^s-f774df4d28dc0d6fe8ad2456
 
 
 62 straipsnyje po žodžių „kūrybinį darbą“ įrašyti žodžius „arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose“, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:

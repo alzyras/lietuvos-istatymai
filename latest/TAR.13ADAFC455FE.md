@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13ADAFC455FE"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 46 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 46 straipsnio pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo 46 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-10-18"
 latest_path: "latest/TAR.13ADAFC455FE.md"
 latest_sha256: "fb571c9d2b89b10fe0e098ed2179930c753b30f07ffe929cc82b356c2f5610bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13ADAFC455FE]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 46 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13ADAFC455FE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13ADAFC455FE
+- Ryšiai: [[Ryšiai/TAR.13ADAFC455FE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 46 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 46 straipsnio 2 dalies pakeitimas ^s-a48c145dfc0245eabd17deab
 
 
 Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.926D2C141598"
 pavadinimas: "Lietuvos Respublikos patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papildymo įstatymas"
+  - "patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-31"
 latest_path: "latest/TAR.926D2C141598.md"
 latest_sha256: "be80ceac25d8968e33f0fc99ad22f3b7a58c052166eb9dfbdfedfea18e59cb0a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.926D2C141598]]"
 ---
 # Lietuvos Respublikos patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.926D2C141598.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.926D2C141598
+- Ryšiai: [[Ryšiai/TAR.926D2C141598|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies papildymas
+### 1 straipsnis. 7 straipsnio 1 dalies papildymas ^s-4ee6b234bfbec10be658d1a8
 
 
 7 straipsnio 1 dalį papildyti ir išdėstyti taip:
@@ -39,7 +44,7 @@ Vilnius
 „Teisė į patentą priklauso išradėjui arba teisių perėmėjui, arba darbdaviui, jeigu išradimas yra tarnybinis. Jeigu išradimas sukurtas įmonėje, įstaigoje, organizacijoje, atliekančioje mokslinio tyrimo, projektavimo, konstravimo ir kitus kūrybinio pobūdžio darbus pagal sutartį su užsakovu, kuris finansuoja atitinkamą darbą, teisė į išradimo patentą nustatoma šia sutartimi. Jeigu darbdavys atsisako teisės į patentą arba per keturis mėnesius nepraneša išradėjui apie ketinimą pasinaudoti šia teise, teisė į patentą pereina išradėjui. Išradimo bendraautoriai turi lygias teises į patentą, jeigu jie nėra susitarę kitaip.“
 
 
-### 2 straipsnis. 8 straipsnio pakeitimas
+### 2 straipsnis. 8 straipsnio pakeitimas ^s-8e6b1610e7d6062acb6b5ecd
 
 
 8 straipsnį pakeisti ir išdėstyti taip:
@@ -51,13 +56,13 @@ Vilnius
 Tarnybinis išradimas – tai išradimas, sukurtas:
 
 
-1) darbo sutarties, kuri numato išradybos veiklą, vykdymo metu; ^2e48fc202f3cf2eed1bfd81b
+1) darbo sutarties, kuri numato išradybos veiklą, vykdymo metu; ^s-d98e036b07b7f440741106d3
 
 
-2) esant konkrečiam pavedimui, projektavimo, konstravimo, mokslinio tyrimo arba technologijų kūrimo metu; ^6038fc2debe3d82aeb6571e5
+2) esant konkrečiam pavedimui, projektavimo, konstravimo, mokslinio tyrimo arba technologijų kūrimo metu; ^s-fab4469051779cab9bd26f5a
 
 
-3) naudojantis sukaupta įmonės, įstaigos ar organizacijos patirtimi arba jos technologijomis ir įrengimais. ^0ed600b06827220d134b67fe
+3) naudojantis sukaupta įmonės, įstaigos ar organizacijos patirtimi arba jos technologijomis ir įrengimais. ^s-62ba972918bc6b4b67f5b066
 
 
 Darbuotojas, sukūręs tarnybinį išradimą, privalo nedelsdamas apie tai raštu pranešti darbdaviui. Iki patentinės paraiškos padavimo darbdavys ir darbuotojas negali atskleisti išradimo esmės.
@@ -78,7 +83,7 @@ Jeigu tarp šalių nėra susitarimo, atlyginimo dydį nustato teismas.
 Darbdavio ir darbuotojo teisės ir pareigos, susijusios su tarnybiniais išradimais, išskyrus autorinio atlyginimo mokėjimą, pasibaigia patentui netekus galios arba po metų nuo darbo santykių nutraukimo.“
 
 
-### 3 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 22 straipsnio 1 dalies pakeitimas ^s-995e4cfc5f409996e9739029
 
 
 22 straipsnio 1 dalyje vietoj žodžių „per mėnesį“ įrašyti žodžius „per šešis mėnesius“ ir šią dalį išdėstyti taip:

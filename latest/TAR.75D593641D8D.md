@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.75D593641D8D"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 11 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 11 straipsnio papildymo įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 11 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-10-13"
 latest_path: "latest/TAR.75D593641D8D.md"
 latest_sha256: "51fff0893ff376645d6985617179ec82bbbee475f83bf118f95d9753d261bf99"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.75D593641D8D]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 11 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.75D593641D8D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.75D593641D8D
+- Ryšiai: [[Ryšiai/TAR.75D593641D8D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 11 straipsnio papildymas 4 dalimi ^s-b50d2b7685960393e188733a
 
 
 Papildyti 11 straipsnį 4 dalimi:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BE2C873A5618"
 pavadinimas: "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "naftos produktų ir naftos valstybės atsargų įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.BE2C873A5618.md"
 latest_sha256: "b43c2679011794207bbb42f7c0914293c8bf6d3441f16c5b621494e6f14e2a43"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BE2C873A5618]]"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BE2C873A5618.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BE2C873A5618
+- Ryšiai: [[Ryšiai/TAR.BE2C873A5618|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-d680e995c34dbc7c81fc6278
 
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:

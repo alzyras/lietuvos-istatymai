@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D4183EEC3714"
 pavadinimas: "Lietuvos Respublikos prokuratūros įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prokuratūros įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "prokuratūros įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-05-17"
 latest_path: "latest/TAR.D4183EEC3714.md"
 latest_sha256: "7962d89d0bac7763fc038c291c9999877a9a40a5bb13b6c40d85147b6bb1e2a8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D4183EEC3714]]"
 ---
 # Lietuvos Respublikos prokuratūros įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D4183EEC3714.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D4183EEC3714
+- Ryšiai: [[Ryšiai/TAR.D4183EEC3714|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 4 dalies 9 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 11 straipsnio 4 dalies 9 punkto pripažinimas netekusiu galios ^s-04a8c5650d6117c85d3c1be8
 
 
 11 straipsnio 4 dalies 9 punktą pripažinti netekusiu galios.

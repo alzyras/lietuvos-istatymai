@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.46779A5EF667"
 pavadinimas: "Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo"
+aliases:
+  - "Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-05-05"
 latest_path: "latest/TAR.46779A5EF667.md"
 latest_sha256: "412c3980d2775bf3c31ca9d7e8f92a33d8113bc523c96b5d42dd311ba12ce385"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.46779A5EF667]]"
 ---
 # Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.46779A5EF667.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.46779A5EF667
+- Ryšiai: [[Ryšiai/TAR.46779A5EF667|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +39,7 @@ Vilnius
 2. Vadovaujantis Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 64 straipsniu, padarytos šios išlygos dėl minėtos Konvencijos 5 straipsnio 3 dalies:
 
 
-1) Lietuvos Respublika daro išlygą, kad pagal Lietuvos Respublikos baudžiamojo proceso kodekso 104 straipsnį teisę sankcionuoti asmenų, įtariamų padarius nusikaltimą, suėmimą turi ir prokuroras. Ši išlyga galioja vienerius metus po minėtos Konvencijos įsigaliojimo Lietuvos Respublikoje;
+1) Lietuvos Respublika daro išlygą, kad pagal [[latest/TAR.EC588C321777#^s-055e0dc970cee62ce41c5ad9|Lietuvos Respublikos baudžiamojo proceso kodekso 104 straipsnį]] teisę sankcionuoti asmenų, įtariamų padarius nusikaltimą, suėmimą turi ir prokuroras. Ši išlyga galioja vienerius metus po minėtos Konvencijos įsigaliojimo Lietuvos Respublikoje;
 
 
 2) Lietuvos Respublika daro išlygą, pagal kurią minėtos Konvencijos 5 straipsnio reikalavimai nebus taikomi drausminės nuobaudos – arešto – skyrimo krašto apsaugos kariams pagal Drausmės statutą atveju.

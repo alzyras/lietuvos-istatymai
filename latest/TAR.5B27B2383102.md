@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5B27B2383102"
 pavadinimas: "Lietuvos Respublikos vidaus tarnybos statuto 41 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus tarnybos statuto 41 straipsnio pakeitimo įstatymas"
+  - "vidaus tarnybos statuto 41 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-31"
 latest_path: "latest/TAR.5B27B2383102.md"
 latest_sha256: "36a3e5330f1b78cfd8804ffef5f82a1a887315935b8544ff8186e09e5ec81762"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5B27B2383102]]"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 41 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5B27B2383102.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5B27B2383102
+- Ryšiai: [[Ryšiai/TAR.5B27B2383102|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,17 +40,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 41 straipsnio 3 dalies pakeitimas ^s-8c4a7ba69ecdc2361429c359
 
 
 Pakeisti 41 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Laikinojo nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio, taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.“
+„3. Laikinojo nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo]] nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio, taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius vadovaujantis [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo]] nuostatomis dėl ligos pašalpos skaičiavimo.“
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-f9fbd96b328d33e4b4dd132f
 
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.

@@ -1,0 +1,177 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.5C23DECF6210"
+pavadinimas: "Lietuvos Respublikos valstybės skolos įstatymas"
+---
+# Lietuvos Respublikos valstybės skolos įstatymas: ryšiai
+
+- [[latest/TAR.5C23DECF6210|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - Lietuvos Respublikos biudžeto sandaros įstatyme
+- [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos draudimo įstatyme
+- [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 4 citatos - Lietuvos Respublikos finansinio tvarumo įstatyme
+- [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - 2 citatos - Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme
+- [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 2 citatos - Lietuvos Respublikos finansinių priemonių rinkų įstatyme
+- [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 2 citatos - Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies
+- [[latest/abdb66e01e5911ef8b14c5bcce136045|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymas]] - 2 citatos - Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme
+- [[latest/TAR.3BAADED2C30B|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - 6 citatos - Indėlių ir įsipareigojimų investuotojams draudimo įstatyme
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - 8 citatos - Lietuvos Respublikos juridinių asmenų nemokumo įstatyme
+- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme
+- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 17 citatos - Mokslo ir studijų įstatyme
+- [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme
+- [[latest/c52d00a2a67511ef90b5ee8931e5ce5e|Lietuvos Respublikos nacionalinio plėtros banko įstatymas]] - 2 citatos - Lietuvos Respublikos nacionalinio plėtros banko įstatyme
+- [[latest/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 2 citatos - Lietuvos Respublikos nepaprastosios padėties įstatyme
+- [[latest/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatyme
+- [[latest/TAR.F0E2E67B1F2F|Lietuvos Respublikos turizmo įstatymas]] - 2 citatos - Lietuvos Respublikos turizmo įstatyme
+- [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės iždo įstatyme
+- [[latest/TAR.55627FB64864#^s-6284e5e52558169ab4e738cf|Lietuvos Respublikos valstybės iždo įstatymas]] - 2 citatos - Valstybės iždo įstatymo 1 straipsnio 2 dalyje
+- [[latest/TAR.BA6A864AC40A|Lietuvos Respublikos valstybės skolos įstatymo 12 straipsnio pakeitimo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D385B6F4C277|Lietuvos Respublikos valstybės skolos įstatymo 2 ir 7(1) straipsnių pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2 IR 7(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.45BC14BF2697|Lietuvos Respublikos valstybės skolos įstatymo 2 straipsnio pakeitimo ir papildymo 7(1) straipsniu įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+- [[latest/TAR.5CC964AA82B7|Lietuvos Respublikos valstybės skolos įstatymo 2, 3, 7(1), 9, 10 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2, 3, 7(1), 9, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.8E85A0F97A35|Lietuvos Respublikos valstybės skolos įstatymo 3, 8, 12 straipsnių pakeitimo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 3, 8, 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.DB423E65F2ED|Lietuvos Respublikos valstybės skolos įstatymo 3, 8, 12 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 3, 8, 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.1750973422AC|Lietuvos Respublikos valstybės skolos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 4 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.7427A73C8004|Lietuvos Respublikos valstybės skolos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 4 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.9861C6727E54|Lietuvos Respublikos valstybės skolos įstatymo 4, 5 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 4, 5 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.7742FA7CFED9|Lietuvos Respublikos valstybės skolos įstatymo 4, 7 ir 9 straipsnių pakeitimo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 4, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.5F576CA1068D|Lietuvos Respublikos valstybės skolos įstatymo 7 straipsnio pakeitimo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/e57ae2724cdb11f0b070ee7f1ceefc75|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 1, 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XV-267
+- [[latest/1587a98000e011ed8fa7d02a65c371ad|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 ir 4 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIV-1164
+- [[latest/e7c1ad006f9511e8ae2bfd1913d66d57|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIII-1255
+- [[latest/eaed83504de011ec862fdcbc8b3e3e05|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-660
+- [[latest/59d01640a8ae11ef90b5ee8931e5ce5e|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIV-3097
+- [[latest/70db0810839111e993ffd4361ddf8976|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 5 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas]] - Įstatymas Nr. XIII-2130
+- [[latest/1b1ebc209f4f11e58fd1fc0b9bba68a7|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4 ir 10 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XII-2146
+- [[latest/86f4c3306fcc11e9a13eeecaacbc653f|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4 ir 8 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIII-2087
+- [[latest/771e2880cda211e6a2cac7383cbb90a3|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4, 8 ir 12 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIII-181
+- [[latest/b02a8af0353d11efbdaea558de59136c|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 ir 4 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIV-2773
+- [[latest/dd167da04acc11e4a8328599cac64d82|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 ir 6 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XII-1123
+- [[latest/0cdaa880033511edb32c9f9d8ba206f8|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-1342
+- [[latest/97bcbf50881a11ed8df094f359a60216|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-1696
+- [[latest/dbbe51723d5a11f180c9c618618421ed|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XV-814
+- [[latest/34c30a50ca0511f08918e1adc7c5b1ec|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3, 8 ir 9 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XV-538
+- [[latest/752f1440bb3411e38766a859941f6073|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3, 9 ir 10 straipsnių pakeitimo]] - Įstatymas Nr. XII-794
+- [[latest/30bcaec0693011eabee4a336e7e6fdab|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIII-2820
+- [[latest/eca1e390051711e9a5eaf2cd290f1944|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4, 7 ir 9 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIII-1787
+- [[latest/d93ce4b0b1f211eab9d9cd0c85e0b745|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Įstatymas Nr. XIII-3031
+- [[latest/962c83202f0b11efbdaea558de59136c|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Įstatymas Nr. XIV-2709
+- [[latest/34b33560697611eca9ac839120d251c4|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymo Nr. XIII-3031 2 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-845
+- [[latest/TAR.32913702641E|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo ir papildymo įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.3884166FEBB3|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - Įstatymas Nr. IX-1917
+- [[latest/TAR.513EC0FDEEE4|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - Įstatymas Nr. VIII-1298
+- [[latest/TAR.5F98821316B6|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - Įstatymas Nr. X-251
+- [[latest/TAR.B1C39951F79A|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - Įstatymas Nr. XI-1162
+- [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatymas]] - 4 citatos - Lietuvos Respublikos vertybinių popierių įstatyme
+- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 3 citatos - Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme
+- [[latest/TAR.CB6DD9C7792D|Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatymas]] - 2 citatos - Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.99E8BD4E16BC#^s-d1cb057e613a985a86c881e7|Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.BF810C72DC9D#^s-221ddd55ff268a53adbc3895|Lietuvos Respublikos 20 mln. ekiu Šiaurės investicijų banko paskolos gamtosaugos programai finansuoti įstatymo pakeitimo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.AF46C1E391F1#^s-07dacea90bc8b793d99aa20b|Lietuvos Respublikos 20 mln. eurų Šiaurės investicijų banko paskolos gamtosaugos investiciniams projektams ir kitiems savivaldybių investiciniams projektams finansuoti įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/cb6d7c909a5211eea5a28c81c82193a8#^s-8bfd2af3afe7bee1610dbd9a|Lietuvos Respublikos 2024 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/cb6d7c909a5211eea5a28c81c82193a8#^s-e844a625c98f9327f1e02d40|Lietuvos Respublikos 2024 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.777EF02C1A9E#^s-09a3504090f09dd6e53db892|Lietuvos Respublikos akcinės bendrovės "Mažeikių nafta" akcijų įsigijimo ir disponavimo jomis įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.777EF02C1A9E#^s-2fad26621185460564d2d4b9|Lietuvos Respublikos akcinės bendrovės "Mažeikių nafta" akcijų įsigijimo ir disponavimo jomis įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.18C8D43EB9DC#^s-1abe851a8e61411f6b28db20|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.18C8D43EB9DC#^s-f90912c15e5b03cb973477bf|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.712BBBFA3D41#^s-80ae3cfe0899eacfa9a321e8|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.712BBBFA3D41#^s-f0b5d29a3274af8c368db4ab|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.B31C347EE7ED#^s-30a44a5381cde0147dc56659|Lietuvos Respublikos biudžeto sandaros įstatymo 1, 2, 3, 8, 10, 14, 17, 18, 19, 20, 21, 24, 30, 31, 32, 33, 35, 37 straipsnių, penktojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo šeštuoju skirsniu ir priedu bei 16 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.B31C347EE7ED#^s-55b92943a7911ce58611429d|Lietuvos Respublikos biudžeto sandaros įstatymo 1, 2, 3, 8, 10, 14, 17, 18, 19, 20, 21, 24, 30, 31, 32, 33, 35, 37 straipsnių, penktojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo šeštuoju skirsniu ir priedu bei 16 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/328efe709d7411e9878fc525390407ce#^s-18129a83fc2676575f1363d8|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2 ir 15 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/57f8e8a043b311ec992fe4cdfceb5666#^s-607dc5ce8521f47f31bf31dc|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 6, 10, 14, 18, 19, 20, 26, 27, 30, 31, 32, 33, 34 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/57f8e8a043b311ec992fe4cdfceb5666#^s-9f233bbd0ff2a88004f4a580|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 6, 10, 14, 18, 19, 20, 26, 27, 30, 31, 32, 33, 34 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/b918a8a0c1af11ea9815f635b9c0dcef#^s-50ecc985994560ebabdd878b|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, 32 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/b918a8a0c1af11ea9815f635b9c0dcef#^s-d95385d5560930838a76eb9e|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, 32 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/32a5b942e58811f08918e1adc7c5b1ec#^s-878fa61b885ece982838db8e|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, 27 straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/32a5b942e58811f08918e1adc7c5b1ec#^s-97c67191f46405cb0e7cecd0|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, 27 straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/6e09b590a15b11eea5a28c81c82193a8#^s-7288a204799870afbd7a2466|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/6e09b590a15b11eea5a28c81c82193a8#^s-853e79378ade4dcc912f8893|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.04F64676CE77#^s-1b37e61bc00094b24e9509ad|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.04F64676CE77#^s-c815d4e1504e6a26314a856c|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/473b1f30bb3311e38766a859941f6073#^s-287c7cbbac75fef539990863|Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.EBB4FD337ADE#^s-bd33cf11ae5f258a73afd7d5|Lietuvos Respublikos finansinio tvarumo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio 2 dalies
+- [[latest/TAR.EBB4FD337ADE#^s-e0a3a44f817ee7719f4b3f68|Lietuvos Respublikos finansinio tvarumo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio 2 dalies
+- [[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^s-413c8ca6461d0823407f8259|Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio 2 dalies
+- [[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^s-9e566eb602f271154afbc341|Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio 2 dalies
+- [[latest/8c5b44506ef211e484b9c12b550436a3#^s-8d6975f59446df6623cc4e27|Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 2, 3 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/8c5b44506ef211e484b9c12b550436a3#^s-d5f2eb9ed9a099ea821f4d30|Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 2, 3 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/ffa20802e58711f08918e1adc7c5b1ec#^s-511e68d1c1b5cc31d0d67a5e|Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/ffa20802e58711f08918e1adc7c5b1ec#^s-afdbae652d16df26a4159b86|Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.2DD07D41B8F1#^s-2a50843676cae855b570c8b5|Lietuvos Respublikos fiskalinės valdysenos įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.2DD07D41B8F1#^s-f49f650ce0c303d84b2c9939|Lietuvos Respublikos fiskalinės valdysenos įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/20cc6a40c26e11ea9815f635b9c0dcef#^s-13b4bbb336487c29ee21701f|Lietuvos Respublikos inovacijų skatinimo fondo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/20cc6a40c26e11ea9815f635b9c0dcef#^s-815c351dd5031f3991a5f247|Lietuvos Respublikos inovacijų skatinimo fondo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/374c03b014ec11ee9f7ec2ffce8b47bc#^s-11a4b8db3f3dcca5811ee3ab|Lietuvos Respublikos inovacijų skatinimo fondo įstatymo Nr. XIII-3167 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/374c03b014ec11ee9f7ec2ffce8b47bc#^s-ff2bfe331a669bf2477888d0|Lietuvos Respublikos inovacijų skatinimo fondo įstatymo Nr. XIII-3167 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.C7E57DF3CEC5#^s-2782477d1dee101333732479|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.C7E57DF3CEC5#^s-b689941f879c93285cc40239|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.24A4318DC15F#^s-be44878f28029f4339c5cec5|Lietuvos Respublikos investicijų įstatymo 2, 4 straipsnių papildymo ir pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.24A4318DC15F#^s-cb75ea06ede3dbd0e0c59ea4|Lietuvos Respublikos investicijų įstatymo 2, 4 straipsnių papildymo ir pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/9fe4fd70697411eca9ac839120d251c4#^s-72b3f4b0e562eb4d770b3c04|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/9fe4fd70697411eca9ac839120d251c4#^s-f587a1db5539b1b390278040|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/2aecc7501ba211e4b542dec0b12e28b0#^s-08b11dd83d2ce05bae21fe74|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, 11 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/2aecc7501ba211e4b542dec0b12e28b0#^s-714eea94435c5732e3fd4a69|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, 11 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/2502dfc0839211e993ffd4361ddf8976#^s-83511b5541435ab2d615674c|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, 52 straipsnių pakeitimo ir 52, 53 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/2502dfc0839211e993ffd4361ddf8976#^s-d1ecc92537ef586469531cee|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, 52 straipsnių pakeitimo ir 52, 53 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/caf5cd4048f611e6b5d09300a16a686c#^s-c638753436e950de4aa9ff42|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/caf5cd4048f611e6b5d09300a16a686c#^s-c844671ff72d5b9f6c1295e1|Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/c52d00a2a67511ef90b5ee8931e5ce5e#^s-7488e18f3948047eb804cb98|Lietuvos Respublikos nacionalinio plėtros banko įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/c52d00a2a67511ef90b5ee8931e5ce5e#^s-930bf909c8a8e9ecb9508da3|Lietuvos Respublikos nacionalinio plėtros banko įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.62CDCF8E8AB3#^s-d133d68060880c2d9af1f1f6|Lietuvos Respublikos paskolos iš Europos investicijų banko Lietuvos žvyrkelių projektui finansuoti įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.55BCCA64A827#^s-0610a08a8a061a7ed219d183|Lietuvos Respublikos paskolų akcinei bendrovei "Mažeikių nafta" finansuoti ėmimo iš kreditorių ir valstybės garantijų kreditoriams suteikimo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.55BCCA64A827#^s-ce86421c4aa3eee044967023|Lietuvos Respublikos paskolų akcinei bendrovei "Mažeikių nafta" finansuoti ėmimo iš kreditorių ir valstybės garantijų kreditoriams suteikimo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.BA97C90CAF2D#^s-298ca142cce9379c660b9ea3|Lietuvos Respublikos paskolų iš Europos investicijų banko Lietuvos geležinkelių projektui finansuoti įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.3E0EAAA8CA4D#^s-5edaf33532a4d3b2b7f03db0|Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės "Mažeikių nafta" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės "Mažeikių nafta" apyvartinėms lėšoms papildyti įstatymo 1 ir 2 straipsnių pakeitimo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.87F70970DE7A#^s-2afe83ff6bb99d25c9983cf9|Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės "Mažeikių nafta" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei būtingės naftos terminalo statybos projektui finansuoti ir bendrovės "Mažeikių nafta" apyvartinėms lėšoms papildyti įstatymo pakeitimo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.53935ABD28C4#^s-6ec7b9256929d41575598681|Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.4004446C676A#^s-144b7b401fe67195eccfd253|Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo įstatymas]] - Valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.CEA1026F3BBB#^s-0d94c5fc42e62a56cdc259d4|Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymas]] - Valstybės skolos įstatymu
+- [[latest/TAR.CEA1026F3BBB#^s-f2658ef20eeadd13432f2876|Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymas]] - Valstybės skolos įstatymu
+- [[latest/TAR.A3A4781BBD0D#^s-0064c30bb55c88344e4eb9a7|Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas]] - Valstybės skolos įstatymu
+- [[latest/TAR.A3A4781BBD0D#^s-04015c0e234462d178bf4084|Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas]] - Valstybės skolos įstatymu
+- [[latest/TAR.F31E79DEC55D#^s-b0578318268cd83aad173e5f|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.F31E79DEC55D#^s-f81b7e73dacb044585e9e9a5|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/0afc41b2715c11f1b53dfa020e517810#^s-cad40b5cf45038c7166d8091|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 11-1, 11-2, 27, 51, 53 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 51-1 straipsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/0afc41b2715c11f1b53dfa020e517810#^s-ef35a7813194ee5f011c66b6|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 11-1, 11-2, 27, 51, 53 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 51-1 straipsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.61CC8B2A3EC3#^s-5e0815a5c426ccb48fec811d|Lietuvos Respublikos struktūrinio pertvarkymo paskolos iš Tarptautinio rekonstrukcijos ir plėtros banko įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 5 straipsnio 1 dalimi
+- [[latest/TAR.74733D7DB1CF#^s-8ca6fd3d783447a777ee9d4a|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/TAR.74733D7DB1CF#^s-fae7925f0259c7b4203cb25d|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/5b9949b0051711e9a5eaf2cd290f1944#^s-6dc0732b6dbf43aa04493e3f|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 5 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/5b9949b0051711e9a5eaf2cd290f1944#^s-b8ac4bf287aa798a513e984f|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 5 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatyme
+- [[latest/32086e9055cf11f0b070ee7f1ceefc75#^s-9d3b8a4d223853572b434836|Lietuvos Respublikos Valstybinio kelių fondo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio
+- [[latest/32086e9055cf11f0b070ee7f1ceefc75#^s-adbdff7a98f4a9aa7ddef8cd|Lietuvos Respublikos Valstybinio kelių fondo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio
+- [[latest/b31ceed2748b11f1b53dfa020e517810#^s-5341bf3102b9721c9edef179|Lietuvos Respublikos valstybinio kelių fondo įstatymo Nr. XV-372 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio
+- [[latest/b31ceed2748b11f1b53dfa020e517810#^s-bb58231d59462ddbd4b05ae6|Lietuvos Respublikos valstybinio kelių fondo įstatymo Nr. XV-372 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 3 straipsnio
+- [[latest/TAR.BA573C8F4613#^s-40eb0d2e9591cb8cc84e6224|Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.418BDE2AE59D#^s-73ac0a408d32346b8be8a8eb|Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.55627FB64864#^s-269c3ebfde0657b1767c11a9|Lietuvos Respublikos valstybės iždo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.55627FB64864#^s-8e85763c8b75beede67cfb50|Lietuvos Respublikos valstybės iždo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.55627FB64864#^s-a3709f33ed5eba743a4097d8|Lietuvos Respublikos valstybės iždo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.55627FB64864#^s-fe62e5c883d97953106dc682|Lietuvos Respublikos valstybės iždo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/22fa128092b811e5a6f4e928c954d72b#^s-562e73012e1baaed077d15f6|Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 1, 9, 11 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/22fa128092b811e5a6f4e928c954d72b#^s-571a1ab94c6505efd35272a9|Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 1, 9, 11 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/7ce71ed04ddf11ec862fdcbc8b3e3e05#^s-a8bb1144cb533877f217eb72|Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas]] - Valstybės skolos įstatymo
+- [[latest/7ce71ed04ddf11ec862fdcbc8b3e3e05#^s-f4a51e8cfcad989e8a069f80|Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas]] - Valstybės skolos įstatymo
+- [[latest/TAR.BF4DC51551EA#^s-2afd5c285b607db8eb271135|Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.0D8EB9DBD945#^s-5b8c1de10e16e95cc191477a|Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.0D8EB9DBD945#^s-b79cd0edd83c50b5cfea5655|Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.BF4DC51551EA#^s-b8b94a342368f567b9660b69|Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.BF4DC51551EA#^s-c7fcb79beef30485c053272c|Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/1587a98000e011ed8fa7d02a65c371ad#^s-acde70d87f2234973390127f|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 4 straipsnio 4 dalies 10 punktas
+- [[latest/1587a98000e011ed8fa7d02a65c371ad#^s-bbae187172ebf6fab639748f|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 4 straipsnio 4 dalies 10 punktas
+- [[latest/962c83202f0b11efbdaea558de59136c#^s-4d356a55a2429e726e78defe|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 9 straipsnio 1 dalies
+- [[latest/d93ce4b0b1f211eab9d9cd0c85e0b745#^s-6692b9e17ca522e78df7aa60|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - įstatymo Nr. I-1508
+- [[latest/962c83202f0b11efbdaea558de59136c#^s-7df50d18915997a169606e23|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMAS
+- [[latest/d93ce4b0b1f211eab9d9cd0c85e0b745#^s-9967e31318812523469064ba|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - įstatymo Nr. I-1508
+- [[latest/962c83202f0b11efbdaea558de59136c#^s-af9c61a73376631ac4794b2b|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo 9 straipsnio 1 dalies
+- [[latest/d93ce4b0b1f211eab9d9cd0c85e0b745#^s-ba515d8b1fdb2f1d89afaa63|Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMAS
+- [[latest/TAR.3884166FEBB3#^s-2bef8ca2e08b3aaaaf9641e0|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.B1C39951F79A#^s-373312347f9dad1e45f88fea|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMAS
+- [[latest/TAR.513EC0FDEEE4#^s-5986cf912208db72e147a23b|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMAS
+- [[latest/TAR.5F98821316B6#^s-607887501cc222f27c91efae|Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMAS

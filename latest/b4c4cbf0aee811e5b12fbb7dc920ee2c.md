@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "b4c4cbf0aee811e5b12fbb7dc920ee2c"
 pavadinimas: "Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas"
+  - "informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2016-01-01"
 latest_path: "latest/b4c4cbf0aee811e5b12fbb7dc920ee2c.md"
 latest_sha256: "ed665fff8419d69fbdc27795c43372255a19ce49745427b438cc18d7522136ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/b4c4cbf0aee811e5b12fbb7dc920ee2c]]"
 ---
 # Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/b4c4cbf0aee811e5b12fbb7dc920ee2c.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/b4c4cbf0aee811e5b12fbb7dc920ee2c
+- Ryšiai: [[Ryšiai/b4c4cbf0aee811e5b12fbb7dc920ee2c|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio pakeitimas
+### 1 straipsnis. 39 straipsnio pakeitimas ^s-304c44176603b900070a9947
 
 
 Pakeisti 39 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 39 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-eef382ccb67814c7e6d10776
 
 
 Šis įstatymas įsigalioja 2016 m. sausio 1 d.

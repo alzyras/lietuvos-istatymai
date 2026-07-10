@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F12BE93BBB67"
 pavadinimas: "Dėl Lietuvos Respublikos prokuratūros įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos prokuratūros įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-11-09"
 latest_path: "latest/TAR.F12BE93BBB67.md"
 latest_sha256: "078040dca3d4ccca3e67239016c4a2da061c25ce7ee05fb83bd983dcd0f0c2ae"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F12BE93BBB67]]"
 ---
 # Dėl Lietuvos Respublikos prokuratūros įstatymo ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F12BE93BBB67.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F12BE93BBB67
+- Ryšiai: [[Ryšiai/TAR.F12BE93BBB67|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

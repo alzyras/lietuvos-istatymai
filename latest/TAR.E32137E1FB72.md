@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E32137E1FB72"
 pavadinimas: "Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 28 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 28 straipsnio papildymo įstatymas"
+  - "psichikos sveikatos priežiūros įstatymo 28 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-16"
 latest_path: "latest/TAR.E32137E1FB72.md"
 latest_sha256: "531bfe0a0bf05466d56bbdcb84e6438047137e01dc8b097462895170bb49a96c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E32137E1FB72]]"
 ---
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 28 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E32137E1FB72.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E32137E1FB72
+- Ryšiai: [[Ryšiai/TAR.E32137E1FB72|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 28 straipsnio papildymas 4 dalimi ^s-814a7d762656f8db9ccf02f9
 
 
 Papildyti 28 straipsnį 4 dalimi:

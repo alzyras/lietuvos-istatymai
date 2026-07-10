@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0FF68A3EF9D3"
 pavadinimas: "Lietuvos Respublikos civilinio proceso kodekso 145 straipsnio papildymo ir pakeitimo ir Kodekso papildymo 267-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio proceso kodekso 145 straipsnio papildymo ir pakeitimo ir Kodekso papildymo 267-1 straipsniu įstatymas"
+  - "civilinio proceso kodekso 145 straipsnio papildymo ir pakeitimo ir Kodekso papildymo 267-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-11-18"
 latest_path: "latest/TAR.0FF68A3EF9D3.md"
 latest_sha256: "b94ebd4025f1b483f84d0ed0fe00460512a2f81f3a1e097ccae5286294bfb449"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0FF68A3EF9D3]]"
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 145 straipsnio papildymo ir pakeitimo ir Kodekso papildymo 267-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0FF68A3EF9D3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0FF68A3EF9D3
+- Ryšiai: [[Ryšiai/TAR.0FF68A3EF9D3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,20 +40,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 145 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 145 straipsnio papildymas ir pakeitimas ^s-8e5c9d4b8b4f1d3ccf683cc2
 
 
-1. Papildyti 145 straipsnį nauja 3 dalimi: ^627ad7029816b60ebfbcbf0a
+1. Papildyti 145 straipsnį nauja 3 dalimi: ^s-3bad2bd9d6fda33671c7e115
 
 
-„3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti [[#^627ad7029816b60ebfbcbf0a|šio straipsnio 1 dalies]] 6, 7, 12 ir 13 punktuose nustatytų laikinųjų apsaugos priemonių, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą bankams.“
+„3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti [[#^s-3bad2bd9d6fda33671c7e115|šio straipsnio 1 dalies]] 6, 7, 12 ir 13 punktuose nustatytų laikinųjų apsaugos priemonių, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą bankams.“
 
 
-2. Buvusias 145 straipsnio 3, 4, 5, 6, 7, 8 dalis laikyti atitinkamai 4, 5 , 6, 7, 8, 9 dalimis. ^fb80bfb4ca166b2d4bcdcde3
+2. Buvusias 145 straipsnio 3, 4, 5, 6, 7, 8 dalis laikyti atitinkamai 4, 5 , 6, 7, 8, 9 dalimis. ^s-f5816c14e22dfb293625dc17
 
 
 
-### 2 straipsnis. Kodekso papildymas 2671 straipsniu
+### 2 straipsnis. Kodekso papildymas 2671 straipsniu ^s-4806772e3f591b38ee99d1bc
 
 
 Papildyti Kodeksą 2671 straipsniu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.79F88F4003F3"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių \"Būtingės nafta\", \"Mažeikių nafta\" ir \"Naftotiekis\" reorganizavimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių \"Būtingės nafta\", \"Mažeikių nafta\" ir \"Naftotiekis\" reorganizavimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas"
+  - "akcinių bendrovių \"Būtingės nafta\", \"Mažeikių nafta\" ir \"Naftotiekis\" reorganizavimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-11-05"
 latest_path: "latest/TAR.79F88F4003F3.md"
 latest_sha256: "f2ace9c031918cd6c9ea361dcc50b31f62a045975a7823dbd0fdb5a2da072f8d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.79F88F4003F3]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.79F88F4003F3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.79F88F4003F3
+- Ryšiai: [[Ryšiai/TAR.79F88F4003F3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-420bed4a54e2844e12146be0
 
 
 1 straipsnio 2 dalyje po žodžių „šis įstatymas“ įrašyti žodžius „ar kiti įstatymai“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-b7ced8a61fce7ea824facb38
 
 
 3 straipsnio 3 dalies paskutiniame sakinyje įrašyti žodžius „jeigu kiti įstatymai nenustato kitaip“ ir šią dalį išdėstyti taip:

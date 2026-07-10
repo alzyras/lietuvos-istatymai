@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9D4059EF0E98"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-05"
 latest_path: "latest/TAR.9D4059EF0E98.md"
 latest_sha256: "8cf3e8956eba0473e418dabe801797883ce946120e67a33d08a53829acf26640"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9D4059EF0E98]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9D4059EF0E98.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9D4059EF0E98
+- Ryšiai: [[Ryšiai/TAR.9D4059EF0E98|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas ^s-69859cd4e08a6e592049ff79
 
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -44,10 +49,10 @@ Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-35f3397f0651176d70f57591
 
 
-Šio įstatymo [[#1 straipsnis. 21 straipsnio 1 dalies pakeitimas|1 straipsnio]] nuostatos taikomos apskaičiuojant 2008 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
+Šio įstatymo [[#^s-69859cd4e08a6e592049ff79|1 straipsnio]] nuostatos taikomos apskaičiuojant 2008 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 
 
 

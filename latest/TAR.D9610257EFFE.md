@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D9610257EFFE"
 pavadinimas: "Dėl Lietuvos Respublikos notariato įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos notariato įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-28"
 latest_path: "latest/TAR.D9610257EFFE.md"
 latest_sha256: "77afae09e04dd64f02f169c3ee7c64a8eeb50dc21c2d6c823b99b15c34d7e93c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D9610257EFFE]]"
 ---
 # Dėl Lietuvos Respublikos notariato įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D9610257EFFE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D9610257EFFE
+- Ryšiai: [[Ryšiai/TAR.D9610257EFFE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

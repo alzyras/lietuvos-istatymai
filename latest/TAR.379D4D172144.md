@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.379D4D172144"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 8 ir 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 8 ir 10 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 8 ir 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.379D4D172144.md"
 latest_sha256: "082ffff2acccdf646e3c5ed541698925c2761e8855a3b120b000f36c6ee428a3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.379D4D172144]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 8 ir 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.379D4D172144.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.379D4D172144
+- Ryšiai: [[Ryšiai/TAR.379D4D172144|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,32 +36,32 @@ Vilnius
 
 
 
-### 1 straipsnis.         2 straipsnio 1 dalies 6, 7, 8 punktų pakeitimas ir 9 punkto pripažinimas netekusiu galios
+### 1 straipsnis.         2 straipsnio 1 dalies 6, 7, 8 punktų pakeitimas ir 9 punkto pripažinimas netekusiu galios ^s-31b25cd0715eb63f1f2bde87
 
 
-1. Pakeisti 2 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^b467502ec9988377c14a42f4
+1. Pakeisti 2 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-75059842fe1c4c66edcbfcbb
 
 
 „6) nedirbantys valstybės tarnautojų ir profesinės karo tarnybos karių sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar su profesinės karo tarnybos kariu, dirbančiu ar atliekančiu karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos;“.
 
 
-2. Pakeisti 2 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^621f6b4afdd07c4662244865
+2. Pakeisti 2 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^s-ad6119e9757f75fe5633c132
 
 
 „7) individualių (personalinių) įmonių savininkai, individualių (personalinių) įmonių nuomininkai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai, taip pat asmenys, kurie verčiasi individualia veikla, išskyrus individualią veiklą, kuria verčiamasi turint verslo liudijimą;“.
 
 
-3. Pakeisti 2 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip: ^c9da5c38462824da1557c2ca
+3. Pakeisti 2 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip: ^s-7b651113db6d74f88257a460
 
 
 „8) asmenys, kurie verčiasi individualia veikla turėdami verslo liudijimą;“.
 
 
-4. 2 straipsnio 1 dalies 9 punktą pripažinti netekusiu galios. ^a35c2fd17cc164a29cd837c5
+4. 2 straipsnio 1 dalies 9 punktą pripažinti netekusiu galios. ^s-d15007bfaa0bf1aa3192d493
 
 
 
-### 2 straipsnis. 8 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 4 dalies pakeitimas ^s-537ca7207b4f6311c9ea8480
 
 
 8 straipsnio 4 dalyje vietoj skaičiaus „9“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip:
@@ -66,7 +71,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-891fa854047b45b3cb42f57a
 
 
 10 straipsnio 2 dalyje vietoj datos „1999 m. gruodžio 31 d.“ įrašyti datą „2004 m. sausio 1 d.“ ir šią dalį išdėstyti taip:
@@ -76,7 +81,7 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-3276347b2db1e6a6c37a0128
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

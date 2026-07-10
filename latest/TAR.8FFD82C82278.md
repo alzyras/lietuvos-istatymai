@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8FFD82C82278"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 2, 3, 4, 7, 26, 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 2, 3, 4, 7, 26, 27 straipsnių pakeitimo įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 2, 3, 4, 7, 26, 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-06-24"
 latest_path: "latest/TAR.8FFD82C82278.md"
 latest_sha256: "8160cbe030e8cbbfde5622fd2a566038db6bbc09748d458affc47f59e85339a0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8FFD82C82278]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 2, 3, 4, 7, 26, 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8FFD82C82278.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8FFD82C82278
+- Ryšiai: [[Ryšiai/TAR.8FFD82C82278|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-5c368ac7d4201e8df3a4223f
 
 
 2 straipsnio 3 dalyje po žodžio „draudimu“ įrašyti žodžius „ir (arba) kurių profesinę veiklą reglamentuojančiuose teisės aktuose numatytas kompensacijų mokėjimas juos sužeidus arba jiems žuvus dėl tarnybos“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 3 straipsnio 9 dalies pakeitimas
+### 2 straipsnis. 3 straipsnio 9 dalies pakeitimas ^s-3bd42289465292a502fac9ad
 
 
 3 straipsnio 9 dalyje po žodžio „invalidumo“ įrašyti žodžius „arba senatvės“ ir šią dalį išdėstyti taip:
@@ -52,7 +57,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas ^s-634b34720a9f838bea78a423
 
 
 4 straipsnio 1 dalies 1 punkte po žodžio „draudimu“ įrašyti žodžius „ir (arba) kurių profesinę veiklą reglamentuojančiuose teisės aktuose numatytas kompensacijų mokėjimas juos sužeidus arba jiems žuvus dėl tarnybos“ ir šį punktą išdėstyti taip:
@@ -62,7 +67,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 7 straipsnio 2 dalies 2 punkto pakeitimas
+### 4 straipsnis. 7 straipsnio 2 dalies 2 punkto pakeitimas ^s-0d67193261217a29bb2476a5
 
 
 7 straipsnio 2 dalies 2 punkte po žodžio „pažeidimu“ įrašyti žodžius „išskyrus darbo saugos ar darbo higienos norminių teisės aktų pažeidimus“ ir šį punktą išdėstyti taip:
@@ -72,7 +77,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 26 straipsnio 1 dalies 1 punkto pakeitimas
+### 5 straipsnis. 26 straipsnio 1 dalies 1 punkto pakeitimas ^s-92472f4d76e312470586dd09
 
 
 26 straipsnio 1 dalies 1 punkte vietoj žodžio „vidurinių“ įrašyti žodžius „bendrojo lavinimo“ ir šį punktą išdėstyti taip:
@@ -82,7 +87,7 @@ Vilnius
 
 
 
-### 6 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 27 straipsnio 2 dalies pakeitimas ^s-ee211cb20c48760f6a7365a7
 
 
 27 straipsnio 2 dalyje po žodžio „profesinių“ įrašyti žodžius „bendrojo lavinimo“ ir šią dalį išdėstyti taip:

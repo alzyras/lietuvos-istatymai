@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3DCEDF97C689"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolo dėl privilegijų ir imunitetų redakcinių pataisų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolo dėl privilegijų ir imunitetų redakcinių pataisų ratifikavimo"
+  - "įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolo dėl privilegijų ir imunitetų redakcinių pataisų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-16"
 latest_path: "latest/TAR.3DCEDF97C689.md"
 latest_sha256: "49c29596628c180faba2d97548e8d4738c32e9dd4d85f7fb172dfdb39c6a59e0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3DCEDF97C689]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolo dėl privilegijų ir imunitetų redakcinių pataisų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3DCEDF97C689.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3DCEDF97C689
+- Ryšiai: [[Ryšiai/TAR.3DCEDF97C689|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo pataisų ratifikavimas
+### 1 straipsnis. Protokolo pataisų ratifikavimas ^s-831a7762fd82188a8c34d30d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1453, ratifikuoja 2001 m. birželio 25–26 d. Darmštate priimtas Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolo dėl privilegijų ir imunitetų redakcines pataisas.

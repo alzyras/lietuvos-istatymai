@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.18C09D253A47"
 pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-09-20"
 latest_path: "latest/TAR.18C09D253A47.md"
 latest_sha256: "82c173106267b4b4b60874aca440923ee1bf5c20d5aa195f071efcc9b59e7c84"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.18C09D253A47]]"
 ---
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.18C09D253A47.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.18C09D253A47
+- Ryšiai: [[Ryšiai/TAR.18C09D253A47|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -53,7 +57,7 @@ Bendru deputatų skaičiumi laikomas skaičius visų patvirtintus mandatus turin
 BAIGIAMIEJI NUOSTATAI
 
 
-### 66 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Reglamentas bei atskiri jo straipsniai gali būti naikinami arba keičiami tik Aukščiausiosios Tarybos posėdyje dalyvaujant ne mažiau kaip dviem trečdaliams bendro deputatų skaičiaus, o už tokį sprendimą turi balsuoti daugiau kaip pusė bendro deputatų skaičiaus.“
+### 66 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Reglamentas bei atskiri jo straipsniai gali būti naikinami arba keičiami tik Aukščiausiosios Tarybos posėdyje dalyvaujant ne mažiau kaip dviem trečdaliams bendro deputatų skaičiaus, o už tokį sprendimą turi balsuoti daugiau kaip pusė bendro deputatų skaičiaus.“ ^s-5b56cddb968101b8bf7852ad
 
 
 

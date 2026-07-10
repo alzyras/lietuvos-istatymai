@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "cac7fa30fed511e488da8908dfa91cac"
 pavadinimas: "Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas"
+  - "įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-05-21"
 latest_path: "latest/cac7fa30fed511e488da8908dfa91cac.md"
 latest_sha256: "af567d4b635cf07db6f8f6a491e0d772467e5094bc836d38e9074b396a9edfd1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/cac7fa30fed511e488da8908dfa91cac]]"
 ---
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/cac7fa30fed511e488da8908dfa91cac.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/cac7fa30fed511e488da8908dfa91cac
+- Ryšiai: [[Ryšiai/cac7fa30fed511e488da8908dfa91cac|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-71c19f1a2edf948f047f05aa
 
 
 Pakeisti 2 straipsnio 24 dalį ir ją išdėstyti taip:

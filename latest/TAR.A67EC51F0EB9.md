@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A67EC51F0EB9"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo įstatymo, Ligos ir motinystės socialinio draudimo įstatymo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo įstatymo, Ligos ir motinystės socialinio draudimo įstatymo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo įstatymo, Ligos ir motinystės socialinio draudimo įstatymo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.A67EC51F0EB9.md"
 latest_sha256: "71a77f6f33e5a1fd248df29fec4bfab8c52363e0d5431d02760d7511a012fc71"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A67EC51F0EB9]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo įstatymo, Ligos ir motinystės socialinio draudimo įstatymo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A67EC51F0EB9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A67EC51F0EB9
+- Ryšiai: [[Ryšiai/TAR.A67EC51F0EB9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -27,15 +32,15 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 14, 15, 16, 21, 36, 50, 54 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
+### PIRMASIS SKIRSNIS ^s-4fcec93634336b6e08624bb2
+[[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 14, 15, 16, 21, 36, 50, 54 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1994, Nr. 59-1153, Nr. 101-2017; 1995, Nr. 59-1475, Nr. 84-1901;
 1996, Nr. 68-1636; 2001, Nr. 103-3658; 2002, Nr. 47-1796)
 
 
 
-### 1 straipsnis. 14 straipsnio pakeitimas
+### 1 straipsnis. 14 straipsnio pakeitimas ^s-8573ad0f597f9dfbfed2182f
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -47,11 +52,11 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 Einamųjų metų draudžiamąsias pajamas ne rečiau kaip kartą per metus Valstybinio socialinio draudimo fondo tarybos teikimu tvirtina Lietuvos Respublikos Vyriausybė, nustatydama šių pajamų taikymo pradžią. Einamųjų metų draudžiamosios pajamos apskaičiuojamos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką, atsižvelgiant į atitinkamų metų ar atitinkamo metų laikotarpio Valstybinio socialinio draudimo fondo biudžeto pajamas ir išlaidas. Šios draudžiamosios pajamos taikomos valstybinės socialinio draudimo senatvės pensijos papildomai daliai apskaičiuoti (21 straipsnis).
 
 
-Praeitų metų draudžiamąsias pajamas ne vėliau kaip iki einamųjų metų kovo 1 d. Valstybinio socialinio draudimo fondo valdybos teikimu tvirtina Valstybinio socialinio draudimo fondo taryba. Metų draudžiamosios pajamos apskaičiuojamos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką, įvertinus tais metais galiojusias Vyriausybės patvirtintas einamųjų metų draudžiamąsias pajamas. Metų draudžiamosios pajamos taikomos apskaičiuojant asmens metinį draudžiamųjų pajamų koeficientą (15 straipsnio 1 ir [[#^4780ca3a64bf1639ba3f5b33|2 dalys]]).“
+Praeitų metų draudžiamąsias pajamas ne vėliau kaip iki einamųjų metų kovo 1 d. Valstybinio socialinio draudimo fondo valdybos teikimu tvirtina Valstybinio socialinio draudimo fondo taryba. Metų draudžiamosios pajamos apskaičiuojamos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką, įvertinus tais metais galiojusias Vyriausybės patvirtintas einamųjų metų draudžiamąsias pajamas. Metų draudžiamosios pajamos taikomos apskaičiuojant asmens metinį draudžiamųjų pajamų koeficientą (15 straipsnio 1 ir 2 dalys).“
 
 
 
-### 2 straipsnis. 15 straipsnio pakeitimas
+### 2 straipsnis. 15 straipsnio pakeitimas ^s-d752bc7474333351112b90c6
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -70,23 +75,23 @@ Jei asmens išėjimo į pensiją metais gautas draudžiamąsias pajamas naudinga
 
 
 
-### 3 straipsnis. 16 straipsnio 1 ir 4 dalių pakeitimas
+### 3 straipsnis. 16 straipsnio 1 ir 4 dalių pakeitimas ^s-c8f31a823004353fa1d773b2
 
 
-1. 16 straipsnio 1 dalyje po žodžių „apskaičiuojamas kaip“ įrašyti žodį „svertinis“ ir šią dalį išdėstyti taip: ^a1fab1710129e930d4113319
+1. 16 straipsnio 1 dalyje po žodžių „apskaičiuojamas kaip“ įrašyti žodį „svertinis“ ir šią dalį išdėstyti taip: ^s-6adbf29348ae39c9839da6a2
 
 
 „Apdraustojo asmens draudžiamųjų pajamų koeficientas apskaičiuojamas kaip svertinis metinių koeficientų vidurkis pagal dvidešimt penkerius to asmens pasirinktus palankiausius kalendorinius jo valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, metus po 1994 metų sausio 1 dienos.“
 
 
-2. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip: ^ab4c0db5325d2215904f0e35
+2. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip: ^s-ec664969b2d6a1f4a676b2ad
 
 
 „Jei stažas mažesnis už mėnesį, asmens draudžiamųjų pajamų koeficientu laikomas apdraustajam asmeniui darbo arba kitokia sutartimi nustatyto darbo užmokesčio per mėnesį santykis su tų metų, kuriais stažas įgytas, draudžiamosiomis pajamomis. Jei darbo užmokestis nebuvo nustatytas, laikoma, kad jis lygus to mėnesio minimaliai mėnesinei algai.“
 
 
 
-### 4 straipsnis. 21 straipsnio pakeitimas
+### 4 straipsnis. 21 straipsnio pakeitimas ^s-d81a803cc8fb8dae74987326
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -108,7 +113,7 @@ dydis D – Vyriausybės patvirtintos einamųjų metų draudžiamosios pajamos, 
 
 
 
-### 5 straipsnis. 36 straipsnio pakeitimas
+### 5 straipsnis. 36 straipsnio pakeitimas ^s-fde8025b7323762a4f72ce6e
 
 
 36 straipsnyje vietoj žodžių „didesnes vidutines mėnesines“ įrašyti žodžius „didesnes einamųjų metų“ ir šį straipsnį išdėstyti taip:
@@ -130,7 +135,7 @@ Senatvės ar invalidumo pensininkui mirus, valstybinės socialinio draudimo naš
 
 
 
-### 6 straipsnis. 50 straipsnio pakeitimas
+### 6 straipsnis. 50 straipsnio pakeitimas ^s-2defc6d31c4a15fd40a85240
 
 
 Pakeisti 50 straipsnį ir jį išdėstyti taip:
@@ -155,7 +160,7 @@ Jei neperskaičiuota pensija viršija ar po indeksavimo ima viršyti 500 litų, 
 
 
 
-### 7 straipsnis. 54 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 54 straipsnio 1 dalies pakeitimas ^s-e7bbb9b9db9ef1984765a3d1
 
 
 Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -165,15 +170,15 @@ Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### ANTRASIS SKIRSNIS
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 41 STRAIPSNIO PAKEITIMAS
+### ANTRASIS SKIRSNIS ^s-922e32787958e475a7f6361b
+[[latest/TAR.0F9036415DBD#^s-a83e11a675b5b0f534df111f|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 41 STRAIPSNIO]] PAKEITIMAS
 
 (Žin., 1991, Nr. 17-447; 1999, Nr. 50-1599; 2000, Nr. 58-1714)
 
 
 
 
-### 1 straipsnis. 41 straipsnio 1 dalies 5 punkto pakeitimas
+### 1 straipsnis. 41 straipsnio 1 dalies 5 punkto pakeitimas ^s-2a79e9125a4e12b7f70eefa5
 
 
 Pakeisti 41 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -183,14 +188,14 @@ Pakeisti 41 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### TREČIASIS SKIRSNIS
-LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 6, 14, 18, 21 STRAIPSNIŲ PAKEITIMAS
+### TREČIASIS SKIRSNIS ^s-7944a633d5f37ce956be5d80
+[[latest/TAR.068516AF734B#^s-58f48a1dd03a727d1b4a4f8a|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 6, 14, 18, 21 STRAIPSNIŲ]] PAKEITIMAS
 
 (Žin., 2000, Nr. 111-3574; 2002, Nr. 13-469)
 
 
 
-### 1 straipsnis. 3 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 7 dalies pakeitimas ^s-f1e46e98d309a4e24ff33382
 
 
 Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -200,23 +205,23 @@ Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas
+### 2 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas ^s-0f60cfe5ec74f201f2969c98
 
 
-1. 6 straipsnio 1 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip: ^2b77c482f0835125af8b26dd
+1. 6 straipsnio 1 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip: ^s-ad606e90ae6213e3df47b212
 
 
 „1. Jeigu pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už nedarbingumo atsiradimo bei nėštumo ir gimdymo atostogų suteikimo mėnesį galiojusių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų ketvirtadalį, ligos ir motinystės pašalpos skaičiuojamos taikant pastarąjį dydį. Jeigu pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už vaiko priežiūros atostogų suteikimo mėnesį galiojusių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų trečdalį, motinystės (tėvystės) pašalpos skaičiuojamos taikant pastarąjį dydį.“
 
 
-2. 6 straipsnio 2 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip: ^a5e1d454d040a5741b29ccf1
+2. 6 straipsnio 2 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip: ^s-d78bf6609ab34b7dda4f1ffd
 
 
 „2. Pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis pašalpoms skaičiuoti negali viršyti paskutinių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų 3,5 dydžio sumos.“
 
 
 
-### 3 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-28fadb5b854db7a939e8925a
 
 
 14 straipsnio 2 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip:
@@ -226,7 +231,7 @@ Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 18 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 18 straipsnio 1 dalies pakeitimas ^s-a200016ccd11bcdd2747dadd
 
 
 18 straipsnio 1 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip:
@@ -236,7 +241,7 @@ Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 21 straipsnio pakeitimas
+### 5 straipsnis. 21 straipsnio pakeitimas ^s-11c2be1d7a978c1f84e884d4
 
 
 21 straipsnyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šį straipsnį išdėstyti taip:
@@ -249,31 +254,31 @@ Motinystės (tėvystės) pašalpa mokama 60 procentų pašalpos gavėjo kompensu
 
 
 
-### KETVIRTASIS SKIRSNIS
-NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 14, 24, 31 STRAIPSNIŲ PAKEITIMAS
+### KETVIRTASIS SKIRSNIS ^s-3dabd17be638ba9c18b7d92e
+[[latest/TAR.4325B0C38B2F#^s-811cc2917d670b6f3c2855d2|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 14, 24, 31 STRAIPSNIŲ]] PAKEITIMAS
 
 (Žin., 1999, Nr. 110-3207; 2000, Nr. 58-1716, Nr. 95-2969; 2001,
 Nr. 55-1946; Nr. 64-2325)
 
 
 
-### 1 straipsnis. 3 straipsnio 9 ir 10 dalių pakeitimas
+### 1 straipsnis. 3 straipsnio 9 ir 10 dalių pakeitimas ^s-fcf02e31c46820ccb6d35dcf
 
 
-1. Pakeisti 3 straipsnio 9 dalį ir ją dalį išdėstyti taip: ^901b2896cdecbb7dac84f933
+1. Pakeisti 3 straipsnio 9 dalį ir ją dalį išdėstyti taip: ^s-e41978fb8073849c58c5348f
 
 
 „9. Einamųjų metų draudžiamosios pajamos – pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.“
 
 
-2. 3 straipsnio 10 dalyje vietoj žodžių „vidutinėmis mėnesinėmis“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip: ^57c4e7b8806f2c6bf57d44de
+2. 3 straipsnio 10 dalyje vietoj žodžių „vidutinėmis mėnesinėmis“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip: ^s-e1efa70cd4124b9744bc27fe
 
 
 „10. Kompensavimo koeficientas (k) – asmens vidutinių mėnesinių draudžiamųjų pajamų per paskutiniuosius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo užpraeito kalendorinio ketvirčio pabaigos, buvusio iki netenkant darbingumo dėl nelaimingo atsitikimo darbe ar profesinės ligos, santykis su nelaimingo atsitikimo ar susirgimo profesine liga nustatymo metu galiojančiomis einamųjų metų draudžiamosiomis pajamomis. Apdraustajam apskaičiuotas kompensavimo koeficientas negali būti mažesnis kaip 0,25 ir didesnis kaip 3.“
 
 
 
-### 2 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-18f36881133875dbf4cb8aea
 
 
 14 straipsnio 2 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip:
@@ -283,7 +288,7 @@ Nr. 55-1946; Nr. 64-2325)
 
 
 
-### 3 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-ab2d6a5f654fef74a908fb42
 
 
 24 straipsnio 2 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip:
@@ -293,7 +298,7 @@ Nr. 55-1946; Nr. 64-2325)
 
 
 
-### 4 straipsnis. 31 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 31 straipsnio 1 dalies pakeitimas ^s-5a7e9b6537ecb0bbe8ee7f93
 
 
 31 straipsnio 1 dalyje vietoj žodžių „vidutinių mėnesinių“ įrašyti žodžius „einamųjų metų“, po žodžių „atsitikimas darbe“ įrašyti žodžius „ar ištiko ūmi profesinė liga“ ir šią dalį išdėstyti taip:
@@ -303,7 +308,7 @@ Nr. 55-1946; Nr. 64-2325)
 
 
 
-### PENKTASIS SKIRSNIS
+### PENKTASIS SKIRSNIS ^s-a647fb0f82aea99492b62279
 ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE
 AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO 2, 13, 23 STRAIPSNIŲ PAKEITIMAS
 
@@ -311,23 +316,23 @@ AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO 2, 13, 23 STRAIPSNIŲ PAKEITIMA
 
 
 
-### 1 straipsnis. 2 straipsnio 10 ir 11 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 10 ir 11 dalių pakeitimas ^s-467c2347e49b1f98a30dc038
 
 
-1. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^cec7d7c9b37db08f7ee2f3ce
+1. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^s-f2a5995d3532fead26859730
 
 
-„10. Draudžiamosios pajamos (D) – einamųjų metų draudžiamosios pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.“
+„10. Draudžiamosios pajamos (D) – einamųjų metų draudžiamosios pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymas]].“
 
 
-2. Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip: ^4780ca3a64bf1639ba3f5b33
+2. Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip: ^s-4771a0aaaa899b3cf0f4d83a
 
 
 „11. Kompensavimo koeficientas (k) – nukentėjusiojo vidutinio darbo užmokesčio (šio įstatymo 11 straipsnis) santykis su mėnesių, pagal kuriuos apskaičiuotas vidutinis darbo užmokestis, einamųjų metų draudžiamųjų pajamų vidurkiu. Tuo atveju, kai nukentėjusiojo dėl susirgimo profesine liga asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje, didesnis negu kompensavimo koeficientas, taikomas asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje (iki 1995 metų kompensavimo koeficientui apskaičiuoti vietoj draudžiamųjų pajamų imamas Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytas atitinkamo mėnesio vidutinis mėnesinis darbo užmokestis, o iki 1991 metų – vidutinis atitinkamų metų mėnesinis darbo užmokestis). Jei nukentėjusiojo vidutinio darbo užmokesčio nėra ar jo negalima nustatyti arba taip apskaičiuotas kompensavimo koeficientas yra mažesnis už 0,35, laikoma, kad kompensavimo koeficientas lygus 0,35. Jokiu atveju kompensavimo koeficientas negali būti didesnis už 3.“
 
 
 
-### 2 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-86d09bdf3842046e8c9e4058
 
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -337,7 +342,7 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 23 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 23 straipsnio 5 dalies pakeitimas ^s-43b9cc34c8f82a88cee50703
 
 
 23 straipsnio 5 dalyje vietoj žodžių „vidutinės mėnesinės“ įrašyti žodžius „einamųjų metų“ ir šią dalį išdėstyti taip:
@@ -347,51 +352,51 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### ŠEŠTASIS SKIRSNIS
+### ŠEŠTASIS SKIRSNIS ^s-8157eead8a3a16004221c8f0
 BAIGIAMOSIOS NUOSTATOS
 
 
 
 
-### 1 straipsnis. Įstatymo įsigaliojimas
+### 1 straipsnis. Įstatymo įsigaliojimas ^s-6c2f4f43fea3a54ec5193719
 
 
-1. Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d. ^8297b24efd86c57cfc16c9de
-
-
-
-### 2 straipsnis. Pereinamojo laikotarpio nuostatos
-
-
-1. Valstybinio socialinio draudimo fondo taryba einamųjų 2003 metų draudžiamąsias pajamas (šio skirsnio [[#3 straipsnis. Pasiūlymai Vyriausybei|3 straipsnis]]) nustato pagal 2002 metais galiojusią vidutinių mėnesinių draudžiamųjų pajamų skaičiavimo metodiką. Valstybinio socialinio draudimo fondo tarybos tvirtinama nauja einamųjų metų draudžiamųjų pajamų apskaičiavimo pagal atitinkamų metų ar atitinkamo metų laikotarpio Valstybinio socialinio draudimo fondo biudžeto pajamas ir išlaidas metodika pradedama taikyti nustatant einamųjų 2004 metų draudžiamąsias pajamas. ^4136d5e5b0df9c9af4b65b05
-
-
-2. Vyriausybės patvirtintos einamųjų 2003 metų draudžiamosios pajamos ([[#^4136d5e5b0df9c9af4b65b05|šio straipsnio 1 dalis]]) taikomos nuo šio Įstatymo įsigaliojimo. ^bd87970dce793a938a40690e
-
-
-3. Valstybinio socialinio draudimo fondo taryba praeitų 2002 metų draudžiamąsias pajamas nustato pagal patvirtintas 2002 metų atitinkamų ketvirčių vidutines mėnesines draudžiamąsias pajamas. ^294ee09a25ea940c88906f82
-
-
-4. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, valstybinės socialinio draudimo senatvės pensijos papildomai daliai apskaičiuoti (Valstybinių socialinio draudimo pensijų įstatymo 21 straipsnis) bei paskirtoms valstybinėms socialinio draudimo pensijoms (išskyrus valstybines socialinio draudimo našlių pensijas) indeksuoti vietoj šių pajamų naudojamos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Pastarosios draudžiamosios pajamos taip pat naudojamos apskaičiuojant 2003 metų asmens draudžiamųjų pajamų koeficientą (Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 3 dalis) tais atvejais, kai asmuo išeina į pensiją 2003 metų pradžioje, o einamųjų 2003 metų draudžiamosios pajamos dar nepatvirtintos. ^220c54221443ae39f45695cc
-
-
-5. Kol bus patvirtintos praeitų 2002 metų draudžiamosios pajamos, asmens 2002 metų draudžiamųjų pajamų koeficientui apskaičiuoti (Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 2 dalis) naudojamos patvirtintos užpraeitų 2001 metų vidutinės mėnesinės draudžiamosios pajamos. ^4816f6d14e03cd4b15398eaa
-
-
-6. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, apskaičiuojant socialinio draudimo išmokas pagal Ligos ir motinystės socialinio draudimo įstatymo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatas bei išmokas pagal Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo nuostatas, nustatančias išmokų dydžių sąsają su einamųjų metų draudžiamosiomis pajamomis, vietoj einamųjų 2003 metų draudžiamųjų pajamų taikomos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Patvirtinus einamųjų 2003 metų draudžiamąsias pajamas, paskirtos atitinkamos išmokos neperskaičiuojamos. ^87db9d0817cdce53a3ff3517
+1. Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d. ^s-4c7fdc4fcc27ecc755a02a22
 
 
 
-### 3 straipsnis. Pasiūlymai Vyriausybei
+### 2 straipsnis. Pereinamojo laikotarpio nuostatos ^s-69da4d0321785c7fbf952489
 
 
-1. Vyriausybė per mėnesį nuo šio Įstatymo įsigaliojimo Valstybinio socialinio draudimo fondo tarybos teikimu patvirtina einamųjų 2003 metų draudžiamąsias pajamas. ^5686c25a9761d3e1da4d5e8b
+1. Valstybinio socialinio draudimo fondo taryba einamųjų 2003 metų draudžiamąsias pajamas (šio skirsnio 3 straipsnis) nustato pagal 2002 metais galiojusią vidutinių mėnesinių draudžiamųjų pajamų skaičiavimo metodiką. Valstybinio socialinio draudimo fondo tarybos tvirtinama nauja einamųjų metų draudžiamųjų pajamų apskaičiavimo pagal atitinkamų metų ar atitinkamo metų laikotarpio Valstybinio socialinio draudimo fondo biudžeto pajamas ir išlaidas metodika pradedama taikyti nustatant einamųjų 2004 metų draudžiamąsias pajamas. ^s-f3e616e8c43ab1735286f2d6
 
 
-2. Pasiūlyti Vyriausybei įgalioti Valstybinio socialinio draudimo fondo valdybą parengti naujos einamųjų metų ir metų draudžiamųjų pajamų apskaičiavimo metodikos projektą, kurį Valstybinio socialinio draudimo fondo taryba patvirtintų iki 2003 m. liepos 1 d. ^9f818f6aeb0c98dfa8626479
+2. Vyriausybės patvirtintos einamųjų 2003 metų draudžiamosios pajamos (šio straipsnio 1 dalis) taikomos nuo šio Įstatymo įsigaliojimo. ^s-85dd2b6e859979bb774f5970
 
 
-3. Vyriausybė įgalioja suinteresuotas institucijas peržiūrėti galiojančius įstatymus ir kitus teisės aktus, kuriuose vietoj vartojamų sąvokų „ketvirčio vidutinės mėnesinės draudžiamosios pajamos“, „metų vidutinės mėnesinės draudžiamosios pajamos“ turi būti įrašytos sąvokos „einamųjų metų draudžiamosios pajamos“, „metų draudžiamosios pajamos“, ir prireikus parengti atitinkamus jų pakeitimo projektus. ^b46b7278c956a32840fa7e7b
+3. Valstybinio socialinio draudimo fondo taryba praeitų 2002 metų draudžiamąsias pajamas nustato pagal patvirtintas 2002 metų atitinkamų ketvirčių vidutines mėnesines draudžiamąsias pajamas. ^s-9007ad0776a26235c12c5526
+
+
+4. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, valstybinės socialinio draudimo senatvės pensijos papildomai daliai apskaičiuoti ([[latest/TAR.A7F77DF94F5D#^s-6ec0857f72a11315a2897307|Valstybinių socialinio draudimo pensijų įstatymo 21 straipsnis]]) bei paskirtoms valstybinėms socialinio draudimo pensijoms (išskyrus valstybines socialinio draudimo našlių pensijas) indeksuoti vietoj šių pajamų naudojamos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Pastarosios draudžiamosios pajamos taip pat naudojamos apskaičiuojant 2003 metų asmens draudžiamųjų pajamų koeficientą (Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 3 dalis) tais atvejais, kai asmuo išeina į pensiją 2003 metų pradžioje, o einamųjų 2003 metų draudžiamosios pajamos dar nepatvirtintos. ^s-687f2ea93ecb822560c4aabc
+
+
+5. Kol bus patvirtintos praeitų 2002 metų draudžiamosios pajamos, asmens 2002 metų draudžiamųjų pajamų koeficientui apskaičiuoti (Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 2 dalis) naudojamos patvirtintos užpraeitų 2001 metų vidutinės mėnesinės draudžiamosios pajamos. ^s-cba3ef0d7bbe66a966ea9599
+
+
+6. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, apskaičiuojant socialinio draudimo išmokas pagal [[latest/TAR.068516AF734B|Ligos ir motinystės socialinio draudimo įstatymo]], [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo]] nuostatas bei išmokas pagal Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo nuostatas, nustatančias išmokų dydžių sąsają su einamųjų metų draudžiamosiomis pajamomis, vietoj einamųjų 2003 metų draudžiamųjų pajamų taikomos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Patvirtinus einamųjų 2003 metų draudžiamąsias pajamas, paskirtos atitinkamos išmokos neperskaičiuojamos. ^s-9738c7dfd99d394707aedb79
+
+
+
+### 3 straipsnis. Pasiūlymai Vyriausybei ^s-8ce230bd17bb61cdb02a89a4
+
+
+1. Vyriausybė per mėnesį nuo šio Įstatymo įsigaliojimo Valstybinio socialinio draudimo fondo tarybos teikimu patvirtina einamųjų 2003 metų draudžiamąsias pajamas. ^s-8d4ced13d6f395ba40bea5ed
+
+
+2. Pasiūlyti Vyriausybei įgalioti Valstybinio socialinio draudimo fondo valdybą parengti naujos einamųjų metų ir metų draudžiamųjų pajamų apskaičiavimo metodikos projektą, kurį Valstybinio socialinio draudimo fondo taryba patvirtintų iki 2003 m. liepos 1 d. ^s-31a8465fb614e3b67712b4fe
+
+
+3. Vyriausybė įgalioja suinteresuotas institucijas peržiūrėti galiojančius įstatymus ir kitus teisės aktus, kuriuose vietoj vartojamų sąvokų „ketvirčio vidutinės mėnesinės draudžiamosios pajamos“, „metų vidutinės mėnesinės draudžiamosios pajamos“ turi būti įrašytos sąvokos „einamųjų metų draudžiamosios pajamos“, „metų draudžiamosios pajamos“, ir prireikus parengti atitinkamus jų pakeitimo projektus. ^s-edc3e6599b3a9225f8abdff0
 
 
 

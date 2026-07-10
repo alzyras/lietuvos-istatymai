@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.93628F9DC9F3"
 pavadinimas: "Dėl Alytaus miesto ir Alytaus rajono savivaldybių teritorijų administracinių ribų pakeitimo"
+aliases:
+  - "Dėl Alytaus miesto ir Alytaus rajono savivaldybių teritorijų administracinių ribų pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-10-18"
 latest_path: "latest/TAR.93628F9DC9F3.md"
 latest_sha256: "ee8c9c807a4a84ae3fd5a60008a5c10ef84ffe056ca6e0448e785acd0103aec4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.93628F9DC9F3]]"
 ---
 # Dėl Alytaus miesto ir Alytaus rajono savivaldybių teritorijų administracinių ribų pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.93628F9DC9F3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.93628F9DC9F3
+- Ryšiai: [[Ryšiai/TAR.93628F9DC9F3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

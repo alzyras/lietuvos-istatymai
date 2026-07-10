@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.247DAE8A3F57"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 straipsnių ir priedo pakeitimo ir papildymo, 24 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 32(1), 32(2) straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 straipsnių ir priedo pakeitimo ir papildymo, 24 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 32(1), 32(2) straipsniais įstatymas"
+  - "aplinkos apsaugos įstatymo 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 straipsnių ir priedo pakeitimo ir papildymo, 24 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 32(1), 32(2) straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-04-12"
 latest_path: "latest/TAR.247DAE8A3F57.md"
 latest_sha256: "7e5ab69e5d07af7dae089f1da19cea6079b4ae7ffe60644ef7f2a031fbac547d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.247DAE8A3F57]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 straipsnių ir priedo pakeitimo ir papildymo, 24 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 32(1), 32(2) straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.247DAE8A3F57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.247DAE8A3F57
+- Ryšiai: [[Ryšiai/TAR.247DAE8A3F57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,63 +36,63 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas ^s-70c6c6c3e04e4b8557aa104b
 
 
-1. Pakeisti 1 straipsnio 3 punktą ir jį išdėstyti taip: ^6c1aabe3b9b71c5bb3ac6a63
+1. Pakeisti 1 straipsnio 3 punktą ir jį išdėstyti taip: ^s-41e7a2bf03d276ca95b4acd3
 
 
 „3) gamtos ištekliai – gyvosios ar negyvosios gamtos elementai (augalija, gyvūnija, įskaitant ir buveines, vanduo, žemė (jos paviršius ir gelmės), kuriuos žmogus naudoja arba gali naudoti savo reikmėms;“.
 
 
-2. Pakeisti 1 straipsnio 8 punktą ir jį išdėstyti taip: ^0deae518de8eb0fd80ac5146
+2. Pakeisti 1 straipsnio 8 punktą ir jį išdėstyti taip: ^s-3bc9e9b28c521db26681935b
 
 
 „8) kenksmingas (neigiamas) poveikis aplinkai – ekosistemos ar jos elementų natūralių funkcijų susilpnėjimas arba netekimas;“.
 
 
-3. Pakeisti 1 straipsnio 12 punktą ir jį išdėstyti taip: ^ca2be889c76856a632189739
+3. Pakeisti 1 straipsnio 12 punktą ir jį išdėstyti taip: ^s-67cfa15594774edb0781514c
 
 
 „12) ūkinė veikla – ūkinė ir kitokia veikla, kuri turi ar gali turėti įtakos aplinkai;“.
 
 
-4. Pakeisti 1 straipsnio 14 punktą ir jį išdėstyti taip: ^61f7f139dd2d3845ee56f4a4
+4. Pakeisti 1 straipsnio 14 punktą ir jį išdėstyti taip: ^s-e478de5e86bb8e0dfcaaf46c
 
 
 „14) teršimas – medžiagų, preparatų, organizmų ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas, paskleidimas) į aplinką kaip žmonių veiklos rezultatas;“.
 
 
-5. Papildyti [[#1 straipsnis. 1 straipsnio pakeitimas ir papildymas|1 straipsnį]] 19–[[#^60306446ca5bedf013f1cd6b|21 punktais]]: ^8fafac776152e79a25c92df9
+5. Papildyti [[#^s-70c6c6c3e04e4b8557aa104b|1 straipsnį]] 19–[[#^s-7416f1013d25a516d1b7529b|21 punktais]]: ^s-ecc46fab3bec81453e67549d
 
 
 „19) aplinkos atkūrimo priemonės – bet kurie veiksmai, įskaitant žalą sumažinančias bei laikinąsias priemones, kuriomis nustatyta tvarka atkuriama iki pradinės būklės pažeista aplinka, jos elementai ir (arba) pablogėjusios jų funkcijos arba įgyvendinamos lygiavertės tiems aplinkos elementams ir (arba) jų funkcijoms alternatyvos;
 
 
-20) prevencinės priemonės – bet kurios priemonės, taikomos reaguojant į įvykį, veikimą ar neveikimą, siekiant išvengti žalos ar kitokio neigiamo poveikio aplinkai ar ją (jį) sumažinti; ^ac7131a4f7f59ae946e5ea72
+20) prevencinės priemonės – bet kurios priemonės, taikomos reaguojant į įvykį, veikimą ar neveikimą, siekiant išvengti žalos ar kitokio neigiamo poveikio aplinkai ar ją (jį) sumažinti; ^s-31aa47f1b9713d3b141a5c70
 
 
-21) žala aplinkai – tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų (įskaitant ir saugomas teritorijas, kraštovaizdį, biologinę įvairovę) pokytis arba jų funkcijų, turimų savybių, naudingų aplinkai ar žmonėms (visuomenei), (toliau – funkcijos) pablogėjimas.“ ^60306446ca5bedf013f1cd6b
+21) žala aplinkai – tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų (įskaitant ir saugomas teritorijas, kraštovaizdį, biologinę įvairovę) pokytis arba jų funkcijų, turimų savybių, naudingų aplinkai ar žmonėms (visuomenei), (toliau – funkcijos) pablogėjimas.“ ^s-7416f1013d25a516d1b7529b
 
 
 
-### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
+### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas ^s-43a68e5ea09d6af3454349bf
 
 
-1. Pakeisti [[#^654ae576bb7668ea9574816b|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^a43997cb1a5a3dfb4a85c435
+1. Pakeisti [[#^s-a4cd103ea35ee3f8abfcfa1a|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-fc1a73755bc5250a298b8392
 
 
 „Šio įstatymo pagrindu priimami kiti gamtos išteklių naudojimą bei aplinkos apsaugą reglamentuojantys įstatymai ir kiti teisės aktai.“
 
 
-2. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^654ae576bb7668ea9574816b
+2. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^s-a4cd103ea35ee3f8abfcfa1a
 
 
 „Šis įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą.“
 
 
 
-### 3 straipsnis. 6 straipsnio 5 dalies 8 punkto pakeitimas
+### 3 straipsnis. 6 straipsnio 5 dalies 8 punkto pakeitimas ^s-da23c4367946dbdb70089abd
 
 
 Pakeisti 6 straipsnio 5 dalies 8 punktą ir jį išdėstyti taip:
@@ -97,7 +102,7 @@ Pakeisti 6 straipsnio 5 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 7 straipsnio 8 punkto pakeitimas
+### 4 straipsnis. 7 straipsnio 8 punkto pakeitimas ^s-8ac2e25e7de00a9195d0e7b1
 
 
 Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
@@ -107,23 +112,23 @@ Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 8 straipsnio 7 punkto pakeitimas ir straipsnio papildymas 10 punktu
+### 5 straipsnis. 8 straipsnio 7 punkto pakeitimas ir straipsnio papildymas 10 punktu ^s-17620517862e59bf43f4a0a9
 
 
-1. Pakeisti 8 straipsnio 7 punktą ir jį išdėstyti taip: ^9d55ad5e6abc6c3449252c4f
+1. Pakeisti 8 straipsnio 7 punktą ir jį išdėstyti taip: ^s-5e67e7f28803e8634b0d4185
 
 
 „7) užtikrinti, kad būtų atlyginta padaryta žala ar neigiamas poveikis aplinkai, o neteisėta veikla padarę žalą aplinkai kalti asmenys – nubausti;“.
 
 
-2. Papildyti 8 straipsnį 10 punktu: ^ddc7aa7bd79a5fa77813843b
+2. Papildyti 8 straipsnį 10 punktu: ^s-a8dde0cb769853e35cfbc321
 
 
 „10) nustatyta tvarka reikalauti, kad atsakingi asmenys imtųsi prevencinių, aplinkos atkūrimo ar kitų aplinkos apsaugos priemonių, taip pat kontroliuotų, kaip vykdomos šios priemonės.“
 
 
 
-### 6 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas
+### 6 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas ^s-b6da1df4484b2214b12eb443
 
 
 14 straipsnio 3 dalies 2 punkte po žodžio „išteklius“ įrašyti žodžius „nepažeisti aplinkos apsaugos reikalavimų“ ir šį punktą išdėstyti taip:
@@ -133,36 +138,36 @@ Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 19 straipsnio 1, 4 ir 5 dalių pakeitimas
+### 7 straipsnis. 19 straipsnio 1, 4 ir 5 dalių pakeitimas ^s-19ba6408001fc77374ae59ef
 
 
-1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip: ^4485d5297ba4fe6e91f02c61
+1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip: ^s-03db991cca047d2f9a78cbbe
 
 
 „Juridiniai ir fiziniai asmenys, prieš pradėdami eksploatuoti ūkinės veiklos objektus ir vykdydami ūkinę veiklą, privalo įstatymų nustatytais atvejais ir tvarka gauti leidimą.“
 
 
-2. 19 straipsnio 4 dalyje vietoj žodžių „teršalų emisijos“ įrašyti žodžius „išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų“ ir ją išdėstyti taip: ^8191cadfc326c9000d0c70bb
+2. 19 straipsnio 4 dalyje vietoj žodžių „teršalų emisijos“ įrašyti žodžius „išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų“ ir ją išdėstyti taip: ^s-ecf0fac5660bd30ec1cf9fdd
 
 
 „Juridiniai ir fiziniai asmenys, eksploatuodami ūkinės veiklos objektus, privalo nustatyta tvarka vykdyti gamtos išteklių naudojimo ir išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų apskaitą.“
 
 
-3. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip: ^c0f3e7046d1909149d850682
+3. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip: ^s-cf3c089c5cb4b61d62db4ad4
 
 
 „Juridiniai ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus ar vykdantys ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams bei veiklai nustatytų aplinkos apsaugos normatyvų ir standartų.“
 
 
 
-### 8 straipsnis. 24 straipsnio pripažinimas netekusiu galios
+### 8 straipsnis. 24 straipsnio pripažinimas netekusiu galios ^s-b2ef620eb32a1346535bbdb7
 
 
 Pripažinti 24 straipsnį netekusiu galios.
 
 
 
-### 9 straipsnis. 26 straipsnio 2 dalies pakeitimas
+### 9 straipsnis. 26 straipsnio 2 dalies pakeitimas ^s-9c2464c82dcf6e9053e3d982
 
 
 26 straipsnio 2 dalyje vietoj žodžių „teršalų koncentracijos“ įrašyti žodžius „cheminių, biologinių, fizikinių teršalų koncentracijų ribinių verčių“, vietoj žodžių „teršalų emisijos į aplinką“ įrašyti žodžius „išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų“ ir šią dalį išdėstyti taip:
@@ -172,7 +177,7 @@ Pripažinti 24 straipsnį netekusiu galios.
 
 
 
-### 10 straipsnis. 31 straipsnio 2 dalies 3 punkto pakeitimas
+### 10 straipsnis. 31 straipsnio 2 dalies 3 punkto pakeitimas ^s-8f5e0368dc51c5fc66b13ad1
 
 
 31 straipsnio 2 dalies 3 punkte prieš žodį „surašyti“ įrašyti žodžius „Valstybinės aplinkos apsaugos kontrolės įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka duoti privalomus nurodymus“ ir šį punktą išdėstyti taip:
@@ -182,7 +187,7 @@ Pripažinti 24 straipsnį netekusiu galios.
 
 
 
-### 11 straipsnis. 32 straipsnio pakeitimas
+### 11 straipsnis. 32 straipsnio pakeitimas ^s-48d5b03a6f553a4bbf676440
 
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
@@ -194,16 +199,16 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 Pripažįstama, kad žala aplinkai padaryta, jeigu yra tiesioginis ar netiesioginis neigiamas poveikis:
 
 
-1) palaikomai ar siekiamai išlaikyti rūšių ar buveinių tinkamai apsaugos būklei, taip pat biologinės įvairovės, miškų, kraštovaizdžio, saugomų teritorijų būklei; ^27de6a23d64b9e5c1541a463
+1) palaikomai ar siekiamai išlaikyti rūšių ar buveinių tinkamai apsaugos būklei, taip pat biologinės įvairovės, miškų, kraštovaizdžio, saugomų teritorijų būklei; ^s-427f090c0a59f4473ccb9ee3
 
 
-2) paviršinio ir požeminio vandens ekologinei, cheminei, mikrobinei ir (arba) kiekybinei būklei ir (arba) ekologiniam pajėgumui (potencialui), kaip tai apibūdinta Lietuvos Respublikos vandens įstatyme; ^48d34152f2e4215e929d2b1b
+2) paviršinio ir požeminio vandens ekologinei, cheminei, mikrobinei ir (arba) kiekybinei būklei ir (arba) ekologiniam pajėgumui (potencialui), kaip tai apibūdinta [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatyme]]; ^s-1549a7e44ac0f14493004e25
 
 
-3) žemei, tai yra žemės užteršimas, kai teršalai pasklinda žemės paviršiuje, įterpiami į žemę ar po ja (į žemės gelmes); ^b0df27a4970e4487f0e4ec56
+3) žemei, tai yra žemės užteršimas, kai teršalai pasklinda žemės paviršiuje, įterpiami į žemę ar po ja (į žemės gelmes); ^s-bf66afc00e6a27546cda1fd6
 
 
-4) kitiems aplinkos elementams (jų funkcijoms), kai pažeidžiami aplinkos apsaugos reikalavimai. ^1895e7c6c5d52e8dd5c202ed
+4) kitiems aplinkos elementams (jų funkcijoms), kai pažeidžiami aplinkos apsaugos reikalavimai. ^s-feafc42983cb223d7b2420f4
 
 
 Gamtos išteklių naudotojai bei asmenys, vykdantys ūkinę veiklą, (toliau – ūkio subjektai) privalo imtis visų būtinų priemonių, kad būtų išvengta žalos aplinkai, žmonių sveikatai ir gyvybei, kitų asmenų turtui bei interesams, o padariusieji žalos privalo atkurti aplinkos būklę, esant galimybei, iki pirminės būklės, buvusios iki žalos aplinkai atsiradimo, ir atlyginti visus nuostolius. Pirminė būklė nustatoma pagal turimą informaciją apie geriausią aplinkos būklę.
@@ -219,7 +224,7 @@ Aplinkos būklė atkuriama atgaivinant pažeistą aplinką ar jos elementus arba
 
 
 
-### 12 straipsnis. Įstatymo papildymas 321 straipsniu
+### 12 straipsnis. Įstatymo papildymas 321 straipsniu ^s-e42cdefc5a91165e7039edd7
 
 
 Papildyti Įstatymą 321 straipsniu:
@@ -234,28 +239,28 @@ Esant realiai grėsmei, kad gali atsirasti žala aplinkai, ūkio subjektas priva
 Jeigu žala aplinkai atsirado, ūkio subjektas privalo nedelsdamas apie tai informuoti Aplinkos ministeriją ar jos įgaliotą instituciją ir imtis:
 
 
-1) visų būtinų veiksmų, užtikrinančių teršalų ir (arba) kitų žalingų veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai ir neigiamo poveikio žmonių sveikatai ar tolesnio jų pablogėjimo; ^8cec4621c9b7cab0dfcdfb0d
+1) visų būtinų veiksmų, užtikrinančių teršalų ir (arba) kitų žalingų veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai ir neigiamo poveikio žmonių sveikatai ar tolesnio jų pablogėjimo; ^s-4ae905931c8c06bb91f86b0f
 
 
-2) būtinų aplinkos atkūrimo priemonių pagal šio straipsnio penktosios dalies nuostatas. ^996020738f88a84f51c156b9
+2) būtinų aplinkos atkūrimo priemonių pagal šio straipsnio penktosios dalies nuostatas. ^s-87f87200b7a6aa4a10161e18
 
 
 Aplinkos ministerija arba jos įgaliota institucija bet kuriuo momentu turi teisę ir pareigą:
 
 
-1) reikalauti, kad ūkio subjektas pateiktų visą informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba jos grėsmė arba kai įtariama, kad tokia situacija gali atsirasti; ^99f7e5d1444c8e00caedfb81
+1) reikalauti, kad ūkio subjektas pateiktų visą informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba jos grėsmė arba kai įtariama, kad tokia situacija gali atsirasti; ^s-8c4c756a201be3b11044ae57
 
 
-2) reikalauti, kad ūkio subjektas imtųsi būtinų prevencinių ir (arba) aplinkos atkūrimo priemonių; ^67d6dded6b59902e6e4219d6
+2) reikalauti, kad ūkio subjektas imtųsi būtinų prevencinių ir (arba) aplinkos atkūrimo priemonių; ^s-90ed3d6049af04d3fb601a8a
 
 
-3) reikalauti iš ūkio subjekto imtis arba duoti atitinkamam subjektui nurodymus dėl visų veiksmų, susijusių su teršalų surinkimu ir (arba) kitokių darančių žalą aplinkai veiksnių pašalinimu, kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala aplinkai ir neigiamas poveikis žmonių sveikatai; ^3208e171f640089256013eb8
+3) reikalauti iš ūkio subjekto imtis arba duoti atitinkamam subjektui nurodymus dėl visų veiksmų, susijusių su teršalų surinkimu ir (arba) kitokių darančių žalą aplinkai veiksnių pašalinimu, kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala aplinkai ir neigiamas poveikis žmonių sveikatai; ^s-8c8d694921ea8ed473f2a653
 
 
-4) duoti ūkio subjektui privalomus vykdyti nurodymus dėl prevencinių ir (arba) aplinkos atkūrimo priemonių taikymo; ^595eb96474e62eb2c1753bfa
+4) duoti ūkio subjektui privalomus vykdyti nurodymus dėl prevencinių ir (arba) aplinkos atkūrimo priemonių taikymo; ^s-ef477f10067671b94ead3aa1
 
 
-5) pati imtis būtinų prevencinių ir (arba) aplinkos atkūrimo priemonių šio straipsnio ketvirtojoje dalyje numatytais atvejais. ^f4a0095a2eab3e1b6015b492
+5) pati imtis būtinų prevencinių ir (arba) aplinkos atkūrimo priemonių šio straipsnio ketvirtojoje dalyje numatytais atvejais. ^s-b0c87356f1c59a4194a1aeef
 
 
 Jeigu ūkio subjektas nevykdo šiame straipsnyje numatytų pareigų ar neprivalo atlyginti prevencinių ir (arba) aplinkos atkūrimo priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo, savivaldybės ir (arba) valstybės įgaliotos institucijos pagal kompetenciją pačios ar per trečiuosius asmenis vykdo būtinas priemones.
@@ -265,7 +270,7 @@ Aplinkos atkūrimo priemonės vykdomos tik turint Aplinkos ministerijos ar jos �
 
 
 
-### 13 straipsnis. Įstatymo papildymas 322 straipsniu
+### 13 straipsnis. Įstatymo papildymas 322 straipsniu ^s-eb9500f6adaf2f8e42537fb6
 
 
 Papildyti Įstatymą 322 straipsniu:
@@ -280,17 +285,17 @@ Visas prevencinių ir (arba) aplinkos atkūrimo priemonių išlaidas atlygina ū
 Ūkio subjektas neprivalo atlyginti prevencinių ir (arba) aplinkos atkūrimo priemonių išlaidų tik tuo atveju, jeigu žala aplinkai arba jos reali grėsmė atsirado dėl nenugalimos jėgos, taip pat jeigu jis įrodo, kad žala aplinkai ar reali jos grėsmė atsirado:
 
 
-1) dėl trečiojo asmens veiksmų (veikimo, neveikimo), nors visos atitinkamos saugumo priemonės buvo taikytos; ^cbff3311b061d4ef79d2de75
+1) dėl trečiojo asmens veiksmų (veikimo, neveikimo), nors visos atitinkamos saugumo priemonės buvo taikytos; ^s-95f0717f2fd76ed76d046e53
 
 
-2) tiksliai vykdant įstatymų įgaliotos institucijos privalomą nurodymą, išskyrus nurodymą dėl teršimo ar įvykio, kurį sukėlė pačio ūkio subjekto veikla (veikimas, neveikimas). ^b249a76ac6924934cbae7951
+2) tiksliai vykdant įstatymų įgaliotos institucijos privalomą nurodymą, išskyrus nurodymą dėl teršimo ar įvykio, kurį sukėlė pačio ūkio subjekto veikla (veikimas, neveikimas). ^s-de5c3e6d23854b785c4b4353
 
 
 Ūkio subjekto išlaidas vykdant prevencines ir (arba) aplinkos atkūrimo priemones šio straipsnio antrojoje dalyje numatytais atvejais atlygina asmenys, padarę žalos aplinkai, o jeigu šių asmenų nustatyti neįmanoma, – valstybės ar savivaldybių institucijos.“
 
 
 
-### 14 straipsnis. 33 straipsnio pakeitimas
+### 14 straipsnis. 33 straipsnio pakeitimas ^s-58702f31743858c14aec171e
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
@@ -302,10 +307,10 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 Pareikšti ieškinius dėl padarytos žalos turi teisę:
 
 
-1) asmenys, kurių sveikatai, turtui ar interesams padaryta žalos; ^f88fee3f3554a13b462b0187
+1) asmenys, kurių sveikatai, turtui ar interesams padaryta žalos; ^s-f82a940bc66f4fcc81164316
 
 
-2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams. ^f8ab909451d4524b07ec77c4
+2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams. ^s-4f96c40dc7fd0fbcf6c28f6d
 
 
 Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių, įskaitant prevencinių ir (arba) aplinkos atkūrimo priemonių vykdymą, atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam realią jos grėsmę, per penkerius metus nuo dienos, kada šios priemonės buvo baigtos taikyti arba buvo nustatytas atsakingas ūkio subjektas arba kitas asmuo, atsižvelgus į tai, kuri iš minėtų aplinkybių atsirado vėliau.
@@ -318,32 +323,32 @@ Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių insti
 
 
 
-### 15 straipsnis. 34 straipsnio pakeitimas ir papildymas
+### 15 straipsnis. 34 straipsnio pakeitimas ir papildymas ^s-33a9293f60ffdca7fa006d9d
 
 
-1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^bb8f2ad0989984cce329aaf4
+1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^s-dbda02c1dd9f7d3564c49fdd
 
 
 „Asmenys, pažeidę aplinkos apsaugos reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.“
 
 
-2. Papildyti 34 straipsnį nauja [[#^2f5e824eeeaf424a98febef1|2 dalimi]]: ^2f5e824eeeaf424a98febef1
+2. Papildyti 34 straipsnį nauja [[#^s-725169377cfad6aa564e4adb|2 dalimi]]: ^s-725169377cfad6aa564e4adb
 
 
 „Ūkio subjektams taikoma civilinė atsakomybė, neatsižvelgiant į jų kaltę, už bet kokią žalą aplinkai arba realią jos grėsmę, atsiradusią dėl jų ūkinės veiklos, išskyrus šiame įstatyme numatytus atvejus.“
 
 
-3. Papildyti 34 straipsnį nauja [[#^d5b69aad6be28e5afc59a532|3 dalimi]]: ^d5b69aad6be28e5afc59a532
+3. Papildyti 34 straipsnį nauja [[#^s-43f511e9cae2b0c445277a30|3 dalimi]]: ^s-43f511e9cae2b0c445277a30
 
 
 „Šio straipsnio antrojoje dalyje nurodyta civilinė atsakomybė netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis – krašto apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis – apsauga nuo stichinių nelaimių.“
 
 
-4. Buvusias 34 straipsnio 2 ir [[#^d5b69aad6be28e5afc59a532|3 dalis]] laikyti atitinkamai 4 ir 5 dalimis. ^60df802acc86a016d65f31e9
+4. Buvusias 34 straipsnio 2 ir [[#^s-43f511e9cae2b0c445277a30|3 dalis]] laikyti atitinkamai 4 ir 5 dalimis. ^s-4b5b0c87463e0e5b5cc02929
 
 
 
-### 16 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+### 16 straipsnis. Įstatymo priedo pakeitimas ir papildymas ^s-f472f6ce65b9df2811479283
 
 
 Pakeisti bei papildyti Įstatymo priedą ir jį išdėstyti taip:
@@ -359,14 +364,14 @@ priedas
 
 
 
-1. 2001 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir programų pasekmių aplinkai vertinimo. ^7c105dd8b979d3e48223d52c
+1. 2001 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir programų pasekmių aplinkai vertinimo. ^s-cebf7a3649d56f0f36f0f087
 
 
-2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už žalą aplinkai, numatant žalos aplinkai prevenciją bei jos atlyginimą.“ ^9e938ffc0ca74e0060ee57d6
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už žalą aplinkai, numatant žalos aplinkai prevenciją bei jos atlyginimą.“ ^s-2c2edd8a6be59d5072872a51
 
 
 
-### 17 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 17 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-e8e64852dec88139576e2564
 
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2007 m. balandžio 1 d. priima šiam įstatymui įgyvendinti būtinus teisės aktus.

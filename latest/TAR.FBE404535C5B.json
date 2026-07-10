@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.FBE404535C5B.md",
   "latest_revision": "1991-10-15",
-  "latest_sha256": "e910ff899a69f86286f345e606f7bc7ea869e313d5e5cae0ec3fb6e336679245",
+  "latest_sha256": "a54a0af7fd9f45f631904b37dad43a6d9d5fe535ee8a4597824c992868984b04",
   "metadata_path": "latest/TAR.FBE404535C5B.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:22Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

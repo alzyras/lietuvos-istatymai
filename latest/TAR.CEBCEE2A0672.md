@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CEBCEE2A0672"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16, 17 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16, 17 straipsnių pakeitimo ir papildymo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 16, 17 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.CEBCEE2A0672.md"
 latest_sha256: "a7b2f724cbd5eac2ba564b115e8fd009a3d7542966ba8542c4624568265578f5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CEBCEE2A0672]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16, 17 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CEBCEE2A0672.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CEBCEE2A0672
+- Ryšiai: [[Ryšiai/TAR.CEBCEE2A0672|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas ^s-da079ab4cf609c760331694a
 
 
 16 straipsnio 1 dalyje vietoj žodžių „apdraustos moterys, kurioms“ įrašyti žodžius „apdrausti asmenys, kuriems“, vietoj žodžio „jos“ įrašyti žodį „jie“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 17 straipsnio papildymas
+### 2 straipsnis. 17 straipsnio papildymas ^s-38cd00c83c7c6eb81394a98c
 
 
 Papildyti 17 straipsnį 3 dalimi:
@@ -51,7 +56,7 @@ Papildyti 17 straipsnį 3 dalimi:
 
 
 
-### 3 straipsnis. Šio Įstatymo įsigaliojimas
+### 3 straipsnis. Šio Įstatymo įsigaliojimas ^s-e01e200b262c7bb93a558d28
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.

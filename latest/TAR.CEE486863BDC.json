@@ -11,7 +11,7 @@
   "latest_revision": "2010-10-18",
   "latest_sha256": "59c34cd5a05b7d8b0a5dadfd513ab2b1fe59228cc4d82b131a8d778eee55c3c7",
   "metadata_path": "latest/TAR.CEE486863BDC.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

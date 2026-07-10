@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.43EE4DFA7AE2"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-12-10"
 latest_path: "latest/TAR.43EE4DFA7AE2.md"
 latest_sha256: "00c3a166882e2060bf6365b567d35ed3eb6929a178a862fe1d4fa1916ea4e462"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.43EE4DFA7AE2]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.43EE4DFA7AE2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.43EE4DFA7AE2
+- Ryšiai: [[Ryšiai/TAR.43EE4DFA7AE2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 5 punkto pakeitimas
+### 1 straipsnis. 19 straipsnio 5 punkto pakeitimas ^s-cd9cd173ae2baf01682109f0
 
 
 Pakeisti 19 straipsnio 5 punktą ir jį išdėstyti taip:

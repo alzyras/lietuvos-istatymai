@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A497A19DF124"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymo pakeitimo ir papildymo įstatymas"
+  - "aplinkos apsaugos įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-06-19"
 latest_path: "latest/TAR.A497A19DF124.md"
 latest_sha256: "44116bbc9f185a155bce6f3c1123f77695ed0dae520999242a702dd85d44f6e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A497A19DF124]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A497A19DF124.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124
+- Ryšiai: [[Ryšiai/TAR.A497A19DF124|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas ^s-11dd364cd387ded469d7993b
 
 
 Pakeisti ir papildyti 1 straipsnį – antrojoje pastraipoje vietoj žodžių „sistema, kurią sudaro tarpusavyje susiję komponentai“ įrašyti žodžius „visuma tarpusavyje susijusių elementų“, po žodžio „medžiagos“ įrašyti žodžius „antropogeniniai komponentai“, vietoj žodžio „ekosistemos“ įrašyti žodį „sistemos“, pakeisti šeštąją ir septintąją pastraipas, dešimtojoje pastraipoje vietoj žodžio „ekologinis“ įrašyti žodį „aplinkos“, pakeisti vienuoliktąją pastraipą, papildyti penkioliktąja pastraipa ir visą straipsnį išdėstyti taip:
@@ -86,7 +91,7 @@ teršalų emisija – tai teršiančios medžiagos išmetimas į aplinką.“
 
 
 
-### 2 straipsnis. 2 straipsnio pirmosios dalies pakeitimas
+### 2 straipsnis. 2 straipsnio pirmosios dalies pakeitimas ^s-0aba5c2a5bf52d4a08f6b3c9
 
 
 Pakeisti 2 straipsnio pirmąją dalį ir ją išdėstyti taip:
@@ -96,41 +101,41 @@ Pakeisti 2 straipsnio pirmąją dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 5 straipsnio pakeitimas
+### 3 straipsnis. 5 straipsnio pakeitimas ^s-2e1acc16180a13abe19871fa
 
 
-Pakeisti [[#5 straipsnis. 7 straipsnio pakeitimas ir papildymas|5 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-fdb335c61b4e02641373432f|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#5 straipsnis. 7 straipsnio pakeitimas ir papildymas|5 straipsnis]]. Lietuvos Respublikos Seimo kompetencija aplinkos apsaugos srityje
+„[[#^s-fdb335c61b4e02641373432f|5 straipsnis]]. Lietuvos Respublikos Seimo kompetencija aplinkos apsaugos srityje
 
 
 Lietuvos Respublikos Seimas, formuodamas aplinkos apsaugos valstybės politiką:
 
 
-1) nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos kryptis; ^d400f3e35ac5998a71ae04df
+1) nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos kryptis; ^s-b6846f587cb55e49810a7c14
 
 
-2) tvirtina aplinkos apsaugos strategiją; ^cf0a000cad026e78560df29f
+2) tvirtina aplinkos apsaugos strategiją; ^s-3b7a800a404c93b87b2f65a9
 
 
-3) tvirtina valstybės biudžeto asignavimus aplinkos apsaugos priemonėms finansuoti; ^d9ffd6d4bd3b289db2c5918e
+3) tvirtina valstybės biudžeto asignavimus aplinkos apsaugos priemonėms finansuoti; ^s-bc05e3020da12358c40ee5f3
 
 
-4) ratifikuoja ir denonsuoja svarbiausias Lietuvos Respublikos aplinkos apsaugos bei gamtos išteklių naudojimo tarptautines sutartis; ^166e30ec47f53bfb88411b15
+4) ratifikuoja ir denonsuoja svarbiausias Lietuvos Respublikos aplinkos apsaugos bei gamtos išteklių naudojimo tarptautines sutartis; ^s-ba2fb49da24ea599528eba9c
 
 
-5) vykdo kitas įstatymų nustatytas funkcijas.“ ^1010fd327f562f306c6ce45b
+5) vykdo kitas įstatymų nustatytas funkcijas.“ ^s-13a8d232ea6036dcf86a20df
 
 
 
-### 4 straipsnis. 6 straipsnio pakeitimas
+### 4 straipsnis. 6 straipsnio pakeitimas ^s-eb6bf3834c62ffebb3656e44
 
 
-Pakeisti [[#6 straipsnis. 8 straipsnio pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-80d70d9702b2d906a83948d7|6 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#6 straipsnis. 8 straipsnio pakeitimas|6 straipsnis]].Valstybinio aplinkos apsaugos valdymo sistema
+„[[#^s-80d70d9702b2d906a83948d7|6 straipsnis]].Valstybinio aplinkos apsaugos valdymo sistema
 
 
 Valstybinį aplinkos apsaugos valdymą Lietuvos Respublikoje vykdo Vyriausybė, Aplinkos apsaugos ministerija, kitos įgaliotos valstybės institucijos.
@@ -145,82 +150,82 @@ Kiekviena iš šių institucijų atsako už šio įstatymo joms priskirtų funkc
 Lietuvos Respublikos Vyriausybė, įgyvendindama aplinkos apsaugos valstybės politiką:
 
 
-1) Aplinkos apsaugos ministerijos teikimu tvirtina aplinkos apsaugos strategijos veiksmų programą, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos programas bei schemas; ^e0f5667c55a94f2137e24767
+1) Aplinkos apsaugos ministerijos teikimu tvirtina aplinkos apsaugos strategijos veiksmų programą, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos programas bei schemas; ^s-46c04648260766142078a0a8
 
 
-2) įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą; ^bd5c3aec47ce8a185d322108
+2) įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą; ^s-c96d251dc8fb305395e2e352
 
 
-3) koordinuoja valstybės ir vietos savivaldos valdymo institucijų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^7c9f49ba6dfb8f4512b4f8be
+3) koordinuoja valstybės ir vietos savivaldos valdymo institucijų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^s-7df2359b34f074d3380f266e
 
 
-4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^707f4a8443df98fda569d7ab
+4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^s-cd67606d1581623f05155f7c
 
 
-5) vykdo kitas įstatymų nustatytas funkcijas. ^9e5a2a522baebc4d7280c355
+5) vykdo kitas įstatymų nustatytas funkcijas. ^s-5c2ced3315d2efe39f4210ad
 
 
 Lietuvos Respublikos aplinkos apsaugos ministerija, vykdydama aplinkos apsaugos valdymą ir valstybinį gamtos išteklių naudojimo reguliavimą:
 
 
-1) organizuoja ir koordinuoja valstybės strategijos įgyvendinimą aplinkos apsaugos ir gamtos išteklių naudojimo srityje, rengia valstybines ilgalaikes ir tikslines aplinkos apsaugos bei gamtos išteklių naudojimo programas, numato jų įgyvendinimo tvarką ir kontroliuoja, kaip jos vykdomos; ^b740779443a02352dfa7b48c
+1) organizuoja ir koordinuoja valstybės strategijos įgyvendinimą aplinkos apsaugos ir gamtos išteklių naudojimo srityje, rengia valstybines ilgalaikes ir tikslines aplinkos apsaugos bei gamtos išteklių naudojimo programas, numato jų įgyvendinimo tvarką ir kontroliuoja, kaip jos vykdomos; ^s-da44a5cb40eac6141806a459
 
 
-2) organizuoja ir koordinuoja valstybinės svarbos aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą, kontroliuoja, kaip jos vykdomos (taikomos); ^224d1a73c086ac617396be9f
+2) organizuoja ir koordinuoja valstybinės svarbos aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą, kontroliuoja, kaip jos vykdomos (taikomos); ^s-16b183d883ecb08f35bfd52d
 
 
-3) rengia įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal savo kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities, vietos savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus; ^0a3af67afd657840c408ab38
+3) rengia įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal savo kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities, vietos savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus; ^s-d427461bd2eb46a2114ab62a
 
 
-4) pagal savo kompetenciją rengia ir tvirtina aplinkos apsaugos ir gamtos išteklių naudojimo normas, normatyvus, standartus bei taisykles; ^e1d29a0a2a2517753731d009
+4) pagal savo kompetenciją rengia ir tvirtina aplinkos apsaugos ir gamtos išteklių naudojimo normas, normatyvus, standartus bei taisykles; ^s-b531612bde01989910101720
 
 
-5) pagal savo kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas, leidimų išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą, organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos kompetencijai, sudarymą bei tvarkymą; ^27f03b7adf9ccc35af37031f
+5) pagal savo kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas, leidimų išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą, organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos kompetencijai, sudarymą bei tvarkymą; ^s-02b74002f4d74e0bf8eb8fc8
 
 
-6) teikia Lietuvos Respublikos Vyriausybei valstybinių rezervatų, draustinių,valstybinių parkų, gamtos paminklų, kitų gamtinio pobūdžio saugomų teritorijų steigimo projektus; ^21cdfde8315776ce7309ddce
+6) teikia Lietuvos Respublikos Vyriausybei valstybinių rezervatų, draustinių,valstybinių parkų, gamtos paminklų, kitų gamtinio pobūdžio saugomų teritorijų steigimo projektus; ^s-a13e6c89fc7abeacecdd8f4d
 
 
-7) reglamentuoja ir kontroliuoja veiklą saugomose teritorijose, organizuoja valstybinių rezervatų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja ir atlieka darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų išsaugojimu bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėjų įvežimo, išvežimo, taip pat gyvūnų laikymo nelaisvėje tvarką; ^57046061b0e9e1f2a7a6df66
+7) reglamentuoja ir kontroliuoja veiklą saugomose teritorijose, organizuoja valstybinių rezervatų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja ir atlieka darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų išsaugojimu bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėjų įvežimo, išvežimo, taip pat gyvūnų laikymo nelaisvėje tvarką; ^s-ce0014eef4250627fa1242be
 
 
-8) nustato ir kontroliuoja teršalų (ir radioaktyviųjų medžiagų) emisijos į aplinką normas bei apskaitos tvarką, nustato leidimų atlikti teršalų (ir radioaktyviųjų medžiagų) emisiją išdavimo tvarką; ^0ead2a39092263c963070e3b
+8) nustato ir kontroliuoja teršalų (ir radioaktyviųjų medžiagų) emisijos į aplinką normas bei apskaitos tvarką, nustato leidimų atlikti teršalų (ir radioaktyviųjų medžiagų) emisiją išdavimo tvarką; ^s-1e1dc80155e8d733bd491f4d
 
 
-9) nustato pavojingų cheminių medžiagų ir pavojingų atliekų, radioaktyviųjų medžiagų bei potencialių biologinės taršos šaltinių gamybos ir įvežimo, tranzito, išvežimo, naudojimo, saugojimo, laidojimo, nukenksminimo, utilizavimo ir apskaitos tvarką bei radiacinio saugumo normatyvus; ^68755de21a7cfaf807c0dae0
+9) nustato pavojingų cheminių medžiagų ir pavojingų atliekų, radioaktyviųjų medžiagų bei potencialių biologinės taršos šaltinių gamybos ir įvežimo, tranzito, išvežimo, naudojimo, saugojimo, laidojimo, nukenksminimo, utilizavimo ir apskaitos tvarką bei radiacinio saugumo normatyvus; ^s-67cd2177346897c379d7f60b
 
 
-10) nustato tvarką, kuria įvertinama, ar produkcija atitinka aplinkos apsaugos reikalavimus, organizuoja šį darbą; ^08a5a519f6ae5e678a69122a
+10) nustato tvarką, kuria įvertinama, ar produkcija atitinka aplinkos apsaugos reikalavimus, organizuoja šį darbą; ^s-6988849e77055cb1a0810312
 
 
-11) rengia ir tvirtina aplinkai padarytos žalos apskaičiavimo metodikas; ^244c9b75a31725754db34b84
+11) rengia ir tvirtina aplinkai padarytos žalos apskaičiavimo metodikas; ^s-36ed9855aaf7cc44d82449de
 
 
-12) organizuoja ir koordinuoja kompleksinį aplinkos monitoringą, kuria ir nuolat papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą informacijos sistemą, naudojasi šia informacija; ^6349cb50b598b79eb11493ea
+12) organizuoja ir koordinuoja kompleksinį aplinkos monitoringą, kuria ir nuolat papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą informacijos sistemą, naudojasi šia informacija; ^s-ac5ff611e450f67c45cebcab
 
 
-13) pagal savo kompetenciją organizuoja ir koordinuoja mokslo tyrimus, susijusius su gamtos ištekliais ir jų naudojimu bei aplinkos apsauga; ^9bdfd9824431faaa70526593
+13) pagal savo kompetenciją organizuoja ir koordinuoja mokslo tyrimus, susijusius su gamtos ištekliais ir jų naudojimu bei aplinkos apsauga; ^s-6b8be5b4511803e323f60a9b
 
 
-14) nustatyta tvarka formuoja valstybinį gamtos apsaugos fondą ir disponuoja jo lėšomis; ^e29506d0a34aed01a8cec997
+14) nustatyta tvarka formuoja valstybinį gamtos apsaugos fondą ir disponuoja jo lėšomis; ^s-7fb9a26479be846a78ea2239
 
 
-15) nustatyta tvarka pagal savo kompetenciją palaiko ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose; ^1919485e22793c29128a47c9
+15) nustatyta tvarka pagal savo kompetenciją palaiko ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose; ^s-96c7e064c570e1dd2bf139fa
 
 
-16) informuoja visuomenę apie aplinkos būklę ir koordinuoja ekologinį švietimą, rūpinasi aplinkos apsaugos specialistų rengimu bei tobulinimu, atlieka atestacinį-licencinį darbą; ^74ef65647b0e21d818d61c54
+16) informuoja visuomenę apie aplinkos būklę ir koordinuoja ekologinį švietimą, rūpinasi aplinkos apsaugos specialistų rengimu bei tobulinimu, atlieka atestacinį-licencinį darbą; ^s-00f5c1b5856641f36eda2004
 
 
-17) vykdo valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, nustato valstybinės aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės vykdymo tvarką; ^02f9d1fe61352a85e9595d46
+17) vykdo valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, nustato valstybinės aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės vykdymo tvarką; ^s-23d2031d0a7fcd7f51e4b2fe
 
 
-18) teikia pasiūlymus dėl aplinkos apsaugos ir gamtos išteklių naudojimo ekonominės sistemos formavimo, dalyvauja nustatant muitų už įvežamus ir išvežamus gamtos išteklius politiką; ^a9404cc0be5e790d721728c9
+18) teikia pasiūlymus dėl aplinkos apsaugos ir gamtos išteklių naudojimo ekonominės sistemos formavimo, dalyvauja nustatant muitų už įvežamus ir išvežamus gamtos išteklius politiką; ^s-7035abe8a90e79cff6d53e26
 
 
-19) organizuoja kitų aplinkos apsaugos priemonių įgyvendinimą ir kontrolę; ^a777defbb2159f02abe67664
+19) organizuoja kitų aplinkos apsaugos priemonių įgyvendinimą ir kontrolę; ^s-14dac7d600a963e0a72d36ac
 
 
-20) vykdo kitas įstatymų nustatytas funkcijas. ^b22b346248bbcbfd4e0edef1
+20) vykdo kitas įstatymų nustatytas funkcijas. ^s-b5019573edf4f960d1d0db1f
 
 
 Kitų valstybės institucijų funkcijas aplinkos apsaugos srityje nustato kiti įstatymai bei šių institucijų nuostatai.
@@ -229,168 +234,168 @@ Kitų valstybės institucijų funkcijas aplinkos apsaugos srityje nustato kiti �
 Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyriausybės bei Aplinkos apsaugos ministerijos priimtų norminių aktų aplinkos apsaugos klausimais įgyvendinimą:
 
 
-1) valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos objektus; ^cce1e5cdd847d1772ece2ef8
+1) valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos objektus; ^s-ef943466ceea741e2c12df63
 
 
-2) paskirsto pagal savivaldybėms nustatytus limitus valstybinius gamtos išteklius; ^5e87d3fd995303f87eea6da8
+2) paskirsto pagal savivaldybėms nustatytus limitus valstybinius gamtos išteklius; ^s-cabe916d18443e0fbb2af3fb
 
 
-3) rengia, tvirtina ir įgyvendina savivaldybių aplinkos apsaugos ir gamtos išteklių naudojimo programas, schemas ir kitas aplinkos apsaugos priemones; ^0057b36a125b07cb79ea11da
+3) rengia, tvirtina ir įgyvendina savivaldybių aplinkos apsaugos ir gamtos išteklių naudojimo programas, schemas ir kitas aplinkos apsaugos priemones; ^s-040f41d1c0e78128776c7943
 
 
-4) formuoja savivaldybės gamtos apsaugos fondą ir disponuoja juo, tvirtina asignavimus aplinkos apsaugai; ^0e32bf6e1f07295a8ade7842
+4) formuoja savivaldybės gamtos apsaugos fondą ir disponuoja juo, tvirtina asignavimus aplinkos apsaugai; ^s-4193be0dad9017b9903aaacd
 
 
-5) steigia ir tvarko įstatymų nustatyta tvarka savivaldybės saugomas teritorijas, kraštovaizdžio objektus; ^4954fa36520f2280cafb7623
+5) steigia ir tvarko įstatymų nustatyta tvarka savivaldybės saugomas teritorijas, kraštovaizdžio objektus; ^s-e5176a09972b5a7ac6215e98
 
 
-6) pagal kompetenciją nagrinėja ir derina planuojamos veiklos objektų projektus; ^68fb366ec5c8e124004429f2
+6) pagal kompetenciją nagrinėja ir derina planuojamos veiklos objektų projektus; ^s-ce16b49a7fbb055155884f2f
 
 
-7) tvarko miestų ir kaimų gyvenamųjų vietovių želdynus, rengia ir tvirtina želdinių apsaugos taisykles; ^222fcbe0f50a1674afb70d4a
+7) tvarko miestų ir kaimų gyvenamųjų vietovių želdynus, rengia ir tvirtina želdinių apsaugos taisykles; ^s-73e35a6a0107a35c74229527
 
 
-8) nustato savo teritorijoje griežtesnius už valstybinius normatyvus, suderinusios su juos patvirtinusiomis valstybės institucijomis; ^1dd7f4b609b60c5d5ece7575
+8) nustato savo teritorijoje griežtesnius už valstybinius normatyvus, suderinusios su juos patvirtinusiomis valstybės institucijomis; ^s-3ef955cf132aced1cd01f60a
 
 
-9) pagal kompetenciją priima sprendimus ir kontroliuoja jų vykdymą; ^53a9ef1a0194856699475276
+9) pagal kompetenciją priima sprendimus ir kontroliuoja jų vykdymą; ^s-315baa0da0558e6fa644cb15
 
 
-10) vykdo kitas įstatymų nustatytas funkcijas.“ ^330432300fdc9d32dffe194e
+10) vykdo kitas įstatymų nustatytas funkcijas.“ ^s-788b3eabae6a0801a1bab691
 
 
 
-### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas
+### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-fdb335c61b4e02641373432f
 
 
-Pakeisti [[#7 straipsnis. 12 straipsnio pakeitimas|7 straipsnio]] 1, 2, 4 ir [[#^864ea5b7e1f2a2d0b98f0179|5 punktus]], [[#^dec6c1aa6931bdf0c1f3d2be|6 punkte]] po žodžio „organizuoti“ įrašyti žodžius „ir dalyvauti vykdant“, papildyti [[#^0fb06fe9bd2c3a4f8118736f|9 punktu]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-ca765bc0f7600a3594c305f3|7 straipsnio]] 1, 2, 4 ir [[#^s-1eb24890361a69e34906d405|5 punktus]], [[#^s-86c2ddcc4fd8522da9b1d0a0|6 punkte]] po žodžio „organizuoti“ įrašyti žodžius „ir dalyvauti vykdant“, papildyti [[#^s-fe34453586f6f7df3358fa59|9 punktu]] ir visą straipsnį išdėstyti taip:
 
 
-„[[#7 straipsnis. 12 straipsnio pakeitimas|7 straipsnis]]. Piliečių ir visuomeninių organizacijų teisės
+„[[#^s-ca765bc0f7600a3594c305f3|7 straipsnis]]. Piliečių ir visuomeninių organizacijų teisės
 
 
 Piliečiai ir visuomeninės organizacijos turi teisę:
 
 
-1) laiku gauti teisingą informaciją apie aplinkos būklę ir gamtos išteklių naudojimą, planuojamos veiklos įtaką aplinkai, kitą aplinkosaugos informaciją; ^2a9216449103446cc687d014
+1) laiku gauti teisingą informaciją apie aplinkos būklę ir gamtos išteklių naudojimą, planuojamos veiklos įtaką aplinkai, kitą aplinkosaugos informaciją; ^s-67c18a77f7fb9a09553b7da9
 
 
-2) dalyvauti planuojamos veiklos poveikio aplinkai vertinimo procese; ^1e4cf92365df31747e546d54
+2) dalyvauti planuojamos veiklos poveikio aplinkai vertinimo procese; ^s-a32b74485f26432ab9706d4a
 
 
-3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos objektų poveikis aplinkai; ^225d91d7e5496b5d77d78f28
+3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos objektų poveikis aplinkai; ^s-5e88672265d439b12a6f7eff
 
 
-4) reikalauti atlikti poveikio aplinkai vertinimą; ^1cdea365f3d47e633747ec14
+4) reikalauti atlikti poveikio aplinkai vertinimą; ^s-f448c6219801f6090b20fcbf
 
 
-5) atlikti visuomeninį poveikio aplinkai vertinimą; ^864ea5b7e1f2a2d0b98f0179
+5) atlikti visuomeninį poveikio aplinkai vertinimą; ^s-1eb24890361a69e34906d405
 
 
-6) organizuoti ir dalyvauti vykdant visuomeninę aplinkos apsaugos kontrolę; ^dec6c1aa6931bdf0c1f3d2be
+6) organizuoti ir dalyvauti vykdant visuomeninę aplinkos apsaugos kontrolę; ^s-86c2ddcc4fd8522da9b1d0a0
 
 
-7) reikalauti, kad valstybės valdžios ir valdymo institucijos organizuotų ekologinį švietimą ir mokymą, nevaržomai propaguoti aplinkos apsaugos idėjas; ^142a39ced6e72049509cb27d
+7) reikalauti, kad valstybės valdžios ir valdymo institucijos organizuotų ekologinį švietimą ir mokymą, nevaržomai propaguoti aplinkos apsaugos idėjas; ^s-f174f6d3a5b72525c98bb096
 
 
-8) reikalauti nubausti asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, netinkamai vykdančius jiems pavestas aplinkos apsaugos funkcijas; ^cffeb965477688742d2999d2
+8) reikalauti nubausti asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, netinkamai vykdančius jiems pavestas aplinkos apsaugos funkcijas; ^s-4c5b895fe6b6678b16161fa5
 
 
-9) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas nustatyta tvarka.“ ^0fb06fe9bd2c3a4f8118736f
+9) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas nustatyta tvarka.“ ^s-fe34453586f6f7df3358fa59
 
 
 
-### 6 straipsnis. 8 straipsnio pakeitimas
+### 6 straipsnis. 8 straipsnio pakeitimas ^s-80d70d9702b2d906a83948d7
 
 
-Pakeisti [[#8 straipsnis. 13 straipsnio pakeitimas|8 straipsnio]] 5 ir [[#^3ebdfda9cce2782d767a4198|6 punktus]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-750dbfe4fd1840e00fea5114|8 straipsnio]] 5 ir [[#^s-eea84a41af847745319eb37e|6 punktus]] ir visą straipsnį išdėstyti taip:
 
 
-„[[#8 straipsnis. 13 straipsnio pakeitimas|8 straipsnis]].       Valstybės valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių ir visuomeninių organizacijų teises
+„[[#^s-750dbfe4fd1840e00fea5114|8 straipsnis]].       Valstybės valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių ir visuomeninių organizacijų teises
 
 
 Valstybės valdžios, valdymo ir kontrolės institucijos pagal savo kompetenciją privalo :
 
 
-1) stebėti aplinkos kokybės pokyčius ir informuoti apie tai visuomenę, nustatyti ekologiškai pagrįstus ir techniniu požiūriu įgyvendinamus aplinkos kokybės normatyvus bei standartus; ^69cbee6e72ba554b05d335ee
+1) stebėti aplinkos kokybės pokyčius ir informuoti apie tai visuomenę, nustatyti ekologiškai pagrįstus ir techniniu požiūriu įgyvendinamus aplinkos kokybės normatyvus bei standartus; ^s-d5f3dea3669187d03a2a8c5b
 
 
-2) tenkinti arba motyvuotai atmesti piliečių ir visuomeninių organizacijų pasiūlymus aplinkos apsaugos klausimais; ^cb7fc98256a9bbf092f849ea
+2) tenkinti arba motyvuotai atmesti piliečių ir visuomeninių organizacijų pasiūlymus aplinkos apsaugos klausimais; ^s-553edef4d56ce72535e5edc4
 
 
-3) viešai skelbti ūkinės veiklos, galinčios turėti kenksmingo poveikio aplinkai, projektus; ^c697e6102d089db4d4e447a2
+3) viešai skelbti ūkinės veiklos, galinčios turėti kenksmingo poveikio aplinkai, projektus; ^s-9f8153fdbd12e81965033ceb
 
 
-4) neleisti, kad ūkinės veiklos subjektai pažeistų aplinkos apsaugos įstatymus, normatyvus ir standartus; ^e77a5a3a3793ea551a30b34a
+4) neleisti, kad ūkinės veiklos subjektai pažeistų aplinkos apsaugos įstatymus, normatyvus ir standartus; ^s-a7e10bd5414c956395c0c16d
 
 
-5) visuomenei reikalaujant, organizuoti poveikio aplinkai vertinimą arba motyvuotai jo atsisakyti; ^a19b12d73b6705aaa5e1cb34
+5) visuomenei reikalaujant, organizuoti poveikio aplinkai vertinimą arba motyvuotai jo atsisakyti; ^s-904a3729e9334fdcbd37dd48
 
 
-6) įvertinti visuomenės pastabas ir pasiūlymus dėl planuojamos veiklos galimo poveikio aplinkai; ^3ebdfda9cce2782d767a4198
+6) įvertinti visuomenės pastabas ir pasiūlymus dėl planuojamos veiklos galimo poveikio aplinkai; ^s-eea84a41af847745319eb37e
 
 
-7) užtikrinti, kad būtų atlyginta neteisėta veikla padaryta žala aplinkai, o kalti asmenys nubausti; ^63c1072f2f4c41a4d5c6c8d6
+7) užtikrinti, kad būtų atlyginta neteisėta veikla padaryta žala aplinkai, o kalti asmenys nubausti; ^s-85b5e302beee6143da2801f6
 
 
-8) organizuoti ekologinį švietimą ir mokymą; ^f58370bfa20eb9905c072093
+8) organizuoti ekologinį švietimą ir mokymą; ^s-fc8dcb94b54967c6d63071d7
 
 
-9) skatinti piliečius, visuomenines organizacijas dalyvauti saugant aplinką.“ ^901079627813042576c22277
+9) skatinti piliečius, visuomenines organizacijas dalyvauti saugant aplinką.“ ^s-98555487b87d8f2b7d0edd24
 
 
 
-### 7 straipsnis. 12 straipsnio pakeitimas
+### 7 straipsnis. 12 straipsnio pakeitimas ^s-ca765bc0f7600a3594c305f3
 
 
-Pakeisti [[#12 straipsnis. 19 straipsnio pakeitimas|12 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-0488c774690b91275f1fc8c0|12 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#12 straipsnis. 19 straipsnio pakeitimas|12 straipsnis]]. Saugomos teritorijos ir gamtinis karkasas
+„[[#^s-0488c774690b91275f1fc8c0|12 straipsnis]]. Saugomos teritorijos ir gamtinis karkasas
 
 
 Saugomos teritorijos yra:
 
 
-1) išsaugančios – rezervatai, draustiniai bei saugomi kraštovaizdžio objektai; ^5371a4dfeae02a610ec845f9
+1) išsaugančios – rezervatai, draustiniai bei saugomi kraštovaizdžio objektai; ^s-8527db1a5d2199a0b6cf270d
 
 
-2) apsaugančios – įvairios paskirties apsaugos zonos; ^6b72152ed1cd12f46f1454e9
+2) apsaugančios – įvairios paskirties apsaugos zonos; ^s-303adc0a74f6c6954e849688
 
 
-3) gamtos išteklius atkuriančios – saugomi gamtos išteklių sklypai; ^fb2bc8e92122936907434848
+3) gamtos išteklius atkuriančios – saugomi gamtos išteklių sklypai; ^s-37e3ce613a39aba1d3950d94
 
 
-4) kompleksinės paskirties – valstybiniai (nacionaliniai ir regioniniai) parkai, biosferos monitoringo teritorijos – biosferos rezervatai ir biosferos poligonai. ^8837debf6a4cd94a7f356315
+4) kompleksinės paskirties – valstybiniai (nacionaliniai ir regioniniai) parkai, biosferos monitoringo teritorijos – biosferos rezervatai ir biosferos poligonai. ^s-9501a9d09d7b816f4e60c890
 
 
 Gamtinio pobūdžio saugomas teritorijas ir kitas aplinkos apsaugos požiūriu svarbias bei pakankamai natūralias teritorijas, garantuojančias bendrą kraštovaizdžio stabilumą, į bendrą kraštotvarkos ekologinio kompensavimo zonų sistemą jungia gamtinis karkasas.
 
 
-Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos Respublikos saugomų teritorijų įstatymas,kiti įstatymai ir teisės aktai.“
+Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]],kiti įstatymai ir teisės aktai.“
 
 
 
-### 8 straipsnis. 13 straipsnio pakeitimas
+### 8 straipsnis. 13 straipsnio pakeitimas ^s-750dbfe4fd1840e00fea5114
 
 
-Pakeisti [[#13 straipsnis. 20 straipsnio pakeitimas|13 straipsnį]] – vietoj žodžio „kadastro“ įrašyti žodį „kadastrų“, išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“ ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-9dab072582f2eff038772850|13 straipsnį]] – vietoj žodžio „kadastro“ įrašyti žodį „kadastrų“, išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“ ir visą straipsnį išdėstyti taip:
 
 
-„[[#13 straipsnis. 20 straipsnio pakeitimas|13 straipsnis]]. Valstybinė gamtos išteklių apskaita
+„[[#^s-9dab072582f2eff038772850|13 straipsnis]]. Valstybinė gamtos išteklių apskaita
 
 
 Valstybinės gamtos išteklių apskaitos, kadastrų tvarkymo ir atskaitomybės tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
-### 9 straipsnis. 15 straipsnio pakeitimas
+### 9 straipsnis. 15 straipsnio pakeitimas ^s-f840f84db3c9bdad9963ad8f
 
 
-Pakeisti [[#15 straipsnis. 22 straipsnio pakeitimas|15 straipsnį]] – pavadinime vietoj žodžio „prognozavimas“ įrašyti žodį „vertinimas“, pirmojoje dalyje vietoj žodžio „ekologinio“ įrašyti žodį „aplinkos“, pakeisti antrąją ir trečiąją dalis, ketvirtojoje dalyje vietoj žodžių „departamentas, suderinęs su Lietuvos Respublikos Vyriausybe“ įrašyti žodį „ministerija“ ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-82c67ee80f50c232be957d92|15 straipsnį]] – pavadinime vietoj žodžio „prognozavimas“ įrašyti žodį „vertinimas“, pirmojoje dalyje vietoj žodžio „ekologinio“ įrašyti žodį „aplinkos“, pakeisti antrąją ir trečiąją dalis, ketvirtojoje dalyje vietoj žodžių „departamentas, suderinęs su Lietuvos Respublikos Vyriausybe“ įrašyti žodį „ministerija“ ir visą straipsnį išdėstyti taip:
 
 
-„[[#15 straipsnis. 22 straipsnio pakeitimas|15 straipsnis]]. Poveikio aplinkai vertinimas
+„[[#^s-82c67ee80f50c232be957d92|15 straipsnis]]. Poveikio aplinkai vertinimas
 
 
 Ūkinė veikla planuojama ir vykdoma remiantis šiuo ir kitais įstatymais, norminiais aktais, aplinkos monitoringo, valstybinės gamtos išteklių apskaitos duomenimis, aplinkos apsaugos programomis bei schemomis, kraštotvarkos projektais bei generaliniais planais atsižvelgiant į Lietuvos Respublikos gamtos potencialą.
@@ -406,13 +411,13 @@ Dokumentacijos apie ūkinės veiklos galimą įtaką aplinkai rengimo tvarką nu
 
 
 
-### 10 straipsnis. 16 straipsnio pakeitimas
+### 10 straipsnis. 16 straipsnio pakeitimas ^s-add1a64fcf34962b6efdd377
 
 
-Pakeisti [[#16 straipsnis. 23 straipsnio pakeitimas|16 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-3108086a4695d33a64f9c38e|16 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#16 straipsnis. 23 straipsnio pakeitimas|16 straipsnis]]. Ūkinės veiklos, galinčios turėti poveikio aplinkai, projektavimas
+„[[#^s-3108086a4695d33a64f9c38e|16 straipsnis]]. Ūkinės veiklos, galinčios turėti poveikio aplinkai, projektavimas
 
 
 Juridinių bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai, teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
@@ -425,23 +430,23 @@ Projektinė dokumentacija nustatyta tvarka suderinama su vietos savivaldos insti
 
 
 
-### 11 straipsnis. 18 straipsnio antrosios dalies pakeitimas
+### 11 straipsnis. 18 straipsnio antrosios dalies pakeitimas ^s-b7408afe848b8715661a5d05
 
 
-Pakeisti [[#18 straipsnis. 25 straipsnio pakeitimas|18 straipsnio]] antrąją dalį – vietoj žodžių „Aplinkos apsaugos departamento“ įrašyti žodžius „Aplinkos apsaugos ministerijos“, po žodžio „pareigūnai“ įrašyti žodžius „arba pateikiamos jų išvados“ ir šią dalį išdėstyti taip:
+Pakeisti [[#^s-dc5e0d5689df1eabd9015d49|18 straipsnio]] antrąją dalį – vietoj žodžių „Aplinkos apsaugos departamento“ įrašyti žodžius „Aplinkos apsaugos ministerijos“, po žodžio „pareigūnai“ įrašyti žodžius „arba pateikiamos jų išvados“ ir šią dalį išdėstyti taip:
 
 
 „Priimant pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja Aplinkos apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.“
 
 
 
-### 12 straipsnis. 19 straipsnio pakeitimas
+### 12 straipsnis. 19 straipsnio pakeitimas ^s-0488c774690b91275f1fc8c0
 
 
-Pakeisti [[#19 straipsnis. 26 straipsnio pakeitimas|19 straipsnį]] – pirmojoje dalyje vietoj žodžių „Lietuvos Respublikos aplinkos apsaugos departamento“ įrašyti žodžius „Aplinkos apsaugos ministerijos“, vietoj žodžių „teršalų išmetimo į aplinką leidimą (ekologinį pasą-leidimą)“ įrašyti žodžius „teršalų emisijos į aplinką leidimą (gamtos išteklių naudojimo leidimą)“, antrojoje dalyje išbraukti žodžius „gamtos išteklių naudojimo ir teršalų išmetimo į aplinką“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“, ketvirtojoje dalyje vietoj žodžio „tvarkyti“ įrašyti žodžius „nustatyta tvarka vykdyti“, išbraukti žodžius „Lietuvos Respublikos aplinkos apsaugos departamento nustatyta tvarka“, penktojoje dalyje vietoj žodžių „teršalų išmetimo į aplinką leidimas“ įrašyti žodžius „teršalų emisijos į aplinką leidimas“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“ ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-e9fff8329c4f11f2eac0230c|19 straipsnį]] – pirmojoje dalyje vietoj žodžių „Lietuvos Respublikos aplinkos apsaugos departamento“ įrašyti žodžius „Aplinkos apsaugos ministerijos“, vietoj žodžių „teršalų išmetimo į aplinką leidimą (ekologinį pasą-leidimą)“ įrašyti žodžius „teršalų emisijos į aplinką leidimą (gamtos išteklių naudojimo leidimą)“, antrojoje dalyje išbraukti žodžius „gamtos išteklių naudojimo ir teršalų išmetimo į aplinką“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“, ketvirtojoje dalyje vietoj žodžio „tvarkyti“ įrašyti žodžius „nustatyta tvarka vykdyti“, išbraukti žodžius „Lietuvos Respublikos aplinkos apsaugos departamento nustatyta tvarka“, penktojoje dalyje vietoj žodžių „teršalų išmetimo į aplinką leidimas“ įrašyti žodžius „teršalų emisijos į aplinką leidimas“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“ ir visą straipsnį išdėstyti taip:
 
 
-„[[#19 straipsnis. 26 straipsnio pakeitimas|19 straipsnis]]. Ūkinės veiklos objektų eksploatavimas
+„[[#^s-e9fff8329c4f11f2eac0230c|19 straipsnis]]. Ūkinės veiklos objektų eksploatavimas
 
 
 Juridiniai ir fiziniai asmenys, prieš pradėdami eksploatuoti ūkinės veiklos objektus, privalo Aplinkos apsaugos ministerijos nustatyta tvarka gauti gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimą (gamtos išteklių naudojimo leidimą).
@@ -460,13 +465,13 @@ Juridiniai ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus, kuri
 
 
 
-### 13 straipsnis. 20 straipsnio pakeitimas
+### 13 straipsnis. 20 straipsnio pakeitimas ^s-9dab072582f2eff038772850
 
 
-Pakeisti [[#20 straipsnis. 27 straipsnio pakeitimas|20 straipsnio]] pirmąją dalį, antrąją ir trečiąją dalis pripažinti netekusiomis galios, pakeisti ketvirtąją dalį ir ją laikyti antrąja dalimi, pakeisti penktąją dalį ir ją laikyti trečiąja dalimi ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-5ba6718a12cac09c6b316896|20 straipsnio]] pirmąją dalį, antrąją ir trečiąją dalis pripažinti netekusiomis galios, pakeisti ketvirtąją dalį ir ją laikyti antrąja dalimi, pakeisti penktąją dalį ir ją laikyti trečiąja dalimi ir visą straipsnį išdėstyti taip:
 
 
-„[[#20 straipsnis. 27 straipsnio pakeitimas|20 straipsnis]]. Pavojingų cheminių medžiagų gamyba ir naudojimas
+„[[#^s-5ba6718a12cac09c6b316896|20 straipsnis]]. Pavojingų cheminių medžiagų gamyba ir naudojimas
 
 
 Juridiniai ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
@@ -479,13 +484,13 @@ Lietuvos Respublikoje draudžiama cheminio ginklo gamyba, dislokavimas, tranzita
 
 
 
-### 14 straipsnis. 21 straipsnio pakeitimas
+### 14 straipsnis. 21 straipsnio pakeitimas ^s-d4898c6ebd5f11e30ae3cdf6
 
 
-Pakeisti [[#21 straipsnis. 30 straipsnio pakeitimas ir papildymas|21 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-3b5c20bf881c621cdd0e403e|21 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#21 straipsnis. 30 straipsnio pakeitimas ir papildymas|21 straipsnis]]. Radioaktyviųjų medžiagų gamyba ir naudojimas
+„[[#^s-3b5c20bf881c621cdd0e403e|21 straipsnis]]. Radioaktyviųjų medžiagų gamyba ir naudojimas
 
 
 Radioaktyviųjų medžiagų ir atliekų bei kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo, transportavimo, tranzito, įvežimo, išvežimo tvarką nustato Lietuvos Respublikos Vyriausybės įgaliotos institucijos.
@@ -498,13 +503,13 @@ Lietuvos Respublikoje draudžiama branduolinio ginklo gamyba, dislokavimas, tran
 
 
 
-### 15 straipsnis. 22 straipsnio pakeitimas
+### 15 straipsnis. 22 straipsnio pakeitimas ^s-82c67ee80f50c232be957d92
 
 
-Pakeisti [[#22 straipsnis. VII skyriaus pavadinimo pakeitimas|22 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-e1d853fa2fb7499c80f77eca|22 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#22 straipsnis. VII skyriaus pavadinimo pakeitimas|22 straipsnis]]. Biologiniai taršos šaltiniai
+„[[#^s-e1d853fa2fb7499c80f77eca|22 straipsnis]]. Biologiniai taršos šaltiniai
 
 
 Potencialių biologinių taršos šaltinių naudojimo, saugojimo, apskaitos, kūrimo, dauginimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką bei normatyvus nustato Aplinkos apsaugos ministerija kartu su Sveikatos apsaugos ministerija.
@@ -514,13 +519,13 @@ Lietuvos Respublikoje draudžiama biologinio ginklo gamyba, dislokavimas, tranzi
 
 
 
-### 16 straipsnis. 23 straipsnio pakeitimas
+### 16 straipsnis. 23 straipsnio pakeitimas ^s-3108086a4695d33a64f9c38e
 
 
-Pakeisti [[#23 straipsnis. 31 straipsnio pakeitimas|23 straipsnio]] pirmąją dalį, iš trečiosios dalies išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“, pakeisti penktąją dalį, septintąją dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-cf57fda279358db847215985|23 straipsnio]] pirmąją dalį, iš trečiosios dalies išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“, pakeisti penktąją dalį, septintąją dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
-„[[#23 straipsnis. 31 straipsnio pakeitimas|23 straipsnis]]. Atliekų tvarkymas
+„[[#^s-cf57fda279358db847215985|23 straipsnis]]. Atliekų tvarkymas
 
 
 Juridiniai ir fiziniai asmenys privalo tvarkyti atliekų apskaitą, laikytis Lietuvos Respublikos Vyriausybės įgaliotų institucijų nustatytos atliekų laikymo, saugojimo, rūšiavimo, utilizavimo ir nukenksminimo tvarkos. Atliekos tvarkomos, laikomos, saugomos, laidojamos, nukenksminamos ir transportuojamos gamintojų arba naudotojų lėšomis.
@@ -542,13 +547,13 @@ Atliekas įvežti į Lietuvos Respubliką joms saugoti, nukenksminti arba laidot
 
 
 
-### 17 straipsnis. 24 straipsnio pakeitimas
+### 17 straipsnis. 24 straipsnio pakeitimas ^s-5a3dcffd4c9f388ca1fc9585
 
 
-Pakeisti [[#24 straipsnis. 32 straipsnio antrosios dalies pripažinimas netekusia galios|24 straipsnį]] – pirmojoje dalyje vietoj žodžių „viršijami aplinkos būklės kokybės normatyvai“ įrašyti žodžius „labai ir (ar) nuolat viršijami aplinkos kokybės normatyvai, degraduoja aplinka“, pakeisti trečiąją dalį, ketvirtojoje dalyje vietoj žodžio „arba“ įrašyti žodį „ir“, vietoj žodžių „pagal Lietuvos Respublikos aplinkos apsaugos departamento teikimą“ įrašyti žodžius „Aplinkos apsaugos ministerijos teikimu“, šeštosios dalies antrajame sakinyje vietoj žodžio „savivaldybė“ įrašyti žodžius „Aplinkos apsaugos ministerija“ ir išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“, pakeisti septintąją dalį, aštuntojoje dalyje vietoj žodžių „ir savivaldybės“ įrašyti žodžius „apskrities valdytojas ar vietos savivaldos institucijos“ ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-bf0c18b6928e832947823586|24 straipsnį]] – pirmojoje dalyje vietoj žodžių „viršijami aplinkos būklės kokybės normatyvai“ įrašyti žodžius „labai ir (ar) nuolat viršijami aplinkos kokybės normatyvai, degraduoja aplinka“, pakeisti trečiąją dalį, ketvirtojoje dalyje vietoj žodžio „arba“ įrašyti žodį „ir“, vietoj žodžių „pagal Lietuvos Respublikos aplinkos apsaugos departamento teikimą“ įrašyti žodžius „Aplinkos apsaugos ministerijos teikimu“, šeštosios dalies antrajame sakinyje vietoj žodžio „savivaldybė“ įrašyti žodžius „Aplinkos apsaugos ministerija“ ir išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“, pakeisti septintąją dalį, aštuntojoje dalyje vietoj žodžių „ir savivaldybės“ įrašyti žodžius „apskrities valdytojas ar vietos savivaldos institucijos“ ir visą straipsnį išdėstyti taip:
 
 
-„[[#24 straipsnis. 32 straipsnio antrosios dalies pripažinimas netekusia galios|24 straipsnis]]. Ypatingosios ekologinės situacijos
+„[[#^s-bf0c18b6928e832947823586|24 straipsnis]]. Ypatingosios ekologinės situacijos
 
 
 Ypatingoji ekologinė situacija – pavojinga aplinkos būklė, kai dėl ūkinės veiklos, avarijos ar kitokio įvykio bei gamtinių priežasčių labai ir (ar) nuolat viršijami aplinkos kokybės normatyvai, degraduoja aplinka.
@@ -579,13 +584,13 @@ Ekologinių nelaimių likvidavimo išlaidas atlygina kalti juridiniai ir fizinia
 
 
 
-### 18 straipsnis. 25 straipsnio pakeitimas
+### 18 straipsnis. 25 straipsnio pakeitimas ^s-dc5e0d5689df1eabd9015d49
 
 
-Pakeisti [[#25 straipsnis. 33 straipsnio pakeitimas|25 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-2396b9c970bda189deaaf5db|25 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#25 straipsnis. 33 straipsnio pakeitimas|25 straipsnis]]. Aplinkos būklės stebėjimo sistema
+„[[#^s-2396b9c970bda189deaaf5db|25 straipsnis]]. Aplinkos būklės stebėjimo sistema
 
 
 Aplinkai ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos monitoringą. Aplinkos apsaugos ministerija vykdo aplinkos monitoringą ir koordinuoja ūkio subjektų vykdomą aplinkos monitoringą.
@@ -594,17 +599,17 @@ Aplinkai ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vien
 Valstybinis aplinkos monitoringas finansuojamas iš valstybės lėšų.Ūkio subjektai aplinkos monitoringą vykdo savo lėšomis.
 
 
-Valstybinio ir ūkio subjektų aplinkos monitoringo turinį, struktūrą bei vykdymo tvarką nustato Aplinkos monitoringo įstatymas.“
+Valstybinio ir ūkio subjektų aplinkos monitoringo turinį, struktūrą bei vykdymo tvarką nustato [[latest/TAR.1A98CE535B1C|Aplinkos monitoringo įstatymas]].“
 
 
 
-### 19 straipsnis. 26 straipsnio pakeitimas
+### 19 straipsnis. 26 straipsnio pakeitimas ^s-e9fff8329c4f11f2eac0230c
 
 
-Pakeisti [[#26 straipsnis. 34 straipsnio pakeitimas|26 straipsnį]] – pirmojoje dalyje po žodžio „ribojamas“ įrašyti žodžius „aplinkos apsaugos“, vietoj žodžio „limitavimu“ įrašyti žodį „limitais“, antrojoje dalyje vietoj žodžio „išmetimo“ įrašyti žodį „emisijos“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“, trečiojoje dalyje vietoj žodžių „ekologinę ekspertizę“ įrašyti žodžius „poveikio aplinkai vertinimą“ ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-a213c2c45a130df308062f77|26 straipsnį]] – pirmojoje dalyje po žodžio „ribojamas“ įrašyti žodžius „aplinkos apsaugos“, vietoj žodžio „limitavimu“ įrašyti žodį „limitais“, antrojoje dalyje vietoj žodžio „išmetimo“ įrašyti žodį „emisijos“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“, trečiojoje dalyje vietoj žodžių „ekologinę ekspertizę“ įrašyti žodžius „poveikio aplinkai vertinimą“ ir visą straipsnį išdėstyti taip:
 
 
-„[[#26 straipsnis. 34 straipsnio pakeitimas|26 straipsnis]]. Neigiamo poveikio aplinkai ribojimo sistema
+„[[#^s-a213c2c45a130df308062f77|26 straipsnis]]. Neigiamo poveikio aplinkai ribojimo sistema
 
 
 Neigiamas ūkinės veiklos poveikis aplinkai ribojamas aplinkos apsaugos normatyvais, standartais, limitais, teisinėmis ir ekonominio reguliavimo priemonėmis.
@@ -617,7 +622,7 @@ Prieš naujos technologijos, gaminio ar medžiagos kūrimą, gamybos pradžią i
 
 
 
-### 20 straipsnis. 27 straipsnio pakeitimas
+### 20 straipsnis. 27 straipsnio pakeitimas ^s-5ba6718a12cac09c6b316896
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
@@ -633,7 +638,7 @@ Poveikio aplinkai vertinimo valstybinės ekspertizės išvados yra privalomos vi
 
 
 
-### 21 straipsnis. 30 straipsnio pakeitimas ir papildymas
+### 21 straipsnis. 30 straipsnio pakeitimas ir papildymas ^s-3b5c20bf881c621cdd0e403e
 
 
 Pakeisti ir papildyti 30 straipsnį – iš antrosios dalies išbraukti žodžius „ ir Aplinkos apsaugos departamento“, trečiąją dalį papildyti antruoju sakiniu „Papildomas finansavimo šaltinis gali būti užsienio kreditai.“, ketvirtojoje dalyje vietoj žodžių „Aukščiausioji Taryba“ įrašyti žodį „Seimas“ ir šias dalis išdėstyti taip:
@@ -649,7 +654,7 @@ Valstybinio gamtos apsaugos fondo sudarymo ir disponavimo juo tvarką nustato Li
 
 
 
-### 22 straipsnis. VII skyriaus pavadinimo pakeitimas
+### 22 straipsnis. VII skyriaus pavadinimo pakeitimas ^s-e1d853fa2fb7499c80f77eca
 
 
 Pakeisti VII skyriaus pavadinimą ir jį išdėstyti taip:
@@ -659,7 +664,7 @@ Pakeisti VII skyriaus pavadinimą ir jį išdėstyti taip:
 
 
 
-### 23 straipsnis. 31 straipsnio pakeitimas
+### 23 straipsnis. 31 straipsnio pakeitimas ^s-cf57fda279358db847215985
 
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
@@ -674,48 +679,48 @@ Lietuvos Respublikoje valstybinę aplinkos apsaugos ir gamtos išteklių naudoji
 Vykdydami tarnybines pareigas, valstybiniai aplinkos apsaugos inspektoriai turi teisę:
 
 
-1) nustatyta tvarka sustabdyti ūkinės ir kitos veiklos objektų statybą ar rekonstravimą, sustabdyti ar apriboti juridinių ir fizinių asmenų veiklą, jeigu pažeidžiami aplinkos apsaugos įstatymai arba ši veikla neatitinka aplinkos apsaugos normatyvų, taisyklių, limitų ir kitų nustatytų sąlygų; ^fbc274a8d7d7facf1bebfd25
+1) nustatyta tvarka sustabdyti ūkinės ir kitos veiklos objektų statybą ar rekonstravimą, sustabdyti ar apriboti juridinių ir fizinių asmenų veiklą, jeigu pažeidžiami aplinkos apsaugos įstatymai arba ši veikla neatitinka aplinkos apsaugos normatyvų, taisyklių, limitų ir kitų nustatytų sąlygų; ^s-5ff782ced10a610839255d59
 
 
-2) pateikę tarnybinį pažymėjimą, netrukdomi įeiti (įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo teritorijas ir objektus, kad vykdytų juose valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę ir atliktų kontrolinius tyrimus bei matavimus; ^05cdd19ba099dabfa45ebb63
+2) pateikę tarnybinį pažymėjimą, netrukdomi įeiti (įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo teritorijas ir objektus, kad vykdytų juose valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę ir atliktų kontrolinius tyrimus bei matavimus; ^s-790d73ecc93653261bb36a8c
 
 
-3) surašyti protokolus, aktus ir kitokius nustatytos formos dokumentus; ^0cba4b73c193cb543224d44d
+3) surašyti protokolus, aktus ir kitokius nustatytos formos dokumentus; ^s-d9d06a4993a93366d44a3ab3
 
 
-4) nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^d4995deff6fb89e52741c8a7
+4) nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^s-714aa824bfcea61e208406e0
 
 
-5) sustabdyti ir tikrinti Lietuvos Respublikos bei užsienio valstybių laivus, kitas vandens transporto priemones Lietuvos Respublikos vidaus, teritoriniuose vandenyse ir ekonominėje zonoje – vykdyti juose valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, taip pat vykdyti šią kontrolę tarptautiniuose vandenyse esančiuose Lietuvos Respublikos laivuose; ^9ff577679c17fa2945ab54c1
+5) sustabdyti ir tikrinti Lietuvos Respublikos bei užsienio valstybių laivus, kitas vandens transporto priemones Lietuvos Respublikos vidaus, teritoriniuose vandenyse ir ekonominėje zonoje – vykdyti juose valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, taip pat vykdyti šią kontrolę tarptautiniuose vandenyse esančiuose Lietuvos Respublikos laivuose; ^s-0205bea29132c843ca0ca6fc
 
 
-6) kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti įtariamų asmenų transporto priemones, nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą; ^84c5ce66517a2ba50a9f4489
+6) kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti įtariamų asmenų transporto priemones, nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą; ^s-7314557ebb9397bc2d973ac6
 
 
-7) pagal tarptautinius įsipareigojimus tikrinti Lietuvos Respublikos juridinių ir fizinių asmenų veiklą, susijusią su gamtos išteklių naudojimu tarptautiniuose vandenyse; ^39b1630e50d054c2db3680f5
+7) pagal tarptautinius įsipareigojimus tikrinti Lietuvos Respublikos juridinių ir fizinių asmenų veiklą, susijusią su gamtos išteklių naudojimu tarptautiniuose vandenyse; ^s-8d8ecfe2c7c2fdc881d81afb
 
 
-8) įstatymų numatytais atvejais pristatyti aplinkos apsaugos įstatymų pažeidėjus į policiją arba gyvenvietės, apylinkės savivaldybės patalpas asmenybei nustatyti; ^0488be082c7d32e68d47561d
+8) įstatymų numatytais atvejais pristatyti aplinkos apsaugos įstatymų pažeidėjus į policiją arba gyvenvietės, apylinkės savivaldybės patalpas asmenybei nustatyti; ^s-fab237288cbe70d85c135257
 
 
-9) saugoti, nešioti ir panaudoti nustatyta tvarka tarnybinį ginklą bei specialiąsias priemones – antrankius, asmens apsaugai skirtas dujas, tarnybinius šunis, transporto priverstinio stabdymo priemones; ^b30f4771ed16d8bf9cc8b2fd
+9) saugoti, nešioti ir panaudoti nustatyta tvarka tarnybinį ginklą bei specialiąsias priemones – antrankius, asmens apsaugai skirtas dujas, tarnybinius šunis, transporto priverstinio stabdymo priemones; ^s-b01308e0ffe0d64de3cfd9a3
 
 
-10) dėvėti nustatyto pavyzdžio uniformą. ^e04a13dbe1512d85b7700e6d
+10) dėvėti nustatyto pavyzdžio uniformą. ^s-3a2ea62504c37f76c38f933a
 
 
 Aplinkos apsaugos ministerija, vykdydama valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, steigia neetatinių aplinkos apsaugos inspektorių institucijas, tvirtina jų nuostatus.“
 
 
 
-### 24 straipsnis. 32 straipsnio antrosios dalies pripažinimas netekusia galios
+### 24 straipsnis. 32 straipsnio antrosios dalies pripažinimas netekusia galios ^s-bf0c18b6928e832947823586
 
 
 Pripažinti netekusia galios 32 straipsnio antrąją dalį.
 
 
 
-### 25 straipsnis. 33 straipsnio pakeitimas
+### 25 straipsnis. 33 straipsnio pakeitimas ^s-2396b9c970bda189deaaf5db
 
 
 Pakeisti 33 straipsnio 2 punktą ir visą straipsnį išdėstyti taip:
@@ -727,14 +732,14 @@ Pakeisti 33 straipsnio 2 punktą ir visą straipsnį išdėstyti taip:
 Pareikšti ieškinius dėl neteisėta veika padarytos žalos turi teisę:
 
 
-1) juridiniai ir fiziniai asmenys, kurių sveikatai, turtui ar interesams padaryta žalos; ^777dedbd92ed290dd5e2ecfd
+1) juridiniai ir fiziniai asmenys, kurių sveikatai, turtui ar interesams padaryta žalos; ^s-d216da2e477aebfcf0b1409e
 
 
-2) Lietuvos Respublikos aplinkos apsaugos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.“ ^c88db015892066569b28ecd6
+2) Lietuvos Respublikos aplinkos apsaugos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.“ ^s-56a4bef2ea69993dc566c82f
 
 
 
-### 26 straipsnis. 34 straipsnio pakeitimas
+### 26 straipsnis. 34 straipsnio pakeitimas ^s-a213c2c45a130df308062f77
 
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:

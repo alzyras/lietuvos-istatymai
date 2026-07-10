@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.D0CD0966D67F.md",
   "latest_revision": "1995-03-26",
-  "latest_sha256": "ba59ce98e8497a7fb7b15e3e2e10bbf6a3a3ca26d1e468b0560c2c5cd61e0d70",
+  "latest_sha256": "c514e1d10d62a6582ec4d4243ee546d8eea4fb6278b72546a9cb4a6ca7182061",
   "metadata_path": "latest/TAR.D0CD0966D67F.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos vietos savivaldos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

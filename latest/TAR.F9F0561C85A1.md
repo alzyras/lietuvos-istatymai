@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F9F0561C85A1"
 pavadinimas: "Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5 straipsnio papildymo įstatymas"
+  - "vartotojų teisių gynimo įstatymo 5 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-06-04"
 latest_path: "latest/TAR.F9F0561C85A1.md"
 latest_sha256: "7be24f03190e295b27fd576256377a9006076eb55e0069f815eb61859a187e11"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F9F0561C85A1]]"
 ---
 # Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F9F0561C85A1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F9F0561C85A1
+- Ryšiai: [[Ryšiai/TAR.F9F0561C85A1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 4 dalies papildymas
+### 1 straipsnis. 5 straipsnio 4 dalies papildymas ^s-6f55c0b409eb021874e9ff82
 
 
 Papildyti 5 straipsnio 4 dalį antruoju sakiniu ir ją išdėstyti taip:

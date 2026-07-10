@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C961DAD4DB40"
 pavadinimas: "Lietuvos Respublikos statybos įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statybos įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "statybos įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-19"
 latest_path: "latest/TAR.C961DAD4DB40.md"
 latest_sha256: "8994cfea8bc5c789b2fa7bad1a6b1d29b9012576c6ccfb6e4228b2faaedd19e9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C961DAD4DB40]]"
 ---
 # Lietuvos Respublikos statybos įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C961DAD4DB40.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C961DAD4DB40
+- Ryšiai: [[Ryšiai/TAR.C961DAD4DB40|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 23 straipsnio 4 dalies pakeitimas ^s-b3643371def1d884ae740ce8
 
 
 Pakeisti 23 straipsnio 4 dalį ir ją išdėstyti taip:

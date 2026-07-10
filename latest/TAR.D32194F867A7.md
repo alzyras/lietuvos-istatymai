@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D32194F867A7"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais ratifikavimo įstatymas"
+  - "Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-31"
 latest_path: "latest/TAR.D32194F867A7.md"
 latest_sha256: "b741d8b277a5f17f478757098aadcfa4536a91a6ff1e41fe811b14a74f9e87e4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D32194F867A7]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D32194F867A7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D32194F867A7
+- Ryšiai: [[Ryšiai/TAR.D32194F867A7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-94b0bd31525f9edfcdd2ff5c
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. gegužės 8 d. dekretą Nr. 1311, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais, pasirašytą 2000 m. gegužės 11 d. Astanoje.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BF7EC56F4BAA"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 27 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 27 straipsnio pakeitimo įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 27 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-11-05"
 latest_path: "latest/TAR.BF7EC56F4BAA.md"
 latest_sha256: "c63e9075ea7c0502d3ccecf23b961823afd88198c05b7c32b6d2cd50ff531ff0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BF7EC56F4BAA]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 27 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BF7EC56F4BAA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BF7EC56F4BAA
+- Ryšiai: [[Ryšiai/TAR.BF7EC56F4BAA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio pakeitimas
+### 1 straipsnis. 27 straipsnio pakeitimas ^s-1cd379ebcc283f4459ef272b
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:

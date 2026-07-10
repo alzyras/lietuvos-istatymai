@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.785D1FFE99AE"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 8 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 8 straipsnių pakeitimo ir papildymo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 3, 4, 8 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.785D1FFE99AE.md"
 latest_sha256: "df919a0dba33e12715f35f1668cef7ddb329ffd38f7d4c9a704fe93fc5147344"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.785D1FFE99AE]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 8 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.785D1FFE99AE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.785D1FFE99AE
+- Ryšiai: [[Ryšiai/TAR.785D1FFE99AE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,17 +38,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas ^s-e0004760b3dc3b42e9b35a8e
 
 
 Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Ligos ir motinystės socialinio draudimo stažas – laikotarpiai, per kuriuos mokamos arba pagal įstatymus turėjo būti mokamos valstybinio socialinio draudimo įmokos ligos ir motinystės socialiniam draudimui, taip pat per kuriuos apdraustasis asmuo gavo šio įstatymo nustatytas ligos (įskaitant darbdavio mokamas 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, nedarbo draudimo išmokas, mokamas vadovaujantis Nedarbo socialinio draudimo įstatymu. Savarankiškai dirbančių asmenų ar asmenų, kurie gauna pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, socialinio draudimo stažas nustatomas pagal sumokėtas socialinio draudimo įmokas. Jei šios įmokos sumokėtos nuo minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio socialinio draudimo stažas. Tais atvejais, kai įmokos sumokėtos nuo mažesnės arba didesnės nei minimalioji mėnesinė alga sumos, socialinio draudimo stažas laikomas proporcingai mažesniu arba didesniu. Ligos ir motinystės socialinio draudimo stažas apskaičiuojamas Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.“
+„4. Ligos ir motinystės socialinio draudimo stažas – laikotarpiai, per kuriuos mokamos arba pagal įstatymus turėjo būti mokamos valstybinio socialinio draudimo įmokos ligos ir motinystės socialiniam draudimui, taip pat per kuriuos apdraustasis asmuo gavo šio įstatymo nustatytas ligos (įskaitant darbdavio mokamas 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas vadovaujantis [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu]], nedarbo draudimo išmokas, mokamas vadovaujantis [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymu]]. Savarankiškai dirbančių asmenų ar asmenų, kurie gauna pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, socialinio draudimo stažas nustatomas pagal sumokėtas socialinio draudimo įmokas. Jei šios įmokos sumokėtos nuo minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio socialinio draudimo stažas. Tais atvejais, kai įmokos sumokėtos nuo mažesnės arba didesnės nei minimalioji mėnesinė alga sumos, socialinio draudimo stažas laikomas proporcingai mažesniu arba didesniu. Ligos ir motinystės socialinio draudimo stažas apskaičiuojamas Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. 4 straipsnio papildymas 5 dalimi
+### 2 straipsnis. 4 straipsnio papildymas 5 dalimi ^s-3ccd65dbbca2f2ed30d4639f
 
 
 Papildyti 4 straipsnį 5 dalimi:
@@ -53,7 +58,7 @@ Papildyti 4 straipsnį 5 dalimi:
 
 
 
-### 3 straipsnis. 8 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 5 dalies pakeitimas ^s-c8209498319a5474ad9506d8
 
 
 Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo taikymas
+### 4 straipsnis. Įstatymo taikymas ^s-38540077ebd3393519096c50
 
 
 Šio įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.

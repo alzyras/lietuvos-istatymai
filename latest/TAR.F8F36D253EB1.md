@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F8F36D253EB1"
 pavadinimas: "Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-06-08"
 latest_path: "latest/TAR.F8F36D253EB1.md"
 latest_sha256: "3f2af614599a60939e1cca2fec81c4af356e7ace4a4a797cec8dd07450d3fe8c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F8F36D253EB1]]"
 ---
 # Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F8F36D253EB1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F8F36D253EB1
+- Ryšiai: [[Ryšiai/TAR.F8F36D253EB1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -43,10 +47,10 @@ Vilnius
 4. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugsėjo 1 d. patvirtinti Lietuvos Respublikos aplinkos apsaugos ministerijos nuostatus. Iki bus patvirtinti nuostatai, tačiau ne ilgiau kaip iki 1994 m. rusėjo 1 d., Lietuvos Respublikos aplinkos apsaugos ministerija vykdo funkcijas, kurios pagal Lietuvos Respublikos aplinkos apsaugos departamento įstatymą buvo priskirtos Aplinkos apsaugos departamentui ir turi šiam departamentui suteiktus įgaliojimus, išskyrus tuos, kurie nurodyti to įstatymo 5, 6 straipsniuose ir 9 straipsnio 4 ir 11 punktuose.
 
 
-5. Reorganizuoti nuo Lietuvos Respublikos Vyriausybės įstatymo įsigaliojimo dienos Lietuvos Respublikos kultūros ir švietimo ministeriją į Lietuvos Respublikos kultūros ministeriją ir Lietuvos Respublikos švietimo ir mokslo ministeriją. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugpjūčio 1 d. patvirtinti Lietuvos Respublikos kultūros ministerijos ir Lietuvos Respublikos švietimo ir mokslo ministerijos nuostatus.
+5. Reorganizuoti nuo [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymo]] įsigaliojimo dienos Lietuvos Respublikos kultūros ir švietimo ministeriją į Lietuvos Respublikos kultūros ministeriją ir Lietuvos Respublikos švietimo ir mokslo ministeriją. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugpjūčio 1 d. patvirtinti Lietuvos Respublikos kultūros ministerijos ir Lietuvos Respublikos švietimo ir mokslo ministerijos nuostatus.
 
 
-6. Reorganizuoti nuo Lietuvos Respublikos Vyriausybės įstatymo įsigaliojimo dienos Lietuvos Respublikos socialinės apsaugos ministeriją į Lietuvos Respublikos socialinės apsaugos ir darbo ministeriją. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugpjūčio 1 d. patvirtinti Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos nuostatus.
+6. Reorganizuoti nuo [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymo]] įsigaliojimo dienos Lietuvos Respublikos socialinės apsaugos ministeriją į Lietuvos Respublikos socialinės apsaugos ir darbo ministeriją. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugpjūčio 1 d. patvirtinti Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos nuostatus.
 
 
 7. Įsteigti Lietuvos Respublikos valdymo reformų ir savivaldybių reikalų ministeriją nuo 1994 m. liepos 1 d., nedidinant valstybės valdymui skirtų lėšų. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugpjūčio 1 d. patvirtinti Lietuvos Respublikos valdymo reformų ir savivaldybių reikalų ministerijos nuostatus.
@@ -55,7 +59,7 @@ Vilnius
 8. Lietuvos Respublikos Vyriausybė turi iki 1994 m. rugpjūčio 1 d. patvirtinti Lietuvos Respublikos Vyriausybės darbo reglamentą.
 
 
-9. Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1994 m. liepos 1 d. pertvarkyti dabar veikiančias ministerijas ir Vyriausybės įstaigas pagal Lietuvos Respublikos Vyriausybės įstatymo nuostatas.
+9. Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1994 m. liepos 1 d. pertvarkyti dabar veikiančias ministerijas ir Vyriausybės įstaigas pagal [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymo]] nuostatas.
 
 
 10. Pripažinti netekusiais galios:

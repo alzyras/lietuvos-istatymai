@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8741EE5B24C8"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 24 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 24 ir 27 straipsnių pakeitimo įstatymas"
+  - "akcizų įstatymo 24 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-06-20"
 latest_path: "latest/TAR.8741EE5B24C8.md"
 latest_sha256: "47388c8e0b348711fcdbd6e0babc58c4550c6b0ecd999ae7023d3589e5fccca7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8741EE5B24C8]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 24 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8741EE5B24C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8741EE5B24C8
+- Ryšiai: [[Ryšiai/TAR.8741EE5B24C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio pakeitimas
+### 1 straipsnis. 24 straipsnio pakeitimas ^s-41463297313aad47f58411b1
 
 
 24 straipsnyje vietoj žodžių „specialiais ženklais“ įrašyti žodžius „etilo alkoholio ir alkoholinių gėrimų“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Lietuvos Respublikoje pagaminti etilo alkoholis ir alkoholiniai gėrimai, kuriem
 
 
 
-### 2 straipsnis. 27 straipsnio pakeitimas
+### 2 straipsnis. 27 straipsnio pakeitimas ^s-68c527a6dd9ea2307a70b0a0
 
 
 27 straipsnyje vietoj žodžių „specialiais ženklais“ įrašyti žodžius „apdoroto tabako“ ir visą straipsnį išdėstyti taip:

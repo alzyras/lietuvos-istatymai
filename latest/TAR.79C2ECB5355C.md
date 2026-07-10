@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.79C2ECB5355C"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 1, 15, 19, 28, 29 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 1, 15, 19, 28, 29 straipsnių pakeitimo ir papildymo įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 1, 15, 19, 28, 29 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-29"
 latest_path: "latest/TAR.79C2ECB5355C.md"
 latest_sha256: "8e907ce8fac8bc0df87caf110894df7ee9c847c54e266b4fa8f6cd3206b824ab"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.79C2ECB5355C]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 1, 15, 19, 28, 29 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.79C2ECB5355C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.79C2ECB5355C
+- Ryšiai: [[Ryšiai/TAR.79C2ECB5355C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-281e6e448060a4bbcfb621c1
 
 
 1 straipsnyje po žodžio „kategorijas“ įrašyti žodžius „bei šių asmenų“ ir visą straipsnį išdėstyti taip:
@@ -47,7 +52,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 15 straipsnio pakeitimas
+### 2 straipsnis. 15 straipsnio pakeitimas ^s-0686aafbb56be7f79afc8bd7
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -57,11 +62,11 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Ligos pašalpų dydis
 
 
-Apdraustajam tapus laikinai nedarbingam dėl draudiminio įvykio, pripažinto pagal [[#6 straipsnis. Įstatymo įsigaliojimas|6 straipsnį]], mokama ligos pašalpa, kurios dydis yra 100 procentų kompensuojamojo uždarbio, taikomo ligos pašalpoms skaičiuoti. Pašalpa mokama už darbo laiką pagal asmens darbo (pamainų) grafiką.“
+Apdraustajam tapus laikinai nedarbingam dėl draudiminio įvykio, pripažinto pagal [[#^s-01415eac2feb84559eea8d7a|6 straipsnį]], mokama ligos pašalpa, kurios dydis yra 100 procentų kompensuojamojo uždarbio, taikomo ligos pašalpoms skaičiuoti. Pašalpa mokama už darbo laiką pagal asmens darbo (pamainų) grafiką.“
 
 
 
-### 3 straipsnis. 19 straipsnio papildymas 7 dalimi
+### 3 straipsnis. 19 straipsnio papildymas 7 dalimi ^s-4d2ec1dc5933460b0c6fafbc
 
 
 Papildyti 19 straipsnį 7 dalimi:
@@ -71,7 +76,7 @@ Papildyti 19 straipsnį 7 dalimi:
 
 
 
-### 4 straipsnis. 28 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 28 straipsnio 3 dalies pakeitimas ^s-ed1546c2dd31a6286748223f
 
 
 28 straipsnio 3 dalyje vietoj žodžio „tarifą“ įrašyti žodį „tarifus“ ir šią dalį išdėstyti taip:
@@ -81,7 +86,7 @@ Papildyti 19 straipsnį 7 dalimi:
 
 
 
-### 5 straipsnis. 29 straipsnio pakeitimas
+### 5 straipsnis. 29 straipsnio pakeitimas ^s-967e7f2398ebbfeeb3968f81
 
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
@@ -91,42 +96,42 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 „29 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifai
 
 
-1. Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų dydis priklauso nuo draudėjo darbuotojų saugos ir sveikatos būklės: ^fa9e48b926cbfe9287d3ef27
+1. Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų dydis priklauso nuo draudėjo darbuotojų saugos ir sveikatos būklės: ^s-3c570904f0361cd3b2afbb1d
 
 
-1) darbo priemonių, darbo sąlygų neatitikties darbuotojų saugos ir sveikatos teisės aktų nustatytiems reikalavimams; ^e5cce0de6632690c91d0e24b
+1) darbo priemonių, darbo sąlygų neatitikties darbuotojų saugos ir sveikatos teisės aktų nustatytiems reikalavimams; ^s-76b5b5f4186825e32fcc8cda
 
 
-2) Valstybinės darbo inspekcijos nustatytų darbuotojų saugos ir sveikatos teisės aktų pažeidimų; ^feff76fdaf8330e85a5170d9
+2) Valstybinės darbo inspekcijos nustatytų darbuotojų saugos ir sveikatos teisės aktų pažeidimų; ^s-b68bcaa4f9155507e719ebc3
 
 
-3) nelaimingų atsitikimų darbe sunkumo ir dėl šių įvykių nukentėjusių apdraustųjų skaičiaus; ^654cf37209f313430daa4ab7
+3) nelaimingų atsitikimų darbe sunkumo ir dėl šių įvykių nukentėjusių apdraustųjų skaičiaus; ^s-f869781f8871c2aa3ca6e054
 
 
-4) dėl ūmių profesinių ligų toje įmonėje nukentėjusių apdraustų asmenų skaičiaus; ^fb0855298973e2371be938e4
+4) dėl ūmių profesinių ligų toje įmonėje nukentėjusių apdraustų asmenų skaičiaus; ^s-8ec4fa8b7640e98567b2ac4c
 
 
-5) nelaimingų atsitikimų, įvykusių dirbant pavojingus darbus, skaičiaus ir pavojingus darbus dirbančių darbuotojų skaičiaus santykio. ^25749c4f3a858b180b843551
+5) nelaimingų atsitikimų, įvykusių dirbant pavojingus darbus, skaičiaus ir pavojingus darbus dirbančių darbuotojų skaičiaus santykio. ^s-242be0133e8097c38707484e
 
 
-2. [[#^fa9e48b926cbfe9287d3ef27|Šio straipsnio 1 dalies]] 1, 2, 5 punktuose nustatytus rodiklius Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos teikia Valstybinė darbo inspekcija. [[#^fa9e48b926cbfe9287d3ef27|Šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytiems rodikliams nustatyti naudojami Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenys. ^d8dec902c01cd94fe0b00c51
+2. [[#^s-3c570904f0361cd3b2afbb1d|Šio straipsnio 1 dalies]] 1, 2, 5 punktuose nustatytus rodiklius Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos teikia Valstybinė darbo inspekcija. [[#^s-3c570904f0361cd3b2afbb1d|Šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytiems rodikliams nustatyti naudojami Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenys. ^s-91362a2c3bdd1a512c5bf6a2
 
 
-3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir [[#^fa9e48b926cbfe9287d3ef27|šio straipsnio 1 dalyje]] nurodytais rodikliais, kasmet apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius ir priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms. Draudėjų priskyrimą nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio draudimo fondo taryba.“ ^4ff2344618a534bd51b8c927
-
-
-
-### 6 straipsnis. Įstatymo įsigaliojimas
-
-
-1. Šio įstatymo 1, 2, 3 ir [[#4 straipsnis. 28 straipsnio 3 dalies pakeitimas|4 straipsniai]] įsigalioja 2009 m. sausio 1 d. ^a33b7b3934ceb1f71d597ac8
-
-
-2. Šio įstatymo [[#5 straipsnis. 29 straipsnio pakeitimas|5 straipsnis]] įsigalioja 2010 m. sausio 1 d. ^012d9c18e9c126365f4d3878
+3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir [[#^s-3c570904f0361cd3b2afbb1d|šio straipsnio 1 dalyje]] nurodytais rodikliais, kasmet apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius ir priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms. Draudėjų priskyrimą nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio draudimo fondo taryba.“ ^s-fae3fec0ce1f3e09715f9c56
 
 
 
-### 7 straipsnis. Įstatymo įgyvendinimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-01415eac2feb84559eea8d7a
+
+
+1. Šio įstatymo 1, 2, 3 ir [[#^s-ed1546c2dd31a6286748223f|4 straipsniai]] įsigalioja 2009 m. sausio 1 d. ^s-969e9e49e068455b29c0f1f5
+
+
+2. Šio įstatymo [[#^s-967e7f2398ebbfeeb3968f81|5 straipsnis]] įsigalioja 2010 m. sausio 1 d. ^s-248897dd45a396874a0a0c40
+
+
+
+### 7 straipsnis. Įstatymo įgyvendinimas ^s-a61f0a85e8023c927ac73405
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija priima šiam įstatymui įgyvendinti reikalingus teisės aktus.

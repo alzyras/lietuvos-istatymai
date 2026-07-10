@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.50C78CEF37AA"
 pavadinimas: "Lietuvos Respublikos statybos įstatymo 2, 5, 20, 23, 27, 33 ir 35 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statybos įstatymo 2, 5, 20, 23, 27, 33 ir 35 straipsnių pakeitimo įstatymas"
+  - "statybos įstatymo 2, 5, 20, 23, 27, 33 ir 35 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-30"
 latest_path: "latest/TAR.50C78CEF37AA.md"
 latest_sha256: "af192c2634d6c88a471327d8e19eaee9a6d23442a01e16e1b3be326c32a2a2bb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.50C78CEF37AA]]"
 ---
 # Lietuvos Respublikos statybos įstatymo 2, 5, 20, 23, 27, 33 ir 35 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.50C78CEF37AA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.50C78CEF37AA
+- Ryšiai: [[Ryšiai/TAR.50C78CEF37AA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 32 ir 33 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 32 ir 33 dalių pakeitimas ^s-0b99efdef23a52228bac20b3
 
 
-1. 2 straipsnio 32 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip: ^baf9e4bc3764d3996ea0ba5f
+1. 2 straipsnio 32 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip: ^s-cb792993cc5f411a9d9f60c4
 
 
-„32. Statinio projektavimo sąlygos – privalomieji reikalavimai, jeigu jie nenustatyti ar nepakankamai išsamiai nurodyti teritorijų planavimo dokumentuose: tiesti komunalinius ir vietinius inžinerinius tinklus, prijungti prie jų statinio ir technologines inžinerines sistemas, taip pat statybos sklypo inžinerinius tinklus; nutiesti susisiekimo komunikacijas, prijungti prie jų statybos sklypo susisiekimo komunikacijas; savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) nustatomi statinio architektūros ir statybos sklypo tvarkymo urbanistiniai reikalavimai, atitinkantys šio ir kitų įstatymų bei teritorijų planavimo dokumentų nustatytus statybos sklypo (ar teritorijos) tvarkymo ar apsaugos reikalavimus (reglamentą), atsižvelgiant į statinio paskirtį, konkrečią statybos vietą, gretimybes bei trečiųjų asmenų pagrįstų teisių apsaugą, susijusią su statinio statyba; daugiabučio gyvenamojo namo bendrojo naudojimo patalpų rekonstravimo ir gyvenamųjų patalpų paskirties keitimo reikalavimai; planuojamos ūkinės veiklos poveikio aplinkai vertinimo dokumentai (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatytais atvejais); aplinkos apsaugos institucijos nustatyti gamtos išteklių naudojimo reikalavimai (tuo atveju, kai neprivalomas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, bet užbaigus statyti statinį yra reikalingas šios institucijos leidimas naudoti gamtos išteklius); už nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingos įgaliotos institucijos patvirtintas nekilnojamosios kultūros paveldo vertybės apsaugos reglamentas (arba laikinas reglamentas), kurio sąvoka apibrėžta Nekilnojamųjų kultūros vertybių apsaugos įstatyme; Vyriausybės įgaliotos institucijos patvirtintas saugomos teritorijos reglamentas (arba laikinas reglamentas), kurio sąvoka apibrėžta Saugomų teritorijų įstatyme; kiti įstatymų nustatyti reikalavimai.“
+„32. Statinio projektavimo sąlygos – privalomieji reikalavimai, jeigu jie nenustatyti ar nepakankamai išsamiai nurodyti teritorijų planavimo dokumentuose: tiesti komunalinius ir vietinius inžinerinius tinklus, prijungti prie jų statinio ir technologines inžinerines sistemas, taip pat statybos sklypo inžinerinius tinklus; nutiesti susisiekimo komunikacijas, prijungti prie jų statybos sklypo susisiekimo komunikacijas; savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) nustatomi statinio architektūros ir statybos sklypo tvarkymo urbanistiniai reikalavimai, atitinkantys šio ir kitų įstatymų bei teritorijų planavimo dokumentų nustatytus statybos sklypo (ar teritorijos) tvarkymo ar apsaugos reikalavimus (reglamentą), atsižvelgiant į statinio paskirtį, konkrečią statybos vietą, gretimybes bei trečiųjų asmenų pagrįstų teisių apsaugą, susijusią su statinio statyba; daugiabučio gyvenamojo namo bendrojo naudojimo patalpų rekonstravimo ir gyvenamųjų patalpų paskirties keitimo reikalavimai; planuojamos ūkinės veiklos poveikio aplinkai vertinimo dokumentai ([[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nustatytais atvejais); aplinkos apsaugos institucijos nustatyti gamtos išteklių naudojimo reikalavimai (tuo atveju, kai neprivalomas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, bet užbaigus statyti statinį yra reikalingas šios institucijos leidimas naudoti gamtos išteklius); už nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingos įgaliotos institucijos patvirtintas nekilnojamosios kultūros paveldo vertybės apsaugos reglamentas (arba laikinas reglamentas), kurio sąvoka apibrėžta [[latest/TAR.9BC8AEE9D9F8|Nekilnojamųjų kultūros vertybių apsaugos įstatyme]]; Vyriausybės įgaliotos institucijos patvirtintas saugomos teritorijos reglamentas (arba laikinas reglamentas), kurio sąvoka apibrėžta [[latest/TAR.FF1083B528B7|Saugomų teritorijų įstatyme]]; kiti įstatymų nustatyti reikalavimai.“
 
 
-2. 2 straipsnio 33 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip: ^ff4843a9985ea50582147bb1
+2. 2 straipsnio 33 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip: ^s-6a740526ccb6d0d92405d348
 
 
 „33. Statinio projektavimo sąlygų sąvadas – savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) patvirtintas konkrečiam statiniui nustatytų projektavimo sąlygų, įvardytų šio straipsnio 32 dalyje, bendrasis dokumentas.“
 
 
 
-### 2 straipsnis. 5 straipsnio 3 punkto pakeitimas
+### 2 straipsnis. 5 straipsnio 3 punkto pakeitimas ^s-336f9226677861a12c68b6e9
 
 
 5 straipsnio 3 punkte vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šį punktą išdėstyti taip:
@@ -57,183 +62,183 @@ Vilnius
 
 
 
-### 3 straipsnis. 20 straipsnio 2, 3, 4, 5, 9, 10 ir 12 dalių pakeitimas
+### 3 straipsnis. 20 straipsnio 2, 3, 4, 5, 9, 10 ir 12 dalių pakeitimas ^s-28f6005c58272fee2c409d22
 
 
-1. 20 straipsnio 2 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^436c1230b18ddca4fe8b0269
+1. 20 straipsnio 2 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^s-3ae9a2a2ad540cf72f4fdfb6
 
 
 „2. Statinio projektavimo sąlygų sąvadui gauti statytojas (užsakovas) pateikia savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) prašymą ir:
 
 
-1) duomenis apie statinį (pagal nustatytą formą); ^b1db0ad339796ccf5cc10ade
+1) duomenis apie statinį (pagal nustatytą formą); ^s-d94174d67ca9e0015c777436
 
 
-2) žemės sklypo nuosavybės teisę ar kitą valdymo ir naudojimo teisę patvirtinančius dokumentus, taip pat žemės sklypo bendraturčių sutikimą, jei žemės sklypas priklauso jiems bendrosios nuosavybės teise. Šių dokumentų nereikia, kai statybą numatoma vykdyti savivaldybės valdomoje patikėjimo teise teritorijoje (kai statytojas yra savivaldybė arba kitas juridinis ar fizinis asmuo, kuris statybą šioje teritorijoje vykdys pagal statinio projektavimo sąlygų sąvadą). Kitus atvejus, kai nereikia šiame punkte nurodytų dokumentų, nustato Vyriausybės įgaliota institucija; ^5a3a8f1a666f59e8c50641b0
+2) žemės sklypo nuosavybės teisę ar kitą valdymo ir naudojimo teisę patvirtinančius dokumentus, taip pat žemės sklypo bendraturčių sutikimą, jei žemės sklypas priklauso jiems bendrosios nuosavybės teise. Šių dokumentų nereikia, kai statybą numatoma vykdyti savivaldybės valdomoje patikėjimo teise teritorijoje (kai statytojas yra savivaldybė arba kitas juridinis ar fizinis asmuo, kuris statybą šioje teritorijoje vykdys pagal statinio projektavimo sąlygų sąvadą). Kitus atvejus, kai nereikia šiame punkte nurodytų dokumentų, nustato Vyriausybės įgaliota institucija; ^s-e3f9a4c6068c2b7577eb7d5e
 
 
-3) statinio bendrosios nuosavybės bendraturčių sutikimą, kai rekonstruojami daugiabučio namo bendro naudojimo objektai; ^24feba3504a748532cf75a01
+3) statinio bendrosios nuosavybės bendraturčių sutikimą, kai rekonstruojami daugiabučio namo bendro naudojimo objektai; ^s-835978d3c4323284f1d14f71
 
 
-4) daugiabučio namo patalpų savininkų viešojo aptarimo protokolą, kai keičiama šio namo gyvenamųjų patalpų paskirtis; ^4583d452ef56d525dc467eba
+4) daugiabučio namo patalpų savininkų viešojo aptarimo protokolą, kai keičiama šio namo gyvenamųjų patalpų paskirtis; ^s-893c849163e019029cd6d267
 
 
-5) projektinius pasiūlymus (jeigu jie buvo rengiami).“ ^cf9f8ef45e6d643ce5441846
+5) projektinius pasiūlymus (jeigu jie buvo rengiami).“ ^s-ce4c6e1ff8f342bc30b78a38
 
 
-2. 20 straipsnio 3 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^192de71e7bb2eebfb16dbdd7
+2. 20 straipsnio 3 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-ad48245ed11198013f3d275a
 
 
-„3. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs [[#^192de71e7bb2eebfb16dbdd7|šio straipsnio 2 dalyje]] išvardytus dokumentus, per 3 dienas pateikia paraišką statinio projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
+„3. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs [[#^s-ad48245ed11198013f3d275a|šio straipsnio 2 dalyje]] išvardytus dokumentus, per 3 dienas pateikia paraišką statinio projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
 
 
-1) inžinerinių tinklų bei susisiekimo komunikacijų savininkams ar naudotojams; ^f462101edd1f69fa529f50d4
+1) inžinerinių tinklų bei susisiekimo komunikacijų savininkams ar naudotojams; ^s-e998d5068cc76d8862443a02
 
 
-2) aplinkos apsaugos institucijai; ^88ae46881201f4c7472e7837
+2) aplinkos apsaugos institucijai; ^s-f56597fb2da48b4cfda5d5f5
 
 
-3) už nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingai įgaliotai institucijai (kai projektavimo sąlygos nustatomos nekilnojamosios kultūros paveldo vertybės tvarkymo statybos darbų projektui rengti); ^25081fa37ac84d4c55da18e8
+3) už nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingai įgaliotai institucijai (kai projektavimo sąlygos nustatomos nekilnojamosios kultūros paveldo vertybės tvarkymo statybos darbų projektui rengti); ^s-cb818e13862ea53f96a0e234
 
 
-4) už saugomos teritorijos apsaugą atsakingai institucijai (kai projektavimo sąlygos nustatomos statinio, statomo saugomoje teritorijoje, projektui rengti); ^3387bb08a0bcd5671e762abd
+4) už saugomos teritorijos apsaugą atsakingai institucijai (kai projektavimo sąlygos nustatomos statinio, statomo saugomoje teritorijoje, projektui rengti); ^s-1ca95c12eafe49825ab68066
 
 
-5) kitoms institucijoms, jei tai nustatyta įstatymų.“ ^9a1838dac5f9312749f93a4b
+5) kitoms institucijoms, jei tai nustatyta įstatymų.“ ^s-ed69d9a8b7fc4d77832ff885
 
 
-3. 20 straipsnio 4 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“, vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^7cbf7f7d2a3626fd3c43d3c2
+3. 20 straipsnio 4 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“, vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-be41c985534b3d4df23a249f
 
 
 „4. Projektavimo sąlygos parengiamos per 10 dienų nuo savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) paraiškos gavimo. Per tą patį laiką projektavimo sąlygas, priklausančias savivaldybės kompetencijai, parengia savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas).“
 
 
-4. 20 straipsnio 5 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^3e11d1dcbcddf3cbb3072686
+4. 20 straipsnio 5 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-d942d7c1ec14dad9d5a98859
 
 
 „5. Projektavimo sąlygas nagrinėja, derina, jeigu reikia, siūlo pakeisti (siekdamas rasti sprendimą, tenkinantį statytojo (užsakovo), trečiųjų asmenų, visuomenės, savivaldybės ir valstybės interesus) ir joms pritaria savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas). Projektavimo sąlygos įrašomos į statinio projektavimo sąlygų sąvadą. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), suderinęs su statinio projektavimo sąlygas rengusiais inžinerinių tinklų ir susisiekimo komunikacijų savininkais (naudotojais) ir institucijomis bei subjektais, šį sąvadą patvirtina ir išduoda statytojui (užsakovui) ne vėliau kaip per 20 dienų nuo jo prašymo gavimo (įskaitant į šį laiką 5 dienas, skirtas suderinti su statinio projektavimo sąlygas parengusiais inžinerinių tinklų ir susisiekimo komunikacijų savininkais (naudotojais) bei institucijomis) arba per 15 dienų praneša statytojui (užsakovui) motyvus, dėl kurių projektavimo sąlygų sąvadas neišduodamas.“
 
 
-5. 20 straipsnio 9 dalyje vietoj žodžio „meras“ įrašyti žodžius „administracijos direktorius“ ir šią dalį išdėstyti taip: ^659d4a70524c8f151a760704
+5. 20 straipsnio 9 dalyje vietoj žodžio „meras“ įrašyti žodžius „administracijos direktorius“ ir šią dalį išdėstyti taip: ^s-db53196f04a85a4c82143987
 
 
 „9. Vyriausybės įgaliota institucija (nekilnojamųjų kultūros paveldo vertybių tvarkymo statybos darbų atveju - kartu su įgaliota institucija, atsakinga už nekilnojamųjų kultūros paveldo vertybių apsaugą), gavusi statytojo (užsakovo) prašymą ar statinio saugos bei paskirties reikalavimų valstybinės priežiūros institucijų teikimą (bet ne vėliau kaip iki statybos leidimo išdavimo) ir nustačiusi, kad statinio projektavimo sąlygos neatitinka įstatymų ar kitų teisės aktų, privalo ne vėliau kaip per 5 dienas pareikalauti, kad savivaldybės administracijos direktorius (suderinęs pagal kompetenciją su projektavimo sąlygas nustačiusiais inžinerinių tinklų savininkais ar naudotojais ir statinio saugos bei paskirties reikalavimų valstybinės priežiūros institucijomis) ne vėliau kaip per 7 dienas nuo Vyriausybės įgaliotos institucijos reikalavimo panaikintų ar pakeistų statinio projektavimo sąlygas (išduotų statytojui (užsakovui) pakeistą patvirtintą projektavimo sąlygų sąvadą) arba praneštų Vyriausybės įgaliotai institucijai ir statytojui (užsakovui) motyvus, dėl kurių atsisakoma statinio projektavimo sąlygas panaikinti ar pakeisti. Jeigu savivaldybės administracijos direktorius atsisako panaikinti ar pakeisti statinio projektavimo sąlygas, ginčas sprendžiamas teisme statytojo (užsakovo) ar Vyriausybės įgaliotos institucijos (kai tai susiję su valstybės interesais) iniciatyva.“
 
 
-6. 20 straipsnio 10 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos valstybės tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^ea2d48db23b2b6845ebc7324
+6. 20 straipsnio 10 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos valstybės tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-3d71d168857ab544291bfd97
 
 
 „10. Statinio projektavimo sąlygų sąvadas galioja tol, kol galioja statybos leidimas. Jei per 3 metus nuo statinio projektavimo sąlygų sąvado gavimo minėtas leidimas nebuvo išduotas, savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) projektavimo sąlygų sąvadą tvirtina iš naujo (projektavimo sąlygos paliekamos tos pačios arba pakeičiamos).“
 
 
-7. 20 straipsnio 12 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^56ab42b41e98c6e230abc379
+7. 20 straipsnio 12 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-adbe7215133059f049da7982
 
 
-„12. Už statinio projektavimo sąlygų ir įstatymų bei kitų teisės aktų atitikimą pagal kompetenciją atsako jas parengę inžinerinių tinklų ir susisiekimo komunikacijų savininkai (naudotojai) ir institucijos, taip pat savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) Civilinio kodekso ir Viešojo administravimo įstatymo nustatyta tvarka.“
+„12. Už statinio projektavimo sąlygų ir įstatymų bei kitų teisės aktų atitikimą pagal kompetenciją atsako jas parengę inžinerinių tinklų ir susisiekimo komunikacijų savininkai (naudotojai) ir institucijos, taip pat savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) Civilinio kodekso ir [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 4 straipsnis. 23 straipsnio 5 dalies 2 punkto, 6, 7, 9, 10, 11, 12, 14 ir 19 dalių pakeitimas
+### 4 straipsnis. 23 straipsnio 5 dalies 2 punkto, 6, 7, 9, 10, 11, 12, 14 ir 19 dalių pakeitimas ^s-ca86c7fac884087f3694816a
 
 
-1. 23 straipsnio 5 dalies 2 punkte vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šį punktą išdėstyti taip: ^7aa903c9d0e2e4c042459a22
+1. 23 straipsnio 5 dalies 2 punkte vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šį punktą išdėstyti taip: ^s-e28bd443d1296ed182c0568f
 
 
 „2) kitam bet kuriam statiniui – savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas).“
 
 
-2. 23 straipsnio 6 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^b49a5d979bca9a94bd0e838a
+2. 23 straipsnio 6 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^s-b06d8272f2e5901a18ce4a9a
 
 
 „6. Kad gautų statybos (išskyrus griovimą) leidimą, statytojas (užsakovas) savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) net ir tuo atveju, kai šį leidimą išduoda apskrities viršininko administracija (išskyrus statinio, skirto krašto apsaugos reikmėms, statybos leidimą), turi pateikti:
 
 
-1) nustatytos formos prašymą; ^efc2cd466ec899582805f681
+1) nustatytos formos prašymą; ^s-ca73c8334b56e92d124e8572
 
 
-2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^8c7a8788c009c404558303cb|3 punktuose]]; ^cd82a30d45b5ea0d1cab6158
+2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^s-560c9d7266f745cb386eccd1|3 punktuose]]; ^s-b668e58ca79b6d6f192ccb88
 
 
-3) sutartį su žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio sklypo servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi žemės sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio projektavimo sąlygų sąvadą inžineriniai tinklai, susisiekimo komunikacijos numatomi tiesti statytojui (užsakovui) nepriklausančiame žemės sklype ar kai tokio sklypo dalį numatoma panaudoti statybvietei įrengti; ^8c7a8788c009c404558303cb
+3) sutartį su žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio sklypo servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi žemės sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio projektavimo sąlygų sąvadą inžineriniai tinklai, susisiekimo komunikacijos numatomi tiesti statytojui (užsakovui) nepriklausančiame žemės sklype ar kai tokio sklypo dalį numatoma panaudoti statybvietei įrengti; ^s-560c9d7266f745cb386eccd1
 
 
-4) statinio projektą; ^9ddb631359e432ddbe244fa7
+4) statinio projektą; ^s-b80a306a31bf51121836315a
 
 
-5) statinio projekto ekspertizės išvadas (tuo atveju, kai ši ekspertizė pagal Įstatymo 29 straipsnio 1 dalį yra privaloma); ^9a9a84554dbfaa5ff64869aa
+5) statinio projekto ekspertizės išvadas (tuo atveju, kai ši ekspertizė pagal Įstatymo 29 straipsnio 1 dalį yra privaloma); ^s-83071c7a3550b12ed9fcd68f
 
 
-6) statinio projekto patvirtinimo dokumentą (kai projektą tvirtinti privaloma); ^620d89cc4889d15c683ea0f3
+6) statinio projekto patvirtinimo dokumentą (kai projektą tvirtinti privaloma); ^s-5d16c0d291b4c540eeac1ee8
 
 
-7) atsakingos institucijos sprendimą dėl planuojamos ūkinės veiklos pasirinktoje vietoje leistinumo poveikio aplinkai požiūriu (kai tai privaloma) pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą; ^4e2a93c539bc91a0be9f994a
+7) atsakingos institucijos sprendimą dėl planuojamos ūkinės veiklos pasirinktoje vietoje leistinumo poveikio aplinkai požiūriu (kai tai privaloma) pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą; ^s-b6be75b2e2632d06a6e1ed86
 
 
-8) dokumentą dėl statinio statybos techninės priežiūros vadovo paskyrimo (kai techninė priežiūra yra privaloma); ^6e4f2ad0b9be2110cfd82d36
+8) dokumentą dėl statinio statybos techninės priežiūros vadovo paskyrimo (kai techninė priežiūra yra privaloma); ^s-02cc70eaa3c4170a067019c7
 
 
-9) statinio kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai statinys rekonstruojamas ar kapitališkai remontuojamas).“ ^05fae626fca53bf1fae42a80
+9) statinio kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai statinys rekonstruojamas ar kapitališkai remontuojamas).“ ^s-518a150b79a875e7df62dc57
 
 
-3. 23 straipsnio 7 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^9191ad20944b026c44b17962
+3. 23 straipsnio 7 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^s-d8ef22de6ae34c08de3e8535
 
 
 „7. Kad gautų statybos leidimą tik statinį griauti, statytojas (užsakovas) savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) net ir tuo atveju, kai šį leidimą išduoda apskrities viršininko administracija (išskyrus statinio, skirto krašto apsaugos reikmėms, statybos leidimą), turi pateikti:
 
 
-1) nustatytos formos prašymą; ^c20dc8ac99a2c057d87ab117
+1) nustatytos formos prašymą; ^s-16102f602c8aca1daf7e6afb
 
 
-2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^4e9cb333192c44a9e20d226d|3 punktuose]]; ^44ec0be92043635ee7b57cb6
+2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^s-ee4087cb0ce856c29f025e92|3 punktuose]]; ^s-a951ed0faadead4f784411d8
 
 
-3) įstatymų nustatyta tvarka priimtą sprendimą nugriauti statinį, priklausantį valstybės, savivaldybės ar kito juridinio asmens nuosavybei; ^4e9cb333192c44a9e20d226d
+3) įstatymų nustatyta tvarka priimtą sprendimą nugriauti statinį, priklausantį valstybės, savivaldybės ar kito juridinio asmens nuosavybei; ^s-ee4087cb0ce856c29f025e92
 
 
-4) statinio griovimo technologijos aprašymą; ypatingo statinio atveju – griovimo projektą; ^727e622b8b5fd4673a9e2590
+4) statinio griovimo technologijos aprašymą; ypatingo statinio atveju – griovimo projektą; ^s-83e8b3a809c1c92a6b02198d
 
 
-5) statinio kadastrinių matavimų ir teisinės registracijos pažymėjimą (tik statinio, kuris buvo pripažintas tinkamu naudoti, atveju; kai griaunamas statinys nepripažintas tinkamu naudoti ir neįregistruotas Nekilnojamojo turto registre, pateikiamas jo turtinę priklausomybę liudijantis dokumentas).“ ^b3feef39409811bdfad608ce
+5) statinio kadastrinių matavimų ir teisinės registracijos pažymėjimą (tik statinio, kuris buvo pripažintas tinkamu naudoti, atveju; kai griaunamas statinys nepripažintas tinkamu naudoti ir neįregistruotas Nekilnojamojo turto registre, pateikiamas jo turtinę priklausomybę liudijantis dokumentas).“ ^s-578aad48f9447e15b57359be
 
 
-4. 23 straipsnio 9 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“, vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^21370cb153a87589f9df7b7c
+4. 23 straipsnio 9 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“, vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^s-8580aa6465e37413c435189c
 
 
-„9. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs statytojo (užsakovo) šio straipsnio 6 ar [[#^83d22ec3aaf1f1931e9b33ca|7 dalyse]] nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus (reglamentą) bei projektavimo sąlygų sąvado reikalavimus. Komisija protokolu įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos leidimą.“
+„9. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs statytojo (užsakovo) šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7 dalyse]] nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus (reglamentą) bei projektavimo sąlygų sąvado reikalavimus. Komisija protokolu įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos leidimą.“
 
 
-5. 23 straipsnio 10 dalyje vietoj žodžio „meras“ įrašyti žodį „taryba“ ir šią dalį išdėstyti taip: ^ad95d63aa194dd1e4984ddd0
+5. 23 straipsnio 10 dalyje vietoj žodžio „meras“ įrašyti žodį „taryba“ ir šią dalį išdėstyti taip: ^s-54c82ece02e5a47876f7fd76
 
 
-„10. Nuolatinę statybos komisiją sudaro savivaldybės taryba iš teritorijų planavimo ir statinio projektavimo sąlygas parengusių inžinerinių tinklų ir susisiekimo komunikacijų savininkų (naudotojų), institucijų bei savivaldybės atstovų, turinčių įgaliojimus priimti sprendimus [[#^c367bb8b91a27653e4347a2a|šio straipsnio 9 dalyje]] nustatytais klausimais. Komisijos pavyzdinius nuostatus parengia Vyriausybės įgaliota institucija.“
+„10. Nuolatinę statybos komisiją sudaro savivaldybės taryba iš teritorijų planavimo ir statinio projektavimo sąlygas parengusių inžinerinių tinklų ir susisiekimo komunikacijų savininkų (naudotojų), institucijų bei savivaldybės atstovų, turinčių įgaliojimus priimti sprendimus [[#^s-75b41b208fdd917482a166a6|šio straipsnio 9 dalyje]] nustatytais klausimais. Komisijos pavyzdinius nuostatus parengia Vyriausybės įgaliota institucija.“
 
 
-6. Pakeisti 23 straipsnio 11 dalį ir ją išdėstyti taip: ^a7df8b52cf1d3e6262c481b8
+6. Pakeisti 23 straipsnio 11 dalį ir ją išdėstyti taip: ^s-edd1dfd02836bdb276aa4b56
 
 
-„11. Kai statybos leidimą išduoda apskrities viršininko administracija, jai savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^83d22ec3aaf1f1931e9b33ca|7 dalyse]], gavimo perduoti Nuolatinės statybos komisijos protokolą. Šis protokolas tvirtinamas savivaldybės tarybos patvirtintų šios komisijos nuostatų nustatyta tvarka.“
+„11. Kai statybos leidimą išduoda apskrities viršininko administracija, jai savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7 dalyse]], gavimo perduoti Nuolatinės statybos komisijos protokolą. Šis protokolas tvirtinamas savivaldybės tarybos patvirtintų šios komisijos nuostatų nustatyta tvarka.“
 
 
-7. 23 straipsnio 12 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^83d22ec3aaf1f1931e9b33ca
+7. 23 straipsnio 12 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-e334516327b0d96999162a18
 
 
-„12. Statybos leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10 dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^83d22ec3aaf1f1931e9b33ca|7 dalyse]], pateikimo, o apskrities viršininko administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo.“
+„12. Statybos leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10 dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7 dalyse]], pateikimo, o apskrities viršininko administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo.“
 
 
-8. 23 straipsnio 14 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^ab14bfc579b5fc876d425b7f
+8. 23 straipsnio 14 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-9e251b44fd1e7359bba25f93
 
 
 „14. Jei statybos leidimą išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), jis per 3 dienas nuo šio leidimo išdavimo leidimo kopiją pateikia apskrities viršininko administracijai. Kai išduodamas leidimas dirbti nekilnojamosios kultūros paveldo vertybės tvarkymo statybos darbus, jo kopija taip pat perduodama už nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingai įgaliotai institucijai. Kai išduodamas statybos leidimas statiniui saugomoje teritorijoje, leidimo kopija perduodama saugomos teritorijos administracijai. Visais atvejais leidimo kopija nustatyta tvarka perduodama nekilnojamojo turto kadastro tvarkytojui.“
 
 
-9. 23 straipsnio 19 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip: ^c367bb8b91a27653e4347a2a
+9. 23 straipsnio 19 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip: ^s-75b41b208fdd917482a166a6
 
 
 „19. Apskrities viršininko administracija arba Vyriausybės atstovas, arba Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos turi teisę sustabdyti savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) išduoto statybos leidimo galiojimą nuo prašymo (pareiškimo) dėl šio leidimo panaikinimo pateikimo teismui dienos iki teismo sprendimo, jei šie viešojo administravimo subjektai kreipėsi į teismą dėl leidimo panaikinimo. Apskrities viršininko administracijos išduoto statybos leidimo galiojimą ta pačia tvarka turi teisę sustabdyti Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos.“
 
 
 
-### 5 straipsnis. 27 straipsnio 6 dalies 10 punkto pakeitimas
+### 5 straipsnis. 27 straipsnio 6 dalies 10 punkto pakeitimas ^s-10c4f1588b457fd6e85541d8
 
 
 27 straipsnio 6 dalies 10 punkte vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šį punktą išdėstyti taip:
@@ -243,7 +248,7 @@ Vilnius
 
 
 
-### 6 straipsnis. 33 straipsnio 1 dalies 1 punkto pakeitimas
+### 6 straipsnis. 33 straipsnio 1 dalies 1 punkto pakeitimas ^s-13575e63ff4ccaff07859cc5
 
 
 33 straipsnio 1 dalies 1 punkte vietoj žodžio „meras“ įrašyti žodžius „administracijos direktorius“ ir šį punktą išdėstyti taip:
@@ -253,25 +258,25 @@ Vilnius
 
 
 
-### 7 straipsnis. 35 straipsnio 1 dalies 4 ir 5 punktų bei 2 dalies pakeitimas
+### 7 straipsnis. 35 straipsnio 1 dalies 4 ir 5 punktų bei 2 dalies pakeitimas ^s-46347e8a355be2754e1a6375
 
 
-1. Pakeisti 35 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^20618d58521760723fa57b6b
+1. Pakeisti 35 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^s-4ad3aec1bbd7bfc45d85e46f
 
 
 „4) kai statinys arba jo dalis yra fiziškai susidėvėję ir kelia grėsmę žmonėms bei aplinkai ir šis pavojus nepašalinamas per viešojo administravimo subjektų, atliekančių statinių naudojimo priežiūrą, nustatytą laiką;“.
 
 
-2. 35 straipsnio 1 dalies 5 punkte išbraukti žodžius „ar savivaldybės mero“ ir šį punktą išdėstyti taip: ^c763635639f09da643f3d5b5
+2. 35 straipsnio 1 dalies 5 punkte išbraukti žodžius „ar savivaldybės mero“ ir šį punktą išdėstyti taip: ^s-2bda483e35f682f5876a7399
 
 
 „5) kai statinys pastatytas ar statomas pažeidžiant šį ar kitus įstatymus, normatyvinius statybos techninius dokumentus – per viešojo administravimo subjektų, atliekančių statybos valstybinę priežiūrą, nustatytą laiką;“.
 
 
-3. Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip: ^1cedf7f8f4661d5e464e6d97
+3. Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip: ^s-fed6dc81f152db8d9bbc8ce5
 
 
-„2. Jei statinio savininkas [[#^20618d58521760723fa57b6b|šio straipsnio 1 dalies]] 2, 3, 4, 5, 6 punktuose nurodytais atvejais nenugriovė statinio per nustatytą laiką, sprendimą dėl jo nugriovimo ar nenugriovimo priima teismas. Kreiptis į teismą turi teisę statybos valstybinę priežiūrą atliekantys viešojo administravimo subjektai [[#^20618d58521760723fa57b6b|šio straipsnio 1 dalies]] 5, 6 punktuose numatytais atvejais, savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) šio straipsnio 1 dalies 2 punkte numatytu atveju bei statinių naudojimo priežiūrą atliekantys viešojo administravimo subjektai [[#^20618d58521760723fa57b6b|šio straipsnio 1 dalies]] 3, 4 punktuose numatytais atvejais.“
+„2. Jei statinio savininkas [[#^s-4ad3aec1bbd7bfc45d85e46f|šio straipsnio 1 dalies]] 2, 3, 4, 5, 6 punktuose nurodytais atvejais nenugriovė statinio per nustatytą laiką, sprendimą dėl jo nugriovimo ar nenugriovimo priima teismas. Kreiptis į teismą turi teisę statybos valstybinę priežiūrą atliekantys viešojo administravimo subjektai [[#^s-4ad3aec1bbd7bfc45d85e46f|šio straipsnio 1 dalies]] 5, 6 punktuose numatytais atvejais, savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) šio straipsnio 1 dalies 2 punkte numatytu atveju bei statinių naudojimo priežiūrą atliekantys viešojo administravimo subjektai [[#^s-4ad3aec1bbd7bfc45d85e46f|šio straipsnio 1 dalies]] 3, 4 punktuose numatytais atvejais.“
 
 
 

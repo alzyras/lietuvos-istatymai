@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F7F5B09FB114"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 20 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 20 straipsnio pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 20 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-22"
 latest_path: "latest/TAR.F7F5B09FB114.md"
 latest_sha256: "8cf6dea957d9331103afafb4e84a7ad454075a0bacb3c62ed2767e8f943a211f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F7F5B09FB114]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 20 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F7F5B09FB114.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F7F5B09FB114
+- Ryšiai: [[Ryšiai/TAR.F7F5B09FB114|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 1 dalies 15 punkto pakeitimas
+### 1 straipsnis. 20 straipsnio 1 dalies 15 punkto pakeitimas ^s-ed004c4118ad77c946933e3e
 
 
 Pakeisti 20 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip:

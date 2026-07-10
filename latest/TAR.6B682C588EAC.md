@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B682C588EAC"
 pavadinimas: "Lietuvos Respublikos pensijų kaupimo įstatymo 9, 10, 22, 24 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pensijų kaupimo įstatymo 9, 10, 22, 24 straipsnių pakeitimo ir papildymo įstatymas"
+  - "pensijų kaupimo įstatymo 9, 10, 22, 24 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-04-03"
 latest_path: "latest/TAR.6B682C588EAC.md"
 latest_sha256: "bdfa8cace767096326c6272c006f41ffc1d97dc2872e05248ad20d86e888fe8a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B682C588EAC]]"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo 9, 10, 22, 24 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B682C588EAC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B682C588EAC
+- Ryšiai: [[Ryšiai/TAR.6B682C588EAC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 4 dalies pakeitimas ^s-303068e6187f2a763ba395c9
 
 
 Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-75b711e16b484ce5e8fe57ad
 
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -53,48 +58,48 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 22 straipsnio 4 ir 6 dalių pakeitimas ir straipsnio papildymas 9 dalimi
+### 3 straipsnis. 22 straipsnio 4 ir 6 dalių pakeitimas ir straipsnio papildymas 9 dalimi ^s-123559e97c11b707d11639b2
 
 
-1. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip: ^71d6c80dc933d0b01611ccb8
+1. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip: ^s-c52e7c5257e94ac803f05095
 
 
 „4. Pensijų išmokos pradedamos mokėti nuo pensijų išmokos sutartyje nurodytos dienos, bet ne vėliau kaip per 30 dienų nuo pensijų išmokos sutarties sudarymo, išskyrus atvejus, kai pensijų išmokos sutartyje nustatyta pensijų išmoką ar jos dalį išmokėti nuperkant pensijų anuitetą. Tokiu atveju pensijų išmokos išmokamos ne anksčiau kaip po 35 dienų, bet ne vėliau kaip per 40 dienų po to, kai pensijų kaupimo bendrovė iš draudimo įmonės gauna informaciją apie dalyvio sudarytą pensijų anuiteto sutartį.“
 
 
-2. Pakeisti 22 straipsnio 6 dalį ir ją išdėstyti taip: ^896abf4bd6e540aa4441b9e6
+2. Pakeisti 22 straipsnio 6 dalį ir ją išdėstyti taip: ^s-0fc9a849879db9db7d1ed02d
 
 
 „6. Pensijų išmokos sutartį sudariusio dalyvio vardu negali būti mokamos pensijų įmokos. Kalendorinis mėnuo prieš kalendorinį mėnesį, kurį sudaryta pensijų išmokos sutartis, yra paskutinis mėnuo už kurį apskaičiuojamos ir pervedamos pensijų įmokos į atitinkamo pensijų fondo sąskaitą. Pensijų turtas, susidaręs iš lėšų, dalyvio vardu perverstų pensijų fondui po pensijų išmokos sutarties su dalyviu sudarymo, pensijų išmokos sutartyje nustatyta tvarka turi būti išmokamas dalyviui (jei pensijų išmokos jau išmokėtos) ne vėliau kaip per 5 darbo dienas nuo tų lėšų gavimo arba pridedamas prie mokėtinų pensijų išmokų (jei jos dar neišmokėtos).“
 
 
-3. Papildyti 22 straipsnį 9 dalimi: ^b8fcadeee3d81823a74d0e86
+3. Papildyti 22 straipsnį 9 dalimi: ^s-6b22e55c9a261084f2569e14
 
 
 „9. Pensijų išmokos sutartis gali būti nutraukta pensijų išmokos sutarties šalių susitarimu, jeigu dalyviui nėra išmokėta pensijų išmoka (ar jos dalis) ir (ar) nenupirktas pensijų anuitetas. Pensijų kaupimo bendrovė apie pensijų išmokos sutarties nutraukimo faktą privalo per 3 darbo dienas elektroniniu būdu pranešti VSDF valdybai suderinta informacijos pateikimo tvarka.“
 
 
 
-### 4 straipsnis. 24 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi
+### 4 straipsnis. 24 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi ^s-846a46e9f7401dbe5253560f
 
 
-1. Pakeisti 24 straipsnio 7 dalį ir ją išdėstyti taip: ^b8d20503924d6713d2fd4522
+1. Pakeisti 24 straipsnio 7 dalį ir ją išdėstyti taip: ^s-fd6790798c643b7ec2b94d32
 
 
 „7. Pensijų anuiteto sutartį galima nutraukti tik tais atvejais, kai kita šalis neįvykdo ar netinkamai įvykdo pensijų anuiteto sutartį ir tai yra esminis sutarties pažeidimas arba kai sutartis pripažįstama negaliojančia, išskyrus šio straipsnio 8 dalyje numatytą atvejį. Įsigaliojus teismo sprendimui pripažinti pensijų anuiteto sutartį negaliojančia arba ją nutraukus dėl esminio pažeidimo, draudimo įmonė gautą vienkartinę įmoką (atėmus išmokėtų pensijų anuitetų sumą, jei jie jau buvo pradėti mokėti) ne vėliau kaip per 3 darbo dienas nuo pranešimo apie naujos pensijų anuiteto sutarties sudarymą gavimo perveda kitai draudimo įmonei, su kuria dalyvis sudarė naują pensijų anuiteto sutartį. Draudimo įmonė, su kuria dalyvis sudarė naują pensijų anuiteto sutartį, apie sutarties sudarymą ne vėliau kaip per vieną darbo dieną nuo naujos pensijų anuiteto sutarties sudarymo raštu praneša draudimo įmonei, laikančiai pervestinas lėšas. Draudimo įmonė pervestinas lėšas iki jų pervedimo kitai draudimo įmonei laiko patikėjimo teisės pagrindais komerciniame banke atskirai nuo kitų lėšų. Šios lėšos gali būti naudojamos tik pervedimui kitai draudimo įmonei, su kuria dalyvis sudarė naują sutartį, kaip vienkartinė įmoka pensijų anuiteto sutarčiai apmokėti, į jas negali būti nukreipiami išieškojimai pagal kitas draudimo įmonės prievoles. Šios lėšos, nepervestos kitai draudimo įmonei dėl dalyvio mirties, yra išmokamos šio asmens įpėdiniams Civilinio kodekso nustatyta tvarka.“
 
 
-2. Papildyti 24 straipsnį 8 dalimi: ^7354f3b0cc203536f9e3f75f
+2. Papildyti 24 straipsnį 8 dalimi: ^s-49b0f5389aa96c06ed38f23e
 
 
-„8. Pensijų anuiteto sutarčiai mutatis mutandis (t. y. su tam tikrais pakeitimais) taikomos Lietuvos Respublikos draudimo įstatymo nuostatos, reglamentuojančios draudimo sutarties nutraukimą lengvatinėmis sąlygomis. Kai draudėjas šiuo pagrindu nutraukia pensijų anuiteto sutartį, gyvybės draudimo įmonė ne vėliau kaip per vieną darbo dieną raštu (ar tarpusavyje suderinus informacijos pateikimo tvarką – elektroniniu būdu) apie tai turi pranešti pensijų kaupimo bendrovei, kurios valdomame pensijų fonde yra sukauptas dalyvio pensijų turtas.“
+„8. Pensijų anuiteto sutarčiai mutatis mutandis (t. y. su tam tikrais pakeitimais) taikomos [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] nuostatos, reglamentuojančios draudimo sutarties nutraukimą lengvatinėmis sąlygomis. Kai draudėjas šiuo pagrindu nutraukia pensijų anuiteto sutartį, gyvybės draudimo įmonė ne vėliau kaip per vieną darbo dieną raštu (ar tarpusavyje suderinus informacijos pateikimo tvarką – elektroniniu būdu) apie tai turi pranešti pensijų kaupimo bendrovei, kurios valdomame pensijų fonde yra sukauptas dalyvio pensijų turtas.“
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-641621230d84eccb4c645895
 
 
-Šio įstatymo [[#2 straipsnis. 10 straipsnio 3 dalies pakeitimas|2 straipsnis]] ir [[#^896abf4bd6e540aa4441b9e6|3 straipsnio 2 dalis]] įsigalioja 2011 m. sausio 1 d.
+Šio įstatymo [[#^s-75b711e16b484ce5e8fe57ad|2 straipsnis]] ir [[#^s-0fc9a849879db9db7d1ed02d|3 straipsnio 2 dalis]] įsigalioja 2011 m. sausio 1 d.
 
 
 

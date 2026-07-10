@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D57D49314B2E"
 pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "karo padėties įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.D57D49314B2E.md"
 latest_sha256: "0194ed85dff6792459a43f9ccce54d9b35bb7645241818d1aa743b774db1e506"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D57D49314B2E]]"
 ---
 # Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D57D49314B2E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D57D49314B2E
+- Ryšiai: [[Ryšiai/TAR.D57D49314B2E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-e0a1444c7307e269e8b66169
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
@@ -47,7 +52,7 @@ Karo padėties metu asmenų telefoninių pokalbių pasiklausymas, susirašinėji
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-519a3089f844988c2223d509
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

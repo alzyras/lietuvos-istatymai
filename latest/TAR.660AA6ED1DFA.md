@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.660AA6ED1DFA"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-31"
 latest_path: "latest/TAR.660AA6ED1DFA.md"
 latest_sha256: "ff6019b254e9be2d5459c5513e2491c8d0668ac77aa4c823dfd625b23625d832"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.660AA6ED1DFA]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.660AA6ED1DFA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.660AA6ED1DFA
+- Ryšiai: [[Ryšiai/TAR.660AA6ED1DFA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,14 +38,14 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOK�
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-6baef33af0c1c5490916fff3
 
 
-Pakeisti [[#3 straipsnis. Šio įstatymo įgyvendinimas|3 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-c832eaa493a50a4aa7d2bd36|3 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#3 straipsnis. Šio įstatymo įgyvendinimas|3 straipsnis]]. Įstatymo priedėlio papildymas V skyriumi
+„[[#^s-c832eaa493a50a4aa7d2bd36|3 straipsnis]]. Įstatymo priedėlio papildymas V skyriumi
 
 
 Papildyti Įstatymo priedėlį V skyriumi:
@@ -101,14 +106,14 @@ Papildyti Įstatymo priedėlį V skyriumi:
 “.
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-6ef9420af8e0cc5e321524fa
 
 
-Pakeisti [[#3 straipsnis. Šio įstatymo įgyvendinimas|3 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-c832eaa493a50a4aa7d2bd36|3 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#3 straipsnis. Šio įstatymo įgyvendinimas|3 straipsnis]]. Įstatymo priedėlio papildymas V skyriumi
+„[[#^s-c832eaa493a50a4aa7d2bd36|3 straipsnis]]. Įstatymo priedėlio papildymas V skyriumi
 
 
 Papildyti Įstatymo priedėlį V skyriumi:
@@ -169,20 +174,20 @@ Papildyti Įstatymo priedėlį V skyriumi:
 “.
 
 
-### 3 straipsnis. Šio įstatymo įgyvendinimas
+### 3 straipsnis. Šio įstatymo įgyvendinimas ^s-c832eaa493a50a4aa7d2bd36
 
 
 Jeigu žvalgybos pareigūno darbo užmokestis (pareiginė alga su priedais), nustatytas nuo 2013 m. sausio 1 d., yra mažesnis, negu gautas iki šio įstatymo įsigaliojimo, žvalgybos pareigūnui nuo 2013 m. sausio 1 d. iki 2013 m. gruodžio 31 d. mokamas buvusio dydžio darbo užmokestis.
 
 
 
-### 4 straipsnis. Šio įstatymo įsigaliojimas
+### 4 straipsnis. Šio įstatymo įsigaliojimas ^s-74a9a48da44cddda426041d9
 
 
-1. Šio įstatymo [[#1 straipsnis. 3 straipsnio pakeitimas|1 straipsnis]] galioja iki 2013 m. gruodžio 31 d. ^52f012295ef9d9c583810a1a
+1. Šio įstatymo [[#^s-6baef33af0c1c5490916fff3|1 straipsnis]] galioja iki 2013 m. gruodžio 31 d. ^s-90898a7f1066d026f135a19b
 
 
-2. Šio įstatymo [[#2 straipsnis. 3 straipsnio pakeitimas|2 straipsnis]] įsigalioja 2014 m. sausio 1 d. ^d12253a3a92d0e2f049db965
+2. Šio įstatymo [[#^s-6ef9420af8e0cc5e321524fa|2 straipsnis]] įsigalioja 2014 m. sausio 1 d. ^s-65c93d1147f4e01b6686750d
 
 
 

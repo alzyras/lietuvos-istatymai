@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2178F396E0EF"
 pavadinimas: "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-26"
 latest_path: "latest/TAR.2178F396E0EF.md"
 latest_sha256: "dd075018e822871f9fa12723d38cfabe6757bbf416e18b4d4914ddaf4fe02338"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2178F396E0EF]]"
 ---
 # Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2178F396E0EF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2178F396E0EF
+- Ryšiai: [[Ryšiai/TAR.2178F396E0EF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-345ad8751fdf7565a2f69501
 
 
 1 straipsnio 1 dalyje vietoj skaičiaus „6051088“ įrašyti skaičių „6057735“, vietoj skaičiaus „6851088“ įrašyti skaičių „6857735“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio papildymas 6 dalimi
+### 2 straipsnis. 2 straipsnio papildymas 6 dalimi ^s-6287b1f2a5f066b01c853887
 
 
 Papildyti 2 straipsnį 6 dalimi:
@@ -51,30 +56,30 @@ Papildyti 2 straipsnį 6 dalimi:
 
 
 
-### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-bf0e7d3b6f2964c8e144d86a
 
 
-[[#^584bc5c891d230f7d7c821f7|6 straipsnio 1 dalyje]] vietoj skaičiaus „71590“ įrašyti skaičių „78237“ ir šią dalį išdėstyti taip:
+[[#^s-d0f3aa61acd123b9052b6e0f|6 straipsnio 1 dalyje]] vietoj skaičiaus „71590“ įrašyti skaičių „78237“ ir šią dalį išdėstyti taip:
 
 
 „1. Valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų iš ūkinės veiklos gautas lėšas – 78237 tūkst. litų – įtraukti į apskaitą kaip valstybės biudžeto pajamas (3 priedėlis).“
 
 
 
-### 4 straipsnis. 12 straipsnio papildymas 3 ir 4 dalimis
+### 4 straipsnis. 12 straipsnio papildymas 3 ir 4 dalimis ^s-689c5141a243a9f9fec9a59a
 
 
-Papildyti 12 straipsnį 3 ir [[#^560ba9991bac87ff5bce358c|4 dalimis]]:
+Papildyti 12 straipsnį 3 ir [[#^s-2b73b05c5d9e3567c3c17f58|4 dalimis]]:
 
 
 „3. Įpareigoti savivaldybes pateikti Finansų ministerijai parengtus ir patvirtintus savivaldybių biudžetų išlaidų sumažinimo (2000 metams patvirtintas asignavimų sumas lyginant su 1999 metų patikslintu planu) priemonių planus, užtikrinančius patvirtintų programų finansavimą ir kreditorinio įsiskolinimo padengimą, ir kas mėnesį teikti jai šių planų vykdymo ataskaitas.
 
 
-4. Už šiame straipsnyje nustatytų reikalavimų nevykdymą atsakoma įstatymų nustatyta tvarka.“ ^560ba9991bac87ff5bce358c
+4. Už šiame straipsnyje nustatytų reikalavimų nevykdymą atsakoma įstatymų nustatyta tvarka.“ ^s-2b73b05c5d9e3567c3c17f58
 
 
 
-### 5 straipsnis. Įstatymo papildymas 16 straipsniu
+### 5 straipsnis. Įstatymo papildymas 16 straipsniu ^s-26ee0554f6077d52aa800cdc
 
 
 Papildyti Įstatymą 16 straipsniu:
@@ -87,10 +92,10 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
 
 
 
-### 6 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-ad54b02d6cc4a41015a789b8
 
 
-1. Įstatymo 1 priedėlio „Lietuvos Respublikos 2000 metų valstybės biudžetas“ dalyje „Pajamos“, eilutėje „Valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, kontrolės institucijų nebiudžetinių (specialiųjų) lėšų įmokos“ vietoj skaičiaus „71590“ įrašyti skaičių „78237“, eilutėje „Iš viso“ vietoj skaičiaus „6051088“ įrašyti skaičių „6057735“ ir šias eilutes išdėstyti taip: ^584bc5c891d230f7d7c821f7
+1. Įstatymo 1 priedėlio „Lietuvos Respublikos 2000 metų valstybės biudžetas“ dalyje „Pajamos“, eilutėje „Valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, kontrolės institucijų nebiudžetinių (specialiųjų) lėšų įmokos“ vietoj skaičiaus „71590“ įrašyti skaičių „78237“, eilutėje „Iš viso“ vietoj skaičiaus „6051088“ įrašyti skaičių „6057735“ ir šias eilutes išdėstyti taip: ^s-d0f3aa61acd123b9052b6e0f
 
 
  „Valstybės institucijų, įstaigų, vykdančių viešojo
@@ -109,10 +114,10 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  6057735“.
 
 
-2. Įstatymo 1 priedėlio dalyje „Išlaidos“: ^588b4f52fa1da37bb69d1c85
+2. Įstatymo 1 priedėlio dalyje „Išlaidos“: ^s-b210233d4875b15ceb97eec3
 
 
-1) skirsnyje „3.900.3 Vyriausioji rinkimų komisija“ eilutėje „1 1 Rinkimų organizavimas 14.“ vietoj skaičių „25000 25000 15000“ įrašyti skaičius „20500 20500 12500“, eilutėje „Iš viso“ vietoj skaičių „25488 25488 15304“ įrašyti skaičius „20988 20988 12804“ ir šias eilutes išdėstyti taip: ^9b443cf823f7a252fb832a84
+1) skirsnyje „3.900.3 Vyriausioji rinkimų komisija“ eilutėje „1 1 Rinkimų organizavimas 14.“ vietoj skaičių „25000 25000 15000“ įrašyti skaičius „20500 20500 12500“, eilutėje „Iš viso“ vietoj skaičių „25488 25488 15304“ įrašyti skaičius „20988 20988 12804“ ir šias eilutes išdėstyti taip: ^s-988ac70b3cb29a084bae4ee6
 
 
  „1 1 Rinkimų organizavimas
@@ -129,7 +134,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  12804“;
 
 
-2) skirsnyje „90.900.1576 Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo“ eilutėje „1 2 Valstybinės kalbos norminimas. Visuomenės švietimas 4.“ vietoj skaičių „2084 2084“ įrašyti skaičius „2069 2069“, eilutėje „1 3 Valstybės valdymas 1.“ vietoj skaičių „590 590“ įrašyti skaičius „605 605“ ir šias eilutes išdėstyti taip: ^a39d3647c1885688ba873036
+2) skirsnyje „90.900.1576 Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo“ eilutėje „1 2 Valstybinės kalbos norminimas. Visuomenės švietimas 4.“ vietoj skaičių „2084 2084“ įrašyti skaičius „2069 2069“, eilutėje „1 3 Valstybės valdymas 1.“ vietoj skaičių „590 590“ įrašyti skaičius „605 605“ ir šias eilutes išdėstyti taip: ^s-16da2165ffcc108a704fe973
 
 
  „1 2 Valstybinės kalbos norminimas.
@@ -153,10 +158,10 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  412“.
 
 
-3. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 I. Ministerijos“: ^590e54f98badfe775f4f6d13
+3. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 I. Ministerijos“: ^s-33655aab72044ba0fadd382d
 
 
-1) skirsnyje „9.900.9 Aplinkos ministerija“ eilutėje „3 1 Žuvų ir kitų vandens gyvūnų bei augalų išteklių apsauga, jų naudojimo bei atkūrimo reguliavimas ir kontrolė 13.“ vietoj skaičių „928 923 433“ įrašyti skaičius „890 885 526“, eilutėje „4 1 Lietuvos gamtinė aplinka ir kokybiniai pokyčiai 13.“ vietoj skaičių „3027 3002 1768“ įrašyti skaičius „3272 3247 1961“, eilutėje „Iš viso“ vietoj skaičių „28652 28504 15209“ įrašyti skaičius „28859 28711 15495“ ir šias eilutes išdėstyti taip: ^2e0688fa1257b296b9822cce
+1) skirsnyje „9.900.9 Aplinkos ministerija“ eilutėje „3 1 Žuvų ir kitų vandens gyvūnų bei augalų išteklių apsauga, jų naudojimo bei atkūrimo reguliavimas ir kontrolė 13.“ vietoj skaičių „928 923 433“ įrašyti skaičius „890 885 526“, eilutėje „4 1 Lietuvos gamtinė aplinka ir kokybiniai pokyčiai 13.“ vietoj skaičių „3027 3002 1768“ įrašyti skaičius „3272 3247 1961“, eilutėje „Iš viso“ vietoj skaičių „28652 28504 15209“ įrašyti skaičius „28859 28711 15495“ ir šias eilutes išdėstyti taip: ^s-5746460fd42a9297087b6f88
 
 
  „3 1 Žuvų ir kitų vandens gyvūnų bei augalų
@@ -207,7 +212,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  148“;
 
 
-2) skirsnyje „12.900.32 Finansų ministerija“ eilutėje „6 1 Vyriausybės rezervo fondas 14.“ vietoj skaičių „18102 18102“ įrašyti skaičius „22602 22602“, eilutėje „8 1 Valstybės skolos aptarnavimo išlaidos 14.“ vietoj skaičių „997699 931246 66453“ įrašyti skaičius „998768 931975 66793“, papildyti nauja eilute „16 1 Perskaičiuotos kompensacijos už konfiskuotą turtą 14. 1500 1500“, eilutėje „Iš viso“ vietoj skaičių „1505169 1438716 66453“ įrašyti atitinkamai skaičius „1512238 1445445 66793“ ir šias eilutes išdėstyti taip: ^97895aabe7116a698b78ed2a
+2) skirsnyje „12.900.32 Finansų ministerija“ eilutėje „6 1 Vyriausybės rezervo fondas 14.“ vietoj skaičių „18102 18102“ įrašyti skaičius „22602 22602“, eilutėje „8 1 Valstybės skolos aptarnavimo išlaidos 14.“ vietoj skaičių „997699 931246 66453“ įrašyti skaičius „998768 931975 66793“, papildyti nauja eilute „16 1 Perskaičiuotos kompensacijos už konfiskuotą turtą 14. 1500 1500“, eilutėje „Iš viso“ vietoj skaičių „1505169 1438716 66453“ įrašyti atitinkamai skaičius „1512238 1445445 66793“ ir šias eilutes išdėstyti taip: ^s-c9c14466d49605178642b8a8
 
 
  „6 1 Vyriausybės rezervo fondas
@@ -258,7 +263,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  66793“.
 
 
-3) skirsnyje „14.900.116 Kultūros ministerija“ eilutėje „1 1 Profesionalaus meno rėmimas 8.“ vietoj skaičių „37375 37075“ įrašyti skaičius „37424 37124“, eilutėje „4 1 Teatras – Rytų Lietuvai 8.“ vietoj skaičių „132 132“ įrašyti skaičius „33 33“, eilutėje „5 1 Nacionalinių ir tarptautinių renginių (festivalių, švenčių, konkursų, konferencijų, kongresų ir t. t.) rengimas 8.“ vietoj skaičių „2662 2662“ įrašyti skaičius „2712 2712“, eilutėje „7 1 Muziejaus rinkinių kaupimas, išsaugojimas, populiarinimas 8.“ vietoj skaičių „10688 10688 6314“ įrašyti skaičius „11207 11207 6464“, eilutėje „Iš viso“ vietoj skaičių „75384 75084 16222“ įrašyti skaičius „75903 75603 16372“ ir šias eilutes išdėstyti taip: ^7fb04de389522615057b8590
+3) skirsnyje „14.900.116 Kultūros ministerija“ eilutėje „1 1 Profesionalaus meno rėmimas 8.“ vietoj skaičių „37375 37075“ įrašyti skaičius „37424 37124“, eilutėje „4 1 Teatras – Rytų Lietuvai 8.“ vietoj skaičių „132 132“ įrašyti skaičius „33 33“, eilutėje „5 1 Nacionalinių ir tarptautinių renginių (festivalių, švenčių, konkursų, konferencijų, kongresų ir t. t.) rengimas 8.“ vietoj skaičių „2662 2662“ įrašyti skaičius „2712 2712“, eilutėje „7 1 Muziejaus rinkinių kaupimas, išsaugojimas, populiarinimas 8.“ vietoj skaičių „10688 10688 6314“ įrašyti skaičius „11207 11207 6464“, eilutėje „Iš viso“ vietoj skaičių „75384 75084 16222“ įrašyti skaičius „75903 75603 16372“ ir šias eilutes išdėstyti taip: ^s-8c4982c4bed76ee2d6dc3aac
 
 
  „1 1 Profesionalaus meno rėmimas
@@ -325,7 +330,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  300“;
 
 
-4) skirsnyje „18.900.173 Socialinės apsaugos ir darbo ministerija“ eilutėje „4 1 Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant jų veiklą ir struktūrą 6.“ vietoj skaičių „33451 33451 12913“ įrašyti skaičius „23785 23785 9569“, eilutėje „8 1 Paskolų ir socialinės saugos tinklo projektų aptarnavimas 14.“ vietoj skaičių „3435 3435“ įrašyti skaičius „3227 3227“, eilutėje „9 1 Nedarbo mažinimas 6.“ vietoj skaičiaus „2000 2000“ įrašyti skaičius „2000 1000 1000“, eilutėje „Iš viso“ vietoj skaičių „527975 527975 17267“ įrašyti skaičius „518101 517101 13923 1000“ ir šias eilutes išdėstyti taip: ^9955bd93c55b9d00a20594c3
+4) skirsnyje „18.900.173 Socialinės apsaugos ir darbo ministerija“ eilutėje „4 1 Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant jų veiklą ir struktūrą 6.“ vietoj skaičių „33451 33451 12913“ įrašyti skaičius „23785 23785 9569“, eilutėje „8 1 Paskolų ir socialinės saugos tinklo projektų aptarnavimas 14.“ vietoj skaičių „3435 3435“ įrašyti skaičius „3227 3227“, eilutėje „9 1 Nedarbo mažinimas 6.“ vietoj skaičiaus „2000 2000“ įrašyti skaičius „2000 1000 1000“, eilutėje „Iš viso“ vietoj skaičių „527975 527975 17267“ įrašyti skaičius „518101 517101 13923 1000“ ir šias eilutes išdėstyti taip: ^s-b49ba1f6678b1ddfa988816e
 
 
  „4 1 Socialinių paslaugų plėtra valstybinėse
@@ -392,7 +397,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  1000“;
 
 
-5) skirsnyje „20.900.219 Susisiekimo ministerija“ eilutėje „1 6 Geležinkelio apsauga ir priežiūra 12.“ vietoj skaičių „2350 2350“ įrašyti skaičius „2320 2320“, eilutėje „1 9 Specialiojo atašė delegavimas 12.“ vietoj skaičių „370 370 90“ įrašyti skaičius „400 400 113“, eilutėje „Iš viso“ vietoj skaičiaus „3240“ įrašyti skaičių „3263“ ir šias eilutes išdėstyti taip: ^f9d16a4c1c5d537476e9fdb1
+5) skirsnyje „20.900.219 Susisiekimo ministerija“ eilutėje „1 6 Geležinkelio apsauga ir priežiūra 12.“ vietoj skaičių „2350 2350“ įrašyti skaičius „2320 2320“, eilutėje „1 9 Specialiojo atašė delegavimas 12.“ vietoj skaičių „370 370 90“ įrašyti skaičius „400 400 113“, eilutėje „Iš viso“ vietoj skaičiaus „3240“ įrašyti skaičių „3263“ ir šias eilutes išdėstyti taip: ^s-325a831da392f63380c99255
 
 
  „1 6 Geležinkelio apsauga ir priežiūra
@@ -419,7 +424,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  4386“;
 
 
-6) skirsnyje „21.900.220 Sveikatos apsaugos ministerija“ eilutėje „1 1 Visuomenės sveikatos priežiūra 5.“ vietoj skaičių „40058 40058 29085“ įrašyti skaičius „40373 39373 28040 1000“, eilutėje „2 1 Patologinių anatomijos centrų, medicininės teisės ir teismo psichiatrinių ekspertizių kokybės užtikrinimas ir atlikimo operatyvumas 5.“ vietoj skaičių „10803 10803“ įrašyti skaičius „11103 11103“, eilutėje „3 1 Valstybinių medicininių išteklių rezervo kaupimas 5.“ vietoj skaičių „1926 1401“ įrašyti skaičius „2126 1601“, eilutėje „4 1 Sveikatos apsaugos teisės ir ekonomikos centro, Lietuvos medicinos etikos (bioetikos) ir kita veikla 5.“ vietoj skaičių „2328 2328 1099“ įrašyti skaičius „2688 2688 1114“, eilutėje „5 1 Sveikatos priežiūros įstaigų bazės stiprinimas ir modernizavimas 5.“ vietoj skaičių „67276 21771 45505“ įrašyti skaičius „60818 11743 49075“, eilutėje „6 1 Nacionalinė imunoprofilaktikos ir užkrečiamųjų ligų laboratorinė diagnostikos programa 5.“ vietoj skaičių „4390 4390“ įrašyti skaičius „5390 5390“, eilutėje „7 1 Medicinos specialistų kvalifikacijos kėlimas 5.“ vietoj skaičių „3927 3927“ įrašyti skaičius „5927 5927“, eilutėje „8 1 Slaugos darbuotojų tobulinimas, specializacija ir kvalifikacijos kėlimas 4.“ vietoj skaičių „1821 1821“ įrašyti skaičius „1881 1881“, eilutėje „9 1 Visuomenės sveikatos priežiūra (Higienos institutas) 5.“ vietoj skaičių „1374 1374“ įrašyti skaičius „1474 1474“, eilutėje „Iš viso“ vietoj skaičių „139578 93548 46635 46030“ įrašyti skaičius „137455 86855 45605 50600“ ir šias eilutes išdėstyti taip: ^812803e9f301584d13b031f0
+6) skirsnyje „21.900.220 Sveikatos apsaugos ministerija“ eilutėje „1 1 Visuomenės sveikatos priežiūra 5.“ vietoj skaičių „40058 40058 29085“ įrašyti skaičius „40373 39373 28040 1000“, eilutėje „2 1 Patologinių anatomijos centrų, medicininės teisės ir teismo psichiatrinių ekspertizių kokybės užtikrinimas ir atlikimo operatyvumas 5.“ vietoj skaičių „10803 10803“ įrašyti skaičius „11103 11103“, eilutėje „3 1 Valstybinių medicininių išteklių rezervo kaupimas 5.“ vietoj skaičių „1926 1401“ įrašyti skaičius „2126 1601“, eilutėje „4 1 Sveikatos apsaugos teisės ir ekonomikos centro, Lietuvos medicinos etikos (bioetikos) ir kita veikla 5.“ vietoj skaičių „2328 2328 1099“ įrašyti skaičius „2688 2688 1114“, eilutėje „5 1 Sveikatos priežiūros įstaigų bazės stiprinimas ir modernizavimas 5.“ vietoj skaičių „67276 21771 45505“ įrašyti skaičius „60818 11743 49075“, eilutėje „6 1 Nacionalinė imunoprofilaktikos ir užkrečiamųjų ligų laboratorinė diagnostikos programa 5.“ vietoj skaičių „4390 4390“ įrašyti skaičius „5390 5390“, eilutėje „7 1 Medicinos specialistų kvalifikacijos kėlimas 5.“ vietoj skaičių „3927 3927“ įrašyti skaičius „5927 5927“, eilutėje „8 1 Slaugos darbuotojų tobulinimas, specializacija ir kvalifikacijos kėlimas 4.“ vietoj skaičių „1821 1821“ įrašyti skaičius „1881 1881“, eilutėje „9 1 Visuomenės sveikatos priežiūra (Higienos institutas) 5.“ vietoj skaičių „1374 1374“ įrašyti skaičius „1474 1474“, eilutėje „Iš viso“ vietoj skaičių „139578 93548 46635 46030“ įrašyti skaičius „137455 86855 45605 50600“ ir šias eilutes išdėstyti taip: ^s-af13d8a56fe787b44d095a63
 
 
  „1 1 Visuomenės sveikatos priežiūra
@@ -598,7 +603,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  50600“;
 
 
-7) skirsnyje „22.900.326 Švietimo ir mokslo ministerija“ eilutėje „1 1 Švietimo reformos antrasis etapas 4.“ vietoj skaičių „20943 15507“ įrašyti skaičius „20643 15207“, eilutėje „1 7 Kitų švietimo įstaigų, finansuojamų iš valstybės biudžeto, funkcionavimas 4.“ vietoj skaičių „24389 24389 16730“ įrašyti skaičius „24677 24677 16874“, eilutėje „2 1 Profesinis mokymas 4.“ vietoj skaičių „106564 106564 52342“ įrašyti skaičius „173427 173427 88653“, eilutėje „2 2 Aukštesniosios studijos 4.“ vietoj skaičių „90026 90026 48441“ įrašyti skaičius „120743 120743 64898“, eilutėje „5 1 Centrinių institucijų išlaikymas 4.“ vietoj skaičių „4301 4301 2763“ įrašyti skaičius „4353 4353 2801“, eilutėje „Iš viso“ vietoj skaičių „291798 286362 144301“ įrašyti skaičius „389418 383982 197251“ ir šias eilutes išdėstyti taip: ^2c92367f8f0028ec7f6b616b
+7) skirsnyje „22.900.326 Švietimo ir mokslo ministerija“ eilutėje „1 1 Švietimo reformos antrasis etapas 4.“ vietoj skaičių „20943 15507“ įrašyti skaičius „20643 15207“, eilutėje „1 7 Kitų švietimo įstaigų, finansuojamų iš valstybės biudžeto, funkcionavimas 4.“ vietoj skaičių „24389 24389 16730“ įrašyti skaičius „24677 24677 16874“, eilutėje „2 1 Profesinis mokymas 4.“ vietoj skaičių „106564 106564 52342“ įrašyti skaičius „173427 173427 88653“, eilutėje „2 2 Aukštesniosios studijos 4.“ vietoj skaičių „90026 90026 48441“ įrašyti skaičius „120743 120743 64898“, eilutėje „5 1 Centrinių institucijų išlaikymas 4.“ vietoj skaičių „4301 4301 2763“ įrašyti skaičius „4353 4353 2801“, eilutėje „Iš viso“ vietoj skaičių „291798 286362 144301“ įrašyti skaičius „389418 383982 197251“ ir šias eilutes išdėstyti taip: ^s-3c2ba335fcde401a7115c71e
 
 
  „1 1 Švietimo reformos antrasis etapas
@@ -657,7 +662,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  5436“;
 
 
-8) skirsnyje „29.900.1811 Ūkio ministerija“ eilutėje „1 3 Pramonės plėtojimas iki 2005 m. 11.“ vietoj skaičių „950 950“ įrašyti skaičius „748 748“, eilutėje „1 10 Antrinių žaliavų ir atliekų naudojimas 11.“ vietoj skaičių „100 100“ įrašyti skaičius „302 302“, eilutėje „1 18 Centrinių institucijų išlaikymas 11.“ vietoj skaičių „7529 7529 4232“ įrašyti skaičius „7858 7858 4354“, eilutėje „Iš viso“ vietoj skaičių „43478 40878 5143“ įrašyti skaičius „43807 41207 5265“ ir šias eilutes išdėstyti taip: ^4bf487439127f91fbffed953
+8) skirsnyje „29.900.1811 Ūkio ministerija“ eilutėje „1 3 Pramonės plėtojimas iki 2005 m. 11.“ vietoj skaičių „950 950“ įrašyti skaičius „748 748“, eilutėje „1 10 Antrinių žaliavų ir atliekų naudojimas 11.“ vietoj skaičių „100 100“ įrašyti skaičius „302 302“, eilutėje „1 18 Centrinių institucijų išlaikymas 11.“ vietoj skaičių „7529 7529 4232“ įrašyti skaičius „7858 7858 4354“, eilutėje „Iš viso“ vietoj skaičių „43478 40878 5143“ įrašyti skaičius „43807 41207 5265“ ir šias eilutes išdėstyti taip: ^s-18616b435f82e0ac71262958
 
 
  „1 3 Pramonės plėtojimas iki 2005 m.
@@ -719,7 +724,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  4558“;
 
 
-10) skirsnyje „30.900.1812 Žemės ūkio ministerija“ eilutėje „1 1 Nacionalinė žemės ūkio plėtojimo programa 10.“ vietoj skaičių „395516 395516“ įrašyti skaičius „393787 393787“, eilutėje „5 1 Grūdų ir jų produktų kokybės valstybinė priežiūra integruojantis į bendrą Europos rinką 10.“ vietoj skaičių „254 254 153“ įrašyti skaičius „124 124 75“, eilutėje „6 1 Valstybinė veislinių sėklinių pasėlių ir sodmenų bei paruoštos sėklinės medžiagos kokybės kontrolė ir sertifikavimas 10.“ vietoj skaičių „3283 3283 2094“ įrašyti skaičius „1648 1648 1046“, eilutėje „13 1 Strateginių ir neliečiamų atsargų sudarymas 10.“ vietoj skaičių „3506 3506“ įrašyti skaičius „4406 4406“, eilutėje „22 1 Profesinis rengimas 4.“ vietoj skaičių „97665 97665 52903“ įrašyti skaičius „97 97 61“, eilutėje „24 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „10876 10876 4624“ įrašyti skaičius „10483 10483 4416“, eilutėje „Iš viso“ vietoj skaičių „524579 524579 63690“ įrašyti skaičius „424024 424024 9514“ ir šias eilutes išdėstyti taip: ^0edf370224131ae99fb19751
+10) skirsnyje „30.900.1812 Žemės ūkio ministerija“ eilutėje „1 1 Nacionalinė žemės ūkio plėtojimo programa 10.“ vietoj skaičių „395516 395516“ įrašyti skaičius „393787 393787“, eilutėje „5 1 Grūdų ir jų produktų kokybės valstybinė priežiūra integruojantis į bendrą Europos rinką 10.“ vietoj skaičių „254 254 153“ įrašyti skaičius „124 124 75“, eilutėje „6 1 Valstybinė veislinių sėklinių pasėlių ir sodmenų bei paruoštos sėklinės medžiagos kokybės kontrolė ir sertifikavimas 10.“ vietoj skaičių „3283 3283 2094“ įrašyti skaičius „1648 1648 1046“, eilutėje „13 1 Strateginių ir neliečiamų atsargų sudarymas 10.“ vietoj skaičių „3506 3506“ įrašyti skaičius „4406 4406“, eilutėje „22 1 Profesinis rengimas 4.“ vietoj skaičių „97665 97665 52903“ įrašyti skaičius „97 97 61“, eilutėje „24 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „10876 10876 4624“ įrašyti skaičius „10483 10483 4416“, eilutėje „Iš viso“ vietoj skaičių „524579 524579 63690“ įrašyti skaičius „424024 424024 9514“ ir šias eilutes išdėstyti taip: ^s-e13f8855890011229c17c9d8
 
 
  „1 1 Nacionalinė žemės ūkio plėtojimo
@@ -820,10 +825,10 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  9514“.
 
 
-4. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 II. Apskritys“: ^243ae0ded397d0306f1c12ca
+4. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 II. Apskritys“: ^s-31866641691af692bbeab007
 
 
-1) skirsnyje „90.26.1147 Alytaus apskrities viršininko administracija“ eilutėje „1 15 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2554 2554 1671“ įrašyti skaičius „2550 2550 1668“, eilutėje „Iš viso“ vietoj skaičių „20526 18974 9833“ įrašyti skaičius „20522 18970 9830“ ir šias eilutes išdėstyti taip: ^94cacdcdc3d522dd43007b7f
+1) skirsnyje „90.26.1147 Alytaus apskrities viršininko administracija“ eilutėje „1 15 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2554 2554 1671“ įrašyti skaičius „2550 2550 1668“, eilutėje „Iš viso“ vietoj skaičių „20526 18974 9833“ įrašyti skaičius „20522 18970 9830“ ir šias eilutes išdėstyti taip: ^s-e118067ad7c7485d9e1ee90f
 
 
  „1 15 Žemės ūkio institucijų išlaikymas
@@ -842,7 +847,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  1552“;
 
 
-2) skirsnyje „90.27.1178 Kauno apskrities viršininko administracija“ eilutėje „1 20 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „4739 4739 3125“ įrašyti skaičius „4734 4734 3121“, eilutėje „Iš viso“ vietoj skaičių „57142 51650 25860“ įrašyti skaičius „57137 51645 25856“ ir šias eilutes išdėstyti taip: ^3bf0a60a712b10ed4064894b
+2) skirsnyje „90.27.1178 Kauno apskrities viršininko administracija“ eilutėje „1 20 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „4739 4739 3125“ įrašyti skaičius „4734 4734 3121“, eilutėje „Iš viso“ vietoj skaičių „57142 51650 25860“ įrašyti skaičius „57137 51645 25856“ ir šias eilutes išdėstyti taip: ^s-cd3643c59a09c827c675643d
 
 
  „1 20 Žemės ūkio institucijų išlaikymas
@@ -861,7 +866,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  5492“;
 
 
-3) skirsnyje „90.28.1229 Klaipėdos apskrities viršininko administracija“ eilutėje „1 19 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „3274 3274 2154“ įrašyti skaičius „3270 3270 2151“, eilutėje „Iš viso“ vietoj skaičių „42657 36869 17886“ įrašyti skaičius „42653 36865 17883“ ir šias eilutes išdėstyti taip: ^408acbeb9f52c03ce451f048
+3) skirsnyje „90.28.1229 Klaipėdos apskrities viršininko administracija“ eilutėje „1 19 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „3274 3274 2154“ įrašyti skaičius „3270 3270 2151“, eilutėje „Iš viso“ vietoj skaičių „42657 36869 17886“ įrašyti skaičius „42653 36865 17883“ ir šias eilutes išdėstyti taip: ^s-b6e90b39f78f20b360e9be1c
 
 
  „1 19 Žemės ūkio institucijų išlaikymas
@@ -880,7 +885,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  5788“;
 
 
-4) skirsnyje „90.29.1270 Marijampolės apskrities viršininko administracija“ eilutėje „1 16 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2726 2726 1788“ įrašyti skaičius „2721 2721 1784“, eilutėje „Iš viso“ vietoj skaičių „26014 22635 8887“ įrašyti skaičius „26009 22630 8883“ ir šias eilutes išdėstyti taip: ^bccfb672632b36bc75c652f0
+4) skirsnyje „90.29.1270 Marijampolės apskrities viršininko administracija“ eilutėje „1 16 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2726 2726 1788“ įrašyti skaičius „2721 2721 1784“, eilutėje „Iš viso“ vietoj skaičių „26014 22635 8887“ įrašyti skaičius „26009 22630 8883“ ir šias eilutes išdėstyti taip: ^s-a112873a9595a7f1edc2c0e7
 
 
  „1 16 Žemės ūkio institucijų išlaikymas
@@ -899,7 +904,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  3379“;
 
 
-5) skirsnyje „90.30.1311 Panevėžio apskrities viršininko administracija“ eilutėje „1 14 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „3413 3413 2421“ įrašyti skaičius „3409 3409 2418“, papildyti nauja eilute „1 21 Socialinių paslaugų plėtra globos įstaigose 6. 9666 9666 3344“, eilutėje „Iš viso“ vietoj skaičių „25053 19411 9809“ įrašyti skaičius „34715 29073 13150“ ir šias eilutes išdėstyti taip: ^c1767c59db80f73860c37ff8
+5) skirsnyje „90.30.1311 Panevėžio apskrities viršininko administracija“ eilutėje „1 14 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „3413 3413 2421“ įrašyti skaičius „3409 3409 2418“, papildyti nauja eilute „1 21 Socialinių paslaugų plėtra globos įstaigose 6. 9666 9666 3344“, eilutėje „Iš viso“ vietoj skaičių „25053 19411 9809“ įrašyti skaičius „34715 29073 13150“ ir šias eilutes išdėstyti taip: ^s-03eb68f5a8b36ba52dbda1e6
 
 
  „1 14 Žemės ūkio institucijų išlaikymas
@@ -934,7 +939,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  5642“;
 
 
-6) skirsnyje „90.31.1352 Šiaulių apskrities viršininko administracija“ eilutėje „1 1 Valstybės valdymas 1.“ Vietoj skaičių „1985 1985 1346“ įrašyti skaičius „2044 2044 1391“, eilutėje „1 16 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „4637 4637 3182“ įrašyti skaičius „4632 4632 3178“, išbraukti eilutę „1 21 Administracinių ginčų komisijos išlaikymas 3. 59 59 45“, eilutėje „Iš viso“ vietoj skaičių „46691 40112 18293“ įrašyti skaičius „46686 40107 18289“ ir šias eilutes išdėstyti taip: ^1ba8814a0331e9971b930315
+6) skirsnyje „90.31.1352 Šiaulių apskrities viršininko administracija“ eilutėje „1 1 Valstybės valdymas 1.“ Vietoj skaičių „1985 1985 1346“ įrašyti skaičius „2044 2044 1391“, eilutėje „1 16 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „4637 4637 3182“ įrašyti skaičius „4632 4632 3178“, išbraukti eilutę „1 21 Administracinių ginčų komisijos išlaikymas 3. 59 59 45“, eilutėje „Iš viso“ vietoj skaičių „46691 40112 18293“ įrašyti skaičius „46686 40107 18289“ ir šias eilutes išdėstyti taip: ^s-074dffdd47c428dbb8571921
 
 
  „1 1 Valstybės valdymas
@@ -961,7 +966,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  6579“;
 
 
-7) skirsnyje „90.32.1393 Tauragės apskrities viršininko administracija“ eilutėje „1 14 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2084 2084 1388“ įrašyti skaičius „2079 2079 1384“, eilutėje „Iš viso“ vietoj skaičių „13783 11265 5068“ įrašyti skaičius „13778 11260 5064“ ir šias eilutes išdėstyti taip: ^b583cedbfabf7cbb4ffff122
+7) skirsnyje „90.32.1393 Tauragės apskrities viršininko administracija“ eilutėje „1 14 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2084 2084 1388“ įrašyti skaičius „2079 2079 1384“, eilutėje „Iš viso“ vietoj skaičių „13783 11265 5068“ įrašyti skaičius „13778 11260 5064“ ir šias eilutes išdėstyti taip: ^s-eecc3f94a895a66f1d9ea488
 
 
  „1 14 Žemės ūkio institucijų išlaikymas
@@ -980,7 +985,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  2518“;
 
 
-8) skirsnyje „90.33.1424 Telšių apskrities viršininko administracija“ eilutėje „1 1 Valstybės valdymas 1.“ vietoj skaičių „1276 1276 824“ įrašyti skaičius „1335 1335 869“, eilutėje „1 9 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2308 2308 1433“ įrašyti skaičius „2304 2304 1430“, išbraukti eilutę „1 13 Administracinių ginčų komisijos išlaikymas 3. 59 59 45“, eilutėje „Iš viso“ vietoj skaičių „21499 19137 8778“ įrašyti skaičius „21495 19133 8775“ ir šias eilutes išdėstyti taip: ^e5753d884c70ef32a9c325fd
+8) skirsnyje „90.33.1424 Telšių apskrities viršininko administracija“ eilutėje „1 1 Valstybės valdymas 1.“ vietoj skaičių „1276 1276 824“ įrašyti skaičius „1335 1335 869“, eilutėje „1 9 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „2308 2308 1433“ įrašyti skaičius „2304 2304 1430“, išbraukti eilutę „1 13 Administracinių ginčų komisijos išlaikymas 3. 59 59 45“, eilutėje „Iš viso“ vietoj skaičių „21499 19137 8778“ įrašyti skaičius „21495 19133 8775“ ir šias eilutes išdėstyti taip: ^s-64a2259a8f5d04c6a6de94ac
 
 
  „1 1 Valstybės valdymas
@@ -1007,7 +1012,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  2362“;
 
 
-9) skirsnyje „90.34.1455 Utenos apskrities viršininko administracija“ eilutėje „1 13 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „3832 3832 2633“ įrašyti skaičius „3827 3827 2629“, eilutėje „Iš viso“ vietoj skaičių „31923 29009 12494“ įrašyti skaičius „31918 29004 12490“ ir šias eilutes išdėstyti taip: ^04be6064f5bfc1a93a635a18
+9) skirsnyje „90.34.1455 Utenos apskrities viršininko administracija“ eilutėje „1 13 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „3832 3832 2633“ įrašyti skaičius „3827 3827 2629“, eilutėje „Iš viso“ vietoj skaičių „31923 29009 12494“ įrašyti skaičius „31918 29004 12490“ ir šias eilutes išdėstyti taip: ^s-13f6806441646a5e9ebe5fb2
 
 
  „1 13 Žemės ūkio institucijų išlaikymas
@@ -1026,7 +1031,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  2914“;
 
 
-10) skirsnyje „90.35.1496 Vilniaus apskrities viršininko administracija“ eilutėje „1 17 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „4755 4755 3377“ įrašyti skaičius „4750 4750 3373“, eilutėje „Iš viso“ vietoj skaičių „49614 45360 24517“ įrašyti skaičius „49609 45355 24513“ ir šias eilutes išdėstyti taip: ^c980ce9cf012356afd212004
+10) skirsnyje „90.35.1496 Vilniaus apskrities viršininko administracija“ eilutėje „1 17 Žemės ūkio institucijų išlaikymas 10.“ vietoj skaičių „4755 4755 3377“ įrašyti skaičius „4750 4750 3373“, eilutėje „Iš viso“ vietoj skaičių „49614 45360 24517“ įrašyti skaičius „49609 45355 24513“ ir šias eilutes išdėstyti taip: ^s-3817d65b4ac01d5ac6a0d18e
 
 
  „1 17 Žemės ūkio institucijų išlaikymas
@@ -1045,10 +1050,10 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  4254“.
 
 
-5. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 III. Departamentai, tarnybos ir inspekcijos“: ^7d5e906769e6f06ba3500df2
+5. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 III. Departamentai, tarnybos ir inspekcijos“: ^s-14844f213115355830750943
 
 
-1) skirsnyje „90.900.1988 Europos komitetas prie Lietuvos Respublikos Vyriausybės“ eilutėje „1 9 Visuomenės informavimo programa 1.“ vietoj skaičių „570 570“ įrašyti skaičius „532 38“, eilutėje „Iš viso“ vietoj skaičių „4843 4843“ įrašyti skaičius „4805 38“ ir šias eilutes išdėstyti taip: ^8fda94dcaf4e2447cfa93799
+1) skirsnyje „90.900.1988 Europos komitetas prie Lietuvos Respublikos Vyriausybės“ eilutėje „1 9 Visuomenės informavimo programa 1.“ vietoj skaičių „570 570“ įrašyti skaičius „532 38“, eilutėje „Iš viso“ vietoj skaičių „4843 4843“ įrašyti skaičius „4805 38“ ir šias eilutes išdėstyti taip: ^s-a9da5a8bc6a24b0089a14788
 
 
  „1 9 Visuomenės informavimo programa
@@ -1067,7 +1072,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  38“;
 
 
-2) skirsnyje „90.42.1872 Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos Respublikos Vyriausybės“ eilutėje „6 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „874 874“, įrašyti skaičius „934 934“, eilutėje „7 2 Lietuvos teritorijos, ekonominės zonos ir kontinentinio šelfo valstybinė kartografavimo programa 10.“ vietoj skaičių „2820 2820“ įrašyti skaičius „2760 2760“ ir šias eilutes išdėstyti taip: ^62496d70b4d7c992f60e4bc2
+2) skirsnyje „90.42.1872 Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos Respublikos Vyriausybės“ eilutėje „6 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „874 874“, įrašyti skaičius „934 934“, eilutėje „7 2 Lietuvos teritorijos, ekonominės zonos ir kontinentinio šelfo valstybinė kartografavimo programa 10.“ vietoj skaičių „2820 2820“ įrašyti skaičius „2760 2760“ ir šias eilutes išdėstyti taip: ^s-3e8d95c409d4f7ea54475262
 
 
  „6 1 Centrinių institucijų išlaikymas
@@ -1098,7 +1103,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  2760“;
 
 
-3) skirsnyje „90.900.1865 Lietuvos ekonominės plėtros agentūra“ eilutėje „5 1 Lietuvos ekonominės plėtros agentūros struktūros ir veiklos tobulinimas 14.“ vietoj skaičių „1582 1242“ įrašyti skaičius „108 108“, išbraukti skaičių „340“, eilutėje „Iš viso“ vietoj skaičių „3889 3549“ įrašyti skaičius „2415 2415“, išbraukti skaičių „340“ ir šias eilutes išdėstyti taip: ^815db90ce184c55be2128ae6
+3) skirsnyje „90.900.1865 Lietuvos ekonominės plėtros agentūra“ eilutėje „5 1 Lietuvos ekonominės plėtros agentūros struktūros ir veiklos tobulinimas 14.“ vietoj skaičių „1582 1242“ įrašyti skaičius „108 108“, išbraukti skaičių „340“, eilutėje „Iš viso“ vietoj skaičių „3889 3549“ įrašyti skaičius „2415 2415“, išbraukti skaičių „340“ ir šias eilutes išdėstyti taip: ^s-f96bd34e780ba6e43a87ef95
 
 
  „5 1 Lietuvos ekonominės plėtros
@@ -1129,7 +1134,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  1459“;
 
 
-4) skirsnyje „90.14.981 Valstybinė veterinarijos tarnyba“ eilutėje „4 1 Pasienio valstybinė veterinarijos tarnyba 10.“ vietoj skaičių „1504 1304 960“ įrašyti skaičius „854 654 480“, eilutėje „6 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „1258 1258 651“ įrašyti skaičius „648 648 328“, eilutėje „7 1 Valstybės rezervas 10.“ vietoj skaičių „23 23“ įrašyti skaičius „12 12“, eilutėje „8 1 Gyvūnų apsauga, ligų profilaktika ir likvidavimas bei gyvūninių produktų nekenksmingumo užtikrinimas, specialistų kvalifikacijos kėlimas 10.“ vietoj skaičių „15206 14031 8148 1175“ įrašyti skaičius „7538 7238 4074 300“, eilutėje „9 1 Pasaulio banko paskolos veterinariniams preparatams pirkti grąžinimas 10.“ vietoj skaičių „900 609“ įrašyti skaičius „703 412“, eilutėje „Iš viso“ vietoj skaičių „18891 16907 9759 1984“ įrašyti skaičius „9755 8843 4882 912“ ir šias eilutes išdėstyti taip: ^3389c4368ba4d04853198e46
+4) skirsnyje „90.14.981 Valstybinė veterinarijos tarnyba“ eilutėje „4 1 Pasienio valstybinė veterinarijos tarnyba 10.“ vietoj skaičių „1504 1304 960“ įrašyti skaičius „854 654 480“, eilutėje „6 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „1258 1258 651“ įrašyti skaičius „648 648 328“, eilutėje „7 1 Valstybės rezervas 10.“ vietoj skaičių „23 23“ įrašyti skaičius „12 12“, eilutėje „8 1 Gyvūnų apsauga, ligų profilaktika ir likvidavimas bei gyvūninių produktų nekenksmingumo užtikrinimas, specialistų kvalifikacijos kėlimas 10.“ vietoj skaičių „15206 14031 8148 1175“ įrašyti skaičius „7538 7238 4074 300“, eilutėje „9 1 Pasaulio banko paskolos veterinariniams preparatams pirkti grąžinimas 10.“ vietoj skaičių „900 609“ įrašyti skaičius „703 412“, eilutėje „Iš viso“ vietoj skaičių „18891 16907 9759 1984“ įrašyti skaičius „9755 8843 4882 912“ ir šias eilutes išdėstyti taip: ^s-be909b2eae86e1e1bff3f174
 
 
  „4 1 Pasienio valstybinė veterinarijos
@@ -1228,7 +1233,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  912“;
 
 
-5) po šio skirsnio papildyti skyrių nauju skirsniu „90.51.2212 Valstybinė maisto ir veterinarijos tarnyba“: ^f5064972cdb5e04e1d9c57da
+5) po šio skirsnio papildyti skyrių nauju skirsniu „90.51.2212 Valstybinė maisto ir veterinarijos tarnyba“: ^s-e3521bc19ebb24726a1ce2de
 
 
 „90 51 2212 Valstybinė maisto ir veterinarijos tarnyba
@@ -1250,7 +1255,7 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  1150“;
 
 
-6) skirsnyje „90.20.1058 Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ eilutėje „1 1 Centrinių institucijų išlaikymas ir rinkos kontrolė 13.“ vietoj skaičių „4518 4518 3388“ įrašyti skaičius „2418 2418 1768“, eilutėje „1 2 Kokybės kontrolės programa įmonėse pagal sutartis 13.“ vietoj skaičių „967 967 620“ įrašyti skaičius „483 483 310“, eilutėje „1 3 Laboratoriniai tyrimai vykdant rinkos priežiūrą 13.“ vietoj skaičių „440 440 258“ įrašyti skaičius „260 260 129“, eilutėje „1 4 Produkcijos sertifikavimas ir gamybos atestavimas 13.“ vietoj skaičių „260 260 157“ įrašyti skaičius „66 66 18“, eilutėje „Iš viso“ vietoj skaičių „6185 6185 4423“ įrašyti skaičius „3227 3227 2225“ ir šias eilutes išdėstyti taip: ^1a001c3e78d3578e70f418c2
+6) skirsnyje „90.20.1058 Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ eilutėje „1 1 Centrinių institucijų išlaikymas ir rinkos kontrolė 13.“ vietoj skaičių „4518 4518 3388“ įrašyti skaičius „2418 2418 1768“, eilutėje „1 2 Kokybės kontrolės programa įmonėse pagal sutartis 13.“ vietoj skaičių „967 967 620“ įrašyti skaičius „483 483 310“, eilutėje „1 3 Laboratoriniai tyrimai vykdant rinkos priežiūrą 13.“ vietoj skaičių „440 440 258“ įrašyti skaičius „260 260 129“, eilutėje „1 4 Produkcijos sertifikavimas ir gamybos atestavimas 13.“ vietoj skaičių „260 260 157“ įrašyti skaičius „66 66 18“, eilutėje „Iš viso“ vietoj skaičių „6185 6185 4423“ įrašyti skaičius „3227 3227 2225“ ir šias eilutes išdėstyti taip: ^s-59212f1f45ff81fd79953661
 
 
  „1 1 Centrinių institucijų išlaikymas ir
@@ -1316,10 +1321,10 @@ Sumažinti Vyriausiajai rinkimų komisijai Rinkimų organizavimo programai lėš
  2225“.
 
 
-6. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 IV. Įmonės ir organizacijos“: ^638b825fdb88ce23fe59ec39
+6. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 IV. Įmonės ir organizacijos“: ^s-e7f5416bf8994b68eb35c819
 
 
-1) grupėje „0.909.0 Aplinkos ministerijos valdymo sritis“: ^28b388ceb4092257960e1122
+1) grupėje „0.909.0 Aplinkos ministerijos valdymo sritis“: ^s-5176a60640d95b5d8d2dc466
 
 
 a) skirsnyje „90.49.1982 Miškų ir saugomų teritorijų departamentas prie Aplinkos ministerijos“ eilutėje „1 1 Gamtinių ekosistemų išsaugojimas 10.“ vietoj skaičių „13119 12764“ įrašyti skaičius „13319 12964“, eilutėje „6 1 Centrinių institucijų išlaikymas 10.“ vietoj skaičių „2575 2575 1450“ įrašyti skaičius „2375 2375 1375“, eilutėje „Iš viso“ vietoj skaičiaus „9045“ įrašyti skaičių „8970“ ir šias eilutes išdėstyti taip:
@@ -1376,7 +1381,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
  100“;
 
 
-2) grupėje „0.912.0 Finansų ministerijos valdymo sritis“ skirsnyje „90.21.1059 Muitinės departamentas prie Finansų ministerijos“ eilutėje „1 1 Valstybės valdymas 1.“ vietoj skaičių „73963 73963 52897“ įrašyti skaičius „72915 72915 52097“, papildyti nauja eilute „1.4 Pažeidimų prevencija 14. 1139 1139 874“, eilutėje „Iš viso“ vietoj skaičių „83151 83151 52897“ įrašyti skaičius „83242 83242 52971“ ir šias eilutes išdėstyti taip: ^c9b05453ae56fcfac6e63f1a
+2) grupėje „0.912.0 Finansų ministerijos valdymo sritis“ skirsnyje „90.21.1059 Muitinės departamentas prie Finansų ministerijos“ eilutėje „1 1 Valstybės valdymas 1.“ vietoj skaičių „73963 73963 52897“ įrašyti skaičius „72915 72915 52097“, papildyti nauja eilute „1.4 Pažeidimų prevencija 14. 1139 1139 874“, eilutėje „Iš viso“ vietoj skaičių „83151 83151 52897“ įrašyti skaičius „83242 83242 52971“ ir šias eilutes išdėstyti taip: ^s-4ded09e8bbacee3edcef37d3
 
 
  „1 1 Valstybės valdymas
@@ -1403,7 +1408,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
 
 
 
-3) grupėje „0.914.0 Kultūros ministerijos valdymo sritis“ skirsnyje „90.22.1075 Kultūros ministerijos Kultūros vertybių apsaugos departamentas“ eilutėje „1 1 Kultūros vertybių apsauga 8.“ vietoj skaičių „13000 13000“ įrašyti skaičius „13695 13695“, eilutėje „2 1 Kultūros vertybių apskaita, propagavimas, informacijos kaupimas bei Trakų istorinio nacionalinio parko kultūrinių, švietėjiškų bei propagandinių vertybių apsauga 8.“ išbraukti žodžius „bei Trakų istorinio nacionalinio parko kultūrinių, švietėjiškų bei propagandinių vertybių apsauga“ ir vietoj skaičių „1554 1554 940“ įrašyti skaičius „1240 1240 790“, eilutėje „Iš viso“ vietoj skaičių „16767 16767 2248“ įrašyti skaičius „17148 17148 2098“ ir šias eilutes išdėstyti taip: ^da675498eb61495f372d9f87
+3) grupėje „0.914.0 Kultūros ministerijos valdymo sritis“ skirsnyje „90.22.1075 Kultūros ministerijos Kultūros vertybių apsaugos departamentas“ eilutėje „1 1 Kultūros vertybių apsauga 8.“ vietoj skaičių „13000 13000“ įrašyti skaičius „13695 13695“, eilutėje „2 1 Kultūros vertybių apskaita, propagavimas, informacijos kaupimas bei Trakų istorinio nacionalinio parko kultūrinių, švietėjiškų bei propagandinių vertybių apsauga 8.“ išbraukti žodžius „bei Trakų istorinio nacionalinio parko kultūrinių, švietėjiškų bei propagandinių vertybių apsauga“ ir vietoj skaičių „1554 1554 940“ įrašyti skaičius „1240 1240 790“, eilutėje „Iš viso“ vietoj skaičių „16767 16767 2248“ įrašyti skaičius „17148 17148 2098“ ir šias eilutes išdėstyti taip: ^s-8e9e392116f310154e50821f
 
 
  „1 1 Kultūros vertybių apsauga
@@ -1434,7 +1439,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
  2098“;
 
 
-4) grupėje „0.920.0 Susisiekimo ministerijos valdymo sritis“ skirsnyje „90.900.1652 Aviakompanija „Lietuvos avialinijos“ eilutėje „1 1 Keleivių ir krovinių pervežimų vykdymas 12.“ vietoj skaičių „12471 683“ įrašyti skaičius „12480 692“, eilutėje „Iš viso“ vietoj skaičių „12471 683“ įrašyti skaičius „12480 692“, po šio skirsnio papildyti nauju skirsniu „90.900.2214 Ryšių reguliavimo tarnyba“ ir šiuos skirsnius išdėstyti taip: ^f90bf0503b5a557aed66448c
+4) grupėje „0.920.0 Susisiekimo ministerijos valdymo sritis“ skirsnyje „90.900.1652 Aviakompanija „Lietuvos avialinijos“ eilutėje „1 1 Keleivių ir krovinių pervežimų vykdymas 12.“ vietoj skaičių „12471 683“ įrašyti skaičius „12480 692“, eilutėje „Iš viso“ vietoj skaičių „12471 683“ įrašyti skaičius „12480 692“, po šio skirsnio papildyti nauju skirsniu „90.900.2214 Ryšių reguliavimo tarnyba“ ir šiuos skirsnius išdėstyti taip: ^s-b08847742c73621810c35bb0
 „90.900.1652 Aviakompanija „Lietuvos avialinijos“
 
 
@@ -1462,7 +1467,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
 
 
 
- 90.900.2214 Ryšių reguliavimo tarnyba ^3b725610c18b33810be495a4
+ 90.900.2214 Ryšių reguliavimo tarnyba ^s-98f43ad1e2c75786577a2c4f
 
 
 
@@ -1478,7 +1483,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
  1500“;
 
 
-5) grupės „0.921.0 Sveikatos apsaugos ministerijos valdymo sritis“ skirsnį „90.900.2170 Farmacijos departamentas prie Sveikatos apsaugos ministerijos“ papildyti nauja eilute „1 2 Mokamos paslaugos 5. 2883 2701 1020 182“, eilutėje „Iš viso“ vietoj skaičių „201 201 155“ įrašyti skaičius „3084 2902 1175 182“ ir šias eilutes išdėstyti taip: ^0ad705ed53db072e3d58c614
+5) grupės „0.921.0 Sveikatos apsaugos ministerijos valdymo sritis“ skirsnį „90.900.2170 Farmacijos departamentas prie Sveikatos apsaugos ministerijos“ papildyti nauja eilute „1 2 Mokamos paslaugos 5. 2883 2701 1020 182“, eilutėje „Iš viso“ vietoj skaičių „201 201 155“ įrašyti skaičius „3084 2902 1175 182“ ir šias eilutes išdėstyti taip: ^s-a78f5839f4b71bcf05aef8a8
 
 
  „1 2 Mokamos paslaugos
@@ -1497,7 +1502,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
  182“;
 
 
-6) grupę „0.929.0 Ūkio ministerijos valdymo sritis“ papildyti šiuo nauju skirsniu: ^a2f42ccd2eb0e8a5f0570450
+6) grupę „0.929.0 Ūkio ministerijos valdymo sritis“ papildyti šiuo nauju skirsniu: ^s-077eb6ea941d53308967e2b3
 
 
 „90.900.2213 Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos
@@ -1538,7 +1543,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
  1687“;
 
 
-7) grupėje „09.925.0 Valdymo reformų ir savivaldybių reikalų ministerijos valdymo sritis“ skirsnyje „90.900.1952 Nacionalinis akreditacijos biuras prie Valdymo reformų ir savivaldybių reikalų ministerijos“ eilutėje „1 2 Atitikties įvertinimo įstaigų įvertinimas ir jų priežiūra 13.“ vietoj skaičių „120 94 72“ įrašyti skaičius „180 154 108“, eilutėje „Iš viso“ vietoj skaičių „646 620 362“ įrašyti skaičius „706 680 398“ ir šias eilutes išdėstyti taip: ^24cba5eb74dac111ff9f6df0
+7) grupėje „09.925.0 Valdymo reformų ir savivaldybių reikalų ministerijos valdymo sritis“ skirsnyje „90.900.1952 Nacionalinis akreditacijos biuras prie Valdymo reformų ir savivaldybių reikalų ministerijos“ eilutėje „1 2 Atitikties įvertinimo įstaigų įvertinimas ir jų priežiūra 13.“ vietoj skaičių „120 94 72“ įrašyti skaičius „180 154 108“, eilutėje „Iš viso“ vietoj skaičių „646 620 362“ įrašyti skaičius „706 680 398“ ir šias eilutes išdėstyti taip: ^s-f2e3b5558154fdd58669a21a
 
 
  „1 2 Atitikties įvertinimo įstaigų
@@ -1565,7 +1570,7 @@ b) skirsnyje „90.900.1547 Lietuvos hidrometeorologijos tarnyba prie Aplinkos m
  26“;
 
 
-8) grupėje „0.926.0 Vidaus reikalų ministerijos valdymo sritis“: ^872ebb06dcaa11ef667c7bb5
+8) grupėje „0.926.0 Vidaus reikalų ministerijos valdymo sritis“: ^s-25d82b663cdcb7ee9f492e66
 
 
 a) skirsnyje „90.3.826 Pasienio policijos departamentas prie Vidaus reikalų ministerijos“ eilutėje „1 1 Valstybės sienos apsaugos ir neliečiamumo sausumoje ir teritoriniuose vandenyse bei valstybės sienos, pasienio ruožo ir pasienio kontrolės punktų režimų užtikrinimas 3.“ vietoj skaičių „28219 15509 12710“ įrašyti skaičius „20339 15110 5229“, eilutėje „Iš viso“ vietoj skaičių „117584 104874 12710“ įrašyti skaičius „109704 104475 5229“ ir šias eilutes išdėstyti taip:
@@ -1635,7 +1640,7 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
  277326“;
 
 
-9) grupėje „0.930.0 Žemės ūkio ministerijos valdymo sritis“: ^ae7cb585575e75cdd67d15df
+9) grupėje „0.930.0 Žemės ūkio ministerijos valdymo sritis“: ^s-1fa760edf1f048ce6b575f2f
 
 
 a) papildyti naujais skirsniais „90.900.2210 Valstybinė sėklų ir grūdų tarnyba prie Žemės ūkio ministerijos“ ir „90.900.2211 Žuvininkystės departamentas prie Žemės ūkio ministerijos“ ir juos išdėstyti taip:
@@ -1683,7 +1688,7 @@ a) papildyti naujais skirsniais „90.900.2210 Valstybinė sėklų ir grūdų ta
  1269
 
 
- 90.900.2211 Žuvininkystės departamentas prie Žemės ūkio ministerijos ^c581f4a6dc32fa9f50e63bbf
+ 90.900.2211 Žuvininkystės departamentas prie Žemės ūkio ministerijos ^s-7d616b356572964eda4d1295
 
 
 
@@ -1728,7 +1733,7 @@ b) skirsnyje „90.900.2102 Nacionalinė mokėjimo agentūra prie Žemės ūkio 
  797“.
 
 
-7. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 V. Teisėsaugos institucijos“ skirsnyje „90.900.2103 Teisinės institucijos“ eilutėje „1 1 Teisinės sistemos reformos metmenų įgyvendinimas 3.“ vietoj skaičiaus „73389“ įrašyti skaičių „73359“ ir skaičių „30“, eilutėje „Iš viso“ vietoj skaičiaus „73389“ įrašyti skaičių „73359“ ir skaičių „30“ ir šias eilutes išdėstyti taip: ^63e809217fa04b36d52308e2
+7. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 V. Teisėsaugos institucijos“ skirsnyje „90.900.2103 Teisinės institucijos“ eilutėje „1 1 Teisinės sistemos reformos metmenų įgyvendinimas 3.“ vietoj skaičiaus „73389“ įrašyti skaičių „73359“ ir skaičių „30“, eilutėje „Iš viso“ vietoj skaičiaus „73389“ įrašyti skaičių „73359“ ir skaičių „30“ ir šias eilutes išdėstyti taip: ^s-f199449fb42668bc55ba3a49
 
 
  „1 1 Teisinės sistemos reformos
@@ -1755,7 +1760,7 @@ b) skirsnyje „90.900.2102 Nacionalinė mokėjimo agentūra prie Žemės ūkio 
  30“.
 
 
-8. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ skirsnyje „90.900.1629 Mokslas ir studijos“ eilutėje „1 1 Aukščiausios kvalifikacijos specialistų bei mokslininkų aukštosiose mokyklose rengimo užtikrinimas ir plėtojimas 4.“ vietoj skaičių „320415 319557 858“ įrašyti skaičius „321325 319804 1521“, eilutėje „Iš viso“ vietoj skaičių „453366 452508 858“ įrašyti skaičius „454276 452755 1521“ ir šias eilutes išdėstyti taip: ^3576a12cc224cba3f880ae0a
+8. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ skirsnyje „90.900.1629 Mokslas ir studijos“ eilutėje „1 1 Aukščiausios kvalifikacijos specialistų bei mokslininkų aukštosiose mokyklose rengimo užtikrinimas ir plėtojimas 4.“ vietoj skaičių „320415 319557 858“ įrašyti skaičius „321325 319804 1521“, eilutėje „Iš viso“ vietoj skaičių „453366 452508 858“ įrašyti skaičius „454276 452755 1521“ ir šias eilutes išdėstyti taip: ^s-542279ea78a3bd6379afdb63
 
 
  „1 1 Aukščiausios kvalifikacijos specialistų
@@ -1790,7 +1795,7 @@ b) skirsnyje „90.900.2102 Nacionalinė mokėjimo agentūra prie Žemės ūkio 
  1521“.
 
 
-9. Įstatymo 1 priedėlio dalyje „Išlaidos“ eilutėje „IŠ VISO“ vietoj skaičių „6851088 6582699 1981979 268389“ įrašyti skaičius „6857735 6588766 1982822 268969“ ir šią eilutę išdėstyti taip: ^d823ce0ae1e1feaa5ef0da4b
+9. Įstatymo 1 priedėlio dalyje „Išlaidos“ eilutėje „IŠ VISO“ vietoj skaičių „6851088 6582699 1981979 268389“ įrašyti skaičius „6857735 6588766 1982822 268969“ ir šią eilutę išdėstyti taip: ^s-2bf38f2194956c86b02a6e85
 
 
  „IŠ VISO
@@ -1803,7 +1808,7 @@ b) skirsnyje „90.900.2102 Nacionalinė mokėjimo agentūra prie Žemės ūkio 
 
 
 
-### 7 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-4ef4f10f95ec13465c032e0a
 
 
 Įstatymo 2 priedėlio „Lietuvos Respublikos 2000 metų valstybės biudžeto išlaidos“ eilutėje „Bendrosios valstybės paslaugos“ vietoj skaičių „589043 587028 355145 2015“ įrašyti skaičius „588128 586075 354435 2053“, eilutėje „Valstybės valdymo išlaidos“ vietoj skaičiaus „179908 179079 105232 829“ įrašyti skaičius „180041 179174 105322 867“, eilutėje „Viešoji tvarka ir visuomenės apsauga“ vietoj skaičių „918694 895427 610501 23267“įrašyti skaičius „910605 894789 610307 15816“ eilutėje „Švietimas“ vietoj skaičių „826014 819240 462044 6774“ įrašyti skaičius „827021 819584 462152 7437“, eilutėje „Sveikatos apsauga“ vietoj skaičių „594835 548805 53666 46030“ įrašyti skaičius „595535 544753 53656 50782“, eilutėje „Socialinė apsauga, globa ir rūpyba“ vietoj skaičių „688773 688773“ įrašyti skaičius „693473 692473 1000“, eilutėje „Sveikatingumas (sportas) rekreacija, kultūra“ vietoj skaičių „223484 219573“ įrašyti skaičius „224384 220473“, eilutėje „Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija“ vietoj skaičių „577593 535210 56013 42383“ įrašyti skaičius „579673 537212 57815 42461“, eilutėje „Mineralinių išteklių gavyba (išskyrus kurą), pramonė ir statyba“ vietoj skaičių „49700 47100 8063“ įrašyti skaičius „50029 47429 8185“, eilutėje „Transportas ir ryšiai“ vietoj skaičių „57300 39039 8857 18261“ įrašyti skaičius „61235 41474 10155 19761“, eilutėje „Kita ekonominė veikla“ vietoj skaičių „65827 64943 37556“ įrašyti skaičius „65801 64917 37609“, eilutėje „Aplinkos ministerija ir jos valdymo sritis“ vietoj skaičių „34050 33802 18926“ įrašyti skaičius „34574 34326 19454“, eilutėje „Išlaidos, nepriskirtos pagrindinių funkcijų grupėms“ vietoj skaičių „1601704 1531077 26392“ įrašyti skaičius „1603730 1533103 24766“, eilutėje „Valstybės skolos aptarnavimo išlaidos“ vietoj skaičių „997699 931246 66453“ įrašyti skaičius „998768 931975 66793“, eilutėje „Iš viso“ vietoj skaičių „6851088 6582699 1981979 268389“ įrašyti skaičius „6857735 6588766 1982822 268969“ ir šias eilutes išdėstyti taip:
@@ -1945,7 +1950,7 @@ b) skirsnyje „90.900.2102 Nacionalinė mokėjimo agentūra prie Žemės ūkio 
 
 
 
-### 8 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-ab047bdff480f88fa289eb4b
 
 
 Įstatymo 3 priedėlio „„Lietuvos Respublikos 2000 metų valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų nebiudžetinių (specialiųjų) lėšų įmokos į valstybės biudžetą“ eilutėje „Ūkio ministerija“ vietoj skaičiaus „324“ įrašyti skaičių „450“, eilutėje „Valstybinė veterinarijos tarnyba“ vietoj skaičiaus „600“ įrašyti skaičių „316“, eilutėje „Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ vietoj skaičiaus „1227“ įrašyti skaičių „549“, papildyti naujomis eilutėmis „Valstybinė maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausybės 284“, „Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos 330“, „Farmacijos departamentas prie Sveikatos apsaugos ministerijos 2883“ ir „Ryšių reguliavimo tarnyba 3926“, eilutėje „Nacionalinis akreditacijos biuras prie Valdymo reformų ir savivaldybių reikalų ministerijos“ vietoj skaičiaus „120“ įrašyti skaičių „180“, eilutėje „Iš viso“ vietoj skaičiaus „71590“ įrašyti skaičių „78237“ ir šias eilutes išdėstyti taip:
@@ -2010,7 +2015,7 @@ b) skirsnyje „90.900.2102 Nacionalinė mokėjimo agentūra prie Žemės ūkio 
 
 
 
-### 9 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-334ed88db536054fccf771f3
 
 
 Įstatymo 6 priedėlio „Išlaidų teisinėms institucijoms programai 1.1 „Teisinės sistemos reformos metmenų įgyvendinimas“ paskirstymas“ eilutėje „Lietuvos apeliacinis teismas“ vietoj skaičių „5336 5336 3920“ įrašyti skaičius „5260 5260 3870“, eilutėje „Kauno apygardos teismas“ vietoj skaičių „6090 6090 4300“ įrašyti skaičius „5966 5966 4220“, eilutėje „Panevėžio apygardos teismas“ vietoj skaičių „3112 3112 2300“ įrašyti skaičius „3147 3147 2330“, eilutėje „Vilniaus miesto 4-os apylinkės teismas“ vietoj skaičių „872 872 540“ įrašyti skaičius „908 908 570“, eilutėje „Ignalinos rajono apylinkės teismas“ vietoj skaičių „530 530 410“ įrašyti skaičius „606 606 435“, eilutėje „Klaipėdos rajono apylinkės teismas“ vietoj skaičių „780 780 530“ įrašyti skaičius „810 810 555“, eilutėje „Zarasų rajono apylinkės teismas“ vietoj skaičių „628 628 400“ įrašyti skaičius „651 651 420“, eilutėje „Aukštesnysis administracinis teismas“ vietoj skaičių „1700 1700 1201“ įrašyti skaičius „1700 1670 1171“ ir skaičių „30“, eilutėje „Iš viso“ vietoj skaičių „106495 106495 73389“ įrašyti skaičius „106495 106465 73359“ ir skaičių „30“ ir šias eilutes išdėstyti taip:

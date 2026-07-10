@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EC5687F99D5F"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.EC5687F99D5F.md"
 latest_sha256: "f121484d46762dca87e0eba8f547e8decfb5ae52620f14612a89a8288c432c1c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EC5687F99D5F]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EC5687F99D5F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EC5687F99D5F
+- Ryšiai: [[Ryšiai/TAR.EC5687F99D5F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,30 +38,30 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas ^s-848d9a907ebc685753db4f71
 
 
-1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip: ^f63ee5298ca37c2dcec2efbd
+1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip: ^s-6bd3aa9f674af7b269813e41
 
 
 „1. Kompensuojamasis uždarbis, pagal kurį nustatomas ligos ir profesinės reabilitacijos pašalpų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 3 kalendorinius mėnesius, buvusius iki praeito kalendorinio mėnesio prieš laikinojo nedarbingumo nustatymo ar profesinės reabilitacijos programos pradžios mėnesį.“
 
 
-2. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip: ^db057f1f708394144cec16a2
+2. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f3b8135007b6c50ceef28aef
 
 
 „2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir motinystės (tėvystės) pašalpų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš nėštumo ir gimdymo, tėvystės arba vaiko priežiūros atostogų pradžios mėnesį.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-9ecdeaff9a13469aa5a22d21
 
 
-Šis įstatymas, išskyrus [[#3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|3 straipsnį]], įsigalioja 2010 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-1bdb3b57c0c82f0fc2a0a2fa|3 straipsnį]], įsigalioja 2010 m. liepos 1 d.
 
 
 
-### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-1bdb3b57c0c82f0fc2a0a2fa
 
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo parengia šio įstatymo įgyvendinamuosius teisės aktus.

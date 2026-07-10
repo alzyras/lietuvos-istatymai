@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.29CCFD5518B8"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-09-01"
 latest_path: "latest/TAR.29CCFD5518B8.md"
 latest_sha256: "3232f4aef73fb11592f2de3e8de8b5305db90c2edd2c62640d824c500de42ee8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.29CCFD5518B8]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.29CCFD5518B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.29CCFD5518B8
+- Ryšiai: [[Ryšiai/TAR.29CCFD5518B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 4 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies 4 punkto pakeitimas ^s-44d27154acc9050f79eb40d6
 
 
 2 straipsnio 1 dalies 4 punkte po žodžio „kariai“ įrašyti žodžius „taip pat kariai savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių“ ir šį punktą išdėstyti taip:
@@ -46,7 +51,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6da2b7b9d4f5690174a616ee
 
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1F9E53484705"
 pavadinimas: "Lietuvos Respublikos patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papildymo bei 38 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papildymo bei 38 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papildymo bei 38 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-05"
 latest_path: "latest/TAR.1F9E53484705.md"
 latest_sha256: "785cca5a7371f7e64c8e9e6c72a1bcdcabaa11713cb821c19ac499d89315369e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1F9E53484705]]"
 ---
 # Lietuvos Respublikos patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papildymo bei 38 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1F9E53484705.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1F9E53484705
+- Ryšiai: [[Ryšiai/TAR.1F9E53484705|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 26 straipsnio 1 ir 2 dalių pakeitimas ^s-65c59b6ec43d631ad1d6af1b
 
 
 Pakeisti 26 straipsnio 1 ir 2 dalis ir jas išdėstyti taip:
@@ -44,14 +49,14 @@ Kai patento objektas yra gaminio gamybos būdas, patento savininkas turi išimti
 
 
 
-### 2 straipsnis. 38 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 38 straipsnio pripažinimas netekusiu galios ^s-e1a979c41bfd44198a931922
 
 
 38 straipsnį pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. 39 straipsnio pakeitimas
+### 3 straipsnis. 39 straipsnio pakeitimas ^s-83f9aa545dda49890e98885c
 
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
@@ -63,10 +68,10 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 Lietuvos Respublikos Vyriausybė gali priimti nutarimą leisti valstybės ar savivaldybės institucijai, fiziniam arba juridiniam asmeniui, taip pat įmonei, neturinčiai juridinio asmens teisių, be patento savininko sutikimo naudoti patentuotą išradimą Lietuvos Respublikos rinkoje, jeigu:
 
 
-1) patentu saugomas išradimas yra susijęs su visuomenės poreikiais, nacionaliniu saugumu bei visuomenės sveikatos apsauga, ekonomiškai svarbių sektorių plėtra; ^1f56656dfa82916344f2bc9d
+1) patentu saugomas išradimas yra susijęs su visuomenės poreikiais, nacionaliniu saugumu bei visuomenės sveikatos apsauga, ekonomiškai svarbių sektorių plėtra; ^s-8b33fa47323951fbc5ffe058
 
 
-2) teismas nusprendžia, kad patento savininko ar licenciato išradimo naudojimo būdas riboja konkurenciją. ^9442ff1abce3b2b85af3a634
+2) teismas nusprendžia, kad patento savininko ar licenciato išradimo naudojimo būdas riboja konkurenciją. ^s-8cbf39fa3752a0119966eb87
 
 
 Išradimas gali būti naudojamas tik tam tikslui, dėl kurio buvo priimtas nutarimas. Už išradimo naudojimą patento savininkui turi būti teisingai atlyginama, atsižvelgiant į išradimo ekonominę vertę.
@@ -78,13 +83,13 @@ Jei patento savininkas ar asmuo, kuriam leista naudoti patentuotą išradimą, p
 Kai leidimas naudoti patentuotą išradimą duodamas patento, kuris patobulina jau anksčiau patentuotą išradimą (antrojo patento), savininkui ir tai gali pažeisti pirmojo patento savininko išimtines teises, Lietuvos Respublikos Vyriausybė prieš priimdama šį nutarimą atsižvelgia į papildomas sąlygas:
 
 
-1) išradimas, patentuotas antruoju patentu, reiškia didelę techninę pažangą bei turi svarią ekonominę reikšmę palyginti su pirmuoju patentuotu išradimu; ^eed416ada884d4458f3a7a8d
+1) išradimas, patentuotas antruoju patentu, reiškia didelę techninę pažangą bei turi svarią ekonominę reikšmę palyginti su pirmuoju patentuotu išradimu; ^s-b7f9345b771e21aedb453734
 
 
-2) pirmojo patento savininkas turi teisę į abipusę licenciją (leidimą vienas kitam naudotis patentuotais išradimais), kad galėtų naudoti antruoju patentu patentuotą išradimą; ^bec0cff9b4667164b35a3626
+2) pirmojo patento savininkas turi teisę į abipusę licenciją (leidimą vienas kitam naudotis patentuotais išradimais), kad galėtų naudoti antruoju patentu patentuotą išradimą; ^s-071ebc8a812fbbe8c6a4a395
 
 
-3) leidimu suteikta teisė naudoti pirmuoju patentu patentuotą išradimą negali būti perleidžiama, išskyrus atvejus, kai perleidžiamas antrasis patentas. ^a0ea4e1e353f44d99e292d79
+3) leidimu suteikta teisė naudoti pirmuoju patentu patentuotą išradimą negali būti perleidžiama, išskyrus atvejus, kai perleidžiamas antrasis patentas. ^s-3f146e3b9431842f1561aa08
 
 
 Lietuvos Respublikos Vyriausybė gali pripažinti nutarimą netekusiu galios, jeigu aplinkybės, dėl kurių buvo leista naudoti patentuotą išradimą, išnyko arba jeigu valstybės ar savivaldybės institucija, fizinis arba juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių, naudoja patentuotą išradimą ne tuo tikslu, kuriam buvo priimtas nutarimas.
@@ -106,10 +111,10 @@ Valstybinis patentų biuras, gavęs Lietuvos Respublikos Vyriausybės nutarimą 
 
 
 
-### 4 straipsnis. 40 straipsnio 2 punkto pakeitimas ir straipsnio papildymas 2 dalimi
+### 4 straipsnis. 40 straipsnio 2 punkto pakeitimas ir straipsnio papildymas 2 dalimi ^s-2a9c687f951e53bc2ddbb233
 
 
-1. Pakeisti 40 straipsnio 2 punktą ir jį išdėstyti taip: ^768a8fb16b5b6ae139e26a9c
+1. Pakeisti 40 straipsnio 2 punktą ir jį išdėstyti taip: ^s-839ced731b8d58cc66fa3ba5
 
 
 „2) Vilniaus apygardos teismas ginčus dėl:
@@ -122,7 +127,7 @@ patento pažeidimo fakto nebuvimo nustatymo;
 patento panaikinimo.“
 
 
-2. Papildyti 40 straipsnį 2 dalimi: ^175aea6116112536d8f0ba7c
+2. Papildyti 40 straipsnį 2 dalimi: ^s-2a988cebee74719564159bde
 
 
 „Ginčai dėl Lietuvos Respublikos Vyriausybės nutarimo dėl leidimo naudoti patentuotą išradimą suteikimo, patentuoto išradimo naudojimo su Vyriausybės leidimu sąlygų pakeitimo, atlyginimo patentuoto išradimo savininkui už tokio patento naudojimą dydžio nustatymo bei leidimo panaikinimo sprendžiami įstatymų nustatyta tvarka.“

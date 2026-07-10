@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4A30263F4B7F"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "akcizų įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-12-03"
 latest_path: "latest/TAR.4A30263F4B7F.md"
 latest_sha256: "04bac9ea63c604bb9f9df1608cee1e45dd8b14dbbe4e11dea9cf162474bef2ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4A30263F4B7F]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4A30263F4B7F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4A30263F4B7F
+- Ryšiai: [[Ryšiai/TAR.4A30263F4B7F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 1 dalies 1 punkto pakeitimas ^s-3b65be887d2ecd1057a257ae
 
 
 Pakeisti 17 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:

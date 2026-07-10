@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E3D25A5674BC"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimo dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimo dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų ratifikavimo"
+  - "įstatymas dėl Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimo dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-11-08"
 latest_path: "latest/TAR.E3D25A5674BC.md"
 latest_sha256: "96d1d300df5c7995181cc4dc9d1ed4d7e931b182e2b56e2225ebd43509173ce8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E3D25A5674BC]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimo dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E3D25A5674BC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E3D25A5674BC
+- Ryšiai: [[Ryšiai/TAR.E3D25A5674BC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sprendimo ratifikavimas
+### 1 straipsnis. Sprendimo ratifikavimas ^s-5263b37d59b04275e0a77aa1
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 27 d. dekretą Nr. 788, ratifikuoja 2004 m. lapkričio 10 d. Briuselyje priimtą Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimą dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų.

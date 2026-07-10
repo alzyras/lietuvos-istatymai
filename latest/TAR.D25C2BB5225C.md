@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D25C2BB5225C"
 pavadinimas: "Lietuvos Respublikos dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.D25C2BB5225C.md"
 latest_sha256: "2e33d8f7f72a5fe5b736b7e31fbfc67069c8a4896991981de8eacd0a7c1030b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D25C2BB5225C]]"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D25C2BB5225C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D25C2BB5225C
+- Ryšiai: [[Ryšiai/TAR.D25C2BB5225C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-9998ff1f50612a6742087ba9
 
 
 2 straipsnio 1 dalyje vietoj žodžio „operatyvinė“ įrašyti žodžius „kriminalinės žvalgybos“, vietoj žodžių „operatyvinės veiklos priemones ir metodus“ įrašyti žodžius „žvalgybos ir kriminalinės žvalgybos informacijos rinkimo būdus ir priemones“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-2893d62ddb52f3ebcbb71330
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

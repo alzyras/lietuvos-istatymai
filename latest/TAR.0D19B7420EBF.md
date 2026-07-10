@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0D19B7420EBF"
 pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos rinkliavų įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "rinkliavų įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-25"
 latest_path: "latest/TAR.0D19B7420EBF.md"
 latest_sha256: "bb78c4f10d59c63b4c9fe1205008707255ed2c9e59799389cbc4bc8bd432ba84"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0D19B7420EBF]]"
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0D19B7420EBF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0D19B7420EBF
+- Ryšiai: [[Ryšiai/TAR.0D19B7420EBF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 16 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 16 punkto pakeitimas ^s-b866da029b4268a7612809c5
 
 
 6 straipsnio 16 punkte po žodžio „pareigūnams“ įrašyti žodžius „Lietuvos Respublikos krašto apsaugos sistemos ir užsienio gynybos institucijoms, taip pat jų pareigūnams, vežantiems jiems priklausančius vienetinius tarnybinius ginklus ir jų šaudmenis „ ir šį punktą išdėstyti taip:

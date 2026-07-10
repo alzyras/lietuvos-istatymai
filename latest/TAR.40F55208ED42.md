@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.40F55208ED42"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Papildomo protokolo dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Papildomo protokolo dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, ratifikavimo"
+  - "įstatymas dėl Papildomo protokolo dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-05-04"
 latest_path: "latest/TAR.40F55208ED42.md"
 latest_sha256: "c703d0d34932021981d31ab588b8bf4e30b991e53ae3e7cbdde90f6d15b3f562"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.40F55208ED42]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Papildomo protokolo dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.40F55208ED42.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.40F55208ED42
+- Ryšiai: [[Ryšiai/TAR.40F55208ED42|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-bc5dd889794afc08c40669f3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 14 d. dekretą Nr. 1665, ratifikuoja Papildomą protokolą dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, pasirašytą 2001 m. gruodžio 20 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-2274b0500e739ef612d11a31|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 14 d. dekretą Nr. 1665, ratifikuoja Papildomą protokolą dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, pasirašytą 2001 m. gruodžio 20 d. Briuselyje.
 
 
 

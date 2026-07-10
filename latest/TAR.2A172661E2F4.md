@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2A172661E2F4"
 pavadinimas: "Dėl SSRS karinių dalinių bei kitų karinių struktūrų neteisėtai valdomo turto ir sandorių Lietuvos Respublikos teritorijoje"
+aliases:
+  - "Dėl SSRS karinių dalinių bei kitų karinių struktūrų neteisėtai valdomo turto ir sandorių Lietuvos Respublikos teritorijoje"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-11-28"
 latest_path: "latest/TAR.2A172661E2F4.md"
 latest_sha256: "4590de3af2bb702921dc170ac14b35c6f3a7f099151066552415ed8b8537d316"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2A172661E2F4]]"
 ---
 # Dėl SSRS karinių dalinių bei kitų karinių struktūrų neteisėtai valdomo turto ir sandorių Lietuvos Respublikos teritorijoje
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2A172661E2F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2A172661E2F4
+- Ryšiai: [[Ryšiai/TAR.2A172661E2F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

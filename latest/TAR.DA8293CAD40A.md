@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA8293CAD40A"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-22"
 latest_path: "latest/TAR.DA8293CAD40A.md"
 latest_sha256: "00992b473a17eea43aafb0c5d7810360dddfbc11f325909a3339a0b3417cbfc4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA8293CAD40A]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA8293CAD40A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA8293CAD40A
+- Ryšiai: [[Ryšiai/TAR.DA8293CAD40A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,10 +36,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-32c0607b480115c348272ee3
 
 
-2 straipsnio 1 dalyje po žodžių „baudžiamojo proceso kodeksu“ įrašyti žodį „ir“, išbraukti žodžius „ir Lietuvos Respublikos administracinių teisės pažeidimų kodeksu“ ir šią dalį išdėstyti taip:
+2 straipsnio 1 dalyje po žodžių [[latest/TAR.EC588C321777|„baudžiamojo proceso kodeksu“]] įrašyti žodį „ir“, išbraukti žodžius „ir Lietuvos Respublikos administracinių teisės pažeidimų kodeksu“ ir šią dalį išdėstyti taip:
 
 
 „1. Lietuvos Respublikos baudžiamasis kodeksas įsigalioja kartu ir tik suderintas su naujais Lietuvos Respublikos baudžiamojo proceso kodeksu ir Lietuvos Respublikos bausmių vykdymo kodeksu.“

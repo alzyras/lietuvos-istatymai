@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6CEF6E892DCD"
 pavadinimas: "Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo pakeitimo įstatymas"
+  - "šalpos (socialinių) pensijų įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-19"
 latest_path: "latest/TAR.6CEF6E892DCD.md"
 latest_sha256: "c7f8ffe356678396cd91a652c15ae678a518dcf96e6dd765bb7ba2da9525b6c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6CEF6E892DCD]]"
 ---
 # Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6CEF6E892DCD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6CEF6E892DCD
+- Ryšiai: [[Ryšiai/TAR.6CEF6E892DCD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-48802665baa1ea93761185f1
 
 
 Pakeisti 8 straipsnio antrąją dalį – vietoj datos „iki 1996 m. sausio 1 dienos“ įrašyti datą „iki 1997 m. sausio 1 dienos“ ir šią dalį išdėstyti taip:

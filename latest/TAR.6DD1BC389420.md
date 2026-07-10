@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6DD1BC389420"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.6DD1BC389420.md"
 latest_sha256: "7458ef07a654215b7c67b241eb7167818e74e8b53700e899135443360abac948"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6DD1BC389420]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6DD1BC389420.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6DD1BC389420
+- Ryšiai: [[Ryšiai/TAR.6DD1BC389420|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 6 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies 6 punkto pakeitimas ^s-a5a4b8176ad1ef2e15b40bc8
 
 
 Pakeisti 2 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b65a7860b17e81cce035653b
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

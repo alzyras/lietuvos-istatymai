@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0C5601255701"
 pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio papildymo įstatymas"
+  - "vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-17"
 latest_path: "latest/TAR.0C5601255701.md"
 latest_sha256: "56c03a8f269f01b2dc84439bf95f1689ef207511430ea8daa81fbb8a2affe284"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0C5601255701]]"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0C5601255701.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0C5601255701
+- Ryšiai: [[Ryšiai/TAR.0C5601255701|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 56 straipsnio papildymas
+### 1 straipsnis. 56 straipsnio papildymas ^s-dac2cd88c69695f5ce3e84cd
 
 
 Papildyti 56 straipsnį 3 dalimi:
@@ -41,17 +46,17 @@ Papildyti 56 straipsnį 3 dalimi:
 
 
 
-### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-d2110ae2804b0ca8a483f136
 
 
 Vyriausybė ar jos įgaliota institucija iki 2001 m. rugpjūčio 20 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 3 straipsnis. Įstatymo 1 straipsnio įsigaliojimas
+### 3 straipsnis. Įstatymo 1 straipsnio įsigaliojimas ^s-694da598749bf8398b023cf6
 
 
-Šio įstatymo [[#1 straipsnis. 56 straipsnio papildymas|1 straipsnis]] įsigalioja nuo 2001 m. rugpjūčio 20 d.
+Šio įstatymo [[#^s-dac2cd88c69695f5ce3e84cd|1 straipsnis]] įsigalioja nuo 2001 m. rugpjūčio 20 d.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.54C83A61C3BE"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-09-01"
 latest_path: "latest/TAR.54C83A61C3BE.md"
 latest_sha256: "2a0216f2624bd026e4ae143ddd7e8ff9b7ca7bd61a394ba4f9e019b8939f09f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.54C83A61C3BE]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.54C83A61C3BE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.54C83A61C3BE
+- Ryšiai: [[Ryšiai/TAR.54C83A61C3BE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies 2 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies 2 punkto pakeitimas ^s-4000d02cb1c4ea96e6c22323
 
 
 Pakeisti 4 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 4 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3689889003187191bfda200f
 
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.

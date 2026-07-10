@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "94bef5d04bb411e9b9e1d4aa8e4da0de"
 pavadinimas: "Lietuvos Respublikos patikimumo deklaracijų juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos konkursuose, išdavimo pagrindų įstatymas"
+aliases:
+  - "Lietuvos Respublikos patikimumo deklaracijų juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos konkursuose, išdavimo pagrindų įstatymas"
+  - "patikimumo deklaracijų juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos konkursuose, išdavimo pagrindų įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2019-11-01"
 latest_path: "latest/94bef5d04bb411e9b9e1d4aa8e4da0de.md"
 latest_sha256: "74434f0cf87e57fbc883bd7f5fbe31763681d02287350c2340b944dc02afbb0a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/94bef5d04bb411e9b9e1d4aa8e4da0de]]"
 ---
 # Lietuvos Respublikos patikimumo deklaracijų juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos konkursuose, išdavimo pagrindų įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/94bef5d04bb411e9b9e1d4aa8e4da0de.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/94bef5d04bb411e9b9e1d4aa8e4da0de
+- Ryšiai: [[Ryšiai/94bef5d04bb411e9b9e1d4aa8e4da0de|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,49 +37,49 @@ Vilnius
 
 
 
-## I SKYRIUS
+## I SKYRIUS ^s-0f43cda45bbb4106df2b0eac
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis ir taikymas
+### 1 straipsnis. Įstatymo paskirtis ir taikymas ^s-e03a790941b61f818761879f
 
 
-1. Šis įstatymas nustato patikimumo deklaracijų juridiniams asmenims, užsienio įmonių filialams, registruotiems Lietuvos Respublikoje (toliau – juridinis asmuo), norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos (toliau – NATO) skelbiamuose prekių, paslaugų ar darbų pirkimo konkursuose (toliau – NATO konkursai), išdavimo ir patikimumo deklaracijos galiojimo panaikinimo pagrindus, prašymų išduoti patikimumo deklaraciją nagrinėjimo ir patikimumo deklaracijos išdavimo, prašymų išduoti patikimumo deklaraciją svarstymo Patikimumo deklaracijų išdavimo juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos skelbiamuose konkursuose, klausimams spręsti komisijoje (toliau – Komisija) tvarką. ^7424271b5006e5bf523d8fd1
+1. Šis įstatymas nustato patikimumo deklaracijų juridiniams asmenims, užsienio įmonių filialams, registruotiems Lietuvos Respublikoje (toliau – juridinis asmuo), norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos (toliau – NATO) skelbiamuose prekių, paslaugų ar darbų pirkimo konkursuose (toliau – NATO konkursai), išdavimo ir patikimumo deklaracijos galiojimo panaikinimo pagrindus, prašymų išduoti patikimumo deklaraciją nagrinėjimo ir patikimumo deklaracijos išdavimo, prašymų išduoti patikimumo deklaraciją svarstymo Patikimumo deklaracijų išdavimo juridiniams asmenims, norintiems dalyvauti Šiaurės Atlanto sutarties organizacijos skelbiamuose konkursuose, klausimams spręsti komisijoje (toliau – Komisija) tvarką. ^s-43193076ddd8f61e970e705c
 
 
-2. Šis įstatymas taikomas juridiniams asmenims, norintiems gauti patikimumo deklaraciją, kai juridinis asmuo kreipiasi su prašymu išduoti patikimumo deklaraciją ir NATO konkursą rengiančios institucijos prašymu patvirtinti juridinio asmens finansinį, techninį, profesinį ir saugumo patikimumą. ^9ddc1af721dc691cb10c1e79
-
-
-
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. NATO konkursą rengianti institucija – NATO komitetas, įgaliota NATO institucija (agentūra, jos padalinys, štabas, vadavietė arba NATO valstybių narių įgaliota institucija). ^098ad315b19c51018205831b
-
-
-2. Patikimumo deklaracija – dokumentas, kuriuo patvirtinamas juridinio asmens finansinis, techninis, profesinis ir saugumo patikimumas. ^3be366c17b72384f265ce7db
-
-
-3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme. ^28539f4fe428bfc82b3530d8
+2. Šis įstatymas taikomas juridiniams asmenims, norintiems gauti patikimumo deklaraciją, kai juridinis asmuo kreipiasi su prašymu išduoti patikimumo deklaraciją ir NATO konkursą rengiančios institucijos prašymu patvirtinti juridinio asmens finansinį, techninį, profesinį ir saugumo patikimumą. ^s-f391347f348c11b36a21fca2
 
 
 
-## II SKYRIUS
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-831889f4b48d36b93877dc39
+
+
+1. NATO konkursą rengianti institucija – NATO komitetas, įgaliota NATO institucija (agentūra, jos padalinys, štabas, vadavietė arba NATO valstybių narių įgaliota institucija). ^s-b737538f7a4041147e946c5b
+
+
+2. Patikimumo deklaracija – dokumentas, kuriuo patvirtinamas juridinio asmens finansinis, techninis, profesinis ir saugumo patikimumas. ^s-ddd79eaa112d2361e6ef050b
+
+
+3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme]]. ^s-ab68bfb8012fe56ec6dc8d80
+
+
+
+## II SKYRIUS ^s-a860d017d7a759ef72fdbe40
 PATIKIMUMO DEKLARACIJOS IŠDAVIMO PAGRINDAI
 
 
 
-### 3 straipsnis. Patikimumo deklaracijos išdavimo pagrindai
+### 3 straipsnis. Patikimumo deklaracijos išdavimo pagrindai ^s-5ace645ccd79aa3ed8d27781
 
 
-1. Patikimumo deklaracija išduodama juridiniam asmeniui, jeigu: ^517c90b1f6aca2441c3c5356
+1. Patikimumo deklaracija išduodama juridiniam asmeniui, jeigu: ^s-445dbcdae37523ae6bdf6e2b
 
 
-1) juridinis asmuo įregistruotas juridinių asmenų registre Lietuvos Respublikoje; ^4410a06f33f3c96677d238f2
+1) juridinis asmuo įregistruotas juridinių asmenų registre Lietuvos Respublikoje; ^s-0d845efa04a31d3b72e18c2b
 
 
-2) juridinis asmuo ir juridinio asmens dalyvis, turintis ne mažiau kaip 1/3 balsų dalyvių susirinkime, juridinio asmens vadovas, juridinio asmens valdymo organo narys, vyriausiasis buhalteris arba apskaitą tvarkančio struktūrinio padalinio vadovas ar kitas juridinio asmens apskaitą tvarkantis asmuo (toliau – su juridiniu asmeniu susiję asmenys) atitinka šiuos kriterijus: ^28282c8c1fd2a0e1f24cc551
+2) juridinis asmuo ir juridinio asmens dalyvis, turintis ne mažiau kaip 1/3 balsų dalyvių susirinkime, juridinio asmens vadovas, juridinio asmens valdymo organo narys, vyriausiasis buhalteris arba apskaitą tvarkančio struktūrinio padalinio vadovas ar kitas juridinio asmens apskaitą tvarkantis asmuo (toliau – su juridiniu asmeniu susiję asmenys) atitinka šiuos kriterijus: ^s-995430e4688480ef124879fc
 
 
 a) nėra teisti arba teistumas už nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai yra išnykęs ar panaikintas;
@@ -89,110 +94,110 @@ c) nėra duomenų, patvirtinančių, kad juridinis asmuo ir (ar) su juridiniu as
 d) nėra duomenų, patvirtinančių, kad juridinis asmuo ir (ar) su juridiniu asmeniu susiję asmenys atliko veiksmus, kurie prieštarauja tarptautinėms sankcijoms, įgyvendinamoms Lietuvos Respublikoje pagal Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymą;
 
 
-3) juridinis asmuo veikia ilgiau negu 6 mėnesius; ^1c9031d26429278ab7fbb35c
+3) juridinis asmuo veikia ilgiau negu 6 mėnesius; ^s-85e676823dbf5d2a97451523
 
 
-4) su juridiniu asmeniu susiję asmenys nuolat gyvena Europos Sąjungos ar NATO valstybėse narėse ar valstybėse, pasirašiusiose Europos ekonominės erdvės sutartį, arba valstybėse, su kuriomis Lietuvos Respublika yra sudariusi sutartis dėl įslaptintos informacijos abipusės apsaugos; ^4745676205d079fe322621a0
+4) su juridiniu asmeniu susiję asmenys nuolat gyvena Europos Sąjungos ar NATO valstybėse narėse ar valstybėse, pasirašiusiose Europos ekonominės erdvės sutartį, arba valstybėse, su kuriomis Lietuvos Respublika yra sudariusi sutartis dėl įslaptintos informacijos abipusės apsaugos; ^s-3eba13c1246ba5e32fda51d4
 
 
-5) juridinis asmuo per paskutinius 3 metus nebuvo įsigaliojusiu kompetentingų institucijų teisės aktu pripažintas pažeidusiu Lietuvos Respublikos strateginių prekių kontrolės įstatymą; ^1b8258e0c0fa3d09456213bb
+5) juridinis asmuo per paskutinius 3 metus nebuvo įsigaliojusiu kompetentingų institucijų teisės aktu pripažintas pažeidusiu Lietuvos Respublikos strateginių prekių kontrolės įstatymą; ^s-6bf2d0705493cd810471cb1c
 
 
-6) juridinis asmuo turi galiojančius leidimus, kurie yra reikalingi verstis ekonomine veikla, ir šių leidimų galiojimas nėra sustabdytas ar panaikintas (tuo atveju, kai juridinio asmens veikla yra licencijuojama); ^1567f51fddddf1b3fad1af33
+6) juridinis asmuo turi galiojančius leidimus, kurie yra reikalingi verstis ekonomine veikla, ir šių leidimų galiojimas nėra sustabdytas ar panaikintas (tuo atveju, kai juridinio asmens veikla yra licencijuojama); ^s-29974a05643c3142439568f7
 
 
-7) nėra sąlygų, nurodytų Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 34 straipsnio 1 dalyje ir [[#^1c005cf11e76ae2316257714|2 dalies]] 1, 2, 3, 6 ir 7 punktuose; ^ecaf2c75f46454916d0cedea
+7) nėra sąlygų, nurodytų [[latest/TAR.E838D0C06065#^s-9579f3463e4fe2e2ec5537f1|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 34 straipsnio 1 dalyje]] ir [[#^s-12c1bff2fccf9bec7fe5a008|2 dalies]] 1, 2, 3, 6 ir 7 punktuose; ^s-8b98a71d3f29395c01bed25c
 
 
-8) nėra sąlygų, nurodytų Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio 4 dalies 4 ir [[#^1567f51fddddf1b3fad1af33|6 punktuose]]. ^a842ebb4083ba4d3bd517491
+8) nėra sąlygų, nurodytų [[latest/TAR.C54AFFAA7622#^s-6f7063495b0f5c28c1bf1099|Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio 4 dalies]] 4 ir [[#^s-29974a05643c3142439568f7|6 punktuose]]. ^s-955b5e741931f60425e16329
 
 
-2. Juridiniam asmeniui, pateikusiam tiekėjo patikimumo pažymėjimo, išduoto Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka, kopiją, patikimumo deklaracija išduodama, jeigu juridinis asmuo atitinka [[#^517c90b1f6aca2441c3c5356|šio straipsnio 1 dalies]] 6, 7, 8 punktuose nurodytus patikimumo deklaracijos išdavimo pagrindus. ^1c005cf11e76ae2316257714
+2. Juridiniam asmeniui, pateikusiam tiekėjo patikimumo pažymėjimo, išduoto [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka, kopiją, patikimumo deklaracija išduodama, jeigu juridinis asmuo atitinka [[#^s-445dbcdae37523ae6bdf6e2b|šio straipsnio 1 dalies]] 6, 7, 8 punktuose nurodytus patikimumo deklaracijos išdavimo pagrindus. ^s-12c1bff2fccf9bec7fe5a008
 
 
 
-## III SKYRIUS
+## III SKYRIUS ^s-61e7509d87042409b0699acc
 PATIKIMUMO DEKLARACIJOS GALIOJIMO PANAIKINIMO PAGRINDAI
 
 
 
-### 4 straipsnis. Patikimumo deklaracijos galiojimo panaikinimo pagrindai
+### 4 straipsnis. Patikimumo deklaracijos galiojimo panaikinimo pagrindai ^s-e2c088f1dd426a3634417d94
 
 
-1. Patikimumo deklaracijos galiojimas panaikinamas, jeigu paaiškėja naujos aplinkybės, kad juridinis asmuo, kuriam išduota patikimumo deklaracija, neatitinka bent vieno iš šio įstatymo [[#^517c90b1f6aca2441c3c5356|3 straipsnio 1 dalyje]] nustatytų patikimumo deklaracijos išdavimo pagrindų. ^0049f48a10b413526f5b55b9
+1. Patikimumo deklaracijos galiojimas panaikinamas, jeigu paaiškėja naujos aplinkybės, kad juridinis asmuo, kuriam išduota patikimumo deklaracija, neatitinka bent vieno iš šio įstatymo [[#^s-445dbcdae37523ae6bdf6e2b|3 straipsnio 1 dalyje]] nustatytų patikimumo deklaracijos išdavimo pagrindų. ^s-24bff571e9506d70c97ca07f
 
 
-2. Apie patikimumo deklaracijos panaikinimą Lietuvos Respublikos Vyriausybės įgaliota institucija (toliau – įgaliota institucija) informuoja NATO konkursą rengiančią instituciją ir juridinį asmenį, kuriam išduota patikimumo deklaracija, Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^20a77812774f4c93ace03d95
+2. Apie patikimumo deklaracijos panaikinimą Lietuvos Respublikos Vyriausybės įgaliota institucija (toliau – įgaliota institucija) informuoja NATO konkursą rengiančią instituciją ir juridinį asmenį, kuriam išduota patikimumo deklaracija, Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-a364e392fed30a561dcbed1c
 
 
 
-## IV SKYRIUS
+## IV SKYRIUS ^s-f6df275d8a0185d666b3171d
 PRAŠYMŲ IŠDUOTI PATIKIMUMO DEKLARACIJĄ NAGRINĖJIMAS IR PATIKIMUMO DEKLARACIJŲ IŠDAVIMAS. PRAŠYMŲ IŠDUOTI PATIKIMUMO DEKLARACIJĄ SVARSTYMAS KOMISIJOJE
 
 
 
-### 5 straipsnis. Prašymo išduoti patikimumo deklaraciją nagrinėjimas ir patikimumo deklaracijos išdavimas
+### 5 straipsnis. Prašymo išduoti patikimumo deklaraciją nagrinėjimas ir patikimumo deklaracijos išdavimas ^s-85811573aec8570f24a3c0c2
 
 
-1. Patikimumo deklaraciją išduoda arba atsisako išduoti įgaliota institucija. ^16d5627f720f0390ad1cfee9
+1. Patikimumo deklaraciją išduoda arba atsisako išduoti įgaliota institucija. ^s-16db870764cd9f8d9be3349b
 
 
-2. Juridinis asmuo dokumentus, patvirtinančius atitiktį šio įstatymo [[#^517c90b1f6aca2441c3c5356|3 straipsnio 1 dalyje]] nustatytiems patikimumo deklaracijos išdavimo pagrindams, pateikia įgaliotai institucijai kartu su prašymu išduoti patikimumo deklaraciją (toliau – prašymas). Įgaliota institucija juridinio asmens atitikties patikimumo deklaracijos išdavimo pagrindams įvertinimo tikslais turi teisę neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įmonių, valstybės ir žinybinių registrų, valstybės ir savivaldybių informacinių sistemų informaciją, duomenis ir juos tvarkyti. ^8ba874122390fec721caddd1
+2. Juridinis asmuo dokumentus, patvirtinančius atitiktį šio įstatymo [[#^s-445dbcdae37523ae6bdf6e2b|3 straipsnio 1 dalyje]] nustatytiems patikimumo deklaracijos išdavimo pagrindams, pateikia įgaliotai institucijai kartu su prašymu išduoti patikimumo deklaraciją (toliau – prašymas). Įgaliota institucija juridinio asmens atitikties patikimumo deklaracijos išdavimo pagrindams įvertinimo tikslais turi teisę neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įmonių, valstybės ir žinybinių registrų, valstybės ir savivaldybių informacinių sistemų informaciją, duomenis ir juos tvarkyti. ^s-bead2648bb51bb5b406c3bb0
 
 
-3. Patikimumo deklaracija išduodama arba motyvuotas rašytinis atsisakymas išduoti patikimumo deklaraciją pateikiamas ne vėliau kaip per 7 darbo dienas nuo prašymo ir kartu teikiamų dokumentų gavimo įgaliotoje institucijoje dienos arba ne vėliau kaip per 12 darbo dienų nuo prašymo gavimo įgaliotoje institucijoje dienos, kai prašymas buvo svarstomas Komisijos posėdyje, arba ne vėliau kaip per 15 darbo dienų, kai prašymas teikiamas valstybės institucijoms dėl jų išvadų gavimo [[#^d267e72721cfb073962454cf|šio straipsnio 4 dalyje]] nurodytu atveju. ^29c06c3c2d6d9fc87c49c0b1
+3. Patikimumo deklaracija išduodama arba motyvuotas rašytinis atsisakymas išduoti patikimumo deklaraciją pateikiamas ne vėliau kaip per 7 darbo dienas nuo prašymo ir kartu teikiamų dokumentų gavimo įgaliotoje institucijoje dienos arba ne vėliau kaip per 12 darbo dienų nuo prašymo gavimo įgaliotoje institucijoje dienos, kai prašymas buvo svarstomas Komisijos posėdyje, arba ne vėliau kaip per 15 darbo dienų, kai prašymas teikiamas valstybės institucijoms dėl jų išvadų gavimo [[#^s-c2f2f00ba4e59cabf3d84fe3|šio straipsnio 4 dalyje]] nurodytu atveju. ^s-a53e6bf9484202a4d9ea9aa3
 
 
-4. Įgaliota institucija, gavusi juridinio asmens, neturinčio tiekėjo patikimumo pažymėjimo, prašymą ir kartu teikiamus dokumentus, pateikia juos valstybės institucijoms, kurių atstovai yra paskirti Komisijos nariais, kad jos pateiktų išvadas dėl juridinio asmens atitikties šio įstatymo [[#^517c90b1f6aca2441c3c5356|3 straipsnio 1 dalyje]] nustatytiems patikimumo deklaracijos išdavimo pagrindams. ^d267e72721cfb073962454cf
+4. Įgaliota institucija, gavusi juridinio asmens, neturinčio tiekėjo patikimumo pažymėjimo, prašymą ir kartu teikiamus dokumentus, pateikia juos valstybės institucijoms, kurių atstovai yra paskirti Komisijos nariais, kad jos pateiktų išvadas dėl juridinio asmens atitikties šio įstatymo [[#^s-445dbcdae37523ae6bdf6e2b|3 straipsnio 1 dalyje]] nustatytiems patikimumo deklaracijos išdavimo pagrindams. ^s-c2f2f00ba4e59cabf3d84fe3
 
 
-5. Jeigu juridinis asmuo pateikia netinkamai įformintą prašymą ar ne visus kartu su prašymu reikalaujamus pateikti dokumentus, patikimumo deklaracijos išdavimo terminas arba atsisakymo ją išduoti terminas skaičiuojamas nuo visų trūkstamų ir tinkamai įformintų dokumentų gavimo dienos. ^568c70e1dff2aacb2d2095bb
+5. Jeigu juridinis asmuo pateikia netinkamai įformintą prašymą ar ne visus kartu su prašymu reikalaujamus pateikti dokumentus, patikimumo deklaracijos išdavimo terminas arba atsisakymo ją išduoti terminas skaičiuojamas nuo visų trūkstamų ir tinkamai įformintų dokumentų gavimo dienos. ^s-f8e8f12f93e87323d120d337
 
 
-6. Jeigu juridinis asmuo per nustatytą ne trumpesnį negu 5 darbo dienų terminą dokumentų trūkumų (pateikti netinkamai įformintas prašymas ar ne visi kartu pateiktini dokumentai) nepašalina, prašymo nagrinėjimas nutraukiamas, apie tai pranešama prašymą pateikusiam juridiniam asmeniui ir jam gražinami pateikti dokumentai. ^f82f0201b232aa3fa497d51f
+6. Jeigu juridinis asmuo per nustatytą ne trumpesnį negu 5 darbo dienų terminą dokumentų trūkumų (pateikti netinkamai įformintas prašymas ar ne visi kartu pateiktini dokumentai) nepašalina, prašymo nagrinėjimas nutraukiamas, apie tai pranešama prašymą pateikusiam juridiniam asmeniui ir jam gražinami pateikti dokumentai. ^s-e91b22c94f10befd276073e4
 
 
-7. Juridinio asmens prašymas ir kartu teikiami dokumentai, gauti pasibaigus patikimumo deklaracijos pateikimo NATO konkursą rengiančiai institucijai terminui, nurodytam NATO konkursą rengiančios institucijos pateiktoje informacijoje apie konkretų NATO konkursą, nenagrinėjami. ^53d1667f0c09bb9f2ed739ad
+7. Juridinio asmens prašymas ir kartu teikiami dokumentai, gauti pasibaigus patikimumo deklaracijos pateikimo NATO konkursą rengiančiai institucijai terminui, nurodytam NATO konkursą rengiančios institucijos pateiktoje informacijoje apie konkretų NATO konkursą, nenagrinėjami. ^s-ad52cbe9da947c66f967fd37
 
 
-8. Patikimumo deklaracija galioja vienus metus nuo jos išdavimo arba tol, kol vyksta NATO konkursas, kuriam patikimumo deklaracija buvo išduota. ^0e425e3cd62fa4e9e24c63da
+8. Patikimumo deklaracija galioja vienus metus nuo jos išdavimo arba tol, kol vyksta NATO konkursas, kuriam patikimumo deklaracija buvo išduota. ^s-cfe55926d6feeb4052f333f8
 
 
-9. Lietuvos Respublikos Vyriausybė nustato informacijos apie NATO konkursus pateikimo tvarką, kartu su prašymu teikiamų dokumentų sąrašą, prašymų pateikimo ir nagrinėjimo tvarką ir sudaro Komisiją. Komisijos personalinę sudėtį tvirtina įgaliota institucija. ^09e30cab7c4f18f9797f1c1a
-
-
-
-### 6 straipsnis. Prašymų svarstymas Komisijoje
-
-
-1. Jeigu įgaliotai institucijai kyla abejonių, ar juridinis asmuo atitinka visus šio įstatymo [[#^517c90b1f6aca2441c3c5356|3 straipsnio 1 dalyje]] nustatytus patikimumo deklaracijos išdavimo pagrindus, ji kreipiasi į Komisiją prašydama pateikti išvadas dėl patikimumo deklaracijos išdavimo ir pateikia juridinio asmens prašymą. ^e44fd5adff4db3d8205bbe04
-
-
-2. Komisija išvadas dėl patikimumo deklaracijos išdavimo turi pateikti įgaliotai institucijai ne vėliau kaip per 5 darbo dienas nuo įgaliotos institucijos kreipimosi į Komisiją dienos. ^1d8a6993e36ed16acf6dad68
-
-
-3. Įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo Komisijos išvadų dėl patikimumo deklaracijos išdavimo gavimo dienos išduoda patikimumo deklaraciją, kai Komisija pateikia išvadą, kad juridinis asmuo atitinka šio įstatymo [[#^517c90b1f6aca2441c3c5356|3 straipsnio 1 dalyje]] nustatytus patikimumo deklaracijos išdavimo pagrindus, arba atsisako išduoti patikimumo deklaraciją, kai Komisija pateikia išvadą, kad juridinis asmuo neatitinka bent vieno iš šio įstatymo [[#^517c90b1f6aca2441c3c5356|3 straipsnio 1 dalyje]] nustatytų patikimumo deklaracijos išdavimo pagrindų. ^b12a0365560a30ebd3abd9a2
-
-
-4. Įgaliota institucija apie sprendimą atsisakyti išduoti juridiniam asmeniui patikimumo deklaraciją praneša prašymą pateikusiam juridiniam asmeniui, nurodydama atsisakymo išduoti patikimumo deklaraciją motyvus. ^c15ab190755cfb69bb87960d
-
-
-5. Juridinis asmuo, kuriam išduoti patikimumo deklaraciją atsisakyta, naują prašymą gali teikti pašalinęs sprendimą atsisakyti išduoti patikimumo deklaraciją lėmusius pagrindus arba šiems pagrindams išnykus. ^592b2d8b7609372e7b25b4de
+9. Lietuvos Respublikos Vyriausybė nustato informacijos apie NATO konkursus pateikimo tvarką, kartu su prašymu teikiamų dokumentų sąrašą, prašymų pateikimo ir nagrinėjimo tvarką ir sudaro Komisiją. Komisijos personalinę sudėtį tvirtina įgaliota institucija. ^s-c702460f9c2bb473d06a8827
 
 
 
-## V SKYRIUS
+### 6 straipsnis. Prašymų svarstymas Komisijoje ^s-2fee0ee6353b0df89c19a1d8
+
+
+1. Jeigu įgaliotai institucijai kyla abejonių, ar juridinis asmuo atitinka visus šio įstatymo [[#^s-445dbcdae37523ae6bdf6e2b|3 straipsnio 1 dalyje]] nustatytus patikimumo deklaracijos išdavimo pagrindus, ji kreipiasi į Komisiją prašydama pateikti išvadas dėl patikimumo deklaracijos išdavimo ir pateikia juridinio asmens prašymą. ^s-1b02657f31df0f0cde2df32e
+
+
+2. Komisija išvadas dėl patikimumo deklaracijos išdavimo turi pateikti įgaliotai institucijai ne vėliau kaip per 5 darbo dienas nuo įgaliotos institucijos kreipimosi į Komisiją dienos. ^s-9076d8e247e8403722a2350b
+
+
+3. Įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo Komisijos išvadų dėl patikimumo deklaracijos išdavimo gavimo dienos išduoda patikimumo deklaraciją, kai Komisija pateikia išvadą, kad juridinis asmuo atitinka šio įstatymo [[#^s-445dbcdae37523ae6bdf6e2b|3 straipsnio 1 dalyje]] nustatytus patikimumo deklaracijos išdavimo pagrindus, arba atsisako išduoti patikimumo deklaraciją, kai Komisija pateikia išvadą, kad juridinis asmuo neatitinka bent vieno iš šio įstatymo [[#^s-445dbcdae37523ae6bdf6e2b|3 straipsnio 1 dalyje]] nustatytų patikimumo deklaracijos išdavimo pagrindų. ^s-3e43f981f13d3342a2a70fc1
+
+
+4. Įgaliota institucija apie sprendimą atsisakyti išduoti juridiniam asmeniui patikimumo deklaraciją praneša prašymą pateikusiam juridiniam asmeniui, nurodydama atsisakymo išduoti patikimumo deklaraciją motyvus. ^s-cc2170b795f40c12b15e87b8
+
+
+5. Juridinis asmuo, kuriam išduoti patikimumo deklaraciją atsisakyta, naują prašymą gali teikti pašalinęs sprendimą atsisakyti išduoti patikimumo deklaraciją lėmusius pagrindus arba šiems pagrindams išnykus. ^s-524972b8c3e5849c1a9d38cf
+
+
+
+## V SKYRIUS ^s-5d815f56cc2724f008c3280a
 BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-3328f9b0904cdcda7b731f8c
 
 
-1. Šis įstatymas, išskyrus [[#^b892608b04d4ada073a92777|šio straipsnio 2 dalį]], įsigalioja 2019 m. lapkričio 1 d. ^f3db9721ae6b3015fdb17a1e
+1. Šis įstatymas, išskyrus [[#^s-a7a81124f74dddbf18e80df9|šio straipsnio 2 dalį]], įsigalioja 2019 m. lapkričio 1 d. ^s-73ff2a484d7a66bded82d77e
 
 
-2. Lietuvos Respublikos Vyriausybė ir jos įgaliota institucija iki 2019 m. rugpjūčio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^b892608b04d4ada073a92777
+2. Lietuvos Respublikos Vyriausybė ir jos įgaliota institucija iki 2019 m. rugpjūčio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-a7a81124f74dddbf18e80df9
 
 
 

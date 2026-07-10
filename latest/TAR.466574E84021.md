@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.466574E84021"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-05-28"
 latest_path: "latest/TAR.466574E84021.md"
 latest_sha256: "9b7d8f3ed9620d5d24c2ed93732938d0c41db03ac4eb6b287180f61d45460922"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.466574E84021]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.466574E84021.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.466574E84021
+- Ryšiai: [[Ryšiai/TAR.466574E84021|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 9 punkto pakeitimas
+### 1 straipsnis. 22 straipsnio 9 punkto pakeitimas ^s-19ab93f9e13cf1c973f04f99
 
 
 22 straipsnio 9 punkte išbraukti žodį „ir“, po žodžių „įstaigų prie ministerijų nuostatus“ įrašyti žodžius „ir Vyriausybės atstovo tarnybos veiklos nuostatus“ ir šį punktą išdėstyti taip:

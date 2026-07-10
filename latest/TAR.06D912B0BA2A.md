@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.06D912B0BA2A"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 ir 5 straipsnių pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos valstybės vėliavos\" 3 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-12"
 latest_path: "latest/TAR.06D912B0BA2A.md"
 latest_sha256: "3b36d413450d93a148668129de8687ab5fe6ab92f077758b76efe07ca3b5b05a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.06D912B0BA2A]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.06D912B0BA2A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.06D912B0BA2A
+- Ryšiai: [[Ryšiai/TAR.06D912B0BA2A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 2 punkto pakeitimas ^s-dca06ba518e98f9bb524c2c5
 
 
 Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip:
@@ -40,7 +45,7 @@ Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip:
 „2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – vasario 16-ąją ir kovo 11-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu;“.
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-328fee4f020436a739a0d53f
 
 
 5 straipsnio 2 dalyje po žodžių „atkūrimo dieną“ įrašyti žodžius „kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną“ ir šią dalį išdėstyti taip:

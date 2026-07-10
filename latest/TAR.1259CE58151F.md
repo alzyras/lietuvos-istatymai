@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1259CE58151F"
 pavadinimas: "Lietuvos Respublikos tabako kontrolės įstatymo 11 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tabako kontrolės įstatymo 11 ir 26 straipsnių pakeitimo įstatymas"
+  - "tabako kontrolės įstatymo 11 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-01"
 latest_path: "latest/TAR.1259CE58151F.md"
 latest_sha256: "afeafae77ff2a336832d2149ae14f989ec95f4ac4081649d7d01f80c2a5ea0a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1259CE58151F]]"
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 11 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1259CE58151F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1259CE58151F
+- Ryšiai: [[Ryšiai/TAR.1259CE58151F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,64 +38,64 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 2, 5 dalių, 6 dalies 5 punkto ir 8 dalies 3 punkto pakeitimas
+### 1 straipsnis. 11 straipsnio 2, 5 dalių, 6 dalies 5 punkto ir 8 dalies 3 punkto pakeitimas ^s-d5bb940bbed2c590124ad71c
 
 
-1. 11 straipsnio 2 dalyje vietoj žodžio „vadovaudamasi“ įrašyti žodį „vadovaudamasis“, vietoj žodžių „Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės (toliau – Valstybinė tabako ir alkoholio kontrolės tarnyba)“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip: ^46bf99d2aa7f24bc4d4feeb8
+1. 11 straipsnio 2 dalyje vietoj žodžio „vadovaudamasi“ įrašyti žodį „vadovaudamasis“, vietoj žodžių „Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės (toliau – Valstybinė tabako ir alkoholio kontrolės tarnyba)“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip: ^s-c7d0c859468bde5c47db2b55
 
 
 „2. Licencijas verstis tabako auginimu, tabako gaminių gamyba ir didmenine prekyba tabako gaminiais, vadovaudamasis Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą naikina Narkotikų, tabako ir alkoholio kontrolės departamentas.“
 
 
-2. 11 straipsnio 5 dalyje vietoj žodžių „Valstybinė tabako ir alkoholio kontrolės tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip: ^568cb9242f010245a0cf736b
+2. 11 straipsnio 5 dalyje vietoj žodžių „Valstybinė tabako ir alkoholio kontrolės tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip: ^s-55d75c98a17a017d1058210e
 
 
 „5. Licencijų įmonėms išdavimą savivaldybėse kontroliuoja Narkotikų, tabako ir alkoholio kontrolės departamentas.“
 
 
-3. 11 straipsnio 6 dalies 5 punkte po žodžio „policijos“ įrašyti žodžius „Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos“, vietoj žodžių „Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šį punktą išdėstyti taip: ^6c124204ae209fd7dbd57e72
+3. 11 straipsnio 6 dalies 5 punkte po žodžio „policijos“ įrašyti žodžius „Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos“, vietoj žodžių „Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šį punktą išdėstyti taip: ^s-9f5f3c54d5513aace6f04723
 
 
 „5) įmonei, įmonės steigėjams ar vadovams yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl bausmės ar nuobaudos skyrimo už tabako gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą (licencijos visai neišduodamos);“.
 
 
-4. 11 straipsnio 8 dalies 3 punkte po žodžio „policijos“ įrašyti žodžius „Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos“, vietoj žodžių „Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šį punktą išdėstyti taip: ^35908a8dd7201746e2599ff1
+4. 11 straipsnio 8 dalies 3 punkte po žodžio „policijos“ įrašyti žodžius „Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos“, vietoj žodžių „Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šį punktą išdėstyti taip: ^s-7fcbd10e3f546be3ca1d343e
 
 
 „3) jeigu pačioms įmonėms, įmonių vadovams ar kitiems įmonių darbuotojams (veikusiems įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl bausmės ar nuobaudos skyrimo už tabako ar tabako gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą;“.
 
 
 
-### 2 straipsnis. 26 straipsnio 13 dalies 2, 3 ir 4 punktų pakeitimas
+### 2 straipsnis. 26 straipsnio 13 dalies 2, 3 ir 4 punktų pakeitimas ^s-149cf773374b6d26f7bea211
 
 
-1. 26 straipsnio 13 dalies 2 punkte vietoj žodžių „Valstybės tabako ir alkoholio kontrolės tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šį punktą išdėstyti taip: ^5934f7863467697c879ec02b
+1. 26 straipsnio 13 dalies 2 punkte vietoj žodžių „Valstybės tabako ir alkoholio kontrolės tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šį punktą išdėstyti taip: ^s-6e6a7ef42febb97ab191642d
 
 
 „2) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4 ir 6 punktų, 14 straipsnio 5 dalies, 15, 16 straipsnių, 17 straipsnio 1 dalies (išskyrus pažeidimus visuomenės informavimo priemonėse), 4 ir 5 dalių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;“.
 
 
-2. 26 straipsnio 13 dalies 3 punkte vietoj žodžių „Valstybinė ne maisto produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos“ įrašyti žodžius „Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos“ ir šį punktą išdėstyti taip: ^52b173ed2de33edbe9e9be04
+2. 26 straipsnio 13 dalies 3 punkte vietoj žodžių „Valstybinė ne maisto produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos“ įrašyti žodžius „Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos“ ir šį punktą išdėstyti taip: ^s-74715a9497c922d4d2f74aaf
 
 
 „3) Valstybinė vartotojų teisių apsaugos tarnyba – už 14 straipsnio 3 dalies 5 punkto (kai Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos pateikia pažeidimo protokolą) ir už 17 straipsnio 1 dalies nuostatų pažeidimus visuomenės informavimo priemonėse;“.
 
 
-3. Pakeisti 26 straipsnio 13 dalies 4 punktą ir jį išdėstyti taip: ^140480ed54a577a35b8d5f50
+3. Pakeisti 26 straipsnio 13 dalies 4 punktą ir jį išdėstyti taip: ^s-9e8a758db7a4612ad1c01181
 
 
-„4) Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos – už 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, [[#^140480ed54a577a35b8d5f50|3 dalies]] 1, 2, 3, 4, 6 ir 7 punktų, 5 dalies, 15, 16 straipsnių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;“.
-
-
-
-### 3 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas, išskyrus [[#4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|4 straipsnį]], įsigalioja 2011 m. balandžio 1 d.
+„4) Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos – už 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, [[#^s-9e8a758db7a4612ad1c01181|3 dalies]] 1, 2, 3, 4, 6 ir 7 punktų, 5 dalies, 15, 16 straipsnių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;“.
 
 
 
-### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ff40dcf1b8d5ab4bb2f587e3
+
+
+Šis įstatymas, išskyrus [[#^s-b1fd6118a79eb749f44c2540|4 straipsnį]], įsigalioja 2011 m. balandžio 1 d.
+
+
+
+### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-b1fd6118a79eb749f44c2540
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2011 m. kovo 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.

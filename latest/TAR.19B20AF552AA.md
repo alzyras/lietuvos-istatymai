@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.19B20AF552AA"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-01"
 latest_path: "latest/TAR.19B20AF552AA.md"
 latest_sha256: "7681263a9c4d6765b54a7364c5f1947ddc5902d4202ed8bda689cb6659f94e1d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.19B20AF552AA]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.19B20AF552AA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.19B20AF552AA
+- Ryšiai: [[Ryšiai/TAR.19B20AF552AA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-ceb0cf82ec9116a8989f658f
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-fe9c2316959e840559ab39fa
 
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.

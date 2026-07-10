@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.01785B6208DD"
 pavadinimas: "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-20"
 latest_path: "latest/TAR.01785B6208DD.md"
 latest_sha256: "dff8748577aad2b59d55d0fdad0bfae06ef072b1f7da24e205aa18b7ab4310b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.01785B6208DD]]"
 ---
 # Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.01785B6208DD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.01785B6208DD
+- Ryšiai: [[Ryšiai/TAR.01785B6208DD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-989941733b4c73d55fcf544e
 
 
 1 straipsnio 1 dalyje vietoj skaičiaus „6057735“ įrašyti skaičių „5846865“, vietoj skaičiaus „6857735“ įrašyti skaičių „6646865“, vietoj skaičiaus „100000“ įrašyti skaičių „62066“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio papildymas 7 dalimi
+### 2 straipsnis. 2 straipsnio papildymas 7 dalimi ^s-7ea1bf355f80b3d4223b8dc7
 
 
 Papildyti 2 straipsnį 7 dalimi (šio įstatymo 1 ir 2 priedėliai):
@@ -54,7 +59,7 @@ Papildyti 2 straipsnį 7 dalimi (šio įstatymo 1 ir 2 priedėliai):
 
 
 
-### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-634f3fa2cb365997b0dd9720
 
 
 6 straipsnio 1 dalyje vietoj skaičiaus „78237“ įrašyti skaičių „78367“ ir šią dalį išdėstyti taip:
@@ -64,7 +69,7 @@ Papildyti 2 straipsnį 7 dalimi (šio įstatymo 1 ir 2 priedėliai):
 
 
 
-### 4 straipsnis. 11 straipsnio papildymas
+### 4 straipsnis. 11 straipsnio papildymas ^s-e890b452c6bb2f76deb6f301
 
 
 Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodžius „Valstybinio socialinio draudimo fondo pinigų srautams subalansuoti“ ir šį punktą išdėstyti taip:
@@ -74,10 +79,10 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
 
 
 
-### 5 straipsnis.         Įstatymo 1 priedėlio „Lietuvos Respublikos 2000 metų valstybės biudžetas“ pakeitimas
+### 5 straipsnis.         Įstatymo 1 priedėlio „Lietuvos Respublikos 2000 metų valstybės biudžetas“ pakeitimas ^s-c6969f3292a18af0fce5dca2
 
 
-1. Pakeisti Įstatymo 1 priedėlio dalį „Pajamos“ ir ją išdėstyti taip: ^a0ec2edd5616eb8122749f39
+1. Pakeisti Įstatymo 1 priedėlio dalį „Pajamos“ ir ją išdėstyti taip: ^s-0221f5d6af16bf32d29811d1
 
 
 „                                                                                                                                  tūkst. Lt
@@ -162,10 +167,10 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
 
 
 
-2. Įstatymo 1 priedėlio dalyje „Išlaidos“: ^6be28e9b8dc2cbbbd2c26840
+2. Įstatymo 1 priedėlio dalyje „Išlaidos“: ^s-d1b3a0a2a4818b3334bae4fe
 
 
-1) skirsnyje „90.900.2076 Vaiko teisių apsaugos kontrolieriaus įstaiga“ eilutėje „1 1 Vaiko teisių ir jo teisėtų interesų apsauga 1.“ vietoj skaičių „354 354 220“ įrašyti skaičius „354 254 120 100“, eilutėje „Iš viso“ vietoj skaičių „354 354 220“ įrašyti skaičius „354 254 120 100“ ir šias eilutes išdėstyti taip: ^e25864bfe23b2c16c18226f6
+1) skirsnyje „90.900.2076 Vaiko teisių apsaugos kontrolieriaus įstaiga“ eilutėje „1 1 Vaiko teisių ir jo teisėtų interesų apsauga 1.“ vietoj skaičių „354 354 220“ įrašyti skaičius „354 254 120 100“, eilutėje „Iš viso“ vietoj skaičių „354 354 220“ įrašyti skaičius „354 254 120 100“ ir šias eilutes išdėstyti taip: ^s-2d4371164a3ade444d460167
 
 
  „1 1 Vaiko teisių ir jo teisėtų interesų apsauga
@@ -184,10 +189,10 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  100“.
 
 
-3. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 I. Ministerijos“: ^7d550cf3228015c99c4125aa
+3. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 I. Ministerijos“: ^s-8dccb1480e71af2c2a651d1f
 
 
-1) skirsnyje „12.900.32 Finansų ministerija“ pripažinti netekusia galios eilutę „4 1 Indėlių draudimo fondas 14. 10000 10000“, eilutėje „6 1 Vyriausybės rezervo fondas 14.“ vietoj skaičių „22602 22602“ įrašyti skaičius „24002 24002“, pripažinti netekusia galios eilutę „7 1 Vyriausybės vertybiniams popieriams, išleistiems bankams restruktūrizuoti, išpirkti 14. 88386 88386“, eilutėje „8 1 Valstybės skolos aptarnavimo išlaidos 14.“ vietoj skaičių „998768 931975“ įrašyti skaičius „871113 804320“, eilutėje „10 1 Speciali tikslinė dotacija savivaldybėms 14.“ vietoj skaičių „2000 2000“ įrašyti skaičius „42350 42350“, eilutėje „13 1 Žalos atlyginimas nukentėjusiems dėl sveikatos suluošinimo darbe ar susirgimo profesine liga, kai ši prievolė pereina valstybei 6.“ vietoj skaičių „5000 5000“ įrašyti skaičius „12000 12000“, eilutėje „14 1 Narystės mokesčiai tarptautinėms organizacijoms 14.“ vietoj skaičių „14000 14000“ įrašyti skaičius „2000 2000“, eilutėje „Iš viso“ vietoj skaičių „1512238 1445445“ įrašyti skaičius „1322947 1256154“ ir šias eilutes išdėstyti taip: ^957338509445ab398241f607
+1) skirsnyje „12.900.32 Finansų ministerija“ pripažinti netekusia galios eilutę „4 1 Indėlių draudimo fondas 14. 10000 10000“, eilutėje „6 1 Vyriausybės rezervo fondas 14.“ vietoj skaičių „22602 22602“ įrašyti skaičius „24002 24002“, pripažinti netekusia galios eilutę „7 1 Vyriausybės vertybiniams popieriams, išleistiems bankams restruktūrizuoti, išpirkti 14. 88386 88386“, eilutėje „8 1 Valstybės skolos aptarnavimo išlaidos 14.“ vietoj skaičių „998768 931975“ įrašyti skaičius „871113 804320“, eilutėje „10 1 Speciali tikslinė dotacija savivaldybėms 14.“ vietoj skaičių „2000 2000“ įrašyti skaičius „42350 42350“, eilutėje „13 1 Žalos atlyginimas nukentėjusiems dėl sveikatos suluošinimo darbe ar susirgimo profesine liga, kai ši prievolė pereina valstybei 6.“ vietoj skaičių „5000 5000“ įrašyti skaičius „12000 12000“, eilutėje „14 1 Narystės mokesčiai tarptautinėms organizacijoms 14.“ vietoj skaičių „14000 14000“ įrašyti skaičius „2000 2000“, eilutėje „Iš viso“ vietoj skaičių „1512238 1445445“ įrašyti skaičius „1322947 1256154“ ir šias eilutes išdėstyti taip: ^s-711151bf616a6fa09a27cbd3
 
 
  „6 1 Vyriausybės rezervo fondas
@@ -260,7 +265,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  66793“;
 
 
-2) skirsnyje „14.900.116 Kultūros ministerija“ eilutėje „2 1 Valstybės švenčių rengimas 8.“ vietoj skaičių „250 250“ įrašyti skaičius „350 350“, eilutėje „5 1 Nacionalinių ir tarptautinių renginių (festivalių, švenčių, konkursų, konferencijų, kongresų ir t. t.) rengimas 8.“ vietoj skaičių „2662 2662“ įrašyti skaičius „2812 2812“, eilutėje „Iš viso“ vietoj skaičių „75903 75603“ įrašyti skaičius „76153 75853“ ir šias eilutes išdėstyti taip: ^89526fd304e9593fdef0dc50
+2) skirsnyje „14.900.116 Kultūros ministerija“ eilutėje „2 1 Valstybės švenčių rengimas 8.“ vietoj skaičių „250 250“ įrašyti skaičius „350 350“, eilutėje „5 1 Nacionalinių ir tarptautinių renginių (festivalių, švenčių, konkursų, konferencijų, kongresų ir t. t.) rengimas 8.“ vietoj skaičių „2662 2662“ įrašyti skaičius „2812 2812“, eilutėje „Iš viso“ vietoj skaičių „75903 75603“ įrašyti skaičius „76153 75853“ ir šias eilutes išdėstyti taip: ^s-51cbf3a18d2649dc925f7e44
 
 
  „2 1 Valstybės švenčių rengimas
@@ -303,7 +308,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  300“;
 
 
-3) skirsnyje „13.900.91 Krašto apsaugos ministerija“ eilutėje „1 12 Sausumos pajėgos 2.“ vietoj skaičių „200080 180560 65794“ įrašyti skaičius „199780 180260 65494“, eilutėje „Iš viso“ vietoj skaičių „541437 489800 199510“ įrašyti skaičius „541137 489500 199210“ ir šias eilutes išdėstyti taip: ^ecc2f27b1289b54768c5ad0f
+3) skirsnyje „13.900.91 Krašto apsaugos ministerija“ eilutėje „1 12 Sausumos pajėgos 2.“ vietoj skaičių „200080 180560 65794“ įrašyti skaičius „199780 180260 65494“, eilutėje „Iš viso“ vietoj skaičių „541437 489800 199510“ įrašyti skaičius „541137 489500 199210“ ir šias eilutes išdėstyti taip: ^s-540412b5165b8bef2a1389df
 
 
  „1 12 Sausumos pajėgos
@@ -322,7 +327,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  51637“
 
 
-4) skirsnyje „18.900.173 Socialinės apsaugos ir darbo ministerija“ eilutėje „2 1 Ortopedinė protezinė pagalba Lietuvos Respublikos gyventojams ir specialiosios paskirties automobilių invalidams vežti įsigijimas 1995–2000 metais 5.“ vietoj skaičių „20460 20460“ įrašyti skaičius „21460 21460“, eilutėje „3 1 Valstybinės ir šalpos (socialinės) pensijos bei valstybinė socialinė parama 6.“ vietoj skaičių „391946 391946“ įrašyti skaičius „346880 346880“, eilutėje „4 1 Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant jų veiklą ir struktūrą 6.“ vietoj skaičių „23785 23785 9569“ įrašyti skaičius „9039 9039 3907“, eilutėje „5 1 Socialinės apsaugos ir darbo ministerijos veikla, nesusijusi su įstaigos išlaikymu 6.“ vietoj skaičių „67683 67683“ įrašyti skaičius „67246 67246“, eilutėje „8 1 Paskolų ir socialinės saugos tinklo projektų aptarnavimas 14.“ vietoj skaičių „3227 3227“ įrašyti skaičius „2227 2227“, eilutę „9 1 Nedarbo mažinimas 6. 2000 1000 1000“ pripažinti netekusia galios, eilutėje „Iš viso“ vietoj skaičių „518101 517101 13923 1000“ įrašyti skaičius „455852 455852 8261“ ir šias eilutes išdėstyti taip: ^bd257a259ab24026ac3dad80
+4) skirsnyje „18.900.173 Socialinės apsaugos ir darbo ministerija“ eilutėje „2 1 Ortopedinė protezinė pagalba Lietuvos Respublikos gyventojams ir specialiosios paskirties automobilių invalidams vežti įsigijimas 1995–2000 metais 5.“ vietoj skaičių „20460 20460“ įrašyti skaičius „21460 21460“, eilutėje „3 1 Valstybinės ir šalpos (socialinės) pensijos bei valstybinė socialinė parama 6.“ vietoj skaičių „391946 391946“ įrašyti skaičius „346880 346880“, eilutėje „4 1 Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant jų veiklą ir struktūrą 6.“ vietoj skaičių „23785 23785 9569“ įrašyti skaičius „9039 9039 3907“, eilutėje „5 1 Socialinės apsaugos ir darbo ministerijos veikla, nesusijusi su įstaigos išlaikymu 6.“ vietoj skaičių „67683 67683“ įrašyti skaičius „67246 67246“, eilutėje „8 1 Paskolų ir socialinės saugos tinklo projektų aptarnavimas 14.“ vietoj skaičių „3227 3227“ įrašyti skaičius „2227 2227“, eilutę „9 1 Nedarbo mažinimas 6. 2000 1000 1000“ pripažinti netekusia galios, eilutėje „Iš viso“ vietoj skaičių „518101 517101 13923 1000“ įrašyti skaičius „455852 455852 8261“ ir šias eilutes išdėstyti taip: ^s-4d84065937bc0906d46494d6
 
 
  „2 1 Ortopedinė protezinė pagalba
@@ -430,7 +435,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  8261“;
 
 
-5) skirsnyje „21.900.220 Sveikatos apsaugos ministerija“ eilutėje „5 1 Sveikatos priežiūros įstaigų bazės stiprinimas ir modernizavimas 5.“ vietoj skaičių „60818 11743“ įrašyti skaičius „59018 9943“, eilutėje „6 1 Nacionalinė imunoprofilaktikos ir užkrečiamųjų ligų laboratorinė diagnostikos programa 5.“ vietoj skaičių „5390 5390“ įrašyti skaičius „6890 6890“, eilutėje „11 1 Mokslo ir technikos plėtra 5.“ vietoj skaičių „1927 1927 1213“ įrašyti skaičius „1845 1845 1150“, eilutėje „12 1 Centrinių institucijų išlaikymas 5.“ vietoj skaičių „3675 3675 2092“ įrašyti skaičius „4057 4075 2155“, papildyti nauja eilute „16 1 Narkotikų kontrolės ir narkomanijos prevencijos programa 1999–2003 5. 400 400 20“, eilutėje „Iš viso“ vietoj skaičių „137455 86855 45605“ įrašyti skaičius „137855 87255 45625“ ir šias eilutes išdėstyti taip: ^49ad5265e19a9f403a4ee1de
+5) skirsnyje „21.900.220 Sveikatos apsaugos ministerija“ eilutėje „5 1 Sveikatos priežiūros įstaigų bazės stiprinimas ir modernizavimas 5.“ vietoj skaičių „60818 11743“ įrašyti skaičius „59018 9943“, eilutėje „6 1 Nacionalinė imunoprofilaktikos ir užkrečiamųjų ligų laboratorinė diagnostikos programa 5.“ vietoj skaičių „5390 5390“ įrašyti skaičius „6890 6890“, eilutėje „11 1 Mokslo ir technikos plėtra 5.“ vietoj skaičių „1927 1927 1213“ įrašyti skaičius „1845 1845 1150“, eilutėje „12 1 Centrinių institucijų išlaikymas 5.“ vietoj skaičių „3675 3675 2092“ įrašyti skaičius „4057 4075 2155“, papildyti nauja eilute „16 1 Narkotikų kontrolės ir narkomanijos prevencijos programa 1999–2003 5. 400 400 20“, eilutėje „Iš viso“ vietoj skaičių „137455 86855 45605“ įrašyti skaičius „137855 87255 45625“ ir šias eilutes išdėstyti taip: ^s-a91c52143ce1e24703478a97
 
 
  „5 1 Sveikatos priežiūros įstaigų
@@ -513,7 +518,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  50600“;
 
 
-6) skirsnyje „22. 900. 326 Švietimo ir mokslo ministerija“ eilutėje „1 6 Bendrojo lavinimo internatinių mokyklų, finansuojamų iš valstybės biudžeto, funkcionavimas 4.“ vietoj skaičių „34261 34261 20942“ įrašyti skaičius „34374 34374 20952“, eilutėje „1 7 Kitų švietimo įstaigų, finansuojamų iš valstybės biudžeto, funkcionavimas 4.“ vietoj skaičių „24677 24677“ įrašyti skaičius „24757 24757“, eilutėje „2 1 Profesinis mokymas 4.“ vietoj skaičių „173427 173427“ įrašyti skaičius „174450 174450“, eilutėje „2 2 Aukštesniosios studijos 4.“ vietoj skaičių „120743 120743“ įrašyti skaičius „121567 121567“, eilutėje „4 3 Integravimasis į Europos Sąjungos švietimo struktūras ir tarptautinis bendradarbiavimas 4.“ vietoj skaičių „7828 7828 285“ įrašyti skaičius „6615 6615 275“, eilutėje „5 1 Centrinių institucijų išlaikymas 4.“ vietoj skaičių „4353 4353“ įrašyti skaičius „4393 4393“, eilutėje „Iš viso“ vietoj skaičių „389418 383982“ įrašyti skaičius „390285 384849“ ir šias eilutes išdėstyti taip: ^e93de2a8952c8f0470eaacc7
+6) skirsnyje „22. 900. 326 Švietimo ir mokslo ministerija“ eilutėje „1 6 Bendrojo lavinimo internatinių mokyklų, finansuojamų iš valstybės biudžeto, funkcionavimas 4.“ vietoj skaičių „34261 34261 20942“ įrašyti skaičius „34374 34374 20952“, eilutėje „1 7 Kitų švietimo įstaigų, finansuojamų iš valstybės biudžeto, funkcionavimas 4.“ vietoj skaičių „24677 24677“ įrašyti skaičius „24757 24757“, eilutėje „2 1 Profesinis mokymas 4.“ vietoj skaičių „173427 173427“ įrašyti skaičius „174450 174450“, eilutėje „2 2 Aukštesniosios studijos 4.“ vietoj skaičių „120743 120743“ įrašyti skaičius „121567 121567“, eilutėje „4 3 Integravimasis į Europos Sąjungos švietimo struktūras ir tarptautinis bendradarbiavimas 4.“ vietoj skaičių „7828 7828 285“ įrašyti skaičius „6615 6615 275“, eilutėje „5 1 Centrinių institucijų išlaikymas 4.“ vietoj skaičių „4353 4353“ įrašyti skaičius „4393 4393“, eilutėje „Iš viso“ vietoj skaičių „389418 383982“ įrašyti skaičius „390285 384849“ ir šias eilutes išdėstyti taip: ^s-285b02c5fef0e9894b34ce82
 
 
  „1 6 Bendrojo lavinimo internatinių
@@ -620,7 +625,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  5436“;
 
 
-7) skirsnyje „23.900.551 Teisingumo ministerija“ eilutėje „1 5 Advokatams, dalyvaujantiems bylose pagal BPK 561 straipsnį, apmokėjimas 14.“ vietoj skaičių „2000 2000“ įrašyti skaičius „2750 2750“, eilutėje „2 2 Hipotekų registro plėtojimas 3.“ vietoj skaičių „3947 3947“ įrašyti skaičius „3197 3197“ ir šias eilutes išdėstyti taip: ^9c60a5263cfac58d68f5076f
+7) skirsnyje „23.900.551 Teisingumo ministerija“ eilutėje „1 5 Advokatams, dalyvaujantiems bylose pagal BPK 561 straipsnį, apmokėjimas 14.“ vietoj skaičių „2000 2000“ įrašyti skaičius „2750 2750“, eilutėje „2 2 Hipotekų registro plėtojimas 3.“ vietoj skaičių „3947 3947“ įrašyti skaičius „3197 3197“ ir šias eilutes išdėstyti taip: ^s-fe7fc12826211e15b97bc038
 
 
  „1 5 Advokatams, dalyvaujantiems bylose pagal
@@ -644,7 +649,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  1595“;
 
 
-8) skirsnyje „29.900. 1811 Ūkio ministerija“ eilutėje „1 18 Centrinių institucijų išlaikymas 11.“ vietoj skaičių „7858 7858 4354“ įrašyti skaičius „7858 7758 100“, eilutėje „Iš viso“ vietoj skaičių „41207 2600“ įrašyti skaičius „41107 2700“ ir šias eilutes išdėstyti taip: ^458413bee63a97c7f99bb0bc
+8) skirsnyje „29.900. 1811 Ūkio ministerija“ eilutėje „1 18 Centrinių institucijų išlaikymas 11.“ vietoj skaičių „7858 7858 4354“ įrašyti skaičius „7858 7758 100“, eilutėje „Iš viso“ vietoj skaičių „41207 2600“ įrašyti skaičius „41107 2700“ ir šias eilutes išdėstyti taip: ^s-d5948fcd2361bbbf547ac4e4
 
 
  „1 18 Centrinių institucijų išlaikymas
@@ -663,7 +668,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
 
 
 
-9) skirsnyje „25.900.616 Valdymo reformų ir savivaldybių reikalų ministerija“ eilutėje „4 3 Apskričių viršininkų administracijų informacinės sistemos plėtojimas ir įgyvendinimas 12.“ vietoj skaičių „500 500“ įrašyti skaičius „874 874“, eilutėje „4 8 Baltijos valstybių bendros informacinės infrastruktūros kūrimas pagal ES analogus (IDA, TEN, ERI, Šengeno ir pan. sistemas), įgyvendinant Baltijos Ministrų Tarybos sprendimus 12.“ vietoj skaičių „470 470“ įrašyti skaičius „96 96“, eilutėje „6 1 Specialiojo atašė delegavimas 1.“ vietoj skaičiaus „80“ įrašyti skaičių „110“, eilutėje „Iš viso“ vietoj skaičiaus „3038“ įrašyti skaičių „3068“ ir šias eilutes išdėstyti taip: ^d2921b1f6de364debf1a9d2c
+9) skirsnyje „25.900.616 Valdymo reformų ir savivaldybių reikalų ministerija“ eilutėje „4 3 Apskričių viršininkų administracijų informacinės sistemos plėtojimas ir įgyvendinimas 12.“ vietoj skaičių „500 500“ įrašyti skaičius „874 874“, eilutėje „4 8 Baltijos valstybių bendros informacinės infrastruktūros kūrimas pagal ES analogus (IDA, TEN, ERI, Šengeno ir pan. sistemas), įgyvendinant Baltijos Ministrų Tarybos sprendimus 12.“ vietoj skaičių „470 470“ įrašyti skaičius „96 96“, eilutėje „6 1 Specialiojo atašė delegavimas 1.“ vietoj skaičiaus „80“ įrašyti skaičių „110“, eilutėje „Iš viso“ vietoj skaičiaus „3038“ įrašyti skaičių „3068“ ir šias eilutes išdėstyti taip: ^s-f2d47d94d0a21d941bcd4e43
 
 
  „4 3 Apskričių viršininkų administracijų
@@ -736,7 +741,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  3068“;
 
 
-10) skirsnyje „30.900.1812 Žemės ūkio ministerija“ eilutėje „1 1 Nacionalinė žemės ūkio plėtojimo programa 10.“ vietoj skaičių „393787 393787“ įrašyti skaičius „407187 407187“, eilutėje „iš jų: subsidijos už supirktus perdirbti cukrinius runkelius“ vietoj skaičių „67550 67550“ įrašyti skaičius „80950 80950“, eilutėje „Iš viso“ vietoj skaičių „424024 424024“ įrašyti skaičius „437424 437424“ ir šias eilutes išdėstyti taip: ^3b1b92d114574ec56e1a477a
+10) skirsnyje „30.900.1812 Žemės ūkio ministerija“ eilutėje „1 1 Nacionalinė žemės ūkio plėtojimo programa 10.“ vietoj skaičių „393787 393787“ įrašyti skaičius „407187 407187“, eilutėje „iš jų: subsidijos už supirktus perdirbti cukrinius runkelius“ vietoj skaičių „67550 67550“ įrašyti skaičius „80950 80950“, eilutėje „Iš viso“ vietoj skaičių „424024 424024“ įrašyti skaičius „437424 437424“ ir šias eilutes išdėstyti taip: ^s-798182eee990662d7793a7fb
 
 
  „1 1 Nacionalinė žemės ūkio plėtojimo
@@ -774,10 +779,10 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  9514“.
 
 
-4. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 II. Apskritys“: ^e5bcf21b898217213f6e6f04
+4. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 II. Apskritys“: ^s-33d9c8c0563319567ee588f4
 
 
-1) skirsnyje „90.28.1229 Klaipėdos apskrities viršininko administracija“ eilutėje „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „12405 12405“ įrašyti skaičius „13064 13064“, eilutėje „1 9 Sergančių vaikų mokymas 4.“ vietoj skaičiaus „1353 1353 982“ įrašyti skaičius „1253 1253 906“, eilutę „1 23 Administracinių ginčų komisijos išlaikymas 3. 59 59 45“ pripažinti netekusia galios, eilutėje „Iš viso“ vietoj skaičių „42653 36865 17883“ įrašyti skaičius „43153 37365 17762“ ir šias eilutes išdėstyti taip: ^dd6bc71b5facf186fe636846
+1) skirsnyje „90.28.1229 Klaipėdos apskrities viršininko administracija“ eilutėje „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „12405 12405“ įrašyti skaičius „13064 13064“, eilutėje „1 9 Sergančių vaikų mokymas 4.“ vietoj skaičiaus „1353 1353 982“ įrašyti skaičius „1253 1253 906“, eilutę „1 23 Administracinių ginčų komisijos išlaikymas 3. 59 59 45“ pripažinti netekusia galios, eilutėje „Iš viso“ vietoj skaičių „42653 36865 17883“ įrašyti skaičius „43153 37365 17762“ ir šias eilutes išdėstyti taip: ^s-552fb962818ffc18f6c21251
 
 
  „1 2 Vaikų našlaičių, sutrikusio intelekto
@@ -812,7 +817,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  5788“;
 
 
-2) skirsnyje „90.31.1352 Šiaulių apskrities viršininko administracija“ eilutėje „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „10035 10035“ įrašyti skaičius „10135 10135“, eilutėje „1 20 Socialinių paslaugų plėtra globos įstaigose 6.“ vietoj skaičių „12360 12360“ įrašyti skaičius „12260 12260“ ir šias eilutes išdėstyti taip: ^0d5d55d8734cab500fb89aac
+2) skirsnyje „90.31.1352 Šiaulių apskrities viršininko administracija“ eilutėje „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „10035 10035“ įrašyti skaičius „10135 10135“, eilutėje „1 20 Socialinių paslaugų plėtra globos įstaigose 6.“ vietoj skaičių „12360 12360“ įrašyti skaičius „12260 12260“ ir šias eilutes išdėstyti taip: ^s-c05ad80d87fef2ca29f35b45
 
 
  „1 2 Vaikų našlaičių, sutrikusio intelekto
@@ -843,7 +848,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  3949“;
 
 
-3) skirsnyje „90.33.1424 Telšių apskrities viršininko administracija“ eilutėje ^301ab709188b76cbe583e1eb
+3) skirsnyje „90.33.1424 Telšių apskrities viršininko administracija“ eilutėje ^s-2ae2b94808bab17c92bbe46e
 „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „6993 6993 4100“ įrašyti skaičius „7493 7493 4405“, eilutėje „Iš viso“ vietoj skaičių „21495 19133 8775“ įrašyti skaičius „21995 19633 9080“ ir šias eilutes išdėstyti taip:
 
 
@@ -871,7 +876,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  2362“;
 
 
-4) skirsnyje „90. 35. 1496 Vilniaus apskrities viršininko administracija“ eilutėje „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „18823 18823“ įrašyti skaičius „19423 19423“, eilutėje „1 3 Rytų Lietuvos socialinio plėtojimo ir mokymo valstybine kalba tobulinimas 4.“ vietoj skaičių „6187 5787 3550“ įrašyti skaičius „5857 5457 3298“, eilutėje „1 5 Vaikų gydymas ir reabilitacija 6.“ vietoj skaičių „3014 3014 1917“ įrašyti skaičius „8003 8003 4156“, eilutėje „1 10 Socialinių paslaugų plėtra globos įstaigose 6.“ vietoj skaičių „3686 3686 1051“ įrašyti skaičius „13443 13443 4474“, eilutėje „1 19 Rytų Lietuvos socialinio plėtojimo, auklėjimo valstybine kalba tobulinimas 4.“ vietoj skaičių „1264 1184 625“ įrašyti skaičius „994 914 450“, eilutėje „Iš viso“ vietoj skaičių „49609 45355 24513“ įrašyti skaičius „64355 60101 29748“ ir šias eilutes išdėstyti taip: ^1184432b3a5068d38b0bb5f2
+4) skirsnyje „90. 35. 1496 Vilniaus apskrities viršininko administracija“ eilutėje „1 2 Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas 4.“ vietoj skaičių „18823 18823“ įrašyti skaičius „19423 19423“, eilutėje „1 3 Rytų Lietuvos socialinio plėtojimo ir mokymo valstybine kalba tobulinimas 4.“ vietoj skaičių „6187 5787 3550“ įrašyti skaičius „5857 5457 3298“, eilutėje „1 5 Vaikų gydymas ir reabilitacija 6.“ vietoj skaičių „3014 3014 1917“ įrašyti skaičius „8003 8003 4156“, eilutėje „1 10 Socialinių paslaugų plėtra globos įstaigose 6.“ vietoj skaičių „3686 3686 1051“ įrašyti skaičius „13443 13443 4474“, eilutėje „1 19 Rytų Lietuvos socialinio plėtojimo, auklėjimo valstybine kalba tobulinimas 4.“ vietoj skaičių „1264 1184 625“ įrašyti skaičius „994 914 450“, eilutėje „Iš viso“ vietoj skaičių „49609 45355 24513“ įrašyti skaičius „64355 60101 29748“ ir šias eilutes išdėstyti taip: ^s-974631a62bc6dd432260fca6
 
 
  „1 2 Vaikų našlaičių, sutrikusio
@@ -954,10 +959,10 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  4254“.
 
 
-5. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 III. Departamentai, tarnybos ir inspekcijos“: ^2f0a7d52e09e25ef1018876b
+5. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 III. Departamentai, tarnybos ir inspekcijos“: ^s-d50eb866d902b19349dd2cdf
 
 
-1) skirsnyje „90.1.806 Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės“ eilutėje „1 1 Sveikatingumas ir sportas 8.“ vietoj skaičių „15560 13560“ įrašyti skaičius „16560 14560“, eilutėje „Iš viso“ vietoj skaičių „32510 30510“ įrašyti skaičius „33510 31510“ ir šias eilutes išdėstyti taip: ^c1269f35950e815f6b9417df
+1) skirsnyje „90.1.806 Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės“ eilutėje „1 1 Sveikatingumas ir sportas 8.“ vietoj skaičių „15560 13560“ įrašyti skaičius „16560 14560“, eilutėje „Iš viso“ vietoj skaičių „32510 30510“ įrašyti skaičius „33510 31510“ ir šias eilutes išdėstyti taip: ^s-fe28c02c8fa0cd256c258333
 
 
  „1 1 Sveikatingumas ir sportas
@@ -976,7 +981,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  2000“;
 
 
-2) skirsnyje „90.7.925 Lietuvos Respublikos valstybės saugumo departamentas“ eilutėje „1 1 Valstybės saugumas 3.“ vietoj skaičių „24280 24280“ įrašyti skaičius „24480 24480“, eilutėje „Iš viso“ vietoj skaičių „24572 24572“ įrašyti skaičius „24772 24772“ ir šias eilutes išdėstyti taip: ^248839fc144e402ba47dcf59
+2) skirsnyje „90.7.925 Lietuvos Respublikos valstybės saugumo departamentas“ eilutėje „1 1 Valstybės saugumas 3.“ vietoj skaičių „24280 24280“ įrašyti skaičius „24480 24480“, eilutėje „Iš viso“ vietoj skaičių „24572 24572“ įrašyti skaičius „24772 24772“ ir šias eilutes išdėstyti taip: ^s-e6a396c408cd33c409cfa4c4
 
 
  „1 1 Valstybės saugumas
@@ -993,10 +998,10 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  17101“.
 
 
-6. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 IV. Įmonės ir organizacijos“: ^16a0dcfac3c5210da00794e4
+6. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 IV. Įmonės ir organizacijos“: ^s-033bbcaad8dcdc8df61c8c09
 
 
-1) grupėje „0.912.0 Finansų ministerijos valdymo sritis“ skirsnyje „90.21.1059 Muitinės departamentas prie Finansų ministerijos“ eilutėje „1 1 Valstybės valdymas 1.“ vietoj skaičių „72915 72915“ įrašyti skaičius „73915 73915“, eilutėje „Iš viso“ vietoj skaičių „83242 83242“ įrašyti skaičius „84242 84242“ ir šias eilutes išdėstyti taip: ^a0091e679c062c52cb6b0347
+1) grupėje „0.912.0 Finansų ministerijos valdymo sritis“ skirsnyje „90.21.1059 Muitinės departamentas prie Finansų ministerijos“ eilutėje „1 1 Valstybės valdymas 1.“ vietoj skaičių „72915 72915“ įrašyti skaičius „73915 73915“, eilutėje „Iš viso“ vietoj skaičių „83242 83242“ įrašyti skaičius „84242 84242“ ir šias eilutes išdėstyti taip: ^s-3b0fdbd397451b870baa25e7
 
 
  „1 1 Valstybės valdymas
@@ -1013,7 +1018,7 @@ Papildyti 11 straipsnio 3 punktą – po žodžio „dengti“ įrašyti žodži
  52971“;
 
 
-2) grupėje „0.914.0 Kultūros ministerijos valdymo sritis“: ^8c06975991f7844901aee3aa
+2) grupėje „0.914.0 Kultūros ministerijos valdymo sritis“: ^s-97bfbef9fcf8258355857ca5
 
 
 a) skirsnyje „90.900.1749 Lietuvos dailės muziejus“ eilutėje „1 1 Muziejaus rinkinių kaupimas, saugojimas, populiarinimas 8.“ vietoj skaičių „5268 5268“ įrašyti skaičius „5468 5468“, eilutėje „Iš viso“ vietoj skaičių „5268 5268“ įrašyti skaičius „5468 5468“ ir šias eilutes išdėstyti taip:
@@ -1085,7 +1090,7 @@ c) skirsnyje „90.900.2003 Lietuvos nacionalinė filharmonija“ eilutėje „1
  10514“;
 
 
-3) grupėje „0.918.0 Socialinės apsaugos ir darbo ministerijos valdymo sritis“: ^9760d66f4a40635af8ad4aa1
+3) grupėje „0.918.0 Socialinės apsaugos ir darbo ministerijos valdymo sritis“: ^s-fda578fed239e9f66c7e6123
 
 
 a) skirsnyje „90.12.979 Technikos priežiūros tarnyba prie Socialinės apsaugos ir darbo ministerijos“ eilutėje „1 1 Potencialiai pavojingų įrenginių valstybinė priežiūra 13.“ vietoj skaičių „3279 3279 2077“ įrašyti skaičius „3409 3329 2077 80“, eilutėje „Iš viso“ vietoj skaičių „3279 3279 2077“ įrašyti skaičius „3409 3329 2077 80“ ir šias eilutes išdėstyti taip:
@@ -1158,7 +1163,7 @@ b) skirsnyje „90.19.1057 Valstybinė darbo inspekcija prie Socialinės apsaugo
  214“;
 
 
-4) prieš grupę „0.929.0 Ūkio ministerijos valdymo sritis“ įrašyti naujos grupės „0.923.0 Teisingumo ministerijos valdymo sritis“ naują skirsnį „90.2.809 Kalėjimų departamentas prie Teisingumo ministerijos“ ir jį išdėstyti taip: ^59d41e9eb5e76d13d19b0c73
+4) prieš grupę „0.929.0 Ūkio ministerijos valdymo sritis“ įrašyti naujos grupės „0.923.0 Teisingumo ministerijos valdymo sritis“ naują skirsnį „90.2.809 Kalėjimų departamentas prie Teisingumo ministerijos“ ir jį išdėstyti taip: ^s-e716eee53e91e799bb3d7a17
 
 
  „90. 2. 809 Kalėjimų departamentas prie Teisingumo ministerijos
@@ -1224,7 +1229,7 @@ b) skirsnyje „90.19.1057 Valstybinė darbo inspekcija prie Socialinės apsaugo
  50550“;
 
 
-5) grupėje „0.926.0 Vidaus reikalų ministerijos valdymo sritis“: ^853e4ccc8c2743f463cf9cf8
+5) grupėje „0.926.0 Vidaus reikalų ministerijos valdymo sritis“: ^s-635704082a61e9128dae5099
 
 
 a) skirsnį „90.2.809 Pataisos reikalų departamentas prie Vidaus reikalų ministerijos“ ir eilutes: „1 2 Bausmių vykdymo sistemos veiklos užtikrinimas 3. 87176 87176 47762“, „2 2 Nuteistųjų užimtumas ir profesinis bei bendrasis lavinimas 3. 150 150“, „2 3 Personalo profesinis tobulinimas 3. 980 980 550“, „2 5 Kardomojo kalinimo ir kriminalinių bausmių vykdymo organizavimas 3. 3343 3343 2238“, „Iš viso 91649 91649 50550“ pripažinti netekusiais galios.
@@ -1257,10 +1262,10 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
  300“.
 
 
-7. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“: ^de80b5c70a7968fc5195045b
+7. Įstatymo 1 priedėlio dalyje „Išlaidos“ skyriuje „0.0.0 VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“: ^s-0b5889a980472d9fe56af999
 
 
-1) skirsnyje „90.900.1714 Lietuvos medicinos biblioteka“ eilutėje „1 1 Medicinos darbuotojų informacinis aprūpinimas 8.“ vietoj skaičių „778 778“ įrašyti skaičius „817 817“, eilutėje „Iš viso“ vietoj skaičių „778 778“ įrašyti skaičius „817 817“ ir šias eilutes išdėstyti taip: ^91aa5734692e8888b0d079a3
+1) skirsnyje „90.900.1714 Lietuvos medicinos biblioteka“ eilutėje „1 1 Medicinos darbuotojų informacinis aprūpinimas 8.“ vietoj skaičių „778 778“ įrašyti skaičius „817 817“, eilutėje „Iš viso“ vietoj skaičių „778 778“ įrašyti skaičius „817 817“ ir šias eilutes išdėstyti taip: ^s-f422a352620b6c9b40b47683
 
 
  „1 1 Medicinos darbuotojų informacinis
@@ -1284,7 +1289,7 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
  583“;
 
 
-2) skirsnyje „90.25.1145 Lietuvos nacionalinis radijas ir televizija“ eilutėje ^13f3ffa87f4b2f4caf35e256
+2) skirsnyje „90.25.1145 Lietuvos nacionalinis radijas ir televizija“ eilutėje ^s-76518d1acb78486fa3b32ced
 „1 1 Visuomenės informavimas radijo komunikacijų tinklais 8.“ vietoj skaičių „11671 11671“ įrašyti skaičius „13036 13036“, eilutėje „1 2 Visuomenės informavimas telekomunikacijų tinklais 8.“ vietoj skaičių „22813 22002“ įrašyti skaičius „25348 24537“, eilutėje „Iš viso“ vietoj skaičių „34484 33673“ įrašyti skaičius „38384 37573“ ir šias eilutes išdėstyti taip:
 
 
@@ -1323,7 +1328,7 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
  811“;
 
 
-3) skirsnyje „90.39.1633 Lietuvos invalidų reikalų taryba prie Lietuvos Respublikos Vyriausybės“ eilutėje „1 1 Invalidų ugdymas 6.“ vietoj skaičių „3117 3117“ įrašyti skaičius „3477 3477“, eilutėje „1 2 Darbinis užimtumas 6.“ vietoj skaičių „7195 7195“ įrašyti skaičius „8255 8255“, eilutėje „1 3 Aplinkos pritaikymas 6.“ vietoj skaičių „1963 1963“ įrašyti skaičius „2718 2718“, eilutėje „1 4 Savarankiško invalidų gyvenimo formavimas 6.“ vietoj skaičių „4357 4357“ įrašyti skaičius „4687 4687“, eilutėje „1 5 Informacijos prieinamumas ir komunikacijos 6.“ vietoj skaičių „2127 2127“ įrašyti skaičius „2252 2252“, eilutėje „1 6 Medicininė reabilitacija 6.“ vietoj skaičių „2321 2321“ įrašyti skaičius „2406 2406“, eilutėje „Iš viso“ vietoj skaičių „21430 21430“ įrašyti skaičius „24145 24145“ ir šias eilutes išdėstyti taip: ^a06f49f6d6f79be5c7f54c7a
+3) skirsnyje „90.39.1633 Lietuvos invalidų reikalų taryba prie Lietuvos Respublikos Vyriausybės“ eilutėje „1 1 Invalidų ugdymas 6.“ vietoj skaičių „3117 3117“ įrašyti skaičius „3477 3477“, eilutėje „1 2 Darbinis užimtumas 6.“ vietoj skaičių „7195 7195“ įrašyti skaičius „8255 8255“, eilutėje „1 3 Aplinkos pritaikymas 6.“ vietoj skaičių „1963 1963“ įrašyti skaičius „2718 2718“, eilutėje „1 4 Savarankiško invalidų gyvenimo formavimas 6.“ vietoj skaičių „4357 4357“ įrašyti skaičius „4687 4687“, eilutėje „1 5 Informacijos prieinamumas ir komunikacijos 6.“ vietoj skaičių „2127 2127“ įrašyti skaičius „2252 2252“, eilutėje „1 6 Medicininė reabilitacija 6.“ vietoj skaičių „2321 2321“ įrašyti skaičius „2406 2406“, eilutėje „Iš viso“ vietoj skaičių „21430 21430“ įrašyti skaičius „24145 24145“ ir šias eilutes išdėstyti taip: ^s-e2f3895fc130961f40e46554
 
 
  „1 1 Invalidų ugdymas
@@ -1389,7 +1394,7 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
  157“.
 
 
-8. Įstatymo 1 priedėlio dalyje „Išlaidos“ eilutėje „Iš viso“ vietoj skaičių „6857735 6588766 1982822 268969“ įrašyti skaičius „6646865 6378102 1982229 268763“ ir šią eilutę išdėstyti taip: ^c4311fda62a3c5915520127f
+8. Įstatymo 1 priedėlio dalyje „Išlaidos“ eilutėje „Iš viso“ vietoj skaičių „6857735 6588766 1982822 268969“ įrašyti skaičius „6646865 6378102 1982229 268763“ ir šią eilutę išdėstyti taip: ^s-eefabb497d55f01356e8288d
 
 
  „Iš viso
@@ -1402,7 +1407,7 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
 
 
 
-### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-ae81cd06fd0b68f608ce971f
 
 
 Įstatymo 2 priedėlio „Lietuvos Respublikos 2000 metų valstybės biudžeto išlaidos“ eilutėje „Bendrosios valstybės paslaugos“ vietoj skaičių „588128 586075 354435 2053“ įrašyti skaičius „589128 586975 354365 2153“, eilutėje „Valstybės valdymo išlaidos“ vietoj skaičių „179174 105322 867“ įrašyti skaičius „179074 105222 967“, eilutėje „Krašto apsauga“ vietoj skaičių „652264 600627 264566“ įrašyti skaičius „651964 600327 264266“, eilutėje „Viešoji tvarka ir visuomenės apsauga“ vietoj skaičių „910605 894789 610307 15816“ įrašyti skaičius „910587 894471 610262 16116“, eilutėje „Švietimas“ vietoj skaičių „827021 819584 462152“ įrašyti skaičius „829047 821610 461954“, eilutėje „Sveikatos apsauga“ vietoj skaičių „595535 544753 53656“ įrašyti skaičius „596935 546153 53676“, eilutėje „Socialinė apsauga, globa ir rūpyba“ vietoj skaičių „693473 692473 56916 1000“ įrašyti skaičius „655585 655585 56916“, eilutėje „Sveikatingumas (sportas) rekreacija, kultūra“ vietoj skaičių „224384 220473“ įrašyti skaičius „229973 226062“, eilutėje „Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija“ vietoj skaičių „579673 537212“ įrašyti skaičius „593073 550612“, eilutėje „Mineralinių išteklių gavyba (išskyrus kurą), pramonė ir statyba“ vietoj skaičių „47429 2600“ įrašyti skaičius „47329 2700“, eilutėje „Kita ekonominė veikla“ vietoj skaičių „65801 64917 884“ įrašyti skaičius „66263 65085 1178“, eilutėje „Išlaidos, nepriskirtos pagrindinių funkcijų grupėms“ vietoj skaičių „1603730 1533103“ įrašyti skaičius „1407189 13365562“, eilutėje „Valstybės skolos aptarnavimo išlaidos“ vietoj skaičių „998768 931975“ įrašyti skaičius „871113 804320“, eilutėje „Dotacijos ir kompensacija savivaldybėms“ vietoj skaičių „275201 275201“ įrašyti skaičius „315551 315551“, eilutėje „Iš viso“ vietoj skaičių „6857735 6588766 1982822 268969“ įrašyti skaičius „6646865 6378102 1982229 268763“ ir šias eilutes išdėstyti taip:
@@ -1530,7 +1535,7 @@ b) skirsnyje „90.45.1932 Policijos departamentas prie Vidaus reikalų minister
 
 
 
-### 7 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-4724d7c36bf8ecc5f50bb886
 
 
 Įstatymo 3 priedėlio „Lietuvos Respublikos 2000 metų valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų nebiudžetinių (specialiųjų) lėšų įmokos į valstybės biudžetą“ eilutėje „Technikos priežiūros tarnyba prie Socialinės apsaugos ir darbo ministerijos“ vietoj skaičiaus „1112“ įrašyti skaičių „1242“, eilutėje „Iš viso“ vietoj skaičiaus „78237“ įrašyti skaičių „78367“ ir šias eilutes išdėstyti taip:

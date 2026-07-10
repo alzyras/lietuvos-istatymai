@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6A29C3EB8872"
 pavadinimas: "Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-06-30"
 latest_path: "latest/TAR.6A29C3EB8872.md"
 latest_sha256: "4029194e88008305b9978b255b8ce2719fd33eb1f90bea56b1f9e63f87c91d3e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6A29C3EB8872]]"
 ---
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6A29C3EB8872.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6A29C3EB8872
+- Ryšiai: [[Ryšiai/TAR.6A29C3EB8872|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-9d9d2e43458e166ea92b4569
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
@@ -44,10 +49,10 @@ Mokesčio objektas yra valstybės įmonės savininko patikėjimo teise valstybė
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-e7be8337d1231fe51f209047
 
 
-Šio įstatymo [[#1 straipsnis. 4 straipsnio pakeitimas|1 straipsnio]] nuostata taikoma apskaičiuojant mokestį už valstybės turto naudojimą patikėjimo teise už 2005 metais prasidėjusį ir vėlesnius mokestinius laikotarpius.
+Šio įstatymo [[#^s-9d9d2e43458e166ea92b4569|1 straipsnio]] nuostata taikoma apskaičiuojant mokestį už valstybės turto naudojimą patikėjimo teise už 2005 metais prasidėjusį ir vėlesnius mokestinius laikotarpius.
 
 
 

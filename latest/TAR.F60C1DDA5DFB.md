@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F60C1DDA5DFB"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-01"
 latest_path: "latest/TAR.F60C1DDA5DFB.md"
 latest_sha256: "192b0c1ffdca8fc808913a07c4911af3f83197670ee01ce7af8b3b8c23369976"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F60C1DDA5DFB]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F60C1DDA5DFB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F60C1DDA5DFB
+- Ryšiai: [[Ryšiai/TAR.F60C1DDA5DFB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 11 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 11 dalies pakeitimas ^s-2f83acf7a5195533222bc68b
 
 
 Pakeisti 13 straipsnio 11 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 13 straipsnio 11 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-77719bc23cfdd26e5e929e90
 
 
-1. Šis įstatymas, išskyrus [[#^5fbec7e2cd266ba60e6df548|šio straipsnio 2 dalį]], įsigalioja 2011 m. liepos 1 d. ^6c6cae930d58b6ecbaffed2d
+1. Šis įstatymas, išskyrus [[#^s-fcec1e039397b329fcabe956|šio straipsnio 2 dalį]], įsigalioja 2011 m. liepos 1 d. ^s-21be5883d8421a3e9fa780cd
 
 
-2. Savivaldybių tarybos iki 2011 m. liepos 1 d. parengia ir patvirtina šio įstatymo [[#1 straipsnis. 13 straipsnio 11 dalies pakeitimas|1 straipsnio]] nuostatoms įgyvendinti reikalingus savivaldybių tarybų veiklos reglamentų pakeitimus. ^5fbec7e2cd266ba60e6df548
+2. Savivaldybių tarybos iki 2011 m. liepos 1 d. parengia ir patvirtina šio įstatymo [[#^s-2f83acf7a5195533222bc68b|1 straipsnio]] nuostatoms įgyvendinti reikalingus savivaldybių tarybų veiklos reglamentų pakeitimus. ^s-fcec1e039397b329fcabe956
 
 
 

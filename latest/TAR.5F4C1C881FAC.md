@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5F4C1C881FAC"
 pavadinimas: "Lietuvos Respublikos garantinio fondo įstatymo 1, 2, 4, 5, 6, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos garantinio fondo įstatymo 1, 2, 4, 5, 6, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "garantinio fondo įstatymo 1, 2, 4, 5, 6, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-12"
 latest_path: "latest/TAR.5F4C1C881FAC.md"
 latest_sha256: "c4262835aaa9ac65d46d3650a890a88b45e2b9f53f13e6997a99fb6a488fb6c2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5F4C1C881FAC]]"
 ---
 # Lietuvos Respublikos garantinio fondo įstatymo 1, 2, 4, 5, 6, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5F4C1C881FAC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5F4C1C881FAC
+- Ryšiai: [[Ryšiai/TAR.5F4C1C881FAC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-56ee1bbe0c17f20e8fd9354d
 
 
 1 straipsnio 2 dalyje išbraukti žodžius „kuriose pagal tų valstybių įstatymus vykdomos nemokumo procedūros“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-df43f21c85db26f06a43b851
 
 
 2 straipsnio 3 dalyje įrašyti antrą sakinį ir šią dalį išdėstyti taip:
@@ -53,54 +58,54 @@ Vilnius
 
 
 
-### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto, 4 dalies 2 punkto ir 5 dalies pakeitimas
+### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto, 4 dalies 2 punkto ir 5 dalies pakeitimas ^s-d77696cdd6b0659ed5d27cd9
 
 
-1. 4 straipsnio 1 dalies 1 punkte vietoj skaičiaus „0,2“ įrašyti skaičių „0,1“ ir šį punktą išdėstyti taip: ^e3886ac576f37a46837cb322
+1. 4 straipsnio 1 dalies 1 punkte vietoj skaičiaus „0,2“ įrašyti skaičių „0,1“ ir šį punktą išdėstyti taip: ^s-bdcc109fdbe7e5287cad665d
 
 
 „1) įmonių, nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,1 proc. priskaičiuoto darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio draudimo įmokos);“.
 
 
-2. Pakeisti 4 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip: ^3e389ed2924062dee4c5eabc
+2. Pakeisti 4 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip: ^s-dd008dc3340c93548aa3dee0
 
 
 „2) įmokos mokamos kartą per mėnesį. Mažos įmokos gali būti mokamos taip: iki 150 litų per metus – kartą per metus; nuo 151 iki 300 litų – 2 kartus per metus. Įmokos sumokamos ne vėliau kaip per 15 dienų po ataskaitinio laikotarpio pabaigos.“
 
 
-3. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip: ^4f1a26493d7c35411524d832
+3. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip: ^s-501324b3a5d8e8706646ab86
 
 
 „5. Laikinai laisvas Garantinio fondo lėšas valdo ir sprendimus dėl šių lėšų investavimo finansų ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad reikalingos investuotos lėšos, taip pat investavimo metu gautos pajamos būtų laiku grąžinamos į Garantinio fondo sąskaitą šio fondo tikslams finansuoti.“
 
 
 
-### 4 straipsnis. 5 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 5 straipsnio pakeitimas ir papildymas ^s-d1b098587434cf3f51e09f44
 
 
-1. 5 straipsnio 1 dalies 3 punkte po skaičiaus ir žodžio „140 straipsnyje“ įrašyti skaičius ir žodžius „297 straipsnio 4 dalyje“ ir šį punktą išdėstyti taip: ^b89e864ea0052caeb83e4985
+1. 5 straipsnio 1 dalies 3 punkte po skaičiaus ir žodžio „140 straipsnyje“ įrašyti skaičius ir žodžius „297 straipsnio 4 dalyje“ ir šį punktą išdėstyti taip: ^s-c85dbb40cd67fc5c0ac1f318
 
 
 „3) išeitinė išmoka, numatyta Darbo kodekso 140 straipsnyje, 297 straipsnio 4 dalyje ar Įmonių bankroto įstatymo 19 straipsnyje. Šios išmokos suma negali viršyti dydžio, kurį Garantinio fondo tarybos teikimu nustato Vyriausybė;“.
 
 
-2. 5 straipsnio 2 dalies 2 punkte vietoj žodžio „neturinčioms“ įrašyti žodį „neturinčių“ ir šį punktą išdėstyti taip: ^31f61f0d0e439cffc9cd4470
+2. 5 straipsnio 2 dalies 2 punkte vietoj žodžio „neturinčioms“ įrašyti žodį „neturinčių“ ir šį punktą išdėstyti taip: ^s-cb6a5634ba94e3a34097c46c
 
 
 „2) neturinčių turto įmonių išlaidoms, susijusioms su paraiškų skirti išmokas parengimu (administratoriaus darbo dalinis apmokėjimas), apmokėti.“
 
 
-3. Papildyti [[#5 straipsnis. 6 straipsnio 2 dalies pakeitimas|5 straipsnį]] nauja [[#^291435e543e830ca9dad32db|4 dalimi]]: ^1ceb06ab54aa0da5f730962a
+3. Papildyti [[#^s-4724476ef8dba70d7a5bc6a1|5 straipsnį]] nauja [[#^s-52b8e91b99f2adc327bde658|4 dalimi]]: ^s-021c9c1e5fa83924d1d3c712
 
 
 „4. Kai nėra šio įstatymo 5 straipsnio 3 dalyje nurodytų dokumentų, pagal kuriuos apskaičiuojamos šio įstatymo 5 straipsnio 1 dalyje nurodytos išmokos, bet yra kiti duomenys, patvirtinantys darbuotojų teisę gauti su darbo santykiais susijusią išmoką, Garantinio fondo tarybos nutarimu jiems skiriamos išmokos iš Garantinio fondo, bet ne daugiau kaip trys minimaliosios mėnesinės algos.“
 
 
-4. Buvusias [[#5 straipsnis. 6 straipsnio 2 dalies pakeitimas|5 straipsnio]] 4, 5, 6, 7, 8, 9, 10, 11 ir 12 dalis laikyti atitinkamai 5, 6, 7, 8, 9, 10, 11, 12 ir 13 dalimis. ^291435e543e830ca9dad32db
+4. Buvusias [[#^s-4724476ef8dba70d7a5bc6a1|5 straipsnio]] 4, 5, 6, 7, 8, 9, 10, 11 ir 12 dalis laikyti atitinkamai 5, 6, 7, 8, 9, 10, 11, 12 ir 13 dalimis. ^s-52b8e91b99f2adc327bde658
 
 
 
-### 5 straipsnis. 6 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-4724476ef8dba70d7a5bc6a1
 
 
 6 straipsnio 2 dalyje vietoj skaičiaus ir žodžio „1 mėnesį“ įrašyti skaičių ir žodį „2 mėnesius“ ir šią dalį išdėstyti taip:
@@ -110,7 +115,7 @@ Vilnius
 
 
 
-### 6 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-9f9d5bc4ab1a36f25a2d3421
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -120,7 +125,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 9 straipsnio 2 dalies 4 punkto pakeitimas
+### 7 straipsnis. 9 straipsnio 2 dalies 4 punkto pakeitimas ^s-0f1842bd3bda11839b04fd23
 
 
 9 straipsnio 2 dalies 4 punkte išbraukti žodžius „pusmečio ir“, vietoj žodžio „ataskaitas“ įrašyti žodžius „ataskaitą, Garantinio fondo lėšų sąmatos projektą ir metinę sąmatos įvykdymo ataskaitą“ ir šį punktą išdėstyti taip:
@@ -130,7 +135,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 10 straipsnio 5 punkto pakeitimas
+### 8 straipsnis. 10 straipsnio 5 punkto pakeitimas ^s-ca974a89a772dd535884346a
 
 
 10 straipsnio 5 punkte išbraukti žodžius „pusmečio ir“, vietoj žodžio „ataskaitas“ įrašyti žodžius „ataskaitą, Garantinio fondo lėšų sąmatos projektą ir metinę sąmatos įvykdymo ataskaitą“ ir šį punktą išdėstyti taip:
@@ -140,7 +145,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 9 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-8283a969376b8bb95ec382a6
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -150,7 +155,7 @@ Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 13 straipsnio 3 punkto pakeitimas
+### 10 straipsnis. 13 straipsnio 3 punkto pakeitimas ^s-b3ce6fb4a71af0f7acbce009
 
 
 13 straipsnio 3 punkte vietoj skaičių ir žodžio „11 ir 12“ įrašyti skaičius ir žodį „12 ir 13“ šį punktą išdėstyti taip:
@@ -160,13 +165,13 @@ Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 11 straipsnis. Įstatymo įgyvendinimas
+### 11 straipsnis. Įstatymo įgyvendinimas ^s-1c072d75e8890532482ccd2c
 
 
-1. Šio įstatymo [[#9 straipsnis. 12 straipsnio 2 dalies pakeitimas|9 straipsnyje]] nurodytos išeitinės išmokos iš Garantinio fondo pradedamos mokėti nuo 2008 m. liepos 1 d. ^1e0b0e1b619122b40761516e
+1. Šio įstatymo [[#^s-8283a969376b8bb95ec382a6|9 straipsnyje]] nurodytos išeitinės išmokos iš Garantinio fondo pradedamos mokėti nuo 2008 m. liepos 1 d. ^s-545476703f0e054c2c4282e3
 
 
-2. Iš Garantinio fondo išmokamų išeitinių išmokų sumoms taikomi tokie Lietuvos Respublikos Vyriausybės patvirtinti išeitinių išmokų dydžio (iki 2 minimaliųjų mėnesinių algų) apribojimai, kokie buvo taikomi tuo laikotarpiu, per kurį šiame įstatyme nurodytiems darbuotojams buvo mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo. ^ba4523806761416b788b8acb
+2. Iš Garantinio fondo išmokamų išeitinių išmokų sumoms taikomi tokie Lietuvos Respublikos Vyriausybės patvirtinti išeitinių išmokų dydžio (iki 2 minimaliųjų mėnesinių algų) apribojimai, kokie buvo taikomi tuo laikotarpiu, per kurį šiame įstatyme nurodytiems darbuotojams buvo mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo. ^s-57a055ec842fc8e65ab8462e
 
 
 

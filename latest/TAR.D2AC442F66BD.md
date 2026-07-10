@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2AC442F66BD"
 pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 straipsnių pakeitimo ir papildymo, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77 straipsnių pripažinimo netekusiais galios, šeštojo ir devintojo skirsnių pavadinimų pakeitimo, įstatymo papildymo 40-1 ir 57-1 straipsniais bei įstatymo papildymo priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 straipsnių pakeitimo ir papildymo, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77 straipsnių pripažinimo netekusiais galios, šeštojo ir devintojo skirsnių pavadinimų pakeitimo, įstatymo papildymo 40-1 ir 57-1 straipsniais bei įstatymo papildymo priedu įstatymas"
+  - "prekybinės laivybos įstatymo 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 straipsnių pakeitimo ir papildymo, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77 straipsnių pripažinimo netekusiais galios, šeštojo ir devintojo skirsnių pavadinimų pakeitimo, įstatymo papildymo 40-1 ir 57-1 straipsniais bei įstatymo papildymo priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-23"
 latest_path: "latest/TAR.D2AC442F66BD.md"
 latest_sha256: "40eb9c6bb864a42a9af7e76ceb163db586c130f871542e11c047e28a704be19d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2AC442F66BD]]"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 straipsnių pakeitimo ir papildymo, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77 straipsnių pripažinimo netekusiais galios, šeštojo ir devintojo skirsnių pavadinimų pakeitimo, įstatymo papildymo 40-1 ir 57-1 straipsniais bei įstatymo papildymo priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2AC442F66BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2AC442F66BD
+- Ryšiai: [[Ryšiai/TAR.D2AC442F66BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,72 +37,72 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi ^s-4e1c6d265c0ef055c17e864b
 
 
-1. Pakeisti [[#^e4ef94d46564786856dd58fc|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^e4ef94d46564786856dd58fc
+1. Pakeisti [[#^s-26175794884082202eaea464|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-26175794884082202eaea464
 
 
 „1. Šis įstatymas reglamentuoja  santykius, atsirandančius vežant jūrų laivais krovinius, keleivius ir bagažą, taip pat laivo valdytojo ribotosios atsakomybės ribas, darbo laive ypatumus ir socialines garantijas jūrininkams tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos tarptautinės sutartys.“
 
 
-2. Papildyti 1 straipsnį 3 dalimi: ^022201dab59829fbbfe07ce2
+2. Papildyti 1 straipsnį 3 dalimi: ^s-073afd7556ed2a233e9246e8
 
 
 „3. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.“
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-fcccd0473c7d5fd7302ecf26
 
 
-1. 2 straipsnio 13 dalį pripažinti netekusia galios. ^0b49733867b2254a3d517160
+1. 2 straipsnio 13 dalį pripažinti netekusia galios. ^s-948935543c50a825a7aa25d7
 
 
-2. 2 straipsnio 14 dalį pripažinti netekusia galios. ^019ae91924eb24031043161b
+2. 2 straipsnio 14 dalį pripažinti netekusia galios. ^s-ec8bb7b3db81ad9c67b06f1f
 
 
-3. 2 straipsnio 16 dalį pripažinti netekusia galios. ^b96cb24800524943306e38bb
+3. 2 straipsnio 16 dalį pripažinti netekusia galios. ^s-4d102125eb68a4887779e260
 
 
-4. Papildyti 2 straipsnio 23 dalį ir ją išdėstyti taip: ^a22eb1366caf1066c6726107
+4. Papildyti 2 straipsnio 23 dalį ir ją išdėstyti taip: ^s-d9fc61f2389e306fc5e22e28
 
 
 „23. Laivo reisas – laivo kelionė iš vieno uosto į kitą, nesvarbu, ar laivas veža krovinį arba keleivius, ar plaukia be jų. Į laivo reisą taip pat įskaitomas laikas, kurio reikia uoste kroviniui į laivą pakrauti ar iš jo iškrauti arba keleivius įlaipinti ar išlaipinti. Laivo reisu taip pat laikoma žvejybos laivo kelionė nuo išplaukimo iš uosto iki pirminio žuvų pardavimo sugrįžus į uostą, kai šį pardavimą vykdo laivo įgula.“
 
 
-5. Papildyti [[#2 straipsnis. 2 straipsnio pakeitimas ir papildymas|2 straipsnį]] nauja 26 dalimi: ^a78267c40d40f80677070894
+5. Papildyti [[#^s-fcccd0473c7d5fd7302ecf26|2 straipsnį]] nauja 26 dalimi: ^s-94a92d3ecb2e5170bff8dcf0
 
 
 „26. Laivų agentavimo sutartis – susitarimas, kuriuo viena šalis (laivo agentas) įsipareigoja teikti laivų agentavimo paslaugas, o kita šalis (laivo savininkas, frachtuotojas ar kitas teisėtas laivo valdytojas) – atlyginti už šių paslaugų teikimą.“
 
 
-6. Buvusią 2 straipsnio 26 dalį laikyti 27 dalimi ir šią dalį išdėstyti taip: ^9d4e56031a873ec32a825001
+6. Buvusią 2 straipsnio 26 dalį laikyti 27 dalimi ir šią dalį išdėstyti taip: ^s-30152fcca6a2d6d265450122
 
 
 „27. Vežėjas – laivo savininkas arba frachtuotojas, sudarantis vežimo jūra sutartį.“
 
 
-7. Papildyti 2 straipsnį 28 dalimi: ^822ec6f69204a6a2fd63014d
+7. Papildyti 2 straipsnį 28 dalimi: ^s-cd074dfd6c34a3429eb459c9
 
 
 „28. Jūrininko reisas – nepertraukiamas laiko tarpas, kai jūrininkas užima jam skirtas pareigas ar atlieka pavestą darbą laive, įskaitant kelionės į laivą ir iš laivo į nuolatinę gyvenamąją vietą laiką.“
 
 
 
-### 3 straipsnis. 3 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios
+### 3 straipsnis. 3 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios ^s-a4b8ab435f9b9d33d664d8b9
 
 
-1. [[#3 straipsnis. 3 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios|3 straipsnio]] pavadinime vietoj žodžio „jūra“ įrašyti žodį „kabotažu“ ir straipsnio pavadinimą išdėstyti taip: ^ad0bffb52a8c24005a6274fb
+1. [[#^s-a4b8ab435f9b9d33d664d8b9|3 straipsnio]] pavadinime vietoj žodžio „jūra“ įrašyti žodį „kabotažu“ ir straipsnio pavadinimą išdėstyti taip: ^s-a90bcdf9f2de3af07bd0e7b3
 
 
 „3 straipsnis. Vežimas ir buksyravimas kabotažu“.
 
 
-2. 3 straipsnio 3 dalį pripažinti netekusia galios. ^c52e321a71f478d4e27756dd
+2. 3 straipsnio 3 dalį pripažinti netekusia galios. ^s-8a15d0f274b597e1509e5172
 
 
-### 4 straipsnis. 4 straipsnio papildymas 4 dalimi
+### 4 straipsnis. 4 straipsnio papildymas 4 dalimi ^s-a45b3ba7aee2f10b6f6f8de6
 
 
 Papildyti 4 straipsnį 4 dalimi:
@@ -107,29 +112,29 @@ Papildyti 4 straipsnį 4 dalimi:
 
 
 
-### 5 straipsnis. 8 straipsnio pakeitimas ir papildymas
+### 5 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-97933f61645fc03a28266bd3
 
 
-1. Papildyti [[#8 straipsnis.         15 straipsnio pavadinimo ir 1 dalies pakeitimas bei straipsnio papildymas 3 dalimi|8 straipsnį]] nauja 3 dalimi: ^fbab0a1482af6e293e2ea773
+1. Papildyti [[#^s-1018bdf8adabf2b06d4bf420|8 straipsnį]] nauja 3 dalimi: ^s-c4ea33f3ffb2a1a3b5629cce
 
 
 „3. Lietuvos Respublikos jūrų laivų registre gali būti registruojami nebaigti statyti jūrų laivai, jeigu:
 
 
-1) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka yra parengtas ir suderintas statomo laivo projektas; ^507981940c402ae0fb1c18ac
+1) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka yra parengtas ir suderintas statomo laivo projektas; ^s-84ed240a9e778cba70fc292a
 
 
-2) sudaryta laivo statybos rangos sutartis; ^af63023005a1491cb8e4f134
+2) sudaryta laivo statybos rangos sutartis; ^s-2e27a4063bec9ac8e80a388b
 
 
-3) atlikta ne mažiau kaip 20 procentų laivo korpuso statybos darbų.“ ^1a22c7d21822489a054c8b74
+3) atlikta ne mažiau kaip 20 procentų laivo korpuso statybos darbų.“ ^s-4be4eb843339037a23930368
 
 
-2. Buvusią [[#^d9c7000e5a933bf2e4f69060|8 straipsnio 3 dalį]] laikyti 4 dalimi. ^ca88b26940c4dbac548c182c
+2. Buvusią [[#^s-f3d5062166cbd064c2536f13|8 straipsnio 3 dalį]] laikyti 4 dalimi. ^s-af6a3ead786c86030a107db3
 
 
 
-### 6 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-0dcaf161ffef0593ffb452d4
 
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -139,119 +144,119 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 14 straipsnio pakeitimas
+### 7 straipsnis. 14 straipsnio pakeitimas ^s-26260d181b472cddca063d57
 
 
-Pakeisti [[#14 straipsnis.       27 straipsnio pavadinimo pakeitimas, 1 ir 2 dalių pripažinimas netekusiomis galios|14 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-03f2e8431a3110bf67743f64|14 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#14 straipsnis.       27 straipsnio pavadinimo pakeitimas, 1 ir 2 dalių pripažinimas netekusiomis galios|14 straipsnis]]. Krovinių vežimas jūra
+„[[#^s-03f2e8431a3110bf67743f64|14 straipsnis]]. Krovinių vežimas jūra
 
 
-1. Krovinių vežimo jūra sutarties sudarymo faktas ir jos turinys patvirtinamas konosamentu ar kitu dokumentu. ^4bb043b84bc0833d2aca3748
+1. Krovinių vežimo jūra sutarties sudarymo faktas ir jos turinys patvirtinamas konosamentu ar kitu dokumentu. ^s-7bb398864d2556029f23b5fe
 
 
-2. Kroviniai jūra vežami vadovaujantis 1924 m. tarptautine konvencija dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeista 1968 m. Briuselio protokolu, iš dalies pakeičiančiu Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir iš dalies pakeista Protokolu (protokolas dėl SST), iš dalies pakeičiančiu 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės). ^f4d59af179b20063901407c7
+2. Kroviniai jūra vežami vadovaujantis 1924 m. tarptautine konvencija dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeista 1968 m. Briuselio protokolu, iš dalies pakeičiančiu Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir iš dalies pakeista Protokolu (protokolas dėl SST), iš dalies pakeičiančiu 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės). ^s-acbb55e8b616863b03a7e15f
 
 
-3. Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių sutarimu nenustatyta kitaip.“ ^20f03162f2763968f949be24
+3. Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių sutarimu nenustatyta kitaip.“ ^s-cf2597c62ec95bdbd8ad1cfc
 
 
 
-### 8 straipsnis.         15 straipsnio pavadinimo ir 1 dalies pakeitimas bei straipsnio papildymas 3 dalimi
+### 8 straipsnis.         15 straipsnio pavadinimo ir 1 dalies pakeitimas bei straipsnio papildymas 3 dalimi ^s-1018bdf8adabf2b06d4bf420
 
 
-1. Pakeisti [[#15 straipsnis. 28 straipsnio pripažinimas netekusiu galios|15 straipsnio]] pavadinimą ir jį išdėstyti taip: ^8c343efe50a857d60fac8081
+1. Pakeisti [[#^s-0fe2f802550a47c5756dd520|15 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-ce9949c1c4d473a00f4fe25b
 
 
 „15 straipsnis. Konosamento išdavimas ir dokumentų pateikimas vežėjui“.
 
 
-2. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip: ^8d4a0ee8cf34d47350164142
+2. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip: ^s-081b7d1b71ba9cf318753653
 
 
 „1. Konosamento išdavimo sąlygas nustato 1924 m. tarptautinė konvencija dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeista 1968 m. Briuselio protokolu, iš dalies pakeičiančiu Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir iš dalies pakeista Protokolu (protokolas dėl SST), iš dalies pakeičiančiu 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės).“
 
 
-3. Papildyti 15 straipsnį 3 dalimi: ^d9c7000e5a933bf2e4f69060
+3. Papildyti 15 straipsnį 3 dalimi: ^s-f3d5062166cbd064c2536f13
 
 
 „3. Krovinių siuntėjas turi laiku perduoti vežėjui visus su kroviniais susijusius dokumentus, kurių reikalauja uosto, muitinės, sanitarijos arba kitos institucijos, ir atsakyti už nuostolius, atsiradusius vežėjui dėl to, kad šie dokumentai buvo perduoti ne laiku, netinkami arba neišsamūs.“
 
 
 
-### 9 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+### 9 straipsnis. 16 straipsnio pripažinimas netekusiu galios ^s-bb23718b69822346c311bb91
 
 
-[[#16 straipsnis. 30 straipsnio pripažinimas netekusiu galios|16 straipsnį]] pripažinti netekusiu galios.
-
-
-
-### 10 straipsnis. 17 straipsnio pripažinimas netekusiu galios
-
-
-[[#17 straipsnis. Įstatymo šeštojo skirsnio pavadinimo pakeitimas|17 straipsnį]] pripažinti netekusiu galios.
+[[#^s-f872d6b7ffa208ec2ab093c1|16 straipsnį]] pripažinti netekusiu galios.
 
 
 
-### 11 straipsnis. 18 straipsnio pripažinimas netekusiu galios
+### 10 straipsnis. 17 straipsnio pripažinimas netekusiu galios ^s-5d5f1b6e546d619c792f19be
 
 
-[[#18 straipsnis. Įstatymo papildymas  401 straipsniu|18 straipsnį]] pripažinti netekusiu galios.
-
-
-
-### 12 straipsnis. 19 straipsnio pripažinimas netekusiu galios
-
-
-[[#19 straipsnis. Įstatymo devintojo skirsnio pavadinimo pakeitimas|19 straipsnį]] pripažinti netekusiu galios.
+[[#^s-fd65b16b4913761698928091|17 straipsnį]] pripažinti netekusiu galios.
 
 
 
-### 13 straipsnis. 21 straipsnio pakeitimas
+### 11 straipsnis. 18 straipsnio pripažinimas netekusiu galios ^s-081dd8ed6ae70b31026508ad
 
 
-Pakeisti [[#21 straipsnis. 69 straipsnio pripažinimas netekusiu galios|21 straipsnio]] pavadinimą, 1 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+[[#^s-aa1e43174910216262c7f54d|18 straipsnį]] pripažinti netekusiu galios.
 
 
-„[[#21 straipsnis. 69 straipsnio pripažinimas netekusiu galios|21 straipsnis]]. Krovinio perkrovimas į kitą laivą
+
+### 12 straipsnis. 19 straipsnio pripažinimas netekusiu galios ^s-aafd30396c19659ce0c03d09
+
+
+[[#^s-3b200fba008a62d8ed294a3a|19 straipsnį]] pripažinti netekusiu galios.
+
+
+
+### 13 straipsnis. 21 straipsnio pakeitimas ^s-a8e58771a887e50d6c333c3a
+
+
+Pakeisti [[#^s-7f5e1c9edc4a26f616e9d970|21 straipsnio]] pavadinimą, 1 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+
+
+„[[#^s-7f5e1c9edc4a26f616e9d970|21 straipsnis]]. Krovinio perkrovimas į kitą laivą
 
 
 Jeigu kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į kitą laivą tik krovinių siuntėjui sutikus, išskyrus krovinių perkrovimą dėl techninio būtinumo, atsiradusio pradėjus krovimo darbus.“
 
 
 
-### 14 straipsnis.       27 straipsnio pavadinimo pakeitimas, 1 ir 2 dalių pripažinimas netekusiomis galios
+### 14 straipsnis.       27 straipsnio pavadinimo pakeitimas, 1 ir 2 dalių pripažinimas netekusiomis galios ^s-03f2e8431a3110bf67743f64
 
 
-1. Pakeisti [[#27 straipsnis. 75 straipsnio pakeitimas|27 straipsnio]] pavadinimą ir jį išdėstyti taip: ^3fb7484ddc0a1bd4fad407aa
+1. Pakeisti [[#^s-09da909082815258beb0bcb6|27 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-2370940270de62dc1ac902ac
 
 
 „27 straipsnis. Krovinių vežimo ypatumai“.
 
 
-2. [[#^8137774d77f5c525d06a5609|27 straipsnio 1 dalį]] pripažinti netekusia galios. ^e15982374840f5c4a0da463c
+2. [[#^s-3df44333ee35edfdffecc242|27 straipsnio 1 dalį]] pripažinti netekusia galios. ^s-91ed25afc780c13c820aa179
 
 
-3. [[#^8584171c3faf6d1a90e1673a|27 straipsnio 2 dalį]] pripažinti netekusia galios. ^154af7f5cfc33f14caf18896
-
-
-
-### 15 straipsnis. 28 straipsnio pripažinimas netekusiu galios
-
-
-[[#28 straipsnis. 77 straipsnio pripažinimas netekusiu galios|28 straipsnį]] pripažinti netekusiu galios.
+3. [[#^s-8b09989d4af64605d9251b2b|27 straipsnio 2 dalį]] pripažinti netekusia galios. ^s-edcf8bcc87927c5fe4c14121
 
 
 
-### 16 straipsnis. 30 straipsnio pripažinimas netekusiu galios
+### 15 straipsnis. 28 straipsnio pripažinimas netekusiu galios ^s-0fe2f802550a47c5756dd520
 
 
-[[#30 straipsnis. 86 straipsnio pavadinimo ir 1, 2 dalių pakeitimas|30 straipsnį]] pripažinti netekusiu galios.
+[[#^s-9c070ef928f16b686a6c2974|28 straipsnį]] pripažinti netekusiu galios.
 
 
 
-### 17 straipsnis. Įstatymo šeštojo skirsnio pavadinimo pakeitimas
+### 16 straipsnis. 30 straipsnio pripažinimas netekusiu galios ^s-f872d6b7ffa208ec2ab093c1
+
+
+[[#^s-38183ce55f66feded60296e8|30 straipsnį]] pripažinti netekusiu galios.
+
+
+
+### 17 straipsnis. Įstatymo šeštojo skirsnio pavadinimo pakeitimas ^s-fd65b16b4913761698928091
 
 
 Įstatymo šeštojo skirsnio pavadinime po žodžio „frachtavimas“ įrašyti žodžius „laivų agentavimas“ ir šį pavadinimą išdėstyti taip:
@@ -261,7 +266,7 @@ Jeigu kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į k
 
 
 
-### 18 straipsnis. Įstatymo papildymas  401 straipsniu
+### 18 straipsnis. Įstatymo papildymas  401 straipsniu ^s-aa1e43174910216262c7f54d
 
 
 Papildyti Įstatymą 40(1) straipsniu:
@@ -273,26 +278,26 @@ Papildyti Įstatymą 40(1) straipsniu:
 Laivų agentavimas apima šių paslaugų teikimą:
 
 
-1) tarpininkavimą įsigyjant ir perleidžiant laivus; ^995f3f4869a6931328825f44
+1) tarpininkavimą įsigyjant ir perleidžiant laivus; ^s-6cff42cb23ef5f425c989a66
 
 
-2) tarpininkavimą sudarant frachtavimo sutartį ir frachtavimo sutarties vykdymo priežiūros vykdymą; ^e40eff262f24dee194437640
+2) tarpininkavimą sudarant frachtavimo sutartį ir frachtavimo sutarties vykdymo priežiūros vykdymą; ^s-9981252fe4d5ffc1b233b00d
 
 
-3) frachto, uosto rinkliavų ir kitų mokesčių bei rinkliavų surinkimą ir mokėjimą; ^7efe1b73a0cfcc1d31ff641e
+3) frachto, uosto rinkliavų ir kitų mokesčių bei rinkliavų surinkimą ir mokėjimą; ^s-027415dac1fe53b522bab231
 
 
-4) muitinės ir krovinio dokumentų tvarkymą ir kitus su tuo susijusius veiksmus; ^b87528fe1e7cbb684be23ad1
+4) muitinės ir krovinio dokumentų tvarkymą ir kitus su tuo susijusius veiksmus; ^s-02bbd8602cfdf16dc5e2d243
 
 
-5) laivo atplaukimo į uostą ir išplaukimo iš uosto, taip pat krovos darbų organizavimą; ^2b2d42a06d52fe8a4f07716b
+5) laivo atplaukimo į uostą ir išplaukimo iš uosto, taip pat krovos darbų organizavimą; ^s-230afe167cf687a6893b105a
 
 
-6) laivo aprūpinimo ir aptarnavimo organizavimą uoste.“ ^e02c4fe0e31d77807a076425
+6) laivo aprūpinimo ir aptarnavimo organizavimą uoste.“ ^s-8eba30943c3a2cdc4d828219
 
 
 
-### 19 straipsnis. Įstatymo devintojo skirsnio pavadinimo pakeitimas
+### 19 straipsnis. Įstatymo devintojo skirsnio pavadinimo pakeitimas ^s-3b200fba008a62d8ed294a3a
 
 
 Įstatymo devintojo skirsnio pavadinime po žodžio „susidūrimas“ įrašyti žodžius „nuostolių, atsiradusių siekiant išvengti povandeninio kabelio ar vamzdyno pažeidimo, atlyginimas“ ir šį pavadinimą išdėstyti taip:
@@ -302,7 +307,7 @@ Laivų agentavimas apima šių paslaugų teikimą:
 
 
 
-### 20 straipsnis. Įstatymo papildymas 571 straipsniu
+### 20 straipsnis. Įstatymo papildymas 571 straipsniu ^s-91791efd5ab35987418a6889
 
 
 Papildyti Įstatymą 571 straipsniu:
@@ -311,59 +316,59 @@ Papildyti Įstatymą 571 straipsniu:
 „571 straipsnis.   Nuostolių, atsiradusių siekiant išvengti povandeninio kabelio ar vamzdyno pažeidimo, atlyginimas
 
 
-1. Povandeninio kabelio ar vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų, kurie įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos įrangą) siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo. ^512afba9ea78c583487b92e8
+1. Povandeninio kabelio ar vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų, kurie įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos įrangą) siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo. ^s-a950671ea130ae6391913b49
 
 
-2. [[#^512afba9ea78c583487b92e8|Šio straipsnio 1 dalyje]] nustatyta prievolė atlyginti nuostolius atsiranda tik tuomet, jei laivo savininkai ėmėsi visų protingų priemonių, kad būtų išvengta nuostolių.“ ^9794a6b634909c40deda7c60
+2. [[#^s-a950671ea130ae6391913b49|Šio straipsnio 1 dalyje]] nustatyta prievolė atlyginti nuostolius atsiranda tik tuomet, jei laivo savininkai ėmėsi visų protingų priemonių, kad būtų išvengta nuostolių.“ ^s-b25f645f3ae4df3d43b57823
 
 
 
-### 21 straipsnis. 69 straipsnio pripažinimas netekusiu galios
+### 21 straipsnis. 69 straipsnio pripažinimas netekusiu galios ^s-7f5e1c9edc4a26f616e9d970
 
 
 69 straipsnį pripažinti netekusiu galios.
 
 
 
-### 22 straipsnis. 70 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
+### 22 straipsnis. 70 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios ^s-fe59f140b5432172c4b23483
 
 
-1. 70 straipsnio 2 dalį pripažinti netekusia galios. ^2ca59a68d9fa9bdba7c2a7bd
+1. 70 straipsnio 2 dalį pripažinti netekusia galios. ^s-175494ee142d20414cac02cf
 
 
-2. 70 straipsnio 3 dalį pripažinti netekusia galios. ^497f64ce5d24bd43b95757af
+2. 70 straipsnio 3 dalį pripažinti netekusia galios. ^s-d88f209cfd4f9993441142ab
 
 
 
-### 23 straipsnis. 71 straipsnio pripažinimas netekusiu galios
+### 23 straipsnis. 71 straipsnio pripažinimas netekusiu galios ^s-0e038ee1b8d38052b6b72d45
 
 
 71 straipsnį pripažinti netekusiu galios.
 
 
 
-### 24 straipsnis. 72 straipsnio pripažinimas netekusiu galios
+### 24 straipsnis. 72 straipsnio pripažinimas netekusiu galios ^s-0c66ab2f56b74c91982923d8
 
 
 72 straipsnį pripažinti netekusiu galios.
 
 
 
-### 25 straipsnis. 73 straipsnio pripažinimas netekusiu galios
+### 25 straipsnis. 73 straipsnio pripažinimas netekusiu galios ^s-2245dfd0cb0480a7579a8b74
 
 
 73 straipsnį pripažinti netekusiu galios.
 
 
 
-### 26 straipsnis. 74 straipsnio pripažinimas netekusiu galios
+### 26 straipsnis. 74 straipsnio pripažinimas netekusiu galios ^s-f0fb3ac7b7bf1e89fd082231
 
 
 74 straipsnį pripažinti netekusiu galios.
 
 
 
-### 27 straipsnis. 75 straipsnio pakeitimas
+### 27 straipsnis. 75 straipsnio pakeitimas ^s-09da909082815258beb0bcb6
 
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
@@ -372,95 +377,95 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 „75 straipsnis. Terminai pretenzijoms ir ieškiniams pareikšti
 
 
-1. Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo, taikomi ieškinio senaties terminai, nustatyti šio straipsnio 6 ir [[#^322f2c89f4e4b3a4c96847b0|7 dalyse]]. ^8137774d77f5c525d06a5609
+1. Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo, taikomi ieškinio senaties terminai, nustatyti šio straipsnio 6 ir [[#^s-48c7e3550d039d2d8d8396f1|7 dalyse]]. ^s-3df44333ee35edfdffecc242
 
 
-2. Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmuosius  3 ieškinio senaties termino mėnesius. ^8584171c3faf6d1a90e1673a
+2. Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmuosius  3 ieškinio senaties termino mėnesius. ^s-8b09989d4af64605d9251b2b
 
 
-3. Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar krovinio perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas neakivaizdus, – per tris dienas. ^5258a6064fdefceb6aa547f5
+3. Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar krovinio perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas neakivaizdus, – per tris dienas. ^s-f3f25859952341afffcac24c
 
 
-4. Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45 ieškinio senaties termino dienas. ^09e0acd2604839470c95d25a
+4. Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45 ieškinio senaties termino dienas. ^s-57ebb6d129a045ddcd9ba76d
 
 
-5. Vežėjas pareikštą pretenziją privalo išnagrinėti per 3 mėnesius nuo pretenzijos gavimo dienos ir pranešti pareiškėjui apie jos patenkinimą arba atmetimą. Pretenzija, kylanti iš vežimo kabotažu, dėl dispačo ar demeredžo arba netesybų mokėjimo už laivo nepateikimą ar pavėluotą pateikimą, privalo būti išnagrinėta per 45 dienas. ^f64cd823904cfa8db107ee9f
+5. Vežėjas pareikštą pretenziją privalo išnagrinėti per 3 mėnesius nuo pretenzijos gavimo dienos ir pranešti pareiškėjui apie jos patenkinimą arba atmetimą. Pretenzija, kylanti iš vežimo kabotažu, dėl dispačo ar demeredžo arba netesybų mokėjimo už laivo nepateikimą ar pavėluotą pateikimą, privalo būti išnagrinėta per 45 dienas. ^s-e584a8fc4fc3bf0adfd024bd
 
 
-6. Šioje dalyje nurodytiems reikalavimams taikomas vienerių metų ieškinio senaties terminas. Šis terminas skaičiuojamas: ^ba207cefa551c18822051fe9
+6. Šioje dalyje nurodytiems reikalavimams taikomas vienerių metų ieškinio senaties terminas. Šis terminas skaičiuojamas: ^s-0607b7daf6ac7760569b4b24
 
 
-1) reikalavimams, kylantiems iš krovinių ar bagažo vežimo jūra, taip pat reikalavimams dėl dispačo arba demeredžo sumokėjimo – nuo krovinių ar bagažo išdavimo dienos, o jeigu kroviniai ar bagažas nebuvo išduoti – nuo tos dienos, kurią jie turėjo būti išduoti; ^491279d34bb75e885ed7e764
+1) reikalavimams, kylantiems iš krovinių ar bagažo vežimo jūra, taip pat reikalavimams dėl dispačo arba demeredžo sumokėjimo – nuo krovinių ar bagažo išdavimo dienos, o jeigu kroviniai ar bagažas nebuvo išduoti – nuo tos dienos, kurią jie turėjo būti išduoti; ^s-4f11ede10b8fb746497b9cd1
 
 
-2) reikalavimams, kylantiems iš laivo frachtavimo tam tikram laikui, laivo išperkamosios nuomos ir buksyravimo jūra sutarčių, iš laivo kapitono sudarytų sandorių bei naudojimosi locmanų paslaugomis, – nuo tos dienos, kai atsirado teisė į ieškinį. ^92184949b128375787c75419
+2) reikalavimams, kylantiems iš laivo frachtavimo tam tikram laikui, laivo išperkamosios nuomos ir buksyravimo jūra sutarčių, iš laivo kapitono sudarytų sandorių bei naudojimosi locmanų paslaugomis, – nuo tos dienos, kai atsirado teisė į ieškinį. ^s-446369fd79b60d3000243cef
 
 
-7. Šioje dalyje nurodytiems reikalavimams taikomas 2 metų ieškinio senaties terminas. Šis terminas skaičiuojamas: ^322f2c89f4e4b3a4c96847b0
+7. Šioje dalyje nurodytiems reikalavimams taikomas 2 metų ieškinio senaties terminas. Šis terminas skaičiuojamas: ^s-48c7e3550d039d2d8d8396f1
 
 
-1) reikalavimams, kylantiems iš keleivių vežimo sutarties: dėl keleivių vežimo – nuo tos dienos, kurią keleivis išlipo ar turėjo išlipti iš laivo, o jeigu reikalaujama  atlyginti žalą dėl keleivio sveikatos sužalojimo ar gyvybės atėmimo, – nuo keleivio sužalojimo ar mirties dienos, bet ne vėliau kaip po 3 metų nuo dienos, kurią keleivis paliko laivą; ^37c52cb3bfe41c58f4a68706
+1) reikalavimams, kylantiems iš keleivių vežimo sutarties: dėl keleivių vežimo – nuo tos dienos, kurią keleivis išlipo ar turėjo išlipti iš laivo, o jeigu reikalaujama  atlyginti žalą dėl keleivio sveikatos sužalojimo ar gyvybės atėmimo, – nuo keleivio sužalojimo ar mirties dienos, bet ne vėliau kaip po 3 metų nuo dienos, kurią keleivis paliko laivą; ^s-a78767c0b4409a7ad94551d4
 
 
-2)  reikalavimams dėl nuostolių, padarytų susidūrus laivams, atlyginimo – nuo laivų susidūrimo dienos; ^cede8c9ce6fbc0db44d0a69f
+2)  reikalavimams dėl nuostolių, padarytų susidūrus laivams, atlyginimo – nuo laivų susidūrimo dienos; ^s-fca45018e99b51703ec79a0f
 
 
-3) reikalavimams dėl atlyginimo už turto gelbėjimo operacijas – nuo gelbėjimo operacijų užbaigimo dienos. ^6b0255f107263134d9c335ff
+3) reikalavimams dėl atlyginimo už turto gelbėjimo operacijas – nuo gelbėjimo operacijų užbaigimo dienos. ^s-659ed323ce1d79241ab6dfdd
 
 
-8. [[#^ba207cefa551c18822051fe9|Šio straipsnio 6 dalyje]] nustatytas vienerių metų ieškinio senaties terminas reikalavimams, kylantiems iš krovinių vežimo jūra, šalių susitarimu gali būti pratęstas, jeigu šalys taip susitarė po to, kai atsirado pagrindas pareikšti ieškinį. ^691de145e129f7bce4b4a0b3
+8. [[#^s-0607b7daf6ac7760569b4b24|Šio straipsnio 6 dalyje]] nustatytas vienerių metų ieškinio senaties terminas reikalavimams, kylantiems iš krovinių vežimo jūra, šalių susitarimu gali būti pratęstas, jeigu šalys taip susitarė po to, kai atsirado pagrindas pareikšti ieškinį. ^s-d2607eaf795ce10fb7cdeb27
 
 
-9. Reikalavimams, kuriems ieškinio senaties terminai šiame įstatyme nenumatyti, taikomas bendrasis ieškinio senaties terminas, nustatytas Lietuvos Respublikos civiliniame kodekse.“ ^e70eccd7d0d0a93828e48aae
+9. Reikalavimams, kuriems ieškinio senaties terminai šiame įstatyme nenumatyti, taikomas bendrasis ieškinio senaties terminas, nustatytas Lietuvos Respublikos civiliniame kodekse.“ ^s-cd817bb6e388ab3ba487aebe
 
 
 
-### 28 straipsnis. 77 straipsnio pripažinimas netekusiu galios
+### 28 straipsnis. 77 straipsnio pripažinimas netekusiu galios ^s-9c070ef928f16b686a6c2974
 
 
 77 straipsnį pripažinti netekusiu galios.
 
 
 
-### 29 straipsnis. 85 straipsnio pavadinimo ir 1 dalies pakeitimas
+### 29 straipsnis. 85 straipsnio pavadinimo ir 1 dalies pakeitimas ^s-72528ab951d2d57181b8c549
 
 
-1. Pakeisti 85 straipsnio pavadinimą ir jį išdėstyti taip: ^6a488d8df573256646118e5b
+1. Pakeisti 85 straipsnio pavadinimą ir jį išdėstyti taip: ^s-be029cb16118d1f976564cfc
 
 
 „85 straipsnis. Tinkamų darbo ir poilsio sąlygų jūrininkų reiso metu sudarymas“.
 
 
-2. Pakeisti 85 straipsnio 1 dalį ir ją išdėstyti taip: ^b806b9e8dbdfdba1663aa3de
+2. Pakeisti 85 straipsnio 1 dalį ir ją išdėstyti taip: ^s-f3469c12380777b5405c5c1c
 
 
 „1. Laivo valdytojas privalo pasirūpinti, kad jūrininkų reiso metu būtų sudarytos tinkamos darbo ir poilsio sąlygos.“
 
 
 
-### 30 straipsnis. 86 straipsnio pavadinimo ir 1, 2 dalių pakeitimas
+### 30 straipsnis. 86 straipsnio pavadinimo ir 1, 2 dalių pakeitimas ^s-38183ce55f66feded60296e8
 
 
-1. Pakeisti 86 straipsnio pavadinimą ir jį išdėstyti taip: ^437b2fb102fc2484d64e97a5
+1. Pakeisti 86 straipsnio pavadinimą ir jį išdėstyti taip: ^s-46e79c4e3420c48f743110f5
 
 
 „86 straipsnis. Jūrininkų teisės ir pareigos jūrininkų reiso metu“.
 
 
-2. Pakeisti 86 straipsnio 1 dalį ir ją išdėstyti taip: ^5f5f34c987130f387bc391a8
+2. Pakeisti 86 straipsnio 1 dalį ir ją išdėstyti taip: ^s-75b4d67027a47c7f884e6c0f
 
 
 „1. Jūrininkų teisės ir pareigos jūrininkų reiso metu numatomos šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose, Susisiekimo ministerijos patvirtintame Tarnybos Lietuvos Respublikos jūrų laivuose statute, darbo sutartyje bei pareiginėse instrukcijose.“
 
 
-3. Pakeisti 86 straipsnio 2 dalį ir ją išdėstyti taip: ^b1765efb7aafdd58d4cf3ba7
+3. Pakeisti 86 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0338e5497fa17c2b710b5071
 
 
 „2. Jūrininkas turi teisę į darbą ir į poilsį. Darbo laiko ir poilsio laiko ypatumus jūrų transporte nustato Vyriausybė.“
 
 
 
-### 31 straipsnis. Įstatymo papildymas priedu
+### 31 straipsnis. Įstatymo papildymas priedu ^s-c80f89be4ce5140927581ad8
 
 
 Papildyti Įstatymą priedu:
@@ -469,36 +474,36 @@ Papildyti Įstatymą priedu:
 
 „Lietuvos Respublikos
 1996 m. rugsėjo 12 d.
-įstatymo Nr. I-1513
+[[latest/TAR.38B0127A21E8|įstatymo Nr. I-1513]]
 priedas
 
 Įgyvendinami Europos Sąjungos teisės aktai
 
 
 
-1. 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių. ^7019f7ca98f9f077167c0205
+1. 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių. ^s-c82a46931c3e4d20697c5b53
 
 
-2. 1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės teikti paslaugas jūrų transportui valstybėse narėse principą (jūrų kabotažas). ^ce28087d01b661cabf272663
+2. 1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės teikti paslaugas jūrų transportui valstybėse narėse principą (jūrų kabotažas). ^s-757ef083699c225992ed57f7
 
 
-3. 1999 m. liepos 21 d. Tarybos direktyva Nr. 1999/63/EB dėl susitarimo dėl jūrininkų darbo laiko, sudaryto tarp Europos Bendrijų laivų savininkų asociacijos (ECSA) ir Transporto darbuotojų sąjungų federacijos.“ ^967ffcf9cfc33a7fd5bd4a4f
+3. 1999 m. liepos 21 d. Tarybos direktyva Nr. 1999/63/EB dėl susitarimo dėl jūrininkų darbo laiko, sudaryto tarp Europos Bendrijų laivų savininkų asociacijos (ECSA) ir Transporto darbuotojų sąjungų federacijos.“ ^s-0a5022854293431e6d041bde
 
 
 
-### 32 straipsnis. Įstatymo įsigaliojimas
+### 32 straipsnis. Įstatymo įsigaliojimas ^s-1be3415f7393a43e220e71c9
 
 
-1. Šio Įstatymo [[#6 straipsnis. 11 straipsnio 2 dalies pakeitimas|6 straipsnis]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. ^b522193e342524c016b27554
+1. Šio Įstatymo [[#^s-0dcaf161ffef0593ffb452d4|6 straipsnis]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. ^s-14386f796c7732cf3031fe2e
 
 
-2. Šio Įstatymo 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, [[#27 straipsnis. 75 straipsnio pakeitimas|27 straipsniai]] įsigalioja nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai. ^89f5433a4476ae8548d7f858
+2. Šio Įstatymo 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, [[#^s-09da909082815258beb0bcb6|27 straipsniai]] įsigalioja nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai. ^s-1274d9b41537027062ef9d5c
 
 
-3. Šio Įstatymo 19 ir [[#20 straipsnis. Įstatymo papildymas 571 straipsniu|20 straipsniai]] įsigalioja nuo Jungtinių Tautų Organizacijos Jūrų teisės konvencijos įsigaliojimo Lietuvos Respublikai. ^e7eb0849dad908c595834ca3
+3. Šio Įstatymo 19 ir [[#^s-91791efd5ab35987418a6889|20 straipsniai]] įsigalioja nuo Jungtinių Tautų Organizacijos Jūrų teisės konvencijos įsigaliojimo Lietuvos Respublikai. ^s-2ed9a34c3e6bd72f2e66c71c
 
 
-4. Vyriausybė ar jos įgaliota institucija iki 2003 m. gruodžio 31 d. parengia teisės aktus, reikalingus šiam Įstatymui įgyvendinti. ^06b3667c28f60e87d87a43ab
+4. Vyriausybė ar jos įgaliota institucija iki 2003 m. gruodžio 31 d. parengia teisės aktus, reikalingus šiam Įstatymui įgyvendinti. ^s-bd258a53594e4078e1bb7a53
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6E4F763534E5"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymo 1, 2 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymo 1, 2 ir 7 straipsnių pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 5, 6, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymo 1, 2 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-31"
 latest_path: "latest/TAR.6E4F763534E5.md"
 latest_sha256: "993c50546f65f1c7adddb8a585a855a56ad402774ddf27be9add6e9ba80390e4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6E4F763534E5]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymo 1, 2 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6E4F763534E5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6E4F763534E5
+- Ryšiai: [[Ryšiai/TAR.6E4F763534E5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-fa2e67c2905c21920a00ad92
 
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-6e1a347c29b76a1e26515ea5
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
@@ -60,7 +65,7 @@ Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 7 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 7 straipsnio 3 dalies pakeitimas ^s-c3ba2119b061e21afcd5a44a
 
 
 Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:

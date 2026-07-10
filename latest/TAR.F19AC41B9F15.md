@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F19AC41B9F15"
 pavadinimas: "Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas"
+  - "nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-03-31"
 latest_path: "latest/TAR.F19AC41B9F15.md"
 latest_sha256: "414a28fc98f1bcfd9d44ea70d21c64fdc574b97f52ed28d17643448266dc2eed"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F19AC41B9F15]]"
 ---
 # Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F19AC41B9F15.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F19AC41B9F15
+- Ryšiai: [[Ryšiai/TAR.F19AC41B9F15|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,95 +39,95 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-b1a0a6db48ec6a7da0e0a5e4
 
 
 Šis įstatymas nustato Lietuvos Respublikos nepriklausomybės gynėjų ir pripažįstamų nukentėjusiais asmenimis jų šeimų narių, kurie nukentėjo nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, teisinio statuso pripažinimo kriterijus ir tvarką.
 
 
 
-### 2 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas
+### 2 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas ^s-c43bbe86bb82f9973dc5dc4a
 
 
 Lietuvos Respublikos nepriklausomybės gynėjais, nukentėjusiais nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažįstami asmenys, kurie:
 
 
-1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros išduotos pažymos); ^893d13b0ee1fe17886e1ac32
+1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros išduotos pažymos); ^s-85b7a1ce7b51e011606a6ca3
 Straipsnio punkto pakeitimai:
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. [[latest/TAR.008FB9670B82|1051010ISTA000X-295]]
 
 
 
-2) buvo sužaloti dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos ir turi Generalinės prokuratūros pažymas, patvirtinančias sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 m., faktą. ^dc5c91ce0537f9ff9f7f0358
+2) buvo sužaloti dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos ir turi Generalinės prokuratūros pažymas, patvirtinančias sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 m., faktą. ^s-78964c663e1f85b7d24866d0
 Straipsnio punkto pakeitimai:
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. [[latest/TAR.008FB9670B82|1051010ISTA000X-295]]
 
 
 
-### 3 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų šeimų narių, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas
+### 3 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų šeimų narių, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas ^s-7ce5169c62a7f411be00ea71
 
 
 Lietuvos Respublikos nepriklausomybės gynėjų šeimų nariais, nukentėjusiais nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažįstami:
 
 
-1) žuvusiųjų vaikai (įvaikiai); ^8715f76b468390e18ff0522d
+1) žuvusiųjų vaikai (įvaikiai); ^s-659165958e5174877713e9d1
 
 
-2) žuvusiųjų našliai (našlės); ^d2c63fd2e52df48c19f4b1a3
+2) žuvusiųjų našliai (našlės); ^s-f0a97616f8d210a5140dafd7
 
 
-3) žuvusiųjų tėvai (įtėviai); ^a10e564946cd390623e8ee40
+3) žuvusiųjų tėvai (įtėviai); ^s-14e76888542dbe2c96dd78cf
 
 
-4) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, sutuoktiniai; ^1ab226311993e05216e5feca
+4) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, sutuoktiniai; ^s-78e136515b5b3cb32aa5693e
 Straipsnio punkto pakeitimai:
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. [[latest/TAR.008FB9670B82|1051010ISTA000X-295]]
 
 
 
-5) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, nepilnamečiai vaikai (įvaikiai); ^210e529cb49f3393a22b890b
+5) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, nepilnamečiai vaikai (įvaikiai); ^s-b7f8cc41379f2d960fd42dca
 Straipsnio punkto pakeitimai:
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. [[latest/TAR.008FB9670B82|1051010ISTA000X-295]]
 
 
 
-6) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tėvai (įtėviai). ^165a15eb5e5b53a0d1fdc4a7
+6) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tėvai (įtėviai). ^s-cc5e182dfc0e8ddd5090f5af
 Straipsnio punkto pakeitimai:
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. [[latest/TAR.008FB9670B82|1051010ISTA000X-295]]
 
 
 
-### 4 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimas
+### 4 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimas ^s-294924a956425a4dfdd293ba
 
 
-1. Šio įstatymo [[#2 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas|2 straipsnyje]] išvardytiems asmenims pripažįstamas nepriklausomybės gynėjo, nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, teisinis statusas. ^aa3176dfcf81995877023969
+1. Šio įstatymo [[#^s-c43bbe86bb82f9973dc5dc4a|2 straipsnyje]] išvardytiems asmenims pripažįstamas nepriklausomybės gynėjo, nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, teisinis statusas. ^s-b867b853c9faa484611e77d6
 
 
-2. Šio įstatymo [[#3 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų šeimų narių, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas|3 straipsnyje]] išvardytiems asmenims pripažįstamas nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmens teisinis statusas. ^5d1b6d409803d68b0f6d9fc1
-
-
-
-### 5 straipsnis. Baigiamosios nuostatos
-
-
-1. Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims valstybės paramos teikimo sąlygas ir tvarką nustato įstatymai ir kiti teisės aktai. ^38e91f8d854506f2a2f49d19
-
-
-2. Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims pripažįsta atitinkamą teisinį statusą, išduoda pažymėjimus bei tvarko jų apskaitą vietos savivaldos vykdomosios institucijos. ^c57bcadefed53cb917ce0af6
+2. Šio įstatymo [[#^s-7ce5169c62a7f411be00ea71|3 straipsnyje]] išvardytiems asmenims pripažįstamas nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmens teisinis statusas. ^s-f6ae40d968af5edf7d832364
 
 
 
-### 6 straipsnis. Pasiūlymas Vyriausybei
+### 5 straipsnis. Baigiamosios nuostatos ^s-b5dbff5b641942aa2cb092b2
+
+
+1. Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims valstybės paramos teikimo sąlygas ir tvarką nustato įstatymai ir kiti teisės aktai. ^s-b0d1fca5c4a03ab21bdaa6bc
+
+
+2. Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims pripažįsta atitinkamą teisinį statusą, išduoda pažymėjimus bei tvarko jų apskaitą vietos savivaldos vykdomosios institucijos. ^s-73199b836520c000e3e123a6
+
+
+
+### 6 straipsnis. Pasiūlymas Vyriausybei ^s-a46c56f811809329da59987f
 
 
 Vyriausybė ar jos įgaliota institucija iki 2000 m. kovo 31 d. parengia ir patvirtina Nepriklausomybės gynėjo, nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, ir nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmens teisinio statuso pripažinimo, pažymėjimų išdavimo bei jų apskaitos nuostatus.
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-2db030ac81d28adf20e9e948
 
 
-Šis įstatymas, išskyrus [[#6 straipsnis. Pasiūlymas Vyriausybei|6 straipsnį]], įsigalioja nuo 2000 m. kovo 31 d.
+Šis įstatymas, išskyrus [[#^s-a46c56f811809329da59987f|6 straipsnį]], įsigalioja nuo 2000 m. kovo 31 d.
 
 
 

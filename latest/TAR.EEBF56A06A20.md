@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EEBF56A06A20"
 pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 8 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės reformos įstatymo 8 ir 21 straipsnių pakeitimo įstatymas"
+  - "žemės reformos įstatymo 8 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-24"
 latest_path: "latest/TAR.EEBF56A06A20.md"
 latest_sha256: "3245ccd580b862339b107c3ba4c671f6ff37ba050c71cc897529b6162518f913"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EEBF56A06A20]]"
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 8 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EEBF56A06A20.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EEBF56A06A20
+- Ryšiai: [[Ryšiai/TAR.EEBF56A06A20|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-f7e0f64105fd7a73de7e46e0
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 21 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 21 straipsnio 3 dalies pakeitimas ^s-d9975fa4ac66cc201273d1f8
 
 
 21 straipsnio 3 dalies antrajame sakinyje išbraukti žodžius „arba vertybiniais popieriais“ ir šią dalį išdėstyti taip:

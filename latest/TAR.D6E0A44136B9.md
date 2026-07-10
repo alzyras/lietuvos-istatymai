@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D6E0A44136B9"
 pavadinimas: "Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos pirmojo protokolo ratifikavimo ir Lietuvos Respublikos įstatymo \"Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo\" papildymo"
+aliases:
+  - "Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos pirmojo protokolo ratifikavimo ir Lietuvos Respublikos įstatymo \"Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo\" papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-01-17"
 latest_path: "latest/TAR.D6E0A44136B9.md"
 latest_sha256: "95e99085cbef21a9befbd1a2362df345fa857507a3f2e6043a10be3a5705d57d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D6E0A44136B9]]"
 ---
 # Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos pirmojo protokolo ratifikavimo ir Lietuvos Respublikos įstatymo "Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo" papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D6E0A44136B9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D6E0A44136B9
+- Ryšiai: [[Ryšiai/TAR.D6E0A44136B9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E064BABB8606"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-01-21"
 latest_path: "latest/TAR.E064BABB8606.md"
 latest_sha256: "44228ce57868302e714e478fb15ecff4b778f436685b86902ba19c6ebc0073ed"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E064BABB8606]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E064BABB8606.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E064BABB8606
+- Ryšiai: [[Ryšiai/TAR.E064BABB8606|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-77099ecb23ae9d39b488e2c1
 
 
 3 straipsnio 1 dalį pakeisti ir išdėstyti taip:
@@ -40,52 +45,52 @@ Vilnius
 „1. Elektrėnų savivaldybės teritorija ir ribos:
 
 
-1) savivaldybę sudaro šios kadastro vietovės: Trakų rajono – Ausieniškės Nr.7910, Balceriškės Nr.7914, Beižionys Nr.7917, Elektrėnai Nr.7930, Kazokiškės Nr.7942, Pastrėvys Nr.7957, Semeliškės Nr.7967 ir Vievis Nr.7980; Kaišiadorių rajono – Gilučių Nr.4910 kadastro vietovės blokų Nr.2, 4 dalis, blokai Nr.3, 5, 6, Jagelonys Nr.4915, Liutonys Nr.4930 ir Naujosios Kietaviškės Nr.4936. Bendras savivaldybės teritorijos plotas – 53,5 tūkst. ha, 32,0 tūkst. gyventojų; ^cb5c58cf86bf24b4731aa770
+1) savivaldybę sudaro šios kadastro vietovės: Trakų rajono – Ausieniškės Nr.7910, Balceriškės Nr.7914, Beižionys Nr.7917, Elektrėnai Nr.7930, Kazokiškės Nr.7942, Pastrėvys Nr.7957, Semeliškės Nr.7967 ir Vievis Nr.7980; Kaišiadorių rajono – Gilučių Nr.4910 kadastro vietovės blokų Nr.2, 4 dalis, blokai Nr.3, 5, 6, Jagelonys Nr.4915, Liutonys Nr.4930 ir Naujosios Kietaviškės Nr.4936. Bendras savivaldybės teritorijos plotas – 53,5 tūkst. ha, 32,0 tūkst. gyventojų; ^s-62a4a546a9a1940ff620cdd2
 
 
-2) savivaldybės ribos nustatomos pagal Kazokiškių Nr.7942, Balceriškių Nr.7914, Pastrėvio Nr.7957, Semeliškių Nr.7967, Beižionių Nr.7917, Jagelonių Nr.4915, Liutonių Nr.4930 kadastro vietovių, Gilučių Nr.4910 kadastro vietovės blokų Nr.6, 3 išorines ribas, Gilučių Nr.4910 kadastro vietovės bloko Nr.2 Strošiūnų šilo 46 kvartalo pietų ribą, krašto kelio Nr.143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, bloko Nr.4 projektinę krašto kelio Nr.143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, blokų Nr.4, 5 ir Ausieniškių Nr.7910 kadastro vietovės išorines ribas.“ ^5e107ab2860dc89f7de78956
+2) savivaldybės ribos nustatomos pagal Kazokiškių Nr.7942, Balceriškių Nr.7914, Pastrėvio Nr.7957, Semeliškių Nr.7967, Beižionių Nr.7917, Jagelonių Nr.4915, Liutonių Nr.4930 kadastro vietovių, Gilučių Nr.4910 kadastro vietovės blokų Nr.6, 3 išorines ribas, Gilučių Nr.4910 kadastro vietovės bloko Nr.2 Strošiūnų šilo 46 kvartalo pietų ribą, krašto kelio Nr.143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, bloko Nr.4 projektinę krašto kelio Nr.143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, blokų Nr.4, 5 ir Ausieniškių Nr.7910 kadastro vietovės išorines ribas.“ ^s-206270b2211d7f8e54ddb087
 
 
-### 2 straipsnis. 4 straipsnio 4, 5, 6 ir 13 dalių pakeitimas
+### 2 straipsnis. 4 straipsnio 4, 5, 6 ir 13 dalių pakeitimas ^s-a87ba14542f4992de9588c12
 
 
-1. 4 straipsnio 4 dalį pakeisti ir išdėstyti taip: ^ea199aa64063e4cd2817c6f3
+1. 4 straipsnio 4 dalį pakeisti ir išdėstyti taip: ^s-1e91fe449a3ee30a1d8e460f
 
 
 „4. Vilniaus miesto savivaldybei priskiriama teritorija ir jos ribos:
 
 
-1) savivaldybę sudaro šios kadastro vietovės: Vilnius Nr.0101 ir Grigiškės Nr.7937 bei Kariotiškių Nr.7940 kadastro vietovėje esantys Neravų kaimas, Salų kaimas ir sodininkų bendrijos „Vokė“ teritorija. Bendras savivaldybės teritorijos plotas – 40,2 tūkst. ha, 588,6 tūkst. gyventojų; ^fc7b803c5c4d86ba6b569617
+1) savivaldybę sudaro šios kadastro vietovės: Vilnius Nr.0101 ir Grigiškės Nr.7937 bei Kariotiškių Nr.7940 kadastro vietovėje esantys Neravų kaimas, Salų kaimas ir sodininkų bendrijos „Vokė“ teritorija. Bendras savivaldybės teritorijos plotas – 40,2 tūkst. ha, 588,6 tūkst. gyventojų; ^s-b3fc7e01bc948e8e168f2577
 
 
-2) savivaldybės ribos nustatomos pagal Vilniaus Nr.0101 kadastro vietovės miško kontūro ribą Salų kaime, Grigiškių Nr.7937 kadastro vietovės išorinę ribą, sodininkų bendrijos “Vokė” teritorijos ribą ir Neries upės vidurį.” ^09e1e447f07fec5e58275e53
+2) savivaldybės ribos nustatomos pagal Vilniaus Nr.0101 kadastro vietovės miško kontūro ribą Salų kaime, Grigiškių Nr.7937 kadastro vietovės išorinę ribą, sodininkų bendrijos “Vokė” teritorijos ribą ir Neries upės vidurį.” ^s-e729e8144a27b92fdc66a5b0
 
 
-2. 5 dalį pakeisti ir išdėstyti taip: ^0a39c67190e16367b35d806d
+2. 5 dalį pakeisti ir išdėstyti taip: ^s-f48954c5ad87d5cb1f7ba36b
 
 
 „5. Mažeikių rajono savivaldybei priskiriama teritorija ir jos ribos:
 
 
-1) savivaldybę sudaro šios kadastro vietovės: Mažeikių rajono - Auksūdys Nr.6101, Balėnos Nr.6104, Balėnų miškas Nr.6107, Bugeniai Nr.6110, Buknaičiai Nr.6114, Dagiai Nr.6117, Krakiai Nr.6120, Laižuva Nr.6124, Leckava Nr.6127, Mažeikiai Nr.6130, Pikeliai Nr.6134, Plinkšės Nr.6137, Purvėnai Nr.6140, Račaliai Nr.6144, Renavas Nr.6147, Sedos giria Nr.6150, Seda Nr.6154, Šerkšnėnai Nr.6157, Tirkšliai Nr.6160, Ukrinai Nr.6164, Urvikiai Nr.6167, Užežerė Nr.6170, Užlieknė Nr.6174, Užpelkiai Nr.6177, Žemalė Nr.6180 ir Židikai Nr.6184; Akmenės rajono - Kapėnai Nr.3218, Pakalupis Nr.3238, Santeklių Nr.3248 dalis Viekšnių seniūnijos teritorijoje, Svirkančiai Nr.3250 ir Viekšniai Nr.3260. Bendras savivaldybės teritorijos plotas - 122,8 tūkst. ha, 70,0 tūkst. gyventojų; ^952cdee095e082777c3e7bcb
+1) savivaldybę sudaro šios kadastro vietovės: Mažeikių rajono - Auksūdys Nr.6101, Balėnos Nr.6104, Balėnų miškas Nr.6107, Bugeniai Nr.6110, Buknaičiai Nr.6114, Dagiai Nr.6117, Krakiai Nr.6120, Laižuva Nr.6124, Leckava Nr.6127, Mažeikiai Nr.6130, Pikeliai Nr.6134, Plinkšės Nr.6137, Purvėnai Nr.6140, Račaliai Nr.6144, Renavas Nr.6147, Sedos giria Nr.6150, Seda Nr.6154, Šerkšnėnai Nr.6157, Tirkšliai Nr.6160, Ukrinai Nr.6164, Urvikiai Nr.6167, Užežerė Nr.6170, Užlieknė Nr.6174, Užpelkiai Nr.6177, Žemalė Nr.6180 ir Židikai Nr.6184; Akmenės rajono - Kapėnai Nr.3218, Pakalupis Nr.3238, Santeklių Nr.3248 dalis Viekšnių seniūnijos teritorijoje, Svirkančiai Nr.3250 ir Viekšniai Nr.3260. Bendras savivaldybės teritorijos plotas - 122,8 tūkst. ha, 70,0 tūkst. gyventojų; ^s-b8112bba5b0b5e6ea703996e
 
 
-2) savivaldybės ribos nustatomos pagal Pikelių Nr.6134, Leckavos Nr.6127, Buknaičių Nr.6114, Auksūdžio Nr.6101, Laižuvos Nr.6124, Purvėnų Nr.6140 kadastro vietovių išorines ribas, Santeklių Nr.3248 kadastro vietovėje Akmenės rajono savivaldybės tarybos 1995 m. gegužės 17 d. sprendimu Nr.15 nustatytą Viekšnių - Ventos seniūnijų ribą, Kapėnų Nr.3218, Balėnų Nr.6104, Balėnų miško Nr.6107, Plinkšių Nr.6137, Užpelkių Nr.6177, Užežerės Nr.6170, Dagių Nr.6117, Renavo Nr.6147, Račalių Nr.6144 ir Židikų Nr.6184 kadastro vietovių išorines ribas.“ ^8bc0ca7d3fc07e76d1a32853
+2) savivaldybės ribos nustatomos pagal Pikelių Nr.6134, Leckavos Nr.6127, Buknaičių Nr.6114, Auksūdžio Nr.6101, Laižuvos Nr.6124, Purvėnų Nr.6140 kadastro vietovių išorines ribas, Santeklių Nr.3248 kadastro vietovėje Akmenės rajono savivaldybės tarybos 1995 m. gegužės 17 d. sprendimu Nr.15 nustatytą Viekšnių - Ventos seniūnijų ribą, Kapėnų Nr.3218, Balėnų Nr.6104, Balėnų miško Nr.6107, Plinkšių Nr.6137, Užpelkių Nr.6177, Užežerės Nr.6170, Dagių Nr.6117, Renavo Nr.6147, Račalių Nr.6144 ir Židikų Nr.6184 kadastro vietovių išorines ribas.“ ^s-99988673b4e7e2417edff6bc
 
 
-3. 6 dalį pakeisti ir išdėstyti taip: ^7777c8b5f5d01d28f8d958bf
+3. 6 dalį pakeisti ir išdėstyti taip: ^s-d5e657b0abe11cd88f88e48f
 
 
 „6. Įsteigus Elektrėnų savivaldybę ir išplėtus Vilniaus miesto savivaldybės teritoriją:
 
 
-1) Kaišiadorių rajono savivaldybę sudarys šios kadastro vietovės: Antakalnis Nr.4901, Dainava Nr.4903, Darsūniškis Nr.4905, Dovainonys Nr.4908, Gilučių Nr.4910 kadastro vietovės blokas Nr.1, blokų Nr.2, [[#^91c534ec40490b76835a2017|4 dalis]], Gudiena Nr.4912, Kaišiadorys Nr.4918, Kalviai Nr.4920, Kaukinė Nr.4922, Kruonis Nr.4928, Livintai Nr.4932, Mikalaučiškės Nr.4935, Pakertai Nr.4938, Palomenė Nr.4940, Paparčiai Nr.4942, Pravieniškės Nr.4945, Romato durpynas Nr.4948, Rumšiškės Nr.4950, Stabintiškės Nr.4952, Stasiūnai Nr.4955, Strošiūnų šilas Nr.4958, Tauckūnai Nr.4960, Varkalės Nr.4962, Vilūnai Nr.4965, Zūbiškės Nr.4968, Žasliai Nr.4970 ir Žiežmariai Nr.4972; ^122dd8791337e5aed5bb513f
+1) Kaišiadorių rajono savivaldybę sudarys šios kadastro vietovės: Antakalnis Nr.4901, Dainava Nr.4903, Darsūniškis Nr.4905, Dovainonys Nr.4908, Gilučių Nr.4910 kadastro vietovės blokas Nr.1, blokų Nr.2, [[#^s-6e84f592b94b4588a780e4b2|4 dalis]], Gudiena Nr.4912, Kaišiadorys Nr.4918, Kalviai Nr.4920, Kaukinė Nr.4922, Kruonis Nr.4928, Livintai Nr.4932, Mikalaučiškės Nr.4935, Pakertai Nr.4938, Palomenė Nr.4940, Paparčiai Nr.4942, Pravieniškės Nr.4945, Romato durpynas Nr.4948, Rumšiškės Nr.4950, Stabintiškės Nr.4952, Stasiūnai Nr.4955, Strošiūnų šilas Nr.4958, Tauckūnai Nr.4960, Varkalės Nr.4962, Vilūnai Nr.4965, Zūbiškės Nr.4968, Žasliai Nr.4970 ir Žiežmariai Nr.4972; ^s-de0013fb12e041122dfcbd2d
 
 
-2) Trakų rajono savivaldybę sudarys šios kadastro vietovės: Akmena Nr.7901, Alešiškės Nr.7904, Aukštadvaris Nr.7907, Bijūnai Nr.7920, Čižiūnai Nr.7924, Dusmenys Nr.7927, Grendavė Nr.7934, Ismonys Nr.7938, Kariotiškių Nr.7940 dalis, Lentvaris Nr.7944, Onuškis Nr.7950, Paluknys Nr.7954, Rūdiškės Nr.7964, Senieji Trakai Nr.7970, Tiltai Nr.7974, Trakai Nr.7977 ir Žaizdriai Nr.7984.“ ^c12cb134935d87ae1dda4dcf
+2) Trakų rajono savivaldybę sudarys šios kadastro vietovės: Akmena Nr.7901, Alešiškės Nr.7904, Aukštadvaris Nr.7907, Bijūnai Nr.7920, Čižiūnai Nr.7924, Dusmenys Nr.7927, Grendavė Nr.7934, Ismonys Nr.7938, Kariotiškių Nr.7940 dalis, Lentvaris Nr.7944, Onuškis Nr.7950, Paluknys Nr.7954, Rūdiškės Nr.7964, Senieji Trakai Nr.7970, Tiltai Nr.7974, Trakai Nr.7977 ir Žaizdriai Nr.7984.“ ^s-1e95b7213700d28a3f8e1b09
 
 
-4. 13 dalį pakeisti ir išdėstyti taip: ^91c534ec40490b76835a2017
+4. 13 dalį pakeisti ir išdėstyti taip: ^s-6e84f592b94b4588a780e4b2
 
 
 „13. Išplėtus Mažeikių rajono savivaldybę, Akmenės rajono savivaldybę sudarys šios kadastro vietovės: Akmenė Nr.3201, Alkiškiai Nr.3203, Eglesiai Nr.3205, Gulbinai Nr.3208, Jučiai Nr.3210, Kairiškiai Nr.3213, Kamanų rezervatas Nr.3215, Karniškės Nr.3220, Karpėnai Nr.3223, Kivyliai Nr.3225, Kruopiai Nr.3228, Medemrodė Nr.3230, Naujoji Akmenė Nr.3233, Pakalniškiai Nr.3235, Papilė Nr.3240, Purviai Nr.3241, Ramučiai Nr.3243, Sablauskiai Nr.3245, Santeklių Nr.3248 dalis Ventos seniūnijos teritorijoje, Užpelkiai Nr.3253 ir Venta Nr.3255.“

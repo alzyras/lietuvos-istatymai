@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B6089B194521"
 pavadinimas: "Lietuvos Respublikos mokslo ir švietimo ilgalaikio finansavimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokslo ir švietimo ilgalaikio finansavimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "mokslo ir švietimo ilgalaikio finansavimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-04"
 latest_path: "latest/TAR.B6089B194521.md"
 latest_sha256: "fd937f19481b1e8caf35bd7a9c76616bba9cbd194514b693d55598b5d539368e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B6089B194521]]"
 ---
 # Lietuvos Respublikos mokslo ir švietimo ilgalaikio finansavimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B6089B194521.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B6089B194521
+- Ryšiai: [[Ryšiai/TAR.B6089B194521|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-6e38368376ca4736ea477731
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos mokslo ir švietimo ilgalaikio finansavimo įstatymą.

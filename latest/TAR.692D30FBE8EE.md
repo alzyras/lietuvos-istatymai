@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.692D30FBE8EE"
 pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos diplomatinės tarnybos įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "diplomatinės tarnybos įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-12-08"
 latest_path: "latest/TAR.692D30FBE8EE.md"
 latest_sha256: "b80924868a4cf2303c3fa69ee5ccda67f58d8571a558040e25a6607aa2d58783"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.692D30FBE8EE]]"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,11 +21,12 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.692D30FBE8EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.692D30FBE8EE
+- Ryšiai: [[Ryšiai/TAR.692D30FBE8EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
 LIETUVOS RESPUBLIKOS
-DIPLOMATINĖS TARNYBOS ĮSTATYMO 21 STRAIPSNIO PAKEITIMO
+[[latest/TAR.46EF9E1D52E9#^s-9934a7adc58ca0901d8505ac|DIPLOMATINĖS TARNYBOS ĮSTATYMO 21 STRAIPSNIO]] PAKEITIMO
 Į S T A T Y M A S
 
 2005 m. lapkričio 22 d. Nr. X-423

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.95E80E5C24CC"
 pavadinimas: "Lietuvos Respublikos 2002 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2002 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2002 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-30"
 latest_path: "latest/TAR.95E80E5C24CC.md"
 latest_sha256: "31f20bed0aeb03d00c0bf12a1845515a44edd2d022d404072d17c0d4e9391263"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.95E80E5C24CC]]"
 ---
 # Lietuvos Respublikos 2002 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.95E80E5C24CC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.95E80E5C24CC
+- Ryšiai: [[Ryšiai/TAR.95E80E5C24CC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         2002 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis.         2002 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-58cb6d49948b3d7f9c90b20d
 
 
 Patvirtinti Lietuvos Respublikos 2002 metų Privalomojo sveikatos draudimo fondo biudžetą – 1829185 tūkst. litų pajamų ir 1829185 tūkst. litų išlaidų, iš jo 20000 tūkst. litų kasos apyvartos lėšų (priedėlis).

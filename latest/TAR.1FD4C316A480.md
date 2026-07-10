@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1FD4C316A480"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir Įstatymo papildymo 2, 3 priedais įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir Įstatymo papildymo 2, 3 priedais įstatymas"
+  - "valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir Įstatymo papildymo 2, 3 priedais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-05-01"
 latest_path: "latest/TAR.1FD4C316A480.md"
 latest_sha256: "bbe041da5593b831a9746e50701018fb6ec9088097d61fbee7f64fd4c6dda9ea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1FD4C316A480]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straipsnių ir priedėlio pakeitimo ir Įstatymo papildymo 2, 3 priedais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1FD4C316A480.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1FD4C316A480
+- Ryšiai: [[Ryšiai/TAR.1FD4C316A480|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,96 +41,96 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 3 dalies pakeitimas ^s-9e35262ebd720451cbd9db35
 
 
-[[#^7e9d4b78229c60adb1f54b02|7 straipsnio 3 dalyje]] vietoj žodžio „priedėlis“ įrašyti skaičių ir žodį „1 priedas“ ir šią dalį išdėstyti taip:
+[[#^s-12c4585b6f508f7b38337cb3|7 straipsnio 3 dalyje]] vietoj žodžio „priedėlis“ įrašyti skaičių ir žodį „1 priedas“ ir šią dalį išdėstyti taip:
 
 
 „3. Valstybės tarnautojų pareiginių algų koeficientus priskiria valstybės tarnautojų pareigybių kategorijoms šis Įstatymas (1 priedas).“
 
 
 
-### 2 straipsnis. 8 straipsnio pakeitimas
+### 2 straipsnis. 8 straipsnio pakeitimas ^s-fe068e655247a78056fe59f0
 
 
-1. Pakeisti [[#^caa17044ef1d74c8101d23bc|8 straipsnio 1 dalį]] ir ją išdėstyti taip: ^2a549cb62162c82cdc77148f
+1. Pakeisti [[#^s-896d5826d4493fe40bd39532|8 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-11e15858c13088798733282c
 
 
 „1. Valstybės tarnautojų suvienodintų pareigybių sąrašą, šių pareigybių kategorijas ir lygius nustato šis Įstatymas (3 priedas).“
 
 
-2. [[#^7bd26cd6f86837312940797e|8 straipsnio 2 dalį]] pripažinti netekusia galios. ^8c7c0fcca95a015fa541d90a
+2. [[#^s-6829bd6e1f539294b74f5bc1|8 straipsnio 2 dalį]] pripažinti netekusia galios. ^s-8f3b8faf5895de8fc66529ae
 
 
-3. Pakeisti [[#^bfb7ea99f5410f0b44fa8838|8 straipsnio 3 dalį]] ir ją išdėstyti taip: ^9e7963f7128879b34aa8b5bd
+3. Pakeisti [[#^s-e473a041371ca274af0c48e2|8 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-0ba7750bfd484e4042ed80d3
 
 
 „3. Valstybės tarnautojų suvienodintų pareigybių kategorijos nustatomos atsižvelgiant į grupę, kuriai priskirta valstybės ar savivaldybių institucija ar įstaiga. Kriterijus, kuriais vadovaujantis valstybės ir savivaldybių institucijos ir įstaigos skirstomos į grupes, nustato šis Įstatymas (2 priedas).“
 
 
-4. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^bf7bc716cee852fc799b5cef
+4. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^s-b0ed0d9b9a100deedf58225d
 
 
 „4. Seimas, atsižvelgdamas į šio Įstatymo (2 priede) nustatytus kriterijus, nutarimu tvirtina Seimo, Seimo kanceliarijos ir Seimui atskaitingų institucijų, Respublikos Prezidento institucijos ir Respublikos Prezidentui atskaitingų institucijų, Nacionalinės teismų administracijos, teismų, prokuratūros bei savivaldybių institucijų ir įstaigų sąrašą pagal grupes. Vyriausybė, atsižvelgdama į šio Įstatymo (2 priede) nustatytus kriterijus, tvirtina šioje dalyje nenurodytų valstybės institucijų ir įstaigų sąrašą pagal grupes.“
 
 
-5. Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip: ^e0e64d5593c95d3f12fc2f0a
+5. Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip: ^s-83694fe81abf5110e1de4ca0
 
 
 „5. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių tvirtina: Seimo valdyba -Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento institucijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, įstaigose prie ministerijų ir ministrų valdymo sritims priskirtose valstybės įstaigose, apskričių viršininkų administracijose ir Vyriausybės atstovų tarnybose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš savivaldybės biudžeto (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba.“
 
 
-6. Papildyti 8 straipsnį 6 dalimi: ^f088b059366885c36ba7064b
+6. Papildyti 8 straipsnį 6 dalimi: ^s-1941c17c95523eb37921f8cf
 
 
 „6. Didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų ar savivaldybės biudžeto (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičiaus nustatymo kriterijus ir tvarką Vyriausybės teikimu nustato Seimas.“
 
 
-7. Papildyti 8 straipsnį 7 dalimi: ^ab215a149a1749d1a3158f36
+7. Papildyti 8 straipsnį 7 dalimi: ^s-f2d36cd30ce932c975e08fe2
 
 
 „7. Valstybės tarnautojų pareigybės aprašomos ir vertinamos vadovaujantis Vyriausybės tvirtinama Valstybės tarnautojų pareigybių aprašymo ir vertinimo metodika.“
 
 
-8. Papildyti 8 straipsnį 8 dalimi: ^d7ecbf00c543cfb8ba754114
+8. Papildyti 8 straipsnį 8 dalimi: ^s-108b067653bc7dcd4d9df2a3
 
 
 „8. Valstybės tarnautojų pareigybių aprašymus ir sąrašus tvirtina:
 
 
-1) valstybės ir savivaldybių institucijose ir įstaigose – valstybės ir savivaldybių institucijų ir įstaigų vadovai; ^a30144fb238519ff463d18a5
+1) valstybės ir savivaldybių institucijose ir įstaigose – valstybės ir savivaldybių institucijų ir įstaigų vadovai; ^s-338df2852d3b287cdb3793d6
 
 
-2) Lietuvos Respublikos Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, Lietuvos vyriausiojo administracinio teismo ir kitų teismų – šių teismų pirmininkai; ^1966ea5d6d947068a32af11b
+2) Lietuvos Respublikos Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, Lietuvos vyriausiojo administracinio teismo ir kitų teismų – šių teismų pirmininkai; ^s-ed78346c03aac3d9e8d98997
 
 
-3) prokuratūros sistemos – generalinis prokuroras; ^17cc66c1436a6c0cdba5139a
+3) prokuratūros sistemos – generalinis prokuroras; ^s-e69a0a15e0f31865c0b2b94c
 
 
-4) apskričių viršininkų, jų pavaduotojų, Vyriausybės atstovų, Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras; ^b1203d71006ab97dd5adf0cf
+4) apskričių viršininkų, jų pavaduotojų, Vyriausybės atstovų, Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras; ^s-e0fdbbe18ac93bbbb5d5bf1c
 
 
-5) savivaldybės administracijos direktoriaus, jo pavaduotojo ir savivaldybės kontrolieriaus – savivaldybės taryba; ^290f2da8a8ac9d67ed389d6d
+5) savivaldybės administracijos direktoriaus, jo pavaduotojo ir savivaldybės kontrolieriaus – savivaldybės taryba; ^s-f5bf163f2127461ee2bd7996
 
 
-6) valstybės institucijų ir įstaigų vadovų – juos į pareigas priėmęs asmuo arba juos į pareigas paskyrusios kolegialios institucijos vadovas.“ ^7896d918abc81978c520ac76
+6) valstybės institucijų ir įstaigų vadovų – juos į pareigas priėmęs asmuo arba juos į pareigas paskyrusios kolegialios institucijos vadovas.“ ^s-c293324ee0c89f86502b63fa
 
 
-9. Papildyti 8 straipsnį 9 dalimi: ^82787f94ff485beffd87b934
+9. Papildyti 8 straipsnį 9 dalimi: ^s-3fdb13842139069fc54a175b
 
 
 „9. Valstybės ir savivaldybių institucijų ir įstaigų valstybės tarnautojų pareigybių sąraše gali būti tik tos valstybės tarnautojų pareigybės, kurios nurodytos valstybės tarnautojų suvienodintų pareigybių sąraše arba nustatytos pagal kitus įstatymus. Tuo atveju, kai pareigybės pavadinimas nustatomas pagal kitus įstatymus, valstybės ar savivaldybių institucijos ar įstaigos valstybės tarnautojų pareigybių sąraše ir valstybės tarnautojo pareigybės aprašyme valstybės tarnautojo pareigybė nurodoma pagal kitą įstatymą.“
 
 
-10. Papildyti 8 straipsnį 10 dalimi: ^0779341b553abb23df15f6f5
+10. Papildyti 8 straipsnį 10 dalimi: ^s-ec5ad0634aad28a1d72b0975
 
 
 „10. Pakeitus valstybės tarnautojų suvienodintų pareigybių kategorijas, vadovaujantis šio straipsnio 7 dalyje nurodyta metodika atitinkamai keičiama valstybės tarnautojo pareigybės kategorija.“
 
 
 
-### 3 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-7b0484929b96f7c86ca121c8
 
 
 24 straipsnio 2 dalyje vietoj žodžio „priedėlis“ įrašyti skaičių ir žodį „1 priedas“ ir šią dalį išdėstyti taip:
@@ -135,7 +140,7 @@ Vilnius
 
 
 
-### 4 straipsnis. Priedėlio žymos pakeitimas
+### 4 straipsnis. Priedėlio žymos pakeitimas ^s-7e877373a6f37d80554d6379
 
 
 Pakeisti priedėlio žymą ir ją išdėstyti taip:
@@ -145,7 +150,7 @@ Pakeisti priedėlio žymą ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo papildymas 2 priedu
+### 5 straipsnis. Įstatymo papildymas 2 priedu ^s-520c00c7962a456230b300db
 
 
 Papildyti Įstatymą 2 priedu:
@@ -339,47 +344,47 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITER
 
 
 
-1. Valstybės politikos formavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, apimanti tiesioginį Seimo ir Vyriausybės sprendimų projektų (įstatymų projektų, Seimo nutarimų projektų, Vyriausybės nutarimų projektų), nustatančių valstybinio administravimo subjektus ir jų struktūras, viešojo administravimo procesus, reglamentuojančių visuomeninius santykius atskirose valdymo srityse, rengimą ir teikimą Seimui ar Vyriausybei. ^b175bfa821bb0eb11a7ab3ea
+1. Valstybės politikos formavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, apimanti tiesioginį Seimo ir Vyriausybės sprendimų projektų (įstatymų projektų, Seimo nutarimų projektų, Vyriausybės nutarimų projektų), nustatančių valstybinio administravimo subjektus ir jų struktūras, viešojo administravimo procesus, reglamentuojančių visuomeninius santykius atskirose valdymo srityse, rengimą ir teikimą Seimui ar Vyriausybei. ^s-e208f3ebc526d79b6f9f2ab4
 
 
-2. Valstybės politikos įgyvendinimas suprantamas kaip valstybės institucijų ir įstaigų vykdomoji veikla (planavimas, organizavimas, koordinavimas, reguliavimas, vertinimas ir kontrolė (priežiūra), vykdoma įgyvendinant teisės aktais nustatytą valstybės politiką atskirose valdymo srityse. ^b2351834db8a1bccf7a662e6
+2. Valstybės politikos įgyvendinimas suprantamas kaip valstybės institucijų ir įstaigų vykdomoji veikla (planavimas, organizavimas, koordinavimas, reguliavimas, vertinimas ir kontrolė (priežiūra), vykdoma įgyvendinant teisės aktais nustatytą valstybės politiką atskirose valdymo srityse. ^s-e5669e3e7bac5532389650f8
 
 
-3. Dalyvavimas formuojant valstybės politiką suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma darant poveikį rengiamų sprendimų projektų kokybei, vykdant vieną ar kelias aiškiai apibrėžtas funkcijas, susijusias su sprendimų projektų rengimu: ^4ebfffb41d6376994405e0cf
+3. Dalyvavimas formuojant valstybės politiką suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma darant poveikį rengiamų sprendimų projektų kokybei, vykdant vieną ar kelias aiškiai apibrėžtas funkcijas, susijusias su sprendimų projektų rengimu: ^s-7d01de28d4f14ba0f2a4695e
 
 
-1) siūlymų dėl sprendimų projektų rengimo (ar atskirų procesų reglamentavimo) teikimas; ^63d03f4f0ffc71adf6d6826c
+1) siūlymų dėl sprendimų projektų rengimo (ar atskirų procesų reglamentavimo) teikimas; ^s-c12f79041aa81f40d5536077
 
 
-2) sprendimų projektų derinimas (koregavimas ir (ar) papildymas); ^c0f5be1fe34a74e7ef3ea79b
+2) sprendimų projektų derinimas (koregavimas ir (ar) papildymas); ^s-81639f129e71f281cf1bdde6
 
 
-3) kompleksinis ar dalinis parengtų sprendimų projektų nagrinėjimas; ^f6af85c6934064e437fec038
+3) kompleksinis ar dalinis parengtų sprendimų projektų nagrinėjimas; ^s-090c42c063930d60e0cea642
 
 
-4) išvadų dėl parengtų sprendimų projektų formulavimas; ^59eb55718d0a15140a9b9827
+4) išvadų dėl parengtų sprendimų projektų formulavimas; ^s-c0f11281daccdecf2c28e2fc
 
 
-5) tikslinių analizių atlikimas apibendrinant gautus rezultatus. ^abdb9f7b88a0909bd414d74d
+5) tikslinių analizių atlikimas apibendrinant gautus rezultatus. ^s-d8ec37b031e3a74c284cc75b
 
 
-4. Valstybės politikos formavimo ar įgyvendinimo aptarnavimas suprantamas kaip specializuota valstybės institucijų ir įstaigų veikla, vykdoma pagal konkretų linijinį, funkcinį, programinį pavedimą arba pagal konkrečią instrukciją su aiškiu siekiamu materialiu rezultatu, kurį identifikuoja ir vertina pavedimą davęs subjektas (medžiagos kaupimo, registravimo, sisteminimo, informacinio aprūpinimo ar kiti techninio pobūdžio darbai, seminarų, diskusijų organizavimas, ekspertizių organizavimas ir įforminimas, taip pat kitų aptarnavimo funkcijų atlikimas). ^a14fba6a62d8325a3d45cac7
+4. Valstybės politikos formavimo ar įgyvendinimo aptarnavimas suprantamas kaip specializuota valstybės institucijų ir įstaigų veikla, vykdoma pagal konkretų linijinį, funkcinį, programinį pavedimą arba pagal konkrečią instrukciją su aiškiu siekiamu materialiu rezultatu, kurį identifikuoja ir vertina pavedimą davęs subjektas (medžiagos kaupimo, registravimo, sisteminimo, informacinio aprūpinimo ar kiti techninio pobūdžio darbai, seminarų, diskusijų organizavimas, ekspertizių organizavimas ir įforminimas, taip pat kitų aptarnavimo funkcijų atlikimas). ^s-25e07f2ff143b757c5a175e0
 
 
-5. Vertikalusis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, kurią vykdant daromas poveikis pavaldiems subjektams (valstybės institucijoms ar įstaigoms). ^c7cef2b3b3e0012cdc3671c9
+5. Vertikalusis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, kurią vykdant daromas poveikis pavaldiems subjektams (valstybės institucijoms ar įstaigoms). ^s-989a6e23d5def65296f7fc26
 
 
-6. Funkcinis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje, apimanti nepavaldžių valstybės institucijų ar įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ir kontrolę (priežiūrą). ^d0781848350c8579e406173d
+6. Funkcinis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje, apimanti nepavaldžių valstybės institucijų ar įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ir kontrolę (priežiūrą). ^s-c75ef3c43285d5ac14a680ed
 
 
-7. Dalinis funkcinis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje, apimanti bent vieną iš šių funkcijų – nepavaldžių valstybės institucijų ir įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ar kontrolę (priežiūrą). ^f1c2a9fc1cfea4001852cf42
+7. Dalinis funkcinis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje, apimanti bent vieną iš šių funkcijų – nepavaldžių valstybės institucijų ir įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ar kontrolę (priežiūrą). ^s-edf90ebed1df463034f127ac
 
 
-8. Viena įstaigų sistema suprantama kaip ministerijos arba kitos valstybės institucijos ar įstaigos valdymo srityje esančių įstaigų visuma.“ ^042a3ebc1a07cdb1e17c0bf2
+8. Viena įstaigų sistema suprantama kaip ministerijos arba kitos valstybės institucijos ar įstaigos valdymo srityje esančių įstaigų visuma.“ ^s-28fc413e9719d4e803030eb8
 
 
 
-### 6 straipsnis. Įstatymo papildymas 3 priedu
+### 6 straipsnis. Įstatymo papildymas 3 priedu ^s-101208458b05a8320c806b57
 
 
 Papildyti Įstatymą 3 priedu:
@@ -394,7 +399,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
-## I. 2008 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+## I. 2008 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS ^s-76fa14b06ec9b951690a8edb
 
 
 
@@ -415,7 +420,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
- Diplomatinės tarnybos įstatymo
+ [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]]
  įstatymu patvirtintų statutų
 
 
@@ -643,7 +648,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
-## II. 2009 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+## II. 2009 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS ^s-722815d2cb8eead5b1dcfda7
 
 
 
@@ -662,7 +667,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  V
 
 
- Diplomatinės tarnybos įstatymo
+ [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]]
  įstatymu patvirtintų statutų
 
 
@@ -897,7 +902,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
-## III. NUO 2010 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+## III. NUO 2010 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS ^s-a311bd7eb01574ca0d7f710e
 
 
 
@@ -916,7 +921,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  V
 
 
- Diplomatinės tarnybos įstatymo
+ [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]]
  įstatymu patvirtintų statutų
 
 
@@ -1139,35 +1144,35 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 „
 
 
-### 7 straipsnis. Įstatymo įgyvendinimas
+### 7 straipsnis. Įstatymo įgyvendinimas ^s-87b93b21a6f6b1061d86223b
 
 
-1. Seimas, atsižvelgdamas į kriterijus, kuriais vadovaujantis valstybės ir savivaldybių institucijos ir įstaigos skirstomos į grupes, iki 2008 m. balandžio 1 d. patvirtina Seimo, Seimo kanceliarijos ir Seimui atskaitingų institucijų, Respublikos Prezidento institucijos ir Respublikos Prezidentui atskaitingų institucijų, Nacionalinės teismų administracijos, teismų, prokuratūros ir savivaldybių institucijų bei įstaigų sąrašą pagal grupes. ^d0fbbd30b448b40a9b081aa8
+1. Seimas, atsižvelgdamas į kriterijus, kuriais vadovaujantis valstybės ir savivaldybių institucijos ir įstaigos skirstomos į grupes, iki 2008 m. balandžio 1 d. patvirtina Seimo, Seimo kanceliarijos ir Seimui atskaitingų institucijų, Respublikos Prezidento institucijos ir Respublikos Prezidentui atskaitingų institucijų, Nacionalinės teismų administracijos, teismų, prokuratūros ir savivaldybių institucijų bei įstaigų sąrašą pagal grupes. ^s-151702d73b5c78bdef847e10
 
 
-2. Vyriausybė, atsižvelgdama j kriterijus, kuriais vadovaujantis valstybės ir savivaldybių institucijos bei įstaigos skirstomos į grupes, iki 2008 m. balandžio 1 d. patvirtina [[#^d0fbbd30b448b40a9b081aa8|šio straipsnio 1 dalyje]] nenurodytų valstybės institucijų ir įstaigų sąrašą pagal grupes. ^5bec98ab17d879e368b7da8c
+2. Vyriausybė, atsižvelgdama j kriterijus, kuriais vadovaujantis valstybės ir savivaldybių institucijos bei įstaigos skirstomos į grupes, iki 2008 m. balandžio 1 d. patvirtina [[#^s-151702d73b5c78bdef847e10|šio straipsnio 1 dalyje]] nenurodytų valstybės institucijų ir įstaigų sąrašą pagal grupes. ^s-5e53cdeaa4c65df1743892bb
 
 
-3. Valstybės tarnautojo pareigybei negali būti nustatoma žemesnė kategorija, jeigu šias pareigas eina asmuo, į jas priimtas iki šio įstatymo įsigaliojimo dienos. ^7e9d4b78229c60adb1f54b02
+3. Valstybės tarnautojo pareigybei negali būti nustatoma žemesnė kategorija, jeigu šias pareigas eina asmuo, į jas priimtas iki šio įstatymo įsigaliojimo dienos. ^s-12c4585b6f508f7b38337cb3
 
 
-4. Jeigu pagal 2008 metų ir 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašus arba jeigu pagal nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą turi būti nustatyta aukštesnė valstybės tarnautojo pareigybės kategorija, sprendimas dėl aukštesnės valstybės tarnautojo pareigybės kategorijos nustatymo turi įsigalioti kartu su atitinkamų metų valstybės tarnautojų suvienodintų pareigybių sąrašu. ^3bc00300794ec66d8db97f49
+4. Jeigu pagal 2008 metų ir 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašus arba jeigu pagal nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą turi būti nustatyta aukštesnė valstybės tarnautojo pareigybės kategorija, sprendimas dėl aukštesnės valstybės tarnautojo pareigybės kategorijos nustatymo turi įsigalioti kartu su atitinkamų metų valstybės tarnautojų suvienodintų pareigybių sąrašu. ^s-ec1aba358ef127b4b408aeac
 
 
-5. Vyriausybė, kitos valstybės ir savivaldybių institucijos ir įstaigos iki šio įstatymo įsigaliojimo dienos parengia šiame straipsnyje nenurodytų teisės aktų pakeitimo projektus ir teikia juos nustatyta tvarka priimti arba priima naujus teisės aktus, būtinus šio įstatymo nuostatoms įgyvendinti. ^5a4c0c45b90b7ad70e4c05e5
+5. Vyriausybė, kitos valstybės ir savivaldybių institucijos ir įstaigos iki šio įstatymo įsigaliojimo dienos parengia šiame straipsnyje nenurodytų teisės aktų pakeitimo projektus ir teikia juos nustatyta tvarka priimti arba priima naujus teisės aktus, būtinus šio įstatymo nuostatoms įgyvendinti. ^s-849373c77c54c6b944f969dd
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-4c604d50f5ef2cf1397ebfec
 
 
-1. Šis įstatymas, išskyrus [[#2 straipsnis. 8 straipsnio pakeitimas|2 straipsnio]] 5 ir 10 dalis, [[#7 straipsnis. Įstatymo įgyvendinimas|7 straipsnį]], 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d. ^caa17044ef1d74c8101d23bc
+1. Šis įstatymas, išskyrus [[#^s-fe068e655247a78056fe59f0|2 straipsnio]] 5 ir 10 dalis, [[#^s-87b93b21a6f6b1061d86223b|7 straipsnį]], 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d. ^s-896d5826d4493fe40bd39532
 
 
-2. Šio įstatymo [[#^0779341b553abb23df15f6f5|2 straipsnio 10 dalis]] įsigalioja 2008 m. balandžio 1 d. ^7bd26cd6f86837312940797e
+2. Šio įstatymo [[#^s-ec5ad0634aad28a1d72b0975|2 straipsnio 10 dalis]] įsigalioja 2008 m. balandžio 1 d. ^s-6829bd6e1f539294b74f5bc1
 
 
-3. 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2009 m. sausio 1 d., o nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2010 m. sausio 1 d. ^bfb7ea99f5410f0b44fa8838
+3. 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2009 m. sausio 1 d., o nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2010 m. sausio 1 d. ^s-e473a041371ca274af0c48e2
 
 
 

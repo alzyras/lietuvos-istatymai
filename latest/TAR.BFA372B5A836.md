@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BFA372B5A836"
 pavadinimas: "Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas"
+  - "Valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-24"
 latest_path: "latest/TAR.BFA372B5A836.md"
 latest_sha256: "c65585cca715602bac4e8411b32f1800e5e1ff2a93ffb04549cf7d7bb2e39d39"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BFA372B5A836]]"
 ---
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BFA372B5A836.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BFA372B5A836
+- Ryšiai: [[Ryšiai/TAR.BFA372B5A836|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,16 +35,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas ^s-119c8523613600ec006104fb
 
 
-1. Papildyti 3 straipsnį nauju 3 punktu: ^abb81ce0fa96e1ff9a25fab6
+1. Papildyti 3 straipsnį nauju 3 punktu: ^s-90bd420a13c2ae0153962a83
 
 
 „3) teikia valstybės institucijoms ir įstaigoms išvadas dėl teisės aktų projektų, kuriuose yra nuostatų, reglamentuojančių valstybinės kalbos vartojimą;“.
 
 
-2. Buvusius 3 straipsnio 3, 4, 5, 6, 7, 8, 9, 10, 11 punktus atitinkamai laikyti 4, 5, 6, 7, 8, 9, 10, 11, 12 punktais. ^adc3cd0c5db7520b644223b0
+2. Buvusius 3 straipsnio 3, 4, 5, 6, 7, 8, 9, 10, 11 punktus atitinkamai laikyti 4, 5, 6, 7, 8, 9, 10, 11, 12 punktais. ^s-ca8acb92c90a4e8e55d33c80
 
 
 

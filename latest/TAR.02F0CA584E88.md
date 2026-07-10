@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.02F0CA584E88"
 pavadinimas: "Lietuvos Respublikos uždarosios akcinės bendrovės \"Kauno energetikos remontas\" statuso nustatymo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos uždarosios akcinės bendrovės \"Kauno energetikos remontas\" statuso nustatymo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "uždarosios akcinės bendrovės \"Kauno energetikos remontas\" statuso nustatymo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-12-14"
 latest_path: "latest/TAR.02F0CA584E88.md"
 latest_sha256: "1ea954a24fc07fdc78a849721cd8421bf79259a8481931feb85206c470106e30"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.02F0CA584E88]]"
 ---
 # Lietuvos Respublikos uždarosios akcinės bendrovės "Kauno energetikos remontas" statuso nustatymo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.02F0CA584E88.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.02F0CA584E88
+- Ryšiai: [[Ryšiai/TAR.02F0CA584E88|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-b7676e650ad1f58a4583e84b
 
 
 Lietuvos Respublikos uždarosios akcinės bendrovės „Kauno energetikos remontas“ statuso nustatymo įstatymą pripažinti netekusiu galios.

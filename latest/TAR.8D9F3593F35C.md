@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8D9F3593F35C"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo\" 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo\" 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo\" 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.8D9F3593F35C.md"
 latest_sha256: "9871e067bf46b27b30d3d395b06fb536b38d556eb1224658bf83fadde76db3be"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8D9F3593F35C]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8D9F3593F35C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8D9F3593F35C
+- Ryšiai: [[Ryšiai/TAR.8D9F3593F35C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-4678fcfcff4bf41231795193
 
 
 2 straipsnio 1 dalyje vietoj žodžių „valdymo reformų ir savivaldybių reikalų ministro“ įrašyti žodžius „vidaus reikalų ministro“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-90e12558abcfc2712f835127
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

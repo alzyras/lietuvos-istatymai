@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A95CD5DAED83"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 3 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 3 ir 14 straipsnių pakeitimo įstatymas"
+  - "notariato įstatymo 3 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.A95CD5DAED83.md"
 latest_sha256: "8b807632a9577103ab06684186a49792e6d27b2a2c969ee56eaca2a6fa5c0da1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A95CD5DAED83]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 3 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A95CD5DAED83.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A95CD5DAED83
+- Ryšiai: [[Ryšiai/TAR.A95CD5DAED83|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 4 dalies 2 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 4 dalies 2 punkto pakeitimas ^s-33c6554d74795a96b51f6d09
 
 
 3 straipsnio 4 dalies 2 punkte vietoj žodžių „nusikaltimą valstybės tarnybai“ įrašyti žodžius „nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams“ ir šį punktą išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-4fb0c4effdcfbd31fe18a3a4
 
 
 14 straipsnio 3 dalyje vietoj žodžių „Teismo, prokuratūros, tardymo ir kvotos organų“ įrašyti žodžius „Teisėjo, prokuroro ar ikiteisminio tyrimo pareigūno“, vietoj žodžių „jiems priklausančių“ įrašyti žodžius „jų žinioje esančių“ ir šią dalį išdėstyti taip:
@@ -52,10 +57,10 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-783857f3409a6230db0ea265
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "8adde0e2b3fd11f092fda1fd0c194cc5"
 pavadinimas: "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 21 straipsnių pakeitimo, Įstatymo papildymo priedu ir 10 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 21 straipsnių pakeitimo, Įstatymo papildymo priedu ir 10 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 21 straipsnių pakeitimo, Įstatymo papildymo priedu ir 10 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2026-07-01"
 latest_path: "latest/8adde0e2b3fd11f092fda1fd0c194cc5.md"
 latest_sha256: "a48bc79c2c8dec03562336b0cec0ebec4b0265f2046795ed2ae0078485406b65"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/8adde0e2b3fd11f092fda1fd0c194cc5]]"
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 21 straipsnių pakeitimo, Įstatymo papildymo priedu ir 10 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/8adde0e2b3fd11f092fda1fd0c194cc5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/8adde0e2b3fd11f092fda1fd0c194cc5
+- Ryšiai: [[Ryšiai/8adde0e2b3fd11f092fda1fd0c194cc5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-78eb1effede8b970570b46db
 
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
@@ -41,167 +46,167 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „1 straipsnis. Įstatymo paskirtis
 
 
-1. Lietuvos Respublikos nedarbo socialinio draudimo įstatymas nustato nedarbo socialinio draudimo (toliau – nedarbo draudimas) teisinius santykius, asmenų, kurie draudžiami nedarbo draudimu, kategorijas, teisę į nedarbo socialinio draudimo išmoką (toliau – nedarbo draudimo išmoka) ir dalinio darbo išmoką, jų skyrimo, apskaičiavimo ir mokėjimo sąlygas, šios draudimo rūšies finansavimą, administravimą ir asmenų, dėl kurių kaltės neteisingai apskaičiuotos ir išmokėtos nedarbo draudimo ir dalinio darbo išmokos, atsakomybę. ^496fc170d2ff508dd336c2b6
+1. [[latest/TAR.FDF42614DE52|Lietuvos Respublikos nedarbo socialinio draudimo įstatymas]] nustato nedarbo socialinio draudimo (toliau – nedarbo draudimas) teisinius santykius, asmenų, kurie draudžiami nedarbo draudimu, kategorijas, teisę į nedarbo socialinio draudimo išmoką (toliau – nedarbo draudimo išmoka) ir dalinio darbo išmoką, jų skyrimo, apskaičiavimo ir mokėjimo sąlygas, šios draudimo rūšies finansavimą, administravimą ir asmenų, dėl kurių kaltės neteisingai apskaičiuotos ir išmokėtos nedarbo draudimo ir dalinio darbo išmokos, atsakomybę. ^s-02a9fba6d149f2d30365b2f5
 
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“ ^1bfdc6a1f0d5896c1e4cf22b
-
-
-
-### 2 straipsnis. 3 straipsnio pakeitimas
-
-
-1. Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip: ^fd6bdee9f8630e35b2c91c3b
-
-
-„2. Apdraustojo draudžiamosios pajamos – visos asmens pajamos ir kitos sumos, nuo kurių nustatyta tvarka priskaičiuotos ir privalo būti sumokėtos valstybinio socialinio draudimo įmokos nedarbo draudimui, taip pat priskaičiuotos dalinio darbo išmokos, nustatytos šiame įstatyme, priskaičiuotos ligos (įskaitant darbdavio mokamą išmoką už 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, nustatytos Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, priskaičiuotos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, nustatytos Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme.“
-
-
-2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^98288f44f03398becb77ea58
-
-
-„4. Nedarbo draudimo stažas – laikotarpiai, per kuriuos mokamos arba pagal įstatymus turėjo būti mokamos valstybinio socialinio draudimo įmokos nedarbo draudimui, taip pat laikotarpiai, per kuriuos apdraustasis gavo šio įstatymo nustatytas dalinio darbo išmokas, ligos (įskaitant darbdavio mokamą išmoką už 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokas, mokamas vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymu, ligos dėl nelaimingų atsitikimų darbe arba profesinės ligos išmokas, mokamas vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu. Lietuvos Respublikos valstybinio socialinio draudimo įstatymo [[#^06a5f7fbd6f6df1ac4582d92|5 straipsnio 2 dalyje]] nurodytų individualių įmonių savininkų, mažųjų bendrijų narių ir ūkinių bendrijų tikrųjų narių, kurie yra draudžiami nedarbo draudimu, nedarbo draudimo stažas nustatomas pagal sumokėtas nedarbo draudimo įmokas. Jeigu šios įmokos sumokėtos nuo Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio nedarbo draudimo stažas. Jeigu šios įmokos sumokėtos nuo mažesnės arba didesnės negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga sumos, nedarbo draudimo stažas nustatomas proporcingai mažesnis arba didesnis. Nedarbo draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, dalinio darbo socialinio draudimo išmokų iš Valstybinio socialinio draudimo fondo biudžeto gavimo laikotarpius. Nedarbo draudimo stažas apskaičiuojamas socialinės apsaugos ir darbo ministro nustatyta nedarbo draudimo išmokų skyrimo ir mokėjimo tvarka.“
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“ ^s-252ee610bcbfaeb0bf04b78b
 
 
 
-### 3 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-0aaae20cb1f5dd314bd1b618
 
 
-Pakeisti [[#^1cc621e12c2b9b54a79b802b|5 straipsnio 1 dalį]] ir ją išdėstyti taip:
+1. Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip: ^s-bfc1a289a288e604a4d350a5
 
 
-„1. Teisę į nedarbo draudimo išmoką turi Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) įsiregistravę šio įstatymo [[#4 straipsnis. 6 straipsnio pakeitimas|4 straipsnyje]] nurodyti asmenys, kuriems suteiktas bedarbio statusas, jeigu Užimtumo tarnyba jiems nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių, jie dėl nedarbo draudimo išmokos skyrimo kreipiasi ne vėliau kaip per 12 mėnesių nuo bedarbio statuso įgijimo dienos ir atitinka bent vieną iš šių sąlygų:
+„2. Apdraustojo draudžiamosios pajamos – visos asmens pajamos ir kitos sumos, nuo kurių nustatyta tvarka priskaičiuotos ir privalo būti sumokėtos valstybinio socialinio draudimo įmokos nedarbo draudimui, taip pat priskaičiuotos dalinio darbo išmokos, nustatytos šiame įstatyme, priskaičiuotos ligos (įskaitant darbdavio mokamą išmoką už 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, nustatytos [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme]], priskaičiuotos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, nustatytos [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]].“
 
 
-1) iki bedarbio statuso įgijimo dienos yra įgiję ne trumpesnį kaip 12 mėnesių nedarbo draudimo stažą per paskutinius 24 mėnesius ir jiems netaikomas [[#^611a41f332437aa0b022d5b2|šios dalies 3 punktas]]; ^a6ccfc8ff5c136c16fe8f7f0
+2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^s-74c6ccb122fa74048c2bbfcb
 
 
-2) baigė privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba buvo paleisti iš privalomosios pradinės karo tarnybos, kurios metu įgijo pagrindinį karinį parengtumą; ^18000d1b39e806df023e856d
-
-
-3) nuo laikotarpio, už kurį priskaičiuota ankstesnė nedarbo draudimo išmoka, pradžios iki bedarbio statuso įgijimo dienos jų įgytas nedarbo draudimo stažas yra ne trumpesnis kaip 12 mėnesių ir į laikotarpį nedarbo draudimo stažui apskaičiuoti patenka visas arba dalis laikotarpio, už kurį yra priskaičiuota ankstesnė nedarbo draudimo išmoka.“ ^611a41f332437aa0b022d5b2
+„4. Nedarbo draudimo stažas – laikotarpiai, per kuriuos mokamos arba pagal įstatymus turėjo būti mokamos valstybinio socialinio draudimo įmokos nedarbo draudimui, taip pat laikotarpiai, per kuriuos apdraustasis gavo šio įstatymo nustatytas dalinio darbo išmokas, ligos (įskaitant darbdavio mokamą išmoką už 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokas, mokamas vadovaujantis [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymu]], ligos dėl nelaimingų atsitikimų darbe arba profesinės ligos išmokas, mokamas vadovaujantis [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu]]. [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje]] nurodytų individualių įmonių savininkų, mažųjų bendrijų narių ir ūkinių bendrijų tikrųjų narių, kurie yra draudžiami nedarbo draudimu, nedarbo draudimo stažas nustatomas pagal sumokėtas nedarbo draudimo įmokas. Jeigu šios įmokos sumokėtos nuo Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio nedarbo draudimo stažas. Jeigu šios įmokos sumokėtos nuo mažesnės arba didesnės negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga sumos, nedarbo draudimo stažas nustatomas proporcingai mažesnis arba didesnis. Nedarbo draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, dalinio darbo socialinio draudimo išmokų iš Valstybinio socialinio draudimo fondo biudžeto gavimo laikotarpius. Nedarbo draudimo stažas apskaičiuojamas socialinės apsaugos ir darbo ministro nustatyta nedarbo draudimo išmokų skyrimo ir mokėjimo tvarka.“
 
 
 
-### 4 straipsnis. 6 straipsnio pakeitimas
+### 3 straipsnis. 5 straipsnio pakeitimas ^s-f856392a1153d06ea98ad4d0
+
+
+Pakeisti [[#^s-750514554f30e02dc85cf96d|5 straipsnio 1 dalį]] ir ją išdėstyti taip:
+
+
+„1. Teisę į nedarbo draudimo išmoką turi Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) įsiregistravę šio įstatymo [[#^s-66ea684806ea4ed052bfd88e|4 straipsnyje]] nurodyti asmenys, kuriems suteiktas bedarbio statusas, jeigu Užimtumo tarnyba jiems nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių, jie dėl nedarbo draudimo išmokos skyrimo kreipiasi ne vėliau kaip per 12 mėnesių nuo bedarbio statuso įgijimo dienos ir atitinka bent vieną iš šių sąlygų:
+
+
+1) iki bedarbio statuso įgijimo dienos yra įgiję ne trumpesnį kaip 12 mėnesių nedarbo draudimo stažą per paskutinius 24 mėnesius ir jiems netaikomas [[#^s-ab5f7dc54970071faf1a7b5a|šios dalies 3 punktas]]; ^s-cbb147b357f1cff6f5f2b3b4
+
+
+2) baigė privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba buvo paleisti iš privalomosios pradinės karo tarnybos, kurios metu įgijo pagrindinį karinį parengtumą; ^s-c5c144e835c8827343239c98
+
+
+3) nuo laikotarpio, už kurį priskaičiuota ankstesnė nedarbo draudimo išmoka, pradžios iki bedarbio statuso įgijimo dienos jų įgytas nedarbo draudimo stažas yra ne trumpesnis kaip 12 mėnesių ir į laikotarpį nedarbo draudimo stažui apskaičiuoti patenka visas arba dalis laikotarpio, už kurį yra priskaičiuota ankstesnė nedarbo draudimo išmoka.“ ^s-ab5f7dc54970071faf1a7b5a
+
+
+
+### 4 straipsnis. 6 straipsnio pakeitimas ^s-66ea684806ea4ed052bfd88e
 
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Bedarbiams, nurodytiems šio įstatymo [[#^1cc621e12c2b9b54a79b802b|5 straipsnio 1 dalies]] 1 ir 3 punktuose, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos.“
+„2. Bedarbiams, nurodytiems šio įstatymo [[#^s-750514554f30e02dc85cf96d|5 straipsnio 1 dalies]] 1 ir 3 punktuose, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos.“
 
 
 
-### 5 straipsnis. 8 straipsnio pakeitimas
+### 5 straipsnis. 8 straipsnio pakeitimas ^s-bc8be611fe9802312c582b68
 
 
-Pakeisti [[#8 straipsnis. 11 straipsnio pakeitimas|8 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-d5ad48fe7c72209e2571c855|8 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#8 straipsnis. 11 straipsnio pakeitimas|8 straipsnis]]. Nedarbo draudimo išmokos dydis
+„[[#^s-d5ad48fe7c72209e2571c855|8 straipsnis]]. Nedarbo draudimo išmokos dydis
 
 
-1. Nedarbo draudimo išmoka apskaičiuojama kaip pastovios ir kintamos dalių suma. ^1cc621e12c2b9b54a79b802b
+1. Nedarbo draudimo išmoka apskaičiuojama kaip pastovios ir kintamos dalių suma. ^s-750514554f30e02dc85cf96d
 
 
-2. Pastovią nedarbo draudimo išmokos dalį sudaro 15 procentų mėnesį, už kurį mokama nedarbo draudimo išmoka, galiojančios Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos. ^06a5f7fbd6f6df1ac4582d92
+2. Pastovią nedarbo draudimo išmokos dalį sudaro 15 procentų mėnesį, už kurį mokama nedarbo draudimo išmoka, galiojančios Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos. ^s-c3a87b39ae13686f74aa60be
 
 
-3. Kintama nedarbo draudimo išmokos dalis apskaičiuojama taip: ^75d9a7b240046de03e3ea8c6
+3. Kintama nedarbo draudimo išmokos dalis apskaičiuojama taip: ^s-4dfa3e87ac38eb39ce971de1
 
 
-1) pirmą–trečią nedarbo draudimo išmokos mokėjimo mėnesį – 45 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų; ^d0110e88f78ad0a8fce1c41e
+1) pirmą–trečią nedarbo draudimo išmokos mokėjimo mėnesį – 45 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų; ^s-d3e09bd1ed5e13fc3cf788e7
 
 
-2) ketvirtą–šeštą nedarbo draudimo išmokos mokėjimo mėnesį – 35 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų; ^f1611d0df6810b9dce25d1b0
+2) ketvirtą–šeštą nedarbo draudimo išmokos mokėjimo mėnesį – 35 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų; ^s-d5e1d7967abd0c2d6526e8fa
 
 
-3) septintą–devintą nedarbo draudimo išmokos mokėjimo mėnesį – 25 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų. ^8be2ac2c80995bf4d695dacf
+3) septintą–devintą nedarbo draudimo išmokos mokėjimo mėnesį – 25 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų. ^s-e40dfbaf118e8705a6e5d503
 
 
-4. Pratęsiant nedarbo draudimo išmokos mokėjimą šio įstatymo [[#12 straipsnis. Įstatymo papildymas priedu|12 straipsnio]] 1, 2 ir [[#^362049ff85ab17e827c354f1|5 dalyse]] numatytais atvejais, mokama nedarbo draudimo išmoka, kurios dydis lygus mokėjimo termino pabaigos dieną galiojusiam nedarbo draudimo išmokos dydžiui. ^83ce84375f98b845358c94ec
+4. Pratęsiant nedarbo draudimo išmokos mokėjimą šio įstatymo [[#^s-53a856f01bca55a0792847b6|12 straipsnio]] 1, 2 ir [[#^s-ad970dbc162c04647d0bcf56|5 dalyse]] numatytais atvejais, mokama nedarbo draudimo išmoka, kurios dydis lygus mokėjimo termino pabaigos dieną galiojusiam nedarbo draudimo išmokos dydžiui. ^s-310e2324f4ec49d8722ad775
 
 
-5. Apdraustojo vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos kaip 24 mėnesių, praėjusių iki užpraeito kalendorinio mėnesio pabaigos nuo bedarbio statuso įgijimo dienos, apdraustojo draudžiamųjų pajamų vidurkis. Jeigu kurį nors mėnesį draudžiamųjų pajamų nėra, jos prilyginamos nuliui. ^362049ff85ab17e827c354f1
+5. Apdraustojo vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos kaip 24 mėnesių, praėjusių iki užpraeito kalendorinio mėnesio pabaigos nuo bedarbio statuso įgijimo dienos, apdraustojo draudžiamųjų pajamų vidurkis. Jeigu kurį nors mėnesį draudžiamųjų pajamų nėra, jos prilyginamos nuliui. ^s-ad970dbc162c04647d0bcf56
 
 
-6. Paskirta nedarbo draudimo išmoka kiekvienu iš [[#^75d9a7b240046de03e3ea8c6|šio straipsnio 3 dalyje]] nurodytų laikotarpių negali būti didesnė kaip 70 procentų atitinkamų metų Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu patvirtinto vidutinio šalies darbo užmokesčio, taikomo apdraustųjų asmenų valstybinio socialinio draudimo įmokų bazei apskaičiuoti tais metais, kuriais asmuo įgijo bedarbio statusą, ir negali būti mažesnė kaip 5 bazinės socialinės išmokos dydžiai, galiojantys mėnesį, už kurį mokama nedarbo draudimo išmoka. ^e75dd5ce0399febea3915ee1
+6. Paskirta nedarbo draudimo išmoka kiekvienu iš [[#^s-4dfa3e87ac38eb39ce971de1|šio straipsnio 3 dalyje]] nurodytų laikotarpių negali būti didesnė kaip 70 procentų atitinkamų metų Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu patvirtinto vidutinio šalies darbo užmokesčio, taikomo apdraustųjų asmenų valstybinio socialinio draudimo įmokų bazei apskaičiuoti tais metais, kuriais asmuo įgijo bedarbio statusą, ir negali būti mažesnė kaip 5 bazinės socialinės išmokos dydžiai, galiojantys mėnesį, už kurį mokama nedarbo draudimo išmoka. ^s-904b52acd03aa0deb49f9647
 
 
-7. Ne viso mėnesio nedarbo draudimo išmoka apskaičiuojama pagal kalendorines to mėnesio, už kurį mokama nedarbo draudimo išmoka, dienas.“ ^5ccd5be4eeb0a198de4abd37
+7. Ne viso mėnesio nedarbo draudimo išmoka apskaičiuojama pagal kalendorines to mėnesio, už kurį mokama nedarbo draudimo išmoka, dienas.“ ^s-ddfa48fa80c1f8571af2f6e6
 
 
 
-### 6 straipsnis. 9 straipsnio pakeitimas
+### 6 straipsnis. 9 straipsnio pakeitimas ^s-0016716adb6b4ea518e72b51
 
 
-Pakeisti [[#^da4632783a747075b6944c03|9 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-976b8b875a4e0b6f96265181|9 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Nedarbo draudimo išmokos mokėjimas nutraukiamas, kai:
 
 
-1) bedarbiui Užimtumo įstatymo nustatyta tvarka panaikinamas bedarbio statusas – nuo bedarbio statuso panaikinimo dienos; ^c63f306f7b703616aea996c1
+1) bedarbiui [[latest/422c8b5042b811e6a8ae9e1795984391|Užimtumo įstatymo]] nustatyta tvarka panaikinamas bedarbio statusas – nuo bedarbio statuso panaikinimo dienos; ^s-89224702d46d7434f8a7030b
 
 
-2) pasibaigia nedarbo draudimo išmokos mokėjimo bedarbiui terminas, jeigu jis negali būti pratęstas šio įstatymo nustatyta tvarka, – nuo kitos dienos pasibaigus nedarbo draudimo išmokos mokėjimo terminui; ^186abd1b06a218157f415511
+2) pasibaigia nedarbo draudimo išmokos mokėjimo bedarbiui terminas, jeigu jis negali būti pratęstas šio įstatymo nustatyta tvarka, – nuo kitos dienos pasibaigus nedarbo draudimo išmokos mokėjimo terminui; ^s-21289a7321f07edbae683fa0
 
 
-3) bedarbis be pateisinamų priežasčių pažeidė sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro nustatytą elgesio nedarbingumo metu tvarką – nuo dienos, kurią padarytas elgesio nedarbingumo metu tvarkos pažeidimas.“ ^83d6c741dd983beb404d352d
-
-
-
-### 7 straipsnis. 10 straipsnio pripažinimas netekusiu galios
-
-
-Pripažinti netekusiu galios [[#10 straipsnis. 17 straipsnio pakeitimas|10 straipsnį]].
+3) bedarbis be pateisinamų priežasčių pažeidė sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro nustatytą elgesio nedarbingumo metu tvarką – nuo dienos, kurią padarytas elgesio nedarbingumo metu tvarkos pažeidimas.“ ^s-e32a8b48313f9a49919c0467
 
 
 
-### 8 straipsnis. 11 straipsnio pakeitimas
+### 7 straipsnis. 10 straipsnio pripažinimas netekusiu galios ^s-5ca8daba791cc1d780e5baae
 
 
-1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip: ^709b8342523430c79e85c948
+Pripažinti netekusiu galios [[#^s-8fa4165146b462403a84639d|10 straipsnį]].
+
+
+
+### 8 straipsnis. 11 straipsnio pakeitimas ^s-d5ad48fe7c72209e2571c855
+
+
+1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip: ^s-1e8f61697edb73a13c1f23f8
 
 
 „2. Nutrauktos pagal šio įstatymo 9 straipsnio 2 dalies 1 punktą nedarbo draudimo išmokos mokėjimas atnaujinamas bedarbiams, iš naujo įgijusiems bedarbio statusą, nuo bedarbio statuso įgijimo dienos, išskyrus atvejį, kai bedarbis įgyja teisę į nedarbo draudimo išmoką esant šio įstatymo 5 straipsnio 1 dalies 3 punkte nustatytai sąlygai.“
 
 
-2. Pripažinti netekusia galios 11 straipsnio 3 dalį. ^d67396ce39999c5feeb20b26
+2. Pripažinti netekusia galios 11 straipsnio 3 dalį. ^s-289088de2b617709ee4818df
 
 
 
-### 9 straipsnis. 12 straipsnio pakeitimas
+### 9 straipsnis. 12 straipsnio pakeitimas ^s-2e2640bbbd2d648b6d1ef1ed
 
 
-1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip: ^a0b8d657c3e08cb72c2d314a
+1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip: ^s-e6a13c10ffb3b94fbf1a6deb
 
 
 „1. Bedarbiams, kuriems laikotarpio, už kurį jiems mokamos paskirtos arba atnaujintos nedarbo draudimo išmokos, pabaigos dieną iki socialinio draudimo senatvės pensijos amžiaus yra likę ne daugiau kaip 5 metai, nedarbo draudimo išmokos mokėjimas pratęsiamas dar 2 mėnesiams (toliau – pratęsimo terminas), jeigu jiems nepaskirta išankstinė socialinio draudimo senatvės pensija pagal Lietuvos Respublikos socialinio draudimo pensijų įstatymą. Nedarbo draudimo išmokos mokėjimas šioje dalyje nurodytiems bedarbiams pratęsiamas dar 4 mėnesiams, jeigu paskutinę pratęsimo termino laikotarpio, kurį jiems mokamos paskirtos ar atnaujintos nedarbo draudimo išmokos, dieną jie yra įgiję ne mažesnį kaip 20 metų pensijų socialinio draudimo stažą.“
 
 
-2. Pripažinti netekusia galios 12 straipsnio 7 dalį. ^da4632783a747075b6944c03
+2. Pripažinti netekusia galios 12 straipsnio 7 dalį. ^s-976b8b875a4e0b6f96265181
 
 
-3. Pakeisti 12 straipsnio 8 dalį ir ją išdėstyti taip: ^70f570e1f9bd2ea025e0c4a5
+3. Pakeisti 12 straipsnio 8 dalį ir ją išdėstyti taip: ^s-cab809a565a30cf113f62604
 
 
 „8. Nedarbo draudimo išmokos mokėjimas pratęsiamas dėl ligos arba traumos, taip pat dėl nėštumo ir gimdymo atostogų socialinės apsaugos ir darbo ministro nustatyta nedarbo draudimo išmokų skyrimo ir mokėjimo tvarka.“
 
 
 
-### 10 straipsnis. 17 straipsnio pakeitimas
+### 10 straipsnis. 17 straipsnio pakeitimas ^s-8fa4165146b462403a84639d
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Jeigu yra Darbo kodekso 48 straipsnio 1 dalyje nustatytos aplinkybės, dėl dalinio darbo išmokos skyrimo darbuotojams darbdavys kreipiasi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių, pateikdamas motyvuotą prašymą skirti dalinio darbo išmoką ir nurodydamas kiekvieno darbuotojo darbo laiko normos sutrumpinimą iki 50 procentų, planuojamą dalinio darbo pradžią, kuri negali būti ankstesnė kaip po 30 dienų nuo kreipimosi dienos, ir pabaigą. Prašymas skirti dalinio darbo išmoką svarstomas Valstybinio socialinio draudimo fondo taryboje. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius sprendimą dėl dalinio darbo išmokos skyrimo priima gavęs Valstybinio socialinio draudimo fondo tarybos išvadą. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius dalinio darbo išmoką skiria socialinės apsaugos ir darbo ministro nustatyta dalinio darbo išmokų skyrimo ir mokėjimo tvarka. Pakartotinai dėl dalinio darbo išmokų skyrimo tam pačiam darbuotojui darbdavys į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių gali kreiptis ne anksčiau kaip po 12 mėnesių nuo dalinio darbo išmokų, skirtų pagal ankstesnį kreipimąsi, mokėjimo paskutinės dienos.“
+„1. Jeigu yra [[latest/f6d686707e7011e6b969d7ae07280e89#^s-31abf6be7c5a01c718ab8a13|Darbo kodekso 48 straipsnio 1 dalyje]] nustatytos aplinkybės, dėl dalinio darbo išmokos skyrimo darbuotojams darbdavys kreipiasi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių, pateikdamas motyvuotą prašymą skirti dalinio darbo išmoką ir nurodydamas kiekvieno darbuotojo darbo laiko normos sutrumpinimą iki 50 procentų, planuojamą dalinio darbo pradžią, kuri negali būti ankstesnė kaip po 30 dienų nuo kreipimosi dienos, ir pabaigą. Prašymas skirti dalinio darbo išmoką svarstomas Valstybinio socialinio draudimo fondo taryboje. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius sprendimą dėl dalinio darbo išmokos skyrimo priima gavęs Valstybinio socialinio draudimo fondo tarybos išvadą. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius dalinio darbo išmoką skiria socialinės apsaugos ir darbo ministro nustatyta dalinio darbo išmokų skyrimo ir mokėjimo tvarka. Pakartotinai dėl dalinio darbo išmokų skyrimo tam pačiam darbuotojui darbdavys į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių gali kreiptis ne anksčiau kaip po 12 mėnesių nuo dalinio darbo išmokų, skirtų pagal ankstesnį kreipimąsi, mokėjimo paskutinės dienos.“
 
 
 
-### 11 straipsnis. 21 straipsnio pakeitimas
+### 11 straipsnis. 21 straipsnio pakeitimas ^s-fc0f0a1e031789030f979e96
 
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -211,7 +216,7 @@ Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 12 straipsnis. Įstatymo papildymas priedu
+### 12 straipsnis. Įstatymo papildymas priedu ^s-53a856f01bca55a0792847b6
 
 
 Papildyti Įstatymą priedu:
@@ -219,7 +224,7 @@ Papildyti Įstatymą priedu:
 
 „Lietuvos Respublikos
 nedarbo socialinio
-draudimo įstatymo
+[[latest/TAR.8447F63760E9|draudimo įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -233,34 +238,34 @@ __________________________“.
 
 
 
-### 13 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+### 13 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas ^s-9939b30a7b2be4b244a0b637
 
 
-1. Šis įstatymas, išskyrus 1, [[#12 straipsnis. Įstatymo papildymas priedu|12 straipsnius]] ir šio straipsnio 2, [[#^db411f746e7729787fbe030e|3 dalis]], įsigalioja 2026 m. liepos 1 d. ^686f0e554a062bb6b0fa2ccb
+1. Šis įstatymas, išskyrus 1, [[#^s-53a856f01bca55a0792847b6|12 straipsnius]] ir šio straipsnio 2, [[#^s-01061d96c3cb4117cf5125b5|3 dalis]], įsigalioja 2026 m. liepos 1 d. ^s-ac70ca986135b57d4c8f9eee
 
 
-2. Šio įstatymo 1 ir [[#12 straipsnis. Įstatymo papildymas priedu|12 straipsniai]] įsigalioja 2026 m. gegužės 21 d. ^584119773c442ec954eae566
+2. Šio įstatymo 1 ir [[#^s-53a856f01bca55a0792847b6|12 straipsniai]] įsigalioja 2026 m. gegužės 21 d. ^s-42e2ed694fbe97bf6028a05e
 
 
-3. Lietuvos Respublikos Vyriausybė ir socialinės apsaugos ir darbo ministras iki 2026 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^db411f746e7729787fbe030e
+3. Lietuvos Respublikos Vyriausybė ir socialinės apsaugos ir darbo ministras iki 2026 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-01061d96c3cb4117cf5125b5
 
 
-4. Šis įstatymas taikomas asmenims, kuriems bedarbio statusas suteiktas 2026 m. liepos 1 d. ar vėliau, išskyrus šio straipsnio 5, 6, 7 ir [[#^8fd5ff923f1b3397c6767433|9 dalyse]] nustatytus atvejus. ^9a5b9111856040fa22140cc6
+4. Šis įstatymas taikomas asmenims, kuriems bedarbio statusas suteiktas 2026 m. liepos 1 d. ar vėliau, išskyrus šio straipsnio 5, 6, 7 ir [[#^s-41aded0a7eb2ab8b395c80cd|9 dalyse]] nustatytus atvejus. ^s-36c3e661d24eb96ff3a4097d
 
 
-5. Jeigu bedarbis, kuris bedarbio statusą įgijo iki 2026 m. birželio 30 d., dėl nedarbo socialinio draudimo išmokos (toliau – nedarbo draudimo išmoka) skyrimo kreipiasi 2026 m. liepos 1 d. ar vėliau, jam šio įstatymo [[#3 straipsnis. 5 straipsnio pakeitimas|3 straipsnyje]] išdėstytoje Lietuvos Respublikos nedarbo socialinio draudimo įstatymo [[#^1cc621e12c2b9b54a79b802b|5 straipsnio 1 dalyje]] nustatytas kreipimosi skirti nedarbo draudimo išmoką ne vėliau kaip per 12 mėnesių nuo bedarbio statuso įgijimo dienos terminas pradedamas skaičiuoti nuo 2026 m. liepos 1 d. ^1359b2d348383e0c17666fec
+5. Jeigu bedarbis, kuris bedarbio statusą įgijo iki 2026 m. birželio 30 d., dėl nedarbo socialinio draudimo išmokos (toliau – nedarbo draudimo išmoka) skyrimo kreipiasi 2026 m. liepos 1 d. ar vėliau, jam šio įstatymo [[#^s-f856392a1153d06ea98ad4d0|3 straipsnyje]] išdėstytoje [[latest/TAR.FDF42614DE52#^s-e15e414e0af475f479e6d138|Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 5 straipsnio 1 dalyje]] nustatytas kreipimosi skirti nedarbo draudimo išmoką ne vėliau kaip per 12 mėnesių nuo bedarbio statuso įgijimo dienos terminas pradedamas skaičiuoti nuo 2026 m. liepos 1 d. ^s-b23c917d0ea91600a649bcbb
 
 
-6. Jeigu iki 2026 m. birželio 30 d. paskirtos ir 2026 m. liepos 1 d. ar vėliau mokamos nedarbo draudimo išmokos ar nedarbo draudimo išmokos, kurios mokėjimas atnaujintas, dydis yra mažesnis už šio įstatymo [[#5 straipsnis. 8 straipsnio pakeitimas|5 straipsnyje]] išdėstyto Nedarbo socialinio draudimo įstatymo 8 straipsnio 6 dalyje nustatytą minimalų nedarbo draudimo išmokos dydį, nuo 2026 m. liepos 1 d. ši išmoka be atskiro asmens prašymo perskaičiuojama ir likusį nuo 2026 m. liepos 1 d. nedarbo draudimo išmokos mokėjimo laikotarpį mokama taikant šio įstatymo [[#5 straipsnis. 8 straipsnio pakeitimas|5 straipsnyje]] išdėstyto Nedarbo socialinio draudimo įstatymo 8 straipsnio 6 dalies nuostatą dėl minimalaus nedarbo draudimo išmokos dydžio. ^c980fe14997aa79fd0078f84
+6. Jeigu iki 2026 m. birželio 30 d. paskirtos ir 2026 m. liepos 1 d. ar vėliau mokamos nedarbo draudimo išmokos ar nedarbo draudimo išmokos, kurios mokėjimas atnaujintas, dydis yra mažesnis už šio įstatymo [[#^s-bc8be611fe9802312c582b68|5 straipsnyje]] išdėstyto [[latest/TAR.FDF42614DE52#^s-bd0ac93c85fd3008eb131f41|Nedarbo socialinio draudimo įstatymo 8 straipsnio 6 dalyje]] nustatytą minimalų nedarbo draudimo išmokos dydį, nuo 2026 m. liepos 1 d. ši išmoka be atskiro asmens prašymo perskaičiuojama ir likusį nuo 2026 m. liepos 1 d. nedarbo draudimo išmokos mokėjimo laikotarpį mokama taikant šio įstatymo [[#^s-bc8be611fe9802312c582b68|5 straipsnyje]] išdėstyto [[latest/TAR.FDF42614DE52#^s-bd0ac93c85fd3008eb131f41|Nedarbo socialinio draudimo įstatymo 8 straipsnio 6 dalies]] nuostatą dėl minimalaus nedarbo draudimo išmokos dydžio. ^s-69a29a7030136b2797af7a11
 
 
-7. Jeigu bedarbis bedarbio statusą įgijo iki 2026 m. birželio 30 d. ir jam iki 2026 m. birželio 30 d. taikytame šio įstatymo [[#7 straipsnis. 10 straipsnio pripažinimas netekusiu galios|7 straipsniu]] pripažintame netekusiu galios Nedarbo socialinio draudimo įstatymo [[#10 straipsnis. 17 straipsnio pakeitimas|10 straipsnyje]] nustatytas 12 mėnesių terminas, kuriam suėjus jam gali būti pakartotinai skiriama nedarbo draudimo išmoka, baigiasi 2026 m. liepos 1 d. ar vėliau, tai nuo 2026 m. liepos 1 d. bedarbio teisė į nedarbo draudimo išmoką nustatoma vadovaujantis šiuo įstatymu ir ši išmoka skiriama nuo teisės į nedarbo draudimo išmoką įgijimo dienos, bet ne anksčiau kaip nuo 2026 m. liepos 1 d. ^ce844c8e046b514d7ab3b30b
+7. Jeigu bedarbis bedarbio statusą įgijo iki 2026 m. birželio 30 d. ir jam iki 2026 m. birželio 30 d. taikytame šio įstatymo [[#^s-5ca8daba791cc1d780e5baae|7 straipsniu]] pripažintame netekusiu galios [[latest/TAR.FDF42614DE52#^s-89e2c03ba26701357fe73db1|Nedarbo socialinio draudimo įstatymo 10 straipsnyje]] nustatytas 12 mėnesių terminas, kuriam suėjus jam gali būti pakartotinai skiriama nedarbo draudimo išmoka, baigiasi 2026 m. liepos 1 d. ar vėliau, tai nuo 2026 m. liepos 1 d. bedarbio teisė į nedarbo draudimo išmoką nustatoma vadovaujantis šiuo įstatymu ir ši išmoka skiriama nuo teisės į nedarbo draudimo išmoką įgijimo dienos, bet ne anksčiau kaip nuo 2026 m. liepos 1 d. ^s-e77b3583b731a8046fb52f6e
 
 
-8. Nedarbo draudimo išmokų, kurios paskirtos iki 2026 m. birželio 30 d. ir kurių mokėjimas nutrauktas ne daugiau kaip prieš 12 mėnesių iki 2026 m. birželio 30 d., mokėjimas 2026 m. liepos 1 d. ar vėliau atnaujinamas, vadovaujantis šio įstatymo [[#^709b8342523430c79e85c948|8 straipsnio 1 dalyje]] išdėstyta Nedarbo socialinio draudimo įstatymo 11 straipsnio 2 dalimi, teisę į jas turintiems bedarbiams, kuriems bedarbio statusas suteiktas 2026 m. liepos 1 d. ar vėliau, nuo bedarbio statuso įgijimo dienos. ^4af89bb3240b66faa20bf92a
+8. Nedarbo draudimo išmokų, kurios paskirtos iki 2026 m. birželio 30 d. ir kurių mokėjimas nutrauktas ne daugiau kaip prieš 12 mėnesių iki 2026 m. birželio 30 d., mokėjimas 2026 m. liepos 1 d. ar vėliau atnaujinamas, vadovaujantis šio įstatymo [[#^s-1e8f61697edb73a13c1f23f8|8 straipsnio 1 dalyje]] išdėstyta [[latest/TAR.FDF42614DE52#^s-d018819b321471a7d595a65a|Nedarbo socialinio draudimo įstatymo 11 straipsnio 2 dalimi]], teisę į jas turintiems bedarbiams, kuriems bedarbio statusas suteiktas 2026 m. liepos 1 d. ar vėliau, nuo bedarbio statuso įgijimo dienos. ^s-3a92d93abe0fc4819cd241bf
 
 
-9. Vadovaujantis šio įstatymo [[#^a0b8d657c3e08cb72c2d314a|9 straipsnio 1 dalyje]] išdėstyta Nedarbo socialinio draudimo įstatymo 12 straipsnio 1 dalimi, iki 2026 m. birželio 30 d. paskirtos nedarbo draudimo išmokos mokėjimo terminas papildomai pratęsiamas 4 mėnesiams ir bedarbiams, kuriems bedarbio statusas suteiktas iki 2026 m. birželio 30 d., ir nedarbo draudimo išmoka mokama arba jos mokėjimas atnaujinamas 2026 m. liepos 1 d. ar vėliau. ^8fd5ff923f1b3397c6767433
+9. Vadovaujantis šio įstatymo [[#^s-e6a13c10ffb3b94fbf1a6deb|9 straipsnio 1 dalyje]] išdėstyta [[latest/TAR.FDF42614DE52#^s-516407b8c93d560073fa185b|Nedarbo socialinio draudimo įstatymo 12 straipsnio 1 dalimi]], iki 2026 m. birželio 30 d. paskirtos nedarbo draudimo išmokos mokėjimo terminas papildomai pratęsiamas 4 mėnesiams ir bedarbiams, kuriems bedarbio statusas suteiktas iki 2026 m. birželio 30 d., ir nedarbo draudimo išmoka mokama arba jos mokėjimas atnaujinamas 2026 m. liepos 1 d. ar vėliau. ^s-41aded0a7eb2ab8b395c80cd
 
 
 

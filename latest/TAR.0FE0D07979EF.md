@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0FE0D07979EF"
 pavadinimas: "Lietuvos Respublikos pilietybės įstatymo 16 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pilietybės įstatymo 16 straipsnio papildymo įstatymas"
+  - "pilietybės įstatymo 16 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-25"
 latest_path: "latest/TAR.0FE0D07979EF.md"
 latest_sha256: "b646f04766a87490c2d932e887737c9fd80fab30a8d6b3243bece4c01c3b741a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0FE0D07979EF]]"
 ---
 # Lietuvos Respublikos pilietybės įstatymo 16 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0FE0D07979EF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0FE0D07979EF
+- Ryšiai: [[Ryšiai/TAR.0FE0D07979EF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 1 dalies papildymas
+### 1 straipsnis. 16 straipsnio 1 dalies papildymas ^s-dab09e435a22c33b0b62ce2a
 
 
 Papildyti 16 straipsnio 1 dalį trečiu sakiniu ir šią dalį išdėstyti taip:

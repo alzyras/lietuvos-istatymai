@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4EDC717FEE89"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-05-06"
 latest_path: "latest/TAR.4EDC717FEE89.md"
 latest_sha256: "45b16ad350e30e9d3283659da6b2847c102993e06c41ca7b03f2a4e778780d13"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4EDC717FEE89]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4EDC717FEE89.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4EDC717FEE89
+- Ryšiai: [[Ryšiai/TAR.4EDC717FEE89|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

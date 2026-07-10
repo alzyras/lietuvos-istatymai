@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B9AAAF7BCEA"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.6B9AAAF7BCEA.md"
 latest_sha256: "88e5a857e9ba4378e0adf4bd776b877bbe21b0a2e197b607f77df7e27432cd00"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B9AAAF7BCEA]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B9AAAF7BCEA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B9AAAF7BCEA
+- Ryšiai: [[Ryšiai/TAR.6B9AAAF7BCEA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,32 +40,32 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 19 straipsnio papildymas ir pakeitimas ^s-9c05003ed79558be8551801f
 
 
-1. Papildyti 19 straipsnio 3 dalį 4 punktu: ^7d09c6cf73721388f99e5f3d
+1. Papildyti 19 straipsnio 3 dalį 4 punktu: ^s-3bab430a1671bc16425c1245
 
 
 „4) laikraščiams, žurnalams ir kitiems periodiniams leidiniams, išskyrus erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikančius leidinius, kuriuos tokiais pripažino teisės aktų įgaliota institucija, bei spausdintą produkciją, kurioje mokama reklama sudaro daugiau kaip 4/5 viso leidinio ploto;“.
 
 
-2. Papildyti 19 straipsnio 3 dalį 5 punktu: ^36f517487e7e3da4ef41c53a
+2. Papildyti 19 straipsnio 3 dalį 5 punktu: ^s-3614b442222e94928059a6cb
 
 
 „5) keleivių vežimo Susisiekimo ministerijos ar jos įgaliotos institucijos arba savivaldybių nustatytais reguliaraus susisiekimo maršrutais paslaugoms, taip pat šiame punkte nurodytų keleivių bagažo vežimo paslaugoms.“
 
 
-3. Papildyti 19 straipsnį nauja 5 dalimi: ^213f8a5c38ba7fd05404c35f
+3. Papildyti 19 straipsnį nauja 5 dalimi: ^s-a13c55f15975351782157e86
 
 
 „5. Lengvatinis 5 procentų PVM tarifas taikomas neįgaliųjų techninės pagalbos priemonėms ir jų remontui.“
 
 
-4. Buvusią 19 straipsnio 5 dalį laikyti 6 dalimi. ^bb69e919caee2abee54934fa
+4. Buvusią 19 straipsnio 5 dalį laikyti 6 dalimi. ^s-a76e08c1a671d1e3ec84a2eb
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-13f46bd3feb3781e716abdcf
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

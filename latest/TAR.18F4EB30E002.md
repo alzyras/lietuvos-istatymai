@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.18F4EB30E002"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo pakeitimo įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo pakeitimo įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo pakeitimo įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-29"
 latest_path: "latest/TAR.18F4EB30E002.md"
 latest_sha256: "02688f6f4ce1e21f230a067e23a5a6a33d21412d2abc61c57e91e0f2421ea666"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.18F4EB30E002]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo pakeitimo įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.18F4EB30E002.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.18F4EB30E002
+- Ryšiai: [[Ryšiai/TAR.18F4EB30E002|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio 2 dalies 15 punkto pakeitimas
+### 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio 2 dalies 15 punkto pakeitimas ^s-f8ecef37c788b6159db4f207
 
 
 Pakeisti 16 straipsnio 2 dalies 15 punktą ir jį išdėstyti taip:
@@ -43,38 +48,38 @@ Pakeisti 16 straipsnio 2 dalies 15 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-e21c152a342c2d439fa60ea5
 
 
-1. Pakeisti 2 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^95dd4f576bbee6f832d2c38c
+1. Pakeisti 2 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^s-2f52433f3a4f3ced5fa35c01
 
 
 „3) 16 straipsnio 2 dalies 15 punktas galioja iki metų, einančių prieš metus, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, gruodžio 31 dienos;“.
 
 
-2. Pakeisti 2 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip: ^509bb1892660b092b229c6a0
+2. Pakeisti 2 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip: ^s-f33fa734c8ec3fa39bcccc20
 
 
 „4) 16 straipsnio 2 dalies 15 punkto redakcija, galiojanti nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dienos:
 „15) savivaldybės biudžeto savivaldybės konsoliduotųjų ataskaitų rinkinio tvirtinimas Biudžeto sandaros įstatymo ir Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka, prireikus savivaldybės biudžeto tikslinimas;“;“.
 
 
-3. Pakeisti 2 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^9241400d41e24cb6d333da2e
+3. Pakeisti 2 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^s-7152b5f3b5fe54977744766d
 „5) 27 straipsnio 9 dalies 10 punktas galioja iki metų, einančių prieš metus, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, gruodžio 31 dienos;“.
 
 
-4. Pakeisti 2 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip: ^9321e0dcb4cb6bf4c3264b41
+4. Pakeisti 2 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip: ^s-09fe9d3d3cf5fedad459f5f6
 
 
 „6) 27 straipsnio 9 dalies 10 punkto redakcija, galiojanti nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dienos:
 „10) kiekvienais metais reglamente nustatytais terminais ir tvarka teikia savivaldybės tarybai išvadą dėl savivaldybei nuosavybės teise priklausančio turto ir patikėjimo teise valdomo valstybės turto ataskaitos, dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio, savivaldybės biudžeto ir turto naudojimo;“;“.
 
 
-5. Pakeisti 2 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip: ^d078ac51a1ead8b7c7bd5514
+5. Pakeisti 2 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip: ^s-929837c921e596e64cd0de26
 „7) 57 straipsnis galioja iki metų, einančių prieš metus, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, gruodžio 31 dienos;“.
 
 
-6. Pakeisti 2 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip: ^0541eff33d9c1b32b60fe76e
+6. Pakeisti 2 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip: ^s-713d4ad060014650a659cb18
 
 
 „8) 57 straipsnio redakcija, galiojanti nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dienos:

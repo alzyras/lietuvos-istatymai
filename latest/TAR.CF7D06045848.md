@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF7D06045848"
 pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento 5, 30 ir 32 straipsnių papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento 5, 30 ir 32 straipsnių papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-01-16"
 latest_path: "latest/TAR.CF7D06045848.md"
 latest_sha256: "c05dbd038d21db0d8ff0e15786fbba9439415040f005b327523f6e3c2f11ea50"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF7D06045848]]"
 ---
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento 5, 30 ir 32 straipsnių papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF7D06045848.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF7D06045848
+- Ryšiai: [[Ryšiai/TAR.CF7D06045848|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B35585A3D608"
 pavadinimas: "Lietuvos Respublikos farmacijos įstatymo 51 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos farmacijos įstatymo 51 straipsnio pakeitimo įstatymas"
+  - "farmacijos įstatymo 51 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-01"
 latest_path: "latest/TAR.B35585A3D608.md"
 latest_sha256: "67ce6e5d1c1da5b0a1d7dbd75bacc7867431fcbdca942600f4e09dcbebc5eb03"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B35585A3D608]]"
 ---
 # Lietuvos Respublikos farmacijos įstatymo 51 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B35585A3D608.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B35585A3D608
+- Ryšiai: [[Ryšiai/TAR.B35585A3D608|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 51 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 51 straipsnio 2 dalies pakeitimas ^s-fdf0ddbacf556817cf0979f5
 
 
 Pakeisti 51 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,13 +48,13 @@ Pakeisti 51 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-f5c95d5941aa7643cb5e82b7
 
 
-1. Šis įstatymas, išskyrus [[#^08fef7b1046d220d060ef08f|šio straipsnio 2 dalį]], įsigalioja 2011 m. gegužės 1 d. ^2a33a7575ef47460329cc8f3
+1. Šis įstatymas, išskyrus [[#^s-b9ca9767929e3901362a9a5c|šio straipsnio 2 dalį]], įsigalioja 2011 m. gegužės 1 d. ^s-e93b47293716329dae8d7823
 
 
-2. Lietuvos Respublikos sveikatos apsaugos ministerija iki 2011 m. balandžio 30 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^08fef7b1046d220d060ef08f
+2. Lietuvos Respublikos sveikatos apsaugos ministerija iki 2011 m. balandžio 30 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-b9ca9767929e3901362a9a5c
 
 
 

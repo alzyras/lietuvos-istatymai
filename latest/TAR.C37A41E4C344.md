@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C37A41E4C344"
 pavadinimas: "Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio papildymo įstatymas"
+  - "Konstitucinio Teismo įstatymo 26 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-17"
 latest_path: "latest/TAR.C37A41E4C344.md"
 latest_sha256: "e50f10e82ce364863d2894c1dd73d388971809a5da99028f31a383ef9deb20ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C37A41E4C344]]"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C37A41E4C344.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C37A41E4C344
+- Ryšiai: [[Ryšiai/TAR.C37A41E4C344|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 1 dalies papildymas
+### 1 straipsnis. 26 straipsnio 1 dalies papildymas ^s-91ee86737adf6059b973db26
 
 
 26 straipsnio 1 dalyje po žodžių „ar Lietuvos Respublikos įstatymas, kitas Seimo priimtas aktas atitinka Konstituciją“ įrašyti žodžius „ar Respublikos Prezidento dekretas, Vyriausybės aktas atitinka Konstituciją ir įstatymus“ ir šią dalį išdėstyti taip:

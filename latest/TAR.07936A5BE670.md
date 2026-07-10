@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.07936A5BE670"
 pavadinimas: "Lietuvos Respublikos valstybės garantijų suteikimo akcinėms bendrovėms Žemės ūkio bankui ir Vilniaus bankui įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantijų suteikimo akcinėms bendrovėms Žemės ūkio bankui ir Vilniaus bankui įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "valstybės garantijų suteikimo akcinėms bendrovėms Žemės ūkio bankui ir Vilniaus bankui įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-05-29"
 latest_path: "latest/TAR.07936A5BE670.md"
 latest_sha256: "be672480f3f805731ff1fd30daee8c20b208c134c76ab12fe8da82514ce9db16"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.07936A5BE670]]"
 ---
 # Lietuvos Respublikos valstybės garantijų suteikimo akcinėms bendrovėms Žemės ūkio bankui ir Vilniaus bankui įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.07936A5BE670.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.07936A5BE670
+- Ryšiai: [[Ryšiai/TAR.07936A5BE670|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-cc4a9cc014cca93386bca9b3
 
 
 1 straipsnyje vietoj skaičiaus ir žodžio „9 mėnesiams“ įrašyti skaičių ir žodį „12 mėnesių“ ir šį straipsnį išdėstyti taip:

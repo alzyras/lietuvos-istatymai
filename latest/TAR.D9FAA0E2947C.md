@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D9FAA0E2947C"
 pavadinimas: "Lietuvos Respublikos labdaros ir paramos fondų įstatymo 10 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos labdaros ir paramos fondų įstatymo 10 straipsnio papildymo įstatymas"
+  - "labdaros ir paramos fondų įstatymo 10 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-05"
 latest_path: "latest/TAR.D9FAA0E2947C.md"
 latest_sha256: "a3c19c491c0e91958a1deea1a921daa2fe0ebd3667720bd0b98e50c4f611d353"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D9FAA0E2947C]]"
 ---
 # Lietuvos Respublikos labdaros ir paramos fondų įstatymo 10 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D9FAA0E2947C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D9FAA0E2947C
+- Ryšiai: [[Ryšiai/TAR.D9FAA0E2947C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 2 dalies papildymas 7 punktu
+### 1 straipsnis. 10 straipsnio 2 dalies papildymas 7 punktu ^s-05f344ef371edcc0b6bf36c2
 
 
 Papildyti 10 straipsnio 2 dalį 7 punktu:

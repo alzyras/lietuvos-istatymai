@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "cb7514106fcc11e9a13eeecaacbc653f"
 pavadinimas: "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas"
+  - "mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2019-05-07"
 latest_path: "latest/cb7514106fcc11e9a13eeecaacbc653f.md"
 latest_sha256: "00a6bee26ceaecf1fad1fdc3e8bc8e0393d08386aa3a145537b60fb6977a6687"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/cb7514106fcc11e9a13eeecaacbc653f]]"
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/cb7514106fcc11e9a13eeecaacbc653f.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/cb7514106fcc11e9a13eeecaacbc653f
+- Ryšiai: [[Ryšiai/cb7514106fcc11e9a13eeecaacbc653f|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 77 straipsnio pakeitimas
+### 1 straipsnis. 77 straipsnio pakeitimas ^s-ce9ac83dcce804f0b862ae88
 
 
 Pakeisti 77 straipsnio 3 dalį ir ją išdėstyti taip:

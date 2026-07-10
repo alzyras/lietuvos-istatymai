@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.86A7362C164A"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 151, 168, 186, 276, 407, 409 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 151, 168, 186, 276, 407, 409 straipsnių pakeitimo ir papildymo įstatymas"
+  - "baudžiamojo proceso kodekso 151, 168, 186, 276, 407, 409 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-09"
 latest_path: "latest/TAR.86A7362C164A.md"
 latest_sha256: "fd800d5dbdaf102f12d324f9aa44e39629a776f6e5bff39ea62f3e385f02b9ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.86A7362C164A]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 151, 168, 186, 276, 407, 409 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.86A7362C164A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.86A7362C164A
+- Ryšiai: [[Ryšiai/TAR.86A7362C164A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 151 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 151 straipsnio 7 dalies pakeitimas ^s-dc2df18471269f4e22408bf3
 
 
 151 straipsnio 7 dalyje po žodžių „bylose dėl“ įrašyti žodžius „sunkių ar“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 168 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 168 straipsnio 2 dalies pakeitimas ^s-bd74f49929c8d5c90b03674d
 
 
 168 straipsnio 2 dalyje po žodžio „vadovo“ įrašyti žodžius „arba jo įgalioto asmens“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 186 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 186 straipsnio 1 dalies pakeitimas ^s-207da69a389462f2dd7bb29e
 
 
 186 straipsnio 1 dalyje po žodžio „tvarka“ įrašyti žodžius „kai vaiko interesais to prašo jo atstovas, prokuroras ar gynėjas arba šio Kodekso 184 straipsnio 1 dalyje numatytais atvejais“ ir šią dalį išdėstyti taip:
@@ -61,7 +66,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 276 straipsnio papildymas 5 dalimi
+### 4 straipsnis. 276 straipsnio papildymas 5 dalimi ^s-acfc8c46d86ccab1339e71f5
 
 
 Papildyti 276 straipsnį 5 dalimi:
@@ -71,7 +76,7 @@ Papildyti 276 straipsnį 5 dalimi:
 
 
 
-### 5 straipsnis. 407 straipsnio pakeitimas
+### 5 straipsnis. 407 straipsnio pakeitimas ^s-a00dc16d3034d8bf3594eb6e
 
 
 407 straipsnyje po žodžių „baudžiamojo kodekso“ įrašyti skaičius ir žodžius „139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje“ ir šį straipsnį išdėstyti taip:
@@ -84,7 +89,7 @@ Baudžiamųjų bylų dėl nusikalstamų veikų, numatytų Lietuvos Respublikos b
 
 
 
-### 6 straipsnis. 409 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 409 straipsnio 1 dalies pakeitimas ^s-6224ae33cca226a062fa120f
 
 
 409 straipsnio 1 dalyje po žodžio „reikšmę“ įrašyti žodžius „ar jomis padaryta žala asmeniui, kuris dėl svarbių priežasčių negali ginti teisėtų savo interesų“ ir šią dalį išdėstyti taip:

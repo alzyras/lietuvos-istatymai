@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF0245D5DC4D"
 pavadinimas: "Dėl Lietuvos Respublikos Vyriausybės emigracijoje"
+aliases:
+  - "Dėl Lietuvos Respublikos Vyriausybės emigracijoje"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-01-13"
 latest_path: "latest/TAR.CF0245D5DC4D.md"
 latest_sha256: "8ff2eefe7da96dd10c81928a609e292748d4da1ab1c76978d596635739fe2d7d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF0245D5DC4D]]"
 ---
 # Dėl Lietuvos Respublikos Vyriausybės emigracijoje
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF0245D5DC4D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF0245D5DC4D
+- Ryšiai: [[Ryšiai/TAR.CF0245D5DC4D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

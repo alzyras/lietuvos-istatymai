@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.379FCF788856"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-22"
 latest_path: "latest/TAR.379FCF788856.md"
 latest_sha256: "659762d9e76beb4ba89d6b6ddf93219dfc42a6cbd35023e2be68792cc4cfc0c8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.379FCF788856]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.379FCF788856.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.379FCF788856
+- Ryšiai: [[Ryšiai/TAR.379FCF788856|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,10 +40,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-3a5f5747dfd24650f5d45c9f
 
 
-1. Pakeisti 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^6d52238c27400e57316c67c3
+1. Pakeisti 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^s-5a730df48a5c11fe210ba320
 
 
 
@@ -65,7 +70,7 @@ Vilnius
 
 
 
-2. 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 11 punktą pripažinti netekusiu galios. ^e6e65756f9a160740743d3a6
+2. 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 11 punktą pripažinti netekusiu galios. ^s-b391a7b7151a115c73e2d782
 
 
 

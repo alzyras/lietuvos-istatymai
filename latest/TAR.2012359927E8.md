@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2012359927E8"
 pavadinimas: "Lietuvos Respublikos prokuratūros įstatymo 37-1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prokuratūros įstatymo 37-1 straipsnio pakeitimo įstatymas"
+  - "prokuratūros įstatymo 37-1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-10-01"
 latest_path: "latest/TAR.2012359927E8.md"
 latest_sha256: "fb38d0e08940dfb95ae6df078514fc2d4b5fad10945b6b366c0fc9528916fcb1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2012359927E8]]"
 ---
 # Lietuvos Respublikos prokuratūros įstatymo 37-1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2012359927E8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2012359927E8
+- Ryšiai: [[Ryšiai/TAR.2012359927E8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 371 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 371 straipsnio 2 dalies pakeitimas ^s-149bf1b91a860c7847351055
 
 
 371 straipsnio 2 dalyje išbraukti žodžius „iki delegavimo“, vietoj žodžio „suteikiamos“ įrašyti žodžius „apmokamos kitos“, vietoj žodžių „socialinės garantijos“ įrašyti žodį „išlaidos“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-91f8e227dcbb5dc2e3ce14df
 
 
 Šis įstatymas įsigalioja 2009 m. spalio 1 d.

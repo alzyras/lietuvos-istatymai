@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.346B8A68B603"
 pavadinimas: "Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5, 8, 10, 29 ir 30 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5, 8, 10, 29 ir 30 straipsnių pakeitimo įstatymas"
+  - "vartotojų teisių gynimo įstatymo 5, 8, 10, 29 ir 30 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-02-11"
 latest_path: "latest/TAR.346B8A68B603.md"
 latest_sha256: "21dec632b0a72a1f96d7904d7708d51b7f05c4072900ec358cdf803c2ffcf179"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.346B8A68B603]]"
 ---
 # Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5, 8, 10, 29 ir 30 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.346B8A68B603.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.346B8A68B603
+- Ryšiai: [[Ryšiai/TAR.346B8A68B603|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 11 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 11 dalies pakeitimas ^s-43037547d42ed2449e327fd1
 
 
 5 straipsnio 11 dalyje po žodžio „inspekciją“ įrašyti žodžius „prie Ūkio ministerijos“, po žodžių „(toliau – Inspekcija)“ įrašyti žodžius „Valstybinę visuomenės sveikatos priežiūros tarnybą prie Sveikatos apsaugos ministerijos (toliau – Valstybinė visuomenės sveikatos priežiūros tarnyba) ar jai pavaldžius visuomenės sveikatos centrus apskrityse“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 8 straipsnio 6 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 6 dalies pakeitimas ^s-f072a5cd78dc6907c58a0c88
 
 
 8 straipsnio 6 dalyje išbraukti žodį „ar“, po žodžio „Inspekciją“ įrašyti žodžius „Valstybinę visuomenės sveikatos priežiūros tarnybą ar jai pavaldžius visuomenės sveikatos centrus apskrityse“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 10 straipsnio pakeitimas
+### 3 straipsnis. 10 straipsnio pakeitimas ^s-bca2332bfb51d57ff53791e6
 
 
 10 straipsnyje vietoj žodžių „ar Inspekcijos“ įrašyti žodžius „Inspekcijos, Valstybinės visuomenės sveikatos priežiūros tarnybos ar jai pavaldžių visuomenės sveikatos centrų apskrityse“ ir šį straipsnį išdėstyti taip:
@@ -64,7 +69,7 @@ Nacionalinė vartotojų teisių apsaugos taryba prie Vyriausybės įgaliotos min
 
 
 
-### 4 straipsnis. 29 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 29 straipsnio 1 dalies pakeitimas ^s-781a543d3892ded532c9f0d7
 
 
 29 straipsnio 1 dalyje išbraukti žodį „ir“, po žodžio „Inspekcija“ įrašyti žodžius „Valstybine visuomenės sveikatos priežiūros tarnyba ar jai pavaldžiais visuomenės sveikatos centrais apskrityse“ ir šią dalį išdėstyti taip:
@@ -74,7 +79,7 @@ Nacionalinė vartotojų teisių apsaugos taryba prie Vyriausybės įgaliotos min
 
 
 
-### 5 straipsnis. 30 straipsnio 1 dalies 1 punkto pakeitimas
+### 5 straipsnis. 30 straipsnio 1 dalies 1 punkto pakeitimas ^s-951f5e303a3d848e9de762f2
 
 
 30 straipsnio 1 dalies 1 punkte vietoj žodžių „ir Inspekcijos“ įrašyti žodžius „Inspekcijos, Valstybinės visuomenės sveikatos priežiūros tarnybos ar jai pavaldžių visuomenės sveikatos centrų apskrityse“ ir šį punktą išdėstyti taip:

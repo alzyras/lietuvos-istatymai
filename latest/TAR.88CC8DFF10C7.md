@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.88CC8DFF10C7"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas"
+  - "civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-01"
 latest_path: "latest/TAR.88CC8DFF10C7.md"
 latest_sha256: "372eefb67c4473432fac2acd11cc9e3739c41c266f148165a0113209587cced9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.88CC8DFF10C7]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.88CC8DFF10C7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.88CC8DFF10C7
+- Ryšiai: [[Ryšiai/TAR.88CC8DFF10C7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6.923 straipsnio pakeitimas
+### 1 straipsnis. 6.923 straipsnio pakeitimas ^s-c120326d063cfe3c31784380
 
 
 Pakeisti 6.923 straipsnį ir jį išdėstyti taip:
@@ -46,7 +51,7 @@ Lėšos nurašomos pagal kliento nurodymų ir kitų dokumentų gavimo eilę (kal
 
 
 
-### 2 straipsnis. Kodekso papildymas 6.9301 straipsniu
+### 2 straipsnis. Kodekso papildymas 6.9301 straipsniu ^s-d46ffe3aeb903b396cc76930
 
 
 Papildyti Kodeksą 6.9301 straipsniu:
@@ -56,32 +61,32 @@ Papildyti Kodeksą 6.9301 straipsniu:
 „6.9301 straipsnis. Atsiskaitymų grynaisiais ir negrynaisiais pinigais eiliškumas
 
 
-1. Skolininkas – fizinis ar juridinis asmuo, kuris neturi pakankamai lėšų visiems pareikštiems reikalavimams patenkinti, privalo atsiskaitymus atlikti šia eile: ^db55ea156fb5fe7c517935b9
+1. Skolininkas – fizinis ar juridinis asmuo, kuris neturi pakankamai lėšų visiems pareikštiems reikalavimams patenkinti, privalo atsiskaitymus atlikti šia eile: ^s-a91807602336d36bbc4aeb7a
 
 
-1) pirmąja eile atsiskaityti pagal vykdomuosius dokumentus dėl žalos, padarytos dėl sveikatos sužalojimo ar gyvybės atėmimo, atlyginimo ir išlaikymo išieškojimo; ^d2f96e07d7cc8be8d6c9c647
+1) pirmąja eile atsiskaityti pagal vykdomuosius dokumentus dėl žalos, padarytos dėl sveikatos sužalojimo ar gyvybės atėmimo, atlyginimo ir išlaikymo išieškojimo; ^s-f6d504cd1a0783cf420f0940
 
 
-2) antrąja eile atsiskaityti pagal vykdomuosius dokumentus dėl išmokų, atsirandančių iš darbo ir autorinių sutarčių; ^a15c3a7efafdd1a519e09eaa
+2) antrąja eile atsiskaityti pagal vykdomuosius dokumentus dėl išmokų, atsirandančių iš darbo ir autorinių sutarčių; ^s-6c6d7a0ecb4dfc745796e082
 
 
-3) trečiąja eile atsiskaityti pagal mokėjimo dokumentus, nustatančius įmokas į biudžetą (valstybės, savivaldybės, Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetus) ir valstybės pinigų fondus; ^fd4c7ad47c86ee2e9c99c2a8
+3) trečiąja eile atsiskaityti pagal mokėjimo dokumentus, nustatančius įmokas į biudžetą (valstybės, savivaldybės, Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetus) ir valstybės pinigų fondus; ^s-d8dc71359bb5d665ccc0ffb8
 
 
-4) ketvirtąja eile atsiskaityti pagal vykdomuosius dokumentus kitiems piniginiams reikalavimams patenkinti; ^798050309d3e884c8bad2af0
+4) ketvirtąja eile atsiskaityti pagal vykdomuosius dokumentus kitiems piniginiams reikalavimams patenkinti; ^s-c3cbd45e934442bf7343ac94
 
 
-5) penktąja eile atsiskaityti pagal kitus mokėjimo dokumentus kalendorinio eiliškumo tvarka. ^c194a3683a2f6fe1e1b239aa
+5) penktąja eile atsiskaityti pagal kitus mokėjimo dokumentus kalendorinio eiliškumo tvarka. ^s-572189d6cc53f50749b946e5
 
 
-2. Atsiskaitymai pagal tos pačios eilės reikalavimus atliekami mokėjimo dokumentų gavimo kalendorinio eiliškumo tvarka. ^e9b45332b1dfe6a161e6f36d
+2. Atsiskaitymai pagal tos pačios eilės reikalavimus atliekami mokėjimo dokumentų gavimo kalendorinio eiliškumo tvarka. ^s-24c47a64abe7415f613fb8e9
 
 
-3. Atsiskaitymų eilę vykdymo proceso, bankroto, restruktūrizavimo ir kitais įstatymų numatytais atvejais nustato kiti įstatymai.“ ^32a1df523dd064176c1f3fd0
+3. Atsiskaitymų eilę vykdymo proceso, bankroto, restruktūrizavimo ir kitais įstatymų numatytais atvejais nustato kiti įstatymai.“ ^s-f0622ce65837b83c1423f94d
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-63a401f31a05a4973f439d96
 
 
 Šis įstatymas įsigalioja 2013 m. spalio 1 d.

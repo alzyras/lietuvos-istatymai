@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8F8ACB1ABA4F"
 pavadinimas: "Dėl Lietuvos Respublikoje veikiančių TSRS bankų įstaigų   nuosavybės"
+aliases:
+  - "Dėl Lietuvos Respublikoje veikiančių TSRS bankų įstaigų   nuosavybės"
+  - "Dėl Lietuvos Respublikoje veikiančių TSRS bankų įstaigų nuosavybės"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-10-02"
 latest_path: "latest/TAR.8F8ACB1ABA4F.md"
 latest_sha256: "ffe915e311070b9f410aa448bf873bdc8773f856f39dbf0d92330606541e4d8b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8F8ACB1ABA4F]]"
 ---
 # Dėl Lietuvos Respublikoje veikiančių TSRS bankų įstaigų   nuosavybės
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8F8ACB1ABA4F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8F8ACB1ABA4F
+- Ryšiai: [[Ryšiai/TAR.8F8ACB1ABA4F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

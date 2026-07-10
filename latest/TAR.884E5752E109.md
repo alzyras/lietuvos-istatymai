@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.884E5752E109"
 pavadinimas: "Lietuvos Respublikos Tarptautinės darbo organizacijos konvencijų ratifikavimo įstatymo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Tarptautinės darbo organizacijos konvencijų ratifikavimo įstatymo papildymo įstatymas"
+  - "Tarptautinės darbo organizacijos konvencijų ratifikavimo įstatymo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-04-30"
 latest_path: "latest/TAR.884E5752E109.md"
 latest_sha256: "ca9fd11163e153eca84eab7d5cc96c876bac42f3e3713c40b75a0a152eb10204"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.884E5752E109]]"
 ---
 # Lietuvos Respublikos Tarptautinės darbo organizacijos konvencijų ratifikavimo įstatymo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.884E5752E109.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.884E5752E109
+- Ryšiai: [[Ryšiai/TAR.884E5752E109|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 2 straipsniu
+### 1 straipsnis. Įstatymo papildymas 2 straipsniu ^s-fae85ee055bf69dd151e29b4
 
 
 Papildyti Įstatymą 2 straipsniu:

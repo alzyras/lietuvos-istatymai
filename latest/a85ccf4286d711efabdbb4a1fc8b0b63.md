@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "a85ccf4286d711efabdbb4a1fc8b0b63"
 pavadinimas: "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 39 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 39 straipsnio pakeitimo įstatymas"
+  - "farmacijos įstatymo Nr. X-709 39 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2025-01-01"
 latest_path: "latest/a85ccf4286d711efabdbb4a1fc8b0b63.md"
 latest_sha256: "61458fee0f565e791fcb45ae75ceebc7912e56b5bce87522cacee4311942be69"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/a85ccf4286d711efabdbb4a1fc8b0b63]]"
 ---
 # Lietuvos Respublikos farmacijos įstatymo Nr. X-709 39 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/a85ccf4286d711efabdbb4a1fc8b0b63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/a85ccf4286d711efabdbb4a1fc8b0b63
+- Ryšiai: [[Ryšiai/a85ccf4286d711efabdbb4a1fc8b0b63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio pakeitimas
+### 1 straipsnis. 39 straipsnio pakeitimas ^s-ceea22610d493c86c7b4c7e7
 
 
 Papildyti 39 straipsnį 12 punktu:
@@ -42,13 +47,13 @@ Papildyti 39 straipsnį 12 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-787d43081dafbcef9ea89fca
 
 
-1. Šis įstatymas, išskyrus [[#^2e7cb2efd07959e6f6ad1cc1|šio straipsnio 2 dalį]], įsigalioja 2025 m. sausio 1 d. ^6648aba47c0e73215b923aa8
+1. Šis įstatymas, išskyrus [[#^s-e65de430535ad9602003533f|šio straipsnio 2 dalį]], įsigalioja 2025 m. sausio 1 d. ^s-2ac617ff3309d73ade8e53e9
 
 
-2. Sveikatos apsaugos ministro įgaliota institucija iki 2024 m. lapkričio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^2e7cb2efd07959e6f6ad1cc1
+2. Sveikatos apsaugos ministro įgaliota institucija iki 2024 m. lapkričio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-e65de430535ad9602003533f
 
 
 

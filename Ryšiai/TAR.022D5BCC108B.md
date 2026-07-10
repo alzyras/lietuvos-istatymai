@@ -1,0 +1,16 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.022D5BCC108B"
+pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 1, 15, 19, 28, 29 straipsnių pakeitimo ir papildymo įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas"
+---
+# Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 1, 15, 19, 28, 29 straipsnių pakeitimo ir papildymo įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas: ryšiai
+
+- [[latest/TAR.022D5BCC108B|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+_Nėra._
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.4325B0C38B2F#^s-0f293cf075915aa864230fb7|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 2 citatos - NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 1, 15, 19, 28, 29 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

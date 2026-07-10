@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.878FFB98A813"
 pavadinimas: "Lietuvos Respublikos profesinės sveikatos priežiūros įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos profesinės sveikatos priežiūros įstatymo pripažinimo netekusiu galios įstatymas"
+  - "profesinės sveikatos priežiūros įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-23"
 latest_path: "latest/TAR.878FFB98A813.md"
 latest_sha256: "147a7b5ea1548e299843919a6cd172502d16dcf956c5a758fc6cd8ba3d7d5356"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.878FFB98A813]]"
 ---
 # Lietuvos Respublikos profesinės sveikatos priežiūros įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.878FFB98A813.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.878FFB98A813
+- Ryšiai: [[Ryšiai/TAR.878FFB98A813|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-d7027220557673aed1b95990
 
 
 Lietuvos Respublikos profesinės sveikatos priežiūros įstatymą pripažinti netekusiu galios.

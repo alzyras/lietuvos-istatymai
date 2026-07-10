@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF085ECC469E"
 pavadinimas: "Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymas"
+  - "elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-19"
 latest_path: "latest/TAR.AF085ECC469E.md"
 latest_sha256: "0e452917cb3cf7ccd77ab6c2c3ec9b9f9933e6b54f00f1fd50abd58aeb85532f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF085ECC469E]]"
 ---
 # Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF085ECC469E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF085ECC469E
+- Ryšiai: [[Ryšiai/TAR.AF085ECC469E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -46,128 +51,128 @@ priima Lietuvos Respublikos elektros energetikos sistemos integracijos į Europo
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-f4babeb5941ea0acc003bcb1
 
 
 Šis įstatymas nustato Lietuvos Respublikos elektros energetikos sistemos visavertės integracijos į Europos elektros energetikos sistemas svarbiausius etapus, būtinąsias sąlygas ir bendruosius įgyvendinimo principus.
 
 
 
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-d22e39483a7850b7054453cf
 
 
-1. Baltijos valstybės – Lietuvos Respublika, Latvijos Respublika ir Estijos Respublika. ^a7eed49e99ff6e193387018a
+1. Baltijos valstybės – Lietuvos Respublika, Latvijos Respublika ir Estijos Respublika. ^s-20e3429353210c1b5a44fe3f
 
 
-2. Elektros jungtys – jungiamosios linijos, sujungsiančios Lietuvos Respublikos elektros perdavimo sistemą su Lenkijos Respublikos ir Švedijos Karalystės elektros perdavimo sistemomis. ^d112e32c0c5be09b48de1c5b
+2. Elektros jungtys – jungiamosios linijos, sujungsiančios Lietuvos Respublikos elektros perdavimo sistemą su Lenkijos Respublikos ir Švedijos Karalystės elektros perdavimo sistemomis. ^s-0e1520c37c791da706470701
 
 
-3. Kontinentinės Europos elektros tinklai – Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) regioninės grupės, apimančios buvusios Vakarų Europos elektros perdavimo koordinavimo sąjungos (UCTE) valstybių elektros perdavimo sistemų operatorius, sinchroniniu režimu dirbantys elektros perdavimo tinklai. ^2f349388cc950c3fe01dffb7
+3. Kontinentinės Europos elektros tinklai – Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) regioninės grupės, apimančios buvusios Vakarų Europos elektros perdavimo koordinavimo sąjungos (UCTE) valstybių elektros perdavimo sistemų operatorius, sinchroniniu režimu dirbantys elektros perdavimo tinklai. ^s-ac619578a2c3a431222d1297
 
 
-4. Nauja regioninė branduolinė (atominė) elektrinė – visuma įrenginių ir statinių, skirtų elektros arba elektros ir šilumos energijai gaminti, naudojant branduolinį kurą. ^3ae9d165b4cc07a7495c6334
+4. Nauja regioninė branduolinė (atominė) elektrinė – visuma įrenginių ir statinių, skirtų elektros arba elektros ir šilumos energijai gaminti, naudojant branduolinį kurą. ^s-00cd7dceb0976a91befc6368
 
 
 
-### 3 straipsnis. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas etapai
+### 3 straipsnis. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas etapai ^s-a2a498658f59dcb51554f9ee
 
 
 Siekiant užtikrinti visavertę Lietuvos elektros energetikos sistemos integraciją į Europos elektros energetikos sistemas, nustatomi šie integracijos etapai ir planuotini jų įgyvendinimo terminai:
 
 
-1) Lietuvos Respublikos elektros perdavimo tinklų jungties su Lenkijos Respublikos elektros perdavimo tinklais LitPol Link 1 eksploatavimo pradžia 2015 metais ir šios jungties išplėtimas 2020 metais; ^bd4a50a84c342996be84d7e7
+1) Lietuvos Respublikos elektros perdavimo tinklų jungties su Lenkijos Respublikos elektros perdavimo tinklais LitPol Link 1 eksploatavimo pradžia 2015 metais ir šios jungties išplėtimas 2020 metais; ^s-44949fc50ff54a51ac78904e
 
 
-2) Lietuvos Respublikos elektros perdavimo tinklų jungties su Lenkijos Respublikos elektros perdavimo tinklais LitPol Link 2 nutiesimas 2018–2020 metais; ^ea1f0284470cfb88322e0cad
+2) Lietuvos Respublikos elektros perdavimo tinklų jungties su Lenkijos Respublikos elektros perdavimo tinklais LitPol Link 2 nutiesimas 2018–2020 metais; ^s-bf705b841dbc86d57b2d6492
 
 
-3) Lietuvos Respublikos elektros perdavimo tinklų jungties su Švedijos Karalystės elektros perdavimo tinklais NordBalt eksploatavimo pradžia 2015 metais; ^d1a73443dc4033a90187e75c
+3) Lietuvos Respublikos elektros perdavimo tinklų jungties su Švedijos Karalystės elektros perdavimo tinklais NordBalt eksploatavimo pradžia 2015 metais; ^s-7eff77e84ebc44855a8de4e3
 
 
-4) regioninės Baltijos valstybių elektros rinkos sukūrimas iki 2013 metų įgyvendinant Baltijos energijos rinkos jungčių plane (BEMIP) numatytus veiksmus ir dalyvavimas Šiaurės šalių ir Europos elektros rinkose; ^0b5f185a1d0ff912226a49b5
+4) regioninės Baltijos valstybių elektros rinkos sukūrimas iki 2013 metų įgyvendinant Baltijos energijos rinkos jungčių plane (BEMIP) numatytus veiksmus ir dalyvavimas Šiaurės šalių ir Europos elektros rinkose; ^s-d2be5ecb6a7f751e37029ea7
 
 
-5) konkurencingų vietinių elektros energijos gamybos pajėgumų plėtra, užtikrinanti nepertraukiamą elektros energetikos sistemos adekvatumą; ^9efd55c561fb9ad8161536e9
+5) konkurencingų vietinių elektros energijos gamybos pajėgumų plėtra, užtikrinanti nepertraukiamą elektros energetikos sistemos adekvatumą; ^s-b6bdd0460ee6941d576664bb
 
 
-6) Lietuvos Respublikos elektros energetikos sistemos sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu 2020 metais. ^fd2f44277bd64082ac05fe93
-
-
-
-### 4 straipsnis. Lietuvos Respublikos elektros energetikos sistemos visavertė integracija į kontinentinės Europos elektros tinklus darbui sinchroniniu režimu
-
-
-1. Lietuvos Respublikos elektros energetikos sistemos visavertei integracijai į Europos elektros energetikos sistemas būtina sujungti Lietuvos Respublikos elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu. ^1c440fc3a94d16b82bf1c06b
-
-
-2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos bei Lietuvos Respublikos elektros perdavimo sistemos operatorius, pagal savo kompetenciją įgyvendinantys Lietuvos Respublikos elektros energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu: ^afb4208e0ec2ff86eaf12931
-
-
-1) vadovaujasi kompetentingų Europos Sąjungos institucijų sprendimais dėl Europos Komisijos derybų (Europos Sąjungos vardu, dalyvaujant Baltijos valstybėms) su Rusijos Federacija ir Baltarusijos Respublika dėl Baltijos valstybių elektros energetikos sistemų valdymo principų pakeitimo ir pereinamojo laikotarpio sąlygų ir (ar) atitinkamais susitarimais; ^1e466b309c699e41c1106087
-
-
-2) vadovaudamiesi [[#^1e466b309c699e41c1106087|šios dalies 1 punkte]] nurodytais sprendimais ir (ar) susitarimais, vykdo Lietuvos Respublikos elektros energetikos sistemos (kartu su kitų Baltijos valstybių elektros energetikos sistemomis) desinchronizaciją nuo Nepriklausomų Valstybių Sandraugos šalių elektros energetikos sistemos (IPS/UPS) ir sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu. ^206616b159485819f9e85629
+6) Lietuvos Respublikos elektros energetikos sistemos sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu 2020 metais. ^s-bc54dca2b236a4dc87257127
 
 
 
-### 5 straipsnis. Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinosios sąlygos
+### 4 straipsnis. Lietuvos Respublikos elektros energetikos sistemos visavertė integracija į kontinentinės Europos elektros tinklus darbui sinchroniniu režimu ^s-c6282780e07b2bd44c317939
 
 
-1. Valstybės ir savivaldybių institucijos, Lietuvos Respublikos elektros perdavimo sistemos operatorius, taip pat kitos įmonės, įstaigos ir organizacijos pagal kompetenciją teisės aktų nustatyta tvarka ir sąlygomis užtikrina Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinąsias teisines, technines, organizacines, finansines ir kitas sąlygas, tarp jų rezervinę galią, taip pat įgyvendinamų ar numatomų įgyvendinti elektros energetikos projektų atitiktį Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais keliamiems reikalavimams. ^fc6241723ea56738570dd4ee
+1. Lietuvos Respublikos elektros energetikos sistemos visavertei integracijai į Europos elektros energetikos sistemas būtina sujungti Lietuvos Respublikos elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu. ^s-8a1ad9a3ab110990a3943f21
 
 
-2. Nustatomos šios Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinosios sąlygos: ^472331c2deea1cef27057e1d
+2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos bei Lietuvos Respublikos elektros perdavimo sistemos operatorius, pagal savo kompetenciją įgyvendinantys Lietuvos Respublikos elektros energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu: ^s-7c164b77a7a2145b75c769e2
 
 
-1) Lietuvos Respublikos elektros energetikos sistemos plėtros projektai, įskaitant elektros jungtis, reikalingų keitiklių stotis ir vidaus elektros perdavimo tinklus, turi atitikti Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais techninius ir kitus kriterijus; ^306b0fca1f905f1673cc3947
+1) vadovaujasi kompetentingų Europos Sąjungos institucijų sprendimais dėl Europos Komisijos derybų (Europos Sąjungos vardu, dalyvaujant Baltijos valstybėms) su Rusijos Federacija ir Baltarusijos Respublika dėl Baltijos valstybių elektros energetikos sistemų valdymo principų pakeitimo ir pereinamojo laikotarpio sąlygų ir (ar) atitinkamais susitarimais; ^s-5af1ce54e91918f4ee979916
 
 
-2) nauji Lietuvos Respublikos elektros energijos gamybos šaltiniai turi būti techniškai įrengti taip, kad atitiktų Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais parametrus; ^850d70e4eaa1b005d85dcc47
-
-
-3) Lietuvos Respublikos, taip pat kitų Baltijos valstybių elektros energetikos sistemų adekvatumui ir konkurencingiems vietiniams elektros energijos gamybos pajėgumams užtikrinti strateginę reikšmę turinti nauja regioninė branduolinė (atominė) elektrinė privalo atitikti reikalavimus, būtinus Lietuvos Respublikos elektros energetikos sistemai sujungti su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, kartu užtikrinant pirminės galios rezervus iš Baltijos valstybių elektros gamybos šaltinių ir per kintamosios bei nuolatinės srovės jungtis; ^560b3e48072e03d9513dcd17
-
-
-4) esami vietiniai Lietuvos Respublikos elektros energijos gamybos šaltiniai turi būti pritaikyti ir atitikti Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais techninius ir kitus kriterijus, vadovaujantis Lietuvos Respublikos elektros perdavimo sistemos operatoriaus parengtais ir, suderinus su Energetikos ministerija ir Valstybine kainų ir energetikos kontrolės komisija, patvirtintais nediskriminaciniais reikalavimais; ^049ae1e80860a7f38fc0fb88
-
-
-5) Lietuvos Respublikos elektros energetikos sistemos infrastruktūra turi būti išplėtota taip, kad Lietuvos Respublikos elektros energetikos sistemą būtų galima sujungti su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu. ^658644073afeb4de1065ba54
-
-
-3. Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais teisiniai, techniniai, organizaciniai ir kiti kriterijai, užtikrinantys sinchroniniam darbui sujungtų elektros energetikos sistemų sąveiką ir nustatantys būtinuosius reikalavimus tokių sistemų veiklai, numatomi teisės aktuose, Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) tvirtinamuose dokumentuose, kituose Europos Sąjungos valstybių narių elektros perdavimo sistemos operatorių tarpusavyje suderintuose normatyviniuose techniniuose dokumentuose ir (ar) Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių elektros perdavimo sistemų operatorių sudarytose sutartyse. ^f953cafd06b25b5fcb5e007e
-
-
-4. Elektros energijos gamintojai teisės aktų nustatytu mastu ir tvarka, užtikrinančia gamintojų lygiateisiškumą, padengia Lietuvos Respublikos perdavimo sistemos operatoriaus sąnaudas, patirtas atliekant galios ir elektros energijos rezervavimo funkciją. ^577c4cd4ca6386df6e74bf6f
+2) vadovaudamiesi [[#^s-5af1ce54e91918f4ee979916|šios dalies 1 punkte]] nurodytais sprendimais ir (ar) susitarimais, vykdo Lietuvos Respublikos elektros energetikos sistemos (kartu su kitų Baltijos valstybių elektros energetikos sistemomis) desinchronizaciją nuo Nepriklausomų Valstybių Sandraugos šalių elektros energetikos sistemos (IPS/UPS) ir sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu. ^s-21dca8453387dee0806a1d1e
 
 
 
-### 6 straipsnis. Įstatymo įgyvendinimas
+### 5 straipsnis. Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinosios sąlygos ^s-97b589d98a36abeb01fe807c
 
 
-1. Lietuvos Respublikos elektros energetikos sistemos integraciją į Europos elektros energetikos sistemas Lietuvos Respublikos Vyriausybės nustatyta tvarka įgyvendina Lietuvos Respublikos elektros perdavimo sistemos operatorius. Vyriausybė nustato šio įstatymo [[#3 straipsnis. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas etapai|3 straipsnyje]] nurodytų Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas etapų įgyvendinimo kryptis ir konkrečių veiksmų planą, koordinuoja ir prižiūri jo įgyvendinimą. ^3473a217846ab659171c0df3
+1. Valstybės ir savivaldybių institucijos, Lietuvos Respublikos elektros perdavimo sistemos operatorius, taip pat kitos įmonės, įstaigos ir organizacijos pagal kompetenciją teisės aktų nustatyta tvarka ir sąlygomis užtikrina Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinąsias teisines, technines, organizacines, finansines ir kitas sąlygas, tarp jų rezervinę galią, taip pat įgyvendinamų ar numatomų įgyvendinti elektros energetikos projektų atitiktį Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais keliamiems reikalavimams. ^s-346858460290249b90614302
 
 
-2. Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos teisės aktų nustatyta tvarka pagal kompetenciją priima sprendimus, reikalingus šiam įstatymui tinkamai įgyvendinti. ^d8386f527bfd63bb573eb4fb
+2. Nustatomos šios Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinosios sąlygos: ^s-95e743d0c748d98694bbb669
 
 
-3. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įgyvendinimas finansuojamas viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšomis Lietuvos Respublikos elektros energetikos įstatymo nustatyta tvarka, taip pat šios integracijos įgyvendinimui iš dalies finansuoti teisės aktų nustatyta tvarka ir sąlygomis gali būti naudojamos Europos Sąjungos finansinės paramos lėšos, įskaitant 2014–2020 metų Europos Sąjungos finansinėje perspektyvoje energetikos projektams skiriamą paramą, ir (ar) kitos teisėtai gautos lėšos. ^36604342d224da6e9b01a2c3
+1) Lietuvos Respublikos elektros energetikos sistemos plėtros projektai, įskaitant elektros jungtis, reikalingų keitiklių stotis ir vidaus elektros perdavimo tinklus, turi atitikti Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais techninius ir kitus kriterijus; ^s-13e0cfa42bffec4cb548e8a8
+
+
+2) nauji Lietuvos Respublikos elektros energijos gamybos šaltiniai turi būti techniškai įrengti taip, kad atitiktų Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais parametrus; ^s-0225981218488ebd6e41c6d1
+
+
+3) Lietuvos Respublikos, taip pat kitų Baltijos valstybių elektros energetikos sistemų adekvatumui ir konkurencingiems vietiniams elektros energijos gamybos pajėgumams užtikrinti strateginę reikšmę turinti nauja regioninė branduolinė (atominė) elektrinė privalo atitikti reikalavimus, būtinus Lietuvos Respublikos elektros energetikos sistemai sujungti su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, kartu užtikrinant pirminės galios rezervus iš Baltijos valstybių elektros gamybos šaltinių ir per kintamosios bei nuolatinės srovės jungtis; ^s-ccf4bc3f3d7d5ca2a4cc01ca
+
+
+4) esami vietiniai Lietuvos Respublikos elektros energijos gamybos šaltiniai turi būti pritaikyti ir atitikti Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais techninius ir kitus kriterijus, vadovaujantis Lietuvos Respublikos elektros perdavimo sistemos operatoriaus parengtais ir, suderinus su Energetikos ministerija ir Valstybine kainų ir energetikos kontrolės komisija, patvirtintais nediskriminaciniais reikalavimais; ^s-515fd9482eb271e2eb6dd887
+
+
+5) Lietuvos Respublikos elektros energetikos sistemos infrastruktūra turi būti išplėtota taip, kad Lietuvos Respublikos elektros energetikos sistemą būtų galima sujungti su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu. ^s-6e2a3cbff45aa1fc1dbca727
+
+
+3. Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais teisiniai, techniniai, organizaciniai ir kiti kriterijai, užtikrinantys sinchroniniam darbui sujungtų elektros energetikos sistemų sąveiką ir nustatantys būtinuosius reikalavimus tokių sistemų veiklai, numatomi teisės aktuose, Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) tvirtinamuose dokumentuose, kituose Europos Sąjungos valstybių narių elektros perdavimo sistemos operatorių tarpusavyje suderintuose normatyviniuose techniniuose dokumentuose ir (ar) Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių elektros perdavimo sistemų operatorių sudarytose sutartyse. ^s-c4310f819909000de27a2931
+
+
+4. Elektros energijos gamintojai teisės aktų nustatytu mastu ir tvarka, užtikrinančia gamintojų lygiateisiškumą, padengia Lietuvos Respublikos perdavimo sistemos operatoriaus sąnaudas, patirtas atliekant galios ir elektros energijos rezervavimo funkciją. ^s-fc35cfeee877f64ceb40123b
 
 
 
-### 7 straipsnis. Regioninis bendradarbiavimas
+### 6 straipsnis. Įstatymo įgyvendinimas ^s-ee0a6218c1f689d9dffff393
 
 
-1. Lietuvos Respublikos elektros energetikos sistemos integracija į Europos elektros energetikos sistemas sujungiant elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu yra Baltijos valstybių elektros energetikos sistemų integracijos į Europos elektros energetikos sistemas dalis. ^8ed7c0bcfdd0cfd002628b41
+1. Lietuvos Respublikos elektros energetikos sistemos integraciją į Europos elektros energetikos sistemas Lietuvos Respublikos Vyriausybės nustatyta tvarka įgyvendina Lietuvos Respublikos elektros perdavimo sistemos operatorius. Vyriausybė nustato šio įstatymo [[#^s-a2a498658f59dcb51554f9ee|3 straipsnyje]] nurodytų Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas etapų įgyvendinimo kryptis ir konkrečių veiksmų planą, koordinuoja ir prižiūri jo įgyvendinimą. ^s-bc16407a33b56acf55a9a330
 
 
-2. Lietuvos Respublikos elektros energetikos sistemos integracija į Europos elektros energetikos sistemas įgyvendinama teisės aktų nustatyta tvarka bendradarbiaujant su Lenkijos Respublika vykdant Lietuvos Respublikos elektros perdavimo tinklų sujungimą darbui sinchroniniu režimu su Lenkijos Respublikos elektros perdavimo tinklais, sinchroniškai veikiančiais su kontinentinės Europos elektros tinklais. Lietuvos Respublikos Vyriausybės įgaliotos institucijos derasi su Lenkijos Respublikos institucijomis ir Europos Komisija dėl šio įstatymo [[#3 straipsnis. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas etapai|3 straipsnio]] 1 ir 2 punktuose numatytų elektros jungčių projektų europinės svarbos pripažinimo ir Europos Sąjungos finansinės paramos skyrimo 2014–2020 metų finansiniu laikotarpiu bei projektų įgyvendinimo iki 2020 metų. ^1b083acbe8e804e999ec3ce8
+2. Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos teisės aktų nustatyta tvarka pagal kompetenciją priima sprendimus, reikalingus šiam įstatymui tinkamai įgyvendinti. ^s-2d691373652ff135415678c5
 
 
-3. Įgyvendinant Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas tikslą ir sujungiant Lietuvos Respublikos elektros perdavimo sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, Lietuvos Respublikos elektros perdavimo sistemos operatorius, valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos pagal kompetenciją atitinkamai koordinuoja savo veiksmus su Latvijos Respublikos, Estijos Respublikos ir Lenkijos Respublikos elektros perdavimo sistemų operatoriais, institucijomis, įmonėmis, įstaigomis ir organizacijomis, Europos Komisija, Europos elektros perdavimo sistemos operatorių asociacija (ENTSO-E) ir Baltijos energijos rinkos jungčių plano (BEMIP) aukšto lygio grupe, kad būtų užtikrintas suderintų sprendimų vieningas priėmimas. ^bc647ec3e43aa83731a2ab6f
+3. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įgyvendinimas finansuojamas viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšomis [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymo]] nustatyta tvarka, taip pat šios integracijos įgyvendinimui iš dalies finansuoti teisės aktų nustatyta tvarka ir sąlygomis gali būti naudojamos Europos Sąjungos finansinės paramos lėšos, įskaitant 2014–2020 metų Europos Sąjungos finansinėje perspektyvoje energetikos projektams skiriamą paramą, ir (ar) kitos teisėtai gautos lėšos. ^s-be5cbc8dc808f2679a1de698
 
 
 
-### 8 straipsnis. Atsakomybė
+### 7 straipsnis. Regioninis bendradarbiavimas ^s-2a7b3e35841333b4bb5ce317
+
+
+1. Lietuvos Respublikos elektros energetikos sistemos integracija į Europos elektros energetikos sistemas sujungiant elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu yra Baltijos valstybių elektros energetikos sistemų integracijos į Europos elektros energetikos sistemas dalis. ^s-e0c1e45974bc1b28f545435e
+
+
+2. Lietuvos Respublikos elektros energetikos sistemos integracija į Europos elektros energetikos sistemas įgyvendinama teisės aktų nustatyta tvarka bendradarbiaujant su Lenkijos Respublika vykdant Lietuvos Respublikos elektros perdavimo tinklų sujungimą darbui sinchroniniu režimu su Lenkijos Respublikos elektros perdavimo tinklais, sinchroniškai veikiančiais su kontinentinės Europos elektros tinklais. Lietuvos Respublikos Vyriausybės įgaliotos institucijos derasi su Lenkijos Respublikos institucijomis ir Europos Komisija dėl šio įstatymo [[#^s-a2a498658f59dcb51554f9ee|3 straipsnio]] 1 ir 2 punktuose numatytų elektros jungčių projektų europinės svarbos pripažinimo ir Europos Sąjungos finansinės paramos skyrimo 2014–2020 metų finansiniu laikotarpiu bei projektų įgyvendinimo iki 2020 metų. ^s-40926755423e2fd897b02d1e
+
+
+3. Įgyvendinant Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas tikslą ir sujungiant Lietuvos Respublikos elektros perdavimo sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, Lietuvos Respublikos elektros perdavimo sistemos operatorius, valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos pagal kompetenciją atitinkamai koordinuoja savo veiksmus su Latvijos Respublikos, Estijos Respublikos ir Lenkijos Respublikos elektros perdavimo sistemų operatoriais, institucijomis, įmonėmis, įstaigomis ir organizacijomis, Europos Komisija, Europos elektros perdavimo sistemos operatorių asociacija (ENTSO-E) ir Baltijos energijos rinkos jungčių plano (BEMIP) aukšto lygio grupe, kad būtų užtikrintas suderintų sprendimų vieningas priėmimas. ^s-e2d217899d73dea85647bcfa
+
+
+
+### 8 straipsnis. Atsakomybė ^s-b604128704f1992895e41895
 
 
 Asmenys, įgalioti priimti su šio įstatymo įgyvendinimu susijusius sprendimus ir nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.

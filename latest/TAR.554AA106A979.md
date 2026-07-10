@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.554AA106A979"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41 straipsnių pakeitimo ir papildymo, V skyriaus pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41 straipsnių pakeitimo ir papildymo, V skyriaus pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "valstybės kontrolės įstatymo 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41 straipsnių pakeitimo ir papildymo, V skyriaus pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-12"
 latest_path: "latest/TAR.554AA106A979.md"
 latest_sha256: "68c641b1ec8019f799c057f28c114a4ba88b6765b53888745d5ceb55d03635e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.554AA106A979]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41 straipsnių pakeitimo ir papildymo, V skyriaus pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.554AA106A979.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.554AA106A979
+- Ryšiai: [[Ryšiai/TAR.554AA106A979|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,85 +36,85 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-30e023f71a80e8008cb08274
 
 
-Pakeisti [[#2 straipsnis. 4 straipsnio pakeitimas|2 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-047a9b6380045c23d673488a|2 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#2 straipsnis. 4 straipsnio pakeitimas|2 straipsnis]]. Pagrindinės Įstatymo sąvokos
+„[[#^s-047a9b6380045c23d673488a|2 straipsnis]]. Pagrindinės Įstatymo sąvokos
 
 
-1. Audituojamas subjektas – institucija, įstaiga, įmonė, organizacija, kitas juridinis asmuo, kuriuose Valstybės kontrolė atlieka valstybinį auditą. ^7d861cd94435ccb65bbb6c4b
+1. Audituojamas subjektas – institucija, įstaiga, įmonė, organizacija, kitas juridinis asmuo, kuriuose Valstybės kontrolė atlieka valstybinį auditą. ^s-a89bd1ee3cd41e6522b63d08
 
 
-2. Finansinis (teisėtumo) auditas – audituojamo subjekto finansinės atskaitomybės ir (ar) kitų ataskaitų duomenų, taip pat valstybės lėšų ir turto valdymo, naudojimo, disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams vertinimas bei nepriklausomos nuomonės pareiškimas. ^15006bdb65acb2e0250f7f59
+2. Finansinis (teisėtumo) auditas – audituojamo subjekto finansinės atskaitomybės ir (ar) kitų ataskaitų duomenų, taip pat valstybės lėšų ir turto valdymo, naudojimo, disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams vertinimas bei nepriklausomos nuomonės pareiškimas. ^s-a5edb27bce385e94a0333520
 
 
-3. Valstybės kontrolė – institucija, atliekanti valstybinį auditą. ^8e0a1178547bd281dbb055c3
+3. Valstybės kontrolė – institucija, atliekanti valstybinį auditą. ^s-7bbd361d49794ef4977cd02f
 
 
-4. Valstybinio audito ataskaita – Valstybės kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame aprašomi atlikto valstybinio audito mastas ir rezultatai. ^4c302e6a154d81ce65b49340
+4. Valstybinio audito ataskaita – Valstybės kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame aprašomi atlikto valstybinio audito mastas ir rezultatai. ^s-c8c785790a7c490ff9454a4a
 
 
-5. Valstybinio audito išvada – Valstybės kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus finansinį (teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto finansinės atskaitomybės ir kitų ataskaitų duomenų bei valstybės lėšų ir turto valdymo, naudojimo, disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams. ^afdfbeabf7f2a94f379f700c
+5. Valstybinio audito išvada – Valstybės kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus finansinį (teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto finansinės atskaitomybės ir kitų ataskaitų duomenų bei valstybės lėšų ir turto valdymo, naudojimo, disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams. ^s-2d4dbced14ee57138ad6ec2e
 
 
-6. Valstybinio audito reikalavimai – taisyklių, principų ir procedūrų visuma, visais reikšmingais atvejais atitinkanti tarptautinius ir nacionalinius audito standartus ir nustatanti, kaip turi būti atliekamas auditas. ^77859488f0be9c73f3db39bd
+6. Valstybinio audito reikalavimai – taisyklių, principų ir procedūrų visuma, visais reikšmingais atvejais atitinkanti tarptautinius ir nacionalinius audito standartus ir nustatanti, kaip turi būti atliekamas auditas. ^s-11ecd791d6ae54db037de6d2
 
 
-7. Valstybinis auditas – auditas, atliekamas Valstybės kontrolės audituojamuose subjektuose pagal Valstybinio audito reikalavimus. ^3e93d7d855c6a589379cc1c4
+7. Valstybinis auditas – auditas, atliekamas Valstybės kontrolės audituojamuose subjektuose pagal Valstybinio audito reikalavimus. ^s-41b0cc925e4742b7cac7645d
 
 
-8. Veiklos auditas – audituojamo subjekto viešojo ir vidaus administravimo veiklos įvertinimas ekonomiškumo, efektyvumo ir rezultatyvumo požiūriu.“ ^ee73be7d9c5e6efe2335c517
+8. Veiklos auditas – audituojamo subjekto viešojo ir vidaus administravimo veiklos įvertinimas ekonomiškumo, efektyvumo ir rezultatyvumo požiūriu.“ ^s-ac593921f6cbfdc42381e8bd
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-047a9b6380045c23d673488a
 
 
-Pakeisti [[#4 straipsnis. 9 straipsnio 3 dalies pakeitimas|4 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-b0e974848939be3f900fa2b8|4 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#4 straipsnis. 9 straipsnio 3 dalies pakeitimas|4 straipsnis]]. Pagrindiniai Valstybės kontrolės uždaviniai
+„[[#^s-b0e974848939be3f900fa2b8|4 straipsnis]]. Pagrindiniai Valstybės kontrolės uždaviniai
 
 
 Pagrindiniai Valstybės kontrolės uždaviniai yra:
 
 
-1) prižiūrėti, ar teisėtai ir efektyviai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas; ^ffc73a502c11f0484dee3cdc
+1) prižiūrėti, ar teisėtai ir efektyviai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas; ^s-d40ac287a69863d6c7200fa9
 
 
-2) skatinti teigiamą ir veiksmingą valstybinio audito poveikį valstybės finansų valdymo ir kontrolės sistemai bei į rezultatus ir visuomenės poreikius orientuotam viešajam valdymui.“ ^02633ac1b338fc2bb4c0b5e8
-
-
-
-### 3 straipsnis. 8 straipsnio pakeitimas
-
-
-Pakeisti [[#8 straipsnis. 14 straipsnio 1 dalies pakeitimas|8 straipsnį]] ir jį išdėstyti taip:
-
-
-„[[#8 straipsnis. 14 straipsnio 1 dalies pakeitimas|8 straipsnis]]. Valstybės kontrolės finansavimo tvarka ir auditas
-
-
-1. Valstybės kontrolė finansuojama iš valstybės biudžeto. ^defa1a6f46254b5c6cbfd3f9
-
-
-2. Valstybės kontrolės biudžeto asignavimų dydį nustato ir skiria Seimas. ^3fb98da35416a83d539c119d
-
-
-3. Išlaidoms, susijusioms su Valstybės kontrolės atstovavimu šalyje ir užsienyje, finansuoti gali būti sudaromas valstybės kontrolieriaus fondas, kuriam, nedidinant Valstybės kontrolei nustatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesinių darbo užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė. ^cddad5edbb8219c9df17a5bb
-
-
-4. Valstybės kontrolės finansinį auditą atlieka Seimo nutarimu paskirta audito įmonė. ^4fb04ed25bc3f01cd6ef8053
-
-
-5. Valstybės kontrolės vidaus auditą atlieka Valstybės kontrolėje įsteigta vidaus audito tarnyba.“ ^be67f3f2d7d055c818b3a7bc
+2) skatinti teigiamą ir veiksmingą valstybinio audito poveikį valstybės finansų valdymo ir kontrolės sistemai bei į rezultatus ir visuomenės poreikius orientuotam viešajam valdymui.“ ^s-5aa306e123cc81fcc083491d
 
 
 
-### 4 straipsnis. 9 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio pakeitimas ^s-c23bad73e2407dd3e4426120
+
+
+Pakeisti [[#^s-591d58c26dd7e336def26298|8 straipsnį]] ir jį išdėstyti taip:
+
+
+„[[#^s-591d58c26dd7e336def26298|8 straipsnis]]. Valstybės kontrolės finansavimo tvarka ir auditas
+
+
+1. Valstybės kontrolė finansuojama iš valstybės biudžeto. ^s-de15752a6fac6f3397067c40
+
+
+2. Valstybės kontrolės biudžeto asignavimų dydį nustato ir skiria Seimas. ^s-bade8fd57ed9e9f52ce46126
+
+
+3. Išlaidoms, susijusioms su Valstybės kontrolės atstovavimu šalyje ir užsienyje, finansuoti gali būti sudaromas valstybės kontrolieriaus fondas, kuriam, nedidinant Valstybės kontrolei nustatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesinių darbo užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė. ^s-5de5d95a3b1f5221c76250de
+
+
+4. Valstybės kontrolės finansinį auditą atlieka Seimo nutarimu paskirta audito įmonė. ^s-e5aaa75ce892715f831cd994
+
+
+5. Valstybės kontrolės vidaus auditą atlieka Valstybės kontrolėje įsteigta vidaus audito tarnyba.“ ^s-0e6802548030551b9887fb1d
+
+
+
+### 4 straipsnis. 9 straipsnio 3 dalies pakeitimas ^s-b0e974848939be3f900fa2b8
 
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -118,111 +123,111 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Valstybės kontrolė kasmet teikia Seimui:
 
 
-1) išvadą dėl valstybės biudžeto įvykdymo apyskaitos; ^61fde2ca26d5b2f84a3a70e6
+1) išvadą dėl valstybės biudžeto įvykdymo apyskaitos; ^s-85a8884617ca7c65343f8f80
 
 
-2) išvadą dėl valstybės skolos, suteiktų paskolų iš valstybės vardu pasiskolintų lėšų ir suteiktų valstybės garantijų ataskaitos; ^349642e6d0766937fd20734f
+2) išvadą dėl valstybės skolos, suteiktų paskolų iš valstybės vardu pasiskolintų lėšų ir suteiktų valstybės garantijų ataskaitos; ^s-5e2ba900b386e6d02cde7a42
 
 
-3) išvadą dėl valstybei nuosavybės teise priklausančio turto ataskaitos; ^d30226aa370756ecc1205f02
+3) išvadą dėl valstybei nuosavybės teise priklausančio turto ataskaitos; ^s-36d20dcc1255f77f320e82ce
 
 
-4) Valstybės kontrolės veiklos ataskaitą.“ ^bbd4084fbbaf38e3057a5d7a
+4) Valstybės kontrolės veiklos ataskaitą.“ ^s-91c0522a052b6c75740193df
 
 
 
-### 5 straipsnis. 10 straipsnio pakeitimas
+### 5 straipsnis. 10 straipsnio pakeitimas ^s-dff45106f015a8d712ae20ad
 
 
-Pakeisti [[#10 straipsnis. 16 straipsnio 1 dalies pakeitimas|10 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-90e4334ab4270bcd6a4dd6aa|10 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#10 straipsnis. 16 straipsnio 1 dalies pakeitimas|10 straipsnis]]. Valstybės kontrolieriaus kompetencija
+„[[#^s-90e4334ab4270bcd6a4dd6aa|10 straipsnis]]. Valstybės kontrolieriaus kompetencija
 
 
 Valstybės kontrolierius:
 
 
-1) vadovauja Valstybės kontrolei; ^5e655d51024ddc9c71cd6039
+1) vadovauja Valstybės kontrolei; ^s-d32c14d3a52e47fb1ab28874
 
 
-2) atstovauja Valstybės kontrolei valstybės valdžios ir valdymo institucijose, teisme ir tarptautinėse organizacijose; ^95a622c5aaf86285b7a1deb9
+2) atstovauja Valstybės kontrolei valstybės valdžios ir valdymo institucijose, teisme ir tarptautinėse organizacijose; ^s-73868859925d7faf66275f95
 
 
-3) nustato ir tvirtina Valstybės kontrolės struktūrą, pareigybių sąrašą ir pareigybių aprašymus; ^9e6f1d5c9534404575dff2f5
+3) nustato ir tvirtina Valstybės kontrolės struktūrą, pareigybių sąrašą ir pareigybių aprašymus; ^s-7785989f5ac493f7af8048f6
 
 
-4) teisės aktų nustatyta tvarka skiria ir atleidžia iš tarnybos Valstybės kontrolės pareigūnus ir kitus valstybės tarnautojus; ^e1636ee2f7319fee1985da42
+4) teisės aktų nustatyta tvarka skiria ir atleidžia iš tarnybos Valstybės kontrolės pareigūnus ir kitus valstybės tarnautojus; ^s-374194e12a7ded840ff730c2
 
 
-5) teikia Respublikos Prezidentui valstybės kontrolieriaus pavaduotojų kandidatus bei siūlymus atleisti valstybės kontrolieriaus pavaduotojus iš pareigų; ^037f788c6355ab87faba4011
+5) teikia Respublikos Prezidentui valstybės kontrolieriaus pavaduotojų kandidatus bei siūlymus atleisti valstybės kontrolieriaus pavaduotojus iš pareigų; ^s-90ded7c572727200ab9c1f2e
 
 
-6) teikia Seimui Valstybės kontrolės veiklos ataskaitą ir išvadas, nustatytas šio įstatymo 9 straipsnio 3 dalyje; ^c7cc4a2c4bf159305ca0d27c
+6) teikia Seimui Valstybės kontrolės veiklos ataskaitą ir išvadas, nustatytas šio įstatymo 9 straipsnio 3 dalyje; ^s-1b1eca88cbb6355cd3c7cbc2
 
 
-7) ne vėliau kaip per 5 darbo dienas nuo valstybinio audito dokumentų įforminimo Seimo Audito komitetui teikia veiklos audito ataskaitas ir finansinio (teisėtumo) audito ataskaitas bei išvadas, kai Valstybės kontrolės pareigūnai dėl finansinių ataskaitų pareiškė sąlyginę ar neigiamą nuomonę arba atsisakė ją pareikšti; ^0b6a254cd8d268c5699212d0
+7) ne vėliau kaip per 5 darbo dienas nuo valstybinio audito dokumentų įforminimo Seimo Audito komitetui teikia veiklos audito ataskaitas ir finansinio (teisėtumo) audito ataskaitas bei išvadas, kai Valstybės kontrolės pareigūnai dėl finansinių ataskaitų pareiškė sąlyginę ar neigiamą nuomonę arba atsisakė ją pareikšti; ^s-1bc9630d22f9e50cfe3545f7
 
 
-8) turi teisę dalyvauti Seimo plenariniuose posėdžiuose ir pareikšti savo nuomonę, kai svarstomi su Valstybės kontrolės veikla susiję klausimai; ^d6f669777805002060ffc499
+8) turi teisę dalyvauti Seimo plenariniuose posėdžiuose ir pareikšti savo nuomonę, kai svarstomi su Valstybės kontrolės veikla susiję klausimai; ^s-f094151716f1378cf3fb8479
 
 
-9) turi teisę teikti siūlymus Seimui, Respublikos Prezidentui arba Vyriausybei dėl teisės aktų tobulinimo; ^8aa66a2dd996a86cd36a3407
+9) turi teisę teikti siūlymus Seimui, Respublikos Prezidentui arba Vyriausybei dėl teisės aktų tobulinimo; ^s-8ae93aa11caea13c196df7ff
 
 
-10) dalyvauja Vyriausybės posėdžiuose; ^541a02f5701979dc4500e020
+10) dalyvauja Vyriausybės posėdžiuose; ^s-8f1a2ff3c4904f0975f63a37
 
 
-11) turi teisę pareikšti atskirąją nuomonę dėl Vyriausybės nutarimų. Apie šią nuomonę jis per 3 darbo dienas po Vyriausybės posėdžio raštu praneša Seimui ir Vyriausybei.“ ^d668439119688d5286957cee
-
-
-
-### 6 straipsnis. 12 straipsnio pakeitimas
-
-
-Pakeisti [[#12 straipsnis. 18 straipsnio pakeitimas|12 straipsnį]] ir jį išdėstyti taip:
-
-
-„[[#12 straipsnis. 18 straipsnio pakeitimas|12 straipsnis]]. Valstybės kontrolės pareigūnų teisės ir atsakomybė
-
-
-1. Atliekantys valstybinį auditą Valstybės kontrolės pareigūnai turi teisę: savarankiškai pasirinkti audito procedūras; gauti auditui atlikti reikalingus dokumentus ir informaciją; atlikti kontrolinius matavimus, materialinių vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto turtą, taip pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės pažeidimų protokolus; elektroniniu ryšiu gauti iš valstybės valdymo ir savivaldybių institucijų, valstybės kadastrų, klasifikatorių bei registrų tvarkytojų duomenis ir informaciją, kurios reikia valstybiniam auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal pateiktus audito dokumentus; pasitelkti atitinkamų sričių specialistus ir audito įstaigas, kai atliekamas specifinių sričių auditas. ^d43d58b9c78edd6ac67f8a96
-
-
-2. Atliekantys valstybinį auditą Valstybės kontrolės pareigūnai įstatymų nustatyta tvarka atsako už Valstybinio audito reikalavimų ir Valstybės kontrolės pareigūnų tarnybinės etikos kodekso reikalavimų nesilaikymą ar apgaulingų duomenų pateikimą.“ ^6a3e13544ba22e3645168511
+11) turi teisę pareikšti atskirąją nuomonę dėl Vyriausybės nutarimų. Apie šią nuomonę jis per 3 darbo dienas po Vyriausybės posėdžio raštu praneša Seimui ir Vyriausybei.“ ^s-3c5f7d09e494a996e78f364f
 
 
 
-### 7 straipsnis. 13 straipsnio pakeitimas
+### 6 straipsnis. 12 straipsnio pakeitimas ^s-b74e31d3f402781dc14b72fb
 
 
-Pakeisti [[#13 straipsnis. Penktojo skyriaus pavadinimo pakeitimas|13 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-b79d0189bf3ef6f335504209|12 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#13 straipsnis. Penktojo skyriaus pavadinimo pakeitimas|13 straipsnis]]. Valstybinio audito tipai
+„[[#^s-b79d0189bf3ef6f335504209|12 straipsnis]]. Valstybės kontrolės pareigūnų teisės ir atsakomybė
 
 
-1. Valstybės kontrolė atlieka finansinį (teisėtumo) ir veiklos auditą. ^df7354272254c30feb7c0c40
+1. Atliekantys valstybinį auditą Valstybės kontrolės pareigūnai turi teisę: savarankiškai pasirinkti audito procedūras; gauti auditui atlikti reikalingus dokumentus ir informaciją; atlikti kontrolinius matavimus, materialinių vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto turtą, taip pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės pažeidimų protokolus; elektroniniu ryšiu gauti iš valstybės valdymo ir savivaldybių institucijų, valstybės kadastrų, klasifikatorių bei registrų tvarkytojų duomenis ir informaciją, kurios reikia valstybiniam auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal pateiktus audito dokumentus; pasitelkti atitinkamų sričių specialistus ir audito įstaigas, kai atliekamas specifinių sričių auditas. ^s-a03c6706b06d5006ccc20b5e
 
 
-2. Valstybinis auditas atliekamas pagal valstybės kontrolieriaus patvirtintus Valstybinio audito reikalavimus. ^39bbe5971627cfef1f8084a3
-
-
-3. Valstybinio audito reikalavimai skelbiami leidinyje „Valstybės žinios“.“ ^43901e0c436ddfa55d2aadf8
+2. Atliekantys valstybinį auditą Valstybės kontrolės pareigūnai įstatymų nustatyta tvarka atsako už Valstybinio audito reikalavimų ir Valstybės kontrolės pareigūnų tarnybinės etikos kodekso reikalavimų nesilaikymą ar apgaulingų duomenų pateikimą.“ ^s-559ac7eebf9fabaf4d251a7e
 
 
 
-### 8 straipsnis. 14 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 13 straipsnio pakeitimas ^s-e8c183480719b9143cef6f69
 
 
-Pakeisti [[#^d50634346faaf32a8b64b6e3|14 straipsnio 1 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-35baa388762959c69fb2de88|13 straipsnį]] ir jį išdėstyti taip:
+
+
+„[[#^s-35baa388762959c69fb2de88|13 straipsnis]]. Valstybinio audito tipai
+
+
+1. Valstybės kontrolė atlieka finansinį (teisėtumo) ir veiklos auditą. ^s-c645d920e58b51f6ab377478
+
+
+2. Valstybinis auditas atliekamas pagal valstybės kontrolieriaus patvirtintus Valstybinio audito reikalavimus. ^s-3ff7e162ec4038b653ace45d
+
+
+3. Valstybinio audito reikalavimai skelbiami leidinyje „Valstybės žinios“.“ ^s-324c11d7e9fc4cc1595545dc
+
+
+
+### 8 straipsnis. 14 straipsnio 1 dalies pakeitimas ^s-591d58c26dd7e336def26298
+
+
+Pakeisti [[#^s-6931b230da985980bc648b22|14 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Valstybės kontrolė, siekdama efektyviai atlikti savo funkcijas, nustato valstybinio audito mastą. Valstybės kontrolė valstybinio audito mastą kasmet nustato valstybinio audito programose. Šias programas, įvertinęs Seimo Audito komiteto pateiktas rekomendacijas, tvirtina valstybės kontrolierius.“
 
 
 
-### 9 straipsnis. 15 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 15 straipsnio 1 dalies pakeitimas ^s-2922a2cc3fd1032e69ddfd64
 
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -232,36 +237,36 @@ Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 16 straipsnio 1 dalies pakeitimas
+### 10 straipsnis. 16 straipsnio 1 dalies pakeitimas ^s-90e4334ab4270bcd6a4dd6aa
 
 
-[[#^e278abc2094b74ae546629d6|16 straipsnio 1 dalyje]] išbraukti žodžius „ir sprendimas“ ir šią dalį išdėstyti taip:
+[[#^s-cc8c6b5fb182b5132f370eac|16 straipsnio 1 dalyje]] išbraukti žodžius „ir sprendimas“ ir šią dalį išdėstyti taip:
 
 
 „1. Valstybinio audito dokumentai yra darbo dokumentai, valstybinio audito ataskaita ir valstybinio audito išvada.“
 
 
 
-### 11 straipsnis. 17 straipsnio pakeitimas
+### 11 straipsnis. 17 straipsnio pakeitimas ^s-64bc001793795209f4acd754
 
 
-Pakeisti [[#17 straipsnis. 42 straipsnio pripažinimas netekusiu galios|17 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-797692bcbcf6476f0098c63e|17 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#17 straipsnis. 42 straipsnio pripažinimas netekusiu galios|17 straipsnis]]. Valstybinio audito rezultatai ir jų įforminimas
+„[[#^s-797692bcbcf6476f0098c63e|17 straipsnis]]. Valstybinio audito rezultatai ir jų įforminimas
 
 
-1. Valstybinis auditas baigiamas įforminus valstybinio audito dokumentus. ^03dfe3e0f2e96d2c9656d049
+1. Valstybinis auditas baigiamas įforminus valstybinio audito dokumentus. ^s-105bf3cbd6e247c29623bf01
 
 
-2. Dėl audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas administracinis aktas – sprendimas. ^b5556a30be2420ee0fdc55e3
+2. Dėl audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas administracinis aktas – sprendimas. ^s-1ee107be3cc97fd901a6b59c
 
 
-3. Valstybės kontrolės sprendimus pagal audito ataskaitas priima valstybės kontrolierius ar jo pavaduotojai.“ ^c05db5d4ea86d3002770dba8
+3. Valstybės kontrolės sprendimus pagal audito ataskaitas priima valstybės kontrolierius ar jo pavaduotojai.“ ^s-43cbd8e4c2d0dc5b604a801f
 
 
 
-### 12 straipsnis. 18 straipsnio pakeitimas
+### 12 straipsnis. 18 straipsnio pakeitimas ^s-b79d0189bf3ef6f335504209
 
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
@@ -273,32 +278,32 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 Valstybės kontrolierius ar jo pavaduotojai, priimdami sprendimus pagal audito ataskaitas, turi teisę:
 
 
-1) nurodyti audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir įpareigoti juos pašalinti; ^bffb1acc49f1c589d7a29e1e
+1) nurodyti audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir įpareigoti juos pašalinti; ^s-1e91d2d7be7aa343f8bb6301
 
 
-2) įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų nustatyta tvarka išieškoti valstybei, savivaldybei ar kitam juridiniam asmeniui padarytą žalą; ^53d3a927fc2ddaffc49c0fd3
+2) įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų nustatyta tvarka išieškoti valstybei, savivaldybei ar kitam juridiniam asmeniui padarytą žalą; ^s-8e13ee5e189223f4c9244ddc
 
 
-3) įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų nustatyta tvarka traukti asmenis tarnybos ar drausminėn atsakomybėn; ^933095d80fdc638daa41b1f4
+3) įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų nustatyta tvarka traukti asmenis tarnybos ar drausminėn atsakomybėn; ^s-01a9e4a543e39243058c7acd
 
 
-4) įpareigoti audituotų subjektų vadovus grąžinti į valstybės ar savivaldybių biudžetus arba atitinkamus valstybės pinigų fondus lėšas, skirtas ar panaudotas pažeidžiant įstatymus ar kitus teisės aktus; ^a672c346b9c9c60f020feed8
+4) įpareigoti audituotų subjektų vadovus grąžinti į valstybės ar savivaldybių biudžetus arba atitinkamus valstybės pinigų fondus lėšas, skirtas ar panaudotas pažeidžiant įstatymus ar kitus teisės aktus; ^s-a94be4afd88e9494405bdcae
 
 
-5) nustačius pažeidimus, nagrinėtinus atitinkamų viešojo administravimo subjektų arba teisėsaugos institucijų, valstybinio audito dokumentus perduoti pagal kompetenciją; ^382b3d3f54620e279f556621
+5) nustačius pažeidimus, nagrinėtinus atitinkamų viešojo administravimo subjektų arba teisėsaugos institucijų, valstybinio audito dokumentus perduoti pagal kompetenciją; ^s-7d05e77ec5b2d21c29aedff6
 
 
-6) teikti siūlymus valstybės ir savivaldybių kontrolės institucijoms bei viešojo administravimo subjektų vidaus audito tarnyboms atlikti tikrinimus jų kompetencijai priskirtais klausimais; ^b9b165f2c5e9e6423a72a917
+6) teikti siūlymus valstybės ir savivaldybių kontrolės institucijoms bei viešojo administravimo subjektų vidaus audito tarnyboms atlikti tikrinimus jų kompetencijai priskirtais klausimais; ^s-f89913ef4df75e6f3b3d5210
 
 
-7) nustatyti sprendimo įvykdymo terminą; ^eb44b21cc293522f0f148255
+7) nustatyti sprendimo įvykdymo terminą; ^s-85177045e53c7a8e55688917
 
 
-8) siūlyti Seimo Audito komitetui svarstyti valstybinio audito ataskaitas ir audito išvadas.“ ^e894169af2b4ed96f2e954a2
+8) siūlyti Seimo Audito komitetui svarstyti valstybinio audito ataskaitas ir audito išvadas.“ ^s-5b53a6093d2de1aadbce48a6
 
 
 
-### 13 straipsnis. Penktojo skyriaus pavadinimo pakeitimas
+### 13 straipsnis. Penktojo skyriaus pavadinimo pakeitimas ^s-35baa388762959c69fb2de88
 
 
 Penktojo skyriaus pavadinime po žodžių „bendradarbiavimas su“ įrašyti žodžius „Seimu, Vyriausybe“ ir šį pavadinimą išdėstyti taip:
@@ -310,7 +315,7 @@ BENDRADARBIAVIMAS SU SEIMU, VYRIAUSYBE, TEISĖSAUGOS IR AUDITO INSTITUCIJOMIS. T
 
 
 
-### 14 straipsnis. 21 straipsnio pakeitimas
+### 14 straipsnis. 21 straipsnio pakeitimas ^s-f11ddb664e9935138945200f
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -319,17 +324,17 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 „21 straipsnis.     Ryšiai su Seimu, Vyriausybe, teisėsaugos, audito institucijomis ir kitų valstybių aukščiausiosiomis audito institucijomis
 
 
-1. Valstybės kontrolė, valstybinio audito metu nustačiusi nuolatinius, esminius ar visuomenės interesų pažeidimus, praneša Seimui, Vyriausybei, teisėsaugos institucijoms ir imasi kitų prevencinių priemonių, kad pažeidimai nepasikartotų. ^d50634346faaf32a8b64b6e3
+1. Valstybės kontrolė, valstybinio audito metu nustačiusi nuolatinius, esminius ar visuomenės interesų pažeidimus, praneša Seimui, Vyriausybei, teisėsaugos institucijoms ir imasi kitų prevencinių priemonių, kad pažeidimai nepasikartotų. ^s-6931b230da985980bc648b22
 
 
-2. Valstybės kontrolė bendradarbiauja su Lietuvos Respublikoje veikiančiomis audito institucijomis, įmonėmis bei vidaus audito tarnybomis. ^e3a685a7004456d0545edc88
+2. Valstybės kontrolė bendradarbiauja su Lietuvos Respublikoje veikiančiomis audito institucijomis, įmonėmis bei vidaus audito tarnybomis. ^s-d2b47efa4dbf7393b384282d
 
 
-3. Valstybės kontrolė palaiko tarptautinius ryšius su kitų valstybių aukščiausiosiomis audito institucijomis.“ ^519663f654c5990764c0a9fb
+3. Valstybės kontrolė palaiko tarptautinius ryšius su kitų valstybių aukščiausiosiomis audito institucijomis.“ ^s-d7939dd8f07f511059416d06
 
 
 
-### 15 straipsnis. 23 straipsnio pakeitimas
+### 15 straipsnis. 23 straipsnio pakeitimas ^s-6acfa3797a5bfd28bceaf685
 
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
@@ -342,7 +347,7 @@ Valstybinio audito ataskaitos ir audito išvados, sprendimai ir kita informacija
 
 
 
-### 16 straipsnis. 41 straipsnio pakeitimas
+### 16 straipsnis. 41 straipsnio pakeitimas ^s-7e09df4d6911ac839b4b83fa
 
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
@@ -351,14 +356,14 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 „41 straipsnis. Darbo užmokestis
 
 
-1. Valstybės kontrolėje dirbančių pareigūnų darbo užmokestį, apmokėjimo tvarką ir sąlygas nustato šis ir kiti įstatymai. ^e278abc2094b74ae546629d6
+1. Valstybės kontrolėje dirbančių pareigūnų darbo užmokestį, apmokėjimo tvarką ir sąlygas nustato šis ir kiti įstatymai. ^s-cc8c6b5fb182b5132f370eac
 
 
-2. Valstybės kontrolėje dirbantiems pareigūnams už didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius auditus gali būti išmokama vienkartinė piniginė išmoka. Vienkartinė piniginė išmoka negali viršyti pareigūno pareiginės algos dydžio ir ji mokama neviršijant darbo užmokesčiui skirtų lėšų valstybės kontrolieriaus nustatyta tvarka.“ ^ca7aea55b73791b42bfd8443
+2. Valstybės kontrolėje dirbantiems pareigūnams už didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius auditus gali būti išmokama vienkartinė piniginė išmoka. Vienkartinė piniginė išmoka negali viršyti pareigūno pareiginės algos dydžio ir ji mokama neviršijant darbo užmokesčiui skirtų lėšų valstybės kontrolieriaus nustatyta tvarka.“ ^s-9d2748e600521ef533302877
 
 
 
-### 17 straipsnis. 42 straipsnio pripažinimas netekusiu galios
+### 17 straipsnis. 42 straipsnio pripažinimas netekusiu galios ^s-797692bcbcf6476f0098c63e
 
 
 42 straipsnį pripažinti netekusiu galios.

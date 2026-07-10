@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.37AC079AB3C5"
 pavadinimas: "Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.37AC079AB3C5.md"
 latest_sha256: "376e234894b1f48b72c6cd4237c748118bb53e18d634612e6f7d644325d7697b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.37AC079AB3C5]]"
 ---
 # Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.37AC079AB3C5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.37AC079AB3C5
+- Ryšiai: [[Ryšiai/TAR.37AC079AB3C5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 2 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 2 punkto pakeitimas ^s-4f13c1ffe3b454f6929e8dca
 
 
 17 straipsnio 2 punkte vietoj žodžių „pavojingus valstybinius nusikaltimus ar įvairius kitus tyčinius nusikaltimus asmens gyvybei, sveikatai, laisvei ir orumui, valdymo tvarkai, visuomenės saugumui ir viešajai tvarkai“ įrašyti žodžius „nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar kitas tyčines nusikalstamas veikas žmogaus gyvybei, sveikatai, laisvei, asmens garbei ir orumui, visuomenės saugumui, valdymo tvarkai ir viešajai tvarkai“ ir šį punktą išdėstyti taip:
@@ -40,10 +45,10 @@ Vilnius
 „2) pasinaudodami susirinkimo galimybėmis, kėsinasi įvykdyti ar įvykdo nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar kitas tyčines nusikalstamas veikas žmogaus gyvybei, sveikatai, laisvei, asmens garbei ir orumui, visuomenės saugumui, valdymo tvarkai ir viešajai tvarkai;“.
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-44e42587072dfd5f552af477
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

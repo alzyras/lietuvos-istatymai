@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3F7F92F70636"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 32 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 32 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 32 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.3F7F92F70636.md"
 latest_sha256: "1f85ba75149639964cf7f355000021799e7d741368094072fe21b7ca1aa65eb5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3F7F92F70636]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 32 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3F7F92F70636.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3F7F92F70636
+- Ryšiai: [[Ryšiai/TAR.3F7F92F70636|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 32 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 32 straipsnio 3 dalies pakeitimas ^s-376cb8e3ea1e02ad3166f672
 
 
 32 straipsnio 3 dalyje po žodžių „Valstybės iždo sąskaitą“ įrašyti žodžius „jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nenustatyta kitaip“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-8c081b5c501a6617f46f2eaa
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

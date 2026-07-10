@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BD2D413B0E8B"
 pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas"
+  - "vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.BD2D413B0E8B.md"
 latest_sha256: "c9f4bef39d4e3baa42dd30c56752deacfe49498e4064b4dd3b6d0072d7fdd97d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BD2D413B0E8B]]"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BD2D413B0E8B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BD2D413B0E8B
+- Ryšiai: [[Ryšiai/TAR.BD2D413B0E8B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,57 +36,57 @@ Vilnius
 
 
 
-### 1 straipsnis. 43 straipsnio 2 ir 3 dalių pakeitimas
+### 1 straipsnis. 43 straipsnio 2 ir 3 dalių pakeitimas ^s-00e2b150d8f3467585350948
 
 
-1. 43 straipsnio 2 dalyje vietoj žodžio „veiklą“ įrašyti žodį „veiką“ ir šią dalį išdėstyti taip: ^0701167e669e154f12b7c060
+1. 43 straipsnio 2 dalyje vietoj žodžio „veiklą“ įrašyti žodį „veiką“ ir šią dalį išdėstyti taip: ^s-73006bbe69cdb7f60c702aca
 
 
 „2. Už fizinio ar psichinio smurto demonstravimą vaikams, jų įtraukimą į nusikalstamą ar kitą neteisėtą veiką taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė.“
 
 
-2. 43 straipsnio 3 dalyje vietoj žodžio „nusikaltimo“ įrašyti žodžius „nusikalstamos veikos“ ir šią dalį išdėstyti taip: ^cbca07b069fabae438565c16
+2. 43 straipsnio 3 dalyje vietoj žodžio „nusikaltimo“ įrašyti žodžius „nusikalstamos veikos“ ir šią dalį išdėstyti taip: ^s-c0ef0cd90281984b4b3d2386
 
 
 „3. Vaikui, nukentėjusiam nuo nusikalstamos veikos, smurto ar kito blogo elgesio, turi būti suteikta reikalinga pagalba, kad jis galėtų susigrąžinti sveikatą po patirtos fizinės ar psichologinės traumos ir reintegruotis į socialinę aplinką.“
 
 
 
-### 2 straipsnis. 49 straipsnio pavadinimo ir 3 dalies pakeitimas
+### 2 straipsnis. 49 straipsnio pavadinimo ir 3 dalies pakeitimas ^s-fa4575468d2fc7fe40b0b661
 
 
-1. 49 straipsnio pavadinime išbraukti žodį „priverčiamųjų“ ir straipsnio pavadinimą išdėstyti taip: ^02de0954db8f7d3bcc029e53
+1. 49 straipsnio pavadinime išbraukti žodį „priverčiamųjų“ ir straipsnio pavadinimą išdėstyti taip: ^s-0e3703f2b24f3403a9752848
 
 
 „49 straipsnis. Drausmės bei auklėjamojo poveikio priemonių vaikui taikymas“.
 
 
-2. 49 straipsnio 3 dalyje išbraukti žodį „priverčiamosios“ ir šią dalį išdėstyti taip: ^bc7dfbf86e15abdbfdc3f074
+2. 49 straipsnio 3 dalyje išbraukti žodį „priverčiamosios“ ir šią dalį išdėstyti taip: ^s-c5b1dfcb6f309a643231dd4e
 
 
 „3. Vaikui už nuolatinius ir piktybinius teisėtvarkos pažeidimus, taip pat už pavojingos (nusikalstamos) veikos padarymą, jeigu dėl jo amžiaus, sveikatos būklės ar kitų aplinkybių negalima taikyti administracinės ar baudžiamosios atsakomybės, gali būti taikomos šios auklėjamojo poveikio (drausminimo) priemonės:
 
 
-1) įspėjimas; ^be79fad5c24d53f6306778df
+1) įspėjimas; ^s-0a82aa517a176bb5d0c63379
 
 
-2) įpareigojimas viešai ar kitokia forma atsiprašyti nukentėjusįjį; ^d885f9d0fa3f06aac5f87554
+2) įpareigojimas viešai ar kitokia forma atsiprašyti nukentėjusįjį; ^s-629a3b1af0ac9e6c216bc84a
 
 
-3) atidavimas tėvų ar kitų asmenų priežiūrai pagal laidavimą; ^be3649f6ee3b6002b8c521b5
+3) atidavimas tėvų ar kitų asmenų priežiūrai pagal laidavimą; ^s-af6408f3722d60ce1dae44d1
 
 
-4) namų priežiūra (laisvalaikio apribojimas); ^972ead1ce89f239169f02524
+4) namų priežiūra (laisvalaikio apribojimas); ^s-3b0f41ea72346989d0cff9a1
 
 
-5) atidavimas į specialiąją auklėjimo ir drausmės įstaigą; ^612e66b7cf97cf1d9831e6e8
+5) atidavimas į specialiąją auklėjimo ir drausmės įstaigą; ^s-eddbb473d59da21117bb6933
 
 
-6) kitos įstatymų numatytos priemonės (atsižvelgiant į vaiko amžių, jo padaryto pažeidimo pobūdį, kitas aplinkybes).“ ^5ae1935bc57b5a7b4ffcda3d
+6) kitos įstatymų numatytos priemonės (atsižvelgiant į vaiko amžių, jo padaryto pažeidimo pobūdį, kitas aplinkybes).“ ^s-5bd7d7bd4260ae897d1fa7a9
 
 
 
-### 3 straipsnis. 50 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 50 straipsnio 5 dalies pakeitimas ^s-fdbe5f7d298e298ab051483a
 
 
 50 straipsnio 5 dalyje vietoj žodžių „nusikaltimą yra suėję 16 metų. Išimtiniais atvejais už nusikaltimus, numatytus“ įrašyti žodžius „nusikalstamą veiką yra suėję 16 metų. Išimtiniais atvejais už nusikalstamas veikas, numatytas“ ir šią dalį išdėstyti taip:
@@ -91,7 +96,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 52 straipsnio pakeitimas
+### 4 straipsnis. 52 straipsnio pakeitimas ^s-bbd711637fbbc424694f2b8b
 
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:
@@ -104,23 +109,23 @@ Vaikas, pirmą kartą padaręs neatsargų arba nesunkų ar apysunkį tyčinį nu
 
 
 
-### 5 straipsnis. 53 straipsnio 1 ir 4 dalių pakeitimas
+### 5 straipsnis. 53 straipsnio 1 ir 4 dalių pakeitimas ^s-e46267e430877ba64d2456ca
 
 
-1. 53 straipsnio 1 dalyje vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“, vietoj žodžio „pedagogas“ įrašyti žodį „psichologas“ ir šią dalį išdėstyti taip: ^469ec8daf73f0c6438e179e5
+1. 53 straipsnio 1 dalyje vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“, vietoj žodžio „pedagogas“ įrašyti žodį „psichologas“ ir šią dalį išdėstyti taip: ^s-4f6551231dbb50649126b1a2
 
 
 „1. Atliekant procesinius veiksmus bylose, kuriose vaikas yra įtariamas padaręs nusikalstamą veiką, būtinas gynėjo dalyvavimas. Įstatymo numatytais atvejais taip pat privalo dalyvauti tėvai ar kiti teisėti vaiko atstovai, psichologas bei vaiko teisių apsaugos institucijos atstovas.“
 
 
-2. 53 straipsnio 4 dalyje vietoj žodžių „nusikaltimo padarymu, kaltinamo, teisiamo ar nuteisto už nusikaltimą“ įrašyti žodžius „nusikalstamos veikos padarymu, kaltinamo ar nuteisto už nusikalstamą veiką“ ir šią dalį išdėstyti taip: ^e38d4e4cf192a03d4d02a8c3
+2. 53 straipsnio 4 dalyje vietoj žodžių „nusikaltimo padarymu, kaltinamo, teisiamo ar nuteisto už nusikaltimą“ įrašyti žodžius „nusikalstamos veikos padarymu, kaltinamo ar nuteisto už nusikalstamą veiką“ ir šią dalį išdėstyti taip: ^s-ab66f8a669466803836fd777
 
 
 „4. Už įtariamo nusikalstamos veikos padarymu, kaltinamo ar nuteisto už nusikalstamą veiką vaiko asmenybę (vardą, pavardę) identifikuojančių duomenų paskelbimą spaudoje arba kitose visuomenės informavimo priemonėse taikoma administracinė ar kita įstatymų nustatyta atsakomybė.“
 
 
 
-### 6 straipsnis. 54 straipsnio 6 dalies pakeitimas
+### 6 straipsnis. 54 straipsnio 6 dalies pakeitimas ^s-769d1ba3219aaffaf67566db
 
 
 Pakeisti 54 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -130,10 +135,10 @@ Pakeisti 54 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-e119662afad9bffc96744589
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DF32A3555F4A"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 87 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 87 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 87 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.DF32A3555F4A.md"
 latest_sha256: "3b0c37e159c30338a2a2adb790d32cfe3da3695e7c9e6ff6ab07c874198da106"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DF32A3555F4A]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 87 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DF32A3555F4A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DF32A3555F4A
+- Ryšiai: [[Ryšiai/TAR.DF32A3555F4A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 87 straipsnio 1 dalies 6 punkto pakeitimas
+### 1 straipsnis. 87 straipsnio 1 dalies 6 punkto pakeitimas ^s-6aeebe1bba0e7f66e405ef7b
 
 
 87 straipsnio 1 dalies 6 punkte išbraukti žodžius „visuomenės sveikatos stebėseną (monitoringą) ir“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e3210f07172a9363f980bc2c
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

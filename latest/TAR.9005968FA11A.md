@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9005968FA11A"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-22"
 latest_path: "latest/TAR.9005968FA11A.md"
 latest_sha256: "9dc26188caf8c9a7097ca68f9bb39d5d4dfe4a773464e3ffc367bb1e4181208b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9005968FA11A]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9005968FA11A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9005968FA11A
+- Ryšiai: [[Ryšiai/TAR.9005968FA11A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas
+### 1 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas ^s-583699a9d2107a29d084ba4b
 
 
 Įstatymo 3 priedo I skyriaus 7 eilutės 3 stulpelyje po žodžių „(taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje)“ įrašyti žodžius „Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas“ ir šią eilutę išdėstyti taip:
@@ -56,7 +61,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 3 priedo II skyriaus pakeitimas
+### 2 straipsnis. Įstatymo 3 priedo II skyriaus pakeitimas ^s-29b85b326f44c548e7e433c3
 
 
 Įstatymo 3 priedo II skyriaus 7 eilutės 3 stulpelyje po žodžių „(taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje)“ įrašyti žodžius „Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas“ ir šią eilutę išdėstyti taip:
@@ -77,7 +82,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo 3 priedo III skyriaus pakeitimas
+### 3 straipsnis. Įstatymo 3 priedo III skyriaus pakeitimas ^s-c2b56514a75d4b1fd02ef30e
 
 
 Įstatymo 3 priedo III skyriaus 7 eilutės 3 stulpelyje po žodžių „(taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje)“ įrašyti žodžius „Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas“ ir šią eilutę išdėstyti taip:

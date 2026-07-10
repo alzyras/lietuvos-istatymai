@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1A9832128E70"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas"
+  - "miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-19"
 latest_path: "latest/TAR.1A9832128E70.md"
 latest_sha256: "3c2a5a33e4f792cebe0021812b02c8f33e4c0c6232735bf389e3b0deba11b60c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1A9832128E70]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1A9832128E70.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1A9832128E70
+- Ryšiai: [[Ryšiai/TAR.1A9832128E70|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 5 dalies pakeitimas ^s-59deb5551f26d469cc44aa8c
 
 
 1 straipsnio 5 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
@@ -41,13 +46,13 @@ Vilnius
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-7a06a04b8fca9d08890add8c
 
 
 3 straipsnio 10 dalį pripažinti netekusia galios, pakeisti 13 dalį, buvusias 11, 12, 13 dalis laikyti 10, 11, 12 dalimis, papildyti nauja 13 dalimi ir visą straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. 4 straipsnio pakeitimas|3 straipsnis]]. Pagrindinės sąvokos
+„[[#^s-cdfec9a4f2f420206251c8c9|3 straipsnis]]. Pagrindinės sąvokos
 
 
 Miško žemė – apaugęs mišku (medynai) ir neapaugęs mišku (kirtavietės, žuvę medynai, miško aikštės, medelynai, daigynai, miško sėklinės plantacijos ir žaliaviniai krūmynai bei plantacijos) plotas. Miško žemei taip pat priskiriami tame pačiame plote esantys miško keliai ir sausinimo grioviai, kvartalų, technologinės ir priešgaisrinės linijos, medienos sandėliai bei kiti su mišku susijusių įrengimų užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės, pelkės, smėlynai, taip pat žemė, skirta miškui įveisti.
@@ -90,13 +95,13 @@ Kompleksinis miškų ūkio tvarkymas – miškų urėdijos veikla: visų Aplinko
 
 
 
-### 3 straipsnis. 4 straipsnio pakeitimas
+### 3 straipsnis. 4 straipsnio pakeitimas ^s-cdfec9a4f2f420206251c8c9
 
 
 4 straipsnio 13 dalį pripažinti netekusia galios, 14 ir 15 dalis laikyti 13 ir 14 dalimis ir visą straipsnį išdėstyti taip:
 
 
-„[[#4 straipsnis. 7 straipsnio pakeitimas|4 straipsnis]]. Miškų grupės
+„[[#^s-35d9de985e2092cc537d386b|4 straipsnis]]. Miškų grupės
 
 
 Miškai skirstomi į keturias grupes.
@@ -105,7 +110,7 @@ Miškai skirstomi į keturias grupes.
 I grupė – rezervatiniai miškai. Valstybinių rezervatų, valstybinių parkų bei biosferos monitoringo teritorijose esančių rezervatų ir rezervatinių apyrubių miškai.
 
 
-Ūkininkavimo tikslas – palikti miškus natūraliai augti. Jokie miško kirtimai, išskyrus Lietuvos Respublikos saugomų teritorijų įstatyme ir rezervatų nuostatuose numatytus atvejus, neatliekami.
+Ūkininkavimo tikslas – palikti miškus natūraliai augti. Jokie miško kirtimai, išskyrus [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]] ir rezervatų nuostatuose numatytus atvejus, neatliekami.
 
 
 II grupė – specialios paskirties miškai. Joje skiriami du pogrupiai.
@@ -142,19 +147,19 @@ Miškų skirstymo į grupes tvarką nustato, o kitus miškus nustatytoms grupėm
 
 
 
-### 4 straipsnis. 7 straipsnio pakeitimas
+### 4 straipsnis. 7 straipsnio pakeitimas ^s-35d9de985e2092cc537d386b
 
 
-[[#7 straipsnis. 17 straipsnio 1, 3 ir 5 dalių pakeitimas|7 straipsnio]] 1 ir 2 dalyse vietoj žodžių „Miškų ūkio ministerija“, „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „Aplinkos ministerijos“, 6 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+[[#^s-a9bb98cfdd220d2d7424d72e|7 straipsnio]] 1 ir 2 dalyse vietoj žodžių „Miškų ūkio ministerija“, „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „Aplinkos ministerijos“, 6 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
-„[[#7 straipsnis. 17 straipsnio 1, 3 ir 5 dalių pakeitimas|7 straipsnis]]. Valstybinis miškų valdymas ir Miškų įstatymo vykdymo priežiūra
+„[[#^s-a9bb98cfdd220d2d7424d72e|7 straipsnis]]. Valstybinis miškų valdymas ir [[latest/TAR.5D6D055CC00C|Miškų įstatymo]] vykdymo priežiūra
 
 
 Valstybinių miškų savininko funkcijas atlieka Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybinė institucija. Aplinkos ministerija vykdo visų Lietuvos miškų valstybinio valdymo funkcijas. Valstybinių miškų ūkinio valdymo funkcijas atlieka, miškų atkūrimą, priežiūrą, apsaugą, bei miško išteklių naudojimą organizuoja Generalinė miškų urėdija prie Aplinkos ministerijos, kurios nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 
-Aplinkos ministerija ir jos regioninės valstybinės miškų inspekcijos kontroliuoja, kaip vykdomas Miškų įstatymas, vykdo Lietuvos Respublikoje valstybinę miškų būklės, naudojimo, atkūrimo ir apsaugos kontrolę. Miškų urėdijų ir valstybinių parkų valstybinės miškų tarnybos pareigūnams gali būti pavedama jiems priskirtų kontroliuoti miško savininkų, valdytojų ir naudotojų miškų būklės, naudojimo, atkūrimo ir apsaugos valstybinė kontrolė. Valstybinės miškų kontrolės nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+Aplinkos ministerija ir jos regioninės valstybinės miškų inspekcijos kontroliuoja, kaip vykdomas [[latest/TAR.5D6D055CC00C|Miškų įstatymas]], vykdo Lietuvos Respublikoje valstybinę miškų būklės, naudojimo, atkūrimo ir apsaugos kontrolę. Miškų urėdijų ir valstybinių parkų valstybinės miškų tarnybos pareigūnams gali būti pavedama jiems priskirtų kontroliuoti miško savininkų, valdytojų ir naudotojų miškų būklės, naudojimo, atkūrimo ir apsaugos valstybinė kontrolė. Valstybinės miškų kontrolės nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 
 Valstybinės miškų tarnybos pareigūnai turi teisę: turėti ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nešioti tarnybinį ginklą, stabdyti visų rūšių transportą, gabenantį medieną miškuose esančiais keliais bei miško žemės teritorijoje ir tikrinti šios medienos įsigijimo bei transportavimo teisėtumo dokumentus, sustabdyti, apriboti arba uždrausti neteisėtą ūkinę veiklą miško valdoje, jeigu ja pažeidžiamas šis įstatymas, kitų norminių aktų reikalavimai ar daroma žala miškui.
@@ -167,7 +172,7 @@ Valstybinės miškų tarnybos pareigūnų nuostatus tvirtina Lietuvos Respubliko
 
 
 
-### 5 straipsnis. 11 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 11 straipsnio 3 dalies pakeitimas ^s-5cf429d6f1086d3cc9c7ed67
 
 
 11 straipsnio 3 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
@@ -177,93 +182,93 @@ Valstybinės miškų tarnybos pareigūnų nuostatus tvirtina Lietuvos Respubliko
 
 
 
-### 6 straipsnis. 16 straipsnio 4 ir 6 dalių pakeitimas
+### 6 straipsnis. 16 straipsnio 4 ir 6 dalių pakeitimas ^s-36f277b284c7c928ad2ed059
 
 
-1. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip: ^ef71efb8a86bd161aa507996
+1. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip: ^s-4fc7c4a271748ffd5808b9ee
 
 
 „Valstybinės miškų inventorizacijos ir miškų apskaitos tvarką, turinį ir periodiškumą nustato Aplinkos ministerija, vadovaudamasi Buhalterinės apskaitos pagrindų įstatymo nuostatomis.“
 
 
-2. Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip: ^408a83aa9aa427ad211be9bb
+2. Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip: ^s-7cb3cdbbc3a2af60d65816c5
 
 
 „Valstybinis miškų kadastras apima visumą duomenų apie miškus, jų priklausomybę, miško išteklių kiekį bei kokybę ir ekonominę vertę. Jo turinį ir sudarymo tvarką nustato Aplinkos ministerija kartu su Žemės ūkio ministerija.“
 
 
 
-### 7 straipsnis. 17 straipsnio 1, 3 ir 5 dalių pakeitimas
+### 7 straipsnis. 17 straipsnio 1, 3 ir 5 dalių pakeitimas ^s-a9bb98cfdd220d2d7424d72e
 
 
-1. 17 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerija“, „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^e703684e5dfb55a5646b6bb7
+1. 17 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerija“, „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^s-2a3e754d2bb2184d9b033373
 
 
 „Miškotvarkos projektas yra pagrindas miško ūkiui organizuoti. Jis privalomas visoms miško valdoms, išskyrus savininkų, turinčių miškų iki 3 ha ne miškų masyvuose. Miškai turi būti tvarkomi, naudojami ir atkuriami pagal šį projektą. Aplinkos ministerija, atsižvelgdama į valdos dydį, nustato jos turinį ir kitus rodiklius, taip pat medynų kirtimo amžių visuose miškuose. Pagrindiniai kirtimai atliekami brandžiuose, perbrendusiuose miškuose, miško kirtimo taisyklėse numatytais atvejais ir pribręstančiuose medynuose. Metinė pagrindinių kirtimų norma nustatoma kiekvienam miškų valdytojui bei savininkui pagal Aplinkos ministerijos patvirtintą metodiką. Privalomos vykdyti projekto dalys – pagrindinių kirtimų norma, miško atkūrimas bei gamtosaugos reikalavimai.“
 
 
-2. Pakeisti 17 straipsnio 3 dalies antrąjį sakinį ir šią dalį išdėstyti taip: ^7193aa49d1affae6bd57085c
+2. Pakeisti 17 straipsnio 3 dalies antrąjį sakinį ir šią dalį išdėstyti taip: ^s-5fe40c28c80a8efc0ff17dcc
 
 
 „Valstybinių miškų valdytojai, turintys miškų daugiau kaip 500 ha, ir piliečiai, valdantys bendrosios nuosavybės teise daugiau kaip 500 ha miškų, privalo neviršyti metinės pagrindinių kirtimų normos, išskyrus stichinių nelaimių atvejus ir jeigu ši norma nebuvo išnaudota ankstesniais metais, skaičiuojant nuo jos patvirtinimo metų. Kitais atvejais leidimą viršyti metinę pagrindinių kirtimų normą gali duoti Aplinkos ministerija. Kiti miško savininkai ir valdytojai, nepažeisdami miško kirtimo taisyklių reikalavimų, gali nukrypti nuo metinės normos, bet privalo laikytis dešimtmečio kirtimų normos.“
 
 
-3. 17 straipsnio 5 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^67311c7b619497a54fd5f3c4
+3. 17 straipsnio 5 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^s-193af751075607c5dffe29b2
 
 
 „Miškotvarkos projektus rengia valstybinė miškotvarkos tarnyba, taip pat fiziniai ir juridiniai asmenys Aplinkos ministerijos nustatyta tvarka. Šie asmenys gali atlikti ir miškų inventorizaciją, kurios duomenis turi pateikti valstybinei miškotvarkos tarnybai.“
 
 
 
-### 8 straipsnis. 18 straipsnio 1 ir 6 dalių pakeitimas
+### 8 straipsnis. 18 straipsnio 1 ir 6 dalių pakeitimas ^s-31420cf7d725627238374758
 
 
-1. 18 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^1bb04302be1cca81e62be2e8
+1. 18 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^s-51474d4777cd3ede954591ec
 
 
 „Mišką privalo atkurti jo valdytojai, savininkai bei naudotojai savo lėšomis, vadovaudamiesi Aplinkos ministerijos patvirtintais nuostatais.“
 
 
-2. 18 straipsnio 6 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip: ^96b93d51a7e4aa815bcfdc47
+2. 18 straipsnio 6 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip: ^s-97c8b69dca87d4fb097b386f
 
 
 „Aplinkos ministerija organizuoja miško genofondo apsaugą ir selekcinės sėklininkystės bazės kūrimą, nustato sėklų bei sodmenų kokybės reikalavimus.“
 
 
 
-### 9 straipsnis. 19 straipsnio 1 ir 4 dalių pakeitimas
+### 9 straipsnis. 19 straipsnio 1 ir 4 dalių pakeitimas ^s-a2c18070757c99ff29fa3cc6
 
 
-1. 19 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^0488bfe7b0d1fa6da1a5e2e5
+1. 19 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^s-a7f4e181a5a29b8ef358a08d
 
 
 „Medynų augimą reguliuoja ugdymo ir rekonstrukciniai kirtimai, kitos miškų priežiūros bei žemės derlingumo didinimo priemonės pagal Aplinkos ministerijos patvirtintus normatyvus ir taisykles.“
 
 
-2. 19 straipsnio 4 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^0dad60c32112ef9e13e7cec2
+2. 19 straipsnio 4 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip: ^s-d537ad26f84f5a96c389a23f
 
 
 „Pagrindiniai kirtimai atliekami laikantis Aplinkos ministerijos patvirtintų taisyklių.“
 
 
 
-### 10 straipsnis. 21 straipsnio 1 ir 3 dalių pakeitimas
+### 10 straipsnis. 21 straipsnio 1 ir 3 dalių pakeitimas ^s-d3958bd3e80e24e0c49615cd
 
 
-1. 21 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip: ^92b9a0b6ae1fda8c99612dc9
+1. 21 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip: ^s-8608b0c90f5dc7dd34e0c266
 
 
 „Miškuose privalo būti sukurta ir palaikoma vientisa valstybinė priešgaisrinių priemonių sistema, apimanti stebėjimo, profilaktines ir priešgaisrines saugos priemones. Šią vientisą valstybinę priešgaisrinių priemonių sistemą rengia ir organizuoja jos įgyvendinimą Aplinkos ministerija ir jai pavaldžios miškų urėdijos bei valstybiniai parkai kartu su miestų (rajonų) savivaldybėmis. Miško valdytojai, savininkai, naudotojai ir lankytojai privalo laikytis Miškų priešgaisrinės apsaugos taisyklių. Šias taisykles tvirtina Lietuvos Respublikos Vyriausybė.“
 
 
-2. 21 straipsnio 3 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip: ^24cf8f9618162f44ca3c9a89
+2. 21 straipsnio 3 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip: ^s-9617ec17501a09617490ae38
 
 
 „Stichinių nelaimių miškuose atvejais Lietuvos Respublikos Vyriausybė arba jos įgaliota Aplinkos ministerija turi teisę nustatyti specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra privalomos visiems miško valdytojams, savininkams ir naudotojams.“
 
 
 
-### 11 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 11 straipsnis. 22 straipsnio 1 dalies pakeitimas ^s-f3a6e52484d2451aeb79390d
 
 
 22 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
@@ -273,7 +278,7 @@ Valstybinės miškų tarnybos pareigūnų nuostatus tvirtina Lietuvos Respubliko
 
 
 
-### 12 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 12 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-4ba677b91d12f2f2ab2f4e14
 
 
 23 straipsnio 1 dalyje vietoj žodžių „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip:

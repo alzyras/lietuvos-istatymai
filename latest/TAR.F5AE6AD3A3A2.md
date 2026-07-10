@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F5AE6AD3A3A2"
 pavadinimas: "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-10-18"
 latest_path: "latest/TAR.F5AE6AD3A3A2.md"
 latest_sha256: "1f0cd037f69ac1c19afb5d09cea31ab60d309266d0aebb7301d761f4c674997f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F5AE6AD3A3A2]]"
 ---
 # Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F5AE6AD3A3A2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F5AE6AD3A3A2
+- Ryšiai: [[Ryšiai/TAR.F5AE6AD3A3A2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

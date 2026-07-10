@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "bccfaea0cba011e387b1ebf12f4d03ee"
 pavadinimas: "Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 25 straipsnio pakeitimo"
+aliases:
+  - "Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 25 straipsnio pakeitimo"
+  - "žmonių palaikų laidojimo įstatymo Nr. X-1404 25 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-01-01"
 latest_path: "latest/bccfaea0cba011e387b1ebf12f4d03ee.md"
 latest_sha256: "96364b134cb48789b60d8b4610aa0ae4dde95a81fccbc046e78f4256cc6292fe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/bccfaea0cba011e387b1ebf12f4d03ee]]"
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 25 straipsnio pakeitimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/bccfaea0cba011e387b1ebf12f4d03ee.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/bccfaea0cba011e387b1ebf12f4d03ee
+- Ryšiai: [[Ryšiai/bccfaea0cba011e387b1ebf12f4d03ee|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,29 +36,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 25 straipsnio pakeitimas
+### 1 straipsnis. 25 straipsnio pakeitimas ^s-5ae5372b47b129550dcc92bb
 
 
-1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip: ^c341c86c29a8106de7b582e5
+1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip: ^s-5fcdacd15ef6f95187d07400
 
 
 „25 straipsnis. Žmogaus palaikų laidojimas kapavietėse, ekshumavimas ir perkėlimas“.
 
 
-2. Papildyti 25 straipsnį 7 dalimi: ^a5902c2f834321c6abeeed13
+2. Papildyti 25 straipsnį 7 dalimi: ^s-1b2e2f6da6f6c3ed04b2b736
 
 
 „7. Rezistentų ir kitų asmenų, nužudytų okupacinių režimų metu, palaikai perkeliami ir laidojimo vietos įamžinamos arba pažymimos Vyriausybės nustatyta tvarka, laidojimo vietos įamžinimo arba žymėjimo projektą suderinus su Vyriausybės įgaliotomis institucijomis.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-399665db16b662f4bf2487b6
 
 
-1. Šis įstatymas, išskyrus [[#^808688b70c1337eabe6a100f|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d. ^f056566bb986a4436f7b0a57
+1. Šis įstatymas, išskyrus [[#^s-a0f723e188afa420d8f07e7c|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d. ^s-b7cad8a6f44583af87cedbc8
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2015 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^808688b70c1337eabe6a100f
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2015 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-a0f723e188afa420d8f07e7c
 
 
 

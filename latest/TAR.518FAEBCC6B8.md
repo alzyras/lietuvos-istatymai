@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.518FAEBCC6B8"
 pavadinimas: "Lietuvos Respublikos statybos įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statybos įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas"
+  - "statybos įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-30"
 latest_path: "latest/TAR.518FAEBCC6B8.md"
 latest_sha256: "58b7d8fca0f4f9fb574266f808cc3b08540ac50f71efefd8b9054627c0120637"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.518FAEBCC6B8]]"
 ---
 # Lietuvos Respublikos statybos įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.518FAEBCC6B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.518FAEBCC6B8
+- Ryšiai: [[Ryšiai/TAR.518FAEBCC6B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,16 +38,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas ^s-667cf130bed003eebc7dd6ee
 
 
-1. Papildyti 1 straipsnį 3 dalimi: ^c8b957e21447c76172b10788
+1. Papildyti 1 straipsnį 3 dalimi: ^s-04f9721b083a7fbfe13c2ff7
 
 
 „3. Šio Įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas.“
 
 
-2. Buvusią 1 straipsnio 3 dalį laikyti 4 dalimi. ^f9e35f5ef319f6d7d9e1e11a
+2. Buvusią 1 straipsnio 3 dalį laikyti 4 dalimi. ^s-4584954a920626d8990913cc
 
 
 

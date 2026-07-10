@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3C139AE665CB"
 pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 1, 5(1), 6, 11 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 1, 5(1), 6, 11 straipsnių papildymo ir pakeitimo įstatymas"
+  - "gyventojų turto ir pajamų deklaravimo įstatymo 1, 5(1), 6, 11 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.3C139AE665CB.md"
 latest_sha256: "10f2b0e8ee67c9d5088fb450d64f4cdd9afe7f234fb389f677cc468a9d024837"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3C139AE665CB]]"
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 1, 5(1), 6, 11 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3C139AE665CB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3C139AE665CB
+- Ryšiai: [[Ryšiai/TAR.3C139AE665CB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas
+### 1 straipsnis. 1 straipsnio papildymas ^s-61ca9f7fc3acc664ac8a771f
 
 
 1 straipsnyje po žodžio „suteikimo“ įrašyti žodžius „arba piniginės socialinės paramos skyrimo“ ir šį straipsnį išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 51 straipsnio pakeitimas
+### 2 straipsnis. 51 straipsnio pakeitimas ^s-f523bfb88c8c3cd0e1d43efb
 
 
 Pakeisti 51 straipsnį ir jį išdėstyti taip:
@@ -58,7 +63,7 @@ Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo 
 
 
 
-### 3 straipsnis. 6 straipsnio 5 dalies papildymas
+### 3 straipsnis. 6 straipsnio 5 dalies papildymas ^s-bbdb147505d3b717982452c9
 
 
 6 straipsnio 5 dalyje po žodžio „asmenų“ įrašyti žodžius „arba piniginę socialinę paramą asmenų bei jų šeimos narių“ ir šią dalį išdėstyti taip:
@@ -68,7 +73,7 @@ Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo 
 
 
 
-### 4 straipsnis. 11 straipsnio 6 punkto papildymas
+### 4 straipsnis. 11 straipsnio 6 punkto papildymas ^s-da1062d031812a5c26fc3fd1
 
 
 11 straipsnio 6 punktą papildyti antru sakiniu ir šį punktą išdėstyti taip:
@@ -78,7 +83,7 @@ Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo 
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-7129b345c1716257cdc5d39e
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

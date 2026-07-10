@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.169235034861"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-06-20"
 latest_path: "latest/TAR.169235034861.md"
 latest_sha256: "839b4c231c14008a94e800d241354bb741dd6e2472aa9f8a583361f91dc92352"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.169235034861]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.169235034861.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.169235034861
+- Ryšiai: [[Ryšiai/TAR.169235034861|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-9d063ee56fe6d21d9e9df9a7
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:

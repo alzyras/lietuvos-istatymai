@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8E13ADB62DC6"
 pavadinimas: "Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-01-26"
 latest_path: "latest/TAR.8E13ADB62DC6.md"
 latest_sha256: "d919e7071909d02b60142e84126900e7ed7380bbf0e2e4866a1308d0830f2726"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8E13ADB62DC6]]"
 ---
 # Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8E13ADB62DC6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8E13ADB62DC6
+- Ryšiai: [[Ryšiai/TAR.8E13ADB62DC6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

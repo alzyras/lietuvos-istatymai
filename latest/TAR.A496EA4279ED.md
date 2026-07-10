@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A496EA4279ED"
 pavadinimas: "Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.A496EA4279ED.md"
 latest_sha256: "fceb3ec261b78bbcb542cc625c40da77b821d9129456b485324470304941063e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A496EA4279ED]]"
 ---
 # Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A496EA4279ED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A496EA4279ED
+- Ryšiai: [[Ryšiai/TAR.A496EA4279ED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-e6c8ded7d980c6f2dd8f5c02
 
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-bce41bf38e4c64e9e79ca11b
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

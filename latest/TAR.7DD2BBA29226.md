@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7DD2BBA29226"
 pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 25, 87, 88, 135, 164 straipsnių pakeitimo ir įstatymo papildymo 37-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių administravimo įstatymo 25, 87, 88, 135, 164 straipsnių pakeitimo ir įstatymo papildymo 37-1 straipsniu įstatymas"
+  - "mokesčių administravimo įstatymo 25, 87, 88, 135, 164 straipsnių pakeitimo ir įstatymo papildymo 37-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-11"
 latest_path: "latest/TAR.7DD2BBA29226.md"
 latest_sha256: "d571a166135b0b6271aaa1c8a97ac500689918ba12dbd83770cac3c17110e92b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7DD2BBA29226]]"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 25, 87, 88, 135, 164 straipsnių pakeitimo ir įstatymo papildymo 37-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7DD2BBA29226.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7DD2BBA29226
+- Ryšiai: [[Ryšiai/TAR.7DD2BBA29226|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 25 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 25 straipsnio 2 dalies pakeitimas ^s-0477673125afd2e48f8bbfeb
 
 
 Pakeisti 25 straipsnio 2 dalį ir ją dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo papildymas 371 straipsniu
+### 2 straipsnis. Įstatymo papildymas 371 straipsniu ^s-c13e1e8ab24037c50f53d5e4
 
 
 Papildyti Įstatymą 371 straipsniu:
@@ -53,38 +58,38 @@ Papildyti Įstatymą 371 straipsniu:
 „371 straipsnis. Mokesčių administratoriaus išankstinis įsipareigojimas dėl mokesčių teisės aktų nuostatų taikymo
 
 
-1. Mokesčių mokėtojas turi teisę kreiptis į mokesčių administratorių su prašymu pritarti jo siūlomam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui (toliau šiame straipsnyje – prašymas). Šiame prašyme mokesčių mokėtojas turi tiksliai ir vienareikšmiškai apibūdinti būsimąjį sandorį, aplinkybes, su kuriomis pagal mokesčių įstatymus sietinas apmokestinimas, taikytinas mokesčių teisės aktų nuostatas ir pateikti kitą informaciją ir įrodymus, kuriais grindžia siūlomą mokesčių teisės aktų nuostatų taikymą. Šiame straipsnyje vartojama sąvoka „būsimasis sandoris“ suprantama kaip mokesčių mokėtojo sandoris, ūkinė operacija ar bet kokia jų grupė, kurie bus pradėti vykdyti po šioje dalyje nurodyto prašymo pateikimo mokesčių administratoriui dienos. Prašymas negali būti pateiktas dėl mokesčio dydžio. ^b02d090171846c1ff848f105
+1. Mokesčių mokėtojas turi teisę kreiptis į mokesčių administratorių su prašymu pritarti jo siūlomam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui (toliau šiame straipsnyje – prašymas). Šiame prašyme mokesčių mokėtojas turi tiksliai ir vienareikšmiškai apibūdinti būsimąjį sandorį, aplinkybes, su kuriomis pagal mokesčių įstatymus sietinas apmokestinimas, taikytinas mokesčių teisės aktų nuostatas ir pateikti kitą informaciją ir įrodymus, kuriais grindžia siūlomą mokesčių teisės aktų nuostatų taikymą. Šiame straipsnyje vartojama sąvoka „būsimasis sandoris“ suprantama kaip mokesčių mokėtojo sandoris, ūkinė operacija ar bet kokia jų grupė, kurie bus pradėti vykdyti po šioje dalyje nurodyto prašymo pateikimo mokesčių administratoriui dienos. Prašymas negali būti pateiktas dėl mokesčio dydžio. ^s-a8bac28a482114f386c5c423
 
 
-2. Mokesčių administratorius turi priimti sprendimą dėl prašymo per 60 dienų nuo jo gavimo dienos. Prašymų, gautų iki 2013 m. liepos 1 d., nagrinėjimui papildomai skiriama 30 dienų. Prašymo nagrinėjimo terminas mokesčių administratoriaus sprendimu gali būti pratęstas dar 60 dienų, jeigu prašymui nagrinėti reikia papildomo tyrimo. Apie prašymo nagrinėjimo termino pratęsimą turi būti raštu pranešta prašymą pateikusiam mokesčių mokėtojui. ^6962b30bdae40815216a03e3
+2. Mokesčių administratorius turi priimti sprendimą dėl prašymo per 60 dienų nuo jo gavimo dienos. Prašymų, gautų iki 2013 m. liepos 1 d., nagrinėjimui papildomai skiriama 30 dienų. Prašymo nagrinėjimo terminas mokesčių administratoriaus sprendimu gali būti pratęstas dar 60 dienų, jeigu prašymui nagrinėti reikia papildomo tyrimo. Apie prašymo nagrinėjimo termino pratęsimą turi būti raštu pranešta prašymą pateikusiam mokesčių mokėtojui. ^s-884f2529b3be58b8e3b0f814
 
 
-3. Mokesčių administratorius, išnagrinėjęs prašymą, priima vieną iš šių sprendimų: ^42e06119d9d9ec648537cad8
+3. Mokesčių administratorius, išnagrinėjęs prašymą, priima vieną iš šių sprendimų: ^s-71d303af5f95cf0ad46b0d71
 
 
-1) pritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Priėmęs šį sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar šis mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti mokesčių teisės aktų nuostatas būsimajam sandoriui taip, kaip nurodyta sprendime, išskyrus šio straipsnio 4, 5 ir [[#^c480813775e2bcc64243b4ce|6 dalyse]] nustatytus atvejus; ^0ad2b5e2ddd16bd5cbfd94d0
+1) pritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Priėmęs šį sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar šis mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti mokesčių teisės aktų nuostatas būsimajam sandoriui taip, kaip nurodyta sprendime, išskyrus šio straipsnio 4, 5 ir [[#^s-3c7ce34ab61a6ba2162737c2|6 dalyse]] nustatytus atvejus; ^s-6186ebdc803c4d418d2e4e11
 
 
-2) nepritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Šiame sprendime mokesčių administratorius turi nurodyti nepritarimo priežastis. ^4603a2605089f48d8d3fef6d
+2) nepritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Šiame sprendime mokesčių administratorius turi nurodyti nepritarimo priežastis. ^s-91b9925ccf2ead0342eba51c
 
 
-4. Jeigu šiame straipsnyje nenustatyta kitaip, [[#^0ad2b5e2ddd16bd5cbfd94d0|šio straipsnio 3 dalies 1 punkte]] nurodytas sprendimas galioja visą prašyme nurodyto būsimojo sandorio vykdymo laikotarpį, bet ne ilgiau kaip einamuosius ir 5 kalendorinius metus nuo šio sprendimo priėmimo dienos, o tuo atveju, kai priimami nauji mokesčių teisės aktai, kuriais pakeičiamos, papildomos arba pripažįstamos netekusiomis galios šiame sprendime nurodytos mokesčių teisės aktų nuostatos, – iki naujų mokesčių teisės aktų nuostatų įsigaliojimo dienos. ^a6585eccf2449028a9b33693
+4. Jeigu šiame straipsnyje nenustatyta kitaip, [[#^s-6186ebdc803c4d418d2e4e11|šio straipsnio 3 dalies 1 punkte]] nurodytas sprendimas galioja visą prašyme nurodyto būsimojo sandorio vykdymo laikotarpį, bet ne ilgiau kaip einamuosius ir 5 kalendorinius metus nuo šio sprendimo priėmimo dienos, o tuo atveju, kai priimami nauji mokesčių teisės aktai, kuriais pakeičiamos, papildomos arba pripažįstamos netekusiomis galios šiame sprendime nurodytos mokesčių teisės aktų nuostatos, – iki naujų mokesčių teisės aktų nuostatų įsigaliojimo dienos. ^s-7709d3c3021e947198cd98a9
 
 
-5. Jeigu po [[#^0ad2b5e2ddd16bd5cbfd94d0|šio straipsnio 3 dalies 1 punkte]] nurodyto sprendimo priėmimo Lietuvos vyriausiojo administracinio teismo biuletenyje arba Europos Sąjungos oficialiajame leidinyje paskelbiami Lietuvos vyriausiojo administracinio teismo arba Europos Sąjungos teisminių institucijų įstatymų ir kitų teisės aktų taikymo išaiškinimai, kuriems šis sprendimas prieštarauja, mokesčių administratorius pakeičia sprendimo galiojimo laikotarpį ir apie tai nedelsdamas praneša mokesčių mokėtojui. Tokiu atveju [[#^0ad2b5e2ddd16bd5cbfd94d0|šio straipsnio 3 dalies 1 punkte]] nurodytas sprendimas galioja iki atitinkamo išaiškinimo paskelbimo dienos. ^3805d272f731ae2d28175a3e
+5. Jeigu po [[#^s-6186ebdc803c4d418d2e4e11|šio straipsnio 3 dalies 1 punkte]] nurodyto sprendimo priėmimo Lietuvos vyriausiojo administracinio teismo biuletenyje arba Europos Sąjungos oficialiajame leidinyje paskelbiami Lietuvos vyriausiojo administracinio teismo arba Europos Sąjungos teisminių institucijų įstatymų ir kitų teisės aktų taikymo išaiškinimai, kuriems šis sprendimas prieštarauja, mokesčių administratorius pakeičia sprendimo galiojimo laikotarpį ir apie tai nedelsdamas praneša mokesčių mokėtojui. Tokiu atveju [[#^s-6186ebdc803c4d418d2e4e11|šio straipsnio 3 dalies 1 punkte]] nurodytas sprendimas galioja iki atitinkamo išaiškinimo paskelbimo dienos. ^s-47c8189bf1ed0810a3a05fea
 
 
-6. Mokesčių administratorius netaiko sprendimo dėl prašymo, jeigu mokestinio patikrinimo metu nustato, kad faktinės sandorio vykdymo aplinkybės neatitinka mokesčių mokėtojo prašyme nurodytų aplinkybių. ^c480813775e2bcc64243b4ce
+6. Mokesčių administratorius netaiko sprendimo dėl prašymo, jeigu mokestinio patikrinimo metu nustato, kad faktinės sandorio vykdymo aplinkybės neatitinka mokesčių mokėtojo prašyme nurodytų aplinkybių. ^s-3c7ce34ab61a6ba2162737c2
 
 
-7. Mokesčių mokėtojas neprivalo vadovautis mokesčių administratoriaus sprendimu dėl prašymo ar sprendimu dėl ankstesnio sprendimo galiojimo laikotarpio pakeitimo. ^3e54c74963ff6337a8fe6d1d
+7. Mokesčių mokėtojas neprivalo vadovautis mokesčių administratoriaus sprendimu dėl prašymo ar sprendimu dėl ankstesnio sprendimo galiojimo laikotarpio pakeitimo. ^s-0dee080cf7884ea476247e1c
 
 
-8. Šiame straipsnyje nurodyto prašymo pateikimo ir nagrinėjimo tvarką, prašymo formą, mokesčių administratoriaus sprendimo dėl prašymo priėmimo ir sprendimo pakeitimo tvarką, atitinkamo sprendimo formą nustato centrinis mokesčių administratorius. Centrinis mokesčių administratorius turi teisę nustatyti prie prašymo pridėtinų dokumentų sąrašą.“ ^12deb9610e368c6fb5067c21
+8. Šiame straipsnyje nurodyto prašymo pateikimo ir nagrinėjimo tvarką, prašymo formą, mokesčių administratoriaus sprendimo dėl prašymo priėmimo ir sprendimo pakeitimo tvarką, atitinkamo sprendimo formą nustato centrinis mokesčių administratorius. Centrinis mokesčių administratorius turi teisę nustatyti prie prašymo pridėtinų dokumentų sąrašą.“ ^s-d06d045ad397f3f6e00ef616
 
 
 
-### 3 straipsnis. 87 straipsnio 6 dalies pakeitimas
+### 3 straipsnis. 87 straipsnio 6 dalies pakeitimas ^s-7b6a218c7cbf868efe87f869
 
 
 87 straipsnio 6 dalyje vietoj skaičiaus ir žodžio „20 dienų“ įrašyti skaičių ir žodį „5 dienas“ ir šią dalį išdėstyti taip:
@@ -94,7 +99,7 @@ Papildyti Įstatymą 371 straipsniu:
 
 
 
-### 4 straipsnis. 88 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 88 straipsnio 1 dalies pakeitimas ^s-f49a481b0f8d3a666c803f6f
 
 
 88 straipsnio 1 dalyje išbraukti žodžius „vietos“ ir šią dalį išdėstyti taip:
@@ -104,7 +109,7 @@ Papildyti Įstatymą 371 straipsniu:
 
 
 
-### 5 straipsnis. 135 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 135 straipsnio 2 dalies pakeitimas ^s-e62aebe22d0429b09cd3bd62
 
 
 135 straipsnio 2 dalyje po žodžio „tvarką“ įrašyti žodžius „suderinęs su Finansų ministerija“ ir šią dalį išdėstyti taip:
@@ -114,7 +119,7 @@ Papildyti Įstatymą 371 straipsniu:
 
 
 
-### 6 straipsnis. 164 straipsnio 5 dalies pakeitimas
+### 6 straipsnis. 164 straipsnio 5 dalies pakeitimas ^s-830a1c4ef157c27eeda91c76
 
 
 Pakeisti 164 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -124,20 +129,20 @@ Pakeisti 164 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Pasiūlymai centriniam mokesčių administratoriui
+### 7 straipsnis. Pasiūlymai centriniam mokesčių administratoriui ^s-0aa5eca026e14b0611482005
 
 
 Centrinis mokesčių administratorius priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-b8cf59558d30df4d3629ca5c
 
 
-1. Šio įstatymo [[#2 straipsnis. Įstatymo papildymas 371 straipsniu|2 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^78bbd0bc092da59e026ddb94
+1. Šio įstatymo [[#^s-c13e1e8ab24037c50f53d5e4|2 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-159b1c8a3f58dfd61efd15f4
 
 
-2. Šio įstatymo [[#5 straipsnis. 135 straipsnio 2 dalies pakeitimas|5 straipsnis]] įsigalioja 2011 m. balandžio 1 d. ^49f5df3a60318a59ac173cff
+2. Šio įstatymo [[#^s-e62aebe22d0429b09cd3bd62|5 straipsnis]] įsigalioja 2011 m. balandžio 1 d. ^s-1bc18f74795585504dc1f5f3
 
 
 

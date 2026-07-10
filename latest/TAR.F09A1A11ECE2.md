@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F09A1A11ECE2"
 pavadinimas: "Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas"
+  - "žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-01"
 latest_path: "latest/TAR.F09A1A11ECE2.md"
 latest_sha256: "34ed620fef3e7e57db3e03569eeac4617f3fc51a65a8d4dd2f3b6252311e8a4f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F09A1A11ECE2]]"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F09A1A11ECE2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F09A1A11ECE2
+- Ryšiai: [[Ryšiai/TAR.F09A1A11ECE2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio pakeitimas
+### 1 straipsnis. 12 straipsnio pakeitimas ^s-d894d1eddf1c2c6cb93dbfea
 
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
@@ -40,11 +45,11 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 „12 straipsnis.
 
 
-Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
+Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 2 straipsnis. 13 straipsnio pakeitimas
+### 2 straipsnis. 13 straipsnio pakeitimas ^s-179ce6559a5fbf208447fc42
 
 
 13 straipsnyje vietoj žodžių „už kiekvieną praleistą dieną imama 0,1 procento delspinigių“ įrašyti žodžius „imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka“ ir straipsnį išdėstyti taip:
@@ -53,11 +58,11 @@ Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinam
 „13 straipsnis.
 
 
-Mokesčio laiku nesumokėjus, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
+Mokesčio laiku nesumokėjus, imami delspinigiai [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ef100d1096bd555e51f6a0a0
 
 
 Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.

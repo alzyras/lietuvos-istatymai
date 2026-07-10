@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "7dedff20aee311eab9d9cd0c85e0b745"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-01-01"
 latest_path: "latest/7dedff20aee311eab9d9cd0c85e0b745.md"
 latest_sha256: "98af449fad842e6aa74425d74a752f66ea91d2f28ba2f9e90df04a8c434ad7a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/7dedff20aee311eab9d9cd0c85e0b745]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/7dedff20aee311eab9d9cd0c85e0b745.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/7dedff20aee311eab9d9cd0c85e0b745
+- Ryšiai: [[Ryšiai/7dedff20aee311eab9d9cd0c85e0b745|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,23 +42,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio pakeitimas
+### 1 straipsnis. 12 straipsnio pakeitimas ^s-6bf524fed7c1f44efadc522f
 
 
-1. Pakeisti 12 straipsnio 6 dalį ir ją išdėstyti taip: ^c2b0487591d9f4af499657a2
+1. Pakeisti 12 straipsnio 6 dalį ir ją išdėstyti taip: ^s-8cf6152427912c73e21ef1d9
 
 
 „6. Asmenys, ketinantys įsigyti verslo liudijimus trumpesniam negu 3 mėnesių laikotarpiui, privalo iš anksto sumokėti socialinio draudimo įmokas už visą verslo liudijimo galiojimo laikotarpį. Asmenys, įsigiję verslo liudijimus 3 mėnesių ar ilgesniam laikotarpiui, socialinio draudimo įmokas moka kartą per ketvirtį ne vėliau kaip iki kito ketvirčio pirmo mėnesio 15 dienos. Jeigu asmeniui, sumokėjusiam socialinio draudimo įmokas, verslo liudijimas neišduodamas arba už išduotą verslo liudijimą grąžinama susidariusi pajamų mokesčio permoka, socialinio draudimo įmokų suma administruojama šio straipsnio 10 dalyje nustatyta tvarka.“
 
 
-2. Papildyti 12 straipsnį 10 dalimi: ^659bfd6efd6276ea2f0624bf
+2. Papildyti 12 straipsnį 10 dalimi: ^s-69ceb97ec20b61a2a8d483fd
 
 
 „10. Socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Fondo valdybos direktoriaus nustatyta tvarka pirmiausia įskaitoma socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti, po to – privalomojo sveikatos draudimo įmokų skolai padengti, o likusi nurodytos permokos suma Valstybinės mokesčių inspekcijos viršininko nustatyta tvarka, suderinta su Fondo valdyba, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o jeigu mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka įskaitoma kaip socialinio draudimo įmoka ar jos dalis už būsimus laikotarpius arba, gavus draudėjo prašymą, Fondo valdybos direktoriaus nustatyta tvarka grąžinama draudėjui. Jeigu dalis socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos yra apdraustojo socialinio draudimo įmokų permoka, draudėjas privalo grąžinti savo apdraustajam jam priklausančią apdraustojo socialinio draudimo įmokų permokos dalį.“
 
 
 
-### 2 straipsnis. 19 straipsnio pakeitimas
+### 2 straipsnis. 19 straipsnio pakeitimas ^s-d5b7354ce5facb0fdc8f10e8
 
 
 Pakeisti 19 straipsnio 12 dalį ir ją išdėstyti taip:
@@ -63,16 +68,16 @@ Pakeisti 19 straipsnio 12 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas ^s-81c0268512b4c44dd0ebb2e4
 
 
-1. Šis įstatymas, išskyrus [[#^519be6a3c39d0d023d4f2a07|šio straipsnio 2 dalį]], įsigalioja 2021 m. sausio 1 d. ^a6c7481c8e86a8acb63d98f2
+1. Šis įstatymas, išskyrus [[#^s-670c23f7b2c269fcce9c8888|šio straipsnio 2 dalį]], įsigalioja 2021 m. sausio 1 d. ^s-8e03bbdf5b8d63ae9e88641e
 
 
-2. Lietuvos Respublikos Vyriausybė, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius ir Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininkas iki 2020 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^519be6a3c39d0d023d4f2a07
+2. Lietuvos Respublikos Vyriausybė, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius ir Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininkas iki 2020 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-670c23f7b2c269fcce9c8888
 
 
-3. Iki šio įstatymo įsigaliojimo pradėtoms, tačiau nebaigtoms valstybinio socialinio draudimo įmokų, delspinigių, palūkanų ir baudų permokų įskaitymo ir grąžinimo procedūroms taikomi iki šio įstatymo įsigaliojimo galioję teisės aktai. ^eb67ba06dde9c114b99f4585
+3. Iki šio įstatymo įsigaliojimo pradėtoms, tačiau nebaigtoms valstybinio socialinio draudimo įmokų, delspinigių, palūkanų ir baudų permokų įskaitymo ir grąžinimo procedūroms taikomi iki šio įstatymo įsigaliojimo galioję teisės aktai. ^s-b269f8310b438f5db7f4a802
 
 
 

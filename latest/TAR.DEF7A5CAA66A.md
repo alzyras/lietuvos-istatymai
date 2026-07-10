@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DEF7A5CAA66A"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo pakeitimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo pakeitimo ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo pakeitimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.DEF7A5CAA66A.md"
 latest_sha256: "e85fdc901435816b143e4531c5e0e438f6454a62e4fd562b6ce0e80c450c627e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DEF7A5CAA66A]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo pakeitimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DEF7A5CAA66A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DEF7A5CAA66A
+- Ryšiai: [[Ryšiai/TAR.DEF7A5CAA66A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo pakeitimo ratifikavimas
+### 1 straipsnis. Susitarimo pakeitimo ratifikavimas ^s-0578bf70df2b22492b212914
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. sausio 19 d. dekretą Nr. 1K-270, ratifikuoja 2009 m. gruodžio 29 d. Vilniuje pasirašytą Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo pakeitimą.

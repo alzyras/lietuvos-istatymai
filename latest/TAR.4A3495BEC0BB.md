@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4A3495BEC0BB"
 pavadinimas: "Lietuvos Respublikos vertybinių popierių įstatymo 2, 5, 31, 35, 36, 37, 38, 39 straipsnių papildymo ir pakeitimo įstatymo 1, 2, 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vertybinių popierių įstatymo 2, 5, 31, 35, 36, 37, 38, 39 straipsnių papildymo ir pakeitimo įstatymo 1, 2, 3 straipsnių pakeitimo įstatymas"
+  - "vertybinių popierių įstatymo 2, 5, 31, 35, 36, 37, 38, 39 straipsnių papildymo ir pakeitimo įstatymo 1, 2, 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-09-30"
 latest_path: "latest/TAR.4A3495BEC0BB.md"
 latest_sha256: "c1a0a2cc31bdbf0e6ade27390a381aeaa84807b7979d91be3f1a4ce0877a064b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4A3495BEC0BB]]"
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymo 2, 5, 31, 35, 36, 37, 38, 39 straipsnių papildymo ir pakeitimo įstatymo 1, 2, 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4A3495BEC0BB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4A3495BEC0BB
+- Ryšiai: [[Ryšiai/TAR.4A3495BEC0BB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-48ddddc411400a8601a006b0
 
 
 1 straipsnio 2 dalyje vietoj skaičių „15–53“  įrašyti skaičius „15–54“, vietoj skaičių „16–54“ įrašyti skaičius „16–55“ ir  šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-9af3ce31db5e43877cd89cc9
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
@@ -59,7 +64,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 3 straipsnio pakeitimas
+### 3 straipsnis. 3 straipsnio pakeitimas ^s-1bd18a8464fb110f93a1c38e
 
 
 Pakeisti 3 straipsnį ir jį  išdėstyti taip:
@@ -69,11 +74,11 @@ Pakeisti 3 straipsnį ir jį  išdėstyti taip:
 „3 straipsnis. 31 straipsnio 3 ir 7 dalių pakeitimas
 
 
-1. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip: ^301856341e57caa27c26d738
+1. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip: ^s-dec23639c8ddda79181e02ac
 „3. Asmuo, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įgijęs akcijas, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų bendrovės, dėl kurios akcijų teiktinas oficialus siūlymas, visuotiniame akcininkų susirinkime, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, viešai paskelbti bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, įstatuose nurodytame šaltinyje apie 1/3 balsų ribos peržengimą ir apie savo ketinimą teikti privalomą oficialų siūlymą ar ketinimą perleisti šią balsų ribą viršijančias akcijas, taip pat apie tai pranešti Vertybinių popierių komisijai, reguliuojamos rinkos operatoriui ir bendrovei, dėl kurios akcijų teiktinas oficialus siūlymas. Tokiu pat būdu turi būti skelbiama informacija apie nustatytą balsų ribą viršijančių akcijų perleidimo faktą, jeigu, vadovaujantis šio straipsnio 1 dalies 1 punktu, privalomas oficialus siūlymas neteikiamas.“
 
 
-2. Pakeisti 31 straipsnio 7 dalį ir ją išdėstyti taip: ^6aa58989333e0e5a06e13cb7
+2. Pakeisti 31 straipsnio 7 dalį ir ją išdėstyti taip: ^s-78b3223679bce9fe5a8bc52b
 
 
 „7. Asmuo, nusprendęs teikti savanorišką oficialų siūlymą, privalo nedelsdamas apie tai viešai paskelbti bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, įstatuose nurodytame šaltinyje, pranešti Vertybinių popierių komisijai, reguliuojamos rinkos operatoriui ir bendrovei, dėl kurios akcijų teikiamas oficialus siūlymas, ir per 20 dienų po viešo paskelbimo pateikti Vertybinių popierių komisijai cirkuliarą.“

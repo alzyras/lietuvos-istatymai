@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CCF49F8CF215"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Filipinų Respublikos pagrindų susitarimo dėl partnerystės ir bendradarbiavimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Filipinų Respublikos pagrindų susitarimo dėl partnerystės ir bendradarbiavimo ratifikavimo"
+  - "įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Filipinų Respublikos pagrindų susitarimo dėl partnerystės ir bendradarbiavimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-04-04"
 latest_path: "latest/TAR.CCF49F8CF215.md"
 latest_sha256: "f2deff923e4470c16af92fa9b29d5ade43ba287c9dafffbd9855fec1b14b701c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CCF49F8CF215]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Filipinų Respublikos pagrindų susitarimo dėl partnerystės ir bendradarbiavimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CCF49F8CF215.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CCF49F8CF215
+- Ryšiai: [[Ryšiai/TAR.CCF49F8CF215|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-85248737628506febd05bb34
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. gruodžio 17 d. dekretą Nr. 1K-1311, ratifikuoja 2012 m. liepos 11 d. Pnompenyje priimtą Europos Sąjungos bei jos valstybių narių ir Filipinų Respublikos pagrindų susitarimą dėl partnerystės ir bendradarbiavimo.

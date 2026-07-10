@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.992CC18B814B"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos konvencijų gyvūnų apsaugos klausimais ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos konvencijų gyvūnų apsaugos klausimais ratifikavimo"
+  - "įstatymas dėl Europos konvencijų gyvūnų apsaugos klausimais ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-16"
 latest_path: "latest/TAR.992CC18B814B.md"
 latest_sha256: "acc6b192f4531ad9ea7b3b90e89c1e92173bb1423df46e2a617b315b6ef5a87b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.992CC18B814B]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos konvencijų gyvūnų apsaugos klausimais ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.992CC18B814B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.992CC18B814B
+- Ryšiai: [[Ryšiai/TAR.992CC18B814B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,28 +34,28 @@ Vilnius
 
 
 
-### 1 straipsnis. Europos konvencijos dėl ūkinės paskirties gyvūnų apsaugos ratifikavimas
+### 1 straipsnis. Europos konvencijos dėl ūkinės paskirties gyvūnų apsaugos ratifikavimas ^s-b496e3520acd82ecac46fdba
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 4 d. dekretą Nr. 306, ratifikuoja Europos konvenciją dėl ūkinės paskirties gyvūnų apsaugos, priimtą 1976 m. kovo 10 d. Strasbūre.
 
 
 
-### 2 straipsnis.         Europos konvencijos dėl ūkinės paskirties gyvūnų apsaugos pakeitimų protokolo ratifikavimas
+### 2 straipsnis.         Europos konvencijos dėl ūkinės paskirties gyvūnų apsaugos pakeitimų protokolo ratifikavimas ^s-9cba18e6e453ca01cd4f6801
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 4 d. dekretą Nr. 306, ratifikuoja Europos konvencijos dėl ūkinės paskirties gyvūnų apsaugos pakeitimų protokolą, priimtą 1992 m. vasario 6 d. Strasbūre.
 
 
 
-### 3 straipsnis.         Europos konvencijos dėl gyvūnų apsaugos tarptautinio vežimo metu ratifikavimas
+### 3 straipsnis.         Europos konvencijos dėl gyvūnų apsaugos tarptautinio vežimo metu ratifikavimas ^s-d1036426a0857882d6db0cc5
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 4 d. dekretą Nr. 306, ratifikuoja Europos konvenciją dėl gyvūnų apsaugos tarptautinio vežimo metu, priimtą 1968 m. gruodžio 13 d. Paryžiuje.
 
 
 
-### 4 straipsnis. Europos konvencijos dėl skerdžiamų gyvūnų apsaugos ratifikavimas
+### 4 straipsnis. Europos konvencijos dėl skerdžiamų gyvūnų apsaugos ratifikavimas ^s-bc832e480738cbb747b1ea16
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 4 d. dekretą Nr. 306, ratifikuoja Europos konvenciją dėl skerdžiamų gyvūnų apsaugos, priimtą 1979 m. gegužės 10 d. Strasbūre.

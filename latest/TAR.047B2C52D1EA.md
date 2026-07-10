@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.047B2C52D1EA"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18-1, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18-1, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18-1, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.047B2C52D1EA.md"
 latest_sha256: "fb823036c5113cd73edaf695f5aed5f1b0e8c53ebac9937694f9813807538fea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.047B2C52D1EA]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18-1, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.047B2C52D1EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.047B2C52D1EA
+- Ryšiai: [[Ryšiai/TAR.047B2C52D1EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-cf264fe0ecd3551621f1e122
 
 
 Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-afac4d2c97b682bca316804b
 
 
 Šio įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.

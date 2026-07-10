@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DBBCFC1F66CE"
 pavadinimas: "Lietuvos Respublikos valstybės iždo įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės iždo įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+  - "valstybės iždo įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.DBBCFC1F66CE.md"
 latest_sha256: "9f0a4b5f9a90935759ec58d2f8d598da4c39037c6af6f019121841cedc0f03dd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DBBCFC1F66CE]]"
 ---
 # Lietuvos Respublikos valstybės iždo įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DBBCFC1F66CE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DBBCFC1F66CE
+- Ryšiai: [[Ryšiai/TAR.DBBCFC1F66CE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 2 punkto pakeitimas ^s-0cf96a77f98c953ff0825278
 
 
 Pakeisti 7 straipsnio 2 punktą ir jį išdėstyti taip:
@@ -39,7 +44,7 @@ Pakeisti 7 straipsnio 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-20d76faad3547e4312c14863
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -49,7 +54,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-5ce8adf44f242c4b89e0e809
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

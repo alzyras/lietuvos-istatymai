@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BAC2B15AFE57"
 pavadinimas: "Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.BAC2B15AFE57.md"
 latest_sha256: "a4293c0bbb85016ee73f09c927941194b5b7b514d729574a58df59fee49eda13"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BAC2B15AFE57]]"
 ---
 # Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BAC2B15AFE57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BAC2B15AFE57
+- Ryšiai: [[Ryšiai/TAR.BAC2B15AFE57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-c8b06792cdcb1acfad604706
 
 
 2 straipsnio 3 dalyje vietoj žodžių „operatyvinės veiklos subjektų“ įrašyti žodžius „kriminalinės žvalgybos“ ir šią dalį išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-1447e68acde64abd65320893
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

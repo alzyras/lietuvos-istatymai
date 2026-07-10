@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25CA1A623645"
 pavadinimas: "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 15 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 15 straipsnio papildymo įstatymas"
+  - "laisvųjų ekonominių zonų pagrindų įstatymo 15 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-03"
 latest_path: "latest/TAR.25CA1A623645.md"
 latest_sha256: "ad8f132476aabee52bbf240ec9dd87da8df56723b1bcc6afd46daeaf452fd3b7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25CA1A623645]]"
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 15 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25CA1A623645.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25CA1A623645
+- Ryšiai: [[Ryšiai/TAR.25CA1A623645|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 2 dalies papildymas
+### 1 straipsnis. 15 straipsnio 2 dalies papildymas ^s-0ab04db0d695784f567e7d8e
 
 
 Papildyti 15 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B97537087EDC"
 pavadinimas: "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 4, 5, 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 4, 5, 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 4, 5, 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-07-01"
 latest_path: "latest/TAR.B97537087EDC.md"
 latest_sha256: "5f75bb3fce15fb57c0d9a934441f7cbfd382cb7173fa86f9e7cf7c4e2ae477f1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B97537087EDC]]"
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 4, 5, 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B97537087EDC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B97537087EDC
+- Ryšiai: [[Ryšiai/TAR.B97537087EDC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas ^s-0a45338918db58d6cebc4961
 
 
 4 straipsnio 4 dalyje išbraukti žodžius „arba globėjui“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-d894a9b424a1d22273d58f70
 
 
 5 straipsnio pavadinime išbraukti žodį „(rūpybos)“, straipsnio 1 dalį pakeisti, 2 dalį pripažinti netekusia galios ir straipsnį išdėstyti taip:
@@ -54,7 +59,7 @@ Fiziniam asmeniui, šeimynai arba nevyriausybinei globos institucijai, įstatym�
 
 
 
-### 3 straipsnis. 9 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 9 straipsnio pakeitimas ir papildymas ^s-dd6fcaf0ac100a7374128547
 
 
 9 straipsnio 1 dalyje po skaičiaus „41“ išbraukti skaičių „5“, straipsnį papildyti nauja 3 dalimi ir straipsnį išdėstyti taip:
@@ -73,7 +78,7 @@ Pašalpa, nurodyta šio įstatymo 5 straipsnyje, mokama iš valstybės biudžete
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-636a938a8ebd5a40c4410450
 
 
 Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.

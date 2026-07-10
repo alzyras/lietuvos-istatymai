@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FC6EABC399C9"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.FC6EABC399C9.md"
 latest_sha256: "bfbe738f9760527c8435720e423eded58acf8bbc22aa54ed4f4ccf986468e858"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FC6EABC399C9]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FC6EABC399C9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FC6EABC399C9
+- Ryšiai: [[Ryšiai/TAR.FC6EABC399C9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 21 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 21 dalies pakeitimas ^s-3cf9a90561db34d7c0682f73
 
 
 2 straipsnio 21 dalyje vietoj žodžio „Aukštesnysis“ įrašyti žodžius „Lietuvos vyriausiasis“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-bb95ad08fc0464d7251e17b5
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

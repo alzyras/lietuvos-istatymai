@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.143EC1A56B4B"
 pavadinimas: "Dėl Lietuvos Respublikos 1992 m. valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
+aliases:
+  - "Dėl Lietuvos Respublikos 1992 m. valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-04-01"
 latest_path: "latest/TAR.143EC1A56B4B.md"
 latest_sha256: "d79c79f442d10c61def2268f89f11c9859323c193f3e98317bf7262c124966d9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.143EC1A56B4B]]"
 ---
 # Dėl Lietuvos Respublikos 1992 m. valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.143EC1A56B4B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.143EC1A56B4B
+- Ryšiai: [[Ryšiai/TAR.143EC1A56B4B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,35 +36,35 @@ Vilnius
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-### 1 straipsnis.
+### 1 straipsnis. ^s-72592c72fc71b74f8ef1a25c
 
 
 Patvirtinti Lietuvos Respublikos 1992 metų valstybės biudžetą – 21491080 tūkst. rublių pajamų, 22875859 tūkst. rublių išlaidų (išlaidos viršija pajamas 1384779 tūkst. rublių) ir 150000 tūkst. rublių kasos apyvartos lėšų (1 priedėlis).
 
 
 
-### 2 straipsnis.
+### 2 straipsnis. ^s-9300e3b5944ea9b3c9d248fb
 
 
 Nustatyti, kad iš fizinių asmenų pajamų mokesčio įplaukų į savivaldybių biudžetus atskaitoma 80 procentų, iš bendrojo akcizo įplaukų – 10 procentų.
 
 
 
-### 3 straipsnis.
+### 3 straipsnis. ^s-7d0940f9dfbda11d7663ea10
 
 
 Nustatyti dotacijų sumą savivaldybių biudžetams – 3562300 tūkst. rublių (2 priedėlis).
 
 
 
-### 4 straipsnis.
+### 4 straipsnis. ^s-68269cf6b5faa655c83c536e
 
 
 Nustatyti Lietuvos Respublikos valstybės biudžete asignavimus valstybinės valdžios, valdymo ir teisėsaugos organams išlaikyti – 666093 tūkst. rublių (3 priedėlis).
 
 
 
-### 5 straipsnis.
+### 5 straipsnis. ^s-04bf32f596e19ec892dae5b6
 
 
 Nustatyti, kad žemės mokesčio įmokos paskirstomos į abiejų pakopų savivaldybių biudžetus tokiais dydžiais, kad, skaičiuojant kartu su kitais pajamų šaltiniais, būtų užtikrintas planinių išlaidų padengimas.

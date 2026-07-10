@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.38ABD29EC854"
 pavadinimas: "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-05-12"
 latest_path: "latest/TAR.38ABD29EC854.md"
 latest_sha256: "297051900069f12619dbe35c5cb000155a40f9f8e1466a57a18b0932614b6e26"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.38ABD29EC854]]"
 ---
 # Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.38ABD29EC854.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.38ABD29EC854
+- Ryšiai: [[Ryšiai/TAR.38ABD29EC854|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-Pakeisti Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo (Žin., 1992, Nr. 14-378; 1994, Nr. 1-3; 1995, Nr. 20-451) 11 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.9D04F98F7C14|Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo]] (Žin., 1992, Nr. 14-378; 1994, Nr. 1-3; 1995, Nr. 20-451) 11 straipsnį ir jį išdėstyti taip:
 
 
 „11 straipsnis. Teisės į valstybės paramą sąlygos

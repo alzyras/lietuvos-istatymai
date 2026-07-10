@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A0BAB27D768C"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-08"
 latest_path: "latest/TAR.A0BAB27D768C.md"
 latest_sha256: "f787bc69fc9cc50d26740bf4d2f2887ad3e0b2fb41e3b76a5fed8adb3884b9c4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A0BAB27D768C]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A0BAB27D768C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C
+- Ryšiai: [[Ryšiai/TAR.A0BAB27D768C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,16 +37,16 @@ LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMAS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-dac56f47ce5cfba61db23a26
 
 
-1. Šis įstatymas nustato Lietuvos nacionalinio saugumo užtikrinimo pagrindus, kurie išdėstyti priedėlyje. ^a1e8047cc3e77430a42441df
+1. Šis įstatymas nustato Lietuvos nacionalinio saugumo užtikrinimo pagrindus, kurie išdėstyti priedėlyje. ^s-53ffbbac6abb039c6e31d7b7
 
 
-2. Lietuvos nacionalinio saugumo užtikrinimas – tai Tautos ir valstybės laisvos ir demokratinės raidos sąlygų sudarymas, Lietuvos valstybės nepriklausomybės, jos teritorinio vientisumo ir konstitucinės santvarkos apsauga ir gynimas. ^2c6a738c3d81502059f3413e
+2. Lietuvos nacionalinio saugumo užtikrinimas – tai Tautos ir valstybės laisvos ir demokratinės raidos sąlygų sudarymas, Lietuvos valstybės nepriklausomybės, jos teritorinio vientisumo ir konstitucinės santvarkos apsauga ir gynimas. ^s-5152c98a351bd79646d9031c
 
 
-3. Lietuvos nacionalinio saugumo sistemą sudaro valstybės ir piliečių veiklos šiam tikslui patvirtintų pagrindinių nuostatų, principų ir būdų, narystės Europos ir transatlantinėje sąjungose priemonių, įstatymų ir kitų teisės aktų, valstybės šiam tikslui įsteigtų institucijų, jų veiklos principų bei tarpusavio sąveikos būdų visuma. ^fb94ff8bee793867e17ad70e
+3. Lietuvos nacionalinio saugumo sistemą sudaro valstybės ir piliečių veiklos šiam tikslui patvirtintų pagrindinių nuostatų, principų ir būdų, narystės Europos ir transatlantinėje sąjungose priemonių, įstatymų ir kitų teisės aktų, valstybės šiam tikslui įsteigtų institucijų, jų veiklos principų bei tarpusavio sąveikos būdų visuma. ^s-edc7f92762781d10f12f81a8
 
 
 Straipsnio pakeitimai:
@@ -49,7 +54,7 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-### 2 straipsnis. Nacionalinio saugumo užtikrinimo subjektai
+### 2 straipsnis. Nacionalinio saugumo užtikrinimo subjektai ^s-7db5c5a67170e122ee1ad06d
 
 
 Lietuvos nacionalinį saugumą užtikrina Lietuvos Respublikos piliečiai, jų bendrijos ir organizacijos, Respublikos Prezidentas, Seimas, Vyriausybė, kariuomenė, policija, Valstybės saugumo departamentas, kitos šiam tikslui valstybės įsteigtos institucijos, vadovaudamiesi Konstitucija ir įstatymais bei vykdydami savo pareigas ir funkcijas nacionalinio saugumo sistemoje.
@@ -61,13 +66,13 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-### 3 straipsnis. Nacionalinio saugumo sistemos plėtra
+### 3 straipsnis. Nacionalinio saugumo sistemos plėtra ^s-1b0423deaae3cfab892027c4
 
 
-1. Seimas, Respublikos Prezidentas, Vyriausybė ir kitos valstybės institucijos plėtoja Lietuvos nacionalinio saugumo sistemą vadovaudamiesi šio įstatymo nustatytais Nacionalinio saugumo pagrindais. ^a99b55ab3e494c3f457be0fe
+1. Seimas, Respublikos Prezidentas, Vyriausybė ir kitos valstybės institucijos plėtoja Lietuvos nacionalinio saugumo sistemą vadovaudamiesi šio įstatymo nustatytais Nacionalinio saugumo pagrindais. ^s-8605f25bcd00ef37cca2857e
 
 
-2. Vadovaudamasi šio įstatymo nustatytais Nacionalinio saugumo pagrindais, Vyriausybė Valstybės gynimo tarybos pritarimu teikia Seimui tvirtinti Nacionalinio saugumo strategiją – svarbiausių saugios valstybės raidą apibrėžiančių nuostatų visumą. Nacionalinio saugumo strategijoje nustatomi esminiai nacionalinio saugumo interesai, pagrindiniai rizikos veiksniai, pavojai ir grėsmės šiems interesams, valstybės nacionalinio saugumo sistemos plėtros, užsienio, gynybos ir vidaus politikos prioritetai, ilgojo laikotarpio valstybės saugumo užtikrinimo uždaviniai. Valstybės gynimo taryba svarsto, kaip įgyvendinama Nacionalinio saugumo strategija, ir teikia rekomendacijas dėl jos keitimo. Nacionalinio saugumo strategija gali būti pagal poreikį atnaujinama ir tikslinama atsižvelgiant į saugumo padėties pokyčius, tačiau ne rečiau kaip kas 5 metus. ^8fd4d97063a9e623abc4db1f
+2. Vadovaudamasi šio įstatymo nustatytais Nacionalinio saugumo pagrindais, Vyriausybė Valstybės gynimo tarybos pritarimu teikia Seimui tvirtinti Nacionalinio saugumo strategiją – svarbiausių saugios valstybės raidą apibrėžiančių nuostatų visumą. Nacionalinio saugumo strategijoje nustatomi esminiai nacionalinio saugumo interesai, pagrindiniai rizikos veiksniai, pavojai ir grėsmės šiems interesams, valstybės nacionalinio saugumo sistemos plėtros, užsienio, gynybos ir vidaus politikos prioritetai, ilgojo laikotarpio valstybės saugumo užtikrinimo uždaviniai. Valstybės gynimo taryba svarsto, kaip įgyvendinama Nacionalinio saugumo strategija, ir teikia rekomendacijas dėl jos keitimo. Nacionalinio saugumo strategija gali būti pagal poreikį atnaujinama ir tikslinama atsižvelgiant į saugumo padėties pokyčius, tačiau ne rečiau kaip kas 5 metus. ^s-99e40f636571efe1042a02ce
 Straipsnio dalies pakeitimai:
 Nr. XIV-839, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27731
 
@@ -79,19 +84,19 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-### 4 straipsnis. Nacionalinio saugumo sistemos plėtros teisinis reglamentavimas
+### 4 straipsnis. Nacionalinio saugumo sistemos plėtros teisinis reglamentavimas ^s-39bad57ed31fa7b0685d93bf
 
 
-1. Lietuvos nacionalinio saugumo sistemą reglamentuoja įstatymai ir kiti teisės aktai. ^e03a4d8b101b84544d3ad002
+1. Lietuvos nacionalinio saugumo sistemą reglamentuoja įstatymai ir kiti teisės aktai. ^s-3d1c75d7e480d7af2e70e3bd
 
 
-2. Seimas priima nacionalinio saugumo sistemos plėtrai reikalingus įstatymus. ^38c54366dad1d973a64662b1
+2. Seimas priima nacionalinio saugumo sistemos plėtrai reikalingus įstatymus. ^s-722d79253f7389fc86d262e9
 
 
-3. Vyriausybė, rengdama naujų ir galiojančių įstatymų pakeitimo projektus, jų nuostatas suderina su Nacionalinio saugumo pagrindų įstatymo ir Nacionalinio saugumo strategijos nuostatomis. ^4412b6a8db2b52c72e979321
+3. Vyriausybė, rengdama naujų ir galiojančių įstatymų pakeitimo projektus, jų nuostatas suderina su Nacionalinio saugumo pagrindų įstatymo ir Nacionalinio saugumo strategijos nuostatomis. ^s-7c453fe0b6697655739e8b31
 
 
-4. Vyriausybės ir kitų valstybės institucijų leidžiami teisės aktai turi atitikti Nacionalinio saugumo pagrindų įstatymo ir Nacionalinio saugumo strategijos nuostatas. ^df9d97e3a6e30951784e2d45
+4. Vyriausybės ir kitų valstybės institucijų leidžiami teisės aktai turi atitikti Nacionalinio saugumo pagrindų įstatymo ir Nacionalinio saugumo strategijos nuostatas. ^s-76aa4e85dc61f2d0ee723516
 
 
 Straipsnio pakeitimai:
@@ -100,19 +105,19 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-### 5 straipsnis. Nacionalinio saugumo strategijos įgyvendinimas
+### 5 straipsnis. Nacionalinio saugumo strategijos įgyvendinimas ^s-94157139e25325d253d15e3d
 
 
-1. Nacionalinio saugumo strategijai įgyvendinti rengiamos ilgalaikės valstybinės saugumo stiprinimo programos ir kiti Vyriausybės teikiami ir Seimo tvirtinami planavimo dokumentai. Įslaptintas ilgalaikes valstybines saugumo stiprinimo programas ar ilgalaikių valstybinių saugumo stiprinimo programų įslaptintas dalis, gavusi Seimo Nacionalinio saugumo ir gynybos komiteto pritarimą, tvirtina Vyriausybė. ^9bea48a83650cafb9c050299
+1. Nacionalinio saugumo strategijai įgyvendinti rengiamos ilgalaikės valstybinės saugumo stiprinimo programos ir kiti Vyriausybės teikiami ir Seimo tvirtinami planavimo dokumentai. Įslaptintas ilgalaikes valstybines saugumo stiprinimo programas ar ilgalaikių valstybinių saugumo stiprinimo programų įslaptintas dalis, gavusi Seimo Nacionalinio saugumo ir gynybos komiteto pritarimą, tvirtina Vyriausybė. ^s-8795a230330fa0a34de97137
 
 
-2. Vyriausybė, vadovaudamasi Lietuvos nacionalinio saugumo užtikrinimo pagrindais ir suderinusi su Respublikos Prezidentu, pateikia Seimui ilgalaikių valstybinių saugumo stiprinimo programų rengimo plano projektą. Šiame projekte nurodomos siūlomos parengti programos, jų parengimo terminai, įgyvendinimo laikotarpis, programas rengiančios ir už programų įgyvendinimą atsakingos institucijos. Planą tvirtina Seimas nutarimu. ^19f383eb4c247af6fa798100
+2. Vyriausybė, vadovaudamasi Lietuvos nacionalinio saugumo užtikrinimo pagrindais ir suderinusi su Respublikos Prezidentu, pateikia Seimui ilgalaikių valstybinių saugumo stiprinimo programų rengimo plano projektą. Šiame projekte nurodomos siūlomos parengti programos, jų parengimo terminai, įgyvendinimo laikotarpis, programas rengiančios ir už programų įgyvendinimą atsakingos institucijos. Planą tvirtina Seimas nutarimu. ^s-c88706d0f35a6306374429e7
 
 
-3. Ilgalaikės valstybinės saugumo stiprinimo programos įgyvendinamos Lietuvos Respublikos strateginio valdymo įstatymo nustatyta tvarka. Programų įgyvendinimą koordinuoja Vyriausybė. ^91c180d5f936c84033c9f92d
+3. Ilgalaikės valstybinės saugumo stiprinimo programos įgyvendinamos [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatymo]] nustatyta tvarka. Programų įgyvendinimą koordinuoja Vyriausybė. ^s-11c8f8d48b006e6fa59a91b0
 
 
-4. Vyriausybė, pateikdama ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia informaciją apie kiekvienai programai įgyvendinti reikalingas lėšas. Vyriausybė lėšas programoms įgyvendinti numato rengdama Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą. Programoms įgyvendinti taip pat gali būti naudojamos ir kitos teisėtai gautos lėšos. ^0853e3aebdad4210a059ba26
+4. Vyriausybė, pateikdama ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia informaciją apie kiekvienai programai įgyvendinti reikalingas lėšas. Vyriausybė lėšas programoms įgyvendinti numato rengdama Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą. Programoms įgyvendinti taip pat gali būti naudojamos ir kitos teisėtai gautos lėšos. ^s-6822f221afda251710891e96
 Straipsnio dalies pakeitimai:
 Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
 
@@ -127,7 +132,7 @@ Nr. XIII-3118, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15355
 
 
 
-### 6 straipsnis. Vyriausybės ataskaitos apie nacionalinio saugumo plėtrą
+### 6 straipsnis. Vyriausybės ataskaitos apie nacionalinio saugumo plėtrą ^s-9df409a572a9ce87067edb30
 
 
 Vyriausybė atsiskaito už nacionalinio saugumo sistemos būklę ir plėtrą įstatymo nustatyta tvarka pateikdama Seimui savo veiklos metinę ataskaitą, kurios sudedamoji dalis yra ataskaita apie nacionalinio saugumo būklę ir plėtrą.
@@ -196,7 +201,7 @@ PAGRINDINIAI NACIONALINIO SAUGUMO SISTEMOS ELEMENTAI
 
 
 
-### PirmasIS skirsnis
+### PirmasIS skirsnis ^s-87ec6991b115fa5a99d4b401
 NACIONALINIO SAUGUMO OBJEKTAI
 
 Pagrindiniai nacionalinio saugumo objektai yra:
@@ -212,7 +217,7 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-### AntrasIS skirsnis
+### AntrasIS skirsnis ^s-f5f8f1d36f1c08a60229b484
 NACIONALINIO SAUGUMO UŽTIKRINIMO SUBJEKTAI
 
 Nacionalinio saugumo užtikrinimo subjektai yra:
@@ -221,7 +226,7 @@ Nacionalinio saugumo užtikrinimo subjektai yra:
 
 
 
-### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS ^s-f7659869cfd74d95f18ac875
 NACIONALINIO SAUGUMO UŽTIKRINIMO BŪDAI
 Nacionalinį saugumą užtikrina:
 a) VALSTYBĖ:
@@ -251,8 +256,8 @@ TEISINIAI NACIONALINIO SAUGUMO PAGRINDAI
 
 Lietuvos nacionalinio saugumo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis bei kiti įstatymai ir tarptautinės sutartys.
 Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saugumo klausimus, yra:
-– Konstitucijos [[#1 straipsnis. Įstatymo paskirtis|1 straipsnis]], skelbiantis, kad Lietuvos valstybė yra nepriklausoma demokratinė respublika;
-– Konstitucijos [[#3 straipsnis. Nacionalinio saugumo sistemos plėtra|3 straipsnis]], skelbiantis, kad niekas negali varžyti ar riboti Tautos suvereniteto, savintis visai Tautai priklausančių teisių;
+– Konstitucijos [[#^s-dac56f47ce5cfba61db23a26|1 straipsnis]], skelbiantis, kad Lietuvos valstybė yra nepriklausoma demokratinė respublika;
+– Konstitucijos [[#^s-1b0423deaae3cfab892027c4|3 straipsnis]], skelbiantis, kad niekas negali varžyti ar riboti Tautos suvereniteto, savintis visai Tautai priklausančių teisių;
 – Konstitucijos 8 straipsnis, nustatantis, kad valstybės valdžios ar jos institucijos užgrobimas smurtu laikomi antikonstituciniais veiksmais;
 – Konstitucijos 94 straipsnis, įpareigojantis Vyriausybę saugoti Lietuvos Respublikos teritorijos neliečiamybę, garantuoti valstybės saugumą ir viešąją tvarką;
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką įgyvendinant užsienio politiką vadovautis visuotinai pripažintais tarptautinės teisės principais ir normomis, siekti užtikrinti šalies saugumą ir nepriklausomybę, piliečių gerovę ir pagrindines jų teises bei laisves, prisidėti prie teise ir teisingumu pagrįstos tarptautinės tvarkos kūrimo;
@@ -374,7 +379,7 @@ TEISINIAI LIETUVOS GYNYBOS PAGRINDAI
 
 Lietuvos suvereniteto, teritorijos vientisumo ir konstitucinės santvarkos gynimas bei gynybos institucijų veikla grindžiama Konstitucija, reguliuojama įstatymų ir kitų Lietuvos teisės aktų, taip pat tarptautinių teisės aktų, kuriuos Lietuva yra ratifikavusi arba prie kurių prisijungusi. Lietuva numato pasinaudoti ir kitais tarptautinės teisės aktais, kurių principus ir normas ji gerbia.
 Konstitucijos kertinės normos, tiesiogiai reglamentuojančios valstybės gynybos klausimus, yra:
-- Konstitucijos [[#3 straipsnis. Nacionalinio saugumo sistemos plėtra|3 straipsnio]] antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką;
+- Konstitucijos [[#^s-1b0423deaae3cfab892027c4|3 straipsnio]] antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką;
 – Konstitucijos 139 straipsnis, skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių privalomąją karo tarnybą ir alternatyviąją krašto apsaugos tarnybą.
 Skyriaus pakeitimai:
 Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
@@ -386,7 +391,7 @@ SVARBIAUSIOS LIETUVOS GYNYBOS POLITIKOS NUOSTATOS
 
 
 
-### PirmasIS skirsnis
+### PirmasIS skirsnis ^s-1ab74f1904eba065ea249cff
 VISUOTINĖS IR BESĄLYGINĖS GYNYBOS PRINCIPAS
 
 Lietuvos gynimas yra visuotinis ir besąlyginis, taip pat derinamas su NATO kolektyvinės gynybos principų įgyvendinimu.
@@ -397,7 +402,7 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 
 
-### Antrasis skirsnis
+### Antrasis skirsnis ^s-3b1b5edb10fcb672484e4e61
 BENDROSIOS LIETUVOS GYNYBOS NUOSTATOS
 
 Lietuvos gynybinė galia grindžiama:
@@ -410,7 +415,7 @@ Lietuvos gynybinė galia grindžiama:
 – valstybės atsargomis ir kitais mobilizacinio rezervo ištekliais.
 – šalies mokslo ir studijų institucijų bei įmonių potencialo panaudojimu.
 Lietuvos kariuomenė ir kitos krašto apsaugos institucijos kuriamos ir rengiamos Lietuvos valstybės gynybai ir sąveikai su NATO pajėgomis.
-Valstybės ginkluotąsias pajėgas taikos metu sudaro kariuomenė ir jos aktyvusis kariuomenės personalo rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotąsias pajėgas taip pat sudaro: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba, Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos (toliau – Antrasis operatyvinių tarnybų departamentas), Lietuvos šaulių sąjungos koviniai būriai, komendantiniai Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetai ir kariniams vienetams priskirti Lietuvos šaulių sąjungos specializuoti vienetai, taip pat Lietuvos Respublikos karo padėties įstatymo nustatyta tvarka ginkluotosioms pajėgoms priskirti koviniai asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetai ir partizanų vienetai, veikiantys okupuotoje Lietuvos valstybės teritorijoje.
+Valstybės ginkluotąsias pajėgas taikos metu sudaro kariuomenė ir jos aktyvusis kariuomenės personalo rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotąsias pajėgas taip pat sudaro: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba, Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos (toliau – Antrasis operatyvinių tarnybų departamentas), Lietuvos šaulių sąjungos koviniai būriai, komendantiniai Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetai ir kariniams vienetams priskirti Lietuvos šaulių sąjungos specializuoti vienetai, taip pat [[latest/TAR.C70309CDEB7B|Lietuvos Respublikos karo padėties įstatymo]] nustatyta tvarka ginkluotosioms pajėgoms priskirti koviniai asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetai ir partizanų vienetai, veikiantys okupuotoje Lietuvos valstybės teritorijoje.
 Lietuvos gynybos sistemos pagrindas – visuotinės ir besąlyginės gynybos principas, įgyvendinamas atsižvelgiant į NATO kolektyvinės gynybos principą. Šis principas įtvirtinamas įstatymuose, kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės bei jos aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose. Šiuo principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei pasipriešinimui.
 Visuotiniu piliečių pasirengimu pasipriešinimui ir ginkluotųjų pajėgų pasirengimu besąlygiškai gynybai nuo agresijos, įgyvendinamai individualiai ir kartu su NATO sąjungininkų pajėgomis, Lietuva siekia atgrasinti kiekvieną potencialų užpuoliką.
 Lietuva priešinsis agresoriui visomis jai prieinamomis priemonėmis: karine gynyba ir partizaniniais veiksmais, civilių piliečių nepaklusnumu, nekolaboravimu bei kitais būdais.
@@ -437,7 +442,7 @@ Nr. XV-943, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08549
 
 
 
-### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS ^s-ce4ec8c43452df4d1358747b
 KARINĖ GYNYBA
 
 Karinei valstybės gynybai naudojamos visos ginkluotosios pajėgos. Jos privalo būti parengtos greitam reagavimui, gerai tarpusavio sąveikai ir greitam pergrupavimui, taip pat sąveikai su NATO sąjungininkų pajėgomis. Valstybės sienos apsaugos tarnyba, Viešojo saugumo tarnyba, Vadovybės apsaugos tarnyba, Antrasis operatyvinių tarnybų departamentas ginkluotos gynybos veiksmams rengiami pagal kariuomenės vado nustatytus reikalavimus. Ypatinga reikšmė teikiama žvalgybai, informacijos analizei ir veiksmingam operatyviam vadovavimui ginkluotosioms pajėgoms.
@@ -453,7 +458,7 @@ Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
 
 
 
-### KetvirtasIS skirsnis
+### KetvirtasIS skirsnis ^s-bbd29679e1c68b6fc131af38
 PILIETINIS PASIPRIEŠINIMAS
 
 Pilietinio pasipriešinimo jėgą lemia Tautos valia ir apsisprendimas kovoti už savo laisvę, kiekvieno piliečio, nesvarbu, koks jo amžius ir profesija, pasiryžimas visais įmanomais būdais priešintis užpuolikui ar okupantui, prisidėti prie Lietuvos gynybos.
@@ -502,7 +507,7 @@ RIZIKOS VEIKSNIAI IR PAVOJAI LIETUVOS SAUGUMUI
 
 Rizikos veiksniai ir pavojai Lietuvos saugumui yra apibrėžiami Seimo nutarimu tvirtinamoje Nacionalinio saugumo strategijoje.
 Valstybės ir savivaldybių institucijų priimami sprendimai turi būti analizuojami, kaip jie prisidės prie rizikos veiksnių, pavojų silpninimo ir grėsmių nacionaliniam saugumui mažinimo.
-Išorės aplinkos pokyčius ir jų įtaką užsienio, saugumo ir gynybos politikai analizuoja ir pasiūlymus dėl regioninį ir transatlantinį saugumą stiprinančių priemonių nacionalinį saugumą užtikrinančioms institucijoms teikia, taip pat savo vertinimus užsienio, saugumo ir gynybos klausimais viešai skelbia strateginių tyrimų ir analizės centras – viešoji įstaiga, kurios savininkė ar dalininkė, turinti ne mažiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė. Šio centro funkcijoms atlikti skiriamos valstybės biudžeto lėšos, o veiklai vykdyti reikalingas valstybei nuosavybės teise priklausantis ilgalaikis materialusis turtas Vyriausybės nustatyta tvarka jam gali būti perduodamas valdyti, naudoti ir juo disponuoti patikėjimo teise. Sprendimą dėl šio valstybės turto perdavimo strateginių tyrimų ir analizės centrui patikėjimo teise priima Vyriausybė. Strateginių tyrimų ir analizės centras turi teisę priimti sprendimus, susijusius su jam perduoto valstybės ilgalaikio nekilnojamojo turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių suvaržymu. Strateginių tyrimų ir analizės centras jam perduotą valstybės ilgalaikį materialųjį turtą valdo, naudoja ir juo disponuoja Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytomis sąlygomis ir tvarka.
+Išorės aplinkos pokyčius ir jų įtaką užsienio, saugumo ir gynybos politikai analizuoja ir pasiūlymus dėl regioninį ir transatlantinį saugumą stiprinančių priemonių nacionalinį saugumą užtikrinančioms institucijoms teikia, taip pat savo vertinimus užsienio, saugumo ir gynybos klausimais viešai skelbia strateginių tyrimų ir analizės centras – viešoji įstaiga, kurios savininkė ar dalininkė, turinti ne mažiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė. Šio centro funkcijoms atlikti skiriamos valstybės biudžeto lėšos, o veiklai vykdyti reikalingas valstybei nuosavybės teise priklausantis ilgalaikis materialusis turtas Vyriausybės nustatyta tvarka jam gali būti perduodamas valdyti, naudoti ir juo disponuoti patikėjimo teise. Sprendimą dėl šio valstybės turto perdavimo strateginių tyrimų ir analizės centrui patikėjimo teise priima Vyriausybė. Strateginių tyrimų ir analizės centras turi teisę priimti sprendimus, susijusius su jam perduoto valstybės ilgalaikio nekilnojamojo turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių suvaržymu. Strateginių tyrimų ir analizės centras jam perduotą valstybės ilgalaikį materialųjį turtą valdo, naudoja ir juo disponuoja [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]] nustatytomis sąlygomis ir tvarka.
 Valstybės gynimo taryba formuoja žvalgybinės informacijos poreikį.
 Skyriaus pakeitimai:
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
@@ -517,7 +522,7 @@ SVARBIAUSIOS NACIONALINIO SAUGUMO UŽTIKRINIMO PRIEMONĖS
 
 
 
-### PirmasIS skirsnis
+### PirmasIS skirsnis ^s-ae62c4324c477c2ca38cf759
 NACIONALINIO SAUGUMO UŽTIKRINIMO PRIEMONIŲ VISUMA
 
 Be šių pagrindų pirmojoje dalyje apibrėžtos užsienio, vidaus ir gynybos politikos, kitos nacionalinio saugumo užtikrinimo priemonės yra:
@@ -531,7 +536,7 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 
 
-### AntrasIS skirsnis
+### AntrasIS skirsnis ^s-1397cf1a3699038a0d2958f3
 DALYVAVIMAS TARPTAUTINĖSE ORGANIZACIJOSE
 
 Lietuvos saugumas yra Europos ir transatlantinio saugumo dalis. Lietuva pasirengusi dalyvauti stiprinant tarptautinį saugumą ir prisiimti savąją dalį įsipareigojimų. Lietuva dalyvauja Jungtinių Tautų (JT/UN), Europos saugumo ir bendradarbiavimo organizacijos (ESBO/OSCE), Euroatlanto partnerystės tarybos (EAPT/EAPC), NATO Parlamentinės Asamblėjos (NATO PA), Europos Tarybos (ET/CE) ir kitų tarptautinių institucijų bei organizacijų, kurių paskirtis – užtikrinti taiką, stiprinti saugumą ir stabilumą Europoje bei transatlantinėje erdvėje, veikloje, taip pat dalyvauja tarptautinėse humanitarinėse, reagavimo į krizes bei taikos palaikymo misijose ir kitose akcijose.
@@ -540,7 +545,7 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 
 
-### TrečiasIS skirsnis
+### TrečiasIS skirsnis ^s-d9cc73c0d2404a7f70ffebfd
 NARYSTĖ EUROPOS SĄJUNGOJE IR ŠIAURĖS ATLANTO SUTARTIES ORGANIZACIJOJE
 
 Lietuvos narystė Europos Sąjungoje ir Šiaurės Atlanto sutarties organizacijoje remiasi idealų ir vertybių bendrumu.
@@ -566,14 +571,14 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 
 
-### KETVIRTASIS skirsnis
+### KETVIRTASIS skirsnis ^s-706489b34ac7dd26a6e6d5a1
 (Neteko galios nuo 2003 m. gegužės 1 d.)
 Skirsnio pakeitimai:
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 
 
-### PENKTASIS skirsnis
+### PENKTASIS skirsnis ^s-37608e5aad37d13a8f270b40
 (Neteko galios nuo 2003 m. gegužės 1 d.)
 Skirsnio pakeitimai:
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
@@ -635,7 +640,7 @@ VYRIAUSYBĖS VEIKLA NACIONALINIAM SAUGUMUI UŽTIKRINTI
 
 
 
-### PirmasIS skirsnis
+### PirmasIS skirsnis ^s-449dcd653056ec1a0bf3f314
 PAGRINDINIAI VYRIAUSYBĖS UŽDAVINIAI
 
 Vyriausybė saugo Lietuvos Respublikos teritorijos neliečiamybę, garantuoja valstybės saugumą ir viešąją tvarką. Vyriausybė koordinuoja nacionalinį saugumą stiprinančių priemonių įgyvendinimą bei ministerijų ir kitų valstybės įstaigų, atliekančių šias funkcijas, veiklą, sutelkia šias įstaigas aktualiems ir svarbiems nacionalinio saugumo uždaviniams spręsti.
@@ -649,7 +654,7 @@ Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-d1f6f809a88873f2730bce0f
 KRIZIŲ valdymo ir civilinės saugos sistema
 
 Krizių valdymo ir civilinės saugos sistema kuriama ir plėtojama grėsmę Lietuvos Respublikos nacionaliniam saugumui keliantiems reiškiniams prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti, siekiant apsaugoti gyventojus nuo nelaimių karo ir taikos metu, jiems patiems šioje veikloje aktyviai dalyvaujant. Ši sistema užtikrina visų valstybės ir savivaldybių institucijų ir įstaigų, ūkio subjektų, savanorių parengtį ir prevencinius veiksmus, o ekstremaliųjų situacijų, kitų krizių ir ginkluoto užpuolimo atvejais – krašto gyventojų perspėjimą ir informavimą, jų gyvybės ir turto apsaugą, reikalingą neatidėliotiną pagalbą ir evakuaciją iš pavojingų rajonų.
@@ -670,7 +675,7 @@ SEIMO VEIKLA UŽTIKRINANT NACIONALINĮ SAUGUMĄ
 
 
 
-### PirmasIS skirsnis
+### PirmasIS skirsnis ^s-1aae8b671b1c53a7e65b5647
 ĮSTATYMŲ LEIDYBA
 
 Seimas rūpinasi, kad būtų laiku priimti nacionaliniam saugumui užtikrinti būtini įstatymai, kiti teisės aktai, galiojančių įstatymų papildymai ir pakeitimai.
@@ -690,7 +695,7 @@ Nr. XV-341, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12001
 
 
 
-### AntrasIS skirsnis
+### AntrasIS skirsnis ^s-5c397e9c6cb8639816b74058
 SPRENDIMAI DĖL VALSTYBĖS GYNYBOS
 
 Seimas skelbia nepaprastąją padėtį, įveda karo padėtį, skelbia mobilizaciją ar demobilizaciją, priima sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba vykdyti tarptautinius Lietuvos įsipareigojimus.
@@ -700,7 +705,7 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 
 
-### TrečiasIS skirsnis
+### TrečiasIS skirsnis ^s-0478329cb645aeaca36557fe
 PARLAMENTINĖ PRIEŽIŪRA
 
 Seimas vykdo Vyriausybės bei kitų nacionalinį saugumą užtikrinančių vykdomųjų institucijų veiklos, nacionalinio saugumo sistemą reglamentuojančių įstatymų bei ilgalaikių valstybinių saugumo stiprinimo programų vykdymo parlamentinę kontrolę.
@@ -886,47 +891,47 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-770, 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
-LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 5, [[#6 straipsnis. Vyriausybės ataskaitos apie nacionalinio saugumo plėtrą|6 STRAIPSNIŲ]] IR PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+[[latest/TAR.6004A90751D2|LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 5, 6 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO ĮSTATYMAS]]
 
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1026, 1999 01 14, Žin., 1999, Nr. 11-245 (1999 01 27)
-LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO ĮSTATYMAS
+[[latest/TAR.8D4EE979B475|LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO ĮSTATYMAS]]
 
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1778, 2000 06 29, Žin., 2000, Nr. 58-1710 (2000 07 19)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 SKYRIAUS ANTROJO SKIRSNIO PAKEITIMO ĮSTATYMAS
+[[latest/TAR.BDC4B579ACEC|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 SKYRIAUS ANTROJO SKIRSNIO PAKEITIMO ĮSTATYMAS]]
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 12, 15, 18, 19 SKYRIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.2D73CC0D50DD|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 12, 15, 18, 19 SKYRIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1360, 2003-03-13, Žin., 2003, Nr. 32-1309 (2003-04-02)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
+[[latest/TAR.2BCA2EC9B162|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS]]
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1457, 2003-04-03, Žin., 2003, Nr. 38-1702 (2003-04-24)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 18 IR 19 SKYRIŲ PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
+[[latest/TAR.F27DF31046B6|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 18 IR 19 SKYRIŲ PAKEITIMO ĮSTATYMAS]]
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 2, 3, [[#4 straipsnis. Nacionalinio saugumo sistemos plėtros teisinis reglamentavimas|4 STRAIPSNIŲ]] IR PRIEDĖLIO 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25 SKYRIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
+[[latest/TAR.B6DEB099CF05|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 2, 3, 4 STRAIPSNIŲ IR PRIEDĖLIO 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25 SKYRIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS]]
 Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 49 (2003-05-21)
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 1, 2, 3, 4, 5, [[#6 straipsnis. Vyriausybės ataskaitos apie nacionalinio saugumo plėtrą|6 STRAIPSNIŲ]] BEI PRIEDĖLIO PREAMBULĖS IR 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 SKYRIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.532A15EA12B5|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 1, 2, 3, 4, 5, 6 STRAIPSNIŲ BEI PRIEDĖLIO PREAMBULĖS IR 1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21, 23 SKYRIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -941,60 +946,60 @@ NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 18 SKYRIAUS PAKEITIMO ĮSTAT
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-814, 2006-09-19, Žin., 2006, Nr. 102-3936 (2006-09-26)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO IR VIDAUS TARNYBOS STATUTO PAKEITIMO ĮSTATYMAS
+[[latest/TAR.9AC839EBCD86|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO IR VIDAUS TARNYBOS STATUTO PAKEITIMO ĮSTATYMAS]]
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-852, 2006-10-12, Žin., 2006, Nr. 116-4398 (2006-10-31)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7 SKYRIAUS PAPILDYMO ĮSTATYMAS
+[[latest/TAR.B97267E30A2F|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7 SKYRIAUS PAPILDYMO ĮSTATYMAS]]
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1466, 2008-03-20, Žin., 2008, Nr. 38-1378 (2008-04-03)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 13 IR 18 SKYRIŲ PAKEITIMO ĮSTATYMAS
+[[latest/TAR.67636897F38A|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 13 IR 18 SKYRIŲ PAKEITIMO ĮSTATYMAS]]
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1598, 2008-06-12, Žin., 2008, Nr. 73-2797 (2008-06-27)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 4 SKYRIAUS PAPILDYMO ĮSTATYMAS
+[[latest/TAR.95BF57B68217|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 4 SKYRIAUS PAPILDYMO ĮSTATYMAS]]
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-125, 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 SKYRIAUS PAKEITIMO ĮSTATYMAS
+[[latest/TAR.5B1D0ACD2C8F|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 SKYRIAUS PAKEITIMO ĮSTATYMAS]]
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 18 IR 24 SKYRIŲ PAKEITIMO ĮSTATYMAS
-Šio įstatymo 1 ir [[#3 straipsnis. Nacionalinio saugumo sistemos plėtra|3 straipsniai]] įsigalioja 2010 m. sausio 1 d.
+[[latest/TAR.26F89FA8693F|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 18 IR 24 SKYRIŲ PAKEITIMO ĮSTATYMAS]]
+Šio įstatymo 1 ir [[#^s-1b0423deaae3cfab892027c4|3 straipsniai]] įsigalioja 2010 m. sausio 1 d.
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 IR 18 SKYRIŲ PAKEITIMO ĮSTATYMAS
+[[latest/TAR.13433551DC4A|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 IR 18 SKYRIŲ PAKEITIMO ĮSTATYMAS]]
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1304, 2011-03-31, Žin., 2011, Nr. 46-2156 (2011-04-16)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 19 SKYRIAUS PAKEITIMO ĮSTATYMAS
+[[latest/TAR.D1034FE099E5|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 19 SKYRIAUS PAKEITIMO ĮSTATYMAS]]
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1515, 2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 15 SKYRIAUS PAKEITIMO ĮSTATYMAS
+[[latest/TAR.AF0CB93BAADD|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 15 SKYRIAUS PAKEITIMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2400, 2012-11-08, Žin., 2012, Nr. 135-6874 (2012-11-22)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO [[#5 straipsnis. Nacionalinio saugumo strategijos įgyvendinimas|5 STRAIPSNIO]] PAKEITIMO IR PRIEDĖLIO 11 SKYRIAUS PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-Šis įstatymas, išskyrus [[#3 straipsnis. Nacionalinio saugumo sistemos plėtra|3 straipsnį]], įsigalioja 2013 m. liepos 1 d.
+[[latest/TAR.963D43429E98|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PRIEDĖLIO 11 SKYRIAUS PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
+Šis įstatymas, išskyrus [[#^s-1b0423deaae3cfab892027c4|3 straipsnį]], įsigalioja 2013 m. liepos 1 d.
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-161, 2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO III DALIES 14 SKYRIAUS ANTROJO SKIRSNIO PAKEITIMO ĮSTATYMAS
+[[latest/TAR.4AD93DDDD51A|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO III DALIES 14 SKYRIAUS ANTROJO SKIRSNIO PAKEITIMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.
 
 
@@ -1062,7 +1067,7 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3118, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15355
-Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 [[#5 straipsnis. Nacionalinio saugumo strategijos įgyvendinimas|5 straipsnio]] ir priedėlio pakeitimo įstatymas
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 [[#^s-94157139e25325d253d15e3d|5 straipsnio]] ir priedėlio pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1077,7 +1082,7 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-839, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27731
-Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 [[#3 straipsnis. Nacionalinio saugumo sistemos plėtra|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 [[#^s-1b0423deaae3cfab892027c4|3 straipsnio]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1107,7 +1112,7 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
-Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 [[#5 straipsnis. Nacionalinio saugumo strategijos įgyvendinimas|5 straipsnio]] ir priedėlio pakeitimo įstatymas
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 [[#^s-94157139e25325d253d15e3d|5 straipsnio]] ir priedėlio pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas

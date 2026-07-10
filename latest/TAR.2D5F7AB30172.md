@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2D5F7AB30172"
 pavadinimas: "Lietuvos Respublikos pensijų sistemos reformos įstatymo, Papildomo savanoriško pensijų kaupimo įstatymo, Pensijų kaupimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pensijų sistemos reformos įstatymo, Papildomo savanoriško pensijų kaupimo įstatymo, Pensijų kaupimo įstatymo pakeitimo įstatymas"
+  - "pensijų sistemos reformos įstatymo, Papildomo savanoriško pensijų kaupimo įstatymo, Pensijų kaupimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.2D5F7AB30172.md"
 latest_sha256: "d1ebd182768659e0d07a478932da18e1681d971f090aedc0a10593f675853138"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2D5F7AB30172]]"
 ---
 # Lietuvos Respublikos pensijų sistemos reformos įstatymo, Papildomo savanoriško pensijų kaupimo įstatymo, Pensijų kaupimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2D5F7AB30172.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2D5F7AB30172
+- Ryšiai: [[Ryšiai/TAR.2D5F7AB30172|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,30 +34,30 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-4ec046006b021eab9a63d352
 PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 123-5511; 2003, Nr. 75-3474)
 
 
 
-### 1 straipsnis. 2 straipsnio 8 ir 13 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 8 ir 13 dalių pakeitimas ^s-b8d7db0d0e380a6826a4528c
 
 
-1. 2 straipsnio 8 dalyje išbraukti žodį „privalomuoju“ ir šią dalį išdėstyti taip: ^f4ed5ad913b6a2131b6ff4b9
+1. 2 straipsnio 8 dalyje išbraukti žodį „privalomuoju“ ir šią dalį išdėstyti taip: ^s-2f8be9b926dd4344f67dc566
 
 
 „8. Pensijų kaupimo sutartis – įstatymų nustatyta tvarka pensijų įmokų kaupimo laikotarpiui sudaryta sutartis tarp asmens, draudžiamo valstybiniu socialiniu draudimu, ir pensijų kaupimo bendrovės dėl pensijų įmokos kaupimo asmens pensijų sąskaitoje, atidarytoje šioje bendrovėje.“
 
 
-2. 2 straipsnio 13 dalyje išbraukti žodį „privalomuoju“ ir šią dalį išdėstyti taip: ^ff1a3ab8a5ab9437f2027511
+2. 2 straipsnio 13 dalyje išbraukti žodį „privalomuoju“ ir šią dalį išdėstyti taip: ^s-57ab5e25776e0c5424b8072d
 
 
 „13. Valstybinio socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas) – valstybės nustatytų priemonių sistema, suteikianti teisę Lietuvos Respublikos gyventojams, draudžiamiems valstybiniu socialiniu draudimu, kaupti pensijų kaupimo bendrovėje šio Įstatymo nustatytą valstybinio socialinio pensijų draudimo įmokos dalį, ją investuojant ar reinvestuojant į diversifikuotą investicijų portfelį, bei įstatymų nustatytomis sąlygomis gauti pensijų išmokas.“
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-9c6c1d2434c62474bc402568
 
 
 7 straipsnio 2 dalyje po žodžio „fondo“ įrašyti žodį „administravimo“ ir šią dalį išdėstyti taip:
@@ -62,14 +67,14 @@ PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMAS
 
 
 
-### ANTRASIS SKIRSNIS
-PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO įstatymo 37 straipsnio pakeitimas
+### ANTRASIS SKIRSNIS ^s-0a01a74c28297d8af451174e
+[[latest/TAR.DDA1BD559D9B#^s-6ee9d73179f84b27afea6ecc|PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO įstatymo 37 straipsnio]] pakeitimas
 
 (Žin., 1999, Nr. 55-1765; 2001, Nr. 25-825; 2003, Nr. 75-3473)
 
 
 
-### 1 straipsnis. 37 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 37 straipsnio 2 dalies pakeitimas ^s-6eaa479b55f00600ce074e98
 
 
 37 straipsnio 2 dalies antrame sakinyje vietoj žodžio „valstybinio“ įrašyti žodį „valstybinę“ ir šią dalį išdėstyti taip:
@@ -79,14 +84,14 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO įstatymo 37 straipsnio pakeitimas
 
 
 
-### TREČIASIS SKIRSNIS
-pensijų kaupimo įstatymo 4 IR 25 straipsnių pakeitimas
+### TREČIASIS SKIRSNIS ^s-49830fff5efb54e1167239d4
+[[latest/TAR.1F58348F79F7#^s-b3d270ebed2c52f30e9fa90e|pensijų kaupimo įstatymo 4 IR 25 straipsnių]] pakeitimas
 
 (Žin., 2003, Nr. 75-3472; 2004, Nr. 96-3521)
 
 
 
-### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas ^s-2f06485af282ba6258e0b137
 
 
 4 straipsnio 5 dalyje po žodžio „valdyba“ įrašyti žodžius „prie Socialinės apsaugos ir darbo ministerijos (toliau – VSDF valdyba)“ ir šią dalį išdėstyti taip:
@@ -96,7 +101,7 @@ pensijų kaupimo įstatymo 4 IR 25 straipsnių pakeitimas
 
 
 
-### 2 straipsnis. Įstatymo 25 straipsnio pavadinimo pakeitimas
+### 2 straipsnis. Įstatymo 25 straipsnio pavadinimo pakeitimas ^s-3531cd69f919880aae5bbdeb
 
 
 25 straipsnio pavadinime vietoj žodžio „Valstybinio“ įrašyti žodį „Valstybinių“ ir šį pavadinimą išdėstyti taip:
@@ -106,12 +111,12 @@ pensijų kaupimo įstatymo 4 IR 25 straipsnių pakeitimas
 
 
 
-### KETVIRTASIS SKIRSNIS
+### KETVIRTASIS SKIRSNIS ^s-8f7db7adea99da4bd04fd29a
 baigiamosios nuostatos
 
 
 
-### 1 straipsnis. Įstatymo įsigaliojimas
+### 1 straipsnis. Įstatymo įsigaliojimas ^s-af7d7c57c8415ec00f79a215
 
 
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.

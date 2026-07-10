@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4CE8CE4F6C2B"
 pavadinimas: "Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-05"
 latest_path: "latest/TAR.4CE8CE4F6C2B.md"
 latest_sha256: "3bf9bea0f0e91266261e0752c2543def8de241ab6b13bd1fa1d9b0eeb9220163"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4CE8CE4F6C2B]]"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4CE8CE4F6C2B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4CE8CE4F6C2B
+- Ryšiai: [[Ryšiai/TAR.4CE8CE4F6C2B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 6 straipsnio 4 punkto pripažinimas netekusiu galios ^s-2bb5ed844ef943a404f9854c
 
 
 6 straipsnio 4 punktą pripažinti netekusiu galios.

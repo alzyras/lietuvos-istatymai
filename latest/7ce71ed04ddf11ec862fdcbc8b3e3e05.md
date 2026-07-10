@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "7ce71ed04ddf11ec862fdcbc8b3e3e05"
 pavadinimas: "Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas"
+  - "valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2023-01-01"
 latest_path: "latest/7ce71ed04ddf11ec862fdcbc8b3e3e05.md"
 latest_sha256: "cde92d8d1749c954c78d4d3e9440b4f82936404be8297bf5430b6478e608f6a8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/7ce71ed04ddf11ec862fdcbc8b3e3e05]]"
 ---
 # Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/7ce71ed04ddf11ec862fdcbc8b3e3e05.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/7ce71ed04ddf11ec862fdcbc8b3e3e05
+- Ryšiai: [[Ryšiai/7ce71ed04ddf11ec862fdcbc8b3e3e05|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,10 +37,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 nauja redakcija ^s-072d7ef47edeac90b9c9a862
 
 
-Pakeisti Lietuvos Respublikos valstybės iždo įstatymą Nr. I-712 ir jį išdėstyti taip:
+Pakeisti Lietuvos Respublikos valstybės iždo [[latest/TAR.55627FB64864|įstatymą Nr. I-712]] ir jį išdėstyti taip:
 
 
 „LIETUVOS RESPUBLIKOS
@@ -44,234 +49,234 @@ VALSTYBĖS IŽDO
 
 
 
-### 1 straipsnis. Įstatymo paskirtis ir taikymas
+### 1 straipsnis. Įstatymo paskirtis ir taikymas ^s-21c9371c338303e36cb3581d
 
 
-1. Šis įstatymas nustato Lietuvos Respublikos valstybės iždo turinį, valstybės ižde esančių sąskaitų tvarkymo, šiose sąskaitose esančių lėšų naudojimo, įmokų į sąskaitas, atidarytas valstybės ižde, mokėjimo ir išmokų iš jų atlikimo tvarką, valstybės iždo paskirtį, valdymą, funkcijas ir jų įgyvendinimą, valstybės pinigų fondų steigimą, Rezervinio (stabilizavimo) fondo paskirtį, valstybės piniginių išteklių laikino naudojimo tvarką. ^b2341217928de357c9f71c6c
+1. Šis įstatymas nustato Lietuvos Respublikos valstybės iždo turinį, valstybės ižde esančių sąskaitų tvarkymo, šiose sąskaitose esančių lėšų naudojimo, įmokų į sąskaitas, atidarytas valstybės ižde, mokėjimo ir išmokų iš jų atlikimo tvarką, valstybės iždo paskirtį, valdymą, funkcijas ir jų įgyvendinimą, valstybės pinigų fondų steigimą, Rezervinio (stabilizavimo) fondo paskirtį, valstybės piniginių išteklių laikino naudojimo tvarką. ^s-37eacf1174a3538f843dd33b
 
 
-2. Šiuo įstatymu privalo vadovautis biudžetinės įstaigos, išskyrus biudžetines įstaigas, kurių savininkė yra savivaldybė, viešosios įstaigos, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė, valstybės įsteigtos ir valstybės valdomos finansų įstaigos, kuriose valstybė turi įstatinio kapitalo ir (ar) balsavimo teisių dalį, suteikiančią teisę kontroliuoti finansų įstaigos veiklą, kiek tai susiję su skatinamųjų finansinių priemonių ir fondų fondų lėšų valdymu, ir subjektai, kaupiantys ir (ar) naudojantys valstybės pinigų fondų lėšas (toliau kartu – įstaigos). ^6b8592727e6ddb7fb0f4db4f
+2. Šiuo įstatymu privalo vadovautis biudžetinės įstaigos, išskyrus biudžetines įstaigas, kurių savininkė yra savivaldybė, viešosios įstaigos, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė, valstybės įsteigtos ir valstybės valdomos finansų įstaigos, kuriose valstybė turi įstatinio kapitalo ir (ar) balsavimo teisių dalį, suteikiančią teisę kontroliuoti finansų įstaigos veiklą, kiek tai susiję su skatinamųjų finansinių priemonių ir fondų fondų lėšų valdymu, ir subjektai, kaupiantys ir (ar) naudojantys valstybės pinigų fondų lėšas (toliau kartu – įstaigos). ^s-97eb5a4274f0f6d3e6bebba4
 
 
-3. Šio įstatymo nuostatos taikomos Valstybinio socialinio draudimo fondo, Socialinio draudimo rezervinio fondo, Privalomojo sveikatos draudimo fondo ir jo rezervo, Garantinio, Ilgalaikio darbo išmokų, Pensijų anuitetų fondų lėšoms, kurios laikomos valstybės ižde atidarytose įstaigų tvarkomose sąskaitose ir (ar), kaip nustatyta šio įstatymo [[#^7c440878f358f156019dbe81|3 straipsnio 4 dalyje]], finansų įstaigose. ^f6d8e1b21a751925c74872f9
+3. Šio įstatymo nuostatos taikomos Valstybinio socialinio draudimo fondo, Socialinio draudimo rezervinio fondo, Privalomojo sveikatos draudimo fondo ir jo rezervo, Garantinio, Ilgalaikio darbo išmokų, Pensijų anuitetų fondų lėšoms, kurios laikomos valstybės ižde atidarytose įstaigų tvarkomose sąskaitose ir (ar), kaip nustatyta šio įstatymo [[#^s-819eb940204970912a487823|3 straipsnio 4 dalyje]], finansų įstaigose. ^s-c7c9786e298e7d52058fa674
 
 
-4. Šio įstatymo nuostatos netaikomos savivaldybėms, iš savivaldybių biudžetų išlaikomoms biudžetinėms įstaigoms ir savivaldybių įsteigtiems pinigų fondams, viešosioms įstaigoms, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra savivaldybė, taip pat valstybinėms aukštosioms mokykloms, tačiau šie subjektai prireikus turi teisę Lietuvos Respublikos finansų ministro nustatyta tvarka atsidaryti valstybės ižde sąskaitas, kurioms būtų taikomos šio įstatymo nuostatos, susijusios su įstaigų tvarkomomis sąskaitomis. ^f7bf90979f774b5a99ecdb6f
+4. Šio įstatymo nuostatos netaikomos savivaldybėms, iš savivaldybių biudžetų išlaikomoms biudžetinėms įstaigoms ir savivaldybių įsteigtiems pinigų fondams, viešosioms įstaigoms, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra savivaldybė, taip pat valstybinėms aukštosioms mokykloms, tačiau šie subjektai prireikus turi teisę Lietuvos Respublikos finansų ministro nustatyta tvarka atsidaryti valstybės ižde sąskaitas, kurioms būtų taikomos šio įstatymo nuostatos, susijusios su įstaigų tvarkomomis sąskaitomis. ^s-771ebdfe52c69e5478a60713
 
 
 
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-a8bb1144cb533877f217eb72
 
 
-1. Įstaigos tvarkoma sąskaita – valstybės ižde įstaigos atidaryta ir tvarkoma sąskaita. ^ff9f6bab577ec2b9ce1e0faf
+1. Įstaigos tvarkoma sąskaita – valstybės ižde įstaigos atidaryta ir tvarkoma sąskaita. ^s-c51ad0d0af867e485bca962d
 
 
-2. Laikinai laisvi valstybės piniginiai ištekliai – valstybės iždo pagrindinėje sąskaitoje esantys valstybės piniginiai ištekliai, kurie laikinai nenaudojami valstybės biudžete patvirtintiems asignavimams finansuoti, valstybės pinigų fondų veiklai, taip pat visiems įgyvendinant  Lietuvos Respublikos valstybės skolos įstatymą ir kitus įstatymus atsirandantiems valstybės turtiniams įsipareigojimams vykdyti. ^08f13c85588f8e0ffba13841
+2. Laikinai laisvi valstybės piniginiai ištekliai – valstybės iždo pagrindinėje sąskaitoje esantys valstybės piniginiai ištekliai, kurie laikinai nenaudojami valstybės biudžete patvirtintiems asignavimams finansuoti, valstybės pinigų fondų veiklai, taip pat visiems įgyvendinant  Lietuvos Respublikos valstybės skolos įstatymą ir kitus įstatymus atsirandantiems valstybės turtiniams įsipareigojimams vykdyti. ^s-e3fc9b4f2e8b68c16fb3fe37
 
 
-3. Valstybės iždas – Lietuvos Respublikos finansų ministerijos valdoma sistema, kuri apima organizacines ir technines priemones, leidžiančias įgyvendinti šio įstatymo [[#7 straipsnis. Valstybės iždo funkcijos|7 straipsnyje]] nurodytas funkcijas. ^c4092278940b76b5c7a28227
+3. Valstybės iždas – Lietuvos Respublikos finansų ministerijos valdoma sistema, kuri apima organizacines ir technines priemones, leidžiančias įgyvendinti šio įstatymo [[#^s-494b88a44145dc972cbe39e9|7 straipsnyje]] nurodytas funkcijas. ^s-ea06d808e57d61cc04642645
 
 
-4. Valstybės iždo pagrindinė sąskaita – valstybės ižde atidarytų sąskaitų, kurios naudojamos valstybės biudžete patvirtintiems asignavimams finansuoti, valstybės pinigų fondų veiklai, taip pat visiems su Valstybės skolos įstatymo ir kitų įstatymų įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti, ir mokėjimo sistemose, centriniame banke ir finansų įstaigose atidarytų sąskaitų, kurios naudojamos valstybės iždo mokėjimo operacijoms atlikti, visuma. ^50d2e1ca874db4b21dde8f65
+4. Valstybės iždo pagrindinė sąskaita – valstybės ižde atidarytų sąskaitų, kurios naudojamos valstybės biudžete patvirtintiems asignavimams finansuoti, valstybės pinigų fondų veiklai, taip pat visiems su [[latest/TAR.5C23DECF6210|Valstybės skolos įstatymo]] ir kitų įstatymų įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti, ir mokėjimo sistemose, centriniame banke ir finansų įstaigose atidarytų sąskaitų, kurios naudojamos valstybės iždo mokėjimo operacijoms atlikti, visuma. ^s-f4a51e8cfcad989e8a069f80
 
 
-5. Valstybės piniginiai ištekliai – valstybės biudžeto, valstybės pinigų fondų lėšos ir kitos Lietuvos Respublikos Vyriausybės gautos, pasiskolintos, paskolintos ar kitaip investuotos lėšos. ^f26f3fa1daab8d33734a99f5
+5. Valstybės piniginiai ištekliai – valstybės biudžeto, valstybės pinigų fondų lėšos ir kitos Lietuvos Respublikos Vyriausybės gautos, pasiskolintos, paskolintos ar kitaip investuotos lėšos. ^s-7f68f09989c02baa3aa55492
 
 
-6. Valstybės pinigų fondai – pagal Lietuvos Respublikos įstatymus įsteigti fondai, kurių sudarymo šaltinis yra valstybės piniginiai ištekliai ir kuriuose sukauptos lėšos naudojamos šių fondų veiklą reglamentuojančiuose įstatymuose nustatytiems tikslams. ^9fd570a37f1e20347b655325
+6. Valstybės pinigų fondai – pagal Lietuvos Respublikos įstatymus įsteigti fondai, kurių sudarymo šaltinis yra valstybės piniginiai ištekliai ir kuriuose sukauptos lėšos naudojamos šių fondų veiklą reglamentuojančiuose įstatymuose nustatytiems tikslams. ^s-3335a076b7bddf683daa3580
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme ir Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme. ^7d536fc7660a7c9daf35ed5b
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]], [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatyme]], Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme ir [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]]. ^s-d9870a69fe7b5633690e652b
 
 
 
-### 3 straipsnis. Sąskaitų valstybės ižde atidarymas ir lėšų šiose sąskaitose ir (ar) finansų įstaigose laikymas
+### 3 straipsnis. Sąskaitų valstybės ižde atidarymas ir lėšų šiose sąskaitose ir (ar) finansų įstaigose laikymas ^s-d0c76c6600b9c69fddb84ada
 
 
-1. Valstybės piniginiai ištekliai laikomi valstybės iždo pagrindinėje sąskaitoje. ^b6be0e528e6d7489b000ef06
+1. Valstybės piniginiai ištekliai laikomi valstybės iždo pagrindinėje sąskaitoje. ^s-c7ab3e8a44ddc5315953d041
 
 
-2. Įstaigos lėšos laikomos įstaigos tvarkomoje (tvarkomose) sąskaitoje (sąskaitose), kurią (kurias) valstybės ižde finansų ministro nustatyta tvarka atidaro ir kurioje (kuriose) esančiomis lėšomis disponuoja įstaiga. Įstaigos vadovas arba jo įgaliotas asmuo yra atsakingi už šioje (šiose) sąskaitoje (sąskaitose) esančių lėšų naudojimą pagal paskirtį, jų investavimą ir kitų šioms lėšoms taikomų reikalavimų laikymąsi. ^55a8516aa3bda64d998c4fcf
+2. Įstaigos lėšos laikomos įstaigos tvarkomoje (tvarkomose) sąskaitoje (sąskaitose), kurią (kurias) valstybės ižde finansų ministro nustatyta tvarka atidaro ir kurioje (kuriose) esančiomis lėšomis disponuoja įstaiga. Įstaigos vadovas arba jo įgaliotas asmuo yra atsakingi už šioje (šiose) sąskaitoje (sąskaitose) esančių lėšų naudojimą pagal paskirtį, jų investavimą ir kitų šioms lėšoms taikomų reikalavimų laikymąsi. ^s-09354a8902020f38697f69c5
 
 
-3. Finansų ministerija, įgyvendindama valstybės iždo funkcijas, gali disponuoti įstaigų tvarkomose sąskaitose esančiomis ir įstaigų savo funkcijoms įgyvendinti laikinai nenaudojamomis lėšomis (toliau – įstaigų tvarkomose sąskaitose laikinai nenaudojamos lėšos), jeigu užtikrina įstaigų teisę netrukdomai disponuoti tomis lėšomis. ^d90aedefd964a734bfcb696a
+3. Finansų ministerija, įgyvendindama valstybės iždo funkcijas, gali disponuoti įstaigų tvarkomose sąskaitose esančiomis ir įstaigų savo funkcijoms įgyvendinti laikinai nenaudojamomis lėšomis (toliau – įstaigų tvarkomose sąskaitose laikinai nenaudojamos lėšos), jeigu užtikrina įstaigų teisę netrukdomai disponuoti tomis lėšomis. ^s-9de1f2c7d678cb0e367abdd6
 
 
-4. Šio straipsnio 1 ir [[#^55a8516aa3bda64d998c4fcf|2 dalyse]] nurodytos lėšos ar jų dalis finansų ministro nustatyta tvarka taip pat gali būti laikomos finansų įstaigose, kai yra bent viena iš šių sąlygų: ^7c440878f358f156019dbe81
+4. Šio straipsnio 1 ir [[#^s-09354a8902020f38697f69c5|2 dalyse]] nurodytos lėšos ar jų dalis finansų ministro nustatyta tvarka taip pat gali būti laikomos finansų įstaigose, kai yra bent viena iš šių sąlygų: ^s-819eb940204970912a487823
 
 
-1) lėšos yra paskolintos ar kitaip investuotos arba naudojamos pagal Europos Sąjungos teisės aktus, Europos Sąjungos institucijų ar organizacijų sprendimus ir (arba) su tuo susijusias sutartis ar susitarimus, Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautinėmis finansų institucijomis pasirašytus susitarimus; ^b2bdcaf93bc4b87509a78ea3
+1) lėšos yra paskolintos ar kitaip investuotos arba naudojamos pagal Europos Sąjungos teisės aktus, Europos Sąjungos institucijų ar organizacijų sprendimus ir (arba) su tuo susijusias sutartis ar susitarimus, Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautinėmis finansų institucijomis pasirašytus susitarimus; ^s-ee2a4c03842b73e11b355599
 
 
-2) dėl valstybės iždo funkcinių ar techninių apribojimų įstaigos negali gauti jų funkcijoms įgyvendinti reikalingų finansinių paslaugų. ^6a3bd62e16df7aeb7dedf157
+2) dėl valstybės iždo funkcinių ar techninių apribojimų įstaigos negali gauti jų funkcijoms įgyvendinti reikalingų finansinių paslaugų. ^s-8f769485916be529248a47f9
 
 
-5. Įstaigos finansų ministro nustatyta tvarka teikia Finansų ministerijai informaciją apie finansų įstaigose atidarytas sąskaitas, kuriose laikomos įstaigų lėšos pagal [[#^7c440878f358f156019dbe81|šio straipsnio 4 dalį]]. ^d46d7815ed51247116408a76
+5. Įstaigos finansų ministro nustatyta tvarka teikia Finansų ministerijai informaciją apie finansų įstaigose atidarytas sąskaitas, kuriose laikomos įstaigų lėšos pagal [[#^s-819eb940204970912a487823|šio straipsnio 4 dalį]]. ^s-5938a56daaec0ee9f194e63e
 
 
-6. Finansų ministerija, įgyvendindama valstybės iždo funkcijas, gali tapti mokėjimo sistemų dalyve ir naudotis Lietuvos banko kaip valstybės fiskalinio agento teikiamomis paslaugomis, taip pat kitomis valstybės iždui reikalingomis Lietuvos banko, finansų įstaigų ar mokėjimo sistemų teikiamomis paslaugomis. Valstybės iždas gali turėti sąsają su mokėjimo sistemomis, įskaitant Lietuvos banko valdomas mokėjimo ir kitas mokėjimų infrastruktūrą sudarančias sistemas. ^91934cb9a06dedad4fdfd031
+6. Finansų ministerija, įgyvendindama valstybės iždo funkcijas, gali tapti mokėjimo sistemų dalyve ir naudotis Lietuvos banko kaip valstybės fiskalinio agento teikiamomis paslaugomis, taip pat kitomis valstybės iždui reikalingomis Lietuvos banko, finansų įstaigų ar mokėjimo sistemų teikiamomis paslaugomis. Valstybės iždas gali turėti sąsają su mokėjimo sistemomis, įskaitant Lietuvos banko valdomas mokėjimo ir kitas mokėjimų infrastruktūrą sudarančias sistemas. ^s-9c79346886e06a65464f6326
 
 
 
-### 4 straipsnis. Mokėjimai į sąskaitas, atidarytas valstybės ižde, ir išmokėjimai iš jų
+### 4 straipsnis. Mokėjimai į sąskaitas, atidarytas valstybės ižde, ir išmokėjimai iš jų ^s-9b54badc1725681a72a068ad
 
 
-1. Valstybės biudžetui priskirti surinkti mokesčiai, Europos Sąjungos, kitos finansinės paramos lėšos, rinkliavos, kitos valstybės biudžeto pajamoms priskirtinos lėšos finansų ministro nustatyta tvarka pervedami į valstybės iždo pagrindinę sąskaitą. ^9d0670f1e90489f43ff16125
+1. Valstybės biudžetui priskirti surinkti mokesčiai, Europos Sąjungos, kitos finansinės paramos lėšos, rinkliavos, kitos valstybės biudžeto pajamoms priskirtinos lėšos finansų ministro nustatyta tvarka pervedami į valstybės iždo pagrindinę sąskaitą. ^s-518d34df1449967252648bbe
 
 
-2. Valstybės piniginius išteklius iš valstybės iždo pagrindinės sąskaitos finansų ministro nustatyta tvarka išduoda finansų ministro įgalioti Finansų ministerijos valstybės tarnautojai arba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka – kitos įstaigos valstybės tarnautojai ar darbuotojai: ^204959a9f007a1aa28eff429
+2. Valstybės piniginius išteklius iš valstybės iždo pagrindinės sąskaitos finansų ministro nustatyta tvarka išduoda finansų ministro įgalioti Finansų ministerijos valstybės tarnautojai arba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka – kitos įstaigos valstybės tarnautojai ar darbuotojai: ^s-db4f9dc0534372744872ef13
 
 
-1) pagal patvirtintas mokėjimo paraiškas. Šias paraiškas Finansų ministerijai pateikia įstaigų, turinčių teisę naudoti valstybės piniginius išteklius, vadovai; ^6da4b8e91e34e3ddf6cfd2a9
+1) pagal patvirtintas mokėjimo paraiškas. Šias paraiškas Finansų ministerijai pateikia įstaigų, turinčių teisę naudoti valstybės piniginius išteklius, vadovai; ^s-33157f278ea8aaffbd676a33
 
 
-2) pagal išlaidų pagrindimo dokumentus. ^32927773bdff1c0e9def2cc2
+2) pagal išlaidų pagrindimo dokumentus. ^s-69d84e633f34a1c3b8fc9a2f
 
 
-3. Įstaigų tvarkomose sąskaitose mokėjimo operacijas inicijuoja atitinkamos įstaigos įgalioti valstybės tarnautojai ar darbuotojai. ^a664dbe4a51f4e47f2be3a4d
+3. Įstaigų tvarkomose sąskaitose mokėjimo operacijas inicijuoja atitinkamos įstaigos įgalioti valstybės tarnautojai ar darbuotojai. ^s-688ebc46e8e9a6b4b0652403
 
 
-4. Į valstybės iždo pagrindinę sąskaitą negali būti nukreiptas joks išieškojimas ir jokių laikinųjų apsaugos priemonių taikymas. ^ee3919befb062d218c2d50f2
+4. Į valstybės iždo pagrindinę sąskaitą negali būti nukreiptas joks išieškojimas ir jokių laikinųjų apsaugos priemonių taikymas. ^s-3163bf6668b410a3ce51b8f4
 
 
-5. Disponavimo įstaigų tvarkomose sąskaitose esančiomis lėšomis apribojimai ir išieškojimas iš įstaigų tvarkomose sąskaitose laikomų lėšų vykdomi mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 689 straipsnio nuostatas. ^7b5acb026896c376a18e15fc
+5. Disponavimo įstaigų tvarkomose sąskaitose esančiomis lėšomis apribojimai ir išieškojimas iš įstaigų tvarkomose sąskaitose laikomų lėšų vykdomi mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 689 straipsnio nuostatas. ^s-cc29df51a3a1e761f30a5a5c
 
 
 
-### 5 straipsnis. Valstybės iždo paskirtis
+### 5 straipsnis. Valstybės iždo paskirtis ^s-50ebfb1baebe81f4d5332ec2
 
 
 Valstybės iždo paskirtis – užtikrinti efektyvų ir racionalų valstybės piniginių išteklių valdymą ir disponavimą įstaigų tvarkomose sąskaitose esančiomis lėšomis bei valstybės piniginių išteklių naudojimą įstatymuose nustatytiems tikslams įgyvendinti.
 
 
 
-### 6 straipsnis. Valstybės iždo valdymas
+### 6 straipsnis. Valstybės iždo valdymas ^s-b91baa16eb67a6df1137a3a1
 
 
 Valstybės iždą valdo Finansų ministerija vadovaudamasi šiuo įstatymu ir kitais valstybės iždo valdymą reglamentuojančiais teisės aktais.
 
 
 
-### 7 straipsnis. Valstybės iždo funkcijos
+### 7 straipsnis. Valstybės iždo funkcijos ^s-494b88a44145dc972cbe39e9
 
 
 Valstybės iždo funkcijos yra:
 
 
-1) valstybės iždo pagrindinės sąskaitos tvarkymas ir mokėjimo operacijų vykdymas; ^ee60176491efd308795fff4a
+1) valstybės iždo pagrindinės sąskaitos tvarkymas ir mokėjimo operacijų vykdymas; ^s-75a6fcea1bede73c362a4867
 
 
-2) valstybės iždo veikimui būtinų valstybės informacinių sistemų administravimas; ^45f79b36b8fdcfe76fa6807f
+2) valstybės iždo veikimui būtinų valstybės informacinių sistemų administravimas; ^s-029f1fc95bea88b8f5d94c29
 
 
-3) valstybės piniginių išteklių kaupimas, jų išdavimas ir racionalus naudojimas, šių procedūrų apskaita ir kontrolė; ^d419fdbfb628b936f28c59d7
+3) valstybės piniginių išteklių kaupimas, jų išdavimas ir racionalus naudojimas, šių procedūrų apskaita ir kontrolė; ^s-b376cd21347b717a728a571a
 
 
-4) skolinimasis valstybės vardu; ^a0198d9a1eded893c0bea352
+4) skolinimasis valstybės vardu; ^s-5dd909f44557e0410281862c
 
 
-5) valstybės vardu prisiimtų įsipareigojimų išplatinus Vyriausybės vertybinius popierius, pasirašius paskolų sutartis ir kitus įsipareigojamuosius skolos dokumentus valdymas; ^8c18d3fed7659deb70a2b29e
+5) valstybės vardu prisiimtų įsipareigojimų išplatinus Vyriausybės vertybinius popierius, pasirašius paskolų sutartis ir kitus įsipareigojamuosius skolos dokumentus valdymas; ^s-7931b2ce330c57fe7371abab
 
 
-6) valstybės vardu sudaromų finansinių sandorių apskaita; ^3ac5296fba36300ef16ce0de
+6) valstybės vardu sudaromų finansinių sandorių apskaita; ^s-849293c28a0f94644ddf2e20
 
 
-7) informacijos apie valstybės piniginių išteklių sukaupimą ir išdavimą ir finansinių ataskaitų rengimas ir teikimas; ^cc821aae7de9695e2054bc63
+7) informacijos apie valstybės piniginių išteklių sukaupimą ir išdavimą ir finansinių ataskaitų rengimas ir teikimas; ^s-45dc651d260d27156f1a27c4
 
 
-8) valstybės piniginių išteklių ir valstybės ižde atidarytų sąskaitų likvidumo valdymas; ^6a3da00ce40baea065cfba8f
+8) valstybės piniginių išteklių ir valstybės ižde atidarytų sąskaitų likvidumo valdymas; ^s-7cbbc788578eee9484029538
 
 
-9) laikinai laisvų valstybės piniginių išteklių naudojimas ir investavimas; ^8315e1f17fa1e8bdd414dce5
+9) laikinai laisvų valstybės piniginių išteklių naudojimas ir investavimas; ^s-03241c8b77fc5884c68d2017
 
 
-10) įstaigų tvarkomų sąskaitų tvarkymas, mokėjimo operacijų atlikimas, valiutos keitimo operacijų apdorojimas, organizacinių ir techninių priemonių, kuriomis sudaromos sąlygos atlikti įstaigų tvarkomų sąskaitų valdymo ir mokėjimo operacijas įstaigoms ir prireikus kitiems subjektams, nurodytiems šio įstatymo [[#^f7bf90979f774b5a99ecdb6f|1 straipsnio 4 dalyje]], teikimas. ^2958459244fa42d05479b66b
+10) įstaigų tvarkomų sąskaitų tvarkymas, mokėjimo operacijų atlikimas, valiutos keitimo operacijų apdorojimas, organizacinių ir techninių priemonių, kuriomis sudaromos sąlygos atlikti įstaigų tvarkomų sąskaitų valdymo ir mokėjimo operacijas įstaigoms ir prireikus kitiems subjektams, nurodytiems šio įstatymo [[#^s-771ebdfe52c69e5478a60713|1 straipsnio 4 dalyje]], teikimas. ^s-b123fe9fbba959de1c4dde08
 
 
 
-### 8 straipsnis. Valstybės iždo funkcijų įgyvendinimo reglamentavimas
+### 8 straipsnis. Valstybės iždo funkcijų įgyvendinimo reglamentavimas ^s-f9d9b1f0ec6f58f20437ea50
 
 
-1. Valstybės iždo funkcijų įgyvendinimą reglamentuoja Lietuvos Respublikos biudžeto sandaros, Valstybės skolos, Lietuvos Respublikos mokesčių administravimo, Lietuvos Respublikos rinkliavų, Lietuvos Respublikos biudžetinių įstaigų, Lietuvos Respublikos valstybės kontrolės, atskirų valstybės pinigų fondų, šis ir kiti įstatymai, taip pat kiti teisės aktai, kuriuose nustatyta valstybės iždo funkcijų įgyvendinimo tvarka. ^3cc815f16e836ce8a3041c71
+1. Valstybės iždo funkcijų įgyvendinimą reglamentuoja Lietuvos Respublikos biudžeto sandaros, Valstybės skolos, Lietuvos Respublikos mokesčių administravimo, Lietuvos Respublikos rinkliavų, Lietuvos Respublikos biudžetinių įstaigų, Lietuvos Respublikos valstybės kontrolės, atskirų valstybės pinigų fondų, šis ir kiti įstatymai, taip pat kiti teisės aktai, kuriuose nustatyta valstybės iždo funkcijų įgyvendinimo tvarka. ^s-7f2bb2a59c52b4e8e7cff03c
 
 
-2. Finansų ministras, vadovaudamasis [[#^3cc815f16e836ce8a3041c71|šio straipsnio 1 dalyje]] nurodytais įstatymais ir kitais teisės aktais, nustato veiksmus ir procedūras, kuriuos atliekant įgyvendinamos valstybės iždo funkcijos, įskaitant atvejus, kai nevykdomas valstybės biudžetas. ^1d59a47f00880e958a033a75
+2. Finansų ministras, vadovaudamasis [[#^s-7f2bb2a59c52b4e8e7cff03c|šio straipsnio 1 dalyje]] nurodytais įstatymais ir kitais teisės aktais, nustato veiksmus ir procedūras, kuriuos atliekant įgyvendinamos valstybės iždo funkcijos, įskaitant atvejus, kai nevykdomas valstybės biudžetas. ^s-750176c9c8f5138322676695
 
 
-3. Finansų ministras nustato mokėjimo sistemų mokėjimo operacijoms atlikti pasirinkimo, mokėjimo operacijų atlikimo paslaugų teikimo, centralizuoto jų įsigijimo, organizacinių ir techninių priemonių, kuriomis sudaromos sąlygos atlikti įstaigų tvarkomų sąskaitų valdymo ir mokėjimo operacijas įstaigoms ir prireikus kitiems subjektams, nurodytiems šio įstatymo [[#^f7bf90979f774b5a99ecdb6f|1 straipsnio 4 dalyje]], teikimo tvarką ir su tuo susijusias Finansų ministerijos organizacines, vidaus kontrolės ir rizikos valdymo, pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones. ^ef3e6a44fb40f046bf2cdf32
+3. Finansų ministras nustato mokėjimo sistemų mokėjimo operacijoms atlikti pasirinkimo, mokėjimo operacijų atlikimo paslaugų teikimo, centralizuoto jų įsigijimo, organizacinių ir techninių priemonių, kuriomis sudaromos sąlygos atlikti įstaigų tvarkomų sąskaitų valdymo ir mokėjimo operacijas įstaigoms ir prireikus kitiems subjektams, nurodytiems šio įstatymo [[#^s-771ebdfe52c69e5478a60713|1 straipsnio 4 dalyje]], teikimo tvarką ir su tuo susijusias Finansų ministerijos organizacines, vidaus kontrolės ir rizikos valdymo, pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones. ^s-c00b09fba407b86be8166069
 
 
-4. Finansų ministerija turi teisę tvarkyti asmens duomenis, kiek tai būtina valstybės iždo funkcijoms įgyvendinti. ^db360df9ae8483d35cd3b42f
+4. Finansų ministerija turi teisę tvarkyti asmens duomenis, kiek tai būtina valstybės iždo funkcijoms įgyvendinti. ^s-a9a95cb9b4f5a2083dd1fae4
 
 
 
-### 9 straipsnis. Valstybės pinigų fondų steigimas
+### 9 straipsnis. Valstybės pinigų fondų steigimas ^s-8cfae3f20904f257e0f9d4bb
 
 
-1. Valstybės pinigų fondai gali būti steigiami tik įstatymu. ^39d8cb7c7b883043ed6ce8a1
+1. Valstybės pinigų fondai gali būti steigiami tik įstatymu. ^s-17eb4bb770f038066b35d56f
 
 
-2. Valstybės pinigų fondų tikslai, steigėjų ir valdytojų teisės ir pareigos kaupiant bei valdant šių fondų lėšas ir atsakomybė už efektyvų ir racionalų jų naudojimą nustatomi įstatymuose, kuriais steigiami valstybės pinigų fondai, ir (ar) šių fondų nuostatuose. ^d6c10cfcd758cfe1f70c52a4
+2. Valstybės pinigų fondų tikslai, steigėjų ir valdytojų teisės ir pareigos kaupiant bei valdant šių fondų lėšas ir atsakomybė už efektyvų ir racionalų jų naudojimą nustatomi įstatymuose, kuriais steigiami valstybės pinigų fondai, ir (ar) šių fondų nuostatuose. ^s-b54ce382412811c3eed26295
 
 
-3. Valstybės piniginiai ištekliai į valstybės pinigų fondus pervedami šių fondų steigimą ir (arba) veiklą reglamentuojančiuose įstatymuose nustatyta tvarka. ^9ac2dd2255f671f5f8cec3ff
+3. Valstybės piniginiai ištekliai į valstybės pinigų fondus pervedami šių fondų steigimą ir (arba) veiklą reglamentuojančiuose įstatymuose nustatyta tvarka. ^s-fccb34fe8191cad16cf34b0e
 
 
 
-### 10 straipsnis. Rezervinio (stabilizavimo) fondo paskirtis
+### 10 straipsnis. Rezervinio (stabilizavimo) fondo paskirtis ^s-0d02c229f050ad8bf517a205
 
 
-1. Rezervinis (stabilizavimo) fondas yra valstybės pinigų fondas, kurio tikslas – kaupti valstybės piniginius išteklius, reikalingus valstybės biudžeto išlaidoms finansuoti, Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo nustatyta tvarka nustačius išskirtines aplinkybes, giluminiam radioaktyviųjų atliekų atliekynui įrengti, radioaktyviosioms atliekoms tvarkyti ir valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, Europos Sąjungos politikos įgyvendinimu ir (arba) su tuo susijusiomis sutartimis ar susitarimais, vykdyti (grąžintinai). ^36c8a66a2ad91fd41606bbaf
+1. Rezervinis (stabilizavimo) fondas yra valstybės pinigų fondas, kurio tikslas – kaupti valstybės piniginius išteklius, reikalingus valstybės biudžeto išlaidoms finansuoti, Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo nustatyta tvarka nustačius išskirtines aplinkybes, giluminiam radioaktyviųjų atliekų atliekynui įrengti, radioaktyviosioms atliekoms tvarkyti ir valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, Europos Sąjungos politikos įgyvendinimu ir (arba) su tuo susijusiomis sutartimis ar susitarimais, vykdyti (grąžintinai). ^s-406ac50bf7c8a3d4dbedb92c
 
 
-2. Rezervinio (stabilizavimo) fondo nuostatus tvirtina Lietuvos Respublikos Seimas Vyriausybės teikimu. ^aa77fcfad54283b70db6a0c4
+2. Rezervinio (stabilizavimo) fondo nuostatus tvirtina Lietuvos Respublikos Seimas Vyriausybės teikimu. ^s-b78b6c76922c71584bc70298
 
 
-3. Rezervinio (stabilizavimo) fondo nuostatuose nustatomi fondo sudarymo šaltiniai, sąlygos, kai lėšos fonde laikinai nekaupiamos, fondo lėšų naudojimo, fondo valdymo, fondo lėšų apskaitos ir kontrolės tvarka. ^8c857d6bb2c2aa3d38dbd262
+3. Rezervinio (stabilizavimo) fondo nuostatuose nustatomi fondo sudarymo šaltiniai, sąlygos, kai lėšos fonde laikinai nekaupiamos, fondo lėšų naudojimo, fondo valdymo, fondo lėšų apskaitos ir kontrolės tvarka. ^s-4aef70eab3198f1b397d4a56
 
 
-4. Tam tikrų metų Rezervinio (stabilizavimo) fondo lėšų dydis pagal šaltinius nustatomas fondo lėšų sąmatoje, kurią Vyriausybė teikia Seimui tvirtinti kartu su tų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu. ^06e0136dfb003836c4b18f19
+4. Tam tikrų metų Rezervinio (stabilizavimo) fondo lėšų dydis pagal šaltinius nustatomas fondo lėšų sąmatoje, kurią Vyriausybė teikia Seimui tvirtinti kartu su tų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu. ^s-fa08f17771fe35c005b82e15
 
 
-5. Rezervinį (stabilizavimo) fondą valdo Finansų ministerija. ^188702e993c78746827d1923
+5. Rezervinį (stabilizavimo) fondą valdo Finansų ministerija. ^s-c841247f3ebf1bf7457135b8
 
 
 
-### 11 straipsnis. Laikinai laisvų lėšų investavimas ir laikinas naudojimas
+### 11 straipsnis. Laikinai laisvų lėšų investavimas ir laikinas naudojimas ^s-8e79628d8b94bcb1061c76df
 
 
-1. Finansų ministerija turi teisę laikinai laisvas lėšas – laikinai laisvus valstybės piniginius išteklius ir įstaigų tvarkomose sąskaitose laikinai nenaudojamas lėšas – investuoti ir laikinai (grąžintinai) naudoti finansų ministro nustatyta tvarka, vadovaudamasi [[#^90007c1268ccbac6489f6494|šio straipsnio 3 dalyje]] nustatytais kriterijais. ^439a745b4cf2ad127b703819
+1. Finansų ministerija turi teisę laikinai laisvas lėšas – laikinai laisvus valstybės piniginius išteklius ir įstaigų tvarkomose sąskaitose laikinai nenaudojamas lėšas – investuoti ir laikinai (grąžintinai) naudoti finansų ministro nustatyta tvarka, vadovaudamasi [[#^s-9796576fc2900002d84ba908|šio straipsnio 3 dalyje]] nustatytais kriterijais. ^s-434d67a44786ba85c5df2df0
 
 
-2. Laikinai laisvos lėšos gali būti investuojamos ir laikinai (grąžintinai) naudojamos, kai užtikrinamas lėšų grąžinimas į atitinkamą valstybės iždo sąskaitą. Investavimo metu gautos investicinės veiklos pajamos, įvertinus investicinės veiklos sąnaudas, pervedamos į atitinkamą valstybės iždo sąskaitą, išskyrus pajamas už įstaigų tvarkomose sąskaitose laikinai nenaudojamų lėšų investavimą, kurios pervedamos į valstybės iždo pagrindinę sąskaitą, išskyrus atvejus, kai kituose įstatymuose nenustatyta kitaip. ^7f560e4d4db07a2ce1254665
+2. Laikinai laisvos lėšos gali būti investuojamos ir laikinai (grąžintinai) naudojamos, kai užtikrinamas lėšų grąžinimas į atitinkamą valstybės iždo sąskaitą. Investavimo metu gautos investicinės veiklos pajamos, įvertinus investicinės veiklos sąnaudas, pervedamos į atitinkamą valstybės iždo sąskaitą, išskyrus pajamas už įstaigų tvarkomose sąskaitose laikinai nenaudojamų lėšų investavimą, kurios pervedamos į valstybės iždo pagrindinę sąskaitą, išskyrus atvejus, kai kituose įstatymuose nenustatyta kitaip. ^s-26ac1bd539eb634c9fdcd695
 
 
-3. Pagrindiniai kriterijai pasirenkant laikinai laisvų lėšų investavimo priemonę yra šie: ^90007c1268ccbac6489f6494
+3. Pagrindiniai kriterijai pasirenkant laikinai laisvų lėšų investavimo priemonę yra šie: ^s-9796576fc2900002d84ba908
 
 
-1) investuotų lėšų saugumas; ^820ffc5f20c1f3d16220e4fc
+1) investuotų lėšų saugumas; ^s-2230da98602911830d513db0
 
 
-2) likvidumas; ^020a87cffb4ba901f6b5ac98
+2) likvidumas; ^s-946d96e29f3c9eee101579d4
 
 
-3) metinis pelningumas, įvertinus investicinės veiklos sąnaudas.“ ^f654de6d4f6af9c25bf6e5db
+3) metinis pelningumas, įvertinus investicinės veiklos sąnaudas.“ ^s-a8bb86f1b141c91b54307ca8
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas ^s-7381c439da2497d31a90bfd3
 
 
-1. Šis įstatymas, išskyrus [[#^74a56ab76065c41d241ed2bb|šio straipsnio 4 dalį]], įsigalioja 2023 m. sausio 1 d. ^703752b2418b406c81032698
+1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2023 m. sausio 1 d. ^s-03acfe3621cea51e93edaaac
 
 
-2. Biudžetinių įstaigų, išskyrus biudžetines įstaigas, kurių savininkė yra savivaldybė, viešųjų įstaigų, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė, valstybės įsteigtų ir valstybės valdomų finansų įstaigų, kuriose valstybė turi įstatinio kapitalo ir (ar) balsavimo teisių dalį, suteikiančią teisę kontroliuoti finansų įstaigos veiklą, valdomos lėšos į įstaigos tvarkomą sąskaitą valstybės ižde perkeliamos Lietuvos Respublikos Vyriausybės nustatytu eiliškumu ir terminais nuo 2023 m. sausio 1 d. iki 2028 m. sausio 1 d. ^01bafba82eeff8c8281ce465
+2. Biudžetinių įstaigų, išskyrus biudžetines įstaigas, kurių savininkė yra savivaldybė, viešųjų įstaigų, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė, valstybės įsteigtų ir valstybės valdomų finansų įstaigų, kuriose valstybė turi įstatinio kapitalo ir (ar) balsavimo teisių dalį, suteikiančią teisę kontroliuoti finansų įstaigos veiklą, valdomos lėšos į įstaigos tvarkomą sąskaitą valstybės ižde perkeliamos Lietuvos Respublikos Vyriausybės nustatytu eiliškumu ir terminais nuo 2023 m. sausio 1 d. iki 2028 m. sausio 1 d. ^s-168f57e7580b5d137cd7fb8d
 
 
-3. Lietuvos Respublikos įstatymuose ir kituose teisės aktuose vartojama sąvoka „valstybės iždo bendroji sąskaita“ atitinka šiame įstatyme vartojamą sąvoką „valstybės iždo pagrindinė sąskaita“, o „Valstybinės mokesčių inspekcijos surenkamoji sąskaita“, „surenkamoji sąskaita“ atitinka šiame įstatyme vartojamą sąvoką „įstaigos tvarkoma sąskaita“. ^4e42c386f6706d023ad919fc
+3. Lietuvos Respublikos įstatymuose ir kituose teisės aktuose vartojama sąvoka „valstybės iždo bendroji sąskaita“ atitinka šiame įstatyme vartojamą sąvoką „valstybės iždo pagrindinė sąskaita“, o „Valstybinės mokesčių inspekcijos surenkamoji sąskaita“, „surenkamoji sąskaita“ atitinka šiame įstatyme vartojamą sąvoką „įstaigos tvarkoma sąskaita“. ^s-edb68d482d1f1640f1dff6e5
 
 
-4. Vyriausybė ar jos įgaliota institucija ir Lietuvos Respublikos finansų ministras iki 2022 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^74a56ab76065c41d241ed2bb
+4. Vyriausybė ar jos įgaliota institucija ir Lietuvos Respublikos finansų ministras iki 2022 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-a78d6d112865a8eb167124d6
 
 
 

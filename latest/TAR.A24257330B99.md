@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A24257330B99"
 pavadinimas: "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių papildymo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių papildymo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių papildymo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-31"
 latest_path: "latest/TAR.A24257330B99.md"
 latest_sha256: "bb1ff24f5c1ba4e9d9a9a478b9261561cd193bddf68dc59b1885de39e63d4ef4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A24257330B99]]"
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių papildymo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A24257330B99.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A24257330B99
+- Ryšiai: [[Ryšiai/TAR.A24257330B99|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,10 +36,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-e5516bb5c32d7d05be538d45
 
 
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių papildymo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.389CB90C666D#^s-330dc97f9c8e8f9218e0df92|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių]] papildymo įstatymą pripažinti netekusiu galios.
 
 
 

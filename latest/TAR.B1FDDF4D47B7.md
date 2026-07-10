@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B1FDDF4D47B7"
 pavadinimas: "Lietuvos Respublikos mažųjų įmonių įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos mažųjų įmonių įstatymo pripažinimo netekusiu galios įstatymas"
+  - "mažųjų įmonių įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-11-06"
 latest_path: "latest/TAR.B1FDDF4D47B7.md"
 latest_sha256: "23757cf4b8d88b863cdbc2cfcd0dc2f332504ca24019e547c4537e6945d7b1e0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B1FDDF4D47B7]]"
 ---
 # Lietuvos Respublikos mažųjų įmonių įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B1FDDF4D47B7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B1FDDF4D47B7
+- Ryšiai: [[Ryšiai/TAR.B1FDDF4D47B7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos mažųjų įmonių įstatymo pripažinimas netekusiu galios
+### 1 straipsnis.         Lietuvos Respublikos mažųjų įmonių įstatymo pripažinimas netekusiu galios ^s-0f7c59d105d26954315a972f
 
 
 Lietuvos Respublikos mažųjų įmonių įstatymą pripažinti netekusiu galios.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "3aee9bd0f55811e39cfacd978b6fd9bb"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44, 54, 59, 60-1, 63, 67, 69, 72 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 45-2 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44, 54, 59, 60-1, 63, 67, 69, 72 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 45-2 straipsniu įstatymas"
+  - "akcinių bendrovių įstatymo Nr. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44, 54, 59, 60-1, 63, 67, 69, 72 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 45-2 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-06-17"
 latest_path: "latest/3aee9bd0f55811e39cfacd978b6fd9bb.md"
 latest_sha256: "0186265a470a1a903b3e2f3841f7119467cfed403f4cbe3d54145c982df2e4e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/3aee9bd0f55811e39cfacd978b6fd9bb]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44, 54, 59, 60-1, 63, 67, 69, 72 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 45-2 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/3aee9bd0f55811e39cfacd978b6fd9bb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/3aee9bd0f55811e39cfacd978b6fd9bb
+- Ryšiai: [[Ryšiai/3aee9bd0f55811e39cfacd978b6fd9bb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,39 +35,39 @@ AKCINIŲ BENDROVIŲ ĮSTATYMO Nr. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 
 
 
 
-### 1 straipsnis. 19 straipsnio pakeitimas
+### 1 straipsnis. 19 straipsnio pakeitimas ^s-3b1ca00c26a087893404e6f2
 
 
-1. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^24c020b5fb785e2ce070c63f
+1. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^s-d262a45b171db38695e9757b
 
 
 „2. Bendrovėje gali būti sudaromas kolegialus priežiūros organas – stebėtojų taryba ir kolegialus valdymo organas – valdyba. Akcinėje bendrovėje turi būti sudaromas bent vienas kolegialus organas – stebėtojų taryba arba valdyba.“
 
 
-2. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip: ^432208b45c8cb2a0409dd4c1
+2. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f0cf55358807d04202a91bf0
 
 
 „3. Jeigu bendrovėje nesudaroma stebėtojų taryba, šiame Įstatyme stebėtojų tarybai nustatytos funkcijos kitų bendrovės organų kompetencijai nepriskiriamos, išskyrus šio Įstatymo 34 straipsnio 10 dalyje nustatytą atvejį.“
 
 
 
-### 2 straipsnis. 20 straipsnio pakeitimas
+### 2 straipsnis. 20 straipsnio pakeitimas ^s-5aaf514bbbf136b79591c531
 
 
-1. Pakeisti 20 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^69336248d9818515d10c6fd0
+1. Pakeisti 20 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^s-c47b18c8b7a8dfaf4f915cd0
 
 
 „5) rinkti ir atšaukti atestuotą auditorių (toliau – auditorius) ar audito įmonę metinių finansinių ataskaitų rinkinio auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas;“.
 
 
-2. Pakeisti 20 straipsnio 1 dalies 21 punktą ir jį išdėstyti taip: ^14301d6a5a687a1c30e52b18
+2. Pakeisti 20 straipsnio 1 dalies 21 punktą ir jį išdėstyti taip: ^s-6dc2e6eaba20b6e8c66453df
 
 
 „21) priimti sprendimus dėl bendrovės restruktūrizavimo Įmonių restruktūrizavimo įstatymo nustatytais atvejais;“.
 
 
 
-### 3 straipsnis. 24 straipsnio pakeitimas
+### 3 straipsnis. 24 straipsnio pakeitimas ^s-ce48843395a85a3f37b44f13
 
 
 Pakeisti 24 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
@@ -72,23 +77,23 @@ Pakeisti 24 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 25 straipsnio pakeitimas
+### 4 straipsnis. 25 straipsnio pakeitimas ^s-7ef7957efe01236ed9387d64
 
 
-1. Pakeisti 25 straipsnio 4 dalį ir ją išdėstyti taip: ^5b2dc3ce40073336e31e325f
+1. Pakeisti 25 straipsnio 4 dalį ir ją išdėstyti taip: ^s-448584c1ed408d80deb736c1
 
 
 „4. Šio straipsnio 3 dalyje nurodyti bendrovės organai ir asmenys bet kuriuo metu iki visuotinio akcininkų susirinkimo ar susirinkimo metu gali raštu ar elektroninių ryšių priemonėmis siūlyti naujus sprendimų projektus į susirinkimo darbotvarkę įtrauktais klausimais, papildomus kandidatus į bendrovės organų narius, auditorių ar audito įmonę.“
 
 
-2. Pakeisti 25 straipsnio 6 dalį ir ją išdėstyti taip: ^00c618f2ee35278c96540b52
+2. Pakeisti 25 straipsnio 6 dalį ir ją išdėstyti taip: ^s-f677feb7cf3adcd0f16dfe93
 
 
 „6. Jeigu visuotinio akcininkų susirinkimo darbotvarkėje numatyta atšaukti bendrovės organų narius, auditorių ar audito įmonę, į darbotvarkę atitinkamai turi būti įtraukti naujų narių rinkimo į šiuos bendrovės organus ar naujo auditoriaus arba naujos audito įmonės rinkimo klausimai.“
 
 
 
-### 5 straipsnis. 30 straipsnio pakeitimas
+### 5 straipsnis. 30 straipsnio pakeitimas ^s-8a7ea1ef5ae8782e697ae2ad
 
 
 Pakeisti 30 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
@@ -98,91 +103,91 @@ Pakeisti 30 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 31 straipsnio pakeitimas
+### 6 straipsnis. 31 straipsnio pakeitimas ^s-ba8027f5bc65cdb5eb1a42c1
 
 
-1. Papildyti 31 straipsnį nauja 7 dalimi: ^489810fc4a32fa895ed0eb2e
+1. Papildyti 31 straipsnį nauja 7 dalimi: ^s-a489c7a424c5cab68297c0b7
 
 
 „7. Daugiau kaip pusė stebėtojų tarybos narių turi būti nesusiję darbo santykiais su bendrove.“
 
 
-2. Buvusias 31 straipsnio 7–12 dalis laikyti atitinkamai 8–13 dalimis. ^f961f5fdaeabab8ca01c55e8
+2. Buvusias 31 straipsnio 7–12 dalis laikyti atitinkamai 8–13 dalimis. ^s-bddeabc6e06530f51928dd5e
 
 
 
-### 7 straipsnis. 33 straipsnio pakeitimas
+### 7 straipsnis. 33 straipsnio pakeitimas ^s-c7e148bc739dc4fe949b555c
 
 
-1. Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip: ^6f3a2986babc2956a5bfc6f8
+1. Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip: ^s-63358621d9b794d5a826a4fb
 
 
 „3. Valdybą renka stebėtojų taryba bendrovės įstatuose nustatytam, bet ne ilgesniam kaip 4 metų laikotarpiui. Jeigu stebėtojų taryba nesudaroma, valdybą renka visuotinis akcininkų susirinkimas šio Įstatymo 31 straipsnio 3 ir 12 dalyse nustatyta stebėtojų tarybos rinkimų tvarka. Jeigu renkami pavieniai valdybos nariai, jie renkami tik iki veikiančios valdybos kadencijos pabaigos.“
 
 
-2. Papildyti 33 straipsnio 6 dalį 3 punktu: ^d1699f9776cf46872b68b51b
+2. Papildyti 33 straipsnio 6 dalį 3 punktu: ^s-8c7c562e019d264a5e71eccf
 
 
 „3) bendrovės vadovas, jeigu bendrovėje stebėtojų taryba nesudaroma ir bendrovės įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 10 dalyje nustatytas priežiūros funkcijas.“
 
 
-3. Papildyti 33 straipsnį nauja 7 dalimi: ^f38319bbf1c2a70aed3421b5
+3. Papildyti 33 straipsnį nauja 7 dalimi: ^s-9066dc11f8656d0b20115c6f
 
 
 „7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 10 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove.“
 
 
-4. Buvusias 33 straipsnio 7–11 dalis laikyti atitinkamai 8–12 dalimis. ^7e9eb5d1450e1d3d71d0fcc1
+4. Buvusias 33 straipsnio 7–11 dalis laikyti atitinkamai 8–12 dalimis. ^s-a7322e10b308cb677207f865
 
 
 
-### 8 straipsnis. 34 straipsnio pakeitimas
+### 8 straipsnis. 34 straipsnio pakeitimas ^s-185bc75b1040387c6cb16f82
 
 
-1. Pripažinti netekusiu galios 34 straipsnio 4 dalies 7 punktą. ^0bcadada80a91f1ebe1e98a8
+1. Pripažinti netekusiu galios 34 straipsnio 4 dalies 7 punktą. ^s-fc42825498af4af14dcd5d02
 
 
-2. Pakeisti 34 straipsnio 8 dalį ir ją išdėstyti taip: ^b5e155c21fff4b960fe59965
+2. Pakeisti 34 straipsnio 8 dalį ir ją išdėstyti taip: ^s-6ea6f29e8fe5e6cc696a7d2f
 
 
 „8. Valdyba analizuoja, vertina bendrovės metinių finansinių ataskaitų rinkinį, pelno (nuostolių) paskirstymo projektą ir kartu su atsiliepimais ir pasiūlymais dėl jų bei bendrovės metiniu pranešimu teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.“
 
 
-3. Pakeisti 34 straipsnio 9 dalį ir ją išdėstyti taip: ^b9a69ebbe996ff6c0b3ac5f0
+3. Pakeisti 34 straipsnio 9 dalį ir ją išdėstyti taip: ^s-dd50e6ab85de2ef954a011a4
 
 
 „9. Valdyba analizuoja, vertina sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektą ir jam priimti sudarytą tarpinių finansinių ataskaitų rinkinį, kuriuos kartu su atsiliepimais ir pasiūlymais dėl jų bei bendrovės tarpiniu pranešimu teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.“
 
 
-4. Papildyti 34 straipsnį nauja 10 dalimi: ^c71b048aaa85eebde6b95512
+4. Papildyti 34 straipsnį nauja 10 dalimi: ^s-0fe41e2522951a967fc15e8d
 
 
 „10. Bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose gali būti nustatyta, kad valdyba atlieka visas šias priežiūros funkcijas:
 
 
-1) prižiūri bendrovės vadovo veiklą, pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl bendrovės vadovo veiklos; ^e71654a29f886cf57204aad4
+1) prižiūri bendrovės vadovo veiklą, pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl bendrovės vadovo veiklos; ^s-f11555c60ed5d68dbf7b2864
 
 
-2) svarsto, ar bendrovės vadovas tinka eiti pareigas, jeigu bendrovė dirba nuostolingai; ^7b892c6255596c747626cd08
+2) svarsto, ar bendrovės vadovas tinka eiti pareigas, jeigu bendrovė dirba nuostolingai; ^s-5e7c737aedbe5a793ef86c0c
 
 
-3) teikia siūlymus bendrovės vadovui atšaukti jo sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams, visuotinio akcininkų susirinkimo ar valdybos sprendimams; ^51223c0e96d7c2d033e6b824
+3) teikia siūlymus bendrovės vadovui atšaukti jo sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams, visuotinio akcininkų susirinkimo ar valdybos sprendimams; ^s-2e557ca7136e3520ba5f1b9d
 
 
-4) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose valdybos kompetencijai priskirtus bendrovės ir bendrovės vadovo veiklos priežiūros klausimus.“ ^a6f30c04caa10fa97db633a4
+4) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose valdybos kompetencijai priskirtus bendrovės ir bendrovės vadovo veiklos priežiūros klausimus.“ ^s-167b6f95c7acc77853000419
 
 
-5. Papildyti 34 straipsnį nauja 11 dalimi: ^a50e4ad883ef3f4d3478fb15
+5. Papildyti 34 straipsnį nauja 11 dalimi: ^s-76fbcce9399289d5815b1c86
 
 
 „11. Bendrovės valdyba atlieka funkcijas, kurios Įmonių restruktūrizavimo įstatyme priskirtos valdymo organo kompetencijai.“
 
 
-6. Buvusias 34 straipsnio 10–13 dalis laikyti atitinkamai 12–15 dalimis. ^737c95c64eb993c5febecea4
+6. Buvusias 34 straipsnio 10–13 dalis laikyti atitinkamai 12–15 dalimis. ^s-4445caaefff1110439cd5669
 
 
 
-### 9 straipsnis. 35 straipsnio pakeitimas
+### 9 straipsnis. 35 straipsnio pakeitimas ^s-9a9955519f1a39727b8eb89d
 
 
 Pakeisti 35 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -192,45 +197,45 @@ Pakeisti 35 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 37 straipsnio pakeitimas
+### 10 straipsnis. 37 straipsnio pakeitimas ^s-3054b2c82214c07f867132ed
 
 
-1. Pakeisti 37 straipsnio 10 dalį ir ją išdėstyti taip: ^d4a1618bc89f682674a8fa68
+1. Pakeisti 37 straipsnio 10 dalį ir ją išdėstyti taip: ^s-9a4405c3b2a02551ff0f2afc
 
 
 „10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo 34 straipsnio 4 dalies 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 34 straipsnio 1, 3, 4, 5, 6, 8, 9, 11, 12 ir 13 dalyse.“
 
 
-2. Pakeisti 37 straipsnio 12 dalies 4 punktą ir jį išdėstyti taip: ^71462848f56aa8f63c9f1193
+2. Pakeisti 37 straipsnio 12 dalies 4 punktą ir jį išdėstyti taip: ^s-1da48aa79df1e7c608421aa1
 
 
 „4) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;“.
 
 
-3. Pakeisti 37 straipsnio 15 dalį ir ją išdėstyti taip: ^2b14a42012092365c94e7884
+3. Pakeisti 37 straipsnio 15 dalį ir ją išdėstyti taip: ^s-4ad83b1de6a33a8e644c6f98
 
 
 „15. Bendrovės vadovas turi užtikrinti, kad auditoriui būtų pateikti visi sutartyje su auditoriumi ar audito įmone nurodytam patikrinimui reikalingi bendrovės dokumentai.“
 
 
 
-### 11 straipsnis. 44 straipsnio pakeitimas
+### 11 straipsnis. 44 straipsnio pakeitimas ^s-58a80b4cdd8a0200b64c77a2
 
 
-1. Pakeisti 44 straipsnio 7 dalį ir ją išdėstyti taip: ^bfe46e6e1ab104c24e6b6c1b
+1. Pakeisti 44 straipsnio 7 dalį ir ją išdėstyti taip: ^s-c3dd6611e46f07cbaa3f139c
 
 
 „7. Dukterinė bendrovė negali pasirašyti patronuojančios bendrovės akcijų.“
 
 
-2. Pakeisti 44 straipsnio 9 dalį ir ją išdėstyti taip: ^783daa016603f055ed99b329
+2. Pakeisti 44 straipsnio 9 dalį ir ją išdėstyti taip: ^s-00bedaf56339ba29566f7f53
 
 
 „9. Kai bendrovės akcijas pasirašo asmuo, veikiantis savo vardu, bet dėl šios bendrovės interesų, laikoma, kad akcijų pasirašymo sutartį sudaro pats asmuo.“
 
 
 
-### 12 straipsnis. Įstatymo papildymas 452 straipsniu
+### 12 straipsnis. Įstatymo papildymas 452 straipsniu ^s-c44db63539423b24334f8ca1
 
 
 Papildyti Įstatymą 452 straipsniu:
@@ -239,42 +244,42 @@ Papildyti Įstatymą 452 straipsniu:
 „452 straipsnis. Finansinės pagalbos teikimo bendrovės akcijoms įsigyti apribojimai
 
 
-1. Bendrovė negali tiesiogiai ar netiesiogiai iš anksto išmokėti lėšų, suteikti paskolos ar užtikrinti prievolių įvykdymo fiziniams ir (ar) juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos bendrovės akcijų, išskyrus [[#^d8287b7c58b32cbb01668c90|šio straipsnio 2 dalyje]] ir Finansų įstaigų įstatyme nustatytas išimtis. ^a0092ec6e65dc5d13f5ff647
+1. Bendrovė negali tiesiogiai ar netiesiogiai iš anksto išmokėti lėšų, suteikti paskolos ar užtikrinti prievolių įvykdymo fiziniams ir (ar) juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos bendrovės akcijų, išskyrus [[#^s-ed379464600f3220173aed88|šio straipsnio 2 dalyje]] ir [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]] nustatytas išimtis. ^s-96fa166273df69635832724b
 
 
-2. [[#^a0092ec6e65dc5d13f5ff647|Šio straipsnio 1 dalyje]] nustatytas apribojimas netaikomas bendrovei, kuri tiesiogiai ar netiesiogiai iš anksto išmoka lėšų, suteikia paskolą ar užtikrina prievolių įvykdymą savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, taip pat fiziniams ir (ar) juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas bendrovės akcijų įgyti savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, išskyrus atvejus, kai šie darbuotojai yra bendrovės ar patronuojančios bendrovės valdymo organo nariai. ^d8287b7c58b32cbb01668c90
+2. [[#^s-96fa166273df69635832724b|Šio straipsnio 1 dalyje]] nustatytas apribojimas netaikomas bendrovei, kuri tiesiogiai ar netiesiogiai iš anksto išmoka lėšų, suteikia paskolą ar užtikrina prievolių įvykdymą savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, taip pat fiziniams ir (ar) juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas bendrovės akcijų įgyti savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, išskyrus atvejus, kai šie darbuotojai yra bendrovės ar patronuojančios bendrovės valdymo organo nariai. ^s-ed379464600f3220173aed88
 
 
-3. [[#^d8287b7c58b32cbb01668c90|Šio straipsnio 2 dalyje]] ir Finansų įstaigų įstatyme nustatytų išimčių atveju bendrovės nuosavas kapitalas, įvertinus nuosavo kapitalo sumažėjimą, įvykusį bendrovei tiesiogiai ar netiesiogiai iš anksto išmokėjus lėšų, suteikus paskolą ar užtikrinus prievolių įvykdymą fiziniams ir (ar) juridiniams asmenims, turi būti ne mažesnis kaip apmokėto įstatinio kapitalo, privalomojo rezervo ir rezervo savoms akcijoms įsigyti suma. ^cde556ad2f2b937a5d5b4021
+3. [[#^s-ed379464600f3220173aed88|Šio straipsnio 2 dalyje]] ir [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]] nustatytų išimčių atveju bendrovės nuosavas kapitalas, įvertinus nuosavo kapitalo sumažėjimą, įvykusį bendrovei tiesiogiai ar netiesiogiai iš anksto išmokėjus lėšų, suteikus paskolą ar užtikrinus prievolių įvykdymą fiziniams ir (ar) juridiniams asmenims, turi būti ne mažesnis kaip apmokėto įstatinio kapitalo, privalomojo rezervo ir rezervo savoms akcijoms įsigyti suma. ^s-df45f203c1bc9aaf7ae5049e
 
 
-4. Už šiame straipsnyje nurodytų reikalavimų laikymąsi yra atsakingas bendrovės vadovas.“ ^12978db95d7be35ce54ae803
+4. Už šiame straipsnyje nurodytų reikalavimų laikymąsi yra atsakingas bendrovės vadovas.“ ^s-fc20cecbc9d262caae74033c
 
 
 
-### 13 straipsnis. 54 straipsnio pakeitimas
+### 13 straipsnis. 54 straipsnio pakeitimas ^s-4638cfd8f31c33f7dff93d4f
 
 
-1. Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip: ^dd54c9ca6780ad52543ab182
+1. Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip: ^s-b433051d06bfe04252d5e774
 
 
 „1. Bendrovė turi teisę įsigyti savas akcijas pati ar per asmenį, veikiantį savo vardu, bet dėl šios bendrovės interesų, šiame straipsnyje nustatyta tvarka. Įsigydama savas akcijas, bendrovė turi užtikrinti lygias galimybes visiems akcininkams perleisti bendrovei jos akcijų.“
 
 
-2. Pakeisti 54 straipsnio 9 dalį ir ją išdėstyti taip: ^265790b2e2770372d79bbf8b
+2. Pakeisti 54 straipsnio 9 dalį ir ją išdėstyti taip: ^s-0853f263c991315b5a36c859
 
 
 „9. Kai bendrovės akcijas įgyja jos dukterinė bendrovė, laikoma, kad akcijas įgyja pati bendrovė, kurios akcijos įgyjamos.“
 
 
-3. Pakeisti 54 straipsnio 10 dalį ir ją išdėstyti taip: ^99858d9c90d54fb57f9dabc3
+3. Pakeisti 54 straipsnio 10 dalį ir ją išdėstyti taip: ^s-f61e0ceb81195a2d4d3f8915
 
 
 „10. Kai bendrovės akcijas įgyja asmuo, veikiantis savo vardu, bet dėl šios bendrovės interesų, laikoma, kad akcijas įgyja pati bendrovė, kurios akcijos įgyjamos.“
 
 
 
-### 14 straipsnis. 59 straipsnio pakeitimas
+### 14 straipsnis. 59 straipsnio pakeitimas ^s-9f1be6d999e0b5747bcef340
 
 
 Pakeisti 59 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
@@ -284,7 +289,7 @@ Pakeisti 59 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. 601 straipsnio 5 dalies 3 punkto pakeitimas
+### 15 straipsnis. 601 straipsnio 5 dalies 3 punkto pakeitimas ^s-944aa5f38abd7ea995b965da
 
 
 Pakeisti 601 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
@@ -294,32 +299,32 @@ Pakeisti 601 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 16 straipsnis. 63 straipsnio pakeitimas
+### 16 straipsnis. 63 straipsnio pakeitimas ^s-c473b7e0a32a8994d16af79c
 
 
-1. Pakeisti 63 straipsnio 2 dalį ir ją išdėstyti taip: ^e4ca52175150f251fec711c2
+1. Pakeisti 63 straipsnio 2 dalį ir ją išdėstyti taip: ^s-2c7d96a3f7b37267d9a0645e
 
 
 „2. Reorganizavimo sąlygos turi būti įvertintos auditoriaus ar audito įmonės, su kuria sutartį sudaro kiekviena reorganizuojama ir dalyvaujanti reorganizavime bendrovė. Jeigu norima sudaryti sutartį su bendru auditoriumi ar audito įmone, tokiam auditoriui ar audito įmonei turi pritarti juridinių asmenų registro tvarkytojas.“
 
 
-2. Pakeisti 63 straipsnio 3 dalį ir ją išdėstyti taip: ^75dc336912ebeb857160143e
+2. Pakeisti 63 straipsnio 3 dalį ir ją išdėstyti taip: ^s-bff29b40cfbf431d643f1068
 
 
 „3. Auditorius ar audito įmonė turi parengti reorganizavimo sąlygų vertinimo ataskaitą, kurioje, be kita ko, turi būti:
 
 
-1) išvados dėl akcijų keitimo santykio teisingumo ir pagrįstumo; ^9a1aa5877cd24ad901807215
+1) išvados dėl akcijų keitimo santykio teisingumo ir pagrįstumo; ^s-9856a8754756c36330565ec0
 
 
-2) metodai, panaudoti akcijų keitimo santykiui nustatyti, ir išvados dėl šių metodų tinkamumo ir įtakos nustatant akcijų vertę; ^cc9aac5e9117993bab27053a
+2) metodai, panaudoti akcijų keitimo santykiui nustatyti, ir išvados dėl šių metodų tinkamumo ir įtakos nustatant akcijų vertę; ^s-b63f859816ed42bb1c867081
 
 
-3) kilusių vertinimo sunkumų aprašymas.“ ^90f2ef1816ed61a3f340c763
+3) kilusių vertinimo sunkumų aprašymas.“ ^s-91896509889ef5f6014ce1b2
 
 
 
-### 17 straipsnis. 67 straipsnio pakeitimas
+### 17 straipsnis. 67 straipsnio pakeitimas ^s-5844b90f991f968a2b49fbb5
 
 
 Pakeisti 67 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -329,7 +334,7 @@ Pakeisti 67 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 18 straipsnis. 69 straipsnio pakeitimas
+### 18 straipsnis. 69 straipsnio pakeitimas ^s-7fa1ff76545b8afdb2c7cf07
 
 
 Pakeisti 69 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -339,7 +344,7 @@ Pakeisti 69 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 19 straipsnis. 72 straipsnio pakeitimas
+### 19 straipsnis. 72 straipsnio pakeitimas ^s-57b59c209c039ea989c5425d
 
 
 Pakeisti 72 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
@@ -349,7 +354,7 @@ Pakeisti 72 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 20 straipsnis. Įstatymo priedo pakeitimas
+### 20 straipsnis. Įstatymo priedo pakeitimas ^s-82b43acd8fda3600cb8cf987
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
@@ -363,41 +368,41 @@ priedas
 
 
 
-1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50). ^4fb3af5df4ba623d0dd7d19d
+1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50). ^s-332df369dea77ce746284997
 
 
-2. 1989 m. gruodžio 21 d. Vienuoliktoji Tarybos direktyva 89/666/EEB dėl atskleidimo reikalavimų filialams, įsteigtiems valstybėse narėse tam tikrų tipų bendrovių, kurioms taikomi kitos valstybės narės įstatymai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 100). ^dea6c5d468ea71d4f9a87336
+2. 1989 m. gruodžio 21 d. Vienuoliktoji Tarybos direktyva 89/666/EEB dėl atskleidimo reikalavimų filialams, įsteigtiems valstybėse narėse tam tikrų tipų bendrovių, kurioms taikomi kitos valstybės narės įstatymai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 100). ^s-06beb28721e27b0fa884bef9
 
 
-3. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/63/EB, iš dalies keičianti Tarybos direktyvas 78/855/EEB ir 82/891/EEB dėl reikalavimo, kad jungiant arba skaidant akcines bendroves nepriklausomas ekspertas parengtų ataskaitą (OL 2007 L 300, p. 47). ^0ce4e5523ac1e895cb06e6e5
+3. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/63/EB, iš dalies keičianti Tarybos direktyvas 78/855/EEB ir 82/891/EEB dėl reikalavimo, kad jungiant arba skaidant akcines bendroves nepriklausomas ekspertas parengtų ataskaitą (OL 2007 L 300, p. 47). ^s-ef4f7802be45f4a24a01309b
 
 
-4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17). ^2d1e0d98cd18f722f28f4f95
+4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17). ^s-3d6c8cd0b6813053f0af02ea
 
 
-5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11). ^77562c7168d628e548baab58
+5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11). ^s-fa23831372d80ac702053de6
 
 
-6. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/102/EB bendrovių teisės srityje dėl vienanarių privačių ribotos atsakomybės bendrovių (OL 2009 L 258, p. 20). ^91a453b7597aaffb1f480c2d
+6. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/102/EB bendrovių teisės srityje dėl vienanarių privačių ribotos atsakomybės bendrovių (OL 2009 L 258, p. 20). ^s-19f6b5417ac16120b96d7a22
 
 
-7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/109/EB, iš dalies keičianti Tarybos direktyvų 77/91/EEB, 78/855/EEB ir 82/891/EEB bei Direktyvos 2005/56/EB nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungiant ir skaidant bendroves (OL 2009 L 259, p. 14). ^a7e429781ac13151e8a7f306
+7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/109/EB, iš dalies keičianti Tarybos direktyvų 77/91/EEB, 78/855/EEB ir 82/891/EEB bei Direktyvos 2005/56/EB nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungiant ir skaidant bendroves (OL 2009 L 259, p. 14). ^s-46427e44c6e66092951aa5f8
 
 
-8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1). ^e3ddf88688e6a99e49f0f74c
+8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1). ^s-dbc1386f8b03e2f288635b23
 
 
-9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74).“ ^033760f46a9cb0eb517f13b1
+9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74).“ ^s-48e915e3a1662ec0339a72f9
 
 
 
-### 21 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 21 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-96daf4d55cf03a640cec975e
 
 
-1. Šio įstatymo [[#^24c020b5fb785e2ce070c63f|1 straipsnio 1 dalis]] įsigalioja 2015 m. liepos 1 d. ^3b86d3d97dfbca2427924881
+1. Šio įstatymo [[#^s-d262a45b171db38695e9757b|1 straipsnio 1 dalis]] įsigalioja 2015 m. liepos 1 d. ^s-72e3b0658589e90531c9677b
 
 
-2. Šio įstatymo [[#^489810fc4a32fa895ed0eb2e|6 straipsnio 1 dalyje]] išdėstytos Lietuvos Respublikos akcinių bendrovių įstatymo 31 straipsnio 7 dalies nuostatos ir šio įstatymo [[#^f38319bbf1c2a70aed3421b5|7 straipsnio 3 dalyje]] išdėstytos Lietuvos Respublikos akcinių bendrovių įstatymo 33 straipsnio 7 dalies nuostatos taikomos bendrovėse renkant naują valdybą ir stebėtojų tarybą. Iki šio įstatymo įsigaliojimo išrinkta valdyba ar stebėtojų taryba savo funkcijas atlieka iki kadencijos, kuriai ji buvo išrinkta, pabaigos arba iki bus išrinkta nauja valdyba ar stebėtojų taryba. ^2c184988c5b38021a84884c6
+2. Šio įstatymo [[#^s-a489c7a424c5cab68297c0b7|6 straipsnio 1 dalyje]] išdėstytos Lietuvos Respublikos akcinių bendrovių įstatymo 31 straipsnio 7 dalies nuostatos ir šio įstatymo [[#^s-9066dc11f8656d0b20115c6f|7 straipsnio 3 dalyje]] išdėstytos Lietuvos Respublikos akcinių bendrovių įstatymo 33 straipsnio 7 dalies nuostatos taikomos bendrovėse renkant naują valdybą ir stebėtojų tarybą. Iki šio įstatymo įsigaliojimo išrinkta valdyba ar stebėtojų taryba savo funkcijas atlieka iki kadencijos, kuriai ji buvo išrinkta, pabaigos arba iki bus išrinkta nauja valdyba ar stebėtojų taryba. ^s-6cefd8a1c7b82615c43f27e7
 
 
 

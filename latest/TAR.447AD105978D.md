@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.447AD105978D"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-03-09"
 latest_path: "latest/TAR.447AD105978D.md"
 latest_sha256: "f0d89b5264ba84d8c80902a97446f3730abd2cf0afe9f083080b5e991d2793b5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.447AD105978D]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.447AD105978D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.447AD105978D
+- Ryšiai: [[Ryšiai/TAR.447AD105978D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 6 dalies pakeitimas ^s-285b852a3f747988dce895a8
 
 
 16 straipsnio 6 dalyje po žodžių „Statistikos departamento“ įrašyti žodžius „prie Lietuvos Respublikos Vyriausybės“, vietoj žodžių „skelbiamo praėjusio mėnesio“ įrašyti žodžius „paskelbto užpraeito ketvirčio šalies ūkio“, po žodžio „vidutinio“ įrašyti žodį „mėnesinio“ ir šią dalį išdėstyti taip:

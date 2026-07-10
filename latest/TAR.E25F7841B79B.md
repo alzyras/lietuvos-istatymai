@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E25F7841B79B"
 pavadinimas: "Lietuvos Respublikos nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 22 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 22 ir 27 straipsnių pakeitimo įstatymas"
+  - "nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 22 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.E25F7841B79B.md"
 latest_sha256: "d0b73dbca367b2d20a64af24dac0f7862aca31f42ea713cdabec2d945e138ae4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E25F7841B79B]]"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 22 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E25F7841B79B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E25F7841B79B
+- Ryšiai: [[Ryšiai/TAR.E25F7841B79B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas ^s-64ec6edca9cbcd908f4ef6e7
 
 
 2 straipsnio 4 dalyje išbraukti žodžius „apskrities viršininko ar“, vietoj žodžio „mero“ įrašyti žodžius „administracijos direktoriaus“ ir šią dalį išdėstyti taip:
@@ -45,20 +50,20 @@ Vilnius
 
 
 
-### 2 straipsnis. 13 straipsnio pakeitimas
+### 2 straipsnis. 13 straipsnio pakeitimas ^s-20230e939bf8d29b5d5028da
 
 
-1. 13 straipsnio 3 punktą pripažinti netekusiu galios. ^8aed8ed05dd65fac59fc1f4c
+1. 13 straipsnio 3 punktą pripažinti netekusiu galios. ^s-d3bc6cbac76e01d720b9cb67
 
 
-2. Buvusį 4 punktą laikyti 3 punktu, jame vietoj žodžio „merai“ įrašyti žodžius „administracijų direktoriai“ ir šį punktą išdėstyti taip: ^0bd887e4619a2b048879b448
+2. Buvusį 4 punktą laikyti 3 punktu, jame vietoj žodžio „merai“ įrašyti žodžius „administracijų direktoriai“ ir šį punktą išdėstyti taip: ^s-91477770aff81ba8d6ce7e76
 
 
 „3) savivaldybių administracijų direktoriai.“
 
 
 
-### 3 straipsnis. 14 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 14 straipsnio 4 dalies pakeitimas ^s-f5ac261603260687dd5f492c
 
 
 14 straipsnio 4 dalyje išbraukti žodžius „apskrities viršininkams, savivaldybių merams“ ir šią dalį išdėstyti taip:
@@ -68,7 +73,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 15 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 15 straipsnio 5 dalies pakeitimas ^s-a16193eb9b9258ea97129c40
 
 
 15 straipsnio 5 dalyje išbraukti žodžius „apskričių viršininkams ir“, vietoj žodžio „merams“ įrašyti žodžius „administracijų direktoriams“ ir šią dalį išdėstyti taip:
@@ -78,7 +83,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 16 straipsnio pakeitimas
+### 5 straipsnis. 16 straipsnio pakeitimas ^s-458e1ed737f3a537c6386c6f
 
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
@@ -88,26 +93,26 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 „16 straipsnis. Savivaldybės administracijos direktorius
 
 
-1. Šio Įstatymo normų vykdymą savivaldybėse užtikrina ir už tai yra tiesiogiai atsakingi savivaldybių administracijų direktoriai. ^20cfae3d4e21e8414a069866
+1. Šio Įstatymo normų vykdymą savivaldybėse užtikrina ir už tai yra tiesiogiai atsakingi savivaldybių administracijų direktoriai. ^s-740d1e0371bc3382f3c2e52d
 
 
-2. Savivaldybės administracijos direktorius įgyvendina institucijos, atsakingos už ekstremalių situacijų valdymą nurodytose vietose, nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir taiko kitas nepaprastosios padėties priemones. ^8819e94f71bb9fa8532c4c22
+2. Savivaldybės administracijos direktorius įgyvendina institucijos, atsakingos už ekstremalių situacijų valdymą nurodytose vietose, nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir taiko kitas nepaprastosios padėties priemones. ^s-8bcc136891fc9f0460b3515c
 
 
-3. Savivaldybių administracijų direktorių veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas ar jo įgaliotas asmuo. ^5ba0cee2c3c3c30a1d8b084b
+3. Savivaldybių administracijų direktorių veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas ar jo įgaliotas asmuo. ^s-82b27590149f04ffdb0a783c
 
 
-4. Savivaldybės administracijos direktoriaus teisėti nurodymai ir įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms savivaldybės teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams ir juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai savivaldybių administracijų direktoriams yra privalomi. ^80dc6411c18f1e04669877f2
+4. Savivaldybės administracijos direktoriaus teisėti nurodymai ir įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms savivaldybės teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams ir juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai savivaldybių administracijų direktoriams yra privalomi. ^s-acfccf3428efc583c55fc8d8
 
 
-5. Asmenys, nevykdantys teisėtų savivaldybės administracijos direktoriaus nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka. ^c54a31921f58c89c49fec434
+5. Asmenys, nevykdantys teisėtų savivaldybės administracijos direktoriaus nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka. ^s-ab1876a8c6847d86fdbbe3d9
 
 
-6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, savivaldybių administracijų direktoriai turi teisę išduoti specialius leidimus, taip pat nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.“ ^37d87e5cbb21c0fd4f5f138b
+6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, savivaldybių administracijų direktoriai turi teisę išduoti specialius leidimus, taip pat nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.“ ^s-ba5ed0ff2f65c39267f7e486
 
 
 
-### 6 straipsnis. 21 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 21 straipsnio 3 dalies pakeitimas ^s-0c099cbc8f19fe33b39bf674
 
 
 21 straipsnio 3 dalyje išbraukti žodžius „apskričių viršininkai ir“, vietoj žodžio „merai“ įrašyti žodžius „administracijų direktoriai“ ir šią dalį išdėstyti taip:
@@ -117,7 +122,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 22 straipsnio pakeitimas
+### 7 straipsnis. 22 straipsnio pakeitimas ^s-5bc764392c69dc3d322102e8
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -127,14 +132,14 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 „22 straipsnis. Laisvės kilnotis apribojimas
 
 
-1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos, – savivaldybių administracijų direktoriai. ^f3df1678f4b644400178b4d9
+1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos, – savivaldybių administracijų direktoriai. ^s-564f90ac9c0775dd9bccbda0
 
 
-2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnams.“ ^6d13b15181be0c7839bb5e2e
+2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnams.“ ^s-c59e93bd26e21a68a14c7f83
 
 
 
-### 8 straipsnis. 27 straipsnio pakeitimas
+### 8 straipsnis. 27 straipsnio pakeitimas ^s-e84faed20e4ae271328df65d
 
 
 27 straipsnyje išbraukti žodžius „apskričių viršininkai ir“, vietoj žodžio „merai“ įrašyti žodžius „administracijų direktoriai“ ir šį straipsnį išdėstyti taip:
@@ -148,13 +153,13 @@ Vyriausiasis komendantas ar komendantai pagal savo kompetenciją nepaprastosios 
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-53d0a8216d5ff306a9b7e67e
 
 
-1. Šis įstatymas, išskyrus [[#^67ce34ff8818cc6566a8943b|šio straipsnio 2 dalį]], įsigalioja 2010 m. liepos 1 d. ^acb71ee1d4190b36a84a78b1
+1. Šis įstatymas, išskyrus [[#^s-125b2f31648b6ae3d244cfdc|šio straipsnio 2 dalį]], įsigalioja 2010 m. liepos 1 d. ^s-73337b43cffdd0c3902e82f8
 
 
-2. Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^67ce34ff8818cc6566a8943b
+2. Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-125b2f31648b6ae3d244cfdc
 
 
 

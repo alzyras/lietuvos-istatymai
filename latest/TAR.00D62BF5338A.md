@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.00D62BF5338A"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-17"
 latest_path: "latest/TAR.00D62BF5338A.md"
 latest_sha256: "904ba5223a25b3b0c7584b83dae3846249db17a893e6bf015c52177a84ebfe24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.00D62BF5338A]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.00D62BF5338A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.00D62BF5338A
+- Ryšiai: [[Ryšiai/TAR.00D62BF5338A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-52863b35ad737103b0be82d7
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:

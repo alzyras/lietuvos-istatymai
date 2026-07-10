@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3B0F01DB6EE1"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų įstatymo 11, 15 ir 20 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų įstatymo 11, 15 ir 20 straipsnių pakeitimo įstatymas"
+  - "azartinių lošimų įstatymo 11, 15 ir 20 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.3B0F01DB6EE1.md"
 latest_sha256: "ff14daf3ef546aa8839ac3ae073fee222f5e0604c60a40ca289b76802354cdc6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3B0F01DB6EE1]]"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 11, 15 ir 20 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3B0F01DB6EE1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3B0F01DB6EE1
+- Ryšiai: [[Ryšiai/TAR.3B0F01DB6EE1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-c07e6e6300be69d5d517010c
 
 
 11 straipsnio 1 dalyje vietoj žodžių „kurie buvo teisti“ įrašyti žodžius „turintys neišnykusį arba nepanaikintą teistumą“, po žodžio „sunkius“ įrašyti žodžius „ir labai sunkius“, vietoj žodžių „ūkininkavimo tvarkai ar finansams“ įrašyti žodžius „turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 15 straipsnio 1 dalies 2 punkto pakeitimas
+### 2 straipsnis. 15 straipsnio 1 dalies 2 punkto pakeitimas ^s-c2f05319955454ed934a4fe1
 
 
 15 straipsnio 1 dalies 2 punkte vietoj žodžių „kvotėjams, tardytojams“ įrašyti žodžius „ikiteisminio tyrimo pareigūnams“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 20 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 20 straipsnio 4 dalies pakeitimas ^s-39ed6f42931b0f81cd7a39dc
 
 
 20 straipsnio 4 dalyje vietoj žodžių „kvotėjams, tardytojams“ įrašyti žodžius „ikiteisminio tyrimo pareigūnams“ ir šią dalį išdėstyti taip:
@@ -61,10 +66,10 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-77e6ca1bfe3987cd699ef1b8
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

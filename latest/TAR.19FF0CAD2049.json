@@ -11,7 +11,7 @@
   "latest_revision": "2004-08-14",
   "latest_sha256": "bea8645990101b210f33cdf627c58a655fdf71b7921c52ed40d3f6e591b432fa",
   "metadata_path": "latest/TAR.19FF0CAD2049.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

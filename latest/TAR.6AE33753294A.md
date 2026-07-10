@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6AE33753294A"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-28"
 latest_path: "latest/TAR.6AE33753294A.md"
 latest_sha256: "f88fd57cae171ee2ea464665f7051b755e18bb5e9e7635e56f373feb4951f560"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6AE33753294A]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6AE33753294A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6AE33753294A
+- Ryšiai: [[Ryšiai/TAR.6AE33753294A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas ^s-45bac1ac5631420e4d8368dd
 
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:

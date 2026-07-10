@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.589B558A2903"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 ir 21 straipsnių pakeitimo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-25"
 latest_path: "latest/TAR.589B558A2903.md"
 latest_sha256: "de2db8aee286b93f8833c05bd1f1fab10af12017d55888d978706b2ead53518d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.589B558A2903]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.589B558A2903.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.589B558A2903
+- Ryšiai: [[Ryšiai/TAR.589B558A2903|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-fcb73963705c7ed54f9ed9c2
 
 
 10 straipsnio 4 dalyje vietoj datos „2002 m. liepos 1 d.“ įrašyti datą „2003 m. liepos 1 d.“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 21 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 21 straipsnio 3 dalies pakeitimas ^s-120b6c8871291b78367257e7
 
 
 Pakeisti ir papildyti 21 straipsnio 3 dalį ir ją išdėstyti taip:

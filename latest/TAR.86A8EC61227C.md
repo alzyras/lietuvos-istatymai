@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.86A8EC61227C"
 pavadinimas: "Lietuvos Respublikos centrinės kredito unijos įstatymo 58 straipsnio ir priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos centrinės kredito unijos įstatymo 58 straipsnio ir priedo papildymo įstatymas"
+  - "centrinės kredito unijos įstatymo 58 straipsnio ir priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-31"
 latest_path: "latest/TAR.86A8EC61227C.md"
 latest_sha256: "5624d2570f95e77310310cd9875f8bc2b128d507cceb03679b408cd461a1df3a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.86A8EC61227C]]"
 ---
 # Lietuvos Respublikos centrinės kredito unijos įstatymo 58 straipsnio ir priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.86A8EC61227C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.86A8EC61227C
+- Ryšiai: [[Ryšiai/TAR.86A8EC61227C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 58 straipsnio papildymas 5 dalimi
+### 1 straipsnis. 58 straipsnio papildymas 5 dalimi ^s-4761aa674662600cd908cfe7
 
 
 Papildyti 58 straipsnį 5 dalimi:
@@ -43,7 +48,7 @@ Papildyti 58 straipsnį 5 dalimi:
 
 
 
-### 2 straipsnis. Įstatymo priedo papildymas 5 punktu
+### 2 straipsnis. Įstatymo priedo papildymas 5 punktu ^s-53a1559d278e8013e4bf2ceb
 
 
 Papildyti Įstatymo priedą 5 punktu:
@@ -53,7 +58,7 @@ Papildyti Įstatymo priedą 5 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-1f0c2608cc2b543a52574729
 
 
 Šis įstatymas įsigalioja 2010 m. gruodžio 31 d.

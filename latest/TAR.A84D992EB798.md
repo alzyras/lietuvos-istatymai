@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A84D992EB798"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 182 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 182 straipsnio pakeitimo įstatymas"
+  - "draudimo įstatymo 182 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-15"
 latest_path: "latest/TAR.A84D992EB798.md"
 latest_sha256: "94d37ecbabcba32bd301d9acd45353038b33a2d20c8c735391e2bbf72a4dd65e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A84D992EB798]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 182 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A84D992EB798.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A84D992EB798
+- Ryšiai: [[Ryšiai/TAR.A84D992EB798|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 182 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 182 straipsnio 5 dalies pakeitimas ^s-edec1a71c40672e038f4d745
 
 
 182 straipsnio 5 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:

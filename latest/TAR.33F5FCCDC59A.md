@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.33F5FCCDC59A"
 pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 4(1) straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekybinės laivybos įstatymo 4(1) straipsnio pripažinimo netekusiu galios įstatymas"
+  - "prekybinės laivybos įstatymo 4(1) straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-01"
 latest_path: "latest/TAR.33F5FCCDC59A.md"
 latest_sha256: "abe7eddb680c742572dab3fbe9f622de6518d9d172d70451ae61c0d6f516a087"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.33F5FCCDC59A]]"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 4(1) straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.33F5FCCDC59A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.33F5FCCDC59A
+- Ryšiai: [[Ryšiai/TAR.33F5FCCDC59A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,24 +38,24 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 41 straipsnio pripažinimas netekusiu galios ^s-049625e6b46f2eb01cb0ce47
 
 
 41 straipsnį pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Pasiūlymas Vyriausybei
+### 2 straipsnis. Pasiūlymas Vyriausybei ^s-a629a5e0a837da1f410f0597
 
 
 Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo dienos parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-b1d592d70b1a5f2bf74c11a2
 
 
-Šis įstatymas, išskyrus [[#2 straipsnis. Pasiūlymas Vyriausybei|2 straipsnį]], įsigalioja 2008 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-a629a5e0a837da1f410f0597|2 straipsnį]], įsigalioja 2008 m. liepos 1 d.
 
 
 

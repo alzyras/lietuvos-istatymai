@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4A6B5DC1000A"
 pavadinimas: "Lietuvos Respublikos ir Armėnijos Respublikos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Armėnijos Respublikos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas"
+  - "ir Armėnijos Respublikos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-20"
 latest_path: "latest/TAR.4A6B5DC1000A.md"
 latest_sha256: "1dce4c41ffb32ff63ad25ccbc43bfb9e7163ee5723a5d833c920ce6c2237cd08"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4A6B5DC1000A]]"
 ---
 # Lietuvos Respublikos ir Armėnijos Respublikos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4A6B5DC1000A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4A6B5DC1000A
+- Ryšiai: [[Ryšiai/TAR.4A6B5DC1000A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-5fc638ce9e3219642c1eb155
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. spalio 10 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Armėnijos Respublikos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos“, ratifikuoja Lietuvos Respublikos ir Armėnijos Respublikos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2000 m. kovo 13 d. Vilniuje.

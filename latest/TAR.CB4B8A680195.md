@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CB4B8A680195"
 pavadinimas: "Lietuvos Respublikos prokuratūros įstatymo 50 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prokuratūros įstatymo 50 straipsnio pakeitimo įstatymas"
+  - "prokuratūros įstatymo 50 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.CB4B8A680195.md"
 latest_sha256: "43c06f17f773cb420b335f106e680661758dbbedcf09b96d15b010c53d87eeea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CB4B8A680195]]"
 ---
 # Lietuvos Respublikos prokuratūros įstatymo 50 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CB4B8A680195.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CB4B8A680195
+- Ryšiai: [[Ryšiai/TAR.CB4B8A680195|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,44 +36,44 @@ Vilnius
 
 
 
-### 1 straipsnis. 50 straipsnio 6 ir 8 dalių pakeitimas
+### 1 straipsnis. 50 straipsnio 6 ir 8 dalių pakeitimas ^s-830dab19c05d33e47a09346a
 
 
-1. Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip: ^f26d731d3c64ea80b432059a
+1. Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip: ^s-a88462f8fbc2ae8900b08f1e
 
 
 „6. Prokurorams gali būti suteikiamos šios tikslinės atostogos:
 
 
-1) nemokamos atostogos; ^d140e5115bdfbb4500b58e31
+1) nemokamos atostogos; ^s-bad11fef7841a55494df56b7
 
 
-2) nėštumo ir gimdymo atostogos; ^664fd42832dcc5f1c5cbcdbb
+2) nėštumo ir gimdymo atostogos; ^s-726287d820536a652b9c4f9d
 
 
-3) tėvystės atostogos; ^dedf762a202a1fbbb5f00ba3
+3) tėvystės atostogos; ^s-b9277a3da604ecf0fa9e8d35
 
 
-4) atostogos vaikui prižiūrėti, kol jam sueis treji metai; ^408db70b7a6e5b5c0f23f33e
+4) atostogos vaikui prižiūrėti, kol jam sueis treji metai; ^s-08bdc449a9d55cb65fb67a23
 
 
-5) mokymosi atostogos; ^b79957f87d2953db2d5c3990
+5) mokymosi atostogos; ^s-b80dfef73ea1fdf47b57cee3
 
 
-6) kvalifikacijos kėlimo atostogos; ^3d54b8ea1e5291dd1749c246
+6) kvalifikacijos kėlimo atostogos; ^s-865905c6d718cd82342d91ee
 
 
-7) atostogos dėl gyvenamosios vietos pakeitimo.“ ^b0864db28b3b1194ce8421d0
+7) atostogos dėl gyvenamosios vietos pakeitimo.“ ^s-65a35beffabf48373ffae8dd
 
 
-2. Pakeisti 50 straipsnio 8 dalį ir ją išdėstyti taip: ^f60ff8c1e0173983ffe688f4
+2. Pakeisti 50 straipsnio 8 dalį ir ją išdėstyti taip: ^s-f3975b8f0ab8cce91ec64744
 
 
 „8. Nėštumo ir gimdymo atostogos, tėvystės atostogos, atostogos vaikui prižiūrėti, kol jam sueis treji metai, mokymosi atostogos suteikiamos Darbo kodekso nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d53d3a2cfa8a3475026aec42
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

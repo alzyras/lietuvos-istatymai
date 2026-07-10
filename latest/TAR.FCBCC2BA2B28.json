@@ -11,7 +11,7 @@
   "latest_revision": "2004-02-14",
   "latest_sha256": "c5785f6c5009867c3a98a829ac044f429ca9d7d4b1c5a15a31db20717f13638e",
   "metadata_path": "latest/TAR.FCBCC2BA2B28.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

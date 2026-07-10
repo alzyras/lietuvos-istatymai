@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6E0E56179DD1"
 pavadinimas: "Dėl Lietuvos Respublikos biudžetinių įstaigų įstatymo įgyvendinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos biudžetinių įstaigų įstatymo įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-22"
 latest_path: "latest/TAR.6E0E56179DD1.md"
 latest_sha256: "33d053fa23161a45c544c893a9c96b2e4a6369f43da1d6afdb54f587e6cad2c9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6E0E56179DD1]]"
 ---
 # Dėl Lietuvos Respublikos biudžetinių įstaigų įstatymo įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6E0E56179DD1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6E0E56179DD1
+- Ryšiai: [[Ryšiai/TAR.6E0E56179DD1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9499A209C925"
 pavadinimas: "Lietuvos Respublikos muitinės įstatymo 79 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos muitinės įstatymo 79 straipsnio pakeitimo įstatymas"
+  - "muitinės įstatymo 79 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-12-03"
 latest_path: "latest/TAR.9499A209C925.md"
 latest_sha256: "85d2c55c69f755dd56aa6106cb07621181f3a40cc2d544e665a2a9d1edc0350e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9499A209C925]]"
 ---
 # Lietuvos Respublikos muitinės įstatymo 79 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9499A209C925.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9499A209C925
+- Ryšiai: [[Ryšiai/TAR.9499A209C925|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 79 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 79 straipsnio 1 dalies pakeitimas ^s-0ab91b097113088ff914d019
 
 
 Pakeisti 79 straipsnio 1 dalį ir ją išdėstyti taip:

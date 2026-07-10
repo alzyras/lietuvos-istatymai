@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5DD88EF16D2B"
 pavadinimas: "Lietuvos Respublikos Konstitucinio Teismo įstatymo 55 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucinio Teismo įstatymo 55 straipsnio pakeitimo įstatymas"
+  - "Konstitucinio Teismo įstatymo 55 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-11-23"
 latest_path: "latest/TAR.5DD88EF16D2B.md"
 latest_sha256: "0b1d8ca4d0d48a9ce15ca0ffb00328c9b6eb9bfeeea607277679ed5ae8f75476"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5DD88EF16D2B]]"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 55 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5DD88EF16D2B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5DD88EF16D2B
+- Ryšiai: [[Ryšiai/TAR.5DD88EF16D2B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 55 straipsnio pakeitimas
+### 1 straipsnis. 55 straipsnio pakeitimas ^s-5b1cb5fde97fd19db50b3525
 
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:

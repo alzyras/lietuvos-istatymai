@@ -1,0 +1,16 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.DFEE6DFF0FC3"
+pavadinimas: "Lietuvos Respublikos įstatymas dėl Protokolo prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildančio Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą, ratifikavimo"
+---
+# Lietuvos Respublikos įstatymas dėl Protokolo prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildančio Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą, ratifikavimo: ryšiai
+
+- [[latest/TAR.DFEE6DFF0FC3|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/25125720a67811ef90b5ee8931e5ce5e|Lietuvos Respublikos įstatymo „Dėl Protokolo prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildančio Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą, ratifikavimo“ Nr. IX-2020 1 straipsnio pakeitimo ir 3 straipsnio pripažinimo netekusiu galios įstatymas]] - Įstatymas Nr. XIV-3108
+
+## Šį įstatymą cituoja
+
+_Nėra._

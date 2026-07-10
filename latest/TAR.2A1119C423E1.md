@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2A1119C423E1"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-23"
 latest_path: "latest/TAR.2A1119C423E1.md"
 latest_sha256: "66355848266f130cc093a3ebf5fad0b96fddcf009d873059e14c094cf5baa14e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2A1119C423E1]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2A1119C423E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2A1119C423E1
+- Ryšiai: [[Ryšiai/TAR.2A1119C423E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio IV skirsnio 6 punkto pakeitimas
+### 1 straipsnis. Įstatymo priedėlio IV skirsnio 6 punkto pakeitimas ^s-6b02663b092de84417418cbb
 
 
 Įstatymo priedėlio IV skirsnio 6 punkte po žodžių „Žurnalistų etikos inspektorius“ įrašyti žodžius „akademinės etikos ir procedūrų kontrolierius“ ir šį punktą išdėstyti taip:
@@ -48,7 +53,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas
+### 2 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas ^s-03c18d0fce4776bf5b9a7af9
 
 
 Įstatymo priedėlio IV skirsnio 7 punkte po žodžių „Konkurencijos tarybos“ įrašyti žodžius „Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos“ ir šį punktą išdėstyti taip:

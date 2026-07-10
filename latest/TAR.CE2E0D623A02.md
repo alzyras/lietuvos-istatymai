@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CE2E0D623A02"
 pavadinimas: "Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 3, 4, 7 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 3, 4, 7 straipsnių pakeitimo ir papildymo įstatymas"
+  - "išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 3, 4, 7 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.CE2E0D623A02.md"
 latest_sha256: "b0d29247a7de0f293cde671200be712edfd6425e4542bba3b9fb65112615de24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CE2E0D623A02]]"
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 3, 4, 7 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CE2E0D623A02.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CE2E0D623A02
+- Ryšiai: [[Ryšiai/TAR.CE2E0D623A02|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,17 +37,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 ir 4 dalių pakeitimas
+### 1 straipsnis. 3 straipsnio 3 ir 4 dalių pakeitimas ^s-7361fda126b71f3f300d36a8
 
 
-1. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip: ^5e3a0bb6ed8c798fb098a48a
+1. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f2f7764c54b06c312dede012
 
 
 „3. Papildyti 12 straipsnį 10 dalimi:
 „10. Šeimos vidutinės mėnesio pajamos išmokai vaikui gauti apskaičiuojamos pagal praėjusių kalendorinių metų iki teisės gauti išmoką atsiradimo dienos pajamas, nustatytas Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 15 straipsnyje. Jei pagal praėjusių kalendorinių metų šeimos vidutines mėnesio pajamas šeima neturėjo teisės gauti išmokos vaikui, šeimos pajamoms sumažėjus, šeimos vidutinės mėnesio pajamos išmokai vaikui gauti apskaičiuojamos pagal praėjusių 12 kalendorinių mėnesių iki kreipimosi dėl išmokos mėnesio pajamas. Jei šeima gauna socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą, išmoka vaikui skiriama pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant socialinę paramą.“
 
 
-2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^8de26d5e41d451cd3d06ceb9
+2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^s-1105931c08dc1f98fce7864c
 
 
 „4. Papildyti 12 straipsnį 11 dalimi:
@@ -50,7 +55,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-ecc64bee8eb94269af11a271
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
@@ -65,7 +70,7 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 7 straipsnio papildymas 4 dalimi
+### 3 straipsnis. 7 straipsnio papildymas 4 dalimi ^s-30518df6ce3774535b36172e
 
 
 Papildyti 7 straipsnį 4 dalimi:

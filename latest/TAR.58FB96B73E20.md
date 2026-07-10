@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.58FB96B73E20"
 pavadinimas: "Lietuvos Respublikos centrinės kredito unijos įstatymo 9, 11, 17 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos centrinės kredito unijos įstatymo 9, 11, 17 straipsnių pakeitimo ir papildymo įstatymas"
+  - "centrinės kredito unijos įstatymo 9, 11, 17 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-05"
 latest_path: "latest/TAR.58FB96B73E20.md"
 latest_sha256: "b29fa32c4c76ead51ab139d5d1b6eecb67d373ea997e1fd8c04ccb05cbc28b7a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.58FB96B73E20]]"
 ---
 # Lietuvos Respublikos centrinės kredito unijos įstatymo 9, 11, 17 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.58FB96B73E20.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.58FB96B73E20
+- Ryšiai: [[Ryšiai/TAR.58FB96B73E20|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 5 dalies 1 punkto pakeitimas
+### 1 straipsnis. 9 straipsnio 5 dalies 1 punkto pakeitimas ^s-9e5122c9f7f1a03b85699aa4
 
 
 9 straipsnio 5 dalies 1 punkte išbraukti žodžius „ir Centrinės kredito unijos registravimo pažymėjimą“ ir šį punktą išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio 1 dalies 1 punkto pakeitimas
+### 2 straipsnis. 11 straipsnio 1 dalies 1 punkto pakeitimas ^s-196547fd4edea22e89dd5d90
 
 
 11 straipsnio 1 dalies 1 punkte išbraukti žodžius „ar buveinės“ ir šį punktą išdėstyti taip:
@@ -52,16 +57,16 @@ Vilnius
 
 
 
-### 3 straipsnis. 17 straipsnio 3 dalies papildymas ir pakeitimas
+### 3 straipsnis. 17 straipsnio 3 dalies papildymas ir pakeitimas ^s-ab627656679f2b13ae8f5868
 
 
-1. Papildyti 17 straipsnio 3 dalį nauju 1 punktu: ^372a8df5a4b89081e6552640
+1. Papildyti 17 straipsnio 3 dalį nauju 1 punktu: ^s-74c2451ead4c2c49faab9740
 
 
 „1) keičia Centrinės kredito unijos buveinę;“.
 
 
-2. Buvusius 17 straipsnio 3 dalies 1, 2, 3, 4, 5, 6, 7, 8 ir 9 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9 ir 10 punktais. ^16f70e3690c453f3ce00b3a8
+2. Buvusius 17 straipsnio 3 dalies 1, 2, 3, 4, 5, 6, 7, 8 ir 9 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9 ir 10 punktais. ^s-dab15697fc1d6eeb63bd0db8
 
 
 

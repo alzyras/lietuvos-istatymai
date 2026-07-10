@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C6A6615D7CAE"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Vengrijos Respublikos sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Vengrijos Respublikos sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos ir Vengrijos Respublikos sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-16"
 latest_path: "latest/TAR.C6A6615D7CAE.md"
 latest_sha256: "9f9cb1cc97e275709a0533ed34db2f112dbdd11d5e593c1efca93537b2ff40ca"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C6A6615D7CAE]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Vengrijos Respublikos sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C6A6615D7CAE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C6A6615D7CAE
+- Ryšiai: [[Ryšiai/TAR.C6A6615D7CAE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-c7f74b791de6522934674a13
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 16 d. dekretą Nr. 2021, ratifikuoja Lietuvos Respublikos ir Vengrijos Respublikos sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1999 m. gegužės 25 d. Budapešte.

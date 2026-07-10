@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.724BFD86FF78"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumo ratifikavimo"
+  - "įstatymas dėl Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-17"
 latest_path: "latest/TAR.724BFD86FF78.md"
 latest_sha256: "07868e455ab441051fb0a3828fd46e1c79d9e4da1234023905e3b13f7f0e8248"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.724BFD86FF78]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.724BFD86FF78.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.724BFD86FF78
+- Ryšiai: [[Ryšiai/TAR.724BFD86FF78|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Supratimo memorandumo ratifikavimas
+### 1 straipsnis. Supratimo memorandumo ratifikavimas ^s-191139c9c197b0251826b7bb
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1553, ratifikuoja Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumą, pasirašytą 1998 m. rugpjūčio 25–27 d. (Rione redakcija).

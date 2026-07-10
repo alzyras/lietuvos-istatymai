@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/57fdc6b0a09311eea5a28c81c82193a8.md",
   "latest_revision": "2024-04-01",
-  "latest_sha256": "f52af2497cda6a993bae3c0a12499fbcda435ef3fa740334ce4eaa9e39f3e908",
+  "latest_sha256": "e8a6d88a45c83eb5e4ae2d02624888967c1b5cc2133485ef29e293846a9fcadd",
   "metadata_path": "latest/57fdc6b0a09311eea5a28c81c82193a8.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

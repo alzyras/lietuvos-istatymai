@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.77F5BCC514DC"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 86 straipsnio papildymo ir 89, 119 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 86 straipsnio papildymo ir 89, 119 straipsnių pakeitimo įstatymas"
+  - "viešųjų pirkimų įstatymo 86 straipsnio papildymo ir 89, 119 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-11-08"
 latest_path: "latest/TAR.77F5BCC514DC.md"
 latest_sha256: "a3e9158191491ae83484b94f0b6cb6cd100652b04a3adeb46cae9c80f6b43b9e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.77F5BCC514DC]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 86 straipsnio papildymo ir 89, 119 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.77F5BCC514DC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.77F5BCC514DC
+- Ryšiai: [[Ryšiai/TAR.77F5BCC514DC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 86 straipsnio 13 dalies papildymas 6 punktu
+### 1 straipsnis. 86 straipsnio 13 dalies papildymas 6 punktu ^s-2b3443e63d7c89c67a446ded
 
 
 Papildyti 86 straipsnio 13 dalį 6 punktu:
@@ -45,7 +50,7 @@ Papildyti 86 straipsnio 13 dalį 6 punktu:
 
 
 
-### 2 straipsnis. 89 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 89 straipsnio 1 dalies pakeitimas ^s-efb34f563b8b0cf213d1bfcf
 
 
 Pakeisti 89 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 89 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 119 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 119 straipsnio 1 dalies pakeitimas ^s-925d9bcb81bb366c7d79fe8d
 
 
 Pakeisti 119 straipsnio 1 dalį ir ją išdėstyti taip:

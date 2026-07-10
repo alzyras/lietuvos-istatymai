@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A1880B9DFB79"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl jaunimo bendradarbiavimo ir mainų ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl jaunimo bendradarbiavimo ir mainų ratifikavimo įstatymas"
+  - "Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl jaunimo bendradarbiavimo ir mainų ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-11-21"
 latest_path: "latest/TAR.A1880B9DFB79.md"
 latest_sha256: "f6ee6451b6c3be8864c699c21bac48482e77ce6083aadc0f883ca17ca16c5e90"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A1880B9DFB79]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl jaunimo bendradarbiavimo ir mainų ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A1880B9DFB79.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A1880B9DFB79
+- Ryšiai: [[Ryšiai/TAR.A1880B9DFB79|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-255203b2641ac8a30c1d3a82
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 10 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl jaunimo bendradarbiavimo ir mainų“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl jaunimo bendradarbiavimo ir mainų, pasirašytą 1997 m. vasario 14 d. Alytuje.

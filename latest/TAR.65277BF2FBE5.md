@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.65277BF2FBE5"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 3 ir 30 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 3 ir 30 straipsnių pakeitimo įstatymas"
+  - "aplinkos apsaugos valstybinės kontrolės įstatymo 3 ir 30 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-01"
 latest_path: "latest/TAR.65277BF2FBE5.md"
 latest_sha256: "db7ba3b57db79e2a5901b5216969e6bde6bb193470f24f82dc7c086eb434cd98"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.65277BF2FBE5]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 3 ir 30 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.65277BF2FBE5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.65277BF2FBE5
+- Ryšiai: [[Ryšiai/TAR.65277BF2FBE5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 9 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 9 punkto pakeitimas ^s-ebcca77f4840eda436c11700
 
 
 Pakeisti 3 straipsnio 9 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 3 straipsnio 9 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 30 straipsnio pakeitimas
+### 2 straipsnis. 30 straipsnio pakeitimas ^s-dcd5a3ce781b63e9155441d3
 
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
@@ -57,7 +62,7 @@ Jeigu aplinkai kenksmingą veiklą vykdo fizinis ar juridinis asmuo, kuriam yra 
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-190edd50d53ed4b39a28da0e
 
 
 Šis įstatymas įsigalioja 2013 m. birželio 1 d.

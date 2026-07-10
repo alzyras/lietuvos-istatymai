@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9ED7839A3CAD"
 pavadinimas: "Lietuvos Respublikos audito įstatymo 47 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos audito įstatymo 47 straipsnio pakeitimo įstatymas"
+  - "audito įstatymo 47 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-10-26"
 latest_path: "latest/TAR.9ED7839A3CAD.md"
 latest_sha256: "906edbc179211e60974df52511c3f192e250ae4fdeb854a817a33a16c2120d67"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9ED7839A3CAD]]"
 ---
 # Lietuvos Respublikos audito įstatymo 47 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9ED7839A3CAD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9ED7839A3CAD
+- Ryšiai: [[Ryšiai/TAR.9ED7839A3CAD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis.  47 straipsnio 3 dalies pakeitimas
+### 1 straipsnis.  47 straipsnio 3 dalies pakeitimas ^s-fd428167d87efdca62ccc36a
 
 
 47 straipsnio 3 dalyje išbraukti žodžius „per 1 metus nuo šio įstatymo įsigaliojimo dienos. Asmenys, neišlaikę egzaminų per nurodytą laikotarpį, galės juos laikyti tik įvykdę šio įstatymo 5 straipsnio 6 dalies 2 punkto reikalavimus“ ir šią dalį išdėstyti taip:

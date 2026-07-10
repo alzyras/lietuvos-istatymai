@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E5179D300BC1"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 9 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 9 straipsnių papildymo ir pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 4, 5, 9 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-19"
 latest_path: "latest/TAR.E5179D300BC1.md"
 latest_sha256: "9370ef2c8680f82818bfac6a2caf50e2ffad06e0ab221438988c1e4f050f75fe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E5179D300BC1]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 9 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E5179D300BC1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E5179D300BC1
+- Ryšiai: [[Ryšiai/TAR.E5179D300BC1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas
+### 1 straipsnis. 4 straipsnio papildymas ^s-88d16decc77b6e7bc6526d58
 
 
 Papildyti 4 straipsnį 4 dalimi:
@@ -41,26 +46,26 @@ Papildyti 4 straipsnį 4 dalimi:
 
 
 
-### 2 straipsnis. 5 straipsnio papildymas
+### 2 straipsnis. 5 straipsnio papildymas ^s-834fd389fbcbd7212b7827f7
 
 
-1. Papildyti 5 straipsnį nauja 5 dalimi: ^a6ee5ec6ddaeedc5bf2ed720
+1. Papildyti 5 straipsnį nauja 5 dalimi: ^s-bb2affadddd06df5e9c616d0
 
 
 „Lietuvos Nepriklausomybės Akto signatarams pirmojo laipsnio valstybinę pensiją Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos teikimu skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų skyrimo per kalendorinius metus skaičiaus.“
 
 
-2. Buvusią 5 dalį laikyti 6 dalimi. ^e3fa86f368ad31bfd6fb110e
+2. Buvusią 5 dalį laikyti 6 dalimi. ^s-d59ecb5efcc0d42ef319721e
 
 
 
-### 3 straipsnis. 9 straipsnio 2 dalies papildymas ir pakeitimas
+### 3 straipsnis. 9 straipsnio 2 dalies papildymas ir pakeitimas ^s-f85e9abc768ed57656ad1662
 
 
 9 straipsnio 2 dalies antrajame sakinyje po žodžių „pagal šio įstatymo“ įrašyti skaičius ir žodžius „4 straipsnio ketvirtąją dalį ir“, išbraukti žodžius „ar antrojo“ ir „ar tapęs invalidu“ ir šią dalį išdėstyti taip:
 
 
-„Pirmojo ar antrojo laipsnio valstybinės pensijos gavėjui mirus, skiriama valstybinė našlių ir našlaičių pensija tiems asmenims, tokiomis pačiomis sąlygomis ir gavėjui priklausiusios pensijos dalimis, kaip nurodyta Valstybinių socialinio draudimo pensijų įstatymo straipsniuose, reguliuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Ši nuostata taip pat taikoma mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio ketvirtąją dalį ir 7 straipsnį būtų turėjęs teisę gauti pirmojo laipsnio valstybinę pensiją kaip sukakęs senatvės pensijos amžių.“
+„Pirmojo ar antrojo laipsnio valstybinės pensijos gavėjui mirus, skiriama valstybinė našlių ir našlaičių pensija tiems asmenims, tokiomis pačiomis sąlygomis ir gavėjui priklausiusios pensijos dalimis, kaip nurodyta [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] straipsniuose, reguliuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Ši nuostata taip pat taikoma mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio ketvirtąją dalį ir 7 straipsnį būtų turėjęs teisę gauti pirmojo laipsnio valstybinę pensiją kaip sukakęs senatvės pensijos amžių.“
 
 
 

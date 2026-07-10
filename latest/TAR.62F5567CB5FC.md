@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.62F5567CB5FC"
 pavadinimas: "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 5, 7, 8, 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 5, 7, 8, 9 straipsnių pakeitimo įstatymas"
+  - "valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 5, 7, 8, 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-31"
 latest_path: "latest/TAR.62F5567CB5FC.md"
 latest_sha256: "51280ccfa0b8e3ce9ba1c9041f903e4a0406d6f3456c7117e4a3e310c0c58e21"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.62F5567CB5FC]]"
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 5, 7, 8, 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.62F5567CB5FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.62F5567CB5FC
+- Ryšiai: [[Ryšiai/TAR.62F5567CB5FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-2ad9effa7e38e42e629b82d9
 
 
-Pakeisti [[#5 straipsnis. Įstatymo įsigaliojimas|5 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-26bb7fa45bfd8c748847c81a|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#5 straipsnis. Įstatymo įsigaliojimas|5 straipsnis]].Vaiko globos pašalpa
+„[[#^s-26bb7fa45bfd8c748847c81a|5 straipsnis]].Vaiko globos pašalpa
 
 
 Fiziniam asmeniui, šeimynai arba nevyriausybinei globos institucijai, įstatymų nustatyta tvarka paskirtai likusio be tėvų globos vaiko globėju, šiam vaikui išlaikyti mokama 4 MGL dydžio pašalpa kiekvieną mėnesį, kol jam sukaks 18 metų.
@@ -53,7 +58,7 @@ Už valstybės išlaikomą vaiką globos pašalpa nemokama.“
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-d97783bb5bca01eee28c7626
 
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
@@ -72,7 +77,7 @@ Našlaičiams ir likusiems be tėvų globos vaikams, nesukakusiems 18 metų, kai
 
 
 
-### 3 straipsnis. 8 straipsnio pakeitimas
+### 3 straipsnis. 8 straipsnio pakeitimas ^s-ad0e5c6e7c4f750cae408f92
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
@@ -85,7 +90,7 @@ Sukakusiems 18 metų našlaičiams ir likusiems be tėvų globos vaikams, kurie 
 
 
 
-### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-55dcdb124284f4d75c8233f2
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -95,13 +100,13 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-26bb7fa45bfd8c748847c81a
 
 
-1. Šio įstatymo 1, 2, [[#4 straipsnis. 9 straipsnio 1 dalies pakeitimas|4 straipsniai]] įsigalioja nuo 1999 m. sausio 1 d., o [[#3 straipsnis. 8 straipsnio pakeitimas|3 straipsnis]] – nuo 2000 m. sausio 1 d. ^c64521f94a3b94375699d7ea
+1. Šio įstatymo 1, 2, [[#^s-55dcdb124284f4d75c8233f2|4 straipsniai]] įsigalioja nuo 1999 m. sausio 1 d., o [[#^s-ad0e5c6e7c4f750cae408f92|3 straipsnis]] – nuo 2000 m. sausio 1 d. ^s-a782ba7712e9f7694b65909c
 
 
-2. Vyriausybė arba jos įgaliota institucija iki 1999 m. spalio 1 d. parengia vienkartinės pašalpos, skirtos našlaičiams ir likusiems be tėvų globos vaikams įsikurti, išmokėjimo tvarką. ^1f827e8e93b0d5491f41b21f
+2. Vyriausybė arba jos įgaliota institucija iki 1999 m. spalio 1 d. parengia vienkartinės pašalpos, skirtos našlaičiams ir likusiems be tėvų globos vaikams įsikurti, išmokėjimo tvarką. ^s-8026f77aaa18625a534cbf05
 
 
 

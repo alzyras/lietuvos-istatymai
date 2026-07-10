@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.82C05AB8FEFC"
 pavadinimas: "Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo"
+aliases:
+  - "Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-14"
 latest_path: "latest/TAR.82C05AB8FEFC.md"
 latest_sha256: "c4f98125759bb5d4782406c9126406ffb2b8915f0921f51595e68a013030c348"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.82C05AB8FEFC]]"
 ---
 # Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.82C05AB8FEFC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.82C05AB8FEFC
+- Ryšiai: [[Ryšiai/TAR.82C05AB8FEFC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

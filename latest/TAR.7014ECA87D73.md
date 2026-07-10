@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7014ECA87D73"
 pavadinimas: "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-17"
 latest_path: "latest/TAR.7014ECA87D73.md"
 latest_sha256: "e24cc7fa606bfacd679f0c9687f355a6a3f266c80c8a69aba80d38593ccb6c1b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7014ECA87D73]]"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7014ECA87D73.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7014ECA87D73
+- Ryšiai: [[Ryšiai/TAR.7014ECA87D73|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 10 punkto pakeitimas
+### 1 straipsnis. 1 straipsnio 10 punkto pakeitimas ^s-34b996687c668125c6d7e1b2
 
 
 1 straipsnio 10 punkte vietoj datos „2002 m. liepos 1 d.“ įrašyti datą „2003 m. sausio 1 d.“ ir šį punktą išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F61ABF8F5638"
 pavadinimas: "Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas"
+aliases:
+  - "Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas"
+  - "Šiaulių laisvosios ekonominės zonos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.F61ABF8F5638.md"
 latest_sha256: "5c5887d26a9e2739de03bb71ca75a388833c8ff3742df8b26f493deecf1762b9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F61ABF8F5638]]"
 ---
 # Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F61ABF8F5638.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F61ABF8F5638
+- Ryšiai: [[Ryšiai/TAR.F61ABF8F5638|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,23 +42,23 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-e16bb985c7cec18e2d91639f
 
 
-1. Šiuo įstatymu įsteigiama Šiaulių laisvoji ekonominė zona (toliau – zona). ^e60e14118307099de1530e21
+1. Šiuo įstatymu įsteigiama Šiaulių laisvoji ekonominė zona (toliau – zona). ^s-c61e91e4646cd384a5e55e46
 
 
-2. Zonos įsteigimo tikslas – padidinti Šiaulių regiono pramoninį patrauklumą ir sudaryti palankesnes sąlygas investicijoms pritraukti, aukštųjų technologijų vystymuisi ir naujų darbo vietų kūrimui. ^60be7eb4f19ddaf67115397d
+2. Zonos įsteigimo tikslas – padidinti Šiaulių regiono pramoninį patrauklumą ir sudaryti palankesnes sąlygas investicijoms pritraukti, aukštųjų technologijų vystymuisi ir naujų darbo vietų kūrimui. ^s-cb573b812e50c6257ce52cce
 Straipsnio dalies pakeitimai:
 Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
 
 
 
-3. Zona laikoma valstybei svarbiu ekonominiu projektu. ^706768e3fadca9f913848491
+3. Zona laikoma valstybei svarbiu ekonominiu projektu. ^s-7c85b09c9e8f087895598f24
 
 
 
-### 2 straipsnis. Zonos veiklos terminas
+### 2 straipsnis. Zonos veiklos terminas ^s-17a3254bcb09ae1d2dad0175
 
 
 Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas įstatymu.
@@ -64,249 +69,249 @@ Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
 
 
 
-### 3 straipsnis. Zonos veiklos rūšys
+### 3 straipsnis. Zonos veiklos rūšys ^s-18ae1ee9a65c260464a3bbbe
 
 
-Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo (toliau – Laisvųjų ekonominių zonų pagrindų įstatymas) [[#^fccd22c01c38e0c9473f7906|8 straipsnio 1 dalyje]] nurodytas veiklos sritis.
+Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus [[latest/TAR.E79004684F4D#^s-e057427d6526ba0a1721dfcf|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo (toliau – Laisvųjų ekonominių zonų pagrindų įstatymas) 8 straipsnio 1 dalyje]] nurodytas veiklos sritis.
 
 
 
-### 4 straipsnis. Zonos teritorija
+### 4 straipsnis. Zonos teritorija ^s-8b7a0fe851a738d625a7dceb
 
 
-1. Zonos teritorija užima 218 ha. ^6f2477f2ea9e40a30d9b2408
+1. Zonos teritorija užima 218 ha. ^s-6ca792e157c2873bf74da087
 Straipsnio dalies pakeitimai:
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
 Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
 
 
 
-2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams. ^cce39ced8e637f026b151893
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]], [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymo]] ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams. ^s-760114b4695d5f04bcd56d01
 Straipsnio dalies pakeitimai:
 Nr. XII-945, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07826
 Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
 
 
 
-### 5 straipsnis. Zonos teritorijos ribos
+### 5 straipsnis. Zonos teritorijos ribos ^s-59adc7dff949450267c8eebf
 
 
 Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
 
 
 
-### 6 straipsnis. Konkurso sąlygos ir kriterijai geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti
+### 6 straipsnis. Konkurso sąlygos ir kriterijai geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti ^s-a8552181b3af8b02bb073ba3
 
 
-1. Lietuvos Respublikos Seimui priėmus įstatymą dėl zonos steigimo, Vyriausybė skelbia tarptautinį konkursą geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti. Tarptautinį konkursą organizuoja Vyriausybės įgaliota institucija, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtrauktas ne mažiau kaip vienas Šiaulių miesto savivaldybės tarybos skiriamas narys. ^f3dbfef481f029bacb38342f
+1. Lietuvos Respublikos Seimui priėmus įstatymą dėl zonos steigimo, Vyriausybė skelbia tarptautinį konkursą geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti. Tarptautinį konkursą organizuoja Vyriausybės įgaliota institucija, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtrauktas ne mažiau kaip vienas Šiaulių miesto savivaldybės tarybos skiriamas narys. ^s-fc0d3801760e2efa9780a5f7
 
 
-2. Tarptautiniame konkurse gali dalyvauti visi fiziniai ir juridiniai asmenys, taip pat juridinio asmens statuso neturinčios organizacijos ir jų padaliniai. ^821734bac417f8a3a5f83e72
+2. Tarptautiniame konkurse gali dalyvauti visi fiziniai ir juridiniai asmenys, taip pat juridinio asmens statuso neturinčios organizacijos ir jų padaliniai. ^s-bb73cf57010611d35ff2593e
 
 
-3. Konkurso nugalėtojai nustatomi pagal šiuos kriterijus: ^38db0d5c80d83b61e97e86ae
+3. Konkurso nugalėtojai nustatomi pagal šiuos kriterijus: ^s-687937f311d65f09b1025998
 
 
-1) zonos ūkinės komercinės ir finansinės veiklos ekonominio pagrindimo realumą; ^ac8ad8265fe522eba69dfd70
+1) zonos ūkinės komercinės ir finansinės veiklos ekonominio pagrindimo realumą; ^s-81c3111ab9552be03bcc0607
 
 
-2) zonos ūkinės komercinės ir finansinės veiklos naudos Šiaulių regionui ir Lietuvos Respublikai pagrindimą ir priemonių, skatinančių vietinį verslą zonoje, planą; ^54da2ef62c0b36e9eb518f3e
+2) zonos ūkinės komercinės ir finansinės veiklos naudos Šiaulių regionui ir Lietuvos Respublikai pagrindimą ir priemonių, skatinančių vietinį verslą zonoje, planą; ^s-f26f9fd7da580442d9a7183e
 Straipsnio punkto pakeitimai:
 Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
 
 
 
-3) investuotojų pritraukimo etapus ir zonoje sukuriamų darbo vietų skaičių ir pagrįstumą; ^a5dca355205b6f81e67f1f41
+3) investuotojų pritraukimo etapus ir zonoje sukuriamų darbo vietų skaičių ir pagrįstumą; ^s-68532847627836ffbbbc8411
 
 
-4) investicijų realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti; ^058758bd9a53c0a224998f2f
+4) investicijų realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti; ^s-ccbfda88bb1606ceece0f626
 
 
-5) zonos ūkinės komercinės ir finansinės veiklos ir jos infrastruktūros pritaikymo etapus bei terminus; ^5a12d02dd9e91f3d7f7555d2
+5) zonos ūkinės komercinės ir finansinės veiklos ir jos infrastruktūros pritaikymo etapus bei terminus; ^s-456ced8a1587b16dfc104fc5
 
 
-6) bendradarbiavimo su Šiaulių miesto savivaldybės institucijomis ir vietinio verslo asocijuotomis struktūromis būdus ir apimtį; ^fa7839987428db44a1f158f4
+6) bendradarbiavimo su Šiaulių miesto savivaldybės institucijomis ir vietinio verslo asocijuotomis struktūromis būdus ir apimtį; ^s-6a58391beb381023fdadc634
 
 
-7) zonos statuto ir Laisvųjų ekonominių zonų pagrindų įstatymo reikalavimų, taikomų zonos statutui, atitikimą; ^4c8a020db8aaa4ac5c6e801d
+7) zonos statuto ir [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymo]] reikalavimų, taikomų zonos statutui, atitikimą; ^s-37b13740eaf781f85c3a5021
 
 
-8) įmokų iš zonos įmonių rinkimo plano pateikimą ir jo pagrįstumą. ^a08ff0c7e68b06609050e8d3
+8) įmokų iš zonos įmonių rinkimo plano pateikimą ir jo pagrįstumą. ^s-56676d1c2bf46703ec6c2d6d
 
 
-4. Konkurso sąlygų apraše turi būti nustatyta, kad zonos valdymo bendrovė, kuri yra įsteigta zonos steigimo grupės, laimėjusios zonos verslo plano bei statuto rengimo ir steigėjų grupės parinkimo konkursą, ir Vyriausybė ar jos įgaliota institucija sudaro zonos veikimo pagrindų sutartį. ^f8b75374e03caa61368cfd16
+4. Konkurso sąlygų apraše turi būti nustatyta, kad zonos valdymo bendrovė, kuri yra įsteigta zonos steigimo grupės, laimėjusios zonos verslo plano bei statuto rengimo ir steigėjų grupės parinkimo konkursą, ir Vyriausybė ar jos įgaliota institucija sudaro zonos veikimo pagrindų sutartį. ^s-864d10246f98f4bfd4383a5f
 
 
 
-### 7 straipsnis. Zonos veikimo pagrindų sutartis
+### 7 straipsnis. Zonos veikimo pagrindų sutartis ^s-c443d33abf470d133a4c7a74
 
 
-1. Vyriausybės ar jos įgaliotos institucijos ir zonos valdymo bendrovės, kuri yra įsteigta zonos steigimo grupės, laimėjusios zonos verslo plano bei statuto rengimo ir steigėjų grupės parinkimo konkursą, sudarytoje zonos veikimo pagrindų sutartyje turi būti nustatyta: ^461659b64fe060625504b2de
+1. Vyriausybės ar jos įgaliotos institucijos ir zonos valdymo bendrovės, kuri yra įsteigta zonos steigimo grupės, laimėjusios zonos verslo plano bei statuto rengimo ir steigėjų grupės parinkimo konkursą, sudarytoje zonos veikimo pagrindų sutartyje turi būti nustatyta: ^s-13737484bd5341d948b7054d
 
 
-1) numatomų investicijų dydis, jų dalis zonos infrastruktūrai plėtoti; ^4fdf2530da095035cf271b5b
+1) numatomų investicijų dydis, jų dalis zonos infrastruktūrai plėtoti; ^s-9d9597447109e6985fdbefa7
 
 
-2) investuotojų pritraukimo etapai; ^90e7ed9fb04c7aa1423d72fe
+2) investuotojų pritraukimo etapai; ^s-9006fd4fe088bb558ce32f47
 
 
-3) zonos infrastruktūros pritaikymo etapai ir terminai; ^d6af5c3edf76696cfbc1bcba
+3) zonos infrastruktūros pritaikymo etapai ir terminai; ^s-03bd3e062815532a25411728
 
 
-4) zonos valdymo bendrovės įsipareigojimų vykdymo vertinimo ir informacijos teikimo tvarka. ^44b1e07db2b50810b3fd2651
+4) zonos valdymo bendrovės įsipareigojimų vykdymo vertinimo ir informacijos teikimo tvarka. ^s-c3a4481ff7e87f19e450532d
 
 
-2. Nutraukus zonos veikimo pagrindų sutartį, pagal šio įstatymo [[#6 straipsnis. Konkurso sąlygos ir kriterijai geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti|6 straipsnyje]] nustatytas konkurso sąlygas ir kriterijus geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti skelbiamas naujas konkursas zonos steigimo grupei parinkti. Šiuo atveju, kol bus parinkta nauja zonos valdymo bendrovės steigimo grupė ir pradės veikti jos įkurta zonos valdymo bendrovė, zonos valdymą organizuoja Vyriausybės įgaliota institucija. Nutraukus zonos veikimo pagrindų sutartį, zonos įmonių veikla tęsiama tomis pačiomis sąlygomis, kurios buvo iki zonos veikimo pagrindų sutarties nutraukimo. ^fc161d8645710fdbe547c887
+2. Nutraukus zonos veikimo pagrindų sutartį, pagal šio įstatymo [[#^s-a8552181b3af8b02bb073ba3|6 straipsnyje]] nustatytas konkurso sąlygas ir kriterijus geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti skelbiamas naujas konkursas zonos steigimo grupei parinkti. Šiuo atveju, kol bus parinkta nauja zonos valdymo bendrovės steigimo grupė ir pradės veikti jos įkurta zonos valdymo bendrovė, zonos valdymą organizuoja Vyriausybės įgaliota institucija. Nutraukus zonos veikimo pagrindų sutartį, zonos įmonių veikla tęsiama tomis pačiomis sąlygomis, kurios buvo iki zonos veikimo pagrindų sutarties nutraukimo. ^s-7853861e56694cb2c40780f1
 
 
-3. [[#^fc161d8645710fdbe547c887|Šio straipsnio 2 dalyje]] nurodytu atveju parinkus naują zonos valdymo bendrovės steigimo grupę ir pradėjus veikti jos įkurtai zonos valdymo bendrovei, zonos įmonių veikla tęsiama tomis pačiomis sąlygomis, kurios buvo iki [[#^fc161d8645710fdbe547c887|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimo. ^0035c4b10e8dbd90f1b29e77
+3. [[#^s-7853861e56694cb2c40780f1|Šio straipsnio 2 dalyje]] nurodytu atveju parinkus naują zonos valdymo bendrovės steigimo grupę ir pradėjus veikti jos įkurtai zonos valdymo bendrovei, zonos įmonių veikla tęsiama tomis pačiomis sąlygomis, kurios buvo iki [[#^s-7853861e56694cb2c40780f1|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimo. ^s-47d4f6d8fbf4770a482f86f1
 
 
 
-### 8 straipsnis. Zonos valdymo bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai ir atsakomybė
+### 8 straipsnis. Zonos valdymo bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai ir atsakomybė ^s-9aeee8a80bccd75ddedc88cd
 
 
-1. Zonos valdymo bendrovė veikia pagal Lietuvos Respublikos akcinių bendrovių įstatymą ir savo įstatus. ^fccd22c01c38e0c9473f7906
+1. Zonos valdymo bendrovė veikia pagal Lietuvos Respublikos akcinių bendrovių įstatymą ir savo įstatus. ^s-887d39da39815d48d7a2b872
 
 
-2. Zonos valdymo bendrovė turi turėti visuotinį akcininkų susirinkimą, vienasmenį valdymo organą – vadovą ir kolegialų valdymo organą – valdybą. ^3fd22f4b3999b49d98539dcf
+2. Zonos valdymo bendrovė turi turėti visuotinį akcininkų susirinkimą, vienasmenį valdymo organą – vadovą ir kolegialų valdymo organą – valdybą. ^s-a903d9615233d76473697a9c
 
 
-3. Zonos valdymo bendrove gali būti akcinė arba uždaroji akcinė bendrovė. ^b22768cda5fded216b1efa64
+3. Zonos valdymo bendrove gali būti akcinė arba uždaroji akcinė bendrovė. ^s-e8bb2970955b70d39aa2a929
 
 
-4. Zonos valdymo bendrovės visuotinis akcininkų susirinkimas turi teisę teikti pasiūlymus Vyriausybei ir laisvųjų ekonominių zonų valstybinę priežiūrą atliekančiai valstybės institucijai dėl zonos teritorijos ribų ir zonos statuto pakeitimų. ^fb4545f8eb97951073975d1b
+4. Zonos valdymo bendrovės visuotinis akcininkų susirinkimas turi teisę teikti pasiūlymus Vyriausybei ir laisvųjų ekonominių zonų valstybinę priežiūrą atliekančiai valstybės institucijai dėl zonos teritorijos ribų ir zonos statuto pakeitimų. ^s-fd391677880266904a2959ab
 
 
-5. Zonos valdymo bendrovės valdybą renka visuotinis akcininkų susirinkimas. Vyriausybė ir Šiaulių miesto savivaldybė skiria visuotiniam akcininkų susirinkimui po vieną asmenį į zonos valdymo bendrovės valdybą. ^326f6d2bdddd747f29d6df08
+5. Zonos valdymo bendrovės valdybą renka visuotinis akcininkų susirinkimas. Vyriausybė ir Šiaulių miesto savivaldybė skiria visuotiniam akcininkų susirinkimui po vieną asmenį į zonos valdymo bendrovės valdybą. ^s-e8891c333ec770ca03a6c5a5
 
 
-6. Zonos valdymo bendrovės valdybos pirmininkas gali būti ir zonos vadovas. ^8546213a8f86ff2516218c77
+6. Zonos valdymo bendrovės valdybos pirmininkas gali būti ir zonos vadovas. ^s-64466f786a3f358799fa9b2f
 
 
-7. Zonos valdymo bendrovės valdyba atlieka šias zonos valdymo funkcijas: ^5cded4c536c9c0996f768fb8
+7. Zonos valdymo bendrovės valdyba atlieka šias zonos valdymo funkcijas: ^s-58f6bb2d88b66a2eee9c3200
 
 
-1) priima sprendimą išduoti leidimą ūkio subjekto veiklai zonoje; ^de16d9302de257524e0e2a7c
+1) priima sprendimą išduoti leidimą ūkio subjekto veiklai zonoje; ^s-df07cea3110187193056f7a5
 
 
-2) nustato įmokas zonos įmonėms šio įstatymo nustatyta tvarka; ^7bec86124f2320f1871c7d55
+2) nustato įmokas zonos įmonėms šio įstatymo nustatyta tvarka; ^s-ff5d5f8051031ca82a8860b8
 
 
-3) pagal žemės subnuomos mokesčio apskaičiavimo ir mokėjimo tvarką zonos įmonių ir zonos valdymo bendrovės sutartyse nustato zonos valdymo bendrovės išnuomotos žemės ir nekilnojamojo turto subnuomojimo zonos įmonėms ir savitarpio paslaugų teikimo finansines sąlygas; ^d370cf0b27c6896f1ad70b7e
+3) pagal žemės subnuomos mokesčio apskaičiavimo ir mokėjimo tvarką zonos įmonių ir zonos valdymo bendrovės sutartyse nustato zonos valdymo bendrovės išnuomotos žemės ir nekilnojamojo turto subnuomojimo zonos įmonėms ir savitarpio paslaugų teikimo finansines sąlygas; ^s-ae9a3b7d7d5533e0b67b5b02
 
 
-4) nustato zonos vidaus tvarką; ^e16723a3cfbd6d59f09d4e0a
+4) nustato zonos vidaus tvarką; ^s-843830a6354901175eef1b88
 
 
-5) steigia zonoje aptarnavimo įmones; ^2bb9e90e7515ae19a8bbed3b
+5) steigia zonoje aptarnavimo įmones; ^s-f81c988ba55b4156668e185d
 
 
-6) priima sprendimus dėl lėšų kooperavimo ir panaudojimo bendriems zonos infrastruktūros plėtojimo ir aplinkotvarkos reikalams; ^dfba9f101140686db2faf945
+6) priima sprendimus dėl lėšų kooperavimo ir panaudojimo bendriems zonos infrastruktūros plėtojimo ir aplinkotvarkos reikalams; ^s-d3ee3217fb258a6dbecb5464
 
 
-7) patvirtina Vyriausybei teikiamą zonos valdymo bendrovės ir zonos veiklos ataskaitą; ^32c0e8313a930c237b4e15fc
+7) patvirtina Vyriausybei teikiamą zonos valdymo bendrovės ir zonos veiklos ataskaitą; ^s-eaa630050d1d51ae2c75e1f5
 
 
-8) sudaro komisiją ginčams tarp ūkio subjektų nagrinėti; ^f8a3c6f900114907bd91520f
+8) sudaro komisiją ginčams tarp ūkio subjektų nagrinėti; ^s-87229f597f8628a8c31cc653
 
 
-9) nustato žemės subnuomos mokesčio apskaičiavimo ir mokėjimo tvarką; ^47fd9d3caedc8a5f09b1b521
+9) nustato žemės subnuomos mokesčio apskaičiavimo ir mokėjimo tvarką; ^s-4ae59b571eb17275138e5283
 
 
-10) suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas. ^53bfae8b2feb58eb09eff453
+10) suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas. ^s-4e106db1f974ca7366da11af
 
 
-8. Zonos valdymo bendrovės vadovas organizuoja kasdienę zonos veiklą. Vadovas savo veikloje vadovaujasi įstatymais, kitais teisės aktais, bendrovės įstatais, visuotinio akcininkų susirinkimo sprendimais, valdybos sprendimais ir pareigybės aprašymais. ^e2a89fdba2cf2aedb3e4597a
+8. Zonos valdymo bendrovės vadovas organizuoja kasdienę zonos veiklą. Vadovas savo veikloje vadovaujasi įstatymais, kitais teisės aktais, bendrovės įstatais, visuotinio akcininkų susirinkimo sprendimais, valdybos sprendimais ir pareigybės aprašymais. ^s-ab007efc46c2bacd4c24f78c
 
 
-9. Zonos valdymo bendrovės vadovas: ^5a677f797ee9f845b1ca8221
+9. Zonos valdymo bendrovės vadovas: ^s-259599739323d08359628d6f
 
 
-1) atstovauja zonos valdymo bendrovei; ^fae56710fec9396911b23d7d
+1) atstovauja zonos valdymo bendrovei; ^s-c29863253be805c0fd3e4686
 
 
-2) subnuomoja zonos valdymo bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms pagal subnuomos sutarčių sąlygas; ^dc245621207282493cf8297a
+2) subnuomoja zonos valdymo bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms pagal subnuomos sutarčių sąlygas; ^s-3455dd02a0647c6b551d04f7
 
 
-3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal bendrovės valdybos nustatytas finansines ir kitas sąlygas; ^f1b26a68ac1dfae19057f30c
+3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal bendrovės valdybos nustatytas finansines ir kitas sąlygas; ^s-b135f05814d0c817a594d78e
 
 
-4) užtikrina, organizuodamas zonos priežiūrą, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų; ^f13b4eb517c91219f002c8cb
+4) užtikrina, organizuodamas zonos priežiūrą, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymo]] ir kitų aplinkos apsaugos teisės aktų reikalavimų; ^s-7fd81e8674c20885f71cc228
 Straipsnio punkto pakeitimai:
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
 
 
 
-5) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose; ^96d4e5cdf753b2c2f07b43ac
+5) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose; ^s-17f4ad66da9e2ed6a86992b4
 
 
-6) sudaro sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje jų funkcijas; ^e6489d9a01de7244e03a671d
+6) sudaro sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje jų funkcijas; ^s-11d2ec46b0c56795e82793b4
 
 
-7) išduoda leidimus veiklai zonoje; ^a3949ea02607b89687fa01d1
+7) išduoda leidimus veiklai zonoje; ^s-e646ffda4a10db37b1bd3e41
 
 
-8) atlieka kitas jam pagal kompetenciją priskirtas funkcijas. ^0b39654f0eeba80a40cd7b63
+8) atlieka kitas jam pagal kompetenciją priskirtas funkcijas. ^s-8703e6c19f0fb1be33b4b5e0
 
 
-10. Zonos valdymo bendrovė, jos valdymo organai už savo veiklą atsako įstatymų nustatyta tvarka. ^88cc1250e5577990c7d32db4
-
-
-
-### 9 straipsnis. Zonos valdymo bendrovės likvidavimas nelikviduojant zonos ir naujos bendrovės sudarymas
-
-
-1. Zonos valdymo bendrovė likviduojama Civiliniame kodekse numatytais juridinių asmenų likvidavimo pagrindais. ^c1e2597250f89ae98ebc8d25
-
-
-2. Atsiradus Civiliniame kodekse numatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Vyriausybės įgaliota institucija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė. ^28f82bb9ebad5645d5c5da06
-
-
-3. Pagrindinės konkurso sąlygos: ^011ef85dbf5c3f4719036b21
-
-
-1) zonos veiklos tęstinumas; ^5c7ffb05b50b4f658f96ba67
-
-
-2) zonos veiklos etapų laikymasis; ^1fd40c0cbe9aaae623cce3d2
-
-
-3) galimybė prisiimti ilgalaikius likviduojamos zonos valdymo bendrovės finansinius, ūkinius, teisinius ir kitus įsipareigojimus, susijusius su bendra zonos veikla. ^0a093f91768ff89f6062b17f
-
-
-4. Likviduojama zonos valdymo bendrovė veikia kaip zonos valdytoja, iki bus įsteigta nauja zonos valdymo bendrovė arba iki tol, kol likviduojama zonos valdymo bendrovė pasibaigia. Tais atvejais, kai likviduojama zonos valdymo bendrovė pasibaigia anksčiau, negu įsteigiama nauja zonos valdymo bendrovė, zonos valdymą organizuoja Vyriausybės įgaliota institucija. ^ea9d572dec5cae26e02dbda5
+10. Zonos valdymo bendrovė, jos valdymo organai už savo veiklą atsako įstatymų nustatyta tvarka. ^s-f7eed606255f53877e4d9ebc
 
 
 
-### 10 straipsnis. Įmokų iš zonos įmonių nustatymo tvarka
+### 9 straipsnis. Zonos valdymo bendrovės likvidavimas nelikviduojant zonos ir naujos bendrovės sudarymas ^s-458380f8c9eec38de977ee17
 
 
-1. Zonos valdymo bendrovė, įgyvendindama šio įstatymo jai nustatytas teises, pareigas ir atsakomybę, turi teisę nustatyti zonos įmonėms įmoką bendriems zonos reikalams. ^ff2a974b60d0d5d0f75ee10c
+1. Zonos valdymo bendrovė likviduojama Civiliniame kodekse numatytais juridinių asmenų likvidavimo pagrindais. ^s-ed47521efb969896f3d027c5
 
 
-2. Įmoka zonos įmonėms skaičiuojama atsižvelgiant į faktines išlaidas, skirtas bendriems zonos reikalams tvarkyti. Įmokų zonos įmonėms apskaičiavimo ir mokėjimo įgyvendinimo tvarka nustatoma atitinkamos zonos statute. ^175b1ea5e8c6801bdaa44cc6
+2. Atsiradus Civiliniame kodekse numatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Vyriausybės įgaliota institucija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė. ^s-0a7c1ba904f2eeed2e769b87
+
+
+3. Pagrindinės konkurso sąlygos: ^s-184d2a15aafd191922ee09da
+
+
+1) zonos veiklos tęstinumas; ^s-041a2265ade886802e2ac9f5
+
+
+2) zonos veiklos etapų laikymasis; ^s-0fc352a6fdee9d60a0cbe69c
+
+
+3) galimybė prisiimti ilgalaikius likviduojamos zonos valdymo bendrovės finansinius, ūkinius, teisinius ir kitus įsipareigojimus, susijusius su bendra zonos veikla. ^s-56314d934fb5a2717431f8a9
+
+
+4. Likviduojama zonos valdymo bendrovė veikia kaip zonos valdytoja, iki bus įsteigta nauja zonos valdymo bendrovė arba iki tol, kol likviduojama zonos valdymo bendrovė pasibaigia. Tais atvejais, kai likviduojama zonos valdymo bendrovė pasibaigia anksčiau, negu įsteigiama nauja zonos valdymo bendrovė, zonos valdymą organizuoja Vyriausybės įgaliota institucija. ^s-8f48947a1f92b91103af082e
 
 
 
-### 11 straipsnis. Valstybės pagalba zonoje
+### 10 straipsnis. Įmokų iš zonos įmonių nustatymo tvarka ^s-1ca77f42cf2a493b36f2fb49
 
 
-Vyriausybė, vadovaudamasi Laisvųjų ekonominių zonų pagrindų įstatymu, nustato valstybės pagalbos teikimo ir priežiūros tvarką zonoje.
+1. Zonos valdymo bendrovė, įgyvendindama šio įstatymo jai nustatytas teises, pareigas ir atsakomybę, turi teisę nustatyti zonos įmonėms įmoką bendriems zonos reikalams. ^s-0855a6bba4cb0e4b924c76ef
+
+
+2. Įmoka zonos įmonėms skaičiuojama atsižvelgiant į faktines išlaidas, skirtas bendriems zonos reikalams tvarkyti. Įmokų zonos įmonėms apskaičiavimo ir mokėjimo įgyvendinimo tvarka nustatoma atitinkamos zonos statute. ^s-2405c17500100c6d068b5b7e
 
 
 
-### 12 straipsnis. Pasiūlymas Vyriausybei
+### 11 straipsnis. Valstybės pagalba zonoje ^s-0a1a631bc7afb138b5e94ee2
+
+
+Vyriausybė, vadovaudamasi [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymu]], nustato valstybės pagalbos teikimo ir priežiūros tvarką zonoje.
+
+
+
+### 12 straipsnis. Pasiūlymas Vyriausybei ^s-9d11051f0b8100cb3c72250b
 
 
 Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 13 straipsnis. Įstatymo įsigaliojimas
+### 13 straipsnis. Įstatymo įsigaliojimas ^s-c8fcf8517befef93e728a164
 
 
-Šis įstatymas, išskyrus [[#12 straipsnis. Pasiūlymas Vyriausybei|12 straipsnį]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-9d11051f0b8100cb3c72250b|12 straipsnį]], įsigalioja 2012 m. sausio 1 d.
 
 
 
@@ -326,19 +331,19 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-945, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07826
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 [[#4 straipsnis. Zonos teritorija|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 [[#^s-8b7a0fe851a738d625a7dceb|4 straipsnio]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 ir [[#8 straipsnis. Zonos valdymo bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai ir atsakomybė|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 ir [[#^s-9aeee8a80bccd75ddedc88cd|8 straipsnių]] pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir [[#4 straipsnis. Zonos teritorija|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir [[#^s-8b7a0fe851a738d625a7dceb|4 straipsnių]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 1, 4 ir [[#6 straipsnis. Konkurso sąlygos ir kriterijai geriausiam zonos verslo planui bei zonos statutui parengti ir steigėjų grupei parinkti|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 1, 4 ir [[#^s-a8552181b3af8b02bb073ba3|6 straipsnių]] pakeitimo įstatymas

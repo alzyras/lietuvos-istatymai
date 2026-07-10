@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E70F310BB00C"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo\" papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo\" papildymo įstatymas"
+  - "įstatymo \"Dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo\" papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-16"
 latest_path: "latest/TAR.E70F310BB00C.md"
 latest_sha256: "88a3dbc8b6407e6a909adec091a0d41507383d34c7541433fe1234e2f7a03f00"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E70F310BB00C]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo" papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E70F310BB00C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E70F310BB00C
+- Ryšiai: [[Ryšiai/TAR.E70F310BB00C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 2 straipsniu
+### 1 straipsnis. Įstatymo papildymas 2 straipsniu ^s-a0649165553dd5e4647bab91
 
 
 Papildyti Įstatymą 2 straipsniu:

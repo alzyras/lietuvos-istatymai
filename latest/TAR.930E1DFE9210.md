@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.930E1DFE9210"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso"
+  - "įstatymas dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-10-21"
 latest_path: "latest/TAR.930E1DFE9210.md"
 latest_sha256: "580a8f162d7d80c6a70b16dd0821d4569ad2dcb6d88368e7a177e610eb187218"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.930E1DFE9210]]"
 ---
 # Lietuvos Respublikos įstatymas dėl užsienio valstybių diplomatinių atstovybių Lietuvos Respublikoje statuso
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.930E1DFE9210.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.930E1DFE9210
+- Ryšiai: [[Ryšiai/TAR.930E1DFE9210|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

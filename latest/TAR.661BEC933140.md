@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.661BEC933140"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109, 110, 111, 112, 125 straipsnių pripažinimo netekusiais galios ir įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo 46 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109, 110, 111, 112, 125 straipsnių pripažinimo netekusiais galios ir įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo 46 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109, 110, 111, 112, 125 straipsnių pripažinimo netekusiais galios ir įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo 46 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.661BEC933140.md"
 latest_sha256: "a0a1c9f5cfde5deaf4de59ca23bfb4047ac02595b726c60a61f69af977c66188"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.661BEC933140]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109, 110, 111, 112, 125 straipsnių pripažinimo netekusiais galios ir įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo 46 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.661BEC933140.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.661BEC933140
+- Ryšiai: [[Ryšiai/TAR.661BEC933140|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 46 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 46 straipsnio 2 dalies pakeitimas ^s-8305ffb8b48067a43eab45af
 
 
 46 straipsnio 2 dalyje vietoj datos „2010 m. sausio 1 d.“ įrašyti datą „2012 m. sausio 1 d.“ ir šią dalį išdėstyti taip:

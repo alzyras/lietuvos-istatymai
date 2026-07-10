@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E7680D921312"
 pavadinimas: "Lietuvos Respublikos vidaus tarnybos statuto 4 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus tarnybos statuto 4 ir 13 straipsnių pakeitimo įstatymas"
+  - "vidaus tarnybos statuto 4 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.E7680D921312.md"
 latest_sha256: "964adaefcbbb4638f1a3306ef9a7502501902b26c8586da540231683e5c62e73"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E7680D921312]]"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 4 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E7680D921312.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E7680D921312
+- Ryšiai: [[Ryšiai/TAR.E7680D921312|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 punkto pakeitimas ^s-6d418754e05e4a5f795d7b45
 
 
 4 straipsnio 1 punkte išbraukti žodžius „Bendrasis pagalbos centras prie Vidaus reikalų ministerijos (toliau – Bendrasis pagalbos centras)“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 13 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 13 straipsnio 4 dalies pakeitimas ^s-2216da0d8a6a6ca2bc4178a6
 
 
 13 straipsnio 4 dalyje išbraukti žodžius „Bendrojo pagalbos centro“, po žodžio „pavaldžių“ įrašyti žodį „įstaigų“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-bd639eb00b93577d7f9ef3ef
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

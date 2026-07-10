@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BBECDB6A4ED3"
 pavadinimas: "Lietuvos Respublikos audito įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos audito įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "audito įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.BBECDB6A4ED3.md"
 latest_sha256: "6bd3ea042483046d5369cb536e7d768a971b27df641d0691db69813ee913b4f8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BBECDB6A4ED3]]"
 ---
 # Lietuvos Respublikos audito įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BBECDB6A4ED3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BBECDB6A4ED3
+- Ryšiai: [[Ryšiai/TAR.BBECDB6A4ED3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas ^s-58da6cd8c841d52cfffa06a8
 
 
 5 straipsnio 5 dalyje vietoj žodžių „žyminį mokestį“ įrašyti žodžius „valstybės rinkliavą“ ir šią dalį išdėstyti taip:

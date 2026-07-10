@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3B61BB9C8307"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Tarptautinės darbo organizacijos konvencijos Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Tarptautinės darbo organizacijos konvencijos Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės ratifikavimo"
+  - "įstatymas dėl Tarptautinės darbo organizacijos konvencijos Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-11"
 latest_path: "latest/TAR.3B61BB9C8307.md"
 latest_sha256: "7c0fd4659d477b02ea0b81dff72ad00f5b9c55cdfe4d0dfa47b82fcad2902973"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3B61BB9C8307]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės darbo organizacijos konvencijos Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3B61BB9C8307.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3B61BB9C8307
+- Ryšiai: [[Ryšiai/TAR.3B61BB9C8307|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-73a0753660ad708e765f2fa6
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. balandžio 18 d. dekretą Nr. 1K-1031, ratifikuoja Tarptautinės darbo organizacijos konvenciją Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės, priimtą 1960 m. birželio 22 d. Ženevoje.

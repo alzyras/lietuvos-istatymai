@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9907CAF214B4"
 pavadinimas: "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio papildymo įstatymas"
+  - "Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.9907CAF214B4.md"
 latest_sha256: "4e4667d31c0d376003280d650429f8ad53dbff912c6eb40c031bfacdc2674c36"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9907CAF214B4]]"
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 5 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9907CAF214B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9907CAF214B4
+- Ryšiai: [[Ryšiai/TAR.9907CAF214B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio papildymas 23 punktu
+### 1 straipsnis. 5 straipsnio papildymas 23 punktu ^s-3c02a8223af3109fcb7907de
 
 
 Papildyti 5 straipsnį 23 punktu:
@@ -43,16 +48,16 @@ Papildyti 5 straipsnį 23 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-bd9ba1e7f339921253da1779
 
 
-1. Šis įstatymas įsigalioja 2011 m. sausio 1 d. ^3f8f24c99deb673c82d47f88
+1. Šis įstatymas įsigalioja 2011 m. sausio 1 d. ^s-e6d6f3bcf86caa00fdd17c62
 
 
-2. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras per du mėnesius nuo šio įstatymo įsigaliojimo dienos užtikrina, kad patalpos ir darbo vietos, kuriose bus dirbama su įslaptinta informacija ar tokia informacija bus saugoma, atitinka įslaptintos informacijos fizinės saugos reikalavimus. Valstybės saugumo departamentas Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka Lietuvos gyventojų genocido ir rezistencijos tyrimo centrui perduoda asmenų, prisipažinusių slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, įskaitos bylas ir kitus su Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo vykdymu susijusius dokumentus. Valstybės saugumo departamento parengtą ir įslaptintą informaciją Lietuvos gyventojų genocido ir rezistencijos tyrimo centras perima kaip įslaptintos informacijos rengėjo teisių perėmėjas. ^37b6bd89d9058fceee98d1cb
+2. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras per du mėnesius nuo šio įstatymo įsigaliojimo dienos užtikrina, kad patalpos ir darbo vietos, kuriose bus dirbama su įslaptinta informacija ar tokia informacija bus saugoma, atitinka įslaptintos informacijos fizinės saugos reikalavimus. Valstybės saugumo departamentas [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka Lietuvos gyventojų genocido ir rezistencijos tyrimo centrui perduoda asmenų, prisipažinusių slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, įskaitos bylas ir kitus su [[latest/TAR.F8D00907FFBE|Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo]] vykdymu susijusius dokumentus. Valstybės saugumo departamento parengtą ir įslaptintą informaciją Lietuvos gyventojų genocido ir rezistencijos tyrimo centras perima kaip įslaptintos informacijos rengėjo teisių perėmėjas. ^s-cf0796467876e06cf1d94882
 
 
-3. Lietuvos gyventojų genocido ir rezistencijos tyrimo centrui perėmus [[#^37b6bd89d9058fceee98d1cb|šio straipsnio 2 dalyje]] nurodytus dokumentus, Lietuvos Respublikos Vyriausybė pakeičia Priėjimo prie Nacionalinio dokumentų fondo ypatingosios dalies ribojamų dokumentų ir jų naudojimo taisykles. ^a6495c43d89090020f9a793e
+3. Lietuvos gyventojų genocido ir rezistencijos tyrimo centrui perėmus [[#^s-cf0796467876e06cf1d94882|šio straipsnio 2 dalyje]] nurodytus dokumentus, Lietuvos Respublikos Vyriausybė pakeičia Priėjimo prie Nacionalinio dokumentų fondo ypatingosios dalies ribojamų dokumentų ir jų naudojimo taisykles. ^s-7bbc95a9fe83745345169d87
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0DAC599ACB53"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 40, 320, 323, 366 ir 373 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 40, 320, 323, 366 ir 373 straipsnių pakeitimo įstatymas"
+  - "baudžiamojo proceso kodekso 40, 320, 323, 366 ir 373 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.0DAC599ACB53.md"
 latest_sha256: "09754df27a57c5e807d23d956bb16ac2901082310ce70f9d9c9715cd870255f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0DAC599ACB53]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 40, 320, 323, 366 ir 373 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0DAC599ACB53.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0DAC599ACB53
+- Ryšiai: [[Ryšiai/TAR.0DAC599ACB53|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 40 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 40 straipsnio 2 dalies pakeitimas ^s-3c64aa0ae8da6ba90cfc1313
 
 
 Pakeisti 40 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Pakeisti 40 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 320 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 320 straipsnio 2 dalies pakeitimas ^s-aa9522aad0a78451f172ded0
 
 
 Pakeisti 320 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -56,7 +61,7 @@ Pakeisti 320 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 323 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 323 straipsnio 4 dalies pakeitimas ^s-4a01599f5c0be863b908d514
 
 
 Pakeisti 323 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -66,7 +71,7 @@ Pakeisti 323 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 366 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 366 straipsnio 2 dalies pakeitimas ^s-aec65d6beda7ea73bc8392bc
 
 
 Pakeisti 366 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -76,7 +81,7 @@ Pakeisti 366 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 373 straipsnio papildymas 5 dalimi
+### 5 straipsnis. 373 straipsnio papildymas 5 dalimi ^s-c4347d6257d61377f0c19d2b
 
 
 Papildyti 373 straipsnį 5 dalimi:
@@ -86,7 +91,7 @@ Papildyti 373 straipsnį 5 dalimi:
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-911e273e1086be745d2a13e5
 
 
 Šis įstatymas įsigalioja 2011 m. spalio 1 d.

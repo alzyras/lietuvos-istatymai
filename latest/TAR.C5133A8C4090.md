@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C5133A8C4090"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-19"
 latest_path: "latest/TAR.C5133A8C4090.md"
 latest_sha256: "bb52409e873491c199a2fedd9a5cb8c58bad01ecd964e9a85087593872a99ef7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C5133A8C4090]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C5133A8C4090.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C5133A8C4090
+- Ryšiai: [[Ryšiai/TAR.C5133A8C4090|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas
+### 1 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas ^s-0a1bbd9ae6b5a1a222d6209b
 
 
 Įstatymo 3 priedo I skyriaus 5 eilutės 3 skiltyje po žodžių „komisijos ar tarybos administracijos direktorius“ įrašyti žodžius „generalinis inspektorius“, 4 skiltyje žodžius „generalinis inspektorius“ išbraukti ir šią eilutę išdėstyti taip:
@@ -58,7 +63,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 3 priedo II skyriaus pakeitimas
+### 2 straipsnis. Įstatymo 3 priedo II skyriaus pakeitimas ^s-f4f81e91bd74e78eeb1c8834
 
 
 Įstatymo 3 priedo II skyriaus 5 eilutės 3 skiltyje po žodžių „komisijos ar tarybos administracijos direktorius“ įrašyti žodžius „generalinis inspektorius“, 4 skiltyje žodžius „generalinis inspektorius“ išbraukti ir šią eilutę išdėstyti taip:
@@ -81,7 +86,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo 3 priedo III skyriaus pakeitimas
+### 3 straipsnis. Įstatymo 3 priedo III skyriaus pakeitimas ^s-ca6fd9a537daf4b655c39544
 
 
 Įstatymo 3 priedo III skyriaus 5 eilutės 3 skiltyje po žodžių „komisijos ar tarybos administracijos direktorius“ įrašyti žodžius „generalinis inspektorius“, 4 skiltyje žodžius „generalinis inspektorius“ išbraukti ir šią eilutę išdėstyti taip:

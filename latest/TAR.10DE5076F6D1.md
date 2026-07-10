@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.10DE5076F6D1"
 pavadinimas: "Lietuvos Respublikos ir Austrijos Respublikos sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Austrijos Respublikos sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas"
+  - "ir Austrijos Respublikos sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-03-12"
 latest_path: "latest/TAR.10DE5076F6D1.md"
 latest_sha256: "07a825cad6cbad51c9179f837f4cc1909dd26c4b7b1c4c1c7482381d9f5d37d1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.10DE5076F6D1]]"
 ---
 # Lietuvos Respublikos ir Austrijos Respublikos sutarties dėl investicijų skatinimo ir apsaugos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.10DE5076F6D1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.10DE5076F6D1
+- Ryšiai: [[Ryšiai/TAR.10DE5076F6D1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-7f43b948e6fd7a03e6f433ea
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl investicijų skatinimo ir apsaugos“, ratifikuoja Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1996 m. birželio 28 d. Vienoje.

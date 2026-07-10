@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8070B771752"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo papildymo 24(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo papildymo 24(1) straipsniu įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo papildymo 24(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-26"
 latest_path: "latest/TAR.C8070B771752.md"
 latest_sha256: "1593d16141bedae0d41ace30c91d56a158ccdc352abdd897a73636da3c44a12b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8070B771752]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo papildymo 24(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8070B771752.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8070B771752
+- Ryšiai: [[Ryšiai/TAR.C8070B771752|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 241 straipsniu
+### 1 straipsnis. Įstatymo papildymas 241 straipsniu ^s-81c7c57c272c82415743049b
 
 
 Papildyti Įstatymą 241 straipsniu:

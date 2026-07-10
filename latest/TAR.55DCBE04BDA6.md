@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.55DCBE04BDA6"
 pavadinimas: "Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio papildymo įstatymas"
+  - "profesinio mokymo įstatymo 40 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-07-23"
 latest_path: "latest/TAR.55DCBE04BDA6.md"
 latest_sha256: "cd2a0d62350bfc5bce4da5d2032ef51ce562a61881a35258b8941a8be197926e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.55DCBE04BDA6]]"
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo 40 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.55DCBE04BDA6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.55DCBE04BDA6
+- Ryšiai: [[Ryšiai/TAR.55DCBE04BDA6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 40 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 40 straipsnio papildymas 4 dalimi ^s-c84409b4c700722af0c1115f
 
 
 Papildyti 40 straipsnį 4 dalimi ir ją išdėstyti taip:

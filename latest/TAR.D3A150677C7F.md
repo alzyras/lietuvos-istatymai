@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D3A150677C7F"
 pavadinimas: "Dėl pelno mokesčio lengvatų žemės ūkio įmonėms"
+aliases:
+  - "Dėl pelno mokesčio lengvatų žemės ūkio įmonėms"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-04-29"
 latest_path: "latest/TAR.D3A150677C7F.md"
 latest_sha256: "4b95b949e94fff7a39b08f63900cb0ed8a805508571735cd7351ada2b5d3bc79"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D3A150677C7F]]"
 ---
 # Dėl pelno mokesčio lengvatų žemės ūkio įmonėms
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D3A150677C7F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D3A150677C7F
+- Ryšiai: [[Ryšiai/TAR.D3A150677C7F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-Atleisti nuo pelno mokesčio žemės ūkio produkciją gaminančių juridinių asmenų 1994 metais gautą pelną, apmokestintiną pagal Lietuvos Respublikos juridinių asmenų pelno mokesčio įstatymo 8 straipsnyje nustatytą lengvatinį 10 procentų pelno mokesčio tarifą.
+Atleisti nuo pelno mokesčio žemės ūkio produkciją gaminančių juridinių asmenų 1994 metais gautą pelną, apmokestintiną pagal Lietuvos Respublikos juridinių asmenų [[latest/TAR.A5ACBDA529A9#^s-f30e14b5548a1ff78bb0785f|pelno mokesčio įstatymo 8 straipsnyje]] nustatytą lengvatinį 10 procentų pelno mokesčio tarifą.
 
 
 

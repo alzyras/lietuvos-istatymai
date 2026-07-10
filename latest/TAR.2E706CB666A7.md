@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2E706CB666A7"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-12"
 latest_path: "latest/TAR.2E706CB666A7.md"
 latest_sha256: "87b41229514ab969ac36fc2b0808a0ec0f65ca7f646a2577996fb20b5fa356b5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2E706CB666A7]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2E706CB666A7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2E706CB666A7
+- Ryšiai: [[Ryšiai/TAR.2E706CB666A7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio pakeitimas
+### 1 straipsnis. 29 straipsnio pakeitimas ^s-1f0e12f1e0e5e9b0cfc8c001
 
 
 Pakeisti 29 straipsnio pirmąją ir antrąją dalis ir jas išdėstyti taip:

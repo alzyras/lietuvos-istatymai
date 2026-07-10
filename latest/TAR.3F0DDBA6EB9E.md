@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3F0DDBA6EB9E"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-19"
 latest_path: "latest/TAR.3F0DDBA6EB9E.md"
 latest_sha256: "c322f16a71a6b216f91cd2c76ab448d03ad005b29e2977570e5b94294ea5f7a5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3F0DDBA6EB9E]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3F0DDBA6EB9E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3F0DDBA6EB9E
+- Ryšiai: [[Ryšiai/TAR.3F0DDBA6EB9E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 4 dalies pakeitimas ir papildymas
+### 1 straipsnis. 14 straipsnio 4 dalies pakeitimas ir papildymas ^s-644d563d71dcc927cf676128
 
 
 Pakeisti ir papildyti 14 straipsnio 4 dalį ir ją išdėstyti taip:

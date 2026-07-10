@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F4E9AC95F084"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-05"
 latest_path: "latest/TAR.F4E9AC95F084.md"
 latest_sha256: "0072ca29e7ea535d4bb3e0a64c1879f76ae9b686b3e1eae9518304cfa2d4b835"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F4E9AC95F084]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F4E9AC95F084.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F4E9AC95F084
+- Ryšiai: [[Ryšiai/TAR.F4E9AC95F084|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-31a88114ec1a8a18f733fa2c
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. sausio 13 d. dekretą Nr. 496, ratifikuoja 2005 m. balandžio 14 d. Liuksemburge priimtą Konvenciją dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją.

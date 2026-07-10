@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.314594719DFB"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 84 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 84 straipsnio papildymo įstatymas"
+  - "Konstitucijos 84 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-21"
 latest_path: "latest/TAR.314594719DFB.md"
 latest_sha256: "6cf16193a5d90fe6002f9612b16ec544a34772f8455f881b4b4c24ee25bcdc83"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.314594719DFB]]"
 ---
 # Lietuvos Respublikos Konstitucijos 84 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.314594719DFB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.314594719DFB
+- Ryšiai: [[Ryšiai/TAR.314594719DFB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 84 straipsnio 11 punkto papildymas
+### 1 straipsnis. 84 straipsnio 11 punkto papildymas ^s-5b732e3d4c49639829e27dfb
 
 
 Papildyti 84 straipsnio 11 punktą ir jį išdėstyti taip:

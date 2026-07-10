@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.14505577EA6B"
 pavadinimas: "Lietuvos Respublikos Konstitucinio Teismo įstatymo 27, 41, 44 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 53-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucinio Teismo įstatymo 27, 41, 44 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 53-1 straipsniu įstatymas"
+  - "Konstitucinio Teismo įstatymo 27, 41, 44 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 53-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-17"
 latest_path: "latest/TAR.14505577EA6B.md"
 latest_sha256: "51413c008423052d7972a354ce118d9f10487e2a2e41fa7734b1b59d08ed49f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.14505577EA6B]]"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 27, 41, 44 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 53-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.14505577EA6B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.14505577EA6B
+- Ryšiai: [[Ryšiai/TAR.14505577EA6B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,20 +39,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio 2 dalies papildymas ir pakeitimas
+### 1 straipsnis. 27 straipsnio 2 dalies papildymas ir pakeitimas ^s-8aec7b6fe0007ed6d8f44a84
 
 
-1. Papildyti 27 straipsnio 2 dalį nauju 6 punktu: ^1831887511605eee4951e25a
+1. Papildyti 27 straipsnio 2 dalį nauju 6 punktu: ^s-d35684ed039c44f2eddb16ae
 
 
 „6) paklausia dalyvaujančių byloje asmenų nuomonės dėl bylos nagrinėjimo rašytinio proceso tvarka;“.
 
 
-2. Buvusį 27 straipsnio 2 dalies 6 punktą laikyti 7 punktu. ^42a4f57aa4c4bfd8e2c5c6a6
+2. Buvusį 27 straipsnio 2 dalies 6 punktą laikyti 7 punktu. ^s-39a40244b69ad38b4c2f1398
 
 
 
-### 2 straipsnis. 41 straipsnio pakeitimas
+### 2 straipsnis. 41 straipsnio pakeitimas ^s-a070105ef453bda02100d065
 
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
@@ -61,7 +66,7 @@ Konstituciniame Teisme gautas prašymas iki teisminio nagrinėjimo pradžios gal
 
 
 
-### 3 straipsnis. 44 straipsnio pakeitimas
+### 3 straipsnis. 44 straipsnio pakeitimas ^s-eefc55a8df67b949ada3f692
 
 
 Pakeisti 44 straipsnio 3 dalį, 4 dalį pripažinti netekusia galios, buvusias 5, 6 dalis laikyti atitinkamai 4, 5 dalimis ir visą straipsnį išdėstyti taip:
@@ -87,7 +92,7 @@ Tais atvejais, kai į teisminį posėdį neatvyksta nė vienas iš kviestųjų d
 
 
 
-### 4 straipsnis. Įstatymo papildymas 531 straipsniu
+### 4 straipsnis. Įstatymo papildymas 531 straipsniu ^s-06a8250fe1ed7d50d197633e
 
 
 Papildyti Įstatymą 531 straipsniu:

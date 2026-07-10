@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4310CB49B31B"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-31"
 latest_path: "latest/TAR.4310CB49B31B.md"
 latest_sha256: "1d2ae9f25f159b87d41e118d1544b33e1c6f53d7159f123318d48c98c67773ea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4310CB49B31B]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4310CB49B31B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4310CB49B31B
+- Ryšiai: [[Ryšiai/TAR.4310CB49B31B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-0b7ca78e603b04cd08616bf8
 
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Savivaldybės tarybos priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti pati savivaldybės taryba. Valdybos priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti pati valdyba arba savivaldybės taryba. Mero priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti meras arba savivaldybės taryba. Kitų savivaldybės viešojo administravimo subjektų priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti pagal kompetenciją meras arba valdyba, arba taryba. Savivaldybės vykdomosios institucijos ar kiti savivaldybės viešojo administravimo subjektai savo priimtus norminius teisės aktus, kuriais įgyvendinami įstatymai ir vykdomi Vyriausybės nutarimai ar kiti teisės aktai (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos), gali sustabdyti ir juos pakeisti ar panaikinti. Jeigu savivaldybės viešojo administravimo subjektai per įstatymo nustatytą terminą nepanaikina ginčijamų norminių teisės aktų arba priima naujus Konstitucijos ar įstatymų neatitinkančius norminius teisės aktus, Vyriausybės atstovas nurodytų teisės aktų teisėtumą skundžia Administracinių bylų teisenos įstatymo nustatyta tvarka.“
+„2. Savivaldybės tarybos priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti pati savivaldybės taryba. Valdybos priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti pati valdyba arba savivaldybės taryba. Mero priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti meras arba savivaldybės taryba. Kitų savivaldybės viešojo administravimo subjektų priimtus norminius administracinius teisės aktus gali sustabdyti ar panaikinti pagal kompetenciją meras arba valdyba, arba taryba. Savivaldybės vykdomosios institucijos ar kiti savivaldybės viešojo administravimo subjektai savo priimtus norminius teisės aktus, kuriais įgyvendinami įstatymai ir vykdomi Vyriausybės nutarimai ar kiti teisės aktai (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos), gali sustabdyti ir juos pakeisti ar panaikinti. Jeigu savivaldybės viešojo administravimo subjektai per įstatymo nustatytą terminą nepanaikina ginčijamų norminių teisės aktų arba priima naujus Konstitucijos ar įstatymų neatitinkančius norminius teisės aktus, Vyriausybės atstovas nurodytų teisės aktų teisėtumą skundžia [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka.“
 
 
 

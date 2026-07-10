@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.862AECF3AD2F"
 pavadinimas: "Lietuvos Respublikos civilinės saugos įstatymo 30 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinės saugos įstatymo 30 straipsnio pakeitimo įstatymas"
+  - "civilinės saugos įstatymo 30 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-28"
 latest_path: "latest/TAR.862AECF3AD2F.md"
 latest_sha256: "c33e8c9457026bf06131d2660de9e7caca13fe983a20f6963c777ae97a106b81"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.862AECF3AD2F]]"
 ---
 # Lietuvos Respublikos civilinės saugos įstatymo 30 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.862AECF3AD2F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.862AECF3AD2F
+- Ryšiai: [[Ryšiai/TAR.862AECF3AD2F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 30 straipsnio 10 dalies pakeitimas ^s-39b8711ad7a532ea51a61c25
 
 
 Pakeisti 30 straipsnio 10 dalį ir ją išdėstyti taip:

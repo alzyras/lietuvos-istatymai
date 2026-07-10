@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C51C1018DDC3"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-19"
 latest_path: "latest/TAR.C51C1018DDC3.md"
 latest_sha256: "6b66a8cdd54f076cdcb27bb6b3a61e122b4fc0053ea201708c922f2f6c530407"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C51C1018DDC3]]"
 ---
 # Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C51C1018DDC3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C51C1018DDC3
+- Ryšiai: [[Ryšiai/TAR.C51C1018DDC3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

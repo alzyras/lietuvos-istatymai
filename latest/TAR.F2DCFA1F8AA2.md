@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F2DCFA1F8AA2"
 pavadinimas: "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas"
+  - "asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.F2DCFA1F8AA2.md"
 latest_sha256: "3dc07914ac9623f4beaf6331396ee1a2213335f8b02c93637be83b35888454f6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F2DCFA1F8AA2]]"
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F2DCFA1F8AA2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F2DCFA1F8AA2
+- Ryšiai: [[Ryšiai/TAR.F2DCFA1F8AA2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies 8 punkto papildymas
+### 1 straipsnis. 7 straipsnio 1 dalies 8 punkto papildymas ^s-80daf12fdc1e143f668b4d41
 
 
 Papildyti 7 straipsnio 1 dalies 8 punktą i papunkčiu:
@@ -41,7 +46,7 @@ Papildyti 7 straipsnio 1 dalies 8 punktą i papunkčiu:
 
 
 
-### 2 straipsnis. 9 straipsnio papildymas 3 dalimi
+### 2 straipsnis. 9 straipsnio papildymas 3 dalimi ^s-2f81292f41b523fcd95cfc35
 
 
 Papildyti 9 straipsnį 3 dalimi:
@@ -51,7 +56,7 @@ Papildyti 9 straipsnį 3 dalimi:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-df152b17790d408f1e8b1e91
 
 
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.

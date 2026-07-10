@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5DDFB18A678E"
 pavadinimas: "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 3, 26 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 3, 26 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "cheminių medžiagų ir preparatų įstatymo 3, 26 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-27"
 latest_path: "latest/TAR.5DDFB18A678E.md"
 latest_sha256: "955abb7f0e4352f68aeb216759cb5df54f3da2869fb6e933c8a6753ffacfbac2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5DDFB18A678E]]"
 ---
 # Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 3, 26 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5DDFB18A678E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5DDFB18A678E
+- Ryšiai: [[Ryšiai/TAR.5DDFB18A678E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,21 +36,21 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-5129b993a9fad6e55e2c7055
 
 
 3 straipsnio 22 dalį pripažinti netekusia galios, 23 ir 24 dalis atitinkamai laikyti 22 ir 23 dalimis.
 
 
 
-### 2 straipsnis. 23 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 23 straipsnio pripažinimas netekusiu galios ^s-30160303ecc2e34e247a0e6e
 
 
 23 straipsnį pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. 26 straipsnio 3 dalies 6 punkto pakeitimas
+### 3 straipsnis. 26 straipsnio 3 dalies 6 punkto pakeitimas ^s-7447ee3a1237d0afb8c471fc
 
 
 26 straipsnio 3 dalies 6 punkte išbraukti žodžius „pateikti licenciją išdavusiai institucijai teikimą dėl licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimo“ ir šį punktą išdėstyti taip:

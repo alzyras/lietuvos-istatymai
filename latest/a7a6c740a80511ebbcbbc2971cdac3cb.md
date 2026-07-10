@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "a7a6c740a80511ebbcbbc2971cdac3cb"
 pavadinimas: "Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 29 straipsnio pakeitimo įstatymas"
+  - "valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-07-01"
 latest_path: "latest/a7a6c740a80511ebbcbbc2971cdac3cb.md"
 latest_sha256: "0d52d84497eacb845ab318cae71cefc67bcc4e3e34ba1034e7d95054af87bc2a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/a7a6c740a80511ebbcbbc2971cdac3cb]]"
 ---
 # Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/a7a6c740a80511ebbcbbc2971cdac3cb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/a7a6c740a80511ebbcbbc2971cdac3cb
+- Ryšiai: [[Ryšiai/a7a6c740a80511ebbcbbc2971cdac3cb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio pakeitimas
+### 1 straipsnis. 29 straipsnio pakeitimas ^s-86ff62b20a2b1c4332a00de0
 
 
 Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-2257c6342438aceeed47a1e8
 
 
 Šis įstatymas įsigalioja 2021 m. liepos 1 d.

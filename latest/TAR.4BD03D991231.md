@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4BD03D991231"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-27"
 latest_path: "latest/TAR.4BD03D991231.md"
 latest_sha256: "6d6ad100136b0d2a1f8af8da660f2c764be7db3c085b14a6a66691be080fdec3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4BD03D991231]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4BD03D991231.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4BD03D991231
+- Ryšiai: [[Ryšiai/TAR.4BD03D991231|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 26 straipsnio 8 dalies pakeitimas ^s-fa7ef1a7b991a5379c89d1a1
 
 
 Pakeisti 26 straipsnio 8 dalį ir ją išdėstyti taip:

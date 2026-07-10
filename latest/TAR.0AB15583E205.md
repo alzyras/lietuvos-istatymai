@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0AB15583E205"
 pavadinimas: "Lietuvos Respublikos bankų įstatymo 2, 9, 59, 64, 65, 70-1, 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bankų įstatymo 2, 9, 59, 64, 65, 70-1, 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+  - "bankų įstatymo 2, 9, 59, 64, 65, 70-1, 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.0AB15583E205.md"
 latest_sha256: "42cab6bb6b9136d881439e70692f63eb2bfc49f0a4748663f9592d6a22f50857"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0AB15583E205]]"
 ---
 # Lietuvos Respublikos bankų įstatymo 2, 9, 59, 64, 65, 70-1, 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0AB15583E205.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0AB15583E205
+- Ryšiai: [[Ryšiai/TAR.0AB15583E205|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,35 +37,35 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-3e9949e41c151340b3e0cb06
 
 
-1. Papildyti [[#2 straipsnis. 9 straipsnio 9 dalies pakeitimas|2 straipsnį]] nauja [[#^b4655de8389ad43f209cc633|3 dalimi]]: ^cdaac9bff20ee441b864f3dc
+1. Papildyti [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnį]] nauja [[#^s-b22c2aa69df8566c534c8254|3 dalimi]]: ^s-e5052c3dbdff270186825539
 
 
 „3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.“
 
 
-2. Papildyti [[#2 straipsnis. 9 straipsnio 9 dalies pakeitimas|2 straipsnį]] nauja [[#^588b853f7a07f03835f249c3|4 dalimi]]: ^1d58ddfef81e61747bd11d2a
+2. Papildyti [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnį]] nauja [[#^s-0e03607b6033d408ddda9018|4 dalimi]]: ^s-14ebe2026418752ef1d108f6
 
 
 „4. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
 
 
-3. Buvusias [[#2 straipsnis. 9 straipsnio 9 dalies pakeitimas|2 straipsnio]] 3–7 dalis laikyti atitinkamai 5–9 dalimis. ^b4655de8389ad43f209cc633
+3. Buvusias [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnio]] 3–7 dalis laikyti atitinkamai 5–9 dalimis. ^s-b22c2aa69df8566c534c8254
 
 
-4. Papildyti [[#2 straipsnis. 9 straipsnio 9 dalies pakeitimas|2 straipsnį]] nauja 10 dalimi: ^588b853f7a07f03835f249c3
+4. Papildyti [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnį]] nauja 10 dalimi: ^s-0e03607b6033d408ddda9018
 
 
-„10. Specializuotas bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuriai išduota licencija suteikia teisę teikti tik šio straipsnio 9 dalies 3 punkte nustatytą licencinę finansinę paslaugą ir Mokėjimų įstatymo 5 straipsnio 5 punkte nustatytą mokėjimo paslaugą.“
+„10. Specializuotas bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuriai išduota licencija suteikia teisę teikti tik šio straipsnio 9 dalies 3 punkte nustatytą licencinę finansinę paslaugą ir [[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|Mokėjimų įstatymo 5 straipsnio 5 punkte]] nustatytą mokėjimo paslaugą.“
 
 
-5. Buvusias [[#2 straipsnis. 9 straipsnio 9 dalies pakeitimas|2 straipsnio]] 8 ir 9 dalis laikyti atitinkamai 11 ir 12 dalimis. ^2eb21fd39a05792572a0dcd5
+5. Buvusias [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnio]] 8 ir 9 dalis laikyti atitinkamai 11 ir 12 dalimis. ^s-d68f40ee7a8cfe57b574af83
 
 
 
-### 2 straipsnis. 9 straipsnio 9 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 9 dalies pakeitimas ^s-bb3e14f3c1b5378eae0debb1
 
 
 Pakeisti 9 straipsnio 9 dalį ir ją išdėstyti taip:
@@ -70,7 +75,7 @@ Pakeisti 9 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 59 straipsnio 8 dalies pakeitimas ir papildymas
+### 3 straipsnis. 59 straipsnio 8 dalies pakeitimas ir papildymas ^s-8e460156fb5155d8b7905b78
 
 
 Pakeisti ir papildyti 59 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -80,45 +85,45 @@ Pakeisti ir papildyti 59 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 64 straipsnio 2 dalies ir 5 dalies 2 punkto pakeitimas
+### 4 straipsnis. 64 straipsnio 2 dalies ir 5 dalies 2 punkto pakeitimas ^s-1d77f0e1927c7b61b51299f5
 
 
-1. Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip: ^67aeb0cb24e8096055f0f809
+1. Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0818e02541406574cf2308e8
 
 
 „2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jeigu šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu, pagal Reglamento (ES) Nr. 1093/2010 28 straipsnį, turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi leidimą veiklai ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą.“
 
 
-2. Pakeisti 64 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip: ^35a74d818456229c090f50b1
+2. Pakeisti 64 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip: ^s-adaf5389d83ba47394dc624a
 
 
 „2) atsižvelgia į priežiūros priemonių ir praktikos taikant įstatymus ir kitus teisės aktus, priimtus įgyvendinant 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyvą 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (OL 2006 L 177, p. 1), konvergenciją tarp Europos Sąjungos valstybių narių. Tuo tikslu priežiūros institucija dalyvauja Europos bankininkystės institucijos veikloje ir vadovaujasi Europos bankininkystės institucijos patvirtintomis gairėmis ir rekomendacijomis arba pateikia suinteresuotiems asmenims motyvus, dėl kurių jomis nesivadovauja.“
 
 
 
-### 5 straipsnis. 65 straipsnio 5 dalies pakeitimas ir papildymas
+### 5 straipsnis. 65 straipsnio 5 dalies pakeitimas ir papildymas ^s-a1d8cde6d5a4ff98ebff4c07
 
 
-1. Pakeisti 65 straipsnio 5 dalies 1 punktą ir jį išdėstyti taip: ^1bad43177a3f613266f50213
+1. Pakeisti 65 straipsnio 5 dalies 1 punktą ir jį išdėstyti taip: ^s-f19c7af153eb25ee9a1cb68f
 
 
-„1) Baudžiamojo proceso kodekse nustatytais pagrindais, jeigu ji reikalinga ikiteisminiam tyrimui atlikti ar baudžiamajai bylai teisme nagrinėti, taip pat Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme nustatytais atvejais ir tvarka;“.
+„1) [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekse]] nustatytais pagrindais, jeigu ji reikalinga ikiteisminiam tyrimui atlikti ar baudžiamajai bylai teisme nagrinėti, taip pat [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]] nustatytais atvejais ir tvarka;“.
 
 
-2. Papildyti 65 straipsnio 5 dalį 10 punktu: ^fbf811c626e45151b2d29c78
+2. Papildyti 65 straipsnio 5 dalį 10 punktu: ^s-57072bb86520a25547b01f77
 
 
 „10) Europos bankininkystės institucijai, kaip numatyta šiame įstatyme ir Reglamente (ES) Nr. 1093/2010;“.
 
 
-3. Papildyti 65 straipsnio 5 dalį 11 punktu: ^c7b7a71c13cb1c654912631a
+3. Papildyti 65 straipsnio 5 dalį 11 punktu: ^s-a3d7511fed77fe8928eec667
 
 
 „11) Europos sisteminės rizikos valdybai, kai ta informacija reikšminga jos funkcijoms, vykdomoms pagal Reglamentą (ES) Nr. 1092/2010, atlikti.“
 
 
 
-### 6 straipsnis. 701 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 701 straipsnio 3 dalies pakeitimas ^s-c518ab4e51546ac8c4b01950
 
 
 Pakeisti 701 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -128,7 +133,7 @@ Pakeisti 701 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 71 straipsnio pakeitimas
+### 7 straipsnis. 71 straipsnio pakeitimas ^s-8ad75256beb455bc06094f7b
 
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
@@ -138,14 +143,14 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 „71 straipsnis. Bendradarbiavimas su Europos Komisija, Europos bankininkystės institucija ir Europos Sąjungos valstybių narių priežiūros institucijomis
 
 
-1. Priežiūros institucija praneša Europos bankininkystės institucijai apie šio Įstatymo nustatyta tvarka išduotas licencijas, Europos Komisijai ir Europos bankininkystės institucijai apie atšauktas licencijas, taip pat joms ir Europos Sąjungos valstybių narių priežiūros institucijoms teikia kitą informaciją. Pranešimų ir informacijos teikimo atvejus ir tvarką nustato priežiūros institucijos teisės aktai. ^6253d86440e1b439e5c06f69
+1. Priežiūros institucija praneša Europos bankininkystės institucijai apie šio Įstatymo nustatyta tvarka išduotas licencijas, Europos Komisijai ir Europos bankininkystės institucijai apie atšauktas licencijas, taip pat joms ir Europos Sąjungos valstybių narių priežiūros institucijoms teikia kitą informaciją. Pranešimų ir informacijos teikimo atvejus ir tvarką nustato priežiūros institucijos teisės aktai. ^s-4687a1e3fe4cb5a752929ded
 
 
-2. Priežiūros institucija, atlikdama šiame Įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.“ ^4bb343323a32814c6347d793
+2. Priežiūros institucija, atlikdama šiame Įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.“ ^s-844ee3d5aa0c16aa4deba9a0
 
 
 
-### 8 straipsnis. Įstatymo priedo 8 punkto pakeitimas
+### 8 straipsnis. Įstatymo priedo 8 punkto pakeitimas ^s-d57470d4e7d1d771786b6e6b
 
 
 Pakeisti Įstatymo priedo 8 punktą ir jį išdėstyti taip:
@@ -155,7 +160,7 @@ Pakeisti Įstatymo priedo 8 punktą ir jį išdėstyti taip:
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas
+### 9 straipsnis. Įstatymo įsigaliojimas ^s-c1fbe3dc1786cfcc5f09e388
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

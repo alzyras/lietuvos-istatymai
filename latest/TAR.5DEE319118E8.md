@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5DEE319118E8"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte"
+  - "įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-28"
 latest_path: "latest/TAR.5DEE319118E8.md"
 latest_sha256: "1085ef9818df73e9de8fe02294ae0eadfb098cd06e45fdd3f338813af234a7cf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5DEE319118E8]]"
 ---
 # Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5DEE319118E8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5DEE319118E8
+- Ryšiai: [[Ryšiai/TAR.5DEE319118E8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,74 +40,74 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-8b39e58eaaecbf3c38ab9917
 
 
-1. Šio įstatymo paskirtis – pritarti koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte ir pritarti Lietuvos Respublikos, strateginio investuotojo ir projekto įgyvendinimo bendrovės sudaromos koncesijos sutarties (toliau – koncesijos sutartis) projektui, įskaitant koncesijos sutarties projekte nustatytus Lietuvos Respublikos esminius turtinius įsipareigojimus. ^e18d099c1f30dd412e55b21e
+1. Šio įstatymo paskirtis – pritarti koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte ir pritarti Lietuvos Respublikos, strateginio investuotojo ir projekto įgyvendinimo bendrovės sudaromos koncesijos sutarties (toliau – koncesijos sutartis) projektui, įskaitant koncesijos sutarties projekte nustatytus Lietuvos Respublikos esminius turtinius įsipareigojimus. ^s-4b915192a122a1a9fb98ad19
 
 
-2. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos koncesijų įstatyme (toliau – Koncesijų įstatymas) ir Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme (toliau – Branduolinės (atominės) elektrinės įstatymas). ^89c46c81c555299dcfeb5d25
-
-
-
-### 2 straipsnis. Sprendimas dėl koncesijos
-
-
-1. Lietuvos Respublikos Seimas pritaria: ^2f48e66176c28146fb42afc9
-
-
-1) koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte; ^a98b10222078cb1363960cb4
-
-
-2) koncesijos sutarties projekte nurodyto strateginio investuotojo Visagino branduolinės (atominės) elektrinės projekte atrinkimui; ^098bdc6a1bda24b8f3acd1cb
-
-
-3) koncesijos sutarties projekte nustatytų Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimui; ^d8b55d427249da530482ab3a
-
-
-4) koncesijos sutarties projektui (pridedamas koncesijos sutarties projekto tekstas anglų kalba ir jo vertimas į lietuvių kalbą). ^4baacc0b1add920026246371
-
-
-2. Koncesija projekto įgyvendinimo bendrovei valstybės vardu suteikiama Koncesijų įstatymo ir Branduolinės (atominės) elektrinės įstatymo nustatyta tvarka. ^f67cea1f9a91b7e8e5e06426
+2. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatyme]] (toliau – [[latest/TAR.6A449FCC534B|Koncesijų įstatymas]]) ir [[latest/TAR.04F64676CE77|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme]] (toliau – [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatymas]]). ^s-b904087cad374bfe47bd5f00
 
 
 
-### 3 straipsnis. Esminiai turtiniai įsipareigojimai
+### 2 straipsnis. Sprendimas dėl koncesijos ^s-cdae5c550bf0f35b103fbee5
 
 
-1. Valstybė įstatymu prisiima visus esminius turtinius įsipareigojimus pagal koncesijos sutartį, įskaitant, bet neapsiribojant: ^81fc3f0963e646b601bd4c74
+1. Lietuvos Respublikos Seimas pritaria: ^s-3b12bc92a4d3839ea0d34714
 
 
-1) įgyvendinti Visagino branduolinės (atominės) elektrinės projekto pagrindinio privažiavimo kelio nuo Klaipėdos valstybinio jūrų uosto krantinės iki branduolinės (atominės) elektrinės sklypo ribos paruošimo projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.[[#^58dbb2fa2394ce4b6695e7ab|2 punktą]] ir 2 priedėlį); ^e44e3983f86788981181742f
+1) koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte; ^s-dafea6573977dc29e1625921
 
 
-2) užtikrinti, kad projekto įgyvendinimo bendrovei būtų suteiktas žemės sklypas, reikalingas įgyvendinti Visagino branduolinės (atominės) elektrinės projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.1 (A) punktą); ^58dbb2fa2394ce4b6695e7ab
+2) koncesijos sutarties projekte nurodyto strateginio investuotojo Visagino branduolinės (atominės) elektrinės projekte atrinkimui; ^s-b2318bc0b1b991b29c3c364f
 
 
-3) išpirkti projekto įgyvendinimo bendrovės akcijas iš projekto įgyvendinimo bendrovės dalyvių, kai koncesijos sutartis nutraukiama, tais atvejais, kai nutraukimo rizika priskiriama Lietuvos Respublikai, ir kitais nustatytais atvejais, kaip numatyta koncesijos sutarties projekte (įskaitant 20.1, 20.3, 26, 32 punktus); ^63bf2601f5516f142c605a51
+3) koncesijos sutarties projekte nustatytų Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimui; ^s-402ebf827ce165be45c434c9
 
 
-4) atlyginti koncesijos sutarties projekte nurodytiems asmenims nuostolius dėl darbo produktų, pagal koncesijos sutarties projekte nurodytas papildomas sutartis, naudojimo sukeltos žalos, kaip numatyta koncesijos sutarties projekte (įskaitant 15 punktą); ^f56531bc32e2d3d0df74ba29
+4) koncesijos sutarties projektui (pridedamas koncesijos sutarties projekto tekstas anglų kalba ir jo vertimas į lietuvių kalbą). ^s-1d86121196afcb551d44d823
 
 
-5) atlyginti koncesijos sutarties projekte nurodytiems asmenims žalą dėl Lietuvos Respublikos konfidencialumo įsipareigojimų pažeidimo, kaip numatyta koncesijos sutarties projekte (įskaitant 13 punktą); ^f1920fb7dac76780bb918f33
-
-
-6) atlyginti koncesijos sutarties projekte nurodytiems asmenims žalą dėl koncesijos suteikimo procedūrų ir (arba) garantijų pažeidimo, kaip numatyta koncesijos sutarties projekte (įskaitant 16.5 ir 28.1.[[#^58dbb2fa2394ce4b6695e7ab|2 punktus]]). ^b2b3f6781975edfee1ace1e1
-
-
-2. Lietuvos Respublikos esminiai turtiniai įsipareigojimai prisiimami koncesijos sutartyje nustatytomis sąlygomis, mastu ir tvarka. ^0f14898334e358583a5ad9f9
+2. Koncesija projekto įgyvendinimo bendrovei valstybės vardu suteikiama [[latest/TAR.6A449FCC534B|Koncesijų įstatymo]] ir [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatymo]] nustatyta tvarka. ^s-cdedeb0e766dd1fdb4acd735
 
 
 
-### 4 straipsnis. Ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarka
+### 3 straipsnis. Esminiai turtiniai įsipareigojimai ^s-ebe96ec660b17a5d94f11207
+
+
+1. Valstybė įstatymu prisiima visus esminius turtinius įsipareigojimus pagal koncesijos sutartį, įskaitant, bet neapsiribojant: ^s-e5acc220360dc548e0ede541
+
+
+1) įgyvendinti Visagino branduolinės (atominės) elektrinės projekto pagrindinio privažiavimo kelio nuo Klaipėdos valstybinio jūrų uosto krantinės iki branduolinės (atominės) elektrinės sklypo ribos paruošimo projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.[[#^s-ce9fc9700f6189430797f441|2 punktą]] ir 2 priedėlį); ^s-5cf275561045d5c3f2b77042
+
+
+2) užtikrinti, kad projekto įgyvendinimo bendrovei būtų suteiktas žemės sklypas, reikalingas įgyvendinti Visagino branduolinės (atominės) elektrinės projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.1 (A) punktą); ^s-ce9fc9700f6189430797f441
+
+
+3) išpirkti projekto įgyvendinimo bendrovės akcijas iš projekto įgyvendinimo bendrovės dalyvių, kai koncesijos sutartis nutraukiama, tais atvejais, kai nutraukimo rizika priskiriama Lietuvos Respublikai, ir kitais nustatytais atvejais, kaip numatyta koncesijos sutarties projekte (įskaitant 20.1, 20.3, 26, 32 punktus); ^s-13762d1c761469e96be57482
+
+
+4) atlyginti koncesijos sutarties projekte nurodytiems asmenims nuostolius dėl darbo produktų, pagal koncesijos sutarties projekte nurodytas papildomas sutartis, naudojimo sukeltos žalos, kaip numatyta koncesijos sutarties projekte (įskaitant 15 punktą); ^s-12e8ce3b8308bd34a6eabbd9
+
+
+5) atlyginti koncesijos sutarties projekte nurodytiems asmenims žalą dėl Lietuvos Respublikos konfidencialumo įsipareigojimų pažeidimo, kaip numatyta koncesijos sutarties projekte (įskaitant 13 punktą); ^s-79b020b07e642cda7ffbd343
+
+
+6) atlyginti koncesijos sutarties projekte nurodytiems asmenims žalą dėl koncesijos suteikimo procedūrų ir (arba) garantijų pažeidimo, kaip numatyta koncesijos sutarties projekte (įskaitant 16.5 ir 28.1.[[#^s-ce9fc9700f6189430797f441|2 punktus]]). ^s-8c82c527e9db73f238d6dd60
+
+
+2. Lietuvos Respublikos esminiai turtiniai įsipareigojimai prisiimami koncesijos sutartyje nustatytomis sąlygomis, mastu ir tvarka. ^s-7a408c7a1407080d2ade60ed
+
+
+
+### 4 straipsnis. Ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarka ^s-c6fb7752cfdb483094a6c27b
 
 
 Lietuvos Respublikos Seimas pritaria susitarimui dėl ginčų, kylančių iš koncesijos sutarties ar su ja susijusių, sprendimo arbitražo tvarka, kaip numatyta koncesijos sutarties projekto 45 punkte ir kitose koncesijos sutarties nuostatose.
 
 
 
-### 5 straipsnis. Papildomų teisių nesuteikimas
+### 5 straipsnis. Papildomų teisių nesuteikimas ^s-e98fd731957313d373ed3f60
 
 
 Šis įstatymas strateginiam investuotojui, jo susijusioms įmonėms, koncesijos sutarties projekte nurodytiems generaliniam rangovui, branduolinio kuro tiekėjui ir kitiems projekto įgyvendinimo bendrovės akcininkams bei kitiems asmenims nesuteikia daugiau teisių, negu koncesijos sutartis, ir be konkrečios koncesijos sutarties nuostatos taikymo atskirai negali būti taikomas nustatant Lietuvos Respublikos atsakomybę.
@@ -357,97 +362,97 @@ THE PARTIES HEREBY AGREE AS FOLLOWS:
 PART 1: PRELIMINARY AND TERM
 
 
-1.         DEFINITIONS AND INTERPRETATION ^fc127b9017c8af1a1665f60f
+1.         DEFINITIONS AND INTERPRETATION ^s-03691e53e5998982a86984ea
 
 
-1.1       Definitions ^a09a106664c3d8050c517b1f
+1.1       Definitions ^s-b7cf7b09eaed9d649113a100
 Unless otherwise defined in this Concession Agreement, terms defined in Schedule 1 (Definitions) shall apply to this Concession Agreement.
 
 
-1.2       Interpretation ^eb1be209cb9f65480b01e1b3
+1.2       Interpretation ^s-9e8a8a75dd5a21a2e9053813
 In this Concession Agreement, except where the context or the express provisions otherwise require:
 
 
-1.2.1            without prejudice to the application of the provisions relating to Pre-FID Fundamental Change or Clause 29 (Force Majeure) (including the definition of Force Majeure Event), reference to any law, code, enactment, rules, statutory provision or subordinate legislation shall include a reference to any law, code, rule, order, regulation, instrument or subordinate legislation made under the relevant enactment or statutory provision and is a reference to that law, code, rule, enactment, statutory provision or subordinate legislation as from time to time amended, consolidated, modified, re-enacted or replaced; ^eb4ff73fe620655b97762bf1
+1.2.1            without prejudice to the application of the provisions relating to Pre-FID Fundamental Change or Clause 29 (Force Majeure) (including the definition of Force Majeure Event), reference to any law, code, enactment, rules, statutory provision or subordinate legislation shall include a reference to any law, code, rule, order, regulation, instrument or subordinate legislation made under the relevant enactment or statutory provision and is a reference to that law, code, rule, enactment, statutory provision or subordinate legislation as from time to time amended, consolidated, modified, re-enacted or replaced; ^s-0affe0e733f3f23d62fdf3bb
 
 
-1.2.2            words in the singular shall include the plural and vice versa; ^e8a7d052e2553c0c32c475e5
+1.2.2            words in the singular shall include the plural and vice versa; ^s-d3f65a8aa03acdc005f5247e
 
 
-1.2.3            references to one gender include other genders; ^71c787cfb694afa4fa534b53
+1.2.3            references to one gender include other genders; ^s-209296a339a394a0a77f5374
 
 
-1.2.4            a reference to a "person" shall include a reference to an individual, a firm, a body corporate, an unincorporated association, a government department, a governmental body, an authority, an agency, a partnership or to an individual's executors or administrators; ^a7cb3a3b905c79bf717a79c8
+1.2.4            a reference to a "person" shall include a reference to an individual, a firm, a body corporate, an unincorporated association, a government department, a governmental body, an authority, an agency, a partnership or to an individual's executors or administrators; ^s-04b695c12a4a84490522fd92
 
 
-1.2.5            any reference to this Concession Agreement includes the Schedules to it (and any schedules, appendices or annexes to such Schedules) each of which forms part of this Concession Agreement for all purposes; ^e530c82932a2184f7e4e3a97
+1.2.5            any reference to this Concession Agreement includes the Schedules to it (and any schedules, appendices or annexes to such Schedules) each of which forms part of this Concession Agreement for all purposes; ^s-5d35bc89e0dd6b4718cec7e8
 
 
-1.2.6            a reference to a Clause, Sub-clause or Schedule (other than to a schedule to a statutory provision) shall be a reference to a clause, sub-clause or schedule (as the case may be) of, or to, this Concession Agreement and all references to Parts, Sections, Paragraphs, Appendices and Annexes are references to parts, sections, paragraphs, appendices and annexes of, or to, the Schedules; ^9b277522ac8288473eda9654
+1.2.6            a reference to a Clause, Sub-clause or Schedule (other than to a schedule to a statutory provision) shall be a reference to a clause, sub-clause or schedule (as the case may be) of, or to, this Concession Agreement and all references to Parts, Sections, Paragraphs, Appendices and Annexes are references to parts, sections, paragraphs, appendices and annexes of, or to, the Schedules; ^s-1d80dc30ba70f4002285d548
 
 
-1.2.7            if a period of time is specified as from, following, after or within a certain period of time of a given Calendar Day or Business Day, or from, following, after or within a certain period of time of the Calendar Day or Business Day of an act or event, it shall be calculated exclusive of that Calendar Day or Business Day; ^35b95fb058497e19174d0b4f
+1.2.7            if a period of time is specified as from, following, after or within a certain period of time of a given Calendar Day or Business Day, or from, following, after or within a certain period of time of the Calendar Day or Business Day of an act or event, it shall be calculated exclusive of that Calendar Day or Business Day; ^s-3a395b2fa6b12849f88c488d
 
 
-1.2.8            references to any English legal term for any action, remedy, method of judicial proceeding, legal document, legal status, court, official or any legal concept or thing shall in respect of any jurisdiction other than England be deemed to include what most nearly approximates to the English legal term in that jurisdiction and references to any English statute or enactment (other than the reference to the Companies Act 2006 in Clause 31 (Restrictions on transfer of shares and change of control)) shall be deemed to include any equivalent or analogous laws or rules in any other jurisdiction; ^2a1049e2e2c2cd21d28c5ecb
+1.2.8            references to any English legal term for any action, remedy, method of judicial proceeding, legal document, legal status, court, official or any legal concept or thing shall in respect of any jurisdiction other than England be deemed to include what most nearly approximates to the English legal term in that jurisdiction and references to any English statute or enactment (other than the reference to the Companies Act 2006 in Clause 31 (Restrictions on transfer of shares and change of control)) shall be deemed to include any equivalent or analogous laws or rules in any other jurisdiction; ^s-5dd81df2779d3909b500e998
 
 
-1.2.9            references to writing shall include any modes of reproducing words in any legible form but shall exclude email except where permitted by Clause 33.2.1 (Notices by Email); ^635ccefb341768d0d8923492
+1.2.9            references to writing shall include any modes of reproducing words in any legible form but shall exclude email except where permitted by Clause 33.2.1 (Notices by Email); ^s-e1aa06edf8e41684ddb1e952
 
 
-1.2.10          a reference to "includes" or "including" shall mean "includes without limitation" or "including without limitation"; ^be101ae7c4aaa62e3f9a9278
+1.2.10          a reference to "includes" or "including" shall mean "includes without limitation" or "including without limitation"; ^s-e5688f1cbd92b6bdf5c1691e
 
 
-1.2.11          the contents page, headings and sub-headings in this Concession Agreement are for convenience only and shall not be taken into consideration in the interpretation or construction of this Concession Agreement; ^b577d66d290a1776f97c6ab6
+1.2.11          the contents page, headings and sub-headings in this Concession Agreement are for convenience only and shall not be taken into consideration in the interpretation or construction of this Concession Agreement; ^s-5748e3a50324007e62becbcd
 
 
-1.2.12          references to this "Concession Agreement" (or "this Agreement") include this Concession Agreement as amended or supplemented in accordance with its terms; ^35dca9725b50a79defc72599
+1.2.12          references to this "Concession Agreement" (or "this Agreement") include this Concession Agreement as amended or supplemented in accordance with its terms; ^s-d4d309dbb54441fbba70c7f1
 
 
-1.2.13          references in this Concession Agreement to any agreement, procedure, document or other instrument (other than as contemplated by Clause 1.2.1 (Interpretation)) shall be deemed to be references to that agreement, procedure, document or instrument as from time to time amended, varied, supplemented, substituted, novated or assigned; ^af2b97d92b9422e3f23dd4dd
+1.2.13          references in this Concession Agreement to any agreement, procedure, document or other instrument (other than as contemplated by Clause 1.2.1 (Interpretation)) shall be deemed to be references to that agreement, procedure, document or instrument as from time to time amended, varied, supplemented, substituted, novated or assigned; ^s-a71a60ca3effb34d2feb38fa
 
 
-1.2.14          any reference to a public organisation or body shall be deemed to include a reference to any successor to such public organisation or body or any organisation or entity which has taken over the functions or responsibilities of such public organisation or body; ^98028d8fd26f9af3fa9e2b75
+1.2.14          any reference to a public organisation or body shall be deemed to include a reference to any successor to such public organisation or body or any organisation or entity which has taken over the functions or responsibilities of such public organisation or body; ^s-3c6ba105716728fc2a71659b
 
 
-1.2.15          all monetary amounts are expressed in Euros; ^7e6968602d3738ab55e90f5c
+1.2.15          all monetary amounts are expressed in Euros; ^s-0543e7db5041ca33d87f5f2d
 
 
-1.2.16          any references in this Concession Agreement to a Party providing its consent or approval shall be deemed to be a reference to prior written consent or approval; ^1bcb283765de8b8c87361d2a
+1.2.16          any references in this Concession Agreement to a Party providing its consent or approval shall be deemed to be a reference to prior written consent or approval; ^s-d9e903788f7de155471e7b40
 
 
-1.2.17          a reference to the "Site" shall include any part of the Site; and ^b2a5c60a47b84589687a7ebd
+1.2.17          a reference to the "Site" shall include any part of the Site; and ^s-d9975c13c174f181784b1883
 
 
-1.2.18          "liability" means any liability, whether pursuant to a claim for contribution or under statute, tort (including but not limited to liability for negligence), contract, strict liability or otherwise (save that any exclusions or limitations of liability shall not apply in respect of fraud), and "liable" shall be construed accordingly. ^923f96286f424a7394e464ce
+1.2.18          "liability" means any liability, whether pursuant to a claim for contribution or under statute, tort (including but not limited to liability for negligence), contract, strict liability or otherwise (save that any exclusions or limitations of liability shall not apply in respect of fraud), and "liable" shall be construed accordingly. ^s-a0e3787e67e379839318efb8
 
 
-2.         AWARD OF CONCESSION AND TERM ^13425a7f6d3518c40efda00e
+2.         AWARD OF CONCESSION AND TERM ^s-ff01f689b21c2b8495efeaf1
 
 
-2.1       The Parties acknowledge that, provided that all Parties have executed this Concession Agreement, by its entry into this Concession Agreement, the RoL has awarded the Concession to the PCO and the RoL agrees that, immediately following the execution of this Concession Agreement by all the Parties, the MoE on behalf of the RoL shall issue a notice about the decision to conclude the Concession Agreement and confirm the award of the Concession in the Official Gazette under Article 19 of the Law on Concessions. ^cfec3a47a62215af1acf18ed
+2.1       The Parties acknowledge that, provided that all Parties have executed this Concession Agreement, by its entry into this Concession Agreement, the RoL has awarded the Concession to the PCO and the RoL agrees that, immediately following the execution of this Concession Agreement by all the Parties, the MoE on behalf of the RoL shall issue a notice about the decision to conclude the Concession Agreement and confirm the award of the Concession in the Official Gazette under Article 19 of the Law on Concessions. ^s-4b70a2aeb7ed4a1ef2f8607b
 
 
-2.2       This Concession Agreement shall commence on the Concession Date and shall remain in full force and effect until either: ^7c6d1bb7db1ffac7efae657d
+2.2       This Concession Agreement shall commence on the Concession Date and shall remain in full force and effect until either: ^s-271d526f00020354e5771e1d
 
 
-2.2.1      if the PCO elects to carry out (or procure the carrying out of) the decommissioning of the NNPP, the completion of the Decommissioning Phase; or ^7bd5bf22e0b65c4e0c6f0325
+2.2.1      if the PCO elects to carry out (or procure the carrying out of) the decommissioning of the NNPP, the completion of the Decommissioning Phase; or ^s-720d1661e88c806715a50d2d
 
 
-2.2.2      if the PCO elects not to carry out (or procure the carrying out of) the decommissioning of the NNPP, the commencement of the Decommissioning Phase, ^de43b96e8a3b14e03ee6c489
+2.2.2      if the PCO elects not to carry out (or procure the carrying out of) the decommissioning of the NNPP, the commencement of the Decommissioning Phase, ^s-3eb9202a08bf0c711b744bd1
 (subject, in either case, to earlier termination in accordance with its terms) (the "Contract Term").
 
 
-3.         SCOPE OF THE CONCESSION ^be0512d79857d2afbf1b6b4b
+3.         SCOPE OF THE CONCESSION ^s-bb9a378ac2f3a75a58e34e43
 
 
-3.1       The Parties acknowledge that, together with the award of the Concession: ^d8df3636c05ece2de614cbc4
+3.1       The Parties acknowledge that, together with the award of the Concession: ^s-0b7d3b019ed4a5ebdbc375c6
 
 
-3.1.1      the RoL awards to the PCO and the Strategic Investor (as applicable) the right for the PCO to enter into the EPC Contract with the EPC Contractor; and ^aa77b0addb246b67a0b02458
+3.1.1      the RoL awards to the PCO and the Strategic Investor (as applicable) the right for the PCO to enter into the EPC Contract with the EPC Contractor; and ^s-55e280c3a29c1d3e9ac7da84
 
 
-3.1.2      the RoL awards to the PCO and the Strategic Investor (as applicable) the right for: ^960f228a65e5de9218de43f5
+3.1.2      the RoL awards to the PCO and the Strategic Investor (as applicable) the right for: ^s-cda9997b34dd3b75c774b5af
 (A)      the PCO to engage the O&M Support Contractor to provide operation and maintenance support services pursuant to an O&M Support Contract; and
 (B)       the PCO to engage the Nuclear Fuel Supplier to provide nuclear fuel supply and related services pursuant to a Fuel Supply Contract,
 and
@@ -456,117 +461,117 @@ and
 and if the PCO and the Strategic Investor, or the PCO, as applicable, have not exercised their rights to enter into either or both of the O&M Support Contract and the Fuel Supply Contract by the relevant date, such right(s) shall lapse in respect of the relevant contract.
 
 
-3.2       The Parties acknowledge that: ^f529858d54a2cc3098532301
+3.2       The Parties acknowledge that: ^s-0160d13f6645e92f8abc4bce
 
 
-3.2.1      under the EPC Contract (or any contract which is ancillary to it), the EPC Contractor shall undertake or procure the design, development, manufacture, supply, construction and testing of the NNPP and support the PCO in accordance with the EPC Contract in the commissioning of the NNPP (together with the provision of certain manuals, spare parts, the initial nuclear fuel load (if any and on such terms) and such other nuclear fuel (if any and on such terms) as the parties to the EPC Contract may agree) on the terms agreed in or pursuant to the EPC Contract; ^e4f24e275d0d60632e11f5dc
+3.2.1      under the EPC Contract (or any contract which is ancillary to it), the EPC Contractor shall undertake or procure the design, development, manufacture, supply, construction and testing of the NNPP and support the PCO in accordance with the EPC Contract in the commissioning of the NNPP (together with the provision of certain manuals, spare parts, the initial nuclear fuel load (if any and on such terms) and such other nuclear fuel (if any and on such terms) as the parties to the EPC Contract may agree) on the terms agreed in or pursuant to the EPC Contract; ^s-33a4c1b7df848a4350eb6f4f
 
 
-3.2.2      under any O&M Support Contract, the O&M Support Contractor shall provide a range of services to assist the PCO in relation to the operation and maintenance of the NNPP (including training) on the terms (and for the price) agreed in or pursuant to such O&M Support Contract; and ^6dfa17a56d92f379d77fc0e5
+3.2.2      under any O&M Support Contract, the O&M Support Contractor shall provide a range of services to assist the PCO in relation to the operation and maintenance of the NNPP (including training) on the terms (and for the price) agreed in or pursuant to such O&M Support Contract; and ^s-00ee7247800e010c80c1e1ad
 
 
-3.2.3      under any Fuel Supply Contract, the Nuclear Fuel Supplier shall provide a range of nuclear fuel related services which may include the sourcing of uranics, enrichment services and core design services, the fabrication of fuel rods and fuel assemblies and the delivery of fuel assemblies to the Site, on terms and for the price agreed in or pursuant to such Fuel Supply Contract. ^ac3faf4fb20b289d4bd07fe2
+3.2.3      under any Fuel Supply Contract, the Nuclear Fuel Supplier shall provide a range of nuclear fuel related services which may include the sourcing of uranics, enrichment services and core design services, the fabrication of fuel rods and fuel assemblies and the delivery of fuel assemblies to the Site, on terms and for the price agreed in or pursuant to such Fuel Supply Contract. ^s-b79ad85bdf3f89f4e89804f2
 
 
-3.3       The Parties acknowledge and agree that the RoL may also, if agreed with the PCO, grant additional contracts or rights to the Strategic Investor or an Associated Company (or Associated Companies) nominated by the Strategic Investor (and, if not Hitachi-GE Nuclear Energy, Ltd. and not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd., having been accepted by the RoL in advance in writing) to provide services to the PCO subject to agreement in writing from the Strategic Investor and the PCO. ^3f2a3dfd3a74b3bc2ae63d7a
+3.3       The Parties acknowledge and agree that the RoL may also, if agreed with the PCO, grant additional contracts or rights to the Strategic Investor or an Associated Company (or Associated Companies) nominated by the Strategic Investor (and, if not Hitachi-GE Nuclear Energy, Ltd. and not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd., having been accepted by the RoL in advance in writing) to provide services to the PCO subject to agreement in writing from the Strategic Investor and the PCO. ^s-a7ede4d4aa6d5471b4da66b2
 
 
-3.4       The PCO shall be the owner of the NNPP, the Site (from the date it is contributed by the Lithuanian Investor as anticipated by Clause 7.1 (Nature of RoL's obligations)) and related physical infrastructure and other assets developed by the PCO, except where the PCO agrees otherwise with any Third Party or the Strategic Investor that such Third Party or the Strategic Investor should own the relevant asset or where it is otherwise required by applicable Law. The PCO shall be the owner of electricity generated by the NNPP save to the extent required by applicable Law. ^9a60327764535eb5cd640290
+3.4       The PCO shall be the owner of the NNPP, the Site (from the date it is contributed by the Lithuanian Investor as anticipated by Clause 7.1 (Nature of RoL's obligations)) and related physical infrastructure and other assets developed by the PCO, except where the PCO agrees otherwise with any Third Party or the Strategic Investor that such Third Party or the Strategic Investor should own the relevant asset or where it is otherwise required by applicable Law. The PCO shall be the owner of electricity generated by the NNPP save to the extent required by applicable Law. ^s-43cfdb4ae416e5310c9e28b0
 
 
-4.         THE RELATIONSHIP: PARTNERING PRINCIPLES ^92643ae0a22477d5dd6e1b57
+4.         THE RELATIONSHIP: PARTNERING PRINCIPLES ^s-b1ee896f7eb4d6d1a569716a
 
 
-4.1       In working together to achieve the objectives of this Concession Agreement, the RoL, the PCO and the Strategic Investor will act consistently with, and have regard to, the following principles: ^2368069ced023dde313fac8f
+4.1       In working together to achieve the objectives of this Concession Agreement, the RoL, the PCO and the Strategic Investor will act consistently with, and have regard to, the following principles: ^s-79e8e646a0e87bd79dfe6a67
 
 
-4.1.1      to work together in an open and honest environment and to act in a co-operative and non-adversarial manner (but without prejudice to any Party's right to take such action as it considers necessary to enforce or defend its rights); ^9133352bddb0047035bc03ac
+4.1.1      to work together in an open and honest environment and to act in a co-operative and non-adversarial manner (but without prejudice to any Party's right to take such action as it considers necessary to enforce or defend its rights); ^s-0b5145d6baf370e6b8a2f111
 
 
-4.1.2      to foster a sound safety culture; ^9f72f3948888cd451e9b912f
+4.1.2      to foster a sound safety culture; ^s-11f61cfbc2065e0bcb4d2762
 
 
-4.1.3      to the extent compliant with and allowed by applicable law, to co-operate to seek to ensure the readiness of the regional industry (including the Baltic States) to participate in the Project; ^086500788e7f4fa9af3467c3
+4.1.3      to the extent compliant with and allowed by applicable law, to co-operate to seek to ensure the readiness of the regional industry (including the Baltic States) to participate in the Project; ^s-5207493d0dd2a37bfad89589
 
 
-4.1.4      in the case of the Strategic Investor, to utilise and, in the case of the Parties, to work together best to take advantage of, such skills and experience as the Hitachi, Ltd. Group has from time to time to provide strategic guidance to the PCO on the technical project development of the NNPP; ^339cf4526304a9f330d53901
+4.1.4      in the case of the Strategic Investor, to utilise and, in the case of the Parties, to work together best to take advantage of, such skills and experience as the Hitachi, Ltd. Group has from time to time to provide strategic guidance to the PCO on the technical project development of the NNPP; ^s-2cae12eed988c1ac96f19cdd
 
 
-4.1.5      in the case of the Strategic Investor, to utilise and, in the case of the Parties, to work together to best take advantage of, such skills and experience as the Hitachi, Ltd. Group has from time to time to provide access for the PCO and its Shareholders to the Japan Bank for International Cooperation, Nippon Export and Investment Insurance, Mizuho Corporate Bank and the Export-Import Bank of the United States and to work together with those institutions to maximise the amount of financing (on acceptable terms) that may be available (and subsequently committed) from those institutions for the Project up to either the date of financial close or FID, whichever is later; ^8a84bbf46e63432130107533
+4.1.5      in the case of the Strategic Investor, to utilise and, in the case of the Parties, to work together to best take advantage of, such skills and experience as the Hitachi, Ltd. Group has from time to time to provide access for the PCO and its Shareholders to the Japan Bank for International Cooperation, Nippon Export and Investment Insurance, Mizuho Corporate Bank and the Export-Import Bank of the United States and to work together with those institutions to maximise the amount of financing (on acceptable terms) that may be available (and subsequently committed) from those institutions for the Project up to either the date of financial close or FID, whichever is later; ^s-989874126c471bb206342264
 
 
-4.1.6      to work together to seek to achieve the following milestones (recognising that the dates below are included on the assumption that the first LNTP is issued on the Concession Date and that the ability to meet these milestones may be significantly affected by the scope and timing of works and services agreed to be provided by the EPC Contractor in the period prior to FID and the timing and performance of Regulators, other public authorities and other Third Parties, as well as the Parties): ^8316ef4416ce37b5505f8557
+4.1.6      to work together to seek to achieve the following milestones (recognising that the dates below are included on the assumption that the first LNTP is issued on the Concession Date and that the ability to meet these milestones may be significantly affected by the scope and timing of works and services agreed to be provided by the EPC Contractor in the period prior to FID and the timing and performance of Regulators, other public authorities and other Third Parties, as well as the Parties): ^s-2cf0b5ac970e97375e5d28f2
 (A)      completing the price firming process under the EPC Contract to facilitate the Shareholders to take a positive FID as soon as possible after the Concession Date;
 (B)       obtaining a Construction and Operation Licence by no later than 31 July 2015;
 (C)       First Concrete by 31 July 2016; and
 (D)      a Commercial Operation Date that occurs between 31 December 2020 and 31 December 2022 (inclusive of those dates);
 
 
-4.1.7      in the case of the RoL, to support, insofar as it is able, the establishment and maintenance of arrangements under which the transmission system operator for the electricity system in the Republic of Lithuania does not discriminate against the NNPP, the PCO, the Shareholders, or those who purchase electricity produced by the NNPP or from the Strategic Investor and, in the case of the RoL, to facilitate, in parallel to the Project, the transmission system operators for the electricity systems of Lithuania, Latvia and/or Estonia entering into arrangements between them for the procurement of reserve power and their recovery of associated costs in order to maintain reliable and secure electricity systems in those countries; and ^cda9b783b007c98053e0e164
+4.1.7      in the case of the RoL, to support, insofar as it is able, the establishment and maintenance of arrangements under which the transmission system operator for the electricity system in the Republic of Lithuania does not discriminate against the NNPP, the PCO, the Shareholders, or those who purchase electricity produced by the NNPP or from the Strategic Investor and, in the case of the RoL, to facilitate, in parallel to the Project, the transmission system operators for the electricity systems of Lithuania, Latvia and/or Estonia entering into arrangements between them for the procurement of reserve power and their recovery of associated costs in order to maintain reliable and secure electricity systems in those countries; and ^s-2fd441b9f2899f9d134b313e
 
 
-4.1.8      in the case of the RoL, to support, in so far as it is able, the planning and implementation of the transmission capacity and dispatch arrangements within the Republic of Lithuania so that they do not discriminate against the export of power generated by the NNPP to jurisdictions outside that of the Republic of Lithuania. ^e4a39e961645cf16f6fc441a
+4.1.8      in the case of the RoL, to support, in so far as it is able, the planning and implementation of the transmission capacity and dispatch arrangements within the Republic of Lithuania so that they do not discriminate against the export of power generated by the NNPP to jurisdictions outside that of the Republic of Lithuania. ^s-ed5c4635177b2b29b5f075ae
 
 
-4.2       The Parties shall, from the Concession Date until the date on which a positive FID or a final negative FID is taken, cooperate and work together with the aim of developing certain arrangements (which will apply from no later than, and shall include, the date on which a positive FID is taken) to facilitate a positive FID being taken, including separate agreements: ^03b841014f8ba4e8363c3acd
+4.2       The Parties shall, from the Concession Date until the date on which a positive FID or a final negative FID is taken, cooperate and work together with the aim of developing certain arrangements (which will apply from no later than, and shall include, the date on which a positive FID is taken) to facilitate a positive FID being taken, including separate agreements: ^s-345154b4c1ef2c93e01b0785
 
 
-4.2.1           with regard to the Parties' obligations and liability in respect of the Access Road Works; ^ef4d5de596c168a539021e25
+4.2.1           with regard to the Parties' obligations and liability in respect of the Access Road Works; ^s-2289d93440f58656b08e6ced
 
 
-4.2.2           in relation to the period after a positive FID is taken, which, amongst other things, may address: ^8e4a673197bbe44dce7b921e
+4.2.2           in relation to the period after a positive FID is taken, which, amongst other things, may address: ^s-8e6f54ca8d49f426a5bff924
 (A)      those circumstances that may result in the Shareholders having the right to require the RoL (or its nominee) to purchase their Shares for an agreed fair value or lead to other agreed consequences;
 (B)       those circumstances that may result in the RoL (or its nominee) having the right to purchase the Shares from the Shareholders for an agreed fair value (which may be determined in a different way from that in Clause 4.2.2(A)) or lead to other agreed consequences; and/or
 (C)       those circumstances that may result in the payment of Wasted Costs or Retendering Costs (as applicable) by the RoL to the Strategic Investor or by the Strategic Investor to the RoL.
 
 
-4.2.3           in relation to the circumstances in and terms on which the consent of the Strategic Investor may be required for the transfer of Shares by the RoL or a RoL Nominee (or any subsequent owner of Shares previously owned by the RoL or a RoL Nominee) to a Competitor or entity in which a Competitor has an interest, taking into account the foreseeable privatisation context in the region; ^930c3e200a182bbf5a6ea00e
+4.2.3           in relation to the circumstances in and terms on which the consent of the Strategic Investor may be required for the transfer of Shares by the RoL or a RoL Nominee (or any subsequent owner of Shares previously owned by the RoL or a RoL Nominee) to a Competitor or entity in which a Competitor has an interest, taking into account the foreseeable privatisation context in the region; ^s-f7c733761f349b75c4e59421
 
 
-4.2.4           in relation to protection and compensation rights which may be available to the PCO and/or the Shareholders from the RoL in respect of certain discriminatory or fundamental changes in law and on the occurrence of certain other events or changes in circumstances (anticipated to include appropriate mechanisms for notifying, agreeing and providing such protection); ^0ca0473514add24fd55a6dee
+4.2.4           in relation to protection and compensation rights which may be available to the PCO and/or the Shareholders from the RoL in respect of certain discriminatory or fundamental changes in law and on the occurrence of certain other events or changes in circumstances (anticipated to include appropriate mechanisms for notifying, agreeing and providing such protection); ^s-a4a2fbbb4c9a073a4c165758
 
 
-4.2.5           in relation to protection and compensation rights which may be available to the Indemnified Persons referred to in Clause 16.5.3 (Breach of warranty) in respect of the RoL's and the PCO's compliance with all applicable Law and procedures regarding the Strategic Investor's selection and the award of, and entry into, the Concession Agreement and each Ancillary Contract from time to time; ^bb131270c4d937753a762c3a
+4.2.5           in relation to protection and compensation rights which may be available to the Indemnified Persons referred to in Clause 16.5.3 (Breach of warranty) in respect of the RoL's and the PCO's compliance with all applicable Law and procedures regarding the Strategic Investor's selection and the award of, and entry into, the Concession Agreement and each Ancillary Contract from time to time; ^s-c7a7004888fd45a3c04a67df
 
 
-4.2.6           in relation to protection and compensation rights which may be available to the Nuclear Indemnified Parties referred to in Clause 15.2 (Nuclear) and other members of the supply chain for the Project with respect to nuclear liability; ^df9abe3a54b867a413fc39f5
+4.2.6           in relation to protection and compensation rights which may be available to the Nuclear Indemnified Parties referred to in Clause 15.2 (Nuclear) and other members of the supply chain for the Project with respect to nuclear liability; ^s-dda6e9afc884f0db5e651d8c
 
 
-4.2.7           in relation to any arrangements with respect to nuclear liability between the RoL and one or more of the governments of the Baltic States relating to the costs of damage incurred in those Baltic States; ^16d0538a7fc0ff0d245b21df
+4.2.7           in relation to any arrangements with respect to nuclear liability between the RoL and one or more of the governments of the Baltic States relating to the costs of damage incurred in those Baltic States; ^s-3fac8aa1856b90d4f9a9db08
 
 
-4.2.8           in relation to any rights to which the RoL may be entitled to cause certain rights of the Strategic Investor under the Shareholders' Agreement and related agreements to be reduced or extinguished in the event of any breach by the Strategic Investor of the obligation described in Clause 31.4 (Strategic Investor transfer of ownership restrictions); ^032bfd07715ad1f627024917
+4.2.8           in relation to any rights to which the RoL may be entitled to cause certain rights of the Strategic Investor under the Shareholders' Agreement and related agreements to be reduced or extinguished in the event of any breach by the Strategic Investor of the obligation described in Clause 31.4 (Strategic Investor transfer of ownership restrictions); ^s-b03eb0bbe2a15afd5241ecbf
 
 
-4.2.9           in relation to protection and compensation rights which may be available to the PCO and/or the Shareholders from the RoL in respect of any request, any holding, and any determination or consequences that result from any referendum in Lithuania; and ^9aff042362c3938d5ba79440
+4.2.9           in relation to protection and compensation rights which may be available to the PCO and/or the Shareholders from the RoL in respect of any request, any holding, and any determination or consequences that result from any referendum in Lithuania; and ^s-3e8b4cb1f7b56a0d56e74625
 
 
-4.2.10         in relation to certain additional support to be given by the RoL to the Project and to the PCO and/or its Shareholders. ^8619272b93781f99d4a09b63
+4.2.10         in relation to certain additional support to be given by the RoL to the Project and to the PCO and/or its Shareholders. ^s-1b2a13ed1c957bd4447d9c74
 
 
-4.3       Standards of Performance ^7480e5fd58cd5574e6074a64
+4.3       Standards of Performance ^s-29dc2b9e53fc9b080183efd2
 The PCO shall perform its obligations under this Concession Agreement:
 
 
-4.3.1      with all due regard to safety and security; and ^a4d867515bcd0311211bde1d
+4.3.1      with all due regard to safety and security; and ^s-6e01c67ca1b65167649c667a
 
 
-4.3.2      in a transparent and co-operative manner with the RoL and the Regulators, provided that it shall not be obliged to act in a manner contrary to its own interests or those of any of the Shareholders. ^d1fa42db41af1f8b2db2bbbc
+4.3.2      in a transparent and co-operative manner with the RoL and the Regulators, provided that it shall not be obliged to act in a manner contrary to its own interests or those of any of the Shareholders. ^s-dd9df62d45e04c87f3b1477f
 
 
-5.         STRATEGIC INVESTOR'S OBLIGATIONS ^6aa400c48a15ef6b78f8779c
+5.         STRATEGIC INVESTOR'S OBLIGATIONS ^s-b0f8e17f66e929379709fd51
 
 
-5.1       The Strategic Investor shall: ^4f9828d43b5c21ac4e01f1c0
+5.1       The Strategic Investor shall: ^s-bee25ef68c66e769a07e6945
 
 
-5.1.1      comply with all applicable Law in performing its obligations under this Concession Agreement; and ^2e16d4f356d870d7465256f4
+5.1.1      comply with all applicable Law in performing its obligations under this Concession Agreement; and ^s-5a70194f2a1ae1eea690b967
 
 
-5.1.2      from the Investment Date, ensure that it has, in the reasonable opinion of the RoL, the resources to perform its obligations under this Concession Agreement or, if not, shall promptly, following a written request by the RoL, provide a guarantee and indemnity from Hitachi, Ltd. substantially in the form agreed between the RoL and Hitachi, Ltd. ^0f367483af3d7b3c4faf84a3
+5.1.2      from the Investment Date, ensure that it has, in the reasonable opinion of the RoL, the resources to perform its obligations under this Concession Agreement or, if not, shall promptly, following a written request by the RoL, provide a guarantee and indemnity from Hitachi, Ltd. substantially in the form agreed between the RoL and Hitachi, Ltd. ^s-92f0fc44b32da933645ae078
 
 
-5.2       The Strategic Investor agrees and undertakes that each of the parties (other than the PCO) to the EPC Contract and each other Ancillary Contract are at the Concession Date, or shall be on the relevant execution date of the Ancillary Contract, an Associated Company of the Strategic Investor, and shall remain an Associated Company of the Strategic Investor until the date which is the earlier of: ^dd4dfc4dbf42ec138ba9fa70
+5.2       The Strategic Investor agrees and undertakes that each of the parties (other than the PCO) to the EPC Contract and each other Ancillary Contract are at the Concession Date, or shall be on the relevant execution date of the Ancillary Contract, an Associated Company of the Strategic Investor, and shall remain an Associated Company of the Strategic Investor until the date which is the earlier of: ^s-932dec2b147654b5e0535abd
 
 
 5.2.1
@@ -574,115 +579,115 @@ The PCO shall perform its obligations under this Concession Agreement:
 (B)       in respect of any other Ancillary Contract, the date upon which it no longer has, or may have, any performance (and not, for the avoidance of doubt, payment) obligations under the relevant Ancillary Contract; and
 
 
-5.2.2      the date upon which the Strategic Investor ceases to be a Party to this Concession Agreement. ^d4612cf56cda2c6c9c067eb3
+5.2.2      the date upon which the Strategic Investor ceases to be a Party to this Concession Agreement. ^s-1efb8535346ab835b46140df
 
 
-5.3       Subject to and in accordance with the terms of the Shareholders' Agreement and/or any other agreement between the Shareholders, the Strategic Investor shall invest twenty per cent (20%) of the total investment in the PCO by the Shareholders. ^201e594e993175d873afd042
+5.3       Subject to and in accordance with the terms of the Shareholders' Agreement and/or any other agreement between the Shareholders, the Strategic Investor shall invest twenty per cent (20%) of the total investment in the PCO by the Shareholders. ^s-da985c44028ca51e65b15f9c
 
 
-6.         PCO OBLIGATIONS ^677b762b80df92cf2cc9a4d0
+6.         PCO OBLIGATIONS ^s-47c073499dca793b52fd512f
 
 
 Nature of PCO's obligations
 
 
-6.1       The PCO shall: ^995fd0ed5669a7c81064b500
+6.1       The PCO shall: ^s-884afa683304b257d053421e
 
 
-6.1.1      comply with all applicable Law, including Environmental Regulations, in relation to its performance of the Concession; ^8b2d3326a2a54f8babd54f9f
+6.1.1      comply with all applicable Law, including Environmental Regulations, in relation to its performance of the Concession; ^s-4f704b5637b9a42883fc409c
 
 
-6.1.2      take all reasonable steps to comply with its obligations (or remedy any breach in respect of such obligations), from time to time, under any Ancillary Contract to the extent required to ensure that no Ancillary Contract becomes terminable by any counterparty to that Ancillary Contract for breach by the PCO; ^af634688b59be5d83a4da220
+6.1.2      take all reasonable steps to comply with its obligations (or remedy any breach in respect of such obligations), from time to time, under any Ancillary Contract to the extent required to ensure that no Ancillary Contract becomes terminable by any counterparty to that Ancillary Contract for breach by the PCO; ^s-2f038780918c4981d594248f
 
 
-6.1.3      if a positive FID is adopted by the Shareholders, subject to the terms of the EPC Contract relating to force majeure, issue the Full Notice to Proceed within ninety (90) Calendar Days after the date of the positive FID; ^2c76b2c343423192773eafcc
+6.1.3      if a positive FID is adopted by the Shareholders, subject to the terms of the EPC Contract relating to force majeure, issue the Full Notice to Proceed within ninety (90) Calendar Days after the date of the positive FID; ^s-dbbdb5ed55d77a242ceba3db
 
 
-6.1.4      perform, or procure the performance of, the designing, developing, financing, constructing, testing and commissioning of the NNPP in such manner as the PCO determines; ^0a65e1502c9d99bf3a365bf4
+6.1.4      perform, or procure the performance of, the designing, developing, financing, constructing, testing and commissioning of the NNPP in such manner as the PCO determines; ^s-5b1d096a4fb6c65c75a74872
 
 
-6.1.5      act as the operator and maintainer, or procure the operation and maintenance, of the NNPP in such manner as the PCO determines; ^b0c5fcc3bffcacebbcdf6401
+6.1.5      act as the operator and maintainer, or procure the operation and maintenance, of the NNPP in such manner as the PCO determines; ^s-af013f9c9345fa43dd8d4243
 
 
-6.1.6      comply with its obligations under applicable Law in relation to: ^ec03844f2b62dd3bf883e2d7
+6.1.6      comply with its obligations under applicable Law in relation to: ^s-5fb257f96e74521700bab192
 (A)      the funding of radioactive waste management and decommissioning (such applicable Law reflecting the Decommissioning and Waste Funding Principles as developed and agreed between the Parties);
 (B)       if relevant because the PCO has elected to decommission, the decommissioning of the NNPP; and
 (C)       if relevant because the PCO has elected not to decommission, transfer of the Site to the RoL;
 
 
-6.1.7      procure that the EPC Contractor provides: ^cf77ea150afaccdb7f616a22
+6.1.7      procure that the EPC Contractor provides: ^s-bd22eeb86465aff75985dab0
 (A)      an advance payment guarantee in respect of any advance payments to be made under the EPC Contract, except where and to the extent that the parties to the EPC Contract have agreed under the EPC Contract that an advance payment guarantee will not be needed in respect of any elements of the price under the EPC Contract which are to be paid in advance;
 (B)       a performance bond as security for the EPC Contractor's obligations under the EPC Contract; and
 (C)       a parent company guarantee in respect of the EPC Contractor's performance of its obligations under the EPC Contract, and any further or revised bonds or guarantees which the EPC Contractor is required to provide under the EPC Contract,
 in each case when required to be provided by the EPC Contractor in accordance with and subject to the terms of the EPC Contract;
 
 
-6.1.8      use all reasonable endeavours to procure that the Shareholders take a final FID (whether positive or negative) by the earlier of 31 December 2015 or the date thirty three (33) Months after the date of the issuance of the first LNTP, or such later date as the RoL may agree (acting reasonably taking into account the prevailing circumstances including the PCO's view on behalf of the Shareholders of when a FID is likely to be taken should the date in this Clause 6.1.8 be extended); and ^c58f4e61938a00eef0ba4f76
+6.1.8      use all reasonable endeavours to procure that the Shareholders take a final FID (whether positive or negative) by the earlier of 31 December 2015 or the date thirty three (33) Months after the date of the issuance of the first LNTP, or such later date as the RoL may agree (acting reasonably taking into account the prevailing circumstances including the PCO's view on behalf of the Shareholders of when a FID is likely to be taken should the date in this Clause 6.1.8 be extended); and ^s-bbe8b6a32ecbddb4f03f01f1
 
 
-6.1.9      if the milestones set out in Clause 4.1.6 (The Relationship: Partnering Principles) are not achieved, or not likely to be achieved, consult with the RoL as soon as reasonably practicable in relation to the actions the PCO intends to take. ^719b8b90fb2183bf7e41cc0d
+6.1.9      if the milestones set out in Clause 4.1.6 (The Relationship: Partnering Principles) are not achieved, or not likely to be achieved, consult with the RoL as soon as reasonably practicable in relation to the actions the PCO intends to take. ^s-3caff06f2809ac580df79879
 
 
-6.2       PCO Responsibilities ^02aa7a503170063c10f42edc
+6.2       PCO Responsibilities ^s-c5364b12be234f496582803b
 The subcontracting or delegation of any of the PCO's obligations under this Concession Agreement (including to the Strategic Investor or any Associated Company of the Strategic Investor) shall not relieve or excuse the PCO from any obligation or liability under this Concession Agreement, nor shall performance of the PCO's obligations be affected by the appointment by the PCO of any Subcontractor or its or their subcontractors or any delegation of its duties under this Concession Agreement. Under this Concession Agreement (without prejudice to Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs)), as between the Parties, the PCO shall be responsible for the failure of its Subcontractors and its or their sub‑subcontractors to comply with the terms of the relevant Subcontract as though those acts or omissions were acts or omissions of the PCO.
 
 
-6.3       Enforcement of PCO and Strategic Investor obligations ^98d9f3b4a2198466650ea263
+6.3       Enforcement of PCO and Strategic Investor obligations ^s-cedc187cf8bc039cef1aab32
 
 
-6.3.1    The Strategic Investor acknowledges and agrees that it shall not be entitled to enforce any obligations of the PCO under this Concession Agreement save for under Clause 15.1 (Nuclear). ^e101e52a59925c9f8e494297
+6.3.1    The Strategic Investor acknowledges and agrees that it shall not be entitled to enforce any obligations of the PCO under this Concession Agreement save for under Clause 15.1 (Nuclear). ^s-7c9d6d6a7013c82cc5a7327a
 
 
-6.3.2    The PCO acknowledges and agrees that it shall not be entitled to enforce any obligations of the Strategic Investor under this Concession Agreement. ^7df2a1589ecc295cbd4ab49d
+6.3.2    The PCO acknowledges and agrees that it shall not be entitled to enforce any obligations of the Strategic Investor under this Concession Agreement. ^s-1b837bd9f086c144b35afbe3
 
 
-7.         ROL OBLIGATIONS ^a6e8fe328f82723e7411a025
+7.         ROL OBLIGATIONS ^s-af1ab44c2a8ee214dd70723d
 
 
-7.1       Nature of RoL's obligations ^0397ce0cc759f96af9644491
+7.1       Nature of RoL's obligations ^s-c18312b7c86c16e550d634ab
 The RoL shall:
 
 
-7.1.1      procure that the Lithuanian Investor: ^e748c115e5cd2636c580bd3d
+7.1.1      procure that the Lithuanian Investor: ^s-4a38d7bdab82aa50172d6abb
 (A)      contributes ownership title in, and any agreed access rights to, the Site to the PCO; and
 (B)       transfers or licenses (or procures the transfer or licensing of) the LIV IP to the PCO,
 at the time (which shall not be earlier than the date on which the Shareholders take a positive FID) and on the terms to be agreed before the date on which the Shareholders take a positive FID, in each case as between the Lithuanian Investor and the PCO (each acting reasonably), save that it is acknowledged and agreed by the Parties that the aggregate value attributable to the Site and the LIV IP shall be no less than fifty million Euros (€50,000,000) (indexed from 1 January 2011 at the indexation rate); and
 
 
-7.1.2      perform (or procure the performance of) the obligations in Schedule 2 (Access Road Works) in relation to the works required to the permanent main haul road from Klaipėda seaport to the Site. ^eabf91e3aac8eb5204c0b803
+7.1.2      perform (or procure the performance of) the obligations in Schedule 2 (Access Road Works) in relation to the works required to the permanent main haul road from Klaipėda seaport to the Site. ^s-7b4f238fcc2f551ea0187ed4
 
 
-7.2       RoL Responsibilities ^cb075f528ad015be5749a12d
+7.2       RoL Responsibilities ^s-1718e401e5a2394c8a780bb5
 The subcontracting or delegation of any of the RoL's obligations under this Concession Agreement shall not relieve or excuse the RoL from any obligation or liability under this Concession Agreement, nor shall performance of the RoL's obligations be affected by the appointment by the RoL of any subcontractor or its or their subcontractors or delegation of its duties under this Concession Agreement. Under this Concession Agreement, as between the Parties, the RoL shall be responsible for the acts and omissions of its subcontractors and the acts and omissions of their sub-subcontractors as though those acts or omissions were acts or omissions of the RoL.
 
 
-7.3       RoL Nominee ^c5b0f9cb9170b3997f8313da
+7.3       RoL Nominee ^s-87bcccc7b1d59c5979945bb9
 Save as otherwise consented to by the Strategic Investor, the RoL shall ensure that:
 
 
-7.3.1      all Shares owned at any time by the RoL or any RoL Nominee shall not be transferred, whether by the RoL, a RoL Nominee or any subsequent owner of the Shares which were once owned by the Lithuanian Investor, the RoL or a RoL Nominee to any Competitor or any person in which a Competitor is a direct or indirect shareholder; and ^079251a7f8da389226a9ed1b
+7.3.1      all Shares owned at any time by the RoL or any RoL Nominee shall not be transferred, whether by the RoL, a RoL Nominee or any subsequent owner of the Shares which were once owned by the Lithuanian Investor, the RoL or a RoL Nominee to any Competitor or any person in which a Competitor is a direct or indirect shareholder; and ^s-0dc5d041154aa15b0b665d6f
 
 
-7.3.2      a Competitor does not become a direct or indirect legal or beneficial owner of any shares in a RoL Nominee. ^1c361d47b61721aa6dd0faa7
+7.3.2      a Competitor does not become a direct or indirect legal or beneficial owner of any shares in a RoL Nominee. ^s-0763ad098bfa1c3dfdc26cc8
 
 
-8.         CHANGES TO the SHAREHOLDERS' AGREEMENT ^47f40529d63567bceb4e21cf
+8.         CHANGES TO the SHAREHOLDERS' AGREEMENT ^s-d143e144dd3f1e738eeb3ca3
 
 
-8.1       The PCO agrees that it shall not (without first obtaining the consent of the RoL, such consent not to be unreasonably withheld, including as to the terms or conditions of any amendment or waiver) agree to any amendment to, or waiver of, any term of the Shareholders' Agreement (including any related terms, definitions or interpretation provisions used in, or affecting, such term) in circumstances where: ^f76b5b2c1630db2f708a016e
+8.1       The PCO agrees that it shall not (without first obtaining the consent of the RoL, such consent not to be unreasonably withheld, including as to the terms or conditions of any amendment or waiver) agree to any amendment to, or waiver of, any term of the Shareholders' Agreement (including any related terms, definitions or interpretation provisions used in, or affecting, such term) in circumstances where: ^s-d9f7a2e47dc416ddf381c6c1
 
 
-8.1.1      such amendment or waiver materially affects any contractual third party right of the RoL under the Shareholders' Agreement; or ^c6f199b816739eefd59d4a97
+8.1.1      such amendment or waiver materially affects any contractual third party right of the RoL under the Shareholders' Agreement; or ^s-1f9325eafc79b83e32715599
 
 
-8.1.2      such amendment or waiver affects the definition in the Shareholders' Agreement of "Prohibited Change of Control", "Relevant Obligations", "Credit Payment" or "Competitor". ^093a2d23b14458bc8c06b85d
+8.1.2      such amendment or waiver affects the definition in the Shareholders' Agreement of "Prohibited Change of Control", "Relevant Obligations", "Credit Payment" or "Competitor". ^s-f4fb6f8798084e532c7a59a7
 
 
 
 PART 2: SHAREHOLDINGS IN THE PCO
 
 
-9.         SHAREHOLDINGS IN THE PCO ^4007b42d67ef768cc5bdd8e8
+9.         SHAREHOLDINGS IN THE PCO ^s-2e0dc47eb2a3e66e4e65381c
 Details of the initial Shareholders of the PCO are set out in Schedule 3 (Initial Shareholders' Details and Shareholding). This Clause 9 (Shareholdings in the PCO) is without prejudice to the exercise of any rights to subscribe for or to transfer any Shares in accordance with and subject to the terms of the Shareholders' Agreement and this Concession Agreement (including Clause 26 (RoL Event Mandatory Transfer of Shares), Clause 31 (Restrictions on Transfer of Shares and Change of Control) and Clause 32 (Shareholder Put Option)).
 
 
@@ -690,19 +695,19 @@ Details of the initial Shareholders of the PCO are set out in Schedule 3 (Initia
 PART 3: GENERAL OBLIGATIONS
 
 
-10.       OUTSOURCING/SUBCONTRACTING ^c9a08f80b1495e2d7cae4e1a
+10.       OUTSOURCING/SUBCONTRACTING ^s-098d34a260743eee918c7fcb
 
 
-10.1     Subcontracting ^db1df3073ce35abb8e976e1f
+10.1     Subcontracting ^s-b3b6fb52646987ffc5e14555
 
 
-10.1.1             Subject to Clause 10.1.2 below, the PCO shall ensure that under each Key Subcontract, the relevant Key Subcontractor shall not be entitled to terminate or amend the relevant Key Subcontract as a result of any change in the ownership, management or Control of the PCO to the RoL or a RoL Nominee. ^a67e21abf1690ed869666400
+10.1.1             Subject to Clause 10.1.2 below, the PCO shall ensure that under each Key Subcontract, the relevant Key Subcontractor shall not be entitled to terminate or amend the relevant Key Subcontract as a result of any change in the ownership, management or Control of the PCO to the RoL or a RoL Nominee. ^s-a233b55eae6e460f97793ca6
 
 
-10.1.2             Where the PCO proposes to enter into a Key Subcontract on the basis of the Key Subcontractor's standard terms which are inconsistent with the requirements of Clause 10.1.1, the PCO shall not be in breach of Clause 10.1.1 if it has used all reasonable endeavours to comply with the requirements of Clause 10.1.1. ^bc7ba65805ffba4bae4c6dc9
+10.1.2             Where the PCO proposes to enter into a Key Subcontract on the basis of the Key Subcontractor's standard terms which are inconsistent with the requirements of Clause 10.1.1, the PCO shall not be in breach of Clause 10.1.1 if it has used all reasonable endeavours to comply with the requirements of Clause 10.1.1. ^s-fbbf29d86fc1ddfd7aa9adbb
 
 
-10.2     Outsourcing ^1e8b6d307dddc555f1ce4cb4
+10.2     Outsourcing ^s-bcfe1039c30c1f6596d01316
 Provided that a positive FID is taken, the Strategic Investor shall procure that, as at COD, those of its Associated Companies that are party to an Ancillary Contract(s) shall have outsourced to Third Parties no less than ten per cent (10%) of the aggregate value of the works or services or any combination thereof performed in aggregate under all Ancillary Contracts. This obligation shall not apply if the EPC Contact is terminated before COD.
 
 
@@ -710,13 +715,13 @@ Provided that a positive FID is taken, the Strategic Investor shall procure that
 PART 4: PROJECT MANAGEMENT
 
 
-11.                 REPORTS AND MONITORING ^f37b4c916a7be80e54f2681e
+11.                 REPORTS AND MONITORING ^s-5c4f053f1e1af1b82ef7c972
 
 
-11.1     Project Management ^ba2bccbe575819eb5a541344
+11.1     Project Management ^s-dab03e177a1701c623e17594
 
 
-11.1.1         Subject to Clauses 11.1.4 and 13 (Confidentiality), the PCO shall provide to the MoE, on behalf of the RoL: ^374ac95e124c532ec3b5a35b
+11.1.1         Subject to Clauses 11.1.4 and 13 (Confidentiality), the PCO shall provide to the MoE, on behalf of the RoL: ^s-e9746f3bfa8050187c3fc293
 (A)      every three (3) Months commencing on the date six (6) Months after the Investment Date and until COD, a report (the "Pre‑COD Report") in relation to the following:
 (1)       the progress of the Project in accordance with the Development Timetable and any programme (including in relation to any key dates or milestones set out in the EPC Contract and any milestone set out in Clauses 4.1.6 (The Relationship: Partnering Principles) and 6.1.8 (PCO Obligations)), together with any material information regarding the performance of the Strategic Investor's obligations and the PCO's obligations under this Concession Agreement and the performance of any Key Subcontracts (as applicable in relation to each of them);
 (2)       information in relation to any material matters which will or may be reasonably considered to be likely to lead to a delay of the achievement of any key dates or milestones set out in the EPC Contract and any milestone set out in Clauses 4.1.6 (The Relationship: Partnering Principles) and 6.1.8 (PCO Obligations), together with such supporting information and in such detail as the RoL may reasonably request or require in order to enable the RoL to form a reasonable understanding of the issue(s) arising and any related cause of such delay; and
@@ -725,135 +730,135 @@ PART 4: PROJECT MANAGEMENT
 (the Post‑COD Reports and Pre‑COD Reports being the "Reports" and each a "Report"), each Report in the form and to a level of detail to be agreed (within one (1) Month of the Investment Date or COD, as applicable) between the PCO and the RoL each acting reasonably.
 
 
-11.1.2         Subject to Clauses 11.1.4 and 13 (Confidentiality), if reasonably requested by the MoE, on behalf of the RoL, after the Investment Date, senior officers of the PCO shall attend and participate in meetings with the MoE, for and on behalf of the RoL, and such other government bodies in connection with the Project as the MoE, for and on behalf of the RoL, may reasonably require. ^670ae285d6ee228ccae47542
+11.1.2         Subject to Clauses 11.1.4 and 13 (Confidentiality), if reasonably requested by the MoE, on behalf of the RoL, after the Investment Date, senior officers of the PCO shall attend and participate in meetings with the MoE, for and on behalf of the RoL, and such other government bodies in connection with the Project as the MoE, for and on behalf of the RoL, may reasonably require. ^s-7350e98e63baf5a0c9bc78be
 
 
-11.1.3         Subject to Clauses 11.1.4 and 13 (Confidentiality), the PCO shall provide the RoL with any additional information the RoL may reasonably request to clarify any information included or referred to in a Report provided that any such request is made by the RoL within one (1) Month after the date on which the RoL receives the relevant Report. ^b44248feaedde3a642edaaee
+11.1.3         Subject to Clauses 11.1.4 and 13 (Confidentiality), the PCO shall provide the RoL with any additional information the RoL may reasonably request to clarify any information included or referred to in a Report provided that any such request is made by the RoL within one (1) Month after the date on which the RoL receives the relevant Report. ^s-7b996e3162ef4b0dbac24d1d
 
 
-11.1.4         Nothing in this Clause 11.1 (Project Management), Clause 11.3 (Notification of a decision not to proceed to any further LNTP phase), Clause 11.4.2 (Notification of taking FID) or Clause 12 (Regulatory Interface) shall oblige the PCO to disclose information which: ^1c47bb07b9821a2857a59509
+11.1.4         Nothing in this Clause 11.1 (Project Management), Clause 11.3 (Notification of a decision not to proceed to any further LNTP phase), Clause 11.4.2 (Notification of taking FID) or Clause 12 (Regulatory Interface) shall oblige the PCO to disclose information which: ^s-5d46bf3c1c79cb609efbac39
 (A)      the PCO must keep confidential as a matter of applicable law in respect of safety and security matters;
 (B)       is the subject of a duty or undertaking of confidentiality between the PCO and a Third Party or the Strategic Investor under any contract or otherwise where to disclose such information would be a breach by the PCO of such duty or undertaking of confidentiality, provided that, if the PCO may be entitled to disclose such information with the consent of such Third Party or the Strategic Investor (as appropriate), the PCO shall use reasonable endeavours to obtain such consent;
 (C)       is commercially sensitive to the PCO or the Strategic Investor or constitutes confidential information for the purposes of Clause 13.2 (Confidential Information); or
 (D)      is legally privileged (or which the PCO reasonably asserts is legally privileged).
 
 
-11.2     Inspection ^1bfa838936e08c77c89a8c73
+11.2     Inspection ^s-cddfdaddac01f5fb63afefe0
 The Parties acknowledge that VATESI has the right under applicable Law to inspect the NNPP, including for the purposes of fulfilling the RoL's rights of inspection as granting authority under the Law on Concessions.
 
 
-11.3     Notification of a decision not to proceed to any further LNTP phase ^7d563324dfb54010a9d48601
+11.3     Notification of a decision not to proceed to any further LNTP phase ^s-1c53367d8c85646ee541e17f
 
 
-11.3.1           If after the first LNTP phase, the Shareholders decide that the PCO will not proceed to any further LNTP phase (if any) and such decision is final, the PCO shall notify the MoE on behalf of the RoL as soon as possible following the taking of such decision. ^6d253c8e5210f29687eca03b
+11.3.1           If after the first LNTP phase, the Shareholders decide that the PCO will not proceed to any further LNTP phase (if any) and such decision is final, the PCO shall notify the MoE on behalf of the RoL as soon as possible following the taking of such decision. ^s-34a39c749fc43a9564a7235e
 
 
-11.3.2           If such a decision has been taken, Clause 23.2.1 (Termination following a negative FID or decision not to proceed to any further LNTP phase) shall apply and, subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality), the PCO shall provide the MoE on behalf of the RoL with reasonable details in respect of the reasons for such decision. ^35921af04b9e6ff4617b377c
+11.3.2           If such a decision has been taken, Clause 23.2.1 (Termination following a negative FID or decision not to proceed to any further LNTP phase) shall apply and, subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality), the PCO shall provide the MoE on behalf of the RoL with reasonable details in respect of the reasons for such decision. ^s-292aace7086dc649c33c17a0
 
 
-11.3.3           The final decision not to proceed to any further LNTP phase (if any) shall be deemed to be a final negative FID (as defined in Clause 11.4.1) and references to notification to the RoL of a final negative FID pursuant to Clause 11.4 (Notification of taking FID) shall be deemed to include the deemed final negative FID under this Clause 11.3 (Notification of a decision not to proceed to any further LNTP phase). ^aab426def43edb21539d75f7
+11.3.3           The final decision not to proceed to any further LNTP phase (if any) shall be deemed to be a final negative FID (as defined in Clause 11.4.1) and references to notification to the RoL of a final negative FID pursuant to Clause 11.4 (Notification of taking FID) shall be deemed to include the deemed final negative FID under this Clause 11.3 (Notification of a decision not to proceed to any further LNTP phase). ^s-302ae60dabb2bb793b1f7fbc
 
 
-11.4     Notification of taking FID ^13d6d1a36735b1ffdebe0b1b
+11.4     Notification of taking FID ^s-79dbd76f7a1563341ae9a4f6
 
 
-11.4.1           If the Shareholders take: ^33e63e20f94e00c74edfbf2d
+11.4.1           If the Shareholders take: ^s-d2f4b798c7545b790e93593a
 (A)      a negative FID which they conclude is final and they conclude that no further FID(s) will be taken (a "final negative FID"); or
 (B)       a positive FID,
 the PCO shall notify the MoE on behalf of the RoL as soon as possible following the taking of such FID.
 
 
-11.4.2           If a final negative FID has been taken, Clause 23.2.2 (Termination following a negative FID or decision not to proceed to any further LNTP phase) shall apply and, subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality), the PCO shall provide the MoE on behalf of the RoL with reasonable details in respect of why a final negative FID has been taken. ^6f86749745deb6c21ee38fe2
+11.4.2           If a final negative FID has been taken, Clause 23.2.2 (Termination following a negative FID or decision not to proceed to any further LNTP phase) shall apply and, subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality), the PCO shall provide the MoE on behalf of the RoL with reasonable details in respect of why a final negative FID has been taken. ^s-473a92e253286e29e43934c4
 
 
-12.       REGULATORY INTERFACE ^fc7be150e4cf8ce56fca59ba
+12.       REGULATORY INTERFACE ^s-8b6b65634cc2e836ff099368
 
 
-12.1     Save where prohibited by applicable law, including any Regulatory Requirements, and subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality) and Clause 12.3 below, the PCO shall, after the Investment Date, promptly notify the MoE, for and on behalf of the RoL, in writing of any material action by a Regulator (including any suspension notices, enforcement notices and/or material amendments required to relevant procedures) in relation to the Project. ^a024681c004b765d5bc56b03
+12.1     Save where prohibited by applicable law, including any Regulatory Requirements, and subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality) and Clause 12.3 below, the PCO shall, after the Investment Date, promptly notify the MoE, for and on behalf of the RoL, in writing of any material action by a Regulator (including any suspension notices, enforcement notices and/or material amendments required to relevant procedures) in relation to the Project. ^s-223c2619d68f9fc4ef4a771c
 
 
-12.2     Save where prohibited by applicable law, including any Regulatory Requirements, and subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality) and Clause 12.3 below, the MoE, for and on behalf of the RoL, shall, after the Investment Date, be entitled to require discussions with the PCO, whether by way of meetings or otherwise, to understand the circumstances that have prompted such action from any Regulator. ^dd234c1b7d5aa6befaf467b2
+12.2     Save where prohibited by applicable law, including any Regulatory Requirements, and subject to Clauses 11.1.4 (Project Management) and 13 (Confidentiality) and Clause 12.3 below, the MoE, for and on behalf of the RoL, shall, after the Investment Date, be entitled to require discussions with the PCO, whether by way of meetings or otherwise, to understand the circumstances that have prompted such action from any Regulator. ^s-75fdbefdf6292559ec7134d9
 
 
-12.3     For the purposes of this Clause 12 (Regulatory Interface), references to "Regulator" shall mean only those Lithuanian Regulators who have statutory authority to oversee and regulate the undertaking of any of the design, construction, testing, commissioning, operation, maintenance and/or decommissioning of the NNPP. ^8072d358e2c9253706eb285d
+12.3     For the purposes of this Clause 12 (Regulatory Interface), references to "Regulator" shall mean only those Lithuanian Regulators who have statutory authority to oversee and regulate the undertaking of any of the design, construction, testing, commissioning, operation, maintenance and/or decommissioning of the NNPP. ^s-520fd5e75d9caec278365c7d
 
 
 
 PART 5: CONFIDENTIALITY AND PUBLICITY
 
 
-13.       CONFIDENTIALITY ^25f8054551e5b91f640fb23e
+13.       CONFIDENTIALITY ^s-0bb9241030cfda2fe48e6e3f
 
 
-13.1     Parties ^367a599bfff7fc08418fa137
+13.1     Parties ^s-17d1741d2a6761b07c1217f1
 The Parties acknowledge and agree that:
 
 
-13.1.1           Clauses 13.2 (Confidential Information) to 13.11 (Loss) (inclusive) shall apply as between: (1) the RoL and the PCO; and (2) the RoL and the Strategic Investor, and shall not apply as between the PCO and the Strategic Investor and references to "Party", "Recipient" or "Disclosing Party" shall be construed accordingly; ^d3a70dc567daacff9fcfad51
+13.1.1           Clauses 13.2 (Confidential Information) to 13.11 (Loss) (inclusive) shall apply as between: (1) the RoL and the PCO; and (2) the RoL and the Strategic Investor, and shall not apply as between the PCO and the Strategic Investor and references to "Party", "Recipient" or "Disclosing Party" shall be construed accordingly; ^s-97a312f88839226b14ec6908
 
 
-13.1.2           for the purposes of this Clause 13 (Confidentiality) only (other than Clause 13.9 (Highly Sensitive Information)), each reference to the RoL shall: ^dc0c64e802aa686dd7765200
+13.1.2           for the purposes of this Clause 13 (Confidentiality) only (other than Clause 13.9 (Highly Sensitive Information)), each reference to the RoL shall: ^s-f0a2bc0ec57e7dd253d87d3a
 (A)      where the RoL is the Recipient (other than under Clause 13.6 (Liability)), be deemed to be a reference to the MoE and not a reference to any other RoL entity (as defined in Clause 13.10 (RoL entity) below); and
 (B)       in relation to disclosure (and liability for such disclosure including under Clause 13.6 (Liability)) of such information provided to or obtained by the MoE, references shall be to the RoL; and
 
 
-13.1.3           notwithstanding the foregoing, the RoL remains fully liable for the actions and inactions of the MoE as though they were the actions or inactions of the RoL in connection with this Clause 13 (Confidentiality). ^81413dd1b8335312d8789501
+13.1.3           notwithstanding the foregoing, the RoL remains fully liable for the actions and inactions of the MoE as though they were the actions or inactions of the RoL in connection with this Clause 13 (Confidentiality). ^s-a128734f943b608605360200
 
 
-13.2     Confidential Information ^09014e59e78db627c48b47fe
+13.2     Confidential Information ^s-09b7cd1e570186b32d607d59
 Subject to Clauses 13.3 (Exclusions) and 13.4 (Permitted Disclosure), each Party (the "Recipient") undertakes to the other Party (the "Disclosing Party") that (unless the prior written consent of the Disclosing Party shall first have been obtained) the Recipient shall, and shall procure that its officers, employees, advisors, representatives and agents shall, keep confidential and not by failure to exercise due care or otherwise by any act or omission disclose to any person whatsoever, or use or exploit for its or their own purposes or the purposes of any other person (whether commercial or otherwise), any of the confidential information of the Disclosing Party. For the purposes of this Clause 13 (Confidentiality) and subject to Clause 13.3 (Exclusions), "confidential information" means:
 
 
-13.2.1        any agreement or arrangement contemplated by this Concession Agreement whether that agreement or arrangement is provided directly or indirectly through the Strategic Investor, the PCO or otherwise, provided that, in relation to the Ancillary Contracts and the Shareholders' Agreement, each of the PCO and the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure; ^9e690c93b7aefd5daf043f44
+13.2.1        any agreement or arrangement contemplated by this Concession Agreement whether that agreement or arrangement is provided directly or indirectly through the Strategic Investor, the PCO or otherwise, provided that, in relation to the Ancillary Contracts and the Shareholders' Agreement, each of the PCO and the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure; ^s-c21d3c934132ca3cd9aac400
 
 
-13.2.2        information of whatever nature concerning the business, finances, assets, liabilities, dealings, transactions, know-how, customers, suppliers, processes or affairs of the Disclosing Party; ^bca56a01da62e46ff3711ddc
+13.2.2        information of whatever nature concerning the business, finances, assets, liabilities, dealings, transactions, know-how, customers, suppliers, processes or affairs of the Disclosing Party; ^s-6653b6d08837334eee8edce5
 
 
-13.2.3        information of whatever nature concerning the business, finances, assets, liabilities, dealings, transactions, know-how, customers, suppliers, processes or affairs of any member of the Hitachi, Ltd. Group or GE-Hitachi Nuclear Energy Americas LLC or Global Nuclear Fuel – Americas, LLC, whether that information was provided directly or indirectly through the Strategic Investor, the PCO or otherwise and in relation to such information the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure; ^18e48f0f0b1dd27fd7873aab
+13.2.3        information of whatever nature concerning the business, finances, assets, liabilities, dealings, transactions, know-how, customers, suppliers, processes or affairs of any member of the Hitachi, Ltd. Group or GE-Hitachi Nuclear Energy Americas LLC or Global Nuclear Fuel – Americas, LLC, whether that information was provided directly or indirectly through the Strategic Investor, the PCO or otherwise and in relation to such information the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure; ^s-c930e9fc61bb97b6920b2daa
 
 
-13.2.4        Highly Sensitive Information, whether that information was provided directly or indirectly through the Strategic Investor, the PCO or otherwise and in relation to such information the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure; ^80adddaaff0381a3d2024264
+13.2.4        Highly Sensitive Information, whether that information was provided directly or indirectly through the Strategic Investor, the PCO or otherwise and in relation to such information the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure; ^s-b9f8d97a9e61c3a520443839
 
 
-13.2.5        any documents, materials and other information which is expressly indicated to be confidential or is imparted by the Disclosing Party to the Recipient in circumstances importing an obligation of confidence and any Reports provided under Clause 11 (Reports and Monitoring); and ^77ffec3b7bf8db170a744224
+13.2.5        any documents, materials and other information which is expressly indicated to be confidential or is imparted by the Disclosing Party to the Recipient in circumstances importing an obligation of confidence and any Reports provided under Clause 11 (Reports and Monitoring); and ^s-9680b3258f63a538e3d1db1c
 
 
-13.2.6        information of whatever nature relating to the negotiation of agreements in relation to the Project following the Concession Date to the extent that such negotiations are not subject to the terms of any other confidentiality undertaking entered into after the Concession Date between the RoL and the PCO or between the Strategic Investor and the RoL and in relation to such information which also falls within either of Clauses 13.2.3 or 13.2.4 above, the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure, ^68228ffce49e64f24b2710a0
+13.2.6        information of whatever nature relating to the negotiation of agreements in relation to the Project following the Concession Date to the extent that such negotiations are not subject to the terms of any other confidentiality undertaking entered into after the Concession Date between the RoL and the PCO or between the Strategic Investor and the RoL and in relation to such information which also falls within either of Clauses 13.2.3 or 13.2.4 above, the Strategic Investor shall be considered to be the Disclosing Party irrespective of who makes the disclosure, ^s-bec3b1b6d06c2d50a145c724
 and which the Recipient may from time to time receive or obtain (orally or in writing or in disk or electronic form) as a result of entering into, or performing its obligations pursuant to, this Concession Agreement or (in relation only to the RoL and its receipt of or obtaining Highly Sensitive Information) otherwise.
 
 
-13.3     Exclusions ^4a86261238e975ba4099a6a0
+13.3     Exclusions ^s-81e0ef6461125fc0a952850b
 Notwithstanding Clause 13.2 (Confidential Information), confidential information shall not include:
 
 
-13.3.1        information which is in the public domain other than as a result of a breach of this Concession Agreement by the Recipient and for these purposes the knowledge of any RoL entity shall not be considered to be public domain; ^71d033b36b22bacbd4b53809
+13.3.1        information which is in the public domain other than as a result of a breach of this Concession Agreement by the Recipient and for these purposes the knowledge of any RoL entity shall not be considered to be public domain; ^s-4aff2e38be44f24d9d889e75
 
 
-13.3.2        information which is disclosed to the Recipient by a Third Party (other than a RoL entity) who is not in breach of any undertaking or duty as to confidentiality, whether express or implied, in relation to that information; ^322e24ae2a83d184cf251891
+13.3.2        information which is disclosed to the Recipient by a Third Party (other than a RoL entity) who is not in breach of any undertaking or duty as to confidentiality, whether express or implied, in relation to that information; ^s-2edddd0f350b0d4d177eeb63
 
 
-13.3.3        information which the Recipient can prove that it lawfully possessed (other than from a RoL entity) prior to obtaining it from the Disclosing Party and such information was not subject to any undertaking or duty as to confidentiality, whether express or implied; ^77ad3e587eccd74abcb7cc82
+13.3.3        information which the Recipient can prove that it lawfully possessed (other than from a RoL entity) prior to obtaining it from the Disclosing Party and such information was not subject to any undertaking or duty as to confidentiality, whether express or implied; ^s-77734db502b5e4c298246569
 
 
-13.3.4        this Concession Agreement itself and its existence; and ^35692a0f84a8ce350e22e56c
+13.3.4        this Concession Agreement itself and its existence; and ^s-d86470396b198aa516e9cb99
 
 
-13.3.5        the existence of any Project Agreement other than the Concession Agreement. ^d2be26fb3e502088be352b90
+13.3.5        the existence of any Project Agreement other than the Concession Agreement. ^s-2118b2e44912afc182c201d3
 
 
-13.4     Permitted Disclosure ^4085a3609d56f49e70a20215
+13.4     Permitted Disclosure ^s-1e8783dfbbc8f7bed72da44f
 Subject to Clause 13.9 (Highly Sensitive Information), the consent referred to in Clause 13.2 (Confidential Information) shall not be required for disclosure by the Recipient of any confidential information:
 
 
-13.4.1        to its officers, employees, representatives and agents or to its Associated Companies and their officers, employees, representatives and agents, in each case to the extent that: ^c74cc13fbecdd5d83467363c
+13.4.1        to its officers, employees, representatives and agents or to its Associated Companies and their officers, employees, representatives and agents, in each case to the extent that: ^s-f3cf2287c4ba86fe92628c11
 (A)      such disclosure is for the purposes of the Project or in relation to matters contemplated by this Concession Agreement;
 (B)       those officers, employees, representatives and agents need to know the relevant confidential information in order to perform their duties in connection with the Project; or
 (C)       such disclosure is required to enable the Recipient to carry out its obligations or exercise its rights under this Concession Agreement,
 and who shall in each case be made aware by the Recipient of its obligations under this Concession Agreement and who shall be required by the Recipient to observe the same restrictions on the use of the relevant information as are contained in this Clause 13 (Confidentiality);
 
 
-13.4.2        where the RoL is the Recipient, to the Parliament and the Government of the Republic of Lithuania, including all ministries and ministers, and each of their respective officers, employees, representatives and agents, in each case to the extent reasonably necessary: ^28ea7de8b542cd9311b4e9a3
+13.4.2        where the RoL is the Recipient, to the Parliament and the Government of the Republic of Lithuania, including all ministries and ministers, and each of their respective officers, employees, representatives and agents, in each case to the extent reasonably necessary: ^s-7e7e9411b69708ce8f679481
 (A)      to comply with the Government of the Republic of Lithuania's statutory functions and duties;
 (B)       for the implementation of any relevant policy of the Government of the Republic of Lithuania;
 (C)       for the purposes of national security or safety; or
@@ -861,25 +866,25 @@ and who shall in each case be made aware by the Recipient of its obligations und
 and who shall in each case be made aware by the Recipient of its obligations under this Concession Agreement and who shall be required by the Recipient to observe the same restrictions on the use of the relevant information as are contained in this Clause 13 (Confidentiality);
 
 
-13.4.3        subject to Clause 13.5, to its professional advisers who are bound to the Recipient by a duty of confidence which applies to any information disclosed; ^873191104df2ae88158582e0
+13.4.3        subject to Clause 13.5, to its professional advisers who are bound to the Recipient by a duty of confidence which applies to any information disclosed; ^s-c73caabe76385219b75da403
 
 
-13.4.4        subject to Clause 13.5, to its insurers upon obtaining an undertaking of confidentiality for the benefit of the Recipient equivalent to that contained in this Clause 13 (Confidentiality); ^7fc43d52fc41801119b00d43
+13.4.4        subject to Clause 13.5, to its insurers upon obtaining an undertaking of confidentiality for the benefit of the Recipient equivalent to that contained in this Clause 13 (Confidentiality); ^s-b8f1fbfdff4977bc6da77866
 
 
-13.4.5        subject to Clause 13.5, to potential or actual Financiers upon obtaining an undertaking of confidentiality for the benefit of the Recipient equivalent to that contained in this Clause 13 (Confidentiality); ^3e066a852555c5032b13a940
+13.4.5        subject to Clause 13.5, to potential or actual Financiers upon obtaining an undertaking of confidentiality for the benefit of the Recipient equivalent to that contained in this Clause 13 (Confidentiality); ^s-33f20ae135a0666555c0224f
 
 
-13.4.6        to Shareholders, a direct or indirect investor in the PCO (other than a direct or indirect investor in a RoL Nominee) or persons with whom the PCO and/or any Shareholder(s) are in discussions in relation to becoming a Shareholder or a direct or indirect investor in the PCO (other than a direct or indirect investor in a RoL Nominee) upon obtaining an undertaking of confidentiality for the benefit of the Recipient equivalent to that contained in this Clause 13 (Confidentiality); ^818903ab017260b2fd3aa073
+13.4.6        to Shareholders, a direct or indirect investor in the PCO (other than a direct or indirect investor in a RoL Nominee) or persons with whom the PCO and/or any Shareholder(s) are in discussions in relation to becoming a Shareholder or a direct or indirect investor in the PCO (other than a direct or indirect investor in a RoL Nominee) upon obtaining an undertaking of confidentiality for the benefit of the Recipient equivalent to that contained in this Clause 13 (Confidentiality); ^s-82e0cad2e25ed321833db4de
 
 
-13.4.7        to the minimum extent required by applicable law (including to any Regulator) or by the regulations of any stock exchange or regulatory or supervisory authority to which the Recipient or any of its Associated Companies is subject or pursuant to any binding order of any court of competent jurisdiction or other Competent Authority or tribunal; ^fa4acbf16052961ef15b1924
+13.4.7        to the minimum extent required by applicable law (including to any Regulator) or by the regulations of any stock exchange or regulatory or supervisory authority to which the Recipient or any of its Associated Companies is subject or pursuant to any binding order of any court of competent jurisdiction or other Competent Authority or tribunal; ^s-c08c5dd483a5a192cc1241af
 
 
-13.4.8        to a court or tribunal in relation to any Dispute or in relation to any claim in connection with the Project made under an Investment Protection Treaty; or ^7298f345e4aae6abeba93c24
+13.4.8        to a court or tribunal in relation to any Dispute or in relation to any claim in connection with the Project made under an Investment Protection Treaty; or ^s-8801931657d88e7eaec30034
 
 
-13.4.9        to the Parliament and the Government of the Republic of Latvia and the Parliament and the Government of the Republic of Estonia (as applicable), including all ministries and ministers, and each of their respective officers, employees, representatives and agents ("Regional Partner Government") (whether directly or via the Shareholders), in each case to the extent reasonably necessary: ^156ca937d276159b9baf119b
+13.4.9        to the Parliament and the Government of the Republic of Latvia and the Parliament and the Government of the Republic of Estonia (as applicable), including all ministries and ministers, and each of their respective officers, employees, representatives and agents ("Regional Partner Government") (whether directly or via the Shareholders), in each case to the extent reasonably necessary: ^s-6f3980598b481411051d06c8
 (A)         to comply with the statutory functions and duties of the Regional Partner Government;
 (B)         for the implementation of any relevant policy of the Regional Partner Government;
 (C)         for the purposes of national security or safety; or
@@ -887,74 +892,74 @@ and who shall in each case be made aware by the Recipient of its obligations und
 and who shall in each case be made aware of the Recipient's obligations under this Concession Agreement and who shall be required by the Recipient to observe the same restrictions on the use of the relevant information as are contained in this Clause 13 (Confidentiality).
 
 
-13.5     Any disclosure of confidential information by a Recipient to its professional advisers, insurers or any Financiers under Clauses 13.4.3, 13.4.4 and 13.4.5 respectively shall be limited to the extent that: ^0511de7b3b97980c6038cf89
+13.5     Any disclosure of confidential information by a Recipient to its professional advisers, insurers or any Financiers under Clauses 13.4.3, 13.4.4 and 13.4.5 respectively shall be limited to the extent that: ^s-2b298e3bab092154add28e90
 
 
-13.5.1       such disclosure is for the purposes of the Project or in relation to matters contemplated by this Concession Agreement; and ^23196127acab2794edcfdd5a
+13.5.1       such disclosure is for the purposes of the Project or in relation to matters contemplated by this Concession Agreement; and ^s-d5f276fb5b8f0f6537bec84e
 
 
-13.5.2       those professional advisers, insurers or Financiers (as applicable) need to know the relevant confidential information in order to perform their current or future obligations or duties to the Recipient. ^a314b058542a5099eb3f8658
+13.5.2       those professional advisers, insurers or Financiers (as applicable) need to know the relevant confidential information in order to perform their current or future obligations or duties to the Recipient. ^s-d0fbd45be6c15cb7a9bcf156
 
 
-13.6     Liability ^6aacd51177a16af1356bf430
+13.6     Liability ^s-87679954cac7e48dd19d844c
 Each Recipient shall be fully responsible for, and liable to the Disclosing Party for, any further disclosure of a Disclosing Party's confidential information made by a Third Party recipient (and any of their recipients) as though such disclosure were made by the Recipient under this Concession Agreement. For the avoidance of doubt, any person who receives confidential information pursuant to Clause 13.4 (Permitted Disclosure) (including any RoL entity) shall be a "Third Party recipient".
 
 
-13.7     Consent ^6ec309258aef2d41384853ca
+13.7     Consent ^s-113671c204376c97ab2ef969
 If a Recipient requests the Disclosing Party's consent to disclose any of the Disclosing Party's confidential information that consent shall not be unreasonably withheld or delayed. This Clause 13.7 (Consent) shall not apply to Highly Sensitive Information.
 
 
-13.8     If any Recipient becomes required, in circumstances contemplated by Clauses 13.4.7 (Permitted Disclosure) or 13.9.1(B) (Highly Sensitive Information) to disclose any confidential information (including Highly Sensitive Information), the Recipient shall, to the extent permissible by applicable law: ^5662c3eae6dfe8e5f44efb25
+13.8     If any Recipient becomes required, in circumstances contemplated by Clauses 13.4.7 (Permitted Disclosure) or 13.9.1(B) (Highly Sensitive Information) to disclose any confidential information (including Highly Sensitive Information), the Recipient shall, to the extent permissible by applicable law: ^s-596d18249027cf41f6a56aa5
 
 
-13.8.1           give to the Disclosing Party such notice as is reasonably practical in the circumstances of such disclosure; ^95318e0fcd694561c221f30e
+13.8.1           give to the Disclosing Party such notice as is reasonably practical in the circumstances of such disclosure; ^s-296767c7633170aab42f394a
 
 
-13.8.2           cooperate with the Disclosing Party (having due regard to the Disclosing Party's views) and take such steps as the Disclosing Party may reasonably require in order to enable it to mitigate the effects of, or avoid the requirements for, any such disclosure; and ^bae94113b3a26a904e76d5f6
+13.8.2           cooperate with the Disclosing Party (having due regard to the Disclosing Party's views) and take such steps as the Disclosing Party may reasonably require in order to enable it to mitigate the effects of, or avoid the requirements for, any such disclosure; and ^s-c46ed2270f7dd6fd33c7bd03
 
 
-13.8.3           in consultation with the Disclosing Party, take such measures as are reasonably practicable to minimise the extent of any such disclosure, including by disclosing the minimum amount of confidential information required to comply with such law, regulation or order. ^1fdca5bc3121ce7c6eada64b
+13.8.3           in consultation with the Disclosing Party, take such measures as are reasonably practicable to minimise the extent of any such disclosure, including by disclosing the minimum amount of confidential information required to comply with such law, regulation or order. ^s-f42c39dd76c9ffc79fb6c470
 
 
-13.9     Highly Sensitive Information ^41397803458e4468b1c37218
+13.9     Highly Sensitive Information ^s-895999ddd8d76fbc01402bb2
 
 
-13.9.1    Notwithstanding any other provision of this Concession Agreement, the Parties agree and acknowledge that neither the PCO nor the Strategic Investor shall be required, whether as part of a report or otherwise, to provide the RoL with any Highly Sensitive Information under this Concession Agreement or otherwise (except to the extent required by applicable Law including where lawfully compelled by any Lithuanian Regulator). To the extent that the RoL (including, for the avoidance of doubt, each RoL entity) is provided with Highly Sensitive Information, the RoL (including, for the avoidance of doubt, each RoL entity), notwithstanding Clause 13.4 (Permitted Disclosure), shall not disclose that Highly Sensitive Information to any other person unless: ^a72d6d00f977aab6f8163b59
+13.9.1    Notwithstanding any other provision of this Concession Agreement, the Parties agree and acknowledge that neither the PCO nor the Strategic Investor shall be required, whether as part of a report or otherwise, to provide the RoL with any Highly Sensitive Information under this Concession Agreement or otherwise (except to the extent required by applicable Law including where lawfully compelled by any Lithuanian Regulator). To the extent that the RoL (including, for the avoidance of doubt, each RoL entity) is provided with Highly Sensitive Information, the RoL (including, for the avoidance of doubt, each RoL entity), notwithstanding Clause 13.4 (Permitted Disclosure), shall not disclose that Highly Sensitive Information to any other person unless: ^s-cd971f26c36aeebc8d99c2d7
 (A)      the RoL has first consulted with the Strategic Investor regarding such disclosure and obtained the prior consent of the Strategic Investor; or
 (B)       disclosure is required by applicable Law (including where lawfully required by any Regulator).
 
 
-13.9.2           For the avoidance of doubt, and subject to Clause 13.9.3, the RoL agrees that it will be liable for any disclosure of any Highly Sensitive Information by any RoL entity where such disclosure is not permitted by Clause 13.9.1, irrespective of how such RoL entity obtained the Highly Sensitive Information. ^bab59539487f88b58c645fcf
+13.9.2           For the avoidance of doubt, and subject to Clause 13.9.3, the RoL agrees that it will be liable for any disclosure of any Highly Sensitive Information by any RoL entity where such disclosure is not permitted by Clause 13.9.1, irrespective of how such RoL entity obtained the Highly Sensitive Information. ^s-0eedb60da47c56190c0b6277
 
 
-13.9.3           The Strategic Investor (or the PCO) may inform the MoE or any other RoL entity that any particular information is Highly Sensitive Information at the time of, or at any time after, such information is disclosed to such other RoL entity and the RoL shall only be liable for any disclosure of Highly Sensitive Information if the MoE or such other RoL entity has been informed, prior to that disclosure, that the particular information is Highly Sensitive Information. ^c5d63f06354f47d73efe4bcd
+13.9.3           The Strategic Investor (or the PCO) may inform the MoE or any other RoL entity that any particular information is Highly Sensitive Information at the time of, or at any time after, such information is disclosed to such other RoL entity and the RoL shall only be liable for any disclosure of Highly Sensitive Information if the MoE or such other RoL entity has been informed, prior to that disclosure, that the particular information is Highly Sensitive Information. ^s-0e04e92e780d4b5286c8829d
 
 
-13.9.4           If the MoE or another RoL entity obtains Highly Sensitive Information (including through any voluntary disclosure by the Strategic Investor or the PCO) and MoE or such other RoL entity is informed that the relevant information is Highly Sensitive Information and/or such information is marked with the words (or words to the effect of) "Highly Sensitive Information subject to a confidentiality undertaking under the Concession Agreement", then, for the purposes of any subsequent disclosure by the MoE or such RoL entity, the Strategic Investor (or the PCO) shall be deemed to have informed any subsequent recipients that the information is Highly Sensitive Information. ^e4e450815073fca8a902a547
+13.9.4           If the MoE or another RoL entity obtains Highly Sensitive Information (including through any voluntary disclosure by the Strategic Investor or the PCO) and MoE or such other RoL entity is informed that the relevant information is Highly Sensitive Information and/or such information is marked with the words (or words to the effect of) "Highly Sensitive Information subject to a confidentiality undertaking under the Concession Agreement", then, for the purposes of any subsequent disclosure by the MoE or such RoL entity, the Strategic Investor (or the PCO) shall be deemed to have informed any subsequent recipients that the information is Highly Sensitive Information. ^s-1d98b5fe830231f16af38d24
 
 
-13.10         RoL entity ^e6b926bf57b44fc008dc408d
+13.10         RoL entity ^s-49579be950f1070a45d702da
 For the purposes of this Clause 13 (Confidentiality), "RoL entity" shall mean the Parliament of the Republic of Lithuania (including any member of the Parliament), the Government of the Republic of Lithuania (including any prime minister, minister or vice-minister), the President of the Republic of Lithuania (and the Office of the President) and any subdivision of the legal entity that is the Republic of Lithuania including all departments, commissions, boards, bureaux, ministries, inspectorates, each Lithuanian Regulator, agencies, offices or other instrumentalities and each of their respective officers, employees, representatives and agents whether or not having rights as a legal person.
 
 
-13.11         Loss ^8505b6696e42c520681467af
+13.11         Loss ^s-45c726189d4e3d806e432000
 
 
-13.11.1           If the RoL is liable under Clause 13.9 (Highly Sensitive Information) other than in respect of a disclosure by the MoE or a disclosure of information (including Highly Sensitive Information) originally provided to the MoE, direct losses of the type set out in Clauses 16.3.1(B), 16.3.1(C), 16.3.1(D) and 16.3.1(E) (Limitation of Liability) shall not be excluded. ^b5d29ebe64710b7da562354e
+13.11.1           If the RoL is liable under Clause 13.9 (Highly Sensitive Information) other than in respect of a disclosure by the MoE or a disclosure of information (including Highly Sensitive Information) originally provided to the MoE, direct losses of the type set out in Clauses 16.3.1(B), 16.3.1(C), 16.3.1(D) and 16.3.1(E) (Limitation of Liability) shall not be excluded. ^s-22d14727fed34f1401b45b1c
 
 
-13.11.2           If the RoL is liable under this Clause 13 (Confidentiality) save as contemplated in Clause 13.11.1, losses (whether direct or indirect) of the type set out in Clauses 16.3.1(A) to 16.3.1(F) (Limitation of Liability) (inclusive) shall not be excluded. ^f8d95249b96a62f620753855
+13.11.2           If the RoL is liable under this Clause 13 (Confidentiality) save as contemplated in Clause 13.11.1, losses (whether direct or indirect) of the type set out in Clauses 16.3.1(A) to 16.3.1(F) (Limitation of Liability) (inclusive) shall not be excluded. ^s-33f70596ef4f6940cb039b2c
 
 
-13.12         Third Party Loss ^2f3a62fadabeb8c4ea7ba205
+13.12         Third Party Loss ^s-d1d4e8fc55f1813ab8c9da2d
 In addition to the above, the RoL shall have obligations of confidentiality to members of the Hitachi, Ltd. Group, GE-Hitachi Nuclear Energy Americas LLC and Global Nuclear Fuel-Americas, LLC on the same terms (to apply mutatis mutandis) as its obligations to the Strategic Investor under this Clause 13 (Confidentiality).
 
 
-13.13         Freedom of Information ^30e88b2d5df471d7783947c8
+13.13         Freedom of Information ^s-24776f6791f660ff09ab268f
 The Parties agree, and the RoL shall ensure, that no member of the public shall be entitled to receive all or any information provided to the RoL (including, for the avoidance of doubt, any RoL entity and any recipient of information pursuant to Clause 13.4.2 (Permitted Disclosure)) in connection with the Project pursuant to any applicable Law relating to or in connection with freedom of information. The foregoing shall be without prejudice to the right of the RoL to disclose information in connection with the Project subject to and fully in compliance with this Clause 13 (Confidentiality).
 
 
-14.       PUBLICITY ^b0106cfd2c0c051745f59931
+14.       PUBLICITY ^s-b36395dbba839ddcb1af4a91
 Subject to the provisions of Clause 13 (Confidentiality), each Party may make such disclosures or announcements concerning the terms or the subject matter of this Concession Agreement or the Project as they wish.
 
 
@@ -962,50 +967,50 @@ Subject to the provisions of Clause 13 (Confidentiality), each Party may make su
 PART 6: NUCLEAR, LIABILITY AND INSURANCE
 
 
-15.       NUCLEAR ^8acd52e4f5ba57bd51950ff0
+15.       NUCLEAR ^s-737c5087cad8206989acb145
 
 
-15.1     The RoL and the PCO each irrevocably and unconditionally acknowledges and agrees that, notwithstanding any provision to the contrary in this Concession Agreement, any Ancillary Contract, the Shareholders' Agreement, any subcontract (of any tier relating to any of the foregoing) or any other contract between the RoL or the PCO (as the case may be) and one or more Project Participants or their Related Persons in relation to or in connection with the Project, no such contract or any other contract in writing provides for or shall provide for a right of recourse which would be permitted under Article X(a) of the Vienna Convention 1963 or the Amended Vienna Convention or Article 10(a) of the Annex to the Convention on Supplementary Compensation. ^92260f61fa77b236a2d4188d
+15.1     The RoL and the PCO each irrevocably and unconditionally acknowledges and agrees that, notwithstanding any provision to the contrary in this Concession Agreement, any Ancillary Contract, the Shareholders' Agreement, any subcontract (of any tier relating to any of the foregoing) or any other contract between the RoL or the PCO (as the case may be) and one or more Project Participants or their Related Persons in relation to or in connection with the Project, no such contract or any other contract in writing provides for or shall provide for a right of recourse which would be permitted under Article X(a) of the Vienna Convention 1963 or the Amended Vienna Convention or Article 10(a) of the Annex to the Convention on Supplementary Compensation. ^s-cd4f7b10621f75f74825d18d
 
 
-15.2     The RoL shall indemnify on demand and hold harmless each member of the Hitachi, Ltd. Group, GE-Hitachi Nuclear Energy Americas LLC and Global Nuclear Fuel-Americas, LLC (the "Nuclear Indemnified Parties") from and against any and all Claims (whether or not successful, compromised or settled) which may be instituted, made, threatened, alleged, asserted or established (each a "Relevant Nuclear Claim") from time to time in any jurisdiction against or otherwise involving a Nuclear Indemnified Party and for all Losses which a Nuclear Indemnified Party may suffer or incur from time to time (including all Losses incurred in disputing any Relevant Nuclear Claim and/or in bringing a Relevant Nuclear Claim under this Clause 15.2 (Nuclear) and/or in seeking advice regarding any Relevant Nuclear Claim or in any way related to or in connection with the indemnity in this Clause 15.2 (Nuclear)), in any such case arising out of, based upon, in connection with or to any extent as a consequence of, the use by any person of any work product or other deliverables provided by or on behalf of any Ancillary Contractor pursuant to an Ancillary Contract to the extent that such use occurs on or after the date (if any) on which the RoL and/or one or more RoL Nominees and/or any subsequent owner(s) of Shares which were once owned by the Lithuanian Investor, the RoL or a RoL Nominee first becomes the owner of all of the Shares which are not then owned by the Lithuanian Investor. ^78910aac935d816e51eb597b
+15.2     The RoL shall indemnify on demand and hold harmless each member of the Hitachi, Ltd. Group, GE-Hitachi Nuclear Energy Americas LLC and Global Nuclear Fuel-Americas, LLC (the "Nuclear Indemnified Parties") from and against any and all Claims (whether or not successful, compromised or settled) which may be instituted, made, threatened, alleged, asserted or established (each a "Relevant Nuclear Claim") from time to time in any jurisdiction against or otherwise involving a Nuclear Indemnified Party and for all Losses which a Nuclear Indemnified Party may suffer or incur from time to time (including all Losses incurred in disputing any Relevant Nuclear Claim and/or in bringing a Relevant Nuclear Claim under this Clause 15.2 (Nuclear) and/or in seeking advice regarding any Relevant Nuclear Claim or in any way related to or in connection with the indemnity in this Clause 15.2 (Nuclear)), in any such case arising out of, based upon, in connection with or to any extent as a consequence of, the use by any person of any work product or other deliverables provided by or on behalf of any Ancillary Contractor pursuant to an Ancillary Contract to the extent that such use occurs on or after the date (if any) on which the RoL and/or one or more RoL Nominees and/or any subsequent owner(s) of Shares which were once owned by the Lithuanian Investor, the RoL or a RoL Nominee first becomes the owner of all of the Shares which are not then owned by the Lithuanian Investor. ^s-2d8aa59603472cf82b721d43
 
 
-15.3     The indemnity in Clause 15.2 (Nuclear) shall not apply in respect of Relevant Nuclear Claims or Losses of any Nuclear Indemnified Party to the extent that such Relevant Nuclear Claims or Losses arise as a consequence of the use of any such work product or other deliverable(s): ^26ca43ae7672dfaca8cb89e1
+15.3     The indemnity in Clause 15.2 (Nuclear) shall not apply in respect of Relevant Nuclear Claims or Losses of any Nuclear Indemnified Party to the extent that such Relevant Nuclear Claims or Losses arise as a consequence of the use of any such work product or other deliverable(s): ^s-9c314f8f48663c7401ed9096
 
 
-15.3.1         by that Nuclear Indemnified Party; or ^ccf13d5e92ce3cc2253034d2
+15.3.1         by that Nuclear Indemnified Party; or ^s-c78ec39167b84d32707208f3
 
 
-15.3.2         by any person who is a Shareholder at the Concession Date (other than the Lithuanian Investor); or ^db6b15e37d4344abdb63703d
+15.3.2         by any person who is a Shareholder at the Concession Date (other than the Lithuanian Investor); or ^s-5e2d78980d872e0ddd3c69ad
 
 
-15.3.3         by any Third Party that receives, whether directly or indirectly, such work product or other deliverable(s) from a Nuclear Indemnified Party where such work product or other deliverable(s) were originally provided by a Nuclear Indemnified Party for a purpose which is not related to the Project. ^63a99120f1537b839745c611
+15.3.3         by any Third Party that receives, whether directly or indirectly, such work product or other deliverable(s) from a Nuclear Indemnified Party where such work product or other deliverable(s) were originally provided by a Nuclear Indemnified Party for a purpose which is not related to the Project. ^s-667a193ce77f478c7c597616
 
 
-15.4     This indemnity shall terminate automatically if a positive FID is taken by the Shareholders (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)). ^1397e5139d517ae7f955a0ac
+15.4     This indemnity shall terminate automatically if a positive FID is taken by the Shareholders (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)). ^s-81d4816ac1dbb8b7fb9110fc
 
 
-16.       LIABILITY ^f71f517882cf1565602f2e91
+16.       LIABILITY ^s-10e649351ea0990477267bc0
 
 
-16.1     Liability pursuant to Clause 4 (The Relationship: Partnering Principles) ^3968316ea65c8040e30f33ea
+16.1     Liability pursuant to Clause 4 (The Relationship: Partnering Principles) ^s-e6ab3f434ed65731b80f51e7
 Save for, and without prejudice to, Clause 6.1.9 (PCO's obligations), which shall be a binding obligation, Clause 4 (The Relationship: Partnering Principles) shall not create (and is not intended to create) legally binding rights and obligations for any Party and no Party shall be liable to any other Party under this Concession Agreement or otherwise and this Concession Agreement may not be terminated in relation to any breach or non-performance of all or any part of Clause 4 (The Relationship: Partnering Principles). Accordingly, the Parties acknowledge and agree that no part of Clause 4 (The Relationship: Partnering Principles) shall or is intended to prevent any Party from exercising any right, seeking or enforcing performance of any obligation, and is without prejudice to any rights and obligations, under this Concession Agreement. Furthermore, save in respect of Clause 6.1.9 (PCO's obligations), it is agreed and acknowledged that the provisions of Clause 4 (The Relationship: Partnering Principles) shall not be relevant to the construction or interpretation of any other provision of this Concession Agreement.
 
 
-16.2     Interaction between Claims under the Concession Agreement and Claims under Investment Protection Treaties ^b38905389c7caa7250b4dfd3
+16.2     Interaction between Claims under the Concession Agreement and Claims under Investment Protection Treaties ^s-c9bd0cd37b0e7819049de47b
 
 
 Level of compensation in the Concession Agreement to be considered by investment tribunals
 
 
-16.2.1         If a Party seeks relief under any applicable Investment Protection Treaty in respect of an event for which it would also be entitled to redress under this Concession Agreement, when deciding the level of compensation to be awarded to the relevant Party, any arbitral tribunal seized of such a Claim shall be guided by any relevant levels of compensation agreed in Clause 16.3 (Limitation of Liability), Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs) and Clause 26 (RoL Event Mandatory Transfer of Shares). ^d4a7dbc54128fd7c14288458
+16.2.1         If a Party seeks relief under any applicable Investment Protection Treaty in respect of an event for which it would also be entitled to redress under this Concession Agreement, when deciding the level of compensation to be awarded to the relevant Party, any arbitral tribunal seized of such a Claim shall be guided by any relevant levels of compensation agreed in Clause 16.3 (Limitation of Liability), Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs) and Clause 26 (RoL Event Mandatory Transfer of Shares). ^s-0fb1416d3c9790d3395370ce
 
 
 Concurrent Claims
 
 
-16.2.2         Where a particular circumstance gives rise to Dispute, as defined in Clause 45.1 (Dispute Resolution Procedure and Arbitration), for which a Party may initiate international arbitration proceedings under an Investment Protection Treaty (a "Treaty Claim") or make a Claim under the Concession Agreement (a "Contract Claim"): ^37e82ca0321e6f26f7649ed7
+16.2.2         Where a particular circumstance gives rise to Dispute, as defined in Clause 45.1 (Dispute Resolution Procedure and Arbitration), for which a Party may initiate international arbitration proceedings under an Investment Protection Treaty (a "Treaty Claim") or make a Claim under the Concession Agreement (a "Contract Claim"): ^s-2a894794156540c7a2eef87b
 (A)      the relevant Party may, at its election, bring the Treaty Claim and the Contract Claim under a single arbitration proceeding in accordance with the ICSID Convention and the Parties hereby agree that such Claims may be heard concurrently in the same proceedings by the same arbitral tribunal;
 (B)       if the relevant Party does not bring the Treaty Claim and the Contract Claim under a single proceeding at the Centre, then, to the extent permitted by law, if:
 (1)       the relevant Party first makes a Contract Claim, it shall not be entitled to bring a Treaty Claim to the extent that the relief sought in any Treaty Claim directly or indirectly seeks the enforcement of the specified consequences in Clause 16.3 (Limitation of Liability), Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs) and Clause 26 (RoL Event Mandatory Transfer of Shares), but not otherwise, until the arbitral tribunal constituted to determine the Contract Claim issues its final award or the proceedings are otherwise terminated; and
@@ -1013,10 +1018,10 @@ Concurrent Claims
 (C)       if the relevant Party brings a Treaty Claim and a Contract Claim under a single proceeding at the Centre, but for any reason those Claims cannot be heard in a single proceeding and by the same tribunal, the relevant Party may bring separate proceedings in relation to those Claims.
 
 
-16.3     Limitation of Liability ^5199efdf33e3dd82d31cde0b
+16.3     Limitation of Liability ^s-99522bd91b46a21dd4da30dd
 
 
-16.3.1         Subject to Clause 13.11 (Loss) and Clause 16.3.3 and except where such losses are caused by a Party's fraud or deliberate default, the Parties shall have no liability under this Concession Agreement in any circumstances whatsoever in respect of any actual or expected: ^f09eed4e36e1939eddc6c7d0
+16.3.1         Subject to Clause 13.11 (Loss) and Clause 16.3.3 and except where such losses are caused by a Party's fraud or deliberate default, the Parties shall have no liability under this Concession Agreement in any circumstances whatsoever in respect of any actual or expected: ^s-6924e57c6957f33757d908cd
 (A)      special, indirect or consequential loss;
 (B)       loss of profit;
 (C)       loss of revenue, loss of goodwill, loss of opportunity or loss of business;
@@ -1026,13 +1031,13 @@ Concurrent Claims
 which may be sustained or claimed by any Party under or in connection with this Concession Agreement. For the avoidance of doubt, the losses referred to in Clauses 16.3.1(B), (C), (D) and (E) include both indirect and direct loss.
 
 
-16.3.2         Subject to Clause 16.3.3: ^7ab8856da9b9e63be25cfa56
+16.3.2         Subject to Clause 16.3.3: ^s-3578faffec9d4a4fdecb4b0c
 (A)      the RoL shall have no liability under or in connection with this Concession Agreement whatsoever for any Claim in relation to Clause 7.1 (Nature of RoL's obligations) or 42.2 (Co-operation in relation to the Power at Cost Structure);
 (B)       without prejudice to Clause 19.2.6 (Sole remedies for RoL Event, PCO Default, and Strategic Investor Default), the PCO shall have no liability under or in connection with this Concession Agreement whatsoever save in respect of all successful Claims against it in relation to Clauses 13 (Confidentiality), 28 (Warranties) and 30 (Assignment);
 (C)       without prejudice to Clause 19.2.5 (Sole remedies for RoL Event, PCO Default, and Strategic Investor Default), the Strategic Investor shall have no liability under or in connection with this Concession Agreement whatsoever save in respect of all successful Claims against it in relation to Clauses 13 (Confidentiality), 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs), 28 (Warranties) and 30 (Assignment).
 
 
-16.3.3         The limitations on liability set out in this Clause 16.3 (Limitation of Liability) shall not exclude or limit: ^dd93bb801d7831d5941c53c0
+16.3.3         The limitations on liability set out in this Clause 16.3 (Limitation of Liability) shall not exclude or limit: ^s-fd7cf7d5791380ca2f166dc1
 (A)      any Party's liability to an individual (or to the estate of a deceased individual) for the death of, or personal injury sustained by, such individual to the extent such death or personal injury was caused by that Party's negligence, or the negligence of that Party's employees, agents or subcontractors (as applicable);
 (B)       any Party's liability to the extent any such limitation or exclusion of liability would be in contravention of applicable law;
 (C)       any Party's obligation to pay any amount due and payable under or in connection with Clause 24 (Damages for Termination);
@@ -1040,27 +1045,27 @@ which may be sustained or claimed by any Party under or in connection with this 
 (E)       the RoL's liabilities in respect of its obligations under or in connection with Clause 7.3 (RoL Nominee), Clause 15 (Nuclear), Clause 16.5.1 and Clause 16.5.3 (Breach of warranty).
 
 
-16.4     General ^71647b1683fcc920d92f5019
+16.4     General ^s-c423730578887be087793553
 
 
-16.4.1         Nothing in this Clause 16 (Liability) restricts or limits the general obligation at law of each of the Parties to mitigate any Losses which they may suffer or incur as a consequence of any breach of any provision of this Concession Agreement. ^6878a844d0c757bed02257f0
+16.4.1         Nothing in this Clause 16 (Liability) restricts or limits the general obligation at law of each of the Parties to mitigate any Losses which they may suffer or incur as a consequence of any breach of any provision of this Concession Agreement. ^s-005ae478444ee73aefaf725d
 
 
-16.4.2         This Clause 16 (Liability) applies notwithstanding any other provision of this Concession Agreement to the contrary and shall not cease to have effect as a consequence of any rescission or termination of any other provisions of this Concession Agreement. ^ca12fd475bbff1c9af752602
+16.4.2         This Clause 16 (Liability) applies notwithstanding any other provision of this Concession Agreement to the contrary and shall not cease to have effect as a consequence of any rescission or termination of any other provisions of this Concession Agreement. ^s-4aa3e5e2cc20f5b36a2e56c1
 
 
-16.5     Breach of warranty ^b4b79e30f8fec3ca3a2d98ad
+16.5     Breach of warranty ^s-004c6bcce61df6967ee13731
 The other provisions of this Clause 16.5 (Breach of warranty) are subject to Clause 16.5.9.
 
 
-16.5.1         If: ^a5524982b8a9e0a28e818fdc
+16.5.1         If: ^s-89e464b9abdacd5530f4f2b5
 (A)      this Concession Agreement could have been terminable for a RoL Event but for this Concession Agreement having been determined by a competent court or pursuant to the Dispute Resolution Procedure to be void, ineffective or unenforceable (in each case in whole or in part); and/or
 (B)       an Exiting Shareholder would have had a right to payment pursuant to Clause 26.4 (Payment of the Mandatory Transfer Price) but for this Concession Agreement having been determined by a competent court or pursuant to the Dispute Resolution Procedure to be void, ineffective or unenforceable (in each case in whole or in part); and/or
 (C)       pursuant to Clause 20.2 (Termination for a RoL Event), this Concession Agreement has terminated for a RoL Event of the type set out in Clause 20.1.1 (Events of RoL Event) and Clause 26.4 (Payment of the Mandatory Transfer Price) has been determined by a competent court or pursuant to the Dispute Resolution Procedure to be void, ineffective or unenforceable (in each case in whole or in part),
 the RoL shall indemnify each of the Shareholders for a sum equal to the amounts which would otherwise, but for the determination that this Concession Agreement and/or the right to payment pursuant to Clause 26.4 (Payment of the Mandatory Transfer Price) is void, ineffective or unenforceable (in each case in whole or in part), be due and payable to that Shareholder under Clause 26.4 (Payment of the Mandatory Transfer Price).
 
 
-16.5.2         If it has been agreed or determined pursuant to Clause 20.2 (Termination for a RoL Event) that this Concession Agreement is to be terminated or has terminated for a RoL Event of the type set out in Clause 20.1.1 (Events of RoL Event) or if the RoL has served a termination notice under Clause 16.5.7, Clause 16.5.3 shall cease to apply solely in respect of losses directly relating to the value of the Shares. ^50a44208482165304e813b2a
+16.5.2         If it has been agreed or determined pursuant to Clause 20.2 (Termination for a RoL Event) that this Concession Agreement is to be terminated or has terminated for a RoL Event of the type set out in Clause 20.1.1 (Events of RoL Event) or if the RoL has served a termination notice under Clause 16.5.7, Clause 16.5.3 shall cease to apply solely in respect of losses directly relating to the value of the Shares. ^s-29bf79d125ac3869bf66575f
 
 
 16.5.3
@@ -1076,19 +1081,19 @@ the RoL shall indemnify each of the Shareholders for a sum equal to the amounts 
 (2)       has been clawed back or otherwise required to be returned under applicable Law (to the extent not included in Clause 16.5.3(D)(1)).
 
 
-16.5.4         The liability of the RoL under or in respect of the indemnity under Clause 16.5.3 (Breach of warranty) shall be reduced to the extent that the Indemnified Person (whether or not a Party) has not taken all reasonable steps to mitigate its Loss (provided that the costs of such mitigation shall be recoverable under that indemnity). ^4b5b07c30cb93f2e9dd3d076
+16.5.4         The liability of the RoL under or in respect of the indemnity under Clause 16.5.3 (Breach of warranty) shall be reduced to the extent that the Indemnified Person (whether or not a Party) has not taken all reasonable steps to mitigate its Loss (provided that the costs of such mitigation shall be recoverable under that indemnity). ^s-ffff6f17241aeef88bed1fcc
 
 
-16.5.5         Neither the PCO nor the Strategic Investor shall have any liability for any act, omission, decision, breach or failure to observe by the RoL in respect of the RoL's obligations to comply with all applicable Laws and regulations (including European Union law and any procedures for competitive bidding in the field of public works concessions). ^17b0635299ea97cee5e4a993
+16.5.5         Neither the PCO nor the Strategic Investor shall have any liability for any act, omission, decision, breach or failure to observe by the RoL in respect of the RoL's obligations to comply with all applicable Laws and regulations (including European Union law and any procedures for competitive bidding in the field of public works concessions). ^s-b66f881690d912d616d0ab5b
 
 
-16.5.6         The indemnities in Clauses 16.5.1 and 16.5.3 and the right to terminate under Clause 20.1.1 and be paid in respect of that termination under Clause 26.4 (Payment of the Mandatory Transfer Price) shall be the sole remedy of the PCO and the Shareholders (as applicable) for breach of the warranty in Clause 28.1.2 (Warranties). ^cc2a60f66c0ea2f10d2984fe
+16.5.6         The indemnities in Clauses 16.5.1 and 16.5.3 and the right to terminate under Clause 20.1.1 and be paid in respect of that termination under Clause 26.4 (Payment of the Mandatory Transfer Price) shall be the sole remedy of the PCO and the Shareholders (as applicable) for breach of the warranty in Clause 28.1.2 (Warranties). ^s-39dbfe66f21bcad7be6e837c
 
 
-16.5.7         If, during the period from the Concession Date until the date on which a positive FID or a final negative FID is taken (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)), any person (including any Party) makes any Claim under Clause 16.5.3, the RoL shall, for so long as any Claim under Clause 16.5.3 subsists, and at any point in that period, be entitled to terminate this Concession Agreement. If the RoL wishes to exercise such right to terminate, it shall serve notice on the PCO (copied to the Strategic Investor), notifying the PCO that the RoL has elected to terminate this Concession Agreement. ^4fee9557bfb9ba8b91a1d7af
+16.5.7         If, during the period from the Concession Date until the date on which a positive FID or a final negative FID is taken (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)), any person (including any Party) makes any Claim under Clause 16.5.3, the RoL shall, for so long as any Claim under Clause 16.5.3 subsists, and at any point in that period, be entitled to terminate this Concession Agreement. If the RoL wishes to exercise such right to terminate, it shall serve notice on the PCO (copied to the Strategic Investor), notifying the PCO that the RoL has elected to terminate this Concession Agreement. ^s-657075f71bdf44a1c432e806
 
 
-16.5.8         If the RoL issues a notice pursuant to Clause 16.5.7, then Clauses 16.5.1 (Breach of warranty), 20.3 (Consequences of a RoL Event), 20.4 (Mitigation following a RoL Event) and 26 (RoL Event and Mandatory Transfer of Shares) shall apply mutatis mutandis. ^b597620369c8860c5615ab42
+16.5.8         If the RoL issues a notice pursuant to Clause 16.5.7, then Clauses 16.5.1 (Breach of warranty), 20.3 (Consequences of a RoL Event), 20.4 (Mitigation following a RoL Event) and 26 (RoL Event and Mandatory Transfer of Shares) shall apply mutatis mutandis. ^s-fda55a2813ace5e28efc50ea
 
 
 16.5.9
@@ -1097,16 +1102,16 @@ the RoL shall indemnify each of the Shareholders for a sum equal to the amounts 
 (C)       Clause 16.5.7 shall cease to apply automatically if the Shareholders take a final negative FID or a positive FID (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)).
 
 
-17.       DAMAGES ARE INSUFFICIENT COMPENSATION AND EQUITABLE REMEDIES ARE TO BE AVAILABLE ^cde4ac45537326a276ea5c19
+17.       DAMAGES ARE INSUFFICIENT COMPENSATION AND EQUITABLE REMEDIES ARE TO BE AVAILABLE ^s-afe9f2fcb4c9b35ebc836318
 
 
-17.1     Without prejudice to any other rights or remedies that the Parties may have, the Parties acknowledge and agree that damages alone might not be an adequate remedy for any breach by them of Clause 13 (Confidentiality) and that the remedies of injunction and specific performance as well as any equitable relief for any threatened or actual breach of Clause 13 (Confidentiality) by any Party may be more appropriate remedies. ^2c680d2be739e586e24be860
+17.1     Without prejudice to any other rights or remedies that the Parties may have, the Parties acknowledge and agree that damages alone might not be an adequate remedy for any breach by them of Clause 13 (Confidentiality) and that the remedies of injunction and specific performance as well as any equitable relief for any threatened or actual breach of Clause 13 (Confidentiality) by any Party may be more appropriate remedies. ^s-7b7f42fef92380fa14d3fcf3
 
 
-17.2     The Parties agree that they shall not exercise the remedies of injunction and specific performance in respect of Clauses 4 (The Relationship: Partnering Principles), 5 (Strategic Investor's Obligations), 6 (PCO Obligations) and 18 (Insurance). ^4e15d21470f428a082c66b18
+17.2     The Parties agree that they shall not exercise the remedies of injunction and specific performance in respect of Clauses 4 (The Relationship: Partnering Principles), 5 (Strategic Investor's Obligations), 6 (PCO Obligations) and 18 (Insurance). ^s-99f4166d294b5fa91b47afb7
 
 
-18.       INSURANCE ^6d04cf88f3daba35d40bc940
+18.       INSURANCE ^s-6e27abd3d87dda4759e5cf4e
 The PCO shall take out and maintain, or procure the maintenance of, the Required Insurances to the extent available in the market. If such Required Insurances are not available or readily available in the market, the PCO shall use reasonable endeavours to negotiate the provision of such insurance or seek alternative means of providing such Required Insurances.
 
 
@@ -1114,40 +1119,40 @@ The PCO shall take out and maintain, or procure the maintenance of, the Required
 PART 7: TERMINATION
 
 
-19.       Application of Clauses 19 to 26 inclusive: Termination ^38c3065d80d64a61de14f518
+19.       Application of Clauses 19 to 26 inclusive: Termination ^s-2f6c8907132e7ec8531dca2d
 
 
-19.1     Termination ^5c62cbd2b53d391912002ae3
+19.1     Termination ^s-b69ccda5c2d12d075966237c
 
 
-19.1.1         Subject to Clause 2.2 (Award of Concession and Term), this Concession Agreement shall only be capable of termination in accordance with: ^16f77c21ca683cee6ac76aea
+19.1.1         Subject to Clause 2.2 (Award of Concession and Term), this Concession Agreement shall only be capable of termination in accordance with: ^s-b588e587f262e9d5f3d75a9d
 (A)      any of the provisions referred to in Clause 19.1.2; or
 (B)       Clause 23.1 (Termination by Agreement of the Parties),
 and the provisions referred to in Clauses 19.1.1(A) and 19.1.1(B) state fully all rights of any Party to terminate this Concession Agreement and any other right of termination which any Party would otherwise have had by virtue of common law (including termination for repudiatory breach), in equity, statute or otherwise is excluded.
 
 
-19.1.2         In the period from the Concession Date until the date on which a positive FID or a final negative FID is taken (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)), this Concession Agreement may: ^350de1c56a3abdc96294a681
+19.1.2         In the period from the Concession Date until the date on which a positive FID or a final negative FID is taken (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)), this Concession Agreement may: ^s-36f6987f0d6ac9d9f3b16414
 (A)      be terminated by the RoL in accordance with Clause 21.3.1 (Consequences of a PCO Default); or
 (B)       be terminated in accordance with Clause 16.5.7 (Breach of warranty); or
 (C)       terminate automatically in accordance with Clauses 23.2 (Termination following a negative FID or decision not to proceed to any further LNTP phase) or 26.5 (Termination and further provisions).
 
 
-19.1.3         In the period from the Concession Date until the date on which a positive FID or final negative FID is taken (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)), the rights and obligations of the Strategic Investor under this Concession Agreement may be terminated in accordance with Clause 22.2 (Termination of the Strategic Investor's rights and obligations) and, should such a termination occur, this Concession Agreement shall continue in full force and effect as between the RoL and the PCO. ^200f205bcc1205ae56c048e7
+19.1.3         In the period from the Concession Date until the date on which a positive FID or final negative FID is taken (as notified to the RoL pursuant to Clause 11.4 (Notification of taking FID)), the rights and obligations of the Strategic Investor under this Concession Agreement may be terminated in accordance with Clause 22.2 (Termination of the Strategic Investor's rights and obligations) and, should such a termination occur, this Concession Agreement shall continue in full force and effect as between the RoL and the PCO. ^s-3b646d46ff367eb856f7b8c5
 
 
-19.1.4         The rights and obligations of the Strategic Investor under this Concession Agreement may be terminated at any time in accordance with Clause 23.3 (Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding) and, should such a termination occur, this Concession Agreement shall continue in full force and effect as between the RoL and the PCO. ^1749ed3125ec3d24db8b1428
+19.1.4         The rights and obligations of the Strategic Investor under this Concession Agreement may be terminated at any time in accordance with Clause 23.3 (Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding) and, should such a termination occur, this Concession Agreement shall continue in full force and effect as between the RoL and the PCO. ^s-ac3944dc0cc3692fa37617c0
 
 
-19.1.5         For the avoidance of doubt, following a positive FID, this Concession Agreement may only be terminated in accordance with Clause 23.1 (Termination by Agreement of the Parties). ^0976fe38032f8a1ed202f894
+19.1.5         For the avoidance of doubt, following a positive FID, this Concession Agreement may only be terminated in accordance with Clause 23.1 (Termination by Agreement of the Parties). ^s-1c2890197229cce1cebedda7
 
 
-19.2     Sole remedies for RoL Event, PCO Default, and Strategic Investor Default ^d1a67197d72d45a226132cbc
+19.2     Sole remedies for RoL Event, PCO Default, and Strategic Investor Default ^s-09e9c99bcd19e0d0a2aa920a
 
 
-19.2.1         The limitations in this Clause 19.2 are without prejudice to (i) any rights or remedies under any Investment Protection Treaty (but subject to Clause 16.2 (Interaction between Claims under the Concession Agreement and Claims under Investment Protection Treaties)); and (ii) subject to Clause 17 (Damages are insufficient compensation and equitable remedies are to be available), any right to injunctive relief and specific performance in respect of enforcing the remedies referred to in this Clause 19.2 (Sole remedies for RoL Event, PCO Default and Strategic Investor Default). ^d6b4df69f500383a4e34273b
+19.2.1         The limitations in this Clause 19.2 are without prejudice to (i) any rights or remedies under any Investment Protection Treaty (but subject to Clause 16.2 (Interaction between Claims under the Concession Agreement and Claims under Investment Protection Treaties)); and (ii) subject to Clause 17 (Damages are insufficient compensation and equitable remedies are to be available), any right to injunctive relief and specific performance in respect of enforcing the remedies referred to in this Clause 19.2 (Sole remedies for RoL Event, PCO Default and Strategic Investor Default). ^s-dc077fb634cbb1963ccfffff
 
 
-19.2.2         Without prejudice to the indemnities in Clause 16.5 (Breach of warranty), the sole remedy of the Strategic Investor for a RoL Event shall be: ^2896039ba2137f0af9b03a0f
+19.2.2         Without prejudice to the indemnities in Clause 16.5 (Breach of warranty), the sole remedy of the Strategic Investor for a RoL Event shall be: ^s-d5640b3a21637d5c75048bf7
 (A)      where the RoL Event is or includes breach of a payment obligation (including under an indemnity), to enforce and receive payment of the relevant sum;
 (B)       its right for payment by the RoL of Wasted Costs in accordance with Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs);
 (C)       the payment by the RoL to the Strategic Investor of the Mandatory Transfer Price for the transfer of its Shareholder's Interest in accordance with Clause 26.4 (Payment of the Mandatory Transfer Price); and
@@ -1155,10 +1160,10 @@ and the provisions referred to in Clauses 19.1.1(A) and 19.1.1(B) state fully al
 and the Strategic Investor shall have no additional right or remedy against the RoL for a RoL Event arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise.
 
 
-19.2.3         Without prejudice to Clause 19.2.2 and the indemnities in Clause 16.5 (Breach of warranty), the sole remedy and exclusive right of any Shareholder for a RoL Event shall be the payment by the RoL to that Shareholder of the Mandatory Transfer Price for the transfer of its Shareholder's Interest in accordance with Clause 26.4 (Payment of the Mandatory Transfer Price) and each Shareholder shall have no additional right or remedy against the RoL for a RoL Event arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise. This Clause 19.2.3 shall not apply to the Strategic Investor; the Strategic Investor's rights and remedies are as set out in Clause 19.2.2. ^59e74c888364cf0dcc80e537
+19.2.3         Without prejudice to Clause 19.2.2 and the indemnities in Clause 16.5 (Breach of warranty), the sole remedy and exclusive right of any Shareholder for a RoL Event shall be the payment by the RoL to that Shareholder of the Mandatory Transfer Price for the transfer of its Shareholder's Interest in accordance with Clause 26.4 (Payment of the Mandatory Transfer Price) and each Shareholder shall have no additional right or remedy against the RoL for a RoL Event arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise. This Clause 19.2.3 shall not apply to the Strategic Investor; the Strategic Investor's rights and remedies are as set out in Clause 19.2.2. ^s-e1ce5e7a4bab92c2e6caa63a
 
 
-19.2.4         Without prejudice to the indemnities in Clause 16.5 (Breach of warranty), the sole remedies of the PCO for a RoL Event shall be: ^5cbf6e15d77b849de9893fe4
+19.2.4         Without prejudice to the indemnities in Clause 16.5 (Breach of warranty), the sole remedies of the PCO for a RoL Event shall be: ^s-dcee669278cc91856237d012
 (A)      its right to serve a RoL Event Notice under Clause 20.2.1(Termination for a RoL Event);
 (B)       the PCO's right under Clause 20.2 (Termination for a RoL Event) to refer the matter to be determined in accordance with the Dispute Resolution Procedure;
 (C)       where the RoL Event is or includes breach of a payment obligation (including under an indemnity), to enforce and receive payment of the relevant sum; and
@@ -1166,226 +1171,226 @@ and the Strategic Investor shall have no additional right or remedy against the 
 and the PCO shall have no additional right or remedy against the RoL for a RoL Event arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise.
 
 
-19.2.5         The sole remedies and exclusive rights of the RoL against the Strategic Investor for a Strategic Investor Default shall be: ^d3a6664ff086c5236ed9daf6
+19.2.5         The sole remedies and exclusive rights of the RoL against the Strategic Investor for a Strategic Investor Default shall be: ^s-f6a77eb05bcbb6bab013f88e
 (A)      termination of the Strategic Investor's rights and obligations under this Concession Agreement in accordance with Clause 22.2 (Termination of the Strategic Investor's rights and obligations);
 (B)       following termination of this Concession Agreement in accordance with Clause 22.2 (Termination of the Strategic Investor's rights and obligations), the payment by the Strategic Investor of Wasted Costs or Retendering Costs under Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs); and
 (C)       following termination of the Strategic Investor's rights and obligations for a Strategic Investor Default under Clause 22.1.1 (Breach of Strategic Investor Obligations), which includes a material breach of Clause 13 (Confidentiality) by the Strategic Investor, a Claim in respect of such breach,
 and the RoL shall have no additional right or remedy against the Strategic Investor for a Strategic Investor Default arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise.
 
 
-19.2.6         Without prejudice to any Claim the RoL may have against the Strategic Investor for the payment of Wasted Costs or Retendering Costs under Clause 21.3 (Consequences of a PCO Default) and Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs) in respect of specified PCO Defaults, the sole remedy and exclusive right of the RoL against the PCO for any PCO Default shall be termination of this Concession Agreement under Clause 21 (PCO Default) and the RoL shall have no additional right or remedy against the PCO for a PCO Default arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise. ^06c02f977a6fb89e22b03d13
+19.2.6         Without prejudice to any Claim the RoL may have against the Strategic Investor for the payment of Wasted Costs or Retendering Costs under Clause 21.3 (Consequences of a PCO Default) and Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs) in respect of specified PCO Defaults, the sole remedy and exclusive right of the RoL against the PCO for any PCO Default shall be termination of this Concession Agreement under Clause 21 (PCO Default) and the RoL shall have no additional right or remedy against the PCO for a PCO Default arising by common law (including termination for repudiatory breach), in equity, by statute or otherwise. ^s-7c1563c3473fe60365e95aa2
 
 
-20.       ROL EVENT ^015228772aeccadd780a3d7b
+20.       ROL EVENT ^s-454acf1557a3f5eec7baf683
 
 
-20.1     Events of RoL Event ^e4a4dc9d0dfbb883c43cb15a
+20.1     Events of RoL Event ^s-a279daeb3ba62b27852a5902
 Each of the following events shall be a RoL Event:
 
 
-20.1.1         if there is an action, suit or proceeding brought by a Third Party Claimant to a Competent Authority challenging the selection of the Strategic Investor by the RoL and/or the entry by the RoL into and/or the award (as appropriate) of the Concession and/or this Concession Agreement and/or the award and/or the entry into of any Ancillary Contract and/or the issuance of any LNTP or FNTP and/or any amendment or variation of this Concession Agreement or any Ancillary Contract, on the basis that either the RoL or the PCO has not acted in full compliance with all applicable Law and procedures and: ^f2b10740ff0ada99668b1628
+20.1.1         if there is an action, suit or proceeding brought by a Third Party Claimant to a Competent Authority challenging the selection of the Strategic Investor by the RoL and/or the entry by the RoL into and/or the award (as appropriate) of the Concession and/or this Concession Agreement and/or the award and/or the entry into of any Ancillary Contract and/or the issuance of any LNTP or FNTP and/or any amendment or variation of this Concession Agreement or any Ancillary Contract, on the basis that either the RoL or the PCO has not acted in full compliance with all applicable Law and procedures and: ^s-66c350fa417b443585fbc5c9
 (A)      such action, suit or proceeding is not withdrawn or dismissed within three (3) Months of its commencement; and/or
 (B)       the amounts payable by the RoL under Clause 16.5.3 (Breach of warranty) are greater than five million Euros (€5,000,000);
 
 
-20.1.2         the occurrence of a Pre-FID Fundamental Change; ^8c15c0ae201d4f673be41e14
+20.1.2         the occurrence of a Pre-FID Fundamental Change; ^s-37f366a60575e658038bf909
 
 
-20.1.3         the RoL commits a repudiatory breach of this Concession Agreement and such repudiatory breach does not also constitute a RoL Event under Clause 20.1.1; or ^e340798b0ae17782cc791634
+20.1.3         the RoL commits a repudiatory breach of this Concession Agreement and such repudiatory breach does not also constitute a RoL Event under Clause 20.1.1; or ^s-2bbffc53613e70c0de5635fc
 
 
-20.1.4         failure by the RoL to make any undisputed payment for a sum over five million Euros (€5,000,000) (indexed at the indexation rate) within sixty (60) Calendar Days of such sum being due and payable. ^297b82ceed0036b5dbb87145
+20.1.4         failure by the RoL to make any undisputed payment for a sum over five million Euros (€5,000,000) (indexed at the indexation rate) within sixty (60) Calendar Days of such sum being due and payable. ^s-ffe86f50b2a08fca32edfe98
 
 
-20.2     Termination for a RoL Event ^a4fa2d6e30bcf2d2b8e305d5
+20.2     Termination for a RoL Event ^s-61757481cb0693a8791a477a
 
 
-20.2.1         In the event that the PCO serves on the RoL a notice asserting the occurrence of a RoL Event (the "RoL Event Notice"), such notice shall: ^524dd5bd85b7fefeecd45273
+20.2.1         In the event that the PCO serves on the RoL a notice asserting the occurrence of a RoL Event (the "RoL Event Notice"), such notice shall: ^s-9e75f67c83d343137e8d7389
 (A)      specify the type of RoL Event asserted by reference to Clause 20.1 (Events of Default), giving reasonable details thereof; and
 (B)       specify which Shareholder(s) voted in favour of the issuance of a RoL Event Notice by the PCO and which of those Shareholder(s) wishes to exercise its respective buy-out rights in accordance with the Shareholders' Agreement (each, an "Exiting Shareholder").
 
 
-20.2.2         As soon as practicable and, in any event, within five (5) Business Days after receipt of the RoL Event Notice, the PCO and the RoL shall discuss, together with any Exiting Shareholder wishing to participate in such discussion, and attempt all to agree whether the RoL Event asserted in that RoL Event Notice has occurred. ^f2fb45a8426e72b7aae68001
+20.2.2         As soon as practicable and, in any event, within five (5) Business Days after receipt of the RoL Event Notice, the PCO and the RoL shall discuss, together with any Exiting Shareholder wishing to participate in such discussion, and attempt all to agree whether the RoL Event asserted in that RoL Event Notice has occurred. ^s-c8df398051a4cc4f492d22d4
 
 
-20.2.3         Subject to Clause 20.2.4, if within fifteen (15) Business Days of the date of service of the RoL Event Notice, the PCO, the RoL and any Exiting Shareholder that participates in the discussions referred to in Clause 20.2.2 are unable to agree whether the RoL Event asserted in the RoL Event Notice has occurred, the RoL, the PCO or any Exiting Shareholder that has participated in the discussion referred to in Clause 20.2.2, may within a further ten (10) Business Days refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^b24425d80fe4caa3a8c9623e
+20.2.3         Subject to Clause 20.2.4, if within fifteen (15) Business Days of the date of service of the RoL Event Notice, the PCO, the RoL and any Exiting Shareholder that participates in the discussions referred to in Clause 20.2.2 are unable to agree whether the RoL Event asserted in the RoL Event Notice has occurred, the RoL, the PCO or any Exiting Shareholder that has participated in the discussion referred to in Clause 20.2.2, may within a further ten (10) Business Days refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^s-597c05efc1bcd47a259d3a66
 
 
-20.2.4         Upon written notice to the PCO under the Shareholders' Agreement by any Exiting Shareholder (given within ten (10) Business Days of the expiry of the ten (10) Business Day period referred to in Clause 20.2.3), the PCO shall refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^bfc61ce99f5fb7b0a3d75536
+20.2.4         Upon written notice to the PCO under the Shareholders' Agreement by any Exiting Shareholder (given within ten (10) Business Days of the expiry of the ten (10) Business Day period referred to in Clause 20.2.3), the PCO shall refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^s-1a2dac41ab4d757635851dd9
 
 
-20.2.5         If it is agreed or determined that the RoL Event set out in the RoL Event Notice has occurred and such RoL Event is subsisting, then Clause 20.3 (Consequences of a RoL Event) shall apply. ^058b4cb4504238c6d8b5b41b
+20.2.5         If it is agreed or determined that the RoL Event set out in the RoL Event Notice has occurred and such RoL Event is subsisting, then Clause 20.3 (Consequences of a RoL Event) shall apply. ^s-5e814b7748cf036e6f8b0d3c
 
 
-20.3     Consequences of a RoL Event ^df71524b909afd8e6b61bb3d
+20.3     Consequences of a RoL Event ^s-aafce45c099d20ccc2035d06
 
 
-20.3.1         If it is agreed or determined in accordance with Clause 20.2 (Termination for a RoL Event) that a RoL Event has occurred then following a period of forty five (45) Business Days of that agreement or determination, Clause 26 (RoL Event Mandatory Transfer of Shares) shall apply. ^e7c4499551d44c9446a3419c
+20.3.1         If it is agreed or determined in accordance with Clause 20.2 (Termination for a RoL Event) that a RoL Event has occurred then following a period of forty five (45) Business Days of that agreement or determination, Clause 26 (RoL Event Mandatory Transfer of Shares) shall apply. ^s-6e4e5abb8a8df54f70588b08
 
 
-20.3.2         If this Concession Agreement is terminated under Clause 26.5.1 (Termination and further provisions) or the Strategic Investor's Shareholder's Interest is acquired by the RoL or a RoL Nominee under Clause 26.4 (Payment of the Mandatory Transfer Price) or the Strategic Investor's Relevant Obligations under the Shareholders' Agreement cease to apply, then Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs) shall apply. ^72d8e4bd81f2ff45f1d3ec64
+20.3.2         If this Concession Agreement is terminated under Clause 26.5.1 (Termination and further provisions) or the Strategic Investor's Shareholder's Interest is acquired by the RoL or a RoL Nominee under Clause 26.4 (Payment of the Mandatory Transfer Price) or the Strategic Investor's Relevant Obligations under the Shareholders' Agreement cease to apply, then Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs) shall apply. ^s-c1e674f1533cfb7abd580ca8
 
 
-20.4     Mitigation following a RoL Event ^506f151d594db68ca6500abb
+20.4     Mitigation following a RoL Event ^s-bedcc2ad1167cff471fa7718
 If it is agreed or determined in accordance with Clause 20.2 (Termination for a RoL Event) that a RoL Event has occurred and each of the Shareholders other than the Lithuanian Investor is an Exiting Shareholder, the PCO shall from that time, at the expense of the RoL (such amounts to be paid in advance), until the last transfer of an Exiting Shareholder's Shareholder's Interests is completed in accordance with Clause 26.4 (Payment of the Mandatory Transfer Price) take all reasonable steps which the RoL may reasonably request (the RoL taking into account that the Concession Agreement may not ultimately terminate) to mitigate any liabilities which it may accrue in connection with the termination and ensure that it does not incur or accelerate the incurrence under any Related Agreements or otherwise of any third party liability which might reasonably be avoided or delayed.
 
 
-21.       PCO DEFAULT ^56dc2b5cb5b0c8e9fdf90483
+21.       PCO DEFAULT ^s-2d602fdfe148ed5e5980e993
 
 
-21.1     Events of PCO Default ^0ef5c4e3e04d9a5a50efdeae
+21.1     Events of PCO Default ^s-466935fef4e912101d204bf2
 Abandonment shall be the only PCO Default.
 
 
-21.2     Termination for PCO Default ^473dfc3bd4d63f6ce8599cd7
+21.2     Termination for PCO Default ^s-63c31c84d380bf4ea0a5aa4a
 
 
-21.2.1           If the RoL believes that a PCO Default has occurred, the RoL may serve on the PCO a notice asserting the occurrence of such default (the "PCO Default Notice"), and shall copy the PCO Default Notice to the Strategic Investor. The PCO Default Notice shall specify the type of PCO Default that is asserted by reference to Clause 21.1 (Events of PCO Default), giving reasonable details thereof. ^45d4690e624ffc8a86da398c
+21.2.1           If the RoL believes that a PCO Default has occurred, the RoL may serve on the PCO a notice asserting the occurrence of such default (the "PCO Default Notice"), and shall copy the PCO Default Notice to the Strategic Investor. The PCO Default Notice shall specify the type of PCO Default that is asserted by reference to Clause 21.1 (Events of PCO Default), giving reasonable details thereof. ^s-710da51d95ca67fa196fa189
 
 
-21.2.2           As soon as practicable and, in any event, within five (5) Business Days after receipt of the PCO Default Notice, the RoL and the PCO shall discuss and attempt to agree whether the PCO Default asserted in the PCO Default Notice has occurred. ^12f84b8ca0a479abed461a0d
+21.2.2           As soon as practicable and, in any event, within five (5) Business Days after receipt of the PCO Default Notice, the RoL and the PCO shall discuss and attempt to agree whether the PCO Default asserted in the PCO Default Notice has occurred. ^s-897130379db83ad5049c6208
 
 
-21.2.3           If, within fifteen (15) Business Days of the date of service of the PCO Default Notice, the RoL and the PCO are unable to agree whether the PCO Default asserted in the PCO Default Notice has occurred, the RoL or the PCO may refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^400a81986b425fbb70f8c5fa
+21.2.3           If, within fifteen (15) Business Days of the date of service of the PCO Default Notice, the RoL and the PCO are unable to agree whether the PCO Default asserted in the PCO Default Notice has occurred, the RoL or the PCO may refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^s-fa354e2f46c9d5ec5d2825d3
 
 
-21.2.4           If it is agreed or determined that the PCO Default set out in the PCO Default Notice has occurred and such PCO Default is subsisting, the RoL shall be entitled to terminate this Concession Agreement in accordance with Clause 21.3 (Consequences of a PCO Default). ^420b3db0b1944a0b37d23efd
+21.2.4           If it is agreed or determined that the PCO Default set out in the PCO Default Notice has occurred and such PCO Default is subsisting, the RoL shall be entitled to terminate this Concession Agreement in accordance with Clause 21.3 (Consequences of a PCO Default). ^s-a17f7ef3948a09b3f2194280
 
 
-21.3     Consequences of a PCO Default ^f081a8d1ad67b20d583cdad7
+21.3     Consequences of a PCO Default ^s-e56020faad721f3bcbd3e901
 
 
-21.3.1           If it is agreed or determined in accordance with Clause 21.2 (Termination for PCO Default) that a PCO Default has occurred, the RoL shall be entitled to terminate this Concession Agreement by giving notice to the other Parties of the date of such termination, being a date no fewer than twenty five (25) Business Days after the date of the agreement or determination that a PCO Default has occurred, and this Concession Agreement shall terminate on the date set out in such termination notice. ^840979452411a2fa362d3f25
+21.3.1           If it is agreed or determined in accordance with Clause 21.2 (Termination for PCO Default) that a PCO Default has occurred, the RoL shall be entitled to terminate this Concession Agreement by giving notice to the other Parties of the date of such termination, being a date no fewer than twenty five (25) Business Days after the date of the agreement or determination that a PCO Default has occurred, and this Concession Agreement shall terminate on the date set out in such termination notice. ^s-9fd9d6d3046c109a900130f5
 
 
-21.3.2           On and in respect of termination of this Concession Agreement under Clause 21.3.1, Clause 25 (RoL's third party rights under the Shareholders' Agreement) shall apply. ^afc21fe045973a2951d0a8bc
+21.3.2           On and in respect of termination of this Concession Agreement under Clause 21.3.1, Clause 25 (RoL's third party rights under the Shareholders' Agreement) shall apply. ^s-38c7648a7adc7efac149f3d1
 
 
-21.3.3           If this Concession Agreement is terminated under Clause 21.3.1 where the PCO Default is directly caused by and originates from: ^60b78c59bb54dddef5c9ae0f
+21.3.3           If this Concession Agreement is terminated under Clause 21.3.1 where the PCO Default is directly caused by and originates from: ^s-8c47fa6dbf1138f461331ac5
 (A)      the termination of the EPC Contract for an EPC Contractor Default under the terms of the EPC Contract; or
 (B)       after the Investment Date, the Strategic Investor having committed a funding default under the Shareholders' Agreement and the Strategic Investor not having remedied that funding default within the period provided by the Shareholders' Agreement following the Strategic Investor's receipt of a default notice,
 Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs) shall apply.
 
 
-21.4     Other Consequences of Termination for PCO Default ^a51435a7a90b32e6b2c2cb96
+21.4     Other Consequences of Termination for PCO Default ^s-91a7b5ab33f77ac23de0af3f
 
 
-21.4.1           If it is agreed or determined in accordance with Clause 21.2 (Termination for PCO Default) that a PCO Default has occurred and the RoL has served a PCO Default Notice, the PCO shall from that time, subject to Clause 21.4.2: ^9a475ce264d894f8d2e492fa
+21.4.1           If it is agreed or determined in accordance with Clause 21.2 (Termination for PCO Default) that a PCO Default has occurred and the RoL has served a PCO Default Notice, the PCO shall from that time, subject to Clause 21.4.2: ^s-a517e3cd05062c78bb521b13
 (A)      take all reasonable steps to mitigate any liabilities which may accrue to the PCO in connection with such termination of this Concession Agreement; and
 (B)       except as it is otherwise bound to do so by any Related Agreement or applicable law, not sell, dispose of, or transfer or cause a diminution in value of any of its material assets without the RoL's prior written consent,
 until the RoL, having exercised its rights in accordance with Clause 25.1 (RoL's third party rights under the Shareholders' Agreement) to require each Shareholder to transfer its Shareholder's Interest to the RoL in accordance with the Shareholders' Agreement, has completed such transfer, or any such rights having lapsed in accordance with the Shareholders' Agreement.
 
 
-21.4.2           If the RoL has exercised its third party rights under the Shareholders' Agreement to require all Shareholders (including the Strategic Investor) to transfer all but not part of their Shareholder's Interests to the RoL (or a RoL Nominee) under Clause 25 (RoL's third party rights under the Shareholders' Agreement), then the actions to be taken by the PCO under Clause 21.4.1 shall include the exercise by the PCO of any rights it has under any Related Agreements as may be reasonably requested by the RoL in writing from time to time. ^75e63f85ae94e816d348b628
+21.4.2           If the RoL has exercised its third party rights under the Shareholders' Agreement to require all Shareholders (including the Strategic Investor) to transfer all but not part of their Shareholder's Interests to the RoL (or a RoL Nominee) under Clause 25 (RoL's third party rights under the Shareholders' Agreement), then the actions to be taken by the PCO under Clause 21.4.1 shall include the exercise by the PCO of any rights it has under any Related Agreements as may be reasonably requested by the RoL in writing from time to time. ^s-eeff2fb1fa4f2de6c6f0732d
 
 
-22.       STRATEGIC INVESTOR DEFAULT ^a1c148da48ee96a7965dd349
+22.       STRATEGIC INVESTOR DEFAULT ^s-1628d20ed05d155e048faa82
 
 
-22.1     Events of Strategic Investor Default ^29f5e0b542e456a2034e3263
+22.1     Events of Strategic Investor Default ^s-a9e4b39bd8abbe6e2565a7f6
 Each of the following events shall be a Strategic Investor Default:
 
 
 Breach of Strategic Investor Obligations
 
 
-22.1.1           after the Investment Date, a material breach by the Strategic Investor of any of its obligations under this Concession Agreement where such breach materially and adversely affects the performance of this Concession Agreement, including a repudiatory breach by the Strategic Investor of this Concession Agreement; ^b7fd76518ed02b16fee6f4a9
+22.1.1           after the Investment Date, a material breach by the Strategic Investor of any of its obligations under this Concession Agreement where such breach materially and adversely affects the performance of this Concession Agreement, including a repudiatory breach by the Strategic Investor of this Concession Agreement; ^s-bed93ba420d31b38cc9392ef
 
 
 Winding Up of the Strategic Investor
 
 
-22.1.2           the shareholders of the Strategic Investor adopt a decision to liquidate the Strategic Investor or the Strategic Investor is otherwise liquidated; ^2a1eccc7cc6da783366842bc
+22.1.2           the shareholders of the Strategic Investor adopt a decision to liquidate the Strategic Investor or the Strategic Investor is otherwise liquidated; ^s-bf1c62cbecd678d04e1d7ba1
 
 
 Buy Out of the Strategic Investor
 
 
-22.1.3           the Strategic Investor has committed a funding default under the Shareholders' Agreement after the Investment Date, and the transfer of the Strategic Investor's Shares to the other Shareholders or a permitted third party transferee in accordance with the buy-out provisions in the Shareholders' Agreement as a direct result of that funding default has been completed; or ^da0d515d8fe64250102c40e1
+22.1.3           the Strategic Investor has committed a funding default under the Shareholders' Agreement after the Investment Date, and the transfer of the Strategic Investor's Shares to the other Shareholders or a permitted third party transferee in accordance with the buy-out provisions in the Shareholders' Agreement as a direct result of that funding default has been completed; or ^s-9a9dc7867db696d0e894146a
 
 
 Failure to remain an Associated Company of Hitachi, Ltd. and invalid transfer of shares in the Strategic Investor
 
 
-22.1.4           the Strategic Investor is in breach of any of its obligations under Clauses 31.4.1 or 31.4.2 (Strategic Investor transfer of ownership restrictions). ^2d9314eda2fe8e703495826d
+22.1.4           the Strategic Investor is in breach of any of its obligations under Clauses 31.4.1 or 31.4.2 (Strategic Investor transfer of ownership restrictions). ^s-1ff851ac95de8f3f97c60063
 
 
-22.2     Termination of the Strategic Investor's rights and obligations ^e1d3c82f27780f5f22c1f3f4
+22.2     Termination of the Strategic Investor's rights and obligations ^s-582f6253594cd28ea002704c
 
 
-22.2.1           In the case of a Strategic Investor Default contemplated by: ^5d2ab2dd91d78dd2b40ffaf6
+22.2.1           In the case of a Strategic Investor Default contemplated by: ^s-26e24b983041453d1d1e0dde
 (A)      Clause 22.1.1 (Breach of Strategic Investor Obligations) or Clause 22.1.4 (Failure to remain an Associated Company of Hitachi, Ltd. and Invalid transfer of shares in the Strategic Investor), Clauses 22.2.2 to 22.2.7 (inclusive) shall apply;
 (B)       Clause 22.1.2 (Winding Up of the Strategic Investor), the RoL may (in consultation with the PCO and subject to compliance by the RoL with Clause 22.2.7) within twenty (20) Business Days of becoming aware of the relevant Strategic Investor Default terminate the Strategic Investor's rights and obligations under this Concession Agreement, either with immediate effect or on such period of notice not exceeding ten (10) Business Days as the RoL reasonably determines to be appropriate by serving a termination notice on the Strategic Investor and the Concession Agreement shall continue in full force and effect as between the RoL and the PCO; the RoL shall copy any such termination notice to the PCO; or
 (C)       Clause 22.1.3 (Buy Out of the Strategic Investor), the Strategic Investor's rights and obligations under this Concession Agreement shall terminate automatically upon the completion of the transfer of the Strategic Investor's Shares to the other Shareholders or a permitted third party transferee in accordance with the buy-out provisions on default in the Shareholders' Agreement.
 
 
-22.2.2           Prior to serving a Strategic Investor Default Notice (as defined in Clause 22.2.3), the RoL shall consult with the PCO in respect of the relevant Strategic Investor Default and may, to the extent the RoL acting reasonably determines necessary, request information from the PCO (which the PCO shall provide) in connection with that Strategic Investor Default. ^f9ce7c03b8e04a4370204437
+22.2.2           Prior to serving a Strategic Investor Default Notice (as defined in Clause 22.2.3), the RoL shall consult with the PCO in respect of the relevant Strategic Investor Default and may, to the extent the RoL acting reasonably determines necessary, request information from the PCO (which the PCO shall provide) in connection with that Strategic Investor Default. ^s-ff4f9794d4426ec40e56445a
 
 
-22.2.3           If the RoL believes that a Strategic Investor Default under Clause 22.1.1 (Breach of Strategic Investor Obligations) or Clause 22.1.4 (Failure to remain an Associated Company of Hitachi, Ltd. and Invalid transfer of shares in the Strategic Investor) has occurred, the RoL may serve on the Strategic Investor a notice asserting the occurrence of a Strategic Investor Default (the "Strategic Investor Default Notice"), and shall copy the Strategic Investor Default Notice to the PCO. The Strategic Investor Default Notice shall specify the type of Strategic Investor Default, giving reasonable details thereof. ^957ddfd962060952f6e5e75f
+22.2.3           If the RoL believes that a Strategic Investor Default under Clause 22.1.1 (Breach of Strategic Investor Obligations) or Clause 22.1.4 (Failure to remain an Associated Company of Hitachi, Ltd. and Invalid transfer of shares in the Strategic Investor) has occurred, the RoL may serve on the Strategic Investor a notice asserting the occurrence of a Strategic Investor Default (the "Strategic Investor Default Notice"), and shall copy the Strategic Investor Default Notice to the PCO. The Strategic Investor Default Notice shall specify the type of Strategic Investor Default, giving reasonable details thereof. ^s-bf84048e9b849f8c6a969b4b
 
 
-22.2.4           As soon as practicable and, in any event, within five (5) Business Days after receipt of the Strategic Investor Default Notice, the RoL and the Strategic Investor shall discuss and attempt to agree whether the Strategic Investor Default asserted in that Strategic Investor Default Notice has occurred. The RoL shall consult with the PCO in respect of the discussions between the RoL and the Strategic Investor and the PCO shall take part in the discussions if so requested by the RoL or if the PCO so desires. ^8297f2bf918da963a185326a
+22.2.4           As soon as practicable and, in any event, within five (5) Business Days after receipt of the Strategic Investor Default Notice, the RoL and the Strategic Investor shall discuss and attempt to agree whether the Strategic Investor Default asserted in that Strategic Investor Default Notice has occurred. The RoL shall consult with the PCO in respect of the discussions between the RoL and the Strategic Investor and the PCO shall take part in the discussions if so requested by the RoL or if the PCO so desires. ^s-30c8bcb7f32511c6bdd1be99
 
 
-22.2.5           If, within fifteen (15) Business Days of the date of service of the Strategic Investor Default Notice, the RoL and the Strategic Investor are unable to agree whether the Strategic Investor Default asserted in the Strategic Investor Default Notice has occurred, the RoL or the Strategic Investor may refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^d59b7c23b1e4e27d1f0940f7
+22.2.5           If, within fifteen (15) Business Days of the date of service of the Strategic Investor Default Notice, the RoL and the Strategic Investor are unable to agree whether the Strategic Investor Default asserted in the Strategic Investor Default Notice has occurred, the RoL or the Strategic Investor may refer the matter to be determined in accordance with the Dispute Resolution Procedure. ^s-8aa04797f1a279ed3b1f2470
 
 
-22.2.6           If it is agreed or determined that the Strategic Investor Default set out in the Strategic Investor Default Notice has occurred and such Strategic Investor Default is subsisting, then the RoL may (acting reasonably in consultation with the PCO and subject to compliance by the RoL with Clause 22.2.7) terminate the Strategic Investor's rights and obligations under this Concession Agreement with immediate effect or on such period of notice not exceeding ten (10) Business Days as the RoL reasonably determines appropriate by serving a termination notice on the Strategic Investor. The RoL shall copy any such termination notice to the PCO. ^cd5983f8c8dd6460a5280b56
+22.2.6           If it is agreed or determined that the Strategic Investor Default set out in the Strategic Investor Default Notice has occurred and such Strategic Investor Default is subsisting, then the RoL may (acting reasonably in consultation with the PCO and subject to compliance by the RoL with Clause 22.2.7) terminate the Strategic Investor's rights and obligations under this Concession Agreement with immediate effect or on such period of notice not exceeding ten (10) Business Days as the RoL reasonably determines appropriate by serving a termination notice on the Strategic Investor. The RoL shall copy any such termination notice to the PCO. ^s-731ebe1eeb1de6ed5a084ee2
 
 
-22.2.7           Prior to exercising its right to terminate the Strategic Investor's rights and obligations under this Concession Agreement under Clauses 22.2.1(B) or 22.2.6, the RoL shall obtain the consent of the PCO to such proposed termination and any termination notice given by the RoL under Clauses 22.2.1(B) or 22.2.6 shall be ineffective if the consent of the PCO to such proposed termination was not so obtained. ^0bd8cd901e51c45a5e11d298
+22.2.7           Prior to exercising its right to terminate the Strategic Investor's rights and obligations under this Concession Agreement under Clauses 22.2.1(B) or 22.2.6, the RoL shall obtain the consent of the PCO to such proposed termination and any termination notice given by the RoL under Clauses 22.2.1(B) or 22.2.6 shall be ineffective if the consent of the PCO to such proposed termination was not so obtained. ^s-8b341b0ef33bddda95386e9b
 
 
-22.3     Consequences of Termination ^2eb045124992558fe30d233a
+22.3     Consequences of Termination ^s-59a0769168d1b510b84579a8
 
 
-22.3.1           If the Strategic Investor's rights and obligations under this Concession Agreement are terminated under Clause 22.2 (Termination of the Strategic Investor's rights and obligations), Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs) shall apply. ^32cd36590e41fbef172c6b51
+22.3.1           If the Strategic Investor's rights and obligations under this Concession Agreement are terminated under Clause 22.2 (Termination of the Strategic Investor's rights and obligations), Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs) shall apply. ^s-d54c22ec6ce71b57645598d1
 
 
-22.3.2           Notwithstanding the termination of the Strategic Investor's rights and obligations under this Concession Agreement, this Concession Agreement shall continue in full force and effect as between the RoL and the PCO. ^8135c2a881b255cb4dd14b5c
+22.3.2           Notwithstanding the termination of the Strategic Investor's rights and obligations under this Concession Agreement, this Concession Agreement shall continue in full force and effect as between the RoL and the PCO. ^s-04457f9729fc4929aa8a8f55
 
 
-23.       NON-DEFAULT TERMINATION ^ca4a40e9e41d4c146c5e1e8e
+23.       NON-DEFAULT TERMINATION ^s-695fcdb70f39e17c035f00b6
 
 
-23.1     Termination by Agreement of the Parties ^88c3fb1806e63afc293a3555
+23.1     Termination by Agreement of the Parties ^s-848648a41e07b04eeb66066f
 At any time (including for the avoidance of doubt after a positive FID), the Parties shall be entitled to terminate this Concession Agreement by agreement if all (but not some) of the Parties agree in writing, specifying the reason for termination, the consequences of termination, and the date when termination shall take effect.
 
 
-23.2     Termination following a negative FID or decision not to proceed to any further LNTP phase ^65cdc3af508041c88a4f9527
+23.2     Termination following a negative FID or decision not to proceed to any further LNTP phase ^s-3dca62683865cd29678b8f1d
 
 
-23.2.1           This Concession Agreement shall terminate automatically with immediate effect if the PCO notifies the RoL in accordance with Clause 11.3 (Notification of a decision not to proceed to any further LNTP phase) that the PCO has decided not to proceed to any further LNTP phase. ^c27935763c1c780b258a1ed1
+23.2.1           This Concession Agreement shall terminate automatically with immediate effect if the PCO notifies the RoL in accordance with Clause 11.3 (Notification of a decision not to proceed to any further LNTP phase) that the PCO has decided not to proceed to any further LNTP phase. ^s-4ab7bc49d62ff4d0bd961e03
 
 
-23.2.2           This Concession Agreement shall terminate automatically with immediate effect if the PCO notifies the RoL in accordance with Clause 11.4 (Notification of taking FID) that a final negative FID has been taken. ^7c8601ede97ab368f5c174ee
+23.2.2           This Concession Agreement shall terminate automatically with immediate effect if the PCO notifies the RoL in accordance with Clause 11.4 (Notification of taking FID) that a final negative FID has been taken. ^s-ff470db929dd00e43b840f71
 
 
-23.3     Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding ^57d502ddfca8668964158b33
+23.3     Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding ^s-6c9b660b7cb384e301f88db4
 The Strategic Investor's rights and obligations under this Concession Agreement shall terminate automatically on the date on which its Relevant Obligations under the Shareholders' Agreement cease to apply, however the Concession Agreement shall continue in full force and effect as between the RoL and the PCO.
 
 
-23.4     RoL Call Option on Non-Default Termination ^ffd570b9696837eb66aa035c
+23.4     RoL Call Option on Non-Default Termination ^s-26e99bd88995ed98f5bddb32
 If the Concession Agreement is terminated under Clauses 23.1 (Termination by Agreement of the Parties) (if expressly agreed by the Parties as part of that termination by agreement) or 23.2 (Termination following a negative FID or decision not to proceed to any further LNTP phase), Clause 25 (RoL's third party rights under the Shareholders' Agreement) shall apply.
 
 
-23.5     Consequences of Non-Default Termination ^97aa80ae0fcb3cc19331f653
+23.5     Consequences of Non-Default Termination ^s-b162c6da4bde26620e31eaf0
 
 
-23.5.1           The RoL shall have no liability to the PCO or the Strategic Investor as a consequence of the termination of this Concession Agreement in accordance with this Clause 23 (Non-Default Termination) other than its liability to the Strategic Investor (as a Shareholder) pursuant to Clauses 23.4 (RoL Call Option on Non-Default Termination) and 25 (RoL's third party rights under the Shareholders' Agreement) or as otherwise agreed between the Parties. ^09250b3a7f62be2ad276d855
+23.5.1           The RoL shall have no liability to the PCO or the Strategic Investor as a consequence of the termination of this Concession Agreement in accordance with this Clause 23 (Non-Default Termination) other than its liability to the Strategic Investor (as a Shareholder) pursuant to Clauses 23.4 (RoL Call Option on Non-Default Termination) and 25 (RoL's third party rights under the Shareholders' Agreement) or as otherwise agreed between the Parties. ^s-e8681d40bbe2bf8695dbe745
 
 
-23.5.2           If the RoL has exercised its third party rights under the Shareholders' Agreement to require the Shareholders (including the Strategic Investor) to transfer all but not part of their Shares to the RoL or a RoL Nominee under Clauses 23.4 (RoL Call Option on Non-Default Termination) and 25 (RoL's third party rights under the Shareholders' Agreement), then the RoL may request that the PCO (at the RoL's expense, such amounts to be paid in advance) takes reasonable steps to mitigate any liabilities which it may accrue in connection with the termination which may include the exercise by the PCO of any rights it has under any Related Agreements as may be reasonably requested by the RoL in writing from time to time. ^a089cb8fe632a1244cc2fbe2
+23.5.2           If the RoL has exercised its third party rights under the Shareholders' Agreement to require the Shareholders (including the Strategic Investor) to transfer all but not part of their Shares to the RoL or a RoL Nominee under Clauses 23.4 (RoL Call Option on Non-Default Termination) and 25 (RoL's third party rights under the Shareholders' Agreement), then the RoL may request that the PCO (at the RoL's expense, such amounts to be paid in advance) takes reasonable steps to mitigate any liabilities which it may accrue in connection with the termination which may include the exercise by the PCO of any rights it has under any Related Agreements as may be reasonably requested by the RoL in writing from time to time. ^s-3e7ba612c67980fa34037ecc
 
 
-24.       DAMAGES FOR TERMINATION ^02372662cbc404c1ad448f9d
+24.       DAMAGES FOR TERMINATION ^s-05cfb560c2655e29cb21c1e6
 
 
-24.1     Damages Payable by the RoL in respect of Wasted Costs ^d4f37ce24c64828cd7e01386
+24.1     Damages Payable by the RoL in respect of Wasted Costs ^s-353851703a8437ffaa9fef1b
 
 
-24.1.1           If: ^3820085b0ef54bbd22afe6b7
+24.1.1           If: ^s-985402c6297336a421ef2200
 (A)      this Concession Agreement is terminated under Clause 26.5.1 (Termination and further provisions);
 (B)       the Strategic Investor is an Exiting Shareholder and is entitled to have its Shareholder's Interest acquired by the RoL or a RoL Nominee under Clause 26.4.1 (Payment of the Mandatory Transfer Price); or
 (C)       the Strategic Investor's Relevant Obligations under the Shareholders' Agreement cease to apply:
@@ -1394,19 +1399,19 @@ then:
 (2)       the RoL shall, subject to Clause 24.1.2 and to the extent the Wasted Costs are agreed or determined amounts, pay to the Strategic Investor the invoiced Wasted Costs on or before the date falling two (2) Months after receiving the invoice for the Strategic Investor's Wasted Costs.
 
 
-24.1.2           The RoL's maximum liability for Wasted Costs payable under Clause 24.1.1 shall not exceed the amount of ten million Euros (€10,000,000). ^4862eba164d9ddf92643440d
+24.1.2           The RoL's maximum liability for Wasted Costs payable under Clause 24.1.1 shall not exceed the amount of ten million Euros (€10,000,000). ^s-a79c18624cb9b90e777ca1b3
 
 
-24.2     Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs ^a872c2ffc025456f32a8dfa0
+24.2     Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs ^s-6556bf9d9065308a62d67173
 
 
-24.2.1           If: ^ffbd516a435ce3a2461a94c6
+24.2.1           If: ^s-ca3618e340ae278083f3fb8d
 (A)      the Strategic Investor's rights and obligations under this Concession Agreement are terminated under Clause 22.2 (Termination of the Strategic Investor's rights and obligations); or
 (B)       this Concession Agreement is terminated in its entirety under Clause 21.2 (Termination for PCO Default) for a PCO Default caused by an event set out in Clause 21.3.3 (Consequences of a PCO Default),
 the RoL may elect (in its sole discretion) whether or not to commence a Retender Process.
 
 
-24.2.2           If under Clause 24.2.1: ^4f4d52da6eef102f9edcd3ad
+24.2.2           If under Clause 24.2.1: ^s-997d34737703b7818b96476f
 (A)      the RoL elects to commence a Retender Process within twenty four (24) Months after termination:
 (1)       the RoL may, within two (2) Months of that election, invoice the Strategic Investor for the RoL's Retendering Costs together with supporting documentary evidence (in a form and detail satisfactory to the Strategic Investor acting reasonably) for all Retendering Costs claimed; and
 (2)       the Strategic Investor shall, subject to Clause 24.2.3 and to the extent the Retendering Costs are agreed or determined amounts, pay to the RoL the invoiced Retendering Costs on or before the date falling two (2) Months after receiving an invoice for the same from the RoL; or
@@ -1415,42 +1420,42 @@ the RoL may elect (in its sole discretion) whether or not to commence a Retender
 (2)       the Strategic Investor shall, subject to Clause 24.2.3 and to the extent the Wasted Costs are agreed or determined amounts, pay to the RoL the invoiced Wasted Costs on or before the date falling two (2) Months after receiving an invoice for the same from the RoL.
 
 
-24.2.3           The Strategic Investor's maximum liability for Wasted Costs or Retendering Costs (as applicable) payable in accordance with Clause 24.2.2 shall not exceed the amount of ten million Euros (€10,000,000). For the avoidance of doubt, the RoL may not claim both Wasted Costs and Retendering Costs. ^26238de9af38f3dc78fbbc27
+24.2.3           The Strategic Investor's maximum liability for Wasted Costs or Retendering Costs (as applicable) payable in accordance with Clause 24.2.2 shall not exceed the amount of ten million Euros (€10,000,000). For the avoidance of doubt, the RoL may not claim both Wasted Costs and Retendering Costs. ^s-001f3b0ee885581f79eddc34
 
 
-24.3     Disputes ^792ec8a9e8e9f6c69d5d52a4
+24.3     Disputes ^s-9b663ec2a3631d75d3757366
 Any disagreement between the RoL and the Strategic Investor in respect of the quantum or evidence to support a claim by the Strategic Investor for Wasted Costs under Clause 24.1 (Damages Payable by the RoL in respect of Wasted Costs) or a claim by the RoL for Retendering Costs or Wasted Costs under Clause 24.2 (Damages Payable by the Strategic Investor in respect of Wasted Costs or Retendering Costs) may be referred by either Party to be determined in accordance with the Dispute Resolution Procedure.
 
 
-25.       ROL's Third Party Rights under the Shareholders' Agreement ^55e26d6af6b61384d7255217
+25.       ROL's Third Party Rights under the Shareholders' Agreement ^s-6c0fb9761885de1b1a382ac0
 
 
-25.1     On termination of this Concession Agreement under Clause 21.2 (Termination for PCO Default) or Clause 23.2 (Termination following a negative FID or decision not to proceed to any further LNTP phase) the Parties: ^be9122092f4389fd7427a568
+25.1     On termination of this Concession Agreement under Clause 21.2 (Termination for PCO Default) or Clause 23.2 (Termination following a negative FID or decision not to proceed to any further LNTP phase) the Parties: ^s-a7a63622b291d50fc829ea28
 
 
-25.1.1           acknowledge that the RoL will have certain third party rights under the Shareholders' Agreement to require all or some, as the case may be, of the Shareholders (including the Strategic Investor) to transfer their Shareholders' Interests as it stands from time to time, to the RoL or a RoL Nominee; and ^cb410922a05aa3265e4ac187
+25.1.1           acknowledge that the RoL will have certain third party rights under the Shareholders' Agreement to require all or some, as the case may be, of the Shareholders (including the Strategic Investor) to transfer their Shareholders' Interests as it stands from time to time, to the RoL or a RoL Nominee; and ^s-706c9574114e453af4e23cee
 
 
-25.1.2           agree that the sums payable by the RoL in the event of an exercise by it of any of the rights referred to in Clause 25.1.1 shall be determined pursuant to a valuation procedure described in the Shareholders' Agreement and those sums shall not exceed such sums as would be payable by the RoL to each Shareholder for its respective Shareholder's Interest in accordance with Clause 26.4 (Payment of the Mandatory Transfer Price). ^86464b945a26606b6e47e89e
+25.1.2           agree that the sums payable by the RoL in the event of an exercise by it of any of the rights referred to in Clause 25.1.1 shall be determined pursuant to a valuation procedure described in the Shareholders' Agreement and those sums shall not exceed such sums as would be payable by the RoL to each Shareholder for its respective Shareholder's Interest in accordance with Clause 26.4 (Payment of the Mandatory Transfer Price). ^s-91d654442c5bf900761abd6d
 
 
-26.       RoL Event Mandatory Transfer of Shares ^e5d4526a6200569d66472ba9
+26.       RoL Event Mandatory Transfer of Shares ^s-242f14ad40143067029e8067
 
 
-26.1     PCO to deliver Invested Capital Statement ^07e8bf428bc5df1efc7f9d9a
+26.1     PCO to deliver Invested Capital Statement ^s-0b477ac244fe40dfa1b981a6
 
 
-26.1.1           The PCO shall, within ten (10) Business Days of the expiry of the period in Clause 20.3.1 (Consequences of a RoL Event), notify the RoL of the composition of the capital of the PCO by delivering to the RoL a completed Invested Capital Statement stating the total Invested Capital in respect of each Exiting Shareholder as at the Calculation Date. ^b259ea80e8931ad8b351f089
+26.1.1           The PCO shall, within ten (10) Business Days of the expiry of the period in Clause 20.3.1 (Consequences of a RoL Event), notify the RoL of the composition of the capital of the PCO by delivering to the RoL a completed Invested Capital Statement stating the total Invested Capital in respect of each Exiting Shareholder as at the Calculation Date. ^s-4abccab8336a8f7cf5caca55
 
 
-26.1.2           The Parties agree and acknowledge that each Exiting Shareholder shall, in accordance with the requirements of the Shareholders' Agreement, provide the PCO promptly with any information the PCO may reasonably require in order to provide the RoL with the Invested Capital Statement in accordance with Clause 26.1.1. ^5d6a1aeea0cc5f555ef6561a
+26.1.2           The Parties agree and acknowledge that each Exiting Shareholder shall, in accordance with the requirements of the Shareholders' Agreement, provide the PCO promptly with any information the PCO may reasonably require in order to provide the RoL with the Invested Capital Statement in accordance with Clause 26.1.1. ^s-18d20e2e87eb74e1c0bb2099
 
 
-26.2     Calculation and notification of Mandatory Transfer Price ^262b39d6fac8f6324699ee3e
+26.2     Calculation and notification of Mandatory Transfer Price ^s-e0df5be65e51f53e274a6cd2
 No more than ten (10) Business Days after the date of the notification of the Invested Capital Statement pursuant to Clause 26.1, the RoL shall:
 
 
-26.2.1           determine its calculation of the price payable to each Exiting Shareholder cited in the RoL Event Notice as wishing to exercise its buyout rights in respect of its Shareholder's Interest (the "Mandatory Transfer Price") represented by "x" below and calculated as follows: ^a9709c5a1a91d581b78e8201
+26.2.1           determine its calculation of the price payable to each Exiting Shareholder cited in the RoL Event Notice as wishing to exercise its buyout rights in respect of its Shareholder's Interest (the "Mandatory Transfer Price") represented by "x" below and calculated as follows: ^s-95b259053f9f1d4156b6a50e
 x = a + (a1 x b x c1) + (a2 x b x c2) ... – d
 where:
 a = Invested Capital (and an= each Tranche thereof, disregarding any return of Share capital to an Exiting Shareholder (in the case of a Subscription Payment) or a repayment or prepayment to an Exiting Shareholder by the PCO of the principal amount of any Shareholder Loan (in the case of a Principal Amount) which occurs prior to the Calculation Date)
@@ -1468,108 +1473,108 @@ g =       is the number of Calendar Days comprising the period from the date on 
 and
 
 
-26.2.2           notify the PCO of its calculation of the Mandatory Transfer Price in respect of each Exiting Shareholder's Shareholder's Interest, ^6e13235d4dd194a6a76e747e
+26.2.2           notify the PCO of its calculation of the Mandatory Transfer Price in respect of each Exiting Shareholder's Shareholder's Interest, ^s-d3e3ef95c168cd67bec5e779
 and the PCO shall within five (5) Business Days notify the Exiting Shareholder of the Mandatory Transfer Price as determined by the RoL and notified to the PCO in accordance with this Clause 26.2.
 
 
-26.3     Disputing the Mandatory Transfer Price ^5b067418b562d027305fe378
+26.3     Disputing the Mandatory Transfer Price ^s-b974777e66b3b1ff30736217
 
 
-26.3.1           If, having been notified by the PCO of the RoL's calculation of the Mandatory Transfer Price in respect of its Shareholder's Interest pursuant to Clause 26.2.2 (Calculation and notification of Mandatory Transfer Price), an Exiting Shareholder notifies the PCO that it wishes to challenge its notified Mandatory Transfer Price, the PCO shall within twenty (20) Business Days of such Exiting Shareholder's notification issue to the RoL a Notice of Dispute in accordance with the Dispute Resolution Procedure. If no such notice is served by an Exiting Shareholder on the PCO within twenty (20) Business Days of that Exiting Shareholder being notified by the PCO of the RoL's calculation of its Mandatory Transfer Price, the PCO shall notify the RoL of such fact and the Mandatory Transfer Price for that Exiting Shareholder shall be deemed to be the RoL's calculation thereof. ^466a0f8ae9c12b43f07f062b
+26.3.1           If, having been notified by the PCO of the RoL's calculation of the Mandatory Transfer Price in respect of its Shareholder's Interest pursuant to Clause 26.2.2 (Calculation and notification of Mandatory Transfer Price), an Exiting Shareholder notifies the PCO that it wishes to challenge its notified Mandatory Transfer Price, the PCO shall within twenty (20) Business Days of such Exiting Shareholder's notification issue to the RoL a Notice of Dispute in accordance with the Dispute Resolution Procedure. If no such notice is served by an Exiting Shareholder on the PCO within twenty (20) Business Days of that Exiting Shareholder being notified by the PCO of the RoL's calculation of its Mandatory Transfer Price, the PCO shall notify the RoL of such fact and the Mandatory Transfer Price for that Exiting Shareholder shall be deemed to be the RoL's calculation thereof. ^s-31e2da37a771cf4fa03f12e3
 
 
-26.3.2           Subject to Clause 26.4.4 (Payment of the Mandatory Transfer Price), in the event of service by the PCO of a Notice of Dispute in accordance with Clause 26.3.1, the RoL's payment obligation under Clause 26.4 (Payment of the Mandatory Transfer Price) to that Exiting Shareholder shall be suspended, until the earlier of: ^9ef5b747ab179745af7641c9
+26.3.2           Subject to Clause 26.4.4 (Payment of the Mandatory Transfer Price), in the event of service by the PCO of a Notice of Dispute in accordance with Clause 26.3.1, the RoL's payment obligation under Clause 26.4 (Payment of the Mandatory Transfer Price) to that Exiting Shareholder shall be suspended, until the earlier of: ^s-7c52848674fd72f0bb129eaf
 (A)      a final determination of the Mandatory Transfer Price in accordance with the Dispute Resolution Procedure; or
 (B)       the RoL and that Exiting Shareholder agreeing in writing the Mandatory Transfer Price in respect of such Exiting Shareholder's Shareholder's Interest.
 
 
-26.4     Payment of the Mandatory Transfer Price ^8c6f245e9c713b7b1e7d9e53
+26.4     Payment of the Mandatory Transfer Price ^s-706d789c7253fc00fe3a4e7f
 
 
-26.4.1           The RoL shall pay: ^426ef1e345a1a69f0a226f85
+26.4.1           The RoL shall pay: ^s-8d5941ea32307208d3356fe9
 (A)      the Mandatory Transfer Price; and
 (B)       the Supplementary Margin,
 to the Exiting Shareholder by no later than ten (10) Business Days after the date on which either (i) the RoL and the Exiting Shareholder agree (or are deemed to have agreed) the Mandatory Transfer Price in each case in accordance with Clause 26.3, or (ii) subject to Clause 26.4.4, the Mandatory Transfer Price is finally determined in accordance with the Dispute Resolution Procedure and Clause 26.3.1, save in the event that a Voluntary Encumbrance remains in place on the expiry of such period, in which case, no later than ten (10) Business Days after the release of such Voluntary Encumbrance.
 
 
-26.4.2           The Parties acknowledge that in accordance with the Shareholders' Agreement, each Exiting Shareholder shall, within ten (10) Business Days after the date on which either (i) the RoL and the Exiting Shareholder agree (or are deemed to have agreed) the Mandatory Transfer Price in each case in accordance with Clause 26.3.1 or (ii) subject to Clause 26.4.4 the Mandatory Transfer Price is finally determined in accordance with the Dispute Resolution Procedure in accordance with Clause 26.3.1, and in each case upon payment of the Mandatory Transfer Price and the Supplementary Margin, do everything within its power to transfer its Shareholder's Interests to the RoL or the RoL Nominee. If an Exiting Shareholder cannot complete such transfer of its Shareholder's Interest (or any part thereof) owing to any Voluntary Encumbrance, the Parties acknowledge that it will be required by the Shareholders' Agreement to hold on trust for the RoL its Shareholders' Interest pending release of any Voluntary Encumbrance. The terms of this trust will be set out in the Shareholders' Agreement. ^2f8de93981082816122c8eb0
+26.4.2           The Parties acknowledge that in accordance with the Shareholders' Agreement, each Exiting Shareholder shall, within ten (10) Business Days after the date on which either (i) the RoL and the Exiting Shareholder agree (or are deemed to have agreed) the Mandatory Transfer Price in each case in accordance with Clause 26.3.1 or (ii) subject to Clause 26.4.4 the Mandatory Transfer Price is finally determined in accordance with the Dispute Resolution Procedure in accordance with Clause 26.3.1, and in each case upon payment of the Mandatory Transfer Price and the Supplementary Margin, do everything within its power to transfer its Shareholder's Interests to the RoL or the RoL Nominee. If an Exiting Shareholder cannot complete such transfer of its Shareholder's Interest (or any part thereof) owing to any Voluntary Encumbrance, the Parties acknowledge that it will be required by the Shareholders' Agreement to hold on trust for the RoL its Shareholders' Interest pending release of any Voluntary Encumbrance. The terms of this trust will be set out in the Shareholders' Agreement. ^s-02344bcc1e3f06c1f677e997
 
 
-26.4.3           For the avoidance of doubt, the Mandatory Transfer Price and the Supplementary Margin shall be due and payable by the RoL under Clause 26.4.1 notwithstanding any restriction or impediment on the ability of an Exiting Shareholder to transfer its Shareholder's Interest (or any part thereof) to the RoL or the RoL Nominee (other than, as described in Clauses 26.4.1 and 26.4.2, owing to any Voluntary Encumbrance over the Exiting Shareholder's Shareholder's Interest). The Parties acknowledge that in accordance with the Shareholders' Agreement, there shall be no obligation on the relevant Exiting Shareholder to refund, reimburse or compensate the RoL in the event of any delay in or impossibility of transferring its Shareholder's Interest pursuant to this Clause 26 provided that the Exiting Shareholder has complied with its obligations under Clause 26.4.2. ^c358a5af2e19a91d62da3cc4
+26.4.3           For the avoidance of doubt, the Mandatory Transfer Price and the Supplementary Margin shall be due and payable by the RoL under Clause 26.4.1 notwithstanding any restriction or impediment on the ability of an Exiting Shareholder to transfer its Shareholder's Interest (or any part thereof) to the RoL or the RoL Nominee (other than, as described in Clauses 26.4.1 and 26.4.2, owing to any Voluntary Encumbrance over the Exiting Shareholder's Shareholder's Interest). The Parties acknowledge that in accordance with the Shareholders' Agreement, there shall be no obligation on the relevant Exiting Shareholder to refund, reimburse or compensate the RoL in the event of any delay in or impossibility of transferring its Shareholder's Interest pursuant to this Clause 26 provided that the Exiting Shareholder has complied with its obligations under Clause 26.4.2. ^s-86859e91e8a2452aa1b49fb4
 
 
-26.4.4           Following the service of a Notice of Dispute, the RoL shall pay the portion of the Mandatory Transfer Price and the respective Supplementary Margin to that Exiting Shareholder that is agreed by the RoL and that Exiting Shareholder within ten (10) Business Days of the date on which the RoL and the Exiting Shareholder agree such portion. The obligation of the RoL to pay any additional amount and any respective Supplementary Margin shall only arise following determination being made pursuant to the Dispute Resolution Procedure or the RoL and the relevant Exiting Shareholder reaching agreement in relation to that additional amount. ^9e9dcded559c9de4e6e74bce
+26.4.4           Following the service of a Notice of Dispute, the RoL shall pay the portion of the Mandatory Transfer Price and the respective Supplementary Margin to that Exiting Shareholder that is agreed by the RoL and that Exiting Shareholder within ten (10) Business Days of the date on which the RoL and the Exiting Shareholder agree such portion. The obligation of the RoL to pay any additional amount and any respective Supplementary Margin shall only arise following determination being made pursuant to the Dispute Resolution Procedure or the RoL and the relevant Exiting Shareholder reaching agreement in relation to that additional amount. ^s-2a3ac7729b4b948783bc62b5
 
 
-26.4.5           The Mandatory Transfer Price and the Supplementary Margin shall be paid in Euros, free and clear of all deductions or withholdings by the RoL of any kind, except for those required by Law, and if any deduction or withholding by the RoL must be made by Law, the RoL will pay that additional amount which is necessary to ensure that each Exiting Shareholder receives a net amount equal to the full Mandatory Transfer Price and the Supplementary Margin which it would have received if the payment had been made without the deduction or withholding by the RoL. ^79a660424ae345cc28c132cb
+26.4.5           The Mandatory Transfer Price and the Supplementary Margin shall be paid in Euros, free and clear of all deductions or withholdings by the RoL of any kind, except for those required by Law, and if any deduction or withholding by the RoL must be made by Law, the RoL will pay that additional amount which is necessary to ensure that each Exiting Shareholder receives a net amount equal to the full Mandatory Transfer Price and the Supplementary Margin which it would have received if the payment had been made without the deduction or withholding by the RoL. ^s-c2c2818caa7e7ead4a6bbaf9
 
 
-26.4.6           Subject to Clause 26.4.7, the RoL shall pay to an Exiting Shareholder: ^12766e0138774e27817bb569
+26.4.6           Subject to Clause 26.4.7, the RoL shall pay to an Exiting Shareholder: ^s-a2b245ad5e75c6730595c4b6
 (A)      an amount equal to amount, if any, of Lithuanian Tax due from the Exiting Shareholder as a result of the RoL's payment to it of the Mandatory Transfer Price, any amount pursuant to Clause 26.4.5 and the Supplementary Margin;
 (B)       an amount equal to the amount, if any, of all Lithuanian stamp duty, registration or other similar Lithuanian Taxes due and payable by the Exiting Shareholder in respect of the transfer of its Shareholder's Interest to the RoL or a RoL Nominee; and
 (C)       an amount equal to the amount, if any, of any Lithuanian VAT due as a result of (i) the RoL's payment to it of the Mandatory Transfer Price, any amount pursuant to Clause 26.4.5 and the Supplementary Margin (and the Parties acknowledge that the Mandatory Transfer Price, any amount pursuant to Clause 26.4.5 and the Supplementary Margin is exclusive of any VAT in Lithuania), (ii) a full or partial termination of this Concession Agreement, or (iii) the transfer to the RoL or a RoL Nominee of the Exiting Shareholder's Shareholder's Interest,
 such payment by the RoL of any amount required under Clause 26.4.7 (A), (B) or (C) being payable prior to the date on which the relevant Lithuanian Tax, stamp duty, registration, or other similar Lithuanian Tax or Lithuanian VAT becomes payable by such Exiting Shareholder.
 
 
-26.4.7           If the RoL disputes any amount in a demand received by it under Clause 26.4.6 it shall make payment of any undisputed amount in the demand on or before the due date for such amount under that demand and shall issue a Notice of Dispute to the relevant Exiting Shareholder specifying the amount in dispute and shall not be obliged to pay such disputed amount until the dispute is resolved in accordance with the Dispute Resolution Procedure or otherwise by agreement between the RoL and the relevant Exiting Shareholder. ^cd6417469383060262d73373
+26.4.7           If the RoL disputes any amount in a demand received by it under Clause 26.4.6 it shall make payment of any undisputed amount in the demand on or before the due date for such amount under that demand and shall issue a Notice of Dispute to the relevant Exiting Shareholder specifying the amount in dispute and shall not be obliged to pay such disputed amount until the dispute is resolved in accordance with the Dispute Resolution Procedure or otherwise by agreement between the RoL and the relevant Exiting Shareholder. ^s-bf1689bd20c2b7e7c41b7878
 
 
-26.5     Termination and further provisions ^6ad64ad48c34538ce6bd7d6f
+26.5     Termination and further provisions ^s-1750c6e9cc4d170de6980e76
 
 
-26.5.1           If all Shareholders are Exiting Shareholders, this Concession Agreement shall terminate automatically upon the completion of the transfer of the last Exiting Shareholder's Shareholder's Interest to the RoL. Where any Exiting Shareholder's Shareholder's Interest has been settled on trust under Clause 26.4 (Payment of the Mandatory Transfer Price), the transfer of such Exiting Shareholder's Shareholder's Interest shall be deemed to be completed six (6) Months after the date of its settlement on trust. ^8e0c07e469f074a2003c2f40
+26.5.1           If all Shareholders are Exiting Shareholders, this Concession Agreement shall terminate automatically upon the completion of the transfer of the last Exiting Shareholder's Shareholder's Interest to the RoL. Where any Exiting Shareholder's Shareholder's Interest has been settled on trust under Clause 26.4 (Payment of the Mandatory Transfer Price), the transfer of such Exiting Shareholder's Shareholder's Interest shall be deemed to be completed six (6) Months after the date of its settlement on trust. ^s-0cfd7f616a7406cfd9253633
 
 
-26.5.2           The PCO shall take such action as is within its powers and may be required to give effect to the provisions of this Clause 26 (RoL Event Mandatory Transfer of Shares). ^4c66862a4b9a9e711b790ec1
+26.5.2           The PCO shall take such action as is within its powers and may be required to give effect to the provisions of this Clause 26 (RoL Event Mandatory Transfer of Shares). ^s-7425ee096a70eaf330eb5cde
 
 
-26.5.3           The RoL shall indemnify on demand and hold harmless each Exiting Shareholder from payments it makes in response to a call for funding, or requested by way of such a call but not yet made, (which, if made, would constitute either a Principal Amount or a Subscription Payment) notified in either case by the PCO to such an Exiting Shareholder in accordance with the Shareholders' Agreement during the period from the date of the agreement or determination that a RoL Event has occurred under Clause 20.2 until the date on which the Exiting Shareholder ceases to hold any Shares. ^57952013c95c3b4d6d1d7872
+26.5.3           The RoL shall indemnify on demand and hold harmless each Exiting Shareholder from payments it makes in response to a call for funding, or requested by way of such a call but not yet made, (which, if made, would constitute either a Principal Amount or a Subscription Payment) notified in either case by the PCO to such an Exiting Shareholder in accordance with the Shareholders' Agreement during the period from the date of the agreement or determination that a RoL Event has occurred under Clause 20.2 until the date on which the Exiting Shareholder ceases to hold any Shares. ^s-038fdee6535a60410cdfd517
 
 
 
 PART 8: GENERAL PROVISIONS
 
 
-27.       SURVIVAL, RIGHtS AND OBLIGATIONS ^53bf2caa702e2f95d6b8445b
+27.       SURVIVAL, RIGHtS AND OBLIGATIONS ^s-2180d09187ec2b73d28365b9
 
 
-27.1     Termination of the Concession Agreement ^82131ddbb4a531af088fc841
+27.1     Termination of the Concession Agreement ^s-fee875ec2ec1837d3bde9a84
 Notwithstanding any other provisions of this Concession Agreement (including any provision that provides for the termination of any rights or obligations of any Party), if this Concession Agreement is terminated in respect of all Parties for any reason (including, for the avoidance of doubt, as a result of repudiatory breach):
 
 
-27.1.1           this Clause 27.1 and the following provisions of this Concession Agreement (and any defined terms, Clauses and/or Schedules, Appendices and Annexes referred to in them and/or necessary in order to give effect to them) including all rights and obligations arising under those provisions will survive such termination of this Concession Agreement: ^5b0f61ae2fbbae69a95b40dc
+27.1.1           this Clause 27.1 and the following provisions of this Concession Agreement (and any defined terms, Clauses and/or Schedules, Appendices and Annexes referred to in them and/or necessary in order to give effect to them) including all rights and obligations arising under those provisions will survive such termination of this Concession Agreement: ^s-ce2cd6f31f659e5c6f64a24e
 (A)      Clauses 1 (Definitions and Interpretation), 6.2 (PCO Responsibilities), 6.3 (Enforcement of PCO and Strategic Investor Obligations), 7.2 (RoL Responsibilities), 7.3 (RoL Nominee), 8.1 (Changes to the Shareholders' Agreement), 11.1.3 (Project Management), 11.3.2 (Notification of a decision not to proceed to any further LNTP phase), 11.4.2 (Notification of taking FID), 13 (Confidentiality), 14 (Publicity), 15.1, 15.2, 15.3 (Nuclear), 16 (Liability), 17 (Damages are Insufficient Compensation and Equitable Remedies are to be Available), 19 (Application of Clauses 19 to 26 Inclusive: Termination), 20.3 (Consequences of a RoL Event), 20.4 (Mitigation following a RoL Event), 21.3 (Consequences of a PCO Default), 21.4 (Other Consequences of Termination for PCO Default), 23.1 (Termination by Agreement of the Parties), 23.4 (RoL Call Option on Non-Default Termination), 23.5 (Consequences of Non-Default Termination), 24 (Damages for Termination), 25 (RoL's Third Party Rights under the Shareholders' Agreement), 26 (RoL Event Mandatory Transfer of Shares), 28.1.3 (Warranties), 29 (Force Majeure), 30 (Assignment), 32 (Shareholder Put Option), 33 (Notices), 34 (Entire Agreement), 35 (Variation and Waiver), 37 (Severability), 38 (Costs and Expenses), 39 (Interest to Run on Default), 40 (Contracts (Rights of Third Parties) Act), 41 (No Partnership/Agency), 43 (Language), 44 (Governing Law), 45 (Dispute Resolution and Arbitration) and 46 (Sovereign Immunity Waiver); and
 (B)       any other provisions of this Concession Agreement which expressly survive termination of the Concession Agreement or which are required to give effect to such termination or the consequences of such termination;
 
 
-27.1.2           save as expressly provided in this Concession Agreement, upon termination of this Concession Agreement (for whatever cause) any accrued rights or obligations to which the Parties may be entitled or be subject to before the date of such termination will remain in full force and effect; and ^801c8755864175622901f810
+27.1.2           save as expressly provided in this Concession Agreement, upon termination of this Concession Agreement (for whatever cause) any accrued rights or obligations to which the Parties may be entitled or be subject to before the date of such termination will remain in full force and effect; and ^s-5ae3978b7eac6a02904dbb13
 
 
-27.1.3           save as provided for in this Clause 27 (Survival, Rights and Obligations), all rights and obligations of each Party under this Concession Agreement will cease and be of no further force or effect upon termination of this Concession Agreement. ^e373fc203bc067dba319719c
+27.1.3           save as provided for in this Clause 27 (Survival, Rights and Obligations), all rights and obligations of each Party under this Concession Agreement will cease and be of no further force or effect upon termination of this Concession Agreement. ^s-910f7dbe9fd0458c2658b0c4
 
 
-27.2     Strategic Investor's rights and obligations cease ^b91d27c604fc14c5f644b0ca
+27.2     Strategic Investor's rights and obligations cease ^s-5fdec46ba789f4bc63584ab8
 Notwithstanding any other provision of this Concession Agreement (including any provision that provides for termination of any rights or obligations of any Party), if the Strategic Investor's rights and obligations under this Concession Agreement are terminated (including, for the avoidance of doubt, as a result of a repudiatory breach) under Clause 22.2 (Termination of the Strategic Investor's rights and obligations) or Clause 23.3 (Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding):
 
 
-27.2.1           this Clause 27.2 and the following provisions of this Concession Agreement (and any defined terms, Clauses and/or Schedules, Appendices and Annexes referred to in them and/or necessary in order to give effect to them) including all rights and obligations of the Strategic Investor arising under those provisions will survive: ^4e203441c0f9244493c39b37
+27.2.1           this Clause 27.2 and the following provisions of this Concession Agreement (and any defined terms, Clauses and/or Schedules, Appendices and Annexes referred to in them and/or necessary in order to give effect to them) including all rights and obligations of the Strategic Investor arising under those provisions will survive: ^s-c53b2e5a8b462260a32f89d3
 (A)      Clauses 1 (Definitions and Interpretation), 6.2 (PCO Responsibilities), 6.3 (Enforcement of PCO and Strategic Investor Obligations), 7.2 (RoL Responsibilities), 7.3 (RoL Nominee), 13 (Confidentiality), 14 (Publicity), 15.1, 15.2, 15.3 (Nuclear), 16 (Liability), 17 (Damages are Insufficient Compensation and Equitable Remedies are to be Available), 19 (Application of Clauses 19 to 26 Inclusive: Termination), 20.3 (Consequences of a RoL Event), 22.3 (Consequences of Termination), 23.5 (Consequences of Non-Default Termination), 24 (Damages for Termination), 25 (RoL's Third Party Rights under the Shareholders' Agreement), 26 (RoL Event Mandatory Transfer of Shares), 28.1.3 (Warranties), 29 (Force Majeure), 30 (Assignment), 32 (Shareholder Put Option), 33 (Notices), 34 (Entire Agreement), 35 (Variation and Waiver), 37 (Severability), 38 (Costs and Expenses), 39 (Interest to Run on Default), 40 (Contracts (Rights of Third Parties) Act), 41 (No Partnership/Agency), 43 (Language), 44 (Governing Law), 45 (Dispute Resolution and Arbitration) and 46 (Sovereign Immunity Waiver); and
 (B)       any other provisions of this Concession Agreement which expressly survive termination of the Concession Agreement in respect of the Strategic Investor's rights and obligations or which are required to give effect to such termination or the consequences of such termination;
 
 
-27.2.2           save as expressly provided in this Concession Agreement, upon termination of this Concession Agreement in respect of the Strategic Investor's rights and obligations (for whatever cause) any accrued rights or obligations to which the Parties may be entitled or be subject to before the date of such termination will remain in full force and effect; and ^ee342d0a3e94b8f3d34d9e08
+27.2.2           save as expressly provided in this Concession Agreement, upon termination of this Concession Agreement in respect of the Strategic Investor's rights and obligations (for whatever cause) any accrued rights or obligations to which the Parties may be entitled or be subject to before the date of such termination will remain in full force and effect; and ^s-4ab7a3eecb198f4a82cc51c3
 
 
-27.2.3           save as provided for in this Clause 27.2 (Survival, Rights and Obligations), all rights and obligations of the Strategic Investor under this Concession Agreement will cease and be of no further force or effect upon termination of this Concession Agreement in respect of the Strategic Investor's rights and obligations only. ^5d5f13d97ee41278f55880bf
+27.2.3           save as provided for in this Clause 27.2 (Survival, Rights and Obligations), all rights and obligations of the Strategic Investor under this Concession Agreement will cease and be of no further force or effect upon termination of this Concession Agreement in respect of the Strategic Investor's rights and obligations only. ^s-0b48a07c307e4938d6efee87
 
 
-28.       WARRANTIES ^d10c554e1d3f0a9d5a8e1638
+28.       WARRANTIES ^s-83ac7046c1be4320174f8174
 
 
 28.1
 
 
-28.1.1           Each Party represents, warrants and undertakes to the other Parties that, as at the Concession Date and the Investment Date (but, in respect of the PCO only, subject to the PCO obtaining any necessary Consents or third party approvals (including approvals of the Shareholders) required either by Law, this Concession Agreement or the Shareholders' Agreement to exercise its rights or comply with its obligations under this Concession Agreement): ^7062e2335c0e5eabc160ac80
+28.1.1           Each Party represents, warrants and undertakes to the other Parties that, as at the Concession Date and the Investment Date (but, in respect of the PCO only, subject to the PCO obtaining any necessary Consents or third party approvals (including approvals of the Shareholders) required either by Law, this Concession Agreement or the Shareholders' Agreement to exercise its rights or comply with its obligations under this Concession Agreement): ^s-8ece6da05418bef3832ddc8e
 (A)      it has the legal right and full power and authority to enter into, and exercise its rights and perform its obligations under, this Concession Agreement;
 (B)       save as provided for in this Concession Agreement, all actions required by it to authorise the execution and delivery of, and to exercise its rights and perform its obligations under, this Concession Agreement have been duly taken and this Concession Agreement shall constitute binding obligations upon it;
 (C)       the execution and delivery of, and the exercise by it of its rights, and the performance by it of its obligations, under this Concession Agreement do not and shall not:
@@ -1579,118 +1584,118 @@ Notwithstanding any other provision of this Concession Agreement (including any 
 (D)      save as provided in, or obtained prior to the execution of, this Concession Agreement, no Consent of any government agency or other person is required by it for entry into this Concession Agreement.
 
 
-28.1.2           Subject and without prejudice to Clause 16.5.9(A), the RoL represents and warrants that: ^fc26bf4c0eef753fe0bd9eef
+28.1.2           Subject and without prejudice to Clause 16.5.9(A), the RoL represents and warrants that: ^s-6980f7486fc059f14a6eec2d
 (A)      on the Concession Date and each day after the Concession Date (by reference to the facts and circumstances then existing), the Strategic Investor has been selected, the Concession has been awarded and this Concession Agreement has been entered into and/or awarded (as appropriate);
 (B)       on each of the dates on which each Ancillary Contract is entered into and each day thereafter (by reference to the facts and circumstances then existing) (as applicable for each Ancillary Contract), each Ancillary Contract has been entered into and/or awarded,
 by the RoL and the PCO in full compliance with all applicable Law and procedures relating to procurement and competitive bidding and the RoL acknowledges that the PCO and the Strategic Investor enter into this Concession Agreement and undertake the Project in reliance on this repeating representation and warranty.
 
 
-28.1.3           The RoL: ^7c2f5c06c6bb18215399d24f
+28.1.3           The RoL: ^s-bf81264e5a24d8f0e3808ea3
 (A)      represents and warrants on the Concession Date and on each day after the Concession Date (by reference to the facts and circumstances then existing) that the central bank of Lithuania (Lietuvos bankas) has a different legal and juridical personality from that of the RoL such that its assets are not available for the satisfaction of any successful claim against the RoL; and
 (B)       undertakes that it shall not transfer any of the RoL's assets to the central bank of Lithuania (Lietuvos bankas) for the sole purpose of avoiding such assets being available for the satisfaction of any Claim against it.
 
 
-29.       FORCE MAJEURE ^8096ee495a0d339d95862d8b
+29.       FORCE MAJEURE ^s-5c4563498a9b020792d592ab
 
 
-29.1     Performance of Obligations ^71725fb051fe8f6a814d3aaa
+29.1     Performance of Obligations ^s-7efb05193b28e728ed681f08
 Subject to Clause 29.2 (Notification and Mitigation), if an Affected Party is, or could reasonably be expected to be, materially hindered, prevented or delayed from performing any of its obligations under this Concession Agreement (other than an obligation to pay any sum due) by reason of a Force Majeure Event or the consequences of that Force Majeure Event, such obligations shall be suspended (to the extent affected) for a period equal to the duration of the Force Majeure Event and its consequences.
 
 
-29.2     Notification and Mitigation ^485f85708f4f30413489b2d6
+29.2     Notification and Mitigation ^s-dd8a10027ba2cf2f10c097a1
 
 
-29.2.1           The Affected Party shall, promptly on becoming aware of a Force Majeure Event, notify the other Parties of: ^a53d05fbed78af617557824b
+29.2.1           The Affected Party shall, promptly on becoming aware of a Force Majeure Event, notify the other Parties of: ^s-d7a8e57c1e6b492e4d43b2da
 (A)      the nature of the Force Majeure Event relied on;
 (B)       the estimated effect of the Force Majeure Event on the Affected Party's ability to perform its obligations under this Concession Agreement (including any effect on the Affected Party's ability to achieve any key dates or milestones under this Concession Agreement);
 (C)       any action proposed to mitigate its effect; and
 (D)      the period for which it is estimated the Force Majeure Event and its consequences will continue.
 
 
-29.2.2           As soon as reasonably practicable following notification pursuant to Clause 29.2.1, the Parties shall consult with each other and use all reasonable endeavours to agree whether any extension(s) of time in relation to any key dates or milestones under this Concession Agreement are required (having regard to the nature of the Force Majeure Event and its consequences and their effect on performance of the relevant obligations) and, if so, what the extension(s) will be, and appropriate arrangements to mitigate the effects of the Force Majeure Event and its consequences and facilitate the resumption of any affected obligations. If the Parties cannot agree on any of the foregoing matters, the issue can be referred by any Party to the Dispute Resolution Procedure for determination. ^9cffcec6afc69937e50528ea
+29.2.2           As soon as reasonably practicable following notification pursuant to Clause 29.2.1, the Parties shall consult with each other and use all reasonable endeavours to agree whether any extension(s) of time in relation to any key dates or milestones under this Concession Agreement are required (having regard to the nature of the Force Majeure Event and its consequences and their effect on performance of the relevant obligations) and, if so, what the extension(s) will be, and appropriate arrangements to mitigate the effects of the Force Majeure Event and its consequences and facilitate the resumption of any affected obligations. If the Parties cannot agree on any of the foregoing matters, the issue can be referred by any Party to the Dispute Resolution Procedure for determination. ^s-0c2eb3d1cbd6eea0de4176f9
 
 
-29.2.3           The Affected Party shall: ^16d01efe712169c6c236d9da
+29.2.3           The Affected Party shall: ^s-2d9090a312d2cb0d8d464f79
 (A)      use all reasonable endeavours to minimise the effects of the Force Majeure Event on the performance of its obligations under this Concession Agreement;
 (B)       provide to the non‑Affected Party written reports as often as reasonably required by the non‑Affected Party containing information as to the circumstances of the Affected Party's progress in minimising the effects of the Force Majeure Event and indicating when it is estimated that performance of any affected obligations will resume;
 (C)       so far as is reasonably practicable, provide any information relating to the Force Majeure Event and its effects as any other Party may reasonably request; and
 (D)      (without prejudice to any applicable law and/or Regulatory Requirement) make any alternative arrangements for resuming the performance of its obligations as may be practicable without incurring material additional expense.
 
 
-29.2.4           Where the Affected Party is the PCO, the PCO shall at all times during which a Force Majeure Event is subsisting take all steps reasonably necessary in accordance with Good Industry Practice to overcome or minimise the consequences of the Force Majeure Event. ^15c45ca9e0299f1c0dde9fe6
+29.2.4           Where the Affected Party is the PCO, the PCO shall at all times during which a Force Majeure Event is subsisting take all steps reasonably necessary in accordance with Good Industry Practice to overcome or minimise the consequences of the Force Majeure Event. ^s-725e359cd08755f46758e1da
 
 
-29.2.5           If the RoL or the Strategic Investor is the Affected Party, it shall at all times during which a Force Majeure Event is subsisting take all steps reasonably necessary to overcome or minimise the consequences of the Force Majeure Event. ^4f09e0dbfc764339c5781bd4
+29.2.5           If the RoL or the Strategic Investor is the Affected Party, it shall at all times during which a Force Majeure Event is subsisting take all steps reasonably necessary to overcome or minimise the consequences of the Force Majeure Event. ^s-1b76f0fa1f82fbd4b06bf505
 
 
-29.2.6           As soon as reasonably practicable after the cessation of the consequences of a Force Majeure Event, the Affected Party shall notify the other Parties that the Force Majeure Event has ended and (without prejudice to any applicable law, including any Regulatory Requirements) shall resume the full performance of its obligations under this Concession Agreement as soon as is reasonably practicable (subject to any agreement or, if necessary, further agreement pursuant to Clause 29.2.7, between the Parties as to the extension(s) of time, having regard to the nature of the Force Majeure Event and its effect on performance of the relevant obligations). ^86d914edfb8ccf809877004d
+29.2.6           As soon as reasonably practicable after the cessation of the consequences of a Force Majeure Event, the Affected Party shall notify the other Parties that the Force Majeure Event has ended and (without prejudice to any applicable law, including any Regulatory Requirements) shall resume the full performance of its obligations under this Concession Agreement as soon as is reasonably practicable (subject to any agreement or, if necessary, further agreement pursuant to Clause 29.2.7, between the Parties as to the extension(s) of time, having regard to the nature of the Force Majeure Event and its effect on performance of the relevant obligations). ^s-8f460c5a1d5c967726c7917c
 
 
-29.2.7           If any extension of time has been agreed or determined pursuant to Clause 29.2.2 and, following the cessation of the consequences of the Force Majeure Event, any of the Parties consider that the duration of the extension of time should be revisited and extended further, the Parties shall consult each other and use all reasonable endeavours to agree what the extension(s) of time in relation to any key dates or milestones should have been and, if the Parties cannot agree on what any extension(s) of time should have been, the issue can be referred by any Party to the Dispute Resolution Procedure for determination. ^3431e452aaa15c64f7b7955c
+29.2.7           If any extension of time has been agreed or determined pursuant to Clause 29.2.2 and, following the cessation of the consequences of the Force Majeure Event, any of the Parties consider that the duration of the extension of time should be revisited and extended further, the Parties shall consult each other and use all reasonable endeavours to agree what the extension(s) of time in relation to any key dates or milestones should have been and, if the Parties cannot agree on what any extension(s) of time should have been, the issue can be referred by any Party to the Dispute Resolution Procedure for determination. ^s-eb4a465cb75f00e081280b4a
 
 
-29.2.8           For the avoidance of doubt, save to the extent stipulated in this Clause 29 (Force Majeure), no Party shall be released from any of its obligations under this Concession Agreement as a result of the occurrence of a Force Majeure Event (subject to any agreement between the Parties as to the extension(s) of time, having regard to the nature of the Force Majeure Event and its effect on performance of the relevant obligations). ^aad5a9aaa3623faf2b163b4e
+29.2.8           For the avoidance of doubt, save to the extent stipulated in this Clause 29 (Force Majeure), no Party shall be released from any of its obligations under this Concession Agreement as a result of the occurrence of a Force Majeure Event (subject to any agreement between the Parties as to the extension(s) of time, having regard to the nature of the Force Majeure Event and its effect on performance of the relevant obligations). ^s-1ca44035cccb8e94c45482a3
 
 
-30.       ASSIGNMENT ^be0037d808e7e45e12d65b30
+30.       ASSIGNMENT ^s-441bc51c7c9188e1b8e73a52
 
 
-30.1     The RoL may not assign (whether absolutely or by way of security and whether in whole or in part), transfer, pledge (įkeitimas), mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of, or rights under, this Concession Agreement (each of the above a "dealing") without the prior written consent of each of the Strategic Investor and the PCO and any purported dealing in contravention of this Clause 30 (Assignment) shall be ineffective. ^1008cc204985bb1a52890d4f
+30.1     The RoL may not assign (whether absolutely or by way of security and whether in whole or in part), transfer, pledge (įkeitimas), mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of, or rights under, this Concession Agreement (each of the above a "dealing") without the prior written consent of each of the Strategic Investor and the PCO and any purported dealing in contravention of this Clause 30 (Assignment) shall be ineffective. ^s-d4e1c2b66af79984e9562961
 
 
-30.2     Subject to Clause 30.5, the PCO may not assign (whether absolutely or by way of security and whether in whole or in part), transfer, pledge (įkeitimas), mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of, or rights under, this Concession Agreement (each of the above a "dealing") without the prior written consent of the RoL and any purported dealing in contravention of this Clause 30 (Assignment) shall be ineffective. ^c855782846b2b05e4a8d3b59
+30.2     Subject to Clause 30.5, the PCO may not assign (whether absolutely or by way of security and whether in whole or in part), transfer, pledge (įkeitimas), mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of, or rights under, this Concession Agreement (each of the above a "dealing") without the prior written consent of the RoL and any purported dealing in contravention of this Clause 30 (Assignment) shall be ineffective. ^s-323db4074bac1a1cbf096b0c
 
 
-30.3     Subject to Clause 30.5, the Strategic Investor may not assign (whether absolutely or by way of security and whether in whole or in part), transfer, pledge (įkeitimas), mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of, or rights under, this Concession Agreement (each of the above a "dealing") without the prior written consent of the RoL (subject to the compliance by the RoL with Clause 30.4), and any purported dealing in contravention of this Clause 30 (Assignment) shall be ineffective. ^8ba98480eba92b9691af13b2
+30.3     Subject to Clause 30.5, the Strategic Investor may not assign (whether absolutely or by way of security and whether in whole or in part), transfer, pledge (įkeitimas), mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of, or rights under, this Concession Agreement (each of the above a "dealing") without the prior written consent of the RoL (subject to the compliance by the RoL with Clause 30.4), and any purported dealing in contravention of this Clause 30 (Assignment) shall be ineffective. ^s-d0447e14d4f0d2160ab445de
 
 
-30.4     Prior to giving its consent under Clause 30.3, but without prejudice to Clause 30.5, the RoL shall seek the consent of the PCO to the proposed dealing by the Strategic Investor (and any consent purported to be given by the RoL under Clause 30.3 shall be ineffective if the consent of the PCO is not so obtained). ^3f25faf0585107ed4e2f4e01
+30.4     Prior to giving its consent under Clause 30.3, but without prejudice to Clause 30.5, the RoL shall seek the consent of the PCO to the proposed dealing by the Strategic Investor (and any consent purported to be given by the RoL under Clause 30.3 shall be ineffective if the consent of the PCO is not so obtained). ^s-42f9e1f6001d349d41d16b30
 
 
-30.5     The RoL hereby consents to any assignment (by way of security) or the grant of other security interests to a Financier of the benefit, or rights, of the Strategic Investor and/or the PCO under this Concession Agreement. The RoL agrees that, if so requested by the Strategic Investor and/or the PCO (each acting reasonably), it will enter into discussions in relation to direct agreements with applicable Financiers of, or direct or indirect equity investors in, the Strategic Investor and/or the PCO. ^282bab1b7fac05bf8c4130ba
+30.5     The RoL hereby consents to any assignment (by way of security) or the grant of other security interests to a Financier of the benefit, or rights, of the Strategic Investor and/or the PCO under this Concession Agreement. The RoL agrees that, if so requested by the Strategic Investor and/or the PCO (each acting reasonably), it will enter into discussions in relation to direct agreements with applicable Financiers of, or direct or indirect equity investors in, the Strategic Investor and/or the PCO. ^s-b9b1b8ff1be49d624469dd19
 
 
-30.6     The terms of this Concession Agreement shall be binding on any permitted successors and assigns and shall inure to the benefit of and be enforceable by the other Parties and their respective permitted successors and assigns. ^ae5cc58c1b7fdac57cfdb190
+30.6     The terms of this Concession Agreement shall be binding on any permitted successors and assigns and shall inure to the benefit of and be enforceable by the other Parties and their respective permitted successors and assigns. ^s-98ad4675017e8d8afc629364
 
 
-31.       RESTRICTIONS ON TRANSFER OF SHARES AND CHANGE OF CONTROL ^82bf0ca21d0d12a32276e942
+31.       RESTRICTIONS ON TRANSFER OF SHARES AND CHANGE OF CONTROL ^s-40d21cb1984d64f3fad2a167
 
 
-31.1     Restriction ^e880da6bcdd4c359dd792f40
+31.1     Restriction ^s-7ef50f9adc74d1e3b91c3563
 The PCO undertakes to the RoL not to register a transfer of Shares by a Shareholder unless the intended transferee either:
 
 
-31.1.1         has been approved by the Strategic Companies Commission in relation to the National Security Criteria if such approval is required by applicable Law; or ^d80714584354e817ab227d87
+31.1.1         has been approved by the Strategic Companies Commission in relation to the National Security Criteria if such approval is required by applicable Law; or ^s-d51e418ce1756fa3dbe4debd
 
 
-31.1.2         is the RoL (or a RoL Nominee). ^9b7fde853967495527f9d136
+31.1.2         is the RoL (or a RoL Nominee). ^s-3c9a7a931b1b37f759175c2c
 
 
-31.2     Rights granted to the RoL in relation to Share Transfer and Prohibited Change of Control under the Shareholders' Agreement ^6ba2487a1d61f37335171ac5
+31.2     Rights granted to the RoL in relation to Share Transfer and Prohibited Change of Control under the Shareholders' Agreement ^s-db7c7fff5c07837206b347ed
 
 
-31.2.1         The Parties acknowledge the option granted in the Shareholders' Agreement to the RoL (as a third party) to acquire the Shareholder's Interests of a Shareholder in the event that a Prohibited Change of Control affects such a Shareholder. ^54451842cb8835a67989f069
+31.2.1         The Parties acknowledge the option granted in the Shareholders' Agreement to the RoL (as a third party) to acquire the Shareholder's Interests of a Shareholder in the event that a Prohibited Change of Control affects such a Shareholder. ^s-afc8d16f0dadfc714754735e
 
 
-31.2.2         The Parties further acknowledge that, pursuant to the Shareholders' Agreement and if required by applicable Law from time to time, a Shareholder intending to transfer any of its Shares (a "Transferring Shareholder") shall be required to promptly notify: ^0b1a6d2d7e8ecc0f802f4b11
+31.2.2         The Parties further acknowledge that, pursuant to the Shareholders' Agreement and if required by applicable Law from time to time, a Shareholder intending to transfer any of its Shares (a "Transferring Shareholder") shall be required to promptly notify: ^s-66566b7daa94e8bfd187b3e6
 (A)      the PCO and provide it with all relevant information of the intended transfer for the PCO to notify the Strategic Companies Commission by means of a SCC Transfer Notice; and
 (B)       the RoL of the intended transfer by means of a related Transfer Notice, which shall include the Transfer Price.
 
 
-31.3     Review and determination of proposed transfer against National Security Criteria ^8ccd998244f5785ff8645f97
+31.3     Review and determination of proposed transfer against National Security Criteria ^s-4bbb923ffd8c31e58e526e7c
 Upon receipt of an SCC Transfer Notice by the Strategic Companies Commission, delivered pursuant to and satisfying the information requirements of the Shareholders' Agreement and applicable Law, the RoL shall use its reasonable endeavours to procure that the Strategic Companies Commission:
 
 
-31.3.1         considers without delay whether the National Security Criteria are satisfied in relation to the transferee identified in the SCC Transfer Notice; and ^b40f041d9a76f4107bdbbc67
+31.3.1         considers without delay whether the National Security Criteria are satisfied in relation to the transferee identified in the SCC Transfer Notice; and ^s-c7f91bcc99a864a76db48d83
 
 
-31.3.2         notifies its decision to the Transferring Shareholder as soon as reasonably practicable and in any event not later than within two (2) Months of receipt of the SCC Transfer Notice (or such shorter period as required by Law). ^cafa2b3a1fac4adc40c12088
+31.3.2         notifies its decision to the Transferring Shareholder as soon as reasonably practicable and in any event not later than within two (2) Months of receipt of the SCC Transfer Notice (or such shorter period as required by Law). ^s-75af383e6d06128a891352b4
 
 
-31.4     Strategic Investor transfer of ownership restrictions ^48860d3ac433bbdd5f809f57
+31.4     Strategic Investor transfer of ownership restrictions ^s-3e496ff0fb2e9d28dcb962cf
 
 
-31.4.1         The Strategic Investor shall procure that: ^8ed101fcab732885c0af5df0
+31.4.1         The Strategic Investor shall procure that: ^s-8798b73bb5542c954c8f47ff
 (A)      it remains an Associated Company of Hitachi, Ltd.;
 (B)       no person owns (disregarding any security interest granted by any person) directly or indirectly the shares of the Strategic Investor in issue from time to time unless such person is one or more of:
 (1)       Hitachi, Ltd. or an Associated Company of Hitachi, Ltd.;
@@ -1722,50 +1727,50 @@ where for the purposes of this Clause 31.4 (Strategic Investor transfer of owner
  means a body corporate which does not have a holding company (where holding company has the meaning given to it in section 1159 of the Companies Act 2006).
 
 
-31.4.2         The Strategic Investor undertakes not to register any transfer of Strategic Investor Shares by any Strategic Investor Shareholder if it is aware, after due enquiry, that such transfer would constitute a breach by it of Clause 31.4.1. The Strategic Investor shall, within twenty (20) Business Days of receiving a written request from the RoL, provide the RoL with a certified copy of the register of members (akcininkų asmeninių vertybinių popierių sąskaitos) of the Strategic Investor. ^cdafc2cff3e1738a4d479254
+31.4.2         The Strategic Investor undertakes not to register any transfer of Strategic Investor Shares by any Strategic Investor Shareholder if it is aware, after due enquiry, that such transfer would constitute a breach by it of Clause 31.4.1. The Strategic Investor shall, within twenty (20) Business Days of receiving a written request from the RoL, provide the RoL with a certified copy of the register of members (akcininkų asmeninių vertybinių popierių sąskaitos) of the Strategic Investor. ^s-e8c5a060c688c80b3a0cd4c4
 
 
-32.       SHAREHOLDER PUT OPTION ^b43ddd291412900c2f8bed16
+32.       SHAREHOLDER PUT OPTION ^s-6e3920148cb1a67cf98f2611
 
 
-32.1     National Security Criteria Put Option ^7afbf245407a3bd68f48df0c
+32.1     National Security Criteria Put Option ^s-047cc05dc04629cb0c6aad3e
 
 
-32.1.1         If the Strategic Companies Commission determines that a proposed transferee identified to it in an SCC Transfer Notice does not satisfy the National Security Criteria (and a refusal by the Strategic Companies Commission to determine or a failure by the Strategic Companies Commission to make a determination within two (2) months of receipt of the SCC Transfer Notice shall be considered to be a determination that a proposed transferee does not satisfy the National Security Criteria), but in each case either: ^c2f8109cf3846c3ad7596c1d
+32.1.1         If the Strategic Companies Commission determines that a proposed transferee identified to it in an SCC Transfer Notice does not satisfy the National Security Criteria (and a refusal by the Strategic Companies Commission to determine or a failure by the Strategic Companies Commission to make a determination within two (2) months of receipt of the SCC Transfer Notice shall be considered to be a determination that a proposed transferee does not satisfy the National Security Criteria), but in each case either: ^s-5b2b32068e900dfef6264c35
 (A)      the proposed transferee is a Shareholder;
 (B)       the Contractual National Security Criteria are satisfied; or
 (C)       a determination is made under the Dispute Resolution Procedure that the Contractual National Security Criteria are satisfied,
 then subject to each Shareholder's pre-emption right in the Shareholders' Agreement, the RoL shall, within two (2) Months of (i) the determination of the Strategic Companies Commission in the case of (A) or (B), and (ii) the determination under the Dispute Resolution Procedure in the case of (C), offer to purchase from the Transferring Shareholder on the same terms as those specified in the related Transfer Notice (including the Transfer Price), all the Transferring Interest in respect of which any pre-emption rights of any Shareholders have not been exercised in accordance with the Shareholders' Agreement (the "RoL NSC Offer"). Where the RoL fails to make a RoL NSC Offer to a Transferring Shareholder in respect of such whole or partial Transferring Interest within two (2) Months of the relevant determination, the RoL shall be deemed to have made a RoL NSC Offer to such Shareholder immediately upon the expiry of that two (2) Month period.
 
 
-32.1.2         The remaining provisions of this Clause 32.1 (National Security Criteria Put Option) are subject to the Transferring Shareholder providing notice to the RoL that it either accepts or rejects the RoL NSC Offer (a "Transfer Decision Notice") within twenty (20) Business Days of the date of the RoL NSC Offer ("Transfer Decision Period"). ^09c3e7c7d39df851c3a7802a
+32.1.2         The remaining provisions of this Clause 32.1 (National Security Criteria Put Option) are subject to the Transferring Shareholder providing notice to the RoL that it either accepts or rejects the RoL NSC Offer (a "Transfer Decision Notice") within twenty (20) Business Days of the date of the RoL NSC Offer ("Transfer Decision Period"). ^s-82c762e42c83e81f23388894
 
 
-32.1.3         If the Transferring Shareholder has provided the RoL with a Transfer Decision Notice during the Transfer Decision Period accepting the RoL NSC Offer, the RoL shall, within ten (10) Business Days of the service of the Transfer Decision Notice pay the Transfer Price to the Transferring Shareholder subject to: ^b1d4a5a073f33d7bf571f3e8
+32.1.3         If the Transferring Shareholder has provided the RoL with a Transfer Decision Notice during the Transfer Decision Period accepting the RoL NSC Offer, the RoL shall, within ten (10) Business Days of the service of the Transfer Decision Notice pay the Transfer Price to the Transferring Shareholder subject to: ^s-b408b385af79768257c3e2bf
 (A)      the Transferring Shareholder having completed the transfer of its Transferring Interest to the RoL (or the RoL Nominee) in accordance with the Shareholders' Agreement; or
 (B)       where the Transferring Shareholder's ability to transfer its Shareholder's Interest to the RoL (or the RoL Nominee) cannot be completed in accordance with the Shareholders' Agreement owing to an Encumbrance (save an Encumbrance voluntarily entered into) or a regulatory impediment, such Transferring Shareholder has delivered to the RoL a duly executed deed of the Transferring Shareholder declaring and settling its Shareholder's Interest on trust for RoL (or the RoL Nominee) until such time as a transfer of its Shareholder's Interest to the RoL (or the RoL Nominee) can be completed.
 
 
-32.1.4         If the Transferring Shareholder does not give a Transfer Decision Notice during the Transfer Decision Period, or the Transferring Shareholder gives a Transfer Decision Notice during the Transfer Decision Period rejecting the RoL NSC Offer, the RoL NSC Offer shall lapse and the RoL shall be under no obligation to purchase or offer to purchase such Transferring Interest from the Transferring Shareholder. ^f200900bbb59c535cfa8f20f
+32.1.4         If the Transferring Shareholder does not give a Transfer Decision Notice during the Transfer Decision Period, or the Transferring Shareholder gives a Transfer Decision Notice during the Transfer Decision Period rejecting the RoL NSC Offer, the RoL NSC Offer shall lapse and the RoL shall be under no obligation to purchase or offer to purchase such Transferring Interest from the Transferring Shareholder. ^s-9f9f13bdfd91940422160d05
 
 
-32.1.5         The PCO shall take such action within its power as may be required to give effect to the provisions of this Clause 32 (Shareholder Put Option). ^ea02bf83610c50ac90434d3a
+32.1.5         The PCO shall take such action within its power as may be required to give effect to the provisions of this Clause 32 (Shareholder Put Option). ^s-612a892c215c1140aca4eede
 
 
-32.1.6         Without prejudice to any other rights or remedies, either pursuant to this Concession Agreement or otherwise, including in respect of fraud, in the event that within six (6) Months from the date of a transfer of a Transferring Interest to the RoL pursuant to this Clause 32 (Shareholder Put Option) it transpires that any of the Contractual National Security Criteria have not been satisfied, the Parties agree that the relevant Transferring Shareholder, at the option of the RoL, shall be required by the Shareholders' Agreement to re-acquire the Transferring Interest at the Transfer Price plus interest calculated in accordance with Clause 39 (Interest to Run on Default) from the date that the original Transfer Price was paid to the Transferring Shareholder in accordance with this clause. ^a915f0726d2598d61e3ee5cd
+32.1.6         Without prejudice to any other rights or remedies, either pursuant to this Concession Agreement or otherwise, including in respect of fraud, in the event that within six (6) Months from the date of a transfer of a Transferring Interest to the RoL pursuant to this Clause 32 (Shareholder Put Option) it transpires that any of the Contractual National Security Criteria have not been satisfied, the Parties agree that the relevant Transferring Shareholder, at the option of the RoL, shall be required by the Shareholders' Agreement to re-acquire the Transferring Interest at the Transfer Price plus interest calculated in accordance with Clause 39 (Interest to Run on Default) from the date that the original Transfer Price was paid to the Transferring Shareholder in accordance with this clause. ^s-41471d5fafb6e264cb916386
 
 
-33.       NOTICES ^dc16e8a9c55f6cc239942075
+33.       NOTICES ^s-8215fc3088f884bb1287daec
 
 
-33.1     Notices in Writing ^eda20e052d545e818ea857f9
+33.1     Notices in Writing ^s-80413141d031c5ea973102b8
 Unless permitted to be sent, and sent, by email under Clause 33.2 (Notices by Email), any notice under and in connection with this Concession Agreement:
 
 
-33.1.1         shall be in writing and shall be in the English language; ^07fe54fe867d38d2e948a634
+33.1.1         shall be in writing and shall be in the English language; ^s-74bf6bd68905d96e2bd8923e
 
 
-33.1.2         shall be left at the address of the addressee or sent by pre-paid recorded delivery to the address of the addressee or sent by facsimile to the facsimile number of the addressee in each case which is specified in this Clause 33.1.2 in relation to the Party to whom the notice is addressed, and marked for the attention of the person so specified and/or marked for the attention of such other person as the relevant Party may from time to time specify by notice given in accordance with Clause 33.3 (Change in Notice Details). For the purposes of this Clause 33.1.2, the relevant details of each Party at the Concession Date are: ^a3a2860759d42b5dcabbb28f
+33.1.2         shall be left at the address of the addressee or sent by pre-paid recorded delivery to the address of the addressee or sent by facsimile to the facsimile number of the addressee in each case which is specified in this Clause 33.1.2 in relation to the Party to whom the notice is addressed, and marked for the attention of the person so specified and/or marked for the attention of such other person as the relevant Party may from time to time specify by notice given in accordance with Clause 33.3 (Change in Notice Details). For the purposes of this Clause 33.1.2, the relevant details of each Party at the Concession Date are: ^s-f6068177e674bf5ac2b0a863
 
 
 RoL
@@ -1786,22 +1791,22 @@ Facsimile:
 Attention:
 
 
-33.1.3         shall, in the absence of evidence of earlier receipt, take effect from the time that each notice is deemed to be received which, subject to Clause 33.1.4, shall be deemed to be: ^d14031b3f38ba667d4f28ee9
+33.1.3         shall, in the absence of evidence of earlier receipt, take effect from the time that each notice is deemed to be received which, subject to Clause 33.1.4, shall be deemed to be: ^s-c3e67ec763f4288a6bd88e17
 (A)      in the case of a notice left at the address of the addressee, upon delivery at that address;
 (B)       in the case of a posted letter, on the fifth (5th) Calendar Day after posting if posted within the European Union or on the fourteenth (14th) Calendar Day after posting if posted from/to outside the European Union; and
 (C)       in the case of a facsimile, on production of a transmission report from the machine from which the facsimile was sent which indicates that the facsimile was sent in its entirety to the facsimile number of the recipient provided that a confirmatory copy of such facsimile has been sent by post in accordance with this Clause 33.1 within twenty-four (24) hours of such transmission; and
 
 
-33.1.4         which are received or deemed to be received under Clause 33.1.3 on a Calendar Day which is not a Business Day, or after 5.00 pm on any Business Day, shall be deemed to be received at 9.00 am on the following Business Day. References to time in this Clause 33.1.4 are to local time in the country of the addressee. ^46705a06698b7c8921a5982e
+33.1.4         which are received or deemed to be received under Clause 33.1.3 on a Calendar Day which is not a Business Day, or after 5.00 pm on any Business Day, shall be deemed to be received at 9.00 am on the following Business Day. References to time in this Clause 33.1.4 are to local time in the country of the addressee. ^s-bcf4a199cb904ace4b292285
 
 
-33.2     Notices by Email ^5f04cd750e9742bb678a9ffa
+33.2     Notices by Email ^s-d94e8c437c27213dfef2b54f
 
 
-33.2.1         Any notification or provision of information pursuant to Clauses 12.1 and 12.2 (Regulatory Interface) shall be permitted (but not required) to be sent by email. ^62193f5e08897c3957b65886
+33.2.1         Any notification or provision of information pursuant to Clauses 12.1 and 12.2 (Regulatory Interface) shall be permitted (but not required) to be sent by email. ^s-9504b560767c98303d4bf46b
 
 
-33.2.2         If a notice, as permitted by Clause 33.2.1, is sent by email it shall be in the English language and shall be sent from and to the following representatives of the Parties only at the email address which is specified in this Clause 33.2.2. For the purposes of this Clause 33.2.2, the relevant details of each Party as at the Concession Date are: ^0894995f41987e050b3fb037
+33.2.2         If a notice, as permitted by Clause 33.2.1, is sent by email it shall be in the English language and shall be sent from and to the following representatives of the Parties only at the email address which is specified in this Clause 33.2.2. For the purposes of this Clause 33.2.2, the relevant details of each Party as at the Concession Date are: ^s-d69befcf95e839dda714def5
 
 
 RoL
@@ -1819,287 +1824,287 @@ Name/Position/Department:
 Email address:
 
 
-33.2.3         Any notice given by email under this Clause 33.2 (Notices by Email) shall, subject to Clause 33.2.4, be deemed to be received when the email is first stored in the recipient's email box. The place of receipt of the email shall be deemed to be the postal address nominated by the recipient Party in Clause 33.1.2. ^0c10c9f6b8410320af55e14c
+33.2.3         Any notice given by email under this Clause 33.2 (Notices by Email) shall, subject to Clause 33.2.4, be deemed to be received when the email is first stored in the recipient's email box. The place of receipt of the email shall be deemed to be the postal address nominated by the recipient Party in Clause 33.1.2. ^s-344caecdbdcb17137d1a05f9
 
 
-33.2.4         Any notice given by email under this Clause 33.2 (Notices by Email) which is deemed to be received in accordance with Clause 33.2.3 on a Calendar Day which is not a Business Day, or after 5 p.m. on any Business Day, shall be deemed to be received at 9.00am on the following Business Day. References to time in this Clause 33.2.4 are to local time in the country of the place of receipt. ^a9de818d9f7b093de6ebd2bc
+33.2.4         Any notice given by email under this Clause 33.2 (Notices by Email) which is deemed to be received in accordance with Clause 33.2.3 on a Calendar Day which is not a Business Day, or after 5 p.m. on any Business Day, shall be deemed to be received at 9.00am on the following Business Day. References to time in this Clause 33.2.4 are to local time in the country of the place of receipt. ^s-65f583a59cb969e9aa17f936
 
 
-33.3     Change in Notice Details ^34b0fb5cc9f1ab67348179ab
+33.3     Change in Notice Details ^s-ba9de47198566ff136a48aca
 Each Party undertakes to notify the other Parties by notice served in accordance with Clause 33.1 (Notices in Writing) if the addressee, address, facsimile number or email address (as applicable) specified in Clauses 33.1.2 and/or 33.2.2 is no longer appropriate and to provide new replacement details for the service of notices. The new details provided under this Clause 33.3 shall, in respect of each of the other Parties individually, be deemed to replace the details listed at Clauses 33.1.2 and/or 33.2.2 (as applicable) from the date of receipt of the notice by that other Party.
 
 
-33.4     Communication with the RoL ^83bb9c86ec958b335a46d620
+33.4     Communication with the RoL ^s-29e0999b980b64cb5347a7ec
 Any communication or document to be made or delivered to the RoL in accordance with this Concession Agreement shall be sent to the MoE which, subject and without prejudice to the foregoing provisions of this Clause 33 (Notices), shall be deemed to have received and accepted such communication or document on behalf of the RoL.
 
 
-34.       ENTIRE AGREEMENT ^ef8fcac8277fe9621f0713c7
+34.       ENTIRE AGREEMENT ^s-04437578eee439c03d8f9ebd
 
 
-34.1     Without prejudice to any terms of the exclusivity arrangement referred to in Recital (C) which are expressed to remain in force following termination of that arrangement, each of the Parties to this Concession Agreement confirms that this Concession Agreement and the applicable terms of the Shareholders' Agreement represents the entire understanding between the three of them, and constitutes the whole agreement between the three of them, in relation to the subject matter of the Concession and supersedes any previous agreement between the Parties with respect thereto and, without prejudice to the generality of the foregoing, excludes any warranty, condition or other undertaking implied at law or by custom, usage or course of dealing. ^ee4838e7b17b897af6a06bb4
+34.1     Without prejudice to any terms of the exclusivity arrangement referred to in Recital (C) which are expressed to remain in force following termination of that arrangement, each of the Parties to this Concession Agreement confirms that this Concession Agreement and the applicable terms of the Shareholders' Agreement represents the entire understanding between the three of them, and constitutes the whole agreement between the three of them, in relation to the subject matter of the Concession and supersedes any previous agreement between the Parties with respect thereto and, without prejudice to the generality of the foregoing, excludes any warranty, condition or other undertaking implied at law or by custom, usage or course of dealing. ^s-568f3360d8f523566f1648b7
 
 
-34.2     Each Party confirms that: ^d80c2ef901ec0c9f3c141cd6
+34.2     Each Party confirms that: ^s-dd8f470b6531001d08dd2dba
 
 
-34.2.1         in entering into this Concession Agreement it has not relied on any representation, warranty, assurance, covenant, indemnity, undertaking or commitment which is not expressly set out in this Concession Agreement; and ^a4e7a419094cec176a3b2b59
+34.2.1         in entering into this Concession Agreement it has not relied on any representation, warranty, assurance, covenant, indemnity, undertaking or commitment which is not expressly set out in this Concession Agreement; and ^s-977b8c41df19c588de484453
 
 
-34.2.2         in any event, without prejudice to any liability for fraudulent misrepresentation or fraudulent misstatement or any rights and remedies under any Investment Protection Treaty, the only rights or remedies in relation to any representation, warranty, assurance, covenant, indemnity, undertaking or commitment given or action taken in connection with the Concession are pursuant to this Concession Agreement, and for the avoidance of doubt and without limitation, no Party has any other right or remedy (whether by way of a claim for contribution or otherwise) in tort (including negligence) or for misrepresentation (whether negligent or otherwise, and whether made prior to, and/or in, this Concession Agreement). ^d48082e1a0bd91658dbc2b90
+34.2.2         in any event, without prejudice to any liability for fraudulent misrepresentation or fraudulent misstatement or any rights and remedies under any Investment Protection Treaty, the only rights or remedies in relation to any representation, warranty, assurance, covenant, indemnity, undertaking or commitment given or action taken in connection with the Concession are pursuant to this Concession Agreement, and for the avoidance of doubt and without limitation, no Party has any other right or remedy (whether by way of a claim for contribution or otherwise) in tort (including negligence) or for misrepresentation (whether negligent or otherwise, and whether made prior to, and/or in, this Concession Agreement). ^s-e9a20cee8f1c1316a88f91df
 
 
-35.       VARIATION AND WAIVER ^fb534a8b2c90de5bb93f8495
+35.       VARIATION AND WAIVER ^s-9537927a30cb721ab6774296
 
 
-35.1     The Parties may vary this Concession Agreement at any time provided that the variation is set out in writing and is signed by or on behalf of each of the Parties to this Concession Agreement. The expression "variation" includes any variation, supplement, deletion or replacement, however effected. ^a309d84b6f973da3c28608c9
+35.1     The Parties may vary this Concession Agreement at any time provided that the variation is set out in writing and is signed by or on behalf of each of the Parties to this Concession Agreement. The expression "variation" includes any variation, supplement, deletion or replacement, however effected. ^s-f9a293765dfe7b4c0ff586b2
 
 
-35.2     Except as otherwise expressly provided in this Concession Agreement, the rights and remedies of the Parties will not be affected by any failure to exercise or delay in exercising any right or remedy or by the giving of any indulgence by any other Party or by anything whatsoever except a specific waiver or release in writing and any such waiver or release will not prejudice or affect any other rights or remedies of the Parties. No single or partial exercise of any right or remedy will prevent any further or other exercise thereof or the exercise of any other right or remedy. ^3e7669129f34b0c428f1d0f2
+35.2     Except as otherwise expressly provided in this Concession Agreement, the rights and remedies of the Parties will not be affected by any failure to exercise or delay in exercising any right or remedy or by the giving of any indulgence by any other Party or by anything whatsoever except a specific waiver or release in writing and any such waiver or release will not prejudice or affect any other rights or remedies of the Parties. No single or partial exercise of any right or remedy will prevent any further or other exercise thereof or the exercise of any other right or remedy. ^s-46da2642c71e63568a3b80bc
 
 
-35.3     For the avoidance of doubt, on and following a termination of the rights and obligations of the Strategic Investor in accordance with Clauses 22.2 (Termination of the Strategic Investor's rights and obligations) or 23.3 (Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding), the agreement of the Strategic Investor is required for any variation of any of the provisions referred to in Clause 27.2 (Strategic Investor's rights and obligations cease). ^660ff54ae89e363145ef496f
+35.3     For the avoidance of doubt, on and following a termination of the rights and obligations of the Strategic Investor in accordance with Clauses 22.2 (Termination of the Strategic Investor's rights and obligations) or 23.3 (Termination in respect of the Strategic Investor due to Strategic Investor exit from Shareholding), the agreement of the Strategic Investor is required for any variation of any of the provisions referred to in Clause 27.2 (Strategic Investor's rights and obligations cease). ^s-a5fdf1446a605fe43e3b01e9
 
 
-36.       COUNTERPARTS ^d3ee9f413e1ec8cd9ff18934
+36.       COUNTERPARTS ^s-b70a2405161b6b281dd73aa8
 This Concession Agreement may be executed in any number of counterparts and by the Parties to it on separate counterparts, each of which when so executed and delivered will be an original, but all the counterparts will together constitute one and the same instrument.
 
 
-37.       SEVERABILITY ^83b46cb32b42148a9122dedc
+37.       SEVERABILITY ^s-38c666ca9a543aa5098125f7
 If any provision or part of this Concession Agreement is void or unenforceable due to any applicable law it will be deemed to be deleted and the remaining provisions of this Concession Agreement will continue in full force and effect. If any invalid, unenforceable or illegal provision of this Concession Agreement would be valid, enforceable and legal if some part of it were deleted, the provision shall apply with the minimum modification necessary agreed between the Parties to make it legal, valid and enforceable.
 
 
-38.       COSTS AND EXPENSES ^9fd89e50a0cd394289a3af70
+38.       COSTS AND EXPENSES ^s-ccd077f9ed6715a05c0f4d59
 Without prejudice to Clause 24 (Damages for Termination) each Party shall meet its own costs and expenses, including fees and expenses of its legal advisers, incurred in the preparation of this Concession Agreement.
 
 
-39.       INTEREST TO RUN ON DEFAULT ^e1e4aec8cd95464415f39a0d
+39.       INTEREST TO RUN ON DEFAULT ^s-3b1286c90bcb08afaaca2c61
 If any Party fails to pay any amount due and payable by it under this Concession Agreement or under any judgment or award in connection with this Concession Agreement, that Party shall, in addition to such amount, be liable to pay to the Party or Parties to whom the same was due, interest (which shall accrue from Calendar Day to Calendar Day) on such overdue amount from the due date until the date of actual payment, after as well as before judgment or award, at EURIBOR plus four and a half per cent (4.5%) per annum.
 
 
-40.       CONTRACTS (RIGHTS OF THIRD PARTIES) ACT ^80b2cea2c1a4b312a860889f
+40.       CONTRACTS (RIGHTS OF THIRD PARTIES) ACT ^s-edcc131fec0b1157669d0a68
 
 
-40.1     With the exception of the rights of: ^4ca56f599598ac603fc87729
+40.1     With the exception of the rights of: ^s-d5209c5577b55c35249415fc
 
 
-40.1.1         any Third Party Nuclear Indemnified Party to enforce the terms set out in Clauses 15.1 and 15.2 (Nuclear); ^0fb6f2a1b37865dcbb947c42
+40.1.1         any Third Party Nuclear Indemnified Party to enforce the terms set out in Clauses 15.1 and 15.2 (Nuclear); ^s-742f06cc9455ae3fa1b9bc4e
 
 
-40.1.2         any member of the Hitachi, Ltd. Group, GE-Hitachi Nuclear Energy Americas LLC and Global Nuclear Fuel-Americas, LLC to enforce the terms set out in Clause 13.12 (Third Party Loss); ^8539a26a5fd50334f758992f
+40.1.2         any member of the Hitachi, Ltd. Group, GE-Hitachi Nuclear Energy Americas LLC and Global Nuclear Fuel-Americas, LLC to enforce the terms set out in Clause 13.12 (Third Party Loss); ^s-48d191e8f2333d0327772fb7
 
 
-40.1.3         any Third Party Shareholder (as an Exiting Shareholder) to enforce the terms set out in: ^2a15d053d699b1f7074df7c6
+40.1.3         any Third Party Shareholder (as an Exiting Shareholder) to enforce the terms set out in: ^s-411e8bbdc65e8620637a83af
 (A)      Clause 16.5.1 (Breach of Warranty);
 (B)       Clauses 20.2.2, 20.2.3 and 20.2.4 (Termination for a RoL Event); and
 (C)       Clause 26 (RoL Event Mandatory Transfer of Shares);
 
 
-40.1.4         Global Nuclear Fuel – Americas, LLC and any Associated Company of the Strategic Investor which is a party to an Ancillary Contract to enforce the terms set out in Clause 16.5.3 (Breach of Warranty); and ^c91c2e0b4059c485e49cc6cd
+40.1.4         Global Nuclear Fuel – Americas, LLC and any Associated Company of the Strategic Investor which is a party to an Ancillary Contract to enforce the terms set out in Clause 16.5.3 (Breach of Warranty); and ^s-0127e1081527e3f0be3799c3
 
 
-40.1.5         any Third Party Shareholder (as a Transferring Shareholder) to enforce the terms set out in Clause 32 (Shareholder Put Option), ^abb7954abc31cc0097fca526
+40.1.5         any Third Party Shareholder (as a Transferring Shareholder) to enforce the terms set out in Clause 32 (Shareholder Put Option), ^s-69804f8d6a13e76e76ad83ad
 and subject to Clauses 40.2 and 40.4 below, no term of this Concession Agreement is enforceable under the Contract (Rights of Third Parties) Act 1999 by a person who is not a Party.
 
 
-40.2     Save where any proposed amendment would affect the rights of the Shareholders (as Exiting Shareholders or Transferring Shareholders) in Clause 26 (RoL Event Mandatory Transfer of Shares) or Clause 32 (Shareholder Put Option), the consent of any Third Party shall not be required for any amendment to, or rescission of, this Concession Agreement. ^6fcf5d33977eaf7b841e29a2
+40.2     Save where any proposed amendment would affect the rights of the Shareholders (as Exiting Shareholders or Transferring Shareholders) in Clause 26 (RoL Event Mandatory Transfer of Shares) or Clause 32 (Shareholder Put Option), the consent of any Third Party shall not be required for any amendment to, or rescission of, this Concession Agreement. ^s-043b8de95321ddbc2ecb8a13
 
 
-40.3     For the avoidance of doubt, and notwithstanding any termination of the Strategic Investor's rights and obligations hereunder, where this Concession Agreement provides a right for a Shareholder, the Strategic Investor shall be entitled to enforce such right as a Party to this Concession Agreement and not as a Third Party under the Contract (Rights of Third Parties) Act 1999. ^653ccd7bec5df5b8df91efd2
+40.3     For the avoidance of doubt, and notwithstanding any termination of the Strategic Investor's rights and obligations hereunder, where this Concession Agreement provides a right for a Shareholder, the Strategic Investor shall be entitled to enforce such right as a Party to this Concession Agreement and not as a Third Party under the Contract (Rights of Third Parties) Act 1999. ^s-f23faa43605451d6f4c4dfb3
 
 
-40.4     The rights of the Third Parties referred to in Clause 40.1 may not be assigned absolutely without the prior written consent of all the Parties, other than by way of security, and for the avoidance of doubt, such rights may also be pledged (ikeistas), mortgaged, charged or otherwise made the subject of a security interest without consent. ^ff564a3b83fe24051d36fb4c
+40.4     The rights of the Third Parties referred to in Clause 40.1 may not be assigned absolutely without the prior written consent of all the Parties, other than by way of security, and for the avoidance of doubt, such rights may also be pledged (ikeistas), mortgaged, charged or otherwise made the subject of a security interest without consent. ^s-460fa4d7aa1152d8f9f314c3
 
 
-41.       NO PARTNERSHIP/AGENCY ^9ebca1258459d0a2e0416528
+41.       NO PARTNERSHIP/AGENCY ^s-fa08b23e035ce61f5b515520
 It is not the intention of the Parties to create, nor shall this Concession Agreement or any document referred to in it or any arrangement contemplated by it be deemed or construed to create, a partnership between any of the Parties. The execution, completion or implementation of this Concession Agreement shall not, and shall not be deemed or construed to, confer on any of the Parties the power to act as agent for any other Party, and no Party shall have the authority to act in the name or on behalf of or otherwise to bind any other Party in any way, and nor shall any Party have the power to pledge the credit of any other Party.
 
 
-42.       co-operation in relAtion to the power at cost structure ^8bea14782e36be9568c0c471
+42.       co-operation in relAtion to the power at cost structure ^s-cccf957b2769fe84d4ddf8e7
 
 
-42.1     The Parties acknowledge and agree that the PCO and the Shareholders are participating in the Project on the assumption that, subject to applicable Law, each Shareholder shall be entitled to purchase from the PCO, and the PCO shall be entitled to sell to each Shareholder, electricity generated by the NNPP for a price which reflects the costs incurred by the PCO related to the electricity generation and without any profit margin in fact or implied for the purposes of taxation pro-rata to the relevant Shareholder's shareholding in the PCO (the "Offtake Right"). ^c03e8b46e243546d55c8446e
+42.1     The Parties acknowledge and agree that the PCO and the Shareholders are participating in the Project on the assumption that, subject to applicable Law, each Shareholder shall be entitled to purchase from the PCO, and the PCO shall be entitled to sell to each Shareholder, electricity generated by the NNPP for a price which reflects the costs incurred by the PCO related to the electricity generation and without any profit margin in fact or implied for the purposes of taxation pro-rata to the relevant Shareholder's shareholding in the PCO (the "Offtake Right"). ^s-11f79af90db450b8f516601c
 
 
-42.2     If, after the Concession Date, a Competent Authority: ^79a4db9d9cd31a90cda7dea5
+42.2     If, after the Concession Date, a Competent Authority: ^s-8f9bcad9bf85faf30675166d
 
 
-42.2.1         determines that the assumption in Clause 42.1 in respect of the Offtake Right is invalid; or ^3631de0ae0a0b51df296c93e
+42.2.1         determines that the assumption in Clause 42.1 in respect of the Offtake Right is invalid; or ^s-b922a7a13f56ab85894b8db3
 
 
-42.2.2         otherwise makes a determination which results in the Offtake Right no longer being available to or capable of being implemented by the PCO and the Shareholders, ^28ab7da4502b17c4f442b861
+42.2.2         otherwise makes a determination which results in the Offtake Right no longer being available to or capable of being implemented by the PCO and the Shareholders, ^s-126700f7f040e045dcd646c1
 the RoL shall if requested by the PCO in writing, provide such assistance to the PCO as is reasonable in the circumstances (with the RoL taking into account the prevailing circumstances at the time including the PCO's position on the likelihood and timing of the Shareholders taking a FID if such assistance were to be given) to put in place a mutually agreeable alternative structure for the Project which will, to the extent possible and permissible by Law, achieve materially the same effect as the Offtake Right for the benefit of the PCO and the Shareholders.
 
 
-43.       LANGUAGE ^f57da14dc59462d93ca1b35c
+43.       LANGUAGE ^s-90dd2159f725301d7a804bf8
 
 
-43.1     This Concession Agreement has been prepared and executed in the English and Lithuanian languages. In the event of any difference in meaning between the two (2) versions, the English language version will prevail. ^5a1cd82d9c2bf5308eeae86e
+43.1     This Concession Agreement has been prepared and executed in the English and Lithuanian languages. In the event of any difference in meaning between the two (2) versions, the English language version will prevail. ^s-c1f17b5a5ad9d0a85e586dd8
 
 
-43.2     All communications and deliverables provided for, required by, or made in connection with this Concession Agreement will be in the English language. ^96d26d486b41b8565558bfc4
+43.2     All communications and deliverables provided for, required by, or made in connection with this Concession Agreement will be in the English language. ^s-aab651f6f9cae7a95b9e1824
 
 
-44.       GOVERNING LAW ^6076796319827a3dcb695172
+44.       GOVERNING LAW ^s-736bdff92264b653575a0bee
 This Concession Agreement (including Clause 45 (Dispute Resolution Procedure and Arbitration)) and any non-contractual obligations arising out of, or in connection with it, shall be governed by English law.
 
 
-45.       DISPUTE RESOLUTION PROCEDURE AND ARBITRATION ^3759aee37e1d7cbff27d1231
+45.       DISPUTE RESOLUTION PROCEDURE AND ARBITRATION ^s-98ca3bbd4b8ba88dc6ea9dac
 
 
-45.1     Any dispute, claim, difference or controversy arising out of, relating to or having any connection with this Concession Agreement, including any dispute as to its existence, validity, interpretation, performance, breach or termination or the consequences of its nullity (a "Dispute"), shall be resolved in accordance with the procedure in this Clause 45 (Dispute Resolution Procedure and Arbitration). ^6723cdb20be806c2a908537a
+45.1     Any dispute, claim, difference or controversy arising out of, relating to or having any connection with this Concession Agreement, including any dispute as to its existence, validity, interpretation, performance, breach or termination or the consequences of its nullity (a "Dispute"), shall be resolved in accordance with the procedure in this Clause 45 (Dispute Resolution Procedure and Arbitration). ^s-3a7eef5be9c20043fd7f077b
 
 
-45.2     The party raising any Dispute shall first serve written notification of the Dispute to the other party in accordance with Clause 45.6 (a "Notice of Dispute"). The Notice of Dispute shall briefly describe the nature and circumstances of the Dispute. ^da95ac61038346f95267464d
+45.2     The party raising any Dispute shall first serve written notification of the Dispute to the other party in accordance with Clause 45.6 (a "Notice of Dispute"). The Notice of Dispute shall briefly describe the nature and circumstances of the Dispute. ^s-8ba536f7622598c864216f3d
 
 
-45.3     The parties shall take reasonable measures to resolve the Dispute amicably. If the relevant parties have not reached an amicable agreement after one (1) Month of the date of service of the Notice of Dispute, unless the parties to the Dispute mutually agree to an extension the parties agree and consent that such Dispute shall be referred to and finally resolved by arbitration in accordance with Clause 45.4 (ICSID Arbitration) and only if the jurisdiction of International Centre for Settlement of Investment Disputes (the "Centre") is not available, then the Dispute shall be referred to arbitration in accordance with Clause 45.5 (LCIA Arbitration). ^b21d5f52c9c5fabd9080fbc8
+45.3     The parties shall take reasonable measures to resolve the Dispute amicably. If the relevant parties have not reached an amicable agreement after one (1) Month of the date of service of the Notice of Dispute, unless the parties to the Dispute mutually agree to an extension the parties agree and consent that such Dispute shall be referred to and finally resolved by arbitration in accordance with Clause 45.4 (ICSID Arbitration) and only if the jurisdiction of International Centre for Settlement of Investment Disputes (the "Centre") is not available, then the Dispute shall be referred to arbitration in accordance with Clause 45.5 (LCIA Arbitration). ^s-cf7f6475c3ba79b8417a8a6d
 
 
-45.4     ICSID Arbitration ^2c5b5a1e0ab33fffb055695a
+45.4     ICSID Arbitration ^s-b5b0d5c88b5024b557875f4b
 
 
-45.4.1         The Parties hereby consent to submit to the Centre any Dispute for settlement by arbitration pursuant to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, done at Washington, 18 March 1965 (the "ICSID Convention"). ^76cf344c4d3a54d9bcf95f10
+45.4.1         The Parties hereby consent to submit to the Centre any Dispute for settlement by arbitration pursuant to the Convention on the Settlement of Investment Disputes between States and Nationals of other States, done at Washington, 18 March 1965 (the "ICSID Convention"). ^s-0f43901f88374093dc237c24
 
 
-45.4.2         It is further hereby agreed that: ^ac289f38ae9c8c21b3ac812a
+45.4.2         It is further hereby agreed that: ^s-ef91260bf4137c7eb643b835
 (A)      this Concession Agreement is an "investment" for the purposes of Article 25 of the ICSID Convention;
 (B)       any Dispute shall be deemed to be a "legal dispute arising directly out of an investment", for the purposes of Article 25(1) of the ICSID Convention; and
 (C)       the PCO and the Strategic Investor are a "national of another Contracting State" for purposes of Article 25(2)(b) of the ICSID Convention.
 
 
-45.4.3         The consent given in this Clause 45 (Dispute Resolution Procedure and Arbitration) shall be considered to satisfy the requirement for: ^ffa985ee533892124e792b1f
+45.4.3         The consent given in this Clause 45 (Dispute Resolution Procedure and Arbitration) shall be considered to satisfy the requirement for: ^s-84703d59848a8843b33789d1
 (A)      "consent in writing" of the parties to a dispute for purposes of Article 25 of the ICSID Convention; and
 (B)       an "agreement in writing" for the purposes of Article II of the New York Convention.
 
 
-45.4.4         In the event of arbitration under the ICSID Convention, all hearings shall be held in London, England unless the disputing parties agree otherwise. ^c2f958bb6634022872c2b485
+45.4.4         In the event of arbitration under the ICSID Convention, all hearings shall be held in London, England unless the disputing parties agree otherwise. ^s-9d87ea1d634ef3ffcd2b4e24
 
 
-45.5     LCIA Arbitration ^a1a248b36dc3d86debe79a83
+45.5     LCIA Arbitration ^s-c92debd1ea083a160a4dd9a4
 
 
-45.5.1         If the jurisdiction of the Centre is not available for the determination of a Dispute, any Dispute shall be referred to and finally resolved by arbitration under the LCIA Arbitration Rules (for the purpose of this Clause 45.5 (LCIA Arbitration), the "Rules"). ^67c4302fe1e7ac33f1e708fe
+45.5.1         If the jurisdiction of the Centre is not available for the determination of a Dispute, any Dispute shall be referred to and finally resolved by arbitration under the LCIA Arbitration Rules (for the purpose of this Clause 45.5 (LCIA Arbitration), the "Rules"). ^s-c6eacbcba12a23011c81474c
 
 
-45.5.2         The Rules are incorporated by reference into this Clause 45.5 (LCIA Arbitration) and capitalised terms used in this Clause 45.5 (LCIA Arbitration) which are not otherwise defined in this Concession Agreement have the meaning given to them in the Rules. ^9a0d460102492569c40aa677
+45.5.2         The Rules are incorporated by reference into this Clause 45.5 (LCIA Arbitration) and capitalised terms used in this Clause 45.5 (LCIA Arbitration) which are not otherwise defined in this Concession Agreement have the meaning given to them in the Rules. ^s-e5fdedb61b08e511f2915366
 
 
-45.5.3         The seat or legal place of arbitration shall be London, England. ^57146ea941565b6b6a0bb238
+45.5.3         The seat or legal place of arbitration shall be London, England. ^s-eea3bd63bf1d111d5a54f1ac
 
 
-45.5.4         The number of arbitrators shall be three. Each party shall nominate one arbitrator and the two arbitrators nominated by the parties shall (in consultation with the party which nominated him or her) within twenty (20) Business Days of the appointment of the second arbitrator agree upon a third arbitrator who shall act as chairman of the tribunal. If no agreement is reached within twenty (20) Business Days of the appointment of the second arbitrator, the LCIA Court shall nominate and appoint a third arbitrator to act as chairman of the tribunal. ^2e0126f40a605030229606ab
+45.5.4         The number of arbitrators shall be three. Each party shall nominate one arbitrator and the two arbitrators nominated by the parties shall (in consultation with the party which nominated him or her) within twenty (20) Business Days of the appointment of the second arbitrator agree upon a third arbitrator who shall act as chairman of the tribunal. If no agreement is reached within twenty (20) Business Days of the appointment of the second arbitrator, the LCIA Court shall nominate and appoint a third arbitrator to act as chairman of the tribunal. ^s-9ab811b6e6e2259edc71a60f
 
 
-45.5.5         If there are multiple claimants and/or multiple respondents, all claimants and/or all respondents shall attempt to agree upon their respective appointment(s). If there are multiple claimants and they fail to make a joint appointment of an arbitrator in their request for arbitration, an arbitrator shall be appointed on their behalf by the LCIA Court in accordance with the Rules. If there are multiple respondents and they fail to nominate an arbitrator within twenty (20) Business Days from the date of service of the request for arbitration on them, an arbitrator shall be appointed on their behalf by the LCIA Court in accordance with the Rules. In such circumstances, any existing nomination or confirmation of the arbitrator chosen by the party or parties on the other side of the proposed arbitration shall be unaffected, and the remaining arbitrator shall be appointed in accordance with the Rules. The two arbitrators nominated by the parties (or by the LCIA Court) shall within twenty (20) Business Days of the appointment of the second arbitrator agree upon a third arbitrator who shall act as chairman of the tribunal. If no agreement is reached within twenty (20) Business Days of the appointment of the second arbitrator, the LCIA Court shall nominate and appoint a third arbitrator to act as chairman of the tribunal. ^790e2355e0bcdfa907dfeda9
+45.5.5         If there are multiple claimants and/or multiple respondents, all claimants and/or all respondents shall attempt to agree upon their respective appointment(s). If there are multiple claimants and they fail to make a joint appointment of an arbitrator in their request for arbitration, an arbitrator shall be appointed on their behalf by the LCIA Court in accordance with the Rules. If there are multiple respondents and they fail to nominate an arbitrator within twenty (20) Business Days from the date of service of the request for arbitration on them, an arbitrator shall be appointed on their behalf by the LCIA Court in accordance with the Rules. In such circumstances, any existing nomination or confirmation of the arbitrator chosen by the party or parties on the other side of the proposed arbitration shall be unaffected, and the remaining arbitrator shall be appointed in accordance with the Rules. The two arbitrators nominated by the parties (or by the LCIA Court) shall within twenty (20) Business Days of the appointment of the second arbitrator agree upon a third arbitrator who shall act as chairman of the tribunal. If no agreement is reached within twenty (20) Business Days of the appointment of the second arbitrator, the LCIA Court shall nominate and appoint a third arbitrator to act as chairman of the tribunal. ^s-f9844d81822b6c4d1788547c
 
 
-45.5.6         Each Party expressly agrees and consents to this procedure for nominating and appointing the arbitral tribunal; and to the extent it is not permitted to choose its own arbitrator pursuant to this Clause, irrevocably and unconditionally waives any right to choose its own arbitrator. ^4dfaf1d63b5990c64c09a30c
+45.5.6         Each Party expressly agrees and consents to this procedure for nominating and appointing the arbitral tribunal; and to the extent it is not permitted to choose its own arbitrator pursuant to this Clause, irrevocably and unconditionally waives any right to choose its own arbitrator. ^s-ff7360fdce92c29b5d5538ed
 
 
-45.5.7         The jurisdiction of the English courts under section 45 and section 69 of the Arbitration Act 1996 is excluded. ^c29463276a79797a67f656f0
+45.5.7         The jurisdiction of the English courts under section 45 and section 69 of the Arbitration Act 1996 is excluded. ^s-d8b73afa070146262f13e0b0
 
 
-45.5.8         If arbitral proceedings have already been commenced under Clause 45.5 (LCIA Arbitration) or any Related Agreement under a corresponding LCIA provision (a "Pre-Existing Arbitration"), and a Party or a party to a Related Agreement contends that a dispute has arisen relating to issues which are substantially related to and/or involve the same parties as issues to be determined in a Pre-Existing Arbitration (a "Related Dispute"), then that party may seek to refer the relevant dispute to the arbitral tribunal in the Pre-Existing Arbitration. The Parties agree that the arbitral tribunal in the Pre-Existing Arbitration shall have the discretion, taking into account the interests of justice and efficiency, the stage of the proceedings and all other relevant circumstances, to determine the Related Dispute in the Pre-Existing Arbitration upon such terms or conditions as the arbitral tribunal thinks fit. ^10bec94244cdf893fd702d8e
+45.5.8         If arbitral proceedings have already been commenced under Clause 45.5 (LCIA Arbitration) or any Related Agreement under a corresponding LCIA provision (a "Pre-Existing Arbitration"), and a Party or a party to a Related Agreement contends that a dispute has arisen relating to issues which are substantially related to and/or involve the same parties as issues to be determined in a Pre-Existing Arbitration (a "Related Dispute"), then that party may seek to refer the relevant dispute to the arbitral tribunal in the Pre-Existing Arbitration. The Parties agree that the arbitral tribunal in the Pre-Existing Arbitration shall have the discretion, taking into account the interests of justice and efficiency, the stage of the proceedings and all other relevant circumstances, to determine the Related Dispute in the Pre-Existing Arbitration upon such terms or conditions as the arbitral tribunal thinks fit. ^s-1fbd29894620e45f10e66538
 
 
-45.5.9         If more than one arbitration is commenced under Clause 45.5 (LCIA Arbitration) and any Related Agreement and any Party contends that two or more arbitrations are substantially related and/or involve the same parties and that the issues should be heard in one proceeding, the arbitral tribunal appointed in the first-filed of such proceedings shall have the power to determine, taking into account the interests of justice and efficiency, the stage of the proceedings and all other relevant circumstances, whether the whole or part of the matters at issue should be consolidated before that arbitral tribunal upon such terms or conditions as the arbitral tribunal thinks fit. In that case, the arbitral tribunal appointed in the second arbitration, or in a subsequent arbitration, shall have the power to suspend its proceedings. ^e6309ed33f8d9191fd6bb57d
+45.5.9         If more than one arbitration is commenced under Clause 45.5 (LCIA Arbitration) and any Related Agreement and any Party contends that two or more arbitrations are substantially related and/or involve the same parties and that the issues should be heard in one proceeding, the arbitral tribunal appointed in the first-filed of such proceedings shall have the power to determine, taking into account the interests of justice and efficiency, the stage of the proceedings and all other relevant circumstances, whether the whole or part of the matters at issue should be consolidated before that arbitral tribunal upon such terms or conditions as the arbitral tribunal thinks fit. In that case, the arbitral tribunal appointed in the second arbitration, or in a subsequent arbitration, shall have the power to suspend its proceedings. ^s-194d162a9ebaa82a60b6feca
 
 
-45.5.10       Subject to Clauses 45.3 and 45.4 (ICSID Arbitration), if the jurisdiction of the Centre is not available and a Dispute is referred to arbitration under Clause 45.5 (LCIA Arbitration), the Dispute may be disposed of in the same arbitration proceedings as any other dispute arising under another Related Agreement, even in the presence of parties other than the Parties to this Agreement. ^2b0606c65735511eea256254
+45.5.10       Subject to Clauses 45.3 and 45.4 (ICSID Arbitration), if the jurisdiction of the Centre is not available and a Dispute is referred to arbitration under Clause 45.5 (LCIA Arbitration), the Dispute may be disposed of in the same arbitration proceedings as any other dispute arising under another Related Agreement, even in the presence of parties other than the Parties to this Agreement. ^s-9522aed16f73063ad201f1da
 
 
-45.5.11       Any respondent named in a request for arbitration may join any other party to any arbitral proceedings under this Agreement, provided that: ^199bbe86a20f55177908e9f2
+45.5.11       Any respondent named in a request for arbitration may join any other party to any arbitral proceedings under this Agreement, provided that: ^s-bb864fa599b4951a8f0ea128
 (A)      such joinder is based upon a dispute substantially related to the Dispute referred to arbitration under Clause 45.5 (LCIA Arbitration) or a Related Dispute in the relevant request for arbitration; and
 (B)       such joinder is made by written notice to the LCIA Court and to all other Parties within either twenty (20) Business Days from the receipt by such respondent of the relevant request for arbitration or such longer time as may be determined by the LCIA Court or the arbitrators.
 
 
-45.5.12       The arbitral tribunal in the relevant arbitration shall have the power to determine whether such joinder is appropriate taking into account the interests of justice and efficiency and all other relevant circumstances. ^e5c998d18432d125ae5812c8
+45.5.12       The arbitral tribunal in the relevant arbitration shall have the power to determine whether such joinder is appropriate taking into account the interests of justice and efficiency and all other relevant circumstances. ^s-ef6fb2b05326b272c7802e12
 
 
-45.5.13       Each of the Parties hereby consents to be joined to arbitration proceedings in relation to any Dispute referred to arbitration under Clause 45.5 (LCIA Arbitration) or any Related Dispute at the request of a party to that Dispute following any party's request for joinder of parties or consolidation of disputes or arbitral proceedings. ^8210ee8791809ceb7f119817
+45.5.13       Each of the Parties hereby consents to be joined to arbitration proceedings in relation to any Dispute referred to arbitration under Clause 45.5 (LCIA Arbitration) or any Related Dispute at the request of a party to that Dispute following any party's request for joinder of parties or consolidation of disputes or arbitral proceedings. ^s-9141f845065ce276f459cc7a
 
 
-45.5.14       Any joined party may make a counterclaim against any party, provided that: ^5f2da4ac4b670266398dfe04
+45.5.14       Any joined party may make a counterclaim against any party, provided that: ^s-e1c6dd64c0783f7b5c4cd5a4
 (A)      such counterclaim is based upon a Dispute or a Related Dispute substantially related to the dispute in issue, in the relevant request for arbitration; and
 (B)       such counterclaim is made by written notice to the LCIA Court and to all other parties within either twenty (20) Business Days from the receipt by such party of the relevant notice of arbitration or such longer time as may be determined by the LCIA Court or the arbitrators.
 
 
-45.5.15       Any joined party shall be bound by any award rendered by the arbitral tribunal even if such party chooses not to participate in the arbitral proceedings. ^21991688240ec0d86b9f7ccc
+45.5.15       Any joined party shall be bound by any award rendered by the arbitral tribunal even if such party chooses not to participate in the arbitral proceedings. ^s-f0e0ef2b9244389b0fc1f889
 
 
-45.5.16       The Parties agree that in the event of any joinder or consolidation of proceedings, at the application of any party to the proceedings, the Parties may ask the LCIA Court to fix separate advances on costs in respect of each claim, counterclaim or cross-claim in the proceedings, and the Parties hereby give their consent to any such application. ^979626ba749a82ce9684f6e1
+45.5.16       The Parties agree that in the event of any joinder or consolidation of proceedings, at the application of any party to the proceedings, the Parties may ask the LCIA Court to fix separate advances on costs in respect of each claim, counterclaim or cross-claim in the proceedings, and the Parties hereby give their consent to any such application. ^s-95eca22541d5dbc0347f6928
 
 
-45.6     Notices ^6a23b6dad02a5cc3619f1f58
+45.6     Notices ^s-c43aba597388c8c1eba8e1f2
 
 
-45.6.1         The language used in the arbitral proceedings referred to in this Clause 45 (Dispute Resolution Procedure and Arbitration) shall be English. All documents submitted in connection with the proceedings shall be in the English language, or, if in another language, accompanied by an English translation. ^04099275827965ed18ee9704
+45.6.1         The language used in the arbitral proceedings referred to in this Clause 45 (Dispute Resolution Procedure and Arbitration) shall be English. All documents submitted in connection with the proceedings shall be in the English language, or, if in another language, accompanied by an English translation. ^s-48a2ebac5aab1040fdcc99d5
 
 
-45.6.2         Service of a Notice of Dispute made pursuant to this Clause 45 (Dispute Resolution Procedure and Arbitration) shall be by registered post at the address given for the sending of notices under this Concession Agreement at Clause 33.1 (Notices). ^146aceec44af1b78f5634338
+45.6.2         Service of a Notice of Dispute made pursuant to this Clause 45 (Dispute Resolution Procedure and Arbitration) shall be by registered post at the address given for the sending of notices under this Concession Agreement at Clause 33.1 (Notices). ^s-c55b5217d8286a5c4c08fc01
 
 
-45.7     Service of Process ^ce98c957f001f4ee32b51752
+45.7     Service of Process ^s-8d0e522a5e947ca13edf6735
 
 
-45.7.1         The RoL irrevocably appoints the Embassy of the Republic of Lithuania to the United Kingdom of Great Britain and Northern Ireland to the court of St. James's for the time being as its agent under this Concession Agreement for service of process in any proceedings before the English courts in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by an arbitral tribunal. If any person appointed as process agent is unable under this Clause 45.7 (Service of Process) for any reason to so act, the RoL must immediately appoint another agent. Failing this, the claimant in those proceedings (or claimants jointly) may appoint another process agent for this purpose. ^2d5731b8b24eda1216a6897c
+45.7.1         The RoL irrevocably appoints the Embassy of the Republic of Lithuania to the United Kingdom of Great Britain and Northern Ireland to the court of St. James's for the time being as its agent under this Concession Agreement for service of process in any proceedings before the English courts in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by an arbitral tribunal. If any person appointed as process agent is unable under this Clause 45.7 (Service of Process) for any reason to so act, the RoL must immediately appoint another agent. Failing this, the claimant in those proceedings (or claimants jointly) may appoint another process agent for this purpose. ^s-6d18eae7ff481970aefad795
 
 
-45.7.2         The PCO irrevocably appoints [•] as its agent under this Concession Agreement for service of process in any proceedings before the English courts in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by a tribunal. If any person appointed as process agent is unable under this Clause 45.7 (Service of Process) for any reason to so act, the PCO must immediately appoint another agent. Failing this, the claimant in those proceedings (or claimants jointly) may appoint another process agent for this purpose. ^e7cbfa4920e1dec642318355
+45.7.2         The PCO irrevocably appoints [•] as its agent under this Concession Agreement for service of process in any proceedings before the English courts in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by a tribunal. If any person appointed as process agent is unable under this Clause 45.7 (Service of Process) for any reason to so act, the PCO must immediately appoint another agent. Failing this, the claimant in those proceedings (or claimants jointly) may appoint another process agent for this purpose. ^s-951e60587c2262155af2b44a
 
 
-45.7.3         The Strategic Investor irrevocably appoints [•] as its agent under this Concession Agreement for service of process in any proceedings before the English courts in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by a tribunal. If any person appointed as process agent is unable under this Clause 45.7 (Service of Process) for any reason to so act, the Strategic Investor must immediately appoint another agent. Failing this, the claimant in those proceedings (or claimants jointly) may appoint another process agent for this purpose. ^57bff76fdfde08f6cf2d2302
+45.7.3         The Strategic Investor irrevocably appoints [•] as its agent under this Concession Agreement for service of process in any proceedings before the English courts in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by a tribunal. If any person appointed as process agent is unable under this Clause 45.7 (Service of Process) for any reason to so act, the Strategic Investor must immediately appoint another agent. Failing this, the claimant in those proceedings (or claimants jointly) may appoint another process agent for this purpose. ^s-e3ce6a046f8176a4f6dcca3b
 
 
-45.7.4         The Parties agree that failure by a process agent to notify of any process will not invalidate the relevant proceedings. This Clause 45.7 (Service of Process) does not affect any other method of service allowed by law. ^7714c8f2bb0dfa7f7b7bb972
+45.7.4         The Parties agree that failure by a process agent to notify of any process will not invalidate the relevant proceedings. This Clause 45.7 (Service of Process) does not affect any other method of service allowed by law. ^s-0fb9be1f0dd5526c8549ffcc
 
 
-46.       SOVEREIGN IMMUNITY WAIVER ^8e0b3321785d6cb0f0fe46de
+46.       SOVEREIGN IMMUNITY WAIVER ^s-d9a92eedef9a66f4ad93dae0
 
 
-46.1     The RoL irrevocably and unconditionally waives any and all claims to immunity in regard to any arbitration proceedings and any court proceedings in any jurisdiction in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by a tribunal constituted pursuant to this Concession Agreement, including immunity from service of process and immunity from the jurisdiction of any court, and immunity from execution in respect of any of its assets with the exception of Excepted Property (as defined below). ^3ae888dec77d1c1ca0edb28c
+46.1     The RoL irrevocably and unconditionally waives any and all claims to immunity in regard to any arbitration proceedings and any court proceedings in any jurisdiction in support of arbitration, including proceedings to enforce, recognise or execute any arbitral award rendered by a tribunal constituted pursuant to this Concession Agreement, including immunity from service of process and immunity from the jurisdiction of any court, and immunity from execution in respect of any of its assets with the exception of Excepted Property (as defined below). ^s-9d4feb2bd4e7d0561827599c
 
 
-46.2     For the avoidance of any doubt, the RoL irrevocably and unconditionally: (i) submits to the jurisdiction of the English courts and the courts of any other jurisdiction in relation to the recognition of any judgment or order of the English courts in support of any arbitration in respect of any Dispute and in relation to the recognition of any arbitral award in respect of any Dispute, and (ii) consents for the purpose of the State Immunity Act 1978 of the United Kingdom and waives its right to claim immunity from execution in relation to the enforcement of any order or judgment in support of an arbitration in respect of any Dispute or any award made or given in connection with any Dispute and the giving of any relief in the English courts and the courts of any other jurisdiction in support of an arbitration in respect of any Dispute whether before or after a final arbitral award including: ^b842c75a8f2f773f815f587d
+46.2     For the avoidance of any doubt, the RoL irrevocably and unconditionally: (i) submits to the jurisdiction of the English courts and the courts of any other jurisdiction in relation to the recognition of any judgment or order of the English courts in support of any arbitration in respect of any Dispute and in relation to the recognition of any arbitral award in respect of any Dispute, and (ii) consents for the purpose of the State Immunity Act 1978 of the United Kingdom and waives its right to claim immunity from execution in relation to the enforcement of any order or judgment in support of an arbitration in respect of any Dispute or any award made or given in connection with any Dispute and the giving of any relief in the English courts and the courts of any other jurisdiction in support of an arbitration in respect of any Dispute whether before or after a final arbitral award including: ^s-d27c0f474e5b452d655d2ef5
 
 
-46.2.1           relief by way of interim or final injunction or order for specific performance or recovery of any property other than Excepted Property; ^28d4b86eef66e90c6f1a46dd
+46.2.1           relief by way of interim or final injunction or order for specific performance or recovery of any property other than Excepted Property; ^s-d939fc42152b680469c17e69
 
 
-46.2.2           attachment of its assets other than Excepted Property; ^c3af886605b54ea85ddab71c
+46.2.2           attachment of its assets other than Excepted Property; ^s-251ffcc19d829ae0956195b3
 
 
-46.2.3           enforcement or execution against any property, revenues or other assets other than Excepted Property; and ^41468b5bfdfa487c02cca92b
+46.2.3           enforcement or execution against any property, revenues or other assets other than Excepted Property; and ^s-4b907aa015128cd244e3bc06
 
 
-46.2.4           any other relief available under applicable law in relation to its assets other than Excepted Property. ^0b9181d79021a48bcc1b25ee
+46.2.4           any other relief available under applicable law in relation to its assets other than Excepted Property. ^s-8fb3655628d5fb7b804e011e
 
 
-46.3     "Excepted Property" means: ^dd826aaac62533284e2f7f1b
+46.3     "Excepted Property" means: ^s-f82abead6a3dd29f58f2d344
 
 
-46.3.1           premises of the mission as defined in the Vienna Convention on Diplomatic Relations signed in 1961; ^333b9af4662dd73a5ab1918a
+46.3.1           premises of the mission as defined in the Vienna Convention on Diplomatic Relations signed in 1961; ^s-532c02a6925546e8e06ce208
 
 
-46.3.2           consular premises as defined in the Vienna Convention on Consular Relations signed in 1963; ^738cde53d7b634dbcdbbc5af
+46.3.2           consular premises as defined in the Vienna Convention on Consular Relations signed in 1963; ^s-ad10587681c87e279ef613da
 
 
-46.3.3           property, including any bank account, which is used or intended for use in the performance of the functions of the diplomatic mission of the State or its consular posts, special missions, missions to international organisations or delegations to organs of international organisations or to international conferences; ^e7ec83d6f9c92bd56ac8fed0
+46.3.3           property, including any bank account, which is used or intended for use in the performance of the functions of the diplomatic mission of the State or its consular posts, special missions, missions to international organisations or delegations to organs of international organisations or to international conferences; ^s-85a0ab4b47fc750012415fce
 
 
-46.3.4           property of a military character or used or intended for use in the performance of military functions; ^6353268e1aef06339ccc57be
+46.3.4           property of a military character or used or intended for use in the performance of military functions; ^s-40a7852c9e3768afec96f045
 
 
-46.3.5           property of the central bank or other monetary authority of the State; ^0bb46e51c7aae95c3398b4cc
+46.3.5           property of the central bank or other monetary authority of the State; ^s-969647fad4242cd330a63d78
 
 
-46.3.6           property forming part of the cultural heritage of the State or part of its archives and not placed or intended to be placed on sale; and ^97d1edb3c59ed06629550603
+46.3.6           property forming part of the cultural heritage of the State or part of its archives and not placed or intended to be placed on sale; and ^s-901286087f1061baba4a63b0
 
 
-46.3.7           property forming part of an exhibition of objects of scientific, cultural or historical interest and not placed or intended to be placed on sale. ^d97095df058e610e0f965840
+46.3.7           property forming part of an exhibition of objects of scientific, cultural or historical interest and not placed or intended to be placed on sale. ^s-a924438b5efeb501428dcaca
 
 
-46.4     For the avoidance of any doubt, the Parties expressly acknowledge and confirm that this Concession Agreement is a commercial rather than a public or governmental act. ^4f0c6423c81249111cc4efde
+46.4     For the avoidance of any doubt, the Parties expressly acknowledge and confirm that this Concession Agreement is a commercial rather than a public or governmental act. ^s-b34eb34ac0be6e33f4a65f9e
 IN WITNESS of which the Parties have executed this Concession Agreement on the date first above mentioned
 
 SIGNED by THE REPUBLIC OF                                                                                           )
@@ -2930,11 +2935,11 @@ ACCESS ROAD WORKS
 
 
 
-1.         DEFINITIONS AND INTERPRETATION ^95f35ee009418c998e8b5044
+1.         DEFINITIONS AND INTERPRETATION ^s-4497e32767a25375ba04ca91
 In this Schedule:
 
 
-1.1       unless the context otherwise requires, the following words and phrases shall have the following meanings: ^fd840cdc47f02b58b63599c6
+1.1       unless the context otherwise requires, the following words and phrases shall have the following meanings: ^s-cc7b38a33d5a38c8c4b9d640
 
 
 "Access Road" means the road commencing at Klaipeda seaport pier and ending at the boundary to the Construction Site, and which is intended for the transportation of equipment and materials in connection with the Project;
@@ -2949,41 +2954,41 @@ In this Schedule:
 "Access Road Works" means all works required to the Access Road so that it complies with the Access Road Specification; and
 
 
-1.2       for the purposes of this Schedule, references to the RoL shall include the RoL acting through state institutions or agencies or other entities of state administration. ^1b11beb4874897846306aa68
+1.2       for the purposes of this Schedule, references to the RoL shall include the RoL acting through state institutions or agencies or other entities of state administration. ^s-7f041f32c2df0ac7a9637074
 
 
-2.         DESIGN, CONSTRUCTION AND MAINTENANCE OF THE ACCESS ROAD WORKS ^4ed35fb920460f2e9b771d5c
+2.         DESIGN, CONSTRUCTION AND MAINTENANCE OF THE ACCESS ROAD WORKS ^s-49acb73a516ac1d5bcfc028d
 
 
-2.1       General ^b6609841f43ee7521ed39a19
+2.1       General ^s-809d78b330e57bddb73a63c5
 
 
-2.1.1      A copy of the functional specification for the construction, maintenance, repair and upgrade works required to the Access Road in order to facilitate the Project (the "Access Road Specification") is appended at Annex B to this Schedule. ^342dc49d465bf9878837df6a
+2.1.1      A copy of the functional specification for the construction, maintenance, repair and upgrade works required to the Access Road in order to facilitate the Project (the "Access Road Specification") is appended at Annex B to this Schedule. ^s-07e2ddb86ea715425991c0da
 
 
-2.1.2      The RoL intends to develop the design, to undertake the construction, and thereafter to maintain the Access Road in accordance with the Access Road Specification if a positive FID for the Project is taken by the Shareholders. ^18c288fe198c767624846d07
+2.1.2      The RoL intends to develop the design, to undertake the construction, and thereafter to maintain the Access Road in accordance with the Access Road Specification if a positive FID for the Project is taken by the Shareholders. ^s-be14399aa6c0911573cd60bf
 
 
-2.2       Target Date for the completion of the Access Road Works ^c766ea734e5d0c619b36a8df
+2.2       Target Date for the completion of the Access Road Works ^s-5fc8f593710fec8b731f5396
 
 
-2.2.1      Without prejudice to the remainder of this Schedule, the RoL confirms that it intends to develop the design of the Access Road on the assumption that the Access Road Works will need to be completed by 31 December 2015. ^20cb3ddcc16c7e09b58ea65c
+2.2.1      Without prejudice to the remainder of this Schedule, the RoL confirms that it intends to develop the design of the Access Road on the assumption that the Access Road Works will need to be completed by 31 December 2015. ^s-73fe87cd869e42cb074e7b2d
 
 
-2.2.2      The RoL and the PCO will, after the Concession Date, negotiate in good faith in order to agree before FID a target date for the completion of the Access Road Works which shall apply if a positive FID for the Project is taken by the Shareholders. ^2fa8b2592827dd8e16818ac5
+2.2.2      The RoL and the PCO will, after the Concession Date, negotiate in good faith in order to agree before FID a target date for the completion of the Access Road Works which shall apply if a positive FID for the Project is taken by the Shareholders. ^s-28bc5f038828ba6572dc95b6
 
 
-2.3       Route for the Access Road ^69ed2db436d916375b725789
+2.3       Route for the Access Road ^s-1ed325300e8e41541b834b90
 A plan which shows the proposed course of the Access Road has been appended at Annex A to this Schedule (the "Access Road Route"). The Access Road Route currently provides two options for the exit route (shown in red and blue) from Klaipeda seaport. The Parties acknowledge that one of the proposed options for the exit route will need to be selected by the later of 31 December 2012 and the date which falls sixty (60) Calendar Days after the date of the issue of the first Limited Notice to Proceed under the EPC Contract.
 
 
-2.4       Liability and Other Matters ^5cde064d126a9a1d24d52da4
+2.4       Liability and Other Matters ^s-a8ae340cf5f0d8579387285e
 
 
-2.4.1      It is acknowledged by the Parties that the arrangements in respect of the Access Road Works are still being developed, and that the RoL and the PCO shall therefore negotiate in good faith in order to reach a separate agreement relating to the liability regime for the Access Road Works which shall apply if a positive FID for the Project is taken by the Shareholders. ^56cf4b3b30eb4d20b206cb71
+2.4.1      It is acknowledged by the Parties that the arrangements in respect of the Access Road Works are still being developed, and that the RoL and the PCO shall therefore negotiate in good faith in order to reach a separate agreement relating to the liability regime for the Access Road Works which shall apply if a positive FID for the Project is taken by the Shareholders. ^s-015226910803cae2ce21f5b8
 
 
-2.4.2      Notwithstanding any other provision of this Concession Agreement, it is acknowledged and agreed that no Party shall have any liability in connection with the Access Road Works other than as may subsequently be agreed in writing pursuant to paragraph 2.4.1. ^ac9704cd53308cc1f80822a6
+2.4.2      Notwithstanding any other provision of this Concession Agreement, it is acknowledged and agreed that no Party shall have any liability in connection with the Access Road Works other than as may subsequently be agreed in writing pursuant to paragraph 2.4.1. ^s-24156e7fef30cc6b632bccd6
 
 
 
@@ -3004,52 +3009,52 @@ TABLE OF CONTENTS
 
 
 
-101.     PROJECT INFORMATION                                                                                         85 ^adb8ad30bf606cee51f10922
+101.     PROJECT INFORMATION                                                                                         85 ^s-82beb7e153ca4dcf6f7c0bc6
 
 
-102.     SCOPE OF WORK                                                                                                       85 ^4a3cf33dc3f146853821b4fe
+102.     SCOPE OF WORK                                                                                                       85 ^s-4be7d845f0f125ac8cfc45b2
 
 
-103.     LITHUANIAN ROAD BOUNDING PARAMETERS                                              87 ^e8ed0e189cf3e62e3410835b
+103.     LITHUANIAN ROAD BOUNDING PARAMETERS                                              87 ^s-b5fcc8983ca4d4d5257067ff
 
 
-104.     HEAVY HAUL TRANSPORTER VEHICLE AND EQUIPMENT PAYLOAD DATA                 87 ^a7f93550fcc5045a8f8a2a59
+104.     HEAVY HAUL TRANSPORTER VEHICLE AND EQUIPMENT PAYLOAD DATA                 87 ^s-0c9089d848022c01b9e07611
 
 
-105.     HEAVY HAUL TRIP DATA                                                                                      89 ^51ebd72dfd6039f10eeb1d47
+105.     HEAVY HAUL TRIP DATA                                                                                      89 ^s-8c92cab6ab21d3c002558718
 
 
-106.     ROADWAY DESIGN CRITERIA                                                                              89 ^a3ac0fd040283da45c1e3377
+106.     ROADWAY DESIGN CRITERIA                                                                              89 ^s-e140a8e7cc13d7a9446721d1
 
 
-107.     BRIDGE DESIGN CRITERIA                                                                                    89 ^c7bac00b85d252ddd507144c
+107.     BRIDGE DESIGN CRITERIA                                                                                    89 ^s-7c0863902d34a611df630cc6
 
 
-108.     STANDARDS AND CODES REFERENCES                                                            89 ^d321ffd5e0f588ab8f5db731
+108.     STANDARDS AND CODES REFERENCES                                                            89 ^s-86b3e98303490b453e67ce22
 
 
-109.     SURVEY INFORMATION                                                                                         90 ^d4686eab56d6e0c99f8afa24
+109.     SURVEY INFORMATION                                                                                         90 ^s-e41e7becea2589463be1dee9
 
 
-110.     STOPPING AREA AND OVERTAKING ZONE REQUIREMENTS                     90 ^58dd8af100e1165c2c4d56d9
+110.     STOPPING AREA AND OVERTAKING ZONE REQUIREMENTS                     90 ^s-c31cf470da1eb3036d49c766
 
 
-111.     SUBMITTALS                                                                                                              90 ^ee36c1008828154bd4ff39a8
+111.     SUBMITTALS                                                                                                              90 ^s-3ea7bff6312cc52b25509ae6
 
 
-112.     GEOTECHNICAL INFORMATION                                                                                                   90 ^f00b87a75cb956415853b327
+112.     GEOTECHNICAL INFORMATION                                                                                                   90 ^s-06b777c8559f9b34d5942f48
 
 
-113.     SERVICES AND INFORMATION PROVIDED BY OTHERS                               91 ^783dc788a51de6bac30db534
+113.     SERVICES AND INFORMATION PROVIDED BY OTHERS                               91 ^s-9cfd5b0ddfe6e7cd597b33b3
 
 
-114.     DEFINITIONS                                                                                                              91 ^7db3c36acb8322a2630cfa37
+114.     DEFINITIONS                                                                                                              91 ^s-06e8857db410607410d7faaa
 
 
-115.     CORRESPONDENCE                                                                                                 91 ^7c5f464fa93fa53815866d6a
+115.     CORRESPONDENCE                                                                                                 91 ^s-fa08696e4264681c19e637f6
 
 
-116.     DRAWINGS AND DATA                                                                                           92 ^a8f1694890a7179d4bf13c31
+116.     DRAWINGS AND DATA                                                                                           92 ^s-ab13c14adb8f38a5a2f3ebc3
 
 
 
@@ -3058,28 +3063,28 @@ ACCESS ROAD SPECIFICATION
 
 
 
-101.     PROJECT INFORMATION ^0be5364c0704b6a019ee9f31
+101.     PROJECT INFORMATION ^s-de89fd48b2fbda55844e430c
 
 
-101.1   Owner:  Republic of Lithuania (RoL) ^21a31bf9a4db513508e45329
+101.1   Owner:  Republic of Lithuania (RoL) ^s-e2e757a92b35da1478b9f10b
 
 
-101.2   Name of Project:           Visaginas Nuclear Power Plant (VNPP) ^bb48307423f3845eef25ff3f
+101.2   Name of Project:           Visaginas Nuclear Power Plant (VNPP) ^s-ee45385e7dce74f0237b0843
 
 
-101.3   Location of Project: Lithuania ^1eb65eb88e1a14fa0563314f
+101.3   Location of Project: Lithuania ^s-d9b31feeea4c526f3f981e78
 
 
-102.     SCOPE OF WORK ^ba15db7bc3a25a048669b845
+102.     SCOPE OF WORK ^s-07d2b27690d3fda352e2967d
 
 
-102.1       Project Background: ^662e6a899abbd6e6a4ba9bf3
+102.1       Project Background: ^s-5fdb8236ad27292f5bde4cf0
 a.         As part of the Visaginas Nuclear Power Plant project in Lithuania, a corridor has been identified as a heavy haul corridor that will be used to transport and deliver nuclear facility equipment to the project site, as indicated in Article 116.1.a. The equipment exceeds typical highway restrictions and limitations for weight, width, and height, and a specialized heavy haul transporter vehicle operated by a qualified contractor will be required to haul the equipment.
 b.         The corridor originates in the city of Klaipeda, Lithuania, on the Baltic Sea, where the equipment will be offloaded from heavy lift shipping vessels and transferred to heavy haul transporter vehicles, and continues for approximately 550 kilometers to the project site located in Visaginas. The limits of Work defined in this Specification are from Klaipeda port pier to the boundary of the VNPP construction site.
 c.         The corridor was identified and selected primarily to utilize public roads suitable for heavy haul transportation and to avoid fixed overhead obstructions; however, the corridor poses several unique challenges to improve and upgrade the infrastructure in order to achieve a serviceable haul road.
 
 
-102.2       Each segment of the corridor shall be evaluated to verify viability and determine the necessary improvements to meet the criteria specified herein. Each evaluation shall include a condition assessment that determines the load carrying characteristics, geometric parameters, physical barriers and constraints to be altered. The evaluations shall include data collection and gathering design input consisting of, but not limited to, the following: ^6143d3fbc96788c4144cdaf7
+102.2       Each segment of the corridor shall be evaluated to verify viability and determine the necessary improvements to meet the criteria specified herein. Each evaluation shall include a condition assessment that determines the load carrying characteristics, geometric parameters, physical barriers and constraints to be altered. The evaluations shall include data collection and gathering design input consisting of, but not limited to, the following: ^s-fbe1b1fcf492b867889d77d6
 a.         Perform geotechnical investigation to determine existing soil strength and soil quality values that will be used for determining existing and for designing new pavements and structures.
 b.         Perform structural evaluation and assessment of bridges and culverts to determine integrity and load rating.
 c.         Perform topographic surveying and mapping to accurately document existing surface features and overhead obstructions, and to verify property limits and ownership, where warranted.
@@ -3098,16 +3103,16 @@ e9.       The Design Consultant shall prepare deliverables consisting of technic
 e10.     The Owner may prepare a pre-haul test plan for portions of the heavy haul corridor to be performed after construction improvements are completed to verify that the as-constructed heavy haul road is able to withstand anticipated live loads from the heavy haul transporter.
 
 
-102.3       To support the required design and engineering, this Functional Technical Specification has been prepared to define the overall objective of the project, and to identify the minimum requirements and criteria that shall be used by a qualified Design Consultant to design the heavy haul road. ^774478071ede1291e00013ed
+102.3       To support the required design and engineering, this Functional Technical Specification has been prepared to define the overall objective of the project, and to identify the minimum requirements and criteria that shall be used by a qualified Design Consultant to design the heavy haul road. ^s-aa05e4e6f9cab35417542a1c
 
 
-102.4       This Specification may not be all inclusive, and the expectation is that the knowledge and experience of the Design Consultant will supplement the requirements defined in this Specification. This Specification is intended for the evaluation of existing facilities and the design of upgrades, modifications, and alterations for the heavy haul road construction upgrades: this Specification is not intended to meet the long term design criteria of the haul road after completion of the project, nor to meet the long term design criteria of the local and national governing agencies; however, at a minimum the existing functional classification of each road segment that is modified in any way shall continue to meet current functionality with regard to traffic use and safety, utility easement and ownership, and storm water drainage and conveyance. ^d1699dddf966dd0c27f2b3fd
+102.4       This Specification may not be all inclusive, and the expectation is that the knowledge and experience of the Design Consultant will supplement the requirements defined in this Specification. This Specification is intended for the evaluation of existing facilities and the design of upgrades, modifications, and alterations for the heavy haul road construction upgrades: this Specification is not intended to meet the long term design criteria of the haul road after completion of the project, nor to meet the long term design criteria of the local and national governing agencies; however, at a minimum the existing functional classification of each road segment that is modified in any way shall continue to meet current functionality with regard to traffic use and safety, utility easement and ownership, and storm water drainage and conveyance. ^s-28e95ef2c6ad8c2ad2160d07
 
 
-102.5       This Specification covers the requirements and criteria for performing a detailed corridor investigation and roadway/bridge design. The scope shall include verification of design inputs, environmental impact assessment, preparing preliminary and final documents for review, permitting support, developing cost estimates, and preparing a detailed schedule covering design, permitting, and construction. ^4e29969af222ede116492a70
+102.5       This Specification covers the requirements and criteria for performing a detailed corridor investigation and roadway/bridge design. The scope shall include verification of design inputs, environmental impact assessment, preparing preliminary and final documents for review, permitting support, developing cost estimates, and preparing a detailed schedule covering design, permitting, and construction. ^s-40a7375b784df098f2f6959a
 
 
-102.6       Design Consultant Requirements and Qualifications: ^24a429da975f44bc351cbca2
+102.6       Design Consultant Requirements and Qualifications: ^s-b103aad9ed433f3b0ed960d5
 a.         Design Consultant will be selected by the RoL, and shall demonstrate competency by having previous experience in projects with similar magnitude and character involving infrastructure assessment, design of highways and bridges, buried and overhead utility relocations, and associated permitting, construction, cost estimating, and scheduling.
 b.         Design Consultant shall posses experience in roadway design, including horizontal and vertical geometric alignment, structural thickness design, safety, and traffic control.
 c.         Design Consultant shall possess experience in bridge design of multiple span structures and segmental bridges, and in bridge assessment and modification.
@@ -3115,35 +3120,35 @@ d.         Design Consultant shall possess experience in geotechnical design and
 e.         Design Consultant shall possess experience in hydrology and hydraulic analysis relating to bridges, including flood evaluation and routing, scour analysis, water surface modeling, and storm water management regulations.
 
 
-102.7       The Work shall conform to the requirements of this Specification and shall be performed and supervised by personnel who are experienced and knowledgeable in the type of work to be performed. The Work shall be performed exclusively by the Design Consultant’s trained and competent personnel or, where authorized, that of its subcontractors. ^f2f5d2adfbb341aba5f6686a
+102.7       The Work shall conform to the requirements of this Specification and shall be performed and supervised by personnel who are experienced and knowledgeable in the type of work to be performed. The Work shall be performed exclusively by the Design Consultant’s trained and competent personnel or, where authorized, that of its subcontractors. ^s-b2de128a2ebe826105657f34
 
 
-102.8       The Design Consultant, at the Owner’s request, shall provide the Owner with any and all information pertaining to the Work including design documents, construction documents, schedule information, etc. ^2eb8a428077519e0ac771899
+102.8       The Design Consultant, at the Owner’s request, shall provide the Owner with any and all information pertaining to the Work including design documents, construction documents, schedule information, etc. ^s-d216c4fa23190fca7f03f6dd
 
 
-103.     LITHUANIAN ROAD BOUNDING PARAMETERS ^5d1f0058cfab4ca25a55adb9
+103.     LITHUANIAN ROAD BOUNDING PARAMETERS ^s-44005f95f77ff043f380e8c8
 
 
-103.1       Maximum road width in straight road sections identified in Article 116.1. k 9.5 m: ^2b9e6ca6779589a08137df0e
+103.1       Maximum road width in straight road sections identified in Article 116.1. k 9.5 m: ^s-9b169d3fb0bbf76e455bd6c6
 a.         6.5 meters asphalt paved with 0.25 meter compacted gravel shoulders
 b.         1.25 compacted road side
 c.         There shall be no gap between asphalt covered and compacted road side areas.
 
 
-103.2       Maximum road ground bearing pressure for 103.1 a.. as identified in Article 116.1. k: ^2ed57b99d9a20efb19f414bc
+103.2       Maximum road ground bearing pressure for 103.1 a.. as identified in Article 116.1. k: ^s-7d74f0da26027519e2335d3a
 a.         4.4 metric tons load per square meter
 b.         10 metric tons load per axle
 
 
-103.3       Maximum ground bearing pressure as identified in Article 116.1. h: ^b69d53af2b6e980d836870ad
+103.3       Maximum ground bearing pressure as identified in Article 116.1. h: ^s-8e591b794d04d7e8990681c3
 a.         1.800 ton, being the sum of combined heavy haul transporter vehicle and equipment
 
 
 
-104.     HEAVY HAUL TRANSPORTER VEHICLE AND EQUIPMENT PAYLOAD DATA ^c3ea97d4a413c2676e1e582f
+104.     HEAVY HAUL TRANSPORTER VEHICLE AND EQUIPMENT PAYLOAD DATA ^s-738054d03b272553260b9354
 
 
-104.1       The heavy haul transport vehicle will be a modular, multi-axle rubber tire vehicle designed specifically for transporting the equipment. The heavy haul transporter arrangement will vary based on the type of equipment being transported, however the largest, bounding arrangement for RPV will consist of two coupled self-propelled trailers, each with a turntable supporting the equipment load, pulled by two prime movers, and pushed by two additional prime movers. The following information shall be considered the largest-maximum bounding dimensional data as identified in Article 116.1. e, h, i, l and n, with supplemental information on bounding obstacle parameters provided in Article 116.1. m: ^de1e4626eb2a003d59d3c17f
+104.1       The heavy haul transport vehicle will be a modular, multi-axle rubber tire vehicle designed specifically for transporting the equipment. The heavy haul transporter arrangement will vary based on the type of equipment being transported, however the largest, bounding arrangement for RPV will consist of two coupled self-propelled trailers, each with a turntable supporting the equipment load, pulled by two prime movers, and pushed by two additional prime movers. The following information shall be considered the largest-maximum bounding dimensional data as identified in Article 116.1. e, h, i, l and n, with supplemental information on bounding obstacle parameters provided in Article 116.1. m: ^s-f28d3cb2787cedcc43d96b58
 a.         Overall transport vehicle length: 115.6 m (two trailers and four prime movers)
 b.         Maximum Trailer length: 33 m (each). 69 m for two (2) transporters including connector
 c.         Maximum Trailer width: 6.300 m
@@ -3158,25 +3163,25 @@ k.         RPV pedestal No.3 height path: 17 m
 l.          Trailer width path (no obstacles): 8 m
 
 
-104.2       RPV Equipment Payload: the number described below through a. to b. subject to change due to design progress. ^b79f6d6f20614101fb8e5c5f
+104.2       RPV Equipment Payload: the number described below through a. to b. subject to change due to design progress. ^s-99183b604687826314328490
 a.         Maximum payload weight: approximately 1004 metric tons
 b.         Maximum rigging/support frame weight: approximately 136 metric tons
 c.         Maximum payload width: 9.2 meters, measured 7.707 meters from grade
 d.         Maximum payload height: 12.207 meters from grade
 
 
-104.3       Gross Operating Weight of Heavy Haul Transporter: ^1ba9d795a05ba7024f334e69
+104.3       Gross Operating Weight of Heavy Haul Transporter: ^s-1fee35052bd6710dc318848f
 a.         The gross operating weight of the combined heavy haul transporter vehicle and equipment: no more than 1800 metric tons
 b.         Ground bearing pressure: 4.4 metric tons per square meter
 
 
-104.4       The heavy haul transporter has the following operational characteristics: ^a5c29beb14ab2cc90e8e8541
+104.4       The heavy haul transporter has the following operational characteristics: ^s-9e6f60b784a8aae65082e3fe
 a.         Operating speed: 10 – 25 kilometers per hour (for reference purposes)
 b.         RPV Minimum inner turning radius: 13.5 meters
 c.         RPV Minimum outer turning radius: 33.5 meters
 
 
-104.5       Heavy Haul Road Geometric Requirements for straight road sections and corners: ^6f04594653a68394fc2b5880
+104.5       Heavy Haul Road Geometric Requirements for straight road sections and corners: ^s-2204ef7c96d520e856a9c478
 a.         Maximum slope: less than 8 percent, on dry pavement
 b.         RPV Minimum curvature radius for vertical slope: greater than 340.5 m
 c.         RPV Minimum length of relaxation slops: greater than 27.3 m
@@ -3189,114 +3194,114 @@ d3. Minimum traversal incline for crossroad is 2.5 %; Maximum traversal incline 
 
 
 
-104.6       Temporary Support Vehicle Information: ^7427f1a5b980588aae173b21
+104.6       Temporary Support Vehicle Information: ^s-e4410951bd511b936fa0e773
 a.         The movement of the heavy haul transporter will be accompanied en-route by support vehicles to ensure safety of the crew and public, provide security, perform routine maintenance, and to manage emergencies as they arise. The type of support vehicles anticipated will be determined by the heavy haul transport company.
 
 
-105.     HEAVY HAUL TRIP DATA ^6340726bea2525d655b96a7b
+105.     HEAVY HAUL TRIP DATA ^s-2bea7edea48f3a6ea332b1eb
 
 
-105.1       The following information shall be used in establishing the load repetitions for pavement and bridge design with appropriate margin: ^3e29fdd038222cfc257e1ee1
+105.1       The following information shall be used in establishing the load repetitions for pavement and bridge design with appropriate margin: ^s-dfd592ecb639d89c411aa7bc
 a.         The preliminary total number of heavy haul transporter trips anticipated as described in Article 116.1.a.
 b.         The Owner will provide the Design Consultant with a final list upon receipt from EPC Contractor.
 
 
-106.     ROADWAY DESIGN CRITERIA ^ddddff8bd8502974ee1f6d0f
+106.     ROADWAY DESIGN CRITERIA ^s-479a7a7dd514afc9c630d2a5
 
 
-106.1       All road segments shall be inspected and evaluated to determine the condition and serviceability to support the transporter loads for the term of the transporter moves. All deficiencies shall be documented in a report with recommendations for repairs or demolition and rebuilding. ^e9724afe7c9e40f4d986d392
+106.1       All road segments shall be inspected and evaluated to determine the condition and serviceability to support the transporter loads for the term of the transporter moves. All deficiencies shall be documented in a report with recommendations for repairs or demolition and rebuilding. ^s-77a99d322fea611aca5852f3
 
 
-106.2       Road structural layers shall be determined through a geotechnical investigation by obtaining pavement cores and soil borings, or by other acceptable methods, to determine thickness, type, and condition of layers present in the structural section that may include asphalt, concrete, aggregate base, and to determine the soil subgrade properties. ^448163df701d87e51ae5dae5
+106.2       Road structural layers shall be determined through a geotechnical investigation by obtaining pavement cores and soil borings, or by other acceptable methods, to determine thickness, type, and condition of layers present in the structural section that may include asphalt, concrete, aggregate base, and to determine the soil subgrade properties. ^s-44ca0ca9e0403498d2e667be
 
 
-106.3       Road pavement shall be analyzed and upgraded or reconstructed, as necessary, to withstand the heavy haul transporter loads and loading repetitions in accordance with the Functional Technical Specifications defined in this document and meet the requirements of European Union norms and Lithuanian laws. ^7bd19f835691827b216da065
+106.3       Road pavement shall be analyzed and upgraded or reconstructed, as necessary, to withstand the heavy haul transporter loads and loading repetitions in accordance with the Functional Technical Specifications defined in this document and meet the requirements of European Union norms and Lithuanian laws. ^s-e8a66459cfdd74a55b21bae1
 
 
-106.4       Road alignment geometric parameters shall be modified as necessary to meet the requirements described in Article 103 and 104 in order to provide sufficient passage for combined heavy haul transporter vehicle and equipment, and also meet Lithuanian road safety requirements. ^987bff86d20d2dcef24543a9
+106.4       Road alignment geometric parameters shall be modified as necessary to meet the requirements described in Article 103 and 104 in order to provide sufficient passage for combined heavy haul transporter vehicle and equipment, and also meet Lithuanian road safety requirements. ^s-034c9292f7ce311ee15d4cae
 
 
-107.     BRIDGE DESIGN CRITERIA ^4ad486244e85711e73cc1a55
+107.     BRIDGE DESIGN CRITERIA ^s-450c6a47e32b55166e33e2e2
 
 
-107.1       All bridges shall be inspected and evaluated to determine their condition and serviceability load rating capacity to support the combined heavy haul transporter vehicle and equipment for the term of the transporter moves. All deficiencies shall be documented in a report with recommendations for repairs or demolition and rebuilding. ^5333c013f7195985cfca97fd
+107.1       All bridges shall be inspected and evaluated to determine their condition and serviceability load rating capacity to support the combined heavy haul transporter vehicle and equipment for the term of the transporter moves. All deficiencies shall be documented in a report with recommendations for repairs or demolition and rebuilding. ^s-7abcee79ed09dd37061d2111
 
 
-107.2       Bridges and culverts shall be designed in accordance with the Functional Technical Specifications defined in this document and meet the requirements of European Union norms and Lithuanian laws. ^140d063041bf02a7b4da45e7
+107.2       Bridges and culverts shall be designed in accordance with the Functional Technical Specifications defined in this document and meet the requirements of European Union norms and Lithuanian laws. ^s-c95e1bdcda0f39d26aa5e053
 a.         Concrete and steel decks shall meet the requirements of all local and government regulations.
 b.         Parapets and guard rails shall be designed to meet the Functional Technical Specifications defined in Articles 103 and 104.
 
 
-108.     STANDARDS AND CODES REFERENCES ^48493b717961125da8692bfe
+108.     STANDARDS AND CODES REFERENCES ^s-49692bec4d5dc9da94128470
 
 
-108.1       The following design standards and codes as applicable to the work to be performed, from the Lithuanian Road Administration, Lithuanian Association of Surveyors, the Lithuanian Standards Board, and from other jurisdictional authorities. ^944c79122ad06ddc5fec7733
+108.1       The following design standards and codes as applicable to the work to be performed, from the Lithuanian Road Administration, Lithuanian Association of Surveyors, the Lithuanian Standards Board, and from other jurisdictional authorities. ^s-f0e23d8526ca9e1d708ac7d6
 
 
-109.     SURVEY INFORMATION ^f702ef40af768d092e9647c8
+109.     SURVEY INFORMATION ^s-c64f3cf016ba534803c24a19
 
 
-109.1       The Design Consultant shall prepare a topographic survey of the heavy haul transporter corridor where required to obtain accurate locations and elevations of existing features (pavement limits and grade, trees, signs, culverts, etc.) that require modification or alteration of the corridor. The survey shall be of sufficient detail and limits as necessary to meet the intended design purpose. ^f7037cf38b887a05177e98b3
+109.1       The Design Consultant shall prepare a topographic survey of the heavy haul transporter corridor where required to obtain accurate locations and elevations of existing features (pavement limits and grade, trees, signs, culverts, etc.) that require modification or alteration of the corridor. The survey shall be of sufficient detail and limits as necessary to meet the intended design purpose. ^s-9da0d5d4646b48381c1f303e
 
 
-110.     STOPPING AREA AND OVERTAKING ZONE REQUIREMENTS ^882553f6205cfa37a34dcafe
+110.     STOPPING AREA AND OVERTAKING ZONE REQUIREMENTS ^s-54161be172a2cf81933e57c6
 
 
-110.1       Stopping areas are required for periodic heavy haul transporter vehicles stops that will be used for vehicle maintenance and refueling, provide a safe location to allow for inclement weather to pass, and for operator rest. The following criteria shall be used for the layout and design of the stopping areas along the heavy haul transporter corridor. ^bf6f5443fb500be7145ec36b
+110.1       Stopping areas are required for periodic heavy haul transporter vehicles stops that will be used for vehicle maintenance and refueling, provide a safe location to allow for inclement weather to pass, and for operator rest. The following criteria shall be used for the layout and design of the stopping areas along the heavy haul transporter corridor. ^s-d34cdebc05ace49665a59226
 a.         The stopping area shall be located directly adjacent to the heavy haul road, and provide sufficient space for support vehicles and smaller heavy haul transporters: large transporters will stop and remain on the heavy haul road and not utilize the stopping area.
 b.         The location, size, and exact number of stopping areas shall be coordinated with the Owner during the detailed design phase.
 c.         The stopping areas shall be compacted to meet the combined heavy haul transport vehicle and equipment load requirements.
 d.         Trees surrounding the stopping areas shall be preserved to the fullest extent possible.
 
 
-110.2       Overtaking zones or traffic bypasses shall be appropriately identified and/or located, with Owner’s acceptance, to allow passage of vehicles around the heavy haul transporter vehicle to limit traffic congestion to the greatest extent practical. ^0fd4b2135f33c4917df7d077
+110.2       Overtaking zones or traffic bypasses shall be appropriately identified and/or located, with Owner’s acceptance, to allow passage of vehicles around the heavy haul transporter vehicle to limit traffic congestion to the greatest extent practical. ^s-be4b8d954f8f7cd3102ff2dc
 
 
-111.     SUBMITTALS ^d8d2c3cd1e7ae3339e1b211e
+111.     SUBMITTALS ^s-874e20b6efda0b1d089705c0
 
 
-111.1       Submittals required with proposal: ^866d6f4984a10e8b0711642c
+111.1       Submittals required with proposal: ^s-6adda503fe94c0b8e09d3403
 a.         Key Personnel: Name and resume of Project Manager and Project Lead Engineer identified to work on this project, having at least five years of supervisory experience with highway and road projects of similar size and/or scope.
 b.         Project Experience: Description of the company’s recent work history over the last five years for projects of similar magnitude and scope. For each project, include a brief description of work scope.
 c.         References: Name and current phone number of professional references, from recent projects that include condition assessment, evaluation, design, and permitting for road and bridge related projects.
 
 
-112.     GEOTECHNICAL INFORMATION ^be36e192ab46dd51057ba645
+112.     GEOTECHNICAL INFORMATION ^s-15811e01644efa69876d5d02
 
 
-112.1       A subsurface investigation program shall be performed along the heavy haul transporter corridor where it is necessary to obtain subsurface information in accordance with Lithuanian laws. ^f494d1c53e6ce2210609316f
+112.1       A subsurface investigation program shall be performed along the heavy haul transporter corridor where it is necessary to obtain subsurface information in accordance with Lithuanian laws. ^s-56c014723e57d117e841948b
 
 
-112.2       The following are the minimum requirements for road sections that consist of asphalt pavement: ^da080c89c0004af6bd049aa6
+112.2       The following are the minimum requirements for road sections that consist of asphalt pavement: ^s-2a83971b814261c24a8f5b4b
 a.         Soil borings shall be obtained in sufficient depth, quantity, and frequency to obtain reasonable pavement and subgrade soil information that allows accurate assessment of the pavement loading capacity and design of modified or new pavement structural layers in accordance with Lithuanian laws.
 
 
-112.3       The following are the minimum requirements where new bridges are to be constructed or existing bridges need to be upgraded: ^f733574fa0e1f512f97bcfe0
+112.3       The following are the minimum requirements where new bridges are to be constructed or existing bridges need to be upgraded: ^s-97898083c98fa58dbf95b246
 a.         Soil borings shall be obtained in sufficient depth, quantity, and frequency to obtain required subsoil parameters to design bridge modifications or design new bridges in accordance with Lithuanian laws.
 
 
-113.     SERVICES AND INFORMATION PROVIDED BY OTHERS ^79786ad8b2ce3ae19a11b9af
+113.     SERVICES AND INFORMATION PROVIDED BY OTHERS ^s-d7ef7729ad230b245ea8496c
 
 
-113.1       The initial selection of the heavy haul corridor has been investigated and evaluated by the Owner, as identified in Articles 116.1.b, c, d and j, and shall be used as the primary input for establishing the corridor of the heavy haul transporter. ^91f6ad65e16a6f696f7d2ddb
+113.1       The initial selection of the heavy haul corridor has been investigated and evaluated by the Owner, as identified in Articles 116.1.b, c, d and j, and shall be used as the primary input for establishing the corridor of the heavy haul transporter. ^s-93fe93947b5e904b593bbfe9
 
 
-113.2       The heavy haul transporter arrangement (length, number of axles, etc.) for each piece of equipment to be hauled as identified in Article 116.1.a will be prepared by EPC Contractor and will not exceed the bounding road parameters specified in Article 103.1. ^255b96d88655c348843300eb
+113.2       The heavy haul transporter arrangement (length, number of axles, etc.) for each piece of equipment to be hauled as identified in Article 116.1.a will be prepared by EPC Contractor and will not exceed the bounding road parameters specified in Article 103.1. ^s-52595e527ef1a4f1134b6f5f
 
 
-113.3       Heavy haul transporter maintenance, repair, and fueling will be performed by the Heavy Haul Transporter Company. ^4265325abdc135167a0bfc30
+113.3       Heavy haul transporter maintenance, repair, and fueling will be performed by the Heavy Haul Transporter Company. ^s-cf643f90ae74185753e69366
 
 
-113.4       Relocation and/or alteration, and restoration of roadside obstructions that include electric transmission lines (35 kV, 110 kV, and 330 kV), light poles and/or lighting mast arms, post mounted traffic signals, post-mounted traffic control signs, etc., shall be considered in the haul road improvements and shall be performed if necessary.. ^bd944a7cb29c2475351c8592
+113.4       Relocation and/or alteration, and restoration of roadside obstructions that include electric transmission lines (35 kV, 110 kV, and 330 kV), light poles and/or lighting mast arms, post mounted traffic signals, post-mounted traffic control signs, etc., shall be considered in the haul road improvements and shall be performed if necessary.. ^s-3e2570866c82c44a990276d9
 
 
-113.5       The Scope of Work covered by this Functional Technical Specification is limited to the heavy haul road between Klaipeda port pier and the boundary of the VNPP construction site, and improvements beyond these limits, if necessary, will be provided by Others. ^a07efacc1ee30f57a708463e
+113.5       The Scope of Work covered by this Functional Technical Specification is limited to the heavy haul road between Klaipeda port pier and the boundary of the VNPP construction site, and improvements beyond these limits, if necessary, will be provided by Others. ^s-5069cbbd62912a7e5eb97bef
 
 
-114.     DEFINITIONS ^88350343f7cf9eabebbe0498
+114.     DEFINITIONS ^s-e8397f85b5252695e0acc38f
 
 
-114.1       Whenever the following terms appear in the Contract Documents, they shall mean the following: ^7aeb923a0142d3bf27d5da45
+114.1       Whenever the following terms appear in the Contract Documents, they shall mean the following: ^s-95208f8e9269634e96d4dfda
 a.         Design Consultant - means the firm, company, organization retained by Owner to perform the Work covered by this Specification
 b.         Work - means documentation preparation and submittal, procurement, labor, services, equipment, material, construction and maintenance work as set forth in the Contract Documents
 c.         Contract Documents - means all Drawings, Data, Specifications, Addenda and Revisions thereto; Purchase Orders and Supplements to the Purchase Order; Design Consultant’s Drawings as accepted by Owner; and all documents which are a part of the Contract
@@ -3306,20 +3311,20 @@ f.         Indicated - means as shown, noted, called for, or specified on the Dr
 g.         Provide - means furnish, perform and install and when applicable place in successful operation
 
 
-115.     CORRESPONDENCE ^cbc5d9e3354de24cb7b2c5b3
+115.     CORRESPONDENCE ^s-2d7b23c85d0592ce763e1d20
 
 
-115.1       Address and submit correspondence, reports and related documents to the following: ^d5a72b066f5845c2311ffdbe
+115.1       Address and submit correspondence, reports and related documents to the following: ^s-619923bf24f3a2f4af62eefb
 a.         Owner contact: VAE
 Technical Contact: To be determined
 Contractual Contact: To be determined
 
 
 
-116.     DRAWINGS AND DATA ^118def7a1f0e341106e30475
+116.     DRAWINGS AND DATA ^s-430f504faa8c04bafd2af03d
 
 
-116.1       The following Drawings and Data prepared and/or supplied by the Owner, Owner’s Engineer, or Hitachi-GE Nuclear Energy/ Hitachi Transport Systems, unless otherwise indicated, form a part hereof: ^3d1f8299cd1655432871e488
+116.1       The following Drawings and Data prepared and/or supplied by the Owner, Owner’s Engineer, or Hitachi-GE Nuclear Energy/ Hitachi Transport Systems, unless otherwise indicated, form a part hereof: ^s-fc666c8a2eb06f5a2c8a1716
 a.         Major Component Packing List for VPN, CNJ-LT-G001_R2_Major Component Packing List 20111228, Hitachi-GE Nuclear Energy, Ltd (this information must be used only for reference purposes, and is subject to revision).
 b.         Route Survey of the Lithuanian Road Network, Summary Report, prepared by Visagino Atomine Elektrine (VAE), 2011.
 c.         Survey Results and Recommendations Report, prepared by Hitachi Transport Systems, Ltd., 2011 (this information must be used only for reference purposes, and is subject to revision).
@@ -3371,23 +3376,23 @@ SCHEDULE
 NATIONAL SECURITY CRITERIA
 
 
-1.         None of the transferee or any of its Associated Companies, either individually or collectively: ^dcdf6e7aa2e770d20b658584
+1.         None of the transferee or any of its Associated Companies, either individually or collectively: ^s-73fb76fe7c1c70e207d3bf0f
 
 
-1.1       controls, directly or indirectly, whether by virtue of a State-granted right or as a matter of fact, the importation from any Non-NATO State or Non-EEA State into the Republic of Lithuania of one third or more of the total volume of any type of fossil fuel imported into the Republic of Lithuania; ^82aedfc15e05ce62d8ab5fcb
+1.1       controls, directly or indirectly, whether by virtue of a State-granted right or as a matter of fact, the importation from any Non-NATO State or Non-EEA State into the Republic of Lithuania of one third or more of the total volume of any type of fossil fuel imported into the Republic of Lithuania; ^s-0809ad8088c1de27328e53d3
 
 
-1.2       effectively controls fossil fuel supply infrastructure in any Non-NATO State or Non-EEA State, which effective control enables the transferee or any of its Associated Companies (either individually or collectively) as the case may be to reduce the supply of any type of fossil fuel imported into the Republic of Lithuania by 33 per cent. or more of the total imported volume; ^0ceeb2807416fce7c6f0c70f
+1.2       effectively controls fossil fuel supply infrastructure in any Non-NATO State or Non-EEA State, which effective control enables the transferee or any of its Associated Companies (either individually or collectively) as the case may be to reduce the supply of any type of fossil fuel imported into the Republic of Lithuania by 33 per cent. or more of the total imported volume; ^s-2db157d2f08ac2e9d80b3d9d
 
 
-1.3       controls, directly or indirectly, whether by virtue of a State-granted right or as a matter of fact, the importation into the Republic of Lithuania from any Non-NATO State or Non-EEA State of one third or more of the total of electricity imported into the Republic of Lithuania; or ^055704a8a0a1724f33c2ec25
+1.3       controls, directly or indirectly, whether by virtue of a State-granted right or as a matter of fact, the importation into the Republic of Lithuania from any Non-NATO State or Non-EEA State of one third or more of the total of electricity imported into the Republic of Lithuania; or ^s-5673b3e90c7a1767342972dc
 
 
-1.4       controls electricity transmission infrastructure in any Non-NATO State or Non-EEA State, which control enables the transferee or any of its Associated Companies (either individually or collectively) as the case may be to reduce the supply of electricity imported into the Republic of Lithuania by 33 per cent. or more of the total imported volume, ^39cd71479099a6e52e00f8f4
+1.4       controls electricity transmission infrastructure in any Non-NATO State or Non-EEA State, which control enables the transferee or any of its Associated Companies (either individually or collectively) as the case may be to reduce the supply of electricity imported into the Republic of Lithuania by 33 per cent. or more of the total imported volume, ^s-d10c67b2087f2e987127b7f5
 and the proportions referred to in this Paragraph 1 shall be calculated by reference to the 12-month period preceding the date on which the relevant Transfer Notice is issued by the Transferring Shareholder.
 
 
-2.         None of the transferee or any of its Associated Companies has been convicted as part of a properly convened process as a result of its direct or indirect relationship with organised criminal groups, special services or groups of foreign states which have connections to international terrorist organisations. ^ae3bb48e4e535dba2118c8a6
+2.         None of the transferee or any of its Associated Companies has been convicted as part of a properly convened process as a result of its direct or indirect relationship with organised criminal groups, special services or groups of foreign states which have connections to international terrorist organisations. ^s-b8b20cedaf6f11dc67d3928e
 
 
 
@@ -3395,10 +3400,10 @@ SCHEDULE 5
 SITE
 
 
-1.         Subject to Paragraph 2 of this Schedule 5 (Site), the "Site" shall be the eastern site (including the infrastructure on the site) as more specifically described in Part I of this Schedule 5 (Site). ^4b4f7dbd5f6537d6bc40179a
+1.         Subject to Paragraph 2 of this Schedule 5 (Site), the "Site" shall be the eastern site (including the infrastructure on the site) as more specifically described in Part I of this Schedule 5 (Site). ^s-d90c731b1f2d12dd697edeec
 
 
-2.         If, following the Concession Date, the site described in Part I of this Schedule 5 (Site) is considered by the PCO (acting reasonably) to be unsuitable for the Project, the PCO shall notify the RoL as soon as practicable, and in any event no later than eighteen (18) Months after the Investment Date, that the "Site" shall instead be the western site (including the infrastructure on the western site) as more specifically described in Part II of this Schedule 5 (Site). ^d8afd4d762a6fac67827e795
+2.         If, following the Concession Date, the site described in Part I of this Schedule 5 (Site) is considered by the PCO (acting reasonably) to be unsuitable for the Project, the PCO shall notify the RoL as soon as practicable, and in any event no later than eighteen (18) Months after the Investment Date, that the "Site" shall instead be the western site (including the infrastructure on the western site) as more specifically described in Part II of this Schedule 5 (Site). ^s-d1b3ee8bcc33373f699d47df
 
 
 PART I
@@ -3809,48 +3814,48 @@ SCHEDULE 8
 FUNDAMENTAL CHANGE
 
 
-1.         Pre-FID Fundamental Changes ^6d5e07e5ab0bae45ef684d8a
+1.         Pre-FID Fundamental Changes ^s-f7b4a95d586f1884523cae22
 Subject to Paragraph 2, the following are "Pre-FID Fundamental Changes" and each a "Pre-FID Fundamental Change":
 
 
-2.5       Changes to laws implemented for the Project ^e58d73873b39e117952f435e
+2.5       Changes to laws implemented for the Project ^s-a931b1ee440721b5b1ebe629
 Repeal of or material amendments to the following laws which have come into force and effect within the Republic of Lithuania:
 
 
-2.5.1      the Law on Assuming the Essential Property Obligations of the Republic of Lithuania in the Visaginas Nuclear Power Plant Project; and ^84ec4c09187c6b431ff11117
+2.5.1      the Law on Assuming the Essential Property Obligations of the Republic of Lithuania in the Visaginas Nuclear Power Plant Project; and ^s-4db89f0385f680f24ad75f0a
 
 
-2.5.2      the Law on the Nuclear Power Plant, ^27d1c23ab90bb9ac218f884d
+2.5.2      the Law on the Nuclear Power Plant, ^s-9b4c1c4acce01d499d0e84af
 provided that the net effect of the repeal and/or material amendments (when taken into account with any other applicable Laws and/or circumstances, including any amendments to and/or repeal or enactment of any other applicable Laws), excluding the effect of any increase in costs which is not a Significant Increase in Costs, has or will have a very serious adverse effect on the implementation of the Project, or on the operation of the NNPP, or rights of the NNPP to sell electricity generated by the NNPP, or the Shareholders to offtake and/or export electricity generated by the NNPP, when compared to the circumstances in effect as at the Concession Date and the RoL has not remedied such repeal or material amendment or the net fundamental adverse effect of such repeal or material amendment by the earlier of (i) 3 Months following service of a notice on the RoL by the PCO that the Shareholders are prepared to take FID and (ii) 30 June 2015.
 For the purposes of this paragraph 1.1, a "Significant Increase in Costs" shall mean an increase in the costs of the Project which is, in and of itself (and not only in the context of any incremental change in the costs of the Project), a very significant increase.
 
 
-2.6       Withdrawal or denouncement from specified nuclear treaties ^6cd9e1298d0a31bd59ae5ea2
+2.6       Withdrawal or denouncement from specified nuclear treaties ^s-465754a0fa44c847f328c063
 Withdrawal by the RoL from, denouncement by the RoL of, or the material amendment (adversely affecting the implementation), repeal or invalidity of any Law in the Republic of Lithuania implementing or giving effect to, any of the following instruments:
 
 
-2.6.1      the Non Proliferation Treaty; ^6a80b9f362f1a8c517620fba
+2.6.1      the Non Proliferation Treaty; ^s-73e3016611e483bf6d2e1060
 
 
-2.6.2      the Vienna Convention 1963; ^bc26ea0da0dc7fde54ea7cec
+2.6.2      the Vienna Convention 1963; ^s-3b89241606ec7bef63ee61cd
 
 
-2.6.3      the Vienna Protocol (only from such date as the Vienna Protocol is in force and applicable in, or in respect of, the Republic of Lithuania); ^8926f2a28b83f663a6aa7298
+2.6.3      the Vienna Protocol (only from such date as the Vienna Protocol is in force and applicable in, or in respect of, the Republic of Lithuania); ^s-3df4037880a3734a17a627a9
 
 
-2.6.4      the Convention on Supplementary Compensation (only from such date as the Convention on Supplementary Compensation is in force and applicable in, or in respect of, the Republic of Lithuania); ^fe064528393fac92c1acdb4d
+2.6.4      the Convention on Supplementary Compensation (only from such date as the Convention on Supplementary Compensation is in force and applicable in, or in respect of, the Republic of Lithuania); ^s-a1c8cb3c6eb3140031b9ace2
 
 
-2.6.5      the Joint Protocol; ^7728738c630ceaf93390a192
+2.6.5      the Joint Protocol; ^s-092c263d06569fd9906330b7
 
 
-2.6.6      the IAEA Statute; ^c546fe3f5f36bdc0766365e9
+2.6.6      the IAEA Statute; ^s-be555df63b4689e924f99bf5
 
 
-2.6.7      the IAEA Agreement; and/or ^350098a6d41bef712084430c
+2.6.7      the IAEA Agreement; and/or ^s-5d2d6d935abf019bbad828e5
 
 
-2.6.8      any Nuclear Safety Treaty, ^3a44684481f21df497fd968e
+2.6.8      any Nuclear Safety Treaty, ^s-546f6e18d044d6d37e78d6da
 where, subject to the provisions below, such withdrawal, denouncement, repeal, material amendment or invalidity shall be a Pre-FID Fundamental Change from the earlier of the date on which the relevant international instrument ceases to be binding and enforceable in the Republic of Lithuania or the date on which the repeal, material amendment or invalidity occurred:
 (A)      provided that such withdrawal, denouncement, repeal, material amendment or invalidity by the RoL is of its own accord and not:
 (1)       as a result of the termination or lapse of or amendment to the relevant international instrument listed; or
@@ -3861,49 +3866,49 @@ where, subject to the provisions below, such withdrawal, denouncement, repeal, m
 (and such replacing international instrument or applicable Law, in the case of both 1.2.8(B)(1) and 1.2.8(B)(2), shall be a "Specified Nuclear Treaty Replacement" and "Specified Nuclear Treaty Replacements" shall be construed accordingly).
 
 
-2.7       Withdrawal from or denouncement of the Energy Charter Treaty ^3acae3a547ed29bbb19cc044
+2.7       Withdrawal from or denouncement of the Energy Charter Treaty ^s-72e52046eed8ea29e29a958c
 Withdrawal by the RoL from or denouncement by the RoL of the Energy Charter Treaty:
 
 
-2.7.1      provided that such withdrawal or denouncement by the RoL is of its own accord and not: ^82bdf4e8f2f9c0308fcdb752
+2.7.1      provided that such withdrawal or denouncement by the RoL is of its own accord and not: ^s-7a3e6c169af03c44b10465cf
 (A)      as a result of the termination or lapse of the Energy Charter Treaty; or
 (B)       as a result of a decision or communication of the European Commission or a ruling by the Court of Justice of the European Union requiring or recommending that the RoL (specifically) or (more generally) the European Union Member States withdraw from the Energy Charter Treaty or otherwise ruling that its existence is not in accordance with European Union principles;
 
 
-2.7.2      and except where another international instrument or applicable Law applies or is brought into effect in the Republic of Lithuania (before, at the same time as, or not later than a reasonable period following withdrawal from or denouncement of the Energy Charter Treaty and in any event not later than the earlier of (i) three (3) Months following service of a notice on the RoL by the PCO that the Shareholders are prepared to take FID and (ii) 30 June 2015) and: ^27679b71c54787a817c93020
+2.7.2      and except where another international instrument or applicable Law applies or is brought into effect in the Republic of Lithuania (before, at the same time as, or not later than a reasonable period following withdrawal from or denouncement of the Energy Charter Treaty and in any event not later than the earlier of (i) three (3) Months following service of a notice on the RoL by the PCO that the Shareholders are prepared to take FID and (ii) 30 June 2015) and: ^s-560455f6a55de3d5ec243a89
 (A)      where such international instrument or applicable Law can reasonably be considered to fulfil a similar purpose as the Energy Charter Treaty; or
 (B)       if such international instrument or applicable Law fulfils more than one purpose, where it contains provisions which can reasonably be considered together to fulfil a similar purpose as the Energy Charter Treaty or which otherwise is considered by the parties to the replacement international instrument to replace or supersede the Energy Charter Treaty,
 (and such international instrument or applicable Law, in the case of either (i) or (ii), shall be a "Energy Charter Treaty Replacement").
 
 
-2.8       Withdrawal or denouncement from the New York Convention ^955ca0ffb6adcd265de220ad
+2.8       Withdrawal or denouncement from the New York Convention ^s-691f51ab8b7ea23eefb59580
 Withdrawal by the RoL from, denouncement by the RoL of, or the material amendment (adversely affecting the implementation) of, repeal or invalidity of, any Law in the Republic of Lithuania implementing or giving effect to, the New York Convention:
 
 
-2.8.1      provided that such withdrawal, denouncement, repeal, material amendment and/or invalidity by the RoL is of its own accord and not: ^97dececfd8f324c1886bb959
+2.8.1      provided that such withdrawal, denouncement, repeal, material amendment and/or invalidity by the RoL is of its own accord and not: ^s-193cbf7184ee205eaaa7c4b2
 (A)      as a result of the termination or lapse of the New York Convention; or
 (B)       as a result of a decision of the European Commission or a ruling by the Court of Justice of the European Union requiring that the RoL (specifically) or (more generally) the European Union Member States withdraw from the New York Convention or otherwise ruling that its existence is not in accordance with European Union principles;
 
 
-2.8.2      and except where another international instrument or applicable Law applies or is brought into effect in the Republic of Lithuania (before, at the same time as or not later than a reasonable period following, withdrawal from or denouncement of the New York Convention and in any event not later than the earlier of (i) three (3) Months following service of a notice on the RoL by the PCO that the Shareholders are prepared to take FID and (ii) 30 June 2015) and: ^fb7a63cc10ac73ef9836a936
+2.8.2      and except where another international instrument or applicable Law applies or is brought into effect in the Republic of Lithuania (before, at the same time as or not later than a reasonable period following, withdrawal from or denouncement of the New York Convention and in any event not later than the earlier of (i) three (3) Months following service of a notice on the RoL by the PCO that the Shareholders are prepared to take FID and (ii) 30 June 2015) and: ^s-c38d17f9c742aee7fd0967e0
 (A)      where such international instrument or applicable Law can reasonably be considered to fulfil a substantially similar purpose as the New York Convention; or
 (B)       if such treaty, protocol, agreement, convention or applicable Law fulfils more than one purpose, it contains provisions which can reasonably be considered together to fulfil a substantially similar purpose as the New York Convention or which otherwise is considered by the parties to the replacement international instrument to replace or supersede the New York Convention,
 (and such international instrument or applicable Law, in the case of either 1.4.2(A) or 1.4.2(B), shall be a "New York Convention Replacement"),
 and where such withdrawal, denouncement, material amendment, repeal or invalidity shall be a Pre-FID Fundamental Change from the earlier of the date on which the New York Convention ceases to be applicable in, or in respect of, the Republic of Lithuania or the date on which the repeal, material amendment or invalidity occurred.
 
 
-2.9       Negative Decision on Nuclear Power ^bd1751d2d9c18e13fc7b6988
+2.9       Negative Decision on Nuclear Power ^s-fa060fd727706a62f649ddae
 A negative decision on nuclear power, being:
 
 
-2.9.1      a declaration by the RoL of a moratorium on nuclear power, where "moratorium on nuclear power" means where the RoL declares a moratorium on the generation of nuclear power which relates to the Visaginas NNPP and which is directly and primarily as a result of a decision of the Parliament of the Republic of Lithuania and provided that: ^34238a811b6c06360c2bc50a
+2.9.1      a declaration by the RoL of a moratorium on nuclear power, where "moratorium on nuclear power" means where the RoL declares a moratorium on the generation of nuclear power which relates to the Visaginas NNPP and which is directly and primarily as a result of a decision of the Parliament of the Republic of Lithuania and provided that: ^s-298d842ff76fa39975f65c47
 (A)      such moratorium did not relate, to nor was as a result of:
 (1)       any negligent act or omission, default or breach of the PCO of any of its obligations under this Concession Agreement and/or any applicable Law (as applicable); or
 (2)       a European or international decision to close nuclear power stations of the advanced boiling water reactor type; and/or
 (B)       no Regulator has rejected the PCO's nuclear safety case prior to the relevant decision being taken.
 
 
-2.9.2      the result of any referendum held in the Republic of Lithuania that: ^f82c95674b3fd4af55de096d
+2.9.2      the result of any referendum held in the Republic of Lithuania that: ^s-1f13c805cd28d6fcd483874f
 (A)      is to any extent in relation to civilian nuclear power;
 (B)       is to any extent in relation to the storage and disposal of nuclear waste (including spent nuclear fuel);
 (C)       refers to or affects the Visaginas Nuclear Power Plant, the Project or the Concession;
@@ -3912,41 +3917,41 @@ A negative decision on nuclear power, being:
 and would or could reasonably be expected to have (if the President or Parliament were to act or not act in accordance with the outcome of the referendum) a material and adverse effect on the Project, the timely performance of the Concession, and/or the likelihood of a positive FID occurring.
 
 
-3.         Exclusions from Pre-FID FUndamental Changes ^43eb32d3efd040417c60572f
+3.         Exclusions from Pre-FID FUndamental Changes ^s-82c03a6628f84117ce25e6ff
 
 
-3.1       Notwithstanding Paragraph 1 of this Schedule 8 (Fundamental Change), any of the changes in circumstance referred to in Paragraph 1 above (other than Paragraph 1.5) shall not be a Pre-FID Fundamental Change: ^8a9f805b93e92b496158257d
+3.1       Notwithstanding Paragraph 1 of this Schedule 8 (Fundamental Change), any of the changes in circumstance referred to in Paragraph 1 above (other than Paragraph 1.5) shall not be a Pre-FID Fundamental Change: ^s-fdaba30f308ef08fa60bbd0e
 
 
-3.1.1      if the change requires the same or equivalent action as a change in applicable Law or technical, security or safety requirements in another nuclear installation state that affects the generic reactor design to be used in the Project, taking into account the siting of the Project; ^bf39e3e8bbbcefba626fcd59
+3.1.1      if the change requires the same or equivalent action as a change in applicable Law or technical, security or safety requirements in another nuclear installation state that affects the generic reactor design to be used in the Project, taking into account the siting of the Project; ^s-44a7e92801275114396f4b2b
 
 
-3.1.2      where any such change transposes or implements into Law in the Republic of Lithuania or otherwise brings or is a consequence of bringing into force and effect (i) the agreed principles in relation to waste and decommissioning in Schedule 6 (Decommissioning and Waste Funding Principles); (ii) the Vienna Protocol; (iii) the Convention on Supplementary Compensation; and/or (iv) any change associated with the design, construction or maintenance of the Access Road and/or with national sources of project financing; ^7c342a0fbe8552d2c09ae27f
+3.1.2      where any such change transposes or implements into Law in the Republic of Lithuania or otherwise brings or is a consequence of bringing into force and effect (i) the agreed principles in relation to waste and decommissioning in Schedule 6 (Decommissioning and Waste Funding Principles); (ii) the Vienna Protocol; (iii) the Convention on Supplementary Compensation; and/or (iv) any change associated with the design, construction or maintenance of the Access Road and/or with national sources of project financing; ^s-7319a142d387dcaea0cc2f25
 
 
-3.1.3      where any such change, the draft of which, seven (7) Calendar Days or more prior to the Concession Date, is published on the website of any of the Parliament of the Republic of Lithuania, the Government of the Republic of Lithuania, any Ministry, or any Regulator and such change is transposed or implemented into Law in substantially the same way as published; ^5f15b34c4b7a5450ac60632d
+3.1.3      where any such change, the draft of which, seven (7) Calendar Days or more prior to the Concession Date, is published on the website of any of the Parliament of the Republic of Lithuania, the Government of the Republic of Lithuania, any Ministry, or any Regulator and such change is transposed or implemented into Law in substantially the same way as published; ^s-d07b18e2c929eae56af3d265
 
 
-3.1.4      any change which transposes or implements into national law, or otherwise gives effect to: ^e8b96706959e89bcc918b26b
+3.1.4      any change which transposes or implements into national law, or otherwise gives effect to: ^s-c60df069497ba2dbf39eab7e
 (A)      any laws, directives, regulations, decisions, standards or requirements which are required under relevant European Union law or required or recommended under international law ("Transnational Laws"); or
 (B)       any requirements, principles, standards or guidelines produced and/or published by the IAEA, WENRA, ENSREG or EURATOM or any other institution which can reasonably be considered to have replaced the IAEA, WENRA, ENSREG or EURATOM ("Principles, Standards or Guidelines"),
 where such change, together with any other applicable Law, can reasonably be regarded as reflecting all or part of the purpose of the relevant Transnational Laws and/or Principles, Standards or Guidelines;
 
 
-3.1.5      any change which transposes or implements into national law, or otherwise gives effect to any laws, directives, regulations, decisions, standards or requirements which are recommended by any European Union institution ("Recommended Measure(s)"): ^87ed2ef85ebd12ef5ace7daa
+3.1.5      any change which transposes or implements into national law, or otherwise gives effect to any laws, directives, regulations, decisions, standards or requirements which are recommended by any European Union institution ("Recommended Measure(s)"): ^s-dbbea1bf2765184ce794c895
 (A)      where such change can reasonably be considered to reflect all, or part of, the purpose of the Recommended Measure(s) and is reasonably proportionate to, or not substantially more onerous than, the Recommended Measure(s) having regard to:
 (1)       the Project, including the status, technology and siting of the Project; and
 (2)       generally applicable standards in the European Union; and/or
 (B)       where such change can reasonably be considered to reflect all, or part of, the purpose of the Recommended Measure(s) and the manner in which any such Recommended Measure has been implemented in respect of any other European Union nuclear installation and/or implemented or transposed into, or otherwise brought into effect under, the law of any other Member State; or
 
 
-3.1.6      if and to the extent that the change arises out of a breach by the PCO of any of its obligations under this Concession Agreement, applicable Law or a breach by the PCO or the EPC Contractor of any of their obligations under any relevant Ancillary Contract or applicable Law or any other act or omission of the PCO or the EPC Contractor. ^ecc70f3b7d662fa76e3908e3
+3.1.6      if and to the extent that the change arises out of a breach by the PCO of any of its obligations under this Concession Agreement, applicable Law or a breach by the PCO or the EPC Contractor of any of their obligations under any relevant Ancillary Contract or applicable Law or any other act or omission of the PCO or the EPC Contractor. ^s-9c6885589499d37f3607e0be
 
 
-3.2       Notwithstanding Paragraph 1.1 of this Schedule 8 (Fundamental Change), Paragraph 1.1 shall not apply to any articles of the Laws referred to at Paragraphs 1.1.1 or 1.1.2 that have not come into force and effect within the Republic of Lithuania unless and until any such article has come into force and effect within the Republic of Lithuania. ^92f4da59b2db8c43d47ef249
+3.2       Notwithstanding Paragraph 1.1 of this Schedule 8 (Fundamental Change), Paragraph 1.1 shall not apply to any articles of the Laws referred to at Paragraphs 1.1.1 or 1.1.2 that have not come into force and effect within the Republic of Lithuania unless and until any such article has come into force and effect within the Republic of Lithuania. ^s-4137fa595d5a544c74ea3593
 
 
-4.         Effect of Replacement Specified Nuclear Treaty, Replacement Energy Charter Treaty or REplacement New York Convention ^19bf0b3c0bc1bae591456161
+4.         Effect of Replacement Specified Nuclear Treaty, Replacement Energy Charter Treaty or REplacement New York Convention ^s-97e47f3978ef119ab1683183
 If a Specified Nuclear Treaty Replacement, Energy Charter Treaty Replacement and/or New York Convention Replacement is in force in or with respect to the RoL (each a "Replacement Measure"), Paragraphs 1.2 (Withdrawal or denouncement from specified nuclear treaties), 1.3 (Withdrawal or denouncement from the Energy Charter Treaty) or 1.4 (Withdrawal or denouncement from the New York Convention) of this Schedule 8 (Fundamental Change), as applicable, shall be deemed to refer, mutatis mutandis, to the relevant Replacement Measure to the extent that such Replacement Measure, or any provisions together therein, can reasonably be considered to fulfil a substantially similar purpose to the international instrument replaced and the relevant Paragraph shall be deemed no longer to refer to the international instrument replaced by the Replacement Measure.
 
 
@@ -4140,7 +4145,7 @@ ir
 
 TURINYS
 
-[[#^0fe89fba30eb652abd8febd3|1 DALIS]]: ĮŽANGINĖS NUOSTATOS IR TERMINAS..................................................... 117
+1 DALIS: ĮŽANGINĖS NUOSTATOS IR TERMINAS..................................................... 117
 
 
 1......... SĄVOKOS IR JŲ AIŠKINIMAS............................................................................. 117
@@ -4165,29 +4170,29 @@ TURINYS
 
 
 8......... AKCININKŲ SUTARTIES PAKEITIMAI............................................................. 125
-[[#^550911fc1230b3afb9ca7c3b|2 DALIS]]: PB AKCIJŲ DALYS............................................................................................ 126
+2 DALIS: PB AKCIJŲ DALYS............................................................................................ 126
 
 
 9......... PB AKCIJŲ DALYS................................................................................................. 126
-[[#^dc365b005e4c349542e6d21e|3 DALIS]]: BENDRIEJI ĮSIPAREIGOJIMAI....................................................................... 127
+3 DALIS: BENDRIEJI ĮSIPAREIGOJIMAI....................................................................... 127
 
 
 10....... UŽSAKOMIEJI DARBAI IR SUBRANGA........................................................... 127
-[[#^b787d5808d3aad996823b23d|4 DALIS]]: PROJEKTO VALDYMAS................................................................................... 128
+4 DALIS: PROJEKTO VALDYMAS................................................................................... 128
 
 
 11....... ATASKAITOS IR STEBĖSENA.............................................................................. 128
 
 
 12....... REGULIAVIMO SISTEMA..................................................................................... 130
-[[#^bfae8f8c42a4a86ea4ee197b|5 DALIS]]: KONFIDENCIALUMAS IR VIEŠUMAS......................................................... 131
+5 DALIS: KONFIDENCIALUMAS IR VIEŠUMAS......................................................... 131
 
 
 13....... KONFIDENCIALUMAS.......................................................................................... 131
 
 
 14....... VIEŠUMAS............................................................................................................... 136
-[[#^cb85d012b0421f3bda0fa59f|6 DALIS]]: BRANDUOLINĖ ATSAKOMYBĖ IR DRAUDIMAS..................................... 137
+6 DALIS: BRANDUOLINĖ ATSAKOMYBĖ IR DRAUDIMAS..................................... 137
 
 
 15....... BRANDUOLINĖS ŽALOS ATLYGINIMAS........................................................ 137
@@ -4196,7 +4201,7 @@ TURINYS
 16....... ATSAKOMYBĖ........................................................................................................ 137
 17....... NUOSTOLIŲ ATLYGINIMAS YRA NEPAKANKAMA KOMPENSACIJA IR TURI BŪTI TAIKOMOS TEISIŲ GYNIMO PRIEMONĖS PAGAL teisingumą............. 143
 18....... DRAUDIMAS........................................................................................................... 143
-[[#^ccfa7ff1ba3cf3521cfb9ba5|7 DALIS]]: NUTRAUKIMAS................................................................................................. 144
+7 DALIS: NUTRAUKIMAS................................................................................................. 144
 19....... 19–26 PUNKTŲ TAIKYMAS: NUTRAUKIMAS.................................................. 144
 20....... LR ĮVYKIS................................................................................................................ 146
 
@@ -4217,7 +4222,7 @@ TURINYS
 
 
 26....... LR ĮVYKIS. PRIVALOMASIS AKCIJŲ PERLEIDIMAS................................... 154
-[[#^4e4266591888c67769c31c41|8 DALIS]]: BENDROSIOS NUOSTATOS............................................................................ 158
+8 DALIS: BENDROSIOS NUOSTATOS............................................................................ 158
 
 
 27....... TOLESNIS GALIOJIMAS, TEISĖS IR ĮSIPAREIGOJIMAI................................ 158
@@ -4300,110 +4305,110 @@ toliau atskirai vadinamos „Šalimi“ arba kartu – „Šalimis“.
 
 PREAMBULĖ
 (A)      2007 m. sausio 18 d. Lietuvos nacionalinėje energetikos strategijoje LR dar kartą patvirtino ilgalaikį Lietuvos Respublikos įsipareigojimą plėtoti branduolinės energijos gamybą. Vienas iš strateginių Lietuvos Respublikos tikslų yra naujos atominės elektrinės statyba ir komercinės eksploatacijos pradžia.
-(A)      Vadovaudamasi Lietuvos Respublikos koncesijų įstatymu, EM LR vardu surengė atvirą konkursą, siekdama atrinkti strateginį investuotoją į naujosios atominės elektrinės projektą įgyvendinančią bendrovę, kuri vystys, statys, eksploatuos naująją atominę elektrinę ir nutrauks jos eksploatavimą. 2009 m. gruodžio 10 d. ES Oficialiajame leidinyje buvo paskelbtas pranešimas apie konkursą (Nr. 2009/S 236-338047). Konkursas baigėsi 2011 m. sausio 3 d., kai ūkio subjektas, įvardytas kaip potencialus konkurso laimėtojas, pasitraukė iš konkurso, o daugiau tinkamų pasiūlymų pateikta nebuvo. EM, veikdama LR vardu (kaip Koncesiją suteikiančioji institucija) ir vadovaudamasi Koncesijų įstatymu, priėmė sprendimą (įsigaliojusį 2011 m. sausio 14 d.) pradėti tiesiogines derybas su potencialiais strateginiais investuotojais.
+(A)      Vadovaudamasi [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymu]], EM LR vardu surengė atvirą konkursą, siekdama atrinkti strateginį investuotoją į naujosios atominės elektrinės projektą įgyvendinančią bendrovę, kuri vystys, statys, eksploatuos naująją atominę elektrinę ir nutrauks jos eksploatavimą. 2009 m. gruodžio 10 d. ES Oficialiajame leidinyje buvo paskelbtas pranešimas apie konkursą (Nr. 2009/S 236-338047). Konkursas baigėsi 2011 m. sausio 3 d., kai ūkio subjektas, įvardytas kaip potencialus konkurso laimėtojas, pasitraukė iš konkurso, o daugiau tinkamų pasiūlymų pateikta nebuvo. EM, veikdama LR vardu (kaip Koncesiją suteikiančioji institucija) ir vadovaudamasi [[latest/TAR.6A449FCC534B|Koncesijų įstatymu]], priėmė sprendimą (įsigaliojusį 2011 m. sausio 14 d.) pradėti tiesiogines derybas su potencialiais strateginiais investuotojais.
 (B)       Vykdant tiesiogines derybas buvo surengta atvira konkurencinė procedūra taikant tuos pačius kvalifikacinius ir vertinimo reikalavimus kaip ir ankstesniame konkurse. Įvertinus pasiūlymus, pateiktus vykdant tiesiogines derybas, Strateginio investuotojo vardu „Hitachi, Ltd.“ pateiktas pasiūlymas buvo pripažintas ekonomiškai naudingiausiu, todėl „Hitachi, Ltd.“ ir Lietuvos Respublika, atstovaujama EM, sudarė išimtinį susitarimą, pagal kurį „Hitachi, Ltd.“ buvo suteikta išimtinė teisė derėtis dėl sąlygų, kuriomis Strateginis investuotojas dalyvautų ir investuotų į koncesininkę, kuri yra projektą įgyvendinanti bendrovė (PB). LR ir Strateginis investuotojas dėl šios Koncesijos sutarties derėjosi pagal minėto išimtinio susitarimo sąlygas. Buvo susitarta, kad, vadovaujantis šios Koncesijos sutarties sąlygomis, Strateginiam investuotojui arba vienai ar kelioms su juo Susijusioms bendrovėms, kurias paskirs Strateginis investuotojas, bus suteikta teisė: 1) su PB sudaryti EPC rangos sutartį dėl 1350 MW (bendrasis) klasės pažangiojo verdančio vandens reaktoriaus vystymo ir statybos laikantis ir nepažeidžiant EPC rangos sutarties sąlygų („Visagino nauja atominė elektrinė“ arba „NAE“); ir, 2) jeigu pagal šios Koncesijos sutarties sąlygas to paprašys PB (ir tai bus įmanoma pagal O&M pagalbinių paslaugų sąlygas), pagal O&M pagalbinių paslaugų sutartį teikti NAE eksploatacijos ir priežiūros paslaugas ir (arba), jeigu pagal šios Koncesijos sutarties sąlygas to paprašys PB (ir tai bus įmanoma pagal Branduolinio kurio tiekimo sąlygas), pagal Kuro tiekimo sutartį tiekti NAE branduolinį kurą ir teikti susijusias paslaugas.
 (C)       LR, Strateginis investuotojas ir PB dėl šios Koncesijos sutarties susitarė vykdydamos tiesiogines derybas, o LR suteikia Koncesiją PB vadovaudamasi šios Koncesijos sutarties sąlygomis tikėdamasi, kad toks suteikimas padės Lietuvos Respublikai integruoti jos elektros energijos perdavimo sistemas į kontinentinės Europos perdavimo tinklą bei padidins Lietuvos Respublikos pagrindinių energijos išteklių įvairovę, pagerins Lietuvos Respublikos energijos tiekimo saugumą, prisidės ir didins pagrindinių energijos išteklių įvairovę visame Baltijos regione (kaip nurodoma bendrame Lietuvos, Latvijos, Estijos ir Lenkijos ministrų pranešime, pasirašytame 2010 m. gegužės 31 d., dalyvaujant Europos Komisijai).
-(D)      Vadovaudamasi Koncesijų įstatymu ir šios Koncesijos sutarties sąlygomis, LR suteikia teisę PB, o PB įsipareigoja, kiekvienu atveju laikantis šioje Koncesijos sutartyje nustatytų sąlygų, projektuoti, finansuoti, vystyti, statyti, testuoti, pradėti eksploataciją, eksploatuoti, prižiūrėti Visagino naują atominę elektrinę ir nutraukti jos eksploataciją Statybvietėje (įskaitant darbus ir paslaugas pagal Papildomas sutartis ar kitas sutartis) („Koncesija“).
+(D)      Vadovaudamasi [[latest/TAR.6A449FCC534B|Koncesijų įstatymu]] ir šios Koncesijos sutarties sąlygomis, LR suteikia teisę PB, o PB įsipareigoja, kiekvienu atveju laikantis šioje Koncesijos sutartyje nustatytų sąlygų, projektuoti, finansuoti, vystyti, statyti, testuoti, pradėti eksploataciją, eksploatuoti, prižiūrėti Visagino naują atominę elektrinę ir nutraukti jos eksploataciją Statybvietėje (įskaitant darbus ir paslaugas pagal Papildomas sutartis ar kitas sutartis) („Koncesija“).
 (E)       Pagal Koncesijų įstatymą PB visais atžvilgiais laikytina koncesininke.
 (F)       Strateginis investuotojas ir Lietuvos investuotojas su Regioniniais partneriais taip pat suderino Akcininkų sutartį dėl jų dalyvavimo Projekte ir investicijų į PB. Numatoma, kad per Sutarties galiojimo terminą gali atsirasti Trečiosios šalies investuotojų, kurie bus pristatyti, patvirtinti ir įgys Akcijų vadovaujantis šios Koncesijos sutarties ir Akcininkų sutarties sąlygomis.
 (G)      Šia sutartimi Strateginis investuotojas įsipareigoja investuoti į PB vadovaujantis Akcininkų sutarties sąlygomis ir vykdyti savo įsipareigojimus pagal šią Koncesijos sutartį.
 
 
 ŠALYS SUSITARIA:
-[[#^0fe89fba30eb652abd8febd3|1 DALIS]]: ĮŽANGINĖS NUOSTATOS IR TERMINAS
+1 DALIS: ĮŽANGINĖS NUOSTATOS IR TERMINAS
 
 
-1.         SĄVOKOS IR JŲ AIŠKINIMAS ^9d220624ae6dd46494964ad4
+1.         SĄVOKOS IR JŲ AIŠKINIMAS ^s-a05a4d9f5687a2e5b9f4706b
 
 
-1.1       Sąvokos ^54952d1e1995c7778b9e0c46
+1.1       Sąvokos ^s-40d809cd56a0c12286823caf
 Jeigu šioje Koncesijos sutartyje nenustatyta kitaip, šioje Koncesijos sutartyje vartojamos sąvokos yra apibrėžtos 1 Priedėlyje (Sąvokos).
 
 
-1.2       Aiškinimas ^b06c089fdc8f10a0d711a9b9
+1.2       Aiškinimas ^s-723ee0eca61e7a4b649d10ce
 Šioje Koncesijos sutartyje, išskyrus tuos atvejus, kai kitaip reikalauja jos kontekstas ar aiškios nuostatos:
 
 
-1.2.1            nepažeidžiant Esminių pakeitimų iki GIS, arba 29 punkto (Nenugalima jėga) (įskaitant Nenugalimos jėgos įvykio sąvoką) nuostatų taikymo, nuoroda į bet kurį įstatymą, kodeksą, norminį aktą, taisykles, įstatymų nuostatą ar poįstatyminį teisės aktą apima nuorodą į bet kurį įstatymą, kodeksą, taisyklę, įsakymą, nuostatus, aktą ar poįstatyminį teisės aktą, priimtą remiantis šiuo norminiu aktu ar įstatymų nuostata, ir yra nuoroda į tą įstatymą, kodeksą, taisyklę, norminį aktą, įstatymų nuostatą ar poįstatyminį teisės aktą, kuris gali būti pildomas, konsoliduojamas, taisomas, priimamas pakartotinai ar pakeičiamas; ^66d8b075cc19fdf69cb93010
+1.2.1            nepažeidžiant Esminių pakeitimų iki GIS, arba 29 punkto (Nenugalima jėga) (įskaitant Nenugalimos jėgos įvykio sąvoką) nuostatų taikymo, nuoroda į bet kurį įstatymą, kodeksą, norminį aktą, taisykles, įstatymų nuostatą ar poįstatyminį teisės aktą apima nuorodą į bet kurį įstatymą, kodeksą, taisyklę, įsakymą, nuostatus, aktą ar poįstatyminį teisės aktą, priimtą remiantis šiuo norminiu aktu ar įstatymų nuostata, ir yra nuoroda į tą įstatymą, kodeksą, taisyklę, norminį aktą, įstatymų nuostatą ar poįstatyminį teisės aktą, kuris gali būti pildomas, konsoliduojamas, taisomas, priimamas pakartotinai ar pakeičiamas; ^s-addabc3a3038a181e88d935a
 
 
-1.2.2            žodžiai, reiškiantys vienaskaitą, apima ir daugiskaitą, ir atvirkščiai; ^a2e5ebe56a7a8968a635bf71
+1.2.2            žodžiai, reiškiantys vienaskaitą, apima ir daugiskaitą, ir atvirkščiai; ^s-34a00eb9951076d1bfd7a0ad
 
 
-1.2.3            nuorodos į vieną giminę apima nuorodas ir į kitą giminę; ^b571f5606d54cfecfd3fdc5d
+1.2.3            nuorodos į vieną giminę apima nuorodas ir į kitą giminę; ^s-03d2de5a0478146b94c0c9f7
 
 
-1.2.4            nuoroda į „asmenį“ apima nuorodą į fizinį asmenį, įmonę, juridinį asmenį, neregistruotiną asociaciją, ministeriją, valstybės organą, valstybės instituciją, agentūrą, partnerystę ar individualius vykdytojus ar administratorius; ^c7af081e0ad992f418e0ea3a
+1.2.4            nuoroda į „asmenį“ apima nuorodą į fizinį asmenį, įmonę, juridinį asmenį, neregistruotiną asociaciją, ministeriją, valstybės organą, valstybės instituciją, agentūrą, partnerystę ar individualius vykdytojus ar administratorius; ^s-22850d302e05d4407eef3574
 
 
-1.2.5            nuoroda į šią Koncesijos sutartį apima jos priedėlius (ir jų priedėlius, priedus ar papildymus), kurių kiekvienas yra laikomas šios Koncesijos sutarties dalimi; ^cbb501cee21c452a126d0942
+1.2.5            nuoroda į šią Koncesijos sutartį apima jos priedėlius (ir jų priedėlius, priedus ar papildymus), kurių kiekvienas yra laikomas šios Koncesijos sutarties dalimi; ^s-07ff7e45fdda28ed09daed5f
 
 
-1.2.6            nuoroda į punktą, papunktį ar priedėlį (išskyrus nuorodą į teisės akto priedėlį) yra laikoma nuorodą į šios Koncesijos sutarties punktą, papunktį arba prie šios Sutarties esantį priedėlį (pagal aplinkybes), ir visos nuorodos į dalis, skyrius, paragrafus, papildymus ir priedus yra nuorodos į šių priedėlių dalis, skyrius, paragrafus ir priedus; ^b8c593d92a1563a0cff50b41
+1.2.6            nuoroda į punktą, papunktį ar priedėlį (išskyrus nuorodą į teisės akto priedėlį) yra laikoma nuorodą į šios Koncesijos sutarties punktą, papunktį arba prie šios Sutarties esantį priedėlį (pagal aplinkybes), ir visos nuorodos į dalis, skyrius, paragrafus, papildymus ir priedus yra nuorodos į šių priedėlių dalis, skyrius, paragrafus ir priedus; ^s-162732cb2e20c3599f10a193
 
 
-1.2.7            jei laikotarpis nurodomas nuo ar po konkrečios Kalendorinės ar Darbo dienos arba per tam tikrą laikotarpį nuo konkrečios Kalendorinės ar Darbo dienos arba nuo ar po veiksmo ar įvykio Kalendorinės ar Darbo dienos arba per tam tikrą laikotarpį nuo veiksmo ar įvykio Kalendorinės ar Darbo dienos, jis apskaičiuojamas neįtraukiant šios Kalendorinės ar Darbo dienos; ^8c352154f6729817d71faf59
+1.2.7            jei laikotarpis nurodomas nuo ar po konkrečios Kalendorinės ar Darbo dienos arba per tam tikrą laikotarpį nuo konkrečios Kalendorinės ar Darbo dienos arba nuo ar po veiksmo ar įvykio Kalendorinės ar Darbo dienos arba per tam tikrą laikotarpį nuo veiksmo ar įvykio Kalendorinės ar Darbo dienos, jis apskaičiuojamas neįtraukiant šios Kalendorinės ar Darbo dienos; ^s-8f5a03ed0a3f812a73aa17bd
 
 
-1.2.8            nuorodos į terminus anglų kalba, reiškiančius veiką, teisės gynimo būdą, teisminį nagrinėjimą, teisinį dokumentą, teisinį statusą, teismą, oficialią ar teisinę sąvoką ar daiktą kitoje, nei Anglijos jurisdikcijoje, apima artimiausią prasminį terminą anglų kalba, naudojamą toje jurisdikcijoje ir nuorodos į angliškas teisės normas ar teisės aktus (išskyrus nuorodas į 2006 m. Bendrovių įstatymą 31 punkte (Akcijų perleidimo ir kontrolės pasikeitimo apribojimai) laikomos apimančiomis lygiaverčius ar analogiškus įstatymus ar taisykles kitose jurisdikcijose; ^4c66edaa3e6b05d9c8bbb75c
+1.2.8            nuorodos į terminus anglų kalba, reiškiančius veiką, teisės gynimo būdą, teisminį nagrinėjimą, teisinį dokumentą, teisinį statusą, teismą, oficialią ar teisinę sąvoką ar daiktą kitoje, nei Anglijos jurisdikcijoje, apima artimiausią prasminį terminą anglų kalba, naudojamą toje jurisdikcijoje ir nuorodos į angliškas teisės normas ar teisės aktus (išskyrus nuorodas į 2006 m. Bendrovių įstatymą 31 punkte (Akcijų perleidimo ir kontrolės pasikeitimo apribojimai) laikomos apimančiomis lygiaverčius ar analogiškus įstatymus ar taisykles kitose jurisdikcijose; ^s-e2723b8e8ff50d01da857d0d
 
 
-1.2.9            nuorodos į raštu pateikiamus tekstus apima visus skaitomus žodžių atgaminimo būdus, tačiau neapima elektroninio pašto, išskyrus atvejus, kai tai leidžiama pagal 33.2.1 punktą (Pranešimai elektroniniu paštu); ^fab563b3a27b3ca281c997eb
+1.2.9            nuorodos į raštu pateikiamus tekstus apima visus skaitomus žodžių atgaminimo būdus, tačiau neapima elektroninio pašto, išskyrus atvejus, kai tai leidžiama pagal 33.2.1 punktą (Pranešimai elektroniniu paštu); ^s-bb5a94f5cde67eed96088262
 
 
-1.2.10          nuoroda į „apima“ ar „įskaitant“ reiškia „apima be apribojimų“ arba „įskaitant be apribojimų“; ^fcec3393dc1bab3435a5f1ec
+1.2.10          nuoroda į „apima“ ar „įskaitant“ reiškia „apima be apribojimų“ arba „įskaitant be apribojimų“; ^s-c55911ad81f31575f691c013
 
 
-1.2.11          turinys, skyrių ir poskyrių pavadinimai šioje Koncesijos sutartyje yra pateikiami tik dėl patogumo ir į juos nebus atsižvelgiama aiškinant ar vertinant šią Koncesijos sutartį ^67508e7a59be9f82120f083e
+1.2.11          turinys, skyrių ir poskyrių pavadinimai šioje Koncesijos sutartyje yra pateikiami tik dėl patogumo ir į juos nebus atsižvelgiama aiškinant ar vertinant šią Koncesijos sutartį ^s-910175f4cda076b206e487e7
 
 
-1.2.12          nuorodos į šią „Koncesijos sutartį“ (ar „šią Sutartį“) apima nuorodas į šios Koncesijos sutarties pakeitimus ir papildymus, kurie padaryti laikantis joje numatytų sąlygų; ^1f161bbc43c46b3b39e2cf49
+1.2.12          nuorodos į šią „Koncesijos sutartį“ (ar „šią Sutartį“) apima nuorodas į šios Koncesijos sutarties pakeitimus ir papildymus, kurie padaryti laikantis joje numatytų sąlygų; ^s-1342f65a671739c35abe9368
 
 
-1.2.13          šios Sutarties nuorodos į bet kokią sutartį, procedūrą, dokumentą ar kitą aktą (išskyrus numatytus 1.2.1 punkte (Aiškinimas)) yra suprantamos kaip nuorodos į minėtą sutartį, procedūrą, dokumentą ar aktą, kuris yra redaguojamas, papildomas, keičiamas, išdėstomas naujai ar perleistas; ^a2c2c1c6c3d17d524ad0a152
+1.2.13          šios Sutarties nuorodos į bet kokią sutartį, procedūrą, dokumentą ar kitą aktą (išskyrus numatytus 1.2.1 punkte (Aiškinimas)) yra suprantamos kaip nuorodos į minėtą sutartį, procedūrą, dokumentą ar aktą, kuris yra redaguojamas, papildomas, keičiamas, išdėstomas naujai ar perleistas; ^s-acbda13c2060bd474d8ebb27
 
 
-1.2.14          bet kokia nuoroda į viešąją organizaciją ar įstaigą apima nuorodą į šios viešosios organizacijos ar įstaigos funkcijų perėmėją ar bet kokią organizaciją ar subjektą, kuris perima šios viešosios organizacijos ar įstaigos funkcijas ir atsakomybę ^5e1185629e95014c4774784b
+1.2.14          bet kokia nuoroda į viešąją organizaciją ar įstaigą apima nuorodą į šios viešosios organizacijos ar įstaigos funkcijų perėmėją ar bet kokią organizaciją ar subjektą, kuris perima šios viešosios organizacijos ar įstaigos funkcijas ir atsakomybę ^s-e2107cca23371896f4316b1e
 
 
-1.2.15          visos piniginės sumos yra nurodomos eurais; ^4b7219c67aba82fe436df1f5
+1.2.15          visos piniginės sumos yra nurodomos eurais; ^s-68d691feb94210961089da48
 
 
-1.2.16          šios Koncesijos sutarties nuorodos į sutikimą ar patvirtinimą pareiškiančią Šalį reiškia nuorodą į išankstinį rašytinį sutikimą ar patvirtinimą ^8f58a74ac1c19a5ecf810ba8
+1.2.16          šios Koncesijos sutarties nuorodos į sutikimą ar patvirtinimą pareiškiančią Šalį reiškia nuorodą į išankstinį rašytinį sutikimą ar patvirtinimą ^s-7e4531b9abd951a2a56b70be
 
 
-1.2.17          nuoroda į „Statybvietę“ apima visas Statybvietės dalis; ir ^323a83bb12581d12f5c394f5
+1.2.17          nuoroda į „Statybvietę“ apima visas Statybvietės dalis; ir ^s-9828aa7f5a8aedc0ebc726e7
 
 
-1.2.18          „atsakomybė“ reiškia bet kokią atsakomybę, kylančią iš reikalavimo dėl prisidėjimo, ar pagal įstatymą, delikto (įskaitant, bet ne tik, atsakomybę dėl neatsargumo), sutartį, griežtą atsakomybę, ar kitaip (išskyrus tai, kad visos išimtys ar atsakomybės apribojimai netaikomi esant apgaulei); sąvoka „atsakingas“ aiškinamas atitinkamai. ^f1a747ce03076f714ad4628a
+1.2.18          „atsakomybė“ reiškia bet kokią atsakomybę, kylančią iš reikalavimo dėl prisidėjimo, ar pagal įstatymą, delikto (įskaitant, bet ne tik, atsakomybę dėl neatsargumo), sutartį, griežtą atsakomybę, ar kitaip (išskyrus tai, kad visos išimtys ar atsakomybės apribojimai netaikomi esant apgaulei); sąvoka „atsakingas“ aiškinamas atitinkamai. ^s-1c455bce6afd5880122c2c22
 
 
-2.         KONCESIJOS SUTEIKIMAS IR TERMINAS ^c27114e6b4388e2d88252bfe
+2.         KONCESIJOS SUTEIKIMAS IR TERMINAS ^s-c9267431248cbf17bd9f9326
 
 
-2.1       Šalys patvirtina, kad, visoms Šalims sudarius šią Koncesijos sutartį, pasirašydama šią Koncesijos sutartį LR PB suteikia Koncesiją ir LR sutinka, kad iškart po to, kai šią Koncesijos sutartį pasirašys visos Šalys, EM LR vardu paskelbs pranešimą apie sprendimą sudaryti Koncesijos sutartį ir Koncesijos suteikimą patvirtins „Valstybės žiniose“, kaip to reikalaujama pagal Koncesijų įstatymo 19 straipsnį ^c6bdcdd72bab42eba847c61b
+2.1       Šalys patvirtina, kad, visoms Šalims sudarius šią Koncesijos sutartį, pasirašydama šią Koncesijos sutartį LR PB suteikia Koncesiją ir LR sutinka, kad iškart po to, kai šią Koncesijos sutartį pasirašys visos Šalys, EM LR vardu paskelbs pranešimą apie sprendimą sudaryti Koncesijos sutartį ir Koncesijos suteikimą patvirtins „Valstybės žiniose“, kaip to reikalaujama pagal [[latest/TAR.6A449FCC534B#^s-7d461f5af391e483c704eae9|Koncesijų įstatymo 19 straipsnį]] ^s-70faffbc170ac1fbd8417907
 
 
-2.2       Ši Koncesijos sutartis pradeda galioti Koncesijos dieną ir galioja visa apimtimi iki: ^5c9087aae5141fa09ceeb99a
+2.2       Ši Koncesijos sutartis pradeda galioti Koncesijos dieną ir galioja visa apimtimi iki: ^s-2370a5bd12d4e26890c4e225
 
 
-2.2.1      jeigu PB nuspręs vykdyti (arba užtikrinti) NAE eksploatacijos nutraukimą, Eksploatacijos nutraukimo etapo užbaigimo; arba ^39735402779e13ba2b285636
+2.2.1      jeigu PB nuspręs vykdyti (arba užtikrinti) NAE eksploatacijos nutraukimą, Eksploatacijos nutraukimo etapo užbaigimo; arba ^s-935f4e4392e9e1777252908d
 
 
-2.2.2      jeigu PB nuspręs nevykdyti (arba neužtikrinti) NAE eksploatacijos nutraukimo, Eksploatacijos nutraukimo etapo pradžios, ^1c9a995c95830f7e725f1047
+2.2.2      jeigu PB nuspręs nevykdyti (arba neužtikrinti) NAE eksploatacijos nutraukimo, Eksploatacijos nutraukimo etapo pradžios, ^s-5d6e275cb948b946677a5a0a
 (abiem atvejais Sutartį nutraukus anksčiau laiko pagal jos nuostatas) („Sutarties terminas“).
 
 
-3.         KONCESIJOS APIMTIS ^b4e833d2a13c6207a6d4120c
+3.         KONCESIJOS APIMTIS ^s-1045f22b6c12cd61841daad0
 
 
-3.1       Šalys patvirtina, kad kartu su Koncesijos suteikimu: ^404583eaaf6956f05cd82d20
+3.1       Šalys patvirtina, kad kartu su Koncesijos suteikimu: ^s-f5ba14ad653fbe8b03b373e0
 
 
-3.1.1      LR taip pat suteikia teisę PB ir Strateginiam investuotojui (atitinkamai) PB su EPC rangovu sudaryti EPC rangos sutartį; ir ^22ca88062d738af9604dfeea
+3.1.1      LR taip pat suteikia teisę PB ir Strateginiam investuotojui (atitinkamai) PB su EPC rangovu sudaryti EPC rangos sutartį; ir ^s-fef44ae11325cb44028a7401
 
 
-3.1.2      LR taip pat suteikia teisę PB ir Strateginiam investuotojui (atitinkamai): ^1915f3a5f6c93f7ead486708
+3.1.2      LR taip pat suteikia teisę PB ir Strateginiam investuotojui (atitinkamai): ^s-93a93dcbffea70a90f266b8f
 (A)      PB samdyti O&M pagalbinių paslaugų rangovą, kad šis pagal O&M pagalbinių paslaugų sutartį teiktų eksploatacijos ir priežiūros paslaugas; ir
 (B)       PB samdyti Branduolinio kuro tiekėją, kad šis pagal Kuro tiekimo sutartį tiektų branduolinį kurą ir teiktų susijusias paslaugas,
 ir
@@ -4412,117 +4417,117 @@ ir
 o PB ir Strateginiam investuotojui, arba PB, atitinkamai, nepasinaudojus savo teisėmis sudaryti O&M pagalbinių paslaugų sutartį ir (arba) Kuro tiekimo sutartį iki nurodytos dienos, teisė(s) sudaryti atitinkamą sutartį prarandama (-os).
 
 
-3.2       Šalys patvirtina, kad: ^df47d458b3863b5d5934a077
+3.2       Šalys patvirtina, kad: ^s-813cd8711779b233324a59a7
 
 
-3.2.1      pagal EPC rangos sutartį (arba kitą ją papildančią sutartį) EPC rangovas įsipareigoja arba užtikrina NAE projektavimą, vystymą, gamybą, tiekimą, statybą ir bandymą, padeda PB vadovaujantis EPC rangos sutarties sąlygomis pradėti NAE eksploataciją (taip pat pateikia tam tikras instrukcijas, atsargines dalis, pradinę branduolinio kuro įkrovą (jeigu reikia ir tokiomis sąlygomis) ir kitą branduolinį kurą (jeigu reikia ir tokiomis sąlygomis), kaip susitaria EPC rangos sutarties Šalys) pagal suderintas sąlygas arba EPC rangos sutartį; ^ab7650d7d31a3fa954bec5ee
+3.2.1      pagal EPC rangos sutartį (arba kitą ją papildančią sutartį) EPC rangovas įsipareigoja arba užtikrina NAE projektavimą, vystymą, gamybą, tiekimą, statybą ir bandymą, padeda PB vadovaujantis EPC rangos sutarties sąlygomis pradėti NAE eksploataciją (taip pat pateikia tam tikras instrukcijas, atsargines dalis, pradinę branduolinio kuro įkrovą (jeigu reikia ir tokiomis sąlygomis) ir kitą branduolinį kurą (jeigu reikia ir tokiomis sąlygomis), kaip susitaria EPC rangos sutarties Šalys) pagal suderintas sąlygas arba EPC rangos sutartį; ^s-b3b7487f2ea53281a3599896
 
 
-3.2.2      pagal O&M pagalbinių paslaugų sutartį O&M pagalbinių paslaugų rangovas teikia įvairias paslaugas padėdamas PB eksploatuoti ir prižiūrėti NAE (įskaitant personalo mokymą), tokiomis sąlygomis (ir už tokią kainą), kurios suderinamos O&M pagalbinių paslaugų sutartyje arba pagal ją; ir ^dfa38c4398b428027abbb695
+3.2.2      pagal O&M pagalbinių paslaugų sutartį O&M pagalbinių paslaugų rangovas teikia įvairias paslaugas padėdamas PB eksploatuoti ir prižiūrėti NAE (įskaitant personalo mokymą), tokiomis sąlygomis (ir už tokią kainą), kurios suderinamos O&M pagalbinių paslaugų sutartyje arba pagal ją; ir ^s-35248ed52f83ed635c5f466a
 
 
-3.2.3      pagal Kuro tiekimo sutartį Branduolinio kuro tiekėjas teikia įvairias su branduoliniu kuru susijusias paslaugas, kurios gali apimti urano įsigijimą, sodrinimą ir reaktoriaus branduolio projektavimo paslaugas, kuro strypų ir kuro rinklių gamybą, kuro rinklių pristatymą į Statybvietę, tokiomis sąlygomis ir už tokią kainą, kuri suderinama Kuro tiekimo sutartyje arba pagal ją. ^ef84b0ba13971794b66f1549
+3.2.3      pagal Kuro tiekimo sutartį Branduolinio kuro tiekėjas teikia įvairias su branduoliniu kuru susijusias paslaugas, kurios gali apimti urano įsigijimą, sodrinimą ir reaktoriaus branduolio projektavimo paslaugas, kuro strypų ir kuro rinklių gamybą, kuro rinklių pristatymą į Statybvietę, tokiomis sąlygomis ir už tokią kainą, kuri suderinama Kuro tiekimo sutartyje arba pagal ją. ^s-d99a82ed40674cdeb7a2824c
 
 
-3.3       Šalys patvirtina ir sutinka, kad LR taip pat gali, suderinusi su PB, Strateginiam investuotojui arba Strateginio investuotojo paskirtai su juo Susijusiai bendrovei (ar Susijusioms bendrovėms) (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“, būtinas išankstinis rašytinis LR sutikimas) suteikti papildomų sutarčių ar teisių teikti paslaugas PB, jeigu yra sudarytas rašytinis Strateginio investuotojo ir PB susitarimas. ^c8bc94703eac8570132f6e1e
+3.3       Šalys patvirtina ir sutinka, kad LR taip pat gali, suderinusi su PB, Strateginiam investuotojui arba Strateginio investuotojo paskirtai su juo Susijusiai bendrovei (ar Susijusioms bendrovėms) (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“, būtinas išankstinis rašytinis LR sutikimas) suteikti papildomų sutarčių ar teisių teikti paslaugas PB, jeigu yra sudarytas rašytinis Strateginio investuotojo ir PB susitarimas. ^s-1d2bec984c99b1003d5fea3f
 
 
-3.4       PB yra NAE, Statybvietės (nuo tos dienos, kurią ją pateikia Lietuvos investuotojas, kaip numatyta 7.1 punkte (LR įsipareigojimų pobūdis)) ir susijusios fizinės infrastruktūros ir kito turto, kurį sukuria PB, savininkė, išskyrus tuos atvejus, kai PB susitaria su Trečiąja šalimi arba Strateginiu investuotoju, kad atitinkamas turtas turi nuosavybės teise priklausyti šiai Trečiajai šaliai arba Strateginiam investuotojui, arba jeigu taikomuose Įstatymuose numatyta kitaip. PB taip pat yra elektros, kurią gamina NAE, savininkė, išskyrus tiek, kiek kitaip reikalaujama pagal taikomus Įstatymus. ^6069dbf1afaeb07fefcef6d5
+3.4       PB yra NAE, Statybvietės (nuo tos dienos, kurią ją pateikia Lietuvos investuotojas, kaip numatyta 7.1 punkte (LR įsipareigojimų pobūdis)) ir susijusios fizinės infrastruktūros ir kito turto, kurį sukuria PB, savininkė, išskyrus tuos atvejus, kai PB susitaria su Trečiąja šalimi arba Strateginiu investuotoju, kad atitinkamas turtas turi nuosavybės teise priklausyti šiai Trečiajai šaliai arba Strateginiam investuotojui, arba jeigu taikomuose Įstatymuose numatyta kitaip. PB taip pat yra elektros, kurią gamina NAE, savininkė, išskyrus tiek, kiek kitaip reikalaujama pagal taikomus Įstatymus. ^s-5eab5e9604cdad4cf1ada130
 
 
-4.         SANTYKIAI: Bendradarbiavimo PRINCIPAI ^b787d5808d3aad996823b23d
+4.         SANTYKIAI: Bendradarbiavimo PRINCIPAI ^s-e7431621e63187cb873e62f1
 
 
-4.1       Dirbdami kartu ir siekdami šios Koncesijos sutarties tikslų, LR, PB ir Strateginis investuotojas veikia laikydamiesi toliau nurodytų principų ir į juos atsižvelgdami: ^184d27c1bedc3f67ffb3c5c4
+4.1       Dirbdami kartu ir siekdami šios Koncesijos sutarties tikslų, LR, PB ir Strateginis investuotojas veikia laikydamiesi toliau nurodytų principų ir į juos atsižvelgdami: ^s-6b275142bf476839a9d3bff3
 
 
-4.1.1      dirbti kartu atviroje ir sąžiningoje aplinkoje, veikti bendradarbiaudami ir nepriešiškai (tačiau nepažeidžiant nei vienos Šalies teisės imtis veiksmų, kurie, jos manymu, yra būtini norint pasinaudoti arba apginti savo teises); ^d3fed2b2ab3e7c56fb48b99a
+4.1.1      dirbti kartu atviroje ir sąžiningoje aplinkoje, veikti bendradarbiaudami ir nepriešiškai (tačiau nepažeidžiant nei vienos Šalies teisės imtis veiksmų, kurie, jos manymu, yra būtini norint pasinaudoti arba apginti savo teises); ^s-7c422deae71090a38e886a48
 
 
-4.1.2      puoselėti patikimą saugos kultūrą; ^14106b1b9ccb115ad540186f
+4.1.2      puoselėti patikimą saugos kultūrą; ^s-b311f9808853b91ed6a071f9
 
 
-4.1.3      tiek, kiek tai leidžiama ir neprieštarauja taikomiems įstatymams, bendradarbiauti siekiant užtikrinti regiono sektorių atstovų (įskaitant Baltijos šalyse) pasirengimą dalyvauti Projekte; ^9da542856679b488cd0ae7d9
+4.1.3      tiek, kiek tai leidžiama ir neprieštarauja taikomiems įstatymams, bendradarbiauti siekiant užtikrinti regiono sektorių atstovų (įskaitant Baltijos šalyse) pasirengimą dalyvauti Projekte; ^s-853509e610822e9d4f460081
 
 
-4.1.4      Strateginio investuotojo atveju išnaudoti, o Šalių atveju dirbti kartu siekiant kuo geriau pasinaudoti gebėjimais ir patirtimi „Hitachi, Ltd.“ grupei teikiant strategines rekomendacijas PB dėl NAE techninio projekto vystymo; ^f015e35c2c524bc7a2fae279
+4.1.4      Strateginio investuotojo atveju išnaudoti, o Šalių atveju dirbti kartu siekiant kuo geriau pasinaudoti gebėjimais ir patirtimi „Hitachi, Ltd.“ grupei teikiant strategines rekomendacijas PB dėl NAE techninio projekto vystymo; ^s-1b3a20d31061bc9201e11121
 
 
-4.1.5      Strateginio investuotojo atveju išnaudoti, o Šalių atveju dirbti kartu siekiant kuo geriau pasinaudoti gebėjimais ir patirtimi „Hitachi, Ltd.“ grupei sudarant galimybes PB ir jos Akcininkams naudotis Japonijos tarptautinio bendradarbiavimo banko, „Nippon Export and Investment Insurance“, „Mizuho Corporate Bank“ ir Jungtinių Valstijų Eksporto-importo banko paslaugomis bei dirbti kartu su šiomis įstaigomis siekiant gauti kuo didesnį finansavimą (priimtinomis sąlygomis), kurį šiam Projektui gali pasiūlyti (o vėliau suteikti) šios įstaigos iki finansavimo pabaigos arba GIS dienos, priklausomai nuo to, kas įvyksta vėliau; ^9ea21f454c46a42e57e49491
+4.1.5      Strateginio investuotojo atveju išnaudoti, o Šalių atveju dirbti kartu siekiant kuo geriau pasinaudoti gebėjimais ir patirtimi „Hitachi, Ltd.“ grupei sudarant galimybes PB ir jos Akcininkams naudotis Japonijos tarptautinio bendradarbiavimo banko, „Nippon Export and Investment Insurance“, „Mizuho Corporate Bank“ ir Jungtinių Valstijų Eksporto-importo banko paslaugomis bei dirbti kartu su šiomis įstaigomis siekiant gauti kuo didesnį finansavimą (priimtinomis sąlygomis), kurį šiam Projektui gali pasiūlyti (o vėliau suteikti) šios įstaigos iki finansavimo pabaigos arba GIS dienos, priklausomai nuo to, kas įvyksta vėliau; ^s-09993fdfd68b31888ff76a0d
 
 
-4.1.6      dirbti kartu siekiant šių tarpinių rezultatų (pripažįstant, kad datos žemiau yra pateikiamos darant prielaidą, kad pirmasis RPPD pateikiamas Koncesijos dieną, ir galimybė pasiekti šių rezultatų gali labai priklausyti nuo to, kiek ir kada EPC rangovas vykdys darbus ir paslaugas iki GIS, Reguliuotojų, kitų valdžios institucijų ir kitų Trečiųjų šalių, taip pat Šalių darbo spartos ir našumo): ^2f259805d27f04f27c7bc790
+4.1.6      dirbti kartu siekiant šių tarpinių rezultatų (pripažįstant, kad datos žemiau yra pateikiamos darant prielaidą, kad pirmasis RPPD pateikiamas Koncesijos dieną, ir galimybė pasiekti šių rezultatų gali labai priklausyti nuo to, kiek ir kada EPC rangovas vykdys darbus ir paslaugas iki GIS, Reguliuotojų, kitų valdžios institucijų ir kitų Trečiųjų šalių, taip pat Šalių darbo spartos ir našumo): ^s-61013499051714319caa9cf0
 (A)      kuo greičiau po Koncesijos dienos užbaigti kainų nustatymo procesą pagal EPC rangos sutartį ir taip padėti Akcininkams priimti teigiamą GIS;
 (B)       ne vėliau kaip iki 2015 m. liepos 31 d. gauti Statybos ir eksploatavimo licenciją;
 (C)       Pirmasis betonas iki 2016 m. liepos 31 d.; ir
 (D)      Komercinės eksploatacijos diena nuo 2020 m. gruodžio 31 d. iki 2022 m. gruodžio 31 d. (imtinai);
 
 
-4.1.7      LR atveju, padėti, kiek tai įmanoma, nustatyti ir taikyti susitarimus, pagal kuriuos elektros energijos perdavimo tinklų operatorius Lietuvos Respublikoje nediskriminuotų NAE, PB, Akcininkų ar tų, kurie įsigyja NAE pagamintą elektros energiją arba ją perka iš Strateginio investuotojo, ir, LR atveju, vykdant projektą padėti Lietuvos, Latvijos ir (arba) Estijos elektros energijos perdavimo tinklų operatoriams sudaryti tarpusavio susitarimus dėl rezervinės galios pirkimo ir susijusių išlaidų padengimo siekiant šiose šalyse užtikrinti patikimą ir saugų elektros energijos tinklų veikimą; ir ^e493e63e40e4ad521031f88c
+4.1.7      LR atveju, padėti, kiek tai įmanoma, nustatyti ir taikyti susitarimus, pagal kuriuos elektros energijos perdavimo tinklų operatorius Lietuvos Respublikoje nediskriminuotų NAE, PB, Akcininkų ar tų, kurie įsigyja NAE pagamintą elektros energiją arba ją perka iš Strateginio investuotojo, ir, LR atveju, vykdant projektą padėti Lietuvos, Latvijos ir (arba) Estijos elektros energijos perdavimo tinklų operatoriams sudaryti tarpusavio susitarimus dėl rezervinės galios pirkimo ir susijusių išlaidų padengimo siekiant šiose šalyse užtikrinti patikimą ir saugų elektros energijos tinklų veikimą; ir ^s-1a5ba5b9a0229b5d0478d7a6
 
 
-4.1.8      LR atveju, padėti, kiek tai įmanoma, Lietuvos Respublikoje planuoti ir įgyvendinti perdavimo pajėgumų ir valdymo susitarimus, kad jais nebūtų trukdoma NAE pagamintos elektros energijos perdavimui už Lietuvos Respublikos ribų. ^3e6371ae582aef87d2a23f85
+4.1.8      LR atveju, padėti, kiek tai įmanoma, Lietuvos Respublikoje planuoti ir įgyvendinti perdavimo pajėgumų ir valdymo susitarimus, kad jais nebūtų trukdoma NAE pagamintos elektros energijos perdavimui už Lietuvos Respublikos ribų. ^s-c55ed59badde4d7494157aaf
 
 
-4.2       Šalys nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS, bendradarbiauja ir dirba kartu siekdamos parengti tam tikrus susitarimus (kurie bus taikomi ne vėliau kaip nuo teigiamo GIS priėmimo dienos imtinai), kurie skatintų priimti teigiamą GIS, įskaitant atskirus susitarimus: ^f0179420d084efd9a5349059
+4.2       Šalys nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS, bendradarbiauja ir dirba kartu siekdamos parengti tam tikrus susitarimus (kurie bus taikomi ne vėliau kaip nuo teigiamo GIS priėmimo dienos imtinai), kurie skatintų priimti teigiamą GIS, įskaitant atskirus susitarimus: ^s-fc33fa0c276115804c03254a
 
 
-4.2.1      dėl Šalių įsipareigojimų ir atsakomybės vykdant Privažiavimo kelio darbus; ^3c9fdfb58702fe04aedbc0ac
+4.2.1      dėl Šalių įsipareigojimų ir atsakomybės vykdant Privažiavimo kelio darbus; ^s-e86c837e2896b197e193d292
 
 
-4.2.2      dėl laikotarpio po teigiamo GIS priėmimo, kuriuose, be kita ko, galima numatyti: ^91ef9470fe119afd1e6805dd
+4.2.2      dėl laikotarpio po teigiamo GIS priėmimo, kuriuose, be kita ko, galima numatyti: ^s-0d7f177385175e0b65f31782
 (A)      aplinkybes, kuriomis Akcininkai gali įgyti teisę reikalauti, kad LR (arba jos patikėtinis) išpirktų jų Akcijas už sutartą tikrąją vertę arba atsirastų kitokių aptartų pasekmių;
 (B)       aplinkybes, kuriomis LR (arba jos patikėtinis) gali įgyti teisę išpirkti Akcijas iš Akcininkų už sutartą tikrąją vertę (kurią nustatyti galima kitaip, nei numatyta 4.2.2(A) punkte) arba atsirastų kitokių aptartų pasekmių; ir (arba)
 (C)       aplinkybes, kuriomis LR padengtų Strateginio investuotojo Patirtas išlaidas arba Papildomo konkurso išlaidas (jei taikoma).
 
 
-4.2.3      dėl aplinkybių ir sąlygų, kuriomis LR arba LR patikėtiniui (ar kitam vėlesniam Akcijų, kurios anksčiau nuosavybės teise priklausė LR ar LR patikėtiniui, turėtojui) perleidžiant Akcijas Konkurentui ar subjektui, kurio turto dalis priklauso Konkurentui, atsižvelgiant į numatomą privatizavimo galimybę regione, gali būti reikalingas Strateginio investuotojo sutikimas; ^c3c3decdf4dfd83bead3ae39
+4.2.3      dėl aplinkybių ir sąlygų, kuriomis LR arba LR patikėtiniui (ar kitam vėlesniam Akcijų, kurios anksčiau nuosavybės teise priklausė LR ar LR patikėtiniui, turėtojui) perleidžiant Akcijas Konkurentui ar subjektui, kurio turto dalis priklauso Konkurentui, atsižvelgiant į numatomą privatizavimo galimybę regione, gali būti reikalingas Strateginio investuotojo sutikimas; ^s-5af40c472d4737533942bd97
 
 
-4.2.4      dėl apsaugos ir kompensavimo teisių, kurias LR gali suteikti PB ir (arba) Akcininkams, nepalankiai arba iš esmės pasikeitus teisės aktams ir atsitikus kitiems įvykiams ar pasikeitus aplinkybėms (galima numatyti atitinkamus supažindinimo su tokia apsauga, jos derinimo ir skyrimo mechanizmus); ^b9d191d7795bccf987b17cd6
+4.2.4      dėl apsaugos ir kompensavimo teisių, kurias LR gali suteikti PB ir (arba) Akcininkams, nepalankiai arba iš esmės pasikeitus teisės aktams ir atsitikus kitiems įvykiams ar pasikeitus aplinkybėms (galima numatyti atitinkamus supažindinimo su tokia apsauga, jos derinimo ir skyrimo mechanizmus); ^s-aa129ebd0f5a9c6e18bda7ae
 
 
-4.2.5      dėl apsaugos ir kompensavimo teisių, kurios gali būti suteiktos Nuo atsakomybės apsaugotiems asmenims, minimiems 16.5.3 (Garantijų pažeidimas) punkte, LR ir PB laikantis visų taikomų Įstatymų ir procedūrų, susijusių su Strateginio investuotojo parinkimu ir Koncesijos sutarties, taip pat kiekvienos Papildomos sutarties, sudarymu; ^7467350c7959f3161c7dedb3
+4.2.5      dėl apsaugos ir kompensavimo teisių, kurios gali būti suteiktos Nuo atsakomybės apsaugotiems asmenims, minimiems 16.5.3 (Garantijų pažeidimas) punkte, LR ir PB laikantis visų taikomų Įstatymų ir procedūrų, susijusių su Strateginio investuotojo parinkimu ir Koncesijos sutarties, taip pat kiekvienos Papildomos sutarties, sudarymu; ^s-c9e347d7d24d9e4a94e3e023
 
 
-4.2.6      dėl apsaugos ir kompensavimo teisių, kurios gali būti suteiktos Nuo branduolinės atsakomybės apsaugotiems asmenims, minimiems 15.2 (Branduolinės žalos atlyginimas) punkte, ir kitiems Projekto tiekimo grandinės nariams dėl atsakomybės už branduolinę žalą; ^59c6a27ae204dcf119c7f6e3
+4.2.6      dėl apsaugos ir kompensavimo teisių, kurios gali būti suteiktos Nuo branduolinės atsakomybės apsaugotiems asmenims, minimiems 15.2 (Branduolinės žalos atlyginimas) punkte, ir kitiems Projekto tiekimo grandinės nariams dėl atsakomybės už branduolinę žalą; ^s-94971e0dc0ff4b35d95885b1
 
 
-4.2.7      dėl kitų LR ir vienos ar kelių Baltijos šalių vyriausybių susitarimų dėl branduolinės atsakomybės ir šiose Baltijos šalyse padarytos žalos atlyginimo išlaidų; ^9f9e02790d3e5bcf27331e27
+4.2.7      dėl kitų LR ir vienos ar kelių Baltijos šalių vyriausybių susitarimų dėl branduolinės atsakomybės ir šiose Baltijos šalyse padarytos žalos atlyginimo išlaidų; ^s-5980d23817d1260e63366811
 
 
-4.2.8      dėl teisių, kurias gali įgyti LR, apriboti arba panaikinti kai kurias Strateginio investuotojo teises pagal Akcininkų sutartį ir susijusias sutartis Strateginiam investuotojui nevykdant 31.4 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) nurodyto įsipareigojimo; ^4a6ad931237ef9162b3b4759
+4.2.8      dėl teisių, kurias gali įgyti LR, apriboti arba panaikinti kai kurias Strateginio investuotojo teises pagal Akcininkų sutartį ir susijusias sutartis Strateginiam investuotojui nevykdant 31.4 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) nurodyto įsipareigojimo; ^s-c9cfba4c3efaa0ef08550ed2
 
 
-4.2.9      dėl apsaugos ir kompensavimo teisių, kurias LR gali suteikti PB ir (arba) Akcininkams dėl Lietuvoje pageidaujamo surengti ar surengto referendumo ir jame priimto sprendimo ar jo pasekmių; ir ^721787662401fa441d10267e
+4.2.9      dėl apsaugos ir kompensavimo teisių, kurias LR gali suteikti PB ir (arba) Akcininkams dėl Lietuvoje pageidaujamo surengti ar surengto referendumo ir jame priimto sprendimo ar jo pasekmių; ir ^s-d2175dd6f88816404263296b
 
 
-4.2.10    dėl tam tiktos papildomos pagalbos, kurią LR suteiktų Projektui, PB ir (arba) Akcininkams. ^6d829990979a5d2ed992b654
+4.2.10    dėl tam tiktos papildomos pagalbos, kurią LR suteiktų Projektui, PB ir (arba) Akcininkams. ^s-32bd1971497198ef38478ba2
 
 
-4.3       Sutarties vykdymo standartai ^c5cfe492aad0de4348809a25
+4.3       Sutarties vykdymo standartai ^s-9452b6b769ea38e46e01c2aa
 Pagal šią Koncesijos sutartį PB savo įsipareigojimus vykdo:
 
 
-4.3.1      tinkamai laikydamasi saugos ir saugumo reikalavimų; ir ^18119be323080117770448d1
+4.3.1      tinkamai laikydamasi saugos ir saugumo reikalavimų; ir ^s-b755a9176cb68e58c6abe2f5
 
 
-4.3.2      skaidriai bei bendradarbiaudama su LR ir Reguliuotojais, su sąlyga, kad PB neprivalo veikti kenkdama savo arba kurio nors Akcininko interesams. ^6c34cd11f76430a49e80f6e2
+4.3.2      skaidriai bei bendradarbiaudama su LR ir Reguliuotojais, su sąlyga, kad PB neprivalo veikti kenkdama savo arba kurio nors Akcininko interesams. ^s-aabfe1a5a00f0fe097f44f37
 
 
-5.         STRATEGINIO INVESTUOTOJO ĮSIPAREIGOJIMAI ^bfae8f8c42a4a86ea4ee197b
+5.         STRATEGINIO INVESTUOTOJO ĮSIPAREIGOJIMAI ^s-38f5a8a889b1905b5a27b3ab
 
 
-5.1       Strateginis investuotojas: ^a4694778e57c09600c5401da
+5.1       Strateginis investuotojas: ^s-5b92529fd68715cc962d5196
 
 
-5.1.1      savo įsipareigojimus, prisiimtus šia Koncesijos sutartimi, vykdo laikydamasis visų taikomų Įstatymų; ir ^de2b3fe7578a0880ee2bb1af
+5.1.1      savo įsipareigojimus, prisiimtus šia Koncesijos sutartimi, vykdo laikydamasis visų taikomų Įstatymų; ir ^s-88cfebd23f0d925bd7afdca1
 
 
-5.1.2      nuo Investavimo dienos užtikrina, kad jis, pagrįsta LR nuomone, turi pakankamai išteklių savo įsipareigojimams, prisiimtiems šia Koncesijos sutartimi, vykdyti arba, jeigu taip nėra, gavęs rašytinį LR prašymą, nedelsdamas pateikia LR ir „Hitachi, Ltd.“ suderintos formos „Hitachi, Ltd.“ garantiją. ^d3dac9cf16897c7feae65f0d
+5.1.2      nuo Investavimo dienos užtikrina, kad jis, pagrįsta LR nuomone, turi pakankamai išteklių savo įsipareigojimams, prisiimtiems šia Koncesijos sutartimi, vykdyti arba, jeigu taip nėra, gavęs rašytinį LR prašymą, nedelsdamas pateikia LR ir „Hitachi, Ltd.“ suderintos formos „Hitachi, Ltd.“ garantiją. ^s-74d8e79d504c050a62af4707
 
 
-5.2       Strateginis investuotojas sutinka ir įsipareigoja užtikrinti, kad kiekviena EPC rangos sutarties ir kiekvienos Papildomos sutarties šalis (išskyrus PB) Koncesijos dieną, arba atitinkamą Papildomos sutarties pasirašymo dieną, yra su Strateginiu investuotoju Susijusi bendrovė ir išliks su Strateginiu investuotoju Susijusia bendrove iki tos dienos, kuri bus anksčiau: ^d1cbc508b4166ec3912ff84f
+5.2       Strateginis investuotojas sutinka ir įsipareigoja užtikrinti, kad kiekviena EPC rangos sutarties ir kiekvienos Papildomos sutarties šalis (išskyrus PB) Koncesijos dieną, arba atitinkamą Papildomos sutarties pasirašymo dieną, yra su Strateginiu investuotoju Susijusi bendrovė ir išliks su Strateginiu investuotoju Susijusia bendrove iki tos dienos, kuri bus anksčiau: ^s-eff3a382d0b93ff9f659119d
 
 
 5.2.1
@@ -4533,146 +4538,146 @@ Pagal šią Koncesijos sutartį PB savo įsipareigojimus vykdo:
 5.2.2dienos, kurią Strateginis investuotojas nustoja būti šios Koncesijos sutarties Šalimi.
 
 
-5.3       Vadovaujantis Akcininkų sutarties ir (arba) bet kurios kitos Akcininkų sudarytos sutarties sąlygomis, Strateginis investuotojas į PB investuoja dvidešimt procentų (20 %) bendros Akcininkų investuojamos sumos. ^1ef1890a210ec20ebd7e7db3
+5.3       Vadovaujantis Akcininkų sutarties ir (arba) bet kurios kitos Akcininkų sudarytos sutarties sąlygomis, Strateginis investuotojas į PB investuoja dvidešimt procentų (20 %) bendros Akcininkų investuojamos sumos. ^s-96971af80ea608877f371cc6
 
 
-6.         PB ĮSIPAREIGOJIMAI ^cb85d012b0421f3bda0fa59f
+6.         PB ĮSIPAREIGOJIMAI ^s-8396b34227efe81f58bb145c
 
 
 PB įsipareigojimų pobūdis
 
 
-6.1       PB: ^aae7a081f6b8e6999e12d4e8
+6.1       PB: ^s-462854fa941cc08a8a718ab1
 
 
-6.1.1      vykdydama Koncesiją laikosi visų taikomų Įstatymų, įskaitant Aplinkosaugines taisykles; ^83f7fe5a15b54c47553d1be5
+6.1.1      vykdydama Koncesiją laikosi visų taikomų Įstatymų, įskaitant Aplinkosaugines taisykles; ^s-5858eb46cb807c75a9945cc3
 
 
-6.1.2      imasi visų pagrįstų priemonių tam, kad laikytųsi savo įsipareigojimų (arba ištaisytų visus tokių įsipareigojimų pažeidimus), prisiimtų pagal Papildomas sutartis, tiek, kiek tai reikalinga siekiant užtikrinti, kad kita tokios Papildomos sutarties šalis neįgytų pagrindo nutraukti Papildomą sutartį, nes PB ją pažeidė; ^b7dc1b1a62d5c1f05b78ce4e
+6.1.2      imasi visų pagrįstų priemonių tam, kad laikytųsi savo įsipareigojimų (arba ištaisytų visus tokių įsipareigojimų pažeidimus), prisiimtų pagal Papildomas sutartis, tiek, kiek tai reikalinga siekiant užtikrinti, kad kita tokios Papildomos sutarties šalis neįgytų pagrindo nutraukti Papildomą sutartį, nes PB ją pažeidė; ^s-2461d9ac27e15e27872fdad0
 
 
-6.1.3      Akcininkams priėmus teigiamą GIS ir vadovaujantis EPC rangos sutarties nuostatomis dėl nenugalimos jėgos, parengti Galutinį pranešimą pradėti darbus per devyniasdešimt (90) Kalendorinių dienų nuo teigiamo GIS priėmimo dienos; ^99917c3c59328f05a5d4535b
+6.1.3      Akcininkams priėmus teigiamą GIS ir vadovaujantis EPC rangos sutarties nuostatomis dėl nenugalimos jėgos, parengti Galutinį pranešimą pradėti darbus per devyniasdešimt (90) Kalendorinių dienų nuo teigiamo GIS priėmimo dienos; ^s-d49ab998b9711d0c4e2d439c
 
 
-6.1.4      PB nustatytu būdu atlikti arba pasirūpinti, kad būtų atliktas NAE projektavimas, vystymas, finansavimas, statyba, bandymas ir eksploatacijos pradžia; ^48bfe36103a2b6f673a84003
+6.1.4      PB nustatytu būdu atlikti arba pasirūpinti, kad būtų atliktas NAE projektavimas, vystymas, finansavimas, statyba, bandymas ir eksploatacijos pradžia; ^s-22e89f99ee28b6240edd4d69
 
 
-6.1.5      PB nustatytu būdu veikti kaip NAE operatorius ir prižiūrėtojas arba užtikrinti šių funkcijų atlikimą; ^9e2c8195baab0cd14a6a5394
+6.1.5      PB nustatytu būdu veikti kaip NAE operatorius ir prižiūrėtojas arba užtikrinti šių funkcijų atlikimą; ^s-94153891e867f389374e291c
 
 
-6.1.6      laikytis savo įsipareigojimų pagal taikomus Įstatymus dėl: ^a0e0af17b14b62611afa3ad3
+6.1.6      laikytis savo įsipareigojimų pagal taikomus Įstatymus dėl: ^s-7811ad850ba37dcf9757ddd2
 (A)      radioaktyviųjų atliekų tvarkymo ir eksploatavimo nutraukimo finansavimo (taikomi įstatymai atitinka parengtus ir Šalių suderintus Eksploatacijos nutraukimo ir atliekų tvarkymo finansavimo principus);
 (B)       jeigu aktualu, PB priėmus sprendimą dalyvauti eksploatacijos nutraukime, NAE eksploatacijos nutraukimo; ir
 (C)       jeigu aktualu, PB priėmus sprendimą nedalyvauti eksploatacijos nutraukime, Statybvietės perdavimo LR;
 
 
-6.1.7      pasirūpinti, kad EPC rangovas pateiktų: ^130cebde7b7dd1272851c320
+6.1.7      pasirūpinti, kad EPC rangovas pateiktų: ^s-fe65c316b519f8569062b3b0
 (A)      išankstinio mokėjimo garantiją dėl visų pagal EPC rangos sutartį atliekamų išankstinių mokėjimų, išskyrus tuos atvejus, kai EPC rangos sutarties šalys minėtoje sutartyje susitaria nereikalauti išankstinio mokėjimo garantijos kainos elementams, kurie pagal EPC rangos sutartį turi būti sumokėti iš anksto;
 (B)       garantinį raštą EPC rangovo įsipareigojimų pagal EPC rangos sutartį įvykdymui užtikrinti; ir
 (C)       patronuojančios bendrovės garantiją, kad EPC rangovas įvykdys savo įsipareigojimus pagal EPC rangos sutartį, taip pat kitus arba patikslintus garantinius raštus ar garantijas, kurias pagal EPC rangos sutartį turi pateikti EPC rangovas,
 kiekvienu atveju, kai EPC rangovas turi pateikti tokį dokumentą, ir vadovaujantis EPC rangos sutarties nuostatomis;
 
 
-6.1.8      visokeriopai stengtis pasirūpinti, kad Akcininkai galutinį GIS (teigiamą arba neigiamą) priimtų iki 2015 m. gruodžio 31 d arba per trisdešimt tris (33) Mėnesius nuo pirmojo RPPD pateikimo dienos – ankstesnę iš šių dviejų datų, arba iki vėlesnės su LR suderintos dienos (veikiant protingai ir atsižvelgiant į vyraujančias aplinkybes, įskaitant PB poziciją Akcininkų vardu, kada tikėtina priimti GIS atidėjus 6.1.8 punkte nustatytą terminą); ir ^20a6d4cedd2f75d47b83f2d0
+6.1.8      visokeriopai stengtis pasirūpinti, kad Akcininkai galutinį GIS (teigiamą arba neigiamą) priimtų iki 2015 m. gruodžio 31 d arba per trisdešimt tris (33) Mėnesius nuo pirmojo RPPD pateikimo dienos – ankstesnę iš šių dviejų datų, arba iki vėlesnės su LR suderintos dienos (veikiant protingai ir atsižvelgiant į vyraujančias aplinkybes, įskaitant PB poziciją Akcininkų vardu, kada tikėtina priimti GIS atidėjus 6.1.8 punkte nustatytą terminą); ir ^s-28ea3a024dcf17c6c62bb685
 
 
-6.1.9      jeigu 4.1.6 punkte (Santykiai: bendradarbiavimo principai) nustatyti tarpiniai rezultatai nėra pasiekiami arba yra maža tikimybė juos pasiekti, kaip galima greičiau pasikonsultuoti su LR dėl veiksmų, kurių ketina imtis PB. ^6ede20f2d27e910c10998463
+6.1.9      jeigu 4.1.6 punkte (Santykiai: bendradarbiavimo principai) nustatyti tarpiniai rezultatai nėra pasiekiami arba yra maža tikimybė juos pasiekti, kaip galima greičiau pasikonsultuoti su LR dėl veiksmų, kurių ketina imtis PB. ^s-9652dd1245512a78a41912e2
 
 
-6.2       PB atsakomybė ^2f1f068d0c1af2600e3f6b7d
+6.2       PB atsakomybė ^s-db6b7b4d4fe4a289861ef832
 PB įsipareigojimų pagal šią Koncesijos sutartį perdavimas arba perleidimas (įskaitant Strateginiam investuotojui arba su Strateginiu investuotoju Susijusiai bendrovei) neatleidžia PB nuo įsipareigojimų pagal šią Koncesijos sutartį vykdymo, kaip ir PB paskirtas Subrangovas arba jo ar jų subrangovai arba pareigų pagal šią Koncesijos sutartį perleidimas neturi jokios įtakos PB įsipareigojimų vykdymui. Pagal šią Koncesijos sutartį (nepažeidžiant jos 24.2 punkto (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Pakartotinio konkurso išlaidos)) PB, kaip būdinga šalių santykiuose, atsako už savo Subrangovų ir jų subrangovų atitinkamos Subrangos sutarties sąlygų nevykdymą taip, tarsi toks veikimas ar neveikimas yra pačios PB veikimas ar neveikimas.
 
 
-6.3       Priverstinis PB ir Strateginio investuotojo įsipareigojimų vykdymas ^68941b6b20e5bba0d94f2c54
+6.3       Priverstinis PB ir Strateginio investuotojo įsipareigojimų vykdymas ^s-b65f0226fa98e626c0c7b147
 
 
-6.3.1      Strateginis investuotojas pripažįsta ir sutinka, kad jis neturi teisės versti PB vykdyti šia Koncesijos sutartimi prisiimtų įsipareigojimų, išskyrus įsipareigojimus pagal 15.1 punktą (Branduolinės žalos atlyginimas). ^58a86093e3249b8ad953d52e
+6.3.1      Strateginis investuotojas pripažįsta ir sutinka, kad jis neturi teisės versti PB vykdyti šia Koncesijos sutartimi prisiimtų įsipareigojimų, išskyrus įsipareigojimus pagal 15.1 punktą (Branduolinės žalos atlyginimas). ^s-ad3e2b31c804523ece465091
 
 
-6.3.2      PB pripažįsta ir sutinka, kad ji neturi teisės versti Strateginio investuotojo vykdyti šia Koncesijos sutartimi prisiimtų įsipareigojimų. ^a0fe631df5934e056fa8cf39
+6.3.2      PB pripažįsta ir sutinka, kad ji neturi teisės versti Strateginio investuotojo vykdyti šia Koncesijos sutartimi prisiimtų įsipareigojimų. ^s-9dfb9941478fc96c419f23f5
 
 
-7.         LR ĮSIPAREIGOJIMAI ^ccfa7ff1ba3cf3521cfb9ba5
+7.         LR ĮSIPAREIGOJIMAI ^s-8d92a75db9a253de42cfa5d5
 
 
-7.1       LR įsipareigojimų pobūdis ^629a87cb4966db5548acd668
+7.1       LR įsipareigojimų pobūdis ^s-8b6bbd24510b85fbb88d35bd
 LR:
 
 
-7.1.1      pasirūpina, kad Lietuvos investuotojas: ^6ef89dfc604bb1ce9953ff02
+7.1.1      pasirūpina, kad Lietuvos investuotojas: ^s-303b6eb4812c883c5ee5f3d4
 (A)      perduotų PB nuosavybės teisę į Statybvietę ir visas suderintas prieigos teises; ir
 (B)       PB perduoda ar licencijuoja LIV intelektinę nuosavybę (arba pasirūpina jos perdavimu ar licencijavimu),
 tokiu metu (kuris negali būti iki dienos, kurią Akcininkai priima teigiamą GIS) ir tokiomis sąlygomis, dėl kurių susitariama iki dienos, kurią Akcininkai priima teigiamą GIS, kurios kiekvienu atveju taikomos Lietuvos investuotojui ir PB (su sąlyga, kad abu elgiasi protingai), tačiau Šalys pripažįsta ir sutinka, kad bendra Statybvietės ir LIV intelektinės nuosavybės vertė negali būti mažesnė nei penkiasdešimt milijonų eurų (EUR 50 000 000) (nuo 2011 m. sausio 1 d. taikant indeksavimo koeficientą); ir
 
 
-7.1.2      vykdo 2 priedėlyje (Privažiavimo kelio darbai) numatytus įsipareigojimus (arba pasirūpina jų vykdymu) dėl darbų, kurie būtini nuolatiniame pagrindiniame kelyje, jungiančiame Klaipėdos jūrų uostą ir Statybvietę. ^d84e6aac686dc8947ccee129
+7.1.2      vykdo 2 priedėlyje (Privažiavimo kelio darbai) numatytus įsipareigojimus (arba pasirūpina jų vykdymu) dėl darbų, kurie būtini nuolatiniame pagrindiniame kelyje, jungiančiame Klaipėdos jūrų uostą ir Statybvietę. ^s-26b3c1fe0205db5121b39eb9
 
 
-7.2       LR atsakomybė ^c83252fa95f61a62dc23f51e
+7.2       LR atsakomybė ^s-24ca56d503ab76655a18049f
 LR įsipareigojimų pagal šią Koncesijos sutartį perdavimas arba perleidimas neatleidžia LR nuo įsipareigojimų pagal šią Koncesijos sutartį vykdymo, kaip ir LR paskirtas Subrangovas arba jo ar jų subrangovai arba pareigų pagal šią Koncesijos sutartį perleidimas neturi jokios įtakos LR įsipareigojimų pagal šią Koncesijos sutartį vykdymui. Pagal šią Koncesijos sutartį LR, kaip būdinga šalių santykiuose, atsako už savo Subrangovų veikimą ir neveikimą, taip pat jų subrangovų veikimą ir neveikimą taip, tarsi toks veikimas ar neveikimas yra pačios LR veikimas ar neveikimas.
 
 
-7.3       LR patikėtinis ^608b8c3b4e61a73caf75ccd5
+7.3       LR patikėtinis ^s-def2aee1c83e631fd462227d
 Išskyrus atvejus, kai gautas kitoks Strateginio investuotojo sutikimas, LR užtikrina, kad:
 
 
-7.3.1      visos Akcijos, bet kuriuo metu nuosavybės teise priklausančios LR arba LR patikėtiniui, kurios kažkada nuosavybės teise priklausė Lietuvos investuotojui, LR arba LR patikėtiniui, nebus LR, LR patikėtinio ar vėlesnio Akcijų turėtojo perleistos Konkurentui arba kitam asmeniui, kurio Akcijų tiesiogiai arba netiesiogiai turi Konkurentas; ir ^017410fd6c9521437ca0fd7e
+7.3.1      visos Akcijos, bet kuriuo metu nuosavybės teise priklausančios LR arba LR patikėtiniui, kurios kažkada nuosavybės teise priklausė Lietuvos investuotojui, LR arba LR patikėtiniui, nebus LR, LR patikėtinio ar vėlesnio Akcijų turėtojo perleistos Konkurentui arba kitam asmeniui, kurio Akcijų tiesiogiai arba netiesiogiai turi Konkurentas; ir ^s-a710517ee0dba24667f63b3e
 
 
-7.3.2      Konkurentas netaps tiesioginiu ar netiesioginiu LR patikėtinio akcijų teisėtu savininku ar naudos gavėju. ^818c930c1019470d9378bb4b
+7.3.2      Konkurentas netaps tiesioginiu ar netiesioginiu LR patikėtinio akcijų teisėtu savininku ar naudos gavėju. ^s-1728a60ecb4d1fe1b8e42309
 
 
-8.         AKCININKŲ SUTARTIES PAKEITIMAI ^4e4266591888c67769c31c41
+8.         AKCININKŲ SUTARTIES PAKEITIMAI ^s-8852aca08bd969eb5a5cb93f
 
 
-8.1       PB sutinka (iš pradžių negavusi LR sutikimo, kurio negalima nepagrįstai vilkinti, įskaitant dėl bet kokio pakeitimo ar atsisakymo sąlygų) nepritarti jokiam Akcininkų sutarties sąlygų pakeitimui ar atsisakymui (įskaitant susijusias sąlygas, nuostatas dėl tokiose sąlygose vartojamų ar joms įtakos turinčių sąvokų ar jų aiškinimo), jeigu: ^66d492bf32b2d63388277e29
+8.1       PB sutinka (iš pradžių negavusi LR sutikimo, kurio negalima nepagrįstai vilkinti, įskaitant dėl bet kokio pakeitimo ar atsisakymo sąlygų) nepritarti jokiam Akcininkų sutarties sąlygų pakeitimui ar atsisakymui (įskaitant susijusias sąlygas, nuostatas dėl tokiose sąlygose vartojamų ar joms įtakos turinčių sąvokų ar jų aiškinimo), jeigu: ^s-0f152ae541492de81b36c27c
 
 
-8.1.1      toks pakeitimas arba atsisakymas turi esminės įtakos LR sutartinei trečiosios šalies teisei pagal Akcininkų sutartį; arba ^536e1f3121fbfadcd7aa8f66
+8.1.1      toks pakeitimas arba atsisakymas turi esminės įtakos LR sutartinei trečiosios šalies teisei pagal Akcininkų sutartį; arba ^s-1a8b18f837e0711b94a0a7bb
 
 
-8.1.2      toks pakeitimas arba atsisakymas nulemia, kaip Akcininkų sutartyje apibrėžiamos sąvokos „Draudimas keisti Kontrolę“, „Atitinkami įsipareigojimai“, „Kredito mokėjimas“ ar „Konkurentas“. ^007585dad46691a66416603d
+8.1.2      toks pakeitimas arba atsisakymas nulemia, kaip Akcininkų sutartyje apibrėžiamos sąvokos „Draudimas keisti Kontrolę“, „Atitinkami įsipareigojimai“, „Kredito mokėjimas“ ar „Konkurentas“. ^s-36798744c271d4b1cba929be
 
 
 
-[[#^550911fc1230b3afb9ca7c3b|2 DALIS]]: PB AKCIJŲ DALYS
+2 DALIS: PB AKCIJŲ DALYS
 
 
-9.         PB AKCIJŲ DALYS ^0ab32114517a3f4f2b86537d
+9.         PB AKCIJŲ DALYS ^s-f1807cddf1e0538f2c44b5bd
 Informacija apie pradinius PB Akcininkus pateikta 3 priedėlyje (Informacija apie pradinius akcininkus ir akcijų dalis). Šis 9 punktas (PB akcijų dalys) nepažeidžia teisių pasirašyti arba perleisti Akcijas pagal Akcininkų sutarties ir šios Koncesijos sutarties sąlygas (įskaitant 26 punktą (LR įvykis. Privalomasis akcijų perleidimas), 31 punktą (Akcijų perleidimo ir kontrolės pasikeitimo apribojimai) ir 32 punktą (Akcininkų pasirinkimo parduoti sandoris)).
 
 
 
-[[#^dc365b005e4c349542e6d21e|3 DALIS]]: BENDRIEJI ĮSIPAREIGOJIMAI
+3 DALIS: BENDRIEJI ĮSIPAREIGOJIMAI
 
 
-10.       UŽSAKOMIEJI DARBAI IR SUBRANGA ^486ff1de0b9d195c17011d11
+10.       UŽSAKOMIEJI DARBAI IR SUBRANGA ^s-19f50dfcc353b68c898e840f
 
 
-10.1     Subranga ^bb158160120fe6a94c0ea98d
+10.1     Subranga ^s-2739b976bebb28d459dd676c
 
 
-10.1.1            Pagal tolesnį 10.1.2 punktą PB užtikrina, kad pagal kiekvieną Pagrindinę subrangos sutartį atitinkamas Pagrindinis subrangovas neturi teisės nutraukti ar keisti atitinkamą Pagrindinę subrangos sutartį dėl to, kad PB nuosavybė, valdymas ar kontrolė perėjo LR ar LR Patikėtiniui. ^73dd4b11182dcb1bdd6002ff
+10.1.1            Pagal tolesnį 10.1.2 punktą PB užtikrina, kad pagal kiekvieną Pagrindinę subrangos sutartį atitinkamas Pagrindinis subrangovas neturi teisės nutraukti ar keisti atitinkamą Pagrindinę subrangos sutartį dėl to, kad PB nuosavybė, valdymas ar kontrolė perėjo LR ar LR Patikėtiniui. ^s-7d8132cfbcb77bd99d0be472
 
 
-10.1.2            Jei PB siūlo sudaryti Pagrindinę subrangos sutartį remiantis standartinėmis Pagrindinio subrangovo sąlygomis, kurios neatitinka 10.1.1 punkto reikalavimų, PB nepažeidžia 10.1.1 punkto, jei ji dėjo visas pagrįstas pastangas laikytis 10.1.1 punkto reikalavimų. ^cb9cf490cdc074097092de46
+10.1.2            Jei PB siūlo sudaryti Pagrindinę subrangos sutartį remiantis standartinėmis Pagrindinio subrangovo sąlygomis, kurios neatitinka 10.1.1 punkto reikalavimų, PB nepažeidžia 10.1.1 punkto, jei ji dėjo visas pagrįstas pastangas laikytis 10.1.1 punkto reikalavimų. ^s-487effa4b6c8a0ba58a7b0fa
 
 
-10.2     Užsakomieji darbai ^1661b5842647f767f3e7b608
+10.2     Užsakomieji darbai ^s-d85411ca224f05ae812d6ad4
 Jei priimamas teigiamas GIS, Strateginis investuotojas užtikrina, kad Komercinės eksploatacijos dieną jos Susijusios bendrovės, kurios yra Papildomos(ų) sutarties(čių) šalis, būtų užsakiusios iš Trečiųjų šalių ne mažiau kaip dešimt procentų (10%) visos vertės darbų ar paslaugų ar jų derinių, vykdomų bendrai pagal visas Papildomas sutartis. Šis įsipareigojimas netaikomas, jei EPC rangos sutartis nutraukiama iki Komercinės eksploatacijos dienos.
 
 
 
-[[#^b787d5808d3aad996823b23d|4 DALIS]]: PROJEKTO VALDYMAS
+4 DALIS: PROJEKTO VALDYMAS
 
 
-11.       ATASKAITOS IR STEBĖSENA ^fe2aae4b50f9839c5a18db84
+11.       ATASKAITOS IR STEBĖSENA ^s-7749053b161662417ab513a7
 
 
-11.1     Projekto valdymas ^63c8dae14d837069a2e3d59e
+11.1     Projekto valdymas ^s-5e3a0b9c7cdb764f51737cc4
 
 
-11.1.1            Pagal 11.1.4 ir 13 punktus (Konfidencialumas) PB pateikia Energetikos ministerijai, veikiančiai LR vardu: ^eaa2f74e7a8d183dbb3a2d38
+11.1.1            Pagal 11.1.4 ir 13 punktus (Konfidencialumas) PB pateikia Energetikos ministerijai, veikiančiai LR vardu: ^s-a51b2ab859e8ae8ed5a0eef8
 (A)       kas tris (3) Mėnesius, kurie prasideda dieną po šešių (6) Mėnesių nuo Investavimo dienos ir iki Komercinės eksploatacijos dienos, ataskaitą („Ataskaita iki KED“) šiais klausimais:
 (1)      Projekto pažanga pagal Vystymo grafiką ir visas programas (įskaitant dėl visų pagrindinių datų ar tarpinių tikslų, nustatytų EPC rangos sutartyje, ir visų tarpinių tikslų, nustatytų 4.1.6 punkte (Santykiai: bendradarbiavimo principai) bei 6.1.8 punkte (PB įsipareigojimai)), kartu su visa esmine informacija apie Strateginio investuotojo įsipareigojimų ir PB įsipareigojimų pagal šią Koncesijos sutartį vykdymą ir visų Pagrindinių subrangos sutarčių vykdymą (jei taikoma kiekvienos jų atžvilgiu);
 (2)      Informacija apie visus esminius reikalus, kurie bus ar gali būti pagrįstai laikomi galintys nukelti kokių nors EPC rangos sutartyje nustatytų esminių datų ar tarpinių tikslų pasiekimą bei kokių nors tarpinių tikslų, kurie nustatyti 4.1.6 punkte (Santykiai: bendradarbiavimo principai) ir 6.1.8 punkte (PB įsipareigojimai), pasiekimą, kartu su tokia pagrindžiančia ir išsamia informacija, kokios LR gali pagrįstai prašyti ar reikalauti tam, kad LR galėtų pagrįstai suprasti šį(iuos) iškylantį(čius) klausimą(us) ir visas susijusias tokio nukėlimo priežastis; ir
@@ -4681,136 +4686,136 @@ Jei priimamas teigiamas GIS, Strateginis investuotojas užtikrina, kad Komercin�
 (Ataskaitos po KED ir Ataskaitos iki KED kartu vadinamos „Ataskaitos“ ir atskirai „Ataskaita“). Dėl kiekvienos Ataskaitos formos ir išsamumo PB ir LR, kiekviena veikdama pagrįstai, susitaria (per vieną (1) Mėnesį nuo Investavimo dienos ar Komercinės eksploatacijos dienos, atsižvelgiant į tai, kuri jų taikoma).
 
 
-11.1.2            Pagal 11.1.4 ir 13 (Konfidencialumas) punktus, jei pagrįstai prašo Energetikos ministerija, veikianti LR vardu, po Investavimo dienos, PB vyriausieji tarnautojai dalyvauja susitikimuose su Energetikos ministerija LR vardu, ir tokiomis kitomis vyriausybės institucijomis dėl šio Projekto, kokių Energetikos ministerija, veikianti LR vardu, gali pagrįstai reikalauti. ^3747b5a2e7582255de28a57e
+11.1.2            Pagal 11.1.4 ir 13 (Konfidencialumas) punktus, jei pagrįstai prašo Energetikos ministerija, veikianti LR vardu, po Investavimo dienos, PB vyriausieji tarnautojai dalyvauja susitikimuose su Energetikos ministerija LR vardu, ir tokiomis kitomis vyriausybės institucijomis dėl šio Projekto, kokių Energetikos ministerija, veikianti LR vardu, gali pagrįstai reikalauti. ^s-c68c25d8dbaf56c80f65a779
 
 
-11.1.3            Pagal 11.1.4 ir 13 punktus (Konfidencialumas), PB teikia LR visą papildomą informaciją, kurios LR gali pagrįstai prašyti, kad paaiškintų kokią nors į Ataskaitą įtrauktą ar joje minimą informaciją, su sąlyga, kad LR kiekvieną tokį prašymą pateikia per vieną (1) Mėnesį nuo dienos, kurią LR gavo šią atitinkamą Ataskaitą. ^a1743e7c4739b0d74dc05eca
+11.1.3            Pagal 11.1.4 ir 13 punktus (Konfidencialumas), PB teikia LR visą papildomą informaciją, kurios LR gali pagrįstai prašyti, kad paaiškintų kokią nors į Ataskaitą įtrauktą ar joje minimą informaciją, su sąlyga, kad LR kiekvieną tokį prašymą pateikia per vieną (1) Mėnesį nuo dienos, kurią LR gavo šią atitinkamą Ataskaitą. ^s-4b30e6bf1d65ebaf5651b44a
 
 
-11.1.4            Niekas 11.1 punkte (Projekto valdymas), 11.3 punkte (Pranešimas apie sprendimą nepradėti kito RPPD etapo), 11.4.2 punkte (Pranešimas apie GIS priėmimą) ar 12 punkte (Reguliavimo sistema) neįpareigoja PB atskleisti informacijos: ^dba36e041c7320596750075a
+11.1.4            Niekas 11.1 punkte (Projekto valdymas), 11.3 punkte (Pranešimas apie sprendimą nepradėti kito RPPD etapo), 11.4.2 punkte (Pranešimas apie GIS priėmimą) ar 12 punkte (Reguliavimo sistema) neįpareigoja PB atskleisti informacijos: ^s-81c4057084867300b92e2806
 (A)         kurią PB turi saugoti kaip konfidencialią pagal taikomus įstatymus dėl saugos ir saugumo klausimų;
 (B)         kuri yra konfidencialumo prievolės ar įsipareigojimo tarp PB ir Trečiosios šalies ar Strateginio investuotojo objektas pagal kokią nors rangos sutartį ar kaip nors kitaip, kai šios informacijos atskleidimas būtų PB įvykdytas šios konfidencialumo prievolės ar įsipareigojimo pažeidimas, su sąlyga, kad tuo atveju, jei PB gali turėti teisę atskleisti šią informaciją su tos Trečiosios šalies ar Strateginio investuotojo sutikimu (jei taikoma), PB deda pagrįstas pastangas gauti šį sutikimą;
 (C)         kuri yra PB ar Strateginio investuotojo komercinė paslaptis arba konfidenciali informacija pagal 13.2 punktą (Konfidenciali informacija); arba
 (D)         kuri yra teisiškai neskelbtina (arba kuri, kaip pagrįstai teigia PB, yra teisiškai neskelbtina).
 
 
-11.2     Tikrinimas ^438bb03ed55a6c5082226cfd
+11.2     Tikrinimas ^s-6fe5dbe160cf042202bfc97c
 Šalys pripažįsta, kad VATESI turi teisę pagal galiojančius Įstatymus tikrinti NAE, įskaitant tikrinimą siekiant įvykdyti LR kaip suteikiančiosios institucijos tikrinimo teises pagal Koncesijų įstatymą.
 
 
-11.3     Pranešimas apie sprendimą nepradėti kito RPPD etapo ^caa19f95fc2175b90953da56
+11.3     Pranešimas apie sprendimą nepradėti kito RPPD etapo ^s-693419d8d76fe33b0175519f
 
 
-11.3.1            Jei po pirmojo RPPD etapo Akcininkai nusprendžia, kad PB nepradės kito RPPD etapo (jei jis yra), ir šis sprendimas yra galutinis, PB apie tai praneša Energetikos ministerijai, veikiančiai LR vardu, kuo greičiau po šio sprendimo priėmimo. ^7fe707881980066b9aa649e3
+11.3.1            Jei po pirmojo RPPD etapo Akcininkai nusprendžia, kad PB nepradės kito RPPD etapo (jei jis yra), ir šis sprendimas yra galutinis, PB apie tai praneša Energetikos ministerijai, veikiančiai LR vardu, kuo greičiau po šio sprendimo priėmimo. ^s-1ca38ae42a3ea0cfb0236827
 
 
-11.3.2            Jei priimamas šis sprendimas, taikomas 23.2.1 punktas (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) ir pagal 11.1.4 punktą (Projekto valdymas) bei 13 punktą (Konfidencialumas) PB pateikia Energetikos ministerijai, veikiančiai LR vardu, pagrįstą išsamią informaciją dėl šio sprendimo priežasčių. ^ac8a6889be07be61c8eccb0f
+11.3.2            Jei priimamas šis sprendimas, taikomas 23.2.1 punktas (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) ir pagal 11.1.4 punktą (Projekto valdymas) bei 13 punktą (Konfidencialumas) PB pateikia Energetikos ministerijai, veikiančiai LR vardu, pagrįstą išsamią informaciją dėl šio sprendimo priežasčių. ^s-9aea62acd6808d7bf7a90e31
 
 
-11.3.3            Galutinis sprendimas nepradėti kito RPPD etapo (jei jis yra) laikomas galutiniu neigiamu GIS (kaip apibrėžta 11.4.1 punkte) ir nuorodos į pranešimą LR apie galutinį neigiamą GIS pagal 11.4 punktą (Pranešimas apie GIS priėmimą) laikomos apimančiomis minimą galutinį neigiamą GIS pagal 11.3 punktą (Pranešimas apie sprendimą nepradėti kito RPPD etapo). ^c7d621a6bccfa8c2c82f5d85
+11.3.3            Galutinis sprendimas nepradėti kito RPPD etapo (jei jis yra) laikomas galutiniu neigiamu GIS (kaip apibrėžta 11.4.1 punkte) ir nuorodos į pranešimą LR apie galutinį neigiamą GIS pagal 11.4 punktą (Pranešimas apie GIS priėmimą) laikomos apimančiomis minimą galutinį neigiamą GIS pagal 11.3 punktą (Pranešimas apie sprendimą nepradėti kito RPPD etapo). ^s-aae1cc241a7c2e58cc409381
 
 
 
-11.4     Pranešimas apie GIS priėmimą ^7885881f0c692d5ea72126d1
+11.4     Pranešimas apie GIS priėmimą ^s-7d5df8e1c9351bcb2e069b57
 
 
-11.4.1            Jei Akcininkai priima: ^8992acbbf96c46f65d7b92eb
+11.4.1            Jei Akcininkai priima: ^s-d5386bad79ef4411739682a2
 (A)         neigiamą GIS, kuris jų sprendimu yra galutinis, ir padaro išvadą, kad kitas(i) GIS nebus priimtas(i) („galutinis neigiamas GIS“); arba
 (B)         teigiamą GIS,
 PB apie tai praneša Energetikos ministerijai, veikiančiai LR vardu, kuo greičiau po šio GIS priėmimo.
 
 
-11.4.2            Jei priimamas galutinis neigiamas GIS, taikomas 23.2.2 punktas (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) ir pagal 11.1.4 punktą (Projekto valdymas) bei 13 punktą (Konfidencialumas) PB pateikia Energetikos ministerijai, veikiančiai LR vardu, pagrįstai išsamią informaciją apie tai, kodėl buvo priimtas galutinis neigiamas GIS. ^dd3569c374d826a1741c01f3
+11.4.2            Jei priimamas galutinis neigiamas GIS, taikomas 23.2.2 punktas (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) ir pagal 11.1.4 punktą (Projekto valdymas) bei 13 punktą (Konfidencialumas) PB pateikia Energetikos ministerijai, veikiančiai LR vardu, pagrįstai išsamią informaciją apie tai, kodėl buvo priimtas galutinis neigiamas GIS. ^s-5bc8e6eef6aff58a5bd3de9c
 
 
-12.       REGULIAVIMO SISTEMA ^706e149bdddf897f88270f89
+12.       REGULIAVIMO SISTEMA ^s-53e67a3e586ecabf3f771d63
 
 
-12.1     Išskyrus atvejus, kai tai draudžia galiojantys įstatymai, įskaitant visus Įstatymų reikalavimus, ir pagal 11.1.4 punktą (Projekto valdymas), 13 punktą (Konfidencialumas) bei 12.3 punktą toliau PB po Investavimo dienos nedelsdama raštu praneša Energetikos ministerijai, veikiančiai LR vardu, apie visus esminius Reguliuotojo veiksmus (įskaitant visus sustabdymo pranešimus, priverstinio vykdymo pranešimus ir (arba) esminius būtinus aktualių procedūrų pakeitimus) dėl Projekto. ^985333e46a9f9a8c1181542b
+12.1     Išskyrus atvejus, kai tai draudžia galiojantys įstatymai, įskaitant visus Įstatymų reikalavimus, ir pagal 11.1.4 punktą (Projekto valdymas), 13 punktą (Konfidencialumas) bei 12.3 punktą toliau PB po Investavimo dienos nedelsdama raštu praneša Energetikos ministerijai, veikiančiai LR vardu, apie visus esminius Reguliuotojo veiksmus (įskaitant visus sustabdymo pranešimus, priverstinio vykdymo pranešimus ir (arba) esminius būtinus aktualių procedūrų pakeitimus) dėl Projekto. ^s-3638b1600a1230f6862023c4
 
 
-12.2     Išskyrus atvejus, kai tai draudžia galiojantys įstatymai, įskaitant visus Įstatymų reikalavimus, ir pagal 11.1.4 punktą (Projekto valdymas), 13 punktą (Konfidencialumas) bei 12.3 punktą toliau Energetikos ministerija, veikianti LR vardu, po Investavimo dienos, turi teisę reikalauti diskusijų su PB, kurios vyktų kaip susitikimai ar kaip nors kitaip, kad suprastų aplinkybes, kurios paskatino šiuos kurio nors Reguliuotojo veiksmus. ^8336ff234b48d76fe8de1eca
+12.2     Išskyrus atvejus, kai tai draudžia galiojantys įstatymai, įskaitant visus Įstatymų reikalavimus, ir pagal 11.1.4 punktą (Projekto valdymas), 13 punktą (Konfidencialumas) bei 12.3 punktą toliau Energetikos ministerija, veikianti LR vardu, po Investavimo dienos, turi teisę reikalauti diskusijų su PB, kurios vyktų kaip susitikimai ar kaip nors kitaip, kad suprastų aplinkybes, kurios paskatino šiuos kurio nors Reguliuotojo veiksmus. ^s-2a213816b31dee3ba60dc2f6
 
 
-12.3     Šiame 12 punkte (Reguliavimo sistema) nuorodos į „Reguliuotoją“ reiškia tik tuos Lietuvos Reguliuotojus, kurie pagal įstatymus turi įgaliojimus prižiūrėti ir reguliuoti visus NAE projektavimo, statybos, bandymo, eksploatacijos pradžios, eksploatavimo, techninės priežiūros ir (arba) eksploatacijos nutraukimo veiksmus. ^b282aea5a277045fdcfe95c6
+12.3     Šiame 12 punkte (Reguliavimo sistema) nuorodos į „Reguliuotoją“ reiškia tik tuos Lietuvos Reguliuotojus, kurie pagal įstatymus turi įgaliojimus prižiūrėti ir reguliuoti visus NAE projektavimo, statybos, bandymo, eksploatacijos pradžios, eksploatavimo, techninės priežiūros ir (arba) eksploatacijos nutraukimo veiksmus. ^s-b3f53e6fd8a974d6195888dc
 
 
 
-[[#^bfae8f8c42a4a86ea4ee197b|5 DALIS]]: KONFIDENCIALUMAS IR VIEŠUMAS
+5 DALIS: KONFIDENCIALUMAS IR VIEŠUMAS
 
 
-13.       KONFIDENCIALUMAS ^3b57ea251c68c3299d0bfe85
+13.       KONFIDENCIALUMAS ^s-7a5932e083800e2114fb8daf
 
 
-13.1     Šalys ^7f04f052bbb0bc1d20b4333e
+13.1     Šalys ^s-5943b2b1ce8ef163bf5a75bd
 Šalys pripažįsta ir sutinka, kad:
 
 
-13.1.1          13.2 (Konfidenciali informacija)–13.11 (Nuostoliai) punktai (imtinai) taikomi: (1) LR ir PB santykiams ir (2) LR bei Strateginio investuotojo santykiams, bet netaikomi PB ir Strateginio investuotojo santykiams, ir nuorodos į „Šalį“, „Gavėją“ ar „Informuojančią šalį“ aiškinamos atitinkamai; ^e3c9c8da99ec28fdc150130b
+13.1.1          13.2 (Konfidenciali informacija)–13.11 (Nuostoliai) punktai (imtinai) taikomi: (1) LR ir PB santykiams ir (2) LR bei Strateginio investuotojo santykiams, bet netaikomi PB ir Strateginio investuotojo santykiams, ir nuorodos į „Šalį“, „Gavėją“ ar „Informuojančią šalį“ aiškinamos atitinkamai; ^s-3de820a608abbf615b272f49
 
 
-13.1.2          tik šiame 13 punkte (Konfidencialumas) (išskyrus 13.9 punktą (Ypač slapta informacija)) kiekviena nuoroda į LR: ^c19a2454aa19bc3800ac0335
+13.1.2          tik šiame 13 punkte (Konfidencialumas) (išskyrus 13.9 punktą (Ypač slapta informacija)) kiekviena nuoroda į LR: ^s-99298731bbbd7fa4420f4883
 (A)        jei LR yra Gavėjas (išskyrus pagal 13.6 punktą (Atsakomybė)), laikoma nuoroda į Energetikos ministeriją, o ne nuoroda į kokį nors kitą LR subjektą (kaip apibrėžta 13.10 punkte (LR subjektas) toliau); ir
 (B)        dėl šios informacijos, kuri pateikta Energetikos ministerijai ar jos gauta, atskleidimo (ir atsakomybės už šį atskleidimą, įskaitant pagal 13.6 punktą (Atsakomybė)), nuorodos yra į LR; ir
 
 
-13.1.3          nepaisant to, kas išdėstyta prieš tai, LR išlieka visiškai atsakinga už Energetikos ministerijos veiksmus ir neveikimą, tarsi tai būtų LR veiksmai ar neveikimas dėl šio 13 punkto (Konfidencialumas). ^0508c71cb0483caac9ff86de
+13.1.3          nepaisant to, kas išdėstyta prieš tai, LR išlieka visiškai atsakinga už Energetikos ministerijos veiksmus ir neveikimą, tarsi tai būtų LR veiksmai ar neveikimas dėl šio 13 punkto (Konfidencialumas). ^s-22c12af18622359f7e0bc32b
 
 
-13.2     Konfidenciali informacija ^df1f57989f6b9a36d4ec2462
+13.2     Konfidenciali informacija ^s-04efd74e1d1137414bb63c62
 Pagal 13.3 punktą (Išimtys) ir 13.4 punktą (Leistinas atskleidimas) kiekviena Šalis („Gavėjas“) įsipareigoja kitai Šaliai („Informuojančiai šaliai“), kad (nebent prieš tai būtų gautas išankstinis rašytinis Informuojančios šalies sutikimas) Gavėjas laikys paslaptyje ir užtikrins, kad jo tarnautojai, darbuotojai, konsultantai, atstovai ir tarpininkai laikytų paslaptyje Informuojančios šalies konfidencialią informaciją, ir kad nei tinkamai nepasirūpindamas, nei kokiu nors kitu būdu atlikdamas kokį veiksmą arba jo neatlikdamas, neatskleis Informuojančios šalies konfidencialios informacijos jokiam asmeniui, taip pat nenaudos arba neišnaudos jos komerciniu ar kokiu kitu būdu savo arba tokių kitų asmenų tikslais. Šiame 13 punkte (Konfidencialumas) ir pagal 13.3 punktą (Išimtys) „konfidenciali informacija“ reiškia:
 
 
-13.2.1          bet kurią sutartį ar susitarimą, kurie numatyti šioje Koncesijos sutartyje, nesvarbu, ar tokia sutartis ar susitarimas pateikiami tiesiogiai per Strateginį investuotoją, PB ar kaip nors kitaip, su sąlyga, kad Papildomų sutarčių ir Akcininkų sutarties atžvilgiu PB ir Strateginis investuotojas laikomi Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją; ^827a829d5056cc6bd308b58e
+13.2.1          bet kurią sutartį ar susitarimą, kurie numatyti šioje Koncesijos sutartyje, nesvarbu, ar tokia sutartis ar susitarimas pateikiami tiesiogiai per Strateginį investuotoją, PB ar kaip nors kitaip, su sąlyga, kad Papildomų sutarčių ir Akcininkų sutarties atžvilgiu PB ir Strateginis investuotojas laikomi Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją; ^s-f6581442bfdf840670770cf1
 
 
-13.2.2          bet kokio pobūdžio informaciją apie Informuojančios šalies verslą, finansus, turtą, įsipareigojimus, susitarimus, sandorius, praktinę patirtį, klientus, tiekėjus, procesus arba reikalus; ^7320e323bf4de8be3b6528ab
+13.2.2          bet kokio pobūdžio informaciją apie Informuojančios šalies verslą, finansus, turtą, įsipareigojimus, susitarimus, sandorius, praktinę patirtį, klientus, tiekėjus, procesus arba reikalus; ^s-49f495fcad4ec7796ec74849
 
 
-13.2.3          bet kokio pobūdžio informaciją apie „Hitachi, Ltd. Group“ arba „GE-Hitachi Nuclear Energy Americas LLC“ arba „Global Nuclear Fuel – Americas, LLC“ bet kurio nario verslą, finansus, turtą, įsipareigojimus, susitarimus, sandorius, praktinę patirtį, klientus, tiekėjus, procesus arba reikalus, nesvarbu, ar ta informacija pateikta tiesiogiai ar netiesiogiai per Strateginį investuotoją, PB ar kaip nors kitaip, ir šios informacijos atžvilgiu Strateginis investuotojas laikomas Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją; ^da0cda0131e84b1fe5499a3c
+13.2.3          bet kokio pobūdžio informaciją apie „Hitachi, Ltd. Group“ arba „GE-Hitachi Nuclear Energy Americas LLC“ arba „Global Nuclear Fuel – Americas, LLC“ bet kurio nario verslą, finansus, turtą, įsipareigojimus, susitarimus, sandorius, praktinę patirtį, klientus, tiekėjus, procesus arba reikalus, nesvarbu, ar ta informacija pateikta tiesiogiai ar netiesiogiai per Strateginį investuotoją, PB ar kaip nors kitaip, ir šios informacijos atžvilgiu Strateginis investuotojas laikomas Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją; ^s-32615bd134921a9a7b3af890
 
 
-13.2.4          ypač slaptą informaciją, nesvarbu, ar ši informacija tiesiogiai ar netiesiogiai pateikta per Strateginį investuotoją, PB ar kaip nors kitaip, ir šios informacijos atžvilgiu Strateginis investuotojas laikomas Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją; ^41c0cb3f893649098dc6fbcc
+13.2.4          ypač slaptą informaciją, nesvarbu, ar ši informacija tiesiogiai ar netiesiogiai pateikta per Strateginį investuotoją, PB ar kaip nors kitaip, ir šios informacijos atžvilgiu Strateginis investuotojas laikomas Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją; ^s-7f964a79f6789ad1f7c89192
 
 
-13.2.5          visus dokumentus, medžiagą ir kitą informaciją, kurie, kaip aiškiai nurodyta, yra konfidencialūs ar kuriuos Informuojanti šalis pateikė Gavėjui aplinkybėmis, kurios reiškia konfidencialumo įsipareigojimą, ir visas Ataskaitas, pateiktas pagal 11 punktą (Ataskaitos ir stebėsena); ir ^39f9da44677a99433d0b1262
+13.2.5          visus dokumentus, medžiagą ir kitą informaciją, kurie, kaip aiškiai nurodyta, yra konfidencialūs ar kuriuos Informuojanti šalis pateikė Gavėjui aplinkybėmis, kurios reiškia konfidencialumo įsipareigojimą, ir visas Ataskaitas, pateiktas pagal 11 punktą (Ataskaitos ir stebėsena); ir ^s-61473899db3d60e0f7be03df
 
 
-13.2.6          bet kokio pobūdžio informaciją, susijusią su derybomis dėl sutarčių Projektui po Koncesijos dienos tiek, kiek šioms deryboms nėra taikomos sąlygos kokio nors kito konfidencialumo įsipareigojimo, sudaryto po Koncesijos dienos tarp LR ir PB arba tarp Strateginio investuotojo ir LR bei susijusio su šia informacija, kuriai taip pat taikomi ankstesni 13.2.3 arba 13.2.4 punktai, Strateginis investuotojas laikomas Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją, ^daaa371f5290db163f931e31
+13.2.6          bet kokio pobūdžio informaciją, susijusią su derybomis dėl sutarčių Projektui po Koncesijos dienos tiek, kiek šioms deryboms nėra taikomos sąlygos kokio nors kito konfidencialumo įsipareigojimo, sudaryto po Koncesijos dienos tarp LR ir PB arba tarp Strateginio investuotojo ir LR bei susijusio su šia informacija, kuriai taip pat taikomi ankstesni 13.2.3 arba 13.2.4 punktai, Strateginis investuotojas laikomas Informuojančia šalimi, nepriklausomai nuo to, kas atskleidžia informaciją, ^s-8134561f8f756a388a84df99
 ir kurią Gavėjas gali kartais gauti (žodžiu ar raštu arba diske ar elektronine forma) dėl to, kad sudarė šią Koncesijos sutartį ar vykdo savo įsipareigojimus pagal ją arba (tik LR ir jos gaunamos Ypač slaptos informacijos atžvilgiu) kaip nors kitaip.
 
 
-13.3     Išimtys ^a436a3dde45bbd97fe818281
+13.3     Išimtys ^s-2f2efeb2689e9eb8beeefbb7
 Nepaisant 13.2 punkto (Konfidenciali informacija), konfidenciali informacija neapima:
 
 
-13.3.1          informacijos, kuri yra tapusi vieša Gavėjui nepažeidus šios Koncesijos sutarties, ir šiuo tikslu kurio nors LR subjekto turimos žinios nėra laikomos viešomis; ^584102608bc05ed9e3f377f0
+13.3.1          informacijos, kuri yra tapusi vieša Gavėjui nepažeidus šios Koncesijos sutarties, ir šiuo tikslu kurio nors LR subjekto turimos žinios nėra laikomos viešomis; ^s-1f0e18dd23e505732d9f204b
 
 
-13.3.2          informacijos, kurią Gavėjui atskleidė Trečioji šalis (ne LR subjektas), nepažeidusi jokio su šia informacija susijusio aiškaus ar numanomo konfidencialumo įsipareigojimo ar prievolės; ^f3013250fdeedead2d5add6d
+13.3.2          informacijos, kurią Gavėjui atskleidė Trečioji šalis (ne LR subjektas), nepažeidusi jokio su šia informacija susijusio aiškaus ar numanomo konfidencialumo įsipareigojimo ar prievolės; ^s-642fea0077f14b9faf1ad32b
 
 
-13.3.3          informacijos, kurią Gavėjas gali įrodyti teisėtai gavęs (ne iš LR subjekto) prieš tai, kol ją gavo iš Informuojančios šalies, ir šiai informacijai nebuvo taikomas joks aiškus ar numanomas konfidencialumo įsipareigojimas ar prievolė; ^2b9d994214a4d8eecf03d2a5
+13.3.3          informacijos, kurią Gavėjas gali įrodyti teisėtai gavęs (ne iš LR subjekto) prieš tai, kol ją gavo iš Informuojančios šalies, ir šiai informacijai nebuvo taikomas joks aiškus ar numanomas konfidencialumo įsipareigojimas ar prievolė; ^s-29f8fc0ab22b34fff75ca74e
 
 
-13.3.4          pačios Koncesijos sutarties ir jos egzistavimo; ir ^1f2df0353a797ed07c329d26
+13.3.4          pačios Koncesijos sutarties ir jos egzistavimo; ir ^s-2f5051249aa7fc07801479a8
 
 
-13.3.5          kokios nors Projekto sutarties, kuri nėra Koncesijos sutartis, egzistavimo. ^d018c681b42173bd4216bffa
+13.3.5          kokios nors Projekto sutarties, kuri nėra Koncesijos sutartis, egzistavimo. ^s-ac97e7599172db2ef9db7b31
 
 
-13.4     Leistinas atskleidimas ^122ddccc8048f4423e582e48
+13.4     Leistinas atskleidimas ^s-42af5f83a8a61b4e88536a0f
 Pagal 13.9 punktą (Ypač slapta informacija) 13.2 punkte (Konfidenciali informacija) minimo sutikimo nereikia tam, kad Gavėjas atskleistų kokią nors konfidencialią informaciją:
 
 
-13.4.1          savo tarnautojams, darbuotojams, atstovams ir tarpininkams ar savo Susijusioms bendrovėms ir jų tarnautojams, darbuotojams, atstovams bei tarpininkams kiekvienu atveju tiek, kiek: ^2f874518c6859ff4d0a081f1
+13.4.1          savo tarnautojams, darbuotojams, atstovams ir tarpininkams ar savo Susijusioms bendrovėms ir jų tarnautojams, darbuotojams, atstovams bei tarpininkams kiekvienu atveju tiek, kiek: ^s-b9d7a251f555d24ff320bc0e
 (A)           šis atskleidimas daromas Projekto tikslu ar yra susijęs su reikalais, kurie numatyti šioje Koncesijos sutartyje;
 (B)           šiems tarnautojams, darbuotojams, atstovams ir tarpininkams reikia žinoti atitinkamą konfidencialią informaciją, kad jie vykdytų su Projektu susijusias savo prievoles; arba
 (C             )šis atskleidimas reikalingas, kad Gavėjas galėtų vykdyti savo pareigas ar pasinaudoti savo teisėmis pagal šią Koncesijos sutartį,
 ir kuriuos Gavėjas kiekvienu atveju informuoja apie savo įsipareigojimus pagal šią Koncesijos sutartį ir jų reikalauja laikytis tų pačių apribojimų dėl šios atitinkamos informacijos, nustatytų šiame 13 punkte (Konfidencialumas);
 
 
-13.4.2          jei Gavėjas yra LR, Lietuvos Respublikos Seimui ir Vyriausybei, įskaitant visas ministerijas ir ministrus ir kiekvienos jų atitinkamus tarnautojus, darbuotojus, atstovus ir tarpininkus kiekvienu atveju tiek, kiek pagrįstai būtina: ^1ca3ab15a25415e13a239ed6
+13.4.2          jei Gavėjas yra LR, Lietuvos Respublikos Seimui ir Vyriausybei, įskaitant visas ministerijas ir ministrus ir kiekvienos jų atitinkamus tarnautojus, darbuotojus, atstovus ir tarpininkus kiekvienu atveju tiek, kiek pagrįstai būtina: ^s-f5aae3de43fb1887378230f6
 (A)           vykdyti įstatymų nustatytas Lietuvos Respublikos Vyriausybės funkcijas ir prievoles;
 (B)           įgyvendinti bet kurią atitinkamą Lietuvos Respublikos Vyriausybės politiką;
 (C)           nacionalinio saugumo ar saugos tikslais; arba
@@ -4818,25 +4823,25 @@ ir kuriuos Gavėjas kiekvienu atveju informuoja apie savo įsipareigojimus pagal
 ir kuriuos Gavėjas kiekvienu atveju informuoja apie savo įsipareigojimus pagal šią Koncesijos sutartį ir jų reikalauja laikytis tų pačių apribojimų dėl šios atitinkamos informacijos, nustatytų šiame 13 punkte (Konfidencialumas);
 
 
-13.4.3          pagal 13.5 punktą savo profesionaliems konsultantams, kurie yra susaistyti su Gavėju konfidencialumo prievole, kuri taikoma visai atskleistai informacijai; ^8b9c885d2db43e2f35a16240
+13.4.3          pagal 13.5 punktą savo profesionaliems konsultantams, kurie yra susaistyti su Gavėju konfidencialumo prievole, kuri taikoma visai atskleistai informacijai; ^s-9cdc4d80d08da3c6a14d5fe3
 
 
-13.4.4          pagal 13.5 punktą savo draudikams, šiems prisiėmus konfidencialumo įsipareigojimą Gavėjo naudai, lygiavertį tam, kuris nurodytas šiame 13 punkte (Konfidencialumas); ^d0c36b977873f095ecff37f5
+13.4.4          pagal 13.5 punktą savo draudikams, šiems prisiėmus konfidencialumo įsipareigojimą Gavėjo naudai, lygiavertį tam, kuris nurodytas šiame 13 punkte (Konfidencialumas); ^s-59cb958d991559511e693e2a
 
 
-13.4.5          pagal 13.5 punktą galimiems ar faktiniams Finansininkams, šiems prisiėmus konfidencialumo įsipareigojimą Gavėjo naudai, lygiavertį tam, kuris nurodytas šiame 13 punkte (Konfidencialumas); ^513a3a139e8863d147167ab8
+13.4.5          pagal 13.5 punktą galimiems ar faktiniams Finansininkams, šiems prisiėmus konfidencialumo įsipareigojimą Gavėjo naudai, lygiavertį tam, kuris nurodytas šiame 13 punkte (Konfidencialumas); ^s-cfe6bc96635fc63ad358c1fc
 
 
-13.4.6          Akcininkams, tiesioginiam ar netiesioginiam investuotojui į PB (išskyrus tiesioginį ar netiesioginį investuotoją į LR patikėtinį) ar asmenims, su kuriais PB ir (arba) kuris(e) nors Akcininkas(i) tariasi dėl tapimo Akcininku ar tiesioginiu ar netiesioginiu PB investuotoju (išskyrus tiesioginį ar netiesioginį investuotoją į LR Patikėtinį), šiems prisiėmus konfidencialumo įsipareigojimą Gavėjo naudai, lygiavertį tam, kuris nurodytas šiame 13 punkte (Konfidencialumas); ^92e22a0357ba650d92f5d6a9
+13.4.6          Akcininkams, tiesioginiam ar netiesioginiam investuotojui į PB (išskyrus tiesioginį ar netiesioginį investuotoją į LR patikėtinį) ar asmenims, su kuriais PB ir (arba) kuris(e) nors Akcininkas(i) tariasi dėl tapimo Akcininku ar tiesioginiu ar netiesioginiu PB investuotoju (išskyrus tiesioginį ar netiesioginį investuotoją į LR Patikėtinį), šiems prisiėmus konfidencialumo įsipareigojimą Gavėjo naudai, lygiavertį tam, kuris nurodytas šiame 13 punkte (Konfidencialumas); ^s-963ccb9758281d3c2ed431ca
 
 
-13.4.7          tiek, kiek mažiausia apimtimi reikalauja pateikti taikomi įstatymai (įskaitant visus Reguliuotojus) ar kurios nors vertybinių popierių biržos arba reguliavimo ar priežiūros institucijos patvirtintos taisyklės, taikomos Gavėjui ar kuriai nors jo Susijusiai bendrovei, arba kai to reikalauja koks nors kompetentingos jurisdikcijos teismo arba kitos Kompetentingos institucijos ar specializuoto teismo sprendimas; arba ^449927fbdbffaf254bcbd185
+13.4.7          tiek, kiek mažiausia apimtimi reikalauja pateikti taikomi įstatymai (įskaitant visus Reguliuotojus) ar kurios nors vertybinių popierių biržos arba reguliavimo ar priežiūros institucijos patvirtintos taisyklės, taikomos Gavėjui ar kuriai nors jo Susijusiai bendrovei, arba kai to reikalauja koks nors kompetentingos jurisdikcijos teismo arba kitos Kompetentingos institucijos ar specializuoto teismo sprendimas; arba ^s-9e26bfc3518ccb7b6d72d342
 
 
-13.4.8          teismui ar specializuotam teismui dėl kokio nors Ginčo ar ieškinio, susijusio su Projektu, pateikto pagal Investicijų apsaugos sutartį; arba ^5ae381af8ec2992fc0144c6f
+13.4.8          teismui ar specializuotam teismui dėl kokio nors Ginčo ar ieškinio, susijusio su Projektu, pateikto pagal Investicijų apsaugos sutartį; arba ^s-41262258793bf193d0d51d3c
 
 
-13.4.9          Latvijos Respublikos parlamentui ir Vyriausybei bei Estijos Respublikos parlamentui ir Vyriausybei (atitinkamai), įskaitant visas ministerijas ir ministrus ir kiekvienos jų atitinkamus tarnautojus, darbuotojus, atstovus ir tarpininkus (toliau – Regiono partnerių vyriausybė) (tiesiogiai arba per Akcininkus) kiekvienu atveju tiek, kiek pagrįstai būtina: ^19c98bea9a4b212bc8ca20c0
+13.4.9          Latvijos Respublikos parlamentui ir Vyriausybei bei Estijos Respublikos parlamentui ir Vyriausybei (atitinkamai), įskaitant visas ministerijas ir ministrus ir kiekvienos jų atitinkamus tarnautojus, darbuotojus, atstovus ir tarpininkus (toliau – Regiono partnerių vyriausybė) (tiesiogiai arba per Akcininkus) kiekvienu atveju tiek, kiek pagrįstai būtina: ^s-5904a82caa2e06a60de48aa3
 (A)           vykdyti Regioninių partnerių vyriausybės įstatymų nustatytas funkcijas ir prievoles;
 (B)           įgyvendinti bet kurią atitinkamą Regioninių partnerių vyriausybės politiką;
 (C)           nacionalinio saugumo ar saugos tikslais; arba
@@ -4844,126 +4849,126 @@ ir kuriuos Gavėjas kiekvienu atveju informuoja apie savo įsipareigojimus pagal
 ir kuriuos Gavėjas kiekvienu atveju informuoja apie savo įsipareigojimus pagal šią Koncesijos sutartį ir jų reikalauja laikytis tų pačių apribojimų dėl šios atitinkamos informacijos, nustatytų šiame 13 punkte (Konfidencialumas).
 
 
-13.5       Bet koks Gavėjo vykdomas konfidencialios informacijos atskleidimas savo profesionaliems konsultantams, draudikams ar Finansininkams atitinkamai pagal 13.4.3, 13.4.4 ir 13.4.5 punktus apsiriboja tuo, kiek: ^f303f2785681fe0891d9bbd2
+13.5       Bet koks Gavėjo vykdomas konfidencialios informacijos atskleidimas savo profesionaliems konsultantams, draudikams ar Finansininkams atitinkamai pagal 13.4.3, 13.4.4 ir 13.4.5 punktus apsiriboja tuo, kiek: ^s-ef5daf476132da5c65d88c40
 
 
-13.5.1          šis atskleidimas vykdomas Projekto tikslais ar susijęs su reikalais, kurie aptariami šioje Koncesijos sutartyje; ir ^7f5049103fa3b80c40a387d9
+13.5.1          šis atskleidimas vykdomas Projekto tikslais ar susijęs su reikalais, kurie aptariami šioje Koncesijos sutartyje; ir ^s-8c7930801359171f9559cc52
 
 
-13.5.2          šiems profesionaliems konsultantams, draudikams ar Finansininkams (jei taikoma) reikia žinoti atitinkamą konfidencialią informaciją, kad jie vykdytų savo esamus ar būsimus įsipareigojimus ar prievoles Gavėjui. ^9f924d832e0abe8c7e63f79a
+13.5.2          šiems profesionaliems konsultantams, draudikams ar Finansininkams (jei taikoma) reikia žinoti atitinkamą konfidencialią informaciją, kad jie vykdytų savo esamus ar būsimus įsipareigojimus ar prievoles Gavėjui. ^s-0b78857629bc8dfa03524a6c
 
 
-13.6     Atsakomybė ^76d462807a67dc8903733b7b
+13.6     Atsakomybė ^s-312eceac03c6ebfc45e50b77
 Kiekvienas Gavėjas yra visiškai atsakingas ir atsako Informuojančiai šaliai už tolesnį Informuojančios šalies konfidencialios informacijos atskleidimą, kurį įvykdė Trečiosios šalies gavėjas (ir kuris nors iš jos gavėjų), tarsi šią informaciją būtų atskleidęs Gavėjas pagal šią Koncesijos sutartį. Norint išvengti abejonių, bet kuris asmuo, gaunantis konfidencialią informaciją pagal 13.4 punktą (Leistinas atskleidimas) (įskaitant bet kurį LR subjektą) yra „Trečiosios šalies gavėjas“.
 
 
-13.7     Sutikimas ^04128f777746642e9b1aec66
+13.7     Sutikimas ^s-951ac758f867c3824feb0b0f
 Jei Gavėjas prašo Informuojančios šalies sutikimo atskleisti kokią nors Informuojančios šalies konfidencialią informaciją, šis sutikimas neturi būti nepagrįstai neduodamas ar vilkinamas. Šis 13.7 punktas (Sutikimas) netaikomas Ypač slaptai informacijai.
 
 
-13.8     Jei 13.4.7 punkte (Leistinas atskleidimas) ar 13.9.1(B) punkte (Ypač slapta informacija) numatytomis aplinkybėmis kurio nors Gavėjo reikalaujama atskleisti kokią nors konfidencialią informaciją (įskaitant Ypač slaptą informaciją), Gavėjas tiek, kiek leidžia galiojantys įstatymai: ^0437b27573a7116587e49ab0
+13.8     Jei 13.4.7 punkte (Leistinas atskleidimas) ar 13.9.1(B) punkte (Ypač slapta informacija) numatytomis aplinkybėmis kurio nors Gavėjo reikalaujama atskleisti kokią nors konfidencialią informaciją (įskaitant Ypač slaptą informaciją), Gavėjas tiek, kiek leidžia galiojantys įstatymai: ^s-41955fca91005e19d1dc9872
 
 
-13.8.1          pateikia Informuojančiai šaliai pranešimą, kaip to reikia tokio atskleidimo aplinkybėmis; ^1e7daac40d3f7ee0392f1048
+13.8.1          pateikia Informuojančiai šaliai pranešimą, kaip to reikia tokio atskleidimo aplinkybėmis; ^s-25d5bb4e1c975fca774d9598
 
 
-13.8.2          bendradarbiauja su Informuojančia šalimi (tinkamai atsižvelgdamas į Informuojančios šalies nuomonę) ir imasi veiksmų, kurių Informuojanti šalis gali pagrįstai reikalauti, kad ši galėtų sušvelninti tokio atskleidimo pasekmes ar išvengtų reikalavimų atskleisti tokią informaciją; ir ^e2943c71d849f227af7da4d8
+13.8.2          bendradarbiauja su Informuojančia šalimi (tinkamai atsižvelgdamas į Informuojančios šalies nuomonę) ir imasi veiksmų, kurių Informuojanti šalis gali pagrįstai reikalauti, kad ši galėtų sušvelninti tokio atskleidimo pasekmes ar išvengtų reikalavimų atskleisti tokią informaciją; ir ^s-982ccfd44128783330e52110
 
 
-13.8.3          pasitaręs su Informuojančia šalimi, imasi veiksmų, kurie yra pagrįsti, kad būtų galima visiškai sumažinti tokio atskleidimo mastą, įskaitant tai, kad būtų atskleistas mažiausias konfidencialios informacijos kiekis, kurį būtina atskleisti laikantis šių įstatymų, taisyklių ar potvarkio. ^49def56407973d6885a154f0
+13.8.3          pasitaręs su Informuojančia šalimi, imasi veiksmų, kurie yra pagrįsti, kad būtų galima visiškai sumažinti tokio atskleidimo mastą, įskaitant tai, kad būtų atskleistas mažiausias konfidencialios informacijos kiekis, kurį būtina atskleisti laikantis šių įstatymų, taisyklių ar potvarkio. ^s-3e32ba025881c78e508584d3
 
 
-13.9     Ypač slapta informacija ^af63b20e5a523d4d5e4c4d2e
+13.9     Ypač slapta informacija ^s-1862635c436f47af97f31ddc
 
 
-13.9.1          Nepaisydamos jokių kitų šios Koncesijos sutarties nuostatų, Šalys susitaria ir sutinka, kad PB ir Strateginio investuotojo nereikalaujama, teikiant ataskaitą ar kitu atveju, pateikti LR Ypač slaptą informaciją pagal šią Koncesijos sutartį ar kaip nors kitaip (išskyrus tiek, kiek to reikalauja galiojantys Įstatymai, įskaitant atvejį, kai tai teisėtai verčia daryti kuris nors Lietuvos Reguliuotojas). Tiek, kiek LR (įskaitant kiekvieną LR subjektą, kad būtų išvengta abejonių) suteikiama Ypač slapta informacija, LR (įskaitant kiekvieną LR subjektą, kad būtų išvengta abejonių), nepaisydama 13.4 punkto (Leistinas atskleidimas), neatskleidžia šios Ypač slaptos informacijos jokiam kitam asmeniui, nebent: ^18a25633bfe11cfc481d4f00
+13.9.1          Nepaisydamos jokių kitų šios Koncesijos sutarties nuostatų, Šalys susitaria ir sutinka, kad PB ir Strateginio investuotojo nereikalaujama, teikiant ataskaitą ar kitu atveju, pateikti LR Ypač slaptą informaciją pagal šią Koncesijos sutartį ar kaip nors kitaip (išskyrus tiek, kiek to reikalauja galiojantys Įstatymai, įskaitant atvejį, kai tai teisėtai verčia daryti kuris nors Lietuvos Reguliuotojas). Tiek, kiek LR (įskaitant kiekvieną LR subjektą, kad būtų išvengta abejonių) suteikiama Ypač slapta informacija, LR (įskaitant kiekvieną LR subjektą, kad būtų išvengta abejonių), nepaisydama 13.4 punkto (Leistinas atskleidimas), neatskleidžia šios Ypač slaptos informacijos jokiam kitam asmeniui, nebent: ^s-f0cb9dde298a3a03921b666b
 (A)           LR pirmiausia pasitarė su Strateginiu investuotoju dėl šio atskleidimo ar gavo išankstinį Strateginio investuotojo sutikimą; arba
 (B)           informaciją atskleisti reikalauja galiojantys Įstatymai (įskaitant atvejus, kai to teisėtai reikalauja kuris nors Reguliuotojas).
 
 
-13.9.2          Siekdama išvengti abejonių ir laikydamasi 13.9.3 punkto, LR sutinka, kad ji bus atsakinga už tai, jei kuris nors LR subjektas atskleis kokią nors Ypač slaptą informaciją, kai ją atskleisti draudžiama pagal 13.9.1 punktą, nepriklausomai nuo to, kaip šis LR subjektas gavo tokią Ypač slaptą informaciją. ^08e8e6a9443de22cb1d6abdb
+13.9.2          Siekdama išvengti abejonių ir laikydamasi 13.9.3 punkto, LR sutinka, kad ji bus atsakinga už tai, jei kuris nors LR subjektas atskleis kokią nors Ypač slaptą informaciją, kai ją atskleisti draudžiama pagal 13.9.1 punktą, nepriklausomai nuo to, kaip šis LR subjektas gavo tokią Ypač slaptą informaciją. ^s-db2b1b7e586a67399c8c3219
 
 
-13.9.3          Strateginis investuotojas (ar PB) gali informuoti Energetikos ministeriją ar bet kurį kitą LR subjektą apie tai, kad kokia nors konkreti informacija yra Ypač slapta informacija tuo ar bet kuriuo laiku, kai ši informacija atskleidžiama šiam LR subjektui, ir LR yra atsakinga už bet kurį Ypač slaptos informacijos atskleidimą tik, jei Energetikos ministerijai ar tam kitam LR subjektui iki atskleidimo buvo pranešta, kad ta konkreti informacija yra Ypač slapta informacija. ^9a4c32a7c5b8fb07aea0dccc
+13.9.3          Strateginis investuotojas (ar PB) gali informuoti Energetikos ministeriją ar bet kurį kitą LR subjektą apie tai, kad kokia nors konkreti informacija yra Ypač slapta informacija tuo ar bet kuriuo laiku, kai ši informacija atskleidžiama šiam LR subjektui, ir LR yra atsakinga už bet kurį Ypač slaptos informacijos atskleidimą tik, jei Energetikos ministerijai ar tam kitam LR subjektui iki atskleidimo buvo pranešta, kad ta konkreti informacija yra Ypač slapta informacija. ^s-7303b222dbe6f48eb852a22b
 
 
-13.9.4          Jei Energetikos ministerija ar kitas LR subjektas gauna Ypač slaptą informaciją (įskaitant savanorišką Strateginio investuotojo ar PB atskleidimą) ir Energetikos ministerijai ar tam kitam LR subjektui pranešama, kad atitinkama informacija yra Ypač slapta informacija ir (arba) ši informacija pažymėta žodžiais (arba žodžiais apie tai, kad) „Ypač slapta informacija, kuriai taikomas konfidencialumo įsipareigojimas pagal Koncesijos sutartį“, tuo tikslu, kad Energetikos ministerija ar tas LR subjektas galėtų toliau atskleisti šią informaciją, laikoma, kad Strateginis investuotojas (ar PB) pranešė tolesniems gavėjams, jog ši informacija yra Ypač slapta informacija. ^fef378dd48501199422c6261
+13.9.4          Jei Energetikos ministerija ar kitas LR subjektas gauna Ypač slaptą informaciją (įskaitant savanorišką Strateginio investuotojo ar PB atskleidimą) ir Energetikos ministerijai ar tam kitam LR subjektui pranešama, kad atitinkama informacija yra Ypač slapta informacija ir (arba) ši informacija pažymėta žodžiais (arba žodžiais apie tai, kad) „Ypač slapta informacija, kuriai taikomas konfidencialumo įsipareigojimas pagal Koncesijos sutartį“, tuo tikslu, kad Energetikos ministerija ar tas LR subjektas galėtų toliau atskleisti šią informaciją, laikoma, kad Strateginis investuotojas (ar PB) pranešė tolesniems gavėjams, jog ši informacija yra Ypač slapta informacija. ^s-fd83e7e3ae24f5e3b95a9a52
 
 
-13.10           LR subjektas ^a31c43e532c4c533528692da
+13.10           LR subjektas ^s-c3dbe934de5436cab8c06c14
 Šiame 13 punkte (Konfidencialumas) „LR subjektas“ reiškia Lietuvos Respublikos Seimą (įskaitant bet kurį Seimo narį), Lietuvos Respublikos Vyriausybę (įskaitant bet kurį ministrą pirmininką, ministrą ar viceministrą), Lietuvos Respublikos Prezidentą (ir Prezidentūrą) ir bet kurį šio teisinio subjekto, t. y. Lietuvos Respublikos, padalinį, įskaitant visus departamentus, komisijas, valdybas, biurus, ministerijas, inspektoratus, kiekvieną Lietuvos Reguliuotoją, agentūras, įstaigas ar kitas valstybės institucijas ir jų atitinkamus tarnautojus, darbuotojus, atstovus bei tarpininkus, nesvarbu ar jie turi juridinio asmens teises, ar jų neturi.
 
 
-13.11           Nuostoliai ^317978d7b601844e8c74b325
+13.11           Nuostoliai ^s-dfcf9fe4408c5c3fb248db35
 
 
-13.11.1        Jei LR atsakinga pagal 13.9 punktą (Ypač slapta informacija) ne už Energetikos ministerijos įvykdytą atskleidimą ar informacijos (įskaitant Ypač slaptą informaciją), kuri pirmiausia pateikta Energetikos ministerijai, atskleidimą, tiesioginiai nuostoliai, kurių rūšis nustatyta 16.3.1(B), 16.3.1(C), 16.3.1(D) ir 16.3.1(E) punktuose (Atsakomybės apribojimas), nėra išbraukiami. ^a0e771b5d8142f7e275d4703
+13.11.1        Jei LR atsakinga pagal 13.9 punktą (Ypač slapta informacija) ne už Energetikos ministerijos įvykdytą atskleidimą ar informacijos (įskaitant Ypač slaptą informaciją), kuri pirmiausia pateikta Energetikos ministerijai, atskleidimą, tiesioginiai nuostoliai, kurių rūšis nustatyta 16.3.1(B), 16.3.1(C), 16.3.1(D) ir 16.3.1(E) punktuose (Atsakomybės apribojimas), nėra išbraukiami. ^s-40c987705bd5b5e6817fda8b
 
 
-13.11.2        Jei LR atsakinga pagal šį 13 punktą (Konfidencialumas), išskyrus atvejus, numatytus 13.11.1 punkte, (tiesioginiai ar netiesioginiai) nuostoliai, kurių rūšis nustatyta 16.3.1(A)–16.3.1(F) punktuose (Atsakomybės apribojimas), nėra išbraukiami. ^76a604268dba774decfc1c9b
+13.11.2        Jei LR atsakinga pagal šį 13 punktą (Konfidencialumas), išskyrus atvejus, numatytus 13.11.1 punkte, (tiesioginiai ar netiesioginiai) nuostoliai, kurių rūšis nustatyta 16.3.1(A)–16.3.1(F) punktuose (Atsakomybės apribojimas), nėra išbraukiami. ^s-cbde79aaa568e512eb411d39
 
 
-13.12           Trečiųjų šalių nuostoliai ^328ef9efaf02304cb9c462b5
+13.12           Trečiųjų šalių nuostoliai ^s-1a3392fd9382ac746b21aefd
 Be to, kas paminėta prieš tai, LR turi konfidencialumo įsipareigojimų „Hitachi, Ltd. Group“, „GE-Hitachi Nuclear Energy Americas LLC“ ir „Global Nuclear Fuel-Americas, LLC“ nariams tomis pačiomis sąlygomis (taikomomis mutatis mutandis) kaip ir jos įsipareigojimai Strateginiam investuotojui pagal šį 13 punktą (Konfidencialumas).
 
 
-13.13           Informacijos laisvė ^8f1f173683c4354c6b25b96a
+13.13           Informacijos laisvė ^s-98b6696f49fffc612ee89018
 Šalys susitaria ir LR užtikrina, kad joks visuomenės narys neturi teisės gauti LR (kad būtų išvengta abejonių, įskaitant bet kurį LR subjektą ir bet kurį informacijos gavėją pagal 13.4.2 punktą (Leistinas atskleidimas)) pateiktos informacijos apie Projektą pagal galiojančius Įstatymus dėl informacijos laisvės. Tai, kas išdėstyta prieš tai, nepažeidžia LR teisės atskleisti informaciją apie Projektą pagal 13 punktą (Konfidencialumas), visiškai jo laikantis.
 
 
-14.       VIEŠUMAS ^436d2ddffe217c42d9082862
+14.       VIEŠUMAS ^s-e0d2346e2bd601443427b70f
 Pagal 13 punkto (Konfidencialumas) nuostatas kiekviena Šalis gali atskleisti informaciją ar skelbti apie šios Koncesijos sutarties ar Projekto sąlygas ar objektą taip, kaip jos pageidauja.
 
 
 
-[[#^cb85d012b0421f3bda0fa59f|6 DALIS]]: BRANDUOLINĖ ATSAKOMYBĖ IR DRAUDIMAS
+6 DALIS: BRANDUOLINĖ ATSAKOMYBĖ IR DRAUDIMAS
 
 
-15.       BRANDUOLINĖS ŽALOS ATLYGINIMAS ^db788a48ba425eecd4542fb4
+15.       BRANDUOLINĖS ŽALOS ATLYGINIMAS ^s-3448e29843d067f2e4a1452c
 
 
-15.1     Ir LR, ir PB neatšaukiamai ir besąlygiškai pripažįsta ir sutinka, kad, neatsižvelgiant į jokias priešingas šios Koncesijos sutarties nuostatas, jokioje Papildomoje sutartyje, Akcininkų sutartyje, subrangos (visais lygiais minėtų sutarčių atžvilgiu) ar jokioje kitoje sutartyje tarp LR ir PB (atitinkamai), vieno ar kelių Projekto dalyvių ar jų Susijusių asmenų Projekto atžvilgiu, nei vienoje iš šių sutarčių ar kitose rašytinėse sutartyse nėra numatyta regreso teisė, kuri būtų galima pagal 1963 m. Vienos konvencijos arba Vienos konvencijos su pakeitimais X straipsnio a punktą arba Konvencijos dėl papildomos kompensacijos priedo 10 straipsnio a punktą. ^d67c0a76682d4cf77e64b4d0
+15.1     Ir LR, ir PB neatšaukiamai ir besąlygiškai pripažįsta ir sutinka, kad, neatsižvelgiant į jokias priešingas šios Koncesijos sutarties nuostatas, jokioje Papildomoje sutartyje, Akcininkų sutartyje, subrangos (visais lygiais minėtų sutarčių atžvilgiu) ar jokioje kitoje sutartyje tarp LR ir PB (atitinkamai), vieno ar kelių Projekto dalyvių ar jų Susijusių asmenų Projekto atžvilgiu, nei vienoje iš šių sutarčių ar kitose rašytinėse sutartyse nėra numatyta regreso teisė, kuri būtų galima pagal 1963 m. Vienos konvencijos arba Vienos konvencijos su pakeitimais X straipsnio a punktą arba Konvencijos dėl papildomos kompensacijos priedo 10 straipsnio a punktą. ^s-4b71ee43bcee2c9770478e27
 
 
-15.2     Pagal pareikalavimą LR kiekvienai „Hitachi, Ltd.“ grupės, „GE-Hitachi Nuclear Energy Americas LLC“ ir „Global Nuclear Fuel-Americas, LLC“ („Nuo branduolinės atsakomybės apsaugotos šalys“) narei kompensuoja žalą, patirtą pagal visus Ieškinius (atmestus, patenkintus, pasibaigusius taikos sutartimi arba ne), kurie bet kurioje jurisdikcijoje gali būti pareikšti, pateikti, grėsti, būti įtariami, ginami ar įrodinėjami (kiekvienas jų – „Atitinkamas branduolinis ieškinys“) Nuo branduolinės atsakomybės apsaugotos šalies atžvilgiu, ir kompensuoja visus Nuostolius, kuriuos Nuo branduolinės atsakomybės apsaugota šalis gali patirti (įskaitant visus Nuostolius, patirtus ginčijant Atitinkamą branduolinį ieškinį ir (arba) pareiškiant Atitinkamą branduolinį ieškinį pagal šį 15.2 punktą (Branduolinės žalos atlyginimas) ir (arba) konsultuojantis dėl Susijusio branduolinio ieškinio arba kitu būdu, susijusiu su atleidimu nuo atsakomybės pagal šį 15.2 punktą (Branduolinės žalos atlyginimas), kai tokie Nuostoliai atsiranda, yra grindžiami ar susiję arba patiriami, nes asmuo naudojasi darbo produktu arba kitais rezultatais, kuriuos Papildomas rangovas pateikė arba kurie buvo jo vardu pateikti pagal Papildomą sutartį, jeigu jie naudojami tą dieną arba po dienos, kurią LR ir (arba) vienas ar keli LR patikėtiniai ir (arba) vėlesni Akcijų, kurios kažkada priklausė Lietuvos investuotojui, LR arba LR patikėtiniui, turėtojai pirmą kartą tampa Akcijų, kurios tuo metu nepriklauso Lietuvos investuotojui, turėtoju. ^7b538ce7cd14410a7f2bc296
+15.2     Pagal pareikalavimą LR kiekvienai „Hitachi, Ltd.“ grupės, „GE-Hitachi Nuclear Energy Americas LLC“ ir „Global Nuclear Fuel-Americas, LLC“ („Nuo branduolinės atsakomybės apsaugotos šalys“) narei kompensuoja žalą, patirtą pagal visus Ieškinius (atmestus, patenkintus, pasibaigusius taikos sutartimi arba ne), kurie bet kurioje jurisdikcijoje gali būti pareikšti, pateikti, grėsti, būti įtariami, ginami ar įrodinėjami (kiekvienas jų – „Atitinkamas branduolinis ieškinys“) Nuo branduolinės atsakomybės apsaugotos šalies atžvilgiu, ir kompensuoja visus Nuostolius, kuriuos Nuo branduolinės atsakomybės apsaugota šalis gali patirti (įskaitant visus Nuostolius, patirtus ginčijant Atitinkamą branduolinį ieškinį ir (arba) pareiškiant Atitinkamą branduolinį ieškinį pagal šį 15.2 punktą (Branduolinės žalos atlyginimas) ir (arba) konsultuojantis dėl Susijusio branduolinio ieškinio arba kitu būdu, susijusiu su atleidimu nuo atsakomybės pagal šį 15.2 punktą (Branduolinės žalos atlyginimas), kai tokie Nuostoliai atsiranda, yra grindžiami ar susiję arba patiriami, nes asmuo naudojasi darbo produktu arba kitais rezultatais, kuriuos Papildomas rangovas pateikė arba kurie buvo jo vardu pateikti pagal Papildomą sutartį, jeigu jie naudojami tą dieną arba po dienos, kurią LR ir (arba) vienas ar keli LR patikėtiniai ir (arba) vėlesni Akcijų, kurios kažkada priklausė Lietuvos investuotojui, LR arba LR patikėtiniui, turėtojai pirmą kartą tampa Akcijų, kurios tuo metu nepriklauso Lietuvos investuotojui, turėtoju. ^s-2e91cb59b0579f377b05ec64
 
 
-15.3     15.2 punkte (Branduolinės žalos atlyginimas) numatytas atleidimas nuo atsakomybės netaikomas Nuo branduolinės atsakomybės apsaugotos šalies Atitinkamiems branduoliniams ieškiniams arba Nuostoliams ta apimtimi, kiek tokie Atitinkami branduoliniai ieškiniai arba Nuostoliai atsiranda dėl to, kad darbo produktai arba kitas rezultatas ar rezultatai buvo naudojami: ^d50edb9248a69ac642876943
+15.3     15.2 punkte (Branduolinės žalos atlyginimas) numatytas atleidimas nuo atsakomybės netaikomas Nuo branduolinės atsakomybės apsaugotos šalies Atitinkamiems branduoliniams ieškiniams arba Nuostoliams ta apimtimi, kiek tokie Atitinkami branduoliniai ieškiniai arba Nuostoliai atsiranda dėl to, kad darbo produktai arba kitas rezultatas ar rezultatai buvo naudojami: ^s-f41b992a7082e3e65721eaf7
 
 
-15.3.1          Nuo branduolinės žalos apsaugotos šalies; arba ^c351d24f5efcac7426808dc5
+15.3.1          Nuo branduolinės žalos apsaugotos šalies; arba ^s-f8a4b3fd402e81878540c3d2
 
 
-15.3.2          asmens, kuris Koncesijos dieną yra Akcininkas (išskyrus Lietuvos investuotoją); ^ad49a3add2bd3a1cb15530b4
+15.3.2          asmens, kuris Koncesijos dieną yra Akcininkas (išskyrus Lietuvos investuotoją); ^s-265fc98a7fd367812d6fd690
 
 
-15.3.3          Trečiosios šalies, gaunančios tokius darbo vaisius arba kitą rezultatą ar rezultatus iš šios Nuo branduolinės žalos apsaugotos šalies tokiam tikslui, kuris nesusijęs su Projektu. ^343886ca11ec92e441c2b3bb
+15.3.3          Trečiosios šalies, gaunančios tokius darbo vaisius arba kitą rezultatą ar rezultatus iš šios Nuo branduolinės žalos apsaugotos šalies tokiam tikslui, kuris nesusijęs su Projektu. ^s-f7d4714c0ddc039b96a1a95d
 
 
-15.4     Šis atleidimas nuo atsakomybės automatiškai nustoja galioti Akcininkams priėmus teigiamą GIS (apie kurį LR informuojama pagal 11.4 punktą (Pranešimas apie GIS priėmimą)). ^49f287c940cb26d2317700cc
+15.4     Šis atleidimas nuo atsakomybės automatiškai nustoja galioti Akcininkams priėmus teigiamą GIS (apie kurį LR informuojama pagal 11.4 punktą (Pranešimas apie GIS priėmimą)). ^s-83ef50488eeb7639dfb6d788
 
 
 
-16.       ATSAKOMYBĖ ^a688c54d62b7da676141eda3
+16.       ATSAKOMYBĖ ^s-60555f607d202e786c441500
 
 
-16.1     Atsakomybė pagal 4 punktą (Santykiai: bendradarbiavimo principai) ^117be698aad9586fbbacbbee
+16.1     Atsakomybė pagal 4 punktą (Santykiai: bendradarbiavimo principai) ^s-66077adb3ef8476fc7c83854
 Išskyrus 6.1.9 punktą (PB įsipareigojimai) ir jo nepažeidžiant, ir tai yra teisiškai privalomas įsipareigojimas, 4 punktas (Santykiai: bendradarbiavimo principai) nesukuria (ir nėra numatytas sukurti) kurios nors Šalies teisiškai privalomų teisių bei įsipareigojimų, ir nei viena Šalis nėra atsakinga kitai Šaliai pagal Koncesijos sutartį ar kaip nors kitaip ir šios Koncesijos sutarties negalima nutraukti dėl viso ar dalies 4 punkto (Santykiai: bendradarbiavimo principai) pažeidimo ar nevykdymo. Atitinkamai Šalys pripažįsta ir susitaria, kad nei viena 4 punkto (Santykiai: bendradarbiavimo principai) dalis netrukdo ir nėra numatyta trukdyti kuriai nors Šaliai naudotis kuria nors teise, siekiant kurio nors įsipareigojimo vykdymo ar jį vykdant, ir nepažeidžia jokių teisių bei įsipareigojimų pagal šią Koncesijos sutartį. Be to, išskyrus 6.1.9 punktą (PB įsipareigojimai), susitariama ir pripažįstama, kad 4 punkto (Santykiai: bendradarbiavimo principai) nuostatos nėra aktualios aiškinant bet kurią kitą šios Koncesijos sutarties nuostatą.
 
 
-16.2     Sąveika tarp Ieškinių pagal Koncesijos sutartį ir Ieškinių pagal Investicijų apsaugos sutartis ^72d41abc9fb4cde22976c85d
+16.2     Sąveika tarp Ieškinių pagal Koncesijos sutartį ir Ieškinių pagal Investicijų apsaugos sutartis ^s-3e432822b51b94e054d33c81
 
 
 Kompensacijos dydis Koncesijos sutartyje, kurį svarsto investicijų specializuotieji teismai
 
 
-16.2.1          Jei Šalis siekia teisių gynimo teisme priemonių pagal kurią nors galiojančią Investicijų apsaugos sutartį įvykus įvykiui, dėl kurio ji taip pat turėtų teisę į kompensaciją pagal šią Koncesijos sutartį, spręsdamas dėl kompensacijos, kuri turi būti priteista atitinkamai Šaliai, dydžio, arbitražo teismas, kuris toliau nagrinėja Ieškinį, taiko visus atitinkamus kompensacijos dydžius, sutartus 16.3 punkte (Atsakomybės apribojimas), 24.1 punkte (LR atlyginamos Patirtos išlaidos) ir 26 punkte (LR įvykis. Privalomasis akcijų perleidimas). ^e1a3eb9f135ff80c2759f8ef
+16.2.1          Jei Šalis siekia teisių gynimo teisme priemonių pagal kurią nors galiojančią Investicijų apsaugos sutartį įvykus įvykiui, dėl kurio ji taip pat turėtų teisę į kompensaciją pagal šią Koncesijos sutartį, spręsdamas dėl kompensacijos, kuri turi būti priteista atitinkamai Šaliai, dydžio, arbitražo teismas, kuris toliau nagrinėja Ieškinį, taiko visus atitinkamus kompensacijos dydžius, sutartus 16.3 punkte (Atsakomybės apribojimas), 24.1 punkte (LR atlyginamos Patirtos išlaidos) ir 26 punkte (LR įvykis. Privalomasis akcijų perleidimas). ^s-52591dc750a5d71a750694c6
 
 
 Paraleliniai ieškiniai
 
 
-16.2.2          Jei dėl konkrečios aplinkybės kyla Ginčas, apibrėžtas 45.1 punkte (Ginčų sprendimo tvarka ir arbitražas), dėl kurio Šalis gali inicijuoti tarptautinio arbitražo procesą pagal Investicijų apsaugos sutartį („Ieškinys pagal tarptautinę sutartį“) arba pateikti Ieškinį pagal Koncesijos sutartį („Ieškinys pagal Sutartį“): ^2b9d46ed2070849f9f517150
+16.2.2          Jei dėl konkrečios aplinkybės kyla Ginčas, apibrėžtas 45.1 punkte (Ginčų sprendimo tvarka ir arbitražas), dėl kurio Šalis gali inicijuoti tarptautinio arbitražo procesą pagal Investicijų apsaugos sutartį („Ieškinys pagal tarptautinę sutartį“) arba pateikti Ieškinį pagal Koncesijos sutartį („Ieškinys pagal Sutartį“): ^s-cecf01ecd61ff629f0ceb7c4
 (A)      atitinkama Šalis gali nuspręsti pateikti Ieškinį pagal tarptautinę sutartį ir Ieškinį pagal Sutartį viename arbitražo procese pagal Konvenciją dėl valstybių ir kitų valstybių piliečių ginčų investicijų srityje sprendimo (TIGSC konvenciją) ir Šalys susitaria, kad šiuos Ieškinius gali nagrinėti tas pats arbitražo teismas lygiagrečiai tame pačiame procese;
 (B)       jei atitinkama Šalis nepateikia Ieškinio pagal tarptautinę sutartį ir Ieškinio pagal Sutartį Centrui viename procese, tiek, kiek leidžia įstatymai, jei:
 (1)      atitinkama Šalis pirmiau pateikia Ieškinį pagal Sutartį, ji neturi teisės pateikti Ieškinio pagal tarptautinę sutartį tiek, kiek teisių gynimo teisme priemonėmis, kurių siekiama Ieškiniu dėl tarptautinės sutarties, tiesiogiai ar netiesiogiai siekiama taikyti pasekmes, nurodytas 16.3 punkte (Atsakomybės apribojimas), 24.1 punkte (LR atlyginamos Patirtos išlaidos) ir 26 punkte (LR įvykis. Privalomasis akcijų perleidimas), bet ne kaip nors kitaip, kol arbitražo teismas sudaromas nuspręsti, kad Ieškinio pagal Sutartį klausimai yra jo galutinis sprendimas ar procesas nutraukiamas kaip nors kitaip; ir
@@ -4971,10 +4976,10 @@ Paraleliniai ieškiniai
 (C)       jei atitinkama Šalis pateikia Centrui Ieškinį pagal tarptautinę sutartį ir Ieškinį pagal Sutartį viename procese, tačiau dėl kokios nors priežasties šie Ieškiniai negali būti nagrinėjame viename procese ir to paties arbitražo teismo, atitinkama Šalis gali inicijuoti atskirus procesus dėl šių Ieškinių.
 
 
-16.3           Atsakomybės apribojimas ^6f5e37074812084e7150beb2
+16.3           Atsakomybės apribojimas ^s-6b09eb1cf773f9b70cf3d9c1
 
 
-16.3.1          Pagal 13.11 punktą (Nuostoliai) ir 16.3.3 punktą, išskyrus atvejus, kai šie nuostoliai neatsiranda dėl Šalies sukčiavimo ar tyčinio įsipareigojimų nevykdymo, Šalys nėra atsakingos pagal šią Koncesijos sutartį jokiomis aplinkybėmis už faktinius ar numatomus: ^f54a73c659d8f6929d1f3cd6
+16.3.1          Pagal 13.11 punktą (Nuostoliai) ir 16.3.3 punktą, išskyrus atvejus, kai šie nuostoliai neatsiranda dėl Šalies sukčiavimo ar tyčinio įsipareigojimų nevykdymo, Šalys nėra atsakingos pagal šią Koncesijos sutartį jokiomis aplinkybėmis už faktinius ar numatomus: ^s-50c54cc58e3556fed0b88921
 (A)           ypatingus, netiesioginius ar kaip pasekmė patiriamus nuostolius;
 (B)           negautą pelną;
 (C)           negautas pajamas, prarastą gerą vardą, prarastas galimybes ar prarastą verslą;
@@ -4984,13 +4989,13 @@ Paraleliniai ieškiniai
 kuriuos gali patirti ar kurių gali reikalauti Šalis arba kurie gali būti patirti ar kurių gali būti reikalaujama dėl šios Koncesijos sutarties. Siekiant išvengti abejonių, 16.3.1(B), (C), (D) ir (E) punktuose minimi nuostoliai apima netiesioginius ir tiesioginius nuostolius.
 
 
-16.3.2          Pagal 16.3.3 punktą: ^728a948aa1ae35484d65b2ee
+16.3.2          Pagal 16.3.3 punktą: ^s-2d2c1a0c264cb2a61a08a4f1
 (A)           LR nėra atsakinga pagal šią Koncesijos sutartį ar dėl jos už bet kokį Ieškinį dėl 7.1 punkto (LR įsipareigojimų pobūdis) arba 42.2 punkto (Bendradarbiavimas, susijęs su energijos už savikainą struktūra);
 (B)           nepažeidžiant 19.2.6 punkto (Vienintelės teisių gynimo priemonės LR įvykio, PB ir Strateginio investuotojo įsipareigojimų nevykdymo atvejais), PB nėra atsakinga pagal šią Koncesijos sutartį ar dėl jos, išskyrus visus vėlesnius jai pateiktus patenkintus Ieškinius dėl 13 punkto (Konfidencialumas), 28 punkto (Garantijos) ir 30 punkto (Teisių perleidimas);
 (C)           nepažeidžiant 19.2.5 punkto (Vienintelės teisių gynimo priemonės LR įvykio, PB ir Strateginio investuotojo įsipareigojimų nevykdymo atvejais), Strateginis investuotojas nėra atsakingas pagal šią Koncesijos sutartį ar dėl jos, išskyrus visus vėlesnius jai pateiktus patenkintus Ieškinius dėl 13 punkto (Konfidencialumas), 24.2 punkto (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos), 28 punkto (Garantijos) ir 30 punkto (Teisių perleidimas).
 
 
-16.3.3    Iš šiame 16.3 punkte (Atsakomybės apribojimas) nustatytų atsakomybės apribojimų neišbraukiami ir jais neapribojami: ^6d87e434896d52a81122c576
+16.3.3    Iš šiame 16.3 punkte (Atsakomybės apribojimas) nustatytų atsakomybės apribojimų neišbraukiami ir jais neapribojami: ^s-e9e7e2119ee3e38637b11591
 (A)         Šalies atsakomybė fiziniam asmeniui (ar mirusio fizinio asmens valdai) už šio fizinio asmens mirtį ar patirtą sužalojimą tiek, kiek tokią fizinio asmens mirtį ar sužalojimą sukėlė šios Šalies ar jos darbuotojų, atstovų ar subrangovų (jei taikoma) aplaidumas;
 (B)         Šalies atsakomybė tiek, kiek šis atsakomybės apribojimas ar išbraukimas prieštarautų galiojantiems įstatymams;
 (C)         Šalies įsipareigojimas sumokėti bet kurią priklausiančią ir mokėtiną sumą pagal 24 punktą (Su sutarties nutraukimu susijusių nuostolių atlyginimas) ar dėl jo;
@@ -4998,27 +5003,27 @@ kuriuos gali patirti ar kurių gali reikalauti Šalis arba kurie gali būti pati
 (E)         LR atsakomybė dėl savo įsipareigojimų pagal 7.3 punktą (LR Patikėtinis), 15 punktą (Branduolinės žalos atlyginimas), 16.5.1 punktą ir 16.5.3 punktą (Garantijų pažeidimas).
 
 
-16.4     Bendrosios nuostatos ^4954add1507f55ff2c7eb1bc
+16.4     Bendrosios nuostatos ^s-5a3f96d8c4079fa6ea96bf58
 
 
-16.4.1          Niekas šiame 16 punkte (Atsakomybė) neapriboja kiekvienos iš Šalių bendrojo įsipareigojimo pagal įstatymus mažinti Nuostolius, kuriuos jos gali patirti dėl šios Koncesijos sutarties kurios nors nuostatos pažeidimo. ^43b5e029d033cafa84a10591
+16.4.1          Niekas šiame 16 punkte (Atsakomybė) neapriboja kiekvienos iš Šalių bendrojo įsipareigojimo pagal įstatymus mažinti Nuostolius, kuriuos jos gali patirti dėl šios Koncesijos sutarties kurios nors nuostatos pažeidimo. ^s-43623f6955c8561919e4f73a
 
 
-16.4.2          Šis 16 punktas (Atsakomybė) taikomas nepriklausomai nuo šios Koncesijos sutarties kokios nors kitos priešingos nuostatos ir nenustoja galioti dėl to, kad yra panaikintos ar nustojo galioti šios Koncesijos sutarties kurios nors kitos nuostatos. ^e62788c8ce081b599fdcdb3c
+16.4.2          Šis 16 punktas (Atsakomybė) taikomas nepriklausomai nuo šios Koncesijos sutarties kokios nors kitos priešingos nuostatos ir nenustoja galioti dėl to, kad yra panaikintos ar nustojo galioti šios Koncesijos sutarties kurios nors kitos nuostatos. ^s-d9738e6a8b3ee56ae69a7535
 
 
-16.5     Garantijų pažeidimas ^f24399e7b1d79e41daa0b41a
+16.5     Garantijų pažeidimas ^s-fbcc2fa12eec58625720efcb
 Kitoms šio 16.5 punkto (Garantijų pažeidimas) nuostatoms taikomas 16.5.9 punktas.
 
 
-16.5.1        Jei: ^de2cfa81172607e897f39a2f
+16.5.1        Jei: ^s-419b551a0e63520ddd9d47c6
 (A)         ši Koncesijos sutartis galėjo būti nutraukiama dėl LR įvykio, bet kompetentingo teismo ar pagal Ginčų sprendimo tvarką buvo nustatyta, kad ši Koncesijos sutartis yra niekinė, negaliojanti ar netaikoma (kiekvienu atveju visa ar iš dalies); ir (arba)
 (B)         kuris nors Pasitraukiantis akcininkas būtų turėjęs teisę į mokėjimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas), bet kompetentingo teismo ar pagal Ginčų sprendimo tvarką buvo nustatyta, kad ši Koncesijos sutartis yra niekinė, negaliojanti ar netaikoma (kiekvienu atveju visa ar iš dalies); ir (arba)
 (C)         pagal 20.2 punktą (LR įvykio pabaiga) ši Koncesijos sutartis buvo nutraukta dėl LR įvykio, kurio rūšis nustatyta 20.1.1 punkte (LR įvykio įvykiai), ir kompetentingo teismo ar pagal Ginčų sprendimo tvarką buvo nustatyta, kad 26.4 punktas (Privalomojo akcijų perleidimo kainos mokėjimas) yra niekinis, negaliojantis ar netaikomas (kiekvienu atveju visas ar iš dalies),
 LR garantuoja nuostolių atlyginimą kiekvienam iš Akcininkų tokia suma, kokia lygi sumoms, kurios priešingu atveju, jei nebūtų nustatyta, kad ši Koncesijos sutartis ir (arba) teisė į mokėjimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) yra niekinės, negaliojančios ar netaikomos (kiekvienu atveju visa ar iš dalies), priklausytų ir būtų mokėtinos tam Akcininkui pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas).
 
 
-16.5.2        Jei pagal 20.2 punktą (LR įvykio pabaiga) susitarta ar nustatyta, kad ši Koncesijos sutartis turi būti ar yra nutraukta dėl LR įvykio, kurio rūšis nustatyta 20.1.1 punkte (LR įvykio įvykiai), ar jei LR įteikė nutraukimo pranešimą pagal 16.5.7 punktą, 16.5.3 punktas nebetaikomas tik nuostoliams, kurie tiesiogiai susiję su Akcijų verte. ^3a3d81c2f3e0f6753b5971b8
+16.5.2        Jei pagal 20.2 punktą (LR įvykio pabaiga) susitarta ar nustatyta, kad ši Koncesijos sutartis turi būti ar yra nutraukta dėl LR įvykio, kurio rūšis nustatyta 20.1.1 punkte (LR įvykio įvykiai), ar jei LR įteikė nutraukimo pranešimą pagal 16.5.7 punktą, 16.5.3 punktas nebetaikomas tik nuostoliams, kurie tiesiogiai susiję su Akcijų verte. ^s-9a4dd1af931dba04a0166969
 
 
 16.5.3
@@ -5034,19 +5039,19 @@ LR garantuoja nuostolių atlyginimą kiekvienam iš Akcininkų tokia suma, kokia
 (2) sumas, kurios būtų susigrąžintos ar kitaip turėtų būti grąžintos pagal taikomus Įstatymus (kiek tai nenumatyta 16.5.3 D(1) papunktyje).
 
 
-16.5.4        LR atsakomybė pagal nuostolių atlyginimo garantijas pagal 16.5.3 punktą (Garantijų pažeidimas) ar su jomis susijusi sąlygojama tuo, kad kiekvienas Nuo atsakomybės apsaugotas asmuo (nesvarbu, ar jis yra ar nėra Šalis), ėmėsi visų pagrįstų veiksmų mažinti savo Nuostolius (su sąlyga, kad šio mažinimo išlaidas galima susigrąžinti pagal atitinkamą nuostolių atlyginimo garantiją). ^b7234bbb86104e65d043a639
+16.5.4        LR atsakomybė pagal nuostolių atlyginimo garantijas pagal 16.5.3 punktą (Garantijų pažeidimas) ar su jomis susijusi sąlygojama tuo, kad kiekvienas Nuo atsakomybės apsaugotas asmuo (nesvarbu, ar jis yra ar nėra Šalis), ėmėsi visų pagrįstų veiksmų mažinti savo Nuostolius (su sąlyga, kad šio mažinimo išlaidas galima susigrąžinti pagal atitinkamą nuostolių atlyginimo garantiją). ^s-dbe524357fc93378ecb13aaf
 
 
-16.5.5        Nei PB, nei Strateginis investuotojas neatsako už jokį LR veikimą, neveikimą, sprendimą, pažeidimą ar LR prievolių laikytis visų taikomų Įstatymų ir taisyklių (įskaitant Europos Sąjungos teisės aktus ir viešųjų darbų koncesijų konkursus reglamentuojančias taisykles) nevykdymą. ^d33f847354141892813182de
+16.5.5        Nei PB, nei Strateginis investuotojas neatsako už jokį LR veikimą, neveikimą, sprendimą, pažeidimą ar LR prievolių laikytis visų taikomų Įstatymų ir taisyklių (įskaitant Europos Sąjungos teisės aktus ir viešųjų darbų koncesijų konkursus reglamentuojančias taisykles) nevykdymą. ^s-d816ef0cfbca352f01312e12
 
 
-16.5.6        Nuostolių atlyginimo garantijos 16.5.1 ir 16.5.3 punktuose bei teisė nutraukti pagal 20.1.1 punktą ir gauti mokėjimą už šį nutraukimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) yra vienintelė PB ir Akcininkų (jei taikoma) teisės gynimo priemonė už garantijų 28.1.2 punkte (Garantijos) pažeidimą. ^824692a84145f012419d4ddd
+16.5.6        Nuostolių atlyginimo garantijos 16.5.1 ir 16.5.3 punktuose bei teisė nutraukti pagal 20.1.1 punktą ir gauti mokėjimą už šį nutraukimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) yra vienintelė PB ir Akcininkų (jei taikoma) teisės gynimo priemonė už garantijų 28.1.2 punkte (Garantijos) pažeidimą. ^s-27402628c133781ef026c546
 
 
-16.5.7        Jei laikotarpiu nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS (kaip pranešama LR pagal 11.4 punktą (Pranešimas apie GIS priėmimą)), kuris nors asmuo (įskaitant bet kurią Šalį) pateikia Ieškinį pagal 16.5.3 punktą, LR turi teisę tiek, kiek egzistuoja Ieškinys pagal 16.5.3 punktą, ir bet kuriuo metu tuo laikotarpiu nutraukti šią Koncesijos sutartį. Jei LR pageidauja pasinaudoti šia nutraukimo teise, ji įteikia pranešimą PB (išsiųsdama kopiją Strateginiam investuotojui), informuodama PB, kad LR nusprendė nutraukti šią Koncesijos sutartį. ^1c54691fa9b540353352506f
+16.5.7        Jei laikotarpiu nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS (kaip pranešama LR pagal 11.4 punktą (Pranešimas apie GIS priėmimą)), kuris nors asmuo (įskaitant bet kurią Šalį) pateikia Ieškinį pagal 16.5.3 punktą, LR turi teisę tiek, kiek egzistuoja Ieškinys pagal 16.5.3 punktą, ir bet kuriuo metu tuo laikotarpiu nutraukti šią Koncesijos sutartį. Jei LR pageidauja pasinaudoti šia nutraukimo teise, ji įteikia pranešimą PB (išsiųsdama kopiją Strateginiam investuotojui), informuodama PB, kad LR nusprendė nutraukti šią Koncesijos sutartį. ^s-79b51e3a1b70d7b1ca01b35b
 
 
-16.5.8        Jei LR pateikia pranešimą pagal 16.5.7 punktą, 16.5.1 punktas (Garantijų pažeidimas), 20.3 punktas (LR įvykio pasekmės), 20.4 punktas (LR įvykio poveikio mažinimas) ir 26 punktas (LR įvykis. Privalomasis akcijų perleidimas) taikomi mutatis mutandis. ^392aed02620fca1fc81ffaad
+16.5.8        Jei LR pateikia pranešimą pagal 16.5.7 punktą, 16.5.1 punktas (Garantijų pažeidimas), 20.3 punktas (LR įvykio pasekmės), 20.4 punktas (LR įvykio poveikio mažinimas) ir 26 punktas (LR įvykis. Privalomasis akcijų perleidimas) taikomi mutatis mutandis. ^s-e59a4163bdd055f8d473034c
 
 
 16.5.9
@@ -5058,10 +5063,10 @@ LR garantuoja nuostolių atlyginimą kiekvienam iš Akcininkų tokia suma, kokia
 17        NUOSTOLIŲ ATLYGINIMAS YRA NEPAKANKAMA KOMPENSACIJA IR TURI BŪTI TAIKOMOS TEISIŲ GYNIMO PRIEMONĖS PAGAL teisingumą
 
 
-17.1     Nepažeidžiant jokių kitų teisių arba teisių gynimo priemonių, kurias Šalys gali turėti, Šalys pripažįsta ir sutinka, kad vien tik nuostolių atlyginimas nebūtų pakankama teisių gynimo priemonė joms pažeidus 13 punktą (Konfidencialumas) ir, kad draudimas atlikti tam tikrus veiksmus ir įpareigojimas atlikti tam tikrus veiksmus, taip pat bet kokia kita teisėta teisių gynimo priemonė esant gresiančiam arba bet kurios Šalies padarytam 13 punkto (Konfidencialumas) pažeidimui, gali būti tinkamesnės teisių gynimo priemonės. ^0a15c1bb8eabecbeb5ac518f
+17.1     Nepažeidžiant jokių kitų teisių arba teisių gynimo priemonių, kurias Šalys gali turėti, Šalys pripažįsta ir sutinka, kad vien tik nuostolių atlyginimas nebūtų pakankama teisių gynimo priemonė joms pažeidus 13 punktą (Konfidencialumas) ir, kad draudimas atlikti tam tikrus veiksmus ir įpareigojimas atlikti tam tikrus veiksmus, taip pat bet kokia kita teisėta teisių gynimo priemonė esant gresiančiam arba bet kurios Šalies padarytam 13 punkto (Konfidencialumas) pažeidimui, gali būti tinkamesnės teisių gynimo priemonės. ^s-78982a693e6da9363667e8b2
 
 
-17.2     Šalys susitaria, kad jos nesinaudos draudimu atlikti tam tikrus veiksmus ir įpareigojimu atlikti tam tikrus veiksmus kaip teisių gynimo priemonėmis 4 punkto (Santykiai: bendradarbiavimo principai), 5 punkto (Strateginio investuotojo įsipareigojimai), 6 punkto (PB įsipareigojimai) ir 18 punkto (Draudimas) atžvilgiu. ^a3a8b62d7880a9e1ce45442b
+17.2     Šalys susitaria, kad jos nesinaudos draudimu atlikti tam tikrus veiksmus ir įpareigojimu atlikti tam tikrus veiksmus kaip teisių gynimo priemonėmis 4 punkto (Santykiai: bendradarbiavimo principai), 5 punkto (Strateginio investuotojo įsipareigojimai), 6 punkto (PB įsipareigojimai) ir 18 punkto (Draudimas) atžvilgiu. ^s-0a31ae52752075ee0f9a2c94
 
 
 18        DRAUDIMAS
@@ -5069,41 +5074,41 @@ PB įsigyja ir turi Būtiną draudimą arba užtikrina, kad šis draudimas būt�
 
 
 
-[[#^ccfa7ff1ba3cf3521cfb9ba5|7 DALIS]]: NUTRAUKIMAS
+7 DALIS: NUTRAUKIMAS
 19        19–26 PUNKTŲ TAIKYMAS: NUTRAUKIMAS
 
 
-19.1     Nutraukimas ^cbc0a57f09826550c6ee9a04
+19.1     Nutraukimas ^s-72b1c9699a34f0cb8b0b0672
 
 
-19.1.1            Pagal 2.2 punktą (Koncesijos suteikimas ir terminas) šią Koncesijos sutartį galima nutraukti tik pagal: ^8eedca69316d50c959012586
+19.1.1            Pagal 2.2 punktą (Koncesijos suteikimas ir terminas) šią Koncesijos sutartį galima nutraukti tik pagal: ^s-249dc2037767863c4e4e931d
 (A)             kurią nors iš nuostatų, minimų 19.1.2 punkte; arba
 (B)             23.1 punktą (Sutarties nutraukimas Šalių susitarimu),
 ir 19.1.1(A) bei 19.1.1(B) punktuose minimose nuostatose išsamiai išdėstytos visos bet kurios Šalies teisės nutraukti šią Koncesijos sutartį ir visos kitos nutraukimo teisės, kurias Šalis būtų turėjusi kitu atveju pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip yra atmetamos.
 
 
-19.1.2            Laikotarpiu nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS (kaip pranešta LR pagal 11.4 punktą (Pranešimas apie GIS priėmimą)), ši Koncesijos sutartis gali: ^829fedf8f2f087aa9cd3a98b
+19.1.2            Laikotarpiu nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS (kaip pranešta LR pagal 11.4 punktą (Pranešimas apie GIS priėmimą)), ši Koncesijos sutartis gali: ^s-b7517fe9ab7c99e4ecfdee5e
 (A)             būti nutraukta LR pagal 21.3.1 punktą (PB įsipareigojimų nevykdymo pasekmės); arba
 (B)             būti nutraukta pagal 16.5.7 punktą (Garantijų pažeidimas); arba
 (C)             nutrūkti automatiškai pagal 23.2 punktą (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) arba 26.5 punktą (Sutarties nutraukimas ir kitos nuostatos).
 
 
-19.1.3            Laikotarpiu nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS (kaip pranešta LR pagal 11.4 punktą (Pranešimas apie GIS priėmimą)), Strateginio investuoto teisės ir įsipareigojimai pagal šią Koncesijos sutartį gali būti nutraukti pagal 22.2 punktą (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) ir tokio nutraukimo atveju ši Koncesijos sutartis galioja visa apimtimi tarp LR ir PB. ^d11cae1c756f77741d832970
+19.1.3            Laikotarpiu nuo Koncesijos dienos iki dienos, kurią priimamas teigiamas GIS arba galutinis neigiamas GIS (kaip pranešta LR pagal 11.4 punktą (Pranešimas apie GIS priėmimą)), Strateginio investuoto teisės ir įsipareigojimai pagal šią Koncesijos sutartį gali būti nutraukti pagal 22.2 punktą (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) ir tokio nutraukimo atveju ši Koncesijos sutartis galioja visa apimtimi tarp LR ir PB. ^s-6e3a3cd752d23a2cde525543
 
 
-19.1.4            Strateginio investuoto teisės ir įsipareigojimai pagal šią Koncesijos sutartį gali būti nutraukti bet kada pagal 23.3 punktą (Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo) ir tokio nutraukimo atveju ši Koncesijos sutartis galioja visa apimtimi tarp LR ir PB. ^6d2a9b5fe290d1567d7ad698
+19.1.4            Strateginio investuoto teisės ir įsipareigojimai pagal šią Koncesijos sutartį gali būti nutraukti bet kada pagal 23.3 punktą (Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo) ir tokio nutraukimo atveju ši Koncesijos sutartis galioja visa apimtimi tarp LR ir PB. ^s-64d50195ac13fad12bf8b595
 
 
-19.1.5            Siekiant išvengti abejonių, po teigiamo GIS šią Koncesijos sutartį galima nutraukti tik pagal 23.1 punktą (Sutarties nutraukimas Šalių susitarimu). ^4fb8be34166a9a971c9e10a8
+19.1.5            Siekiant išvengti abejonių, po teigiamo GIS šią Koncesijos sutartį galima nutraukti tik pagal 23.1 punktą (Sutarties nutraukimas Šalių susitarimu). ^s-bbf8da460ecd523d56b6ea8b
 
 
 19.2Vienintelės teisių gynimo priemonės LR įvykio, PB ir Strateginio investuotojo įsipareigojimų nevykdymo atvejais
 
 
-19.2.1            Šio 19.2 punkto apribojimai nepažeidžia (i) teisių ar teisių gynimo priemonių pagal Investicijų apsaugos sutartį (tačiau taikant 16.2 punktą (Sąveika tarp Ieškinių pagal Koncesijos sutartį ir Ieškinių pagal Investicijų apsaugos sutartis)); ir (ii) pagal 17 punktą (Nuostolių atlyginimas yra nepakankama kompensacija ir turi būti taikomos teisingos teisių gynimo priemonės) teisės į draudimą atlikti tam tikrus veiksmus ir įpareigojimą atlikti tam tikrus veiksmus dėl teisių gynimo priemonių, minimų šiame 19.2 punkte (Vienintelės teisių gynimo priemonės LR įvykio, PB ir Strateginio investuotojo įsipareigojimų nevykdymo atvejais), taikymo. ^7f6b0ea9cb8f26b47e04d5cc
+19.2.1            Šio 19.2 punkto apribojimai nepažeidžia (i) teisių ar teisių gynimo priemonių pagal Investicijų apsaugos sutartį (tačiau taikant 16.2 punktą (Sąveika tarp Ieškinių pagal Koncesijos sutartį ir Ieškinių pagal Investicijų apsaugos sutartis)); ir (ii) pagal 17 punktą (Nuostolių atlyginimas yra nepakankama kompensacija ir turi būti taikomos teisingos teisių gynimo priemonės) teisės į draudimą atlikti tam tikrus veiksmus ir įpareigojimą atlikti tam tikrus veiksmus dėl teisių gynimo priemonių, minimų šiame 19.2 punkte (Vienintelės teisių gynimo priemonės LR įvykio, PB ir Strateginio investuotojo įsipareigojimų nevykdymo atvejais), taikymo. ^s-9d132a39b3d2a9fb8c3af9fd
 
 
-19.2.2            Nepažeidžiant nuostolių atlyginimo garantijų 16.5 punkte (Garantijų pažeidimas), vienintele Strateginio investuotojo teisių gynimo priemone LR įvykio atveju yra: ^d1b7b7c7f788977eb6391599
+19.2.2            Nepažeidžiant nuostolių atlyginimo garantijų 16.5 punkte (Garantijų pažeidimas), vienintele Strateginio investuotojo teisių gynimo priemone LR įvykio atveju yra: ^s-ca3647772020f745db05e4a0
 (A)    jei LR įvykis yra mokėjimo įsipareigojimo (įskaitant įsipareigojimą pagal nuostolių atlyginimo garantiją) pažeidimas ar apima tokį pažeidimą, taikyti ir gauti atitinkamos sumos mokėjimą;
 (B)    jo teisė į LR atliekamą patirtų išlaidų mokėjimą pagal 24.1 punktą (LR atlyginamos Patirtos išlaidos);
 (C)    Privalomojo akcijų perleidimo kainos mokėjimas, kurį LR atlieka Strateginiam investuotojui už Akcininko turimos turto dalies perleidimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas); ir
@@ -5111,10 +5116,10 @@ ir 19.1.1(A) bei 19.1.1(B) punktuose minimose nuostatose išsamiai išdėstytos 
 ir Strateginis investuotojas neturi papildomos teisės ar teisių gynimo priemonės prieš LR dėl LR įvykio, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip.
 
 
-19.2.3            Nepažeidžiant 19.2.2 punkto ir nuostolių atlyginimo garantijų 16.5 punkte (Garantijų pažeidimas), vienintelė Akcininko teisių gynimo priemonė ir išimtinė teisė dėl LR įvykio yra tam Akcininkui LR atliekamas Privalomojo akcijų perleidimo kainos mokėjimas už Akcininko turimos turto dalies perleidimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) ir joks Akcininkas neturi papildomos teisės ar teisių gynimo priemonės prieš LR dėl LR įvykio, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip. Šis 19.2.3 punktas netaikomas Strateginiam investuotojui; Strateginio investuotojo teisės ir teisių gynimo priemonės nustatytos punkte 19.2.2. ^7c930d029920091fa262d9fc
+19.2.3            Nepažeidžiant 19.2.2 punkto ir nuostolių atlyginimo garantijų 16.5 punkte (Garantijų pažeidimas), vienintelė Akcininko teisių gynimo priemonė ir išimtinė teisė dėl LR įvykio yra tam Akcininkui LR atliekamas Privalomojo akcijų perleidimo kainos mokėjimas už Akcininko turimos turto dalies perleidimą pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) ir joks Akcininkas neturi papildomos teisės ar teisių gynimo priemonės prieš LR dėl LR įvykio, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip. Šis 19.2.3 punktas netaikomas Strateginiam investuotojui; Strateginio investuotojo teisės ir teisių gynimo priemonės nustatytos punkte 19.2.2. ^s-b86fba6729c086f3fa7b1c87
 
 
-19.2.4            Nepažeidžiant nuostolių atlyginimo garantijų 16.5 punkte (Garantijų pažeidimas), vienintelės PB teisių gynimo priemonės dėl LR įvykio yra: ^12e959e129df5080e70e110a
+19.2.4            Nepažeidžiant nuostolių atlyginimo garantijų 16.5 punkte (Garantijų pažeidimas), vienintelės PB teisių gynimo priemonės dėl LR įvykio yra: ^s-03c3b51775f8688a67191777
 (A)      jos teisė įteikti Pranešimą dėl LR įvykio pagal 20.2.1 punktą (LR įvykio pabaiga);
 (B)       PB teisė pagal 20.2 punktą (LR įvykio pabaiga) perduoti klausimą spręsti pagal Ginčų sprendimo tvarką,
 (C)       kai LR įvykis sudaro arba yra susijęs su mokėjimo prievolės pažeidimu (įskaitant pagal nuostolių atlyginimo garantiją), priverstinai vykdyti ir gauti atitinkamos sumos mokėjimą; ir
@@ -5122,229 +5127,229 @@ ir Strateginis investuotojas neturi papildomos teisės ar teisių gynimo priemon
 ir PB neturi papildomos teisės ar teisių gynimo priemonės prieš LR dėl LR įvykio, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip.
 
 
-19.2.5            Vienintelės LR teisių gynimo priemonės ir išimtinės teisės prieš Strateginį investuotoją dėl Strateginio investuotojo įsipareigojimų nevykdymo yra: ^ab48aee82f324941c322afd5
+19.2.5            Vienintelės LR teisių gynimo priemonės ir išimtinės teisės prieš Strateginį investuotoją dėl Strateginio investuotojo įsipareigojimų nevykdymo yra: ^s-54a338524cc02059e1b81a45
 (A)      Strateginio investuotojo teisių ir įsipareigojimų pagal šią Koncesijos sutartį nutraukimas pagal 22.2 punktą (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas);
 (E)       nutraukus šią Koncesijos sutartį pagal 22.2 punktą (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas), Strateginio investuotojo atliekamas Patirtų išlaidų ar Papildomo konkurso išlaidų mokėjimas pagal 24.2 punktą (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos); ir
 (F)       nutraukus Strateginio investuotojo teises ir įsipareigojimus dėl Strateginio investuotojo įsipareigojimų nevykdymo pagal 22.1.1 punktą (Strateginio investuotojo įsipareigojimų pažeidimas), įskaitant Strateginio investuotojo įvykdytą esminį 13 punkto (Konfidencialumas) pažeidimą, Ieškinys dėl šio pažeidimo,
 ir LR neturi papildomos teisės ar teisių gynimo priemonės prieš Strateginį investuotoją dėl Strateginio investuotojo įsipareigojimų nevykdymo, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip.
 
 
-19.2.6            Nepažeidžiant jokių Ieškinių, kuriuos LR gali pateikti prieš Strateginį investuotoją dėl Patirtų ar papildomo konkurso išlaidų mokėjimo pagal 21.3 punktą (PB įsipareigojimų nevykdymo pasekmės) ir 24.2 punktą (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos) dėl nurodytų PB įsipareigojimų nevykdymo atvejų, vienintelė LR teisių gynimo priemonė ir išimtinė teisė prieš PB dėl PB įsipareigojimų nevykdymo yra šios Koncesijos sutarties nutraukimas pagal 21 punktą (PB įsipareigojimų nevykdymas) ir LR neturi papildomos teisės ar teisių gynimo priemonės prieš PB dėl PB įsipareigojimų nevykdymo, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip. ^53a4ad2f4c3f3b4b9e0275c8
+19.2.6            Nepažeidžiant jokių Ieškinių, kuriuos LR gali pateikti prieš Strateginį investuotoją dėl Patirtų ar papildomo konkurso išlaidų mokėjimo pagal 21.3 punktą (PB įsipareigojimų nevykdymo pasekmės) ir 24.2 punktą (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos) dėl nurodytų PB įsipareigojimų nevykdymo atvejų, vienintelė LR teisių gynimo priemonė ir išimtinė teisė prieš PB dėl PB įsipareigojimų nevykdymo yra šios Koncesijos sutarties nutraukimas pagal 21 punktą (PB įsipareigojimų nevykdymas) ir LR neturi papildomos teisės ar teisių gynimo priemonės prieš PB dėl PB įsipareigojimų nevykdymo, atsirandančių pagal bendrąją teisę (įskaitant nutraukimą dėl esminio pažeidimo), pagal teisingumo teisę, įstatymus ar kaip nors kitaip. ^s-97098d05480a6e5374885d77
 
 
 
 20        LR ĮVYKIS
 
 
-20.1     LR Įvykio įvykiai ^4df40584b30475c640b6787d
+20.1     LR Įvykio įvykiai ^s-0c38f0b09c41797b0d4d969c
 Visi toliau išvardyti įvykiai yra LR Įvykiai:
 
 
-20.1.1          trečiosios šalies ieškovas iškelia bylą Kompetentingoje institucijoje ar pateikia ieškinį arba kreipimąsi ginčydamas LR pasirinktą Strateginį investuotoją ir (arba) tai, kad LR sudarė ir (arba) (atitinkamai) suteikė Koncesiją ir (arba) šią Koncesijos sutartį, ir (arba) suteikė ir (arba) sudarė kokią nors Papildomą sutartį, ir (arba) pateikė RPPD arba GPPD, ir (arba) padarė šios Koncesijos sutarties ar bet kurios Papildomos sutarties kurį nors pataisymą ar pakeitimą, remdamasi tuo, kad LR ar PB veikė nesilaikydamos galiojančių Įstatymų ir tvarkos, ir: ^150722f0aec18bc0b81f49d6
+20.1.1          trečiosios šalies ieškovas iškelia bylą Kompetentingoje institucijoje ar pateikia ieškinį arba kreipimąsi ginčydamas LR pasirinktą Strateginį investuotoją ir (arba) tai, kad LR sudarė ir (arba) (atitinkamai) suteikė Koncesiją ir (arba) šią Koncesijos sutartį, ir (arba) suteikė ir (arba) sudarė kokią nors Papildomą sutartį, ir (arba) pateikė RPPD arba GPPD, ir (arba) padarė šios Koncesijos sutarties ar bet kurios Papildomos sutarties kurį nors pataisymą ar pakeitimą, remdamasi tuo, kad LR ar PB veikė nesilaikydamos galiojančių Įstatymų ir tvarkos, ir: ^s-d0d3e6a1178de0a8c7756363
 (A)      toks ieškinys, byla ar kreipimasis nėra atsiimamas ar atšaukiamas per tris (3) Mėnesius nuo jo pradžios ir (arba)
 (B)       suma, kurią LR turi sumokėti pagal 16.5.3 punktą (Garantijos pažeidimas), yra didesnė kaip penki milijonai eurų (EUR 5 000 000),
 
 
-20.1.2    įvyksta Esminiai Pakeitimai iki GIS, arba ^8e37ec56cf6aa333c70ebc9c
+20.1.2    įvyksta Esminiai Pakeitimai iki GIS, arba ^s-dfa3a8c77b270144415ef18b
 
 
-20.1.3    LR įvykdo esminį šios Koncesijos sutarties pažeidimą, ir toks esminis pažeidimas tuo pat metu nėra LR Įvykis pagal 20.1.1 punktą; arba ^ed7a87885e36ea51abdf04ca
+20.1.3    LR įvykdo esminį šios Koncesijos sutarties pažeidimą, ir toks esminis pažeidimas tuo pat metu nėra LR Įvykis pagal 20.1.1 punktą; arba ^s-e09c560a44e251c9c6f9369b
 
 
-20.1.4    LR neatlieka kokio nors neginčijamo mokėjimo, kurio suma didesnė nei penki milijonai eurų (5 000 000 EUR) (indeksuojama taikant atitinkamą koeficientą) per šešiasdešimt (60) Kalendorinių dienų nuo šios sumos mokėjimo termino dienos. ^7f7216b543ba4971c3687816
+20.1.4    LR neatlieka kokio nors neginčijamo mokėjimo, kurio suma didesnė nei penki milijonai eurų (5 000 000 EUR) (indeksuojama taikant atitinkamą koeficientą) per šešiasdešimt (60) Kalendorinių dienų nuo šios sumos mokėjimo termino dienos. ^s-19183f2c7083a12bf4ae3af7
 
 
-20.2     LR Įvykio pabaiga ^98a38fe8bb306ba3038aad59
+20.2     LR Įvykio pabaiga ^s-fa5595ef2da82f4c591b1156
 
 
-20.2.1        Jei PB pateikia LR pranešimą, kuriame tvirtinama, jog įvyko LR Įvykis („Pranešimas apie LR Įvykį“), tokiame pranešime turi būti: ^8c4483496ec2889ca1013231
+20.2.1        Jei PB pateikia LR pranešimą, kuriame tvirtinama, jog įvyko LR Įvykis („Pranešimas apie LR Įvykį“), tokiame pranešime turi būti: ^s-0bd1bd14ff729f690158ee30
 (A)      nurodoma LR Įvykio rūšis, remiantis 20.1 punktu (Įsipareigojimų nevykdymo atvejai) ir pateikiant pakankamai išsamią informaciją, ir
 (B)       nurodoma kuris Akcininkas(ai) balsavo už tai, kad PB pateiktų Pranešimą apie LR Įvykį, ir kuris iš šių Akcininko(ų) pageidauja pasinaudoti jam priklausančiomis atitinkamomis kontrolinio akcijų paketo išpirkimo teisėmis, kaip tą numato Akcininkų sutartis (toliau kiekvienas toks akcininkas vadinamas Pasitraukiančiu akcininku).
 
 
-20.2.2        Kaip įmanoma greičiau, tačiau bet kuriuo atveju ne vėliau kaip per penkias (5) Darbo dienas nuo Pranešimo apie LR Įvykį gavimo dienos, PB ir LR kartu su visais Pasitraukiančiais akcininkais, pageidaujančiais dalyvauti aptarime, aptars ir pasistengs susitarti, ar Pranešime apie LR Įvykį nurodomas LR Įvykis iš tiesų įvyko. ^aafd680de4e3a489fec0300d
+20.2.2        Kaip įmanoma greičiau, tačiau bet kuriuo atveju ne vėliau kaip per penkias (5) Darbo dienas nuo Pranešimo apie LR Įvykį gavimo dienos, PB ir LR kartu su visais Pasitraukiančiais akcininkais, pageidaujančiais dalyvauti aptarime, aptars ir pasistengs susitarti, ar Pranešime apie LR Įvykį nurodomas LR Įvykis iš tiesų įvyko. ^s-7306b76cfaaea5bd1b25a5f5
 
 
-20.2.3        Remiantis 20.2.4 nuostatomis, jei per penkiolika (15) Darbo dienų nuo Pranešimo apie LR Įvykį pateikimo datos PB, LR ir visiems 20.2.2 punkte minimame aptarime dalyvaujantiems Pasitraukiantiems akcininkams nepavyksta susitarti, ar Pranešime apie LR Įvykį nurodomas LR Įvykis iš tiesų įvyko, LR, PB arba bet kuris Pasitraukiantis akcininkas, dalyvavęs 20.2.2 punkte minėtame aptarime, gali per papildomas dešimt (10) Darbo dienų perduoti klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^abc4dcf6e8fd55f21c20ee92
+20.2.3        Remiantis 20.2.4 nuostatomis, jei per penkiolika (15) Darbo dienų nuo Pranešimo apie LR Įvykį pateikimo datos PB, LR ir visiems 20.2.2 punkte minimame aptarime dalyvaujantiems Pasitraukiantiems akcininkams nepavyksta susitarti, ar Pranešime apie LR Įvykį nurodomas LR Įvykis iš tiesų įvyko, LR, PB arba bet kuris Pasitraukiantis akcininkas, dalyvavęs 20.2.2 punkte minėtame aptarime, gali per papildomas dešimt (10) Darbo dienų perduoti klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^s-bea868522a5c59a22d9c2710
 
 
-20.2.4        Jei kuris nors Pasitraukiantis akcininkas, remdamasis Akcininkų sutartimi, pateikia PB rašytinį pranešimą (kuris yra pateikiamas per dešimt (10) Darbo dienų po to, kai pasibaigia 20.2.3 punkte numatytas dešimties (10) Darbo dienų laikotarpis), PB perduoda klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^dcb8bd70b639e0df06a2859d
+20.2.4        Jei kuris nors Pasitraukiantis akcininkas, remdamasis Akcininkų sutartimi, pateikia PB rašytinį pranešimą (kuris yra pateikiamas per dešimt (10) Darbo dienų po to, kai pasibaigia 20.2.3 punkte numatytas dešimties (10) Darbo dienų laikotarpis), PB perduoda klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^s-2f62cd89d4bc26a826ce68aa
 
 
-20.2.5        Jei susitariama arba nustatoma, kad Pranešime apie LR Įvykį nurodytas LR Įvykis iš tiesų įvyko ir toliau tęsiasi, tuomet taikomas 20.3 punktas (LR Įvykio pasekmės). ^3b5123f022acbba6c4e5c205
+20.2.5        Jei susitariama arba nustatoma, kad Pranešime apie LR Įvykį nurodytas LR Įvykis iš tiesų įvyko ir toliau tęsiasi, tuomet taikomas 20.3 punktas (LR Įvykio pasekmės). ^s-c00fd48fb4064f98c1e0eb0e
 
 
-20.3     LR Įvykio pasekmės ^a4060023ee728cc747dd375d
+20.3     LR Įvykio pasekmės ^s-62d498745749780a8e9510c7
 
 
-20.3.1            Jei remiantis 20.2 punktu (LR Įvykio pabaiga) susitariama arba nustatoma, kad įvyko LR Įvykis, tuomet keturiasdešimt penkias (45) dienas nuo tokio susitarimo ar nustatymo dienos taikomas 26 punktas (LR Įvykis. Privalomasis akcijų perleidimas). ^00302918ae4e4a2daca38499
+20.3.1            Jei remiantis 20.2 punktu (LR Įvykio pabaiga) susitariama arba nustatoma, kad įvyko LR Įvykis, tuomet keturiasdešimt penkias (45) dienas nuo tokio susitarimo ar nustatymo dienos taikomas 26 punktas (LR Įvykis. Privalomasis akcijų perleidimas). ^s-a332bed0b2dfe9a6aa6db46e
 
 
-20.3.2            Jei ši Koncesijos sutartis yra nutraukiama pagal 26.5.1 punkto (Sutarties nutraukimas ir kitos nuostatos) nuostatas arba jei LR ar LR Patikėtinis įsigyja Strateginiam investuotojui priklausančią Akcininko turimą turto dalį pagal 26.4 punkto (Privalomojo akcijų perleidimo kainos mokėjimas) nuostatas, arba jei nustoja galioti Akcininkų sutartyje numatyti Strateginio investuotojo Atitinkami įsipareigojimai, galioja 24.1 punkto (LR atlyginamos Patirtos išlaidos) nuostatos. ^98518f9f8be6b8e02c14b56a
+20.3.2            Jei ši Koncesijos sutartis yra nutraukiama pagal 26.5.1 punkto (Sutarties nutraukimas ir kitos nuostatos) nuostatas arba jei LR ar LR Patikėtinis įsigyja Strateginiam investuotojui priklausančią Akcininko turimą turto dalį pagal 26.4 punkto (Privalomojo akcijų perleidimo kainos mokėjimas) nuostatas, arba jei nustoja galioti Akcininkų sutartyje numatyti Strateginio investuotojo Atitinkami įsipareigojimai, galioja 24.1 punkto (LR atlyginamos Patirtos išlaidos) nuostatos. ^s-ac42077240ffa4486f1b1e1c
 
 
-20.4     LR Įvykio poveikio mažinimas ^9a5254eef23974df93a611a5
+20.4     LR Įvykio poveikio mažinimas ^s-1a996ae6afe28964eada391b
 
 
-20.4.1            Jei remiantis 20.2 punktu (LR Įvykio pabaiga) susitariama arba nustatoma, kad LR Įvykis tikrai įvyko ir kiekvienas akcininkas, išskyrus Lietuvos investuotoją, yra Pasitraukiantis akcininkas, PB nuo tos akimirkos tol, kol nebus atliktas Pasitraukiančiojo akcininko turimos turto dalies paskutinis perleidimas remiantis 26.4 punkto (Privalomojo akcijų perleidimo kainos mokėjimas) nuostatomis, LR sąskaita (tokios sumos yra sumokamos iš anksto) imasi visų pagrįstų veiksmų, kurių LR gali pagrįstai paprašyti (atsižvelgdama į tai, kad Koncesijos sutartis negali būti nutraukiama), kad būtų sumažinama bet kokia atsakomybė, kuri gali kilti dėl nutraukimo, ir kad būtų užtikrinama, jog pagal Susijusias sutartis arba kitaip nei vienai trečiajai šaliai nekils jokia atsakomybė, kurios buvo galima pagrįstai išvengti arba ją atidėti, ir nebus pagreitinamas tokios atsakomybės kilimas. ^c7fca9b772a08d76837b7e46
+20.4.1            Jei remiantis 20.2 punktu (LR Įvykio pabaiga) susitariama arba nustatoma, kad LR Įvykis tikrai įvyko ir kiekvienas akcininkas, išskyrus Lietuvos investuotoją, yra Pasitraukiantis akcininkas, PB nuo tos akimirkos tol, kol nebus atliktas Pasitraukiančiojo akcininko turimos turto dalies paskutinis perleidimas remiantis 26.4 punkto (Privalomojo akcijų perleidimo kainos mokėjimas) nuostatomis, LR sąskaita (tokios sumos yra sumokamos iš anksto) imasi visų pagrįstų veiksmų, kurių LR gali pagrįstai paprašyti (atsižvelgdama į tai, kad Koncesijos sutartis negali būti nutraukiama), kad būtų sumažinama bet kokia atsakomybė, kuri gali kilti dėl nutraukimo, ir kad būtų užtikrinama, jog pagal Susijusias sutartis arba kitaip nei vienai trečiajai šaliai nekils jokia atsakomybė, kurios buvo galima pagrįstai išvengti arba ją atidėti, ir nebus pagreitinamas tokios atsakomybės kilimas. ^s-067af35083dded9b60ee804f
 
 
-21.       PB ĮSIPAREIGOJIMŲ NEVYKDYMAS ^e043e582649b1625338b17b0
+21.       PB ĮSIPAREIGOJIMŲ NEVYKDYMAS ^s-503f026a7ee31b763caf7cbb
 
 
-21.1     PB įsipareigojimų nevykdymo atvejai ^9831d680ed25ad7abf1c280f
+21.1     PB įsipareigojimų nevykdymo atvejai ^s-af2b36978bfa3ab8733529b6
 Vienintelis PB įsipareigojimų nevykdymo atvejis yra atsisakymas.
 
 
-21.2     Nutraukimas dėl PB įsipareigojimų nevykdymo ^730cb2f480bff3ed356e7f8b
+21.2     Nutraukimas dėl PB įsipareigojimų nevykdymo ^s-14f3057f8396772d1d0abec6
 
 
-21.2.1            Jei LR mano, kad PB nevykdo įsipareigojimų, LR gali PB pateikti pranešimą apie įsipareigojimų nevykdymą („Pranešimas apie PB įsipareigojimų nevykdymą“), o tokio Pranešimo apie PB įsipareigojimų nevykdymą kopiją pateikti Strateginiam investuotojui. Pranešime apie PB įsipareigojimų nevykdymą nurodoma koks PB įsipareigojimas yra nevykdomas, remiantis 21.1 punktu (PB Įsipareigojimų nevykdymo atvejai), pateikiant pakankamai išsamią informaciją. ^0c476d9742f479ccf8d99c18
+21.2.1            Jei LR mano, kad PB nevykdo įsipareigojimų, LR gali PB pateikti pranešimą apie įsipareigojimų nevykdymą („Pranešimas apie PB įsipareigojimų nevykdymą“), o tokio Pranešimo apie PB įsipareigojimų nevykdymą kopiją pateikti Strateginiam investuotojui. Pranešime apie PB įsipareigojimų nevykdymą nurodoma koks PB įsipareigojimas yra nevykdomas, remiantis 21.1 punktu (PB Įsipareigojimų nevykdymo atvejai), pateikiant pakankamai išsamią informaciją. ^s-37caa37804bc8f368a403dbc
 
 
-21.2.2            Kaip įmanoma greičiau, tačiau bet kuriuo atveju ne vėliau kaip per penkias (5) Darbo dienas nuo Pranešimo apie PB įsipareigojimų nevykdymą gavimo dienos, LR ir PB aptars ir pasistengs susitarti, ar Pranešime apie PB įsipareigojimų nevykdymą nurodomas PB nevykdomas įsipareigojimas iš tiesų yra nevykdomas. ^e0bd4712d68eeb47f39e1957
+21.2.2            Kaip įmanoma greičiau, tačiau bet kuriuo atveju ne vėliau kaip per penkias (5) Darbo dienas nuo Pranešimo apie PB įsipareigojimų nevykdymą gavimo dienos, LR ir PB aptars ir pasistengs susitarti, ar Pranešime apie PB įsipareigojimų nevykdymą nurodomas PB nevykdomas įsipareigojimas iš tiesų yra nevykdomas. ^s-fa7ebb6d81a4e92781697831
 
 
-21.2.3            Jei per penkiolika (15) Darbo dienų nuo Pranešimo apie PB įsipareigojimų nevykdymą pateikimo datos LR ir PB nepavyksta susitarti, ar Pranešime apie PB įsipareigojimų nevykdymą nurodomas PB nevykdomas įsipareigojimas iš tiesų yra nevykdomas, LR arba PB gali perduoti klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^5d9750499d35965aa6041243
+21.2.3            Jei per penkiolika (15) Darbo dienų nuo Pranešimo apie PB įsipareigojimų nevykdymą pateikimo datos LR ir PB nepavyksta susitarti, ar Pranešime apie PB įsipareigojimų nevykdymą nurodomas PB nevykdomas įsipareigojimas iš tiesų yra nevykdomas, LR arba PB gali perduoti klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^s-c44c545202369ddb1c11614e
 
 
-21.2.4            Jei susitariama arba nustatoma, kad PB nevykdomas įsipareigojimas, nurodytas Pranešime apie PB įsipareigojimų nevykdymą, iš tiesų nebuvo ir toliau yra nevykdomas, LR turi teisę nutraukti šią Koncesijos sutartį, remdamasi 21.3 punktu (PB Įsipareigojimų nevykdymo pasekmės). ^cf505869f4fca36fcd11f581
+21.2.4            Jei susitariama arba nustatoma, kad PB nevykdomas įsipareigojimas, nurodytas Pranešime apie PB įsipareigojimų nevykdymą, iš tiesų nebuvo ir toliau yra nevykdomas, LR turi teisę nutraukti šią Koncesijos sutartį, remdamasi 21.3 punktu (PB Įsipareigojimų nevykdymo pasekmės). ^s-e25d06157b846ac8394cdb27
 
 
-21.3     PB įsipareigojimų nevykdymo pasekmės ^02c8dfe2446c429c38df4d67
+21.3     PB įsipareigojimų nevykdymo pasekmės ^s-2f47b9c6ae3d4e41f539ee9e
 
 
-21.3.1            Jei remiantis 21.2 punktu (Nutraukimas dėl PB įsipareigojimų nevykdymo) susitariama arba nustatoma, kad PB nevykdė įsipareigojimų, LR turi teisę nutraukti šią Koncesijos sutartį, kitoms Šalims pranešdama tokio nutraukimo datą, kuri negali būti ankstesnė kaip dvidešimt penkios (25) Darbo dienos nuo susitarimo arba nustatymo, kad PB nevykdė įsipareigojimų, datos, ir ši Koncesijos sutartis bus nutraukiama nuo tokiame pranešime apie sutarties nutraukimą nurodytos datos. ^eed477fb286300a2ef3cf7c7
+21.3.1            Jei remiantis 21.2 punktu (Nutraukimas dėl PB įsipareigojimų nevykdymo) susitariama arba nustatoma, kad PB nevykdė įsipareigojimų, LR turi teisę nutraukti šią Koncesijos sutartį, kitoms Šalims pranešdama tokio nutraukimo datą, kuri negali būti ankstesnė kaip dvidešimt penkios (25) Darbo dienos nuo susitarimo arba nustatymo, kad PB nevykdė įsipareigojimų, datos, ir ši Koncesijos sutartis bus nutraukiama nuo tokiame pranešime apie sutarties nutraukimą nurodytos datos. ^s-8d442aa171d8162fe4e99f56
 
 
-21.3.2            Nutraukiant šią Koncesijos sutartį pagal 21.3.1 punkto nuostatas, taikomas 25 punktas (Akcininkų sutartyje numatomos LR trečiojo asmens teisės). ^7220edd15a016b8269188091
+21.3.2            Nutraukiant šią Koncesijos sutartį pagal 21.3.1 punkto nuostatas, taikomas 25 punktas (Akcininkų sutartyje numatomos LR trečiojo asmens teisės). ^s-c390e41e54826ae56d7937cb
 
 
-21.3.3            Jei ši Koncesijos sutartis yra nutraukiama pagal 21.3.1 punkto nuostatas, kuomet PB įsipareigojimų nevykdymo priežastis yra: ^4f31525765ec12261bf31ce1
+21.3.3            Jei ši Koncesijos sutartis yra nutraukiama pagal 21.3.1 punkto nuostatas, kuomet PB įsipareigojimų nevykdymo priežastis yra: ^s-1fdf3ff769138e7c6adc239b
 (A)      EPC rangos sutarties nutraukimas dėl EPC rangovo įsipareigojimų nevykdymo, kaip numatyta EPC rangos sutarties sąlygose; arba
 (B)       Po Investavimo dienos Akcininkų sutartyje numatytų Strateginio investuotojo finansavimo įsipareigojimų nevykdymas ir nesugebėjimas ištaisyti finansinio įsipareigojimo pažeidimo per Akcininkų sutartyje nustatytą laikotarpį po pranešimo apie įsipareigojimų nevykdymą įteikimo Strateginiam investuotojui,
 taikomas 24.2 punktas (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos).
 
 
-21.4     Kitos nutraukimo dėl PB įsipareigojimų nevykdymo pasekmės ^ca769b05c681abdacbac388a
+21.4     Kitos nutraukimo dėl PB įsipareigojimų nevykdymo pasekmės ^s-c10a2d5237b30232336e09e8
 
 
-21.4.1            Jei remiantis 21.2 punktu (Nutraukimas dėl PB įsipareigojimų nevykdymo) susitariama arba nustatoma, kad PB nevykdė įsipareigojimų ir LR pateikė pranešimą apie PB įsipareigojimų nevykdymą, PB nuo to laiko, remdamasi 21.4.2 punkto nuostatomis: ^4644d586e241dc1c437100f2
+21.4.1            Jei remiantis 21.2 punktu (Nutraukimas dėl PB įsipareigojimų nevykdymo) susitariama arba nustatoma, kad PB nevykdė įsipareigojimų ir LR pateikė pranešimą apie PB įsipareigojimų nevykdymą, PB nuo to laiko, remdamasi 21.4.2 punkto nuostatomis: ^s-ec46c510e7b16d75f650be96
 (A)      imasi visų pagrįstų veiksmų, kad būtų sumažinama bet kuri atsakomybė, kurią PB gali kilti dėl šios Koncesijos sutarties nutraukimo, ir
 (B)       išskyrus tuos atvejus, kuomet tą daryti ją įpareigoja kuri nors Susijusi sutartis arba taikomas įstatymas, be LR išankstinio rašytinio sutikimo neparduoda, neperduoda, neperleidžia savo materialiojo turto ir nesumažina jo vertės,
 kol LR, pasinaudojusi savo teisėmis pareikalauti, kad kiekvienas Akcininkas perleistų jo turimą turto dalį LR pagal 25.1 punkto (Akcininkų sutartyje numatomos LR trečiojo asmens teisės) nuostatas, kaip numatyta Akcininkų sutartyje, užbaigs tokį perleidimą arba iki kol bet kurios šios teisės neteks galios pagal Akcininkų sutartį.
 
 
-21.4.2            Jei LR pasinaudoja Akcininkų sutartyje numatomomis savo trečiojo asmens teisėmis pareikalauti, kad visi Akcininkai (įskaitant Strateginį investuotoją) perleistų LR (arba LR Patikėtiniui) ne dalį, o visas jų turimas turto dalis, kaip numatyta 25 punkte (Akcininkų sutartyje numatomos LR trečiojo asmens teisės), tuomet tarp veiksmų, kurių pagal 21.4.1 punkto nuostatas imsis PB, bus ir BP pasinaudojimas savo turimomis teisėmis, kurias numato Susijusios sutartys, jei to raštu pagrįstai pareikalaus LR. ^b03195561d19408e90a79374
+21.4.2            Jei LR pasinaudoja Akcininkų sutartyje numatomomis savo trečiojo asmens teisėmis pareikalauti, kad visi Akcininkai (įskaitant Strateginį investuotoją) perleistų LR (arba LR Patikėtiniui) ne dalį, o visas jų turimas turto dalis, kaip numatyta 25 punkte (Akcininkų sutartyje numatomos LR trečiojo asmens teisės), tuomet tarp veiksmų, kurių pagal 21.4.1 punkto nuostatas imsis PB, bus ir BP pasinaudojimas savo turimomis teisėmis, kurias numato Susijusios sutartys, jei to raštu pagrįstai pareikalaus LR. ^s-8e8f9d87f0bd1a94fcee1e44
 
 
-22.       STRATEGINIO INVESTUOTOJO ĮSIPAREIGOJIMŲ NEVYKDYMAS ^6f5fd820d85eb18889e2c631
+22.       STRATEGINIO INVESTUOTOJO ĮSIPAREIGOJIMŲ NEVYKDYMAS ^s-6a680d4631df54a0ffa17a55
 
 
-22.1     Strateginio investuotojo įsipareigojimų nevykdymo atvejai ^e5af4d063f20453629885279
+22.1     Strateginio investuotojo įsipareigojimų nevykdymo atvejai ^s-39145b41517eee18fb809513
 Visi toliau išvardytieji atvejai yra Strateginio investuotojo įsipareigojimų nevykdymo atvejai:
 
 
 Strateginio investuotojo pareigų nevykdymas
 
 
-22.1.1            Po Investavimo dienos Strateginio investuotojo įvykdytas esminis kurios nors šioje Koncesijos sutartyje numatytos pareigos vykdymo pažeidimas, kuomet toks pažeidimas turi esminį ir neigiamą poveikį Koncesijos sutarties vykdymui, įskaitant Strateginio investuotojo įvykdytą esminį šios Koncesijos sutarties pažeidimą. ^c674cd7533ee2da3b4804837
+22.1.1            Po Investavimo dienos Strateginio investuotojo įvykdytas esminis kurios nors šioje Koncesijos sutartyje numatytos pareigos vykdymo pažeidimas, kuomet toks pažeidimas turi esminį ir neigiamą poveikį Koncesijos sutarties vykdymui, įskaitant Strateginio investuotojo įvykdytą esminį šios Koncesijos sutarties pažeidimą. ^s-f8dd98e5b20a48266d3dbadb
 
 
 Strateginio investuotojo likvidavimas
 
 
-22.1.2            Strateginio investuotojo akcininkai priima nutarimą likviduoti Strateginį investuotoją arba Strateginis investuotojas yra likviduojamas kokiu nors kitu būdu. ^4a43ea00af1095e7b05e8eff
+22.1.2            Strateginio investuotojo akcininkai priima nutarimą likviduoti Strateginį investuotoją arba Strateginis investuotojas yra likviduojamas kokiu nors kitu būdu. ^s-5fceb93b83a946f4171d3763
 
 
 Strateginio investuotojo kontrolinio akcijų paketo išpirkimas
 
 
-22.1.3            Po Investavimo dienos Strateginis investuotojas nevykdo Akcininkų sutartyje numatytų finansavimo įsipareigojimų ir, remiantis Akcininkų sutartyje numatytomis kontrolinio akcijų paketo išpirkimo nuostatomis, atliktas Strateginio investuotojo Akcijų perleidimas kitiems Akcininkams arba trečiajai šaliai, kuriai leidžiama perleisti tokias Akcijas, kas yra tiesioginė minėtojo finansavimo įsipareigojimų nevykdymo pasekmė. ^1eaa9cd212788515231dc1c6
+22.1.3            Po Investavimo dienos Strateginis investuotojas nevykdo Akcininkų sutartyje numatytų finansavimo įsipareigojimų ir, remiantis Akcininkų sutartyje numatytomis kontrolinio akcijų paketo išpirkimo nuostatomis, atliktas Strateginio investuotojo Akcijų perleidimas kitiems Akcininkams arba trečiajai šaliai, kuriai leidžiama perleisti tokias Akcijas, kas yra tiesioginė minėtojo finansavimo įsipareigojimų nevykdymo pasekmė. ^s-99136826bff6e0264fc5aa2c
 
 
 „Hitachi, Ltd.“ Susijusios bendrovės statuso netekimas ir negaliojantis Strateginio investuotojo akcijų perleidimas
 
 
-22.1.4            Strateginis investuotojas nevykdo kurio nors savo įsipareigojimo, numatyto 31.4.1 arba 31.4.2 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) ^96c3315af954d4053c0116a7
+22.1.4            Strateginis investuotojas nevykdo kurio nors savo įsipareigojimo, numatyto 31.4.1 arba 31.4.2 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) ^s-05ae9ce141a9e550660cdf9f
 
 
-22.2     Strateginio investuotojo teisių ir įsipareigojimų nutraukimas ^6a130ac9b3344f0e44815ca9
+22.2     Strateginio investuotojo teisių ir įsipareigojimų nutraukimas ^s-ed5c4763232863c7ae9ad4f0
 
 
-22.2.1            Strateginio investuotojo įsipareigojimų nevykdymo atveju, kuris numatytas: ^84edc442bc5ce1a5589f3464
+22.2.1            Strateginio investuotojo įsipareigojimų nevykdymo atveju, kuris numatytas: ^s-ac9e0ce760dd83130c976f6b
 (A)      22.1.1 punkte (Strateginio investuotojo įsipareigojimų nevykdymas) arba 22.1.4 punkte („Hitachi, Ltd.“ Susijusios bendrovės statuso netekimas ir negaliojantis Strateginio investuotojo akcijų perleidimas), taikomos 22.2.2–22.2.7 punktų nuostatos (imtinai),
 (B)       22.1.2 punkte (Strateginio investuotojo likvidavimas), LR gali (pasikonsultavusi su PB ir laikydamasi 22.2.7 punkto nuostatų) per dvidešimt (20) Darbo dienų nuo tos dienos, kuomet sužinojo apie Strateginio investuotojo atitinkamo įsipareigojimo nevykdymą, nutraukti šioje Koncesijos sutartyje numatytų Strateginio investuotojo teisių ir įsipareigojimų galiojimą, ir toks nutraukimas įsigalioja iš karto arba praėjus LR nuomone pagrįstam laikotarpiui, neviršijančiam dešimties (10) Darbo dienų, pateikus pranešimą apie nutraukimą Strateginiam investuotojui; Koncesijos sutartis toliau galioja tarp LR ir PB; tokio pranešimo apie nutraukimą kopiją LR pateikia PB; arba
 (C)       22.1.3 punkte (Strateginio investuotojo kontrolinio akcijų paketo išpirkimas), šioje Koncesijos sutartyje numatytos Strateginio investuotojo teisės ir įsipareigojimai yra automatiškai nutrūksta iš karto po to, kai pagal Akcininkų sutartyje numatytas kontrolinio akcijų paketo išpirkimo nuostatas dėl įsipareigojimų nevykdymo yra atliekamas Strateginio investuotojo Akcijų perleidimas kitiems Akcininkams arba trečiajai šaliai, kuriai leidžiama perleisti tokias Akcijas.
 
 
-22.2.2            Prieš pateikdama Strateginiam investuotojui Pranešimą apie nutraukimą (kaip numatyta 22.2.3 punkte), LR konsultuojasi su PB dėl Strateginio investuotojo atitinkamo įsipareigojimo nevykdymo ir gali (jei LR pagrįstai mano, kad tai yra būtina) paprašyti, kad PB pateiktų informaciją (kurią ji pateikia), susijusią su minėtuoju Strateginio investuotojo įsipareigojimo nevykdymu. ^2ed7e73e4f5ceed2862ae8ca
+22.2.2            Prieš pateikdama Strateginiam investuotojui Pranešimą apie nutraukimą (kaip numatyta 22.2.3 punkte), LR konsultuojasi su PB dėl Strateginio investuotojo atitinkamo įsipareigojimo nevykdymo ir gali (jei LR pagrįstai mano, kad tai yra būtina) paprašyti, kad PB pateiktų informaciją (kurią ji pateikia), susijusią su minėtuoju Strateginio investuotojo įsipareigojimo nevykdymu. ^s-03100faaca4c4ea042a61972
 
 
-22.2.3            Jei LR mano, kad Strateginis investuotojas tikrai nevykdė savo įsipareigojimų, kaip numatyta 22.1.1 punkte (Strateginio investuotojo įsipareigojimų nevykdymas) arba 22.1.4 punkte („Hitachi, Lt.“ Susijusios bendrovės statuso netekimas ir negaliojantis Strateginio investuotojo akcijų perleidimas), LR gali Strateginiam investuotojui pateikti pranešimą, kuriame teigiama, kad Strateginis investuotojas nevykdo įsipareigojimų („Pranešimas apie Strateginio investuotojo įsipareigojimų nevykdymą“); tokio Pranešimo apie Strateginio investuotojo įsipareigojimų nevykdymą kopija pateikiama PB. Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodoma koks Strateginio investuotojo įsipareigojimas yra nevykdomas, pateikiant pakankamai išsamią informaciją. ^d8078ad736343d6fd36b59d4
+22.2.3            Jei LR mano, kad Strateginis investuotojas tikrai nevykdė savo įsipareigojimų, kaip numatyta 22.1.1 punkte (Strateginio investuotojo įsipareigojimų nevykdymas) arba 22.1.4 punkte („Hitachi, Lt.“ Susijusios bendrovės statuso netekimas ir negaliojantis Strateginio investuotojo akcijų perleidimas), LR gali Strateginiam investuotojui pateikti pranešimą, kuriame teigiama, kad Strateginis investuotojas nevykdo įsipareigojimų („Pranešimas apie Strateginio investuotojo įsipareigojimų nevykdymą“); tokio Pranešimo apie Strateginio investuotojo įsipareigojimų nevykdymą kopija pateikiama PB. Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodoma koks Strateginio investuotojo įsipareigojimas yra nevykdomas, pateikiant pakankamai išsamią informaciją. ^s-7a0f5e9668dff10d2d558c48
 
 
-22.2.4            Kaip įmanoma greičiau, tačiau bet kuriuo atveju ne vėliau kaip per penkias (5) Darbo dienas nuo Pranešimo apie Strateginio investuotojo įsipareigojimų nevykdymą gavimo dienos, LR ir Strateginis investuotojas aptars ir dės pastangas susitarti, ar Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodomas Strateginio investuotojo nevykdomas įsipareigojimas iš tiesų yra nevykdomas. LR konsultuojasi su PB dėl LR ir Strateginio investuotojo aptariamų klausimų, o PB prie diskusijų prisijungia, jeigu to prašo LR arba pageidauja PB. ^211e5a4d58d808e619850963
+22.2.4            Kaip įmanoma greičiau, tačiau bet kuriuo atveju ne vėliau kaip per penkias (5) Darbo dienas nuo Pranešimo apie Strateginio investuotojo įsipareigojimų nevykdymą gavimo dienos, LR ir Strateginis investuotojas aptars ir dės pastangas susitarti, ar Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodomas Strateginio investuotojo nevykdomas įsipareigojimas iš tiesų yra nevykdomas. LR konsultuojasi su PB dėl LR ir Strateginio investuotojo aptariamų klausimų, o PB prie diskusijų prisijungia, jeigu to prašo LR arba pageidauja PB. ^s-7605cb6beb73680b72fbefb8
 
 
-22.2.5            Jei per penkiolika (15) Darbo dienų nuo Pranešimo apie Strateginio investuotojo įsipareigojimų nevykdymą pateikimo datos LR ir Strateginiam investuotojui nepavyksta susitarti, ar Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodomas Strateginio investuotojo nevykdomas įsipareigojimas iš tiesų yra nevykdomas, LR arba Strateginis investuotojas gali perduoti klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^5e2772214f9ea0e1a5c0f963
+22.2.5            Jei per penkiolika (15) Darbo dienų nuo Pranešimo apie Strateginio investuotojo įsipareigojimų nevykdymą pateikimo datos LR ir Strateginiam investuotojui nepavyksta susitarti, ar Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodomas Strateginio investuotojo nevykdomas įsipareigojimas iš tiesų yra nevykdomas, LR arba Strateginis investuotojas gali perduoti klausimą spręsti vadovaujantis Ginčų sprendimo tvarka. ^s-f6111cb620fd17ae196a67e9
 
 
-22.2.6            Jei susitariama arba nustatoma, kad Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodomas Strateginio investuotojo nevykdomas įsipareigojimas iš tiesų nebuvo ir toliau yra nevykdomas, LR gali (konsultuodamasi su PB ir laikydamasi 22.2.7 punkto nuostatų) nutraukti šioje Koncesijos sutartyje numatytas Strateginio investuotojo teises ir įsipareigojimus, ir toks nutraukimas įsigalioja iš karto arba praėjus LR nuomone pagrįstam laikotarpiui, neviršijančiam dešimties (10) Darbo dienų, pateikiant pranešimą apie nutraukimą Strateginiam investuotojui. Tokio pranešimo apie nutraukimą kopiją LR pateikia PB. ^2bd68266e5116284e2b7727b
+22.2.6            Jei susitariama arba nustatoma, kad Pranešime apie Strateginio investuotojo įsipareigojimų nevykdymą nurodomas Strateginio investuotojo nevykdomas įsipareigojimas iš tiesų nebuvo ir toliau yra nevykdomas, LR gali (konsultuodamasi su PB ir laikydamasi 22.2.7 punkto nuostatų) nutraukti šioje Koncesijos sutartyje numatytas Strateginio investuotojo teises ir įsipareigojimus, ir toks nutraukimas įsigalioja iš karto arba praėjus LR nuomone pagrįstam laikotarpiui, neviršijančiam dešimties (10) Darbo dienų, pateikiant pranešimą apie nutraukimą Strateginiam investuotojui. Tokio pranešimo apie nutraukimą kopiją LR pateikia PB. ^s-1c4aa987e22aad2849c6c7da
 
 
-22.2.7            Prieš pasinaudodama savo teise nutraukti šioje Koncesijos sutartyje numatytas Strateginio investuotojo teises ir įsipareigojimus, remdamasi 22.2.1(B) arba 22.2.6 punkto nuostatomis, LR gaus PB pritarimą tokiam siūlomam nutraukimui; be PB pritarimo siūlomam nutraukimui negalios nei vienas pranešimas apie nutraukimą, kurį LR pateiks pagal 22.2.1(B) arba 22.2.6 punkto nuostatas. ^5e141436fda3e57e08fefafe
+22.2.7            Prieš pasinaudodama savo teise nutraukti šioje Koncesijos sutartyje numatytas Strateginio investuotojo teises ir įsipareigojimus, remdamasi 22.2.1(B) arba 22.2.6 punkto nuostatomis, LR gaus PB pritarimą tokiam siūlomam nutraukimui; be PB pritarimo siūlomam nutraukimui negalios nei vienas pranešimas apie nutraukimą, kurį LR pateiks pagal 22.2.1(B) arba 22.2.6 punkto nuostatas. ^s-eb36e32d01262db67fd96112
 
 
-22.3     Nutraukimo pasekmės ^fb02351206b992923bc46d09
+22.3     Nutraukimo pasekmės ^s-9a056258f2d795aa188b3385
 
 
-22.3.1            Jei šioje Koncesijos sutartyje numatytos Strateginio investuotojo teisės ir įsipareigojimai yra nutraukiami pagal 22.2 punkto (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) nuostatas, taikomas 24.2 punktas (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos). ^54c4df25f9ca911f1efae723
+22.3.1            Jei šioje Koncesijos sutartyje numatytos Strateginio investuotojo teisės ir įsipareigojimai yra nutraukiami pagal 22.2 punkto (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) nuostatas, taikomas 24.2 punktas (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos). ^s-a40fb7f54172ee7534bc77ce
 
 
-22.3.2            Nepaisant šioje Koncesijos sutartyje numatytų Strateginio investuotojo teisių ir įsipareigojimų nutraukimo, ši Koncesijos sutartis ir toliau galioja tarp LR ir PB. ^786b09eaa9cf7ec218b25ef3
+22.3.2            Nepaisant šioje Koncesijos sutartyje numatytų Strateginio investuotojo teisių ir įsipareigojimų nutraukimo, ši Koncesijos sutartis ir toliau galioja tarp LR ir PB. ^s-a7b3658ff35fdc2826c5596c
 
 
-23.       SUTARTIES NUTRAUKIMAS NE DĖL ĮSIPAREIGOJIMŲ NEVYKDYMO ^604f0aeb41cd4bb35ff4810d
+23.       SUTARTIES NUTRAUKIMAS NE DĖL ĮSIPAREIGOJIMŲ NEVYKDYMO ^s-6d2e6abe8fa210bbb598aaf0
 
 
-23.1     Sutarties nutraukimas Šalių susitarimu ^7b8c2f9baa4c0f1c2bfb3368
+23.1     Sutarties nutraukimas Šalių susitarimu ^s-34a0840aba09e8550209afdf
 Šalys turi teisę bet kuriuo metu (siekiant išvengti abejonių, taip pat ir priėmus teigiamą GIS) nutraukti šią Koncesijos sutartį savo susitarimu, jei taip raštu susitaria visos (o ne kelios) Šalys, nurodydamos tokio nutraukimo priežastį, nutraukimo pasekmes ir nutraukimo įsigaliojimo datą.
 
 
-23.2     Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo ^b6341cae64c3f172badb5e84
+23.2     Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo ^s-651b96c8dbb56f0db0c41512
 
 
-23.2.1            Ši Koncesijos sutartis automatiškai nutraukiama ir toks nutraukimas įsigalioja nedelsiant, jei PB, remdamasi 11.3 punkto (Pranešimas apie sprendimą nepradėti kito RPPD etapo) nuostatomis, praneša LR, kad PB nusprendė nepradėti kito RPPD etapo. ^00af7bce21c224e07d14b209
+23.2.1            Ši Koncesijos sutartis automatiškai nutraukiama ir toks nutraukimas įsigalioja nedelsiant, jei PB, remdamasi 11.3 punkto (Pranešimas apie sprendimą nepradėti kito RPPD etapo) nuostatomis, praneša LR, kad PB nusprendė nepradėti kito RPPD etapo. ^s-6cd14543a4e23db9f798e838
 
 
-23.2.2            Ši Koncesijos sutartis automatiškai nutraukiama ir toks nutraukimas įsigalioja nedelsiant, jei PB, remdamasi 11.4 punkto (Pranešimas apie GIS priėmimą) nuostatomis, praneša LR, kad buvo priimtas galutinis neigiamas GIS. ^d001a8cf4c206a84f2ca5030
+23.2.2            Ši Koncesijos sutartis automatiškai nutraukiama ir toks nutraukimas įsigalioja nedelsiant, jei PB, remdamasi 11.4 punkto (Pranešimas apie GIS priėmimą) nuostatomis, praneša LR, kad buvo priimtas galutinis neigiamas GIS. ^s-2fe45aaf51c38877d5ad0e40
 
 
-23.3     Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo ^471ec67e0191eaedf8aa79d6
+23.3     Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo ^s-5d1908c3c0f2d66a599332cd
 Strateginio investuotojo teisės ir įsipareigojimai pagal šią Koncesijos sutartį yra automatiškai nustoja galios, kurią yra nutraukiami Akcininkų sutartyje numatyti Strateginio investuotojo Atitinkami įsipareigojimai, tačiau Koncesijos sutartis išlieka toliau galioti tarp LR ir PB.
 
 
-23.4     LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo ^9b77f783ce69d03ccec893b0
+23.4     LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo ^s-23c87b2e711e7a0e3227e019
 Jei Koncesijos sutartis nutraukiama remiantis 23.1 punktu (Sutarties nutraukimas Šalių susitarimu) (jei Šalys aiškiai susitaria, kad tai yra nutraukimo Šalių susitarimu dalis) arba 23.2 punktu (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo), taikomos 25 punkto (Akcininkų sutartyje numatomos LR trečiojo asmens teisės) nuostatos.
 
 
-23.5     Sutarties nutraukimo ne dėl įsipareigojimų nevykdymo pasekmės ^5ced59d94b790c99c2887715
+23.5     Sutarties nutraukimo ne dėl įsipareigojimų nevykdymo pasekmės ^s-8b82b77d0adcfb0912938ca5
 
 
-23.5.1            Dėl šios Koncesijos sutarties nutraukimo pagal šio 23 punkto (Sutarties nutraukimas ne dėl įsipareigojimų nevykdymo) nuostatas nekyla LR atsakomybė nei PB, nei Strateginio investuotojo atžvilgiu, išskyrus LR atsakomybę Strateginio investuotojo (kaip Akcininko) atžvilgiu pagal 23.4 punkto (LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo) ir 25 punkto (Akcininkų sutartyje numatomos LR trečiojo asmens teisės) nuostatas, jei Šalys nesusitaria kitaip. ^a8ed8f2dc30fcde8aff010ff
+23.5.1            Dėl šios Koncesijos sutarties nutraukimo pagal šio 23 punkto (Sutarties nutraukimas ne dėl įsipareigojimų nevykdymo) nuostatas nekyla LR atsakomybė nei PB, nei Strateginio investuotojo atžvilgiu, išskyrus LR atsakomybę Strateginio investuotojo (kaip Akcininko) atžvilgiu pagal 23.4 punkto (LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo) ir 25 punkto (Akcininkų sutartyje numatomos LR trečiojo asmens teisės) nuostatas, jei Šalys nesusitaria kitaip. ^s-93724fcc66237ae8d810e117
 
 
-23.5.2            Jei LR pasinaudoja Akcininkų sutartyje numatomomis savo trečiojo asmens teisėmis pareikalauti, kad visi Akcininkai (įskaitant Strateginį investuotoją) perleistų LR arba LR Patikėtiniui ne dalį, o visas jų turimas turto dalis, kaip numatyta 23.4 punkte (LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo) ir 25 punkte (Akcininkų sutartyje numatomos LR trečiojo asmens teisės), tuomet LR gali pareikalauti, kad PB (LR sąskaita ir sumokant šias sumas iš anksto) imtųsi visų pagrįstų veiksmų, kad būtų sumažinama bet kuri atsakomybė, kuri gali kilti dėl tokio nutraukimo; tarp tokių veiksmų gali būti PB pasinaudojimas savo turimomis teisėmis, kurias numato Susijusios sutartys, jeigu to raštu pagrįstai pareikalaus LR. ^93e3a697e750f9c68039f198
+23.5.2            Jei LR pasinaudoja Akcininkų sutartyje numatomomis savo trečiojo asmens teisėmis pareikalauti, kad visi Akcininkai (įskaitant Strateginį investuotoją) perleistų LR arba LR Patikėtiniui ne dalį, o visas jų turimas turto dalis, kaip numatyta 23.4 punkte (LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo) ir 25 punkte (Akcininkų sutartyje numatomos LR trečiojo asmens teisės), tuomet LR gali pareikalauti, kad PB (LR sąskaita ir sumokant šias sumas iš anksto) imtųsi visų pagrįstų veiksmų, kad būtų sumažinama bet kuri atsakomybė, kuri gali kilti dėl tokio nutraukimo; tarp tokių veiksmų gali būti PB pasinaudojimas savo turimomis teisėmis, kurias numato Susijusios sutartys, jeigu to raštu pagrįstai pareikalaus LR. ^s-14a388082ffbd66fa29512d3
 
 
-24.       SU SUTARTIES NUTRAUKIMU SUSIJUSIŲ NUOSTOLIŲ ATLYGINIMAS ^152ef06e5cc8df36e851de23
+24.       SU SUTARTIES NUTRAUKIMU SUSIJUSIŲ NUOSTOLIŲ ATLYGINIMAS ^s-0c0bb796ee06f363d08c84d4
 
 
-24.1     LR atlyginamos Patirtos išlaidos ^4832520c0087b143f0e3ea95
+24.1     LR atlyginamos Patirtos išlaidos ^s-f192a5108b9bf6acd58bc977
 
 
-24.1.1            Jei: ^de11f9378152268225800613
+24.1.1            Jei: ^s-23495b913e4c90a587f24c14
 (A)      ši Koncesijos sutartis yra nutraukiama pagal 26.5.1 punkto (Sutarties nutraukimas ir kitos nuostatos) nuostatas;
 (B)       Strateginis investuotojas yra Pasitraukiantis akcininkas ir turi teisę, kad Akcininko turimą turto dalį įsigytų LR arba LR Patikėtinis pagal 26.4.1 punktą (Privalomojo akcijų perleidimo kainos mokėjimas); arba
 (C)       nutraukiami Akcininkų sutartyje numatyti Strateginio investuotojo Atitinkami įsipareigojimai,
@@ -5353,19 +5358,19 @@ tuomet:
 (2)       LR, remdamasi 24.1.2 punkto nuostatomis ir tiek, kiek susitariama dėl Patirtų išlaidų dydžio arba koks jis yra nustatomas, sumoka Strateginiam investuotojui sąskaitoje nurodytas Patirtas išlaidas; toks mokėjimas turi būti atliekamas per du (2) Mėnesius nuo Strateginio investuotojo Patirtų išlaidų sąskaitos gavimo dienos.
 
 
-24.1.2            Didžiausia LR atsakomybė už Patirtas išlaidas, kompensuojamas kaip numatyta 24.1.1 punkte, negali viršyti dešimties milijonų eurų ((EUR 10 000 000). ^243aac6dda1eba4685789678
+24.1.2            Didžiausia LR atsakomybė už Patirtas išlaidas, kompensuojamas kaip numatyta 24.1.1 punkte, negali viršyti dešimties milijonų eurų ((EUR 10 000 000). ^s-c46eddff1ff9d2737d3c0938
 
 
-24.2     Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos ^7eb7545da3503bd67df226ff
+24.2     Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos ^s-f0569141c9522aa47a5092b3
 
 
-24.2.1            Jei: ^d674b1ada0bd4a1d831b5a36
+24.2.1            Jei: ^s-b4fbe88d86b118962cd18670
 (A)      šioje Koncesijos sutartyje numatytos Strateginio investuotojo teisės ir įsipareigojimai yra nutraukiami pagal 22.2 punkto (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) nuostatas; arba
 (B)       dėl PB įsipareigojimų nevykdymo, kurį sukėlė 21.3.3 punkte (PB įsipareigojimų nevykdymo pasekmės) nustatytas atvejis, remiantis 21.2 punkto (Nutraukimas dėl PB įsipareigojimų nevykdymo) nuostatomis yra nutraukiama visa ši Koncesijos sutartis,
 LR gali savo nuožiūra nuspręsti – pradėti ar nepradėti Papildomą konkursą.
 
 
-24.2.2            Jei, remdamasi 24.2.1 punkto nuostatomis, ^3abb8308378e4f315acb2c05
+24.2.2            Jei, remdamasi 24.2.1 punkto nuostatomis, ^s-588a4322d5659bcb6d70184a
 (A)      LR nusprendžia pradėti Papildomą konkursą per dvidešimt keturis (24) Mėnesius nuo nutraukimo,
 (1)       LR gali per du (2) Mėnesius nuo sprendimo priėmimo datos pateikti Strateginiam investuotojui sąskaitą LR Papildomo konkurso išlaidoms atlyginti kartu su dokumentais (kurių forma ir išsamumas yra priimtinas Strateginiam investuotojui), patvirtinančiais visas Papildomo konkurso išlaidas, kurias atlyginti yra prašoma; ir
 (2)       Strateginis investuotojas, remdamasis 24.2.3 punkto nuostatomis ir tiek, kiek susitariama dėl Papildomo konkurso išlaidų dydžio arba koks jis yra nustatomas, sumoka LR sąskaitoje nurodytas Papildomo konkurso išlaidas; toks mokėjimas turi būti atliekamas per (2) Mėnesius nuo LR Papildomo konkurso išlaidų sąskaitos gavimo dienos, arba
@@ -5374,43 +5379,43 @@ LR gali savo nuožiūra nuspręsti – pradėti ar nepradėti Papildomą konkurs
 (2)       Strateginis investuotojas, remdamasis 24.2.3 punkto nuostatomis ir tiek, kiek susitariama dėl Patirtų išlaidų dydžio arba koks jis yra nustatomas, sumoka LR sąskaitoje nurodytas Patirtas išlaidas; toks mokėjimas turi būti atliekamas per (2) Mėnesius nuo LR Patirtų išlaidų sąskaitos gavimo dienos.
 
 
-24.2.3            Didžiausia Strateginio investuotojo atsakomybė už atitinkamai Patirtas išlaidas arba Papildomo konkurso išlaidas, kompensuojamas kaip numatyta 24.2.2 punkte, negali viršyti dešimties milijonų eurų ((EUR 10 000 000). Siekiant išvengti abejonių, nurodoma, jog LR negali reikalauti atlyginti ir Patirtų išlaidų, ir Papildomo konkurso išlaidų. ^b65254435ccafae920995879
+24.2.3            Didžiausia Strateginio investuotojo atsakomybė už atitinkamai Patirtas išlaidas arba Papildomo konkurso išlaidas, kompensuojamas kaip numatyta 24.2.2 punkte, negali viršyti dešimties milijonų eurų ((EUR 10 000 000). Siekiant išvengti abejonių, nurodoma, jog LR negali reikalauti atlyginti ir Patirtų išlaidų, ir Papildomo konkurso išlaidų. ^s-baa947f1ab719136a89166de
 
 
-24.3     Ginčai ^f755ac97ba40f6a90a17c1e6
+24.3     Ginčai ^s-e64f57994ab1dadf6cce9748
 Visus nesutarimus, kylančius tarp LR ir Strateginio investuotojo dėl sumos arba dėl įrodymų, patvirtinančių Strateginio investuotojo pretenzijas dėl Patirtų išlaidų, remiantis 24.1 punktu (LR atlyginamos Patirtos išlaidos), arba dėl LR pretenzijų dėl Papildomo konkurso išlaidų arba Patirtų išlaidų, remiantis 24.2 punktu (Strateginio investuotojo atlyginamos Patirtos išlaidos arba Papildomo konkurso išlaidos), bet kuri Šalis gali perduoti spręsti vadovaujantis Ginčų sprendimo tvarka.
 
 
-25.       AKCININKŲ SUTARTYJE NUMATOMOS LR TREČIOJO ASMENS TEISĖS ^21dbc85e93cf578740048d31
+25.       AKCININKŲ SUTARTYJE NUMATOMOS LR TREČIOJO ASMENS TEISĖS ^s-6dec04d05da0aa76ef3da055
 
 
 
-25.1     Nutraukus šią Koncesijos sutartį pagal 21.2 punkto (Nutraukimas dėl PB įsipareigojimų nevykdymo) arba 23.2 punkto (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) nuostatas, Šalys: ^c22ab752a0e883b2ae3f99c1
+25.1     Nutraukus šią Koncesijos sutartį pagal 21.2 punkto (Nutraukimas dėl PB įsipareigojimų nevykdymo) arba 23.2 punkto (Sutarties nutraukimas, priėmus neigiamą GIS arba sprendimą nepradėti kito RPPD etapo) nuostatas, Šalys: ^s-ae87eafa7b8878fb969c055c
 
 
-25.1.1            patvirtina, kad LR turi tam tikras Akcininkų sutartyje numatomas trečiojo asmens teises pareikalauti, kad visi arba atskirais atvejais kurie nors Akcininkai (įskaitant Strateginį investuotoją) LR arba LR Patikėtiniui perleistų tuo metu jų turimas turto dalis; ir ^917ce538c40ab611945bac62
+25.1.1            patvirtina, kad LR turi tam tikras Akcininkų sutartyje numatomas trečiojo asmens teises pareikalauti, kad visi arba atskirais atvejais kurie nors Akcininkai (įskaitant Strateginį investuotoją) LR arba LR Patikėtiniui perleistų tuo metu jų turimas turto dalis; ir ^s-d4ec526aa100c0c3916d1af4
 
 
-25.1.2            susitaria, kad tuo atveju, jei LR pasinaudos viena iš 25.1.1 punkte numatytų teisių, LR mokamos sumos bus apskaičiuojamos Akcininkų susitarime nustatyta vertinimo tvarka, ir šios sumos negali viršyti sumų, kurias LR mokėtų kiekvienam Akcininkui už atitinkamą jo turimą turto dalį, kaip numatyta 26.4 punkte (Privalomojo akcijų perleidimo kainos mokėjimas). ^17074facb82c6dc55d1d85da
+25.1.2            susitaria, kad tuo atveju, jei LR pasinaudos viena iš 25.1.1 punkte numatytų teisių, LR mokamos sumos bus apskaičiuojamos Akcininkų susitarime nustatyta vertinimo tvarka, ir šios sumos negali viršyti sumų, kurias LR mokėtų kiekvienam Akcininkui už atitinkamą jo turimą turto dalį, kaip numatyta 26.4 punkte (Privalomojo akcijų perleidimo kainos mokėjimas). ^s-9b64ad799d54ae43895fbccd
 
 
-26.       LR ĮVYKIS. PRIVALOMASIS AKCIJŲ PERLEIDIMAS ^56af6607264db9fb6c8e91d2
+26.       LR ĮVYKIS. PRIVALOMASIS AKCIJŲ PERLEIDIMAS ^s-37a1adbd379c353e09d542e5
 
 
-26.1     PB prievolė pateikti Investuoto kapitalo ataskaitą ^963ac640141c12b353dc7093
+26.1     PB prievolė pateikti Investuoto kapitalo ataskaitą ^s-c45ac34258429943acf1977c
 
 
-26.1.1            Pasibaigus 20.3.1 punkte (LR Įvykio pasekmės) nustatytam laikotarpiui, PB per dešimt (10) Darbo dienų informuoja LR apie PB kapitalo sudėtį, pateikdama LR pilną Investuoto kapitalo ataskaitą ir nurodydama, koks Apskaičiavimo dieną buvo kiekvieno Pasitraukiančio akcininko Investuotas kapitalas. ^60a02273c96bc8b783f36123
+26.1.1            Pasibaigus 20.3.1 punkte (LR Įvykio pasekmės) nustatytam laikotarpiui, PB per dešimt (10) Darbo dienų informuoja LR apie PB kapitalo sudėtį, pateikdama LR pilną Investuoto kapitalo ataskaitą ir nurodydama, koks Apskaičiavimo dieną buvo kiekvieno Pasitraukiančio akcininko Investuotas kapitalas. ^s-a1b4b5541c50cbaf47107758
 
 
-26.1.2            Šalys susitaria ir patvirtina, kad kiekvienas Pasitraukiantis akcininkas, laikydamasis Akcininkų sutarties reikalavimų, nedelsdamas pateiks PB visą informaciją, kurios PB gali pagrįstai reikėti, kad galėtų pateikti LR Investuoto kapitalo ataskaitą, kaip numatyta 26.1.1 punkte. ^18fec06be4f1486d440f7488
+26.1.2            Šalys susitaria ir patvirtina, kad kiekvienas Pasitraukiantis akcininkas, laikydamasis Akcininkų sutarties reikalavimų, nedelsdamas pateiks PB visą informaciją, kurios PB gali pagrįstai reikėti, kad galėtų pateikti LR Investuoto kapitalo ataskaitą, kaip numatyta 26.1.1 punkte. ^s-c75ff596e50e7dc56d3cf076
 
 
-26.2     Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas ^5c0b4199012a3f40693e9745
+26.2     Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas ^s-492c3e31da7ec06f95afdc64
 Nė vėliau kaip per dešimt (10) Darbo dienų nuo 26.1 punkte nustatyto pranešimo apie Investuoto kapitalo ataskaitą datos LR:
 
 
-26.2.1            apskaičiuoja kainą, kuri turi būti sumokama Pranešime apie LR Įvykį nurodytam kiekvienam Pasitraukiančiam akcininkui, pageidaujančiam pasinaudoti jo turimos turto dalies išpirkimo teisėmis, (toliau – Privalomojo akcijų perleidimo kaina) kuri toliau pateiktoje formulėje yra žymima „x“ ir apskaičiuojama taip: ^294f587e2d1d5b8f39f3cd90
+26.2.1            apskaičiuoja kainą, kuri turi būti sumokama Pranešime apie LR Įvykį nurodytam kiekvienam Pasitraukiančiam akcininkui, pageidaujančiam pasinaudoti jo turimos turto dalies išpirkimo teisėmis, (toliau – Privalomojo akcijų perleidimo kaina) kuri toliau pateiktoje formulėje yra žymima „x“ ir apskaičiuojama taip: ^s-67d9796e93fa4a5a52377a59
 x = a + (a1 x b x c1) + (a2 x b x c2) ... – d
 kur:
 a = Investuotas kapitalas (o an= kiekviena jo Dalis, nepaisant Akcinio kapitalo sugrąžinimo Pasitraukiančiam akcininkui (Mokėjimų už pasirašytas akcijas atveju) arba PB atliekamo kurios nors Akcininko paskolos pagrindinės sumos grąžinimo arba avansinio mokėjimo Pasitraukiančiam akcininkui (Pagrindinės sumos atveju), kuris atliekamas iki Apskaičiavimo dienos)
@@ -5428,108 +5433,108 @@ g =       Kalendorinių dienų skaičius nuo tos dienos, kurią Pasitraukiantis 
 ir
 
 
-26.2.2            praneša PB savo apskaičiuotą Privalomojo akcijų perleidimo kainą kiekvieno Pasitraukiančio akcininko turimai turto daliai, ^a166679c33eca3b9f4f60bbc
+26.2.2            praneša PB savo apskaičiuotą Privalomojo akcijų perleidimo kainą kiekvieno Pasitraukiančio akcininko turimai turto daliai, ^s-15fab9f5eab1911aaa8cc9b2
 o PB per penkias (5) Darbo dienas praneša pagal 26.2 punkto nuostatas LR apskaičiuotą ir PB praneštą Privalomojo akcijų perleidimo kainą Pasitraukiančiam akcininkui.
 
 
-26.3     Privalomojo akcijų perleidimo kainos ginčijimas ^2019a0c68b1ec47b1530046c
+26.3     Privalomojo akcijų perleidimo kainos ginčijimas ^s-c94c64d5ecc46ad9dcc7e04c
 
 
-26.3.1            Jei PB pranešus apie LR apskaičiuotą Privalomojo akcijų perleidimo kainą, taikomą Akcininko turimai turto daliai, kaip numatyta 26.2.2 punkte (Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas), Pasitraukiantis akcininkas praneša PB, jog nori ginčyti jam praneštą Privalomojo akcijų perleidimo kainą, PB, vadovaudamasi Ginčų sprendimo tvarka, per dvidešimt (20) Darbo dienų nuo tokio Pasitraukiančio akcininko pranešimo datos pateikia LR Pranešimą apie ginčą. Jei Pasitraukiantis akcininkas nepateikia minėtojo pranešimo PB per dvidešimt (20) Darbo dienų nuo tos dienos, kurią PB pranešė šiam Pasitraukiančiam akcininkui LR apskaičiuotą Privalomojo akcijų perleidimo kainą, PB apie šį faktą informuoja LR ir yra laikoma, kad Privalomojo akcijų perleidimo kaina, taikoma šiam Pasitraukiančiam akcininkui, yra ta, kurią apskaičiavo LR. ^d8c9d49a2d6cf2d0f32bce55
+26.3.1            Jei PB pranešus apie LR apskaičiuotą Privalomojo akcijų perleidimo kainą, taikomą Akcininko turimai turto daliai, kaip numatyta 26.2.2 punkte (Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas), Pasitraukiantis akcininkas praneša PB, jog nori ginčyti jam praneštą Privalomojo akcijų perleidimo kainą, PB, vadovaudamasi Ginčų sprendimo tvarka, per dvidešimt (20) Darbo dienų nuo tokio Pasitraukiančio akcininko pranešimo datos pateikia LR Pranešimą apie ginčą. Jei Pasitraukiantis akcininkas nepateikia minėtojo pranešimo PB per dvidešimt (20) Darbo dienų nuo tos dienos, kurią PB pranešė šiam Pasitraukiančiam akcininkui LR apskaičiuotą Privalomojo akcijų perleidimo kainą, PB apie šį faktą informuoja LR ir yra laikoma, kad Privalomojo akcijų perleidimo kaina, taikoma šiam Pasitraukiančiam akcininkui, yra ta, kurią apskaičiavo LR. ^s-72c87f292e7d48fa688154f3
 
 
-26.3.2            Remiantis 26.4.4 punkto (Privalomojo akcijų perleidimo kainos sumokėjimas) nuostatomis, jei PB pateikia Pranešimą apie ginčą, kaip nurodyta 26.3.1 punkte, LR mokestinės prievolės tokiam Pasitraukiančiam akcininkui įgyvendinimas pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) atidedamas iki: ^60046ab7664355e89e350fb9
+26.3.2            Remiantis 26.4.4 punkto (Privalomojo akcijų perleidimo kainos sumokėjimas) nuostatomis, jei PB pateikia Pranešimą apie ginčą, kaip nurodyta 26.3.1 punkte, LR mokestinės prievolės tokiam Pasitraukiančiam akcininkui įgyvendinimas pagal 26.4 punktą (Privalomojo akcijų perleidimo kainos mokėjimas) atidedamas iki: ^s-245e966b2651dbf5429057b3
 (A)      galutinio Privalomojo akcijų perleidimo kainos nustatymo Ginčų sprendimo tvarka arba
 (B)       LR ir Pasitraukiančio akcininko rašytinio susitarimo dėl Privalomojo akcijų perleidimo kainos, taikomos Pasitraukiančio akcininko turimai turto daliai.
 
 
-26.4     Privalomojo akcijų perleidimo kainos mokėjimas ^101e839bdca15bd5e8e34ab0
+26.4     Privalomojo akcijų perleidimo kainos mokėjimas ^s-ec3bf68778bc23618f4561f4
 
 
-26.4.1            LR sumoka: ^acf432c8dd8400cd62a583b9
+26.4.1            LR sumoka: ^s-2b1dda8a3c8de393fd789b4b
 (A)      Privalomojo akcijų perleidimo kainą; ir
 (B)       Papildomą maržą
 Pasitraukiančiam akcininkui ne vėliau kaip per dešimt (10) Darbo dienų nuo tos dienos, kurią (i) LR ir Pasitraukiantis akcininkas kiekvienu atveju susitaria (arba laikoma, kad susitaria) dėl Privalomojo akcijų perleidimo kainos, remdamiesi 26.3 punkto nuostatomis, arba (ii) atsižvelgiant į 26.4.4 punkto nuostatas, Privalomojo akcijų perleidimo kaina galutinai nustatoma vadovaujantis Ginčų sprendimo tvarka ir 26.3.1 punkto nuostatomis, išskyrus tuos atvejus, kai pasibaigus minėtam laikotarpiui, t.y. ne daugiau kaip dešimt (10) Darbo dienų nuo šio Savanoriško suvaržymo panaikinimo datos, išlieka Savanoriškas suvaržymas.
 
 
-26.4.2            Šalys patvirtina, kad, kaip nurodyta Akcininkų sutartyje, kiekvienas Pasitraukiantis akcininkas per dešimt (10) Darbo dienų nuo tos dienos, kurią (i) LR ir Pasitraukiantis akcininkas kiekvienu atveju susitaria (arba laikoma, kad susitaria) dėl Privalomojo akcijų perleidimo kainos, remdamiesi 26.3.1 punkto nuostatomis, arba (ii) atsižvelgiant į 26.4.4 punkto nuostatas, Privalomojo akcijų perleidimo kaina galutinai nustatoma vadovaujantis Ginčų sprendimo tvarka ir 26.3.1 punkto nuostatomis, ir bet kuriuo atveju sumokėjus Privalomojo akcijų perleidimo kainą ir Papildomą maržą, padarys viską, kad jo turimos turto dalys būtų perleistos LR arba LR Patikėtiniui. Jei Pasitraukiantis akcininkas negali užbaigti tokio jam priklausančių kapitalo dalių (ar bet kurios jų dalies) perleidimo dėl Savanoriško suvaržymo, Šalys patvirtina, kad, kaip numatoma Akcininkų sutartyje, Akcininko turima turto dalis turės būti saugoma LR kaip patikėtas turtas, kol nebus panaikintas Savanoriškas suvaržymas. Tokios patikėto turto sąlygos nustatomos Akcininkų sutartyje. ^9b456043a334985e80a7bf07
+26.4.2            Šalys patvirtina, kad, kaip nurodyta Akcininkų sutartyje, kiekvienas Pasitraukiantis akcininkas per dešimt (10) Darbo dienų nuo tos dienos, kurią (i) LR ir Pasitraukiantis akcininkas kiekvienu atveju susitaria (arba laikoma, kad susitaria) dėl Privalomojo akcijų perleidimo kainos, remdamiesi 26.3.1 punkto nuostatomis, arba (ii) atsižvelgiant į 26.4.4 punkto nuostatas, Privalomojo akcijų perleidimo kaina galutinai nustatoma vadovaujantis Ginčų sprendimo tvarka ir 26.3.1 punkto nuostatomis, ir bet kuriuo atveju sumokėjus Privalomojo akcijų perleidimo kainą ir Papildomą maržą, padarys viską, kad jo turimos turto dalys būtų perleistos LR arba LR Patikėtiniui. Jei Pasitraukiantis akcininkas negali užbaigti tokio jam priklausančių kapitalo dalių (ar bet kurios jų dalies) perleidimo dėl Savanoriško suvaržymo, Šalys patvirtina, kad, kaip numatoma Akcininkų sutartyje, Akcininko turima turto dalis turės būti saugoma LR kaip patikėtas turtas, kol nebus panaikintas Savanoriškas suvaržymas. Tokios patikėto turto sąlygos nustatomos Akcininkų sutartyje. ^s-1ba8c040e855cf13db26554d
 
 
-26.4.3            Siekiant išvengti abejonių, nurodoma, jog LR turi sumokėti Privalomojo akcijų perleidimo kainą ir Papildomą maržą, kaip nurodyta 26.4.1 punkte, nepaisydama jokių apribojimų ar trukdymų Pasitraukiančiam akcininkui perleisti jo turimą turto dalį (arba bet kurią jo dalį) LR arba LR Patikėtiniui (išskyrus Pasitraukiančio akcininko turimos turto dalies Savanorišką suvaržymą, kaip nurodyta 26.4.1 ir 26.4.2 punktuose). Šalys patvirtina, kad, remiantis Akcininkų sutartimi, atitinkamas Pasitraukiantis akcininkas neprivalės LR grąžinti, atlyginti ar kompensuoti, jei Akcininko turimos turto dalies perdavimas pagal šio 26 punkto nuostatas vėluoja arba tampa neįmanomas, su sąlyga, kad Pasitraukiantis akcininkas įvykdė visus 26.4.2 punkte numatytus savo įsipareigojimus. ^c0d3ea1dd1d5f793eeefaf1d
+26.4.3            Siekiant išvengti abejonių, nurodoma, jog LR turi sumokėti Privalomojo akcijų perleidimo kainą ir Papildomą maržą, kaip nurodyta 26.4.1 punkte, nepaisydama jokių apribojimų ar trukdymų Pasitraukiančiam akcininkui perleisti jo turimą turto dalį (arba bet kurią jo dalį) LR arba LR Patikėtiniui (išskyrus Pasitraukiančio akcininko turimos turto dalies Savanorišką suvaržymą, kaip nurodyta 26.4.1 ir 26.4.2 punktuose). Šalys patvirtina, kad, remiantis Akcininkų sutartimi, atitinkamas Pasitraukiantis akcininkas neprivalės LR grąžinti, atlyginti ar kompensuoti, jei Akcininko turimos turto dalies perdavimas pagal šio 26 punkto nuostatas vėluoja arba tampa neįmanomas, su sąlyga, kad Pasitraukiantis akcininkas įvykdė visus 26.4.2 punkte numatytus savo įsipareigojimus. ^s-4e39e3380a1929df59828536
 
 
-26.4.4            Kuomet pateikiamas Pranešimas apie ginčą, LR šiam Pasitraukiančiam akcininkui sumoka LR ir Pasitraukiančio akcininko sutartą dalį Privalomojo akcijų perleidimo kainos ir atitinkamą Papildomą maržą per dešimt (10) Darbo dienų nuo tos dienos, kurią LR ir Pasitraukiantis akcininkas susitarė dėl minėtosios dalies. LR prievolė sumokėti kokią nors papildomą dalį ir atitinkamą Papildomą maržą atsiranda tik dėl to Ginčų sprendimo tvarka priėmus sprendimą arba, jeigu LR ir Pasitraukiantis akcininkas susitarė dėl tokios papildomos sumos. ^e92d4555c9cac0b9673f6862
+26.4.4            Kuomet pateikiamas Pranešimas apie ginčą, LR šiam Pasitraukiančiam akcininkui sumoka LR ir Pasitraukiančio akcininko sutartą dalį Privalomojo akcijų perleidimo kainos ir atitinkamą Papildomą maržą per dešimt (10) Darbo dienų nuo tos dienos, kurią LR ir Pasitraukiantis akcininkas susitarė dėl minėtosios dalies. LR prievolė sumokėti kokią nors papildomą dalį ir atitinkamą Papildomą maržą atsiranda tik dėl to Ginčų sprendimo tvarka priėmus sprendimą arba, jeigu LR ir Pasitraukiantis akcininkas susitarė dėl tokios papildomos sumos. ^s-72737e23e4fc0c61c9e71262
 
 
-26.4.5            Privalomojo akcijų perleidimo kaina ir atitinkama Papildoma marža mokama eurais, iš jos LR nieko neišskaičiuoja ir neišskaito, išskyrus Įstatymų nustatytus atskaitymus; jei pagal Įstatymus LR privalo išskaičiuoti arba atlikti atskaitymus, LR sumokės tokią papildomą sumą, užtikrinančią, kad kiekvienas Pasitraukiantis akcininkas gautų grynąją sumą, lygią visai Privalomojo akcijų perleidimo kainai ir Papildomai maržai, kurią būtų gavęs, jei LR nebūtų nieko išskaičiavusi ar nebūtų atlikusi jokių atskaitymų. ^f18c4c47b979b66c283205c2
+26.4.5            Privalomojo akcijų perleidimo kaina ir atitinkama Papildoma marža mokama eurais, iš jos LR nieko neišskaičiuoja ir neišskaito, išskyrus Įstatymų nustatytus atskaitymus; jei pagal Įstatymus LR privalo išskaičiuoti arba atlikti atskaitymus, LR sumokės tokią papildomą sumą, užtikrinančią, kad kiekvienas Pasitraukiantis akcininkas gautų grynąją sumą, lygią visai Privalomojo akcijų perleidimo kainai ir Papildomai maržai, kurią būtų gavęs, jei LR nebūtų nieko išskaičiavusi ar nebūtų atlikusi jokių atskaitymų. ^s-e896113ea4252a13f60a2183
 
 
-26.4.6            LR, atsižvelgdama į 26.4.7 punkto nuostatas, Pasitraukiančiam akcininkui sumoka: ^80fd9fdfef9732fd2750ca77
+26.4.6            LR, atsižvelgdama į 26.4.7 punkto nuostatas, Pasitraukiančiam akcininkui sumoka: ^s-b379049b645a6f5102da282b
 (A)      sumą, lygią Lietuvoje taikomų mokesčių, jeigu jie skaičiuojami, sumai, kurią nuo LR jam išmokėtos Privalomojo akcijų perleidimo kainos, pagal 26.4.5 punktą gautos sumos ir Papildomos maržos turi sumokėti Pasitraukiantis akcininkas;
 (B)       sumą, lygią (jei taikoma) visų Lietuvoje taikomų žyminių mokesčių, registracijos ir kitų panašių Lietuvoje taikomų mokesčių sumai, kurią dėl Akcininko turimos turto dalies perleidimo LR arba LR Patikėtiniui turi sumokėti Pasitraukiantis akcininkas; ir
 (C)       sumą, lygią (jei taikoma) Lietuvoje taikomo PVM sumai, kuri turi būti sumokama nuo (i) LR jam išmokėtos Privalomojo akcijų perleidimo kainos, bet kurios pagal 26.4.5 punktą gautos sumos ir Papildomos maržos (Šalys patvirtina, kad Lietuvoje Privalomojo akcijų perleidimo kainai, pagal 26.4.5 punktą gautai sumai ir Papildomai maržai netaikomas PVM); (ii) visos šios Koncesijos sutarties ar jos dalies nutraukimo arba (iii) Pasitraukiančio akcininko turimų Akcijų dalies perleidimo LR arba LR patikėtiniui,
 o tokia suma, kurią LR turi sumokėti pagal 26.4.6 punkto A, B arba C papunkčius, yra mokėtina iki tos dienos, kurią šis Pasitraukiantis akcininkas turi sumokėti atitinkamą Lietuvos mokestį, žyminį mokestį, registracijos ar kitą panašų Lietuvos mokestį arba Lietuvos PVM.
 
 
-26.4.7            Jei LR nesutinka su kuria nors suma, pareikalauta remiantis 26.4.6 punktu, ji iki nustatyto termino sumoka visas pareikalautas sumas, su kuriomis ji sutinka, ir atitinkamam Pasitraukiančiam akcininkui pateikia Pranešimą apie ginčą, nurodydama ginčijamą sumą; LR neprivalo mokėti tokios ginčijamos sumos tol, kol Ginčų sprendimo tvarka nebus išspręstas ginčas arba kol LR ir Pasitraukiantis akcininkas nesusitars kitaip. ^82e6b7a9f1dcef122f13f582
+26.4.7            Jei LR nesutinka su kuria nors suma, pareikalauta remiantis 26.4.6 punktu, ji iki nustatyto termino sumoka visas pareikalautas sumas, su kuriomis ji sutinka, ir atitinkamam Pasitraukiančiam akcininkui pateikia Pranešimą apie ginčą, nurodydama ginčijamą sumą; LR neprivalo mokėti tokios ginčijamos sumos tol, kol Ginčų sprendimo tvarka nebus išspręstas ginčas arba kol LR ir Pasitraukiantis akcininkas nesusitars kitaip. ^s-19af51650d77df713d6628e3
 
 
-26.5     Sutarties nutraukimas ir kitos nuostatos ^8daa969059e3c6b0fb79cb85
+26.5     Sutarties nutraukimas ir kitos nuostatos ^s-caa6691f40957cb217d6edd2
 
 
-26.5.1            Jei visi Akcininkai yra Pasitraukiantys akcininkai, ši Koncesijos sutartis yra automatiškai nutraukiama, kai tik atliekamas paskutinės Pasitraukiančio akcininko turimos turto dalies perleidimas LR. Jei kuri nors Pasitraukiančio akcininko turima turto dalis tampa patikėtu turtu, kaip numatyta 26.4 punkte (Privalomojo akcijų perleidimo kainos mokėjimas), tokios Pasitraukiančio akcininko turimos turto dalies perleidimas laikomas užbaigtu, nuo jo tapimo patikėtu turtu praėjus šešiems (6) Mėnesiams. ^fe464bbd57df1d8f5475759f
+26.5.1            Jei visi Akcininkai yra Pasitraukiantys akcininkai, ši Koncesijos sutartis yra automatiškai nutraukiama, kai tik atliekamas paskutinės Pasitraukiančio akcininko turimos turto dalies perleidimas LR. Jei kuri nors Pasitraukiančio akcininko turima turto dalis tampa patikėtu turtu, kaip numatyta 26.4 punkte (Privalomojo akcijų perleidimo kainos mokėjimas), tokios Pasitraukiančio akcininko turimos turto dalies perleidimas laikomas užbaigtu, nuo jo tapimo patikėtu turtu praėjus šešiems (6) Mėnesiams. ^s-b5bcb78ed755d36aae3df98f
 
 
-26.5.2            PB atlieka tokius veiksmus, kurie yra priskiriami jos kompetencijai, ir kurių gali reikėti tam, kad būtų įgyvendintos šio 26 punkto (LR Įvykis. Privalomasis akcijų perleidimas) nuostatos. ^e83625b7f639d492cb13678c
+26.5.2            PB atlieka tokius veiksmus, kurie yra priskiriami jos kompetencijai, ir kurių gali reikėti tam, kad būtų įgyvendintos šio 26 punkto (LR Įvykis. Privalomasis akcijų perleidimas) nuostatos. ^s-150e2d45ce7b8bef1b325376
 
 
-26.5.3            LR pagal pareikalavimą kiekvienam Pasitraukiančiam akcininkui atlygins žalą ir padengs nuostolius, jeigu pastarieji atlieka mokėjimus pagal reikalavimus finansuoti ar yra prašomi sumokėti pagal tokį reikalavimą, tačiau yra dar nesumokėję (ir kurie, jei būtų sumokėti, sudarytų Pagrindinę sumą arba Mokėjimus už pasirašytas akcijas), ir apie kuriuos, remdamasi Akcininkų sutarties nuostatomis, Pasitraukiančiam akcininkui praneša PB laikotarpiu nuo susitarimo arba nustatymo, kad įvyko 20.2 punkte numatytas LR Įvykis, datos iki tos dienos, kurią Pasitraukiantis akcininkas nustoja būtų Akcijų savininkas. ^f5e3b43bbba2fdbedc83beb5
+26.5.3            LR pagal pareikalavimą kiekvienam Pasitraukiančiam akcininkui atlygins žalą ir padengs nuostolius, jeigu pastarieji atlieka mokėjimus pagal reikalavimus finansuoti ar yra prašomi sumokėti pagal tokį reikalavimą, tačiau yra dar nesumokėję (ir kurie, jei būtų sumokėti, sudarytų Pagrindinę sumą arba Mokėjimus už pasirašytas akcijas), ir apie kuriuos, remdamasi Akcininkų sutarties nuostatomis, Pasitraukiančiam akcininkui praneša PB laikotarpiu nuo susitarimo arba nustatymo, kad įvyko 20.2 punkte numatytas LR Įvykis, datos iki tos dienos, kurią Pasitraukiantis akcininkas nustoja būtų Akcijų savininkas. ^s-bf0a1fbd98b8d9b464be57be
 
 
 
-[[#^4e4266591888c67769c31c41|8 DALIS]]: BENDROSIOS NUOSTATOS
+8 DALIS: BENDROSIOS NUOSTATOS
 
 
-27.       TOLESNIS GALIOJIMAS, TEISĖS IR ĮSIPAREIGOJIMAI ^a0eaf8a56713fe3144d384eb
+27.       TOLESNIS GALIOJIMAS, TEISĖS IR ĮSIPAREIGOJIMAI ^s-bcfe3c8915ca40b82f2ece38
 
 
-27.1     Koncesijos sutarties nutraukimas ^086388d6e2f7d856b718a12e
+27.1     Koncesijos sutarties nutraukimas ^s-7c89c9743412386175ef7a7f
 Nepažeidžiant nei vienos kitos šios Koncesijos sutarties nuostatos (įskaitant nuostatą, numatančią kurios nors Šalies teisių ar įsipareigojimų nutraukimą), jei ši Koncesijos sutartis yra dėl kurios nors priežasties nutraukiama visoms Šalims (siekiant išvengti abejonių, įskaitant ir dėl esminio pažeidimo),
 
 
-27.1.1            šis 27.1 punktas ir toliau nurodomos šios Koncesijos sutarties nuostatos (taip pat visos apibrėžtos sąlygos, Punktai ir (arba) Priedėliai, Priedai ir Papildymai, kurie yra juose nurodyti arba kurių reikia tam, kad jie galiotų), įskaitant visas pagal šias nuostatas kylančias teises ir atsirandančius įsipareigojimus, išlieka galioti po tokio šios Koncesijos sutarties nutraukimo: ^f8ffe4460b9f1e4ba5a96ef7
+27.1.1            šis 27.1 punktas ir toliau nurodomos šios Koncesijos sutarties nuostatos (taip pat visos apibrėžtos sąlygos, Punktai ir (arba) Priedėliai, Priedai ir Papildymai, kurie yra juose nurodyti arba kurių reikia tam, kad jie galiotų), įskaitant visas pagal šias nuostatas kylančias teises ir atsirandančius įsipareigojimus, išlieka galioti po tokio šios Koncesijos sutarties nutraukimo: ^s-89e1de11e422cf7f04299a0e
 (A)      1 (Sąvokos ir jų aiškinimas), 6.2 (PB atsakomybė), 6.3 (Priverstinis PB ir Strateginio investuotojo įsipareigojimų vykdymas), 7.2 (LR atsakomybė), 7.3 (LR Patikėtinis), 8.1 (Akcininkų sutarties pakeitimai), 11.1.3 (Projekto valdymas), 11.3.2 (Pranešimas apie sprendimą nepradėti kito RPPD etapo), 11.4.2 (Pranešimas apie GIS priėmimą), 13 (Konfidencialumas), 14 (Viešumas), 15.1, 15.2, 15.3 (Branduolinės žalos atlyginimas), 16 (Atsakomybė), 17 (Nuostolių atlyginimas yra nepakankama kompensacija ir turi būti taikomos teisių gynimo priemonės pagal Teisingumą), 19 (19–26 punktų taikymas: nutraukimas), 20.3 (LR Įvykio pasekmės), 20.4 (LR Įvykio poveikio mažinimas), 21.3 (PB įsipareigojimų nevykdymo pasekmės), 21.4 (Kitos nutraukimo dėl PB įsipareigojimų nevykdymo pasekmės), 23.1 (Nutraukimas Šalių susitarimu), 23.4 (LR pasirinkimo pirkti sandoris, nutraukiant sutartį ne dėl įsipareigojimų nevykdymo), 23.5 (Sutarties nutraukimo ne dėl įsipareigojimų nevykdymo pasekmės), 24 (Su sutarties nutraukimu susijusių nuostolių atlyginimas), 25 (Akcininkų sutartyje numatomos LR trečiojo asmens teisės), 26 (LR Įvykis. Privalomasis akcijų perleidimas), 28.1.3 (Garantijos), 29 (Nenugalima jėga), 30 (Teisių perleidimas), 32 (Akcininkų pasirinkimo parduoti sandoris), 33 (Pranešimai), 34 (Visa apimanti sutartis), 35 (Pakeitimai ir teisių atsisakymas), 37 (Atskiriamumas), 38 (Sąnaudos ir išlaidos), 39 (Įsipareigojimų nevykdymo atveju mokami delspinigiai), 40 (Sutarčių (trečiųjų šalių teisių) įstatymas), 41 (Partnerystės / Tarpininkavimo nebuvimas), 43 (Kalba), 44 (Taikoma teisė), 45 (Ginčų sprendimo tvarka ir arbitražas) ir 46 (Teisių į imunitetą atsisakymas) punktai; ir
 (B)       šios Koncesijos sutarties bet kurios kitos nuostatos, kurios aiškiai išlieka galioti po Koncesijos sutarties nutraukimo arba kurių reikia tam, kad įvyktų toks nutraukimas arba tokio nutraukimo pasekmės;
 
 
-27.1.2            Išskyrus aiškiai šioje Koncesijos sutartyje numatytus atvejus, po šios Koncesijos sutarties nutraukimo (dėl bet kokios priežasties) visos Šalių iki tokio nutraukimo atsiradusios ar turėtos teisės ir įsipareigojimai lieka galioti visa apimtimi; ir ^04d3c2b0ef3b4599e4bbab56
+27.1.2            Išskyrus aiškiai šioje Koncesijos sutartyje numatytus atvejus, po šios Koncesijos sutarties nutraukimo (dėl bet kokios priežasties) visos Šalių iki tokio nutraukimo atsiradusios ar turėtos teisės ir įsipareigojimai lieka galioti visa apimtimi; ir ^s-9253b0464757fb59d2c5b352
 
 
-27.1.3            išskyrus šiame 27 punkte (Tolesnis galiojimas, teisės ir įsipareigojimai) numatytus atvejus, visos kiekvienos Šalies teisės ir įsipareigojimai pagal šią Koncesijos sutartį baigiasi ir nebeturi tolesnės galios nuo Koncesijos sutarties nutraukimo. ^ce6b3809fc8bc03609296be2
+27.1.3            išskyrus šiame 27 punkte (Tolesnis galiojimas, teisės ir įsipareigojimai) numatytus atvejus, visos kiekvienos Šalies teisės ir įsipareigojimai pagal šią Koncesijos sutartį baigiasi ir nebeturi tolesnės galios nuo Koncesijos sutarties nutraukimo. ^s-26df78eb71a7dd6f44037dd0
 
 
-27.2     Strateginio investuotojo teisių ir įsipareigojimų pabaiga ^c1f0c807df0d10dad534060c
+27.2     Strateginio investuotojo teisių ir įsipareigojimų pabaiga ^s-eee64ead3e4ca5f25c16ba19
 Nepažeidžiant nei vienos kitos šios Koncesijos sutarties nuostatos (įskaitant nuostatą, numatančią kurios nors Šalies teisių ir įsipareigojimų nutraukimą), jei Strateginio investuotojo teisės ir įsipareigojimai pagal šią Koncesijos sutartį yra nutraukiami, kaip numatyta 22.2 punkte (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) arba 23.3 punkte (Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo):
 
 
-27.2.1    šis 27.2 punktas ir toliau nurodomos šios Koncesijos sutarties nuostatos (taip pat visos apibrėžtos sąlygos, Punktai ir (arba) Priedėliai, Priedai ir Papildymai, kurie yra juose nurodyti arba kurių reikia tam, kad jie galiotų), įskaitant visas pagal šias nuostatas kylančias teises ir atsirandančius įsipareigojimus, išlieka galioti Strateginiam investuotojui po to, kai Strateginis investuotojas netenka visų teisių ir įsipareigojimų pagal šią Koncesijos sutartį: ^1345a78eb8112e608209c161
+27.2.1    šis 27.2 punktas ir toliau nurodomos šios Koncesijos sutarties nuostatos (taip pat visos apibrėžtos sąlygos, Punktai ir (arba) Priedėliai, Priedai ir Papildymai, kurie yra juose nurodyti arba kurių reikia tam, kad jie galiotų), įskaitant visas pagal šias nuostatas kylančias teises ir atsirandančius įsipareigojimus, išlieka galioti Strateginiam investuotojui po to, kai Strateginis investuotojas netenka visų teisių ir įsipareigojimų pagal šią Koncesijos sutartį: ^s-ada10960d75747d6fe2ab71e
 (A)      1 (Sąvokos ir jų aiškinimas), 6.2 (PB atsakomybė), 6.3 (Priverstinis PB ir Strateginio investuotojo įsipareigojimų vykdymas), 7.2 (LR atsakomybė), 7.3 (LR Patikėtinis), 13 (Konfidencialumas), 14 (Viešumas), 15.1, 15.2, 15.3 (Branduolinės žalos atlyginimas), 16 (Atsakomybė), 17 (Nuostolių atlyginimas yra nepakankama kompensacija ir turi būti taikomos teisių gynimo priemonės pagal Teisingumą), 19 (19–26 punktų taikymas: nutraukimas), 20.3 (LR įvykio pasekmės), 22.3 (Nutraukimo pasekmės), 23.5 (Sutarties nutraukimo ne dėl įsipareigojimų nevykdymo pasekmės), 24 (Su sutarties nutraukimu susijusių nuostolių atlyginimas), 25 (Akcininkų sutartyje numatomos LR trečiojo asmens teisės), 26 (LR Įvykis. Privalomasis akcijų perleidimas), 28.1.3 (Garantijos), 29 (Nenugalima jėga), 30 (Teisių perleidimas), 32 (Akcininkų pasirinkimo parduoti sandoris), 33 (Pranešimai), 34 (Visa apimanti sutartis), 35 (Pakeitimai ir teisių atsisakymas), 37 (Atskiriamumas), 38 (Sąnaudos ir išlaidos), 39 (Įsipareigojimų nevykdymo atveju mokami delspinigiai), 40 (Sutarčių (trečiųjų šalių teisių) įstatymas), 41 (Partnerystės / Tarpininkavimo nebuvimas), 43 (Kalba), 44 (Taikoma teisė), 45 (Ginčų sprendimo tvarka ir arbitražas) ir 46 (Teisių į imunitetą atsisakymas) punktai; ir
 (B)       šios Koncesijos sutarties bet kurios kitos nuostatos, kurios aiškiai išlieka galioti po Koncesijos sutarties nutraukimo Strateginio investuotojo teisių ir įsipareigojimų atžvilgiu arba kurių reikia tam, kad įvyktų toks nutraukimas arba tokio nutraukimo pasekmės;
 
 
-27.2.2            išskyrus šioje Koncesijos sutartyje numatytus atvejus, po šios Koncesijos sutarties nutraukimo (dėl bet kokios priežasties) Strateginio investuotojo teisių ir įsipareigojimų atžvilgiu visos Šalių iki tokio nutraukimo atsiradusios ar turėtos teisės ir įsipareigojimai lieka galioti visa apimtimi; ir ^211ae5badcafb69fe8ef4a1b
+27.2.2            išskyrus šioje Koncesijos sutartyje numatytus atvejus, po šios Koncesijos sutarties nutraukimo (dėl bet kokios priežasties) Strateginio investuotojo teisių ir įsipareigojimų atžvilgiu visos Šalių iki tokio nutraukimo atsiradusios ar turėtos teisės ir įsipareigojimai lieka galioti visa apimtimi; ir ^s-75bc42d3f75915b4afdb2c20
 
 
-27.2.3            išskyrus šiame 27.2 punkte (Tolesnis galiojimas, teisės ir įsipareigojimai) numatytus atvejus, visos Strateginio investuotojo teisės ir įsipareigojimai pagal šią Koncesijos sutartį baigiasi ir nebeturi tolesnės galios nuo Koncesijos sutarties nutraukimo tik Strateginio investuotojo teisių ir įsipareigojimų atžvilgiu. ^5b4eb08e6f2fa339f6a56e7c
+27.2.3            išskyrus šiame 27.2 punkte (Tolesnis galiojimas, teisės ir įsipareigojimai) numatytus atvejus, visos Strateginio investuotojo teisės ir įsipareigojimai pagal šią Koncesijos sutartį baigiasi ir nebeturi tolesnės galios nuo Koncesijos sutarties nutraukimo tik Strateginio investuotojo teisių ir įsipareigojimų atžvilgiu. ^s-928e445642d29ada55dcb3b3
 
 
-28.       garantijos ^29a8734da7e8bb1432fc0015
+28.       garantijos ^s-16705eb140d2a6dee83af168
 
 
 28.1
 
 
-28.1.1            Kiekviena Šalis pareiškia, garantuoja ir įsipareigoja kitai Šaliai, kad Koncesijos dieną ir Investavimo dieną (tačiau (tik PB atžvilgiu) su sąlyga, kad PB gaus visus būtinus Sutikimus ar trečiųjų asmenų patvirtinimus (įskaitant Akcininkų patvirtinimus), kurie reikalingi pagal Įstatymus, šią Koncesijos sutartį arba Akcininkų sutartį tam, kad PB galėtų naudotis savo teisėmis arba laikytis šioje Koncesijos sutartyje numatytų įsipareigojimų): ^6f67cef28be5a336b73004d6
+28.1.1            Kiekviena Šalis pareiškia, garantuoja ir įsipareigoja kitai Šaliai, kad Koncesijos dieną ir Investavimo dieną (tačiau (tik PB atžvilgiu) su sąlyga, kad PB gaus visus būtinus Sutikimus ar trečiųjų asmenų patvirtinimus (įskaitant Akcininkų patvirtinimus), kurie reikalingi pagal Įstatymus, šią Koncesijos sutartį arba Akcininkų sutartį tam, kad PB galėtų naudotis savo teisėmis arba laikytis šioje Koncesijos sutartyje numatytų įsipareigojimų): ^s-3245dcbe9405f70e586de3ac
 (A)      ji turi teisę ir visus įgaliojimus sudaryti šią Koncesijos sutartį ir naudotis šioje Koncesijos sutartyje numatytomis savo teisėmis, ir vykdyti joje numatytus įsipareigojimus;
 (B)       išskyrus, kaip numatyta šioje Koncesijos sutartyje, visi joje numatyti veiksmai, kurių reikia tam, kad būtų suteikti įgaliojimai pasirašyti ir pateikti šią Koncesijos sutartį ir Šalis galėtų naudotis šioje Koncesijos sutartyje numatytomis savo teisėmis ir vykdyti joje numatytus savo įsipareigojimus, yra tinkamai atlikti ir ši Koncesijos sutartis numato tokiai Šaliai privalomus vykdyti įsipareigojimus;
 (C)       šios Koncesijos sutarties pasirašymas ir pateikimas bei tai, kad Šalis naudojasi šioje Koncesijos sutartyje numatytomis savo teisėmis ir vykdo joje numatytus savo įsipareigojimus, nereiškia ir nereikš:
@@ -5539,100 +5544,100 @@ Nepažeidžiant nei vienos kitos šios Koncesijos sutarties nuostatos (įskaitan
 (D)      išskyrus, kaip numatyta šioje Koncesijos sutartyje arba gauta iki šios Koncesijos sutarties pasirašymo, jai nereikia jokios valstybinės valdžios institucijos arba kito asmens Sutikimo, kad ji galėtų sudaryti šią Koncesijos sutartį.
 
 
-28.1.2            Atsižvelgdama į 16.5.9(A) punkto nuostatas ir jų nepažeisdama, LR pareiškia ir garantuoja, kad: ^bd0dd2fe1d436653554e4f28
+28.1.2            Atsižvelgdama į 16.5.9(A) punkto nuostatas ir jų nepažeisdama, LR pareiškia ir garantuoja, kad: ^s-607d2c5a8b43d3bf386bb815
 (A)      Koncesijos dieną ir kiekvieną dieną po Koncesijos dienos (remdamasi tuo metu egzistavusiais faktais ir aplinkybėmis) Strateginį investuotoją pasirinko, Koncesiją suteikė ir šią Koncesijos sutartį (atitinkamai) sudarė ir (arba) suteikė;
 (B)       kiekvieną dieną, kurią buvo sudaryta kiekviena Papildoma sutartis, ir kiekvieną paskesnę dieną (remdamasi tuo metu egzistavusiais faktais ir aplinkybėmis) (atitinkamai kiekvienai Papildomai sutarčiai) kiekvieną Papildomą sutartį sudarė ir (arba) suteikė
 LR ir PB visiškai laikydamosi visų taikytinų Įstatymų ir procedūrų, susijusių su viešaisiais pirkimais ir konkurencingu konkursu, ir LR patvirtina, kad PB ir Strateginis investuotojas sudaro šią Koncesijos sutartį ir pradeda šį Projektą, pasitikėdamos šiuo pakartotiniu pareiškimu ir garantija.
 
 
-28.1.3            LR: ^dc3a2d1bc9978a507706da59
+28.1.3            LR: ^s-6ec48ff79f6cfd8a4941726a
 (A)      Koncesijos dieną ir kiekvieną dieną po Koncesijos dienos (remdamasi tuo metu egzistavusiais faktais ir aplinkybėmis) pareiškia ir garantuoja, kad Lietuvos centrinis bankas (Lietuvos bankas) turi kitą juridinį statusą negu LR, todėl jo turtu negali būti tenkinami jokie patenkinti ieškiniai prieš LR, ir
 (B)       įsipareigoja neperleisti jokio LR turto Lietuvos centriniam bankui (Lietuvos bankui) tik siekiant išvengti, kad jos turtas būtų naudojamas prieš LR pateiktiems ieškiniams tenkinti.
 
 
-29.       NENUGALIMA JĖGA ^2f65e941eaa455543cb6db6a
+29.       NENUGALIMA JĖGA ^s-b91804ab20ddd3b5a8b8e9ef
 
 
-29.1     Įsipareigojimų vykdymas ^0b061a69d279a1bb203f565f
+29.1     Įsipareigojimų vykdymas ^s-59815ee64454daa7a226b0ca
 Remiantis 29.2 punkto (Pranešimas apie Nenugalimą jėgą ir jos poveikio mažinimas) nuostatomis, jei nukentėjusioji Šalis dėl Nenugalimos jėgas ar dėl tokios Nenugalimos jėgos padarinių negali arba jei pagrįstai manoma, kad nukentėjusioji Šalis negalės arba laiku negalės vykdyti kurio nors savo įsipareigojimo pagal šią Koncesijos sutartį (išskyrus įsipareigojimą sumokėti mokėtiną sumą), tokių įsipareigojimų vykdymas yra sustabdomas (tiek, kiek tokį vykdymą veikia Nenugalima jėga) laikotarpiui, kuriuo tęsiasi Nenugalimos jėgos įvykis ir jo padariniai.
 
 
-29.2     Pranešimas apie Nenugalimą jėgą ir jos poveikio mažinimas ^0596ae084af03b1486aaa1d4
+29.2     Pranešimas apie Nenugalimą jėgą ir jos poveikio mažinimas ^s-56999f67d92c9c067bfb0833
 
 
-29.2.1            Nukentėjusioji Šalis, sužinojusi apie Nenugalimos jėgos įvykį, nedelsdama privalo pranešti kitoms Šalims apie: ^59daa6f5b6dead4c760710f5
+29.2.1            Nukentėjusioji Šalis, sužinojusi apie Nenugalimos jėgos įvykį, nedelsdama privalo pranešti kitoms Šalims apie: ^s-d93a7e9649b8f2ced9cb0fac
 (A)    Nenugalimos jėgos įvykio, kuriuo ji remiasi, pobūdį;
 (B)    numatomą Nenugalimos jėgos įvykio poveikį Nukentėjusiosios šalies galėjimui vykdyti savo įsipareigojimus pagal šią Koncesijos sutartį (įskaitant poveikį Nukentėjusiosios šalies galėjimui pasiekti šioje Koncesijos sutartyje numatytas pagrindines datas ar tarpinius tikslus);
 (C)    visus veiksmus, kurių siūloma imtis, siekiant sumažinti Nenugalimos jėgos poveikį; ir
 (D)    numatomą Nenugalimos jėgos įvykio ir jo padarinių trukmę.
 
 
-29.2.2            Pateikus 29.2.1 punkte minimą pranešimą, Šalys kaip įmanoma greičiau viena su kita konsultuojasi ir deda visas pastangas, kad susitartų, ar reikia pratęsti kurias nors Koncesijos sutartyje numatytas pagrindines datas ar tarpinius tikslus (atsižvelgiant į Nenugalimos jėgos įvykio pobūdį ir į jo padarinius bei jų poveikį atitinkamų įsipareigojimų vykdymui), ir, jei reikia, kokiam laikui bus pratęsiama; taip pat jos nutaria, kokių turi būti imamasi priemonių, kad būtų sumažintas Nenugalimos jėgos įvykio poveikis bei padariniai ir padedama vėl pradėti vykdyti įsipareigojimus, kurių vykdymą sutrukdė Nenugalimos jėgos įvykis. Šalims nepavykus susitarti kuriuo nors nurodytu klausimu, bet kuri Šalis tokį nesutarimą gali perduoti nagrinėjimui Ginčų sprendimo tvarka. ^582edf7727dbe8ea08a66419
+29.2.2            Pateikus 29.2.1 punkte minimą pranešimą, Šalys kaip įmanoma greičiau viena su kita konsultuojasi ir deda visas pastangas, kad susitartų, ar reikia pratęsti kurias nors Koncesijos sutartyje numatytas pagrindines datas ar tarpinius tikslus (atsižvelgiant į Nenugalimos jėgos įvykio pobūdį ir į jo padarinius bei jų poveikį atitinkamų įsipareigojimų vykdymui), ir, jei reikia, kokiam laikui bus pratęsiama; taip pat jos nutaria, kokių turi būti imamasi priemonių, kad būtų sumažintas Nenugalimos jėgos įvykio poveikis bei padariniai ir padedama vėl pradėti vykdyti įsipareigojimus, kurių vykdymą sutrukdė Nenugalimos jėgos įvykis. Šalims nepavykus susitarti kuriuo nors nurodytu klausimu, bet kuri Šalis tokį nesutarimą gali perduoti nagrinėjimui Ginčų sprendimo tvarka. ^s-907ac9d83e1125937554e3eb
 
 
-29.2.3            Nukentėjusioji šalis: ^5e519d5b53f628a4d105ae2f
+29.2.3            Nukentėjusioji šalis: ^s-d386e9f4a382c6ebc4387871
 (A)    imasi visų pagrįstų priemonių, siekdama kuo labiau sumažinti Nenugalimos jėgos įvykio poveikį jos įsipareigojimų vykdymui pagal šią Koncesijos sutartį;
 (B)    teikia Nenukentėjusiosioms šalims rašytines ataskaitas taip dažnai, kaip to paprašo Nenukentėjusioji šalis; tokiose ataskaitose pateikiama informacija apie Nukentėjusiosios šalies pažangą mažinant Nenugalimos jėgos įvykio poveikį ir nurodoma kada apytiksliai bus vėl pradedami vykdyti įsipareigojimus, kurių vykdymą sutrukdė Nenugalimos jėgos įvykis;
 (C)    kiek tai įmanoma, teikia informaciją, susijusią su Nenugalimos jėgos įvykiu ir jo poveikiu, kai to gali pagrįstai paprašyti kuri nors kita Šalis; ir
 (D)    (nepažeisdama jokio galiojančio įstatymo ir (arba) Reguliavimo reikalavimo) imasi alternatyvinių priemonių, kad galėtų vėl pradėti vykdyti savo įsipareigojimus, ir tai padaryti turi būti įmanoma nepatiriant jokių papildomų esminių išlaidų.
 
 
-29.2.4            Jei Nukentėjusioji šalis yra PB, ji tol, kol tęsis Nenugalimos jėgos įvykis, nuolat atliks visus geros pramonės praktikos veiksmus, kurių pagrįstai reikia Nenugalimos jėgos įvykio padariniams nugalėti arba sumažinti. ^21bd69975908578b2ed38ac0
+29.2.4            Jei Nukentėjusioji šalis yra PB, ji tol, kol tęsis Nenugalimos jėgos įvykis, nuolat atliks visus geros pramonės praktikos veiksmus, kurių pagrįstai reikia Nenugalimos jėgos įvykio padariniams nugalėti arba sumažinti. ^s-245a84cda8a0d9f87acf9c5d
 
 
-29.2.5            Jei Nukentėjusioji šalis yra LR arba Strateginis investuotojas, jis tol, kol tęsis Nenugalimos jėgos įvykis, nuolat atliks visus veiksmus, kurių pagrįstai reikia Nenugalimos jėgos įvykio padariniams nugalėti arba sumažinti. ^ee5d754caed7cd3b089c7b15
+29.2.5            Jei Nukentėjusioji šalis yra LR arba Strateginis investuotojas, jis tol, kol tęsis Nenugalimos jėgos įvykis, nuolat atliks visus veiksmus, kurių pagrįstai reikia Nenugalimos jėgos įvykio padariniams nugalėti arba sumažinti. ^s-2fe420a418af1ef1ab6e7865
 
 
-29.2.6            Išnykus Nenugalimos jėgos įvykio padariniams, Nukentėjusioji šalis kaip įmanoma greičiau praneša kitoms Šalims, kad baigėsi Nenugalimos jėgos įvykis, ir (nepažeisdama jokio galiojančio įstatymo ir (arba) Reguliavimo reikalavimų) kaip įmanoma greičiau visiškai atnaujina savo įsipareigojimų pagal šią Koncesijos sutartį vykdymą (priklausomai nuo Šalių susitarimo arba, jei būtina, papildomą susitarimą pagal 29.2.7 punktą, dėl termino pratęsimo, atsižvelgiant į Nenugalimos jėgos įvykio pobūdį ir į jo poveikį atitinkamų įsipareigojimų vykdymui). ^74d7ae0bf24ac0d539627d73
+29.2.6            Išnykus Nenugalimos jėgos įvykio padariniams, Nukentėjusioji šalis kaip įmanoma greičiau praneša kitoms Šalims, kad baigėsi Nenugalimos jėgos įvykis, ir (nepažeisdama jokio galiojančio įstatymo ir (arba) Reguliavimo reikalavimų) kaip įmanoma greičiau visiškai atnaujina savo įsipareigojimų pagal šią Koncesijos sutartį vykdymą (priklausomai nuo Šalių susitarimo arba, jei būtina, papildomą susitarimą pagal 29.2.7 punktą, dėl termino pratęsimo, atsižvelgiant į Nenugalimos jėgos įvykio pobūdį ir į jo poveikį atitinkamų įsipareigojimų vykdymui). ^s-172984e77cae771e9a8a660b
 
 
-29.2.7            Jeigu yra susitariama arba nusprendžiama atidėti terminą pagal 29.2.2 punktą ir pasibaigus Nenugalimos jėgos įvykio padariniams kuri nors Šalis mano, kad reikia patikslinti pratęsimo laiką ir terminą atidėti dar daugiau, Šalys konsultuojasi ir visokeriopai stengiasi susitarti, kiek reikėtų atidėti esmines datas ar įvykius ir, Šalims nepavykus dėl to susitarti, bet kuri Šalis šį klausimą gali perduoti nagrinėti Ginčų sprendimo tvarka. ^dc85ab79bc66df211daedb86
+29.2.7            Jeigu yra susitariama arba nusprendžiama atidėti terminą pagal 29.2.2 punktą ir pasibaigus Nenugalimos jėgos įvykio padariniams kuri nors Šalis mano, kad reikia patikslinti pratęsimo laiką ir terminą atidėti dar daugiau, Šalys konsultuojasi ir visokeriopai stengiasi susitarti, kiek reikėtų atidėti esmines datas ar įvykius ir, Šalims nepavykus dėl to susitarti, bet kuri Šalis šį klausimą gali perduoti nagrinėti Ginčų sprendimo tvarka. ^s-7b72bfd63a8f171aaa1cdeb3
 
 
-29.2.8            Siekiant išvengti abejonių, nurodoma, jog (29 punkte (Nenugalima jėga) nustatyta apimtimi) nei viena Šalis neatleidžiama nuo savo įsipareigojimų pagal šią Koncesijos sutartį vykdymo dėl to, kad atsirado Nenugalimos jėgos įvykis (priklausomai nuo Šalių susitarimo dėl termino pratęsimo, atsižvelgiant į Nenugalimos jėgos įvykio pobūdį ir į jo poveikį atitinkamų įsipareigojimų vykdymui). ^f41ff19c18172169e5efb1e6
+29.2.8            Siekiant išvengti abejonių, nurodoma, jog (29 punkte (Nenugalima jėga) nustatyta apimtimi) nei viena Šalis neatleidžiama nuo savo įsipareigojimų pagal šią Koncesijos sutartį vykdymo dėl to, kad atsirado Nenugalimos jėgos įvykis (priklausomai nuo Šalių susitarimo dėl termino pratęsimo, atsižvelgiant į Nenugalimos jėgos įvykio pobūdį ir į jo poveikį atitinkamų įsipareigojimų vykdymui). ^s-e82242b1b1dcf641c288e440
 
 
-30.       TEISIŲ PERLEIDIMAS ^d6e1284133fbd61c1f870b07
+30.       TEISIŲ PERLEIDIMAS ^s-0fc8b238d1a8b67d441d39ab
 
 
-30.1     LR neturi teisės perleisti (tiek visiškai, tiek užtikrinimo būdu, visos ar dalies), perduoti, įkeisti, perrašyti šia Koncesijos sutartimi teikiamos naudos ar jos suteikiamų teisių (kiekvienas iš pirmiau nurodytų veiksmų vadinamas „sandoriu“) negavusi išankstinio rašytinio Strateginio investuotojo ir PB sutikimo, ir bet koks bandymas sudaryti tokį sandorį pažeidžiant 30 punkto (Teisių perleidimas) nuostatas laikomas negaliojančiu. ^fd82e68cd3ce263cae9b6cff
+30.1     LR neturi teisės perleisti (tiek visiškai, tiek užtikrinimo būdu, visos ar dalies), perduoti, įkeisti, perrašyti šia Koncesijos sutartimi teikiamos naudos ar jos suteikiamų teisių (kiekvienas iš pirmiau nurodytų veiksmų vadinamas „sandoriu“) negavusi išankstinio rašytinio Strateginio investuotojo ir PB sutikimo, ir bet koks bandymas sudaryti tokį sandorį pažeidžiant 30 punkto (Teisių perleidimas) nuostatas laikomas negaliojančiu. ^s-760bf20673f709d84ba2a21b
 
 
-30.2     Taikant 30.5 punkto reikalavimus PB neturi teisės perleisti (tiek visiškai, tiek užtikrinimo būdu, visos ar dalies), perduoti, įkeisti, perrašyti šia Koncesijos sutartimi teikiamos naudos ar jos suteikiamų teisių (kiekvienas iš pirmiau nurodytų veiksmų vadinamas „sandoriu“) negavusi išankstinio rašytinio LR sutikimo, ir bet koks bandymas sudaryti tokį sandorį pažeidžiant 30 punkto (Teisių perleidimas) nuostatas laikomas negaliojančiu. ^3a0c9c97a95ec47f771ed634
+30.2     Taikant 30.5 punkto reikalavimus PB neturi teisės perleisti (tiek visiškai, tiek užtikrinimo būdu, visos ar dalies), perduoti, įkeisti, perrašyti šia Koncesijos sutartimi teikiamos naudos ar jos suteikiamų teisių (kiekvienas iš pirmiau nurodytų veiksmų vadinamas „sandoriu“) negavusi išankstinio rašytinio LR sutikimo, ir bet koks bandymas sudaryti tokį sandorį pažeidžiant 30 punkto (Teisių perleidimas) nuostatas laikomas negaliojančiu. ^s-84ad4b194d36fbb0dd4c6bd2
 
 
-30.3     Taikant 30.5 punkto reikalavimus Strateginis investuotojas neturi teisės perleisti (tiek visiškai, tiek užtikrinimo būdu, visos ar dalies) perduoti, įkeisti, perrašyti šia Koncesijos sutartimi teikiamos naudos ar jos suteikiamų teisių (kiekvienas iš pirmiau nurodytų veiksmų vadinamas „sandoriu“) negavusi išankstinio rašytinio LR sutikimo (LR vykdant 30.4 punkto reikalavimus), ir bet koks bandymas sudaryti tokį sandorį pažeidžiant 30 punkto (Teisių perleidimas) nuostatas laikomas negaliojančiu. ^296b659fb8476e5c637fa4f8
+30.3     Taikant 30.5 punkto reikalavimus Strateginis investuotojas neturi teisės perleisti (tiek visiškai, tiek užtikrinimo būdu, visos ar dalies) perduoti, įkeisti, perrašyti šia Koncesijos sutartimi teikiamos naudos ar jos suteikiamų teisių (kiekvienas iš pirmiau nurodytų veiksmų vadinamas „sandoriu“) negavusi išankstinio rašytinio LR sutikimo (LR vykdant 30.4 punkto reikalavimus), ir bet koks bandymas sudaryti tokį sandorį pažeidžiant 30 punkto (Teisių perleidimas) nuostatas laikomas negaliojančiu. ^s-3123012fd0af447e729f5ff3
 
 
-30.4     Prieš suteikdama sutikimą pagal 30.3 punktą, tačiau nepažeisdama 30.5 punkto nuostatų, LR siekia gauti PB sutikimą dėl Strateginio investuotojo siūlomo sandorio (ir negavus tokio PB sutikimo bet koks LR bandomas suteikti sutikimas pagal 30.3 punktą laikomas negaliojančiu). ^21a1f230245032727b39362c
+30.4     Prieš suteikdama sutikimą pagal 30.3 punktą, tačiau nepažeisdama 30.5 punkto nuostatų, LR siekia gauti PB sutikimą dėl Strateginio investuotojo siūlomo sandorio (ir negavus tokio PB sutikimo bet koks LR bandomas suteikti sutikimas pagal 30.3 punktą laikomas negaliojančiu). ^s-a58ec3ae288dd54ff7667128
 
 
-30.5     LR duoda sutikimą dėl Strateginiam investuotojui ir (arba) PB pagal Koncesijos sutartį suteikiamos naudos ar teisių perdavimo (užtikrinimo būdu) Finansuojančiai šaliai. LR sutinka, kad Strateginiam investuotojui ir (arba) PB paprašius (jiems abiems veikiant pagrįstai), LR pradės diskusijas dėl tiesioginių susitarimų su Strateginio investuotojo ir (arba) PB finansuojančiomis šalimis, arba tiesioginiais ar netiesioginiais investuotojais į jų nuosavą kapitalą. ^98c6f39d68e7e020d44960b9
+30.5     LR duoda sutikimą dėl Strateginiam investuotojui ir (arba) PB pagal Koncesijos sutartį suteikiamos naudos ar teisių perdavimo (užtikrinimo būdu) Finansuojančiai šaliai. LR sutinka, kad Strateginiam investuotojui ir (arba) PB paprašius (jiems abiems veikiant pagrįstai), LR pradės diskusijas dėl tiesioginių susitarimų su Strateginio investuotojo ir (arba) PB finansuojančiomis šalimis, arba tiesioginiais ar netiesioginiais investuotojais į jų nuosavą kapitalą. ^s-1f64f8c73d15d5d61cd93e89
 
 
-30.6     Šios Koncesijos sutarties sąlygos yra privalomos visiems teisių perėmėjams ir paskirtiesiems asmenims, jos privalomos įgyvendinti kitoms šalims ir atitinkamiems teisių perėmėjams ir paskirtiesiems asmenims. ^9027ede53e2c5b922071c4b5
+30.6     Šios Koncesijos sutarties sąlygos yra privalomos visiems teisių perėmėjams ir paskirtiesiems asmenims, jos privalomos įgyvendinti kitoms šalims ir atitinkamiems teisių perėmėjams ir paskirtiesiems asmenims. ^s-9f7a654fd86546bc2ad75d8c
 
 
-31.       AKCIJŲ PERLEIDIMO IR KONTROLĖS PASIKEITIMO APRIBOJIMAI ^c542c9a35e9110ea34cbba20
+31.       AKCIJŲ PERLEIDIMO IR KONTROLĖS PASIKEITIMO APRIBOJIMAI ^s-68f8be9b7fb3b7a4d0dafd39
 
 
-31.1     Apribojimas ^821d8cbac1f20684ead881da
+31.1     Apribojimas ^s-11465574f63ed924db01d46f
 PB įsipareigoja LR, kad ji registruos Akcininko atliekamus akcijų perleidimo sandorius, tik jeigu akcijas perimantis asmuo:
 
 
-31.1.1            buvo patvirtintas Strateginių įmonių komisijos pagal Nacionalinio saugumo kriterijus, jeigu toks patvirtinimas reikalingas pagal taikomus Įstatymus; arba ^15301e10aba2b4cc744a832f
+31.1.1            buvo patvirtintas Strateginių įmonių komisijos pagal Nacionalinio saugumo kriterijus, jeigu toks patvirtinimas reikalingas pagal taikomus Įstatymus; arba ^s-048c07ae2a45700bac5957f5
 
 
-31.1.2            yra LR (arba LR paskirtoji šalis). ^b1e6b0d264b6e170229b364f
+31.1.2            yra LR (arba LR paskirtoji šalis). ^s-a7b05dccbce36b44e2b0184e
 
 
-31.2     LR suteikiamos teisės perleidžiant akcijas ir draudimas keisti kontrolę pagal Akcininkų sutartį ^0f14fbede052060332289c54
+31.2     LR suteikiamos teisės perleidžiant akcijas ir draudimas keisti kontrolę pagal Akcininkų sutartį ^s-3e4a3f8b4cc0af1e0bf46335
 
 
-31.2.1            Šalys pripažįsta pagal Akcininkų sutartį LR (kaip trečiajai šaliai) suteiktą teisę įsigyti Akcininko turto dalį, jeigu įvykus draudžiamam kontrolės pasikeitimui yra padaroma įtaka tokiam Akcininkui. ^0f31784527fdc438a3cb8272
+31.2.1            Šalys pripažįsta pagal Akcininkų sutartį LR (kaip trečiajai šaliai) suteiktą teisę įsigyti Akcininko turto dalį, jeigu įvykus draudžiamam kontrolės pasikeitimui yra padaroma įtaka tokiam Akcininkui. ^s-ba75b2572df0ec9b3e3827e6
 
 
-31.2.2            Šalys taip pat pripažįsta, kad vadovaujantis Akcininkų sutartimi ir, jeigu to reikalaujama pagal taikomus Įstatymus, bet kuris Akcininkas, pageidaujantis perleisti bet kurias Akcijas („Perleidžiantis akcininkas“) privalo nedelsdamas apie tai informuoti: ^8baf615a582841c80888007a
+31.2.2            Šalys taip pat pripažįsta, kad vadovaujantis Akcininkų sutartimi ir, jeigu to reikalaujama pagal taikomus Įstatymus, bet kuris Akcininkas, pageidaujantis perleisti bet kurias Akcijas („Perleidžiantis akcininkas“) privalo nedelsdamas apie tai informuoti: ^s-3d13218ac7ac797870d2a7f2
 
 
 A)        PB ir kartu pateikti visa svarbią informaciją apie numatomą perleidimą PB, kad šioji galėtų informuoti Strateginių įmonių komisiją pateikdama SĮK pranešimą apie perleidimą; ir
@@ -5641,20 +5646,20 @@ A)        PB ir kartu pateikti visa svarbią informaciją apie numatomą perleid
 B)        LR apie numatomą perleidimą pateikdama atitinkamą Pranešimą apie perleidimą, kuriame būtų nurodyta Perleidimo kaina.
 
 
-31.3     Siūlomo perleidimo peržiūra ir nustatymas pagal Nacionalinio saugumo kriterijus ^3c6cbf9a151798a1f24a2bac
+31.3     Siūlomo perleidimo peržiūra ir nustatymas pagal Nacionalinio saugumo kriterijus ^s-7a3c6fd89111d8174b44357c
 Gavusi Strateginių įmonių komisijos išduotą SĮK pranešimą apie perleidimą, pateiktą pagal Akcininkų sutartį ir taikomus Įstatymus ir atitinkantį jų informacijos pateikimo reikalavimus LR deda visas pagrįstas pastangas, kad Strateginių įmonių komisija:
 
 
-31.3.1            nedelsdama įvertintų, ar SĮK pranešime apie perleidimą nurodytas perimantis asmuo atitinka Nacionalinio saugumo kriterijus; ir ^edc342e3d01b529cec073180
+31.3.1            nedelsdama įvertintų, ar SĮK pranešime apie perleidimą nurodytas perimantis asmuo atitinka Nacionalinio saugumo kriterijus; ir ^s-7a60ce24647abd8eaa49ad4e
 
 
-31.3.2            informuotų apie savo sprendimą Perleidžiantį akcininką kaip galėdama greičiau, ir bet kokiu atveju ne vėliau nei per du (2) mėnesius nuo SĮK pranešimo apie perleidimą gavimo (ar trumpesnį Įstatymo reikalaujamą laikotarpį). ^32a72d46653e0ad420c46735
+31.3.2            informuotų apie savo sprendimą Perleidžiantį akcininką kaip galėdama greičiau, ir bet kokiu atveju ne vėliau nei per du (2) mėnesius nuo SĮK pranešimo apie perleidimą gavimo (ar trumpesnį Įstatymo reikalaujamą laikotarpį). ^s-85749b0c716f4e092b262e51
 
 
-31.4     Strateginio investuotojo nuosavybės perleidimo apribojimai ^f398050c6cfe6ee15ac55483
+31.4     Strateginio investuotojo nuosavybės perleidimo apribojimai ^s-00343bf9259e69f2203e04c1
 
 
-31.4.1            Strateginis investuotojas užtikrina, kad: ^f14f9b2e0f4f522b3e63baa7
+31.4.1            Strateginis investuotojas užtikrina, kad: ^s-e44af61d1437a7040d7b6a32
 (A)      jis išliks „Hitachi, Ltd“ susijusia bendrove;
 (B)      bet kurios Strateginio investuotojo išleistos akcijos galėtų priklausyti bet kuriam asmeniui (nepriklausomai nuo tokio asmens suteikto užtikrinimo), tik jeigu toks asmuo yra vienas ar daugiau iš šių subjektų:
 (1)       „Hitachi, Ltd.“ arba su „ Hitachi, Ltd.“ susijusi bendrovė;
@@ -5686,50 +5691,50 @@ su sąlyga, kad pirmiau esančiuose 3 ir 4 punktuose nurodytais atvejais atitink
  reiškia juridinį asmenį, kuris neturi kontroliuojančios bendrovės (kai kontroliuojanti bendrovė reiškia bendrovę, apibrėžtą 2006 m. Bendrovių įstatymo 1159 skyriuje).
 
 
-31.4.2          Strateginis investuotojas įsipareigoja neregistruoti bet kurio Strateginio investuotojo akcininkų įvykdyto akcijų perleidimo sandorio, jeigu tinkamai įvertinęs padėtį, Strateginis investuotojas sužino, kad toks perleidimo sandoris pažeistų šį 31.4.1 punktą. Gavęs iš LR raštišką prašymą Strateginis investuotojas per dvidešimt (20) Darbo dienų LR pateikia patvirtintas Strateginio investuotojo narių registro (akcininkų asmeninių vertybinių popierių sąskaitos) kopijas. ^8e1cccd97d531859fb249349
+31.4.2          Strateginis investuotojas įsipareigoja neregistruoti bet kurio Strateginio investuotojo akcininkų įvykdyto akcijų perleidimo sandorio, jeigu tinkamai įvertinęs padėtį, Strateginis investuotojas sužino, kad toks perleidimo sandoris pažeistų šį 31.4.1 punktą. Gavęs iš LR raštišką prašymą Strateginis investuotojas per dvidešimt (20) Darbo dienų LR pateikia patvirtintas Strateginio investuotojo narių registro (akcininkų asmeninių vertybinių popierių sąskaitos) kopijas. ^s-5f9837dc51c3e678cbe9fa33
 
 
-32.       AKCININKŲ PASIRINKIMO PARDUOTI SANDORIS ^aee8adf95eaa679d9c898ec2
+32.       AKCININKŲ PASIRINKIMO PARDUOTI SANDORIS ^s-e1803f64e13d190feed5107e
 
 
-32.1     Nacionalinio saugumo kriterijų pasirinkimo parduoti sandoris ^8ded5e8879ea16c2056a42a3
+32.1     Nacionalinio saugumo kriterijų pasirinkimo parduoti sandoris ^s-7a3889047fc84033edd42bc2
 
 
-32.1.1          Jeigu Strateginių įmonių komisija nustato, kad SĮK pranešime apie akcijų perleidimą nurodytas perimantis asmuo neatitinka nacionalinio saugumo kriterijų (ir Strateginių įmonių komisijai atsisakius ar per 2 (du) mėnesius nuo SKĮ pranešimo apie perleidimą gavimo to nenustačius, laikoma, kad siūloma perimančioji šalis neatitinka Nacionalinio saugumo kriterijų), bet kiekvienu atveju: ^b585f5f09b32dad97095edc7
+32.1.1          Jeigu Strateginių įmonių komisija nustato, kad SĮK pranešime apie akcijų perleidimą nurodytas perimantis asmuo neatitinka nacionalinio saugumo kriterijų (ir Strateginių įmonių komisijai atsisakius ar per 2 (du) mėnesius nuo SKĮ pranešimo apie perleidimą gavimo to nenustačius, laikoma, kad siūloma perimančioji šalis neatitinka Nacionalinio saugumo kriterijų), bet kiekvienu atveju: ^s-01e381950be86972b9738bc1
 (A)     siūloma perimanti šalis yra Akcininkas;
 (B)     sutartiniai nacionalinio saugumo kriterijai yra tenkinami; arba
 (C)     vadovaujantis ginčų sprendimo tvarka nustatoma, kad sutartiniai nacionalinio saugumo kriterijai yra tenkinami,
 atsižvelgdama į kiekvieno Akcininko pirmumo teisę pagal Akcininkų sutartį LR per du (2) Mėnesius nuo i) A) arba B) atveju Strateginių įmonių komisijos priimto sprendimo, ii) C) atveju pagal Ginčų sprendimo tvarką priimto sprendimo, pasiūlo nupirkti iš Perleidžiančiojo akcininko visą jo dalį, dėl kurios bet kurio akcininko pirmumo teise pagal Akcininkų sutartį nebuvo pasinaudota („LR NSK pasiūlymas“) tokiomis pačiomis sąlygomis, kokios nurodytos susijusiame pranešime apie perleidimą. Jeigu LR nepateikia perleidžiančiam akcininkui LR NSK pasiūlymo dėl visos tokios turto dalis ar jo dalies per du (2) Mėnesius nuo atitinkamo sprendimo priėmimo, laikoma, kad LR pateikė tokį NSK pasiūlymą Perleidžiančiam akcininkui iš karto pasibaigus nurodytam 2 (dviejų) Mėnesių laikotarpiui.
 
 
-32.1.2          Kitos šio 32.1 punkto (Nacionalinio saugumo kriterijų pasirinkimo pirkti sandoris) sąlygos galioja jeigu Perleidžiantis akcininkas pateikia pranešimą LR kad jis priima ar atsisako priimti LT NSK pasiūlymą („Pranešimas apie sprendimą dėl perleidimo“) per dvidešimt (20) darbo dienų nuo LR NSK pasiūlymo pateikimo („Sprendimo dėl perleidimo laikotarpis“). ^d08af6cac782c865af9cf246
+32.1.2          Kitos šio 32.1 punkto (Nacionalinio saugumo kriterijų pasirinkimo pirkti sandoris) sąlygos galioja jeigu Perleidžiantis akcininkas pateikia pranešimą LR kad jis priima ar atsisako priimti LT NSK pasiūlymą („Pranešimas apie sprendimą dėl perleidimo“) per dvidešimt (20) darbo dienų nuo LR NSK pasiūlymo pateikimo („Sprendimo dėl perleidimo laikotarpis“). ^s-4578d8dd985350b5faebf912
 
 
-32.1.3          Jeigu per sprendimo dėl perleidimo laikotarpį Perleidžiantis akcininkas pateikia LR pranešimą apie spendimą dėl perleidimo, priimdamas LR NSK pasiūlymą, LR per dešimt (10) Darbo dienų nuo pranešimo apie sprendimą dėl perleidimo datos sumoka Perleidžiančiajam akcininkui perleidimo kainą, jeigu: ^779d1d3089e4432cc9d0f2af
+32.1.3          Jeigu per sprendimo dėl perleidimo laikotarpį Perleidžiantis akcininkas pateikia LR pranešimą apie spendimą dėl perleidimo, priimdamas LR NSK pasiūlymą, LR per dešimt (10) Darbo dienų nuo pranešimo apie sprendimą dėl perleidimo datos sumoka Perleidžiančiajam akcininkui perleidimo kainą, jeigu: ^s-52d9b359a1f11452363883df
 (A)      Perleidžiantis akcininkas įvykdo dalies perdavimo LR (ar jos patikėtiniui) sandorį pagal Akcininkų sutartį; arba
 (B)       jeigu Perleidžiantis akcininkas negali pasinaudoti savo teise perleisti savo dalies LR (ar jos patikėtiniui) pagal Akcininkų sutartį dėl jam taikomo suvaržymo (išskyrus Savanoriško suvaržymo atvejį) ar teisinių apribojimų, toks Perleidžiantis akcininkas yra pateikęs LR tinkamai sudarytą Perleidžiančiojo akcininko raštą pareikšdamas, kad jis perleidžia savo dalį LR (ar jos patikėtiniui) turto patikėjimo pagrindu iki to laiko, kai bus įvykdytas Akcininko turto dalies perleidimo LR (ar jos patikėtiniui) sandoris.
 
 
-32.1.4          Jeigu Perleidžiantis akcininkas per Panešimo apie perleidimą laikotarpį nepateikia Pranešimo apie akcijų perleidimą, arba per Pranešimo apie perleidimą laikotarpį pateikia Pranešimą apie akcijų perleidimą atsisakydamas LR NSK pasiūlymo, LR NSK pasiūlymas netenka galios, ir LR lieka neįpareigota pirkti ar siūlyti pirkti iš Perleidžiančiojo akcininko tokią Perleidžiamą turto dalį. ^84797dae1efd26733f5dd63a
+32.1.4          Jeigu Perleidžiantis akcininkas per Panešimo apie perleidimą laikotarpį nepateikia Pranešimo apie akcijų perleidimą, arba per Pranešimo apie perleidimą laikotarpį pateikia Pranešimą apie akcijų perleidimą atsisakydamas LR NSK pasiūlymo, LR NSK pasiūlymas netenka galios, ir LR lieka neįpareigota pirkti ar siūlyti pirkti iš Perleidžiančiojo akcininko tokią Perleidžiamą turto dalį. ^s-f6e15f9f1b4244ca4a7a1c1e
 
 
-32.1.5          PB imasi visų galimų veiksmų, reikalingų įgyvendinti šio 32 punkto (Akcininkų pasirinkimo parduoti sandoris) nuostatas. ^1e8a891bae4e35efd6456a07
+32.1.5          PB imasi visų galimų veiksmų, reikalingų įgyvendinti šio 32 punkto (Akcininkų pasirinkimo parduoti sandoris) nuostatas. ^s-6636393398ccd1fbe740f2dd
 
 
-32.1.6          Nepažeidžiant visų kitų teisių ar teisės gynimo priemonių pagal šią Koncesijos sutartį ar kitu pagrindu, įskaitant apgaulės atžvilgiu, jeigu per šešis (6) Mėnesius nuo Perleidžiamos turto dalies perleidimo LR pagal šį 32 punktą (Akcininkų pasirinkimo parduoti sandoris) išaiškėja, kad kuris nors Sutartinis nacionalinio saugumo kriterijus nebuvo tenkintas, Šalys susitaria, kad LR nuožiūra atitinkamas Perleidžiantis akcininkas pagal Akcininkų sutartį privalo iš naujo įsigyti Perleidžiamą turtą už Perleidimo kainą plius palūkanos, nustatomos pagal 39 punktą (Įsipareigojimų nevykdymo atveju mokami delspinigiai), ir skaičiuojamos nuo pirminės perleidimo kainos sumokėjimo Perleidžiančiajam akcininkui pagal šį punktą dienos. ^7bde65f6d7ff3f141c474f1a
+32.1.6          Nepažeidžiant visų kitų teisių ar teisės gynimo priemonių pagal šią Koncesijos sutartį ar kitu pagrindu, įskaitant apgaulės atžvilgiu, jeigu per šešis (6) Mėnesius nuo Perleidžiamos turto dalies perleidimo LR pagal šį 32 punktą (Akcininkų pasirinkimo parduoti sandoris) išaiškėja, kad kuris nors Sutartinis nacionalinio saugumo kriterijus nebuvo tenkintas, Šalys susitaria, kad LR nuožiūra atitinkamas Perleidžiantis akcininkas pagal Akcininkų sutartį privalo iš naujo įsigyti Perleidžiamą turtą už Perleidimo kainą plius palūkanos, nustatomos pagal 39 punktą (Įsipareigojimų nevykdymo atveju mokami delspinigiai), ir skaičiuojamos nuo pirminės perleidimo kainos sumokėjimo Perleidžiančiajam akcininkui pagal šį punktą dienos. ^s-b89863f9148d4aa74d742f8d
 
 
-33.       PRANEŠIMAI ^cb3a5aac108db605e0ed3dda
+33.       PRANEŠIMAI ^s-a45594863022347e9336436f
 
 
-33.1     Pranešimai raštu ^e52a299afc4df789031cff1f
+33.1     Pranešimai raštu ^s-1b1bd5ce50f42614e3a3bde4
 Išskyrus atvejus, kai leidžiama ir pranešimai yra siunčiami elektroniniu paštu pagal 33.2 punktą (Pranešimai elektroniniu paštu), visi su šia Koncesijos sutartimi susiję pranešimai:
 
 
-33.1.1          turi būti surašyti anglų kalba; ^82067d2d76035fa9a2d8325d
+33.1.1          turi būti surašyti anglų kalba; ^s-5e6f4af943814bfb1c4db923
 
 
-33.1.2          turi būti asmeniškai pristatomi adresato adresu arba siunčiami iš anksto apmokėtu laišku adresato adresu, arba siunčiami faksu adresato fakso numeriu, kurie kiekvienu atveju nurodomi šiame 33.1.2 punkte kalbant apie Šalį, kuriai pranešimas yra skirtas, pažymint, kad jis adresuojamas nurodytam asmeniui, tokiu adresu, kokį atitinkama Šalis gali atitinkamu metu nurodyti pagal 33.3 punktą (Pranešimo duomenų pasikeitimas). Šio 33.1.2 punkto tikslais, Koncesijos sutarties sudarymo dieną kiekvienos Šalies duomenys yra tokie: ^2e4f74ab18b35bad961cba6e
+33.1.2          turi būti asmeniškai pristatomi adresato adresu arba siunčiami iš anksto apmokėtu laišku adresato adresu, arba siunčiami faksu adresato fakso numeriu, kurie kiekvienu atveju nurodomi šiame 33.1.2 punkte kalbant apie Šalį, kuriai pranešimas yra skirtas, pažymint, kad jis adresuojamas nurodytam asmeniui, tokiu adresu, kokį atitinkama Šalis gali atitinkamu metu nurodyti pagal 33.3 punktą (Pranešimo duomenų pasikeitimas). Šio 33.1.2 punkto tikslais, Koncesijos sutarties sudarymo dieną kiekvienos Šalies duomenys yra tokie: ^s-8def9a26cc7a5b9f797fdf06
 
 
 LR
@@ -5750,22 +5755,22 @@ Faksas:
 Adresuojama:
 
 
-33.1.3          nesant įrodymų, kad pranešimas buvo gautas anksčiau, pranešimas įsigalioja nuo to momento, kai laikomas gautu pagal 33.1.4 punktą: ^eb81d0e6ba06507151bc53f6
+33.1.3          nesant įrodymų, kad pranešimas buvo gautas anksčiau, pranešimas įsigalioja nuo to momento, kai laikomas gautu pagal 33.1.4 punktą: ^s-acc056e68c6c2c5612546f8e
 (A)      jeigu pranešimas asmeniškai pristatomas adresato adresu, pristatymo tokiu adresu momentu;
 (B)       jeigu pranešimas siunčiamas paštu, penktą (5) Kalendorinę dieną po išsiuntimo, jeigu jis siunčiamas Europos Sąjungos ribose, ir keturioliktą (14) Kalendorinę dieną, jeigu jis siunčiamas už / iš už Europos Sąjungos ribų; ir
 (C)       jei pranešimas siunčiamas faksu, kai fakso aparatas, iš kurio išsiųstas pranešimas, pateikia ataskaitą apie pranešimo perdavimą, kurioje nurodoma, kad visas pranešimas buvo perduotas gavėjo fakso numeriu, su sąlyga, kad tokio faksu išsiųsto pranešimo patvirtinanti kopija buvo išsiųsta paštu 33.1 punkte numatyta tvarka per 24 valandas po tokio perdavimo; ir
 
 
-33.1.4          kai pranešimas gautas ar laikomas gautu pagal 33.1.3 punktą Kalendorinę dieną, kuri nėra darbo diena, arba Darbo dieną po 17 val., laikoma, kad pranešimas buvo gautas kitą Darbo dieną 9.00 val. Šiame 33.1.4 punkte nurodytas laikas yra adresato šalies vietos laikas. ^edf654898d15b55079a0d3d7
+33.1.4          kai pranešimas gautas ar laikomas gautu pagal 33.1.3 punktą Kalendorinę dieną, kuri nėra darbo diena, arba Darbo dieną po 17 val., laikoma, kad pranešimas buvo gautas kitą Darbo dieną 9.00 val. Šiame 33.1.4 punkte nurodytas laikas yra adresato šalies vietos laikas. ^s-6c5ee1e0944d7a52694b29b8
 
 
-33.2     Pranešimai elektroniniu paštu ^698d07f52c74958b6e8aac44
+33.2     Pranešimai elektroniniu paštu ^s-8c78951a68562ae17cfa8ee2
 
 
-33.2.1          Visi pranešimai ar informacija, teikiama pagal 12.1 ir 12.2 punktus (Reguliavimo sistema) gali, bet neprivalo, būti siunčiami elektroniniu paštu. ^7804896b6c38179e6fdf5575
+33.2.1          Visi pranešimai ar informacija, teikiama pagal 12.1 ir 12.2 punktus (Reguliavimo sistema) gali, bet neprivalo, būti siunčiami elektroniniu paštu. ^s-f582bca34e0053bd87a84bb9
 
 
-33.2.2          Jeigu pranešimas pagal 33.2.1 punktą siunčiamas elektroniniu paštu, jis siunčiamas anglų kalba tik žemiau išvardintiems Šalių atstovams ir 33.2.2 punkte nurodytais elektroninio pašto adresais. Taikant šį 33.2.2 punktą, Koncesijos sutarties sudarymo dieną atitinkami Šalių adresai yra tokie: ^5903264fb84e5337c7906f3f
+33.2.2          Jeigu pranešimas pagal 33.2.1 punktą siunčiamas elektroniniu paštu, jis siunčiamas anglų kalba tik žemiau išvardintiems Šalių atstovams ir 33.2.2 punkte nurodytais elektroninio pašto adresais. Taikant šį 33.2.2 punktą, Koncesijos sutarties sudarymo dieną atitinkami Šalių adresai yra tokie: ^s-913d8780c3608dad40d72963
 
 
 LR
@@ -5785,288 +5790,288 @@ Vardas, pavardė / pareigos / Departamentas:
 El. pašto adresas:
 
 
-33.2.3          Elektroniniu paštu pagal šį 33.2 punktą (Pranešimai elektroniniu paštu) siunčiami pranešimai laikomi gautais, kai elektroninis pranešimas pasiekia adresato elektroninio pašto dėžutę. Elektroninio pranešimo gavimo vieta yra 33.1.2 punkte nurodytas gaunančios Šalies pašto adresas. ^e90ff91df724395371c34475
+33.2.3          Elektroniniu paštu pagal šį 33.2 punktą (Pranešimai elektroniniu paštu) siunčiami pranešimai laikomi gautais, kai elektroninis pranešimas pasiekia adresato elektroninio pašto dėžutę. Elektroninio pranešimo gavimo vieta yra 33.1.2 punkte nurodytas gaunančios Šalies pašto adresas. ^s-a10827aeebd428afb9bf068c
 
 
-33.2.4          Kai pranešimai, siunčiami elektroniniu paštu pagal šį 33.2 punktą (Pranešimai elektroniniu paštu), laikomi gautais pagal 33.2.3 punktą Kalendorinę dieną, kuri nėra darbo diena ar gautais Darbo dieną po 17 val., toks pranešimas laikomas gautu kitos Darbo dienos 9.00 val. Šiame 33.2.4 punkte nurodytas laikas yra gavimo šalies vietos laikas. ^50a4640d13eb54c7dff47945
+33.2.4          Kai pranešimai, siunčiami elektroniniu paštu pagal šį 33.2 punktą (Pranešimai elektroniniu paštu), laikomi gautais pagal 33.2.3 punktą Kalendorinę dieną, kuri nėra darbo diena ar gautais Darbo dieną po 17 val., toks pranešimas laikomas gautu kitos Darbo dienos 9.00 val. Šiame 33.2.4 punkte nurodytas laikas yra gavimo šalies vietos laikas. ^s-f4d0e1df2ac652f2da51a879
 
 
-33.3     Pranešimo duomenų pasikeitimas ^50487e653f54461339282010
+33.3     Pranešimo duomenų pasikeitimas ^s-d930bbacffb2f7bb800e3707
 Kiekviena Šalis įsipareigoja informuoti kitą Šalį pateikdama pranešimą pagal 33.1 punktą (Pranešimai raštu), jeigu nustoja galioti 33.1.2 ir (arba) 33.2.2 punktuose nurodyti adresatas, adresas, fakso numeris, ar elektroninio pašto adresas (kai taikoma) ir pateikti naują pranešimų siuntimui reikalingą informaciją. Nauji kiekvienos Šalies duomenys pateikti pagal šį 33.3 punktą laikomi pakeitusiais 33.1.2 ir (arba) 33.2.2 punktuose nurodytus duomenis nuo atitinkamo pranešimo įteikimo kitai Šaliai.
 
 
-33.4     Susirašinėjimas su LR ^ceaa510c6e7455002be592b1
+33.4     Susirašinėjimas su LR ^s-6314ef533bb3e69d02d7b520
 Visi pranešimai ar dokumentai, teikiami ar siunčiami LR pagal šią Koncesijos sutartį, yra siunčiami Energetikos ministerijai ir, vadovaujantis ir nepažeidžiant kitų šio 33 punkto (Pranešimai) nuostatų, laikoma, kad EM tokią korespondenciją ar dokumentus gavo ir priėmė LR vardu.
 
 
-34.       VISA APIMANTI SUTARTIS ^54a8b5473d10ced670ae7aa6
+34.       VISA APIMANTI SUTARTIS ^s-a77bf5ed043fe2fdda52d061
 
 
-34.1             Nepažeidžiant preambulės C punkte nustatytų išimtinio susitarimo sąlygų, kurios ir toliau galioja nutraukus minėtą susitarimą, kiekviena iš šios Koncesijos sutarties Šalių patvirtina, kad ši Koncesijos sutartis ir taikomos Akcininkų sutarties sąlygos yra visa apimantis susitarimas ir reiškia visą sutartį dėl joje numatyto dalyko, bei pakeičia visus ankstesnius Šalių susitarimus dėl Koncesijos ir, nepažeidžiant pirmiau esančios nuostatos bendrumo, neapima jokio garantijos, sąlygos arba kitokio įsipareigojimo, kylančio pagal teisę arba papročius, įprastą naudojimo būdą arba sandorio sudarymo eigą. ^fcc5a3265d730cb56f00d54a
+34.1             Nepažeidžiant preambulės C punkte nustatytų išimtinio susitarimo sąlygų, kurios ir toliau galioja nutraukus minėtą susitarimą, kiekviena iš šios Koncesijos sutarties Šalių patvirtina, kad ši Koncesijos sutartis ir taikomos Akcininkų sutarties sąlygos yra visa apimantis susitarimas ir reiškia visą sutartį dėl joje numatyto dalyko, bei pakeičia visus ankstesnius Šalių susitarimus dėl Koncesijos ir, nepažeidžiant pirmiau esančios nuostatos bendrumo, neapima jokio garantijos, sąlygos arba kitokio įsipareigojimo, kylančio pagal teisę arba papročius, įprastą naudojimo būdą arba sandorio sudarymo eigą. ^s-8ece80fa1463d62b197b32ae
 
 
 
-34.2     Kiekviena Šalis patvirtina, kad: ^7f15bf258809c1a445c1a16f
+34.2     Kiekviena Šalis patvirtina, kad: ^s-e3bf841aea5ba5acfe0d241b
 
 
-34.2.1          Sudarydama šią Koncesijos sutartį ji nepasikliovė jokiu pareiškimu, garantija, užtikrinimu, sąlyga, nuostolių atlyginimo garantija, įsipareigojimu arba pasižadėjimu, kurie nėra aiškiai išdėstyti šioje Koncesijos sutartyje; ir ^24a591ef0921ad22850b2a42
+34.2.1          Sudarydama šią Koncesijos sutartį ji nepasikliovė jokiu pareiškimu, garantija, užtikrinimu, sąlyga, nuostolių atlyginimo garantija, įsipareigojimu arba pasižadėjimu, kurie nėra aiškiai išdėstyti šioje Koncesijos sutartyje; ir ^s-1d718f1966e5022560ecfe1d
 
 
-34.2.2          bet kokiu atveju, nedarant įtakos bet kokiai atsakomybei už apgaulingai neteisingą pareiškimą arba apgaulingai neteisingą tvirtinimą, vienintelės teisės arba teisių gynimo priemonės pagal bet kokią Investuotojų apsaugos sutartį dėl bet kokio pateikto pareiškimo, garantijos, užtikrinimo, sąlygos nuostolių atlyginimo garantijos, įsipareigojimo arba pasižadėjimo arba dėl veiksmo, kurio imtasi dėl šios Koncesijos, yra tos, kurios numatytos šioje Koncesijos sutartyje, ir, aiškumo dėlei ir tuo neapsiribojant, jokia Šalis neturi jokios kitos teisės arba teisių gynimo priemonės (tiek įnašo reikalavimo, tiek bet kokiu būdu) pagal deliktą (įskaitant dėl aplaidumo) arba dėl neteisingo pareiškimo (padaryto dėl aplaidumo arba kitaip prieš sudarant šią Koncesijos sutartį ir (arba) šioje Koncesijos sutartyje). ^6c310510e6bdcf2cf93263d0
+34.2.2          bet kokiu atveju, nedarant įtakos bet kokiai atsakomybei už apgaulingai neteisingą pareiškimą arba apgaulingai neteisingą tvirtinimą, vienintelės teisės arba teisių gynimo priemonės pagal bet kokią Investuotojų apsaugos sutartį dėl bet kokio pateikto pareiškimo, garantijos, užtikrinimo, sąlygos nuostolių atlyginimo garantijos, įsipareigojimo arba pasižadėjimo arba dėl veiksmo, kurio imtasi dėl šios Koncesijos, yra tos, kurios numatytos šioje Koncesijos sutartyje, ir, aiškumo dėlei ir tuo neapsiribojant, jokia Šalis neturi jokios kitos teisės arba teisių gynimo priemonės (tiek įnašo reikalavimo, tiek bet kokiu būdu) pagal deliktą (įskaitant dėl aplaidumo) arba dėl neteisingo pareiškimo (padaryto dėl aplaidumo arba kitaip prieš sudarant šią Koncesijos sutartį ir (arba) šioje Koncesijos sutartyje). ^s-0f260b850cbf7e1691e17b5c
 
 
-35.       pakeitimai ir teisių atsisakymas ^3c33d1c13a2de57ad1342166
+35.       pakeitimai ir teisių atsisakymas ^s-bd4a23a328bed18e4ccd8d7c
 
 
-35.1     Šios Koncesijos sutarties (arba bet kokio jame minimo dokumento) pakeitimas įsigalios tik tuomet, jei jis bus sudarytas raštu ir pasirašytas kiekvienos iš šios Koncesijos sutarties Šalių arba asmenų jų vardu. Sąvoka „pakeitimas“ apima bet kokį pakeitimą, papildymą arba išbraukimą, kaip jis bebūtų atliekamas. ^e282375e084cd3a3a59253e5
+35.1     Šios Koncesijos sutarties (arba bet kokio jame minimo dokumento) pakeitimas įsigalios tik tuomet, jei jis bus sudarytas raštu ir pasirašytas kiekvienos iš šios Koncesijos sutarties Šalių arba asmenų jų vardu. Sąvoka „pakeitimas“ apima bet kokį pakeitimą, papildymą arba išbraukimą, kaip jis bebūtų atliekamas. ^s-3e4f2becb12fcd2301b4a78f
 
 
-35.2     Jeigu kitaip aiškiai nėra nurodyta šioje Koncesijos sutartyje, Šalių teisėms ir teisių gynimo priemonėms neturės jokios įtakos tai, kad bet kuri kita Šalis nepasinaudoja arba vėluoja pasinaudoti bet kokia teise arba teisių gynimo priemone, arba sutinka su jos atžvilgiu prisiimtų įsipareigojimų nevykdymu, arba bet koks kitas dalykas, išskyrus, kai Šalis konkrečiai raštu atsisako savo turimos teisės arba atleidžia nuo įsipareigojimo, ir tokiu atveju toks atsisakymas arba atleidimas nekaip nepažeis ir nepaveiks jokių kitų Šalių turimų teisių arba teisių gynimo priemonių. Joks vienkartinis arba dalinis pasinaudojimas turima teise arba teisių gynimo priemone neužkirs kelio kitą kartą arba kitaip jomis pasinaudoti arba neužkirs kelio pasinaudoti bet kokia kita teise arba teisių gynimo priemone. ^77a5db7040dd884ab9553743
+35.2     Jeigu kitaip aiškiai nėra nurodyta šioje Koncesijos sutartyje, Šalių teisėms ir teisių gynimo priemonėms neturės jokios įtakos tai, kad bet kuri kita Šalis nepasinaudoja arba vėluoja pasinaudoti bet kokia teise arba teisių gynimo priemone, arba sutinka su jos atžvilgiu prisiimtų įsipareigojimų nevykdymu, arba bet koks kitas dalykas, išskyrus, kai Šalis konkrečiai raštu atsisako savo turimos teisės arba atleidžia nuo įsipareigojimo, ir tokiu atveju toks atsisakymas arba atleidimas nekaip nepažeis ir nepaveiks jokių kitų Šalių turimų teisių arba teisių gynimo priemonių. Joks vienkartinis arba dalinis pasinaudojimas turima teise arba teisių gynimo priemone neužkirs kelio kitą kartą arba kitaip jomis pasinaudoti arba neužkirs kelio pasinaudoti bet kokia kita teise arba teisių gynimo priemone. ^s-a6ad60caf1cdaffee31813e1
 
 
-35.3     Siekiant išvengti abejonių, nustojus galioti Strateginio investuotojo teisėms ir pareigoms pagal 22.2 punktą (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) arba 23.3 (Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo), bet kokie 27.2 punkto (Strateginio investuotojo teisių ir įsipareigojimų pabaiga) nuostatų pakeitimai gali būti daromi tik su Strateginio investuotojo sutikimu. ^92831dfb952da8b7cd0e6f8c
+35.3     Siekiant išvengti abejonių, nustojus galioti Strateginio investuotojo teisėms ir pareigoms pagal 22.2 punktą (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas) arba 23.3 (Sutarties nutraukimas Strateginiam investuotojui dėl Strateginio investuotojo pasitraukimo iš akcijų valdymo), bet kokie 27.2 punkto (Strateginio investuotojo teisių ir įsipareigojimų pabaiga) nuostatų pakeitimai gali būti daromi tik su Strateginio investuotojo sutikimu. ^s-8dc856bc7ae5ba4435fad071
 
 
-36.       Egzempliorių skaičius ^ec4577a06c8376dfc8816916
+36.       Egzempliorių skaičius ^s-a38b53824a9b74e4d3d66472
 Gali būti pasirašytas bet koks šios Koncesijos sutarties egzempliorių skaičius, ir šios Sutarties Šalys gali ją sudaryti atskirais egzemplioriais; kiekvienas toks sudaromas Sutarties egzempliorius yra laikomas jos originalia kopija, tačiau visi egzemplioriai kartu sudaro vieną dokumentą.
 
 
-37.       Atskiriamumas ^dd13e9b8b6f2a0483d52a790
+37.       Atskiriamumas ^s-2324acc59bc62ab07f7304c4
 Jei kuri nors šios Koncesijos sutarties nuostata arba dalis negalioja arba nėra vykdytina dėl kokių nors taikomų teisės aktų, ji bus laikoma išbraukta, o likusios šios Koncesijos sutarties nuostatos liks galioti visa apimtimi. Jeigu kuri nors negaliojanti, nevykdytina arba neteisėta šios Koncesijos sutarties nuostata būtų galiojanti, vykdytina ir teisėta išbraukus kurią nors jos dalį, tokia nuostata taikoma atlikus mažiausius būtinus pakeitimus, dėl kurių Šalys susitaria, kad ji taptų galiojančia, teisėta ir vykdytina.
 
 
-38.       SĄNAUDOS IR IŠLAIDOS ^e39533718353363e3545b911
+38.       SĄNAUDOS IR IŠLAIDOS ^s-0dd1f4f4e267da19893ef76c
 Nepažeisdama 24 punkto (Su sutarties nutraukimu susijusių nuostolių atlyginimas) kiekviena Šalis padengia savo pačios sąnaudas ir išlaidas, įskaitant teisės konsultantams teisės klausimais mokamas sumas ir išlaidas, patirtas rengiant šią Koncesijos sutartį.
 
 
-39.       ĮSIPAREIGOJIMŲ NEVYKDYMO ATVEJU MOKAMI DELSPINIGIAI ^385db5464f95c059e3a56c11
+39.       ĮSIPAREIGOJIMŲ NEVYKDYMO ATVEJU MOKAMI DELSPINIGIAI ^s-3d152836a2f59dd051ad1e8a
 Jeigu bet kuri Šalis nesumoka bet kurios pagal šią Koncesijos sutartį arba sprendimą, priimtą dėl šios Koncesijos sutarties, mokėtinos sumos, tokia Šalis įsipareigoja sumokėti kartu su minėta suma Šaliai arba Šalims, kurioms tokia suma turėjo būti sumokėta, EURIBOR plius keturi su puse procento (4,5%) metinių palūkanų dydžio delspinigius (susikaupusius nuo Kalendorinės dienos iki Kalendorinės dienos) už tokią pavėluotą sumokėti sumą nuo mokėjimo dienos iki faktinio sumokėjimo dienos, priėmus teismo sprendimą arba prieš jį priimant.
 
 
-40.       sutarčių (trečiųjų šalių teisių) įstatymas ^f4c5a523cb648ad810632c0b
+40.       sutarčių (trečiųjų šalių teisių) įstatymas ^s-c1e3430526e00845417b24d1
 
 
-40.1     Išskyrus toliau nurodytas turimas teises: ^4d4d8a80fc386a958ce22a2f
+40.1     Išskyrus toliau nurodytas turimas teises: ^s-b8b92f9267de8d3b21c902fe
 
 
-40.1.1          bet kurios Trečiosios Šalies, kuri yra nuo branduolinės atsakomybės apsaugota šalis, teisę priverstinai taikyti 15.1 ir 15.2 punktuose (Branduolinės žalos atlyginimas) nurodytas sąlygos; ^5418d1ec6053bf00fb695f75
+40.1.1          bet kurios Trečiosios Šalies, kuri yra nuo branduolinės atsakomybės apsaugota šalis, teisę priverstinai taikyti 15.1 ir 15.2 punktuose (Branduolinės žalos atlyginimas) nurodytas sąlygos; ^s-f029dc4677a98549840eab34
 
 
-40.1.2          bet kurio „Hitachi, Ltd. Group“, „GE-Hitachi Nuclear Energy Americas LLC“ ir „Global Nuclear Fuel-Americas LLC“ nario teisę priverstinai taikyti 13.12 punkte (Trečiųjų šalių nuostoliai) nurodytas sąlygas; ^5351cdb3f0ad155ec57e1ab0
+40.1.2          bet kurio „Hitachi, Ltd. Group“, „GE-Hitachi Nuclear Energy Americas LLC“ ir „Global Nuclear Fuel-Americas LLC“ nario teisę priverstinai taikyti 13.12 punkte (Trečiųjų šalių nuostoliai) nurodytas sąlygas; ^s-b734d8af276415c45cced0da
 
 
-40.1.3          bet kurio Trečiosios šalies Akcininko (kaip Pasitraukiančio akcininko) teisę priverstinai taikyti šiuose punktuose nurodytas sąlygas: ^cbea821bc1ecb745bb4f3ba6
+40.1.3          bet kurio Trečiosios šalies Akcininko (kaip Pasitraukiančio akcininko) teisę priverstinai taikyti šiuose punktuose nurodytas sąlygas: ^s-890a89cc2f06bad226dd5428
 (A)      16.5.1 punkte (Garantijų pažeidimas);
 (B)       20.2.2, 20.2.3 ir 20.2.4 punktuose (LR Įvykio pabaiga); ir
 (C)       26 punkte (LR įvykis. Privalomasis akcijų perleidimas); ir
 
 
-40.1.4          „Global Nuclear Fuel – Americas, LLC“ ir bet kurios Strateginio investuotojo Susijusios bendrovės, kuri yra Papildomos sutarties šalis, teisę priverstinai taikyti 16.5.3 punkte (Garantijos pažeidimas) nurodytas sąlygas; ir ^76075cdeb90dd8c90572fd11
+40.1.4          „Global Nuclear Fuel – Americas, LLC“ ir bet kurios Strateginio investuotojo Susijusios bendrovės, kuri yra Papildomos sutarties šalis, teisę priverstinai taikyti 16.5.3 punkte (Garantijos pažeidimas) nurodytas sąlygas; ir ^s-f8b432bcc4201368b75b13a7
 
 
-40.1.5          bet kurio Trečiosios šalies Akcininko (kaip Perleidžiančiojo akcininko) teisę priverstinai taikyti 32 punkte (Akcininkų pasirinkimo parduoti sandoris) nurodytas sąlygas, ^2395805c18f019aa00cef1dc
+40.1.5          bet kurio Trečiosios šalies Akcininko (kaip Perleidžiančiojo akcininko) teisę priverstinai taikyti 32 punkte (Akcininkų pasirinkimo parduoti sandoris) nurodytas sąlygas, ^s-5e40e8eced17ef4f58287716
 ir vadovaujantis 40.2 ir 40.4 punktų nuostatomis, Šalimi nesantis subjektas negali taikyti jokios šios Koncesijos sutarties sąlygos pagal 1999 m. Sutarčių (trečiųjų šalių teisių) įstatymą.
 
 
-40.2     Išskyrus tuos atvejus, kai bet kuris siūlomas pakeitimas darytų įtaką Akcininkų teisėms (kaip Pasitraukiančių akcininkų arba Perleidžiančių akcininkų), nurodytoms 26 punkte (LR įvykis. Privalomasis akcijų perleidimas) ar 32 punkte (Akcininkų pasirinkimo parduoti sandoris), bet kurios Trečiosios šalies sutikimas dėl šios Koncesijos sutarties pakeitimo arba nutraukimo nėra būtinas. ^29af841ad895c791de1ac85f
+40.2     Išskyrus tuos atvejus, kai bet kuris siūlomas pakeitimas darytų įtaką Akcininkų teisėms (kaip Pasitraukiančių akcininkų arba Perleidžiančių akcininkų), nurodytoms 26 punkte (LR įvykis. Privalomasis akcijų perleidimas) ar 32 punkte (Akcininkų pasirinkimo parduoti sandoris), bet kurios Trečiosios šalies sutikimas dėl šios Koncesijos sutarties pakeitimo arba nutraukimo nėra būtinas. ^s-1a90872faf67a9abdb5c8237
 
 
-40.3     Siekiant išvengti abejonių ir neatsižvelgiant į Strateginio investuotojo teisių ir pareigų pagal šią sutartį nutraukimo, tais atvejais, kai šioje Koncesijos sutartyje numatyta Akcininko teisė, Strateginis investuotojas turi teisę priverstinai taikyti šią teisę kaip šios Koncesijos sutarties šalis, o ne kaip Trečioji šalis pagal 1999 m. Sutarčių (trečiųjų šalių teisių) įstatymą. ^78560a10073a7d964a1bdada
+40.3     Siekiant išvengti abejonių ir neatsižvelgiant į Strateginio investuotojo teisių ir pareigų pagal šią sutartį nutraukimo, tais atvejais, kai šioje Koncesijos sutartyje numatyta Akcininko teisė, Strateginis investuotojas turi teisę priverstinai taikyti šią teisę kaip šios Koncesijos sutarties šalis, o ne kaip Trečioji šalis pagal 1999 m. Sutarčių (trečiųjų šalių teisių) įstatymą. ^s-8991765fb18ffcfd80bef5fe
 
 
-40.4     Trečiųjų šalių teisių, numatytų 40.1 punkte, negalima visiškai perleisti be išankstinio raštiško visų Šalių sutikimo, išskyrus kaip įsipareigojimų įvykdymo užtikrinimo priemonę ir, siekiant išvengti abejonių, tokios teisės taip pat gali būti įkeistos, užstatytos, apmokestintos arba kitaip suvaržytos be sutikimo. ^b8372db376b6a4fb5c707e41
+40.4     Trečiųjų šalių teisių, numatytų 40.1 punkte, negalima visiškai perleisti be išankstinio raštiško visų Šalių sutikimo, išskyrus kaip įsipareigojimų įvykdymo užtikrinimo priemonę ir, siekiant išvengti abejonių, tokios teisės taip pat gali būti įkeistos, užstatytos, apmokestintos arba kitaip suvaržytos be sutikimo. ^s-a75f49fa2360b4fbcbbabf21
 
 
-41.       partnerystės / tarpininkavimo nebuvimas ^54bfe6cdf36f0f0dc0d00850
+41.       partnerystės / tarpininkavimo nebuvimas ^s-34fedf067ccf9167fc75426b
 Šalys neketina jokia šios Koncesijos sutarties nuostata arba šioje Koncesijos sutartyje minimo dokumento arba joje numatomo susitarimo nuostata padaryti kurios nors Šalies kitos Šalies partnere. Šios Koncesijos sutarties pasirašymas, užbaigimas ir įgyvendinimas nesuteikia, nėra laikomas ir neaiškinamas, jokiai Šaliai teisės veikti kaip bet kurios kitos Šalies tarpininke ir jokia Šalis nėra įgaliota veikti kitos Šalies vardu arba kitaip susaistyti kitą Šalį arba ką nors žadėti kitos Šalies vardu.
 
 
-42.       bendradarbiavimas, susijęS su ENERGIJOS UŽ SAVIKAINĄ STRUKTŪRA ^37924c5192f45b441bf310ef
+42.       bendradarbiavimas, susijęS su ENERGIJOS UŽ SAVIKAINĄ STRUKTŪRA ^s-7d46c794d0b80c3d07a816d2
 
 
-42.1     Šalys pripažįsta ir sutinka, kad PB ir Akcininkai dalyvauja Projekte darydami prielaidą, kad kiekvienas Akcininkas turi teisę iš PB pirkti, o PB turi teisę kiekvienam Akcininkui parduoti NAE pagamintą elektros energiją už kainą, kuri bent jau atitinka PB patirtus kaštus, susijusius su elektros gamyba ir be jokio pelno maržos (faktinės arba numanomos) mokesčių tikslais, proporcingai atitinkamo Akcininko turimai akcijų daliai PB („Realizavimo teisė“). ^c57ec83911a8d19f42d77202
+42.1     Šalys pripažįsta ir sutinka, kad PB ir Akcininkai dalyvauja Projekte darydami prielaidą, kad kiekvienas Akcininkas turi teisę iš PB pirkti, o PB turi teisę kiekvienam Akcininkui parduoti NAE pagamintą elektros energiją už kainą, kuri bent jau atitinka PB patirtus kaštus, susijusius su elektros gamyba ir be jokio pelno maržos (faktinės arba numanomos) mokesčių tikslais, proporcingai atitinkamo Akcininko turimai akcijų daliai PB („Realizavimo teisė“). ^s-1157a119652cff68e04fa94a
 
 
-42.2     Jeigu po Koncesijos dienos Kompetentinga institucija: ^4dbb13ee9799c9539db79e20
+42.2     Jeigu po Koncesijos dienos Kompetentinga institucija: ^s-ca1998ab4e534dc1609201bd
 
 
-42.2.1          nustato, kad prielaida 42.1 punkte Realizavimo teisės atžvilgiu negalioja; arba ^453239cefc81a6cb40edbc29
+42.2.1          nustato, kad prielaida 42.1 punkte Realizavimo teisės atžvilgiu negalioja; arba ^s-6a6db2eb6f5e035c2de12f3c
 
 
-42.2.2          priima sprendimą, dėl kurio Realizavimo teisė nebegalioja arba PB ir Akcininkai nebegali jos įgyvendinti, ^64b3877eeba78a419f133b00
+42.2.2          priima sprendimą, dėl kurio Realizavimo teisė nebegalioja arba PB ir Akcininkai nebegali jos įgyvendinti, ^s-368e1bd10cd321b77c8f3e24
 LR, jei PB to paprašo raštu, padeda PB, teikdama pagrįstą tokiomis aplinkybėmis pagalbą (LR atsižvelgia į tuo metu esančias aplinkybes, įskaitant PB poziciją dėl tikimybės ir laiko, kad Akcininkai spręs dėl GIS, jei tokia pagalba bus suteikta), sukurti bendrai susitartą alternatyvią Projekto struktūrą, kuri įmanomu ir Įstatymų leidžiamu mastu leis iš esmės pasiekti tokį patį rezultatą PB ir Akcininkų naudai, kaip kad leistų pasiekti Realizavimo teisė.
 
 
-43.       KALBA ^b0da9d66fd0e6368927ab0d3
+43.       KALBA ^s-96a795afe2963c98152ece8d
 
 
-43.1     Ši Koncesijos sutartis, yra parengta ir sudaryta anglų ir lietuvių kalbomis. Esant neatitikimams tarp tekstų skirtingomis kalbomis, viršenybę turi tekstas anglų kalba. ^fcda944c1e3e865ffd33c908
+43.1     Ši Koncesijos sutartis, yra parengta ir sudaryta anglų ir lietuvių kalbomis. Esant neatitikimams tarp tekstų skirtingomis kalbomis, viršenybę turi tekstas anglų kalba. ^s-bfd8844b0cf1d7f6b215fab6
 
 
-43.2     Visi pranešimai ir kiti dokumentai, privalomi ar prašomi pateikti įgyvendinant šią Koncesijos sutartį, yra teikiami anglų kalba. ^c71e3d9a1b26a894bc8cb182
+43.2     Visi pranešimai ir kiti dokumentai, privalomi ar prašomi pateikti įgyvendinant šią Koncesijos sutartį, yra teikiami anglų kalba. ^s-40ff869a2398f25b383c7351
 
 
-44.       TAIKOMA TEISĖ ^e1c5645d5768c2bf11bd993f
+44.       TAIKOMA TEISĖ ^s-605fd04e3e247c52a5535e7e
 Šiai Koncesijos sutarčiai (įskaitant 45 punktą (Ginčų sprendimo tvarka ir arbitražas) ir bet kuriems su ja susijusiems arba dėl jos kylantiems nesutartiniams įsipareigojimams yra taikoma Anglijos teisė.
 
 
-45.       GINČŲ SPRENDIMO TVARKA IR ARBITRAŽAS ^c596c3dc392c7fb157c71daf
+45.       GINČŲ SPRENDIMO TVARKA IR ARBITRAŽAS ^s-a0fc2340011af0654ba9750d
 
 
-45.1     Bet kurie iš šios Koncesijos sutarties kylantys arba su ja susiję ginčai, pretenzijos, skirtumai arba neatitikimai, įskaitant visus klausimus dėl šios Sutarties egzistavimo, galiojimo, aiškinimo, vykdymo, pažeidimo ar nutraukimo, taip pat jos negaliojimo pasekmių („Ginčas“) sprendžiami pagal šiame 45 punkte nurodytą tvarką (Ginčų sprendimo tvarka ir arbitražas). ^5ecf0feb55bd29b15bbc2d1d
+45.1     Bet kurie iš šios Koncesijos sutarties kylantys arba su ja susiję ginčai, pretenzijos, skirtumai arba neatitikimai, įskaitant visus klausimus dėl šios Sutarties egzistavimo, galiojimo, aiškinimo, vykdymo, pažeidimo ar nutraukimo, taip pat jos negaliojimo pasekmių („Ginčas“) sprendžiami pagal šiame 45 punkte nurodytą tvarką (Ginčų sprendimo tvarka ir arbitražas). ^s-6b50aac7de1dfefee429cb7c
 
 
-45.2     Ginčą pradedanti šalis įteikia rašytinį pranešimą apie Ginčą kitai šaliai pagal 45.6 punktą („Pranešimas apie ginčą“). Pranešime apie ginčą trumpai aprašomas Ginčo pobūdis ir aplinkybės. ^187811a00e572d844b49a0b0
+45.2     Ginčą pradedanti šalis įteikia rašytinį pranešimą apie Ginčą kitai šaliai pagal 45.6 punktą („Pranešimas apie ginčą“). Pranešime apie ginčą trumpai aprašomas Ginčo pobūdis ir aplinkybės. ^s-b7fabc4514bb760854f8a3bb
 
 
-45.3     Šalys imasi pagrįstų priemonių Ginčui draugiškai išspręsti. Atitinkamoms šalims nepavykus pasiekti draugiško susitarimo per vieną (1) Mėnesį po Pranešimo apie ginčą įteikimo dienos ir Ginčo šalys abipusiu susitarimu nesutinka pratęsti šio termino, Ginčo šalys sutaria ir patvirtina galutinai išspręsti tokį Ginčą arbitražo būdu pagal 45.4 punktą (TIGSC arbitražas) ir tik nesant Tarptautinio investicinių ginčų sprendimo centro („Centras“) jurisdikcijos, Ginčas perduodamas spręsti arbitražo būdu pagal 45.5 punktą (LTAT arbitražas). ^fb0376b923af711fa50ee69c
+45.3     Šalys imasi pagrįstų priemonių Ginčui draugiškai išspręsti. Atitinkamoms šalims nepavykus pasiekti draugiško susitarimo per vieną (1) Mėnesį po Pranešimo apie ginčą įteikimo dienos ir Ginčo šalys abipusiu susitarimu nesutinka pratęsti šio termino, Ginčo šalys sutaria ir patvirtina galutinai išspręsti tokį Ginčą arbitražo būdu pagal 45.4 punktą (TIGSC arbitražas) ir tik nesant Tarptautinio investicinių ginčų sprendimo centro („Centras“) jurisdikcijos, Ginčas perduodamas spręsti arbitražo būdu pagal 45.5 punktą (LTAT arbitražas). ^s-4110be461f147f0bbc42a784
 
 
-45.4     TIGSC arbitražas ^b0c5c2bbfcdee96b2d2b114e
+45.4     TIGSC arbitražas ^s-70694292cce028b7f4524f39
 
 
-45.4.1          Šalys šia Sutartimi sutinka kreiptis į Centrą dėl bet kurio Ginčo sprendimo arbitražo būdu, vadovaudamosi 1965 m. kovo 18 d. Vašingtono konvencija dėl valstybių ir kitų valstybių fizinių bei juridinių asmenų investicinių ginčų sprendimo (toliau – TIGSC konvencija). ^8f44d5f9c405252e51d303ba
+45.4.1          Šalys šia Sutartimi sutinka kreiptis į Centrą dėl bet kurio Ginčo sprendimo arbitražo būdu, vadovaudamosi 1965 m. kovo 18 d. Vašingtono konvencija dėl valstybių ir kitų valstybių fizinių bei juridinių asmenų investicinių ginčų sprendimo (toliau – TIGSC konvencija). ^s-00afeaba92cbe060a70538a5
 
 
-45.4.2          Šalys toliau susitaria, kad: ^8a3bf0da1417073c30b90bf0
+45.4.2          Šalys toliau susitaria, kad: ^s-05f03ea040929e3e7b0f716c
 (A)      Ši Koncesijos sutartis yra „investicija“ pagal TIGSC konvencijos 25 straipsnį;
 (B)       bet kuris Ginčas laikomas „teisiniu, tiesiogiai iš investicijos kylančiu ginču“ pagal TIGSC konvencijos 25 Straipsnio 1 punktą; ir
 (C)       PB ir Strateginis investuotojas yra „kitos Susitariančiosios valstybės juridinis asmuo“ pagal TIGSC konvencijos 25 Straipsnio 2 punkto (b) papunktį.
 
 
-45.4.3          Pagal šį 45 punktą (Ginčų sprendimo tvarka ir arbitražas) duodamas sutikimas laikomas tinkamu šių reikalavimų įvykdymui: ^08b23a9fc0692e799f2b122c
+45.4.3          Pagal šį 45 punktą (Ginčų sprendimo tvarka ir arbitražas) duodamas sutikimas laikomas tinkamu šių reikalavimų įvykdymui: ^s-f7b22acd62a4ed8a30ff510e
 (A)      ginčo šalių „rašytinis sutikimas“ pagal TIGSC konvencijos 25 Straipsnį; ir
 (B)       „rašytinis susitarimas“ pagal Niujorko konvencijos II straipsnį.
 
 
-45.4.4          Arbitražo pagal TIGSC konvenciją atveju, visi posėdžiai vyksta Londone, Anglijoje, nebent ginčo šalys susitaria kitaip. ^519c39a44cf056d8e35b5664
+45.4.4          Arbitražo pagal TIGSC konvenciją atveju, visi posėdžiai vyksta Londone, Anglijoje, nebent ginčo šalys susitaria kitaip. ^s-9688dd07696c0c992a1e54ad
 
 
-45.5     LTAT arbitražas ^ca5ae44f488d66553ccd0969
+45.5     LTAT arbitražas ^s-a836f1bc0f103de255568078
 
 
-45.5.1          Nesant Centro jurisdikcijos Ginčui išspręsti, visi ginčai yra perduodami ir galutinai sprendžiami arbitražo būdu pagal LTAT arbitražo taisykles (pagal šį 45.5 punktą (LTAT arbitražas), toliau – Taisyklės). ^49e8f7d8daf1888670c7d098
+45.5.1          Nesant Centro jurisdikcijos Ginčui išspręsti, visi ginčai yra perduodami ir galutinai sprendžiami arbitražo būdu pagal LTAT arbitražo taisykles (pagal šį 45.5 punktą (LTAT arbitražas), toliau – Taisyklės). ^s-7db30b4f3f12e43c4ef5bd5f
 
 
-45.5.2          Taisyklės, pateikiant nuorodą, yra įtrauktos į šį 45.5 punktą (LTAT arbitražas) ir šiame 45.5 punkte (LTAT arbitražas) naudojamos iš didžiosios raidės rašomos sąvokos, kurios nėra apibrėžtos šioje Koncesijos sutartyje, turi Taisyklėse suteiktą prasmę. ^bcfd4296a0895333a113bad5
+45.5.2          Taisyklės, pateikiant nuorodą, yra įtrauktos į šį 45.5 punktą (LTAT arbitražas) ir šiame 45.5 punkte (LTAT arbitražas) naudojamos iš didžiosios raidės rašomos sąvokos, kurios nėra apibrėžtos šioje Koncesijos sutartyje, turi Taisyklėse suteiktą prasmę. ^s-19b4186ff6e9d5c9a73b1c9b
 
 
-45.5.3          Arbitražo posėdžių vieta yra Londonas, Anglija. ^0c8639e4c915bce46a55d50c
+45.5.3          Arbitražo posėdžių vieta yra Londonas, Anglija. ^s-7b105a7e8c50ccd3f1de3b51
 
 
-45.5.4          Nustatomas arbitrų skaičius – trys. Kiekviena Šalis skiria vieną arbitrą. Du Šalių paskirtieji arbitrai (konsultuodamiesi su juos paskyrusiomis Šalimis) per 20 Darbo dienų nuo antrojo arbitro paskyrimo susitaria dėl trečiojo arbitro, kuris skiriamas arbitražo teismo pirmininku. Jeigu Šalys per 20 Darbo dienų paskyrus antrąjį arbitrą nesusitaria, LTAT Teismas paskiria trečiąjį arbitrą arbitražo teismo pirmininku. ^628565068203bccc4b066808
+45.5.4          Nustatomas arbitrų skaičius – trys. Kiekviena Šalis skiria vieną arbitrą. Du Šalių paskirtieji arbitrai (konsultuodamiesi su juos paskyrusiomis Šalimis) per 20 Darbo dienų nuo antrojo arbitro paskyrimo susitaria dėl trečiojo arbitro, kuris skiriamas arbitražo teismo pirmininku. Jeigu Šalys per 20 Darbo dienų paskyrus antrąjį arbitrą nesusitaria, LTAT Teismas paskiria trečiąjį arbitrą arbitražo teismo pirmininku. ^s-3d203b63934994a6d14446d6
 
 
-45.5.5          Jeigu byloje dalyvauja keli ieškovai ir (arba) keli atsakovai, visi ieškovai ir visi atsakovai deda pastangas susitarti dėl jų atitinkamų skiriamų asmenų. Jeigu byloje dalyvauja keli ieškovai ir jie nepaskiria savo atitinkamų arbitrų prašyme pradėti arbitražo procesą, arbitrą jų vardu pagal savo Taisykles skiria LTAT teismas. Jeigu byloje dalyvauja keli ieškovai ir jie nepaskiria savo atitinkamų arbitrų per dvidešimt (20) Darbo dienų nuo atitinkamo pranešimo apie ginčo sprendimą arbitražo būdu datos, ir ją įskaitant, arbitrą jų vardu pagal savo atitinkamas taisykles skiria LTAT Teismas. Paskyrimas tokiomis aplinkybėmis nedaro įtakos jokiems kitų arbitražo Šalių anksčiau paskirtiems ar patvirtintiems arbitrams, ir likęs arbitras yra skiriamas pagal Taisykles. Du šalių (arba LTAT Teismo) paskirtieji arbitrai per dvidešimt (20) Darbo dienų nuo antrojo arbitro paskyrimo susitaria dėl trečiojo arbitro, kuris skiriamas arbitražo teismo pirmininku. Jeigu Šalys nesusitaria per dvidešimt (20) Darbo dienų nuo antrojo arbitro paskyrimo, LTAT Teismas įvardija ir skiria trečią arbitrą būti arbitražo teismo pirmininku. ^0741625fc500eed59274cfb6
+45.5.5          Jeigu byloje dalyvauja keli ieškovai ir (arba) keli atsakovai, visi ieškovai ir visi atsakovai deda pastangas susitarti dėl jų atitinkamų skiriamų asmenų. Jeigu byloje dalyvauja keli ieškovai ir jie nepaskiria savo atitinkamų arbitrų prašyme pradėti arbitražo procesą, arbitrą jų vardu pagal savo Taisykles skiria LTAT teismas. Jeigu byloje dalyvauja keli ieškovai ir jie nepaskiria savo atitinkamų arbitrų per dvidešimt (20) Darbo dienų nuo atitinkamo pranešimo apie ginčo sprendimą arbitražo būdu datos, ir ją įskaitant, arbitrą jų vardu pagal savo atitinkamas taisykles skiria LTAT Teismas. Paskyrimas tokiomis aplinkybėmis nedaro įtakos jokiems kitų arbitražo Šalių anksčiau paskirtiems ar patvirtintiems arbitrams, ir likęs arbitras yra skiriamas pagal Taisykles. Du šalių (arba LTAT Teismo) paskirtieji arbitrai per dvidešimt (20) Darbo dienų nuo antrojo arbitro paskyrimo susitaria dėl trečiojo arbitro, kuris skiriamas arbitražo teismo pirmininku. Jeigu Šalys nesusitaria per dvidešimt (20) Darbo dienų nuo antrojo arbitro paskyrimo, LTAT Teismas įvardija ir skiria trečią arbitrą būti arbitražo teismo pirmininku. ^s-e7279511b112e67bf0efd59b
 
 
-45.5.6          Kiekviena Šalis aiškiai susitaria ir sutinka su arbitražo teismo įvardijimo ir paskyrimo tvarkos; jei pagal šį Punktą neleidžiama pasirinkti savo arbitro, neatšaukimai ir besąlygiškai atsisako bet kurios teisės pasirinkti savo arbitrą. ^392223bdd2ea15da33a5d099
+45.5.6          Kiekviena Šalis aiškiai susitaria ir sutinka su arbitražo teismo įvardijimo ir paskyrimo tvarkos; jei pagal šį Punktą neleidžiama pasirinkti savo arbitro, neatšaukimai ir besąlygiškai atsisako bet kurios teisės pasirinkti savo arbitrą. ^s-1b70eb9983b6a6d89c334f9f
 
 
-45.5.7          Anglijos teismų jurisdikcija pagal 1996 m. Arbitražo įstatymo 45 ir 69 skyrius neįtraukiama. ^cd3ce987c318a83a6213e7df
+45.5.7          Anglijos teismų jurisdikcija pagal 1996 m. Arbitražo įstatymo 45 ir 69 skyrius neįtraukiama. ^s-203f326b5da1bb5348cda767
 
 
-45.5.8          Jeigu arbitražo procesas jau yra pradėtas pagal 45.5 punktą (LTAT arbitražas) ar bet kurią Susijusią sutartį taikant atitinkamą LTAT nuostatą („Ankstesnis arbitražo procesas“), ir šios Sutarties Šalis arba Susijusios sutarties šalis tvirtina, kad ginčas yra kilęs dėl dalykų, kurie yra iš esmės susiję su tomis pačiomis šalimis, ar dalykais, nustatytais pagal Ankstesnius arbitražo procesus („Susijęs ginčas“), tokia šalis gali siekti perduoti svarstyti klausimą Ankstesnio arbitražo proceso teismui. Šalys susitaria, kad Ankstesnio arbitražo proceso teismas turi teisę savo nuožiūra, atsižvelgdamas į teisingumo principus ir efektyvumo reikalavimus, taip pat proceso etapą ir kitas svarbias aplinkybes, išspręsti Ankstesnio arbitražo proceso Susijusį ginčą tokiomis sąlygomis, kokios jam atrodo tinkamos. ^18afdd45ad1ec481a0d78bb4
+45.5.8          Jeigu arbitražo procesas jau yra pradėtas pagal 45.5 punktą (LTAT arbitražas) ar bet kurią Susijusią sutartį taikant atitinkamą LTAT nuostatą („Ankstesnis arbitražo procesas“), ir šios Sutarties Šalis arba Susijusios sutarties šalis tvirtina, kad ginčas yra kilęs dėl dalykų, kurie yra iš esmės susiję su tomis pačiomis šalimis, ar dalykais, nustatytais pagal Ankstesnius arbitražo procesus („Susijęs ginčas“), tokia šalis gali siekti perduoti svarstyti klausimą Ankstesnio arbitražo proceso teismui. Šalys susitaria, kad Ankstesnio arbitražo proceso teismas turi teisę savo nuožiūra, atsižvelgdamas į teisingumo principus ir efektyvumo reikalavimus, taip pat proceso etapą ir kitas svarbias aplinkybes, išspręsti Ankstesnio arbitražo proceso Susijusį ginčą tokiomis sąlygomis, kokios jam atrodo tinkamos. ^s-ea3f1116f02330e7c9def28f
 
 
-45.5.9          Jeigu pagal 45.5 punktą (LTAT arbitražas) ir be kurią Susijusią sutartį pradėtas daugiau nei vienas arbitražo procesas ir bet kuri Šalis tvirtina, kad du arba daugiau arbitražo procesų yra iš esmės susiję ir (arba) juose dalyvauja tos pačios šalys, ir visus dalykus reikia spręsti viename teismo procese, pirmasis paskirtasis proceso arbitražo teismas turi teisę nustatyti, atsižvelgdamas į teisingumo principus ir efektyvumo reikalavimus, taip pat proceso etapą ir kitas svarbias aplinkybes, ar arbitražo proceso metu turi būti sprendžiamas visas dalykas ar jo dalis tokiomis sąlygomis, kokios jam atrodo tinkamos. Tokiu atveju, antrojo arba vėlesnio arbitražo proceso metu paskirtas arbitražo teismas turi teisę sustabdyti teismo procesą. ^6a2522254cf0c828634b610d
+45.5.9          Jeigu pagal 45.5 punktą (LTAT arbitražas) ir be kurią Susijusią sutartį pradėtas daugiau nei vienas arbitražo procesas ir bet kuri Šalis tvirtina, kad du arba daugiau arbitražo procesų yra iš esmės susiję ir (arba) juose dalyvauja tos pačios šalys, ir visus dalykus reikia spręsti viename teismo procese, pirmasis paskirtasis proceso arbitražo teismas turi teisę nustatyti, atsižvelgdamas į teisingumo principus ir efektyvumo reikalavimus, taip pat proceso etapą ir kitas svarbias aplinkybes, ar arbitražo proceso metu turi būti sprendžiamas visas dalykas ar jo dalis tokiomis sąlygomis, kokios jam atrodo tinkamos. Tokiu atveju, antrojo arba vėlesnio arbitražo proceso metu paskirtas arbitražo teismas turi teisę sustabdyti teismo procesą. ^s-826850e2089d5273229d6031
 
 
-45.5.10        Pagal 45.3 ir 45.4 punktus (TIGSC arbitražas), nesant Centro jurisdikcijos ir perdavus Ginčą spręsti arbitražo būdu pagal 45.5 punktą (LTAT arbitražas), Ginčas gali būti išspręstas pagal tą patį arbitražo procesą, kaip ir bet kuris kitas ginčas, iškilęs dėl bet kurios kitos Susijusios sutarties, netgi dalyvaujant kitoms šalims nei šios Sutarties Šalys. ^e4f36190bd6387fa731c1974
+45.5.10        Pagal 45.3 ir 45.4 punktus (TIGSC arbitražas), nesant Centro jurisdikcijos ir perdavus Ginčą spręsti arbitražo būdu pagal 45.5 punktą (LTAT arbitražas), Ginčas gali būti išspręstas pagal tą patį arbitražo procesą, kaip ir bet kuris kitas ginčas, iškilęs dėl bet kurios kitos Susijusios sutarties, netgi dalyvaujant kitoms šalims nei šios Sutarties Šalys. ^s-c74b39494ecc568b2b02b133
 
 
-45.5.11        Bet kuris atsakovas, nurodytas prašyme pradėti arbitražo procesą, gali prisijungti prie bet kurios kitos šalies bet kuriame arbitražo procese pagal šią Sutartį, jeigu: ^0a4268bd056c727207c730ae
+45.5.11        Bet kuris atsakovas, nurodytas prašyme pradėti arbitražo procesą, gali prisijungti prie bet kurios kitos šalies bet kuriame arbitražo procese pagal šią Sutartį, jeigu: ^s-9ae8590032c6cda386cf09e2
 (A)      jis prisijungia prie šalies dėl ginčo iš esmės susijusio su Ginču, dėl kurio pradėtas arbitražo procesas pagal 45.5 punktą (LTAT arbitražas), ar Susijusiu ginču, dėl kurio buvo pateiktas prašymas pradėti arbitražo procesą; ir
 (B)       apie tokį sprendimą prisijungti prie šalies siunčiamas pranešimas raštu LTAT teismui ir kitoms Šalims per 20 Darbo dienų nuo tokio atsakovo prašymo pradėti arbitražo procesą gavimo, ar per ilgesnį laiką, kokį gali nustatyti LTAT teismas ar arbitrai.
 
 
-45.5.12        Arbitražo teismas atitinkamo arbitražo teismo proceso metu turi teisę nustatyti, ar toks prisijungimas yra tinkamas, atsižvelgdamas į teisingumo principus ir efektyvumo reikalavimus bei visas kitas svarbias aplinkybes. ^7777b50cfafc4dd24107bc32
+45.5.12        Arbitražo teismas atitinkamo arbitražo teismo proceso metu turi teisę nustatyti, ar toks prisijungimas yra tinkamas, atsižvelgdamas į teisingumo principus ir efektyvumo reikalavimus bei visas kitas svarbias aplinkybes. ^s-81327f17b3e766bc8015906e
 
 
-45.5.13        Kiekviena iš Šalių aiškiai sutinka, kad arbitražo procese dėl Ginčo, dėl kurio pradėtas arbitražo procesas pagal 45.5 punktą (LTAT arbitražas), ar bet kokio Susijusio ginčo tokio Ginčo šalies prašymu apjungti šalis ar konsoliduoti ginčus ar arbitražo procesus prie jų gali prisijungti bet kokia šalis. ^8d804c47dce4c13671e372f0
+45.5.13        Kiekviena iš Šalių aiškiai sutinka, kad arbitražo procese dėl Ginčo, dėl kurio pradėtas arbitražo procesas pagal 45.5 punktą (LTAT arbitražas), ar bet kokio Susijusio ginčo tokio Ginčo šalies prašymu apjungti šalis ar konsoliduoti ginčus ar arbitražo procesus prie jų gali prisijungti bet kokia šalis. ^s-09282817155df6d3cbd81f6f
 
 
-45.5.14        Bet kuri prisijungusi šalis gali teikti priešieškinį bet kuriai Šaliai, jeigu: ^93bd980cf41b23b856effbc0
+45.5.14        Bet kuri prisijungusi šalis gali teikti priešieškinį bet kuriai Šaliai, jeigu: ^s-d77c9f477c123abd0652ce38
 (A)      toks priešieškinis yra teikiamas dėl Ginčo ar dėl Susijusio ginčo, iš esmės susijusio su Ginču, dėl kurio teikiamas prašymas pradėti arbitražo procesą; ir
 (B)       apie tokį priešieškinį LTAT Teismas ir visos kitos šalys yra informuojamos arba per dvidešimt (20) Darbo dienų nuo tos dienos, kai tokia šalis gauna pranešimą apie prašymą pradėti arbitražo procesą, ar per ilgesnį laiką, kurį gali nustatyti LTAT Teismas arba arbitrai.
 
 
-45.5.15        Bet kuri prisijungusi Šalis yra susaistyta tokio arbitražo teismo priimto sprendimo, netgi, jeigu tokia Šalis nusprendžia nedalyvauti arbitražo procese. ^f089c2a12fb29f905607e65c
+45.5.15        Bet kuri prisijungusi Šalis yra susaistyta tokio arbitražo teismo priimto sprendimo, netgi, jeigu tokia Šalis nusprendžia nedalyvauti arbitražo procese. ^s-4c26b0edea389928139b5383
 
 
-45.5.16        Šalys sutinka, kad kuriai nors šaliai įstojus į arbitražo procesą, ar konsolidavus procesus, Šalys gali paprašyti LTAT Teismo nustatyti avansinius mokėjimus pagal išlaidas, susijusius su kiekvienu su procesu susijusiu ieškiniu, priešieškiniu ar priepriešiniu ieškiniu, ir Šalys sutinka dėk tokio prašymo pateikimo. ^2fa24d41f6bfcd2496276214
+45.5.16        Šalys sutinka, kad kuriai nors šaliai įstojus į arbitražo procesą, ar konsolidavus procesus, Šalys gali paprašyti LTAT Teismo nustatyti avansinius mokėjimus pagal išlaidas, susijusius su kiekvienu su procesu susijusiu ieškiniu, priešieškiniu ar priepriešiniu ieškiniu, ir Šalys sutinka dėk tokio prašymo pateikimo. ^s-2f9f397dadd48623cdb60a56
 
 
-45.6     Pranešimai ^52c28a32106b2dd3831b0ac5
+45.6     Pranešimai ^s-488df4955b77a44f5852986d
 
 
-45.6.1          Arbitražo proceso, numatyto 45 punkte (Ginčų sprendimo tvarka ir arbitražas), kalba yra anglų kalba. Visi su teismo procesu susiję pateikiami dokumentai surašomi anglų kalba arba, jei kita kalba, turi būti išversti į anglų kalbą. ^ff641d68edad5bafaf45d992
+45.6.1          Arbitražo proceso, numatyto 45 punkte (Ginčų sprendimo tvarka ir arbitražas), kalba yra anglų kalba. Visi su teismo procesu susiję pateikiami dokumentai surašomi anglų kalba arba, jei kita kalba, turi būti išversti į anglų kalbą. ^s-ea0897e47abe4fe518e59b5b
 
 
-45.6.2          Pranešimas apie ginčą pagal 45 punktą (Ginčų sprendimo tvarka ir arbitražas) siunčiamas registruotu laišku adresu, nurodytu pranešimams siųsti šios Koncesijos sutarties 33.1 punkte (Pranešimai). ^8d170d981a8fe08dbde05318
+45.6.2          Pranešimas apie ginčą pagal 45 punktą (Ginčų sprendimo tvarka ir arbitražas) siunčiamas registruotu laišku adresu, nurodytu pranešimams siųsti šios Koncesijos sutarties 33.1 punkte (Pranešimai). ^s-729d65e9dcca892352df40a6
 
 
-45.7     Procesiniai veiksmai ^1e4301616a115261b0b32e73
+45.7     Procesiniai veiksmai ^s-777666ede25e726e46623e71
 
 
-45.7.1          LR neatšaukiamai skiria Lietuvos Respublikos ambasadą Didžiosios Britanijos ir Šiaurės Airijos Jungtinėje Karalystėje būti atstove Sent Džeimso rūmuose arbitražo procedūrose ir kitose teismo procedūrose, įskaitant procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo priimtą sprendimą, pagal šią Koncesijos sutartį. Jei bet kuris proceso atstovu paskirtas subjektas negali dėl bet kurios priežasties vykdyti šių pareigų pagal šį 45.7 punktą (Procesiniai veiksmai), LR nedelsdama skiria kitą atstovą. To nepadarius, šių procedūrų ieškovas (arba visi ieškovai) gali paskirti kitą atstovą. ^886e2308f14aca33b22cba58
+45.7.1          LR neatšaukiamai skiria Lietuvos Respublikos ambasadą Didžiosios Britanijos ir Šiaurės Airijos Jungtinėje Karalystėje būti atstove Sent Džeimso rūmuose arbitražo procedūrose ir kitose teismo procedūrose, įskaitant procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo priimtą sprendimą, pagal šią Koncesijos sutartį. Jei bet kuris proceso atstovu paskirtas subjektas negali dėl bet kurios priežasties vykdyti šių pareigų pagal šį 45.7 punktą (Procesiniai veiksmai), LR nedelsdama skiria kitą atstovą. To nepadarius, šių procedūrų ieškovas (arba visi ieškovai) gali paskirti kitą atstovą. ^s-0c6d48d423cbef71cf9c4012
 
 
-45.7.2          PB neatšaukiamai skiria [•] pagal šią Koncesijos sutartį būti atstovu arbitražo procedūrose ir kitose teismo procedūrose, įskaitant procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo priimtą sprendimą. Jei bet kuris proceso atstovu paskirtas subjektas negali dėl bet kurios priežasties vykdyti šių pareigų pagal šį 45.7 punktą (Procesiniai veiksmai), PB nedelsdamas skiria kitą atstovą. To nepadarius, šių procedūrų ieškovas (arba visi ieškovai) gali paskirti kitą atstovą. ^a415b54af42ff0ceb5f02afb
+45.7.2          PB neatšaukiamai skiria [•] pagal šią Koncesijos sutartį būti atstovu arbitražo procedūrose ir kitose teismo procedūrose, įskaitant procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo priimtą sprendimą. Jei bet kuris proceso atstovu paskirtas subjektas negali dėl bet kurios priežasties vykdyti šių pareigų pagal šį 45.7 punktą (Procesiniai veiksmai), PB nedelsdamas skiria kitą atstovą. To nepadarius, šių procedūrų ieškovas (arba visi ieškovai) gali paskirti kitą atstovą. ^s-962a1cb4d94cabb65ba06044
 
 
-45.7.3          Strateginis investuotojas neatšaukiamai skiria [•] pagal šią Koncesijos sutartį būti atstovu arbitražo procedūrose ir kitose teismo procedūrose, įskaitant procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo priimtą sprendimą. Jei bet kuris proceso atstovu paskirtas subjektas negali dėl bet kurios priežasties vykdyti šių pareigų pagal šį 45.7 punktą (Procesiniai veiksmai), Strateginis investuotojas nedelsdamas skiria kitą atstovą. To nepadarius, šių procedūrų ieškovas (arba visi ieškovai) gali paskirti kitą atstovą. ^e3be97f1c976e282a2a03cd2
+45.7.3          Strateginis investuotojas neatšaukiamai skiria [•] pagal šią Koncesijos sutartį būti atstovu arbitražo procedūrose ir kitose teismo procedūrose, įskaitant procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo priimtą sprendimą. Jei bet kuris proceso atstovu paskirtas subjektas negali dėl bet kurios priežasties vykdyti šių pareigų pagal šį 45.7 punktą (Procesiniai veiksmai), Strateginis investuotojas nedelsdamas skiria kitą atstovą. To nepadarius, šių procedūrų ieškovas (arba visi ieškovai) gali paskirti kitą atstovą. ^s-7140718f8f26113173942418
 
 
-45.7.4          Šalys susitaria, kad atstovui procese nepranešus apie bet kurį procesą, tinkamų teismo procedūrų galiojimas lieka nepakitęs. Šis 45.7 punktas (Procesiniai veiksmai) nedaro įtakos jokiam įstatymu leidžiamam procesinių veiksmų būdui. ^0208df9d7fc5de3a36ddea58
+45.7.4          Šalys susitaria, kad atstovui procese nepranešus apie bet kurį procesą, tinkamų teismo procedūrų galiojimas lieka nepakitęs. Šis 45.7 punktas (Procesiniai veiksmai) nedaro įtakos jokiam įstatymu leidžiamam procesinių veiksmų būdui. ^s-d6bf00dc276638e665768c94
 
 
-46.       Teisių į IMUNITETą ATSISAKYMAS ^28653ab9a102be8da571aef7
+46.       Teisių į IMUNITETą ATSISAKYMAS ^s-ab795ca22f34dc95cc814828
 
 
-46.1     LR neatšaukiamai ir besąlygiškai atsisako savo teisių į imunitetą visų arbitražo procedūrų ir be arbitražo procedūrų, kitų teismo procedūrų bet kurioje jurisdikcijoje atžvilgiu, įskaitant imunitetą į procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo pagal šią Koncesijos sutartį priimtą sprendimą, įskaitant teisę atsisakyti vykdyti procesinius veiksmus bei nepripažinti bet kurio teismo jurisdikcijos, ir įskaitant imunitetą išieškojimo vykdymui jos turto atžvilgiu, išskyrus Išimtinę nuosavybę (kaip apibrėžta toliau). ^e969789bfd3ba29bd43f20a4
+46.1     LR neatšaukiamai ir besąlygiškai atsisako savo teisių į imunitetą visų arbitražo procedūrų ir be arbitražo procedūrų, kitų teismo procedūrų bet kurioje jurisdikcijoje atžvilgiu, įskaitant imunitetą į procedūras, skirtas įgyvendinti, pripažinti ar vykdyti arbitražo teismo pagal šią Koncesijos sutartį priimtą sprendimą, įskaitant teisę atsisakyti vykdyti procesinius veiksmus bei nepripažinti bet kurio teismo jurisdikcijos, ir įskaitant imunitetą išieškojimo vykdymui jos turto atžvilgiu, išskyrus Išimtinę nuosavybę (kaip apibrėžta toliau). ^s-10f61efdf4fe395038a66aec
 
 
-46.2     Siekiant išvengti abejonių, LR neatšaukiamai ir besąlygiškai: (i) patvirtina Anglijos teismų ir bet kurių kitų teismų teismingumą pripažįstant bet kokius Anglijos teismų sprendimus ar nutarimus, patvirtinančius arbitražo procesą dėl Ginčo pagal šią Sutartį ar arbitražo teismo sprendimą dėl Ginčo pagal šią Sutartį; ir (ii) 1978 m. Jungtinės Karalystės Valstybės imuniteto įstatymo prasme sutinka ir atsisako savo teisės reikalauti vykdymo imuniteto dėl bet kokio sprendimo, ar nutarimo, patvirtinančio arbitražo procesą dėl Ginčo pagal šią Sutartį ar arbitražo sprendimą dėl bet kokio Ginčo, įgyvendinimo, ir pripažįsta teisę naudotis gynimo priemonėmis Anglijos ar bet kurios kitos jurisdikcijos teisme prieš priimant galutinį arbitražo sprendimą dėl Ginčo pagal šią Sutartį ar jį priėmus, įskaitant: ^dcd958d6bfdc345ff7d081fb
+46.2     Siekiant išvengti abejonių, LR neatšaukiamai ir besąlygiškai: (i) patvirtina Anglijos teismų ir bet kurių kitų teismų teismingumą pripažįstant bet kokius Anglijos teismų sprendimus ar nutarimus, patvirtinančius arbitražo procesą dėl Ginčo pagal šią Sutartį ar arbitražo teismo sprendimą dėl Ginčo pagal šią Sutartį; ir (ii) 1978 m. Jungtinės Karalystės Valstybės imuniteto įstatymo prasme sutinka ir atsisako savo teisės reikalauti vykdymo imuniteto dėl bet kokio sprendimo, ar nutarimo, patvirtinančio arbitražo procesą dėl Ginčo pagal šią Sutartį ar arbitražo sprendimą dėl bet kokio Ginčo, įgyvendinimo, ir pripažįsta teisę naudotis gynimo priemonėmis Anglijos ar bet kurios kitos jurisdikcijos teisme prieš priimant galutinį arbitražo sprendimą dėl Ginčo pagal šią Sutartį ar jį priėmus, įskaitant: ^s-a4a4681ab8dd6740b3eff154
 
 
-46.2.1          teisės gynimo priemones teismui priimant laikiną ar galutinį sprendimą uždrausti tam tikrus veiksmus ar išieškoti iš bet kurios nuosavybės, išskyrus Išimtinę nuosavybę; ^6d42771c41e0ebf36b68dee8
+46.2.1          teisės gynimo priemones teismui priimant laikiną ar galutinį sprendimą uždrausti tam tikrus veiksmus ar išieškoti iš bet kurios nuosavybės, išskyrus Išimtinę nuosavybę; ^s-45d7468c5a59e5133f49233c
 
 
-46.2.2          jo lėšų, išskyrus Išimtinę nuosavybę, areštą; ^ef275f95b233eaa0f196083f
+46.2.2          jo lėšų, išskyrus Išimtinę nuosavybę, areštą; ^s-d6bf9388d886a096d1bad4d6
 
 
-46.2.3          išieškojimo nukreipimą į bet kokį turtą, pajamas ar bet kokį kitą turtą, išskyrus Išimtinę nuosavybę; ir ^9cef51b6a759261362e5f93e
+46.2.3          išieškojimo nukreipimą į bet kokį turtą, pajamas ar bet kokį kitą turtą, išskyrus Išimtinę nuosavybę; ir ^s-0d75bb7e31c21d1008acf517
 
 
-46.2.4          bet kokį kitą teisių gynybos būdą, kuris yra galimas pagal taikytiną teisę, kuris yra susijęs su jos turtu, išskyrus Išimtinę nuosavybę. ^dd2e04c379bee50469d78a0d
+46.2.4          bet kokį kitą teisių gynybos būdą, kuris yra galimas pagal taikytiną teisę, kuris yra susijęs su jos turtu, išskyrus Išimtinę nuosavybę. ^s-b00f09f9df658e1ddf386078
 
 
-46.3     „Išimtinė nuosavybė“ reiškia: ^9c2dc4dba62892a73a9be2ee
+46.3     „Išimtinė nuosavybė“ reiškia: ^s-21b5eaf75476bcc76396d739
 
 
-46.3.1          atstovybės patalpas, kaip apibrėžta 1961 m. Vienos konvencijoje dėl diplomatinių santykių; ^a5bbfa84736141b468850692
+46.3.1          atstovybės patalpas, kaip apibrėžta 1961 m. Vienos konvencijoje dėl diplomatinių santykių; ^s-a25095e557829558c215538f
 
 
-46.3.2          konsulines patalpas, kaip apibrėžta 1963 m. Vienos konvencijoje dėl konsulinių santykių; ^ac4e42ccde22b16387ba5330
+46.3.2          konsulines patalpas, kaip apibrėžta 1963 m. Vienos konvencijoje dėl konsulinių santykių; ^s-9f5e1c688e3ab3474e30d6d1
 
 
-46.3.3          nuosavybę, įskaitant bet kurią banko sąskaitą, kuri yra naudojama arba ketinama naudoti vykdant diplomatines funkcijas Valstybėje arba jos konsulinėse apygardose, specialiose atstovybėse, tarptautinių organizacijų atstovybėse arba deleguojant į tarptautinių organizacijų įstaigas arba į tarptautines konferencijas; ^6e05dbc0da607fd8292617ce
+46.3.3          nuosavybę, įskaitant bet kurią banko sąskaitą, kuri yra naudojama arba ketinama naudoti vykdant diplomatines funkcijas Valstybėje arba jos konsulinėse apygardose, specialiose atstovybėse, tarptautinių organizacijų atstovybėse arba deleguojant į tarptautinių organizacijų įstaigas arba į tarptautines konferencijas; ^s-301a154d1fa7fc9fd632d1b1
 
 
-46.3.4          karinio pobūdžio nuosavybę arba nuosavybę, naudojamą arba ketinamą naudoti vykdant karines funkcijas; ^f0713ab35b116a484873b7f8
+46.3.4          karinio pobūdžio nuosavybę arba nuosavybę, naudojamą arba ketinamą naudoti vykdant karines funkcijas; ^s-fea15003bf2f8967b44e9b58
 
 
-46.3.5          centrinio banko nuosavybę arba kitą Valstybės pinigų instituciją; ^6321fcb0750b69089c6a8029
+46.3.5          centrinio banko nuosavybę arba kitą Valstybės pinigų instituciją; ^s-60c5df0ea8e2090e82cea940
 
 
-46.3.6          nuosavybę, sudarančią Valstybės kultūrinio paveldo dalį arba jos archyvų dalį ir nepateiktą parduoti bei neketinamą parduoti nuosavybę; ir ^d3f21f77709dc48cad62b966
+46.3.6          nuosavybę, sudarančią Valstybės kultūrinio paveldo dalį arba jos archyvų dalį ir nepateiktą parduoti bei neketinamą parduoti nuosavybę; ir ^s-7cc097b497f26c4998639f66
 
 
-46.3.7          nuosavybę, sudarančią mokslinio, kultūrinio arba istorinio intereso objektų eksponavimą ir nepateiktą parduoti bei neketinamą parduoti nuosavybę. ^a9062338aaa80c2efed9f5dd
+46.3.7          nuosavybę, sudarančią mokslinio, kultūrinio arba istorinio intereso objektų eksponavimą ir nepateiktą parduoti bei neketinamą parduoti nuosavybę. ^s-db6c11909f6a61d5d165432e
 
 
-46.4     Siekiant išvengti abejonių, Šalys aiškiai pareiškia ir patvirtina, kad ši Koncesijos sutartis yra komercinis dokumentas, o ne valstybės ar vyriausybės aktas. ^818ac5dd72c4c2a422f38829
+46.4     Siekiant išvengti abejonių, Šalys aiškiai pareiškia ir patvirtina, kad ši Koncesijos sutartis yra komercinis dokumentas, o ne valstybės ar vyriausybės aktas. ^s-104e7a8a5cfdddf2dd1caf10
 
 TAI PALIUDYDAMOS Šalys šią Koncesijos sutartį sudarė ir pasirašė aukščiau nurodytą datą
 
@@ -6180,7 +6185,7 @@ SĄVOKOS
 
 
  „Statybos ir eksploatavimo licencija“
- pagal 2011 m. birželio 28 d. Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 nuostatas išduota licencija statyti ir eksploatuoti branduolinės energetikos objektą ar objektus;
+ pagal 2011 m. birželio 28 d. Lietuvos Respublikos branduolinės saugos [[latest/TAR.424F7C72601E|įstatymo Nr. XI-1539]] nuostatas išduota licencija statyti ir eksploatuoti branduolinės energetikos objektą ar objektus;
 
 
  „Ieškinys pagal Sutartį“
@@ -6467,8 +6472,8 @@ SĄVOKOS
  (B) Lietuvos Respublikos Vyriausybės priimtas nutarimas, turintis teisinę galią; (C) Reguliavimo reikalavimas;  (D) Lietuvos Respublikoje nacionaliniu ar savivaldos lygiu priimtas sprendimas, įsakymas, nutarimas, reglamentas, taisyklė ar pranešimas, turintis teisinę galią; (E) Lietuvos Konstitucija; (F) vertybinių popierių biržos reglamentas, teismų praktika ir sprendimai Lietuvos Respublikoje, turintys įstatymo galią; ir (G) ES teisės aktas, sutartys ar kiti tarptautinės teisės aktai, kurių kiekvienas galioja Lietuvos Respublikoje, ir (H) visi kiti taikomi įstatymai, reglamentai, direktyvos, įsakymai, sprendimai ir kitos taisyklės, kiekvienoje jurisdikcijoje turintys įstatymo galią (įskaitant tarptautinių vandenų atžvilgiu), kurių atžvilgiu PB turi įsipareigojimų pagal Koncesiją;
 
 
- „Koncesijų įstatymas“
- 2003 m. birželio 24 d. Lietuvos Respublikos koncesijų įstatymas Nr. IX-1647 (su pakeitimais);
+ [[latest/TAR.6A449FCC534B|„Koncesijų įstatymas“]]
+ 2003 m. birželio 24 d. Lietuvos Respublikos koncesijų [[latest/TAR.5947BABF19A2|įstatymas Nr. IX-1647]] (su pakeitimais);
 
 
  „atsakomybė“
@@ -6760,7 +6765,7 @@ SĄVOKOS
 
 
  „Strateginių įmonių komisija“
- Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija, nurodyta 2009 m. liepos 21 d. Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. XI-375, su pakeitimais, 7 straipsnio 3 dalyje, jos teisių perėmėjai ir vienetai, kuriems perduodamos visos jos funkcijos ar jų dalis;
+ Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija, nurodyta 2009 m. liepos 21 d. Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių [[latest/TAR.F725430A9EF6|įstatymo Nr. XI-375]], su pakeitimais, 7 straipsnio 3 dalyje, jos teisių perėmėjai ir vienetai, kuriems perduodamos visos jos funkcijos ar jų dalis;
 
 
  „Strateginio investuotojo įsipareigojimų nevykdymas“
@@ -6895,52 +6900,52 @@ PRIVAŽIAVIMO KELIO DARBAI
 
 
 
-1.         SĄVOKOS IR JŲ AIŠKINIMAS ^c4b18da4eb4c99d5bd2a6701
+1.         SĄVOKOS IR JŲ AIŠKINIMAS ^s-e746f4e65a91693534710d5e
 Šiame Priedėlyje:
 
 
-1.1       jei kontekstas nereikalauja kitaip, žemiau pateikiami žodžiai ir frazės turės tokią reikšmę: ^659502520184aa6ff5e75ab5
+1.1       jei kontekstas nereikalauja kitaip, žemiau pateikiami žodžiai ir frazės turės tokią reikšmę: ^s-4f09cf13e127ea0014587044
 „Privažiavimo kelias" reiškia kelią, prasidedantį prie Klaipėdos jūrų uosto molo ir pasibaigiantį ties Statybvietės riba, kuris skirtas su Projektu susijusios įrangos ir medžiagų transportavimui;
 „Privažiavimo kelio maršrutas“ - kaip nurodyta 2.3 paragrafe;
 „Privažiavimo kelio specifikacijos“ - kaip nurodyta 2.1.1 paragrafe;
 „Privažiavimo kelio darbai“ reiškia visus darbus, reikalaujamus Privažiavimo keliui, kad jis atitiktų Privažiavimo kelio specifikaciją; ir
 
 
-1.2       šio Priedėlio tikslams, nuoroda į LR apima LR, veikiančią per valstybines institucijas ar agentūras arba kitus valstybinio administravimo subjektus. ^73a93b679c6b763e38a04180
+1.2       šio Priedėlio tikslams, nuoroda į LR apima LR, veikiančią per valstybines institucijas ar agentūras arba kitus valstybinio administravimo subjektus. ^s-f80d82873de43fbff8595d8b
 
 
-2.         PRIVAŽIAVIMO KELIO PROJEKTAVIMO, STATYBOS IR pPRIEŽIŪROS dARBAI ^03f15106e886c0f13b294d37
+2.         PRIVAŽIAVIMO KELIO PROJEKTAVIMO, STATYBOS IR pPRIEŽIŪROS dARBAI ^s-edaa3d335b566e4c6fff18bf
 
 
-2.1       Bendros nuostatos ^0196458a8dbc04ff28e42843
+2.1       Bendros nuostatos ^s-390ca074ff0fede0dc988b67
 
 
-2.1.1      Statybos, priežiūros, remonto ir tobulinimo darbų, reikalingų Privažiavimo keliui, siekiant palengvinti Projekto įgyvendinimą, funkcinės specifikacijos kopija („Privažiavimo kelio specifikacija“) pridedama šio Priedėlio B priede. ^25d5d59a5495a20e87f8876e
+2.1.1      Statybos, priežiūros, remonto ir tobulinimo darbų, reikalingų Privažiavimo keliui, siekiant palengvinti Projekto įgyvendinimą, funkcinės specifikacijos kopija („Privažiavimo kelio specifikacija“) pridedama šio Priedėlio B priede. ^s-55411f218e804c5f900535cd
 
 
-2.1.2      LR ketina projektuoti, imtis statybos ir vėliau prižiūrėti Privažiavimo kelią pagal Privažiavimo kelio specifikaciją, jei Akcininkai priima teigiamą GIS dėl Projekto. ^2fcc72c77675d39ce53c91d6
+2.1.2      LR ketina projektuoti, imtis statybos ir vėliau prižiūrėti Privažiavimo kelią pagal Privažiavimo kelio specifikaciją, jei Akcininkai priima teigiamą GIS dėl Projekto. ^s-51372ebf52c7069516a548a1
 
 
-2.2       Planuojama Privažiavimo kelio darbų užbaigimo data ^c4a51cfdc0ab0b38eff651a1
+2.2       Planuojama Privažiavimo kelio darbų užbaigimo data ^s-ed43014438fe9ea2eb0ef474
 
 
-2.2.1      Nepažeidžiant likusios šio Priedėlio dalies, LR patvirtina, kad ji ketina projektuoti Privažiavimo kelią, su prielaida, kad Privažiavimo kelio darbai turės būti užbaigti iki 2015 m. gruodžio 31 d. ^0ad3bdf5841a8dcad4e66682
+2.2.1      Nepažeidžiant likusios šio Priedėlio dalies, LR patvirtina, kad ji ketina projektuoti Privažiavimo kelią, su prielaida, kad Privažiavimo kelio darbai turės būti užbaigti iki 2015 m. gruodžio 31 d. ^s-08e0115112d5e72404c9c037
 
 
-2.2.2      LR ir PB nuo Koncesijos dienos geranoriškai derėsis siekdami prieš GIS sutarti dėl planuojamos Privažiavimo kelio darbų užbaigimo datos, kuri bus taikoma, jei Akcininkai priims teigiamą GIS dėl Projekto. ^a2c0266f56f0b1a1b4b184f1
+2.2.2      LR ir PB nuo Koncesijos dienos geranoriškai derėsis siekdami prieš GIS sutarti dėl planuojamos Privažiavimo kelio darbų užbaigimo datos, kuri bus taikoma, jei Akcininkai priims teigiamą GIS dėl Projekto. ^s-3427fa86c2c73c78825d2994
 
 
-2.3       Privažiavimo kelio maršrutas ^f1f1bf38d9240a18a373e278
+2.3       Privažiavimo kelio maršrutas ^s-800ec5b7377f85adef099a95
 Planas, parodantis siūlomą Privažiavimo kelio trasą, buvo pridėtas šio priedėlio A priede („Privažiavimo kelio maršrutas“). Šiuo metu Privažiavimo kelio maršrute pateikiami du išvažiavimo kelio iš Klaipėdos jūrų uosto variantai (pavaizduoti raudonai ir mėlynai). Šalys susitaria, kad vienas iš siūlomų išvažiavimo kelio variantų turės būti pasirinktas 2012 m. gruodžio 31 d. arba dieną, praėjus šešiasdešimčiai (60) Kalendorinių dienų nuo pirmojo Riboto pranešimo pradėti darbus pagal EPC rangos sutartį išleidimo datos, priklausomai nuo to, kuri data vėlesnė.
 
 
-2.4       Atsakomybė ir kiti klausimai ^70063a5edd47f69281b4e871
+2.4       Atsakomybė ir kiti klausimai ^s-2678c8b2f372c235b5559ce4
 
 
-2.4.1      Šalys pažymi, kad susitarimai dėl Privažiavimo kelio darbų vis dar tebėra formuojami ir todėl LR ir PB geranoriškai derėsis, siekdamos atskiro susitarimo dėl Privažiavimo kelio darbų atsakomybės režimo, kuris bus taikomas, jei Akcininkai priims teigiamą GIS dėl Projekto. ^eb739f3bc265299bd1fcfe19
+2.4.1      Šalys pažymi, kad susitarimai dėl Privažiavimo kelio darbų vis dar tebėra formuojami ir todėl LR ir PB geranoriškai derėsis, siekdamos atskiro susitarimo dėl Privažiavimo kelio darbų atsakomybės režimo, kuris bus taikomas, jei Akcininkai priims teigiamą GIS dėl Projekto. ^s-77b4c871fcb9da64fdaaf03a
 
 
-2.4.2      Nepaisant kitų šios Koncesijos sutarties nuostatų, šalys pripažįsta ir sutinka, kad nei viena Šalis nebus atsakinga už klausimus, susijusius su Privažiavimo kelio darbais, daugiau, nei vėliau gali būti susitarta raštu pagal 2.4.1. paragrafą. ^c598210f9e27f1b67978271d
+2.4.2      Nepaisant kitų šios Koncesijos sutarties nuostatų, šalys pripažįsta ir sutinka, kad nei viena Šalis nebus atsakinga už klausimus, susijusius su Privažiavimo kelio darbais, daugiau, nei vėliau gali būti susitarta raštu pagal 2.4.1. paragrafą. ^s-4b0d8637157e1cd64b46f3e6
 
 
 
@@ -7023,7 +7028,7 @@ PRIVAŽIAVIMO kelio specifikacija
 
 
 
-101.                 INFORMAcija apie projektą ^d7077dd2a104cc7ee506a514
+101.                 INFORMAcija apie projektą ^s-638fbf63409980de3aaf89db
 
 
  101.1
@@ -7041,16 +7046,16 @@ PRIVAŽIAVIMO kelio specifikacija
  Lietuva
 
 
-102.                 DArbų apimtis ^c58bf2cdc43c1a73c10a00ed
+102.                 DArbų apimtis ^s-8814dc54e3bf232c7cdf7900
 
 
-102.1               Bendro pobūdžio informacija apie projektą: ^25a9f14afacb3ed1d7e3284b
+102.1               Bendro pobūdžio informacija apie projektą: ^s-217138fe5bfcfc8922f48da1
 a.               Planuojant Lietuvoje įgyvendinti Visagino atominės elektrinės projektą, yra parinktas sunkiųjų krovinių gabenimo koridorius, kuris bus naudojamas gabenti ir pristatyti atominio objekto įrangą į projekto aikštelę, kaip nurodyta 116.1.a straipsnyje. Minėta įranga viršija įprastus plentų svorio, pločio ir aukščio apribojimus, o taip pat įrangai pervežti bus reikalinga kvalifikuoto rangovo valdomas specializuotas sunkusis transporteris.
 b.               Koridoriaus pradžia yra Klaipėdos mieste Lietuvoje, Baltijos jūros pakrantėje, kur įranga bus iškrauta iš sunkiems kroviniams gabenti pritaikytų laivų ir perkelta ant sunkiems kroviniams gabenti pritaikytų transporterių; koridoriaus ilgis iki Visagine esančios projekto aikštelės sudaro apie 550 km. Šioje specifikacijoje nustatytos Darbų ribos apima atstumą nuo Klaipėdos uosto prieplaukos iki VAE statybos aikštelės ribos.
 c.               Renkantis koridoriaus maršrutą, pirmiausia buvo siekiama panaudoti sunkiajam transportui pritaikytus valstybinius kelius bei išvengti stacionarių kabančių kliūčių; tačiau koridorius kelia tam tikrų unikalių iššūkių, susijusių su esamos infrastruktūros pagerinimu, kad kelias būtų tinkamas gabenti kroviniams.
 
 
-102.2               Siekiant patikrinti patikimumą ir nustatyti, kokius patobulinimus būtina atlikti, kad būtų įvykdyti šiame dokumente nustatyti kriterijai, bus atliktas kiekvienos koridoriaus atkarpos vertinimas. Kiekvienas vertinimas apima būklės įvertinimą, nustatant apkrovos charakteristikas, geometrinius parametrus, fizines kliūtis ir apribojimus, kuriuos reikia pašalinti. Įvertinimo metu bus renkami duomenys ir pradiniai projektavimo duomenys, įskaitant šiuos darbus, tačiau neapsiribojant vien tik jais: ^9e47673fc24136d77b842ee3
+102.2               Siekiant patikrinti patikimumą ir nustatyti, kokius patobulinimus būtina atlikti, kad būtų įvykdyti šiame dokumente nustatyti kriterijai, bus atliktas kiekvienos koridoriaus atkarpos vertinimas. Kiekvienas vertinimas apima būklės įvertinimą, nustatant apkrovos charakteristikas, geometrinius parametrus, fizines kliūtis ir apribojimus, kuriuos reikia pašalinti. Įvertinimo metu bus renkami duomenys ir pradiniai projektavimo duomenys, įskaitant šiuos darbus, tačiau neapsiribojant vien tik jais: ^s-ef22a2bcbee6892829288a05
 a.               geotechniniai tyrimai, siekiant nustatyti esamą dirvos atsparumą ir dirvos kokybines reikšmes, kurios bus naudojamos esamoms dangoms ir statiniams įvertinti ir naujiems projektuoti;
 b.               tiltų ir vamzdžių struktūrinis įvertinimas, siekiant nustatyti atsparumo ir apkrovos reitingą;
 c.               topografiniai tyrimai ir žemėlapių sudarymas, siekiant tiksliai dokumentuoti esamų dangų savybes bei kabančias kliūtis ir patikrinti sklypų ribas ir nuosavybę (esant būtinybei);
@@ -7069,16 +7074,16 @@ e.9.            Projektavimo konsultantas privalės parengti medžiagą, sudaryt
 e.10.          Savininkas gali parengti sunkiojo transporto koridoriaus preliminaraus išbandymo planą, kuris turės būti įgyvendintas užbaigus statybinius patobulinimus, siekiant įsitikinti, kad pastatytas sunkiojo transporto kelias gali atlaikyti planuojamas sunkiojo transporto apkrovas.
 
 
-102.3               Siekiant, kad ši Funkcinė techninė specifikacija atitiktų būtiną projektą ir inžinerinę dalį, ji buvo parengta taip, kad apibrėžtų projekto bendrą tikslą bei nustatymų būtiniausius reikalavimus ir kriterijus, kuriais turės vadovautis kvalifikuotas Projektavimo konsultantas, projektuodamas sunkiojo transporto kelią. ^780d5a590429304de9243658
+102.3               Siekiant, kad ši Funkcinė techninė specifikacija atitiktų būtiną projektą ir inžinerinę dalį, ji buvo parengta taip, kad apibrėžtų projekto bendrą tikslą bei nustatymų būtiniausius reikalavimus ir kriterijus, kuriais turės vadovautis kvalifikuotas Projektavimo konsultantas, projektuodamas sunkiojo transporto kelią. ^s-e8102c9416146edb89c2bd8f
 
 
-102.4               Šioje Specifikacijoje nėra galimybės aptarti visų aspektų, todėl tikimasi, kad Projektavimo konsultantas šioje Specifikacijoje nustatytus reikalavimus papildys savo žiniomis ir patirtimi. Šios Specifikacijos paskirtis – įvertinti esamą infrastruktūrą ir suprojektuoti sunkiojo transporto kelio statybinius patobulinimus, modifikacijas ir pakeitimus: ši Specifikacija nėra skirta atitikti sunkiojo transporto kelio projektavimo ilgalaikius kriterijus užbaigus projektą, ar vietinių ir nacionalinių valdymo agentūrų ilgalaikius projektavimo kriterijus; tačiau nustatomas minimalus reikalavimas, kad kiekvienos kuriuo nors būdu keičiamos kelio atkarpos esama funkcinė klasifikacija turės ir toliau atitikti esamas funkcijas, atsižvelgiant į kelių eismą ir saugumą, infrastruktūros servitutų ir nuosavybės, lietaus vandens drenavimą ir nukreipimą. ^7d4fa4819cbad6cc8e167acb
+102.4               Šioje Specifikacijoje nėra galimybės aptarti visų aspektų, todėl tikimasi, kad Projektavimo konsultantas šioje Specifikacijoje nustatytus reikalavimus papildys savo žiniomis ir patirtimi. Šios Specifikacijos paskirtis – įvertinti esamą infrastruktūrą ir suprojektuoti sunkiojo transporto kelio statybinius patobulinimus, modifikacijas ir pakeitimus: ši Specifikacija nėra skirta atitikti sunkiojo transporto kelio projektavimo ilgalaikius kriterijus užbaigus projektą, ar vietinių ir nacionalinių valdymo agentūrų ilgalaikius projektavimo kriterijus; tačiau nustatomas minimalus reikalavimas, kad kiekvienos kuriuo nors būdu keičiamos kelio atkarpos esama funkcinė klasifikacija turės ir toliau atitikti esamas funkcijas, atsižvelgiant į kelių eismą ir saugumą, infrastruktūros servitutų ir nuosavybės, lietaus vandens drenavimą ir nukreipimą. ^s-aa1d91c51d2e6704f461d9b0
 
 
-102.5               Ši specifikacija nustato detalių koridoriaus tyrimų ir kelių/tiltų projektavimo reikalavimus ir kriterijus. Ji apima pradinius projektavimo duomenis, poveikio aplinkai įvertinimą, preliminarių ir galutinių peržiūros dokumentų parengimą, palaikymą, gaunant leidimus, išlaidų sąmatų sudarymą bei projektavimo, leidimų gavimo ir statybos darbų išsamaus grafiko sudarymą. ^c04b2996d51efe5cacd1fdff
+102.5               Ši specifikacija nustato detalių koridoriaus tyrimų ir kelių/tiltų projektavimo reikalavimus ir kriterijus. Ji apima pradinius projektavimo duomenis, poveikio aplinkai įvertinimą, preliminarių ir galutinių peržiūros dokumentų parengimą, palaikymą, gaunant leidimus, išlaidų sąmatų sudarymą bei projektavimo, leidimų gavimo ir statybos darbų išsamaus grafiko sudarymą. ^s-9c3ce7ca0c16455198429b95
 
 
-102.6               Projektavimo konsultantui keliami reikalavimai ir būtina kvalifikacija: ^2c0cc5eaac4e73229ca17213
+102.6               Projektavimo konsultantui keliami reikalavimai ir būtina kvalifikacija: ^s-61e5068b5f928c6c87b73945
 a.               Projektavimo konsultanto atranką vykdo LR, jo kompetenciją įrodo ankstesnė patirtis, dalyvaujant panašios apimties ir pobūdžio infrastruktūros vertinimo, plentų ir tiltų, požeminių ir kabančių infrastruktūros elementų perkėlimo projektavimo bei su tuo susijusių leidimų gavimo, statybos, išlaidų sąmatų skaičiavimo ir grafikų sudarymo projektuose.
 b.               Projektavimo konsultantas privalo turėti kelių projektavimo, įskaitant horizontalaus ir vertikalaus geometrinio išlyginimo, struktūrinio storio projektavimo, saugos ir eismo reguliavimo patirties.
 c.               Projektavimo konsultantas privalo turėti arkinių statinių (angl. „multiple span structures“) ir segmentinių tiltų projektavimo patirties, taip pat tiltų vertinimo ir modifikavimo patirties.
@@ -7086,34 +7091,34 @@ d.               Projektavimo konsultantas privalo turėti kelių dangų, tiltų
 e.               Projektavimo konsultantas privalo turėti hidrologijos ir hidraulinės tiltų analizės patirties, įskaitant potvynių poveikio ir vandens nuotėkio transformacijos lygmenų apskaičiavimo (angl. „routing“), išplovimo analizės (angl. „scour anglysis“), vandens paviršiaus modeliavimo ir lietaus vandens valdymo taisyklių taikymo patirtį.
 
 
-102.7               Darbai turi atitikti šios Specifikacijos reikalavimus, darbus ir jų priežiūrą vykdantis personalas privalo turėti tokių darbų vykdymo ir priežiūros patirties bei žinių. Darbus atlieka vien tik Projektavimo konsultanto apmokytas ir kompetentingas personalas, arba, gavus atitinkamą leidimą – jo subrangovų personalas. ^4a8d400532d8f9e9f8008fcd
+102.7               Darbai turi atitikti šios Specifikacijos reikalavimus, darbus ir jų priežiūrą vykdantis personalas privalo turėti tokių darbų vykdymo ir priežiūros patirties bei žinių. Darbus atlieka vien tik Projektavimo konsultanto apmokytas ir kompetentingas personalas, arba, gavus atitinkamą leidimą – jo subrangovų personalas. ^s-56cf4cbccc707c4624fbf4ce
 
 
-102.8               Savininkui pareikalavus, Projektavimo konsultantas privalo suteikti Savininkui visą su Darbu susijusią informaciją, įskaitant projektinę dokumentaciją, statybos dokumentaciją, informaciją apie grafikus, t.t. ^54bb522442c7b0455446b9c2
+102.8               Savininkui pareikalavus, Projektavimo konsultantas privalo suteikti Savininkui visą su Darbu susijusią informaciją, įskaitant projektinę dokumentaciją, statybos dokumentaciją, informaciją apie grafikus, t.t. ^s-6438fa0d196f063e2cb7b0c9
 
 
-103.                 LIetuvos kelių ribų nustatymo parametrai ^ed0a580bfa985d799e17e3e7
+103.                 LIetuvos kelių ribų nustatymo parametrai ^s-888e84336c744fa26deee55f
 
 
-103.1               Didžiausias leistinas 116.1.k straipsnyje nurodytos tiesios kelio atkarpos plotis 9,5 m: ^a7a20188c44cf249e2ec7b74
+103.1               Didžiausias leistinas 116.1.k straipsnyje nurodytos tiesios kelio atkarpos plotis 9,5 m: ^s-2a926539e1113e78eba83c14
 a.               6,5 metro asfalto dangos ir 0,25 m. suslėgtos skaldos kelkraščio
 b.               1,25 m. suslėgto kelkraščio
 c.   tarp asfaltuotos dangos ir suslėgto kelkraščio neturi būti tarpo
 
 
-103.2               103.1 a punkte nurodytas didžiausias kelio slėgis į žemės paviršių, kaip nustatyta 116.1. k: straipsnyje: ^0175b12f4d67eb24f24cc17d
+103.2               103.1 a punkte nurodytas didžiausias kelio slėgis į žemės paviršių, kaip nustatyta 116.1. k: straipsnyje: ^s-557aadcff679dd35137b1f7b
 a.               4,4 metrinių tonų į vieną kvadratinį metrą
 b.               10 metrinių tonų vienai ašiai
 
 
-103.3               Didžiausias slėgis į žemės paviršių, kaip nustatyta 116.1. h: straipsnyje: ^931f6932ec8b455fc17537df
+103.3               Didžiausias slėgis į žemės paviršių, kaip nustatyta 116.1. h: straipsnyje: ^s-0c98e5c31ad76b976bdb8d0e
 a.               1,800 tonų; šią sumą sudaro sunkiojo transporto priemonės ir įrangos bendras svoris.
 
 
-104.                 sunkiojo transporterio priemonės ir įrangos apkrovos duomenys ^154a9fe46c3e22b38478a477
+104.                 sunkiojo transporterio priemonės ir įrangos apkrovos duomenys ^s-601d6a9333249a1c1419f24d
 
 
-104.1               Sunkusis transporteris - tai modulinė daugiaašė transporto priemonė su guminėmis padangomis, konkrečiai pritaikyta įrangai gabenti. Sunkiojo transporterio sąstatas priklausys nuo gabenamos įrangos tipo, tačiau didžiausią RPV sąstatą sudarys dvi sujungtos savaeigės priekabos, kiekviena turės įrangos svorį laikantį prikabinimo mechanizmą su pasukimo platforma, kurį trauks du varomieji elementai ir stums du papildomi varomieji elementai. 116.1. e, h, i, l ir n straipsnyje nustatytais didžiausias ribojančiais išmatavimų duomenimis laikoma ši informacija (papildoma informacija apie ribojančių kliūčių parametrus nustatyta 116.1. m straipsnyje): ^203a58c72ee519ad2b852e8f
+104.1               Sunkusis transporteris - tai modulinė daugiaašė transporto priemonė su guminėmis padangomis, konkrečiai pritaikyta įrangai gabenti. Sunkiojo transporterio sąstatas priklausys nuo gabenamos įrangos tipo, tačiau didžiausią RPV sąstatą sudarys dvi sujungtos savaeigės priekabos, kiekviena turės įrangos svorį laikantį prikabinimo mechanizmą su pasukimo platforma, kurį trauks du varomieji elementai ir stums du papildomi varomieji elementai. 116.1. e, h, i, l ir n straipsnyje nustatytais didžiausias ribojančiais išmatavimų duomenimis laikoma ši informacija (papildoma informacija apie ribojančių kliūčių parametrus nustatyta 116.1. m straipsnyje): ^s-567d7960dc202bea57d0b8a2
 a.               Bendras transporto priemonės ilgis: 115,6 m. (dvi priekabos ir keturi varomieji elementai)
 b.               Didžiausias priekabos ilgis: 33 m. (kiekvienos). Dviejų transporterių ilgis, įskaitant jungtį – 69 m.
 c.               Didžiausias priekabos plotis: 6,300 m.
@@ -7128,25 +7133,25 @@ k.               RPV paaukštinimas Nr. 3 aukščio trajektorijos: 17 m.
 l.                Priekabos pločio trajektorija (kai nėra kliūčių): 8 m.
 
 
-104.2               RPV naudingoji apkrova: toliau pateiktuose punktuose a – b pateikti skaičiai gali keistis, priklausomai nuo projektavimo proceso. ^60ba1f9541911189cfc67616
+104.2               RPV naudingoji apkrova: toliau pateiktuose punktuose a – b pateikti skaičiai gali keistis, priklausomai nuo projektavimo proceso. ^s-8a9acad609c103539cc0fb6d
 a.               Didžiausia naudingosios apkrovos masė:1004 metrinių tonų
 b.               Didžiausia atraminių konstrukcijų struktūros masė: apie 136 metrinių tonų
 c.               Didžiausias naudingosios apkrovos plotis: 9,2 m., matuojant 7,707 m. nuo nuolydžio
 d.               Didžiausias naudingosios apkrovos aukštis: 12,207 m. nuo nuolydžio
 
 
-104.3               Sunkiojo transporterio bendra darbinė masė: ^79ad65f6e100ad941683f009
+104.3               Sunkiojo transporterio bendra darbinė masė: ^s-e54d1a158b87500805f4d826
 a.               Sunkiojo transporterio ir įrangos bendra darbinė masė: iki 1 800 metrinių tonų
 b.               Slėgis į žemės paviršių: 4,4 metrinės tonos į vieną kvadratinį metrą
 
 
-104.4               Sunkiojo transporterio darbinės charakteristikos: ^4ed7330e2ccb69ac27085ee6
+104.4               Sunkiojo transporterio darbinės charakteristikos: ^s-3a90537d89f534e547c6ffa3
 a.               Darbinis greitis: 10 – 25 km/h (orientacinės reikšmės)
 b.                RPV mažiausias vidinis posūkio spindulys: 13,5 m.
 c.                RPV mažiausias išorinis posūkio spindulys: 33,5 m.
 
 
-104.5               Sunkiajam transportui pritaikyto kelio geometrijos reikalavimai tiesaus kelio atkarpoms ir kampams: ^16e5450e6d2fd31aa4c5ed28
+104.5               Sunkiajam transportui pritaikyto kelio geometrijos reikalavimai tiesaus kelio atkarpoms ir kampams: ^s-6fe7b13e7fbe4f873322f1b6
 a.               Didžiausias šlaitas: mažiau kaip 8 proc., esant sausai kelio dangai
 b.               RPV mažiausias posūkio spindulys ant vertikalaus šlaito: daugiau kaip 340,5 m.
 c.               RPV poilsio sustojimo aikštelių mažiausias ilgis: daugiau kaip 27,3 m.
@@ -7159,114 +7164,114 @@ d3.              Sankryžos mažiausias skersinis nuolydis – 2,5 %; sankryžos
 
 
 
-104.6               Informacija apie laikinas pagalbines transporto priemones: ^fb262208a88994f76def9e5b
+104.6               Informacija apie laikinas pagalbines transporto priemones: ^s-5f3776c5399e444303293bf3
 a.               Sunkųjį transporterį kelyje lydės pagalbinės transporto priemonės, kurių paskirtis – užtikrinti ekipažo ir visuomenės saugą, garantuoti saugumą, teikti einamąją techninę priežiūrą bei pagalbą nenumatytais atvejais. Naudojamų pagalbinių transporto priemonių pobūdį nustatys sunkiųjų krovinių gabenimo kompanija.
 
 
-105.                 duomenys apie sunkiojo transporto keliones ^80e037c53827b8315a8f4ec5
+105.                 duomenys apie sunkiojo transporto keliones ^s-70fdd7a16dedd0b35b4931c6
 
 
-105.1               Projektuojant kelių dangas ir tiltus, rezervo pakankamumui apskaičiuoti naudojama ši informacija: ^b4d4bef733052e721ab39fdf
+105.1               Projektuojant kelių dangas ir tiltus, rezervo pakankamumui apskaičiuoti naudojama ši informacija: ^s-faac15a835b6de3ae582c3ef
 a.               Planuojamų sunkiojo transporterio kelionių preliminarus bendras skaičius pagal 116.1.a straipsnyje pateiktą apibūdinimą
 b.               Gavęs galutinį sąrašą iš EPC Rangovo, Savininkas jį pateikia Projektavimo konsultantui.
 
 
-106.                 kelių projektavimo kriterijai ^3ce83fbe69405ef0645e0df8
+106.                 kelių projektavimo kriterijai ^s-71341fa0a9af710f37815dca
 
 
-106.1               Būtina atlikti visų kelio atkarpų apžiūras ir įvertinimus, siekiant nustatyti jų būklę ir tinkamumą atlaikyti transporterio apkrovas jo kelionių trukmės laikotarpiu. Visi trūkumai užfiksuojami ataskaitoje, pateikiant rekomendacijas dėl remonto arba išardymo ir atstatymo. ^9fff70168e03a3d97d923704
+106.1               Būtina atlikti visų kelio atkarpų apžiūras ir įvertinimus, siekiant nustatyti jų būklę ir tinkamumą atlaikyti transporterio apkrovas jo kelionių trukmės laikotarpiu. Visi trūkumai užfiksuojami ataskaitoje, pateikiant rekomendacijas dėl remonto arba išardymo ir atstatymo. ^s-f6654874f71eee5ce51b0490
 
 
-106.2               Struktūriniai kelio sluoksniai nustatomi atliekant geotechninius tyrimus, kurių metu paimami kelio dangos pavyzdžiai ir padaromi dirvos gręžiniai, arba naudojami kiti priimtini struktūrinio pjūvio (kuris gali būti sudarytas iš asfalto, betono, užpildo pagrindo (angl. „aggregate base“) sluoksnių storio, tipo ir būklės bei dirvos savybių nustatymo metodai. ^b346843687ecacf380a5870a
+106.2               Struktūriniai kelio sluoksniai nustatomi atliekant geotechninius tyrimus, kurių metu paimami kelio dangos pavyzdžiai ir padaromi dirvos gręžiniai, arba naudojami kiti priimtini struktūrinio pjūvio (kuris gali būti sudarytas iš asfalto, betono, užpildo pagrindo (angl. „aggregate base“) sluoksnių storio, tipo ir būklės bei dirvos savybių nustatymo metodai. ^s-d50f421cb4520c0ce1a1c704
 
 
-106.3               Atliekami kelio dangos tyrimai ir, prireikus, kelio danga pagerinama arba perdaroma, kad galėtų atlaikyti šiame dokumente nurodytose Funkcinės techninėse specifikacijose numatytas sunkiojo transporterio apkrovas ir apkrovų pasikartojimus bei atitiktų Europos Sąjungos normas ir Lietuvos įstatymus. ^9850ce9a54d74762d22d6fb0
+106.3               Atliekami kelio dangos tyrimai ir, prireikus, kelio danga pagerinama arba perdaroma, kad galėtų atlaikyti šiame dokumente nurodytose Funkcinės techninėse specifikacijose numatytas sunkiojo transporterio apkrovas ir apkrovų pasikartojimus bei atitiktų Europos Sąjungos normas ir Lietuvos įstatymus. ^s-2997a6508cda6555fd8a7be0
 
 
-106.4               Prireikus, keičiami kelio išlyginimo geometriniai parametrai, siekiant įvykdyti 103 ir 104 straipsniuose pateiktus reikalavimus ir užtikrinti galimybę pravažiuoti sunkiajam transporteriui ir įrangai bei laikytis Lietuvos eismo saugos reikalavimų. ^99f9f899a5e2c40bc56744c1
+106.4               Prireikus, keičiami kelio išlyginimo geometriniai parametrai, siekiant įvykdyti 103 ir 104 straipsniuose pateiktus reikalavimus ir užtikrinti galimybę pravažiuoti sunkiajam transporteriui ir įrangai bei laikytis Lietuvos eismo saugos reikalavimų. ^s-353df8261183f9a943cb5541
 
 
-107.                 tiltų projektavimo kriterijai ^ec3075b873a5a5c5612ac5d4
+107.                 tiltų projektavimo kriterijai ^s-9c40973c0d994d10821af988
 
 
-107.1               Būtina atlikti visų tiltų apžiūras ir įvertinimus, siekiant nustatyti jų būklę ir apkrovos reitingo pajėgumą atlaikyti sunkiojo transporterio ir įrangos apkrovas transporterio kelionių laikotarpiu. Visi trūkumai užfiksuojami ataskaitoje, pateikiant rekomendacijas dėl remonto arba išardymo ir atstatymo. ^c98a17cf90d45c7f4e7922a5
+107.1               Būtina atlikti visų tiltų apžiūras ir įvertinimus, siekiant nustatyti jų būklę ir apkrovos reitingo pajėgumą atlaikyti sunkiojo transporterio ir įrangos apkrovas transporterio kelionių laikotarpiu. Visi trūkumai užfiksuojami ataskaitoje, pateikiant rekomendacijas dėl remonto arba išardymo ir atstatymo. ^s-23645e449a6cd0e4c8d2a7b7
 
 
-107.2               Tiltai ir vamzdynai projektuojami pagal šiame dokumente nurodytas Funkcines technines specifikacijas ir turi atitikti Europos Sąjungos normas bei Lietuvos įstatymus. ^68efd7b2bcd7b1a590828afd
+107.2               Tiltai ir vamzdynai projektuojami pagal šiame dokumente nurodytas Funkcines technines specifikacijas ir turi atitikti Europos Sąjungos normas bei Lietuvos įstatymus. ^s-3a67aad4c0cddbebb85069b7
 a.               Betoniniai ir plieniniai paklotai turi atitikti visus vietinių ir vyriausybės taisyklių reikalavimus.
 b.               Atitvarai ir apsauginiai turėklai turi būti suprojektuoti taip, kad atitiktų 103 ir 104 straipsniuose nustatytas Funkcines technines specifikacijas
 
 
-108.                 Nuorodos į standartus ir kodeksus ^10d19c6e8b8f23101cccc728
+108.                 Nuorodos į standartus ir kodeksus ^s-75da6ccdd57b05f9ae58d3c3
 
 
-108.1               Atliekamiems darbams taikomi Lietuvos kelių direkcijos, Lietuvos matininkų asociacijos, Lietuvos standartizacijos departamento ir kitų jurisdikciją turinčių valdžios institucijų projektavimo standartai ir kodeksai. ^16d83257e4143025165a3bbc
+108.1               Atliekamiems darbams taikomi Lietuvos kelių direkcijos, Lietuvos matininkų asociacijos, Lietuvos standartizacijos departamento ir kitų jurisdikciją turinčių valdžios institucijų projektavimo standartai ir kodeksai. ^s-de12afadc1e4dd2f121bf8b2
 
 
-109.                 Matavimų informacija ^b98f6c04f32a4477080f566f
+109.                 Matavimų informacija ^s-0e64b570ee05734ad961fef3
 
 
-109.1               Kai būtina turėti duomenis apie esamų koridoriaus elementų, kuriuos būtina pakeisti arba perdaryti, tikslią vieną ir pakilimus (kelio dangos ribas ir kokybę, medžius, ženklus, vamzdžius, t.t.), Projektavimo konsultantas privalo parengti sunkiojo transporterio koridoriaus topografinius matavimus. Matavimai turi būti pakankamai detalūs, o ribos pakankamai aiškios, kad atitiktų numatytąją projektavimo paskirtį. ^04d1fff763fe2804ebc47873
+109.1               Kai būtina turėti duomenis apie esamų koridoriaus elementų, kuriuos būtina pakeisti arba perdaryti, tikslią vieną ir pakilimus (kelio dangos ribas ir kokybę, medžius, ženklus, vamzdžius, t.t.), Projektavimo konsultantas privalo parengti sunkiojo transporterio koridoriaus topografinius matavimus. Matavimai turi būti pakankamai detalūs, o ribos pakankamai aiškios, kad atitiktų numatytąją projektavimo paskirtį. ^s-233b747e67b429e43ac23641
 
 
-110.                 Reikalavimai sustojimo vietoms ir lenkimo zonoms ^9d7af8c215450e2fb5386ef7
+110.                 Reikalavimai sustojimo vietoms ir lenkimo zonoms ^s-be856d033bd3c07fd40161ca
 
 
-110.1               Sustojimo aikštelės reikalingos periodiniams sunkiojo transporterio sustojimams, kurių metu bus atliekamas transporto priemonės techninis aptarnavimas, užpilama degalų; tai bus saugios vietos, kuriose galima sustoti laukiant, kol praeis blogas oras; sustojimo vietos taip pat bus skirtos vairuotojų poilsiui. Sunkiojo transporterio koridoriuje planuojant ir projektuojant sustojimo aikšteles, būtina laikytis šių kriterijų: ^98cb1a019329c6ab7d2bc6fe
+110.1               Sustojimo aikštelės reikalingos periodiniams sunkiojo transporterio sustojimams, kurių metu bus atliekamas transporto priemonės techninis aptarnavimas, užpilama degalų; tai bus saugios vietos, kuriose galima sustoti laukiant, kol praeis blogas oras; sustojimo vietos taip pat bus skirtos vairuotojų poilsiui. Sunkiojo transporterio koridoriuje planuojant ir projektuojant sustojimo aikšteles, būtina laikytis šių kriterijų: ^s-0d90601ca2450b21d6bb225f
 a.               Sustojimo aikštelė turi būti prie pat sunkiajam transportui pritaikyto kelio, joje turi būti pakankamai vietos pagalbinėms transporto priemonėms ir mažesniems sunkiesiems transporteriams; didieji transporteriai sustos ir stovės sunkiajam transportui pritaikytame kelyje, sustojimo aikštelėmis jie nesinaudos.
 b.               Sustojimo aikštelių vieta, dydis ir tikslus skaičius bus derinamas su Savininku detaliojo projektavimo etapo metu.
 c.               Sustojimo aikštelių danga turi būti suslėgta taip, kad atitiktų sunkiojo transporterio ir įrangos bendros masės reikalavimus.
 d.               Kai įmanoma, būtina išsaugoti sustojimo vietas supančius medžius.
 
 
-110.2               Suderinus su Savininku, būtina tinkamai parinkti ir (arba) suplanuoti lenkimo zonas arba eismo apvažiavimus, kad transporto priemonės galėtų apvažiuoti sunkųjį transporterį ir susidarytų kiek įmanoma mažiau transporto priemonių grūsčių. ^f339d2bb70790f27c0ebe359
+110.2               Suderinus su Savininku, būtina tinkamai parinkti ir (arba) suplanuoti lenkimo zonas arba eismo apvažiavimus, kad transporto priemonės galėtų apvažiuoti sunkųjį transporterį ir susidarytų kiek įmanoma mažiau transporto priemonių grūsčių. ^s-2298c361273e8c90dbbcc1c4
 
 
-111.                 teikiama informacija ^d2085bbb779c4905923a0fea
+111.                 teikiama informacija ^s-093e7852af92134012e3de16
 
 
-111.1               Kartu su pasiūlymų būtina pateikti šią informaciją: ^902526011c45bf1b202b5d8d
+111.1               Kartu su pasiūlymų būtina pateikti šią informaciją: ^s-a8fa46fb3f46e6b7d214a3e1
 a.               Svarbiausi darbuotojai: projektui paskirto projekto vadovo ir projekto vyriausiojo inžinieriaus pavardė ir gyvenimo aprašymas; reikalaujama, kad šių darbuotojų patirtis, prižiūrint panašaus dydžio ir arba apimties autostradų ir kelių statybos projektus, būtų ne mažiau kaip penkeri metai.
 b.               Projektų vykdymo patirtis: Įmonės pastarojo meto darbinės patirties, per pastaruosius penkerius metus vykdant panašaus dydžio ir apimties projektus, aprašymas. Kiekvienam projektui parengti trumpą darbų aprašymą.
 c.               Rekomendacijos: profesines rekomendacijas galinčių suteikti subjektų pavadinimai ir dabartiniai telefono numeriai iš pastarojo meto projektų, įskaitant būklės nustatymo, įvertinimo, projektavimo ar leidimų gavimo projektus, susijusius su keliais ir tiltais.
 
 
-112.                 GEOTECHNInė informacija ^9da233344b2c4c50ab35ac5e
+112.                 GEOTECHNInė informacija ^s-eaa59c8767dca0408a308bd5
 
 
-112.1               Kai pagal Lietuvos įstatymus yra būtina gauti informacijos apie poviršinį sluoksnį, vykdoma sunkiojo transporterio koridoriaus poviršinio sluoksnio tyrimo programa. ^d8ac69044404c7705941b121
+112.1               Kai pagal Lietuvos įstatymus yra būtina gauti informacijos apie poviršinį sluoksnį, vykdoma sunkiojo transporterio koridoriaus poviršinio sluoksnio tyrimo programa. ^s-8a30bbc179ff4c7489e2f805
 
 
-112.2               Asfalto danga padengtoms kelio atkarpoms taikomi šie minimalūs reikalavimai: ^f6ef839c174b671625dd42b4
+112.2               Asfalto danga padengtoms kelio atkarpoms taikomi šie minimalūs reikalavimai: ^s-9e39a36f76e4d53f502376c2
 a.               Būtina atlikti pakankamą skaičių pakankamo gylio ir dažnumo dirvos gręžinių, siekiant gauti pagrįstos informacijos apie dangą ir poviršinio sluoksnio dirvą, kuri leistų tiksliai įvertinti dangos apkrovos pajėgumus bei suprojektuoti pakeistus ar naujus kelio dangos struktūrinius sluoksnius pagal Lietuvos įstatymų reikalavimus.
 
 
-112.3               Kai būtina pastatyti naujus tiltus ar pagerinti esamus, taikomi šie būtiniausi reikalavimai: ^cec77d04dab590c695cf6f1a
+112.3               Kai būtina pastatyti naujus tiltus ar pagerinti esamus, taikomi šie būtiniausi reikalavimai: ^s-f5b7c76e072b633b6047c6bf
 a.               Būtina atlikti pakankamą skaičių pakankamo gylio ir dažnumo dirvos gręžinių, siekiant gauti reikalingus podirvio parametrus, kad būtų galima pagal Lietuvos įstatymų reikalavimus projektuoti tiltų pakeitimus arba naujus tiltus.
 
 
-113.                 kitų subjektų teikiamos paslaugos ir informacija ^c6d2096bc4f957d33a4c79f4
+113.                 kitų subjektų teikiamos paslaugos ir informacija ^s-b2ba3416ff00e8a748243f24
 
 
-113.1               Kaip pažymėta 116.1.b, c, d ir j straipsniuose, Savininkas atliko preliminariai pasirinkto sunkiojo transporto koridoriaus tyrimą ir vertinimą; šie duomenys bus naudojami kaip pagrindinė informacija sunkiojo transporterio koridoriaus maršrutui nustatyti. ^89ba929e73240767a08dfda5
+113.1               Kaip pažymėta 116.1.b, c, d ir j straipsniuose, Savininkas atliko preliminariai pasirinkto sunkiojo transporto koridoriaus tyrimą ir vertinimą; šie duomenys bus naudojami kaip pagrindinė informacija sunkiojo transporterio koridoriaus maršrutui nustatyti. ^s-70e1bda85ee9c62e90139ad3
 
 
-113.2               EPC rangovas privalės parengti kiekvieno 116.1.a straipsnyje nurodyto įrangos vieneto, kurį reikės pergabenti, sunkiojo transporterio struktūrą (ilgis, ašių skaičius, t.t.); ši struktūra negali viršyti 103.[[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] nustatytų kelių ribų parametrų. ^522344f3ad6ff04f4baec86c
+113.2               EPC rangovas privalės parengti kiekvieno 116.1.a straipsnyje nurodyto įrangos vieneto, kurį reikės pergabenti, sunkiojo transporterio struktūrą (ilgis, ašių skaičius, t.t.); ši struktūra negali viršyti 103.[[#^s-8b39e58eaaecbf3c38ab9917|1 straipsnyje]] nustatytų kelių ribų parametrų. ^s-2c871f4c3ba526560b78fa53
 
 
-113.3               Sunkiojo transporterio techninį aptarnavimą, remontą ir aprūpinimą degalais užtikrina Sunkiųjų krovinių pervežimo įmonė. ^091fbe2021b7c880560885ae
+113.3               Sunkiojo transporterio techninį aptarnavimą, remontą ir aprūpinimą degalais užtikrina Sunkiųjų krovinių pervežimo įmonė. ^s-a2e52f22c6f9aaaa6d51274a
 
 
-113.4               Pakelės kliūčių (įskaitant elektros perdavimo linijas (35kV, 110kV ir 330kV), apšvietimo stulpus ir (arba) apšvietimo stebų atšakas, ant stulpų sumontuotus šviesoforus, ant stulpų sumontuotus eismo reguliavimo ženklus, t.t.) perkėlimas ir (arba) perdarymas bei atstatymas svarstomas atliekant sunkiojo transporto kelio pagerinimus ir atliekamas tuo atveju, jei tai yra būtina. ^97a38d3ccfb2cfe2b50ad4e9
+113.4               Pakelės kliūčių (įskaitant elektros perdavimo linijas (35kV, 110kV ir 330kV), apšvietimo stulpus ir (arba) apšvietimo stebų atšakas, ant stulpų sumontuotus šviesoforus, ant stulpų sumontuotus eismo reguliavimo ženklus, t.t.) perkėlimas ir (arba) perdarymas bei atstatymas svarstomas atliekant sunkiojo transporto kelio pagerinimus ir atliekamas tuo atveju, jei tai yra būtina. ^s-bf6f8c6795cf00d30404fda2
 
 
-113.5               Šioje Funkcinėje techninėje specifikacijoje numatytų darbų apimtis apsiriboja sunkiojo transporto keliu nuo Klaipėdos uosto prieplaukos iki VAE statybos aikštelės ribos, o kitus patobulinimus, kurie neįeina į šias ribas, atlieka Kiti subjektai. ^2fd90549d7deb8c2263b1777
+113.5               Šioje Funkcinėje techninėje specifikacijoje numatytų darbų apimtis apsiriboja sunkiojo transporto keliu nuo Klaipėdos uosto prieplaukos iki VAE statybos aikštelės ribos, o kitus patobulinimus, kurie neįeina į šias ribas, atlieka Kiti subjektai. ^s-23d8fb604f26a887372243c2
 
 
-114.                 Apibrėžimai ^25a6d3f70b8ee69453f0e9b0
+114.                 Apibrėžimai ^s-f425898f6f5dffb3c9085a15
 
 
-114.1               Sutarties dokumentuose naudojant šiuos terminus, jie visais atvejais turi šias reikšmes: ^8af9966b1d1595213fb2ad1f
+114.1               Sutarties dokumentuose naudojant šiuos terminus, jie visais atvejais turi šias reikšmes: ^s-56b66eff2a42588dc90224b8
 a.               Projektavimo konsultantas – tai įmonė, kompanija, organizacija, kurią Savininkas samdo atlikti šioje Specifikacijoje numatytus Darbus
 b.               Darbai – tai dokumentacijos parengimas ir pateikimas, pirkimai, darbo jėga, paslaugos, įranga, medžiagos, statybos ir priežiūros darbai kaip nurodyta Sutarties dokumentuose
 
@@ -7278,20 +7283,20 @@ f.                Pažymėta – parodyta, pažymėta, reikalaujama pagal arba n
 g.               Pateikti – parūpinti, atlikti ir įdiegti, o tam tikrais atvejais – sėkmingai paleisti į darbą.
 
 
-115.                 susirašinėjimas ^036da08cd3a9a91772588ff6
+115.                 susirašinėjimas ^s-7f6086453f9826771802c580
 
 
-115.1               Susirašinėjimas, ataskaitos ir susiję dokumentai adresuojami ir pateikiami: ^44ee2dd8d4e2acc0ec15c4a0
+115.1               Susirašinėjimas, ataskaitos ir susiję dokumentai adresuojami ir pateikiami: ^s-f80d0ecdfd3620781e285e7e
 a.               Savininko kontaktinė informacija: VAE
 Kontaktinis asmuo techniniams klausimams: Informacija bus patikslinta
 Kontaktinis asmuo su sutartimi susijusiems klausimams: Informacija bus patikslinta
 
 
 
-116.                 Brėžiniai ir duomenys ^396c64fd9afa1666a6f3620f
+116.                 Brėžiniai ir duomenys ^s-ec71a617d9c91b24171e067d
 
 
-116.1               Jei nenurodyta kitaip, juos sudaro šie Savininko, Savininko inžinieriaus arba „Hitachi-GE Nuclear Energy“ / „Hitachi Transport Systems“ parengti Brėžiniai ir Duomenys: ^6a054c3e20325e8551b8397c
+116.1               Jei nenurodyta kitaip, juos sudaro šie Savininko, Savininko inžinieriaus arba „Hitachi-GE Nuclear Energy“ / „Hitachi Transport Systems“ parengti Brėžiniai ir Duomenys: ^s-ed32cab8545a87a3a542c941
 a.               Pagrindinų komponentų pakuočių sąrašas VPN, CNJ-LT-G001_R2_Pagrindinių komponentų pakuočių sąrašas 20111228, „Hitachi-GE Nuclear Energy, Ltd“ (ši informacija turi būti naudojama tik kaip nuoroda ir bus keičiama).
 b.               Lietuvos kelių tinklo maršruto tyrimas, Ataskaitos santrauka, parengė Visagino atominė elektrinė (VAE), 2011 m.
 c.               Tyrimo rezultatų ataskaita ir rekomendacijos, parengė „Hitachi Transport Systems, Ltd.“, 2011 (ši informacija turi būti naudojama tik kaip nuoroda ir bus keičiama).
@@ -7343,23 +7348,23 @@ NACIONALINIO SAUGUMO KRITERIJAI
 
 
 
-1.         Nė vienas iš perleidėjų ar su juo Susijusios bendrovės tiek individualiai, tiek kolektyviai: ^9ecff81baa0c194fb9e04042
+1.         Nė vienas iš perleidėjų ar su juo Susijusios bendrovės tiek individualiai, tiek kolektyviai: ^s-b6198d7a35d9ae1a2823b92e
 
 
-1.1       nekontroliuoja, tiesiogiai ar netiesiogiai, Valstybės suteikta teise ar praktiškai, trečdalio ar daugiau viso bet kuries rūšies į Lietuvos Respubliką importuojamo iškastinio kuro importo iš bet kurios ne NATO arba ne EEE valstybės į Lietuvos Respubliką; ^ea2bb9874d8f464337e1a1b3
+1.1       nekontroliuoja, tiesiogiai ar netiesiogiai, Valstybės suteikta teise ar praktiškai, trečdalio ar daugiau viso bet kuries rūšies į Lietuvos Respubliką importuojamo iškastinio kuro importo iš bet kurios ne NATO arba ne EEE valstybės į Lietuvos Respubliką; ^s-16506b73cf7188affb34e640
 
 
-1.2       efektyviai nekontroliuoja iškastinio kuro tiekimo infrastruktūros bet kurioje ne NATO ir ne EEE valstybėje, kurios efektyvi kontrolė perleidėjui arba kuriai nors jo Susijusiai bendrovei (individualiai arba kolektyviai) atitinkamai leidžia sumažinti viso bet kokios rūšies iškastinio kuro, importuojamo į Lietuvos Respubliką, tiekimą 33 procentais ar daugiau; ^4057cf0f694ef9b14b0d5bc6
+1.2       efektyviai nekontroliuoja iškastinio kuro tiekimo infrastruktūros bet kurioje ne NATO ir ne EEE valstybėje, kurios efektyvi kontrolė perleidėjui arba kuriai nors jo Susijusiai bendrovei (individualiai arba kolektyviai) atitinkamai leidžia sumažinti viso bet kokios rūšies iškastinio kuro, importuojamo į Lietuvos Respubliką, tiekimą 33 procentais ar daugiau; ^s-dbffcccd6b44d815d58a5fc4
 
 
-1.3       nekontroliuoja, tiesiogiai ar netiesiogiai, Valstybės suteikta teise ar praktiškai, trečdalio ar daugiau visos į Lietuvos Respubliką importuojamos elektros energijos importo iš bet kurios ne NATO arba ne EEE valstybės į Lietuvos Respubliką; arba ^5c41be5564da534e85b8915c
+1.3       nekontroliuoja, tiesiogiai ar netiesiogiai, Valstybės suteikta teise ar praktiškai, trečdalio ar daugiau visos į Lietuvos Respubliką importuojamos elektros energijos importo iš bet kurios ne NATO arba ne EEE valstybės į Lietuvos Respubliką; arba ^s-16b55dd3b1bd80e288d9f07a
 
 
-1.4       nekontroliuoja elektros perdavimo infrastruktūros bet kurioje ne NATO ir ne EEE valstybėje, kurios kontrolė perleidėjui arba kuriai nors jo Susijusiai bendrovei (individualiai arba kolektyviai) atitinkamai leidžia sumažinti visos į Lietuvos Respubliką importuojamos elektros energijos tiekimą 33 procentais ar daugiau, ^b07cd3ebf2dbbc53a8e1b88d
+1.4       nekontroliuoja elektros perdavimo infrastruktūros bet kurioje ne NATO ir ne EEE valstybėje, kurios kontrolė perleidėjui arba kuriai nors jo Susijusiai bendrovei (individualiai arba kolektyviai) atitinkamai leidžia sumažinti visos į Lietuvos Respubliką importuojamos elektros energijos tiekimą 33 procentais ar daugiau, ^s-1e159d646b9334ffe9c69563
 o šiame 1 paragrafe nurodomos proporcijos bus apskaičiuojamos pagal 12 mėnesių laikotarpį prieš dieną, kai Perleidžiantis akcininkas išleidžia atitinkamą Pranešimą apie akcijų perleidimą.
 
 
-2.         Nė vienas iš perleidėjų ar su juo Susijusios bendrovės nebuvo nuteistos tinkamai surengto proceso metu dėl jų tiesioginių ar netiesioginių sąsajų su organizuoto nusikalstamumo grupėmis, specialiosiomis tarnybomis ar grupėmis užsienio valstybėse, susijusiomis su tarptautinio terorizmo organizacijomis. ^21cc8d554c6fa3cf0f22ba15
+2.         Nė vienas iš perleidėjų ar su juo Susijusios bendrovės nebuvo nuteistos tinkamai surengto proceso metu dėl jų tiesioginių ar netiesioginių sąsajų su organizuoto nusikalstamumo grupėmis, specialiosiomis tarnybomis ar grupėmis užsienio valstybėse, susijusiomis su tarptautinio terorizmo organizacijomis. ^s-9732f7abda72dafcd9c1b280
 
 5 PRIEDĖLIS
 
@@ -7368,10 +7373,10 @@ STATYBVIETĖ
 
 
 
-1.         Pagal šio 5 Priedėlio (Statybvietė) 2 paragrafą, "Statybvietė" reiškia rytinę statybvietę (įskaitant infrastruktūrą statybvietėje), kuri tiksliau aprašoma šio 5 Priedėlio (Statybvietė) I dalyje. ^0fe89fba30eb652abd8febd3
+1.         Pagal šio 5 Priedėlio (Statybvietė) 2 paragrafą, "Statybvietė" reiškia rytinę statybvietę (įskaitant infrastruktūrą statybvietėje), kuri tiksliau aprašoma šio 5 Priedėlio (Statybvietė) I dalyje. ^s-05a78c80d99dfe0eeff83f5f
 
 
-2.         Jei po Koncesijos dienos šio 5 Priedėlio (Statybvietė) I dalyje aprašyta statybvietė PB (protingai veikiančio) pripažįstama netinkama Projektui, PB apie tai praneš LR taip greitai, kai praktiškai įmanoma, ir bet kuriuo atveju ne vėliau nei iki aštuoniolika (18) Mėnesių nuo Investavimo dienos, kad „Statybvietė“ turėtų būti vakarinė statybvietė (įskaitant vakarinės statybvietės infrastruktūrą), kuri tiksliau aprašoma šio 5 Priedėlio (Statybvietė) II dalyje. ^0c67f420e53c03f4efaa2295
+2.         Jei po Koncesijos dienos šio 5 Priedėlio (Statybvietė) I dalyje aprašyta statybvietė PB (protingai veikiančio) pripažįstama netinkama Projektui, PB apie tai praneš LR taip greitai, kai praktiškai įmanoma, ir bet kuriuo atveju ne vėliau nei iki aštuoniolika (18) Mėnesių nuo Investavimo dienos, kad „Statybvietė“ turėtų būti vakarinė statybvietė (įskaitant vakarinės statybvietės infrastruktūrą), kuri tiksliau aprašoma šio 5 Priedėlio (Statybvietė) II dalyje. ^s-ab39ad3d3e6209393c16d775
 
 
 
@@ -7609,14 +7614,14 @@ LIV Intelektinė nuosavybė
 
 
  11.
- Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, [[#^0fe89fba30eb652abd8febd3|1 dalis]], Nr. MIS-2010-24-PP-B (Lt.)
+ Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, 1 dalis, Nr. MIS-2010-24-PP-B (Lt.)
  2010 m.
  Paslaugų teikimo sutartis Nr. MIS-2010-24, data: 2010 m. balandžio 1 d.
  VAE VĮ Transporto ir kelių tyrimo institutas (Paslaugos teikėjas) UAB Kelprojektas (Paslaugos teikėjas)
 
 
  12.
- Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, [[#^550911fc1230b3afb9ca7c3b|2 dalis]], Nr. MIS-2011-29-PP-T (Lt.)
+ Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, 2 dalis, Nr. MIS-2011-29-PP-T (Lt.)
  2011 m.
  Paslaugų teikimo sutartis Nr. MIS-2011-29, data: 2011 m. gegužės 23 d.
  VAE (VĮ Transporto ir kelių tyrimo institutas (Paslaugos teikėjas)
@@ -7793,44 +7798,44 @@ ESMINIAI PAKEITIMAI IKI GIS
 Pagal 2 paragrafą, žemiau pateikiami pakeitimai yra „Esminiai pakeitimai iki GIS“, o kiekvienas jų – „Esminis pakeitimas iki GIS“:
 
 
-1.1.      Įstatymų pakeitimai Projektui įgyvendinti ^beabde1474fee9b3be706689
+1.1.      Įstatymų pakeitimai Projektui įgyvendinti ^s-aac938585ddb60bf6aca340e
 Žemiau pateikiami Lietuvos Respublikos įstatymai, kurie neteko galios arba buvo pakeisti:
 
 
-1.1.1      Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino atominės elektrinės projekte įstatymas; ir ^43d8d21327067b70f34ce6da
+1.1.1      Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino atominės elektrinės projekte įstatymas; ir ^s-deb0eb324a167aa31a76e151
 
 
-1.1.2      Atominės elektrinės įstatymas, ^7ad4a4059918b41c8e7e1df4
+1.1.2      [[latest/TAR.04F64676CE77|Atominės elektrinės įstatymas]], ^s-4be06c30a6e1a44f8e3b5756
 jeigu grynasis panaikinimo ir/ar esminių pakeitimų poveikis (atsižvelgus ir į kitus galiojančius Įstatymus ir/aplinkybes, įskaitant bet kurių kitų galiojančių Įstatymų pakeitimus ir/ar panaikinimą ar priėmimą), neįskaitant bet kokio išlaidų padidėjimo, kuris nėra Reikšmingas išlaidų padidėjimas, poveikio, turi ar turės labai rimtą neigiamą poveikį Projekto įgyvendinimui arba NAE eksploatavimui, NAE teisėms parduoti NAE pagamintą elektrą, arba Akcininkams įsigyti ir/ar eksportuoti NAE pagamintą elektrą, lyginant su Koncesijos dieną esančiomis aplinkybėmis, o LR neištaisė tokio panaikinimo arba esminio pakeitimo ar tokio panaikinimo arba esminio pakeitimo grynojo esminio neigiamo poveikio (i) per 3 Mėnesius po to, kai PB pateikė pranešimą LR, kad Akcininkai yra pasirengę priimti GIS arba (ii) iki [2015 m. birželio] 30 d., priklausomai nuo to, kuri data yra ankstesnė.
 Šio 1.1. paragrafo tikslais, „Reikšmingas išlaidų padidėjimas“ reiškia Projekto išlaidų padidėjimą, kuris pats savaime (ir ne tik bet kokio laipsniško Projekto išlaidų padidėjimo kontekste) yra labai reikšmingas padidėjimas.
 
 
-1.2       Pasitraukimas iš nurodytų branduolinių sutarčių ar jų denonsavimas ^715da1203e3cc5f59de90a57
+1.2       Pasitraukimas iš nurodytų branduolinių sutarčių ar jų denonsavimas ^s-a123adfd9454d75f77c40fa4
 LR pasitraukimas iš žemiau nurodomų instrumentų, jų denonsavimas ar esminiai pakeitimai (turintys neigiamą poveikį įgyvendinimui), panaikinimas ar negaliojimas bet kurio Lietuvos Respublikos Įstatymo, įgyvendinančio ar bet kuriuos iš šių dokumentų ar suteikiančio jiems teisinę galią:
 
 
-1.2.1      Neplatinimo sutartį; ^2d845ef7f998137666bc17ab
+1.2.1      Neplatinimo sutartį; ^s-91eb8bf67ba675ccc7ee81c8
 
 
-1.2.2      1963 m. Vienos konvenciją; ^c8cf58daa99295a6a40d651a
+1.2.2      1963 m. Vienos konvenciją; ^s-0f79eec7d5cb55c572058279
 
 
-1.2.3      Vienos protokolą (tik nuo tos dienos, kai Vienos protokolas galioja ir yra taikomas Lietuvos Respublikoje ar jos atžvilgiu); ^cb2acec3dd964ef62f94d49f
+1.2.3      Vienos protokolą (tik nuo tos dienos, kai Vienos protokolas galioja ir yra taikomas Lietuvos Respublikoje ar jos atžvilgiu); ^s-d51e4fd31e119d252a454b83
 
 
-1.2.4      Papildomo kompensavimo konvencija (tik nuo tos dienos, kai Papildomo kompensavimo konvencija galioja ir yra taikoma Lietuvos Respublikoje ar jos atžvilgiu); ^f99c61a0a3ae1bcabd05d68f
+1.2.4      Papildomo kompensavimo konvencija (tik nuo tos dienos, kai Papildomo kompensavimo konvencija galioja ir yra taikoma Lietuvos Respublikoje ar jos atžvilgiu); ^s-91c7357a62b6ddaa8dc70c91
 
 
-1.2.5      Bendrą protokolą; ^5744cbbacc3b35f82b22b760
+1.2.5      Bendrą protokolą; ^s-916601293712ff3acfd1c0a6
 
 
-1.2.6      TATENA statutą; ^5cb1368de9a4536533ccf718
+1.2.6      TATENA statutą; ^s-e8d79ca06517d6a5e6b43844
 
 
-1.2.7      TATENA sutartį; ir/arba ^9fc50e49a8ec2045e2422cb3
+1.2.7      TATENA sutartį; ir/arba ^s-ab55c50b384db8400a38aed7
 
 
-1.2.8      bet kurią Branduolinės saugos sutartį, ^f2907ea526161dd170d66dbe
+1.2.8      bet kurią Branduolinės saugos sutartį, ^s-71b1ad390a28f7fd7e682eb6
 kai, laikantis žemiau pateikiamų nuostatų, toks pasitraukimas, denonsavimas, panaikinimas, esminis pakeitimas ar negaliojimas yra Esminis pakeitimas iki GIS nuo tada, kai atitinkamas tarptautinis instrumentas nebėra privalomas ir taikomas Lietuvos Respublikoje ar jos atžvilgiu, arba nuo tada, kai įvyksta toks pasitraukimas, esminis pakeitimas ar negaliojimas, priklausomai nuo, kas įvyksta anksčiau:
 (A)      jei toks LR pasitraukimas, denonsavimas, panaikinimas, esminis pakeitimas ar negaliojimas įvyksta savanoriškai, o ne:
 (1)       dėl atitinkamo paminėto tarptautinio dokumento nutraukimo, negaliojimo ar pakeitimo; arba
@@ -7841,49 +7846,49 @@ kai, laikantis žemiau pateikiamų nuostatų, toks pasitraukimas, denonsavimas, 
 (ir toks pakeičiantis tarptautinis dokumentas ar galiojantis Įstatymas tiek 1.2.8(B)(1), tiek 1.2.8(B)(2) atveju bus „Nurodytas branduolinės sutarties pakeitimas“, o „Nurodyti branduolinės sutarties pakeitimai“ bus atitinkamai aiškinami).
 
 
-1.3       Pasitraukimas iš Energetikos chartijos sutarties ar jos denonsavimas ^736bc3af1ca7dcebf9c1bdc6
+1.3       Pasitraukimas iš Energetikos chartijos sutarties ar jos denonsavimas ^s-aa0c62f5936ca50a13c4b272
 LR pasitraukimas iš Energetikos chartijos sutarties ar jos denonsavimas:
 
 
-1.3.1      jei toks LR pasitraukimas ar denonsavimas įvyksta savanoriškai, o ne: ^d6ba43dc577ef08d001d2602
+1.3.1      jei toks LR pasitraukimas ar denonsavimas įvyksta savanoriškai, o ne: ^s-3def681063521abc0f324c77
 (A)      dėl Energetikos chartijos sutarties nutraukimo ar negaliojimo; arba
 (B)       dėl Europos Komisijos sprendimo ar pranešimo, arba Europos Sąjungos Teisingumo teismo nutarimo, reikalaujančio ar rekomenduojančio, kad LR (konkrečiai) ar (bendriau) Europos Sąjungos valstybės narės pasitrauktų iš Energetikos chartijos sutarties, arba kitaip nustatančio, kad jos egzistavimas neatitinka Europos Sąjungos principų;
 
 
-1.3.2      ir išskyrus, kai kitas tarptautinis dokumentas ar galiojantis Įstatymas yra galiojantis ar pradeda galioti Lietuvos Respublikoje (prieš, tuo pat metu, ar ne vėliau nei per pagrįstą laikotarpį po pasitraukimo iš Energetikos chartijos sutarties ar jos denonsavimo, ir bet kuriuo atveju ne vėliau nei (i) per tris (3) Mėnesius po to, kai PB pateikė pranešimą LR, kad Akcininkai yra pasirengę priimti GIS arba (ii) [2015 m. birželio] 30 d., priklausomai nuo to, kas įvyksta anksčiau) ir: ^8a9b65e5ca96e2d54690027e
+1.3.2      ir išskyrus, kai kitas tarptautinis dokumentas ar galiojantis Įstatymas yra galiojantis ar pradeda galioti Lietuvos Respublikoje (prieš, tuo pat metu, ar ne vėliau nei per pagrįstą laikotarpį po pasitraukimo iš Energetikos chartijos sutarties ar jos denonsavimo, ir bet kuriuo atveju ne vėliau nei (i) per tris (3) Mėnesius po to, kai PB pateikė pranešimą LR, kad Akcininkai yra pasirengę priimti GIS arba (ii) [2015 m. birželio] 30 d., priklausomai nuo to, kas įvyksta anksčiau) ir: ^s-73352802bd00a88ebc2e1967
 (A)      kai pagrįstai manoma, kad toks tarptautinis dokumentas ar galiojantis Įstatymas gali įgyvendinti iš esmės panašų tikslą, kaip ir Energetikos chartijos sutartis; arba
 (B)       jei toks tarptautinis dokumentas ar galiojantis Įstatymas įgyvendina daugiau nei vieną tikslą, bei apima nuostatas, kurios pagrįstai laikomos galinčiomis kartu įgyvendinti iš esmės panašų tikslą, kaip ir Energetikos chartijos sutartis, arba kurį šalys mano esant pakeičiančiuoju tarptautiniu dokumentu, kuris turi pakeisti ar įgyti viršenybę prieš Energetikos chartijos sutartį,
 (ir toks tarptautinis dokumentas ar galiojantis Įstatymas tiek (i), tiek (ii) atveju bus „Energetikos chartijos sutarties pakeitimas“).
 
 
-1.4       Pasitraukimas iš Niujorko konvencijos ar jos denonsavimas ^564246308521ea135098be66
+1.4       Pasitraukimas iš Niujorko konvencijos ar jos denonsavimas ^s-4cf651f92dbb5c1d40e778e8
 LR pasitraukimas iš Niujorko konvencijos, jos denonsavimas ar esminis pakeitimas (turintis neigiamą poveikį įgyvendinimui), atšaukimas ar negaliojimas bet kurio Lietuvos Respublikos Įstatymo, įgyvendinančio ar suteikiančio Niujorko konvencijai galią:
 
 
-1.4.1      jei toks LR pasitraukimas, denonsavimas, atšaukimas, esminis pakeitimas ar negaliojimas įvyksta savanoriškai, o ne: ^db829b4c92fb851a7028c88f
+1.4.1      jei toks LR pasitraukimas, denonsavimas, atšaukimas, esminis pakeitimas ar negaliojimas įvyksta savanoriškai, o ne: ^s-22f0ccd5c9157236cc60d028
 (A)      dėl Niujorko konvencijos nutraukimo ar nebegaliojimo; arba
 (B)       dėl Europos Komisijos sprendimo ar pranešimo, arba Europos Sąjungos Teisingumo teismo nutarimo, reikalaujančio, kad LR (konkrečiai) ar (bendriau) Europos Sąjungos valstybės narės pasitrauktų iš Niujorko konvencijos, arba kitaip nustatančio, kad jos egzistavimas neatitinka Europos Sąjungos principų;
 
 
-1.4.2      ir išskyrus, kai kitas tarptautinis dokumentas ar galiojantis Įstatymas yra taikomas ar pradeda galioti Lietuvos Respublikoje (prieš, tuo pat metu, ar ne vėliau nei per pagrįstą laikotarpį po pasitraukimo iš Niujorko konvencijos ar jos denonsavimo, ir bet kuriuo atveju ne vėliau nei (i) per tris (3) Mėnesius po to, kai PB pateikė pranešimą LR, kad Akcininkai yra pasirengę priimti GIS arba (ii) [2015 m. birželio] 30d. , priklausomai nuo to, kas įvyksta anksčiau) ir: ^7720f582be1d86375759b5d2
+1.4.2      ir išskyrus, kai kitas tarptautinis dokumentas ar galiojantis Įstatymas yra taikomas ar pradeda galioti Lietuvos Respublikoje (prieš, tuo pat metu, ar ne vėliau nei per pagrįstą laikotarpį po pasitraukimo iš Niujorko konvencijos ar jos denonsavimo, ir bet kuriuo atveju ne vėliau nei (i) per tris (3) Mėnesius po to, kai PB pateikė pranešimą LR, kad Akcininkai yra pasirengę priimti GIS arba (ii) [2015 m. birželio] 30d. , priklausomai nuo to, kas įvyksta anksčiau) ir: ^s-7e8e5a545a9bc48d5edb0018
 (A)      kai pagrįstai manoma, kad toks tarptautinis dokumentas ar galiojantis Įstatymas gali įgyvendinti iš esmės panašų tikslą, kaip ir Niujorko konvencija; arba
 (B)       jei tokia sutartis, protokolas, susitarimas, konvencija ar galiojantis Įstatymas įgyvendina daugiau nei vieną tikslą, bei apima nuostatas, kurios pagrįstai laikomos galinčiomis kartu įgyvendinti iš esmės panašų tikslą, kaip ir Niujorko konvencija, arba kurį šalys mano esant pakeičiančiuoju tarptautiniu dokumentu , kuris turi pakeisti ar įgyti viršenybę prieš Niujorko konvenciją,
 (ir toks tarptautinis dokumentas ar galiojantis Įstatymas tiek 1.4.2(A), tiek 1.4.2(B) atveju bus „Niujorko konvencijos pakeitimas“),
 ir kai toks pasitraukimas, denonsavimas, esminis pakeitimas, atšaukimas ar negaliojimas yra Esminis pakeitimas iki GIS nuo dienos, kai Niujorko konvencija nebėra taikoma Lietuvos Respublikoje ar jos atžvilgiu, arba nuo atšaukimo, esminio pakeitimo ar negaliojimo dienos, priklausomai nuo to, kas įvyksta anksčiau.
 
 
-1.5       Neigiamas sprendimas dėl branduolinės energijos ^c5395ea5c1e71f8702f83981
+1.5       Neigiamas sprendimas dėl branduolinės energijos ^s-ae4397ff1226e7f42b131852
 Neigiamas sprendimas dėl branduolinės energijos yra:
 
 
-1.5.1    LR paskelbtas moratoriumas branduolinei energijai, kai „Moratoriumas branduolinei energijai“ reiškia, kad LR skelbia moratoriumą branduolinės energijos gamybai, kuris yra susijęs su Visagino NAE, ir kuris pirmiausia yra tiesioginė Lietuvos Respublikos Seimo politinio sprendimo pasekmė, su sąlyga kad: ^a22edfced1feeec2d2a758b9
+1.5.1    LR paskelbtas moratoriumas branduolinei energijai, kai „Moratoriumas branduolinei energijai“ reiškia, kad LR skelbia moratoriumą branduolinės energijos gamybai, kuris yra susijęs su Visagino NAE, ir kuris pirmiausia yra tiesioginė Lietuvos Respublikos Seimo politinio sprendimo pasekmė, su sąlyga kad: ^s-b4c38a1eb6aa614e950754f6
 (A)      toks moratoriumas nebuvo susijęs ir nebuvo pasekmė:
 (1)       bet kokio aplaidumo ar neveikimo, PB įsipareigojimų pagal šią Koncesijos sutartį ir/ar kitus galiojančius įstatymus (jei taikoma) nevykdymo ar pažeidimo; arba
 (2)       Europos ar tarptautinio sprendimo uždaryti pažangiojo verdančio vandens reaktoriaus tipo atomines elektrines; ir/arba
 (B)       joks Reguliuotojas nebuvo atmetęs PB branduolinio saugumo bylos prieš priimant atitinkamą sprendimą.
 
 
-1.5.2      Bet kokio Lietuvos Respublikoje surengto referendumo rezultatas, kuris: ^ab1205d400a86e5c1689c4c2
+1.5.2      Bet kokio Lietuvos Respublikoje surengto referendumo rezultatas, kuris: ^s-46f315ebb6724cd99f22fefa
 (A)      yra kaip nors susijęs su civiline branduoline energija;
 (B)       yra kaip nors susijęs su branduolinių atliekų (įskaitant panaudotą branduolinį kurą) saugojimu ir tvarkymu;
 (C)       susijęs ar daro poveikį Visagino atominei elektrinei, Projektui ar Koncesijai;
@@ -7892,41 +7897,41 @@ Neigiamas sprendimas dėl branduolinės energijos yra:
 ir turėtų ar galimai turėtų (jei Prezidentas ar Seimas veiktų arba neveiktų sutinkamai su referendumo rezultatais) esminės ir neigiamos įtakos Projektui, Koncesijos vykdymui numatytu laiku ir/ar tikimybei sulaukti teigiamo GIS.
 
 
-2.         ESMINIŲ PAKEITIMŲ iki GIS IŠIMTYS ^550911fc1230b3afb9ca7c3b
+2.         ESMINIŲ PAKEITIMŲ iki GIS IŠIMTYS ^s-c270b1ab659bd17a66acbe9b
 
 
-2.1       Nepaisant šio 8 Priedėlio (Esminis pakeitimas) 1 paragrafo, bet kurie 1 paragrafe aukščiau minimi aplinkybių pakeitimai (išskyrus 1.5. paragrafą) nėra Esminis pakeitimas iki GIS: ^9fb0a137ece410253e2928af
+2.1       Nepaisant šio 8 Priedėlio (Esminis pakeitimas) 1 paragrafo, bet kurie 1 paragrafe aukščiau minimi aplinkybių pakeitimai (išskyrus 1.5. paragrafą) nėra Esminis pakeitimas iki GIS: ^s-33148d945e96b87e1a89eeac
 
 
-2.1.1      jei toks pakeitimas reikalauja tokių pačių ar lygiaverčių veiksmų, kaip ir galiojančių Įstatymų ar techninių, saugumo ar saugos reikalavimų pakeitimas kitoje valstybėje, kurioje įrengiami branduoliniai įrengimai, kas daro įtaką bendrajam reaktoriaus projektavimui, kuris bus naudojamas Projekte, atsižvelgiant į Projekto statybos vietą; ^1737215bbc834bb00d4f4cb3
+2.1.1      jei toks pakeitimas reikalauja tokių pačių ar lygiaverčių veiksmų, kaip ir galiojančių Įstatymų ar techninių, saugumo ar saugos reikalavimų pakeitimas kitoje valstybėje, kurioje įrengiami branduoliniai įrengimai, kas daro įtaką bendrajam reaktoriaus projektavimui, kuris bus naudojamas Projekte, atsižvelgiant į Projekto statybos vietą; ^s-355f4a79354b94bd772ac66a
 
 
-2.1.2      kai tokie pakeitimai perkeliami į Lietuvos Respublikos Įstatymus, ar kitaip suteikia galią arba tampa pasekme suteikiant galią (i) sutartiems principams, susijusiems su atliekų tvarkymu ir eksploatavimo nutraukimu, pateiktiems 6 Priedėlyje (Eksploatavimo nutraukimo ir atliekų tvarkymo finansavimo principai); (ii) Vienos protokolui; (iii) Papildomo kompensavimo konvencijai; ir/arba (iv) bet kokiems pakeitimams, susijusiems su Privažiavimo kelio projektavimu, statyba ar priežiūra ir/arba nacionaliniais projekto finansavimo šaltiniais; ^c4196d81055924c713816e4f
+2.1.2      kai tokie pakeitimai perkeliami į Lietuvos Respublikos Įstatymus, ar kitaip suteikia galią arba tampa pasekme suteikiant galią (i) sutartiems principams, susijusiems su atliekų tvarkymu ir eksploatavimo nutraukimu, pateiktiems 6 Priedėlyje (Eksploatavimo nutraukimo ir atliekų tvarkymo finansavimo principai); (ii) Vienos protokolui; (iii) Papildomo kompensavimo konvencijai; ir/arba (iv) bet kokiems pakeitimams, susijusiems su Privažiavimo kelio projektavimu, statyba ar priežiūra ir/arba nacionaliniais projekto finansavimo šaltiniais; ^s-9c9d3b5a38e811ccb0d2fc37
 
 
-2.1.3      kai tokių pakeitimų projektas iki Koncesijos dienos likus septynioms (7) dienoms ar daugiau Kalendorinių dienų yra paskelbtas Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, bet kurios ministerijos ar Reguliuotojo interneto svetainėje, ir toks pakeitimas yra perkeliamas į Įstatymus ar jais įgyvendinamas iš esmės taip pat, kaip paskelbtas; ^b4d50ef6015732044cf9a33d
+2.1.3      kai tokių pakeitimų projektas iki Koncesijos dienos likus septynioms (7) dienoms ar daugiau Kalendorinių dienų yra paskelbtas Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, bet kurios ministerijos ar Reguliuotojo interneto svetainėje, ir toks pakeitimas yra perkeliamas į Įstatymus ar jais įgyvendinamas iš esmės taip pat, kaip paskelbtas; ^s-5fd534688b14f334b2bd63c0
 
 
-2.1.4      bet koks pakeitimas, perkeliantis į Lietuvos Respublikos Įstatymus ar jais įgyvendinamas, ar kitaip suteikiantis galią: ^8c9f5ba26ecdeb70d1ccdea3
+2.1.4      bet koks pakeitimas, perkeliantis į Lietuvos Respublikos Įstatymus ar jais įgyvendinamas, ar kitaip suteikiantis galią: ^s-7a25dbe2eb190fe2586f4fc0
 (A)      įstatymams, direktyvoms, reglamentams, sprendimams, standartams ar reikalavimams, kurių reikalauja Europos Sąjungos teisė arba reikalauja ar rekomenduoja priimti tarptautinė teisė („Tarpvalstybiniai įstatymai“); arba
 (B)       reikalavimams, principams, standartams ar gairėms, kurias išleido ir/ar paskelbė TATENA, WENRA, ENSREG arba EURATOM ar bet kuri kita institucija, kuri pagrįstai gali būti laikoma pakeičiančia TATENA, WENRA, ENSREG arba EURATOM („Principai, standartai ir gairės“),
 kai toks pakeitimas, kartu su kitu galiojančiu Įstatymu, gali pagrįstai būti laikomas atspindinčiu visą ar dalį Tarpvalstybinių įstatymų ir/ar Principų, standartų ir gairių paskirties;
 
 
-2.1.5      bet koks pakeitimas, kuris perkeliamas į nacionalinius įstatymus ir yra jais įgyvendinamas, ar kitaip suteikia galią įstatymams, direktyvoms, reglamentams, sprendimams, standartams ar reikalavimams, kuriuos rekomenduoja bet kuri Europos Sąjungos institucija („Rekomenduojama (os) priemonė(s)“): ^d62d416360925aeabcf1a82d
+2.1.5      bet koks pakeitimas, kuris perkeliamas į nacionalinius įstatymus ir yra jais įgyvendinamas, ar kitaip suteikia galią įstatymams, direktyvoms, reglamentams, sprendimams, standartams ar reikalavimams, kuriuos rekomenduoja bet kuri Europos Sąjungos institucija („Rekomenduojama (os) priemonė(s)“): ^s-3aceeef042fd0756495607ff
 (A)      kai toks pakeitimas gali būti pagrįstai laikomas atspindinčiu visas ar dalį Rekomenduojamos priemonės (ių) paskirties ir yra pagrįstai proporcingas ar iš esmės labiau neapsunkinantis nei Rekomenduojama (os) priemonės(s), atsižvelgiant į:
 (1)       Projektą, įskaitant Projekto būklę, technologiją ir statybvietę; ir
 (2)       Europos Sąjungoje bendrai taikomus standartus; ir/arba
 (B)       kai toks pakeitimas gali būti pagrįstai laikomas atspindinčiu visas ar dalį Rekomenduojamos priemonės (ių) paskirties ir tai, kaip buvo įgyvendinta bet kuri tokia Rekomenduojama priemonė atsižvelgiant į bet kurį kitą Europos Sąjungos branduolinį įrengimą ir/ar įgyvendinta ar perkelta, arba kitu būdu įgalinta pagal bet kurios kitos Valstybės narės įstatymus; arba
 
 
-2.1.6      jei ir ta apimtimi, kuria pakeitimo reikmė kyla PB pažeidus bet kurį iš savo įsipareigojimų pagal šią Koncesijos sutartį ir galiojančius Įstatymus, arba PB ar EPC rangovui pažeidus bet kurį iš savo įsipareigojimų pagal atitinkamą Papildomą sutartį ar galiojančius Įstatymus, arba dėl kito PB ar EPC rangovo veiksmo ar neveikimo. ^0591b19c8f0ffae19af800e3
+2.1.6      jei ir ta apimtimi, kuria pakeitimo reikmė kyla PB pažeidus bet kurį iš savo įsipareigojimų pagal šią Koncesijos sutartį ir galiojančius Įstatymus, arba PB ar EPC rangovui pažeidus bet kurį iš savo įsipareigojimų pagal atitinkamą Papildomą sutartį ar galiojančius Įstatymus, arba dėl kito PB ar EPC rangovo veiksmo ar neveikimo. ^s-67734bf1890463d123bcb4cf
 
 
-2.2       Nepaisant šio 8 Priedėlio (Esminis pakeitimas) 1.1 paragrafo, 1.1. paragrafas nėra taikomas 1.1.1 ir 1.1.2 paragrafuose numatytų Įstatymų straipsniams, kurie neįsigaliojo Lietuvos Respublikoje, iki tol, kol toks straipsnis įsigalioja Lietuvos Respublikoje. ^edc7886af99945295bf898e3
+2.2       Nepaisant šio 8 Priedėlio (Esminis pakeitimas) 1.1 paragrafo, 1.1. paragrafas nėra taikomas 1.1.1 ir 1.1.2 paragrafuose numatytų Įstatymų straipsniams, kurie neįsigaliojo Lietuvos Respublikoje, iki tol, kol toks straipsnis įsigalioja Lietuvos Respublikoje. ^s-48fb5e16943db33241776431
 
 
-3.         NURODYTOS BRANDUOLINĖS SUTARTIES pakeitimo, ENERGETIKOS CHARTIJOS SUTARTIES pakeitimo AR NIUJORKO KONVENCIJOS pakeitimo GALIOJIMAS ^dc365b005e4c349542e6d21e
+3.         NURODYTOS BRANDUOLINĖS SUTARTIES pakeitimo, ENERGETIKOS CHARTIJOS SUTARTIES pakeitimo AR NIUJORKO KONVENCIJOS pakeitimo GALIOJIMAS ^s-8a06303364bd8374524bc815
 Jei Nurodytas Branduolinės sutarties pakeitimas, Energetikos chartijos sutarties pakeitimas ir/arba Niujorko konvencijos pakeitimas galioja LR ar jos atžvilgiu (kiekviena jų yra „Pakeitimo priemonė“), šio 8 Priedėlio (Esminis pakeitimas) 1.2 paragrafas (Pasitraukimas iš nurodytų branduolinių sutarčių ar jų denonsavimas), 1.3 paragrafas (Pasitraukimas iš Energetikos chartijos sutarties ar jos denonsavimas) ar 1.4 paragrafas (pasitraukimas iš Niujorko konvencijos ar jos denonsavimas), atitinkamai bus laikomi nurodančiais, mutatis mutandis, atitinkamą Pakeitimo priemonę ta apimtimi, kiek tokia Pakeitimo priemonė, ar bet kurios jos nuostatos kartu, gali pagrįstai būti laikomos įgyvendinančiomis iš esmės panašią paskirtį kaip ir pakeičiamas tarptautinis dokumentas , ir bus laikoma, kad atitinkamas Paragrafas nedaro nuorodos į tarptautinį dokumentą, kurį pakeitė Pakeitimo priemonė.
 
 9 PRIEDĖLIS

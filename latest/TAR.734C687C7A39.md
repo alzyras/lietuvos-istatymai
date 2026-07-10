@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.734C687C7A39"
 pavadinimas: "Lietuvos Respublikos vienkartinio gyventojų turto deklaravimo įstatymo papildymo 4-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos vienkartinio gyventojų turto deklaravimo įstatymo papildymo 4-1 straipsniu įstatymas"
+  - "vienkartinio gyventojų turto deklaravimo įstatymo papildymo 4-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-30"
 latest_path: "latest/TAR.734C687C7A39.md"
 latest_sha256: "fea02de96e154439ece77d88bde46f4a22a02f9bdc073a8fd717140773cf96cb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.734C687C7A39]]"
 ---
 # Lietuvos Respublikos vienkartinio gyventojų turto deklaravimo įstatymo papildymo 4-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.734C687C7A39.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.734C687C7A39
+- Ryšiai: [[Ryšiai/TAR.734C687C7A39|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 41 straipsniu
+### 1 straipsnis. Įstatymo papildymas 41 straipsniu ^s-4882e49753f78ae8bfe20c00
 
 
 Papildyti Įstatymą 41 straipsniu:

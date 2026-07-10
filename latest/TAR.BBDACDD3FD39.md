@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BBDACDD3FD39"
 pavadinimas: "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas"
+  - "planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-01"
 latest_path: "latest/TAR.BBDACDD3FD39.md"
 latest_sha256: "50c29fa71f77cb96d5ac61049682dc2d49ae2c91e1fe68067d4e3697389c2796"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BBDACDD3FD39]]"
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BBDACDD3FD39.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BBDACDD3FD39
+- Ryšiai: [[Ryšiai/TAR.BBDACDD3FD39|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nauja redakcija
+### 1 straipsnis.         Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nauja redakcija ^s-9ad1a75bfef5479a6e51c716
 
 
 Pakeisti Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą ir jį išdėstyti taip:
@@ -44,328 +49,328 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO
 
 
 
-## I SKYRIUS
+## I SKYRIUS ^s-014f0410ebca83200991b74a
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-c64a978d202129ec2b0c5bda
 
 
 Šis įstatymas reglamentuoja planuojamos ūkinės veiklos poveikio aplinkai vertinimo procesą bei šio proceso dalyvių tarpusavio santykius.
 
 
 
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-4a94999f0af4f6e9ad34ad62
 
 
-1. Planuojama ūkinė veikla – naujų statinių statyba, esamų statinių rekonstravimas, naujų technologijų įdiegimas, gamybos proceso ir technologinės įrangos modernizavimas ar keitimas, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimas, žemės gelmių ir kitų gamtos išteklių naudojimas, taip pat žemėtvarkos, miškotvarkos bei vandentvarkos projektuose numatoma ūkinė veikla. ^c44048a0fe9318be03eec32e
+1. Planuojama ūkinė veikla – naujų statinių statyba, esamų statinių rekonstravimas, naujų technologijų įdiegimas, gamybos proceso ir technologinės įrangos modernizavimas ar keitimas, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimas, žemės gelmių ir kitų gamtos išteklių naudojimas, taip pat žemėtvarkos, miškotvarkos bei vandentvarkos projektuose numatoma ūkinė veikla. ^s-4ab30d0c1cc27603c95b5baf
 
 
-2. Planuojamos ūkinės veiklos organizatorius (užsakovas) – fizinis, juridinis ar juridinio asmens teisių neturintis asmuo, kuris ketina pradėti planuojamą ūkinę veiklą ir yra atsakingas už šio įstatymo jam nustatytų poveikio aplinkai vertinimo procedūrų atlikimą. ^9edb45f4af4b6b4cc3390165
+2. Planuojamos ūkinės veiklos organizatorius (užsakovas) – fizinis, juridinis ar juridinio asmens teisių neturintis asmuo, kuris ketina pradėti planuojamą ūkinę veiklą ir yra atsakingas už šio įstatymo jam nustatytų poveikio aplinkai vertinimo procedūrų atlikimą. ^s-4bfca4e2b9806e87922df020
 
 
-3. Planuojamos ūkinės veiklos organizatoriaus (užsakovo) įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas – fizinis, juridinis ar juridinio asmens teisių neturintis asmuo, kurį planuojamos ūkinės veiklos organizatorius (užsakovas) įpareigoja nustatyti, apibūdinti ir įvertinti planuojamos ūkinės veiklos galimą poveikį aplinkai, rengti poveikio aplinkai vertinimo programą bei ataskaitą ir atlikti šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras. ^40f9ab129af3d11b22c2ab57
+3. Planuojamos ūkinės veiklos organizatoriaus (užsakovo) įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas – fizinis, juridinis ar juridinio asmens teisių neturintis asmuo, kurį planuojamos ūkinės veiklos organizatorius (užsakovas) įpareigoja nustatyti, apibūdinti ir įvertinti planuojamos ūkinės veiklos galimą poveikį aplinkai, rengti poveikio aplinkai vertinimo programą bei ataskaitą ir atlikti šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras. ^s-dac80cfc5764b4d8a1823e42
 
 
-4. Poveikio aplinkai vertinimas – planuojamos ūkinės veiklos galimo poveikio aplinkai nustatymo, apibūdinimo ir įvertinimo procesas. ^19feb0be641e0eedab9d81ec
+4. Poveikio aplinkai vertinimas – planuojamos ūkinės veiklos galimo poveikio aplinkai nustatymo, apibūdinimo ir įvertinimo procesas. ^s-9e988ea25daec09df058d1fc
 
 
-5. Poveikio aplinkai vertinimo subjektai – valstybės ir vietos savivaldos institucijos, nagrinėjančios poveikio aplinkai vertinimo programas bei ataskaitas ir pagal savo kompetenciją teikiančios išvadas. ^769ad169f3fb49e49a262190
+5. Poveikio aplinkai vertinimo subjektai – valstybės ir vietos savivaldos institucijos, nagrinėjančios poveikio aplinkai vertinimo programas bei ataskaitas ir pagal savo kompetenciją teikiančios išvadas. ^s-2246a749ce3ac0428b9b9da0
 
 
-6. Poveikis aplinkai – numatomas aplinkos pokytis, kurio priežastis yra planuojama ūkinė veikla. ^e4df4bd59af3349a8e14f642
+6. Poveikis aplinkai – numatomas aplinkos pokytis, kurio priežastis yra planuojama ūkinė veikla. ^s-58701d3a49e6d6862538a4e4
 
 
-### 3 straipsnis. Poveikio aplinkai vertinimo objektas
+### 3 straipsnis. Poveikio aplinkai vertinimo objektas ^s-21de5afb241fdb4049fe7406
 
 
-1. Poveikio aplinkai vertinimo objektas yra planuojama ūkinė veikla, kuri dėl savo pobūdžio, masto ar numatomos vietos ypatumų gali daryti reikšmingą poveikį aplinkai. Ši veikla yra įrašyta į: ^ff35cd00d5f602b399533d25
+1. Poveikio aplinkai vertinimo objektas yra planuojama ūkinė veikla, kuri dėl savo pobūdžio, masto ar numatomos vietos ypatumų gali daryti reikšmingą poveikį aplinkai. Ši veikla yra įrašyta į: ^s-d1ac3e791f922cd366905a3a
 
 
-1) planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą (1 priedėlis); ^34397601f76fc22d72a92397
+1) planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą (1 priedėlis); ^s-afed3937b74564aef3889696
 
 
-2) planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai privalomo vertinimo, rūšių sąrašą (2 priedėlis); ^2b2a35697657917ba9b2c821
+2) planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai privalomo vertinimo, rūšių sąrašą (2 priedėlis); ^s-062e1a6b6b2e850f6b2a5720
 
 
-2. Poveikio aplinkai vertinimas atliekamas, kai planuojama ūkinė veikla įrašyta į planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą arba kai planuojamos ūkinės veiklos atrankos (toliau – atranka) metu nustatoma, kad planuojamai ūkinei veiklai yra privalomas jos poveikio aplinkai vertinimas. ^33830f1c750242f7bba26f69
+2. Poveikio aplinkai vertinimas atliekamas, kai planuojama ūkinė veikla įrašyta į planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą arba kai planuojamos ūkinės veiklos atrankos (toliau – atranka) metu nustatoma, kad planuojamai ūkinei veiklai yra privalomas jos poveikio aplinkai vertinimas. ^s-c1955d8d7f0b6a19c3f23a7e
 
 
-3. Visi planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso dalyviai turi teisę reikalauti, o atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos mastą, pobūdį ar vietos ypatumus, nuspręsti, kad atranka dėl poveikio aplinkai privalomo vertinimo būtų atliekama ir planuojamai ūkinei veiklai, kuri neįrašyta į [[#^41c415024c446cd97fa992db|šio straipsnio 1 dalyje]] nurodytus sąrašus. ^f558444b6a7848af31710a21
+3. Visi planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso dalyviai turi teisę reikalauti, o atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos mastą, pobūdį ar vietos ypatumus, nuspręsti, kad atranka dėl poveikio aplinkai privalomo vertinimo būtų atliekama ir planuojamai ūkinei veiklai, kuri neįrašyta į šio straipsnio 1 dalyje nurodytus sąrašus. ^s-16af3c8fd6a0c7860d606d50
 
 
-4. Poveikio aplinkai vertinimas atliekamas prieš planuojamos ūkinės veiklos projekto parengimą, t.y. rengiant statinio statybos pagrindimą ar kitus veiklos tikslingumą pagrindžiančius dokumentus ir atliekant tiriamuosius darbus. ^ae815d6aa722cc9e9bfc5e7c
+4. Poveikio aplinkai vertinimas atliekamas prieš planuojamos ūkinės veiklos projekto parengimą, t.y. rengiant statinio statybos pagrindimą ar kitus veiklos tikslingumą pagrindžiančius dokumentus ir atliekant tiriamuosius darbus. ^s-eda1239f945006fed021c3de
 
 
 
-### 4 straipsnis. Poveikio aplinkai vertinimo tikslai
+### 4 straipsnis. Poveikio aplinkai vertinimo tikslai ^s-8fed8d13a602fae306f39e81
 
 
 Poveikio aplinkai vertinimo tikslai:
 
 
-1) nustatyti, apibūdinti ir įvertinti galimą tiesioginį ir netiesioginį planuojamos ūkinės veiklos poveikį žmonėms, gyvūnijai ir augalijai; dirvožemiui, žemės paviršiui ir jos gelmėms, orui, vandeniui, klimatui, kraštovaizdžiui ir biologinei įvairovei; materialinėms vertybėms ir nekilnojamosioms kultūros vertybėms bei šių aplinkos komponentų tarpusavio sąveikai; ^84bff7a17be517411db964f1
+1) nustatyti, apibūdinti ir įvertinti galimą tiesioginį ir netiesioginį planuojamos ūkinės veiklos poveikį žmonėms, gyvūnijai ir augalijai; dirvožemiui, žemės paviršiui ir jos gelmėms, orui, vandeniui, klimatui, kraštovaizdžiui ir biologinei įvairovei; materialinėms vertybėms ir nekilnojamosioms kultūros vertybėms bei šių aplinkos komponentų tarpusavio sąveikai; ^s-7fd6991e505a072a1bd3c185
 
 
-2) sumažinti planuojamos ūkinės veiklos neigiamą poveikį žmonėms ir kitiems šio straipsnio [[#^84bff7a17be517411db964f1|1 punkte]] išvardytiems aplinkos komponentams ar šio poveikio išvengti; ^fbe4416822cddaecf2bd2f44
+2) sumažinti planuojamos ūkinės veiklos neigiamą poveikį žmonėms ir kitiems šio straipsnio [[#^s-7fd6991e505a072a1bd3c185|1 punkte]] išvardytiems aplinkos komponentams ar šio poveikio išvengti; ^s-9f8935f7bb1976623bbb3cb4
 
 
-3) nustatyti, ar planuojama ūkinė veikla įvertinus jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje. ^6af17d0a15f6f9bd1a1475dc
-
-
-
-### 5 straipsnis. Poveikio aplinkai vertinimo proceso dalyviai
-
-
-1. Poveikio aplinkai vertinimo proceso dalyviai yra: ^f7300f5a53f92c69f2d15bfe
-
-
-1) atsakinga institucija – Aplinkos ministerija ar kita Vyriausybės įgaliota institucija; ^0aa568f0282e45b7e0ad415f
-
-
-2) planuojamos ūkinės veiklos poveikio aplinkai vertinimo subjektai: valstybės institucijos, atsakingos už sveikatos apsaugą, priešgaisrinę apsaugą, kultūros vertybių apsaugą, ūkio plėtrą ir žemės ūkio plėtrą, bei vietos savivaldos institucijos; ^7326c13041d6322af87b4190
-
-
-3) planuojamos ūkinės veiklos organizatorius (užsakovas); ^39926674214be780a61b0dad
-
-
-4) planuojamos ūkinės veiklos organizatoriaus (užsakovo) įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas; ^83085d175593342c17f814ce
-
-
-5) visuomenė. ^aaf37b007c14cd1451b42809
-
-
-2. Poveikio aplinkai vertinimo subjektai gali būti ir kitos [[#^7326c13041d6322af87b4190|šio straipsnio 1 dalies 2 punkte]] nenurodytos valstybės institucijos, jei jos suinteresuotos dalyvauti poveikio aplinkai vertinimo procese ir atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos pobūdį, mastą ar vietos ypatumus, tam pritaria. Tokiais atvejais atsakinga institucija raštu praneša visiems poveikio aplinkai vertinimo subjektams bei planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui, kokios kitos valstybės institucijos dalyvauja poveikio aplinkai vertinimo procese. ^ec9ac29c2d3e60fe65488365
+3) nustatyti, ar planuojama ūkinė veikla įvertinus jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje. ^s-41e0d90c918f1f4e0c0a91b2
 
 
 
-### 6 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių funkcijos
+### 5 straipsnis. Poveikio aplinkai vertinimo proceso dalyviai ^s-32c33b3ae5b714b5f7dad6a7
 
 
-1. Atsakinga institucija: ^531b90ec11494807360a1504
+1. Poveikio aplinkai vertinimo proceso dalyviai yra: ^s-1aa68465b3f96eeded6089f3
 
 
-1) koordinuoja poveikio aplinkai vertinimo procesą; ^141637f3c9cde4fe16b5c90b
+1) atsakinga institucija – Aplinkos ministerija ar kita Vyriausybės įgaliota institucija; ^s-9da12e111e8c6d825d326baa
 
 
-2) atlieka atranką, tvirtina poveikio aplinkai vertinimo programas, nagrinėja visuomenės pasiūlymus, poveikio aplinkai vertinimo ataskaitas, poveikio aplinkai vertinimo subjektų išvadas dėl poveikio aplinkai vertinimo programų, ataskaitų bei planuojamos ūkinės veiklos galimybių ir priima motyvuotą sprendimą, ar planuojama ūkinė veikla įvertinus jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje; ^d596bdae4e13b7417f954ba4
+2) planuojamos ūkinės veiklos poveikio aplinkai vertinimo subjektai: valstybės institucijos, atsakingos už sveikatos apsaugą, priešgaisrinę apsaugą, kultūros vertybių apsaugą, ūkio plėtrą ir žemės ūkio plėtrą, bei vietos savivaldos institucijos; ^s-697e137952ed938cbb97500f
 
 
-3) prireikus pasitelkia konsultantus. Konsultantų dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese savo lėšomis organizuoja atsakinga institucija. ^48a33fbaa80bafbd4e474272
+3) planuojamos ūkinės veiklos organizatorius (užsakovas); ^s-a8bf81557288bbe1d12dbbea
 
 
-2. Planuojamos ūkinės veiklos organizatorius (užsakovas) savo lėšomis atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras. ^93816df1d4607af4d383f1dd
+4) planuojamos ūkinės veiklos organizatoriaus (užsakovo) įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas; ^s-a125b8f69925b2e75ae72da3
 
 
-3. Planuojamos ūkinės veiklos organizatoriaus (užsakovo) įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas nustato, apibūdina ir įvertina planuojamos ūkinės veiklos galimą poveikį aplinkai, rengia poveikio aplinkai vertinimo programą ir ataskaitą bei atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras. ^6fef4e012f16c4c27fd43238
+5) visuomenė. ^s-775b32556b6abc413efc2868
 
 
-4. Planuojamos ūkinės veiklos poveikio aplinkai vertinimo subjektai pagal savo kompetenciją nagrinėja poveikio aplinkai vertinimo programas bei ataskaitas ir teikia išvadas dėl poveikio aplinkai vertinimo programų, ataskaitų bei planuojamos ūkinės veiklos galimybių. ^e206030c5f593653f63ca396
-
-
-5. Visuomenė Aplinkos ministerijos nustatyta tvarka teikia motyvuotus pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir šios veiklos galimo poveikio aplinkai. ^9ae68689360edeb5aee186d7
+2. Poveikio aplinkai vertinimo subjektai gali būti ir kitos [[#^s-697e137952ed938cbb97500f|šio straipsnio 1 dalies 2 punkte]] nenurodytos valstybės institucijos, jei jos suinteresuotos dalyvauti poveikio aplinkai vertinimo procese ir atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos pobūdį, mastą ar vietos ypatumus, tam pritaria. Tokiais atvejais atsakinga institucija raštu praneša visiems poveikio aplinkai vertinimo subjektams bei planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui, kokios kitos valstybės institucijos dalyvauja poveikio aplinkai vertinimo procese. ^s-79d7db7f5d2761362625b0fa
 
 
 
-## II SKYRIUS
+### 6 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių funkcijos ^s-8673e3b4a5e98fa9a6fe612a
+
+
+1. Atsakinga institucija: ^s-a1b2d88b50a41c79112a6661
+
+
+1) koordinuoja poveikio aplinkai vertinimo procesą; ^s-c00445edf0880ecce8d0f965
+
+
+2) atlieka atranką, tvirtina poveikio aplinkai vertinimo programas, nagrinėja visuomenės pasiūlymus, poveikio aplinkai vertinimo ataskaitas, poveikio aplinkai vertinimo subjektų išvadas dėl poveikio aplinkai vertinimo programų, ataskaitų bei planuojamos ūkinės veiklos galimybių ir priima motyvuotą sprendimą, ar planuojama ūkinė veikla įvertinus jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje; ^s-9380a970affb119a182ee509
+
+
+3) prireikus pasitelkia konsultantus. Konsultantų dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese savo lėšomis organizuoja atsakinga institucija. ^s-614f0e2f6199d851f88fc9c0
+
+
+2. Planuojamos ūkinės veiklos organizatorius (užsakovas) savo lėšomis atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras. ^s-e7ef4298b587c10f6d22a4a6
+
+
+3. Planuojamos ūkinės veiklos organizatoriaus (užsakovo) įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas nustato, apibūdina ir įvertina planuojamos ūkinės veiklos galimą poveikį aplinkai, rengia poveikio aplinkai vertinimo programą ir ataskaitą bei atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras. ^s-3001f9aba0d519975d7d1f13
+
+
+4. Planuojamos ūkinės veiklos poveikio aplinkai vertinimo subjektai pagal savo kompetenciją nagrinėja poveikio aplinkai vertinimo programas bei ataskaitas ir teikia išvadas dėl poveikio aplinkai vertinimo programų, ataskaitų bei planuojamos ūkinės veiklos galimybių. ^s-15a8e9ac7aa6c152e236cbb9
+
+
+5. Visuomenė Aplinkos ministerijos nustatyta tvarka teikia motyvuotus pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir šios veiklos galimo poveikio aplinkai. ^s-11643965cd64a86d44076ce7
+
+
+
+## II SKYRIUS ^s-084acdf37a618eab1d600302
 POVEIKIO APLINKAI VERTINIMAS
 
 
 
-### 7 straipsnis. Atranka ir poveikio aplinkai privalomas vertinimas
+### 7 straipsnis. Atranka ir poveikio aplinkai privalomas vertinimas ^s-41fb9dfb07d1af834ce71419
 
 
-1. Poveikio aplinkai vertinimas atliekamas, kai planuojama ūkinė veikla įrašyta į planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą arba kai atrankos metu nustatoma, kad planuojamai ūkinei veiklai yra privalomas jos poveikio aplinkai vertinimas. ^a8a44ec72c08938a4d29e49f
+1. Poveikio aplinkai vertinimas atliekamas, kai planuojama ūkinė veikla įrašyta į planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą arba kai atrankos metu nustatoma, kad planuojamai ūkinei veiklai yra privalomas jos poveikio aplinkai vertinimas. ^s-c624c9081758aa08b16b84ea
 
 
-2. Atranka atliekama planuojamai ūkinei veiklai, įrašytai į planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai privalomo vertinimo, rūšių sąrašą. ^6d8931e18486a96f87e50701
+2. Atranka atliekama planuojamai ūkinei veiklai, įrašytai į planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai privalomo vertinimo, rūšių sąrašą. ^s-b66a2e41b4546ab234f73b5d
 
 
-3. Atrankos tikslas – nustatyti, ar privaloma atlikti konkrečios planuojamos ūkinės veiklos poveikio aplinkai vertinimą. ^67237f75d25af414366d680f
+3. Atrankos tikslas – nustatyti, ar privaloma atlikti konkrečios planuojamos ūkinės veiklos poveikio aplinkai vertinimą. ^s-9c9ece3ce0e7607882d17811
 
 
-4. Atranką atlieka atsakinga institucija, vadovaudamasi planuojamos ūkinės veiklos atrankos metodiniais nurodymais, kuriuos rengia ir tvirtina Aplinkos ministerija. ^eada5fe95ff14d47e674b65f
+4. Atranką atlieka atsakinga institucija, vadovaudamasi planuojamos ūkinės veiklos atrankos metodiniais nurodymais, kuriuos rengia ir tvirtina Aplinkos ministerija. ^s-65229fbabab2d20edd3635d6
 
 
-5. Atranka atliekama remiantis planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar jo įpareigoto poveikio aplinkai vertinimo dokumentų rengėjo pateikta informacija apie vietą, kurioje numatoma planuojama ūkinė veikla, bei informacija, apibūdinančia planuojamą ūkinę veiklą (veiklos mastas, naudojamos technologijos bei medžiagos, gamtinių išteklių naudojimas, pavojingų medžiagų naudojimas, atliekų ir kitų medžiagų susidarymas, panaudojimas ir perdirbimas, tarša ir trukdžiai, galima sąveika su kita planuojama ūkine veikla, avarijų tikimybė ir jų prevencija). ^03c213794d91d51382c1bff7
+5. Atranka atliekama remiantis planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar jo įpareigoto poveikio aplinkai vertinimo dokumentų rengėjo pateikta informacija apie vietą, kurioje numatoma planuojama ūkinė veikla, bei informacija, apibūdinančia planuojamą ūkinę veiklą (veiklos mastas, naudojamos technologijos bei medžiagos, gamtinių išteklių naudojimas, pavojingų medžiagų naudojimas, atliekų ir kitų medžiagų susidarymas, panaudojimas ir perdirbimas, tarša ir trukdžiai, galima sąveika su kita planuojama ūkine veikla, avarijų tikimybė ir jų prevencija). ^s-fdead977e3d9a574617597a6
 
 
-6. Atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos mastą, pobūdį ar vietos ypatumus, gali pareikalauti iš planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar jo įpareigoto poveikio aplinkai vertinimo dokumentų rengėjo papildomos informacijos, reikalingos atrankai atlikti. ^b71f6f724f88ef1fcf3c5bd6
+6. Atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos mastą, pobūdį ar vietos ypatumus, gali pareikalauti iš planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar jo įpareigoto poveikio aplinkai vertinimo dokumentų rengėjo papildomos informacijos, reikalingos atrankai atlikti. ^s-be003dfa0c0fd24e249e80e9
 
 
-7. Atsakinga institucija atlieka atranką ir priima išvadą, ar privalomas poveikio aplinkai vertinimas, remdamasi [[#^03c213794d91d51382c1bff7|šio straipsnio 5 dalyje]] nurodyta informacija bei atsižvelgusi į: ^4420f861c4438900d2f48ac9
+7. Atsakinga institucija atlieka atranką ir priima išvadą, ar privalomas poveikio aplinkai vertinimas, remdamasi [[#^s-fdead977e3d9a574617597a6|šio straipsnio 5 dalyje]] nurodyta informacija bei atsižvelgusi į: ^s-5062d94548133dd708448dfc
 
 
-1) vietovės, kurią planuojama ūkinė veikla gali paveikti, jautrumą aplinkosaugos požiūriu, ekosistemos savybes, kraštovaizdį, žemėnaudos pobūdį, vietovės infrastruktūrą, gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir regeneracijos galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį atkreipdama į saugomas teritorijas, tankiai apgyvendintas teritorijas, pelkes, miškus, apsaugines zonas, teritorijas, kuriose jau viršytas leistinas užterštumo lygis ar kurios vertingos istoriniu, kultūriniu arba archeologiniu aspektu; ^e24cb786e1e7ea7420a69627
+1) vietovės, kurią planuojama ūkinė veikla gali paveikti, jautrumą aplinkosaugos požiūriu, ekosistemos savybes, kraštovaizdį, žemėnaudos pobūdį, vietovės infrastruktūrą, gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir regeneracijos galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį atkreipdama į saugomas teritorijas, tankiai apgyvendintas teritorijas, pelkes, miškus, apsaugines zonas, teritorijas, kuriose jau viršytas leistinas užterštumo lygis ar kurios vertingos istoriniu, kultūriniu arba archeologiniu aspektu; ^s-9d2b36f4b46d8b7d83f5c99e
 
 
-2) galimą planuojamos ūkinės veiklos poveikį aplinkai, ypatingą dėmesį atkreipdama į galimą tarpvalstybinį poveikio pobūdį, poveikio kompleksiškumą, jo tikimybę, trukmę, dažnumą ir grįžtamumą bei teritorijos ir populiacijos dydį; ^b99a175f2b532a1266a7a900
+2) galimą planuojamos ūkinės veiklos poveikį aplinkai, ypatingą dėmesį atkreipdama į galimą tarpvalstybinį poveikio pobūdį, poveikio kompleksiškumą, jo tikimybę, trukmę, dažnumą ir grįžtamumą bei teritorijos ir populiacijos dydį; ^s-f9bfa49edd3007e4caf0a348
 
 
-8. Atsakinga institucija per 20 darbo dienų nuo informacijos atrankai atlikti gavimo dienos raštu pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo subjektams atrankos išvadą, ar privalomas poveikio aplinkai vertinimas. ^34235e1e6397331bea71de89
+8. Atsakinga institucija per 20 darbo dienų nuo informacijos atrankai atlikti gavimo dienos raštu pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo subjektams atrankos išvadą, ar privalomas poveikio aplinkai vertinimas. ^s-4131d874d6d10251ea81d349
 
 
-9. Apie tai, kad pagal [[#^a8a44ec72c08938a4d29e49f|šio straipsnio 1 dalies]] nuostatas poveikį aplinkai privaloma vertinti, arba apie atrankos išvadą planuojamos ūkinės veiklos organizatorius (užsakovas) praneša visuomenei Aplinkos ministerijos patvirtinta tvarka. ^069dd839bbb9db412d1d0438
+9. Apie tai, kad pagal [[#^s-c624c9081758aa08b16b84ea|šio straipsnio 1 dalies]] nuostatas poveikį aplinkai privaloma vertinti, arba apie atrankos išvadą planuojamos ūkinės veiklos organizatorius (užsakovas) praneša visuomenei Aplinkos ministerijos patvirtinta tvarka. ^s-1ba6fd93fe54484ff569ab76
 
 
-10. Visuomenė per 10 darbo dienų nuo atrankos išvados paskelbimo dienos turi teisę nustatyta tvarka teikti atsakingai institucijai motyvuotus pasiūlymus persvarstyti atrankos išvadą. ^b689c2b5a5ee95bd87290d9c
+10. Visuomenė per 10 darbo dienų nuo atrankos išvados paskelbimo dienos turi teisę nustatyta tvarka teikti atsakingai institucijai motyvuotus pasiūlymus persvarstyti atrankos išvadą. ^s-8b694fae681e71daf5c6e85d
 
 
-11. Planuojamos ūkinės veiklos organizatorius (užsakovas) per 10 darbo dienų nuo atrankos išvados gavimo dienos turi teisę pateikti atsakingai institucijai motyvuotą prašymą persvarstyti atrankos išvadą. ^e0c1c6f1d17cba3522f4c3f0
+11. Planuojamos ūkinės veiklos organizatorius (užsakovas) per 10 darbo dienų nuo atrankos išvados gavimo dienos turi teisę pateikti atsakingai institucijai motyvuotą prašymą persvarstyti atrankos išvadą. ^s-4bcd42a3d4ccfa10be9f636e
 
 
-12. Atsakinga institucija, gavusi planuojamos ūkinės veiklos organizatoriaus (užsakovo) motyvuotą prašymą ar motyvuotus visuomenės pasiūlymus persvarstyti atrankos išvadą, kviečia atvykti suinteresuotus poveikio aplinkai vertinimo subjektus dalyvauti priimant galutinę atrankos išvadą, ar privalomas poveikio aplinkai vertinimas. ^c3cd944ee6a361c25e620e27
+12. Atsakinga institucija, gavusi planuojamos ūkinės veiklos organizatoriaus (užsakovo) motyvuotą prašymą ar motyvuotus visuomenės pasiūlymus persvarstyti atrankos išvadą, kviečia atvykti suinteresuotus poveikio aplinkai vertinimo subjektus dalyvauti priimant galutinę atrankos išvadą, ar privalomas poveikio aplinkai vertinimas. ^s-bde9faf9814bdbbd7b7b3f06
 
 
-13. Jei galutinė atrankos išvada prieštarauja išvadai, priimtai pagal [[#^4420f861c4438900d2f48ac9|šio straipsnio 7 dalies]] nuostatas, planuojamos ūkinės veiklos organizatorius (užsakovas) apie tai praneša visuomenei Aplinkos ministerijos patvirtinta tvarka. ^a4e0c8b6a1d2e7ea41fba052
+13. Jei galutinė atrankos išvada prieštarauja išvadai, priimtai pagal [[#^s-5062d94548133dd708448dfc|šio straipsnio 7 dalies]] nuostatas, planuojamos ūkinės veiklos organizatorius (užsakovas) apie tai praneša visuomenei Aplinkos ministerijos patvirtinta tvarka. ^s-40b54a85931f2eb72cd80753
 
 
 
-### 8 straipsnis. Poveikio aplinkai vertinimo programa
+### 8 straipsnis. Poveikio aplinkai vertinimo programa ^s-d9130b101057abf3ed742aca
 
 
-1. Poveikio aplinkai vertinimo programa (toliau – programa) rengiama visais atvejais, kai pagal [[#^a8a44ec72c08938a4d29e49f|7 straipsnio 1 dalies]] nuostatas privaloma vertinti planuojamos ūkinės veiklos poveikį aplinkai. ^9126fe311a4888deff2d98b5
+1. Poveikio aplinkai vertinimo programa (toliau – programa) rengiama visais atvejais, kai pagal [[#^s-c624c9081758aa08b16b84ea|7 straipsnio 1 dalies]] nuostatas privaloma vertinti planuojamos ūkinės veiklos poveikį aplinkai. ^s-4b2daed4d665cd61de113a0e
 
 
-2. Programą rengia planuojamos ūkinės veiklos organizatorius (užsakovas) arba jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas, vadovaudamasis Aplinkos ministerijos patvirtintais poveikio aplinkai vertinimo programos ir ataskaitos rengimo nuostatais. ^4f9021f5d314b9cfd0c8978e
+2. Programą rengia planuojamos ūkinės veiklos organizatorius (užsakovas) arba jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas, vadovaudamasis Aplinkos ministerijos patvirtintais poveikio aplinkai vertinimo programos ir ataskaitos rengimo nuostatais. ^s-9e45eb8aae5c70d125a7e458
 
 
-3. Programa nustato planuojamos ūkinės veiklos poveikio aplinkai vertinimo ataskaitos (toliau – ataskaita) turinį, joje nagrinėjamus klausimus ir pateiktinos informacijos kiekį. ^a696f614b9a2601195a1f506
+3. Programa nustato planuojamos ūkinės veiklos poveikio aplinkai vertinimo ataskaitos (toliau – ataskaita) turinį, joje nagrinėjamus klausimus ir pateiktinos informacijos kiekį. ^s-805f223397f9cc64b6847c72
 
 
-4. Programoje turi būti pateikiama bent ši informacija: ^ec5b19c1b4572c6994e187bd
+4. Programoje turi būti pateikiama bent ši informacija: ^s-d5b059beb3e7e38dadb19e18
 
 
-1) apibūdintos pagrindinių planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar jo įpareigoto poveikio aplinkai vertinimo dokumentų rengėjo svarstytos alternatyvos, nurodytos jų pasirinkimo priežastys atsižvelgus į geriausius prieinamus gamybos būdus bei galimą poveikį aplinkai; ^c87ddb9bda10c5db3f18b18d
+1) apibūdintos pagrindinių planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar jo įpareigoto poveikio aplinkai vertinimo dokumentų rengėjo svarstytos alternatyvos, nurodytos jų pasirinkimo priežastys atsižvelgus į geriausius prieinamus gamybos būdus bei galimą poveikį aplinkai; ^s-434aeb851d9565fefeaa21bd
 
 
-2) techninių charakteristikų, technologinio proceso ir numatomų naudoti medžiagų, gamtinių išteklių reikmių ir žemės naudojimo (statybos ir eksploatacijos etapų metu) aprašymas; susidarysiančių teršalų aprašymas; atliekų ir kitų medžiagų susidarymo, panaudojimo ir perdirbimo aprašymas; aplinkos komponentų, kuriuos planuojama ūkinė veikla gali paveikti, aprašymas; trumpas planuojamos ūkinės veiklos galimo poveikio aplinkai aprašymas atsižvelgiant į galimą sąveiką su kita ūkine veikla; priemonių, numatytų neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ar jo pasekmėms likviduoti, aprašymas; numatytos galimos ekstremalios situacijos (avarijos) ir priemonės joms išvengti bei padariniams likviduoti; ^75369d76053032fb52a97aa9
+2) techninių charakteristikų, technologinio proceso ir numatomų naudoti medžiagų, gamtinių išteklių reikmių ir žemės naudojimo (statybos ir eksploatacijos etapų metu) aprašymas; susidarysiančių teršalų aprašymas; atliekų ir kitų medžiagų susidarymo, panaudojimo ir perdirbimo aprašymas; aplinkos komponentų, kuriuos planuojama ūkinė veikla gali paveikti, aprašymas; trumpas planuojamos ūkinės veiklos galimo poveikio aplinkai aprašymas atsižvelgiant į galimą sąveiką su kita ūkine veikla; priemonių, numatytų neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ar jo pasekmėms likviduoti, aprašymas; numatytos galimos ekstremalios situacijos (avarijos) ir priemonės joms išvengti bei padariniams likviduoti; ^s-9136773576f9e2ff3b68564e
 
 
-3) taikytini poveikio aplinkai prognozavimo ir vertinimo metodai. ^10952be57478ab7d769ebd00
+3) taikytini poveikio aplinkai prognozavimo ir vertinimo metodai. ^s-7f663c8b55bfc019338ca584
 
 
-5. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas parengtą programą pateikia poveikio aplinkai vertinimo subjektams. ^1b17062dcbd6829042b00d9f
+5. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas parengtą programą pateikia poveikio aplinkai vertinimo subjektams. ^s-0e9469e20811bfa8ae9da69c
 
 
-6. Poveikio aplinkai vertinimo subjektai programą išnagrinėja ir per 10 darbo dienų nuo jos gavimo dienos savo išvadas pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui. ^21a3a1cca0b77f4f27a02d20
+6. Poveikio aplinkai vertinimo subjektai programą išnagrinėja ir per 10 darbo dienų nuo jos gavimo dienos savo išvadas pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui. ^s-514ef3c475b939abb026ceb8
 
 
-7. Poveikio aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų poveikio aplinkai vertinimo programą. Tokiais atvejais planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildo ar pataiso programą ir pakartotinai teikia ją poveikio aplinkai vertinimo subjektams, kurie programą išnagrinėja ir per 5 darbo dienas nuo jos gavimo dienos pateikia savo išvadas planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui. ^cca1be90054722865da8ca0d
+7. Poveikio aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų poveikio aplinkai vertinimo programą. Tokiais atvejais planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildo ar pataiso programą ir pakartotinai teikia ją poveikio aplinkai vertinimo subjektams, kurie programą išnagrinėja ir per 5 darbo dienas nuo jos gavimo dienos pateikia savo išvadas planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui. ^s-40e9e9ebc97969ba0262b8ac
 
 
-8. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas programą ir visų poveikio aplinkai vertinimo subjektų išvadas pateikia atsakingai institucijai. ^d8f6a83dbddd4d36bbf65b52
+8. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas programą ir visų poveikio aplinkai vertinimo subjektų išvadas pateikia atsakingai institucijai. ^s-56e5b959a5df0b437bfa2288
 
 
-9. Atsakinga institucija, išnagrinėjusi poveikio aplinkai vertinimo subjektų išvadas, tvirtina programą per 10 darbo dienų nuo jos gavimo dienos. ^af8b147e36e39142c1bde775
+9. Atsakinga institucija, išnagrinėjusi poveikio aplinkai vertinimo subjektų išvadas, tvirtina programą per 10 darbo dienų nuo jos gavimo dienos. ^s-29f7aa61e3b6762b560a6ae4
 
 
-10. Kai poveikio aplinkai vertinimo subjektų išvados prieštarauja viena kitai, atsakinga institucija, prieš tvirtindama programą, kviečia atvykti poveikio aplinkai vertinimo subjektus dalyvauti svarstant jų išvadas. ^8052da230aa7d05b43cbd5b9
+10. Kai poveikio aplinkai vertinimo subjektų išvados prieštarauja viena kitai, atsakinga institucija, prieš tvirtindama programą, kviečia atvykti poveikio aplinkai vertinimo subjektus dalyvauti svarstant jų išvadas. ^s-b17ce88c059b714b63185e52
 
 
 
-### 9 straipsnis. Poveikio aplinkai vertinimo ataskaita
+### 9 straipsnis. Poveikio aplinkai vertinimo ataskaita ^s-a28ae3fb9d06669c4a4f7563
 
 
-1. Poveikio aplinkai vertinimo ataskaitą rengia planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas pagal atsakingos institucijos patvirtintą programą. Šioje ataskaitoje privalo būti išsamiai išnagrinėti visi programoje numatyti klausimai, pateikta poveikio aplinkai vertinimo dokumentų rengėjo išnagrinėtų alternatyvų analizė, aplinkos monitoringo planas, informacija apie techninio ar praktinio pobūdžio problemas, kurios planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui kilo atliekant poveikio aplinkai vertinimą, bei visos ataskaitoje nagrinėjamos informacijos santrauka. ^df337e65b8e0da5e78e7c39f
+1. Poveikio aplinkai vertinimo ataskaitą rengia planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas pagal atsakingos institucijos patvirtintą programą. Šioje ataskaitoje privalo būti išsamiai išnagrinėti visi programoje numatyti klausimai, pateikta poveikio aplinkai vertinimo dokumentų rengėjo išnagrinėtų alternatyvų analizė, aplinkos monitoringo planas, informacija apie techninio ar praktinio pobūdžio problemas, kurios planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui kilo atliekant poveikio aplinkai vertinimą, bei visos ataskaitoje nagrinėjamos informacijos santrauka. ^s-3f5a75d58e1983f86fe8a32e
 
 
-2. Planuojamos ūkinės veiklos organizatorius (užsakovas) nustatyta tvarka organizuoja visuomenės supažindinimą su poveikio aplinkai vertinimo ataskaita. ^45b7a97a8f025abe7c2c07b1
+2. Planuojamos ūkinės veiklos organizatorius (užsakovas) nustatyta tvarka organizuoja visuomenės supažindinimą su poveikio aplinkai vertinimo ataskaita. ^s-f5a1e7fdffca4c2100b3b32f
 
 
-3. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas pateikia pagal motyvuotus visuomenės pasiūlymus patikslintą ataskaitą poveikio aplinkai vertinimo subjektams, kurie patikrina, ar ataskaitoje pakankamai išsamiai išnagrinėti jų kompetencijai priklausantys ir programoje numatyti klausimai. ^40353520c561322263b587b2
+3. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas pateikia pagal motyvuotus visuomenės pasiūlymus patikslintą ataskaitą poveikio aplinkai vertinimo subjektams, kurie patikrina, ar ataskaitoje pakankamai išsamiai išnagrinėti jų kompetencijai priklausantys ir programoje numatyti klausimai. ^s-b0f0fad7049fc19fb24c0bb2
 
 
-4. Poveikio aplinkai vertinimo subjektai išnagrinėja ataskaitą ir per 20 darbo dienų nuo jos gavimo dienos savo išvadas pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui kartu su atsakingai institucijai skirtomis išvadomis dėl planuojamos ūkinės veiklos galimybių. ^a5d68936b4a67f9528451348
+4. Poveikio aplinkai vertinimo subjektai išnagrinėja ataskaitą ir per 20 darbo dienų nuo jos gavimo dienos savo išvadas pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui kartu su atsakingai institucijai skirtomis išvadomis dėl planuojamos ūkinės veiklos galimybių. ^s-bd5e6833723d79fae6c65ff7
 
 
-5. Poveikio aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų poveikio aplinkai vertinimo ataskaitą. Tokiais atvejais planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildo ar pataiso ataskaitą ir pakartotinai teikia ją poveikio aplinkai vertinimo subjektams, kurie ataskaitą išnagrinėja ir per 10 darbo dienų nuo jos gavimo dienos savo išvadas pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui kartu su atsakingai institucijai skirtomis išvadomis dėl planuojamos ūkinės veiklos galimybių. ^bab8e4d7a07143533b3f1c25
+5. Poveikio aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų poveikio aplinkai vertinimo ataskaitą. Tokiais atvejais planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas papildo ar pataiso ataskaitą ir pakartotinai teikia ją poveikio aplinkai vertinimo subjektams, kurie ataskaitą išnagrinėja ir per 10 darbo dienų nuo jos gavimo dienos savo išvadas pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui kartu su atsakingai institucijai skirtomis išvadomis dėl planuojamos ūkinės veiklos galimybių. ^s-9c1378f4354fd32d31893b66
 
 
-6. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir dėl planuojamos ūkinės veiklos galimybių bei argumentuotą visuomenės pasiūlymų įvertinimą. ^06aed236d1c85c2909ad7bf1
+6. Planuojamos ūkinės veiklos organizatorius (užsakovas) ar jo įpareigotas poveikio aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir dėl planuojamos ūkinės veiklos galimybių bei argumentuotą visuomenės pasiūlymų įvertinimą. ^s-f66d6da9254374949e37585b
 
 
 
-### 10 straipsnis. Sprendimas dėl planuojamos ūkinės veiklos
+### 10 straipsnis. Sprendimas dėl planuojamos ūkinės veiklos ^s-fc2094d9c1499a4dd15a5349
 
 
-1. Atsakinga institucija, išnagrinėjusi ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir dėl planuojamos ūkinės veiklos galimybių bei argumentuotą visuomenės pasiūlymų įvertinimą, per 25 darbo dienas nuo ataskaitos gavimo dienos priima motyvuotą sprendimą, ar planuojama ūkinė veikla atsižvelgiant į jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje. Motyvuotą sprendimą atsakinga institucija raštu pateikia poveikio aplinkai vertinimo subjektams ir planuojamos ūkinės veiklos organizatoriui (užsakovui). ^1734e899e8ba0d7450ed720a
+1. Atsakinga institucija, išnagrinėjusi ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir dėl planuojamos ūkinės veiklos galimybių bei argumentuotą visuomenės pasiūlymų įvertinimą, per 25 darbo dienas nuo ataskaitos gavimo dienos priima motyvuotą sprendimą, ar planuojama ūkinė veikla atsižvelgiant į jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje. Motyvuotą sprendimą atsakinga institucija raštu pateikia poveikio aplinkai vertinimo subjektams ir planuojamos ūkinės veiklos organizatoriui (užsakovui). ^s-cd201b4d76d796706f24942a
 
 
-2. Kai poveikio aplinkai vertinimo subjektų išvados dėl planuojamos ūkinės veiklos galimybių prieštarauja viena kitai, atsakinga institucija, prieš priimdama galutinį sprendimą, kviečia atvykti poveikio aplinkai vertinimo subjektus dalyvauti svarstant jų išvadas. ^6bae1fd224209ea70a1b87c3
+2. Kai poveikio aplinkai vertinimo subjektų išvados dėl planuojamos ūkinės veiklos galimybių prieštarauja viena kitai, atsakinga institucija, prieš priimdama galutinį sprendimą, kviečia atvykti poveikio aplinkai vertinimo subjektus dalyvauti svarstant jų išvadas. ^s-71d75f6f537d962b0fa8eec8
 
 
-3. Atsakingos institucijos priimtas teigiamas sprendimas dėl planuojamos ūkinės veiklos galimybių galioja penkerius metus nuo jo priėmimo dienos. ^e73f49ad0097ff7f87435b1a
+3. Atsakingos institucijos priimtas teigiamas sprendimas dėl planuojamos ūkinės veiklos galimybių galioja penkerius metus nuo jo priėmimo dienos. ^s-2cdaf34f177f5807940e3cd6
 
 
-4. Jei atsakinga institucija priima sprendimą, kad planuojama ūkinė veikla dėl galimo neigiamo poveikio aplinkai pasirinktoje vietoje neleistina, planuojama ūkinė veikla negali būti vykdoma. ^2dfbb4f58d22fce669531054
+4. Jei atsakinga institucija priima sprendimą, kad planuojama ūkinė veikla dėl galimo neigiamo poveikio aplinkai pasirinktoje vietoje neleistina, planuojama ūkinė veikla negali būti vykdoma. ^s-558726d6cbe8343ec6887f6d
 
 
-5. Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas) nustatyta tvarka praneša visuomenei motyvuotą sprendimą, ar planuojama ūkinė veikla atsižvelgiant į jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje, ir suteikia galimybę su juo susipažinti. ^4a6f34ef523a218085c802de
+5. Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas) nustatyta tvarka praneša visuomenei motyvuotą sprendimą, ar planuojama ūkinė veikla atsižvelgiant į jos pobūdį ir poveikį aplinkai leistina pasirinktoje vietoje, ir suteikia galimybę su juo susipažinti. ^s-a7155717dfcfb69bffc0efaa
 
 
 
-## III SKYRIUS
+## III SKYRIUS ^s-74badcbf143d7c705bb6620f
 BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 11 straipsnis. Poveikio aplinkai vertinimas tarpvalstybiniame kontekste
+### 11 straipsnis. Poveikio aplinkai vertinimas tarpvalstybiniame kontekste ^s-9f7f1319c510863e73637bc4
 
 
-1. Tais atvejais, kai Lietuvos Respublikos teritorijoje planuojama ūkinė veikla gali turėti reikšmingą neigiamą poveikį užsienio valstybei, kuri yra prisijungusi prie Jungtinių Tautų Organizacijos 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, arba kai tokia valstybė pareikalauja, poveikio aplinkai vertinimas atliekamas vadovaujantis Konvencija, Lietuvos Respublikos ir atitinkamų užsienio valstybių tarptautinėmis sutartimis, šiuo įstatymu ir kitais teisės aktais. ^f20e9b96a59cec8f03fb9143
+1. Tais atvejais, kai Lietuvos Respublikos teritorijoje planuojama ūkinė veikla gali turėti reikšmingą neigiamą poveikį užsienio valstybei, kuri yra prisijungusi prie Jungtinių Tautų Organizacijos 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, arba kai tokia valstybė pareikalauja, poveikio aplinkai vertinimas atliekamas vadovaujantis Konvencija, Lietuvos Respublikos ir atitinkamų užsienio valstybių tarptautinėmis sutartimis, šiuo įstatymu ir kitais teisės aktais. ^s-8b37c512b51058642c296540
 
 
-2. Jeigu Konvencija dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste ar Lietuvos Respublikos tarptautinės sutartys nustato kitokias poveikio aplinkai vertinimo procedūras nei šis įstatymas, taikomos Konvencijos ar Lietuvos Respublikos tarptautinių sutarčių nuostatos. ^2483b9c87611a93c7adf24de
+2. Jeigu Konvencija dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste ar Lietuvos Respublikos tarptautinės sutartys nustato kitokias poveikio aplinkai vertinimo procedūras nei šis įstatymas, taikomos Konvencijos ar Lietuvos Respublikos tarptautinių sutarčių nuostatos. ^s-a433062875cad94b55798aa0
 
 
 
-### 12 straipsnis.       Informacijos, reikalingos poveikio aplinkai vertinimui atlikti, prieinamumas
+### 12 straipsnis.       Informacijos, reikalingos poveikio aplinkai vertinimui atlikti, prieinamumas ^s-eb8732509658008863ac5005
 
 
 Valstybės ar vietos savivaldos institucijos, disponuojančios informacija apie aplinką, reikalinga poveikio aplinkai vertinimui atlikti, privalo planuojamos ūkinės veiklos organizatoriui (užsakovui) ar jo įpareigotam poveikio aplinkai vertinimo dokumentų rengėjui suteikti galimybę šia informacija pasinaudoti Vyriausybės nustatyta tvarka.
 
 
 
-### 13 straipsnis. Poveikio aplinkai vertinimo proceso viešumas
+### 13 straipsnis. Poveikio aplinkai vertinimo proceso viešumas ^s-7284e22aa454336d4fb63577
 
 
-1. Poveikio aplinkai vertinimo metu visuomenė turi teisę įstatymų nustatyta tvarka gauti iš kitų planuojamos ūkinės veiklos poveikio aplinkai vertinimo dalyvių informaciją apie galimą planuojamos ūkinės veiklos poveikį aplinkai. ^7948c9fbeb830e68b72c4928
+1. Poveikio aplinkai vertinimo metu visuomenė turi teisę įstatymų nustatyta tvarka gauti iš kitų planuojamos ūkinės veiklos poveikio aplinkai vertinimo dalyvių informaciją apie galimą planuojamos ūkinės veiklos poveikį aplinkai. ^s-0bef7f7a8a3a9e5bd807902a
 
 
-2. Visuomenės informavimą ir dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese savo lėšomis nustatyta tvarka organizuoja planuojamos ūkinės veiklos organizatorius (užsakovas). ^dcec463bb98132f4068710b7
+2. Visuomenės informavimą ir dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese savo lėšomis nustatyta tvarka organizuoja planuojamos ūkinės veiklos organizatorius (užsakovas). ^s-9269e5ad0b6192467a60f6eb
 
 
-3. Visuomenės informavimo ir dalyvavimo planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese tvarką nustato Aplinkos ministerija. ^fb3bf60d431af7a520a867dd
+3. Visuomenės informavimo ir dalyvavimo planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese tvarką nustato Aplinkos ministerija. ^s-12a01b166a62c6dbc29dacdc
 
 
 
-### 14 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių atsakomybė
+### 14 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių atsakomybė ^s-ec508d57be6a2921e5895055
 
 
 Poveikio aplinkai vertinimo proceso dalyviai įstatymų nustatyta tvarka atsako už šio įstatymo nuostatų vykdymą, teisingos informacijos pateikimą ir pagal savo kompetenciją padarytas išvadas ir sprendimus.
 
 
 
-### 15 straipsnis. Ginčų nagrinėjimas
+### 15 straipsnis. Ginčų nagrinėjimas ^s-fa5c0c22ec4840e16483ec93
 
 
-1. Ginčus dėl šio įstatymo nuostatų taikymo ir atsakingos institucijos sprendimų įstatymų nustatyta tvarka nagrinėja Lietuvos Respublikos teismai. ^bcbd4cb348b090373d7d2f77
+1. Ginčus dėl šio įstatymo nuostatų taikymo ir atsakingos institucijos sprendimų įstatymų nustatyta tvarka nagrinėja Lietuvos Respublikos teismai. ^s-7f4a60b617283ba5f8f302d4
 
 
-2. Lietuvos Respublikos ir kitų valstybių juridinių bei fizinių asmenų ginčai sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitokia šių ginčų nagrinėjimo ir sprendimo tvarka.“ ^f7a1a0c400a92cc6d32648ba
-
-
-
-### 2 straipsnis. Įstatymo įsigaliojimas
-
-
-Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas įsigalioja nuo 2000 m. birželio 1 d., išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo [[#11 straipsnis. Poveikio aplinkai vertinimas tarpvalstybiniame kontekste|11 straipsnį]], kuris įsigalioja Lietuvos Respublikai prisijungus prie Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste.
+2. Lietuvos Respublikos ir kitų valstybių juridinių bei fizinių asmenų ginčai sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitokia šių ginčų nagrinėjimo ir sprendimo tvarka.“ ^s-b6efa57eac60be7d126106a3
 
 
 
-### 3 straipsnis. Pasiūlymai Vyriausybei
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b536a2a7f3b40576d86b1288
+
+
+Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas įsigalioja nuo 2000 m. birželio 1 d., išskyrus [[latest/TAR.0539E2FEB29E#^s-fdda3fdfaeac221e35e5b00e|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 11 straipsnį]], kuris įsigalioja Lietuvos Respublikai prisijungus prie Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste.
+
+
+
+### 3 straipsnis. Pasiūlymai Vyriausybei ^s-fe70fc34a6a654f194ff0ac4
 
 
 Vyriausybė per vieną mėnesį nuo Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymo įsigaliojimo parengia Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymui įgyvendinti būtinus teisės aktus.
@@ -391,141 +396,141 @@ RŪŠIŲ SĄRAŠAS
 
 
 
-1. Žemės ir vandens ūkis ^e59d9a83d364e53353d77b8d
+1. Žemės ir vandens ūkis ^s-c97f37f5b40a38f378255355
 
 
-1.1. Kiaulininkystė (900 ir daugiau paršavedžių; 3 000 ir daugiau kitų kiaulių) ^7eb88d79a32d684cafbb3203
+1.1. Kiaulininkystė (900 ir daugiau paršavedžių; 3 000 ir daugiau kitų kiaulių) ^s-77b2110d0ab5589df942de63
 
 
-1.2. Vištų auginimas (85 000 ir daugiau broilerių; 60 000 ir daugiau vištų) ^2bf28a284ec2d347a180034a
+1.2. Vištų auginimas (85 000 ir daugiau broilerių; 60 000 ir daugiau vištų) ^s-ee1f3d873c997aefff0c0e4d
 
 
-1.3. Tvenkinių įrengimas (daugiau kaip 5 milijonai m3 vandens tūrio) ^8ab740bdcef166f9b177a899
+1.3. Tvenkinių įrengimas (daugiau kaip 5 milijonai m3 vandens tūrio) ^s-f6600dd39409c6f815e2952b
 
 
 
-2. Gavyba ir perdirbamoji pramonė ^fbb89775ef978a22d2e540ee
+2. Gavyba ir perdirbamoji pramonė ^s-3977ed563512bb055f09f152
 
 
-2.1. Naftos gavyba ar jos perdirbimas (išskyrus tepalo gamybą iš nevalytos naftos) ^1d55c4c4ff53dc4211739eaf
+2.1. Naftos gavyba ar jos perdirbimas (išskyrus tepalo gamybą iš nevalytos naftos) ^s-4cf84b596a43597204860094
 
 
-2.2. Gamtinių dujų gavyba (kai išgaunama daugiau kaip 500 000 m3 per parą) ^72611ecb6e936fd19977d345
+2.2. Gamtinių dujų gavyba (kai išgaunama daugiau kaip 500 000 m3 per parą) ^s-0fc5930601ad9d763f2e7754
 
 
-2.3. Durpių gavyba (kai gavybos plotas – 150 ha ir didesnis) ^a60742a4c5d4bb3ecbd3a1c5
+2.3. Durpių gavyba (kai gavybos plotas – 150 ha ir didesnis) ^s-936faad94f78ef0b6181f808
 
 
-2.4. Kitų naudingųjų iškasenų kasyba ar akmens skaldymas (kai kasybos plotas – 25 ha ir didesnis) ^09b791f7d2e6233611e7c9c1
+2.4. Kitų naudingųjų iškasenų kasyba ar akmens skaldymas (kai kasybos plotas – 25 ha ir didesnis) ^s-c8ddd72577171b88813ed7db
 
 
 
-3. Energetika ^d2e0458950dd57e7501d1fcf
+3. Energetika ^s-3f502b23fa416833aef4d64a
 
 
-3.1. Šiluminių elektrinių bei kitų deginimo įrenginių, įskaitant pramoninius įrenginius elektrai, garui gaminti ar vandeniui šildyti, įrengimas (kai įrenginių galingumas – 300 MW ir didesnis) ^746779f38abc03770e7d1296
+3.1. Šiluminių elektrinių bei kitų deginimo įrenginių, įskaitant pramoninius įrenginius elektrai, garui gaminti ar vandeniui šildyti, įrengimas (kai įrenginių galingumas – 300 MW ir didesnis) ^s-623323dbb38737928c51d074
 
 
-3.2. Atominių elektrinių ar kitų branduolinių reaktorių įrengimas bei tokių elektrinių ar reaktorių* demontavimas ar uždarymas ^64f31f6ac2b3b7d3d747218f
+3.2. Atominių elektrinių ar kitų branduolinių reaktorių įrengimas bei tokių elektrinių ar reaktorių* demontavimas ar uždarymas ^s-12b1193f52ed8c77e15503c9
 
 
-3.3. Branduolinio kuro gamyba, perdirbimas, sodrinimas, saugojimas ar laidojimas ^f1afd69e19b9421404ad23b4
+3.3. Branduolinio kuro gamyba, perdirbimas, sodrinimas, saugojimas ar laidojimas ^s-c8912feb78922a215e8b2b74
 
 
-3.4. Anglies arba bituminio skalūno dujinimas ar suskystinimas (kai įrenginių pajėgumas – 500 ir daugiau tonų per parą) ^bb051516380768ba77b5340c
+3.4. Anglies arba bituminio skalūno dujinimas ar suskystinimas (kai įrenginių pajėgumas – 500 ir daugiau tonų per parą) ^s-0baeaa24c9565165d82db509
 
 
 
-4. Metalų gamybos ir perdirbimo pramonė ^fadcca945c9eda21d28b4cf1
+4. Metalų gamybos ir perdirbimo pramonė ^s-dca67a0211da6a623caa5348
 
 
-4.1. Plieno ir ketaus pradinis lydymas ^f88ae602fa44282e0cbddbc4
+4.1. Plieno ir ketaus pradinis lydymas ^s-8d1cac650d449e355ccf0c18
 
 
-4.2. Spalvotųjų metalų gamyba iš rūdų, koncentratų ar antrinių žaliavų cheminiais, metalurgijos ar elektrolizės būdais ^68b9a825edc4a6de8970d042
+4.2. Spalvotųjų metalų gamyba iš rūdų, koncentratų ar antrinių žaliavų cheminiais, metalurgijos ar elektrolizės būdais ^s-5a40ceb6fc49c1a513ef5989
 
 
 
-5. Mineralinių statybinių medžiagų pramonė ^f59789301720aa5b26fa4728
+5. Mineralinių statybinių medžiagų pramonė ^s-cd25aadc18e41bffd5477b9b
 
 
-5.1. Asbesto gavyba ar perdirbimas, asbesto ar gaminių, kuriuose yra asbesto, perdirbimas (kai gaminių, kuriuose yra asbesto, pagaminama 20 000 ir daugiau tonų per metus; frikcinių medžiagų – kai per metus pagaminama 50 ir daugiau tonų; kitais asbesto panaudojimo atvejais – kai per metus naudojama 200 ir daugiau tonų asbesto) ^fdf035f5493c828ddd166bf3
+5.1. Asbesto gavyba ar perdirbimas, asbesto ar gaminių, kuriuose yra asbesto, perdirbimas (kai gaminių, kuriuose yra asbesto, pagaminama 20 000 ir daugiau tonų per metus; frikcinių medžiagų – kai per metus pagaminama 50 ir daugiau tonų; kitais asbesto panaudojimo atvejais – kai per metus naudojama 200 ir daugiau tonų asbesto) ^s-db870b5cf6e882a6cc6dc1b1
 
 
 
-6. Chemijos pramonė ^b7bb0ea62457a6cea7e77f44
+6. Chemijos pramonė ^s-23a63d63df5667bfadae392b
 
 
-6.1. Organinių cheminių medžiagų, neorganinių cheminių medžiagų, fosforo, azoto ar kalio trąšų (įskaitant kompleksines trąšas), kitų agrocheminių medžiagų (įskaitant biocidus), farmacinių produktų gamyba pramoniniu mastu ^2c539b313ba61b58dc8aa358
+6.1. Organinių cheminių medžiagų, neorganinių cheminių medžiagų, fosforo, azoto ar kalio trąšų (įskaitant kompleksines trąšas), kitų agrocheminių medžiagų (įskaitant biocidus), farmacinių produktų gamyba pramoniniu mastu ^s-8fa9a0aeb4a05c727989ddfa
 
 
-6.2. Naftos, naftos produktų bei cheminių medžiagų saugojimo statinių (sandėlių ar aikštelių) statyba (kai talpa – 200 000 ir daugiau tonų) ^37fcaf8c9569cc158d2300ef
+6.2. Naftos, naftos produktų bei cheminių medžiagų saugojimo statinių (sandėlių ar aikštelių) statyba (kai talpa – 200 000 ir daugiau tonų) ^s-40e3eca1d4e9b246b157f898
 
 
-6.4. Sprogmenų gamyba ^277d6be13fcece78b15d5e0c
+6.4. Sprogmenų gamyba ^s-27422bdee6e95225881199a8
 
 
 
-7. Medienos ir popieriaus pramonė ^862ba1420a846d8f5645ae28
+7. Medienos ir popieriaus pramonė ^s-b25cc80e3da19bd19ebafb9f
 
 
-7.1. Popieriaus ar kartono gamyba (kaip gamybos pajėgumas – 200 ir daugiau tonų per parą) ^5f4a34c54393614e26f3629e
+7.1. Popieriaus ar kartono gamyba (kaip gamybos pajėgumas – 200 ir daugiau tonų per parą) ^s-c8ffb32786731ab3f1740958
 
 
-7.2. Celiuliozės ir plaušienos gamyba ^7e84e5234aeddca21a678825
+7.2. Celiuliozės ir plaušienos gamyba ^s-32609f6abdf35dec5ac0d74a
 
 
 
-8. Inžineriniai statiniai ^7c3bce9e43f936ddc71ac8d9
+8. Inžineriniai statiniai ^s-88c2736f2d0c215446e07653
 
 
-8.1. Jūros uostų, prieplaukų ar terminalų (pakrovimo ar iškrovimo) įrengimas (laivams, kurių keliamoji galia – 1 350 ir daugiau tonų) ^a30e1199fdd242b5cbfa8208
+8.1. Jūros uostų, prieplaukų ar terminalų (pakrovimo ar iškrovimo) įrengimas (laivams, kurių keliamoji galia – 1 350 ir daugiau tonų) ^s-5bc664326431caf678cf529f
 
 
-8.2. Vidaus vandenų kelių, uostų, prieplaukų ar terminalų (pakrovimo ar iškrovimo) įrengimas (laivams, kurių keliamoji galia – 1 350 ir daugiau tonų) ^a1f6ac263fea21b8e9aa0e76
+8.2. Vidaus vandenų kelių, uostų, prieplaukų ar terminalų (pakrovimo ar iškrovimo) įrengimas (laivams, kurių keliamoji galia – 1 350 ir daugiau tonų) ^s-51671102825065523789107f
 
 
-8.3. Magistralinių ar krašto automobilių kelių tiesimas ^c0b10ac0cbed3923ca4cd1da
+8.3. Magistralinių ar krašto automobilių kelių tiesimas ^s-1b7f2c7c8e8700fe1e12c1ba
 
 
-8.4. Kelių, turinčių keturias ir daugiau eismo juostų, tiesimas ar kelių, turinčių mažiau nei keturias eismo juostas, rekonstravimas įrengiant keturias ar daugiau eismo juostų (kai tiesiamas ar rekonstruojamas 10 km ar ilgesnis nenutrūkstamas kelio ruošas) ^41d519dbcc1d1a413d656bba
+8.4. Kelių, turinčių keturias ir daugiau eismo juostų, tiesimas ar kelių, turinčių mažiau nei keturias eismo juostas, rekonstravimas įrengiant keturias ar daugiau eismo juostų (kai tiesiamas ar rekonstruojamas 10 km ar ilgesnis nenutrūkstamas kelio ruošas) ^s-51eb07da044c00cb95db8c74
 
 
-8.5. Pagrindinių viešojo naudojimo geležinkelių tiesimas ^d47f75ec932df9bf25c93460
+8.5. Pagrindinių viešojo naudojimo geležinkelių tiesimas ^s-b53e3097f1ba450eda775e22
 
 
-8.6. Oro uostų ar aerodromų įrengimas (kai kilimo ir tūpimo takas – 2 100 m arba ilgesnis) ^302256893c66053beca81952
+8.6. Oro uostų ar aerodromų įrengimas (kai kilimo ir tūpimo takas – 2 100 m arba ilgesnis) ^s-280722d5a69cfb30436649db
 
 
-8.7. Dujų, naftos ar cheminių medžiagų tiekimo vamzdynų tiesimas (kai vamzdžio skersmuo – 800 ir daugiau milimetrų, o ilgis – 40 ir daugiau kilometrų) ^2540458f9a40f61c7b17a848
+8.7. Dujų, naftos ar cheminių medžiagų tiekimo vamzdynų tiesimas (kai vamzdžio skersmuo – 800 ir daugiau milimetrų, o ilgis – 40 ir daugiau kilometrų) ^s-41643f8b8163e92e11e8e2de
 
 
-8.8. Antžeminių elektros perdavimo linijų tiesimas (kai įtampa – 110 kV ar aukštesnė, o linijos ilgis – 15 ir daugiau kilometrų) ^0ecffbc217eec46249cfb927
+8.8. Antžeminių elektros perdavimo linijų tiesimas (kai įtampa – 110 kV ar aukštesnė, o linijos ilgis – 15 ir daugiau kilometrų) ^s-4afcd3084e2566ab0957dbc9
 
 
 
-9. Kitos planuojamos ūkinės veiklos rūšys ^62e45fdf1cb77286d63e4ef0
+9. Kitos planuojamos ūkinės veiklos rūšys ^s-34bbbb02cf6848700efec1cf
 
 
-9.1. Vandenvienčių įrengimas (kai pajėgumas – 10 milijonų ir daugiau m3 per metus) ^75cc396fafd5a1b764465cd9
+9.1. Vandenvienčių įrengimas (kai pajėgumas – 10 milijonų ir daugiau m3 per metus) ^s-a642d247f0782be420eae0ab
 
 
-9.2. Požeminių vandenų dirbtinis papildymas (kai per metus papildoma 10 milijonų ir daugiau m3 vandens) ^2de89d5b80d4314d6b433b21
+9.2. Požeminių vandenų dirbtinis papildymas (kai per metus papildoma 10 milijonų ir daugiau m3 vandens) ^s-bfc61c2aeb3a6076174845f3
 
 
-9.3. Nuotėkio perskirstymas upių baseinams (kai per metus perskirstoma 100 milijonų ir daugiau m3 vandens) ar vandens išteklių perskirstymas upių baseinams (kai daugiametis vidutinis baseino, iš kurio imamas vanduo, nuotėkis yra 2 000 milijonų ir daugiau m3 vandens per metus ir perskirstoma 5% ir daugiau šio nuotėkio) ^70cf2be0b7e9f3683ec8d29d
+9.3. Nuotėkio perskirstymas upių baseinams (kai per metus perskirstoma 100 milijonų ir daugiau m3 vandens) ar vandens išteklių perskirstymas upių baseinams (kai daugiametis vidutinis baseino, iš kurio imamas vanduo, nuotėkis yra 2 000 milijonų ir daugiau m3 vandens per metus ir perskirstoma 5% ir daugiau šio nuotėkio) ^s-461bcad3694c0146e550caee
 
 
-9.4. Miestų, miestelių ar kaimų nuotėkų valymo įrenginių įrengimas (kai įrenginiai gali išvalyti 50 000 ir daugiau gyventojų ekvivalentą atitinkantį teršalų kiekį) ^f0c48cd15b142b8440243a8f
+9.4. Miestų, miestelių ar kaimų nuotėkų valymo įrenginių įrengimas (kai įrenginiai gali išvalyti 50 000 ir daugiau gyventojų ekvivalentą atitinkantį teršalų kiekį) ^s-e626e6a04ee8509e516929a1
 
 
-9.5. Radioaktyviųjų atliekų apdorojimo, naudojimo, saugojimo, laidojimo ar šalinimo įrenginių įrengimas bei šių įrenginių eksploatacijos nutraukimas ^a730a0883e8420556ebfcca7
+9.5. Radioaktyviųjų atliekų apdorojimo, naudojimo, saugojimo, laidojimo ar šalinimo įrenginių įrengimas bei šių įrenginių eksploatacijos nutraukimas ^s-247faf3ff19fbc21f567b9ce
 
 
-9.6. Statinių ar įrenginių, skirtų pavojingoms atliekoms šalinti ar naudoti, statymas ar įrengimas ^3c835491661559001334fec7
+9.6. Statinių ar įrenginių, skirtų pavojingoms atliekoms šalinti ar naudoti, statymas ar įrengimas ^s-a9db4f0a7f9d74cd212f567b
 
 
-9.7. Statinių ar įrenginių, skirtų nepavojingoms atliekoms šalinti ar naudoti deginant ar apdorojant cheminiu būdu, statymas ar įrengimas (kai įrenginių pajėgumas – 100 ir daugiau tonų per parą). ^03976822fe6bd94243fcbff9
+9.7. Statinių ar įrenginių, skirtų nepavojingoms atliekoms šalinti ar naudoti deginant ar apdorojant cheminiu būdu, statymas ar įrengimas (kai įrenginių pajėgumas – 100 ir daugiau tonų per parą). ^s-6cc1d8b148edf510415dc458
 ______________
 
 
@@ -541,377 +546,377 @@ RŪŠIŲ SĄRAŠAS
 
 
 
-1. Žemės ir vandens ūkis, miškininkystė ^41c415024c446cd97fa992db
+1. Žemės ir vandens ūkis, miškininkystė ^s-ca63ce178e3800bde90a3db2
 
 
-1.1. Kiaulininkystė (mažiau kaip 900, bet daugiau kaip 200 paršavedžių; mažiau kaip 3 000, bet daugiau kaip 700 kitų kiaulių) ^e97adec4c1c854293228562f
+1.1. Kiaulininkystė (mažiau kaip 900, bet daugiau kaip 200 paršavedžių; mažiau kaip 3 000, bet daugiau kaip 700 kitų kiaulių) ^s-3e5cdc8036e8632e3631cf9f
 
 
-1.2. Kitų naminių gyvulių auginimas (daugiau kaip 200 gyvulių) ^49df45ecd0d939215d448389
+1.2. Kitų naminių gyvulių auginimas (daugiau kaip 200 gyvulių) ^s-1675530e49dd1e35ef68e704
 
 
-1.3. Vištų auginimas (mažiau kaip 85 000, bet daugiau kaip 10 000 broilerių; mažiau kaip 60 000, bet daugiau kaip 10 000 vištų) ^e8f36fc5b45bcd5c34a7647c
+1.3. Vištų auginimas (mažiau kaip 85 000, bet daugiau kaip 10 000 broilerių; mažiau kaip 60 000, bet daugiau kaip 10 000 vištų) ^s-b648806db9e7c9b94b0a4292
 
 
-1.4. Kitų paukščių auginimas (daugiau kaip 10 000 kitų paukščių) ^0145208d82f9a0fe530489a9
+1.4. Kitų paukščių auginimas (daugiau kaip 10 000 kitų paukščių) ^s-4ad5c241b9e6e3154db41385
 
 
-1.5. Žuvų auginimas ar veisimas (jūroje ar tvenkiniuose, kurių plotas didesnis kaip 5 ha) ^0f5a477b43af0a2f89b6ae10
+1.5. Žuvų auginimas ar veisimas (jūroje ar tvenkiniuose, kurių plotas didesnis kaip 5 ha) ^s-d45d65faf822a64daaf6e8f8
 
 
-1.6. Vandentvarkos įrenginių žemės ūkio reikmėms, įskaitant sausinimo ir drėkinimo sistemas, įrengimas (kai užimamas plotas didesnis kaip 5 ha) ^9f5fecc353a3617da287b3cb
+1.6. Vandentvarkos įrenginių žemės ūkio reikmėms, įskaitant sausinimo ir drėkinimo sistemas, įrengimas (kai užimamas plotas didesnis kaip 5 ha) ^s-2ffce5ae940d09499681b46c
 
 
-1.7. Tvenkinių įrengimas (mažiau kaip 5 milijonai m3, bet daugiau kaip 200 000 m3 vandens tūrio arba kai jų plotas mažesnis kaip 250 ha, bet didesnis kaip 10 ha) ^641dc5265d0b214efdd9c45b
+1.7. Tvenkinių įrengimas (mažiau kaip 5 milijonai m3, bet daugiau kaip 200 000 m3 vandens tūrio arba kai jų plotas mažesnis kaip 250 ha, bet didesnis kaip 10 ha) ^s-3caa5945cd1c6df5e418b780
 
 
-1.9. Nesukultūrintų žemės plotų panaudojimas intensyvaus žemės ūkio reikmėms (kai naudojamas didesnis kaip 0,5 ha plotas) ^19918c01a582317f5c8ce37b
+1.9. Nesukultūrintų žemės plotų panaudojimas intensyvaus žemės ūkio reikmėms (kai naudojamas didesnis kaip 0,5 ha plotas) ^s-253848a08825a184a57ed44e
 
 
-1.10. Kompleksinių žemėtvarkos projektų, numatančių kaimų žemėvaldos pakeitimus, įgyvendinimas ^a1b5b699b4026ec5a1be8037
+1.10. Kompleksinių žemėtvarkos projektų, numatančių kaimų žemėvaldos pakeitimus, įgyvendinimas ^s-89923dff180cc1dbeedcd878
 
 
-1.11. Miško įveisimas ar miško iškirtimas siekiant pakeisti žemės naudojimą (kai plotas – daugiau kaip 1 ha miestuose ir daugiau kaip 10 ha kaimo vietovėse) ^5bd79ea3bcc9f79b1be332af
+1.11. Miško įveisimas ar miško iškirtimas siekiant pakeisti žemės naudojimą (kai plotas – daugiau kaip 1 ha miestuose ir daugiau kaip 10 ha kaimo vietovėse) ^s-39e2be4ef84b68154f23f68d
 
 
-1.12. Žemės plotų atgavimas iš jūros ^076f50192fecebc65a217f44
+1.12. Žemės plotų atgavimas iš jūros ^s-6b285e68022fdb2e706190aa
 
 
 
-2. Gavyba ir perdirbamoji pramonė ^3e8b677cbc522dccace48c6c
+2. Gavyba ir perdirbamoji pramonė ^s-63514b659cf7e67d3034d93e
 
 
-2.1. Durpių gavyba (kai gavybos plotas – mažiau kaip 150 ha, bet daugiau kaip 0,5 ha) ^2a0f08af4a56512f7cb69fb4
+2.1. Durpių gavyba (kai gavybos plotas – mažiau kaip 150 ha, bet daugiau kaip 0,5 ha) ^s-9d5485c175c1f2b1f4167405
 
 
-2.2. Gamtinių dujų gavyba ar perdirbimas (kai išgaunama ar perdirbama mažiau kaip 500 000 m3 per parą) ^c0ebdf5b5bfdf3c4841c2dcd
+2.2. Gamtinių dujų gavyba ar perdirbimas (kai išgaunama ar perdirbama mažiau kaip 500 000 m3 per parą) ^s-09b7ec2b254a4de636592288
 
 
-2.3. Kitų naudingųjų iškasenų kasyba ar akmens skaldymas (kaip kasybos plotas – mažiau kaip 25 ha, bet daugiau kaip 0,5 ha) ^b26565b7b45652888a313b19
+2.3. Kitų naudingųjų iškasenų kasyba ar akmens skaldymas (kaip kasybos plotas – mažiau kaip 25 ha, bet daugiau kaip 0,5 ha) ^s-950812a26e5cf5aa1ad5c3c0
 
 
-2.4. Mineralinių ar organinių medžiagų gavyba iš jūrų, ežerų ar upių dugno ^07ed67461ce2d0e2d294ded7
+2.4. Mineralinių ar organinių medžiagų gavyba iš jūrų, ežerų ar upių dugno ^s-48f2aed0a7a924dadbd2de94
 
 
-2.5. Giluminių gręžinių (geoterminių, vandens tiekimo, mineralinio vandens gavybos ir kt., išskyrus gręžinius, skirtus grunto stabilumui tirti) įrengimas ^dada08122d8de509d773ec58
+2.5. Giluminių gręžinių (geoterminių, vandens tiekimo, mineralinio vandens gavybos ir kt., išskyrus gręžinius, skirtus grunto stabilumui tirti) įrengimas ^s-f9084737b55e423cc45d0253
 
 
-2.6. Šachtų tipo kasyklų įrengimas ^640f5bf6895787d1fbe3a20a
+2.6. Šachtų tipo kasyklų įrengimas ^s-752020bc02361391fca2d96c
 
 
 
-3. Energetika ^55ba4499278c8be543803d3b
+3. Energetika ^s-af07f48746d51f14cd92f1b3
 
 
-3.1. Šiluminių elektrinių bei kitų deginimo įrenginių ar kitokių pramoninių įrenginių elektrai, garui gaminti arba vandeniui šildyti, įrengimas (kai įrenginių galingumas – mažiau kaip 300 MW, bet daugiau kaip 20 MW) ^0f33023c2c12d79a3460391e
+3.1. Šiluminių elektrinių bei kitų deginimo įrenginių ar kitokių pramoninių įrenginių elektrai, garui gaminti arba vandeniui šildyti, įrengimas (kai įrenginių galingumas – mažiau kaip 300 MW, bet daugiau kaip 20 MW) ^s-03391e2a2f14d4d5a83edd1b
 
 
-3.2. Garo ar karšto vandens tiekimo vamzdynų tiesimas (kai ilgis – daugiau kaip 2 km) ^8dde29ea63d787dba52bed02
+3.2. Garo ar karšto vandens tiekimo vamzdynų tiesimas (kai ilgis – daugiau kaip 2 km) ^s-c1020634ac4d8d4897bb39ee
 
 
-3.3. Dujų saugyklų įrengimas (kai talpa – daugiau kaip 10 000 m3) ^b024258b8e137125ba280a86
+3.3. Dujų saugyklų įrengimas (kai talpa – daugiau kaip 10 000 m3) ^s-ba27dc0bc51037fa26d0eaf3
 
 
-3.4. Kito iškastinio kuro saugojimo statinių (sandėlių ar aikštelių) statyba (kai talpa – daugiau kaip 1 000 tonų) ^7d80eceef9cdf5fdd952dfc4
+3.4. Kito iškastinio kuro saugojimo statinių (sandėlių ar aikštelių) statyba (kai talpa – daugiau kaip 1 000 tonų) ^s-ecc329acad29d7a6ba30cbba
 
 
-3.5. Briketų gamyba iš anglių ar lignito ^f42b6d7d5189a91e70c44329
+3.5. Briketų gamyba iš anglių ar lignito ^s-365c21de792df15809056582
 
 
-3.6. Hidrojėgainių (hidroelektrinių, malūnų, lentpjūvių ar kitų jėgainių, naudojančių sukauptą vandens energiją) įrengimas (kai galingumas – daugiau kaip 0,1 MW) ^ee7b3f6bf3fb161b01d9dc36
+3.6. Hidrojėgainių (hidroelektrinių, malūnų, lentpjūvių ar kitų jėgainių, naudojančių sukauptą vandens energiją) įrengimas (kai galingumas – daugiau kaip 0,1 MW) ^s-2dadc0723c5f3d2065794c6f
 
 
-3.7. Vėjo jėgainių įrengimas (kai aukštis įskaitant sparnų ilgį – daugiau nei 10 m ar turinčių 2 ar daugiau turbinų) ^a5154172e8a5a70cfe5eeecc
+3.7. Vėjo jėgainių įrengimas (kai aukštis įskaitant sparnų ilgį – daugiau nei 10 m ar turinčių 2 ar daugiau turbinų) ^s-b1e70181b01f3689770d5edd
 
 
 
-4. Metalų gamybos ir perdirbimo pramonė ^bad73fbfe9535aa84cd54d4a
+4. Metalų gamybos ir perdirbimo pramonė ^s-b0eed5fb717e68e19b008b25
 
 
-4.1. Metalų rūdų perdirbimas ^5e9916616972c4f0e46002ff
+4.1. Metalų rūdų perdirbimas ^s-80a63f8e5b7ec119d816eb77
 
 
-4.2. Juodųjų metalų (įskaitant ketų ir plieną) gamyba (pirminis ar antrinis lydymas arba liejimas) ^d068c9f024bb8fff6ee47428
+4.2. Juodųjų metalų (įskaitant ketų ir plieną) gamyba (pirminis ar antrinis lydymas arba liejimas) ^s-fcdb404d5308a398843f2bb2
 
 
-4.3. Juodųjų metalų perdirbimas, įskaitant karštą valcavimą, kalimą, presavimą, štampavimą, profiliavimą ir apsauginės aplydytosios dangos taikymą ^9c31b2555a6770e20a128a1b
+4.3. Juodųjų metalų perdirbimas, įskaitant karštą valcavimą, kalimą, presavimą, štampavimą, profiliavimą ir apsauginės aplydytosios dangos taikymą ^s-23dda4db74b005c53189c124
 
 
-4.4. Spalvotųjų metalų (išskyrus tauriuosius) lydymas ar liejimas, įskaitant antrinių žaliavų perdirbimą (valymą, liejimą ir t. t.) (kai gamybos pajėgumas – daugiau kaip 30 tonų per parą) ^cc5eea8504e9626002d4b6f5
+4.4. Spalvotųjų metalų (išskyrus tauriuosius) lydymas ar liejimas, įskaitant antrinių žaliavų perdirbimą (valymą, liejimą ir t. t.) (kai gamybos pajėgumas – daugiau kaip 30 tonų per parą) ^s-457ef86df4982609d8f2710e
 
 
-4.5. Metalų ar plastikų paviršių apdorojimas elektrolizės ar cheminiais būdais (kai gamybos pajėgumas – daugiau kaip 50 000 m2 per metus) ^0a37bff80b26ad63b33d0a6c
+4.5. Metalų ar plastikų paviršių apdorojimas elektrolizės ar cheminiais būdais (kai gamybos pajėgumas – daugiau kaip 50 000 m2 per metus) ^s-009e60d5f48cd77f0dd6cca0
 
 
-4.6. Variklinių transporto priemonių ar jų variklių gamyba bei surinkimas (kai pagrindinis plotas – daugiau kaip 1 000 m2) ^60c9dd7d659dc4d0efdedc13
+4.6. Variklinių transporto priemonių ar jų variklių gamyba bei surinkimas (kai pagrindinis plotas – daugiau kaip 1 000 m2) ^s-4938c75abcc0bc4cfbb5c0df
 
 
-4.7. Laivų statyba ar remontas ^8f0acb0bd31ed8f825b7ced8
+4.7. Laivų statyba ar remontas ^s-f454ea508efa1b4f8a8dd95c
 
 
-4.8. Orlaivių gamyba ar remontas ^fb44abe375508e2033521b61
+4.8. Orlaivių gamyba ar remontas ^s-97724b76e7f6ec60e7fa1fd3
 
 
-4.9. Geležinkelių įrangos gamyba ar remontas (kai pagrindinis plotas – daugiau kaip 1 000 m2) ^fadfa1026571cb1a11f0689c
+4.9. Geležinkelių įrangos gamyba ar remontas (kai pagrindinis plotas – daugiau kaip 1 000 m2) ^s-87741fb076135be83441e40d
 
 
-4.10. Metalų kalimas, presavimas ar štampavimas sprogstamuoju būdu ^50ebe10c1b60d455be4707bc
+4.10. Metalų kalimas, presavimas ar štampavimas sprogstamuoju būdu ^s-c9277a1f2b497a2c27830f9d
 
 
 
-5. Mineralinių statybinių medžiagų pramonė ^059af04974a7eab15b0146aa
+5. Mineralinių statybinių medžiagų pramonė ^s-ee62e959c1f4bb5c98a75841
 
 
-5.1. Kokso gamyba (sausas anglių distiliavimas) ^324b1e7c4f66f72ddb682708
+5.1. Kokso gamyba (sausas anglių distiliavimas) ^s-ae23135c3114cbbffe5f70df
 
 
-5.2. Asbesto gavyba ar perdirbimas, asbesto ar gaminių, kuriuose yra asbesto, perdirbimas (kai gaminių, kuriuose yra asbesto, pagaminama mažiau kaip 20 000 tonų per metus; frikcinių medžiagų – kai per metus pagaminama mažiau kaip 50 tonų; kitais asbesto panaudojimo atvejais – kai per metus naudojama mažiau kaip 200 tonų asbesto) ^01ae4cd80e4a76121ba21648
+5.2. Asbesto gavyba ar perdirbimas, asbesto ar gaminių, kuriuose yra asbesto, perdirbimas (kai gaminių, kuriuose yra asbesto, pagaminama mažiau kaip 20 000 tonų per metus; frikcinių medžiagų – kai per metus pagaminama mažiau kaip 50 tonų; kitais asbesto panaudojimo atvejais – kai per metus naudojama mažiau kaip 200 tonų asbesto) ^s-2c2d98a8fa8468b55cd766e0
 
 
-5.3. Stiklo ar stiklo pluoštų gamyba ^dc8a08272e6997f3cf057d5e
+5.3. Stiklo ar stiklo pluoštų gamyba ^s-1d618ec4f25e85740332357a
 
 
-5.4. Mineralinių medžiagų lydymas, įskaitant mineralinių pluoštų gamybą (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą) ^dadea397237480a3b0e80abd
+5.4. Mineralinių medžiagų lydymas, įskaitant mineralinių pluoštų gamybą (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą) ^s-0cd3e5b78c013081a4cf71a8
 
 
-5.5. Keramikos gaminių gamyba (kai gamybos pajėgumas – daugiau kaip 3 tonos per parą) ^be0ce9f95c32710babfc66ea
+5.5. Keramikos gaminių gamyba (kai gamybos pajėgumas – daugiau kaip 3 tonos per parą) ^s-ef104e9a895fb1e3c4516507
 
 
-5.6. Cemento gamyba ^1c347dd2ed0e96fa1f7c98e6
+5.6. Cemento gamyba ^s-2ff10735a4689f1140e2d310
 
 
-5.7. Betoninių statybinių medžiagų ar konstrukcijų gamyba (kai gamybos pajėgumas – daugiau kaip 5 000 m3 per metus) ^38a783d5a570c249abb93dec
+5.7. Betoninių statybinių medžiagų ar konstrukcijų gamyba (kai gamybos pajėgumas – daugiau kaip 5 000 m3 per metus) ^s-a0bfa17da4530f5189158066
 
 
 
-6. Chemijos pramonė ^b6b5166b956c1a802379d49d
+6. Chemijos pramonė ^s-880f59c3517b3eab431070b5
 
 
-6.1. Tepalo gamyba iš nevalytos naftos ^84652642be2b29c9828c06fb
+6.1. Tepalo gamyba iš nevalytos naftos ^s-163455d0ca94d1a6ca61b709
 
 
-6.2. Farmacijos produktų (kai gamybos pajėgumas – daugiau kaip 1 tona per parą), pesticidų (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą), dažų ir lakų (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą), elastomerų (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą), peroksidų (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą), tarpinių produktų (kai pagaminama daugiau kaip 10 tonų per parą) gamyba ar perdirbimas ^272f48b218d77c42752ec2ec
+6.2. Farmacijos produktų (kai gamybos pajėgumas – daugiau kaip 1 tona per parą), pesticidų (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą), dažų ir lakų (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą), elastomerų (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą), peroksidų (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą), tarpinių produktų (kai pagaminama daugiau kaip 10 tonų per parą) gamyba ar perdirbimas ^s-42dfcb7daded90bc71e42d4f
 
 
-6.3. Naftos, naftos produktų bei cheminių medžiagų saugojimo statinių (sandėlių ar aikštelių) statyba (kai talpa – mažiau kaip 200 000, bet daugiau kaip 5 000 tonų) ^e87453dda7152c382251cbca
+6.3. Naftos, naftos produktų bei cheminių medžiagų saugojimo statinių (sandėlių ar aikštelių) statyba (kai talpa – mažiau kaip 200 000, bet daugiau kaip 5 000 tonų) ^s-bde33bd7386f49d74fa96c4a
 
 
-6.4. Dirbtinių odų ar dirbtinio pluošto gamyba ^524c7d077349e27643619261
+6.4. Dirbtinių odų ar dirbtinio pluošto gamyba ^s-5626000a6541e870bdc59d76
 
 
 
-7. Maisto pramonė ^3e7d4eba6f4f9c67daa1ca96
+7. Maisto pramonė ^s-9bef565085348d1828a37255
 
 
-7.1. Augalinių ar gyvulinių riebalų bei aliejaus gamyba (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^1b081d5b6c013448e65d8a9f
+7.1. Augalinių ar gyvulinių riebalų bei aliejaus gamyba (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^s-debcf1fda3d67b6d6b45ce4c
 
 
-7.2. Augalinių ar gyvulinių maisto produktų pakavimas ar konservavimas (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^b9e7160373dacf26124c96c7
+7.2. Augalinių ar gyvulinių maisto produktų pakavimas ar konservavimas (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^s-1ca93e72404b55998430202e
 
 
-7.3. Pieno ar jo produktų perdirbimas (kai gamybos pajėgumas – daugiau kaip 50 tonų per parą) ^5a694b493d10189144a045d5
+7.3. Pieno ar jo produktų perdirbimas (kai gamybos pajėgumas – daugiau kaip 50 tonų per parą) ^s-8cef184d35a862d5bb7e5f15
 
 
-7.4. Salyklo ar alaus gamyba (kai gamybos pajėgumas – daugiau kaip 10 tonų salyklo per parą ar 10 000 litrų alaus per parą) ^2b7d46b54307562cddacd787
+7.4. Salyklo ar alaus gamyba (kai gamybos pajėgumas – daugiau kaip 10 tonų salyklo per parą ar 10 000 litrų alaus per parą) ^s-ed573a418725fb0d0d14b33d
 
 
-7.5. Duonos gamyba (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą) ^1a9606f26c3581edccd7493c
+7.5. Duonos gamyba (kai gamybos pajėgumas – daugiau kaip 10 tonų per parą) ^s-26c02822dcb75764bffd4d1b
 
 
-7.6. Konditerijos gaminių ar sirupų gamyba (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^1326e545e17e2a9125749b65
+7.6. Konditerijos gaminių ar sirupų gamyba (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^s-7d2f1a68814c6be80dcdb32c
 
 
-7.7. Cukraus gamyba ^09454948f440d54898dc368b
+7.7. Cukraus gamyba ^s-21c81ddafb47dac2a9eaa928
 
 
-7.8. Skerdyklų įrengimas (kai gamybos pajėgumas – daugiau kaip 10 tonų skerdienos per parą) ^886f7986f65511d66c2ed24d
+7.8. Skerdyklų įrengimas (kai gamybos pajėgumas – daugiau kaip 10 tonų skerdienos per parą) ^s-8d92be5372013ef85f06ae9f
 
 
-7.9. Krakmolo ar krakmolo produktų gamyba (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^d845b55d7960fa867b57208c
+7.9. Krakmolo ar krakmolo produktų gamyba (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^s-633cf85b75362008836198ce
 
 
-7.10. Mėsos ar žuvų perdirbimas (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^ad09a66f5805940c1c03c2d4
+7.10. Mėsos ar žuvų perdirbimas (kai gamybos pajėgumas – daugiau kaip 5 tonos per parą) ^s-a055e9d1edb5b2b84931598c
 
 
-7.11. Mielių gamyba (kai gamybos pajėgumas – daugiau kaip 2 tonos per parą) ^79f2b6128f5faef24cea7a8f
+7.11. Mielių gamyba (kai gamybos pajėgumas – daugiau kaip 2 tonos per parą) ^s-79e94dd3d3430ac20488932c
 
 
-7.12. Spirito gamyba (kai gamybos pajėgumas – daugiau kaip 1000 litrų per parą) ^bd164a5aaa622a8e52257431
+7.12. Spirito gamyba (kai gamybos pajėgumas – daugiau kaip 1000 litrų per parą) ^s-37cb118e2780f8e7a3b458c0
 
 
 
-8. Tekstilės, odos, medienos ir popieriaus pramonė ^2cc298f8fbf080ace5255d49
+8. Tekstilės, odos, medienos ir popieriaus pramonė ^s-75dba7c19d3e9884d1979b1f
 
 
-8.1. Medienos masės gamyba ^722edeee9f8f7eedfbe8a9ce
+8.1. Medienos masės gamyba ^s-466052c2459efed642f7988b
 
 
-8.2. Popieriaus ar kartono gamyba (kai gamybos pajėgumas – mažiau kaip 200, bet daugiau kaip 20 tonų per parą) ^a8b72a98a92fcf76cadfc8ab
+8.2. Popieriaus ar kartono gamyba (kai gamybos pajėgumas – mažiau kaip 200, bet daugiau kaip 20 tonų per parą) ^s-f282386af16ae3d7ff5200d9
 
 
-8.3. Pluoštų ar tekstilės apdorojimas (kai gamybos pajėgumas – daugiau kaip 200 000 m2 per metus) ^ae72bf63ad1650e4739bdca5
+8.3. Pluoštų ar tekstilės apdorojimas (kai gamybos pajėgumas – daugiau kaip 200 000 m2 per metus) ^s-9648eb2c8264976f0e9f4f04
 
 
-8.4. Odų ar kailių išdirbimas (kai gamybos pajėgumas – daugiau kaip 500 m2 per parą) ^ee96ab81ac0f608cfb5bc25e
+8.4. Odų ar kailių išdirbimas (kai gamybos pajėgumas – daugiau kaip 500 m2 per parą) ^s-de55a89e1358ae0a61f7ccf5
 
 
-8.5. Medienos plaušo plokščių gamyba (kai gamybos pajėgumas – daugiau kaip 5 000 m2 per parą), medienos drožlių plokščių gamyba (kai gamybos pajėgumas – daugiau kaip 100 m3 per parą) ar faneros gamyba (kai gamybos pajėgumas – daugiau kaip 50 m3 per parą) ^d887d2e495839d197f1e4f39
+8.5. Medienos plaušo plokščių gamyba (kai gamybos pajėgumas – daugiau kaip 5 000 m2 per parą), medienos drožlių plokščių gamyba (kai gamybos pajėgumas – daugiau kaip 100 m3 per parą) ar faneros gamyba (kai gamybos pajėgumas – daugiau kaip 50 m3 per parą) ^s-305b5e6241066d4610db1c79
 
 
 
-9. Gumos pramonė ^fee9064d6f9bcc9ce58d3156
+9. Gumos pramonė ^s-cf05faa1b6d91be64be6426d
 
 
-9.1. Produktų iš elastomerų gamyba ar perdirbimas (kai gamybos pajėgumas – daugiau kaip 15 tonų per parą) ^624088d4cf5138f261e6de8f
+9.1. Produktų iš elastomerų gamyba ar perdirbimas (kai gamybos pajėgumas – daugiau kaip 15 tonų per parą) ^s-91f5346ee09678fb73d894ed
 
 
 
-10. Inžineriniai statiniai ^19cb010b94725ea7a3607f3b
+10. Inžineriniai statiniai ^s-db6dc709d5c37133de54ee5c
 
 
-10.1. Antžeminių elektros perdavimo linijų tiesimas (kai įtampa žemesnė kaip 110 kV, o linijos trumpesnės kaip 15 km, bet ilgesnės kaip 3 km) ^a17e87e9786b888e5a0e8dac
+10.1. Antžeminių elektros perdavimo linijų tiesimas (kai įtampa žemesnė kaip 110 kV, o linijos trumpesnės kaip 15 km, bet ilgesnės kaip 3 km) ^s-98d93215ad752e8f53a34540
 
 
-10.2. Urbanistinių objektų, įskaitant prekybos centrus, autobusų ar troleibusų parkus, mašinų stovėjimo aikšteles ar garažų kompleksus, statyba (kai užimamas didesnis kaip 0,5 ha plotas) ^d2516f72e373efcee2e2dd5a
+10.2. Urbanistinių objektų, įskaitant prekybos centrus, autobusų ar troleibusų parkus, mašinų stovėjimo aikšteles ar garažų kompleksus, statyba (kai užimamas didesnis kaip 0,5 ha plotas) ^s-79c54aeeea0d799ded15fe1d
 
 
-10.3. Antžeminių ar požeminių geležinkelių, išskyrus pagrindinius viešojo naudojimo geležinkelius, (ilgesnių kaip 2 km) tiesimas ^41f77ee66846e2488abb61ff
+10.3. Antžeminių ar požeminių geležinkelių, išskyrus pagrindinius viešojo naudojimo geležinkelius, (ilgesnių kaip 2 km) tiesimas ^s-30fdc3753e4b87c1f9a67646
 
 
-10.4. Geležinkelių, kelių, jūrų ar oro transporto krovinių paskirstymo ar perkrovimo įrenginių ar terminalų įrengimas (kai įrengiamas didesnis kaip 0,5 ha plotas) ^a5d542cd25f3cccae8ae61ba
+10.4. Geležinkelių, kelių, jūrų ar oro transporto krovinių paskirstymo ar perkrovimo įrenginių ar terminalų įrengimas (kai įrengiamas didesnis kaip 0,5 ha plotas) ^s-ee85bd5f1e7e06f2de6669fc
 
 
-10.5. Oro uostų ar aerodromų įrengimas (kai kilimo ir tūpimo takas trumpesnis kaip 2 100 m) ^c8ee2c6b1b28602359df87b8
+10.5. Oro uostų ar aerodromų įrengimas (kai kilimo ir tūpimo takas trumpesnis kaip 2 100 m) ^s-e519a1c3274f647de59c1bfa
 
 
-10.6. Rajoninių kelių (ilgesnių kaip 2 km) tiesimas ^f321477cc96b9858dc1f2456
+10.6. Rajoninių kelių (ilgesnių kaip 2 km) tiesimas ^s-c74da6d362ff62d1992390fb
 
 
-10.7. Kelių, turinčių keturias ar daugiau eismo juostų, tiesimas ar kelių, turinčių mažiau nei keturias eismo juostas, rekonstravimas, įrengiant juose keturias ar daugiau eismo juostų (kai tiesiamas ar rekonstruojamas trumpesnis kaip 10 km, bet ilgesnis kaip 2 km nenutrūkstamas kelio ruožas) ^ba5c9f1d1ce1dfc5e5b916aa
+10.7. Kelių, turinčių keturias ar daugiau eismo juostų, tiesimas ar kelių, turinčių mažiau nei keturias eismo juostas, rekonstravimas, įrengiant juose keturias ar daugiau eismo juostų (kai tiesiamas ar rekonstruojamas trumpesnis kaip 10 km, bet ilgesnis kaip 2 km nenutrūkstamas kelio ruožas) ^s-944794d809f7c16c8cd9393b
 
 
-10.8. Jūros uostų ar prieplaukų įrengimas (laivams, kurių keliamoji galia – mažiau kaip 1 350 tonų, o uosto ar prieplaukos plotas – daugiau kaip 1 ha) ^47bddb1716d381bd5e6f32df
+10.8. Jūros uostų ar prieplaukų įrengimas (laivams, kurių keliamoji galia – mažiau kaip 1 350 tonų, o uosto ar prieplaukos plotas – daugiau kaip 1 ha) ^s-1a382dd8fe535ae7e9b0766e
 
 
-10.9. Vidaus vandenų kelių, uostų ar prieplaukų įrengimas (kai tinka laivams, kurių keliamoji galia – mažiau kaip 1 350 tonų, o uosto ar prieplaukos plotas – daugiau kaip 1 ha) ^b56dc85bfe75c74e68c0584c
+10.9. Vidaus vandenų kelių, uostų ar prieplaukų įrengimas (kai tinka laivams, kurių keliamoji galia – mažiau kaip 1 350 tonų, o uosto ar prieplaukos plotas – daugiau kaip 1 ha) ^s-7c6211bc2f46ca02a18f3e51
 
 
-10.10. Jūros uostų akvatorijų bei įplaukos kanalų gilinimas ^19ed00a5ebe4afb0b292c56e
+10.10. Jūros uostų akvatorijų bei įplaukos kanalų gilinimas ^s-8ea512510b233206780784a0
 
 
-10.11. Apsisaugoti nuo potvynių skirtų hidrotechnikos statinių statyba (kai plotas didesnis kaip 1 ha) ^d80c461e5b15d6073bba01d5
+10.11. Apsisaugoti nuo potvynių skirtų hidrotechnikos statinių statyba (kai plotas didesnis kaip 1 ha) ^s-fc60e124669b431a172681f1
 
 
-10.12. Tramvajaus, požeminių geležinkelių ar kitokio transporto, iš dalies ar išimtinai naudojamo keleiviams vežti, linijų (ilgesnių kaip 2 km) tiesimas ^6ef65901bb89a14acb85ab7b
+10.12. Tramvajaus, požeminių geležinkelių ar kitokio transporto, iš dalies ar išimtinai naudojamo keleiviams vežti, linijų (ilgesnių kaip 2 km) tiesimas ^s-98081ab77cbddbaa662e224b
 
 
-10.13. Kabančio transporto (pvz., keltuvų) ar funikulierių, iš dalies ar išimtinai naudojamo keleiviams vežti, linijų (ilgesnių kaip 500 m) tiesimas ^c9849b559072254241467888
+10.13. Kabančio transporto (pvz., keltuvų) ar funikulierių, iš dalies ar išimtinai naudojamo keleiviams vežti, linijų (ilgesnių kaip 500 m) tiesimas ^s-73a1504d0d4e6600fa5bac3e
 
 
-10.14. Dujų, naftos ar cheminių medžiagų tiekimo vamzdynų tiesimas (kai vamzdžio skersmuo – mažiau kaip 800 mm, o ilgis – mažiau kaip 40 km, bet daugiau kaip 2 km) ^b44937123da3504140b87a21
+10.14. Dujų, naftos ar cheminių medžiagų tiekimo vamzdynų tiesimas (kai vamzdžio skersmuo – mažiau kaip 800 mm, o ilgis – mažiau kaip 40 km, bet daugiau kaip 2 km) ^s-ab7fe9314d922742c17d37b0
 
 
-10.15. Vandens kanalų (ilgesnių kaip 1 km) įrengimas ^91226089ff5d25cfdec69fea
+10.15. Vandens kanalų (ilgesnių kaip 1 km) įrengimas ^s-52c7e2305a2c80f910017410
 
 
-10.16. Priešerozinių jūros pakrantės statinių ar įrenginių, galinčių pakeisti jūros pakrantę, (pvz., pylimų, molų ir kt.) statyba ar įrengimas ^3302659f66a402c8e337ed02
+10.16. Priešerozinių jūros pakrantės statinių ar įrenginių, galinčių pakeisti jūros pakrantę, (pvz., pylimų, molų ir kt.) statyba ar įrengimas ^s-34a2a0aa07eddff2d858dc80
 
 
-10.17. Vandenviečių įrengimas (kai pajėgumas – mažiau kaip 10 milijonų m3, bet daugiau kaip 350 000 m3 per metus) ^b4e10941a05a83b70b936a61
+10.17. Vandenviečių įrengimas (kai pajėgumas – mažiau kaip 10 milijonų m3, bet daugiau kaip 350 000 m3 per metus) ^s-543f56996bfe5f347d29e16e
 
 
-10.18. Tiltų (ilgesnių kaip 250 m) statyba ^3df7aa72021c49675d757633
+10.18. Tiltų (ilgesnių kaip 250 m) statyba ^s-c2609741ac40675620e85936
 
 
 
-11. Kitos planuojamos ūkinės veiklos rūšys ^87ca0ec467b2a5ecbbbc5564
+11. Kitos planuojamos ūkinės veiklos rūšys ^s-86fc2301d8d2c2b35229602d
 
 
-11.1. Variklinių transporto priemonių nuolatinių lenktyniavimo ar išbandymo trasų įrengimas (kai įrengiamas didesnis kaip 1 ha plotas) ^0b8ed64eebd928d70aca87de
+11.1. Variklinių transporto priemonių nuolatinių lenktyniavimo ar išbandymo trasų įrengimas (kai įrengiamas didesnis kaip 1 ha plotas) ^s-90455e0fd399b094cfef6f8d
 
 
-11.2. Statinių ar įrenginių, skirtų nepavojingoms atliekoms šalinti ar naudoti, statyba ar įrengimas ^446bef54673398e1a2809e63
+11.2. Statinių ar įrenginių, skirtų nepavojingoms atliekoms šalinti ar naudoti, statyba ar įrengimas ^s-a5e2925796804e2a5ca8b4bd
 
 
-11.3. Vandenvalos įrenginių įrengimas: ^8443412008150f4d90445f8f
+11.3. Vandenvalos įrenginių įrengimas: ^s-c3a641e063bac414801c74ee
 
 
-11.3.1. miestų, miestelių ar kaimų nuotėkų valymo įrenginiai (kurie gali išvalyti mažiau kaip 50 000, bet daugiau kaip 2 000 gyventojų ekvivalentą atitinkantį teršalų kiekį) ^998629a00bafe8db1162d611
+11.3.1. miestų, miestelių ar kaimų nuotėkų valymo įrenginiai (kurie gali išvalyti mažiau kaip 50 000, bet daugiau kaip 2 000 gyventojų ekvivalentą atitinkantį teršalų kiekį) ^s-6add6311e5769dbdbd8c25da
 
 
-11.3.2. paviršinių nuotėkų valymo įrenginiai (kurie skirti paviršinėms nuotėkoms, surenkamoms kanalizacijos tinklais iš 50 ha ir didesnės teritorijos) ^0935e56bc85820c8cbccaf66
+11.3.2. paviršinių nuotėkų valymo įrenginiai (kurie skirti paviršinėms nuotėkoms, surenkamoms kanalizacijos tinklais iš 50 ha ir didesnės teritorijos) ^s-1aa2c71ed4d8f91701f8f3c7
 
 
-11.3.3. pramoninių nuotėkų valymo įrenginiai ^e6c4efd1d0febc74023a12b9
+11.3.3. pramoninių nuotėkų valymo įrenginiai ^s-3aa1bd2b2e51c2c8aaaff350
 
 
-11.4. Vandenvalos įrenginių dumblo ar kitokio užteršto dumblo utilizavimo ar saugojimo įrenginių įrengimas ar tokio dumblo utilizavimo (saugojimo) vietų nustatymas ^4677d1f79470ca9dc333f009
+11.4. Vandenvalos įrenginių dumblo ar kitokio užteršto dumblo utilizavimo ar saugojimo įrenginių įrengimas ar tokio dumblo utilizavimo (saugojimo) vietų nustatymas ^s-5f15d5b8b9ee393a5a04c25c
 
 
-11.5. Iškasto grunto gramzdinimo vietų nustatymas ^591fe77353677d4eadd505b8
+11.5. Iškasto grunto gramzdinimo vietų nustatymas ^s-dd796f0d619736c55b495ccf
 
 
-11.6. Požeminių vandenų dirbtinis papildymas (kai per metus papildoma mažiau kaip 10 milijonų m3 vandens) ^30ec697f9706bce819b54195
+11.6. Požeminių vandenų dirbtinis papildymas (kai per metus papildoma mažiau kaip 10 milijonų m3 vandens) ^s-24521d679d82de9497fa8d5e
 
 
-11.7. Nuotėkio perskirstymas upių baseinams (kai per metus perskirstoma mažiau kaip 100 milijonų m3 vandens) ar vandens išteklių perskirstymas upių baseinams (kai daugiametis vidutinis baseino, iš kurio imamas vanduo, nuotėkis yra mažesnis kaip 2 000 milijonų m3 vandens per metus ir perskirstoma mažiau kaip 5 procentai šio nuotėkio) ^1fddd7893870b0b83f6820e7
+11.7. Nuotėkio perskirstymas upių baseinams (kai per metus perskirstoma mažiau kaip 100 milijonų m3 vandens) ar vandens išteklių perskirstymas upių baseinams (kai daugiametis vidutinis baseino, iš kurio imamas vanduo, nuotėkis yra mažesnis kaip 2 000 milijonų m3 vandens per metus ir perskirstoma mažiau kaip 5 procentai šio nuotėkio) ^s-88f96b6f0acbc189b38cd8d2
 
 
-11.8. Metalo laužo, įskaitant nereikalingas transporto priemones, saugyklų įrengimas (kai įrengiamas didesnis kaip 0,5 ha plotas) ^9201d77d2d6ffe0d51d2d447
+11.8. Metalo laužo, įskaitant nereikalingas transporto priemones, saugyklų įrengimas (kai įrengiamas didesnis kaip 0,5 ha plotas) ^s-6448f05ea7cf14b58429dd1b
 
 
-11.9. Variklių, turbinų ar reaktorių išbandymų įrenginių įrengimas (kai pagrindinis plotas didesnis kaip 500 m2) ^3d2576c20173f134d2e219d9
+11.9. Variklių, turbinų ar reaktorių išbandymų įrenginių įrengimas (kai pagrindinis plotas didesnis kaip 500 m2) ^s-507c9f786ea4b60588e2ec60
 
 
-11.10. Sprogstamųjų medžiagų sunaikinimo ar kenksmingumo pašalinimo įrenginių įrengimas ar sprogstamųjų medžiagų sunaikinimo ar kenksmingumo pašalinimo vietų nustatymas ^85aba118ec9b8e0fefd20051
+11.10. Sprogstamųjų medžiagų sunaikinimo ar kenksmingumo pašalinimo įrenginių įrengimas ar sprogstamųjų medžiagų sunaikinimo ar kenksmingumo pašalinimo vietų nustatymas ^s-eecbc0604c7941b0afedead1
 
 
-11.11. Kritusių ar sergančių gyvulių supirkimas ar skerdimas (kai pajėgumas didesnis kaip 10 gyvulių per parą) ^3397c2f6dacc325d682bca1d
+11.11. Kritusių ar sergančių gyvulių supirkimas ar skerdimas (kai pajėgumas didesnis kaip 10 gyvulių per parą) ^s-7cb2c60a4b8c597cacaadaad
 
 
-11.12. Galvaninių elementų gamyba (kai pagaminama daugiau kaip 5 000 vienetų per metus) ^7dce94a1bf22a0c453d21ff1
+11.12. Galvaninių elementų gamyba (kai pagaminama daugiau kaip 5 000 vienetų per metus) ^s-79be25136de0fa9725c48f07
 
 
-11.13. Ežerų valymas ar jų vandens lygio reguliavimas (kai valomas ar reguliuojamas didesnis kaip 0,5 ha plotas) ^e8f4ae8451f667b57dd84fa8
+11.13. Ežerų valymas ar jų vandens lygio reguliavimas (kai valomas ar reguliuojamas didesnis kaip 0,5 ha plotas) ^s-905a4b56e688df665ce41e99
 
 
-11.14. Nuosėdų išgavimas iš jūros ar vidaus vandens telkinių dugno tokiems tikslams kaip statyba, paplūdimių papildymas ar atkūrimas, žaliava pramonei ar kt. ^de023d95f007975ac62dd69f
+11.14. Nuosėdų išgavimas iš jūros ar vidaus vandens telkinių dugno tokiems tikslams kaip statyba, paplūdimių papildymas ar atkūrimas, žaliava pramonei ar kt. ^s-855951f4fc78b4262506c0b2
 
 
-11.15. Pramonės objektų valdų plėtimas (kai plečiamas didesnis kaip 0,5 ha plotas) ^969887f6470080778b272c9f
+11.15. Pramonės objektų valdų plėtimas (kai plečiamas didesnis kaip 0,5 ha plotas) ^s-40148ec3519ef95e9d16d97c
 
 
-11.16. Šaudmenų gamyba ^359e620707089f0271006d9a
+11.16. Šaudmenų gamyba ^s-3b5e03dbfcea3c53a297d986
 
 
-11.17. Televizijos, radijo stočių, radarų įrenginių įrengimas (kai bendras siųstuvų galingumas 20 kW ir daugiau) ^52f77c54f9fcaf0d1d71d540
+11.17. Televizijos, radijo stočių, radarų įrenginių įrengimas (kai bendras siųstuvų galingumas 20 kW ir daugiau) ^s-df10dfc1d8dcd8e88fdd3845
 
 
-11.18. Krematoriumų įrengimas ^31af582034d3ede4112eba1e
+11.18. Krematoriumų įrengimas ^s-870dd6af6276d2d61e6fa64f
 
 
 
-12. Turizmas ir laisvalaikis ^7568d982ff14664afa4dd90d
+12. Turizmas ir laisvalaikis ^s-9cb2837f3fa76b350c432af1
 
 
-12.1. Jachtų ar valčių prieplaukų įrengimas (kai prieplaukos plotas didesnis kaip 0,2 ha) ^ad06ee314430ca7ef724431d
+12.1. Jachtų ar valčių prieplaukų įrengimas (kai prieplaukos plotas didesnis kaip 0,2 ha) ^s-22e214b9e003a2044592ed23
 
 
-12.2. Poilsio namų ar viešbučių kompleksų už miestų ribų statyba (kai užimamas plotas didesnis kaip 0,5 ha) ^c6d563aacf69204241687244
+12.2. Poilsio namų ar viešbučių kompleksų už miestų ribų statyba (kai užimamas plotas didesnis kaip 0,5 ha) ^s-d508c65ab2cc339b52d6fec1
 
 
-12.3. Nuolatinių stovyklaviečių ar kempingų (kurių plotas didesnis kaip 1 ha) įrengimas ^3e1df2769f728d16cc330c7b
+12.3. Nuolatinių stovyklaviečių ar kempingų (kurių plotas didesnis kaip 1 ha) įrengimas ^s-832af9dd509ec96ebc337265
 
 
-12.4. Teminių parkų (kurių plotas didesnis kaip 0,5 ha) įrengimas ^d5c7d8fa39db3dec16cb037d
+12.4. Teminių parkų (kurių plotas didesnis kaip 0,5 ha) įrengimas ^s-cf26057c000cd8526875dea4
 
 
 
-13. Į Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą įrašyta planuojama ūkinė veikla, skirta eksperimentiniam tobulinimui ar bandymui ir nevykdoma ilgiau kaip dvejus metus ^c81176f73174cead37c13992
+13. Į Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą įrašyta planuojama ūkinė veikla, skirta eksperimentiniam tobulinimui ar bandymui ir nevykdoma ilgiau kaip dvejus metus ^s-18d7bde1cc074147d6c3e1df
 
 
 
-14. Į Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą ar į Planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai privalomo vertinimo, rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą ir kitus pakeitimus, galinčius daryti neigiamą poveikį aplinkai. ^b6b90be9b2b04acebe67a909
+14. Į Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą ar į Planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai privalomo vertinimo, rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą ir kitus pakeitimus, galinčius daryti neigiamą poveikį aplinkai. ^s-441e011fe288af47e3104bae
 ______________
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3ECA677AC3CA"
 pavadinimas: "Lietuvos Respublikos žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas"
+  - "žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-29"
 latest_path: "latest/TAR.3ECA677AC3CA.md"
 latest_sha256: "9b96481a36b734248c507226f6ab0a33187f88af549a5dea61efc2bf41c0ee52"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3ECA677AC3CA]]"
 ---
 # Lietuvos Respublikos žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3ECA677AC3CA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3ECA677AC3CA
+- Ryšiai: [[Ryšiai/TAR.3ECA677AC3CA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 14 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 14 dalies pakeitimas ^s-5f21459040d62ecbfb38e6d3
 
 
 Pakeisti 9 straipsnio 14 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 9 straipsnio 14 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 21 straipsnio 1 dalies 7 punkto pakeitimas
+### 2 straipsnis. 21 straipsnio 1 dalies 7 punkto pakeitimas ^s-c550bd3dcfdae3b569c3acc8
 
 
 Pakeisti 21 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:

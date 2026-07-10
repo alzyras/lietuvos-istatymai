@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1F673E8F0275"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 28, 129 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 28, 129 straipsnių pakeitimo ir papildymo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 28, 129 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.1F673E8F0275.md"
 latest_sha256: "db47bcdd57324295066c14c8fbf62e7160007d62cbfbdfb3755ac3547f8c3e9f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1F673E8F0275]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 28, 129 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1F673E8F0275.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1F673E8F0275
+- Ryšiai: [[Ryšiai/TAR.1F673E8F0275|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 28 straipsnio pakeitimas
+### 1 straipsnis. 28 straipsnio pakeitimas ^s-2142019c18238f9d42ec40bc
 
 
 Pakeisti 28 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 28 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 129 straipsnio papildymas 13 dalimi
+### 2 straipsnis. 129 straipsnio papildymas 13 dalimi ^s-fe679e0563b8380a82d43b33
 
 
 Papildyti 129 straipsnį 13 dalimi:
@@ -51,7 +56,7 @@ Papildyti 129 straipsnį 13 dalimi:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-01e9017376acc73a08683f4c
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.

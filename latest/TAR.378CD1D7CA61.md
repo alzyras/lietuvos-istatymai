@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.378CD1D7CA61"
 pavadinimas: "Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-06-08"
 latest_path: "latest/TAR.378CD1D7CA61.md"
 latest_sha256: "b79113c8b571515e1d0217923e288b4fa6771a0521e891d6c1c994ee0204e6ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.378CD1D7CA61]]"
 ---
 # Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.378CD1D7CA61.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.378CD1D7CA61
+- Ryšiai: [[Ryšiai/TAR.378CD1D7CA61|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

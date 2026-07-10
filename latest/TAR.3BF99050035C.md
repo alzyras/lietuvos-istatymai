@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3BF99050035C"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 ir 21 straipsnių pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 19 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-01"
 latest_path: "latest/TAR.3BF99050035C.md"
 latest_sha256: "afb4b56703100272cc787e836fee2ef273580d82614407d7a8a96031fd8c5004"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3BF99050035C]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3BF99050035C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3BF99050035C
+- Ryšiai: [[Ryšiai/TAR.3BF99050035C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 4 dalies pakeitimas ^s-16ecf7a48b6b87d3b15103b6
 
 
 Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 21 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 21 straipsnio 4 dalies pakeitimas ^s-333dd8617803045e8286acd6
 
 
 Pakeisti 21 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -53,14 +58,14 @@ Pakeisti 21 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ee60978718606e921485b38a
 
 
 Šis įstatymas įsigalioja 2008 m. liepos 1 d.
 
 
 
-### 4 straipsnis. Baigiamosios nuostatos
+### 4 straipsnis. Baigiamosios nuostatos ^s-2aed9d2787966722bedc8ea3
 
 
 Asmenims, kuriems motinystės (tėvystės) socialinio draudimo pašalpų mokėjimas buvo nutrauktas dėl to, kad buvo paskirta motinystės (tėvystės) socialinio draudimo pašalpa už kitą vaiką, šių pašalpų mokėjimas tęsiamas nuo šio įstatymo įsigaliojimo. Šiuo atveju kompensuojamasis uždarbis iš naujo neperskaičiuojamas.

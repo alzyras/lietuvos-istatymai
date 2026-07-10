@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9C520E85807D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolo ratifikavimo"
+  - "įstatymas dėl 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-07"
 latest_path: "latest/TAR.9C520E85807D.md"
 latest_sha256: "00cd9eb7d1a405cff6f2c95d77c2a8b601df9a9ccf468d7d4fc9f5b23af4e315"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9C520E85807D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9C520E85807D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9C520E85807D
+- Ryšiai: [[Ryšiai/TAR.9C520E85807D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-066e7e751f79129e391b7103
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 4 d. dekretą Nr. 276, ratifikuoja 1999 m. birželio 17 d. Londone priimtą 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolą.

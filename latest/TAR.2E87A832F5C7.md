@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2E87A832F5C7"
 pavadinimas: "Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymas"
+  - "1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-12-31"
 latest_path: "latest/TAR.2E87A832F5C7.md"
 latest_sha256: "f8b1c84d8238deee245c68170c74d0eb18cfa6e52859804121fe977a1ef6375e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2E87A832F5C7]]"
 ---
 # Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2E87A832F5C7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2E87A832F5C7
+- Ryšiai: [[Ryšiai/TAR.2E87A832F5C7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,114 +34,114 @@ Vilnius
 
 
 
-### 1 straipsnis. 1997 m. valstybės biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 1997 m. valstybės biudžeto pajamų ir išlaidų patvirtinimas ^s-f0a4294fb123cb8044579888
 
 
-1. Patvirtinti Lietuvos Respublikos 1997 metų valstybės biudžetą – 6019736 tūkst. litų pajamų, 6717586 tūkst. litų išlaidų (išlaidos viršija pajamas 697850 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai). ^b6723b6ce0c4c2c1374cb7bc
+1. Patvirtinti Lietuvos Respublikos 1997 metų valstybės biudžetą – 6019736 tūkst. litų pajamų, 6717586 tūkst. litų išlaidų (išlaidos viršija pajamas 697850 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai). ^s-5856d036105ff87a0bacf153
 
 
-2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms paprastosioms išlaidoms finansuoti. ^a305a5aa3ad85f66ec1a3969
-
-
-
-### 2 straipsnis. Atskaitymų į savivaldybių biudžetus normatyvai ir dotacijos
-
-
-1. Nustatyti 1997 metams fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (4 priedėlis). ^fc9133f966d31a745b07c3d7
-
-
-2. Valstybės įmonės Ignalinos atominės elektrinės fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukas įskaityti į valstybės biudžetą. ^18c43f3a0cea615f4e646308
+2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms paprastosioms išlaidoms finansuoti. ^s-84d47e089fdf9cbc02846aed
 
 
 
-### 3 straipsnis. Savivaldybių asignavimai kapitalo investicijoms, gamtosaugai ir paskoloms grąžinti
+### 2 straipsnis. Atskaitymų į savivaldybių biudžetus normatyvai ir dotacijos ^s-0c93229551c081ad5851a0b5
 
 
-1. Nustatyti asignavimus iš savivaldybių biudžetų kapitalo investicijoms, kurių sąmatinė kaina viršija 5000 tūkst. litų, gamtosaugos objektams finansuoti ir paskoloms, išduotoms su valstybės garantija, grąžinti (5 priedėlis). ^a29c58cacddbe07207f46154
+1. Nustatyti 1997 metams fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukų atskaitymų į savivaldybių biudžetus normatyvus bei dotacijas (4 priedėlis). ^s-4018b4f4104d138ee6ef55ce
 
 
-2. Asignavimai turi būti naudojami tik pagal tikslinę paskirtį. Nepanaudoti pagal tikslinę paskirtį asignavimai grąžinami į valstybės biudžetą. ^12c4da8e6a6998a86e4b09c0
+2. Valstybės įmonės Ignalinos atominės elektrinės fizinių asmenų pajamų mokesčio ir juridinių asmenų pelno mokesčio įplaukas įskaityti į valstybės biudžetą. ^s-7ef08f220315d850e0d11f78
 
 
 
-### 4 straipsnis. Biudžetinių įstaigų skolų padengimas
+### 3 straipsnis. Savivaldybių asignavimai kapitalo investicijoms, gamtosaugai ir paskoloms grąžinti ^s-1982c69c71d144a8afcfd54c
+
+
+1. Nustatyti asignavimus iš savivaldybių biudžetų kapitalo investicijoms, kurių sąmatinė kaina viršija 5000 tūkst. litų, gamtosaugos objektams finansuoti ir paskoloms, išduotoms su valstybės garantija, grąžinti (5 priedėlis). ^s-ceba5f49f1a213a56ec1e24c
+
+
+2. Asignavimai turi būti naudojami tik pagal tikslinę paskirtį. Nepanaudoti pagal tikslinę paskirtį asignavimai grąžinami į valstybės biudžetą. ^s-03fcdde4b9a188024627bc06
+
+
+
+### 4 straipsnis. Biudžetinių įstaigų skolų padengimas ^s-72fc9d2a7f32c950e24e7ffa
 
 
 Vyriausybė nustato biudžetinių įstaigų skolų padengimo tvarką.
 
 
 
-### 5 straipsnis. Vyriausybės teisės
+### 5 straipsnis. Vyriausybės teisės ^s-dcd004970deabde9c6e53c01
 
 
-1. Suteikti Vyriausybei teisę: ^7051730f9d8755df0d5454d3
+1. Suteikti Vyriausybei teisę: ^s-c1ded28b7c51544fe924959c
 
 
-1) leisti vertybinius popierius ir imti paskolas valstybės skolai, susidariusiai iki 1997 m. sausio 1 d., valdyti, 1997 metų valstybės biudžeto deficitui ir nustatytai valstybės skolai už energetinius išteklius dengti; ^a6c7ac544b1afd16ab029c49
+1) leisti vertybinius popierius ir imti paskolas valstybės skolai, susidariusiai iki 1997 m. sausio 1 d., valdyti, 1997 metų valstybės biudžeto deficitui ir nustatytai valstybės skolai už energetinius išteklius dengti; ^s-77a2f57072ae0a8fd5af9958
 
 
-2) paskirstyti miestų, rajonų savivaldybėms valstybės biudžeto asignavimus, skirtus kompensacijoms už valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams mokėti; ^7992de0fc67e605918b17d69
+2) paskirstyti miestų, rajonų savivaldybėms valstybės biudžeto asignavimus, skirtus kompensacijoms už valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams mokėti; ^s-c39ff49b1e6f2224be91cd2c
 
 
-3) paskirstyti miestų, rajonų savivaldybėms valstybės biudžeto asignavimus Bendrajam paramos gyvenamiesiems namams, butams statyti arba pirkti fondui; ^5b81f744e8aafb8d2308571c
+3) paskirstyti miestų, rajonų savivaldybėms valstybės biudžeto asignavimus Bendrajam paramos gyvenamiesiems namams, butams statyti arba pirkti fondui; ^s-32746355abbf8e9db3220774
 
 
-4) indeksuoti darbo užmokestį ir su tuo susijusias išmokas, pensijas, pašalpas ir stipendijas biudžetinių įstaigų darbuotojams neviršijant valstybės biudžete tam reikalui numatytų asignavimų; ^da0733f0b9a8632a50e5480f
+4) indeksuoti darbo užmokestį ir su tuo susijusias išmokas, pensijas, pašalpas ir stipendijas biudžetinių įstaigų darbuotojams neviršijant valstybės biudžete tam reikalui numatytų asignavimų; ^s-cafc8ea6b4a555149d8b8d2e
 
 
-5) iš lėšų, numatytų valstybės biudžete darbo užmokesčiui, pensijoms, pašalpoms ir stipendijoms indeksuoti ir kompensacijoms už gyventojams tiektą šiluminę energiją, atitinkamas sumas perduoti savivaldybių biudžetams. ^9fbda0d7a14741f9f70cd476
+5) iš lėšų, numatytų valstybės biudžete darbo užmokesčiui, pensijoms, pašalpoms ir stipendijoms indeksuoti ir kompensacijoms už gyventojams tiektą šiluminę energiją, atitinkamas sumas perduoti savivaldybių biudžetams. ^s-5f52ef21a6769df5585e604d
 
 
-2. Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms. ^aee32f117e383c454c63538f
-
-
-
-### 6 straipsnis. Savivaldybių atsiskaitymas už sunaudotus energetinius išteklius
-
-
-1. Savivaldybės užtikrina, kad būtų laiku atsiskaitoma už sunaudotus energetinius išteklius. ^ba2ba80a14cdd9b0312a9f9a
-
-
-2. Jeigu biudžetinių įstaigų skola akcinei bendrovei „Lietuvos energija“ tęsiasi ilgiau kaip 30 dienų, ji Vyriausybės nustatyta tvarka padengiama iš atitinkamų savivaldybių biudžetams priklausančių lėšų. ^3080a4448acd081268b02945
+2. Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms. ^s-f6702ccf6db4b5adba342c3d
 
 
 
-### 7 straipsnis. Savivaldybių darbo užmokesčio fondas
+### 6 straipsnis. Savivaldybių atsiskaitymas už sunaudotus energetinius išteklius ^s-4c7506763223a59a96d1dd0e
+
+
+1. Savivaldybės užtikrina, kad būtų laiku atsiskaitoma už sunaudotus energetinius išteklius. ^s-ba1fc1b968259fc81acc8d21
+
+
+2. Jeigu biudžetinių įstaigų skola akcinei bendrovei „Lietuvos energija“ tęsiasi ilgiau kaip 30 dienų, ji Vyriausybės nustatyta tvarka padengiama iš atitinkamų savivaldybių biudžetams priklausančių lėšų. ^s-1dfe762cefe99cdf1f0bde5c
+
+
+
+### 7 straipsnis. Savivaldybių darbo užmokesčio fondas ^s-210d1cb49924c16752e6b93c
 
 
 Nustatyti, kad iš savivaldybių biudžetų finansuojamų įstaigų darbo užmokesčio fondą tvirtina miestų, rajonų tarybos, neviršydamos 1996 metams tam skirtų lėšų, perskaičiuotų pagal Vyriausybės nutarimus dėl darbo užmokesčio didinimo.
 
 
 
-### 8 straipsnis. Savivaldybių biudžetų tvirtinimas
+### 8 straipsnis. Savivaldybių biudžetų tvirtinimas ^s-7a681627dfedb87c4aeadf66
 
 
 Nustatyti, kad miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto patvirtinimo ir vieną egzempliorių pateikia Finansų ministerijai.
 
 
 
-### 9 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
+### 9 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis ^s-3e22caf5a8f4ef2e5555421e
 
 
 Nustatyti, kad 1997 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio sumos.
 
 
 
-### 10 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+### 10 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis ^s-6d357a3b53ac632c40603a1e
 
 
 Nustatyti, kad 1997 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 119,7 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
 
 
 
-### 11 straipsnis. Privatizavimo fondo lėšų naudojimas verslui skatinti
+### 11 straipsnis. Privatizavimo fondo lėšų naudojimas verslui skatinti ^s-09c0ee2449ea78249084f8a8
 
 
 Nustatyti, kad 1997 metais iš Privatizavimo fondo lėšų būtų skiriama ne mažiau kaip 40 mln. litų darbo vietoms kurti skatinant smulkų ir vidutinį verslą.
 
 
 
-### 12 straipsnis. Užsienio paskolų limitas
+### 12 straipsnis. Užsienio paskolų limitas ^s-f4dcda038e4baaf19ed4b05b
 
 
 Nustatyti užsienio paskolų ir paskolų su valstybės garantija, gaunamų 1997 metais, limitą – 2472000 tūkst. litų.

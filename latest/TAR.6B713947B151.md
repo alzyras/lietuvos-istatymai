@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B713947B151"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.6B713947B151.md"
 latest_sha256: "fa289be0f2c92c9e425079df40e59d6ec8eca01d71304bcf97426c99a434aebc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B713947B151]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B713947B151.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B713947B151
+- Ryšiai: [[Ryšiai/TAR.6B713947B151|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,17 +38,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 29 straipsnio 2 dalies pakeitimas ^s-33c496021234536a5a91adc1
 
 
 29 straipsnio 2 dalyje vietoj žodžių „Operatyvinės veiklos“ įrašyti žodžius „Kriminalinės žvalgybos“ ir šią dalį išdėstyti taip:
 
 
-„2. Tarnybinė nuobauda skiriama atsižvelgiant į kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į valstybės tarnautojo veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes, į Korupcijos prevencijos įstatymo ar į Kriminalinės žvalgybos įstatymo nustatytais atvejais ir tvarka pateiktą informaciją. Pagal Korupcijos prevencijos įstatymą gauta informacija gali būti panaudota skiriant valstybės tarnautojui tarnybinę nuobaudą tik tuo atveju, kai ši informacija yra išslaptinama teisės aktų nustatyta tvarka.“
+„2. Tarnybinė nuobauda skiriama atsižvelgiant į kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į valstybės tarnautojo veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes, į [[latest/TAR.4DBDE27621A2|Korupcijos prevencijos įstatymo]] ar į [[latest/TAR.3B8E4F16C815|Kriminalinės žvalgybos įstatymo]] nustatytais atvejais ir tvarka pateiktą informaciją. Pagal Korupcijos prevencijos įstatymą gauta informacija gali būti panaudota skiriant valstybės tarnautojui tarnybinę nuobaudą tik tuo atveju, kai ši informacija yra išslaptinama teisės aktų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ed0f4c91242be62f5e89478b
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

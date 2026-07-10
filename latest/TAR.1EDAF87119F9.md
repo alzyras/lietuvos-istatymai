@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1EDAF87119F9"
 pavadinimas: "Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas"
+  - "viešojo administravimo įstatymo pakeitimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-30"
 latest_path: "latest/TAR.1EDAF87119F9.md"
 latest_sha256: "9588535632570bbb4381201a514e01fa3f549827088cb1947f2a1f3a8def8d30"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1EDAF87119F9]]"
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1EDAF87119F9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1EDAF87119F9
+- Ryšiai: [[Ryšiai/TAR.1EDAF87119F9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-1490f796984748d778549556
 
 
-Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio 3, 4, 5, 6, 7 dalis pripažinti netekusiomis galios.
+Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto [[latest/TAR.0BDFFD850A66#^s-f5310c81a9f829d6196d3475|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] 3, 4, 5, 6, 7 dalis pripažinti netekusiomis galios.
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-50bf62e2fddc4670f528f9d7
 
 
 3 straipsnio 1 dalyje išbraukti žodžius ir skaičius „ir šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio 3, 4, 5, 6 ir 7 dalis“, 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:

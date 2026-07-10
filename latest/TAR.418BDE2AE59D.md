@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.418BDE2AE59D"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-07"
 latest_path: "latest/TAR.418BDE2AE59D.md"
 latest_sha256: "0134325e42a40e5f736cdbf67a0319ebdb671a3a9895d8589e74ef4cc92c3eb0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.418BDE2AE59D]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.418BDE2AE59D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.418BDE2AE59D
+- Ryšiai: [[Ryšiai/TAR.418BDE2AE59D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 dalies 1 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 3 dalies 1 punkto pakeitimas ^s-73ac0a408d32346b8be8a8eb
 
 
 Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
-„1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų). Rezervinį (stabilizavimo) fondą steigia Vyriausybė, jo nuostatus tvirtina Seimas Vyriausybės teikimu. Rezervinio (stabilizavimo) fondo lėšos Vyriausybės nutarimu gali būti naudojamos: pensijų sistemos reformai finansuoti, Lietuvos valstybės rezervo piniginėms lėšoms, reikalingoms ūkio funkcionavimui palaikyti ekstremalių situacijų bei ekonominės grėsmės sąlygomis, sukaupti ir atkurti, šio fondo valdymo išlaidoms, taip pat grąžintinai gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti. Lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti Vyriausybės sprendimu laikinai, 1999–2001 metais, gali būti naudojamos su Lietuvos Respublikos valstybės skolos įstatymo įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti.“
+„1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų). Rezervinį (stabilizavimo) fondą steigia Vyriausybė, jo nuostatus tvirtina Seimas Vyriausybės teikimu. Rezervinio (stabilizavimo) fondo lėšos Vyriausybės nutarimu gali būti naudojamos: pensijų sistemos reformai finansuoti, Lietuvos valstybės rezervo piniginėms lėšoms, reikalingoms ūkio funkcionavimui palaikyti ekstremalių situacijų bei ekonominės grėsmės sąlygomis, sukaupti ir atkurti, šio fondo valdymo išlaidoms, taip pat grąžintinai gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti. Lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti Vyriausybės sprendimu laikinai, 1999–2001 metais, gali būti naudojamos su [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymo]] įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti.“
 
 
 

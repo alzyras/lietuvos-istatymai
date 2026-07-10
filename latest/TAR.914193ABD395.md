@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.914193ABD395"
 pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
+  - "Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-12-14"
 latest_path: "latest/TAR.914193ABD395.md"
 latest_sha256: "aa6d3ce9792f130817dd9f13ee392bf621a811ee367d883a7a132b5d7101dcc5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.914193ABD395]]"
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.914193ABD395.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.914193ABD395
+- Ryšiai: [[Ryšiai/TAR.914193ABD395|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,39 +36,39 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 ir 2 dalių papildymas ir pakeitimas
+### 1 straipsnis. 4 straipsnio 1 ir 2 dalių papildymas ir pakeitimas ^s-dd0f4dcc91377a1510062932
 
 
-1. 4 straipsnio 1 dalį papildyti antru sakiniu ir visą dalį išdėstyti taip: ^99230aedd8b48287cf31ae6d
+1. 4 straipsnio 1 dalį papildyti antru sakiniu ir visą dalį išdėstyti taip: ^s-e9fb63e4c7a95b57cbd3463a
 
 
 „1. Lietuvos nacionalinio radijo ir televizijos programose turi būti užtikrinta temų ir žanrų įvairovė, laidos turi būti orientuotos įvairiems visuomenės sluoksniams, įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms, programose neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms. Lietuvos nacionalinio radijo ir televizijos informacinėse laidose, komentaruose pateikiama informacija turi būti subalansuota, atspindinti įvairias politines pažiūras, o nuomonės ir faktinės žinios turi būti autorizuotos, patikrintos ir išsamios.“
 
 
-2. Pakeisti ir papildyti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^1401c1a2aea0fa262c9a3f5a
+2. Pakeisti ir papildyti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^s-9160642358356a84aa475af3
 
 
 „2. Lietuvos nacionalinio radijo ir televizijos programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno laidoms. Masinė kultūra atspindima apžvalginio, pažintinio, analitinio pobūdžio laidose.“
 
 
 
-### 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+### 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas ^s-e2b286beb3cf51905e8f02a7
 
 
-1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip: ^8e759018ef4a61520b946dbe
+1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip: ^s-199ef6b5f214eb39fd7de996
 
 
-„1. Lietuvos nacionalinio radijo ir televizijos valdymo organai yra Lietuvos nacionalinio radijo ir televizijos taryba ir administracija. Lietuvos nacionalinio radijo ir televizijos taryba yra sudaroma Visuomenės informavimo įstatymo 29 straipsnio nustatyta tvarka. Lietuvos nacionalinio radijo ir televizijos tarybos nariais negali būti Seimo, Vyriausybės, Radijo ir televizijos komisijos nariai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos stotyse, įskaitant Lietuvos nacionalinį radiją ir televiziją, taip pat radijo ir televizijos stočių savininkai ir bendrasavininkiai.“
+„1. Lietuvos nacionalinio radijo ir televizijos valdymo organai yra Lietuvos nacionalinio radijo ir televizijos taryba ir administracija. Lietuvos nacionalinio radijo ir televizijos taryba yra sudaroma [[latest/TAR.065AB8483E1E#^s-6d016c32a3b4183a45a1e317|Visuomenės informavimo įstatymo 29 straipsnio]] nustatyta tvarka. Lietuvos nacionalinio radijo ir televizijos tarybos nariais negali būti Seimo, Vyriausybės, Radijo ir televizijos komisijos nariai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos stotyse, įskaitant Lietuvos nacionalinį radiją ir televiziją, taip pat radijo ir televizijos stočių savininkai ir bendrasavininkiai.“
 
 
-2. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip: ^87df29d4ce602a0af617e3ea
+2. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f8cc19d41833da0d5c366456
 
 
 „2. Lietuvos nacionalinio radijo ir televizijos tarybos sudarymą organizuoja Seimo Švietimo, mokslo ir kultūros komitetas.“
 
 
 
-### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-ee13de3f388d9ea314fa4da1
 
 
 10 straipsnio 2 dalyje vietoj skaičiaus „5“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:

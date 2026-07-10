@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7B346BAC0A7D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimo dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS) ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimo dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS) ratifikavimo"
+  - "įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimo dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS) ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-30"
 latest_path: "latest/TAR.7B346BAC0A7D.md"
 latest_sha256: "725d14b606e7db0d0f94abc41599a955e79d9ae6fa55fcd335424561f624edd5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7B346BAC0A7D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimo dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS) ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7B346BAC0A7D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7B346BAC0A7D
+- Ryšiai: [[Ryšiai/TAR.7B346BAC0A7D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-28d88ffa184c0fc2c2a7d8e3
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. lapkričio 10 d. dekretą Nr. 1K-1152, ratifikuoja 2006 m. gruodžio 12 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).

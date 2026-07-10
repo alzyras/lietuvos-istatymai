@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.364077508525"
 pavadinimas: "Lietuvos Respublikos ir Lenkijos Respublikos sutarties dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Lenkijos Respublikos sutarties dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje ratifikavimo įstatymas"
+  - "ir Lenkijos Respublikos sutarties dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-12"
 latest_path: "latest/TAR.364077508525.md"
 latest_sha256: "a4af29cecc8fc524a5607611c2ea8f0354f234d17b9b42aea721d732a451ecd1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.364077508525]]"
 ---
 # Lietuvos Respublikos ir Lenkijos Respublikos sutarties dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.364077508525.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.364077508525
+- Ryšiai: [[Ryšiai/TAR.364077508525|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-f9baed5e7395b8d9cc0d54b2
 
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 28 d. dekretą Nr.957, ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos sutartį dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje, pasirašytą 1996 m. kovo 5 d. Vilniuje.

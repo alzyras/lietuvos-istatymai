@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "cf2fde602ed411efbdaea558de59136c"
 pavadinimas: "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 7, 12, 13, 14, 26, 33 straipsnių ir 1 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 7, 12, 13, 14, 26, 33 straipsnių ir 1 priedo pakeitimo įstatymas"
+  - "indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 7, 12, 13, 14, 26, 33 straipsnių ir 1 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2024-06-21"
 latest_path: "latest/cf2fde602ed411efbdaea558de59136c.md"
 latest_sha256: "a83a9bcabd653c447e42c26310810eaa2e90eba85a5ae485f6105f1a87b8da3a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/cf2fde602ed411efbdaea558de59136c]]"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 7, 12, 13, 14, 26, 33 straipsnių ir 1 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/cf2fde602ed411efbdaea558de59136c.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/cf2fde602ed411efbdaea558de59136c
+- Ryšiai: [[Ryšiai/cf2fde602ed411efbdaea558de59136c|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,20 +37,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-e6e5033f59579de583cde3e9
 
 
-1. Papildyti 2 straipsnį 291 dalimi: ^81a798f594c8750dd2452919
+1. Papildyti 2 straipsnį 291 dalimi: ^s-2e20a39337b7e745bccbe608
 
 
 „291. Kredito įstaigos nuosavos lėšos – kaip tai apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 118 punkte.“
 
 
-2. Pripažinti netekusia galios 2 straipsnio 31 dalį. ^f255e3400aca1a6d847a3aa1
+2. Pripažinti netekusia galios 2 straipsnio 31 dalį. ^s-4d32bde025f577ddc98500cb
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-36d152569a36f60c7ae861b1
 
 
 Pakeisti 3 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 3 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 7 straipsnio pakeitimas
+### 3 straipsnis. 7 straipsnio pakeitimas ^s-1519ff1c01c82db516ef0c32
 
 
 Pakeisti 7 straipsnio 15 dalį ir ją išdėstyti taip:
@@ -65,34 +70,34 @@ Pakeisti 7 straipsnio 15 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 12 straipsnio pakeitimas
+### 4 straipsnis. 12 straipsnio pakeitimas ^s-6621e38a44bb966f2f2b6f86
 
 
-1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip: ^b1b66be3cac15df1e0b061b8
+1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip: ^s-b0441d7660545d28f3587c3a
 
 
 „1. Indėlių draudimo sistemos dalyviai į Indėlių draudimo fondą privalo mokėti periodines (ex ante) indėlių draudimo įmokas.“
 
 
-2. Pakeisti 12 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^4a1fd385a0c07f1cead217c4
+2. Pakeisti 12 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^s-ecc1b05748880dec44cc743d
 
 
 „1) pas indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumą. Jeigu nėra galimybių vienoje depozitinėje sąskaitoje nustatyti tikslios vienam indėlininkui priklausančios pagrindinių apdraustųjų indėlių sumos arba didžiausios galimos pagrindinių apdraustųjų indėlių sumos, periodinių (ex ante) draudimo įmokų apskaičiavimo tikslais laikoma, kad visos toje depozitinėje sąskaitoje esančios lėšos yra apdraustos ir nuo jų apskaičiuojamos ir mokamos periodinės (ex ante) indėlių draudimo įmokos;“.
 
 
-3. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip: ^b6cd6f32fdec17c5f106a800
+3. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip: ^s-381c75b359347d47951b3e54
 
 
 „3. Periodinių (ex ante) indėlių draudimo įmokų ir specialiųjų (ex post) indėlių draudimo įmokų apskaičiavimo tikslais indėlių draudimo sistemos dalyvio veiklos rizikos koeficientas nustatomas kartą per metus, atsižvelgiant į konkretaus indėlių draudimo sistemos dalyvio verslo modelį, jo turto kokybę, teisės aktuose nustatytus indėlių draudimo sistemos dalyvių veiklos riziką ribojančius normatyvus ir kitus indėlių draudimo sistemos dalyvio veiklos riziką apibūdinančius kriterijus. Per einamuosius metus prie Lietuvos Respublikos indėlių draudimo sistemos prisijungusiems naujiems indėlių draudimo sistemos dalyviams, atsižvelgiant į tuos pačius kriterijus, nustatomas laikinas atskirasis rizikos koeficientas, taikytinas iki reguliaraus metinio visų indėlių draudimo sistemos dalyvių veiklos rizikos koeficientų nustatymo. Indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento ir laikino atskirojo rizikos koeficiento nustatymo metodus ir tvarką, vadovaudamasi Europos bankininkystės institucijos gairėmis, priimtomis įgyvendinant 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyvos 2014/49/ES dėl indėlių garantijų sistemų 13 straipsnio 3 dalį, (toliau – Europos bankininkystės institucijos gairės), bendradarbiaudama su draudimo įmone, nustato ir tvirtina priežiūros institucija. Apie patvirtintus indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento nustatymo metodus priežiūros institucija informuoja Europos bankininkystės instituciją.“
 
 
-4. Pakeisti 12 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip: ^365d47e566acc795edff5330
+4. Pakeisti 12 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip: ^s-9e4ddd5a2872adb23100b958
 
 
 „4) esamą verslo ciklo stadiją ir galimą prociklinį periodinių (ex ante) indėlių draudimo įmokų poveikį indėlių draudimo sistemos dalyvių finansinei būklei, atsižvelgiant į Europos bankininkystės institucijos gaires.“
 
 
-5. Pakeisti 12 straipsnio 10 dalies nuostatą iki dvitaškio ir ją išdėstyti taip: ^c16795731312327756ee54ae
+5. Pakeisti 12 straipsnio 10 dalies nuostatą iki dvitaškio ir ją išdėstyti taip: ^s-fb60999a229000be6eabf0bb
 
 
 „10. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos periodinės (ex ante) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires, kiekvieną kalendorinį ketvirtį pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:“.
@@ -100,7 +105,7 @@ Pakeisti 7 straipsnio 15 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 13 straipsnio pakeitimas
+### 5 straipsnis. 13 straipsnio pakeitimas ^s-bb91ed85054c86b1178dec7f
 
 
 Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -110,7 +115,7 @@ Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 14 straipsnio pakeitimas
+### 6 straipsnis. 14 straipsnio pakeitimas ^s-f63e1f4a1cad597b5634c5b1
 
 
 Pakeisti 14 straipsnio 7 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
@@ -120,7 +125,7 @@ Pakeisti 14 straipsnio 7 dalies nuostatą iki dvitaškio ir ją išdėstyti taip
 
 
 
-### 7 straipsnis. 26 straipsnio pakeitimas
+### 7 straipsnis. 26 straipsnio pakeitimas ^s-5da592cc73903c33a29e7573
 
 
 Pakeisti 26 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
@@ -130,7 +135,7 @@ Pakeisti 26 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. 33 straipsnio pakeitimas
+### 8 straipsnis. 33 straipsnio pakeitimas ^s-a78d13239da7609d046e0f5c
 
 
 Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -140,7 +145,7 @@ Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. Įstatymo 1 priedo pakeitimas
+### 9 straipsnis. Įstatymo 1 priedo pakeitimas ^s-86ef862ea7108f34941daa7f
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
@@ -148,7 +153,7 @@ Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 indėlių ir įsipareigojimų
-investuotojams draudimo įstatymo
+investuotojams [[latest/TAR.8447F63760E9|draudimo įstatymo]]
 1 priedas
 
 (Informacijos indėlininkui teikimo forma)
@@ -210,20 +215,20 @@ INFORMACIJA INDĖLININKUI
 Pastabos:
 
 
-1. Paaiškinimas dėl 2 ir 3 punktuose pateikiamos informacijos. Jeigu indėlis negrąžinamas dėl to, kad kredito įstaiga nepajėgi įvykdyti savo finansinių įsipareigojimų, indėlininkams draudimo įmonė išmoka indėlių draudimo išmokas. Didžiausia indėlių, laikomų vienoje kredito įstaigoje, draudimo išmokos suma vienam indėlininkui yra 100 000 eurų. Nustatant indėlių draudimo išmokos dydį, visi toje pačioje kredito įstaigoje laikomi indėliai yra susumuojami. Pavyzdžiui, jeigu indėlininkas turi taupomąją sąskaitą, kurioje yra 90 000 eurų, ir einamąją sąskaitą, kurioje yra 20 000 eurų, jam bus išmokama tik 100 000 eurų draudimo išmoka. ^c5ad5ce702e6782e5c8eff51
+1. Paaiškinimas dėl 2 ir 3 punktuose pateikiamos informacijos. Jeigu indėlis negrąžinamas dėl to, kad kredito įstaiga nepajėgi įvykdyti savo finansinių įsipareigojimų, indėlininkams draudimo įmonė išmoka indėlių draudimo išmokas. Didžiausia indėlių, laikomų vienoje kredito įstaigoje, draudimo išmokos suma vienam indėlininkui yra 100 000 eurų. Nustatant indėlių draudimo išmokos dydį, visi toje pačioje kredito įstaigoje laikomi indėliai yra susumuojami. Pavyzdžiui, jeigu indėlininkas turi taupomąją sąskaitą, kurioje yra 90 000 eurų, ir einamąją sąskaitą, kurioje yra 20 000 eurų, jam bus išmokama tik 100 000 eurų draudimo išmoka. ^s-b44675a14d66978ec9c107b4
 Tam tikrais atvejais (kai į indėlininko sąskaitą ne anksčiau kaip prieš 6 mėnesius iki indėlių draudžiamojo įvykio dienos pervesti pinigai už parduotą indėlininkui nuosavybės teise priklausiusį gyvenamąjį būstą; indėlininko paveldėti pinigai pagal testamentą arba pagal įstatymą; indėlininko kaip naudos gavėjo pagal gyvybės draudimo sutartį ar jos esmę atitinkančią sutartį mirties atveju gauti pinigai; indėlininko kaip kompensacija arba išmoka įstatymų nustatytais atvejais dėl kito asmens žūties atliekant darbo ar tarnybines pareigas gauti pinigai; išmokos ar kompensacijos už smurtiniais nusikaltimais padarytą žalą) indėliai apsaugomi didesne kaip 100 000 eurų suma.
 Daugiau informacijos galima rasti interneto svetainėje iidraudimas.lt.
 
 
-2. Paaiškinimas dėl 4 punkte pateikiamos informacijos. Jeigu turite bendrą sąskaitą su kitu (kitais) asmeniu (asmenimis), 100 000 eurų apsaugos riba atskirai taikoma kiekvienam indėlio bendraturčiui. ^812cf2a68a3eeaae0a517c81
+2. Paaiškinimas dėl 4 punkte pateikiamos informacijos. Jeigu turite bendrą sąskaitą su kitu (kitais) asmeniu (asmenimis), 100 000 eurų apsaugos riba atskirai taikoma kiekvienam indėlio bendraturčiui. ^s-c7c0ed318184a1b1f9ce4536
 
 
-3. Paaiškinimas dėl 5 punkte pateikiamos informacijos. Draudimo išmokų išmokėjimas. ^63f59f9af79f7e0bf8be9f91
+3. Paaiškinimas dėl 5 punkte pateikiamos informacijos. Draudimo išmokų išmokėjimas. ^s-4ca7b6a21671277455ee0541
 Atsakinga už indėlių draudimo sistemą yra draudimo įmonė (įrašyti draudimo įmonės pavadinimą, adresą, telefono, fakso numerį, el. pašto adresą), interneto svetainė iidraudimas.lt. Ji grąžins jūsų indėlius (iki 100 000 eurų) ne vėliau kaip per 7 darbo dienas.
 Jeigu per šį terminą draudimo išmoka jums nebuvo išmokėta, turėtumėte susisiekti su draudimo įmone. Daugiau informacijos galima rasti interneto svetainėje iidraudimas.lt.
 
 
-4. Kita svarbi informacija ^075341e8ed45579acaa865be
+4. Kita svarbi informacija ^s-a56cd8abfa2629e16e805cee
 Iš principo visi mažmeninių indėlininkų ir įmonių indėliai yra apdrausti draudimo įmonėje.
 Tam tikriems indėliams taikomos išimtys yra nurodytos draudimo įmonės interneto svetainėje iidraudimas.lt. Jūsų paprašyta kredito įstaiga taip pat informuos jus, ar tam tikri produktai yra apdrausti. Jeigu indėliai apdrausti, kredito įstaiga tai patvirtina ir sąskaitos išraše.
 
@@ -232,10 +237,10 @@ _____________________“.
 
 
 
-### 10 straipsnis. Įstatymo įsigaliojimas
+### 10 straipsnis. Įstatymo įsigaliojimas ^s-1d5d95010ef9e644818bbd76
 
 
-Šio įstatymo 4 ir [[#6 straipsnis. 14 straipsnio pakeitimas|6 straipsniai]] įsigalioja 2024 m. liepos 3 d.
+Šio įstatymo 4 ir [[#^s-f63e1f4a1cad597b5634c5b1|6 straipsniai]] įsigalioja 2024 m. liepos 3 d.
 
 
 

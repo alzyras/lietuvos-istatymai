@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F30FEF80C72C"
 pavadinimas: "Lietuvos Respublikos žemės įstatymo 14, 19 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės įstatymo 14, 19 straipsnių pakeitimo ir papildymo įstatymas"
+  - "žemės įstatymo 14, 19 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-21"
 latest_path: "latest/TAR.F30FEF80C72C.md"
 latest_sha256: "27fc67cb7069d1cb9ccaf1ccb8e765fb1029b266c80c8f5c970aac713d73da16"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F30FEF80C72C]]"
 ---
 # Lietuvos Respublikos žemės įstatymo 14, 19 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F30FEF80C72C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F30FEF80C72C
+- Ryšiai: [[Ryšiai/TAR.F30FEF80C72C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio papildymas 3 dalimi
+### 1 straipsnis. 14 straipsnio papildymas 3 dalimi ^s-aea47e2afbc86cb1ce759b3d
 
 
 Papildyti 14 straipsnį 3 dalimi:
@@ -41,7 +46,7 @@ Papildyti 14 straipsnį 3 dalimi:
 
 
 
-### 2 straipsnis. 19 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 19 straipsnio 5 dalies pakeitimas ^s-4bf3cd6642bc2c301b5c4028
 
 
 Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip:

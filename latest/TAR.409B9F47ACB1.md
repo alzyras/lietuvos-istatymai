@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.409B9F47ACB1"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių ir 3 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių ir 3 priedo pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 8, 10 straipsnių ir 3 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-01"
 latest_path: "latest/TAR.409B9F47ACB1.md"
 latest_sha256: "816842214e9c8ce741db27462d202e9ce89307c1ae2713a5711a3510d0df9296"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.409B9F47ACB1]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių ir 3 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.409B9F47ACB1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.409B9F47ACB1
+- Ryšiai: [[Ryšiai/TAR.409B9F47ACB1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 5 dalies pakeitimas ^s-ff62b84f9443b416da322d17
 
 
 8 straipsnio 5 dalyje vietoj žodžių „Ministro Pirmininko tarnyboje“ įrašyti žodžius „Vyriausybės kanceliarijoje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 10 straipsnio 2 dalies 5 punkto pakeitimas
+### 2 straipsnis. 10 straipsnio 2 dalies 5 punkto pakeitimas ^s-b476a469856e2fc005911b26
 
 
 10 straipsnio 2 dalies 5 punkte vietoj žodžių „Ministro Pirmininko tarnyboje“ įrašyti žodžius „Vyriausybės kanceliarijoje“ ir šį punktą išdėstyti taip:
@@ -53,10 +58,10 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas
+### 3 straipsnis. Įstatymo 3 priedo I skyriaus pakeitimas ^s-a6d33575ce76aed889cdfdc2
 
 
-1. Pakeisti Įstatymo 3 priedo I skyriaus 2 eilutės 2 skiltį ir šią eilutę išdėstyti taip: ^d7bc2d53c4965a9763413dc9
+1. Pakeisti Įstatymo 3 priedo I skyriaus 2 eilutės 2 skiltį ir šią eilutę išdėstyti taip: ^s-e06632c40132d1b1844b3777
 
 
 
@@ -75,7 +80,7 @@ Vilnius
 
 
 
-2. Pakeisti Įstatymo 3 priedo I skyriaus 4 eilutės 2 skiltį ir šią eilutę išdėstyti taip: ^7e3e41c8ca0d318afcd0669c
+2. Pakeisti Įstatymo 3 priedo I skyriaus 4 eilutės 2 skiltį ir šią eilutę išdėstyti taip: ^s-3bd1ab750a683fa3e955325b
 
 
 
@@ -94,7 +99,7 @@ Vilnius
 
 
 
-3. Pakeisti Įstatymo 3 priedo I skyriaus 5 eilutės 2 skiltį ir šią eilutę išdėstyti taip: ^d36b87b0e2cb4998772c6b4b
+3. Pakeisti Įstatymo 3 priedo I skyriaus 5 eilutės 2 skiltį ir šią eilutę išdėstyti taip: ^s-d3097c1780848c6cad78cce1
 
 
 
@@ -113,7 +118,7 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-f72b2ca3d6b7486dac8c465a
 
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B9FB8F126DEF"
 pavadinimas: "Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12 ir 20 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12 ir 20 straipsnių pakeitimo įstatymas"
+  - "išmokų vaikams įstatymo 6, 8, 12 ir 20 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-05-01"
 latest_path: "latest/TAR.B9FB8F126DEF.md"
 latest_sha256: "fde52e8778fa35b4f7d10d03f70c150f5c9a6143d68bb9f0dadc3f63c2e422f8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B9FB8F126DEF]]"
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12 ir 20 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B9FB8F126DEF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B9FB8F126DEF
+- Ryšiai: [[Ryšiai/TAR.B9FB8F126DEF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-13a86f7de8905b2afbf1ffb6
 
 
 6 straipsnio 4 dalyje po žodžių „nuosekliųjų studijų programą“ įrašyti žodžius „ar nuolatinės studijų formos programą“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-2096c5331e1905258f2f454c
 
 
 8 straipsnio 2 dalyje po žodžių „nuosekliųjų studijų programą“ įrašyti žodžius „ar nuolatinės studijų formos programą“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 12 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 12 straipsnio 3 dalies pakeitimas ^s-aec1976b0d3c4cc60309b82b
 
 
 12 straipsnio 3 dalyje po žodžio „arba“ įrašyti skaičius ir žodžius „po 2007 m. sausio 1 d. imtinai buvo“ ir šią dalį išdėstyti taip:
@@ -63,23 +68,23 @@ Vilnius
 
 
 
-### 4 straipsnis. 20 straipsnio 1 ir 2 dalių pakeitimas
+### 4 straipsnis. 20 straipsnio 1 ir 2 dalių pakeitimas ^s-0a370ef7720810e35d4b84e3
 
 
-1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip: ^af997d1716d0523d8c488ca8
+1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip: ^s-a9b9a50a5915ac72198fd21e
 
 
 „1. Vaikui, kuriam globa (rūpyba) buvo nustatyta iki 2006 m. gruodžio 31 d. imtinai, globos (rūpybos) išmoką moka savivaldybės, kurios teritorijoje globėjas (rūpintojas) yra įregistruotas arba deklaruoja gyvenamąją vietą, administracija.“
 
 
-2. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^c13ce117a3acf2c0df5e87c1
+2. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^s-4e9624419a9980c10f3ed44a
 
 
 „2 Vaiko, kuriam globa (rūpyba) buvo nustatyta iki 2006 m. gruodžio 31 d. imtinai apskrities viršininko įsteigtoje vaikų socialinės globos įstaigoje arba kuriam ši įstaiga iki 2006 m. gruodžio 31 d. imtinai buvo paskirta globėju (rūpintoju), globa (rūpyba) socialinės globos įstaigoje finansuojama valstybės biudžeto lėšomis kitų teisės aktų nustatyta tvarka ir globos (rūpybos) išmoka, nustatyta šio įstatymo 8 straipsnio 1 dalyje, nemokama.“
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-9ce536523d08102fe6795dc0
 
 
 Šis įstatymas įsigalioja 2010 m. gegužės 1 d.

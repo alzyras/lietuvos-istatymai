@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9DDDE14B8610"
 pavadinimas: "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-30"
 latest_path: "latest/TAR.9DDDE14B8610.md"
 latest_sha256: "3f36ab87cc5f64d2836d192aa023551f431f735b613443805d4a174e48d91538"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9DDDE14B8610]]"
 ---
 # Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9DDDE14B8610.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9DDDE14B8610
+- Ryšiai: [[Ryšiai/TAR.9DDDE14B8610|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

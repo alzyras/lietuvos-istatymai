@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D7C07B19B514"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas"
+  - "notariato įstatymo 14 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-19"
 latest_path: "latest/TAR.D7C07B19B514.md"
 latest_sha256: "5c9bccedebac38cfbe68997323748ea1f4d4fe0d76e02911b378f21c9283ff8b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D7C07B19B514]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D7C07B19B514.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D7C07B19B514
+- Ryšiai: [[Ryšiai/TAR.D7C07B19B514|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,16 +36,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio papildymas
+### 1 straipsnis. 14 straipsnio papildymas ^s-e28a43403992beb8bd693a8d
 
 
-1. Papildyti 14 straipsnį nauja ketvirtąja dalimi: ^0d223df4e5affb78caacdb3d
+1. Papildyti 14 straipsnį nauja ketvirtąja dalimi: ^s-6ce6609488c2937d6b762f0a
 
 
 „Seimo sudarytų komisijų reikalavimu pažymos apie atliktus notarinius veiksmus ir dokumentai išduodami tik įstatymų nustatytais atvejais.“
 
 
-2. 14 straipsnio buvusias ketvirtąją, penktąją, šeštąją dalis laikyti penktąja, šeštąja, septintąja dalimis. ^4f212d2c036e71c85d90d0ff
+2. 14 straipsnio buvusias ketvirtąją, penktąją, šeštąją dalis laikyti penktąja, šeštąja, septintąja dalimis. ^s-fc2db639fc00ea1ab7684cf5
 
 
 

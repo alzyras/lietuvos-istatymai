@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.44C1CC3F7367"
 pavadinimas: "Lietuvos Respublikos įstatymo dėl 1951 m. Konvencijos dėl pabėgėlių statuso bei 1967 m. Protokolo dėl pabėgėlių statuso ratifikavimo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo dėl 1951 m. Konvencijos dėl pabėgėlių statuso bei 1967 m. Protokolo dėl pabėgėlių statuso ratifikavimo papildymo įstatymas"
+  - "įstatymo dėl 1951 m. Konvencijos dėl pabėgėlių statuso bei 1967 m. Protokolo dėl pabėgėlių statuso ratifikavimo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-05-09"
 latest_path: "latest/TAR.44C1CC3F7367.md"
 latest_sha256: "f8960f62c4beb19695b5e15abc892c3d63cf609f170b6272ef3fe3b912dd0132"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.44C1CC3F7367]]"
 ---
 # Lietuvos Respublikos įstatymo dėl 1951 m. Konvencijos dėl pabėgėlių statuso bei 1967 m. Protokolo dėl pabėgėlių statuso ratifikavimo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.44C1CC3F7367.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.44C1CC3F7367
+- Ryšiai: [[Ryšiai/TAR.44C1CC3F7367|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas
+### 1 straipsnis. 1 straipsnio papildymas ^s-8f45fa600eb8f2e0f410e9e0
 
 
 Papildyti 1 straipsnį 2 dalimi:

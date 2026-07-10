@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E74A5B6DD14C"
 pavadinimas: "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 27 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 27 straipsnio pakeitimo įstatymas"
+  - "kilnojamųjų kultūros vertybių apsaugos įstatymo 27 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-04"
 latest_path: "latest/TAR.E74A5B6DD14C.md"
 latest_sha256: "62bf3f66ca280068e1c87b0b64d8da947d59e8c3e27dbeb1d28cf593b3555569"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E74A5B6DD14C]]"
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 27 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E74A5B6DD14C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E74A5B6DD14C
+- Ryšiai: [[Ryšiai/TAR.E74A5B6DD14C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,28 +36,28 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 27 straipsnio 2 dalies pakeitimas ^s-4a107d8bf6656165ea248e5f
 
 
-Pakeisti 27 straipsnio 2 dalies 2 punktą, iš [[#^913ef887d73d2974d6dbeef6|4 punkto]] išbraukti žodį „labdara“ ir šią dalį išdėstyti taip:
+Pakeisti 27 straipsnio 2 dalies 2 punktą, iš [[#^s-a335bab854272cb6357c365b|4 punkto]] išbraukti žodį „labdara“ ir šią dalį išdėstyti taip:
 
 
 „2. Fondo lėšas sudaro:
 
 
-1) baudos už kilnojamųjų kultūros vertybių apsaugos, prekybos antikvariniais daiktais, kilnojamųjų kultūros vertybių konservavimo ir restauravimo taisyklių pažeidimus; ^9360ebddbf172036eb63f5d0
+1) baudos už kilnojamųjų kultūros vertybių apsaugos, prekybos antikvariniais daiktais, kilnojamųjų kultūros vertybių konservavimo ir restauravimo taisyklių pažeidimus; ^s-4dcaee69b07651b6c1270956
 
 
-2) valstybės biudžeto tiksliniai asignavimai; ^b14e4eaf59a32017bf5b5ff5
+2) valstybės biudžeto tiksliniai asignavimai; ^s-530600fdde50eb58a1394e4b
 
 
-3) lėšos, gautos realizavus konfiskuotas kilnojamąsias kultūros vertybes ir antikvarinius daiktus; ^a748c99e29c4aad6a13b791b
+3) lėšos, gautos realizavus konfiskuotas kilnojamąsias kultūros vertybes ir antikvarinius daiktus; ^s-c5b544e1183c913be92118ec
 
 
-4) valstybės, savivaldybių, fizinių ir juridinių asmenų parama; ^913ef887d73d2974d6dbeef6
+4) valstybės, savivaldybių, fizinių ir juridinių asmenų parama; ^s-a335bab854272cb6357c365b
 
 
-5) kitos teisėtai įgytos lėšos.“ ^d4a13c16a31e8957eacf980a
+5) kitos teisėtai įgytos lėšos.“ ^s-0fe155a19e69f03975013b6c
 
 
 

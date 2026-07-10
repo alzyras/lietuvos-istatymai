@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3ED3BE1556E6"
 pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 6 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 6 straipsnių papildymo įstatymas"
+  - "valstybės ir tarnybos paslapčių įstatymo 5 ir 6 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-31"
 latest_path: "latest/TAR.3ED3BE1556E6.md"
 latest_sha256: "6ffa0ff7455c727e6d4e8a1e893995df8f218a20f00e5608a3243b08c6be8595"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3ED3BE1556E6]]"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 6 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3ED3BE1556E6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3ED3BE1556E6
+- Ryšiai: [[Ryšiai/TAR.3ED3BE1556E6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies papildymas
+### 1 straipsnis. 5 straipsnio 1 dalies papildymas ^s-1530e568ded06f0fbe11b610
 
 
-Papildyti 5 straipsnio 1 dalį 25 ir [[#^809349f6f009f46e9244f832|26 punktais]]:
+Papildyti 5 straipsnio 1 dalį 25 ir [[#^s-085a4a919d8cfc349b388628|26 punktais]]:
 
 
 „25) žvalgybos informacija, taip pat informacija apie žvalgybos veiklą, jos priemonių ir metodų naudojimą, žvalgybos veiklos užduotis ir rezultatus, žvalgybos tarnautojus bei žvalgybos bendradarbius, žvalgybos tarnybų finansavimą ir materialinį bei techninį aprūpinimą;
 
 
-26) duomenys apie specialias socialines garantijas žvalgybos tarnautojams ir žvalgybos bendradarbiams.“ ^809349f6f009f46e9244f832
+26) duomenys apie specialias socialines garantijas žvalgybos tarnautojams ir žvalgybos bendradarbiams.“ ^s-085a4a919d8cfc349b388628
 
 
 
-### 2 straipsnis. 6 straipsnio 5 dalies papildymas
+### 2 straipsnis. 6 straipsnio 5 dalies papildymas ^s-c0fcb7d2a64df67e02db301d
 
 
 Papildyti 6 straipsnio 5 dalies trečiąjį sakinį žodžiais „bei įslaptintus žvalgybos tarnautojus ir žvalgybos bendradarbius“ ir šią dalį išdėstyti taip:

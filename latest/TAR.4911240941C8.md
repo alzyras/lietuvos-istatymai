@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4911240941C8"
 pavadinimas: "Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas"
+  - "valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-30"
 latest_path: "latest/TAR.4911240941C8.md"
 latest_sha256: "52231ab3b4b8fb08dc0ac42cb51c534831d37bc5228b1c6fcaea9c9aa944d21f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4911240941C8]]"
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4911240941C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4911240941C8
+- Ryšiai: [[Ryšiai/TAR.4911240941C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo preambulės pakeitimas
+### 1 straipsnis. Įstatymo preambulės pakeitimas ^s-4202e029c7ec9090213ac501
 
 
 Įstatymo preambulės pirmajame sakinyje vietoj žodžio „atominė“ įrašyti žodį „atominės“, išbraukti žodžius „elektrinė buvo statyta didelės dalies Rytų Europos šalių energetikos problemoms spręsti, todėl šios“ ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A0375035DDAF"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-04-27"
 latest_path: "latest/TAR.A0375035DDAF.md"
 latest_sha256: "e98f77df27d3fa6c6e926f97d378492572f6316aad543a30c6a35eec26b581eb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A0375035DDAF]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A0375035DDAF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A0375035DDAF
+- Ryšiai: [[Ryšiai/TAR.A0375035DDAF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-f4404d965fe2e75f0fc848cb
 
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e85c1ece263fc1c9127a6444
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

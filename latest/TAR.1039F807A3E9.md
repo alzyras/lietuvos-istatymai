@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1039F807A3E9"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.1039F807A3E9.md"
 latest_sha256: "75034c502d79b433639de2c182ed9577ae11e4b17837d53fdba39553381f68f5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1039F807A3E9]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1039F807A3E9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1039F807A3E9
+- Ryšiai: [[Ryšiai/TAR.1039F807A3E9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 4 dalies pakeitimas ^s-647671166d686dd3473c4730
 
 
 5 straipsnio 4 dalyje po žodžių „priskiriamos ligos, motinystės“ įrašyti žodį „tėvystės“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3cc0a6b53e262cf9344d6fd9
 
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.

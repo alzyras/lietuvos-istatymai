@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.19D76435B8FF"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10, 11, 17, 19 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10, 11, 17, 19 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 10, 11, 17, 19 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-03-27"
 latest_path: "latest/TAR.19D76435B8FF.md"
 latest_sha256: "90eb34b0ecfbfb1d7c6fe5da177d52f16c38d7a7d61837466669c7dce1033353"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.19D76435B8FF]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10, 11, 17, 19 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.19D76435B8FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.19D76435B8FF
+- Ryšiai: [[Ryšiai/TAR.19D76435B8FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,29 +37,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 2, 12 ir 13 dalių pakeitimas ir papildymas
+### 1 straipsnis. 10 straipsnio 2, 12 ir 13 dalių pakeitimas ir papildymas ^s-700b920d49b39a98f8a5ce8a
 
 
-1. Pakeisti ir papildyti 10 straipsnio 2 dalį ir ją dalį išdėstyti taip: ^317627b2f3919f7a425b8857
+1. Pakeisti ir papildyti 10 straipsnio 2 dalį ir ją dalį išdėstyti taip: ^s-a575765dcbc09df0175edc8d
 
 
 „2. Privatizavimo objektų sąrašą Turto fondo teikimu tvirtina Vyriausybė. Į šį sąrašą gali būti įtrauktos visų valstybei ir savivaldybei nuosavybės teise priklausančių įmonių akcijos, išskyrus tas akcinių ir uždarųjų akcinių bendrovių akcijas, kurių privatizavimą riboja įstatymai. Į privatizavimo objektų sąrašą savivaldybių teikimu Turto fondas įtraukia ir savivaldybėms nuosavybės teise priklausančius privatizavimo objektus, kuriuos savivaldybės nusprendžia privatizuoti. Į privatizavimo objektų sąrašą pagal šį įstatymą negali būti įtrauktas Lietuvos Respublikai išimtine nuosavybės teise priklausantis turtas, savivaldybių gyvenamosios patalpos (išskyrus avarinius gyvenamuosius namus, iš kurių iškeldinti gyventojai ir jiems neterminuotai išnuomotos kitos gyvenamosios patalpos, ir jei tie avariniai namai išbraukti iš gyvenamųjų patalpų apskaitos dokumentų) ir turtas, į kurį Lietuvos Respublikos įstatymų nustatyta tvarka pretenduoja atkurti nuosavybės teisę fiziniai asmenys ir religinės bendruomenės.“
 
 
-2. Pakeisti 10 straipsnio 12 dalį ir ją išdėstyti taip: ^5f8feaaa1439ea547592e9c5
+2. Pakeisti 10 straipsnio 12 dalį ir ją išdėstyti taip: ^s-2c2ae646e485068d0ae63cab
 
 
-„12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti.“
+„12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis [[latest/TAR.542D2FA3CA61|Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu]], taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti.“
 
 
-3. Pakeisti 10 straipsnio 13 dalį ir ją išdėstyti taip: ^3904010d6dc2cac43ac09196
+3. Pakeisti 10 straipsnio 13 dalį ir ją išdėstyti taip: ^s-9c52809a9e0cf46eb3ab087d
 
 
 „13. Nuomos metu dėl privatizavimo objekto (statinio) pagerinimo padarytas išlaidas pagal Lietuvos Respublikos civilinį kodeksą nuomininkui Lietuvos Respublikos Vyriausybės nustatyta tvarka atlygina potencialus pirkėjas, įsigyjantis privatizavimo objektą. Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka vertinant tokį privatizavimo objektą turi būti nustatytas vertės padidėjimas procentais dėl šiam objektui (statiniui) pagerinti padarytų išlaidų. Gaunamos iš privatizavimo sandorio lėšos, atitinkamai jas sumažinus dėl privatizavimo objekto vertės padidėjimo, bet ne daugiau už šiam objektui pagerinti padarytas išlaidas, pervedamos į Finansų ministerijai atidarytą privatizavimo fondo sąskaitą (jei privatizavimo objektas nuosavybės teise priklauso savivaldybei, – į savivaldybės specialiąją sąskaitą). Likusi privatizavimo lėšų dalis pervedama nuomininkui, išskyrus tą dalį, kuri buvo įskaityta į nuomos mokestį. Ši į nuomos mokestį įskaityta lėšų dalis pervedama į privatizavimo objekto valdytojo sąskaitą.“
 
 
 
-### 2 straipsnis. 11 straipsnio 3 dalies papildymas
+### 2 straipsnis. 11 straipsnio 3 dalies papildymas ^s-a681d6a1efee28befc32463d
 
 
 Papildyti 11 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -64,29 +69,29 @@ Papildyti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 17 straipsnio 5 dalies pakeitimas ir straipsnio papildymas 6 ir 7 dalimis
+### 3 straipsnis. 17 straipsnio 5 dalies pakeitimas ir straipsnio papildymas 6 ir 7 dalimis ^s-48e949f2f3b7056118b908d0
 
 
-1. Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip: ^02c8b39542dbbacfc82b4de7
+1. Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip: ^s-e3ce950f08f2822e6dd69892
 
 
 „5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, į kuriuos, gavus nuomotojo leidimą, buvo investuota privataus kapitalo, kurio vertė didesnė negu 1/2 išsinuomotų pastatų ar patalpų rinkos vertės, jeigu šie pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrengimai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrengimams, pastatui arba patalpoms. Privatizuojant tokį turtą, Vyriausybės nustatyta tvarka tiesioginės derybos gali būti vykdomos su vienu pirkėju, investavusiu privatų kapitalą šioje dalyje nustatytomis sąlygomis.“
 
 
-2. Papildyti 17 straipsnį 6 dalimi: ^6e6789f581bb883be6246817
+2. Papildyti 17 straipsnį 6 dalimi: ^s-bb4236ff7e8bbae3b228841b
 
 
 „6. Tiesioginės derybos su vienu ar daugiau potencialių pirkėjų gali būti vykdomos ir privatizuojant uždarosios akcinės bendrovės akcijas, kurias valstybė ar savivaldybė įsigijo už šiai uždarajai akcinei bendrovei perduotus negyvenamuosius pastatus ar patalpas, jei potencialūs pirkėjai yra šios uždarosios akcinės bendrovės akcininkai.“
 
 
-3. Papildyti 17 straipsnį 7 dalimi: ^16d8965ec072c6aa75400118
+3. Papildyti 17 straipsnį 7 dalimi: ^s-4ed393f62dd157b70af6c1ba
 
 
 „7. Privatizavimo objekto valdytojas per 45 kalendorines dienas nuo potencialaus pirkėjo iniciatyvinio pasiūlymo ir dokumentų, patvirtinančių, kad tenkinamos šio straipsnio 5 ar 6 dalyse nustatytos sąlygos, gavimo dienos privalo priimti sprendimą vykdyti tiesiogines derybas dėl šio straipsnio 5 ar 6 dalyse nurodyto turto privatizavimo arba motyvuotai atsakyti, kodėl pagal pateiktus dokumentus šis turtas negali būti privatizuojamas tiesioginių derybų būdu.“
 
 
 
-### 4 straipsnis. 19 straipsnio 2 dalies 2 punkto pakeitimas
+### 4 straipsnis. 19 straipsnio 2 dalies 2 punkto pakeitimas ^s-bbdfbd0f54641e56c87cc175
 
 
 Pakeisti 19 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C551D2A319B7"
 pavadinimas: "Lietuvos Respublikos administracinės naštos mažinimo įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinės naštos mažinimo įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "administracinės naštos mažinimo įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-30"
 latest_path: "latest/TAR.C551D2A319B7.md"
 latest_sha256: "74c7d3837ef72ccc3e518fce3604f22b7e8dd3764131d61ef17b719ee769b8ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C551D2A319B7]]"
 ---
 # Lietuvos Respublikos administracinės naštos mažinimo įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C551D2A319B7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C551D2A319B7
+- Ryšiai: [[Ryšiai/TAR.C551D2A319B7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-e767a3a954c9565a440e5be8
 
 
 8 straipsnio 2 dalyje vietoj žodžių „Ministro Pirmininko tarnyba“ įrašyti žodžius „Vyriausybės kanceliarija“ ir šią dalį išdėstyti taip:

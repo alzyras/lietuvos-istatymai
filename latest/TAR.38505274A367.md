@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.38505274A367"
 pavadinimas: "Lietuvos Respublikos įstatymo dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22-1991 12 31) 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22-1991 12 31) 8 straipsnio pakeitimo įstatymas"
+  - "įstatymo dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22-1991 12 31) 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.38505274A367.md"
 latest_sha256: "43f5ce7416b554ea8ef0b3913fe7a1e08e38a4b3bcce892a75f090d8fdbd09e3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.38505274A367]]"
 ---
 # Lietuvos Respublikos įstatymo dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22-1991 12 31) 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.38505274A367.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.38505274A367
+- Ryšiai: [[Ryšiai/TAR.38505274A367|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-b16f3173c6484c47e33416e5
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-0f4c743125fbc340157b3d59
 
 
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.

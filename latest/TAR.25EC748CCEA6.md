@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25EC748CCEA6"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas"
+  - "Konstitucijos 125 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-26"
 latest_path: "latest/TAR.25EC748CCEA6.md"
 latest_sha256: "e1c4685b72ab82f917a3d9ee7a33278cb70fc96286e991151433c627e8542aef"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25EC748CCEA6]]"
 ---
 # Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25EC748CCEA6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25EC748CCEA6
+- Ryšiai: [[Ryšiai/TAR.25EC748CCEA6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -41,13 +46,13 @@ Vilnius
 
 
 
-### 1 straipsnis. Konstitucijos 125 straipsnio pakeitimas
+### 1 straipsnis. Konstitucijos 125 straipsnio pakeitimas ^s-5bf5166a149526bdc1f28fee
 
 
-1. Konstitucijos 125 straipsnio 2 dalį pripažinti netekusia galios. ^5866150dd2c897f8268641d5
+1. Konstitucijos 125 straipsnio 2 dalį pripažinti netekusia galios. ^s-6e1a28b7fe33d5317c8eeda5
 
 
-2. Konstitucijos 125 straipsnio 3 dalį laikyti [[#^fbedac06ef86445f13f59582|2 dalimi]], šioje dalyje po žodžio „įgaliojimus“ įrašyti žodžius „ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus“ ir [[#^fbedac06ef86445f13f59582|2 dalį]] išdėstyti taip: ^fbedac06ef86445f13f59582
+2. Konstitucijos 125 straipsnio 3 dalį laikyti [[#^s-0586d2c9d58d235813d672d8|2 dalimi]], šioje dalyje po žodžio „įgaliojimus“ įrašyti žodžius „ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus“ ir [[#^s-0586d2c9d58d235813d672d8|2 dalį]] išdėstyti taip: ^s-0586d2c9d58d235813d672d8
 
 
 „Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.“

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1A90879E4358"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" 6 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-17"
 latest_path: "latest/TAR.1A90879E4358.md"
 latest_sha256: "3214289e38c291e1ef20df5da74427131572d011720d785c189c46bc0cd5651c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1A90879E4358]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1A90879E4358.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1A90879E4358
+- Ryšiai: [[Ryšiai/TAR.1A90879E4358|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio antrosios dalies pakeitimas
+### 1 straipsnis. 6 straipsnio antrosios dalies pakeitimas ^s-d33f1f0689bb7510429bd8b3
 
 
 Pakeisti 6 straipsnio antrąją dalį ir ją išdėstyti taip:

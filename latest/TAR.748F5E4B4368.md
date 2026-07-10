@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.748F5E4B4368"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 7 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 7 straipsnio papildymo įstatymas"
+  - "miškų įstatymo 7 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-11-15"
 latest_path: "latest/TAR.748F5E4B4368.md"
 latest_sha256: "00feb8319663079c339efb18cd85518b40017e366be1fd208bda6246861ef420"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.748F5E4B4368]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 7 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.748F5E4B4368.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.748F5E4B4368
+- Ryšiai: [[Ryšiai/TAR.748F5E4B4368|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio papildymas
+### 1 straipsnis. 7 straipsnio papildymas ^s-780f3b58130aa0cded5a1334
 
 
 Papildyti 7 straipsnio pirmąją dalį šiuo sakiniu: „Valstybinių miškų ūkinio valdymo funkcijas atlieka, miškų atkūrimą, priežiūrą, apsaugą bei miško išteklių naudojimą organizuoja Generalinė miškų urėdija prie Miškų ūkio ministerijos, kurios nuostatus tvirtina Lietuvos Respublikos Vyriausybė.“ ir šią dalį išdėstyti taip:

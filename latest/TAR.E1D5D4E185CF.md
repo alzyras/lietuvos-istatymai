@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E1D5D4E185CF"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-20"
 latest_path: "latest/TAR.E1D5D4E185CF.md"
 latest_sha256: "5ed28d8a1a9d20f65962e13a07e9782cd274d185bbe3fdf45f6afb5f2697df55"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E1D5D4E185CF]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E1D5D4E185CF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E1D5D4E185CF
+- Ryšiai: [[Ryšiai/TAR.E1D5D4E185CF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies pripažinimas netekusia galios
+### 1 straipsnis. 7 straipsnio 2 dalies pripažinimas netekusia galios ^s-bf7a22fecb73c9426c5a2db0
 
 
 7 straipsnio 2 dalį pripažinti netekusia galios.

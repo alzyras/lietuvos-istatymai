@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3B3B9C86CB9F"
 pavadinimas: "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-01"
 latest_path: "latest/TAR.3B3B9C86CB9F.md"
 latest_sha256: "c2447e52c72b06a6b24c03e5f677b9c54dda41b61bac31804bfd5baa7a6d4abc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3B3B9C86CB9F]]"
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3B3B9C86CB9F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3B3B9C86CB9F
+- Ryšiai: [[Ryšiai/TAR.3B3B9C86CB9F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas ^s-848e225d889d76f6d885dc2d
 
 
 Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-915b1c6be3c92b36c9c96d37
 
 
 Įstatymas įsigalioja nuo 2004 m. liepos 1 d.

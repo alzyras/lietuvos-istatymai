@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.84793CE78FD4"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 10 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo 10 straipsnio papildymo įstatymas"
+  - "viešųjų pirkimų įstatymo 10 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-11-18"
 latest_path: "latest/TAR.84793CE78FD4.md"
 latest_sha256: "1eda7c5f0344d5a23eeb69b9533d362757d73b86d88707a040f3fbaea6c7e42f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.84793CE78FD4]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 10 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.84793CE78FD4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.84793CE78FD4
+- Ryšiai: [[Ryšiai/TAR.84793CE78FD4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Nr. 93-3986; 2010, Nr. 25-1174; 2011, Nr. 2-36, Nr. 85-4137, Nr. 123-5813)
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies papildymas 9 punktu
+### 1 straipsnis. 10 straipsnio 1 dalies papildymas 9 punktu ^s-0c8c0131f460809e72df064d
 
 
 Papildyti 10 straipsnio 1 dalį 9 punktu:

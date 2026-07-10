@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2E6C3B043493"
 pavadinimas: "Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-06-09"
 latest_path: "latest/TAR.2E6C3B043493.md"
 latest_sha256: "d8ff6ba0b7c71bcad8f8e19c3bcb21fbf3823c4f3cda669693aca3470f0c39c8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2E6C3B043493]]"
 ---
 # Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2E6C3B043493.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2E6C3B043493
+- Ryšiai: [[Ryšiai/TAR.2E6C3B043493|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -1,0 +1,124 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.951DF53F837F"
+pavadinimas: "Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas"
+---
+# Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas: ryšiai
+
+- [[latest/TAR.951DF53F837F|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 10 citatos - Branduolinės energijos įstatyme
+- [[latest/TAR.7083DB116A2E|Lietuvos Respublikos radiacinės saugos įstatymas]] - 5 citatos - Radiacinės saugos įstatymo
+- [[latest/TAR.29FB2C8807FE|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas]] - 2 citatos - Valstybės ir savivaldybės įmonių įstatymu
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.E2780B68DE62#^s-086563f914bd5007c5fcfb5f|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.650FC8F9D00C#^s-df1fe217f8e4b7c46bf45419|Lietuvos Respublikos aplinkos apsaugos įstatymo 6 ir 21 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.6286F15970B3#^s-0cc163a93ab7b31d3814b56e|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6286F15970B3#^s-0f4d33eb8cf5c8a10410a573|Lietuvos Respublikos branduolinės energijos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.6286F15970B3#^s-14f09301261999fe327e2895|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6286F15970B3#^s-1abd92f998832eba18b73ee2|Lietuvos Respublikos branduolinės energijos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6286F15970B3#^s-1dcaa3bb4a76d8a0f559ce7a|Lietuvos Respublikos branduolinės energijos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.6286F15970B3#^s-2322f5c5e09bbfc4874ce965|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.6286F15970B3#^s-2a0c78e4c2047eb45c90e070|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6286F15970B3#^s-545454ec64a3a24530d45b06|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6286F15970B3#^s-5ba891221c59a92d75be5e88|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6286F15970B3#^s-7a45a5d7f84e9face299c831|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6286F15970B3#^s-9c1987b016f211604e0d037c|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.6286F15970B3#^s-a5f41fe2896d960f7edd475c|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6286F15970B3#^s-a71d1a147fd69755ed541ad1|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6286F15970B3#^s-e1759e9b2db21ddf8d5910a8|Lietuvos Respublikos branduolinės energijos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6286F15970B3#^s-f29e497d787d707a89bc9109|Lietuvos Respublikos branduolinės energijos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/fa73ba2022fd11eabe008ea93139d588#^s-8ef21150d8d32c46529863ee|Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/f5306d5254ed11f180c9c618618421ed#^s-64a0823bee7c753d6d00634c|Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 7, 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 24, 33, 34, 36, 50, 50-1 straipsnių, priedo pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/f5306d5254ed11f180c9c618618421ed#^s-67f88ecaab44cf8b8bc0ca1c|Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 7, 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 24, 33, 34, 36, 50, 50-1 straipsnių, priedo pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/bb2702f0acdf11e78a4c904b1afa0332#^s-f6f5495bafd028353e70b82c|Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 7, 15, 17, 21, 23, 24, 30, 39 straipsnių ir priedo pakeitimo ir 45 straipsnio pripažinimo netekusiu galios įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6DED3E902AB3#^s-085e1159b727b9b1ade89e15|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-0d20ee9304965252de8f4b35|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-2bcc4b8ca150e0aaea9da576|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6DED3E902AB3#^s-38a520bbc14e32580802bae0|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - 2 citatos - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.6DED3E902AB3#^s-60934248cecabc0a31d2d31f|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-7582ab5831f2c01dfd9e679b|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.6DED3E902AB3#^s-7717390c251851e0231b0309|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-782d4a1b7b5f405913390321|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6DED3E902AB3#^s-7e1fe9b85b71138d4b964a48|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-89c954d1c3cfc111469f9ba8|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.6DED3E902AB3#^s-91e80a573723ff729d252848|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6DED3E902AB3#^s-94418e4dcfb5554ff6d85724|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-9e88bbab956efc1fbed4a8bd|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.6DED3E902AB3#^s-a8adf9a36acfbe6a185bbdd3|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.6DED3E902AB3#^s-c0533b3f6f74d20663a61473|Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.424F7C72601E#^s-04d5cafeb8a194011e018ec7|Lietuvos Respublikos branduolinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.424F7C72601E#^s-0d0408fab75e7386ea1028c3|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-0f18bef2e2f7bfd9262e8fc4|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-28ceebb1bfd7a2c076406fc1|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.424F7C72601E#^s-486733d12c97b8b9b43b1593|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo 21 straipsnio 1 dalimi
+- [[latest/TAR.424F7C72601E#^s-5409310e5f856d4d7b8c1cce|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo 21 straipsnio 1 dalimi
+- [[latest/TAR.424F7C72601E#^s-57197f26ca66e3311a0d023c|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-738f29495f9542cd8b91894c|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.424F7C72601E#^s-8f5ca507726b65c61de0f848|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.424F7C72601E#^s-940711626ecb1e18f1cfc3b6|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-b1b397401bdcd053695b7ccf|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-c7fffbe510d5d3d16fa4fe84|Lietuvos Respublikos branduolinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.424F7C72601E#^s-cd05437f40c23af8d9d4b36e|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-d120d19744f5324a1349906e|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.424F7C72601E#^s-e503600d3a8a15ae6d780a88|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/TAR.424F7C72601E#^s-eb1e289ef592aeff41ca4b60|Lietuvos Respublikos branduolinės saugos įstatymas]] - 2 citatos - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.424F7C72601E#^s-fc2425d8cc3b18b5c835dc00|Lietuvos Respublikos branduolinės saugos įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/57a83860ace511e78a4c904b1afa0332#^s-8137ad3b5a7b639f5135ad2b|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/57a83860ace511e78a4c904b1afa0332#^s-90b178f9606154f2151b62a8|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/57a83860ace511e78a4c904b1afa0332#^s-a87f62711abf639b50be333f|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/57a83860ace511e78a4c904b1afa0332#^s-b11b07dc1709fb7da620d791|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/013ed3802f3b11e78397ae072f58c508#^s-3489f31ebaf81b9a138d4d18|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 4, 5, 6, 10, 12, 16, 23, 25, 26, 27, 28, 29, 31, 47, 48 straipsnių ir penktojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 22-1, 24-1, 26-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymu
+- [[latest/013ed3802f3b11e78397ae072f58c508#^s-363705eecf6455b0b20e2061|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 4, 5, 6, 10, 12, 16, 23, 25, 26, 27, 28, 29, 31, 47, 48 straipsnių ir penktojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 22-1, 24-1, 26-1 straipsniais įstatymas]] - 2 citatos - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/013ed3802f3b11e78397ae072f58c508#^s-43325078dcecccfc902c87c9|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 4, 5, 6, 10, 12, 16, 23, 25, 26, 27, 28, 29, 31, 47, 48 straipsnių ir penktojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 22-1, 24-1, 26-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/013ed3802f3b11e78397ae072f58c508#^s-543a802c9a69b5deb8e62305|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 4, 5, 6, 10, 12, 16, 23, 25, 26, 27, 28, 29, 31, 47, 48 straipsnių ir penktojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 22-1, 24-1, 26-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/013ed3802f3b11e78397ae072f58c508#^s-f10a9f96a874d7737916568d|Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 4, 5, 6, 10, 12, 16, 23, 25, 26, 27, 28, 29, 31, 47, 48 straipsnių ir penktojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 22-1, 24-1, 26-1 straipsniais įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.44235B485568#^s-a419b580e04ec9ec270b7b09|Lietuvos Respublikos energetikos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.14A55BF50A01#^s-d65b1d7d6d2f0027339765fb|Lietuvos Respublikos energetikos įstatymo 18 straipsnio pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymas
+- [[latest/TAR.C2DAB42D5532#^s-3ac40bb6acfd9f331aa3810b|Lietuvos Respublikos energetikos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.00FD7CCA5785#^s-6386504b4e5bf787ed018a30|Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.00FD7CCA5785#^s-cf79f76333ebea7b1e05e6e5|Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/6ac965d0c1b011ea9815f635b9c0dcef#^s-034efc4dd20c3e970571884a|Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymo Nr. VIII-1661 papildymo 1-1 straipsniu ir 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.57E0E8B29108#^s-43b959b1d78bb066ebe35dd0|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.57E0E8B29108#^s-7ade8e1c982e66ee711b92ad|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.1EFCC3884E8C#^s-5949be9e5140ba6217eb6061|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1 ir 8 straipsnių pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.1EFCC3884E8C#^s-71544d190b64488cf5d8dc03|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1 ir 8 straipsnių pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.352B154F9D25#^s-120ca6641a97c466e9f8735a|Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 4, 5, 6, 7, 8, 81, 82, 83, 84, 10, 11, 12, 20, 21, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir papildymo, Įstatymo papildymo 7-1, 10-1 straipsniais ir 9, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.352B154F9D25#^s-7ab1764fc2a109b93d22b869|Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 4, 5, 6, 7, 8, 81, 82, 83, 84, 10, 11, 12, 20, 21, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir papildymo, Įstatymo papildymo 7-1, 10-1 straipsniais ir 9, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.352B154F9D25#^s-bcacfbf69ddc5953263aaee7|Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 4, 5, 6, 7, 8, 81, 82, 83, 84, 10, 11, 12, 20, 21, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir papildymo, Įstatymo papildymo 7-1, 10-1 straipsniais ir 9, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.352B154F9D25#^s-d278a0511c2cd675885c667e|Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 4, 5, 6, 7, 8, 81, 82, 83, 84, 10, 11, 12, 20, 21, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir papildymo, Įstatymo papildymo 7-1, 10-1 straipsniais ir 9, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/1c2ae8902b0f11eb932eb1ed7f923910#^s-746200b6b85730926b4857ec|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 5, 6, 12, 23, 28 straipsnių ir 1, 2 priedų pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/d2a7a1e0ae3111e5b12fbb7dc920ee2c#^s-490e3d66f7b38cd80729d605|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 6, 7, 7-1, 8, 8-3, 8-4, 10, 11, 15, 21, 23 straipsnių pakeitimo, Įstatymo papildymo 8-5, 8-6, 15-1 straipsniais ir 8-1, 8-2 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/d2a7a1e0ae3111e5b12fbb7dc920ee2c#^s-c2caa7e85b99a826349147e8|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 6, 7, 7-1, 8, 8-3, 8-4, 10, 11, 15, 21, 23 straipsnių pakeitimo, Įstatymo papildymo 8-5, 8-6, 15-1 straipsniais ir 8-1, 8-2 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-03a4748858a2ef0f7d6053af|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-2d1178ad3fc916f7c0e9a994|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-9de51008e12d91f6d236f5d8|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-b4fd0d810bb59619a4e39b9f|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-ba323909b70a8329702b1153|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-c9b66145c280beee8145bbf3|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-dc18400454e8c320ed03d6a8|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-ec9126fa4164154fa5b87ead|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e233dc307eb511e8ae2bfd1913d66d57#^s-f232a16eba9ebe6e1a734993|Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.FA397A4639C2#^s-0c74c98f82aa4ca289273713|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 1 ir 2 straipsnių papildymo, 6, 12, 13, 14, 30 straipsnių pakeitimo, 27 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo priedu įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.E37D236DD385#^s-0a615e840f3d766a228eb8c8|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.E37D236DD385#^s-51ffb45fcbb635cb57d1f802|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO ĮSTATYMAS
+- [[latest/TAR.E37D236DD385#^s-5d66b0b08a49df0e6b8f3107|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/83fa9fe0003f11e88bcec397524184ce#^s-46abed9dcb5339a4076495c1|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/83fa9fe0003f11e88bcec397524184ce#^s-9b5fd1cd582acc23ff66dc9d|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.4C641E4295AA#^s-e11d550b93e9176bb9f35998|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.4C641E4295AA#^s-e3f0c7befedf70dcdfa1c612|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/e10fc0c0f55811e39cfacd978b6fd9bb#^s-24dfbef190bc16f373c10b43|Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo Nr. VIII-1661 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/e10fc0c0f55811e39cfacd978b6fd9bb#^s-6e65d57fb52358244784aebd|Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo Nr. VIII-1661 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.13E108ED3981#^s-25ca3cc05d8086dd6ce6c05c|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.13E108ED3981#^s-58ff2665592b10f7eb124177|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.13E108ED3981#^s-c7a623ad57341d49e6ace112|Lietuvos Respublikos žemės gelmių įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/TAR.13E108ED3981#^s-f89175894d50a618fc13f8ea|Lietuvos Respublikos žemės gelmių įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/e25ff5c0ccfb11ec8d9390588bf2de65#^s-6dda81a23c6e6944e3b8705e|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-238e7e561a3c70a7243dd837|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-2999ad1722937a46d877af91|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-3082d5c7eaac82555b27abef|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-e5870741b2da1db898fa99ee|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Radioaktyviųjų atliekų tvarkymo įstatymo

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3D3B78FC76FD"
 pavadinimas: "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "valstybės sienos ir jos apsaugos įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.3D3B78FC76FD.md"
 latest_sha256: "970fcd03231f5c469b168ed21499f70e20e7b083c370e7bfdb954b3ac4198c17"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3D3B78FC76FD]]"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3D3B78FC76FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3D3B78FC76FD
+- Ryšiai: [[Ryšiai/TAR.3D3B78FC76FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 5 dalies pakeitimas ^s-687f986ed2cd11059e6569f5
 
 
 Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:

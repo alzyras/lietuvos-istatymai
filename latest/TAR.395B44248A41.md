@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.395B44248A41"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo\" ir jį keitusio įstatymo pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo\" ir jį keitusio įstatymo pripažinimo netekusiais galios įstatymas"
+  - "įstatymo \"Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo\" ir jį keitusio įstatymo pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-09-21"
 latest_path: "latest/TAR.395B44248A41.md"
 latest_sha256: "f8c66a7113ce7f01ced997724a8a59862d145968f03800d28a438827da2803ba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.395B44248A41]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo" ir jį keitusio įstatymo pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.395B44248A41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.395B44248A41
+- Ryšiai: [[Ryšiai/TAR.395B44248A41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,16 +34,16 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymų pripažinimas netekusiais galios
+### 1 straipsnis. Įstatymų pripažinimas netekusiais galios ^s-e2886745a8400f99c765998d
 
 
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ (Žin., 1995, Nr. 51-1248); ^09b62a1cf222cec872180dc6
+1) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ (Žin., 1995, Nr. 51-1248); ^s-13fa892958c0a4c97de58e79
 
 
-2) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ 4 straipsnio pakeitimo įstatymą (Žin., 2000, Nr. 67-2020). ^d7f7001dfda8943511420f50
+2) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ 4 straipsnio pakeitimo įstatymą (Žin., 2000, Nr. 67-2020). ^s-cb56b1b6eb5f523fc353738c
 
 
 

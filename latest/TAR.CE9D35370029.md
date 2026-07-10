@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CE9D35370029"
 pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 25 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 25 straipsnio pakeitimo įstatymas"
+  - "valstybės garantuojamos teisinės pagalbos įstatymo 25 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-30"
 latest_path: "latest/TAR.CE9D35370029.md"
 latest_sha256: "26c6a68e63a1e005fbcea753ad5a57fa182998d965a4b5b3d6a51116734f27a1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CE9D35370029]]"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 25 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CE9D35370029.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CE9D35370029
+- Ryšiai: [[Ryšiai/TAR.CE9D35370029|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 25 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 25 straipsnio 3 dalies pakeitimas ^s-1bd85d224f20f7d2b0af7b1c
 
 
 25 straipsnio 3 dalyje po žodžių „šiame skirsnyje“ įrašyti žodžius „ir Europos Sąjungos reglamentuose“ ir šią dalį išdėstyti taip:

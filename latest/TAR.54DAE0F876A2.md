@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.54DAE0F876A2"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-11-02"
 latest_path: "latest/TAR.54DAE0F876A2.md"
 latest_sha256: "c740649f6513b16937334cb0a92c065f8310ed8115876a32324f33965e1304fc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.54DAE0F876A2]]"
 ---
 # Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.54DAE0F876A2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.54DAE0F876A2
+- Ryšiai: [[Ryšiai/TAR.54DAE0F876A2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

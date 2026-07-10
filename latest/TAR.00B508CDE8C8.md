@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.00B508CDE8C8"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 18, 20, 28, 32, 34, 37, 38, 42, 58, 59, 60, 78 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 60-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 18, 20, 28, 32, 34, 37, 38, 42, 58, 59, 60, 78 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 60-1 straipsniu įstatymas"
+  - "akcinių bendrovių įstatymo 18, 20, 28, 32, 34, 37, 38, 42, 58, 59, 60, 78 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 60-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-01"
 latest_path: "latest/TAR.00B508CDE8C8.md"
 latest_sha256: "223b4b3a6ac6346c6460f63abf4fc9ef21b82654d971b129b1615855689ece94"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.00B508CDE8C8]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 18, 20, 28, 32, 34, 37, 38, 42, 58, 59, 60, 78 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 60-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.00B508CDE8C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.00B508CDE8C8
+- Ryšiai: [[Ryšiai/TAR.00B508CDE8C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas ^s-d491591cbb8ff404c204d063
 
 
 Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 20 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 20 straipsnio 1 dalies pakeitimas ^s-7636b203f50647e5ef0be738
 
 
 Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -54,144 +59,144 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Visuotinis akcininkų susirinkimas turi išimtinę teisę:
 
 
-1) keisti bendrovės įstatus, išskyrus šiame Įstatyme nustatytas išimtis; ^f4077baaf7ff813bfd0381cf
+1) keisti bendrovės įstatus, išskyrus šiame Įstatyme nustatytas išimtis; ^s-821943d5ac2914cea945cc88
 
 
-2) keisti bendrovės buveinę; ^dd23f68cb8ceed389162fd44
+2) keisti bendrovės buveinę; ^s-7bea54a244390463ac551bc6
 
 
-3) rinkti stebėtojų tarybos narius, jeigu stebėtojų taryba nesudaroma, – valdybos narius, o jeigu nesudaroma nei stebėtojų taryba, nei valdyba, – bendrovės vadovą; ^a59808018e18dd85c297bf95
+3) rinkti stebėtojų tarybos narius, jeigu stebėtojų taryba nesudaroma, – valdybos narius, o jeigu nesudaroma nei stebėtojų taryba, nei valdyba, – bendrovės vadovą; ^s-9c1a68855121d131abae3c10
 
 
-4) atšaukti stebėtojų tarybą ar jos narius, taip pat visuotinio akcininkų susirinkimo išrinktus valdybą ar jos narius bei bendrovės vadovą; ^49535649f01ba2b10ce205c3
+4) atšaukti stebėtojų tarybą ar jos narius, taip pat visuotinio akcininkų susirinkimo išrinktus valdybą ar jos narius bei bendrovės vadovą; ^s-1f693b358f7e21cab0891f67
 
 
-5) rinkti ir atšaukti audito įmonę metinių finansinių ataskaitų auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas; ^24922e0c91b31d64276b8f7f
+5) rinkti ir atšaukti audito įmonę metinių finansinių ataskaitų auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas; ^s-cf48bbc3f04e4385c5824be8
 
 
-6) nustatyti bendrovės išleidžiamų akcijų klasę, skaičių, nominalią vertę ir minimalią emisijos kainą; ^2b6f297005766bb5fda15882
+6) nustatyti bendrovės išleidžiamų akcijų klasę, skaičių, nominalią vertę ir minimalią emisijos kainą; ^s-c61cf4f4c438ccc80b7a4a3b
 
 
-7) priimti sprendimą konvertuoti bendrovės vienos klasės akcijas į kitos, tvirtinti akcijų konvertavimo tvarkos aprašą; ^3d9b1a6e311733b001e0c3cf
+7) priimti sprendimą konvertuoti bendrovės vienos klasės akcijas į kitos, tvirtinti akcijų konvertavimo tvarkos aprašą; ^s-34470dfb9c17a56df53ce958
 
 
-8) priimti sprendimą keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas; ^2bdfa961a6c1243b3d5f8b99
+8) priimti sprendimą keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas; ^s-5898fa3e6e76e9a4c5230d83
 
 
-9) tvirtinti metinių finansinių ataskaitų rinkinį; ^b23dcf599cd3f92f59830e8a
+9) tvirtinti metinių finansinių ataskaitų rinkinį; ^s-fd1843097a0ce5a157585f3d
 
 
-10) priimti sprendimą dėl pelno (nuostolių) paskirstymo; ^22c91f5cd0956d7be175f911
+10) priimti sprendimą dėl pelno (nuostolių) paskirstymo; ^s-f24b20f0f5f370cd38d59d47
 
 
-11) priimti sprendimą dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo; ^75d2bcfef5881db8c3d78ec2
+11) priimti sprendimą dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo; ^s-c012a0f838cbb56d38a5c155
 
 
-12) tvirtinti tarpinių finansinių ataskaitų rinkinį, sudarytą siekiant priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo; ^0f42694a2ad7d18fa45c4136
+12) tvirtinti tarpinių finansinių ataskaitų rinkinį, sudarytą siekiant priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo; ^s-ed8f824d7f5d430ddb1e629c
 
 
-13) priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo; ^c9bf1720f54325a1f0b341c5
+13) priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo; ^s-a47b7a82ac27400e00dbdd50
 
 
-14) priimti sprendimą išleisti konvertuojamąsias obligacijas; ^12e454059867f31e56d89162
+14) priimti sprendimą išleisti konvertuojamąsias obligacijas; ^s-27d650728552387023fb8e22
 
 
-15) priimti sprendimą atšaukti visiems akcininkams pirmumo teisę įsigyti konkrečios emisijos bendrovės akcijų ar konvertuojamųjų obligacijų; ^1c1a41545f2764117fabce9c
+15) priimti sprendimą atšaukti visiems akcininkams pirmumo teisę įsigyti konkrečios emisijos bendrovės akcijų ar konvertuojamųjų obligacijų; ^s-454300f1975012118a033e58
 
 
-16) priimti sprendimą padidinti įstatinį kapitalą; ^8445442782ab02aaafabdbd2
+16) priimti sprendimą padidinti įstatinį kapitalą; ^s-722ab34284446ca4d775eb75
 
 
-17) priimti sprendimą sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis; ^c8915044c37837628e1b95aa
+17) priimti sprendimą sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis; ^s-d6eba648c1b0aa723545845c
 
 
-18) priimti sprendimą bendrovei įsigyti savų akcijų; ^fe96470177c474dd718111d2
+18) priimti sprendimą bendrovei įsigyti savų akcijų; ^s-cf4e2bc6fc1b2049333463b9
 
 
-19) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis; ^f88f397318d3fc5ac8e7e97a
+19) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis; ^s-144a7065a09422bad11209d5
 
 
-20) priimti sprendimą pertvarkyti bendrovę; ^a39a864fccf79af4a1e7e544
+20) priimti sprendimą pertvarkyti bendrovę; ^s-4e600931ea27e980f1086fea
 
 
-21) priimti sprendimą restruktūrizuoti bendrovę; ^f740b6acc43294b90a42aae3
+21) priimti sprendimą restruktūrizuoti bendrovę; ^s-6a95e197c2dadac3e8f7b352
 
 
-22) priimti sprendimą likviduoti bendrovę, atšaukti bendrovės likvidavimą, išskyrus šiame Įstatyme nustatytas išimtis; ^f57aaaf302b9cca732318ba8
+22) priimti sprendimą likviduoti bendrovę, atšaukti bendrovės likvidavimą, išskyrus šiame Įstatyme nustatytas išimtis; ^s-3ffb810f281ece8543e7aa8e
 
 
-23) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.“ ^7b0b9a264d1cfb599dd0fdfe
+23) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.“ ^s-8fb4f49ce5391cea46d288ae
 
 
 
-### 3 straipsnis. 28 straipsnio 1 dalies papildymas ir pakeitimas
+### 3 straipsnis. 28 straipsnio 1 dalies papildymas ir pakeitimas ^s-f22933f66788d756827ea683
 
 
-1. Papildyti 28 straipsnio 1 dalį nauju 7 punktu: ^af39d8f78885ea43e7a91270
+1. Papildyti 28 straipsnio 1 dalį nauju 7 punktu: ^s-79611794575ba9e9d5fca30f
 
 
 „7) dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;“.
 
 
-2. Buvusius 28 straipsnio 1 dalies 7, 8, 9, 10, 11, 12 ir 13 punktus laikyti atitinkamai 8, 9, 10, 11, 12, 13 ir 14 punktais. ^f6deead7b8b80d0cffe9497c
+2. Buvusius 28 straipsnio 1 dalies 7, 8, 9, 10, 11, 12 ir 13 punktus laikyti atitinkamai 8, 9, 10, 11, 12, 13 ir 14 punktais. ^s-0cf3c1ba1c873be95b5fae08
 
 
 
-### 4 straipsnis. 32 straipsnio papildymas ir pakeitimas
+### 4 straipsnis. 32 straipsnio papildymas ir pakeitimas ^s-18d0a6f037e77cc8cb4318f4
 
 
-1. Papildyti 32 straipsnio 1 dalį nauju 4 punktu: ^bc21a561ef32e089945b3be7
+1. Papildyti 32 straipsnio 1 dalį nauju 4 punktu: ^s-308ac5dff0397a2b74c93df2
 
 
 „4) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektui ir jam priimti sudarytam tarpinių finansinių ataskaitų rinkiniui ir parengtam tarpiniam pranešimui;“.
 
 
-2. Buvusius 32 straipsnio 1 dalies 4 ir 5 punktus laikyti atitinkamai 5 ir 6 punktais. ^4a2964b519a193258e4c3787
+2. Buvusius 32 straipsnio 1 dalies 4 ir 5 punktus laikyti atitinkamai 5 ir 6 punktais. ^s-19f183117cad5392ffc5ae66
 
 
 
-### 5 straipsnis. 34 straipsnio papildymas ir pakeitimas
+### 5 straipsnis. 34 straipsnio papildymas ir pakeitimas ^s-cf85ff52dca0aa6983072a11
 
 
-1. Papildyti 34 straipsnio 1 dalį nauju 3 punktu: ^e0a88fa282200bf02b0b19f4
+1. Papildyti 34 straipsnio 1 dalį nauju 3 punktu: ^s-267594bfe07264edca90eea1
 
 
 „3) bendrovės tarpinį pranešimą;“.
 
 
-2. Buvusius 34 straipsnio 1 dalies 3, 4 ir 5 punktus laikyti atitinkamai 4, 5 ir 6 punktais. ^cf8d9c23a95b38f32ae57889
+2. Buvusius 34 straipsnio 1 dalies 3, 4 ir 5 punktus laikyti atitinkamai 4, 5 ir 6 punktais. ^s-26f242aca616544c656edf70
 
 
-3. Papildyti 34 straipsnį nauja 9 dalimi: ^410b4f3ae85651acd2986a6b
+3. Papildyti 34 straipsnį nauja 9 dalimi: ^s-ce3d0b0c8b2dcfef026f22be
 
 
 „9. Valdyba analizuoja, vertina sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektą ir jam priimti sudarytą tarpinių finansinių ataskaitų rinkinį, kuriuos kartu su bendrovės tarpiniu pranešimu teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.“
 
 
-4. Buvusias 34 straipsnio 9, 10, 11 ir 12 dalis laikyti atitinkamai 10, 11, 12 ir 13 dalimis. ^c3346726111b35bfe4c19f07
+4. Buvusias 34 straipsnio 9, 10, 11 ir 12 dalis laikyti atitinkamai 10, 11, 12 ir 13 dalimis. ^s-76984ee7ca50ba4592bd8d35
 
 
 
-### 6 straipsnis. 37 straipsnio 10 ir 12 dalių pakeitimas ir papildymas
+### 6 straipsnis. 37 straipsnio 10 ir 12 dalių pakeitimas ir papildymas ^s-c5d5a8195117f75bbc855bd7
 
 
-1. Pakeisti 37 straipsnio 10 dalį ir ją išdėstyti taip: ^2c47de0544082b33c4df0a2e
+1. Pakeisti 37 straipsnio 10 dalį ir ją išdėstyti taip: ^s-3a7f6f75649585b0685961d5
 
 
 „10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo 34 straipsnio 4 dalies 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 34 straipsnio 1, 3, 4, 5, 6, 8, 9, 10 ir 11 dalyse.“
 
 
-2. Papildyti 37 straipsnio 12 dalį nauju 3 punktu: ^b0b51dbdcfff8f422e804008
+2. Papildyti 37 straipsnio 12 dalį nauju 3 punktu: ^s-3e8af2b7efa3e405551bc46d
 
 
 „3) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;“.
 
 
-3. Buvusius 37 straipsnio 12 dalies 3, 4, 5, 6, 7, 8, 9 ir 10 punktus laikyti atitinkamai 4, 5, 6, 7, 8, 9, 10 ir 11 punktais. ^65e78fe1d2bae2b02b9d9c8c
+3. Buvusius 37 straipsnio 12 dalies 3, 4, 5, 6, 7, 8, 9 ir 10 punktus laikyti atitinkamai 4, 5, 6, 7, 8, 9, 10 ir 11 punktais. ^s-20f46bd9d33ba3c80557def6
 
 
 
-### 7 straipsnis. 38 straipsnio 3 dalies pakeitimas
+### 7 straipsnis. 38 straipsnio 3 dalies pakeitimas ^s-d888dcf45f980c804639eb7a
 
 
 Pakeisti 38 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -201,20 +206,20 @@ Pakeisti 38 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 42 straipsnio papildymas ir pakeitimas
+### 8 straipsnis. 42 straipsnio papildymas ir pakeitimas ^s-09ffe9b1f30249949201c9b1
 
 
-1. Papildyti 42 straipsnį nauja 10 dalimi: ^5a9eb02f5b907b52bd0d4705
+1. Papildyti 42 straipsnį nauja 10 dalimi: ^s-29fc5dbf3a15979c48eac477
 
 
 „10. Jeigu bendrovėje paskirti dividendai už trumpesnį negu finansiniai metai laikotarpį, iš dividendams skirtos sumos pirmiausia turi būti išmokama privilegijuotųjų akcijų su kaupiamuoju dividendu savininkams už praėjusius finansinius metus ir už tų pačių finansinių metų trumpesnį negu finansiniai metai laikotarpį neišmokėta suma.“
 
 
-2. Buvusią 42 straipsnio 10 dalį laikyti 11 dalimi. ^6ec6946aabf4a6313894cc02
+2. Buvusią 42 straipsnio 10 dalį laikyti 11 dalimi. ^s-5091343910561b2601dc68cb
 
 
 
-### 9 straipsnis. 58 straipsnio papildymas 5 dalimi
+### 9 straipsnis. 58 straipsnio papildymas 5 dalimi ^s-0e94de6e6008759c9c1539d0
 
 
 Papildyti 58 straipsnį 5 dalimi:
@@ -224,47 +229,47 @@ Papildyti 58 straipsnį 5 dalimi:
 
 
 
-### 10 straipsnis. 59 straipsnio pakeitimas ir papildymas
+### 10 straipsnis. 59 straipsnio pakeitimas ir papildymas ^s-e561dfd0e4ac3b81800f96db
 
 
-1. Pakeisti 59 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip: ^f4737db093562d6eb1595834
+1. Pakeisti 59 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip: ^s-a2b8419d5464bf8593c3b2ca
 
 
 „10) pelno dalis, paskirta dividendams išmokėti, iš jos, jei taikoma, per ataskaitinius finansinius metus akcininkams už trumpesnį negu finansiniai metai laikotarpį išmokėti dividendai;“.
 
 
-2. Papildyti 59 straipsnį nauja 6 dalimi: ^fa68056edb7ec055756706ef
+2. Papildyti 59 straipsnį nauja 6 dalimi: ^s-04cf1accd285d917cf0f6d22
 
 
 „ 6. Visuotinis akcininkų susirinkimas negali priimti sprendimo skirti ir išmokėti dividendus, jei tenkinama bent viena iš šių sąlygų:
 
 
-1) bendrovė turi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo priėmimo; ^e6d873fdd6b79ee617a8e351
+1) bendrovė turi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo priėmimo; ^s-2ee8c13625039cf3b6baa2a6
 
 
-2) ataskaitinių finansinių metų paskirstytinojo pelno (nuostolių) suma yra neigiama (gauta nuostolių); ^a1e5800492dffc00b0f8c52d
+2) ataskaitinių finansinių metų paskirstytinojo pelno (nuostolių) suma yra neigiama (gauta nuostolių); ^s-cf64b9f0f57675530b2244de
 
 
-3) bendrovės nuosavas kapitalas yra mažesnis arba išmokėjus dividendus taptų mažesnis už bendrovės įstatinio kapitalo, privalomojo rezervo, perkainojimo rezervo ir rezervo savoms akcijoms įsigyti rezervo sumą.“ ^377197dd225baf3cd5c5d245
+3) bendrovės nuosavas kapitalas yra mažesnis arba išmokėjus dividendus taptų mažesnis už bendrovės įstatinio kapitalo, privalomojo rezervo, perkainojimo rezervo ir rezervo savoms akcijoms įsigyti rezervo sumą.“ ^s-cb36b8967224305bdc9da3a8
 
 
-3. Buvusias 59 straipsnio 6, 7, 8, 9 ir 10 dalis laikyti atitinkamai 7, 8, 9, 10 ir 11 dalimis. ^82195b1af441b51865367424
+3. Buvusias 59 straipsnio 6, 7, 8, 9 ir 10 dalis laikyti atitinkamai 7, 8, 9, 10 ir 11 dalimis. ^s-8882401d4b0ba533faa39ecd
 
 
-4. Pakeisti 59 straipsnio 10 dalį ir ją išdėstyti taip: ^024d7d3861b841b7c9334466
+4. Pakeisti 59 straipsnio 10 dalį ir ją išdėstyti taip: ^s-c059404488379c3ad2b0d8e4
 
 
 „10. Jeigu šio straipsnio 9 dalyje nustatytų pervedamų sumų nuostoliams padengti nepakanka:
 
 
-1) likę nepaskirstytieji nuostoliai perkeliami į kitus finansinius metus, jeigu bendrovės nuosavas kapitalas sudaro ne mažiau kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio; ^8b133e815bd19cbda1bcfea3
+1) likę nepaskirstytieji nuostoliai perkeliami į kitus finansinius metus, jeigu bendrovės nuosavas kapitalas sudaro ne mažiau kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio; ^s-eeb0fdbe6ddb380f01e38731
 
 
-2) akcininkai gali padengti nuostolius akcininkų įnašais – bendrovės nuosavas kapitalas turi būti atkurtas taip, kad jis nebūtų mažesnis kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio.“ ^f1f3abf4efcccbae2a30961f
+2) akcininkai gali padengti nuostolius akcininkų įnašais – bendrovės nuosavas kapitalas turi būti atkurtas taip, kad jis nebūtų mažesnis kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio.“ ^s-71cd995c9ed62a10026e80ea
 
 
 
-### 11 straipsnis. 60 straipsnio pakeitimas
+### 11 straipsnis. 60 straipsnio pakeitimas ^s-17f90dc78cc43a33e0e1b48a
 
 
 Pakeisti 60 straipsnį ir jį išdėstyti taip:
@@ -274,29 +279,29 @@ Pakeisti 60 straipsnį ir jį išdėstyti taip:
 „60 straipsnis. Dividendai
 
 
-1. Dividendas – akcininkui paskirta pelno dalis, proporcinga jam nuosavybės teise priklausančių akcijų nominaliai vertei. ^6866ef0d7ea5fc6305c17706
+1. Dividendas – akcininkui paskirta pelno dalis, proporcinga jam nuosavybės teise priklausančių akcijų nominaliai vertei. ^s-74138d2e8d3a59b059d5b9ad
 
 
-2. Visuotinio akcininkų susirinkimo sprendimu paskirti dividendai yra bendrovės įsipareigojimas akcininkams. Akcininkas turi teisę dividendą išreikalauti iš bendrovės kaip jos kreditorius. Akcininkui išmokėtą dividendą bendrovė gali išieškoti, jeigu akcininkas žinojo ar turėjo žinoti, kad dividendas yra paskirtas ir (arba) išmokėtas neteisėtai. ^f0c2a6d446f022286cef0326
+2. Visuotinio akcininkų susirinkimo sprendimu paskirti dividendai yra bendrovės įsipareigojimas akcininkams. Akcininkas turi teisę dividendą išreikalauti iš bendrovės kaip jos kreditorius. Akcininkui išmokėtą dividendą bendrovė gali išieškoti, jeigu akcininkas žinojo ar turėjo žinoti, kad dividendas yra paskirtas ir (arba) išmokėtas neteisėtai. ^s-29245892438f827e39d68a5a
 
 
-3. Dividendas gali būti skiriamas už finansinius metus ar trumpesnį negu finansiniai metai laikotarpį. ^488b69818866fc0724f04262
+3. Dividendas gali būti skiriamas už finansinius metus ar trumpesnį negu finansiniai metai laikotarpį. ^s-97fa45df99255968ac6d1737
 
 
-4. Jeigu akcija nevisiškai apmokėta ir jos apmokėjimo terminas nepasibaigęs, akcininko dividendas mažinamas proporcingai neapmokėtos akcijos kainos daliai. Jeigu akcija ne visiškai apmokėta ir apmokėjimo terminas yra pasibaigęs, dividendas nemokamas. Bedrovės įstatuose gali būti nustatyta, kad mažinamas ir apmokėtų akcijų dividendas, jeigu už jas baigta mokėti tais finansiniais metais arba kitu laikotarpiu, už kurį skiriamas dividendas. ^77b5635d26e7ed4a20a07fd8
+4. Jeigu akcija nevisiškai apmokėta ir jos apmokėjimo terminas nepasibaigęs, akcininko dividendas mažinamas proporcingai neapmokėtos akcijos kainos daliai. Jeigu akcija ne visiškai apmokėta ir apmokėjimo terminas yra pasibaigęs, dividendas nemokamas. Bedrovės įstatuose gali būti nustatyta, kad mažinamas ir apmokėtų akcijų dividendas, jeigu už jas baigta mokėti tais finansiniais metais arba kitu laikotarpiu, už kurį skiriamas dividendas. ^s-78ee2885de330fde998ed28f
 
 
-5. Bendrovė turi išmokėti paskirtus dividendus ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną arba sprendimo skirti dividendus už trumpesnį negu finansiniai metai laikotarpį priėmimo dienos. Dividendus mokėti avansu draudžiama. ^9580177cacd1a401815aac5a
+5. Bendrovė turi išmokėti paskirtus dividendus ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną arba sprendimo skirti dividendus už trumpesnį negu finansiniai metai laikotarpį priėmimo dienos. Dividendus mokėti avansu draudžiama. ^s-937f79a6b82bccd87ee00490
 
 
-6. Bendrovė dividendus išmoka pinigais. ^9b3f49f08ac74fb913fa6abf
+6. Bendrovė dividendus išmoka pinigais. ^s-c6eeb2f425cd14c62647a294
 
 
-7. Dividendus turi teisę gauti tie asmenys, kurie visuotinio akcininkų susirinkimo, paskelbusio dividendus, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turėjo teisę į dividendus.“ ^7cad954cf6e7f4b044e53575
+7. Dividendus turi teisę gauti tie asmenys, kurie visuotinio akcininkų susirinkimo, paskelbusio dividendus, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turėjo teisę į dividendus.“ ^s-e2bcf47b994aef70ceb318bc
 
 
 
-### 12 straipsnis. Įstatymo papildymas 601 straipsniu
+### 12 straipsnis. Įstatymo papildymas 601 straipsniu ^s-fcb13af5efbc6773e569a2bd
 
 
 Papildyti Įstatymą 601 straipsniu:
@@ -306,54 +311,54 @@ Papildyti Įstatymą 601 straipsniu:
 „601 straipsnis. Dividendų skyrimas už trumpesnį negu finansiniai metai laikotarpį
 
 
-1. Dividendai už trumpesnį negu finansiniai metai laikotarpį skiriami visuotinio akcininkų susirinkimo sprendimu. ^31d840934aa9083d58a57606
+1. Dividendai už trumpesnį negu finansiniai metai laikotarpį skiriami visuotinio akcininkų susirinkimo sprendimu. ^s-adb3bd23033e274740af3d88
 
 
-2. Dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo iniciatyvos teisę turi akcininkai, kuriems priklausančios akcijos suteikia ne mažiau negu 1/3 visų balsų, jeigu bendrovės įstatai nenustato didesnės daugumos. ^6d8742e07ab5736714f843a4
+2. Dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo iniciatyvos teisę turi akcininkai, kuriems priklausančios akcijos suteikia ne mažiau negu 1/3 visų balsų, jeigu bendrovės įstatai nenustato didesnės daugumos. ^s-5b3bac265f9c9ef61f2863b6
 
 
-3. Jeigu bendrovė gauna iniciatyvos teisę turinčių akcininkų rašytinę paraišką, kurioje siūloma skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti sudarytas trumpesnio negu finansiniai metai laikotarpio tarpinių finansinių ataskaitų rinkinys, parengtas tarpinis pranešimas ir sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektas. Trumpesnio negu finansiniai metai laikotarpio pradžia sutampa su bendrovės einamųjų finansinių metų pradžia. Jeigu bendrovės metinių finansinių ataskaitų rinkinio auditas pagal įstatymus yra privalomas ar numatytas bendrovės įstatuose, tarpinių finansinių ataskaitų rinkinys turi būti audituotas. ^3f9dd0461bdaf58e7b0c2b87
+3. Jeigu bendrovė gauna iniciatyvos teisę turinčių akcininkų rašytinę paraišką, kurioje siūloma skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti sudarytas trumpesnio negu finansiniai metai laikotarpio tarpinių finansinių ataskaitų rinkinys, parengtas tarpinis pranešimas ir sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektas. Trumpesnio negu finansiniai metai laikotarpio pradžia sutampa su bendrovės einamųjų finansinių metų pradžia. Jeigu bendrovės metinių finansinių ataskaitų rinkinio auditas pagal įstatymus yra privalomas ar numatytas bendrovės įstatuose, tarpinių finansinių ataskaitų rinkinys turi būti audituotas. ^s-b046fbbcc880a3335f4111a8
 
 
-4. Visuotinis akcininkų susirinkimas, kurio darbotvarkėje numatytas klausimas dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, turi įvykti per 3 mėnesius nuo laikotarpio, už kurį siūloma skirti dividendus, pabaigos, bet ne anksčiau, negu patvirtinamas metinių finansinių ataskaitų rinkinys ir paskirstomas bendrovės pelnas (nuostoliai) už ankstesnius finansinius metus, ir ne vėliau kaip iki finansinių metų pabaigos. ^41cfd7130f29b362096d1773
+4. Visuotinis akcininkų susirinkimas, kurio darbotvarkėje numatytas klausimas dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, turi įvykti per 3 mėnesius nuo laikotarpio, už kurį siūloma skirti dividendus, pabaigos, bet ne anksčiau, negu patvirtinamas metinių finansinių ataskaitų rinkinys ir paskirstomas bendrovės pelnas (nuostoliai) už ankstesnius finansinius metus, ir ne vėliau kaip iki finansinių metų pabaigos. ^s-6ef0d96bfe3bce41b8a33564
 
 
-5. Dividendai už trumpesnį negu finansiniai metai laikotarpį gali būti skiriami, jeigu tenkinamos visos šios sąlygos: ^ef48f88173f5be18292ca148
+5. Dividendai už trumpesnį negu finansiniai metai laikotarpį gali būti skiriami, jeigu tenkinamos visos šios sąlygos: ^s-8845bcab5b909bb3bd6dc198
 
 
-1) patvirtintas trumpesnio negu finansiniai metai laikotarpio tarpinių finansinių ataskaitų rinkinys; ^785f4b9e2eb7872265b3994d
+1) patvirtintas trumpesnio negu finansiniai metai laikotarpio tarpinių finansinių ataskaitų rinkinys; ^s-2fa6191ae758e722ede5e86c
 
 
-2) trumpesnio negu finansiniai metai laikotarpio pelno (nuostolių) suma yra teigiama (nėra nuostolių); ^7ec7289725255be93e906380
+2) trumpesnio negu finansiniai metai laikotarpio pelno (nuostolių) suma yra teigiama (nėra nuostolių); ^s-e2a6fc206f0f5038d1568340
 
 
-3) dividendams išmokėti skiriama suma neviršija trumpesnio negu finansiniai metai laikotarpio pelno (nuostolių), ankstesnių finansinių metų nepaskirstytojo pelno (nuostolių) praėjusių finansinių metų pabaigoje sumos, atskaičius per trumpesnį negu finansiniai metai laikotarpį gauto pelno dalį, kuri pagal šio Įstatymo 59 straipsnio 5 dalį ar bendrovės įstatus turi būti paskirta į rezervus; ^c84352f771725f8d4f0871f2
+3) dividendams išmokėti skiriama suma neviršija trumpesnio negu finansiniai metai laikotarpio pelno (nuostolių), ankstesnių finansinių metų nepaskirstytojo pelno (nuostolių) praėjusių finansinių metų pabaigoje sumos, atskaičius per trumpesnį negu finansiniai metai laikotarpį gauto pelno dalį, kuri pagal šio Įstatymo 59 straipsnio 5 dalį ar bendrovės įstatus turi būti paskirta į rezervus; ^s-e62fefe1ed254a6f787fd6f8
 
 
-4) bendrovė neturi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo priėmimo, ir išmokėjusi dividendus būtų pajėgi įvykdyti savo prievoles už einamuosius finansinius metus. ^f5da17e681fb1d9ab2c65fdd
+4) bendrovė neturi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo priėmimo, ir išmokėjusi dividendus būtų pajėgi įvykdyti savo prievoles už einamuosius finansinius metus. ^s-66750c24885522355ca4081d
 
 
-6. Paskyrus dividendus už trumpesnį negu finansiniai metai laikotarpį, skirti dividendus už kitą trumpesnį negu finansiniai metai laikotarpį galima ne anksčiau negu po 3 mėnesių.“ ^e2649796f62a7e505fce4df8
+6. Paskyrus dividendus už trumpesnį negu finansiniai metai laikotarpį, skirti dividendus už kitą trumpesnį negu finansiniai metai laikotarpį galima ne anksčiau negu po 3 mėnesių.“ ^s-fa257f2ba590eea5be31f60c
 
 
 
-### 13 straipsnis. 78 straipsnio papildymas 4 dalimi
+### 13 straipsnis. 78 straipsnio papildymas 4 dalimi ^s-b01d042a1b72fd07c716a9a7
 
 
 Papildyti 78 straipsnį 4 dalimi:
 
 
-„4. Šio Įstatymo nuostatos dėl dividendų už trumpesnį negu finansiniai metai skyrimo netaikomos bankams, kitoms kredito ir finansų įstaigoms, reguliuojamosios rinkos operatoriui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme, Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo ir perdraudimo įmonėms.“
+„4. Šio Įstatymo nuostatos dėl dividendų už trumpesnį negu finansiniai metai skyrimo netaikomos bankams, kitoms kredito ir finansų įstaigoms, reguliuojamosios rinkos operatoriui, kaip jis apibrėžtas [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]], Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo ir perdraudimo įmonėms.“
 
 
 
-### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-8b832aee8c067e5c3cedc8fd
 
 
-1. Šis įstatymas, išskyrus [[#^cbf7c883bdb1dfa782bcd977|šio straipsnio 2 dalį]], įsigalioja 2012 m. kovo 1 d. ^389d1700fcc1a7f947bba01e
+1. Šis įstatymas, išskyrus [[#^s-a76ed5c06316c8b745659892|šio straipsnio 2 dalį]], įsigalioja 2012 m. kovo 1 d. ^s-a97d4777330d34a64add7249
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^cbf7c883bdb1dfa782bcd977
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-a76ed5c06316c8b745659892
 
 
 

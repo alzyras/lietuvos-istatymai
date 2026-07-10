@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7935CAF173EF"
 pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo 27, 58 ir 60 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos diplomatinės tarnybos įstatymo 27, 58 ir 60 straipsnių pakeitimo įstatymas"
+  - "diplomatinės tarnybos įstatymo 27, 58 ir 60 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-10-11"
 latest_path: "latest/TAR.7935CAF173EF.md"
 latest_sha256: "b05e03e57c2054962f3be5cf50b824a033ad371b21f9fc8328cb3525fd7f0dac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7935CAF173EF]]"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 27, 58 ir 60 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7935CAF173EF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7935CAF173EF
+- Ryšiai: [[Ryšiai/TAR.7935CAF173EF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 27 straipsnio 1 dalies pakeitimas ^s-4e1c6111313e53c0e3908fa5
 
 
 27 straipsnio 1 dalyje vietoj žodžių „invalidumo“ įrašyti žodžius „neįgalumo“ ir šią dalį išdėstyti taip:
@@ -41,23 +46,23 @@ Vilnius
 
 
 
-### 2 straipsnis. 58 straipsnio 2 dalies 2 punkto ir 6 dalies pakeitimas
+### 2 straipsnis. 58 straipsnio 2 dalies 2 punkto ir 6 dalies pakeitimas ^s-26aa8933de4ccb0166355207
 
 
-1. 58 straipsnio 2 dalies 2 punkte vietoj žodžio „invalidumas“ įrašyti žodį „neįgalumas“ ir šį punktą išdėstyti taip: ^ec0a1d9606c67e07d79e8173
+1. 58 straipsnio 2 dalies 2 punkte vietoj žodžio „invalidumas“ įrašyti žodį „neįgalumas“ ir šį punktą išdėstyti taip: ^s-c1c2ce11342ef35f23255d79
 
 
 „2) diplomatas dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių, jeigu įstatymuose nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos) išsaugoma ilgesnį laiką. Diplomatams, netekusiems darbingumo dėl suluošinimo darbe ar profesinės ligos, darbo vieta (pareigos) saugoma, kol bus atgautas darbingumas arba nustatytas neįgalumas;“.
 
 
-2. 58 straipsnio 6 dalyje vietoj žodžio „invalidumo“ įrašyti žodį „neįgalumo“ ir šią dalį išdėstyti taip: ^23576275eae41c9922acc892
+2. 58 straipsnio 6 dalyje vietoj žodžio „invalidumo“ įrašyti žodį „neįgalumo“ ir šią dalį išdėstyti taip: ^s-660b9b0a35cb6c5e97f87bef
 
 
 „6. Diplomatas (išskyrus Lietuvos Respublikos diplomatinį atstovą) turi teisę nutraukti diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį, apie tai įspėjęs Užsienio reikalų ministeriją ne vėliau kaip prieš 30 kalendorinių dienų. Įspėjimo terminui pasibaigus, diplomatas turi teisę nutraukti darbą, o Užsienio reikalų ministerija privalo įforminti sutarties nutraukimą. Jei sutartį prašoma nutraukti dėl diplomato ligos ar neįgalumo, trukdančio tinkamai atlikti darbą, sutartis turi būti nutraukta nuo diplomato prašyme nurodytos datos.“
 
 
 
-### 3 straipsnis. 60 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 60 straipsnio 1 dalies pakeitimas ^s-1586b4f2a825f4d9f20da541
 
 
 60 straipsnio 1 dalyje vietoj žodžio „invalidui“ įrašyti žodį „neįgaliajam“ ir šią dalį išdėstyti taip:

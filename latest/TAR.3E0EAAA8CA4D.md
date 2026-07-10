@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3E0EAAA8CA4D"
 pavadinimas: "Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės \"Mažeikių nafta\" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės \"Mažeikių nafta\" apyvartinėms lėšoms papildyti įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės \"Mažeikių nafta\" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės \"Mažeikių nafta\" apyvartinėms lėšoms papildyti įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+  - "paskolų iš užsienio bankų akcinės bendrovės \"Mažeikių nafta\" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės \"Mažeikių nafta\" apyvartinėms lėšoms papildyti įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-15"
 latest_path: "latest/TAR.3E0EAAA8CA4D.md"
 latest_sha256: "1e239ced57c7fed14b1574fb2a9eaa4e90e661b895c8293c7b561a0eb70f6b24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3E0EAAA8CA4D]]"
 ---
 # Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės "Mažeikių nafta" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės "Mažeikių nafta" apyvartinėms lėšoms papildyti įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3E0EAAA8CA4D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3E0EAAA8CA4D
+- Ryšiai: [[Ryšiai/TAR.3E0EAAA8CA4D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-5edaf33532a4d3b2b7f03db0
 
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
@@ -40,11 +45,11 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „1 straipsnis. Sprendimas imti paskolas
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Valstybės skolos įstatymo 5 straipsnio 1 dalimi bei 7 straipsnio 1 dalimi, nusprendžia imti užsienio paskolas iš užsienio kreditorių, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems kreditoriams dėl teikiamų paskolų akcinei bendrovei „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti. Šiame įstatyme nurodytiems tikslams valstybės vardu imamų paskolų, iš valstybės lėšų teikiamų paskolų ir (ar) paskolų su valstybės garantija bendra suma (gautos paskolos, atėmus grąžintas) neturi viršyti 650 mln. JAV dolerių (2 600 mln. litų).“
+Lietuvos Respublikos Seimas, vadovaudamasis [[latest/TAR.5C23DECF6210#^s-a0c827a2147f97698de099bd|Valstybės skolos įstatymo 5 straipsnio 1 dalimi]] bei 7 straipsnio 1 dalimi, nusprendžia imti užsienio paskolas iš užsienio kreditorių, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems kreditoriams dėl teikiamų paskolų akcinei bendrovei „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti. Šiame įstatyme nurodytiems tikslams valstybės vardu imamų paskolų, iš valstybės lėšų teikiamų paskolų ir (ar) paskolų su valstybės garantija bendra suma (gautos paskolos, atėmus grąžintas) neturi viršyti 650 mln. JAV dolerių (2 600 mln. litų).“
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-289acae7e8e6f74c3ddbc806
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

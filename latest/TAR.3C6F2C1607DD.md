@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3C6F2C1607DD"
 pavadinimas: "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-31"
 latest_path: "latest/TAR.3C6F2C1607DD.md"
 latest_sha256: "1539f4de12f01a9eb6541078cb3113094ae7c3875fae1a0010929c94b7a0a860"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3C6F2C1607DD]]"
 ---
 # Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3C6F2C1607DD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3C6F2C1607DD
+- Ryšiai: [[Ryšiai/TAR.3C6F2C1607DD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-b6a5cc0d376b137532dd3f43
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

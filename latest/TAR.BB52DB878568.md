@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BB52DB878568"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "azartinių lošimų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.BB52DB878568.md"
 latest_sha256: "90c4b767bf974d6c34c0eb73cada0adff5698bd3baff36e9f954b6edb5e0fb26"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BB52DB878568]]"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BB52DB878568.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BB52DB878568
+- Ryšiai: [[Ryšiai/TAR.BB52DB878568|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas ^s-e34dedc9edeb0547510e513f
 
 
 13 straipsnio 4 dalyje vietoj žodžių ir skaičių „39 straipsnio 4 dalies“ įrašyti žodžius ir skaičius „38 straipsnio 3 dalies“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-5a1296811b05f983d235fb5f
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7AAB2E4D2B1A"
 pavadinimas: "Lietuvos Respublikos prokuratūros įstatymo 30 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prokuratūros įstatymo 30 straipsnio pakeitimo įstatymas"
+  - "prokuratūros įstatymo 30 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-12-08"
 latest_path: "latest/TAR.7AAB2E4D2B1A.md"
 latest_sha256: "d45c9caf809309d18536c5c2b7ed46e0e21d605665a710cdd743275e0e089b25"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7AAB2E4D2B1A]]"
 ---
 # Lietuvos Respublikos prokuratūros įstatymo 30 straipsnio pakeitimo įstatymas
 
@@ -17,11 +21,12 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7AAB2E4D2B1A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7AAB2E4D2B1A
+- Ryšiai: [[Ryšiai/TAR.7AAB2E4D2B1A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
 LIETUVOS RESPUBLIKOS
-PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO
+[[latest/TAR.3EB53577EFCA#^s-fc3626243f097d169207104f|PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO]] PAKEITIMO
 Į S T A T Y M A S
 
 2005 m. lapkričio 22 d. Nr. X-417

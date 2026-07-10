@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4FFAD9D4DF74"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 3, 6, 8 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 3, 6, 8 ir 15 straipsnių pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 3, 6, 8 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.4FFAD9D4DF74.md"
 latest_sha256: "9eb3abf23f7603c78998ddddb9ed12e8bf80ea46f6f3acdd37b9c30984af9bac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4FFAD9D4DF74]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 3, 6, 8 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4FFAD9D4DF74.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4FFAD9D4DF74
+- Ryšiai: [[Ryšiai/TAR.4FFAD9D4DF74|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,13 +37,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-ecaa402f0659f4d45f88ba4c
 
 
-Pakeisti [[#3 straipsnis. 8 straipsnio 3 dalies pakeitimas|3 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-3bf4ab4bc3a8534facba4789|3 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#3 straipsnis. 8 straipsnio 3 dalies pakeitimas|3 straipsnis]]. Valstybinių pensijų mokėjimo sąlygos
+„[[#^s-3bf4ab4bc3a8534facba4789|3 straipsnis]]. Valstybinių pensijų mokėjimo sąlygos
 
 
 Asmeniui, turinčiam teisę gauti kelias valstybines pensijas, jo pasirinkimu mokama tik viena iš jų, išskyrus valstybinę našlių ir našlaičių pensiją, kuri taip pat gali būti mokama tik viena su viena iš valstybinių pensijų. Šio įstatymo 14 straipsnio 3 dalyje nurodytiems asmenims nustatyta nukentėjusių asmenų valstybinė našlaičių pensija skiriama ir mokama, jeigu asmuo neturi teisės į kitą nukentėjusių asmenų valstybinę pensiją.
@@ -50,30 +55,30 @@ Asmeniui, turinčiam teisę gauti valstybinę našlių pensiją už mirusį vals
 Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–5 punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,3 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
 
 
-Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su asmens draudžiamosiomis pajamomis, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, permokai dėl to, kad valstybinės pensijos gavėjas turėjo draudžiamųjų pajamų už tą laikotarpį, per kurį jam buvo paskirta ir mokėta pensija, permoka valstybinę pensiją mokančios institucijos vadovo sprendimu išieškoma iš valstybinės pensijos gavėjo ne ginčo tvarka.“
+Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su asmens draudžiamosiomis pajamomis, kaip jos apibrėžtos [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]], permokai dėl to, kad valstybinės pensijos gavėjas turėjo draudžiamųjų pajamų už tą laikotarpį, per kurį jam buvo paskirta ir mokėta pensija, permoka valstybinę pensiją mokančios institucijos vadovo sprendimu išieškoma iš valstybinės pensijos gavėjo ne ginčo tvarka.“
 
 
 
-### 2 straipsnis. 6 straipsnio 3, 5 dalių pakeitimas ir 7 dalies pripažinimas netekusia galios
+### 2 straipsnis. 6 straipsnio 3, 5 dalių pakeitimas ir 7 dalies pripažinimas netekusia galios ^s-5ca6d9d1da94a4f19b6e748d
 
 
-1. Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip: ^00505c8701c3a9040b766259
+1. Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip: ^s-8f4b146ef13886c6e0aa520a
 
 
 „Komisija nagrinėja Lietuvos Respublikos aukščiausiosios valdžios – Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir valdymo institucijų, taip pat Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pateiktus prašymus skirti pirmojo ar antrojo laipsnio valstybinę pensiją. Taip pat komisija nagrinėja savivaldybių administracijos teikimus skirti antrojo laipsnio valstybines pensijas motinoms, pagimdžiusioms (įvaikinusioms) ir išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų. Teikimai skirti pirmojo ar antrojo laipsnio valstybinę pensiją pateikiami Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo ir mokėjimo nuostatų nustatyta tvarka.“
 
 
-2. Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip: ^0106431171bf64a82511b5a5
+2. Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip: ^s-7d5a6227c8bc8d01bc96bb75
 
 
-„Komisija turi teisę skirti antrojo laipsnio valstybinę pensiją savivaldybių administracijos teikimu motinoms, pagimdžiusioms (įvaikinusioms) ir išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų (toliau šiame straipsnyje – daugiavaikė motina), netaikydama šio įstatymo [[#5 straipsnis. Baigiamosios nuostatos|5 straipsnio]] trečiojoje dalyje nurodytų apribojimų. Komisija taip pat turi teisę priimti sprendimą skirti nuo 2005 m. sausio 1 d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai, jeigu daugiavaikė motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo sąlygas ir jeigu komisija gavo savivaldybės administracijos teikimą su visais būtinais nurodytai pensijai skirti dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių motinų pagimdytų (įvaikintų) ir išaugintų vaikų gero išauklėjimo bei pačių motinų elgesio vertinimo kriterijų ir sąlygų teisei į antrojo laipsnio valstybinę pensiją nustatyti aprašą tvirtina Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių administracijos, teikdamos pasiūlymus dėl antrojo laipsnio valstybinių pensijų skyrimo daugiavaikėms motinoms, taip pat Komisija, priimdama sprendimus dėl šių motinų teisės gauti antrojo laipsnio valstybinę pensiją. Savivaldybių administracijos, kurių teikimu šios pensijos buvo paskirtos motinoms, neatitinkančioms antrojo laipsnio valstybinių pensijų skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti Lietuvos Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos mokėjimo nutraukimo.“
+„Komisija turi teisę skirti antrojo laipsnio valstybinę pensiją savivaldybių administracijos teikimu motinoms, pagimdžiusioms (įvaikinusioms) ir išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų (toliau šiame straipsnyje – daugiavaikė motina), netaikydama šio įstatymo [[#^s-0465ade8c37cf2c4f62f2fbd|5 straipsnio]] trečiojoje dalyje nurodytų apribojimų. Komisija taip pat turi teisę priimti sprendimą skirti nuo 2005 m. sausio 1 d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai, jeigu daugiavaikė motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo sąlygas ir jeigu komisija gavo savivaldybės administracijos teikimą su visais būtinais nurodytai pensijai skirti dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių motinų pagimdytų (įvaikintų) ir išaugintų vaikų gero išauklėjimo bei pačių motinų elgesio vertinimo kriterijų ir sąlygų teisei į antrojo laipsnio valstybinę pensiją nustatyti aprašą tvirtina Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių administracijos, teikdamos pasiūlymus dėl antrojo laipsnio valstybinių pensijų skyrimo daugiavaikėms motinoms, taip pat Komisija, priimdama sprendimus dėl šių motinų teisės gauti antrojo laipsnio valstybinę pensiją. Savivaldybių administracijos, kurių teikimu šios pensijos buvo paskirtos motinoms, neatitinkančioms antrojo laipsnio valstybinių pensijų skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti Lietuvos Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos mokėjimo nutraukimo.“
 
 
-3. 6 straipsnio 7 dalį pripažinti netekusia galios. ^9b97fdea658d984f8bb1bb41
+3. 6 straipsnio 7 dalį pripažinti netekusia galios. ^s-63ef0b8b3cdda1c64e7a1c44
 
 
 
-### 3 straipsnis. 8 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 3 dalies pakeitimas ^s-3bf4ab4bc3a8534facba4789
 
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -83,7 +88,7 @@ Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 15 straipsnio 7 dalies pakeitimas
+### 4 straipsnis. 15 straipsnio 7 dalies pakeitimas ^s-9cdafb6fd9a9f763352dafc2
 
 
 Pakeisti 15 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -93,19 +98,19 @@ Pakeisti 15 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Baigiamosios nuostatos
+### 5 straipsnis. Baigiamosios nuostatos ^s-0465ade8c37cf2c4f62f2fbd
 
 
-1. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^45076da795f81fe21f5258c6
+1. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-30ba9fa2dd5b52985f7bc1f6
 
 
-2. Sprendimai dėl išmokų laidojusiems asmenims už Lietuvos Respublikos pirmojo ir antrojo laipsnių ir nukentėjusiųjų asmenų valstybinių pensijų gavėjus, mirusius iki šio įstatymo įsigaliojimo, priimami šių pensijų gavėjų mirties dieną galiojusių teisės aktų nustatyta tvarka. ^b5cb1508c5a7028c7d4df6d2
+2. Sprendimai dėl išmokų laidojusiems asmenims už Lietuvos Respublikos pirmojo ir antrojo laipsnių ir nukentėjusiųjų asmenų valstybinių pensijų gavėjus, mirusius iki šio įstatymo įsigaliojimo, priimami šių pensijų gavėjų mirties dieną galiojusių teisės aktų nustatyta tvarka. ^s-3802ea643692ec9704a4fc50
 
 
-3. Šio įstatymo 1, 3 ir [[#4 straipsnis. 15 straipsnio 7 dalies pakeitimas|4 straipsniai]] įsigalioja 2010 m. sausio 1 d. ^fbd272fd10c56234cced15d2
+3. Šio įstatymo 1, 3 ir [[#^s-9cdafb6fd9a9f763352dafc2|4 straipsniai]] įsigalioja 2010 m. sausio 1 d. ^s-852e4e5c720093f88c0c754e
 
 
-4. Šio įstatymo [[#2 straipsnis. 6 straipsnio 3, 5 dalių pakeitimas ir 7 dalies pripažinimas netekusia galios|2 straipsnis]] įsigalioja 2010 m. liepos 1 d. ^02175f1618b963264f75dce8
+4. Šio įstatymo [[#^s-5ca6d9d1da94a4f19b6e748d|2 straipsnis]] įsigalioja 2010 m. liepos 1 d. ^s-9c01f7d766fefef8452f8d99
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.05D2287C489E"
 pavadinimas: "Lietuvos Respublikos augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pakeitimo įstatymas"
+  - "augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-10-02"
 latest_path: "latest/TAR.05D2287C489E.md"
 latest_sha256: "ab7763e5392ac828ac61a08cb312bc398f58b065db9e93238683dea5726937e5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.05D2287C489E]]"
 ---
 # Lietuvos Respublikos augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.05D2287C489E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.05D2287C489E
+- Ryšiai: [[Ryšiai/TAR.05D2287C489E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis.  2 straipsnio 11 dalies 3 punkto pakeitimas
+### 1 straipsnis.  2 straipsnio 11 dalies 3 punkto pakeitimas ^s-c58fbd9f17563490c3ee34d1
 
 
 Pakeisti 2 straipsnio 11 dalies 3 punktą ir jį  išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 2 straipsnio 11 dalies 3 punktą ir jį  išdėstyti taip:
 „3) juridinis asmuo, įsteigtas kitoje Europos Sąjungos valstybėje narėje, ar kitoje Europos ekonominės erdvės valstybėje įsteigtas juridinis asmuo arba kita organizacija ir jų filialai, sukūrę ar atradę ir išskyrę naują augalo veislę;“.
 
 
-### 2 straipsnis. 9 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 4 dalies pakeitimas ^s-5d64262de4fdcfb2a99bef68
 
 
 Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:

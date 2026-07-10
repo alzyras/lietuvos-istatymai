@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9EF710C0F1D6"
 pavadinimas: "Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1, 2, 4, 6 straipsnių pakeitimo ir 5 priedėlio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1, 2, 4, 6 straipsnių pakeitimo ir 5 priedėlio pripažinimo netekusiu galios įstatymas"
+  - "mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1, 2, 4, 6 straipsnių pakeitimo ir 5 priedėlio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.9EF710C0F1D6.md"
 latest_sha256: "6200bc88111e21f59bce99eec380b15e967375aed9edbc7bfc2c15c5fd3b717b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9EF710C0F1D6]]"
 ---
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1, 2, 4, 6 straipsnių pakeitimo ir 5 priedėlio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9EF710C0F1D6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9EF710C0F1D6
+- Ryšiai: [[Ryšiai/TAR.9EF710C0F1D6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas
+### 1 straipsnis. 1 straipsnio papildymas ^s-5e33537556ece292a8bcead2
 
 
 1 straipsnyje po žodžių „nuosavybės objektų“ įrašyti žodžius „nurodytų šio įstatymo 2 straipsnio 1 dalyje“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-07c8e69950ecf435ee2f9aed
 
 
 2 straipsnio 1 dalyje išbraukti žodžius „firmos vardas“ ir šią dalį išdėstyti taip:
@@ -54,14 +59,14 @@ Vilnius
 
 
 
-### 3 straipsnis. 4 straipsnio 5 punkto pripažinimas netekusiu galios
+### 3 straipsnis. 4 straipsnio 5 punkto pripažinimas netekusiu galios ^s-03d9b57c3790dca0bb3bc128
 
 
 4 straipsnio 5 punktą pripažinti netekusiu galios.
 
 
 
-### 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-af144a2c0f7f738eba60badf
 
 
 6 straipsnio 1 dalyje išbraukti žodžius „bei firmos vardo“ ir šią dalį išdėstyti taip:
@@ -71,14 +76,14 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo 5 priedėlio pripažinimas netekusiu galios
+### 5 straipsnis. Įstatymo 5 priedėlio pripažinimas netekusiu galios ^s-d7eccc38317c29c578ed90ff
 
 
 Įstatymo 5 priedėlį pripažinti netekusiu galios.
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-286fe11db450a02b7329bc44
 
 
 Šis Įstatymas įsigalioja nuo juridinių asmenų registro veiklos pradžios.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.75217A6FD707"
 pavadinimas: "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-06-14"
 latest_path: "latest/TAR.75217A6FD707.md"
 latest_sha256: "7e61f127ad21a594458af380acb6ec93f95bbc47eafea9d318cba1a0ac2984c3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.75217A6FD707]]"
 ---
 # Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.75217A6FD707.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.75217A6FD707
+- Ryšiai: [[Ryšiai/TAR.75217A6FD707|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 11 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. Įstatymo 11 straipsnio 2 dalies pakeitimas ^s-748cc323f1ad9b17d5bf0a4d
 
 
 11 straipsnio 2 dalyje vietoj skaičiaus „100000“ įrašyti skaičių „400000“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis.         Įstatymo 8 priedėlio „2002 METŲ PRIVATIZAVIMO FONDO LĖŠŲ SĄMATA“ pakeitimas
+### 2 straipsnis.         Įstatymo 8 priedėlio „2002 METŲ PRIVATIZAVIMO FONDO LĖŠŲ SĄMATA“ pakeitimas ^s-6ace71086932314eca25c35b
 
 
 Įstatymo 8 priedėlio „2002 metų Privatizavimo fondo lėšų sąmata“ skyriaus „III. Išlaidos“ 1 punkto eilutėje „gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti“ vietoj skaičiaus „43000“ įrašyti skaičių „76000“, eilutėje „Rezerviniam (stabilizavimo) fondui sudaryti“ vietoj skaičiaus „790400“ įrašyti skaičių „757400“ ir šias eilutes išdėstyti taip:
@@ -54,25 +59,25 @@ Rezerviniam (stabilizavimo) fondui sudaryti 757400“.
 
 
 
-### 3 straipsnis.         Įstatymo 9 priedėlio „2002 METŲ REZERVINIO (STABILIZAVIMO) FONDO LĖŠŲ SĄMATA“ pakeitimas
+### 3 straipsnis.         Įstatymo 9 priedėlio „2002 METŲ REZERVINIO (STABILIZAVIMO) FONDO LĖŠŲ SĄMATA“ pakeitimas ^s-449ece9b7cdf2833cad8a544
 
 
 Įstatymo 9 priedėlyje „2002 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“:
 
 
-1) skyriuje „II. Numatoma Rezervinio (stabilizavimo) fondo pajamų 2002 metais“ vietoj skaičiaus „860400“ įrašyti skaičių „827400“ ir šį skyrių išdėstyti taip: ^405c6216b8d0e4432d310839
+1) skyriuje „II. Numatoma Rezervinio (stabilizavimo) fondo pajamų 2002 metais“ vietoj skaičiaus „860400“ įrašyti skaičių „827400“ ir šį skyrių išdėstyti taip: ^s-b8a7582060ff09fbde7ff871
 
 
 „II. Numatoma Rezervinio (stabilizavimo) fondo pajamų 2002 metais 827400“;
 
 
-2) eilutėje „pajamos iš Privatizavimo fondo“ vietoj skaičiaus „790400“ įrašyti skaičių „757400“ ir šią eilutę išdėstyti taip: ^49c1f8dd180ed055f4f0ba4b
+2) eilutėje „pajamos iš Privatizavimo fondo“ vietoj skaičiaus „790400“ įrašyti skaičių „757400“ ir šią eilutę išdėstyti taip: ^s-d6997eeb681dbea8682a3fa7
 
 
 „pajamos iš Privatizavimo fondo 757400“;
 
 
-3) skyriuje „IV. Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę“ vietoj skaičiaus „1946514“ įrašyti skaičių „1913514“ ir šį skyrių išdėstyti taip: ^a3ff750d84c44094123dccc4
+3) skyriuje „IV. Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę“ vietoj skaičiaus „1946514“ įrašyti skaičių „1913514“ ir šį skyrių išdėstyti taip: ^s-58a76db40b4c3acd6dd06328
 
 
 „IV. Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę 1913514“.

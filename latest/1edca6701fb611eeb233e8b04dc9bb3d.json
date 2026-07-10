@@ -11,7 +11,7 @@
   "latest_revision": "2024-01-01",
   "latest_sha256": "468f5cf3a28cf5ebb5e2b2ecee6c62eace6ad694c62c463947b6fb091c6bddcb",
   "metadata_path": "latest/1edca6701fb611eeb233e8b04dc9bb3d.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymo Nr. XIV-1770 2 straipsnio pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

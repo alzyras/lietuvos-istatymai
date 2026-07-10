@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.52AEB2C9C6DF"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 57 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 57 straipsnio pakeitimo įstatymas"
+  - "Konstitucijos 57 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-08-14"
 latest_path: "latest/TAR.52AEB2C9C6DF.md"
 latest_sha256: "6f64bf467fb32325f2d99d1271921a60fb1eb17ead87678898e0a241e97ce4ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.52AEB2C9C6DF]]"
 ---
 # Lietuvos Respublikos Konstitucijos 57 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.52AEB2C9C6DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.52AEB2C9C6DF
+- Ryšiai: [[Ryšiai/TAR.52AEB2C9C6DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konstitucijos 57 straipsnio pakeitimas
+### 1 straipsnis. Konstitucijos 57 straipsnio pakeitimas ^s-bd4589f72a610a2d1ce0df7b
 
 
 Pakeisti Konstitucijos 57 straipsnį ir jį išdėstyti taip:

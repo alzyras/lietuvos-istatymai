@@ -11,7 +11,7 @@
   "latest_revision": "1997-10-30",
   "latest_sha256": "6933caaad56ead538b54f262e87bab2155cf75691e124177072593ee1e925456",
   "metadata_path": "latest/TAR.CC670E629DC2.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 2, 3, 4, 14, 17, 22, 24, 26, 28, 29, 30, 31, 35, 37, 40, 43, 46 straipsnių pakeitimo ir papildymo bei 32 straipsnio pripažinimo netekusiu galios įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

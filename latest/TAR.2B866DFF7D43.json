@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.2B866DFF7D43.md",
   "latest_revision": "2000-10-25",
-  "latest_sha256": "a5d2bef9aa65420dc19a9bbbca32d70b0d1d76972831c5f5260288c5bb0df5ec",
+  "latest_sha256": "c1e55633f4fd3bb46f87f81ba6acb65f82a31cc4428a7f98d1af033c7e371889",
   "metadata_path": "latest/TAR.2B866DFF7D43.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-09T22:35:03Z"
 }

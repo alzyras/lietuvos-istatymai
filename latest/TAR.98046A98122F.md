@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.98046A98122F"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-10"
 latest_path: "latest/TAR.98046A98122F.md"
 latest_sha256: "7ecc5ade81f712c78659f6b4dc930cf1baed24487f617b1ada548456fb458acd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.98046A98122F]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.98046A98122F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.98046A98122F
+- Ryšiai: [[Ryšiai/TAR.98046A98122F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas ^s-1da9045106991b429145b833
 
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:

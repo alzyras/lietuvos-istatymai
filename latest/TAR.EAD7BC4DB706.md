@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EAD7BC4DB706"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą pakeitimo įstatymo 1 straipsniu pakeisto mokesčio už aplinkos teršimą įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą pakeitimo įstatymo 1 straipsniu pakeisto mokesčio už aplinkos teršimą įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "mokesčio už aplinkos teršimą pakeitimo įstatymo 1 straipsniu pakeisto mokesčio už aplinkos teršimą įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-01"
 latest_path: "latest/TAR.EAD7BC4DB706.md"
 latest_sha256: "27e708c32cd058ab7a1aa824a3764e6d810cec3680e6f6d666402b34eb6e1300"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EAD7BC4DB706]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą pakeitimo įstatymo 1 straipsniu pakeisto mokesčio už aplinkos teršimą įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EAD7BC4DB706.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EAD7BC4DB706
+- Ryšiai: [[Ryšiai/TAR.EAD7BC4DB706|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies 3 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies 3 punkto pakeitimas ^s-3a818ed5ad3f60f6ddc0e200
 
 
 Pakeisti 5 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 5 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-2d9cd0a641dd49afb81704fc
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.

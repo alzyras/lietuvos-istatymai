@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DC11249FA767"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.DC11249FA767.md"
 latest_sha256: "b530d16c2afbd807aa533f5f8a63edfb60cc7997cee5b31be30f9a17e4a757d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DC11249FA767]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DC11249FA767.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DC11249FA767
+- Ryšiai: [[Ryšiai/TAR.DC11249FA767|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-ea172aa64e6e93f799b157c8
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:

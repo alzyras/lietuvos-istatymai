@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1154B67553EA"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 2, 5, 12, 34, 38-2, 41, 58 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 40-1 straipsniu ir IX-1 skyriumi įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 2, 5, 12, 34, 38-2, 41, 58 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 40-1 straipsniu ir IX-1 skyriumi įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 2, 5, 12, 34, 38-2, 41, 58 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 40-1 straipsniu ir IX-1 skyriumi įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-11"
 latest_path: "latest/TAR.1154B67553EA.md"
 latest_sha256: "974bc3503fa037deb41c3defccc04daf2168453dc8384de1f479499eefd59350"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1154B67553EA]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2, 5, 12, 34, 38-2, 41, 58 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 40-1 straipsniu ir IX-1 skyriumi įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1154B67553EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1154B67553EA
+- Ryšiai: [[Ryšiai/TAR.1154B67553EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 5 dalies pakeitimas ^s-044f4f373c41e38d2f4c8946
 
 
 Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -43,10 +48,10 @@ Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 „5. Žemės ūkio veiklą vykdančių vienetų, kooperatinių bendrovių (kooperatyvų), kuriems iki šio įstatymo 9 straipsnio nuostatų taikymo pradžios buvo taikomas 0 procentų pelno mokesčio tarifas, už 2009 metais prasidėjusį mokestinį laikotarpį apskaičiuotas apmokestinamasis pelnas apmokestinamas taikant 5 procentų pelno mokesčio tarifą. Šios dalies nuostatos žemės ūkio veiklą vykdantiems vienetams taikomos tik tuo atveju, jeigu per mokestinį laikotarpį daugiau kaip 50 procentų jų pajamų sudaro pajamos iš žemės ūkio veiklos. Šios dalies nuostatos kooperatinėms bendrovėms (kooperatyvams) taikomos tik tuo atveju, jeigu:
 
 
-1) per mokestinį laikotarpį daugiau kaip 50 procentų kooperatinės bendrovės (kooperatyvo) pajamų sudaro pajamos iš žemės ūkio veiklos arba ^b70144b01f8dd343c95e22f9
+1) per mokestinį laikotarpį daugiau kaip 50 procentų kooperatinės bendrovės (kooperatyvo) pajamų sudaro pajamos iš žemės ūkio veiklos arba ^s-faf45291cf52aee5b29c361c
 
 
-2) per mokestinį laikotarpį daugiau kaip 85 procentus kooperatinės bendrovės (kooperatyvo) pajamų sudaro pajamos iš žemės ūkio veiklos ir (arba) pajamos už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus ir (arba) savo nariams parduotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių žemės ūkio veikloje.“ ^82c5e4ad6b3053a543b16133
+2) per mokestinį laikotarpį daugiau kaip 85 procentus kooperatinės bendrovės (kooperatyvo) pajamų sudaro pajamos iš žemės ūkio veiklos ir (arba) pajamos už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus ir (arba) savo nariams parduotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių žemės ūkio veikloje.“ ^s-bbed12aa48847021597ddc42
 
 
 

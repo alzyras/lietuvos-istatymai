@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8411277FF14C"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo\" papildymo ir jo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo\" papildymo ir jo priedėlio pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo\" papildymo ir jo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-04-14"
 latest_path: "latest/TAR.8411277FF14C.md"
 latest_sha256: "b57095270ee62e3c6284e03f48b88c0266bde76c149615ad0063ca874d80a1fe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8411277FF14C]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo" papildymo ir jo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8411277FF14C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8411277FF14C
+- Ryšiai: [[Ryšiai/TAR.8411277FF14C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 4 dalimi
+### 1 straipsnis. Įstatymo papildymas 4 dalimi ^s-7cf5eecb9fefe825f047f717
 
 
 Papildyti Įstatymą 4 dalimi:
@@ -41,16 +46,16 @@ Papildyti Įstatymą 4 dalimi:
 
 
 
-### 2 straipsnis.         Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 1 straipsnio 1 ir 3 dalių pakeitimas
+### 2 straipsnis.         Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 1 straipsnio 1 ir 3 dalių pakeitimas ^s-f27c0afcfd4ba3224b97a43a
 
 
-1. Įstatymo priedėlio 1 straipsnio 1 dalyje vietoj žodžių „Lietuvos vystymo bankas yra akcinis investicijų bankas, steigiamas“ įrašyti žodžius „UAB Lietuvos vystymo bankas (toliau – Lietuvos vystymo bankas) yra akcinio kapitalo pagrindu veikianti įmonė, steigiama“ ir šią dalį išdėstyti taip: ^fbad0db2808095ea21301c47
+1. Įstatymo priedėlio 1 straipsnio 1 dalyje vietoj žodžių „Lietuvos vystymo bankas yra akcinis investicijų bankas, steigiamas“ įrašyti žodžius „UAB Lietuvos vystymo bankas (toliau – Lietuvos vystymo bankas) yra akcinio kapitalo pagrindu veikianti įmonė, steigiama“ ir šią dalį išdėstyti taip: ^s-26564bca99b1b7145d84f6ad
 
 
 „UAB Lietuvos vystymo bankas (toliau - Lietuvos vystymo bankas) yra akcinio kapitalo pagrindu veikianti įmonė, steigiama Lietuvos Respublikos Vyriausybės kartu su Europos rekonstrukcijos ir vystymo banku, suteikiant galimybę dalyvauti ir kitiems Lietuvos bei užsienio akcininkams.“
 
 
-2. Įstatymo priedėlio 1 straipsnio 3 dalyje po žodžio „lietuviškai –“ įrašyti žodį „UAB“, po žodžio „angliškai –“ įrašyti žodį „CSC“ ir šią dalį išdėstyti taip: ^669b125d77bd5ba74c9ba004
+2. Įstatymo priedėlio 1 straipsnio 3 dalyje po žodžio „lietuviškai –“ įrašyti žodį „UAB“, po žodžio „angliškai –“ įrašyti žodį „CSC“ ir šią dalį išdėstyti taip: ^s-9db8eb65f0a5979b994cede6
 
 
 „Lietuvos vystymo bankas yra juridinis asmuo, veikiantis nepriklausomai ir savarankiškai. Banko pavadinimas yra:
@@ -63,7 +68,7 @@ angliškai – CSC Lithuanian Development Bank (sutrumpintai – LDB).“
 
 
 
-### 3 straipsnis.         Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 8 straipsnio 1 dalies pakeitimas
+### 3 straipsnis.         Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 8 straipsnio 1 dalies pakeitimas ^s-65814924bdc089564e2b98f8
 
 
 Įstatymo priedėlio 8 straipsnio 1 dalyje vietoj žodžių „ekiu“ įrašyti žodžius „eurų“ ir šią dalį išdėstyti taip:

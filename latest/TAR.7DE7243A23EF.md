@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7DE7243A23EF"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo\" įgyvendinimo tvarkos"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo\" įgyvendinimo tvarkos"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-08"
 latest_path: "latest/TAR.7DE7243A23EF.md"
 latest_sha256: "2d48c1ce5b981976c4e5834a38a75cdc0bb4848ff3e83789fcf4a71ab7ddfaa8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7DE7243A23EF]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo" įgyvendinimo tvarkos
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7DE7243A23EF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7DE7243A23EF
+- Ryšiai: [[Ryšiai/TAR.7DE7243A23EF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

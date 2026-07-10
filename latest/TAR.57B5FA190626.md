@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.57B5FA190626"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos kariuomenės padalinių dalyvavimo tarptautinėse operacijose\" pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos kariuomenės padalinių dalyvavimo tarptautinėse operacijose\" pakeitimo ir papildymo įstatymas"
+  - "įstatymo \"Dėl Lietuvos kariuomenės padalinių dalyvavimo tarptautinėse operacijose\" pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-02"
 latest_path: "latest/TAR.57B5FA190626.md"
 latest_sha256: "872ca6e2fe24f14aa976a082ae94d097cb2eacde85e98fb4499c9884440acfd9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.57B5FA190626]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos kariuomenės padalinių dalyvavimo tarptautinėse operacijose" pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.57B5FA190626.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.57B5FA190626
+- Ryšiai: [[Ryšiai/TAR.57B5FA190626|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,17 +36,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio antrosios dalies pakeitimas
+### 1 straipsnis. 2 straipsnio antrosios dalies pakeitimas ^s-6333a0a0b7dcd1c5baf586ab
 
 
-Pakeisti [[#2 straipsnis. 7 straipsnio pakeitimas ir sujungimas su 8 straipsniu|2 straipsnio]] antrąją dalį ir ją išdėstyti taip:
+Pakeisti [[#^s-e2ea383e58326d2a9007cf44|2 straipsnio]] antrąją dalį ir ją išdėstyti taip:
 
 
 „Kariai į padalinį priimami savanoriškumo principu, sudarydami tikrosios krašto apsaugos tarnybos sutartį ir dalyvavimo tarptautinėse operacijose sutartį. Dalyvavimo tarptautinėse operacijose sutarties sąlygas nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas ir sujungimas su 8 straipsniu
+### 2 straipsnis. 7 straipsnio pakeitimas ir sujungimas su 8 straipsniu ^s-e2ea383e58326d2a9007cf44
 
 
 Pakeisti 7 straipsnį, sujungti jį su 8 straipsniu ir visą straipsnį išdėstyti taip:
@@ -54,14 +59,14 @@ Sprendimus surengti Lietuvos Respublikos teritorijoje Lietuvos kariuomenės pada
 
 
 
-### 3 straipsnis. 9, 10 ir 11 straipsnių pernumeravimas
+### 3 straipsnis. 9, 10 ir 11 straipsnių pernumeravimas ^s-09c4f6edc38326fa552f4680
 
 
 Įstatymo 9, 10 ir 11 straipsnius atitinkamai laikyti 8, 9 ir 10 straipsniais.
 
 
 
-### 4 straipsnis. 8 straipsnio pavadinimo pakeitimas ir straipsnio papildymas
+### 4 straipsnis. 8 straipsnio pavadinimo pakeitimas ir straipsnio papildymas ^s-c17a7659650e3a8b399203e7
 
 
 Pakeisti 8 straipsnio pavadinimą, papildyti straipsnį antruoju sakiniu ir visą straipsnį išdėstyti taip:

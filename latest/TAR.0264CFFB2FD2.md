@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0264CFFB2FD2"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 5 ir 17 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 5 ir 17 straipsnių pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 5 ir 17 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-08-04"
 latest_path: "latest/TAR.0264CFFB2FD2.md"
 latest_sha256: "0132158b5c78a1e42cc0651e3735468906125817d9f0ba672dba4f7b7772ddd5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0264CFFB2FD2]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 5 ir 17 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0264CFFB2FD2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0264CFFB2FD2
+- Ryšiai: [[Ryšiai/TAR.0264CFFB2FD2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies 2 punkto pakeitimas ^s-4d2b2ef7479ce63dc1affd83
 
 
 Pakeisti 5 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
@@ -43,23 +48,23 @@ Pakeisti 5 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-9cca2951ead99602b2d324c9
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Leidžiami atskaitymai yra visos faktiškai patirtos įprastinės tokiai veiklai vieneto sąnaudos, būtinos vieneto pajamoms uždirbti ar vieneto ekonominei naudai gauti, jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams priskiriami Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės papildomi atskaitymai. Vieneto (individualios įmonės, tikrosios ūkinės bendrijos, komanditinės ūkinės bendrijos) leidžiamiems atskaitymams taip pat priskiriama suma, nuo kurios pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nuostatas skaičiuojamos ir mokamos vieneto dalyvio (individualios įmonės savininko, tikrosios ūkinės bendrijos tikrojo nario, komanditinės ūkinės bendrijos tikrojo nario) valstybinio socialinio draudimo įmokos.“
+„1. Leidžiami atskaitymai yra visos faktiškai patirtos įprastinės tokiai veiklai vieneto sąnaudos, būtinos vieneto pajamoms uždirbti ar vieneto ekonominei naudai gauti, jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams priskiriami Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės papildomi atskaitymai. Vieneto (individualios įmonės, tikrosios ūkinės bendrijos, komanditinės ūkinės bendrijos) leidžiamiems atskaitymams taip pat priskiriama suma, nuo kurios pagal [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] nuostatas skaičiuojamos ir mokamos vieneto dalyvio (individualios įmonės savininko, tikrosios ūkinės bendrijos tikrojo nario, komanditinės ūkinės bendrijos tikrojo nario) valstybinio socialinio draudimo įmokos.“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-0a35ccb75baafd741471b3f6
 
 
-1. Šio įstatymo [[#1 straipsnis. 5 straipsnio 1 dalies 2 punkto pakeitimas|1 straipsnis]] įsigalioja 2010 m. sausio 1 d. ^6018c89f1ce73a79e6bdd6b2
+1. Šio įstatymo [[#^s-4d2b2ef7479ce63dc1affd83|1 straipsnis]] įsigalioja 2010 m. sausio 1 d. ^s-f122de28b2ff72e07205d86b
 
 
-2. Šio įstatymo [[#2 straipsnis. 17 straipsnio 1 dalies pakeitimas|2 straipsnio]] nuostatos taikomos apskaičiuojant 2010 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių pelno mokestį. ^06bd172485b07ae0c730b5f0
+2. Šio įstatymo [[#^s-9cca2951ead99602b2d324c9|2 straipsnio]] nuostatos taikomos apskaičiuojant 2010 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių pelno mokestį. ^s-77764902007992b9c4d85507
 
 
 

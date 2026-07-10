@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1AFC9AF000A6"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-17"
 latest_path: "latest/TAR.1AFC9AF000A6.md"
 latest_sha256: "4c1e2d90801399f04d04fef67ed6d32e9fcc50cbdde2ae6adaab7a9e52bc449f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1AFC9AF000A6]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1AFC9AF000A6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1AFC9AF000A6
+- Ryšiai: [[Ryšiai/TAR.1AFC9AF000A6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-73f0c080f0c2d6af96ce1a87
 
 
 2 straipsnio 1 dalyje po žodžio „įstatymą“ išbraukti žodį „bei“, vietoj žodžių „vietos savivaldos“ įrašyti žodį „savivaldybių“, po žodžio „įgaliojimus“ įrašyti žodžius „taip pat asmenys, dirbantys valstybės ir savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo įgaliojimus, bei asmenys, dirbantys viešosiose įstaigose, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų bei fondų, ir turintys administravimo įgaliojimus“ ir šią dalį išdėstyti taip:

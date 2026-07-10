@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE3B2103AC1C"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 48 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 48 straipsnio pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo 48 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-08-03"
 latest_path: "latest/TAR.DE3B2103AC1C.md"
 latest_sha256: "b17e5ac443f80ebe64bccb983ea94b0b54184fa090f37732cdd764638c073750"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE3B2103AC1C]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 48 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE3B2103AC1C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE3B2103AC1C
+- Ryšiai: [[Ryšiai/TAR.DE3B2103AC1C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 48 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 48 straipsnio 4 dalies pakeitimas ^s-9fd5ce19bd9eda48099d91fd
 
 
 48 straipsnio 4 dalyje vietoj skaičiaus „12“ įrašyti skaičių „13“, po žodžių „Lietuvos katalikų bažnyčios Vyskupų konferencija“ įrašyti žodžius „Lietuvos periodinės spaudos leidėjų asociacija“ ir šią dalį išdėstyti taip:

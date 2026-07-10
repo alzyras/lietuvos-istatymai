@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "a5e27cf0692d11eabee4a336e7e6fdab"
 pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsnių pakeitimo įstatymas"
+  - "viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2020-03-19"
 latest_path: "latest/a5e27cf0692d11eabee4a336e7e6fdab.md"
 latest_sha256: "f2ccb43e99be29b5b00b1cac3b9200e70f98260103a0f7caa51245ef80e95d36"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/a5e27cf0692d11eabee4a336e7e6fdab]]"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/a5e27cf0692d11eabee4a336e7e6fdab.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/a5e27cf0692d11eabee4a336e7e6fdab
+- Ryšiai: [[Ryšiai/a5e27cf0692d11eabee4a336e7e6fdab|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 46 straipsnio pakeitimas
+### 1 straipsnis. 46 straipsnio pakeitimas ^s-bc47d2c031eb601cc0129774
 
 
 Pakeisti 46 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 46 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 72 straipsnio pakeitimas
+### 2 straipsnis. 72 straipsnio pakeitimas ^s-661f8ea8cecf812433d6c1d3
 
 
 Pakeisti 72 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -52,7 +57,7 @@ Pakeisti 72 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-2f44a8e375412c87211c8e2b
 
 
 Iki šio įstatymo įsigaliojimo pradėtoms pirkimų procedūroms taikomos šio įstatymo nuostatos.

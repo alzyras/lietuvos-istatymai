@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.58475E9E39D7"
 pavadinimas: "Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-10-06"
 latest_path: "latest/TAR.58475E9E39D7.md"
 latest_sha256: "28274310427d437fc9ad18cb9123f6f74d37ed96bd3a9093e1dc5b6552e94df8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.58475E9E39D7]]"
 ---
 # Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.58475E9E39D7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.58475E9E39D7
+- Ryšiai: [[Ryšiai/TAR.58475E9E39D7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-32aeb438483b719da3b4a9a3
 
 
 2 straipsnio 1 dalį papildyti žodžiais „ar kitais šio įstatymo nustatytais atvejais“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 4 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 5 dalies pakeitimas ^s-f714b4a487f22a211c677f26
 
 
 4 straipsnio 5 dalį papildyti žodžiais „bei civilinės saugos treniruotėms ir pratyboms“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 13 straipsnio papildymas 8 dalimi
+### 3 straipsnis. 13 straipsnio papildymas 8 dalimi ^s-a9e814786c10e59bdc3484a7
 
 
 Papildyti 13 straipsnį 8 dalimi:

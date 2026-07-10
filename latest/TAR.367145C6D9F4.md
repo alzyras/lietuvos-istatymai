@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.367145C6D9F4"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 25, 29, 30 ir 31 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 25, 29, 30 ir 31 straipsnių pakeitimo įstatymas"
+  - "akcizų įstatymo 25, 29, 30 ir 31 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.367145C6D9F4.md"
 latest_sha256: "6eaa040bdcfd938314b7824a3d88f9b0f1dd3b9ffcb895fd821813fc310095f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.367145C6D9F4]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 25, 29, 30 ir 31 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.367145C6D9F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.367145C6D9F4
+- Ryšiai: [[Ryšiai/TAR.367145C6D9F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 25 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 25 straipsnio 2 dalies pakeitimas ^s-007f175b8b775611348da40f
 
 
-25 straipsnio 2 dalies 1 punkte vietoj skaičiaus „42,6“ įrašyti skaičių „47,5“, [[#^16127be6f0f91baf9279cd0d|2 punkte]] vietoj skaičiaus „10“ įrašyti skaičių „15“ ir šią dalį išdėstyti taip:
+25 straipsnio 2 dalies 1 punkte vietoj skaičiaus „42,6“ įrašyti skaičių „47,5“, [[#^s-5c3e77850aba86b0526f7a9c|2 punkte]] vietoj skaičiaus „10“ įrašyti skaičių „15“ ir šią dalį išdėstyti taip:
 
 
 „2. Cigaretėms taikomas toks akcizo tarifas:
 
 
-1) specifinis elementas – 47,5 lito ir ^cd772ebde8d586419ae42f48
+1) specifinis elementas – 47,5 lito ir ^s-533629602ebe17362ab44be0
 
 
-2) vertybinis elementas –15 procentų.“ ^16127be6f0f91baf9279cd0d
+2) vertybinis elementas –15 procentų.“ ^s-5c3e77850aba86b0526f7a9c
 
 
 
-### 2 straipsnis. 29 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 29 straipsnio 1 dalies pakeitimas ^s-d189368776f4ebbc990492fd
 
 
 29 straipsnio 1 dalyje vietoj skaičiaus „1250“ įrašyti skaičių „1318“ ir šią dalį išdėstyti taip:
@@ -57,7 +62,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 30 straipsnio pakeitimas
+### 3 straipsnis. 30 straipsnio pakeitimas ^s-3746c12aaa18259d5332b57c
 
 
 30 straipsnyje vietoj skaičiaus „720“ įrašyti skaičių „1002“ ir šį straipsnį išdėstyti taip:
@@ -70,7 +75,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 31 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 31 straipsnio 1 dalies pakeitimas ^s-a336b03492b1ba03be4e1fc9
 
 
 31 straipsnio 1 dalyje vietoj skaičiaus „860“ įrašyti skaičių „1002“ ir šią dalį išdėstyti taip:
@@ -80,7 +85,7 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-67bf98825be184ed40644f94
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.

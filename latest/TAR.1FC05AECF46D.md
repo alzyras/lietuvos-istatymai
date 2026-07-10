@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1FC05AECF46D"
 pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės reformos įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "žemės reformos įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-27"
 latest_path: "latest/TAR.1FC05AECF46D.md"
 latest_sha256: "4655445b4335c767f33ee98cc7f1fe6c979c573750e425fa5dd589393ead78f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1FC05AECF46D]]"
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1FC05AECF46D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1FC05AECF46D
+- Ryšiai: [[Ryšiai/TAR.1FC05AECF46D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 4 punkto pakeitimas
+### 1 straipsnis. 13 straipsnio 4 punkto pakeitimas ^s-720c2499769ae6078c9beb76
 
 
 Pakeisti 13 straipsnio 4 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 13 straipsnio 4 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-a90cc5ec20195f2bbc7141a4
 
 
 Lietuvos Respublikos Vyriausybė iki 2012 m. birželio 1 d. parengia ir priima teisės aktus, reglamentuojančius parduodamos valstybinės žemės sklypų įvertinimo tvarką, kuri atitinka valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo principus ir pagal kurią parduodamų valstybinės žemės sklypų, išskyrus namų valdų, mėgėjų sodo teritorijų, garažų statybos ir eksploatavimo bendrijų garažų, individualių garažų valstybinius žemės sklypus, vertė būtų nustatoma ne mažesnė negu rinkos kaina.

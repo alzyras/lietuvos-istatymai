@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4D087A84F0A"
 pavadinimas: "Lietuvos Respublikos Prezidento įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Prezidento įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "Prezidento įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-06-24"
 latest_path: "latest/TAR.B4D087A84F0A.md"
 latest_sha256: "faf2cf9fd85f21d667948c13bb39b58d7a330d804a53edb7c16a807f831199e6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4D087A84F0A]]"
 ---
 # Lietuvos Respublikos Prezidento įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4D087A84F0A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4D087A84F0A
+- Ryšiai: [[Ryšiai/TAR.B4D087A84F0A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 16 straipsnio 1 dalies 3 punkto pakeitimas ^s-90c09b63f0f6ae3297486387
 
 
 16 straipsnio 1 dalies 3 punkte vietoj žodžių „Ministras Pirmininkas“ įrašyti žodžius „krašto apsaugos ministras“ ir šį punktą išdėstyti taip:

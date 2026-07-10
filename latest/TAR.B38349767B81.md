@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B38349767B81"
 pavadinimas: "Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-27"
 latest_path: "latest/TAR.B38349767B81.md"
 latest_sha256: "add334c1d70efe3dde1251d92786f0ffe144d2f0e8e7326534c8d08dd34b3916"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B38349767B81]]"
 ---
 # Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B38349767B81.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B38349767B81
+- Ryšiai: [[Ryšiai/TAR.B38349767B81|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 7 dalies pakeitimas ^s-3f13fe3ac95150d2b6f2e36b
 
 
 Pakeisti 7 straipsnio 7 dalį ir ją išdėstyti taip:

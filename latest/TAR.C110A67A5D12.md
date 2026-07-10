@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C110A67A5D12"
 pavadinimas: "Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pertvarkymo į Lietuvos Respublikos pramonės ir prekybos ministeriją"
+aliases:
+  - "Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pertvarkymo į Lietuvos Respublikos pramonės ir prekybos ministeriją"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-09-01"
 latest_path: "latest/TAR.C110A67A5D12.md"
 latest_sha256: "6f5b123cc991d441e39cdcd6fac158527090330237a22f19dd3c3ff1a4a4fd00"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C110A67A5D12]]"
 ---
 # Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pertvarkymo į Lietuvos Respublikos pramonės ir prekybos ministeriją
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C110A67A5D12.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C110A67A5D12
+- Ryšiai: [[Ryšiai/TAR.C110A67A5D12|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -64,4 +68,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-486, 1994-05-31, Žin., 1994, Nr. 43-773 (1994-06-08), i. k. [[latest/TAR.F8F36D253EB1|0941010ISTA000I-486]]
-Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
+[[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]]

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.37B0F5222C44"
 pavadinimas: "Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "Seimo laikinųjų tyrimo komisijų įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-11-13"
 latest_path: "latest/TAR.37B0F5222C44.md"
 latest_sha256: "99b8be34bd3bed6f8419480e1b3b16fda9ab6cfb8a59ef3291ca62df60856e09"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.37B0F5222C44]]"
 ---
 # Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.37B0F5222C44.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.37B0F5222C44
+- Ryšiai: [[Ryšiai/TAR.37B0F5222C44|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas ^s-07c18b9ac3c6495df05f6e60
 
 
 Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.597A65063D0A"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas"
+  - "užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-05-05"
 latest_path: "latest/TAR.597A65063D0A.md"
 latest_sha256: "206c5a4a947f4d2c8959266cfb080f653853e7ba2a806753511e6846c26c6707"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.597A65063D0A]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.597A65063D0A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.597A65063D0A
+- Ryšiai: [[Ryšiai/TAR.597A65063D0A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-5fdddd0689c1a80a08a939d3
 
 
 3 straipsnio 1 dalyje po žodžių „laisvosiose ekonominėse zonose“ įrašyti žodžius „tarp zonos įmonių“ ir šią dalį išdėstyti taip:

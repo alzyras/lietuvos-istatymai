@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.D570962773F8.md",
   "latest_revision": "1997-07-16",
-  "latest_sha256": "a01c1b456ff7cbe1a8b84f99607cf9ee2749bf4d472ebff4aa21d3a33af2c628",
+  "latest_sha256": "7cb0243d20c58937b26f3c1aebf8ebf8f3ca262f53d853ed18fd0645941079a5",
   "metadata_path": "latest/TAR.D570962773F8.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos atmintinų dienų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

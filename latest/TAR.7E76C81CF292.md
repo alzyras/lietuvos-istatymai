@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7E76C81CF292"
 pavadinimas: "Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje ratifikavimo įstatymas"
+  - "Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-12"
 latest_path: "latest/TAR.7E76C81CF292.md"
 latest_sha256: "396b859f39c45a208ea9e679d5b8bdff3bd6a6b562eb421a30ce92e3780e274b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7E76C81CF292]]"
 ---
 # Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7E76C81CF292.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7E76C81CF292
+- Ryšiai: [[Ryšiai/TAR.7E76C81CF292|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-bd0efad0861e616ce57b2b4e
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą Nr. 1071, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje, pasirašytą 2000 m. vasario 18 d. Taline.

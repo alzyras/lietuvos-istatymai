@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CEFB2B895E9C"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 ir 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 ir 11 straipsnių pakeitimo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 ir 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.CEFB2B895E9C.md"
 latest_sha256: "ed7ec66f13584bf36d9fec0db8e9ee8fcfcefeccc36e3621af7fc464ac83d4ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CEFB2B895E9C]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 ir 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CEFB2B895E9C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CEFB2B895E9C
+- Ryšiai: [[Ryšiai/TAR.CEFB2B895E9C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-29da81f250a7c89e2ced1ec9
 
 
 2 straipsnio 5 dalyje vietoj skaičiaus „305“ įrašyti skaičių „248“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio 6 dalies pakeitimas
+### 2 straipsnis. 11 straipsnio 6 dalies pakeitimas ^s-8bdbef29e8beac8444402363
 
 
 11 straipsnio 6 dalyje vietoj žodžių „tardytojams, kvotėjams“ įrašyti žodžius „ikiteisminio tyrimo pareigūnams“ ir šią dalį išdėstyti taip:
@@ -51,10 +56,10 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-eb895831a1f3d8c6e5d48015
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

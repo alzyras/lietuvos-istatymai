@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.959A70430703"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17, 22 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17, 22 straipsnių papildymo ir pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17, 22 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-24"
 latest_path: "latest/TAR.959A70430703.md"
 latest_sha256: "973f242211fbfb325e88fa8292044be188eb23466d2965d5e810f63e6e979fd1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.959A70430703]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17, 22 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.959A70430703.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.959A70430703
+- Ryšiai: [[Ryšiai/TAR.959A70430703|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,27 +38,27 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies papildymas 55 punktu
+### 1 straipsnis. 17 straipsnio 1 dalies papildymas 55 punktu ^s-af632951da48199675b1f106
 
 
 Papildyti 17 straipsnio 1 dalį 55 punktu:
 
 
-„55) 6 000 litų per mokestinį laikotarpį neviršijančios pajamos, gautos kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas.“
+„55) 6 000 litų per mokestinį laikotarpį neviršijančios pajamos, gautos kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato [[latest/TAR.8E6142CD3156|Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas]].“
 
 
 
-### 2 straipsnis. 22 straipsnio 2 dalies 1 punkto pakeitimas
+### 2 straipsnis. 22 straipsnio 2 dalies 1 punkto pakeitimas ^s-5f2d451268e8ec3c81a7d8a5
 
 
 Pakeisti 22 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
-„1) iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos pajamos, išskyrus azartinių lošimų ir loterijų laimėjimus, pajamas, gautas kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, neribotos civilinės atsakomybės vieneto dalyvio, kuris yra nuolatinis Lietuvos gyventojas, pajamas, gautas iš šio neribotos civilinės atsakomybės vieneto, mažosios bendrijos nario, kuris yra nuolatinis Lietuvos gyventojas, pajamas, gautas iš šios mažosios bendrijos, ir šiame punkte nenurodytas individualios veiklos pajamas, taip pat šiame punkte nenurodytas pajamas iš ne individualios veiklos turto ir individualios veiklos turtui priskirto nekilnojamojo pagal prigimtį daikto pardavimo ar kitokio perleidimo nuosavybėn. Iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos sporto veiklos, atlikėjo veiklos pajamos, kitos veiklos pajamos, kurias gyventojui išmoka su juo darbo santykiais ar jų esmę atitinkančiais santykiais susijęs asmuo, nenuolatinių Lietuvos gyventojų pajamos, gautos už parduotą ar kitaip perleistą nuosavybėn nekilnojamąjį daiktą, esantį Lietuvoje, arba kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, bei gyventojų individualios ir ne individualios veiklos pajamos už parduotą arba kitaip perleistą nuosavybėn nenukirstą mišką, apvaliąją medieną, netauriųjų metalų laužą taip pat priskiriamos A klasės pajamoms ir“.
+„1) iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos pajamos, išskyrus azartinių lošimų ir loterijų laimėjimus, pajamas, gautas kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato [[latest/TAR.8E6142CD3156|Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas]], neribotos civilinės atsakomybės vieneto dalyvio, kuris yra nuolatinis Lietuvos gyventojas, pajamas, gautas iš šio neribotos civilinės atsakomybės vieneto, mažosios bendrijos nario, kuris yra nuolatinis Lietuvos gyventojas, pajamas, gautas iš šios mažosios bendrijos, ir šiame punkte nenurodytas individualios veiklos pajamas, taip pat šiame punkte nenurodytas pajamas iš ne individualios veiklos turto ir individualios veiklos turtui priskirto nekilnojamojo pagal prigimtį daikto pardavimo ar kitokio perleidimo nuosavybėn. Iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos sporto veiklos, atlikėjo veiklos pajamos, kitos veiklos pajamos, kurias gyventojui išmoka su juo darbo santykiais ar jų esmę atitinkančiais santykiais susijęs asmuo, nenuolatinių Lietuvos gyventojų pajamos, gautos už parduotą ar kitaip perleistą nuosavybėn nekilnojamąjį daiktą, esantį Lietuvoje, arba kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, bei gyventojų individualios ir ne individualios veiklos pajamos už parduotą arba kitaip perleistą nuosavybėn nenukirstą mišką, apvaliąją medieną, netauriųjų metalų laužą taip pat priskiriamos A klasės pajamoms ir“.
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-0124b956002ad97006b97e2f
 
 
 Šis įstatymas taikomas apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių laikotarpių pajamas.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB0B936EC372"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-11"
 latest_path: "latest/TAR.FB0B936EC372.md"
 latest_sha256: "dc82a16451ffe7b0596bab355f1cff188e71284bbbed6448a1a59f993558c917"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB0B936EC372]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB0B936EC372.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB0B936EC372
+- Ryšiai: [[Ryšiai/TAR.FB0B936EC372|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-c346adc22b3c89ac9505b55f
 
 
 1 straipsnio 3 dalyje po žodžių „investicinių fondų valdymo įmonių“ įrašyti žodžius „reguliuojamos rinkos operatoriaus, Lietuvos centrinio vertybinių popierių depozitoriumo“ ir šią dalį išdėstyti taip:

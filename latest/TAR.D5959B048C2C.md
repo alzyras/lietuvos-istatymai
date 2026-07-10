@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D5959B048C2C"
 pavadinimas: "Lietuvos Respublikos akcinės bendrovės \"Alytaus tekstilė\" akcijų įsigijimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinės bendrovės \"Alytaus tekstilė\" akcijų įsigijimo įstatymas"
+  - "akcinės bendrovės \"Alytaus tekstilė\" akcijų įsigijimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-09-10"
 latest_path: "latest/TAR.D5959B048C2C.md"
 latest_sha256: "6c270f1b00869b9f639403ad75acdf043b11172e0cc71c9a68303bda2f917f6b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D5959B048C2C]]"
 ---
 # Lietuvos Respublikos akcinės bendrovės "Alytaus tekstilė" akcijų įsigijimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D5959B048C2C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D5959B048C2C
+- Ryšiai: [[Ryšiai/TAR.D5959B048C2C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,54 +44,54 @@ priima šį Įstatymą.
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-4903c7e1d14bfa3d8370b865
 
 
-1. Šio Įstatymo paskirtis – suteikti Vyriausybei teisę organizuoti ir atlikti valstybės turto investavimą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms įsigyti iš fizinių ir (ar) privačių juridinių asmenų bei nustatyti šio investavimo sąlygas, kad valstybei nuosavybės teise priklausytų akcinės bendrovės „Alytaus tekstilė“ akcijų paketas, suteikiantis daugiau kaip 1/2 balsų šios bendrovės visuotiniame akcininkų susirinkime. ^d91ad552a22822f43fe8e5c1
+1. Šio Įstatymo paskirtis – suteikti Vyriausybei teisę organizuoti ir atlikti valstybės turto investavimą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms įsigyti iš fizinių ir (ar) privačių juridinių asmenų bei nustatyti šio investavimo sąlygas, kad valstybei nuosavybės teise priklausytų akcinės bendrovės „Alytaus tekstilė“ akcijų paketas, suteikiantis daugiau kaip 1/2 balsų šios bendrovės visuotiniame akcininkų susirinkime. ^s-53c016077157308c0ea50a1a
 
 
-2. Šiame Įstatyme reglamentuojamiems teisiniams santykiams netaikomas Valstybės turto fondo įstatymo 5 straipsnio 1 dalies 5 punktas. ^cce18d73b6bf81a6308459fc
-
-
-
-### 2 straipsnis. Teisė investuoti valstybės turtą
-
-
-Vyriausybė turi teisę investuoti valstybės turtą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms, priklausančioms fiziniams ir (ar) privatiems juridiniams asmenims, įsigyti valstybės nuosavybėn šio Įstatymo [[#3 straipsnis. Valstybės turto investavimo sąlygos|3 straipsnyje]] nurodytomis sąlygomis.
+2. Šiame Įstatyme reglamentuojamiems teisiniams santykiams netaikomas Valstybės turto fondo įstatymo 5 straipsnio 1 dalies 5 punktas. ^s-43da2c28e7196c93d5a9a3c2
 
 
 
-### 3 straipsnis. Valstybės turto investavimo sąlygos
+### 2 straipsnis. Teisė investuoti valstybės turtą ^s-a203b617235cccec0e85f201
 
 
-1. Akcinės bendrovės „Alytaus tekstilė“ paprastosios vardinės akcijos įsigyjamos su fiziniais ir (ar) privačiais juridiniais asmenimis sudarant akcijų pirkimo-pardavimo sutartis. ^f2f64ba1ff8889391f74b5c4
+Vyriausybė turi teisę investuoti valstybės turtą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms, priklausančioms fiziniams ir (ar) privatiems juridiniams asmenims, įsigyti valstybės nuosavybėn šio Įstatymo [[#^s-2f1b92684c7b471eb3d2eaff|3 straipsnyje]] nurodytomis sąlygomis.
 
 
-2. Įsigyjama ne mažiau kaip 40 566 190 akcinės bendrovės „Alytaus tekstilė“ paprastųjų vardinių akcijų. ^5be3b2d8afb8a83370538eca
+
+### 3 straipsnis. Valstybės turto investavimo sąlygos ^s-2f1b92684c7b471eb3d2eaff
 
 
-3. Įsigyjamų akcijų kaina nustatoma derybomis, atsižvelgiant į šio Įstatymo preambulėje nurodytus tikslus. ^966a1873fd5702a45e99f373
+1. Akcinės bendrovės „Alytaus tekstilė“ paprastosios vardinės akcijos įsigyjamos su fiziniais ir (ar) privačiais juridiniais asmenimis sudarant akcijų pirkimo-pardavimo sutartis. ^s-f7f0bf3203088ab7b3e0cb26
 
 
-4. Akcijoms įsigyti investuojama ne daugiau kaip vienas milijonas litų, neskaitant išlaidų, reikalingų privalomam oficialiam pasiūlymui pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą įgyvendinti. ^6f1d0e57f102ccd633ac2c7a
+2. Įsigyjama ne mažiau kaip 40 566 190 akcinės bendrovės „Alytaus tekstilė“ paprastųjų vardinių akcijų. ^s-e6b76ace16c36a5520c4593b
 
 
-5. Vyriausybė turi teisę, atsižvelgdama į akcinės bendrovės „Alytaus tekstilė“ akcijas parduodančių fizinių ir (ar) privačių juridinių asmenų pasiūlytas sąlygas, priimti sprendimus dėl pirkimo-pardavimo sutarčių kitų sąlygų, įskaitant šias: ^fb77a5336bf73203189c583a
+3. Įsigyjamų akcijų kaina nustatoma derybomis, atsižvelgiant į šio Įstatymo preambulėje nurodytus tikslus. ^s-0fdf6b60755188a619bfb7fe
 
 
-1) dėl prievolių pagal akcinės bendrovės „Alytaus tekstilė“ 4 969 877 akcijų paketo pirkimo-pardavimo sutartį, valstybės įmonės Valstybės turto fondo ir Asean Interests Limited pasirašytą 1998 m. rugsėjo 29 d. (atsižvelgiant į visus šios sutarties pakeitimus), pabaigos rašytiniu šalių susitarimu; ^c627f0aafcef4cee602cc8d6
+4. Akcijoms įsigyti investuojama ne daugiau kaip vienas milijonas litų, neskaitant išlaidų, reikalingų privalomam oficialiam pasiūlymui pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą įgyvendinti. ^s-1b519f69f97323fa5b4cf60b
 
 
-2) dėl atleidimo nuo visų ar dalies prievolių, atsiradusių pagal [[#^c627f0aafcef4cee602cc8d6|šios dalies 1 punkte]] nurodytą sutartį, įvykdymo. ^28b53d0394695d22dddabc16
+5. Vyriausybė turi teisę, atsižvelgdama į akcinės bendrovės „Alytaus tekstilė“ akcijas parduodančių fizinių ir (ar) privačių juridinių asmenų pasiūlytas sąlygas, priimti sprendimus dėl pirkimo-pardavimo sutarčių kitų sąlygų, įskaitant šias: ^s-e5194a8249f02f34c909dad4
 
 
-### 4 straipsnis. Įstatymo įgyvendinimo tvarka
+1) dėl prievolių pagal akcinės bendrovės „Alytaus tekstilė“ 4 969 877 akcijų paketo pirkimo-pardavimo sutartį, valstybės įmonės Valstybės turto fondo ir Asean Interests Limited pasirašytą 1998 m. rugsėjo 29 d. (atsižvelgiant į visus šios sutarties pakeitimus), pabaigos rašytiniu šalių susitarimu; ^s-8b7c74b866a55e6eb158906c
 
 
-1. Sprendimą dėl akcinės bendrovės „Alytaus tekstilė“ akcijų pirkimo-pardavimo sutarčių, nurodytų šio Įstatymo [[#^f2f64ba1ff8889391f74b5c4|3 straipsnio 1 dalyje]], sudarymo priima Vyriausybė. Vyriausybei pritarus šių sutarčių projektams, jas su fiziniais ir (ar) privačiais juridiniais asmenimis pasirašo valstybės įmonė Valstybės turto fondas. ^3f4713b56252bb2aa9ddbe82
+2) dėl atleidimo nuo visų ar dalies prievolių, atsiradusių pagal [[#^s-8b7c74b866a55e6eb158906c|šios dalies 1 punkte]] nurodytą sutartį, įvykdymo. ^s-7185f8f43b10380b860f20fe
 
 
-2. Lėšos akcinės bendrovės „Alytaus tekstilė“ akcijoms įsigyti bei privalomam oficialiam pasiūlymui pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą įgyvendinti naudojamos iš asignavimų, skirtų Ūkio ministerijai pagal Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą. ^1e5a59b24231b3b78d5730dd
+### 4 straipsnis. Įstatymo įgyvendinimo tvarka ^s-5712cdcf12160612b3965bcf
+
+
+1. Sprendimą dėl akcinės bendrovės „Alytaus tekstilė“ akcijų pirkimo-pardavimo sutarčių, nurodytų šio Įstatymo [[#^s-f7f0bf3203088ab7b3e0cb26|3 straipsnio 1 dalyje]], sudarymo priima Vyriausybė. Vyriausybei pritarus šių sutarčių projektams, jas su fiziniais ir (ar) privačiais juridiniais asmenimis pasirašo valstybės įmonė Valstybės turto fondas. ^s-f4cbcf666cfe09cabf2ba880
+
+
+2. Lėšos akcinės bendrovės „Alytaus tekstilė“ akcijoms įsigyti bei privalomam oficialiam pasiūlymui pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą įgyvendinti naudojamos iš asignavimų, skirtų Ūkio ministerijai pagal Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą. ^s-5b11fd509ff78a210d7bbb10
 
 
 

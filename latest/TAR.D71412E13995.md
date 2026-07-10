@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D71412E13995"
 pavadinimas: "Lietuvos Respublikos statybos įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos statybos įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "statybos įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.D71412E13995.md"
 latest_sha256: "d31c7d5866382d53a8c644d877bd3bfb26c1c5d3ffd1924889497f243bea7acf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D71412E13995]]"
 ---
 # Lietuvos Respublikos statybos įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D71412E13995.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D71412E13995
+- Ryšiai: [[Ryšiai/TAR.D71412E13995|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 15 dalies 6 punkto pakeitimas
+### 1 straipsnis. 23 straipsnio 15 dalies 6 punkto pakeitimas ^s-c3025bcbe28a0622f2751250
 
 
 Pakeisti 23 straipsnio 15 dalies 6 punktą ir jį išdėstyti taip:
@@ -44,13 +49,13 @@ Pakeisti 23 straipsnio 15 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-1db7dd1ee72d65b92c18dd2c
 
 
-1. Šis įstatymas, išskyrus [[#^2fa035c93539d3fcb069103c|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d. ^56d0eaed10773a0c535140bf
+1. Šis įstatymas, išskyrus [[#^s-3d50bb8e524055404764bdd9|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d. ^s-a474d921e756e81c9502bbd8
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^2fa035c93539d3fcb069103c
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-3d50bb8e524055404764bdd9
 
 
 

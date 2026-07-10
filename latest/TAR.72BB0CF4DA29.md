@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.72BB0CF4DA29"
 pavadinimas: "Dėl kai kurių Lietuvos Respublikos įstatymų, Lietuvos Respublikos Aukščiausiosios Tarybos priimtų nutarimų pripažinimo netekusiais galios, Lietuvos Respublikos civilinio proceso bei Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo"
+aliases:
+  - "Dėl kai kurių Lietuvos Respublikos įstatymų, Lietuvos Respublikos Aukščiausiosios Tarybos priimtų nutarimų pripažinimo netekusiais galios, Lietuvos Respublikos civilinio proceso bei Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-21"
 latest_path: "latest/TAR.72BB0CF4DA29.md"
 latest_sha256: "76287a51ace424440b55ae841805436f0b2b3fed94c6e30d330eff13eed34cb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.72BB0CF4DA29]]"
 ---
 # Dėl kai kurių Lietuvos Respublikos įstatymų, Lietuvos Respublikos Aukščiausiosios Tarybos priimtų nutarimų pripažinimo netekusiais galios, Lietuvos Respublikos civilinio proceso bei Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.72BB0CF4DA29.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.72BB0CF4DA29
+- Ryšiai: [[Ryšiai/TAR.72BB0CF4DA29|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

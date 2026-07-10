@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F8CAD98BC5FC"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 40 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 40 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 40 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-28"
 latest_path: "latest/TAR.F8CAD98BC5FC.md"
 latest_sha256: "0dda4cf9aaa815e54bf18cedf4811f1175ca500dbf61010bf5a2ba300fefbf80"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F8CAD98BC5FC]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 40 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F8CAD98BC5FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F8CAD98BC5FC
+- Ryšiai: [[Ryšiai/TAR.F8CAD98BC5FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 40 straipsnio pakeitimas
+### 1 straipsnis. 40 straipsnio pakeitimas ^s-c48a80b19867a814a9094ac6
 
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:

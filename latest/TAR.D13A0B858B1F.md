@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D13A0B858B1F"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 11 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 11 ir 12 straipsnių pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 11 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-28"
 latest_path: "latest/TAR.D13A0B858B1F.md"
 latest_sha256: "a59f0d240fc07f30c288dfbe7cf1caa46feea2543d59fb386bc53c3260e5f869"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D13A0B858B1F]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 11 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D13A0B858B1F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D13A0B858B1F
+- Ryšiai: [[Ryšiai/TAR.D13A0B858B1F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-90168d9c05d2d290570abcbc
 
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-e1acc31c448fd28e281375e9
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:

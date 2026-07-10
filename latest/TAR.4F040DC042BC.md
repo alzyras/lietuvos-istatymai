@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F040DC042BC"
 pavadinimas: "Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "antstolių įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.4F040DC042BC.md"
 latest_sha256: "43ab9a9517caf4e0c19edb57734cedbeb362e23d4de83ef411bf3efe1d3ebc50"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F040DC042BC]]"
 ---
 # Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F040DC042BC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F040DC042BC
+- Ryšiai: [[Ryšiai/TAR.4F040DC042BC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies 1 punkto pakeitimas ^s-614cb26c10ce1d7d747487dd
 
 
 11 straipsnio 1 dalies 1 punkte vietoj žodžių „patraukiamas kaltinamuoju“ įrašyti žodžius „yra įtariamas arba kaltinamas padaręs nusikalstamą veiką „ ir šį punktą išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-86363b011858e866c417e87d
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0E8C5FB7E862"
 pavadinimas: "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 1 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 1 ir 7 straipsnių pakeitimo įstatymas"
+  - "kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 1 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-21"
 latest_path: "latest/TAR.0E8C5FB7E862.md"
 latest_sha256: "9003c24032b5b852883d1851b736f10a3a90aa3fb5b0e8739027d7dddf10485a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0E8C5FB7E862]]"
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 1 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0E8C5FB7E862.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0E8C5FB7E862
+- Ryšiai: [[Ryšiai/TAR.0E8C5FB7E862|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-6791bb593ef0e91781bbd151
 
 
 1 straipsnyje vietoj skaičiaus ir žodžių „I grupės invalidams“ įrašyti žodžius ir skaičius „asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams)“ ir šį straipsnį išdėstyti taip:
@@ -44,14 +49,14 @@ Vilnius
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
+### 2 straipsnis. 7 straipsnio 2 dalies 3 ir 4 punktų pakeitimas ^s-efb88f95bb08d51ddda7efd2
 
 
-1. 7 straipsnio 2 dalies 3 punkte vietoj skaičiaus ir žodžių „I grupės invalidams“ įrašyti žodžius ir skaičius „asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka pripažintas didelis specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams)“ ir šį punktą išdėstyti taip: ^3533c832c76256580c420249
+1. 7 straipsnio 2 dalies 3 punkte vietoj skaičiaus ir žodžių „I grupės invalidams“ įrašyti žodžius ir skaičius „asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka pripažintas didelis specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams)“ ir šį punktą išdėstyti taip: ^s-baf755746c28aaf14368c765
 „3) asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams), asmenims, kuriems reikalingos endoprotezavimo operacijos, 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15 d. apdovanotiems asmenims kompensacijos už išperkamą žemę, mišką, vandens telkinius, gyvenamuosius namus, jų dalis, butus – iki 2007 m. sausio 1 d.;“.
 
 
-2. 7 straipsnio 2 dalies 4 punkte vietoj skaičiaus ir žodžių „I grupės invalidų“ įrašyti žodžius ir skaičius „asmenų, pripažintų nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenų, sukakusių senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidų)“ ir šį punktą išdėstyti taip: ^8a4b93a3610314795d0fdb39
+2. 7 straipsnio 2 dalies 4 punkte vietoj skaičiaus ir žodžių „I grupės invalidų“ įrašyti žodžius ir skaičius „asmenų, pripažintų nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenų, sukakusių senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidų)“ ir šį punktą išdėstyti taip: ^s-04aa11d55c7602248419a69e
 
 
 „4) asmenų, pripažintų nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenų, sukakusių senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidų), 1918–1920 m. nepriklausomybės kovų karių savanorių, pasipriešinimo (rezistencijos) dalyvių, politinių kalinių, tremtinių ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15 d. apdovanotų asmenų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams) kompensacijos už išperkamą žemę, mišką, vandens telkinius, gyvenamuosius namus, jų dalis, butus – iki 2009 m. sausio 1 d.“.

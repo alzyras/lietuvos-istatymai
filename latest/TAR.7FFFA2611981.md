@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7FFFA2611981"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Aukščiausiosios Tarybos deputato statuso\" papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Aukščiausiosios Tarybos deputato statuso\" papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-08-04"
 latest_path: "latest/TAR.7FFFA2611981.md"
 latest_sha256: "5c6c23c2f249d586b4a84f4b040142ed9344ba252e27495885ad86e5c4025963"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7FFFA2611981]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Aukščiausiosios Tarybos deputato statuso" papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7FFFA2611981.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7FFFA2611981
+- Ryšiai: [[Ryšiai/TAR.7FFFA2611981|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

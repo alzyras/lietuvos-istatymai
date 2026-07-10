@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EBDFD4B123B0"
 pavadinimas: "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 4, 31, 32 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 4, 31, 32 straipsnių pakeitimo ir papildymo įstatymas"
+  - "viešojo sektoriaus atskaitomybės įstatymo 4, 31, 32 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-03"
 latest_path: "latest/TAR.EBDFD4B123B0.md"
 latest_sha256: "edc7c0576b4a951fb71dbdd8517239ffe18172b27b8bec5896e7bf0c35946a93"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EBDFD4B123B0]]"
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 4, 31, 32 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EBDFD4B123B0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EBDFD4B123B0
+- Ryšiai: [[Ryšiai/TAR.EBDFD4B123B0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-9ce2c2f97f448ae75971fdc4
 
 
 4 straipsnio 1 dalyje po žodžio „ir“ įrašyti žodį „(arba)“ ir šią dalį išdėstyti taip:
@@ -45,38 +50,38 @@ Vilnius
 
 
 
-### 2 straipsnis. 31 straipsnio 3 ir 4 dalių pakeitimas
+### 2 straipsnis. 31 straipsnio 3 ir 4 dalių pakeitimas ^s-d72e6c18f6766009b24a4872
 
 
-1. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip: ^a2691be589ba73444a25f94c
+1. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip: ^s-0eeb42b12c16dd509406b68f
 
 
 „3. Savivaldybės konsoliduotąsias ataskaitas pasirašo savivaldybės administracijos direktorius.“
 
 
-2. Pakeisti 31 straipsnio 4 dalį ir ją išdėstyti taip: ^e0366e77d2412f9e61c468af
+2. Pakeisti 31 straipsnio 4 dalį ir ją išdėstyti taip: ^s-03e64832576e5f8c2d4bed21
 
 
 „4. Valstybės konsoliduotąsias ataskaitas pasirašo finansų ministras.“
 
 
 
-### 3 straipsnis. 32 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 6 ir 7 dalimis
+### 3 straipsnis. 32 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 6 ir 7 dalimis ^s-17c90127d1cd983e366ecea7
 
 
-1. Pakeisti 32 straipsnio 4 dalį ir ją išdėstyti taip: ^0d43fcc39eaf055d05447a03
+1. Pakeisti 32 straipsnio 4 dalį ir ją išdėstyti taip: ^s-2d015e5f3e2e3f5ef5e2ea1f
 
 
 „4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos Valstybinio socialinio draudimo fondo metinių konsoliduotųjų ataskaitų rinkinį ir Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų ataskaitų rinkinį teikia Vyriausybės įgaliotai institucijai, atsakingai už nacionalinio ataskaitų rinkinio parengimą, pasibaigus finansiniams metams, ne vėliau kaip iki kitų metų balandžio 15 dienos.“
 
 
-2. Papildyti 32 straipsnį 6 dalimi: ^a40f190545075fd8505998a5
+2. Papildyti 32 straipsnį 6 dalimi: ^s-2a8e047f7a5a2e89051d4769
 
 
 „6. 2010 metų valstybės, savivaldybės, Privalomojo sveikatos draudimo fondo, Valstybinio socialinio draudimo fondo metinių biudžeto vykdymo ataskaitų rinkiniai, viešojo sektoriaus subjektų grupių metinių konsoliduotųjų biudžeto vykdymo ataskaitų rinkiniai teikiami teisės aktų nustatyta tvarka.“
 
 
-3. Papildyti 32 straipsnį 7 dalimi: ^393e99710b7ba477190a51e0
+3. Papildyti 32 straipsnį 7 dalimi: ^s-d3bba63a71cd385ddcaa8d4b
 
 
 „7. 2010 metų valstybės, savivaldybės, Privalomojo sveikatos draudimo fondo, Valstybinio socialinio draudimo fondo metinių konsoliduotųjų finansinių ataskaitų rinkiniai teikiami šio straipsnio 2, 3, 4 dalyse nurodytiems subjektams ne vėliau kaip iki 2011 m. spalio 1 d.“

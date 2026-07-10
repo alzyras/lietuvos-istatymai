@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE221608A1D2"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 35 ir 36 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 35 ir 36 straipsnių pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 35 ir 36 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-21"
 latest_path: "latest/TAR.DE221608A1D2.md"
 latest_sha256: "a3ce612e71786050b4cb23c53f40a3cff1802d31f77cc91956476baf73ed9adb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE221608A1D2]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 35 ir 36 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE221608A1D2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE221608A1D2
+- Ryšiai: [[Ryšiai/TAR.DE221608A1D2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 35 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 35 straipsnio 1 dalies pakeitimas ^s-63cfee2c7fc9372976cfa8b4
 
 
 35 straipsnio 1 dalyje vietoj skaičiaus „3“ įrašyti skaičių „4“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 36 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 36 straipsnio 1 dalies pakeitimas ^s-29dcc2c83f9c9f999d9ddd26
 
 
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:

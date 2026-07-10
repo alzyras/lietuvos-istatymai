@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9347C8C7E0A3"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-01"
 latest_path: "latest/TAR.9347C8C7E0A3.md"
 latest_sha256: "5fdfeb55771888362f0db28e5c9315394e17d9c4ffa21f6ca269102e8dd40ff5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9347C8C7E0A3]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9347C8C7E0A3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9347C8C7E0A3
+- Ryšiai: [[Ryšiai/TAR.9347C8C7E0A3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 33 straipsnio papildymas
+### 1 straipsnis. 33 straipsnio papildymas ^s-89da9c0ee10c62c11c2af857
 
 
 33 straipsnio 1 dalyje įrašyti antrąjį sakinį, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
@@ -48,7 +53,7 @@ Našlių ir našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukia
 
 
 
-### 2 straipsnis. 34 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 34 straipsnio pakeitimas ir papildymas ^s-b09755fc6b2a61f20fb9ab41
 
 
 34 straipsnio 1 dalį papildyti nauja trečiąja pastraipa, buvusias trečiąją ir ketvirtąją pastraipas laikyti atitinkamai ketvirtąja ir penktąja pastraipomis, ketvirtąją pastraipą pakeisti, 2 dalyje vietoj žodžių „vienas iš mirusiojo tėvų“ įrašyti žodžius „nustatyta tvarka pripažintas globėju asmuo“, 3 dalyje vietoj žodžio „Asmeniui“ įrašyti žodžius „Našlei ar našliui, taip pat faktiniam sutuoktiniui“ ir šį straipsnį išdėstyti taip:
@@ -79,14 +84,14 @@ Našlei ar našliui, taip pat faktiniam sutuoktiniui, gaunančiam našlių pensi
 
 
 
-### 3 straipsnis. 36 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 36 straipsnio 1 dalies pakeitimas ^s-76781279b5dfa63acac211fd
 
 
 36 straipsnio 1 dalies antrojoje pastraipoje vietoj skaičiaus „50“ įrašyti skaičių „20“ ir ją išdėstyti taip: „asmeniui, turinčiam teisę gauti našlių pensiją (34 straipsnis) – 20 procentų jos dydžio;“.
 
 
 
-### 4 straipsnis. 45 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 45 straipsnio 3 dalies pakeitimas ^s-ec522a2c0194bd36a07cf752
 
 
 Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -96,7 +101,7 @@ Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo papildymas 451 straipsniu
+### 5 straipsnis. Įstatymo papildymas 451 straipsniu ^s-80bf6db8bf4d233ab60f77a4
 
 
 Papildyti įstatymą 451 straipsniu:
@@ -120,7 +125,7 @@ našlė arba našlys, kurie sukako senatvės pensijos amžių ar buvo pripažint
 Našlė arba našlys, neturėję su mirusiu sutuoktiniu vaikų, turi teisę gauti pensiją tik tuo atveju, jei nuo santuokos įregistravimo nustatyta tvarka iki sutuoktinio mirties dienos praėjo ne mažiau kaip 5 metai.
 
 
-Šio straipsnio antrojoje dalyje išvardyti asmenys turi teisę gauti valstybinę socialinio draudimo našlių pensiją tik tuo atveju, jei sutuoktinis, miręs po Valstybinio socialinio draudimo įstatymo įsigaliojimo, t.y. po 1991 m. birželio 1 d., mirties metu buvo nuolatinis Lietuvos Respublikos gyventojas.
+Šio straipsnio antrojoje dalyje išvardyti asmenys turi teisę gauti valstybinę socialinio draudimo našlių pensiją tik tuo atveju, jei sutuoktinis, miręs po [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] įsigaliojimo, t.y. po 1991 m. birželio 1 d., mirties metu buvo nuolatinis Lietuvos Respublikos gyventojas.
 
 
 Našlei arba našliui, turinčiam teisę gauti našlių pensiją už mirusį iki 1995 m. sausio 1 d. sutuoktinį, pensija skiriama 25 procentų valstybinės socialinio draudimo bazinės pensijos dydžio.
@@ -130,27 +135,27 @@ Našlei ar našliui, gaunančiam našlių pensiją už mirusį iki 1995 m. sausi
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 6 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-6604d96e66e89054d9611f60
 
 
-1. Šis įstatymas įsigalioja nuo 1997 m. liepos 1 d. ^1ba09bd41f649b2c5433367e
+1. Šis įstatymas įsigalioja nuo 1997 m. liepos 1 d. ^s-1476f888ff864232867b340c
 
 
-2. Našlių pensijos už mirusius iki 1995 m. sausio 1 d. sutuoktinius skiriamos taikant Valstybinių socialinio draudimo pensijų įstatymo 39 straipsnyje nustatytus pensijos skyrimo ir mokėjimo terminus, tačiau ne anksčiau kaip nuo Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 451 straipsniu įstatymo įsigaliojimo. ^fe5912270d2f1a6c552e21f2
+2. Našlių pensijos už mirusius iki 1995 m. sausio 1 d. sutuoktinius skiriamos taikant [[latest/TAR.A7F77DF94F5D#^s-ce359f209917eb9c09c3c9d6|Valstybinių socialinio draudimo pensijų įstatymo 39 straipsnyje]] nustatytus pensijos skyrimo ir mokėjimo terminus, tačiau ne anksčiau kaip nuo [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių]] pakeitimo ir papildymo 451 straipsniu įstatymo įsigaliojimo. ^s-ebe9a53d3d1fafd51ce54c09
 
 
-3. Už mirusį iki 1995 m. sausio 1 d. sutuoktinį našlei ar našliui jų pasirinkimu mokama: ^2adf04ba5cfde53fd4dd2961
+3. Už mirusį iki 1995 m. sausio 1 d. sutuoktinį našlei ar našliui jų pasirinkimu mokama: ^s-a81b7b66d6f697fa6d1158fd
 arba pagal Valstybinių socialinio draudimo pensijų įstatymą apskaičiuota našlių pensija kartu su pačios našlės ar našlio valstybine socialinio draudimo senatvės ar invalidumo pensija;
 arba pagal galiojusius iki 1995 m. sausio 1 d. pensijų įstatymus apskaičiuota maitintojo netekimo pensija, kuri kartu su pačios našlės ar našlio valstybine socialinio draudimo senatvės ar invalidumo pensija nemokama.
 
 
-4. Įsigaliojus šiam įstatymui, valstybinės socialinio draudimo našlių pensijos, paskirtos nuo 1995 m. sausio 1 d. iki 1997 m. birželio 30 d. už mirusius po 1995 m. sausio 1 d. asmenis, toliau mokamos 1997 metų birželio mėnesio pensijos dydžio. Šios pensijos nedidinamos, jei pasikeičia valstybinės socialinio draudimo bazinės pensijos dydis ar vidutinės mėnesinės draudžiamosios pajamos, nei jokiais kitais būdais tol, kol mokėtina pagal Valstybinių socialinio draudimo pensijų įstatymą pensija ims viršyti 1997 metų birželio mėnesio pensijos dydį. ^5ae63faeda4a1f8a8783babf
+4. Įsigaliojus šiam įstatymui, valstybinės socialinio draudimo našlių pensijos, paskirtos nuo 1995 m. sausio 1 d. iki 1997 m. birželio 30 d. už mirusius po 1995 m. sausio 1 d. asmenis, toliau mokamos 1997 metų birželio mėnesio pensijos dydžio. Šios pensijos nedidinamos, jei pasikeičia valstybinės socialinio draudimo bazinės pensijos dydis ar vidutinės mėnesinės draudžiamosios pajamos, nei jokiais kitais būdais tol, kol mokėtina pagal Valstybinių socialinio draudimo pensijų įstatymą pensija ims viršyti 1997 metų birželio mėnesio pensijos dydį. ^s-71ead8c7a890f28be00fb1f5
 
 
-5. [[#^5ae63faeda4a1f8a8783babf|Šio straipsnio 4 dalyje]] nustatyta tvarka taip pat taikoma mokant valstybines našlių pensijas, paskirtas pagal Valstybinių pensijų įstatymą, jeigu įstatymų nenustatyta kitaip. ^c4580008c3975c1e695ce39f
+5. [[#^s-71ead8c7a890f28be00fb1f5|Šio straipsnio 4 dalyje]] nustatyta tvarka taip pat taikoma mokant valstybines našlių pensijas, paskirtas pagal Valstybinių pensijų įstatymą, jeigu įstatymų nenustatyta kitaip. ^s-d71a39f6b351b487035d14a1
 
 
-6. Vyriausybė atitinkamai pakeičia Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatus. ^f7b47655638347f06841293e
+6. Vyriausybė atitinkamai pakeičia Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatus. ^s-c78589af532028160948d851
 
 
 

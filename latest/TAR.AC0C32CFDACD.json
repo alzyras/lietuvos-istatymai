@@ -11,7 +11,7 @@
   "latest_revision": "2012-04-24",
   "latest_sha256": "8b41f96cb816771ee3dbc129dd2a6504562f13a58fe71262e1c9c25db5c59e69",
   "metadata_path": "latest/TAR.AC0C32CFDACD.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

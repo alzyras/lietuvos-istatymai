@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9C5DEC45B23B"
 pavadinimas: "Lietuvos Respublikos šilumos ūkio įstatymo 6, 7, 8, 13, 15, 18, 21, 26, 29, 31, 33 ir 36 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šilumos ūkio įstatymo 6, 7, 8, 13, 15, 18, 21, 26, 29, 31, 33 ir 36 straipsnių pakeitimo įstatymas"
+  - "šilumos ūkio įstatymo 6, 7, 8, 13, 15, 18, 21, 26, 29, 31, 33 ir 36 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-02-01"
 latest_path: "latest/TAR.9C5DEC45B23B.md"
 latest_sha256: "fbd7a8cdd621f85af144743dea909ba3fc317026c967b5e3e9772172602ac256"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9C5DEC45B23B]]"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 6, 7, 8, 13, 15, 18, 21, 26, 29, 31, 33 ir 36 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9C5DEC45B23B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9C5DEC45B23B
+- Ryšiai: [[Ryšiai/TAR.9C5DEC45B23B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-1070f60a9238a30e7c1e7617
 
 
 6 straipsnio 1 dalyje vietoj žodžių „ūkio ministrui“ įrašyti žodžius „energetikos ministrui“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-c75550e47bf0483738991754
 
 
 7 straipsnio 2 dalyje vietoj žodžio „ūkio“ įrašyti žodį „energetikos“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-ed6e586a810347ff4450196f
 
 
 8 straipsnio 1 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -63,7 +68,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-28777c24b52fe5743b3cbc08
 
 
 13 straipsnio 2 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -73,7 +78,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 15 straipsnio 4 dalies pakeitimas
+### 5 straipsnis. 15 straipsnio 4 dalies pakeitimas ^s-14b09a6bce3a3b20f676ef08
 
 
 15 straipsnio 4 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -83,7 +88,7 @@ Vilnius
 
 
 
-### 6 straipsnis. 18 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 18 straipsnio 1 dalies pakeitimas ^s-c32dd006567d661a4e3862d8
 
 
 18 straipsnio 1 dalyje vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šią dalį išdėstyti taip:
@@ -93,7 +98,7 @@ Vilnius
 
 
 
-### 7 straipsnis. 21 straipsnio 1 dalies 1 punkto pakeitimas
+### 7 straipsnis. 21 straipsnio 1 dalies 1 punkto pakeitimas ^s-fbc1c1a20486cbaf38d6a815
 
 
 21 straipsnio 1 dalies 1 punkte vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šį punktą išdėstyti taip:
@@ -103,7 +108,7 @@ Vilnius
 
 
 
-### 8 straipsnis. 26 straipsnio 2 dalies pakeitimas
+### 8 straipsnis. 26 straipsnio 2 dalies pakeitimas ^s-533be0a174c4f42760994d43
 
 
 26 straipsnio 2 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -113,7 +118,7 @@ Vilnius
 
 
 
-### 9 straipsnis. 29 straipsnio 3 dalies pakeitimas
+### 9 straipsnis. 29 straipsnio 3 dalies pakeitimas ^s-db3e0341b7864baff77f14d1
 
 
 29 straipsnio 3 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -123,7 +128,7 @@ Vilnius
 
 
 
-### 10 straipsnis. 31 straipsnio pakeitimas
+### 10 straipsnis. 31 straipsnio pakeitimas ^s-805d4a8b88e80d21155b5b0f
 
 
 31 straipsnyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“, vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šį straipsnį išdėstyti taip:
@@ -136,7 +141,7 @@ Asmenis, prižiūrinčius (eksploatuojančius) šilumos įrenginius, energetikos
 
 
 
-### 11 straipsnis. 33 straipsnio 1 dalies pakeitimas
+### 11 straipsnis. 33 straipsnio 1 dalies pakeitimas ^s-1aa19414d99c9e13ffeec911
 
 
 33 straipsnio 1 dalyje vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šią dalį išdėstyti taip:
@@ -146,7 +151,7 @@ Asmenis, prižiūrinčius (eksploatuojančius) šilumos įrenginius, energetikos
 
 
 
-### 12 straipsnis. 36 straipsnio 2 dalies pakeitimas
+### 12 straipsnis. 36 straipsnio 2 dalies pakeitimas ^s-4a6369cea6eebf8f78c20c7f
 
 
 36 straipsnio 2 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:
@@ -156,7 +161,7 @@ Asmenis, prižiūrinčius (eksploatuojančius) šilumos įrenginius, energetikos
 
 
 
-### 13 straipsnis. Įstatymo įsigaliojimas
+### 13 straipsnis. Įstatymo įsigaliojimas ^s-c1c30fdcd61d5a688500b5b1
 
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D202C1148A3A"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-02"
 latest_path: "latest/TAR.D202C1148A3A.md"
 latest_sha256: "d0c10985172d5777b8df19a26355e60a2e9ab9072165b070ee92561b0fed8e83"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D202C1148A3A]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D202C1148A3A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D202C1148A3A
+- Ryšiai: [[Ryšiai/TAR.D202C1148A3A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies 5 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies 5 punkto pakeitimas ^s-6a2a7de27ec4df538d2027d1
 
 
 Pakeisti 2 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-56d2a2e8f4f73be623284a15
 
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:

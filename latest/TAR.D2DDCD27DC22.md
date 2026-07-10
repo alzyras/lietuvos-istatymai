@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2DDCD27DC22"
 pavadinimas: "Lietuvos Respublikos aviacijos įstatymo 66 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aviacijos įstatymo 66 straipsnio pakeitimo įstatymas"
+  - "aviacijos įstatymo 66 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.D2DDCD27DC22.md"
 latest_sha256: "f71bf4a2fbe09f7244a199eed79974b159223f51e60fcc4d97f8e07f7c7c7dce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2DDCD27DC22]]"
 ---
 # Lietuvos Respublikos aviacijos įstatymo 66 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2DDCD27DC22.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2DDCD27DC22
+- Ryšiai: [[Ryšiai/TAR.D2DDCD27DC22|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 66 straipsnio 6 dalies 6 punkto pakeitimas
+### 1 straipsnis. 66 straipsnio 6 dalies 6 punkto pakeitimas ^s-93ec5f27200bccd024fca352
 
 
 Pakeisti 66 straipsnio 6 dalies 6 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 66 straipsnio 6 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b835baa12b2c554ea3f1fe03
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

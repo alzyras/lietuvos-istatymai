@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.5756AB4F657E.md",
   "latest_revision": "2014-01-01",
-  "latest_sha256": "1e09aed06484523f43a0f7d93831585a09c35073b21f7db0ab86da676fcfa217",
+  "latest_sha256": "b90ed89aa0234d7a44f538449c45ab94760f4fddcac9fd37f43f154167eff321",
   "metadata_path": "latest/TAR.5756AB4F657E.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

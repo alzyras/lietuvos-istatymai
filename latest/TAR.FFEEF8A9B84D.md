@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FFEEF8A9B84D"
 pavadinimas: "Lietuvos Respublikos želdynų įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos želdynų įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "želdynų įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.FFEEF8A9B84D.md"
 latest_sha256: "9f389364910f8510026f7c022edc3581e297c668408a65fa79b08a0490f0ed07"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FFEEF8A9B84D]]"
 ---
 # Lietuvos Respublikos želdynų įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FFEEF8A9B84D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FFEEF8A9B84D
+- Ryšiai: [[Ryšiai/TAR.FFEEF8A9B84D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies 15 punkto pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies 15 punkto pakeitimas ^s-b9047a5b3a96f17e7006a5a7
 
 
 Pakeisti 10 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip:

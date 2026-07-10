@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9A968850256F"
 pavadinimas: "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-31"
 latest_path: "latest/TAR.9A968850256F.md"
 latest_sha256: "9d820e019f19c807e55fc4e0bb6851bd8b3028bbe6c54a992cde7d1fecc98c98"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9A968850256F]]"
 ---
 # Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9A968850256F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9A968850256F
+- Ryšiai: [[Ryšiai/TAR.9A968850256F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

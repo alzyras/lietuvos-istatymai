@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "adbfe56010ba11ee9f7ec2ffce8b47bc"
 pavadinimas: "Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymo Nr. XIV-427 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymo Nr. XIV-427 3 straipsnio pakeitimo įstatymas"
+  - "asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymo Nr. XIV-427 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2023-06-23"
 latest_path: "latest/adbfe56010ba11ee9f7ec2ffce8b47bc.md"
 latest_sha256: "b26bc063ac0d096aeb908fde66b90e3c25d34278b923d063dc3af0a581e2bc97"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/adbfe56010ba11ee9f7ec2ffce8b47bc]]"
 ---
 # Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymo Nr. XIV-427 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/adbfe56010ba11ee9f7ec2ffce8b47bc.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/adbfe56010ba11ee9f7ec2ffce8b47bc
+- Ryšiai: [[Ryšiai/adbfe56010ba11ee9f7ec2ffce8b47bc|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-1b10dba5baadca5e34b556de
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:

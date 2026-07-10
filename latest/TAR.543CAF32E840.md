@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.543CAF32E840"
 pavadinimas: "Lietuvos Respublikos finansų įstaigų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansų įstaigų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "finansų įstaigų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-17"
 latest_path: "latest/TAR.543CAF32E840.md"
 latest_sha256: "4d15c4c8a4f90385c53cdf6ce6d06b1f5d035195cbeebb15456c0911d3a74e6f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.543CAF32E840]]"
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.543CAF32E840.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.543CAF32E840
+- Ryšiai: [[Ryšiai/TAR.543CAF32E840|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas ^s-2e40b6017a420f859d506fa1
 
 
 2 straipsnio 12 dalyje po žodžių „finansines paslaugas“ įrašyti žodžius „taip pat finansų įstaigų vykdoma priklausomo draudimo tarpininkavimo veikla, išskyrus draudiminių įvykių administravimą“ ir šią dalį išdėstyti taip:

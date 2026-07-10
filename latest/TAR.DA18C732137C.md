@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA18C732137C"
 pavadinimas: "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas"
+  - "nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-04-09"
 latest_path: "latest/TAR.DA18C732137C.md"
 latest_sha256: "0892883d55a2709c6e336d511f983a9e8f45e6e566ceed1d9829765aa9c20ef5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA18C732137C]]"
 ---
 # Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA18C732137C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA18C732137C
+- Ryšiai: [[Ryšiai/TAR.DA18C732137C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 6 dalies pakeitimas ^s-c29ca353c192acd468876ec1
 
 
 Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -41,16 +46,16 @@ Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 2, 5, 6 ir 7 dalių pakeitimas
+### 2 straipsnis. 5 straipsnio 2, 5, 6 ir 7 dalių pakeitimas ^s-ab782a30e1a51add1c3e24ea
 
 
-1. 5 straipsnio 2 dalyje vietoj žodžių „kultūros ministras“ įrašyti žodžius „Kultūros vertybių apsaugos departamento direktorius“ ir ją išdėstyti taip: ^45fdfbb71b8987621947af5b
+1. 5 straipsnio 2 dalyje vietoj žodžių „kultūros ministras“ įrašyti žodžius „Kultūros vertybių apsaugos departamento direktorius“ ir ją išdėstyti taip: ^s-ff0f68fa4711cabb7b34d071
 
 
 „Lietuvos Respublikoje už kultūros vertybių apsaugą yra atsakingas Kultūros  vertybių apsaugos departamento direktorius.“
 
 
-2. 5 straipsnio 5, 6 ir 7 dalis pakeisti ir jas išdėstyti taip: ^c1feb0c20eef21bb243e3337
+2. 5 straipsnio 5, 6 ir 7 dalis pakeisti ir jas išdėstyti taip: ^s-df0774751e1f925f97c21b1a
 
 
 „Kultūros vertybių apsaugos departamentui vadovauja direktorius, kurį skiria ir atleidžia kultūros ministras.

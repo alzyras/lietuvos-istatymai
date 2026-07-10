@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B949F14DD8D5"
 pavadinimas: "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "neįgaliųjų socialinės integracijos įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.B949F14DD8D5.md"
 latest_sha256: "c0e140c689f6db31f86ef1531834e58d6a31365f84815e36de76005b9b22d79f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B949F14DD8D5]]"
 ---
 # Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B949F14DD8D5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B949F14DD8D5
+- Ryšiai: [[Ryšiai/TAR.B949F14DD8D5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 2 dalies 5 punkto pakeitimas
+### 1 straipsnis. 16 straipsnio 2 dalies 5 punkto pakeitimas ^s-d41ccd52c7d843abb060681f
 
 
 Pakeisti 16 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 16 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-27b782c0137fbdfc791964af
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

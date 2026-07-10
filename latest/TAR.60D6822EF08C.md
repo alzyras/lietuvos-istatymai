@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.60D6822EF08C"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 47 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 47 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 47 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-05-14"
 latest_path: "latest/TAR.60D6822EF08C.md"
 latest_sha256: "71b35a23f293195b0cd509daa8e412259fad834eed32395576723ee283247051"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.60D6822EF08C]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 47 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.60D6822EF08C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.60D6822EF08C
+- Ryšiai: [[Ryšiai/TAR.60D6822EF08C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio 2 dalies 4 punkto pakeitimas
+### 1 straipsnis. 47 straipsnio 2 dalies 4 punkto pakeitimas ^s-548975136a4e3c2b1780d7ce
 
 
 Pakeisti 47 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:

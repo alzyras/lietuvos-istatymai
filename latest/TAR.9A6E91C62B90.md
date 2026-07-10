@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9A6E91C62B90"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 30 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 30 straipsnio papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 30 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-11-29"
 latest_path: "latest/TAR.9A6E91C62B90.md"
 latest_sha256: "1a398013bcf8134dbc24ed1a20f8119356026ac5cd7cf87c4c0728a7a77153da"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9A6E91C62B90]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 30 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9A6E91C62B90.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9A6E91C62B90
+- Ryšiai: [[Ryšiai/TAR.9A6E91C62B90|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio papildymas 3 dalimi
+### 1 straipsnis. 30 straipsnio papildymas 3 dalimi ^s-db2c6578dbc54c82f76f2d83
 
 
 Papildyti 30 straipsnį 3 dalimi:

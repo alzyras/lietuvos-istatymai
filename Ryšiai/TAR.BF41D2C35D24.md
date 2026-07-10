@@ -1,0 +1,184 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.BF41D2C35D24"
+pavadinimas: "Lietuvos Respublikos kelių įstatymas"
+---
+# Lietuvos Respublikos kelių įstatymas: ryšiai
+
+- [[latest/TAR.BF41D2C35D24|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
+- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Lietuvos Respublikos elektroninių ryšių įstatyme
+- [[latest/TAR.82D8168D3049#^s-8ab1f05640137157c975cf11|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Elektroninių ryšių įstatymo 45 straipsniu
+- [[latest/TAR.C7E57DF3CEC5#^s-e603c376e9e9c5fe39d478de|Lietuvos Respublikos investicijų įstatymas]] - 4 citatos - Investicijų įstatymo 154 straipsnyje
+- [[latest/TAR.A7D82E8EDC6B|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 3 citatos - Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme
+- [[latest/TAR.1CE6B3CFA37E|Lietuvos Respublikos kelių įstatymo 2, 13, 19, 21 straipsnių pakeitimo ir papildymo įstatymas]] - 8 citatos - 1081010ISTA00X-1769
+- [[latest/TAR.16AFF030C2A3|Lietuvos Respublikos kelių įstatymo 5, 7 straipsnių pakeitimo ir papildymo įstatymas]] - 13 citatos - 1111010ISTA0XI-1634
+- [[latest/TAR.07E8421736D6|Lietuvos Respublikos kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas]] - 6 citatos - 0971010ISTAVIII-426
+- [[latest/39dd5790e56d11e39ea8c7e1dfdc4b5c|Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - 2 citatos - Įstatymas Nr. XII-899
+- [[latest/59801c501faf11eeb233e8b04dc9bb3d|Lietuvos Respublikos kelių įstatymo Nr. I-891 10 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2132
+- [[latest/40eb7bc0197511e4b542dec0b12e28b0|Lietuvos Respublikos kelių įstatymo Nr. I-891 11 ir 12 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1083
+- [[latest/e7a25a40eb1911ed9978886e85107ab2|Lietuvos Respublikos kelių įstatymo Nr. I-891 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1890
+- [[latest/6f3156b089e311eea5a28c81c82193a8|Lietuvos Respublikos kelių įstatymo Nr. I-891 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2226
+- [[latest/b87143f0047b11e9a5eaf2cd290f1944|Lietuvos Respublikos kelių įstatymo Nr. I-891 16 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1788
+- [[latest/1650a460875f11ed8df094f359a60216|Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1703
+- [[latest/049187f09a5811eea5a28c81c82193a8|Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2313
+- [[latest/0f8c55a2b87e11ef88c08519262548c4|Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-34
+- [[latest/b1e26b52d9b111f08918e1adc7c5b1ec|Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-635
+- [[latest/37ac6e40a73411ef90b5ee8931e5ce5e|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3153
+- [[latest/dc73484098c611e9ae2e9d61b1f977b3|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2241
+- [[latest/fb33340028b411e6acf89da936cb7409|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 3 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2364
+- [[latest/ad906d407d6011eea5a28c81c82193a8|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 5 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2201
+- [[latest/ba769e70935511e9ae2e9d61b1f977b3|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 12 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2179
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - 2 citatos - Įstatymas Nr. XV-376
+- [[latest/7df3a152d9b211f08918e1adc7c5b1ec|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymo Nr. XV-376 13 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-638
+- [[latest/97aa73501fda11e586708c6593c243ce|Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1843
+- [[latest/edbbb500d40b11e7910a89ac20768b0f|Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-757
+- [[latest/b9d49732a73411ef90b5ee8931e5ce5e|Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3155
+- [[latest/37efa970697b11eca9ac839120d251c4|Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-866
+- [[latest/8540d772d80511efa5ddd96c482819f5|Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-112
+- [[latest/1aa64c3055d011f0b070ee7f1ceefc75|Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 3 ir 4 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-377
+- [[latest/3ed073e2d9b211f08918e1adc7c5b1ec|Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-637
+- [[latest/944f519042eb11f180c9c618618421ed|Lietuvos Respublikos kelių įstatymo Nr. I-891 4 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-834
+- [[latest/d493a9c05b3911e79198ffdb108a3753|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-474
+- [[latest/2af5a560537a11ec862fdcbc8b3e3e05|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-661
+- [[latest/2c1a7dd0042811edb32c9f9d8ba206f8|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-661 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1327
+- [[latest/33e92bc0882511ed8df094f359a60216|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-661 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1780
+- [[latest/4ab74e60b6e311eab9d9cd0c85e0b745|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 18 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3087
+- [[latest/a7a14ae0885411eea5a28c81c82193a8|Lietuvos Respublikos kelių įstatymo Nr. I-891 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2225
+- [[latest/3b33a1f0b02911ec8d9390588bf2de65|Lietuvos Respublikos kelių įstatymo Nr. I-891 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-979
+- [[latest/4b5a17601dbb11ef8b14c5bcce136045|Lietuvos Respublikos kelių įstatymo Nr. I-891 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2663
+- [[latest/TAR.37CA8EC066D3|Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas]] - 6 citatos - 1021010ISTA0IX-1113
+- [[latest/TAR.6A449FCC534B#^s-9c801eaf0371b65c38f1f297|Lietuvos Respublikos koncesijų įstatymas]] - 4 citatos - Koncesijų įstatymo 16 straipsnyje
+- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos civilinės saugos įstatyme
+- [[latest/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatymas]] - 4 citatos - Reklamos įstatyme
+- [[latest/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 4 citatos - Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 4 citatos - Specialiųjų žemės naudojimo sąlygų įstatyme
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymo
+- [[latest/32086e9055cf11f0b070ee7f1ceefc75|Lietuvos Respublikos Valstybinio kelių fondo įstatymas]] - Lietuvos Respublikos valstybinio kelių fondo įstatymo
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Viešųjų pirkimų įstatymo
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 6 citatos - Lietuvos Respublikos žemės įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/b5c313d0986d11eb9fecb5ecd3bd711c#^s-38036b4e8c09aff831ab06fe|Lietuvos Respublikos alternatyviųjų degalų įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/b5c313d0986d11eb9fecb5ecd3bd711c#^s-8a941e17baef472ea2c4bfea|Lietuvos Respublikos alternatyviųjų degalų įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/cde1f9f0610e11efafbb8694c098bac5#^s-319b72b75f69e16918e3b646|Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/5cae2042d1d511f08918e1adc7c5b1ec#^s-a3786232fe6594f9399602d7|Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 3, 9, 12, 23, 33, 35 straipsnių, aštuntojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 14-1, 33-1, 33-2, 33-3, 33-4, 33-5, 33-6 straipsniais įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/23fcf072d80511efa5ddd96c482819f5#^s-812f2420f4782334f752b64a|Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 5, 9, 12, 15, 18, 22, 23, 24, 25, 26, 27, 28, 29, 31, 34, 35 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/23fcf072d80511efa5ddd96c482819f5#^s-feec56219f7af0b0c0729b10|Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 5, 9, 12, 15, 18, 22, 23, 24, 25, 26, 27, 28, 29, 31, 34, 35 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.82D8168D3049#^s-00d87b4ec46921fbe7c5a17a|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.82D8168D3049#^s-2bd47398516d4c7796f70fe4|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Kelių įstatymas
+- [[latest/TAR.82D8168D3049#^s-a9542b8a4709b2f089491725|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Kelių įstatymas
+- [[latest/TAR.82D8168D3049#^s-aa74ec40487a7387ede2b746|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/cf14f5b0a55311eea5a28c81c82193a8#^s-139a26b80bc3aaffa0763e04|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 42 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/cf14f5b0a55311eea5a28c81c82193a8#^s-3234222639d90d4646d0f4ea|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 42 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/bc536812afcb11f092fda1fd0c194cc5#^s-df425551c60090a33b3ddb1e|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 54 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/ea0fa3d07d6011eea5a28c81c82193a8#^s-04eb6f4df16c55728305068f|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Kelių įstatymas
+- [[latest/ea0fa3d07d6011eea5a28c81c82193a8#^s-3a50a98a1ccacce6be55db2b|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/ea0fa3d07d6011eea5a28c81c82193a8#^s-3bea0d9d52fc5912c66b33f6|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/ea0fa3d07d6011eea5a28c81c82193a8#^s-d9edfef95358379c4210d325|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Kelių įstatymas
+- [[latest/70dca5303d5c11f180c9c618618421ed#^s-2de9bfc947d3b8655f7fd6b9|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 9, 12, 33, 34, 44, 45, 49, 81, 83, 90 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/70dca5303d5c11f180c9c618618421ed#^s-631423dea7664aeaeeb201bc|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 9, 12, 33, 34, 44, 45, 49, 81, 83, 90 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-3bd21ca9ba165e5ebad298db|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-bd818150f5be5706728fbff2|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/TAR.EFE69222D6BC#^s-6990c27f642e65030d032f48|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.EFE69222D6BC#^s-812a9c3757c11f5a5404bd3b|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.A7D82E8EDC6B#^s-185281392ea88d1adb070310|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.A7D82E8EDC6B#^s-349eb5344dfa816ead51db37|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.00D4DDE880D9#^s-1afe36b893853b6fddf2b35a|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 6 straipsnių ir 4 priedėlio pakeitimo ir papildymo įstatymas]] - Kelių įstatyme
+- [[latest/TAR.00D4DDE880D9#^s-3f1116d0fa2322fe8511f6cd|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 6 straipsnių ir 4 priedėlio pakeitimo ir papildymo įstatymas]] - Kelių įstatyme
+- [[latest/1b88ba1098c711e9ae2e9d61b1f977b3#^s-e66eb9692587050119fe5c89|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 3, 5, 6, 7, 9 straipsnių ir 3 priedo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/1b88ba1098c711e9ae2e9d61b1f977b3#^s-fb54d284effabd61a7eb2225|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 3, 5, 6, 7, 9 straipsnių ir 3 priedo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/d35b94f0e56c11e39ea8c7e1dfdc4b5c#^s-23d8b2430c7d2a62f7487aa4|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 pakeitimo įstatymas]] - 2 citatos - Kelių įstatymas
+- [[latest/d35b94f0e56c11e39ea8c7e1dfdc4b5c#^s-34351491f8d0ddb357698930|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/d35b94f0e56c11e39ea8c7e1dfdc4b5c#^s-3e7f34b34ce05f7d4aba3154|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 pakeitimo įstatymas]] - 2 citatos - Kelių įstatymas
+- [[latest/d35b94f0e56c11e39ea8c7e1dfdc4b5c#^s-6d741acbf7dd474799e97608|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/4a715e60875f11ed8df094f359a60216#^s-2243480520719aa5967b0167|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/bf8e716255cf11f0b070ee7f1ceefc75#^s-7c3fc3330e32e06e068da84c|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 1, 2, 7 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/bf8e716255cf11f0b070ee7f1ceefc75#^s-dc69d051bc33e3d8eef898c6|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 1, 2, 7 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/e03fda30875e11ed8df094f359a60216#^s-4d6892318e633c89d4d97594|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymo Nr. XIII-3420 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/e03fda30875e11ed8df094f359a60216#^s-e87e40fd65e6039895c3eb22|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymo Nr. XIII-3420 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/038891e0d80611efa5ddd96c482819f5#^s-235e83e0d0c3a7eca81ad706|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 7, 8 ir 9 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas]] - Kelių įstatymas
+- [[latest/038891e0d80611efa5ddd96c482819f5#^s-df9ddd27dd1e776f98189023|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 7, 8 ir 9 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas]] - Kelių įstatymas
+- [[latest/TAR.3DF7815A4AD1#^s-651ca28e3915db0ee445f22b|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas]] - Kelių įstatyme
+- [[latest/TAR.3DF7815A4AD1#^s-b979429f5cc9dbf7e1177756|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas]] - Kelių įstatyme
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-cad0e8ff5e284daf63cbed15|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Kelių įstatymo
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-d47ab92e19953af19728f2e2|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-ebc9a3c51de276276f3e23fa|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/39dd5790e56d11e39ea8c7e1dfdc4b5c#^s-26c64e533a2f58301df47885|Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-47634edd51544c9ed0ad9b08|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-5edc29478bd404a26521e440|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-83c7c666b27f17f3ad338945|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-aa7435736a0d7af034336e1b|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-ba0250f259a95d9642033394|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/8540d772d80511efa5ddd96c482819f5#^s-01a0245b29502e6576f36380|Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymas]] - įstatymo Nr. I-891
+- [[latest/8540d772d80511efa5ddd96c482819f5#^s-97d5cce8ba300c10164a014d|Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymas]] - įstatymo Nr. I-891
+- [[latest/3ed073e2d9b211f08918e1adc7c5b1ec#^s-03e63e2e820c3a25c63b6dea|Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 pakeitimo įstatymas]] - įstatymo Nr. I-891
+- [[latest/2af5a560537a11ec862fdcbc8b3e3e05#^s-93b0000c486f647dcc71afb5|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymas]] - įstatymo Nr. I-891
+- [[latest/2af5a560537a11ec862fdcbc8b3e3e05#^s-9d5dc2267cee7ce847643d41|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymas]] - įstatymo Nr. I-891
+- [[latest/TAR.37CA8EC066D3#^s-4c2f93fb34e8a2015219dc4b|Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/9805e872448111f180c9c618618421ed#^s-367c9a2331a964be09201b5f|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/9805e872448111f180c9c618618421ed#^s-777f412d49c4a42ccbd32546|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Kelių įstatyme
+- [[latest/9805e872448111f180c9c618618421ed#^s-c4ab4e9973568e5fcce02f88|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-020196e369feb5c2adfde0d7|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Kelių įstatyme
+- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-c3fa5a29ade3b5d2196c99ae|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-e560a742124aaf6b140a9249|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-0041950a94690d712f6b070b|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Kelių įstatyme
+- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-06fb05796191226d7b83f535|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-de46cfbcdd95cfed26cdcd8c|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/310272b2448111f180c9c618618421ed#^s-d2a3f49ad21a8244beca41ba|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymo Nr. XIV-3051 1, 2, 3, 8 straipsnių ir 1, 2 ir 7 priedų pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/310272b2448111f180c9c618618421ed#^s-f27537e427aa70f29ab4277b|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymo Nr. XIV-3051 1, 2, 3, 8 straipsnių ir 1, 2 ir 7 priedų pakeitimo įstatymas]] - Kelių įstatyme
+- [[latest/TAR.72C31F8DD98E#^s-41b32532352d74a790ead14f|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.72C31F8DD98E#^s-87e137839990cdcaa6fcd8a3|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/3499e1109e6a11e58fd1fc0b9bba68a7#^s-778748fbef190120db2773b2|Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/3499e1109e6a11e58fd1fc0b9bba68a7#^s-cae4cc914571219e168798dc|Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.5DC1759E42CB#^s-07efec8d9ee3a52bdb4a8dd0|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.5DC1759E42CB#^s-30ee5fdd85db54a767d30692|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/TAR.5DC1759E42CB#^s-74f5f534e50358ed25800171|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.5DC1759E42CB#^s-ff86f4c2705f12d170dfbb46|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/7171ed50537a11ec862fdcbc8b3e3e05#^s-4cf0f6862e92113707603b31|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 6, 10 ir 11 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/d56af750b6e311eab9d9cd0c85e0b745#^s-d90888b80db49b4b860b0aa9|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 6, 9, 10, 11 ir 12 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/d56af750b6e311eab9d9cd0c85e0b745#^s-eb21311afb76cc63cc849586|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 6, 9, 10, 11 ir 12 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymas
+- [[latest/70fb9a90a73411ef90b5ee8931e5ce5e#^s-801733a8e1c588f2d9a88a42|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 11 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/f066e1807f8b11eea5a28c81c82193a8#^s-3e03763efcac91383f28bd39|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir 25 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/f066e1807f8b11eea5a28c81c82193a8#^s-72e9a3fda75ec860688528fc|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir 25 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/116e42808f4811eea5a28c81c82193a8#^s-05cee0e1d9f64cc4b2a7043f|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 6-1, 10, 13, 22 ir 24 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.8D97CD7E1857#^s-1c91fb5f74bf2e5a89f1b47f|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/TAR.8D97CD7E1857#^s-d0b3255cf9c0eea386c24ad9|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/b1eee4909be911ea9515f752ff221ec9#^s-431d7ea64c0f13b82f9e73a8|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/b1eee4909be911ea9515f752ff221ec9#^s-739beca69da732c1f02461c1|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-2ead8893d7f41cac69d9f63e|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Kelių įstatymo
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-3290bc11a393aa0fd24a4092|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-5e3312708d7035474d0d29c1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-d20644da7d3190a0c174f7e9|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Kelių įstatymo
+- [[latest/ba03da02a73311ef90b5ee8931e5ce5e#^s-8350ac9c8153adba94959ac4|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/af0add73325111f08fdabd4950271e2c#^s-0929d56b615a1096e6d8c100|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/af0add73325111f08fdabd4950271e2c#^s-d673e51301e19189a76c8fa7|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/3a1d7d704dc511ec862fdcbc8b3e3e05#^s-047e33fc1919af02526fa16b|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.26B563184529#^s-06f91fe3dae520d6b82bad33|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos kelių įstatymu
+- [[latest/TAR.26B563184529#^s-94e77371c17743ca17f822fc|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos kelių įstatymu
+- [[latest/14fdeea09bea11ea9515f752ff221ec9#^s-6846466044115199ebc8a0c0|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir 39 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymu
+- [[latest/TAR.1C65A214E386#^s-0ce9a32761508e73043a2289|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/TAR.1C65A214E386#^s-acf5f74f04937e25a1832bf5|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/TAR.91F3BE482534#^s-bae23e92bdb2fcee814f4ab4|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymu
+- [[latest/TAR.91F3BE482534#^s-f723ddda59be13eefd9e10ab|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymu
+- [[latest/TAR.4961DA7FA79F#^s-18ce643a138ecdb9a3f5331d|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.4961DA7FA79F#^s-9c900dfb9a639b3ab5a1d3ab|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/cf83a660a00b11eea5a28c81c82193a8#^s-7565149a0724d2981e84ef6d|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/cf83a660a00b11eea5a28c81c82193a8#^s-9ee3d26fb2eb54d61399ce84|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/32086e9055cf11f0b070ee7f1ceefc75#^s-05dc7f4e8f2e2b4679741cee|Lietuvos Respublikos Valstybinio kelių fondo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/32086e9055cf11f0b070ee7f1ceefc75#^s-c59c6892ccf0722672803af2|Lietuvos Respublikos Valstybinio kelių fondo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/08eb98d0fdf711ec8fa7d02a65c371ad#^s-9870608721d167391229a25b|Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymo Nr. VIII-546 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-20fcb4c11b360f30b23ea331|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-c4c11f281cd0298598fe2230|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatymo
+- [[latest/2370827049bc11efbdaea558de59136c#^s-b2688f1dc3b720e5b0fcdb94|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2, 5, 7, 8, 12, 13, 14, 15, 16, 22 ir 24 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-83018559d5c8c202388829ae|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-e5104e489ca6954b116b4531|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Kelių įstatymu
+- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-e655a8a01d4ec073e47820d5|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Kelių įstatymu
+- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-edf2c8061c158383278c366b|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos kelių įstatyme
+- [[latest/TAR.7ED447C0D254#^s-93e4ef40c2749f83a197cd9a|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Kelių įstatymas
+- [[latest/TAR.7ED447C0D254#^s-e5001fe1ac130c32f730e1e5|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Kelių įstatymas

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.02147A0FB4E9"
 pavadinimas: "Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "Lietuvos šaulių sąjungos įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.02147A0FB4E9.md"
 latest_sha256: "e0507522dde0422c145441c1ffe240e507e32ba28fba96e7c8fb6e18ef973e13"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.02147A0FB4E9]]"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.02147A0FB4E9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.02147A0FB4E9
+- Ryšiai: [[Ryšiai/TAR.02147A0FB4E9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-9174fadeb105d0a85bf02fe7
 
 
 18 straipsnio 2 dalyje išbraukti žodžius „atitinkamos apskrities viršininko“, po žodžio „veikiančios“ įrašyti santrumpą „LŠS“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-a312f1ac0908a24572a11361
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

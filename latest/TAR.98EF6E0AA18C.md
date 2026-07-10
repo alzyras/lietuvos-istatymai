@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.98EF6E0AA18C"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 6 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 6 ir 7 straipsnių pakeitimo įstatymas"
+  - "įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" 6 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.98EF6E0AA18C.md"
 latest_sha256: "d3ce3d890f90690c669a608bc95322f700da828540f936fff7ac2e4a14033021"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.98EF6E0AA18C]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 6 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.98EF6E0AA18C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.98EF6E0AA18C
+- Ryšiai: [[Ryšiai/TAR.98EF6E0AA18C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas ^s-b2f05b906758b5f079bc5512
 
 
 Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -50,7 +55,7 @@ Panevėžio apygardos teismo veiklos teritorija apima: Panevėžio ir Visagino m
 
 
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+### 2 straipsnis. 7 straipsnio pakeitimas ^s-b991e769b0da02ee0c44c38f
 
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
@@ -94,7 +99,7 @@ Tauragės rajono apylinkės teismo veiklos teritorija apima Tauragės rajono sav
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-a69b1d93910ea0f90ce1f994
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

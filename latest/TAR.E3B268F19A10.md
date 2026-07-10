@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E3B268F19A10"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Vienos konvencijos dėl diplomatinių santykių fakultatyvinio protokolo dėl privalomo ginčų sprendimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Vienos konvencijos dėl diplomatinių santykių fakultatyvinio protokolo dėl privalomo ginčų sprendimo ratifikavimo"
+  - "įstatymas dėl Vienos konvencijos dėl diplomatinių santykių fakultatyvinio protokolo dėl privalomo ginčų sprendimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-05-19"
 latest_path: "latest/TAR.E3B268F19A10.md"
 latest_sha256: "361b0c0a9adc52f9e3ba5647a5156c972ee4e5445175294b4f743ca6dc0ac1a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E3B268F19A10]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Vienos konvencijos dėl diplomatinių santykių fakultatyvinio protokolo dėl privalomo ginčų sprendimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E3B268F19A10.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E3B268F19A10
+- Ryšiai: [[Ryšiai/TAR.E3B268F19A10|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-612d506b7ba3344a72282cf3
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. vasario 7 d. dekretą Nr. 1K-954, ratifikuoja Vienos konvencijos dėl diplomatinių santykių fakultatyvinį protokolą dėl privalomo ginčų sprendimo, priimtą 1961 m. balandžio 18 d. Vienoje.

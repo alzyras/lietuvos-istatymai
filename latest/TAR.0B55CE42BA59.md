@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0B55CE42BA59"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-01"
 latest_path: "latest/TAR.0B55CE42BA59.md"
 latest_sha256: "ead3d76b2f73898902df0d36161bb5426aceffde7d0a0807f800396e94bcee80"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0B55CE42BA59]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0B55CE42BA59.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0B55CE42BA59
+- Ryšiai: [[Ryšiai/TAR.0B55CE42BA59|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnis pakeitimas
+### 1 straipsnis. 16 straipsnis pakeitimas ^s-a7543c4513017de8396c3a60
 
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:

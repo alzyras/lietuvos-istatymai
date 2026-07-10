@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E122C394B30E"
 pavadinimas: "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 41 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 41 straipsnio papildymo įstatymas"
+  - "sveikatos priežiūros įstaigų įstatymo 41 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-06-01"
 latest_path: "latest/TAR.E122C394B30E.md"
 latest_sha256: "20b0e0c5708ac45ba53e9fbd49f9f7a2d3bb3adf18da1c5d2fc112b2ae7bd1ac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E122C394B30E]]"
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 41 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E122C394B30E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E122C394B30E
+- Ryšiai: [[Ryšiai/TAR.E122C394B30E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio papildymas 5 dalimi
+### 1 straipsnis. 41 straipsnio papildymas 5 dalimi ^s-fbdc34614c4a5c06755a136b
 
 
 Papildyti 41 straipsnį 5 dalimi:

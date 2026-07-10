@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DBD59D29E376"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 2, 5, 19, 22, 25, 26, 28, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 44, 47, 48, 49, 50, 52, 54 straipsnių ir priedo pakeitimo, įstatymo papildymo 34-1, 34-2, 40-1 straipsniais ir nauju trečiuoju skirsniu įstatymo 32 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 2, 5, 19, 22, 25, 26, 28, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 44, 47, 48, 49, 50, 52, 54 straipsnių ir priedo pakeitimo, įstatymo papildymo 34-1, 34-2, 40-1 straipsniais ir nauju trečiuoju skirsniu įstatymo 32 straipsnio pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo 2, 5, 19, 22, 25, 26, 28, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 44, 47, 48, 49, 50, 52, 54 straipsnių ir priedo pakeitimo, įstatymo papildymo 34-1, 34-2, 40-1 straipsniais ir nauju trečiuoju skirsniu įstatymo 32 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-30"
 latest_path: "latest/TAR.DBD59D29E376.md"
 latest_sha256: "a23b71de77c2baa91f9775f929f118ba47ee979f191c3dd670c62950e5b50a2a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DBD59D29E376]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 2, 5, 19, 22, 25, 26, 28, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 44, 47, 48, 49, 50, 52, 54 straipsnių ir priedo pakeitimo, įstatymo papildymo 34-1, 34-2, 40-1 straipsniais ir nauju trečiuoju skirsniu įstatymo 32 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DBD59D29E376.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DBD59D29E376
+- Ryšiai: [[Ryšiai/TAR.DBD59D29E376|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,7 +42,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 32 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 32 straipsnio 2 dalies pakeitimas ^s-5f268a5312c78bd22c39bec5
 
 
 Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3D3516019CC8"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-05-03"
 latest_path: "latest/TAR.3D3516019CC8.md"
 latest_sha256: "09f79da4c42a4a22662bc452f794ed54f903a13d1403d07c245063c6a0fe30d1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3D3516019CC8]]"
 ---
 # Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3D3516019CC8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3D3516019CC8
+- Ryšiai: [[Ryšiai/TAR.3D3516019CC8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

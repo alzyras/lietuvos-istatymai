@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5C6EF9E29A6D"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 3, 4 ir 6 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 3, 4 ir 6 priedėlių pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 3, 4 ir 6 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-01"
 latest_path: "latest/TAR.5C6EF9E29A6D.md"
 latest_sha256: "c05cb3f4fb76aa03b15fc2304b8dfd54bc34a64064b8b106dd3a21f04f6575b4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5C6EF9E29A6D]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 3, 4 ir 6 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5C6EF9E29A6D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5C6EF9E29A6D
+- Ryšiai: [[Ryšiai/TAR.5C6EF9E29A6D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 1 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-84a9dca3ce2c19d9b46605d5
 
 
 Pakeisti 2 priedėlio lentelės 2 dalį ir ją išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 2 priedėlio lentelės 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo 3 priedėlio 1 punkto pakeitimas
+### 2 straipsnis. Įstatymo 3 priedėlio 1 punkto pakeitimas ^s-c6f3d016f43976211245f0b9
 
 
 Pakeisti 3 priedėlio 1 punkto „Lietuvos Respublikoje, užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai tarifai“ lentelės 2 dalies „Krovininės kelių transporto priemonės (tarp jų priekabos, puspriekabės) ir jų junginiai“ 3 eilutę ir ją išdėstyti taip:
@@ -145,10 +150,10 @@ Pakeisti 3 priedėlio 1 punkto „Lietuvos Respublikoje, užsienio šalyse, tarp
 
 
 
-### 3 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 3 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-fd48f080e66219f2519d6231
 
 
-1. Pakeisti 4 priedėlio I skirsnį „I. Mokesčio už važiavimą keliais Lietuvos Respublikoje ir užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, ribiniai tarifai“ ir jį išdėstyti taip: ^24e72b66ac9b019a264b2fd1
+1. Pakeisti 4 priedėlio I skirsnį „I. Mokesčio už važiavimą keliais Lietuvos Respublikoje ir užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, ribiniai tarifai“ ir jį išdėstyti taip: ^s-a495086eec595328b0999d80
 
 
 
@@ -228,19 +233,19 @@ Pakeisti 3 priedėlio 1 punkto „Lietuvos Respublikoje, užsienio šalyse, tarp
 Jei lentelėje nurodyti transporto priemonės (jų junginio) maksimalus matmenys viršijami (aukštis – daugiau nei 50 cm, plotis – daugiau nei 100 cm, ilgis – daugiau nei 500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant lentelėje nurodytus mokesčius už atskirų matmenų viršijimą. Kai transporto priemonės (jų junginio) matmenys viršija lentelėje nurodytus maksimalius, būtina gauti atskirą leidimą, kurį išduodant pridedamas papildomas mokestis už maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos būtina atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų junginiui) važiuoti leidime nurodytu maršrutu, vertė.“
 
 
-2. Pakeisti 4 priedėlio II skirsnio 2 punktą ir jį išdėstyti taip: ^f8ba2845f96216e70d0fefc5
+2. Pakeisti 4 priedėlio II skirsnio 2 punktą ir jį išdėstyti taip: ^s-5b6622149a650027c7f6773e
 
 
 „2. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), nustatomi mokesčio ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.“
 
 
-3. Pakeisti 4 priedėlio II skirsnio 3 punktą ir jį išdėstyti taip: ^81f8075bc49317688d478ee8
+3. Pakeisti 4 priedėlio II skirsnio 3 punktą ir jį išdėstyti taip: ^s-757295de73d29ba48486ff31
 
 
 „3. Triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.“
 
 
-4. Pakeisti 4 priedėlio III skirsnio 1 punktą ir jį išdėstyti taip: ^46386a01ebdcdad15703fdcd
+4. Pakeisti 4 priedėlio III skirsnio 1 punktą ir jį išdėstyti taip: ^s-f2cd40e2b7cdb95be8d9f39d
 
 
 „1. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje:
@@ -270,12 +275,12 @@ Jei lentelėje nurodyti transporto priemonės (jų junginio) maksimalus matmenys
 
 
 
-5. Pakeisti Įstatymo 4 priedėlio III skirsnio 2 punktą ir jį išdėstyti taip: ^00187004199dbf918adbc682
+5. Pakeisti Įstatymo 4 priedėlio III skirsnio 2 punktą ir jį išdėstyti taip: ^s-20fff673be57ca7a9a5a2756
 „2. Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.“
 
 
 
-### 4 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 4 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-fa1fb0f9c3d2e6dbb7be68e3
 
 
 Pakeisti 6 priedėlį ir jį išdėstyti taip:
@@ -290,14 +295,14 @@ plėtros programos finansavimo įstatymo
 
 
 
-1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85). ^e9a7d015c4632c8e2d92fab6
+1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85). ^s-f24f1ef43dd1b1a9bc3a1632
 
 
-2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 372).“ ^95af4c39e0327bd2007f48d0
+2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 372).“ ^s-73d601bc1c64ed12eb73049b
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-3cc3e07c2870c361542c5357
 
 
 Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d.

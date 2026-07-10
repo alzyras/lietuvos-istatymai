@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DAA56DE2346F"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymo 2, 3, 5 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymo 2, 3, 5 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 2, 4, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymo 2, 3, 5 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-31"
 latest_path: "latest/TAR.DAA56DE2346F.md"
 latest_sha256: "76976160d29b76582e9db0dc29f89c08488874ac81743a1ddbc05d56c71649f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DAA56DE2346F]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymo 2, 3, 5 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DAA56DE2346F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DAA56DE2346F
+- Ryšiai: [[Ryšiai/TAR.DAA56DE2346F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,35 +37,35 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-17fe8ecdf520cc3598437a9c
 
 
-Pakeisti [[#^6c0ce87d82a1a5ba2606ebcf|2 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-2f7628ce80a8ddd20ee9e49c|2 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
-„5. Nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme (toliau šioje dalyje – nuolatiniai Lietuvos gyventojai), kurie nėra išvardyti šio straipsnio 1 dalies 1 punkte ir gauna pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme (toliau šioje dalyje – Lietuvos vienetas), privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas), išskyrus atvejus, kai tokios pajamos gaunamos verčiantis individualia veikla. Nuolatiniai Lietuvos gyventojai, gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, kaip šios sąvokos apibrėžtos Gyventojų pajamų mokesčio įstatyme, iš draudėjo – Lietuvos vieneto, su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3 straipsnio 2 punktas), ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas), išskyrus atvejus, kai tokios pajamos gaunamos verčiantis individualia veikla. Nuolatiniams Lietuvos gyventojams, kurie verčiasi atitinkama (kūrybine, atlikėjo ar sporto) individualia veikla, taikomos šio straipsnio 3 dalies nuostatos.“
+„5. Nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (toliau šioje dalyje – nuolatiniai Lietuvos gyventojai), kurie nėra išvardyti šio straipsnio 1 dalies 1 punkte ir gauna pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (toliau šioje dalyje – Lietuvos vienetas), privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas), išskyrus atvejus, kai tokios pajamos gaunamos verčiantis individualia veikla. Nuolatiniai Lietuvos gyventojai, gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, kaip šios sąvokos apibrėžtos [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], iš draudėjo – Lietuvos vieneto, su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3 straipsnio 2 punktas), ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas), išskyrus atvejus, kai tokios pajamos gaunamos verčiantis individualia veikla. Nuolatiniams Lietuvos gyventojams, kurie verčiasi atitinkama (kūrybine, atlikėjo ar sporto) individualia veikla, taikomos šio straipsnio 3 dalies nuostatos.“
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-3ad8bcb81c5bed51a36ce37f
 
 
-1. Pakeisti [[#3 straipsnis. 5 straipsnio 1 dalies pakeitimas|3 straipsnio]] pavadinimą ir jį išdėstyti taip: ^e3896f000db7d5fb574d82c2
+1. Pakeisti [[#^s-ef74f69d05878ff80424fd34|3 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-959f3850a42ba238833700b6
 
 
 
 „3 straipsnis. 7 straipsnio pakeitimas ir papildymas“.
 
 
-2. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip: ^6c0ce87d82a1a5ba2606ebcf
+2. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip: ^s-2f7628ce80a8ddd20ee9e49c
 
 
 „3. Papildyti 7 straipsnį 4 dalimi:
-„4. [[#^6c0ce87d82a1a5ba2606ebcf|Šio straipsnio 2 dalyje]] nurodytų asmenų (išskyrus ūkininkus ir jų partnerius), taip pat šio įstatymo 4 straipsnio 5 dalyje nurodytų asmenų socialinio draudimo įmokų bazė kalendoriniais metais negali būti didesnė negu 48 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma, o šių įmokų bazė per mėnesį negali būti didesnė negu 4 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma.“
+„4. [[#^s-2f7628ce80a8ddd20ee9e49c|Šio straipsnio 2 dalyje]] nurodytų asmenų (išskyrus ūkininkus ir jų partnerius), taip pat šio įstatymo 4 straipsnio 5 dalyje nurodytų asmenų socialinio draudimo įmokų bazė kalendoriniais metais negali būti didesnė negu 48 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma, o šių įmokų bazė per mėnesį negali būti didesnė negu 4 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma.“
 
 
-3. Papildyti 3 straipsnį 4 dalimi: ^38e50c3028632fa331fc519b
+3. Papildyti 3 straipsnį 4 dalimi: ^s-3b9b976ac4b9ccb1b918d7b2
 
 
 „4. Papildyti 7 straipsnį 5 dalimi:
@@ -68,7 +73,7 @@ Pakeisti [[#^6c0ce87d82a1a5ba2606ebcf|2 straipsnio 2 dalį]] ir ją išdėstyti 
 
 
 
-### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-ef74f69d05878ff80424fd34
 
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:

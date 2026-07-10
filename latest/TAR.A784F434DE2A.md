@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A784F434DE2A"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-19"
 latest_path: "latest/TAR.A784F434DE2A.md"
 latest_sha256: "446de59bebd7025db3351342163363478f813e83d9a6f2d6c1b2a085b9d2f3ea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A784F434DE2A]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A784F434DE2A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A784F434DE2A
+- Ryšiai: [[Ryšiai/TAR.A784F434DE2A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-075cb27c0111d3573db7e725
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
@@ -55,7 +60,7 @@ priedėlis
 
 
 
-## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS ^s-daf3de77fc05da2b442ae9bd
 
 (Baziniais dydžiais)
 
@@ -372,7 +377,7 @@ Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
 
 
 
-## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS ^s-134a9b0286ea39643a33ec73
 
 (Baziniais dydžiais)
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB15D53D9DF0"
 pavadinimas: "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.FB15D53D9DF0.md"
 latest_sha256: "cd53b5f14891c9ca251711353072529bd97d2871a8c15f5d4a0bb4b57d0a5fa8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB15D53D9DF0]]"
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB15D53D9DF0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB15D53D9DF0
+- Ryšiai: [[Ryšiai/TAR.FB15D53D9DF0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-a8374d3cf5e7322983622ed6
 
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:

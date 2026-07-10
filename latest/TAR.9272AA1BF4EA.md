@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9272AA1BF4EA"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvencijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvencijos ratifikavimo"
+  - "įstatymas dėl Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-05-05"
 latest_path: "latest/TAR.9272AA1BF4EA.md"
 latest_sha256: "0efff9429fa68aa8db2bbbb6a56d42870b7056b0d00df1f10f321d296ac7b0ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9272AA1BF4EA]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvencijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9272AA1BF4EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9272AA1BF4EA
+- Ryšiai: [[Ryšiai/TAR.9272AA1BF4EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-57c6414e71a0f6fc45960a0d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2006 m. lapkričio 27 d. dekretą Nr. 1K-807, ratifikuoja 1977 m. birželio 21 d. Ženevoje priimtą Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvenciją.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8E5AC7C3449"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-31"
 latest_path: "latest/TAR.A8E5AC7C3449.md"
 latest_sha256: "330ccface48ebad9a53d7d668aa0b9901a2be3ad62021546d266a9dab63cf1ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8E5AC7C3449]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8E5AC7C3449.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8E5AC7C3449
+- Ryšiai: [[Ryšiai/TAR.A8E5AC7C3449|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-af1da50ad90839b96a875075
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:

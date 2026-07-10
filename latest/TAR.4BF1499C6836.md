@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4BF1499C6836"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 5, 7 ir 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 5, 7 ir 9 straipsnių pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 5, 7 ir 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.4BF1499C6836.md"
 latest_sha256: "1488a2523a0c994d29d4a4a2235ac369b966b59e46ce08b27324f670ebd418af"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4BF1499C6836]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 5, 7 ir 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4BF1499C6836.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4BF1499C6836
+- Ryšiai: [[Ryšiai/TAR.4BF1499C6836|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,17 +37,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas ^s-bdc63a8963254296921f325b
 
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Asmenys, nurodyti šio įstatymo 4 straipsnio 4 dalies 3 punkte, pagrindinei socialinio draudimo pensijos daliai draudžiami valstybės lėšomis. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalies 5 ir 6 punktuose, draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalies 3 punkte, draudžiami valstybės lėšomis atitinkamai nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio, arba Respublikos Prezidento 0,5 darbo užmokesčio. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalies 4, 5, 6 punktuose, Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka draudžiami valstybės lėšomis pagrindinei ir papildomai socialinio draudimo pensijos dalims ir nedarbo socialiniu draudimu, skaičiuojant pensijų ir nedarbo socialinio draudimo įmokas nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Meno kūrėjo statusą turintys darbingo amžiaus asmenys draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) valstybės lėšomis nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos tuo atveju, jeigu jie neturi draudžiamųjų pajamų. Meno kūrėjo statusą turintys asmenys privalomuoju sveikatos draudimu draudžiami Sveikatos draudimo įstatymo nustatyta tvarka. Meno kūrėjo statusą turintys darbingo amžiaus asmenys, kurių draudžiamųjų pajamų suma per kalendorinius metus mažesnė už atitinkamų metų 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų, draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, sumokant valstybės lėšomis trūkstamą iki 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų socialinio draudimo įmokų sumą. Draudžiant valstybės lėšomis, įmokas moka valstybės biudžeto asignavimų valdytojas pagal patvirtintus draudėjo ir apdraustojo tarifus.“
+„3. Asmenys, nurodyti šio įstatymo 4 straipsnio 4 dalies 3 punkte, pagrindinei socialinio draudimo pensijos daliai draudžiami valstybės lėšomis. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalies 5 ir 6 punktuose, draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalies 3 punkte, draudžiami valstybės lėšomis atitinkamai nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio, arba Respublikos Prezidento 0,5 darbo užmokesčio. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalies 4, 5, 6 punktuose, Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka draudžiami valstybės lėšomis pagrindinei ir papildomai socialinio draudimo pensijos dalims ir nedarbo socialiniu draudimu, skaičiuojant pensijų ir nedarbo socialinio draudimo įmokas nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Meno kūrėjo statusą turintys darbingo amžiaus asmenys draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) valstybės lėšomis nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos tuo atveju, jeigu jie neturi draudžiamųjų pajamų. Meno kūrėjo statusą turintys asmenys privalomuoju sveikatos draudimu draudžiami [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo]] nustatyta tvarka. Meno kūrėjo statusą turintys darbingo amžiaus asmenys, kurių draudžiamųjų pajamų suma per kalendorinius metus mažesnė už atitinkamų metų 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų, draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, sumokant valstybės lėšomis trūkstamą iki 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų socialinio draudimo įmokų sumą. Draudžiant valstybės lėšomis, įmokas moka valstybės biudžeto asignavimų valdytojas pagal patvirtintus draudėjo ir apdraustojo tarifus.“
 
 
 
-### 2 straipsnis. 7 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 3 dalies pakeitimas ^s-4e51ed5b5da8ae532d7a3d17
 
 
 Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -52,7 +57,7 @@ Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-a51a0e7d1d7dca9abe596a62
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -62,14 +67,14 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-120b6eb9bc57c065a978588e
 
 
-Šis įstatymas, išskyrus [[#5 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|5 straipsnį]], įsigalioja 2011 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-80b6d530489c6ae85b6489a9|5 straipsnį]], įsigalioja 2011 m. sausio 1 d.
 
 
 
-### 5 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 5 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-80b6d530489c6ae85b6489a9
 
 
 Lietuvos Respublikos Vyriausybė iki 2010 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.

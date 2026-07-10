@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D4C11CA2601"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "miškų įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-24"
 latest_path: "latest/TAR.4D4C11CA2601.md"
 latest_sha256: "8f283b4a13d9c967ef53bdb496dd0a2fe68a662c483f7c4918c7ee6bc1988a6e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D4C11CA2601]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D4C11CA2601.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D4C11CA2601
+- Ryšiai: [[Ryšiai/TAR.4D4C11CA2601|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 5 dalies pakeitimas ^s-84144bdccee92dd9d7b08d7e
 
 
 Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:

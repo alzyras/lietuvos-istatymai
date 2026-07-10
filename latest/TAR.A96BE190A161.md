@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A96BE190A161"
 pavadinimas: "Lietuvos Respublikos civilinės saugos įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinės saugos įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "civilinės saugos įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-26"
 latest_path: "latest/TAR.A96BE190A161.md"
 latest_sha256: "a1707017517855ed71b2e968a178422558def047f48026d1be62cc5345b40a48"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A96BE190A161]]"
 ---
 # Lietuvos Respublikos civilinės saugos įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A96BE190A161.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A96BE190A161
+- Ryšiai: [[Ryšiai/TAR.A96BE190A161|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas ^s-bb1939bc633de5130a45d446
 
 
 29 straipsnio 1 dalyje vietoj žodžių „Respublikinis specializuotas higienos“ įrašyti žodžius „Ekstremalių sveikatai situacijų“, vietoj žodžių „veterinarijos tarnybos laboratorijos“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos laboratorijos“ ir šią dalį išdėstyti taip:

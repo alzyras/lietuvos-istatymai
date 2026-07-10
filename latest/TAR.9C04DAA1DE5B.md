@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9C04DAA1DE5B"
 pavadinimas: "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 45 straipsnio laikino papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 45 straipsnio laikino papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-01-05"
 latest_path: "latest/TAR.9C04DAA1DE5B.md"
 latest_sha256: "d2abda63cec845a3f7518d9855a3aa5fdbf3b6dc0565aa487c3ae77c0baf326c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9C04DAA1DE5B]]"
 ---
 # Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 45 straipsnio laikino papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9C04DAA1DE5B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9C04DAA1DE5B
+- Ryšiai: [[Ryšiai/TAR.9C04DAA1DE5B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

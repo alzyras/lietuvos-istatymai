@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6387BF8D8849"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio papildymo įstatymas"
+  - "akcinių bendrovių įstatymo 13 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-31"
 latest_path: "latest/TAR.6387BF8D8849.md"
 latest_sha256: "268dc59c428651bb14f315443d4cf18313ee27ee78ac2e29022011cb126e6687"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6387BF8D8849]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6387BF8D8849.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6387BF8D8849
+- Ryšiai: [[Ryšiai/TAR.6387BF8D8849|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 2 dalies 6 punkto papildymas
+### 1 straipsnis. 13 straipsnio 2 dalies 6 punkto papildymas ^s-5cc473a1ea1109fd8e94e800
 
 
 Papildyti 13 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:

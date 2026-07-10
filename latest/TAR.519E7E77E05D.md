@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.519E7E77E05D"
 pavadinimas: "Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-11-01"
 latest_path: "latest/TAR.519E7E77E05D.md"
 latest_sha256: "69d2a41ccb935dd44e5cdc8a3d5dbb70e5cecfece32640324c2a237bd9bf8c8d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.519E7E77E05D]]"
 ---
 # Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.519E7E77E05D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.519E7E77E05D
+- Ryšiai: [[Ryšiai/TAR.519E7E77E05D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,17 +40,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 11 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 11 dalies pakeitimas ^s-c902cc972b013126273449c6
 
 
 Pakeisti 3 straipsnio 11 dalį ir ją išdėstyti taip:
 
 
-„11. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri sudaro sąlygas daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas (išskyrus mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiantį ūkio subjektą) užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų (išskyrus mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiančius ūkio subjektus), kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Jeigu neįrodoma priešingai, laikoma, kad mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiantis ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 30 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus mažmenine prekyba besiverčiančių ūkio subjektų, kiekvienas iš trijų ar mažesnio skaičiaus pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) veikla besiverčiančių ūkio subjektų ar kiekvienas iš trijų ar mažesnio skaičiaus bendrojo naudojimo objektų administravimo veikla besiverčiančių ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 55 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) sąvoka ir bendrojo naudojimo objektų administravimo veikla suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos šilumos ūkio įstatyme ir Lietuvos Respublikos civiliniame kodekse.“
+„11. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri sudaro sąlygas daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas (išskyrus mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiantį ūkio subjektą) užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų (išskyrus mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiančius ūkio subjektus), kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Jeigu neįrodoma priešingai, laikoma, kad mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiantis ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 30 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus mažmenine prekyba besiverčiančių ūkio subjektų, kiekvienas iš trijų ar mažesnio skaičiaus pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) veikla besiverčiančių ūkio subjektų ar kiekvienas iš trijų ar mažesnio skaičiaus bendrojo naudojimo objektų administravimo veikla besiverčiančių ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 55 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) sąvoka ir bendrojo naudojimo objektų administravimo veikla suprantamos taip, kaip jos apibrėžtos [[latest/TAR.F62AD965997D|Lietuvos Respublikos šilumos ūkio įstatyme]] ir Lietuvos Respublikos civiliniame kodekse.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-0f4e776d173d0b9fe218ce75
 
 
 Šis įstatymas įsigalioja 2011 m. lapkričio 1 d.

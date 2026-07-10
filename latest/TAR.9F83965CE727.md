@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9F83965CE727"
 pavadinimas: "Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-22"
 latest_path: "latest/TAR.9F83965CE727.md"
 latest_sha256: "a1e27559d9c2a95dcfe42d05da1dfa7005f27facd9aad6a217796e98f93c2341"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9F83965CE727]]"
 ---
 # Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9F83965CE727.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9F83965CE727
+- Ryšiai: [[Ryšiai/TAR.9F83965CE727|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas ^s-c018aa6e1778d407ea34e517
 
 
 Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:

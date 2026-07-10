@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B58E2F5B945E"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 4 straipsnio papildymo įstatymas"
+  - "vietos savivaldos įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-06-11"
 latest_path: "latest/TAR.B58E2F5B945E.md"
 latest_sha256: "1e574e462ff3ea933ce636c8da2e59a82f6b7f38f54a2c6a6e8f40472f854b6d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B58E2F5B945E]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B58E2F5B945E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B58E2F5B945E
+- Ryšiai: [[Ryšiai/TAR.B58E2F5B945E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas
+### 1 straipsnis. 4 straipsnio papildymas ^s-773dcfe01bf27a3e75b2325f
 
 
 Papildyti 4 straipsnį 5 dalimi:

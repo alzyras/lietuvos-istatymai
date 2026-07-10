@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.58D32ECAE5D4"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 21, 24 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 21, 24 ir 26 straipsnių pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 21, 24 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.58D32ECAE5D4.md"
 latest_sha256: "3d1da13c0e022de6721e9edf40ce67d1efe605662af1529909a9aee46a9d6579"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.58D32ECAE5D4]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 21, 24 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.58D32ECAE5D4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.58D32ECAE5D4
+- Ryšiai: [[Ryšiai/TAR.58D32ECAE5D4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 6 dalies pakeitimas ^s-eedec0dc48bca8ce40d1b8ee
 
 
 21 straipsnio 6 dalyje vietoj žodžių „žyminį mokestį“ įrašyti žodžius „valstybės rinkliavą“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 24 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 24 straipsnio 5 dalies pakeitimas ^s-f484245915c688d1c3cd2e01
 
 
 24 straipsnio 5 dalyje vietoj žodžių „žyminį mokestį“ įrašyti žodžius „valstybės rinkliavą“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 26 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 26 straipsnio 2 dalies pakeitimas ^s-9e23edc6556bce49b9ce20d7
 
 
 26 straipsnio 2 dalyje vietoj žodžių „žyminį mokestį“ įrašyti žodžius „valstybės rinkliavą“ ir šią dalį išdėstyti taip:

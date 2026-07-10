@@ -11,7 +11,7 @@
   "latest_revision": "1998-08-14",
   "latest_sha256": "b4d4ee8fd006ae03f274a4c0772444b8b26b25f16740dcf173f0e82ce6fc195c",
   "metadata_path": "latest/TAR.B32ED8D3D400.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

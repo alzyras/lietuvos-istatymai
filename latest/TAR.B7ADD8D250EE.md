@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B7ADD8D250EE"
 pavadinimas: "Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 4, 6, 7 straipsnių ir 1, 2 priedų pakeitimo bei 4 priedo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 4, 6, 7 straipsnių ir 1, 2 priedų pakeitimo bei 4 priedo pripažinimo netekusiu galios įstatymas"
+  - "mokesčio už valstybinius gamtos išteklius įstatymo 4, 6, 7 straipsnių ir 1, 2 priedų pakeitimo bei 4 priedo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.B7ADD8D250EE.md"
 latest_sha256: "ebc1320e3192e2c15010639016c50b089c9b256fc34cd3dbabb2f3c67ae3493a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B7ADD8D250EE]]"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 4, 6, 7 straipsnių ir 1, 2 priedų pakeitimo bei 4 priedo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B7ADD8D250EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B7ADD8D250EE
+- Ryšiai: [[Ryšiai/TAR.B7ADD8D250EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,59 +39,59 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 ir 2 punktų pakeitimas
+### 1 straipsnis. 4 straipsnio 1 ir 2 punktų pakeitimas ^s-fbcd9a97be52cda1808e488d
 
 
-1. Pakeisti 4 straipsnio 1 punktą ir jį išdėstyti taip: ^ea4507f0b1d262cf66831741
+1. Pakeisti 4 straipsnio 1 punktą ir jį išdėstyti taip: ^s-72f1d1b7a1f7ddc388fc3c0f
 
 
 „1) naudingosios iškasenos, nurodytos šio įstatymo 1 priede, išskyrus angliavandenilius ir durpes, naudojamas gydymo įstaigose;“.
 
 
-2. Pakeisti 4 straipsnio 2 punktą ir jį išdėstyti taip: ^bbe8428a00bca7ad24a03580
+2. Pakeisti 4 straipsnio 2 punktą ir jį išdėstyti taip: ^s-f4ff289b0494e8a6c5c76d2d
 
 
 „2) vanduo ir statybinis gruntas, nurodyti šio įstatymo 2 priede;“.
 
 
-### 2 straipsnis. 6 straipsnio pakeitimas
+### 2 straipsnis. 6 straipsnio pakeitimas ^s-74f4662579f8f1eb112171d5
 
 
-Pakeisti [[#6 straipsnis. Įstatymo 4 priedo pripažinimas netekusiu galios|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-a452f5b806ee522bed06d5f1|6 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#6 straipsnis. Įstatymo 4 priedo pripažinimas netekusiu galios|6 straipsnis]]. Mokesčio tarifų nustatymas ir jų indeksavimas
+„[[#^s-a452f5b806ee522bed06d5f1|6 straipsnis]]. Mokesčio tarifų nustatymas ir jų indeksavimas
 
 
-1. Mokesčio už valstybinius gamtos išteklius tarifai nustatyti šio įstatymo 1, 2 ir 3 prieduose. ^f3c2c3a376b74c278c75474d
+1. Mokesčio už valstybinius gamtos išteklius tarifai nustatyti šio įstatymo 1, 2 ir 3 prieduose. ^s-05d158b78a5d34d634b2125c
 
 
-2. Už nedeklaruotą ar deklaruotą mažesnį negu išgautas gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikomas didesnis mokesčio tarifas. Jis apskaičiuojamas šio įstatymo 1, 2 ir 3 prieduose nustatytus tarifus dauginant iš koeficiento 10. ^7171771243d6940122635a92
+2. Už nedeklaruotą ar deklaruotą mažesnį negu išgautas gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikomas didesnis mokesčio tarifas. Jis apskaičiuojamas šio įstatymo 1, 2 ir 3 prieduose nustatytus tarifus dauginant iš koeficiento 10. ^s-7106030eb09c1d83b0b7aac3
 
 
-3. Šio įstatymo 1, 2 ir 3 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamą mokestinių metų vartotojų kainų indeksą. Indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto. ^9712ce677f5eee77523bf10a
+3. Šio įstatymo 1, 2 ir 3 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamą mokestinių metų vartotojų kainų indeksą. Indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto. ^s-937ad0d5a2ebf4c1e7c47a25
 
 
-4. Indeksuoti mokesčio tarifai įsigalioja nuo kalendorinių metų, einančių po mokestinio laikotarpio, sausio 1 dienos.“ ^dde94edbdf2c8ce2d1e2e83a
+4. Indeksuoti mokesčio tarifai įsigalioja nuo kalendorinių metų, einančių po mokestinio laikotarpio, sausio 1 dienos.“ ^s-3436608ed2f0bb0745e8ee1a
 
 
-### 3 straipsnis. 7 straipsnio 2 ir 4 dalių pakeitimas
+### 3 straipsnis. 7 straipsnio 2 ir 4 dalių pakeitimas ^s-f92a6ffc39f5c3a9cab2192a
 
 
-1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^eb9836ea5d431baafeb96a87
+1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0ddefaa24b50a6942866fa66
 
 
 „2. Mokesčio už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokėtojai, mokestinio laikotarpio mokesčio deklaracijoje taikydami indeksuotą šio įstatymo 1 ar 2 prieduose nustatytą tarifą, apskaičiuoja ir moka mokestį už visą per tą mokestinį laikotarpį išgautą gamtos išteklių kiekį.“
 
 
-2. Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip: ^b9030297c354f5888e3d1fc8
+2. Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip: ^s-a77a7db00bea291d2b96de3c
 
 
 „4. Mokesčio mokėtojai, mokestiniam laikotarpiui pasibaigus, privalo užpildyti metines mokesčio už valstybinius gamtos išteklius deklaracijas ir jas pateikti tai teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje jie yra arba privalo būti įregistruoti mokesčio mokėtojais, ir sumokėti mokestį iki kalendorinių metų, einančių po mokestinio laikotarpio, vasario 1 dienos.“
 
 
-### 4 straipsnis. Įstatymo 1 priedo pakeitimas
+### 4 straipsnis. Įstatymo 1 priedo pakeitimas ^s-32d7341637bb1fdc8e9ceec6
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
@@ -194,7 +199,7 @@ MokesčiO už naudingąsias IŠKASENas tarifai
 
 
 
-### 5 straipsnis. Įstatymo 2 priedo pakeitimas
+### 5 straipsnis. Įstatymo 2 priedo pakeitimas ^s-fb17733717f2858188f7667f
 
 
 Pakeisti Įstatymo 2 priedą ir jį išdėstyti taip:
@@ -265,14 +270,14 @@ MOKESČIO UŽ VANDENĮ ir statybinį gruntą tarifai
 
 
 
-### 6 straipsnis. Įstatymo 4 priedo pripažinimas netekusiu galios
+### 6 straipsnis. Įstatymo 4 priedo pripažinimas netekusiu galios ^s-a452f5b806ee522bed06d5f1
 
 
 Įstatymo 4 priedą pripažinti netekusiu galios.
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-968d4f4665405c0357be6573
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

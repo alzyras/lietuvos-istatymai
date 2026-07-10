@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.275D538BCBA0"
 pavadinimas: "Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.275D538BCBA0.md"
 latest_sha256: "5bf568f0e5b1301c119df28339af8a07817d1b8f3f87a7ab37ef3d0149f0a629"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.275D538BCBA0]]"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.275D538BCBA0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.275D538BCBA0
+- Ryšiai: [[Ryšiai/TAR.275D538BCBA0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-2b35a2f21366838957507b84
 
 
 6 straipsnio 1 dalyje prieš žodį „ministerijose“ įrašyti žodį „ir“, išbraukti žodžius „ir apskričių viršininkų administracijose“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 „1. Vidaus audito tarnybos arba centralizuotos vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Ministro Pirmininko tarnyboje ir ministerijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.“
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-4d794fa8d02523074b31e654
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

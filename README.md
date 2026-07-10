@@ -17,6 +17,9 @@ Public, latest-only Lietuvos Respublikos įstatymų korpusas Markdown ir JSON fo
 - Tik naujausia kiekvieno įstatymo versija.
 - Stable keliai pagal TAR dokumento ID: `latest/{etar_id}.md` ir `latest/{etar_id}.json`.
 - Markdown tekstuose automatiškai sulinkinti deterministiškai atpažinti straipsniai, dalys, punktai ir kitų aktų nuorodos.
+- Obsidian `Backlinks`, `Outgoing Links`, vietinis grafas ir generuojamas `Ryšiai.canvas`.
+- Žmogui skaitomi kiekvieno įstatymo incoming ir outgoing ryšiai su oficialiais pavadinimais.
+- Neišspręstos ar dviprasmiškos citatos nelinkinamos kaip faktai ir laikomos atskirame audito indekse.
 - Oficialūs TAR source laukų indeksai ir pavadinimų indeksas.
 
 ## Struktūra
@@ -27,9 +30,16 @@ latest/{etar_id}.md
 latest/{etar_id}.json
 Indeksai/pavadinimai.jsonl
 Indeksai/Pagal pavadinimą.md
+Indeksai/aktų-ryšiai.jsonl
+Indeksai/ryšiai/*.jsonl
+Indeksai/backlinks/*.jsonl
+Indeksai/unresolved/*.jsonl
 Indeksai/latest/{metai}.jsonl
 Indeksai/aktai-lite/{metai}.jsonl
 Indeksai/source/*.jsonl
+Ryšiai/{etar_id}.md
+Ryšiai.canvas
+.obsidian/{app,core-plugins,graph}.json
 Atnaujinimai/*.md
 Ataskaitos/*.md
 schemas/*.schema.json
@@ -42,6 +52,14 @@ schemas/*.schema.json
 - `Indeksai/latest/{metai}.jsonl` - pilnesni latest įrašai pagal priėmimo metus.
 - `Indeksai/aktai-lite/{metai}.jsonl` - lengvesnis sąrašas pagal metus.
 - `Indeksai/source/` - oficialūs TAR metaduomenų pjūviai.
+- `Ryšiai/{etar_id}.md` - paspaudžiami konkretaus įstatymo incoming ir outgoing ryšiai.
+- `Indeksai/aktų-ryšiai.jsonl` - agreguoti įstatymas → įstatymas ryšiai.
+- `Indeksai/ryšiai/`, `backlinks/`, `unresolved/` - detalūs hash prefiksu suskaidyti ryšių indeksai.
+- `Ryšiai.canvas` - ribotas svarbiausių aktų Obsidian canvas su žmonėms skaitomais pavadinimais.
+
+## Obsidian
+
+Atidaryk repo šaknį kaip Obsidian vault. Papildomi bendruomenės pluginai nereikalingi: bendri Graph, Backlinks, Outgoing Links ir Canvas nustatymai yra repo, o asmeninis `workspace.json` ir išvaizdos nustatymai nekomituojami.
 
 ## Atnaujinimas
 

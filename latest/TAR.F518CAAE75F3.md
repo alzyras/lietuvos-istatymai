@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F518CAAE75F3"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.F518CAAE75F3.md"
 latest_sha256: "5db4d1734cabdf05b89403445a6af5fb093aa9c5b3949f93a07358c2b5853ee7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F518CAAE75F3]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F518CAAE75F3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F518CAAE75F3
+- Ryšiai: [[Ryšiai/TAR.F518CAAE75F3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-94bd58d9b8faf76a1b9ab1b2
 
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,13 +48,13 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-3b9d49de8e54581ea7d18842
 
 
-1. Šis įstatymas įsigalioja 2010 m. liepos 1 d. ^99f7ee8d28b33dfd50e85934
+1. Šis įstatymas įsigalioja 2010 m. liepos 1 d. ^s-082c5138b8b62b9a44b23b46
 
 
-2. Iki šio įstatymo įsigaliojimo savivaldybių valdybų sprendimais, merų potvarkiais ar savivaldybių tarybų sprendimais įsteigtoms šeimynoms šio įstatymo nuostatos taikomos nuo šių šeimynų perregistravimo Juridinių asmenų registre. ^5095aad097b64f5649fb4ce5
+2. Iki šio įstatymo įsigaliojimo savivaldybių valdybų sprendimais, merų potvarkiais ar savivaldybių tarybų sprendimais įsteigtoms šeimynoms šio įstatymo nuostatos taikomos nuo šių šeimynų perregistravimo Juridinių asmenų registre. ^s-0fad5a2f23c9d948008f1b37
 
 
 

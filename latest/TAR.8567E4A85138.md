@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8567E4A85138"
 pavadinimas: "Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "Prezidento valstybinės rentos įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-30"
 latest_path: "latest/TAR.8567E4A85138.md"
 latest_sha256: "ee4e77e56e14b7b894f68df6147f475942b7f72c57979381c4fb0ec63631bff5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8567E4A85138]]"
 ---
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8567E4A85138.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8567E4A85138
+- Ryšiai: [[Ryšiai/TAR.8567E4A85138|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-53dff9aa0416bf8ce6e2d6fe
 
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-deaaaef36dc55204dac621d1
 
 
-1. Šis įstatymas, išskyrus [[#^e99df7a6f995f1d1e31b069c|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^4ea079a8d9a187a18558a78e
+1. Šis įstatymas, išskyrus [[#^s-cee1051366feef2c74bac822|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-0cf4012d3f278d4ddda74b61
 
 
-2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^e99df7a6f995f1d1e31b069c
+2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-cee1051366feef2c74bac822
 
 
 

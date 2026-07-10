@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "citation_count": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "relation_types": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "resolvers": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "source_etar_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "source_path": {
+      "type": "string"
+    },
+    "source_title": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "target_etar_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "target_path": {
+      "type": "string"
+    },
+    "target_title": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "citation_count",
+    "relation_types",
+    "resolvers",
+    "source_etar_id",
+    "source_path",
+    "source_title",
+    "target_etar_id",
+    "target_path",
+    "target_title"
+  ],
+  "title": "akto-rysis",
+  "type": "object"
+}

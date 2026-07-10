@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6E0C2A243677"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-01-01"
 latest_path: "latest/TAR.6E0C2A243677.md"
 latest_sha256: "b138e306deb1bc97f90df4a7758efb8332407bcbe27668b21b85006234bc2ef8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6E0C2A243677]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6E0C2A243677.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6E0C2A243677
+- Ryšiai: [[Ryšiai/TAR.6E0C2A243677|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 22 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 22 punkto pakeitimas ^s-e4c019db014277d721f5ff5c
 
 
 7 straipsnio 22 punkte po žodžio „organizavimas“ įrašyti žodžius „lengvatinio keleivių vežimo kompensacijų skaičiavimas ir mokėjimas“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 8 straipsnio 6 punkto pakeitimas
+### 2 straipsnis. 8 straipsnio 6 punkto pakeitimas ^s-869a0bd049ab29039d9e6a0a
 
 
 8 straipsnio 6 punkte išbraukti žodžius „lengvatinio keleivių vežimo“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-1d9f25c60e95a94a0e45bc88
 
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.

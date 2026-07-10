@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9F7C87E363B4"
 pavadinimas: "Lietuvos Respublikos saugomų teritorijų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugomų teritorijų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "saugomų teritorijų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-03-01"
 latest_path: "latest/TAR.9F7C87E363B4.md"
 latest_sha256: "6771cbea2812b78db8fc24ed43aa2f4413177c27c3c9f7b509cb0159ab6317be"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9F7C87E363B4]]"
 ---
 # Lietuvos Respublikos saugomų teritorijų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9F7C87E363B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9F7C87E363B4
+- Ryšiai: [[Ryšiai/TAR.9F7C87E363B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 2 dalies 1 punkto pakeitimas
+### 1 straipsnis. 13 straipsnio 2 dalies 1 punkto pakeitimas ^s-b508553a08b44274cfacf478
 
 
 Pakeisti 13 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
@@ -43,13 +48,13 @@ Pakeisti 13 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-c4411ebe355807febf84d8a7
 
 
-1. Šis įstatymas, išskyrus [[#^5b08ab0e5905c362dd870463|šio straipsnio 2 dalį]], įsigalioja 2013 m. kovo 1 d. ^6bbb75c6c1b17fa43482c18a
+1. Šis įstatymas, išskyrus [[#^s-142051a2722d58dd1c59ef4a|šio straipsnio 2 dalį]], įsigalioja 2013 m. kovo 1 d. ^s-6336ce667e91049a95b3c8db
 
 
-2. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki 2013 m. vasario 28 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^5b08ab0e5905c362dd870463
+2. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki 2013 m. vasario 28 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-142051a2722d58dd1c59ef4a
 
 
 

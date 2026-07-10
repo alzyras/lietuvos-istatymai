@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8F4AFFA8CDEA"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 11 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 11 ir 13 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 8, 11 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-01"
 latest_path: "latest/TAR.8F4AFFA8CDEA.md"
 latest_sha256: "0d0858449d3249977f0882651ff12a09fe22e64bf051f980cde553e928f24ac7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8F4AFFA8CDEA]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 8, 11 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8F4AFFA8CDEA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8F4AFFA8CDEA
+- Ryšiai: [[Ryšiai/TAR.8F4AFFA8CDEA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 5 dalies pakeitimas ^s-aa660d2aba1819fb0dddc315
 
 
 Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-a80e88b61a3d83c4d4cce001
 
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-19edb64b113c6d561ee25487
 
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -64,17 +69,17 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-b10a66177d94f725426ba036
 
 
 Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-afcdd751b0ebb2e69a98da20
 
 
-Šis įstatymas, išskyrus [[#4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|4 straipsnį]], įsigalioja 2012 m. kovo 1 d.
+Šis įstatymas, išskyrus [[#^s-b10a66177d94f725426ba036|4 straipsnį]], įsigalioja 2012 m. kovo 1 d.
 
 
 

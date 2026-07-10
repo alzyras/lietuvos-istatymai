@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A59537EBF065"
 pavadinimas: "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-09-27"
 latest_path: "latest/TAR.A59537EBF065.md"
 latest_sha256: "b6832eefa372bd1fa9f92767c313b12e861dd6fe8ff0bd363989695c27557c6c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A59537EBF065]]"
 ---
 # Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A59537EBF065.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A59537EBF065
+- Ryšiai: [[Ryšiai/TAR.A59537EBF065|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +34,7 @@ Vilnius
 
 
 
-Papildyti Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (Žin., 1994, Nr. 60-1183) 9 straipsnį:
+Papildyti [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] (Žin., 1994, Nr. 60-1183) 9 straipsnį:
 
 
 1. Antrojoje dalyje po žodžio „suteikiami“ įrašyti žodžius „ir keičiami“.

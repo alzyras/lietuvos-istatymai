@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.782851B49395"
 pavadinimas: "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo įgyvendinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo įgyvendinimo įstatymo pakeitimo įstatymas"
+  - "asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo įgyvendinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-25"
 latest_path: "latest/TAR.782851B49395.md"
 latest_sha256: "d53280501bc10d02dc52fd82ba1deadb423553a311b373b2428d1c9df9ee40b7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.782851B49395]]"
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo įgyvendinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.782851B49395.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.782851B49395
+- Ryšiai: [[Ryšiai/TAR.782851B49395|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 1 straipsnio 2 punkto pripažinimas netekusiu galios ^s-541ac2e6d80797372708aded
 
 
 1 straipsnio 2 punktą pripažinti netekusiu galios.

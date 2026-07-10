@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E30A20EDFD27"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 32 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 32 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7 ir 32 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.E30A20EDFD27.md"
 latest_sha256: "b8935dcb2dfdf3cf2d84877038df6eff54d9ee2904fe02421b9f68770fc317e7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E30A20EDFD27]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 32 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E30A20EDFD27.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E30A20EDFD27
+- Ryšiai: [[Ryšiai/TAR.E30A20EDFD27|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,21 +38,21 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 15 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 7 straipsnio 15 punkto pripažinimas netekusiu galios ^s-92abc17a8672bd435566091c
 
 
 7 straipsnio 15 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 32 straipsnio 2 dalies 6 punkto pripažinimas netekusiu galios
+### 2 straipsnis. 32 straipsnio 2 dalies 6 punkto pripažinimas netekusiu galios ^s-e16afe188e2d3080fb4f407d
 
 
 32 straipsnio 2 dalies 6 punktą pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-d456717e24630a48722d5415
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

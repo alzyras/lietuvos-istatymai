@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AFF7A2B6156A"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-03"
 latest_path: "latest/TAR.AFF7A2B6156A.md"
 latest_sha256: "4d34bbfda6dbd7136e3c690a867b5b9c880fd7b548cab783415c48098b93c356"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AFF7A2B6156A]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AFF7A2B6156A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AFF7A2B6156A
+- Ryšiai: [[Ryšiai/TAR.AFF7A2B6156A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-b5cf1c24125106c57b96746f
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.786BC3860812"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-05"
 latest_path: "latest/TAR.786BC3860812.md"
 latest_sha256: "4d37be377499c3e63b4a50eea9a97a322502efec1879917e22ad7dbffd09234b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.786BC3860812]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.786BC3860812.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.786BC3860812
+- Ryšiai: [[Ryšiai/TAR.786BC3860812|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,7 +42,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 2 dalies pripažinimas netekusia galios
+### 1 straipsnis. 14 straipsnio 2 dalies pripažinimas netekusia galios ^s-81a03b8cd9ac115ad88a1b46
 
 
 14 straipsnio 2 dalį pripažinti netekusia galios.

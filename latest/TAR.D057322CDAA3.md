@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D057322CDAA3"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas"
+  - "miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-31"
 latest_path: "latest/TAR.D057322CDAA3.md"
 latest_sha256: "8e9c037b06788b60ae0bc399a9b53fbc026af24c00f96992c7270322f9654e1f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D057322CDAA3]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D057322CDAA3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D057322CDAA3
+- Ryšiai: [[Ryšiai/TAR.D057322CDAA3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas ^s-15a0ad9fe98ebeefd60113bc
 
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -44,38 +49,38 @@ Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Valstybinė miškų tarnyba – įstaiga prie Aplinkos ministerijos, skirta valstybės politikai aplinkos ministrui pavestoje gamtos išteklių (tai yra miškų) valdymo srityje įgyvendinti. Valstybinė miškų tarnyba, vykdydama šio įstatymo įgyvendinimo priežiūrą, atlieka šias pagrindines funkcijas:
 
 
-1) tvarko Lietuvos Respublikos miškų kadastrą; ^91151fb8d2d80db8bc31d2ad
+1) tvarko Lietuvos Respublikos miškų kadastrą; ^s-bbd50033b7ddc7c247b005fb
 
 
-2) atlieka valstybinę miškų inventorizaciją atrankos metodu ir miškų apskaitą; ^c8027833ae665117c5771cac
+2) atlieka valstybinę miškų inventorizaciją atrankos metodu ir miškų apskaitą; ^s-bba2d15b633541c97b2121fc
 
 
-3) atlieka valstybinę visų nuosavybės formų šalies miškų būklės, naudojimo, atkūrimo, įveisimo ir apsaugos kontrolę; ^79abea1cba64551c08e9b100
+3) atlieka valstybinę visų nuosavybės formų šalies miškų būklės, naudojimo, atkūrimo, įveisimo ir apsaugos kontrolę; ^s-8978647326607ef0c481f683
 
 
-4) Aplinkos ministerijos nustatyta tvarka išduoda leidimus kirsti mišką miško valdytojams ir naudotojams; ^2b380a969c33db58724f09ea
+4) Aplinkos ministerijos nustatyta tvarka išduoda leidimus kirsti mišką miško valdytojams ir naudotojams; ^s-410fb54f75c8f230ae7607f0
 
 
-5) kontroliuoja miškotvarkos darbų kokybę; ^4c84a0a8531649e245941f1d
+5) kontroliuoja miškotvarkos darbų kokybę; ^s-e5b07443d0a04dcfc6c305d2
 
 
-6) kontroliuoja miško dauginamosios medžiagos kilmę, kokybę, auginimą, prekybą ir naudojimą; ^f40f2adcf0f76eda1d6741e6
+6) kontroliuoja miško dauginamosios medžiagos kilmę, kokybę, auginimą, prekybą ir naudojimą; ^s-e329126e78a7292c78831d5e
 
 
-7) atrenka ir aprobuoja miško genetinius išteklius, organizuoja sėklinės miško bazės kūrimą ir palaikymą, vertina ir kontroliuoja jos kilmę ir kokybę; ^898b22812a0e50e0250acc77
+7) atrenka ir aprobuoja miško genetinius išteklius, organizuoja sėklinės miško bazės kūrimą ir palaikymą, vertina ir kontroliuoja jos kilmę ir kokybę; ^s-95192f97d58b2e9b22c64ff2
 
 
-8) kontroliuoja miško sanitarinės apsaugos priemonių taikymą; ^fab2f8889f1c4ca4661d1575
+8) kontroliuoja miško sanitarinės apsaugos priemonių taikymą; ^s-a816b2abf6d1105d64dcf45f
 
 
-9) konsultuoja miško valdytojus ir naudotojus miško naudojimo, atkūrimo, priežiūros ir apsaugos klausimais; ^4d712798764605fac6e77857
+9) konsultuoja miško valdytojus ir naudotojus miško naudojimo, atkūrimo, priežiūros ir apsaugos klausimais; ^s-0eced193f2c288b9611a9f68
 
 
-10) atlieka kituose teisės aktuose numatytas funkcijas.“ ^1a490756b2f2897a788b4dd1
+10) atlieka kituose teisės aktuose numatytas funkcijas.“ ^s-050cd776b3e8c8fca9f48d32
 
 
 
-### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-cc1a370c5b4851192c5e76fc
 
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -85,17 +90,17 @@ Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Baigiamosios nuostatos
+### 3 straipsnis. Baigiamosios nuostatos ^s-85266e153cf2709444f5c9f4
 
 
-1. Šio įstatymo [[#1 straipsnis. 5 straipsnio 3 dalies pakeitimas|1 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^75f2bfbfb9f19c8479eb223c
+1. Šio įstatymo [[#^s-15a0ad9fe98ebeefd60113bc|1 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-9bbfe4ac2c0b74d6a12ab699
 
 
-2. Šio įstatymo [[#2 straipsnis. 7 straipsnio 1 dalies pakeitimas|2 straipsnis]] įsigalioja 2012 m. balandžio 1 d. ^31042d2ec709eec3a139e6d9
+2. Šio įstatymo [[#^s-cc1a370c5b4851192c5e76fc|2 straipsnis]] įsigalioja 2012 m. balandžio 1 d. ^s-05774a9ec726f1df433be51f
 
 
 
-3. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus, kuriais būtų reglamentuota jungtinės veiklos sutarties sudarymo ir jos pagrindu kooperuojamų lėšų, taip pat įsigyto turto valdymo, naudojimo ir disponavimo juo tvarka.“ ^b89ccad809d3ab6199d3c264
+3. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus, kuriais būtų reglamentuota jungtinės veiklos sutarties sudarymo ir jos pagrindu kooperuojamų lėšų, taip pat įsigyto turto valdymo, naudojimo ir disponavimo juo tvarka.“ ^s-f0c2936f47c506aa0d5d2dfc
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1A2B0B4D58A3"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 5 priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 5 priedėlio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 5 priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-11-25"
 latest_path: "latest/TAR.1A2B0B4D58A3.md"
 latest_sha256: "0fc06478985d5323983e8b3268041c248946c02ef06d2755a453f91b72f5b782"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1A2B0B4D58A3]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 5 priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1A2B0B4D58A3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1A2B0B4D58A3
+- Ryšiai: [[Ryšiai/TAR.1A2B0B4D58A3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 5 priedėlio 1 punkto pakeitimas
+### 1 straipsnis. Įstatymo 5 priedėlio 1 punkto pakeitimas ^s-e01c5ae90a9d76d7bfe330fd
 
 
 Pakeisti Įstatymo 5 priedėlio 1 punkto „Mokesčio už eismo ribojimą tarifai“ lentelės 7 eilutę ir ją išdėstyti taip:

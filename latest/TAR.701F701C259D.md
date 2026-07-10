@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.701F701C259D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimo"
+  - "įstatymas dėl Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.701F701C259D.md"
 latest_sha256: "60a9f0359578ed4a19ca9132e32436b1e289d6ddd8124f56a325c02695611567"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.701F701C259D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.701F701C259D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.701F701C259D
+- Ryšiai: [[Ryšiai/TAR.701F701C259D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimas
+### 1 straipsnis. Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimas ^s-37ef3bd934142902ff6f87f7
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. liepos 20 d. dekretą Nr. 1K-425, ratifikuoja Pasaulinės pašto sąjungos įstatų aštuntąjį papildomą protokolą, Pasaulinės pašto sąjungos bendrojo reglamento pirmąjį papildomą protokolą, Pasaulinės pašto konvencijos, Pasaulinės pašto konvencijos baigiamojo protokolo ir Susitarimo dėl finansinių pašto paslaugų pakeitimus, priimtus 2008 m. Ženevoje.

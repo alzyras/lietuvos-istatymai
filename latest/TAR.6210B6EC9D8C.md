@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6210B6EC9D8C"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl privačių įdarbinimo agentūrų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl privačių įdarbinimo agentūrų ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl privačių įdarbinimo agentūrų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-16"
 latest_path: "latest/TAR.6210B6EC9D8C.md"
 latest_sha256: "5a7b3e0d7b8b1005afddbc8067d6060364a38f7dec7a5da9d195b7f2bdf84744"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6210B6EC9D8C]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl privačių įdarbinimo agentūrų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6210B6EC9D8C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6210B6EC9D8C
+- Ryšiai: [[Ryšiai/TAR.6210B6EC9D8C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-5fa94dd8b0d7f96d6212d09a
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 340, ratifikuoja 1997 m. birželio 19 d. Ženevoje priimtą Konvenciją dėl privačių įdarbinimo agentūrų.

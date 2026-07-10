@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2A0497640168"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo papildymo ir pakeitimo įstatymas"
+  - "teismų įstatymo papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-16"
 latest_path: "latest/TAR.2A0497640168.md"
 latest_sha256: "47f5cebdf46ae201e0814f75a996f8a369c11fdb26bd4337b2cf392a7efc56f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2A0497640168]]"
 ---
 # Lietuvos Respublikos teismų įstatymo papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2A0497640168.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2A0497640168
+- Ryšiai: [[Ryšiai/TAR.2A0497640168|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio pirmosios dalies papildymas
+### 1 straipsnis. 39 straipsnio pirmosios dalies papildymas ^s-16a135df44173c73cd428955
 
 
 39 straipsnio pirmojoje dalyje po žodžių „kitus darbuotojus“ įrašyti žodžius „taip pat vykdo įstatymų jiems suteiktus įgaliojimus“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo papildymas nauju XVI skirsniu
+### 2 straipsnis. Įstatymo papildymas nauju XVI skirsniu ^s-58193d918428b9a1c19d7c0b
 
 
 Papildyti įstatymą nauju XVI skirsniu:
@@ -53,7 +58,7 @@ HIPOTEKOS įSTAIGOS
 
 
 
-### 681 straipsnis. Hipotekos įstaigų teisinis statusas
+### 681 straipsnis. Hipotekos įstaigų teisinis statusas ^s-9db123c243f9fa38a741c1be
 
 
 Hipotekos įstaigos priklauso teismų sistemai ir steigiamos prie apylinkės teismų hipotekinėms ir kitoms apsaugotoms teisėms bei apsaugotoms sutartims registruoti, iš jų atsirandantiems reikalavimams nagrinėti bei nutartims dėl jų patenkinimo priimti.
@@ -68,7 +73,7 @@ Hipotekos įstaiga yra juridinis asmuo, turi antspaudą su Lietuvos valstybės h
 Hipotekos įstaigos vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Teisingumo ministerijos teisės aktais bei Hipotekos įstaigų nuostatais.
 
 
-### 682 straipsnis. Hipotekos teisėjas
+### 682 straipsnis. Hipotekos teisėjas ^s-eacfd44f25a1aeaf0c5b70a8
 
 
 Hipotekos teisėjas yra hipotekos įstaigos vadovas. Hipotekos teisėją iš apylinkės teismo teisėjų skiria šio teismo pirmininkas. Jeigu hipotekos įstaigos vadovas negali eiti savo pareigų (atostogos, liga ar kitos priežastys), apylinkės teismo pirmininkas jam pavaduoti skiria kitą apylinkės teismo teisėją.
@@ -92,13 +97,13 @@ Hipotekos teisėjo veiksmai, jeigu jie varžo kieno nors teises, gali būti apsk
 Hipotekos teisėjo nutartys gali būti apskundžiamos kasacine ir apeliacine tvarka.
 
 
-### 683 straipsnis. Hipotekos įstaigų pavaldumas
+### 683 straipsnis. Hipotekos įstaigų pavaldumas ^s-b07a132364cffb6f49a9da1c
 
 
 Teisingumo ministerija koordinuoja ir kontroliuoja hipotekos įstaigų darbą bei vykdo šių įstaigų organizacinį vadovavimą. Teisingumo ministerija nustato hipotekos įstaigų darbuotojų skaičių, jų darbo užmokestį, teisingumo ministro nustatyta tvarka tikrina šių įstaigų ūkinę ir finansinę veiklą.
 
 
-### 684 straipsnis. Hipotekos įstaigų veiklos viešumas
+### 684 straipsnis. Hipotekos įstaigų veiklos viešumas ^s-61b5ead8ea8d2d88394fa1ae
 
 
 Hipotekos įstaigose sukaupta ir saugoma informacija yra vieša. Hipotekos įstaigos privalo su šia informacija supažindinti kiekvieną to pareikalavusį asmenį. Naudojimasis hipotekos įstaigų informacija yra atlygintinas.
@@ -107,13 +112,13 @@ Hipotekos įstaigose sukaupta ir saugoma informacija yra vieša. Hipotekos įsta
 Hipotekos įstaigos yra atsakingos už jų išduotų dokumentų teisingumą.
 
 
-### 685 straipsnis. Žalos, patirtos dėl hipotekos įstaigų darbuotojų kaltės, atlyginimas
+### 685 straipsnis. Žalos, patirtos dėl hipotekos įstaigų darbuotojų kaltės, atlyginimas ^s-5152d75165893b62ef9ee06e
 
 
 Jeigu asmenys, atlikdami tarnybines pareigas, dėl hipotekos įstaigų darbuotojų kaltės patiria žalą, šią žalą atlygina valstybė, jeigu kiti įstatymai nenumato ko kita.
 
 
-### 686 straipsnis. Hipotekos įstaigų finansavimas
+### 686 straipsnis. Hipotekos įstaigų finansavimas ^s-d7bc53249a26886ad8203733
 
 
 Hipotekos įstaigos yra finansuojamos iš valstybės biudžeto ir turi atskirą išlaidų sąmatą. Hipotekos įstaigų materialinei techninei bazei stiprinti gali būti panaudojamos hipotekos įstaigų raštinės rinkliavos.
@@ -122,14 +127,14 @@ Hipotekos įstaigos yra finansuojamos iš valstybės biudžeto ir turi atskirą 
 Hipotekos teikiamų paslaugų apmokėjimo tvarką bei hipotekos įstaigų raštinės rinkliavų dydį nustato Vyriausybė.
 
 
-### 687 straipsnis. Hipotekos įstaigų likvidavimas (reorganizavimas)
+### 687 straipsnis. Hipotekos įstaigų likvidavimas (reorganizavimas) ^s-436865da49a113562c25a648
 
 
 Hipotekos įstaigos likviduojamos (reorganizuojamos) įstatymu.“
 
 
 
-### 3 straipsnis. Įstatymo XVI ir XVII skirsnių pervardijimas
+### 3 straipsnis. Įstatymo XVI ir XVII skirsnių pervardijimas ^s-5a091ebc686464c5cdd4c0ad
 
 
 Įstatymo buvusius XVI ir XVII skirsnius laikyti atitinkamai XVII ir XVIII skirsniais.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F36022ED9EF7"
 pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 13 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės reformos įstatymo 13 ir 14 straipsnių pakeitimo įstatymas"
+  - "žemės reformos įstatymo 13 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-10-31"
 latest_path: "latest/TAR.F36022ED9EF7.md"
 latest_sha256: "63d4dda03563424e47bd3258d5de9ecc0da4df44f14dcf50c6e99cff8eb27b5b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F36022ED9EF7]]"
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 13 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F36022ED9EF7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F36022ED9EF7
+- Ryšiai: [[Ryšiai/TAR.F36022ED9EF7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 3 punkto pakeitimas
+### 1 straipsnis. 13 straipsnio 3 punkto pakeitimas ^s-3ae7a422768f45d361391d0c
 
 
 Pakeisti 13 straipsnio 3 punktą ir jį išdėstyti taip:
@@ -39,7 +44,7 @@ Pakeisti 13 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio 3 punkto pripažinimas netekusiu galios
+### 2 straipsnis. 14 straipsnio 3 punkto pripažinimas netekusiu galios ^s-3a1ce097e182c7809ad83e41
 
 
 14 straipsnio 3 punktą pripažinti netekusiu galios.

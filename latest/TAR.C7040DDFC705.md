@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C7040DDFC705"
 pavadinimas: "Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-09-24"
 latest_path: "latest/TAR.C7040DDFC705.md"
 latest_sha256: "6ffb6dd2d72c35e88bce1f15808a274659df5b8294957645a01adcb948352104"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C7040DDFC705]]"
 ---
 # Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C7040DDFC705.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C7040DDFC705
+- Ryšiai: [[Ryšiai/TAR.C7040DDFC705|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-003d85b2dc9ec8ece2b240ad
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:

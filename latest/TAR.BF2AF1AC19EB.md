@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BF2AF1AC19EB"
 pavadinimas: "Lietuvos Respublikos viešojo pirkimo įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešojo pirkimo įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "viešojo pirkimo įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-24"
 latest_path: "latest/TAR.BF2AF1AC19EB.md"
 latest_sha256: "9f6f97b2161817a151ab44993879f0291872f326def5474bc662ead1af189a00"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BF2AF1AC19EB]]"
 ---
 # Lietuvos Respublikos viešojo pirkimo įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BF2AF1AC19EB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BF2AF1AC19EB
+- Ryšiai: [[Ryšiai/TAR.BF2AF1AC19EB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 5 dalies pakeitimas ^s-1a7dcdc8872ff2c4c69b208e
 
 
 9 straipsnio 5 dalį išdėstyti taip:

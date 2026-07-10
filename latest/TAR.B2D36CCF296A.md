@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B2D36CCF296A"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso papildymo 64-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso papildymo 64-1 straipsniu įstatymas"
+  - "baudžiamojo kodekso papildymo 64-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.B2D36CCF296A.md"
 latest_sha256: "8e4f378470bdd51591311b64af652c1093dde4e9f1dd9a9cc471ad299cfde798"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B2D36CCF296A]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso papildymo 64-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B2D36CCF296A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B2D36CCF296A
+- Ryšiai: [[Ryšiai/TAR.B2D36CCF296A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Kodekso papildymas 641 straipsniu
+### 1 straipsnis. Kodekso papildymas 641 straipsniu ^s-a679f3e54208e38d4e4ea941
 
 
 Papildyti Kodeksą 641 straipsniu:
@@ -43,10 +48,10 @@ Papildyti Kodeksą 641 straipsniu:
 „641 straipsnis. Bausmės skyrimas bylą išnagrinėjus supaprastinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą
 
 
-1. Baudžiamąją bylą išnagrinėjus pagreitinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą, taip pat kai baudžiamoji byla baigiama teismo baudžiamuoju įsakymu, nuteistajam skiriama bausmė, kuri tuo pačiu nuosprendžiu sumažinama vienu trečdaliu. ^84ccc610b2ca5d1f39b38c57
+1. Baudžiamąją bylą išnagrinėjus pagreitinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą, taip pat kai baudžiamoji byla baigiama teismo baudžiamuoju įsakymu, nuteistajam skiriama bausmė, kuri tuo pačiu nuosprendžiu sumažinama vienu trečdaliu. ^s-1ba2dde512c61d14b74aec17
 
 
-2. [[#^84ccc610b2ca5d1f39b38c57|Šio straipsnio 1 dalyje]] nustatyta taisyklė taikoma tik tais atvejais, kai asmuo prisipažįsta esąs kaltas.“ ^9c7b2d87bb9bcbfacabb607d
+2. [[#^s-1ba2dde512c61d14b74aec17|Šio straipsnio 1 dalyje]] nustatyta taisyklė taikoma tik tais atvejais, kai asmuo prisipažįsta esąs kaltas.“ ^s-563c7dc235a4d6ab1964501a
 
 
 

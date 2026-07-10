@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6F78CE34986D"
 pavadinimas: "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas"
+  - "gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-14"
 latest_path: "latest/TAR.6F78CE34986D.md"
 latest_sha256: "00db4167edde7788e711e667968b0ebfce764d4ba0acb644ac66a3d8ffd1bbd0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6F78CE34986D]]"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6F78CE34986D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6F78CE34986D
+- Ryšiai: [[Ryšiai/TAR.6F78CE34986D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas 8 dalimi
+### 1 straipsnis. 3 straipsnio papildymas 8 dalimi ^s-51da18759d8b71726d772a03
 
 
 Papildyti 3 straipsnį 8 dalimi:
@@ -39,23 +44,23 @@ Papildyti 3 straipsnį 8 dalimi:
 
 
 
-### 2 straipsnis. 4 straipsnio papildymas 6 ir 7 dalimis
+### 2 straipsnis. 4 straipsnio papildymas 6 ir 7 dalimis ^s-c76a98dea30a4ba719f207a7
 
 
-1. Papildyti 4 straipsnį 6 dalimi: ^be9d445b923fce716078afd2
+1. Papildyti 4 straipsnį 6 dalimi: ^s-e0c3cc0b8c013ecaa796a948
 
 
 „6. Užsienio valstybėse gyvenantys asmenys, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgiau negu šešis mėnesius, apie gyvenamosios vietos pakeitimą deklaruoja per Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas užsienio valstybėse. Šių asmenų pateikta gyvenamosios vietos deklaracija persiunčiama deklaravimo įstaigai.“
 
 
-2. Papildyti 4 straipsnį 7 dalimi: ^d7e45f61b6eb34b773eb675b
+2. Papildyti 4 straipsnį 7 dalimi: ^s-bbd0de207519b769f2a10024
 
 
 „7. Gyvenamosios vietos neturintys asmenys Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka į apskaitą įtraukiami pagal savivaldybę, kurioje jie gyvena. Gyvenamosios vietos neturintys asmenys deklaravimo įstaigai pateikia šio įstatymo 6 straipsnio 2 dalies 1–6 punktuose nustatytus duomenis ir nurodo,  kurioje savivaldybėje jie gyvena ir iš kur atvyko.“
 
 
 
-### 3 straipsnis. 11 straipsnio papildymas
+### 3 straipsnis. 11 straipsnio papildymas ^s-4130952bded1da5c96e7f4c8
 
 
 Papildyti 11 straipsnį ir jį išdėstyti taip:
@@ -68,7 +73,7 @@ Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenų valdytojo įga
 
 
 
-### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-bc123da162c6f602e2a3a1f4
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos per tris mėnesius nuo šio Įstatymo įsigaliojimo patvirtina teisės aktus, reikalingus šio Įstatymo nuostatoms įgyvendinti, įskaitant gyvenamosios vietos neturinčių asmenų apskaitos tvarką.

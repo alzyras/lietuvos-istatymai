@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4479A6CC10C9"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 10 straipsnio pakeitimo ir priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 10 straipsnio pakeitimo ir priedo papildymo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 10 straipsnio pakeitimo ir priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.4479A6CC10C9.md"
 latest_sha256: "63a2b05808e957e1f3a5979f32c895c5450a769a59052f706cc41b5239547ad9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4479A6CC10C9]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 10 straipsnio pakeitimo ir priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4479A6CC10C9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4479A6CC10C9
+- Ryšiai: [[Ryšiai/TAR.4479A6CC10C9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-4d5232a01c6b9216a0976ccc
 
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,29 +48,29 @@ Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo priedo papildymas
+### 2 straipsnis. Įstatymo priedo papildymas ^s-46e6fc7eb732e8ed7d32a30b
 
 
-1. Papildyti Įstatymo priedą 6 punktu: ^2a477eaa7220c5a7de25363d
+1. Papildyti Įstatymo priedą 6 punktu: ^s-056bf7485db54583e07227f7
 
 
 „6) 1998 m. birželio 4 d. Tarybos rekomendacija 1998/376/EB dėl neįgalių asmenų automobilių statymo kortelių;“.
 
 
-2. Papildyti Įstatymo priedą 7 punktu: ^30aba7542265cb667d9c4c35
+2. Papildyti Įstatymo priedą 7 punktu: ^s-0362c0a069b21e5ba92122d7
 
 
 „7) 2008 m. kovo 3 d. Tarybos rekomendacija 2008/205/EB, pritaikanti Rekomendaciją 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių, siekiant atsižvelgti į Bulgarijos Respublikos, Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Rumunijos, Slovėnijos Respublikos ir Slovakijos Respublikos įstojimą (OL 2008 L 63, p. 43).“
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-79bb1b840b158927b3523357
 
 
-1. Šis įstatymas, išskyrus [[#^ece5e35d1d2ca6b17b01a776|3 straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^9e4f5b0bf1f112c16f58ecc6
+1. Šis įstatymas, išskyrus [[#^s-54a60dccfff222c949de4e71|3 straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-f0655e54055b544ab93de3bd
 
 
-2. Socialinės apsaugos ir darbo ministerija arba jos įgaliotos institucijos iki 2010 m. sausio 1 d. priima šiam įstatymui įgyvendinti būtinus teisės aktus. ^ece5e35d1d2ca6b17b01a776
+2. Socialinės apsaugos ir darbo ministerija arba jos įgaliotos institucijos iki 2010 m. sausio 1 d. priima šiam įstatymui įgyvendinti būtinus teisės aktus. ^s-54a60dccfff222c949de4e71
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2A1AF63B1BCC"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl atsakomybės už Lietuvos gyventojų genocidą\" papildymo 1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl atsakomybės už Lietuvos gyventojų genocidą\" papildymo 1 straipsniu įstatymas"
+  - "įstatymo \"Dėl atsakomybės už Lietuvos gyventojų genocidą\" papildymo 1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-18"
 latest_path: "latest/TAR.2A1AF63B1BCC.md"
 latest_sha256: "5b8458a95feb81a07cd666bca69b38536eaa4e0980de4812e43118eaa2b37a39"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2A1AF63B1BCC]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl atsakomybės už Lietuvos gyventojų genocidą" papildymo 1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2A1AF63B1BCC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2A1AF63B1BCC
+- Ryšiai: [[Ryšiai/TAR.2A1AF63B1BCC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 1 straipsniu
+### 1 straipsnis. Įstatymo papildymas 1 straipsniu ^s-15b276c58a81c3ec28ffce6c
 
 
 Papildyti Įstatymą 1 straipsniu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C286179096E9"
 pavadinimas: "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-16"
 latest_path: "latest/TAR.C286179096E9.md"
 latest_sha256: "24e17047456e184ca7bfa5b1b90a478c314af7b2bac5a3601acf5954d765253c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C286179096E9]]"
 ---
 # Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C286179096E9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C286179096E9
+- Ryšiai: [[Ryšiai/TAR.C286179096E9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 4 dalies 13 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 4 dalies 13 punkto pakeitimas ^s-b1cab8b9d4aa8e7458eac1ce
 
 
 Pakeisti 5 straipsnio 4 dalies 13 punktą ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4908B77F5BD"
 pavadinimas: "Lietuvos Respublikos loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas"
+  - "loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-03-01"
 latest_path: "latest/TAR.B4908B77F5BD.md"
 latest_sha256: "99b7b7d31b541e2638ee93a69da37d2b8a8839b89c47dcf4674e6c5b3aa637d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4908B77F5BD]]"
 ---
 # Lietuvos Respublikos loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4908B77F5BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4908B77F5BD
+- Ryšiai: [[Ryšiai/TAR.B4908B77F5BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-55f400dc70bb2b15b1e9812c
 
 
 4 straipsnio 1 dalyje vietoj žodžių „Valstybinė lošimų priežiūros komisija“ įrašyti žodžius „Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Priežiūros tarnyba)“ ir šią dalį išdėstyti taip:
@@ -44,23 +49,23 @@ Vilnius
 
 
 
-### 2 straipsnis. 10 straipsnio 4 ir 6 dalių pakeitimas
+### 2 straipsnis. 10 straipsnio 4 ir 6 dalių pakeitimas ^s-f1cb8910fba89b547805c941
 
 
-1. Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip: ^e64f0de6bcb37d82db04c1b0
+1. Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip: ^s-0fb012e48ca78af5adc394af
 
 
 „4. Didžiosios ir mažosios loterijų organizatorius privalo registruoti laimėjusius asmenis Priežiūros tarnybos nustatyta tvarka.“
 
 
-2. Pakeisti 10 straipsnio 6 dalį ir ją išdėstyti taip: ^b1557ab9c2519365799eb317
+2. Pakeisti 10 straipsnio 6 dalį ir ją išdėstyti taip: ^s-c9910240f80f34aeca3ae03e
 
 
 „6. Loterijos organizatorius informaciją apie šio straipsnio 4 dalyje nurodytus laimėjusius asmenis ir su jais susijusius dokumentus, išskyrus šio Įstatymo 13 straipsnio 3 dalyje nustatytus atvejus, Priežiūros tarnybos nustatyta tvarka saugo 5 metus ir įstatymų nustatyta tvarka privalo pateikti tik Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, teismui ir kitoms institucijoms.“
 
 
 
-### 3 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-6654a6089b4fab5be1b70221
 
 
 11 straipsnio 1 dalyje vietoj žodžių „Valstybinei lošimų priežiūros komisijai“ įrašyti žodžius „Priežiūros tarnybai“ ir šią dalį išdėstyti taip:
@@ -70,7 +75,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 13 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 13 straipsnio 3 dalies pakeitimas ^s-58bef7316e8be1e355ddc1d1
 
 
 13 straipsnio 3 dalyje vietoj žodžių „Valstybinės lošimų priežiūros komisijos“ įrašyti žodžius „Priežiūros tarnybos“ ir šią dalį išdėstyti taip:
@@ -80,7 +85,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 15 straipsnio pakeitimas
+### 5 straipsnis. 15 straipsnio pakeitimas ^s-a7373d812e59a9ddd97b24fd
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -94,7 +99,7 @@ Skaitmeninės ir klasikinės loterijų tiražų metu turi dalyvauti komisija. Ko
 
 
 
-### 6 straipsnis. 19 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 19 straipsnio 3 dalies pakeitimas ^s-9c9bec1ff0a26d083264c52a
 
 
 19 straipsnio 3 dalyje vietoj žodžių „Valstybine lošimų priežiūros komisija“ įrašyti žodžius „Priežiūros tarnyba“ ir šią dalį išdėstyti taip:
@@ -104,7 +109,7 @@ Skaitmeninės ir klasikinės loterijų tiražų metu turi dalyvauti komisija. Ko
 
 
 
-### 7 straipsnis. 20 straipsnio pakeitimas
+### 7 straipsnis. 20 straipsnio pakeitimas ^s-8214679e7f790c9c2ba1490c
 
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
@@ -118,7 +123,7 @@ Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito 
 
 
 
-### 8 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 8 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-f6efb4772f8834e9213a3c65
 
 
 23 straipsnio 1 dalyje vietoj žodžių „Valstybinė lošimų priežiūros komisija“ įrašyti žodžius „Priežiūros tarnyba“ ir šią dalį išdėstyti taip:
@@ -128,7 +133,7 @@ Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito 
 
 
 
-### 9 straipsnis. 26 straipsnio pakeitimas
+### 9 straipsnis. 26 straipsnio pakeitimas ^s-089922b6121a1b3ee9e8aa8e
 
 
 26 straipsnyje vietoj žodžių „Valstybinei lošimų priežiūros komisijai“ įrašyti žodžius „Priežiūros tarnybai“, vietoj žodžių „metinę finansinę atskaitomybę“ įrašyti žodžius „metinių finansinių ataskaitų rinkinį“, vietoj žodžio „(nuostolio)“ – žodį „(nuostolių)“ ir šį straipsnį išdėstyti taip:
@@ -141,7 +146,7 @@ Didžiosios loterijos organizatorius ne vėliau kaip per 4 mėnesius nuo finansi
 
 
 
-### 10 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 10 straipsnis. 27 straipsnio 2 dalies pakeitimas ^s-cd176a1d6d52fa7b0fe85c53
 
 
 27 straipsnio 2 dalyje vietoj žodžių „Valstybinė lošimų priežiūros komisija“ įrašyti žodžius „Priežiūros tarnyba“ ir šią dalį išdėstyti taip:
@@ -151,7 +156,7 @@ Didžiosios loterijos organizatorius ne vėliau kaip per 4 mėnesius nuo finansi
 
 
 
-### 11 straipsnis. Įstatymo įsigaliojimas
+### 11 straipsnis. Įstatymo įsigaliojimas ^s-9d9064716d2c6563548149dd
 
 
 Šis įstatymas įsigalioja 2012 m. kovo 1 d.

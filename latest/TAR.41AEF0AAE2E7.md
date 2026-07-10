@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.41AEF0AAE2E7"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo 56 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo 56 straipsnio pakeitimo įstatymas"
+  - "švietimo įstatymo 56 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-08-04"
 latest_path: "latest/TAR.41AEF0AAE2E7.md"
 latest_sha256: "a2aa77cfa164cd40e021dd1dfe008d4ae064fa157222b533ae030639764e0af3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.41AEF0AAE2E7]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo 56 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.41AEF0AAE2E7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.41AEF0AAE2E7
+- Ryšiai: [[Ryšiai/TAR.41AEF0AAE2E7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 56 straipsnio 8 punkto pakeitimas
+### 1 straipsnis. 56 straipsnio 8 punkto pakeitimas ^s-743299dd4dece93caacddfda
 
 
 Pakeisti 56 straipsnio 8 punktą ir jį išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 56 straipsnio 8 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 75 straipsnio papildymas 5 dalimi
+### 2 straipsnis. 75 straipsnio papildymas 5 dalimi ^s-9cc1455d83935e91ceb2c4e2
 
 
 Papildyti 75 straipsnį 5 dalimi ir ją išdėstyti taip:

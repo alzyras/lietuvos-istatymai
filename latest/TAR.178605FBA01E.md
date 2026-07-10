@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.178605FBA01E"
 pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas"
+  - "baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-24"
 latest_path: "latest/TAR.178605FBA01E.md"
 latest_sha256: "4d32a5256006bf633929c26ac870c2e8dc3a89d5fa7ac8c6f5e7d027213fe6f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.178605FBA01E]]"
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.178605FBA01E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.178605FBA01E
+- Ryšiai: [[Ryšiai/TAR.178605FBA01E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 65 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 65 straipsnio 1 ir 2 dalių pakeitimas ^s-ce10417472f67e492f16d856
 
 
-1. Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip: ^9f831d047b1905f107baa2f3
+1. Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip: ^s-86605882edcd64260f81ff32
 
 
 „1. Ikiteisminio tyrimo teisėjo atliekamus proceso veiksmus ir jo priimtas nutartis proceso dalyviai gali apskųsti apylinkės teismo pirmininkui.“
 
 
-2. Pakeisti 65 straipsnio 2 dalį ir ją išdėstyti taip: ^b4406e8d0528e4f123060ba2
+2. Pakeisti 65 straipsnio 2 dalį ir ją išdėstyti taip: ^s-6411771a74f0b16497baab83
 
 
 „2. Apylinkės teismo pirmininkas arba jo paskyrimu apylinkės teismo pirmininko pavaduotojas skundą privalo išnagrinėti per penkias dienas nuo jo gavimo. Nagrinėjant skundą, gali dalyvauti prokuroras, įtariamojo gynėjas ir skundą padavęs asmuo. Suimtas įtariamasis pristatomas pas apylinkės teismo pirmininką arba jo pavaduotoją, jeigu tai būtina.“
 
 
 
-### 2 straipsnis. 94 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 94 straipsnio 2 dalies pakeitimas ^s-79af36199f996809e69dce84
 
 
 Pakeisti 94 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -57,7 +62,7 @@ Pakeisti 94 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 103 straipsnio 1 dalies 6 punkto pakeitimas
+### 3 straipsnis. 103 straipsnio 1 dalies 6 punkto pakeitimas ^s-6eb12563773193d8203dd67a
 
 
 Pakeisti 103 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
@@ -67,7 +72,7 @@ Pakeisti 103 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 109 straipsnio papildymas
+### 4 straipsnis. 109 straipsnio papildymas ^s-d017be4d6814aecdb8250e39
 
 
 Papildyti 109 straipsnį ir jį išdėstyti taip:
@@ -80,7 +85,7 @@ Asmuo, dėl nusikalstamos veikos patyręs turtinės ar neturtinės žalos, turi 
 
 
 
-### 5 straipsnis. 139 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 139 straipsnio 2 dalies pakeitimas ^s-8907fd9c72545fac5f613f9a
 
 
 Pakeisti 139 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -90,7 +95,7 @@ Pakeisti 139 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 151 straipsnio 7 dalies papildymas
+### 6 straipsnis. 151 straipsnio 7 dalies papildymas ^s-06e5eb6e37aea838ec75f1fc
 
 
 Papildyti 151 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -100,7 +105,7 @@ Papildyti 151 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 154 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 154 straipsnio 1 dalies pakeitimas ^s-afe05702dfc8ec30290327cf
 
 
 Pakeisti 154 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -110,7 +115,7 @@ Pakeisti 154 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 158 straipsnio 1 dalies papildymas
+### 8 straipsnis. 158 straipsnio 1 dalies papildymas ^s-3e7d523fdedb1d6f511a5b7e
 
 
 Papildyti 158 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -120,7 +125,7 @@ Papildyti 158 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 168 straipsnio 4 dalies papildymas
+### 9 straipsnis. 168 straipsnio 4 dalies papildymas ^s-959ea456192a2e69fb1aa1b1
 
 
 Papildyti 168 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -130,7 +135,7 @@ Papildyti 168 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 181 straipsnio papildymas
+### 10 straipsnis. 181 straipsnio papildymas ^s-52c5a43eef5c10a7b5092def
 
 
 Papildyti 181 straipsnį ir jį išdėstyti taip:
@@ -139,18 +144,18 @@ Papildyti 181 straipsnį ir jį išdėstyti taip:
 „181 straipsnis.   Įtariamojo ir jo gynėjo, nukentėjusiojo ir jo atstovo teisė susipažinti su ikiteisminio tyrimo duomenimis
 
 
-1. Įtariamasis ir jo gynėjas, nukentėjusysis ir jo atstovas ikiteisminio tyrimo metu bet kuriuo momentu turi teisę susipažinti su ikiteisminio tyrimo duomenimis, taip pat daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. Prašymas susipažinti su ikiteisminio tyrimo medžiaga ar daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus pateikiamas prokurorui. Prokuroras turi teisę neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, jei toks susipažinimas, prokuroro manymu, galėtų pakenkti ikiteisminio tyrimo sėkmei. Atsisakydamas leisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat atsisakydamas leisti daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, prokuroras privalo surašyti nutarimą. Šis nutarimas per septynias dienas gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą išnagrinėti per tris dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama. ^73d626f4e9ec09a9677a09d5
+1. Įtariamasis ir jo gynėjas, nukentėjusysis ir jo atstovas ikiteisminio tyrimo metu bet kuriuo momentu turi teisę susipažinti su ikiteisminio tyrimo duomenimis, taip pat daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. Prašymas susipažinti su ikiteisminio tyrimo medžiaga ar daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus pateikiamas prokurorui. Prokuroras turi teisę neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, jei toks susipažinimas, prokuroro manymu, galėtų pakenkti ikiteisminio tyrimo sėkmei. Atsisakydamas leisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat atsisakydamas leisti daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, prokuroras privalo surašyti nutarimą. Šis nutarimas per septynias dienas gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą išnagrinėti per tris dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama. ^s-9aba8d40c484664a5fea1b24
 
 
 
-2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. ^af29f70cb62fc8712569c6d0
+2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. ^s-b7d02e8b80a40d34320e3323
 
 
-3. Jeigu įtariamasis yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis bei teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas, o atsisakius gynėjo – įtariamasis.“ ^cc6a066fb0623b604c046a1b
+3. Jeigu įtariamasis yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis bei teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas, o atsisakius gynėjo – įtariamasis.“ ^s-89254a7994806446f0ec06d4
 
 
 
-### 11 straipsnis. 218 straipsnio pakeitimas
+### 11 straipsnis. 218 straipsnio pakeitimas ^s-52bafe54425cdb79152995d2
 
 
 Pakeisti 218 straipsnį ir jį išdėstyti taip:
@@ -159,42 +164,42 @@ Pakeisti 218 straipsnį ir jį išdėstyti taip:
 „218 straipsnis. Ikiteisminio tyrimo pabaiga
 
 
-1. Prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, paskelbia įtariamajam, o jo gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams praneša, kad ikiteisminis tyrimas pabaigtas ir jie turi teisę susipažinti su ikiteisminio tyrimo medžiaga bei pateikti prašymus papildyti ikiteisminį tyrimą. Jeigu procese yra daug nukentėjusiųjų ar civilinių ieškovų, apie ikiteisminio tyrimo pabaigą jiems gali būti pranešama per spaudą. ^b8156b4a5e7d7cf6a4943d98
+1. Prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, paskelbia įtariamajam, o jo gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams praneša, kad ikiteisminis tyrimas pabaigtas ir jie turi teisę susipažinti su ikiteisminio tyrimo medžiaga bei pateikti prašymus papildyti ikiteisminį tyrimą. Jeigu procese yra daug nukentėjusiųjų ar civilinių ieškovų, apie ikiteisminio tyrimo pabaigą jiems gali būti pranešama per spaudą. ^s-82cec97a2b5bf978b4a1d931
 
 
-2. [[#^b8156b4a5e7d7cf6a4943d98|Šio straipsnio 1 dalyje]] numatyti proceso dalyviai turi teisę per prokuroro nustatytą terminą pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga. Jeigu yra toks jų prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga. Gali būti supažindinama įteikiant ikiteisminio tyrimo medžiagos kopiją. Tais atvejais, kai kopija neįteikiama, prokuroras nustato terminą, per kurį proceso dalyviai turi teisę susipažinti su ikiteisminio tyrimo medžiaga ir pateikti prašymus dėl ikiteisminio tyrimo papildymo. ^d8b582506db535d219684f62
+2. [[#^s-82cec97a2b5bf978b4a1d931|Šio straipsnio 1 dalyje]] numatyti proceso dalyviai turi teisę per prokuroro nustatytą terminą pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga. Jeigu yra toks jų prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga. Gali būti supažindinama įteikiant ikiteisminio tyrimo medžiagos kopiją. Tais atvejais, kai kopija neįteikiama, prokuroras nustato terminą, per kurį proceso dalyviai turi teisę susipažinti su ikiteisminio tyrimo medžiaga ir pateikti prašymus dėl ikiteisminio tyrimo papildymo. ^s-5aeacd2a0c4b9eb97b65e706
 
 
-3. Kai ikiteisminį tyrimą ar daugumą jo veiksmų atliko ikiteisminio tyrimo pareigūnas, prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, gali jam pavesti atlikti šio straipsnio 1 ir [[#^d8b582506db535d219684f62|2 dalyse]] numatytus veiksmus. ^038f0176aae3f81cb639cf1f
+3. Kai ikiteisminį tyrimą ar daugumą jo veiksmų atliko ikiteisminio tyrimo pareigūnas, prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, gali jam pavesti atlikti šio straipsnio 1 ir [[#^s-5aeacd2a0c4b9eb97b65e706|2 dalyse]] numatytus veiksmus. ^s-6387b7ecbde6d21793c536c4
 
 
-4. Gautus prašymus papildyti ikiteisminį tyrimą motyvuotu nutarimu išsprendžia prokuroras. Jeigu prokuroras nusprendė atlikti papildomus proceso veiksmus, [[#^b8156b4a5e7d7cf6a4943d98|šio straipsnio 1 dalyje]] numatyti proceso dalyviai supažindinami tik su medžiaga, gauta atlikus papildomus proceso veiksmus. ^9352f4b4e248e770be0a361c
+4. Gautus prašymus papildyti ikiteisminį tyrimą motyvuotu nutarimu išsprendžia prokuroras. Jeigu prokuroras nusprendė atlikti papildomus proceso veiksmus, [[#^s-82cec97a2b5bf978b4a1d931|šio straipsnio 1 dalyje]] numatyti proceso dalyviai supažindinami tik su medžiaga, gauta atlikus papildomus proceso veiksmus. ^s-556a366873e7e53d36656ddd
 
 
-5. Ikiteisminio tyrimo pareigūnas pateikia trumpą rašytinę atliktų ikiteisminio tyrimo veiksmų ataskaitą, jeigu prokuroras nenurodo kitaip. ^fd8889e1edf2d27eb01feb7e
+5. Ikiteisminio tyrimo pareigūnas pateikia trumpą rašytinę atliktų ikiteisminio tyrimo veiksmų ataskaitą, jeigu prokuroras nenurodo kitaip. ^s-380239e81a06eab2dbde4015
 
 
-6. Atlikus šiame straipsnyje numatytus veiksmus, prokuroras surašo kaltinamąjį aktą.“ ^806bcc937cd9afd8354246a4
+6. Atlikus šiame straipsnyje numatytus veiksmus, prokuroras surašo kaltinamąjį aktą.“ ^s-d839f693d8131b7a749357cd
 
 
 
-### 12 straipsnis. 220 straipsnio pakeitimas
+### 12 straipsnis. 220 straipsnio pakeitimas ^s-ba6e34fb97e5c28b75093cf5
 
 
-1. Pakeisti 220 straipsnio 4 dalį ir ją išdėstyti taip: ^7446b83f448b47294e911f63
+1. Pakeisti 220 straipsnio 4 dalį ir ją išdėstyti taip: ^s-e0ebc52162d7b9c0609eb366
 
 
 „4. Kaltinamojo akto nuorašą prokuroras taip pat įteikia kaltinamajam.“
 
 
-2. 220 straipsnio 5 ir 6 dalis pripažinti netekusiomis galios. ^6e4b0f0bca54d565eb869b97
+2. 220 straipsnio 5 ir 6 dalis pripažinti netekusiomis galios. ^s-e57c12e94dccadf88df8b0f0
 
 
-3. Buvusią 220 straipsnio 7 dalį laikyti 5 dalimi. ^2e7439e851de5effd3c538fa
+3. Buvusią 220 straipsnio 7 dalį laikyti 5 dalimi. ^s-26c34da605e2f8f530ed22bb
 
 
 
-### 13 straipsnis. 225 straipsnio 1 dalies papildymas
+### 13 straipsnis. 225 straipsnio 1 dalies papildymas ^s-4c2cbc6a63c82e72559b6580
 
 
 Papildyti 225 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -204,21 +209,21 @@ Papildyti 225 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 14 straipsnis. 232 straipsnio 1 dalies papildymas ir pakeitimas
+### 14 straipsnis. 232 straipsnio 1 dalies papildymas ir pakeitimas ^s-b6186547b301f80d36db857e
 
 
-1. Papildyti 232 straipsnio 1 dalį nauju 6 punktu: ^5ddc9e4bb5f89bb96b768944
+1. Papildyti 232 straipsnio 1 dalį nauju 6 punktu: ^s-c3fa91ad5128f0fcd2a2a445
 
 
 
 „6) pavesti ikiteisminio tyrimo teisėjui atlikti šio Kodekso XIV skyriaus antrajame, trečiajame, ketvirtajame ir penktajame skirsniuose numatytą proceso veiksmą ar organizuoti šio proceso veiksmo atlikimą;“.
 
 
-2. Buvusį 232 straipsnio 1 dalies 6 punktą laikyti 7 punktu. ^6bb7ed6ce6f362cdcf1eca3c
+2. Buvusį 232 straipsnio 1 dalies 6 punktą laikyti 7 punktu. ^s-7fa1e3b5686df526f9d87f70
 
 
 
-### 15 straipsnis. 237 straipsnio pakeitimas
+### 15 straipsnis. 237 straipsnio pakeitimas ^s-5681776c3e08da1ca44b178c
 
 
 Pakeisti 237 straipsnį ir jį išdėstyti taip:
@@ -227,59 +232,59 @@ Pakeisti 237 straipsnį ir jį išdėstyti taip:
 „237 straipsnis. Susipažinimas su baudžiamąja byla
 
 
-1. Prokuroras, kaltinamasis, atstovas pagal įstatymą, gynėjas, taip pat nukentėjusysis, civilinis ieškovas, civilinis atsakovas ir jų atstovai nuo bylos gavimo teisme dienos turi teisę susipažinti su papildomai gauta po kaltinamojo akto surašymo, o per teisėjo nustatytą terminą – ir su kita bylos medžiaga ir daryti jos išrašus ar kopijas. ^2678fa11a765317e1cb2f5ef
+1. Prokuroras, kaltinamasis, atstovas pagal įstatymą, gynėjas, taip pat nukentėjusysis, civilinis ieškovas, civilinis atsakovas ir jų atstovai nuo bylos gavimo teisme dienos turi teisę susipažinti su papildomai gauta po kaltinamojo akto surašymo, o per teisėjo nustatytą terminą – ir su kita bylos medžiaga ir daryti jos išrašus ar kopijas. ^s-f6e932467aa89431f4edcf6f
 
 
-2. Jeigu kaltinamasis suimtas, su [[#^2678fa11a765317e1cb2f5ef|šio straipsnio 1 dalyje]] nurodyta bylos medžiaga susipažįsta jo gynėjas. Gynėjas turi teisę daryti jos išrašus ar kopijas. Atsisakius gynėjo, susipažinti su bylos medžiaga, daryti jos išrašus ar kopijas turi teisę kaltinamasis. Neturinčiam gynėjo kaltinamajam gynėją paskiria teismas. Susipažinęs su minėta medžiaga ar padaręs jos išrašus ar kopijas, gynėjas apie bylos medžiagą informuoja kaltinamąjį ir apie tai praneša teismui. ^6ba0621854272b33a2418458
+2. Jeigu kaltinamasis suimtas, su [[#^s-f6e932467aa89431f4edcf6f|šio straipsnio 1 dalyje]] nurodyta bylos medžiaga susipažįsta jo gynėjas. Gynėjas turi teisę daryti jos išrašus ar kopijas. Atsisakius gynėjo, susipažinti su bylos medžiaga, daryti jos išrašus ar kopijas turi teisę kaltinamasis. Neturinčiam gynėjo kaltinamajam gynėją paskiria teismas. Susipažinęs su minėta medžiaga ar padaręs jos išrašus ar kopijas, gynėjas apie bylos medžiagą informuoja kaltinamąjį ir apie tai praneša teismui. ^s-0f7666cfe84c8ef466207309
 
 
-3. Proceso dalyviai turi teisę susipažinti su bylos medžiaga, daryti jos išrašus ar kopijas ir pasibaigus [[#^2678fa11a765317e1cb2f5ef|šio straipsnio 1 dalyje]] numatytam terminui, jeigu tai netrukdo bylą nagrinėti teisme.“ ^72b6d8328a5e55b67a858fbc
+3. Proceso dalyviai turi teisę susipažinti su bylos medžiaga, daryti jos išrašus ar kopijas ir pasibaigus [[#^s-f6e932467aa89431f4edcf6f|šio straipsnio 1 dalyje]] numatytam terminui, jeigu tai netrukdo bylą nagrinėti teisme.“ ^s-4de7eed8b442d8ac9dde1f58
 
 
 
-### 16 straipsnis. 239 straipsnio 1 dalies pakeitimas ir papildymas
+### 16 straipsnis. 239 straipsnio 1 dalies pakeitimas ir papildymas ^s-b73df1785b0ec0c051d7f021
 
 
-Pakeisti 239 straipsnio 1 dalį, ją papildyti [[#^53078bcc9eef1eac9cf6fcb9|3 punktu]] ir šią dalį išdėstyti taip:
+Pakeisti 239 straipsnio 1 dalį, ją papildyti [[#^s-37d268cc4812a110e4d52584|3 punktu]] ir šią dalį išdėstyti taip:
 
 
 „1. Rengiančio bylą nagrinėti teisme teisėjo nutartimi ikiteisminio tyrimo teisėjas po bylos perdavimo nagrinėti teisiamajame posėdyje atlieka šiuos veiksmus:
 
 
-1) apklausia asmenį, kuris turi duoti parodymus teisme, jeigu yra duomenų, kad jis dėl ligos ar kitų svarbių priežasčių negalės dalyvauti teisiamajame posėdyje; ^74c0793547d81fafdc59af1c
+1) apklausia asmenį, kuris turi duoti parodymus teisme, jeigu yra duomenų, kad jis dėl ligos ar kitų svarbių priežasčių negalės dalyvauti teisiamajame posėdyje; ^s-16394f6dec92963b5f40c7ab
 
 
-2) apklausia jaunesnį kaip aštuoniolikos metų liudytoją ar nukentėjusįjį, jeigu dėl apklausos teisiamajame posėdyje jam gali būti psichinė trauma ar kitokių sunkių pasekmių; ^24a77d768763cb4989b66365
+2) apklausia jaunesnį kaip aštuoniolikos metų liudytoją ar nukentėjusįjį, jeigu dėl apklausos teisiamajame posėdyje jam gali būti psichinė trauma ar kitokių sunkių pasekmių; ^s-e604f9d3cb799175e739e2be
 
 
-3) atlieka šio Kodekso XIV skyriaus antrajame, trečiajame, ketvirtajame ir penktajame skirsniuose numatytą proceso veiksmą ar organizuoja šio proceso veiksmo atlikimą, jeigu šių veiksmų atlikti teisme dėl kokių nors priežasčių neįmanoma arba tai labai apsunkintų bylos nagrinėjimą.“ ^53078bcc9eef1eac9cf6fcb9
+3) atlieka šio Kodekso XIV skyriaus antrajame, trečiajame, ketvirtajame ir penktajame skirsniuose numatytą proceso veiksmą ar organizuoja šio proceso veiksmo atlikimą, jeigu šių veiksmų atlikti teisme dėl kokių nors priežasčių neįmanoma arba tai labai apsunkintų bylos nagrinėjimą.“ ^s-37d268cc4812a110e4d52584
 
 
 
-### 17 straipsnis. 240 straipsnio 4 dalies pripažinimas netekusia galios
+### 17 straipsnis. 240 straipsnio 4 dalies pripažinimas netekusia galios ^s-a0886803e430adbec374db06
 
 
 240 straipsnio 4 dalį pripažinti netekusia galios.
 
 
 
-### 18 straipsnis. 306 straipsnio 1 ir 3 dalių papildymas ir pakeitimas
+### 18 straipsnis. 306 straipsnio 1 ir 3 dalių papildymas ir pakeitimas ^s-4d5256a6e6818e669cfc2403
 
 
-1. Papildyti 306 straipsnio 1 dalį ir ją išdėstyti taip: ^817a671d5a0e14074c21109f
+1. Papildyti 306 straipsnio 1 dalį ir ją išdėstyti taip: ^s-22a0d0cc2a61871ac7c3c22e
 
 
-„1. Apylinkės teismo teisėjas, surašydamas apkaltinamąjį nuosprendį, aprašomojoje dalyje gali nedėstyti šio Kodekso 305 straipsnio 1 dalies 2, 3 ir 4 punktuose ir 5 dalyje numatytų aplinkybių, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir [[#^8ec78a10677d2b32a514fad6|2 dalyse]].“
+„1. Apylinkės teismo teisėjas, surašydamas apkaltinamąjį nuosprendį, aprašomojoje dalyje gali nedėstyti šio Kodekso 305 straipsnio 1 dalies 2, 3 ir 4 punktuose ir 5 dalyje numatytų aplinkybių, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir [[#^s-07a373ec283197b25e43a7a3|2 dalyse]].“
 
 
-2. Pakeisti 306 straipsnio 3 dalį ir ją išdėstyti taip: ^8ec78a10677d2b32a514fad6
+2. Pakeisti 306 straipsnio 3 dalį ir ją išdėstyti taip: ^s-07a373ec283197b25e43a7a3
 
 
-„3. Jeigu pateikiamas [[#^8ec78a10677d2b32a514fad6|šio straipsnio 2 dalyje]] numatytas rašytinis prašymas arba nuosprendis apskundžiamas apeliacinės ar kasacinės instancijos teismui, nuosprendį priėmęs teisėjas per tris dienas nuo prašymo ar skundo gavimo dienos surašo nesutrumpintą aprašomąją nuosprendžio dalį. Naujai surašytą aprašomąją nuosprendžio dalį teisėjas pasirašo ir prideda prie jau esančio nuosprendžio.“
+„3. Jeigu pateikiamas [[#^s-07a373ec283197b25e43a7a3|šio straipsnio 2 dalyje]] numatytas rašytinis prašymas arba nuosprendis apskundžiamas apeliacinės ar kasacinės instancijos teismui, nuosprendį priėmęs teisėjas per tris dienas nuo prašymo ar skundo gavimo dienos surašo nesutrumpintą aprašomąją nuosprendžio dalį. Naujai surašytą aprašomąją nuosprendžio dalį teisėjas pasirašo ir prideda prie jau esančio nuosprendžio.“
 
 
 
-### 19 straipsnis. 313 straipsnio 3 dalies pakeitimas
+### 19 straipsnis. 313 straipsnio 3 dalies pakeitimas ^s-1ac61297f4c986c01f30e4c8
 
 
 Pakeisti 313 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -289,7 +294,7 @@ Pakeisti 313 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 20 straipsnis. 346 straipsnio 3 dalies papildymas
+### 20 straipsnis. 346 straipsnio 3 dalies papildymas ^s-552af3dbe5fec2272f0324b3
 
 
 Papildyti 346 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -299,39 +304,39 @@ Papildyti 346 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 21 straipsnis. 360 straipsnio papildymas nauja 3 dalimi ir 4 dalies pakeitimas
+### 21 straipsnis. 360 straipsnio papildymas nauja 3 dalimi ir 4 dalies pakeitimas ^s-b8c1cdc8869b81fce2874831
 
 
-1. Papildyti 360 straipsnį nauja 3 dalimi: ^88a9f11be563c03ea41e2e47
+1. Papildyti 360 straipsnį nauja 3 dalimi: ^s-2600e44c9601a9a22274b339
 
 
-„3. Nuteistajam, kuris lygtinai paleistas iš laisvės atėmimo vietos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsniu, lygtinį paleidimą iš laisvės atėmimo vietos panaikina ir nuteistąjį pasiunčia atlikti likusią bausmę nuteistojo gyvenamosios vietos apylinkės teismas pataisos inspekcijos teikimu.“
+„3. Nuteistajam, kuris lygtinai paleistas iš laisvės atėmimo vietos remiantis [[latest/TAR.A0A0CCC6B997#^s-756cb5b962cdb1be23058098|Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsniu]], lygtinį paleidimą iš laisvės atėmimo vietos panaikina ir nuteistąjį pasiunčia atlikti likusią bausmę nuteistojo gyvenamosios vietos apylinkės teismas pataisos inspekcijos teikimu.“
 
 
-2. Buvusią 3 dalį laikyti 4 dalimi, ją pakeisti ir išdėstyti taip: ^70678d9c58e4be298d8a4c55
+2. Buvusią 3 dalį laikyti 4 dalimi, ją pakeisti ir išdėstyti taip: ^s-0012b3f9e65f615eb6097492
 
 
 „4. Dėl lygtinio atleidimo nuo laisvės atėmimo bausmės prieš terminą, dėl neatliktos laisvės atėmimo bausmės dalies pakeitimo švelnesne bausme, dėl lygtinio paleidimo iš laisvės atėmimo vietos ir dėl lygtinio paleidimo iš laisvės atėmimo vietos panaikinimo teismas nusprendžia šio Kodekso 362 straipsnyje nustatyta tvarka.“
 
 
 
-### 22 straipsnis. 364 straipsnio 3 ir 4 dalių papildymas
+### 22 straipsnis. 364 straipsnio 3 ir 4 dalių papildymas ^s-64c372ee22f0353356416a65
 
 
-1. Papildyti 364 straipsnio 3 dalį ir ją išdėstyti taip: ^0fb8e3c60dae78c45c21f77d
+1. Papildyti 364 straipsnio 3 dalį ir ją išdėstyti taip: ^s-c551218e67224bdaffc98183
 
 
 „3. Skundas dėl apylinkės teismo nutarties paduodamas apygardos teismui, dėl apygardos teismo nutarties – Lietuvos apeliaciniam teismui per penkias dienas nuo skundžiamos nutarties priėmimo dienos. Suimtam nuteistajam šis terminas skaičiuojamas nuo nutarties nuorašo įteikimo jam dienos. Skundas paduodamas per nutartį priėmusį teismą. Skundą gavęs teismas per tris dienas perduoda jį kartu su medžiaga atitinkamam teismui.“
 
 
-2. Papildyti 364 straipsnio 4 dalį ir ją išdėstyti taip: ^e6ba3b901c48339b5613d2d1
+2. Papildyti 364 straipsnio 4 dalį ir ją išdėstyti taip: ^s-a246a6ed12f1cb4ac4d81f23
 
 
 „4. Skundo padavimas sustabdo teismo nutarčių atidėti nuosprendžio vykdymą, atleisti nuteistąjį nuo bausmės atlikimo dėl ligos, lygtinai atleisti nuo laisvės atėmimo bausmės prieš terminą ir pakeisti neatliktą laisvės atėmimo bausmės dalį švelnesne bausme bei lygtinai paleisti nuteistąjį iš laisvės atėmimo vietos vykdymą.“
 
 
 
-### 23 straipsnis. 370 straipsnio 2 dalies pakeitimas
+### 23 straipsnis. 370 straipsnio 2 dalies pakeitimas ^s-1ee95df32617ff4fc3910ca1
 
 
 Pakeisti 370 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -341,7 +346,7 @@ Pakeisti 370 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 24 straipsnis. 377 straipsnio 8 dalies pakeitimas
+### 24 straipsnis. 377 straipsnio 8 dalies pakeitimas ^s-a89c498269599180ffd65121
 
 
 Pakeisti 377 straipsnio 8 dalį ir ją išdėstyti taip:
@@ -351,7 +356,7 @@ Pakeisti 377 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-### 25 straipsnis. 403 straipsnio 1 dalies 3 punkto pakeitimas
+### 25 straipsnis. 403 straipsnio 1 dalies 3 punkto pakeitimas ^s-333f0719bc69a9d1710cf7cf
 
 
 Pakeisti 403 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
@@ -361,20 +366,20 @@ Pakeisti 403 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 26 straipsnis. 409 straipsnio papildymas ir pakeitimas
+### 26 straipsnis. 409 straipsnio papildymas ir pakeitimas ^s-4efbb5dd64d3369c78a9600a
 
 
-1. Papildyti 409 straipsnį nauja 3 dalimi: ^177ddb5478ea2efc9ad92bed
+1. Papildyti 409 straipsnį nauja 3 dalimi: ^s-1778aedb132ae601527f3b45
 
 
 „3. Ikiteisminis tyrimas dėl nusikalstamų veikų, numatytų šio Kodekso 407 straipsnyje, atliekamas bendra tvarka, jeigu nusikalstamos veikos padarymu įtariamas asmuo nėra žinomas.“
 
 
-2. Buvusią 409 straipsnio 3 dalį laikyti 4 dalimi. ^6a2c92e6b7e2b375e05a4a5b
+2. Buvusią 409 straipsnio 3 dalį laikyti 4 dalimi. ^s-6139d44e6c1db161c853bb41
 
 
 
-### 27 straipsnis. 418 straipsnio 1 dalies papildymas
+### 27 straipsnis. 418 straipsnio 1 dalies papildymas ^s-0282f60785f278c46588a047
 
 
 Papildyti 418 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -384,10 +389,10 @@ Papildyti 418 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 28 straipsnis. 421 straipsnio papildymas ir pakeitimas
+### 28 straipsnis. 421 straipsnio papildymas ir pakeitimas ^s-8d661b0825f35644a0f3d51e
 
 
-Papildyti 421 straipsnį nauju [[#^1ca34a29b43f08a1ea91f392|4 punktu]], buvusį [[#^1ca34a29b43f08a1ea91f392|4 punktą]] laikyti [[#^bb914a81becc950bf836a600|5 punktu]] ir visą straipsnį išdėstyti taip:
+Papildyti 421 straipsnį nauju [[#^s-68ace43f9677c818b5100d13|4 punktu]], buvusį [[#^s-68ace43f9677c818b5100d13|4 punktą]] laikyti [[#^s-664b5c814d427328f0145e99|5 punktu]] ir visą straipsnį išdėstyti taip:
 
 
 „421 straipsnis. Teismo baudžiamojo įsakymo turinys
@@ -396,23 +401,23 @@ Papildyti 421 straipsnį nauju [[#^1ca34a29b43f08a1ea91f392|4 punktu]], buvusį 
 Teisėjo surašytame teismo baudžiamajame įsakyme turi būti:
 
 
-1) nurodyti šio Kodekso 419 straipsnio 1–[[#^1ca34a29b43f08a1ea91f392|4 punktuose]] išvardyti duomenys; ^ac03f3624fd3e912be29045b
+1) nurodyti šio Kodekso 419 straipsnio 1–[[#^s-68ace43f9677c818b5100d13|4 punktuose]] išvardyti duomenys; ^s-2dfae12017667a74954bfda0
 
 
-2) sprendimas pripažinti kaltinamąjį kaltu; ^c55de9a56ecaa4077383cf1a
+2) sprendimas pripažinti kaltinamąjį kaltu; ^s-7f2265138f3ceac291fe0b9d
 
 
-3) nurodytas kaltinamajam skiriamos baudos dydis; ^713121fc92be1dad0b45b2a5
+3) nurodytas kaltinamajam skiriamos baudos dydis; ^s-7a32b387a721b6e6cc8bf477
 
 
-4) nurodyti sprendimai dėl turto konfiskavimo, dėl uždraudimo naudotis specialia teise, dėl kardomosios priemonės kaltinamajam, kol įsiteisės teismo baudžiamasis įsakymas, dėl nusikalstama veika padarytos žalos atlyginimo, dėl daiktinių įrodymų likimo, dėl proceso išlaidų atlyginimo; ^1ca34a29b43f08a1ea91f392
+4) nurodyti sprendimai dėl turto konfiskavimo, dėl uždraudimo naudotis specialia teise, dėl kardomosios priemonės kaltinamajam, kol įsiteisės teismo baudžiamasis įsakymas, dėl nusikalstama veika padarytos žalos atlyginimo, dėl daiktinių įrodymų likimo, dėl proceso išlaidų atlyginimo; ^s-68ace43f9677c818b5100d13
 
 
-5) pateiktas kaltinamojo teisės reikalauti bylą nagrinėti teisme išaiškinimas.“ ^bb914a81becc950bf836a600
+5) pateiktas kaltinamojo teisės reikalauti bylą nagrinėti teisme išaiškinimas.“ ^s-664b5c814d427328f0145e99
 
 
 
-### 29 straipsnis. 422 straipsnio 1 dalies pakeitimas
+### 29 straipsnis. 422 straipsnio 1 dalies pakeitimas ^s-5be9df3abe457712f7322d29
 
 
 Pakeisti 422 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -422,7 +427,7 @@ Pakeisti 422 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 30 straipsnis. 425 straipsnio 4 dalies papildymas
+### 30 straipsnis. 425 straipsnio 4 dalies papildymas ^s-104407472946503718047a15
 
 
 Papildyti 425 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -432,7 +437,7 @@ Papildyti 425 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 31 straipsnis. 426 straipsnio pakeitimas
+### 31 straipsnis. 426 straipsnio pakeitimas ^s-10adcf154af5874a85e4ec35
 
 
 Pakeisti 426 straipsnį ir jį išdėstyti taip:
@@ -441,30 +446,30 @@ Pakeisti 426 straipsnį ir jį išdėstyti taip:
 „426 straipsnis. Prokuroro teisė nuspręsti užbaigti baudžiamąją bylą pagreitinto proceso tvarka
 
 
-1. Jei nusikalstamos veikos padarymo aplinkybės yra aiškios, o baudžiamoji byla dėl tos veikos padarymo turi būti nagrinėjama apylinkės teisme, prokuroras veikos padarymo dieną arba ne vėliau kaip per dešimt dienų nuo veikos padarymo dienos gali kreiptis į teismą, kuriam ta byla teisminga, su pareiškimu dėl bylos nagrinėjimo pagreitinto proceso tvarka. ^15fae0d563da31838e89d625
+1. Jei nusikalstamos veikos padarymo aplinkybės yra aiškios, o baudžiamoji byla dėl tos veikos padarymo turi būti nagrinėjama apylinkės teisme, prokuroras veikos padarymo dieną arba ne vėliau kaip per dešimt dienų nuo veikos padarymo dienos gali kreiptis į teismą, kuriam ta byla teisminga, su pareiškimu dėl bylos nagrinėjimo pagreitinto proceso tvarka. ^s-925e12fe8c8ee2e76dfe4bc6
 
 
-2. Prokuroras [[#^15fae0d563da31838e89d625|šio straipsnio 1 dalyje]] nurodytu atveju kaltinamojo akto nesurašo ir gali teismui nepateikti jokios ikiteisminio tyrimo medžiagos. Įteikti pareiškimo dėl bylos nagrinėjimo pagreitinto proceso tvarka į teismą prokuroras privalo atvykti per [[#^15fae0d563da31838e89d625|šio straipsnio 1 dalyje]] nurodytą terminą. Prokuroras privalo užtikrinti, kad kartu atvyktų kaltinamasis, visi reikalingi liudytojai ir kiti proceso dalyviai.“ ^9f073e507fab8c29184f678f
+2. Prokuroras [[#^s-925e12fe8c8ee2e76dfe4bc6|šio straipsnio 1 dalyje]] nurodytu atveju kaltinamojo akto nesurašo ir gali teismui nepateikti jokios ikiteisminio tyrimo medžiagos. Įteikti pareiškimo dėl bylos nagrinėjimo pagreitinto proceso tvarka į teismą prokuroras privalo atvykti per [[#^s-925e12fe8c8ee2e76dfe4bc6|šio straipsnio 1 dalyje]] nurodytą terminą. Prokuroras privalo užtikrinti, kad kartu atvyktų kaltinamasis, visi reikalingi liudytojai ir kiti proceso dalyviai.“ ^s-d3fb2cddbb0a1aa18fa91465
 
 
 
-### 32 straipsnis. 429 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 3 dalimi
+### 32 straipsnis. 429 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 3 dalimi ^s-54ff51ea0451203a7a517a01
 
 
-1. Pakeisti 429 straipsnio pavadinimą ir jį išdėstyti taip: ^7807f4b4cd6ff1913658766e
+1. Pakeisti 429 straipsnio pavadinimą ir jį išdėstyti taip: ^s-7da02d342426f822182b4f59
 
 
 „429 straipsnis. Prokuroro pareiškimo dėl bylos nagrinėjimo pagreitinto proceso tvarka atmetimas arba grąžinimas“.
 
 
-2. Papildyti 429 straipsnį 3 dalimi: ^fa643dcc69794d825b1c0292
+2. Papildyti 429 straipsnį 3 dalimi: ^s-0eaa601bdb10bb0010f3afe2
 
 
 „3. Teisėjas priima nutartį grąžinti prokuroro pareiškimą dėl bylos nagrinėjimo pagreitinto proceso tvarka tuomet, kai prokuroras neužtikrina kaltinamojo atvykimo į teismą. Tokiu atveju, jeigu nėra pasibaigęs šio Kodekso 426 straipsnio 1 dalyje numatytas terminas, prokuroras vėl gali kreiptis į teismą su pareiškimu dėl bylos nagrinėjimo pagreitinto proceso tvarka.“
 
 
 
-### 33 straipsnis. 446 straipsnio 4 dalies papildymas
+### 33 straipsnis. 446 straipsnio 4 dalies papildymas ^s-2ced991cb5585fb9e63b7da3
 
 
 Papildyti 446 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -474,7 +479,7 @@ Papildyti 446 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 34 straipsnis. XXXV skyriaus pavadinimo pakeitimas
+### 34 straipsnis. XXXV skyriaus pavadinimo pakeitimas ^s-9a32c7011a855ba84f02fb8e
 
 
 Pakeisti XXXV skyriaus pavadinimą ir jį išdėstyti taip:
@@ -486,7 +491,7 @@ BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS DĖL JUNGTINIŲ TAUTŲ ŽMOGAUS TEISIŲ KOMITE
 
 
 
-### 35 straipsnis. 456 straipsnio pakeitimas
+### 35 straipsnis. 456 straipsnio pakeitimas ^s-852a5a3de32c5eb1190c0fe9
 
 
 Pakeisti 456 straipsnį ir jį išdėstyti taip:
@@ -499,7 +504,7 @@ Lietuvos Respublikos teismų išnagrinėtos baudžiamosios bylos gali būti atna
 
 
 
-### 36 straipsnis. 457 straipsnio 1 dalies papildymas
+### 36 straipsnis. 457 straipsnio 1 dalies papildymas ^s-3ec7cc46cb0fe42cf18ef36a
 
 
 Papildyti 457 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -509,23 +514,23 @@ Papildyti 457 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 37 straipsnis. 458 straipsnio 1 dalies pakeitimas ir 2 dalies papildymas
+### 37 straipsnis. 458 straipsnio 1 dalies pakeitimas ir 2 dalies papildymas ^s-cbd0acdf3b98539b326ec833
 
 
-1. Pakeisti 458 straipsnio 1 dalį ir ją išdėstyti taip: ^e64dca949829db13f401639c
+1. Pakeisti 458 straipsnio 1 dalį ir ją išdėstyti taip: ^s-06d3ff658ceabb2e6749a7e0
 
 
 „1. Prašymas ar teikimas atnaujinti baudžiamąją bylą kartu su Jungtinių Tautų žmogaus teisių komiteto sprendimu arba Europos žmogaus teisių teismo galutiniu sprendimu ir jų vertimais į lietuvių kalbą paduodami Lietuvos Aukščiausiajam Teismui.“
 
 
-2. Papildyti 458 straipsnio 2 dalį ir ją išdėstyti taip: ^09151ac6347f8e569dad060d
+2. Papildyti 458 straipsnio 2 dalį ir ją išdėstyti taip: ^s-bcbd3c6ecb191ccdc96d2ea6
 
 
 „2. Prašymas ar teikimas paduodamas per šešis mėnesius nuo tos dienos, kai priimtas Jungtinių Tautų žmogaus teisių komiteto sprendimas arba Europos žmogaus teisių teismo sprendimas yra ar tampa galutinis.“
 
 
 
-### 38 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 38 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-5a6e3a544e466fe2fab7456f
 
 
 Šio įstatymo įsigaliojimo ir įgyvendinimo tvarką nustato atskiras įstatymas.

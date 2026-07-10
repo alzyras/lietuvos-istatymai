@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2E0007476FA"
 pavadinimas: "Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-31"
 latest_path: "latest/TAR.D2E0007476FA.md"
 latest_sha256: "21af21d82c454b81d07e83716692a12145f1be9cfdab7cc59b345d9fbf382e9c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2E0007476FA]]"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2E0007476FA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2E0007476FA
+- Ryšiai: [[Ryšiai/TAR.D2E0007476FA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 4 dalies pakeitimas ^s-8d90e900b49165e6bd5e7b13
 
 
 9 straipsnio 4 dalyje po žodžių „Giminystės ir svainystės ryšių duomenys“ išbraukti žodžius „pagal vienkartinį prašymą“, po žodžių „sprendimams šiais klausimais priimti“ įrašyti žodžius „konsuliniams pareigūnams – kai to reikia konsulinės pagalbos funkcijoms atlikti“ ir šią dalį išdėstyti taip:

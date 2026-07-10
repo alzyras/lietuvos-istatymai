@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.223247BF27A4"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio ir priedėlio pakeitimo bei papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio ir priedėlio pakeitimo bei papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 2 straipsnio ir priedėlio pakeitimo bei papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-01"
 latest_path: "latest/TAR.223247BF27A4.md"
 latest_sha256: "dd1012c96723687b990b4b499cb07f68a5a70ffad9e61dd412f1a845b58a6e6d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.223247BF27A4]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio ir priedėlio pakeitimo bei papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.223247BF27A4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.223247BF27A4
+- Ryšiai: [[Ryšiai/TAR.223247BF27A4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 21 dalies pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio 21 dalies pakeitimas ir papildymas ^s-326da22c9c5f0d6658f715d2
 
 
 2 straipsnio 21 dalyje po žodžių „Vyriausybės atstovas“ įrašyti žodžius „Lietuvos Respublikos muitinė“, vietoj žodžių „Pasienio policijos departamentas“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 2 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-df464841c812a36d8ec2ab70
 
 
 Įstatymo 2 priedėlio 23 dalyje vietoj žodžių „Pasienio policijos departamento prie Vidaus reikalų ministerijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šią dalį išdėstyti taip:
@@ -93,7 +98,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-4fce8fd2f656d27dd4a02b04
 
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.

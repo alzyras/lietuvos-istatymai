@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A82E980B4AF9"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.A82E980B4AF9.md"
 latest_sha256: "66e25c36f7a4aef0c72d19d7f3e4bbd768506c9d3cb21dcf5d0b6da8cae86d93"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A82E980B4AF9]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A82E980B4AF9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A82E980B4AF9
+- Ryšiai: [[Ryšiai/TAR.A82E980B4AF9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-63aa8bba1b9af6bee34ba542
 
 
 1 straipsnio 3 dalyje po žodžių „mokėjimo įstaigų“ įrašyti žodžius „elektroninių pinigų įstaigų“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-73cdb8cbebcc4ab9f5070514
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

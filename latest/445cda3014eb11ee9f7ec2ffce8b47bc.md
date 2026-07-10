@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "445cda3014eb11ee9f7ec2ffce8b47bc"
 pavadinimas: "Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 3, 4, 5, 6, 8 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 3, 4, 5, 6, 8 ir 13 straipsnių pakeitimo įstatymas"
+  - "elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 3, 4, 5, 6, 8 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2023-06-28"
 latest_path: "latest/445cda3014eb11ee9f7ec2ffce8b47bc.md"
 latest_sha256: "a36030162b32145c6c99cbb87dc3ceae5bdb33bed5ef69453fea450894e92915"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/445cda3014eb11ee9f7ec2ffce8b47bc]]"
 ---
 # Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 3, 4, 5, 6, 8 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/445cda3014eb11ee9f7ec2ffce8b47bc.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/445cda3014eb11ee9f7ec2ffce8b47bc
+- Ryšiai: [[Ryšiai/445cda3014eb11ee9f7ec2ffce8b47bc|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo preambulės pakeitimas
+### 1 straipsnis. Įstatymo preambulės pakeitimas ^s-01ba01ea226226549a5b3990
 
 
 Pakeisti Įstatymo preambulę ir ją išdėstyti taip:
@@ -67,45 +72,45 @@ priima Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinent
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-4f99ae94a5b12e9598c810af
 
 
-1. Pakeisti [[#^de855a907c3377d386239b2a|2 straipsnio 3 dalį]] ir ją išdėstyti taip: ^08b462dbb91d8ecd014a946d
+1. Pakeisti [[#^s-fe1ccc13763147e69d9f7d77|2 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-6a1e456482f1dc9630a5c811
 
 
 „3. Elektros energetikos sistemos sinchronizacijos projektas – visuma šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ir sąlygomis planuojamų ir vykdomų elektros energetikos projektų (tarp jų vystymo, planavimo, bandymų, organizavimo, statybos ir kitokio įgyvendinimo, paslaugų, darbų ir kitų projektų) ir veiksmų, reikalingų elektros energetikos sistemos sinchronizacijai įgyvendinti, įskaitant Lietuvos Respublikos elektros energetikos sistemos saugumą, stabilumą didinančių ir rinkos integraciją užtikrinančių projektų įgyvendinimą.“
 
 
-2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^ad11fb954054c4a98cf5252c
+2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-3ec26c3f5a6842944898d787
 
 
 „4. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo planai – specialiojo teritorijų planavimo dokumentai, kuriuose nustatomos elektros energetikos sistemos sinchronizacijos projektui įgyvendinti reikalingos elektros tinklų inžinerinės infrastruktūros plėtros kryptys, numatomos jų plėtrai reikalingos teritorijos ir planuojamų teritorijų naudojimo, tvarkymo ir (ar) apsaugos priemonės.“
 
 
-3. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^de855a907c3377d386239b2a
+3. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-fe1ccc13763147e69d9f7d77
 
 
 „5. Izoliuotas elektros energetikos sistemos darbas – elektros energetikos sistemos veikimas išjungus kintamosios srovės jungtis su kitų valstybių elektros energetikos sistemomis, įskaitant kintamosios srovės jungtis su kontinentinės Europos elektros tinklais ir IPS / UPS sistema.“
 
 
 
-### 3 straipsnis. 3 straipsnio pakeitimas
+### 3 straipsnis. 3 straipsnio pakeitimas ^s-e01ab7dfc0cbe91a48225144
 
 
-1. Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip: ^4dbdc91f30b860760b5b86ff
+1. Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip: ^s-c5f591b76fba227bde965911
 
 
 „2) užtikrinti būtinas technines ir organizacines priemones, kad Lietuvos Respublikos elektros energetikos sistema iki 2024 metų būtų parengta sujungimui su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu per Lenkijos Respublikos elektros energetikos sistemą ir kad šiam tikslui pasiekti būtų įgyvendinti Lietuvos Respublikos elektros energetikos sistemos saugumą didinantys projektai, o po elektros energetikos sistemos sinchronizacijos ir elektros energetikos sistemos stabilumą, integraciją su Europos Sąjungos elektros energijos vidaus rinka užtikrinantys projektai;“.
 
 
-2. Pakeisti 3 straipsnio 6 punktą ir jį išdėstyti taip: ^916b596c38a3b902b59bae2e
+2. Pakeisti 3 straipsnio 6 punktą ir jį išdėstyti taip: ^s-a27beccb2b2b4e8c847e2c0c
 
 
 „6) nustatyti būtinuosius reikalavimus Lietuvos Respublikos Vyriausybės tvirtinamam Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių planui;“.
 
 
 
-### 4 straipsnis. 4 straipsnio pakeitimas
+### 4 straipsnis. 4 straipsnio pakeitimas ^s-494d5052288dc98e04af6bb6
 
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -115,7 +120,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 5 straipsnio pakeitimas
+### 5 straipsnis. 5 straipsnio pakeitimas ^s-fa45424029fedd7d30459475
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -124,66 +129,66 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinosios sąlygos
 
 
-1. Siekiant užtikrinti, kad Lietuvos Respublikos elektros energetikos sistema būtų laiku ir tinkamai sujungta su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, nustatomos šios elektros energetikos sistemos sinchronizacijai būtinosios sąlygos: ^24673bf8acfc1785e5ff4194
+1. Siekiant užtikrinti, kad Lietuvos Respublikos elektros energetikos sistema būtų laiku ir tinkamai sujungta su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, nustatomos šios elektros energetikos sistemos sinchronizacijai būtinosios sąlygos: ^s-cc5e8ba245b05743d4ea12b1
 
 
-1) parengta perdavimo tinklų infrastruktūra, leidžianti prisijungti prie kontinentinės Europos elektros tinklų darbui sinchroniniu režimu; ^2a22d6451e50c3a9f6983d04
+1) parengta perdavimo tinklų infrastruktūra, leidžianti prisijungti prie kontinentinės Europos elektros tinklų darbui sinchroniniu režimu; ^s-a31971a2131dc53b10de9727
 
 
-2) įgyvendintos Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotos sujungimo su kontinentinės Europos elektros tinklais sąlygos, leidžiančios prisijungti prie kontinentinės Europos elektros tinklų darbui sinchroniniu režimu; ^03681599cfa602cd023e459c
+2) įgyvendintos Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotos sujungimo su kontinentinės Europos elektros tinklais sąlygos, leidžiančios prisijungti prie kontinentinės Europos elektros tinklų darbui sinchroniniu režimu; ^s-b233579abcce7707fc62ff92
 
 
-3) susitarta su Lenkijos Respublikos elektros perdavimo sistemos operatoriumi dėl tarpininkavimo vykdant elektros energetikos sistemos sinchronizaciją; ^d33f4daae6f3ca0a9b4dbb3a
+3) susitarta su Lenkijos Respublikos elektros perdavimo sistemos operatoriumi dėl tarpininkavimo vykdant elektros energetikos sistemos sinchronizaciją; ^s-4c2bb77e598180f9d5b196d1
 
 
-4) su Šiaurės Europos šalių perdavimo sistemų operatoriais susitarta dėl elektros energetikos sistemos sinchronizacijos palaikymo; ^a4f58c974938dbd9724e3906
+4) su Šiaurės Europos šalių perdavimo sistemų operatoriais susitarta dėl elektros energetikos sistemos sinchronizacijos palaikymo; ^s-792b860c43ff02f5b04699e6
 
 
-5) nustatytas būtinų dažnio išlaikymo, atkūrimo, pakaitos rezervų, patikimai prieinamų gamybinių pajėgumų galios paslaugų ir kitų papildomų paslaugų, įskaitant su dažnio reguliavimu nesusijusias papildomas paslaugas, poreikis Lietuvos Respublikos elektros energetikos sistemai dirbant izoliuotu režimu ar sinchroniniu režimu su kontinentinės Europos elektros tinklais, kuris turi būti vertinamas tiek Lietuvos Respublikos elektros energetikos sistemos mastu, tiek ir bendradarbiaujant su kitų Baltijos šalių perdavimo sistemų operatoriais; ^71fd69aa3d9ba364c21c2b90
+5) nustatytas būtinų dažnio išlaikymo, atkūrimo, pakaitos rezervų, patikimai prieinamų gamybinių pajėgumų galios paslaugų ir kitų papildomų paslaugų, įskaitant su dažnio reguliavimu nesusijusias papildomas paslaugas, poreikis Lietuvos Respublikos elektros energetikos sistemai dirbant izoliuotu režimu ar sinchroniniu režimu su kontinentinės Europos elektros tinklais, kuris turi būti vertinamas tiek Lietuvos Respublikos elektros energetikos sistemos mastu, tiek ir bendradarbiaujant su kitų Baltijos šalių perdavimo sistemų operatoriais; ^s-9dd0a75e21fb055859882ce9
 
 
-6) nustatytas Lietuvos elektros energetikos sistemos sujungimui su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinas elektros energijos gamybos šaltinių poreikis, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas. Elektros energijos gamybos šaltiniai turi būti techniškai įrengiami taip, kad atitiktų Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais reikalavimus; ^1bb90ffc9cb47d8d105fb627
+6) nustatytas Lietuvos elektros energetikos sistemos sujungimui su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinas elektros energijos gamybos šaltinių poreikis, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas. Elektros energijos gamybos šaltiniai turi būti techniškai įrengiami taip, kad atitiktų Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais reikalavimus; ^s-2853b64af430b3552124d6ec
 
 
-7) nustatyti Lietuvos Respublikos elektros energetikos sistemos patikimumo užtikrinimo reikalavimai, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos  (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas; ^23b57d63d9af9aa44871a360
+7) nustatyti Lietuvos Respublikos elektros energetikos sistemos patikimumo užtikrinimo reikalavimai, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos  (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas; ^s-14dbbbcb038e6ae6906bb3e9
 
 
-8) užtikrintas Europos Sąjungos tinklo kodeksuose nustatytų reikalavimų tinklų naudotojams įgyvendinimas; ^f668089a3dfb8507d23e8f4a
+8) užtikrintas Europos Sąjungos tinklo kodeksuose nustatytų reikalavimų tinklų naudotojams įgyvendinimas; ^s-428ac921cb27f3d660f1c847
 
 
-9) suderintos su kitų Baltijos šalių elektros perdavimo sistemų operatoriais Baltijos šalių elektros perdavimo sistemų operatyvinio valdymo sąlygos; ^f4078e25c44f309b01a121d4
+9) suderintos su kitų Baltijos šalių elektros perdavimo sistemų operatoriais Baltijos šalių elektros perdavimo sistemų operatyvinio valdymo sąlygos; ^s-efda1e84f832490ef5b025ed
 
 
-10) užtikrinta tinklų naudotojų (išskyrus buitinius elektros energijos vartotojus) parengtis dirbti avariniu režimu teisės aktų, reguliuojančių reikalavimus elektros tinklų naudotojams, nustatyta tvarka ir sąlygomis; ^354963055ef66ba83ad1ed2a
+10) užtikrinta tinklų naudotojų (išskyrus buitinius elektros energijos vartotojus) parengtis dirbti avariniu režimu teisės aktų, reguliuojančių reikalavimus elektros tinklų naudotojams, nustatyta tvarka ir sąlygomis; ^s-b73b7f9495671a6f9624e5ac
 
 
-11) užtikrintas elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo finansavimas; ^d0455517499ece9765a47246
+11) užtikrintas elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo finansavimas; ^s-6b37f095f027014489d4a29c
 
 
-12) užtikrintas reikiamos kvalifikacijos perdavimo sistemos operatoriaus specialistų, reikalingų šio įstatymo [[#3 straipsnis. 3 straipsnio pakeitimas|3 straipsnyje]] nurodytiems tikslams įgyvendinti, pritraukimas, mokymas ir išlaikymas. ^0913ceab3783322a3e5932c4
+12) užtikrintas reikiamos kvalifikacijos perdavimo sistemos operatoriaus specialistų, reikalingų šio įstatymo [[#^s-e01ab7dfc0cbe91a48225144|3 straipsnyje]] nurodytiems tikslams įgyvendinti, pritraukimas, mokymas ir išlaikymas. ^s-66b1418c43aaa6482b3ade5a
 
 
-2. 2024 metais Lietuvos Respublikos elektros energetikos sistema turi būti parengta susijungimui ir darbui sinchroniniu režimu su kontinentinės Europos elektros tinklais, todėl turi būti įgyvendinti Lietuvos Respublikos elektros energetikos sistemos saugumą didinantys projektai, o po elektros energetikos sistemos sinchronizacijos ir elektros energetikos sistemos stabilumą, integraciją su Europos Sąjungos elektros energijos vidaus rinka užtikrinantys projektai Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plane nustatytais terminais ir tvarka.“ ^43ecf37315511b6035fa8da7
+2. 2024 metais Lietuvos Respublikos elektros energetikos sistema turi būti parengta susijungimui ir darbui sinchroniniu režimu su kontinentinės Europos elektros tinklais, todėl turi būti įgyvendinti Lietuvos Respublikos elektros energetikos sistemos saugumą didinantys projektai, o po elektros energetikos sistemos sinchronizacijos ir elektros energetikos sistemos stabilumą, integraciją su Europos Sąjungos elektros energijos vidaus rinka užtikrinantys projektai Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plane nustatytais terminais ir tvarka.“ ^s-dd21d9193d3ca9e6e85df12f
 
 
 
-### 6 straipsnis. 6 straipsnio pakeitimas
+### 6 straipsnis. 6 straipsnio pakeitimas ^s-e524f335b2165e9da3322937
 
 
-1. Pakeisti [[#6 straipsnis. 6 straipsnio pakeitimas|6 straipsnio]] nuostatą iki dvitaškio ir ją išdėstyti taip: ^f4dd6489a66f1757f01c4227
+1. Pakeisti [[#^s-e524f335b2165e9da3322937|6 straipsnio]] nuostatą iki dvitaškio ir ją išdėstyti taip: ^s-afd9d6a32475c1fd37a9e817
 
 
 „Perdavimo sistemos operatorius, veikdamas Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plane nustatytais terminais ir tvarka, atlieka Lietuvos Respublikos elektros energetikos sistemos desinchronizacijai nuo IPS / UPS sistemos reikalingus veiksmus. Siekiant laiku užtikrinti tinkamą Lietuvos Respublikos elektros energetikos sistemos desinchronizaciją nuo IPS / UPS sistemos, nustatomos šios būtinosios sąlygos:“.
 
 
-2. Pakeisti 6 straipsnio 2 punktą ir jį išdėstyti taip: ^5691414d995d3d6906701e37
+2. Pakeisti 6 straipsnio 2 punktą ir jį išdėstyti taip: ^s-3031233b515b6513c6b8f304
 
 
 „2) parengta perdavimo tinklų infrastruktūra Lietuvos Respublikos elektros energetikos sistemos desinchronizacijai nuo IPS / UPS sistemos;“.
 
 
 
-### 7 straipsnis. 8 straipsnio pakeitimas
+### 7 straipsnis. 8 straipsnio pakeitimas ^s-58700748a85c7fdbf8437feb
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -192,17 +197,17 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Siekiant užtikrinti pasirengimą izoliuotam elektros energetikos sistemos darbui, privalo būti nustatyta:
 
 
-1) papildomos paslaugos, įskaitant su dažnio reguliavimu nesusijusias papildomas paslaugas, kurias nustato perdavimo sistemos operatorius ir tarp kurių turi būti įtraukta parengtis užtikrinti izoliuotą elektros energetikos sistemos darbą, įskaitant elektros energijos gamybos įrenginių prieinamumo užtikrinimą, ir kurios būtinos elektros energetikos sistemos sinchronizacijai įgyvendinti; ^9184b80042c1eba859071bfa
+1) papildomos paslaugos, įskaitant su dažnio reguliavimu nesusijusias papildomas paslaugas, kurias nustato perdavimo sistemos operatorius ir tarp kurių turi būti įtraukta parengtis užtikrinti izoliuotą elektros energetikos sistemos darbą, įskaitant elektros energijos gamybos įrenginių prieinamumo užtikrinimą, ir kurios būtinos elektros energetikos sistemos sinchronizacijai įgyvendinti; ^s-dc1daf173d98677de1bc82a1
 
 
-2) perdavimo sistemos operatoriaus techniniai reikalavimai tinklų naudotojams, reikalingi izoliuotam elektros energetikos sistemos darbui vykdyti; ^6aa6dfdd4939a29d66eb924c
+2) perdavimo sistemos operatoriaus techniniai reikalavimai tinklų naudotojams, reikalingi izoliuotam elektros energetikos sistemos darbui vykdyti; ^s-289b03f33863da4073228240
 
 
-3) valstybinę energetikos kontrolę atliekančios institucijos, nurodytos Energetikos įstatyme, nustatyta parengties užtikrinti izoliuotą elektros energetikos sistemos darbą vertinimo ir patikros tvarka.“ ^e3d7161119b943f5a1e925ab
+3) valstybinę energetikos kontrolę atliekančios institucijos, nurodytos [[latest/TAR.44235B485568|Energetikos įstatyme]], nustatyta parengties užtikrinti izoliuotą elektros energetikos sistemos darbą vertinimo ir patikros tvarka.“ ^s-c478f0023a52bbf43af17cc9
 
 
 
-### 8 straipsnis. 13 straipsnio pakeitimas
+### 8 straipsnis. 13 straipsnio pakeitimas ^s-33e9e36179de504cf58baccf
 
 
 Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -212,10 +217,10 @@ Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. Įstatymo įgyvendinimas
+### 9 straipsnis. Įstatymo įgyvendinimas ^s-7bc35834e74bbd5dde84fec9
 
 
-Lietuvos Respublikos Vyriausybė iki 2023 m. liepos 31 d. priima šio įstatymo [[#8 straipsnis. 13 straipsnio pakeitimas|8 straipsnyje]] išdėstytos Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo 13 straipsnio 1 dalies nuostatoms įgyvendinti reikalingus teisės aktus.
+Lietuvos Respublikos Vyriausybė iki 2023 m. liepos 31 d. priima šio įstatymo [[#^s-33e9e36179de504cf58baccf|8 straipsnyje]] išdėstytos Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo 13 straipsnio 1 dalies nuostatoms įgyvendinti reikalingus teisės aktus.
 
 
 

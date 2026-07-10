@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.172823681464"
 pavadinimas: "Lietuvos Respublikos priešgaisrinės saugos įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos priešgaisrinės saugos įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "priešgaisrinės saugos įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.172823681464.md"
 latest_sha256: "2900d2d2600ee14a77c487b71efd04c69f22b9acff15eb3d4d22bfd72d71e7b6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.172823681464]]"
 ---
 # Lietuvos Respublikos priešgaisrinės saugos įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.172823681464.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.172823681464
+- Ryšiai: [[Ryšiai/TAR.172823681464|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio pakeitimas
+### 1 straipsnis. 19 straipsnio pakeitimas ^s-8138b2d10e2b4bd9ccab68fd
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:

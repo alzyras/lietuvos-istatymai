@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E166E1C90696"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 8(1) straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 8(1) straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 8(1) straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-02-23"
 latest_path: "latest/TAR.E166E1C90696.md"
 latest_sha256: "437369ce68c8f57dfb72ad6989577aeb8da33554a39e1883562748df9b41aeca"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E166E1C90696]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 8(1) straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E166E1C90696.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E166E1C90696
+- Ryšiai: [[Ryšiai/TAR.E166E1C90696|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 81 straipsnio pakeitimas
+### 1 straipsnis. 81 straipsnio pakeitimas ^s-01ffc34b833afcf35b94eba1
 
 
 Pakeisti 81 straipsnį ir jį išdėstyti taip:

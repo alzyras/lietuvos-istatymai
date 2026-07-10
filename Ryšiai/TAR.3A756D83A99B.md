@@ -1,0 +1,180 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.3A756D83A99B"
+pavadinimas: "Lietuvos Respublikos biudžetinių įstaigų įstatymas"
+---
+# Lietuvos Respublikos biudžetinių įstaigų įstatymas: ryšiai
+
+- [[latest/TAR.3A756D83A99B|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.E7F1309DE8BC|Lietuvos Respublikos biudžetinių įstaigų įstatymo 12 straipsnio pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.E419EEBED1F0|Lietuvos Respublikos biudžetinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.2BB7C7BBCBB0|Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.CDE98B0939F0|Lietuvos Respublikos biudžetinių įstaigų įstatymo 5 straipsnio pakeitimo įstatymas]] - 4 citatos - BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.9BEE09683104|Lietuvos Respublikos biudžetinių įstaigų įstatymo 8 straipsnio papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.BDEFD89A1858|Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymas]] - 4 citatos - BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.80BCC14CDBDA|Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas]] - 4 citatos - BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/c7304360eef411e88568e724760eeafa|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 12 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1633
+- [[latest/d22e12c0126111e4adf3c8c5d7681e73|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 15 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1073
+- [[latest/2e06a6f0282d11ecad73e69048767e8c|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 3 straipsnio pakeitimo ir Įstatymo papildymo 2-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-557
+- [[latest/ef0cd5d0ec6411e78a1adea6fe72f3c5|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-935
+- [[latest/e3d0d250167b11e58569be21ff080a8c|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 4 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1790
+- [[latest/9ac9df50658f11e8ac27abd8fa093003|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9, 11, 13 ir 14 straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1180
+- [[latest/c847aab098c511e9ae2e9d61b1f977b3|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2237
+- [[latest/5a8cd5602d7711ec992fe4cdfceb5666|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-548
+- [[latest/640ddbf00d4011ebb74de75171d26d52|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3310
+- [[latest/b4fe0840697511eca9ac839120d251c4|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymo Nr. XIII-3310 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-843
+- [[latest/c1339f208eb311eea5a28c81c82193a8|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2241
+- [[latest/aee71760ec6211e78a1adea6fe72f3c5|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 papildymo 9-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-932
+- [[latest/TAR.03A6EC49D1B2|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - 4 citatos - BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 6 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.80A607C85C6E|Lietuvos Respublikos valstybės tarnybos įstatymo, Vidaus tarnybos statuto, Biudžetinių įstaigų įstatymo, Diplomatinės tarnybos įstatymo, Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo pakeitimo įstatymas]] - 4 citatos - VALSTYBĖS TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO, DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.F789235C18BB|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - 2 citatos - Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatyme
+- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.DE63AAC4EF06|Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo]] - Įstatymas Nr. I-1113
+- [[latest/5e35273077ae11edbc04912defe897d1#^s-02c0c5c3c17c6a5a2308e42f|Lietuvos Respublikos administracinių teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/5e35273077ae11edbc04912defe897d1#^s-7b8a56b703d0d5cb582f01bc|Lietuvos Respublikos administracinių teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.1FF9BAB8CA20#^s-034d8df68a9181753a27d147|Lietuvos Respublikos apylinkių teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.1FF9BAB8CA20#^s-2182325941f5669006e77006|Lietuvos Respublikos apylinkių teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.1FF9BAB8CA20#^s-2f2c3eb79e804862e8dcc569|Lietuvos Respublikos apylinkių teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.1FF9BAB8CA20#^s-bf8022129329d283573ed980|Lietuvos Respublikos apylinkių teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/87943b2036d411efbdaea558de59136c#^s-2915d1e5695f5b057cb8f823|Lietuvos Respublikos apylinkės teismo reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo 14 straipsniu
+- [[latest/87943b2036d411efbdaea558de59136c#^s-2c960b3ee4671e712acf8a82|Lietuvos Respublikos apylinkės teismo reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo 14 straipsniu
+- [[latest/640ddbf00d4011ebb74de75171d26d52#^s-1da5b3891e2a113c7d14013e|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/640ddbf00d4011ebb74de75171d26d52#^s-6d3277a9a62c342cae8079e1|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/b4fe0840697511eca9ac839120d251c4#^s-c16c0ee795a96b117b046571|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymo Nr. XIII-3310 5 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/b4fe0840697511eca9ac839120d251c4#^s-d71a4ad4ec4576bf523c3ca0|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymo Nr. XIII-3310 5 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/c1339f208eb311eea5a28c81c82193a8#^s-3b531bbebd6e70eb5754812e|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMAS
+- [[latest/c1339f208eb311eea5a28c81c82193a8#^s-75743dd071c67b9d8f30664e|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymas]] - 2 citatos - Biudžetinių įstaigų įstatymo 10 straipsnio 3 dalies 2 punktas
+- [[latest/c1339f208eb311eea5a28c81c82193a8#^s-9022be55dc4693d41823e5f9|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymas]] - 2 citatos - Biudžetinių įstaigų įstatymo 10 straipsnio 3 dalies 2 punktas
+- [[latest/d26d94f03aa011efbdaea558de59136c#^s-4793902bf1c112ace93aceec|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymo Nr. XIV-2241 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Biudžetinių įstaigų įstatymo 10 straipsnio 3 dalies 2 punktas
+- [[latest/d26d94f03aa011efbdaea558de59136c#^s-71867eeaa628c9332b145238|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymo Nr. XIV-2241 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Biudžetinių įstaigų įstatymo 10 straipsnio 3 dalies 2 punktas
+- [[latest/d26d94f03aa011efbdaea558de59136c#^s-b46932c68fb22afe0816cacd|Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymo Nr. XIV-2241 2 straipsnio pakeitimo įstatymas]] - įstatymo Nr. I-1113
+- [[latest/TAR.03A6EC49D1B2#^s-199000dd31e8574df10285d0|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis
+- [[latest/TAR.03A6EC49D1B2#^s-22ad4fcb3abc0ded9171bf8c|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis
+- [[latest/TAR.03A6EC49D1B2#^s-62d86b7d45378472eea6f14d|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio
+- [[latest/TAR.03A6EC49D1B2#^s-bbd404d0933d9e2dd68c803b|Lietuvos Respublikos biudžetinių įstaigų įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMAS
+- [[latest/TAR.712BBBFA3D41#^s-80ae3cfe0899eacfa9a321e8|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.712BBBFA3D41#^s-f0b5d29a3274af8c368db4ab|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/32a5b942e58811f08918e1adc7c5b1ec#^s-878fa61b885ece982838db8e|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, 27 straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/32a5b942e58811f08918e1adc7c5b1ec#^s-97c67191f46405cb0e7cecd0|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, 27 straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/6e09b590a15b11eea5a28c81c82193a8#^s-7288a204799870afbd7a2466|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/6e09b590a15b11eea5a28c81c82193a8#^s-853e79378ade4dcc912f8893|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/502db2108eb911eea5a28c81c82193a8#^s-9cbd9e55ca9960cd6829713f|Lietuvos Respublikos darbo kodekso 33, 147 ir 210 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/502db2108eb911eea5a28c81c82193a8#^s-a7f4fe855b679f1ebefafd99|Lietuvos Respublikos darbo kodekso 33, 147 ir 210 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-ab3acd38a60bd96d76d8e06a|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-cd9c7c40b39ad3da2409756c|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.82D8168D3049#^s-148bfcadb1d5ae73436b733b|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.82D8168D3049#^s-72e4c99eab98c60be0d0c115|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-5f0d476df2f94281d76dcd1a|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-c34f79c64f76809a657251b3|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.DA8FE0831A84#^s-04b401f70b67dedd41fdfe3a|Lietuvos Respublikos energetikos įstatymo 2, 4, 6, 16, 17, 21, 27, 28 straipsnių ir priedo pakeitimo ir papildymo bei Įstatymo papildymo 7-1 straipsniu įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.DA8FE0831A84#^s-0e6004a824e54dc4e84afbc7|Lietuvos Respublikos energetikos įstatymo 2, 4, 6, 16, 17, 21, 27, 28 straipsnių ir priedo pakeitimo ir papildymo bei Įstatymo papildymo 7-1 straipsniu įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/18a57ad0399111e99595d005d42b863e#^s-b1af2c05bb2aa32d81666988|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 4, 8, 15, 16, 16-1, 19, 19-1, 22, 23, 24-1, 25, 26, 28, 31, 32, 34, 34-1, 36, 37 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/18a57ad0399111e99595d005d42b863e#^s-b9ddb271cba4d2f751116842|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 4, 8, 15, 16, 16-1, 19, 19-1, 22, 23, 24-1, 25, 26, 28, 31, 32, 34, 34-1, 36, 37 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.6DD809CE5741#^s-68fcaae3e491f1668b554ddd|Lietuvos Respublikos finansų rinkos priežiūros sistemos pertvarkos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo 15 straipsnio
+- [[latest/TAR.6DD809CE5741#^s-ec86ac84daf37ca6291e736d|Lietuvos Respublikos finansų rinkos priežiūros sistemos pertvarkos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo 15 straipsnio
+- [[latest/TAR.B8B6AFC2BFF1#^s-05a0dd4f23681cee0ff7a4a1|Lietuvos Respublikos konkurencijos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.B8B6AFC2BFF1#^s-848c0e4ccfb70786de26a8ef|Lietuvos Respublikos konkurencijos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/dc5ea8a0c04c11ea9815f635b9c0dcef#^s-1016a4e9ae6db32a8614b945|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 1, 3, 11, 16, 17, 18, 19, 21, 22, 25, 26, 27, 29, 32, 33, 35, 36, 37, 38, 38-1, 40, 45, 53, 55, 57 straipsnių, priedo pakeitimo ir Įstatymo papildymo 39-1 straipsniu, VIII skyriumi įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/dc5ea8a0c04c11ea9815f635b9c0dcef#^s-5bb1909ee6522dd8698a9bbc|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 1, 3, 11, 16, 17, 18, 19, 21, 22, 25, 26, 27, 29, 32, 33, 35, 36, 37, 38, 38-1, 40, 45, 53, 55, 57 straipsnių, priedo pakeitimo ir Įstatymo papildymo 39-1 straipsniu, VIII skyriumi įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-0540e125d0e000b57e3a45e3|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-e79aca97e253172f24333c82|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.70288537AD10#^s-35ae7b1fe9922ee56ae78569|Lietuvos Respublikos konkurencijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.70288537AD10#^s-bd901ec3b0399a914eb8b966|Lietuvos Respublikos konkurencijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.15C705E93776#^s-3a497dbb15be0f396ec9ca0e|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.15C705E93776#^s-3c594357764637115c074f4d|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/a3b80640ab3d11e6a6f98c1425a5ffa8#^s-334e151dc53783506e7f2729|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 12, 13, 18, 20, 21, 28, 29, 44, 53, 55, 59, 62, 65, 65-1, 67, 68 ir 77-2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/a3b80640ab3d11e6a6f98c1425a5ffa8#^s-a4a839c78bda42313f5edb30|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 12, 13, 18, 20, 21, 28, 29, 44, 53, 55, 59, 62, 65, 65-1, 67, 68 ir 77-2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.918B019D6351#^s-8b8029fa31131544e68d90e1|Lietuvos Respublikos Lietuvos kultūros tarybos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.918B019D6351#^s-bdbc62668ac6d1d3122459f4|Lietuvos Respublikos Lietuvos kultūros tarybos įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/bc0f3b80540411ec862fdcbc8b3e3e05#^s-4f09093307c87a94caa199ab|Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/bc0f3b80540411ec862fdcbc8b3e3e05#^s-788926d6fb6be31043f39f46|Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/a876ca00cd6d11ed9978886e85107ab2#^s-9a74d2c13aa1fa04a8d2627f|Lietuvos Respublikos muziejų įstatymo Nr. I-930 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/a876ca00cd6d11ed9978886e85107ab2#^s-fbaf72b632e6aefe8f464a24|Lietuvos Respublikos muziejų įstatymo Nr. I-930 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.3E147F656BC4#^s-076b4f8e470f4ea45380f0b8|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.3E147F656BC4#^s-5be03e9cb38bdd0335cbde49|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.3E147F656BC4#^s-bb228f47bd87669a2485c0bb|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - Biudžetinių įstaigų įstatyme
+- [[latest/98bf2940881c11ed8df094f359a60216#^s-518caca92a35bfd09a572364|Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Biudžetinių įstaigų įstatyme
+- [[latest/98bf2940881c11ed8df094f359a60216#^s-93defff96e1591313bc80d26|Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/98bf2940881c11ed8df094f359a60216#^s-bee8a765c619fa09562a7884|Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.91609F53E29E#^s-5d41595a4ed8e43a6255fee8|Lietuvos Respublikos socialinių paslaugų įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.91609F53E29E#^s-ca1936d28707e5a385b735be|Lietuvos Respublikos socialinių paslaugų įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/9d771fb0f25211e88568e724760eeafa#^s-71661df6133f08a74a602812|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/9d771fb0f25211e88568e724760eeafa#^s-e5b11bc0019c7f1105804c4c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-5d1dbae181b69b0b524c7825|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-f968fd5c411935a0edd2983c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.2F1D65EFB0C9#^s-02fe1b84300c3bde4e888486|Lietuvos Respublikos standartizacijos įstatymas]] - Biudžetinių įstaigų įstatymo
+- [[latest/TAR.2F1D65EFB0C9#^s-b0d11c796c4a668f5b8200d9|Lietuvos Respublikos standartizacijos įstatymas]] - Biudžetinių įstaigų įstatymo
+- [[latest/TAR.94F6B680E8B8#^s-366c7b6b8b1c5f9798497cde|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.94F6B680E8B8#^s-ee413e3c94632b8cced7a917|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/c93481b04ddf11ec862fdcbc8b3e3e05#^s-839afaa007a4f1c99e2cbe84|Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 20, 23, 29 ir 32 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.8AC83320B76A#^s-37534e560acb11fe35e27368|Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.8AC83320B76A#^s-3ff83749f4b6475b50cf4591|Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.8AC83320B76A#^s-753ed4fb7bd18ebed8719503|Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.8AC83320B76A#^s-757e3cfd6b34930098689a4b|Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.7BE14C69DE62#^s-684b3d7b2d09446404ce9308|Lietuvos Respublikos sveikatos priežiūros biudžetinių įstaigų reorganizavimo į valstybės ir savivaldybių sveikatos priežiūros viešąsias įstaigas įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.7BE14C69DE62#^s-898c7ebf778871b7a3654cc5|Lietuvos Respublikos sveikatos priežiūros biudžetinių įstaigų reorganizavimo į valstybės ir savivaldybių sveikatos priežiūros viešąsias įstaigas įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.C81BD50A27C6#^s-095887350c4d4e4bc73ac443|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.C81BD50A27C6#^s-3418a644842b0e9215a19d55|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Biudžetinių įstaigų įstatymo 10 straipsnio 2 dalyje
+- [[latest/TAR.C81BD50A27C6#^s-40a8b3e140ae242914171533|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/TAR.C81BD50A27C6#^s-7f759e9aab04daba908a7441|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.C81BD50A27C6#^s-99e06a2ecad690dc3b665169|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Biudžetinių įstaigų įstatymo 10 straipsnio 2 dalyje
+- [[latest/TAR.C81BD50A27C6#^s-a7137cd992e9bf5ddc3fbdeb|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/TAR.C81BD50A27C6#^s-c6e9e9650cc1f89c0413b602|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/bacd5e308eb511eea5a28c81c82193a8#^s-a6d8cfe752b56b1a759afdc1|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10 ir 15-2 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/bacd5e308eb511eea5a28c81c82193a8#^s-e7c655d3bfccacab271c5864|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10 ir 15-2 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/9e0f52624c3411f0b070ee7f1ceefc75#^s-9d17ebbde95f1cae57f74186|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15 straipsnio pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 10 straipsnio 2 dalyje
+- [[latest/d9a7e6f0a62e11eea5a28c81c82193a8#^s-2a879848300b829ef24632dd|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/d9a7e6f0a62e11eea5a28c81c82193a8#^s-8f2222f27fc4ddb7ba625ddf|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/e0d8c240347311efbdaea558de59136c#^s-8549e60235a154433251a824|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymo Nr. XIV-2453 1, 2, 5 ir 6 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/e0d8c240347311efbdaea558de59136c#^s-fc30cf5caf24fa87467c875d|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymo Nr. XIV-2453 1, 2, 5 ir 6 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje
+- [[latest/781b7da149b311e6b5d09300a16a686c#^s-38f6932a76d93eceab35aa62|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas]] - Biudžetinių įstaigų įstatymo 4 straipsnio 3 dalyje
+- [[latest/781b7da149b311e6b5d09300a16a686c#^s-a667e6eaeffaf8f3ca9777cd|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/781b7da149b311e6b5d09300a16a686c#^s-f159b5143098922adc834a27|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/781b7da149b311e6b5d09300a16a686c#^s-f70c9f13de202d4dc20268ac|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas]] - Biudžetinių įstaigų įstatymo 4 straipsnio 3 dalyje
+- [[latest/065574b0eb0f11e7acd7ea182930b17f#^s-431fe2f876b623f594f74c83|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 4 straipsnio 3 dalyje
+- [[latest/065574b0eb0f11e7acd7ea182930b17f#^s-6259f755d845a52b8b690f93|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymo 4 straipsnio 3 dalyje
+- [[latest/TAR.BF4F3C963834#^s-7ab35e47feefbab1ce8dc3e8|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/TAR.2E6CC51EA4ED#^s-bcecdc712feab458d7a66fc6|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-1cb6e432f4cdd4533f165c7c|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-4243f35aaf814eb7956ac8af|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Biudžetinių įstaigų įstatyme
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-7176e78b782d3013e6c91942|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-de4eaf36fdc1eac373a6ea46|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Biudžetinių įstaigų įstatymas
+- [[latest/276fcbf0860711e6b969d7ae07280e89#^s-fbc31527dce96b53ebab891c|Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatyme
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-0cec3dec89e6b8e9675a8bd5|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-1a4b9de08c7259740e9fa04e|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-26b959d11ac95481dc5d3d26|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-31722b2b9aac8573f5d7e315|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-3fee25317bf03c7a0bb2f7b7|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-9ca342ba0f9cb1e2be3352a4|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-bfa75dc2febf43c816c12d3e|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-c1f4c4d56b0bce6667bc285f|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-d247d911855e36b7ce67ec1b|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-dd7098a4ed332913432d6b51|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-e6a308203e442fef38989e46|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-f0b565f06d37acd4d7b2b6ba|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/9136fe603eb211e6a8ae9e1795984391#^s-f19948051a4187bc4d2105f8|Lietuvos Respublikos teismų reorganizavimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.80A607C85C6E#^s-d341674c3ebb17eb3271e082|Lietuvos Respublikos valstybės tarnybos įstatymo, Vidaus tarnybos statuto, Biudžetinių įstaigų įstatymo, Diplomatinės tarnybos įstatymo, Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo pakeitimo įstatymas]] - BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-49620f62d3ecbe35102bdd2f|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-ac42978273bcfc55082f0b4d|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.A82B850FEBE9#^s-4e50cf05963da0e403ece44b|Lietuvos Respublikos viešųjų įstaigų įstatymo 2, 4, 5, 7, 9, 10, 13, 16 straipsnių pakeitimo ir papildymo įstatymas]] - Biudžetinių įstaigų įstatymo
+- [[latest/TAR.A82B850FEBE9#^s-607ceacb85e59a0dc55947b5|Lietuvos Respublikos viešųjų įstaigų įstatymo 2, 4, 5, 7, 9, 10, 13, 16 straipsnių pakeitimo ir papildymo įstatymas]] - Biudžetinių įstaigų įstatymo
+- [[latest/236dcd008eb411eea5a28c81c82193a8#^s-452889c98700a20d22fe3ac5|Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/236dcd008eb411eea5a28c81c82193a8#^s-5c643715c155cbc797466f9e|Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.96A68BFC9E82#^s-8911c00623f35298a3af6b97|Lietuvos Respublikos Vyriausybės įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.D4D4BA1D0870#^s-e80df5568bf6a2c9769f4a06|Lietuvos Respublikos Vyriausybės įstatymo 3, 6, 22, 24, 26, 29, 30, 31-1, 35, 38, 45 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo, įstatymo papildymo 28-1, 29-1 straipsniais ir 33 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/dbec2d908eb411eea5a28c81c82193a8#^s-e3442efe45fb375818d17db3|Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5, 13, 22, 26, 28-1, 29, 29-1, 30, 30-1, 30-2, 31, 31-1, 32 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-8630e394e42e39259369167c|Lietuvos Respublikos švietimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.9A3AD08EA5D0#^s-a4875514adfbfa51ca97adb7|Lietuvos Respublikos švietimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/4b3eef00eb0c11e7acd7ea182930b17f#^s-14ea4c44356914b87be1e360|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 43, 44, 56, 56-1, 62, 69 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/4b3eef00eb0c11e7acd7ea182930b17f#^s-6ad4873ee92641f17d8b19ea|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 43, 44, 56, 56-1, 62, 69 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.E2EBE95E7723#^s-5ac09fabd659b2e55178574a|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu
+- [[latest/TAR.E2EBE95E7723#^s-d56521cdf8e4febd69d1ab27|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymu

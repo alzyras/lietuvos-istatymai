@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0E8F0AD0CB00"
 pavadinimas: "Lietuvos Respublikos saugios laivybos įstatymo 52 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugios laivybos įstatymo 52 straipsnio pakeitimo įstatymas"
+  - "saugios laivybos įstatymo 52 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-11"
 latest_path: "latest/TAR.0E8F0AD0CB00.md"
 latest_sha256: "a9add8f8a0b40df22d4ab097c0520388544f820755eb556d8d6ab7c0c8485c8d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0E8F0AD0CB00]]"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymo 52 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0E8F0AD0CB00.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0E8F0AD0CB00
+- Ryšiai: [[Ryšiai/TAR.0E8F0AD0CB00|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 52 straipsnio pakeitimas
+### 1 straipsnis. 52 straipsnio pakeitimas ^s-d1ff2b0fdccfac864a1b9f9a
 
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:

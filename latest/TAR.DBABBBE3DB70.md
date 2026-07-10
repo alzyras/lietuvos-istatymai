@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DBABBBE3DB70"
 pavadinimas: "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-09"
 latest_path: "latest/TAR.DBABBBE3DB70.md"
 latest_sha256: "8be19e0cabee03c989554370f8cc69858d551ab928af976f765a77a8b48bbb0d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DBABBBE3DB70]]"
 ---
 # Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DBABBBE3DB70.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DBABBBE3DB70
+- Ryšiai: [[Ryšiai/TAR.DBABBBE3DB70|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 5 dalies pakeitimas ^s-17edb14e229bb46c2d1549d6
 
 
 3 straipsnio 5 dalyje vietoj žodžių „ši sąvoka vartojama pagal Valstybės tarnybos įstatymą“ įrašyti žodžius „valstybės ar savivaldybių įstaigos ir institucijos, apibrėžtos Valstybės tarnybos įstatyme“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C6F3AE09D721"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-16"
 latest_path: "latest/TAR.C6F3AE09D721.md"
 latest_sha256: "a1415c518baf2ac952f14427a6b9e94caad240ddfe669777f823937b05f518b9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C6F3AE09D721]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C6F3AE09D721.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C6F3AE09D721
+- Ryšiai: [[Ryšiai/TAR.C6F3AE09D721|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 371 straipsnio 1 dalies pakeitimas ir papildymas
+### 1 straipsnis. 371 straipsnio 1 dalies pakeitimas ir papildymas ^s-bebebbc18c4223abe903e4d7
 
 
 Iš 371 straipsnio 1 dalies išbraukti žodžius „pirmiau už kitus reikalavimus ir“, po žodžio „fondams“ įrašyti žodžius „tačiau tik po to, kai ūkio subjektas yra atsiskaitęs už supirktą, taip pat perdirbtą žemės ūkio produkciją bei apmokėjęs pagal dokumentus, susijusius su darbo santykiais, iš visų ūkio subjektų sąskaitų šalies ir užsienio bankuose“ ir šią dalį išdėstyti taip:

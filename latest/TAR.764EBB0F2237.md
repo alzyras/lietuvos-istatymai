@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.764EBB0F2237"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10 ir 13 straipsnių pakeitimo įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-11"
 latest_path: "latest/TAR.764EBB0F2237.md"
 latest_sha256: "8a6848a22f3c1309b3cfcffc2e3357712edf6450fced98531d0f5752a1d35af7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.764EBB0F2237]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.764EBB0F2237.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.764EBB0F2237
+- Ryšiai: [[Ryšiai/TAR.764EBB0F2237|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-964beb39bbb324ff6236a22d
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,17 +48,17 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriamos:
 
 
-1) valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti – pagal nustatytą šioms funkcijoms atlikti lėšų apskaičiavimo metodiką; ^dfbe63cbe03d1a1a1fb3fa28
+1) valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti – pagal nustatytą šioms funkcijoms atlikti lėšų apskaičiavimo metodiką; ^s-a04014ca40a94512181d24da
 
 
-2) mokinio krepšeliui finansuoti vykdant Vietos savivaldos įstatymo 6 straipsnio 8 punkte nustatytą savarankiškąją savivaldybių funkciją ir Vietos savivaldos įstatymo 7 straipsnio 7 punkte nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką; ^8618fbb9570bc0800f97d463
+2) mokinio krepšeliui finansuoti vykdant [[latest/TAR.D0CD0966D67F#^s-76ca4f96bc48eb0abea983a1|Vietos savivaldos įstatymo 6 straipsnio 8 punkte]] nustatytą savarankiškąją savivaldybių funkciją ir [[latest/TAR.D0CD0966D67F#^s-ba55ab579b426775ce964434|Vietos savivaldos įstatymo 7 straipsnio 7 punkte]] nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką; ^s-090d37d4c227bac4ed71c0a4
 
 
-3) Seimo, Vyriausybės patvirtintoms programoms ar priimtiems sprendimams vykdyti.“ ^9f7e7b6011794cf4ca44e6c5
+3) Seimo, Vyriausybės patvirtintoms programoms ar priimtiems sprendimams vykdyti.“ ^s-e85c4cb2797e684b3bdb37e2
 
 
 
-### 2 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-2908c815cd3df41fc17c37a8
 
 
 10 straipsnio 2 dalyje vietoj žodžių „savarankiškajai vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių funkcijai“ įrašyti žodžius „mokinio krepšeliui“ ir šią dalį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-d01935fd41fe2ab650296064
 
 
 13 straipsnio 1 dalyje išbraukti žodžius „pagal šio Įstatymo 12 straipsnio 2 dalį“ ir šią dalį išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo taikymas
+### 4 straipsnis. Įstatymo taikymas ^s-f4f153770db7d1b4bb35b415
 
 
 Šio įstatymo nuostatos taikomos rengiant 2011 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektus.

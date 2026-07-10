@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0A389C6B2000"
 pavadinimas: "Lietuvos Respublikos viešojo administravimo įstatymo 40 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešojo administravimo įstatymo 40 straipsnio papildymo įstatymas"
+  - "viešojo administravimo įstatymo 40 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-05"
 latest_path: "latest/TAR.0A389C6B2000.md"
 latest_sha256: "81ef00b8de298dfe9b8cb1113bbeebaced1d52b6531cb0fac48f5f7046d933af"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0A389C6B2000]]"
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 40 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0A389C6B2000.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0A389C6B2000
+- Ryšiai: [[Ryšiai/TAR.0A389C6B2000|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 40 straipsnio papildymas 5 dalimi
+### 1 straipsnis. 40 straipsnio papildymas 5 dalimi ^s-1f1165e911969d039a4b8cce
 
 
 Papildyti 40 straipsnį 5 dalimi:

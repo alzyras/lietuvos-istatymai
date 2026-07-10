@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4DD29673DE10"
 pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.4DD29673DE10.md"
 latest_sha256: "bc7d1472d1c9890f6b60b824094ad7c4cabe3746909c8f9e0be937b12b288a0b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4DD29673DE10]]"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4DD29673DE10.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4DD29673DE10
+- Ryšiai: [[Ryšiai/TAR.4DD29673DE10|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,17 +34,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-b322488fbf5b96382b81741f
 
 
 Pakeisti 10 straipsnio 3 dalį ir ją dalį išdėstyti taip:
 
 
-„3. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.“
+„3. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-76a5147dc07874453f58c47b
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

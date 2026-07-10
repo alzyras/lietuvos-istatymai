@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D1034FE099E5"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 19 skyriaus pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 19 skyriaus pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 19 skyriaus pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-16"
 latest_path: "latest/TAR.D1034FE099E5.md"
 latest_sha256: "9bf5a2380af5a4903d22c9db810a2e76d14b453ff4bb1f7589a9111c6a48ea57"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D1034FE099E5]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 19 skyriaus pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D1034FE099E5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D1034FE099E5
+- Ryšiai: [[Ryšiai/TAR.D1034FE099E5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Priedėlio 19 skyriaus 6 dalies pakeitimas
+### 1 straipsnis. Priedėlio 19 skyriaus 6 dalies pakeitimas ^s-4a520282a6c9078d8b058319
 
 
 Pakeisti Priedėlio 19 skyriaus 6 dalį ir ją išdėstyti taip:

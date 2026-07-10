@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.16F94A457CA3"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 3, 5 ir 51 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 3, 5 ir 51 straipsnių pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 3, 5 ir 51 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-08-01"
 latest_path: "latest/TAR.16F94A457CA3.md"
 latest_sha256: "20371e618b0f058df53e51c6850d5873ede16111f65db375506fab187bd05bdd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.16F94A457CA3]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 3, 5 ir 51 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.16F94A457CA3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.16F94A457CA3
+- Ryšiai: [[Ryšiai/TAR.16F94A457CA3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas ^s-fbb29bfa511bc7c52284d7dd
 
 
 Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-ef440552f59fad0e9780b6be
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -50,17 +55,17 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Priedas už ištarnautus Lietuvos valstybei metus
 
 
-1. Valstybės politikams, teisėjams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant pareigas, nurodytas Valstybės tarnybos įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas ir taikymas|4 straipsnio]] 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje. ^82b567bf113f40870680136b
+1. Valstybės politikams, teisėjams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant pareigas, nurodytas [[latest/TAR.D3ED3792F52B#^s-1b3fc60d66ac757df64527ed|Valstybės tarnybos įstatymo 4 straipsnio]] 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje. ^s-d91d6cc88dc6dff1ff6b8c4f
 
 
-2. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė. ^6bf9616d61bc539b68bc9d5b
+2. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė. ^s-6fdcdc1d5b5c3b5e45bb9bb5
 
 
-3. Priedą už ištarnautus valstybei metus sudaro 3 procentai valstybės politiko, teisėjo ar valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti 30 procentų pareiginės algos.“ ^0ffb3b436dbbe26289c5e518
+3. Priedą už ištarnautus valstybei metus sudaro 3 procentai valstybės politiko, teisėjo ar valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti 30 procentų pareiginės algos.“ ^s-7469ab54a0650f71253f87bc
 
 
 
-### 3 straipsnis. 51 straipsnio pakeitimas
+### 3 straipsnis. 51 straipsnio pakeitimas ^s-a1343c271e6ffa1395554d60
 
 
 Pakeisti 51 straipsnį ir jį išdėstyti taip:
@@ -72,32 +77,32 @@ Pakeisti 51 straipsnį ir jį išdėstyti taip:
 Prokurorams priedai už kvalifikacinį rangą skaičiuojami nuo pareiginės algos:
 
 
-1) jaunesniajam justicijos patarėjui – 10 procentų dydžio; ^b48324c79592b7b4f90890a7
+1) jaunesniajam justicijos patarėjui – 10 procentų dydžio; ^s-cfc36e9bc439a17328d1b01a
 
 
-2) justicijos patarėjui – 15 procentų dydžio; ^1e8dddf4da949f164b043e81
+2) justicijos patarėjui – 15 procentų dydžio; ^s-e7a1101c55ddb1d8a497759a
 
 
-3) vyresniajam justicijos patarėjui – 20 procentų dydžio; ^8ed46bbcac2df501f2a262f7
+3) vyresniajam justicijos patarėjui – 20 procentų dydžio; ^s-64539d24a5acfb1d90e01c33
 
 
-4) vyriausiajam justicijos patarėjui – 25 procentų dydžio; ^c35cdfe9f737fa30ad27338c
+4) vyriausiajam justicijos patarėjui – 25 procentų dydžio; ^s-24da985efab8785e48cc138e
 
 
-5) valstybiniam justicijos patarėjui – 30 procentų dydžio; ^3b1e838fba9eee20585631f2
+5) valstybiniam justicijos patarėjui – 30 procentų dydžio; ^s-9e5662db34c70efc02e27489
 
 
-6) vyriausiajam valstybiniam justicijos patarėjui – 40 procentų dydžio.“ ^deee1d32cf9178e516ad167a
+6) vyriausiajam valstybiniam justicijos patarėjui – 40 procentų dydžio.“ ^s-3e30cce28e02785e5e931711
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 4 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-d11164aba509f88240fcd237
 
 
-1. Šis įstatymas įsigalioja nuo 2007 m. rugpjūčio 1 d. ^ca8ad0349881003b66f3fd24
+1. Šis įstatymas įsigalioja nuo 2007 m. rugpjūčio 1 d. ^s-6eaf2fa99adb34f08091b89f
 
 
-2. Vyriausybė iki šio įstatymo įsigaliojimo parengia šiam įstatymui įgyvendinti reikalingus teisės aktus. ^e134f263c5fdeb7c67ce850f
+2. Vyriausybė iki šio įstatymo įsigaliojimo parengia šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-223591286527a6ac2670912d
 
 
 

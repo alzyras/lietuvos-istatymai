@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CA93113B64BF"
 pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas"
+  - "karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-01"
 latest_path: "latest/TAR.CA93113B64BF.md"
 latest_sha256: "4e432a2f3e131685ff0e1d652ce2971c731b606126db43d7cf555766694aa026"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CA93113B64BF]]"
 ---
 # Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CA93113B64BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CA93113B64BF
+- Ryšiai: [[Ryšiai/TAR.CA93113B64BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-54c663dc69b2395e09f1ed71
 
 
 2 straipsnio 1 dalyje vietoj žodžių „pasienio policija ir kiti“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 21 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 21 straipsnio 2 dalies pakeitimas ^s-76f5d6cb43bf6ccfd5b0db99
 
 
 21 straipsnio 2 dalyje vietoj žodžių „Pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“, išbraukti žodžius „ir kiti“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-5e2359dda84d2232bdbccf0f
 
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.

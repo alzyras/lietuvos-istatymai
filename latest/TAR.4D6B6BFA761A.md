@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D6B6BFA761A"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19, 31, 32, 60, 64, 71, 80, 81, 91 straipsnių ir 1 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19, 31, 32, 60, 64, 71, 80, 81, 91 straipsnių ir 1 priedo pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19, 31, 32, 60, 64, 71, 80, 81, 91 straipsnių ir 1 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-29"
 latest_path: "latest/TAR.4D6B6BFA761A.md"
 latest_sha256: "e910c30e85c26c400af0d5bc3fe4edfcb340d62b9b268e4b18c81dbcad010711"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D6B6BFA761A]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19, 31, 32, 60, 64, 71, 80, 81, 91 straipsnių ir 1 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D6B6BFA761A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D6B6BFA761A
+- Ryšiai: [[Ryšiai/TAR.4D6B6BFA761A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas ^s-6098463f843720a3f3d26eb7
 
 
-1. 19 straipsnio 3 dalies 1 punkte vietoj datos „2012 m. gruodžio 31 d.“ įrašyti datą „2013 m. gruodžio 31 d.“ ir šį punktą išdėstyti taip: ^f6c45dab63ade684f7744149
+1. 19 straipsnio 3 dalies 1 punkte vietoj datos „2012 m. gruodžio 31 d.“ įrašyti datą „2013 m. gruodžio 31 d.“ ir šį punktą išdėstyti taip: ^s-116523768319008d91143cdf
 
 
 „1) iki 2013 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;“.
 
 
-2. 19 straipsnio 4 dalyje vietoj datos „2012 m. gruodžio 31 d.“ įrašyti datą „2013 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip: ^e9749d31f9b21200121528cc
+2. 19 straipsnio 4 dalyje vietoj datos „2012 m. gruodžio 31 d.“ įrašyti datą „2013 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip: ^s-96b86d510c5701327b1cb332
 
 
-„4. Iki 2013 m. gruodžio 31 d. lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka.“
+„4. Iki 2013 m. gruodžio 31 d. lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 2 straipsnis. 31 straipsnio 2 dalies 2 punkto pakeitimas
+### 2 straipsnis. 31 straipsnio 2 dalies 2 punkto pakeitimas ^s-f98095cd914c826d923962cd
 
 
 31 straipsnio 2 dalies 2 punkte vietoj žodžio „įrengimų“ įrašyti žodžius „įrenginių ar įrangos“ ir šį punktą išdėstyti taip:
@@ -59,7 +64,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 32 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 32 straipsnio 1 dalies 1 punkto pakeitimas ^s-f557bed3ab52680d1a5d14b5
 
 
 Pakeisti 32 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -69,7 +74,7 @@ Pakeisti 32 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 60 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 60 straipsnio 2 dalies pakeitimas ^s-0d2010aba121a29302cdfbe6
 
 
 60 straipsnio 2 dalyje vietoj žodžio „įrengimų“ įrašyti žodžius „įrenginių ar įrangos“ ir šią dalį išdėstyti taip:
@@ -79,7 +84,7 @@ Pakeisti 32 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 64 straipsnio 5 dalies pakeitimas
+### 5 straipsnis. 64 straipsnio 5 dalies pakeitimas ^s-efae2f86074d98bca704bd08
 
 
 Pakeisti 64 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -89,7 +94,7 @@ Pakeisti 64 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 71 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 71 straipsnio 1 dalies pakeitimas ^s-897b8c338c48d962b37b3781
 
 
 71 straipsnio 1 dalyje vietoj žodžio „straipsnį“ įrašyti žodžius ir skaičius „straipsnio 2, 3 ir 4 dalių nuostatas“ ir šią dalį išdėstyti taip:
@@ -99,7 +104,7 @@ Pakeisti 64 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 80 straipsnio 4 dalies pakeitimas
+### 7 straipsnis. 80 straipsnio 4 dalies pakeitimas ^s-68c456c3f7f1ea5c2d690cad
 
 
 Pakeisti 80 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -109,23 +114,23 @@ Pakeisti 80 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 81 straipsnio 1 ir 2 punktų pakeitimas
+### 8 straipsnis. 81 straipsnio 1 ir 2 punktų pakeitimas ^s-ffa002f66393c4a0d1048f98
 
 
-1. Pakeisti 81 straipsnio 1 punktą ir jį išdėstyti taip: ^c50fdd2f237d3a208496724d
+1. Pakeisti 81 straipsnio 1 punktą ir jį išdėstyti taip: ^s-3d5f5ad2ccac7369c22a2073
 
 
 „1) produkcijos tiekėjo PVM mokėtojo kodas, pavadinimas ir kodas, o jeigu tai fizinis asmuo, – vardas, pavardė;“.
 
 
-2. Pakeisti 81 straipsnio 2 punktą ir jį išdėstyti taip: ^46cc8968eb40a8f2ae09bb8f
+2. Pakeisti 81 straipsnio 2 punktą ir jį išdėstyti taip: ^s-007055f2378df338c28b1fb0
 
 
 „2) produkcijos pirkėjo PVM mokėtojo kodas (jei turi), pavadinimas ir kodas, o jeigu tai fizinis asmuo, – vardas, pavardė;“.
 
 
 
-### 9 straipsnis. 91 straipsnio 2 dalies 5 punkto pakeitimas
+### 9 straipsnis. 91 straipsnio 2 dalies 5 punkto pakeitimas ^s-3fe4997aa8b634a68183accc
 
 
 Pakeisti 91 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
@@ -135,7 +140,7 @@ Pakeisti 91 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 10 straipsnis. Įstatymo 1 priedo 5 punkto pakeitimas
+### 10 straipsnis. Įstatymo 1 priedo 5 punkto pakeitimas ^s-2dbb1d9b5def1908b629eb45
 
 
 Įstatymo 1 priedo 5 punkte vietoj žodžio „įrengimų“ įrašyti žodžius „įrenginių ar įrangos“ ir šį punktą išdėstyti taip:
@@ -145,17 +150,17 @@ Pakeisti 91 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 11 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 11 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-db1b831357562387f5112960
 
 
-1. Šio įstatymo 7, 8 ir [[#9 straipsnis. 91 straipsnio 2 dalies 5 punkto pakeitimas|9 straipsniai]] įsigalioja 2013 m. kovo 1 d. ^f0ec7793ddef1b2a710e8915
+1. Šio įstatymo 7, 8 ir [[#^s-3fe4997aa8b634a68183accc|9 straipsniai]] įsigalioja 2013 m. kovo 1 d. ^s-7c4c0da297b46520950ab28c
 
 
-2. Šio įstatymo [[#^f6c45dab63ade684f7744149|1 straipsnio 1 dalyje]] išdėstytos Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto nuostatos taikomos iki 2013 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms. ^141efe07ed62761500cf31f4
+2. Šio įstatymo [[#^s-116523768319008d91143cdf|1 straipsnio 1 dalyje]] išdėstytos [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto]] nuostatos taikomos iki 2013 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms. ^s-0701c6261b7de8e33eca6e0f
 
 
 
-### 12 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
+### 12 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai ^s-62b3241915b6208b05bd9775
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2013 m. vasario 28 d. priima šio įstatymo įgyvendinamuosius teisės aktus.

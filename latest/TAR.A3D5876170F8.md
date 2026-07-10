@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A3D5876170F8"
 pavadinimas: "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas"
+  - "pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-19"
 latest_path: "latest/TAR.A3D5876170F8.md"
 latest_sha256: "3385a87c5053b161cda5a4dced5474aa32fa5c72a3dc8402fa88ea1da636eb1b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A3D5876170F8]]"
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A3D5876170F8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A3D5876170F8
+- Ryšiai: [[Ryšiai/TAR.A3D5876170F8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-310ab805e7df6808902f96f4
 
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio 21 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 21 dalies pakeitimas ^s-1aae5b444fccef97d2cafa20
 
 
 Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
@@ -52,17 +57,17 @@ Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 „21. Pakuotė – grąžintinas ar negrąžintinas gaminys iš bet kokių medžiagų, skirtas daiktams, pradedant žaliavomis ir baigiant perdirbtais produktais, pakuoti (fasuoti), apsaugoti, tvarkyti, transportuoti ir pateikti vartotojams ar produktų naudotojams:
 
 
-1) gaminys nėra pakuotė, jeigu jis yra neatskiriama kito gaminio dalis, yra skirtas tam gaminiui laikyti ir apsaugoti visą jo gyvavimo laikotarpį ir visos jo dalys naudojamos, vartojamos ir pašalinamos kartu (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^58eb4f44c81c121de0bb1e3a|1 punkte]]); ^58eb4f44c81c121de0bb1e3a
+1) gaminys nėra pakuotė, jeigu jis yra neatskiriama kito gaminio dalis, yra skirtas tam gaminiui laikyti ir apsaugoti visą jo gyvavimo laikotarpį ir visos jo dalys naudojamos, vartojamos ir pašalinamos kartu (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^s-bf045f044e9fc7d8bd4c895e|1 punkte]]); ^s-bf045f044e9fc7d8bd4c895e
 
 
-2) gaminys yra pakuotė, skirtas užpildyti pardavimo vietoje, taip pat vienkartiniai gaminiai, kurie parduodant užpildomi ir (ar) skirti užpildyti pardavimo vietoje, jei jie atlieka pakuotės funkciją (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^06e8b31264ffb73446087007|2 punkte]]); ^06e8b31264ffb73446087007
+2) gaminys yra pakuotė, skirtas užpildyti pardavimo vietoje, taip pat vienkartiniai gaminiai, kurie parduodant užpildomi ir (ar) skirti užpildyti pardavimo vietoje, jei jie atlieka pakuotės funkciją (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^s-1ca386cc447f637ed00f7d45|2 punkte]]); ^s-1ca386cc447f637ed00f7d45
 
 
-3) pakuotę sudarantys pakuotės komponentai ir pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai, tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos dalys yra skirtos kartu naudoti ir pašalinti (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^65db8a7b7df606653d99a734|3 punkte]]).“ ^65db8a7b7df606653d99a734
+3) pakuotę sudarantys pakuotės komponentai ir pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai, tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos dalys yra skirtos kartu naudoti ir pašalinti (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^s-242aad668df45d3a10c513cd|3 punkte]]).“ ^s-242aad668df45d3a10c513cd
 
 
 
-### 3 straipsnis. Įstatymo papildymas nauju 1 priedu
+### 3 straipsnis. Įstatymo papildymas nauju 1 priedu ^s-dcbbc92075b7ac27cc728c74
 
 
 Papildyti Įstatymą nauju 1 priedu:
@@ -78,173 +83,173 @@ LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2 STRA
 
 
 
-1. 2 straipsnio 21 dalies 1 punkte nustatytam kriterijui skirti pavyzdžiai: ^666f59c87dd17731d8fbeb08
+1. 2 straipsnio 21 dalies 1 punkte nustatytam kriterijui skirti pavyzdžiai: ^s-2a10d5ddff8ee5c4e26679a3
 
 
-1.1. pakuotė: ^db3cb6ae4571442e4ffa8bcd
+1.1. pakuotė: ^s-910641b8bd7ab620cc26253f
 
 
-1.1.1. dėžutės saldainiams; ^3ddf6ea5806d1e44c3da3e88
+1.1.1. dėžutės saldainiams; ^s-81291036c963f59849821fc0
 
 
-1.1.2. kompaktinių diskų dėklų plėvelinis apvalkalas; ^94ab426174bc5827b62938a7
+1.1.2. kompaktinių diskų dėklų plėvelinis apvalkalas; ^s-3b74928f0d3e47fafbb9d065
 
 
-1.1.3. katalogų ir žurnalų pašto maišeliai (su žurnalu viduje); ^45b65f00b030802cbc72584e
+1.1.3. katalogų ir žurnalų pašto maišeliai (su žurnalu viduje); ^s-fc5abe6f6ec26fe11011fd1d
 
 
-1.1.4. popierinės kepimo formelės, parduodamos su pyragaičiais; ^9e92e56e1a123835dd988ff2
+1.1.4. popierinės kepimo formelės, parduodamos su pyragaičiais; ^s-c151174adcef1156a0b13e4f
 
 
-1.1.5. ritiniai, vamzdeliai ir cilindrai, apvynioti lanksčia medžiaga (pvz., plastikine plėvele, aliuminio folija, popieriumi), išskyrus ritinius, vamzdelius ir cilindrus, kurie skirti naudoti gamybos įrangoje ir nenaudojami pateikiant produktą kaip pardavimo vienetą; ^f1a0341d31bf5ade38153b17
+1.1.5. ritiniai, vamzdeliai ir cilindrai, apvynioti lanksčia medžiaga (pvz., plastikine plėvele, aliuminio folija, popieriumi), išskyrus ritinius, vamzdelius ir cilindrus, kurie skirti naudoti gamybos įrangoje ir nenaudojami pateikiant produktą kaip pardavimo vienetą; ^s-3c1c56b67bd03b596f5ea69f
 
 
-1.1.6. tik augalams parduoti ir gabenti, bet ne auginti, skirti vazonai; ^9cc5e37876545c7264ee088f
+1.1.6. tik augalams parduoti ir gabenti, bet ne auginti, skirti vazonai; ^s-eadb9f9b37d235ee8b4e1016
 
 
-1.1.7. injekcijų tirpalams skirti stikliniai buteliai; ^83419c515a5b887c021b4e27
+1.1.7. injekcijų tirpalams skirti stikliniai buteliai; ^s-6ac41b77205b7870d0308537
 
 
-1.1.8. kompaktinių diskų ašinės dėžutės (parduodamos kartu su kompaktiniais diskais, neskirtos diskams laikyti); ^32b6829a4ff0adbdc32a9aca
+1.1.8. kompaktinių diskų ašinės dėžutės (parduodamos kartu su kompaktiniais diskais, neskirtos diskams laikyti); ^s-5b9976ba408f7f6e413eb572
 
 
-1.1.9. drabužių pakabos (parduodamos kartu su drabužiais); ^93a40b26af0bd4088ffe78dc
+1.1.9. drabužių pakabos (parduodamos kartu su drabužiais); ^s-e5885eff39a6b9375e7fcd5d
 
 
-1.1.10. degtukų dėžutės; ^f108d3e3427b39e4394e6b07
+1.1.10. degtukų dėžutės; ^s-7455b06abda8a358ceb3cc38
 
 
-1.1.11. sterilios apsauginės sistemos (produkto sterilumui išsaugoti reikalingi maišeliai, padėklai ir medžiagos); ^f10ef4ecb15de8f0e78cd120
+1.1.11. sterilios apsauginės sistemos (produkto sterilumui išsaugoti reikalingi maišeliai, padėklai ir medžiagos); ^s-94fbd93dd5a571028271617d
 
 
-1.1.12. gėrimų kapsulės (pvz., kavos, kakavos, pieno), kurios panaudotos lieka tuščios; ^bbb55908fbef844636b57a4a
+1.1.12. gėrimų kapsulės (pvz., kavos, kakavos, pieno), kurios panaudotos lieka tuščios; ^s-d43ca943fc21703c8d57356a
 
 
-1.1.13 įvairių rūšių dujoms skirti daugkartinio naudojimo plieniniai cilindrai, išskyrus gesintuvus; ^2a59f545fb6722d0711aab76
+1.1.13 įvairių rūšių dujoms skirti daugkartinio naudojimo plieniniai cilindrai, išskyrus gesintuvus; ^s-f87caeb1a85d2353d4f63f9c
 
 
-1.2. ne pakuotė: ^ad13b072781cb5efc00cc67d
+1.2. ne pakuotė: ^s-51d24b748a0a92798730f238
 
 
-1.2.1. vazonai, kuriuose augalas auga visą savo gyvavimą; ^0c2c4f1bfdf5d16d309164b6
+1.2.1. vazonai, kuriuose augalas auga visą savo gyvavimą; ^s-b60e836a081156c32924a1f4
 
 
-1.2.2. įrankių dėžės; ^66481662bf8ea8b8f63a7b2c
+1.2.2. įrankių dėžės; ^s-0b9ab7305770d1647d8b802e
 
 
-1.2.3. arbatos maišeliai; ^7df36e607f4c7dc1b1165fb4
+1.2.3. arbatos maišeliai; ^s-f3fb44daff6e57874b249718
 
 
-1.2.4. sūrius dengiantis vaško sluoksnis; ^aa456272a6e694251309ad92
+1.2.4. sūrius dengiantis vaško sluoksnis; ^s-5566bd4cc9c77a200085900a
 
 
-1.2.5. dešrų apvalkalai; ^d9cf1d2506f53d88f68cf59c
+1.2.5. dešrų apvalkalai; ^s-5093eb9a66a2e0d5a6f7dffc
 
 
-1.2.6. drabužių pakabos (parduodamos atskirai); ^b1464bb25305bd93e9f1b745
+1.2.6. drabužių pakabos (parduodamos atskirai); ^s-70a321efd62c9b6f288d1de2
 
 
-1.2.7. kavos kapsulės, kavos maišeliai iš folijos ir kavos filtrai, išmetami kartu su panaudotu kavos produktu; ^55cef7e18ee81ddd32558a06
+1.2.7. kavos kapsulės, kavos maišeliai iš folijos ir kavos filtrai, išmetami kartu su panaudotu kavos produktu; ^s-f75ac8588addd078fcc9a3fb
 
 
-1.2.8. spausdintuvų kasetės; ^b2a4e63ae3ea77d22be2e22b
+1.2.8. spausdintuvų kasetės; ^s-4114fe321826809d0855362e
 
 
-1.2.9. kompaktinių diskų, skaitmeninių vaizdo diskų ir vaizdo kasečių dėžutės (parduodamos kartu su kompaktiniais diskais, skaitmeniniais vaizdo diskais ir vaizdo kasečių dėžutėmis); ^f80bed0894ddcc39c5136e5b
+1.2.9. kompaktinių diskų, skaitmeninių vaizdo diskų ir vaizdo kasečių dėžutės (parduodamos kartu su kompaktiniais diskais, skaitmeniniais vaizdo diskais ir vaizdo kasečių dėžutėmis); ^s-07d594f3c1b7ed69f605e75d
 
 
-1.2.10. kompaktinių diskų ašinės dėžutės (parduodamos tuščios ir skirtos kompaktiniams diskams laikyti); ^dde0616ea799e201122b8158
+1.2.10. kompaktinių diskų ašinės dėžutės (parduodamos tuščios ir skirtos kompaktiniams diskams laikyti); ^s-9542bf131d8c3111e27ed319
 
 
-1.2.11. tirpūs ploviklių maišeliai; ^0847acde4f89d3009b5d9533
+1.2.11. tirpūs ploviklių maišeliai; ^s-29e5be7effbb1a1d0acd7200
 
 
-1.2.12. kapinių žvakidės (žvakių indeliai); ^a0efee0cd69372bd8ba1d442
+1.2.12. kapinių žvakidės (žvakių indeliai); ^s-35b541a79f3a7e3785ff4279
 
 
-1.2.13. mechaninis malūnėlis (įmontuotas į daugkartinio naudojimo talpyklą, pvz., daugkartinio naudojimo pipirų malūnėlis). ^aec82784af63578f7b9f1a47
+1.2.13. mechaninis malūnėlis (įmontuotas į daugkartinio naudojimo talpyklą, pvz., daugkartinio naudojimo pipirų malūnėlis). ^s-d1c037ee7c40ba0edaca59af
 
 
-2. 2 straipsnio 21 dalies 2 punkte nustatytam kriterijui skirti pavyzdžiai: ^c8e1eab58e76b7ea9b94e1cf
+2. 2 straipsnio 21 dalies 2 punkte nustatytam kriterijui skirti pavyzdžiai: ^s-2f8e6bf1cdbc1b9ca8de2800
 
 
-2.1. pakuotė, jeigu suprojektuota ir skirta užpildyti pardavimo vietoje: ^8c4c7f5ab11915eab2a1ee5c
+2.1. pakuotė, jeigu suprojektuota ir skirta užpildyti pardavimo vietoje: ^s-3f4949958d8efc3bd19f418c
 
 
-2.1.1. popieriniai arba plastikiniai maišai, skirti prekėms nešti; ^45edfbb956e38c22edab9528
+2.1.1. popieriniai arba plastikiniai maišai, skirti prekėms nešti; ^s-8c4972ae359f413aa40e8f31
 
 
-2.1.2. vienkartinės lėkštės ir puodeliai; ^5272c715dae14d08c6088b42
+2.1.2. vienkartinės lėkštės ir puodeliai; ^s-36e512cf20f333dd579cf72b
 
 
-2.1.3. maistui vynioti skirta plėvelė; ^d9270ea83903827ad53fa8e1
+2.1.3. maistui vynioti skirta plėvelė; ^s-12247343ae78499bf4619723
 
 
-2.1.4. maišeliai sumuštiniams; ^5935d0bbc8bf3a0ba2e46b9b
+2.1.4. maišeliai sumuštiniams; ^s-9e8b387e3f5fd657ec787d81
 
 
-2.1.5. aliuminio folija; ^376d4dabb7243c35a00ada8c
+2.1.5. aliuminio folija; ^s-8c9c16cc88ff1442712de1ad
 
 
-2.1.6. plastikinė plėvelė skalbykloje išskalbtiems drabužiams vynioti; ^d39ccf8a50ea7cc0cc10a26f
+2.1.6. plastikinė plėvelė skalbykloje išskalbtiems drabužiams vynioti; ^s-ea1815a2e70e8d7a65a2b343
 
 
-2.2. ne pakuotė: ^af824243d115e8a2b7d2c3de
+2.2. ne pakuotė: ^s-e2e3bd21f8ff8f2a02204aa2
 
 
-2.2.1. maišiklis; ^8e792fa3221f899b6b276c6e
+2.2.1. maišiklis; ^s-f9b6aef1876183c9b256d0a9
 
 
-2.2.2. vienkartiniai stalo įrankiai; ^f9784ee2d90a92e11e9bde7e
+2.2.2. vienkartiniai stalo įrankiai; ^s-8096b1c0f71900f2dc5adcbe
 
 
-2.2.3. vyniojamasis popierius (parduodamas atskirai); ^639f11da27c9f0aeb7d53f97
+2.2.3. vyniojamasis popierius (parduodamas atskirai); ^s-cf5820f77dc4552ba62a5807
 
 
-2.2.4. popierinės kepimo dėžutės (parduodamos tuščios); ^28289f988c1a5d80c2182871
+2.2.4. popierinės kepimo dėžutės (parduodamos tuščios); ^s-74546877e2a28942471d6d5c
 
 
-2.2.5. popierinės kepimo formelės, parduodamos be pyragaičių; ^2224dc6e3885c800a117bbf2
+2.2.5. popierinės kepimo formelės, parduodamos be pyragaičių; ^s-42831513ff724deef358a5fc
 
 
-3. 2 straipsnio 21 dalies 3 punkte nustatytam kriterijui skirti pavyzdžiai: ^a3003cc80715c041113b2e9c
+3. 2 straipsnio 21 dalies 3 punkte nustatytam kriterijui skirti pavyzdžiai: ^s-2970ab1a840e9e2cc79a9faa
 
 
-3.1. pakuotė: ^6695a925cb26f61ace224968
+3.1. pakuotė: ^s-e5cbde105825e8271260a714
 
 
-3.1.1. etiketės, prikabintos arba pritvirtintos prie produkto; ^ec2366403eaac24ebfb2281b
+3.1.1. etiketės, prikabintos arba pritvirtintos prie produkto; ^s-91767772c40a87297b5aec1f
 
 
-3.2. pakuotės dalis: ^f848eea156c92561a63d8388
+3.2. pakuotės dalis: ^s-d202d4b2529636a9ab86ed55
 
 
-3.2.1. blakstienų tušo šepetėlis (flakono dangtelio dalis); ^b260ae90acdc76bd7ff01a8c
+3.2.1. blakstienų tušo šepetėlis (flakono dangtelio dalis); ^s-26839c23098bfcd239b58924
 
 
-3.2.2. lipnios etiketės, priklijuotos ant kitos pakuotės; ^905d3f2628a68e34ca05d717
+3.2.2. lipnios etiketės, priklijuotos ant kitos pakuotės; ^s-2d50be9b581656116f71fcd1
 
 
-3.2.3. sąsagėlės; ^d42af5e108ed6604b6e58b81
+3.2.3. sąsagėlės; ^s-c1e635382912a8e112c57784
 
 
-3.2.4. plastikiniai dėklai; ^2d9c801e1f538a8afcd0388b
+3.2.4. plastikiniai dėklai; ^s-eb45a9ff075b4d0260e98874
 
 
-3.2.5. ploviklių pakuotės dangtelyje esantis dozatorius; ^5ac5206a71246dd4b67b685b
+3.2.5. ploviklių pakuotės dangtelyje esantis dozatorius; ^s-16d37cd237ae5db29593bac9
 
 
-3.2.6. mechaninis malūnėlis (įmontuotas į vienkartinio naudojimo talpyklą, pripildytas produkto, pvz., pipirų pripildytas pipirų malūnėlis); ^35fb7bfa151f079983fddd55
+3.2.6. mechaninis malūnėlis (įmontuotas į vienkartinio naudojimo talpyklą, pripildytas produkto, pvz., pipirų pripildytas pipirų malūnėlis); ^s-42d5932176b07e0079394656
 
 
-3.3. ne pakuotė: ^282e37ed8a16e248ac4e63cf
+3.3. ne pakuotė: ^s-c633d0a8582691af1cdfc98a
 
 
-3.3.1. radijo dažnio atpažinimo žymenys.“ ^c315e8bc37ad62239b38e674
+3.3.1. radijo dažnio atpažinimo žymenys.“ ^s-ac5b27fcb6c517c1c58c866c
 
 
 
-### 4 straipsnis. Įstatymo priedo pakeitimas
+### 4 straipsnis. Įstatymo priedo pakeitimas ^s-2bec379b0f8b2e9bab131b79
 
 
 Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
@@ -260,13 +265,13 @@ tvarkymo įstatymo
 
 
 
-1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 1994 m. specialusis leidimas, 13 skyrius, 13 tomas, p. 349). ^1e6d0c637beb67c56884c607
+1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 1994 m. specialusis leidimas, 13 skyrius, 13 tomas, p. 349). ^s-577f09ec8213bcbf46753ca2
 
 
-2. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos direktyva 2004/12/EB, iš dalies keičianti direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 3). ^505db804814a6c5594180c8e
+2. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos direktyva 2004/12/EB, iš dalies keičianti direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 3). ^s-6b79a048af0107dcf4102833
 
 
-3. 2013 m. vasario 7 d. Komisijos direktyva 2013/2/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 94/62/EB dėl pakuočių ir pakuočių atliekų I priedas (OL 2013 L 37, p. 10).“ ^e29b02faf5c816b2f4749ff4
+3. 2013 m. vasario 7 d. Komisijos direktyva 2013/2/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 94/62/EB dėl pakuočių ir pakuočių atliekų I priedas (OL 2013 L 37, p. 10).“ ^s-761409d0f72f68a584a933b1
 
 
 

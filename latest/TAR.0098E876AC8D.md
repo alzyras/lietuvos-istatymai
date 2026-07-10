@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0098E876AC8D"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 46 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 46 straipsnio pakeitimo ir papildymo įstatymas"
+  - "notariato įstatymo 46 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-04-09"
 latest_path: "latest/TAR.0098E876AC8D.md"
 latest_sha256: "4035a43d80716b95f4d8e3674c38b2b6866c5849b4c508cae4ed74a1abbf69e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0098E876AC8D]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 46 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0098E876AC8D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0098E876AC8D
+- Ryšiai: [[Ryšiai/TAR.0098E876AC8D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 46 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 46 straipsnio pakeitimas ir papildymas ^s-cc2c715dc834ad5838815be5
 
 
 46 straipsnį papildyti nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi ir šį straipsnį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 Tvirtindami sandorius dėl nekilnojamojo ir kitokio turto, kuriam būtina valstybinė registracija, perleidimo arba įkeitimo, notarai patikrina, ar turtas priklauso jį perleidžiančiam arba įkeičiančiam asmeniui, taip pat ar yra sutuoktinio rašytinis sutikimas, jeigu turtas yra bendra sutuoktinių nuosavybė.
 
 
-Tvirtindami sandorius dėl nekilnojamojo turto perleidimo arba įkeitimo, notarai patikrina, ar yra atitinkama vaikų teisių apsaugos tarnybos išvada, jeigu tvirtinami sandoriai Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 12 straipsnio 4 dalyje ir 13 straipsnio 5 dalyje numatytais atvejais.
+Tvirtindami sandorius dėl nekilnojamojo turto perleidimo arba įkeitimo, notarai patikrina, ar yra atitinkama vaikų teisių apsaugos tarnybos išvada, jeigu tvirtinami sandoriai [[latest/TAR.C8205E261830#^s-5a13984d86ee031c027f8e73|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 12 straipsnio 4 dalyje]] ir 13 straipsnio 5 dalyje numatytais atvejais.
 
 
 Šiuose sandoriuose nurodoma jų registracijos atitinkamose institucijose terminas ir teisinės sandorių neįregistravimo pasekmės.“

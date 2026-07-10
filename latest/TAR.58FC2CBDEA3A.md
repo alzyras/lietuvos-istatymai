@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.58FC2CBDEA3A"
 pavadinimas: "Lietuvos Respublikos vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-10"
 latest_path: "latest/TAR.58FC2CBDEA3A.md"
 latest_sha256: "9f254aedfed5a56649bb1ca59fadcaa1aa636ed6b7512564b0cde4422c01e169"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.58FC2CBDEA3A]]"
 ---
 # Lietuvos Respublikos vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.58FC2CBDEA3A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.58FC2CBDEA3A
+- Ryšiai: [[Ryšiai/TAR.58FC2CBDEA3A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,16 +37,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 4 dalies 4 ir 5 punktų pakeitimas
+### 1 straipsnis. 16 straipsnio 4 dalies 4 ir 5 punktų pakeitimas ^s-e0333db4d32b42c84790890c
 
 
-1. Pakeisti 16 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip: ^8e3c6f1d973df443dadb6e51
+1. Pakeisti 16 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip: ^s-c8efe7a59612cf2627f3bf37
 
 
 „4) viena tarnybos ar darbo diena Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – įskaitoma kaip trys tarnybos dienos;“.
 
 
-2. Pakeisti 16 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip: ^58dc315a09330b37fa51bf15
+2. Pakeisti 16 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip: ^s-d371a781cf7f45af55d5b1e7
 
 
 „5) asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje, ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80% iki šio laiko turėto darbo stažo;“.

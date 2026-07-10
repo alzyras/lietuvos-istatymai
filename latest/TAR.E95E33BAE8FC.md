@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E95E33BAE8FC"
 pavadinimas: "Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-05-03"
 latest_path: "latest/TAR.E95E33BAE8FC.md"
 latest_sha256: "2b08afdbef65ec1585ac26bea7a6a8ce3ea4855088e91571e180b58d7c14fef6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E95E33BAE8FC]]"
 ---
 # Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E95E33BAE8FC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E95E33BAE8FC
+- Ryšiai: [[Ryšiai/TAR.E95E33BAE8FC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

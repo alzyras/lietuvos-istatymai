@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.91E28C9B2D4F"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 11 straipsnio, 3 ir 4 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 11 straipsnio, 3 ir 4 priedėlių pakeitimo įstatymas"
+  - "mokesčio už aplinkos teršimą įstatymo 11 straipsnio, 3 ir 4 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.91E28C9B2D4F.md"
 latest_sha256: "1c7cbe68bce02f6cd94f65c640d152869508aeeeddee6d91c6bf4a860ce14bd6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.91E28C9B2D4F]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 11 straipsnio, 3 ir 4 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.91E28C9B2D4F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.91E28C9B2D4F
+- Ryšiai: [[Ryšiai/TAR.91E28C9B2D4F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 3 dalies pakeitimas ^s-b81c7ed903145e138da6a96a
 
 
 Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 priedėlio pakeitimas
+### 2 straipsnis. 3 priedėlio pakeitimas ^s-c44b217231760d46540eb98d
 
 
 Pakeisti 3 priedėlį ir jį išdėstyti taip:
@@ -50,7 +55,7 @@ Pakeisti 3 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 1999 m. gegužės 13 d.
-įstatymo Nr. VIII-1183
+[[latest/TAR.FFF9AE9162EE|įstatymo Nr. VIII-1183]]
 3 priedėlis
 (Lietuvos Respublikos
 2006 m. kovo 16 d.
@@ -65,47 +70,47 @@ APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
  Tarifas
 
 
- 1. Padangos, sveriančios daugiau kaip 3 kg: ^f293b5858b41bdd43a23222d
+ 1. Padangos, sveriančios daugiau kaip 3 kg: ^s-bf374fc7b23b25f8ad6faaec
 
 
 
 
- 1.1. naujos ^2890b45cc6c523f20019807e
+ 1.1. naujos ^s-21a605828f55d72de3792bc3
  ex40.11
  0,30 Lt už 1 kg
 
 
- 1.2. restauruotos ^a20e1385f19f1e78ed1b62ce
+ 1.2. restauruotos ^s-56d5ea48f817f309bd31c3ef
  ex40.12
  0,30 Lt už 1 kg
 
 
- 1.3. naudotos ^722afd6092d0797ac9003046
+ 1.3. naudotos ^s-017381292d169b7e1485758b
  ex40.12
  0,36 Lt už 1 kg
 
 
- 2. Akumuliatoriai ^cb39624c9dfde74010081aa7
+ 2. Akumuliatoriai ^s-9b27438a656e3e3b15916c3c
  85.07
  0,50 Lt už 1 kg
 
 
- 3. Galvaniniai elementai ^deb3ca835cb8a1099f5c38a6
+ 3. Galvaniniai elementai ^s-c8c9e60911846511429937ee
  85.06
  0,50 Lt už 1 kg
 
 
- 4. Vidaus degimo variklių degalų arba tepalų filtrai ^3348902cea53dd096884102b
+ 4. Vidaus degimo variklių degalų arba tepalų filtrai ^s-524e56878e0e8d11c37a2716
  8421.23
  1 Lt už vienetą
 
 
- 5. Vidaus degimo variklių įsiurbimo oro filtrai ^dbfbebfc426f77ab23252e4a
+ 5. Vidaus degimo variklių įsiurbimo oro filtrai ^s-c325e17a88cfd6aae605e9af
  8421.31
  1 Lt už vienetą
 
 
- 6. Automobilių hidrauliniai (tepaliniai) amortizatoriai ^a20062583166da4c8fe1322f
+ 6. Automobilių hidrauliniai (tepaliniai) amortizatoriai ^s-c48ee7603845021bc60225d6
  8708.80
  3 Lt už vienetą
 
@@ -115,7 +120,7 @@ APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
 
 
 
-### 3 straipsnis. 4 priedėlio pakeitimas
+### 3 straipsnis. 4 priedėlio pakeitimas ^s-90dd2a1a536737e2225187bb
 
 
 Pakeisti 4 priedėlį ir jį išdėstyti taip:
@@ -123,7 +128,7 @@ Pakeisti 4 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 1999 m. gegužės 13 d.
-įstatymo Nr. VIII-1183
+[[latest/TAR.FFF9AE9162EE|įstatymo Nr. VIII-1183]]
 4 priedėlis
 (Lietuvos Respublikos
 2006 m. kovo 16 d.
@@ -168,7 +173,7 @@ APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-edf3f88263c992bd584316fe
 
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.

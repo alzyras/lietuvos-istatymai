@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.00C5F0835493"
 pavadinimas: "Lietuvos Respublikos Konstitucinio Teismo įstatymo 5, 8, 10, 15, 16, 53, 55 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 16-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucinio Teismo įstatymo 5, 8, 10, 15, 16, 53, 55 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 16-1 straipsniu įstatymas"
+  - "Konstitucinio Teismo įstatymo 5, 8, 10, 15, 16, 53, 55 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 16-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-22"
 latest_path: "latest/TAR.00C5F0835493.md"
 latest_sha256: "fd1ec31f6bcd67f8a00099a0c1cb98120ed3361a306f667201c34ddc68e434be"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.00C5F0835493]]"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 5, 8, 10, 15, 16, 53, 55 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 16-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.00C5F0835493.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.00C5F0835493
+- Ryšiai: [[Ryšiai/TAR.00C5F0835493|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas ^s-861961b1bfbe2de4bd373e94
 
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -44,13 +49,13 @@ Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 8 straipsnio pakeitimas
+### 2 straipsnis. 8 straipsnio pakeitimas ^s-9cf27696724226b98f9c38a9
 
 
 8 straipsnio 5 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
-„[[#8 straipsnis. 55 straipsnio papildymas 5 dalimi|8 straipsnis]]. Konstitucinio Teismo teisėjo neliečiamybė
+„[[#^s-96f01f95273765f1866d6296|8 straipsnis]]. Konstitucinio Teismo teisėjo neliečiamybė
 
 
 Konstitucinio Teismo teisėjo asmuo neliečiamas.
@@ -72,7 +77,7 @@ Konstitucinio Teismo ir jo teisėjų įgaliojimai bei teisės negali būti aprib
 
 
 
-### 3 straipsnis. 10 straipsnio 1 dalies 2 punkto pakeitimas
+### 3 straipsnis. 10 straipsnio 1 dalies 2 punkto pakeitimas ^s-c286dc3a565aa40ff30df914
 
 
 10 straipsnio 1 dalies 2 punkte vietoj žodžių „specialios tardymo“ įrašyti žodžius „specialiosios tyrimo“ ir šį punktą išdėstyti taip:
@@ -82,7 +87,7 @@ Konstitucinio Teismo ir jo teisėjų įgaliojimai bei teisės negali būti aprib
 
 
 
-### 4 straipsnis. 15 straipsnio pakeitimas
+### 4 straipsnis. 15 straipsnio pakeitimas ^s-272a807a601d9cd782ff90b2
 
 
 15 straipsnyje vietoj žodžių „Lietuvos teisėjų senato“ įrašyti žodžius „Visuotinio teisėjų susirinkimo“ ir šį straipsnį išdėstyti taip:
@@ -95,7 +100,7 @@ Konstitucinio Teismo pirmininkas ir teisėjai turi teisę dalyvauti Lietuvos Res
 
 
 
-### 5 straipsnis. 16 straipsnio 4 dalies pakeitimas
+### 5 straipsnis. 16 straipsnio 4 dalies pakeitimas ^s-7dcf15cb33ceea0d0a9e04d8
 
 
 Pakeisti 16 straipsnio 4 dalį ir visą straipsnį išdėstyti taip:
@@ -104,7 +109,7 @@ Pakeisti 16 straipsnio 4 dalį ir visą straipsnį išdėstyti taip:
 „16 straipsnis. Konstitucinio Teismo teisėjų socialinis ir buitinis aprūpinimas
 
 
-Konstitucinio Teismo pirmininko ir teisėjų atlyginimą nustato Lietuvos Respublikos teisėjų atlyginimų įstatymas.
+Konstitucinio Teismo pirmininko ir teisėjų atlyginimą nustato [[latest/TAR.AB0DC76B69A0|Lietuvos Respublikos teisėjų atlyginimų įstatymas]].
 
 
 Konstitucinio Teismo teisėjui, paliekančiam savo pareigas pasibaigus paskyrimo laikui ar atsistatydinus dėl pensinio amžiaus arba dėl sveikatos būklės, išmokama 6 mėnesių atlyginimų dydžio išeitinė pašalpa. Konstitucinio Teismo teisėjui mirus, tokio pat dydžio pašalpa išmokama jo šeimai. Kai Konstitucinio Teismo teisėjo įgaliojimai nutrūksta kitais pagrindais, jam išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Teisėjui, pašalintam iš pareigų apkaltos proceso tvarka, išeitinė pašalpa nemokama.
@@ -120,7 +125,7 @@ Pasibaigus įgaliojimų laikui, išskyrus kai Konstitucinio Teismo teisėjas pa�
 
 
 
-### 6 straipsnis. Įstatymo papildymas 161 straipsniu
+### 6 straipsnis. Įstatymo papildymas 161 straipsniu ^s-9eeda4e1dc91ddec41dd3a52
 
 
 Papildyti Įstatymą 161 straipsniu:
@@ -132,14 +137,14 @@ Papildyti Įstatymą 161 straipsniu:
 Konstitucinio Teismo teisėjams suteikiamos 28 kalendorinių dienų kasmetinės atostogos. Konstitucinio Teismo teisėjams, turintiems daugiau kaip penkerių metų teisėjo darbo stažą, už kiekvienus paskesnius darbo teisėju metus kasmetinės atostogos pailginamos viena kalendorine diena, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 56 kalendorinės dienos.
 
 
-Be šio įstatymo nustatytų atostogų, Konstitucinio Teismo teisėjai turi teisę į Darbo kodekse nustatytas tikslines ir nemokamas atostogas.
+Be šio įstatymo nustatytų atostogų, Konstitucinio Teismo teisėjai turi teisę į [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekse]] nustatytas tikslines ir nemokamas atostogas.
 
 
 Į Konstitucinio Teismo teisėjo darbo stažą įskaitomas ir darbo kituose teismuose teisėju, darbo prokuroru, prokuroro pavaduotoju, prokuratūros tardytoju, ikiteisminio tyrimo pareigūnu (tardytoju), valstybiniu arbitru stažas, darbo valstybės tarnyboje stažas, taip pat asmenų, turinčių mokslinio pedagoginio darbo pagal teisininko specialybę stažas.“
 
 
 
-### 7 straipsnis. 53 straipsnio 3 dalies papildymas
+### 7 straipsnis. 53 straipsnio 3 dalies papildymas ^s-676971fa17857d3dbcedd206
 
 
 Papildyti 53 straipsnio 3 dalį antru sakiniu ir ją išdėstyti taip:
@@ -149,7 +154,7 @@ Papildyti 53 straipsnio 3 dalį antru sakiniu ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 55 straipsnio papildymas 5 dalimi
+### 8 straipsnis. 55 straipsnio papildymas 5 dalimi ^s-96f01f95273765f1866d6296
 
 
 Papildyti 55 straipsnį 5 dalimi:

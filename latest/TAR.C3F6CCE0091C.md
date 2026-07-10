@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C3F6CCE0091C"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 27, 39 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 27, 39 straipsnių pakeitimo ir papildymo įstatymas"
+  - "visuomenės informavimo įstatymo 27, 39 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-30"
 latest_path: "latest/TAR.C3F6CCE0091C.md"
 latest_sha256: "8e3d9c39956cea475a3135e701d3017ac7a310e46f9d06fa7c773e3113cc535e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C3F6CCE0091C]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 27, 39 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C3F6CCE0091C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C3F6CCE0091C
+- Ryšiai: [[Ryšiai/TAR.C3F6CCE0091C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio 2 dalies papildymas
+### 1 straipsnis. 27 straipsnio 2 dalies papildymas ^s-953145c2ceaaeafca7d1c62c
 
 
 27 straipsnio 2 dalį papildyti sakiniu „Užsienyje parengtas televizijos programas leidžiama transliuoti ir retransliuoti Lietuvos Respublikoje, nepažeidžiant šio įstatymo 4 straipsnio 2 dalies nuostatų“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 39 straipsnio 10 dalies 10 punkto pakeitimas
+### 2 straipsnis. 39 straipsnio 10 dalies 10 punkto pakeitimas ^s-e12651dc374cd53f5baed290
 
 
 39 straipsnio 10 dalies 10 punkte vietoj žodžių „nacionalinei teritorijai, taip pat toms laidoms“ įrašyti žodžius „Lietuvos Respublikoje ir“, išbraukti žodį „kitų“, vietoj žodžio „gyventojai“ įrašyti žodį „visuomenė“ ir šį punktą išdėstyti taip:

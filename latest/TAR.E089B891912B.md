@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E089B891912B"
 pavadinimas: "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-04-27"
 latest_path: "latest/TAR.E089B891912B.md"
 latest_sha256: "c1d8e19125a05a81d1faf2fe3adc0ac6fe25d72618c29eb766521a53ebe445e6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E089B891912B]]"
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E089B891912B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E089B891912B
+- Ryšiai: [[Ryšiai/TAR.E089B891912B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-77ed94c0d9ffc7f7950cab84
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:

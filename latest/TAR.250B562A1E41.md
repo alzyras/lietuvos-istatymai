@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.250B562A1E41"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso 47 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso 47 straipsnio pakeitimo įstatymas"
+  - "baudžiamojo kodekso 47 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-28"
 latest_path: "latest/TAR.250B562A1E41.md"
 latest_sha256: "d4f4ed92c2aeb507c7c30bfe62269aaa8c5a5bc141e652c48b08489324a9a717"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.250B562A1E41]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 47 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.250B562A1E41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.250B562A1E41
+- Ryšiai: [[Ryšiai/TAR.250B562A1E41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas ^s-2ea4468d5afff2be4756acab
 
 
 Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -42,19 +47,19 @@ Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Nustatoma bauda:
 
 
-1) už baudžiamąjį nusižengimą – iki 50 MGL dydžio; ^fd785b77f43911be0e0f971c
+1) už baudžiamąjį nusižengimą – iki 50 MGL dydžio; ^s-949347d7e2331e89501f035d
 
 
-2) už nesunkų nusikaltimą – iki 500 MGL dydžio; ^4b11974b0964cad61ab6b980
+2) už nesunkų nusikaltimą – iki 500 MGL dydžio; ^s-e834703ab551211a48e707f6
 
 
-3) už apysunkį nusikaltimą – iki 1 000 MGL dydžio; ^876ca90e166b9f180a6c5ae8
+3) už apysunkį nusikaltimą – iki 1 000 MGL dydžio; ^s-6d2dfccccaac420aea4ff966
 
 
-4) už sunkų nusikaltimą – iki 1 500 MGL dydžio; ^be684b6f8d97890c96e4fb6f
+4) už sunkų nusikaltimą – iki 1 500 MGL dydžio; ^s-d8a8d95fa60b47f0d6372ef9
 
 
-5) už neatsargų nusikaltimą – iki 75 MGL dydžio.“ ^5e36fca0aeaeada1e6a8a39b
+5) už neatsargų nusikaltimą – iki 75 MGL dydžio.“ ^s-699c441bb698ee298928ef17
 
 
 

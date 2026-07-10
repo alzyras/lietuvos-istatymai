@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A7EE94C99E70"
 pavadinimas: "Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-30"
 latest_path: "latest/TAR.A7EE94C99E70.md"
 latest_sha256: "e62ac19c0db11311f552e61026ef1fbf84da55a7d002f201c8d427be2f7482b3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A7EE94C99E70]]"
 ---
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A7EE94C99E70.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A7EE94C99E70
+- Ryšiai: [[Ryšiai/TAR.A7EE94C99E70|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-0ee6af8ce491b5546e8312d2
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-b2e040caa0971d4e303eca35
 
 
-1. Šis įstatymas, išskyrus [[#^311e0a8a13b069db37d5ef8c|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^ef4aa3a87fa34dd9c3405f63
+1. Šis įstatymas, išskyrus [[#^s-39ba15980f86e47e8516a6d9|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-0598cafb1d49ab08bdf34a81
 
 
-2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^311e0a8a13b069db37d5ef8c
+2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-39ba15980f86e47e8516a6d9
 
 
 

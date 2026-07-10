@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CA44F5234D83"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-03-01"
 latest_path: "latest/TAR.CA44F5234D83.md"
 latest_sha256: "86fcac17019f21a1f072db06f6df2fa3b9114804145326063169c126481b3082"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CA44F5234D83]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CA44F5234D83.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CA44F5234D83
+- Ryšiai: [[Ryšiai/TAR.CA44F5234D83|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-70b90b010413509a01c894c3
 
 
 1 straipsnio 3 dalyje po žodžių „investicinių kintamojo kapitalo bendrovių ir jų valdymo įmonių“ įrašyti žodžius „uždaro tipo investicinių bendrovių ir jų valdymo įmonių“ ir šią dalį išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-369a157d6e6a1381aea47958
 
 
 Šis įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymo įsigaliojimo dieną.

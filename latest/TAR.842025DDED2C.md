@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.842025DDED2C"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 7, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 7, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 7, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-01-01"
 latest_path: "latest/TAR.842025DDED2C.md"
 latest_sha256: "2053fadf3d961361790ba4d1c850f1646c1e8622b772074d402f937a2de8e047"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.842025DDED2C]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 7, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.842025DDED2C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.842025DDED2C
+- Ryšiai: [[Ryšiai/TAR.842025DDED2C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,22 +36,22 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas ^s-8063d75e36d411bd81a829d8
 
 
-1. 2 straipsnio 2 dalies pirmame sakinyje vietoj žodžių „nurodytu atveju“ įrašyti žodžius „nurodytais atvejais“ ir šią dalį išdėstyti taip: ^ff9008cf4508c4c58d77fbbe
+1. 2 straipsnio 2 dalies pirmame sakinyje vietoj žodžių „nurodytu atveju“ įrašyti žodžius „nurodytais atvejais“ ir šią dalį išdėstyti taip: ^s-42226fea1105288a77f494c8
 
 
 „2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir šio straipsnio 3 dalyje nurodytais atvejais pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip.“
 
 
-2. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^188c7954f89a340639674804
+2. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^s-56629c4c701543b02852ca4a
 
 
 „3. Pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą privatizavimo institucijos turi teisę parduoti valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 visų balsų, kai yra pateiktas privalomas oficialus pasiūlymas, taip pat nustatytais atvejais privalo parduoti valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie suteikia mažiau kaip 1/20 visų balsų, bei turi teisę reikalauti, kad tokie akcijų paketai būtų nupirkti, kai privalomai parduodamos ar perkamos akcijos.“
 
 
-### 2 straipsnis. 5 straipsnio 4 dalies papildymas 6 punktu
+### 2 straipsnis. 5 straipsnio 4 dalies papildymas 6 punktu ^s-e0221c3395176774c3ca3e97
 
 
 Papildyti 5 straipsnio 4 dalį 6 punktu:
@@ -55,7 +60,7 @@ Papildyti 5 straipsnio 4 dalį 6 punktu:
 „6) pritarti ar nepritarti reikalavimui, kad būtų nupirkti valstybei, taip pat savivaldybei nuosavybės teise priklausantys akcijų paketai, pagal sutartį perduoti privatizuoti valstybės įmonei Valstybės turto fondas, kurie suteikia mažiau kaip 1/20 visų balsų, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatytais atvejais ir tvarka privalomai perkamos akcijos.“
 
 
-### 3 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas ^s-189100932b5c40d48eac03a7
 
 
 7 straipsnio 1 dalies 1 punkte vietoj žodžių „kai yra pateiktas privalomas oficialus pasiūlymas“ įrašyti žodžius „šio įstatymo 2 straipsnio 3 dalyje nurodytais atvejais“ ir šį punktą išdėstyti taip:
@@ -64,7 +69,7 @@ Papildyti 5 straipsnio 4 dalį 6 punktu:
 „1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą šio įstatymo 2 straipsnio 3 dalyje nurodytais atvejais;“.
 
 
-### 4 straipsnis. 9 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 9 straipsnio 3 dalies pakeitimas ^s-2994d29d2aac0db6b5450fd8
 
 
 9 straipsnio 3 dalyje išbraukti žodį „Nacionalinėje“ ir šią dalį išdėstyti taip:
@@ -73,7 +78,7 @@ Papildyti 5 straipsnio 4 dalį 6 punktu:
 „3. Jei valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų, šio straipsnio 2 dalyje išvardyti vertinimo metodai gali būti netaikomi vertinant akcijas, parduodamas viešo akcijų pardavimo ar viešo aukciono būdu, kurių rinkos kaina yra nustatyta vertybinių popierių biržoje.“
 
 
-### 5 straipsnis. 11 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 11 straipsnio 3 dalies pakeitimas ^s-04d33c86a276730c21e76c41
 
 
 11 straipsnio 3 dalyje išbraukti žodį „Nacionalinėje“, po žodžių „informaciniame leidinyje“ įrašyti žodžius „ar kituose biržos informacijos šaltiniuose“, išbraukti žodį „šios“ ir šią dalį išdėstyti taip:
@@ -82,7 +87,7 @@ Papildyti 5 straipsnio 4 dalį 6 punktu:
 „3. Šio straipsnio 1 dalyje nurodyta informacija apie privatizavimo objektą Informaciniame privatizavimo biuletenyje turi būti paskelbta ne vėliau kaip prieš 30 dienų iki paraiškų ar kitų privatizavimo dokumentų dėl dalyvavimo privatizavime priėmimo pradžios, o kai informacija apie privatizavimo objektą skelbiama ne pirmą kartą, – ne vėliau kaip prieš 10 dienų. Kai akcijos parduodamos vertybinių popierių biržoje, informacija apie privatizavimo objektą yra skelbiama Informaciniame privatizavimo biuletenyje ir biržos informaciniame leidinyje ar kituose biržos informacijos šaltiniuose pagal biržos nustatytas taisykles. Kai yra reali tikimybė parduoti privatizavimo objektą užsienio fiziniam ar juridiniam asmeniui, Turto fondo nustatyta informacija apie privatizavimo objektą turi būti paskelbta ir užsienio spaudoje.“
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-76c54260910f74471f89b84a
 
 
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.

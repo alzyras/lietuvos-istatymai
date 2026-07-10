@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DC1DC18DF88B"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos"
+  - "įstatymas dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-01"
 latest_path: "latest/TAR.DC1DC18DF88B.md"
 latest_sha256: "b385e942e25b5a9487897f860b1d76b502726c3d461f8356ee20c30dd42ddb09"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DC1DC18DF88B]]"
 ---
 # Lietuvos Respublikos įstatymas dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DC1DC18DF88B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DC1DC18DF88B
+- Ryšiai: [[Ryšiai/TAR.DC1DC18DF88B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,38 +34,38 @@ Vilnius
 
 
 
-### 1 straipsnis.         SSRS valstybės saugumo komiteto pripažinimas nusikalstama organizacija
+### 1 straipsnis.         SSRS valstybės saugumo komiteto pripažinimas nusikalstama organizacija ^s-0c7d84401cd6fbac0d948e72
 
 
 SSRS valstybės saugumo komitetas  (NKVD, NKGB, MGB, KGB – toliau VSK) pripažįstamas nusikalstama organizacija, vykdžiusia karo nusikaltimus, genocidą, represijas, terorą ir politinį persekiojimą SSRS okupuotoje Lietuvos Respublikoje.
 
 
 
-### 2 straipsnis. VSK kadrinių darbuotojų dabartinės veiklos apribojimai
+### 2 straipsnis. VSK kadrinių darbuotojų dabartinės veiklos apribojimai ^s-97471921e5e39dc3d4fad52f
 
 
 Buvę VSK kadriniai darbuotojai nuo šio įstatymo įsigaliojimo 10 metų negali dirbti Lietuvos Respublikoje valstybės pareigūnais arba tarnautojais valstybės  valdžios ir valdymo, savivaldos, krašto apsaugos institucijose, Valstybės saugumo departamente, policijoje, prokuratūroje, teismuose, diplomatinėje tarnyboje, muitinėje, Valstybės kontrolėje ir kitose kontrolę bei priežiūrą vykdančiose valstybės institucijose, advokatais ir notarais, bankuose ir kitose kredito įstaigose, strateginiuose ūkio objektuose, saugos tarnybose (struktūrose), kitose tarnybose (struktūrose), teikiančiose detektyvų paslaugas, ryšių sistemoje, švietimo įstaigose pedagogais, auklėtojais ir šių įstaigų vadovais, taip pat negali dirbti darbo (eiti pareigų), susijusio su ginklo turėjimu.
 
 
 
-### 3 straipsnis. Apribojimų netaikymo atvejai
+### 3 straipsnis. Apribojimų netaikymo atvejai ^s-b713fc7bc96b48715ac3b3ca
 
 
-1. Šio įstatymo [[#2 straipsnis. VSK kadrinių darbuotojų dabartinės veiklos apribojimai|2 straipsnyje]] nustatyti apribojimai netaikomi tiems buvusiems VSK kadriniams darbuotojams, kurie, dirbdami VSK, tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990 m. kovo 11 d. nutraukė savo darbą VSK. ^7e8ac98d420cd13095df5394
+1. Šio įstatymo [[#^s-97471921e5e39dc3d4fad52f|2 straipsnyje]] nustatyti apribojimai netaikomi tiems buvusiems VSK kadriniams darbuotojams, kurie, dirbdami VSK, tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990 m. kovo 11 d. nutraukė savo darbą VSK. ^s-d02472945a17c5cbb4b9c203
 
 
-2. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras ir Valstybės saugumo departamentas gali priimti bendrą motyvuotą teikimą, rekomenduojantį, kad buvusiems VSK kadriniams darbuotojams, kurie per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos užsiregistravo Valstybės saugumo departamente ir atskleidė Valstybės saugumo departamentui visas žinias apie savo buvusį darbą VSK ir dabartinius ryšius su buvusiais VSK darbuotojais bei agentais, nebūtų taikomi šio įstatymo nustatyti apribojimai. Sprendimą tuo klausimu priima Respublikos Prezidento sudaroma trijų asmenų komisija. Į komisiją negali būti skiriami Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento darbuotojai. Šios komisijos veiklos nuostatus tvirtina Respublikos Prezidentas. ^db42928d90e6a838912c52ce
-
-
-
-### 4 straipsnis.  Įstatymo įgyvendinimo tvarka
-
-
-Šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos įstatymo “Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos” įgyvendinimo įstatymas.
+2. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras ir Valstybės saugumo departamentas gali priimti bendrą motyvuotą teikimą, rekomenduojantį, kad buvusiems VSK kadriniams darbuotojams, kurie per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos užsiregistravo Valstybės saugumo departamente ir atskleidė Valstybės saugumo departamentui visas žinias apie savo buvusį darbą VSK ir dabartinius ryšius su buvusiais VSK darbuotojais bei agentais, nebūtų taikomi šio įstatymo nustatyti apribojimai. Sprendimą tuo klausimu priima Respublikos Prezidento sudaroma trijų asmenų komisija. Į komisiją negali būti skiriami Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento darbuotojai. Šios komisijos veiklos nuostatus tvirtina Respublikos Prezidentas. ^s-457286138b6360f3bebef8f5
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis.  Įstatymo įgyvendinimo tvarka ^s-d9c8d758e8b8441ad8383f31
+
+
+Šio įstatymo įgyvendinimo tvarką nustato [[latest/TAR.704E4C70F6C8|Lietuvos Respublikos įstatymo “Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos” įgyvendinimo įstatymas]].
+
+
+
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-13156f365119baf91441ed82
 
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.

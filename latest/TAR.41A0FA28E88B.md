@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.41A0FA28E88B"
 pavadinimas: "Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje \"Partnerystė taikos labui\", susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje \"Partnerystė taikos labui\", susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymas"
+  - "Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje \"Partnerystė taikos labui\", susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-05-22"
 latest_path: "latest/TAR.41A0FA28E88B.md"
 latest_sha256: "d4baf8555e7b0679ee79cc675dbe47f12422beff9acd420f9356c6b60492fb31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.41A0FA28E88B]]"
 ---
 # Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje "Partnerystė taikos labui", susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.41A0FA28E88B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.41A0FA28E88B
+- Ryšiai: [[Ryšiai/TAR.41A0FA28E88B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

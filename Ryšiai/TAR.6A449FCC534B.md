@@ -1,0 +1,249 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.6A449FCC534B"
+pavadinimas: "Lietuvos Respublikos koncesijų įstatymas"
+---
+# Lietuvos Respublikos koncesijų įstatymas: ryšiai
+
+- [[latest/TAR.6A449FCC534B|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos dokumentų ir archyvų įstatymo
+- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 4 citatos - Elektroninių ryšių įstatyme
+- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos energetikos įstatyme
+- [[latest/TAR.0C5C33AA865C|Lietuvos Respublikos gamtinių dujų įstatymas]] - 2 citatos - Lietuvos Respublikos gamtinių dujų įstatyme
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 6 citatos - Investicijų įstatymo
+- [[latest/TAR.56A6896AA34E|Lietuvos Respublikos koncesijų įstatymo 1, 2, 3 straipsnių pakeitimo ir papildymo, III skyriaus papildymo šeštuoju skirsniu ir įstatymo papildymo priedu įstatymas]] - 6 citatos - 1041010ISTA0IX-2200
+- [[latest/TAR.15AFB324FF43|Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas]] - 6 citatos - 0981010ISTAVIII-629
+- [[latest/TAR.21517DF8901C|Lietuvos Respublikos koncesijų įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas]] - 6 citatos - 1111010ISTA0XI-1458
+- [[latest/TAR.46E4664C715B|Lietuvos Respublikos koncesijų įstatymo 28-1 straipsnio pakeitimo įstatymas]] - 6 citatos - 1091010ISTA00XI-302
+- [[latest/TAR.4CCB7B9C4E2C|Lietuvos Respublikos koncesijų įstatymo 4 straipsnio pakeitimo  įstatymas]] - 6 citatos - 0991010ISTAIII-1306
+- [[latest/74881fc032e011e69cf5d89a5fdd27cc|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2397
+- [[latest/605d16e04c3011f0b070ee7f1ceefc75|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 14, 31 straipsnių ir 7 priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-244
+- [[latest/327e7f307af311e48d20daf2927aba7d|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 28-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1360
+- [[latest/635098b08b7d11e9ae2e9d61b1f977b3|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 3, 22 ir 23 straipsnių ir 7 priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2160
+- [[latest/097405905de511e4bad5c03f56793630|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1262
+- [[latest/32aa4692920011efa605b9842742bf37|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5, 14, 16, 26, 31, 60, 65, 66 straipsnių ir 5 priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3042
+- [[latest/7f8eef908eb611eea5a28c81c82193a8|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 58, 62 ir 65 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2250
+- [[latest/425fccc05b2d11e79198ffdb108a3753|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. XIII-440
+- [[latest/6f4a8ff0875911ed8df094f359a60216|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1676
+- [[latest/TAR.5947BABF19A2|Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas]] - 6 citatos - 1031010ISTA0IX-1647
+- [[latest/TAR.FC8835E33A00|Lietuvos Respublikos koncesijų įstatymo papildymo 30 straipsniu įstatymas]] - 6 citatos - 1121010ISTA0XI-2116
+- [[latest/TAR.DA39904EA86E|Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas]] - 6 citatos - 1061010ISTA000X-749
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 6 citatos - Konkurencijos įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Mokesčių administravimo įstatymu
+- [[latest/TAR.3EB34933E485#^s-641734d78dfe8b53b8d32629|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 6 citatos - Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje
+- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - 7 citatos - Lietuvos Respublikos pašto įstatyme
+- [[latest/9116a35030a011e78397ae072f58c508|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 11 citatos - Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo
+- [[latest/9116a35030a011e78397ae072f58c508#^s-32687ac772cf8cb6361f26da|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 2 citatos - Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 21 straipsnį
+- [[latest/9116a35030a011e78397ae072f58c508#^s-3ac01b4e2ccdcacbfb5c719f|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 28 straipsnį
+- [[latest/9116a35030a011e78397ae072f58c508#^s-678fed3f6eb2870a1698cc05|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 2 citatos - Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 20 straipsnio 3 dalies 3 punkto
+- [[latest/9116a35030a011e78397ae072f58c508#^s-9e8d63d9b715a9f8a14207f0|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 2 citatos - Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 27 straipsnio
+- [[latest/9116a35030a011e78397ae072f58c508#^s-c0f34dc053a411b11b7c3d24|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 2 citatos - Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 24 straipsnio
+- [[latest/9116a35030a011e78397ae072f58c508#^s-c73c95531bb710416706459a|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - 2 citatos - Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas, taikytinos nuostatos nustatomos atitinkamai pagal šio įstatymo 12 straipsnį
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.F789235C18BB|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - 4 citatos - Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 4 citatos - Viešojo administravimo įstatymo
+- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - 2 citatos - Viešųjų ir privačių interesų derinimo įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 21 citatos - Viešųjų pirkimų įstatymo
+- [[latest/TAR.C54AFFAA7622#^s-9654af4e4d6b81195f4406dd|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Viešųjų pirkimų įstatymo 104 straipsnio 2 dalį
+- [[latest/TAR.C54AFFAA7622#^s-a1149d7e5f4d413a4372b672|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 4 citatos - Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies
+- [[latest/TAR.E838D0C06065|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - 17 citatos - Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo
+- [[latest/TAR.E838D0C06065#^s-47c770fb7f38e14d9b798acb|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - 2 citatos - Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, taikomos šio įstatymo 12 straipsnio
+- [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 2 citatos - Lietuvos Respublikos visuomenės informavimo įstatyme
+- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 4 citatos - Lietuvos Respublikos žemės gelmių įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/1926dcd05b2e11e79198ffdb108a3753#^s-3152454b3b73c849daf37974|Lietuvos Respublikos administracinių nusižengimų kodekso 184 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/1926dcd05b2e11e79198ffdb108a3753#^s-f8c25460be52281a0c9f6712|Lietuvos Respublikos administracinių nusižengimų kodekso 184 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-0012cbe8c3308987734ec7b7|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-f1fbc496d65e14a7e4d9d91f|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.18C8D43EB9DC#^s-3977aa2cc9b8e8ae2f34da54|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymas
+- [[latest/TAR.18C8D43EB9DC#^s-3ef4d973ee4a863fe73ab055|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.18C8D43EB9DC#^s-5c97420373f3ec9562deee0c|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymo 3 straipsnio
+- [[latest/TAR.18C8D43EB9DC#^s-61f976c227c9d9aea359d041|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo (toliau – Koncesijų įstatymas) 2 straipsnio
+- [[latest/TAR.18C8D43EB9DC#^s-709b894ec9ff36514818b03d|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymas
+- [[latest/TAR.18C8D43EB9DC#^s-7bd5d3b9357e680df4172141|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - 5 citatos - Koncesijų įstatyme
+- [[latest/TAR.18C8D43EB9DC#^s-7dca225d349bcac00e5fcac4|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymo
+- [[latest/TAR.18C8D43EB9DC#^s-7f6626cb9093ef6245d54023|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.18C8D43EB9DC#^s-997d267f1c47297d3eb48ba4|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymo 16 straipsnis
+- [[latest/TAR.18C8D43EB9DC#^s-a8701629f6ee1f3e3c7dd332|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymo 3 straipsnio
+- [[latest/TAR.18C8D43EB9DC#^s-b662f6eccb8299b62c1d2901|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Koncesijų įstatymo 22 straipsnio 1 dalies
+- [[latest/TAR.18C8D43EB9DC#^s-f9b56cb03f3d3c54026ef38c|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo (toliau – Koncesijų įstatymas) 2 straipsnio
+- [[latest/TAR.04F64676CE77#^s-05db096e98494512850bf47a|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymo 3 straipsnio
+- [[latest/TAR.04F64676CE77#^s-0b4bb3b1dc47eb87ffbe834b|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymo
+- [[latest/TAR.04F64676CE77#^s-1cccf618e3a2f74e7579dce5|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymas
+- [[latest/TAR.04F64676CE77#^s-669436f43088e3f1f3699c94|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymas
+- [[latest/TAR.04F64676CE77#^s-6e9903edcdb3e5953f7013e2|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymo 16 straipsnis
+- [[latest/TAR.04F64676CE77#^s-6f8cb1a67a1f83027caae223|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.04F64676CE77#^s-81da5900f08e31dbc8c9bc70|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymo 22 straipsnio 1 dalies
+- [[latest/TAR.04F64676CE77#^s-8432343a40ce2f8ee43aefc5|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Lietuvos Respublikos koncesijų įstatymo (toliau – Koncesijų įstatymas) 2 straipsnio
+- [[latest/TAR.04F64676CE77#^s-8f88500143a90c92099ffb81|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.04F64676CE77#^s-cf7e1abcecb80a5d3f3dfe40|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Koncesijų įstatymo 3 straipsnio
+- [[latest/TAR.04F64676CE77#^s-d559d13804b057e4c1f89ce3|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - 5 citatos - Koncesijų įstatyme
+- [[latest/TAR.04F64676CE77#^s-fb9101a8e60e65031f8018fe|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Lietuvos Respublikos koncesijų įstatymo (toliau – Koncesijų įstatymas) 2 straipsnio
+- [[latest/c1d817f05b2d11e79198ffdb108a3753#^s-3b32b44fd7117ca3ae6fcb50|Lietuvos Respublikos civilinio proceso kodekso 1, 80 straipsnių ir XXI-1 skyriaus pakeitimo įstatymas]] - Koncesijų įstatymo
+- [[latest/c1d817f05b2d11e79198ffdb108a3753#^s-4e281ae5a9841c74ee377bf3|Lietuvos Respublikos civilinio proceso kodekso 1, 80 straipsnių ir XXI-1 skyriaus pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/c1d817f05b2d11e79198ffdb108a3753#^s-79519cb2b249ea1ba8c0ce0e|Lietuvos Respublikos civilinio proceso kodekso 1, 80 straipsnių ir XXI-1 skyriaus pakeitimo įstatymas]] - Koncesijų įstatymo
+- [[latest/c1d817f05b2d11e79198ffdb108a3753#^s-7a2044d4a00044c4eb5dfcc2|Lietuvos Respublikos civilinio proceso kodekso 1, 80 straipsnių ir XXI-1 skyriaus pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.2E7C18F61454#^s-78e501e0c41daaf4f6b9540e|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Koncesijų įstatymo
+- [[latest/TAR.2E7C18F61454#^s-8704ea8bd093487b55385f20|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Koncesijų įstatymo
+- [[latest/TAR.2E7C18F61454#^s-bee5616e70d5baa7405e7017|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.2E7C18F61454#^s-d4a48a3a3f8d1f5ec1cc152c|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.C7E57DF3CEC5#^s-2c33ba0de70543da0b42121a|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.C7E57DF3CEC5#^s-4922d5c9b82f79dd707a2b6f|Lietuvos Respublikos investicijų įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.C7E57DF3CEC5#^s-4e30f44eee00974181860930|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Koncesijų įstatyme
+- [[latest/fe2c2a5091ff11efa605b9842742bf37#^s-83adbab8d5c5ad0a77a7b11d|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 4, 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/fe2c2a5091ff11efa605b9842742bf37#^s-9bdac4e8a2bd226deb737f69|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 4, 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas]] - 2 citatos - Koncesijų įstatyme
+- [[latest/fe2c2a5091ff11efa605b9842742bf37#^s-c55efbfd692fc3e487d79f3d|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 4, 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.BF41D2C35D24#^s-126d210525cc1fad2b65c0b3|Lietuvos Respublikos kelių įstatymas]] - Koncesijų įstatymo 16 straipsnyje
+- [[latest/TAR.BF41D2C35D24#^s-451302605afd2c5ef8606fcf|Lietuvos Respublikos kelių įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 16 straipsnyje
+- [[latest/TAR.BF41D2C35D24#^s-4ecabb6f73a6108904b7c670|Lietuvos Respublikos kelių įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 16 straipsnyje
+- [[latest/TAR.BF41D2C35D24#^s-877c81ea14a58d924637015f|Lietuvos Respublikos kelių įstatymas]] - Koncesijų įstatymo 16 straipsnyje
+- [[latest/944f519042eb11f180c9c618618421ed#^s-2cb9cbd5e29eb72b2eded590|Lietuvos Respublikos kelių įstatymo Nr. I-891 4 ir 10 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 16 straipsnyje
+- [[latest/944f519042eb11f180c9c618618421ed#^s-6541df8c3689b20f6df5b287|Lietuvos Respublikos kelių įstatymo Nr. I-891 4 ir 10 straipsnių pakeitimo įstatymas]] - Koncesijų įstatymo 16 straipsnyje
+- [[latest/TAR.D66F6A760DE7#^s-0bcc281e96186b2eecfe59c9|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Koncesijų įstatymu
+- [[latest/TAR.D66F6A760DE7#^s-152c3da5881f6c800a49ba02|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.D66F6A760DE7#^s-357d40befc3938ed4f82ab72|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Koncesijų įstatymu
+- [[latest/TAR.D66F6A760DE7#^s-467553379de738a22ead4f66|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.D66F6A760DE7#^s-686f3e30eca07e8c358eff11|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - 2 citatos - Koncesijų įstatymo
+- [[latest/TAR.D66F6A760DE7#^s-73967d9b2f185c2c17fa603d|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Koncesijų įstatymu
+- [[latest/TAR.D66F6A760DE7#^s-c5138831cbac96dc46333227|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.D66F6A760DE7#^s-e10d57706a62ddfcc7f66066|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.D66F6A760DE7#^s-fc7ae92b1f8bcb4503d27e92|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - 2 citatos - Koncesijų įstatymo
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-187489bc9d76415c9967ee39|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Koncesijų įstatymu
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-3e41754e8a5a3b393a8f2d7f|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - 2 citatos - Koncesijų įstatymo
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-585f6ddee59b4598abdf5d0e|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Koncesijų įstatymu
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-58a429e29d8274a4dda09cd1|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - 2 citatos - Koncesijų įstatymo
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-691530aa87e883969efed023|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-6fb459c64b89dc154a4361d9|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Koncesijų įstatyme
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-e6266ea62e204c867acfa2ea|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Koncesijų įstatymu
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-edb04e541f3b977a2b941bae|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Koncesijų įstatyme
+- [[latest/e1d43b9255da11f180c9c618618421ed#^s-fefa24ea43ede02d1e89a1b8|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.56A6896AA34E#^s-8356908501b11be2e4bfb5ed|Lietuvos Respublikos koncesijų įstatymo 1, 2, 3 straipsnių pakeitimo ir papildymo, III skyriaus papildymo šeštuoju skirsniu ir įstatymo papildymo priedu įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/605d16e04c3011f0b070ee7f1ceefc75#^s-48812279fc0b72c0673cb458|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 14, 31 straipsnių ir 7 priedo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-1e28b6102da27c55634d7d46|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 15 STRAIPSNIO 3 DALIES 2 PUNKTE
+- [[latest/6f4a8ff0875911ed8df094f359a60216#^s-29aa4a35259f4338d020cdb3|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6f4a8ff0875911ed8df094f359a60216#^s-34825f66cc19ad75be95e5e3|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-662172bb797632a734a4bd2d|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-6b11a33c6579fc3f351d3fdf|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 30 STRAIPSNĮ
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-6c41058b1d74592e0117f1aa|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS  KONCESIJŲ  ĮSTATYMAS
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-794ba51054bc9add22170955|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-8f80647387e59baabc9d38a3|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-a747699aaed2121496964839|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 10 citatos - LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 5 DALYJE
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-bafb3d34269d4690c31b32e0|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 3 citatos - LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 15 STRAIPSNIO 1 DALYJE
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-bdf4876a08346c291594999e|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 66 straipsnio 1 dalies 8 punkte
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-c3f9a16711be55e36f3a97a3|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 6 citatos - LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 5 DALYJE
+- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-c6aa8a45f00f9da9989477c5|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - 5 citatos - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.5947BABF19A2#^s-c860c2cd6ad684e834369e87|Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KONCESIJŲ  ĮSTATYMAS
+- [[latest/TAR.DA39904EA86E#^s-5c706a3e7cf1f8c8d68a3c47|Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas]] - KONCESIJŲ ĮSTATYMO 2, 3, 4, 5, 8, 9, 10, 17, 201, 21, 22, 23, 26 STRAIPSNIŲ
+- [[latest/TAR.DA39904EA86E#^s-99c60a519d7f0cb0ac997264|Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-4f432a93cfefb39c98b320dc|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-81c9a35e5b5a05846917d0fc|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/855cbb50e42511e89acab3ff12d77081#^s-4c86efe852ffa16ab539dcb1|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/855cbb50e42511e89acab3ff12d77081#^s-971a90ce5cb715288aa57595|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Koncesijų įstatyme
+- [[latest/855cbb50e42511e89acab3ff12d77081#^s-bc38723dbfae8af2b2961554|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/855cbb50e42511e89acab3ff12d77081#^s-e2ff6d780bee505942571b36|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Koncesijų įstatyme
+- [[latest/9116a35030a011e78397ae072f58c508#^s-1cecd51e87f25503bee48072|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/9116a35030a011e78397ae072f58c508#^s-32687ac772cf8cb6361f26da|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Koncesijų įstatymo
+- [[latest/9116a35030a011e78397ae072f58c508#^s-34c508bcbedad28a3c8a68aa|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Koncesijų įstatymo
+- [[latest/9116a35030a011e78397ae072f58c508#^s-4ffeabddd66b6c527bda48f6|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Koncesijų įstatymo
+- [[latest/9116a35030a011e78397ae072f58c508#^s-5f29b4e6d234040f3c8bb203|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Koncesijų įstatymo
+- [[latest/9116a35030a011e78397ae072f58c508#^s-678fed3f6eb2870a1698cc05|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Koncesijų įstatymo
+- [[latest/9116a35030a011e78397ae072f58c508#^s-99e1447fab11bf08ec57d5d1|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/9116a35030a011e78397ae072f58c508#^s-de3ddbbfd87b10219f1bb841|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Koncesijų įstatymo
+- [[latest/1ed552a049c011efbdaea558de59136c#^s-689922892b01c6e046105b65|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 50 ir 95 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/34369ea0875811ed8df094f359a60216#^s-91953daf20ec8ae729f70d85|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/34369ea0875811ed8df094f359a60216#^s-d999a8e043c9a5d18b73bf53|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/b1eee4909be911ea9515f752ff221ec9#^s-4a94d9d311ffdc967a2ba407|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - 2 citatos - Koncesijų įstatymo
+- [[latest/b1eee4909be911ea9515f752ff221ec9#^s-83ba1ddffe187942a04dbb5e|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - 2 citatos - Koncesijų įstatymo
+- [[latest/TAR.D5496D69DF98#^s-69e4858beb3f8cb8f2e27dfe|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 60 straipsnio 6 dalies 25 punkte
+- [[latest/TAR.D5496D69DF98#^s-c8c087c2316c598ed2b3d8d6|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 60 straipsnio 6 dalies 25 punkte
+- [[latest/0d1d8010b6e311eab9d9cd0c85e0b745#^s-106907115305b17d8a1ec3a0|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 ir 15 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/0d1d8010b6e311eab9d9cd0c85e0b745#^s-c846922281161698f9fb6222|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 ir 15 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/2dbcc7e0881911ed8df094f359a60216#^s-63baaf30dbd4f717f9292b8f|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/2dbcc7e0881911ed8df094f359a60216#^s-e2cbed387cda44c463e5074b|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/9e76e870087911ebb74de75171d26d52#^s-e65ec220d95b043f84e23ae0|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/9e76e870087911ebb74de75171d26d52#^s-e76e6ebae625456870f147fe|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/3c3cf3d0af9b11e98451fa7b5933515d#^s-23dadd6805214db6680a7f42|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/3c3cf3d0af9b11e98451fa7b5933515d#^s-da67c2db357893befa54f893|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/04502801ca0311f08918e1adc7c5b1ec#^s-54634d1e87e23b8cdd43b338|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 60 straipsnio 6 dalies 25 punkte
+- [[latest/04502801ca0311f08918e1adc7c5b1ec#^s-c12c8f904ac6652d84c1cdb9|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo 60 straipsnio 6 dalies 25 punkte
+- [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-6cfbcdb5e623302a81d3bf2b|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-a7ea8eef47f61a7d7b5ad676|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Koncesijų įstatyme
+- [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-b815e6422b762ce993b70f41|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Koncesijų įstatymu
+- [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-f498e891ebf72c385b748a6e|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Koncesijų įstatyme
+- [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-f6596d951cf00e03a741e7ee|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Koncesijų įstatymu
+- [[latest/627ac090004711e88bcec397524184ce#^s-66afdfbefaf658349d4fb261|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymo Nr. XII-2393 preambulės, 2 ir 7 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.D0CD0966D67F#^s-59d7cc2537e3d2a3ac096ed9|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.D0CD0966D67F#^s-8588a00e87844ceec14a0aa2|Lietuvos Respublikos vietos savivaldos įstatymas]] - Koncesijų įstatymu
+- [[latest/TAR.D0CD0966D67F#^s-b0f23087774c3bedcf3b4b6e|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.D0CD0966D67F#^s-dba2c088f7d2b49f1ec49018|Lietuvos Respublikos vietos savivaldos įstatymas]] - Koncesijų įstatymu
+- [[latest/6ac3b202920011efa605b9842742bf37#^s-1ae8d7b8467e59d70739f890|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 67 straipsnio pakeitimo įstatymas]] - Koncesijų įstatymu
+- [[latest/6494f6f02adb11eabe008ea93139d588#^s-4361ddf8d0d6340c90a4896f|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6494f6f02adb11eabe008ea93139d588#^s-ecba8612107e4640e3ac2e47|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-244181fed430c9ed7c326c99|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-67868cb11e2261cbb3c6a09f|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/ee2e0122a26e11f0a34db2fbd35a03b2#^s-1c60b68588d212e562dc6d34|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos koncesijų įstatymu
+- [[latest/ee2e0122a26e11f0a34db2fbd35a03b2#^s-35e649d3e5338e909932ab68|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos koncesijų įstatymu
+- [[latest/ee2e0122a26e11f0a34db2fbd35a03b2#^s-7e75fbc888ab5f860bc4f384|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas]] - Koncesijų įstatyme
+- [[latest/ee2e0122a26e11f0a34db2fbd35a03b2#^s-d17bb35d7f2d8f0a68b92545|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas]] - Koncesijų įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-5058581a485c8169a3abaae4|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.C54AFFAA7622#^s-6ced2b5b179f643b8a6d95cd|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Koncesijų įstatymo
+- [[latest/TAR.C54AFFAA7622#^s-794bec06cce7a7b39a2d49b9|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Koncesijų įstatymo
+- [[latest/TAR.C54AFFAA7622#^s-903505d63c3b1c4c4cbdc2f9|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-94189b19dbae783e7176fd23|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-c907d5d70a6756dde09a691e|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/8f1405d0a62c11eea5a28c81c82193a8#^s-6ffcb306e3150beacfa2b1eb|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/8f1405d0a62c11eea5a28c81c82193a8#^s-a4dce135e657a35df6c1e24f|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/bf4f6f5049bf11efbdaea558de59136c#^s-6889d8656c7a880de9614f84|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 17, 37, 47 ir 87 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/b9a45bf02d7611ec992fe4cdfceb5666#^s-8ca445bb10ae5780d7383ec1|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 25, 27, 31, 35, 46, 51, 52, 55, 57, 58, 82, 86, 91, 92, 93, 94, 95, 96 straipsnių pakeitimo ir Įstatymo papildymo 82-1 straipsniu įstatymas]] - Koncesijų įstatymo
+- [[latest/b9a45bf02d7611ec992fe4cdfceb5666#^s-fd74edae1e548ff25761d897|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 25, 27, 31, 35, 46, 51, 52, 55, 57, 58, 82, 86, 91, 92, 93, 94, 95, 96 straipsnių pakeitimo ir Įstatymo papildymo 82-1 straipsniu įstatymas]] - Koncesijų įstatymo
+- [[latest/207ad17030a011e78397ae072f58c508#^s-6edeb3bbe53e66ee08beaee3|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/bb7cc680875511ed8df094f359a60216#^s-a9adedbb2e2442c4b351aa25|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/207ad17030a011e78397ae072f58c508#^s-d3143f2c13735d45ffbcadee|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/bb7cc680875511ed8df094f359a60216#^s-f2d2fd93e59cfd974059fe0e|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.C0DE35FFA738#^s-4145ab88844ad2c613addc06|Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymas
+- [[latest/TAR.C0DE35FFA738#^s-9fee718f4528bb3f54409351|Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymas
+- [[latest/TAR.F4EDFC59E1E8#^s-b553ba76cad7ebb4ffb3b73c|Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymas
+- [[latest/TAR.F4EDFC59E1E8#^s-cdff00743b08bc3e4b68da96|Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymas
+- [[latest/TAR.E838D0C06065#^s-662cbeedab6c0424f9c5d67b|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.E838D0C06065#^s-7829defa5e47769712803f6e|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/3885b800875911ed8df094f359a60216#^s-d7abbb8bd9c531abc28269f4|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/3885b800875911ed8df094f359a60216#^s-e06d0dbb243e704468cc6b35|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.5DEE319118E8#^s-104e7a8a5cfdddf2dd1caf10|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - „Koncesijų įstatymas“
+- [[latest/TAR.5DEE319118E8#^s-70faffbc170ac1fbd8417907|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - Koncesijų įstatymo 19 straipsnį
+- [[latest/TAR.5DEE319118E8#^s-8b39e58eaaecbf3c38ab9917|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - 2 citatos - Koncesijų įstatymas
+- [[latest/TAR.5DEE319118E8#^s-97e47f3978ef119ab1683183|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - 2 citatos - Koncesijų įstatymu
+- [[latest/TAR.5DEE319118E8#^s-b904087cad374bfe47bd5f00|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - 2 citatos - Koncesijų įstatymas
+- [[latest/TAR.5DEE319118E8#^s-cdae5c550bf0f35b103fbee5|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - Koncesijų įstatymo
+- [[latest/TAR.5DEE319118E8#^s-cdedeb0e766dd1fdb4acd735|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - Koncesijų įstatymo
+- [[latest/TAR.5DEE319118E8#^s-e98fd731957313d373ed3f60|Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte]] - 4 citatos - Koncesijų įstatymo 19 straipsnį
+- [[latest/TAR.F62AD965997D#^s-712744ee3488366e3e018f89|Lietuvos Respublikos šilumos ūkio įstatymas]] - Koncesijų įstatymu
+- [[latest/TAR.F62AD965997D#^s-8cd84629df76329400342a4a|Lietuvos Respublikos šilumos ūkio įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.F62AD965997D#^s-9690ce98868540a5461a2e88|Lietuvos Respublikos šilumos ūkio įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.F62AD965997D#^s-b9207aee9fd055fedc280251|Lietuvos Respublikos šilumos ūkio įstatymas]] - Koncesijų įstatymu
+- [[latest/a6211800de7511ed9978886e85107ab2#^s-168909ce9148788e5f0bc16b|Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 3, 7, 8, 9, 10, 10-1, 12, 15, 17, 20, 22, 30, 32, 34, 35, 36, 37 straipsnių, aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas]] - Koncesijų įstatymu
+- [[latest/a6211800de7511ed9978886e85107ab2#^s-75f1b02d365d009ca68bf65c|Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 3, 7, 8, 9, 10, 10-1, 12, 15, 17, 20, 22, 30, 32, 34, 35, 36, 37 straipsnių, aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/a6211800de7511ed9978886e85107ab2#^s-fc5d7aab51817143b1841637|Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 3, 7, 8, 9, 10, 10-1, 12, 15, 17, 20, 22, 30, 32, 34, 35, 36, 37 straipsnių, aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas]] - Koncesijų įstatymu
+- [[latest/a6211800de7511ed9978886e85107ab2#^s-fd1dfe3088be944f9e6ce7b9|Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 3, 7, 8, 9, 10, 10-1, 12, 15, 17, 20, 22, 30, 32, 34, 35, 36, 37 straipsnių, aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas]] - Lietuvos Respublikos koncesijų įstatyme
+- [[latest/TAR.CC10C5274343#^s-02614d798473732ec9520587|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.CC10C5274343#^s-b80538cb623d2441cdcda219|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.A64DB3EB7FC6#^s-53f0cba09dbea3e6ca888894|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - „Koncesijų įstatymo“
+- [[latest/TAR.A64DB3EB7FC6#^s-e71c3f95e4783592f81a0a65|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - „Koncesijų įstatymo“
+- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-0296111fdc7798a76bcdd038|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-166f7a110e1539609df17ef4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-05ebba3df4bdf95943e7ac3c|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-6ab47c3526f82214d03527b9|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-ac5d7d25c221fe478f0aeda3|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-adf910a2ec3cde4974f60f29|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-45215e9233ec2bf71096a44d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-dade7bda8eb182768bf6bcd2|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-38eba9665a994b1f3f85d882|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-cf7491de9eebb60f1be23e12|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-7d5fac5460e4e153f3c99f33|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-9ebf938827107200c18fa110|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos koncesijų įstatymo

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0DEDBEEF6035"
 pavadinimas: "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-17"
 latest_path: "latest/TAR.0DEDBEEF6035.md"
 latest_sha256: "5215c8a7e33004a6e1e7e98c74fe4baa25bcbd341af2ff4fec3f85acf7fd32fc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0DEDBEEF6035]]"
 ---
 # Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0DEDBEEF6035.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0DEDBEEF6035
+- Ryšiai: [[Ryšiai/TAR.0DEDBEEF6035|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ LIETUVOS RESPUBLIKOS SEIMAS
 
 
 
-### 1 straipsnis. Įstatymo 1 straipsnio pakeitimas
+### 1 straipsnis. Įstatymo 1 straipsnio pakeitimas ^s-c0f4675b8098f9d1272683ee
 
 
 1 straipsnyje vietoj skaičių „8868023“ ir „10003411“ įrašyti skaičius „8924943“ ir „10060331“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Patvirtinti Lietuvos Respublikos 2002 metų valstybės biudžetą – 8924943 t�
 
 
 
-### 2 straipsnis. Įstatymo 2 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. Įstatymo 2 straipsnio 2 dalies pakeitimas ^s-216c82a6225341603678c973
 
 
 2 straipsnio 2 dalyje vietoj skaičiaus „1997382“ įrašyti skaičių „2006411“ ir šią dalį išdėstyti taip:
@@ -54,39 +59,39 @@ Patvirtinti Lietuvos Respublikos 2002 metų valstybės biudžetą – 8924943 t�
 
 
 
-### 3 straipsnis. Įstatymo 4 straipsnio papildymas ir pakeitimas
+### 3 straipsnis. Įstatymo 4 straipsnio papildymas ir pakeitimas ^s-cffb1163b95708526272c2e0
 
 
-1. Papildyti [[#4 straipsnis. Įstatymo 9 straipsnio 1 ir 2 dalių pakeitimas|4 straipsnį]] nauja [[#^4fbdc5de4291013080067cb3|2 dalimi]]: ^8e9d883b774334a0a96d31ac
+1. Papildyti [[#^s-6b993d39dfabe25986627586|4 straipsnį]] nauja [[#^s-468e956269e0a41d8f3898eb|2 dalimi]]: ^s-ae8831ea70b420a42f00b654
 
 
 „2. Nustatyti, kad speciali tikslinė dotacija savivaldybėms pervedama atsižvelgiant į tai, kad praėjusio ataskaitinio laikotarpio įsiskolinimas kreditoriams sumažintas ne mažesne kaip anksčiau pervesta tikslinės dotacijos suma.“
 
 
-2. Buvusią [[#^33c791f439b5e2321c54b4e8|4 straipsnio 2 dalį]] laikyti 3 dalimi. ^4fbdc5de4291013080067cb3
+2. Buvusią [[#^s-357e8d01365f911268c98894|4 straipsnio 2 dalį]] laikyti 3 dalimi. ^s-468e956269e0a41d8f3898eb
 
 
 
-### 4 straipsnis. Įstatymo 9 straipsnio 1 ir 2 dalių pakeitimas
+### 4 straipsnis. Įstatymo 9 straipsnio 1 ir 2 dalių pakeitimas ^s-6b993d39dfabe25986627586
 
 
-1. 9 straipsnio 1 dalyje vietoj skaičiaus „356318“ įrašyti skaičių „355876“ ir šią dalį išdėstyti taip: ^2efece0692833073002b92b8
+1. 9 straipsnio 1 dalyje vietoj skaičiaus „356318“ įrašyti skaičių „355876“ ir šią dalį išdėstyti taip: ^s-4b8392f4ea613a36d6a33bd9
 
 
 „1. Patvirtinti iš valstybės biudžeto išlaikomų įstaigų ir valstybinių mokslo bei studijų institucijų pajamų už teikiamas paslaugas įmokas į valstybės biudžetą – 355876 tūkst. litų (3 priedėlis).“
 
 
-2. 9 straipsnio 2 dalyje vietoj skaičiaus „407112“ įrašyti skaičių „434112“ ir šią dalį išdėstyti taip: ^33c791f439b5e2321c54b4e8
+2. 9 straipsnio 2 dalyje vietoj skaičiaus „407112“ įrašyti skaičių „434112“ ir šią dalį išdėstyti taip: ^s-357e8d01365f911268c98894
 
 
 „2. Patvirtinti valstybės biudžeto asignavimų valdytojų administruojamų pajamų įmokas į valstybės biudžetą – 434112 tūkst. litų (4 priedėlis).“
 
 
 
-### 5 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 5 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-9bf88e7bb67669e694896195
 
 
-1. Įstatymo 1 priedėlio dalyje „Pajamos“, skyriuje „Mokestinės pajamos“, eilutėje „Juridinių asmenų pelno mokestis“ įrašyti žodį „Pelno“, eilutėje „Pridėtinės vertės mokestis“ vietoj skaičiaus „3858081“ įrašyti skaičių „3863987“, eilutėje „Mokestis už valstybinius gamtos išteklius“ vietoj skaičiaus „89115“ įrašyti skaičių „90495“, skyriuje „Nemokestinės pajamos“, eilutėje „Dividendai“ vietoj skaičiaus „28200“ įrašyti skaičių „49525“, eilutėje „Konsulinis mokestis“ vietoj skaičiaus „11000“ įrašyti skaičių „12751“, eilutėje „Biudžetinių įstaigų pajamos, gautos už teikiamas paslaugas“ vietoj skaičiaus „356318“ įrašyti skaičių „355876“, eilutėje „Asignavimų valdytojų administruojamos pajamos“ vietoj skaičiaus „407112“ įrašyti skaičių „434112“, eilutėje „Iš viso“ vietoj skaičiaus „8868023“ įrašyti skaičių „8924943“ ir šias eilutes išdėstyti taip: ^83fcb80b4a0d37b65c5b9420
+1. Įstatymo 1 priedėlio dalyje „Pajamos“, skyriuje „Mokestinės pajamos“, eilutėje „Juridinių asmenų pelno mokestis“ įrašyti žodį „Pelno“, eilutėje „Pridėtinės vertės mokestis“ vietoj skaičiaus „3858081“ įrašyti skaičių „3863987“, eilutėje „Mokestis už valstybinius gamtos išteklius“ vietoj skaičiaus „89115“ įrašyti skaičių „90495“, skyriuje „Nemokestinės pajamos“, eilutėje „Dividendai“ vietoj skaičiaus „28200“ įrašyti skaičių „49525“, eilutėje „Konsulinis mokestis“ vietoj skaičiaus „11000“ įrašyti skaičių „12751“, eilutėje „Biudžetinių įstaigų pajamos, gautos už teikiamas paslaugas“ vietoj skaičiaus „356318“ įrašyti skaičių „355876“, eilutėje „Asignavimų valdytojų administruojamos pajamos“ vietoj skaičiaus „407112“ įrašyti skaičių „434112“, eilutėje „Iš viso“ vietoj skaičiaus „8868023“ įrašyti skaičių „8924943“ ir šias eilutes išdėstyti taip: ^s-56d0edfcacca103ca1bd1fd4
 
 
  „Pelno (Juridinių asmenų pelno) mokestis
@@ -121,7 +126,7 @@ Patvirtinti Lietuvos Respublikos 2002 metų valstybės biudžetą – 8924943 t�
  8924943“
 
 
-2. Pakeisti Įstatymo 1 priedėlio dalį „Asignavimai“ ir ją išdėstyti taip: ^8ae85d3c4d4c99f9df5618c4
+2. Pakeisti Įstatymo 1 priedėlio dalį „Asignavimai“ ir ją išdėstyti taip: ^s-aa6ea844c914633bcd17e48c
 
 
 
@@ -1749,7 +1754,7 @@ tūkst. Lt
 
 
 
-### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-64c67deacd65b1b7dd8ab9ba
 
 
 Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
@@ -1946,7 +1951,7 @@ LIETUVOS RESPUBLIKOS 2002 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
 
 
 
-### 7 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-e413ee758471abd5c4a6a964
 
 
 Įstatymo 3 priedėlio eilutėje „Socialinės apsaugos ir darbo ministerija“ vietoj skaičiaus „299“ įrašyti skaičių „257“, pripažinti netekusia galios eilutę „Užsienio reikalų ministerija 1200“, eilutėje „Muitinės departamentas prie Finansų ministerijos“ vietoj skaičiaus „6600“ įrašyti skaičių „7400“, eilutėje „Iš viso“ vietoj skaičiaus „356318“ įrašyti skaičių „355876“ ir šias eilutes išdėstyti taip:
@@ -1967,10 +1972,10 @@ LIETUVOS RESPUBLIKOS 2002 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
 
 
 
-### 8 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-3adac102175ac2ea2a81174b
 
 
-1. Įstatymo 4 priedėlio eilutėje „Lietuvos automobilių kelių direkcija“ vietoj skaičiaus „294996“ įrašyti skaičių „321996“, eilutėje „Iš viso“ vietoj skaičiaus „407112“ įrašyti skaičių „434112“ ir šias eilutes išdėstyti taip: ^7036dda5bb29f269bf0b180f
+1. Įstatymo 4 priedėlio eilutėje „Lietuvos automobilių kelių direkcija“ vietoj skaičiaus „294996“ įrašyti skaičių „321996“, eilutėje „Iš viso“ vietoj skaičiaus „407112“ įrašyti skaičių „434112“ ir šias eilutes išdėstyti taip: ^s-5b6f58cedf810f88d12b94ae
 
 
  „Lietuvos automobilių kelių direkcija
@@ -1981,12 +1986,12 @@ LIETUVOS RESPUBLIKOS 2002 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
  434112“
 
 
-2. Įstatymo 4 priedėlį papildyti antra nuoroda: ^a4ac5cc75a61e478b3e36210
+2. Įstatymo 4 priedėlį papildyti antra nuoroda: ^s-70f916034f21b9365f3849d8
 „** Iš šių lėšų 27000 tūkst. Lt skirti bendroms biudžeto reikmėms.“
 
 
 
-### 9 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-05661a9f8d03bd5457280ed5
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -2523,7 +2528,7 @@ ASIGNAVIMŲ TEISMAMS PASKIRSTYMAS
 
 
 
-### 10 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 10 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-3b8588c57a1123aa599a90db
 
 
 Pakeisti Įstatymo 6 priedėlį ir jį išdėstyti taip:
@@ -3378,7 +3383,7 @@ tūkst. Lt
 
 
 
-### 11 straipsnis. Įstatymo 10 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 10 priedėlio pakeitimas ^s-6f99256e99d328240f973876
 
 
 Pakeisti Įstatymo 10 priedėlį ir jį išdėstyti taip:

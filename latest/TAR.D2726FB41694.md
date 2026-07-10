@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2726FB41694"
 pavadinimas: "Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo pakeitimo įstatymas"
+  - "valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-29"
 latest_path: "latest/TAR.D2726FB41694.md"
 latest_sha256: "f05ce81ccbb54115ca8d3c8b7a2f841000768d0a194f6b2a4dd27c83ac96ee15"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2726FB41694]]"
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2726FB41694.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2726FB41694
+- Ryšiai: [[Ryšiai/TAR.D2726FB41694|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,34 +37,34 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo nauja redakcija ^s-8acc1910dd47944c2790fbbd
 
 
-Pakeisti Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.61BB05227699#^s-44b2c1a4fca48fa297da951b|Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių]] pakeitimo įstatymą ir jį išdėstyti taip:
 
 
 
 „LIETUVOS RESPUBLIKOS
-VALSTYBĖS KONTROLĖS ĮSTATYMO 2 IR 9 STRAIPSNIŲ PAKEITIMO
+[[latest/TAR.61BB05227699#^s-44b2c1a4fca48fa297da951b|VALSTYBĖS KONTROLĖS ĮSTATYMO 2 IR 9 STRAIPSNIŲ]] PAKEITIMO
 ĮSTATYMAS
 
 
 
-### 1 straipsnis. 2 straipsnio 2 ir 5 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 2 ir 5 dalių pakeitimas ^s-58f3b3fd7f4a7da070ec5ea3
 
 
-1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^94c6d8956c1a1ed233a6ace7
+1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-53ea5a523b374a748378376c
 „2. Finansinis (teisėtumo) auditas – audituojamo subjekto finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir (ar) kitų ataskaitų duomenų, taip pat valstybės lėšų ir turto valdymo, naudojimo, disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams vertinimas bei nepriklausomos nuomonės pareiškimas.“
 
 
-2. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^048e2ae58ddb1651aa177e52
+2. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-856f50b56ba16465129367f6
 
 
 „5. Valstybinio audito išvada – Valstybės kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus finansinį (teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų rinkinių ir kitų ataskaitų duomenų bei valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams.“
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies 1 punkto pakeitimas
+### 2 straipsnis. 9 straipsnio 3 dalies 1 punkto pakeitimas ^s-9894cea47f954236b82c2019
 
 
 Pakeisti 9 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -69,7 +74,7 @@ Pakeisti 9 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-d13631d0676d058a9c59ebe2
 
 
 Šis įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.“

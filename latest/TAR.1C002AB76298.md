@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1C002AB76298"
 pavadinimas: "Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-29"
 latest_path: "latest/TAR.1C002AB76298.md"
 latest_sha256: "7c5262d14d69bb01822b6a8fb4e2e2a994726660fd774ec671d8f7b710fc4a2a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1C002AB76298]]"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1C002AB76298.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1C002AB76298
+- Ryšiai: [[Ryšiai/TAR.1C002AB76298|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-026cd445eb5db1beb308741f
 
 
 1 straipsnio 1 dalyje vietoj žodžio ir skaičiaus „iki 2001“ įrašyti žodžius ir skaičių „ne ilgiau kaip iki 2003“ ir šią dalį išdėstyti taip:

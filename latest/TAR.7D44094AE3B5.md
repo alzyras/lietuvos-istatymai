@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7D44094AE3B5"
 pavadinimas: "Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-10"
 latest_path: "latest/TAR.7D44094AE3B5.md"
 latest_sha256: "e46c53c58169431c4362910bd3426d4a3ed313e71e97d1f5eedaa04dfe167f55"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7D44094AE3B5]]"
 ---
 # Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7D44094AE3B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7D44094AE3B5
+- Ryšiai: [[Ryšiai/TAR.7D44094AE3B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-76ebd7d26172cca37922f6dd
 
 
 1 straipsnyje vietoj skaičių „9545160“, „10857438“ ir „330154“ įrašyti skaičius „9553230“, „10865508“ ir „306655“, išbraukti žodžius „ir 65000 tūkst. litų apyvartos lėšų“ ir šį straipsnį išdėstyti taip:
@@ -43,7 +48,7 @@ Patvirtinti Lietuvos Respublikos 2003 metų valstybės biudžetą – 9553230 t�
 
 
 
-### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-180def18575fc4a164a5c82b
 
 
 2 straipsnio 2 dalyje vietoj skaičių „2009115“ ir „47309“ įrašyti skaičius „2014995“ ir „53154“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Patvirtinti Lietuvos Respublikos 2003 metų valstybės biudžetą – 9553230 t�
 
 
 
-### 3 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-5003375a54721825e725fd4b
 
 
 10 straipsnio 1 dalyje vietoj skaičiaus „375128“ įrašyti skaičių „375559“ ir šią dalį išdėstyti taip:
@@ -63,33 +68,33 @@ Patvirtinti Lietuvos Respublikos 2003 metų valstybės biudžetą – 9553230 t�
 
 
 
-### 4 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-cc2476a30ae849a9772fb534
 
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Nustatyti, kad 2003 metais naujos valstybės garantijos nebus teikiamos, išskyrus atvejus, kai valstybės garantijos teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio Įstatymo [[#11 straipsnis. Įstatymo 6 priedėlio pakeitimas|11 straipsnyje]] nurodytiems prisiimamiems įsipareigojimams užtikrinti.“
+„2. Nustatyti, kad 2003 metais naujos valstybės garantijos nebus teikiamos, išskyrus atvejus, kai valstybės garantijos teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio Įstatymo [[#^s-c3c558f25bbd99ba12eadc50|11 straipsnyje]] nurodytiems prisiimamiems įsipareigojimams užtikrinti.“
 
 
 
-### 5 straipsnis. 14 straipsnio papildymas 13 ir 14 punktais
+### 5 straipsnis. 14 straipsnio papildymas 13 ir 14 punktais ^s-86e2f92bd1215a8109f92040
 
 
-Papildyti 14 straipsnį 13  ir [[#^3647541edc489fa696ffbb65|14 punktais]]:
+Papildyti 14 straipsnį 13  ir [[#^s-b066d7edba3cf4f5acbec9e4|14 punktais]]:
 
 
 „13) asignavimus, numatytus Finansų ministerijai minimaliai mėnesinei algai ir bibliotekininkų darbo užmokesčiui padidinti, paskirstyti pagal asignavimų valdytojus;
 
 
-14) įvertinant bendrojo šalies biudžeto deficitą, naudoti pagal nustatytą paskirtį 2003 metų Privatizavimo fondo lėšų sąmatos II skirsnio trečiojoje pastraipoje rezervuojamas lėšas.“ ^3647541edc489fa696ffbb65
+14) įvertinant bendrojo šalies biudžeto deficitą, naudoti pagal nustatytą paskirtį 2003 metų Privatizavimo fondo lėšų sąmatos II skirsnio trečiojoje pastraipoje rezervuojamas lėšas.“ ^s-b066d7edba3cf4f5acbec9e4
 
 
 
-### 6 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-8f6900b93be04b58c5afc2cf
 
 
-1. Įstatymo 1 priedėlio dalyje „Pajamos“ skyriuje „Nemokestinės pajamos“ eilutėje „Biudžetinių įstaigų pajamos, gautos už teikiamas paslaugas“ vietoj skaičiaus „375128“ įrašyti skaičių „375559“, eilutėje „Kitos nemokestinės pajamos“ vietoj skaičiaus „34493“ įrašyti skaičių „42132“, eilutėje „Iš viso“ vietoj skaičiaus „9545160“ įrašyti skaičių „9553230“ ir šias eilutes išdėstyti taip: ^280de7df44fbf2636547b4c8
+1. Įstatymo 1 priedėlio dalyje „Pajamos“ skyriuje „Nemokestinės pajamos“ eilutėje „Biudžetinių įstaigų pajamos, gautos už teikiamas paslaugas“ vietoj skaičiaus „375128“ įrašyti skaičių „375559“, eilutėje „Kitos nemokestinės pajamos“ vietoj skaičiaus „34493“ įrašyti skaičių „42132“, eilutėje „Iš viso“ vietoj skaičiaus „9545160“ įrašyti skaičių „9553230“ ir šias eilutes išdėstyti taip: ^s-e269e4f625ba67df88a9c44b
 
 
  Biudžetinių įstaigų pajamos, gautos už teikiamas „paslaugas
@@ -104,7 +109,7 @@ Papildyti 14 straipsnį 13  ir [[#^3647541edc489fa696ffbb65|14 punktais]]:
  9553230.“
 
 
-2. Pakeisti įstatymo 1 priedėlio dalį „Asignavimai“ ir ją išdėstyti taip: ^6b5c0b5fcf762047bb414d06
+2. Pakeisti įstatymo 1 priedėlio dalį „Asignavimai“ ir ją išdėstyti taip: ^s-7fee83a85742d8dbc92fc91c
 
 
 
@@ -2045,7 +2050,7 @@ tūkst. Lt
 
 
 
-### 7 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-ce784ae36de29430f8fdf81b
 
 
 Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
@@ -2231,7 +2236,7 @@ tūkst. Lt
 
 
 
-### 8 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-2dde521946eb98e329264971
 
 
 Įstatymo 3 priedėlio eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičiaus „2700“ įrašyti skaičių „2848“, eilutėje „Šiaulių apskrities viršininko administracija“ vietoj skaičiaus „2225“ įrašyti skaičių „2347“, eilutėje „Vilniaus apskrities viršininko administracija “ vietoj skaičiaus „2452“ įrašyti skaičių „2613“, eilutėje „Iš viso“ vietoj skaičiaus „375128“ įrašyti skaičių „375559“, nuorodoje vietoj skaičiau „2000“ įrašyti skaičių „12000“ ir šias eilutes išdėstyti taip:
@@ -2257,18 +2262,18 @@ tūkst. Lt
 
 
 
-### 9 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-af447dc0bd959ced111ea6c1
 
 
-1. Įstatymo 4 priedėlio eilutę „Lietuvos automobilių kelių direkcija 376000“ papildyti nuoroda ir ją išdėstyti taip: ^0329ee0f31b2e24f2d24039d
+1. Įstatymo 4 priedėlio eilutę „Lietuvos automobilių kelių direkcija 376000“ papildyti nuoroda ir ją išdėstyti taip: ^s-9a4534a615979b0036ab0516
 „Lietuvos automobilių kelių direkcija                                                        376000**“
 
 
-2. Įstatymo 4 priedėlį papildyti antra nuoroda „** Iš šių lėšų 20000 tūkst. Lt skirti bendroms biudžeto reikmėms.“ ^3f8830d46327e26a1bfd1895
+2. Įstatymo 4 priedėlį papildyti antra nuoroda „** Iš šių lėšų 20000 tūkst. Lt skirti bendroms biudžeto reikmėms.“ ^s-87c76f6b63a5a6a5e6bf1049
 
 
 
-### 10 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 10 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-718ded322dbf711d7239bda2
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -2815,7 +2820,7 @@ tūkst. Lt
 
 
 
-### 11 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-c3c558f25bbd99ba12eadc50
 
 
 Įstatymo 6 priedėlio eilutėje „Vilniaus miesto“ 11 skiltyje vietoj skaičiaus „0“ įrašyti skaičių „59,8“, eilutėje „Birštono“ 10 skiltyje vietoj skaičiaus „1000“ įrašyti skaičių „1800“, eilutėje „Druskininkų“ 10 skiltyje vietoj skaičiaus „2360“ įrašyti skaičių „2700“, eilutėje „Kauno miesto“ 10 skiltyje vietoj skaičiaus „1250“ įrašyti skaičių „1750“, eilutėje „Palangos miesto“ 11 skiltyje vietoj skaičiaus „104“ įrašyti skaičių „2796,3“, eilutėje „Panevėžio miesto“ 10 skiltyje vietoj skaičiaus „0“ įrašyti skaičių „2960“, eilutėje „Biržų rajono“ 10 skiltyje vietoj skaičiaus „700“ įrašyti skaičių „977“, 11 skiltyje vietoj skaičiaus „886“ įrašyti skaičių „1748“, eilutėje „Mažeikių rajono“ 11 skiltyje vietoj skaičiaus „909“ įrašyti skaičių „3059,8“, eilutėje „Plungės rajono“ 10 skiltyje vietoj skaičiaus „0“ įrašyti skaičių „500“, eilutėje „Skuodo rajono“ 11 skiltyje vietoj skaičiaus „1651“ įrašyti skaičių „1731,1“, eilutėje „Širvintų rajono“ 10 skiltyje vietoj skaičiaus „0“ įrašyti skaičių „300“, eilutėje „Pagėgių“ 10 skiltyje vietoj skaičiaus „115“ įrašyti skaičių „318“, eilutėje „Iš viso“ 10 skiltyje vietoj skaičiaus „59925“ įrašyti skaičių „65805“, 11 skiltyje vietoj skaičiaus „47309“ įrašyti skaičių „53154“ ir šias eilutes išdėstyti taip:
@@ -3012,27 +3017,27 @@ tūkst. Lt
 
 
 
-### 12 straipsnis. Įstatymo 8 priedėlio pakeitimas
+### 12 straipsnis. Įstatymo 8 priedėlio pakeitimas ^s-a4f57b2e3004545cd21209e8
 
 
 Įstatymo 8 priedėlio skyriuje „2003 metų Privatizavimo fondo lėšų sąmata“:
 
 
-1) III skirsnio „Išlaidos“ [[#^caa4d6ed1b2965404271e1be|2 punkte]] „Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti“ vietoj skaičiaus „215000*“ įrašyti skaičių „215211*“, 4 punkte „Iš viso išlaidų“ vietoj skaičiaus „697700“ įrašyti skaičių „697911“ ir šiuos punktus išdėstyti taip: ^608706aaa36ae5cee713a538
+1) III skirsnio „Išlaidos“ [[#^s-d6145d978a9be5fa715d6d90|2 punkte]] „Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti“ vietoj skaičiaus „215000*“ įrašyti skaičių „215211*“, 4 punkte „Iš viso išlaidų“ vietoj skaičiaus „697700“ įrašyti skaičių „697911“ ir šiuos punktus išdėstyti taip: ^s-bda6cad36b40c0226a0f665b
 „2. Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti   215211*“
 
 
 „4. Iš viso išlaidų                                                                                697911“;
 
 
-2) IV skirsnyje „Numatomas lėšų likutis pagal 2004 m. sausio 1 d. būklę“ vietoj skaičiaus „201248“ įrašyti skaičių „201037“ ir šį skirsnį išdėstyti taip: ^caa4d6ed1b2965404271e1be
+2) IV skirsnyje „Numatomas lėšų likutis pagal 2004 m. sausio 1 d. būklę“ vietoj skaičiaus „201248“ įrašyti skaičių „201037“ ir šį skirsnį išdėstyti taip: ^s-d6145d978a9be5fa715d6d90
 
 
 „IV. Numatomas lėšų likutis pagal 2004 m. sausio 1 d. būklę           201037“.
 
 
 
-### 13 straipsnis. Įstatymo 9 priedėlio pakeitimas
+### 13 straipsnis. Įstatymo 9 priedėlio pakeitimas ^s-6e2b6f7d0a6cf3b5cb7dc531
 
 
 Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:

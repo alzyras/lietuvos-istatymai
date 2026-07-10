@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ED210B62AFB9"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 43 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 43 straipsnio pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 43 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.ED210B62AFB9.md"
 latest_sha256: "7e7a9d19954f130e4d682e6c4b55dc4a7e2c5688129344ebf35937617d062df6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ED210B62AFB9]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 43 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ED210B62AFB9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ED210B62AFB9
+- Ryšiai: [[Ryšiai/TAR.ED210B62AFB9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 43 straipsnio pakeitimas
+### 1 straipsnis. 43 straipsnio pakeitimas ^s-6a99330a325f1a4485074bff
 
 
 43 straipsnio 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
@@ -47,7 +52,7 @@ Ministras Pirmininkas pagal savo kompetenciją organizaciniais, personaliniais i
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f34197d2ace26757f621693f
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

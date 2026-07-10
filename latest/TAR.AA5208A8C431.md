@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AA5208A8C431"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 18, 55 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 18, 55 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 18, 55 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.AA5208A8C431.md"
 latest_sha256: "76a37ba8713d2ebb2b03a41ab78befcd777884792ab7ebc9f2950cac572360d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AA5208A8C431]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 18, 55 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AA5208A8C431.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AA5208A8C431
+- Ryšiai: [[Ryšiai/TAR.AA5208A8C431|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 18 straipsnio pakeitimas ir papildymas ^s-17e1749f04c1175b2da6213e
 
 
 18 straipsnio 1 dalyje išbraukti žodžius ir skaičius „nuo 2009 metų sausio 1 dienos“, 2 dalyje vietoj skaičiaus ir žodžio „55 straipsnyje“ įrašyti skaičių ir žodžius „55 straipsnio antrojoje dalyje“ ir šį straipsnį išdėstyti taip:
@@ -47,7 +52,7 @@ Senatvės pensijos amžius nustatomas 60 metų moterims, 62 metai ir 6 mėnesiai
 
 
 
-### 2 straipsnis. 55 straipsnio 2 dalies pakeitimas ir papildymas
+### 2 straipsnis. 55 straipsnio 2 dalies pakeitimas ir papildymas ^s-73660ec39806e9bb1c3eb125
 
 
 Pakeisti ir papildyti 55 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -57,13 +62,13 @@ Pakeisti ir papildyti 55 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-b318181e4687a3cccc8811cf
 
 
-1. Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d. ^ef48dbc9ffd76c09053c2be6
+1. Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d. ^s-b840977346af5c3937c42331
 
 
-2. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo invalidumo, našlių ir našlaičių pensijos, kurias apskaičiuojant buvo taikytos Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto nuostatos, įsigaliojus šiam įstatymui, neperskaičiuojamos. ^513b716c348b5e0d0313999e
+2. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo invalidumo, našlių ir našlaičių pensijos, kurias apskaičiuojant buvo taikytos Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto nuostatos, įsigaliojus šiam įstatymui, neperskaičiuojamos. ^s-960f8170aabab7d5e321d560
 
 
 

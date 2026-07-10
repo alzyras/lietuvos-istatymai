@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.94900C7FDF55"
 pavadinimas: "Lietuvos Respublikos civilinio proceso kodekso 663 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio proceso kodekso 663 straipsnio pakeitimo įstatymas"
+  - "civilinio proceso kodekso 663 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-14"
 latest_path: "latest/TAR.94900C7FDF55.md"
 latest_sha256: "551065fef34dc505780c6f2d9827372e51fb77318c62b1c6076d3cf4b2ab4696"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.94900C7FDF55]]"
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 663 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.94900C7FDF55.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.94900C7FDF55
+- Ryšiai: [[Ryšiai/TAR.94900C7FDF55|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 663 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 663 straipsnio 3 dalies pakeitimas ^s-12b937c8e1bb044a5db9b091
 
 
 663 straipsnio 3 dalyje vietoj žodžių „tris tūkstančius litų“ įrašyti žodžius „septynis tūkstančius litų“ ir šią dalį išdėstyti taip:

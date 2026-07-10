@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.85901DE057DF"
 pavadinimas: "Dėl Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-01-01"
 latest_path: "latest/TAR.85901DE057DF.md"
 latest_sha256: "2f7c3734b1f2dd22224b3b5bddbe51d6b4fa735740b673ec3b4b5a7792545b52"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.85901DE057DF]]"
 ---
 # Dėl Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.85901DE057DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.85901DE057DF
+- Ryšiai: [[Ryšiai/TAR.85901DE057DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

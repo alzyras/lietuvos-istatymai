@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "a2460f306fcd11e9a13eeecaacbc653f"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įstatymas"
+  - "švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2019-09-01"
 latest_path: "latest/a2460f306fcd11e9a13eeecaacbc653f.md"
 latest_sha256: "4ebb3919ecd772591f7b539e94c105c65ec00c3459f9f65611037319eb7f2abe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/a2460f306fcd11e9a13eeecaacbc653f]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/a2460f306fcd11e9a13eeecaacbc653f.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/a2460f306fcd11e9a13eeecaacbc653f
+- Ryšiai: [[Ryšiai/a2460f306fcd11e9a13eeecaacbc653f|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio pakeitimas
+### 1 straipsnis. 41 straipsnio pakeitimas ^s-4fc2bb3df0be3e1652156189
 
 
 Pakeisti 41 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -42,13 +47,13 @@ Pakeisti 41 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-a38a7c5f5d3b9e541423a497
 
 
-1. Šis įstatymas, išskyrus [[#^7d290e2ced3a9f05592b4675|šio straipsnio 2 dalį]], įsigalioja 2019 m. rugsėjo 1 d. ^b283b19285095708f1958d11
+1. Šis įstatymas, išskyrus [[#^s-7ed966a91adc7ece98911c69|šio straipsnio 2 dalį]], įsigalioja 2019 m. rugsėjo 1 d. ^s-c47920d3ed7be0287e76b635
 
 
-2. Lietuvos Respublikos Vyriausybė iki 2019 m. rugpjūčio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^7d290e2ced3a9f05592b4675
+2. Lietuvos Respublikos Vyriausybė iki 2019 m. rugpjūčio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-7ed966a91adc7ece98911c69
 
 
 

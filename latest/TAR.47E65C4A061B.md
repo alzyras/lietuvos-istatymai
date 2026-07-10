@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.47E65C4A061B"
 pavadinimas: "Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-12"
 latest_path: "latest/TAR.47E65C4A061B.md"
 latest_sha256: "aecb6ba30805ab35a46bb69cde973ef88d93d49abbe0bb98c043dffb5250f59e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.47E65C4A061B]]"
 ---
 # Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.47E65C4A061B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.47E65C4A061B
+- Ryšiai: [[Ryšiai/TAR.47E65C4A061B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

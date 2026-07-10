@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FE514888DA81"
 pavadinimas: "Lietuvos Respublikos farmacijos įstatymo 57 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos farmacijos įstatymo 57 straipsnio pakeitimo įstatymas"
+  - "farmacijos įstatymo 57 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.FE514888DA81.md"
 latest_sha256: "dd1883c62ae740999a00ffd3a6dd66ae80052f53d0b39def29d3d0d6b5878a8e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FE514888DA81]]"
 ---
 # Lietuvos Respublikos farmacijos įstatymo 57 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FE514888DA81.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FE514888DA81
+- Ryšiai: [[Ryšiai/TAR.FE514888DA81|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 57 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 57 straipsnio 1 dalies pakeitimas ^s-a665b099d64c314e08a86283
 
 
 57 straipsnio 1 dalyje vietoj žodžių „leidinyje „Valstybės žinios“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-35053f39c06c7c5683a22246
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

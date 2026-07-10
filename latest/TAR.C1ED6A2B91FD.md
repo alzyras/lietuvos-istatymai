@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C1ED6A2B91FD"
 pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "kooperatinių bendrovių (kooperatyvų) įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-21"
 latest_path: "latest/TAR.C1ED6A2B91FD.md"
 latest_sha256: "3cdb73d0f587c592cf53afeb96e1a5dd5701b72130f4949f0338e00fc7dbea5a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C1ED6A2B91FD]]"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C1ED6A2B91FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C1ED6A2B91FD
+- Ryšiai: [[Ryšiai/TAR.C1ED6A2B91FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,13 +38,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-fec2ecfdfc7623878891ff11
 
 
 2 straipsnio 3 dalyje išbraukti žodį „rinkos“ ir šią dalį išdėstyti taip:
 
 
-„3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams Vertybinių popierių įstatymas netaikomas.“
+„3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymas]] netaikomas.“
 
 
 

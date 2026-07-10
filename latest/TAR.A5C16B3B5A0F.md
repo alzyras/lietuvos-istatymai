@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A5C16B3B5A0F"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas"
+  - "Konstitucijos 119 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-13"
 latest_path: "latest/TAR.A5C16B3B5A0F.md"
 latest_sha256: "7bf384a0fc257ca8a0de2dc477157268681a45157b8c647df3985a0061450ac9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A5C16B3B5A0F]]"
 ---
 # Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A5C16B3B5A0F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A5C16B3B5A0F
+- Ryšiai: [[Ryšiai/TAR.A5C16B3B5A0F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos Konstitucijos 119 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. Lietuvos Respublikos Konstitucijos 119 straipsnio 2 dalies pakeitimas ^s-4117c789d54a1db32a5ea926
 
 
 119 straipsnio 2 dalyje vietoj žodžio „dvejiems“ įrašyti žodį „trejiems“ ir šią dalį išdėstyti taip:

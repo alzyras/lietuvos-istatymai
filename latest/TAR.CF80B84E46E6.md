@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF80B84E46E6"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.CF80B84E46E6.md"
 latest_sha256: "cb52b08e701e5f20b9d36b58ed8499c92ed4df75d92a6a7ad63537924457d776"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF80B84E46E6]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF80B84E46E6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF80B84E46E6
+- Ryšiai: [[Ryšiai/TAR.CF80B84E46E6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-f1bd0d64e9a28dfd721288de
 
 
 10 straipsnio 1 dalyje vietoj žodžio „Aukštesniojo“ įrašyti žodžius „Lietuvos vyriausiojo“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ed1780ee4a269200362c617e
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

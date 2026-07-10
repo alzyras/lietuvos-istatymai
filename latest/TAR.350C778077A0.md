@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.350C778077A0"
 pavadinimas: "Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-30"
 latest_path: "latest/TAR.350C778077A0.md"
 latest_sha256: "ecc2363e836908af1d11caf385cb8968fdd21928e00706cf158366f5dc3ffac7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.350C778077A0]]"
 ---
 # Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.350C778077A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.350C778077A0
+- Ryšiai: [[Ryšiai/TAR.350C778077A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 16 straipsnio pripažinimas netekusiu galios ^s-58fb6e8783a5d4f3861701da
 
 
 16 straipsnį pripažinti netekusiu galios.

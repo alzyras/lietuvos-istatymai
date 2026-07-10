@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0341835230B8"
 pavadinimas: "Lietuvos Respublikos transporto lengvatų įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos transporto lengvatų įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "transporto lengvatų įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.0341835230B8.md"
 latest_sha256: "335923e771031a1adc0a1b2dafb585873585448985a3d67dd2b8301128a8510f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0341835230B8]]"
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0341835230B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0341835230B8
+- Ryšiai: [[Ryšiai/TAR.0341835230B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies 1 punkto pakeitimas ^s-8b2384a86cd3530adefd4282
 
 
 Pakeisti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:

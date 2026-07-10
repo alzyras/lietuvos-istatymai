@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D0E4823CC057"
 pavadinimas: "Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 5 ir 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 5 ir 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 5 ir 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-11-19"
 latest_path: "latest/TAR.D0E4823CC057.md"
 latest_sha256: "920dd758d5984c50f9ec9a6befdc73310ee41f7b04bd5b269cd606e0baacb806"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D0E4823CC057]]"
 ---
 # Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 5 ir 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D0E4823CC057.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D0E4823CC057
+- Ryšiai: [[Ryšiai/TAR.D0E4823CC057|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas ^s-9dbffeb3209833a5494a40f2
 
 
 5 straipsnio 1 dalies 1 punkte vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“, išbraukti žodį „teisiamojo“ ir šį punktą išdėstyti taip:
@@ -41,16 +46,16 @@ Vilnius
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies 5 punkto pakeitimas ir 7 dalies papildymas 6 punktu
+### 2 straipsnis. 9 straipsnio 3 dalies 5 punkto pakeitimas ir 7 dalies papildymas 6 punktu ^s-c36aceecc5c43d4d0ac2c878
 
 
-1. 9 straipsnio 3 dalies 5 punkte vietoj žodžio „nusikaltimų“ įrašyti žodžius „nusikalstamų veikų“, vietoj žodžių „dėl baudžiamosios bylos iškėlimo“ įrašyti žodžius „kad būtų pradėtas ikiteisminis tyrimas“ ir šį punktą išdėstyti taip: ^3f926cc4d22d39f2e97a4cab
+1. 9 straipsnio 3 dalies 5 punkte vietoj žodžio „nusikaltimų“ įrašyti žodžius „nusikalstamų veikų“, vietoj žodžių „dėl baudžiamosios bylos iškėlimo“ įrašyti žodžius „kad būtų pradėtas ikiteisminis tyrimas“ ir šį punktą išdėstyti taip: ^s-bd34ac88cdf1978b5e754654
 
 
 „5) esant nusikalstamų veikų, susijusių su šio Įstatymo nuostatomis, požymių, kreiptis į teisėsaugos institucijas, kad būtų pradėtas ikiteisminis tyrimas;“.
 
 
-2. 9 straipsnio 7 dalį papildyti 6 punktu: ^72940a458b9732aafa0fefac
+2. 9 straipsnio 7 dalį papildyti 6 punktu: ^s-7f810b597727059286de4cab
 
 
 „6) savivaldybių vykdomosios institucijos.“

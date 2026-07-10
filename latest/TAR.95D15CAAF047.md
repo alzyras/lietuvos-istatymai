@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.95D15CAAF047"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas"
+  - "Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-20"
 latest_path: "latest/TAR.95D15CAAF047.md"
 latest_sha256: "43f751dd642c8f1173a73d8fad60e3e9cd81d2e585d05dd5ee75f52c6d88a777"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.95D15CAAF047]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.95D15CAAF047.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.95D15CAAF047
+- Ryšiai: [[Ryšiai/TAR.95D15CAAF047|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-22690ad9bf0593f8de259a7d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. spalio 10 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2000 m. gegužės 23 d. Liublianoje.

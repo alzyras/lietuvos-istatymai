@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.839C865206C3"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 5 ir 9 straipsnių pakeitimo įstatymo 3 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 5 ir 9 straipsnių pakeitimo įstatymo 3 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 4, 5 ir 9 straipsnių pakeitimo įstatymo 3 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.839C865206C3.md"
 latest_sha256: "db8baa14d8eb242c194ec1af622deb96f325f27efff0f48a907790b9adce4613"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.839C865206C3]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 5 ir 9 straipsnių pakeitimo įstatymo 3 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.839C865206C3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.839C865206C3
+- Ryšiai: [[Ryšiai/TAR.839C865206C3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 3 straipsnio pripažinimas netekusiu galios ^s-4e0f229aff90e571ad3bae7b
 
 
 3 straipsnį pripažinti netekusiu galios.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A52F7C33F447"
 pavadinimas: "Lietuvos Respublikos profesinių sąjungų įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos profesinių sąjungų įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "profesinių sąjungų įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.A52F7C33F447.md"
 latest_sha256: "419dda9e2833c702f1973ea8aa09d3f6c1fe5684d0c5d125dc668d77c88892f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A52F7C33F447]]"
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A52F7C33F447.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A52F7C33F447
+- Ryšiai: [[Ryšiai/TAR.A52F7C33F447|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas ^s-04a763a78c6d02ab929eea5b
 
 
 8 straipsnio 4 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:

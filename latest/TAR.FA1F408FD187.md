@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FA1F408FD187"
 pavadinimas: "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "neįgaliųjų socialinės integracijos įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-15"
 latest_path: "latest/TAR.FA1F408FD187.md"
 latest_sha256: "de439951a02422fc099ca004ae6f1afd73c4c2a048a4b4ce03937826724fa318"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FA1F408FD187]]"
 ---
 # Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FA1F408FD187.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FA1F408FD187
+- Ryšiai: [[Ryšiai/TAR.FA1F408FD187|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 23 straipsnio 6 dalies pakeitimas ^s-bb03c184dc90fa59210bb6b0
 
 
 Pakeisti 23 straipsnio 6 dalį ir ją išdėstyti taip:

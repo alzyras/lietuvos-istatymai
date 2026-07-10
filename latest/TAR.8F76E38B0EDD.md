@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8F76E38B0EDD"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 17 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 17 ir 21 straipsnių pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 17 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-01"
 latest_path: "latest/TAR.8F76E38B0EDD.md"
 latest_sha256: "953bdecbbc8a57b897ffa2bb35019bb7e4cb8526a11202a374ceb02169c5d55f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8F76E38B0EDD]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 17 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8F76E38B0EDD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8F76E38B0EDD
+- Ryšiai: [[Ryšiai/TAR.8F76E38B0EDD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,17 +40,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-9f5df6b77f36ca0a16df9231
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Leidžiami atskaitymai yra visos faktiškai patirtos įprastinės tokiai veiklai vieneto sąnaudos, būtinos vieneto pajamoms uždirbti ar vieneto ekonominei naudai gauti, jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams taip pat priskiriamos visos išlaidos darbuotojų naudai, jeigu ši darbuotojų gauta nauda pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo nuostatas yra gyventojų pajamų mokesčio objektas. Leidžiamiems atskaitymams priskiriami Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės papildomi atskaitymai. Vieneto (individualios įmonės, tikrosios ūkinės bendrijos, komanditinės ūkinės bendrijos, mažosios bendrijos) leidžiamiems atskaitymams taip pat priskiriama suma, nuo kurios pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nuostatas skaičiuojamos ir mokamos vieneto dalyvio (individualios įmonės savininko, tikrosios ūkinės bendrijos tikrojo nario, komanditinės ūkinės bendrijos tikrojo nario, mažosios bendrijos nario) valstybinio socialinio draudimo įmokos.“
+„1. Leidžiami atskaitymai yra visos faktiškai patirtos įprastinės tokiai veiklai vieneto sąnaudos, būtinos vieneto pajamoms uždirbti ar vieneto ekonominei naudai gauti, jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams taip pat priskiriamos visos išlaidos darbuotojų naudai, jeigu ši darbuotojų gauta nauda pagal [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo]] nuostatas yra gyventojų pajamų mokesčio objektas. Leidžiamiems atskaitymams priskiriami Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės papildomi atskaitymai. Vieneto (individualios įmonės, tikrosios ūkinės bendrijos, komanditinės ūkinės bendrijos, mažosios bendrijos) leidžiamiems atskaitymams taip pat priskiriama suma, nuo kurios pagal [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] nuostatas skaičiuojamos ir mokamos vieneto dalyvio (individualios įmonės savininko, tikrosios ūkinės bendrijos tikrojo nario, komanditinės ūkinės bendrijos tikrojo nario, mažosios bendrijos nario) valstybinio socialinio draudimo įmokos.“
 
 
 
-### 2 straipsnis. 21 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 21 straipsnio 1 dalies pakeitimas ^s-0642302131972fb9e5e08f5c
 
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-df9ef8bb6990102f5556f809
 
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.

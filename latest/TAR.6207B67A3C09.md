@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6207B67A3C09"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-29"
 latest_path: "latest/TAR.6207B67A3C09.md"
 latest_sha256: "bd062fa4b87e236a6dd2d7b7eda34ed5866f08445ddb2902fd6e567cb1125f50"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6207B67A3C09]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6207B67A3C09.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6207B67A3C09
+- Ryšiai: [[Ryšiai/TAR.6207B67A3C09|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,10 +39,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-52a68cc7a2f433913f78aa31
 
 
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.4325B0C38B2F#^s-0249f3302972559d346a6c5f|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio]] pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4FD3BE7029F5"
 pavadinimas: "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 3, 6, 7 ir 16 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 3, 6, 7 ir 16 straipsnių pakeitimo įstatymas"
+  - "pareigūnų ir karių valstybinių pensijų įstatymo 1, 3, 6, 7 ir 16 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.4FD3BE7029F5.md"
 latest_sha256: "30611f6346598eff3319847577ef555f81a48b05560ee3b113f2551731f4ea02"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4FD3BE7029F5]]"
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 3, 6, 7 ir 16 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4FD3BE7029F5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4FD3BE7029F5
+- Ryšiai: [[Ryšiai/TAR.4FD3BE7029F5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies 7 punkto pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies 7 punkto pakeitimas ^s-e6eaefda46f4ec48c948e3da
 
 
 1 straipsnio 1 dalies 7 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -43,35 +48,35 @@ Vilnius
 
 
 
-### 2 straipsnis. 3 straipsnio 1 dalies 1, 4 ir 5 punktų ir 2 dalies pakeitimas
+### 2 straipsnis. 3 straipsnio 1 dalies 1, 4 ir 5 punktų ir 2 dalies pakeitimas ^s-394c17bca72a5ea3a4c711d5
 
 
-1. 3 straipsnio 1 dalies 1 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip: ^297c4c0f22e112f7ec359c69
+1. 3 straipsnio 1 dalies 1 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip: ^s-388c907dfacf86fd3c9cd602
 
 
 „1) ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) 20 ir daugiau metų;“.
 
 
-2. 3 straipsnio 1 dalies 4 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip: ^17f9402c0ce968148d4f5d16
+2. 3 straipsnio 1 dalies 4 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip: ^s-875247832a7dc1bec9b62524
 
 
 „4) atleistiems dėl sveikatos, kai yra žinybinės centrinės medicininės ekspertizės komisijos išvada, arba pripažintiems nedarbingais ar iš dalies darbingais dėl priežasčių, nesusijusių su tarnyba, ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) 5 ir daugiau metų;“.
 
 
-3. 3 straipsnio 1 dalies 5 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip: ^e4bb584cea20a331d99bd251
+3. 3 straipsnio 1 dalies 5 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip: ^s-a3e45fe2f16daf9779e4ce9b
 
 
 „5) sukakusiems įstatymų arba statutų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių) ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) 5 ir daugiau metų.“
 
 
-4. 3 straipsnio 2 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^6eb799809d86570ac0633d8b
+4. 3 straipsnio 2 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^s-26d95a27297dcfb4fff09c76
 
 
 „2. Pareigūnams ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių).“
 
 
 
-### 3 straipsnis. 6 straipsnio 1 punkto pakeitimas
+### 3 straipsnis. 6 straipsnio 1 punkto pakeitimas ^s-9c72ec4fed8f6e8b0ee381d6
 
 
 6 straipsnio 1 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -81,7 +86,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-281a1021930e31fe535123fb
 
 
 7 straipsnio 1 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip:
@@ -91,47 +96,47 @@ Vilnius
 
 
 
-### 5 straipsnis. 16 straipsnio 1, 3 ir 12 dalių pakeitimas
+### 5 straipsnis. 16 straipsnio 1, 3 ir 12 dalių pakeitimas ^s-ebe3e478adfd3fd5adbdc54a
 
 
-1. 16 straipsnio 1 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^e9c7d75f77e30c2f9423914f
+1. 16 straipsnio 1 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^s-021bcc3a2a996751e2dd70de
 
 
 „1. Asmenims, nestojusiems tarnauti arba nepriimtiems į Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų bei valstybės įmonių pareigūnus ir karius, muitinės pareigūnus (muitinės sistemoje dirbti muitinės mobiliosiose grupėse ar muitinės postuose arba atlikti kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), pareigūnų ir karių valstybinės pensijos šio įstatymo nustatyta tvarka neskiriamos.“
 
 
-2. 16 straipsnio 3 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^f3dff57a05c2e2f68312aedc
+2. 16 straipsnio 3 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^s-3ba07918b065f17d6b8575a7
 
 
 „3. Asmenims, priimtiems tarnauti vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, muitinės pareigūnais (muitinės sistemoje dirbti muitinės mobiliosiose grupėse ar muitinės postuose arba atlikti kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), tarnybos laikui pensijai skirti prilyginami šie laikotarpiai, buvę iki 1995 m. sausio 1 d.:
 
 
-1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas – iki 1990 m. kovo 11 d.; ^a595d32ab8ece2eb403363ec
+1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas – iki 1990 m. kovo 11 d.; ^s-56f8e6243602887590d9d732
 
 
-2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^7ef4bda2273e2c2a1baa841a
+2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-98876440e821567afb10b602
 
 
-3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^112697fc9ef0b69463deb431
+3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-e93c20953509a16295736549
 
 
-4) viena tarnybos ar darbo diena Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – skaičiuojama kaip trys tarnybos dienos; ^d7028bd33eb81be7c7dd582b
+4) viena tarnybos ar darbo diena Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – skaičiuojama kaip trys tarnybos dienos; ^s-0d5d54cf13bbc951f5e94a95
 
 
-5) asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje, ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų iki šio laiko turėto darbo stažo; ^7ce62f04a73704944db0ff70
+5) asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje, ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų iki šio laiko turėto darbo stažo; ^s-2fc0ca4902255ea2d85b270b
 
 
-6) mokymosi aukštosiose, specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto paskirti pareigūnais.“ ^11a58191282a2854d694a0c5
+6) mokymosi aukštosiose, specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto paskirti pareigūnais.“ ^s-f95e0301994168cfbd8ff4b2
 
 
-3. 16 straipsnio 12 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^ae256ea8469adff72c080a32
+3. 16 straipsnio 12 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^s-69d5d7071c650d9366622eff
 
 
-„12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16 straipsnių pakeitimo ir papildymo įstatymo Nr. X-1027 įsigaliojimo.“
+„12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E#^s-457898e92b1498d0c089e2e8|pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16 straipsnių]] pakeitimo ir papildymo [[latest/TAR.9AFBD8793C7C|įstatymo Nr. X-1027]] įsigaliojimo.“
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-4a30283035ec35d732063021
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

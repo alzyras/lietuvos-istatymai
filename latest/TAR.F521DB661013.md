@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F521DB661013"
 pavadinimas: "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "naftos produktų ir naftos valstybės atsargų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-02-01"
 latest_path: "latest/TAR.F521DB661013.md"
 latest_sha256: "bf86c238c578dea51cae1a3938882f0f6b1e144f8b647df6dc5455597402e7eb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F521DB661013]]"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F521DB661013.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F521DB661013
+- Ryšiai: [[Ryšiai/TAR.F521DB661013|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas ^s-4e6c11b0fc86750ace363d2c
 
 
 13 straipsnio 4 dalyje vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c6d714bc595e3437ef397630
 
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.

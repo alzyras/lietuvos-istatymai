@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B515345EB7B6"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 15, 18, 19, 22 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 15, 18, 19, 22 straipsnių pakeitimo ir papildymo įstatymas"
+  - "administracinių bylų teisenos įstatymo 15, 18, 19, 22 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-26"
 latest_path: "latest/TAR.B515345EB7B6.md"
 latest_sha256: "616da77d23573c89d52b7fda992c9e592103a4abf93be35ddff696ca67b5b980"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B515345EB7B6]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 15, 18, 19, 22 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B515345EB7B6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B515345EB7B6
+- Ryšiai: [[Ryšiai/TAR.B515345EB7B6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,36 +36,36 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 1 dalies papildymas ir pakeitimas
+### 1 straipsnis. 15 straipsnio 1 dalies papildymas ir pakeitimas ^s-ce23bfa971da27ed8d9c2cbf
 
 
-1. Papildyti 15 straipsnio 1 dalį nauju 7 punktu: ^62d8139b0ed577d6d8fe561d
+1. Papildyti 15 straipsnio 1 dalį nauju 7 punktu: ^s-8611d1606c32690a7a5f6771
 
 
 „7) Seimo kontrolieriaus kreipimosi (pareiškimo) dėl tarnybos santykių su valstybės tarnautojais nutraukimo;“.
 
 
-2. Buvusius 15 straipsnio 1 dalies 7, 8, 9, 10, 11, 12 punktus laikyti atitinkamai 8, 9, 10, 11, 12, 13 punktais. ^0aed0adba9851d4f0eb2c945
+2. Buvusius 15 straipsnio 1 dalies 7, 8, 9, 10, 11, 12 punktus laikyti atitinkamai 8, 9, 10, 11, 12, 13 punktais. ^s-e7134cc4677b2d915f9fef05
 
 
 
-### 2 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+### 2 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas ^s-685f1574eab9a355a847be0a
 
 
-1. 18 straipsnio 1 dalyje po skaičiaus „6“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip: ^41fe64e5b33a9e301292257a
+1. 18 straipsnio 1 dalyje po skaičiaus „6“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip: ^s-84469bf39f8208fbb57d78e2
 
 
 „1. Apygardos administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo 15 straipsnyje, kai pareiškėjas ar atsakovas yra teritorinis valstybinio administravimo ar savivaldybių administravimo subjektas, išskyrus bylas, nurodytas šio įstatymo 15 straipsnio 1 dalies 6, 7, 11 ir 12 punktuose.“
 
 
-2. 18 straipsnio 2 dalies 2 punktą pripažinti netekusiu galios. ^ea9baec2862bb7064e51cef1
+2. 18 straipsnio 2 dalies 2 punktą pripažinti netekusiu galios. ^s-a69d241bebd3781c6c5416a7
 
 
-3. Buvusius 18 straipsnio 2 dalies 3, 4, 5, 6, 7, 8, 9, 10 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9 punktais. ^1c24e1983426505c4c508c2c
+3. Buvusius 18 straipsnio 2 dalies 3, 4, 5, 6, 7, 8, 9, 10 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9 punktais. ^s-352802a2f150525d0dc89251
 
 
 
-### 3 straipsnis. 19 straipsnio 2 dalies 1 punkto pakeitimas
+### 3 straipsnis. 19 straipsnio 2 dalies 1 punkto pakeitimas ^s-a16f243b1379f50e654bb3aa
 
 
 Pakeisti 19 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
@@ -70,7 +75,7 @@ Pakeisti 19 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 22 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 22 straipsnio 5 dalies pakeitimas ^s-21b565b47ba41b04c736cb32
 
 
 22 straipsnio 5 dalyje vietoj skaičiaus „9“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0F9D26C22EBE"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso 46 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso 46 straipsnio pakeitimo įstatymas"
+  - "baudžiamojo kodekso 46 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.0F9D26C22EBE.md"
 latest_sha256: "8c8c040542c2d4205a4cf80b28e9c3b928e7d71a60fe9349a0efb90e5a7ec9b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0F9D26C22EBE]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 46 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0F9D26C22EBE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0F9D26C22EBE
+- Ryšiai: [[Ryšiai/TAR.0F9D26C22EBE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 46 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 46 straipsnio 4 dalies pakeitimas ^s-46dc0e70b5aac19d8e0fb122
 
 
 46 straipsnio 4 dalyje išbraukti žodžius „ir (ar) apskrities viršininko administracija“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f7bfbbd299c2aaa382b4fb24
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

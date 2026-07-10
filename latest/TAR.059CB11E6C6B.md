@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.059CB11E6C6B"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 60, 90 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 60, 90 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teismų įstatymo 60, 90 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-17"
 latest_path: "latest/TAR.059CB11E6C6B.md"
 latest_sha256: "29d7528e45f075fe5162116159c1ed70752119b0c82d98a8603897356d6da8cd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.059CB11E6C6B]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 60, 90 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.059CB11E6C6B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.059CB11E6C6B
+- Ryšiai: [[Ryšiai/TAR.059CB11E6C6B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 60 straipsnio pakeitimas
+### 1 straipsnis. 60 straipsnio pakeitimas ^s-55d6fa2c037c105e1f4ba508
 
 
 Pakeisti 60 straipsnį ir jį išdėstyti taip:
@@ -47,16 +52,16 @@ Buvęs Lietuvos Respublikos Konstitucinio Teismo, Aukščiausiojo Teismo, Europo
 
 
 
-### 2 straipsnis. 90 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 90 straipsnio papildymas ir pakeitimas ^s-8165629973cedba6ad3428c8
 
 
-1. Papildyti 90 straipsnį nauja 8 dalimi: ^9ad0df5ad02bd692ddc01fc7
+1. Papildyti 90 straipsnį nauja 8 dalimi: ^s-f36aa968f6e596c6e83443d8
 
 
 „8. Kai Respublikos Prezidentas priima dekretą kreiptis į Teisėjų tarybą dėl patarimo atleisti ar teikti atleisti teisėją iš pareigų vadovaujantis šio straipsnio 1 dalies 5 punktu, teisėjo įgaliojimai sustabdomi, iki bus priimtas sprendimas dėl teisėjo atleidimo iš pareigų. Tais atvejais, kai šio Įstatymo arba Seimo statuto nustatyta tvarka sprendimas dėl teisėjo atleidimo nepriimamas, Respublikos Prezidentas nedelsdamas atnaujina teisėjo įgaliojimus ir teisėjui sumokamas atlyginimas už įgaliojimų sustabdymo laiką.“
 
 
-2. Buvusią 90 straipsnio 8 dalį laikyti 9 dalimi. ^ebae9f7eca8bc10f0ff1540d
+2. Buvusią 90 straipsnio 8 dalį laikyti 9 dalimi. ^s-c60644d1888dc1f4e869e811
 
 
 

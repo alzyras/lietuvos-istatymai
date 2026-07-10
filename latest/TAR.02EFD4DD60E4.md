@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.02EFD4DD60E4"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-2000 metams įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-2000 metams įstatymo pakeitimo įstatymas"
+  - "savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-2000 metams įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-30"
 latest_path: "latest/TAR.02EFD4DD60E4.md"
 latest_sha256: "62df46cd20dd3dcadb9743dd291f1855727ea9469f827b197e5996485bc65455"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.02EFD4DD60E4]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 1998-2000 metams įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.02EFD4DD60E4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.02EFD4DD60E4
+- Ryšiai: [[Ryšiai/TAR.02EFD4DD60E4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+### 1 straipsnis. Įstatymo pavadinimo pakeitimas ^s-71f3a521dcfe5512e186761d
 
 
 Įstatymo pavadinime vietoj skaičiaus „2000“ įrašyti skaičių „1999“ ir šį pavadinimą išdėstyti taip:
@@ -41,13 +46,13 @@ Vilnius
 
 
 
-### 2 straipsnis. 1 straipsnio pakeitimas
+### 2 straipsnis. 1 straipsnio pakeitimas ^s-3abf0f4d0aa4704d0a145c34
 
 
-[[#1 straipsnis. Įstatymo pavadinimo pakeitimas|1 straipsnyje]] vietoj skaičiaus „2000“ įrašyti skaičių „1999“ ir šį straipsnį išdėstyti taip:
+[[#^s-71f3a521dcfe5512e186761d|1 straipsnyje]] vietoj skaičiaus „2000“ įrašyti skaičių „1999“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#1 straipsnis. Įstatymo pavadinimo pakeitimas|1 straipsnis]]. Įstatymo paskirtis
+„[[#^s-71f3a521dcfe5512e186761d|1 straipsnis]]. Įstatymo paskirtis
 
 
 „Šis įstatymas nustato 1998-1999 metams pagrindinius rodiklius, kurie lemia savivaldybių biudžetų pajamų dydį ir išlyginimą. Praėjusiais metais patvirtinti rodikliai nekeičiami.“

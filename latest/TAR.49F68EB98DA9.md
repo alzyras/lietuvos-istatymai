@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.49F68EB98DA9"
 pavadinimas: "Lietuvos Respublikos išmokų vaikams įstatymo 2, 5, 6, 8 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos išmokų vaikams įstatymo 2, 5, 6, 8 ir 12 straipsnių pakeitimo įstatymas"
+  - "išmokų vaikams įstatymo 2, 5, 6, 8 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-10-16"
 latest_path: "latest/TAR.49F68EB98DA9.md"
 latest_sha256: "175b6fc521081a28563009c000161770acd1110a28e0aec955c5b46eb20fc344"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.49F68EB98DA9]]"
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 2, 5, 6, 8 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.49F68EB98DA9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.49F68EB98DA9
+- Ryšiai: [[Ryšiai/TAR.49F68EB98DA9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas ^s-1c1802345655503125bdf18d
 
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-2663b8a01f099892f6a6153a
 
 
 5 straipsnio 1 dalyje vietoj skaičiaus „6“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 6 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 5 dalies pakeitimas ^s-77de81b476489bb0b24a1233
 
 
 6 straipsnio 5 dalyje po žodžio „baigusiam“ įrašyti žodį „dieninę“ ir šią dalį išdėstyti taip:
@@ -61,7 +66,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 8 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 8 straipsnio 3 dalies pakeitimas ^s-aa68f0516a4ce0a368855fec
 
 
 8 straipsnio 3 dalyje po žodžio „baigusiam“ įrašyti žodį „dieninę“ ir šią dalį išdėstyti taip:
@@ -71,7 +76,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 12 straipsnio 7 dalies pakeitimas
+### 5 straipsnis. 12 straipsnio 7 dalies pakeitimas ^s-60ed5ae9ef0bb6df2dd2950f
 
 
 Pakeisti 12 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -81,10 +86,10 @@ Pakeisti 12 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo 2 straipsnio įsigaliojimas
+### 6 straipsnis. Įstatymo 2 straipsnio įsigaliojimas ^s-cbefbf11a7b7f34f05e2cd1e
 
 
-Šio įstatymo [[#2 straipsnis. 5 straipsnio 1 dalies pakeitimas|2 straipsnis]] įsigalioja nuo 2005 m. sausio 1 d.
+Šio įstatymo [[#^s-2663b8a01f099892f6a6153a|2 straipsnis]] įsigalioja nuo 2005 m. sausio 1 d.
 
 
 

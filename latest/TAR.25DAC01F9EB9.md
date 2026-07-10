@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25DAC01F9EB9"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 19 straipsnio ir 3 priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 19 straipsnio ir 3 priedo pakeitimo įstatymas"
+  - "akcizų įstatymo 19 straipsnio ir 3 priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-01"
 latest_path: "latest/TAR.25DAC01F9EB9.md"
 latest_sha256: "a1b024bfe7229481007a0b02db0c97c747a7e2177a5de9e3bb5ad3d7c1ee69d4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25DAC01F9EB9]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 19 straipsnio ir 3 priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25DAC01F9EB9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25DAC01F9EB9
+- Ryšiai: [[Ryšiai/TAR.25DAC01F9EB9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 19 straipsnio 1 dalies pakeitimas ^s-bf0a4056280a68d42d2c5ca1
 
 
 19 straipsnio 1 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 3 priedo 1 punkto pakeitimas
+### 2 straipsnis. Įstatymo 3 priedo 1 punkto pakeitimas ^s-8a78bee61b04c115ab7231d1
 
 
 Pakeisti Įstatymo 3 priedo 1 punktą ir jį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti Įstatymo 3 priedo 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ee5a73b7c740d150b1c10ef4
 
 
 Šis įstatymas įsigalioja nuo 2005 m. liepos 1 d.

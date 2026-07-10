@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0B4979D80331"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.0B4979D80331.md"
 latest_sha256: "3c3ed7af10f066615b044c4d279a554d70d33a0e3766dfe7a595659fdeae9699"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0B4979D80331]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0B4979D80331.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0B4979D80331
+- Ryšiai: [[Ryšiai/TAR.0B4979D80331|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 11 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 11 dalies pakeitimas ^s-09204aebf7bbd879f2807884
 
 
 Pakeisti 16 straipsnio 11 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 16 straipsnio 11 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-65cba0423ff729c0b337f297
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

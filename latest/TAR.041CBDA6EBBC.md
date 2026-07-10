@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.041CBDA6EBBC"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 2001 m. Tarptautinės konvencijos dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 2001 m. Tarptautinės konvencijos dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą ratifikavimo"
+  - "įstatymas dėl 2001 m. Tarptautinės konvencijos dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-09-01"
 latest_path: "latest/TAR.041CBDA6EBBC.md"
 latest_sha256: "b84aee23b186cc6973b7e3814c25519ac7a717d479d66f8eac2bfbf729d33a6b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.041CBDA6EBBC]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 2001 m. Tarptautinės konvencijos dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.041CBDA6EBBC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.041CBDA6EBBC
+- Ryšiai: [[Ryšiai/TAR.041CBDA6EBBC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,31 +34,31 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-d3bcd1ae10d8410817e9b5bf
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 724, ratifikuoja su pareiškimu 2001 m. kovo 23 d. Londone priimtą 2001 m. Tarptautinę konvenciją dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą.
 
 
 
-### 2 straipsnis. Lietuvos Respublikos pareiškimas
+### 2 straipsnis. Lietuvos Respublikos pareiškimas ^s-fc63c41963ce29bc6e9b0886
 
 
 Vadovaudamasis 2002 m. rugsėjo 19 d. Tarybos sprendimo 2002/762/EB, įgaliojančio valstybes nares Bendrijos interesais pasirašyti ir ratifikuoti 2001 m. Tarptautinę konvenciją dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą (Laivų bunkerių konvenciją) arba prie jos prisijungti, 2 straipsniu, Lietuvos Respublikos Seimas pareiškia, kad visų šią konvenciją ratifikavusių Europos Sąjungos valstybių narių, išskyrus Daniją, teismo sprendimai klausimais, kuriems taikoma ši konvencija, pripažįstami ir vykdomi Lietuvos Respublikoje vadovaujantis atitinkamomis Bendrijos vidaus taisyklėmis tais klausimais.
 
 
 
-### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-a407371209373e7985dec89d
 
 
 Lietuvos Respublikos Vyriausybė iki 2007 m. rugsėjo 1 d. nustato šios konvencijos įgyvendinimo tvarką.
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-cc2e8691207aad4a6f6e8b06
 
 
-Šis įstatymas, išskyrus [[#3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|3 straipsnį]], įsigalioja nuo 2007 m. rugsėjo 1 d.
+Šis įstatymas, išskyrus [[#^s-a407371209373e7985dec89d|3 straipsnį]], įsigalioja nuo 2007 m. rugsėjo 1 d.
 
 
 

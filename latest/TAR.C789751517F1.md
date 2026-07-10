@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C789751517F1"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Tamperės konvencijos dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Tamperės konvencijos dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms ratifikavimo"
+  - "įstatymas dėl Tamperės konvencijos dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-09"
 latest_path: "latest/TAR.C789751517F1.md"
 latest_sha256: "4431a01d900bfa5884c5b4dfde69bf6d64edee7f96e9b002514d6c5d3a4e1b1d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C789751517F1]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Tamperės konvencijos dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C789751517F1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C789751517F1
+- Ryšiai: [[Ryšiai/TAR.C789751517F1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-c5e5515338ca231e8e74790f
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 58, ratifikuoja Tamperės konvenciją dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms, priimtą 1998 m. birželio 18 d. Tamperėje.
 
 
 
-### 2 straipsnis. Pasiūlymas Vyriausybei
+### 2 straipsnis. Pasiūlymas Vyriausybei ^s-96200d8b03b9789f010c332c
 
 
 Lietuvos Respublikos Vyriausybė paskiria institucijas, atsakingas už Konvencijos nuostatų įgyvendinimą.

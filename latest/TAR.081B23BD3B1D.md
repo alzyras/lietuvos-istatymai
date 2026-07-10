@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.081B23BD3B1D"
 pavadinimas: "Lietuvos Respublikos 2010 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2010 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2010 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-12"
 latest_path: "latest/TAR.081B23BD3B1D.md"
 latest_sha256: "6c1188db3b7f499346bea726d3c969855c971b5fcadf8b06e6546750d1762423"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.081B23BD3B1D]]"
 ---
 # Lietuvos Respublikos 2010 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.081B23BD3B1D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.081B23BD3B1D
+- Ryšiai: [[Ryšiai/TAR.081B23BD3B1D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2010 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 2010 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-0be2feedd2842b7f1dbe9363
 
 
 Patvirtinti Lietuvos Respublikos 2010 metų Privalomojo sveikatos draudimo fondo biudžetą – 4 005 136 tūkst. litų pajamų ir 4 005 136 tūkst. litų išlaidų, iš jo – 20 000 tūkst. litų kasos apyvartos lėšų (priedėlis).

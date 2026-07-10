@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EAEF9C14948F"
 pavadinimas: "Lietuvos Respublikos 2007 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2007 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2007 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-28"
 latest_path: "latest/TAR.EAEF9C14948F.md"
 latest_sha256: "8377e343bf3cfe31352b9cba0aed443bbe7382c8bce1f8330ead3a5f942f4ed8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EAEF9C14948F]]"
 ---
 # Lietuvos Respublikos 2007 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EAEF9C14948F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EAEF9C14948F
+- Ryšiai: [[Ryšiai/TAR.EAEF9C14948F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         2007 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis.         2007 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-4ffa715436a349f10c66adff
 
 
 Patvirtinti Lietuvos Respublikos 2007 metų Privalomojo sveikatos draudimo fondo biudžetą – 3 640 382 tūkst. litų pajamų ir 3 640 382 tūkst. litų išlaidų, iš jo 20 000 tūkst. litų kasos apyvartos lėšų (priedėlis).
@@ -72,7 +77,7 @@ LIETUVOS RESPUBLIKOS 2007 METŲ PRIVALOMOJO SVEIKATOS DRAUDIMO FONDO BIUDŽETAS
 
 
  1 02
- Įmonių, įstaigų bei organizacijų ir fizinių asmenų, kurie verčiasi individualia veikla, kaip apibrėžta Gyventojų pajamų mokesčio įstatyme, atskaitymai iš gyventojų pajamų mokesčio ir kitos privalomojo sveikatos draudimo įmokos
+ Įmonių, įstaigų bei organizacijų ir fizinių asmenų, kurie verčiasi individualia veikla, kaip apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], atskaitymai iš gyventojų pajamų mokesčio ir kitos privalomojo sveikatos draudimo įmokos
  2 015 832
 
 

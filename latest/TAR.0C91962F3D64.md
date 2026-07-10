@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0C91962F3D64"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "administracinių bylų teisenos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-07-09"
 latest_path: "latest/TAR.0C91962F3D64.md"
 latest_sha256: "601e0500c7face1a9731783a01c181e1ef404d5715c7d419f6dbf3b3436dbb7b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0C91962F3D64]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0C91962F3D64.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0C91962F3D64
+- Ryšiai: [[Ryšiai/TAR.0C91962F3D64|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-1e7d35b6bc724083bb57ead8
 
 
 2 straipsnio 1 dalyje išbraukti žodžius „ir taikyti“, vietoj žodžio „teikti“ įrašyti žodį „administruoti“, išbraukti žodžius „bei valstybės ir vietos savivaldos institucijų vidiniam administravimui organizuoti bei vykdyti“ ir šią dalį išdėstyti taip:

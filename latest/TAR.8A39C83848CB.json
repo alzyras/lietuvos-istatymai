@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.8A39C83848CB.md",
   "latest_revision": "2000-09-06",
-  "latest_sha256": "de12bc81dd5e3ff2eb534843f43f59ed03559a39ebd740a19fdcf8392137b600",
+  "latest_sha256": "d8075b1820c6e4c74cf1ecba683d47320768016a8c7d0c8e40a3014e5e65df19",
   "metadata_path": "latest/TAR.8A39C83848CB.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

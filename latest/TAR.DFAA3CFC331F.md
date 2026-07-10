@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DFAA3CFC331F"
 pavadinimas: "Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo 1, 2, 5, 14, 22 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo 1, 2, 5, 14, 22 straipsnių pakeitimo ir papildymo įstatymas"
+  - "nekilnojamojo kultūros paveldo apsaugos įstatymo 1, 2, 5, 14, 22 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-08-24"
 latest_path: "latest/TAR.DFAA3CFC331F.md"
 latest_sha256: "91d554496955d232921876676ad70d793f1bc4c14fe9e0c80fbbde86f38da1a3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DFAA3CFC331F]]"
 ---
 # Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo 1, 2, 5, 14, 22 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DFAA3CFC331F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DFAA3CFC331F
+- Ryšiai: [[Ryšiai/TAR.DFAA3CFC331F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 4 dalimi ^s-7769522012bc73ebb2114f3f
 
 
 Papildyti 1 straipsnį 4 dalimi:
@@ -43,7 +48,7 @@ Papildyti 1 straipsnį 4 dalimi:
 
 
 
-### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-b383bd32e44609788527ccbe
 
 
 2 straipsnio 1 dalyje išbraukti žodžius „kiekvienam skelbiamam ar paskelbtam saugomu“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Papildyti 1 straipsnį 4 dalimi:
 
 
 
-### 3 straipsnis. 5 straipsnio 10 dalies 9 punkto pakeitimas
+### 3 straipsnis. 5 straipsnio 10 dalies 9 punkto pakeitimas ^s-09ddb554d1996d0367a73357
 
 
 Pakeisti 5 straipsnio 10 dalies 9 punktą ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 5 straipsnio 10 dalies 9 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 14 straipsnio papildymas 4 dalimi
+### 4 straipsnis. 14 straipsnio papildymas 4 dalimi ^s-13b5c7f0caae0a8e1e138b59
 
 
 Papildyti 14 straipsnį 4 dalimi:
@@ -73,7 +78,7 @@ Papildyti 14 straipsnį 4 dalimi:
 
 
 
-### 5 straipsnis. 22 straipsnio papildymas 13 dalimi
+### 5 straipsnis. 22 straipsnio papildymas 13 dalimi ^s-c7ebc6d03d768b6f10d94e3c
 
 
 Papildyti 22 straipsnį 13 dalimi:
@@ -83,7 +88,7 @@ Papildyti 22 straipsnį 13 dalimi:
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-5395e041cb157ebce9db421f
 
 
 Šis įstatymas įsigalioja po 3 mėnesių nuo paskelbimo „Valstybės žiniose“.

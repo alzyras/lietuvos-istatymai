@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E719E27D0C44"
 pavadinimas: "Lietuvos Respublikos gamtinių dujų įstatymo 6, 7, 10, 14, 23, 25 straipsnių ir priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gamtinių dujų įstatymo 6, 7, 10, 14, 23, 25 straipsnių ir priedo pakeitimo įstatymas"
+  - "gamtinių dujų įstatymo 6, 7, 10, 14, 23, 25 straipsnių ir priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-31"
 latest_path: "latest/TAR.E719E27D0C44.md"
 latest_sha256: "1a15c556be074505d696032ed3fd037b86de176f9ecfcf2a2c7302a152fbfdea"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E719E27D0C44]]"
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo 6, 7, 10, 14, 23, 25 straipsnių ir priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E719E27D0C44.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E719E27D0C44
+- Ryšiai: [[Ryšiai/TAR.E719E27D0C44|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-e2d560fa59a378dcada5f6d9
 
 
 6 straipsnio 3 dalyje vietoj žodžio „Nacionaline“ įrašyti žodį „Valstybine“, vietoj žodžio „taryba“ įrašyti žodį „tarnyba“, žodžius „prie Teisingumo ministerijos“ išbraukti ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-ee2d109918b2282df5e098a9
 
 
 7 straipsnio 1 dalyje vietoj skaičių ir žodžio „1, 2 ir 3“ įrašyti skaičius ir žodį „1 ir 2“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-1941c486c9b5fc4f0decfbab
 
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-faf09f1e16550ed9b4edf571
 
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -73,35 +78,35 @@ Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 23 straipsnio 5, 6, 7 ir 8 dalių pakeitimas
+### 5 straipsnis. 23 straipsnio 5, 6, 7 ir 8 dalių pakeitimas ^s-6b3ec0fb6ae276187da2c58d
 
 
-1. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^217d9a994a9ea2ae5bb6fd3d
+1. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^s-d62d69894ee64d735bb8a5d5
 
 
 „5. Reguliuojamų kainų nustatymo metodikose turi būti numatytos būtinos investicijos, užtikrinančios efektyvią, saugią sistemų veiklą, ir normatyvinis pelnas šiai veiklai užtikrinti. Nustatant (koreguojant) perdavimo, skirstymo, skystinimo ir laikymo kainų viršutines ribas, atsižvelgiama į dujų įmonės licencijuojamoje veikloje naudojamo turto vertę, kurią įvertina ir tvirtina Komisija, vadovaudamasi Komisijos parengtais ir Vyriausybės patvirtintais dujų įmonių licencijuojamoje veikloje naudojamo turto vertės nustatymo principais. Pelno prieš apmokestinimą norma, perdavimo, skirstymo, skystinimo ir laikymo veiklos rūšims skaičiuojama nuo dujų įmonės licencijuojamoje veikloje naudojamo turto vertės, kiekvienam reguliavimo periodui turi būti ne mažesnė kaip dešimties metų trukmės Vyriausybės vertybinių popierių aukcionų, įvykusių per praėjusius paskutinius 36 kalendorinius mėnesius, metinės palūkanų normos procentais aritmetinis svertinis vidurkis, bet ne didesnis kaip 5 procentai. Dujų perdavimo ir skirstymo kainos nustatomos neatsižvelgiant į dujų transportavimo atstumą. Perdavimo sistemos naudotojai skirstomi į šias grupes: sistemos naudotojai, per metus į vieną dujų pristatymo vietą transportuojantys iki 1 milijardo kubinių metrų dujų, ir sistemos naudotojai, per metus į vieną dujų pristatymo vietą transportuojantys daugiau kaip 1 milijardą kubinių metrų dujų. Vartotojams (sistemos naudotojams) dujų skirstymo kainos nustatomos atsižvelgiant į tai, kiek patiekta per metus dujų į konkrečią dujų pristatymo vietą. Buitiniams vartotojams perdavimo ar skirstymo sistemų balansavimo paslauga teikiama iš įmonės lėšų. Nebuitiniams vartotojams dujų perdavimo ir skirstymo kainos nustatomos ir diferencijuojamos pagal dujų kiekį ir galią. Buitiniams vartotojams dujų skirstymo kainos diferencijuojamos pagal dujų vartojimo kiekį. Dujų kiekio ir galios diferencijavimo principai nustatomi kainų nustatymo metodikose. Reguliuojamos kainos, jų diferencijavimas, siekiant išvengti kryžminio subsidijavimo, tarp vartotojų grupių turi būti vieši, o jų nustatymo principai – pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys.“
 
 
-2. Pakeisti 23 straipsnio 6 dalį ir ją išdėstyti taip: ^79697eea45502294792ec6d0
+2. Pakeisti 23 straipsnio 6 dalį ir ją išdėstyti taip: ^s-aa05f2f0f21ed54cc2d2cb8f
 
 
 „6. Reguliuojamų kainų viršutinės ribos nustatomos penkerių metų reguliavimo periodui. Reguliuojamų kainų viršutinės ribos Komisijos sprendimu gali būti koreguojamos pasikeitus infliacijos lygiui, importuojamų (atgabenamų) dujų kainoms, mokesčiams, dujų kiekiui, teisės aktų reikalavimams, dujų įmonėms įgyvendinus su Komisija suderintas investicijas, dujų įmonėms nukrypus nuo Komisijos patvirtintose kainų viršutinių ribų skaičiavimo metodikose nustatytų rodiklių, tačiau ne dažniau kaip kartą per metus. Reguliuojamų paslaugų kainos gali būti koreguojamos ne dažniau kaip kartą per metus.“
 
 
-3. Pakeisti 23 straipsnio 7 dalį ir ją išdėstyti taip: ^667b120f374bf199eca609df
+3. Pakeisti 23 straipsnio 7 dalį ir ją išdėstyti taip: ^s-46088b9c232db083d8d33cb0
 
 
 „7. Konkrečias perdavimo, skystinimo, laikymo, skirstymo, paskirtojo tiekimo kainas, neviršijančias nustatytų kainų viršutinių ribų, kiekvienais metais nustato dujų įmonės. Komisija, patikrinusi ir nustačiusi, kad kainos ir (ar) buitiniams vartotojams nustatyti tarifai apskaičiuoti nesilaikant kainų ir (ar) tarifų nustatymo reikalavimų, nustatytų kainų viršutinių ribų skaičiavimo metodikose, kad jos diskriminuoja vartotojus ir (ar) yra klaidingos, pateikia dujų įmonėms nurodymus dėl konkrečių kainų ir tarifų skaičiavimo. Dujų įmonės kainas ir (ar) tarifus privalo per 15 dienų pakoreguoti. Jei dujų įmonės nevykdo Komisijos reikalavimo, Komisija vienašališkai nustato konkrečias kainas ir (ar) tarifus.“
 
 
-4. Pakeisti 23 straipsnio 8 dalį ir ją išdėstyti taip: ^f3532286873836688182cd3e
+4. Pakeisti 23 straipsnio 8 dalį ir ją išdėstyti taip: ^s-e0d322190cde1223fab22eac
 
 
 „8. Dujų įmonės buitiniams vartotojams nustato tarifus kas pusę metų. Tarifą sudaro: prognozuojamų dujų (produkto), konkrečių perdavimo, skirstymo, laikymo, skystinimo, tiekimo kainų bei skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir faktinių dujų (produkto) kainų suma. Dujų įmonės konkrečius tarifus pateikia Komisijai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šio straipsnio 7 dalyje nustatyta tvarka.“
 
 
 
-### 6 straipsnis. 25 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 25 straipsnio 3 dalies pakeitimas ^s-59a7725eee929421368c750f
 
 
 Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -111,7 +116,7 @@ Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Įstatymo priedo 2 punkto pakeitimas
+### 7 straipsnis. Įstatymo priedo 2 punkto pakeitimas ^s-bc9d9ff9d81d641652d29301
 
 
 Pakeisti Įstatymo priedo 2 punktą ir jį išdėstyti taip:
@@ -121,17 +126,17 @@ Pakeisti Įstatymo priedo 2 punktą ir jį išdėstyti taip:
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-039f1c37f1cf9a0a10f5af9b
 
 
-Šio įstatymo [[#^217d9a994a9ea2ae5bb6fd3d|5 straipsnio 1 dalyje]] išdėstyto Gamtinių dujų įstatymo 23 straipsnio 5 dalis įsigalioja 2009 m. rugpjūčio 1 d.
+Šio įstatymo [[#^s-d62d69894ee64d735bb8a5d5|5 straipsnio 1 dalyje]] išdėstyto [[latest/TAR.0C5C33AA865C#^s-ca57172249f1c0fb551b6ac7|Gamtinių dujų įstatymo 23 straipsnio 5 dalis]] įsigalioja 2009 m. rugpjūčio 1 d.
 
 
 
-### 9 straipsnis. Įstatymo įgyvendinimas
+### 9 straipsnis. Įstatymo įgyvendinimas ^s-c760bd955d43da30c7458069
 
 
-Valstybinė kainų ir energetikos kontrolės komisija parengia ir Lietuvos Respublikos Vyriausybė iki 2009 m. rugpjūčio 1 d. patvirtina šio įstatymo [[#^217d9a994a9ea2ae5bb6fd3d|5 straipsnio 1 dalyje]] išdėstyto Gamtinių dujų įstatymo 23 straipsnio 5 daliai įgyvendinti reikalingus teisės aktus.
+Valstybinė kainų ir energetikos kontrolės komisija parengia ir Lietuvos Respublikos Vyriausybė iki 2009 m. rugpjūčio 1 d. patvirtina šio įstatymo [[#^s-d62d69894ee64d735bb8a5d5|5 straipsnio 1 dalyje]] išdėstyto [[latest/TAR.0C5C33AA865C#^s-ca57172249f1c0fb551b6ac7|Gamtinių dujų įstatymo 23 straipsnio 5 daliai]] įgyvendinti reikalingus teisės aktus.
 
 
 

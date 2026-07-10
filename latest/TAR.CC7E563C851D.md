@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CC7E563C851D"
 pavadinimas: "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-03-10"
 latest_path: "latest/TAR.CC7E563C851D.md"
 latest_sha256: "5a87178c4e9d713fa5d7ebccd812b5a5dcf1fa9bac46f89b1f01d3757fd8ecac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CC7E563C851D]]"
 ---
 # Dėl Lietuvos Respublikos akcinių bendrovių įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CC7E563C851D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CC7E563C851D
+- Ryšiai: [[Ryšiai/TAR.CC7E563C851D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

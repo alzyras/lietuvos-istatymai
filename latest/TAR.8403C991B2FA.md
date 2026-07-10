@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8403C991B2FA"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.8403C991B2FA.md"
 latest_sha256: "59e5d8b26f6628fc0cddf3858ce9009813dd8a6e5118e15ec00b3035f68925b1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8403C991B2FA]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8403C991B2FA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8403C991B2FA
+- Ryšiai: [[Ryšiai/TAR.8403C991B2FA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,33 +38,33 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio pavadinimo ir 3 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
+### 1 straipsnis. 15 straipsnio pavadinimo ir 3 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios ^s-eb96a28a639295e64f42b908
 
 
-1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip: ^788ce22dafc074484e48254f
+1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip: ^s-3eba4b109b2964c74dd81731
 
 
 
 „15 straipsnis. Valstybės ir savivaldybių turto apskaita ir savivaldybėms nuosavybės teise priklausančio turto ataskaita“.
 
 
-2. Pripažinti 15 straipsnio 2 dalį netekusia galios. ^2063ae3472493f863e516441
+2. Pripažinti 15 straipsnio 2 dalį netekusia galios. ^s-132f70397befca41a0f7aaae
 
 
-3. Pakeisti 15 straipsnio 3 dalį ir ją išdėstyti taip: ^521666862f429f85f715a523
+3. Pakeisti 15 straipsnio 3 dalį ir ją išdėstyti taip: ^s-c3e153bd5244815ce1e09c72
 
 
-„3. Savivaldybei nuosavybės teise priklausančio turto ir patikėjimo teise valdomo valstybės turto ataskaitą rengia savivaldybės administracija Vyriausybės nustatyta tvarka ir teikia ją Vietos savivaldos įstatyme numatytoms savivaldybės institucijoms.“
+„3. Savivaldybei nuosavybės teise priklausančio turto ir patikėjimo teise valdomo valstybės turto ataskaitą rengia savivaldybės administracija Vyriausybės nustatyta tvarka ir teikia ją [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]] numatytoms savivaldybės institucijoms.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-0b00ae4873c78341dc839de7
 
 
-1. Šis įstatymas įsigalioja 2013 m. sausio 1 d. ^c09eca9882317383f42d99bf
+1. Šis įstatymas įsigalioja 2013 m. sausio 1 d. ^s-a3f841cc8ed65e1766df2c73
 
 
-2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki 2013 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^32cbc63196cd95fcc6ac3016
+2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki 2013 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-46ac2fa794981c43c15b436e
 
 
 

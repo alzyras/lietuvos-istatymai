@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8452021244AD"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 8 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 8 ir 14 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 8 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.8452021244AD.md"
 latest_sha256: "7cc6e2af3a1bfa7916cdfd8c52c61a45c20e2f0a7387bec942f1d75b2949dd25"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8452021244AD]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 8 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8452021244AD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8452021244AD
+- Ryšiai: [[Ryšiai/TAR.8452021244AD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 3 dalies pakeitimas ^s-cec3db8995281d6aa582c89b
 
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-b866d05a4b7709764b56ac7b
 
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-c4d32ea5386d2597a93339a1
 
 
 Šio įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.

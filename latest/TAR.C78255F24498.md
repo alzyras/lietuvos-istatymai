@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C78255F24498"
 pavadinimas: "Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-04-12"
 latest_path: "latest/TAR.C78255F24498.md"
 latest_sha256: "356ffaa5fb96e9704c78c0eeda84fb95ebaa70ce4a18ea1dcc3c07d86426ecb8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C78255F24498]]"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C78255F24498.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C78255F24498
+- Ryšiai: [[Ryšiai/TAR.C78255F24498|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-550a1982453209c86c5ac24b
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:

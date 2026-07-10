@@ -11,7 +11,7 @@
   "latest_revision": "2001-10-26",
   "latest_sha256": "906edbc179211e60974df52511c3f192e250ae4fdeb854a817a33a16c2120d67",
   "metadata_path": "latest/TAR.9ED7839A3CAD.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F044A228AE42"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-27"
 latest_path: "latest/TAR.F044A228AE42.md"
 latest_sha256: "54e71859c4f4dcf80907398780f3a451c05f9fb64989349237064397145b5a8d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F044A228AE42]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F044A228AE42.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F044A228AE42
+- Ryšiai: [[Ryšiai/TAR.F044A228AE42|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-32a9079307211715d72c9802
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. lapkričio 21 d. dekretą Nr. 1K-1596, ratifikuoja 2008 m. birželio 10 d. Bratislavoje pasirašytą Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus.

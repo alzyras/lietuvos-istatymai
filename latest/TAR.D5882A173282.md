@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D5882A173282"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 15, 38, 56 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 15, 38, 56 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 15, 38, 56 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-01"
 latest_path: "latest/TAR.D5882A173282.md"
 latest_sha256: "e3b1c314cd22fd2089e501329a13f7174ffcbf1f6ce420b36ec387e71996903e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D5882A173282]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 15, 38, 56 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D5882A173282.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D5882A173282
+- Ryšiai: [[Ryšiai/TAR.D5882A173282|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio papildymas
+### 1 straipsnis. 15 straipsnio papildymas ^s-eeeda665340319dd41d2a03c
 
 
 Papildyti 15 straipsnio antrąją dalį antruoju sakiniu ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 15 straipsnio antrąją dalį antruoju sakiniu ir šią dalį išdėst
 
 
 
-### 2 straipsnis. 38 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 38 straipsnio papildymas ir pakeitimas ^s-56d238e4617c3a64e6dc82ef
 
 
 Papildyti ir pakeisti 38 straipsnį – pirmojoje dalyje prieš žodį „valdybos“ įrašyti žodį „fondo“, papildyti straipsnį nauja antrąja dalimi, buvusias antrąją, trečiąją ir ketvirtąją dalis laikyti trečiąja, ketvirtąją ir penktąja dalimis, penktojoje dalyje prieš žodį „valdybos“ įrašyti žodį „fondo“ ir visą straipsnį išdėstyti taip:
@@ -66,29 +71,29 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius per Valstybin
 
 
 
-### 3 straipsnis. 56 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 56 straipsnio pakeitimas ir papildymas ^s-4d097aaeb46244183bdad044
 
 
-1. 56 straipsnio pirmosios dalies pirmajame sakinyje po žodžio „senatvės „ įrašyti žodžius „ar ištarnauto laiko“, po žodžio „pensija“ – žodžius „Lietuvos Respublikos ar personalinė pensija“ ir visą šią dalį išdėstyti taip: ^19f74c566eee0d1c6c89a278
+1. 56 straipsnio pirmosios dalies pirmajame sakinyje po žodžio „senatvės „ įrašyti žodžius „ar ištarnauto laiko“, po žodžio „pensija“ – žodžius „Lietuvos Respublikos ar personalinė pensija“ ir visą šią dalį išdėstyti taip: ^s-82f5bcdb091a493944cb6451
 
 
 „Asmenims, kuriems iki šio įstatymo įsigaliojimo nebuvo paskirta valstybinė socialinio draudimo senatvės ar ištarnauto laiko pensija, Lietuvos Respublikos ar personalinė pensija ir kurie dirbo šiame straipsnyje nustatytą laiką šiame straipsnyje nustatytomis ypatingomis sąlygomis, suteikiama teisė gauti kas mėnesį mokamas kompensacijas. Teisė gauti valstybinę socialinio draudimo pensiją tokiems asmenims suteikiama bendra šio įstatymo nustatyta tvarka.“
 
 
-2. 56 straipsnio septintąją dalį papildyti sakiniu ir šią dalį išdėstyti taip: ^e15c5267d875823c29492fa4
+2. 56 straipsnio septintąją dalį papildyti sakiniu ir šią dalį išdėstyti taip: ^s-4d5e45d1a309ecbff6e2c75a
 
 
 „Mėnesio kompensacijos dydis sudaro 150 procentų valstybinės socialinio draudimo bazinės pensijos. Asmenims, nurodytiems šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte, kompensacija gali būti mokama jų pasirinkto tvirto dydžio, tačiau ne mažiau kaip 50 procentų ir ne daugiau kaip 150 procentų valstybinės socialinio draudimo bazinės pensijos dydžio per mėnesį.“
 
 
-3. Pakeisti 56 straipsnio aštuntąją dalį ir ją išdėstyti taip: ^3599b0f09767577a379579f4
+3. Pakeisti 56 straipsnio aštuntąją dalį ir ją išdėstyti taip: ^s-08e2fe41182f0184a38b6674
 
 
 „Asmenims, išskyrus šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte nurodytuosius, turintiems teisę gauti visą kompensaciją arba jos dalį, kompensacija pradedama mokėti likus tiek mėnesių iki jiems sukaks šio įstatymo nustatytas senatvės pensijos amžius, už kiek mėnesių kompensaciją išmokėti priklauso. Asmenims, nurodytiems šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte, turintiems teisę gauti visą kompensaciją arba jos dalį, kompensacija gali būti pradėta mokėti anksčiau, jei jie nebedirba pagal pareigas, suteikusias teisę gauti kompensaciją. Kompensacija pradedama mokėti nuo jų pasirinktos datos pagal jų pareiškimą, paduotą Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui. Šiuo atveju bendras išmokėtinų mėnesio kompensacijų skaičius neturi viršyti šiam asmeniui priklausančių mėnesio kompensacijų skaičiaus.“
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-19fe48abbc12ac85ef2b1780
 
 
 Šis įstatymas įsigalioja nuo 1997 m. sausio 1 d.

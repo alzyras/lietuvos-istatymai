@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7779114725A7"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl televizijos be sienų bei šios konvencijos pataisų protokolo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl televizijos be sienų bei šios konvencijos pataisų protokolo ratifikavimo"
+  - "įstatymas dėl Europos konvencijos dėl televizijos be sienų bei šios konvencijos pataisų protokolo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-04-07"
 latest_path: "latest/TAR.7779114725A7.md"
 latest_sha256: "dc717eec32457b139234c12a984820898a431db117c3f58000a024b0ccd9358b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7779114725A7]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl televizijos be sienų bei šios konvencijos pataisų protokolo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7779114725A7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7779114725A7
+- Ryšiai: [[Ryšiai/TAR.7779114725A7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ir jos pataisų protokolo ratifikavimas
+### 1 straipsnis. Konvencijos ir jos pataisų protokolo ratifikavimas ^s-34095874a6164f9423505caf
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl televizijos be sienų bei šios konvencijos pataisų protokolą“, ratifikuoja 1989 m. Europos konvenciją dėl televizijos be sienų, Lietuvos Respublikos pasirašytą 1996 m. vasario 20 d., bei 1998 m. priimtą šios konvencijos pataisų protokolą.
 
 
 
-### 2 straipsnis. Konvencijos įgyvendinimas
+### 2 straipsnis. Konvencijos įgyvendinimas ^s-ec0acc28d1284c7ba216bbbc
 
 
 Lietuvos Respublikos Vyriausybė paskiria institucijas, atsakingas už Europos konvencijos dėl televizijos be sienų bei šios konvencijos pataisų protokolo nuostatų įgyvendinimą.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5731B4156027"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "užsienio valiutos Lietuvos Respublikoje įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-07-30"
 latest_path: "latest/TAR.5731B4156027.md"
 latest_sha256: "8f8d3757680f18c58e2808fd8262171e4c5daa062501a2bf29075cd8691eda66"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5731B4156027]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5731B4156027.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5731B4156027
+- Ryšiai: [[Ryšiai/TAR.5731B4156027|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-1ca60c45bc9d123127c8fb93
 
 
 5 straipsnyje vietoj žodžių „Užsienio kapitalo investicijų Lietuvos Respublikoje“ įrašyti žodžius „Lietuvos Respublikos investicijų“ ir straipsnį išdėstyti taip:
@@ -40,7 +45,7 @@ Vilnius
 „5 straipsnis. Kapitalo įvežimas ir išvežimas
 
 
-Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.“
+Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą nustato [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] ir [[latest/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]].“
 
 
 

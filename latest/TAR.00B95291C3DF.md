@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.00B95291C3DF"
 pavadinimas: "Lietuvos Respublikos šilumos ūkio įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šilumos ūkio įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "šilumos ūkio įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-11-01"
 latest_path: "latest/TAR.00B95291C3DF.md"
 latest_sha256: "74d97cbda4d8531b370218f552b96d54c639ae0b1d9b12149cba04d8be4f3496"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.00B95291C3DF]]"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.00B95291C3DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.00B95291C3DF
+- Ryšiai: [[Ryšiai/TAR.00B95291C3DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-b91a6d7b18a09a7ee9d5e460
 
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti jį taip:
@@ -44,13 +49,13 @@ Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti jį taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-afc0ae5097f63f04375b6c5f
 
 
-1. Šis įstatymas, išskyrus [[#^8819dd70c8d3ca539299329f|šio straipsnio 2 dalį]], įsigalioja 2011 m. lapkričio 1 d. ^a753f7b6b9bfbc5c66efc04b
+1. Šis įstatymas, išskyrus [[#^s-d0cce1356d05930f95af3007|šio straipsnio 2 dalį]], įsigalioja 2011 m. lapkričio 1 d. ^s-0bdcd5cfcbf7fba859d22097
 
 
-2. Vyriausybė ar jos įgaliota institucija iki 2011 m. lapkričio 1 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^8819dd70c8d3ca539299329f
+2. Vyriausybė ar jos įgaliota institucija iki 2011 m. lapkričio 1 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-d0cce1356d05930f95af3007
 
 
 

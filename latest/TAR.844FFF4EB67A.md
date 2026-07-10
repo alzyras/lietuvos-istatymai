@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.844FFF4EB67A"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-17"
 latest_path: "latest/TAR.844FFF4EB67A.md"
 latest_sha256: "51172b771d825e1dd71f83e40ad5b4c25c63e251dfa61b5e678fb6cf0e396423"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.844FFF4EB67A]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.844FFF4EB67A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.844FFF4EB67A
+- Ryšiai: [[Ryšiai/TAR.844FFF4EB67A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,17 +36,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio antrosios dalies pakeitimas
+### 1 straipsnis. 13 straipsnio antrosios dalies pakeitimas ^s-35366f8d48b16d3031e96b76
 
 
-Pakeisti [[#13 straipsnis. 60 straipsnio trečiosios dalies pakeitimas|13 straipsnio]] antrąją dalį ir ją išdėstyti taip:
+Pakeisti [[#^s-6dfd6c4f7c647d1a990f25bc|13 straipsnio]] antrąją dalį ir ją išdėstyti taip:
 
 
 „Aukščiausiajame Teisme yra Civilinių bylų skyrius, Baudžiamųjų bylų skyrius ir Aukščiausiojo Teismo senatas.“
 
 
 
-### 2 straipsnis. 17 straipsnio pakeitimas
+### 2 straipsnis. 17 straipsnio pakeitimas ^s-fac64441903cda1057bfd742
 
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
@@ -54,7 +59,7 @@ Apeliacinis teismas yra apeliacinė instancija byloms, kurias išnagrinėjo apyg
 
 
 
-### 3 straipsnis. 18 straipsnio pakeitimas
+### 3 straipsnis. 18 straipsnio pakeitimas ^s-27ae569b985371197eed5407
 
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
@@ -66,10 +71,10 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 Lietuvos Aukščiausiasis Teismas yra kasacinė instancija:
 
 
-1) Apeliacinio teismo sprendimams, nuosprendžiams ir nutartims, priimtiems apeliacinės instancijos teisme; ^a177cd58dcfbf880e186e4cd
+1) Apeliacinio teismo sprendimams, nuosprendžiams ir nutartims, priimtiems apeliacinės instancijos teisme; ^s-30d89c3a6bc3ceb27f5828a8
 
 
-2) apygardų teismų sprendimams, nuosprendžiams, nutartims ir nutarimams, priimtiems pirmosios instancijos teisme. ^3ab81f7a98cccf2dab44ebc0
+2) apygardų teismų sprendimams, nuosprendžiams, nutartims ir nutarimams, priimtiems pirmosios instancijos teisme. ^s-17b37709c6f4f881df1d7b6c
 
 
 Aukščiausiojo Teismo senatas pagal Aukščiausiojo Teismo pirmininko teikimą nagrinėja bylas dėl įsiteisėjusių Aukščiausiojo Teismo kolegijų nutarčių ar Apeliacinio teismo kasacinių nutarčių, jeigu Senato sprendimas būtų reikšmingas vienodos teismų praktikos taikant įstatymus formavimui.
@@ -78,22 +83,22 @@ Aukščiausiojo Teismo senatas pagal Aukščiausiojo Teismo pirmininko teikimą 
 Aukščiausiasis Teismas formuoja vienodą teismų praktiką taikant įstatymus. Jis:
 
 
-1) skelbia Aukščiausiojo Teismo senato sprendimus, priimtus pagal Aukščiausiojo Teismo pirmininko teikimą išnagrinėtose bylose, ir Senato aprobuotus Aukščiausiojo Teismo kolegijų ir kitų teismų sprendimus. Į Aukščiausiojo Teismo senato sprendimuose ir Senato aprobuotuose teismų sprendimuose esančius įstatymų taikymo išaiškinimus turi atsižvelgti teismai, valstybinės ir kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus; ^8c6f5c2fd36bb8ed17b84288
+1) skelbia Aukščiausiojo Teismo senato sprendimus, priimtus pagal Aukščiausiojo Teismo pirmininko teikimą išnagrinėtose bylose, ir Senato aprobuotus Aukščiausiojo Teismo kolegijų ir kitų teismų sprendimus. Į Aukščiausiojo Teismo senato sprendimuose ir Senato aprobuotuose teismų sprendimuose esančius įstatymų taikymo išaiškinimus turi atsižvelgti teismai, valstybinės ir kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus; ^s-4260bd6f95e59e601445958c
 
 
-2) analizuoja teismų praktiką įstatymų taikymo klausimais; ^d3308718bf0d102a28b0b897
+2) analizuoja teismų praktiką įstatymų taikymo klausimais; ^s-db014509bd4b9b2a646939d0
 
 
-3) susipažindamas su apygardų teismų ir Apeliacinio teismo darbu vietose bei kitais būdais konsultuoja teisėjus įstatymų taikymo klausimais. Aukščiausiasis Teismas gali konsultuoti ir apylinkių teismų teisėjus. ^a975eb5614fe29380c325966
+3) susipažindamas su apygardų teismų ir Apeliacinio teismo darbu vietose bei kitais būdais konsultuoja teisėjus įstatymų taikymo klausimais. Aukščiausiasis Teismas gali konsultuoti ir apylinkių teismų teisėjus. ^s-377d4553a51a0465eff52c4f
 
 
 Aukščiausiasis Teismas leidžia biuletenį, kuriame periodiškai skelbia:
 
 
-1) Aukščiausiojo Teismo senato sprendimus, priimtus pagal Aukščiausiojo Teismo pirmininko teikimą išnagrinėtose bylose, ir Senato aprobuotus teismų sprendimus; ^f45f97881e7561ce820a671e
+1) Aukščiausiojo Teismo senato sprendimus, priimtus pagal Aukščiausiojo Teismo pirmininko teikimą išnagrinėtose bylose, ir Senato aprobuotus teismų sprendimus; ^s-fc6ae1b442f2c8c8ca059f1d
 
 
-2) metodinę medžiagą apie įstatymų taikymo praktiką, kuriai pritarė Aukščiausiojo Teismo senatas. ^49e460d5c5a8505f387a3ede
+2) metodinę medžiagą apie įstatymų taikymo praktiką, kuriai pritarė Aukščiausiojo Teismo senatas. ^s-abc924a5e0c86e914086f911
 
 
 Biuletenis finansuojamas iš valstybės biudžeto ir iš gautų jį pardavus lėšų. Lietuvos Respublikos teismai ir teisėjai biuletenį gauna nemokamai.
@@ -103,7 +108,7 @@ Aukščiausiojo Teismo veiklą reglamentuoja šis įstatymas, įstatymu patvirti
 
 
 
-### 4 straipsnis. IV skirsnio pavadinimo pakeitimas
+### 4 straipsnis. IV skirsnio pavadinimo pakeitimas ^s-b441e773e5e5d8c68337fae4
 
 
 IV skirsnį pavadinti taip:
@@ -115,7 +120,7 @@ AUKščIAUSIOJO TEISMO SENATAS“
 
 
 
-### 5 straipsnis. 19 straipsnio pakeitimas
+### 5 straipsnis. 19 straipsnio pakeitimas ^s-b9a0d0d44d1ceca7a9a3cba0
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
@@ -134,7 +139,7 @@ Aukščiausiojo Teismo senatas iš savo narių renka Senato sekretorių.“
 
 
 
-### 6 straipsnis. 20 straipsnio pakeitimas
+### 6 straipsnis. 20 straipsnio pakeitimas ^s-26511ec4c3d346a42c97d8ed
 
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
@@ -146,32 +151,32 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 Aukščiausiojo Teismo senatas:
 
 
-1) nagrinėja bylas pagal Aukščiausiojo Teismo pirmininko teikimus. Į Senato sprendimuose esančius įstatymų taikymo išaiškinimus turi atsižvelgti teismai, valstybinės, kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus; ^1fc5f0f6da4fd88c844f7e99
+1) nagrinėja bylas pagal Aukščiausiojo Teismo pirmininko teikimus. Į Senato sprendimuose esančius įstatymų taikymo išaiškinimus turi atsižvelgti teismai, valstybinės, kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus; ^s-4d3600a7b7cfde1059b83204
 
 
-2) aprobuoja teismų sprendimus, į kurių išaiškinimus turi atsižvelgti teismai, valstybinės, kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus; ^fa730fc2d588588e14ddd1e0
+2) aprobuoja teismų sprendimus, į kurių išaiškinimus turi atsižvelgti teismai, valstybinės, kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus; ^s-3fa8d0f19024a83ef471bfe8
 
 
-3) nagrinėja įstatymų taikymo teismų praktikoje apibendrinimo rezultatus ir juos skelbia biuletenyje; ^349135461cd5ad43ec85459e
+3) nagrinėja įstatymų taikymo teismų praktikoje apibendrinimo rezultatus ir juos skelbia biuletenyje; ^s-b9fc4a31f7b6a969003a1dba
 
 
-4) svarsto Aukščiausiojo Teismo pirmininko pasiūlytas šio Teismo skyrių pirmininkų kandidatūras; ^0d7ac4a62089af32419cdcae
+4) svarsto Aukščiausiojo Teismo pirmininko pasiūlytas šio Teismo skyrių pirmininkų kandidatūras; ^s-20257c893733e85accab1c34
 
 
-5) skiria Aukščiausiojo Teismo teisėjų egzaminų komisiją ir tvirtina šios komisijos nuostatus; ^3b2639aab7001307eb950165
+5) skiria Aukščiausiojo Teismo teisėjų egzaminų komisiją ir tvirtina šios komisijos nuostatus; ^s-3e919c4766ee895098ec732a
 
 
-6) renka Aukščiausiojo Teismo teisėjų garbės teismą ir tvirtina Aukščiausiojo Teismo teisėjų garbės teismo nuostatus; ^65232d5e6294cd798c90149c
+6) renka Aukščiausiojo Teismo teisėjų garbės teismą ir tvirtina Aukščiausiojo Teismo teisėjų garbės teismo nuostatus; ^s-1750409d1a321c0299fc1628
 
 
-7) nagrinėja skundus dėl teisėjų egzaminų komisijų išvadų ir Teisėjų garbės teismo sprendimų. Aukščiausiojo Teismo senato nutarimai šiais klausimais yra galutiniai. ^b4264094db4e40fe2815628a
+7) nagrinėja skundus dėl teisėjų egzaminų komisijų išvadų ir Teisėjų garbės teismo sprendimų. Aukščiausiojo Teismo senato nutarimai šiais klausimais yra galutiniai. ^s-b7fea7781941bf4d70ac1aa8
 
 
 Teisingumo ministras, generalinis prokuroras, apygardų teismų ir Apeliacinio teismo pirmininkai turi teisę siūlyti Aukščiausiojo Teismo senato pirmininkui nagrinėti įstatymų taikymo teismų praktikoje klausimus, dalyvauti Senato posėdžiuose ir ten reikšti nuomonę svarstomais klausimais.“
 
 
 
-### 7 straipsnis. 21 straipsnio pakeitimas
+### 7 straipsnis. 21 straipsnio pakeitimas ^s-3b3b264b21056f91f42699cd
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -192,11 +197,11 @@ Aukščiausiojo Teismo senato posėdis yra teisėtas, jeigu jame dalyvauja ne ma
 Aukščiausiojo Teismo senato nutarimus pasirašo pirmininkas ir sekretorius.
 
 
-Aukščiausiojo Teismo senato teismo posėdžio, nagrinėjant bylas pagal Aukščiausiojo Teismo pirmininko teikimą, procesą nustato Lietuvos Respublikos baudžiamojo proceso kodekso ir Civilinio proceso kodekso taisyklės.“
+Aukščiausiojo Teismo senato teismo posėdžio, nagrinėjant bylas pagal Aukščiausiojo Teismo pirmininko teikimą, procesą nustato [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] ir Civilinio proceso kodekso taisyklės.“
 
 
 
-### 8 straipsnis. 27 straipsnio pakeitimas
+### 8 straipsnis. 27 straipsnio pakeitimas ^s-b7f8d8dc587a85ec5294769b
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
@@ -212,7 +217,7 @@ Aukščiausiojo Teismo teisėjų egzaminų komisijos nuostatus tvirtina Aukšči
 
 
 
-### 9 straipsnis. 29 straipsnio antrosios dalies pakeitimas
+### 9 straipsnis. 29 straipsnio antrosios dalies pakeitimas ^s-2b53fc23ab9eae1a33641384
 
 
 Pakeisti 29 straipsnio antrąją dalį ir ją išdėstyti taip:
@@ -222,7 +227,7 @@ Pakeisti 29 straipsnio antrąją dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 36 straipsnio antrosios ir trečiosios dalių pakeitimas
+### 10 straipsnis. 36 straipsnio antrosios ir trečiosios dalių pakeitimas ^s-99948ef3a74d8eb2bd0127db
 
 
 Pakeisti 36 straipsnio antrąją ir trečiąją dalis ir jas išdėstyti taip:
@@ -235,7 +240,7 @@ Jeigu bylos nagrinėjimo metu teisėjui sueina įstatymo nustatytas amžius, jo 
 
 
 
-### 11 straipsnis. 42 straipsnio pakeitimas
+### 11 straipsnis. 42 straipsnio pakeitimas ^s-ad8c1bced427e0f10a3d4702
 
 
 Pakeisti 42 straipsnį ir jį išdėstyti taip:
@@ -248,7 +253,7 @@ Aukščiausiojo Teismo pirmininkas paskirsto teisėjus į šio teismo skyrius, �
 
 
 
-### 12 straipsnis. 58 straipsnio ketvirtosios dalies pakeitimas
+### 12 straipsnis. 58 straipsnio ketvirtosios dalies pakeitimas ^s-863cb087b29de94e78996a20
 
 
 Pakeisti 58 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
@@ -258,7 +263,7 @@ Pakeisti 58 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
 
 
 
-### 13 straipsnis. 60 straipsnio trečiosios dalies pakeitimas
+### 13 straipsnis. 60 straipsnio trečiosios dalies pakeitimas ^s-6dfd6c4f7c647d1a990f25bc
 
 
 Pakeisti 60 straipsnio trečiąją dalį ir ją išdėstyti taip:
@@ -268,7 +273,7 @@ Pakeisti 60 straipsnio trečiąją dalį ir ją išdėstyti taip:
 
 
 
-### 14 straipsnis. 62 straipsnio pakeitimas ir papildymas
+### 14 straipsnis. 62 straipsnio pakeitimas ir papildymas ^s-6ab802cdc696530e143faefd
 
 
 Pakeisti 62 straipsnio pirmąją dalį, papildyti nauja antrąja dalimi ir visą straipsnį išdėstyti taip:

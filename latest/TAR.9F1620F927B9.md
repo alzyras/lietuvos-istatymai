@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9F1620F927B9"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 1, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo ir 1 priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 1, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo ir 1 priedėlio pakeitimo įstatymas"
+  - "mokesčio už aplinkos teršimą įstatymo 1, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo ir 1 priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-02-12"
 latest_path: "latest/TAR.9F1620F927B9.md"
 latest_sha256: "8755b8000519c5f6674aa7f08fb74dfab9dec972a2d20f0134fff9b5405eddde"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9F1620F927B9]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 1, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo ir 1 priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9F1620F927B9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9F1620F927B9
+- Ryšiai: [[Ryšiai/TAR.9F1620F927B9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-d00771f06ed03b01c3830fd7
 
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-1d72ca2ca03d135af97b85ad
 
 
 4 straipsnio 1 dalyje po žodžių „gamtos išteklių naudojimo“ įrašyti žodžius „arba taršos integruotos prevencijos ir kontrolės“, vietoj žodžio „nurodytais“ įrašyti žodį „nustatytais“ ir šią dalį išdėstyti taip:
@@ -53,39 +58,39 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 7 straipsnio pakeitimas
+### 3 straipsnis. 7 straipsnio pakeitimas ^s-0909fe4a3738acb2760d96b5
 
 
-Pakeisti [[#7 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei|7 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#7 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei|7 straipsnis]]. Mokestinis laikotarpis
-
-
-1. Mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių mokestinis laikotarpis yra: ^0abfb34f09fe406d311cc0da
-
-
-1) kalendorinis ketvirtis – jei už praėjusius metus mokėtina mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių suma buvo lygi 10 tūkstančių litų arba didesnė; ^e7c0b23fa63df35ad610f3d4
-
-
-2) kalendorinis pusmetis – jei už praėjusius metus mokėtina mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių suma buvo mažesnė kaip 10 tūkstančių litų. ^7abb8566d32f6b15a3649392
-
-
-2. Mokesčio už aplinkos teršimą iš mobilių taršos šaltinių mokestinis laikotarpis yra kalendorinis pusmetis. ^7f42e2273da457d6100be05b
-
-
-3. Mokesčio už aplinkos teršimą gaminių ar pakuotės atliekomis mokestinis laikotarpis yra kalendoriniai metai. ^d8601e653d9983dfda6abe9a
-
-
-4. Mokestis už aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą deklaracija pateikiama ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje mokesčių mokėtojas yra įregistruotas mokesčių mokėtojų registre. ^74063473d0beda708fb1435b
-
-
-5. Pradedantys verstis savo veikla fiziniai ir juridiniai asmenys, kurie teršia iš stacionarių ir (ar) mobilių taršos šaltinių, mokestį už aplinkos teršimą pirmaisiais mokėjimo metais moka pasibaigus kalendoriniam pusmečiui.“ ^27c45e2be84a5a307b5a3b91
+Pakeisti [[#^s-43628f1fdb35dd702ba3d748|7 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 9 straipsnio papildymas 5 dalimi
+„[[#^s-43628f1fdb35dd702ba3d748|7 straipsnis]]. Mokestinis laikotarpis
+
+
+1. Mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių mokestinis laikotarpis yra: ^s-e06794d07c0d0f0968096a20
+
+
+1) kalendorinis ketvirtis – jei už praėjusius metus mokėtina mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių suma buvo lygi 10 tūkstančių litų arba didesnė; ^s-7fe5d3f4ca7d1e37ead1f3df
+
+
+2) kalendorinis pusmetis – jei už praėjusius metus mokėtina mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių suma buvo mažesnė kaip 10 tūkstančių litų. ^s-7aaed3041e562fadcdfab660
+
+
+2. Mokesčio už aplinkos teršimą iš mobilių taršos šaltinių mokestinis laikotarpis yra kalendorinis pusmetis. ^s-40856d6b2295b7f984aa113c
+
+
+3. Mokesčio už aplinkos teršimą gaminių ar pakuotės atliekomis mokestinis laikotarpis yra kalendoriniai metai. ^s-92272613d9104063e97717dd
+
+
+4. Mokestis už aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą deklaracija pateikiama ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje mokesčių mokėtojas yra įregistruotas mokesčių mokėtojų registre. ^s-e1e7f10407e09819227c2328
+
+
+5. Pradedantys verstis savo veikla fiziniai ir juridiniai asmenys, kurie teršia iš stacionarių ir (ar) mobilių taršos šaltinių, mokestį už aplinkos teršimą pirmaisiais mokėjimo metais moka pasibaigus kalendoriniam pusmečiui.“ ^s-bf8e6842d036736dcd4176e8
+
+
+
+### 4 straipsnis. 9 straipsnio papildymas 5 dalimi ^s-23981473c9b3bbd30bf1ebe8
 
 
 Papildyti 9 straipsnį 5 dalimi:
@@ -94,24 +99,24 @@ Papildyti 9 straipsnį 5 dalimi:
 „5. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos, taip pat Aplinkos ministerija ar jos įgaliotos institucijos keičiasi mokesčiui už aplinkos teršimą administruoti reikalinga informacija. Keitimosi mokesčio už aplinkos teršimą administravimui reikalinga informacija tvarką nustato Aplinkos ministerija, suderinusi su Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos. „
 
 
-### 5 straipsnis.         11 straipsnio 1 ir 3 dalių pakeitimas ir 2 dalies pripažinimas netekusia galios
+### 5 straipsnis.         11 straipsnio 1 ir 3 dalių pakeitimas ir 2 dalies pripažinimas netekusia galios ^s-e0792e4f1fa1a50f56c0850b
 
 
-1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip: ^c27ebb7cf3195bd5fce7e803
+1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip: ^s-49ba54a88d81f2159fa38b82
 „1. Mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių tarifai nustatyti šio Įstatymo 1 priedėlyje.“
 
 
-2. 11 straipsnio 2 dalį pripažinti netekusia galios. ^bdee59cc18817aa52eb1e18c
+2. 11 straipsnio 2 dalį pripažinti netekusia galios. ^s-a15c654d80973432caf90479
 
 
-3. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^f74984d39dfb844b18501a81
+3. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^s-48033b5ecdf4f4b98902835f
 
 
 „3. Mokesčio už aplinkos teršimą tarifų maksimalus galiojimo terminas neribojamas, bet yra ne trumpesnis kaip vieneri metai.“
 
 
 
-### 6 straipsnis. 1 priedėlio pakeitimas
+### 6 straipsnis. 1 priedėlio pakeitimas ^s-2c549a141369679a18c0d82c
 
 
 Pakeisti 1 priedėlį ir jį išdėstyti taip:
@@ -234,17 +239,17 @@ asbesto turinčias kietąsias daleles.“
 
 
 
-### 7 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+### 7 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ^s-43628f1fdb35dd702ba3d748
 
 
-Lietuvos Respublikos Vyriausybė iki 2009 m. sausio 1 d. parengia ir pateikia Lietuvos Respublikos Seimui Mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymo projektą dėl mobilių taršos šaltinių apmokestinimo.
+Lietuvos Respublikos Vyriausybė iki 2009 m. sausio 1 d. parengia ir pateikia Lietuvos Respublikos Seimui [[latest/TAR.7E966DA54042|Mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymo]] projektą dėl mobilių taršos šaltinių apmokestinimo.
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-4d3adc78a801301c556edb4a
 
 
-Šio įstatymo [[#^c27ebb7cf3195bd5fce7e803|5 straipsnio 1 dalis]] ir [[#6 straipsnis. 1 priedėlio pakeitimas|6 straipsnis]] įsigalioja 2010 m. sausio 1 d.
+Šio įstatymo [[#^s-49ba54a88d81f2159fa38b82|5 straipsnio 1 dalis]] ir [[#^s-2c549a141369679a18c0d82c|6 straipsnis]] įsigalioja 2010 m. sausio 1 d.
 
 
 

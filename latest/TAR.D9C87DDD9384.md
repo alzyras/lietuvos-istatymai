@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D9C87DDD9384"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl oro susisiekimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl oro susisiekimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl oro susisiekimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-05-19"
 latest_path: "latest/TAR.D9C87DDD9384.md"
 latest_sha256: "05ebe28d579a06b7c74223047fbeb0906e1e97da7ddde5a96051739507bb6db9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D9C87DDD9384]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl oro susisiekimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D9C87DDD9384.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D9C87DDD9384
+- Ryšiai: [[Ryšiai/TAR.D9C87DDD9384|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-bd78c261701071b953dc95d9
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 11 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl oro susisiekimo“, ratifikuoja 1997 m. vasario 17 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl oro susisiekimo.

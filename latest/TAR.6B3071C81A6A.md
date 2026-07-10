@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B3071C81A6A"
 pavadinimas: "Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas"
+  - "mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.6B3071C81A6A.md"
 latest_sha256: "0802ae4c55d30672ab46d0c2ac4f9bb7d4b0443bec62b1e6a9071c8e3963413c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B3071C81A6A]]"
 ---
 # Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B3071C81A6A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B3071C81A6A
+- Ryšiai: [[Ryšiai/TAR.6B3071C81A6A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 5 dalies pakeitimas ^s-ce21b28098f92fa972dd6437
 
 
 12 straipsnio 5 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 32 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 32 straipsnio 3 dalies pakeitimas ^s-8c2a611ce382e11d5648998a
 
 
 32 straipsnio 3 dalyje vietoj žodžių „leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ įrašyti žodžius „priežiūros institucijos interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 33 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 33 straipsnio 5 dalies pakeitimas ^s-7c85fe547a3c769eab9e727f
 
 
 33 straipsnio 5 dalyje vietoj žodžių „leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ įrašyti žodžius „priežiūros institucijos interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -63,7 +68,7 @@ Vilnius
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-5126cade1bbc056c543d7926
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

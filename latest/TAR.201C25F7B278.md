@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.201C25F7B278"
 pavadinimas: "Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl bendros aukštojo mokslo erdvės sukūrimo Baltijos šalyse ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl bendros aukštojo mokslo erdvės sukūrimo Baltijos šalyse ratifikavimo įstatymas"
+  - "Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl bendros aukštojo mokslo erdvės sukūrimo Baltijos šalyse ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-24"
 latest_path: "latest/TAR.201C25F7B278.md"
 latest_sha256: "62cabeb998c565df293110fd3bb4de27e38bb712f8a46fb6ea99f25a0505591d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.201C25F7B278]]"
 ---
 # Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutarties dėl bendros aukštojo mokslo erdvės sukūrimo Baltijos šalyse ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.201C25F7B278.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.201C25F7B278
+- Ryšiai: [[Ryšiai/TAR.201C25F7B278|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-b0ecd1094b7e2a415c7cffe9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. balandžio 3 d. dekretą Nr. 1267, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl bendros aukštojo mokslo erdvės sukūrimo Baltijos šalyse, pasirašytą 2000 m. gruodžio 8 d. Kretingoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. balandžio 3 d. dekretą Nr. 1267, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl bendros aukštojo mokslo erdvės sukūrimo Baltijos šalyse, pasirašytą 2000 m. gruodžio 8 d. Kretingoje.
 
 
 

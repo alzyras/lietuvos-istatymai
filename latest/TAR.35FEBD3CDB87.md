@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.35FEBD3CDB87"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 6, 8, 9, 11, 17, 20, 21, 23, 24, 29, 30, 32 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 6, 8, 9, 11, 17, 20, 21, 23, 24, 29, 30, 32 straipsnių pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 2, 4, 6, 8, 9, 11, 17, 20, 21, 23, 24, 29, 30, 32 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.35FEBD3CDB87.md"
 latest_sha256: "36983881c30be6499b74cf4075855477f3776c8af5de01ce2d3c52a450a70ef5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.35FEBD3CDB87]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 6, 8, 9, 11, 17, 20, 21, 23, 24, 29, 30, 32 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.35FEBD3CDB87.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.35FEBD3CDB87
+- Ryšiai: [[Ryšiai/TAR.35FEBD3CDB87|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,39 +36,39 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-c2bd8ad48ea240b4ad97ca60
 
 
-1. [[#2 straipsnis. 4 straipsnio 1 dalies 2 punkto ir 3 dalies pakeitimas|2 straipsnio]] 8 pastraipoje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią pastraipą išdėstyti taip: ^6040631971036e0e1d840bd3
+1. [[#^s-2c69e798e9c767981e0c2566|2 straipsnio]] 8 pastraipoje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią pastraipą išdėstyti taip: ^s-a0e938a9fba2439b86f9b3f4
 
 
 „planavimo organizatoriai – Vyriausybė, valstybės valdymo institucijos, apskrities viršininkas, savivaldybės, fiziniai ir juridiniai asmenys, organizuojantys teritorijų planavimo dokumentų rengimą, derinimą, tvirtinimą atitinkamų rūšių teritorijų planavimo dokumentų rengimo taisyklėse nustatyta tvarka;“.
 
 
-2. [[#2 straipsnis. 4 straipsnio 1 dalies 2 punkto ir 3 dalies pakeitimas|2 straipsnio]] 10 pastraipoje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią pastraipą išdėstyti taip: ^49dd505169fe1ac2dee94609
+2. [[#^s-2c69e798e9c767981e0c2566|2 straipsnio]] 10 pastraipoje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią pastraipą išdėstyti taip: ^s-ecf4113b88970429d591e81b
 
 
 „planų vykdytojai – Vyriausybė, apskrities viršininkas, savivaldybės, fiziniai ir juridiniai asmenys, žemės savininkai ir naudotojai, plėtojantys ūkinę ir kitokią veiklą suplanuotoje teritorijoje, naudojantys žemę, gamtos ir rekreacijos išteklius;“.
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies 2 punkto ir 3 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies 2 punkto ir 3 dalies pakeitimas ^s-2c69e798e9c767981e0c2566
 
 
-1. 4 straipsnio 1 dalies 2 punkte vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šį punktą išdėstyti taip: ^a7e04d28615dbfd023fe2462
+1. 4 straipsnio 1 dalies 2 punkte vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šį punktą išdėstyti taip: ^s-10e0f3e26412790e1d3a7af6
 
 
 „2) apskrities (teritorijų planavimui ir jo dokumentams, kuriuos tvirtina apskrities viršininkas arba valstybės valdymo institucijos);“.
 
 
-2. 4 straipsnio 3 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip: ^cf8238e08699b7904aa77c5f
+2. 4 straipsnio 3 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip: ^s-9fbae066f8c66dd5b90e2dba
 
 
 „3. Planavimą organizuoja Vyriausybė, valstybės valdymo institucijos, apskričių viršininkai, savivaldybių valdybos (merai), fiziniai ir juridiniai asmenys pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją.“
 
 
 
-### 3 straipsnis. 6 straipsnio 2 punkto pakeitimas
+### 3 straipsnis. 6 straipsnio 2 punkto pakeitimas ^s-1b827bdc566c2c6764e6c16a
 
 
 6 straipsnio 2 punkte vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šį punktą išdėstyti taip:
@@ -73,7 +78,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 8 straipsnio 1 dalies 3 punkto pakeitimas
+### 4 straipsnis. 8 straipsnio 1 dalies 3 punkto pakeitimas ^s-c240f67d243c71382c6d3f7f
 
 
 8 straipsnio 1 dalies 3 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
@@ -83,13 +88,13 @@ Vilnius
 
 
 
-### 5 straipsnis. 9 straipsnio 2, 4, 6 ir 7 dalių pakeitimas
+### 5 straipsnis. 9 straipsnio 2, 4, 6 ir 7 dalių pakeitimas ^s-abac2e1998dc3934cf3d6f93
 
 
-[[#9 straipsnis. 21 straipsnio 5 dalies pakeitimas|9 straipsnio]] 2, 4, 6 ir [[#^5883eb740633afc1436499d1|7 dalyse]] vietoj žodžių „apskrities valdytojo“, „apskričių valdytojų“, „apskrities valdytojas“, „apskričių valdytojai“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskričių viršininkų“, „apskrities viršininkas“, „apskričių viršininkai“ ir šias dalis išdėstyti taip:
+[[#^s-19b5769646913702b4722fd4|9 straipsnio]] 2, 4, 6 ir [[#^s-2646c6136db2442985ab8353|7 dalyse]] vietoj žodžių „apskrities valdytojo“, „apskričių valdytojų“, „apskrities valdytojas“, „apskričių valdytojai“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskričių viršininkų“, „apskrities viršininkas“, „apskričių viršininkai“ ir šias dalis išdėstyti taip:
 
 
-„2. Bendrųjų planų prognozė rengiama ne trumpesniam kaip 20 metų laikotarpiui. Bendrieji planai neterminuoti. Jie gali būti keičiami, papildomi Vyriausybės, apskrities viršininko ar savivaldybės valdybos (mero) teikimu [[#8 straipsnis. 20 straipsnio 12 dalies pakeitimas|8 straipsnio]] pirmosios dalies 3 punkte, šio straipsnio antrojoje dalyje, 23 straipsnio ketvirtojoje dalyje nustatyta tvarka.“
+„2. Bendrųjų planų prognozė rengiama ne trumpesniam kaip 20 metų laikotarpiui. Bendrieji planai neterminuoti. Jie gali būti keičiami, papildomi Vyriausybės, apskrities viršininko ar savivaldybės valdybos (mero) teikimu [[#^s-4cbd026b7887cef9a447f485|8 straipsnio]] pirmosios dalies 3 punkte, šio straipsnio antrojoje dalyje, 23 straipsnio ketvirtojoje dalyje nustatyta tvarka.“
 
 
 „4. Bendrasis apskrities teritorijos planas rengiamas apskrities viršininko arba kelių apskričių viršininkų bendru sprendimu. Vienos apskrities teritorijos plano rengimą organizuoja apskrities viršininkas, kelių apskričių - vienas iš apskričių viršininkų tarpusavio susitarimu. Apskrities viršininkas bendrąjį planą teikia tvirtinti Vyriausybei. Vyriausybė per tris mėnesius nuo pateikimo dienos patvirtina bendrąjį planą ir viešai paskelbia jo galiojimo pradžią arba jo nepatvirtina, bet priima sprendimą dėl atskirų sprendinių įsigaliojimo ir tolesnės darbų tvarkos.“
@@ -98,11 +103,11 @@ Vilnius
 „6. Bendrojo Lietuvos Respublikos teritorijos plano sprendiniai turi būti suderinti su galiojančių bendrųjų apskrities planų sprendiniais šio įstatymo 23 straipsnyje ir šio straipsnio pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka. Jeigu apskrities ar keleto apskričių bendrieji planai neparengti, tai valstybės bendrojo plano sprendiniai turi būti derinami su Lietuvos Respublikos ir apskrities lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems raštu turi pritarti apskričių viršininkai ir nurodytose taisyklėse išvardytos valstybės institucijos.
 
 
-7. Apskrities ir savivaldybės teritorijų bendrųjų planų sprendiniai turi būti suderinti su kaimyninių teritorijų ir aukštesnio bei žemesnio lygmens galiojančių bendrųjų planų sprendiniais šio įstatymo 23 straipsnyje ir šio straipsnio pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka ir neprieštarauti aukštesnio lygmens bendrųjų planų sprendiniams. Jei nėra bendrojo Lietuvos Respublikos teritorijos plano, apskrities plano sprendiniai turi būti derinami su Lietuvos Respublikos lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu valstybės institucijos šio straipsnio pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka. Jei nėra bendrojo apskrities teritorijos plano, bendrojo savivaldybės teritorijos plano, sprendiniai turi būti derinami su apskrities lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu apskrities viršininkas. Jei nėra savivaldybės teritorijos bendrojo plano, apskrities teritorijos bendrojo plano sprendiniai turi būti derinami su savivaldybės lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu savivaldybės valdyba (meras).“ ^5883eb740633afc1436499d1
+7. Apskrities ir savivaldybės teritorijų bendrųjų planų sprendiniai turi būti suderinti su kaimyninių teritorijų ir aukštesnio bei žemesnio lygmens galiojančių bendrųjų planų sprendiniais šio įstatymo 23 straipsnyje ir šio straipsnio pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka ir neprieštarauti aukštesnio lygmens bendrųjų planų sprendiniams. Jei nėra bendrojo Lietuvos Respublikos teritorijos plano, apskrities plano sprendiniai turi būti derinami su Lietuvos Respublikos lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu valstybės institucijos šio straipsnio pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka. Jei nėra bendrojo apskrities teritorijos plano, bendrojo savivaldybės teritorijos plano, sprendiniai turi būti derinami su apskrities lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu apskrities viršininkas. Jei nėra savivaldybės teritorijos bendrojo plano, apskrities teritorijos bendrojo plano sprendiniai turi būti derinami su savivaldybės lygmens galiojančiais specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu savivaldybės valdyba (meras).“ ^s-2646c6136db2442985ab8353
 
 
 
-### 6 straipsnis. 11 straipsnio 2 punkto pakeitimas
+### 6 straipsnis. 11 straipsnio 2 punkto pakeitimas ^s-4b07ce944f03fda7ddac43c9
 
 
 11 straipsnio 2 punkte vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šį punktą išdėstyti taip:
@@ -112,7 +117,7 @@ Vilnius
 
 
 
-### 7 straipsnis. 17 straipsnio 3 dalies pakeitimas
+### 7 straipsnis. 17 straipsnio 3 dalies pakeitimas ^s-1f1e26e0f13b678a6f142135
 
 
 17 straipsnio 3 dalyje vietoj žodžių „apskrities valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip:
@@ -122,7 +127,7 @@ Vilnius
 
 
 
-### 8 straipsnis. 20 straipsnio 12 dalies pakeitimas
+### 8 straipsnis. 20 straipsnio 12 dalies pakeitimas ^s-4cbd026b7887cef9a447f485
 
 
 20 straipsnio 12 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
@@ -132,7 +137,7 @@ Vilnius
 
 
 
-### 9 straipsnis. 21 straipsnio 5 dalies pakeitimas
+### 9 straipsnis. 21 straipsnio 5 dalies pakeitimas ^s-19b5769646913702b4722fd4
 
 
 21 straipsnio 5 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
@@ -142,7 +147,7 @@ Vilnius
 
 
 
-### 10 straipsnis. 23 straipsnio 3 dalies 2 punkto pakeitimas
+### 10 straipsnis. 23 straipsnio 3 dalies 2 punkto pakeitimas ^s-0988252800d4f0b7858336a8
 
 
 23 straipsnio 3 dalies 2 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
@@ -152,7 +157,7 @@ Vilnius
 
 
 
-### 11 straipsnis. 24 straipsnio 4 dalies pakeitimas
+### 11 straipsnis. 24 straipsnio 4 dalies pakeitimas ^s-e90a8943f9f56afe28c8573d
 
 
 24 straipsnio 4 dalyje vietoj žodžių „apskrities - jos valdytojas“ įrašyti žodžius „apskrities - jos viršininkas“ ir šią dalį išdėstyti taip:
@@ -162,7 +167,7 @@ Vilnius
 
 
 
-### 12 straipsnis. 29 straipsnio 2 dalies pakeitimas
+### 12 straipsnis. 29 straipsnio 2 dalies pakeitimas ^s-239151bc487e07dc37ac37a9
 
 
 29 straipsnio 2 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
@@ -172,7 +177,7 @@ Vilnius
 
 
 
-### 13 straipsnis. 30 straipsnio 2 dalies 3 punkto pakeitimas
+### 13 straipsnis. 30 straipsnio 2 dalies 3 punkto pakeitimas ^s-eb5a095fba0455dc91b091b7
 
 
 30 straipsnio 2 dalies 3 punkte vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šį punktą išdėstyti taip:
@@ -182,7 +187,7 @@ Vilnius
 
 
 
-### 14 straipsnis. 32 straipsnio 4 dalies pakeitimas
+### 14 straipsnis. 32 straipsnio 4 dalies pakeitimas ^s-90a3ef16f172aa6119c9c0ac
 
 
 32 straipsnio 4 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:

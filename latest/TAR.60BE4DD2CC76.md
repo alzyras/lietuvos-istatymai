@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.60BE4DD2CC76"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-25"
 latest_path: "latest/TAR.60BE4DD2CC76.md"
 latest_sha256: "902c0c3a40b39680a4fe3867fad6d2d258b8a354427d4673f69f47d79f52f5e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.60BE4DD2CC76]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.60BE4DD2CC76.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.60BE4DD2CC76
+- Ryšiai: [[Ryšiai/TAR.60BE4DD2CC76|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,52 +36,52 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas ^s-6d4fd2462a0ba5e05c345eac
 
 
-29 straipsnio 1 dalies 12 punktą pripažinti netekusiu galios, šio straipsnio 1 dalies 13, 14 punktus laikyti atitinkamai 12, [[#^f89eeb8ddb68785cce62d1cc|13 punktais]] ir šią dalį išdėstyti taip:
+29 straipsnio 1 dalies 12 punktą pripažinti netekusiu galios, šio straipsnio 1 dalies 13, 14 punktus laikyti atitinkamai 12, [[#^s-3159df5005a2b92bacc3b132|13 punktais]] ir šią dalį išdėstyti taip:
 
 
 „1. Lietuvos Respublikoje yra šios ministerijos:
 
 
-1) Aplinkos ministerija; ^f242ab540440b9c95925393c
+1) Aplinkos ministerija; ^s-0c4104a3358bf53e270e13b1
 
 
-2) Finansų ministerija; ^9af47dd746f683c64e2c2cc5
+2) Finansų ministerija; ^s-9e352a684713a5f1797be835
 
 
-3) Krašto apsaugos ministerija; ^ffc242327e9438fc4df257aa
+3) Krašto apsaugos ministerija; ^s-c3770cbb3b73dde2aa079c42
 
 
-4) Kultūros ministerija; ^05dbf1301f7c0c9ae30c0b2d
+4) Kultūros ministerija; ^s-7436aa1ae1fa5622ed18fe9b
 
 
-5) Socialinės apsaugos ir darbo ministerija; ^ed81ed490ad7671bfdc6b35f
+5) Socialinės apsaugos ir darbo ministerija; ^s-2072c584136b4e3601aba399
 
 
-6) Susisiekimo ministerija; ^c17bf9e34da82b378389f0a8
+6) Susisiekimo ministerija; ^s-8876cccc1097d599fe2b6f5b
 
 
-7) Sveikatos apsaugos ministerija; ^56e7d1c32c9140f1ee1ca6d0
+7) Sveikatos apsaugos ministerija; ^s-d917765bfad906e457357244
 
 
-8) Švietimo ir mokslo ministerija; ^dd7c52a40c891903d7c5f478
+8) Švietimo ir mokslo ministerija; ^s-e55c533f3ea8ba3ef8245fa2
 
 
-9) Teisingumo ministerija; ^ecc2b9ad9c389832bcd505eb
+9) Teisingumo ministerija; ^s-c2fa531fbdf49bf4abb7f415
 
 
-10) Ūkio ministerija; ^42c49be84663a3239636efd2
+10) Ūkio ministerija; ^s-ff9f82aac9c44058362c80bc
 
 
-11) Užsienio reikalų ministerija; ^494f81aca125cb2c9ad2f297
+11) Užsienio reikalų ministerija; ^s-872b5cc7be3e60f0ac518e89
 
 
-12) Vidaus reikalų ministerija; ^a9255aec73a5de8cc988a117
+12) Vidaus reikalų ministerija; ^s-3a943f058ca8357f64d2fb63
 
 
-13) Žemės ūkio ministerija.“ ^f89eeb8ddb68785cce62d1cc
+13) Žemės ūkio ministerija.“ ^s-3159df5005a2b92bacc3b132
 
 
 

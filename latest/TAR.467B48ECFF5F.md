@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.467B48ECFF5F"
 pavadinimas: "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas"
+  - "teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-05-01"
 latest_path: "latest/TAR.467B48ECFF5F.md"
 latest_sha256: "deebe0dc8be6b45f14c62029c81fe7aabc0b4530e31e744067671698c9ee802f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.467B48ECFF5F]]"
 ---
 # Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.467B48ECFF5F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.467B48ECFF5F
+- Ryšiai: [[Ryšiai/TAR.467B48ECFF5F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio pakeitimas
+### 1 straipsnis. Įstatymo priedėlio pakeitimas ^s-7d851246eae43a2dbe3ac046
 
 
 Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
@@ -41,12 +46,12 @@ Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-teisėjų atlyginimų įstatymo
+[[latest/TAR.AB0DC76B69A0|teisėjų atlyginimų įstatymo]]
 priedėlis
 
 
 
-## I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
+## I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI ^s-59f2ad2c10423b0e3baee4aa
 
 (Baziniais dydžiais)
 
@@ -70,7 +75,7 @@ priedėlis
 
 
 
-## II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
+## II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS ^s-ee240a10dfe183a302e58298
 
 (Baziniais dydžiais)
 
@@ -154,7 +159,7 @@ priedėlis
 
 
 
-### 2 straipsnis. Įstatymo priedėlio pakeitimas
+### 2 straipsnis. Įstatymo priedėlio pakeitimas ^s-aaea58b9a634df572575cc79
 
 
 Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
@@ -162,12 +167,12 @@ Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-teisėjų atlyginimų įstatymo
+[[latest/TAR.AB0DC76B69A0|teisėjų atlyginimų įstatymo]]
 priedėlis
 
 
 
-## I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
+## I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI ^s-3f5d585d59ba4b9114ef8998
 
 (Baziniais dydžiais)
 
@@ -191,7 +196,7 @@ priedėlis
 
 
 
-## II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
+## II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS ^s-2dbda78bde03ae200ef87beb
 
 (Baziniais dydžiais)
 
@@ -275,13 +280,13 @@ priedėlis
 
 
 
-### 3 straipsnis. Įstatymo galiojimas
+### 3 straipsnis. Įstatymo galiojimas ^s-95becef33700afc2ba426c0c
 
 
-1. Šio įstatymo [[#1 straipsnis. Įstatymo priedėlio pakeitimas|1 straipsnis]] įsigalioja 2009 m. gegužės 1 d. ^c77ac95dd96dbdf674258107
+1. Šio įstatymo [[#^s-7d851246eae43a2dbe3ac046|1 straipsnis]] įsigalioja 2009 m. gegužės 1 d. ^s-6e1ce9a1d5df1422e506af24
 
 
-2. Šio įstatymo [[#2 straipsnis. Įstatymo priedėlio pakeitimas|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^7cd78e4aeab314df672aabd4
+2. Šio įstatymo [[#^s-aaea58b9a634df572575cc79|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-6066e1948fafc967d952d240
 
 
 

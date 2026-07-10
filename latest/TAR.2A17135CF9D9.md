@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2A17135CF9D9"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.2A17135CF9D9.md"
 latest_sha256: "ff7c0646208832ba221706f89e3ae104e045880ba1d049d686050bd64cb716c1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2A17135CF9D9]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2A17135CF9D9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2A17135CF9D9
+- Ryšiai: [[Ryšiai/TAR.2A17135CF9D9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 8 dalies pakeitimas ^s-dddb0e3f0e9b6afea939563b
 
 
 5 straipsnio 8 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 „8. Vyriausybės nutarimai, priimti šio įstatymo numatytais atvejais, ir Privatizavimo komisijos sprendimai yra skelbiami Teisės aktų registre.“
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-df21002a9142e03d5bb2a9c7
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

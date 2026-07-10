@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9611EA592273"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 39 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 39 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "sveikatos sistemos įstatymo 39 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-23"
 latest_path: "latest/TAR.9611EA592273.md"
 latest_sha256: "1342202e6aeaa03a539f891542dfc457776a5091176a9571678c530fea1e96dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9611EA592273]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 39 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9611EA592273.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9611EA592273
+- Ryšiai: [[Ryšiai/TAR.9611EA592273|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 39 straipsnio pripažinimas netekusiu galios ^s-ca186c211ce8fc74bce6de4f
 
 
 39 straipsnį pripažinti netekusiu galios.

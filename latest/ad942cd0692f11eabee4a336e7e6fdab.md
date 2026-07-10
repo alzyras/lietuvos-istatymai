@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "ad942cd0692f11eabee4a336e7e6fdab"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2020-03-19"
 latest_path: "latest/ad942cd0692f11eabee4a336e7e6fdab.md"
 latest_sha256: "d6067bcf284d08c974f2fc89b644fd24f8bf79842d43bc6c5cf7bf0199232dab"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/ad942cd0692f11eabee4a336e7e6fdab]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/ad942cd0692f11eabee4a336e7e6fdab.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/ad942cd0692f11eabee4a336e7e6fdab
+- Ryšiai: [[Ryšiai/ad942cd0692f11eabee4a336e7e6fdab|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio pakeitimas
+### 1 straipsnis. 13 straipsnio pakeitimas ^s-5233cddfb845738153cdd393
 
 
 Papildyti 13 straipsnį 111 dalimi:
@@ -42,7 +47,7 @@ Papildyti 13 straipsnį 111 dalimi:
 
 
 
-### 2 straipsnis. 14 straipsnio pakeitimas
+### 2 straipsnis. 14 straipsnio pakeitimas ^s-c09730f2ad20ac6a10fce808
 
 
 Papildyti 14 straipsnį 10 dalimi:
@@ -52,7 +57,7 @@ Papildyti 14 straipsnį 10 dalimi:
 
 
 
-### 3 straipsnis. 15 straipsnio pakeitimas
+### 3 straipsnis. 15 straipsnio pakeitimas ^s-ee0e54af23e7792a6facf54a
 
 
 Papildyti 15 straipsnį 8 dalimi:

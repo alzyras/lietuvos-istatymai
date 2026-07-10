@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ADDC6AC984C5"
 pavadinimas: "Lietuvos Respublikos prekių apyvartos mokesčio įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekių apyvartos mokesčio įstatymo pripažinimo netekusiu galios įstatymas"
+  - "prekių apyvartos mokesčio įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.ADDC6AC984C5.md"
 latest_sha256: "3498f8488f68c8559dac559f64581a7e74bda274c7cbbc56b0fd62e0a324af84"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ADDC6AC984C5]]"
 ---
 # Lietuvos Respublikos prekių apyvartos mokesčio įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ADDC6AC984C5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ADDC6AC984C5
+- Ryšiai: [[Ryšiai/TAR.ADDC6AC984C5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-711d7138d50dec06e45ac81c
 
 
 Lietuvos Respublikos prekių apyvartos mokesčio įstatymą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-60ead4aa19c8fec819104e8f
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

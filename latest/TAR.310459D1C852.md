@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.310459D1C852"
 pavadinimas: "Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas"
+  - "valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.310459D1C852.md"
 latest_sha256: "42b01482c65b534a3067c07f2d9cbdcc49ae43953df03ae3d6dc3b0ac45de323"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.310459D1C852]]"
 ---
 # Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.310459D1C852.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.310459D1C852
+- Ryšiai: [[Ryšiai/TAR.310459D1C852|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,41 +40,41 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies papildymas 11, 12, 13, 14 ir 15 punktais
+### 1 straipsnis. 4 straipsnio 1 dalies papildymas 11, 12, 13, 14 ir 15 punktais ^s-5f7edc02303747722a94e699
 
 
-1. Papildyti 4 straipsnio 1 dalį 11 punktu: ^b87ba26708fefc21d73e9abf
+1. Papildyti 4 straipsnio 1 dalį 11 punktu: ^s-034044b36938e252168f4099
 
 
 „11) tvirtina žvalgybos informacijos poreikius ir prioritetus;“.
 
 
-2. Papildyti 4 straipsnio 1 dalį 12 punktu: ^dc81d373e285da58e565f9f6
+2. Papildyti 4 straipsnio 1 dalį 12 punktu: ^s-0ca254f8a21860508a91b59b
 
 
 „12) tvirtina žvalgybos institucijų veiklos strategijas;“.
 
 
-3. Papildyti 4 straipsnio 1 dalį 13 punktu: ^69ec64ebfc3dddcb40a0e991
+3. Papildyti 4 straipsnio 1 dalį 13 punktu: ^s-39b1319b4555e846b31b6469
 
 
 „13) vertina žvalgybos institucijų metines veiklos ataskaitas;“.
 
 
-4. Papildyti 4 straipsnio 1 dalį 14 punktu: ^df1e10504328721f75a12c5d
+4. Papildyti 4 straipsnio 1 dalį 14 punktu: ^s-e6cb5d7f3379a4a153843be5
 
 
 „14) vertina žvalgybos informacijos atitiktį žvalgybos informacijos poreikiams ir prioritetams;“.
 
 
-5. Papildyti 4 straipsnio 1 dalį 15 punktu: ^36a17dc3b9eeb21e90f2149c
+5. Papildyti 4 straipsnio 1 dalį 15 punktu: ^s-2bf5e9ed54d4e7a432650c1b
 
 
 „15) nustato žvalgybos institucijų tarptautinio bendradarbiavimo su užsienio valstybių žvalgybos ir saugumo tarnybomis bei tarptautinėmis organizacijomis ir institucijomis gaires.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e0fa3f5bc04838d8bf7325c3
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

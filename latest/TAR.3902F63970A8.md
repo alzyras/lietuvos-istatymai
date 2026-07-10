@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3902F63970A8"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 13, 20 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 13, 20 straipsnių pakeitimo ir papildymo įstatymas"
+  - "alkoholio kontrolės įstatymo 12, 13, 20 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-31"
 latest_path: "latest/TAR.3902F63970A8.md"
 latest_sha256: "0a878ec34804a13559230bda7d2924072e221db6decaa56bfad2cecf771ee9d8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3902F63970A8]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 13, 20 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3902F63970A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3902F63970A8
+- Ryšiai: [[Ryšiai/TAR.3902F63970A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-b6466bb7b14191da03fe444b
 
 
 12 straipsnio 1 dalies antrajame sakinyje išbraukti žodžius „kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų“, išbraukti trečiąjį sakinį ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 13 straipsnio pakeitimas
+### 2 straipsnis. 13 straipsnio pakeitimas ^s-18223428840e8158348f0316
 
 
 Pakeisti 13 straipsnio 1 dalį, 2 dalyje išbraukti žodį „Tik“, po žodžio „gaminti“ įrašyti žodžius „natūralaus bičių medaus fermentacijos procese gautų produktų pagrindu gaminamus“, papildyti straipsnį nauja 3 dalimi, buvusias 3 ir 4 dalis laikyti 4 ir 5 dalimis, 5 dalyje išbraukti pirmąjį sakinį ir visą straipsnį išdėstyti taip:
@@ -66,7 +71,7 @@ Alkoholio produktų gamybos valstybės monopolio įvedimo sąlygas ir tvarką nu
 
 
 
-### 3 straipsnis. 20 straipsnio 3 dalies papildymas
+### 3 straipsnis. 20 straipsnio 3 dalies papildymas ^s-422b6682ace73389e5e78e3c
 
 
 Papildyti 20 straipsnio 3 dalį ir ją išdėstyti taip:

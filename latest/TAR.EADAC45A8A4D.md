@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EADAC45A8A4D"
 pavadinimas: "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.EADAC45A8A4D.md"
 latest_sha256: "5bae32e45e3f3b582ac54a3af1e7fe5282e04c45ac6fd2d59ee2443145bf8f31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EADAC45A8A4D]]"
 ---
 # Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EADAC45A8A4D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EADAC45A8A4D
+- Ryšiai: [[Ryšiai/TAR.EADAC45A8A4D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas 11 dalimi
+### 1 straipsnis. 2 straipsnio papildymas 11 dalimi ^s-666f0338e7734f6028cc5f6b
 
 
 Papildyti 2 straipsnį 11 dalimi:
@@ -45,7 +50,7 @@ Papildyti 2 straipsnį 11 dalimi:
 
 
 
-### 2 straipsnis. 4 straipsnio papildymas 5 punktu
+### 2 straipsnis. 4 straipsnio papildymas 5 punktu ^s-7095c94c3728b44156706c37
 
 
 Papildyti 4 straipsnį 5 punktu:
@@ -55,7 +60,7 @@ Papildyti 4 straipsnį 5 punktu:
 
 
 
-### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-e2a954103611bd60d948ab14
 
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -65,7 +70,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 12 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 12 straipsnio 5 dalies pakeitimas ^s-75a9d34d3937390c0617b748
 
 
 12 straipsnio 5 dalyje po žodžių „šis patikslintų prašymą“ įrašyti žodžius „ir padeda jam išaiškindama, kokios informacijos prašyme nepakanka ir kur ją gauti, o kai prašyme pateikta informacija netiksli, – išaiškindama netikslumus ir kaip juos pašalinti“ ir šią dalį išdėstyti taip:
@@ -75,7 +80,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai
+### 5 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai ^s-761ad53cec9880f82eebd053
 
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
@@ -84,10 +89,10 @@ Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstaty
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-0e6d10b729dddbdb142056ef
 
 
-Šis įstatymas, išskyrus [[#5 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai|5 straipsnį]], įsigalioja 2012 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-761ad53cec9880f82eebd053|5 straipsnį]], įsigalioja 2012 m. liepos 1 d.
 
 
 

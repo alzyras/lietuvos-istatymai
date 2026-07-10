@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9B246085AC76"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-06-24"
 latest_path: "latest/TAR.9B246085AC76.md"
 latest_sha256: "5229b6b915da388fee9973699c8b6e429581aa68e909f0987226a50676c48091"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9B246085AC76]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9B246085AC76.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9B246085AC76
+- Ryšiai: [[Ryšiai/TAR.9B246085AC76|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 1 dalies papildymas
+### 1 straipsnis. 21 straipsnio 1 dalies papildymas ^s-e64650092f076c58eb4a8198
 
 
 Papildyti 21 straipsnio 1 dalį 5 punktu
@@ -41,7 +46,7 @@ Papildyti 21 straipsnio 1 dalį 5 punktu
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-281d817e706d927fc7b844ba
 
 
 Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.

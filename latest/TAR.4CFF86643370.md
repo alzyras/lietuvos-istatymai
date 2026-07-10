@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4CFF86643370"
 pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas"
+  - "valstybės ir tarnybos paslapčių įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-06-27"
 latest_path: "latest/TAR.4CFF86643370.md"
 latest_sha256: "725429f2cac9da7f28529cc1cb1578b3fd986d7960809954f357806bb9db43db"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4CFF86643370]]"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4CFF86643370.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4CFF86643370
+- Ryšiai: [[Ryšiai/TAR.4CFF86643370|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,16 +37,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas ir 2 dalies papildymas
+### 1 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas ir 2 dalies papildymas ^s-726690b1ad0906f4bd204073
 
 
-1. 5 straipsnio 1 dalies 3 punkte išbraukti žodžius „specialių ženklų“, vietoj žodžio „elementų“ įrašyti žodį „priemonių“ ir šį punktą išdėstyti taip: ^6f42ef6c9048802e7088fb98
+1. 5 straipsnio 1 dalies 3 punkte išbraukti žodžius „specialių ženklų“, vietoj žodžio „elementų“ įrašyti žodį „priemonių“ ir šį punktą išdėstyti taip: ^s-337a84de9956c9691e9eff0a
 
 
-„3) informacija apie vertybinių popierių, dokumentų, dokumentų blankų, banknotų, monetų, Lietuvos Respublikos akcizų įstatyme nustatytų etilo alkoholio ir alkoholinių gėrimų bei apdoroto tabako banderolių technologinės apsaugos priemonių kūrimą, gamybą ir naudojimą;“.
+„3) informacija apie vertybinių popierių, dokumentų, dokumentų blankų, banknotų, monetų, [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatyme]] nustatytų etilo alkoholio ir alkoholinių gėrimų bei apdoroto tabako banderolių technologinės apsaugos priemonių kūrimą, gamybą ir naudojimą;“.
 
 
-2. Papildyti 5 straipsnio 2 dalį 15 punktu: ^cbc06ebb6750d0f4622b2b51
+2. Papildyti 5 straipsnio 2 dalį 15 punktu: ^s-f5a3982c8ab68f50faac4fad
 
 
 „15) informacija, telekomunikacinės veiklos reguliavimo ir priežiūros tikslams gauta iš valstybės ir savivaldybės institucijų, telekomunikacijų operatorių bei paslaugų teikėjų ir radijo dažnių (kanalų) bei telefono ryšio numerių naudotojų.“

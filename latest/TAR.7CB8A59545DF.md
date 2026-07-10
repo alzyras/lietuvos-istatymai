@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7CB8A59545DF"
 pavadinimas: "Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-01"
 latest_path: "latest/TAR.7CB8A59545DF.md"
 latest_sha256: "c56180ba6146fbeeb641c8db8e135e8ced5fe86d52ef7be5f077950beb3d0e2b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7CB8A59545DF]]"
 ---
 # Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7CB8A59545DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7CB8A59545DF
+- Ryšiai: [[Ryšiai/TAR.7CB8A59545DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-17a7601b1a98915bde5cbf93
 
 
 1 straipsnyje vietoj skaičiaus „6428134“ įrašyti skaičių „6508456“, vietoj skaičiaus „7334134“ įrašyti skaičių „7414456“, vietoj skaičiaus „7124134“ įrašyti skaičių „7204456“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 5 dalies pakeitimas ^s-925a1bf849e666899b4bd1a4
 
 
 2 straipsnio 5 dalyje vietoj skaičiaus „5314“ įrašyti skaičių „16727“ ir šią dalį išdėstyti taip:
@@ -51,111 +56,111 @@ Vilnius
 
 
 
-### 3 straipsnis. 4 straipsnio pakeitimas
+### 3 straipsnis. 4 straipsnio pakeitimas ^s-4c852b405760f08d5db35ef1
 
 
-[[#4 straipsnis. 5 straipsnio pakeitimas|4 straipsnyje]] vietoj skaičiaus „187,2“ įrašyti skaičių „187,6“ ir šį straipsnį išdėstyti taip:
+[[#^s-fa9de93df30785b73fe1d2b7|4 straipsnyje]] vietoj skaičiaus „187,2“ įrašyti skaičių „187,6“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#4 straipsnis. 5 straipsnio pakeitimas|4 straipsnis]]. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+„[[#^s-fa9de93df30785b73fe1d2b7|4 straipsnis]]. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
 
 
 Nustatyti, kad 2001 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 187,6 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.“
 
 
 
-### 4 straipsnis. 5 straipsnio pakeitimas
+### 4 straipsnis. 5 straipsnio pakeitimas ^s-fa9de93df30785b73fe1d2b7
 
 
-5 straipsnio 1 dalyje vietoj skaičiaus „79225“ įrašyti skaičių „74423“, [[#^da6d00348f8940d53031c8c3|2 dalyje]] vietoj skaičiaus „239800“ įrašyti skaičių „269740“, [[#^58aade4d7c412fdb1cbb7f2b|3 dalyje]] vietoj skaičiaus „130000“ įrašyti skaičių „133394“ ir šį straipsnį išdėstyti taip:
+5 straipsnio 1 dalyje vietoj skaičiaus „79225“ įrašyti skaičių „74423“, [[#^s-f442f81fbc3adfbd00bcb8eb|2 dalyje]] vietoj skaičiaus „239800“ įrašyti skaičių „269740“, [[#^s-beef9dd45744e73ff2da2d7d|3 dalyje]] vietoj skaičiaus „130000“ įrašyti skaičių „133394“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#5 straipsnis. 7 straipsnio 2 dalies pakeitimas|5 straipsnis]].       Įmokų į valstybės biudžetą, skiriamų pagal įstatymus specialiosioms programoms finansuoti, paskirstymas pagal asignavimų valdytojus
+„[[#^s-29b05dce0ff84c07e557a989|5 straipsnis]].       Įmokų į valstybės biudžetą, skiriamų pagal įstatymus specialiosioms programoms finansuoti, paskirstymas pagal asignavimų valdytojus
 
 
-1. Patvirtinti valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų pajamų už teikiamas paslaugas įmokas į valstybės biudžetą – 74423 tūkst. litų (3 priedėlis). ^39295d7fcca0355d13a0d26e
+1. Patvirtinti valstybės institucijų, įstaigų, vykdančių viešojo administravimo funkcijas, ir kontrolės institucijų pajamų už teikiamas paslaugas įmokas į valstybės biudžetą – 74423 tūkst. litų (3 priedėlis). ^s-aee900ae70cfa71927d9e0a7
 
 
-2. Patvirtinti asignavimų valdytojų administruojamų pajamų (įskaitant lėšų likutį 2001 m. sausio 1 d.) įmokas į valstybės biudžetą – 269740 tūkst. litų (4 priedėlis). ^da6d00348f8940d53031c8c3
+2. Patvirtinti asignavimų valdytojų administruojamų pajamų (įskaitant lėšų likutį 2001 m. sausio 1 d.) įmokas į valstybės biudžetą – 269740 tūkst. litų (4 priedėlis). ^s-f442f81fbc3adfbd00bcb8eb
 
 
-3. Nustatyti, kad mokslo ir studijų institucijų pajamos už teikiamas paslaugas (nebiudžetinės (specialios) lėšos) – 133394 tūkst. litų – 2001 metais įskaitomos į valstybės biudžeto pajamas ir naudojamos šių institucijų specialiosioms programoms finansuoti.“ ^58aade4d7c412fdb1cbb7f2b
+3. Nustatyti, kad mokslo ir studijų institucijų pajamos už teikiamas paslaugas (nebiudžetinės (specialios) lėšos) – 133394 tūkst. litų – 2001 metais įskaitomos į valstybės biudžeto pajamas ir naudojamos šių institucijų specialiosioms programoms finansuoti.“ ^s-beef9dd45744e73ff2da2d7d
 
 
 
-### 5 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-29b05dce0ff84c07e557a989
 
 
-[[#^326b33ca9c0b7b41bd30a456|7 straipsnio 2 dalyje]] vietoj skaičiaus „300000“ įrašyti skaičių „390000“ ir šią dalį išdėstyti taip:
+[[#^s-b2553232c637bb4503dcf7f3|7 straipsnio 2 dalyje]] vietoj skaičiaus „300000“ įrašyti skaičių „390000“ ir šią dalį išdėstyti taip:
 
 
 „2. Nustatyti 2001 metų naujai pasirašomų valstybės garantijų limitą – 390000 tūkst. litų (neįskaitant šio įstatymo 6 straipsnyje nurodytų prisiimamų įsipareigojimų, dėl kurių teikiama valstybės garantija, sumos).“
 
 
 
-### 6 straipsnis. 8 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
+### 6 straipsnis. 8 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi ^s-3f2309cf8a6ece07b5c25be6
 
 
-1. [[#^2ca7276923623e468e50a97c|8 straipsnio 1 dalies]] 1, 2, [[#^771c196013cf2ad957dc834c|3 punktuose]] po žodžio „dotacijų“ išbraukti žodžius „bei beprocenčių paskolų, skirtų laikinam pajamų trūkumui padengti“ ir šią dalį išdėstyti taip: ^c839178c27ec2bc37cab7aa4
+1. [[#^s-917b38686cb16cb44edd3177|8 straipsnio 1 dalies]] 1, 2, [[#^s-8327247ec53bb17f96294f3f|3 punktuose]] po žodžio „dotacijų“ išbraukti žodžius „bei beprocenčių paskolų, skirtų laikinam pajamų trūkumui padengti“ ir šią dalį išdėstyti taip: ^s-9d2e3ae2afa922e8d0583a4c
 
 
 „1. Nustatyti šiuos savivaldybės skolinimosi limitus:
 
 
-1) savivaldybės skola negali viršyti 25 procentų (Vilniaus miesto savivaldybės –35 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^54f220ef317dc2d8bb459ff6
+1) savivaldybės skola negali viršyti 25 procentų (Vilniaus miesto savivaldybės –35 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^s-d7d4791972153a17cec77e1d
 
 
-2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 15 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų, patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^a65e56e559c72a507a8aa3c8
+2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 15 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų, patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^s-d0a99b23dc4cc5a1b4da5448
 
 
-3) grąžintina tais kalendoriniais metais savivaldybės paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 15 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų).“ ^771c196013cf2ad957dc834c
+3) grąžintina tais kalendoriniais metais savivaldybės paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 15 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų).“ ^s-8327247ec53bb17f96294f3f
 
 
-2. [[#8 straipsnis. Įstatymo 1 priedėlio pakeitimas|8 straipsnį]] papildyti 3 dalimi: ^dfa96620e950602291e60fba
+2. [[#^s-3529b05d4e06bb277a31814b|8 straipsnį]] papildyti 3 dalimi: ^s-c8b98cf7d69f4288e1a84cad
 
 
 „3. Į skolinimosi limitus neįskaitomos beprocentės paskolos, skirtos laikinam pajamų trūkumui padengti.“
 
 
 
-### 7 straipsnis. 9 straipsnio pakeitimas ir papildymas
+### 7 straipsnis. 9 straipsnio pakeitimas ir papildymas ^s-bb7177a8339b45c3e539a790
 
 
-1. 9 straipsnio 3 punkte po žodžio „išmokėti“ įrašyti žodžius „bei atlyginti piliečiams už valstybės išperkamus gyvenamuosius namus, jų dalis, butus“ ir šį punktą išdėstyti taip: ^31e1cfa74abb56c7a10f0c7a
+1. 9 straipsnio 3 punkte po žodžio „išmokėti“ įrašyti žodžius „bei atlyginti piliečiams už valstybės išperkamus gyvenamuosius namus, jų dalis, butus“ ir šį punktą išdėstyti taip: ^s-4eed3c74399dd20547a481ed
 
 
 „3) valstybės biudžete perskaičiuotoms kompensacijoms už konfiskuotą turtą buvusiems politiniams kaliniams, tremtiniams ir jiems prilygintiems asmenims arba jų įpėdiniams išmokėti bei atlyginti piliečiams už valstybės išperkamus gyvenamuosius namus, jų dalis, butus numatytus asignavimus paskirstyti savivaldybėms;“.
 
 
-2. 9 straipsnio 4 punkte vietoj skaičiaus „320000“ įrašyti skaičių „410000“ ir šį punktą išdėstyti taip: ^326b33ca9c0b7b41bd30a456
+2. 9 straipsnio 4 punkte vietoj skaičiaus „320000“ įrašyti skaičių „410000“ ir šį punktą išdėstyti taip: ^s-b2553232c637bb4503dcf7f3
 
 
 „4) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti – iki 906000 tūkst. litų, valstybės investicijoms finansuoti – iki 410000 tūkst. litų, Valstybinio socialinio draudimo fondo biudžeto deficitui finansuoti – iki 117000 tūkst. litų;“.
 
 
-3. 9 straipsnio 5 punkte vietoj skaičiaus „380000“ įrašyti skaičių „330000“ ir šį punktą išdėstyti taip: ^797f886760169ab328386a00
+3. 9 straipsnio 5 punkte vietoj skaičiaus „380000“ įrašyti skaičių „330000“ ir šį punktą išdėstyti taip: ^s-04fa52bb4692be21356072e9
 
 
 „5) laikantis valstybės grynojo skolinimosi limito, finansuoti valstybės investicijų programą iš jau pasirašytų arba numatomų pasirašyti paskolų su valstybės garantija – iki 330000 tūkst. litų;“.
 
 
-4. Papildyti [[#9 straipsnis. Įstatymo 2 priedėlio pakeitimas|9 straipsnį]] 7, 8 ir [[#^42f8005140859e992d1873f9|9 punktais]]: ^ab12722ad258a2d97f503196
+4. Papildyti [[#^s-e68e24027306a62b29a1b320|9 straipsnį]] 7, 8 ir [[#^s-d31efd0954fd3480f159dc14|9 punktais]]: ^s-42c949d3b22577bd0d438bd1
 
 
 „7) pirminei teisinei pagalbai finansuoti valstybės biudžete numatytus asignavimus paskirstyti savivaldybėms;
 
 
-8) iš valstybės biudžeto savivaldybių biudžetams 1997–2000 metais neperduotą valstybės biudžeto lėšų dalį ir 2001 metais prognozuojamoms savivaldybių biudžetų negautoms pajamoms kompensuoti numatytus asignavimus – 25643 tūkst. litų paskirstyti savivaldybėms; ^5e606a56058cb9998fb643d8
+8) iš valstybės biudžeto savivaldybių biudžetams 1997–2000 metais neperduotą valstybės biudžeto lėšų dalį ir 2001 metais prognozuojamoms savivaldybių biudžetų negautoms pajamoms kompensuoti numatytus asignavimus – 25643 tūkst. litų paskirstyti savivaldybėms; ^s-4c9e0bfc0e146c76c27cd65d
 
 
-9) valstybės biudžeto pajamos, gautos už išnuomotą valstybės ilgalaikį materialųjį turtą, kurį valdo patikėjimo teise ir išnuomoja valstybės institucijos, įstaigos ir valstybinės mokslo ir studijų institucijos, paskirstomos šioms institucijoms ir įstaigoms valstybės turto eksploatavimo išlaidoms dengti.“ ^42f8005140859e992d1873f9
+9) valstybės biudžeto pajamos, gautos už išnuomotą valstybės ilgalaikį materialųjį turtą, kurį valdo patikėjimo teise ir išnuomoja valstybės institucijos, įstaigos ir valstybinės mokslo ir studijų institucijos, paskirstomos šioms institucijoms ir įstaigoms valstybės turto eksploatavimo išlaidoms dengti.“ ^s-d31efd0954fd3480f159dc14
 
 
 
-### 8 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-3529b05d4e06bb277a31814b
 
 
-1. Pakeisti Įstatymo 1 priedėlio dalį „Pajamos“ – eilutėje „Akcizai“ vietoj skaičiaus „1281369“ įrašyti skaičių „1284159“, eilutėje „Lietuvos banko likutinis pelnas“ vietoj skaičiaus „60000“ įrašyti skaičių „98000“, po šios eilutės įrašyti naują eilutę „Pajamos iš patalpų nuomos 11000“, eilutėje „Biudžetinių įstaigų pajamos, gautos už teikiamas paslaugas“ vietoj skaičiaus „209225“ įrašyti skaičių „207817“, eilutėje „Asignavimų valdytojų administruojamos pajamos“ vietoj skaičiaus „239800“ įrašyti skaičių „269740“, eilutėje „IŠ VISO“ vietoj skaičiaus „6428134“ įrašyti skaičių „6508456“ ir šias eilutes išdėstyti taip: ^2ca7276923623e468e50a97c
+1. Pakeisti Įstatymo 1 priedėlio dalį „Pajamos“ – eilutėje „Akcizai“ vietoj skaičiaus „1281369“ įrašyti skaičių „1284159“, eilutėje „Lietuvos banko likutinis pelnas“ vietoj skaičiaus „60000“ įrašyti skaičių „98000“, po šios eilutės įrašyti naują eilutę „Pajamos iš patalpų nuomos 11000“, eilutėje „Biudžetinių įstaigų pajamos, gautos už teikiamas paslaugas“ vietoj skaičiaus „209225“ įrašyti skaičių „207817“, eilutėje „Asignavimų valdytojų administruojamos pajamos“ vietoj skaičiaus „239800“ įrašyti skaičių „269740“, eilutėje „IŠ VISO“ vietoj skaičiaus „6428134“ įrašyti skaičių „6508456“ ir šias eilutes išdėstyti taip: ^s-917b38686cb16cb44edd3177
 
 
 „Akcizai                                                                                                                                1284159“
@@ -176,7 +181,7 @@ Asignavimų valdytojų administruojamos pajamos                                 
 „IŠ VISO                                                                                                                             6508456.“
 
 
-2. Pakeisti Įstatymo 1 priedėlio dalį „Asignavimai“ ir ją išdėstyti taip: ^e15a89065181e732587d872d
+2. Pakeisti Įstatymo 1 priedėlio dalį „Asignavimai“ ir ją išdėstyti taip: ^s-12d67d270d8a26fdd2b857f0
 
 
 
@@ -1647,7 +1652,7 @@ tūkst. Lt
 
 
 
-### 9 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-e68e24027306a62b29a1b320
 
 
 Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
@@ -1656,7 +1661,7 @@ Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
 
 
 2000 m. gruodžio 19 d.
-įstatymo Nr. IX-89
+[[latest/TAR.082C8C244DCC|įstatymo Nr. IX-89]]
 2 priedėlis
 
 LIETUVOS RESPUBLIKOS 2001 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
@@ -1964,7 +1969,7 @@ tūkst. Lt
 
 
 
-### 10 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 10 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-2ff6ae38477d34a369a09339
 
 
 Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
@@ -1973,7 +1978,7 @@ Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
 
 
 2000 m. gruodžio 19 d.
-įstatymo Nr. IX-89
+[[latest/TAR.082C8C244DCC|įstatymo Nr. IX-89]]
 3 priedėlis
 
 LIETUVOS RESPUBLIKOS 2001 METŲ VALSTYBĖS INSTITUCIJŲ, ĮSTAIGŲ, VYKDANČIŲ VIEŠOJO ADMINISTRAVIMO FUNKCIJAS, IR KONTROLĖS INSTITUCIJŲ PAJAMŲ UŽ TEIKIAMAS PASLAUGAS ĮMOKOS Į VALSTYBĖS BIUDŽETĄ
@@ -2094,7 +2099,7 @@ tūkst. Lt
 
 
 
-### 11 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-790704c362649202ca65ef78
 
 
 Pakeisti Įstatymo 4 priedėlį „Lietuvos Respublikos 2001 metų asignavimų valdytojų administruojamų pajamų įmokos į valstybės biudžetą“ – eilutėje „Ūkio ministerija“ vietoj skaičiaus „66300“ įrašyti skaičių „96240“, eilutėje „Iš viso“ vietoj skaičiaus „239800“ įrašyti skaičių „269740“ ir šias eilutes išdėstyti taip:
@@ -2111,7 +2116,7 @@ Pakeisti Įstatymo 4 priedėlį „Lietuvos Respublikos 2001 metų asignavimų v
 
 
 
-### 12 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 12 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-51befb37ed4b711f9e0554d4
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -2120,7 +2125,7 @@ Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2000 m. gruodžio 19 d.
-įstatymo Nr. IX-89
+[[latest/TAR.082C8C244DCC|įstatymo Nr. IX-89]]
 5 priedėlis
 
 ASIGNAVIMŲ TEISMAMS PASKIRSTYMAS
@@ -2619,7 +2624,7 @@ tūkst. Lt
 
 
 
-### 13 straipsnis. Įstatymo 8 priedėlio pakeitimas
+### 13 straipsnis. Įstatymo 8 priedėlio pakeitimas ^s-a2ec0481fa4194990329ceff
 
 
 Pakeisti Įstatymo 8 priedėlį ir jį išdėstyti taip:
@@ -2628,7 +2633,7 @@ Pakeisti Įstatymo 8 priedėlį ir jį išdėstyti taip:
 
 
 2000 m. gruodžio 19 d.
-įstatymo Nr. IX-89
+[[latest/TAR.082C8C244DCC|įstatymo Nr. IX-89]]
 8 priedėlis
 
 VALSTYBĖS BIUDŽETO SPECIALIOS DOTACIJOS SAVIVALDYBĖMS
@@ -2637,7 +2642,7 @@ VALSTYBĖS BIUDŽETO SPECIALIOS DOTACIJOS SAVIVALDYBĖMS
 
  Savivaldybės    pavadinimas
  Karo prievolei administruoti
- Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo pakeitimo ir papildymo įstatymui vykdyti
+ [[latest/TAR.1DEDD43B92AE|Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo]] pakeitimo ir papildymo įstatymui vykdyti
  Palūkanoms už valstybės vardu gaunamas paskolas švietimo įstaigoms atnaujinti mokėti
 
 
@@ -3021,7 +3026,7 @@ Kalvarijos savivaldybės biudžetui – 1011 tūkst. litų, Kazlų Rūdos saviva
 
 
 
-### 14 straipsnis. Įstatymo 9 priedėlio pakeitimas
+### 14 straipsnis. Įstatymo 9 priedėlio pakeitimas ^s-69df472aa3b2a90556db4e90
 
 
 Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
@@ -3030,7 +3035,7 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2000 m. gruodžio 19 d.
-įstatymo Nr. IX-89
+[[latest/TAR.082C8C244DCC|įstatymo Nr. IX-89]]
 9 priedėlis
 
 2001 METŲ PRIVATIZAVIMO FONDO LĖŠŲ SĄMATA
@@ -3049,11 +3054,11 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
 
 
 
- 1) rezervuotos lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Lietuvos Respublikos Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti ^cc04473ea6d8ff7b0ea3f28e
+ 1) rezervuotos lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Lietuvos Respublikos Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti ^s-a3899b953e782a0fb58b808f
  680000
 
 
- 2) išduota paskola ^1db1d184daaeb838d81c27c4
+ 2) išduota paskola ^s-69dd699bfad59981df87ba40
  948
 
 
@@ -3073,7 +3078,7 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
 
 
 
- 1. Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Lietuvos Respublikos Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti ^53e35f3f43562c68b3dc9131
+ 1. Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Lietuvos Respublikos Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti ^s-24b6f444ac012eacf632fc88
  1566300
 
 
@@ -3081,15 +3086,15 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
 
 
 
- 1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti ^f730c69573217eefda5b5954
+ 1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti ^s-d9734679b41373a976a3bdf5
  25000
 
 
- 2) rezerviniam (stabilizavimo) fondui sudaryti ^43e0675ff2ff189ef3b10b09
+ 2) rezerviniam (stabilizavimo) fondui sudaryti ^s-93de9acbbc8a37ab85113c1c
  1541300
 
 
- 2. Smulkaus ir vidutinio verslo skatinimo fondui sudaryti bei Vyriausybės patvirtintoms šalies programoms įgyvendinti ^3973271f68e91047f6f5a8c8
+ 2. Smulkaus ir vidutinio verslo skatinimo fondui sudaryti bei Vyriausybės patvirtintoms šalies programoms įgyvendinti ^s-c5e967e8cfad15bd1c98f1f3
  278150*
 
 
@@ -3101,15 +3106,15 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
  23000
 
 
- 3. Privatizavimo komisijos ir Turto fondo funkcijoms atlikti ir ekspertų paslaugoms apmokėti ^f45973cbc1689f775af38c53
+ 3. Privatizavimo komisijos ir Turto fondo funkcijoms atlikti ir ekspertų paslaugoms apmokėti ^s-9b19adde59240893e7469feb
  20000
 
 
- 4. Objektams parengti privatizavimui ^91851ee52bdf2988e48a173f
+ 4. Objektams parengti privatizavimui ^s-a6d1082d5b2fabd40a5894df
  10000
 
 
- 5. Iš viso išlaidų ^3473755e897750adfa875771
+ 5. Iš viso išlaidų ^s-4f7bf8e3ab57b1506817ebed
  1874450
 
 
@@ -3121,7 +3126,7 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. Įstatymo 10 priedėlio pakeitimas
+### 15 straipsnis. Įstatymo 10 priedėlio pakeitimas ^s-eae3da85e1a4586b07c22c1f
 
 
 Pakeisti Įstatymo 10 priedėlį ir jį išdėstyti taip:
@@ -3130,7 +3135,7 @@ Pakeisti Įstatymo 10 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2000 m. gruodžio 19 d.
-įstatymo Nr. IX-89
+[[latest/TAR.082C8C244DCC|įstatymo Nr. IX-89]]
 10 priedėlis
 
 VALSTYBĖS INVESTICIJŲ 2001–2003 METŲ PROGRAMA

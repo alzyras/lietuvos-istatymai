@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6F36CB03E75F"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-27"
 latest_path: "latest/TAR.6F36CB03E75F.md"
 latest_sha256: "03ef296d43f36c22a4972202f6dadea2af39ab639931d477dfa00ff5dab0f062"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6F36CB03E75F]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6F36CB03E75F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6F36CB03E75F
+- Ryšiai: [[Ryšiai/TAR.6F36CB03E75F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-6270301ed6b7c57800d23801
 
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:

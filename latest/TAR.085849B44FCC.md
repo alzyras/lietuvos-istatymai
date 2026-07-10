@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.085849B44FCC"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 12 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 12 straipsnio papildymo įstatymas"
+  - "pelno mokesčio įstatymo 12 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-07-14"
 latest_path: "latest/TAR.085849B44FCC.md"
 latest_sha256: "365bf884b1bcea2dfdcd7a76313c9ef7c6fcb342bb66372720b74cf2f4aa6208"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.085849B44FCC]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 12 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.085849B44FCC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.085849B44FCC
+- Ryšiai: [[Ryšiai/TAR.085849B44FCC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio papildymas 14 punktu
+### 1 straipsnis. 12 straipsnio papildymas 14 punktu ^s-901d93dcb296a85684408115
 
 
 Papildyti 12 straipsnį 14 punktu:
@@ -41,7 +46,7 @@ Papildyti 12 straipsnį 14 punktu:
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-7d7170c8641076a50474591e
 
 
 Šio įstatymo nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.

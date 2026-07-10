@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5951DECFA4B6"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-07"
 latest_path: "latest/TAR.5951DECFA4B6.md"
 latest_sha256: "d0ef19ee39a7c72e280e0a6d0e7c555a14dd1a534a2a9a2e9ae6f0cc7a7bd138"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5951DECFA4B6]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5951DECFA4B6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5951DECFA4B6
+- Ryšiai: [[Ryšiai/TAR.5951DECFA4B6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,29 +38,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 4 dalies 4 ir 5 punktų pakeitimas
+### 1 straipsnis. 18 straipsnio 4 dalies 4 ir 5 punktų pakeitimas ^s-7ac5bb860df98815d45b5e35
 
 
-1. Pakeisti 18 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip: ^3a855887d1a9f9811e5acc6b
+1. Pakeisti 18 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip: ^s-204ec050fa9d3a712db79398
 
 
 „4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, išpilstytus į didesnę negu vieno litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą, mažmeninės prekybos vietose;“.
 
 
-2. Pakeisti 18 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip: ^d2325068177464e82efee3d9
+2. Pakeisti 18 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip: ^s-f65446efd0429261232b00ab
 
 
 „5) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 7,5 procento, išpilstytus į didesnę negu 0,5 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-97ed89a0f75d7b2e2a5a177d
 
 
-1. Šio įstatymo [[#^3a855887d1a9f9811e5acc6b|1 straipsnio 1 dalies]] nuostata, reglamentuojanti draudimą mažmeninės prekybos vietose parduoti fermentuotų gėrimų grupei priklausančius alkoholinius gėrimus, išpilstytus į didesnę negu vieno litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą, įsigalioja po 6 mėnesių nuo šio įstatymo priėmimo. Ši nuostata netaikoma fermentuotų gėrimų grupei priskiriamiems sidrui ir alaus mišiniams su nealkoholiniais gėrimais. ^9b015b9588941aa3a7be99e5
+1. Šio įstatymo [[#^s-204ec050fa9d3a712db79398|1 straipsnio 1 dalies]] nuostata, reglamentuojanti draudimą mažmeninės prekybos vietose parduoti fermentuotų gėrimų grupei priklausančius alkoholinius gėrimus, išpilstytus į didesnę negu vieno litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą, įsigalioja po 6 mėnesių nuo šio įstatymo priėmimo. Ši nuostata netaikoma fermentuotų gėrimų grupei priskiriamiems sidrui ir alaus mišiniams su nealkoholiniais gėrimais. ^s-d8043d619d0cd56ef771ab36
 
 
-2. Šio įstatymo [[#^d2325068177464e82efee3d9|1 straipsnio 2 dalies]] nuostata, reglamentuojanti draudimą parduoti fermentuotų gėrimų grupei priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 7,5 procento, išpilstytus į didesnę negu 0,5 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą, įsigalioja po 6 mėnesių nuo šio įstatymo priėmimo. Ši nuostata netaikoma fermentuotų gėrimų grupei priskiriamiems sidrui ir alaus mišiniams su nealkoholiniais gėrimais. ^90326eb7879521baa364c467
+2. Šio įstatymo [[#^s-f65446efd0429261232b00ab|1 straipsnio 2 dalies]] nuostata, reglamentuojanti draudimą parduoti fermentuotų gėrimų grupei priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 7,5 procento, išpilstytus į didesnę negu 0,5 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą, įsigalioja po 6 mėnesių nuo šio įstatymo priėmimo. Ši nuostata netaikoma fermentuotų gėrimų grupei priskiriamiems sidrui ir alaus mišiniams su nealkoholiniais gėrimais. ^s-ec20b7f35a068d5fe34c4273
 
 
 

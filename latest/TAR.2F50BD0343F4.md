@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2F50BD0343F4"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 24 straipsnio pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.2F50BD0343F4.md"
 latest_sha256: "c2cc647b149b342626cbe089434bd19d3d2aeeeb60acc8ac1fe37b4ec7760c77"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2F50BD0343F4]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2F50BD0343F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2F50BD0343F4
+- Ryšiai: [[Ryšiai/TAR.2F50BD0343F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio pakeitimas
+### 1 straipsnis. 24 straipsnio pakeitimas ^s-77b60cfda0704a3bae37251b
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
@@ -47,7 +52,7 @@ Lietuvos Respublikos Vyriausybė, ministerijos, Vyriausybės ir kitos įstaigos,
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-80c6cb5fa48c1ef6d4a78f70
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

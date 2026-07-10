@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BB2F1EF9C263"
 pavadinimas: "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "laisvųjų ekonominių zonų pagrindų įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-11-19"
 latest_path: "latest/TAR.BB2F1EF9C263.md"
 latest_sha256: "06c98e07edcab433901dd70ed196dbfd63655a78d48f4abc343de9721f6939e3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BB2F1EF9C263]]"
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BB2F1EF9C263.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BB2F1EF9C263
+- Ryšiai: [[Ryšiai/TAR.BB2F1EF9C263|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-29ecc58e26a6305a7d78cd4c
 
 
 Iš 8 straipsnio 1 dalies išbraukti pastraipą „tabako gaminių gamyba“ ir šią dalį išdėstyti taip:

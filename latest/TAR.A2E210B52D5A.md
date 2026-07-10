@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A2E210B52D5A"
 pavadinimas: "Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "Lietuvos kultūros tarybos įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-30"
 latest_path: "latest/TAR.A2E210B52D5A.md"
 latest_sha256: "54d28469e69e9130d5bdea32f893f18c0f5de039843096facb2b51bba0fbaf91"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A2E210B52D5A]]"
 ---
 # Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A2E210B52D5A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A2E210B52D5A
+- Ryšiai: [[Ryšiai/TAR.A2E210B52D5A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-bfd2cc5eef89278e41990b5b
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:

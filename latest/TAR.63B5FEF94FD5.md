@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.63B5FEF94FD5"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių \"Būtingės nafta\", \"Mažeikių nafta\" ir \"Naftotiekis\" reorganizavimo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių \"Būtingės nafta\", \"Mažeikių nafta\" ir \"Naftotiekis\" reorganizavimo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "akcinių bendrovių \"Būtingės nafta\", \"Mažeikių nafta\" ir \"Naftotiekis\" reorganizavimo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-01"
 latest_path: "latest/TAR.63B5FEF94FD5.md"
 latest_sha256: "70e90b701bae0dbad3631d6b59dc8c1384ab00a2fafdeaf968e47cf4a1f78a18"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.63B5FEF94FD5]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.63B5FEF94FD5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.63B5FEF94FD5
+- Ryšiai: [[Ryšiai/TAR.63B5FEF94FD5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Nr. 88-2724; 2001, Nr.68-2469)
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-3ae643a53dba4577cddba874
 
 
 3 straipsnio 3 dalyje vietoj žodžių „viešosios apyvartos“ įrašyti žodį „rinkos“, vietoj skaičių ir žodžių „8 straipsnio 2 dalies ir 10 straipsnio reikalavimai“, įrašyti žodžius „reikalavimai pateikti privalomą oficialų pasiūlymą bei vertybinių popierių pirkimo–pardavimo sandorius sudaryti vertybinių popierių biržoje“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Nr. 88-2724; 2001, Nr.68-2469)
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e194089e60c8b193a5cd0681
 
 
 Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.

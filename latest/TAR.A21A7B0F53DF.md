@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A21A7B0F53DF"
 pavadinimas: "Lietuvos Respublikos policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-05-31"
 latest_path: "latest/TAR.A21A7B0F53DF.md"
 latest_sha256: "2d8fa542e8051ea676e76b6888ccdffcefbed601ddfd9b1b25ae25abdb07f24e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A21A7B0F53DF]]"
 ---
 # Lietuvos Respublikos policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A21A7B0F53DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A21A7B0F53DF
+- Ryšiai: [[Ryšiai/TAR.A21A7B0F53DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 23 straipsnio 3 dalies pakeitimas ^s-233a9ad62059fda10503bd80
 
 
 23 straipsnio 3 dalyje vietoj skaičių ir žodžių „24 straipsnio 2 dalyje“ įrašyti skaičius ir žodžius „25 straipsnio 2 ir 4 dalyse“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.027789BC6E41"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 52 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 52 straipsnio papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 52 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-03-01"
 latest_path: "latest/TAR.027789BC6E41.md"
 latest_sha256: "ae23c528d9c3a3cf2403e3837b1905a8bd60d1f7295f25bf92953234024cd8ca"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.027789BC6E41]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 52 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.027789BC6E41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.027789BC6E41
+- Ryšiai: [[Ryšiai/TAR.027789BC6E41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 52 straipsnio 2 dalies papildymas
+### 1 straipsnis. 52 straipsnio 2 dalies papildymas ^s-256f0f663b2ac8743c4f5d63
 
 
 Papildyti 52 straipsnio 2 dalį 9 punktu:
@@ -41,7 +46,7 @@ Papildyti 52 straipsnio 2 dalį 9 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d046e3e88629a84e69379fca
 
 
 Įstatymas įsigalioja nuo 1998 m. kovo 1 d.

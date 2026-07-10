@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2C3C7FE7918"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.D2C3C7FE7918.md"
 latest_sha256: "10e9e553da80786462d26fb8fa8651daaec7b58abb1de290c82693cbfc431b28"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2C3C7FE7918]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2C3C7FE7918.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2C3C7FE7918
+- Ryšiai: [[Ryšiai/TAR.D2C3C7FE7918|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,17 +36,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 12 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 12 punkto pakeitimas ^s-6410f8f11a6b2e5a43558b21
 
 
 Papildyti 7 straipsnio 12 punktą ir jį išdėstyti taip:
 
 
-12) kraštovaizdžio, nekilnojamųjų kultūros vertybių bei savivaldybės įsteigtų saugomų teritorijų tvarkymas ir apsauga, savivaldybės teritorijoje esančių želdynų, želdinių apsauga, tvarkymas ir kūrimas, inventorizacijos, apskaitos, atskirųjų želdynų žemės sklypų kadastrinių matavimų ir įrašymo į Nekilnojamojo turto registrą organizavimas, stebėsenos vykdymas;“. ^fbb3a9b491270174b619a4cc
+12) kraštovaizdžio, nekilnojamųjų kultūros vertybių bei savivaldybės įsteigtų saugomų teritorijų tvarkymas ir apsauga, savivaldybės teritorijoje esančių želdynų, želdinių apsauga, tvarkymas ir kūrimas, inventorizacijos, apskaitos, atskirųjų želdynų žemės sklypų kadastrinių matavimų ir įrašymo į Nekilnojamojo turto registrą organizavimas, stebėsenos vykdymas;“. ^s-239226d16c713b99d021f8c4
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-bc5850e1f0ce4a11c8d43da1
 
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.

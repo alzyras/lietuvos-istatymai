@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D6A48B165BD9"
 pavadinimas: "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-30"
 latest_path: "latest/TAR.D6A48B165BD9.md"
 latest_sha256: "9a2f048a262ca019b8d739855d44b90fc0c10333c0d8f8e9006c61e4e2e23c45"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D6A48B165BD9]]"
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D6A48B165BD9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D6A48B165BD9
+- Ryšiai: [[Ryšiai/TAR.D6A48B165BD9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas ^s-f228cb28871222f0c253ccd0
 
 
 Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -44,13 +49,13 @@ Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-06ad72189b6c026c78411235
 
 
-1. Šis įstatymas, išskyrus [[#^6115028fc94f9c82f7032d08|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^af87e6bc4ed2fee5393c9eba
+1. Šis įstatymas, išskyrus [[#^s-7faab2f181db1ec7170c0cfa|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-c7358e4baa7d20f2ba784798
 
 
-2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^6115028fc94f9c82f7032d08
+2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-7faab2f181db1ec7170c0cfa
 
 
 

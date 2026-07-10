@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EA0C58770EBF"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 5 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 5 ir 26 straipsnių pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 5 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-01-29"
 latest_path: "latest/TAR.EA0C58770EBF.md"
 latest_sha256: "9482f71d12db2e1ecccb9f2af53f51210eb6f644d0f04c6105c35fdce1d6b01b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EA0C58770EBF]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 5 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EA0C58770EBF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EA0C58770EBF
+- Ryšiai: [[Ryšiai/TAR.EA0C58770EBF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-600ae13b92e0245c6fa86956
 
 
 5 straipsnio 1 dalyje vietoj žodžių „Vyriausybės programos įgyvendinimo ataskaitą“ įrašyti žodžius „savo metinę veiklos ataskaitą“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 26 straipsnio 3 dalies 6 punkto pakeitimas
+### 2 straipsnis. 26 straipsnio 3 dalies 6 punkto pakeitimas ^s-d2c17d2a5248c210d6c237bb
 
 
 Pakeisti 26 straipsnio 3 dalies 6 punktą ir jį išdėstyti taip:

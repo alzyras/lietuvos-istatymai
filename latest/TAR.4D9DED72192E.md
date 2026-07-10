@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4D9DED72192E"
 pavadinimas: "Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolo ratifikavimo įstatymas"
+  - "ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-03"
 latest_path: "latest/TAR.4D9DED72192E.md"
 latest_sha256: "a5f6b1a5794300a43f08e17728af555cc6a26f38471aff4fec1fd90c6b20315b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4D9DED72192E]]"
 ---
 # Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4D9DED72192E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4D9DED72192E
+- Ryšiai: [[Ryšiai/TAR.4D9DED72192E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-d57929986f46a878ce06871d
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolą“, ratifikuoja Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolą, pasirašytą 1997 m. kovo 7 d. Alma Atoje.

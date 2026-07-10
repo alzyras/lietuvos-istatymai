@@ -1,0 +1,17 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.A21A7B0F53DF"
+pavadinimas: "Lietuvos Respublikos policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas"
+---
+# Lietuvos Respublikos policijos veiklos įstatymo 23 straipsnio pakeitimo įstatymas: ryšiai
+
+- [[latest/TAR.A21A7B0F53DF|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+_Nėra._
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.CA89372D00AA#^s-b84003ade7cb12ec8b77fd47|Lietuvos Respublikos policijos įstatymas]] - 2 citatos - POLICIJOS VEIKLOS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.CA89372D00AA#^s-bcc4a5aea59e968c9a27e030|Lietuvos Respublikos policijos įstatymas]] - 2 citatos - POLICIJOS VEIKLOS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS

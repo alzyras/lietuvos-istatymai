@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D68F9BF289BD"
 pavadinimas: "Lietuvos Respublikos karių materialinės atsakomybės įstatymo 7, 12 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karių materialinės atsakomybės įstatymo 7, 12 ir 26 straipsnių pakeitimo įstatymas"
+  - "karių materialinės atsakomybės įstatymo 7, 12 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.D68F9BF289BD.md"
 latest_sha256: "1aea0e6d0787b99a7068ab6d6c3ecbf0a13a221812eea73b993293a024651a95"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D68F9BF289BD]]"
 ---
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymo 7, 12 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D68F9BF289BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D68F9BF289BD
+- Ryšiai: [[Ryšiai/TAR.D68F9BF289BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies 1 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies 1 punkto pakeitimas ^s-4c11661b3de797e4a4d6e09a
 
 
 Pakeisti 7 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 7 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 12 straipsnio 2 dalies 3 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 2 dalies 3 punkto pakeitimas ^s-642a02b4900ec403b4bde020
 
 
 12 straipsnio 2 dalies 3 punkte vietoj žodžio „nusikaltimo“ įrašyti žodžius „nusikalstamos veikos“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 7 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 26 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 26 straipsnio 1 dalies pakeitimas ^s-012c9b28451bfe8a4031d9cb
 
 
 26 straipsnio 1 dalyje vietoj žodžio „nusikaltimu“ įrašyti žodžius „nusikalstama veika“ ir šią dalį išdėstyti taip:
@@ -61,10 +66,10 @@ Pakeisti 7 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-c88107f4f3a8f33a6d614b1c
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

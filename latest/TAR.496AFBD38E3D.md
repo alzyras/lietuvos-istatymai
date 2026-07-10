@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.496AFBD38E3D"
 pavadinimas: "Lietuvos Respublikos augalų veislių apsaugos įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos augalų veislių apsaugos įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+  - "augalų veislių apsaugos įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-05-08"
 latest_path: "latest/TAR.496AFBD38E3D.md"
 latest_sha256: "906b897287b9594b6a44d80385ece77da085cd4c4ad6d2a1ae741830e921c245"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.496AFBD38E3D]]"
 ---
 # Lietuvos Respublikos augalų veislių apsaugos įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.496AFBD38E3D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.496AFBD38E3D
+- Ryšiai: [[Ryšiai/TAR.496AFBD38E3D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-2bd9189d50c808820aa810de
 
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-f7818af1036a03d6a8670ddc
 
 
-1. 2 straipsnio 5 dalį pripažinti netekusia galios. ^b2425193abedd93bfe064976
+1. 2 straipsnio 5 dalį pripažinti netekusia galios. ^s-69e07fdbe6a5d3394de684d6
 
 
-2. Buvusias [[#2 straipsnis. 2 straipsnio pakeitimas|2 straipsnio]] 6–15 dalis laikyti atitinkamai 5–14 dalimis. ^5bcf1d496d1d401e2f68a0fd
+2. Buvusias [[#^s-f7818af1036a03d6a8670ddc|2 straipsnio]] 6–15 dalis laikyti atitinkamai 5–14 dalimis. ^s-d7a412ffd4136bc200c48286
 
 
 

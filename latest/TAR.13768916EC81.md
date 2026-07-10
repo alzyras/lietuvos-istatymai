@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13768916EC81"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Prancūzijos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-11-21"
 latest_path: "latest/TAR.13768916EC81.md"
 latest_sha256: "6c31d4326dffac59793e804a0b650d12eed1737cd8fe7e871d4a36bd729eba02"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13768916EC81]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės sutarties dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13768916EC81.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13768916EC81
+- Ryšiai: [[Ryšiai/TAR.13768916EC81|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-489ad261fa20b2ef6bed7f0e
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 18 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1997 m. liepos 7 d. Vilniuje.

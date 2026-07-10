@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.803E52BE6947"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio papildymo įstatymas"
+  - "Vyriausybės įstatymo 29 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-03"
 latest_path: "latest/TAR.803E52BE6947.md"
 latest_sha256: "d35cc438455c74cd043b3275f6fc8f3b0000bbe74717093cff65ec9aeb167d9b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.803E52BE6947]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 29 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.803E52BE6947.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.803E52BE6947
+- Ryšiai: [[Ryšiai/TAR.803E52BE6947|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio papildymas 11 dalimi
+### 1 straipsnis. 29 straipsnio papildymas 11 dalimi ^s-ce15c54360b469f8b3f791bd
 
 
 Papildyti 29 straipsnį 11 dalimi:

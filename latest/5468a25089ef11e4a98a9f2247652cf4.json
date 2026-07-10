@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/5468a25089ef11e4a98a9f2247652cf4.md",
   "latest_revision": "2015-01-01",
-  "latest_sha256": "38c41838c69ee999025bf85404c89c7432c2db8fa39e49ffd3797415c36f65fd",
+  "latest_sha256": "2cf1f3148c4e89e80eebc4cbf93271ab7f3ea737678790b88f4efdcfea6699be",
   "metadata_path": "latest/5468a25089ef11e4a98a9f2247652cf4.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos kibernetinio saugumo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:27Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

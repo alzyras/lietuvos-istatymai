@@ -11,7 +11,7 @@
   "latest_revision": "2001-07-01",
   "latest_sha256": "b299f3c8fb918e39cffb246325d768341cacce87129bcde9c37416ec0eacb2d1",
   "metadata_path": "latest/TAR.DC9EEDAC123F.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1697232F65E6"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos ir Protokolo dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos ir Protokolo dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose ratifikavimo"
+  - "įstatymas dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos ir Protokolo dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-11"
 latest_path: "latest/TAR.1697232F65E6.md"
 latest_sha256: "b9b1308f8401c3870770a35b5abdc4c6a0bd4b7cbefbffe7ec1df684c44401f5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1697232F65E6]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos ir Protokolo dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1697232F65E6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1697232F65E6
+- Ryšiai: [[Ryšiai/TAR.1697232F65E6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas
+### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas ^s-32d5173271b766ecd2b5de51
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 534, ratifikuoja Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimą dėl savitarpio teisinės pagalbos, sudarytą 2003 m. birželio 25 d. Vašingtone, ir Protokolą dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose, sudarytą 2005 m. birželio 15 d. Briuselyje.

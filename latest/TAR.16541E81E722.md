@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.16541E81E722"
 pavadinimas: "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.16541E81E722.md"
 latest_sha256: "66217856e2c7f9f67bde8a2b8e2cc03fa94f2c1536684c400456ff7b8a5df0dd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.16541E81E722]]"
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.16541E81E722.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.16541E81E722
+- Ryšiai: [[Ryšiai/TAR.16541E81E722|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-32c41223ba69137e1a3e1832
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,14 +48,14 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-4976354d56316b51b4701af5
 
 
-Šis įstatymas, išskyrus [[#3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai|3 straipsnį]], įsigalioja 2014 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-866a083169e73c7e12820c2d|3 straipsnį]], įsigalioja 2014 m. sausio 1 d.
 
 
 
-### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
+### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai ^s-866a083169e73c7e12820c2d
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DAA53BA648CC"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 66 ir 67 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 66 ir 67 straipsnių pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 66 ir 67 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.DAA53BA648CC.md"
 latest_sha256: "52c07844da3f2111ddaad6e61ce54126b91a3dd4eee7aff5fbf0f5077a843740"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DAA53BA648CC]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 66 ir 67 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DAA53BA648CC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DAA53BA648CC
+- Ryšiai: [[Ryšiai/TAR.DAA53BA648CC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 66 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 66 straipsnio 2 dalies pakeitimas ^s-70ac85b50dbde7fb7dc7d6cc
 
 
 66 straipsnio 2 dalyje vietoj žodžių „tyčinį nusikaltimą“ įrašyti žodžius „tyčinę nusikalstamą veiką“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 67 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 67 straipsnio 2 dalies pakeitimas ^s-4240d943e389e16a9265d084
 
 
 67 straipsnio 2 dalyje vietoj žodžių „tyčinį nusikaltimą“ įrašyti žodžius „tyčinę nusikalstamą veiką“ ir šią dalį išdėstyti taip:
@@ -51,10 +56,10 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-8407ca4fd0d19e4af43691cc
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B8B540DA55CF"
 pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas"
+  - "baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.B8B540DA55CF.md"
 latest_sha256: "19046e2dcb31c7db4ea87a7ee6465de2eeb39c5e5994bf6a6c7198ff4d60ab9b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B8B540DA55CF]]"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B8B540DA55CF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B8B540DA55CF
+- Ryšiai: [[Ryšiai/TAR.B8B540DA55CF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 178 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 178 straipsnio 2 dalies pakeitimas ^s-39844b0b4bb749091109ce4c
 
 
 Pakeisti 178 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 178 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 187 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 187 straipsnio 2 dalies pakeitimas ^s-98aede5bfcb2f800baa77c6c
 
 
 Pakeisti 187 straipsnio 2 dalį ir ją išdėstyti taip:

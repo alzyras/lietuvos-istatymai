@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "5aff6dc090bf11e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straipsnių pakeitimo įstatymas"
+  - "vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-01-01"
 latest_path: "latest/5aff6dc090bf11e4bb408baba2bdddf3.md"
 latest_sha256: "8e510c1893563fa8282a20e05a1023f75a68f5dd54df6774a34e0fa37cc32a5a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/5aff6dc090bf11e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/5aff6dc090bf11e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/5aff6dc090bf11e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/5aff6dc090bf11e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-d3aa332d4f05f3bb4ef55c04
 
 
 Pakeisti 3 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 3 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 17 straipsnio pakeitimas
+### 2 straipsnis. 17 straipsnio pakeitimas ^s-693b40a9003ab4b22825c64c
 
 
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -51,23 +56,23 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 34 straipsnio pakeitimas
+### 3 straipsnis. 34 straipsnio pakeitimas ^s-0c68f2c87caff59b77849180
 
 
-1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^7775ad9558de7292d9405bc2
+1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^s-c5d1e99e3b18a6cbb93b45fa
 
 
 „1. Už šio įstatymo nuostatų pažeidimus priežiūros institucija gali skirti nuo 289 iki 8 688 eurų baudą. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, gali būti skiriama didesnė, iki 34 754 eurų, bauda. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos.“
 
 
-2. Pakeisti 34 straipsnio 6 dalį ir ją išdėstyti taip: ^8be6d07f21b5d460e8a22e27
+2. Pakeisti 34 straipsnio 6 dalį ir ją išdėstyti taip: ^s-f00197a82b2d0cf29b02ea20
 
 
 „6. Už priežiūros institucijos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai asmuo buvo įspėtas dėl šio reikalavimo nevykdymo, asmeniui gali būti skiriama bauda iki 2 896 eurų.“
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-042aee40fb5295f30006fb75
 
 
 Šis įstatymas įsigalioja 2015 m. sausio 1 d.

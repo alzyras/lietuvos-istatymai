@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.52E5B753BFE6"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-01"
 latest_path: "latest/TAR.52E5B753BFE6.md"
 latest_sha256: "19ed691b0b4e2322e97e4905f6b51c847691d59407354fa874853479de5afe63"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.52E5B753BFE6]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.52E5B753BFE6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.52E5B753BFE6
+- Ryšiai: [[Ryšiai/TAR.52E5B753BFE6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,30 +38,30 @@ Vilnius
 
 
 
-### 1 straipsnis. 68 straipsnio 6 ir 7 dalių pakeitimas
+### 1 straipsnis. 68 straipsnio 6 ir 7 dalių pakeitimas ^s-04c688f0991d9ed8e0e0dbd5
 
 
-1. Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip: ^b07ab3ebfef15557019175f8
+1. Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip: ^s-3f08df8694c01d006fa2f946
 
 
 „6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų laikotarpiu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, – 100 procentų, o kol vaikui sueis dveji metai, – 85 procentai šia tvarka apskaičiuoto vidutinio jų atlyginimo. Išmokos vaiko priežiūros atostogų laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai suteiktos vaiko priežiūros atostogos. Jeigu profesinės karo tarnybos kariui gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, išmoka didinama atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai profesinės karo tarnybos karei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.“
 
 
-2. Pakeisti 68 straipsnio 7 dalį ir ją išdėstyti taip: ^7ef66c650d8dd1af1d9db0f9
+2. Pakeisti 68 straipsnio 7 dalį ir ją išdėstyti taip: ^s-9dbf7ce1638d9a947e176bde
 
 
 „7. Jeigu profesinės karo tarnybos karys, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna atlyginimą, kuris yra mažesnis už šio straipsnio 6 dalyje nurodytą išmoką (bendrą šių išmokų sumą), laikotarpiu, kol vaikui sueis dveji metai, mokamas šios išmokos (bendros šių išmokų sumos) ir jo gaunamo atitinkamo mėnesio tarnybinio atlyginimo skirtumas.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f76f8182cc88cc09a9eed4c4
 
 
 Šis įstatymas įsigalioja 2008 m. liepos 1 d.
 
 
 
-### 3 straipsnis. Baigiamosios nuostatos
+### 3 straipsnis. Baigiamosios nuostatos ^s-ed190a5ca69ccb6d82e5cf0c
 
 
 Profesinės karo tarnybos kariams, kuriems išmokų mokėjimas vaiko priežiūros atostogų laikotarpiu buvo nutrauktas dėl to, kad jiems buvo paskirta tokia išmoka už kitą vaiką, šių išmokų mokėjimas tęsiamas nuo šio įstatymo įsigaliojimo. Šiuo atveju išmokų dydžiai iš naujo neperskaičiuojami.

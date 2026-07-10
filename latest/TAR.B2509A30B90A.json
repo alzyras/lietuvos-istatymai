@@ -11,7 +11,7 @@
   "latest_revision": "2003-06-13",
   "latest_sha256": "edaa9e608feb2a1d90553cb06a9227357063f0f723d1e54a1cedf16dd6c06481",
   "metadata_path": "latest/TAR.B2509A30B90A.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 36 ir 45 straipsnių pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

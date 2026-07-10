@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AE7A8CDCB947"
 pavadinimas: "LIetuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 5 ir 15 straipsnių papildymo įstatymas"
+aliases:
+  - "LIetuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 5 ir 15 straipsnių papildymo įstatymas"
+  - "baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 5 ir 15 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-27"
 latest_path: "latest/TAR.AE7A8CDCB947.md"
 latest_sha256: "9b81de23e3471b211050a94c0ff41678c7f52bd1d6a6ae5855d6423f1d609624"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AE7A8CDCB947]]"
 ---
 # LIetuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 5 ir 15 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AE7A8CDCB947.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AE7A8CDCB947
+- Ryšiai: [[Ryšiai/TAR.AE7A8CDCB947|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies papildymas
+### 1 straipsnis. 5 straipsnio 2 dalies papildymas ^s-51e602a25430da64e04ccc83
 
 
 5 straipsnio 2 dalyje po pirmojo sakinio įrašyti: „Tais atvejais, kai pagal bylos aplinkybes yra pagrindas skirti apsaugos nuo nusikalstamo poveikio priemones, bet asmuo dėl savo fizinės ar (ir) psichinės būsenos negali pareikšti savo sutikimo, šiam asmeniui turi būti skiriama apsauga, o pasikeitus aplinkybėms ir atsiradus galimybei pareikšti savo valią, jam apie tai turi būti pranešama ir gaunamas jo sutikimas. Asmeniui atsisakius apsaugos priemonių, paskirta apsauga nutraukiama“, paskutiniajame sakinyje po žodžio „nesutinka“ įrašyti žodžius „galintis pareikšti savo valią“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 15 straipsnio 1 dalies papildymas
+### 2 straipsnis. 15 straipsnio 1 dalies papildymas ^s-e30dff14e3caf0f756e76a4e
 
 
 15 straipsnio 1 dalyje po žodžio „prašymą“ įrašyti žodžius „arba esant aplinkybėms, nurodytoms šio įstatymo 5 straipsnio 2 dalyje, asmeniui atsisakius jam paskirtos apsaugos“ ir šią dalį išdėstyti taip:

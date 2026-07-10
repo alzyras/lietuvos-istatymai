@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2356BE258F96"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir įstatymo papildymo 3 priedu įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir įstatymo papildymo 3 priedu įstatymo pripažinimo netekusiu galios įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir įstatymo papildymo 3 priedu įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.2356BE258F96.md"
 latest_sha256: "13f20121ee6ec2dd4ac563bec28ba914c5e0ded165d402be2a938e91f82f29e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2356BE258F96]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir įstatymo papildymo 3 priedu įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2356BE258F96.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2356BE258F96
+- Ryšiai: [[Ryšiai/TAR.2356BE258F96|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,10 +37,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-753ce496697f0e09c290a847
 
 
-Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio papildymo ir Įstatymo papildymo 3 priedu įstatymą pripažinti netekusiu galios.
+[[latest/TAR.ED68997709F5#^s-2bb609ef3497dccb601cb32d|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio]] papildymo ir Įstatymo papildymo 3 priedu įstatymą pripažinti netekusiu galios.
 
 
 

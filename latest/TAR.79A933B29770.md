@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.79A933B29770"
 pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+  - "rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-16"
 latest_path: "latest/TAR.79A933B29770.md"
 latest_sha256: "2e0e74c4ed67f85459237eb21f7337e03343a3a40e6ccce40a93011b33b8fdd6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.79A933B29770]]"
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.79A933B29770.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.79A933B29770
+- Ryšiai: [[Ryšiai/TAR.79A933B29770|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas ^s-891b07f8e4070cf610c31c97
 
 
 4 straipsnio 1 dalies 2 punkte prieš žodį „išduodamus“ įrašyti žodžius „dokumentų išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir“ ir šį punktą išdėstyti taip:
@@ -41,40 +46,40 @@ Vilnius
 
 
 
-### 2 straipsnis. 6 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-7678763f49d2e89910575c10
 
 
-6 straipsnio 2 dalies pirmojoje pastraipoje po žodžių „gyvenamąją vietą“ įrašyti žodžius „ir kitas suteiktas paslaugas“, 3 ir [[#^592646384b96c7c12c5ac5ce|4 punktus]] pakeisti ir šią dalį išdėstyti taip:
+6 straipsnio 2 dalies pirmojoje pastraipoje po žodžių „gyvenamąją vietą“ įrašyti žodžius „ir kitas suteiktas paslaugas“, 3 ir [[#^s-13888ee0d5a61adfa04e6a0d|4 punktus]] pakeisti ir šią dalį išdėstyti taip:
 
 
 „2. Už išduodamus dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką bei gyvenimo joje, užsieniečių įdarbinimo, taip pat už dokumentą, patvirtinantį asmens gyvenamąją vietą, ir kitas suteiktas paslaugas nuo valstybės rinkliavos atleidžiami:
 
 
-1) asmenys, turintys teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka, vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių, asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. – ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą; ^52c7fa7844f369b582584e05
+1) asmenys, turintys teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka, vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių, asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. – ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą; ^s-918880dc01708f9d0622cba0
 
 
-2) politiniai kaliniai, tremtiniai, rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės dokumento bei vizos išdavimą ir pratęsimą; ^c434487e7aff9ba3438f8529
+2) politiniai kaliniai, tremtiniai, rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės dokumento bei vizos išdavimą ir pratęsimą; ^s-d28c9deb2ae672ddf9234d34
 
 
-3) asmenys iki 16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos galiojimo laiko pratęsimą, už dokumentų išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą; ^c7870debddd3020373abbf82
+3) asmenys iki 16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos galiojimo laiko pratęsimą, už dokumentų išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą; ^s-1efa81e5f4daabd1ba0a17bc
 
 
-4) užsieniečiai, kuriems suteiktas prieglobstis Lietuvos Respublikoje, už pirmojo leidimo gyventi Lietuvos Respublikoje išdavimą; ^592646384b96c7c12c5ac5ce
+4) užsieniečiai, kuriems suteiktas prieglobstis Lietuvos Respublikoje, už pirmojo leidimo gyventi Lietuvos Respublikoje išdavimą; ^s-13888ee0d5a61adfa04e6a0d
 
 
-5) užsienio valstybių piliečiai, vykstantys į Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar vietos savivaldos institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai (sutuoktiniai, vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra sudarę santuokos) – už dokumentų, suteikiančių teisę atvykti į Lietuvos Respubliką, išdavimą; ^daf6b9f9bb3d08621ae8f41f
+5) užsienio valstybių piliečiai, vykstantys į Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar vietos savivaldos institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai (sutuoktiniai, vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra sudarę santuokos) – už dokumentų, suteikiančių teisę atvykti į Lietuvos Respubliką, išdavimą; ^s-c7a90eb1c40294be9f5c3165
 
 
-6) lietuvių kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų užsienio valstybėse pareigūnų išduotus Lietuvos Respublikos užsienio reikalų ministerijos patvirtintos formos pažymėjimus, – už vizų išdavimą ir pratęsimą; ^9e77b938387dbe26a32bf1b8
+6) lietuvių kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų užsienio valstybėse pareigūnų išduotus Lietuvos Respublikos užsienio reikalų ministerijos patvirtintos formos pažymėjimus, – už vizų išdavimą ir pratęsimą; ^s-a0ae9fbcafd2fbe2b1bf5e12
 
 
-7) sunkiai sergantys užsieniečiai arba užsieniečiai, kuriems reikalinga skubi medicinos pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas, patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą; ^96f50974398e33fec780b070
+7) sunkiai sergantys užsieniečiai arba užsieniečiai, kuriems reikalinga skubi medicinos pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas, patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą; ^s-11fa9fd807895319b0ed4ad7
 
 
-8) užsieniečiai, vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų) laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų išdavimą pasienio kontrolės punktuose; ^8a0de69e0c195dcacb0d1380
+8) užsieniečiai, vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų) laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų išdavimą pasienio kontrolės punktuose; ^s-0f44f4a9c18de0e53d31dab8
 
 
-9) užsieniečiai, vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir pratęsimą.“ ^1a55afcb152c9d77f7848d4d
+9) užsieniečiai, vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir pratęsimą.“ ^s-a17a3cb3209c14ce5fd88b90
 
 
 

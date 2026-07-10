@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EA527C8AB66E"
 pavadinimas: "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 2, 4, 8, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 2, 4, 8, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo įstatymas"
+  - "tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 2, 4, 8, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-05-26"
 latest_path: "latest/TAR.EA527C8AB66E.md"
 latest_sha256: "706d42ea49e27607c0a73067570713676e60461f360a05827af473b5cc06bc5e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EA527C8AB66E]]"
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 2, 4, 8, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EA527C8AB66E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EA527C8AB66E
+- Ryšiai: [[Ryšiai/TAR.EA527C8AB66E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas ^s-e237137bb4e11a479b2bd82d
 
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -41,29 +46,29 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 „6. Kiti karinio bendradarbiavimo renginiai (toliau – kiti renginiai) – tarptautinei operacijai ir pratyboms nepriskiriami karinio bendradarbiavimo su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis renginiai.“
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-4775fc7c01a262624b721643
 
 
-1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^5e1c30206793ac46a414e5d4
+1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^s-9d8c21a3c6fd084b957dd50c
 
 
 „2. Šio Įstatymo nustatytais atvejais ir tvarka priėmus sprendimus dėl Lietuvos Respublikos dalyvavimo tarptautinėse operacijose, Lietuvos Respublikos kariniai vienetai krašto apsaugos ministro ar jo įgalioto kariuomenės vado įsakymu gali būti perduoti kitų valstybių arba Jungtinių Tautų, NATO ar Europos Sąjungos institucijų operaciniam vadovavimui ir valdymui.“
 
 
-2. Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip: ^e0e09213cda0f4ca7c9e3020
+2. Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip: ^s-2db1e2cc277182f1c40bcfad
 
 
 „4. Bendrų su užsienio valstybėmis karinių vienetų panaudojimo sąlygas ir jų operacinio vadovavimo bei valdymo tvarką, taip pat Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų skaičių šiuose vienetuose nustato Lietuvos Respublikos tarptautinės sutartys ar susitarimai dėl bendrų karinių vienetų steigimo.“
 
 
-3. Papildyti 4 straipsnį 8 dalimi: ^0a7dfc1393d13ab01fa90538
+3. Papildyti 4 straipsnį 8 dalimi: ^s-476df560a376ef56754bb9b6
 
 
 „8. Ypatingais atvejais, kai gali kilti grėsmė Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų ar jų šeimos narių saugumui, siunčiamų atlikti tarnybą tarptautinėje operacijoje Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų asmens tapatybė gali būti užšifruojama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
 
 
-### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-4a747f797e336a8fc9bb3067
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
@@ -72,20 +77,20 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 „8 straipsnis. Pratybų ir kitų renginių organizavimas
 
 
-1. Bendradarbiaujant su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis: ^37282593f265bfc17677d2f4
+1. Bendradarbiaujant su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis: ^s-5da3fe25bd2044b167a3255d
 
 
-1) Lietuvos Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros objektuose ir karinio mokymo teritorijose, taip pat organizuojami kiti renginiai, kuriuose dalyvauja kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai; ^36de48ac7473ee2bffd76022
+1) Lietuvos Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros objektuose ir karinio mokymo teritorijose, taip pat organizuojami kiti renginiai, kuriuose dalyvauja kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai; ^s-1a7dc50dc3da805dd69aaf80
 
 
-2) Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai gali būti siunčiami dalyvauti pratybose bei kituose renginiuose kitų valstybių teritorijose. ^7e62d5739378c679fb8068f4
+2) Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai gali būti siunčiami dalyvauti pratybose bei kituose renginiuose kitų valstybių teritorijose. ^s-c840a18ff41804d67f01addf
 
 
-2. Šio Įstatymo nustatytais atvejais ir tvarka priėmus sprendimus dėl Lietuvos Respublikos karinių vienetų dalyvavimo pratybose ir kituose renginiuose, šie kariniai vienetai krašto apsaugos ministro ar jo įgalioto kariuomenės vado įsakymu gali būti perduoti kitų valstybių, taip pat Jungtinių Tautų, NATO ar Europos Sąjungos institucijų operaciniam vadovavimui ir valdymui.“ ^7959f681b20649925db6f3b9
+2. Šio Įstatymo nustatytais atvejais ir tvarka priėmus sprendimus dėl Lietuvos Respublikos karinių vienetų dalyvavimo pratybose ir kituose renginiuose, šie kariniai vienetai krašto apsaugos ministro ar jo įgalioto kariuomenės vado įsakymu gali būti perduoti kitų valstybių, taip pat Jungtinių Tautų, NATO ar Europos Sąjungos institucijų operaciniam vadovavimui ir valdymui.“ ^s-3efd73ae758e210184d7c7ca
 
 
 
-### 4 straipsnis. 9 straipsnio 3 dalies 2 punkto pakeitimas
+### 4 straipsnis. 9 straipsnio 3 dalies 2 punkto pakeitimas ^s-913e44219945866373133f5e
 
 
 Pakeisti 9 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
@@ -95,7 +100,7 @@ Pakeisti 9 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 10 straipsnio 3 dalies 2 punkto pakeitimas
+### 5 straipsnis. 10 straipsnio 3 dalies 2 punkto pakeitimas ^s-c67c0b3908052bbdb6a7f7e6
 
 
 Pakeisti 10 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
@@ -105,7 +110,7 @@ Pakeisti 10 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 11 straipsnio pakeitimas
+### 6 straipsnis. 11 straipsnio pakeitimas ^s-3226bd83de062dc36c9ecaf7
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -114,26 +119,26 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 „11 straipsnis.     Tarptautinėse operacijose, pratybose ir kituose renginiuose dalyvaujančių Lietuvos Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos tarnautojų vykimas per valstybės sieną bei jų statusas
 
 
-1. Siunčiamam į kitą valstybę Lietuvos Respublikos kariniam vienetui, kariui ar civiliui krašto apsaugos sistemos tarnautojui krašto apsaugos ministro nustatyta tvarka kariuomenės vadas ar jo įgaliotas karininkas išleidžia kolektyvinį arba asmeninį judėjimo ar kelionės įsakymą (lietuvių ir anglų (prancūzų) kalbomis). Įsakymas patvirtina šio vieneto, karių ir karinėms pajėgoms priskirtų civilių tarnautojų statusą, jų teisę turėti ir nešioti ginklus, gabenamų oficialių dokumentų paketų skaičių, taip pat karinio vieneto judėjimo kryptį. Išsivežamos ginkluotės, amunicijos ir technikos sąrašas, taip pat maisto produktų, kitų atsargų ir prekių kiekis, reikalingas vartojimo poreikiams, nurodomas teisės aktų nustatyta tvarka pagal NATO standartus patvirtintos formos pažymoje, o šią pažymą pasirašo kariuomenės vadas ar jo įgaliotas karininkas. Šio dokumento pagrindu Lietuvos Respublikos karinis vienetas, karys ar civilis krašto apsaugos sistemos tarnautojas sąraše nurodytą turtą nedeklaruodamas išveža per Lietuvos valstybės sieną, o grįždamas įveža atgal į Lietuvos Respublikos teritoriją. Specialiąją valstybės sienos perėjimo tvarką tvirtina Lietuvos Respublikos Vyriausybė. ^41b62a33ffd62f561942ecaf
+1. Siunčiamam į kitą valstybę Lietuvos Respublikos kariniam vienetui, kariui ar civiliui krašto apsaugos sistemos tarnautojui krašto apsaugos ministro nustatyta tvarka kariuomenės vadas ar jo įgaliotas karininkas išleidžia kolektyvinį arba asmeninį judėjimo ar kelionės įsakymą (lietuvių ir anglų (prancūzų) kalbomis). Įsakymas patvirtina šio vieneto, karių ir karinėms pajėgoms priskirtų civilių tarnautojų statusą, jų teisę turėti ir nešioti ginklus, gabenamų oficialių dokumentų paketų skaičių, taip pat karinio vieneto judėjimo kryptį. Išsivežamos ginkluotės, amunicijos ir technikos sąrašas, taip pat maisto produktų, kitų atsargų ir prekių kiekis, reikalingas vartojimo poreikiams, nurodomas teisės aktų nustatyta tvarka pagal NATO standartus patvirtintos formos pažymoje, o šią pažymą pasirašo kariuomenės vadas ar jo įgaliotas karininkas. Šio dokumento pagrindu Lietuvos Respublikos karinis vienetas, karys ar civilis krašto apsaugos sistemos tarnautojas sąraše nurodytą turtą nedeklaruodamas išveža per Lietuvos valstybės sieną, o grįždamas įveža atgal į Lietuvos Respublikos teritoriją. Specialiąją valstybės sienos perėjimo tvarką tvirtina Lietuvos Respublikos Vyriausybė. ^s-71c3b2e6a84a86b3d8a63bca
 
 
-2. Lietuvos Respublikos karinio vieneto vadas, karys ir civilis krašto apsaugos sistemos tarnautojas, vykdamas per kitos valstybės sieną, privalo pateikti šios valstybės sienos kontrolės pareigūnams [[#^41b62a33ffd62f561942ecaf|šio straipsnio 1 dalyje]] nurodytą įsakymą. ^75006f6057c2f4a67b3a846c
+2. Lietuvos Respublikos karinio vieneto vadas, karys ir civilis krašto apsaugos sistemos tarnautojas, vykdamas per kitos valstybės sieną, privalo pateikti šios valstybės sienos kontrolės pareigūnams [[#^s-71c3b2e6a84a86b3d8a63bca|šio straipsnio 1 dalyje]] nurodytą įsakymą. ^s-9b5d403fe10f66b90d108896
 
 
-3. Lietuvos Respublikos karinių vienetų, jų karių ir civilių krašto apsaugos sistemos tarnautojų teisinį statusą kitose valstybėse nustato tarptautinės teisės normos dėl užsienio valstybių karinių pajėgų statuso, Lietuvos Respublikos tarptautinės sutartys, įstatymai ir kiti teisės aktai bei susitarimai su kitų valstybių ar tarptautinių organizacijų kompetentingomis institucijomis, taip pat tarptautinės organizacijos ar užsienio valstybės, kurios operaciniam vadovavimui ir valdymui buvo perduotas Lietuvos Respublikos karinis vienetas, sprendimai ar (ir) tokios tarptautinės organizacijos arba užsienio valstybės susitarimai su šio vieneto buvimo valstybe.“ ^e4930d96049e6962cf467bae
+3. Lietuvos Respublikos karinių vienetų, jų karių ir civilių krašto apsaugos sistemos tarnautojų teisinį statusą kitose valstybėse nustato tarptautinės teisės normos dėl užsienio valstybių karinių pajėgų statuso, Lietuvos Respublikos tarptautinės sutartys, įstatymai ir kiti teisės aktai bei susitarimai su kitų valstybių ar tarptautinių organizacijų kompetentingomis institucijomis, taip pat tarptautinės organizacijos ar užsienio valstybės, kurios operaciniam vadovavimui ir valdymui buvo perduotas Lietuvos Respublikos karinis vienetas, sprendimai ar (ir) tokios tarptautinės organizacijos arba užsienio valstybės susitarimai su šio vieneto buvimo valstybe.“ ^s-a3b121420455665ad64f1246
 
 
 
-### 7 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
+### 7 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas ^s-0223a95ab3e0372f5d3c2737
 
 
-1. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip: ^7ab78009f408af7c713d3de2
+1. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip: ^s-8f7920f7758b331f61ed068f
 
 
 „3. Lietuvos valstybės sienos kontrolės institucijų pareigūnų reikalavimu kitų valstybių karinių vienetų vadai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai privalo pateikti kolektyvinį arba asmeninį judėjimo ar kelionės įsakymą. Jį kompetentinga siunčiančiosios valstybės ar tarptautinės organizacijos institucija išleidžia savo šalies kalba, taip pat anglų (prancūzų) kalba. Įsakymas patvirtina šio vieneto, karių ir karinėms pajėgoms priskirtų civilių tarnautojų statusą, jų teisę turėti ir nešioti ginklus, gabenamų oficialių dokumentų paketų skaičių, taip pat karinio vieneto judėjimo kryptį. Kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams pereinant Lietuvos valstybės sieną, valstybės sienos kontrolės institucijų pareigūnams kilusius klausimus sprendžia krašto apsaugos ministro įgalioti atstovai.“
 
 
-2. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^0d8561da679f44c49e0bbafc
+2. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^s-aa909d6caf2b2c1dc207c1af
 
 
 „4. Kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai, kuriems šio Įstatymo nustatyta tvarka leista atvykti į Lietuvos Respubliką, turi teisę nedeklaruodami ir nemokėdami mokesčių įsivežti į Lietuvos Respublikos teritoriją ir išsivežti iš jos savo ginkluotę, karinę techniką ir amuniciją bei oficialius dokumentus, taip pat savo vartojimo poreikiams reikalingą maisto produktų, kitų atsargų ir prekių kiekį (įskaitant akcizų objektu esančias prekes). Įvežamos ar išvežamos ginkluotės, amunicijos ir technikos sąrašas, taip pat maisto produktų, kitų atsargų ir prekių kiekis nurodomas specialios formos pažymoje, o šią pažymą pasirašo kompetentingas siunčiančiosios valstybės ar tarptautinės organizacijos pareigūnas.“

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E888D28EB5A0"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2, 7 straipsnių pakeitimo ir papildymo bei įstatymo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2, 7 straipsnių pakeitimo ir papildymo bei įstatymo priedėlio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2, 7 straipsnių pakeitimo ir papildymo bei įstatymo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-26"
 latest_path: "latest/TAR.E888D28EB5A0.md"
 latest_sha256: "ef309d33a4c35777dbc8e086520ecc548f93b57f40cc9560d93be36a677b6255"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E888D28EB5A0]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2, 7 straipsnių pakeitimo ir papildymo bei įstatymo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E888D28EB5A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E888D28EB5A0
+- Ryšiai: [[Ryšiai/TAR.E888D28EB5A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-6a9bed1f6b6aded83a659975
 
 
 2 straipsnio 3 dalies 10 punkte po žodžio „Seimo“ įrašyti žodžius „Seimo Pirmininko“, išbraukti žodį „ar“, po žodžio „Prezidento“ įrašyti žodžius „ar Ministro Pirmininko“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 7 straipsnio 4 dalies papildymas
+### 2 straipsnis. 7 straipsnio 4 dalies papildymas ^s-01795da35f825e3897b1ce1b
 
 
 Papildyti 7 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Papildyti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo priedėlio IV skirsnio 9 punkto pakeitimas
+### 3 straipsnis. Įstatymo priedėlio IV skirsnio 9 punkto pakeitimas ^s-f0a1bf61d6eb7b36e95a5ec3
 
 
 Pakeisti Įstatymo priedėlio IV skirsnio 9 punkto pirmą pastraipą ir visą punktą išdėstyti taip:
@@ -60,15 +65,15 @@ Pakeisti Įstatymo priedėlio IV skirsnio 9 punkto pirmą pastraipą ir visą pu
 „9. Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 
- 9.1. pirmininkai ^b942764824d0d4bf2230641b
+ 9.1. pirmininkai ^s-3e0ef15b5fe2b4a66a28c363
  12
 
 
- 9.2. pavaduotojai ^aa7dd5969b3d652f4d2367b1
+ 9.2. pavaduotojai ^s-63fa3cebe30a167f2edbbf3e
  11
 
 
- 9.3. nariai ^f14396273ea60bbde4ff883b
+ 9.3. nariai ^s-ed1f4567d7ecc24bef5c72c5
  9,5.“
 
 

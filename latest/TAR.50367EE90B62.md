@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.50367EE90B62"
 pavadinimas: "Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas"
+  - "vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-10-31"
 latest_path: "latest/TAR.50367EE90B62.md"
 latest_sha256: "1ee91d8a0f3b2b8df67a6b3f9d73b4071f29011bb51290c7ef58f6ba601f8db3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.50367EE90B62]]"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.50367EE90B62.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.50367EE90B62
+- Ryšiai: [[Ryšiai/TAR.50367EE90B62|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-953449a6a59c4b1b5598e8f1
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -40,7 +45,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose ir apskričių viršininkų administracijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.“
 
 
-### 2 straipsnis. 11 straipsnio 3 dalies 3 punkto pakeitimas
+### 2 straipsnis. 11 straipsnio 3 dalies 3 punkto pakeitimas ^s-777b2c382edcd995a44f8920
 
 
 Pakeisti 11 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:

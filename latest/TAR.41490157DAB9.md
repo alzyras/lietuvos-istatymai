@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.41490157DAB9"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 90 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 90 straipsnio papildymo įstatymas"
+  - "sveikatos sistemos įstatymo 90 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-23"
 latest_path: "latest/TAR.41490157DAB9.md"
 latest_sha256: "4a9bb3213fa84734ad0b4c869ee9892d846d3015f9d9cb8a9d99aa53985bd9d3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.41490157DAB9]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 90 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.41490157DAB9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.41490157DAB9
+- Ryšiai: [[Ryšiai/TAR.41490157DAB9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 90 straipsnio trečiosios dalies papildymas
+### 1 straipsnis. 90 straipsnio trečiosios dalies papildymas ^s-d0a170fecafdc3e27a92bc67
 
 
 90 straipsnio trečiojoje dalyje po pirmojo sakinio įrašyti sakinį „Gydytojams medicinos praktikos licencijas ir sertifikatus išduoda, atnaujina, sustabdo ir panaikina Sveikatos apsaugos ministerija“ ir šią dalį išdėstyti taip:

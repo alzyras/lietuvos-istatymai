@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C6E50A455E8D"
 pavadinimas: "Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas"
+  - "Bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-01"
 latest_path: "latest/TAR.C6E50A455E8D.md"
 latest_sha256: "5dbef0f678c9e1a55b04e6e4fef85c1633e9a9f3cb5c781dbb6020e1794b5303"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C6E50A455E8D]]"
 ---
 # Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C6E50A455E8D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C6E50A455E8D
+- Ryšiai: [[Ryšiai/TAR.C6E50A455E8D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies 1 punkto pakeitimas ^s-37c041b01763dacc3ad91a7d
 
 
 Pakeisti 1 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -41,57 +46,57 @@ Pakeisti 1 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-c98092d7c964d264234401d4
 
 
-Pakeisti [[#3 straipsnis. Ketvirtojo skirsnio pripažinimas netekusiu galios|3 straipsnio]] pavadinimą ir [[#^82e38e3f353ac9782cdcb0cb|1 dalį]], straipsnį papildyti [[#^f2d0cdbef4194d61492c5547|3 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-c63998c690549cf7bf658074|3 straipsnio]] pavadinimą ir [[#^s-07540e7f3f651a92e69a9aa6|1 dalį]], straipsnį papildyti [[#^s-1108811c840363e2901cfd94|3 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. Ketvirtojo skirsnio pripažinimas netekusiu galios|3 straipsnis]]. Centro teisinė forma, steigimo ir veiklos teisiniai pagrindai
+„[[#^s-c63998c690549cf7bf658074|3 straipsnis]]. Centro teisinė forma, steigimo ir veiklos teisiniai pagrindai
 
 
-1. Centras yra Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos pavaldi biudžetinė įstaiga. ^82e38e3f353ac9782cdcb0cb
+1. Centras yra Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos pavaldi biudžetinė įstaiga. ^s-07540e7f3f651a92e69a9aa6
 
 
-2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais. ^bcee5be9e62e2c4d8d631d61
+2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais. ^s-c58f1fa2ae119345d87ccfb4
 
 
-3. Centrą steigia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įstatymų ir kitų teisės aktų nustatyta tvarka. Centro nuostatus tvirtina Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius.“ ^f2d0cdbef4194d61492c5547
+3. Centrą steigia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įstatymų ir kitų teisės aktų nustatyta tvarka. Centro nuostatus tvirtina Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius.“ ^s-1108811c840363e2901cfd94
 
 
 
-### 3 straipsnis. Ketvirtojo skirsnio pripažinimas netekusiu galios
+### 3 straipsnis. Ketvirtojo skirsnio pripažinimas netekusiu galios ^s-c63998c690549cf7bf658074
 
 
 Pripažinti netekusiu galios ketvirtąjį skirsnį.
 
 
 
-### 4 straipsnis. Šeštojo skirsnio pripažinimas netekusiu galios
+### 4 straipsnis. Šeštojo skirsnio pripažinimas netekusiu galios ^s-b23999c53edfb85ccbc6457b
 
 
 Pripažinti netekusiu galios šeštąjį skirsnį.
 
 
 
-### 5 straipsnis. Septintojo skirsnio pripažinimas netekusiu galios
+### 5 straipsnis. Septintojo skirsnio pripažinimas netekusiu galios ^s-d6fdbf0b23c7ce027a938c05
 
 
 Pripažinti netekusiu galios septintąjį skirsnį.
 
 
 
-### 6 straipsnis. Pasiūlymas Vyriausybei
+### 6 straipsnis. Pasiūlymas Vyriausybei ^s-af77a1f42e1686608295a266
 
 
 Vyriausybė iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-fd592d9a874f0bb0601aa00c
 
 
-Šis įstatymas, išskyrus [[#6 straipsnis. Pasiūlymas Vyriausybei|6 straipsnį]], įsigalioja nuo 2006 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-af77a1f42e1686608295a266|6 straipsnį]], įsigalioja nuo 2006 m. liepos 1 d.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BFB136428878"
 pavadinimas: "Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas"
+aliases:
+  - "Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas"
+  - "pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-02-07"
 latest_path: "latest/TAR.BFB136428878.md"
 latest_sha256: "c68c93079bd491d18547ae12602a920cc7fda197fe0605ecdd5cab3342191889"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BFB136428878]]"
 ---
 # Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BFB136428878.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BFB136428878
+- Ryšiai: [[Ryšiai/TAR.BFB136428878|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -43,50 +48,50 @@ priima šį įstatymą.
 
 
 
-### 1 straipsnis. Kariai savanoriai
+### 1 straipsnis. Kariai savanoriai ^s-ddf4e40e0e89a9a71cd80160
 
 
-1. Kariai savanoriai yra ginkluoto pasipriešinimo (rezistencijos) dalyviai: ^5efa6b2fab6fb02b4ec798de
+1. Kariai savanoriai yra ginkluoto pasipriešinimo (rezistencijos) dalyviai: ^s-cd991a28cd6da05c25bb0509
 
 
-1) 1941-ųjų birželio sukilimo dalyviai, 22–28 dienomis ginklu kovoję su okupacinės valdžios struktūromis, taip pat šio sukilimo vadovai bei štabų nariai; ^9a5a5af066ec8585066afd9d
+1) 1941-ųjų birželio sukilimo dalyviai, 22–28 dienomis ginklu kovoję su okupacinės valdžios struktūromis, taip pat šio sukilimo vadovai bei štabų nariai; ^s-f009bbd80dcd747f125a67d1
 Straipsnio punkto pakeitimai:
 Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. [[latest/TAR.6F8A26C114BC|0991010ISTAIII-1201]]
 
 
 
-2) Vietinės rinktinės kariai; ^ef0424a59b0f5900b4a0779d
+2) Vietinės rinktinės kariai; ^s-bb126a37beae4cd8beb3c53e
 
 
-3) Tėvynės apsaugos rinktinės kariai; ^3afd3e9230bc640e4ba8197d
+3) Tėvynės apsaugos rinktinės kariai; ^s-4dab65f258f8d4a520f4d1f4
 
 
-4) partizanai, kurie priklausė ginkluoto pasipriešinimo struktūroms, davė priesaiką ir jos nesulaužė, turėjo atpažinimo ženklus ir ginklus, gyveno nelegaliai, taip pat rezervinių būrių, organizacinių skyrių bei kitų slaptųjų ginkluoto pasipriešinimo struktūrų nariai, kurie davė priesaiką ir jos nesulaužė, turėjo ginklus ir vadovybės įsakymu dalyvavo kautynėse ar kitose ginkluotose operacijose, taip pat partizanų ryšininkai ar rėmėjai, patekę į kautynių situaciją, su ginklu dalyvavę šiose kautynėse ir jų metu suimti, sužeisti ar žuvę. ^74ab1769ff5acc8330e5b3a6
+4) partizanai, kurie priklausė ginkluoto pasipriešinimo struktūroms, davė priesaiką ir jos nesulaužė, turėjo atpažinimo ženklus ir ginklus, gyveno nelegaliai, taip pat rezervinių būrių, organizacinių skyrių bei kitų slaptųjų ginkluoto pasipriešinimo struktūrų nariai, kurie davė priesaiką ir jos nesulaužė, turėjo ginklus ir vadovybės įsakymu dalyvavo kautynėse ar kitose ginkluotose operacijose, taip pat partizanų ryšininkai ar rėmėjai, patekę į kautynių situaciją, su ginklu dalyvavę šiose kautynėse ir jų metu suimti, sužeisti ar žuvę. ^s-d752f43e295bee9eb055e5e8
 Straipsnio punkto pakeitimai:
 Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. [[latest/TAR.6F8A26C114BC|0991010ISTAIII-1201]]
 
 
 
-2. Kario savanorio statusas nesuteikiamas asmenims, nusikaltusiems žmoniškumui, žudžiusiems taikius gyventojus. ^f7c38b52b9eeef18d7fdb510
+2. Kario savanorio statusas nesuteikiamas asmenims, nusikaltusiems žmoniškumui, žudžiusiems taikius gyventojus. ^s-4740a6c89759f800d61f7527
 
 
 
-### 2 straipsnis. Laisvės kovų dalyviai
+### 2 straipsnis. Laisvės kovų dalyviai ^s-945401a1a850a1e06b6d7aaa
 
 
 Laisvės kovų dalyviai yra neginkluoto pasipriešinimo (rezistencijos) dalyviai:
 
 
-1) partizanų ryšininkai ir rėmėjai; ^c187b767bdc256c455fbbaf8
+1) partizanų ryšininkai ir rėmėjai; ^s-69019f3a77ded8aa219435a8
 
 
-2) 1940–1990 m. veikusių ir siekusių atkurti Lietuvos nepriklausomybę pogrindinių organizacijų nariai, pogrindžio spaudos leidėjai, bendradarbiai ir platintojai. Taip pat pasipriešinimo akcijų dalyviai bei asmenys, kitokiais būdais ar veiksmais dalyvavę kovoje už Lietuvos nepriklausomybę. Laisvės kovų dalyvio statusas šiems asmenims pripažįstamas, jei jie nebendradarbiavo su okupacinėmis represinėmis struktūromis. ^a752cc180cbfb30ba23144d2
+2) 1940–1990 m. veikusių ir siekusių atkurti Lietuvos nepriklausomybę pogrindinių organizacijų nariai, pogrindžio spaudos leidėjai, bendradarbiai ir platintojai. Taip pat pasipriešinimo akcijų dalyviai bei asmenys, kitokiais būdais ar veiksmais dalyvavę kovoje už Lietuvos nepriklausomybę. Laisvės kovų dalyvio statusas šiems asmenims pripažįstamas, jei jie nebendradarbiavo su okupacinėmis represinėmis struktūromis. ^s-0590f6b71362ffde2083c868
 Straipsnio punkto pakeitimai:
 Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. [[latest/TAR.6F8A26C114BC|0991010ISTAIII-1201]]
 
 
 
-### 3 straipsnis. Baigiamosios nuostatos
+### 3 straipsnis. Baigiamosios nuostatos ^s-e9ea28c4799eddb7ab1fe0a9
 
 
 Kario savanorio ir laisvės kovų dalyvio statuso pripažinimo, partizanų apdovanojimo ir karinių laipsnių atkūrimo, taip pat socialinės rūpybos, globos ir valstybės paramos bei kompensacijų už žuvusiuosius skyrimo tvarką nustato įstatymai.
@@ -109,4 +114,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. [[latest/TAR.6F8A26C114BC|0991010ISTAIII-1201]]
-Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymo 1, [[#2 straipsnis. Laisvės kovų dalyviai|2 straipsnių]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.6F8A26C114BC|Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymo 1, 2 straipsnių pakeitimo ir papildymo įstatymas]]

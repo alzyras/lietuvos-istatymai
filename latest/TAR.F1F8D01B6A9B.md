@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F1F8D01B6A9B"
 pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 68 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekybinės laivybos įstatymo 68 straipsnio pakeitimo įstatymas"
+  - "prekybinės laivybos įstatymo 68 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.F1F8D01B6A9B.md"
 latest_sha256: "bed7108bf4e9ff2641b1e5379fb1d04253b8a5ef04345720d76f7ae45b05a8d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F1F8D01B6A9B]]"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 68 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F1F8D01B6A9B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F1F8D01B6A9B
+- Ryšiai: [[Ryšiai/TAR.F1F8D01B6A9B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 68 straipsnio pakeitimas
+### 1 straipsnis. 68 straipsnio pakeitimas ^s-47f98ebd12360c731ab46627
 
 
 Pakeisti 68 straipsnį ir jį išdėstyti taip:

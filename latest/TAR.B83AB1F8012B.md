@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B83AB1F8012B"
 pavadinimas: "Lietuvos Respublikos vidaus vandenų transporto kodekso 30 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus vandenų transporto kodekso 30 straipsnio pakeitimo įstatymas"
+  - "vidaus vandenų transporto kodekso 30 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-03"
 latest_path: "latest/TAR.B83AB1F8012B.md"
 latest_sha256: "78bf121cd6e18a5d26a9471fc384965625d1054e981bfd268d1b0a1fe7dc5df8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B83AB1F8012B]]"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 30 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B83AB1F8012B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B83AB1F8012B
+- Ryšiai: [[Ryšiai/TAR.B83AB1F8012B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 30 straipsnio 1 dalies pakeitimas ^s-a4bb695fbb4b09301f959229
 
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -42,14 +47,14 @@ Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-fba7bcff963869d5938d0e81
 
 
-Šis įstatymas, išskyrus [[#3 straipsnis. Pasiūlymas Vyriausybei|3 straipsnį]], įsigalioja 2009 m. gruodžio 3 d.
+Šis įstatymas, išskyrus [[#^s-8559378b1ecff90b3c4cd10c|3 straipsnį]], įsigalioja 2009 m. gruodžio 3 d.
 
 
 
-### 3 straipsnis. Pasiūlymas Vyriausybei
+### 3 straipsnis. Pasiūlymas Vyriausybei ^s-8559378b1ecff90b3c4cd10c
 
 
 Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo išnagrinėja teisės aktus, susijusius su šio įstatymo nuostatų įgyvendinimu, ir prireikus parengia jų pakeitimo projektus arba priima naujus teisės aktus.

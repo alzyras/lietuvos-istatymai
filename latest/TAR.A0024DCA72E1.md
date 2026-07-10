@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A0024DCA72E1"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-26"
 latest_path: "latest/TAR.A0024DCA72E1.md"
 latest_sha256: "5ae2c03f1e65c8dd6fc81683be3d8963c261c639e4c1ec9ce64d47ec493d8c2f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A0024DCA72E1]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A0024DCA72E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A0024DCA72E1
+- Ryšiai: [[Ryšiai/TAR.A0024DCA72E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio pavadinimo pakeitimas
+### 1 straipsnis. 19 straipsnio pavadinimo pakeitimas ^s-0764057fa3b2bb0f02d7dca0
 
 
 Pakeisti 19 straipsnio pavadinimą ir jį išdėstyti taip:

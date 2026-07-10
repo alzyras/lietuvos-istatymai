@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6B0ABE9DF9DA"
 pavadinimas: "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 1 ir 16 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 1 ir 16 straipsnių papildymo įstatymas"
+  - "vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 1 ir 16 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-01"
 latest_path: "latest/TAR.6B0ABE9DF9DA.md"
 latest_sha256: "be1560454e8a3fffbe8ba67a110eef5a4d2e852b11e0272ea9c4768c4b25cb7d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6B0ABE9DF9DA]]"
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 1 ir 16 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6B0ABE9DF9DA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6B0ABE9DF9DA
+- Ryšiai: [[Ryšiai/TAR.6B0ABE9DF9DA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -39,7 +44,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 16 straipsnio 4 dalies 2 punkto papildymas
+### 2 straipsnis. 16 straipsnio 4 dalies 2 punkto papildymas ^s-fc624d0aeb02cfe25f343c88
 
 
 16 straipsnio 4 dalies 2 punkte po žodžių „policijoje (milicijoje)“ įrašyti žodžius „Valstybės sienos apsaugos tarnyboje“ ir šį punktą išdėstyti taip:
@@ -49,7 +54,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-fd3f52ba10ec2987c9655c66
 
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.

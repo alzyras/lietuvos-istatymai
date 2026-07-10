@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E419EEBED1F0"
 pavadinimas: "Lietuvos Respublikos biudžetinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžetinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "biudžetinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-11"
 latest_path: "latest/TAR.E419EEBED1F0.md"
 latest_sha256: "74017b902fe3d6c445f01e92339b0a3479a0f9a55df964c5c77323f52fbd6dd7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E419EEBED1F0]]"
 ---
 # Lietuvos Respublikos biudžetinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E419EEBED1F0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E419EEBED1F0
+- Ryšiai: [[Ryšiai/TAR.E419EEBED1F0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-c9048e6307f29ed4dbf46f72
 
 
 3 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šią dalį išdėstyti taip:

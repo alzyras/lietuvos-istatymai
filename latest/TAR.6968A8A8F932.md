@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6968A8A8F932"
 pavadinimas: "Lietuvos Respublikos žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas"
+  - "žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-20"
 latest_path: "latest/TAR.6968A8A8F932.md"
 latest_sha256: "7a9ba414f1dc15cd5fc83c000b14a9e6cac1a78d8ea6976cab4d6679f38e375f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6968A8A8F932]]"
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6968A8A8F932.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6968A8A8F932
+- Ryšiai: [[Ryšiai/TAR.6968A8A8F932|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-dc28a0ef1eabbd32246e4f99
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -43,14 +48,14 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Kitų viešojo administravimo institucijų kompetencija
 
 
-1. Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos derina žemės gelmių naudojimą. ^edcde83c5d7f4fc9e00e0df7
+1. Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos derina žemės gelmių naudojimą. ^s-f4492b7a37b5ac0f026c156f
 
 
-2. Savivaldybių institucijos pagal savo kompetenciją, nustatytą įstatymų ir kitų teisės aktų, derina dokumentus, reglamentuojančius žemės gelmių naudojimą ir apsaugą.“ ^b0247539ad7b57d552330f9b
+2. Savivaldybių institucijos pagal savo kompetenciją, nustatytą įstatymų ir kitų teisės aktų, derina dokumentus, reglamentuojančius žemės gelmių naudojimą ir apsaugą.“ ^s-38ad551aacf1c0533b7c8247
 
 
 
-### 2 straipsnis. 14 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 1 dalies pakeitimas ^s-d3acdec645a64d399d7e231b
 
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:

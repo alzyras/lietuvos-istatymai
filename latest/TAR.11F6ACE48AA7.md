@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.11F6ACE48AA7"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 47, 82, 89, 91 ir 97 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 47, 82, 89, 91 ir 97 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo 47, 82, 89, 91 ir 97 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.11F6ACE48AA7.md"
 latest_sha256: "990f1decf374de402567b1db110397c2a9d07cc2383f0a7f976e662cee929472"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.11F6ACE48AA7]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 47, 82, 89, 91 ir 97 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.11F6ACE48AA7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.11F6ACE48AA7
+- Ryšiai: [[Ryšiai/TAR.11F6ACE48AA7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas ^s-c4133549e38be960e1e954d8
 
 
 47 straipsnio 3 dalyje vietoj žodžių „teisėjui iškeliama baudžiamoji byla“ įrašyti žodžius „teisėjas yra įtariamas arba kaltinamas padaręs nusikalstamą veiką“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 82 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 82 straipsnio 1 dalies pakeitimas ^s-66c8c2444fb2dd98dd83e083
 
 
 82 straipsnio 1 dalyje vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 89 straipsnio pakeitimas
+### 3 straipsnis. 89 straipsnio pakeitimas ^s-02c7d6beb316859f43b8626d
 
 
 Pakeisti 89 straipsnį ir jį išdėstyti taip:
@@ -60,14 +65,14 @@ Pakeisti 89 straipsnį ir jį išdėstyti taip:
 „89 straipsnis. Teisėjo baudžiamoji atsakomybė
 
 
-1. Teisėjas gali atsakyti baudžiamąja tvarka, gali būti suimtas ar gali būti kitaip suvaržyta jo laisvė tik Seimo, o tarp Seimo sesijų – Respublikos Prezidento sutikimu, išskyrus atvejus, kai teisėjas užtinkamas darantis nusikalstamą veiką (in flagranti). ^c73c771d29f3e417f26a7362
+1. Teisėjas gali atsakyti baudžiamąja tvarka, gali būti suimtas ar gali būti kitaip suvaržyta jo laisvė tik Seimo, o tarp Seimo sesijų – Respublikos Prezidento sutikimu, išskyrus atvejus, kai teisėjas užtinkamas darantis nusikalstamą veiką (in flagranti). ^s-163461af8f1aa5933c7c0574
 
 
-2. Pradėti ikiteisminį tyrimą, kai įtariamasis yra teisėjas, gali tik generalinis prokuroras.“ ^f51a962823ce48bcd6bb6a85
+2. Pradėti ikiteisminį tyrimą, kai įtariamasis yra teisėjas, gali tik generalinis prokuroras.“ ^s-6a1edfd75cdd06f93e9c9743
 
 
 
-### 4 straipsnis. 91 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 91 straipsnio 1 dalies pakeitimas ^s-43d7d2e9b8346733e727b455
 
 
 91 straipsnio 1 dalyje vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“ ir šią dalį išdėstyti taip:
@@ -77,7 +82,7 @@ Pakeisti 89 straipsnį ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 97 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 97 straipsnio 2 dalies pakeitimas ^s-9a39857bdb1be6c0f9a97d72
 
 
 97 straipsnio 2 dalyje po žodžio „tardytoju“ įrašyti žodžius „ikiteisminio tyrimo pareigūnu (tardytoju)“ ir šią dalį išdėstyti taip:
@@ -87,10 +92,10 @@ Pakeisti 89 straipsnį ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-1ea71769c2b83c3bc3ad8474
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

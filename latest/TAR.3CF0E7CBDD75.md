@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3CF0E7CBDD75"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-11-04"
 latest_path: "latest/TAR.3CF0E7CBDD75.md"
 latest_sha256: "167da3ffb1823eb6e02a9cc1f22bdcddab57dfa3dca6483678dc8b3eecddda53"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3CF0E7CBDD75]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3CF0E7CBDD75.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3CF0E7CBDD75
+- Ryšiai: [[Ryšiai/TAR.3CF0E7CBDD75|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,120 +36,120 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nauja redakcija
+### 1 straipsnis.         Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nauja redakcija ^s-60afee79d8a9dd5cf8fbf7cc
 
 
 Pakeisti Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymą ir jį išdėstyti taip:
 
 
 
-„LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMAS
+„[[latest/TAR.F960F4CF3005|LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMAS]]
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-bb077354a11e3069a07702c3
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-d2730c08216fe66ae1a4c20d
 
 
 Šis įstatymas nustato savivaldybių biudžetų pajamų šaltinius ir iš valstybės biudžeto savivaldybių biudžetams skiriamų dotacijų bei lėšų apskaičiavimo, tvirtinimo ir pervedimo tvarką.
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-bf126905aa20460538141a48
 SAVIVALDYBIŲ BIUDŽETŲ PAJAMOS
 
 
 
-### 2 straipsnis. Savivaldybių biudžetų pajamos
+### 2 straipsnis. Savivaldybių biudžetų pajamos ^s-68e32bc7fe48148d9283f10d
 
 
-1. Savivaldybių biudžetų pajamas sudaro: ^3b34e52e07b2dd0b2c7a4a0d
+1. Savivaldybių biudžetų pajamas sudaro: ^s-6cbf9ab4c4da3fd179ba740c
 
 
-1) mokestinės pajamos; ^9af6db1f2d2f6f136aa61d76
+1) mokestinės pajamos; ^s-dd2ec3bb45c95c3a7d0e6ff1
 
 
-2) nemokestinės pajamos; ^d9c84913d1c86ee303216531
+2) nemokestinės pajamos; ^s-00c18dc1938070b9761beff2
 
 
-3) dotacijos. ^a972fbd2a47863294d72cf38
+3) dotacijos. ^s-087bd70a2875747941724895
 
 
-2. [[#^3b34e52e07b2dd0b2c7a4a0d|Šio straipsnio 1 dalyje]] nurodytos pajamos savivaldybių biudžetams priskiriamos vadovaujantis Biudžetinės sandaros įstatymu. ^2f2380fe1a22166298e21937
-
-
-
-### 3 straipsnis. Mokestinių ir nemokestinių pajamų pervedimas į savivaldybių biudžetus
-
-
-1. Apskrities valstybinės mokesčių inspekcijos skyrius į savivaldybių biudžetus tiesiogiai perveda savivaldybių biudžetams priskirtas mokestines pajamas. Pervedama ta fizinių asmenų pajamų mokesčio dalis (procentais), kuri tvirtinama atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu. ^4296d440c385008e0c9a30d7
-
-
-2. Apskrities valstybinės mokesčių inspekcijos skyrius nustatyta tvarka perveda savivaldybių biudžetams nemokestines pajamas, kurias savivaldybių biudžetams pagal įstatymus sumoka fiziniai ir juridiniai asmenys. ^5e029c2fe7e6d59d6564849e
+2. [[#^s-6cbf9ab4c4da3fd179ba740c|Šio straipsnio 1 dalyje]] nurodytos pajamos savivaldybių biudžetams priskiriamos vadovaujantis [[latest/TAR.712BBBFA3D41|Biudžetinės sandaros įstatymu]]. ^s-bb9ed1f7a4a5885e115ef6d5
 
 
 
-### 4 straipsnis. Dotacijos savivaldybių biudžetams
+### 3 straipsnis. Mokestinių ir nemokestinių pajamų pervedimas į savivaldybių biudžetus ^s-17ab696e12df842a1d2603d9
+
+
+1. Apskrities valstybinės mokesčių inspekcijos skyrius į savivaldybių biudžetus tiesiogiai perveda savivaldybių biudžetams priskirtas mokestines pajamas. Pervedama ta fizinių asmenų pajamų mokesčio dalis (procentais), kuri tvirtinama atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu. ^s-05b2d6e75ee2d1bee55d2b22
+
+
+2. Apskrities valstybinės mokesčių inspekcijos skyrius nustatyta tvarka perveda savivaldybių biudžetams nemokestines pajamas, kurias savivaldybių biudžetams pagal įstatymus sumoka fiziniai ir juridiniai asmenys. ^s-4db2f55e6580b4c7593ac90f
+
+
+
+### 4 straipsnis. Dotacijos savivaldybių biudžetams ^s-a30a4b29c24b2c27b2cb2bdf
 
 
 Savivaldybės gauna dotacijų, kurių apskaičiavimo, tvirtinimo ir pervedimo tvarka nustatyta šiame įstatyme.
 
 
 
-### 5 straipsnis. Paskolos
+### 5 straipsnis. Paskolos ^s-2de8ed9401bbed322d927935
 
 
-1. Savivaldybės gali naudotis šiomis paskolomis, kai yra savivaldybės kontrolieriaus išvada: ^6415a3478fe99a7f97d38fe9
+1. Savivaldybės gali naudotis šiomis paskolomis, kai yra savivaldybės kontrolieriaus išvada: ^s-5ae85c0033a53109d3b3e74c
 
 
-1) valstybės biudžeto beprocente paskola, kai laikinai savivaldybių biudžetams trūksta lėšų; ^a2b0c9585db25464e9cde845
+1) valstybės biudžeto beprocente paskola, kai laikinai savivaldybių biudžetams trūksta lėšų; ^s-c024e20cb7b522e3d389fb67
 
 
-2) kitomis paskolomis. ^10cb6b27aebfe93ec2fb3cae
+2) kitomis paskolomis. ^s-8b149faba44aa2c329e75fe3
 
 
-2. Savivaldybės gali imti paskolas įstatymų nustatyta tvarka ir sąlygomis. ^ab71c31a48b96830f2578a22
+2. Savivaldybės gali imti paskolas įstatymų nustatyta tvarka ir sąlygomis. ^s-ef7383276948ffe925bf80c7
 
 
 
-### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS ^s-f78ad303d0fdf26192554a14
 SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ DOTACIJŲ NUSTATYMO TVARKA
 
 
 
-### 6 straipsnis. Valstybės biudžeto bendrosios dotacijos dydžio nustatymas
+### 6 straipsnis. Valstybės biudžeto bendrosios dotacijos dydžio nustatymas ^s-02db532e3cead145cb41d4c4
 
 
-1. Valstybės biudžeto bendroji dotacija skiriama savivaldybių mokestinėms pajamoms ir savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti. ^b58fc1fb23319f2b234875de
+1. Valstybės biudžeto bendroji dotacija skiriama savivaldybių mokestinėms pajamoms ir savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti. ^s-d574ce5c63201a0047b8d8cd
 
 
-2. Finansų ministerija valstybės biudžeto bendrosios dotacijos (D), skiriamos savivaldybių biudžetams, prognozuojamą dydį apskaičiuoja pagal formulę D=A – B – C, kurioje: ^0ca7bb2e53553e882fff1fbb
+2. Finansų ministerija valstybės biudžeto bendrosios dotacijos (D), skiriamos savivaldybių biudžetams, prognozuojamą dydį apskaičiuoja pagal formulę D=A – B – C, kurioje: ^s-25ee23c0e7e73fc4f5a0e849
 
 
-1) A – prognozuojamas planuojamų biudžetinių metų visų savivaldybių biudžetų išlaidų dydis. Prognozuojamos visų savivaldybių biudžetų išlaidos nustatomos kaip valstybės ir savivaldybių biudžetų bendrų išlaidų dalis procentais; ^973bcf89af3887798970a014
+1) A – prognozuojamas planuojamų biudžetinių metų visų savivaldybių biudžetų išlaidų dydis. Prognozuojamos visų savivaldybių biudžetų išlaidos nustatomos kaip valstybės ir savivaldybių biudžetų bendrų išlaidų dalis procentais; ^s-42af3b434ea566057c50def3
 
 
-2) B – prognozuojamas planuojamų biudžetinių metų visų savivaldybių biudžetų mokestinių ir nemokestinių pajamų dydis. Nemokestinių pajamų dydis nustatomas kaip fiksuota mokestinių pajamų dalis procentais; ^2065d45271eb47971d0c88f0
+2) B – prognozuojamas planuojamų biudžetinių metų visų savivaldybių biudžetų mokestinių ir nemokestinių pajamų dydis. Nemokestinių pajamų dydis nustatomas kaip fiksuota mokestinių pajamų dalis procentais; ^s-3d369f4cc22ca80f8659ecec
 
 
-3) C – prognozuojamos planuojamų biudžetinių metų specialios tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams gali būti skiriamos specialios tikslinės dotacijos Seimo, Vyriausybės patvirtintoms programoms vykdyti. ^52e96c35965eca655afb6fa5
+3) C – prognozuojamos planuojamų biudžetinių metų specialios tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams gali būti skiriamos specialios tikslinės dotacijos Seimo, Vyriausybės patvirtintoms programoms vykdyti. ^s-25c67aaae928ef60368b709f
 
 
 
-### 7 straipsnis.         Lėšų, skiriamų savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas
+### 7 straipsnis.         Lėšų, skiriamų savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ^s-0f40e54cbbc92b974a668832
 
 
-1. Lėšos, skiriamos savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti, (D1) susideda iš: ^42135c3ab253051603565f97
+1. Lėšos, skiriamos savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti, (D1) susideda iš: ^s-c52ea6953a5039307cec16d1
 
 
-1) valstybės biudžeto bendrosios dotacijos savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams išlyginti (D); ^3861c55642a5c954bd3779e5
+1) valstybės biudžeto bendrosios dotacijos savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams išlyginti (D); ^s-ab3688e8404623399a2316f1
 
 
-2) dalies mokestinių pajamų (Pi) tų savivaldybių, kurių prognozuojamos mokestinės pajamos vienam savivaldybės gyventojui yra didesnės už prognozuojamas visų savivaldybių vidutines mokestines pajamas vienam gyventojui, pakoreguotas nustatytu procentu. Mokestinių pajamų dalis (Pi) apskaičiuojama kaip visoms savivaldybėms nustatyta vienoda skirtumo, susidarančio tarp prognozuojamų mokestinių pajamų vienam savivaldybės gyventojui ir prognozuojamų visų savivaldybių vidutinių mokestinių pajamų vienam gyventojui, pakoreguotų nustatytu procentu, dalis procentais pagal formulę Pi = Gih (xi - k) , kurioje: ^36eed7aa2e1443706925f219
+2) dalies mokestinių pajamų (Pi) tų savivaldybių, kurių prognozuojamos mokestinės pajamos vienam savivaldybės gyventojui yra didesnės už prognozuojamas visų savivaldybių vidutines mokestines pajamas vienam gyventojui, pakoreguotas nustatytu procentu. Mokestinių pajamų dalis (Pi) apskaičiuojama kaip visoms savivaldybėms nustatyta vienoda skirtumo, susidarančio tarp prognozuojamų mokestinių pajamų vienam savivaldybės gyventojui ir prognozuojamų visų savivaldybių vidutinių mokestinių pajamų vienam gyventojui, pakoreguotų nustatytu procentu, dalis procentais pagal formulę Pi = Gih (xi - k) , kurioje: ^s-fd151aea80a36ea69e3769a5
 
 
 a) Gi – i-tosios savivaldybės gyventojų skaičius;
@@ -162,57 +167,57 @@ d) k – koeficientas, nuo kurio priklauso savivaldybių, kurioms koreguojamos m
 e) h – išlyginimo koeficientas, nuo kurio priklauso kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis.
 
 
-2. Apskrities valstybinės mokesčių inspekcijos skyrius koreguojamą mokestinių pajamų dalį (Pi), apskaičiuojamą kaip fizinių asmenų pajamų mokesčio atskirose savivaldybėse dalį procentais, perveda į valstybės iždo sąskaitą. ^5fb9a9abf6cb0d833a2378a2
+2. Apskrities valstybinės mokesčių inspekcijos skyrius koreguojamą mokestinių pajamų dalį (Pi), apskaičiuojamą kaip fizinių asmenų pajamų mokesčio atskirose savivaldybėse dalį procentais, perveda į valstybės iždo sąskaitą. ^s-3fe66254f02d926f093b2f07
 
 
 
-### 8 straipsnis.         Lėšų, skiriamų savivaldybių mokestinėms pajamoms išlyginti, paskirstymas
+### 8 straipsnis.         Lėšų, skiriamų savivaldybių mokestinėms pajamoms išlyginti, paskirstymas ^s-54325dbf7ea784296449abca
 
 
-1. Lėšų, skiriamų savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams išlyginti, dalimi savivaldybių mokestinėms pajamoms išlyginti (D2) remiamos tos savivaldybės, kurių prognozuojamos mokestinės pajamos vienam savivaldybės gyventojui yra mažesnės už prognozuojamas visų savivaldybių vidutines mokestines pajamas vienam gyventojui, pakoreguotas nustatytu procentu. Remiama savivaldybė gauna visoms savivaldybėms nustatytą vienodą skirtumo, susidarančio tarp prognozuojamų visų savivaldybių vidutinių mokestinių pajamų vienam gyventojui, pakoreguotų nustatytu procentu, ir prognozuojamų mokestinių pajamų vienam savivaldybės gyventojui, dalį procentais. ^1460577b6552cfc7b846296d
+1. Lėšų, skiriamų savivaldybių mokestinėms pajamoms ir išlaidų struktūrų skirtumams išlyginti, dalimi savivaldybių mokestinėms pajamoms išlyginti (D2) remiamos tos savivaldybės, kurių prognozuojamos mokestinės pajamos vienam savivaldybės gyventojui yra mažesnės už prognozuojamas visų savivaldybių vidutines mokestines pajamas vienam gyventojui, pakoreguotas nustatytu procentu. Remiama savivaldybė gauna visoms savivaldybėms nustatytą vienodą skirtumo, susidarančio tarp prognozuojamų visų savivaldybių vidutinių mokestinių pajamų vienam gyventojui, pakoreguotų nustatytu procentu, ir prognozuojamų mokestinių pajamų vienam savivaldybės gyventojui, dalį procentais. ^s-e02f98fedcc9e2cc57c04b01
 
 
-2. Savivaldybei skiriama lėšų dalis mokestinėms pajamoms išlyginti apskaičiuojama pagal formulę D2i = GiH (k - xi ) , kurioje: ^e401089f1142479827ffcb9b
+2. Savivaldybei skiriama lėšų dalis mokestinėms pajamoms išlyginti apskaičiuojama pagal formulę D2i = GiH (k - xi ) , kurioje: ^s-81e7753c89ddf1ed59ee8440
 
 
-1) D2i – i-tajai savivaldybei skiriama lėšų dalis mokestinėms pajamoms išlyginti; ^c588b921ddfd8aefeff41c97
+1) D2i – i-tajai savivaldybei skiriama lėšų dalis mokestinėms pajamoms išlyginti; ^s-78f65702adee604ea0ea7a0a
 
 
-2) Gi – i-tosios savivaldybės gyventojų skaičius; ^b306bb076c0755825cd1900e
+2) Gi – i-tosios savivaldybės gyventojų skaičius; ^s-42163676e323074d7f7b0921
 
 
-3) - prognozuojamos visų savivaldybių vidutinės mokestinės pajamos vienam gyventojui; ^efe6cd8b5ff3205bb6af1132
+3) - prognozuojamos visų savivaldybių vidutinės mokestinės pajamos vienam gyventojui; ^s-77fd1c93ad1e846d04ff9a4a
 
 
-4) xi – prognozuojamos i-tosios savivaldybės mokestinės pajamos vienam gyventojui; ^64b798b4f1dc4d41cd73f53d
+4) xi – prognozuojamos i-tosios savivaldybės mokestinės pajamos vienam gyventojui; ^s-92144c740e9951427c02a0dc
 
 
-5) k – koeficientas, nuo kurio priklauso savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius (0 < k £ max xi / ); ^e57cb177bfcd1ffb241a4faa
+5) k – koeficientas, nuo kurio priklauso savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius (0 < k £ max xi / ); ^s-e4c7f17399ad04e11f932d1b
 
 
-6) H – išlyginimo koeficientas, nuo kurio priklauso kiekvienos savivaldybės gaunamos dotacijos dalis. ^d2f87d4fbac19f132a277179
+6) H – išlyginimo koeficientas, nuo kurio priklauso kiekvienos savivaldybės gaunamos dotacijos dalis. ^s-1df17fd6b456269ddbe98bf0
 
 
-3. Valstybės biudžeto bendrosios dotacijos dalis, skiriama kiekvienai savivaldybei mokestinėms pajamoms išlyginti, apskaičiuojama pagal formulę  d2i =D2i D/D2, kai D£D2, ir d2i= D2i, kai D>D2. ^3a8caaf3059cc435d9d0e4bb
+3. Valstybės biudžeto bendrosios dotacijos dalis, skiriama kiekvienai savivaldybei mokestinėms pajamoms išlyginti, apskaičiuojama pagal formulę  d2i =D2i D/D2, kai D£D2, ir d2i= D2i, kai D>D2. ^s-784c476c10a459ff3a8d78f5
 
 
 
-### 9 straipsnis.         Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms
+### 9 straipsnis.         Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms ^s-9b19db3da49b5bba68005084
 
 
-1. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas pagal formulę D3=D1 – D2. ^1b65ae8ccb2b7accd7e06c1d
+1. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas pagal formulę D3=D1 – D2. ^s-e0a85b07f4ec9373ee7663b1
 
 
-2. Lėšos savivaldybių išlaidų struktūrų skirtumams išlyginti (D3) skiriamos savivaldybei atsižvelgiant į jos dalį visų savivaldybių demografiniuose, socialiniuose ir kituose rodikliuose, kurie turi įtakos objektyviems savivaldybių išlaidų struktūrų skirtumams, bei šių rodiklių svarbą savivaldybių atitinkamų grupių išlaidų pasikeitimui. ^bc23e60e802de9756daf7aa9
+2. Lėšos savivaldybių išlaidų struktūrų skirtumams išlyginti (D3) skiriamos savivaldybei atsižvelgiant į jos dalį visų savivaldybių demografiniuose, socialiniuose ir kituose rodikliuose, kurie turi įtakos objektyviems savivaldybių išlaidų struktūrų skirtumams, bei šių rodiklių svarbą savivaldybių atitinkamų grupių išlaidų pasikeitimui. ^s-9c1d0dba7b45785c0a4c852d
 
 
-3. Savivaldybėms skiriamos lėšos apskaičiuojamos pagal formulę  , kurioje: ^1a3083b0724ae6f987cbca6f
+3. Savivaldybėms skiriamos lėšos apskaičiuojamos pagal formulę  , kurioje: ^s-a6ced9d5ecb278ab331a8364
 
 
-1) Mr – visų savivaldybių r-tosios grupės išlaidų lyginamoji dalis bendrose visų savivaldybių išlaidose ; ^1b937dd427c82e7aff551f7c
+1) Mr – visų savivaldybių r-tosios grupės išlaidų lyginamoji dalis bendrose visų savivaldybių išlaidose ; ^s-6ba8507b5f588a4443a80cd7
 
 
-2)  – i-tosios savivaldybės dalis r-tojoje išlaidų grupėje, priklausanti nuo i-tosios savivaldybės demografinių, socialinių ar kitų rodiklių santykio su vidutinėmis šių rodiklių reikšmėmis visoms savivaldybėms, t.y. ; čia  apskaičiuojama pagal formulę , kurioje: ^88260eb2b9498469598eeb41
+2)  – i-tosios savivaldybės dalis r-tojoje išlaidų grupėje, priklausanti nuo i-tosios savivaldybės demografinių, socialinių ar kitų rodiklių santykio su vidutinėmis šių rodiklių reikšmėmis visoms savivaldybėms, t.y. ; čia  apskaičiuojama pagal formulę , kurioje: ^s-b09164e2c60bd431c6c45dea
 
 
 a)  – i-tosios savivaldybės gyventojų skaičius;
@@ -233,117 +238,117 @@ a)  – i-tosios savivaldybės n-tojo demografinio, socialinio ar kito rodiklio 
 b) - visų savivaldybių vidutinė n-tojo demografinio, socialinio ar kito rodiklio reikšmė, tenkanti vienam gyventojui.
 
 
-4. Valstybės biudžeto bendrosios dotacijos dalis, skiriama kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti, yra apskaičiuojama pagal formulę d3i=D3i (D-åd2i) / D3. ^6579ec25c5449cb25c31ac11
+4. Valstybės biudžeto bendrosios dotacijos dalis, skiriama kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti, yra apskaičiuojama pagal formulę d3i=D3i (D-åd2i) / D3. ^s-32f86d563697e9d60efe8563
 
 
-5. Išlaidų grupes, demografinius, socialinius ir kitus rodiklius bei koeficientus Mr ir , kurių reikia savivaldybių išlaidų struktūrų skirtumams išlyginti skirtoms lėšoms paskirstyti, teikia Lietuvos savivaldybių asociacija. ^1aecb2a95bae03d52fcde46b
+5. Išlaidų grupes, demografinius, socialinius ir kitus rodiklius bei koeficientus Mr ir , kurių reikia savivaldybių išlaidų struktūrų skirtumams išlyginti skirtoms lėšoms paskirstyti, teikia Lietuvos savivaldybių asociacija. ^s-882f57cedcdf4cd87f1bb308
 
 
 
-### KETVIRTASIS SKIRSNIS
+### KETVIRTASIS SKIRSNIS ^s-adc96ca18360245ebd908170
 RODIKLIŲ TVIRTINIMAS IR DERINIMAS
 
 
 
-### 10 straipsnis.       Trejų metų savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimas
+### 10 straipsnis.       Trejų metų savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimas ^s-d0b1809cafe76fa6e76ddcd1
 
 
 Vyriausybė, su Lietuvos savivaldybių asociacija apsvarsčiusi, teikia Seimui tvirtinti trejiems metams šiuos rodiklius:
 
 
-1) prognozuojamas visų savivaldybių biudžetų išlaidas, kaip valstybės ir savivaldybių biudžetų bendrų išlaidų dalį procentais; ^a9e0fba070e2559abd683345
+1) prognozuojamas visų savivaldybių biudžetų išlaidas, kaip valstybės ir savivaldybių biudžetų bendrų išlaidų dalį procentais; ^s-00b16e3c2c4997bd243c3799
 
 
-2) prognozuojamą visų savivaldybių biudžetų mokestinių pajamų dydį; ^002f025ff6e672e6407322bc
+2) prognozuojamą visų savivaldybių biudžetų mokestinių pajamų dydį; ^s-e0b288c10eeb8a27fe38800f
 
 
-3) prognozuojamą visų savivaldybių nemokestinių pajamų dydį, kaip fiksuotą mokestinių pajamų dalį procentais; ^8387ce6a2936b3b80f27dbc5
+3) prognozuojamą visų savivaldybių nemokestinių pajamų dydį, kaip fiksuotą mokestinių pajamų dalį procentais; ^s-5a0da71486bc38fdb9c25e30
 
 
-4) prognozuojamas specialių tikslinių dotacijų iš valstybės biudžeto sumas savivaldybėms; ^d55d6d9a2ff56006d75f4f46
+4) prognozuojamas specialių tikslinių dotacijų iš valstybės biudžeto sumas savivaldybėms; ^s-1dc19168738294752adfbcb9
 
 
-5) prognozuojamą valstybės biudžeto bendrosios dotacijos dydį; ^c97d99ea05b12c3a6c5863cc
+5) prognozuojamą valstybės biudžeto bendrosios dotacijos dydį; ^s-57830654cac4a70c7d0b0df7
 
 
-6) koeficientą k, nuo kurio priklauso savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius; ^f578b13249b489b05cbe6588
+6) koeficientą k, nuo kurio priklauso savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius; ^s-096db9b0cf74df4a9ca412e4
 
 
-7) išlyginimo koeficientą H, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų mokestinėms pajamoms išlyginti dalis; ^c6796a125e8a7f3d393f003b
+7) išlyginimo koeficientą H, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų mokestinėms pajamoms išlyginti dalis; ^s-97e0696e4a9d1110b191583a
 
 
-8) išlyginimo koeficientą h, nuo kurio priklauso kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis; ^ed46a5cd176cdcd08600f381
+8) išlyginimo koeficientą h, nuo kurio priklauso kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis; ^s-ee041a6f9a215d38bf659596
 
 
-9) demografinius, socialinius ir kitus rodiklius bei koeficientus Mr, , nurodančius šių rodiklių svarbą savivaldybių biudžetų išlaidų pasikeitimui; ^a5e8990436713c3890d7476d
+9) demografinius, socialinius ir kitus rodiklius bei koeficientus Mr, , nurodančius šių rodiklių svarbą savivaldybių biudžetų išlaidų pasikeitimui; ^s-cd7be7eb2342b4aee5da6c18
 
 
-10) kiekvienos savivaldybės biudžetui prognozuojamas skirti fizinių asmenų pajamų mokesčio dalis procentais. ^c6026d4794848c44c36e61dc
-
-
-
-### 11 straipsnis. Vienerių metų finansinių rodiklių tvirtinimas bei lėšų pervedimas
-
-
-1. Vyriausybė, su Lietuvos savivaldybių asociacija apsvarsčiusi, teikia Seimui tvirtinti vieneriems metams šiuos prognozuojamus rodiklius: ^82ae109001ddf9e3e92280a7
-
-
-1) prognozuojamas kiekvienos savivaldybės biudžeto mokestinių pajamų sumas; ^6c5203e78f3f7f50bc835071
-
-
-2) valstybės biudžeto bendrosios dotacijos dalį, skiriamą kiekvienai savivaldybei mokestinėms pajamoms išlyginti; ^e9d6b108e709aa12e3ad3f45
-
-
-3) valstybės biudžeto bendrosios dotacijos dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti; ^95f8643d16e0ff333e786122
-
-
-4) specialias tikslines dotacijas, skiriamas kiekvienai savivaldybei; ^215c85c1bc6c79df5e1caaf1
-
-
-5) valstybės biudžeto bendrosios dotacijos kompensacijų sumas, skiriamas kiekvienai savivaldybei. ^3bd8a6906dbb93c5681bb623
-
-
-2. Patvirtintos dotacijų sumos, nurodytos [[#^82ae109001ddf9e3e92280a7|šio straipsnio 1 dalies]] 2, 3 ir 5 punkte, savivaldybėms pervedamos kas mėnesį lygiomis dalimis. ^086f7e3d5d4433577445b388
-
-
-3. Faktiškai gautos lėšos, nurodytos [[#^5fb9a9abf6cb0d833a2378a2|7 straipsnio 2 dalyje]], kas mėnesį skiriamos savivaldybėms ir apskaičiuojamos pagal 8 ir [[#9 straipsnis.         Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms|9 straipsniuose]] pateiktas formules. ^8c7c29983f3f75de1be965a7
-
-
-4. Dėl valstybės institucijų vykdomos politikos, turinčios įtakos savivaldybių išlaidoms bei mokestinėms pajamoms, taip pat ir valstybės biudžeto bendrosios dotacijos dydžiui, trejų metų laikotarpiu savivaldybių biudžetams turi būti skiriamos bendrosios dotacijos kompensacijų sumos arba iš savivaldybių biudžetų paimamos atitinkamos sumos. ^e6a26612b24b576384d1d893
-
-
-5. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių išlaidos, išlaidų pokyčiams einamaisiais ar ateinančiais metais kompensuoti turi būti skiriama atitinkamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija, susijusi su savivaldybių išlaidų pasikeitimu arba iš savivaldybių biudžetų paimamos atitinkamos sumos. Valstybės biudžeto bendrosios dotacijos kompensacijų sumos, taip pat iš savivaldybių biudžetų paimamos atitinkamos sumos, susijusios su savivaldybių išlaidų pasikeitimu, apskaičiuojamos savivaldybėms pagal [[#9 straipsnis.         Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms|9 straipsnyje]] pateiktą formulę. ^388f0e9374e88138fa2bec04
-
-
-6. Pasibaigus trejiems biudžetiniams metams, valstybės biudžeto bendrosios dotacijos, susijusios su savivaldybių funkcijų ir išlaidų pasikeitimu, kompensacijų sumos dydžiu yra patikslinama kitiems trejiems biudžetiniams metams prognozuojama visų savivaldybių biudžetų išlaidų dalis procentais bendrose valstybės ir savivaldybių išlaidose. ^c258af04b1687493021f843d
-
-
-7. Jeigu biudžetiniais metais kai kuriose savivaldybėse mokestinių pajamų gauta mažiau, negu patvirtinta vadovaujantis [[#^6c5203e78f3f7f50bc835071|šio straipsnio 1 dalies 1 punktu]], pasibaigus biudžetiniams metams, Vyriausybės teikimu Seimas iš valstybės biudžeto pajamų, gautų viršijant planuotąsias, dalies kompensuoja savivaldybių biudžetams negautas mokestines pajamas. Skaičiuojant šį skirtumą, savivaldybių gautos mokestinės pajamos didinamos skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais suteiktų mokesčių lengvatų. Per metus toms savivaldybėms, kurių faktinės mokestinės pajamos mažesnės nei prognozuotosios, teikiamos paskolos iš valstybės biudžeto. ^de589a64027cd3c7ef16dcea
-
-
-8. Valstybės biudžeto bendrosios dotacijos kompensacija skiriama savivaldybėms, jei joms apskaičiuotas ateinantiems biudžetiniams metams pajamų be specialių tikslinių dotacijų dydis Seimo, Vyriausybės patvirtintoms programoms vykdyti yra mažesnis už apskaičiuotą biudžetiniais metais šių pajamų dydį. ^3207136f57577e40b65739f0
+10) kiekvienos savivaldybės biudžetui prognozuojamas skirti fizinių asmenų pajamų mokesčio dalis procentais. ^s-e9a9d9b63cbd32bf234d92d9
 
 
 
-### 12 straipsnis. Finansinių rodiklių derinimas
+### 11 straipsnis. Vienerių metų finansinių rodiklių tvirtinimas bei lėšų pervedimas ^s-52b32b5e246a677af9bfb4f1
+
+
+1. Vyriausybė, su Lietuvos savivaldybių asociacija apsvarsčiusi, teikia Seimui tvirtinti vieneriems metams šiuos prognozuojamus rodiklius: ^s-8a65a855cee201c3eb7c3d1b
+
+
+1) prognozuojamas kiekvienos savivaldybės biudžeto mokestinių pajamų sumas; ^s-8e3f8773cb73373be4f699cd
+
+
+2) valstybės biudžeto bendrosios dotacijos dalį, skiriamą kiekvienai savivaldybei mokestinėms pajamoms išlyginti; ^s-80d04eb7b29866e6bba577d4
+
+
+3) valstybės biudžeto bendrosios dotacijos dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti; ^s-84f2ced96633e631252186bb
+
+
+4) specialias tikslines dotacijas, skiriamas kiekvienai savivaldybei; ^s-cd5ac87613040697a5253d78
+
+
+5) valstybės biudžeto bendrosios dotacijos kompensacijų sumas, skiriamas kiekvienai savivaldybei. ^s-9e9292895c6d785f990bb095
+
+
+2. Patvirtintos dotacijų sumos, nurodytos [[#^s-8a65a855cee201c3eb7c3d1b|šio straipsnio 1 dalies]] 2, 3 ir 5 punkte, savivaldybėms pervedamos kas mėnesį lygiomis dalimis. ^s-7aa6d07d1130e5922f7fbdca
+
+
+3. Faktiškai gautos lėšos, nurodytos [[#^s-3fe66254f02d926f093b2f07|7 straipsnio 2 dalyje]], kas mėnesį skiriamos savivaldybėms ir apskaičiuojamos pagal 8 ir [[#^s-9b19db3da49b5bba68005084|9 straipsniuose]] pateiktas formules. ^s-180efcb128d64fd76bc039f2
+
+
+4. Dėl valstybės institucijų vykdomos politikos, turinčios įtakos savivaldybių išlaidoms bei mokestinėms pajamoms, taip pat ir valstybės biudžeto bendrosios dotacijos dydžiui, trejų metų laikotarpiu savivaldybių biudžetams turi būti skiriamos bendrosios dotacijos kompensacijų sumos arba iš savivaldybių biudžetų paimamos atitinkamos sumos. ^s-23358fcd290b9ff517815ee7
+
+
+5. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių išlaidos, išlaidų pokyčiams einamaisiais ar ateinančiais metais kompensuoti turi būti skiriama atitinkamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija, susijusi su savivaldybių išlaidų pasikeitimu arba iš savivaldybių biudžetų paimamos atitinkamos sumos. Valstybės biudžeto bendrosios dotacijos kompensacijų sumos, taip pat iš savivaldybių biudžetų paimamos atitinkamos sumos, susijusios su savivaldybių išlaidų pasikeitimu, apskaičiuojamos savivaldybėms pagal [[#^s-9b19db3da49b5bba68005084|9 straipsnyje]] pateiktą formulę. ^s-97645ffe3ee0740881c3262f
+
+
+6. Pasibaigus trejiems biudžetiniams metams, valstybės biudžeto bendrosios dotacijos, susijusios su savivaldybių funkcijų ir išlaidų pasikeitimu, kompensacijų sumos dydžiu yra patikslinama kitiems trejiems biudžetiniams metams prognozuojama visų savivaldybių biudžetų išlaidų dalis procentais bendrose valstybės ir savivaldybių išlaidose. ^s-583286d8e658887a04543fc8
+
+
+7. Jeigu biudžetiniais metais kai kuriose savivaldybėse mokestinių pajamų gauta mažiau, negu patvirtinta vadovaujantis [[#^s-8e3f8773cb73373be4f699cd|šio straipsnio 1 dalies 1 punktu]], pasibaigus biudžetiniams metams, Vyriausybės teikimu Seimas iš valstybės biudžeto pajamų, gautų viršijant planuotąsias, dalies kompensuoja savivaldybių biudžetams negautas mokestines pajamas. Skaičiuojant šį skirtumą, savivaldybių gautos mokestinės pajamos didinamos skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais suteiktų mokesčių lengvatų. Per metus toms savivaldybėms, kurių faktinės mokestinės pajamos mažesnės nei prognozuotosios, teikiamos paskolos iš valstybės biudžeto. ^s-cb948f52266f5ad19013a6a1
+
+
+8. Valstybės biudžeto bendrosios dotacijos kompensacija skiriama savivaldybėms, jei joms apskaičiuotas ateinantiems biudžetiniams metams pajamų be specialių tikslinių dotacijų dydis Seimo, Vyriausybės patvirtintoms programoms vykdyti yra mažesnis už apskaičiuotą biudžetiniais metais šių pajamų dydį. ^s-b5fb6e2f144e80aac8450db2
+
+
+
+### 12 straipsnis. Finansinių rodiklių derinimas ^s-21ef30b8e56d3056090a5f7c
 
 
 Vyriausybė ir Lietuvos savivaldybių asociacija savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančius rodiklius svarsto pagal šių rodiklių derinimo tvarką, patvirtintą Vyriausybės.
 
 
 
-### PENKTASIS SKIRSNIS
+### PENKTASIS SKIRSNIS ^s-22ffb23062d56d89c95ec4d6
 BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 13 straipsnis. Pasiūlymai Vyriausybei
+### 13 straipsnis. Pasiūlymai Vyriausybei ^s-06ad45f83597bbeff37f34e0
 
 
-1. Vyriausybė parengia ir patvirtina trejų metų bei vienerių metų savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių derinimo tvarką. ^0ddf58b2af6bd24534ba819f
+1. Vyriausybė parengia ir patvirtina trejų metų bei vienerių metų savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių derinimo tvarką. ^s-c29be802c08afb82c1c539e7
 
 
-2. Šio įstatymo nuostatomis Vyriausybė pradeda vadovautis, rengdama 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.“ ^fd66cd06b85bbe4a8e06a8c5
+2. Šio įstatymo nuostatomis Vyriausybė pradeda vadovautis, rengdama [[latest/TAR.689A5959367D|2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.“ ^s-c0cf01b5aa8fec2b0a770df1
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D6AF37995FCA"
 pavadinimas: "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo IV skyriaus pavadinimo ir 15 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo IV skyriaus pavadinimo ir 15 straipsnio pakeitimo įstatymas"
+  - "laisvųjų ekonominių zonų pagrindų įstatymo IV skyriaus pavadinimo ir 15 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.D6AF37995FCA.md"
 latest_sha256: "e11238f6f4df2cb6f5578714ddea4454f82e77bd4d4664546d9b2e56cda70450"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D6AF37995FCA]]"
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo IV skyriaus pavadinimo ir 15 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D6AF37995FCA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D6AF37995FCA
+- Ryšiai: [[Ryšiai/TAR.D6AF37995FCA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. IV skyriaus pavadinimo pakeitimas
+### 1 straipsnis. IV skyriaus pavadinimo pakeitimas ^s-2bc5a061f9e88f3bdf1f1409
 
 
 Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
@@ -41,34 +46,34 @@ Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas
+### 2 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas ^s-9f224d58997bc33151dde22f
 
 
-1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip: ^78e508fd86840183be611e04
+1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip: ^s-2e96d8ee720b794777f6fb87
 
 
 „15 straipsnis. Mokesčiai, valstybės rinkliava ir kitos įmokos zonoje“.
 
 
-2. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip: ^aab0078669c07087b2889b28
+2. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip: ^s-5d57344f7315b30751b21a99
 
 
 „1. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą ir tik šiuos mokesčius bei įmokas:
 
 
-1) juridinių asmenų pelno mokestį; ^37a6263ce4e6956bfb3c209d
+1) juridinių asmenų pelno mokestį; ^s-29f162ed98a3071cf92d6887
 
 
-2) fizinių asmenų pajamų mokestį; ^911bd34e96e4f7e3183cbecc
+2) fizinių asmenų pajamų mokestį; ^s-8fdb2024ab02afb817d081fb
 
 
-3) žemės nuomos mokestį; ^3059b8400fd65e26f56e6693
+3) žemės nuomos mokestį; ^s-959c1a58dc96a26a038ad982
 
 
-4) mokestį už aplinkos teršimą ir gamtos išteklius; ^8f59083de141f5572a54b764
+4) mokestį už aplinkos teršimą ir gamtos išteklius; ^s-41c23a3126ff1bbb9a08d991
 
 
-5) valstybinio privalomojo socialinio draudimo įmokas.“ ^b7cd9205c76a056d434df8d6
+5) valstybinio privalomojo socialinio draudimo įmokas.“ ^s-33bda95b36b363a78444f8fe
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A9F5CDF6DF6B"
 pavadinimas: "Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+  - "slaugos praktikos ir akušerijos praktikos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-22"
 latest_path: "latest/TAR.A9F5CDF6DF6B.md"
 latest_sha256: "5db818e0d3f7870a83a2556b13670f2b02fb1b18e2a128b857cffb44c4402908"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A9F5CDF6DF6B]]"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A9F5CDF6DF6B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A9F5CDF6DF6B
+- Ryšiai: [[Ryšiai/TAR.A9F5CDF6DF6B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas ^s-404465e54bc0c4efad5468f5
 
 
 7 straipsnio 6 dalyje išbraukti žodžius „Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas ^s-617d0f891b7018cc081b794c
 
 
 8 straipsnio 2 dalyje išbraukti žodžius „Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos“ ir šią dalį išdėstyti taip:

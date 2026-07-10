@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.57CC6D81313B"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.57CC6D81313B.md"
 latest_sha256: "581ade12bfff578f6f3e270504f0c035ac622f94a00146a69ffecedad4cad64a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.57CC6D81313B]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.57CC6D81313B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.57CC6D81313B
+- Ryšiai: [[Ryšiai/TAR.57CC6D81313B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 4 dalies pakeitimas ^s-3d38c377790817797c653b5d
 
 
 Pakeisti 11 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -41,10 +46,10 @@ Pakeisti 11 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-45e9b2e5d5c9160862a5e631
 
 
-Šio Įstatymo [[#1 straipsnis. 11 straipsnio 4 dalies pakeitimas|1 straipsnio]] nuostata taikoma apskaičiuojant pelno mokestį už 2002 metų mokestinį laikotarpį.
+Šio Įstatymo [[#^s-3d38c377790817797c653b5d|1 straipsnio]] nuostata taikoma apskaičiuojant pelno mokestį už 2002 metų mokestinį laikotarpį.
 
 
 

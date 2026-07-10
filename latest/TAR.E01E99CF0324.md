@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E01E99CF0324"
 pavadinimas: "Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-05-12"
 latest_path: "latest/TAR.E01E99CF0324.md"
 latest_sha256: "4c2a9c8a2c35490f94faf5bd5353a9c60d6be3ddea5b7219abc79717c7b57dc9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E01E99CF0324]]"
 ---
 # Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E01E99CF0324.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E01E99CF0324
+- Ryšiai: [[Ryšiai/TAR.E01E99CF0324|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymo nauja redakcija ^s-215a9a10e3a1b942be9a4aca
 
 
 Pakeisti Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo bi
 
 
 
-### 1 straipsnis. 2009 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 2009 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-ad9870fdf2a8b12700bff1fb
 
 
 Patvirtinti Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžetą – 4 388 415 tūkst. litų pajamų ir 4 388 415 tūkst. litų išlaidų, iš jo – 20 000 tūkst. litų kasos apyvartos lėšų (priedėlis).

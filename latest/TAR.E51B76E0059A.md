@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E51B76E0059A"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimo ratifikavimo"
+  - "įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-02-19"
 latest_path: "latest/TAR.E51B76E0059A.md"
 latest_sha256: "0a15747b183040a983ff735ed0ecde9976b5d02a94839a970455acd9be2d45dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E51B76E0059A]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E51B76E0059A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E51B76E0059A
+- Ryšiai: [[Ryšiai/TAR.E51B76E0059A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-6fb6a656672e1aa132d32319
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 6 punktais ir atsižvelgdamas į Respublikos Prezidento 2009 m. sausio 13 d. dekretą Nr. 1K-1673, ratifikuoja 2007 m. spalio 15 d. Liuksemburge pasirašytą Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimą.

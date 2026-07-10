@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8ED70CD5ABCC"
 pavadinimas: "Dėl Lietuvos Respublikos žemės reformos įstatymo 6 straipsnio papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės reformos įstatymo 6 straipsnio papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-05-06"
 latest_path: "latest/TAR.8ED70CD5ABCC.md"
 latest_sha256: "14ca020ea5f16792e1a73b2a219f688cecce6fcf74253fde7d573e6127f35252"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8ED70CD5ABCC]]"
 ---
 # Dėl Lietuvos Respublikos žemės reformos įstatymo 6 straipsnio papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8ED70CD5ABCC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8ED70CD5ABCC
+- Ryšiai: [[Ryšiai/TAR.8ED70CD5ABCC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

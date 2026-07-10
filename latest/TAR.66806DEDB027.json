@@ -11,7 +11,7 @@
   "latest_revision": "1998-10-02",
   "latest_sha256": "ba83cb1a2f7615f42a40625657e79aee3e18d889e2b5288a726fb6a419859dbd",
   "metadata_path": "latest/TAR.66806DEDB027.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

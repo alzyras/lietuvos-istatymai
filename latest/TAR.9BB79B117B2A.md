@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9BB79B117B2A"
 pavadinimas: "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 20 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 20 straipsnio pakeitimo įstatymas"
+  - "vartotojų teisių apsaugos įstatymo 20 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-25"
 latest_path: "latest/TAR.9BB79B117B2A.md"
 latest_sha256: "4f5ca8b0510fbbfb61e3a178e050691c2895fc53c3af7f08e888305fc63645ff"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9BB79B117B2A]]"
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 20 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9BB79B117B2A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9BB79B117B2A
+- Ryšiai: [[Ryšiai/TAR.9BB79B117B2A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas ^s-e753644ffcb149515d9cd14a
 
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:

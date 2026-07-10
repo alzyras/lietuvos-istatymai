@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3FE7C98AE95F"
 pavadinimas: "Lietuvos Respublikos individualių įmonių įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos individualių įmonių įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "individualių įmonių įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-01"
 latest_path: "latest/TAR.3FE7C98AE95F.md"
 latest_sha256: "ad52e7cbf4f535c29d5fdce792c1bd928b018bade0e500bd0c0ca380497662a5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3FE7C98AE95F]]"
 ---
 # Lietuvos Respublikos individualių įmonių įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3FE7C98AE95F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3FE7C98AE95F
+- Ryšiai: [[Ryšiai/TAR.3FE7C98AE95F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-306546a5b3b48d73a520c70e
 
 
 11 straipsnio 1 dalyje po žodžių „uždarąją akcinę bendrovę“ įrašyti žodžius „mažąją bendriją“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-bece1cfa5b6855d39fb86b80
 
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.

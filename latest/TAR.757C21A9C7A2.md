@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.757C21A9C7A2"
 pavadinimas: "Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-10-25"
 latest_path: "latest/TAR.757C21A9C7A2.md"
 latest_sha256: "f5a8d8b9c3d42b4d032699e693102fed457da47baa505c4c8a57ef4e8b2fcdf9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.757C21A9C7A2]]"
 ---
 # Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.757C21A9C7A2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.757C21A9C7A2
+- Ryšiai: [[Ryšiai/TAR.757C21A9C7A2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +34,7 @@ Vilnius
 
 
 
-Papildyti Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo (Žin., 1993, Nr. 11-265) 1 straipsnį antrąja dalimi:
+Papildyti [[latest/TAR.33A63C3E9D4C|Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo]] (Žin., 1993, Nr. 11-265) 1 straipsnį antrąja dalimi:
 
 
 „Valstybinė lietuvių kalbos komisija koordinuoja Kalbos inspekcijos inspektorių, apskričių ir savivaldybių kalbos tvarkytojų darbą, savo nustatyta tvarka atestuoja Kalbos inspekcijos inspektorius ir kalbos tvarkytojus.“

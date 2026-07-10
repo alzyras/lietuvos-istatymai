@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8361553AB031"
 pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2 ir 19 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2 ir 19 straipsnių pakeitimo įstatymas"
+  - "buhalterinės apskaitos įstatymo 1, 2 ir 19 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-29"
 latest_path: "latest/TAR.8361553AB031.md"
 latest_sha256: "6fb8d83fc83ab45c3e44285067996ea3d23859ccc2a668d899b573b4319e9ec9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8361553AB031]]"
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2 ir 19 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8361553AB031.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8361553AB031
+- Ryšiai: [[Ryšiai/TAR.8361553AB031|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-5eddda3729ac74b23f9959dc
 
 
 1 straipsnio 1 dalyje po žodžių „neribotos civilinės atsakomybės juridinių asmenų“ įrašyti žodžius „išteklių ir mokesčių fondų“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 22 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 22 dalies pakeitimas ^s-83c1d9bcb1889d19e8242c13
 
 
 Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
@@ -54,17 +59,17 @@ Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 19 straipsnio 5 dalies pripažinimas netekusia galios
+### 3 straipsnis. 19 straipsnio 5 dalies pripažinimas netekusia galios ^s-b17fe67653400a49ae787ee8
 
 
 Pripažinti 19 straipsnio 5 dalį netekusia galios.
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-091091da043e36fa67d0f549
 
 
-Šio įstatymo 1 ir [[#2 straipsnis. 2 straipsnio 22 dalies pakeitimas|2 straipsniai]] įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+Šio įstatymo 1 ir [[#^s-83c1d9bcb1889d19e8242c13|2 straipsniai]] įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 
 
 

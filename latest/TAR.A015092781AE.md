@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A015092781AE"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 85 ir 139 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 85 ir 139 straipsnių pakeitimo įstatymas"
+  - "administracinių bylų teisenos įstatymo 85 ir 139 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-05"
 latest_path: "latest/TAR.A015092781AE.md"
 latest_sha256: "0f1b8c3f2c7b25cda08d4ebe4d10c6065d8349e7153c42af26b3a0da90c3da5c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A015092781AE]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 85 ir 139 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A015092781AE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A015092781AE
+- Ryšiai: [[Ryšiai/TAR.A015092781AE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 85 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 85 straipsnio 3 dalies pakeitimas ^s-4a7607c075c49f94b8e4b0a4
 
 
 Pakeisti 85 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -42,16 +47,16 @@ Pakeisti 85 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 139 straipsnio 2 ir 3 dalių pakeitimas
+### 2 straipsnis. 139 straipsnio 2 ir 3 dalių pakeitimas ^s-ad620e7d2e1b6cc785cee190
 
 
-1. Pakeisti 139 straipsnio 2 dalį ir ją išdėstyti taip: ^d3fbbb0b87607066abc0abc8
+1. Pakeisti 139 straipsnio 2 dalį ir ją išdėstyti taip: ^s-d5d42de249b04355f74fe1c4
 
 
 „2. Priėmęs sprendimą ar nutartį, teismas grįžta į teismo posėdžių salę ir kolegijos pirmininkas arba teisėjas pranešėjas perskaito sprendimo ar nutarties įžanginę ir rezoliucinę dalis ir trumpai žodžiu išdėsto sprendimo ar nutarties motyvus.“
 
 
-2. Pakeisti 139 straipsnio 3 dalį ir ją išdėstyti taip: ^26f641f6421207fe082da4b1
+2. Pakeisti 139 straipsnio 3 dalį ir ją išdėstyti taip: ^s-58928baccdcad6e63c7e1690
 
 
 „3. Visas teismo sprendimas ar nutartis išdėstomi raštu ir visų teisėjų pasirašomi.“

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A59DE3D479DA"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas"
+  - "valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-04-05"
 latest_path: "latest/TAR.A59DE3D479DA.md"
 latest_sha256: "208db8ff7bf9bb9cfb4e150135e91367b709a6ed4ddabe7882b1ed5a42e52d9b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A59DE3D479DA]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A59DE3D479DA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A59DE3D479DA
+- Ryšiai: [[Ryšiai/TAR.A59DE3D479DA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies 4 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 3 straipsnio 2 dalies 4 punkto pripažinimas netekusiu galios ^s-8fe13b82b0463495249fc3c3
 
 
 3 straipsnio 2 dalies 4 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-3851abe7c5f37bb09aeb5701
 
 
 Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 18 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 18 straipsnio 3 dalies pakeitimas ^s-ceaa6ac82b3463fd04148a39
 
 
 Pakeisti 18 straipsnio 3 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3AF6AD8ED0B5"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 6, 26 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 6, 26 ir 27 straipsnių pakeitimo įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 6, 26 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-30"
 latest_path: "latest/TAR.3AF6AD8ED0B5.md"
 latest_sha256: "e4991838319f8bcc7579944b2b93ece9833d471d8c34a5e9d5658a6916eff846"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3AF6AD8ED0B5]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 6, 26 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3AF6AD8ED0B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3AF6AD8ED0B5
+- Ryšiai: [[Ryšiai/TAR.3AF6AD8ED0B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 5 dalies pakeitimas ^s-875a0185828f2cc9afd1cf0b
 
 
 Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 26 straipsnio 1 dalies 1 punkto pakeitimas
+### 2 straipsnis. 26 straipsnio 1 dalies 1 punkto pakeitimas ^s-6682da9dc988ee9d5b030c2f
 
 
 Pakeisti 26 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 26 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 27 straipsnio 2 dalies pakeitimas ^s-08a737629bd48b9955fcbc1f
 
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -65,13 +70,13 @@ Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-189bedeb5bdc769b20f64157
 
 
-1. Šis įstatymas, išskyrus [[#^71ba48c0cb3bd62168b4ce9b|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^969ec63a7cf540027fd1f38f
+1. Šis įstatymas, išskyrus [[#^s-604acf9db886230623beae5f|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-4cd8ab71f34eb60757dfef6a
 
 
-2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^71ba48c0cb3bd62168b4ce9b
+2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-604acf9db886230623beae5f
 
 
 

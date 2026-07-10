@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.EFE69222D6BC.md",
   "latest_revision": "2001-07-18",
-  "latest_sha256": "afe3b1cd34d57bf0a3d609e9e8b61493affdbed310421cd0cdc41374a53473fc",
+  "latest_sha256": "84ca02595c21f772c22886545b04226c48bcbe08e2c4999d10653bab3b3cdcc5",
   "metadata_path": "latest/TAR.EFE69222D6BC.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos geodezijos ir kartografijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

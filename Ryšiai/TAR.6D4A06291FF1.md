@@ -1,0 +1,25 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.6D4A06291FF1"
+pavadinimas: "Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas"
+---
+# Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas: ryšiai
+
+- [[latest/TAR.6D4A06291FF1|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/613244607e7011e6b969d7ae07280e89|Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas]] - 2 citatos - Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
+- [[latest/TAR.E79004684F4D#^s-a42b890043bac69d8b547d94|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 15, 17 IR 19 STRAIPSNIŲ
+- [[latest/TAR.769B541DD7F7#^s-24e2857a02bbc813d2d705e0|Lietuvos Respublikos ūkininko ūkio įstatymas]] - ŪKININKO ŪKIO ĮSTATYMO 10 STRAIPSNIO
+- [[latest/TAR.4A9B29FE9E04#^s-55da25312e389b1756804870|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO 30 IR 31 STRAIPSNIŲ
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.E79004684F4D#^s-37f0f1a189e715a44dea2e56|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - 2 citatos - GARANTINIO FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.E79004684F4D#^s-6b137718b3075e2dbed9e810|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - 2 citatos - GARANTINIO FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.4A9B29FE9E04#^s-55da25312e389b1756804870|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 1041010ISTA0IX-2538
+- [[latest/TAR.4A9B29FE9E04#^s-9ebde267b3f3890e34fb136a|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 1041010ISTA0IX-2538
+- [[latest/TAR.4A9B29FE9E04#^s-b561d0982a9e31bcd841f785|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 1041010ISTA0IX-2538
+- [[latest/TAR.4A9B29FE9E04#^s-c332c52d2664b7141962cd58|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 1041010ISTA0IX-2538
+- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 3 citatos - 1041010ISTA0IX-2538

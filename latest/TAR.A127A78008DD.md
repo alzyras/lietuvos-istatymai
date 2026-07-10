@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A127A78008DD"
 pavadinimas: "Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos"
+aliases:
+  - "Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-11-02"
 latest_path: "latest/TAR.A127A78008DD.md"
 latest_sha256: "7c25c3dfb8a1a077dbed384b023d74cbbc02b5c0cecd7eced409e1f4004204d6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A127A78008DD]]"
 ---
 # Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A127A78008DD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A127A78008DD
+- Ryšiai: [[Ryšiai/TAR.A127A78008DD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

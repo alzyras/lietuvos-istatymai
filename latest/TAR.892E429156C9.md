@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.892E429156C9"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatant Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą\" pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatant Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą\" pripažinimo netekusiu galios įstatymas"
+  - "įstatymo \"Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatant Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą\" pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-04-08"
 latest_path: "latest/TAR.892E429156C9.md"
 latest_sha256: "bb5e6313eda15810baa8dbcf610c168edf7bff1758a3121555e96296f19b35c4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.892E429156C9]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatant Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą" pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.892E429156C9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.892E429156C9
+- Ryšiai: [[Ryšiai/TAR.892E429156C9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-b0a72d84d841dc673fd5a9f2
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatytų Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą“.

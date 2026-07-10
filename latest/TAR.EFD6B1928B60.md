@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EFD6B1928B60"
 pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "valstybės ir tarnybos paslapčių įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.EFD6B1928B60.md"
 latest_sha256: "5b35815f3e89d38e5dc69a4ff32bd5f1ac893bae89f08fa62950402c7f3c7a12"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EFD6B1928B60]]"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EFD6B1928B60.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EFD6B1928B60
+- Ryšiai: [[Ryšiai/TAR.EFD6B1928B60|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies 15 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 1 dalies 15 punkto pakeitimas ^s-419cb3598426a71ea97a2833
 
 
 7 straipsnio 1 dalies 15 punkte vietoj žodžių „prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „prie Lietuvos Respublikos vidaus reikalų ministerijos“ ir šį punktą išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c71eee8e3415474d0a935f81
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

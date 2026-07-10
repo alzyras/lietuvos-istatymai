@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F31982BB1457"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės padėties\" 1 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės padėties\" 1 straipsnio pakeitimo ir papildymo įstatymas"
+  - "įstatymo \"Dėl užsieniečių teisinės padėties\" 1 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-10"
 latest_path: "latest/TAR.F31982BB1457.md"
 latest_sha256: "1645cabe1d2b7419ee990ee6070629d1105240c808b5038a1ee146876cd9c7e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F31982BB1457]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" 1 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F31982BB1457.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F31982BB1457
+- Ryšiai: [[Ryšiai/TAR.F31982BB1457|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,19 +39,19 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 5 dalimi
+### 1 straipsnis. 1 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 5 dalimi ^s-a0ebf7ec6541638288a6a6f7
 
 
-1. Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip: ^de6147532c8938b13647c0f0
+1. Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip: ^s-7f0933e97ffee0ce73756274
 
 
 „4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio 5 dalyje nurodytą išimtį.“
 
 
-2. Papildyti 1 straipsnį 5 dalimi: ^8aeda1ec485aadc47f66b245
+2. Papildyti 1 straipsnį 5 dalimi: ^s-6943b33510e2949e3603e8b0
 
 
-„5. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projekto įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas.“
+„5. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projekto įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja [[latest/TAR.04F64676CE77|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]].“
 
 
 

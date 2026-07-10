@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F563A541C7E9"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 34 ir 58 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 34 ir 58 straipsnių pakeitimo ir papildymo įstatymas"
+  - "pelno mokesčio įstatymo 34 ir 58 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.F563A541C7E9.md"
 latest_sha256: "dc4548eff76324bb5aa9d94963703476beeb29a1eeb823dc7d3b665983fca781"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F563A541C7E9]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 34 ir 58 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F563A541C7E9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F563A541C7E9
+- Ryšiai: [[Ryšiai/TAR.F563A541C7E9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 34 straipsnio 2 dalies papildymas
+### 1 straipsnis. 34 straipsnio 2 dalies papildymas ^s-80db38742b30b461fa2e3b03
 
 
 Papildyti 34 straipsnio 2 dalį žodžiais „išskyrus atvejus, kai dividendus išmokantis Lietuvos vienetas yra laisvosios ekonominės zonos įmonė“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 34 straipsnio 2 dalį žodžiais „išskyrus atvejus, kai dividendus 
 
 
 
-### 2 straipsnis. 58 straipsnio 16 dalies 2punkto pakeitimas
+### 2 straipsnis. 58 straipsnio 16 dalies 2punkto pakeitimas ^s-71c558c4ed9e62144a6a80bd
 
 
 Pakeisti 58 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 58 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-db43d720148636cd2cea1703
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

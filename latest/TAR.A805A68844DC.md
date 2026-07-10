@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A805A68844DC"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.A805A68844DC.md"
 latest_sha256: "673eb56e74510ccd3d4fefe5059cd094cb2d5f5add85dfadb13d3442dbf9a188"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A805A68844DC]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A805A68844DC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A805A68844DC
+- Ryšiai: [[Ryšiai/TAR.A805A68844DC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 15 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 15 punkto pakeitimas ^s-824bae7208819ec43ed81c62
 
 
 Pakeisti 3 straipsnio 15 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 3 straipsnio 15 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-06aadf2748d1bb4c722db8f4
 
 
 Šis įstatymas įsigalioja 2011 m. spalio 1 d.

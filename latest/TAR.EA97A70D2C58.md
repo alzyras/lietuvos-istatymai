@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EA97A70D2C58"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.EA97A70D2C58.md"
 latest_sha256: "98d8be7f806314ee50db733fc1af0b75a613c51f49770d90947fb5c02f6b3ae8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EA97A70D2C58]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EA97A70D2C58.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EA97A70D2C58
+- Ryšiai: [[Ryšiai/TAR.EA97A70D2C58|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio pakeitimas
+### 1 straipsnis. 13 straipsnio pakeitimas ^s-ee38d8d2f69b91901dc21961
 
 
 13 straipsnyje vietoj žodžių „apskrities valdytoju“ įrašyti žodžius „apskrities viršininku“ ir šį straipsnį išdėstyti taip:

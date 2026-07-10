@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.86C00CC4F0C0"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 2 ir 4 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 2 ir 4 straipsnių pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 2 ir 4 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.86C00CC4F0C0.md"
 latest_sha256: "2d9aeb70919ae257466f5aa97eec3d2de1de537539bde22ad849e3d510328032"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.86C00CC4F0C0]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 2 ir 4 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.86C00CC4F0C0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.86C00CC4F0C0
+- Ryšiai: [[Ryšiai/TAR.86C00CC4F0C0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-93a8dd2d349fd4bc5c1f9255
 
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-ebf4af2fe2893017f2877af5
 
 
 4 straipsnio 1 dalyje po žodžio „įstaigų“ įrašyti žodžius „ir kitų subjektų“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-5825ff7081b41c56aa62e2d9
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

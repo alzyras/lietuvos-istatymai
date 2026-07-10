@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.308C0D333B93"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 6, 16, 29, 54 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 6, 16, 29, 54 straipsnių pakeitimo ir papildymo įstatymas"
+  - "vietos savivaldos įstatymo 6, 16, 29, 54 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.308C0D333B93.md"
 latest_sha256: "8cfad9af731f007b581211f45f43e93432bc76b7d859996ce17eb494c01b381c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.308C0D333B93]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6, 16, 29, 54 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.308C0D333B93.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.308C0D333B93
+- Ryšiai: [[Ryšiai/TAR.308C0D333B93|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,73 +38,73 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 19 ir 27 punktų pakeitimas
+### 1 straipsnis. 6 straipsnio 19 ir 27 punktų pakeitimas ^s-ac9eb8ee60c49796c678b371
 
 
-1. Pakeisti 6 straipsnio 19 punktą ir jį išdėstyti taip: ^46bf818e47324efb2f829f79
+1. Pakeisti 6 straipsnio 19 punktą ir jį išdėstyti taip: ^s-9a25cca482915b9a9433293c
 
 
 „19) teritorijų planavimas, savivaldybės bendrojo plano ar savivaldybės dalių bendrųjų planų ir detaliųjų planų sprendinių įgyvendinimas;“.
 
 
-2. Pakeisti 6 straipsnio 27 punktą ir jį išdėstyti taip: ^4c8400214b17cf13e4308fa9
+2. Pakeisti 6 straipsnio 27 punktą ir jį išdėstyti taip: ^s-c0b58ebf3c9fa6548748e20e
 
 
 „27) adresų suteikimas žemės sklypams, kuriuose pagal jų naudojimo paskirtį (būdą) ar teritorijų planavimo dokumentus leidžiama pastatų statyba, pastatams, butams ir kitoms patalpoms, pavadinimų suteikimas gatvėms, savivaldybės teritorijose esantiems pastatams, statiniams ir kitiems objektams, šių adresų ir pavadinimų keitimas ar panaikinimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;“.
 
 
 
-### 2 straipsnis. 16 straipsnio 2 dalies 32 punkto ir 3 dalies 8 ir 12 punktų pakeitimas
+### 2 straipsnis. 16 straipsnio 2 dalies 32 punkto ir 3 dalies 8 ir 12 punktų pakeitimas ^s-eeab8f36b501260b84403a99
 
 
-1. Pakeisti 16 straipsnio 2 dalies 32 punktą ir jį išdėstyti taip: ^482e661d3f409d2bdd7db3db
+1. Pakeisti 16 straipsnio 2 dalies 32 punktą ir jį išdėstyti taip: ^s-fe1c6773878412715de80f73
 
 
 „32) savivaldybės bendrojo plano ar savivaldybės dalių bendrųjų planų tvirtinimas įstatymų nustatyta tvarka;“.
 
 
-2. Pakeisti 16 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip: ^b8d9780ce2168f7456b945a3
+2. Pakeisti 16 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip: ^s-af47d106521a6503f7a71249
 
 
 „8) savivaldybės ir vietovės lygmens specialiojo teritorijų planavimo dokumentų tvirtinimas, išskyrus įstatymų nustatytus atvejus;“.
 
 
-3. Pakeisti 16 straipsnio 3 dalies 12 punktą ir jį išdėstyti taip: ^98697eb25b35b4c6b6003be1
+3. Pakeisti 16 straipsnio 3 dalies 12 punktą ir jį išdėstyti taip: ^s-62014521350e92b4e534897a
 
 
 „12) sprendimų dėl pagrindinės žemės naudojimo paskirties ir būdo keitimo priėmimas teisės aktų nustatytais atvejais ir tvarka;“.
 
 
 
-### 3 straipsnis. 29 straipsnio 8 dalies 12 punkto pakeitimas ir papildymas 13, 14 ir 15 punktais
+### 3 straipsnis. 29 straipsnio 8 dalies 12 punkto pakeitimas ir papildymas 13, 14 ir 15 punktais ^s-bde725ea4e991135f6475bb0
 
 
-1. Pakeisti 29 straipsnio 8 dalies 12 punktą ir jį išdėstyti taip: ^e982eaf665e21397792b9a28
+1. Pakeisti 29 straipsnio 8 dalies 12 punktą ir jį išdėstyti taip: ^s-bd4dedd94f236bbd618842b5
 
 
 „12) tvirtina detaliuosius planus ir savivaldybės administracijos direktoriaus kompetencijai priskirtus vietovės lygmens specialiojo teritorijų planavimo dokumentus;“.
 
 
-2. Papildyti 29 straipsnio 8 dalį 13 punktu: ^19ab110f679bdcb5353ba580
+2. Papildyti 29 straipsnio 8 dalį 13 punktu: ^s-775b6a91280cb57571dda58b
 
 
 „13) teikia tvirtinti savivaldybės tarybai savivaldybės bendrąjį planą ar savivaldybės dalių bendruosius planus;“.
 
 
-3. Papildyti 29 straipsnio 8 dalį 14 punktu: ^cccfe5b25f0571cb175f5217
+3. Papildyti 29 straipsnio 8 dalį 14 punktu: ^s-1a0dc0385b7d30568681f62b
 
 
 „14) įstatymų nustatytais atvejais organizuoja savivaldybės bendrojo plano arba savivaldybės dalių bendrųjų planų, detaliųjų planų ir savivaldybės administracijos direktoriaus kompetencijai priskirtų vietovės lygmens specialiojo teritorijų planavimo dokumentų rengimą;“.
 
 
-4. Papildyti 29 straipsnio 8 dalį 15 punktu: ^7bb46af47fd35296272b1304
+4. Papildyti 29 straipsnio 8 dalį 15 punktu: ^s-78dbd9b82e987905decc370f
 
 
 „15) įstatymų nustatytais atvejais organizuoja žemėtvarkos planavimo dokumentų rengimą ir tvirtina juos.“
 
 
 
-### 4 straipsnis. 54 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 54 straipsnio 5 dalies pakeitimas ^s-002192f02ebf617b16cfca2a
 
 
 Pakeisti 54 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -109,7 +114,7 @@ Pakeisti 54 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-e176fb83f879ecef6ae1c8db
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

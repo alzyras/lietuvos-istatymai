@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.33981010AE57"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.33981010AE57.md"
 latest_sha256: "1f0f5d4cfced866ac7b151a4c6e8bd34049d0c9408571c2dbc3c8e025b6f6e41"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.33981010AE57]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.33981010AE57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.33981010AE57
+- Ryšiai: [[Ryšiai/TAR.33981010AE57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-b8bfc63dc57a025e0804ea03
 
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3dbb3c023db68e6fdcf0f928
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

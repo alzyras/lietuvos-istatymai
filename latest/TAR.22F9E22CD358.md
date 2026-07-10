@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.22F9E22CD358"
 pavadinimas: "Lietuvos Respublikos ūkinių bendrijų įstatymas"
+aliases:
+  - "Lietuvos Respublikos ūkinių bendrijų įstatymas"
+  - "ūkinių bendrijų įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-10-21"
 latest_path: "latest/TAR.22F9E22CD358.md"
 latest_sha256: "a418c5ef197586a14ba34134e60c5f600d59b7f15ace9fdfc37af6b537015f6a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.22F9E22CD358]]"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.22F9E22CD358.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358
+- Ryšiai: [[Ryšiai/TAR.22F9E22CD358|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,103 +42,103 @@ BENDROJI DALIS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-92aacc16c0f5b934b207ffd5
 
 
 Šis įstatymas reglamentuoja tikrųjų ūkinių bendrijų (TŪB) ir komanditinių (pasitikėjimo) ūkinių bendrijų (KŪB) steigimą, reorganizavimą ir likvidavimą, valdymą ir veiklą, narių teises ir pareigas, taip pat kapitalo formavimą ir jo paskirstymą. Kai šio įstatymo tekstas taikomas ir tikrajai ūkinei bendrijai, ir komanditinei (pasitikėjimo) ūkinei bendrijai, vartojamas terminas „bendrija“.
 
 
 
-### 2 straipsnis. Bendrija
+### 2 straipsnis. Bendrija ^s-2a7d367ca87c543b3e7649e2
 
 
-1. Bendrija yra kelių fizinių ar juridinių asmenų, taip pat fizinių ir juridinių asmenų bendrosios jungtinės veiklos sutartimi įsteigta įmonė komercinei-ūkinei ir kitokiai įstatymų nedraudžiamai veiklai bendru firmos vardu, sujungus jų turtą į bendrąją dalinę nuosavybę. ^b469bad4273404715b6526ce
+1. Bendrija yra kelių fizinių ar juridinių asmenų, taip pat fizinių ir juridinių asmenų bendrosios jungtinės veiklos sutartimi įsteigta įmonė komercinei-ūkinei ir kitokiai įstatymų nedraudžiamai veiklai bendru firmos vardu, sujungus jų turtą į bendrąją dalinę nuosavybę. ^s-90e283374a0a47f6f23af2ec
 
 
-2. Bendrijoje turi būti ne mažiau kaip 2 ir ne daugiau kaip 20 narių. Bendrijos nariu negali būti valstybinės valdžios ir valdymo organai, valstybinės ir valstybinės akcinės įmonės, išskyrus tuos atvejus, kai jos yra konsorciumų, steigiamų kaip tikrosios ūkinės bendrijos, nariai. ^9e8384a52e62fa19813d8bb1
+2. Bendrijoje turi būti ne mažiau kaip 2 ir ne daugiau kaip 20 narių. Bendrijos nariu negali būti valstybinės valdžios ir valdymo organai, valstybinės ir valstybinės akcinės įmonės, išskyrus tuos atvejus, kai jos yra konsorciumų, steigiamų kaip tikrosios ūkinės bendrijos, nariai. ^s-7bc029ded028a1e88b5d2766
 Straipsnio dalies pakeitimai:
 Nr. I-233, 1993-07-15, Žin., 1993, Nr. 32-731 (1993-07-28), i. k. [[latest/TAR.A049B3C6ACAF|0931010ISTA000I-233]]
 Nr. I-249, 1993-09-21, Žin., 1993, Nr. 49-964 (1993-09-29), i. k. [[latest/TAR.3188AFDDA24A|0931010ISTA000I-249]]
 
 
 
-3. Bendrija nėra juridinis asmuo. ^0254fcaf574dfd17e0e7b6c8
+3. Bendrija nėra juridinis asmuo. ^s-4c2dbfb0897a2c396a5ffd82
 
 
 
-### 3 straipsnis. Tikroji ūkinė bendrija
+### 3 straipsnis. Tikroji ūkinė bendrija ^s-ffa56e7051721919d4e9e961
 
 
-1. TŪB yra visiškos turtinės atsakomybės įmonė, jos turtas neatskirtas nuo jos narių turto. ^5d629d444278a1249f199e6b
+1. TŪB yra visiškos turtinės atsakomybės įmonė, jos turtas neatskirtas nuo jos narių turto. ^s-a5f299bcedf8d3c576c48098
 
 
-2. Pagal TŪB prievoles jos nariai atsako solidariai visu savo turtu. TŪB neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla. ^4c6720acf874172787548117
-
-
-
-### 4 straipsnis. Komanditinė (pasitikėjimo) ūkinė bendrija
-
-
-1. KŪB sudaro bendros firmos vardu veikiantys tikrieji nariai ir nariai komanditoriai. Komanditinėje (pasitikėjimo) ūkinėje bendrijoje turi būti bent vienas tikrasis narys ir bent vienas narys komanditorius. ^03e2177c8a89270d3870181b
-
-
-2. KŪB turtas atskirtas nuo komanditorių turto, o nuo tikrųjų narių turto neatskirtas. ^2e1738f201f5db79cba5b3e0
-
-
-3. Pagal KŪB prievoles jos tikrieji nariai solidariai atsako visu savo turtu, o nariai komanditoriai – tik tuo savo turtu, kurį perdavė arba turėjo perduoti KŪB, bet jo neperdavė sutartyje numatytais terminais. Bendrosios jungtinės veiklos sutartimi gali būti numatyta ir kitokia komanditorių atsakomybė. KŪB neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla. ^3fac33efd4b413b24e926a44
+2. Pagal TŪB prievoles jos nariai atsako solidariai visu savo turtu. TŪB neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla. ^s-85c1906976f747863938e91d
 
 
 
-### 5 straipsnis. Bendrijos pavadinimas
+### 4 straipsnis. Komanditinė (pasitikėjimo) ūkinė bendrija ^s-c80606bda78d253e0ed93052
 
 
-1. Bendrija turi savo pavadinimą (firmos vardą). TŪB pavadinime turi būti įvardintas bent vienas jos narys. KŪB pavadinime turi būti įvardintas bent vienas tikrasis narys ir įrašyti žodžiai „komanditinė ūkinė bendrija“ arba jų santrumpa KŪB. Bendrijos pavadinime gali būti nurodomos narių pavardės ir vardai arba tik pavardės. ^f1fd0b709011fb012bfbea96
+1. KŪB sudaro bendros firmos vardu veikiantys tikrieji nariai ir nariai komanditoriai. Komanditinėje (pasitikėjimo) ūkinėje bendrijoje turi būti bent vienas tikrasis narys ir bent vienas narys komanditorius. ^s-1b9c0957513038c4b7a9d8a3
 
 
-2. Bendrijai draudžiama turėti pavadinimą (firmos vardą), kuris būtų panašus į kitos Lietuvos Respublikoje įregistruotos įmonės pavadinimą arba būtų jam tapatus ir dėl to trukdytų šių įmonių normaliai ekonominei veiklai. Ginčai dėl bendrijos pavadinimo žinybingi teismui. ^4b59c9468993b93d05774b94
+2. KŪB turtas atskirtas nuo komanditorių turto, o nuo tikrųjų narių turto neatskirtas. ^s-6a7e43cf9498700c7319e65d
+
+
+3. Pagal KŪB prievoles jos tikrieji nariai solidariai atsako visu savo turtu, o nariai komanditoriai – tik tuo savo turtu, kurį perdavė arba turėjo perduoti KŪB, bet jo neperdavė sutartyje numatytais terminais. Bendrosios jungtinės veiklos sutartimi gali būti numatyta ir kitokia komanditorių atsakomybė. KŪB neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla. ^s-34452005e77e35ae6372ffe6
 
 
 
-### 6 straipsnis. Bendrijos teisės ir pareigos
+### 5 straipsnis. Bendrijos pavadinimas ^s-e020774fc85a3135b210983b
 
 
-1. Bendrija turi teisę: ^d30c7da7b62617a5ceeee280
+1. Bendrija turi savo pavadinimą (firmos vardą). TŪB pavadinime turi būti įvardintas bent vienas jos narys. KŪB pavadinime turi būti įvardintas bent vienas tikrasis narys ir įrašyti žodžiai „komanditinė ūkinė bendrija“ arba jų santrumpa KŪB. Bendrijos pavadinime gali būti nurodomos narių pavardės ir vardai arba tik pavardės. ^s-6d31cb37526e969989087259
 
 
-1) užsiimti savo firmos vardu bendrosios jungtinės veiklos sutartyje numatyta komercine-ūkine veikla Lietuvos Respublikoje bei už jos ribų; ^857ebd36c9285253bd415cfb
+2. Bendrijai draudžiama turėti pavadinimą (firmos vardą), kuris būtų panašus į kitos Lietuvos Respublikoje įregistruotos įmonės pavadinimą arba būtų jam tapatus ir dėl to trukdytų šių įmonių normaliai ekonominei veiklai. Ginčai dėl bendrijos pavadinimo žinybingi teismui. ^s-cba8539b8f63349a36abac9e
 
 
-2) turėti sąskaitas Lietuvos Respublikoje ir kitose valstybėse įregistruotose bankų įstaigose, taip pat savo antspaudą; ^eb51400b53f06f6ef44c6e0a
+
+### 6 straipsnis. Bendrijos teisės ir pareigos ^s-c27141a2d30afa1155deec2d
 
 
-3) turėti savo padalinius, filialus ir atstovybes Lietuvos Respublikoje ir už jos ribų; ^dd6b3766b0c437dde13dcfc6
+1. Bendrija turi teisę: ^s-cf9ce71ea0ad602b922e3930
 
 
-4) pirkti ar kitokiais būdais įgyti turtą, taip pat jį parduoti, išnuomoti, įkeisti ar kitaip disponuoti; ^dc861ca30c143e00f166ba55
+1) užsiimti savo firmos vardu bendrosios jungtinės veiklos sutartyje numatyta komercine-ūkine veikla Lietuvos Respublikoje bei už jos ribų; ^s-bb932edd5999f0acdef04f18
 
 
-5) bendrosios jungtinės veiklos sutartyje numatytais atvejais sudaryti sutartis, prisiimti įsipareigojimus, skolinti ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi; ^b4904cb6a46d51db7a0530b1
+2) turėti sąskaitas Lietuvos Respublikoje ir kitose valstybėse įregistruotose bankų įstaigose, taip pat savo antspaudą; ^s-00ff2555aa91ad6c79272a15
 
 
-6) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, išskyrus tuos atvejus, kai kainas ir kitus normatyvus reguliuoja valstybė; ^9fa213bf0112c0459f01454f
+3) turėti savo padalinius, filialus ir atstovybes Lietuvos Respublikoje ir už jos ribų; ^s-6790bd3632c54f77f035d6cf
 
 
-7) bendrosios jungtinės veiklos sutarties nustatyta tvarka likviduotis ar reorganizuotis. ^79a53821d4c0003523f7e36f
+4) pirkti ar kitokiais būdais įgyti turtą, taip pat jį parduoti, išnuomoti, įkeisti ar kitaip disponuoti; ^s-594d269b7f77a09e61ee351a
 
 
-2. Bendrija taip pat gali turėti ir kitokias, šio įstatymo nenumatytas turtines ir asmenines neturtines teises ir pareigas, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams ir bendrosios jungtinės veiklos sutarčiai. ^147d7e0f6492d91a12b2264d
+5) bendrosios jungtinės veiklos sutartyje numatytais atvejais sudaryti sutartis, prisiimti įsipareigojimus, skolinti ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi; ^s-ec25fccbd85b8883ce22c66d
 
 
-3. Bendrija neturi teisės išleisti vertybinių popierių. ^b46e7ea1e182b55d1273628d
+6) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, išskyrus tuos atvejus, kai kainas ir kitus normatyvus reguliuoja valstybė; ^s-b892d93384c16fb02164d4cf
 
 
-4. Komercinėje-ūkinėje veikloje bendrija turi laikytis Lietuvos Respublikos įstatymų ir bendrosios jungtinės veiklos sutarties nuostatų. ^daa7136e6f271ea7fe6dcc09
+7) bendrosios jungtinės veiklos sutarties nustatyta tvarka likviduotis ar reorganizuotis. ^s-457caf95a624c96ba47d0767
 
 
-5. Bendrijos prievolės visų pirma turi būti įvykdytos iš bendrijos turto. Jeigu bendrijos turto nepakanka, tai išreikalauti galima iš tikriesiems nariams priklausančio turto pagal Lietuvos Respublikos civilinio kodekso normas, reglamentuojančias solidarių prievolių įvykdymą. Šiuo atveju iš komanditorių turto gali būti išreikalaujama tik jų nepadarytų pagal sutartį įnašų ribose ir tik proporcingai nepadarytų įnašų dydžiui. ^09c7abaa6e40cb8b5365d27b
+2. Bendrija taip pat gali turėti ir kitokias, šio įstatymo nenumatytas turtines ir asmenines neturtines teises ir pareigas, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams ir bendrosios jungtinės veiklos sutarčiai. ^s-57d46f4acd8021313bd920ff
 
 
-6. Ieškiniai bendrijai arba jos nariams gali būti pareiškiami Lietuvos Respublikos civilinio kodekso nustatytais terminais. Bendrijos veiklą nutraukus, taip pat nariui išstojus (jį pašalinus) iš bendrijos, ieškinį galima pareikšti ne vėliau kaip per 3 metus nuo bendrijos likvidavimo ar bendrosios jungtinės veiklos sutarties pakeitimo bei atnaujinimo įregistravimo vietos savivaldybėje. ^65c72b78d21cd94e8155e060
+3. Bendrija neturi teisės išleisti vertybinių popierių. ^s-5750f34278d8049e33317841
+
+
+4. Komercinėje-ūkinėje veikloje bendrija turi laikytis Lietuvos Respublikos įstatymų ir bendrosios jungtinės veiklos sutarties nuostatų. ^s-c545f203396553d9971d10f6
+
+
+5. Bendrijos prievolės visų pirma turi būti įvykdytos iš bendrijos turto. Jeigu bendrijos turto nepakanka, tai išreikalauti galima iš tikriesiems nariams priklausančio turto pagal Lietuvos Respublikos civilinio kodekso normas, reglamentuojančias solidarių prievolių įvykdymą. Šiuo atveju iš komanditorių turto gali būti išreikalaujama tik jų nepadarytų pagal sutartį įnašų ribose ir tik proporcingai nepadarytų įnašų dydžiui. ^s-a2c34671dd5a8daf214da3fd
+
+
+6. Ieškiniai bendrijai arba jos nariams gali būti pareiškiami Lietuvos Respublikos civilinio kodekso nustatytais terminais. Bendrijos veiklą nutraukus, taip pat nariui išstojus (jį pašalinus) iš bendrijos, ieškinį galima pareikšti ne vėliau kaip per 3 metus nuo bendrijos likvidavimo ar bendrosios jungtinės veiklos sutarties pakeitimo bei atnaujinimo įregistravimo vietos savivaldybėje. ^s-1683361f9cce002a34aead88
 
 
 
@@ -142,86 +147,86 @@ BENDRIJOS STEIGIMAS
 
 
 
-### 7 straipsnis. Bendrosios jungtinės veiklos sutartis
+### 7 straipsnis. Bendrosios jungtinės veiklos sutartis ^s-3d72f41d93fa4025452da477
 
 
-1. Bendrijos steigimo ir veiklos pagrindas yra bendrosios jungtinės veiklos sutartis, kurią gali sudaryti veiksnūs fiziniai asmenys, taip pat juridiniai asmenys. ^d9aaa9e729e10daaee9a148b
+1. Bendrijos steigimo ir veiklos pagrindas yra bendrosios jungtinės veiklos sutartis, kurią gali sudaryti veiksnūs fiziniai asmenys, taip pat juridiniai asmenys. ^s-e06488421e49e944f22c3868
 
 
-2. Jungtinės veiklos sutartyje turi būti numatyta: ^ed07378163e8f2f8e5c04448
+2. Jungtinės veiklos sutartyje turi būti numatyta: ^s-a6e6bcc5d3d2d1548c7b3b09
 
 
-1) bendrijos pavadinimas (firmos vardas); ^da214b8c2acf7c3bf0daa80f
+1) bendrijos pavadinimas (firmos vardas); ^s-2b4d6ac8e1d31550157a563d
 
 
-2) bendrijos veiklos pobūdis; ^7935ed537156c879ceafbbe3
+2) bendrijos veiklos pobūdis; ^s-2be41b091c73d813c41746dd
 
 
-3) fizinių asmenų, kurie yra bendrijos tikrieji nariai arba komanditoriai, pavardės, vardai ir adresai; ^e4d4525761a823f77ca181ba
+3) fizinių asmenų, kurie yra bendrijos tikrieji nariai arba komanditoriai, pavardės, vardai ir adresai; ^s-7c0bfd624c8df1e65bd25186
 
 
-4) įmonių bei organizacijų, kurios yra bendrijos tikrieji nariai arba komanditoriai, pavadinimai, buveinės, banko sąskaitų numeriai ir kiti šių sąskaitų rekvizitai; ^cc9b540d6cd6978ece75af17
+4) įmonių bei organizacijų, kurios yra bendrijos tikrieji nariai arba komanditoriai, pavadinimai, buveinės, banko sąskaitų numeriai ir kiti šių sąskaitų rekvizitai; ^s-330a68e4394b869bc78482da
 
 
-5) tikrųjų narių ir komanditorių teisės ir pareigos; ^e4daa33bda27b7836168faf1
+5) tikrųjų narių ir komanditorių teisės ir pareigos; ^s-e71844c70e5a4e0371471fb4
 
 
-6) tikrųjų narių ir komanditorių dalys bendrosios nuosavybės teisėje, išreikštos trupmena arba procentais ir kiekvieno iš jų piniginių ir nepiniginių (turto ir intelektinės veiklos produktų, esančių nuosavybės teisės objektais) pradinių įnašų dydis, nepiniginių įnašų įvertinimas, įnašų įmokėjimo bei perdavimo bendrijai tvarka ir terminai; ^c45e16bbf7de732cb41a319b
+6) tikrųjų narių ir komanditorių dalys bendrosios nuosavybės teisėje, išreikštos trupmena arba procentais ir kiekvieno iš jų piniginių ir nepiniginių (turto ir intelektinės veiklos produktų, esančių nuosavybės teisės objektais) pradinių įnašų dydis, nepiniginių įnašų įvertinimas, įnašų įmokėjimo bei perdavimo bendrijai tvarka ir terminai; ^s-2b5d7745002758457985980b
 
 
-7) tikrųjų narių darbo įvertinimo ir atsiskaitymo su jais taisyklės; ^2c7f1b2f4422453606c95f87
+7) tikrųjų narių darbo įvertinimo ir atsiskaitymo su jais taisyklės; ^s-2d6cae9271f83b72a4cf86bd
 
 
-8) pinigų paėmimo asmeniniams reikalams iš bendrijos kasos tvarka; ^eb0c90d359ff5d90189818ae
+8) pinigų paėmimo asmeniniams reikalams iš bendrijos kasos tvarka; ^s-01b7847e0b49280fb400417d
 
 
-9) pajamų ir nuostolių paskirstymo taisyklės; ^b1e53f3ebf856723706c3551
+9) pajamų ir nuostolių paskirstymo taisyklės; ^s-958168e19de7707bb8a77738
 
 
-10) tikrųjų narių ir komanditorių išstojimo ir pašalinimo iš bendrijos bei naujų narių priėmimo į ją sąlygos ir tvarka; ^f6c47d7dd857f9a2efa356f0
+10) tikrųjų narių ir komanditorių išstojimo ir pašalinimo iš bendrijos bei naujų narių priėmimo į ją sąlygos ir tvarka; ^s-d8f755a8608f408d8d4eb5b0
 
 
-11) bendrijos valdymo, jos reikalų tvarkymo taisyklės ir jų keitimo sąlygos; ^ca3169888a0e490a9e1881ef
+11) bendrijos valdymo, jos reikalų tvarkymo taisyklės ir jų keitimo sąlygos; ^s-42cfc120cb75bfceaf5ddd6f
 
 
-12) asmenų, įgaliotų atstovauti bendrijai, tai pat tvarkyti kitus jos reikalus, pavardės, vardai, adresai ir įgalinimai; ^7d228a18845e2c08e9448919
+12) asmenų, įgaliotų atstovauti bendrijai, tai pat tvarkyti kitus jos reikalus, pavardės, vardai, adresai ir įgalinimai; ^s-62fe19d91e7bbd1d83dd8126
 
 
-13) nutarimų priėmimo (balsavimo) tvarka; ^16de8bf7572d32f99536ad5f
+13) nutarimų priėmimo (balsavimo) tvarka; ^s-4f9dc442ba33ac0ffb287326
 
 
-14) klausimai, dėl kurių nutarimai priimami tik tada, kai sutinka (vienbalsiai) visi nariai; ^2e85876bf409c95571768808
+14) klausimai, dėl kurių nutarimai priimami tik tada, kai sutinka (vienbalsiai) visi nariai; ^s-ad0f8def580ac57045d9f201
 
 
-15) bendrijos reorganizavimo bei likvidavimo tvarka. ^600b897bb53e2237b62d6eb2
+15) bendrijos reorganizavimo bei likvidavimo tvarka. ^s-fec73759d435cfecc1ceaf5b
 
 
-2. Bendrosios jungtinės veiklos sutartyje gali būti numatomos ir kitos nuostatos, neprieštaraujančios šiam bei kitiems Lietuvos Respublikos įstatymams. ^067a6f4e7c0816c140dfda41
+2. Bendrosios jungtinės veiklos sutartyje gali būti numatomos ir kitos nuostatos, neprieštaraujančios šiam bei kitiems Lietuvos Respublikos įstatymams. ^s-8410209af037508d9fa52082
 
 
-3. Bendrosios jungtinės veiklos sutartį pasirašo kiekvienas steigiamos bendrijos narys. Sutartis tvirtinama notariškai. Notariškai turi būti patvirtinta tiek sutarties egzempliorių, kiek yra bendrijos narių ir kiek reikia egzempliorių bendrijai įregistruoti. ^cc0f46d2da7c2ddc6a76d626
+3. Bendrosios jungtinės veiklos sutartį pasirašo kiekvienas steigiamos bendrijos narys. Sutartis tvirtinama notariškai. Notariškai turi būti patvirtinta tiek sutarties egzempliorių, kiek yra bendrijos narių ir kiek reikia egzempliorių bendrijai įregistruoti. ^s-e98b486c8993af39cbc30b9b
 
 
-4. Bendrija laikoma įsteigta nuo jos įregistravimo dienos. ^c03b2cf6ab4703b9b92e3c71
+4. Bendrija laikoma įsteigta nuo jos įregistravimo dienos. ^s-7c6844ae99790d9e4f12f476
 
 
-5. Priėmus į bendriją naują tikrąjį narį vietoj pašalinto arba išstojusio iš bendrijos tikrojo nario, turi būti parengta ir notariškai patvirtinta nauja bendrosios jungtinės veiklos sutartis, o bendrija – perregistruota. Priėmus į bendriją naują komanditorių vietoj pašalintojo arba išstojusiojo iš bendrijos, bendrosios jungtinės veiklos sutartis pakeičiama. Sutarties pakeitimai turi būti notariškai patvirtinti ir įsigalioja nuo jų įregistravimo dienos. ^e1130c1c725ca3dafb611202
+5. Priėmus į bendriją naują tikrąjį narį vietoj pašalinto arba išstojusio iš bendrijos tikrojo nario, turi būti parengta ir notariškai patvirtinta nauja bendrosios jungtinės veiklos sutartis, o bendrija – perregistruota. Priėmus į bendriją naują komanditorių vietoj pašalintojo arba išstojusiojo iš bendrijos, bendrosios jungtinės veiklos sutartis pakeičiama. Sutarties pakeitimai turi būti notariškai patvirtinti ir įsigalioja nuo jų įregistravimo dienos. ^s-dcda29bcb2b3086a5821e013
 
 
-6. Bendrosios jungtinės veiklos sutartis gali būti pripažinta negaliojančia tik teismine tvarka, jeigu yra sandorių negaliojimo pagrindai, numatyti Lietuvos Respublikos civilinio kodekso. ^87360293c8c44ac544022577
+6. Bendrosios jungtinės veiklos sutartis gali būti pripažinta negaliojančia tik teismine tvarka, jeigu yra sandorių negaliojimo pagrindai, numatyti Lietuvos Respublikos civilinio kodekso. ^s-cd9370cdd48736e8c7db3dc9
 
 
-7. Pripažinus bendrosios jungtinės veiklos sutartį negaliojančia, sandoriai su trečiaisiais asmenimis tebegalioja, išskyrus tuos, kurie pagal Lietuvos Respublikos civilinį kodeksą laikomi negaliojančiais. ^cc2c4de626aa2663f0a58196
+7. Pripažinus bendrosios jungtinės veiklos sutartį negaliojančia, sandoriai su trečiaisiais asmenimis tebegalioja, išskyrus tuos, kurie pagal Lietuvos Respublikos civilinį kodeksą laikomi negaliojančiais. ^s-2464254555efe489b4fde87e
 
 
 
-### 8 straipsnis. Bendrijos registravimas
+### 8 straipsnis. Bendrijos registravimas ^s-8e73edcbeed04be7fe421583
 
 
-1. Bendrijos registravimo tvarką be šio įstatymo reglamentuoja Lietuvos Respublikos įmonių ir Įmonių rejestro įstatymai. ^51ead8daf1699051b8de8d0a
+1. Bendrijos registravimo tvarką be šio įstatymo reglamentuoja Lietuvos Respublikos įmonių ir Įmonių rejestro įstatymai. ^s-890cc59f38f7cd12f788f733
 
 
-2. Bendrija savo komercinę-ūkinę veiklą gali pradėti tik nuo jos įregistravimo. ^eb55d7a4895df1e4f90d60e4
+2. Bendrija savo komercinę-ūkinę veiklą gali pradėti tik nuo jos įregistravimo. ^s-44b7e9da16f6d2a6fd509e2c
 
 
 
@@ -230,51 +235,51 @@ BENDRIJOS KAPITALAS
 
 
 
-### 9 straipsnis. Bendrijos kapitalo sudėtis
+### 9 straipsnis. Bendrijos kapitalo sudėtis ^s-20d4b171fa0dd9b998da2014
 
 
-1. Bendrijos kapitalą sudaro nuosavas ir skolintas kapitalas. ^3c6decd7fd0c82be5af3b708
+1. Bendrijos kapitalą sudaro nuosavas ir skolintas kapitalas. ^s-16857f92915b69640c9108b7
 
 
-2. Bendrijos minimalus nuosavas kapitalas įstatymu nereglamentuojamas. ^f09cf1999b20aa8fcfd6f634
+2. Bendrijos minimalus nuosavas kapitalas įstatymu nereglamentuojamas. ^s-7053a682ad15c7084d005837
 
 
-3. Bendrijos turtas apskaitomas buhalteriniame balanse. ^0d5e1b2e4ea68c076fef3691
-
-
-
-### 10 straipsnis. Bendrijos narių įnašai
-
-
-1. Įnašą galima įmokėti pinigais, įnešti materialinėmis vertybėmis, intelektinės veiklos produkcija ir kitomis vertybėmis, kurios yra bendrijos nario nuosavybės teisės objektas. Įnašai negali būti daromi vertybiniais popieriais, taip pat turtu, jeigu savininko teisė disponuoti juo pagal Lietuvos Respublikos įstatymus yra apribota. ^d5456be77398235c2c3c1d82
-
-
-2. Nepiniginiai įnašai įvertinami bendru visų narių susitarimu. ^3cfe45b1e3898d637bd077b8
-
-
-3. Visų tikrųjų bendrijos narių vienbalsiai priimtu nutarimu komanditoriaus įnašų darymą galima atidėti. ^45919bd325b6e37060fe50be
-
-
-4. Visų bendrijos tikrųjų narių ir komanditorių vienbalsiai priimtu nutarimu narys gali perleisti savo įnašą kitam bendrijos nariui arba tretiesiems asmenims, kai jie įstoja į bendriją. ^d9f8545c0caec50bf1ebc80c
-
-
-5. Jeigu bendrijos narys bendrosios jungtinės veiklos sutartyje nurodytu laiku neįneša viso įnašo, tai nuo neįneštos dalies gali būti priskaičiuojami sutartyje numatyto dydžio delspinigiai arba bendrijos narys gali būti šalinamas iš bendrijos, jeigu tai numatyta sutartyje. ^ae1cc4b728e74b288619ebec
-
-
-6. Iš bendrijos tikrojo nario įnašo negali būti išieškoma pagal jo kreditorių reikalavimus. Jeigu tikrojo bendrijos nario turto nepakanka padengti savo įsiskolinimų, tai jo kreditoriai turi teisę per teismą reikalauti likviduoti bendriją ir išskirti jo dalį. Šiuo atveju kiti bendrijos nariai, siekdami išsaugoti bendriją, gali išskirti skolininkui priklausančią dalį bendrame turte pagal bendrijos buhalterinį balansą, sudarytą skolininko išstojimo iš bendrijos dieną. ^b387a13d3616ebfd2d5658f4
+3. Bendrijos turtas apskaitomas buhalteriniame balanse. ^s-f23080000c98c6e31bfb40c3
 
 
 
-### 11 straipsnis. Bendrijos pajamų paskirstymas
+### 10 straipsnis. Bendrijos narių įnašai ^s-2aefc3abafb1b556b10865ba
 
 
-1. Pasibaigus ūkiniams metams sudaromas bendrijos buhalterinis balansas ir jos pajamos paskirstomos bendrijos nariams proporcingai jų dalims. Nustatant pajamų dalį, tenkančią tikrajam bendrijos nariui, neatsižvelgiama į tai, kad jis nėra įnešęs viso įnašo. Komanditoriui tenkanti pajamų dalis nustatoma proporcingai jo faktinio įnašo dydžiui. Pajamų dalis, kuria padidinami jos narių pradiniai įnašai proporcingai jų dalims, gali būti paliekama bendrijoje. Bendrosios jungtinės veiklos sutartyje gali būti numatytos ir kitokios pajamų paskirstymo taisyklės. Bendrijos pajamų paskirstymas nustatomas visų tikrųjų narių nutarimu, priimtu vienbalsiai. ^f60f87e2f30d9475e8914b41
+1. Įnašą galima įmokėti pinigais, įnešti materialinėmis vertybėmis, intelektinės veiklos produkcija ir kitomis vertybėmis, kurios yra bendrijos nario nuosavybės teisės objektas. Įnašai negali būti daromi vertybiniais popieriais, taip pat turtu, jeigu savininko teisė disponuoti juo pagal Lietuvos Respublikos įstatymus yra apribota. ^s-dab24e9cf7a4f3b455c6c667
 
 
-2. Bendrijos ūkiniai metai nustatomi nuo sausio 1 d. iki gruodžio 31 d. ^611313aea389d4e2791175ba
+2. Nepiniginiai įnašai įvertinami bendru visų narių susitarimu. ^s-a3f5a1ebc97f8f153eac106f
 
 
-3. Tikrasis narys ar komanditorius jam priklausančios pajamų dalies turi teisę reikalauti ne anksčiau kaip praėjus 2 mėnesiams po pajamų paskirstymo. ^96c44eedb0df338f44f6defd
+3. Visų tikrųjų bendrijos narių vienbalsiai priimtu nutarimu komanditoriaus įnašų darymą galima atidėti. ^s-f77581452779a901c30b8426
+
+
+4. Visų bendrijos tikrųjų narių ir komanditorių vienbalsiai priimtu nutarimu narys gali perleisti savo įnašą kitam bendrijos nariui arba tretiesiems asmenims, kai jie įstoja į bendriją. ^s-6911cde76eb88c5a104493bf
+
+
+5. Jeigu bendrijos narys bendrosios jungtinės veiklos sutartyje nurodytu laiku neįneša viso įnašo, tai nuo neįneštos dalies gali būti priskaičiuojami sutartyje numatyto dydžio delspinigiai arba bendrijos narys gali būti šalinamas iš bendrijos, jeigu tai numatyta sutartyje. ^s-cb7998a2dc60827768f3d0c4
+
+
+6. Iš bendrijos tikrojo nario įnašo negali būti išieškoma pagal jo kreditorių reikalavimus. Jeigu tikrojo bendrijos nario turto nepakanka padengti savo įsiskolinimų, tai jo kreditoriai turi teisę per teismą reikalauti likviduoti bendriją ir išskirti jo dalį. Šiuo atveju kiti bendrijos nariai, siekdami išsaugoti bendriją, gali išskirti skolininkui priklausančią dalį bendrame turte pagal bendrijos buhalterinį balansą, sudarytą skolininko išstojimo iš bendrijos dieną. ^s-809e7a9cbb0e12dd33484180
+
+
+
+### 11 straipsnis. Bendrijos pajamų paskirstymas ^s-6d98b0d902c4588eace17bd8
+
+
+1. Pasibaigus ūkiniams metams sudaromas bendrijos buhalterinis balansas ir jos pajamos paskirstomos bendrijos nariams proporcingai jų dalims. Nustatant pajamų dalį, tenkančią tikrajam bendrijos nariui, neatsižvelgiama į tai, kad jis nėra įnešęs viso įnašo. Komanditoriui tenkanti pajamų dalis nustatoma proporcingai jo faktinio įnašo dydžiui. Pajamų dalis, kuria padidinami jos narių pradiniai įnašai proporcingai jų dalims, gali būti paliekama bendrijoje. Bendrosios jungtinės veiklos sutartyje gali būti numatytos ir kitokios pajamų paskirstymo taisyklės. Bendrijos pajamų paskirstymas nustatomas visų tikrųjų narių nutarimu, priimtu vienbalsiai. ^s-33b29945df2bd1d820c05fa3
+
+
+2. Bendrijos ūkiniai metai nustatomi nuo sausio 1 d. iki gruodžio 31 d. ^s-3e0ece256299a6f878f6d065
+
+
+3. Tikrasis narys ar komanditorius jam priklausančios pajamų dalies turi teisę reikalauti ne anksčiau kaip praėjus 2 mėnesiams po pajamų paskirstymo. ^s-b04383ded98333e4049a32af
 
 
 
@@ -283,106 +288,106 @@ BENDRIJOS NARIŲ TEISĖS IR PAREIGOS
 
 
 
-### 12 straipsnis. Bendrijos narių teisės ir pareigos
+### 12 straipsnis. Bendrijos narių teisės ir pareigos ^s-a34014a14e4f3be76a8bd831
 
 
-1. Tikrieji nariai ir komanditoriai turi turtines ir asmenines neturtines teises, numatytas bendrosios jungtinės veiklos sutartyje, šiame bei kituose Lietuvos Respublikos įstatymuose. ^ac50e7f925259dd455466fae
+1. Tikrieji nariai ir komanditoriai turi turtines ir asmenines neturtines teises, numatytas bendrosios jungtinės veiklos sutartyje, šiame bei kituose Lietuvos Respublikos įstatymuose. ^s-8387896a66211d4b23067f8f
 
 
-2. Kiekvienas tikrasis narys turi teisę atstovauti bendrijai, jeigu bendrosios jungtinės veiklos sutartyje nenustatyta kas kita. Komanditoriai neturi teisės atstovauti bendrijai. Jeigu komanditorius, nesilaikydamas šio reikalavimo, sudaro bendrijos vardu sandorį, tai jis atsako solidariai su tikraisiais nariais pagal prievoles, kurios atsirado iš tokio sandorio, visu savo turtu. Tikrieji nariai, įgaliotieji atstovauti bendrijai, gali atstovavimo veiksmus perleisti (perįgalioti) kitam tikrajam nariui, jeigu tai numatyta bendrosios jungtinės veiklos sutartyje. Bendrijos vardu jos nario sudarytas sandoris sukuria jai teises ir pareigas tik tuo atveju, jeigu tokių sandorių sudarymas buvo numatytas bendrosios jungtinės veiklos sutartyje arba jeigu tokį sandorį prisiima visi tikrieji nariai vienbalsiai priimtu nutarimu. Bendrosios jungtinės veiklos sutartyje numatytais atvejais atstovauti bendrijai gali samdomas asmuo, kuris nėra bendrijos nariu. Jo įgalinimai apibrėžiami notarine tvarka patvirtintame įgaliojime. ^60abcc01954fbbf753bf435c
+2. Kiekvienas tikrasis narys turi teisę atstovauti bendrijai, jeigu bendrosios jungtinės veiklos sutartyje nenustatyta kas kita. Komanditoriai neturi teisės atstovauti bendrijai. Jeigu komanditorius, nesilaikydamas šio reikalavimo, sudaro bendrijos vardu sandorį, tai jis atsako solidariai su tikraisiais nariais pagal prievoles, kurios atsirado iš tokio sandorio, visu savo turtu. Tikrieji nariai, įgaliotieji atstovauti bendrijai, gali atstovavimo veiksmus perleisti (perįgalioti) kitam tikrajam nariui, jeigu tai numatyta bendrosios jungtinės veiklos sutartyje. Bendrijos vardu jos nario sudarytas sandoris sukuria jai teises ir pareigas tik tuo atveju, jeigu tokių sandorių sudarymas buvo numatytas bendrosios jungtinės veiklos sutartyje arba jeigu tokį sandorį prisiima visi tikrieji nariai vienbalsiai priimtu nutarimu. Bendrosios jungtinės veiklos sutartyje numatytais atvejais atstovauti bendrijai gali samdomas asmuo, kuris nėra bendrijos nariu. Jo įgalinimai apibrėžiami notarine tvarka patvirtintame įgaliojime. ^s-6683246fe3786b70eb65444c
 
 
-3. Tikrasis bendrijos narys gali tvarkyti ir disponuoti savo turtu, neperduotu bendrijai, iki tol, kol kiti nariai ar kreditoriai, siekdami užtikrinti būsimus turtinius reikalavimus, tai užginčys įstatymų nustatyta tvarka. ^a311365de57c0f97bde38ff2
+3. Tikrasis bendrijos narys gali tvarkyti ir disponuoti savo turtu, neperduotu bendrijai, iki tol, kol kiti nariai ar kreditoriai, siekdami užtikrinti būsimus turtinius reikalavimus, tai užginčys įstatymų nustatyta tvarka. ^s-046a84df4ef261e69bdf3781
 
 
-4. Kiekvienas bendrijos narys turi teisę reikalauti bendrosios jungtinės veiklos sutarties pakeitimo ar papildymo. ^735be4569890b67472c7fab8
+4. Kiekvienas bendrijos narys turi teisę reikalauti bendrosios jungtinės veiklos sutarties pakeitimo ar papildymo. ^s-96605e402ed1152452adcf60
 
 
-5. Tikrasis narys ir komanditorius turi teisę susipažinti su bendrijos buhalteriniu balansu, pajamų ir išlaidų sąskaita ir sutikrinti jų teisingumą su pirminiais dokumentais. Laikydami balanso duomenis neatitinkančiais tikrosios būklės, jie turi teisę reikalauti sudaryti revizijos komisiją buhalterinės apskaitos dokumentams patikrinti. ^8974e11d06b5c0c867c3e34d
+5. Tikrasis narys ir komanditorius turi teisę susipažinti su bendrijos buhalteriniu balansu, pajamų ir išlaidų sąskaita ir sutikrinti jų teisingumą su pirminiais dokumentais. Laikydami balanso duomenis neatitinkančiais tikrosios būklės, jie turi teisę reikalauti sudaryti revizijos komisiją buhalterinės apskaitos dokumentams patikrinti. ^s-2680c7d38a5325fdb2eb396f
 
 
-6. Kiekvienas tikrasis narys turi teisę kartu su kitais spręsti bendrijos turto valdymo, naudojimo ir disponavimo juo bei kitus bendrijos veiklos klausimus. Priimant nutarimus kiekvienas tikrasis narys turi vieną balsą nepriklausomai nuo jo dalies bendrosios nuosavybės teisėje dydžio. Jeigu šiame įstatyme ar bendrosios jungtinės veiklos sutartyje nenustatyta kitokia taisyklė, tai nutarimai priimami paprasta balsų dauguma. Šio įstatymo ar bendrosios jungtinės veiklos sutarties numatytais atvejais teisę balsuoti priimant nutarimus turi ir komanditoriai. Bendrijos narys neturi teisės balsuoti, jeigu priimamas nutarimas dėl jo pašalinimo ar išstojimo iš bendrijos. ^71d0574a21e6813503638135
+6. Kiekvienas tikrasis narys turi teisę kartu su kitais spręsti bendrijos turto valdymo, naudojimo ir disponavimo juo bei kitus bendrijos veiklos klausimus. Priimant nutarimus kiekvienas tikrasis narys turi vieną balsą nepriklausomai nuo jo dalies bendrosios nuosavybės teisėje dydžio. Jeigu šiame įstatyme ar bendrosios jungtinės veiklos sutartyje nenustatyta kitokia taisyklė, tai nutarimai priimami paprasta balsų dauguma. Šio įstatymo ar bendrosios jungtinės veiklos sutarties numatytais atvejais teisę balsuoti priimant nutarimus turi ir komanditoriai. Bendrijos narys neturi teisės balsuoti, jeigu priimamas nutarimas dėl jo pašalinimo ar išstojimo iš bendrijos. ^s-357f89dea664df311d129de1
 
 
-7. Tikrasis narys turi teisę pareikšti ieškinį teisme dėl bendrijos likvidavimo, jeigu kiti tikrieji nariai ignoruoja jiems bendrosios jungtinės veiklos sutartyje numatytas pareigas arba nesugeba jų vykdyti. Tokiais pat pagrindais komanditorius gali pareikšti ieškinį ir prašyti teismą jį atleisti nuo dalyvavimo bendrijoje. Tokie ieškiniai gali būti pareiškiami ir patenkinami tik pasibaigus ūkiniams metams. Patenkinus ieškinį, bendrijos nariui padarytus nuostolius atlygina tie nariai, kurie ignoravo savo pareigas arba nesugebėjo jų vykdyti. ^1817f7787ce149e463fc2c9e
+7. Tikrasis narys turi teisę pareikšti ieškinį teisme dėl bendrijos likvidavimo, jeigu kiti tikrieji nariai ignoruoja jiems bendrosios jungtinės veiklos sutartyje numatytas pareigas arba nesugeba jų vykdyti. Tokiais pat pagrindais komanditorius gali pareikšti ieškinį ir prašyti teismą jį atleisti nuo dalyvavimo bendrijoje. Tokie ieškiniai gali būti pareiškiami ir patenkinami tik pasibaigus ūkiniams metams. Patenkinus ieškinį, bendrijos nariui padarytus nuostolius atlygina tie nariai, kurie ignoravo savo pareigas arba nesugebėjo jų vykdyti. ^s-a30fea07400cef6bf8c5cf81
 
 
-8. Tikrieji nariai neturi teisės sudaryti sandorių su bendrija, kurios nariai jie yra. Komanditoriai tokius sandorius gali sudaryti, tačiau iš tokių sandorių kylantys reikalavimai patenkinami tik po to, kai bus patenkinti visų kitų bendrijos kreditorių reikalavimai. ^b10d5c3a4a31fe1a79d3ad86
+8. Tikrieji nariai neturi teisės sudaryti sandorių su bendrija, kurios nariai jie yra. Komanditoriai tokius sandorius gali sudaryti, tačiau iš tokių sandorių kylantys reikalavimai patenkinami tik po to, kai bus patenkinti visų kitų bendrijos kreditorių reikalavimai. ^s-0ab47ad27d9729c72e619d8e
 
 
 
-### 13 straipsnis. Draudimas užsiimti tokia pat komercine-ūkine veikla kitoje įmonėje
+### 13 straipsnis. Draudimas užsiimti tokia pat komercine-ūkine veikla kitoje įmonėje ^s-98c941a5049788e64e51802a
 
 
-1. Be visų tikrųjų narių sutikimo bendrijos tikrasis narys neturi teisės turėti individualią (personalinę) tokios pat veiklos rūšies įmonę arba būti kitos tokios pat rūšies komercine ūkine veikla užsiimančios bendrijos tikrasis narys. ^9c8ae0630a8975031e8fdc85
+1. Be visų tikrųjų narių sutikimo bendrijos tikrasis narys neturi teisės turėti individualią (personalinę) tokios pat veiklos rūšies įmonę arba būti kitos tokios pat rūšies komercine ūkine veikla užsiimančios bendrijos tikrasis narys. ^s-b52f4be08128cb5bc073cfa2
 
 
-2. Jeigu stodamas į bendriją tikruoju nariu asmuo nuslėpė, kad jis turi individualią (personalinę) tokios pat veiklos rūšies įmonę ar yra kitos tokios pat rūšies komercine-ūkine veikla užsiimančios bendrijos tikrasis narys, arba, būdamas šios bendrijos nariu, be jos sutikimo įsigijo individualią (personalinę) tokios pat veiklos rūšies įmonę ar įstojo į kitą tokios pat rūšies komercine-ūkine veikla užsiimančią bendriją, tai bendrija per 3 mėnesius po to, kai sužinojo apie šį pažeidimą, turi teisę reikalauti atlyginti nuostolius arba kad to nario sudaryti sandoriai, atstovaujant kitą bendriją, būtų pripažinti šios bendrijos sandoriais, o gautos pajamos būtų pervestos į šios bendrijos sąskaitą. ^89a2cb10194768d0488ba68e
+2. Jeigu stodamas į bendriją tikruoju nariu asmuo nuslėpė, kad jis turi individualią (personalinę) tokios pat veiklos rūšies įmonę ar yra kitos tokios pat rūšies komercine-ūkine veikla užsiimančios bendrijos tikrasis narys, arba, būdamas šios bendrijos nariu, be jos sutikimo įsigijo individualią (personalinę) tokios pat veiklos rūšies įmonę ar įstojo į kitą tokios pat rūšies komercine-ūkine veikla užsiimančią bendriją, tai bendrija per 3 mėnesius po to, kai sužinojo apie šį pažeidimą, turi teisę reikalauti atlyginti nuostolius arba kad to nario sudaryti sandoriai, atstovaujant kitą bendriją, būtų pripažinti šios bendrijos sandoriais, o gautos pajamos būtų pervestos į šios bendrijos sąskaitą. ^s-b5a58a01d00e6f2dab03d3bf
 
 
 
-### 14 straipsnis. Narystės pasibaigimas (nutraukimas)
+### 14 straipsnis. Narystės pasibaigimas (nutraukimas) ^s-ec5b096c61c9d542902504c3
 
 
-1. Narystės bendrijoje pasibaigimo pagrindai yra: ^236a3097be01cdc15b8865e0
+1. Narystės bendrijoje pasibaigimo pagrindai yra: ^s-e632807632c215f3d134cd7a
 
 
-1) nario mirtis; ^2e4a2e995c249eb010260c71
+1) nario mirtis; ^s-4aef54cd4bcb2e788a959093
 
 
-2) nario pripažinimas neveiksniu; ^5452d6ed1f08fc5ee1508b35
+2) nario pripažinimas neveiksniu; ^s-81eed1b7277c06c264491c69
 
 
-3) nario išstojimas iš bendrijos; ^9aec15d5cf33f28847feefa1
+3) nario išstojimas iš bendrijos; ^s-ad92fa6ec8e4d85618af2f1d
 
 
-4) nario pašalinimas iš bendrijos. ^62ac687a93dffc58a1e535a2
+4) nario pašalinimas iš bendrijos. ^s-18b1f9a790d43e34637c9a42
 
 
-2. Tikrasis narys ar komanditorius gali išstoti iš bendrijos, jeigu jis subankrutavo ir dėl to negali dalyvauti jos veikloje. Kitais atvejais tikrasis narys gali išstoti iš bendrijos, jeigu tam neprieštarauja nė vienas iš tikrųjų narių. Bendrijos jungtinės veiklos sutartyje gali būti nustatytos ir kitos išstojimo iš bendrijos sąlygos. ^ce38033c04850125cdb52cc8
+2. Tikrasis narys ar komanditorius gali išstoti iš bendrijos, jeigu jis subankrutavo ir dėl to negali dalyvauti jos veikloje. Kitais atvejais tikrasis narys gali išstoti iš bendrijos, jeigu tam neprieštarauja nė vienas iš tikrųjų narių. Bendrijos jungtinės veiklos sutartyje gali būti nustatytos ir kitos išstojimo iš bendrijos sąlygos. ^s-a92aa1a6dd6dab7b61399224
 
 
-3. Per 3 mėnesius nuo subankrutavusio nario, pripažinto neveiksniu asmens globėjo, mirusiojo komanditoriaus įpėdinio pareiškimo dėl išstojimo (dalies išskyrimo) gavimo dienos bendrija turi išskirti iš bendrosios nuosavybės turto dalį, tenkančią nariui pareiškimo padavimo dieną. ^d89eabd80d57eed06c94d08c
+3. Per 3 mėnesius nuo subankrutavusio nario, pripažinto neveiksniu asmens globėjo, mirusiojo komanditoriaus įpėdinio pareiškimo dėl išstojimo (dalies išskyrimo) gavimo dienos bendrija turi išskirti iš bendrosios nuosavybės turto dalį, tenkančią nariui pareiškimo padavimo dieną. ^s-4a9222ac503db6bfd4f73702
 
 
-4. Išstojantysis, pripažinto neveiksniu asmens globėjas arba mirusiojo įpėdinis privalo informuoti kitus bendrijos narius arba jungtinėse veiklos sutartyse numatytais atvejais – bendrijos atstovą apie ketinimus dėl savo dalies panaudojimo, o bendrija supažindinti išstojantįjį (globėją, įpėdinį) su galimais nuostoliais, jeigu jis tuojau pat pasiimtų savo dalį, ir pranešti terminą, po kurio būtų išvengta nuostolių. Jeigu išstojantysis (globėjas, įpėdinis) savo turto dalį sutinka atsiimti bendrijos nurodytu laiku, jam už tą laiką priskaičiuojama priklausanti pajamų dalis. Išstojančiajam (globėjui, įpėdiniui) nesutikus su pastaruoju pasiūlymu, dėl to atsiradę bendrijos nuostoliai padengiami iš išstojusiojo dalies. ^c7ba9a43b693bd606844f0b9
+4. Išstojantysis, pripažinto neveiksniu asmens globėjas arba mirusiojo įpėdinis privalo informuoti kitus bendrijos narius arba jungtinėse veiklos sutartyse numatytais atvejais – bendrijos atstovą apie ketinimus dėl savo dalies panaudojimo, o bendrija supažindinti išstojantįjį (globėją, įpėdinį) su galimais nuostoliais, jeigu jis tuojau pat pasiimtų savo dalį, ir pranešti terminą, po kurio būtų išvengta nuostolių. Jeigu išstojantysis (globėjas, įpėdinis) savo turto dalį sutinka atsiimti bendrijos nurodytu laiku, jam už tą laiką priskaičiuojama priklausanti pajamų dalis. Išstojančiajam (globėjui, įpėdiniui) nesutikus su pastaruoju pasiūlymu, dėl to atsiradę bendrijos nuostoliai padengiami iš išstojusiojo dalies. ^s-f38a136afcfdb2486c31bced
 
 
-5. Pagal sandorius, kurie buvo sudaryti iki nario išstojimo (pripažinimo neveiksniu, mirties) ir dar yra vykdomi, su išstojusiuoju (globėju, įpėdiniu) atsiskaitoma tik visiškai juos įvykdžius. Buvusiam bendrijos nariui (globėjui, įpėdiniui) reikalavimus dėl bendrijos prievolių, atsiradusių jam esant bendrijoje, galima pareikšti per 3 metus po išstojimo ar pašalinimo iš bendrijos. ^21cbe475274e343961f24c24
+5. Pagal sandorius, kurie buvo sudaryti iki nario išstojimo (pripažinimo neveiksniu, mirties) ir dar yra vykdomi, su išstojusiuoju (globėju, įpėdiniu) atsiskaitoma tik visiškai juos įvykdžius. Buvusiam bendrijos nariui (globėjui, įpėdiniui) reikalavimus dėl bendrijos prievolių, atsiradusių jam esant bendrijoje, galima pareikšti per 3 metus po išstojimo ar pašalinimo iš bendrijos. ^s-4cfd05e5f8d45f5c03df7d9e
 
 
-6. Su išstojusiu nariu (globėju, įpėdiniu) bendrija turi atsiskaityti ne vėliau kaip per 4 mėnesius nuo pareiškimo apie išstojimą (dalies išskyrimą) gavimo dienos, jei nebuvo susitarta dėl kitokio termino. ^cf4a5a3cdb827b8a836139c9
+6. Su išstojusiu nariu (globėju, įpėdiniu) bendrija turi atsiskaityti ne vėliau kaip per 4 mėnesius nuo pareiškimo apie išstojimą (dalies išskyrimą) gavimo dienos, jei nebuvo susitarta dėl kitokio termino. ^s-7a7a06ea8ec58ba292a6f1f3
 
 
-7. Buvusiam nariui (globėjui, įpėdiniui) turtas grąžinamas: ^694f2e4483b099d3f39e8a5a
+7. Buvusiam nariui (globėjui, įpėdiniui) turtas grąžinamas: ^s-fdf5062f381bb9c4d4ea1d3e
 
 
-1) išmokant jo dalį pinigais; ^3d98c8e3d09f15683fa6162b
+1) išmokant jo dalį pinigais; ^s-bcdea70a1454bbba792a6bf5
 
 
-2) išskiriant jo dalį natūra, jeigu turtas yra dalomas. ^1409dd8d4122b3099e83c5e9
+2) išskiriant jo dalį natūra, jeigu turtas yra dalomas. ^s-9f7afc495d0cef5aa5fe8916
 
 
-8. Tikrasis narys arba komanditorius, piktybiškai nevykdantis savo pareigų, kitų tikrųjų narių vienbalsiu nutarimu gali būti šalinamas ir bendrijos. Jeigu šalinamasis su šiuo nutarimu nesutinka, jis turi teisę kreiptis į teismą. ^74f87d3d490bd44f7a7bca86
+8. Tikrasis narys arba komanditorius, piktybiškai nevykdantis savo pareigų, kitų tikrųjų narių vienbalsiu nutarimu gali būti šalinamas ir bendrijos. Jeigu šalinamasis su šiuo nutarimu nesutinka, jis turi teisę kreiptis į teismą. ^s-729e8e900b51cc57a642108f
 
 
-9. Subankrutavęs tikrasis narys gali būti šalinamas iš bendrijos. ^185c70eee74f7672b9aca79c
+9. Subankrutavęs tikrasis narys gali būti šalinamas iš bendrijos. ^s-e4e5358bd0916a69b0b5f53e
 
 
-10. Pašalintajam nariui turtas grąžinamas ta pačia tvarka ir terminais kaip ir išstojusiajam iš bendrijos. ^c77d6e49845931ad4522d9ea
+10. Pašalintajam nariui turtas grąžinamas ta pačia tvarka ir terminais kaip ir išstojusiajam iš bendrijos. ^s-b1ed9af114bf3288e781bdcf
 
 
 
-### 15 straipsnis. Mirusio bendrijos nario įpėdinių teisės
+### 15 straipsnis. Mirusio bendrijos nario įpėdinių teisės ^s-fad4aeecf6b7c89fb5d93db3
 
 
-1. Mirusio bendrijos nario įpėdiniai turi teisę paveldėti mirusiojo nario turto dalį bendrijoje. Paveldėtas turtas perduodamas įpėdiniams tokia pačia tvarka ir terminais kaip ir išstojusiajam iš bendrijos. ^5673d606468b7500603fa90d
+1. Mirusio bendrijos nario įpėdiniai turi teisę paveldėti mirusiojo nario turto dalį bendrijoje. Paveldėtas turtas perduodamas įpėdiniams tokia pačia tvarka ir terminais kaip ir išstojusiajam iš bendrijos. ^s-9f16a29bcaa54ff4c8bebd04
 
 
-2. Mirus tikrajam nariui arba komanditoriui, vienas iš jo įpėdinių gali tapti bendrijos nariu, jeigu tai numatyta bendrosios jungtinės veiklos sutartyje. Įstojęs į bendriją įpėdinis perima visas mirusiojo teises ir pareigas. Šiuo atveju nauja bendrosios jungtinės veiklos sutartis nesudaroma, o esamoje sutartyje padaromi pakeitimai. Jeigu mirusiojo tikrojo nario įpėdinis tampa komanditoriumi, o komanditoriaus – tikruoju nariu, tai sudaroma nauja bendrosios jungtinės veiklos sutartis ir bendrija perregistruojama. ^2fefad5b1d9a3c8ccb3de302
+2. Mirus tikrajam nariui arba komanditoriui, vienas iš jo įpėdinių gali tapti bendrijos nariu, jeigu tai numatyta bendrosios jungtinės veiklos sutartyje. Įstojęs į bendriją įpėdinis perima visas mirusiojo teises ir pareigas. Šiuo atveju nauja bendrosios jungtinės veiklos sutartis nesudaroma, o esamoje sutartyje padaromi pakeitimai. Jeigu mirusiojo tikrojo nario įpėdinis tampa komanditoriumi, o komanditoriaus – tikruoju nariu, tai sudaroma nauja bendrosios jungtinės veiklos sutartis ir bendrija perregistruojama. ^s-52ae21a5b179dd590b6eebf9
 
 
-3. Mirusio tikrojo nario įpėdiniui raštu atsisakius įstoti į bendriją tikruoju nariu, bendrijos veikla nutraukiama, ir įpėdiniui perduodamas paveldimas turtas, atskaičius bendrijos likvidavimo nuostolius. ^eaa3168f4418aaac0192eb53
+3. Mirusio tikrojo nario įpėdiniui raštu atsisakius įstoti į bendriją tikruoju nariu, bendrijos veikla nutraukiama, ir įpėdiniui perduodamas paveldimas turtas, atskaičius bendrijos likvidavimo nuostolius. ^s-16e99ed88c64feca3fe236c3
 
 
 
@@ -391,17 +396,17 @@ BENDRIJOS VEIKLOS APSKAITA IR KONTROLĖ
 
 
 
-### 16 straipsnis. Bendrijos veiklos apskaita
+### 16 straipsnis. Bendrijos veiklos apskaita ^s-7905eeebda6630e34f42ab6a
 
 
-1. Bendrija savarankiškai nustato savo veiklos apskaitos tvarką, atitinkančią šiuos klausimus reglamentuojančias teisines normas. Bendrija turi teisę laikyti paslaptyje savo komercinės veiklos informaciją. ^814703c8951380a5edc055b4
+1. Bendrija savarankiškai nustato savo veiklos apskaitos tvarką, atitinkančią šiuos klausimus reglamentuojančias teisines normas. Bendrija turi teisę laikyti paslaptyje savo komercinės veiklos informaciją. ^s-a564fc56edef7e25e74b26c9
 
 
-2. Draudžiama reikalauti iš bendrijos kitokios atsiskaitomybės, nei numatyta Lietuvos Respublikos įstatymų. ^dcee5e45f4973ba353fa161f
+2. Draudžiama reikalauti iš bendrijos kitokios atsiskaitomybės, nei numatyta Lietuvos Respublikos įstatymų. ^s-c6d8e0d90ce1d7790afc0405
 
 
 
-### 17 straipsnis. Bendrijos veiklos kontrolė
+### 17 straipsnis. Bendrijos veiklos kontrolė ^s-53d6bef969e1e5f86007d46e
 
 
 Be bendrijos narių bendrijos veiklą tikrinti gali tik finansų, teismo ir tardymo įstaigos Lietuvos Respublikos įstatymų numatytais atvejais. Jeigu šių įstaigų pareigūnai savo veiksmais pažeidžia bendrijos teises arba trukdo jos normaliai veiklai ir dėl to padaro jai nuostolių, bendrija turi teisę teismine tvarka reikalauti iš tų įstaigų juos atlyginti.
@@ -413,82 +418,82 @@ BENDRIJOS VEIKLOS NUTRAUKIMAS
 
 
 
-### 18 straipsnis. Bendrijos veiklos nutraukimas
+### 18 straipsnis. Bendrijos veiklos nutraukimas ^s-7d3aa73073db7ec3aa9835b1
 
 
-1. Bendrijos veikla nutraukiama: ^3f6d325f45ddfaa2fcc3803b
+1. Bendrijos veikla nutraukiama: ^s-9e3a357f1fbfd228dc606457
 
 
-1) pasibaigus bendrosios jungtinės veiklos sutarties terminui; ^0a0881cdf32eb5721f8d18d6
+1) pasibaigus bendrosios jungtinės veiklos sutarties terminui; ^s-13a4b4f3e5c723b3fa733bf8
 
 
-2) vienbalsiu tikrųjų bendrijos narių nutarimu; ^446b442117138f29556f4ec0
+2) vienbalsiu tikrųjų bendrijos narių nutarimu; ^s-622dbfca2abb75c1fc3e41a1
 
 
-3) bendrijai bankrutavus; ^ed8a682856c9db47b084a3c8
+3) bendrijai bankrutavus; ^s-178661659c52b255a06b5d91
 
 
-4) valstybės organams priėmus sprendimą atšaukti bendrijos registravimą už teisės pažeidimus, numatytus įstatymų; ^ae2824587ad6662c369bc20d
+4) valstybės organams priėmus sprendimą atšaukti bendrijos registravimą už teisės pažeidimus, numatytus įstatymų; ^s-9204d2deaa36e6f513ec6674
 
 
-5) teismui patenkinus vietos savivaldybės organų ieškinį dėl bendrijos veiklos nutraukimo, kai ši, nepaisydama įspėjimo, toliau šiurkščiai pažeidžia Lietuvos Respublikos įstatymus; ^1a2c032aa01310f1825a450f
+5) teismui patenkinus vietos savivaldybės organų ieškinį dėl bendrijos veiklos nutraukimo, kai ši, nepaisydama įspėjimo, toliau šiurkščiai pažeidžia Lietuvos Respublikos įstatymus; ^s-a9f7c297d943387e4b5a46f0
 
 
-6) teismui patenkinus tikrojo bendrijos nario ieškinį šio įstatymo [[#^1817f7787ce149e463fc2c9e|12 straipsnio 7 dalies]] numatytu pagrindu; ^dc1c6b5bfe4d8a71f95fb1e5
+6) teismui patenkinus tikrojo bendrijos nario ieškinį šio įstatymo [[#^s-a30fea07400cef6bf8c5cf81|12 straipsnio 7 dalies]] numatytu pagrindu; ^s-0a45754fdbd59a09f8964d4a
 
 
-7) mirus tikrajam bendrijos nariui, jeigu ko kito nenumato bendrosios jungtinės veiklos sutartis. Mirus komanditoriui, bendrijos veikla nenutraukiama; ^91e22c42660ca1056c0288a1
+7) mirus tikrajam bendrijos nariui, jeigu ko kito nenumato bendrosios jungtinės veiklos sutartis. Mirus komanditoriui, bendrijos veikla nenutraukiama; ^s-be857c5833e9ec2dec5de71c
 
 
-8) esant kitiems bendrosios jungtinės veiklos sutartyje numatytiems pagrindams. ^3eba27dada0e060a346d9bd8
+8) esant kitiems bendrosios jungtinės veiklos sutartyje numatytiems pagrindams. ^s-3664512e3f1b2e2f3ae20679
 
 
-2. Bendrijos veiklos nutraukimas turi būti įregistruotas. ^37410c10db6117e302feb220
-
-
-
-### 19 straipsnis. Bendrijos likvidavimas
-
-
-1. Bendrijos likvidavimo tvarką reglamentuoja šis ir kiti Lietuvos Respublikos įstatymai bei bendrosios jungtinės veiklos sutartis. ^3f802daffbb2f2feed6ff42f
-
-
-2. Jeigu bendrija likviduojama pasibaigus bendrosios jungtinės veiklos sutarties terminui arba nariams nutarus nutraukti veiklą, tai jie turi teisę patys paskirti likvidatorius iš tikrųjų narių. Kitais likvidavimo atvejais likvidatorius skiria teismas. ^12b4931f4e4b0afedb8f3c35
-
-
-3. Paskyrus likvidatorius, bendrija įgyja likviduojamosios įmonės statusą. Bendrijos atstovai netenka savo įgaliojimų, jų funkcijas perima likvidatoriai. ^ae7331096439846cffacf250
+2. Bendrijos veiklos nutraukimas turi būti įregistruotas. ^s-337412d68d30571de5d11044
 
 
 
-### 20 straipsnis. Likvidatorių teisės ir pareigos
+### 19 straipsnis. Bendrijos likvidavimas ^s-ca45f9bc399e503ba94153a4
 
 
-1. Likvidatoriai, pradėdami ir baigdami likvidavimą, turi sudaryti bendrijos buhalterinius balansus. ^f8652cb7a5289fc9f5c0edc4
+1. Bendrijos likvidavimo tvarką reglamentuoja šis ir kiti Lietuvos Respublikos įstatymai bei bendrosios jungtinės veiklos sutartis. ^s-fe7877e0ed783e8a28aed493
 
 
-2. Likvidatoriai užbaigia bendrijos einamąją komercinę-ūkinę veiklą, išaiškina jos kreditorius ir debitorius, reikalui esant parduoda iš varžytinių likusį po prievolių įvykdymo turtą ir patenkina kreditorių reikalavimus. ^ec60142bba509f184bc0ee9b
+2. Jeigu bendrija likviduojama pasibaigus bendrosios jungtinės veiklos sutarties terminui arba nariams nutarus nutraukti veiklą, tai jie turi teisę patys paskirti likvidatorius iš tikrųjų narių. Kitais likvidavimo atvejais likvidatorius skiria teismas. ^s-1f705503ee2fa31bdb5940a6
+
+
+3. Paskyrus likvidatorius, bendrija įgyja likviduojamosios įmonės statusą. Bendrijos atstovai netenka savo įgaliojimų, jų funkcijas perima likvidatoriai. ^s-c62aa2f280111042381e933c
 
 
 
-### 21 straipsnis. Likviduojamosios bendrijos turto padalijimas
+### 20 straipsnis. Likvidatorių teisės ir pareigos ^s-303e05222c821c03286a1f0b
 
 
-1. Atsiskaičius su kreditoriais pagal bendrijos prievoles, likusį turtą likvidatoriai padalija bendrijos nariams. Pirmiausia atsiskaitoma su komanditoriais. Komanditoriams, įnešusiems visą įnašą, grąžinama visa jo suma. Tikriesiems nariams ir ne įnešusiems viso sutartyje numatyto įnašo komanditoriams, likusį turtą likvidatoriai padalija proporcingai jų dalies dydžiui. Bendrijos nuostoliai paskirstomi tikriesiems jos nariams proporcingai jų dalies dydžiui, o komanditoriams – proporcingai jų nepadaryto įnašo sumai. ^667316c2f404967c8cb7e9aa
+1. Likvidatoriai, pradėdami ir baigdami likvidavimą, turi sudaryti bendrijos buhalterinius balansus. ^s-ba71745df55ae0ae4fc44b7a
 
 
-2. Jeigu likvidavimo metu išaiškėja ginčytinos prievolės, tai jų vykdymui iš bendro turto išskiriama atitinkama suma, kuri įnešama į notariato depozitinę sąskaitą. ^7b04c5399382fe2eb5b32501
+2. Likvidatoriai užbaigia bendrijos einamąją komercinę-ūkinę veiklą, išaiškina jos kreditorius ir debitorius, reikalui esant parduoda iš varžytinių likusį po prievolių įvykdymo turtą ir patenkina kreditorių reikalavimus. ^s-a5a2a8c1b811ade7f39e6940
 
 
-3. Iškilus narių ginčui dėl likusio po kreditorių reikalavimų patenkinimo turto padalijimo, likvidatoriai sustabdo turto dalijimą. Likviduojamosios bendrijos narių tarpusavio ginčai, taip pat jų ginčai su likvidatoriais nagrinėjami teismine tvarka. ^c370036e7dc38638a7a1e5e7
+
+### 21 straipsnis. Likviduojamosios bendrijos turto padalijimas ^s-215d8fcdfcf0247982df9864
 
 
-4. Patenkinus kreditorių turtinius reikalavimus, buvę nariai, kontroliuojant likvidatoriams, gali susitarti dėl kitokių likusio turto pasidalijimo sąlygų. ^6bed7314ca5150e39c09344a
+1. Atsiskaičius su kreditoriais pagal bendrijos prievoles, likusį turtą likvidatoriai padalija bendrijos nariams. Pirmiausia atsiskaitoma su komanditoriais. Komanditoriams, įnešusiems visą įnašą, grąžinama visa jo suma. Tikriesiems nariams ir ne įnešusiems viso sutartyje numatyto įnašo komanditoriams, likusį turtą likvidatoriai padalija proporcingai jų dalies dydžiui. Bendrijos nuostoliai paskirstomi tikriesiems jos nariams proporcingai jų dalies dydžiui, o komanditoriams – proporcingai jų nepadaryto įnašo sumai. ^s-061dc5055e177d08c6f8f93b
 
 
-5. Bendrijos tikrieji nariai kartu su likvidatoriais surašo bendrijos likvidavimo aktą ir jį įregistruoja. ^e2001722621cb91c4303ce52
+2. Jeigu likvidavimo metu išaiškėja ginčytinos prievolės, tai jų vykdymui iš bendro turto išskiriama atitinkama suma, kuri įnešama į notariato depozitinę sąskaitą. ^s-effdcbe589bfc4be03736605
 
 
-6. Likviduotos bendrijos dokumentai perduodami saugoti savivaldybei ir saugomi joje 10 metų. Buvę bendrijos nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus. ^e493a305e0f9b4555e97a809
+3. Iškilus narių ginčui dėl likusio po kreditorių reikalavimų patenkinimo turto padalijimo, likvidatoriai sustabdo turto dalijimą. Likviduojamosios bendrijos narių tarpusavio ginčai, taip pat jų ginčai su likvidatoriais nagrinėjami teismine tvarka. ^s-fef640ec22231dd0db9decfb
+
+
+4. Patenkinus kreditorių turtinius reikalavimus, buvę nariai, kontroliuojant likvidatoriams, gali susitarti dėl kitokių likusio turto pasidalijimo sąlygų. ^s-ba05d2bf099bfd0dae0ba77a
+
+
+5. Bendrijos tikrieji nariai kartu su likvidatoriais surašo bendrijos likvidavimo aktą ir jį įregistruoja. ^s-cc6d345131429d3cc081456f
+
+
+6. Likviduotos bendrijos dokumentai perduodami saugoti savivaldybei ir saugomi joje 10 metų. Buvę bendrijos nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus. ^s-38672cf00efaed70ed95c39e
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2DAA47F9F1AE"
 pavadinimas: "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 2, 11, 12, 13, 18, 19, 22, 25, 27, 29, 33 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 2, 11, 12, 13, 18, 19, 22, 25, 27, 29, 33 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
+  - "darbuotojų saugos ir sveikatos įstatymo 1, 2, 11, 12, 13, 18, 19, 22, 25, 27, 29, 33 straipsnių ir priedo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.2DAA47F9F1AE.md"
 latest_sha256: "0a95c8e2bbd5209222331006cb2a6d8ceb58e7a8729de8b067d6e69ca222df41"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2DAA47F9F1AE]]"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 2, 11, 12, 13, 18, 19, 22, 25, 27, 29, 33 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2DAA47F9F1AE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2DAA47F9F1AE
+- Ryšiai: [[Ryšiai/TAR.2DAA47F9F1AE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-9db0b5baaabb70665d3387ba
 
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio 14 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 14 dalies pakeitimas ^s-9eaf7a188384728c2647e787
 
 
 2 straipsnio 14 dalyje išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip:
@@ -56,17 +61,17 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-facae9b15849db01b926d674
 
 
-Pakeisti [[#^73c512f5c64bb4cbf06b0fdc|11 straipsnio 1 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-51980d87c3933aec93a99cb2|11 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Darbdavio pareiga yra sudaryti darbuotojams saugias ir sveikatai nekenksmingas darbo sąlygas visais su darbu susijusiais aspektais. Darbuotojų pareigos saugant savo ir kitų darbuotojų sveikatą bei gyvybę, nurodytos šio Įstatymo 33 straipsnyje, neatleidžia darbdavio nuo šioje dalyje nustatytos pareigos. Darbuotojų saugos ir sveikatos priemonės finansuojamos darbdavio lėšomis.“
 
 
 
-### 4 straipsnis. 12 straipsnio 5 dalies pakeitimas
+### 4 straipsnis. 12 straipsnio 5 dalies pakeitimas ^s-69104d360affb4bbf69a5b1f
 
 
 Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -76,23 +81,23 @@ Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 13 straipsnio 5 dalies 2 punkto ir 7 dalies pakeitimas
+### 5 straipsnis. 13 straipsnio 5 dalies 2 punkto ir 7 dalies pakeitimas ^s-3b2bf656025756adc20a1b40
 
 
-1. 13 straipsnio 5 dalies 2 punkte išbraukti žodį „medicinos“ ir šį punktą išdėstyti taip: ^2633983df9b2d12a4499aba2
+1. 13 straipsnio 5 dalies 2 punkte išbraukti žodį „medicinos“ ir šį punktą išdėstyti taip: ^s-9e9b6e374629684f232b2257
 
 
 „2) dalyvauja darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui parenkant ir paskiriant darbuotojus, atsakingus už pirmosios pagalbos suteikimą, taip pat parenkant ir paskiriant darbuotojus, atsakingus už gelbėjimo darbų organizavimą, darbuotojų evakavimą galimų avarijų, stichinių nelaimių ar gaisrų atvejais (prieš paskirdamas tokius darbuotojus, darbdaviui atstovaujantis asmuo su darbuotojų atstovais saugai ir sveikatai konsultuojasi, juos paskyręs jiems praneša apie šių darbuotojų darbo vietas, įpareigojimus);“.
 
 
-2. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^2fa6148661966a3e692d3446
+2. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^s-26144ac284b4f5a7ff02194e
 
 
 „7. Darbdavys ar darbdaviui atstovaujantis asmuo suteikia darbuotojų atstovams saugai ir sveikatai reikalingą informaciją, aprūpina juos reikiamomis priemonėmis ir skiria pakankamai laiko jų darbo laiku jiems pavestoms funkcijoms, nustatytoms šio straipsnio 5 dalyje, atlikti ir jų teisėms, nustatytoms šio straipsnio 6 dalyje, įgyvendinti. Konkretus darbo valandų skaičius, reikalingas jų funkcijoms atlikti ir teisėms įgyvendinti, yra nustatomas darbo sutartyse arba kolektyvinėse sutartyse. Už šį laiką jiems mokamas ne mažesnis už vidutinį darbo užmokestis.“
 
 
 
-### 6 straipsnis. 18 straipsnio 7 dalies pakeitimas
+### 6 straipsnis. 18 straipsnio 7 dalies pakeitimas ^s-d109334d81981a2b1794da9e
 
 
 18 straipsnio 7 dalyje išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip:
@@ -102,76 +107,76 @@ Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 19 straipsnio 2 dalies 2 punkto pripažinimas netekusiu galios
+### 7 straipsnis. 19 straipsnio 2 dalies 2 punkto pripažinimas netekusiu galios ^s-7aa9aedf2f7a1979d3a4559f
 
 
 19 straipsnio 2 dalies 2 punktą pripažinti netekusiu galios.
 
 
 
-### 8 straipsnis. 22 straipsnio 1, 2, 3 dalių ir 4 dalies 1, 5 punktų pakeitimas
+### 8 straipsnis. 22 straipsnio 1, 2, 3 dalių ir 4 dalies 1, 5 punktų pakeitimas ^s-7d1d64bd50545865cae2a678
 
 
-1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip: ^84c9b7427ff7752597e4a69f
+1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip: ^s-d33cafc4d1bae990cb3b18d9
 
 
 „1. Darbdavys ar jam atstovaujantis asmuo, atsižvelgdamas į įmonės veiklos ypatumus ir dydį bei į kitus esančius asmenis, imasi būtinų pirmosios pagalbos, gaisrų gesinimo ir darbuotojų evakavimo priemonių ir pasirūpina, kad būtų užmegzti būtini ryšiai su išorės tarnybomis, ypač tomis, kurios teikia pirmąją ar skubią medicinos pagalbą, atlieka gelbėjimo darbus ir gesina gaisrus.“
 
 
-2. Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip: ^5f79c551dc5b71577c303139
+2. Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip: ^s-60a5c443aa8e632c3e02f32f
 
 
 „2. Kiekviena įmonė ir visi jos padaliniai privalo turėti darbuotojų evakavimo planus. Su evakavimo planais darbuotojai susipažįsta įsidarbindami įmonėje. Darbuotojų evakavimo planai iškabinami įmonės ir jos padalinių gerai matomose vietose. Darbdavio įgalioti asmenys, įmonės darbuotojų saugos ir sveikatos tarnybos darbuotojai, darbuotojų atstovai saugai ir sveikatai privalo būti gerai susipažinę su evakavimo planais, įmonės avarijų prevencijos ir likvidavimo planais ir priemonėmis, kurių privaloma imtis avarijų atvejais.“
 
 
-3. 22 straipsnio 3 dalyje išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip: ^ec3c3d25d0933247c306b7d6
+3. 22 straipsnio 3 dalyje išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip: ^s-df79c5b46df567a6bf9bc260
 
 
 „3. Darbdaviui atstovaujantis asmuo ar jo pavedimu darbdavių įgaliotas asmuo paskiria darbuotojus (jų sutikimu) ir organizuoja jų periodišką apmokymą, kaip apsaugoti savo ir kitų darbuotojų sveikatą bei gyvybę galimo pavojaus atveju, aprūpina juos pirmosios pagalbos ir kitomis reikiamomis priemonėmis, atsižvelgdamas į įmonės veiklos ypatumus, darbuotojų skaičių.“
 
 
-4. Pakeisti 22 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^9553d1a8c996316d3a1637ca
+4. Pakeisti 22 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^s-06e463c36ed821d9b28d8f99
 
 
 „1) kaip galima greičiau informuoja visus darbuotojus, kuriems kyla arba gali kilti pavojus, apie riziką ir apie tai, kokių kolektyvinių ir asmeninių apsaugos priemonių reikia imtis arba jau buvo imtasi;“.
 
 
-5. 22 straipsnio 4 dalies 5 punkte išbraukti žodį „medicinos“ ir šį punktą išdėstyti taip: ^1813f9fd6f5bb9424c5fed82
+5. 22 straipsnio 4 dalies 5 punkte išbraukti žodį „medicinos“ ir šį punktą išdėstyti taip: ^s-5fe2b73be443a35abe2c9e0b
 
 
 „5) organizuoja pirmosios pagalbos suteikimą nukentėjusiesiems, taip pat darbuotojų evakavimą.“
 
 
 
-### 9 straipsnis. 25 straipsnio 4, 15, 16 punktų pakeitimas ir straipsnio papildymas 11 punktu
+### 9 straipsnis. 25 straipsnio 4, 15, 16 punktų pakeitimas ir straipsnio papildymas 11 punktu ^s-2f3744befbafd96044387aeb
 
 
-1. Pakeisti 25 straipsnio 4 punktą ir jį išdėstyti taip: ^a368b31774a640e56f03e6b5
+1. Pakeisti 25 straipsnio 4 punktą ir jį išdėstyti taip: ^s-68b0cde97207e92b81acb5f7
 
 
 „4) užtikrina, kad darbuotojai įsidarbindami ir darbo metu įmonėje gautų išsamią informaciją apie darbuotojų saugos ir sveikatos organizavimą įmonėje, apie esamą ar galimą profesinę riziką, parengtas priemones rizikai šalinti ir (ar) mažinti, apie paskirtus darbuotojus, atsakingus už pirmosios pagalbos suteikimą, gelbėjimo darbų organizavimą, darbuotojų evakavimą galimų avarijų, stichinių nelaimių ar gaisrų atvejais, ir apie gaisrų gesinimo bei evakavimo priemones, taip pat informaciją apie Valstybinės darbo inspekcijos atlikto įmonės inspektavimo rezultatus;“.
 
 
-2. Papildyti 25 straipsnį 11 punktu: ^385e17f4d87352c9106aa2b1
+2. Papildyti 25 straipsnį 11 punktu: ^s-8592557063fb6b5106d3399e
 
 
 „11) užtikrina, kad darbuotojų saugos ir sveikatos specialistai, darbuotojų saugos ir sveikatos tarnyba, darbdavio įgaliotas asmuo, atliekantis darbuotojų saugos ir sveikatos tarnybos funkcijas, fiziniai ar juridiniai asmenys, atliekantys darbuotojų saugos ir sveikatos tarnybos funkcijas ar jų dalį, gautų informaciją apie darbuotojų priėmimą dirbti, kuri reikalinga tinkamai organizuoti darbuotojų saugos ir sveikatos prevencines priemones, skirtas visiems darbuotojams;“.
 
 
-3. Pakeisti 25 straipsnio 15 punktą ir jį išdėstyti taip: ^4fee30cecd57be2c47ea8b2c
+3. Pakeisti 25 straipsnio 15 punktą ir jį išdėstyti taip: ^s-1956c22471ede7d83094b646
 
 
 „15) sudaro arba paveda darbdavio įgaliotam asmeniui sudaryti nelaimingų atsitikimų darbe ar susirgimų profesinėmis ligomis, dėl kurių darbuotojas neteko darbingumo ilgiau kaip 3 darbo dienoms, sąrašus, registruoja incidentus;“.
 
 
-4. Pakeisti 25 straipsnio 16 punktą ir jį išdėstyti taip: ^70f7b88cddb0896b61943b6a
+4. Pakeisti 25 straipsnio 16 punktą ir jį išdėstyti taip: ^s-fb6e29633c4f462a5f397b15
 
 
 „16) atlieka kitas pareigas ir įgyvendina reikiamas priemones, sudarydamas darbuotojams saugias ir sveikatai nekenksmingas darbo sąlygas.“
 
 
 
-### 10 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 10 straipsnis. 27 straipsnio 2 dalies pakeitimas ^s-79d098e1955dad755429d1b4
 
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -181,23 +186,23 @@ Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 11 straipsnis. 29 straipsnio 1 ir 4 dalių pakeitimas
+### 11 straipsnis. 29 straipsnio 1 ir 4 dalių pakeitimas ^s-7ca2e08616f90fcc2b651ad7
 
 
-1. 29 straipsnio 1 dalyje po žodžio „pirmosios“ išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip: ^73c512f5c64bb4cbf06b0fdc
+1. 29 straipsnio 1 dalyje po žodžio „pirmosios“ išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip: ^s-51980d87c3933aec93a99cb2
 
 
 „1. Padalinio vadovas, o kai jo nėra – darbdavio įgaliotas asmuo ar darbdaviui atstovaujantis asmuo privalo organizuoti pirmosios pagalbos suteikimą darbuotojams ir, jeigu reikia, iškviesti greitąją medicinos pagalbą nelaimingų atsitikimų darbe, ūmių susirgimų darbe atvejais.“
 
 
-2. 29 straipsnio 4 dalyje išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip: ^bdee6fd7fe971c6ccd9fa86d
+2. 29 straipsnio 4 dalyje išbraukti žodį „medicinos“ ir šią dalį išdėstyti taip: ^s-489927754f7325335909fbdc
 
 
 „4. Įmonės padaliniuose gerai matomose vietose turi būti priemonės, reikalingos pirmajai pagalbai suteikti, nuorodos (ženklai), kur yra medicinos punktas.“
 
 
 
-### 12 straipsnis. 33 straipsnio 2 dalies pakeitimas
+### 12 straipsnis. 33 straipsnio 2 dalies pakeitimas ^s-268f394f8c81a91b42b3f7e2
 
 
 Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -207,7 +212,7 @@ Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 13 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+### 13 straipsnis. Įstatymo priedo pakeitimas ir papildymas ^s-6b31fa56f22642c72fe1b914
 
 
 Pakeisti ir papildyti Įstatymo priedą ir jį išdėstyti taip:
@@ -215,21 +220,21 @@ Pakeisti ir papildyti Įstatymo priedą ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-darbuotojų saugos ir sveikatos įstatymo
+[[latest/TAR.95C79D036AA4|darbuotojų saugos ir sveikatos įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1). ^837b1db7ae0300b311ab7980
+1. 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1). ^s-3af6e815423b91d54810ab5f
 
 
-2. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 418), su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB (OL 2007 L 165, p. 21).“ ^5acbcfd2dac57764d78a7dd1
+2. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 418), su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB (OL 2007 L 165, p. 21).“ ^s-a0a93caa1cbe5f914f457e4f
 
 
 
-### 14 straipsnis. Įstatymo įsigaliojimas
+### 14 straipsnis. Įstatymo įsigaliojimas ^s-fd7ca989fbebe375e40b1b8b
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

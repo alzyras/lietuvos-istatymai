@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8269CEEBFCA7"
 pavadinimas: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 30 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 30 straipsnio pakeitimo įstatymas"
+  - "Klaipėdos valstybinio jūrų uosto įstatymo 30 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-04-03"
 latest_path: "latest/TAR.8269CEEBFCA7.md"
 latest_sha256: "7ae03adee8e15145ffaaed360b5237559a0f43d842695cb4c458ecf385eed62f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8269CEEBFCA7]]"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 30 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8269CEEBFCA7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8269CEEBFCA7
+- Ryšiai: [[Ryšiai/TAR.8269CEEBFCA7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 30 straipsnio pakeitimas
+### 1 straipsnis. 30 straipsnio pakeitimas ^s-b748aa599e1b1e0d0293477e
 
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:

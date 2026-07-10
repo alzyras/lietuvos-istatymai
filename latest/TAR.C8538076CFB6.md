@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8538076CFB6"
 pavadinimas: "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "ginklų ir šaudmenų kontrolės įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.C8538076CFB6.md"
 latest_sha256: "7ea7134a5264975debcaa9dcaea1daf332d50108bf9a5855668359edb5866cab"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8538076CFB6]]"
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8538076CFB6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8538076CFB6
+- Ryšiai: [[Ryšiai/TAR.C8538076CFB6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 30 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 30 dalies pakeitimas ^s-4a9b5f367856bb8487e5c40b
 
 
 2 straipsnio 30 dalyje vietoj žodžių „prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „prie Lietuvos Respublikos vidaus reikalų ministerijos“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f65e5198c0cc6e3d8d756e02
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

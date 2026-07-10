@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E2780B68DE62"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos įstatymas"
+  - "aplinkos apsaugos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-01-30"
 latest_path: "latest/TAR.E2780B68DE62.md"
 latest_sha256: "53a2e89e67db328fae4a17167707d54eef233c8fe12bed4e87951d61f04c245c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E2780B68DE62]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E2780B68DE62.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62
+- Ryšiai: [[Ryšiai/TAR.E2780B68DE62|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -37,128 +42,128 @@ I SKYRIUS. BENDRIEJI NUOSTATAI
 
 
 
-### 1 straipsnis. Pagrindinės sąvokos
+### 1 straipsnis. Pagrindinės sąvokos ^s-286053e18d954a5ce2bd233b
 
 
 Šiame įstatyme:
 
 
-1) aplinka – gamtoje funkcionuojanti tarpusavyje susijusių elementų (žemės paviršiaus ir gelmių, oro, vandens, dirvožemio, augalų, gyvūnų, organinių ir neorganinių medžiagų, antropogeninių komponentų) visuma bei juos vienijančios natūraliosios ir antropogeninės sistemos; ^3c3b5646a3d4209183e212f1
+1) aplinka – gamtoje funkcionuojanti tarpusavyje susijusių elementų (žemės paviršiaus ir gelmių, oro, vandens, dirvožemio, augalų, gyvūnų, organinių ir neorganinių medžiagų, antropogeninių komponentų) visuma bei juos vienijančios natūraliosios ir antropogeninės sistemos; ^s-9f5f55b02cc067b9d26ec923
 
 
-2) aplinkos apsauga – aplinkos saugojimas nuo fizinio, cheminio, biologinio ir kitokio poveikio ar pasekmių, atsirandančių įgyvendinant planus ir programas, vykdant ūkinę veiklą ar naudojant gamtos išteklius; ^56b66768efc6b004a318a797
+2) aplinkos apsauga – aplinkos saugojimas nuo fizinio, cheminio, biologinio ir kitokio poveikio ar pasekmių, atsirandančių įgyvendinant planus ir programas, vykdant ūkinę veiklą ar naudojant gamtos išteklius; ^s-b641c336756fffeae18b800b
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-3) gamtos ištekliai – gyvosios ar negyvosios gamtos elementai (augalija, gyvūnija, įskaitant ir buveines, vanduo, žemė (jos paviršius ir gelmės), kuriuos žmogus naudoja arba gali naudoti savo reikmėms; ^914068311edafaa6f64e8dcc
+3) gamtos ištekliai – gyvosios ar negyvosios gamtos elementai (augalija, gyvūnija, įskaitant ir buveines, vanduo, žemė (jos paviršius ir gelmės), kuriuos žmogus naudoja arba gali naudoti savo reikmėms; ^s-f11f3e646219353814f83cc6
 
 
-4) ekosistema – funkcinė gyvųjų ir negyvųjų aplinkos elementų, kuriuos jungia tarpusavio ryšiai, medžiagų apykaitos bei energijos pasikeitimo procesai, sistema; ^73d2b1d32bb10ef395f399c6
+4) ekosistema – funkcinė gyvųjų ir negyvųjų aplinkos elementų, kuriuos jungia tarpusavio ryšiai, medžiagų apykaitos bei energijos pasikeitimo procesai, sistema; ^s-9d5335f866c5b2b56a333351
 
 
-5) aplinkos apsaugos normatyvas – nustatyta tvarka įteisinta ūkinės ar kitos veiklos poveikio aplinkai leistinumo skaitmeninė ar loginė išraiška; ^671fd8d5ea0f7acb4fc82f13
+5) aplinkos apsaugos normatyvas – nustatyta tvarka įteisinta ūkinės ar kitos veiklos poveikio aplinkai leistinumo skaitmeninė ar loginė išraiška; ^s-bcbb08c780ebfaa9b81bcc2e
 
 
-6) aplinkos apsaugos standartas – nustatyta tvarka parengtas ir patvirtintas normatyvinis dokumentas, kuriame nustatomos bendro ir daugkartinio naudojimo aplinkos apsaugos taisyklės, bendrieji principai ar charakteristikos; ^f6d8db45f95910582c36360e
+6) aplinkos apsaugos standartas – nustatyta tvarka parengtas ir patvirtintas normatyvinis dokumentas, kuriame nustatomos bendro ir daugkartinio naudojimo aplinkos apsaugos taisyklės, bendrieji principai ar charakteristikos; ^s-5a79bfcd9dd89a640591f5b8
 
 
-7) gamtos išteklių limitavimas – gamtos išteklių naudojimo normų nustatymas atsižvelgiant į turimus duomenis apie gamtos išteklių kiekį, jų atsinaujinimą ir išsaugojimą ateičiai; ^c7cf86ac906c3758a668c2aa
+7) gamtos išteklių limitavimas – gamtos išteklių naudojimo normų nustatymas atsižvelgiant į turimus duomenis apie gamtos išteklių kiekį, jų atsinaujinimą ir išsaugojimą ateičiai; ^s-0ffcb6beaaba15e6c9a88209
 
 
-8) kenksmingas (neigiamas) poveikis aplinkai – ekosistemos ar jos elementų natūralių funkcijų susilpnėjimas arba netekimas; ^238c14fdd3bcacaf085faf22
+8) kenksmingas (neigiamas) poveikis aplinkai – ekosistemos ar jos elementų natūralių funkcijų susilpnėjimas arba netekimas; ^s-59ef8db977ba1d6802f07335
 
 
-9) aplinkos stebėsena (monitoringas) – sistemingas aplinkos bei jos elementų būklės ir kitimo stebėjimas, antropogeninio poveikio įvertinimas ir prognozė; ^9f8e20eb3a79b1556cecccb9
+9) aplinkos stebėsena (monitoringas) – sistemingas aplinkos bei jos elementų būklės ir kitimo stebėjimas, antropogeninio poveikio įvertinimas ir prognozė; ^s-f388dc61ccd175cf0c4adada
 
 
-10) neteko galios; ^00e30c7f38b7958ebbbbb68c
+10) neteko galios; ^s-a6c889110b23f8e553c1f9d2
 Straipsnio punkto pakeitimai:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-11) informacija apie aplinką – bet kokia rašytinė, vaizdo, garso, elektroninė ar kitokia materialia forma saugoma informacija apie: aplinkos elementų būklę, kraštovaizdį ir biologinę įvairovę (įskaitant genetiškai modifikuotus organizmus) bei jų tarpusavio sąveiką; veiksnius, tokius kaip: medžiagos, energija, triukšmas ir radiacija, bei veiklą arba priemones (įskaitant administracines priemones, susitarimus aplinkosaugos srityje, politiką, įstatymų leidybą, planus ir programas, turinčius arba galinčius turėti poveikio aplinkos elementams, kraštovaizdžio ar biologinei įvairovei, taip pat išlaidų ir rezultatų bei kitą ekonominę analizę ir prielaidas, susijusias su priimamais sprendimais aplinkosaugos srityje); žmonių sveikatos ir saugos būklę, gyvenimo sąlygas, kultūros objektų ir statinių būklę tais atvejais, kai tam turi arba gali turėti įtakos aplinkos elementai, kraštovaizdžio ar biologinė įvairovė arba per šiuos elementus šiame punkte išvardyti veiksniai, veikla arba priemonės; ^7fcd1dcb81c72b6afcd4a96f
+11) informacija apie aplinką – bet kokia rašytinė, vaizdo, garso, elektroninė ar kitokia materialia forma saugoma informacija apie: aplinkos elementų būklę, kraštovaizdį ir biologinę įvairovę (įskaitant genetiškai modifikuotus organizmus) bei jų tarpusavio sąveiką; veiksnius, tokius kaip: medžiagos, energija, triukšmas ir radiacija, bei veiklą arba priemones (įskaitant administracines priemones, susitarimus aplinkosaugos srityje, politiką, įstatymų leidybą, planus ir programas, turinčius arba galinčius turėti poveikio aplinkos elementams, kraštovaizdžio ar biologinei įvairovei, taip pat išlaidų ir rezultatų bei kitą ekonominę analizę ir prielaidas, susijusias su priimamais sprendimais aplinkosaugos srityje); žmonių sveikatos ir saugos būklę, gyvenimo sąlygas, kultūros objektų ir statinių būklę tais atvejais, kai tam turi arba gali turėti įtakos aplinkos elementai, kraštovaizdžio ar biologinė įvairovė arba per šiuos elementus šiame punkte išvardyti veiksniai, veikla arba priemonės; ^s-ca6226097ea1ca7adc47ffc7
 
 
-12) ūkinė veikla – ūkinė ir kitokia veikla; ^ba4b510c05ab5a29c10bbba6
+12) ūkinė veikla – ūkinė ir kitokia veikla; ^s-4b2bef78e0590894126406d3
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-13) pavojingos medžiagos – nuodingosios, kenksmingos, degiosios, sprogstamosios, koroziją sukeliančios ir kitos medžiagos, galinčios pakenkti žmogui ir aplinkoje vykstantiems gamtos procesams; ^28b26b319c1ae82710cf10a0
+13) pavojingos medžiagos – nuodingosios, kenksmingos, degiosios, sprogstamosios, koroziją sukeliančios ir kitos medžiagos, galinčios pakenkti žmogui ir aplinkoje vykstantiems gamtos procesams; ^s-347ee8a16b4832b8d5db23c1
 
 
-14) teršimas – medžiagų, mišinių, organizmų ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas, paskleidimas) į aplinką kaip žmonių veiklos rezultatas; ^4ee6fd947628e62490ee50b0
+14) teršimas – medžiagų, mišinių, organizmų ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas, paskleidimas) į aplinką kaip žmonių veiklos rezultatas; ^s-545cbe855913753c763c51c3
 Straipsnio punkto pakeitimai:
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
 
 
-15) genetiškai modifikuotas organizmas – suprantama taip, kaip apibrėžta Lietuvos Respublikos genetiškai modifikuotų organizmų įstatyme; ^d578b88da2502e3001a3e558
+15) genetiškai modifikuotas organizmas – suprantama taip, kaip apibrėžta [[latest/TAR.10BD9188E48C|Lietuvos Respublikos genetiškai modifikuotų organizmų įstatyme]]; ^s-4a8e771c98cbc3edc61aed04
 Straipsnio punkto pakeitimai:
 Nr. XIII-3263, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15887
 
 
 
-16) pasekmės ar poveikis aplinkai – tokios pasekmės ar poveikis (fizinis, cheminis ir kt.) aplinkai, dėl kurių įvyksta ar gali įvykti reikšmingi ekosistemos ar jos elementų natūralių funkcijų pokyčiai; ^e4aacb8d863cc0b7495e4362
+16) pasekmės ar poveikis aplinkai – tokios pasekmės ar poveikis (fizinis, cheminis ir kt.) aplinkai, dėl kurių įvyksta ar gali įvykti reikšmingi ekosistemos ar jos elementų natūralių funkcijų pokyčiai; ^s-6ebb4218088e6e0ea46e4469
 
 
-17) strateginis pasekmių aplinkai vertinimas – tam tikrų planų ir programų įgyvendinimo galimų pasekmių aplinkai nustatymo, apibūdinimo ir vertinimo procesas, kurio metu rengiami strateginio pasekmių aplinkai vertinimo dokumentai, teikiamos konsultacijos, atsižvelgiama į vertinimo bei konsultacijų rezultatus prieš priimant ir (arba) tvirtinant planą ar programą, teikiama informacija, susijusi su sprendimu dėl plano ar programos priėmimo ir (arba) tvirtinimo; ^50330bf7abef141e8fd838a9
+17) strateginis pasekmių aplinkai vertinimas – tam tikrų planų ir programų įgyvendinimo galimų pasekmių aplinkai nustatymo, apibūdinimo ir vertinimo procesas, kurio metu rengiami strateginio pasekmių aplinkai vertinimo dokumentai, teikiamos konsultacijos, atsižvelgiama į vertinimo bei konsultacijų rezultatus prieš priimant ir (arba) tvirtinant planą ar programą, teikiama informacija, susijusi su sprendimu dėl plano ar programos priėmimo ir (arba) tvirtinimo; ^s-d5dd21aaa9e44ae837514fec
 
 
-18) planai ir programos – planavimo dokumentai, apibrėžti Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme ir kituose ūkinės veiklos, gamtotvarkos, kitus aplinkos apsaugos planavimo dokumentus apibrėžiančiuose teisės aktuose, kurie rengiami, tvirtinami ir (arba) priimami pagal galiojančius teisės aktus ar pagal kompetenciją įgyvendinant viešąjį administravimą ir kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai, įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus; ^2ef060c6d36d0789c2cf43f4
+18) planai ir programos – planavimo dokumentai, apibrėžti [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatyme]], [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatyme]], [[latest/TAR.7E8386C5AA76|Lietuvos Respublikos regioninės plėtros įstatyme]], [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]] ir kituose ūkinės veiklos, gamtotvarkos, kitus aplinkos apsaugos planavimo dokumentus apibrėžiančiuose teisės aktuose, kurie rengiami, tvirtinami ir (arba) priimami pagal galiojančius teisės aktus ar pagal kompetenciją įgyvendinant viešąjį administravimą ir kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai, įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus; ^s-ff28abc4da8222f69a8f56f2
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
 
 
 
-19) aplinkos atkūrimo priemonės – bet kurie veiksmai, įskaitant žalą sumažinančias bei laikinąsias priemones, kuriomis nustatyta tvarka atkuriama iki pradinės būklės pažeista aplinka, jos elementai ir (arba) pablogėjusios jų funkcijos arba įgyvendinamos lygiavertės tiems aplinkos elementams ir (arba) jų funkcijoms alternatyvos; ^80ddf09737a35da81bd4a4e3
+19) aplinkos atkūrimo priemonės – bet kurie veiksmai, įskaitant žalą sumažinančias bei laikinąsias priemones, kuriomis nustatyta tvarka atkuriama iki pradinės būklės pažeista aplinka, jos elementai ir (arba) pablogėjusios jų funkcijos arba įgyvendinamos lygiavertės tiems aplinkos elementams ir (arba) jų funkcijoms alternatyvos; ^s-b30cc58a87dc030c9c633f31
 
 
-20) žalos aplinkai prevencijos priemonės – bet kurios priemonės, taikomos reaguojant į įvykį, veikimą ar neveikimą, dėl kurio iškyla neišvengiama (reali) žalos aplinkai grėsmė, siekiant išvengti žalos aplinkai ar ją sumažinti; ^06f2bfbb3901a8562a92168f
+20) žalos aplinkai prevencijos priemonės – bet kurios priemonės, taikomos reaguojant į įvykį, veikimą ar neveikimą, dėl kurio iškyla neišvengiama (reali) žalos aplinkai grėsmė, siekiant išvengti žalos aplinkai ar ją sumažinti; ^s-c8819858a218010e0da0e4cc
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-21) žala aplinkai – tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų (žemės paviršiaus ir gelmių, oro, vandens, augalų, gyvūnų, kitų gyvųjų organizmų, organinių ir neorganinių medžiagų, juos vienijančių natūraliųjų ir antropogeninių sistemų, įskaitant ir saugomas teritorijas, kraštovaizdį, biologinę įvairovę, buveines) pokytis arba jų funkcijų, turimų savybių (toliau – funkcijos) pablogėjimas; ^bb581d76c8a1d121834b2fd6
+21) žala aplinkai – tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų (žemės paviršiaus ir gelmių, oro, vandens, augalų, gyvūnų, kitų gyvųjų organizmų, organinių ir neorganinių medžiagų, juos vienijančių natūraliųjų ir antropogeninių sistemų, įskaitant ir saugomas teritorijas, kraštovaizdį, biologinę įvairovę, buveines) pokytis arba jų funkcijų, turimų savybių (toliau – funkcijos) pablogėjimas; ^s-2e7dc5b36c30cd56b99ce243
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-22) suinteresuota visuomenė – vienas arba daugiau fizinių ar juridinių asmenų, kuriems daro arba gali daryti poveikį sprendimai, veiksmai ar neveikimas aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje arba kurie yra suinteresuoti šių sprendimų procesu. Pagal šią apibrėžtį asociacijos ir kiti viešieji juridiniai asmenys (išskyrus valstybės ar savivaldybės, jų institucijų įsteigtus juridinius asmenis), kurie įsteigti teisės aktų nustatyta tvarka ir skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais asmenimis; ^58963fdb7fde8bd90683c4f8
+22) suinteresuota visuomenė – vienas arba daugiau fizinių ar juridinių asmenų, kuriems daro arba gali daryti poveikį sprendimai, veiksmai ar neveikimas aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje arba kurie yra suinteresuoti šių sprendimų procesu. Pagal šią apibrėžtį asociacijos ir kiti viešieji juridiniai asmenys (išskyrus valstybės ar savivaldybės, jų institucijų įsteigtus juridinius asmenis), kurie įsteigti teisės aktų nustatyta tvarka ir skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais asmenimis; ^s-556dd84585ab9f5630cc689f
 
 
-23) taršos integruotos prevencijos ir kontrolės leidimas – rašytinis dokumentas, kuriame, siekiant išvengti pramoninės veiklos sukeliamos taršos, ją sumažinti ar pašalinti, nustatoma veiklos sąlygų sistema, apimanti poveikio aplinkos elementams kontrolę, ir kuriuo suteikiama teisė eksploatuoti visą įrenginį, kurą deginantį įrenginį, atliekų deginimo įrenginį, bendro atliekų deginimo įrenginį, atitinkantį aplinkos ministro patvirtintose Taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklėse nustatytus kriterijus, arba aplinkos ministro nustatyta tvarka tokio įrenginio dalį ar kelis tokius įrenginius ar jų dalis. Įrenginio, kurą deginančio įrenginio, atliekų deginimo įrenginio, bendro atliekų deginimo įrenginio sąvokas apibrėžia aplinkos ministras; ^5663293d9043fa00c805c008
+23) taršos integruotos prevencijos ir kontrolės leidimas – rašytinis dokumentas, kuriame, siekiant išvengti pramoninės veiklos sukeliamos taršos, ją sumažinti ar pašalinti, nustatoma veiklos sąlygų sistema, apimanti poveikio aplinkos elementams kontrolę, ir kuriuo suteikiama teisė eksploatuoti visą įrenginį, kurą deginantį įrenginį, atliekų deginimo įrenginį, bendro atliekų deginimo įrenginį, atitinkantį aplinkos ministro patvirtintose Taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklėse nustatytus kriterijus, arba aplinkos ministro nustatyta tvarka tokio įrenginio dalį ar kelis tokius įrenginius ar jų dalis. Įrenginio, kurą deginančio įrenginio, atliekų deginimo įrenginio, bendro atliekų deginimo įrenginio sąvokas apibrėžia aplinkos ministras; ^s-339190652fee23a749e6d786
 
 
-24) taršos leidimas – rašytinis dokumentas, kuriuo suteikiama teisė eksploatuoti visą įrenginį, atitinkantį aplinkos ministro patvirtintose Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklėse nustatytus kriterijus, arba aplinkos ministro nustatyta tvarka tokio įrenginio dalį ar kelis tokius įrenginius ar jų dalis, kuriems netaikomas reikalavimas turėti šio straipsnio [[#^5663293d9043fa00c805c008|23 punkte]] nurodytą leidimą, ir kuriame nustatomos įrenginio eksploatavimo aplinkos apsaugos sąlygos; ^c2c94b5679933d0367ed17aa
+24) taršos leidimas – rašytinis dokumentas, kuriuo suteikiama teisė eksploatuoti visą įrenginį, atitinkantį aplinkos ministro patvirtintose Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklėse nustatytus kriterijus, arba aplinkos ministro nustatyta tvarka tokio įrenginio dalį ar kelis tokius įrenginius ar jų dalis, kuriems netaikomas reikalavimas turėti šio straipsnio [[#^s-339190652fee23a749e6d786|23 punkte]] nurodytą leidimą, ir kuriame nustatomos įrenginio eksploatavimo aplinkos apsaugos sąlygos; ^s-83258d2fa9aa97fcecba7579
 Straipsnio punkto pakeitimai:
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 
 
 
-25) aplinkos kokybės norma – teisės aktuose nustatyti reikalavimai, kuriuos konkrečiu laikotarpiu turi atitikti aplinka arba konkreti jos dalis; ^6b0114edc13fdc9bd62f8b11
+25) aplinkos kokybės norma – teisės aktuose nustatyti reikalavimai, kuriuos konkrečiu laikotarpiu turi atitikti aplinka arba konkreti jos dalis; ^s-09f37c0995824da8f2c84094
 
 
-26) teršalų grupė – suprantama, kaip nurodyta Lietuvos Respublikos mokesčio už aplinkos teršimą įstatyme; ^73c44652232a928781f1a263
+26) teršalų grupė – suprantama, kaip nurodyta [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatyme]]; ^s-9c1aa6f83687dc99850af103
 Papildyta straipsnio punktu:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-27) prioritetinės medžiagos – suprantama, kaip apibrėžta Lietuvos Respublikos vandens įstatyme; ^d3bcf66a9d2ed8b2078dffad
+27) prioritetinės medžiagos – suprantama, kaip apibrėžta [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatyme]]; ^s-2c16098bdccec6ba4ccf0d47
 Papildyta straipsnio punktu:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-29) Neteko galios nuo 2026-01-13 ^16f97bd2f56de22be8ccf87e
+29) Neteko galios nuo 2026-01-13 ^s-43269b06485b02bed3d2365e
 Straipsnio punkto naikinimas:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 Papildyta straipsnio punktu:
@@ -166,55 +171,55 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-30) vandens telkinių naudojimas vandeniui išgauti neturint tam teisės – vandens telkinių naudojimas neturint taršos integruotos prevencijos ir kontrolės leidimo, taršos leidimo ar kito teisės aktų nustatyta tvarka išduoto vandens išgavimą leidžiančio dokumento arba viršijant taršos integruotos prevencijos ir kontrolės leidime, taršos leidime ar kitame teisės aktų nustatyta tvarka išduotame vandens išgavimą leidžiančiame dokumente nustatytą išgaunamo vandens kiekį; ^8ed846a78ab2a1d7dbd7b710
+30) vandens telkinių naudojimas vandeniui išgauti neturint tam teisės – vandens telkinių naudojimas neturint taršos integruotos prevencijos ir kontrolės leidimo, taršos leidimo ar kito teisės aktų nustatyta tvarka išduoto vandens išgavimą leidžiančio dokumento arba viršijant taršos integruotos prevencijos ir kontrolės leidime, taršos leidime ar kitame teisės aktų nustatyta tvarka išduotame vandens išgavimą leidžiančiame dokumente nustatytą išgaunamo vandens kiekį; ^s-f7586e225288300e018791f6
 Papildyta straipsnio punktu:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-31) atliekų surinkimas, vežimas, laikymas, apdorojimas, įvežimas, importas į Lietuvos Respublikos teritoriją, išvežimas, eksportas iš Lietuvos Respublikos teritorijos ar vežimas tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės – atliekų surinkimas, vežimas, laikymas, apdorojimas, įvežimas, importas į Lietuvos Respublikos teritoriją, išvežimas, eksportas iš Lietuvos Respublikos teritorijos ar vežimas tranzitu per Lietuvos Respublikos teritoriją neturint šiai veiklai vykdyti reikalingų teisės aktų nustatyta tvarka išduotų leidimų ir (ar) licencijų; kitu nei leidime ar licencijoje nurodytu būdu; atliekų, kurios nėra nurodytos leidime ar licencijoje; viršijant leidime nurodytus atliekų kiekius; arba teisės aktų nustatyta tvarka neužsiregistravus Atliekų tvarkytojų valstybės registre; ^f1a3dad9aba43daf8f187cf3
+31) atliekų surinkimas, vežimas, laikymas, apdorojimas, įvežimas, importas į Lietuvos Respublikos teritoriją, išvežimas, eksportas iš Lietuvos Respublikos teritorijos ar vežimas tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės – atliekų surinkimas, vežimas, laikymas, apdorojimas, įvežimas, importas į Lietuvos Respublikos teritoriją, išvežimas, eksportas iš Lietuvos Respublikos teritorijos ar vežimas tranzitu per Lietuvos Respublikos teritoriją neturint šiai veiklai vykdyti reikalingų teisės aktų nustatyta tvarka išduotų leidimų ir (ar) licencijų; kitu nei leidime ar licencijoje nurodytu būdu; atliekų, kurios nėra nurodytos leidime ar licencijoje; viršijant leidime nurodytus atliekų kiekius; arba teisės aktų nustatyta tvarka neužsiregistravus Atliekų tvarkytojų valstybės registre; ^s-15fb5aaadf647d24cf7dd085
 Papildyta straipsnio punktu:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-32) neišvengiama (reali) žalos aplinkai grėsmė – pakankama (reali) tikimybė, kad artimoje ateityje bus padaryta žala aplinkai; ^4ef28d5314f6f2d96febe30c
+32) neišvengiama (reali) žalos aplinkai grėsmė – pakankama (reali) tikimybė, kad artimoje ateityje bus padaryta žala aplinkai; ^s-d530ebfda670770aba37f072
 Papildyta straipsnio punktu:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-33) radiologinis aplinkos monitoringas – suprantama, kaip apibrėžta Lietuvos Respublikos aplinkos monitoringo įstatyme; ^ce7e3b9d6934190e7c35619a
+33) radiologinis aplinkos monitoringas – suprantama, kaip apibrėžta [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatyme]]; ^s-d346c547f7c41f74f209f822
 Papildyta straipsnio punktu:
 Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
 
 
 
-34) gamtinis karkasas – vientisas gamtinio ekologinio kompensavimo teritorijų tinklas, užtikrinantis ekologinę kraštovaizdžio pusiausvyrą, gamtinius ryšius tarp saugomų teritorijų, kitų aplinkosaugai svarbių teritorijų ar buveinių, taip pat augalų ir gyvūnų migraciją tarp jų; ^57d81c0c2b1a50e2086194cb
+34) gamtinis karkasas – vientisas gamtinio ekologinio kompensavimo teritorijų tinklas, užtikrinantis ekologinę kraštovaizdžio pusiausvyrą, gamtinius ryšius tarp saugomų teritorijų, kitų aplinkosaugai svarbių teritorijų ar buveinių, taip pat augalų ir gyvūnų migraciją tarp jų; ^s-f1541241c84acd06c6512f91
 Papildyta straipsnio punktu:
 Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-35) žalioji infrastruktūra – gamtiniai, pusiau gamtiniai elementai, technologinės inžinerinės sistemos ir įrenginiai, kitos priemonės, kurių sandara ir funkcionavimas grindžiami natūraliai gamtoje vykstančiais procesais ir kurie atlieka kraštovaizdžio ekologinio kompensavimo funkcijas, padeda prisitaikyti prie klimato kaitos ir sumažinti jos poveikį, sudaro sąlygas palaikyti biologinę įvairovę ir ją gausinti, gerinti žmonių gyvenamosios aplinkos kokybę, plėtoti kitas ekosistemines paslaugas; ^2d6511a0a6a8fdeb106d43a8
+35) žalioji infrastruktūra – gamtiniai, pusiau gamtiniai elementai, technologinės inžinerinės sistemos ir įrenginiai, kitos priemonės, kurių sandara ir funkcionavimas grindžiami natūraliai gamtoje vykstančiais procesais ir kurie atlieka kraštovaizdžio ekologinio kompensavimo funkcijas, padeda prisitaikyti prie klimato kaitos ir sumažinti jos poveikį, sudaro sąlygas palaikyti biologinę įvairovę ir ją gausinti, gerinti žmonių gyvenamosios aplinkos kokybę, plėtoti kitas ekosistemines paslaugas; ^s-c99f023ada457cf4e7763289
 Papildyta straipsnio punktu:
 Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-36) ekologinis tinklas – gamtinio karkaso dalis, jungianti didžiausią bioekologinę svarbą turinčias buveines, jų aplinką bei gyvūnų ir augalų migracijos koridorius; ^471c850836658715ebfb86f7
+36) ekologinis tinklas – gamtinio karkaso dalis, jungianti didžiausią bioekologinę svarbą turinčias buveines, jų aplinką bei gyvūnų ir augalų migracijos koridorius; ^s-f7a8c80d807ff5c9262d59a2
 Papildyta straipsnio punktu:
 Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-37) aplinkos apsaugos kontrolė – įstatymais įgaliotų viešojo administravimo subjektų veikla, kuria siekiama užtikrinti fizinių ir juridinių asmenų veiklos aplinkos apsaugos ir gamtos išteklių naudojimo srityje teisėtumą ir teisėtvarką ir kuri apima pažeidimų prevenciją ir jų nutraukimą, asmenų, padariusių pažeidimų aplinkos apsaugos ir gamtos išteklių naudojimo srityje, nustatymą, jų patraukimą teisinėn atsakomybėn; ^b33d5403d76b098bf3207065
+37) aplinkos apsaugos kontrolė – įstatymais įgaliotų viešojo administravimo subjektų veikla, kuria siekiama užtikrinti fizinių ir juridinių asmenų veiklos aplinkos apsaugos ir gamtos išteklių naudojimo srityje teisėtumą ir teisėtvarką ir kuri apima pažeidimų prevenciją ir jų nutraukimą, asmenų, padariusių pažeidimų aplinkos apsaugos ir gamtos išteklių naudojimo srityje, nustatymą, jų patraukimą teisinėn atsakomybėn; ^s-572ba4a822d164dd83801a7d
 Papildyta straipsnio punktu:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
 
-38) kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos valstybinės priežiūros įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos želdynų įstatyme, Reglamente (ES) 2023/956, Reglamente (ES) 2023/1115, Reglamente (ES) 2023/1805, Reglamente (ES) 2024/590, Reglamente (ES) 2024/1157. ^511243266eb215ac61462546
+38) kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos valstybinės priežiūros įstatyme, [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]], [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]], [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatyme]], [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]], [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]], [[latest/TAR.BA283DF0FB41|Lietuvos Respublikos želdynų įstatyme]], Reglamente (ES) 2023/956, Reglamente (ES) 2023/1115, Reglamente (ES) 2023/1805, Reglamente (ES) 2024/590, Reglamente (ES) 2024/1157. ^s-72d2332197510599292e990e
 Papildyta straipsnio punktu:
 Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
 Straipsnio punkto pakeitimai:
@@ -236,7 +241,7 @@ Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 
 
 
-### 2 straipsnis. Įstatymo paskirtis
+### 2 straipsnis. Įstatymo paskirtis ^s-f3c7723cc3940e48ea054462
 
 
 Šis įstatymas reguliuoja visuomeninius santykius aplinkosaugos srityje, nustato pagrindines juridinių ir fizinių asmenų teises ir pareigas išsaugant Lietuvos Respublikai būdingą biologinę įvairovę, ekologines sistemas bei kraštovaizdį, užtikrinant sveiką ir švarią aplinką, racionalų gamtos išteklių naudojimą Lietuvos Respublikoje, jos teritoriniuose vandenyse, kontinentiniame šelfe ir ekonominėje zonoje, atsakomybę, ekonomines sankcijas ir poveikio priemones už juridinių asmenų padarytus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus siekiant veiksmingos šių pažeidimų prevencijos ir nuostatas dėl bylų dėl ekonominių sankcijų skyrimo teisenos.
@@ -259,14 +264,14 @@ Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 
 
-### 3 straipsnis. Aplinkos apsaugos objektas
+### 3 straipsnis. Aplinkos apsaugos objektas ^s-62da3342296275fb6aabb0b9
 
 
 Aplinkos apsaugos objektas yra Lietuvos Respublikos teritorijoje esanti aplinka ir Lietuvos Respublikos jurisdikcijai priklausantys gamtos ištekliai.
 
 
 
-### 4 straipsnis. Aplinkos apsaugos principai
+### 4 straipsnis. Aplinkos apsaugos principai ^s-db41636f9a9d4768e4cac550
 
 
 Aplinkos apsauga Lietuvos Respublikoje yra visos valstybės bei kiekvieno jos gyventojo rūpestis ir pareiga.
@@ -286,31 +291,31 @@ Nr. IX-677, 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
 
 
-### 5 straipsnis. Lietuvos Respublikos Seimo kompetencija aplinkos apsaugos srityje
+### 5 straipsnis. Lietuvos Respublikos Seimo kompetencija aplinkos apsaugos srityje ^s-58493812b53753f71a3ee1a5
 
 
 Lietuvos Respublikos Seimas, formuodamas aplinkos apsaugos valstybės politiką:
 
 
-1) nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos vystymosi kryptis, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus; ^c585a31b4071a57c40887de4
+1) nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos vystymosi kryptis, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus; ^s-37f6b475051d6cd5822ecc3b
 Straipsnio punkto pakeitimai:
 Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
 
 
 
-2) tvirtina aplinkos apsaugos nacionalines darbotvarkes; ^8d02b45bb0bad9befc0d389f
+2) tvirtina aplinkos apsaugos nacionalines darbotvarkes; ^s-90649f6fc309ca83ac4b6416
 Straipsnio punkto pakeitimai:
 Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
 
 
 
-3) tvirtina valstybės biudžeto asignavimus aplinkos apsaugos priemonėms finansuoti; ^274ece86f672f842e1d6347a
+3) tvirtina valstybės biudžeto asignavimus aplinkos apsaugos priemonėms finansuoti; ^s-7bea4e29ca6e5e68b4acc206
 
 
-4) ratifikuoja ir denonsuoja svarbiausias Lietuvos Respublikos aplinkos apsaugos bei gamtos išteklių naudojimo tarptautines sutartis; ^617b39f3eca24558daacc3ee
+4) ratifikuoja ir denonsuoja svarbiausias Lietuvos Respublikos aplinkos apsaugos bei gamtos išteklių naudojimo tarptautines sutartis; ^s-d2637f880a6746cd42600eee
 
 
-5) vykdo kitas įstatymų nustatytas funkcijas. ^7ebd13d6eb82623764b1581f
+5) vykdo kitas įstatymų nustatytas funkcijas. ^s-1cfda8feb2554a99677d90cc
 
 
 Straipsnio pakeitimai:
@@ -318,7 +323,7 @@ Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
 
 
-### 6 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema
+### 6 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema ^s-b807f8a0b4082936bffdfb64
 
 
 Valstybinį aplinkos apsaugos valdymą Lietuvos Respublikoje vykdo Vyriausybė, Aplinkos ministerija, kitos įgaliotos valstybės institucijos.
@@ -336,103 +341,103 @@ Kiekviena iš šių institucijų atsako už šio įstatymo joms priskirtų funkc
 Lietuvos Respublikos Vyriausybė, įgyvendindama aplinkos apsaugos valstybės politiką:
 
 
-1) Nacionaliniame pažangos plane nustato aplinkos apsaugos ir gamtos išteklių naudojimo srities strateginius tikslus ir (arba) pažangos uždavinius, šiuos uždavinius įgyvendinančias nacionalines plėtros programas, nacionalinių darbotvarkių planus, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos schemas; ^689f966fd3ed74a7579ca9dc
+1) Nacionaliniame pažangos plane nustato aplinkos apsaugos ir gamtos išteklių naudojimo srities strateginius tikslus ir (arba) pažangos uždavinius, šiuos uždavinius įgyvendinančias nacionalines plėtros programas, nacionalinių darbotvarkių planus, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos schemas; ^s-be9641df89cc2ea75e835cb9
 Straipsnio punkto pakeitimai:
 Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
 
 
 
-2) įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą; ^a94d9448669571bc4c62789d
+2) įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą; ^s-307b7ad342fc91ade4383c80
 
 
-3) koordinuoja valstybės ir savivaldybių institucijų ir įstaigų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^545e4e241f85b6f53ac250c4
+3) koordinuoja valstybės ir savivaldybių institucijų ir įstaigų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^s-a647bf41d5231ec99a2dd3f9
 Straipsnio punkto pakeitimai:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
 
-4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^bb7851bfac3c28422a1a31bd
+4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje; ^s-15013c047f1813c5a9360655
 
 
-5) vykdo kitas įstatymų nustatytas funkcijas. ^07ab38149f7f9b5c669c0001
+5) vykdo kitas įstatymų nustatytas funkcijas. ^s-99c2065b5b5407868411e108
 
 
 Lietuvos Respublikos aplinkos ministerija, vykdydama aplinkos apsaugos valdymą ir valstybinį gamtos išteklių naudojimo reguliavimą:
 
 
-1) rengia aplinkos apsaugos ir gamtos išteklių naudojimo srities pažangos uždavinius įgyvendinančias nacionalines plėtros programas ir nacionalinių darbotvarkių planus, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; ^0d5eaebcbb3fa938f1e38ae0
+1) rengia aplinkos apsaugos ir gamtos išteklių naudojimo srities pažangos uždavinius įgyvendinančias nacionalines plėtros programas ir nacionalinių darbotvarkių planus, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; ^s-c48c7a8206bc21a4b458a4eb
 Straipsnio punkto pakeitimai:
 Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
 
 
 
-2) organizuoja ir koordinuoja valstybinės svarbos aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą, kontroliuoja, kaip jos vykdomos (taikomos); ^cc8a530165fc2ef78f58fa26
+2) organizuoja ir koordinuoja valstybinės svarbos aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą, kontroliuoja, kaip jos vykdomos (taikomos); ^s-f18961b586de38774af02d57
 
 
-3) rengia įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo klausimais projektus, organizuoja valstybės teritorijos bendrojo plano, valstybės teritorijos dalių bendrųjų planų ir valstybės lygmens specialiojo teritorijų planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal savo kompetenciją derina valstybės ir savivaldybių institucijų ir įstaigų teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, projektus ir teritorinio planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus; ^496da56ee5e0277c396cbf99
+3) rengia įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo klausimais projektus, organizuoja valstybės teritorijos bendrojo plano, valstybės teritorijos dalių bendrųjų planų ir valstybės lygmens specialiojo teritorijų planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal savo kompetenciją derina valstybės ir savivaldybių institucijų ir įstaigų teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, projektus ir teritorinio planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus; ^s-42b9e509016f37a856625eb6
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-4) pagal savo kompetenciją rengia ir tvirtina aplinkos apsaugos ir gamtos išteklių naudojimo normas, normatyvus, standartus bei taisykles; ^cf5fce260bb984eaef8d4259
+4) pagal savo kompetenciją rengia ir tvirtina aplinkos apsaugos ir gamtos išteklių naudojimo normas, normatyvus, standartus bei taisykles; ^s-69ee023adaffa347d0ff10a1
 
 
-5) pagal savo kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas, leidimų išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą, organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos kompetencijai, sudarymą bei tvarkymą; ^3f2fa2569e8470e6eabd9814
+5) pagal savo kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas, leidimų išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą, organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos kompetencijai, sudarymą bei tvarkymą; ^s-e2e2488e9da035919461aa9f
 
 
-6) teikia Lietuvos Respublikos Vyriausybei saugomų teritorijų steigimo projektus; ^a012beaa9b5221259166a8e9
+6) teikia Lietuvos Respublikos Vyriausybei saugomų teritorijų steigimo projektus; ^s-7ee9ff97f083c20c9d34ee61
 
 
-7) reglamentuoja ir kontroliuoja veiklą saugomose teritorijose, organizuoja valstybinių rezervatų, nacionalinių ir regioninių parkų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja ir atlieka darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų išsaugojimu bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėjų įvežimo, išvežimo, tranzito, tarptautinės prekybos retomis ir nykstančiomis augalų ir gyvūnų rūšimis, taip pat gyvūnų laikymo nelaisvėje tvarką; ^2514c0e24ae13fe221669416
+7) reglamentuoja ir kontroliuoja veiklą saugomose teritorijose, organizuoja valstybinių rezervatų, nacionalinių ir regioninių parkų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja ir atlieka darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų išsaugojimu bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėjų įvežimo, išvežimo, tranzito, tarptautinės prekybos retomis ir nykstančiomis augalų ir gyvūnų rūšimis, taip pat gyvūnų laikymo nelaisvėje tvarką; ^s-050bf4499ae50152ffc5917b
 
 
-8) nustato ir kontroliuoja išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų (išskyrus radionuklidus) normas ir apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (išskyrus radionuklidus) išdavimo, įrenginių registravimo tvarką; ^3f3315e4ae0a6b34abaece04
+8) nustato ir kontroliuoja išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų (išskyrus radionuklidus) normas ir apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (išskyrus radionuklidus) išdavimo, įrenginių registravimo tvarką; ^s-89090ca2aceaa5449a965365
 Straipsnio punkto pakeitimai:
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 
 
 
-9) nustato cheminių medžiagų ir cheminių mišinių, atliekų tvarkymo ir genetiškai modifikuotų organizmų naudojimo reikalavimus; ^c9aa446207f8b991d3664231
+9) nustato cheminių medžiagų ir cheminių mišinių, atliekų tvarkymo ir genetiškai modifikuotų organizmų naudojimo reikalavimus; ^s-e385949bcc7216fab8645e92
 Straipsnio punkto pakeitimai:
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
 
 
-10) nustato tvarką, kuria įvertinama, ar produkcija atitinka aplinkos apsaugos reikalavimus, organizuoja šį darbą; ^8ff74d5ffe57581744f58a23
+10) nustato tvarką, kuria įvertinama, ar produkcija atitinka aplinkos apsaugos reikalavimus, organizuoja šį darbą; ^s-a72f3b8b277b2f16fb912760
 
 
-11) rengia ir tvirtina aplinkai padarytos žalos apskaičiavimo metodikas; ^39c22537395c6743f0e23314
+11) rengia ir tvirtina aplinkai padarytos žalos apskaičiavimo metodikas; ^s-7d9c2e05197292f6e0ac7941
 
 
-12) organizuoja ir koordinuoja aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, kuria ir nuolat papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą informacijos sistemą, naudojasi šia informacija; ^80b50a8f429a6d8c78b9cc37
+12) organizuoja ir koordinuoja aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, kuria ir nuolat papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą informacijos sistemą, naudojasi šia informacija; ^s-2d4154d3d61273e636af1cd0
 Straipsnio punkto pakeitimai:
 Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
 
 
 
-13) pagal savo kompetenciją organizuoja ir koordinuoja mokslo tyrimus, susijusius su gamtos ištekliais ir jų naudojimu bei aplinkos apsauga; ^901b126c200b061a6923322a
+13) pagal savo kompetenciją organizuoja ir koordinuoja mokslo tyrimus, susijusius su gamtos ištekliais ir jų naudojimu bei aplinkos apsauga; ^s-ba4159593d4248faf38158b5
 
 
-14) nustatyta tvarka naudoja Aplinkos apsaugos rėmimo programos lėšas; ^caea0452cb20bbf64685dc00
+14) nustatyta tvarka naudoja Aplinkos apsaugos rėmimo programos lėšas; ^s-750b6f0720dcbe7bc35f6c2d
 
 
-15) nustatyta tvarka pagal savo kompetenciją palaiko ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose; ^7e098a2da28f57223ec3724c
+15) nustatyta tvarka pagal savo kompetenciją palaiko ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose; ^s-876360ee22ba353b0b3fc0e2
 
 
-16) rengia ataskaitas apie aplinkos būklę Lietuvos Respublikoje, koordinuoja ir pagal savo kompetenciją organizuoja visuomenės aplinkosauginį švietimą bei informavimą, rūpinasi aplinkos apsaugos specialistų kvalifikacijos tobulinimu; ^b760162792399ad61182a258
+16) rengia ataskaitas apie aplinkos būklę Lietuvos Respublikoje, koordinuoja ir pagal savo kompetenciją organizuoja visuomenės aplinkosauginį švietimą bei informavimą, rūpinasi aplinkos apsaugos specialistų kvalifikacijos tobulinimu; ^s-a5fb03fee33e39ef05a5741a
 
 
-17) vykdo valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, nustato valstybinės aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės vykdymo tvarką; ^6987f273836d3db245513017
+17) vykdo valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, nustato valstybinės aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės vykdymo tvarką; ^s-15115e5faa93d091fa6c9ae9
 
 
-18) teikia pasiūlymus dėl aplinkos apsaugos ir gamtos išteklių naudojimo ekonominės sistemos formavimo, dalyvauja nustatant muitų už įvežamus ir išvežamus gamtos išteklius politiką; ^a556830138c1829dc3710808
+18) teikia pasiūlymus dėl aplinkos apsaugos ir gamtos išteklių naudojimo ekonominės sistemos formavimo, dalyvauja nustatant muitų už įvežamus ir išvežamus gamtos išteklius politiką; ^s-78b1066fc8ed5031f12ab59e
 
 
-19) organizuoja kitų aplinkos apsaugos priemonių įgyvendinimą ir kontrolę; ^36a071d0d732a656c2234426
+19) organizuoja kitų aplinkos apsaugos priemonių įgyvendinimą ir kontrolę; ^s-c060f2f63af2d8b5861dc09e
 
 
-20) vykdo kitas įstatymų nustatytas funkcijas. ^5d336c424762d1b118c75e60
+20) vykdo kitas įstatymų nustatytas funkcijas. ^s-e5e926b89cc743783237824f
 
 
 Kitų valstybės institucijų funkcijas aplinkos apsaugos srityje nustato kiti įstatymai bei šių institucijų nuostatai.
@@ -443,55 +448,55 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
-1) valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos objektus; ^6c1575f859738fc88160c43e
+1) valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos objektus; ^s-9fae3b9ebe0a564462cdff05
 
 
-2) paskirsto pagal savivaldybėms nustatytus limitus valstybinius gamtos išteklius; ^5c8731c7bb1c358537d00b9a
+2) paskirsto pagal savivaldybėms nustatytus limitus valstybinius gamtos išteklius; ^s-be149ab6d328d6ae7026d288
 
 
-3) rengia, tvirtina ir įgyvendina savivaldybių aplinkos apsaugos ir gamtos išteklių naudojimo programas, schemas ir kitas aplinkos apsaugos priemones; ^08f27dbba2b2a595e00da328
+3) rengia, tvirtina ir įgyvendina savivaldybių aplinkos apsaugos ir gamtos išteklių naudojimo programas, schemas ir kitas aplinkos apsaugos priemones; ^s-d199a474a6650cdfc20f4f70
 
 
-4) nustatyta tvarka naudoja Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšas, tvirtina asignavimus aplinkos apsaugai; ^86fdf05564d6683ab57e780b
+4) nustatyta tvarka naudoja Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšas, tvirtina asignavimus aplinkos apsaugai; ^s-58bd9593dfdc2d4148c2456e
 
 
-5) steigia ir tvarko įstatymų nustatyta tvarka savivaldybės saugomas teritorijas, kraštovaizdžio objektus; ^522932b8a70c55249563a73d
+5) steigia ir tvarko įstatymų nustatyta tvarka savivaldybės saugomas teritorijas, kraštovaizdžio objektus; ^s-60a83e8be1940e53646c81a3
 
 
-6) dalyvauja ir teikia išvadas bei pasiūlymus planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir atrankos dėl poveikio aplinkai vertinimo procesuose; ^02cb10ecfb94e1caf0b2cd12
+6) dalyvauja ir teikia išvadas bei pasiūlymus planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir atrankos dėl poveikio aplinkai vertinimo procesuose; ^s-40641f68c315e62360910e8c
 Straipsnio punkto pakeitimai:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-7) organizuoja ir (ar) vykdo savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, būklės stebėseną, naujų želdynų kūrimą ir želdinių veisimą, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimą ir apskaitą, dendrologiškai, ekologiškai, estetiškai vertingus, kultūros paveldui ir kraštovaizdžiui reikšmingus medžius ir krūmus skelbia saugotinais želdiniais; ^82b03c04ba7c0b266e82ac27
+7) organizuoja ir (ar) vykdo savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, būklės stebėseną, naujų želdynų kūrimą ir želdinių veisimą, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimą ir apskaitą, dendrologiškai, ekologiškai, estetiškai vertingus, kultūros paveldui ir kraštovaizdžiui reikšmingus medžius ir krūmus skelbia saugotinais želdiniais; ^s-e56564e5a8381e68fc0d084a
 Straipsnio punkto pakeitimai:
 Nr. XIV-200, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07417
 
 
 
-8) gali nustatyti griežtesnius už valstybinius aplinkos apsaugos normatyvus suderinusios su juos patvirtinusiomis valstybės institucijomis, taikomus savivaldybės teritorijoje ar jos dalyje, atsižvelgdamos į vietos gyventojų ir bendruomenių poreikius ir (ar) vietos aplinkos sąlygas; ^b619dd90c70f71d589ab8a40
+8) gali nustatyti griežtesnius už valstybinius aplinkos apsaugos normatyvus suderinusios su juos patvirtinusiomis valstybės institucijomis, taikomus savivaldybės teritorijoje ar jos dalyje, atsižvelgdamos į vietos gyventojų ir bendruomenių poreikius ir (ar) vietos aplinkos sąlygas; ^s-4f088a0db4081435ab1ba81b
 Straipsnio punkto pakeitimai:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
 
-9) pagal kompetenciją priima sprendimus ir kontroliuoja jų vykdymą; ^71d0fed91cd93416625bf87f
+9) pagal kompetenciją priima sprendimus ir kontroliuoja jų vykdymą; ^s-0d49b822132314c2658c1041
 
 
-10) vykdo savivaldybės institucijų nustatytų aplinkos apsaugos normatyvų laikymosi kontrolę; ^cfd5ffbdbe484f41414b067c
+10) vykdo savivaldybės institucijų nustatytų aplinkos apsaugos normatyvų laikymosi kontrolę; ^s-b4b7d06d1923636af7857857
 Papildyta straipsnio punktu:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
 
-11) vykdo aplinkos apsaugos kontrolę aplinkos apsaugos srityse, kuriose tokie įgaliojimai suteikti savivaldybėms kituose aplinkos apsaugą reglamentuojančiuose įstatymuose; ^1e53cdf36981b9f0203c167d
+11) vykdo aplinkos apsaugos kontrolę aplinkos apsaugos srityse, kuriose tokie įgaliojimai suteikti savivaldybėms kituose aplinkos apsaugą reglamentuojančiuose įstatymuose; ^s-e994bab4ee7546f8ac7635b7
 Papildyta straipsnio punktu:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
 
-12) vykdo kitas įstatymų nustatytas funkcijas. ^f750b127a51ed911da9486e1
+12) vykdo kitas įstatymų nustatytas funkcijas. ^s-1c19c5f1a7f5885f517fa817
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
@@ -515,34 +520,34 @@ Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 
 
-### 7 straipsnis. Suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teisės
+### 7 straipsnis. Suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teisės ^s-07c17a12a435011cfc05dc33
 
 
 Vienas arba daugiau fizinių ar juridinių asmenų, suinteresuota visuomenė turi teisę:
 
 
-1) nustatyta tvarka gauti informaciją apie aplinką; ^8284257a53f84a0d272fcfa8
+1) nustatyta tvarka gauti informaciją apie aplinką; ^s-47751c87a1e0fb7b1dae18bb
 
 
-2) nustatyta tvarka dalyvauti planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ir poveikio aplinkai vertinimo procesuose ir teikti pasiūlymus; ^c749bdc911f306ac9fa52bf9
+2) nustatyta tvarka dalyvauti planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ir poveikio aplinkai vertinimo procesuose ir teikti pasiūlymus; ^s-93cdfca79911abc49a6ecf81
 
 
-3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos poveikis aplinkai; ^a37470e2cb2f1269525b892c
+3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos poveikis aplinkai; ^s-c2526d43dc3ba4a9c400802b
 
 
-4) organizuoti ir dalyvauti vykdant visuomeninę aplinkos kontrolę; ^6120d4c2363aae3280f7827d
+4) organizuoti ir dalyvauti vykdant visuomeninę aplinkos kontrolę; ^s-ba5757495e2a71bc3d786826
 
 
-5) reikalauti, kad valstybės valdžios ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą, taip pat nevaržomai skleisti aplinkos apsaugos idėjas; ^8af344d51c5faa8cfc8c9b2d
+5) reikalauti, kad valstybės valdžios ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą, taip pat nevaržomai skleisti aplinkos apsaugos idėjas; ^s-7c5d19cdf6de756fae7247f5
 
 
-6) Lietuvos Respublikos įstatymų nustatyta tvarka paduoti skundą (prašymą), reikalaudami imtis atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta iki pradinės aplinkos būklė, ir reikalaudami nubausti asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai (neveikimas) pažeidė piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises ar įstatymų saugomus interesus; ^748456ec08f4e949f5d0af9b
+6) Lietuvos Respublikos įstatymų nustatyta tvarka paduoti skundą (prašymą), reikalaudami imtis atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta iki pradinės aplinkos būklė, ir reikalaudami nubausti asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai (neveikimas) pažeidė piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises ar įstatymų saugomus interesus; ^s-1e3a7b2dcb585500b6cd2c6e
 
 
-7) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas; ^655aea779e3b72ce0434c6d6
+7) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas; ^s-1dbd3c4c4e23cf3e00810752
 
 
-8) Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą, jeigu mano, kad jo (jų) prašymas, pateiktas teisės aktų, reglamentuojančių teisę gauti informaciją apie aplinką, nustatyta tvarka, buvo neteisėtai atmestas, į jį buvo iš dalies ar visiškai netinkamai atsakyta arba į prašymą deramai neatsižvelgta pagal teisės aktus, reglamentuojančius teisę gauti informaciją apie aplinką. ^ae9a669c03778393af540f10
+8) Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą, jeigu mano, kad jo (jų) prašymas, pateiktas teisės aktų, reglamentuojančių teisę gauti informaciją apie aplinką, nustatyta tvarka, buvo neteisėtai atmestas, į jį buvo iš dalies ar visiškai netinkamai atsakyta arba į prašymą deramai neatsižvelgta pagal teisės aktus, reglamentuojančius teisę gauti informaciją apie aplinką. ^s-565375d6ac73a7853e5e3861
 
 
 Straipsnio dalies pakeitimai:
@@ -550,7 +555,7 @@ Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-2. Suinteresuota visuomenė turi teisę Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą. ^5e812428e57ac333f4d475b3
+2. Suinteresuota visuomenė turi teisę Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą. ^s-28a9930baadc8fb0026c4f8e
 
 
 Straipsnio pakeitimai:
@@ -562,19 +567,19 @@ Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 
 
-### 8 straipsnis. Valstybės valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises
+### 8 straipsnis. Valstybės valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises ^s-efdae8857699357b55e18278
 
 
 Valstybės valdžios, valdymo ir kontrolės institucijos pagal savo kompetenciją privalo :
 
 
-1) stebėti aplinkos kokybės pokyčius ir informuoti apie tai visuomenę, nustatyti ekologiškai pagrįstus ir techniniu požiūriu įgyvendinamus aplinkos kokybės normatyvus bei standartus; ^c0bc67e5568b539c7c859350
+1) stebėti aplinkos kokybės pokyčius ir informuoti apie tai visuomenę, nustatyti ekologiškai pagrįstus ir techniniu požiūriu įgyvendinamus aplinkos kokybės normatyvus bei standartus; ^s-b08470caae23e4f098567761
 
 
-2) tenkinti arba motyvuotai atmesti piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pasiūlymus aplinkos apsaugos klausimais; ^cb5045a3455254c118192365
+2) tenkinti arba motyvuotai atmesti piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pasiūlymus aplinkos apsaugos klausimais; ^s-80d8ce951da342e42e24f790
 
 
-3) Neteko galios nuo 2024-05-01 ^8641b53bb16b931d05e374fc
+3) Neteko galios nuo 2024-05-01 ^s-b0bf5af70e8808787b9a34d7
 Straipsnio punkto naikinimas:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 Straipsnio punkto pakeitimai:
@@ -583,34 +588,34 @@ Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 
-4) neleisti, kad ūkinės veiklos subjektai pažeistų aplinkos apsaugos įstatymus, normatyvus ir standartus; ^96b6e4553bcbaf3eb045fd01
+4) neleisti, kad ūkinės veiklos subjektai pažeistų aplinkos apsaugos įstatymus, normatyvus ir standartus; ^s-57dd25b654abd8406fdcbc1b
 
 
-5) kai planuojamai ūkinei veiklai atliekama atranka dėl poveikio aplinkai vertinimo vadovaujantis Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis, įvertinti ir atsižvelgti į suinteresuotos visuomenės pasiūlymus atlikti planuojamos ūkinės veiklos poveikio aplinkai vertinimą; ^35837bc9f4853a8187ec725e
+5) kai planuojamai ūkinei veiklai atliekama atranka dėl poveikio aplinkai vertinimo vadovaujantis [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nuostatomis, įvertinti ir atsižvelgti į suinteresuotos visuomenės pasiūlymus atlikti planuojamos ūkinės veiklos poveikio aplinkai vertinimą; ^s-78d54e76b2e622bea4fa88fa
 Straipsnio punkto pakeitimai:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-6) įvertinti ir atsižvelgti į suinteresuotos visuomenės pasiūlymus dėl atliekamo planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir galimo planuojamos ūkinės veiklos poveikio aplinkai; ^89d13f2a702e3e99faaa63a1
+6) įvertinti ir atsižvelgti į suinteresuotos visuomenės pasiūlymus dėl atliekamo planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir galimo planuojamos ūkinės veiklos poveikio aplinkai; ^s-0a85bb4ed6bc6126f69829eb
 Straipsnio punkto pakeitimai:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-7) užtikrinti, kad būtų atlyginta padaryta žala ar neigiamas poveikis aplinkai, o neteisėta veikla padarę žalą aplinkai kalti asmenys – nubausti; ^3fb80350ca315d6808bd2fd1
+7) užtikrinti, kad būtų atlyginta padaryta žala ar neigiamas poveikis aplinkai, o neteisėta veikla padarę žalą aplinkai kalti asmenys – nubausti; ^s-494675e12ce1d40eaf47b812
 
 
-8) organizuoti aplinkosauginį švietimą ir mokymą, nustatyta tvarka teikti informaciją apie aplinką; ^7b82de7e9703e7ae49178351
+8) organizuoti aplinkosauginį švietimą ir mokymą, nustatyta tvarka teikti informaciją apie aplinką; ^s-bf7e1972661cc523724f3bec
 
 
-9) skatinti piliečius, suinteresuotą visuomenę, kitus juridinius ir fizinius asmenis dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje; ^079025d4556874fc26bd48d3
+9) skatinti piliečius, suinteresuotą visuomenę, kitus juridinius ir fizinius asmenis dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje; ^s-256f8a578a500a6f84e6447a
 
 
-10) nustatyta tvarka reikalauti, kad atsakingi asmenys imtųsi prevencinių, aplinkos atkūrimo ar kitų aplinkos apsaugos priemonių, taip pat kontroliuotų, kaip vykdomos šios priemonės. ^1c7fb5b8d64ed7b4f6be5ec0
+10) nustatyta tvarka reikalauti, kad atsakingi asmenys imtųsi prevencinių, aplinkos atkūrimo ar kitų aplinkos apsaugos priemonių, taip pat kontroliuotų, kaip vykdomos šios priemonės. ^s-c94c20e8ea77639a950bb95d
 
 
-Savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai, vykdydami aplinkos apsaugos kontrolę, turi teisę pateikę tarnybinį pažymėjimą patekti (įeiti, įvažiuoti) į privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), išskyrus tikrinamo fizinio asmens gyvenamąsias patalpas. Savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai, pateikę teismo nutartį, turi teisę patekti į tikrinamo fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu). Teismo nutartis gaunama mutatis mutandis vadovaujantis Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo [[#121 straipsnis. Juridinių asmenų atsakomybė už miško sanitarinės apsaugos reikalavimų pažeidimą|121 straipsniu]]. Jeigu pradėjus administracinio nusižengimo teiseną nustatoma, kad padaryta veika turi administracinio nusižengimo, kurį tirti savivaldybės administracijos valstybės tarnautojams įstatymu įgaliojimai nesuteikti, požymių, surinkta medžiaga perduodama institucijai, kuri pagal įstatymą turi įgaliojimus vykdyti administracinio nusižengimo tyrimą ir dėl jo surašyti administracinio nusižengimo protokolą.
+Savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai, vykdydami aplinkos apsaugos kontrolę, turi teisę pateikę tarnybinį pažymėjimą patekti (įeiti, įvažiuoti) į privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), išskyrus tikrinamo fizinio asmens gyvenamąsias patalpas. Savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai, pateikę teismo nutartį, turi teisę patekti į tikrinamo fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu). Teismo nutartis gaunama mutatis mutandis vadovaujantis Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 121 straipsniu. Jeigu pradėjus administracinio nusižengimo teiseną nustatoma, kad padaryta veika turi administracinio nusižengimo, kurį tirti savivaldybės administracijos valstybės tarnautojams įstatymu įgaliojimai nesuteikti, požymių, surinkta medžiaga perduodama institucijai, kuri pagal įstatymą turi įgaliojimus vykdyti administracinio nusižengimo tyrimą ir dėl jo surašyti administracinio nusižengimo protokolą.
 Papildyta straipsnio dalimi:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
@@ -625,7 +630,7 @@ Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 
 
-### 9 straipsnis. Piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pareigos
+### 9 straipsnis. Piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pareigos ^s-435a2a8eb014369543d39b3b
 
 
 Piliečiai, suinteresuota visuomenė, kiti juridiniai ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos išteklius ir nepažeisti kitų gamtos išteklių naudotojų teisių bei interesų.
@@ -637,7 +642,7 @@ Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 
 
-### 10 straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės teisės ir pareigos
+### 10 straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės teisės ir pareigos ^s-5dc138aa20c41626339dd9f0
 
 
 Užsienio valstybių piliečiai bei asmenys be pilietybės privalo vykdyti šio įstatymo nustatytas Lietuvos Respublikos piliečių pareigas ir turi visas šiame įstatyme įtvirtintas Lietuvos Respublikos piliečių teises, jeigu kiti Lietuvos Respublikos įstatymai nenumato kitko.
@@ -648,17 +653,17 @@ III SKYRIUS. GAMTOS IŠTEKLIŲ NAUDOJIMAS IR APSKAITA
 
 
 
-### 11 straipsnis. Gamtos išteklių naudojimo objektas
+### 11 straipsnis. Gamtos išteklių naudojimo objektas ^s-a64fc5e9e270d327118dbec7
 
 
 Gamtos išteklių naudojimo objektas yra Lietuvos Respublikos jurisdikcijai priklausantys gamtos ištekliai.
 
 
 
-### 12 straipsnis. Saugomos teritorijos
+### 12 straipsnis. Saugomos teritorijos ^s-889e07beb215c441d39c6a57
 
 
-Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja šis įstatymas, Lietuvos Respublikos saugomų teritorijų įstatymas, kiti aplinkos apsaugą ir gamtos išteklių naudojimą saugomose teritorijose reglamentuojantys įstatymai ir kiti teisės aktai.
+Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja šis įstatymas, [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]], kiti aplinkos apsaugą ir gamtos išteklių naudojimą saugomose teritorijose reglamentuojantys įstatymai ir kiti teisės aktai.
 
 
 Straipsnio pakeitimai:
@@ -666,7 +671,7 @@ Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-### 121 straipsnis. Gamtinis karkasas
+### 121 straipsnis. Gamtinis karkasas ^s-2925099a1973b94ca80ddd5f
 
 
 Gamtinio pobūdžio saugomas teritorijas ir kitas aplinkos apsaugos požiūriu svarbias ir natūralias teritorijas, garantuojančias bendrą kraštovaizdžio stabilumą, į bendrą kraštotvarkos ekologinio kompensavimo zonų sistemą sujungia gamtinis karkasas.
@@ -675,31 +680,31 @@ Gamtinio pobūdžio saugomas teritorijas ir kitas aplinkos apsaugos požiūriu s
 Gamtinio karkaso nustatymo tikslai:
 
 
-1) sukurti vientisą gamtinio ekologinio kompensavimo teritorijų tinklą, užtikrinantį kraštovaizdžio geoekologinę pusiausvyrą ir gamtinius ryšius, sudarantį sąlygas išsaugoti biologinę įvairovę; ^fcbce5aad2c91b9df2f2faec
+1) sukurti vientisą gamtinio ekologinio kompensavimo teritorijų tinklą, užtikrinantį kraštovaizdžio geoekologinę pusiausvyrą ir gamtinius ryšius, sudarantį sąlygas išsaugoti biologinę įvairovę; ^s-ef0c544e9aec2111d3477580
 
 
-2) sujungti didžiausią ekologinę svarbą turinčias buveines, jų aplinką bei gyvūnų ir augalų migracijai reikalingas teritorijas; ^28bb97e39161a05e00c6f9f6
+2) sujungti didžiausią ekologinę svarbą turinčias buveines, jų aplinką bei gyvūnų ir augalų migracijai reikalingas teritorijas; ^s-8b243dbbd1936945ab33f02d
 
 
-3) saugoti gamtinį kraštovaizdį ir gamtinius rekreacinius išteklius; ^080d203a0c0482f17db384f4
+3) saugoti gamtinį kraštovaizdį ir gamtinius rekreacinius išteklius; ^s-a1b36371929d94d090a3e0b8
 
 
-4) didinti šalies miškingumą; ^bd3932195dc16249ffbe05c7
+4) didinti šalies miškingumą; ^s-3eadc34f0c6712ad6ea743ac
 
 
-5) optimizuoti kraštovaizdžio urbanizacijos, technogenizacijos ir žemės ūkio plėtrą. ^c9bdd37ecf03e03ef0f98ac7
+5) optimizuoti kraštovaizdžio urbanizacijos, technogenizacijos ir žemės ūkio plėtrą. ^s-acc9b406c68fe440fbf17211
 
 
 Gamtinio karkaso sistemą sudaro šios struktūrinės dalys, kurios gali būti europinio, nacionalinio, regioninio ir vietinio lygmens:
 
 
-1) geoekologinės takoskyros – teritorijų juostos, jungiančios ypač ekologiškai svarbias ir jautrias vietoves: upių aukštupius, vandenskyras, aukštumų ežerynus, kalvynus, pelkynus, priekrantes, požeminių vandenų intensyvaus maitinimo ir karsto paplitimo plotus. Jos skiria stambias gamtines ekosistemas ir palaiko bendrąją gamtinio kraštovaizdžio ekologinę pusiausvyrą; ^1281096c566bb09e94a2d429
+1) geoekologinės takoskyros – teritorijų juostos, jungiančios ypač ekologiškai svarbias ir jautrias vietoves: upių aukštupius, vandenskyras, aukštumų ežerynus, kalvynus, pelkynus, priekrantes, požeminių vandenų intensyvaus maitinimo ir karsto paplitimo plotus. Jos skiria stambias gamtines ekosistemas ir palaiko bendrąją gamtinio kraštovaizdžio ekologinę pusiausvyrą; ^s-091f99d6ff4463553f9d00cc
 
 
-2) geosistemų vidinio stabilizavimo arealai ir ašys – teritorijos, galinčios pakeisti šoninį nuotėkį ar kitus gamtinės migracijos srautus, taip pat biologinės įvairovės požiūriu reikšmingi želdinių masyvai ir grupės, natūralios pievos, pelkės, kiti vertingi stambiųjų geosistemų ekotopai. Šios teritorijos kompensuoja neigiamą ekologinę įtaką gamtinėms geosistemoms; ^2704de9dd760806dbb333925
+2) geosistemų vidinio stabilizavimo arealai ir ašys – teritorijos, galinčios pakeisti šoninį nuotėkį ar kitus gamtinės migracijos srautus, taip pat biologinės įvairovės požiūriu reikšmingi želdinių masyvai ir grupės, natūralios pievos, pelkės, kiti vertingi stambiųjų geosistemų ekotopai. Šios teritorijos kompensuoja neigiamą ekologinę įtaką gamtinėms geosistemoms; ^s-f9e247b95d3d593cb4e4c215
 
 
-3) migraciniai koridoriai – slėniai, raguvynai ir dubakloniai, kitos teritorijos, kuriomis vyksta intensyvi medžiagų, energijos ir gamtinės informacijos srautų apykaita ir augalų bei gyvūnų rūšių migracija. ^22077857270a2b6770c81089
+3) migraciniai koridoriai – slėniai, raguvynai ir dubakloniai, kitos teritorijos, kuriomis vyksta intensyvi medžiagų, energijos ir gamtinės informacijos srautų apykaita ir augalų bei gyvūnų rūšių migracija. ^s-25f3d347aaf750937fbbce97
 
 
 Pagal natūralumo laipsnį ir gebėjimą atlikti ekologinio kompensavimo funkcijas gamtinio karkaso teritorijos priskiriamos patikimo, riboto, silpno, pažeisto arba stipriai pažeisto ekologinio potencialo teritorijoms.
@@ -716,48 +721,31 @@ Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-### 122 straipsnis. Gamtinio karkaso sistemos plėtojimo principai
+### 122 straipsnis. Gamtinio karkaso sistemos plėtojimo principai ^s-e15dc9b1393602c89c80032b
 
 
 Gamtinio karkaso sistema plėtojama vadovaujantis šiais principais:
 
 
-1) kraštovaizdžio pažinimo – gamtinio karkaso sistema formuojama, konkrečios apsaugos, tvarkymo, planavimo priemonės parenkamos įvertinus kraštovaizdžio gamtinį pobūdį, jį keičiančius veiksnius, remiantis gamtinių sistemų ir kraštovaizdžio būklės stebėsenos duomenimis, atsižvelgiant į aukštesnio lygmens gamtinio karkaso struktūrinių dalių išsidėstymą, teritorijos geografinę padėtį, regiono, vietovės kultūrinį savitumą; ^11054d460cf52ff9fd4d12f8
+1) kraštovaizdžio pažinimo – gamtinio karkaso sistema formuojama, konkrečios apsaugos, tvarkymo, planavimo priemonės parenkamos įvertinus kraštovaizdžio gamtinį pobūdį, jį keičiančius veiksnius, remiantis gamtinių sistemų ir kraštovaizdžio būklės stebėsenos duomenimis, atsižvelgiant į aukštesnio lygmens gamtinio karkaso struktūrinių dalių išsidėstymą, teritorijos geografinę padėtį, regiono, vietovės kultūrinį savitumą; ^s-19ab36db080998dcb9987cf1
 
 
-2) Europos ekologinio tinklo funkcionalumo užtikrinimo – planuojant ir atkuriant gamtinio karkaso struktūras būtina užtikrinti Europos ekologinio tinklo „Natura 2000“ funkcionavimą, jo vientisumą, Europos Bendrijos svarbos gyvūnų ar augalų rūšių palankią apsaugos būklę, turi būti siekiama sukurti ar išsaugoti kraštovaizdžio elementus, kurie būtų svarbūs laukinei faunai ir florai; ^ee5f2ac70001bf21e8aac0f1
+2) Europos ekologinio tinklo funkcionalumo užtikrinimo – planuojant ir atkuriant gamtinio karkaso struktūras būtina užtikrinti Europos ekologinio tinklo „Natura 2000“ funkcionavimą, jo vientisumą, Europos Bendrijos svarbos gyvūnų ar augalų rūšių palankią apsaugos būklę, turi būti siekiama sukurti ar išsaugoti kraštovaizdžio elementus, kurie būtų svarbūs laukinei faunai ir florai; ^s-36cbd80b58d37c477258b01e
 
 
-3) darnaus vystymosi – į gamtinį karkasą patenkančios teritorijos turi būti tvarkomos ir naudojamos derinant ekologines, ekonomines, socialines funkcijas ir kraštovaizdžio vizualinę apsaugą; ^0b57d70e0b39e1fdf8ccf49f
+3) darnaus vystymosi – į gamtinį karkasą patenkančios teritorijos turi būti tvarkomos ir naudojamos derinant ekologines, ekonomines, socialines funkcijas ir kraštovaizdžio vizualinę apsaugą; ^s-a0b58e26cbd13b061459060c
 
 
-4) pakankamumo – gamtinio karkaso teritorijose turi būti išsaugotos ir (ar) atkurtos natūralios ar pusiau natūralios struktūros, natūralūs procesai, gamtinio kraštovaizdžio elementai, kurių visuma gebėtų prisitaikyti prie kintančio klimato ir aplinkos sąlygų, užtikrinti ekosistemų stabilumą ir atsparumą, veiksmingai atlikti ekologinio kompensavimo funkcijas, apsaugoti ekologiškai jautrias teritorijas; ^c8477b7b72d58aa05a5c697d
+4) pakankamumo – gamtinio karkaso teritorijose turi būti išsaugotos ir (ar) atkurtos natūralios ar pusiau natūralios struktūros, natūralūs procesai, gamtinio kraštovaizdžio elementai, kurių visuma gebėtų prisitaikyti prie kintančio klimato ir aplinkos sąlygų, užtikrinti ekosistemų stabilumą ir atsparumą, veiksmingai atlikti ekologinio kompensavimo funkcijas, apsaugoti ekologiškai jautrias teritorijas; ^s-b2e2a0305b07b26d7f1d05fa
 
 
-5) kraštovaizdžio vientisumo – gamtinio karkaso struktūra turi pasižymėti gamtinių ryšių ir jungčių vientisumu (junglumu), jame vykstančių migracinių ryšių nepertraukiamumu ir gebėti užtikrinti natūralias reguliavimo funkcijas; ^acd7aaf43fbcfaa6c479b79a
+5) kraštovaizdžio vientisumo – gamtinio karkaso struktūra turi pasižymėti gamtinių ryšių ir jungčių vientisumu (junglumu), jame vykstančių migracinių ryšių nepertraukiamumu ir gebėti užtikrinti natūralias reguliavimo funkcijas; ^s-61fd69ce3bbb157e477e673f
 
 
-6) tvarios priežiūros – gamtinio karkaso teritorijose turi būti taikoma ir plėtojama palaikanti ir kraštovaizdžio ekologinę vertę, biologinę įvairovę didinanti, vietovės kultūrinį identitetą stiprinanti priežiūros ir tvarkymo praktika, parinkta atsižvelgiant į bendrąjį geografinį kontekstą, gamtinio karkaso struktūrines dalis, reljefo ir gruntų pobūdį, rūšių ekologinius poreikius ir teritorijos geoekologinio potencialo didinimo poreikį; ^596fb19a4113798af859911d
+6) tvarios priežiūros – gamtinio karkaso teritorijose turi būti taikoma ir plėtojama palaikanti ir kraštovaizdžio ekologinę vertę, biologinę įvairovę didinanti, vietovės kultūrinį identitetą stiprinanti priežiūros ir tvarkymo praktika, parinkta atsižvelgiant į bendrąjį geografinį kontekstą, gamtinio karkaso struktūrines dalis, reljefo ir gruntų pobūdį, rūšių ekologinius poreikius ir teritorijos geoekologinio potencialo didinimo poreikį; ^s-c2ecb792d635f968d4c02d1e
 
 
-7) kraštovaizdžio ir biologinės įvairovės palaikymo ir jos gausinimo – gamtinio karkaso teritorijose turi būti išsaugomas ir atkuriamas vietovei būdingas kraštovaizdis, gausinami biologine įvairove pasižymintys kraštovaizdžio elementai. ^27bd7e56d58476ac3937d5e5
-
-
-Papildyta straipsniu:
-Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
-
-
-
-### 123 straipsnis. Gamtinio karkaso planavimas
-
-
-Gamtinio karkaso sistema formuojama valstybės lygmens kompleksinio teritorijų planavimo dokumentuose. Gamtinio karkaso struktūrinių dalių ribos detalizuojamos savivaldybės ir vietovės lygmens bendruosiuose planuose, saugomų teritorijų specialiojo teritorijų planavimo dokumentuose, specialiojo teritorijų planavimo žemėtvarkos dokumentuose, detaliuosiuose planuose vadovaujantis Teritorijų planavimo įstatymu ir Gamtinio karkaso nuostatais. Detalizuojant vietovės lygmens teritorijų planavimo dokumentuose gamtinio karkaso struktūrinių dalių ribas, negali būti mažinamas savivaldybės lygmens bendrajame plane nustatytas gamtinio karkaso teritorijų plotas.
-
-
-Planuojant gamtinį karkasą, turi būti įvertinamas jo ekologinis potencialas. Ekologiniam potencialui palaikyti, silpno, pažeisto ir stipriai pažeisto gamtinio karkaso teritorijų ekologiniam potencialui atkurti reikalingi veiksmai ir priemonės teritorijų planavimo dokumentuose turi būti diferencijuojami atsižvelgiant į planuojamos teritorijos padėtį gamtinio karkaso sistemoje, vadovaujantis Teritorijų planavimo įstatymu ir Gamtinio karkaso nuostatais.
-
-
-Urbanizuotose teritorijose kaip gamtinio karkaso dalis planuojama želdynų sistema. Šios sistemos formavimą, želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, želdynų kūrimą ir želdinių veisimą reglamentuoja Želdynų įstatymas.
+7) kraštovaizdžio ir biologinės įvairovės palaikymo ir jos gausinimo – gamtinio karkaso teritorijose turi būti išsaugomas ir atkuriamas vietovei būdingas kraštovaizdis, gausinami biologine įvairove pasižymintys kraštovaizdžio elementai. ^s-b9a70a88f5625946c1793ef4
 
 
 Papildyta straipsniu:
@@ -765,7 +753,24 @@ Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-### 124 straipsnis. Gamtinio karkaso apsauga
+### 123 straipsnis. Gamtinio karkaso planavimas ^s-c9712c81d8a0e02aabd179d1
+
+
+Gamtinio karkaso sistema formuojama valstybės lygmens kompleksinio teritorijų planavimo dokumentuose. Gamtinio karkaso struktūrinių dalių ribos detalizuojamos savivaldybės ir vietovės lygmens bendruosiuose planuose, saugomų teritorijų specialiojo teritorijų planavimo dokumentuose, specialiojo teritorijų planavimo žemėtvarkos dokumentuose, detaliuosiuose planuose vadovaujantis [[latest/TAR.26B563184529|Teritorijų planavimo įstatymu]] ir Gamtinio karkaso nuostatais. Detalizuojant vietovės lygmens teritorijų planavimo dokumentuose gamtinio karkaso struktūrinių dalių ribas, negali būti mažinamas savivaldybės lygmens bendrajame plane nustatytas gamtinio karkaso teritorijų plotas.
+
+
+Planuojant gamtinį karkasą, turi būti įvertinamas jo ekologinis potencialas. Ekologiniam potencialui palaikyti, silpno, pažeisto ir stipriai pažeisto gamtinio karkaso teritorijų ekologiniam potencialui atkurti reikalingi veiksmai ir priemonės teritorijų planavimo dokumentuose turi būti diferencijuojami atsižvelgiant į planuojamos teritorijos padėtį gamtinio karkaso sistemoje, vadovaujantis [[latest/TAR.26B563184529|Teritorijų planavimo įstatymu]] ir Gamtinio karkaso nuostatais.
+
+
+Urbanizuotose teritorijose kaip gamtinio karkaso dalis planuojama želdynų sistema. Šios sistemos formavimą, želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, želdynų kūrimą ir želdinių veisimą reglamentuoja [[latest/TAR.BA283DF0FB41|Želdynų įstatymas]].
+
+
+Papildyta straipsniu:
+Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
+
+
+
+### 124 straipsnis. Gamtinio karkaso apsauga ^s-f1faadb867681c315e67efd6
 
 
 Į gamtinį karkasą patenkančių teritorijų reljefo formų apsaugos ir tvarkymo reikalavimai nustatomi savivaldybės ir vietovės lygmens kompleksinio teritorijų planavimo ir (ar) saugomų teritorijų specialiojo teritorijų planavimo, ir (ar) specialiojo teritorijų planavimo žemėtvarkos dokumentuose, atsižvelgiant į kraštovaizdžio gamtinį pobūdį, grunto savybes, potvynio riziką teritorijoje, estetinę kraštovaizdžio vertę. Savivaldybės vykdomoji institucija gali nustatyti gamtinio karkaso reljefo apsaugos ir tvarkymo reikalavimus.
@@ -783,13 +788,13 @@ Gamtinio karkaso teritorijose plėtojant inžinerinę infrastruktūrą išsaugom
 Gamtinio karkaso kitos paskirties rekreacinėse teritorijose, miškų ūkio ir žemės ūkio paskirties žemėje draudžiama keisti pagrindinę žemės naudojimo paskirtį ir (ar) naudojimo būdą (-us), siekiant šiose teritorijose:
 
 
-1) statyti statinius su įrenginiais ir (ar) įrengti įrenginius, kuriems reikalingi taršos integruotos prevencijos ir kontrolės leidimai; ^a73a11d98615eb254c047bf2
+1) statyti statinius su įrenginiais ir (ar) įrengti įrenginius, kuriems reikalingi taršos integruotos prevencijos ir kontrolės leidimai; ^s-63d9be894a387045f187e5e1
 
 
-2) planuoti kompaktiškai užstatytas teritorijas. ^234c0ef2da422b866506fd6d
+2) planuoti kompaktiškai užstatytas teritorijas. ^s-fb0378597c268427492ced5e
 
 
-Ekologinio potencialo pokyčiams stebėti atrinktose gamtinio karkaso teritorijose vykdoma kraštovaizdžio būklės stebėsena. Stebėjimai organizuojami Lietuvos Respublikos aplinkos monitoringo įstatymo nustatyta tvarka.
+Ekologinio potencialo pokyčiams stebėti atrinktose gamtinio karkaso teritorijose vykdoma kraštovaizdžio būklės stebėsena. Stebėjimai organizuojami [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymo]] nustatyta tvarka.
 
 
 Papildyta straipsniu:
@@ -797,31 +802,31 @@ Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-### 125 straipsnis. Žalioji infrastruktūra
+### 125 straipsnis. Žalioji infrastruktūra ^s-dd4adef08851fab4fa092769
 
 
 Planuojant ir diegiant žaliąją infrastruktūrą siekiama:
 
 
-1) didinti gamtinio karkaso, želdynų sistemos vientisumą, palaikyti ir stiprinti ekosistemines reguliavimo, palaikymo funkcijas abiejose šiose struktūrose; ^152e394471b22f7bd907cc31
+1) didinti gamtinio karkaso, želdynų sistemos vientisumą, palaikyti ir stiprinti ekosistemines reguliavimo, palaikymo funkcijas abiejose šiose struktūrose; ^s-21b4a8fe271ac3359e38a165
 
 
-2) kompensuoti ūkinės veiklos, urbanistinės plėtros neigiamą poveikį; ^a0fc46c30e12267f883000c9
+2) kompensuoti ūkinės veiklos, urbanistinės plėtros neigiamą poveikį; ^s-4ceca8cdf3552ba09e3d2cf7
 
 
-3) stiprinti gamtinio karkaso teritorijų ekologinį potencialą, numatyti papildomas žalinimo priemones teritorijose, kuriose neįvykdytos atskirųjų ir priklausomųjų želdynų normos; ^b8a90ddcd11aebf78dc2e7d8
+3) stiprinti gamtinio karkaso teritorijų ekologinį potencialą, numatyti papildomas žalinimo priemones teritorijose, kuriose neįvykdytos atskirųjų ir priklausomųjų želdynų normos; ^s-3179d006660a84c18d27735c
 
 
-4) didinti atsparumą klimato kaitos padariniams; ^1652983bc55fa18aa2cba94e
+4) didinti atsparumą klimato kaitos padariniams; ^s-6a37a994eefa5326d21b9b21
 
 
-5) saugoti ir didinti kraštovaizdžio ir biologinę įvairovę; ^3fb27621d8477ef33806a285
+5) saugoti ir didinti kraštovaizdžio ir biologinę įvairovę; ^s-9f1eb00fc4e2e9a976b102d5
 
 
-6) mažinti energijos ir įvairių gamtinių išteklių vartojimą; ^71d02d37eaa3ec79ef8ab31d
+6) mažinti energijos ir įvairių gamtinių išteklių vartojimą; ^s-152a14a00307b75f308d3d13
 
 
-7) gerinti gyvenamosios aplinkos socialinę, estetinę, ekologinę kokybę, stiprinti kultūrines ekosistemų funkcijas. ^abcfe0811e720600bf7ef687
+7) gerinti gyvenamosios aplinkos socialinę, estetinę, ekologinę kokybę, stiprinti kultūrines ekosistemų funkcijas. ^s-ba2fca6ea9f7dddc354cb228
 
 
 Žalioji infrastruktūra valstybės ir savivaldybės lygmeniu planuojama pagal teritorijų planavimo dokumentų gamtinio karkaso sprendinius, išskyrus miestus ir miestelius. Miestuose ir miesteliuose žalioji infrastruktūra planuojama pagal teritorijų planavimo dokumentų gamtinio karkaso ir (ar) želdynų sistemos sprendinius. Žalioji infrastruktūra taip pat įtraukiama į inžinerinių, susisiekimo, agrarinių sistemų planavimą, inžinerinės ir socialinės infrastruktūros, viešųjų erdvių, pastatų ir jų aplinkos projektavimą.
@@ -830,13 +835,13 @@ Planuojant ir diegiant žaliąją infrastruktūrą siekiama:
 Žalinimo planai gali būti rengiami urbanizuotoms ir urbanizuojamoms teritorijoms. Šiuose planuose nustatomi žalinimo tikslai ir priemonės, kaip pagerinti urbanizuotų ir urbanizuojamų teritorijų kraštovaizdžio ir biologinės įvairovės būklę. Žalinimo planai gali būti rengiami siekiant:
 
 
-1) miestuose, miesteliuose nustatyti priemones ir veiksmus, kurie užtikrintų teritorijų planavimo dokumentuose numatytų gamtinio karkaso ir (ar) želdynų sistemos sprendinių įgyvendinimą; ^220d6ac8f2723ebb2824b373
+1) miestuose, miesteliuose nustatyti priemones ir veiksmus, kurie užtikrintų teritorijų planavimo dokumentuose numatytų gamtinio karkaso ir (ar) želdynų sistemos sprendinių įgyvendinimą; ^s-04c388785078b1711a426477
 
 
-2) teritorijų planavimo dokumentuose nurodytoje želdynų sistemoje ar jos dalyje nustatyti konkrečias vietas, kuriose nepasiektos želdynų normos ir (ar) didintinas želdinių ir želdynų kiekis, ir pateikti veiksmų ir priemonių rinkinį šiai problemai spręsti; ^36e606af24fca90a3450aba6
+2) teritorijų planavimo dokumentuose nurodytoje želdynų sistemoje ar jos dalyje nustatyti konkrečias vietas, kuriose nepasiektos želdynų normos ir (ar) didintinas želdinių ir želdynų kiekis, ir pateikti veiksmų ir priemonių rinkinį šiai problemai spręsti; ^s-481daf6644a0e3f5732329e0
 
 
-3) nustatyti, ištirti teritorijas, kuriose prastėja kraštovaizdžio kokybė, įvairovė ir ekologinė būklė, atsiranda klimato kaitos padarinių, ir numatyti konkrečias priemones ir veiksmus šioms problemoms spręsti, jeigu tokie sprendiniai nedetalizuoti patvirtintuose teritorijų planavimo dokumentuose. ^261d8fa6590e723e6e8f71d3
+3) nustatyti, ištirti teritorijas, kuriose prastėja kraštovaizdžio kokybė, įvairovė ir ekologinė būklė, atsiranda klimato kaitos padarinių, ir numatyti konkrečias priemones ir veiksmus šioms problemoms spręsti, jeigu tokie sprendiniai nedetalizuoti patvirtintuose teritorijų planavimo dokumentuose. ^s-2516d817113b06a0a5c87ccb
 
 
 Žalinimo planai neturi prieštarauti patvirtintų teritorijų planavimo dokumentų ir žemės valdos projektų sprendiniams. Žalinimo planus tvirtina savivaldybių atstovaujamosios institucijos.
@@ -848,16 +853,16 @@ Planuojant ir diegiant žaliąją infrastruktūrą siekiama:
 Žalinimo planų rengimas ir šiuose planuose numatytų žaliosios infrastruktūros priemonių įgyvendinimas valstybinėje žemėje, įskaitant valstybinę žemę, valdomą patikėjimo ar panaudos teise, gali būti finansuojamas:
 
 
-1) savivaldybės biudžeto lėšomis; ^269a7737703a46c81220b95b
+1) savivaldybės biudžeto lėšomis; ^s-d509d2e964627637698795a2
 
 
-2) Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšomis; ^b0bcecdc9d0ae939b2dae65a
+2) Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšomis; ^s-423ca09f5e78a15fa61c87c9
 
 
-3) valstybės biudžeto lėšomis; ^3be4663ac94f9b05a3ae6cca
+3) valstybės biudžeto lėšomis; ^s-907d1a640bdf633e46887bf5
 
 
-4) Europos Sąjungos struktūrinių fondų lėšomis. ^9267bbb4ed6ed613f92b5687
+4) Europos Sąjungos struktūrinių fondų lėšomis. ^s-23d964c0acf10f563f28406c
 
 
 Papildyta straipsniu:
@@ -865,7 +870,7 @@ Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
 
 
 
-### 13 straipsnis. Valstybinė gamtos išteklių apskaita
+### 13 straipsnis. Valstybinė gamtos išteklių apskaita ^s-633fba5534c5afaf22b80180
 
 
 Valstybinės gamtos išteklių apskaitos, kadastrų tvarkymo ir atskaitomybės tvarką nustato Lietuvos Respublikos Vyriausybė.
@@ -876,28 +881,28 @@ Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
 
 
-### 131 straipsnis. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras
+### 131 straipsnis. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras ^s-f2c8349a84ade439c00163b7
 
 
-1. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras yra valstybės kadastras. ^2d3196e7103bacc0b49242ee
+1. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras yra valstybės kadastras. ^s-de2dfe86b12692501fb6bd53
 
 
-2. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras steigiamas, reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastrą tvarko vadovaujančioji kadastro tvarkymo įstaiga – Lietuvos Respublikos aplinkos ministerija ir kadastro tvarkymo įstaiga – Aplinkos apsaugos agentūra. ^87e252899bb6d86a7d82d92b
+2. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras steigiamas, reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastrą tvarko vadovaujančioji kadastro tvarkymo įstaiga – Lietuvos Respublikos aplinkos ministerija ir kadastro tvarkymo įstaiga – Aplinkos apsaugos agentūra. ^s-4e441830c354bde16d8980d5
 
 
-3. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre Lietuvos Respublikos Vyriausybės nustatyta tvarka registruojami šie paviršiniai vandens telkiniai: ^6125b23dc359ea280c442ffc
+3. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre Lietuvos Respublikos Vyriausybės nustatyta tvarka registruojami šie paviršiniai vandens telkiniai: ^s-c214d14db48cb70134d3286f
 
 
-1) upės, kurių ilgis ne mažesnis kaip 3 kilometrai arba baseino plotas ne mažesnis kaip 5 kvadratiniai kilometrai; ^041f40425b75cfcb9b0f0df7
+1) upės, kurių ilgis ne mažesnis kaip 3 kilometrai arba baseino plotas ne mažesnis kaip 5 kvadratiniai kilometrai; ^s-04eb317ea92c5905f97d1d25
 
 
-2) ežerai ir tvenkiniai, kurių vandens paviršiaus plotas ne mažesnis kaip 0,5 hektaro; ^903188354031e0947ef74cb7
+2) ežerai ir tvenkiniai, kurių vandens paviršiaus plotas ne mažesnis kaip 0,5 hektaro; ^s-1a663f42e4cfecc1c6de33aa
 
 
-3) upės, ežerai, tvenkiniai, kanalai ir dirbtiniai nepratekami paviršiniai vandens telkiniai, priskirti valstybinės reikšmės vidaus vandens telkiniams arba kuriuose vykdomas valstybinis aplinkos monitoringas; ^ebf898a4e7428f15d4f93c28
+3) upės, ežerai, tvenkiniai, kanalai ir dirbtiniai nepratekami paviršiniai vandens telkiniai, priskirti valstybinės reikšmės vidaus vandens telkiniams arba kuriuose vykdomas valstybinis aplinkos monitoringas; ^s-7d06416b229f66e6c44be397
 
 
-4) paviršiniai vandens telkiniai, jungiantys Lietuvos Respublikos upių, ežerų ir tvenkinių kadastro objektus, nurodytus šios dalies 1–[[#^ebf898a4e7428f15d4f93c28|3 punktuose]]. ^3e5ada735ff1e268c9680565
+4) paviršiniai vandens telkiniai, jungiantys Lietuvos Respublikos upių, ežerų ir tvenkinių kadastro objektus, nurodytus šios dalies 1–[[#^s-7d06416b229f66e6c44be397|3 punktuose]]. ^s-f25e002295b01c0786034c4e
 
 
 Įstatymas papildytas straipsniu:
@@ -905,7 +910,7 @@ Nr. X-1744, 2008-10-06, Žin., 2008, Nr. 120-4550 (2008-10-18)
 
 
 
-### 14 straipsnis. Gamtos išteklių naudotojai
+### 14 straipsnis. Gamtos išteklių naudotojai ^s-afc9cd7e3e072de53a321363
 
 
 Gamtos išteklių naudotojais gali būti juridiniai ir fiziniai asmenys.
@@ -917,25 +922,25 @@ Gamtos išteklių naudojimo pagrindas yra nuosavybės arba naudojimosi teisė.
 Gamtos išteklių naudotojai privalo:
 
 
-1) savo lėšomis įvertinti ūkinės veiklos galimą poveikį aplinkai; ^0aaef30f1289b2f489a002a2
+1) savo lėšomis įvertinti ūkinės veiklos galimą poveikį aplinkai; ^s-9031a9a66774ad3dfc987fb9
 
 
-2) racionaliai ir taupiai naudoti gamtos išteklius, nepažeisti aplinkos apsaugos reikalavimų; ^9207beb3f07d0297ea337dd1
+2) racionaliai ir taupiai naudoti gamtos išteklius, nepažeisti aplinkos apsaugos reikalavimų; ^s-6164ec26896737b9151b54da
 
 
-3) įgyvendinti priemones, naikinančias arba mažinančias neigiamą poveikį aplinkai; ^e416806992b89acb653228d5
+3) įgyvendinti priemones, naikinančias arba mažinančias neigiamą poveikį aplinkai; ^s-936b8c1912efedb90f16aa5d
 
 
-4) paaiškėjus, kad aplinkai gresia pavojus, imtis priemonių, kad būtų jo išvengta, o atsiradus žalingiems padariniams, neatidėliodami juos pašalinti ir informuoti atitinkamus aplinkos apsaugos pareigūnus bei institucijas; ^158095e8063227551f478c8f
+4) paaiškėjus, kad aplinkai gresia pavojus, imtis priemonių, kad būtų jo išvengta, o atsiradus žalingiems padariniams, neatidėliodami juos pašalinti ir informuoti atitinkamus aplinkos apsaugos pareigūnus bei institucijas; ^s-d37caa46810276e781476977
 
 
-5) nepažeisti kitų gamtos išteklių naudotojų teisių bei teisėtų interesų; ^d7715eaab4828a3c0d627015
+5) nepažeisti kitų gamtos išteklių naudotojų teisių bei teisėtų interesų; ^s-9706d0e991e89f1b8eaaa0cb
 
 
-6) neteisėta veika padarę žalos aplinkai padarytąją žalą atlyginti; ^ead7a8faa3f2a949f284ff26
+6) neteisėta veika padarę žalos aplinkai padarytąją žalą atlyginti; ^s-16b7f4d237ba82e4cc2bc765
 
 
-7) vykdyti teisėtus įgaliotų aplinkos apsaugos institucijų bei jų pareigūnų reikalavimus. ^666fa118f8784f4d80e46386
+7) vykdyti teisėtus įgaliotų aplinkos apsaugos institucijų bei jų pareigūnų reikalavimus. ^s-287076f95e779c921388d434
 
 
 Straipsnio pakeitimai:
@@ -947,19 +952,19 @@ IV SKYRIUS. ŪKINĖS VEIKLOS REGULIAVIMAS
 
 
 
-### 15 straipsnis. Ūkinės veiklos, galinčios daryti poveikį aplinkai, planavimas ir leidimų išdavimas
+### 15 straipsnis. Ūkinės veiklos, galinčios daryti poveikį aplinkai, planavimas ir leidimų išdavimas ^s-b5f68c6ece71aefe57297ce9
 
 
-Planuojant vykdyti ūkinę veiklą, kuriai reikia atlikti Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytas procedūras, negali būti priimami iš anksto alternatyvų pasirinkimą apribojantys sprendimai dėl šios veiklos – galimos alternatyvos nagrinėjamos ir tinkamiausia (-ios) pasirenkama (-os) atliekant strateginio pasekmių aplinkai vertinimo ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – poveikio aplinkai vertinimas) procedūras.
+Planuojant vykdyti ūkinę veiklą, kuriai reikia atlikti [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]] nustatytas procedūras, negali būti priimami iš anksto alternatyvų pasirinkimą apribojantys sprendimai dėl šios veiklos – galimos alternatyvos nagrinėjamos ir tinkamiausia (-ios) pasirenkama (-os) atliekant strateginio pasekmių aplinkai vertinimo ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – poveikio aplinkai vertinimas) procedūras.
 
 
-Valstybės institucijos ir savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatyta tvarka dalyvaujantys poveikio aplinkai vertinimo ar atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka) procese, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją teikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai ar pateikia pasiūlymus dėl informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti (toliau – atrankos informacija), ir (ar) poveikio aplinkai vertinimo.
+Valstybės institucijos ir savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]] nustatyta tvarka dalyvaujantys poveikio aplinkai vertinimo ar atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka) procese, [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]] nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją teikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai ar pateikia pasiūlymus dėl informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti (toliau – atrankos informacija), ir (ar) poveikio aplinkai vertinimo.
 
 
-Ūkinei veiklai, kuriai turi būti atliktos Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytos procedūros, įstatymuose įtvirtinti leidimai (statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimas, taršos leidimas ir kiti šiame ar kituose įstatymuose nurodyti leidimai) išduodami ar keičiami arba įrenginiai įregistruojami ar jų registracijos duomenys tikslinami turint galiojantį atsakingosios institucijos sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedarys reikšmingo neigiamo poveikio aplinkai (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai), ar atrankos dėl poveikio aplinkai vertinimo išvadą, kad poveikio aplinkai vertinimas neprivalomas (toliau šiame straipsnyje – atrankos išvada), išskyrus atvejus, kai taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas keičiamas arba įrenginio registracijos duomenys tikslinami dėl priežasčių, nesusijusių su eksploatuojamo įrenginio pobūdžio ar veikimo pakeitimu arba išplėtimu, galinčiu daryti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme. Jeigu planuojamai ūkinei veiklai, kuriai turi būti atliktos Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytos procedūros, vykdyti nereikia šiame ar kituose įstatymuose įtvirtintų leidimų, ūkinę veiklą galima pradėti tik gavus sprendimą dėl poveikio aplinkai ar atrankos išvadą.
+Ūkinei veiklai, kuriai turi būti atliktos [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]] nustatytos procedūros, įstatymuose įtvirtinti leidimai (statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimas, taršos leidimas ir kiti šiame ar kituose įstatymuose nurodyti leidimai) išduodami ar keičiami arba įrenginiai įregistruojami ar jų registracijos duomenys tikslinami turint galiojantį atsakingosios institucijos sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedarys reikšmingo neigiamo poveikio aplinkai (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai), ar atrankos dėl poveikio aplinkai vertinimo išvadą, kad poveikio aplinkai vertinimas neprivalomas (toliau šiame straipsnyje – atrankos išvada), išskyrus atvejus, kai taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas keičiamas arba įrenginio registracijos duomenys tikslinami dėl priežasčių, nesusijusių su eksploatuojamo įrenginio pobūdžio ar veikimo pakeitimu arba išplėtimu, galinčiu daryti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]]. Jeigu planuojamai ūkinei veiklai, kuriai turi būti atliktos [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]] nustatytos procedūros, vykdyti nereikia šiame ar kituose įstatymuose įtvirtintų leidimų, ūkinę veiklą galima pradėti tik gavus sprendimą dėl poveikio aplinkai ar atrankos išvadą.
 
 
-Jeigu fizinis asmuo, juridinis asmuo ar jo padalinys (įskaitant užsienio valstybės juridinį asmenį ar kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje, šio įstatymo 151, 19, 191, 192 ir [[#193 straipsnis. Įrenginių registravimas|193 straipsniuose]] – fizinis ar juridinis asmuo) turi galiojantį statybą leidžiantį dokumentą ar leidimą naudoti žemės gelmių išteklius arba ertmes, išduotą galiojant sprendimui dėl poveikio aplinkai arba atrankos išvadai, išduodant taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą, pagal kurį bus vykdoma sprendime dėl poveikio aplinkai ar atrankos išvadoje įrašyta ūkinė veikla, arba įregistruojant įrenginį šio straipsnio trečiosios dalies nuostatos netaikomos.
+Jeigu fizinis asmuo, juridinis asmuo ar jo padalinys (įskaitant užsienio valstybės juridinį asmenį ar kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje, šio įstatymo 151, 19, 191, 192 ir [[#^s-c45ee0c4f03a3f387a147be0|193 straipsniuose]] – fizinis ar juridinis asmuo) turi galiojantį statybą leidžiantį dokumentą ar leidimą naudoti žemės gelmių išteklius arba ertmes, išduotą galiojant sprendimui dėl poveikio aplinkai arba atrankos išvadai, išduodant taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą, pagal kurį bus vykdoma sprendime dėl poveikio aplinkai ar atrankos išvadoje įrašyta ūkinė veikla, arba įregistruojant įrenginį šio straipsnio trečiosios dalies nuostatos netaikomos.
 Straipsnio dalies pakeitimai:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
@@ -974,22 +979,22 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 Planuojantis, vykdantis ar užbaigiantis ūkinę veiklą fizinis ar juridinis asmuo privalo užtikrinti, kad pasirengimo vykdyti planuojamą ūkinę veiklą ir (ar) ūkinės veiklos vykdymo, ir (ar) ūkinės veiklos užbaigimo etapuose būtų įgyvendintos sprendime dėl poveikio aplinkai nustatytos planuojamos ūkinės veiklos įgyvendinimo sąlygos ir priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, arba atrankos išvadoje nustatytos priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią.
 
 
-Fizinis ar juridinis asmuo, rengiantis Lietuvos Respublikos statybos įstatyme nurodytus statinių, kuriuose planuojama vykdyti ūkinę veiklą, galinčią daryti poveikį aplinkai, projektus, projektiniuose pasiūlymuose ir statinio projekte privalo numatyti priemones gamtos ištekliams racionaliai naudoti, suprojektuoti priemones reikšmingam neigiamam poveikiui aplinkai išvengti, užkirsti jam kelią, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, vadovaudamasis šio straipsnio trečiojoje dalyje nurodytu sprendimu dėl poveikio aplinkai ar atrankos išvada.
+Fizinis ar juridinis asmuo, rengiantis [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]] nurodytus statinių, kuriuose planuojama vykdyti ūkinę veiklą, galinčią daryti poveikį aplinkai, projektus, projektiniuose pasiūlymuose ir statinio projekte privalo numatyti priemones gamtos ištekliams racionaliai naudoti, suprojektuoti priemones reikšmingam neigiamam poveikiui aplinkai išvengti, užkirsti jam kelią, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, vadovaudamasis šio straipsnio trečiojoje dalyje nurodytu sprendimu dėl poveikio aplinkai ar atrankos išvada.
 Straipsnio dalies pakeitimai:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Statybos įstatyme nurodytos valstybės institucijos, nagrinėjusios poveikio aplinkai vertinimo dokumentus ar atrankos informaciją, ir savivaldybės administracija, tikrindamos statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, projektinių pasiūlymų atitiktį, pagal kompetenciją tikrina, ar bus įgyvendintos sprendime dėl poveikio aplinkai nustatytos konkrečiu statybos etapu būtinos įgyvendinti sąlygos ir suprojektuotos sprendime dėl poveikio aplinkai nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią. Papildomai aplinkos ministro įgaliota institucija, tikrindama projektinius pasiūlymus, tikrina, ar:
+[[latest/TAR.F31E79DEC55D|Statybos įstatyme]] nurodytos valstybės institucijos, nagrinėjusios poveikio aplinkai vertinimo dokumentus ar atrankos informaciją, ir savivaldybės administracija, tikrindamos statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, projektinių pasiūlymų atitiktį, pagal kompetenciją tikrina, ar bus įgyvendintos sprendime dėl poveikio aplinkai nustatytos konkrečiu statybos etapu būtinos įgyvendinti sąlygos ir suprojektuotos sprendime dėl poveikio aplinkai nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią. Papildomai aplinkos ministro įgaliota institucija, tikrindama projektinius pasiūlymus, tikrina, ar:
 
 
-1) nepasibaigęs sprendimo dėl poveikio aplinkai arba atrankos išvados galiojimo terminas; ^d9d530b7d5395d8afaa28696
+1) nepasibaigęs sprendimo dėl poveikio aplinkai arba atrankos išvados galiojimo terminas; ^s-5bea31c821279103cfa5d167
 
 
-2) projektiniai pasiūlymai atitinka sprendime dėl poveikio aplinkai arba atrankos išvadoje įrašytos ūkinės veiklos mastą, fizines ir technines charakteristikas; ^22f392af7c97745d8dd49faa
+2) projektiniai pasiūlymai atitinka sprendime dėl poveikio aplinkai arba atrankos išvadoje įrašytos ūkinės veiklos mastą, fizines ir technines charakteristikas; ^s-32105f526bab4ccdb016e858
 
 
-3) projektiniai pasiūlymai atitinka aplinkos apsaugą reglamentuojančių teisės aktų reikalavimus. ^7f3eb101ca0b52d931dd7926
+3) projektiniai pasiūlymai atitinka aplinkos apsaugą reglamentuojančių teisės aktų reikalavimus. ^s-0bc19b23218b68c830382406
 
 
 Straipsnio dalies pakeitimai:
@@ -1006,13 +1011,13 @@ Vyriausybės įgaliota aplinkos apsaugos institucija, koordinuojanti tarpvalstyb
 Jeigu tarpvalstybinio poveikio aplinkai vertinimo metu, vadovaujantis Espo konvencijos 7 straipsnio 1 dalimi, su tarpvalstybinio poveikio aplinkai vertinimo procedūrose dalyvavusia Europos Sąjungos valstybe nare ir (ar) užsienio valstybe, ne Europos Sąjungos valstybe nare, prisijungusia prie Espo konvencijos, susitariama, kad planuojamai ūkinei veiklai, kurios tarpvalstybinio poveikio aplinkai vertinimo procedūros atliktos, bus atliekama tarpvalstybinio poveikio stebėsena, šios stebėsenos programa ir ataskaita rengiama, derinama ir teikiama aplinkos ministro nustatyta tvarka.
 
 
-13. Neteko galios nuo 2025-11-01 ^93dbac622cb2e8c5098c346e
+13. Neteko galios nuo 2025-11-01 ^s-ff433e30d34f82cfcd252618
 Straipsnio dalies naikinimas:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-14. Neteko galios nuo 2025-11-01 ^868ea3d83c4de3143e40dd64
+14. Neteko galios nuo 2025-11-01 ^s-0df00cc92c90374412eb84ea
 Straipsnio dalies naikinimas:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
@@ -1025,37 +1030,37 @@ Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 
-### 151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas
+### 151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas ^s-0e5e1c3887383e94469a6a29
 
 
 Jeigu pagal aplinkos stebėsenos (monitoringo) rezultatus ar vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad fiziniam ar juridiniam asmeniui vykdant ar užbaigiant ūkinę veiklą sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai) nustatytų planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje (toliau šiame straipsnyje – atrankos išvada) nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią nepakanka ir viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai, ir (ar) daromas reikšmingas neigiamas poveikis aplinkai, vykdantis ar užbaigiantis ūkinę veiklą fizinis ar juridinis asmuo privalo taikyti aplinkos ministro nustatyta tvarka su aplinkos ministro įgaliota institucija suderintas priemones reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba užkirsti jam kelią.
 
 
-Šio straipsnio pirmosios dalies nuostatos netaikomos sprendime dėl poveikio aplinkai nustatytoms planuojamos ūkinės veiklos įgyvendinimo sąlygoms ir priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytoms priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, kurios perkeliamos į taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo sąlygas ir keičiamos vadovaujantis šio įstatymo 191 arba [[#192 straipsnis. Taršos leidimas|192 straipsnių]] nuostatomis.
+Šio straipsnio pirmosios dalies nuostatos netaikomos sprendime dėl poveikio aplinkai nustatytoms planuojamos ūkinės veiklos įgyvendinimo sąlygoms ir priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytoms priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, kurios perkeliamos į taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo sąlygas ir keičiamos vadovaujantis šio įstatymo 191 arba [[#^s-fbb32df217a4ecaef2c3ba0c|192 straipsnių]] nuostatomis.
 
 
-Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, kuriai iki ūkinės veiklos vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka turėjo būti atlikta atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka), jeigu ji neatlikta, privalo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo [[#7 straipsnis. Suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teisės|7 straipsnyje]] nustatyta tvarka pradėti atrankos procedūras, kai yra įsiteisėjęs teismo sprendimas, kuriame nustatyta, kad, vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, reikėjo atlikti atranką, arba aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kuriems atranka turėjo būti atlikta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka, vykdomi šios atrankos neatlikus, ir Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duodamas privalomasis nurodymas imtis reikiamų veiksmų šiam pažeidimui pašalinti. Šioje dalyje nurodyta atranka turi būti atlikta ne vėliau kaip per vienus metus nuo teismo sprendimo įsiteisėjimo dienos arba privalomojo nurodymo davimo dienos, išskyrus atvejus, kai kitas šios atrankos atlikimo terminas nustatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
+Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, kuriai iki ūkinės veiklos vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nustatyta tvarka turėjo būti atlikta atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka), jeigu ji neatlikta, privalo [[latest/TAR.0539E2FEB29E#^s-5cb2623f2fe7417a0239d9f3|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 7 straipsnyje]] nustatyta tvarka pradėti atrankos procedūras, kai yra įsiteisėjęs teismo sprendimas, kuriame nustatyta, kad, vadovaujantis [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu]], reikėjo atlikti atranką, arba aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kuriems atranka turėjo būti atlikta [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nustatyta tvarka, vykdomi šios atrankos neatlikus, ir [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duodamas privalomasis nurodymas imtis reikiamų veiksmų šiam pažeidimui pašalinti. Šioje dalyje nurodyta atranka turi būti atlikta ne vėliau kaip per vienus metus nuo teismo sprendimo įsiteisėjimo dienos arba privalomojo nurodymo davimo dienos, išskyrus atvejus, kai kitas šios atrankos atlikimo terminas nustatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
 
 
-Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, iki kurios vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka nebuvo atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas (toliau šiame straipsnyje – poveikio aplinkai vertinimas), privalo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 8 arba [[#9 straipsnis. Piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pareigos|9 straipsnyje]] nustatyta tvarka pradėti poveikio aplinkai vertinimo procedūras, jeigu:
+Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, iki kurios vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nustatyta tvarka nebuvo atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas (toliau šiame straipsnyje – poveikio aplinkai vertinimas), privalo [[latest/TAR.0539E2FEB29E#^s-fc99b06616e686f40e4714dc|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 8 arba 9 straipsnyje]] nustatyta tvarka pradėti poveikio aplinkai vertinimo procedūras, jeigu:
 
 
-1) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą, kad poveikio aplinkai vertinimas neprivalomas, ir atsakingoji institucija priima atrankos išvadą, kad privaloma atlikti poveikio aplinkai vertinimą; ^b74d06cba5218296a811bcc7
+1) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą, kad poveikio aplinkai vertinimas neprivalomas, ir atsakingoji institucija priima atrankos išvadą, kad privaloma atlikti poveikio aplinkai vertinimą; ^s-00232b7320c62fdca75f3db4
 
 
-2) yra įsiteisėjęs teismo sprendimas, kuriame nustatoma, kad, vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, reikėjo atlikti atranką, arba aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kuriems atranka turėjo būti atlikta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka, vykdomi šios atrankos neatlikus, ir atlikus atranką atsakingoji institucija priima atrankos išvadą, kad privaloma atlikti poveikio aplinkai vertinimą; ^15ffc41ded5614a5831636a2
+2) yra įsiteisėjęs teismo sprendimas, kuriame nustatoma, kad, vadovaujantis [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu]], reikėjo atlikti atranką, arba aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kuriems atranka turėjo būti atlikta [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nustatyta tvarka, vykdomi šios atrankos neatlikus, ir atlikus atranką atsakingoji institucija priima atrankos išvadą, kad privaloma atlikti poveikio aplinkai vertinimą; ^s-e05565ab3a25a674306aa813
 
 
-3) yra įsiteisėjęs teismo sprendimas, kuriame nustatoma, kad, vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, reikėjo atlikti poveikio aplinkai vertinimą; ^e67ecccbd571cd38d7958b57
+3) yra įsiteisėjęs teismo sprendimas, kuriame nustatoma, kad, vadovaujantis [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu]], reikėjo atlikti poveikio aplinkai vertinimą; ^s-27911c40c8bd212b7cee0f95
 
 
-4) gavęs Europos Komisijos oficialų pranešimą ar pagrįstą nuomonę arba Europos Sąjungos Teisingumo Teismo sprendimą dėl Direktyvos 2011/92/ES netinkamo įgyvendinimo (taikymo), aplinkos ministras nusprendžia, kad privaloma atlikti poveikio aplinkai vertinimą; ^9a69e600d189096a1ba59f28
+4) gavęs Europos Komisijos oficialų pranešimą ar pagrįstą nuomonę arba Europos Sąjungos Teisingumo Teismo sprendimą dėl Direktyvos 2011/92/ES netinkamo įgyvendinimo (taikymo), aplinkos ministras nusprendžia, kad privaloma atlikti poveikio aplinkai vertinimą; ^s-294b8944efa615991da69041
 
 
-5) vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kurių poveikio aplinkai vertinimas turėjo būti atliktas Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka, vykdomi jo neatlikus ir Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duodamas privalomasis nurodymas imtis reikiamų veiksmų šiam pažeidimui pašalinti. ^600e1dabf3c2fd353c8d48dd
+5) vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kurių poveikio aplinkai vertinimas turėjo būti atliktas [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nustatyta tvarka, vykdomi jo neatlikus ir [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duodamas privalomasis nurodymas imtis reikiamų veiksmų šiam pažeidimui pašalinti. ^s-734c4f97e140c866d160b030
 
 
-Šio straipsnio ketvirtojoje dalyje nurodytais atvejais poveikio aplinkai vertinimas turi būti atliktas per Vyriausybės įgaliotos institucijos nustatytą terminą, išskyrus atvejus, kai poveikio aplinkai vertinimo atlikimo terminas nustatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme. Vyriausybės įgaliotos institucijos nustatytas terminas, per kurį turi būti atliktas poveikio aplinkai vertinimas, negali būti trumpesnis kaip vieni metai ir ilgesnis kaip treji metai. Šis terminas nustatomas atsižvelgiant į ūkinės veiklos pobūdį, mastą, poreikį atlikti papildomus tyrimus ar aplinkos stebėseną (monitoringą) ir reikalingas susijusias viešųjų pirkimų procedūras ir skaičiuojamas nuo šio straipsnio ketvirtosios dalies 1 ir [[#^15ffc41ded5614a5831636a2|2 punktuose]] nurodytos atsakingosios institucijos atrankos išvados, kad poveikio aplinkai vertinimas privalomas, priėmimo dienos, šio straipsnio ketvirtosios [[#^e67ecccbd571cd38d7958b57|dalies 3 punkte]] nurodyto teismo sprendimo įsiteisėjimo dienos, šio straipsnio ketvirtosios [[#^9a69e600d189096a1ba59f28|dalies 4 punkte]] nurodyto Aplinkos ministro sprendimo priėmimo dienos arba šio straipsnio ketvirtosios [[#^600e1dabf3c2fd353c8d48dd|dalies 5 punkte]] nurodyto privalomojo nurodymo davimo dienos.
+Šio straipsnio ketvirtojoje dalyje nurodytais atvejais poveikio aplinkai vertinimas turi būti atliktas per Vyriausybės įgaliotos institucijos nustatytą terminą, išskyrus atvejus, kai poveikio aplinkai vertinimo atlikimo terminas nustatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme. Vyriausybės įgaliotos institucijos nustatytas terminas, per kurį turi būti atliktas poveikio aplinkai vertinimas, negali būti trumpesnis kaip vieni metai ir ilgesnis kaip treji metai. Šis terminas nustatomas atsižvelgiant į ūkinės veiklos pobūdį, mastą, poreikį atlikti papildomus tyrimus ar aplinkos stebėseną (monitoringą) ir reikalingas susijusias viešųjų pirkimų procedūras ir skaičiuojamas nuo šio straipsnio ketvirtosios dalies 1 ir [[#^s-e05565ab3a25a674306aa813|2 punktuose]] nurodytos atsakingosios institucijos atrankos išvados, kad poveikio aplinkai vertinimas privalomas, priėmimo dienos, šio straipsnio ketvirtosios [[#^s-27911c40c8bd212b7cee0f95|dalies 3 punkte]] nurodyto teismo sprendimo įsiteisėjimo dienos, šio straipsnio ketvirtosios [[#^s-294b8944efa615991da69041|dalies 4 punkte]] nurodyto Aplinkos ministro sprendimo priėmimo dienos arba šio straipsnio ketvirtosios [[#^s-734c4f97e140c866d160b030|dalies 5 punkte]] nurodyto privalomojo nurodymo davimo dienos.
 
 
 Institucija, Vyriausybės įgaliota nustatyti šio straipsnio penktojoje dalyje nurodytą poveikio aplinkai vertinimo atlikimo terminą, aplinkos ministro nustatyta tvarka priima sprendimą pratęsti šį terminą ne ilgiau kaip vieniems metams per 15 darbo dienų nuo fizinio ar juridinio asmens, vykdančio šio straipsnio ketvirtojoje dalyje nurodytą ūkinę veiklą, pateikto motyvuoto prašymo dėl termino pratęsimo gavimo dienos, jeigu fizinis ar juridinis asmuo pateikia informaciją, pagrindžiančią, kad poveikio aplinkai vertinimo procedūros negali būti baigtos per nustatytą terminą ne dėl jo kaltės, ir nurodytas aplinkybes pagrindžiančius dokumentus. Fizinis ar juridinis asmuo, vykdantis šio straipsnio ketvirtojoje dalyje nurodytą ūkinę veiklą, dėl sprendimo pratęsti šio straipsnio penktojoje dalyje nurodytą poveikio aplinkai vertinimo atlikimo terminą gali kreiptis, kai nuo prašymo pateikimo dienos iki poveikio aplinkai vertinimo atlikimo termino pabaigos lieka ne mažiau kaip 30 darbo dienų. Prašymas, pateiktas likus mažiau kaip 30 darbo dienų iki poveikio aplinkai vertinimo atlikimo termino pabaigos, nenagrinėjamas.
@@ -1064,10 +1069,10 @@ Institucija, Vyriausybės įgaliota nustatyti šio straipsnio penktojoje dalyje 
 Valstybės ar savivaldybės institucija, įgaliota išduoti leidimus, privalomus šio straipsnio trečiojoje ir ketvirtojoje dalyse nurodytai ūkinei veiklai vykdyti, sustabdo išduoto leidimo galiojimą, kol bus atlikta atranka ir (ar) poveikio aplinkai vertinimas, arba panaikina leidimo galiojimą, jeigu leidimo galiojimo sustabdymas ar galiojimo panaikinimas numatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
 
 
-Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, jeigu tai numatyta ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme ar Aplinkos apsaugos valstybinės kontrolės įstatyme, sustabdo šio straipsnio trečiojoje ar ketvirtojoje dalyse nurodytos ūkinės veiklos vykdymą, kol bus atlikta atranka ir (ar) poveikio aplinkai vertinimas. Ūkinė veikla nestabdoma, jeigu ją sustabdžius galėtų kilti didesnė žala visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu sustabdžius šio straipsnio trečiojoje ar ketvirtojoje dalyje nurodytą ūkinę veiklą būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, naudojimas.
+Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatytas funkcijas, jeigu tai numatyta ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme ar [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]], sustabdo šio straipsnio trečiojoje ar ketvirtojoje dalyse nurodytos ūkinės veiklos vykdymą, kol bus atlikta atranka ir (ar) poveikio aplinkai vertinimas. Ūkinė veikla nestabdoma, jeigu ją sustabdžius galėtų kilti didesnė žala visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu sustabdžius šio straipsnio trečiojoje ar ketvirtojoje dalyje nurodytą ūkinę veiklą būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo]] 4 priede, naudojimas.
 
 
-Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neatliekama per šio straipsnio trečiojoje dalyje nustatytą terminą arba šio straipsnio ketvirtojoje dalyje nurodytos ūkinės veiklos poveikio aplinkai vertinimas neatliekamas per šio straipsnio penktojoje dalyje nustatytą terminą, jei taikoma, ir šio straipsnio šeštojoje dalyje nustatyta tvarka pratęstą terminą, pasibaigus šiam  terminui ši ūkinė veikla negali būti vykdoma tol, kol nėra įgyvendinami Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, šiame įstatyme ir (ar) ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme šiai ūkinei veiklai nustatyti reikalavimai. Šios dalies nuostatos netaikomos, jeigu sustabdžius šią ūkinę veiklą galėtų kilti didesnė žala visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu sustabdžius šio straipsnio trečiojoje ar ketvirtojoje dalyje nurodytą ūkinę veiklą būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, naudojimas.
+Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neatliekama per šio straipsnio trečiojoje dalyje nustatytą terminą arba šio straipsnio ketvirtojoje dalyje nurodytos ūkinės veiklos poveikio aplinkai vertinimas neatliekamas per šio straipsnio penktojoje dalyje nustatytą terminą, jei taikoma, ir šio straipsnio šeštojoje dalyje nustatyta tvarka pratęstą terminą, pasibaigus šiam  terminui ši ūkinė veikla negali būti vykdoma tol, kol nėra įgyvendinami [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]], šiame įstatyme ir (ar) ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme šiai ūkinei veiklai nustatyti reikalavimai. Šios dalies nuostatos netaikomos, jeigu sustabdžius šią ūkinę veiklą galėtų kilti didesnė žala visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu sustabdžius šio straipsnio trečiojoje ar ketvirtojoje dalyje nurodytą ūkinę veiklą būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo]] 4 priede, naudojimas.
 
 
 Šio straipsnio ketvirtojoje dalyje nurodyta ūkinė veikla negali būti vykdoma, jeigu priimamas sprendimas dėl poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai, Valstybės ar savivaldybės institucija, įgaliota išduoti leidimus, privalomus šio straipsnio ketvirtojoje dalyje nurodytai ūkinei veiklai vykdyti, panaikina išduoto leidimo galiojimą arba kreipiasi į teismą dėl leidimo galiojimo panaikinimo, jeigu tai numatyta ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
@@ -1078,42 +1083,42 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-### 16 straipsnis. Neteko galios nuo 2017-11-01
+### 16 straipsnis. Neteko galios nuo 2017-11-01 ^s-5dded0d89af5b9b3624dba70
 Straipsnio naikinimas:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-### 17 straipsnis. Neteko galios nuo 2017-11-01
+### 17 straipsnis. Neteko galios nuo 2017-11-01 ^s-10206f6c8d40635d3d6cdd4a
 Straipsnio naikinimas:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-### 18 straipsnis. Neteko galios nuo 2017-11-01
+### 18 straipsnis. Neteko galios nuo 2017-11-01 ^s-b6329b3d3dd6fe296ee27867
 Straipsnio naikinimas:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-### 19 straipsnis. Ūkinės veiklos objektų eksploatavimas
+### 19 straipsnis. Ūkinės veiklos objektų eksploatavimas ^s-3248025572d03bdc82ba86a4
 
 
-Prieš pradėdamas eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą, fizinis ar juridinis asmuo privalo šio ir kitų įstatymų nustatytais atvejais gauti taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą (toliau – leidimas) arba įrenginį įregistruoti. Apie planuojamą ūkinės veiklos objekto, kuriam išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, eksploatavimo ir ūkinės veiklos vykdymo pradžią fizinis ar juridinis asmuo turi aplinkos ministro nustatyta tvarka informuoti aplinkos ministro įgaliotą instituciją. Aplinkos ministro įgaliota institucija prieš fiziniam ar juridiniam asmeniui pradedant eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą aplinkos ministro nustatyta tvarka atlieka patikrinimą ir priima sprendimą, ar ūkinės veiklos objektas atitinka šios dalies 1–[[#^e94ddc859882b6ab6ffe9316|3 punktuose]] nurodytas sąlygas. Atlikdama patikrinimą aplinkos ministro įgaliota institucija aplinkos ministro nustatyta tvarka turi teisę pasitelkti sveikatos apsaugos ministro įgaliotą instituciją ir vidaus reikalų ministro įgaliotą instituciją, dalyvavusią (-ias) planuojamai ūkinei veiklai atliekant poveikio aplinkai vertinimo arba atrankos dėl poveikio aplinkai vertinimo procedūras pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas ir (ar) išduodant taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą. Sveikatos apsaugos ministro įgaliota institucija ir (ar) vidaus reikalų ministro įgaliota institucija, dalyvaudama (-os) patikrinime, veikia neviršydama (-os) jai (joms) Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 6 straipsnio 5 dalyje ir (ar) šio įstatymo 191 ir [[#192 straipsnis. Taršos leidimas|192 straipsniuose]] nustatytos kompetencijos. Pradėti eksploatuoti ūkinės veiklos objektą ir (ar) vykdyti ūkinę veiklą galima tik aplinkos ministro nustatyta tvarka aplinkos ministro įgaliotai institucijai įsitikinus ir priėmus sprendimą, kad ūkinės veiklos objektas atitinka šias sąlygas. Toks patikrinimas nemažina fizinio ar juridinio asmens atsakomybės dėl leidime nurodytų sąlygų laikymosi. Šioje dalyje nurodyto patikrinimo metu norintis pradėti eksploatuoti ūkinės veiklos objektą ir pradėti ūkinę veiklą fizinis ar juridinis asmuo turi atitikti šias sąlygas:
+Prieš pradėdamas eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą, fizinis ar juridinis asmuo privalo šio ir kitų įstatymų nustatytais atvejais gauti taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą (toliau – leidimas) arba įrenginį įregistruoti. Apie planuojamą ūkinės veiklos objekto, kuriam išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, eksploatavimo ir ūkinės veiklos vykdymo pradžią fizinis ar juridinis asmuo turi aplinkos ministro nustatyta tvarka informuoti aplinkos ministro įgaliotą instituciją. Aplinkos ministro įgaliota institucija prieš fiziniam ar juridiniam asmeniui pradedant eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą aplinkos ministro nustatyta tvarka atlieka patikrinimą ir priima sprendimą, ar ūkinės veiklos objektas atitinka šios dalies 1–[[#^s-39018b8bfce9ac233e0e4ac8|3 punktuose]] nurodytas sąlygas. Atlikdama patikrinimą aplinkos ministro įgaliota institucija aplinkos ministro nustatyta tvarka turi teisę pasitelkti sveikatos apsaugos ministro įgaliotą instituciją ir vidaus reikalų ministro įgaliotą instituciją, dalyvavusią (-ias) planuojamai ūkinei veiklai atliekant poveikio aplinkai vertinimo arba atrankos dėl poveikio aplinkai vertinimo procedūras pagal [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nuostatas ir (ar) išduodant taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą. Sveikatos apsaugos ministro įgaliota institucija ir (ar) vidaus reikalų ministro įgaliota institucija, dalyvaudama (-os) patikrinime, veikia neviršydama (-os) jai (joms) [[latest/TAR.0539E2FEB29E#^s-a412a2f1526d7bc500f14f05|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 6 straipsnio 5 dalyje]] ir (ar) šio įstatymo 191 ir [[#^s-fbb32df217a4ecaef2c3ba0c|192 straipsniuose]] nustatytos kompetencijos. Pradėti eksploatuoti ūkinės veiklos objektą ir (ar) vykdyti ūkinę veiklą galima tik aplinkos ministro nustatyta tvarka aplinkos ministro įgaliotai institucijai įsitikinus ir priėmus sprendimą, kad ūkinės veiklos objektas atitinka šias sąlygas. Toks patikrinimas nemažina fizinio ar juridinio asmens atsakomybės dėl leidime nurodytų sąlygų laikymosi. Šioje dalyje nurodyto patikrinimo metu norintis pradėti eksploatuoti ūkinės veiklos objektą ir pradėti ūkinę veiklą fizinis ar juridinis asmuo turi atitikti šias sąlygas:
 Straipsnio dalies pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
-1) ūkinės veiklos objekte turi būti įgyvendintos leidime nurodytos sąlygos, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios; ^2938f5c32937004009bb82e8
+1) ūkinės veiklos objekte turi būti įgyvendintos leidime nurodytos sąlygos, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios; ^s-af0d8d71f7b7c6e6e84745a7
 
 
-2) jeigu pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas planuojamai ūkinei veiklai atliktas poveikio aplinkai vertinimas arba atranka dėl poveikio aplinkai vertinimo, turi būti įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytos planuojamos ūkinės veiklos įgyvendinimo sąlygos ir priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo nustatytos būtinos įdiegti ūkinės veiklos objekte priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, jeigu šiame punkte nurodytame sprendime ar atrankos išvadoje nustatyta, kad jos privalo būti įgyvendintos iki planuojamos ūkinės veiklos vykdymo pradžios; ^6092895a6f6b2c222004fe10
+2) jeigu pagal [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nuostatas planuojamai ūkinei veiklai atliktas poveikio aplinkai vertinimas arba atranka dėl poveikio aplinkai vertinimo, turi būti įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytos planuojamos ūkinės veiklos įgyvendinimo sąlygos ir priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo nustatytos būtinos įdiegti ūkinės veiklos objekte priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, jeigu šiame punkte nurodytame sprendime ar atrankos išvadoje nustatyta, kad jos privalo būti įgyvendintos iki planuojamos ūkinės veiklos vykdymo pradžios; ^s-d5540b938de2aa4b16bbd061
 Straipsnio punkto pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 
-3) turi būti įgyvendinti šio įstatymo, Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos aplinkos oro apsaugos įstatymo, Lietuvos Respublikos vandens įstatymo, Lietuvos Respublikos geriamojo vandens įstatymo, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo, Lietuvos Respublikos klimato kaitos valdymo įstatymo, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo, Lietuvos Respublikos triukšmo valdymo įstatymo įgyvendinamuosiuose teisės aktuose nustatyti įrenginių, kurių eksploatavimui privaloma turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, įrengimo techniniai ir technologiniai reikalavimai, kurie taikomi ūkinės veiklos objektui ir kuriuos privaloma įgyvendinti iki ūkinės veiklos vykdymo pradžios. ^e94ddc859882b6ab6ffe9316
+3) turi būti įgyvendinti šio įstatymo, [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymo]], [[latest/TAR.9A844F180551|Lietuvos Respublikos aplinkos oro apsaugos įstatymo]], [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymo]], [[latest/TAR.9893688FA176|Lietuvos Respublikos geriamojo vandens įstatymo]], [[latest/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo]], [[latest/TAR.B77E00EAEBEB|Lietuvos Respublikos klimato kaitos valdymo įstatymo]], [[latest/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo]], [[latest/TAR.7E6F5E3523EA|Lietuvos Respublikos triukšmo valdymo įstatymo]] įgyvendinamuosiuose teisės aktuose nustatyti įrenginių, kurių eksploatavimui privaloma turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, įrengimo techniniai ir technologiniai reikalavimai, kurie taikomi ūkinės veiklos objektui ir kuriuos privaloma įgyvendinti iki ūkinės veiklos vykdymo pradžios. ^s-39018b8bfce9ac233e0e4ac8
 Straipsnio punkto pakeitimai:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
@@ -1125,7 +1130,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai reikalingas leidimas ar veikla vykdoma įrenginyje, kuris pagal šio įstatymo [[#193 straipsnis. Įrenginių registravimas|193 straipsnį]] turi būti įregistruotas, privalo laikytis leidime nustatytų sąlygų ir tokiems objektams ar įrenginiams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų. Vykdant leidime nurodytą ūkinę veiklą, kietosios medžiagos (šalutiniai produktai, nurodyti Atliekų tvarkymo įstatyme, atliekos, žaliavos ir produktai) už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų gali patekti tik tokiais atvejais, kiekiais ir būdais, kaip tai numatyta leidimo sąlygose ir (ar) aplinkos apsaugos normatyvuose bei aplinkos apsaugos standartuose.
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai reikalingas leidimas ar veikla vykdoma įrenginyje, kuris pagal šio įstatymo [[#^s-c45ee0c4f03a3f387a147be0|193 straipsnį]] turi būti įregistruotas, privalo laikytis leidime nustatytų sąlygų ir tokiems objektams ar įrenginiams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų. Vykdant leidime nurodytą ūkinę veiklą, kietosios medžiagos (šalutiniai produktai, nurodyti [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]], atliekos, žaliavos ir produktai) už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų gali patekti tik tokiais atvejais, kiekiais ir būdais, kaip tai numatyta leidimo sąlygose ir (ar) aplinkos apsaugos normatyvuose bei aplinkos apsaugos standartuose.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
@@ -1159,19 +1164,19 @@ Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 
 
 
-### 191 straipsnis. Taršos integruotos prevencijos ir kontrolės leidimas
+### 191 straipsnis. Taršos integruotos prevencijos ir kontrolės leidimas ^s-08f24503c984cc36f9234de8
 
 
 Taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – TIPK taisyklės) tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. TIPK taisyklėse nustatyta paraiškos taršos integruotos prevencijos ir kontrolės leidimui gauti ar pakeisti (toliau – TIPK paraiška) rengimo, pateikimo ir aplinkos ministro įgaliotos institucijos atliekamo gautos TIPK paraiškos viešinimo, nagrinėjimo, derinimo, priėmimo, taršos integruotos prevencijos ir kontrolės leidimo (toliau šiame straipsnyje – TIPK leidimas) projekto rengimo, TIPK leidimo išdavimo, TIPK leidimo sąlygų peržiūrėjimo, TIPK leidimo pakeitimo ir galiojimo panaikinimo tvarka, taip pat informacijos teikimo kitai Europos Sąjungos valstybei narei, konsultavimosi su kita Europos Sąjungos valstybe nare, informavimo apie priimtą sprendimą išduoti TIPK leidimą tvarka, kitos Europos Sąjungos valstybės narės visuomenės informavimo tvarka.
 
 
-Fizinis ar juridinis asmuo turi teisę eksploatuoti TIPK taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį TIPK leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis), nurodytą TIPK taisyklėse, laikydamasis šių principų: imasi visų reikiamų taršos ir kvapų prevencijos priemonių; taiko geriausius prieinamus gamybos būdus, kurių apibrėžtį nustato aplinkos ministras, suderinęs su žemės ūkio ministru ir ekonomikos ir inovacijų ministru; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis Atliekų tvarkymo įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti; galutinai nutraukdamas ūkinę veiklą, imasi priemonių, būtinų taršos grėsmei išvengti ir eksploatavimo vietos būklei tinkamai atkurti.
+Fizinis ar juridinis asmuo turi teisę eksploatuoti TIPK taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį TIPK leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis), nurodytą TIPK taisyklėse, laikydamasis šių principų: imasi visų reikiamų taršos ir kvapų prevencijos priemonių; taiko geriausius prieinamus gamybos būdus, kurių apibrėžtį nustato aplinkos ministras, suderinęs su žemės ūkio ministru ir ekonomikos ir inovacijų ministru; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti; galutinai nutraukdamas ūkinę veiklą, imasi priemonių, būtinų taršos grėsmei išvengti ir eksploatavimo vietos būklei tinkamai atkurti.
 
 
 TIPK leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija.
 
 
-TIPK paraiškas derina ir pagal kompetenciją nustato ir peržiūri TIPK leidimo sąlygas Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – NVS centras), vykdydamas Visuomenės sveikatos priežiūros įstatymo ir (ar) Lietuvos Respublikos Vyriausybės jam priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje TIPK taisyklėse nustatyta tvarka ir terminais.
+TIPK paraiškas derina ir pagal kompetenciją nustato ir peržiūri TIPK leidimo sąlygas Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – NVS centras), vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] ir (ar) Lietuvos Respublikos Vyriausybės jam priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje TIPK taisyklėse nustatyta tvarka ir terminais.
 Straipsnio dalies pakeitimai:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
@@ -1195,37 +1200,37 @@ Sprendimas priimti TIPK paraišką arba nepriimti TIPK paraiškos priimamas per 
 Sprendimas nepriimti TIPK paraiškos priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) TIPK paraiška neatitinka TIPK taisyklėse nustatytų reikalavimų, TIPK paraiškoje pateikti ne visi ar netinkamai įforminti duomenys ir (ar) dokumentai arba TIPK paraiškoje ir (ar) kituose dokumentuose, naudojamuose nustatant TIPK leidimo sąlygas, pateikta neteisinga informacija; ^36f5f7fae11bc7bc03257517
+1) TIPK paraiška neatitinka TIPK taisyklėse nustatytų reikalavimų, TIPK paraiškoje pateikti ne visi ar netinkamai įforminti duomenys ir (ar) dokumentai arba TIPK paraiškoje ir (ar) kituose dokumentuose, naudojamuose nustatant TIPK leidimo sąlygas, pateikta neteisinga informacija; ^s-ef5045732c53cd685ef76b9f
 
 
-2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio straipsnio keturioliktosios dalies 5 ar [[#^5d11e895fb40e89c2b9f1c03|8 punkte]] nurodytais atvejais ir nepašalintos priežastys, lėmusios TIPK leidimo galiojimo panaikinimą; ^db539e4dc04d9ed78351fd98
+2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio straipsnio keturioliktosios dalies 5 ar 8 punkte nurodytais atvejais ir nepašalintos priežastys, lėmusios TIPK leidimo galiojimo panaikinimą; ^s-8c5c51da3628386a696f3b82
 
 
-3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas; ^0fc7918ab0f13d0c14927b39
+3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas; ^s-0af1576f8d82b6ceec17e6e9
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, arba ši išvada ar šis sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^59c036d154ce5897b8c151aa
+4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, arba ši išvada ar šis sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^s-de9d4a89a9b4d8dcc3c2ed8e
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-5) TIPK paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais; ^d73a4c99921f47ff0bcd36c1
+5) TIPK paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais; ^s-f5d79573c8b171e0e397c47d
 
 
-6) TIPK paraiška pateikta dėl įrenginio (jo dalies, kelių įrenginių ar jų dalių) arba dėl įrenginio esminio pakeitimo, nurodyto šio straipsnio vienuoliktojoje dalyje, jeigu Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad įrenginys (jo dalis, keli įrenginiai ar jų dalys) jau eksploatuojamas ar įrenginio esminis pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas arba įrenginyje (jo dalyje, keliuose įrenginiuose ar jų dalyse), dėl kurių pateikta TIPK paraiška, Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka nustatyti pažeidimai nenutraukti ir (ar) nepašalinti pažeidimų padariniai; ^1c8f292adfeb4e6681edcd41
+6) TIPK paraiška pateikta dėl įrenginio (jo dalies, kelių įrenginių ar jų dalių) arba dėl įrenginio esminio pakeitimo, nurodyto šio straipsnio vienuoliktojoje dalyje, jeigu [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme]] nurodyta tvarka nustatyta, kad įrenginys (jo dalis, keli įrenginiai ar jų dalys) jau eksploatuojamas ar įrenginio esminis pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas arba įrenginyje (jo dalyje, keliuose įrenginiuose ar jų dalyse), dėl kurių pateikta TIPK paraiška, [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka nustatyti pažeidimai nenutraukti ir (ar) nepašalinti pažeidimų padariniai; ^s-eff22c147ad4a7ace7adbe1b
 
 
-7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, įgyvendinimo priemonės; ^d2ff35e542cf9f3acd50bc69
+7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, įgyvendinimo priemonės; ^s-a957a9779e033a825b0345ab
 Straipsnio punkto pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 
-8) fizinis asmuo TIPK paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas TIPK leidimas šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkte]] nurodytu pagrindu ir nepraėjo penkeri metai nuo turėto TIPK leidimo galiojimo panaikinimo dienos, arba juridinio asmens vadovas TIPK paraiškos pateikimo metu yra ar buvo juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, vadovas, kuriam jo vadovavimo metu buvo panaikintas TIPK leidimo galiojimas šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkte]] nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto TIPK leidimo galiojimo panaikinimo dienos. ^91d089a6781236a26d20e4d8
+8) fizinis asmuo TIPK paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas TIPK leidimas šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkte]] nurodytu pagrindu ir nepraėjo penkeri metai nuo turėto TIPK leidimo galiojimo panaikinimo dienos, arba juridinio asmens vadovas TIPK paraiškos pateikimo metu yra ar buvo juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, vadovas, kuriam jo vadovavimo metu buvo panaikintas TIPK leidimo galiojimas šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkte]] nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto TIPK leidimo galiojimo panaikinimo dienos. ^s-a62310ed62a907ad26232574
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
@@ -1237,65 +1242,65 @@ Sprendimą išduoti ar pakeisti TIPK leidimą arba sprendimą neišduoti ar neke
 Sprendimas neišduoti ar nekeisti TIPK leidimo priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) po sprendimo priimti TIPK paraišką priėmimo nustatoma, kad TIPK paraiškoje ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal TIPK taisykles norint gauti ar pakeisti TIPK leidimą, buvo pateikta neteisinga informacija, kuria remiantis turėtų būti nustatomos TIPK leidimo sąlygos; ^0ca5c9fb5e4d4483665ad599
+1) po sprendimo priimti TIPK paraišką priėmimo nustatoma, kad TIPK paraiškoje ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal TIPK taisykles norint gauti ar pakeisti TIPK leidimą, buvo pateikta neteisinga informacija, kuria remiantis turėtų būti nustatomos TIPK leidimo sąlygos; ^s-b4d0262ff34fd0131afc77e6
 
 
-2) po sprendimo priimti TIPK paraišką priėmimo įsiteisėja teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas; ^0d66b17572fbef7475c912b4
+2) po sprendimo priimti TIPK paraišką priėmimo įsiteisėja teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas; ^s-51bd94bdcbd49ff8c0d05b65
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^64b1f0cb98a4c39bffab86e4
+3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^s-e765f085f6b142eefb1b5052
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-4) po sprendimo priimti TIPK paraišką priėmimo paaiškėja, kad TIPK paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais; ^8b408e6142fac8e01175b600
+4) po sprendimo priimti TIPK paraišką priėmimo paaiškėja, kad TIPK paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais; ^s-125490483963356a8641d4ab
 
 
-5) po sprendimo priimti TIPK paraišką priėmimo, kai TIPK paraiška pateikta dėl naujo įrenginio arba įrenginio esminio pakeitimo, nurodyto šio straipsnio vienuoliktojoje dalyje, paaiškėja, kad Aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad ūkinė veikla jau vykdoma ar ūkinės veiklos pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas. ^b4d87de8693f771d3ba0d199
+5) po sprendimo priimti TIPK paraišką priėmimo, kai TIPK paraiška pateikta dėl naujo įrenginio arba įrenginio esminio pakeitimo, nurodyto šio straipsnio vienuoliktojoje dalyje, paaiškėja, kad [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nurodyta tvarka nustatyta, kad ūkinė veikla jau vykdoma ar ūkinės veiklos pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas. ^s-12ca91700b33fda5601bd1ec
 
 
-Fizinis ar juridinis asmuo, norėdamas daryti įrenginio, kuriam išduotas TIPK leidimas, esminį pakeitimą (t. y. pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių) pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba kai toks pakeitimas ar išplėtimas atitinka arba viršija TIPK taisyklėse nustatytas įrenginio pajėgumo ribas), turi TIPK taisyklėse nustatyta tvarka kreiptis dėl TIPK leidimo pakeitimo. Tam, kad TIPK leidime būtų nustatytos su planuojamu įrenginio esminiu pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo TIPK taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Jeigu planuojamas pakeitimas nėra esminis, TIPK taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą.
+Fizinis ar juridinis asmuo, norėdamas daryti įrenginio, kuriam išduotas TIPK leidimas, esminį pakeitimą (t. y. pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių) pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]], arba kai toks pakeitimas ar išplėtimas atitinka arba viršija TIPK taisyklėse nustatytas įrenginio pajėgumo ribas), turi TIPK taisyklėse nustatyta tvarka kreiptis dėl TIPK leidimo pakeitimo. Tam, kad TIPK leidime būtų nustatytos su planuojamu įrenginio esminiu pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo TIPK taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Jeigu planuojamas pakeitimas nėra esminis, TIPK taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą.
 
 
-Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir TIPK leidimo sąlygų atitiktį teisės aktų reikalavimams, TIPK taisyklėse nustatyta tvarka peržiūri TIPK leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų TIPK leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad TIPK leidimo sąlygos dėl šios dalies 3 ir [[#^1e7f1ac7bed9f227d5562ee7|4 punktuose]] nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti TIPK leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir [[#^be9d9ba56baebebbde74cd0b|5 punktuose]] nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. TIPK leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
+Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir TIPK leidimo sąlygų atitiktį teisės aktų reikalavimams, TIPK taisyklėse nustatyta tvarka peržiūri TIPK leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų TIPK leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad TIPK leidimo sąlygos dėl šios dalies 3 ir 4 punktuose nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti TIPK leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir 5 punktuose nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. TIPK leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
 
 
-1) išduotame TIPK leidime nustatytos sąlygos ir terminai, dėl kurių TIPK leidimas turi būti pakeistas; ^48813776f8b060b7aa5af630
+1) išduotame TIPK leidime nustatytos sąlygos ir terminai, dėl kurių TIPK leidimas turi būti pakeistas; ^s-8998cde102575bd1a804db68
 
 
-2) aplinkos ministro įgaliota institucija TIPK taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos TIPK leidimo sąlygos; ^1a24197a06576997c9258529
+2) aplinkos ministro įgaliota institucija TIPK taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos TIPK leidimo sąlygos; ^s-1f9e31145280b6451b891e84
 
 
-3) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir (ar) Lietuvos Respublikos Vyriausybės jam priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje, nustato, kad, pasikeitus arba įsigaliojus naujiems visuomenės sveikatos priežiūrą reguliuojantiems teisės aktams, TIPK leidime turi būti nustatytos griežtesnės ar papildomos kvapų ir (ar) triukšmo valdymo sąlygos arba kad turi būti taikomos kitos kvapų ir (ar) triukšmo mažinimo priemonės; ^1d6bd7fd5f314408f8412d94
+3) NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] ir (ar) Lietuvos Respublikos Vyriausybės jam priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje, nustato, kad, pasikeitus arba įsigaliojus naujiems visuomenės sveikatos priežiūrą reguliuojantiems teisės aktams, TIPK leidime turi būti nustatytos griežtesnės ar papildomos kvapų ir (ar) triukšmo valdymo sąlygos arba kad turi būti taikomos kitos kvapų ir (ar) triukšmo mažinimo priemonės; ^s-fca28a64de1b826cf684e71f
 Straipsnio punkto pakeitimai:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-4) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir (ar) Lietuvos Respublikos Vyriausybės jam priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje, per 12 mėnesių 2 kartus nustato TIPK leidime nurodytų kvapų ir (ar) triukšmo valdymo sąlygų pažeidimus ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas; ^f7fe7bbf056293d65594f4de
+4) NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] ir (ar) Lietuvos Respublikos Vyriausybės jam priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje, per 12 mėnesių 2 kartus nustato TIPK leidime nurodytų kvapų ir (ar) triukšmo valdymo sąlygų pažeidimus ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas; ^s-2a3b942929cf817fd37d5312
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-5) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus pažeidus TIPK leidimo sąlygas, susijusias su neleistinu teršalų patekimu į aplinką, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas; ^e12b4e89c0f44a23fae14bc1
+5) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus pažeidus TIPK leidimo sąlygas, susijusias su neleistinu teršalų patekimu į aplinką, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas; ^s-021a3adaeb1a1ae11aa4d480
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-6) aplinkos monitoringo ar aplinkos apsaugos valstybinės kontrolės rezultatai rodo, kad įrenginio leistina tarša daro reikšmingą neigiamą poveikį aplinkai, todėl būtina TIPK leidime įrašytas išmetamų teršalų ribines vertes pakeisti ar į TIPK leidimą įrašyti naujas ribines vertes; ^9a2c4b055fc13b580c7239bb
+6) aplinkos monitoringo ar aplinkos apsaugos valstybinės kontrolės rezultatai rodo, kad įrenginio leistina tarša daro reikšmingą neigiamą poveikį aplinkai, todėl būtina TIPK leidime įrašytas išmetamų teršalų ribines vertes pakeisti ar į TIPK leidimą įrašyti naujas ribines vertes; ^s-de0c2eb2c32a5a58bb976be6
 
 
-7) esamas gamybos būdas neleidžia užtikrinti saugaus įrenginio eksploatavimo ir dėl to įrenginiui saugiai eksploatuoti turi būti naudojami kiti gamybos būdai; ^38c083b55270abe37781393a
+7) esamas gamybos būdas neleidžia užtikrinti saugaus įrenginio eksploatavimo ir dėl to įrenginiui saugiai eksploatuoti turi būti naudojami kiti gamybos būdai; ^s-8f86a777ea40aee632f8d53e
 
 
-8) kai leidimo sąlygos neatitinka įrenginiui taikytinų pakeistų arba naujų geriausių prieinamų gamybos būdų arba jų nepakanka. ^28c715f2574f7f223ab13996
+8) kai leidimo sąlygos neatitinka įrenginiui taikytinų pakeistų arba naujų geriausių prieinamų gamybos būdų arba jų nepakanka. ^s-09c7dae31158688400887a2a
 
 
 Jeigu aplinkos ministro įgaliota institucija, atlikusi TIPK leidimo sąlygų peržiūrą, nenustato bent vienos šio straipsnio dvyliktojoje dalyje nustatytos TIPK leidimo keitimo sąlygos, TIPK taisyklėse nustatyta tvarka ji priima sprendimą nekeisti TIPK leidimo. Šis sprendimas laikomas neatsiejama TIPK leidimo dalimi.
@@ -1304,60 +1309,60 @@ Jeigu aplinkos ministro įgaliota institucija, atlikusi TIPK leidimo sąlygų pe
 Sprendimas panaikinti TIPK leidimo galiojimą priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) TIPK leidimo turėtojo prašymu; ^a5940abef740532b794022a1
+1) TIPK leidimo turėtojo prašymu; ^s-b939cee0494cc346399ec520
 
 
-2) aplinkos ministro įgaliotai institucijai šio straipsnio dvyliktojoje dalyje nustatyta tvarka priėmus sprendimą dėl prievolės pakeisti TIPK leidimą, TIPK leidimo turėtojas per sprendime nustatytą terminą TIPK taisyklėse nustatyta tvarka nepateikia šiame sprendime nurodytus reikalavimus atitinkančios TIPK paraiškos dėl TIPK leidimo pakeitimo; ^9adc9e5df1ace3f3366350b8
+2) aplinkos ministro įgaliotai institucijai šio straipsnio dvyliktojoje dalyje nustatyta tvarka priėmus sprendimą dėl prievolės pakeisti TIPK leidimą, TIPK leidimo turėtojas per sprendime nustatytą terminą TIPK taisyklėse nustatyta tvarka nepateikia šiame sprendime nurodytus reikalavimus atitinkančios TIPK paraiškos dėl TIPK leidimo pakeitimo; ^s-f5838cc62435c6384941b19a
 
 
-3) jeigu šio straipsnio aštuntosios [[#^024fc8ed835e6814abdbe6a3|dalies 1 punkte]] nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 2, 3, 6, 7 ir [[#^5d11e895fb40e89c2b9f1c03|8 punktuose]] nurodytų sąlygų; ^f3b65bc2827348151459c394
+3) jeigu šio straipsnio aštuntosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 2, 3, 6, 7 ir 8 punktuose nurodytų sąlygų; ^s-2218ca41a4d839d6af16d45e
 
 
-4) jeigu šio straipsnio aštuntosios [[#^024fc8ed835e6814abdbe6a3|dalies 1 punkte]] nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per 20 darbo dienų nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 4 ir [[#^be9d9ba56baebebbde74cd0b|5 punktuose]] nurodytų sąlygų; ^1e7f1ac7bed9f227d5562ee7
+4) jeigu šio straipsnio aštuntosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per 20 darbo dienų nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 4 ir 5 punktuose nurodytų sąlygų; ^s-0b6f3f7344e9b0772e17d837
 
 
-5) teisėtomis priemonėmis įrodyta, kad TIPK leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos TIPK leidimo sąlygos; ^be9d9ba56baebebbde74cd0b
+5) teisėtomis priemonėmis įrodyta, kad TIPK leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos TIPK leidimo sąlygos; ^s-a2ecb0b6d60979e4457d2c2b
 
 
-6) TIPK leidimą turintis juridinis asmuo likviduotas, TIPK leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, arba nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo; ^d73bd04458127d1ffac5b20f
+6) TIPK leidimą turintis juridinis asmuo likviduotas, TIPK leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, arba nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo; ^s-0c6ffcb427e775aef69df1f5
 
 
-7) jeigu įvykus juridinio asmens pertvarkymui arba reorganizavimui juridinio asmens teisių perėmėjas per 6 mėnesius nuo šių aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo; ^b27b18d8366852107085c012
+7) jeigu įvykus juridinio asmens pertvarkymui arba reorganizavimui juridinio asmens teisių perėmėjas per 6 mėnesius nuo šių aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo; ^s-fe89f0e93480173c93456437
 
 
-8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, jeigu pagal šią išvadą ar pagal šį sprendimą išduotas TIPK leidimas; ^5d11e895fb40e89c2b9f1c03
+8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, jeigu pagal šią išvadą ar pagal šį sprendimą išduotas TIPK leidimas; ^s-e1af63c5095c188ee69cf3c3
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-9) Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, per 12 mėnesių 3 kartus nustatė, kad pažeista viena ar kelios iš šių TIPK leidimo sąlygų: viršyti TIPK leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos) normatyvai; viršytas didžiausias vienu metu leidžiamas laikyti atliekų kiekis; viršytas leistinas atliekų apdorojimo įrenginio pajėgumas; viršytas didžiausias leidžiamas šalinti atliekų kiekis; tvarkomos TIPK leidime nenurodytos atliekos; už teritorijos, kurioje vykdoma TIPK leidime nurodyta ūkinė veikla, ribų, nesilaikant šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] antrosios dalies nuostatų dėl šios veiklos, pateko šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] antrojoje dalyje nurodytų kietųjų medžiagų arba jeigu bet kuris šiame punkte nurodytas TIPK leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu nurodyta šiame punkte. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs, kad pažeista viena ar kelios šiame punkte nurodytos TIPK leidimo sąlygos, Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duoda privalomąjį nurodymą pažeidimą pašalinti, kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma. Privalomasis nurodymas gali būti skundžiamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka; ^d4d4b86745dfb13460452cdd
+9) Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatytas funkcijas, per 12 mėnesių 3 kartus nustatė, kad pažeista viena ar kelios iš šių TIPK leidimo sąlygų: viršyti TIPK leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos) normatyvai; viršytas didžiausias vienu metu leidžiamas laikyti atliekų kiekis; viršytas leistinas atliekų apdorojimo įrenginio pajėgumas; viršytas didžiausias leidžiamas šalinti atliekų kiekis; tvarkomos TIPK leidime nenurodytos atliekos; už teritorijos, kurioje vykdoma TIPK leidime nurodyta ūkinė veikla, ribų, nesilaikant šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] antrosios dalies nuostatų dėl šios veiklos, pateko šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] antrojoje dalyje nurodytų kietųjų medžiagų arba jeigu bet kuris šiame punkte nurodytas TIPK leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu nurodyta šiame punkte. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs, kad pažeista viena ar kelios šiame punkte nurodytos TIPK leidimo sąlygos, [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duoda privalomąjį nurodymą pažeidimą pašalinti, kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma. Privalomasis nurodymas gali būti skundžiamas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka; ^s-5ebda552558b4b803793433a
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-10) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir (ar) Lietuvos Respublikos Vyriausybės priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje, per 12 mėnesių 3 kartus nustatė TIPK leidime nurodytų kvapų ir (ar) triukšmo valdymo sąlygų pažeidimus; ^9dd34da67cabcdeba6e4ad00
+10) NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] ir (ar) Lietuvos Respublikos Vyriausybės priskirtas funkcijas kvapų ir (ar) triukšmo valdymo srityje, per 12 mėnesių 3 kartus nustatė TIPK leidime nurodytų kvapų ir (ar) triukšmo valdymo sąlygų pažeidimus; ^s-53d35f816a847a167af8687c
 Papildyta straipsnio punktu:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-11) jeigu atranka dėl poveikio aplinkai vertinimo neatlikta per šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] trečiojoje dalyje nurodytą terminą, arba poveikio aplinkai vertinimas neatliktas per šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] penktojoje dalyje nurodytą terminą, arba atliekant poveikio aplinkai vertinimą šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] ketvirtojoje dalyje nurodytais atvejais priimamas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai; ^b44b9e689667ff71fc41151e
+11) jeigu atranka dėl poveikio aplinkai vertinimo neatlikta per šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] trečiojoje dalyje nurodytą terminą, arba poveikio aplinkai vertinimas neatliktas per šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] penktojoje dalyje nurodytą terminą, arba atliekant poveikio aplinkai vertinimą šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] ketvirtojoje dalyje nurodytais atvejais priimamas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai; ^s-e7ed48937ca5802c187de5b2
 Papildyta straipsnio punktu:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-12) neįvykdytas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duotas privalomasis nurodymas sustabdyti įrenginio ar jo dalies eksploatavimą arba sustabdyti veiklą; ^e73952248df62f4cba5cba57
+12) neįvykdytas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duotas privalomasis nurodymas sustabdyti įrenginio ar jo dalies eksploatavimą arba sustabdyti veiklą; ^s-752774aa2b915c2a33a39c08
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-13) TIPK leidimo turėtojas nebeturi teisės valdyti ar naudoti TIPK leidime nurodytai ūkinei veiklai vykdyti naudojamą nekilnojamąjį turtą ar jo dalį ir (ar) įrenginį ar jo dalį. ^7145ca10ac320800674c6cae
+13) TIPK leidimo turėtojas nebeturi teisės valdyti ar naudoti TIPK leidime nurodytai ūkinei veiklai vykdyti naudojamą nekilnojamąjį turtą ar jo dalį ir (ar) įrenginį ar jo dalį. ^s-a220f28ad0248f379ed50da3
 Papildyta straipsnio punktu:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Straipsnio punkto numeracijos pakeitimas:
@@ -1365,16 +1370,16 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkto]] nuostatos netaikomos, jeigu:
+Šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkto]] nuostatos netaikomos, jeigu:
 
 
-1) vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkte]] nurodyti pažeidimai laikytini mažareikšmiais pagal aplinkos ministro patvirtintus mažareikšmių pažeidimų kriterijus; ^024fc8ed835e6814abdbe6a3
+1) vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkte]] nurodyti pažeidimai laikytini mažareikšmiais pagal aplinkos ministro patvirtintus mažareikšmių pažeidimų kriterijus; ^s-5fa2fcc64966f3cc2d466954
 
 
-2) vykdydamas šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] šeštosios dalies reikalavimus ūkio subjektas pranešė Aplinkos apsaugos departamentui prie Aplinkos ministerijos apie TIPK leidimo sąlygų, išvardytų šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkte]], pažeidimus, skubiai ėmėsi priemonių per trumpiausią įmanomą laikotarpį jiems pašalinti (kai, atsižvelgiant į pažeidimų pobūdį, juos pašalinti įmanoma) ir jie pašalinti; taip pat per Aplinkos apsaugos departamento prie Aplinkos ministerijos nurodytą terminą ėmėsi kitų papildomų priemonių, kurias taikyti nurodė Aplinkos apsaugos departamentas prie Aplinkos ministerijos, siekdamas, kad kuo greičiau vėl būtų laikomasi leidimo sąlygų. Pažeidimas, apie kurį ūkio subjektas pranešė ir kurį pašalino (kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma) vadovaudamasis šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] šeštąja dalimi, nelaikomas vienu iš šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkte]] nurodytų pažeidimų, padarytų per 12 mėnesių; ^1f7994bdd0504fa99773aeff
+2) vykdydamas šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] šeštosios dalies reikalavimus ūkio subjektas pranešė Aplinkos apsaugos departamentui prie Aplinkos ministerijos apie TIPK leidimo sąlygų, išvardytų šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkte]], pažeidimus, skubiai ėmėsi priemonių per trumpiausią įmanomą laikotarpį jiems pašalinti (kai, atsižvelgiant į pažeidimų pobūdį, juos pašalinti įmanoma) ir jie pašalinti; taip pat per Aplinkos apsaugos departamento prie Aplinkos ministerijos nurodytą terminą ėmėsi kitų papildomų priemonių, kurias taikyti nurodė Aplinkos apsaugos departamentas prie Aplinkos ministerijos, siekdamas, kad kuo greičiau vėl būtų laikomasi leidimo sąlygų. Pažeidimas, apie kurį ūkio subjektas pranešė ir kurį pašalino (kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma) vadovaudamasis šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] šeštąja dalimi, nelaikomas vienu iš šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkte]] nurodytų pažeidimų, padarytų per 12 mėnesių; ^s-388decebfb4faae04b73845c
 
 
-3) vykdant aplinkos apsaugos valstybinę kontrolę nustatyta, kad šio straipsnio keturioliktosios [[#^d4d4b86745dfb13460452cdd|dalies 9 punkte]] nurodyti pažeidimai padaryti anksčiau negu prieš 3 metus nuo šių pažeidimų nustatymo dienos. ^6aa74510d261b8cf701af4c1
+3) vykdant aplinkos apsaugos valstybinę kontrolę nustatyta, kad šio straipsnio keturioliktosios [[#^s-5ebda552558b4b803793433a|dalies 9 punkte]] nurodyti pažeidimai padaryti anksčiau negu prieš 3 metus nuo šių pažeidimų nustatymo dienos. ^s-575e8e850b991d8c0a4a052a
 
 
 Papildyta straipsnio dalimi:
@@ -1382,13 +1387,13 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 9 ir [[#^9dd34da67cabcdeba6e4ad00|10 punktų]] nuostatos netaikomos, jeigu šiuose punktuose nurodytais atvejais priimtas sprendimas panaikinti TIPK leidimo galiojimą galėtų sukelti didesnę žalą visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu dėl TIPK leidimo galiojimo panaikinimo būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, naudojimas.
+Šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 9 ir [[#^s-53d35f816a847a167af8687c|10 punktų]] nuostatos netaikomos, jeigu šiuose punktuose nurodytais atvejais priimtas sprendimas panaikinti TIPK leidimo galiojimą galėtų sukelti didesnę žalą visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu dėl TIPK leidimo galiojimo panaikinimo būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo]] 4 priede, naudojimas.
 Papildyta straipsnio dalimi:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 8, 12 ir [[#^7145ca10ac320800674c6cae|13 punktuose]] nurodytas aplinkybes, fizinis ar juridinis asmuo, prieš priimant sprendimą panaikinti TIPK leidimo galiojimą, per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą TIPK leidimo galiojimo panaikinimą. Šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 12 ir [[#^7145ca10ac320800674c6cae|13 punktuose]] nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio keturioliktosios [[#^5d11e895fb40e89c2b9f1c03|dalies 8 punkte]] nurodytu atveju – 6 mėnesių terminas nuo atitinkamos aplinkybės nustatymo dienos, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, TIPK leidimo galiojimas nepanaikinamas. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumų nepašalina, šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 8, 12 ir [[#^7145ca10ac320800674c6cae|13 punktuose]] nurodytais atvejais TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo įspėjimo termino pabaigos. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 1, 5, 6, 9 ir [[#^9dd34da67cabcdeba6e4ad00|10 punktuose]] nurodytas aplinkybes, TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti TIPK leidimo galiojimą per 3 darbo dienas nuo jo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai TIPK leidimo galiojimas panaikintas nustačius šio straipsnio keturioliktosios [[#^d73bd04458127d1ffac5b20f|dalies 6 punkte]] nurodytas aplinkybes, ir nurodomos TIPK leidimo galiojimo panaikinimo priežastys. Panaikinus TIPK leidimo galiojimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.
+Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 8, 12 ir [[#^s-a220f28ad0248f379ed50da3|13 punktuose]] nurodytas aplinkybes, fizinis ar juridinis asmuo, prieš priimant sprendimą panaikinti TIPK leidimo galiojimą, per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą TIPK leidimo galiojimo panaikinimą. Šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 12 ir [[#^s-a220f28ad0248f379ed50da3|13 punktuose]] nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio keturioliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas nuo atitinkamos aplinkybės nustatymo dienos, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, TIPK leidimo galiojimas nepanaikinamas. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumų nepašalina, šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 8, 12 ir [[#^s-a220f28ad0248f379ed50da3|13 punktuose]] nurodytais atvejais TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo įspėjimo termino pabaigos. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 1, 5, 6, 9 ir [[#^s-53d35f816a847a167af8687c|10 punktuose]] nurodytas aplinkybes, TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti TIPK leidimo galiojimą per 3 darbo dienas nuo jo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai TIPK leidimo galiojimas panaikintas nustačius šio straipsnio keturioliktosios dalies 6 punkte nurodytas aplinkybes, ir nurodomos TIPK leidimo galiojimo panaikinimo priežastys. Panaikinus TIPK leidimo galiojimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
@@ -1403,17 +1408,17 @@ Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 
 
-### 192 straipsnis. Taršos leidimas
+### 192 straipsnis. Taršos leidimas ^s-fbb32df217a4ecaef2c3ba0c
 
 
 Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – Taršos leidimų taisyklės) tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. Šiose taisyklėse nustatyta paraiškos taršos leidimui gauti ar pakeisti rengimo, pateikimo, aplinkos ministro įgaliotos institucijos atliekamo gautos paraiškos viešinimo, nagrinėjimo, priėmimo, taršos leidimo projekto rengimo, taršos leidimo išdavimo, taršos leidimo sąlygų peržiūrėjimo, taršos leidimo pakeitimo ir galiojimo panaikinimo tvarka.
 
 
-Fizinis ar juridinis asmuo turi teisę eksploatuoti Taršos leidimų taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį taršos leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis) laikydamasis šių principų: imasi visų reikiamų taršos ir kvapų prevencijos priemonių; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis Atliekų tvarkymo įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti.
+Fizinis ar juridinis asmuo turi teisę eksploatuoti Taršos leidimų taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį taršos leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis) laikydamasis šių principų: imasi visų reikiamų taršos ir kvapų prevencijos priemonių; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti.
 
 
-Taršos leidimas gali turėti vieną ar kelias specialiąsias dalis, kuriose nustatomos įrenginio eksploatavimo aplinkos apsaugos sąlygos pagal konkretų Taršos leidimų taisyklėse nustatytą kriterijų, kurį atitinkančio įrenginio eksploatavimui privaloma turėti taršos leidimą. Taršos leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija. Sprendimas priimti paraišką taršos leidimui gauti ar pakeisti priimamas aplinkos ministro įgaliotai institucijai įvertinus gautą paraišką ir nustačius, kad ji atitinka Taršos leidimų taisyklėse nustatytus reikalavimus, paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi taršos leidimo sąlygoms nustatyti. Taršos leidimų taisyklėse nustatytais atvejais, tvarka ir terminais NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo jam priskirtas funkcijas kvapų valdymo srityje, derina paraiškas, pagal kompetenciją nustato ir peržiūri taršos leidime nurodytas kvapų valdymo sąlygas.
-TAR pastaba. 192 straipsnio 9 dalies 3 ir [[#^54be62ba090389128fdc360b|4 punktai]], 3 dalies nuostata dėl Nacionalinio visuomenės sveikatos centro prievolės derinti paraiškas ir pagal kompetenciją nustatyti ir peržiūrėti taršos leidime nurodytas kvapų valdymo sąlygas ir 11 [[#^4c240721fd2db236d8973c16|dalies 9 punkto]] nuostata dėl taršos leidimo sąlygų pažeidimų, susijusių su kvapų valdymu, įrenginiams, kuriuos eksploatuoti buvo išduotas taršos leidimas ar priimta paraiška taršos leidimui gauti iki šio įstatymo įsigaliojimo, taikomi nuo 2021 m. sausio 1 d.
+Taršos leidimas gali turėti vieną ar kelias specialiąsias dalis, kuriose nustatomos įrenginio eksploatavimo aplinkos apsaugos sąlygos pagal konkretų Taršos leidimų taisyklėse nustatytą kriterijų, kurį atitinkančio įrenginio eksploatavimui privaloma turėti taršos leidimą. Taršos leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija. Sprendimas priimti paraišką taršos leidimui gauti ar pakeisti priimamas aplinkos ministro įgaliotai institucijai įvertinus gautą paraišką ir nustačius, kad ji atitinka Taršos leidimų taisyklėse nustatytus reikalavimus, paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi taršos leidimo sąlygoms nustatyti. Taršos leidimų taisyklėse nustatytais atvejais, tvarka ir terminais NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] jam priskirtas funkcijas kvapų valdymo srityje, derina paraiškas, pagal kompetenciją nustato ir peržiūri taršos leidime nurodytas kvapų valdymo sąlygas.
+TAR pastaba. 192 straipsnio 9 dalies 3 ir 4 punktai, 3 dalies nuostata dėl Nacionalinio visuomenės sveikatos centro prievolės derinti paraiškas ir pagal kompetenciją nustatyti ir peržiūrėti taršos leidime nurodytas kvapų valdymo sąlygas ir 11 [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkto]] nuostata dėl taršos leidimo sąlygų pažeidimų, susijusių su kvapų valdymu, įrenginiams, kuriuos eksploatuoti buvo išduotas taršos leidimas ar priimta paraiška taršos leidimui gauti iki šio įstatymo įsigaliojimo, taikomi nuo 2021 m. sausio 1 d.
 
 
 Sprendimas priimti paraišką taršos leidimui gauti ar pakeisti arba nepriimti šios paraiškos priimamas per 15 darbo dienų nuo paraiškos gavimo dienos.
@@ -1422,37 +1427,37 @@ Sprendimas priimti paraišką taršos leidimui gauti ar pakeisti arba nepriimti 
 Sprendimas nepriimti paraiškos taršos leidimui gauti ar pakeisti priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) paraiška neatitinka Taršos leidimų taisyklėse nustatytų reikalavimų, paraiškoje pateikti ne visi ar netinkamai įforminti duomenys ir (ar) dokumentai arba paraiškoje ir (ar) kituose dokumentuose, naudojamuose nustatant taršos leidimo sąlygas, pateikta neteisinga informacija; ^7157a4090c24122577189958
+1) paraiška neatitinka Taršos leidimų taisyklėse nustatytų reikalavimų, paraiškoje pateikti ne visi ar netinkamai įforminti duomenys ir (ar) dokumentai arba paraiškoje ir (ar) kituose dokumentuose, naudojamuose nustatant taršos leidimo sąlygas, pateikta neteisinga informacija; ^s-2d3c1b01c62adb8a683917fd
 
 
-2) anksčiau išduoto taršos leidimo galiojimas buvo panaikintas šio straipsnio vienuoliktosios dalies 5 ar [[#^1d07ce0b2a54b02b02a49ed1|8 punktuose]] nurodytais atvejais ir nepašalintos priežastys, lėmusios taršos leidimo galiojimo panaikinimą; ^e9a05bd18dfec36f30996a67
+2) anksčiau išduoto taršos leidimo galiojimas buvo panaikintas šio straipsnio vienuoliktosios dalies 5 ar 8 punktuose nurodytais atvejais ir nepašalintos priežastys, lėmusios taršos leidimo galiojimo panaikinimą; ^s-1d0e7a7205c283d7d11b40c1
 
 
-3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas; ^a846b3d99d21e4fec116090a
+3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas; ^s-09450bfd4269ea7e7f1983dc
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, arba ši išvada ar sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^6ad436e8a13563ba7f674b1e
+4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, arba ši išvada ar sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^s-d7bfea3de72eaa85241cd253
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-5) paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais; ^fbfdc7e8357966f0f26a85ad
+5) paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais; ^s-c7be678a05ae097463feda55
 
 
-6) paraiška pateikta dėl įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimo arba įrenginio pakeitimo, nurodyto šio straipsnio aštuntojoje dalyje, jeigu Aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad įrenginys (jo dalis, keli įrenginiai ar jų dalys) jau eksploatuojamas ar įrenginio pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas arba įrenginyje (jo dalyje, keliuose įrenginiuose ar jų dalyse), dėl kurio pateikta paraiška, Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka nustatyti pažeidimai nenutraukti ir (ar) nepašalinti pažeidimų padariniai; ^aa3ccc3fb2d6ec3628fcf60f
+6) paraiška pateikta dėl įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimo arba įrenginio pakeitimo, nurodyto šio straipsnio aštuntojoje dalyje, jeigu [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nurodyta tvarka nustatyta, kad įrenginys (jo dalis, keli įrenginiai ar jų dalys) jau eksploatuojamas ar įrenginio pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas arba įrenginyje (jo dalyje, keliuose įrenginiuose ar jų dalyse), dėl kurio pateikta paraiška, [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka nustatyti pažeidimai nenutraukti ir (ar) nepašalinti pažeidimų padariniai; ^s-1a6420ec86901ad2836e93f3
 
 
-7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią įgyvendinimo priemonės; ^fc4da7d74465b2f01f3a2c48
+7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią įgyvendinimo priemonės; ^s-493745f3c781f4ebc7f5e789
 Straipsnio punkto pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 
-8) fizinis asmuo paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas taršos leidimas šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkte]] nurodytu pagrindu ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos arba juridinio asmens vadovas paraiškos pateikimo metu yra ar buvo vadovas juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, kuriam jo vadovavimo metu buvo panaikintas taršos leidimo galiojimas šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkte]] nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos. ^ed11644901d7b8207ab252d0
+8) fizinis asmuo paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas taršos leidimas šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkte]] nurodytu pagrindu ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos arba juridinio asmens vadovas paraiškos pateikimo metu yra ar buvo vadovas juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, kuriam jo vadovavimo metu buvo panaikintas taršos leidimo galiojimas šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkte]] nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos. ^s-4732498d800683671b2e04cb
 
 
 Sprendimą išduoti ar pakeisti taršos leidimą arba sprendimą neišduoti ar nekeisti taršos leidimo aplinkos ministro įgaliota institucija privalo priimti ne vėliau kaip per 20 darbo dienų nuo sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo dienos.
@@ -1461,58 +1466,58 @@ Sprendimą išduoti ar pakeisti taršos leidimą arba sprendimą neišduoti ar n
 Sprendimas neišduoti ar nekeisti taršos leidimo priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo nustatoma, kad paraiškoje taršos leidimui gauti ar pakeisti ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal Taršos leidimų taisykles norint gauti ar pakeisti taršos leidimą, buvo pateikta neteisinga informacija, kuria remiantis turėtų būti nustatomos taršos leidimo sąlygos; ^32d777b073ec7ca13be9ed6f
+1) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo nustatoma, kad paraiškoje taršos leidimui gauti ar pakeisti ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal Taršos leidimų taisykles norint gauti ar pakeisti taršos leidimą, buvo pateikta neteisinga informacija, kuria remiantis turėtų būti nustatomos taršos leidimo sąlygos; ^s-c98b470bdac3c1c1f3910c00
 
 
-2) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas; ^b10e48348ff7f0143026e437
+2) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas; ^s-3815d72d63252e4afdf77a4a
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^fc18b90dfd72ade5edb174b5
+3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai; ^s-530e9ccf23b8241c958be031
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-4) po sprendimo priimti paraišką taršos leidimui gauti priėmimo paaiškėja, kad paraiška taršos leidimui gauti pateikta ūkinei veiklai, kuri uždrausta įstatymais, vykdyti; ^7cf77a72ca06e2102fb44d5f
+4) po sprendimo priimti paraišką taršos leidimui gauti priėmimo paaiškėja, kad paraiška taršos leidimui gauti pateikta ūkinei veiklai, kuri uždrausta įstatymais, vykdyti; ^s-18c59139a262c6c87e66c1a7
 
 
-5) po sprendimo priimti paraišką taršos leidimui gauti priėmimo, kai paraiška taršos leidimui gauti pateikta dėl naujo įrenginio eksploatavimo arba įrenginio pakeitimo, nurodyto šio straipsnio aštuntojoje dalyje, paaiškėja, kad Aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad ūkinė veikla jau vykdoma ar ūkinės veiklos pakeitimas atliktas neteisėtai ir pažeidimas nepašalintas. ^c38b52ddc2728f4e82406f6f
+5) po sprendimo priimti paraišką taršos leidimui gauti priėmimo, kai paraiška taršos leidimui gauti pateikta dėl naujo įrenginio eksploatavimo arba įrenginio pakeitimo, nurodyto šio straipsnio aštuntojoje dalyje, paaiškėja, kad [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nurodyta tvarka nustatyta, kad ūkinė veikla jau vykdoma ar ūkinės veiklos pakeitimas atliktas neteisėtai ir pažeidimas nepašalintas. ^s-4c406ca3d12b5427ef249998
 
 
-Fizinis ar juridinis asmuo, norėdamas pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių), kuriam išduotas taršos leidimas, pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba kai dėl pakeitimo ar išplėtimo atsiranda prievolė turėti kitą taršos leidimo specialiąją dalį (dalis), turi Taršos leidimų taisyklėse nustatyta tvarka kreiptis dėl taršos leidimo pakeitimo. Tam, kad taršos leidime būtų nustatytos su šioje dalyje nurodytu įrenginio pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo Taršos leidimų taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Jeigu planuojamas kitoks įrenginio pakeitimas, negu nurodyta šioje dalyje, Taršos taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar jo išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą.
+Fizinis ar juridinis asmuo, norėdamas pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių), kuriam išduotas taršos leidimas, pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme]], arba kai dėl pakeitimo ar išplėtimo atsiranda prievolė turėti kitą taršos leidimo specialiąją dalį (dalis), turi Taršos leidimų taisyklėse nustatyta tvarka kreiptis dėl taršos leidimo pakeitimo. Tam, kad taršos leidime būtų nustatytos su šioje dalyje nurodytu įrenginio pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo Taršos leidimų taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Jeigu planuojamas kitoks įrenginio pakeitimas, negu nurodyta šioje dalyje, Taršos taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar jo išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą.
 
 
-Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir taršos leidimo sąlygų atitiktį teisės aktų reikalavimams, Taršos leidimų taisyklėse nustatyta tvarka peržiūri taršos leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų taršos leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad taršos leidimo sąlygos dėl šios dalies 3 ir [[#^54be62ba090389128fdc360b|4 punktuose]] nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti taršos leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir [[#^76027fb460c7f434c9fecbb6|5 punktuose]] nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. Taršos leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
+Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir taršos leidimo sąlygų atitiktį teisės aktų reikalavimams, Taršos leidimų taisyklėse nustatyta tvarka peržiūri taršos leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų taršos leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad taršos leidimo sąlygos dėl šios dalies 3 ir 4 punktuose nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti taršos leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir 5 punktuose nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. Taršos leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
 
 
-1) fizinio ar juridinio asmens prašymu, jeigu dėl ūkinės veiklos pakeitimo atsiranda prievolė arba nelieka prievolės turėti atitinkamą taršos leidimo specialiąją dalį (dalis); ^d133d3165166e39d1d6f757f
+1) fizinio ar juridinio asmens prašymu, jeigu dėl ūkinės veiklos pakeitimo atsiranda prievolė arba nelieka prievolės turėti atitinkamą taršos leidimo specialiąją dalį (dalis); ^s-3e32cf1f613c07ca8a349b8e
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-2) aplinkos ministro įgaliota institucija Taršos leidimų taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos taršos leidimo sąlygos; ^ede3baa16478f757f23c6813
+2) aplinkos ministro įgaliota institucija Taršos leidimų taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos taršos leidimo sąlygos; ^s-8420c6c6d300d230f7f4099e
 
 
-3) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo jam priskirtas funkcijas kvapų valdymo srityje, nustato, kad, pasikeitus arba įsigaliojus naujiems visuomenės sveikatos priežiūrą reguliuojantiems teisės aktams, taršos leidime turi būti nustatytos griežtesnės ar papildomos kvapų valdymo sąlygos arba kad turi būti taikomos kitos kvapų sumažinimo priemonės; ^c502db259f959e61077ef665
+3) NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] jam priskirtas funkcijas kvapų valdymo srityje, nustato, kad, pasikeitus arba įsigaliojus naujiems visuomenės sveikatos priežiūrą reguliuojantiems teisės aktams, taršos leidime turi būti nustatytos griežtesnės ar papildomos kvapų valdymo sąlygos arba kad turi būti taikomos kitos kvapų sumažinimo priemonės; ^s-42b9eb3f0af103c6c88ffc06
 
 
-4) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo priskirtas funkcijas kvapų valdymo srityje, per 12 mėnesių 2 kartus nustato, kad fizinis ar juridinis asmuo pažeidė taršos leidimo sąlygas, susijusias su kvapų valdymu, ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas taršos leidimo sąlygas; ^8bbf976e3c22026bda349d61
+4) NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] priskirtas funkcijas kvapų valdymo srityje, per 12 mėnesių 2 kartus nustato, kad fizinis ar juridinis asmuo pažeidė taršos leidimo sąlygas, susijusias su kvapų valdymu, ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas taršos leidimo sąlygas; ^s-6b3b3725b149e899d1e7b3ab
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-5) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus pažeidus taršos leidimo sąlygas, susijusias su neleistinu teršalų išmetimu, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas taršos leidimo sąlygas; ^28e5b338cb156c7672fc0d89
+5) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus pažeidus taršos leidimo sąlygas, susijusias su neleistinu teršalų išmetimu, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas taršos leidimo sąlygas; ^s-b1e7847f8cc6bdeb10cdd4dc
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-6) aplinkos monitoringo ar aplinkos apsaugos valstybinės kontrolės rezultatai rodo, kad įrenginio leistina tarša daro reikšmingą neigiamą poveikį aplinkai, todėl būtina taršos leidime įrašytas išmetamų teršalų ribines vertes pakeisti ar į taršos leidimą įrašyti naujas ribines vertes. ^30f0b533bf3377ce77c8766c
+6) aplinkos monitoringo ar aplinkos apsaugos valstybinės kontrolės rezultatai rodo, kad įrenginio leistina tarša daro reikšmingą neigiamą poveikį aplinkai, todėl būtina taršos leidime įrašytas išmetamų teršalų ribines vertes pakeisti ar į taršos leidimą įrašyti naujas ribines vertes. ^s-6557d4c2b72b9c97b3688c8c
 
 
 Jeigu aplinkos ministro įgaliota institucija, atlikusi taršos leidimo sąlygų peržiūrą, nenustato bent vienos šio straipsnio devintojoje dalyje nustatytos taršos leidimo keitimo sąlygos, Taršos leidimų taisyklėse nustatyta tvarka ji priima sprendimą nekeisti taršos leidimo. Šis sprendimas laikomas neatsiejama taršos leidimo dalimi.
@@ -1521,60 +1526,60 @@ Jeigu aplinkos ministro įgaliota institucija, atlikusi taršos leidimo sąlygų
 Sprendimas panaikinti taršos leidimo galiojimą priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) taršos leidimo turėtojo prašymu; ^e98ebcbd94719b5db0f9b2db
+1) taršos leidimo turėtojo prašymu; ^s-c1d3756ed8b4a5364de776cd
 
 
-2) aplinkos ministro įgaliotai institucijai šio straipsnio devintojoje dalyje nustatyta tvarka priėmus sprendimą dėl prievolės pakeisti taršos leidimą, taršos leidimo turėtojas per šiame sprendime nustatytą terminą Taršos leidimų taisyklėse nustatyta tvarka nepateikia šiame sprendime nurodytus reikalavimus atitinkančios paraiškos dėl taršos leidimo pakeitimo; ^51fff6494ff12fe84520c900
+2) aplinkos ministro įgaliotai institucijai šio straipsnio devintojoje dalyje nustatyta tvarka priėmus sprendimą dėl prievolės pakeisti taršos leidimą, taršos leidimo turėtojas per šiame sprendime nustatytą terminą Taršos leidimų taisyklėse nustatyta tvarka nepateikia šiame sprendime nurodytus reikalavimus atitinkančios paraiškos dėl taršos leidimo pakeitimo; ^s-5e938641c630fb031165f19b
 
 
-3) jeigu šio straipsnio penktosios [[#^20ccc16a2c73185f0f92a9f6|dalies 1 punkte]] nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti paraiškos taršos leidimo turėtojas per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikia pataisytos paraiškos, kai to reikia dėl šio straipsnio devintosios dalies 2, 3 ir [[#^fc73ed4d493aa8e30b7e3907|6 punktuose]] nurodytų sąlygų; ^00bad54ecbb97b34c7ad8f42
+3) jeigu šio straipsnio penktosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti paraiškos taršos leidimo turėtojas per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikia pataisytos paraiškos, kai to reikia dėl šio straipsnio devintosios dalies 2, 3 ir 6 punktuose nurodytų sąlygų; ^s-a3f1310d97fa16d74bab5fd3
 
 
-4) jeigu šio straipsnio penktosios [[#^20ccc16a2c73185f0f92a9f6|dalies 1 punkte]] nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti paraiškos taršos leidimo turėtojas per 20 darbo dienų nepateikia pataisytos paraiškos, kai to reikia dėl šio straipsnio devintosios dalies 4 ir [[#^76027fb460c7f434c9fecbb6|5 punktuose]] nurodytų sąlygų; ^54be62ba090389128fdc360b
+4) jeigu šio straipsnio penktosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti paraiškos taršos leidimo turėtojas per 20 darbo dienų nepateikia pataisytos paraiškos, kai to reikia dėl šio straipsnio devintosios dalies 4 ir 5 punktuose nurodytų sąlygų; ^s-bef41aff33b552aeb3ace78c
 
 
-5) teisėtomis priemonėmis įrodyta, kad taršos leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos taršos leidimo sąlygos; ^76027fb460c7f434c9fecbb6
+5) teisėtomis priemonėmis įrodyta, kad taršos leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos taršos leidimo sąlygos; ^s-efdb849843e6036d7ff82807
 
 
-6) taršos leidimą turintis juridinis asmuo likviduotas, taršos leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo; ^fc73ed4d493aa8e30b7e3907
+6) taršos leidimą turintis juridinis asmuo likviduotas, taršos leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo; ^s-7df8d9cef847f5db6409b20f
 
 
-7) jeigu įvykus juridinio asmens pertvarkymui arba reorganizavimui juridinio asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo; ^dd3f75c43fe1e5db5861f6bc
+7) jeigu įvykus juridinio asmens pertvarkymui arba reorganizavimui juridinio asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo; ^s-881c79f508d843bddfb9a1e6
 
 
-8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, jeigu pagal šią išvadą ar pagal šį sprendimą išduotas taršos leidimas; ^1d07ce0b2a54b02b02a49ed1
+8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, jeigu pagal šią išvadą ar pagal šį sprendimą išduotas taršos leidimas; ^s-2983db80ea1c8c738168cdf1
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-9) Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, per 12 mėnesių 3 kartus nustatė, kad pažeista viena ar kelios iš šių taršos leidimo sąlygų: viršyti taršos leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos) normatyvai; viršytas didžiausias vienu metu leidžiamas laikyti atliekų kiekis; viršytas leistinas atliekų apdorojimo įrenginio pajėgumas; viršytas didžiausias leidžiamas šalinti atliekų kiekis; tvarkomos taršos leidime nenurodytos atliekos; už teritorijos, kurioje vykdoma taršos leidime nurodyta ūkinė veikla, ribų, nesilaikant šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] antrosios dalies nuostatų dėl šios veiklos, pateko šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] antrojoje dalyje nurodytų kietųjų medžiagų arba jeigu bet kuris šiame punkte nurodytas taršos leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu nurodyta šiame punkte. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs, kad pažeista viena ar kelios šiame punkte nurodytos taršos leidimo sąlygos, Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duoda privalomąjį nurodymą pažeidimą pašalinti, kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma. Privalomasis nurodymas skundžiamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka; ^4c240721fd2db236d8973c16
+9) Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatytas funkcijas, per 12 mėnesių 3 kartus nustatė, kad pažeista viena ar kelios iš šių taršos leidimo sąlygų: viršyti taršos leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos) normatyvai; viršytas didžiausias vienu metu leidžiamas laikyti atliekų kiekis; viršytas leistinas atliekų apdorojimo įrenginio pajėgumas; viršytas didžiausias leidžiamas šalinti atliekų kiekis; tvarkomos taršos leidime nenurodytos atliekos; už teritorijos, kurioje vykdoma taršos leidime nurodyta ūkinė veikla, ribų, nesilaikant šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] antrosios dalies nuostatų dėl šios veiklos, pateko šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] antrojoje dalyje nurodytų kietųjų medžiagų arba jeigu bet kuris šiame punkte nurodytas taršos leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu nurodyta šiame punkte. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs, kad pažeista viena ar kelios šiame punkte nurodytos taršos leidimo sąlygos, [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duoda privalomąjį nurodymą pažeidimą pašalinti, kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma. Privalomasis nurodymas skundžiamas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka; ^s-1acf9d923d0f8b4a0eae1e1b
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-10) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo priskirtas funkcijas kvapų valdymo srityje, per 12 mėnesių 3 kartus nustatė taršos leidime nurodytų kvapų valdymo sąlygų pažeidimus; ^f4df347f81bbd8a08f74d4ce
+10) NVS centras, vykdydamas [[latest/TAR.DD80CF948782|Visuomenės sveikatos priežiūros įstatymo]] priskirtas funkcijas kvapų valdymo srityje, per 12 mėnesių 3 kartus nustatė taršos leidime nurodytų kvapų valdymo sąlygų pažeidimus; ^s-46c50b32b3a789e9337d6ebf
 Papildyta straipsnio punktu:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-11) jeigu atranka dėl poveikio aplinkai vertinimo neatlikta per šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] trečiojoje dalyje nurodytą terminą, arba poveikio aplinkai vertinimas neatliktas per šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] penktojoje dalyje nurodytą terminą, arba atliekant poveikio aplinkai vertinimą šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] ketvirtojoje dalyje nurodytais atvejais priimamas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai; ^a23660477665ecd8c54179f3
+11) jeigu atranka dėl poveikio aplinkai vertinimo neatlikta per šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] trečiojoje dalyje nurodytą terminą, arba poveikio aplinkai vertinimas neatliktas per šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] penktojoje dalyje nurodytą terminą, arba atliekant poveikio aplinkai vertinimą šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] ketvirtojoje dalyje nurodytais atvejais priimamas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai; ^s-99547f988b41b62f86061619
 Papildyta straipsnio punktu:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-12) neįvykdytas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duotas privalomasis nurodymas sustabdyti įrenginio ar jo dalies eksploatavimą arba sustabdyti veiklą; ^84bdbf74b668d01e3bf9bbcd
+12) neįvykdytas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duotas privalomasis nurodymas sustabdyti įrenginio ar jo dalies eksploatavimą arba sustabdyti veiklą; ^s-79c3194063e929f4e981e2ab
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-13) taršos leidimo turėtojas nebeturi teisės valdyti ar naudoti taršos leidime nurodytai ūkinei veiklai naudojamą nekilnojamąjį turtą ar jo dalį ir (ar) įrenginį ar jo dalį; ^43fbbe8e03f91d8b3aa29113
+13) taršos leidimo turėtojas nebeturi teisės valdyti ar naudoti taršos leidime nurodytai ūkinei veiklai naudojamą nekilnojamąjį turtą ar jo dalį ir (ar) įrenginį ar jo dalį; ^s-05216126abdf56dbca97640c
 Papildyta straipsnio punktu:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Straipsnio punkto numeracijos pakeitimas:
@@ -1582,7 +1587,7 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-14) neįvykdytas aplinkos ministro įgaliotos institucijos reikalavimas šios institucijos vadovo nustatyta tvarka per 20 darbo dienų nuo reikalavimo pateikimo dienos pateikti informaciją, reikalingą Aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 19, 191, 192, [[#55 straipsnis. Juridinių asmenų atsakomybė už ūkinės veiklos vykdymą, ūkinės veiklos objektų ar įrenginių eksploatavimą pažeidžiant šio įstatymo 15, 151, 19, 191, 192 ir 193 straipsnių reikalavimus|55 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo [[#193 straipsnis. Įrenginių registravimas|193 straipsniu]] įstatymo Nr. XIII-704 9 straipsnio 4 dalyje nustatytos prievolės Aplinkos apsaugos įstatymo [[#192 straipsnis. Taršos leidimas|192 straipsnio]] antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimui iki 2014 m. liepos 1 d. išduotus taršos integruotos prevencijos ir kontrolės leidimus pakeisti Taršos leidimų taisyklių reikalavimus atitinkančiu taršos leidimu, turinčiu atitinkamas specialiąsias dalis. Šio punkto nuostatos netaikomos, jeigu šiuo pagrindu priimtas sprendimas panaikinti taršos leidimo galiojimą galėtų sukelti visuomenės interesams didesnę žalą (sutrikdyti viešąjį vandens tiekimą, nuotekų tvarkymą, centralizuotą šilumos ar elektros energijos tiekimą, mišrių komunalinių atliekų tvarkymą), negu tęsiamos ūkinės veiklos daromas poveikis. ^47ab0730b3c964ae0a2ac60b
+14) neįvykdytas aplinkos ministro įgaliotos institucijos reikalavimas šios institucijos vadovo nustatyta tvarka per 20 darbo dienų nuo reikalavimo pateikimo dienos pateikti informaciją, reikalingą Aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 19, 191, 192, [[#^s-b9aeaea636331003ca19243d|55 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo [[#^s-c45ee0c4f03a3f387a147be0|193 straipsniu]] [[latest/748c64d0c93f11e7910a89ac20768b0f|įstatymo Nr. XIII-704]] 9 straipsnio 4 dalyje nustatytos prievolės [[#^s-fbb32df217a4ecaef2c3ba0c|Aplinkos apsaugos įstatymo 192 straipsnio]] antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimui iki 2014 m. liepos 1 d. išduotus taršos integruotos prevencijos ir kontrolės leidimus pakeisti Taršos leidimų taisyklių reikalavimus atitinkančiu taršos leidimu, turinčiu atitinkamas specialiąsias dalis. Šio punkto nuostatos netaikomos, jeigu šiuo pagrindu priimtas sprendimas panaikinti taršos leidimo galiojimą galėtų sukelti visuomenės interesams didesnę žalą (sutrikdyti viešąjį vandens tiekimą, nuotekų tvarkymą, centralizuotą šilumos ar elektros energijos tiekimą, mišrių komunalinių atliekų tvarkymą), negu tęsiamos ūkinės veiklos daromas poveikis. ^s-a1c95c20014797cd6c253534
 Papildyta straipsnio punktu:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Straipsnio punkto numeracijos pakeitimas:
@@ -1590,16 +1595,16 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkto]] nuostatos netaikomos, jeigu:
+Šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkto]] nuostatos netaikomos, jeigu:
 
 
-1) vykdant aplinkos apsaugos valstybinę kontrolę, nustatyta, kad šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkte]] nurodyti pažeidimai laikytini mažareikšmiais pagal aplinkos ministro patvirtintus mažareikšmių pažeidimų kriterijus; ^20ccc16a2c73185f0f92a9f6
+1) vykdant aplinkos apsaugos valstybinę kontrolę, nustatyta, kad šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkte]] nurodyti pažeidimai laikytini mažareikšmiais pagal aplinkos ministro patvirtintus mažareikšmių pažeidimų kriterijus; ^s-309660d2f78f882032c1d1a4
 
 
-2) vykdydamas šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] šeštosios dalies reikalavimus ūkio subjektas pranešė Aplinkos apsaugos departamentui prie Aplinkos ministerijos apie taršos leidimo sąlygų, išvardytų šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkte]], pažeidimus, skubiai ėmėsi priemonių per trumpiausią įmanomą laikotarpį jiems pašalinti (kai, atsižvelgiant į pažeidimų pobūdį, juos pašalinti įmanoma) ir jie pašalinti; taip pat per Aplinkos apsaugos departamento prie Aplinkos ministerijos nurodytą terminą ėmėsi kitų papildomų priemonių, kurias taikyti nurodė Aplinkos apsaugos departamentas prie Aplinkos ministerijos, siekdamas, kad kuo greičiau vėl būtų laikomasi leidimo sąlygų. Pažeidimas, apie kurį ūkio subjektas pranešė ir kurį pašalino (kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma) vadovaudamasis šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] šeštąja dalimi, nelaikomas vienu iš šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkte]] nurodytų pažeidimų, padarytų per 12 mėnesių; ^2804add34c78b35a84f4fcc2
+2) vykdydamas šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] šeštosios dalies reikalavimus ūkio subjektas pranešė Aplinkos apsaugos departamentui prie Aplinkos ministerijos apie taršos leidimo sąlygų, išvardytų šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkte]], pažeidimus, skubiai ėmėsi priemonių per trumpiausią įmanomą laikotarpį jiems pašalinti (kai, atsižvelgiant į pažeidimų pobūdį, juos pašalinti įmanoma) ir jie pašalinti; taip pat per Aplinkos apsaugos departamento prie Aplinkos ministerijos nurodytą terminą ėmėsi kitų papildomų priemonių, kurias taikyti nurodė Aplinkos apsaugos departamentas prie Aplinkos ministerijos, siekdamas, kad kuo greičiau vėl būtų laikomasi leidimo sąlygų. Pažeidimas, apie kurį ūkio subjektas pranešė ir kurį pašalino (kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma) vadovaudamasis šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] šeštąja dalimi, nelaikomas vienu iš šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkte]] nurodytų pažeidimų, padarytų per 12 mėnesių; ^s-97d74ed303e3f309d405714c
 
 
-3) vykdant aplinkos apsaugos valstybinę kontrolę nustatyta, kad šio straipsnio vienuoliktosios [[#^4c240721fd2db236d8973c16|dalies 9 punkte]] nurodyti pažeidimai padaryti anksčiau nei prieš 3 metus nuo šių pažeidimų nustatymo dienos. ^84ab5e5c4730b35b25f8be77
+3) vykdant aplinkos apsaugos valstybinę kontrolę nustatyta, kad šio straipsnio vienuoliktosios [[#^s-1acf9d923d0f8b4a0eae1e1b|dalies 9 punkte]] nurodyti pažeidimai padaryti anksčiau nei prieš 3 metus nuo šių pažeidimų nustatymo dienos. ^s-69ff3504fa0f1f18404cf4bb
 
 
 Papildyta straipsnio dalimi:
@@ -1607,13 +1612,13 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 9 ir [[#^f4df347f81bbd8a08f74d4ce|10 punktų]] nuostatos netaikomos, jeigu šiuose punktuose nurodytais atvejais priimtas sprendimas panaikinti taršos leidimo galiojimą galėtų sukelti didesnę žalą visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu dėl taršos leidimo galiojimo panaikinimo būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, naudojimas.
+Šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 9 ir [[#^s-46c50b32b3a789e9337d6ebf|10 punktų]] nuostatos netaikomos, jeigu šiuose punktuose nurodytais atvejais priimtas sprendimas panaikinti taršos leidimo galiojimą galėtų sukelti didesnę žalą visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu dėl taršos leidimo galiojimo panaikinimo būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo]] 4 priede, naudojimas.
 Papildyta straipsnio dalimi:
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-Aplinkos ministro nustatyta tvarka nustačius šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 8, 12, 13 ir [[#^47ab0730b3c964ae0a2ac60b|14 punktuose]] nurodytas aplinkybes, fizinis ar juridinis asmuo, prieš priimant sprendimą panaikinti taršos leidimo galiojimą, per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą taršos leidimo galiojimo panaikinimą. Šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 12, 13 ir [[#^47ab0730b3c964ae0a2ac60b|14 punktuose]] nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio vienuoliktosios [[#^1d07ce0b2a54b02b02a49ed1|dalies 8 punkte]] nurodytu atveju – 6 mėnesių terminas nuo atitinkamos aplinkybės nustatymo dienos, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, taršos leidimo galiojimas nepanaikinamas. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumų nepašalina, šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 8, 12, 13 ir [[#^47ab0730b3c964ae0a2ac60b|14 punktuose]] nurodytais atvejais taršos leidimo galiojimas panaikinamas per 3 darbo dienas nuo įspėjimo termino pabaigos. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio vienuoliktosios dalies 1, 5, 6, 9 ir [[#^f4df347f81bbd8a08f74d4ce|10 punktuose]] nurodytas aplinkybes, taršos leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti taršos leidimo galiojimą per 3 darbo dienas nuo jo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai taršos leidimo galiojimas panaikintas nustačius šio straipsnio vienuoliktosios [[#^fc73ed4d493aa8e30b7e3907|dalies 6 punkte]] nurodytas aplinkybes, ir nurodomos taršos leidimo galiojimo panaikinimo priežastys. Panaikinus taršos leidimo galiojimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.
+Aplinkos ministro nustatyta tvarka nustačius šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 8, 12, 13 ir [[#^s-a1c95c20014797cd6c253534|14 punktuose]] nurodytas aplinkybes, fizinis ar juridinis asmuo, prieš priimant sprendimą panaikinti taršos leidimo galiojimą, per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą taršos leidimo galiojimo panaikinimą. Šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 12, 13 ir [[#^s-a1c95c20014797cd6c253534|14 punktuose]] nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio vienuoliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas nuo atitinkamos aplinkybės nustatymo dienos, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, taršos leidimo galiojimas nepanaikinamas. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumų nepašalina, šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 8, 12, 13 ir [[#^s-a1c95c20014797cd6c253534|14 punktuose]] nurodytais atvejais taršos leidimo galiojimas panaikinamas per 3 darbo dienas nuo įspėjimo termino pabaigos. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio vienuoliktosios dalies 1, 5, 6, 9 ir [[#^s-46c50b32b3a789e9337d6ebf|10 punktuose]] nurodytas aplinkybes, taršos leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti taršos leidimo galiojimą per 3 darbo dienas nuo jo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai taršos leidimo galiojimas panaikintas nustačius šio straipsnio vienuoliktosios dalies 6 punkte nurodytas aplinkybes, ir nurodomos taršos leidimo galiojimo panaikinimo priežastys. Panaikinus taršos leidimo galiojimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
@@ -1628,19 +1633,19 @@ Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 
 
-### 193 straipsnis. Įrenginių registravimas
+### 193 straipsnis. Įrenginių registravimas ^s-c45ee0c4f03a3f387a147be0
 
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
 
 
-Įrenginiai, kuriems eksploatuoti nereikia gauti šio įstatymo [[#^5663293d9043fa00c805c008|1 straipsnio 23 punkte]] nurodyto taršos integruotos prevencijos ir kontrolės leidimo arba šio įstatymo [[#^c2c94b5679933d0367ed17aa|1 straipsnio 24 punkte]] nurodyto taršos leidimo, turi būti įregistruoti.
+Įrenginiai, kuriems eksploatuoti nereikia gauti šio įstatymo [[#^s-339190652fee23a749e6d786|1 straipsnio 23 punkte]] nurodyto taršos integruotos prevencijos ir kontrolės leidimo arba šio įstatymo [[#^s-83258d2fa9aa97fcecba7579|1 straipsnio 24 punkte]] nurodyto taršos leidimo, turi būti įregistruoti.
 
 
 Įrenginius įregistruoja, registracijos duomenis tikslina ir išregistruoja aplinkos ministro įgaliota institucija.
 
 
-Įrenginiui įregistruoti fizinis ar juridinis asmuo privalo aplinkos ministro įgaliotai institucijai pateikti LOJ taisyklėse nurodytus įrenginio registracijos duomenis. Fizinis ar juridinis asmuo neturi teisės teikti įgaliotai institucijai įrenginio registracijos duomenų, jeigu įrenginys išregistruotas šio straipsnio devintosios dalies 2, 6, 7 ir [[#^d2dffc47450c4b14d7c00ae7|9 punktuose]] nurodytais pagrindais ir nepašalintos priežastys, lėmusios įrenginio išregistravimą, arba nepraėjo dveji metai nuo įrenginio išregistravimo šio straipsnio devintosios [[#^b181adf2eae6801dccd28865|dalies 8 punkte]] nurodytu pagrindu dienos. Draudžiama eksploatuoti išregistruotą įrenginį.
+Įrenginiui įregistruoti fizinis ar juridinis asmuo privalo aplinkos ministro įgaliotai institucijai pateikti LOJ taisyklėse nurodytus įrenginio registracijos duomenis. Fizinis ar juridinis asmuo neturi teisės teikti įgaliotai institucijai įrenginio registracijos duomenų, jeigu įrenginys išregistruotas šio straipsnio devintosios dalies 2, 6, 7 ir [[#^s-8d2977cd1ed08e0fdc83be0c|9 punktuose]] nurodytais pagrindais ir nepašalintos priežastys, lėmusios įrenginio išregistravimą, arba nepraėjo dveji metai nuo įrenginio išregistravimo šio straipsnio devintosios [[#^s-03a22419dba469173e051b14|dalies 8 punkte]] nurodytu pagrindu dienos. Draudžiama eksploatuoti išregistruotą įrenginį.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
@@ -1655,22 +1660,22 @@ Aplinkos ministro įgaliota institucija savo interneto svetainėje skelbia įreg
 Įrenginio registracijos duomenys turi būti tikslinami, kai yra bent viena iš šių sąlygų:
 
 
-1) planuojamas įrenginio esminis pakeitimas (t. y. planuojama padidinti įrenginio suvartojamų organinių tirpiklių kiekį tiek, kad dėl to išmetamų lakiųjų organinių junginių kiekis padidėtų daugiau kaip LOJ taisyklėse nustatytas procentas) ir (ar) planuojama pakeisti šiame įrenginyje vykdomą veiklos rūšį, nurodytą LOJ taisyklėse; ^36e691e48427fdd5195e0f6b
+1) planuojamas įrenginio esminis pakeitimas (t. y. planuojama padidinti įrenginio suvartojamų organinių tirpiklių kiekį tiek, kad dėl to išmetamų lakiųjų organinių junginių kiekis padidėtų daugiau kaip LOJ taisyklėse nustatytas procentas) ir (ar) planuojama pakeisti šiame įrenginyje vykdomą veiklos rūšį, nurodytą LOJ taisyklėse; ^s-0859f4247cb7c4b8c02b7391
 
 
-2) LOJ taisyklėse nustatyta tvarka atlikus įrenginio eksploatavimo atitikties LOJ taisyklių reikalavimams įvertinimą, nustatoma, kad reikia laikytis griežtesnių ar papildomų įrenginio eksploatavimo sąlygų arba užtikrinti naujo ar pakeisto aplinkos apsaugos normatyvo ar aplinkos apsaugos standarto laikymąsi ir (ar) atitiktį naujai ar pakeistai aplinkos kokybės normai; ^ce55be407db5b0eb7a9e5b5b
+2) LOJ taisyklėse nustatyta tvarka atlikus įrenginio eksploatavimo atitikties LOJ taisyklių reikalavimams įvertinimą, nustatoma, kad reikia laikytis griežtesnių ar papildomų įrenginio eksploatavimo sąlygų arba užtikrinti naujo ar pakeisto aplinkos apsaugos normatyvo ar aplinkos apsaugos standarto laikymąsi ir (ar) atitiktį naujai ar pakeistai aplinkos kokybės normai; ^s-9a5bb958130b3aeea3160183
 
 
-3) nustatoma, kad fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys arba pateikti patikslinti įrenginio registracijos duomenys netikslūs, neišsamūs (ne visi) ar klaidingi, tačiau šie trūkumai nėra tokie, dėl kurių būtų pripažinta, kad įrenginys neprivalo būti įregistruotas; ^4d583251223ac2a675a6f30a
+3) nustatoma, kad fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys arba pateikti patikslinti įrenginio registracijos duomenys netikslūs, neišsamūs (ne visi) ar klaidingi, tačiau šie trūkumai nėra tokie, dėl kurių būtų pripažinta, kad įrenginys neprivalo būti įregistruotas; ^s-0acf1a8745e987e881756427
 
 
-4) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus viršijus pagal LOJ taisyklių reikalavimus taikomas išmetamų lakiųjų organinių junginių ribines vertes, jeigu tokių pažeidimų prevencijai reikia sugriežtinti įrenginio eksploatavimo sąlygas. ^54f15d19528fec9ecda2ccac
+4) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus viršijus pagal LOJ taisyklių reikalavimus taikomas išmetamų lakiųjų organinių junginių ribines vertes, jeigu tokių pažeidimų prevencijai reikia sugriežtinti įrenginio eksploatavimo sąlygas. ^s-ec47d9fef1a5b2624f7dcbc3
 Papildyta straipsnio punktu:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes LOJ taisyklėse nustatyta tvarka nustato aplinkos ministro įgaliota institucija, ji raštu informuoja fizinį ar juridinį asmenį apie pareigą tikslinti įrenginio registracijos duomenis ir nustato protingą terminą, per kurį turi būti pateikti patikslinti duomenys. Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes nustato fizinis ar juridinis asmuo, jis privalo LOJ taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai patikslintus įrenginio registracijos duomenis. Patikslintų duomenų pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, šio straipsnio septintosios [[#^3a6ba2dafb8ba1099a93dc9e|dalies 4 punkte]] nurodytu atveju – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų.
+Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes LOJ taisyklėse nustatyta tvarka nustato aplinkos ministro įgaliota institucija, ji raštu informuoja fizinį ar juridinį asmenį apie pareigą tikslinti įrenginio registracijos duomenis ir nustato protingą terminą, per kurį turi būti pateikti patikslinti duomenys. Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes nustato fizinis ar juridinis asmuo, jis privalo LOJ taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai patikslintus įrenginio registracijos duomenis. Patikslintų duomenų pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, šio straipsnio septintosios dalies 4 punkte nurodytu atveju – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
@@ -1679,37 +1684,37 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Aplinkos ministro įgaliota institucija išregistruoja įrenginį, kai yra bent viena iš šių sąlygų:
 
 
-1) įrenginio registracijos duomenis pateikusio fizinio ar juridinio asmens prašymu, jeigu dėl veiklos pakeitimo nelieka įrenginio įregistravimo prievolės; ^ad84aa0363eb5133a08c919a
+1) įrenginio registracijos duomenis pateikusio fizinio ar juridinio asmens prašymu, jeigu dėl veiklos pakeitimo nelieka įrenginio įregistravimo prievolės; ^s-700fe35159c555d4d5ea8515
 
 
-2) neįvykdytas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duotas privalomasis nurodymas sustabdyti veiklą; ^9f750b4d341dce13440a2ffa
+2) neįvykdytas [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatyta tvarka duotas privalomasis nurodymas sustabdyti veiklą; ^s-d3e7355efb970a8f84293c3e
 
 
-3) įrenginio registracijos duomenis pateikęs juridinis asmuo likviduotas, įrenginio registracijos duomenis pateikęs fizinis asmuo mirė arba teismas jį pripažino neveiksniu arba ribotai veiksniu srityje, susijusioje su įrenginio eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo LOJ taisyklėse nustatyta tvarka nesikreipia dėl formalių įrenginio registracijos duomenų patikslinimo; ^3e9646c284edd0d2f691668c
+3) įrenginio registracijos duomenis pateikęs juridinis asmuo likviduotas, įrenginio registracijos duomenis pateikęs fizinis asmuo mirė arba teismas jį pripažino neveiksniu arba ribotai veiksniu srityje, susijusioje su įrenginio eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo LOJ taisyklėse nustatyta tvarka nesikreipia dėl formalių įrenginio registracijos duomenų patikslinimo; ^s-1cb9233b82555b0ab71448ec
 
 
-4) fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys ir (ar) patikslinti įrenginio registracijos duomenys yra tokie, dėl kurių įrenginys neprivalo būti įregistruotas; ^3a6ba2dafb8ba1099a93dc9e
+4) fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys ir (ar) patikslinti įrenginio registracijos duomenys yra tokie, dėl kurių įrenginys neprivalo būti įregistruotas; ^s-4c12bc0f50dddcebb957f9ac
 
 
-5) šio straipsnio aštuntojoje dalyje nurodytais atvejais fizinis ar juridinis asmuo per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikė patikslintų įrenginio registracijos duomenų; ^3001a68d3a5a4c3c1156150e
+5) šio straipsnio aštuntojoje dalyje nurodytais atvejais fizinis ar juridinis asmuo per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikė patikslintų įrenginio registracijos duomenų; ^s-510862e2dfa5e09e6e750042
 
 
-6) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi norint vykdyti veiklą įrenginyje, kuris turi būti įregistruotas; ^106edf799e124d2c078663d4
+6) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi norint vykdyti veiklą įrenginyje, kuris turi būti įregistruotas; ^s-92ad83cde5ff35bee2536d29
 
 
-7) vykdoma veikla neįgyvendinus sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią; ^4e5c92cb4e00c20667a05fdb
+7) vykdoma veikla neįgyvendinus sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią; ^s-be741e5de76d9f9136cfa318
 Straipsnio punkto pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 
-8) Aplinkos apsaugos departamentui prie Aplinkos ministerijos, vykdant Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, per 12 mėnesių 3 kartus nustačius, kad pagal LOJ taisyklių reikalavimus taikomos išmetamų LOJ ribinės vertės viršijamos ir (ar) nevykdomas išmetamų LOJ monitoringas, arba jeigu toks pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu šiame punkte nurodytas terminas; ^b181adf2eae6801dccd28865
+8) Aplinkos apsaugos departamentui prie Aplinkos ministerijos, vykdant [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatyme]] nustatytas funkcijas, per 12 mėnesių 3 kartus nustačius, kad pagal LOJ taisyklių reikalavimus taikomos išmetamų LOJ ribinės vertės viršijamos ir (ar) nevykdomas išmetamų LOJ monitoringas, arba jeigu toks pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu šiame punkte nurodytas terminas; ^s-03a22419dba469173e051b14
 
 
-9) fizinis ar juridinis asmuo pateikė aplinkos ministro įgaliotai institucijai įrenginio registracijos duomenis, neturėdamas teisės jų pateikti šio straipsnio ketvirtojoje dalyje nurodytais atvejais; ^d2dffc47450c4b14d7c00ae7
+9) fizinis ar juridinis asmuo pateikė aplinkos ministro įgaliotai institucijai įrenginio registracijos duomenis, neturėdamas teisės jų pateikti šio straipsnio ketvirtojoje dalyje nurodytais atvejais; ^s-8d2977cd1ed08e0fdc83be0c
 
 
-10) jeigu pertvarkius ar reorganizavus juridinį asmenį jo teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo LOJ taisyklėse nustatyta tvarka nesikreipia dėl formalių įrenginio registracijos duomenų patikslinimo. ^413cf71ac3a0ffda3794a42d
+10) jeigu pertvarkius ar reorganizavus juridinį asmenį jo teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo LOJ taisyklėse nustatyta tvarka nesikreipia dėl formalių įrenginio registracijos duomenų patikslinimo. ^s-90429226155d33e1491fee0c
 
 
 Straipsnio dalies pakeitimai:
@@ -1717,7 +1722,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-Nustačius šio straipsnio devintosios dalies 2, 3, 4, 5, 6, 7 ir [[#^413cf71ac3a0ffda3794a42d|10 punktuose]] nurodytas aplinkybes, fizinis ar juridinis asmuo iki sprendimo išregistruoti įrenginį priėmimo per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą įrenginio išregistravimą. Šio straipsnio devintosios dalies 2, 4, 5, 7 ir [[#^413cf71ac3a0ffda3794a42d|10 punktuose]] nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio devintosios [[#^106edf799e124d2c078663d4|dalies 6 punkte]] nurodytu atveju – 6 mėnesių terminas, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, įrenginys neišregistruojamas. Nustačius šio straipsnio devintosios dalies 1, 8 ir [[#^d2dffc47450c4b14d7c00ae7|9 punktuose]] nurodytas aplinkybes, įrenginys išregistruojamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą išregistruoti įrenginį per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai įrenginys išregistruotas nustačius šio straipsnio devintosios [[#^3e9646c284edd0d2f691668c|dalies 3 punkte]] nurodytas aplinkybes, ir nurodomos įrenginio išregistravimo priežastys. Išregistravus įrenginį, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti LOJ taisyklėse nurodytas priemones per LOJ taisyklėse nustatytą terminą.
+Nustačius šio straipsnio devintosios dalies 2, 3, 4, 5, 6, 7 ir [[#^s-90429226155d33e1491fee0c|10 punktuose]] nurodytas aplinkybes, fizinis ar juridinis asmuo iki sprendimo išregistruoti įrenginį priėmimo per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą įrenginio išregistravimą. Šio straipsnio devintosios dalies 2, 4, 5, 7 ir [[#^s-90429226155d33e1491fee0c|10 punktuose]] nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio devintosios [[#^s-92ad83cde5ff35bee2536d29|dalies 6 punkte]] nurodytu atveju – 6 mėnesių terminas, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, įrenginys neišregistruojamas. Nustačius šio straipsnio devintosios dalies 1, 8 ir [[#^s-8d2977cd1ed08e0fdc83be0c|9 punktuose]] nurodytas aplinkybes, įrenginys išregistruojamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą išregistruoti įrenginį per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai įrenginys išregistruotas nustačius šio straipsnio devintosios dalies 3 punkte nurodytas aplinkybes, ir nurodomos įrenginio išregistravimo priežastys. Išregistravus įrenginį, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti LOJ taisyklėse nurodytas priemones per LOJ taisyklėse nustatytą terminą.
 Papildyta straipsnio dalimi:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
@@ -1728,10 +1733,10 @@ Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 
 
 
-### 194 straipsnis. Ūkinės veiklos objektų eksploatavimas paskelbus ekstremaliąją energetikos padėtį arba ekstremaliąją situaciją
+### 194 straipsnis. Ūkinės veiklos objektų eksploatavimas paskelbus ekstremaliąją energetikos padėtį arba ekstremaliąją situaciją ^s-a7b9c7e77176eb6cb2080c97
 
 
-Šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnio]] antrojoje dalyje nustatytos sąlygos gali būti laikinai netaikomos ūkinės veiklos objektą eksploatuojančiam ir (ar) ūkinę veiklą vykdančiam fiziniam ar juridiniam asmeniui, kai tai būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai valdyti, likviduoti ir (ar) jų padariniams šalinti. Konkrečios laikinosios ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygos, pagal kurias gali būti eksploatuojamas ūkinės veiklos objektas ir (ar) vykdoma ūkinė veikla gresiant arba susidarius ekstremaliajai energetikos padėčiai arba ekstremaliajai situacijai, nustatomos ekstremaliosios situacijos operacijų vadovo sprendimu, priimtu Krizių valdymo ir civilinės saugos įstatyme nustatyta tvarka, arba Vyriausybės ar jos įgaliotos valstybės institucijos arba savivaldybės administracijos direktoriaus sprendimu, priimtu Energetikos įstatyme nustatyta tvarka. Šioje dalyje nustatyta išimtis negali būti taikoma platesniu mastu ir ilgesnį laikotarpį, negu būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai, taip pat savivaldybės lygio ekstremaliajai situacijai šilumos energijos gamybos ir šilumos tiekimo srityje valdyti, likviduoti ir (ar) jų padariniams šalinti. Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ir (ar) vykdantis ūkinę veiklą pagal šioje dalyje nustatyta tvarka nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, privalo taikyti visas įmanomas neigiamą poveikį aplinkai ir žmonių sveikatai mažinančias priemones.
+Šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnio]] antrojoje dalyje nustatytos sąlygos gali būti laikinai netaikomos ūkinės veiklos objektą eksploatuojančiam ir (ar) ūkinę veiklą vykdančiam fiziniam ar juridiniam asmeniui, kai tai būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai valdyti, likviduoti ir (ar) jų padariniams šalinti. Konkrečios laikinosios ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygos, pagal kurias gali būti eksploatuojamas ūkinės veiklos objektas ir (ar) vykdoma ūkinė veikla gresiant arba susidarius ekstremaliajai energetikos padėčiai arba ekstremaliajai situacijai, nustatomos ekstremaliosios situacijos operacijų vadovo sprendimu, priimtu [[latest/TAR.C15592B096FA|Krizių valdymo ir civilinės saugos įstatyme]] nustatyta tvarka, arba Vyriausybės ar jos įgaliotos valstybės institucijos arba savivaldybės administracijos direktoriaus sprendimu, priimtu [[latest/TAR.44235B485568|Energetikos įstatyme]] nustatyta tvarka. Šioje dalyje nustatyta išimtis negali būti taikoma platesniu mastu ir ilgesnį laikotarpį, negu būtina gresiančiai ar susidariusiai ekstremaliajai energetikos padėčiai arba valstybės lygio ekstremaliajai situacijai, taip pat savivaldybės lygio ekstremaliajai situacijai šilumos energijos gamybos ir šilumos tiekimo srityje valdyti, likviduoti ir (ar) jų padariniams šalinti. Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ir (ar) vykdantis ūkinę veiklą pagal šioje dalyje nustatyta tvarka nustatytas laikinąsias ūkinės veiklos objekto eksploatavimo ir (ar) ūkinės veiklos vykdymo sąlygas, privalo taikyti visas įmanomas neigiamą poveikį aplinkai ir žmonių sveikatai mažinančias priemones.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
@@ -1745,10 +1750,10 @@ Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
 
 
 
-### 20 straipsnis. Cheminių medžiagų ir cheminių mišinių tvarkymas
+### 20 straipsnis. Cheminių medžiagų ir cheminių mišinių tvarkymas ^s-8a240c7b0bf4149ea7bc23f3
 
 
-Juridiniai ir fiziniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) privalo laikytis Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme ir kituose teisės aktuose nustatytų cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų.
+Juridiniai ir fiziniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) privalo laikytis [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme]] ir kituose teisės aktuose nustatytų cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų.
 
 
 Straipsnio pakeitimai:
@@ -1759,13 +1764,13 @@ Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
 
 
-### 201 straipsnis. Dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimas Lietuvos Respublikos rinkai ir naudojimas Lietuvos Respublikos teritorijoje
+### 201 straipsnis. Dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimas Lietuvos Respublikos rinkai ir naudojimas Lietuvos Respublikos teritorijoje ^s-3161c990529410a7cabede8f
 
 
 Juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) ir fiziniai asmenys tiekti Lietuvos Respublikos rinkai, juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) ir fiziniai asmenys, kurie verčiasi individualia veikla, naudoti Lietuvos Respublikos teritorijoje privalo tik pagal aplinkos ministro tvirtinamose Lakiųjų organinių junginių kiekių, susidarančių naudojant organinius tirpiklius tam tikrų dažų, lakų ir transporto priemonių pakartotinės apdailos produktų sudėtyje, ribojimo taisyklėse, suderintose su ekonomikos ir inovacijų ministru, finansų ministru ir teisingumo ministru, nustatytus reikalavimus paženklintus ir didžiausio sudėtyje esančio lakiųjų organinių junginių kiekio neviršijančius dažus, lakus ir transporto priemonių pakartotinės apdailos produktus.
 
 
-Šiame įstatyme nurodyta individuali veikla suprantama taip, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
+Šiame įstatyme nurodyta individuali veikla suprantama taip, kaip ji apibrėžta [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme]].
 
 
 Papildyta straipsniu:
@@ -1773,10 +1778,10 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-### 21 straipsnis. Radioaktyviųjų medžiagų gamyba ir naudojimas
+### 21 straipsnis. Radioaktyviųjų medžiagų gamyba ir naudojimas ^s-086563f914bd5007c5fcfb5f
 
 
-Radioaktyviųjų medžiagų ir radioaktyviųjų atliekų bei kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos, dėjimo į radioaktyviųjų atliekų atliekynus, dezaktyvacijos, įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato Lietuvos Respublikos branduolinės saugos įstatymas, Lietuvos Respublikos radiacinės saugos įstatymas ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas.
+Radioaktyviųjų medžiagų ir radioaktyviųjų atliekų bei kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos, dėjimo į radioaktyviųjų atliekų atliekynus, dezaktyvacijos, įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato [[latest/TAR.424F7C72601E|Lietuvos Respublikos branduolinės saugos įstatymas]], [[latest/TAR.7083DB116A2E|Lietuvos Respublikos radiacinės saugos įstatymas]] ir [[latest/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas]].
 
 
 Straipsnio pakeitimai:
@@ -1785,7 +1790,7 @@ Nr. XI-1538, 2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
 
 
 
-### 22 straipsnis. Biologiniai taršos šaltiniai
+### 22 straipsnis. Biologiniai taršos šaltiniai ^s-aac554539cc6b5aa8cfb3cb4
 
 
 Potencialių biologinių taršos šaltinių naudojimo, saugojimo, apskaitos, kūrimo, dauginimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką bei normatyvus nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija.
@@ -1803,7 +1808,7 @@ Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 22(1) straipsnis. Genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai
 
 
-Veiklą, susijusią su genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais, jų naudojimo valstybinį valdymą reglamentuoja, taip pat šių organizmų ir produktų naudotojų teises, pareigas ir atsakomybę nustato Genetiškai modifikuotų organizmų įstatymas.
+Veiklą, susijusią su genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais, jų naudojimo valstybinį valdymą reglamentuoja, taip pat šių organizmų ir produktų naudotojų teises, pareigas ir atsakomybę nustato [[latest/TAR.10BD9188E48C|Genetiškai modifikuotų organizmų įstatymas]].
 
 
 Įstatymo papildymas straipsniu:
@@ -1811,7 +1816,7 @@ Nr. IX-677, 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
 
 
-### 23 straipsnis. Atliekų tvarkymas
+### 23 straipsnis. Atliekų tvarkymas ^s-e297d98576e32f0b38122835
 
 
 Asmenys privalo laikytis Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytų atliekų tvarkymo reikalavimų. Atliekų tvarkymo išlaidas apmoka teršėjas.
@@ -1823,7 +1828,7 @@ Nr. IX-677, 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
 
 
-### 231 straipsnis. Teršalų išmetimas į aplinką
+### 231 straipsnis. Teršalų išmetimas į aplinką ^s-b016423b748d581c98f5a5ae
 
 
 Teršalai gali būti išmetami į aplinką tik tais atvejais, kai išmesti teršalus į aplinką leidžia teisės aktai ir teršalai į aplinką išmetami nepažeidžiant teisės aktų nustatytos tvarkos ir normų.
@@ -1834,7 +1839,7 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-### 232 straipsnis. Mėšlo, srutų ir nuotekų dumblo tvarkymas
+### 232 straipsnis. Mėšlo, srutų ir nuotekų dumblo tvarkymas ^s-984e280f3eb233fbc34d668f
 
 
 Mėšlas ar srutos gali būti paskleisti dirvožemio paviršiuje, įterpti į dirvožemį, laikomi ar perduodami kitam asmeniui, transportuojami ar kitaip tvarkomi laikantis mėšlo ir srutų tvarkymo aplinkosaugos reikalavimų, kuriuos nustato aplinkos ministras kartu su žemės ūkio ministru.
@@ -1848,7 +1853,7 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-### 233 straipsnis. Aplinkosaugos vadybos ir audito sistemų logotipų ir ekologinių ženklų naudojimas
+### 233 straipsnis. Aplinkosaugos vadybos ir audito sistemų logotipų ir ekologinių ženklų naudojimas ^s-60647a564a1bd3a21ee4cf7d
 
 
 Aplinkosaugos vadybos ir audito sistemų logotipus ir ekologinius ženklus leidžiama naudoti laikantis Lietuvos Respublikos, Europos Sąjungos teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių reikalavimų.
@@ -1859,13 +1864,13 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-### 234 straipsnis. Neteko galios nuo 2020-07-01
+### 234 straipsnis. Neteko galios nuo 2020-07-01 ^s-2d17a87cb2d66ec4d26aaf2b
 Straipsnio naikinimas:
 Nr. XIII-2483, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17359
 
 
 
-### 24 straipsnis. Neteko galios nuo 2005 m. balandžio 12 d.
+### 24 straipsnis. Neteko galios nuo 2005 m. balandžio 12 d. ^s-a3a447d6619b24f24285e533
 Straipsnio pakeitimai:
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. VIII-310, 97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
@@ -1878,10 +1883,10 @@ V SKYRIUS. APLINKOS BŪKLĖS STEBĖJIMO IR NEIGIAMOPOVEIKIO APLINKAI RIBOJIMO SI
 
 
 
-### 25 straipsnis. Gamtinės aplinkos stebėjimas
+### 25 straipsnis. Gamtinės aplinkos stebėjimas ^s-1cb7db5e93ed0da392cbc69b
 
 
-Gamtinės aplinkos būklės kitimui ir antropogeniniam poveikiui šiai aplinkai stebėti, vertinti ir prognozuoti Lietuvos Respublikoje sudaroma aplinkos monitoringo sistema, apimanti valstybinį, savivaldybių ir ūkio subjektų aplinkos monitoringą. Valstybinio, savivaldybių ir ūkio subjektų aplinkos monitoringo turinį, struktūrą, įgyvendinimą, aplinkos monitoringo procese dalyvaujančių subjektų teises, pareigas ir atsakomybę nustato Lietuvos Respublikos aplinkos monitoringo įstatymas.
+Gamtinės aplinkos būklės kitimui ir antropogeniniam poveikiui šiai aplinkai stebėti, vertinti ir prognozuoti Lietuvos Respublikoje sudaroma aplinkos monitoringo sistema, apimanti valstybinį, savivaldybių ir ūkio subjektų aplinkos monitoringą. Valstybinio, savivaldybių ir ūkio subjektų aplinkos monitoringo turinį, struktūrą, įgyvendinimą, aplinkos monitoringo procese dalyvaujančių subjektų teises, pareigas ir atsakomybę nustato [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymas]].
 
 
 Straipsnio pakeitimai:
@@ -1892,7 +1897,7 @@ Nr. XIV-1267, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14923
 
 
 
-### 26 straipsnis. Neigiamo poveikio aplinkai ribojimo sistema
+### 26 straipsnis. Neigiamo poveikio aplinkai ribojimo sistema ^s-42484f8b7973de6c0febe2cc
 
 
 Neigiamas ūkinės veiklos poveikis aplinkai ribojamas aplinkos apsaugos normatyvais, standartais, limitais, teisinėmis ir ekonominio reguliavimo priemonėmis.
@@ -1914,7 +1919,7 @@ Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 
 
-### 27 straipsnis. Planų ir programų rengimas, jų strateginis pasekmių aplinkai vertinimas
+### 27 straipsnis. Planų ir programų rengimas, jų strateginis pasekmių aplinkai vertinimas ^s-18f67b95592e802963e1bd82
 
 
 Planai ir programos, kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai, rengiami ir įgyvendinami remiantis šiuo ir kitais įstatymais bei teisės aktais, reglamentuojančiais strateginį pasekmių aplinkai vertinimą, teritorijų planavimą bei aplinkos stebėseną.
@@ -1934,42 +1939,42 @@ VI SKYRIUS. EKONOMINIS APLINKOS APSAUGOS MECHANIZMAS
 
 
 
-### 28 straipsnis. Aplinkos apsaugos ekonominės priemonės
+### 28 straipsnis. Aplinkos apsaugos ekonominės priemonės ^s-7aba252cd994bf9c3d2bf324
 
 
 Ekologiniai ir ekonominiai valstybės interesai derinami taikant Lietuvos Respublikos įstatymuose bei kituose teisės aktuose įtvirtintą ekonominį aplinkos apsaugos mechanizmą. Jį sudaro:
 
 
-1) mokesčiai už gamtos išteklių naudojimą; ^7b0f025c88f7587620693a0b
+1) mokesčiai už gamtos išteklių naudojimą; ^s-3a0464a492f017f59e249a95
 
 
-2) mokesčiai už aplinkos teršimą; ^f2c18f6cea3a8c462d90a1da
+2) mokesčiai už aplinkos teršimą; ^s-0b8c6e4191d2d1e61406bf61
 
 
-3) kreditavimo reguliavimas; ^f415869c5144bd5d4f196c5c
+3) kreditavimo reguliavimas; ^s-ef48fb82923e05a009e6f39a
 
 
-4) valstybės subsidijos; ^9fa1833c2fe147e50011ca99
+4) valstybės subsidijos; ^s-bb21892f7228560b07c9cc5a
 
 
-5) kainų politika; ^d964ca94149b82dff057029a
+5) kainų politika; ^s-028f98837c13ac6156a0d9ec
 
 
-6) ekonominės sankcijos ir nuostolių kompensavimas; ^7726ceed8b16f0becf0118a6
+6) ekonominės sankcijos ir nuostolių kompensavimas; ^s-795920a06c106ec24f55d85d
 
 
-7) kiti ekologiniai mokesčiai ir priemonės. ^e8be5067dc4ae70881042d1f
+7) kiti ekologiniai mokesčiai ir priemonės. ^s-ba1e7a26bac4eb372ca57911
 
 
 
-### 29 straipsnis. Aplinkos apsaugos ekonominių priemonių įgyvendinimo būdai
+### 29 straipsnis. Aplinkos apsaugos ekonominių priemonių įgyvendinimo būdai ^s-4d063b2579893f5894f275d7
 
 
 Mažaatliekių technologijų diegimas, ekologiškos produkcijos gamyba skatinami mažinant mokesčius, teikiant kreditavimo lengvatas bei valstybės subsidijas.
 
 
 
-### 30 straipsnis. Aplinkos apsaugos priemonių valstybinis finansavimas
+### 30 straipsnis. Aplinkos apsaugos priemonių valstybinis finansavimas ^s-a067810f5bd174c0af03ffdf
 
 
 Aplinkos apsaugos priemones pagal atitinkamus norminius aktus finansuoja gamtos išteklių naudotojai, valstybė bei savivaldybės.
@@ -1981,7 +1986,7 @@ Aplinkos apsaugai skiriamos valstybės biudžeto lėšos naudojamos pagal Lietuv
 Aplinkos apsaugos rėmimo programos lėšos ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšos yra papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo šaltinis gali būti užsienio kreditai.
 
 
-Aplinkos apsaugos rėmimo programos lėšas bei jų panaudojimo tvarką nustato Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas.
+Aplinkos apsaugos rėmimo programos lėšas bei jų panaudojimo tvarką nustato [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]].
 
 
 Straipsnio pakeitimai:
@@ -2000,19 +2005,19 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-### 31 straipsnis. Aplinkos apsaugos kontrolė
+### 31 straipsnis. Aplinkos apsaugos kontrolė ^s-152414073c321f04258b8b41
 
 
 Lietuvos Respublikoje aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolę atlieka:
 
 
-1) aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai šio įstatymo, Aplinkos apsaugos valstybinės kontrolės įstatymo, Lietuvos Respublikos miškų įstatymo, Saugomų teritorijų įstatymo ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatytose srityse; ^ec0b5feda628c0c03a410570
+1) aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai šio įstatymo, [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatymo]], [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymo]], [[latest/TAR.FF1083B528B7|Saugomų teritorijų įstatymo]] ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatytose srityse; ^s-0007e250048000b439f133e6
 
 
-2) savivaldybių institucijos šio įstatymo, Atliekų tvarkymo įstatymo, Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo, Aplinkos oro apsaugos įstatymo ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatytose srityse; ^eff5f018efa793220d6dfaae
+2) savivaldybių institucijos šio įstatymo, [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatymo]], [[latest/TAR.0AE0464E0EDE|Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo]], [[latest/TAR.9A844F180551|Aplinkos oro apsaugos įstatymo]] ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatytose srityse; ^s-f7cc9651e756f66c58154a95
 
 
-3) kiti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančiais įstatymais įgalioti viešojo administravimo subjektai. ^7ebc23a66f776682990d76c7
+3) kiti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančiais įstatymais įgalioti viešojo administravimo subjektai. ^s-80a945a81bede9eedd247d27
 
 
 Straipsnio pakeitimai:
@@ -2022,34 +2027,34 @@ Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
 
 
 
-### 32 straipsnis. Žala aplinkai, aplinkos būklės atkūrimas ir žalos aplinkai atlyginimas
+### 32 straipsnis. Žala aplinkai, aplinkos būklės atkūrimas ir žalos aplinkai atlyginimas ^s-771f1ec28888971d519cb749
 
 
 Pripažįstama, kad žala aplinkai padaryta, jeigu yra tiesioginis ar netiesioginis neigiamas poveikis:
 
 
-1) palaikomai ar siekiamai išlaikyti rūšių ar buveinių palankiai apsaugos būklei, taip pat biologinės įvairovės, miškų, kraštovaizdžio, saugomų teritorijų būklei; ^f0a4d145c6c85a9b879581d0
+1) palaikomai ar siekiamai išlaikyti rūšių ar buveinių palankiai apsaugos būklei, taip pat biologinės įvairovės, miškų, kraštovaizdžio, saugomų teritorijų būklei; ^s-0e70a007e7e3c66682dc9213
 
 
-2) paviršinio ir požeminio vandens ekologinei, cheminei, mikrobinei ir (arba) kiekybinei būklei ir (arba) ekologiniam pajėgumui (potencialui), kaip tai apibūdinta Lietuvos Respublikos vandens įstatyme, taip pat jūros aplinkos būklei, kaip tai apibūdinta Lietuvos Respublikos jūros aplinkos apsaugos įstatyme; ^ca8f94f520d403727c27e233
+2) paviršinio ir požeminio vandens ekologinei, cheminei, mikrobinei ir (arba) kiekybinei būklei ir (arba) ekologiniam pajėgumui (potencialui), kaip tai apibūdinta [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatyme]], taip pat jūros aplinkos būklei, kaip tai apibūdinta [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatyme]]; ^s-a731ddd979d1330c00dfb713
 
 
-3) žemei, tai yra žemės užteršimas, kai teršalai pasklinda žemės paviršiuje, įterpiami į žemę ar po ja (į žemės gelmes); ^592c2bbc8e6eed2a75ea7831
+3) žemei, tai yra žemės užteršimas, kai teršalai pasklinda žemės paviršiuje, įterpiami į žemę ar po ja (į žemės gelmes); ^s-d48d8f8c3cd7ddbaa29db394
 
 
-4) kitiems aplinkos elementams ar kitoms jų funkcijoms. ^84c43465bf501dcb4fef8806
+4) kitiems aplinkos elementams ar kitoms jų funkcijoms. ^s-65a08a27dfc9a8f373f04512
 
 
 Gamtos išteklių naudotojai ir asmenys, vykdantys ūkinę veiklą, (toliau – ūkio subjektai) privalo imtis visų būtinų priemonių, kad būtų išvengta žalos aplinkai, žmonių sveikatai ir gyvybei, kitų asmenų turtui ir interesams, o padariusieji žalos aplinkai privalo kuo skubiau imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo. Padariusieji žalos aplinkai asmenys taip pat privalo aplinkos ministro nustatytais atvejais atkurti aplinkos būklę, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Tais atvejais, kai žala aplinkai šio įstatymo nustatyta tvarka pripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai (išskyrus reikšmingą neigiamą poveikį žemei), šią žalą aplinkai padarę asmenys privalo atkurti aplinkos būklę iki pirminės būklės, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Tais atvejais, kai žala aplinkai šio įstatymo nustatyta tvarka pripažįstama žala, darančia reikšmingą neigiamą poveikį žemei, šią žalą žemei padarę asmenys privalo atkurti aplinkos būklę iki būklės, kai pašalinama didelė grėsmė, kad žemės užteršimas neigiamai paveiks žmonių sveikatą, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Pirminė būklė nustatoma pagal turimą informaciją apie geriausią aplinkos būklę, kuri buvo žalos aplinkai padarymo metu ir kuri būtų buvusi, jeigu žala aplinkai nebūtų padaryta.
 
 
-Padariusieji žalos aplinkai asmenys privalo šio įstatymo nustatyta tvarka atlyginti žalą aplinkai ir kitus susijusius nuostolius, nurodytus šio įstatymo [[#33 straipsnis. Ieškiniai dėl žalos atlyginimo|33 straipsnio]] antrojoje dalyje. Žalos aplinkai ir kitų susijusių nuostolių dydis sumažinamas asmenų savo lėšomis įgyvendintų priemonių, kuriomis buvo atkurta aplinka ar sumažinta padaryta žala, išlaidų dydžiu.
+Padariusieji žalos aplinkai asmenys privalo šio įstatymo nustatyta tvarka atlyginti žalą aplinkai ir kitus susijusius nuostolius, nurodytus šio įstatymo [[#^s-1338ceb0cb8da6b8fc33e758|33 straipsnio]] antrojoje dalyje. Žalos aplinkai ir kitų susijusių nuostolių dydis sumažinamas asmenų savo lėšomis įgyvendintų priemonių, kuriomis buvo atkurta aplinka ar sumažinta padaryta žala, išlaidų dydžiu.
 
 
 Žala aplinkai vertinama ir žalos aplinkai atlyginimo dydis apskaičiuojamas pagal aplinkos ministro patvirtintą metodiką, įvertinant pirminę aplinkos būklę (sąlygas), neigiamo poveikio aplinkai reikšmingumą, natūralaus aplinkos atsikūrimo galimybes ir laiką, atliktus veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, taip pat pritaikytas aplinkos atkūrimo priemones.
 
 
-Žala natūralioms buveinėms ir saugomoms rūšims nelaikomas Lietuvos Respublikos saugomų teritorijų įstatymo 241 straipsnio 10 ir 11 dalyse, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo 14, [[#16 straipsnis. Neteko galios nuo 2017-11-01|16 straipsnių]] ir 17 straipsnio 2 dalyje nustatyta tvarka iki ūkinės veiklos vykdymo pradžios nustatytas ir įvertintas neigiamas aplinkos ar jos elementų pokytis, atsiradęs dėl neigiamo ūkinės veiklos poveikio, kuriam esant atsakinga institucija leido vykdyti šią ūkinę veiklą.
+Žala natūralioms buveinėms ir saugomoms rūšims nelaikomas Lietuvos Respublikos saugomų teritorijų įstatymo 241 straipsnio 10 ir 11 dalyse, [[latest/TAR.1746D2A4EFB9#^s-a6b801c2dfb53dc9b98343a1|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo 14, 16 straipsnių]] ir 17 straipsnio 2 dalyje nustatyta tvarka iki ūkinės veiklos vykdymo pradžios nustatytas ir įvertintas neigiamas aplinkos ar jos elementų pokytis, atsiradęs dėl neigiamo ūkinės veiklos poveikio, kuriam esant atsakinga institucija leido vykdyti šią ūkinę veiklą.
 
 
 Tais atvejais, kai žala aplinkai pripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai, šią žalą aplinkai padaręs asmuo privalo savo išlaidomis imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių aplinkos ministro nustatyta tvarka nepaisant to, kad žalą aplinkai lėmė teršimas, kuris buvo leidžiamas ir atitiko leidimo sąlygas ir teisės aktuose nustatytus aplinkos apsaugos reikalavimus, taikytus teršimo metu. Tais atvejais, kai žala aplinkai nepripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai, žalos aplinkai atlyginimo dydis neskaičiuojamas ir nereikalaujama jos atlyginti, taip pat nereikalaujama imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių, jei žalą aplinkai lėmė teršimas, kuris buvo aiškiai leidžiamas ir visiškai atitiko leidimo sąlygas ir teisės aktuose nustatytus aplinkos apsaugos reikalavimus, taikytus teršimo metu.
@@ -2064,7 +2069,7 @@ Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
 
 
 
-### 321 straipsnis. Žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą, vykdymas ir aplinkos atkūrimo priemonių taikymas
+### 321 straipsnis. Žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą, vykdymas ir aplinkos atkūrimo priemonių taikymas ^s-630b26425412fbda1612498f
 
 
 Esant neišvengiamai (realiai) žalos aplinkai grėsmei, ūkio subjektas, dėl kurio veiksmų kilo ši grėsmė, privalo nedelsdamas imtis visų būtinų žalos aplinkai prevencijos priemonių. Jeigu neišvengiama (reali) žalos aplinkai grėsmė nepašalinama, nepaisant ūkio subjekto taikytų žalos aplinkai prevencijos priemonių, ūkio subjektas nedelsdamas privalo apie tai informuoti Aplinkos ministeriją arba jos įgaliotą instituciją aplinkos ministro nustatyta tvarka.
@@ -2073,28 +2078,28 @@ Esant neišvengiamai (realiai) žalos aplinkai grėsmei, ūkio subjektas, dėl k
 Jeigu žala aplinkai atsirado, ūkio subjektas, dėl kurio veikos (veikimo, neveikimo) atsirado ši žala, privalo nedelsdamas apie tai informuoti Aplinkos ministeriją ar jos įgaliotą instituciją aplinkos ministro nustatyta tvarka ir imtis:
 
 
-1) visų būtinų veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo; ^fc5c5062f1fa6b6af5082947
+1) visų būtinų veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo; ^s-58396a86dcd8586983b77fab
 
 
-2) būtinų aplinkos atkūrimo priemonių, atsižvelgiant į šio straipsnio 5 dalies nuostatas. ^ff818b40d6c91fcd5e66c91c
+2) būtinų aplinkos atkūrimo priemonių, atsižvelgiant į šio straipsnio 5 dalies nuostatas. ^s-88c4d64ec822510836e568bf
 
 
 Aplinkos ministerija arba jos įgaliota institucija bet kuriuo momentu turi teisę ir pareigą:
 
 
-1) reikalauti, kad ūkio subjektas pateiktų visą informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba neišvengiama (reali) žalos aplinkai grėsmė, arba kai įtariama, kad tokia situacija gali atsirasti; ^e61cb32d949fddf25c792e73
+1) reikalauti, kad ūkio subjektas pateiktų visą informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba neišvengiama (reali) žalos aplinkai grėsmė, arba kai įtariama, kad tokia situacija gali atsirasti; ^s-a1eb6ce2fa9bd67e1b82a38a
 
 
-2) reikalauti, kad ūkio subjektas imtųsi būtinų žalos aplinkai prevencijos priemonių ir (arba) aplinkos atkūrimo priemonių; ^32b2343dd2b6455d09fece2a
+2) reikalauti, kad ūkio subjektas imtųsi būtinų žalos aplinkai prevencijos priemonių ir (arba) aplinkos atkūrimo priemonių; ^s-3c1d5a57bcfa61da1042c773
 
 
-3) reikalauti iš ūkio subjekto imtis arba duoti atitinkamam subjektui privalomus vykdyti nurodymus dėl visų būtinų veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo; ^ad54fea35f36c560f22ea838
+3) reikalauti iš ūkio subjekto imtis arba duoti atitinkamam subjektui privalomus vykdyti nurodymus dėl visų būtinų veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo; ^s-bdf1b2452535af5509df7bd7
 
 
-4) duoti ūkio subjektui privalomus vykdyti nurodymus dėl žalos aplinkai prevencijos priemonių ir (arba) aplinkos atkūrimo priemonių taikymo; ^d47176a0fb73f1d361b0110c
+4) duoti ūkio subjektui privalomus vykdyti nurodymus dėl žalos aplinkai prevencijos priemonių ir (arba) aplinkos atkūrimo priemonių taikymo; ^s-6c93f492f3c4f552522eb746
 
 
-5) šio straipsnio 4 dalyje nustatytais atvejais informuoti savivaldybės vykdomąją instituciją ir (arba) valstybės instituciją pagal kompetenciją apie būtinybę taikyti būtinas žalos aplinkai prevencijos priemones ir (ar) veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai arba aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemones. ^815e934890c6f97235b93e56
+5) šio straipsnio 4 dalyje nustatytais atvejais informuoti savivaldybės vykdomąją instituciją ir (arba) valstybės instituciją pagal kompetenciją apie būtinybę taikyti būtinas žalos aplinkai prevencijos priemones ir (ar) veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai arba aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemones. ^s-82073a59444b5ffc2dccc923
 Straipsnio punkto pakeitimai:
 Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
 
@@ -2116,7 +2121,7 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-### 322 straipsnis. Žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą, ir aplinkos atkūrimo priemonių išlaidų atlyginimas
+### 322 straipsnis. Žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą, ir aplinkos atkūrimo priemonių išlaidų atlyginimas ^s-ef616bca314f6dc2df97c19f
 
 
 Visas žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių išlaidas ir kitus susijusius nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje, atlygina ūkio subjektas, padaręs žalą aplinkai arba sukėlęs neišvengiamą (realią) žalos aplinkai grėsmę, net ir tais atvejais, kai atitinkamas priemones vykdė savivaldybės vykdomoji institucija arba valstybės institucijos pagal kompetenciją (pačios ar per trečiuosius asmenis). Savivaldybės vykdomoji institucija arba valstybės institucijos pagal kompetenciją iš ūkio subjekto, padariusio žalą aplinkai arba sukėlusio neišvengiamą (realią) žalos aplinkai grėsmę, susigrąžina išlaidas, kurias jos patyrė dėl žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo ir kitus nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje. Jeigu ūkio subjektas pateikia prievolės atlyginti šias išlaidas ir nuostolius užtikrinimą, savivaldybės vykdomoji institucija arba valstybės institucijos pagal kompetenciją šias išlaidas ir nuostolius susigrąžina pasinaudodamos pateiktomis prievolės užtikrinimo priemonėmis.
@@ -2128,10 +2133,10 @@ Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
 Ūkio subjektas neprivalo atlyginti žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių išlaidų tuo atveju, jeigu žala aplinkai arba neišvengiama (reali) žalos aplinkai grėsmė atsirado dėl nenugalimos jėgos, taip pat jeigu jis įrodo, kad žala aplinkai ar neišvengiama (reali) žalos aplinkai grėsmė atsirado:
 
 
-1) dėl trečiojo asmens veikos (veikimo, neveikimo), nors visos atitinkamos saugumo priemonės buvo taikytos; ^e11a3b911b5f83c98a1f9ef5
+1) dėl trečiojo asmens veikos (veikimo, neveikimo), nors visos atitinkamos saugumo priemonės buvo taikytos; ^s-f23a11c21e05a17abeeba30a
 
 
-2) tiksliai vykdant įstatymų įgaliotos institucijos privalomą nurodymą, išskyrus nurodymą dėl teršimo ar įvykio, kurį sukėlė paties ūkio subjekto veika (veikimas, neveikimas). ^eacebf8f1615581e8064b3be
+2) tiksliai vykdant įstatymų įgaliotos institucijos privalomą nurodymą, išskyrus nurodymą dėl teršimo ar įvykio, kurį sukėlė paties ūkio subjekto veika (veikimas, neveikimas). ^s-fa90f30775b4b906e1464054
 
 
 Ūkio subjekto išlaidas vykdant žalos aplinkai prevencijos priemones, veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemones šio straipsnio 2 dalyje nustatytais atvejais atlygina asmenys, sukėlę neišvengiamą (realią) žalos aplinkai grėsmę ar padarę žalos aplinkai, o jeigu šių asmenų nustatyti neįmanoma, – valstybės ar savivaldybių institucijos.
@@ -2144,37 +2149,37 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-### 323 straipsnis. Reikšmingas neigiamas poveikis aplinkai
+### 323 straipsnis. Reikšmingas neigiamas poveikis aplinkai ^s-a06586e265766cb7415e5d66
 
 
 Reikšmingas neigiamas poveikis saugomai rūšiai nustatomas pagal šiuos išmatuojamus duomenis:
 
 
-1) saugomos rūšies populiacijos (individų skaičiaus, tankumo) sumažėjimą; ^70e016f190133c5965e5f607
+1) saugomos rūšies populiacijos (individų skaičiaus, tankumo) sumažėjimą; ^s-347265a982595c04b68cda17
 
 
-2) konkrečių individų arba pažeistos teritorijos svarbą saugomos rūšies apsaugai, saugomos rūšies retumą (įvertintą vietos, regiono ir aukštesniu lygiu, įskaitant Europos Sąjungos lygį); ^d0bb03c772ad4aebb9c8b0ac
+2) konkrečių individų arba pažeistos teritorijos svarbą saugomos rūšies apsaugai, saugomos rūšies retumą (įvertintą vietos, regiono ir aukštesniu lygiu, įskaitant Europos Sąjungos lygį); ^s-e09efa785bc820cfe9f2076e
 
 
-3) saugomos rūšies galimybę daugintis (pagal šiai saugomai rūšiai arba šiai populiacijai būdingą dinamiką), jos gyvybingumą; ^2c12c4d4ee3920d941cd25db
+3) saugomos rūšies galimybę daugintis (pagal šiai saugomai rūšiai arba šiai populiacijai būdingą dinamiką), jos gyvybingumą; ^s-844df1b6c29726136f649f3f
 
 
-4) saugomos rūšies, kuriai padaryta žala, galimybę per trumpą laiką be jokio įsikišimo, išskyrus padidintas apsaugos priemones, atsinaujinti iki būklės, kuri dėl saugomos rūšies dinamikos virsta į būklę, tokią pačią arba geresnę už pirminę saugomos rūšies apsaugos būklę. ^d5784c83ca8b073f9c5061b4
+4) saugomos rūšies, kuriai padaryta žala, galimybę per trumpą laiką be jokio įsikišimo, išskyrus padidintas apsaugos priemones, atsinaujinti iki būklės, kuri dėl saugomos rūšies dinamikos virsta į būklę, tokią pačią arba geresnę už pirminę saugomos rūšies apsaugos būklę. ^s-86b65c291d3572bdaa42c92d
 
 
 Reikšmingas neigiamas poveikis rūšies buveinei ar natūraliai buveinei nustatomas pagal šiuos išmatuojamus duomenis:
 
 
-1) rūšies buveinės ar natūralios buveinės užimamo ploto sumažėjimą; ^bd4de963716775ebb0e29ede
+1) rūšies buveinės ar natūralios buveinės užimamo ploto sumažėjimą; ^s-bc0d7c0140f789722c77904f
 
 
-2) konkrečių individų arba pažeistos teritorijos svarbą rūšies buveinės ar natūralios buveinės apsaugai, rūšies buveinės ar natūralios buveinės retumą (įvertintą vietos, regiono ar aukštesniu lygiu, įskaitant Europos Sąjungos lygį); ^d59c8627a0ca50e97ea3a7ab
+2) konkrečių individų arba pažeistos teritorijos svarbą rūšies buveinės ar natūralios buveinės apsaugai, rūšies buveinės ar natūralios buveinės retumą (įvertintą vietos, regiono ar aukštesniu lygiu, įskaitant Europos Sąjungos lygį); ^s-87b8a34e9265070ccbc4bcd6
 
 
-3) rūšies buveinės ar natūralios buveinės natūralaus atsikūrimo galimybę (pagal natūralios buveinės tipinėms rūšims arba jų populiacijoms būdingą dinamiką); ^a07856f6d2eaae1ee9a087d2
+3) rūšies buveinės ar natūralios buveinės natūralaus atsikūrimo galimybę (pagal natūralios buveinės tipinėms rūšims arba jų populiacijoms būdingą dinamiką); ^s-a5f2d3b160ffa30a506ef001
 
 
-4) rūšies buveinės ar natūralios buveinės, kuriai padaryta žala, galimybę per trumpą laiką be jokio įsikišimo, išskyrus padidintas apsaugos priemones, dėl rūšies buveinės ar natūralios buveinės dinamikos atsinaujinti iki būklės, tokios pačios arba geresnės už pirminę rūšies buveinės ar natūralios buveinės apsaugos būklę. ^854d8a8687a11aaec521f841
+4) rūšies buveinės ar natūralios buveinės, kuriai padaryta žala, galimybę per trumpą laiką be jokio įsikišimo, išskyrus padidintas apsaugos priemones, dėl rūšies buveinės ar natūralios buveinės dinamikos atsinaujinti iki būklės, tokios pačios arba geresnės už pirminę rūšies buveinės ar natūralios buveinės apsaugos būklę. ^s-0d6bf4ac868c46f1666869d7
 
 
 Bet koks neigiamas poveikis saugomai rūšiai, rūšies buveinei ar natūraliai buveinei laikomas reikšmingu, jeigu kartu nustatomas žalos aplinkai poveikis žmogaus sveikatai.
@@ -2183,52 +2188,52 @@ Bet koks neigiamas poveikis saugomai rūšiai, rūšies buveinei ar natūraliai 
 Reikšmingu neigiamu poveikiu saugomai rūšiai, rūšies buveinei ar natūraliai buveinei nelaikomas toks poveikis, kai tenkinama bent viena iš šių sąlygų:
 
 
-1) neigiami pokyčiai, mažesni už natūralius svyravimus, laikomus normaliais tai saugomai rūšiai, rūšies buveinei ar natūraliai buveinei; ^5126ac44eb9491745c7d6bff
+1) neigiami pokyčiai, mažesni už natūralius svyravimus, laikomus normaliais tai saugomai rūšiai, rūšies buveinei ar natūraliai buveinei; ^s-ef8e7b453ab0739b545794a4
 
 
-2) neigiami pokyčiai, susidarantys dėl natūralių priežasčių arba įsikišimo, susijusio su įprastu vietovių tvarkymu, kuris apibūdintas gamtotvarkos planuose ar kituose dokumentuose, nustatančiuose apsaugos priemones; ^b69e9b63b007bbc0dab5d43e
+2) neigiami pokyčiai, susidarantys dėl natūralių priežasčių arba įsikišimo, susijusio su įprastu vietovių tvarkymu, kuris apibūdintas gamtotvarkos planuose ar kituose dokumentuose, nustatančiuose apsaugos priemones; ^s-6384a699b3df71ac7987a42b
 
 
-3) kai nustatyta, kad saugoma rūšis, rūšies buveinė ar natūrali buveinė be jokio įsikišimo atsinaujins iki būklės, lygiavertės pirminei būklei arba geresnės už pirminę būklę (dėl saugomos rūšies, rūšies buveinės ar natūralios buveinės dinamikos savybių), per vienų metų laikotarpį. ^217d9e65aefae0a0d489017b
+3) kai nustatyta, kad saugoma rūšis, rūšies buveinė ar natūrali buveinė be jokio įsikišimo atsinaujins iki būklės, lygiavertės pirminei būklei arba geresnės už pirminę būklę (dėl saugomos rūšies, rūšies buveinės ar natūralios buveinės dinamikos savybių), per vienų metų laikotarpį. ^s-47e443dada8fac09ef2adb7c
 
 
 Neigiamas poveikis paviršiniam vandens telkiniui laikomas reikšmingu, kai tenkinama bent viena iš šių sąlygų:
 
 
-1) pablogėjo paviršinio vandens telkinio ekologinės būklės, ekologinio potencialo ar cheminės būklės klasė; ^35fcec3a39bcd2ab93ddb9d0
+1) pablogėjo paviršinio vandens telkinio ekologinės būklės, ekologinio potencialo ar cheminės būklės klasė; ^s-3b252680500870c4f8fabca5
 
 
-2) viršytos nustatytos cheminių medžiagų ribinės vertės aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame paviršinio vandens telkinio plote ar tūryje; ^37e0f55ab6d10555168faf98
+2) viršytos nustatytos cheminių medžiagų ribinės vertės aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame paviršinio vandens telkinio plote ar tūryje; ^s-f3c4efead01de5fce566473a
 
 
-3) reikšmingai pablogėjo paviršinio vandens telkinio hidromorfologinė būklė. ^b79f118a2bd9f5cf077c2875
+3) reikšmingai pablogėjo paviršinio vandens telkinio hidromorfologinė būklė. ^s-57a119d08419c4e04f4a9b17
 
 
 Neigiamas poveikis jūros aplinkos būklei laikomas reikšmingu, kai tenkinama bent viena iš šių sąlygų:
 
 
-1) viršytos nustatytos cheminių medžiagų ribinės vertės aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame Lietuvos Respublikos jūros rajono vandenų plote ar tūryje; ^f3876d8fb2bed92cfa327d95
+1) viršytos nustatytos cheminių medžiagų ribinės vertės aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame Lietuvos Respublikos jūros rajono vandenų plote ar tūryje; ^s-254b33995f4210863cc6aefc
 
 
-2) kitaip reikšmingai paveikta jūros aplinkos būklė. ^26830abe227164b84a5f4a09
+2) kitaip reikšmingai paveikta jūros aplinkos būklė. ^s-8f6b50325d2e79b84c670281
 
 
 Neigiamas poveikis požeminio vandens telkiniui laikomas reikšmingu, kai tenkinama bent viena iš šių sąlygų:
 
 
-1) viršytos nustatytos cheminių medžiagų ribinės vertės aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame požeminio vandens telkinio plote ar tūryje; ^b4dcf6e2f8eda57cda6b7bfe
+1) viršytos nustatytos cheminių medžiagų ribinės vertės aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame požeminio vandens telkinio plote ar tūryje; ^s-dd5ef698e42b91f0df0bed0a
 
 
-2) dėl neigiamą poveikį sukėlusios veikos pablogėjo požeminio vandens telkinio kiekybinės būklės klasė. ^0687fa1966e91bed2adf9202
+2) dėl neigiamą poveikį sukėlusios veikos pablogėjo požeminio vandens telkinio kiekybinės būklės klasė. ^s-2850d5d3c8aad2e24bb635db
 
 
 Neigiamas poveikis žemei laikomas reikšmingu, kai tenkinama bent viena iš šių sąlygų:
 
 
-1) viršytos nustatytos cheminių medžiagų ribinės vertės dirvožemyje ar grunte aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame dirvožemio ar grunto plote ar tūryje; ^6e0232693a6811403229a751
+1) viršytos nustatytos cheminių medžiagų ribinės vertės dirvožemyje ar grunte aplinkos ministro nustatytu laikotarpiu ir aplinkos ministro nustatytame dirvožemio ar grunto plote ar tūryje; ^s-94958fbdf087d852dc94b2a4
 
 
-2) iškilo didelė grėsmė, kad žemės užteršimas neigiamai paveiks žmonių sveikatą. ^096af020237cf19b4ccdd73f
+2) iškilo didelė grėsmė, kad žemės užteršimas neigiamai paveiks žmonių sveikatą. ^s-7bce24c899fa7e974785642f
 
 
 Detalius reikšmingo neigiamo poveikio aplinkai kriterijus nustato aplinkos ministras, vadovaudamasis šio straipsnio nuostatomis.
@@ -2239,22 +2244,22 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-### 33 straipsnis. Ieškiniai dėl žalos atlyginimo
+### 33 straipsnis. Ieškiniai dėl žalos atlyginimo ^s-1338ceb0cb8da6b8fc33e758
 
 
 Pareikšti ieškinius dėl padarytos žalos turi teisę:
 
 
-1) asmenys, kurių sveikatai, turtui ar interesams padaryta žalos; ^875272b4ea73403fb283fe29
+1) asmenys, kurių sveikatai, turtui ar interesams padaryta žalos; ^s-8bcf752e44d055f861526e20
 
 
-2) aplinkos apsaugos valstybinės kontrolės pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams. ^221707bcd1761ecea58fda37
+2) aplinkos apsaugos valstybinės kontrolės pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams. ^s-ffce5493c8a06bf96140b804
 Straipsnio punkto pakeitimai:
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-Aplinkos apsaugos departamentas prie Aplinkos ministerijos ar kitos valstybės institucijos, meras arba jo įgalioti asmenys pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš šių aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo [[#32 straipsnis. Žala aplinkai, aplinkos būklės atkūrimas ir žalos aplinkai atlyginimas|32 straipsnio]] ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo išlaidas, taip pat administracinių, teisinių sprendimų vykdymo išlaidas, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
+Aplinkos apsaugos departamentas prie Aplinkos ministerijos ar kitos valstybės institucijos, meras arba jo įgalioti asmenys pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš šių aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo [[#^s-771f1ec28888971d519cb749|32 straipsnio]] ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo išlaidas, taip pat administracinių, teisinių sprendimų vykdymo išlaidas, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
@@ -2276,7 +2281,7 @@ Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 
 
-### 34 straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo ir sprendimų priėmimo tvarka
+### 34 straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo ir sprendimų priėmimo tvarka ^s-717c09d07221cac070599079
 
 
 Asmenys, pažeidę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų reikalavimus, atsako šio įstatymo ir kitų Lietuvos Respublikos įstatymų nustatyta tvarka.
@@ -2310,17 +2315,17 @@ VIII SKYRIUS. JURIDINIŲ ASMENŲ ATSAKOMYBĖ UŽ APLINKOS APSAUGĄ IR GAMTOS IŠ
 
 
 
-### 35 straipsnis. Subjektai, kuriems taikoma juridinių asmenų atsakomybė
+### 35 straipsnis. Subjektai, kuriems taikoma juridinių asmenų atsakomybė ^s-244b0af31fb10ba03b5a79a7
 
 
 Juridinių asmenų atsakomybė taikoma juridiniams asmenims, įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat šių juridinių asmenų ir organizacijų padalinius (toliau šiame skyriuje – juridiniai asmenys).
 
 
 
-### 36 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos juridiniams asmenims, ir šio įstatymo nuostatų dėl atsakomybės už juridinių asmenų padarytus pažeidimus galiojimas
+### 36 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos juridiniams asmenims, ir šio įstatymo nuostatų dėl atsakomybės už juridinių asmenų padarytus pažeidimus galiojimas ^s-bb53660ba2f62e2e3beb4305
 
 
-Juridiniams asmenims skiriamos ekonominės sankcijos už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, nurodytus šio įstatymo  55–[[#1281 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimą Lietuvos Respublikos rinkai|1281  straipsniuose]] (toliau – juridinių asmenų padaryti pažeidimai).
+Juridiniams asmenims skiriamos ekonominės sankcijos už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, nurodytus šio įstatymo  55–[[#^s-0ad85efad4cc1dcb943b47d2|1281  straipsniuose]] (toliau – juridinių asmenų padaryti pažeidimai).
 Straipsnio dalies pakeitimai:
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
@@ -2329,7 +2334,7 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 Juridinių asmenų atsakomybė pagal šį įstatymą taikoma, jeigu juridinių asmenų padaryti pažeidimai pagal galiojančius įstatymus neužtraukia juridinių asmenų baudžiamosios atsakomybės.
 
 
-Juridiniai asmenys, padarę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimą, nurodytą šio įstatymo 55–[[#1281 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimą Lietuvos Respublikos rinkai|1281 straipsniuose]], atsako pagal šio įstatymo nuostatas, galiojusias pažeidimo padarymo metu.
+Juridiniai asmenys, padarę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimą, nurodytą šio įstatymo 55–[[#^s-0ad85efad4cc1dcb943b47d2|1281 straipsniuose]], atsako pagal šio įstatymo nuostatas, galiojusias pažeidimo padarymo metu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
@@ -2342,44 +2347,44 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-### 37 straipsnis. Pareigūnai, turintys teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir nagrinėti bylas dėl ekonominių sankcijų skyrimo
+### 37 straipsnis. Pareigūnai, turintys teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir nagrinėti bylas dėl ekonominių sankcijų skyrimo ^s-bf5fed92eb2d683957860b39
 
 
 Juridinių asmenų padarytus pažeidimus tiria, juridinių asmenų padarytų pažeidimų protokolus surašo ir bylas dėl ekonominių sankcijų skyrimo nagrinėja:
 
 
-1) vyriausieji valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–[[#58 straipsnis. Juridinių asmenų atsakomybė už aplinkosauginio ženklinimo reikalavimų pažeidimą|58 straipsniuose]], [[#581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje|581 straipsnyje]] (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimo Lietuvos Respublikos teritorijoje), 59–[[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsniuose]], [[#1091 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimą|1091 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, devintojoje dalyse, 110, [[#1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą|1101 straipsniuose]], [[#1103 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimą|1103 straipsnio]] pirmojoje dalyje, 1104–[[#128 straipsnis. Juridinių asmenų atsakomybė už užstato taikymo ir užstato sistemos organizavimo reikalavimų pažeidimą|128 straipsniuose]] numatytų pažeidimų; ^d428516e56a25f0aae391a70
+1) vyriausieji valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–[[#^s-87e92b704852d50ac727df63|58 straipsniuose]], [[#^s-935062c85a9f2ef555065ea5|581 straipsnyje]] (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimo Lietuvos Respublikos teritorijoje), 59–[[#^s-dfda5a9eb158867ad0979606|109 straipsniuose]], [[#^s-b2c001911492afb7a7812560|1091 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, devintojoje dalyse, 110, [[#^s-cc1b9d9bcc3a82c7a8ef9e59|1101 straipsniuose]], [[#^s-cc089d2bd6ea548084f1ba01|1103 straipsnio]] pirmojoje dalyje, 1104–[[#^s-7aa6495635b106f3ff9b8101|128 straipsniuose]] numatytų pažeidimų; ^s-f03f8bdb108a07da37a6a80d
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-2) neteko galios nuo 2021-07-01; ^9e96a95cd80689331afe8fbe
+2) neteko galios nuo 2021-07-01; ^s-9d910af103e4be6760089870
 Straipsnio punkto pakeitimai:
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-3) neteko galios nuo 2021-07-01; ^c15c98786d7cc00963c7467d
+3) neteko galios nuo 2021-07-01; ^s-219c594cb88833f2008b00d6
 Straipsnio punkto pakeitimai:
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-4) Lietuvos geologijos tarnybos prie Aplinkos ministerijos įgalioti valstybės tarnautojai – dėl šio įstatymo 113 ir [[#115 straipsnis. Juridinių asmenų atsakomybė už anglies dioksido geologinių saugyklų kompleksų žvalgybos ir anglies dioksido geologinio saugojimo reikalavimų pažeidimą|115 straipsniuose]] numatytų pažeidimų; ^78bdd40ec464f76af4b1cc36
+4) Lietuvos geologijos tarnybos prie Aplinkos ministerijos įgalioti valstybės tarnautojai – dėl šio įstatymo 113 ir [[#^s-543603c4bf409cbde71ce235|115 straipsniuose]] numatytų pažeidimų; ^s-99a1d355c71fe325ac59be3c
 Straipsnio punkto pakeitimai:
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-5) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo [[#90 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų išmetimą į aplinką|90 straipsnio]] 1, 2, 5, 6 dalyse, [[#91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką|91 straipsnio]] 1, 2, 6, 7 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose; ^84a76038b15ef80dcb77cada
+5) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo [[#^s-48e44d1e659d038e4eace96d|90 straipsnio]] 1, 2, 5, 6 dalyse, [[#^s-ad744f9840ea561df39af550|91 straipsnio]] 1, 2, 6, 7 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose; ^s-4ea160eb63be9fbbe45c84af
 Straipsnio punkto pakeitimai:
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
 
 
 
-6) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos įgalioti muitinės pareigūnai – dėl šio įstatymo [[#581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje|581 straipsnyje]] (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimo Lietuvos Respublikos rinkai), [[#78 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės|78 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#79 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės|79 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, šeštojoje, septintojoje, aštuntojoje dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#87 straipsnis. Juridinių asmenų atsakomybė už su atliekų įvežimu, importu, išvežimu, eksportu susijusių reikalavimų pažeidimą|87 straipsnyje]], [[#95 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimą Lietuvos Respublikos vidaus rinkai neužsiregistravus teisės aktų nustatyta tvarka|95 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#98 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintos elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ar platinimą, už nustatyta tvarka nepaženklintų apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai ir už nustatyta tvarka nepaženklintų, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais|98 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#100 straipsnis. Juridinių asmenų atsakomybė už apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai ir už į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais|100 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#101 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais neturint dokumento, įrodančio, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas|101 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnio]] aštuntojoje dalyje, [[#1091 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimą|1091 straipsnio]] pirmojoje, antrojoje, devintojoje dalyse, [[#110 straipsnis. Juridinių asmenų atsakomybė už ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso, įtrauktų į Reglamento (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimą|110 straipsnio]] ketvirtojoje, aštuntojoje, devintojoje dalyse, [[#1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą|1101 straipsnio]] septintojoje, vienuoliktojoje, dvyliktojoje dalyse, [[#1103 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimą|1103 straipsnio]] antrojoje dalyje, [[#1221 straipsnis. Juridinių asmenų atsakomybė už laukinių augalų ar grybų išteklių naudojimą pažeidžiant laukinių augalų ar grybų naudojimą reglamentuojančius teisės aktus|1221 straipsnio]] pirmojoje, antrojoje dalyse, [[#1222 straipsnis. Juridinių asmenų atsakomybė už saugomų rūšių naudojimą pažeidžiant saugomų rūšių naudojimą reglamentuojančius teisės aktus, saugomų rūšių apsaugos reikalavimų pažeidimus|1222 straipsnio]] pirmojoje, antrojoje dalyse, [[#1223 straipsnis. Juridinių asmenų atsakomybė už laukinių gyvūnų išteklių naudojimą pažeidžiant laukinių gyvūnų naudojimą reglamentuojančius teisės aktus|1223 straipsnio]] pirmojoje, antrojoje dalyse, [[#1224 straipsnis. Juridinių asmenų atsakomybė už neteisėtą invazinių rūšių naudojimą ir valdymo priemonių nevykdymą|1224 straipsnio]] trečiojoje, ketvirtojoje dalyse, [[#1226 straipsnis. Juridinių asmenų atsakomybė už genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimą|1226 straipsnio]] pirmojoje, antrojoje dalyse numatytų pažeidimų; ^f8db4a7def500c8746fbd6bb
+6) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos įgalioti muitinės pareigūnai – dėl šio įstatymo [[#^s-935062c85a9f2ef555065ea5|581 straipsnyje]] (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimo Lietuvos Respublikos rinkai), [[#^s-635b7d2783b1aafa13ca6bb5|78 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#^s-12a26d529f5f2e4804c6393e|79 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, šeštojoje, septintojoje, aštuntojoje dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#^s-77af7018ca46bf1e01452ef5|87 straipsnyje]], [[#^s-393a0cafadb0ec39cde3f551|95 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#^s-55f9488c46ec48d6a34fa83c|98 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#^s-750bb4ee1643d7cac9da8e03|100 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#^s-781b6bc424822176d56a483a|101 straipsnyje]] (dėl įvežimo į Lietuvos Respublikos teritoriją), [[#^s-dfda5a9eb158867ad0979606|109 straipsnio]] aštuntojoje dalyje, [[#^s-b2c001911492afb7a7812560|1091 straipsnio]] pirmojoje, antrojoje, devintojoje dalyse, [[#^s-baa1ecb748517c173fa275fb|110 straipsnio]] ketvirtojoje, aštuntojoje, devintojoje dalyse, [[#^s-cc1b9d9bcc3a82c7a8ef9e59|1101 straipsnio]] septintojoje, vienuoliktojoje, dvyliktojoje dalyse, [[#^s-cc089d2bd6ea548084f1ba01|1103 straipsnio]] antrojoje dalyje, [[#^s-f9532aa3fba0ece04a24f6a3|1221 straipsnio]] pirmojoje, antrojoje dalyse, [[#^s-2df84da9c6f493c095c95e20|1222 straipsnio]] pirmojoje, antrojoje dalyse, [[#^s-32cd2d6ebdc2ee45de7c6372|1223 straipsnio]] pirmojoje, antrojoje dalyse, [[#^s-91e58d2ef36950c4a134b50e|1224 straipsnio]] trečiojoje, ketvirtojoje dalyse, [[#^s-e370537b98a388519a47603b|1226 straipsnio]] pirmojoje, antrojoje dalyse numatytų pažeidimų; ^s-5609778d9f3c4d1719e9fa11
 Straipsnio punkto pakeitimai:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
@@ -2388,7 +2393,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-7) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo 581, 97, 98, [[#100 straipsnis. Juridinių asmenų atsakomybė už apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai ir už į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais|100 straipsniuose]], [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnio]] pirmojoje, vienuoliktojoje, dvyliktojoje, keturioliktojoje, septynioliktojoje, dvidešimt pirmojoje dalyse, [[#110 straipsnis. Juridinių asmenų atsakomybė už ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso, įtrauktų į Reglamento (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimą|110 straipsnio]] ketvirtojoje, aštuntojoje, devintojoje dalyse, [[#1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą|1101 straipsnio]] septintojoje ir devintojoje dalyse, [[#1182 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr.  2023/1115  I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimą|1182 straipsnyje]], [[#1281 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimą Lietuvos Respublikos rinkai|1281 straipsnyje]] numatytų pažeidimų; ^94ec9acd748ef1d92bb605ce
+7) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo 581, 97, 98, [[#^s-750bb4ee1643d7cac9da8e03|100 straipsniuose]], [[#^s-dfda5a9eb158867ad0979606|109 straipsnio]] pirmojoje, vienuoliktojoje, dvyliktojoje, keturioliktojoje, septynioliktojoje, dvidešimt pirmojoje dalyse, [[#^s-baa1ecb748517c173fa275fb|110 straipsnio]] ketvirtojoje, aštuntojoje, devintojoje dalyse, [[#^s-cc1b9d9bcc3a82c7a8ef9e59|1101 straipsnio]] septintojoje ir devintojoje dalyse, [[#^s-afaff586670333b5263f9196|1182 straipsnyje]], [[#^s-0ad85efad4cc1dcb943b47d2|1281 straipsnyje]] numatytų pažeidimų; ^s-82440d343e95d9088f7d1dca
 Straipsnio punkto pakeitimai:
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
@@ -2399,13 +2404,13 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-8) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos įgalioti pareigūnai – dėl šio įstatymo [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnio]] 1, 13, 19 dalyse numatytų pažeidimų. ^9d41af9c937455a0f2d22f1b
+8) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos įgalioti pareigūnai – dėl šio įstatymo [[#^s-dfda5a9eb158867ad0979606|109 straipsnio]] 1, 13, 19 dalyse numatytų pažeidimų. ^s-1ce303a3bb5a6ffe1c876038
 Straipsnio punkto pakeitimai:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-9. Valstybinės maisto ir veterinarijos tarnybos įgalioti pareigūnai – dėl šio Įstatymo [[#1182 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr.  2023/1115  I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimą|1182 straipsnyje]] numatytų pažeidimų; ^969194f9e974282c24520a67
+9. Valstybinės maisto ir veterinarijos tarnybos įgalioti pareigūnai – dėl šio Įstatymo [[#^s-afaff586670333b5263f9196|1182 straipsnyje]] numatytų pažeidimų; ^s-1d63c2e260c2dbf8a7c324a7
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
@@ -2414,58 +2419,58 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 Teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir perduoti bylą dėl ekonominės sankcijos skyrimo nagrinėti šio straipsnio 1 dalies 1 punkte nurodytiems pareigūnams turi:
 
 
-1) neteko galios nuo 2021-07-01; ^25c48825d16208e83a16b2aa
+1) neteko galios nuo 2021-07-01; ^s-ba961791c5bbe511b0217291
 Straipsnio punkto pakeitimai:
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-2) neteko galios nuo 2021-07-01; ^d09a0e99ce16319423d0c080
+2) neteko galios nuo 2021-07-01; ^s-f8d8e1c85bf9c51076d4ae56
 Straipsnio punkto pakeitimai:
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-3) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo [[#90 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų išmetimą į aplinką|90 straipsnio]] 3, 7 dalyse, [[#91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką|91 straipsnio]] 3, 4, 8, [[#^969194f9e974282c24520a67|9 dalyse]] numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose; ^a6c30e87f2d41efe7036fb5d
+3) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo [[#^s-48e44d1e659d038e4eace96d|90 straipsnio]] 3, 7 dalyse, [[#^s-ad744f9840ea561df39af550|91 straipsnio]] 3, 4, 8, [[#^s-1d63c2e260c2dbf8a7c324a7|9 dalyse]] numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose; ^s-8e14a8ec5b63356b0c8fe4f2
 Straipsnio punkto pakeitimai:
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-4) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka įgalioti muitinės pareigūnai – dėl šio įstatymo 78 straipsnio 10 dalyje (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#79 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės|79 straipsnio]] 5, 9, 10 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#1091 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimą|1091 straipsnio]] 3, 4, 7 dalyse numatytų pažeidimų; ^d920a3d1d958585ec4a17ffe
+4) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka įgalioti muitinės pareigūnai – dėl šio įstatymo 78 straipsnio 10 dalyje (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#^s-12a26d529f5f2e4804c6393e|79 straipsnio]] 5, 9, 10 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), [[#^s-b2c001911492afb7a7812560|1091 straipsnio]] 3, 4, 7 dalyse numatytų pažeidimų; ^s-7552246c4070540134c42661
 Straipsnio punkto pakeitimai:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-5) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos įgalioti pareigūnai – dėl šio įstatymo [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnio]] 22, 23, 24, 25 dalyse, [[#1091 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimą|1091 straipsnio]] 5, 6, 7 dalyse numatytų pažeidimų; ^033896b1ac2c7afa88862482
+5) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos įgalioti pareigūnai – dėl šio įstatymo [[#^s-dfda5a9eb158867ad0979606|109 straipsnio]] 22, 23, 24, 25 dalyse, [[#^s-b2c001911492afb7a7812560|1091 straipsnio]] 5, 6, 7 dalyse numatytų pažeidimų; ^s-1812133404c90434406e86c4
 Straipsnio punkto pakeitimai:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-6) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnio]] 2, 18, 23, 24, 25 dalyse, 1091 straipsnio 4 dalyje (dėl gyvsidabrio savo sudėtyje turinčių produktų, nurodytų Reglamento (ES) 2017/852 II priede, importo į Lietuvos Respublikos teritoriją) ir 7 dalyje (dėl naujų produktų, kurių sudėtyje yra gyvsidabrio, tiekimo rinkai) numatytų pažeidimų; ^22ca0f2465600ff449f9af8d
+6) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo [[#^s-dfda5a9eb158867ad0979606|109 straipsnio]] 2, 18, 23, 24, 25 dalyse, 1091 straipsnio 4 dalyje (dėl gyvsidabrio savo sudėtyje turinčių produktų, nurodytų Reglamento (ES) 2017/852 II priede, importo į Lietuvos Respublikos teritoriją) ir 7 dalyje (dėl naujų produktų, kurių sudėtyje yra gyvsidabrio, tiekimo rinkai) numatytų pažeidimų; ^s-d12d61320b83cb5faa6ee824
 Straipsnio punkto pakeitimai:
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-7) vyresnieji valstybiniai aplinkos apsaugos inspektoriai ir valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–[[#58 straipsnis. Juridinių asmenų atsakomybė už aplinkosauginio ženklinimo reikalavimų pažeidimą|58 straipsniuose]], [[#581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje|581 straipsnyje]] (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimo Lietuvos Respublikos teritorijoje), 59–[[#1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą|1101 straipsniuose]], [[#1103 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimą|1103 straipsnio]] pirmojoje dalyje, 1104–[[#128 straipsnis. Juridinių asmenų atsakomybė už užstato taikymo ir užstato sistemos organizavimo reikalavimų pažeidimą|128 straipsniuose]] numatytų pažeidimų; ^5d7d8daaad309e98789a4dc1
+7) vyresnieji valstybiniai aplinkos apsaugos inspektoriai ir valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–[[#^s-87e92b704852d50ac727df63|58 straipsniuose]], [[#^s-935062c85a9f2ef555065ea5|581 straipsnyje]] (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimo Lietuvos Respublikos teritorijoje), 59–[[#^s-cc1b9d9bcc3a82c7a8ef9e59|1101 straipsniuose]], [[#^s-cc089d2bd6ea548084f1ba01|1103 straipsnio]] pirmojoje dalyje, 1104–[[#^s-7aa6495635b106f3ff9b8101|128 straipsniuose]] numatytų pažeidimų; ^s-06268c125ccd1449fe34aba2
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-8) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos pareigūnai – dėl šio įstatymo 1091 straipsnio 4 dalyje (dėl augalų apsaugos produktų importo į Lietuvos Respublikos teritoriją) ir 7 dalyje (dėl augalų apsaugos produktų tiekimo rinkai) numatytų pažeidimų; ^ed884c04b94de976905ecdb2
+8) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos pareigūnai – dėl šio įstatymo 1091 straipsnio 4 dalyje (dėl augalų apsaugos produktų importo į Lietuvos Respublikos teritoriją) ir 7 dalyje (dėl augalų apsaugos produktų tiekimo rinkai) numatytų pažeidimų; ^s-ba4cc21a82c00286c71ec255
 Papildyta straipsnio punktu:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-9) viešosios įstaigos Lietuvos prabavimo rūmų įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 23 dalyje numatytų pažeidimų. ^f1b38e3aa7d8673e116a7e96
+9) viešosios įstaigos Lietuvos prabavimo rūmų įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 23 dalyje numatytų pažeidimų. ^s-b17a00df4456f13407e652a9
 Papildyta straipsnio punktu:
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 Straipsnio punkto pakeitimai:
@@ -2473,14 +2478,14 @@ Nr. XIV-333, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12771
 
 
 
-### 38 straipsnis. Bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemonės
+### 38 straipsnis. Bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemonės ^s-352ea242e8e89a04faa7c62d
 
 
 Siekiant užkirsti kelią juridinių asmenų daromiems pažeidimams, surašyti juridinių asmenų padarytų pažeidimų protokolus, užtikrinti, kad būtų laiku ir teisingai nagrinėjamos bylos dėl ekonominių sankcijų skyrimo ir vykdomi nutarimai bylose dėl ekonominių sankcijų skyrimo, leidžiama asmens apžiūra, daiktų patikrinimas, daiktų ir dokumentų poėmis, neteisėtai pastatytų, laikomų ar naudojamų apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas, laivo stabdymas, laivo tikrinimas, laivo sulaikymas.
 
 
 
-### 39 straipsnis. Asmens apžiūra ir daiktų patikrinimas
+### 39 straipsnis. Asmens apžiūra ir daiktų patikrinimas ^s-6edb8e17954a22d4c231f5cd
 
 
 Asmens apžiūrą ir daiktų patikrinimą gali atlikti pareigūnai Lietuvos Respublikos įstatymų numatytais atvejais, turintys tam įgaliojimus. Asmens apžiūrą gali atlikti tos pačios lyties asmuo, kaip apžiūrimasis, dalyvaujant dviem tos pačios lyties kviestiniams. Daiktai tikrinami asmens, kurio nuosavybė jie yra arba yra jo valdomi, akivaizdoje arba be savininko (valdytojo), dalyvaujant dviem kviestiniams.
@@ -2493,7 +2498,7 @@ Asmens apžiūra ir daiktų patikrinimas muitinės įstaigose vykdomas Lietuvos 
 
 
 
-### 40 straipsnis. Daiktų ir dokumentų poėmis
+### 40 straipsnis. Daiktų ir dokumentų poėmis ^s-9b58fd2413963c6a4749115a
 
 
 Asmens apžiūros ar daiktų patikrinimo metu rastus daiktus ir dokumentus, kurie yra pažeidimo įrankis ar tiesioginis objektas, gali paimti tyrimą atliekantis pareigūnas. Paimti daiktai ir dokumentai iki bylos dėl ekonominės sankcijos skyrimo išnagrinėjimo saugomi pareigūnų, kuriems suteikta teisė paimti daiktus ir dokumentus, nustatytose vietose, o išnagrinėjus bylą, remiantis priimtu nutarimu, jie grąžinami teisėtam valdytojui arba sunaikinami. Daiktai, kurie gali greitai sugesti ar prarasti vertę arba kurių saugojimas, priežiūra ir laikymas susiję su aiškiai per didelėmis išlaidomis, jeigu negali būti grąžinami teisėtam valdytojui, bylą nagrinėjančio pareigūno nutarimu realizuojami Lietuvos Respublikos civilinio proceso kodekso areštuotam turtui realizuoti nustatyta tvarka. Įstatymų nustatytais atvejais teisėtam valdytojui atlyginama realizuotų arba sunaikintų daiktų vertė.
@@ -2503,7 +2508,7 @@ Daiktų ir dokumentų poėmio atveju surašomas jų paėmimo protokolas arba tai
 
 
 
-### 401 straipsnis. Turto konfiskavimas
+### 401 straipsnis. Turto konfiskavimas ^s-9db21fc70bea37a629dfb868
 
 
 Turto konfiskavimas – tai priverstinis neatlygintinas konfiskuotino bet kokio pavidalo turto, esančio pas pažeidėją ar kitus asmenis, paėmimas valstybės nuosavybėn. Turto konfiskavimas yra poveikio priemonė, kurią kartu su ekonomine sankcija gali skirti bylą dėl ekonominės sankcijos skyrimo nagrinėjanti institucija (pareigūnas). Turto konfiskavimas gali būti skiriamas, kai tai numatyta šio įstatymo straipsniuose, nustatančiuose atsakomybę už asmens padarytą veiką.
@@ -2515,18 +2520,18 @@ Konfiskuotas gali būti tik turtas, kuris yra pažeidėjo nuosavybė, išskyrus 
 Konfiskuojamas tik tas turtas, kuris buvo pažeidimo įrankis, priemonė, dalykas ar įstatymų uždraustos veikos rezultatas. Šio įstatymo uždraustos veikos rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš jos gautas bet kokio pavidalo turtas. Daiktai, kurių apyvarta uždrausta, konfiskuojami visais atvejais.
 
 
-Už šio įstatymo [[#72 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų šalinimą į jūrą|72 straipsnio]] ketvirtojoje ir devintojoje dalyse, [[#73 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų šalinimą į jūrą|73 straipsnio]] ketvirtojoje ir devintojoje dalyse, [[#78 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės|78 straipsnio]] antrojoje, trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje dalyse, [[#79 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės|79 straipsnio]] antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje dalyse, [[#90 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų išmetimą į aplinką|90 straipsnio]] antrojoje, trečiojoje, penktojoje, šeštojoje dalyse, [[#91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką|91 straipsnio]] antrojoje, trečiojoje, ketvirtojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje dalyse, [[#110 straipsnis. Juridinių asmenų atsakomybė už ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso, įtrauktų į Reglamento (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimą|110 straipsnio]] ketvirtojoje, aštuntojoje, devintojoje dalyse, [[#1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą|1101 straipsnio]] dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, [[#117 straipsnis. Juridinių asmenų atsakomybė už savavališką medžių ir krūmų kirtimą, naikinimą arba žalojimą miško žemėje|117 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje dalyse, [[#118 straipsnis. Juridinių asmenų atsakomybė už savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ištraukimą arba išvežimą be leidimo|118 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje dalyse, [[#1181 straipsnis. Juridinių asmenų atsakomybė už informacijos apie medieną ir medienos produktus saugojimo ir teikimo, deramo patikrinimo, medienos ir medienos produktų pateikimo rinkai reikalavimų pažeidimą|1181 straipsnio]] šeštojoje dalyje, [[#1182 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr.  2023/1115  I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimą|1182 straipsnio]] penktojoje, šeštojoje dalyse, [[#1221 straipsnis. Juridinių asmenų atsakomybė už laukinių augalų ar grybų išteklių naudojimą pažeidžiant laukinių augalų ar grybų naudojimą reglamentuojančius teisės aktus|1221 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, [[#1222 straipsnis. Juridinių asmenų atsakomybė už saugomų rūšių naudojimą pažeidžiant saugomų rūšių naudojimą reglamentuojančius teisės aktus, saugomų rūšių apsaugos reikalavimų pažeidimus|1222 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, keturioliktojoje, penkioliktojoje, šešioliktojoje, septynioliktojoje, aštuonioliktojoje, devynioliktojoje, dvidešimtojoje, dvidešimt trečiojoje, dvidešimt ketvirtojoje, dvidešimt penktojoje, dvidešimt šeštojoje dalyse, [[#1223 straipsnis. Juridinių asmenų atsakomybė už laukinių gyvūnų išteklių naudojimą pažeidžiant laukinių gyvūnų naudojimą reglamentuojančius teisės aktus|1223 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, keturioliktojoje, penkioliktojoje, šešioliktojoje, septynioliktojoje, aštuonioliktojoje, devynioliktojoje, dvidešimtojoje dalyse, [[#1224 straipsnis. Juridinių asmenų atsakomybė už neteisėtą invazinių rūšių naudojimą ir valdymo priemonių nevykdymą|1224 straipsnio]] trečiojoje, ketvirtojoje, penktojoje, šeštojoje dalyse numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio trečiojoje dalyje nurodytas turtas, kai yra bent viena iš šių sąlygų:
+Už šio įstatymo [[#^s-5be60ff0007107bdcd8e1f9d|72 straipsnio]] ketvirtojoje ir devintojoje dalyse, [[#^s-28a9acb0b2b2ea8b4e7232d7|73 straipsnio]] ketvirtojoje ir devintojoje dalyse, [[#^s-635b7d2783b1aafa13ca6bb5|78 straipsnio]] antrojoje, trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje dalyse, [[#^s-12a26d529f5f2e4804c6393e|79 straipsnio]] antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje dalyse, [[#^s-48e44d1e659d038e4eace96d|90 straipsnio]] antrojoje, trečiojoje, penktojoje, šeštojoje dalyse, [[#^s-ad744f9840ea561df39af550|91 straipsnio]] antrojoje, trečiojoje, ketvirtojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje dalyse, [[#^s-baa1ecb748517c173fa275fb|110 straipsnio]] ketvirtojoje, aštuntojoje, devintojoje dalyse, [[#^s-cc1b9d9bcc3a82c7a8ef9e59|1101 straipsnio]] dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, [[#^s-28efe8562ffcf2c62f86c639|117 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje dalyse, [[#^s-ff14f49510b32ff59db9ae03|118 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje dalyse, [[#^s-663463580d8e2b97143e72f4|1181 straipsnio]] šeštojoje dalyje, [[#^s-afaff586670333b5263f9196|1182 straipsnio]] penktojoje, šeštojoje dalyse, [[#^s-f9532aa3fba0ece04a24f6a3|1221 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, [[#^s-2df84da9c6f493c095c95e20|1222 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, keturioliktojoje, penkioliktojoje, šešioliktojoje, septynioliktojoje, aštuonioliktojoje, devynioliktojoje, dvidešimtojoje, dvidešimt trečiojoje, dvidešimt ketvirtojoje, dvidešimt penktojoje, dvidešimt šeštojoje dalyse, [[#^s-32cd2d6ebdc2ee45de7c6372|1223 straipsnio]] pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, keturioliktojoje, penkioliktojoje, šešioliktojoje, septynioliktojoje, aštuonioliktojoje, devynioliktojoje, dvidešimtojoje dalyse, [[#^s-91e58d2ef36950c4a134b50e|1224 straipsnio]] trečiojoje, ketvirtojoje, penktojoje, šeštojoje dalyse numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio trečiojoje dalyje nurodytas turtas, kai yra bent viena iš šių sąlygų:
 Straipsnio dalies pakeitimai:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
-1) perleisdamas turtą pažeidėjui ar kitiems asmenims, turto savininkas žinojo arba turėjo ir galėjo žinoti, kad šis turtas bus naudojamas pažeidimui daryti; ^d0eaf334d26647ef1597d8e5
+1) perleisdamas turtą pažeidėjui ar kitiems asmenims, turto savininkas žinojo arba turėjo ir galėjo žinoti, kad šis turtas bus naudojamas pažeidimui daryti; ^s-07ab32f3c2c18b31763e4f67
 
 
-2) turtas pažeidėjui buvo perleistas sudarius apsimestinį sandorį; ^d43e08164e734f0e5c4983b4
+2) turtas pažeidėjui buvo perleistas sudarius apsimestinį sandorį; ^s-9f90ac8fddbca4291a54e5d9
 
 
-3) įgydami šį turtą, pažeidėjo juridinio asmens vadovaujamas pareigas ėję ir teisę jam atstovauti, priimti sprendimus juridinio asmens vardu ar kontroliuoti juridinio asmens veiklą turėję asmenys žinojo arba turėjo ir galėjo žinoti, kad šis turtas yra pažeidimo įrankis, priemonė, dalykas ar įstatymų uždraustos veikos rezultatas, gautas dėl pažeidimo padarymo. ^c8f63a4d5322d98ad2dbf503
+3) įgydami šį turtą, pažeidėjo juridinio asmens vadovaujamas pareigas ėję ir teisę jam atstovauti, priimti sprendimus juridinio asmens vardu ar kontroliuoti juridinio asmens veiklą turėję asmenys žinojo arba turėjo ir galėjo žinoti, kad šis turtas yra pažeidimo įrankis, priemonė, dalykas ar įstatymų uždraustos veikos rezultatas, gautas dėl pažeidimo padarymo. ^s-12baf4ebaa9fcf6e05284bf4
 
 
 Kai konfiskuotinas turtas yra paslėptas, suvartotas, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, bylą dėl ekonominės sankcijos skyrimo nagrinėjančios institucijos (pareigūno) nutarimu iš pažeidėjo ar kitų šio straipsnio penktojoje dalyje nurodytų asmenų išieškoma konfiskuotino turto vertę atitinkanti pinigų suma.
@@ -2540,10 +2545,10 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 41 straipsnis. Neteisėtai pastatytų, laikomų ar naudojamų apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas
+### 41 straipsnis. Neteisėtai pastatytų, laikomų ar naudojamų apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas ^s-ba43c203615ebbfbc0bb4ee2
 
 
-Tirdami šio įstatymo [[#122 straipsnis. Juridinių asmenų atsakomybė už saugomų teritorijų apsaugos ir naudojimo reikalavimų pažeidimą|122 straipsnio]] 10, 11 dalyse numatytus pažeidimus aplinkos apsaugos valstybinės kontrolės pareigūnai turi teisę priverstinai nuvežti neteisėtai pastatytus, laikomus ar naudojamus apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius ar kitus kilnojamuosius objektus arba įrenginius savininko lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinio nuvežimo išlaidos apmokamos, vagonėliai ar kiti kilnojamieji objektai arba įrenginiai grąžinami savininkui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Tirdami šio įstatymo 122 straipsnio 10, 11 dalyse numatytus pažeidimus aplinkos apsaugos valstybinės kontrolės pareigūnai turi teisę priverstinai nuvežti neteisėtai pastatytus, laikomus ar naudojamus apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius ar kitus kilnojamuosius objektus arba įrenginius savininko lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinio nuvežimo išlaidos apmokamos, vagonėliai ar kiti kilnojamieji objektai arba įrenginiai grąžinami savininkui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -2551,57 +2556,57 @@ Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
 
 
 
-### 42 straipsnis. Laivo stabdymas, tikrinimas ar sulaikymas
+### 42 straipsnis. Laivo stabdymas, tikrinimas ar sulaikymas ^s-eda7ea9016aead2bbc0f6ac7
 
 
-Aplinkos apsaugos valstybinės kontrolės pareigūnas, atlikdamas šiame įstatyme nurodytų pažeidimų tyrimą, turi teisę Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka stabdyti, tikrinti ir sulaikyti laivą.
+Aplinkos apsaugos valstybinės kontrolės pareigūnas, atlikdamas šiame įstatyme nurodytų pažeidimų tyrimą, turi teisę [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo]] ir Lietuvos Respublikos Vyriausybės nustatyta tvarka stabdyti, tikrinti ir sulaikyti laivą.
 
 
 
-### 43 straipsnis. Bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemonių apskundimas
+### 43 straipsnis. Bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemonių apskundimas ^s-0d64c035948624cf902c19c1
 
 
-Asmuo, kuriam taikomos bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemonės, turi teisę pateikti skundą dėl sprendimo taikyti bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemones ne vėliau kaip per 10 dienų nuo sužinojimo apie skundžiamus veiksmus dienos Regionų administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. Regionų administracinis teismas išnagrinėja skundą dėl sprendimo taikyti bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemones per 15 dienų nuo skundo gavimo. Šis Regionų administracinio teismo sprendimas yra neskundžiamas.
+Asmuo, kuriam taikomos bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemonės, turi teisę pateikti skundą dėl sprendimo taikyti bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemones ne vėliau kaip per 10 dienų nuo sužinojimo apie skundžiamus veiksmus dienos Regionų administraciniam teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. Regionų administracinis teismas išnagrinėja skundą dėl sprendimo taikyti bylų dėl ekonominių sankcijų skyrimo teisenos užtikrinimo priemones per 15 dienų nuo skundo gavimo. Šis Regionų administracinio teismo sprendimas yra neskundžiamas.
 Straipsnio dalies pakeitimai:
 Nr. XV-917, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08250
 
 
 
-Asmuo, kuriam taikomas laivo sulaikymas, turi teisę pateikti skundą dėl sprendimo sulaikyti laivą Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka.
+Asmuo, kuriam taikomas laivo sulaikymas, turi teisę pateikti skundą dėl sprendimo sulaikyti laivą [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo]] nustatyta tvarka.
 
 
 
-### 44 straipsnis. Juridinio asmens padaryto pažeidimo protokolas ir jo įteikimas
+### 44 straipsnis. Juridinio asmens padaryto pažeidimo protokolas ir jo įteikimas ^s-0fec1e442f3c63adae748e20
 
 
 Pareigūnai, turintys teisę surašyti juridinių asmenų padarytų pažeidimų protokolus (toliau – protokolas), baigę pažeidimo tyrimą, surašo protokolą, kuriame nurodoma:
 
 
-1) įtariamas pažeidimo padarymu juridinis asmuo (juridinio asmens pavadinimas, teisinė forma, buveinės adresas, kodas); ^892c6491ba425b051345cbb6
+1) įtariamas pažeidimo padarymu juridinis asmuo (juridinio asmens pavadinimas, teisinė forma, buveinės adresas, kodas); ^s-83c1088a3bffb63302f3cca6
 
 
-2) pažeidimo esmė, pažeidimo padarymo aplinkybės; ^daa2c922c5c29d827b315b57
+2) pažeidimo esmė, pažeidimo padarymo aplinkybės; ^s-3b72a3eea5522336e7d14556
 
 
-3) atsakomybę už juridinio asmens padarytą pažeidimą nustatantis šio įstatymo straipsnis ar straipsnio dalis, įstatymo ar kito teisės akto, kurio reikalavimus pažeidė juridinis asmuo, straipsnis, dalis, punktas; ^4354f7ead0f93bd827e1e66e
+3) atsakomybę už juridinio asmens padarytą pažeidimą nustatantis šio įstatymo straipsnis ar straipsnio dalis, įstatymo ar kito teisės akto, kurio reikalavimus pažeidė juridinis asmuo, straipsnis, dalis, punktas; ^s-490f8da54d1a334a66fa2ec6
 
 
-4) įrodymai, kuriais grindžiamas pažeidimo padarymas; ^3030420c8eb738390233ae04
+4) įrodymai, kuriais grindžiamas pažeidimo padarymas; ^s-734d95bf89ec69dc82f6e343
 
 
-5) liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai; ^48d4b89f61ffa965b758949e
+5) liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai; ^s-e17e7d484a680969ee7cf0d3
 
 
-6) kiti duomenys, būtini bylai išnagrinėti; ^0b43353291443a0caaf5e7bf
+6) kiti duomenys, būtini bylai išnagrinėti; ^s-7906aa9c66d2b30172c93fef
 
 
-7) numatoma bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vieta, data ir laikas; ^c8d1526ac10d0a49f5f6248e
+7) numatoma bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vieta, data ir laikas; ^s-514ee3ad7f2fd06c54aa4551
 
 
-8) pasiūlymas pateikti paaiškinimą raštu dėl pažeidimo, pateikti įrodymus ir prašymus iki protokole nurodytos bylos dėl ekonominės sankcijos skyrimo nagrinėjimo pradžios; ^4b884114fc6602b46b8beb6f
+8) pasiūlymas pateikti paaiškinimą raštu dėl pažeidimo, pateikti įrodymus ir prašymus iki protokole nurodytos bylos dėl ekonominės sankcijos skyrimo nagrinėjimo pradžios; ^s-6011fc9ad7afd0115106bc17
 
 
-9) protokolą surašęs pareigūnas (vardas, pavardė, pareigos, parašas). ^5225ffcf4b45c84e65bd3b55
+9) protokolą surašęs pareigūnas (vardas, pavardė, pareigos, parašas). ^s-6fef3d1e1e0b15d996f22976
 
 
 Protokolo kopija ne vėliau kaip per 3 darbo dienas nuo protokolo surašymo įteikiama arba išsiunčiama įtariamam pažeidimo padarymu juridiniam asmeniui registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu.
@@ -2614,7 +2619,7 @@ Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas turi būti numatytas ne a
 
 
 
-### 45 straipsnis. Protokolo ar medžiagos išsiuntimas
+### 45 straipsnis. Protokolo ar medžiagos išsiuntimas ^s-2254c06fe6ea0c33d816d53f
 
 
 Protokolas ne vėliau kaip per 3 darbo dienas nuo jo surašymo momento išsiunčiamas pareigūnui, įgaliotam nagrinėti bylą dėl ekonominės sankcijos skyrimo (išskyrus atvejus, kai protokolą surašęs pareigūnas turi teisę nagrinėti bylą dėl ekonominės sankcijos skyrimo).
@@ -2624,26 +2629,26 @@ Atsisakius pradėti ikiteisminį tyrimą ar jį nutraukus arba nutraukus baudži
 
 
 
-### 46 straipsnis. Bylų dėl ekonominių sankcijų skyrimo proceso dalyviai
+### 46 straipsnis. Bylų dėl ekonominių sankcijų skyrimo proceso dalyviai ^s-3111e14a56d8c55b8c472f4d
 
 
 Nagrinėjant bylas dėl ekonominių sankcijų skyrimo dalyvauja:
 
 
-1) įtariamas pažeidimo padarymu juridinis asmuo (jo įgaliotas atstovas); ^996a8fd8c9e15486c116dec5
+1) įtariamas pažeidimo padarymu juridinis asmuo (jo įgaliotas atstovas); ^s-fde9794572df30b14a849a12
 
 
-2) suinteresuoti asmenys (valstybės ir savivaldybių institucijų ir įstaigų atstovai – jų prašymu ir bylą nagrinėjančių pareigūnų sprendimu – kiti asmenys), kurių interesai tiesiogiai susiję su nagrinėjama byla (jų įgalioti atstovai); ^033b222a5bb3b81602eb3087
+2) suinteresuoti asmenys (valstybės ir savivaldybių institucijų ir įstaigų atstovai – jų prašymu ir bylą nagrinėjančių pareigūnų sprendimu – kiti asmenys), kurių interesai tiesiogiai susiję su nagrinėjama byla (jų įgalioti atstovai); ^s-266669ce50be63131cbdccb4
 
 
-3) liudytojai, ekspertai, specialistai ir vertėjai. ^c1340c51614fde5ce4f7a397
+3) liudytojai, ekspertai, specialistai ir vertėjai. ^s-bd35c1386ac42e9ceceee7bf
 
 
 
-### 47 straipsnis. Rašytinis įspėjimas
+### 47 straipsnis. Rašytinis įspėjimas ^s-eabae6cbe7050ceb61adceaf
 
 
-Nustačius šio įstatymo [[#55 straipsnis. Juridinių asmenų atsakomybė už ūkinės veiklos vykdymą, ūkinės veiklos objektų ar įrenginių eksploatavimą pažeidžiant šio įstatymo 15, 151, 19, 191, 192 ir 193 straipsnių reikalavimus|55 straipsnio]] septintojoje dalyje, [[#57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą|57 straipsnio]] pirmojoje, trečiojoje, penktojoje dalyse, [[#581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje|581 straipsnio]] trečiojoje dalyje, [[#76 straipsnis. Juridinių asmenų atsakomybė už taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų teikimo reikalavimų nevykdymą|76 straipsnio]] pirmojoje dalyje, [[#93 straipsnis. Juridinių asmenų atsakomybė už atliekų susidarymo ir (ar) tvarkymo apskaitos vykdymo, atliekų susidarymo ir (ar) tvarkymo apskaitos ataskaitų teikimo reikalavimų nevykdymą|93 straipsnio]] pirmojoje, ketvirtojoje dalyse, [[#931 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymą|931 straipsnio]] pirmojoje dalyje, [[#94 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos tvarkymo, šių gaminių apskaitos ataskaitos, atliekų tvarkymo organizavimo veiklos ataskaitos ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos teikimo reikalavimų nevykdymą|94 straipsnio]] pirmojoje, antrojoje dalyse, [[#941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą|941 straipsnio]] pirmojoje, ketvirtojoje dalyse, [[#107 straipsnis. Juridinių asmenų atsakomybė už pakuočių apskaitos tvarkymo, pakuočių apskaitos ataskaitos teikimo ir mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos teikimo reikalavimų nevykdymą|107 straipsnio]] pirmojoje, antrojoje dalyse, [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnio]] trečiojoje, ketvirtojoje, šeštojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, penkioliktojoje, devynioliktojoje, dvidešimtojoje dalyse, [[#112 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių išteklių apskaitos reikalavimų ir rekultivavimo reikalavimų pažeidimą|112 straipsnio]] pirmojoje dalyje, [[#1182 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr.  2023/1115  I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimą|1182 straipsnio]] pirmojoje, trečiojoje dalyse numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
+Nustačius šio įstatymo [[#^s-b9aeaea636331003ca19243d|55 straipsnio]] septintojoje dalyje, [[#^s-4016f37f4b259e4fbfc3147e|57 straipsnio]] pirmojoje, trečiojoje, penktojoje dalyse, [[#^s-935062c85a9f2ef555065ea5|581 straipsnio]] trečiojoje dalyje, [[#^s-b21ffb03dca59a8297c87d2a|76 straipsnio]] pirmojoje dalyje, [[#^s-072b7c553b90527997de228d|93 straipsnio]] pirmojoje, ketvirtojoje dalyse, [[#^s-3ddf7e40a8643d7dd4ddf390|931 straipsnio]] pirmojoje dalyje, [[#^s-fed04b262f5c85c47e98eefa|94 straipsnio]] pirmojoje, antrojoje dalyse, [[#^s-70c8f55d6fb31b54f4839015|941 straipsnio]] pirmojoje, ketvirtojoje dalyse, [[#^s-481704109162e6997588ef9b|107 straipsnio]] pirmojoje, antrojoje dalyse, [[#^s-dfda5a9eb158867ad0979606|109 straipsnio]] trečiojoje, ketvirtojoje, šeštojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, penkioliktojoje, devynioliktojoje, dvidešimtojoje dalyse, [[#^s-703be7287e4734f45c3978fc|112 straipsnio]] pirmojoje dalyje, [[#^s-afaff586670333b5263f9196|1182 straipsnio]] pirmojoje, trečiojoje dalyse numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
 
 
 Kai šio straipsnio pirmojoje dalyje nurodytuose straipsniuose numatyti pažeidimai nustatomi juridinio asmens įgalioto atstovo akivaizdoje, šio straipsnio pirmojoje dalyje nurodytas įspėjimas įteikiamas jam pasirašytinai, kitais atvejais – siunčiamas registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu.
@@ -2657,7 +2662,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 48 straipsnis. Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas
+### 48 straipsnis. Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas ^s-89d45091fa1a38d5e090f194
 
 
 Įtariamas pažeidimo padarymu juridinis asmuo ir suinteresuoti asmenys turi teisę bet kuriuo metu nuo protokolo surašymo susipažinti su bylos medžiaga (išskyrus medžiagą, dėl kurios bylą nagrinėjantis pareigūnas savo iniciatyva ar bylos dėl ekonominės sankcijos skyrimo proceso dalyvio prašymu motyvuota nutartimi nustatė, kad bylos medžiaga ar jos dalis yra valstybės, tarnybos arba komercinė paslaptis), kopijuoti šią bylos medžiagą, teikti įrodymus ir paaiškinimus, teikti prašymus dėl įrodymų rinkimo (taip pat kviesti liudytojus). Bylos dėl ekonominės sankcijos skyrimo nagrinėjimo posėdyje apklausiant liudytojus, įtariamam pažeidimo padarymu juridiniam asmeniui suteikiama teisė užduoti klausimų liudytojams.
@@ -2669,16 +2674,16 @@ Byla dėl ekonominės sankcijos skyrimo nagrinėjama dalyvaujant įtariamam paž
 Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas atidedamas, kai:
 
 
-1) į posėdį neatvyksta įtariamas pažeidimo padarymu juridinis asmuo (jo įgaliotas atstovas), kuriam tinkamai nepranešta apie bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vietą, datą ir laiką; ^a2b38b72e1d14835ab9363be
+1) į posėdį neatvyksta įtariamas pažeidimo padarymu juridinis asmuo (jo įgaliotas atstovas), kuriam tinkamai nepranešta apie bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vietą, datą ir laiką; ^s-b89ed30b76e1e265ec25604e
 
 
-2) į posėdį neatvyksta įtariamas pažeidimo padarymu juridinis asmuo ir iki bylos dėl ekonominės sankcijos skyrimo nagrinėjimo posėdžio gautas įtariamo pažeidimo padarymu juridinio asmens pagrįstas įrodymais prašymas nenagrinėti bylos jam nedalyvaujant, ir nagrinėjantis bylą pareigūnas pripažįsta neatvykimo priežastis svarbiomis; ^1f0dbf2a9dfb4417274ad420
+2) į posėdį neatvyksta įtariamas pažeidimo padarymu juridinis asmuo ir iki bylos dėl ekonominės sankcijos skyrimo nagrinėjimo posėdžio gautas įtariamo pažeidimo padarymu juridinio asmens pagrįstas įrodymais prašymas nenagrinėti bylos jam nedalyvaujant, ir nagrinėjantis bylą pareigūnas pripažįsta neatvykimo priežastis svarbiomis; ^s-45464033449f5e9bec51995f
 
 
-3) į posėdį neatvyksta kiti proceso dalyviai, kurių dalyvavimą bylą nagrinėjantis pareigūnas pripažįsta būtinu; ^96115261d089984309bed597
+3) į posėdį neatvyksta kiti proceso dalyviai, kurių dalyvavimą bylą nagrinėjantis pareigūnas pripažįsta būtinu; ^s-361391e2067af5ae782b021f
 
 
-4) ekonominei sankcijai skirti būtina gauti papildomus įrodymus (taip pat kviesti liudytojus, specialistą, ekspertą). ^7b06bb42b9c87a21b7bd1c9e
+4) ekonominei sankcijai skirti būtina gauti papildomus įrodymus (taip pat kviesti liudytojus, specialistą, ekspertą). ^s-58a1d74e92ced8610c0c48c4
 
 
 Sprendimą atidėti bylos dėl ekonominės sankcijos skyrimo nagrinėjimą priima šią bylą nagrinėjantis pareigūnas, priimdamas motyvuotą nutarimą. Šiuo nutarimu nustatoma nauja bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vieta, data ir laikas. Šio nutarimo kopija įteikiama arba išsiunčiama įtariamam pažeidimo padarymu juridiniam asmeniui registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo. Šio nutarimo kopija taip pat įteikiama arba registruotu laišku išsiunčiama kitiems proceso dalyviams ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo.
@@ -2691,47 +2696,47 @@ Bylos dėl ekonominės sankcijos skyrimo nagrinėjimo metu įtariamam pažeidimo
 
 
 
-### 49 straipsnis. Aplinkybės, darančios bylos dėl ekonominės sankcijos skyrimo teiseną negalimą
+### 49 straipsnis. Aplinkybės, darančios bylos dėl ekonominės sankcijos skyrimo teiseną negalimą ^s-509a6e08d0a5a2ce53799ca8
 
 
 Bylos dėl ekonominės sankcijos skyrimo teisena negali būti pradėta, o pradėtoji turi būti nutraukta šiomis aplinkybėmis:
 
 
-1) kai panaikinama juridinio asmens atsakomybę nustatanti teisės aktų nuostata; ^9a67bf6d6dd12cc36f732320
+1) kai panaikinama juridinio asmens atsakomybę nustatanti teisės aktų nuostata; ^s-74e8ebb383064caa3ac0ffb8
 
 
-2) kai dėl to paties fakto dėl juridinio asmens yra priimtas nutarimas skirti ekonominę sankciją, taip pat jeigu dėl to juridinio asmens padaryto pažeidimo pradėtas ikiteisminis tyrimas; ^26300e7a73b62c88d94d8494
+2) kai dėl to paties fakto dėl juridinio asmens yra priimtas nutarimas skirti ekonominę sankciją, taip pat jeigu dėl to juridinio asmens padaryto pažeidimo pradėtas ikiteisminis tyrimas; ^s-b3da2003b1fed5f0ccb5bded
 
 
-3) kai pasibaigia ekonominės sankcijos skyrimo senaties terminai; ^ece61a5a67012c6197704f4d
+3) kai pasibaigia ekonominės sankcijos skyrimo senaties terminai; ^s-2d2285359ff2ed6a459701ee
 
 
-4) jeigu likviduotas juridinis asmuo, dėl kurio buvo pradėta bylos dėl ekonominės sankcijos skyrimo teisena; ^6f57342174e32b2384588756
+4) jeigu likviduotas juridinis asmuo, dėl kurio buvo pradėta bylos dėl ekonominės sankcijos skyrimo teisena; ^s-e58f5ea6306b58003551e3b7
 
 
-5) kai juridinis asmuo veikė būtinojo reikalingumo atveju (siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė už tą, kurios siekta išvengti, išskyrus atvejus, kai juridinis asmuo turėjo pareigą veikti didesnio negu įprasta pavojaus sąlygomis) arba būtinosios ginties atveju (padarė šiame įstatyme numatyto pažeidimo požymius formaliai atitinkančią veiką, gindamas savo ar kito asmens teises ar laisves, visuomenės ar valstybės interesus nuo pradėto ar tiesiogiai gresiančio pavojingo ir priešingo teisei kėsinimosi, neperžengdamas būtinosios ginties ribų, kai gynyba akivaizdžiai neatitinka priešingo teisei kėsinimosi pobūdžio ir pavojingumo); ^f7dc0f40cd166e31b48199ca
+5) kai juridinis asmuo veikė būtinojo reikalingumo atveju (siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė už tą, kurios siekta išvengti, išskyrus atvejus, kai juridinis asmuo turėjo pareigą veikti didesnio negu įprasta pavojaus sąlygomis) arba būtinosios ginties atveju (padarė šiame įstatyme numatyto pažeidimo požymius formaliai atitinkančią veiką, gindamas savo ar kito asmens teises ar laisves, visuomenės ar valstybės interesus nuo pradėto ar tiesiogiai gresiančio pavojingo ir priešingo teisei kėsinimosi, neperžengdamas būtinosios ginties ribų, kai gynyba akivaizdžiai neatitinka priešingo teisei kėsinimosi pobūdžio ir pavojingumo); ^s-6dbdbd47d4550cdb3914b000
 
 
-6) kai pažeidimas padarytas dėl nenugalimos jėgos aplinkybių ar dėl trečiųjų asmenų veiksmų. ^51d31a225b069608dde0f48a
+6) kai pažeidimas padarytas dėl nenugalimos jėgos aplinkybių ar dėl trečiųjų asmenų veiksmų. ^s-0f45e47fdb53d998184a0b56
 
 
-Nustačius, kad padaryta veika turi nusikalstamos veikos požymių, juridinio asmens padaryto pažeidimo tyrimą atliekantis ar bylą dėl ekonominių sankcijų skyrimo nagrinėjantis pareigūnas motyvuotu nutarimu perduoda surinktą medžiagą ikiteisminio tyrimo institucijai ar prokurorui, kurie Baudžiamojo proceso kodekso nustatyta tvarka nusprendžia, ar pradėti ikiteisminį tyrimą. Iš ikiteisminio tyrimo institucijos ar prokuroro gavus pranešimą apie ikiteisminio tyrimo pradžią, bylos dėl ekonominės sankcijos skyrimo teisena nutraukiama motyvuotu nutarimu. Nutarimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos įteikiamas arba išsiunčiamas juridiniam asmeniui, dėl kurio jis priimtas, registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Nutarimas įsigalioja jo priėmimo dieną.
+Nustačius, kad padaryta veika turi nusikalstamos veikos požymių, juridinio asmens padaryto pažeidimo tyrimą atliekantis ar bylą dėl ekonominių sankcijų skyrimo nagrinėjantis pareigūnas motyvuotu nutarimu perduoda surinktą medžiagą ikiteisminio tyrimo institucijai ar prokurorui, kurie [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nustatyta tvarka nusprendžia, ar pradėti ikiteisminį tyrimą. Iš ikiteisminio tyrimo institucijos ar prokuroro gavus pranešimą apie ikiteisminio tyrimo pradžią, bylos dėl ekonominės sankcijos skyrimo teisena nutraukiama motyvuotu nutarimu. Nutarimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos įteikiamas arba išsiunčiamas juridiniam asmeniui, dėl kurio jis priimtas, registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Nutarimas įsigalioja jo priėmimo dieną.
 
 
 
-### 50 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės sankcijos skyrimo, ir jų apskundimas
+### 50 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės sankcijos skyrimo, ir jų apskundimas ^s-9e3c24559baa021e2c2a265a
 
 
 Pareigūnas, išnagrinėjęs bylą dėl ekonominės sankcijos skyrimo, priima nutarimą:
 
 
-1) skirti ekonominę sankciją arba ^20d1541369c86c48f5b167b5
+1) skirti ekonominę sankciją arba ^s-7559c484cdfdd104f846a3ef
 
 
-2) nutraukti bylą dėl ekonominės sankcijos skyrimo, jeigu nėra pažeidimo sudėties arba yra kitų šio įstatymo 49 straipsnio 1 dalyje nurodytų aplinkybių, arba ^6fd3ea30a2d724f8f779e38b
+2) nutraukti bylą dėl ekonominės sankcijos skyrimo, jeigu nėra pažeidimo sudėties arba yra kitų šio įstatymo 49 straipsnio 1 dalyje nurodytų aplinkybių, arba ^s-93d778501a30b525a4c92e41
 
 
-3) atlikti papildomą tyrimą byloje, jeigu bylą dėl ekonominės sankcijos skyrimo nagrinėjantis pareigūnas nustato, kad byloje trūksta įrodymų, kad būtų galima priimti pagrįstą nutarimą. ^97f4c99fa4573cc7bd65effd
+3) atlikti papildomą tyrimą byloje, jeigu bylą dėl ekonominės sankcijos skyrimo nagrinėjantis pareigūnas nustato, kad byloje trūksta įrodymų, kad būtų galima priimti pagrįstą nutarimą. ^s-a647967c721071d431c9afa4
 
 
 Šio straipsnio 1 dalies 1 punkte nurodytame nutarime nurodoma: nutarimą priėmęs pareigūnas (vardas, pavardė, pareigos); bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vieta, data, laikas; pažeidėjo duomenys (juridinio asmens pavadinimas, teisinė forma, buveinės adresas, kodas); pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; pažeidėjo kaltę pagrindžiantys įrodymai; pažeidėjo paaiškinimai dėl padaryto pažeidimo; šio įstatymo straipsnis ar jo dalis, numatantis (numatanti) atsakomybę už pažeidėjo padarytą veiką; pareigūno priimtas nutarimas skirti ekonominę sankciją, nutarimo priėmimo motyvai; atsakomybę sunkinančios ir lengvinančios aplinkybės, skiriamos baudos dydis, sąskaita, į kurią turi būti sumokėta bauda, baudos sumokėjimo terminas; nutarimo apskundimo terminai ir tvarka.
@@ -2746,7 +2751,7 @@ Pareigūnas, išnagrinėjęs bylą dėl ekonominės sankcijos skyrimo, priima nu
 Nutarimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos įteikiamas arba išsiunčiamas juridiniam asmeniui, dėl kurio jis priimtas, registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu.
 
 
-Šio straipsnio 1 dalies 1 ir [[#^6fd3ea30a2d724f8f779e38b|2 punktuose]] nurodyti nutarimai įsigalioja per 30 dienų nuo jų priėmimo dienos, jeigu jie neskundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka Regionų administraciniam teismui. Šio straipsnio 1 dalies 1 ir [[#^6fd3ea30a2d724f8f779e38b|2 punktuose]] nurodytus nutarimus per 30 dienų nuo jų priėmimo dienos gali skųsti juridinis asmuo, dėl kurio atitinkamas nutarimas priimtas, ir suinteresuoti asmenys, kurių interesai tiesiogiai susiję su nagrinėjama byla. Kreipimasis į teismą sustabdo nutarimo skirti ekonominę sankciją vykdymą.
+Šio straipsnio 1 dalies 1 ir [[#^s-93d778501a30b525a4c92e41|2 punktuose]] nurodyti nutarimai įsigalioja per 30 dienų nuo jų priėmimo dienos, jeigu jie neskundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka Regionų administraciniam teismui. Šio straipsnio 1 dalies 1 ir [[#^s-93d778501a30b525a4c92e41|2 punktuose]] nurodytus nutarimus per 30 dienų nuo jų priėmimo dienos gali skųsti juridinis asmuo, dėl kurio atitinkamas nutarimas priimtas, ir suinteresuoti asmenys, kurių interesai tiesiogiai susiję su nagrinėjama byla. Kreipimasis į teismą sustabdo nutarimo skirti ekonominę sankciją vykdymą.
 Straipsnio dalies pakeitimai:
 Nr. XV-917, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08250
 
@@ -2761,14 +2766,14 @@ Ekonominė sankcija turi būti paskirta per 6 mėnesius nuo protokolo surašymo 
 Ekonominės sankcijos gali būti skiriamos ne vėliau kaip per 2 metus nuo pažeidimo nustatymo (jeigu pažeidimas trunkamasis, – nuo paaiškėjimo) dienos.
 
 
-Jeigu pareigūnas priima nutarimą atlikti papildomą tyrimą byloje, papildomas tyrimas turi būti atliktas ne vėliau kaip per 2 mėnesius. Atlikus papildomą tyrimą, byla nagrinėjama šio įstatymo 45–[[#50 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės sankcijos skyrimo, ir jų apskundimas|50 straipsniuose]] nustatyta tvarka.
+Jeigu pareigūnas priima nutarimą atlikti papildomą tyrimą byloje, papildomas tyrimas turi būti atliktas ne vėliau kaip per 2 mėnesius. Atlikus papildomą tyrimą, byla nagrinėjama šio įstatymo 45–[[#^s-9e3c24559baa021e2c2a265a|50 straipsniuose]] nustatyta tvarka.
 
 
 Pareigūnas priima nutarimą dėl ekonominės sankcijos peržiūrėjimo per 20 kalendorinių dienų nuo juridinio asmens prašymo peržiūrėti ekonominę sankciją pateikimo, jeigu yra priimtos šio įstatymo nuostatos, švelninančios atsakomybę už juridinių asmenų padarytus pažeidimus arba kitaip lengvinančios atsakomybėn traukiamo juridinio asmens ar juridinio asmens, kuriam paskirta, bet dar nebaigta vykdyti ekonominė sankcija, teisinę padėtį. Šiame nutarime nurodoma: nutarimą priėmęs pareigūnas (vardas, pavardė, pareigos); pažeidėjo duomenys (juridinio asmens pavadinimas, teisinė forma, buveinės adresas, kodas); pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; pažeidėjo kaltę pagrindžiantys įrodymai; pažeidėjo paaiškinimai dėl padaryto pažeidimo; šio įstatymo straipsnis ar jo dalis, numatantis (numatanti) atsakomybę už pažeidėjo padarytą veiką; pareigūno priimtas nutarimas skirti ekonominę sankciją, nutarimo priėmimo motyvai; atsakomybę sunkinančios ir lengvinančios aplinkybės, skiriamos baudos dydis, sąskaita, į kurią turi būti sumokėta bauda, baudos sumokėjimo terminas; nutarimo apskundimo terminai ir tvarka. Nutarimui dėl ekonominės sankcijos peržiūrėjimo taikomos šio straipsnio 5 ir 6 dalių nuostatos.
 
 
 
-### 51 straipsnis. Ekonominės sankcijos skyrimas juridiniam asmeniui
+### 51 straipsnis. Ekonominės sankcijos skyrimas juridiniam asmeniui ^s-4ae494b8ef23f2e99e43ada1
 
 
 Skiriant juridiniam asmeniui ekonominę sankciją atsižvelgiama į padaryto teisės pažeidimo pobūdį, juridinio asmens atsakomybę lengvinančias ar sunkinančias aplinkybes. Skiriant juridiniam asmeniui ekonominę sankciją taip pat atsižvelgiama į kitas reikšmingas aplinkybes, nurodytas Europos Sąjungos teisės aktuose, reglamentuojančiuose aplinkos apsaugą.
@@ -2780,7 +2785,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad padaręs pažeidimą juridinis asmuo savo noru ėmėsi visų būtinų veiksmų, siekdamas užkirsti kelią žalingiems pažeidimo padariniams arba juos sumažinti ir likviduoti, atlygino padarytą žalą (nuostolius) aplinkai ir kitiems asmenims, padėjo tyrimo metu.
 
 
-Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo kliudė vykdyti pažeidimo tyrimą, slėpė padarytą pažeidimą arba tęsė pažeidimą, nepaisydamas kompetentingos institucijos įpareigojimo nutraukti neteisėtus veiksmus, pažeidimas sukėlė žalą aplinkai (išskyrus mažareikšmę žalą aplinkai), pažeidimas padarytas asmeniui siekiant gauti ekonominės naudos, pažeidimas padarytas pakartotinai. Skiriant ekonominę sankciją neatsižvelgiama į tokią atsakomybę sunkinančią aplinkybę, kuri yra padaryto šio įstatymo 55–[[#1281 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimą Lietuvos Respublikos rinkai|1281 straipsniuose]] numatyto pažeidimo sudėties požymis.
+Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo kliudė vykdyti pažeidimo tyrimą, slėpė padarytą pažeidimą arba tęsė pažeidimą, nepaisydamas kompetentingos institucijos įpareigojimo nutraukti neteisėtus veiksmus, pažeidimas sukėlė žalą aplinkai (išskyrus mažareikšmę žalą aplinkai), pažeidimas padarytas asmeniui siekiant gauti ekonominės naudos, pažeidimas padarytas pakartotinai. Skiriant ekonominę sankciją neatsižvelgiama į tokią atsakomybę sunkinančią aplinkybę, kuri yra padaryto šio įstatymo 55–[[#^s-0ad85efad4cc1dcb943b47d2|1281 straipsniuose]] numatyto pažeidimo sudėties požymis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
@@ -2796,14 +2801,14 @@ Kai vienas juridinis asmuo padaro du arba daugiau pažeidimų, ekonominė sankci
 
 
 
-### 52 straipsnis. Teismo kompetencija skirti juridiniam asmeniui mažesnę baudą, negu šio įstatymo nustatyta minimali bauda už juridinio asmens padarytą teisės pažeidimą
+### 52 straipsnis. Teismo kompetencija skirti juridiniam asmeniui mažesnę baudą, negu šio įstatymo nustatyta minimali bauda už juridinio asmens padarytą teisės pažeidimą ^s-1890f04cb707ed1486b70d58
 
 
 Skundą dėl nutarimo skirti ekonominę sankciją nagrinėjantis teismas, atsižvelgdamas į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes (dėl kurių atitinkama bauda teisės pažeidėjui būtų akivaizdžiai per didelė ir neproporcinga (neadekvati) padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo ir protingumo principais, turi teisę skirti mažesnę baudą, negu šio įstatymo nustatyta minimali bauda už juridinio asmens padarytą teisės pažeidimą.
 
 
 
-### 53 straipsnis. Nutarimo skirti ekonominę sankciją vykdymas
+### 53 straipsnis. Nutarimo skirti ekonominę sankciją vykdymas ^s-8d7035a3317bcc29457754a5
 
 
 Vykdydamas nutarimą dėl ekonominės sankcijos skyrimo, juridinis asmuo jame nurodytą baudą sumoka į nutarime skirti ekonominę sankciją nurodytą sąskaitą ne vėliau kaip per 3 mėnesius nuo šio nutarimo įsigaliojimo dienos.
@@ -2812,19 +2817,19 @@ Vykdydamas nutarimą dėl ekonominės sankcijos skyrimo, juridinis asmuo jame nu
 Jeigu yra pažeidimą padariusio juridinio asmens prašymas, nutarimą skirti ekonominę sankciją priėmęs pareigūnas gali priimti nutarimą pratęsti nutarimo skirti ekonominę sankciją įvykdymo terminą iki vienų metų arba išdėstyti paskirtos baudos mokėjimą vienų metų laikotarpiui, jeigu juridinis asmuo dėl sunkios ekonominės padėties ar kitų svarbių aplinkybių paskirtos baudos negali sumokėti per šio straipsnio 1 dalyje nustatytą terminą.
 
 
-Nutarimas skirti ekonominę sankciją yra vykdomasis dokumentas. Jeigu juridinis asmuo, kuriam paskirta ekonominė sankcija, nesumoka baudos per šio straipsnio 1 ar 2 dalyje nustatytus terminus, nutarimas skirti ekonominę sankciją vykdomas Lietuvos Respublikos mokesčių administravimo įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Nutarimas skirti ekonominę sankciją yra vykdomasis dokumentas. Jeigu juridinis asmuo, kuriam paskirta ekonominė sankcija, nesumoka baudos per šio straipsnio 1 ar 2 dalyje nustatytus terminus, nutarimas skirti ekonominę sankciją vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XV-917, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08250
 
 
 
-4. Neteko galios nuo 2026-06-30 ^e43498ab3efec72474a8ab3e
+4. Neteko galios nuo 2026-06-30 ^s-6b79c00823f0313b44c54188
 Straipsnio dalies naikinimas:
 Nr. XV-917, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08250
 
 
 
-### 531 straipsnis. Nutarimo skirti turto konfiskavimą vykdymas
+### 531 straipsnis. Nutarimo skirti turto konfiskavimą vykdymas ^s-5868ebef469d6ef5f4255677
 
 
 Turto, kuris buvo pažeidimo padarymo įrankis, priemonė, dalykas ar įstatymų uždraustos veikos rezultatas, konfiskavimą vykdo institucija, kurios pareigūnas priėmė nutarimą skirti turto konfiskavimą.
@@ -2838,7 +2843,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 532 straipsnis. Konfiskuoto turto realizavimo tvarka
+### 532 straipsnis. Konfiskuoto turto realizavimo tvarka ^s-2daa6a9459b40cf589990394
 
 
 Konfiskuotas turtas, kuris buvo pažeidimo padarymo įrankis, priemonė, dalykas ar įstatymų uždraustos veikos rezultatas, realizuojamas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
@@ -2849,7 +2854,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 533 straipsnis. Turto konfiskavimo vykdymo proceso pabaiga
+### 533 straipsnis. Turto konfiskavimo vykdymo proceso pabaiga ^s-bd8a903b7ff6846d7dd95c87
 
 
 Nutarimas, kuriuo paskirta poveikio priemonė – turto konfiskavimas, ar šio nutarimo kopija (nuorašas) su žyma apie nutarimo įvykdymą grąžinamas bylą dėl ekonominės sankcijos skyrimo nagrinėjusiai institucijai per 7 darbo dienas nuo šio nutarimo įvykdymo dienos.
@@ -2860,50 +2865,50 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 54 straipsnis. Baudų įskaitymas į valstybės biudžetą
+### 54 straipsnis. Baudų įskaitymas į valstybės biudžetą ^s-2e9badecaa53f8fc885d99b1
 
 
-Juridiniai asmenys baudas moka į valstybės biudžetą. Šios lėšos sudaro Aplinkos apsaugos rėmimo programos lėšas (įplaukas) ir yra naudojamos Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatyme nustatyta tvarka.
+Juridiniai asmenys baudas moka į valstybės biudžetą. Šios lėšos sudaro Aplinkos apsaugos rėmimo programos lėšas (įplaukas) ir yra naudojamos [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatyme]] nustatyta tvarka.
 
 
 
-### 55 straipsnis. Juridinių asmenų atsakomybė už ūkinės veiklos vykdymą, ūkinės veiklos objektų ar įrenginių eksploatavimą pažeidžiant šio įstatymo 15, 151, 19, 191, 192 ir 193 straipsnių reikalavimus
+### 55 straipsnis. Juridinių asmenų atsakomybė už ūkinės veiklos vykdymą, ūkinės veiklos objektų ar įrenginių eksploatavimą pažeidžiant šio įstatymo 15, 151, 19, 191, 192 ir 193 straipsnių reikalavimus ^s-b9aeaea636331003ca19243d
 
 
-Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas neturint taršos integruotos prevencijos ir kontrolės leidimo, kai pagal teisės aktus toks leidimas yra reikalingas, arba ūkinės veiklos, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, vykdymas neturint sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedaro reikšmingo neigiamo poveikio aplinkai, (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai), išskyrus šio įstatymo [[#151 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas|151 straipsnio]] ketvirtosios dalies 4 punkte nurodytą atvejį, užtraukia baudą nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų.
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas neturint taršos integruotos prevencijos ir kontrolės leidimo, kai pagal teisės aktus toks leidimas yra reikalingas, arba ūkinės veiklos, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, vykdymas neturint sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedaro reikšmingo neigiamo poveikio aplinkai, (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai), išskyrus šio įstatymo [[#^s-0e5e1c3887383e94469a6a29|151 straipsnio]] ketvirtosios dalies 4 punkte nurodytą atvejį, užtraukia baudą nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų.
 
 
 Šio straipsnio pirmojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trisdešimt tūkstančių iki penkiasdešimt tūkstančių eurų.
 
 
-Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, arba įrenginio registracijos duomenų pateikimas neturint teisės juos pateikti šio įstatymo [[#193 straipsnis. Įrenginių registravimas|193 straipsnio]]  ketvirtojoje dalyje nurodytais atvejais, arba ūkinės veiklos, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atlikta atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo, vykdymas neturint atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo išvados, kad poveikio aplinkai vertinimas neprivalomas, (toliau – atrankos išvada) užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, arba įrenginio registracijos duomenų pateikimas neturint teisės juos pateikti šio įstatymo [[#^s-c45ee0c4f03a3f387a147be0|193 straipsnio]]  ketvirtojoje dalyje nurodytais atvejais, arba ūkinės veiklos, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atlikta atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo, vykdymas neturint atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo išvados, kad poveikio aplinkai vertinimas neprivalomas, (toliau – atrankos išvada) užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
 
 
 Šio straipsnio trečiojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki penkiolikos tūkstančių eurų.
 
 
-Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas nesilaikant taršos integruotos prevencijos ir kontrolės leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo [[#57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą|57 straipsnyje]], reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos integruotos prevencijos ir kontrolės leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos integruotos prevencijos ir kontrolės leidime nustatytą išgaunamo vandens kiekį) arba sprendime dėl poveikio aplinkai nustatytų planuojamos ūkinės veiklos įgyvendinimo sąlygų ir (ar) konkrečiu ūkinės veiklos etapu neįgyvendinus priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas nesilaikant taršos integruotos prevencijos ir kontrolės leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo [[#^s-4016f37f4b259e4fbfc3147e|57 straipsnyje]], reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos integruotos prevencijos ir kontrolės leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos integruotos prevencijos ir kontrolės leidime nustatytą išgaunamo vandens kiekį) arba sprendime dėl poveikio aplinkai nustatytų planuojamos ūkinės veiklos įgyvendinimo sąlygų ir (ar) konkrečiu ūkinės veiklos etapu neįgyvendinus priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
 
 Šio straipsnio penktojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas nesilaikant taršos leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo [[#57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą|57 straipsnyje]], reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos leidime nustatytą išgaunamo vandens kiekį) arba konkrečiu ūkinės veiklos etapu neįgyvendinus atrankos išvadoje nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas nesilaikant taršos leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo [[#^s-4016f37f4b259e4fbfc3147e|57 straipsnyje]], reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos leidime nustatytą išgaunamo vandens kiekį) arba konkrečiu ūkinės veiklos etapu neįgyvendinus atrankos išvadoje nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
 Šio straipsnio septintojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
 
-Ūkinės veiklos vykdymas nesilaikant įregistruotam įrenginiui nustatytų reikalavimų (išskyrus pažeidimus, nurodytus šio įstatymo 57, 75 ir [[#76 straipsnis. Juridinių asmenų atsakomybė už taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų teikimo reikalavimų nevykdymą|76 straipsniuose]]) po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+Ūkinės veiklos vykdymas nesilaikant įregistruotam įrenginiui nustatytų reikalavimų (išskyrus pažeidimus, nurodytus šio įstatymo 57, 75 ir [[#^s-b21ffb03dca59a8297c87d2a|76 straipsniuose]]) po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
 Šio straipsnio devintojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
 
-Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnyje]] nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos integruotos prevencijos ir kontrolės leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnyje]] nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos integruotos prevencijos ir kontrolės leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo [[#19 straipsnis. Ūkinės veiklos objektų eksploatavimas|19 straipsnyje]] nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių eurų.
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo [[#^s-3248025572d03bdc82ba86a4|19 straipsnyje]] nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių eurų.
 
 
 Straipsnio pakeitimai:
@@ -2912,13 +2917,13 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-### 551 straipsnis. Juridinių asmenų atsakomybė už neteisėtą šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimą už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai ūkinės veiklos objektui eksploatuoti ar ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas
+### 551 straipsnis. Juridinių asmenų atsakomybė už neteisėtą šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimą už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai ūkinės veiklos objektui eksploatuoti ar ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas ^s-3f55fb1bfa2e17e392a2bd3a
 
 
-Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+Šalutinių produktų, nurodytų [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]], atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
 
 
-Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
+Šalutinių produktų, nurodytų [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]], atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 Papildyta straipsniu:
@@ -2926,7 +2931,7 @@ Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 
 
-### 56 straipsnis. Juridinių asmenų atsakomybė už neteisingos informacijos pateikimą poveikio aplinkai vertinimo proceso metu
+### 56 straipsnis. Juridinių asmenų atsakomybė už neteisingos informacijos pateikimą poveikio aplinkai vertinimo proceso metu ^s-ad18c12f0ba6095aaf8f303f
 
 
 Neteisingos informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti, pateikimas, jeigu remiantis tokia informacija priimta atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo išvada, kad neprivaloma atlikti planuojamos ūkinės veiklos poveikio aplinkai vertinimo, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių aštuonių šimtų eurų.
@@ -2941,7 +2946,7 @@ Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
 
 
 
-### 57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą
+### 57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą ^s-4016f37f4b259e4fbfc3147e
 
 
 Ūkio subjekto aplinkos monitoringo duomenų, išskyrus radiologinio aplinkos monitoringo duomenis, nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -2985,7 +2990,7 @@ Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
 
 
 
-### 58 straipsnis. Juridinių asmenų atsakomybė už aplinkosauginio ženklinimo reikalavimų pažeidimą
+### 58 straipsnis. Juridinių asmenų atsakomybė už aplinkosauginio ženklinimo reikalavimų pažeidimą ^s-87e92b704852d50ac727df63
 
 
 Neteisėtas Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) logotipo naudojimas ar jo naudojimas pažeidžiant 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančio Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) Nr. 517/2013 (OL 2013 L 158, p. 1), nustatytus reikalavimus užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
@@ -2998,7 +3003,7 @@ Neteisėtas Europos Sąjungos ekologinio ženklo naudojimas ar jo naudojimas pa�
 
 
 
-### 581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje
+### 581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje ^s-935062c85a9f2ef555065ea5
 
 
 Pagal reikalavimus nepaženklintų arba didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimas Lietuvos Respublikos rinkai užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
@@ -3018,177 +3023,177 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-### 59 straipsnis. Juridinių asmenų atsakomybė už neteisėtą I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes
+### 59 straipsnis. Juridinių asmenų atsakomybė už neteisėtą I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes ^s-6ab13a31b5e0158fa80b3f23
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 0,01 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 0,01 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,01 kilogramo ir daugiau, bet mažiau kaip 0,1 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,01 kilogramo ir daugiau, bet mažiau kaip 0,1 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 0,5 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 0,5 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,5 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo aštuonių tūkstančių iki keturiolikos tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,5 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo aštuonių tūkstančių iki keturiolikos tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 kilogramas ir daugiau I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 kilogramas ir daugiau I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 0,01 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 0,01 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,01 kilogramo ir daugiau, bet mažiau kaip 0,1 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,01 kilogramo ir daugiau, bet mažiau kaip 0,1 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 0,5 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo aštuonių tūkstančių iki keturiolikos tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 0,5 kilogramo I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo aštuonių tūkstančių iki keturiolikos tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,5 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,5 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 kilogramas ir daugiau I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo septyniolikos tūkstančių iki trisdešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 kilogramas ir daugiau I teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra prioritetinės medžiagos, užtraukia baudą nuo septyniolikos tūkstančių iki trisdešimt tūkstančių eurų.
 
 
 
-### 60 straipsnis. Juridinių asmenų atsakomybė už neteisėtą II teršalų grupės teršalų išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes
+### 60 straipsnis. Juridinių asmenų atsakomybė už neteisėtą II teršalų grupės teršalų išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes ^s-463b3025bfd9dd48e6083930
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 0,1 kilogramo II teršalų grupės teršalų, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki dviejų tūkstančių trijų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 0,1 kilogramo II teršalų grupės teršalų, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki dviejų tūkstančių trijų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas II teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki keturių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas II teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki keturių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 5 kilogramai II teršalų grupės teršalų, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 5 kilogramai II teršalų grupės teršalų, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 5 kilogramai ir daugiau, bet mažiau kaip 10 kilogramų II teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki septynių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 5 kilogramai ir daugiau, bet mažiau kaip 10 kilogramų II teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki septynių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 kilogramų ir daugiau II teršalų grupės teršalų, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 kilogramų ir daugiau II teršalų grupės teršalų, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 0,1 kilogramo II teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 0,1 kilogramo II teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas II teršalų grupės teršalų, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 0,1 kilogramo ir daugiau, bet mažiau kaip 1 kilogramas II teršalų grupės teršalų, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 5 kilogramai II teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 5 kilogramai II teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 5 kilogramai ir daugiau, bet mažiau kaip 10 kilogramų II teršalų grupės teršalų, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 5 kilogramai ir daugiau, bet mažiau kaip 10 kilogramų II teršalų grupės teršalų, užtraukia baudą nuo penkių tūkstančių iki aštuonių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 kilogramų ir daugiau II teršalų grupės teršalų, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 kilogramų ir daugiau II teršalų grupės teršalų, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
 
-### 61 straipsnis. Juridinių asmenų atsakomybė už neteisėtą III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes
+### 61 straipsnis. Juridinių asmenų atsakomybė už neteisėtą III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes ^s-2e9628e2a02814fb3d1d9926
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 1 kilogramo III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 1 kilogramo III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 10 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 10 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 000 kilogramų ir daugiau III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 000 kilogramų ir daugiau III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 1 kilogramo III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 1 kilogramo III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 10 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 kilogramas ir daugiau, bet mažiau kaip 10 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 000 kilogramų ir daugiau III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 000 kilogramų ir daugiau III teršalų grupės teršalų ir (ar) teršalų, nepatenkančių į I–V teršalų grupes, tačiau kurie yra kitos Lietuvoje kontroliuojamos medžiagos, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
-### 62 straipsnis. Juridinių asmenų atsakomybė už neteisėtą IV teršalų grupės teršalų išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes
+### 62 straipsnis. Juridinių asmenų atsakomybė už neteisėtą IV teršalų grupės teršalų išmetimą į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes ^s-a9f74649423c0c0636f72043
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 10 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 10 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 000 kilogramų ir daugiau, bet mažiau kaip 5 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių trijų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 1 000 kilogramų ir daugiau, bet mažiau kaip 5 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 5 000 kilogramų ir daugiau IV teršalų grupės teršalų, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 5 000 kilogramų ir daugiau IV teršalų grupės teršalų, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 10 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 10 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 kilogramų ir daugiau, bet mažiau kaip 100 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 100 kilogramų ir daugiau, bet mažiau kaip 1 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 000 kilogramų ir daugiau, bet mažiau kaip 5 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 1 000 kilogramų ir daugiau, bet mažiau kaip 5 000 kilogramų IV teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 5 000 kilogramų ir daugiau IV teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 5 000 kilogramų ir daugiau IV teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
-### 63 straipsnis. Juridinių asmenų atsakomybė už neteisėtą V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų išmetimą į vandenį
+### 63 straipsnis. Juridinių asmenų atsakomybė už neteisėtą V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų išmetimą į vandenį ^s-a82db146d1bf993fc9dc55f7
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 20 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta iki 20 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 20 kilogramų ir daugiau, bet mažiau kaip 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 20 kilogramų ir daugiau, bet mažiau kaip 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 500 kilogramų ir daugiau, bet mažiau kaip 2 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 500 kilogramų ir daugiau, bet mažiau kaip 2 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 2 500 kilogramų ir daugiau, bet mažiau kaip 10 000 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių trijų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 2 500 kilogramų ir daugiau, bet mažiau kaip 10 000 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 000 kilogramų ir daugiau V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai neteisėtai išmesta 10 000 kilogramų ir daugiau V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki penkių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 20 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta iki 20 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 20 kilogramų ir daugiau, bet mažiau kaip 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 20 kilogramų ir daugiau, bet mažiau kaip 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 500 kilogramų ir daugiau, bet mažiau kaip 2 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 500 kilogramų ir daugiau, bet mažiau kaip 2 500 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 2 500 kilogramų ir daugiau, bet mažiau kaip 10 000 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 2 500 kilogramų ir daugiau, bet mažiau kaip 10 000 kilogramų V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 000 kilogramų ir daugiau V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į vandenį (išskyrus išmetimą į jūrą), žemės paviršių ir (ar) gelmes (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai neteisėtai išmesta 10 000 kilogramų ir daugiau V teršalų grupės teršalų, BDS7, bendro azoto, bendro fosforo, suspenduotų medžiagų, sulfatų ir (ar) chloridų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
-### 64 straipsnis. Juridinių asmenų atsakomybė už mėšlo ir srutų tvarkymo aplinkosaugos reikalavimų pažeidimą
+### 64 straipsnis. Juridinių asmenų atsakomybė už mėšlo ir srutų tvarkymo aplinkosaugos reikalavimų pažeidimą ^s-3e7abc9b1c231ba596af180c
 
 
 Mėšlo ar srutų paskleidimas dirvožemio paviršiuje arba įterpimas į dirvožemį pažeidžiant mėšlo ir srutų tvarkymo aplinkosaugos reikalavimus dėl mėšlo ar srutų paskleidimo, užtraukia baudą nuo vieno šimto iki keturių šimtų penkiasdešimt eurų.
@@ -3204,7 +3209,7 @@ Kitų, negu nustatyta šio straipsnio 1 dalyje, mėšlo ir srutų tvarkymo aplin
 
 
 
-### 65 straipsnis. Juridinių asmenų atsakomybė už neteisėtą nuotekų dumblo paskleidimą dirvožemio paviršiuje arba įterpimą į dirvožemį, perdavimą kitam asmeniui ir nuotekų dumblo naudojimo tręšimui bei rekultivavimui reikalavimų dėl kokybės apskaitos ar tyrimų nevykdymą
+### 65 straipsnis. Juridinių asmenų atsakomybė už neteisėtą nuotekų dumblo paskleidimą dirvožemio paviršiuje arba įterpimą į dirvožemį, perdavimą kitam asmeniui ir nuotekų dumblo naudojimo tręšimui bei rekultivavimui reikalavimų dėl kokybės apskaitos ar tyrimų nevykdymą ^s-e3ffb7b172895f3c91356bbd
 
 
 Neteisėtas nuotekų dumblo paskleidimas dirvožemio paviršiuje arba įterpimas į dirvožemį, pažeidžiant nuotekų dumblo paskleidimą reglamentuojančius teisės aktus, kai neteisėtai paskleidžiamas nuotekų dumblas iki 5 hektarų plote, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
@@ -3244,7 +3249,7 @@ Nuotekų dumblo naudojimo tręšimui bei rekultivavimui reikalavimų dėl kokyb�
 
 
 
-### 66 straipsnis. Juridinių asmenų atsakomybė už neteisėtą Tarptautinės konvencijos dėl teršimo iš laivų prevencijos I priedo ir II priedo X teršalų grupės teršalų išmetimą į jūrą
+### 66 straipsnis. Juridinių asmenų atsakomybė už neteisėtą Tarptautinės konvencijos dėl teršimo iš laivų prevencijos I priedo ir II priedo X teršalų grupės teršalų išmetimą į jūrą ^s-5fec4788e7327f9b7fadbfc3
 
 
 Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, teritorinei jūrai ir išskirtinei ekonominei zonai), išskirtinės ekonominės zonos, Europos Sąjungos valstybių narių teritorinės jūros, įskaitant tarptautinei laivybai naudojamus sąsiaurius, kuriuose Europos Sąjungos valstybės narės turi jurisdikciją, ir Europos Sąjungos valstybių narių vidaus vandenų, įskaitant uostus, teršimas iš laivų pažeidžiant Lietuvos Respublikos tarptautinių sutarčių reikalavimus, nustatytus Tarptautinėje konvencijoje dėl teršimo iš laivų prevencijos (toliau – MARPOL 73/78) ir 1992 m. Helsinkio konvencijoje dėl Baltijos jūros baseino jūrinės aplinkos apsaugos, Lietuvos Respublikos jūros rajono vidaus vandenų ir teritorinės jūros teršimas iš laivų, Lietuvos Respublikos jūros rajono teršimas iš šiame rajone esančių jūros įrenginių, kai neteisėtai išmesta iki 0,01 kilogramo MARPOL 73/78 I priede nurodytų teršalų ar MARPOL 73/78 II priedo X teršalų grupės teršalų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -3278,7 +3283,7 @@ Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, t
 
 
 
-### 661 straipsnis. Juridinių asmenų atsakomybė už neteisėtą Lietuvos Respublikos jūros rajono teršimą iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių
+### 661 straipsnis. Juridinių asmenų atsakomybė už neteisėtą Lietuvos Respublikos jūros rajono teršimą iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių ^s-a1c516e65b01d69fc6dca52b
 
 
 Lietuvos Respublikos jūros rajono teršimas iš šiame jūros rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių užtraukia baudą nuo vieno tūkstančio iki šešių tūkstančių eurų.
@@ -3289,7 +3294,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 67 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 II priedo Y teršalų grupės teršalų išmetimą į jūrą
+### 67 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 II priedo Y teršalų grupės teršalų išmetimą į jūrą ^s-a683360f95998c8c0c61a3fb
 
 
 Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, teritorinei jūrai ir išskirtinei ekonominei zonai), išskirtinės ekonominės zonos, Europos Sąjungos valstybių narių teritorinės jūros, įskaitant tarptautinei laivybai naudojamus sąsiaurius, kuriuose Europos Sąjungos valstybės narės turi jurisdikciją, ir Europos Sąjungos valstybių narių vidaus vandenų, įskaitant uostus, teršimas iš laivų pažeidžiant Lietuvos Respublikos tarptautinių sutarčių reikalavimus, nustatytus MARPOL 73/78 ir 1992 m. Helsinkio konvencijoje dėl Baltijos jūros baseino jūrinės aplinkos apsaugos, Lietuvos Respublikos jūros rajono vidaus vandenų ir teritorinės jūros teršimas iš laivų, Lietuvos Respublikos jūros rajono teršimas iš šiame rajone esančių jūros įrenginių, kai neteisėtai išmesta iki 0,1 kilogramo MARPOL 73/78 II priedo Y teršalų grupės teršalų, užtraukia baudą nuo vieno tūkstančių keturių šimtų iki trijų tūkstančių eurų.
@@ -3323,7 +3328,7 @@ Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, t
 
 
 
-### 68 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 II priedo Z teršalų grupės teršalų išmetimą į jūrą
+### 68 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 II priedo Z teršalų grupės teršalų išmetimą į jūrą ^s-8b2cb95d85921d2363de1217
 
 
 Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, teritorinei jūrai ir išskirtinei ekonominei zonai), išskirtinės ekonominės zonos, Europos Sąjungos valstybių narių teritorinės jūros, įskaitant tarptautinei laivybai naudojamus sąsiaurius, kuriuose Europos Sąjungos valstybės narės turi jurisdikciją, ir Europos Sąjungos valstybių narių vidaus vandenų, įskaitant uostus, teršimas iš laivų pažeidžiant Lietuvos Respublikos tarptautinių sutarčių reikalavimus, nustatytus MARPOL 73/78 ir 1992 m. Helsinkio konvencijoje dėl Baltijos jūros baseino jūrinės aplinkos apsaugos, Lietuvos Respublikos jūros rajono vidaus vandenų ir teritorinės jūros teršimas iš laivų, Lietuvos Respublikos jūros rajono teršimas iš šiame rajone esančių jūros įrenginių, kai neteisėtai išmesta iki 1 kilogramo MARPOL 73/78 II priedo Z teršalų grupės teršalų, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
@@ -3357,7 +3362,7 @@ Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, t
 
 
 
-### 69 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 III priede nurodytų medžiagų išmetimą į jūrą
+### 69 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 III priede nurodytų medžiagų išmetimą į jūrą ^s-f52e5666dcc6bf3d3babf79f
 
 
 Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, teritorinei jūrai ir išskirtinei ekonominei zonai), išskirtinės ekonominės zonos, Europos Sąjungos valstybių narių teritorinės jūros, įskaitant tarptautinei laivybai naudojamus sąsiaurius, kuriuose Europos Sąjungos valstybės narės turi jurisdikciją, ir Europos Sąjungos valstybių narių vidaus vandenų, įskaitant uostus, teršimas iš laivų pažeidžiant Lietuvos Respublikos tarptautinių sutarčių reikalavimus, nustatytus MARPOL 73/78 ir 1992 m. Helsinkio konvencijoje dėl Baltijos jūros baseino jūrinės aplinkos apsaugos, Lietuvos Respublikos jūros rajono vidaus vandenų ir teritorinės jūros teršimas iš laivų, Lietuvos Respublikos jūros rajono teršimas iš šiame rajone esančių jūros įrenginių, kai neteisėtai išmesta iki 1 tonos MARPOL 73/78 III priede nurodytų medžiagų, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
@@ -3385,7 +3390,7 @@ Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, t
 
 
 
-### 70 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 IV priede nurodytų medžiagų išmetimą į jūrą
+### 70 straipsnis. Juridinių asmenų atsakomybė už neteisėtą MARPOL 73/78 IV priede nurodytų medžiagų išmetimą į jūrą ^s-029a4936549d4150af0f5cef
 
 
 Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, teritorinei jūrai ir išskirtinei ekonominei zonai), išskirtinės ekonominės zonos, Europos Sąjungos valstybių narių teritorinės jūros, įskaitant tarptautinei laivybai naudojamus sąsiaurius, kuriuose Europos Sąjungos valstybės narės turi jurisdikciją, ir Europos Sąjungos valstybių narių vidaus vandenų, įskaitant uostus, teršimas iš laivų pažeidžiant Lietuvos Respublikos tarptautinių sutarčių reikalavimus, nustatytus MARPOL 73/78 ir 1992 m. Helsinkio konvencijoje dėl Baltijos jūros baseino jūrinės aplinkos apsaugos, Lietuvos Respublikos jūros rajono vidaus vandenų ir teritorinės jūros teršimas iš laivų, Lietuvos Respublikos jūros rajono teršimas iš šiame rajone esančių jūros įrenginių, kai neteisėtai išmesta iki 20 kilogramų MARPOL 73/78 IV priede nurodytų medžiagų, užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų eurų.
@@ -3419,7 +3424,7 @@ Atviros jūros (jūros rajonų, kurie nepriklauso valstybių vidaus vandenims, t
 
 
 
-### 701 straipsnis. Juridinių asmenų atsakomybė už MARPOL 73/78 VI priede nustatytų reikalavimų dėl sieros kiekio laivuose naudojamame jūriniame kure pažeidimą
+### 701 straipsnis. Juridinių asmenų atsakomybė už MARPOL 73/78 VI priede nustatytų reikalavimų dėl sieros kiekio laivuose naudojamame jūriniame kure pažeidimą ^s-569a5059227e358e48773c75
 
 
 Laivo variklių galia (toliau – variklių galia) šiame straipsnyje suprantama kaip didžiausioji bendra ilgalaikė visų pagrindinių laivo eigos variklių galia, išreikšta kilovatais ir nurodyta laivo registracijos liudijime ar kitame oficialiame dokumente.
@@ -3505,7 +3510,7 @@ Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
 
 
 
-### 702 straipsnis. Juridinių asmenų atsakomybė už laivų balastinių vandenų ir nuosėdų išleidimą nesilaikant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytų reikalavimų
+### 702 straipsnis. Juridinių asmenų atsakomybė už laivų balastinių vandenų ir nuosėdų išleidimą nesilaikant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytų reikalavimų ^s-6f57021bc6db2f443c8b5d15
 
 
 Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kurio metu į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir (arba) Lietuvos Respublikos teisės aktuose nustatytus reikalavimus, kai nesilaikant nustatytų reikalavimų išleidžiama iki 1 000 kubinių metrų balastinių vandenų ir nuosėdų, turinčių kenksmingų gyvųjų organizmų, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -3525,7 +3530,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 71 straipsnis. Juridinių asmenų atsakomybė už grunto šalinimą neturint tam teisės Lietuvos Respublikos jūros rajone
+### 71 straipsnis. Juridinių asmenų atsakomybė už grunto šalinimą neturint tam teisės Lietuvos Respublikos jūros rajone ^s-94f87fe7d132a1109fe6ae75
 
 
 Grunto šalinimas neturint tam teisės Lietuvos Respublikos jūros rajone, kai išmesta iki 1 000 kubinių metrų grunto, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki šešių tūkstančių eurų.
@@ -3547,7 +3552,7 @@ Grunto šalinimas neturint tam teisės Lietuvos Respublikos jūros rajone, padar
 
 
 
-### 72 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų šalinimą į jūrą
+### 72 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų šalinimą į jūrą ^s-5be60ff0007107bdcd8e1f9d
 
 
 Nepavojingųjų atliekų šalinimas į jūrą, kai šalinamas mažesnis kaip 0,1 kubinio metro nepavojingųjų atliekų kiekis, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
@@ -3565,7 +3570,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-5. Neteko galios nuo 2024-01-01 ^cc8c707e0ca31c166d622315
+5. Neteko galios nuo 2024-01-01 ^s-c6e2de01e7b3e9d7e726e85c
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -3586,7 +3591,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-10. Neteko galios nuo 2024-01-01 ^176baf7096e55a642e1201bb
+10. Neteko galios nuo 2024-01-01 ^s-1084017d494c2df38ee17864
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -3598,7 +3603,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 73 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų šalinimą į jūrą
+### 73 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų šalinimą į jūrą ^s-28a9acb0b2b2ea8b4e7232d7
 
 
 Pavojingųjų atliekų šalinimas į jūrą, kai šalinamas mažesnis kaip 0,1 kubinio metro pavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
@@ -3616,7 +3621,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-5. Neteko galios nuo 2024-01-01 ^523b7bb837c57a4711d24639
+5. Neteko galios nuo 2024-01-01 ^s-49f3477d666b7ab77e33666b
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -3637,7 +3642,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-10. Neteko galios nuo 2024-01-01 ^aaf68b59d4a46f4dbeeb797c
+10. Neteko galios nuo 2024-01-01 ^s-027945368daf989488d9f7f0
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -3649,7 +3654,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 74 straipsnis. Juridinių asmenų atsakomybė už neturėjimą su Vyriausybės įgaliotomis institucijomis suderinto teršimo incidentų likvidavimo lokalinio plano
+### 74 straipsnis. Juridinių asmenų atsakomybė už neturėjimą su Vyriausybės įgaliotomis institucijomis suderinto teršimo incidentų likvidavimo lokalinio plano ^s-5df6e6a205dd4c5138e1f4db
 
 
 Neturėjimas su Vyriausybės įgaliotomis institucijomis suderinto teršimo incidentų likvidavimo lokalinio plano, kai pagal Lietuvos Respublikos jūros aplinkos apsaugos įstatymą ir kitus teisės aktus šis planas yra reikalingas, arba šiame plane numatytų aplinkos apsaugos priemonių nevykdymas ar netinkamas vykdymas užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
@@ -3659,35 +3664,35 @@ Neturėjimas su Vyriausybės įgaliotomis institucijomis suderinto teršimo inci
 
 
 
-### 75 straipsnis. Juridinių asmenų atsakomybė už neteisėtą teršalų išmetimą į aplinkos orą
+### 75 straipsnis. Juridinių asmenų atsakomybė už neteisėtą teršalų išmetimą į aplinkos orą ^s-f547c68da9cd686550abca1d
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami iki 1,5 karto, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami iki 1,5 karto, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami 1,5 karto ir daugiau, bet mažiau kaip 3 kartus, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami 1,5 karto ir daugiau, bet mažiau kaip 3 kartus, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami 3 kartus ir daugiau, bet mažiau kaip 5 kartus, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami 3 kartus ir daugiau, bet mažiau kaip 5 kartus, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami 5 kartus ir daugiau, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), kai išmetamų teršalų normatyvai viršijami 5 kartus ir daugiau, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami iki 1,5 karto, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami iki 1,5 karto, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami 1,5 karto ir daugiau, bet mažiau kaip 3 kartus, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami 1,5 karto ir daugiau, bet mažiau kaip 3 kartus, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami 3 kartus ir daugiau, bet mažiau kaip 5 kartus, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami 3 kartus ir daugiau, bet mažiau kaip 5 kartus, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami 5 kartus ir daugiau, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt trijų tūkstančių eurų.
+Neteisėtas teršalų išmetimas į aplinkos orą (išskyrus teršalų išmetimą, kuriam taikomas [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo]] nustatytas mokestis už aplinkos teršimą taikant didesnį tarifą), padarytas pakartotinai, kai išmetamų teršalų normatyvai viršijami 5 kartus ir daugiau, užtraukia baudą nuo dešimt tūkstančių iki dvidešimt trijų tūkstančių eurų.
 
 
 
-### 76 straipsnis. Juridinių asmenų atsakomybė už taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų teikimo reikalavimų nevykdymą
+### 76 straipsnis. Juridinių asmenų atsakomybė už taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų teikimo reikalavimų nevykdymą ^s-b21ffb03dca59a8297c87d2a
 
 
 Taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų nepateikimas po to, kai raštu buvo įspėta apie pareigą pateikti šiuos dokumentus, išskyrus ūkio subjekto aplinkos monitoringo duomenų ar metinių aplinkos monitoringo ataskaitų nepateikimą kompetentingoms institucijoms nustatytu laiku, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -3697,7 +3702,7 @@ Taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos, taršos �
 
 
 
-### 77 straipsnis. Juridinių asmenų atsakomybė už nenupjautų, nesugrėbtų ar kitaip nesurinktų augalų ar jų dalių neteisėtą deginimą
+### 77 straipsnis. Juridinių asmenų atsakomybė už nenupjautų, nesugrėbtų ar kitaip nesurinktų augalų ar jų dalių neteisėtą deginimą ^s-1b9c5830bbe85a989e928742
 
 
 Nenupjautų, nesugrėbtų ar kitaip nesurinktų augalų ar jų dalių neteisėtas deginimas, kai sudeginami augalai ar jų dalys iki 0,5 ha dydžio plote, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -3725,7 +3730,7 @@ Nenupjautų, nesugrėbtų ar kitaip nesurinktų augalų ar jų dalių neteisėta
 
 
 
-### 78 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės
+### 78 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės ^s-635b7d2783b1aafa13ca6bb5
 
 
 Nepavojingųjų atliekų surinkimas, vežimas, laikymas, įvežimas ar importas į Lietuvos Respublikos teritoriją, išvežimas ar eksportas iš Lietuvos Respublikos teritorijos ir (ar) vežimas tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės, kai neturint tam teisės surenkamas, vežamas, laikomas, įvežamas ar importuojamas į Lietuvos Respublikos teritoriją, išvežamas ar eksportuojamas iš Lietuvos Respublikos teritorijos ir (ar) vežamas tranzitu per Lietuvos Respublikos teritoriją mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -3764,7 +3769,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 79 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės
+### 79 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų surinkimą, vežimą, laikymą, įvežimą ar importą į Lietuvos Respublikos teritoriją, išvežimą ar eksportą iš Lietuvos Respublikos teritorijos ir (ar) vežimą tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės ^s-12a26d529f5f2e4804c6393e
 
 
 Pavojingųjų atliekų surinkimas, vežimas, laikymas, įvežimas ar importas į Lietuvos Respublikos teritoriją, išvežimas ar eksportas iš Lietuvos Respublikos teritorijos ir (ar) vežimas tranzitu per Lietuvos Respublikos teritoriją neturint tam teisės, kai neturint tam teisės surenkamas, vežamas, laikomas, įvežamas ar importuojamas į Lietuvos Respublikos teritoriją, išvežamas ar eksportuojamas iš Lietuvos Respublikos teritorijos ir (ar) vežamas tranzitu per Lietuvos Respublikos teritoriją mažesnis kaip 0,5 tonos pavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -3803,7 +3808,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 80 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų apdorojimą neturint tam teisės
+### 80 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų apdorojimą neturint tam teisės ^s-65b8db8cccfc40ddcb94fd7b
 
 
 Nepavojingųjų atliekų apdorojimas neturint tam teisės, kai neturint tam teisės apdorojamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -3837,7 +3842,7 @@ Nepavojingųjų atliekų apdorojimas neturint tam teisės, padarytas pakartotina
 
 
 
-### 81 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų apdorojimą neturint tam teisės
+### 81 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų apdorojimą neturint tam teisės ^s-953d799383f349b83b214aa9
 
 
 Pavojingųjų atliekų apdorojimas neturint tam teisės, kai neturint tam teisės apdorojamas mažesnis kaip 0,5 tonos pavojingųjų atliekų kiekis, užtraukia baudą nuo dviejų tūkstančių iki keturių tūkstančių penkių šimtų eurų.
@@ -3875,7 +3880,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-### 82 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų naudojimo ar šalinimo organizavimą kito vardu, pirkimą ir pardavimą, neįsiregistravus Atliekų tvarkytojų valstybės registre
+### 82 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų naudojimo ar šalinimo organizavimą kito vardu, pirkimą ir pardavimą, neįsiregistravus Atliekų tvarkytojų valstybės registre ^s-220b24c7a97ad4b62991bbb2
 
 
 Nepavojingųjų atliekų naudojimo ar šalinimo organizavimas kito vardu, pirkimas arba pardavimas, neįsiregistravus Atliekų tvarkytojų valstybės registre, kai neįsiregistravus Atliekų tvarkytojų valstybės registre organizuojamas naudojimas ar šalinimas kito vardu, perkamas arba parduodamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą prekiautojui ir (ar) tarpininkui nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -3909,7 +3914,7 @@ Nepavojingųjų atliekų naudojimo ar šalinimo organizavimas kito vardu, pirkim
 
 
 
-### 83 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų naudojimo ar šalinimo organizavimą kito vardu, pirkimą ir pardavimą, neįsiregistravus Atliekų tvarkytojų valstybės registre
+### 83 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų naudojimo ar šalinimo organizavimą kito vardu, pirkimą ir pardavimą, neįsiregistravus Atliekų tvarkytojų valstybės registre ^s-76000a30730ecfd8bfe9faa2
 
 
 Pavojingųjų atliekų naudojimo ar šalinimo organizavimas kito vardu, pirkimas arba pardavimas, neįsiregistravus Atliekų tvarkytojų valstybės registre, kai neįsiregistravus Atliekų tvarkytojų valstybės registre organizuojamas naudojimas ar šalinimas kito vardu, perkamas arba parduodamas mažesnis kaip 0,5 tonos pavojingųjų atliekų kiekis, užtraukia baudą prekiautojui ir (ar) tarpininkui nuo trijų šimtų iki šešių šimtų eurų.
@@ -3943,7 +3948,7 @@ Pavojingųjų atliekų naudojimo ar šalinimo organizavimas kito vardu, pirkimas
 
 
 
-### 84 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų rūšiavimą, laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus
+### 84 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų rūšiavimą, laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus ^s-edb7cbb2a6eec4f699193bc8
 
 
 Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -3981,7 +3986,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 85 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų rūšiavimą, laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus
+### 85 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų rūšiavimą, laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus ^s-c1bb732fd39dd4be682a2def
 
 
 Pavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos pavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -4019,10 +4024,10 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 851 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatytų atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo reikalavimų ar aplinkos ministro nustatytos atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarkos pažeidimą
+### 851 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatytų atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo reikalavimų ar aplinkos ministro nustatytos atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarkos pažeidimą ^s-db31f81dff4567d0746d8dcf
 
 
-Atliekų tvarkymo įstatyme nustatytų atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo reikalavimų ar aplinkos ministro nustatytos atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarkos pažeidimas užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
+[[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] nustatytų atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo reikalavimų ar aplinkos ministro nustatytos atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarkos pažeidimas užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
@@ -4033,7 +4038,7 @@ Nr. XIV-489, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15888
 
 
 
-### 86 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų pakavimo reikalavimų pažeidimą
+### 86 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų pakavimo reikalavimų pažeidimą ^s-4bc273a02be33be2762931a9
 
 
 Pavojingųjų atliekų pakavimo reikalavimų pažeidimas, kai pažeidžiant nustatytus reikalavimus supakuota mažesnis kaip 0,5 tonos pavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -4067,10 +4072,10 @@ Pavojingųjų atliekų pakavimo reikalavimų pažeidimas, padarytas pakartotinai
 
 
 
-### 87 straipsnis. Juridinių asmenų atsakomybė už su atliekų įvežimu, importu, išvežimu, eksportu susijusių reikalavimų pažeidimą
+### 87 straipsnis. Juridinių asmenų atsakomybė už su atliekų įvežimu, importu, išvežimu, eksportu susijusių reikalavimų pažeidimą ^s-77af7018ca46bf1e01452ef5
 
 
-Reglamento (ES) 2024/1157 IB priede nustatytos formos dokumento (toliau – judėjimo dokumentas) ar Reglamento (ES) 2024/1157 VII priede nustatytos formos dokumento (toliau – VII priedo dokumentas), patvirtinančio įvežtų, importuotų atliekų gavimą, panaudojimą ir (ar) šalinimą, ir (ar) Reglamento (ES) 2024/1157 IA priede nustatytos formos dokumento (toliau – pranešimo dokumentas) nepateikimas kompetentingoms institucijoms, vežimą organizuojančiam asmeniui ir (ar) atliekų gavėjui Reglamento (ES) 2024/1157 [[#16 straipsnis. Neteko galios nuo 2017-11-01|16 straipsnyje]] nustatyta tvarka ir (ar) terminais ir (ar) klaidingų duomenų pranešimo dokumente, judėjimo dokumente ar VII priedo dokumente pateikimas užtraukia rašytinį įspėjimą arba baudą nuo 0,0002 iki 0,001 procento juridinio asmens praėjusiais paskutiniais kalendoriniais metais gautų pajamų, susijusių su tarpvalstybiniais atliekų vežimais, arba nuo 0,0002 iki 0,001 procento juridinio asmens einamaisiais kalendoriniais metais gautų pajamų, susijusių su tarpvalstybiniais atliekų vežimais, jeigu juridinis asmuo nevykdė veiklos praėjusiais paskutiniais kalendoriniais metais.
+Reglamento (ES) 2024/1157 IB priede nustatytos formos dokumento (toliau – judėjimo dokumentas) ar Reglamento (ES) 2024/1157 VII priede nustatytos formos dokumento (toliau – VII priedo dokumentas), patvirtinančio įvežtų, importuotų atliekų gavimą, panaudojimą ir (ar) šalinimą, ir (ar) Reglamento (ES) 2024/1157 IA priede nustatytos formos dokumento (toliau – pranešimo dokumentas) nepateikimas kompetentingoms institucijoms, vežimą organizuojančiam asmeniui ir (ar) atliekų gavėjui Reglamento (ES) 2024/1157 [[#^s-5dded0d89af5b9b3624dba70|16 straipsnyje]] nustatyta tvarka ir (ar) terminais ir (ar) klaidingų duomenų pranešimo dokumente, judėjimo dokumente ar VII priedo dokumente pateikimas užtraukia rašytinį įspėjimą arba baudą nuo 0,0002 iki 0,001 procento juridinio asmens praėjusiais paskutiniais kalendoriniais metais gautų pajamų, susijusių su tarpvalstybiniais atliekų vežimais, arba nuo 0,0002 iki 0,001 procento juridinio asmens einamaisiais kalendoriniais metais gautų pajamų, susijusių su tarpvalstybiniais atliekų vežimais, jeigu juridinis asmuo nevykdė veiklos praėjusiais paskutiniais kalendoriniais metais.
 
 
 Neteisėtas atliekų vežimas, kaip numatyta Reglamento (ES) 2024/1157 3 straipsnio 1 dalies 26 punkto d ar g papunktyje, užtraukia rašytinį įspėjimą arba baudą nuo 0,0002 iki 0,001 procento juridinio asmens praėjusiais paskutiniais kalendoriniais metais gautų pajamų, susijusių su tarpvalstybiniais atliekų vežimais, arba nuo 0,0002 iki 0,001 procento juridinio asmens einamaisiais kalendoriniais metais gautų pajamų, susijusių su tarpvalstybiniais atliekų vežimais, jeigu juridinis asmuo nevykdė veiklos praėjusiais paskutiniais kalendoriniais metais.
@@ -4096,7 +4101,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 871 straipsnis. Juridinių asmenų atsakomybė už Reglamento (ES) Nr. 1257/2013 reikalavimų, susijusių su laivo perdirbimu, pažeidimą
+### 871 straipsnis. Juridinių asmenų atsakomybė už Reglamento (ES) Nr. 1257/2013 reikalavimų, susijusių su laivo perdirbimu, pažeidimą ^s-47f60b2420c6d85f57ad06e0
 
 
 Laivo perdirbimo plano ir (ar) kitų su laivo perdirbimu susijusių dokumentų nepateikimas aplinkos apsaugos valstybinės kontrolės pareigūnams užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
@@ -4128,7 +4133,7 @@ Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
 
 
 
-### 88 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų perdavimą asmeniui, kuris neturi teisės tvarkyti šias atliekas, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nėra sudaryta rašytinės formos sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinės formos sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo numatytas mažesnis atliekų kiekis negu perduotų atliekų kiekis
+### 88 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų perdavimą asmeniui, kuris neturi teisės tvarkyti šias atliekas, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nėra sudaryta rašytinės formos sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinės formos sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo numatytas mažesnis atliekų kiekis negu perduotų atliekų kiekis ^s-97df70ec886e1931ccc70e7b
 
 
 Mažesnio kaip 0,5 tonos nepavojingųjų atliekų kiekio perdavimas asmeniui, kuris neturi teisės tvarkyti šias atliekas, nepaisant to, ar su šiuo asmeniu sudaryta rašytinės formos sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba tokio paties kiekio nepavojingųjų atliekų perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nėra sudaryta rašytinės formos sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba tokio paties kiekio nepavojingųjų atliekų perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinės formos sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo yra numatytas mažesnis atliekų kiekis negu perduotų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -4162,7 +4167,7 @@ Mažesnio kaip 0,5 tonos nepavojingųjų atliekų kiekio perdavimas asmeniui, ku
 
 
 
-### 89 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų perdavimą asmeniui, kuris neturi teisės tvarkyti šias atliekas, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nesudaryta rašytinė sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinėje sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo nurodytas mažesnis atliekų kiekis už perduotų atliekų kiekį
+### 89 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų perdavimą asmeniui, kuris neturi teisės tvarkyti šias atliekas, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nesudaryta rašytinė sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinėje sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo nurodytas mažesnis atliekų kiekis už perduotų atliekų kiekį ^s-c30fa53cac367fc731b924a9
 
 
 Mažesnio kaip 0,5 tonos pavojingųjų atliekų kiekio perdavimas asmeniui, kuris neturi teisės tvarkyti šias atliekas, neatsižvelgiant į tai, ar su šiuo asmeniu sudaryta rašytinė sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba tokio paties kiekio pavojingųjų atliekų perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nesudaryta rašytinė sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba tokio paties kiekio pavojingųjų atliekų perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinėje sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo nurodytas mažesnis atliekų kiekis už perduotų atliekų kiekį, užtraukia baudą nuo dviejų tūkstančių iki keturių tūkstančių penkių šimtų eurų.
@@ -4200,7 +4205,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-### 90 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų išmetimą į aplinką
+### 90 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų išmetimą į aplinką ^s-48e44d1e659d038e4eace96d
 
 
 Nepavojingųjų atliekų išmetimas į aplinką, kai išmestas 0,1 kubinio metro ir didesnis, bet mažesnis kaip 1 kubinio metro nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
@@ -4215,7 +4220,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-4. Neteko galios nuo 2024-01-01 ^a6d430a20cd7657147bb648f
+4. Neteko galios nuo 2024-01-01 ^s-376aba79e6b970b86c84049f
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -4233,7 +4238,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-8. Neteko galios nuo 2024-01-01 ^d6a2d3141e8e1c6f81f101ab
+8. Neteko galios nuo 2024-01-01 ^s-59a9bf7ae25cdc10facc3761
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -4245,7 +4250,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką
+### 91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką ^s-ad744f9840ea561df39af550
 
 
 Pavojingųjų atliekų išmetimas į aplinką, kai išmestas mažesnis kaip 0,1 kubinio metro pavojingųjų atliekų kiekis, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
@@ -4263,7 +4268,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-5. Neteko galios nuo 2024-01-01 ^f92eb3e579f29a86b02772d8
+5. Neteko galios nuo 2024-01-01 ^s-e987e01405d0df08caaddc3b
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -4284,7 +4289,7 @@ Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
 
 
-10. Neteko galios nuo 2024-01-01 ^289051e55a94a91bec5f3683
+10. Neteko galios nuo 2024-01-01 ^s-8cc3e01196f6c3cdbc680346
 Straipsnio dalies naikinimas:
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
 
@@ -4296,7 +4301,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 92 straipsnis. Juridinių asmenų atsakomybė už nepagrįstą gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išdavimą
+### 92 straipsnis. Juridinių asmenų atsakomybė už nepagrįstą gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išdavimą ^s-348920f75e1da0ef276ae739
 
 
 Nepagrįstas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokumento išdavimas, kai šiuo dokumentu patvirtinamas mažesnio kaip 0,5 tonos kiekio gaminių ir (ar) pakuočių atliekų sutvarkymas, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
@@ -4330,7 +4335,7 @@ Nepagrįstas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančio dokume
 
 
 
-### 93 straipsnis. Juridinių asmenų atsakomybė už atliekų susidarymo ir (ar) tvarkymo apskaitos vykdymo, atliekų susidarymo ir (ar) tvarkymo apskaitos ataskaitų teikimo reikalavimų nevykdymą
+### 93 straipsnis. Juridinių asmenų atsakomybė už atliekų susidarymo ir (ar) tvarkymo apskaitos vykdymo, atliekų susidarymo ir (ar) tvarkymo apskaitos ataskaitų teikimo reikalavimų nevykdymą ^s-072b7c553b90527997de228d
 
 
 Atliekų susidarymo ir (ar) tvarkymo apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -4349,10 +4354,10 @@ Atliekų susidarymo ir (ar) tvarkymo apskaitos nevykdymas užtraukia baudą nuo 
 
 
 
-### 931 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymą
+### 931 straipsnis. Juridinių asmenų atsakomybė už Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymą ^s-3ddf7e40a8643d7dd4ddf390
 
 
-Atliekų tvarkymo įstatyme nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymas po to, kai juridinis asmuo dėl pažeidimo buvo įspėtas raštu, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+[[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] nustatyto reikalavimo – parengti ir paskelbti maisto atliekų susidarymo prevencijos planą ir (ar) šio plano įgyvendinimo ataskaitą – nevykdymas po to, kai juridinis asmuo dėl pažeidimo buvo įspėtas raštu, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
@@ -4363,7 +4368,7 @@ Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
 
 
 
-### 94 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos tvarkymo, šių gaminių apskaitos ataskaitos, atliekų tvarkymo organizavimo veiklos ataskaitos ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos teikimo reikalavimų nevykdymą
+### 94 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos tvarkymo, šių gaminių apskaitos ataskaitos, atliekų tvarkymo organizavimo veiklos ataskaitos ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos teikimo reikalavimų nevykdymą ^s-fed04b262f5c85c47e98eefa
 
 
 Gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos ataskaitos, šių gaminių atliekų tvarkymo organizavimo veiklos ataskaitos ir (ar) mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos nepateikimas, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo penkių šimtų iki aštuonių šimtų penkiasdešimt eurų.
@@ -4401,7 +4406,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą
+### 941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą ^s-70c8f55d6fb31b54f4839015
 
 
 Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -4424,10 +4429,10 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-### 95 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimą Lietuvos Respublikos vidaus rinkai neužsiregistravus teisės aktų nustatyta tvarka
+### 95 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimą Lietuvos Respublikos vidaus rinkai neužsiregistravus teisės aktų nustatyta tvarka ^s-393a0cafadb0ec39cde3f551
 
 
-Gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Atliekų tvarkymo įstatyme ar Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] ar [[latest/TAR.9D1ADB9E1518|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme]] nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
@@ -4438,10 +4443,10 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka
+### 951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka ^s-a32239ba8215855e417d7a48
 
 
-Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymo]] nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
@@ -4452,10 +4457,10 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-### 952 straipsnis. Juridinių asmenų atsakomybė už transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo reikalavimų nevykdymą
+### 952 straipsnis. Juridinių asmenų atsakomybė už transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo reikalavimų nevykdymą ^s-69d6971ff5280bddecf40c76
 
 
-Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo reikalavimų pažeidimai, nenumatyti šio įstatymo 59, 60, 61, 62, 63, 78, 79, 84, 85, 90, 91, [[#93 straipsnis. Juridinių asmenų atsakomybė už atliekų susidarymo ir (ar) tvarkymo apskaitos vykdymo, atliekų susidarymo ir (ar) tvarkymo apskaitos ataskaitų teikimo reikalavimų nevykdymą|93 straipsniuose]], [[#94 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos tvarkymo, šių gaminių apskaitos ataskaitos, atliekų tvarkymo organizavimo veiklos ataskaitos ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos teikimo reikalavimų nevykdymą|94 straipsnio]] pirmojoje, antrojoje, ketvirtojoje dalyse ir [[#1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą|1101 straipsnio]] pirmojoje, antrojoje, penktojoje, aštuntojoje, devintojoje dalyse, užtraukia baudą nuo devynių šimtų iki vieno tūkstančio devynių šimtų eurų.
+Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo reikalavimų pažeidimai, nenumatyti šio įstatymo 59, 60, 61, 62, 63, 78, 79, 84, 85, 90, 91, [[#^s-072b7c553b90527997de228d|93 straipsniuose]], [[#^s-fed04b262f5c85c47e98eefa|94 straipsnio]] pirmojoje, antrojoje, ketvirtojoje dalyse ir [[#^s-cc1b9d9bcc3a82c7a8ef9e59|1101 straipsnio]] pirmojoje, antrojoje, penktojoje, aštuntojoje, devintojoje dalyse, užtraukia baudą nuo devynių šimtų iki vieno tūkstančio devynių šimtų eurų.
 Straipsnio dalies pakeitimai:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
@@ -4469,17 +4474,17 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 96 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos, kurios gamintojas ar importuotojas nėra užsiregistravęs teisės aktų nustatyta tvarka, platinimą
+### 96 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos, kurios gamintojas ar importuotojas nėra užsiregistravęs teisės aktų nustatyta tvarka, platinimą ^s-c62254c89be604aebb9982ca
 
 
-Platinimas elektros ir elektroninės įrangos, kurios gamintojas ar importuotojas nėra užsiregistravęs Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Platinimas elektros ir elektroninės įrangos, kurios gamintojas ar importuotojas nėra užsiregistravęs [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymo]] nustatyta tvarka, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
-### 97 straipsnis. Juridinių asmenų atsakomybė už atsisakymą priimti gaminių atliekas
+### 97 straipsnis. Juridinių asmenų atsakomybė už atsisakymą priimti gaminių atliekas ^s-395ee4b27903285d72d28dcb
 
 
 Įstatymų nustatytos pareigos nustatyta tvarka priimti gaminių atliekas nevykdymas užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
@@ -4489,7 +4494,7 @@ Platinimas elektros ir elektroninės įrangos, kurios gamintojas ar importuotoja
 
 
 
-### 98 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintos elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ar platinimą, už nustatyta tvarka nepaženklintų apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai ir už nustatyta tvarka nepaženklintų, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais
+### 98 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintos elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ar platinimą, už nustatyta tvarka nepaženklintų apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai ir už nustatyta tvarka nepaženklintų, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ^s-55f9488c46ec48d6a34fa83c
 Pakeistas straipsnio pavadinimas:
 Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
@@ -4519,10 +4524,10 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
-### 99 straipsnis. Juridinių asmenų atsakomybė už visuomenės neinformavimą gaminių atliekų prevencijos ir tvarkymo klausimais
+### 99 straipsnis. Juridinių asmenų atsakomybė už visuomenės neinformavimą gaminių atliekų prevencijos ir tvarkymo klausimais ^s-cb8123cb384e033ab1bc5302
 
 
-Atliekų tvarkymo įstatyme nustatytos pareigos šviesti ir informuoti visuomenę gaminių atliekų prevencijos ir tvarkymo klausimais nevykdymas arba netinkamas vykdymas užtraukia baudą platintojui nuo trijų šimtų iki šešių šimtų eurų, gamintojui ir importuotojui, individualiai organizuojančiam gaminių atliekų tvarkymą, – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+[[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] nustatytos pareigos šviesti ir informuoti visuomenę gaminių atliekų prevencijos ir tvarkymo klausimais nevykdymas arba netinkamas vykdymas užtraukia baudą platintojui nuo trijų šimtų iki šešių šimtų eurų, gamintojui ir importuotojui, individualiai organizuojančiam gaminių atliekų tvarkymą, – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą platintojui nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų, gamintojui ir importuotojui, individualiai organizuojančiam gaminių atliekų tvarkymą, – nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -4533,7 +4538,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 100 straipsnis. Juridinių asmenų atsakomybė už apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai ir už į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais
+### 100 straipsnis. Juridinių asmenų atsakomybė už apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai ir už į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ^s-750bb4ee1643d7cac9da8e03
 
 
 Apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių, kuriuose viršijamas teisės aktų nustatytas gyvsidabrio ir kadmio kiekis, tiekimas Lietuvos Respublikos vidaus rinkai ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
@@ -4547,7 +4552,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 1001 straipsnis. Juridinių asmenų atsakomybė už iš aerobiškai skaidaus plastiko pagamintų gaminių ir draudžiamų pateikti rinkai vienkartinių plastikinių gaminių pateikimą Lietuvos Respublikos rinkai
+### 1001 straipsnis. Juridinių asmenų atsakomybė už iš aerobiškai skaidaus plastiko pagamintų gaminių ir draudžiamų pateikti rinkai vienkartinių plastikinių gaminių pateikimą Lietuvos Respublikos rinkai ^s-9c1c23166261eab3881eef85
 
 
 Iš aerobiškai skaidaus plastiko pagamintų gaminių pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
@@ -4556,7 +4561,7 @@ Iš aerobiškai skaidaus plastiko pagamintų gaminių pateikimas Lietuvos Respub
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
-Vienkartinių plastikinių ausų krapštukų, išskyrus atvejus, jeigu jiems taikomas Lietuvos Respublikos sveikatos sistemos įstatymas, pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
+Vienkartinių plastikinių ausų krapštukų, išskyrus atvejus, jeigu jiems taikomas [[latest/TAR.E2B2957B9182|Lietuvos Respublikos sveikatos sistemos įstatymas]], pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
 
 
 Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -4574,7 +4579,7 @@ Vienkartinių plastikinių lėkščių pateikimas Lietuvos Respublikos rinkai u�
 Šio straipsnio 7 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
-Vienkartinių plastikinių šiaudelių, išskyrus atvejus, jeigu jiems taikomas Sveikatos sistemos įstatymas, pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
+Vienkartinių plastikinių šiaudelių, išskyrus atvejus, jeigu jiems taikomas [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymas]], pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
 
 
 Šio straipsnio 9 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -4623,10 +4628,10 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-### 101 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais neturint dokumento, įrodančio, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas
+### 101 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais neturint dokumento, įrodančio, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas ^s-781b6bc424822176d56a483a
 
 
-Lietuvos Respublikos atliekų tvarkymo įstatymo nustatytos pareigos vykdant elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais turėti dokumentą, įrodantį, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas, nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+[[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymo]] nustatytos pareigos vykdant elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais turėti dokumentą, įrodantį, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas, nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
@@ -4637,7 +4642,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 102 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo neorganizavimą
+### 102 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo neorganizavimą ^s-58df98a48e2795db38082566
 
 
 Įstatymuose ir kituose teisės aktuose gamintojams ir importuotojams nustatytos pareigos neatlygintinai surinkti alyvos atliekas iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir šias atliekas pervežti ir perduoti alyvos atliekų tvarkytojams arba kompensuoti transporto priemonių techninės priežiūros ir remonto paslaugas teikiančioms įmonėms ar atliekų tvarkytojams alyvos atliekų surinkimo ir vežimo tvarkyti Lietuvos Respublikos teritorijoje išlaidas nevykdymas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -4646,7 +4651,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
-Atliekų tvarkymo įstatyme numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai verslo tikslais elektros ir elektroninę įrangą, transporto priemones ir (ar) į prietaisus ar transporto priemones įmontuotas baterijas ir (ar) akumuliatorius ir (ar) tiektus Lietuvos Respublikos vidaus rinkai apmokestinamuosius gaminius, arba sudaryti sutartis nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
+[[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatyme]] numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai verslo tikslais elektros ir elektroninę įrangą, transporto priemones ir (ar) į prietaisus ar transporto priemones įmontuotas baterijas ir (ar) akumuliatorius ir (ar) tiektus Lietuvos Respublikos vidaus rinkai apmokestinamuosius gaminius, arba sudaryti sutartis nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
 Straipsnio dalies pakeitimai:
 Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
@@ -4655,14 +4660,14 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturiolikos tūkstančių iki dvidešimt trijų tūkstančių eurų.
 
 
-Lietuvos Respublikos atliekų tvarkymo įstatyme ir kituose teisės aktuose gamintojams ir importuotojams nustatytos pareigos užtikrinti nustatyto kiekio eksploatuoti netinkamų transporto priemonių surinkimo vietų buvimą nevykdymas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+[[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]] ir kituose teisės aktuose gamintojams ir importuotojams nustatytos pareigos užtikrinti nustatyto kiekio eksploatuoti netinkamų transporto priemonių surinkimo vietų buvimą nevykdymas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
 
 
 
-### 1021 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo finansavimo neorganizavimą
+### 1021 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo finansavimo neorganizavimą ^s-bbca3bc280691bdd6d5fee73
 
 
 Įstatymuose numatytos pareigos organizuoti atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, drėgnąsias servetėles ir (ar) oro balionėlius, žvejybos įrankius, kurių sudėtyje yra plastiko, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
@@ -4679,7 +4684,7 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-### 1022 straipsnis. Juridinių asmenų atsakomybė už gaminių ar pakuočių atliekų kolektyvaus tvarkymo organizavimo reikalavimų nevykdymą
+### 1022 straipsnis. Juridinių asmenų atsakomybė už gaminių ar pakuočių atliekų kolektyvaus tvarkymo organizavimo reikalavimų nevykdymą ^s-7928b61fe538e1bb911534eb
 
 
 Pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų nevykdymas, kai gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skyrė mažiau kaip 3 procentus, bet daugiau kaip 2,5 procento gamintojų ir importuotojų organizacijos gautų pajamų, užtraukia baudą nuo 0,5 iki 1 procento gamintojų ir importuotojų organizacijos pajamų, gautų kalendoriniais metais, kuriais gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija nevykdė pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų.
@@ -4696,7 +4701,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 1023 straipsnis. Juridinių asmenų atsakomybė už Vyriausybės ar jos įgaliotos institucijos nustatytos elektros ir elektroninės įrangos atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymą
+### 1023 straipsnis. Juridinių asmenų atsakomybė už Vyriausybės ar jos įgaliotos institucijos nustatytos elektros ir elektroninės įrangos atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymą ^s-c7d559a19f0004a191d28c93
 
 
 Vyriausybės ar jos įgaliotos institucijos nustatytos eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymas individualiai eksploatuoti netinkamų transporto priemonių tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai ir (ar) eksploatuoti netinkamų transporto priemonių tvarkytojui, vykdančiam eksploatuoti netinkamų transporto priemonių išardymą, sulaužymą, sukarpymą ar kitokį susmulkinimą, smulkinimo atliekų paruošimą naudoti ir (ar) šalinti, išardytų dalių paruošimą pakartotinai naudoti, užtraukia baudą nuo penkių tūkstančių keturių šimtų iki dvylikos tūkstančių eurų.
@@ -4728,27 +4733,27 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 103 straipsnis. Juridinių asmenų atsakomybė už gaminių ir (ar) pakuočių atliekų tvarkymo organizavimą neturint Lietuvos Respublikos atliekų tvarkymo įstatyme nurodytos gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijos
+### 103 straipsnis. Juridinių asmenų atsakomybė už gaminių ir (ar) pakuočių atliekų tvarkymo organizavimą neturint Lietuvos Respublikos atliekų tvarkymo įstatyme nurodytos gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijos ^s-525938273b9c99e3256e7e1f
 
 
-Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimas neturint Lietuvos Respublikos atliekų tvarkymo įstatyme nurodytos gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijos užtraukia baudą nuo septynių tūkstančių iki keturiolikos tūkstančių eurų.
+Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimas neturint [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]] nurodytos gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijos užtraukia baudą nuo septynių tūkstančių iki keturiolikos tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
 
 
 
-### 104 straipsnis. Juridinių asmenų atsakomybė už pakuočių, kuriose kenksmingos medžiagos viršija leistiną ribinį kiekį, tiekimą Lietuvos Respublikos vidaus rinkai
+### 104 straipsnis. Juridinių asmenų atsakomybė už pakuočių, kuriose kenksmingos medžiagos viršija leistiną ribinį kiekį, tiekimą Lietuvos Respublikos vidaus rinkai ^s-625bad38af6e2d1e607d265b
 
 
 Pakuočių, kuriose kenksmingos medžiagos viršija leistiną ribinį kiekį, tiekimas Lietuvos Respublikos vidaus rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
 
 
 
-### 105 straipsnis. Juridinių asmenų atsakomybė už pareigos šviesti ir informuoti visuomenę pakuočių ir (ar) pakuočių atliekų prevencijos ir tvarkymo klausimais nustatyta tvarka nevykdymą arba netinkamą vykdymą
+### 105 straipsnis. Juridinių asmenų atsakomybė už pareigos šviesti ir informuoti visuomenę pakuočių ir (ar) pakuočių atliekų prevencijos ir tvarkymo klausimais nustatyta tvarka nevykdymą arba netinkamą vykdymą ^s-1460da52d80d5a67a7a87973
 
 
-Pakuočių ir pakuočių atliekų tvarkymo įstatyme nustatytos pareigos šviesti ir informuoti visuomenę pakuočių ir (ar) pakuočių atliekų prevencijos ir tvarkymo klausimais nevykdymas arba netinkamas vykdymas užtraukia baudą pakuočių platintojui nuo trijų šimtų iki šešių šimtų eurų, individualiai pakuočių atliekų tvarkymą organizuojančiam gamintojui ir importuotojui – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+[[latest/TAR.9D1ADB9E1518|Pakuočių ir pakuočių atliekų tvarkymo įstatyme]] nustatytos pareigos šviesti ir informuoti visuomenę pakuočių ir (ar) pakuočių atliekų prevencijos ir tvarkymo klausimais nevykdymas arba netinkamas vykdymas užtraukia baudą pakuočių platintojui nuo trijų šimtų iki šešių šimtų eurų, individualiai pakuočių atliekų tvarkymą organizuojančiam gamintojui ir importuotojui – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą pakuočių platintojui nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų, individualiai pakuočių atliekų tvarkymą organizuojančiam gamintojui ir importuotojui – nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -4759,7 +4764,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 106 straipsnis. Juridinių asmenų atsakomybė už atsisakymą priimti pakuotes
+### 106 straipsnis. Juridinių asmenų atsakomybė už atsisakymą priimti pakuotes ^s-47b76c8695b1cbb3e489ef12
 
 
 Įstatymų nustatytos pareigos nustatyta tvarka priimti pakuotes nevykdymas užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
@@ -4769,7 +4774,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 107 straipsnis. Juridinių asmenų atsakomybė už pakuočių apskaitos tvarkymo, pakuočių apskaitos ataskaitos teikimo ir mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos teikimo reikalavimų nevykdymą
+### 107 straipsnis. Juridinių asmenų atsakomybė už pakuočių apskaitos tvarkymo, pakuočių apskaitos ataskaitos teikimo ir mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos teikimo reikalavimų nevykdymą ^s-481704109162e6997588ef9b
 
 
 Pakuočių apskaitos ataskaitos ir (ar) mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos nepateikimas, kai raštu buvo įspėta apie šios ataskaitos ir (ar) deklaracijos pateikimo terminus, užtraukia baudą nuo penkių šimtų iki aštuonių šimtų eurų.
@@ -4786,7 +4791,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 108 straipsnis. Juridinių asmenų atsakomybė už pakuočių atliekų tvarkymo neorganizavimą
+### 108 straipsnis. Juridinių asmenų atsakomybė už pakuočių atliekų tvarkymo neorganizavimą ^s-17103674d02b9a0eca7615a6
 
 
 Įstatymuose numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai pakuotes, nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
@@ -4796,7 +4801,7 @@ Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
 
 
 
-### 1081 straipsnis. Juridinių asmenų atsakomybė už lengvųjų ir labai lengvų plastikinių pirkinių maišelių neatlygintiną dalijimą prekių ar produktų pardavimo vietose
+### 1081 straipsnis. Juridinių asmenų atsakomybė už lengvųjų ir labai lengvų plastikinių pirkinių maišelių neatlygintiną dalijimą prekių ar produktų pardavimo vietose ^s-789a7ed22e12654c9c8cef4e
 
 
 Lengvųjų ir (arba) labai lengvų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, į kuriuos pakuojami šviežia mėsa, jos produktai ir šviežios žuvys, jų produktai, neatlygintinas dalijimas prekių ar produktų pardavimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
@@ -4810,7 +4815,7 @@ Nr. XIV-1564, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24644
 
 
 
-### 1082 straipsnis. Juridinių asmenų atsakomybė už atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius, tvarkymo finansavimo neorganizavimą
+### 1082 straipsnis. Juridinių asmenų atsakomybė už atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius, tvarkymo finansavimo neorganizavimą ^s-08eddb7962c0df79a2effd8c
 
 
 Įstatymuose numatytos pareigos organizuoti atliekų ir šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai užpildytus vienkartinius plastikinius gaminius (be papildomo paruošimo suvartoti skirto maisto tarą, lanksčius pakelius ir vyniojamojo popieriaus pakuotes, ne didesnę kaip trijų litrų talpos gėrimų tarą, gėrimų indelius, įskaitant jų kamštelius ir dangtelius, lengvuosius plastikinius pirkinių maišelius), išrinkimo, surinkimo, vežimo, apdorojimo finansavimą nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
@@ -4824,24 +4829,10 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-### 1083 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių naudojimo mažinimo reikalavimų nevykdymą
+### 1083 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių naudojimo mažinimo reikalavimų nevykdymą ^s-d474848ace9af45c32be1915
 
 
-Viešojo maitinimo paslaugas teikiančių juridinių asmenų neatlygintinis Pakuočių ir pakuočių atliekų tvarkymo įstatymo 11 priedo 1 ir 4 punktuose nurodytų vienkartinių plastikinių gaminių, kai jie pardavimo metu pripildomi maisto produktų ar gėrimų viešojo maitinimo vietose, dalijimas vartotojams ir (ar) alternatyvos, numatytos Pakuočių ir pakuočių atliekų tvarkymo įstatymo 83 straipsnio 2 dalyje, nepateikimas vartotojams viešojo maitinimo vietose (patalpose ar lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose)) užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
-
-
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
-
-
-Papildyta straipsniu:
-Nr. XIV-2953, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13620
-
-
-
-### 1084 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių naudojimo masiniuose renginiuose ir paplūdimiuose mažinimo reikalavimų nevykdymą
-
-
-Viešojo maitinimo paslaugas teikiančių juridinių asmenų neatlygintinis Pakuočių ir pakuočių atliekų tvarkymo įstatymo 11 priedo 1 ir 4 punktuose nurodytų vienkartinių plastikinių gaminių, kurie teikiant viešojo maitinimo paslaugas pripildomi maisto produktų ar gėrimų, dalijimas ir (ar) pardavimas, išskyrus kai pagal Pakuočių ir pakuočių atliekų tvarkymo įstatymo 83 straipsnio 4 dalį yra taikomas užstatas, vartotojams masiniuose renginiuose ir paplūdimiuose įrengtose viešojo maitinimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+Viešojo maitinimo paslaugas teikiančių juridinių asmenų neatlygintinis [[latest/TAR.9D1ADB9E1518|Pakuočių ir pakuočių atliekų tvarkymo įstatymo]] 11 priedo 1 ir 4 punktuose nurodytų vienkartinių plastikinių gaminių, kai jie pardavimo metu pripildomi maisto produktų ar gėrimų viešojo maitinimo vietose, dalijimas vartotojams ir (ar) alternatyvos, numatytos [[latest/TAR.9D1ADB9E1518#^s-1de0144a14a5ed95be95af48|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 83 straipsnio 2 dalyje]], nepateikimas vartotojams viešojo maitinimo vietose (patalpose ar lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose)) užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
 
 
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
@@ -4852,7 +4843,21 @@ Nr. XIV-2953, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13620
 
 
 
-### 109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą
+### 1084 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių naudojimo masiniuose renginiuose ir paplūdimiuose mažinimo reikalavimų nevykdymą ^s-a787656d07f4a3a54b1bc91d
+
+
+Viešojo maitinimo paslaugas teikiančių juridinių asmenų neatlygintinis [[latest/TAR.9D1ADB9E1518|Pakuočių ir pakuočių atliekų tvarkymo įstatymo]] 11 priedo 1 ir 4 punktuose nurodytų vienkartinių plastikinių gaminių, kurie teikiant viešojo maitinimo paslaugas pripildomi maisto produktų ar gėrimų, dalijimas ir (ar) pardavimas, išskyrus kai pagal [[latest/TAR.9D1ADB9E1518#^s-540ff6fa4aa18e09aeb1426d|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 83 straipsnio 4 dalį]] yra taikomas užstatas, vartotojams masiniuose renginiuose ir paplūdimiuose įrengtose viešojo maitinimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-2953, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13620
+
+
+
+### 109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą ^s-dfda5a9eb158867ad0979606
 
 
 Cheminių medžiagų ir (ar) cheminių mišinių sandėliavimas pažeidžiant nustatytus reikalavimus užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
@@ -4936,7 +4941,7 @@ Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
 
 
-### 1091 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimą
+### 1091 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimą ^s-b2c001911492afb7a7812560
 
 
 Reglamente (ES) 2017/852 nustatytų dantų amalgamos gamybos, importo, eksporto draudimo reikalavimų pažeidimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
@@ -4971,25 +4976,25 @@ Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-### 110 straipsnis. Juridinių asmenų atsakomybė už ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso, įtrauktų į Reglamento (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimą
+### 110 straipsnis. Juridinių asmenų atsakomybė už ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso, įtrauktų į Reglamento (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimą ^s-baa1ecb748517c173fa275fb
 
 
-Reglamento (ES) 2024/590 8 straipsnio 5 dalyje, [[#15 straipsnis. Ūkinės veiklos, galinčios daryti poveikį aplinkai, planavimas ir leidimų išdavimas|15 straipsnio]] 3, 4 ir 6 dalyse, [[#20 straipsnis. Cheminių medžiagų ir cheminių mišinių tvarkymas|20 straipsnio]] 3, 4 dalyse ir 21 straipsnio 5 dalyje nustatytų informacijos, duomenų, dokumentų saugojimo mažiausiai penkerius metus ir pateikimo Europos Komisijai ar Vyriausybės įgaliotoms institucijoms, joms paprašius, pažeidimas užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+Reglamento (ES) 2024/590 8 straipsnio 5 dalyje, [[#^s-b5f68c6ece71aefe57297ce9|15 straipsnio]] 3, 4 ir 6 dalyse, [[#^s-8a240c7b0bf4149ea7bc23f3|20 straipsnio]] 3, 4 dalyse ir 21 straipsnio 5 dalyje nustatytų informacijos, duomenų, dokumentų saugojimo mažiausiai penkerius metus ir pateikimo Europos Komisijai ar Vyriausybės įgaliotoms institucijoms, joms paprašius, pažeidimas užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
 Duomenų apie gaminamas, importuojamas, eksportuojamas, sunaikinamas, naudojamas ozono sluoksnį ardančias medžiagas, būtiniausius halonų naudojimo atvejus, ozono sluoksnį ardančių medžiagų turinčią įrangą nepateikimas Europos Komisijai ar aplinkos ministro įgaliotai institucijai, šių duomenų nuslėpimas ir (arba) iškraipymas užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
-Talpyklų, kuriose yra ozono sluoksnį ardančių medžiagų, skirtų naudoti Reglamento (ES) 2024/590 6, 7, 8 ir [[#12 straipsnis. Saugomos teritorijos|12 straipsniuose]] nurodytoms reikmėms, ženklinimo reikalavimų pažeidimas užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+Talpyklų, kuriose yra ozono sluoksnį ardančių medžiagų, skirtų naudoti Reglamento (ES) 2024/590 6, 7, 8 ir [[#^s-889e07beb215c441d39c6a57|12 straipsniuose]] nurodytoms reikmėms, ženklinimo reikalavimų pažeidimas užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
 Pakartotinai neužpildomų ozono sluoksnį ardančių medžiagų talpyklų, kurios yra tuščios arba visiškai ar iš dalies užpildytos, importas, pateikimas rinkai, vėlesnis tiekimas ar teikimas kitam asmeniui Europos Sąjungoje už atlygį arba neatlygintinai, naudojimas ar eksportas užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
 
 
-Reglamento (ES) 2024/590 [[#8 straipsnis. Valstybės valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises|8 straipsnio]] 1 ir 6 dalyse nurodytų ozono sluoksnį ardančių medžiagų, skirtų svarbiausioms laboratorijų ir analizės reikmėms, gamybos, pateikimo rinkai ir vėlesnio tiekimo arba teikimo kitam asmeniui Europos Sąjungoje už atlygį arba neatlygintinai ar naudojimo sąlygų pažeidimas užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
+Reglamento (ES) 2024/590 [[#^s-efdae8857699357b55e18278|8 straipsnio]] 1 ir 6 dalyse nurodytų ozono sluoksnį ardančių medžiagų, skirtų svarbiausioms laboratorijų ir analizės reikmėms, gamybos, pateikimo rinkai ir vėlesnio tiekimo arba teikimo kitam asmeniui Europos Sąjungoje už atlygį arba neatlygintinai ar naudojimo sąlygų pažeidimas užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
 
 
-Reglamento (ES) 2024/590 [[#9 straipsnis. Piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pareigos|9 straipsnio]] 1 ir 2 dalyse nustatytų halonų, naudojamų būtiniausioms reikmėms, saugojimo reikalavimų pažeidimas, priešgaisrinių sistemų ir gesintuvų, kuriuose yra halonų, naudojamų būtiniausioms reikmėms arba kurių veikimas nuo jų priklauso, eksploatacijos nutraukimo ar halonų surinkimo reikalavimų pažeidimas užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
+Reglamento (ES) 2024/590 [[#^s-435a2a8eb014369543d39b3b|9 straipsnio]] 1 ir 2 dalyse nustatytų halonų, naudojamų būtiniausioms reikmėms, saugojimo reikalavimų pažeidimas, priešgaisrinių sistemų ir gesintuvų, kuriuose yra halonų, naudojamų būtiniausioms reikmėms arba kurių veikimas nuo jų priklauso, eksploatacijos nutraukimo ar halonų surinkimo reikalavimų pažeidimas užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
 
 
 Ozono sluoksnį ardančių medžiagų išleidimas į atmosferą, ozono sluoksnį ardančių medžiagų nuotėkio prevencijos reikalavimų pažeidimas, reikalavimų tikrinti ozono sluoksnį ardančių medžiagų turinčią įrangą dėl galimo nuotėkio pažeidimas arba įrangos, turinčios gedimų, dėl kurių ozono sluoksnį ardančios medžiagos patenka ar gali patekti į atmosferą, eksploatavimas, ozono sluoksnį ardančių medžiagų surinkimo iš jų turinčių produktų ir įrangos reikalavimų pažeidimas, produktų ir įrangos, kuriuose yra ozono sluoksnį ardančių medžiagų arba kurių veikimas nuo jų priklauso, eksploatacijos nutraukimo reikalavimų pažeidimas, reikalavimų surinkti ozono sluoksnį ardančias medžiagas iš statybinių medžiagų putų pažeidimas, ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų, naikinimo reikalavimų pažeidimas užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
@@ -5012,7 +5017,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą
+### 1101 straipsnis. Juridinių asmenų atsakomybė už fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimą ^s-cc1b9d9bcc3a82c7a8ef9e59
 
 
 Fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių išleidimas į atmosferą, kai tai techniškai nebūtina, naudojant fluorintas šiltnamio efektą sukeliančias dujas ir jų mišinius pagal paskirtį, užtraukia baudą nuo dviejų tūkstančių iki aštuonių tūkstančių eurų.
@@ -5059,13 +5064,13 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1102 straipsnis. Neteko galios nuo 2026-08-01
+### 1102 straipsnis. Neteko galios nuo 2026-08-01 ^s-2a5eb45a0d190eb6266eb7f3
 Straipsnio naikinimas:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 1103 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimą
+### 1103 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimą ^s-cc089d2bd6ea548084f1ba01
 
 
 Įgaliotojo PADKM deklaranto PADKM sertifikatų, atitinkančių per praėjusius kalendorinius metus importuotų prekių būdingą išmestą  šiltnamio efektą sukeliančių dujų kiekį, neatsisakymas laiku užtraukia vieno šimto eurų baudą už kiekvieną neatsisakytą PADKM sertifikatą.
@@ -5079,13 +5084,13 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 1104 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/1805  nustatytų laive sunaudojamai energijai tenkančios taršos šiltnamio efektą sukeliančiomis dujomis kiekio reikalavimų pažeidimą
+### 1104 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) 2023/1805  nustatytų laive sunaudojamai energijai tenkančios taršos šiltnamio efektą sukeliančiomis dujomis kiekio reikalavimų pažeidimą ^s-5444a57825b7b1a09a67ab1b
 
 
-Reglamento (ES) 2023/1805 [[#24 straipsnis. Neteko galios nuo 2005 m. balandžio 12 d.|24 straipsnyje]] nustatyto reikalavimo laivybos bendrovei priklausančiame laive turėti galiojantį „FuelEU“ atitikties patvirtinimo dokumentą nevykdymas užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+Reglamento (ES) 2023/1805 [[#^s-a3a447d6619b24f24285e533|24 straipsnyje]] nustatyto reikalavimo laivybos bendrovei priklausančiame laive turėti galiojantį „FuelEU“ atitikties patvirtinimo dokumentą nevykdymas užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
-Reglamento (ES) 2023/1805 [[#23 straipsnis. Atliekų tvarkymas|23 straipsnio]] 2 ir 3 dalyse nustatyto reikalavimo laivybos bendrovei sumokėti „FuelEU“ baudą nevykdymas užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+Reglamento (ES) 2023/1805 [[#^s-e297d98576e32f0b38122835|23 straipsnio]] 2 ir 3 dalyse nustatyto reikalavimo laivybos bendrovei sumokėti „FuelEU“ baudą nevykdymas užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
 
 
 Papildyta straipsniu:
@@ -5093,7 +5098,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 111 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių išteklių, ertmių ir (arba) grunto naudojimo reikalavimų pažeidimus
+### 111 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių išteklių, ertmių ir (arba) grunto naudojimo reikalavimų pažeidimus ^s-77100b99181b75a3f9ae1775
 
 
 Žemės gelmių išteklių, ertmių ir (arba) grunto naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimas užtraukia baudą nuo vieno šimto šešiasdešimt iki trijų šimtų penkiasdešimt eurų.
@@ -5158,7 +5163,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 112 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių išteklių apskaitos reikalavimų ir rekultivavimo reikalavimų pažeidimą
+### 112 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių išteklių apskaitos reikalavimų ir rekultivavimo reikalavimų pažeidimą ^s-703be7287e4734f45c3978fc
 
 
 Žemės gelmių išteklių apskaitos reikalavimų pažeidimas po to, kai juridinis asmuo buvo raštu įspėtas apie pažeidimą, užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
@@ -5186,7 +5191,7 @@ Pažeistos žemės rekultivavimo reikalavimų pažeidimas, padarytas pakartotina
 
 
 
-### 113 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių geologinio tyrimo reikalavimų pažeidimą
+### 113 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių geologinio tyrimo reikalavimų pažeidimą ^s-b52080583b6ad96362a4cb94
 
 
 Žemės gelmių geologinio tyrimo vykdymas neturint tam teisės užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
@@ -5212,7 +5217,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 114 straipsnis. Juridinių asmenų atsakomybė už gręžinių projektavimo, įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimą, požeminio vandens gavybos ar angliavandenilių gręžinio ir geoterminių gręžinių sistemos naudojimą, kai gręžinys ar gręžinių sistema neįregistruoti Žemės gelmių registre
+### 114 straipsnis. Juridinių asmenų atsakomybė už gręžinių projektavimo, įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimą, požeminio vandens gavybos ar angliavandenilių gręžinio ir geoterminių gręžinių sistemos naudojimą, kai gręžinys ar gręžinių sistema neįregistruoti Žemės gelmių registre ^s-5cf0dc464298543d813e612d
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
@@ -5238,7 +5243,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 115 straipsnis. Juridinių asmenų atsakomybė už anglies dioksido geologinių saugyklų kompleksų žvalgybos ir anglies dioksido geologinio saugojimo reikalavimų pažeidimą
+### 115 straipsnis. Juridinių asmenų atsakomybė už anglies dioksido geologinių saugyklų kompleksų žvalgybos ir anglies dioksido geologinio saugojimo reikalavimų pažeidimą ^s-543603c4bf409cbde71ce235
 
 
 Neteisingų duomenų apie anglies dioksido suleidimo įrenginių, anglies dioksido geologinės saugyklos komplekso ir (arba) anglies dioksido santalkos ir aplinkos monitoringą pateikimas arba šių duomenų nepateikimas Lietuvos geologijos tarnybai prie Aplinkos ministerijos užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
@@ -5254,7 +5259,7 @@ Anglies dioksido geologinių saugyklų kompleksų žvalgybos vykdymas pažeidži
 
 
 
-### 116 straipsnis. Juridinių asmenų atsakomybė už apvaliosios medienos matavimo, apskaitos ir ženklinimo tvarkos, biržių atrėžimo ir (ar) medžių atrinkimo bei ženklinimo kirsti reikalavimų, leidimų kirsti mišką išdavimo tvarkos, medienos ruošos, gabenimo, miško išteklių naudojimo tvarkos, vidinės miškotvarkos projektų sudarymo, miško naudojimo reikalavimų pažeidimus, miško tvarkymą ir (ar) naudojimą pažeidžiant miškotvarkos projekto sprendinius, medžių ir krūmų kirtimą miško žemėje ir (ar) medienos ištraukimą miško kirtimų taisyklėse nustatytu draudžiamu metu
+### 116 straipsnis. Juridinių asmenų atsakomybė už apvaliosios medienos matavimo, apskaitos ir ženklinimo tvarkos, biržių atrėžimo ir (ar) medžių atrinkimo bei ženklinimo kirsti reikalavimų, leidimų kirsti mišką išdavimo tvarkos, medienos ruošos, gabenimo, miško išteklių naudojimo tvarkos, vidinės miškotvarkos projektų sudarymo, miško naudojimo reikalavimų pažeidimus, miško tvarkymą ir (ar) naudojimą pažeidžiant miškotvarkos projekto sprendinius, medžių ir krūmų kirtimą miško žemėje ir (ar) medienos ištraukimą miško kirtimų taisyklėse nustatytu draudžiamu metu ^s-32a541120cb8550a2a7b72f1
 
 
 Apvaliosios medienos matavimo, apskaitos ir ženklinimo tvarkos pažeidimas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
@@ -5286,7 +5291,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 117 straipsnis. Juridinių asmenų atsakomybė už savavališką medžių ir krūmų kirtimą, naikinimą arba žalojimą miško žemėje
+### 117 straipsnis. Juridinių asmenų atsakomybė už savavališką medžių ir krūmų kirtimą, naikinimą arba žalojimą miško žemėje ^s-28efe8562ffcf2c62f86c639
 
 
 Savavališkas medžių ir krūmų kirtimas, naikinimas arba žalojimas miško žemėje, kai iškertama, sunaikinama ar sužalojama iki 10 kietmetrių medžių ir (ar) krūmų, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -5319,7 +5324,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 118 straipsnis. Juridinių asmenų atsakomybė už savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ištraukimą arba išvežimą be leidimo
+### 118 straipsnis. Juridinių asmenų atsakomybė už savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ištraukimą arba išvežimą be leidimo ^s-ff14f49510b32ff59db9ae03
 
 
 Savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ištraukimas arba išvežimas be leidimo, kai ištraukiama ir (ar) išvežama iki 10 kietmetrių medžių ar krūmų, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
@@ -5352,7 +5357,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1181 straipsnis. Juridinių asmenų atsakomybė už informacijos apie medieną ir medienos produktus saugojimo ir teikimo, deramo patikrinimo, medienos ir medienos produktų pateikimo rinkai reikalavimų pažeidimą
+### 1181 straipsnis. Juridinių asmenų atsakomybė už informacijos apie medieną ir medienos produktus saugojimo ir teikimo, deramo patikrinimo, medienos ir medienos produktų pateikimo rinkai reikalavimų pažeidimą ^s-663463580d8e2b97143e72f4
 
 
 Reglamente (ES) Nr. 995/2010 nustatytų informacijos apie medieną ir medienos produktus saugojimo ir teikimo kompetentingoms institucijoms reikalavimų pažeidimas po rašytinio įspėjimo užtraukia baudą nuo dvidešimt penkių iki trijų šimtų eurų.
@@ -5367,7 +5372,7 @@ Reglamente (ES) Nr. 995/2010 nustatytos deramo patikrinimo sistemos netaikymas a
 Šio straipsnio trečiojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
 
 
-Neteisėtai paruoštos medienos ir iš jos pagamintų medienos produktų pateikimo rinkai pagal Reglamentą (ES) Nr. 995/2010 pažeidimas, išskyrus šio įstatymo 116 ir [[#117 straipsnis. Juridinių asmenų atsakomybė už savavališką medžių ir krūmų kirtimą, naikinimą arba žalojimą miško žemėje|117 straipsniuose]] numatytus pažeidimus, užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio eurų.
+Neteisėtai paruoštos medienos ir iš jos pagamintų medienos produktų pateikimo rinkai pagal Reglamentą (ES) Nr. 995/2010 pažeidimas, išskyrus šio įstatymo 116 ir [[#^s-28efe8562ffcf2c62f86c639|117 straipsniuose]] numatytus pažeidimus, užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio eurų.
 
 
 Šio straipsnio penktojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
@@ -5381,7 +5386,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1182 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr.  2023/1115  I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimą
+### 1182 straipsnis. Juridinių asmenų atsakomybė už Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr.  2023/1115  I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimą ^s-afaff586670333b5263f9196
 
 
 Reglamente (ES) Nr. 2023/1115 nustatytų informacijos saugojimo ir teikimo Vyriausybės įgaliotoms institucijoms reikalavimų pažeidimas po rašytinio įspėjimo užtraukia baudą nuo šešių šimtų iki vieno tūkstančio eurų.
@@ -5396,19 +5401,19 @@ Reglamente (ES) Nr. 2023/1115 nustatytos išsamaus patikrinimo sistemos netaikym
 Šio straipsnio trečiojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą, kurios dydis nuo 2 iki 3 procentų veiklos vykdytojo arba prekiautojo bendros metinės apyvartos Europos Sąjungos mastu finansiniais metais, einančiais prieš priimant sprendimą skirti baudą, apskaičiuotos laikantis Tarybos reglamento (EB) Nr. 139/2004 5 straipsnio 1 dalyje išdėstytų įmonių bendros apyvartos skaičiavimo nuostatų.
 
 
-Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimas arba tiekimas rinkai, arba eksportas pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#3 straipsnis. Aplinkos apsaugos objektas|3 straipsnyje]] nustatytus reikalavimus užtraukia baudą, kurios dydis nuo 3 iki 4 procentų veiklos vykdytojo arba prekiautojo bendros metinės apyvartos Europos Sąjungos mastu finansiniais metais, einančiais prieš priimant sprendimą skirti baudą, apskaičiuotos laikantis Tarybos reglamento (EB) Nr. 139/2004 5 straipsnio 1 dalyje išdėstytų įmonių bendros apyvartos skaičiavimo nuostatų.
+Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimas arba tiekimas rinkai, arba eksportas pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#^s-62da3342296275fb6aabb0b9|3 straipsnyje]] nustatytus reikalavimus užtraukia baudą, kurios dydis nuo 3 iki 4 procentų veiklos vykdytojo arba prekiautojo bendros metinės apyvartos Europos Sąjungos mastu finansiniais metais, einančiais prieš priimant sprendimą skirti baudą, apskaičiuotos laikantis Tarybos reglamento (EB) Nr. 139/2004 5 straipsnio 1 dalyje išdėstytų įmonių bendros apyvartos skaičiavimo nuostatų.
 
 
 Šio straipsnio penktojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą, kurios dydis nuo 4 iki 8 procentų veiklos vykdytojo arba prekiautojo bendros metinės apyvartos Europos Sąjungos mastu finansiniais metais, einančiais prieš priimant sprendimą skirti baudą, apskaičiuotos laikantis Tarybos reglamento (EB) Nr. 139/2004 5 straipsnio 1 dalyje išdėstytų įmonių bendros apyvartos skaičiavimo nuostatų.
 
 
-Už šio straipsnio penktojoje, šeštojoje dalyse numatytus pažeidimus skiriamas Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų ir (arba) iš produktų pateikimo arba tiekimo rinkai arba eksporto pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#3 straipsnis. Aplinkos apsaugos objektas|3 straipsnyje]] nustatytus reikalavimus gautų pajamų konfiskavimas.
+Už šio straipsnio penktojoje, šeštojoje dalyse numatytus pažeidimus skiriamas Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų ir (arba) iš produktų pateikimo arba tiekimo rinkai arba eksporto pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#^s-62da3342296275fb6aabb0b9|3 straipsnyje]] nustatytus reikalavimus gautų pajamų konfiskavimas.
 
 
 Įsiteisėjus nutarimui arba teismo sprendimui skirti  šio straipsnio šeštojoje dalyje numatytą baudą, juridinis asmuo įtraukiamas į Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimo arba tiekimo rinkai arba eksporto reikalavimus pažeidusių ir šio straipsnio šeštojoje dalyje nurodytas baudas gavusių juridinių asmenų sąrašą, skelbiamą atitinkamai Vyriausybės įgaliotų institucijų interneto svetainėse.
 
 
-Po šio straipsnio šeštojoje dalyje numatyto pažeidimo padarytas Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimo arba tiekimo rinkai arba eksporto pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#3 straipsnis. Aplinkos apsaugos objektas|3 straipsnyje]] nustatytus reikalavimus pažeidimas ar vėlesni pakartotiniai pažeidimai, taip pat 1 ha ar didesnio miško ploto sunaikinimas, 2 ha ar didesnio miško ploto nualinimas laikomi sunkiais pažeidimais ir už juos skiriamas laikinas (iki vienų metų) draudimas pateikti rinkai arba tiekti rinkai arba eksportuoti atitinkamas biržos prekes ir produktus, kurie buvo pateikti rinkai arba tiekti rinkai arba eksportuoti pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#3 straipsnis. Aplinkos apsaugos objektas|3 straipsnyje]] nustatytus reikalavimus ir draudžiama taikyti Reglamento (ES) Nr. 2023/1115 [[#13 straipsnis. Valstybinė gamtos išteklių apskaita|13 straipsnyje]] nustatytą supaprastintą išsamų patikrinimą.
+Po šio straipsnio šeštojoje dalyje numatyto pažeidimo padarytas Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimo arba tiekimo rinkai arba eksporto pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#^s-62da3342296275fb6aabb0b9|3 straipsnyje]] nustatytus reikalavimus pažeidimas ar vėlesni pakartotiniai pažeidimai, taip pat 1 ha ar didesnio miško ploto sunaikinimas, 2 ha ar didesnio miško ploto nualinimas laikomi sunkiais pažeidimais ir už juos skiriamas laikinas (iki vienų metų) draudimas pateikti rinkai arba tiekti rinkai arba eksportuoti atitinkamas biržos prekes ir produktus, kurie buvo pateikti rinkai arba tiekti rinkai arba eksportuoti pažeidžiant Reglamento (ES) Nr. 2023/1115 [[#^s-62da3342296275fb6aabb0b9|3 straipsnyje]] nustatytus reikalavimus ir draudžiama taikyti Reglamento (ES) Nr. 2023/1115 [[#^s-633fba5534c5afaf22b80180|13 straipsnyje]] nustatytą supaprastintą išsamų patikrinimą.
 
 
 Papildyta straipsniu:
@@ -5416,7 +5421,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 119 straipsnis. Juridinių asmenų atsakomybė už miško išteklių naudojimo ir jų atkūrimo reikalavimų pažeidimą
+### 119 straipsnis. Juridinių asmenų atsakomybė už miško išteklių naudojimo ir jų atkūrimo reikalavimų pažeidimą ^s-7ca36d9d63b08915552e4149
 
 
 Pagrindinių kirtimų patvirtintos metinės biržės neteisėtas viršijimas užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų tūkstančių eurų.
@@ -5431,14 +5436,14 @@ Miško atkūrimo ir įveisimo nuostatų reikalavimų pažeidimas užtraukia baud
 Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
 
 
-Miškų neatkūrimas per Lietuvos Respublikos miškų įstatymo nustatytus terminus užtraukia baudą už kiekvieną neatkurtą miško hektarą po vieną tūkstantį keturis šimtus eurų.
+Miškų neatkūrimas per [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymo]] nustatytus terminus užtraukia baudą už kiekvieną neatkurtą miško hektarą po vieną tūkstantį keturis šimtus eurų.
 
 
 Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą už kiekvieną neatkurtą miško hektarą po tris tūkstančius eurų.
 
 
 
-### 120 straipsnis. Juridinių asmenų atsakomybė už priešgaisrinės miškų apsaugos reikalavimų pažeidimą
+### 120 straipsnis. Juridinių asmenų atsakomybė už priešgaisrinės miškų apsaugos reikalavimų pažeidimą ^s-6bc8da9e6a3904103c96d194
 
 
 Priešgaisrinės miškų apsaugos reikalavimų pažeidimas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
@@ -5448,7 +5453,7 @@ Priešgaisrinės miškų apsaugos reikalavimų pažeidimas, sukėlęs miško gai
 
 
 
-### 121 straipsnis. Juridinių asmenų atsakomybė už miško sanitarinės apsaugos reikalavimų pažeidimą
+### 121 straipsnis. Juridinių asmenų atsakomybė už miško sanitarinės apsaugos reikalavimų pažeidimą ^s-38fc0b6fcf356d9e2cc0f034
 
 
 Miško sanitarinės apsaugos reikalavimų pažeidimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
@@ -5464,7 +5469,7 @@ Miško sanitarinės apsaugos reikalavimų pažeidimas, jeigu buvo padaryta žala
 
 
 
-### 122 straipsnis. Juridinių asmenų atsakomybė už saugomų teritorijų apsaugos ir naudojimo reikalavimų pažeidimą
+### 122 straipsnis. Juridinių asmenų atsakomybė už saugomų teritorijų apsaugos ir naudojimo reikalavimų pažeidimą ^s-61094808b478931d22a9ed3a
 
 
 Atkuriamųjų sklypų, genetinių sklypų, biosferos poligonų ir (ar) buferinės apsaugos zonų, išskyrus paveldo objektų buferinės apsaugos zonas, apsaugos ir naudojimo reikalavimų pažeidimas užtraukia baudą nuo šešiasdešimt iki dviejų šimtų penkiasdešimt eurų.
@@ -5504,7 +5509,7 @@ Valstybinių parkų, draustinių ir (ar) biosferos rezervatų apsaugos ir naudoj
 
 
 
-### 1221 straipsnis. Juridinių asmenų atsakomybė už laukinių augalų ar grybų išteklių naudojimą pažeidžiant laukinių augalų ar grybų naudojimą reglamentuojančius teisės aktus
+### 1221 straipsnis. Juridinių asmenų atsakomybė už laukinių augalų ar grybų išteklių naudojimą pažeidžiant laukinių augalų ar grybų naudojimą reglamentuojančius teisės aktus ^s-f9532aa3fba0ece04a24f6a3
 
 
 Laukinių augalų ar grybų, jų dalių žalojimas ar naikinimas arba šių augalų ar grybų, jų dalių rinkimas ar paėmimas iš aplinkos, arba šių augalų ar grybų, jų dalių ar gaminių iš jų įgijimas, laikymas, perdirbimas, gabenimas ar kitoks naudojimas, laukinių augalų ar grybų arba jų augaviečių žalojimas ar naikinimas pažeidžiant laukinių augalų ar grybų naudojimą reglamentuojančius teisės aktus po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
@@ -5551,7 +5556,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1222 straipsnis. Juridinių asmenų atsakomybė už saugomų rūšių naudojimą pažeidžiant saugomų rūšių naudojimą reglamentuojančius teisės aktus, saugomų rūšių apsaugos reikalavimų pažeidimus
+### 1222 straipsnis. Juridinių asmenų atsakomybė už saugomų rūšių naudojimą pažeidžiant saugomų rūšių naudojimą reglamentuojančius teisės aktus, saugomų rūšių apsaugos reikalavimų pažeidimus ^s-2df84da9c6f493c095c95e20
 
 
 Saugomų rūšių augalų ar grybų, jų dalių žalojimas, naikinimas arba šių augalų ar grybų, jų dalių rinkimas, paėmimas iš aplinkos, arba šių augalų ar grybų, jų dalių ar gaminių iš jų įgijimas, laikymas, perdirbimas, gabenimas ar kitoks naudojimas pažeidžiant aplinkos ministro tvirtinamo saugomų rūšių naudojimo tvarkos aprašo ar kitų saugomų augalų rūšių naudojimą reglamentuojančių teisės aktų reikalavimus užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių aštuonių šimtų eurų.
@@ -5640,7 +5645,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1223 straipsnis. Juridinių asmenų atsakomybė už laukinių gyvūnų išteklių naudojimą pažeidžiant laukinių gyvūnų naudojimą reglamentuojančius teisės aktus
+### 1223 straipsnis. Juridinių asmenų atsakomybė už laukinių gyvūnų išteklių naudojimą pažeidžiant laukinių gyvūnų naudojimą reglamentuojančius teisės aktus ^s-32cd2d6ebdc2ee45de7c6372
 
 
 Laukinių gyvūnų gaudymas, žalojimas, naikinimas, trikdymas arba šių gyvūnų ar jų dalių paėmimas iš aplinkos, arba šių gyvūnų, jų dalių ar gaminių iš jų įgijimas, perdirbimas, gabenimas ar kitoks naudojimas pažeidžiant laukinių gyvūnų naudojimą reglamentuojančius teisės aktus užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų.
@@ -5717,7 +5722,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1224 straipsnis. Juridinių asmenų atsakomybė už neteisėtą invazinių rūšių naudojimą ir valdymo priemonių nevykdymą
+### 1224 straipsnis. Juridinių asmenų atsakomybė už neteisėtą invazinių rūšių naudojimą ir valdymo priemonių nevykdymą ^s-91e58d2ef36950c4a134b50e
 
 
 Invazinių rūšių naikinimo, plitimo prevencijos, valdymo priemonių neįgyvendinimas arba įgyvendinimas pažeidžiant invazinių rūšių naudojimą, valdymą, gausos reguliavimą ir plitimo prevenciją reglamentuojančius teisės aktus ar Reglamentą (ES) 1143/2014 po rašytinio įspėjimo, užtraukia baudą nuo dviejų šimtų iki dviejų tūkstančių penkių šimtų eurų.
@@ -5752,7 +5757,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1225 straipsnis. Juridinių asmenų atsakomybė už Lietuvos Respublikos želdynų įstatymo, kitų želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, želdynų projektavimą, želdinių veisimą reglamentuojančių teisės aktų pažeidimą
+### 1225 straipsnis. Juridinių asmenų atsakomybė už Lietuvos Respublikos želdynų įstatymo, kitų želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, želdynų projektavimą, želdinių veisimą reglamentuojančių teisės aktų pažeidimą ^s-f921611751544319854a95e5
 
 
 Neteisėtas krūmų, kurie pagal Želdynų įstatymą priskiriami saugotiniems želdiniams, naikinimas, kai sunaikinami saugotini krūmai, augantys miesto gyvenamojoje vietovėje, užtraukia baudą nuo devynių šimtų iki keturių tūkstančių eurų.
@@ -5799,7 +5804,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1226 straipsnis. Juridinių asmenų atsakomybė už genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimą
+### 1226 straipsnis. Juridinių asmenų atsakomybė už genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimą ^s-e370537b98a388519a47603b
 
 
 Genetiškai modifikuotų organizmų išleidimas į aplinką, genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų įvežimas į Lietuvos Respublikos teritoriją ar vežimas per Lietuvos Respublikos teritoriją, ar išvežimas iš Lietuvos Respublikos pažeidžiant teisės aktuose nustatytus reikalavimus, išskyrus šio straipsnio trečiojoje, ketvirtojoje, penktojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje, tryliktojoje, keturioliktojoje, penkioliktojoje dalyse numatytus nusižengimus, užtraukia baudą nuo vieno tūkstančio penkių šimtų iki septynių tūkstančių penkių šimtų eurų.
@@ -5852,7 +5857,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 1227 straipsnis. Juridinių asmenų atsakomybė už genetiškai modifikuotų organizmų riboto naudojimo veiklos vykdymo sąlygų pažeidimą
+### 1227 straipsnis. Juridinių asmenų atsakomybė už genetiškai modifikuotų organizmų riboto naudojimo veiklos vykdymo sąlygų pažeidimą ^s-b2bec221727b07178da0fb9d
 
 
 Teisės aktuose nustatytų genetiškai modifikuotų mikroorganizmų pirmosios pavojingumo klasės ar genetiškai modifikuotų organizmų, išskyrus mikroorganizmus, pirmojo pavojingumo lygio riboto naudojimo veiklos vykdymo sąlygų pažeidimas užtraukia baudą nuo keturių šimtų penkiasdešimt iki vieno tūkstančio trijų šimtų penkiasdešimt eurų.
@@ -5884,7 +5889,7 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-### 123 straipsnis. Juridinių asmenų atsakomybė už paviršinių vandens telkinių apsaugos reikalavimų pažeidimą
+### 123 straipsnis. Juridinių asmenų atsakomybė už paviršinių vandens telkinių apsaugos reikalavimų pažeidimą ^s-6a012b2c781ddf5539f5b024
 
 
 Paviršinių vandens telkinių apsaugos zonų ir (ar) pakrančių apsaugos juostų apsaugos ir naudojimo reikalavimų pažeidimas užtraukia baudą nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
@@ -5894,7 +5899,7 @@ Paviršinių vandens telkinių apsaugos zonų ir (ar) pakrančių apsaugos juost
 
 
 
-### 1231 straipsnis. Juridinių asmenų atsakomybė už ūkinės ir (ar) kitokios veiklos vykdymą žemės gelmių išteklių telkiniuose, požeminio vandens vandenviečių apsaugos zonose, pažeidžiant šiuose žemės gelmių išteklių telkinių, požeminio vandens vandenviečių apsaugos zonose taikomas specialiąsias žemės naudojimo sąlygas, ar požeminio vandens gavybos gręžinio naudojimą, nenustačius požeminio vandens vandenvietės apsaugos zonos
+### 1231 straipsnis. Juridinių asmenų atsakomybė už ūkinės ir (ar) kitokios veiklos vykdymą žemės gelmių išteklių telkiniuose, požeminio vandens vandenviečių apsaugos zonose, pažeidžiant šiuose žemės gelmių išteklių telkinių, požeminio vandens vandenviečių apsaugos zonose taikomas specialiąsias žemės naudojimo sąlygas, ar požeminio vandens gavybos gręžinio naudojimą, nenustačius požeminio vandens vandenvietės apsaugos zonos ^s-04738a727c44c42bbed1382c
 
 
 Ūkinės ir (ar) kitokios veiklos vykdymas žemės gelmių išteklių telkiniuose pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio eurų.
@@ -5903,7 +5908,7 @@ Paviršinių vandens telkinių apsaugos zonų ir (ar) pakrančių apsaugos juost
 Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių eurų.
 
 
-Prašymo įregistruoti nustatytas Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Nekilnojamojo turto registre per įstatymuose nustatytą terminą nepateikimas, kai šį prašymą turi pateikti asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytos teritorijos, vykdymu, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+Prašymo įregistruoti nustatytas [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme]] nurodytas teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Nekilnojamojo turto registre per įstatymuose nustatytą terminą nepateikimas, kai šį prašymą turi pateikti asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme]] nurodytos teritorijos, vykdymu, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 Ūkinės ir (ar) kitokios veiklos vykdymas požeminio vandens vandenvietės apsaugos zonos 3-iojoje juostoje pažeidžiant taikomas specialiąsias žemės naudojimo sąlygas ar jų nevykdymas užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
@@ -5926,7 +5931,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 124 straipsnis. Juridinių asmenų atsakomybė už paviršinių vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo nustatytų reikalavimų pažeidimą
+### 124 straipsnis. Juridinių asmenų atsakomybė už paviršinių vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo nustatytų reikalavimų pažeidimą ^s-1822d571beb159ff93fde168
 
 
 Paviršinių vandens telkinių naudojimas vandeniui išgauti neturint tam teisės, kai neturint tam teisės išgauta iki 1 000 kubinių metrų vandens, užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
@@ -5958,7 +5963,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 125 straipsnis. Juridinių asmenų atsakomybė už tvenkinio ar patvenkto ežero naudojimo ir priežiūros taisyklių pažeidimą
+### 125 straipsnis. Juridinių asmenų atsakomybė už tvenkinio ar patvenkto ežero naudojimo ir priežiūros taisyklių pažeidimą ^s-2d14fe482a01f01cbab593d8
 
 
 Tvenkinio ar patvenkto ežero naudojimą ir priežiūrą reglamentuojančių teisės aktų pažeidimas užtraukia baudą nuo keturių šimtų penkiasdešimt iki devynių šimtų eurų.
@@ -5981,7 +5986,7 @@ Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 
 
 
-### 1251 straipsnis. Juridinių asmenų atsakomybė už aplinkosauginių reikalavimų paviršinių vandens telkinių dugno valymo ir gilinimo darbams vykdyti vidaus vandenų keliuose, uostuose ir prieplaukose pažeidimus
+### 1251 straipsnis. Juridinių asmenų atsakomybė už aplinkosauginių reikalavimų paviršinių vandens telkinių dugno valymo ir gilinimo darbams vykdyti vidaus vandenų keliuose, uostuose ir prieplaukose pažeidimus ^s-af144d31558eb417bf7dd205
 
 
 Aplinkosauginių reikalavimų paviršinių vandens telkinių dugno valymo ir gilinimo darbams vykdyti vidaus vandenų keliuose, uostuose ir prieplaukose pažeidimai užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
@@ -5990,7 +5995,7 @@ Aplinkosauginių reikalavimų paviršinių vandens telkinių dugno valymo ir gil
 Šio straipsnio pirmojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki penkiolikos tūkstančių eurų.
 
 
-Valymo ir (ar) gilinimo darbų vykdymas vidaus vandenų keliuose, uostuose ir prieplaukose neatlikus planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ir (ar) poveikio aplinkai vertinimo procedūrų, kai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas tokios procedūros yra privalomos, užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
+Valymo ir (ar) gilinimo darbų vykdymas vidaus vandenų keliuose, uostuose ir prieplaukose neatlikus planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ir (ar) poveikio aplinkai vertinimo procedūrų, kai pagal [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]] nuostatas tokios procedūros yra privalomos, užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
 
 
 Šio straipsnio trečiojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo septynių tūkstančių iki dešimt tūkstančių eurų.
@@ -6001,7 +6006,7 @@ Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-### 126 straipsnis. Juridinių asmenų atsakomybė už privalomojo nurodymo neįvykdymą
+### 126 straipsnis. Juridinių asmenų atsakomybė už privalomojo nurodymo neįvykdymą ^s-c1fe504ff7f65a4b3f0bd932
 
 
 Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas iškilus grėsmei, kad bus padarytas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimas, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas, kai dėl padaryto teisės aktų pažeidimo gali kilti žala aplinkai ir siekiama tokio pažeidimo ir (arba) žalos aplinkai išvengti ar ją sumažinti, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
@@ -6027,7 +6032,7 @@ Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 
 
-### 127 straipsnis. Juridinių asmenų atsakomybė už neteisėtai atnaujintą įrenginio ar jo dalies eksploatavimą ar kitą veiklą, sustabdytą pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą
+### 127 straipsnis. Juridinių asmenų atsakomybė už neteisėtai atnaujintą įrenginio ar jo dalies eksploatavimą ar kitą veiklą, sustabdytą pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą ^s-5d5557370bc5d001a54fd5ed
 
 
 Įrenginio ar jo dalies eksploatavimo ar kitos veiklos (išskyrus atvejus, nurodytus šio straipsnio trečiojoje dalyje), sustabdytų pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą, neteisėtas atnaujinimas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
@@ -6044,7 +6049,7 @@ Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 
 
-### 128 straipsnis. Juridinių asmenų atsakomybė už užstato taikymo ir užstato sistemos organizavimo reikalavimų pažeidimą
+### 128 straipsnis. Juridinių asmenų atsakomybė už užstato taikymo ir užstato sistemos organizavimo reikalavimų pažeidimą ^s-7aa6495635b106f3ff9b8101
 
 
 Pareigos dalyvauti užstato už vienkartines pakuotes sistemoje, kai asmuo Lietuvos Respublikos vidaus rinkai tiekia gaminius, supakuotus į vienkartinę pakuotę, už kurią pagal Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymą nustatytas užstatas, nevykdymas užtraukia baudą gamintojui ir (ar) importuotojui nuo septynių tūkstančių iki keturiolikos tūkstančių eurų.
@@ -6074,7 +6079,7 @@ Užstato už vienkartines pakuotes sistemos organizavimo plane, užstato už vie
 Šio straipsnio 6 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių penkių šimtų eurų.
 
 
-### 1281 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimą Lietuvos Respublikos rinkai
+### 1281 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimą Lietuvos Respublikos rinkai ^s-0ad85efad4cc1dcb943b47d2
 
 
 Pagal nustatytus reikalavimus nepaženklintų vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, gėrimų indelių) pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
@@ -6099,7 +6104,7 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-### 129 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas aplinkos apsaugos  klausimais
+### 129 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas aplinkos apsaugos  klausimais ^s-b9f85996019f4083379b11f0
 Straipsnio numeracijos pakeitimas:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
@@ -6111,28 +6116,28 @@ Lietuvos Respublika, vadovaudamasi visuotinai pripažintais ir skelbiamais tarpt
 Bendradarbiaudama su kitomis valstybėmis aplinkos apsaugos klausimais, Lietuvos Respublika:
 
 
-1) siekia regioninio ir visuotinio ekologinio saugumo; ^e8b3e7955e55b4ea420f22e9
+1) siekia regioninio ir visuotinio ekologinio saugumo; ^s-e5f4531e91ee1d9873643763
 
 
-2) sprendžia regionines bei globalines aplinkos apsaugos problemas; ^798e6588ee679c96484d1c9d
+2) sprendžia regionines bei globalines aplinkos apsaugos problemas; ^s-266f3a2d6e59811e724ece65
 
 
-3) teikia suinteresuotoms šalims objektyvią informaciją apie ekologinę situaciją Lietuvoje; ^b9af38d380ae0930ee9bafba
+3) teikia suinteresuotoms šalims objektyvią informaciją apie ekologinę situaciją Lietuvoje; ^s-7388464e3ef84d95a9eb12c1
 
 
-4) tvarko ir reguliuoja bendrus gamtos išteklių klausimus; ^98c99d72ee88b10a75c9214e
+4) tvarko ir reguliuoja bendrus gamtos išteklių klausimus; ^s-e22e092fcf2fc685c65cfc3a
 
 
-5) prisideda likviduojant neigiamus ekologinių nelaimių bei avarijų padarinius; ^b73cbf82f7c45839f1e32c1a
+5) prisideda likviduojant neigiamus ekologinių nelaimių bei avarijų padarinius; ^s-acd4d5e610528ce0a62ba438
 
 
-6) plėtoja mokslo ir techninius ryšius; ^763eccc524c6368a682467c7
+6) plėtoja mokslo ir techninius ryšius; ^s-cd53fd11258b2c9356447b0d
 
 
-7) vykdo kitus tarptautinius įsipareigojimus aplinkos apsaugos klausimais. ^09f6b8cc99b0554f90b4c587
+7) vykdo kitus tarptautinius įsipareigojimus aplinkos apsaugos klausimais. ^s-78e4db3a954ad230bc5e8d25
 
 
-### 130 straipsnis. Lietuvos Respublikos aplinkos apsaugos įstatymų santykis su tarptautinėmis aplinkos apsaugos sutartimis
+### 130 straipsnis. Lietuvos Respublikos aplinkos apsaugos įstatymų santykis su tarptautinėmis aplinkos apsaugos sutartimis ^s-c80b716970e95b76d3d552c7
 Straipsnio numeracijos pakeitimas:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
@@ -6166,91 +6171,91 @@ priedas
 
 
 
-1. 1996 m. gruodžio 9 d. Tarybos reglamentas (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą. ^ceb0c6c352c6b59fe8ceca71
+1. 1996 m. gruodžio 9 d. Tarybos reglamentas (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą. ^s-c9660681d9276f2d28f55a5c
 Papildyta punktu:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-2. 2001 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir programų pasekmių aplinkai vertinimo. ^0b831a672bd174ed2b22d414
+2. 2001 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir programų pasekmių aplinkai vertinimo. ^s-2ecf34db8634c25691993f04
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-3. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010. ^8d8f1ab23ebba5101e7f4f4c
+3. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010. ^s-6f1a4704a24a66a8ef3cfdb9
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-4. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. ^8d5a6c784d5d76143ba97a9b
+4. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. ^s-90beff1d4ecb639a6a99a9db
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-5. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 13 d. Komisijos reglamentu (ES) 2021/2024. ^e4d3e12231d0b5fdf265f46e
+5. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 13 d. Komisijos reglamentu (ES) 2021/2024. ^s-8665b8025dd9da148241cfc9
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-6. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006, su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 12 d. Komisijos deleguotuoju reglamentu (ES) 2021/1962. ^daa18af1163028ef7d76b258
+6. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006, su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 12 d. Komisijos deleguotuoju reglamentu (ES) 2021/1962. ^s-01ba8b4206333d88decc6123
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-61. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 995/2010, kuriuo nustatomos veiklos vykdytojų, pateikiančių rinkai medieną ir medienos produktus, pareigos. ^785baf4b7cf9bf3d44797bf8
+61. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 995/2010, kuriuo nustatomos veiklos vykdytojų, pateikiančių rinkai medieną ir medienos produktus, pareigos. ^s-f020b9a9c6ffc4da38912a3e
 Papildyta punktu:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-7. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (nauja redakcija). ^8524a58cf89fb143db884a06
+7. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (nauja redakcija). ^s-d7e5e52e34a882e281a0b234
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-8. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (kodifikuota redakcija) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES. ^ee753477986ae41f129eca6a
+8. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (kodifikuota redakcija) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES. ^s-74e2aa9f6a2ebf4964c6155b
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-9. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (nauja redakcija) su paskutiniais pakeitimais, padarytais 2020 m. gegužės 15 d. Komisijos deleguotuoju reglamentu (ES) 2020/1068. ^c78b09d4b0d02313aca8e902
+9. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (nauja redakcija) su paskutiniais pakeitimais, padarytais 2020 m. gegužės 15 d. Komisijos deleguotuoju reglamentu (ES) 2020/1068. ^s-a15dd770d2fc4f08b883d721
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-10. 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2013 dėl laivų perdirbimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 1013/2006 ir Direktyva 2009/16/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos sprendimu (ES) 2018/853. ^2ca9827e03f01fbd0c2a9512
+10. 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2013 dėl laivų perdirbimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 1013/2006 ir Direktyva 2009/16/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos sprendimu (ES) 2018/853. ^s-9c927258f20d88e300c5c1b7
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-101. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo. ^584548d9ac61584598396b20
+101. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo. ^s-8404f27040b996d78617c366
 Papildyta punktu:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-11. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2193 dėl tam tikrų teršalų, išmetamų į orą iš vidutinio dydžio kurą deginančių įrenginių, kiekio apribojimo. ^9ef5e3f785d72ca092c832f0
+11. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2193 dėl tam tikrų teršalų, išmetamų į orą iš vidutinio dydžio kurą deginančių įrenginių, kiekio apribojimo. ^s-52b785c879bf2242fb2c7d7c
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-12. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse (kodifikuota redakcija). ^e315be896c55c523452bff65
+12. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse (kodifikuota redakcija). ^s-73ac031bb5da9baa336ed631
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-13. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1849. ^53a10bdf7d374f5ef2dcf867
+13. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1849. ^s-9f91e46d888afa13b442dc07
 Punkto pakeitimai:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 Punkto numeracijos pakeitimas:
@@ -6258,73 +6263,73 @@ Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-14. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. ^d8803706dfc2351cea24dbef
+14. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. ^s-e95fc505cabae7385c00879f
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-15. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (nauja redakcija) su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Komisijos deleguotuoju reglamentu (ES) 2021/277. ^fd867183c81ff6d98c5bcab9
+15. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (nauja redakcija) su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Komisijos deleguotuoju reglamentu (ES) 2021/277. ^s-27d5c0c1371cbb85fba81ec0
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-16. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. ^da2416b1b60a34c69fde92ce
+16. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. ^s-a6bb8e0da3ab86e756ac36bd
 Punkto numeracijos pakeitimas:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-161. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/956, kuriuo nustatomas pasienio anglies dioksido korekcinis mechanizmas. ^d95024441c2cc33ab93eac8b
+161. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/956, kuriuo nustatomas pasienio anglies dioksido korekcinis mechanizmas. ^s-17e759a00823a9a9f7b4b8e9
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-162. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2023/1115 dėl tam tikrų su miškų naikinimu ir alinimu siejamų biržos prekių ir produktų tiekimo Sąjungos rinkai ir jų eksporto iš Sąjungos, kuriuo panaikinimas Reglamentas (ES) Nr. 995/2010, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3234. ^b3b427cbe90059e5cde795cf
+162. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2023/1115 dėl tam tikrų su miškų naikinimu ir alinimu siejamų biržos prekių ir produktų tiekimo Sąjungos rinkai ir jų eksporto iš Sąjungos, kuriuo panaikinimas Reglamentas (ES) Nr. 995/2010, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3234. ^s-f132a486c21239d06df86892
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-163. 2023 m. rugpjūčio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2023/1773, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2023/956 taikymo taisyklės, pagal kurias pereinamuoju laikotarpiu vykdoma pareiga teikti pasienio anglies dioksido korekcinio mechanizmo ataskaitas.“ ^2d6e54e3096be9be07ea277b
+163. 2023 m. rugpjūčio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2023/1773, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2023/956 taikymo taisyklės, pagal kurias pereinamuoju laikotarpiu vykdoma pareiga teikti pasienio anglies dioksido korekcinio mechanizmo ataskaitas.“ ^s-06cd0fcb58038425d77d0d08
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-164. 2023 m. rugsėjo 13 d.  Europos Parlamento ir Tarybos reglamentas (ES) 2023/1805 dėl atsinaujinančiųjų energijos išteklių ir mažo anglies dioksido pėdsako kuro naudojimo jūrų transporto sektoriuje, kuriuo iš dalies keičiama Direktyva 2009/16/EB. ^0d0c86cc7f2aff12ad6ae467
+164. 2023 m. rugsėjo 13 d.  Europos Parlamento ir Tarybos reglamentas (ES) 2023/1805 dėl atsinaujinančiųjų energijos išteklių ir mažo anglies dioksido pėdsako kuro naudojimo jūrų transporto sektoriuje, kuriuo iš dalies keičiama Direktyva 2009/16/EB. ^s-88725dffa04733d8ac81ddf7
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-17. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014. ^41b6d4a98f0f4dfc37c3f02a
+17. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014. ^s-16dafccbda96eb3e48e99214
 Papildyta punktu:
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 
 
 
-18. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009. ^90b58b521e5a3dab0cb093df
+18. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009. ^s-fe3804f290e13397b81fba38
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-181. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1157 dėl atliekų vežimo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1257/2013 ir (ES) 2020/1056 ir panaikinamas Reglamentas (EB) Nr. 1013/2006. ^f112c4dcfa831686a0181732
+181. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1157 dėl atliekų vežimo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1257/2013 ir (ES) 2020/1056 ir panaikinamas Reglamentas (EB) Nr. 1013/2006. ^s-80fb0e213e39515a02b9a441
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-182. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1203 dėl aplinkos apsaugos baudžiamosios teisės priemonėmis, kuria pakeičiamos direktyvos 2008/99/EB ir 2009/123/EB. ^34a662c1b7a6bd3154f0cd19
+182. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1203 dėl aplinkos apsaugos baudžiamosios teisės priemonėmis, kuria pakeičiamos direktyvos 2008/99/EB ir 2009/123/EB. ^s-0bd09ea2139cfd4ff0c0c489
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
 
 
-19. 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2024/3234,  kuriuo iš dalies keičiamas Reglamentas (ES) 2023/1115, kiek tai susiję su nuostatomis dėl taikymo pradžios datos. ^6d8ac08ce412abde2e3f355a
+19. 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2024/3234,  kuriuo iš dalies keičiamas Reglamentas (ES) 2023/1115, kiek tai susiję su nuostatomis dėl taikymo pradžios datos. ^s-8adfa0eec34fc6a3ad8f1e18
 Papildyta straipsnio dalimi:
 Nr. XV-731, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23025
 
@@ -6347,51 +6352,51 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.A497A19DF124|LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-310, 97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
-LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMO [[#24 straipsnis. Neteko galios nuo 2005 m. balandžio 12 d.|24 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+[[latest/TAR.FEB34C56FC81|LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
-APLINKOS APSAUGOS ĮSTATYMO 1, 7, 8, 15, 16, [[#26 straipsnis. Neigiamo poveikio aplinkai ribojimo sistema|26 STRAIPSNIŲ]] PAKEITIMO IR [[#27 straipsnis. Planų ir programų rengimas, jų strateginis pasekmių aplinkai vertinimas|27 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+[[latest/TAR.DA03EC25C86C|APLINKOS APSAUGOS ĮSTATYMO 1, 7, 8, 15, 16, 26 STRAIPSNIŲ PAKEITIMO IR 27 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2026, 00.10.12, Žin., 2000, Nr.90-2773 (00.10.27)
-APLINKOS APSAUGOS ĮSTATYMO [[#30 straipsnis. Aplinkos apsaugos priemonių valstybinis finansavimas|30 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+[[latest/TAR.92012CDDC386|APLINKOS APSAUGOS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-677, 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
-APLINKOS APSAUGOS ĮSTATYMO 1, 4, 6, 7, 8, 9, [[#23 straipsnis. Atliekų tvarkymas|23 STRAIPSNIŲ]], II SKYRIAUS PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 22(1) STRAIPSNIU ĮSTATYMAS
+[[latest/TAR.3D555BF4BF16|APLINKOS APSAUGOS ĮSTATYMO 1, 4, 6, 7, 8, 9, 23 STRAIPSNIŲ, II SKYRIAUS PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 22(1) STRAIPSNIU ĮSTATYMAS]]
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1610, 2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
-APLINKOS APSAUGOS ĮSTATYMO 6 IR [[#30 straipsnis. Aplinkos apsaugos priemonių valstybinis finansavimas|30 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+[[latest/TAR.F6BF0759BD62|APLINKOS APSAUGOS ĮSTATYMO 6 IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2032, 2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
-APLINKOS APSAUGOS ĮSTATYMO 1 IR [[#2 straipsnis. Įstatymo paskirtis|2 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO [[#27 straipsnis. Planų ir programų rengimas, jų strateginis pasekmių aplinkai vertinimas|27 STRAIPSNIU]] IR PRIEDU ĮSTATYMAS
+[[latest/TAR.0311855FCC59|APLINKOS APSAUGOS ĮSTATYMO 1 IR 2 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 27 STRAIPSNIU IR PRIEDU ĮSTATYMAS]]
 Įstatymas įsigalioja nuo 2004 m. liepos 21 d.
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
-APLINKOS APSAUGOS ĮSTATYMO 6, 18, 19, 20, 22, 24, 25, 31, [[#33 straipsnis. Ieškiniai dėl žalos atlyginimo|33 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+[[latest/TAR.84CF9F27446F|APLINKOS APSAUGOS ĮSTATYMO 6, 18, 19, 20, 22, 24, 25, 31, 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
-APLINKOS APSAUGOS ĮSTATYMO 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, [[#34 straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo ir sprendimų priėmimo tvarka|34 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO, [[#24 straipsnis. Neteko galios nuo 2005 m. balandžio 12 d.|24 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 32(1), 32(2) STRAIPSNIAIS ĮSTATYMAS
+[[latest/TAR.247DAE8A3F57|APLINKOS APSAUGOS ĮSTATYMO 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO, 24 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 32(1), 32(2) STRAIPSNIAIS ĮSTATYMAS]]
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6401,25 +6406,25 @@ APLINKOS APSAUGOS ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMAS
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-783, 2010-04-27, Žin., 2010, Nr. 54-2646 (2010-05-11)
-APLINKOS APSAUGOS ĮSTATYMO [[#6 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema|6 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+[[latest/TAR.4F29E5CD3B53|APLINKOS APSAUGOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
 Įstatymas įsigalioja 2010 m. liepos 1 d.
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
-APLINKOS APSAUGOS ĮSTATYMO 1, 7, 8, [[#9 straipsnis. Piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pareigos|9 STRAIPSNIŲ]], II SKYRIAUS PAVADINIMO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.F0BA557D67F1|APLINKOS APSAUGOS ĮSTATYMO 1, 7, 8, 9 STRAIPSNIŲ, II SKYRIAUS PAVADINIMO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1538, 2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
-APLINKOS APSAUGOS ĮSTATYMO 6 IR [[#21 straipsnis. Radioaktyviųjų medžiagų gamyba ir naudojimas|21 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+[[latest/TAR.650FC8F9D00C|APLINKOS APSAUGOS ĮSTATYMO 6 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2011 m. spalio 1 d.
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
-APLINKOS APSAUGOS ĮSTATYMO 1, [[#15 straipsnis. Ūkinės veiklos, galinčios daryti poveikį aplinkai, planavimas ir leidimų išdavimas|15 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 19(1), 19(2) STRAIPSNIAIS ĮSTATYMAS
-Šis įstatymas, išskyrus [[#6 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema|6 straipsnį]], įsigalioja 2013 m. birželio 1 d.
+[[#^s-b5f68c6ece71aefe57297ce9|APLINKOS APSAUGOS ĮSTATYMO 1, 15 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 19(1), 19(2) STRAIPSNIAIS ĮSTATYMAS
+Šis įstatymas, išskyrus [[#^s-b807f8a0b4082936bffdfb64|6 straipsnį]], įsigalioja 2013 m. birželio 1 d.
 
 
 
@@ -6434,37 +6439,37 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 19-1 straipsnio pake
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 31, [[#34 straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo ir sprendimų priėmimo tvarka|34 straipsnių]] ir VII skyriaus pavadinimo pakeitimo, Įstatymo papildymo 23-1, 23-2, 23-3, 23-4 straipsniais ir nauju VIII skyriumi įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 31, [[#^s-717c09d07221cac070599079|34 straipsnių]] ir VII skyriaus pavadinimo pakeitimo, Įstatymo papildymo 23-1, 23-2, 23-3, 23-4 straipsniais ir nauju VIII skyriumi įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 32, 32-1, 32-2, 33, [[#34 straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo ir sprendimų priėmimo tvarka|34 straipsnių]] pakeitimo ir Įstatymo papildymo 32-3 straipsniu įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 32, 32-1, 32-2, 33, [[#^s-717c09d07221cac070599079|34 straipsnių]] pakeitimo ir Įstatymo papildymo 32-3 straipsniu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 7, 8, [[#15 straipsnis. Ūkinės veiklos, galinčios daryti poveikį aplinkai, planavimas ir leidimų išdavimas|15 straipsnių]] ir priedo pakeitimo ir 16, 17, [[#18 straipsnis. Neteko galios nuo 2017-11-01|18 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 7, 8, [[#^s-b5f68c6ece71aefe57297ce9|15 straipsnių]] ir priedo pakeitimo ir 16, 17, [[#^s-b6329b3d3dd6fe296ee27867|18 straipsnių]] pripažinimo netekusiais galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 32 ir [[#33 straipsnis. Ieškiniai dėl žalos atlyginimo|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 32 ir [[#^s-1338ceb0cb8da6b8fc33e758|33 straipsnių]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 19, 19-1, 19-2, [[#55 straipsnis. Juridinių asmenų atsakomybė už ūkinės veiklos vykdymą, ūkinės veiklos objektų ar įrenginių eksploatavimą pažeidžiant šio įstatymo 15, 151, 19, 191, 192 ir 193 straipsnių reikalavimus|55 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 19-3 straipsniu įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 19, 19-1, 19-2, [[#^s-b9aeaea636331003ca19243d|55 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 19-3 straipsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#37 straipsnis. Pareigūnai, turintys teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir nagrinėti bylas dėl ekonominių sankcijų skyrimo|37 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-bf5fed92eb2d683957860b39|37 straipsnio]] pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 109-1 straipsniu įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, [[#^s-dfda5a9eb158867ad0979606|109 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 109-1 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6479,12 +6484,12 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 87-1 ir 10
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 20, 37, [[#109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą|109 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 20, 37, [[#^s-dfda5a9eb158867ad0979606|109 straipsnių]] ir priedo pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, [[#127 straipsnis. Juridinių asmenų atsakomybė už neteisėtai atnaujintą įrenginio ar jo dalies eksploatavimą ar kitą veiklą, sustabdytą pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą|127 straipsnių]] pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, [[#^s-5d5557370bc5d001a54fd5ed|127 straipsnių]] pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6494,47 +6499,47 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 23-4 straipsnio prip
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, [[#125 straipsnis. Juridinių asmenų atsakomybė už tvenkinio ar patvenkto ežero naudojimo ir priežiūros taisyklių pažeidimą|125 straipsnių]] pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 5 ir [[#6 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 5 ir [[#^s-b807f8a0b4082936bffdfb64|6 straipsnių]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 25, 26 ir [[#57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą|57 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 25, 26 ir [[#^s-4016f37f4b259e4fbfc3147e|57 straipsnių]] pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3263, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15887
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#1 straipsnis. Pagrindinės sąvokos|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-286053e18d954a5ce2bd233b|1 straipsnio]] pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 12, 31, 33, 37 ir [[#41 straipsnis. Neteisėtai pastatytų, laikomų ar naudojamų apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 12, 31, 33, 37 ir [[#^s-ba43c203615ebbfbc0bb4ee2|41 straipsnių]] pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-333, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12771
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#37 straipsnis. Pareigūnai, turintys teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir nagrinėti bylas dėl ekonominių sankcijų skyrimo|37 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-bf5fed92eb2d683957860b39|37 straipsnio]] pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-227, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07421
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, [[#127 straipsnis. Juridinių asmenų atsakomybė už neteisėtai atnaujintą įrenginio ar jo dalies eksploatavimą ar kitą veiklą, sustabdytą pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą|127 straipsnių]] pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymo Nr. XIII-2795 [[#10 straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės teisės ir pareigos|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, [[#^s-5d5557370bc5d001a54fd5ed|127 straipsnių]] pakeitimo ir Įstatymo papildymo 55-1 straipsniu [[latest/6433d190498f11ea8aceeadd0c5b168c|įstatymo Nr. XIII-2795]] [[#^s-5dc138aa20c41626339dd9f0|10 straipsnio]] pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-200, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07417
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#6 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema|6 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-b807f8a0b4082936bffdfb64|6 straipsnio]] pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 36, 37, [[#47 straipsnis. Rašytinis įspėjimas|47 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 94-1, 95-1, 100-1, 102-1, 108-2, 128-1 straipsniais įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 36, 37, [[#^s-eabae6cbe7050ceb61adceaf|47 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 94-1, 95-1, 100-1, 102-1, 108-2, 128-1 straipsniais įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6544,17 +6549,17 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 85-1 strai
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 19-3, 37, 47, 55, 56, 81, [[#89 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų perdavimą asmeniui, kuris neturi teisės tvarkyti šias atliekas, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nesudaryta rašytinė sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinėje sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo nurodytas mažesnis atliekų kiekis už perduotų atliekų kiekį|89 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 20-1, 58-1 straipsniais įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 19-3, 37, 47, 55, 56, 81, [[#^s-c30fa53cac367fc731b924a9|89 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 20-1, 58-1 straipsniais įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1267, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14923
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#25 straipsnis. Gamtinės aplinkos stebėjimas|25 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-1cb7db5e93ed0da392cbc69b|25 straipsnio]] pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#1 straipsnis. Pagrindinės sąvokos|1 straipsnio]] pakeitimo, Įstatymo papildymo 19-4 straipsniu ir 19-4 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-286053e18d954a5ce2bd233b|1 straipsnio]] pakeitimo, Įstatymo papildymo 19-4 straipsniu ir 19-4 straipsnio pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6574,27 +6579,27 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 8, 15, 19, 19-1, 19-
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2220, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22366
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, 72, 73, 90 ir [[#91 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų išmetimą į aplinką|91 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, 72, 73, 90 ir [[#^s-ad744f9840ea561df39af550|91 straipsnių]] pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2351, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25322
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 12, [[#122 straipsnis. Juridinių asmenų atsakomybė už saugomų teritorijų apsaugos ir naudojimo reikalavimų pažeidimą|122 straipsnių]] pakeitimo ir Įstatymo papildymo 12-1, 12-2, 12-3, 12-4, 12-5 straipsniais įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 12, 122 straipsnių pakeitimo ir Įstatymo papildymo 12-1, 12-2, 12-3, 12-4, 12-5 straipsniais įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 37, 47, 51, 57, 72, 73, 78, 79, 90, 91, 114, 116, 117, [[#118 straipsnis. Juridinių asmenų atsakomybė už savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ištraukimą arba išvežimą be leidimo|118 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 40-1, 53-1, 53-2, 53-3, 95-2, 110-1, 118-1, 122-1, 122-2, 122-3, 122-4, 122-5, 122-6, 122-7 straipsniais įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 37, 47, 51, 57, 72, 73, 78, 79, 90, 91, 114, 116, 117, [[#^s-ff14f49510b32ff59db9ae03|118 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 40-1, 53-1, 53-2, 53-3, 95-2, 110-1, 118-1, 122-1, 122-2, 122-3, 122-4, 122-5, 122-6, 122-7 straipsniais įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2660, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09701
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 8, 19-4, 31 ir [[#33 straipsnis. Ieškiniai dėl žalos atlyginimo|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 8, 19-4, 31 ir [[#^s-1338ceb0cb8da6b8fc33e758|33 straipsnių]] pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#47 straipsnis. Rašytinis įspėjimas|47 straipsnio]] pakeitimo ir Įstatymo papildymo 93-1 straipsniu įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 [[#^s-eabae6cbe7050ceb61adceaf|47 straipsnio]] pakeitimo ir Įstatymo papildymo 93-1 straipsniu įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6604,12 +6609,12 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 108-3 ir 1
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-257, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11024
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 55, [[#56 straipsnis. Juridinių asmenų atsakomybė už neteisingos informacijos pateikimą poveikio aplinkai vertinimo proceso metu|56 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 55, [[#^s-ad18c12f0ba6095aaf8f303f|56 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-447, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16800
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 47, 84, 85, 94, 95, 98, 99, 100, 101, 102, 105 ir [[#107 straipsnis. Juridinių asmenų atsakomybė už pakuočių apskaitos tvarkymo, pakuočių apskaitos ataskaitos teikimo ir mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos teikimo reikalavimų nevykdymą|107 straipsnių]] pakeitimo ir Įstatymo papildymo 102-2 ir 102-3 straipsniais įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 47, 84, 85, 94, 95, 98, 99, 100, 101, 102, 105 ir [[#^s-481704109162e6997588ef9b|107 straipsnių]] pakeitimo ir Įstatymo papildymo 102-2 ir 102-3 straipsniais įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6619,7 +6624,7 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 37, 40-1, 47, 51,
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-917, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08250
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 43, 50 ir [[#53 straipsnis. Nutarimo skirti ekonominę sankciją vykdymas|53 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 43, 50 ir [[#^s-8d7035a3317bcc29457754a5|53 straipsnių]] pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas

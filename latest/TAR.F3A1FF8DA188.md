@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F3A1FF8DA188"
 pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos diplomatinės tarnybos įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "diplomatinės tarnybos įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-01"
 latest_path: "latest/TAR.F3A1FF8DA188.md"
 latest_sha256: "227db4ba5bc602b1a66f5ec5a1f350afd70e606fd8ee43c33cc6159c87d74b47"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F3A1FF8DA188]]"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F3A1FF8DA188.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F3A1FF8DA188
+- Ryšiai: [[Ryšiai/TAR.F3A1FF8DA188|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-6af4aeb2cdb448cf731193d3
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-30c45882030f684eecdfb421
 
 
 Šis įstatymas įsigalioja 2009 m. liepos 1 d.

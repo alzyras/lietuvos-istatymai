@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8A32707BFE14"
 pavadinimas: "Dėl Lietuvos Respublikos krašto apsaugos tarnybos įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos krašto apsaugos tarnybos įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-12-20"
 latest_path: "latest/TAR.8A32707BFE14.md"
 latest_sha256: "b690980696565e74abedb2df80e38fe70bb3ec180526b30332c1e08bc6898cd3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8A32707BFE14]]"
 ---
 # Dėl Lietuvos Respublikos krašto apsaugos tarnybos įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8A32707BFE14.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8A32707BFE14
+- Ryšiai: [[Ryšiai/TAR.8A32707BFE14|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

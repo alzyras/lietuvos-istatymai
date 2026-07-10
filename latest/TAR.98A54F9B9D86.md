@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.98A54F9B9D86"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo\" pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo\" pakeitimo įstatymas"
+  - "įstatymo \"Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo\" pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-02-11"
 latest_path: "latest/TAR.98A54F9B9D86.md"
 latest_sha256: "303dc25a8c85f6e9c146a8ff1ead812e90780b15d0560f20ca1b9a44a814775b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.98A54F9B9D86]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos, jos ketvirtojo, septintojo ir vienuoliktojo protokolų ratifikavimo" pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.98A54F9B9D86.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.98A54F9B9D86
+- Ryšiai: [[Ryšiai/TAR.98A54F9B9D86|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 2 straipsnio 2 punkto pripažinimas netekusiu galios ^s-9efbfac4fccd73451c97aa11
 
 
 2 straipsnio 2 punktą pripažinti netekusiu galios.

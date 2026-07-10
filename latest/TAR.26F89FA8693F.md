@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.26F89FA8693F"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 18 ir 24 skyrių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 18 ir 24 skyrių pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 7, 18 ir 24 skyrių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-08-08"
 latest_path: "latest/TAR.26F89FA8693F.md"
 latest_sha256: "063c16748adf4462dc348a74116797538744c357bc63216dd827b79329da6b4e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.26F89FA8693F]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 18 ir 24 skyrių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.26F89FA8693F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.26F89FA8693F
+- Ryšiai: [[Ryšiai/TAR.26F89FA8693F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio 7 skyriaus antrojo skirsnio 3 dalies pakeitimas
+### 1 straipsnis. Įstatymo priedėlio 7 skyriaus antrojo skirsnio 3 dalies pakeitimas ^s-74a67f837b92a05b6b1d6493
 
 
 Pakeisti 7 skyriaus antrojo skirsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 7 skyriaus antrojo skirsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo priedėlio 18 skyriaus 5 dalies pakeitimas
+### 2 straipsnis. Įstatymo priedėlio 18 skyriaus 5 dalies pakeitimas ^s-507fc69237c490be529d4fe9
 
 
 Pakeisti 18 skyriaus 5 dalies penktąją pastraipą ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 18 skyriaus 5 dalies penktąją pastraipą ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo priedėlio 24 skyriaus pakeitimas
+### 3 straipsnis. Įstatymo priedėlio 24 skyriaus pakeitimas ^s-32689be876bf11202bafd28c
 
 
 Pakeisti 24 skyrių ir jį išdėstyti taip:
@@ -67,10 +72,10 @@ Lietuvos šaulių sąjunga yra valstybės remiama ir jai padedanti savanoriška 
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-87872d383c7b5220cb6c4d51
 
 
-Šio įstatymo 1 ir [[#3 straipsnis. Įstatymo priedėlio 24 skyriaus pakeitimas|3 straipsniai]] įsigalioja 2010 m. sausio 1 d.
+Šio įstatymo 1 ir [[#^s-32689be876bf11202bafd28c|3 straipsniai]] įsigalioja 2010 m. sausio 1 d.
 
 
 

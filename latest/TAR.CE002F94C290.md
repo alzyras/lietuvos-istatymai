@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CE002F94C290"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-06"
 latest_path: "latest/TAR.CE002F94C290.md"
 latest_sha256: "628f936e21cabbce3fea3cf89f45269821dae680c41ca6ca5b96730c82a7937a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CE002F94C290]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CE002F94C290.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CE002F94C290
+- Ryšiai: [[Ryšiai/TAR.CE002F94C290|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 2 dalies papildymas
+### 1 straipsnis. 21 straipsnio 2 dalies papildymas ^s-7fde73371516a60ab0ff6a86
 
 
 Papildyti 21 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 21 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-58889cd7e2f92feb5480aab2
 
 
 Šio Įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant pajamas už 2003 ir vėlesnius metus.

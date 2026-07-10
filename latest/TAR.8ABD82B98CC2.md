@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8ABD82B98CC2"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 26, 43, 46 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 49-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 26, 43, 46 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 49-1 straipsniu įstatymas"
+  - "notariato įstatymo 26, 43, 46 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 49-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.8ABD82B98CC2.md"
 latest_sha256: "769f45ab56c63e86d6a235d253e0559c05fa83e6ada78eb74e93b28383090fae"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8ABD82B98CC2]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 26, 43, 46 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 49-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8ABD82B98CC2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8ABD82B98CC2
+- Ryšiai: [[Ryšiai/TAR.8ABD82B98CC2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 1 dalies pakeitimas ir papildymas
+### 1 straipsnis. 26 straipsnio 1 dalies pakeitimas ir papildymas ^s-8ee10d987da0c6302e045e4c
 
 
 Pakeisti ir papildyti 26 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -44,62 +49,62 @@ Pakeisti ir papildyti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 „Notarai atlieka šiuos notarinius veiksmus:
 
 
-1) tvirtina sandorius; ^834574c27da5d985dadd149d
+1) tvirtina sandorius; ^s-5811f6709ca0ee6acdc5fa67
 
 
-2) išduoda paveldėjimo teisės liudijimus; ^a258d916904a74a0eab72c57
+2) išduoda paveldėjimo teisės liudijimus; ^s-06fddcb40dfd6e2ce6f4c055
 
 
-3) išduoda nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus; ^bc2dbb090108fcd53e6a0e0d
+3) išduoda nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus; ^s-1089217c0ecdf4777bb4db99
 
 
-4) liudija dokumentų nuorašų ir jų išrašų tikrumą; ^401b82dc2b85f509a3024052
+4) liudija dokumentų nuorašų ir jų išrašų tikrumą; ^s-53197e327d6d1c32714200fc
 
 
-5) liudija parašo dokumentuose tikrumą; ^8bd6723511a80e2ae88514fb
+5) liudija parašo dokumentuose tikrumą; ^s-64e00f1650fca8efacd28943
 
 
-6) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą; ^fe3e6a838e0d93adc2b8252e
+6) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą; ^s-65e205be5ce0da195efd29af
 
 
-7) tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje; ^d2309bcfd914e7d1fe5e3a50
+7) tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje; ^s-737a1e75c86b53865b704ce8
 
 
-8) priima saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius testamentus; ^7f6a3bdbe51c5e2c32df6df9
+8) priima saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius testamentus; ^s-c9d0214aa2426636b071ff8c
 
 
-9) tvirtina dokumentų pateikimo laiką; ^d5d7b95d8850099888bf80a1
+9) tvirtina dokumentų pateikimo laiką; ^s-8b316737e681e3b5d8784fbd
 
 
-10) perduoda vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams asmenims; ^8055ed84e0a05d5e13859c9d
+10) perduoda vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams asmenims; ^s-daa6c7ba2a1b28a039863734
 
 
-11) priima į depozitinę sąskaitą pinigines sumas; ^a3169b13982627023460741d
+11) priima į depozitinę sąskaitą pinigines sumas; ^s-4c1541c5ab36226460366f56
 
 
-12) priima jūrinius protestus; ^ffecb9b615729ce2df734c81
+12) priima jūrinius protestus; ^s-65d544b3f957691830748119
 
 
-13) protestuoja vekselius ir čekius; ^0dba6653dff6b330faf0bc18
+13) protestuoja vekselius ir čekius; ^s-d218b1775aa0dfbf09c3b386
 
 
-14) atlieka vykdomuosius įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir čekiuose; ^dfe8375d438626ed18fd59f2
+14) atlieka vykdomuosius įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir čekiuose; ^s-a5bd799b84aee81e32da1962
 
 
-15) atlieka vykdomuosius įrašus dėl priverstinio skolos išieškojimo pagal hipotekos (įkeitimo) kreditoriaus prašymą; ^581c31800ed9ed78e2d284db
+15) atlieka vykdomuosius įrašus dėl priverstinio skolos išieškojimo pagal hipotekos (įkeitimo) kreditoriaus prašymą; ^s-77853838b0945f84a38cf284
 
 
-16) surašo ar tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar steigimo dokumentuose numatytos aplinkybės; ^b764ca325905a7d7afdc2cb7
+16) surašo ar tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar steigimo dokumentuose numatytos aplinkybės; ^s-a2cbdc5f21dcdb8e62d8f11d
 
 
-17) tvirtina juridinių asmenų steigimo dokumentų atitiktį įstatymų reikalavimams; ^0e4b6cc47f581e7a8f3adf4a
+17) tvirtina juridinių asmenų steigimo dokumentų atitiktį įstatymų reikalavimams; ^s-1ae9b727fe1d23d7136d5b2a
 
 
-18) atlieka kitus įstatymų numatytus notarinius veiksmus.“ ^a1567376ad7c3dfb762ccd16
+18) atlieka kitus įstatymų numatytus notarinius veiksmus.“ ^s-b9b37324d46caa3723fc33aa
 
 
 
-### 2 straipsnis. 43 straipsnio pakeitimas
+### 2 straipsnis. 43 straipsnio pakeitimas ^s-34a493f009b5f63ea64b752d
 
 
 Pakeisti 43 straipsnį ir jį straipsnį išdėstyti taip:
@@ -113,7 +118,7 @@ Notaro vykdomieji įrašai pagal užprotestuotus arba neprotestuotinus vekselius
 
 
 
-### 3 straipsnis. 46 straipsnio papildymas 6 dalimi
+### 3 straipsnis. 46 straipsnio papildymas 6 dalimi ^s-2cf48c2558842aa5ff43455d
 
 
 Papildyti 46 straipsnį 6 dalimi:
@@ -123,7 +128,7 @@ Papildyti 46 straipsnį 6 dalimi:
 
 
 
-### 4 straipsnis. Įstatymo papildymas 491 straipsniu
+### 4 straipsnis. Įstatymo papildymas 491 straipsniu ^s-60584cdb7587d2625d864ba2
 
 
 Papildyti Įstatymą 491 straipsniu:
@@ -143,7 +148,7 @@ Notaro vykdomieji įrašai arba atsisakymas atlikti vykdomąjį įrašą dėl š
 
 
 
-### 5 straipsnis. Baigiamosios nuostatos
+### 5 straipsnis. Baigiamosios nuostatos ^s-bb6275b366d6d65bb72d0bf3
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

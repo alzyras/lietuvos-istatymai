@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1819B87EC123"
 pavadinimas: "Lietuvos Respublikos delspinigių skaičiavimo už ne laiku pervestus mokesčius per bankus, kurių veikla sustabdyta, įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos delspinigių skaičiavimo už ne laiku pervestus mokesčius per bankus, kurių veikla sustabdyta, įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "delspinigių skaičiavimo už ne laiku pervestus mokesčius per bankus, kurių veikla sustabdyta, įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-17"
 latest_path: "latest/TAR.1819B87EC123.md"
 latest_sha256: "458b155e3c734964ad1fa33fb2ee825e3c2e54782def65084f9cde33793a0313"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1819B87EC123]]"
 ---
 # Lietuvos Respublikos delspinigių skaičiavimo už ne laiku pervestus mokesčius per bankus, kurių veikla sustabdyta, įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1819B87EC123.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1819B87EC123
+- Ryšiai: [[Ryšiai/TAR.1819B87EC123|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-8dd21899694822e590bd8af8
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:

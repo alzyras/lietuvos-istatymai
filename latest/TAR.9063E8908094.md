@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9063E8908094"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-04-28"
 latest_path: "latest/TAR.9063E8908094.md"
 latest_sha256: "ddbfda9145eb332472c35233e298000795b4cc32fc49c59df7e17887484b2a6e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9063E8908094]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9063E8908094.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9063E8908094
+- Ryšiai: [[Ryšiai/TAR.9063E8908094|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-af9e8e8d6561afd75b1488a4
 
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:

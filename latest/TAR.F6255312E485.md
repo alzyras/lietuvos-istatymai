@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F6255312E485"
 pavadinimas: "Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-05-02"
 latest_path: "latest/TAR.F6255312E485.md"
 latest_sha256: "53d77503b13f6c76faaebd151d2ea1256a9e6c5ae9e3b998dde3e4f17f2e8db1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F6255312E485]]"
 ---
 # Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F6255312E485.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F6255312E485
+- Ryšiai: [[Ryšiai/TAR.F6255312E485|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-53740e7acdc3ca64510ab625
 
 
 Pakeisti šio įstatymo 3 straipsnį ir jį išdėstyti taip:

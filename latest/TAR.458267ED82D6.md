@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.458267ED82D6"
 pavadinimas: "Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.458267ED82D6.md"
 latest_sha256: "8dbfcb425d797b29c8fca8372b1b0a01113fb19f6e4a6de555a62f65b7e99c6f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.458267ED82D6]]"
 ---
 # Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.458267ED82D6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.458267ED82D6
+- Ryšiai: [[Ryšiai/TAR.458267ED82D6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2009 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 2009 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-1dc84ea44d8974e183e57e58
 
 
 Patvirtinti Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžetą – 4 686 979 tūkst. litų pajamų ir 4 686 979 tūkst. litų išlaidų, iš jo – 20 000 tūkst. litų kasos apyvartos lėšų (priedėlis).

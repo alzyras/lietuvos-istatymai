@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D0CDD096DABC"
 pavadinimas: "Lietuvos Respublikos asociacijų įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asociacijų įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "asociacijų įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-28"
 latest_path: "latest/TAR.D0CDD096DABC.md"
 latest_sha256: "3468e250155b0f297277ee0bca211c2aef2f502d3192dbba6c089a0c4ec5b305"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D0CDD096DABC]]"
 ---
 # Lietuvos Respublikos asociacijų įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D0CDD096DABC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D0CDD096DABC
+- Ryšiai: [[Ryšiai/TAR.D0CDD096DABC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas ^s-dcbdc850b3ce5a33c0ac3515
 
 
 Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:

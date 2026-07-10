@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C5392FA0834D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl įsisenėjusių skolų biudžetui įstatymo 4 straipsnio pakeitimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl įsisenėjusių skolų biudžetui įstatymo 4 straipsnio pakeitimo"
+  - "įstatymas dėl įsisenėjusių skolų biudžetui įstatymo 4 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-11"
 latest_path: "latest/TAR.C5392FA0834D.md"
 latest_sha256: "6a5533993b9891808d0119b85b0135c69329bd34c058bc584f55163a74a567ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C5392FA0834D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl įsisenėjusių skolų biudžetui įstatymo 4 straipsnio pakeitimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C5392FA0834D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C5392FA0834D
+- Ryšiai: [[Ryšiai/TAR.C5392FA0834D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio pakeitimas
+### 1 straipsnis. 4 straipsnio pakeitimas ^s-d8f1efa5a4855935d0fa1a6c
 
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:

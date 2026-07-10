@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.8D38517814F1.md",
   "latest_revision": "1998-07-01",
-  "latest_sha256": "2b6993b1c348952631b4c2e7515525550ac236a234b4a9bbb63500e35e45f177",
+  "latest_sha256": "71db548f933f56015cedc4f436edb806b7d7a08f3f559cdb716d66ece0f6f623",
   "metadata_path": "latest/TAR.8D38517814F1.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos atliekų tvarkymo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:25Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

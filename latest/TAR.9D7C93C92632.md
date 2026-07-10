@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9D7C93C92632"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimo dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimo dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais ratifikavimo įstatymas"
+  - "Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimo dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-03-08"
 latest_path: "latest/TAR.9D7C93C92632.md"
 latest_sha256: "2db7b18722ba6118e7a5ada1ce3b62f9fa9e4602ba7b412bc30530085f015900"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9D7C93C92632]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimo dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9D7C93C92632.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9D7C93C92632
+- Ryšiai: [[Ryšiai/TAR.9D7C93C92632|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-bfc1582ccacb6c51367787a6
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 22 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“, ratifikuoja 1997 m. vasario 20 d. Taškente pasirašytą Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais.

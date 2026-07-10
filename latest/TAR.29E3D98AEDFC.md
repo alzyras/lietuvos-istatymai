@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.29E3D98AEDFC"
 pavadinimas: "Lietuvos Respublikos mokslo ir studijų įstatymo 7, 11, 21, 22, 69, 70 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokslo ir studijų įstatymo 7, 11, 21, 22, 69, 70 straipsnių pakeitimo ir papildymo įstatymas"
+  - "mokslo ir studijų įstatymo 7, 11, 21, 22, 69, 70 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-28"
 latest_path: "latest/TAR.29E3D98AEDFC.md"
 latest_sha256: "2427f66504e672f3f4fc0c409922fc3a86468e3242e043b3969ec72ad0636ffa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.29E3D98AEDFC]]"
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymo 7, 11, 21, 22, 69, 70 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.29E3D98AEDFC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.29E3D98AEDFC
+- Ryšiai: [[Ryšiai/TAR.29E3D98AEDFC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 3 dalies 2 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 3 dalies 2 punkto pakeitimas ^s-8652a8d9a7c8de0ef7a38784
 
 
 Pakeisti 7 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 7 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 11 straipsnio 2 dalies 2 punkto pakeitimas
+### 2 straipsnis. 11 straipsnio 2 dalies 2 punkto pakeitimas ^s-5a80c84bd8351f79a963d07a
 
 
 Pakeisti 11 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
@@ -55,47 +60,47 @@ Pakeisti 11 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 21 straipsnio 1, 2 ir 3 dalių pakeitimas ir papildymas
+### 3 straipsnis. 21 straipsnio 1, 2 ir 3 dalių pakeitimas ir papildymas ^s-e1d675f690da7a82c56c94c9
 
 
-1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip: ^0a59ceee1b25a0ecf2da4b6d
+1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip: ^s-599496c72d3432ac65756797
 
 
 „1. Valstybinės aukštosios mokyklos senatas (akademinė taryba) yra aukštosios mokyklos valdymo organas.“
 
 
-2. Papildyti 21 straipsnio 2 dalį nauju 7 punktu: ^31f309604d32eaa9f4e6062f
+2. Papildyti 21 straipsnio 2 dalį nauju 7 punktu: ^s-84811a0e4bc20ec7ed2a7320
 
 
 „7) nustato universiteto lėšų (taip pat lėšų, skirtų vadovų ir kitų darbuotojų darbo užmokesčiui) ir turto valdymo, naudojimo ir disponavimo jais tvarką, svarsto ir tvirtina svarbiausius su tuo susijusius sprendimus;“.
 
 
-3. Papildyti 21 straipsnio 2 dalį nauju 8 punktu: ^a5a1457c40f5bfa495d1d223
+3. Papildyti 21 straipsnio 2 dalį nauju 8 punktu: ^s-7065f7301fb2bd337db2d3ff
 
 
 „8) tvirtina rektoriaus pateiktą aukštosios mokyklos metinę pajamų ir išlaidų sąmatą ir šios sąmatos įvykdymo ataskaitą;“.
 
 
-4. Buvusį 21 straipsnio 2 dalies 7 punktą laikyti 9 punktu. ^a6a10035d363588943151fde
+4. Buvusį 21 straipsnio 2 dalies 7 punktą laikyti 9 punktu. ^s-9a2d6f1cb565ee824a323895
 
 
-5. Papildyti 21 straipsnio 3 dalį nauju 7 punktu: ^e128126f1fb44e0f9b6e61a3
+5. Papildyti 21 straipsnio 3 dalį nauju 7 punktu: ^s-6fcfad065e23acb8c05dd927
 
 
 „7) nustato kolegijos lėšų (taip pat lėšų, skirtų vadovų ir kitų darbuotojų darbo užmokesčiui) ir turto valdymo, naudojimo ir disponavimo jais tvarką, svarsto ir tvirtina svarbiausius su tuo susijusius sprendimus;“.
 
 
-6. Papildyti 21 straipsnio 3 dalį nauju 8 punktu: ^c3e43bcfc8d96b74e8873f7e
+6. Papildyti 21 straipsnio 3 dalį nauju 8 punktu: ^s-72f0445445fd791a496d764c
 
 
 „8) tvirtina direktoriaus pateiktą aukštosios mokyklos metinę pajamų ir išlaidų sąmatą ir šios sąmatos įvykdymo ataskaitą;“.
 
 
-7. Buvusį 21 straipsnio 3 dalies 7 punktą laikyti 9 punktu. ^6e2668670786009e92e092d7
+7. Buvusį 21 straipsnio 3 dalies 7 punktą laikyti 9 punktu. ^s-6e1cb411f0dd396e07227423
 
 
 
-### 4 straipsnis. 22 straipsnio 2 dalies 7 punkto pakeitimas
+### 4 straipsnis. 22 straipsnio 2 dalies 7 punkto pakeitimas ^s-deba604412958a7e3c8aab9b
 
 
 Pakeisti 22 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip:
@@ -105,14 +110,14 @@ Pakeisti 22 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 69 straipsnio 2 dalies pripažinimas netekusia galios
+### 5 straipsnis. 69 straipsnio 2 dalies pripažinimas netekusia galios ^s-3091ab13de2e86877da70017
 
 
 69 straipsnio 2 dalį pripažinti netekusia galios.
 
 
 
-### 6 straipsnis. 70 straipsnio 7 dalies pakeitimas
+### 6 straipsnis. 70 straipsnio 7 dalies pakeitimas ^s-7d36d07e960b041554e9bd07
 
 
 Pakeisti 70 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -122,10 +127,10 @@ Pakeisti 70 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Baigiamosios nuostatos
+### 7 straipsnis. Baigiamosios nuostatos ^s-c340eaa43ba426871b82c899
 
 
-Šio įstatymo [[#6 straipsnis. 70 straipsnio 7 dalies pakeitimas|6 straipsnyje]] išdėstytos Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies nuostatos taikomos ir asmenims, kurių pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos ir kurie į aukštąsias mokyklas priimti iki šio įstatymo įsigaliojimo, bet ne anksčiau kaip 2009 m. gegužės 12 d., jeigu jų studijų sutartyse nėra numatyta kitokia studijų rezultatų palyginimo tvarka.
+Šio įstatymo [[#^s-7d36d07e960b041554e9bd07|6 straipsnyje]] išdėstytos Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies nuostatos taikomos ir asmenims, kurių pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos ir kurie į aukštąsias mokyklas priimti iki šio įstatymo įsigaliojimo, bet ne anksčiau kaip 2009 m. gegužės 12 d., jeigu jų studijų sutartyse nėra numatyta kitokia studijų rezultatų palyginimo tvarka.
 
 
 

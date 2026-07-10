@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6004A90751D2"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 5, 6 straipsnių ir priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 5, 6 straipsnių ir priedėlio pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo 5, 6 straipsnių ir priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-17"
 latest_path: "latest/TAR.6004A90751D2.md"
 latest_sha256: "0d6ba1a335ac5e6c15005e420945d9baecf04859b2f164dbd5778dd2f29da688"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6004A90751D2]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 5, 6 straipsnių ir priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6004A90751D2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6004A90751D2
+- Ryšiai: [[Ryšiai/TAR.6004A90751D2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-06efd63d5774eca15c865def
 
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 6 straipsnio pakeitimas
+### 2 straipsnis. 6 straipsnio pakeitimas ^s-c511cb80089ef2f784cdfb1d
 
 
 6 straipsnyje vietoj žodžių „iki kovo 31 d.“ įrašyti žodžius „iki gegužės 1 d.“ ir šį straipsnį išdėstyti taip:
@@ -54,16 +59,16 @@ Vyriausybė kasmet ne vėliau kaip iki gegužės 1 d. pateikia Seimui metinę at
 
 
 
-### 3 straipsnis. Priedėlio pakeitimas ir papildymas
+### 3 straipsnis. Priedėlio pakeitimas ir papildymas ^s-b1ccdd36d92a163ac2a2f4ad
 
 
-1. Pakeisti 8 skyriaus [[#^198465ca5de759828a764d0d|3 dalį]] ir ją išdėstyti taip: ^a5de65ab9dc9b38b7db37704
+1. Pakeisti 8 skyriaus [[#^s-ca85c2ab9fe4c29bd7096419|3 dalį]] ir ją išdėstyti taip: ^s-194bb5e5e44280ade4a2968d
 
 
 „Gynybos veiksmų civilinę vadovybę sudaro Respublikos Prezidentas ir krašto apsaugos ministras. Pagal demokratinės civilių kontrolės principą operacinio vadovavimo karinėms operacijoms ir kitiems gynybos veiksmams grandinė prasideda nuo Respublikos Prezidento ir per krašto apsaugos ministrą paprastai eina kariuomenės vadui, o jeigu yra išimtinių aplinkybių, – tiesiai lauko pajėgų vadui, reguliariųjų pajėgų rūšių vadams ar Savanorių pajėgų vadui.“
 
 
-2. 11 skyriaus [[#^a5de65ab9dc9b38b7db37704|1 dalyje]] vietoj žodžių „nacionalinį saugumą stiprinančios“ įrašyti žodžius „nacionalinio saugumo stiprinimo“, pakeisti [[#^5cd5ac9d41182cddf6d51aaf|2 dalį]] ir šį skyrių išdėstyti taip: ^5cd5ac9d41182cddf6d51aaf
+2. 11 skyriaus [[#^s-194bb5e5e44280ade4a2968d|1 dalyje]] vietoj žodžių „nacionalinį saugumą stiprinančios“ įrašyti žodžius „nacionalinio saugumo stiprinimo“, pakeisti [[#^s-f4b2d1a733272bd226ea0c6f|2 dalį]] ir šį skyrių išdėstyti taip: ^s-f4b2d1a733272bd226ea0c6f
 
 
 „11 skyrius
@@ -91,43 +96,43 @@ Svarbiausios ilgalaikės nacionalinio saugumo stiprinimo valstybinės programos:
 Prireikus parengiamos ir kitos programos. Saugumo stiprinimo valstybines programas, išskyrus valstybės paslaptį sudarančias jų dalis, Vyriausybė pateikia Seimui. Dėl pateiktų programų Seimas priima nutarimą. Programos finansuojamos iš valstybės biudžeto ar kitų įstatymuose numatytų šaltinių.“
 
 
-3. 17 skyriaus pirmojo skirsnio [[#^198465ca5de759828a764d0d|3 dalyje]] vietoj žodžių „generalinis kariuomenės inspektorius“ įrašyti žodžius „krašto apsaugos generalinis inspektorius“ ir šią dalį išdėstyti taip: ^198465ca5de759828a764d0d
+3. 17 skyriaus pirmojo skirsnio [[#^s-ca85c2ab9fe4c29bd7096419|3 dalyje]] vietoj žodžių „generalinis kariuomenės inspektorius“ įrašyti žodžius „krašto apsaugos generalinis inspektorius“ ir šią dalį išdėstyti taip: ^s-ca85c2ab9fe4c29bd7096419
 
 
 „Krašto apsaugos ministras prižiūri ir kontroliuoja kariuomenės parengimą. Šią kontrolę vykdo ministrui pavaldus krašto apsaugos generalinis inspektorius.“
 
 
-4. Pakeisti 17 skyriaus antrojo skirsnio [[#^a5de65ab9dc9b38b7db37704|1 dalį]] ir ją išdėstyti taip: ^8c3478428b1a98772a3225fc
+4. Pakeisti 17 skyriaus antrojo skirsnio [[#^s-194bb5e5e44280ade4a2968d|1 dalį]] ir ją išdėstyti taip: ^s-1d8e8896e3fc300c6b7cdafe
 
 
 „Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui, tačiau nepavaldus krašto apsaugos viceministrams.“
 
 
-5. 17 skyriaus antrojo skirsnio [[#^198465ca5de759828a764d0d|3 dalyje]] vietoj žodžių „Krašto apsaugos ministras kariuomenės vado teikimu skiria kariuomenės vado pavaduotoją, kurio“ įrašyti žodžius „Respublikos Prezidentas krašto apsaugos ministro teikimu skiria lauko pajėgų vadą. Jo“ ir šią dalį išdėstyti taip: ^7c2423deabe3368234ee5e5a
+5. 17 skyriaus antrojo skirsnio [[#^s-ca85c2ab9fe4c29bd7096419|3 dalyje]] vietoj žodžių „Krašto apsaugos ministras kariuomenės vado teikimu skiria kariuomenės vado pavaduotoją, kurio“ įrašyti žodžius „Respublikos Prezidentas krašto apsaugos ministro teikimu skiria lauko pajėgų vadą. Jo“ ir šią dalį išdėstyti taip: ^s-295ac3adcce80ee961c63aab
 
 
 „Respublikos Prezidentas krašto apsaugos ministro teikimu skiria lauko pajėgų vadą. Jo nuolatines pareigas, teises ir atsakomybę taikos ir karo metu, taip pat ir tas, kurias jis turi nesant kariuomenės vado, nustato įstatymai.“
 
 
-6. 17 skyriaus antrojo skirsnio [[#^8c3478428b1a98772a3225fc|4 dalyje]] vietoj žodžių „savanoriškąją krašto apsaugos tarnybą“ įrašyti žodžius „Savanorių pajėgas“, prieš žodį „gynybai“ įrašyti žodžius „ginkluotai valstybės“ ir šią dalį išdėstyti taip: ^e1b75dbae2caf4dcb701af21
+6. 17 skyriaus antrojo skirsnio [[#^s-1d8e8896e3fc300c6b7cdafe|4 dalyje]] vietoj žodžių „savanoriškąją krašto apsaugos tarnybą“ įrašyti žodžius „Savanorių pajėgas“, prieš žodį „gynybai“ įrašyti žodžius „ginkluotai valstybės“ ir šią dalį išdėstyti taip: ^s-5a7c7f70c86103fdfbf5d5f3
 
 
 „Svarbiausias kariuomenės vado uždavinys taikos metu – parengti visas reguliariosios kariuomenės rūšis, Savanorių pajėgas ir aktyvųjį kariuomenės rezervą ginkluotai valstybės gynybai, vadovauti valstybės teritorijos apsaugai, teritorinės jūros, ekonominės zonos ir oro erdvės kontrolei bei apsaugai.“
 
 
-7. Pakeisti 17 skyriaus antrojo skirsnio [[#^e1b75dbae2caf4dcb701af21|6 dalį]] ir ją išdėstyti taip: ^cfd9b49af245f0b271df8798
+7. Pakeisti 17 skyriaus antrojo skirsnio [[#^s-5a7c7f70c86103fdfbf5d5f3|6 dalį]] ir ją išdėstyti taip: ^s-035fa8f22a566689f8c3a05b
 
 
 „Ginkluoto užpuolimo ar karo padėties atveju kariuomenės vadas Respublikos Prezidento dekretu skiriamas visų Lietuvos Respublikos ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei vadovybei.“
 
 
-8. Iš 17 skyriaus antrojo skirsnio [[#^cfd9b49af245f0b271df8798|7 dalies]] antrojo sakinio išbraukti žodžius „jungia ir“, „bei kariuomenės ir kitų ginkluotųjų pajėgų veiksmus“, „operatyvinį ir“ ir šią dalį išdėstyti taip: ^61b8261f72cf61743e76cfd9
+8. Iš 17 skyriaus antrojo skirsnio [[#^s-035fa8f22a566689f8c3a05b|7 dalies]] antrojo sakinio išbraukti žodžius „jungia ir“, „bei kariuomenės ir kitų ginkluotųjų pajėgų veiksmus“, „operatyvinį ir“ ir šią dalį išdėstyti taip: ^s-8c2e926ce037d75a6a99f521
 
 
 „Gynybos štabas yra bendras valstybės karinės gynybos štabas. Gynybos štabas rengia ginkluotos gynybos planus, koordinuoja kariuomenės rūšių štabų veiklą ir teritorinės gynybos štabų darbą, organizuoja kariuomenės kovinį parengimą bei materialinį aprūpinimą (logistiką). Gynybos štabo struktūra, funkcijos ir atsakomybės paskirstymas nustatomi krašto apsaugos struktūrą reglamentuojančiuose teisės aktuose.“
 
 
-9. Pakeisti 17 skyriaus trečiąjį skirsnį ir jį išdėstyti taip: ^3bd223cb363d868587be87d4
+9. Pakeisti 17 skyriaus trečiąjį skirsnį ir jį išdėstyti taip: ^s-3e97b779fb69a319dd3f9164
 
 
 
@@ -140,7 +145,7 @@ Krašto apsaugos ministerija steigia apygardose privalomosios karo tarnybos kari
 ATGŠ organizuoja aktyviojo kariuomenės rezervo karių apmokymą apygardos mokymo centruose ar kariuomenės daliniuose, vykdo komendantūros funkcijas, palaiko ryšius su Šaulių sąjungos būriais.“
 
 
-10. 18 skyriaus antrajame skirsnyje vietoj termino „reguliarioji kariuomenė“ įrašyti terminą „reguliariosios pajėgos“, vietoj termino „savanoriškoji krašto apsaugos tarnyba“ – terminą „Savanorių pajėgos“, vietoj termino „profesionalioji tarnyba“ – terminą „profesinė karo tarnyba“, [[#^5cd5ac9d41182cddf6d51aaf|2 dalies]] paskutinįjį sakinį išbraukti, [[#^8c3478428b1a98772a3225fc|4 dalies]] pirmajame sakinyje vietoj žodžių „ne trumpesnė kaip dvejų metų“ įrašyti žodžius „įstatymo nustatytos trukmės“, iš [[#^cfd9b49af245f0b271df8798|7 dalies]] išbraukti žodį „nuolatinės“, [[#^3bd223cb363d868587be87d4|9 dalyje]] po žodžio „Kariuomenės“ įrašyti žodžius „skaičių ir principinę“ ir šį skirsnį išdėstyti taip: ^4ac3a552bac1b02d35724bc4
+10. 18 skyriaus antrajame skirsnyje vietoj termino „reguliarioji kariuomenė“ įrašyti terminą „reguliariosios pajėgos“, vietoj termino „savanoriškoji krašto apsaugos tarnyba“ – terminą „Savanorių pajėgos“, vietoj termino „profesionalioji tarnyba“ – terminą „profesinė karo tarnyba“, [[#^s-f4b2d1a733272bd226ea0c6f|2 dalies]] paskutinįjį sakinį išbraukti, [[#^s-1d8e8896e3fc300c6b7cdafe|4 dalies]] pirmajame sakinyje vietoj žodžių „ne trumpesnė kaip dvejų metų“ įrašyti žodžius „įstatymo nustatytos trukmės“, iš [[#^s-035fa8f22a566689f8c3a05b|7 dalies]] išbraukti žodį „nuolatinės“, [[#^s-3e97b779fb69a319dd3f9164|9 dalyje]] po žodžio „Kariuomenės“ įrašyti žodžius „skaičių ir principinę“ ir šį skirsnį išdėstyti taip: ^s-4f0a1f9b8e0114af87c016f2
 
 
 
@@ -169,7 +174,7 @@ Taikos metu kariuomenė:
 – šio skyriaus penktajame skirsnyje numatytais atvejais gali būti pasiųsta padėti civilinei valdžiai.“
 
 
-11. Pakeisti 18 skyriaus trečiojo skirsnio pavadinimą, [[#^a5de65ab9dc9b38b7db37704|1 dalies]] pirmajame sakinyje vietoj santrumpos „SKAT“ įrašyti žodžius „Krašto apsaugos savanorių pajėgos (sutrumpintai – Savanorių pajėgos)“, visame skirsnyje vietoj santrumpos „SKAT“ įrašyti terminą „Savanorių pajėgos“, vietoj termino „rinktinės“ įrašyti terminą „vienetai“, vietoj žodžio „Savanoriškosios“ įrašyti žodį „Savanorių“, pakeisti [[#^5cd5ac9d41182cddf6d51aaf|2 dalį]] ir šį skirsnį išdėstyti taip: ^164f6f475c7f6fd6697bb5b4
+11. Pakeisti 18 skyriaus trečiojo skirsnio pavadinimą, [[#^s-194bb5e5e44280ade4a2968d|1 dalies]] pirmajame sakinyje vietoj santrumpos „SKAT“ įrašyti žodžius „Krašto apsaugos savanorių pajėgos (sutrumpintai – Savanorių pajėgos)“, visame skirsnyje vietoj santrumpos „SKAT“ įrašyti terminą „Savanorių pajėgos“, vietoj termino „rinktinės“ įrašyti terminą „vienetai“, vietoj žodžio „Savanoriškosios“ įrašyti žodį „Savanorių“, pakeisti [[#^s-f4b2d1a733272bd226ea0c6f|2 dalį]] ir šį skirsnį išdėstyti taip: ^s-278d61a1afdd182103c11d5f
 
 
 
@@ -181,19 +186,19 @@ Taikos metu Savanorių pajėgų funkcijos yra: savanorių karinis parengimas ir 
 Savanorių pajėgų daliniai gynybai rengiami bendrai su kitais kariuomenės daliniais, o pasienio apygardose – taip pat su pasienio policijos daliniais.“
 
 
-12. Pakeisti 18 skyriaus penktojo skirsnio [[#^8c3478428b1a98772a3225fc|4 dalį]] ir ją išdėstyti taip: ^ee83d1cdd50ccec572cd91fd
+12. Pakeisti 18 skyriaus penktojo skirsnio [[#^s-1d8e8896e3fc300c6b7cdafe|4 dalį]] ir ją išdėstyti taip: ^s-b6e288ab3f664f29966ef9d5
 
 
 „Netikėtais ir neatidėliotinais atvejais, kai nusikaltėliai sukelia realų pavojų žmonių gyvybei ar nuosavybei ir reikia padėti vykdyti skubias tokių nusikaltėlių sulaikymo operacijas, Policijos departamento prie Vidaus reikalų ministerijos generalinio komisaro, jo pavaduotojo ar vietos policijos komisariato vadovo raštišku prašymu, civilinei operacinei vadovybei leidus, karinis vienetas operacinio vadovavimo grandinėje esančio vado įsakymu gali būti pasiųstas teikti konkrečiai apibrėžtą, neviršijančią 24 valandų vienkartinę pagalbą policijai teisės aktų nustatyta tvarka. Tokiai operacijai vadovauja Policijos departamento prie Vidaus reikalų ministerijos generalinio komisaro, jo pavaduotojo ar policijos komisariato vadovo paskirtas pareigūnas. Prireikus pagalbos teikimo policijai trukmė, laikantis tokios pat tvarkos, gali būti pratęsta iki 48 valandų.“
 
 
-13. 18 skyriaus penktojo skirsnio [[#^7c2423deabe3368234ee5e5a|5 dalį]] papildyti žodžiais „ir kiti teisės aktai“ ir šią dalį išdėstyti taip: ^7b390e3d4300bccf99d7b5a0
+13. 18 skyriaus penktojo skirsnio [[#^s-295ac3adcce80ee961c63aab|5 dalį]] papildyti žodžiais „ir kiti teisės aktai“ ir šią dalį išdėstyti taip: ^s-02ccea1dadb36e9dff3e3254
 
 
 „Tokiai operacijai bendrai vadovauja policijos paskirtas vadas. Visais atvejais karinė jėga naudojama minimaliai. Kariuomenės pagalbos teikimo policijai tvarką nustato įstatymai ir kiti teisės aktai.“
 
 
-14. 21 skyriaus trečiojo skirsnio pirmajame sakinyje vietoj žodžių „Vyriausybės sekretoriato sudėtinė dalis ir yra nuolatinėje parengtyje“ įrašyti žodžius „Ekstremalių situacijų komisijos nuolatinė institucija, turinti Vyriausybės įstaigos statusą“ ir šį skirsnį išdėstyti taip: ^04c79114c717523ebe078b07
+14. 21 skyriaus trečiojo skirsnio pirmajame sakinyje vietoj žodžių „Vyriausybės sekretoriato sudėtinė dalis ir yra nuolatinėje parengtyje“ įrašyti žodžius „Ekstremalių situacijų komisijos nuolatinė institucija, turinti Vyriausybės įstaigos statusą“ ir šį skirsnį išdėstyti taip: ^s-d6e064c23c79e075dd04658e
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.87F70970DE7A"
 pavadinimas: "Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės \"Mažeikių nafta\" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei būtingės naftos terminalo statybos projektui finansuoti ir bendrovės \"Mažeikių nafta\" apyvartinėms lėšoms papildyti įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės \"Mažeikių nafta\" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei būtingės naftos terminalo statybos projektui finansuoti ir bendrovės \"Mažeikių nafta\" apyvartinėms lėšoms papildyti įstatymo pakeitimo įstatymas"
+  - "paskolų iš užsienio bankų akcinės bendrovės \"Mažeikių nafta\" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei būtingės naftos terminalo statybos projektui finansuoti ir bendrovės \"Mažeikių nafta\" apyvartinėms lėšoms papildyti įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-15"
 latest_path: "latest/TAR.87F70970DE7A.md"
 latest_sha256: "e08719c69f6c06ddf38a85441258a3e12dc2f3d0a7824fdbdabc6833a0c39538"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.87F70970DE7A]]"
 ---
 # Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės "Mažeikių nafta" Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei būtingės naftos terminalo statybos projektui finansuoti ir bendrovės "Mažeikių nafta" apyvartinėms lėšoms papildyti įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.87F70970DE7A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.87F70970DE7A
+- Ryšiai: [[Ryšiai/TAR.87F70970DE7A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti įstatymo nauja redakcija
+### 1 straipsnis.         Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti įstatymo nauja redakcija ^s-c7ecd4eb9f13b798747f88c3
 
 
 Pakeisti Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti įstatymą ir jį išdėstyti taip:
@@ -44,14 +49,14 @@ PASKOLŲ AKCINei BENDROVei „MAŽEIKIŲ NAFTA“ FINANSUOTI ėmimo iš kreditor
 
 
 
-### 1 straipsnis. Sprendimas imti paskolas
+### 1 straipsnis. Sprendimas imti paskolas ^s-2afe83ff6bb99d25c9983cf9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Valstybės skolos įstatymo 5 straipsnio 1 dalimi bei 7 straipsnio 1 dalimi, nusprendžia imti paskolas iš kreditorių, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems kreditoriams dėl teikiamų paskolų akcinei bendrovei „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti. Šiame Įstatyme nurodytiems tikslams valstybės vardu imamų paskolų, iš valstybės lėšų teikiamų paskolų ir (ar) paskolų su valstybės garantija bendra suma neturi viršyti 571 mln. JAV dolerių.
+Lietuvos Respublikos Seimas, vadovaudamasis [[latest/TAR.5C23DECF6210#^s-a0c827a2147f97698de099bd|Valstybės skolos įstatymo 5 straipsnio 1 dalimi]] bei 7 straipsnio 1 dalimi, nusprendžia imti paskolas iš kreditorių, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems kreditoriams dėl teikiamų paskolų akcinei bendrovei „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti. Šiame Įstatyme nurodytiems tikslams valstybės vardu imamų paskolų, iš valstybės lėšų teikiamų paskolų ir (ar) paskolų su valstybės garantija bendra suma neturi viršyti 571 mln. JAV dolerių.
 
 
 
-### 2 straipsnis.         Įgaliojimai Lietuvos Respublikos Vyriausybei nustatyti konkrečias paskolų sąlygas
+### 2 straipsnis.         Įgaliojimai Lietuvos Respublikos Vyriausybei nustatyti konkrečias paskolų sąlygas ^s-d639f8e66d4e0634d3b27e9b
 
 
 Įgalioti Lietuvos Respublikos Vyriausybę derėtis su kreditoriais dėl kiekvienos konkrečios iš jų valstybės vardu imamos paskolos sumos bei sąlygų ir nustatyti tai Lietuvos Respublikos Vyriausybės nutarimuose.“

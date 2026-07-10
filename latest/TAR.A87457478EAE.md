@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A87457478EAE"
 pavadinimas: "Lietuvos Respublikos žemės įstatymo 10 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės įstatymo 10 straipsnio papildymo įstatymas"
+  - "žemės įstatymo 10 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-30"
 latest_path: "latest/TAR.A87457478EAE.md"
 latest_sha256: "dc1e24cc01a6520cd03734a102e8e6d3f1566473985100c0616b176f0b9f1b72"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A87457478EAE]]"
 ---
 # Lietuvos Respublikos žemės įstatymo 10 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A87457478EAE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A87457478EAE
+- Ryšiai: [[Ryšiai/TAR.A87457478EAE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,13 +38,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio papildymas
+### 1 straipsnis. 10 straipsnio papildymas ^s-09a6eed02fd49642852d1149
 
 
 Papildyti 10 straipsnį 12 dalimi:
 
 
-„12. Valstybinių žemės sklypų, reikalingų naujos branduolinės (atominės) elektrinės, nurodytos Branduolinės (atominės) elektrinės įstatyme, projekto įgyvendinimui, perleidimo tvarką ir sąlygas nustato Branduolinės (atominės) elektrinės įstatymas.“
+„12. Valstybinių žemės sklypų, reikalingų naujos branduolinės (atominės) elektrinės, nurodytos [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatyme]], projekto įgyvendinimui, perleidimo tvarką ir sąlygas nustato [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatymas]].“
 
 
 

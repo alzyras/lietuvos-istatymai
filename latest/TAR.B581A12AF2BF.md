@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B581A12AF2BF"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1972 metų Konvencijos dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1972 metų Konvencijos dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo ratifikavimo"
+  - "įstatymas dėl 1972 metų Konvencijos dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-06-25"
 latest_path: "latest/TAR.B581A12AF2BF.md"
 latest_sha256: "f56af8f1793d514af36353291548b8eac3e43516ea2fe17ff9413f7438c5d85e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B581A12AF2BF]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1972 metų Konvencijos dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B581A12AF2BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B581A12AF2BF
+- Ryšiai: [[Ryšiai/TAR.B581A12AF2BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-d60176890f360134e07e5197
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. vasario 18 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1972 metų Konvenciją dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo“, ratifikuoja 1972 metų Konvenciją dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo.

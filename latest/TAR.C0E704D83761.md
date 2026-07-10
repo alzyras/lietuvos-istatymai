@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C0E704D83761"
 pavadinimas: "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "sveikatos priežiūros įstaigų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-31"
 latest_path: "latest/TAR.C0E704D83761.md"
 latest_sha256: "6a2cb3eeb51432c160bcfd58cb1017438c73d8b1d8d02ad62f74c401a845e875"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C0E704D83761]]"
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C0E704D83761.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C0E704D83761
+- Ryšiai: [[Ryšiai/TAR.C0E704D83761|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-459b730ab49b73a6a2447645
 
 
 Iš 2 straipsnio 9 dalies išbraukti žodžius „valstybinio ir“ ir šią dalį išdėstyti taip:

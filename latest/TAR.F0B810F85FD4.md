@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F0B810F85FD4"
 pavadinimas: "Lietuvos Respublikos pensijų kaupimo įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pensijų kaupimo įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas"
+  - "pensijų kaupimo įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.F0B810F85FD4.md"
 latest_sha256: "883611849f9946c2491968515da8fb15b56595b11332c9cd81944b163882941e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F0B810F85FD4]]"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F0B810F85FD4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F0B810F85FD4
+- Ryšiai: [[Ryšiai/TAR.F0B810F85FD4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ir 9 dalies papildymas 5 punktu
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ir 9 dalies papildymas 5 punktu ^s-bfccc23874b809135361ceea
 
 
-1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip: ^b3fdf5954c4d61ece6cb5d61
+1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip: ^s-28ba116be2908997d2ed4c96
 
 
 „1. Teisę tapti pensijų kaupimo dalyviu šio ir Pensijų sistemos reformos įstatymų numatytame pensijų kaupime turi asmenys, kurie turi draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos valstybinio socialinio draudimo įmokos pagrindinei ir papildomai pensijos daliai gauti, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą turintys teisę pervesti lėšas iš Europos Sąjungos institucijų pensijų sistemos, išskyrus asmenis, kurie jau yra sukakę senatvės pensijos amžių.“
 
 
-2. Papildyti 4 straipsnio 9 dalį 5 punktu: ^79cf7cc088574b313d87bf40
+2. Papildyti 4 straipsnio 9 dalį 5 punktu: ^s-ac7769ff0b8160785e452692
 
 
-„5) Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo nustatyta tvarka dalyvio vardu sukauptas pinigines lėšas pervedus į Europos Sąjungos institucijų pensijų sistemą.“
+„5) [[latest/TAR.6A56D29DBEE8|Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo]] nustatyta tvarka dalyvio vardu sukauptas pinigines lėšas pervedus į Europos Sąjungos institucijų pensijų sistemą.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3f8d20953c1f4981d003d623
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

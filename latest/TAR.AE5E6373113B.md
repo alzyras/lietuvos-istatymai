@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AE5E6373113B"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomo protokolo, Europos bendrijai ir Lietuvos Respublikai pasikeitus laiškais, ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomo protokolo, Europos bendrijai ir Lietuvos Respublikai pasikeitus laiškais, ratifikavimo"
+  - "įstatymas dėl Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomo protokolo, Europos bendrijai ir Lietuvos Respublikai pasikeitus laiškais, ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-18"
 latest_path: "latest/TAR.AE5E6373113B.md"
 latest_sha256: "dc5687041ec16721b6ef89822f2fb61d564eb69d74dd6ed7fd34ba4b638c4342"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AE5E6373113B]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomo protokolo, Europos bendrijai ir Lietuvos Respublikai pasikeitus laiškais, ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AE5E6373113B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AE5E6373113B
+- Ryšiai: [[Ryšiai/TAR.AE5E6373113B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-6d61be33094b843eec545ffd
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 22 d. dekretą Nr. 358, ratifikuoja Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomą protokolą, Europos Bendrijai ir Lietuvos Respublikai pasikeitus laiškais, pasirašytą 1998 m. gruodžio 8 d. Briuselyje.

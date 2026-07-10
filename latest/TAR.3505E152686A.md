@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3505E152686A"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės sutarties dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės sutarties dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse ratifikavimo įstatymas"
+  - "Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės sutarties dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-01-30"
 latest_path: "latest/TAR.3505E152686A.md"
 latest_sha256: "3326739fca1e4c5061b01a5fa627b64a510236e3d2eda28cbe0ab6e41865348e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3505E152686A]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės sutarties dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3505E152686A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3505E152686A
+- Ryšiai: [[Ryšiai/TAR.3505E152686A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-61fefb60d4756a54b52e3eb8
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. lapkričio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse, pasirašytą 1996 m. lapkričio 8 d. Vilniuje.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D4BCCB5F9E32"
 pavadinimas: "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "sveikatos priežiūros įstaigų įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-11"
 latest_path: "latest/TAR.D4BCCB5F9E32.md"
 latest_sha256: "0ff5d91476d7b4ab5ebe56d9c604ba6cfece028d444c6d41053633cf5f062260"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D4BCCB5F9E32]]"
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D4BCCB5F9E32.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D4BCCB5F9E32
+- Ryšiai: [[Ryšiai/TAR.D4BCCB5F9E32|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 4 punkto pakeitimas
+### 1 straipsnis. 23 straipsnio 4 punkto pakeitimas ^s-aae3f48508a8ddc653b10c33
 
 
 Pakeisti 23 straipsnio 4 punktą ir jį išdėstyti taip:

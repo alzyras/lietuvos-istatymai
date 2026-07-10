@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F41499F22BF5"
 pavadinimas: "Lietuvos Respublikos įstatymo dėl Laikinojo įvežimo konvencijos (Stambulo konvencijos) B.4, B.7, B.8 ir E priedų ratifikavimo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo dėl Laikinojo įvežimo konvencijos (Stambulo konvencijos) B.4, B.7, B.8 ir E priedų ratifikavimo 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo dėl Laikinojo įvežimo konvencijos (Stambulo konvencijos) B.4, B.7, B.8 ir E priedų ratifikavimo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-10-27"
 latest_path: "latest/TAR.F41499F22BF5.md"
 latest_sha256: "dfd80707b227899caed643c8b7d5a9c2395cbfee39ba7a9399d93084c99f3186"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F41499F22BF5]]"
 ---
 # Lietuvos Respublikos įstatymo dėl Laikinojo įvežimo konvencijos (Stambulo konvencijos) B.4, B.7, B.8 ir E priedų ratifikavimo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F41499F22BF5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F41499F22BF5
+- Ryšiai: [[Ryšiai/TAR.F41499F22BF5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-404f9f0195eb48f7502904d7
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:

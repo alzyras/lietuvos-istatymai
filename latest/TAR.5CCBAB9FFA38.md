@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5CCBAB9FFA38"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 63, 64, 67 ir 68 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 63, 64, 67 ir 68 straipsnių pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 63, 64, 67 ir 68 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.5CCBAB9FFA38.md"
 latest_sha256: "9eb7784d9facead52b1e7212baa9939114c3570f883f859f4a9b98423ce448bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5CCBAB9FFA38]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 63, 64, 67 ir 68 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5CCBAB9FFA38.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5CCBAB9FFA38
+- Ryšiai: [[Ryšiai/TAR.5CCBAB9FFA38|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 63 straipsnio 1 punkto pakeitimas
+### 1 straipsnis. 63 straipsnio 1 punkto pakeitimas ^s-9cb742093a73c62d4c256be7
 
 
 Pakeisti 63 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 63 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 64 straipsnio 1 punkto pakeitimas
+### 2 straipsnis. 64 straipsnio 1 punkto pakeitimas ^s-50d6df1fe411f3789265491d
 
 
 Pakeisti 64 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 64 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 67 straipsnio 4 dalies 1 punkto pakeitimas
+### 3 straipsnis. 67 straipsnio 4 dalies 1 punkto pakeitimas ^s-b624afbdc6718af9ab64daa9
 
 
 Pakeisti 67 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 67 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 68 straipsnio 4 dalies 1 punkto pakeitimas
+### 4 straipsnis. 68 straipsnio 4 dalies 1 punkto pakeitimas ^s-07a8934fc086aacf3a895cd5
 
 
 Pakeisti 68 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 68 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-56108a89bd481d064c366f5d
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

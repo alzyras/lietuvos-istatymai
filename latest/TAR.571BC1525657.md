@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.571BC1525657"
 pavadinimas: "Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas"
+  - "Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.571BC1525657.md"
 latest_sha256: "805e07e6581937d91d244fa7500fcf6420bf1d766f8fded6ac4083302851c6da"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.571BC1525657]]"
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.571BC1525657.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.571BC1525657
+- Ryšiai: [[Ryšiai/TAR.571BC1525657|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,17 +41,17 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-67cd4f72bd622303a4bde8a7
 
 
-Pakeisti [[#^45d02680120df1bdc374295c|3 straipsnio 1 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-072c1e320c6c05ae77d370e7|3 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Lietuvos bankas vadovaujasi Sutartimi dėl Europos Sąjungos veikimo, Sutarties dėl Europos Sąjungos veikimo Protokolu dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto bei kitais Europos Sąjungos teisės aktais. Lietuvos bankas Lietuvos Respublikos įstatymais ir kitais teisės aktais vadovaujasi tiek, kiek jie neprieštarauja Sutarčiai dėl Europos Sąjungos veikimo, Sutarties dėl Europos Sąjungos veikimo Protokolui dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto. Jeigu yra prieštaravimų tarp Lietuvos Respublikos teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių, vadovaujamasi Lietuvos Respublikos tarptautinėmis sutartimis.“
 
 
 
-### 2 straipsnis. 6 straipsnio papildymas 3 dalimi
+### 2 straipsnis. 6 straipsnio papildymas 3 dalimi ^s-16aaff9d8f128f4bf40ba043
 
 
 Papildyti 6 straipsnį 3 dalimi:
@@ -56,82 +61,82 @@ Papildyti 6 straipsnį 3 dalimi:
 
 
 
-### 3 straipsnis. 8 straipsnio 1 dalies 6 ir 7 punktų pakeitimas
+### 3 straipsnis. 8 straipsnio 1 dalies 6 ir 7 punktų pakeitimas ^s-b6182b6a92acb9c2822b0114
 
 
-1. Pakeisti 8 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^45d02680120df1bdc374295c
+1. Pakeisti 8 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-072c1e320c6c05ae77d370e7
 
 
 „6) atlieka finansų rinkos priežiūrą;“.
 
 
-2. Pakeisti 8 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^57c18fa763c2228106791767
+2. Pakeisti 8 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^s-269ff9273d46e06f01c76510
 
 
 „7) ne teismo tvarka nagrinėja vartotojų ir finansų rinkos dalyvių ginčus;“.
 
 
 
-### 4 straipsnis. 11 straipsnio 1 ir 2 dalių pakeitimas ir straipsnio papildymas 3 dalimi
+### 4 straipsnis. 11 straipsnio 1 ir 2 dalių pakeitimas ir straipsnio papildymas 3 dalimi ^s-b20f8c9805fbed8b647b3b79
 
 
-1. Pakeisti 11 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^48af237851797b5013635fc4
+1. Pakeisti 11 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-8c17439fe2056f0f5ea5c96b
 
 
 „6) nustato finansų rinkos priežiūros politiką;“.
 
 
-2. Pakeisti 11 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^bbbaad161f6777119ff3d007
+2. Pakeisti 11 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip: ^s-b5e1ba17e5eb7c9d11503333
 
 
-„13) šio įstatymo [[#^648bffa4f905f95ef2c077ad|42 straipsnio 1 dalyje]] nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) taiko įstatymų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus nurodymus, įpareigojimus, draudimus ir kitas kitiems asmenims privalomas vykdyti priemones;“.
+„13) šio įstatymo [[#^s-91a63ed717b839ac11c239e1|42 straipsnio 1 dalyje]] nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) taiko įstatymų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus nurodymus, įpareigojimus, draudimus ir kitas kitiems asmenims privalomas vykdyti priemones;“.
 
 
-3. Pakeisti 11 straipsnio 1 dalies 14 punktą ir jį išdėstyti taip: ^3709181144679fcf855c8a27
+3. Pakeisti 11 straipsnio 1 dalies 14 punktą ir jį išdėstyti taip: ^s-bf5fc05cc4d9a9443a44c18e
 
 
 „14) kreipiasi į teismą dėl bankroto bylų iškėlimo prižiūrimiems finansų rinkos dalyviams;“.
 
 
-4. Pakeisti 11 straipsnio 1 dalies 18 punktą ir jį išdėstyti taip: ^1aceb08d2dc56c5ef8b68bc4
+4. Pakeisti 11 straipsnio 1 dalies 18 punktą ir jį išdėstyti taip: ^s-c5dff4596c9dc7f13ec0b67a
 
 
 „18) sprendžia klausimus dėl finansų rinką reglamentuojančiuose įstatymuose nustatytų licencijų, leidimų, sutikimų, pritarimų, neprieštaravimų išdavimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir atšaukimo (galiojimo panaikinimo);“.
 
 
-5. Papildyti 11 straipsnio 1 dalį nauju 19 punktu: ^984a69166800b5ca2fda1fe6
+5. Papildyti 11 straipsnio 1 dalį nauju 19 punktu: ^s-7e10306b42815fa55d39b171
 
 
 „19) priima sprendimus dėl ginčų tarp vartotojų ir finansų rinkos dalyvių;“.
 
 
-6. Buvusį 11 straipsnio 1 dalies 19 punktą laikyti 20 punktu. ^fae51cd992bf33bc988d7168
+6. Buvusį 11 straipsnio 1 dalies 19 punktą laikyti 20 punktu. ^s-6ff26979c166f5e21f2d8898
 
 
-7. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip: ^7f7ad5b052c245282696a4d8
+7. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f23e31d7f772dc4a09ab6473
 
 
 „2. Lietuvos banko valdyba gali dalį savo funkcijų, nustatytų šio straipsnio 1 dalies 5, 8, 11, 13, 17, 18 ir 19 punktuose, pavesti vykdyti valdybos pirmininkui.“
 
 
-8. Papildyti 11 straipsnį 3 dalimi: ^b4604fec3448050a6b86f1de
+8. Papildyti 11 straipsnį 3 dalimi: ^s-ccb81f16e88ef19aea86a6a5
 
 
 „3. Lietuvos banko valdyba gali visas ar dalį savo funkcijų, nustatytų šio straipsnio 1 dalies 13, 18 ir 19 punktuose, pavesti vykdyti Lietuvos banko struktūriniams padaliniams, jeigu įstatymai nenustato kitaip.“
 
 
 
-### 5 straipsnis. 12 straipsnio 4 dalies pakeitimas
+### 5 straipsnis. 12 straipsnio 4 dalies pakeitimas ^s-88f23da327d75ac0f5268152
 
 
-Pakeisti [[#^57f999636d785251bfca55e9|12 straipsnio 4 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-001cb04bdd8e7ce7ae3838fe|12 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Lietuvos banko valdybos pirmininkas sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius nuo sprendimo paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuvo padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos Sąjungos Teisingumo Teismui, motyvuodamas Sutarties dėl Europos Sąjungos veikimo ar kitos teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“
 
 
 
-### 6 straipsnis. 41 straipsnio pakeitimas
+### 6 straipsnis. 41 straipsnio pakeitimas ^s-dd1e4385f25e431509aa107c
 
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
@@ -145,7 +150,7 @@ Lietuvos bankas gali konsultuoti ir teikti pasiūlymus Vyriausybei finansų rink
 
 
 
-### 7 straipsnis. Septintojo skirsnio pakeitimas
+### 7 straipsnis. Septintojo skirsnio pakeitimas ^s-96d41ab6377e5c321288b0dd
 
 
 Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
@@ -157,117 +162,117 @@ FINANSŲ RINKOS PRIEŽIŪRA
 
 
 
-### 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
+### 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą ^s-a35309fe2ce80782a5131346
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai. ^648bffa4f905f95ef2c077ad
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai. ^s-91a63ed717b839ac11c239e1
 
 
-2. Lietuvos bankas, prižiūrėdamas, kaip prižiūrimi finansų rinkos dalyviai laikosi finansų rinką reglamentuojančiuose teisės aktuose nustatytų reikalavimų: ^858f51fc976d0a2167f250df
+2. Lietuvos bankas, prižiūrėdamas, kaip prižiūrimi finansų rinkos dalyviai laikosi finansų rinką reglamentuojančiuose teisės aktuose nustatytų reikalavimų: ^s-229eadbcbfa0446df4a368a8
 
 
-1) atlieka bankų, užsienio valstybių bankų filialų, įsteigtų Lietuvos Respublikoje, Centrinės kredito unijos, kredito unijų priežiūrą ir kitas Lietuvos Respublikos bankų įstatymo, Lietuvos Respublikos centrinės kredito unijos įstatymo ir Lietuvos Respublikos kredito unijų įstatymo Lietuvos bankui priskirtas funkcijas; ^2c44823df5027ea5677b9ee3
+1) atlieka bankų, užsienio valstybių bankų filialų, įsteigtų Lietuvos Respublikoje, Centrinės kredito unijos, kredito unijų priežiūrą ir kitas [[latest/TAR.B6B636C7384A|Lietuvos Respublikos bankų įstatymo]], [[latest/TAR.29EEB33AFCD0|Lietuvos Respublikos centrinės kredito unijos įstatymo]] ir [[latest/TAR.DE0B1FF26D01|Lietuvos Respublikos kredito unijų įstatymo]] Lietuvos bankui priskirtas funkcijas; ^s-1926e13acd1cc629a72bcf8a
 
 
-2) atlieka draudimo įmonių, perdraudimo įmonių, užsienio valstybių draudimo ir perdraudimo įmonių filialų, įsteigtų Lietuvos Respublikoje, draudimo brokerių įmonių ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitas Lietuvos Respublikos draudimo įstatymo Lietuvos bankui priskirtas funkcijas; ^e680746a692e6dd136a4423f
+2) atlieka draudimo įmonių, perdraudimo įmonių, užsienio valstybių draudimo ir perdraudimo įmonių filialų, įsteigtų Lietuvos Respublikoje, draudimo brokerių įmonių ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitas [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] Lietuvos bankui priskirtas funkcijas; ^s-c3f5f2712e80670912512f5d
 
 
-3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitų įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas; ^0e84c4e1913d220bc0103c8c
+3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitų įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas; ^s-c341b0b7d73aaaa4ac145992
 
 
-4) atlieka finansų maklerio įmonių, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, valdymo įmonių, investicinių bendrovių, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas; ^e250c6cc324d56ed64b0482e
+4) atlieka finansų maklerio įmonių, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, valdymo įmonių, investicinių bendrovių, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymo]], [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatymo]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo]], [[latest/TAR.DDA1BD559D9B|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo]], [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymo]], [[latest/TAR.103565D95E60|Lietuvos Respublikos profesinių pensijų kaupimo įstatymo]], [[latest/TAR.87E191E63EFD|Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo]] Lietuvos bankui priskirtas funkcijas; ^s-a6a11af3cb3a749fe23e1ee8
 
 
-5) vykdo mokėjimo įstaigų ir mokėjimo įstaigų tarpininkų priežiūrą ir atlieka kitas Lietuvos Respublikos mokėjimo įstaigų įstatymo Lietuvos bankui priskirtas funkcijas; ^6e0b736dd8271bd4611ec09e
+5) vykdo mokėjimo įstaigų ir mokėjimo įstaigų tarpininkų priežiūrą ir atlieka kitas [[latest/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatymo]] Lietuvos bankui priskirtas funkcijas; ^s-de18264593a81ac885b1c70a
 
 
-6) atlieka Lietuvos Respublikos finansų įstaigų įstatymo, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo, Lietuvos Respublikos mokėjimų įstatymo ir kitų įstatymų Lietuvos bankui priskirtas funkcijas; ^d7534fef555f575a9b64b16d
+6) atlieka [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymo]], [[latest/TAR.2C94E75C224B|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo]], [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]], [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymo]] ir kitų įstatymų Lietuvos bankui priskirtas funkcijas; ^s-6fbfbe8be7756518481657bd
 
 
-7) atlieka vartojimo kredito davėjų ir vartojimo kredito tarpininkų priežiūrą ir kitas Lietuvos Respublikos vartojimo kredito įstatymo Lietuvos bankui priskirtas funkcijas; ^53dec66afcf8853ec6333739
+7) atlieka vartojimo kredito davėjų ir vartojimo kredito tarpininkų priežiūrą ir kitas [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatymo]] Lietuvos bankui priskirtas funkcijas; ^s-7cf895bb26366d80ad9a9be7
 
 
-8) atlieka mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatorių priežiūrą ir kitas Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Lietuvos bankui priskirtas funkcijas. ^764d87edb78006307b19be59
+8) atlieka mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatorių priežiūrą ir kitas [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo]] Lietuvos bankui priskirtas funkcijas. ^s-c00daa0f2a34dcfb62bb53ec
 
 
-3. Lietuvos bankas, atlikdamas finansų rinkos priežiūrą, turi teisę: ^48bd64132ecf834c8bf20c15
+3. Lietuvos bankas, atlikdamas finansų rinkos priežiūrą, turi teisę: ^s-8fa81b57739da64bb0ba394d
 
 
-1) leisti teisės aktus ir rekomendacijas dėl prižiūrimų finansų rinkos dalyvių veiklos ir priežiūros; ^0d9d247ec328007e3ca0b8a4
+1) leisti teisės aktus ir rekomendacijas dėl prižiūrimų finansų rinkos dalyvių veiklos ir priežiūros; ^s-5348e54af07477ba6c626fe9
 
 
-2) gauti priežiūrai atlikti reikalingą informaciją iš valstybės institucijų, prižiūrimų finansų rinkos dalyvių ir kitų įmonių, įstaigų, organizacijų; ^9f84cb5fb10bfe86fa36a2ba
+2) gauti priežiūrai atlikti reikalingą informaciją iš valstybės institucijų, prižiūrimų finansų rinkos dalyvių ir kitų įmonių, įstaigų, organizacijų; ^s-e26c466f7107a4ecb1404326
 
 
-3) inspektuoti (tikrinti) prižiūrimus finansų rinkos dalyvius, o įstatymų nustatytais atvejais – ir kitus asmenis; ^f203e2e648107c6aa05abfaf
+3) inspektuoti (tikrinti) prižiūrimus finansų rinkos dalyvius, o įstatymų nustatytais atvejais – ir kitus asmenis; ^s-f2fecebbdb52ef201161e58c
 
 
-4) įstatymų nustatytais atvejais ir tvarka taikyti poveikio priemones prižiūrimiems finansų rinkos dalyviams ir kitiems asmenims; ^231e37e6309553b3101a02a0
+4) įstatymų nustatytais atvejais ir tvarka taikyti poveikio priemones prižiūrimiems finansų rinkos dalyviams ir kitiems asmenims; ^s-1eccb837b5ee25c72a55d466
 
 
-5) turėti kitokių teisių, nustatytų [[#^858f51fc976d0a2167f250df|šio straipsnio 2 dalyje]] nurodytuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose. ^d103590cc8286f18206ebb4f
+5) turėti kitokių teisių, nustatytų [[#^s-229eadbcbfa0446df4a368a8|šio straipsnio 2 dalyje]] nurodytuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose. ^s-66738984667337aa686b9f68
 
 
-4. Lietuvos bankas konsultuoja Lietuvos banko atliekamos priežiūros kompetencijos klausimais ir imasi kitų Lietuvos Respublikos viešojo administravimo įstatyme ir kituose teisės aktuose nustatytų prevencinių veiksmų, skirtų užkirsti kelią galimiems teisės aktų pažeidimams. ^f7b5c1dce08793622678e900
+4. Lietuvos bankas konsultuoja Lietuvos banko atliekamos priežiūros kompetencijos klausimais ir imasi kitų [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]] ir kituose teisės aktuose nustatytų prevencinių veiksmų, skirtų užkirsti kelią galimiems teisės aktų pažeidimams. ^s-ea1e6664d03bd08cd2042e73
 
 
-5. Lietuvos bankas, nustatęs faktus, liudijančius galimai nusikalstamą veiklą, apie juos praneša atitinkamoms teisėsaugos institucijoms. ^88d5937f1ff800465d75d58e
+5. Lietuvos bankas, nustatęs faktus, liudijančius galimai nusikalstamą veiklą, apie juos praneša atitinkamoms teisėsaugos institucijoms. ^s-a3fde5cd69ae6c352fe5a5db
 
 
 
-### 43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga
+### 43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga ^s-9a8bc9f77bdca2fd9f3169ad
 
 
 Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais, apsaugai taikomos šio įstatymo 19 straipsnio ir finansų rinką reglamentuojančių įstatymų nuostatos.
 
 
 
-### 44 straipsnis. Finansų rinkos priežiūros finansavimas
+### 44 straipsnis. Finansų rinkos priežiūros finansavimas ^s-4d41f1eec71ad6878c258e78
 
 
-1. Finansų rinkos priežiūra finansuojama iš prižiūrimų finansų rinkos dalyvių įmokų Lietuvos bankui ir kitomis Lietuvos banko lėšomis. ^cb8688483a24463d34b3d50d
+1. Finansų rinkos priežiūra finansuojama iš prižiūrimų finansų rinkos dalyvių įmokų Lietuvos bankui ir kitomis Lietuvos banko lėšomis. ^s-0b94bee64541851dcc6ea7e7
 
 
-2. Prižiūrimi finansų rinkos dalyviai, kurie privalo mokėti įmokas, jų mokamų įmokų bazė ir maksimalūs įmokų dydžiai nustatyti šio įstatymo 1 priede. Atitinkamų metų įmokų dydžius nustato Lietuvos bankas, pasikonsultavęs su prižiūrimais finansų rinkos dalyviais. Nustatant įmokų dydį, atsižvelgiama į Lietuvos banko atliekamas funkcijas ir patiriamas išlaidas, susijusias su prižiūrimais finansų rinkos dalyviais, taip pat į prižiūrimų finansų rinkos dalyvių veiklos mastą ir jų prisiimamą riziką. Detalią įmokų apskaičiavimo metodiką ir mokėjimo tvarką nustato Lietuvos banko priimti teisės aktai. ^03ddc0239f26e9e98ce83ae7
+2. Prižiūrimi finansų rinkos dalyviai, kurie privalo mokėti įmokas, jų mokamų įmokų bazė ir maksimalūs įmokų dydžiai nustatyti šio įstatymo 1 priede. Atitinkamų metų įmokų dydžius nustato Lietuvos bankas, pasikonsultavęs su prižiūrimais finansų rinkos dalyviais. Nustatant įmokų dydį, atsižvelgiama į Lietuvos banko atliekamas funkcijas ir patiriamas išlaidas, susijusias su prižiūrimais finansų rinkos dalyviais, taip pat į prižiūrimų finansų rinkos dalyvių veiklos mastą ir jų prisiimamą riziką. Detalią įmokų apskaičiavimo metodiką ir mokėjimo tvarką nustato Lietuvos banko priimti teisės aktai. ^s-867b70f8322d6e7cb833c90e
 
 
-3. Jeigu atitinkamais metais prižiūrimų finansų rinkos dalyvių sumokėtų įmokų suma viršija Lietuvos banko tiems metams planuotas išlaidas finansų rinkos priežiūrai atlikti, Lietuvos bankas proporcingai sumažina kitų metų planuojamas įmokas veikiantiems prižiūrimiems finansų rinkos dalyviams, o perviršį panaudoja kitų metų finansų rinkos priežiūrai finansuoti. ^6bdc8470261570e06e2c80c3
+3. Jeigu atitinkamais metais prižiūrimų finansų rinkos dalyvių sumokėtų įmokų suma viršija Lietuvos banko tiems metams planuotas išlaidas finansų rinkos priežiūrai atlikti, Lietuvos bankas proporcingai sumažina kitų metų planuojamas įmokas veikiantiems prižiūrimiems finansų rinkos dalyviams, o perviršį panaudoja kitų metų finansų rinkos priežiūrai finansuoti. ^s-a8da7b592dfdfcaf20f5e82a
 
 
-4. Prižiūrimi finansų rinkos dalyviai privalo pervesti įmokas į Lietuvos banko sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Už praleistą terminą sumokėti įmokas prižiūrimi finansų rinkos dalyviai į Lietuvos banko sąskaitą privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą. ^3fb94b46fce2fd956a11ab46
+4. Prižiūrimi finansų rinkos dalyviai privalo pervesti įmokas į Lietuvos banko sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Už praleistą terminą sumokėti įmokas prižiūrimi finansų rinkos dalyviai į Lietuvos banko sąskaitą privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą. ^s-02b352077c45d80918008e39
 
 
-5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^f796b9d24185319f7698cf39
-
-
-
-### 45 straipsnis. Lietuvos banko ir Lietuvos banko tarnautojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija Lietuvos banko tarnautojams dėl išlaidų, susijusių su jiems iškeltomis bylomis ar pareikštais ieškiniais
-
-
-1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų kaltės. ^893ce8692c8f3a77e4f18f3b
-
-
-2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltų baudžiamųjų ar administracinių teisės pažeidimų bylų ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų, arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba. ^61b830e77c09d5d291494919
-
-
-3. Lietuvos banko tarnautojas ar jame dirbęs tarnautojas privalo grąžinti Lietuvos banko jam išmokėtą [[#^61b830e77c09d5d291494919|šio straipsnio 2 dalyje]] nustatytą kompensaciją šiais atvejais: ^97dfc4f054cd7601869f9d46
-
-
-1) kai jis, išnagrinėjus baudžiamąją ar administracinių teisės pažeidimų bylą, pripažintas kaltu padaręs nusikalstamą veiką ar administracinį teisės pažeidimą arba teismo sprendimu pripažintas kaltu dėl žalos padarymo; ^652bbdc282da5f7b0d55d0e5
-
-
-2) kai jo turėtas ir teismo iš kito asmens jam priteistas išlaidas sumoka asmuo, iš kurio priteistos išlaidos. Jeigu jam sumokėtų teismo priteistų išlaidų suma mažesnė už kompensaciją, kompensacija grąžinama tokio dydžio, kokią sumą sumoka asmuo, iš kurio priteistos išlaidos. ^c7235a39917231f6c9bdebd7
+5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-0d964a300e3d5a6437bf0bac
 
 
 
-### 46 straipsnis. Bendradarbiavimas su kitų valstybių finansų rinkos priežiūros institucijomis
+### 45 straipsnis. Lietuvos banko ir Lietuvos banko tarnautojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija Lietuvos banko tarnautojams dėl išlaidų, susijusių su jiems iškeltomis bylomis ar pareikštais ieškiniais ^s-7de249a85b931f49f8382392
+
+
+1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų kaltės. ^s-0637a7a7c10eef330808f6fb
+
+
+2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltų baudžiamųjų ar administracinių teisės pažeidimų bylų ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų, arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba. ^s-1e3b71a1c3cc6ea9af08a4ff
+
+
+3. Lietuvos banko tarnautojas ar jame dirbęs tarnautojas privalo grąžinti Lietuvos banko jam išmokėtą [[#^s-1e3b71a1c3cc6ea9af08a4ff|šio straipsnio 2 dalyje]] nustatytą kompensaciją šiais atvejais: ^s-805dd8a0404d5b6e1396eee9
+
+
+1) kai jis, išnagrinėjus baudžiamąją ar administracinių teisės pažeidimų bylą, pripažintas kaltu padaręs nusikalstamą veiką ar administracinį teisės pažeidimą arba teismo sprendimu pripažintas kaltu dėl žalos padarymo; ^s-02cf95b65509b894bfabe10f
+
+
+2) kai jo turėtas ir teismo iš kito asmens jam priteistas išlaidas sumoka asmuo, iš kurio priteistos išlaidos. Jeigu jam sumokėtų teismo priteistų išlaidų suma mažesnė už kompensaciją, kompensacija grąžinama tokio dydžio, kokią sumą sumoka asmuo, iš kurio priteistos išlaidos. ^s-7bb3ca9b3c38a63f7c5c0005
+
+
+
+### 46 straipsnis. Bendradarbiavimas su kitų valstybių finansų rinkos priežiūros institucijomis ^s-dc8a44a96a62275a2b6578b6
 
 
 Lietuvos bankas turi teisę sudaryti sutartis su kitų valstybių finansų rinkos priežiūros institucijomis, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, Europos vertybinių popierių ir rinkų institucija ir kitomis Lietuvos Respublikos ir užsienio valstybių institucijomis dėl bendradarbiavimo finansų rinkos priežiūros srityje.“
 
 
 
-### 8 straipsnis. Įstatymo papildymas septintuoju1 skirsniu
+### 8 straipsnis. Įstatymo papildymas septintuoju1 skirsniu ^s-43b72a5319fcdef44c033baa
 
 
 Papildyti Įstatymą septintuoju1 skirsniu:
@@ -279,101 +284,101 @@ Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka
 
 
 
-### 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka
+### 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka ^s-2f29f9efb7b49a0951a44bb5
 
 
-1. Lietuvos bankas nagrinėja [[#^ff77c02e948bc8842557208b|šio straipsnio 2 dalyje]] nurodytų vartotojų (toliau – vartotojai) ginčus su draudimo, finansinių paslaugų ir (arba) papildomų investicinių paslaugų teikėjais, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, taip pat iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“. ^2f8da08430707473f3a24376
+1. Lietuvos bankas nagrinėja [[#^s-d2ad840e2cff6307e70ea01a|šio straipsnio 2 dalyje]] nurodytų vartotojų (toliau – vartotojai) ginčus su draudimo, finansinių paslaugų ir (arba) papildomų investicinių paslaugų teikėjais, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, taip pat iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“. ^s-0be43b2f26670c340946c181
 
 
-2. Šiame straipsnyje vartotojas yra fizinis asmuo: ^ff77c02e948bc8842557208b
+2. Šiame straipsnyje vartotojas yra fizinis asmuo: ^s-d2ad840e2cff6307e70ea01a
 
 
-1) sudarantis su finansų rinkos dalyviu finansinių paslaugų sutartį, išskyrus profesionaliuosius klientus, asmeniniams, šeimos ar namų ūkio poreikiams tenkinti; ^b5cb019c371f14359937440f
+1) sudarantis su finansų rinkos dalyviu finansinių paslaugų sutartį, išskyrus profesionaliuosius klientus, asmeniniams, šeimos ar namų ūkio poreikiams tenkinti; ^s-c344557aea7f1dff31530a51
 
 
-2) apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ar kitas asmuo, jeigu finansinės paslaugos yra skirtos jų asmeniniams, šeimos ar namų ūkio poreikiams, o finansų rinkos dalyvis, sudarydamas sutartį, žinojo ar privalėjo žinoti apie finansinių paslaugų paskirtį; ^37e0d4e746677ddec3b9e04b
+2) apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ar kitas asmuo, jeigu finansinės paslaugos yra skirtos jų asmeniniams, šeimos ar namų ūkio poreikiams, o finansų rinkos dalyvis, sudarydamas sutartį, žinojo ar privalėjo žinoti apie finansinių paslaugų paskirtį; ^s-8bbbb688d372bca5403cbc7e
 
 
-3) kurio teisės ir pareigos finansų rinkos dalyvio atžvilgiu susijusios su finansinių paslaugų sutartimi, nepaisant to, kad jis nėra finansinių paslaugų sutarties šalis, jeigu esant santykių su finansų rinkos dalyviu toks asmuo nesiekia tikslų, susijusių su verslu ar profesine veikla. ^9f1db9c21c189f861308521e
+3) kurio teisės ir pareigos finansų rinkos dalyvio atžvilgiu susijusios su finansinių paslaugų sutartimi, nepaisant to, kad jis nėra finansinių paslaugų sutarties šalis, jeigu esant santykių su finansų rinkos dalyviu toks asmuo nesiekia tikslų, susijusių su verslu ar profesine veikla. ^s-9dd03b9ba8664c09cdfeb31a
 
 
-3. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo sutartinių ar susijusių santykių teises ar teisėtus interesus, turi teisę kreiptis į teismą arba į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą. ^d403cf9ca0a10a0984b883f8
+3. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo sutartinių ar susijusių santykių teises ar teisėtus interesus, turi teisę kreiptis į teismą arba į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą. ^s-635214405d7e4de7f6a44915
 
 
-4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo sutartinių ar susijusių santykių teises ar teisėtus interesus, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti vartotojo kreipimąsi ir pateikti vartotojui motyvuotą atsakymą dėl jo reikalavimo ne vėliau kaip per 30 kalendorinių dienų nuo vartotojo kreipimosi gavimo dienos, jei kiti įstatymai nenustato kitaip. Finansų rinkos dalyviai vartotojų kreipimusis nagrinėja neatlygintinai. ^add04b2a02c0c3bc8f5e883f
+4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo sutartinių ar susijusių santykių teises ar teisėtus interesus, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti vartotojo kreipimąsi ir pateikti vartotojui motyvuotą atsakymą dėl jo reikalavimo ne vėliau kaip per 30 kalendorinių dienų nuo vartotojo kreipimosi gavimo dienos, jei kiti įstatymai nenustato kitaip. Finansų rinkos dalyviai vartotojų kreipimusis nagrinėja neatlygintinai. ^s-d3f0caf3a34f8267d408a8ac
 
 
-5. Vartotojas, kurio finansų rinkos dalyvio atsakymas netenkina, turi teisę dėl to paties ginčo dalyko kreiptis į Lietuvos banką per 3 mėnesius nuo jį netenkinančio finansų rinkos dalyvio atsakymo gavimo dienos. Jeigu finansų rinkos dalyvis per [[#^add04b2a02c0c3bc8f5e883f|šio straipsnio 4 dalyje]] nurodytą terminą vartotojui neatsako, vartotojas turi teisę kreiptis į Lietuvos banką dėl ginčo nagrinėjimo per 3 mėnesius nuo šio termino pabaigos. Vartotojo kreipimosi į Lietuvos banką formos ir turinio detalius reikalavimus nustato Lietuvos banko valdyba. ^19a442c64cb73fdeb1051358
+5. Vartotojas, kurio finansų rinkos dalyvio atsakymas netenkina, turi teisę dėl to paties ginčo dalyko kreiptis į Lietuvos banką per 3 mėnesius nuo jį netenkinančio finansų rinkos dalyvio atsakymo gavimo dienos. Jeigu finansų rinkos dalyvis per [[#^s-d3f0caf3a34f8267d408a8ac|šio straipsnio 4 dalyje]] nurodytą terminą vartotojui neatsako, vartotojas turi teisę kreiptis į Lietuvos banką dėl ginčo nagrinėjimo per 3 mėnesius nuo šio termino pabaigos. Vartotojo kreipimosi į Lietuvos banką formos ir turinio detalius reikalavimus nustato Lietuvos banko valdyba. ^s-7b7cbfdc785c5a604be5696f
 
 
-6. Lietuvos bankas vartotojų ginčus su finansų rinkos dalyviais nagrinėja neatlygintinai. ^047c43f3056546a2782df9f1
+6. Lietuvos bankas vartotojų ginčus su finansų rinkos dalyviais nagrinėja neatlygintinai. ^s-51f4af20eb0a472ffcf5bfcb
 
 
-7. Lietuvos bankas atsisako nagrinėti vartotojo ginčą su finansų rinkos dalyviu arba nutraukia ginčo nagrinėjimą, jeigu: ^b4beff509f6a065bcedb90e8
+7. Lietuvos bankas atsisako nagrinėti vartotojo ginčą su finansų rinkos dalyviu arba nutraukia ginčo nagrinėjimą, jeigu: ^s-8426084fd73bb0baeb8b9955
 
 
-1) jis neįgaliotas priimti sprendimo dėl vartotojo kreipimesi nurodyto reikalavimo; ^1fd470c0c7ffee10cb1e4006
+1) jis neįgaliotas priimti sprendimo dėl vartotojo kreipimesi nurodyto reikalavimo; ^s-f8b16f4f5cf80d8b77188cf3
 
 
-2) tarp vartotojo ir finansų rinkos dalyvio yra sudarytas susitarimas perduoti ginčo sprendimą arbitražui, kuriame ginčas būtų nagrinėjamas tarpininkavimo, taikinimo ar kitais alternatyviais ginčų nagrinėjimo būdais; ^fc82d326e83583654f5cc905
+2) tarp vartotojo ir finansų rinkos dalyvio yra sudarytas susitarimas perduoti ginčo sprendimą arbitražui, kuriame ginčas būtų nagrinėjamas tarpininkavimo, taikinimo ar kitais alternatyviais ginčų nagrinėjimo būdais; ^s-4df63d4e50e1beadbcfdfc07
 
 
-3) ginčas yra nagrinėjamas (išnagrinėtas) arbitraže taikant tarpininkavimo, taikinimo ar kitą alternatyvų ginčų nagrinėjimo būdą; ^32cb74c2db8c1ef598377a2d
+3) ginčas yra nagrinėjamas (išnagrinėtas) arbitraže taikant tarpininkavimo, taikinimo ar kitą alternatyvų ginčų nagrinėjimo būdą; ^s-e50d21e347e1a192a3bd290b
 
 
-4) ginčas yra nagrinėjamas (išnagrinėtas) Lietuvos banke ar teisme; ^7c77ee7b711921d56017a177
+4) ginčas yra nagrinėjamas (išnagrinėtas) Lietuvos banke ar teisme; ^s-a5c7bdc593ed3d30e7141aab
 
 
-5) vartotojo vardu kreipimąsi padavė neįgaliotas asmuo; ^182626d6eafaef8faea2ac30
+5) vartotojo vardu kreipimąsi padavė neįgaliotas asmuo; ^s-be8db35c7fea5b7bcbb5068f
 
 
-6) vartotojas kreipėsi į Lietuvos banką vėliau negu per [[#^19a442c64cb73fdeb1051358|šio straipsnio 5 dalyje]] nurodytą terminą arba prieš tai nesikreipė į finansų rinkos dalyvį [[#^add04b2a02c0c3bc8f5e883f|šio straipsnio 4 dalyje]] nustatyta tvarka; ^16bd2aec560fc28a1054ffff
+6) vartotojas kreipėsi į Lietuvos banką vėliau negu per [[#^s-7b7cbfdc785c5a604be5696f|šio straipsnio 5 dalyje]] nurodytą terminą arba prieš tai nesikreipė į finansų rinkos dalyvį [[#^s-d3f0caf3a34f8267d408a8ac|šio straipsnio 4 dalyje]] nustatyta tvarka; ^s-435eec7c72f6844d9e5983a1
 
 
-7) vartotojo kreipimasis neatitinka Lietuvos banko priimtuose teisės aktuose nustatytų formos ir turinio reikalavimų ir tokie trūkumai nebuvo pašalinti per Lietuvos banko nurodytą terminą; ^d706a697bacc0e060299c5fa
+7) vartotojo kreipimasis neatitinka Lietuvos banko priimtuose teisės aktuose nustatytų formos ir turinio reikalavimų ir tokie trūkumai nebuvo pašalinti per Lietuvos banko nurodytą terminą; ^s-e2cab84040dbc310bd72aa9c
 
 
-8) kitais įstatymuose numatytais atvejais. ^3e2e52ee2fa05c9b4619b0a2
+8) kitais įstatymuose numatytais atvejais. ^s-1f980a389d31e434852000e7
 
 
-8. Lietuvos bankas vartotojų ir finansų rinkos dalyvių ginčus paprastai nagrinėja rašytinio proceso tvarka pagal ginčo šalių jam pateiktus įrodymus. ^df60c97818a7f73f25e8a7d9
+8. Lietuvos bankas vartotojų ir finansų rinkos dalyvių ginčus paprastai nagrinėja rašytinio proceso tvarka pagal ginčo šalių jam pateiktus įrodymus. ^s-d180b5a9cad69359b42cde89
 
 
-9. Vartotojo ginčas su finansų rinkos dalyviu turi būti išnagrinėtas per 2 mėnesius nuo vartotojo kreipimosi, atitinkančio kreipimuisi keliamus reikalavimus, gavimo Lietuvos banke dienos. Ypatingais atvejais, atsižvelgdamas į ginčo sudėtingumą, Lietuvos bankas turi teisę pratęsti šį terminą, bet ne daugiau kaip papildomais 2 mėnesiais. ^7f6f91148b13518fc38bdf37
+9. Vartotojo ginčas su finansų rinkos dalyviu turi būti išnagrinėtas per 2 mėnesius nuo vartotojo kreipimosi, atitinkančio kreipimuisi keliamus reikalavimus, gavimo Lietuvos banke dienos. Ypatingais atvejais, atsižvelgdamas į ginčo sudėtingumą, Lietuvos bankas turi teisę pratęsti šį terminą, bet ne daugiau kaip papildomais 2 mėnesiais. ^s-e6431895889eae749dfa7473
 
 
-10. Ginčo nagrinėjimo Lietuvos banke sustabdymui ir nutraukimui mutatis mutandis taikomi atitinkamai Lietuvos Respublikos civilinio proceso kodekso 163, 164, 166, 167, 293 ir 294 straipsniai. ^77166433423b773ed7a64215
+10. Ginčo nagrinėjimo Lietuvos banke sustabdymui ir nutraukimui mutatis mutandis taikomi atitinkamai Lietuvos Respublikos civilinio proceso kodekso 163, 164, 166, 167, 293 ir 294 straipsniai. ^s-8ad206069ce3ef392462bbb6
 
 
-11. Lietuvos bankas privalo tarpininkauti, kad ginčo šalys pasiektų abi šalis tenkinantį susitarimą, jei, atsižvelgiant į ginčo aplinkybes, taikus susitarimas yra įmanomas. Jei tokio susitarimo pasiekti nepavyksta, Lietuvos bankas priima sprendimą dėl ginčo esmės. Dėl ginčo esmės Lietuvos bankas priima vieną iš šių sprendimų: ^e1ceb6c516cabfd9c325550a
+11. Lietuvos bankas privalo tarpininkauti, kad ginčo šalys pasiektų abi šalis tenkinantį susitarimą, jei, atsižvelgiant į ginčo aplinkybes, taikus susitarimas yra įmanomas. Jei tokio susitarimo pasiekti nepavyksta, Lietuvos bankas priima sprendimą dėl ginčo esmės. Dėl ginčo esmės Lietuvos bankas priima vieną iš šių sprendimų: ^s-1efe220b47caf85dd72d76e9
 
 
-1) patenkinti vartotojo reikalavimus; ^b7b6f451b758b573e0322443
+1) patenkinti vartotojo reikalavimus; ^s-301c7e89716b0086d684727d
 
 
-2) iš dalies patenkinti vartotojo reikalavimus; ^360859db8736d40b1905cb2c
+2) iš dalies patenkinti vartotojo reikalavimus; ^s-57faae6029f0036baaa31c67
 
 
-3) atmesti vartotojo reikalavimus. ^81410666f3fff4b4d21fd0b6
+3) atmesti vartotojo reikalavimus. ^s-2bcd43fdbc013018aee617b3
 
 
-12. Lietuvos bankas, priimdamas sprendimą, esant galimybei pasisako ir dėl vartotojui atlygintinos žalos dydžio. Lietuvos bankas, priimdamas sprendimą, kuriuo visiškai arba iš dalies patenkinami vartotojo reikalavimai, nustato terminą, per kurį finansų rinkos dalyviui rekomenduojama imtis sprendime nurodytų veiksmų. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų. ^68cc0941418016b141d6f042
+12. Lietuvos bankas, priimdamas sprendimą, esant galimybei pasisako ir dėl vartotojui atlygintinos žalos dydžio. Lietuvos bankas, priimdamas sprendimą, kuriuo visiškai arba iš dalies patenkinami vartotojo reikalavimai, nustato terminą, per kurį finansų rinkos dalyviui rekomenduojama imtis sprendime nurodytų veiksmų. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų. ^s-8bd08877e20cb9752c859f10
 
 
-13. Lietuvos banko sprendimas yra rekomendacinio pobūdžio ir teismui neskundžiamas. ^c38cdf6882b36422ce7cb037
+13. Lietuvos banko sprendimas yra rekomendacinio pobūdžio ir teismui neskundžiamas. ^s-ac6106da94246e148354483a
 
 
-14. Lietuvos banko išnagrinėtų ginčų bylų medžiaga laikoma konfidencialia informacija ir tretiesiems asmenims neteikiama, išskyrus įstatymų nustatytus atvejus. Lietuvos bankas skelbia apibendrintą informaciją apie išnagrinėtų ginčų pobūdį, priimtus sprendimus ir jų vykdymo būklę. ^7566caaacc748ab91d4b209b
+14. Lietuvos banko išnagrinėtų ginčų bylų medžiaga laikoma konfidencialia informacija ir tretiesiems asmenims neteikiama, išskyrus įstatymų nustatytus atvejus. Lietuvos bankas skelbia apibendrintą informaciją apie išnagrinėtų ginčų pobūdį, priimtus sprendimus ir jų vykdymo būklę. ^s-3f1a5ab066b1338915d11fe1
 
 
-15. Vartotojo kreipimasis į Lietuvos banką laikantis šiame straipsnyje nustatytų reikalavimų dėl ginčo išnagrinėjimo sustabdo ieškinio senaties terminą. ^c528a231dab055699b861316
+15. Vartotojo kreipimasis į Lietuvos banką laikantis šiame straipsnyje nustatytų reikalavimų dėl ginčo išnagrinėjimo sustabdo ieškinio senaties terminą. ^s-967663152005e71bc78652df
 
 
-16. Ginčo šalių teises ir pareigas bei ginčo nagrinėjimo procesą, kiek jų nereglamentuoja šis įstatymas, reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas. Detalią ginčų nagrinėjimo tvarką nustato Lietuvos banko teisės aktai.“ ^1a3304ac27b843256f577848
+16. Ginčo šalių teises ir pareigas bei ginčo nagrinėjimo procesą, kiek jų nereglamentuoja šis įstatymas, reglamentuoja [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatymas]]. Detalią ginčų nagrinėjimo tvarką nustato Lietuvos banko teisės aktai.“ ^s-febd9de676dc76e2e8e1aff6
 
 
 
-### 9 straipsnis. 51 straipsnio pakeitimas
+### 9 straipsnis. 51 straipsnio pakeitimas ^s-e21896efc6688c05ecbe650d
 
 
 51 straipsnyje vietoj žodžių „kredito įstaigų“ įrašyti žodžius „finansų rinkos“ ir šį straipsnį išdėstyti taip:
@@ -387,7 +392,7 @@ Lietuvos bankas viešai skelbia ir leidžia atskiru leidiniu metinę ataskaitą,
 
 
 
-### 10 straipsnis. 52 straipsnio pakeitimas
+### 10 straipsnis. 52 straipsnio pakeitimas ^s-f12189e6c75206a0bf9fc2e8
 
 
 52 straipsnyje vietoj žodžių „funkcijų vykdymą ir bankų sistemos būklę“ įrašyti žodžius „ir funkcijų vykdymą“ ir šį straipsnį išdėstyti taip:
@@ -401,7 +406,7 @@ Lietuvos banko valdybos pirmininkas du kartus per metus teikia pranešimus Seimu
 
 
 
-### 11 straipsnis. Įstatymo papildymas nauju 1 priedu
+### 11 straipsnis. Įstatymo papildymas nauju 1 priedu ^s-8c1c4cde0bbd4ba76f008626
 
 
 Papildyti Įstatymą nauju 1 priedu:
@@ -409,7 +414,7 @@ Papildyti Įstatymą nauju 1 priedu:
 
 
 „Lietuvos Respublikos
-Lietuvos banko įstatymo
+[[latest/TAR.1B4D7B687895|Lietuvos banko įstatymo]]
 1 priedas
 
 FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
@@ -535,7 +540,7 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ
 
 
 
-### 12 straipsnis. Įstatymo 2 priedo pakeitimas
+### 12 straipsnis. Įstatymo 2 priedo pakeitimas ^s-ecf975e0dbb2b6789f83945c
 
 
 Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
@@ -543,33 +548,33 @@ Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
 
 
 „Lietuvos Respublikos
-Lietuvos banko įstatymo
+[[latest/TAR.1B4D7B687895|Lietuvos banko įstatymo]]
 2 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). ^4038efe52c4a7fff00d5a205
+1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). ^s-5deb901af0ff03254587d0e6
 
 
-2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). ^d16ccd649d1138e44122aa89
+2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). ^s-a54bcf5ad43cf8a5b6b90ed8
 
 
-3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 27). ^1ce915b421d0327bb77b39ab
+3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 27). ^s-96b07d24da31800f5622384e
 
 
-4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30). ^57f999636d785251bfca55e9
+4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30). ^s-001cb04bdd8e7ce7ae3838fe
 
 
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1). ^f49213f289d8799e42407e02
+5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1). ^s-b33ec661981665156ad63c02
 
 
-6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).“ ^e98ae48aaff8082cb5f953f9
+6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).“ ^s-13dc6c83d2eb43ca588757ac
 
 
 
-### 13 straipsnis. Įstatymo įsigaliojimas
+### 13 straipsnis. Įstatymo įsigaliojimas ^s-7f5b833b3c9b8f6ce5ac40f8
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

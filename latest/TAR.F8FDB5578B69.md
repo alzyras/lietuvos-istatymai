@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F8FDB5578B69"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-30"
 latest_path: "latest/TAR.F8FDB5578B69.md"
 latest_sha256: "f4321fb62fb31dd9e7cf81216b85380de5e6719ce1b8e4b8121cfed660b11859"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F8FDB5578B69]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F8FDB5578B69.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F8FDB5578B69
+- Ryšiai: [[Ryšiai/TAR.F8FDB5578B69|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 1 dalies pakeitimas ^s-0826511b04851ca6c6aea54b
 
 
 Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 33 straipsnio pakeitimas
+### 2 straipsnis. 33 straipsnio pakeitimas ^s-38b84f0e72e20e637e429943
 
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
@@ -57,20 +62,20 @@ Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos įstatymų
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-4d72cecfb6b53fd52083399a
 
 
-1. Šio įstatymo [[#1 straipsnis. 22 straipsnio 1 dalies pakeitimas|1 straipsnis]] įsigalioja 2009 m. rugpjūčio 1 d. ^8303d3c524a9f070c08a0a8a
+1. Šio įstatymo [[#^s-0826511b04851ca6c6aea54b|1 straipsnis]] įsigalioja 2009 m. rugpjūčio 1 d. ^s-f3cedc02e73e0a33e39ead7b
 
 
-2. Šio įstatymo [[#2 straipsnis. 33 straipsnio pakeitimas|2 straipsnis]] įsigalioja 2013 m. sausio 1 d. ^1375879dcc39e731b4effd39
+2. Šio įstatymo [[#^s-38b84f0e72e20e637e429943|2 straipsnis]] įsigalioja 2013 m. sausio 1 d. ^s-9df9e4b81cbbe1e204d200d5
 
 
 
-### 4 straipsnis. Baigiamosios nuostatos
+### 4 straipsnis. Baigiamosios nuostatos ^s-a2732b663bc6fc26c3a137ba
 
 
-Šio įstatymo [[#1 straipsnis. 22 straipsnio 1 dalies pakeitimas|1 straipsnyje]] nurodytos nedarbo socialinio draudimo įmokos pervedamos už laikotarpį iki 2012 m. gruodžio 31 d.
+Šio įstatymo [[#^s-0826511b04851ca6c6aea54b|1 straipsnyje]] nurodytos nedarbo socialinio draudimo įmokos pervedamos už laikotarpį iki 2012 m. gruodžio 31 d.
 
 
 

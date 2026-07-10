@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F57A0157B594"
 pavadinimas: "Lietuvos Respublikos centrinės kredito unijos įstatymo 2 straipsnio ir priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos centrinės kredito unijos įstatymo 2 straipsnio ir priedo pakeitimo įstatymas"
+  - "centrinės kredito unijos įstatymo 2 straipsnio ir priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.F57A0157B594.md"
 latest_sha256: "cec50aa63443c5aad71beca5a7fc56667342e0b87a97a5d22792e69ab169f0db"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F57A0157B594]]"
 ---
 # Lietuvos Respublikos centrinės kredito unijos įstatymo 2 straipsnio ir priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F57A0157B594.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F57A0157B594
+- Ryšiai: [[Ryšiai/TAR.F57A0157B594|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 5 dalies 3 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 5 dalies 3 punkto pakeitimas ^s-464b0860ad395b34ddd2939e
 
 
 Pakeisti 2 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
@@ -45,14 +50,14 @@ Pakeisti 2 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo priedo 2 punkto pripažinimas netekusiu galios
+### 2 straipsnis. Įstatymo priedo 2 punkto pripažinimas netekusiu galios ^s-cdb5a9314b2d04a9f5f51885
 
 
 Įstatymo priedo 2 punktą pripažinti netekusiu galios.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ec3a67c81c88cb3002e70dc1
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

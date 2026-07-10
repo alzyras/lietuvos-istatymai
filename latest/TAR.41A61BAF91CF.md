@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.41A61BAF91CF"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomo protokolo dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomo protokolo dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomo protokolo dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-03-07"
 latest_path: "latest/TAR.41A61BAF91CF.md"
 latest_sha256: "8b7510dec030244840372f2df8332d6591277d51a62d4faadab4a6d289a54b19"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.41A61BAF91CF]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomo protokolo dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.41A61BAF91CF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.41A61BAF91CF
+- Ryšiai: [[Ryšiai/TAR.41A61BAF91CF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Papildomo protokolo ratifikavimas
+### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-a0a388c54990425252ccd806
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 1 d. dekretą Nr. 301, ratifikuoja 2001 m. lapkričio 8 d. Strasbūre priimtą Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomą protokolą dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų.

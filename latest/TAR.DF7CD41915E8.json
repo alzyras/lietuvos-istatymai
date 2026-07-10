@@ -11,7 +11,7 @@
   "latest_revision": "2001-01-01",
   "latest_sha256": "c52a225ae2f43a1f80eb236308b4387fc777a6ef7632c82fd66a61cee13cc1de",
   "metadata_path": "latest/TAR.DF7CD41915E8.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 5, 12, 16, 22, 29, 31, 42 straipsnių pakeitimo ir papildymo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

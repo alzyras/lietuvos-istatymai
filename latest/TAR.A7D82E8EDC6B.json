@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.A7D82E8EDC6B.md",
   "latest_revision": "2002-01-01",
-  "latest_sha256": "39444bf65b2a152c60971f6a5abb5883cc70803234bbbf374958c23c07c971cc",
+  "latest_sha256": "c8783b786daefea6a6fdf1472f06eda015571b30faba2a1d47d1f5b8595ae4c6",
   "metadata_path": "latest/TAR.A7D82E8EDC6B.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:34Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

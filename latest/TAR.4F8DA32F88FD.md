@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F8DA32F88FD"
 pavadinimas: "Lietuvos Respublikos bausmių vykdymo kodekso 39 ir 147 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bausmių vykdymo kodekso 39 ir 147 straipsnių pakeitimo įstatymas"
+  - "bausmių vykdymo kodekso 39 ir 147 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.4F8DA32F88FD.md"
 latest_sha256: "057ebac623f8396988b5004c07ea114a4b0ddb6af907e3c174bdfb40b2e83b57"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F8DA32F88FD]]"
 ---
 # Lietuvos Respublikos bausmių vykdymo kodekso 39 ir 147 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F8DA32F88FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F8DA32F88FD
+- Ryšiai: [[Ryšiai/TAR.4F8DA32F88FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 39 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 39 straipsnio 2 dalies pakeitimas ^s-fa3362295d6e1b5590b839b4
 
 
 39 straipsnio 2 dalyje išbraukti žodžius „ir (ar) apskrities viršininko administracija“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 147 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 147 straipsnio 3 dalies pakeitimas ^s-b0602595947fdb1eeeba4010
 
 
 147 straipsnio 3 dalyje vietoj žodžių „apskričių viršininkai“ įrašyti žodžius „savivaldybės, kurių teritorijoje yra pataisos įstaigos“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-c54d87c7c3f0a5549ce5c232
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

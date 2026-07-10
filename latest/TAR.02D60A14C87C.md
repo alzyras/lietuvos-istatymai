@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.02D60A14C87C"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 27 straipsnių pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.02D60A14C87C.md"
 latest_sha256: "624204322f0b4679ffbb090ffe405c0e0edc84bedbdefae3ed6293659eae3f04"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.02D60A14C87C]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.02D60A14C87C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C
+- Ryšiai: [[Ryšiai/TAR.02D60A14C87C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies 25 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 1 dalies 25 punkto pakeitimas ^s-fde25e824c1e69e671eea68f
 
 
 Pakeisti 17 straipsnio 1 dalies 25 punktą ir jį išdėstyti taip:
@@ -41,13 +46,13 @@ Pakeisti 17 straipsnio 1 dalies 25 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 27 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 27 straipsnio 4 dalies pakeitimas ^s-e409012d8b6304dd90f757ba
 
 
 Pakeisti 27 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Ūkininkas ir jo partneriai, per mokestinį laikotarpį gavę pajamų už ūkininko ūkyje, įregistruotame Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisant šio straipsnio 3 dalyje nustatytų išimčių.“
+„4. Ūkininkas ir jo partneriai, per mokestinį laikotarpį gavę pajamų už ūkininko ūkyje, įregistruotame [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka, vykdomą žemės ūkio veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisant šio straipsnio 3 dalyje nustatytų išimčių.“
 
 
 

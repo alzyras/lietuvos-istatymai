@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF0CB93BAADD"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 15 skyriaus pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 15 skyriaus pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 15 skyriaus pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-09-01"
 latest_path: "latest/TAR.AF0CB93BAADD.md"
 latest_sha256: "07ea7458c9b6c9f6c55f0d500b5a2a50c55a2c4ea4a04fe9e040cf1c43c30787"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF0CB93BAADD]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 15 skyriaus pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF0CB93BAADD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF0CB93BAADD
+- Ryšiai: [[Ryšiai/TAR.AF0CB93BAADD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio 15 skyriaus pirmojo skirsnio antrosios pastraipos pakeitimas
+### 1 straipsnis. Įstatymo priedėlio 15 skyriaus pirmojo skirsnio antrosios pastraipos pakeitimas ^s-f1123c150cc91ba5fe447eaa
 
 
 Pakeisti Įstatymo priedėlio 15 skyriaus pirmojo skirsnio antrąją pastraipą ir ją išdėstyti taip:
@@ -46,7 +51,7 @@ Pakeisti Įstatymo priedėlio 15 skyriaus pirmojo skirsnio antrąją pastraipą 
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-546ecd3cfa1027922d0495f9
 
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.

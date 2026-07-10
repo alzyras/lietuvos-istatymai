@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9CA6BAA7CDC7"
 pavadinimas: "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas"
+  - "nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.9CA6BAA7CDC7.md"
 latest_sha256: "19aa16ba4fa8f9e6eccb7ae73334c5f25659565e60022079e93bfc679cc2bd3a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9CA6BAA7CDC7]]"
 ---
 # Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9CA6BAA7CDC7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9CA6BAA7CDC7
+- Ryšiai: [[Ryšiai/TAR.9CA6BAA7CDC7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 7 dalies papildymas
+### 1 straipsnis. 4 straipsnio 7 dalies papildymas ^s-0d7cce462254e8e31dbf3713
 
 
 Papildyti 4 straipsnio 7 dalį ir ją išdėstyti taip:

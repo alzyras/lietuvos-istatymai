@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DD7553E00DEE"
 pavadinimas: "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymo 11 ir 15 straipsnių pripažinimo netekusiais galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymo 11 ir 15 straipsnių pripažinimo netekusiais galios įstatymas"
+  - "valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymo 11 ir 15 straipsnių pripažinimo netekusiais galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.DD7553E00DEE.md"
 latest_sha256: "6feba63cbdf81985d66e2818c70498a8bc6d897bffb939c29529cee5ec160df8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DD7553E00DEE]]"
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymo 11 ir 15 straipsnių pripažinimo netekusiais galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DD7553E00DEE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DD7553E00DEE
+- Ryšiai: [[Ryšiai/TAR.DD7553E00DEE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,14 +38,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 11 straipsnio pripažinimas netekusiu galios ^s-b5d420c3167eacc1bd4dc19a
 
 
 11 straipsnį pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 15 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 15 straipsnio pripažinimas netekusiu galios ^s-b963cfbd09d239c392038b63
 
 
 15 straipsnį pripažinti netekusiu galios.

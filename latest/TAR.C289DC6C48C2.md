@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C289DC6C48C2"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.C289DC6C48C2.md"
 latest_sha256: "b88194847e1f751fb2edeff4cfc43c27d4cdb721750fa68b027d0f6aea62423b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C289DC6C48C2]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C289DC6C48C2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C289DC6C48C2
+- Ryšiai: [[Ryšiai/TAR.C289DC6C48C2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies 2 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 4 dalies 2 punkto pakeitimas ^s-6a09acd0db4653f7b7caf5db
 
 
 Pakeisti 6 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 6 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-a87f617b104bf1b83ef4929a
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

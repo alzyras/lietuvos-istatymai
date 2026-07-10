@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.230A6A7BCF8E"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 231 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 231 straipsnio pakeitimo įstatymas"
+  - "draudimo įstatymo 231 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-23"
 latest_path: "latest/TAR.230A6A7BCF8E.md"
 latest_sha256: "aac7d1631a2f4f3b346fe6a596681c44235ae29d6b1859fed824ace4d127bd21"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.230A6A7BCF8E]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 231 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.230A6A7BCF8E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.230A6A7BCF8E
+- Ryšiai: [[Ryšiai/TAR.230A6A7BCF8E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 231 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 231 straipsnio 2 dalies pakeitimas ^s-21d643fb9e105ead33e9eae0
 
 
 Pakeisti 231 straipsnio 2 dalį ir ją išdėstyti taip:

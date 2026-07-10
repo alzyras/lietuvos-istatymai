@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.283C916A7079"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 13 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 13 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 13 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.283C916A7079.md"
 latest_sha256: "8372883bac9984339124bf5a518108adbce97b23571cb5749530eedddbc315b7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.283C916A7079]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 13 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.283C916A7079.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.283C916A7079
+- Ryšiai: [[Ryšiai/TAR.283C916A7079|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,14 +40,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 13 straipsnio pripažinimas netekusiu galios ^s-49adf098e8d0be53510a6fd1
 
 
 13 straipsnį pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-0f46e6b9f308e643d216f8ff
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

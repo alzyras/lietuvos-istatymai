@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "de7eb9e090cd11e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-01-01"
 latest_path: "latest/de7eb9e090cd11e4bb408baba2bdddf3.md"
 latest_sha256: "7b4e8008686edbaa27b267de2735eca2f5982d871f9b9758c1ec1e8d1f2accb1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/de7eb9e090cd11e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/de7eb9e090cd11e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/de7eb9e090cd11e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/de7eb9e090cd11e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio pakeitimas
+### 1 straipsnis. 47 straipsnio pakeitimas ^s-0eecb10485cdfd7c7cdb6f40
 
 
 Pakeisti 47 straipsnio 10 dalį ir ją išdėstyti taip:

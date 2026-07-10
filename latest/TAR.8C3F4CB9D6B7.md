@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C3F4CB9D6B7"
 pavadinimas: "LIetuvos Respublikos krašto apsaugos sistemos finansavimo strategijos įstatymas"
+aliases:
+  - "LIetuvos Respublikos krašto apsaugos sistemos finansavimo strategijos įstatymas"
+  - "krašto apsaugos sistemos finansavimo strategijos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-27"
 latest_path: "latest/TAR.8C3F4CB9D6B7.md"
 latest_sha256: "d892eb10800fa5d2ba287d593f7418749d045cb1e29218f8264a428c74206a6d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C3F4CB9D6B7]]"
 ---
 # LIetuvos Respublikos krašto apsaugos sistemos finansavimo strategijos įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C3F4CB9D6B7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C3F4CB9D6B7
+- Ryšiai: [[Ryšiai/TAR.8C3F4CB9D6B7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -48,20 +53,20 @@ priėmė šį įstatymą.
 
 
 
-### 1 straipsnis. Krašto apsaugos sistemos finansavimo santykiniai rodikliai
+### 1 straipsnis. Krašto apsaugos sistemos finansavimo santykiniai rodikliai ^s-6222cccae72ea496caae29db
 
 
 Nustatyti šiuos krašto apsaugos sistemos finansavimo pagal programas santykinius rodiklius:
 
 
-1) 2000 m. – 1,70-1,75 proc. bendrojo vidaus produkto; ^c829e5cfe32449fa39537b28
+1) 2000 m. – 1,70-1,75 proc. bendrojo vidaus produkto; ^s-b6eca55576e837df4255133b
 
 
-2) 2001 m. – 1,95-2,00 proc. bendrojo vidaus produkto. ^15c44d7bdb225e649beb09a0
+2) 2001 m. – 1,95-2,00 proc. bendrojo vidaus produkto. ^s-1189091f34037950cca0e9ed
 
 
 
-### 2 straipsnis. Pasiūlymai Vyriausybei
+### 2 straipsnis. Pasiūlymai Vyriausybei ^s-0100ac9c344ef063ca4276f0
 
 
 Pasiūlyti Vyriausybei maksimaliai užtikrinti krašto apsaugos sistemai reikalingos produkcijos gamybą Lietuvoje ir teikiant 2000-2001 m. valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus laikytis šio įstatymo nuostatų.

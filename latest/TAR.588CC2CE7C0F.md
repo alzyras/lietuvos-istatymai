@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.588CC2CE7C0F"
 pavadinimas: "Lietuvos Respublikos Lietuvos banko įstatymo 23 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos banko įstatymo 23 straipsnio pakeitimo įstatymas"
+  - "Lietuvos banko įstatymo 23 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-03-19"
 latest_path: "latest/TAR.588CC2CE7C0F.md"
 latest_sha256: "b1d0711242218a058b174e7ce94e55f944763cf07a629b9b4ae595fa02601163"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.588CC2CE7C0F]]"
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 23 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.588CC2CE7C0F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.588CC2CE7C0F
+- Ryšiai: [[Ryšiai/TAR.588CC2CE7C0F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-24f0916335ade497154b3d4e
 
 
 Išbraukti 23 straipsnio 1 dalies antrą sakinį ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Išbraukti 23 straipsnio 1 dalies antrą sakinį ir šią dalį išdėstyti taip
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-0d2d40d129083f6a0391bf31
 
 
 Šio Įstatymo nuostatos taikomos skirstant 2002 ir vėlesnių finansinių metų Lietuvos banko pelną.

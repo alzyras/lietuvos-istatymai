@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DAC134256C62"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-08"
 latest_path: "latest/TAR.DAC134256C62.md"
 latest_sha256: "ee3e4d66860203089a6beadd5d3faffebe877f3b96394ea9a26b25a0c67384b2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DAC134256C62]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DAC134256C62.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DAC134256C62
+- Ryšiai: [[Ryšiai/TAR.DAC134256C62|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-6718ffe644dfd8eb1a8d0b25
 
 
 3 straipsnio 1 dalyje vietoj datos „2012 m. sausio 1 d.“ įrašyti datą „2015 m. sausio 1 d.“ ir šią dalį išdėstyti taip:

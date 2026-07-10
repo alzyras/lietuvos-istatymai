@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9C97ACE472EC"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu bei kitais nusikaltimais ir dėl bendrų veiksmų pasienio teritorijose ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu bei kitais nusikaltimais ir dėl bendrų veiksmų pasienio teritorijose ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu bei kitais nusikaltimais ir dėl bendrų veiksmų pasienio teritorijose ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-06-14"
 latest_path: "latest/TAR.9C97ACE472EC.md"
 latest_sha256: "40fdbe1d4709461996b295563bcf6cc50c0843cfbccbbe71525d456859496817"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9C97ACE472EC]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu bei kitais nusikaltimais ir dėl bendrų veiksmų pasienio teritorijose ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9C97ACE472EC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9C97ACE472EC
+- Ryšiai: [[Ryšiai/TAR.9C97ACE472EC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-8d37f26be8a17144c2d87981
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. sausio 9 d. dekretą Nr. 1K-860, ratifikuoja 2006 m. birželio 7 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu bei kitais nusikaltimais ir dėl bendrų veiksmų pasienio teritorijose.

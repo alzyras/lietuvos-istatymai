@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.42A268B97DE7"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Gruzijos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Gruzijos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos ir Gruzijos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-02-26"
 latest_path: "latest/TAR.42A268B97DE7.md"
 latest_sha256: "cbfb75edbf56e5da05a1ca0ae1ade45c1b10a082795933ea991f3b66d54eae57"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.42A268B97DE7]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Gruzijos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.42A268B97DE7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.42A268B97DE7
+- Ryšiai: [[Ryšiai/TAR.42A268B97DE7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-48f8ee6c76b59bb342d37b66
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 8 d. dekretą Nr. 309, ratifikuoja 2003 m. rugsėjo 11 d. Tbilisyje pasirašytą Lietuvos Respublikos ir Gruzijos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ir protokolą.

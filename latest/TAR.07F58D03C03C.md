@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.07F58D03C03C"
 pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas"
+  - "kooperatinių bendrovių (kooperatyvų) įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-10-02"
 latest_path: "latest/TAR.07F58D03C03C.md"
 latest_sha256: "3e361ddfcd8cedc7787e7c09ce018c37bc47036c8fd6a06ec247abdf3f7dc557"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.07F58D03C03C]]"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.07F58D03C03C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.07F58D03C03C
+- Ryšiai: [[Ryšiai/TAR.07F58D03C03C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-84b4987bd9de759217be68ed
 
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,14 +48,14 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 3 straipsnio 5 dalies pripažinimas netekusia galios
+### 2 straipsnis. 3 straipsnio 5 dalies pripažinimas netekusia galios ^s-2bfc13244bba98f0e59199a9
 
 
 3 straipsnio 5 dalį pripažinti netekusia galios.
 
 
 
-### 3 straipsnis. 4 straipsnio 6 dalies pakeitimas
+### 3 straipsnis. 4 straipsnio 6 dalies pakeitimas ^s-31004cf53c0101f772c03a6a
 
 
 Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:

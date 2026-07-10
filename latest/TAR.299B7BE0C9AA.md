@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.299B7BE0C9AA"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Bulgarijos Respublikos, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Kroatijos Respublikos sutarties dėl Kroatijos Respublikos stojimo į Europos Sąjungą ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Bulgarijos Respublikos, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Kroatijos Respublikos sutarties dėl Kroatijos Respublikos stojimo į Europos Sąjungą ratifikavimo"
+  - "įstatymas dėl Belgijos Karalystės, Bulgarijos Respublikos, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Kroatijos Respublikos sutarties dėl Kroatijos Respublikos stojimo į Europos Sąjungą ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-05-08"
 latest_path: "latest/TAR.299B7BE0C9AA.md"
 latest_sha256: "4fbfa42cbe24b09f4dc055a3b75ab7a96453cf3c48d05bda4e3bc764d131532b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.299B7BE0C9AA]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Bulgarijos Respublikos, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Kroatijos Respublikos sutarties dėl Kroatijos Respublikos stojimo į Europos Sąjungą ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.299B7BE0C9AA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.299B7BE0C9AA
+- Ryšiai: [[Ryšiai/TAR.299B7BE0C9AA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-5fdbd7a9408612629980de61
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. balandžio 2 d. dekretą Nr. 1K-1017, ratifikuoja Belgijos Karalystės, Bulgarijos Respublikos, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Kroatijos Respublikos sutartį dėl Kroatijos Respublikos stojimo į Europos Sąjungą, pasirašytą 2011 m. gruodžio 9 d. Briuselyje.

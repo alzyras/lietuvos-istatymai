@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.674398EC91C3"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 59 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 59 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 59 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.674398EC91C3.md"
 latest_sha256: "a1864e4aa2cf17e687a58bd13129cd5e23718e2284dfbe0bff87a927e4830833"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.674398EC91C3]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 59 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.674398EC91C3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.674398EC91C3
+- Ryšiai: [[Ryšiai/TAR.674398EC91C3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 59 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 59 straipsnio 2 dalies pakeitimas ^s-6ca524a875e4e55026b38fc0
 
 
 59 straipsnio 2 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-99e06acc09439a305a769e56
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

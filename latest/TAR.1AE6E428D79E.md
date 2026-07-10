@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1AE6E428D79E"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 79 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 79 straipsnio pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 79 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-17"
 latest_path: "latest/TAR.1AE6E428D79E.md"
 latest_sha256: "8c2760964f481d95bb6092b40355485884738963db458962726194fc76458c3b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1AE6E428D79E]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 79 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1AE6E428D79E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1AE6E428D79E
+- Ryšiai: [[Ryšiai/TAR.1AE6E428D79E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 79 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 79 straipsnio 5 dalies pakeitimas ^s-e6f333d61e732c3b276c60c4
 
 
 79 straipsnio 5 dalies pirmame sakinyje vietoj skaičiaus „2001“ įrašyti skaičių „2003“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0D0C15C9837A"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl pareigų šeimai turinčių darbuotojų - vyrų ir moterų - lygių galimybių ir vienodo požiūrio į juos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl pareigų šeimai turinčių darbuotojų - vyrų ir moterų - lygių galimybių ir vienodo požiūrio į juos ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl pareigų šeimai turinčių darbuotojų - vyrų ir moterų - lygių galimybių ir vienodo požiūrio į juos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-08"
 latest_path: "latest/TAR.0D0C15C9837A.md"
 latest_sha256: "703bcacb80655c561f120d9e7b7ae5088bfad2d518775fa70135dc2603a48128"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0D0C15C9837A]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl pareigų šeimai turinčių darbuotojų - vyrų ir moterų - lygių galimybių ir vienodo požiūrio į juos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0D0C15C9837A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0D0C15C9837A
+- Ryšiai: [[Ryšiai/TAR.0D0C15C9837A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-fafb6260245fab6474973f1e
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 342, ratifikuoja Tarptautinės darbo organizacijos 1981 metų 156-ąją Konvenciją dėl pareigų šeimai turinčių darbuotojų – vyrų ir moterų – lygių galimybių ir vienodo požiūrio į juos.

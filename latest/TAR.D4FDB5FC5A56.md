@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D4FDB5FC5A56"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 12 ir 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 12 ir 26 straipsnių pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 12 ir 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-25"
 latest_path: "latest/TAR.D4FDB5FC5A56.md"
 latest_sha256: "bb3a19bc8495121f5551423beb37b9726ce23bdd1140c8f3928f9c1d0c613e4f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D4FDB5FC5A56]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 12 ir 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D4FDB5FC5A56.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D4FDB5FC5A56
+- Ryšiai: [[Ryšiai/TAR.D4FDB5FC5A56|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 5 punkto pakeitimas
+### 1 straipsnis. 12 straipsnio 5 punkto pakeitimas ^s-a4a4bc3095c5255214e7a781
 
 
 Pakeisti 12 straipsnio 5 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 12 straipsnio 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 26 straipsnio 1 punkto pakeitimas
+### 2 straipsnis. 26 straipsnio 1 punkto pakeitimas ^s-daa85ddab30faf6c44d80bf7
 
 
 Pakeisti 26 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 26 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo taikymas
+### 3 straipsnis. Įstatymo taikymas ^s-e3ca5f84ee79f293e9e8c314
 
 
 Šio Įstatymo nuostatos dėl dividendų ir kito paskirstytojo pelno nepriskyrimo neapmokestinamosioms pajamoms taikomos apskaičiuojant 2004 metais prasidėjusio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.

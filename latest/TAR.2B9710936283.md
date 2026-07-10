@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2B9710936283"
 pavadinimas: "Lietuvos Respublikos 2013 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2013 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2013 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-29"
 latest_path: "latest/TAR.2B9710936283.md"
 latest_sha256: "1d9738d3e6040b84471a22b75c03550548b66a0694345f5bb30f37c90b6d1d4d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2B9710936283]]"
 ---
 # Lietuvos Respublikos 2013 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2B9710936283.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2B9710936283
+- Ryšiai: [[Ryšiai/TAR.2B9710936283|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2013 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 2013 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-544709ec146de81f1a4a50c7
 
 
 Patvirtinti Lietuvos Respublikos 2013 metų Privalomojo sveikatos draudimo fondo biudžetą – 4 122 290 tūkst. litų pajamų ir 4 122 290 tūkst. litų išlaidų, iš jo – 20 000 tūkst. litų apyvartos lėšų (priedėlis).

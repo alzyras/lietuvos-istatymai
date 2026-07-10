@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.15A374EA40BD"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo ir protokolo dėl Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo įgyvendinimo ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo ir protokolo dėl Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo įgyvendinimo ratifikavimo įstatymas"
+  - "Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo ir protokolo dėl Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo įgyvendinimo ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-03"
 latest_path: "latest/TAR.15A374EA40BD.md"
 latest_sha256: "3f77663f506216cb15169adb6ab032ad5c58b5411cdb083958c92a94474f41cc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.15A374EA40BD]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo ir protokolo dėl Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo įgyvendinimo ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.15A374EA40BD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.15A374EA40BD
+- Ryšiai: [[Ryšiai/TAR.15A374EA40BD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas
+### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas ^s-4dee3d436413bf79fec5a088
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimą dėl nelegaliai gyvenančių asmenų grąžinimo ir Protokolą dėl Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo įgyvendinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimą dėl nelegaliai gyvenančių asmenų grąžinimo ir Protokolą dėl Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės susitarimo dėl nelegaliai gyvenančių asmenų grąžinimo įgyvendinimo, pasirašytus 1999 m. liepos 1 d. Vilniuje.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.50CB57548C2E"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-17"
 latest_path: "latest/TAR.50CB57548C2E.md"
 latest_sha256: "1e2f7ef9d7e6604899193ca88b083421860b6f0c9d93e6b12b6515e4fe320abe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.50CB57548C2E]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.50CB57548C2E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.50CB57548C2E
+- Ryšiai: [[Ryšiai/TAR.50CB57548C2E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies papildymas 48 punktu
+### 1 straipsnis. 17 straipsnio 1 dalies papildymas 48 punktu ^s-8b15ebf8a0a0ecb90963d862
 
 
 Papildyti 17 straipsnio 1 dalį 48 punktu:
@@ -41,7 +46,7 @@ Papildyti 17 straipsnio 1 dalį 48 punktu:
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-ee7b5842f24d57909f0f308e
 
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2004 m. ir vėlesnių metų pajamas.

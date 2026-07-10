@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7C5D266B28F0"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "visuomenės informavimo įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.7C5D266B28F0.md"
 latest_sha256: "a808a75133dd59a6f85cdbdd320605d00a1bcf7a160be511530938b6f3f7f045"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7C5D266B28F0]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7C5D266B28F0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7C5D266B28F0
+- Ryšiai: [[Ryšiai/TAR.7C5D266B28F0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-4ff928e9c2915ebf9a4c2c2e
 
 
 14 straipsnio 3 dalyje vietoj žodžio „nusikaltimus“ įrašyti žodžius „nusikalstamas veikas“ ir šią dalį išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b53edd68a37238010c988785
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

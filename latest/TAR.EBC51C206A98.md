@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EBC51C206A98"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-30"
 latest_path: "latest/TAR.EBC51C206A98.md"
 latest_sha256: "35751965b7ab17739bcef3c01299d20c2b36b0ccf3c76b23b33475173e196871"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EBC51C206A98]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EBC51C206A98.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EBC51C206A98
+- Ryšiai: [[Ryšiai/TAR.EBC51C206A98|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-29f30dfc015e612c3e760b41
 
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:

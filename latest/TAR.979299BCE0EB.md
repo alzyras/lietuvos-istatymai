@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.979299BCE0EB"
 pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.979299BCE0EB.md"
 latest_sha256: "b9f19e34d84bf351cb811eaed6f251922e5c853aa4801f4662a6b277b1399629"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.979299BCE0EB]]"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.979299BCE0EB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.979299BCE0EB
+- Ryšiai: [[Ryšiai/TAR.979299BCE0EB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-cf64d2293f93af80a9a55cd5
 
 
 10 straipsnio 1 dalyje vietoj žodžių „vyriausiųjų komisarų, vyresniųjų komisarų, komisarų, vadovaujančių miestų bei rajonų policijos komisariatams“ įrašyti žodžius „policijos įstaigų vadovų ir jų pavaduotojų“, vietoj žodžio „valdybų“ įrašyti žodį „tarybų“, vietoj žodžio „administratorių“ įrašyti žodžius „savivaldybių administracijų direktorių“ ir šią dalį išdėstyti taip:

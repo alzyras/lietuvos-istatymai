@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8CA0401B3A6"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10 ir 27 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10 ir 27 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 4, 10 ir 27 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.C8CA0401B3A6.md"
 latest_sha256: "ef44d687930594d149f2d76d0a9a46f193e88c0757a2636c00ddf8d084524798"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8CA0401B3A6]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10 ir 27 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8CA0401B3A6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8CA0401B3A6
+- Ryšiai: [[Ryšiai/TAR.C8CA0401B3A6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas ^s-498185c5d0c272bfc03199e5
 
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 10 straipsnio 2 dalies 5 punkto pakeitimas
+### 2 straipsnis. 10 straipsnio 2 dalies 5 punkto pakeitimas ^s-ed61b9e326f6cdcd9692990c
 
 
 Pakeisti 10 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 10 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 27 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 27 straipsnio 1 dalies pakeitimas ^s-cd57f6d679aadb5948afcba4
 
 
 Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-24a557065b4af9c5044046bb
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

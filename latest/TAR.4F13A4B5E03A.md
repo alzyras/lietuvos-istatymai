@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F13A4B5E03A"
 pavadinimas: "Lietuvos Respublikos dimisijos karių laipsnių suteikimo ginkluoto pasipriešinimo (rezistencijos) dalyviams-kariams savanoriams ir prieškario Lietuvos kariuomenės kariams įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos dimisijos karių laipsnių suteikimo ginkluoto pasipriešinimo (rezistencijos) dalyviams-kariams savanoriams ir prieškario Lietuvos kariuomenės kariams įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "dimisijos karių laipsnių suteikimo ginkluoto pasipriešinimo (rezistencijos) dalyviams-kariams savanoriams ir prieškario Lietuvos kariuomenės kariams įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-12"
 latest_path: "latest/TAR.4F13A4B5E03A.md"
 latest_sha256: "ff5ce4d5bedf35881b4194ae2d57d51ed0a98e313cdf55f162e2d013f35f5d12"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F13A4B5E03A]]"
 ---
 # Lietuvos Respublikos dimisijos karių laipsnių suteikimo ginkluoto pasipriešinimo (rezistencijos) dalyviams-kariams savanoriams ir prieškario Lietuvos kariuomenės kariams įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F13A4B5E03A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F13A4B5E03A
+- Ryšiai: [[Ryšiai/TAR.4F13A4B5E03A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-fddc14c6cd8649119eb6180c
 
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA90B718DF71"
 pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo papildymo 6-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos rinkliavų įstatymo papildymo 6-1 straipsniu įstatymas"
+  - "rinkliavų įstatymo papildymo 6-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.DA90B718DF71.md"
 latest_sha256: "25688da4b8fd5f693ed78f1792719abbc09a8510a3f0d59f07811c765fa41d73"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA90B718DF71]]"
 ---
 # Lietuvos Respublikos rinkliavų įstatymo papildymo 6-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA90B718DF71.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA90B718DF71
+- Ryšiai: [[Ryšiai/TAR.DA90B718DF71|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 61 straipsniu
+### 1 straipsnis. Įstatymo papildymas 61 straipsniu ^s-b041c0119a40ba5b2dd66751
 
 
 Papildyti Įstatymą 61 straipsniu:
@@ -48,7 +53,7 @@ Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teis
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-40175ed7cd77b18ba359997d
 
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4DF623025D4"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo 41 straipsnio pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo 41 straipsnio pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "švietimo įstatymo 41 straipsnio pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-31"
 latest_path: "latest/TAR.B4DF623025D4.md"
 latest_sha256: "410b176a567d2d9c85faa1a01832ffc3632dc2a1ddeb79a48ca353906b18b3f6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4DF623025D4]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo 41 straipsnio pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4DF623025D4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4DF623025D4
+- Ryšiai: [[Ryšiai/TAR.B4DF623025D4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 41 straipsnio 1 dalies pakeitimas ^s-05c7ae6fbb4eab9474f0bd77
 
 
 Iš 41 straipsnio 1 dalies išbraukti žodžius „Lietuvos švietimo fondas, apskričių, miestų ir rajonų švietimo fondai bei“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Iš 41 straipsnio 1 dalies išbraukti žodžius „Lietuvos švietimo fondas, ap
 
 
 
-### 2 straipsnis. 42 straipsnio pripažinimas netekusiu galios
+### 2 straipsnis. 42 straipsnio pripažinimas netekusiu galios ^s-b15c7575553a08c04c5e3bb2
 
 
 42 straipsnį pripažinti netekusiu galios.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B45D0CA140C3"
 pavadinimas: "Lietuvos Respublikos tabako kontrolės įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tabako kontrolės įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "tabako kontrolės įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.B45D0CA140C3.md"
 latest_sha256: "25f2100b127f2a4416269c412a8743a9849b29381db9241299d6f81ac3f18c10"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B45D0CA140C3]]"
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B45D0CA140C3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B45D0CA140C3
+- Ryšiai: [[Ryšiai/TAR.B45D0CA140C3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 13 dalies 1 punkto pakeitimas
+### 1 straipsnis. 26 straipsnio 13 dalies 1 punkto pakeitimas ^s-94766fc01431d4b8dd3c0b21
 
 
 26 straipsnio 13 dalies 1 punkte vietoj žodžių „Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos“ įrašyti žodžius „Vyriausybės įgaliota institucija“ ir šį punktą išdėstyti taip:
@@ -45,13 +50,13 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e91babff01aededf7c91e79d
 
 
-1. Šis įstatymas, išskyrus [[#^474a71fad4291c2c46e15bff|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d. ^8600254004cb803557079407
+1. Šis įstatymas, išskyrus [[#^s-31963adaba6c9362c34a1376|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d. ^s-76d103b005733636f925d373
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^474a71fad4291c2c46e15bff
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-31963adaba6c9362c34a1376
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.203B72D14CDE"
 pavadinimas: "Lietuvos Respublikos specialios paskirties akcinės bendrovės \"Lietuvos energija\" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 4(1) straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos specialios paskirties akcinės bendrovės \"Lietuvos energija\" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 4(1) straipsnio papildymo įstatymas"
+  - "specialios paskirties akcinės bendrovės \"Lietuvos energija\" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 4(1) straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-27"
 latest_path: "latest/TAR.203B72D14CDE.md"
 latest_sha256: "b1be74168df48a989fcdfed7c46d8b32bebfab014884b43e634d7774a5978f3b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.203B72D14CDE]]"
 ---
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 4(1) straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.203B72D14CDE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.203B72D14CDE
+- Ryšiai: [[Ryšiai/TAR.203B72D14CDE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 41 straipsnio papildymas 4 dalimi ^s-5e825ac558393a4a9fa210e2
 
 
 Papildyti 41 straipsnį 4 dalimi:

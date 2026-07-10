@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E17B961ABF42"
 pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5, 6 ir 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5, 6 ir 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "gyventojų turto deklaravimo įstatymo 2, 5, 6 ir 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-15"
 latest_path: "latest/TAR.E17B961ABF42.md"
 latest_sha256: "899728de8b3a118124e01fcf3d6bdcc039aaaed4e37a968c986d23ad15318366"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E17B961ABF42]]"
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5, 6 ir 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E17B961ABF42.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E17B961ABF42
+- Ryšiai: [[Ryšiai/TAR.E17B961ABF42|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,29 +39,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-fd6d37b9163380b8722840aa
 
 
-1. Papildyti 2 straipsnio 1 dalį 29 punktu: ^3c886447408e3c90649a3c96
+1. Papildyti 2 straipsnio 1 dalį 29 punktu: ^s-7403dc6b08831ffa4a467e7b
 
 
 „29) kredito įstaigų tarybų ir (ar) valdybų nariai, administracijų vadovai, administracijų vadovų pavaduotojai ir jų šeimos nariai;“.
 
 
-2. Papildyti 2 straipsnio 1 dalį 30 punktu: ^837125c36d67823613274598
+2. Papildyti 2 straipsnio 1 dalį 30 punktu: ^s-70723d098931cb5f68ee32da
 
 
 „30) viešosios informacijos rengėjo ir (ar) skleidėjo tarybų ir (ar) valdybų nariai, vadovai, jų pavaduotojai, vyriausieji redaktoriai, jų pavaduotojai, redaktoriai, jų pavaduotojai ir jų šeimos nariai.“
 
 
-3. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^4d6468546c6a145b3b667803
+3. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-eebf45032243035eae736208
 
 
-„2. [[#^3c886447408e3c90649a3c96|Šio straipsnio 1 dalies]] 1–24, 27, 28, 29 ir 30 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi dieninėse bendrojo ugdymo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose (mokiniai ar studentai), asmenys laikotarpiu nuo dieninių bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).“
+„2. [[#^s-7403dc6b08831ffa4a467e7b|Šio straipsnio 1 dalies]] 1–24, 27, 28, 29 ir 30 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi dieninėse bendrojo ugdymo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose (mokiniai ar studentai), asmenys laikotarpiu nuo dieninių bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).“
 
 
 
-### 2 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-6c1f1bb7eca4a610237b8728
 
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -66,7 +71,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-3ae4e925cdc71a16f2804751
 
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -76,7 +81,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-34df2099f4fa8572789563e5
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -86,7 +91,7 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo taikymas
+### 5 straipsnis. Įstatymo taikymas ^s-5e0bfde6d73e9c2ebb8add8b
 
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.

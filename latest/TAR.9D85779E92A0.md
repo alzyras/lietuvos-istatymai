@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9D85779E92A0"
 pavadinimas: "Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 1 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 1 ir 5 straipsnių pakeitimo įstatymas"
+  - "administracinių teismų įsteigimo įstatymo 1 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-04-23"
 latest_path: "latest/TAR.9D85779E92A0.md"
 latest_sha256: "95a17c69358ceabc4792d148a61708f1352a14aaf98502b69d4efe7859de3dfb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9D85779E92A0]]"
 ---
 # Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 1 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9D85779E92A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9D85779E92A0
+- Ryšiai: [[Ryšiai/TAR.9D85779E92A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-90f850bba55b9c9993b30712
 
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 1 dalies pripažinimas netekusia galios
+### 2 straipsnis. 5 straipsnio 1 dalies pripažinimas netekusia galios ^s-ea23bcdbc5e85f9c55194430
 
 
 Pripažinti 5 straipsnio 1 dalį netekusia galios.

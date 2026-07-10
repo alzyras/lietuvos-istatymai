@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25701DDD4625"
 pavadinimas: "Lietuvos Respublikos finansų įstaigų įstatymo 58 ir 59 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansų įstaigų įstatymo 58 ir 59 straipsnių pakeitimo įstatymas"
+  - "finansų įstaigų įstatymo 58 ir 59 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-23"
 latest_path: "latest/TAR.25701DDD4625.md"
 latest_sha256: "00a9ed55d4d10b1f85c723bf2f00bc3e535eec1e79314a7466d49e73bbfc480f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25701DDD4625]]"
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymo 58 ir 59 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25701DDD4625.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25701DDD4625
+- Ryšiai: [[Ryšiai/TAR.25701DDD4625|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 58 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 58 straipsnio 1 dalies pakeitimas ^s-be137b8c28062d43afec82e8
 
 
 58 straipsnio 1 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip:
@@ -40,7 +45,7 @@ Vilnius
 „1. Šis Įstatymas, išskyrus 58 straipsnį, įsigalioja nuo 2003 m. liepos 1 d.“
 
 
-### 2 straipsnis. 59 straipsnio pakeitimas
+### 2 straipsnis. 59 straipsnio pakeitimas ^s-0e509fc6f0c3a5786c2268e2
 
 
 59 straipsnyje vietoj datos „2002 m. spalio 1 d.“ įrašyti datą „2003 m. sausio 1 d.“ ir visą straipsnį išdėstyti taip:
@@ -49,7 +54,7 @@ Vilnius
 „59 straipsnis. Pasiūlymai Vyriausybei ir Lietuvos bankui
 
 
-Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. sausio 1 d. pateikti Seimui įstatymų, neatitinkančių Finansų įstaigų įstatymo nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus įstatymų lydimuosius teisės aktus.“
+Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. sausio 1 d. pateikti Seimui įstatymų, neatitinkančių [[latest/TAR.779892D853B4|Finansų įstaigų įstatymo]] nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus įstatymų lydimuosius teisės aktus.“
 
 
 

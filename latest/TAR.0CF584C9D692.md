@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0CF584C9D692"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 83 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 83 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 83 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-16"
 latest_path: "latest/TAR.0CF584C9D692.md"
 latest_sha256: "b43f2edab4cc63b84c5e3d9c25b3c9746725ea3b552195fe760ccf86a1fa22fd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0CF584C9D692]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 83 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0CF584C9D692.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0CF584C9D692
+- Ryšiai: [[Ryšiai/TAR.0CF584C9D692|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 83 straipsnio pakeitimas:
+### 1 straipsnis. 83 straipsnio pakeitimas: ^s-3c1a8cf97db08fcbc5acacb3
 
 
 Pakeisti 83 straipsnį ir jį išdėstyti taip:

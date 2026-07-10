@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6CD46627BC5F"
 pavadinimas: "Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-03-01"
 latest_path: "latest/TAR.6CD46627BC5F.md"
 latest_sha256: "2a6a23306a151f4d96673bbf77f67f8944aac885d60d43fce7f124b313bff725"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6CD46627BC5F]]"
 ---
 # Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6CD46627BC5F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6CD46627BC5F
+- Ryšiai: [[Ryšiai/TAR.6CD46627BC5F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 3 dalies 3 punkto pakeitimas
+### 1 straipsnis. 10 straipsnio 3 dalies 3 punkto pakeitimas ^s-47a1d903e7b564dfd4d5ccb6
 
 
 10 straipsnio 3 dalies 3 punkte po žodžių „kontroliuoja valdymo įmonė“ įrašyti žodžius „uždaro tipo investicinė bendrovė“, vietoj žodžių „bendrovė, kurios“ įrašyti žodžius „bendrovė, kurių“ ir šį punktą išdėstyti taip:
@@ -45,7 +50,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d81f4084cfeb17405b906f7c
 
 
 Šis įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymo įsigaliojimo dieną.

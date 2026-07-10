@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.47DCA08473F2"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 59 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 59 straipsnio papildymo įstatymas"
+  - "pelno mokesčio įstatymo 59 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-06-30"
 latest_path: "latest/TAR.47DCA08473F2.md"
 latest_sha256: "909321719dbcc11b3dd3b2b6155867e9b1e7cfc89b04e5696e7310f87b5b2f2b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.47DCA08473F2]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 59 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.47DCA08473F2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.47DCA08473F2
+- Ryšiai: [[Ryšiai/TAR.47DCA08473F2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 59 straipsnio papildymas 10 dalimi
+### 1 straipsnis. 59 straipsnio papildymas 10 dalimi ^s-abd2d5073e943ff229d90ee0
 
 
 Papildyti 59 straipsnį 10 dalimi:

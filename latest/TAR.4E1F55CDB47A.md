@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4E1F55CDB47A"
 pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos reglamento pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos reglamento pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-07-26"
 latest_path: "latest/TAR.4E1F55CDB47A.md"
 latest_sha256: "038f9137c169fe6d34539686dc46a9cef8abc333813f486636da5efcf51ff5d5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4E1F55CDB47A]]"
 ---
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos reglamento pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4E1F55CDB47A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4E1F55CDB47A
+- Ryšiai: [[Ryšiai/TAR.4E1F55CDB47A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

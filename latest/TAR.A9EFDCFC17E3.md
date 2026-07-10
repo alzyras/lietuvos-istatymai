@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A9EFDCFC17E3"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 41 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 41 straipsnio papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 41 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-12-30"
 latest_path: "latest/TAR.A9EFDCFC17E3.md"
 latest_sha256: "e90d205710d5acd48301933b779e3dc934cb104016a65a282e7d6448ac66cdf5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A9EFDCFC17E3]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 41 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A9EFDCFC17E3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A9EFDCFC17E3
+- Ryšiai: [[Ryšiai/TAR.A9EFDCFC17E3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio papildymas
+### 1 straipsnis. 41 straipsnio papildymas ^s-e1815e8fdddc4da0cccaf626
 
 
 Papildyti 41 straipsnio 1 dalį 7 punktu ir šį punktą išdėstyti taip:

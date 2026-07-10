@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5799747AC6A7"
 pavadinimas: "Dėl kai kurių įstatymų aktų pripažinimo netekusiais galios"
+aliases:
+  - "Dėl kai kurių įstatymų aktų pripažinimo netekusiais galios"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-07-07"
 latest_path: "latest/TAR.5799747AC6A7.md"
 latest_sha256: "abbdae4361bc36c09e11e3c37e33b34dce7765350f6528aa1e81a84f58786e70"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5799747AC6A7]]"
 ---
 # Dėl kai kurių įstatymų aktų pripažinimo netekusiais galios
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5799747AC6A7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5799747AC6A7
+- Ryšiai: [[Ryšiai/TAR.5799747AC6A7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

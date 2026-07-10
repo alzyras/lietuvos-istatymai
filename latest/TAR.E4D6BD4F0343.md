@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E4D6BD4F0343"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso papildymo 468(1), 468(2), 468(3), 469(1), 469(2) straipsniais ir 469 straipsnio pakeitimo įstatymo įgyvendinimo tvarkos įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso papildymo 468(1), 468(2), 468(3), 469(1), 469(2) straipsniais ir 469 straipsnio pakeitimo įstatymo įgyvendinimo tvarkos įstatymas"
+  - "civilinio kodekso papildymo 468(1), 468(2), 468(3), 469(1), 469(2) straipsniais ir 469 straipsnio pakeitimo įstatymo įgyvendinimo tvarkos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-07-01"
 latest_path: "latest/TAR.E4D6BD4F0343.md"
 latest_sha256: "db3736b6eb7d927d14505c80151e86db090c15cb5f98a7058b391eb1c8b96839"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E4D6BD4F0343]]"
 ---
 # Lietuvos Respublikos civilinio kodekso papildymo 468(1), 468(2), 468(3), 469(1), 469(2) straipsniais ir 469 straipsnio pakeitimo įstatymo įgyvendinimo tvarkos įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E4D6BD4F0343.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E4D6BD4F0343
+- Ryšiai: [[Ryšiai/TAR.E4D6BD4F0343|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo įgyvendinimo tvarka
+### 1 straipsnis. Įstatymo įgyvendinimo tvarka ^s-d2a115e61aa8fabfbd30081f
 
 
 Civilinio kodekso papildymo 4681, 4682, 4683, 4691, 4692 straipsniais ir 469 straipsnio pakeitimo įstatymo įgyvendinimo tvarką iki 1998 m. rugpjūčio 1 d. nustato Lietuvos bankas.
 
 
 
-### 2 straipsnis. Indėlio pasaugos prievolės įgyvendinimas
+### 2 straipsnis. Indėlio pasaugos prievolės įgyvendinimas ^s-4d1eb71a519d26224eab4487
 
 
 Į bankų ar kitų kredito įstaigų sąskaitas pagal pasaugos sutartis priimtų saugoti indėlių apskaitos ir šių lėšų išsaugojimo garantavimo tvarką nustato Lietuvos bankas.

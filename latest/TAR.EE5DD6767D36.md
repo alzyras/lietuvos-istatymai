@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EE5DD6767D36"
 pavadinimas: "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1, 3, 7, 10, 11 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1, 3, 7, 10, 11 ir 12 straipsnių pakeitimo įstatymas"
+  - "planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1, 3, 7, 10, 11 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-24"
 latest_path: "latest/TAR.EE5DD6767D36.md"
 latest_sha256: "84829d532a142dd0ff0b20d8d6bebb59f96b03c6b6292292641d0e1a37e634f1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EE5DD6767D36]]"
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1, 3, 7, 10, 11 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EE5DD6767D36.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EE5DD6767D36
+- Ryšiai: [[Ryšiai/TAR.EE5DD6767D36|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 10 dalies pakeitimas ^s-91f986edb5cdb9ba2423ca29
 
 
 1 straipsnio 10 dalyje vietoj žodžio „licencijas“ įrašyti žodį „atestatus“ ir šią dalį išdėstyti taip:
@@ -41,69 +46,69 @@ Vilnius
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-a04833a616cc7c643a954d9c
 
 
-[[#^1da50924f75266c23d5c5d18|3 straipsnio 1 dalyje]] vietoj žodžių „Pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „Poveikio aplinkai pirminio vertinimo“, [[#^e041a2027fcaf14db5b5e200|2 dalyje]] vietoj žodžių „Išsamaus poveikio aplinkai vertinimo“ įrašyti žodžius „Poveikio aplinkai išsamaus vertinimo“ ir visą straipsnį išdėstyti taip:
+[[#^s-2c67c848f63c3893b1276aad|3 straipsnio 1 dalyje]] vietoj žodžių „Pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „Poveikio aplinkai pirminio vertinimo“, [[#^s-c101cf0ac717c5c38d639679|2 dalyje]] vietoj žodžių „Išsamaus poveikio aplinkai vertinimo“ įrašyti žodžius „Poveikio aplinkai išsamaus vertinimo“ ir visą straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. 7 straipsnio pakeitimas|3 straipsnis]]. Poveikio aplinkai vertinimo tikslai
+„[[#^s-5967e7afe84f29f3f33d423a|3 straipsnis]]. Poveikio aplinkai vertinimo tikslai
 
 
-1. Poveikio aplinkai pirminio vertinimo tikslas – preliminariai nustatyti, ar planuojama ūkinė veikla, įvertinus situaciją ir planuojamos ūkinės veiklos poveikį, galima pasirinktoje vietoje. ^32c0b4826f0cc912d4f2a2ae
+1. Poveikio aplinkai pirminio vertinimo tikslas – preliminariai nustatyti, ar planuojama ūkinė veikla, įvertinus situaciją ir planuojamos ūkinės veiklos poveikį, galima pasirinktoje vietoje. ^s-9642660a1a2ab3af42c5ced5
 
 
-2. Poveikio aplinkai išsamaus vertinimo tikslas – nustatyti visą galimą planuojamos ūkinės veiklos poveikį aplinkai, įvertinti planuojamą ūkinę veiklą socialiniu aspektu, parinkti neigiamą poveikį mažinančias priemones.“ ^e041a2027fcaf14db5b5e200
+2. Poveikio aplinkai išsamaus vertinimo tikslas – nustatyti visą galimą planuojamos ūkinės veiklos poveikį aplinkai, įvertinti planuojamą ūkinę veiklą socialiniu aspektu, parinkti neigiamą poveikį mažinančias priemones.“ ^s-c101cf0ac717c5c38d639679
 
 
 
-### 3 straipsnis. 7 straipsnio pakeitimas
+### 3 straipsnis. 7 straipsnio pakeitimas ^s-5967e7afe84f29f3f33d423a
 
 
-7 straipsnio 1 ir [[#^f7c30bf2ca09a61db9c751f3|2 dalyse]] vietoj žodžių „pirminis poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai pirminis vertinimas“; 1 dalies 2 punkte, 6 ir [[#^e59b2239b94542d80d203f4a|7 dalyse]] vietoj žodžių „išsamus poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai išsamus vertinimas“; 3, 4, [[#^e1bb81d2e56f3a771f149cfd|5 dalyse]] vietoj žodžių „pirminį poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai pirminį vertinimą“; [[#^e1bb81d2e56f3a771f149cfd|5 dalyje]] vietoj žodžio „nutarimu“ įrašyti žodį „sutarimu“; [[#^e59b2239b94542d80d203f4a|7 dalyje]] vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“, vietoj žodžių „išsamų poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai išsamų vertinimą“ ir visą straipsnį išdėstyti taip:
+7 straipsnio 1 ir [[#^s-b0b344cf7e7e49c402167719|2 dalyse]] vietoj žodžių „pirminis poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai pirminis vertinimas“; 1 dalies 2 punkte, 6 ir [[#^s-0ef08f1b3fd8cdfea6a9f8f8|7 dalyse]] vietoj žodžių „išsamus poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai išsamus vertinimas“; 3, 4, [[#^s-72a7d1037b6de5e9b038811e|5 dalyse]] vietoj žodžių „pirminį poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai pirminį vertinimą“; [[#^s-72a7d1037b6de5e9b038811e|5 dalyje]] vietoj žodžio „nutarimu“ įrašyti žodį „sutarimu“; [[#^s-0ef08f1b3fd8cdfea6a9f8f8|7 dalyje]] vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“, vietoj žodžių „išsamų poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai išsamų vertinimą“ ir visą straipsnį išdėstyti taip:
 
 
 „7straipsnis. Poveikio aplinkai vertinimo etapai
 
 
-1. Poveikio aplinkai vertinimas atliekamas šiais etapais: ^1da50924f75266c23d5c5d18
+1. Poveikio aplinkai vertinimas atliekamas šiais etapais: ^s-2c67c848f63c3893b1276aad
 
 
-1) poveikio aplinkai pirminis vertinimas – rengiant teritorijų planavimo dokumentų sprendinius bei projektinius pasiūlymus; ^819013fa59fdf29727835be7
+1) poveikio aplinkai pirminis vertinimas – rengiant teritorijų planavimo dokumentų sprendinius bei projektinius pasiūlymus; ^s-a52ef30059f061bac399d257
 
 
-2) poveikio aplinkai išsamus vertinimas – rengiant techninius projektus. ^0417b6847e3d0c2e52b3799d
+2) poveikio aplinkai išsamus vertinimas – rengiant techninius projektus. ^s-254227227d31937f411185ff
 
 
-2. Poveikio aplinkai pirminis vertinimas atliekamas nagrinėjant: ^f7c30bf2ca09a61db9c751f3
+2. Poveikio aplinkai pirminis vertinimas atliekamas nagrinėjant: ^s-b0b344cf7e7e49c402167719
 
 
-1) visus rengiamus teritorinio planavimo dokumentus ir įvertinant sprendinių pasekmes pagal Vyriausybės patvirtintą sprendinių pasekmių vertinimo tvarką; ^abbf269b446c8020546f30f7
+1) visus rengiamus teritorinio planavimo dokumentus ir įvertinant sprendinių pasekmes pagal Vyriausybės patvirtintą sprendinių pasekmių vertinimo tvarką; ^s-66c389eec8dc891a181bcfe9
 
 
-2) planuojamos ūkinės veiklos projektinius pasiūlymus. ^7d291d3f8e61052a850a6db9
+2) planuojamos ūkinės veiklos projektinius pasiūlymus. ^s-b582cd4310204df19c15565f
 
 
-3. Užsakovas poveikio aplinkai pirminį vertinimą atlieka pagal poveikio aplinkai vertinimo subjektų išduotas teritorijų planavimo ir objektų projektavimo specialiąsias sąlygas. ^2ced4929d55d2f9296202cf6
+3. Užsakovas poveikio aplinkai pirminį vertinimą atlieka pagal poveikio aplinkai vertinimo subjektų išduotas teritorijų planavimo ir objektų projektavimo specialiąsias sąlygas. ^s-bdb62629b6ebaa85f19bce44
 
 
-4. Teritorijų planavimo dokumentų sprendinius bei planuojamos ūkinės veiklos projektinius pasiūlymus, atlikus poveikio aplinkai pirminį vertinimą, užsakovas pateikia poveikio aplinkai vertinimo subjektams suderinti, taip pat su jais supažindina visuomenę ir apibendrina jos atsiliepimus. ^ace96b3ee28a382d33380c8b
+4. Teritorijų planavimo dokumentų sprendinius bei planuojamos ūkinės veiklos projektinius pasiūlymus, atlikus poveikio aplinkai pirminį vertinimą, užsakovas pateikia poveikio aplinkai vertinimo subjektams suderinti, taip pat su jais supažindina visuomenę ir apibendrina jos atsiliepimus. ^s-e062d8d4504b59fe1902473a
 
 
-5. Aplinkos apsaugos ministerija, išnagrinėjusi poveikio aplinkai pirminį vertinimą ir kitų vertinimą nagrinėjusių institucijų išvadas bei pasiūlymus, bendru sutarimu su planuojamos ūkinės veiklos poveikio aplinkai vertinimo subjektais priima sprendimą dėl planuojamos ūkinės veiklos galimybių pasirinktoje vietoje poveikio aplinkai atžvilgiu. ^e1bb81d2e56f3a771f149cfd
+5. Aplinkos apsaugos ministerija, išnagrinėjusi poveikio aplinkai pirminį vertinimą ir kitų vertinimą nagrinėjusių institucijų išvadas bei pasiūlymus, bendru sutarimu su planuojamos ūkinės veiklos poveikio aplinkai vertinimo subjektais priima sprendimą dėl planuojamos ūkinės veiklos galimybių pasirinktoje vietoje poveikio aplinkai atžvilgiu. ^s-72a7d1037b6de5e9b038811e
 
 
-6. Poveikio aplinkai išsamus vertinimas atliekamas planuojamos ūkinės veiklos rūšims ir objektams, kurių sąrašą Aplinkos apsaugos ministerijos teikimu tvirtina Vyriausybė. ^637d3ea8567bd412dbdddd21
+6. Poveikio aplinkai išsamus vertinimas atliekamas planuojamos ūkinės veiklos rūšims ir objektams, kurių sąrašą Aplinkos apsaugos ministerijos teikimu tvirtina Vyriausybė. ^s-2f049ecd464e3438d50ea03e
 
 
-7. Visi planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso dalyviai turi teisę reikalauti, o Aplinkos apsaugos ministerija – priimti sprendimą, kad poveikio aplinkai išsamus vertinimas būtų atliekamas ir tos planuojamos ūkinės veiklos, kuri nenumatyta sąraše, jeigu poveikio aplinkai pirminio vertinimo rezultatai parodo, kad planuojama ūkinė veikla aplinkai darys esminį poveikį, kurį tinkamai įvertinti galima tik atlikus poveikio aplinkai išsamų vertinimą. ^e59b2239b94542d80d203f4a
+7. Visi planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso dalyviai turi teisę reikalauti, o Aplinkos apsaugos ministerija – priimti sprendimą, kad poveikio aplinkai išsamus vertinimas būtų atliekamas ir tos planuojamos ūkinės veiklos, kuri nenumatyta sąraše, jeigu poveikio aplinkai pirminio vertinimo rezultatai parodo, kad planuojama ūkinė veikla aplinkai darys esminį poveikį, kurį tinkamai įvertinti galima tik atlikus poveikio aplinkai išsamų vertinimą. ^s-0ef08f1b3fd8cdfea6a9f8f8
 
 
-8. Užsakovas pagal programą atlieka poveikio aplinkai išsamų vertinimą ir parengia ataskaitą.“ ^1650fc428e184e042d94fad2
+8. Užsakovas pagal programą atlieka poveikio aplinkai išsamų vertinimą ir parengia ataskaitą.“ ^s-2f20f42ceb7900c85e0591b4
 
 
 
-### 4 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 4 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-b008b757d647dc512e99e331
 
 
 10 straipsnio 4 dalyje vietoj žodžių „valstybinė poveikio aplinkai vertinimo ekspertizė“ įrašyti žodžius „poveikio aplinkai vertinimo valstybinė ekspertizė“ ir šią dalį išdėstyti taip:
@@ -113,20 +118,20 @@ Vilnius
 
 
 
-### 5 straipsnis. 11 straipsnio pakeitimas
+### 5 straipsnis. 11 straipsnio pakeitimas ^s-bcb3d8cf2aa294cafb1dae90
 
 
-11 straipsnio 2 ir [[#^d57452c5c0f3c63b9ecad4b0|3 dalyse]] vietoj žodžių „licenciją“, „licencija išduodama“ įrašyti atitinkamai žodžius „atestatą“, „atestatas išduodamas“ ir šias dalis išdėstyti taip:
+11 straipsnio 2 ir [[#^s-a5f44e9b918df5f9fc601578|3 dalyse]] vietoj žodžių „licenciją“, „licencija išduodama“ įrašyti atitinkamai žodžius „atestatą“, „atestatas išduodamas“ ir šias dalis išdėstyti taip:
 
 
 „2. Poveikio aplinkai vertinimo valstybinę ekspertizę gali atlikti tik atestatą turintys ekspertai.
 
 
-3. Poveikio aplinkai vertinimo eksperto atestatas išduodamas Vyriausybės nustatyta tvarka.“ ^d57452c5c0f3c63b9ecad4b0
+3. Poveikio aplinkai vertinimo eksperto atestatas išduodamas Vyriausybės nustatyta tvarka.“ ^s-a5f44e9b918df5f9fc601578
 
 
 
-### 6 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-d6cd1c039bf568799462c6e8
 
 
 12 straipsnio 2 dalyje vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“ ir šią dalį išdėstyti taip:

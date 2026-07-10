@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4C3633469181"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.4C3633469181.md"
 latest_sha256: "fdbf783b889f1db4a2447a51f9913c4096eb04375126cac09ca87252bc6da7a4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4C3633469181]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4C3633469181.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4C3633469181
+- Ryšiai: [[Ryšiai/TAR.4C3633469181|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,38 +41,38 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 ir 3 dalių pakeitimas
+### 1 straipsnis. 3 straipsnio 2 ir 3 dalių pakeitimas ^s-8f94b7349a8737b651af2b2d
 
 
-1. Pakeisti [[#^bf90b63d079850ede7a64955|3 straipsnio 2 dalį]] ir ją išdėstyti taip: ^c668ab0b4b6e25e0e958f7ab
+1. Pakeisti [[#^s-8edcaf663844050692025253|3 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-f038a2db896e0a685ccbeff5
 
 
 „2. Į Fondo biudžeto pajamas taip pat įtraukiami delspinigiai, palūkanos ir baudos, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos, Fondo veiklos pajamos ir iš į Fondo apskaitą įtraukto turto gaunamos pajamos.“
 
 
-2. [[#^b5e28f324cf3d5b732dae222|3 straipsnio 3 dalyje]] po žodžių „iš į Fondo“ išbraukti žodį „biudžeto“ ir šią dalį išdėstyti taip: ^2546e56ebfddd2f2ae9b835c
+2. [[#^s-e464ca4bc97b69348587f922|3 straipsnio 3 dalyje]] po žodžių „iš į Fondo“ išbraukti žodį „biudžeto“ ir šią dalį išdėstyti taip: ^s-d7eb457d755e2474df3b3ed9
 
 
 „3. Fondo veiklos pajamas ir iš į Fondo apskaitą įtraukto turto gaunamas pajamas sudaro:
 
 
-1) Fondo pajamos iš tiesioginės, su socialiniu draudimu susijusios, Fondo administravimo įstaigų veiklos (išieškotinos praėjusiais metais neteisėtai padarytos išlaidos, sumos Fondui padarytai žalai atlyginti ir kt.); ^7ff359751a6e7bab348bdeca
+1) Fondo pajamos iš tiesioginės, su socialiniu draudimu susijusios, Fondo administravimo įstaigų veiklos (išieškotinos praėjusiais metais neteisėtai padarytos išlaidos, sumos Fondui padarytai žalai atlyginti ir kt.); ^s-d05a74be37247acd86a53070
 
 
-2) pajamos už Fondo administravimo įstaigų teikiamas (suteiktas) paslaugas, atlyginant šių paslaugų teikimo sąnaudas, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) nustatyta tvarka ar (ir) sutarčių su suinteresuotomis šalimis nustatyta tvarka; ^6ccab8aed9fda597a9f54fbc
+2) pajamos už Fondo administravimo įstaigų teikiamas (suteiktas) paslaugas, atlyginant šių paslaugų teikimo sąnaudas, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) nustatyta tvarka ar (ir) sutarčių su suinteresuotomis šalimis nustatyta tvarka; ^s-6c15f7031e45b7ce0ddccc9a
 
 
-3) pajamos iš į Fondo apskaitą įtraukto turto ir Fondo administravimo įstaigų pajamos, tiesiogiai nesusijusios su socialiniu draudimu (palūkanos; dividendai; pajamų, gautinų pardavus ilgalaikį materialųjį turtą, dalis, viršijanti jo likutinę vertę, ir kt.); ^15089e631b47fe436fc384dc
+3) pajamos iš į Fondo apskaitą įtraukto turto ir Fondo administravimo įstaigų pajamos, tiesiogiai nesusijusios su socialiniu draudimu (palūkanos; dividendai; pajamų, gautinų pardavus ilgalaikį materialųjį turtą, dalis, viršijanti jo likutinę vertę, ir kt.); ^s-feac329900c9ebb8cd827f87
 
 
-4) pajamos iš valstybės biudžeto ir (ar) kitų šaltinių už Fondo administravimo įstaigoms pavestų funkcijų vykdymą; ^0dd58fa12fd91db2ee13a4c6
+4) pajamos iš valstybės biudžeto ir (ar) kitų šaltinių už Fondo administravimo įstaigoms pavestų funkcijų vykdymą; ^s-d041365fa7c63b6ac276de54
 
 
-5) kitos pajamos.“ ^81bf1a1f736d11f465f92d5e
+5) kitos pajamos.“ ^s-7f3ea0c0371724c49681a784
 
 
 
-### 2 straipsnis. 4 straipsnio 3 dalies 1 punkto pakeitimas
+### 2 straipsnis. 4 straipsnio 3 dalies 1 punkto pakeitimas ^s-c12476838f9177468aa479e6
 
 
 Pakeisti 4 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -77,62 +82,62 @@ Pakeisti 4 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 5 straipsnio pakeitimas
+### 3 straipsnis. 5 straipsnio pakeitimas ^s-b2d99dfb639da14516abbf5c
 
 
-1. [[#5 straipsnis. 7 straipsnio 6 dalies pakeitimas|5 straipsnio]] pavadinime po žodžio „Fondo“ įrašyti žodį „biudžeto“ ir šį pavadinimą išdėstyti taip: ^7356efa7e1fce0729eb1513f
+1. [[#^s-6441faa8e3c6381d295c5a45|5 straipsnio]] pavadinime po žodžio „Fondo“ įrašyti žodį „biudžeto“ ir šį pavadinimą išdėstyti taip: ^s-d026e8d77689f95155f83911
 
 
 
 „5 straipsnis. Fondo biudžeto išlaidos“.
 
 
-2. Pakeisti 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^bf90b63d079850ede7a64955
+2. Pakeisti 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip: ^s-8edcaf663844050692025253
 
 
 „4) nedarbo socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo išmokoms ir (arba) Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti;“.
 
 
-3. 5 straipsnio 1 dalies 6 punktą pripažinti netekusiu galios. ^b5e28f324cf3d5b732dae222
+3. 5 straipsnio 1 dalies 6 punktą pripažinti netekusiu galios. ^s-e464ca4bc97b69348587f922
 
 
-4. Pakeisti 5 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^b1871759bc94d62b37462dfb
+4. Pakeisti 5 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-e392215fadca5b525e8e1b13
 
 
 „2) Fondo veiklos sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo, ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo (amortizacijos) sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti pajamas, gautinas pardavus šį turtą, ekspertinių paslaugų išlaidos, kitos Fondo sąnaudos (palūkanos, delspinigiai, nuostolis dėl į Fondo apskaitą įtraukto turto vertės sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinį draudimą, socialinio draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos Sąjungos reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus registrus, pensijų socialinio draudimo įmokų dalies pervedimą pensijų kaupimo bendrovėms, išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų šaltinių, apskaičiavimą ir mokėjimą.“
 
 
 
-### 4 straipsnis. 6 straipsnio pakeitimas
+### 4 straipsnis. 6 straipsnio pakeitimas ^s-34a68f47ad6d1e930609d79d
 
 
-Pakeisti [[#6 straipsnis. 9 straipsnio pakeitimas|6 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-58be69d9c79fbb9a9c105cc6|6 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#6 straipsnis. 9 straipsnio pakeitimas|6 straipsnis]]. Fondo biudžeto išlaidų planavimas kitiems biudžetiniams metams
+„[[#^s-58be69d9c79fbb9a9c105cc6|6 straipsnis]]. Fondo biudžeto išlaidų planavimas kitiems biudžetiniams metams
 
 
 Fondo biudžeto išlaidos kitiems biudžetiniams metams planuojamos:
 
 
-1) atskiroms socialinio draudimo rūšims – atsižvelgiant į šalies ekonominės raidos scenarijų, demografinius rodiklius, kitiems biudžetiniams metams numatomus įmokų tarifus atskiroms socialinio draudimo rūšims, taip pat draudžiamųjų pajamų bazės, savarankiškai dirbančių ar savanoriškuoju socialiniu draudimu apsidraudusių asmenų socialiniam draudimui deklaruotų pajamų sumų, apdraustųjų ir socialinio draudimo išmokų gavėjų skaičiaus kitimą per paskutinius dvejus metus; ^babd8823d798de7809bce8f0
+1) atskiroms socialinio draudimo rūšims – atsižvelgiant į šalies ekonominės raidos scenarijų, demografinius rodiklius, kitiems biudžetiniams metams numatomus įmokų tarifus atskiroms socialinio draudimo rūšims, taip pat draudžiamųjų pajamų bazės, savarankiškai dirbančių ar savanoriškuoju socialiniu draudimu apsidraudusių asmenų socialiniam draudimui deklaruotų pajamų sumų, apdraustųjų ir socialinio draudimo išmokų gavėjų skaičiaus kitimą per paskutinius dvejus metus; ^s-5f639ec403ea14e5807c8d83
 
 
-2) lėšos, pervedamos į pensijų fondus, – atsižvelgiant į šalies ekonominės raidos scenarijų, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais biudžetiniais metais, skaičių; ^09ab7161a4d4e18a5580814e
+2) lėšos, pervedamos į pensijų fondus, – atsižvelgiant į šalies ekonominės raidos scenarijų, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais biudžetiniais metais, skaičių; ^s-caf2e3480caf01d736fe3dc8
 
 
-3) neatgautinos ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per paskutinius dvejus metus; ^6edbac4750d296d1a6ab41bf
+3) neatgautinos ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per paskutinius dvejus metus; ^s-e1202112fc0aad95e53070da
 
 
-4) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas; ^fc0228d4a27a946427cd4d04
+4) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas; ^s-790184639979bc8bab24909c
 
 
-5) Fondo veiklos sąnaudos, skirtos išmokų, finansuojamų iš valstybės biudžeto, skyrimo, mokėjimo ir pristatymo sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą išmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. Fondo veiklos sąnaudos, skirtos įmokų surinkimo ir pervedimo į fondus sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą įmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti.“ ^85056f23e0fe404e995d4f2e
+5) Fondo veiklos sąnaudos, skirtos išmokų, finansuojamų iš valstybės biudžeto, skyrimo, mokėjimo ir pristatymo sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą išmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. Fondo veiklos sąnaudos, skirtos įmokų surinkimo ir pervedimo į fondus sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą įmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti.“ ^s-b7a4508e3b4b4e3e38bff0b1
 
 
 
-### 5 straipsnis. 7 straipsnio 6 dalies pakeitimas
+### 5 straipsnis. 7 straipsnio 6 dalies pakeitimas ^s-6441faa8e3c6381d295c5a45
 
 
 7 straipsnio 6 dalyje vietoj skaičiaus ir žodžio „3 mėnesių“ įrašyti žodžius „vieno mėnesio“ ir šią dalį išdėstyti taip:
@@ -143,82 +148,82 @@ Fondo biudžeto išlaidos kitiems biudžetiniams metams planuojamos:
 
 
 
-### 6 straipsnis. 9 straipsnio pakeitimas
+### 6 straipsnis. 9 straipsnio pakeitimas ^s-58be69d9c79fbb9a9c105cc6
 
 
-Pakeisti [[#9 straipsnis. 14 straipsnio 4 dalies pakeitimas|9 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#9 straipsnis. 14 straipsnio 4 dalies pakeitimas|9 straipsnis]]. Fondo biudžeto projekto rengimo ir teikimo Seimui tvarka
-
-
-1. Fondo biudžeto projektas sudaromas biudžetiniams metams. ^85a80f301787c9cccab7b771
-
-
-2. Fondo biudžeto projektą kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu, vadovaudamasi galiojančiomis šio įstatymo ir kitų socialinį draudimą reglamentuojančių teisės aktų bei Taisyklių nuostatomis ir atsižvelgdama į šalies ekonominės raidos scenarijų ir preliminarius pagrindinius valstybės biudžeto rodiklius, rengia ir su Socialinės apsaugos ir darbo ministerija suderina Fondo valdyba. Kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu taip pat parengiamas Fondo biudžeto projekto aiškinamasis raštas ir kitų dvejų biudžetinių metų numatomų Fondo biudžeto rodiklių prognozė. Fondo valdyba Fondo biudžeto rodiklių patvirtinimo įstatymo projektą kartu su lydimaisiais dokumentais ir pagrindimais teikia svarstyti Fondo tarybai. ^ad76402b1eadaf34276c346e
-
-
-3. Fondo tarybai apsvarsčius Fondo biudžeto rodiklių patvirtinimo įstatymo projektą, Fondo valdyba jį kartu su Fondo tarybos išvada ir lydimaisiais dokumentais bei pagrindimais teikia Socialinės apsaugos ir darbo ministerijai, kuri teisės aktų nustatyta tvarka teikia juos derinti Finansų ministerijai ir Teisingumo ministerijai, o suderinusi – teikia svarstyti Vyriausybei. ^247279c220cd0bece40df6e3
-
-
-4. Vyriausybė, pritarusi Fondo biudžeto rodiklių patvirtinimo įstatymo projektui, nustatyta tvarka ne vėliau kaip likus 75 kalendorinėms dienoms iki einamųjų biudžetinių metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu teikiami Fondo biudžeto projekto aiškinamasis raštas ir kitų dvejų biudžetinių metų numatomų Fondo biudžeto rodiklių prognozė, Fondo tarybos išvada, draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių pagrindimas ir kiti būtini dokumentai.“ ^1d89f7d48a7a8506b57d3169
+Pakeisti [[#^s-41c981768610b0fba1004465|9 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 7 straipsnis. 11 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+„[[#^s-41c981768610b0fba1004465|9 straipsnis]]. Fondo biudžeto projekto rengimo ir teikimo Seimui tvarka
 
 
-1. Pakeisti [[#^1373db490794b67560e33e66|11 straipsnio 1 dalį]] ir ją išdėstyti taip: ^ba33bd08e4d2fe7e13c69428
+1. Fondo biudžeto projektas sudaromas biudžetiniams metams. ^s-71f89b2aa6d8073f3689ea0f
+
+
+2. Fondo biudžeto projektą kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu, vadovaudamasi galiojančiomis šio įstatymo ir kitų socialinį draudimą reglamentuojančių teisės aktų bei Taisyklių nuostatomis ir atsižvelgdama į šalies ekonominės raidos scenarijų ir preliminarius pagrindinius valstybės biudžeto rodiklius, rengia ir su Socialinės apsaugos ir darbo ministerija suderina Fondo valdyba. Kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu taip pat parengiamas Fondo biudžeto projekto aiškinamasis raštas ir kitų dvejų biudžetinių metų numatomų Fondo biudžeto rodiklių prognozė. Fondo valdyba Fondo biudžeto rodiklių patvirtinimo įstatymo projektą kartu su lydimaisiais dokumentais ir pagrindimais teikia svarstyti Fondo tarybai. ^s-9e22bab4dde8583899442120
+
+
+3. Fondo tarybai apsvarsčius Fondo biudžeto rodiklių patvirtinimo įstatymo projektą, Fondo valdyba jį kartu su Fondo tarybos išvada ir lydimaisiais dokumentais bei pagrindimais teikia Socialinės apsaugos ir darbo ministerijai, kuri teisės aktų nustatyta tvarka teikia juos derinti Finansų ministerijai ir Teisingumo ministerijai, o suderinusi – teikia svarstyti Vyriausybei. ^s-95fb5ed34d6a26384316c510
+
+
+4. Vyriausybė, pritarusi Fondo biudžeto rodiklių patvirtinimo įstatymo projektui, nustatyta tvarka ne vėliau kaip likus 75 kalendorinėms dienoms iki einamųjų biudžetinių metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu teikiami Fondo biudžeto projekto aiškinamasis raštas ir kitų dvejų biudžetinių metų numatomų Fondo biudžeto rodiklių prognozė, Fondo tarybos išvada, draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių pagrindimas ir kiti būtini dokumentai.“ ^s-983950c2e64232353e0cebde
+
+
+
+### 7 straipsnis. 11 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi ^s-157a7ac66815d8fe3d82b997
+
+
+1. Pakeisti [[#^s-db38df2449b9ce81dd40b9ea|11 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-4e32e7b908821e66cdfe2dad
 
 
 „1. Fondo biudžeto rodiklių patvirtinimo įstatymu atitinkamiems biudžetiniams metams tvirtinami:
 
 
-1) Fondo biudžetas (pajamos, išlaidos, planuojamas metų rezultatas); ^db577318473d9377375b8ec6
+1) Fondo biudžetas (pajamos, išlaidos, planuojamas metų rezultatas); ^s-89501ba473496d96a36a576f
 
 
-2) Fondo biudžeto atitinkamų biudžetinių metų piniginės įplaukos ir išlaidos bei kasos apyvartos lėšos; ^bde0d9bce72c2fb1e42e2d38
+2) Fondo biudžeto atitinkamų biudžetinių metų piniginės įplaukos ir išlaidos bei kasos apyvartos lėšos; ^s-becadf6442935d196fc0e3cf
 
 
-3) įmokų tarifai (draudėjų bendrasis pensijų, ligos ir motinystės, nedarbo įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupės ir šių grupių tarifai; apdraustųjų bendrasis įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims); ^cf23762c2e3236458d8f671a
+3) įmokų tarifai (draudėjų bendrasis pensijų, ligos ir motinystės, nedarbo įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupės ir šių grupių tarifai; apdraustųjų bendrasis įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims); ^s-b312bc9a19a35138fc1b4dfa
 
 
-4) įmokų valstybinės socialinio draudimo pensijos pagrindinei ir papildomai dalims gauti tarifai; ^da2e5081c2d32666ad805be6
+4) įmokų valstybinės socialinio draudimo pensijos pagrindinei ir papildomai dalims gauti tarifai; ^s-8748bed819a4077663a2be03
 
 
-5) nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti dydis; ^660b7091919680d1a6cb65cd
+5) nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti dydis; ^s-88a1a968eceef711db46d97b
 
 
-6) įmokų savanoriškojo pensijų socialinio draudimo pagrindinei ir papildomai pensijos dalims gauti tarifai; ^d310053e24d47f8c8959b5e9
+6) įmokų savanoriškojo pensijų socialinio draudimo pagrindinei ir papildomai pensijos dalims gauti tarifai; ^s-ca1c66d5c7807eef413ede03
 
 
-7) apdraustųjų, dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos pensijų kaupimo bendrovėms, tarifas; ^f05f153cf75c53fc4961d47e
+7) apdraustųjų, dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos pensijų kaupimo bendrovėms, tarifas; ^s-7f11974113fa23e15039c37a
 
 
-8) pensijų socialinio draudimo įmokų tarifo dalis, skirta valstybinės socialinio draudimo senatvės pensijos papildomai daliai; ^24cf52e2fb46e614f9805db7
+8) pensijų socialinio draudimo įmokų tarifo dalis, skirta valstybinės socialinio draudimo senatvės pensijos papildomai daliai; ^s-5f6841efe9dfa1b5d309745a
 
 
-9) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis; ^e0d1bc79c0e7799f4a32f814
+9) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis; ^s-0f38a257b162902c31755254
 
 
-10) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos; ^3576b8b0adb6afad903a40b3
+10) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos; ^s-627f9970da5876556d53b918
 
 
-11) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos šių įmokų surinkimo sumos; ^6b91e23ca48f4675ec1357b0
+11) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos šių įmokų surinkimo sumos; ^s-03b29571d199b3c9f079ff57
 
 
-12) kiti rodikliai, būtini Fondo biudžetui vykdyti.“ ^a59aea9814911c901867266d
+12) kiti rodikliai, būtini Fondo biudžetui vykdyti.“ ^s-306860d60d92bad3298a5fe0
 
 
-2. Papildyti [[#^0af53976a565d466a461576c|11 straipsnį 3 dalimi]]: ^3e0adab5cb75c4d854adfcc6
+2. Papildyti [[#^s-9ddf0e9c4b1bbae9487ff082|11 straipsnį 3 dalimi]]: ^s-465de438480ff4a22143e4b2
 
 
 „3. Fondo biudžeto rodiklių patvirtinimo įstatymu numatomas paskolų, paimtų siekiant vykdyti įsipareigojimus apdraustiesiems, palūkanų dengimas iš Lietuvos Respublikos valstybės biudžeto lėšų.“
 
 
 
-### 8 straipsnis. 13 straipsnio papildymas 4 dalimi
+### 8 straipsnis. 13 straipsnio papildymas 4 dalimi ^s-265c1ee4eea6583e7634812e
 
 
 Papildyti 13 straipsnį 4 dalimi:
@@ -228,17 +233,17 @@ Papildyti 13 straipsnį 4 dalimi:
 
 
 
-### 9 straipsnis. 14 straipsnio 4 dalies pakeitimas
+### 9 straipsnis. 14 straipsnio 4 dalies pakeitimas ^s-41c981768610b0fba1004465
 
 
 14 straipsnio 4 dalyje po žodžių „iš valstybės biudžeto išmokėti“ įrašyti žodžius „ir joms administruoti“ ir šią dalį išdėstyti taip:
 
 
-„4. Pasibaigus biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti Fondui įmokoms už valstybės lėšomis draudžiamus asmenis ir išmokoms iš valstybės biudžeto išmokėti ir joms administruoti, Biudžeto sandaros įstatymo nustatyta tvarka grąžinami į valstybės biudžetą.“
+„4. Pasibaigus biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti Fondui įmokoms už valstybės lėšomis draudžiamus asmenis ir išmokoms iš valstybės biudžeto išmokėti ir joms administruoti, [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatymo]] nustatyta tvarka grąžinami į valstybės biudžetą.“
 
 
 
-### 10 straipsnis. 15 straipsnio pakeitimas
+### 10 straipsnis. 15 straipsnio pakeitimas ^s-993b970c443cec75c994c69c
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -248,27 +253,27 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Fondo metinių konsoliduotųjų ataskaitų rinkinio rengimas ir tvirtinimas
 
 
-1. Fondo metinių konsoliduotųjų ataskaitų rinkinį rengia Fondo valdyba. ^1483ec808693197785659178
+1. Fondo metinių konsoliduotųjų ataskaitų rinkinį rengia Fondo valdyba. ^s-25ae5bea00db518ac2137791
 
 
-2. Fondo valdyba Fondo metinių konsoliduotųjų ataskaitų rinkinį teikia svarstyti Fondo tarybai, kuri pateikia išvadą. Fondo valdyba Fondo metinių konsoliduotųjų ataskaitų rinkinį kartu su Fondo tarybos išvada teikia Socialinės apsaugos ir darbo ministerijai, o ši teisės aktų nustatyta tvarka teikia juos derinti Finansų ministerijai. ^b0d7525f662cc2501a2e3170
+2. Fondo valdyba Fondo metinių konsoliduotųjų ataskaitų rinkinį teikia svarstyti Fondo tarybai, kuri pateikia išvadą. Fondo valdyba Fondo metinių konsoliduotųjų ataskaitų rinkinį kartu su Fondo tarybos išvada teikia Socialinės apsaugos ir darbo ministerijai, o ši teisės aktų nustatyta tvarka teikia juos derinti Finansų ministerijai. ^s-6dac9ed31eb2050fa416fc2b
 
 
-3. Fondo metinių konsoliduotųjų ataskaitų rinkinio teikimą už aukštesniojo lygio konsoliduotųjų ataskaitų rinkinio parengimą atsakingam viešojo sektoriaus subjektui ir Vyriausybei, jo tvirtinimą, skelbimą ir auditą reglamentuoja Viešojo sektoriaus atskaitomybės įstatymas.“ ^d88ce0d45c8f077a6e1b21a2
+3. Fondo metinių konsoliduotųjų ataskaitų rinkinio teikimą už aukštesniojo lygio konsoliduotųjų ataskaitų rinkinio parengimą atsakingam viešojo sektoriaus subjektui ir Vyriausybei, jo tvirtinimą, skelbimą ir auditą reglamentuoja [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]].“ ^s-b6f24ef3319a0b4d70a02901
 
 
 
 
-### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-8c7070c2cb63028af9c26bd6
 
 
-1. Šis įstatymas, išskyrus [[#^3e0adab5cb75c4d854adfcc6|7 straipsnio 2 dalį]] ir [[#^567e203e35a91b2c22ad89d7|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^1373db490794b67560e33e66
+1. Šis įstatymas, išskyrus [[#^s-465de438480ff4a22143e4b2|7 straipsnio 2 dalį]] ir [[#^s-977f734f7ff9a4e45bb3dea9|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-db38df2449b9ce81dd40b9ea
 
 
-2. Šio įstatymo [[#^3e0adab5cb75c4d854adfcc6|7 straipsnio 2 dalies]] normos taikomos nustatant paskolų, suteiktų po 2014 m. sausio 1 d., palūkanų dengimą iš Lietuvos Respublikos valstybės biudžeto lėšų. ^567e203e35a91b2c22ad89d7
+2. Šio įstatymo [[#^s-465de438480ff4a22143e4b2|7 straipsnio 2 dalies]] normos taikomos nustatant paskolų, suteiktų po 2014 m. sausio 1 d., palūkanų dengimą iš Lietuvos Respublikos valstybės biudžeto lėšų. ^s-977f734f7ff9a4e45bb3dea9
 
 
-3. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija atitinkamai iki 2012 m. gruodžio 1 d. ir iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^0af53976a565d466a461576c
+3. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija atitinkamai iki 2012 m. gruodžio 1 d. ir iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-9ddf0e9c4b1bbae9487ff082
 
 
 

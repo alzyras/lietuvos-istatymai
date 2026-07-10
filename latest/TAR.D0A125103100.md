@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D0A125103100"
 pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 12, 42, 46-1 ir 53 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 12, 42, 46-1 ir 53 straipsnių pakeitimo įstatymas"
+  - "pelno mokesčio įstatymo 2, 4, 12, 42, 46-1 ir 53 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.D0A125103100.md"
 latest_sha256: "6dc50f21715ae2c91691b552569d29eb09bafa5b5299b86a4f24f11ce35732b3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D0A125103100]]"
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 12, 42, 46-1 ir 53 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D0A125103100.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D0A125103100
+- Ryšiai: [[Ryšiai/TAR.D0A125103100|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 26 dalies 2 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 26 dalies 2 punkto pakeitimas ^s-ff37650492b9aacfdd611042
 
 
 Pakeisti 2 straipsnio 26 dalies 2 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 2 straipsnio 26 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 4 dalies 7 punkto pakeitimas
+### 2 straipsnis. 4 straipsnio 4 dalies 7 punkto pakeitimas ^s-73f64075cc2a85a1877c8cd3
 
 
 Pakeisti 4 straipsnio 4 dalies 7 punktą ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 4 straipsnio 4 dalies 7 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 12 straipsnio 15 punkto pakeitimas
+### 3 straipsnis. 12 straipsnio 15 punkto pakeitimas ^s-f6f368d7ee52a0d858fa2b39
 
 
 Pakeisti 12 straipsnio 15 punktą ir jį išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 12 straipsnio 15 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 42 straipsnio 10 dalies pakeitimas
+### 4 straipsnis. 42 straipsnio 10 dalies pakeitimas ^s-daaf82622fe1f49b77f50fc7
 
 
 Pakeisti 42 straipsnio 10 dalį ir ją išdėstyti taip:
@@ -73,48 +78,48 @@ Pakeisti 42 straipsnio 10 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 461 straipsnio 1 ir 4 dalių pakeitimas
+### 5 straipsnis. 461 straipsnio 1 ir 4 dalių pakeitimas ^s-5ad71b20572c1894a4d1a3c9
 
 
-1. Pakeisti 461 straipsnio 1 dalį ir ją išdėstyti taip: ^3bdb8b80ef459b82ac44530b
+1. Pakeisti 461 straipsnio 1 dalį ir ją išdėstyti taip: ^s-eea6540a686fda9582fbc78a
 
 
 „1. Vienetas, vykdantis investicinį projektą, apmokestinamąjį pelną gali sumažinti šiame straipsnyje nustatyta tvarka. Apmokestinamąjį pelną galima sumažinti per mokestinį laikotarpį, už kurį apskaičiuotas apmokestinamasis pelnas mažinamas, faktiškai patirtų išlaidų šioje dalyje nurodytus reikalavimus atitinkančiam turtui įsigyti dydžiu (įsigyjant krovininius automobilius, priekabas ir puspriekabes, apmokestinamąjį pelną dėl šio turto įsigijimo galima sumažinti tik iki vieno milijono litų patirtų išlaidų per mokestinį laikotarpį suma). Apmokestinamasis pelnas mažinamas, jeigu turtas yra reikalingas vieneto investicinio projekto vykdymui ir:
 
 
-1) turtas yra priskirtinas šio Įstatymo 1 priedėlyje nurodytoms ilgalaikio turto grupėms „mašinos ir įrengimai“, „įrenginiai (statiniai, gręžiniai ir kt.)“, „kompiuterinė technika ir ryšių priemonės (kompiuteriai, jų tinklai ir įranga)“, „programinė įranga“, „įsigytos teisės“ ir ilgalaikio turto grupės „krovininiai automobiliai, priekabos ir puspriekabės, autobusai – ne senesni kaip 5 metų“ turtui – krovininiams automobiliams, priekaboms ir puspriekabėms, ir ^379ee2109f9409931ceb0ddf
+1) turtas yra priskirtinas šio Įstatymo 1 priedėlyje nurodytoms ilgalaikio turto grupėms „mašinos ir įrengimai“, „įrenginiai (statiniai, gręžiniai ir kt.)“, „kompiuterinė technika ir ryšių priemonės (kompiuteriai, jų tinklai ir įranga)“, „programinė įranga“, „įsigytos teisės“ ir ilgalaikio turto grupės „krovininiai automobiliai, priekabos ir puspriekabės, autobusai – ne senesni kaip 5 metų“ turtui – krovininiams automobiliams, priekaboms ir puspriekabėms, ir ^s-1a67e84fd6eb08a132f261a4
 
 
-2) turtas yra nenaudotas ir pagamintas ne anksčiau kaip prieš 2 metus (skaičiuojant nuo ilgalaikio turto naudojimo pradžios).“ ^dcce77b0630bb8f43cded675
+2) turtas yra nenaudotas ir pagamintas ne anksčiau kaip prieš 2 metus (skaičiuojant nuo ilgalaikio turto naudojimo pradžios).“ ^s-c4174c95f73a7e26c7ddbf69
 
 
-2. Pakeisti 461 straipsnio 4 dalį ir ją išdėstyti taip: ^cd5b1cad115705e492da0b32
+2. Pakeisti 461 straipsnio 4 dalį ir ją išdėstyti taip: ^s-0a9ad539b22bd4aaff6cca68
 
 
 „4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2018 metų mokestinius laikotarpius patirtomis išlaidomis.“
 
 
 
-### 6 straipsnis. 53 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 53 straipsnio 1 dalies pakeitimas ^s-06ba2c6cd6418f5fbba84571
 
 
 Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip iki kito mokestinio laikotarpio šešto mėnesio pirmos dienos. Veiklą baigiančių mokesčio mokėtojų pelno mokestis ir (arba) fiksuotas pelno mokestis pagal paskutinio mokestinio laikotarpio metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.“
+„1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip iki kito mokestinio laikotarpio šešto mėnesio pirmos dienos. Veiklą baigiančių mokesčio mokėtojų pelno mokestis ir (arba) fiksuotas pelno mokestis pagal paskutinio mokestinio laikotarpio metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka.“
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-cc193424489af13efd94443b
 
 
-1. Šio įstatymo 1 ir [[#2 straipsnis. 4 straipsnio 4 dalies 7 punkto pakeitimas|2 straipsniai]] įsigalioja 2014 m. sausio 1 d. ^8554202be1f5d487b5122b49
+1. Šio įstatymo 1 ir [[#^s-73f64075cc2a85a1877c8cd3|2 straipsniai]] įsigalioja 2014 m. sausio 1 d. ^s-c61ca82cf5397dccc65be4f3
 
 
-2. Šio įstatymo 3, [[#4 straipsnis. 42 straipsnio 10 dalies pakeitimas|4 straipsnių]], [[#^3bdb8b80ef459b82ac44530b|5 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^3075b9dd8957e72fa794198a
+2. Šio įstatymo 3, [[#^s-daaf82622fe1f49b77f50fc7|4 straipsnių]], [[#^s-eea6540a686fda9582fbc78a|5 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-cf263580b046d3e9e8a12d22
 
 
-3. Šio įstatymo [[#6 straipsnis. 53 straipsnio 1 dalies pakeitimas|6 straipsnio]] nuostatos taikomos deklaruojant 2013 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^028e97c0d9c2407381fd4fb9
+3. Šio įstatymo [[#^s-06ba2c6cd6418f5fbba84571|6 straipsnio]] nuostatos taikomos deklaruojant 2013 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-3947df704ba0ff12da181407
 
 
 

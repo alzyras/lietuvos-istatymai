@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.083F66B0A616"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir invalidumo pensijų dalies išmokėjimo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir invalidumo pensijų dalies išmokėjimo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo senatvės ir invalidumo pensijų dalies išmokėjimo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.083F66B0A616.md"
 latest_sha256: "d8bf3313cc584e2f976ad347baf089410f6c9072edb622a09fbdbc2f46571bf1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.083F66B0A616]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir invalidumo pensijų dalies išmokėjimo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.083F66B0A616.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.083F66B0A616
+- Ryšiai: [[Ryšiai/TAR.083F66B0A616|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-a69cde8852a82a0b5d80dc9e
 
 
 5 straipsnio 1 dalyje vietoj skaičiaus „2010“ įrašyti skaičių „2012“ ir šią dalį išdėstyti taip:
@@ -43,13 +48,13 @@ Vilnius
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-6b0f83ae261f472adcd6e9b8
 
 
-1. Lietuvos Respublikos Vyriausybė iki 2009 m. gruodžio 31 d. parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^0d28fb48b1173315a11da394
+1. Lietuvos Respublikos Vyriausybė iki 2009 m. gruodžio 31 d. parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-ac0f2fa339c9a6d46b93b28d
 
 
-2. Šis įstatymas, išskyrus [[#^0d28fb48b1173315a11da394|šio straipsnio 1 dalį]], įsigalioja 2010 m. sausio 1 d. ^1a8b44cec1939de0f1525c6d
+2. Šis įstatymas, išskyrus [[#^s-ac0f2fa339c9a6d46b93b28d|šio straipsnio 1 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-ff39bb8b8845bcae77b1b2a5
 
 
 

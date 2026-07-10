@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.225EE4FCDBAA"
 pavadinimas: "Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas"
+  - "azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-09-01"
 latest_path: "latest/TAR.225EE4FCDBAA.md"
 latest_sha256: "5e0bba54e34168c8ec84478479fa0e639eae44cc6aeb1dc0823d435a3f26a900"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.225EE4FCDBAA]]"
 ---
 # Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.225EE4FCDBAA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.225EE4FCDBAA
+- Ryšiai: [[Ryšiai/TAR.225EE4FCDBAA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,20 +36,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-970e7595a1ca15191413f68d
 
 
-[[#3 straipsnis. Įstatymo įsigaliojimas|3 straipsnyje]] vietoj žodžio „mėnuo“ įrašyti žodį „ketvirtis“ ir šį straipsnį išdėstyti taip:
+[[#^s-76c7953d17e2998b3e79811d|3 straipsnyje]] vietoj žodžio „mėnuo“ įrašyti žodį „ketvirtis“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. Įstatymo įsigaliojimas|3 straipsnis]]. Mokestinis laikotarpis
+„[[#^s-76c7953d17e2998b3e79811d|3 straipsnis]]. Mokestinis laikotarpis
 
 
 Lošimų mokesčio mokestinis laikotarpis yra kalendorinių metų ketvirtis.“
 
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-896c4f98a131110a1eec18ac
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,17 +58,17 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Organizuojant lošimus automatais, stalo lošimus, nustatomas fiksuotas lošimų mokesčio dydis už kiekvieną lošimo įrenginį:
 
 
- 1) už A kategorijos lošimo automatą ^0c891597ec50ca4a17aac530
+ 1) už A kategorijos lošimo automatą ^s-f06b90bee20e02d3cf1df19f
  –
  1800 litų per mokestinį laikotarpį;
 
 
- 2) už B kategorijos lošimo automatą ^6d0079ab1031534ff6b254c7
+ 2) už B kategorijos lošimo automatą ^s-a7b50bf5ef8c663dd802ecf3
  –
  600 litų per mokestinį laikotarpį;
 
 
- 3) už ruletes, kortų arba kauliukų stalą ^e6ace22ef35674e181434098
+ 3) už ruletes, kortų arba kauliukų stalą ^s-26e3c2476c6680388d891b88
  –
  12 000 litų per mokestinį laikotarpį.“
 
@@ -71,7 +76,7 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-76c7953d17e2998b3e79811d
 
 
 Šis Įstatymas įsigalioja nuo 2002 m. rugsėjo 1 d.

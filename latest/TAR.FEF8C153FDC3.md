@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FEF8C153FDC3"
 pavadinimas: "Lietuvos Respublikos karo prievolės įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo prievolės įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "karo prievolės įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-08-08"
 latest_path: "latest/TAR.FEF8C153FDC3.md"
 latest_sha256: "bcf040e1ba3594ea56f6a1f042bf2f2cd0d6a9694a3ec1491c75c6c87c2de3bf"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FEF8C153FDC3]]"
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FEF8C153FDC3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FEF8C153FDC3
+- Ryšiai: [[Ryšiai/TAR.FEF8C153FDC3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas ^s-e578c068831d497f94d076aa
 
 
 9 straipsnio 1 dalies 1 punkte išbraukti žodžius „dieninių, vakarinių vidurinių“, vietoj žodžio „moksleiviams“ įrašyti žodį „mokiniams“, vietoj skaičiaus „20“ įrašyti skaičių „21“ ir visą punktą išdėstyti taip:

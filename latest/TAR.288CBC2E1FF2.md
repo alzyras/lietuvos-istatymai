@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.288CBC2E1FF2"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio papildymo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-19"
 latest_path: "latest/TAR.288CBC2E1FF2.md"
 latest_sha256: "abbf3024bf0586e7ab3361c2077ba614220093f374cb9f6afd32cfe9ac4861c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.288CBC2E1FF2]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.288CBC2E1FF2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.288CBC2E1FF2
+- Ryšiai: [[Ryšiai/TAR.288CBC2E1FF2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio IV skirsnio papildymas
+### 1 straipsnis. Įstatymo priedėlio IV skirsnio papildymas ^s-1f60d6b140eb9c7a8a0383f0
 
 
 Papildyti Įstatymo priedėlio IV skirsnį 12 punktu:

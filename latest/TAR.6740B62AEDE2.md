@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6740B62AEDE2"
 pavadinimas: "Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" įsigaliojimo"
+aliases:
+  - "Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo\" įsigaliojimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-01"
 latest_path: "latest/TAR.6740B62AEDE2.md"
 latest_sha256: "5f2a8e8ae3d5353e94b5f65196b408fac90cadb2ce7170840c0957c65f0f8f91"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6740B62AEDE2]]"
 ---
 # Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" įsigaliojimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6740B62AEDE2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6740B62AEDE2
+- Ryšiai: [[Ryšiai/TAR.6740B62AEDE2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +36,7 @@ Vilnius
 1 straipsnis
 
 
-Lietuvos Respublikos teismų įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
+[[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] įsigalioja nuo 1995 m. sausio 1 dienos.
 
 
 
@@ -101,14 +105,14 @@ Teismų sprendimai, nuosprendžiai, nutartys ir nutarimai, įsiteisėję iki 199
 7 straipsnis
 
 
-Iki šiol išrinktų arba paskirtų apylinkių teismų teisėjų įgaliojimų laikas yra penkeri metai nuo jų išrinkimo arba paskyrimo dienos. Pasibaigus šiam laikui teisėjai gali būti skiriami vadovaujantis Lietuvos Respublikos teismų įstatymo 36 straipsniu.
+Iki šiol išrinktų arba paskirtų apylinkių teismų teisėjų įgaliojimų laikas yra penkeri metai nuo jų išrinkimo arba paskyrimo dienos. Pasibaigus šiam laikui teisėjai gali būti skiriami vadovaujantis [[latest/TAR.522B3E415B52#^s-8fc6ceeed3b24323f8ce6622|Lietuvos Respublikos teismų įstatymo 36 straipsniu]].
 
 
 
 8 straipsnis
 
 
-Lietuvos Respublikos įstatymo [[latest/TAR.CCA48EFA01D1|„Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“]] 4–6 straipsnių normos, reglamentuojančios reikalavimus asmenims, galintiems būti šių teismų teisėjais, taip pat patariamąja institucija Respublikos Prezidentui, taikomos iki Lietuvos Respublikos teismų įstatymo įsigaliojimo.
+Lietuvos Respublikos įstatymo [[latest/TAR.CCA48EFA01D1|„Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“]] 4–6 straipsnių normos, reglamentuojančios reikalavimus asmenims, galintiems būti šių teismų teisėjais, taip pat patariamąja institucija Respublikos Prezidentui, taikomos iki [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymo]] įsigaliojimo.
 
 
 
@@ -250,7 +254,7 @@ NETENKA GALIOS
 28. Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. lapkričio 7 d. nutarimas „Dėl rajonų (miestų) teismų teisėjų ir tarėjų skaičiaus“ (Žin., 1991, Nr. 32-875).
 
 
-29. Lietuvos Respublikos teismų įstatymas (Žin., 1992, Nr. 8-208).
+29. [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] (Žin., 1992, Nr. 8-208).
 
 
 30. Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. vasario 6 d. nutarimas „Dėl Lietuvos Respublikos teismų įstatymo įsigaliojimo“ (Žin., 1992, Nr. 8-209).

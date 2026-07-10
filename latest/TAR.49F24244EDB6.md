@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.49F24244EDB6"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso\" 4 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso\" 4 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-11-15"
 latest_path: "latest/TAR.49F24244EDB6.md"
 latest_sha256: "be716b576835e53489d2f84120c0caa5daa086c323d41614a34120e13b3d3f71"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.49F24244EDB6]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso" 4 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.49F24244EDB6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.49F24244EDB6
+- Ryšiai: [[Ryšiai/TAR.49F24244EDB6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

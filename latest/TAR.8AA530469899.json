@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.8AA530469899.md",
   "latest_revision": "2015-07-01",
-  "latest_sha256": "740b5b236bbf7d0853cbbba5d4d62fb1634f70585377add1cadd6e225b74b6ef",
+  "latest_sha256": "e4ce0c53819da0864d65af1b0ca60a75abbb4a12d306f7643ebabf05c9f30786",
   "metadata_path": "latest/TAR.8AA530469899.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:27Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2E74917728DC"
 pavadinimas: "Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymo gyvendinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymo gyvendinimo įstatymo pakeitimo įstatymas"
+  - "valstybės iždo įstatymo pakeitimo įstatymo gyvendinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-03-08"
 latest_path: "latest/TAR.2E74917728DC.md"
 latest_sha256: "c5da4049788a37eaae3c158bf71971dbe3c35dbae9520ed37c47a80b747d7519"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2E74917728DC]]"
 ---
 # Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymo gyvendinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2E74917728DC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2E74917728DC
+- Ryšiai: [[Ryšiai/TAR.2E74917728DC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis.  1 straipsnio pakeitimas
+### 1 straipsnis.  1 straipsnio pakeitimas ^s-cc8cf5b22fe8586e2bb06dcc
 
 
 Pakeisti 1 straipsnio 4 punktą  ir jį išdėstyti taip:

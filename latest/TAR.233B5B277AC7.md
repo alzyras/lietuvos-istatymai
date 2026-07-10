@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.233B5B277AC7"
 pavadinimas: "Dėl kaimo vietovėje nuosavybės teise turinčių namus savininkų žemėnaudos  ir bendrosios jungtinės nuosavybės teisės"
+aliases:
+  - "Dėl kaimo vietovėje nuosavybės teise turinčių namus savininkų žemėnaudos  ir bendrosios jungtinės nuosavybės teisės"
+  - "Dėl kaimo vietovėje nuosavybės teise turinčių namus savininkų žemėnaudos ir bendrosios jungtinės nuosavybės teisės"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-11-27"
 latest_path: "latest/TAR.233B5B277AC7.md"
 latest_sha256: "e01914c88931d6f41ffd6f5ca44377d70212ec9c192fed5dc6a7992f3c90da88"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.233B5B277AC7]]"
 ---
 # Dėl kaimo vietovėje nuosavybės teise turinčių namus savininkų žemėnaudos  ir bendrosios jungtinės nuosavybės teisės
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.233B5B277AC7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.233B5B277AC7
+- Ryšiai: [[Ryšiai/TAR.233B5B277AC7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,30 +38,30 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
 
-### 1 straipsnis.
+### 1 straipsnis. ^s-c1836d9924c5a5721f037767
 
 
 Savininkai kaimo vietovėje prie jiems nuosavybės teise priklausančių gyvenamųjų namų ir kitų pastatų (sodybų) esančiais Lietuvos Respublikos žemės kodekso nustatytų dydžių sodybiniais sklypais, bet ne mažesniais kaip faktiškai sodybos užimama teritorija, naudojasi neterminuotai.
 
 
 
-### 2 straipsnis.
+### 2 straipsnis. ^s-c0d2537adcb1ff65e5ae2a64
 
 
 Sodybinis sklypas prie savininkams kaimo vietovėje priklausančių namų (sodybų) gali būti valstybės paimamas tik jį skiriant valstybės ar visuomenės reikalams. Šiuo atveju sodybos savininkas pasirinktinai turi teisę:
 
 
-1) gauti kompensaciją pagal realias kainas pinigais; ^a68010c071e4b02a16621107
+1) gauti kompensaciją pagal realias kainas pinigais; ^s-1049705075ee004e18d2384c
 
 
-2) pareikalauti, kad naujasis žemės naudotojas savo lėšomis ir jėgomis, jeigu yra techninės galimybės, perkeltų ar perstatytų sodybos statinius į kitą savininkui skirtą sodybinį sklypą; ^f822aec990afa68558c9a503
+2) pareikalauti, kad naujasis žemės naudotojas savo lėšomis ir jėgomis, jeigu yra techninės galimybės, perkeltų ar perstatytų sodybos statinius į kitą savininkui skirtą sodybinį sklypą; ^s-9a15d5a3feba0570259d24b3
 
 
-3) nesant techninių galimybių perkelti arba perstatyti sodybos statinius, pareikalauti, kad naujasis žemės naudotojas pastatytų gyvenamąjį namą ir kitus statinius pagal analogišką projektą kitame savininkui skirtame sodybiniame sklype. ^48306dc5b2dee07394de12eb
+3) nesant techninių galimybių perkelti arba perstatyti sodybos statinius, pareikalauti, kad naujasis žemės naudotojas pastatytų gyvenamąjį namą ir kitus statinius pagal analogišką projektą kitame savininkui skirtame sodybiniame sklype. ^s-a4df07b1ff8e01d2b55c50a3
 
 
 
-### 3 straipsnis.
+### 3 straipsnis. ^s-0500a92cae0a036819e224fc
 
 
 Kaimo vietovėje pereinant pastato (sodybos) nuosavybės teisei, pereina taip pat teisė naudotis sodybiniu sklypu prie gyvenamojo namo ir kitų pastatų (sodybų) be pirminio žemės naudotojo sutikimo.
@@ -66,7 +71,7 @@ Pastatui pereinant kelių bendrasavininkių nuosavybėn, taip pat pereinant past
 
 
 
-### 4 straipsnis.
+### 4 straipsnis. ^s-33efd2bdddba03f60fa7f6de
 
 
 Panaikinti kolūkiečių kiemo ir piliečio, užsiimančio individualia darbine veikla žemės ūkyje, šeimos bendrąją jungtinę nuosavybės teisę.
@@ -76,14 +81,14 @@ Nustatyti, kad, panaikinus šio straipsnio pirmoje dalyje nurodytą bendrąją j
 
 
 
-### 5 straipsnis.
+### 5 straipsnis. ^s-db8dcff1f5ab83514b997b4c
 
 
 Pripažinti netekusiais galios Lietuvos Respublikos civilinio kodekso 118, 132-141 straipsnius, 254 straipsnio antrąją dalį ir 601 straipsnį bei Lietuvos Respublikos žemės kodekso 88 straipsnį.
 
 
 
-### 6 straipsnis.
+### 6 straipsnis. ^s-c8a054738352fcd8c4ad49da
 
 
 Šis įstatymas įsigalioja nuo jo priėmimo dienos.

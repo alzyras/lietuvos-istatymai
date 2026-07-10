@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.789C6EE505FD.md",
   "latest_revision": "2008-08-18",
-  "latest_sha256": "f90d5dadc32b2a519cbf8165a4e26642e9dd6662386d5f38d36f46104ed8708a",
+  "latest_sha256": "ae5ce7829d7a1a82a50b7d9010d6621b7a0b065a80ccdf892491cd5e33d629f0",
   "metadata_path": "latest/TAR.789C6EE505FD.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

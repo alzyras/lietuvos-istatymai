@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.81BF52F3F2FF"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 3, 10, 12 straipsnių ir priedėlio pakeitimo ir papildymo įstatymo 5 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 3, 10, 12 straipsnių ir priedėlio pakeitimo ir papildymo įstatymo 5 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 3, 10, 12 straipsnių ir priedėlio pakeitimo ir papildymo įstatymo 5 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-11"
 latest_path: "latest/TAR.81BF52F3F2FF.md"
 latest_sha256: "f31f0ec2ad8e653529b586f08dde197dcaa85e43e8ce6c227a1b29ccdd9d0afe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.81BF52F3F2FF]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 3, 10, 12 straipsnių ir priedėlio pakeitimo ir papildymo įstatymo 5 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.81BF52F3F2FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.81BF52F3F2FF
+- Ryšiai: [[Ryšiai/TAR.81BF52F3F2FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 5 straipsnio pripažinimas netekusiu galios ^s-0b17b8f571eb1b77380697b7
 
 
 5 straipsnį pripažinti netekusiu galios.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7647ED906679"
 pavadinimas: "Lietuvos Respublikos bankų įstatymo 73 straipsnio ir priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bankų įstatymo 73 straipsnio ir priedo papildymo įstatymas"
+  - "bankų įstatymo 73 straipsnio ir priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-31"
 latest_path: "latest/TAR.7647ED906679.md"
 latest_sha256: "aacd8633cef244267c4812e97413da2295891415878961b70a9dad9971635f7a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7647ED906679]]"
 ---
 # Lietuvos Respublikos bankų įstatymo 73 straipsnio ir priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7647ED906679.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7647ED906679
+- Ryšiai: [[Ryšiai/TAR.7647ED906679|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 73 straipsnio papildymas 5 dalimi
+### 1 straipsnis. 73 straipsnio papildymas 5 dalimi ^s-05e29bb8db7556c210e336bd
 
 
 Papildyti 73 straipsnį 5 dalimi:
@@ -43,7 +48,7 @@ Papildyti 73 straipsnį 5 dalimi:
 
 
 
-### 2 straipsnis. Įstatymo priedo papildymas 11 punktu
+### 2 straipsnis. Įstatymo priedo papildymas 11 punktu ^s-3a798e8815618b7cbb7ac087
 
 
 Papildyti Įstatymo priedą 11 punktu:
@@ -53,7 +58,7 @@ Papildyti Įstatymo priedą 11 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-209f5935fadcf5526eb8c50d
 
 
 Šis įstatymas įsigalioja 2010 m. gruodžio 31 d.

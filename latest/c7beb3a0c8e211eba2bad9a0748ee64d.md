@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "c7beb3a0c8e211eba2bad9a0748ee64d"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 41 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 41 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo Nr. I-1336 41 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2021-07-01"
 latest_path: "latest/c7beb3a0c8e211eba2bad9a0748ee64d.md"
 latest_sha256: "dd93a889d389624b09380c2d461e3e6793613dd12f9381a6acb603c1a924e343"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/c7beb3a0c8e211eba2bad9a0748ee64d]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 41 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/c7beb3a0c8e211eba2bad9a0748ee64d.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/c7beb3a0c8e211eba2bad9a0748ee64d
+- Ryšiai: [[Ryšiai/c7beb3a0c8e211eba2bad9a0748ee64d|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 41 straipsnio pakeitimas
+### 1 straipsnis. 41 straipsnio pakeitimas ^s-1f0e8c6b9b2e94af64e02448
 
 
 Pakeisti 41 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 41 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f55a2194cecadb49e4a25625
 
 
 Šis įstatymas įsigalioja 2021 m. liepos 1 d.

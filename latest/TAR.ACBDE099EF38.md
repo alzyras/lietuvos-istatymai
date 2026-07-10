@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ACBDE099EF38"
 pavadinimas: "Lietuvos Respublikos bankų įstatymo 8, 25, 59, 65 ir 72 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos bankų įstatymo 8, 25, 59, 65 ir 72 straipsnių pakeitimo įstatymas"
+  - "bankų įstatymo 8, 25, 59, 65 ir 72 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.ACBDE099EF38.md"
 latest_sha256: "fff08e0d18c56ba15cd8b6430ee58177bb0c447e82faf36cbcbf91401207fe59"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ACBDE099EF38]]"
 ---
 # Lietuvos Respublikos bankų įstatymo 8, 25, 59, 65 ir 72 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ACBDE099EF38.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ACBDE099EF38
+- Ryšiai: [[Ryšiai/TAR.ACBDE099EF38|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 4 dalies pakeitimas ^s-35e58c99cedd22516e73b0a8
 
 
 Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -44,17 +49,17 @@ Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 „4. Priežiūros institucija konsultuojasi su kitos Europos Sąjungos valstybės narės priežiūros institucija, atsakinga už užsienio bankų, finansų maklerio įmonių ar draudimo įmonių priežiūrą, jeigu bankas bus:
 
 
-1) kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, finansų maklerio įmonės ar draudimo įmonės kontroliuojama įmonė; ^4eaaba41862ec45f1d188569
+1) kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, finansų maklerio įmonės ar draudimo įmonės kontroliuojama įmonė; ^s-a1eb3d88c6c6efa9a8ebced4
 
 
-2) kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, finansų maklerio įmonės ar draudimo įmonės patronuojančios įmonės kontroliuojama įmonė; ^b6401b6593436ea05559f7e2
+2) kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, finansų maklerio įmonės ar draudimo įmonės patronuojančios įmonės kontroliuojama įmonė; ^s-4702af21b2c13bec6699d5ed
 
 
-3) kontroliuojamas tų pačių asmenų, kurie kontroliuoja kitoje Europos Sąjungos valstybėje narėje licencijuotą užsienio banką, finansų maklerio įmonę ar draudimo įmonę.“ ^cf1dd9ae579411d77a2d7e5f
+3) kontroliuojamas tų pačių asmenų, kurie kontroliuoja kitoje Europos Sąjungos valstybėje narėje licencijuotą užsienio banką, finansų maklerio įmonę ar draudimo įmonę.“ ^s-7f9e54db1d41584bb4e6f9e8
 
 
 
-### 2 straipsnis. 25 straipsnio 15 dalies pakeitimas
+### 2 straipsnis. 25 straipsnio 15 dalies pakeitimas ^s-5cb5fbe84a5233e298c87cd2
 
 
 Pakeisti 25 straipsnio 15 dalį ir ją išdėstyti taip:
@@ -63,17 +68,17 @@ Pakeisti 25 straipsnio 15 dalį ir ją išdėstyti taip:
 „15. Priežiūros institucija konsultuojasi su atitinkamomis kitų Europos Sąjungos valstybių narių priežiūros institucijomis, jeigu įsigyjantis asmuo yra:
 
 
-1) kitoje Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, draudimo įmonė, perdraudimo įmonė, finansų maklerio įmonė ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonė arba ^1c299c256d67896cd401ebb8
+1) kitoje Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, draudimo įmonė, perdraudimo įmonė, finansų maklerio įmonė ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonė arba ^s-684a3781a1c8904a16ae878e
 
 
-2) kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, draudimo įmonės, perdraudimo įmonės, finansų maklerio įmonės ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonės patronuojanti įmonė, arba ^400991dc070f72673e5638d8
+2) kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, draudimo įmonės, perdraudimo įmonės, finansų maklerio įmonės ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonės patronuojanti įmonė, arba ^s-cde3e49d1ebce15108edecbc
 
 
-3) kitoje Europos Sąjungos valstybėje narėje licencijuotą užsienio banką, draudimo įmonę, perdraudimo įmonę, finansų maklerio įmonę ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonę kontroliuojantis asmuo.“ ^295a1fffcd0e43bc3fd172a9
+3) kitoje Europos Sąjungos valstybėje narėje licencijuotą užsienio banką, draudimo įmonę, perdraudimo įmonę, finansų maklerio įmonę ar suderintųjų kolektyvinio investavimo subjektų valdymo įmonę kontroliuojantis asmuo.“ ^s-8661ef22238e55db6f456df8
 
 
 
-### 3 straipsnis. 59 straipsnio 8 dalies pakeitimas
+### 3 straipsnis. 59 straipsnio 8 dalies pakeitimas ^s-06c64bbf8c72a5946296ca69
 
 
 59 straipsnio 8 dalies pirmajame sakinyje išbraukti žodžius „Lietuvos Respublikos ir“ ir šią dalį išdėstyti taip:
@@ -83,14 +88,14 @@ Pakeisti 25 straipsnio 15 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 65 straipsnio 5 dalies 3 punkto pripažinimas netekusiu galios
+### 4 straipsnis. 65 straipsnio 5 dalies 3 punkto pripažinimas netekusiu galios ^s-86b71716e6cc857359eed171
 
 
 65 straipsnio 5 dalies 3 punktą pripažinti netekusiu galios.
 
 
 
-### 5 straipsnis. 72 straipsnio 1 dalies 8 punkto pakeitimas
+### 5 straipsnis. 72 straipsnio 1 dalies 8 punkto pakeitimas ^s-18067e12f5facb78c9d179d3
 
 
 Pakeisti 72 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
@@ -100,7 +105,7 @@ Pakeisti 72 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-a82288dcb30ade2b28d5ca02
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

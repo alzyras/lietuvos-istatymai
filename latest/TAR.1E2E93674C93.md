@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1E2E93674C93"
 pavadinimas: "Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "valstybės vėliavos ir kitų vėliavų įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-27"
 latest_path: "latest/TAR.1E2E93674C93.md"
 latest_sha256: "376ab05c82a1a8499b7697617d074a7d21e1b1be7a3e2c0a0664f0e4aab5a7b7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1E2E93674C93]]"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1E2E93674C93.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1E2E93674C93
+- Ryšiai: [[Ryšiai/TAR.1E2E93674C93|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-3a6d1c09099d1dfa1f06ca7a
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:

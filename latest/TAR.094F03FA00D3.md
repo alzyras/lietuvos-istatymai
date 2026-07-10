@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.094F03FA00D3"
 pavadinimas: "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas"
+  - "finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.094F03FA00D3.md"
 latest_sha256: "63910ccb68482be695ee7f008f7004146dff0752da33b5a8138d3a160a2e01c6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.094F03FA00D3]]"
 ---
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.094F03FA00D3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.094F03FA00D3
+- Ryšiai: [[Ryšiai/TAR.094F03FA00D3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 4 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 4 punkto pakeitimas ^s-aa674874ba456b7b2895e335
 
 
 7 straipsnio 4 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio 1 dalies 9 punkto pakeitimas
+### 2 straipsnis. 11 straipsnio 1 dalies 9 punkto pakeitimas ^s-1483a3db726866d06de82da3
 
 
 Pakeisti 11 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 11 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-8415a00f321631eca434dc03
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

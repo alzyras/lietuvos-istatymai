@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D4A5C5BD12DF"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5, 12, 21 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5, 12, 21 straipsnių pakeitimo ir papildymo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5, 12, 21 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-19"
 latest_path: "latest/TAR.D4A5C5BD12DF.md"
 latest_sha256: "e66602b7b9867fac91765555eead65882e82636a8b9736d724435fa3403af1e3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D4A5C5BD12DF]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 5, 12, 21 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D4A5C5BD12DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D4A5C5BD12DF
+- Ryšiai: [[Ryšiai/TAR.D4A5C5BD12DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,26 +37,26 @@ Nr. 5-161, 2002 m. kovo 28 d. Nr. IX-822)
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ir papildymas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ir papildymas ^s-dc458db215301efc80d3357b
 
 
-Papildyti 5 straipsnio 2 dalį nauju [[#^4619d2a04cfddeb852bb0e8e|1 punktu]], buvusius 1 ir [[#^5c3c61b2f12345f04984d47f|2 punktus]] laikyti atitinkamai 2 ir [[#^50cfbaff96163ddcb856367e|3 punktais]], pakeisti [[#^5c3c61b2f12345f04984d47f|2 punktą]] ir visą dalį išdėstyti taip:
+Papildyti 5 straipsnio 2 dalį nauju [[#^s-1efa35e586aa33c039f0bf2e|1 punktu]], buvusius 1 ir [[#^s-ae18dd11876a7c71c9b93a32|2 punktus]] laikyti atitinkamai 2 ir [[#^s-11cb0c04f195e3fc00c13fc7|3 punktais]], pakeisti [[#^s-ae18dd11876a7c71c9b93a32|2 punktą]] ir visą dalį išdėstyti taip:
 
 
 „2. Nuosavybės teisės į žemę, iki 1995 m. birželio 1 d. buvusią miestams nustatyta tvarka priskirtose teritorijose, atkuriamos:
 
 
-1) grąžinant natūra laisvą (neužstatytą) žemę turėtoje vietoje piliečiui ar piliečiams bendrosios nuosavybės teise, taip pat piliečiui, nuosavybės teise turinčiam pastatus, jo naudojamą teritorijų planavimo dokumentuose nustatytų ribų žemės sklypą, išskyrus žemę, pagal šio įstatymo 12 straipsnį priskirtą valstybės išperkamai žemei, ir žemę, kurios susigrąžinti turėtoje vietoje pilietis nepageidauja. Grąžinamos natūra laisvos (neužstatytos) žemės plotas sumažinamas iki 1 ha ploto žemės sklypo dydžio, jeigu jame yra suprojektuoti žemės sklypai, perduodami neatlygintinai piliečiams individualiai statybai pagal šio straipsnio 2 dalies 3 punktą ir jų negalima suprojektuoti kitose miesto teritorijose dėl laisvos (neužstatytos) žemės šiame mieste trūkumo. Laisvų (neužstatytų) žemės sklypų, kuriuos numatoma grąžinti natūra turėtoje vietoje, planus Vyriausybės nustatyta tvarka tvirtina savivaldybių tarybos; ^4619d2a04cfddeb852bb0e8e
+1) grąžinant natūra laisvą (neužstatytą) žemę turėtoje vietoje piliečiui ar piliečiams bendrosios nuosavybės teise, taip pat piliečiui, nuosavybės teise turinčiam pastatus, jo naudojamą teritorijų planavimo dokumentuose nustatytų ribų žemės sklypą, išskyrus žemę, pagal šio įstatymo 12 straipsnį priskirtą valstybės išperkamai žemei, ir žemę, kurios susigrąžinti turėtoje vietoje pilietis nepageidauja. Grąžinamos natūra laisvos (neužstatytos) žemės plotas sumažinamas iki 1 ha ploto žemės sklypo dydžio, jeigu jame yra suprojektuoti žemės sklypai, perduodami neatlygintinai piliečiams individualiai statybai pagal šio straipsnio 2 dalies 3 punktą ir jų negalima suprojektuoti kitose miesto teritorijose dėl laisvos (neužstatytos) žemės šiame mieste trūkumo. Laisvų (neužstatytų) žemės sklypų, kuriuos numatoma grąžinti natūra turėtoje vietoje, planus Vyriausybės nustatyta tvarka tvirtina savivaldybių tarybos; ^s-1efa35e586aa33c039f0bf2e
 
 
-2) perduodant neatlygintinai nuosavybėn piliečiams, turintiems nuosavybės teise gyvenamuosius namus ar kitus pastatus ne jų nuosavybės teise turėtoje žemėje, jų naudojamą teritorijų planavimo dokumentuose nustatytų ribų žemės sklypą prie šių statinių arba teritorijų planavimo dokumentuose numatytą jų naudojamą žemės sklypą kitai paskirčiai (daržui, sodui ir kt.), išskyrus Kuršių nerijos nacionalinio parko teritorijoje, bet ne didesnį kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnį kaip 0,3 ha kituose miestuose. Šių perduodamų neatlygintinai nuosavybėn naudojamų žemės sklypų plotu yra atitinkamai mažinama grąžinamos natūra ar išperkamos žemės plotas; ^5c3c61b2f12345f04984d47f
+2) perduodant neatlygintinai nuosavybėn piliečiams, turintiems nuosavybės teise gyvenamuosius namus ar kitus pastatus ne jų nuosavybės teise turėtoje žemėje, jų naudojamą teritorijų planavimo dokumentuose nustatytų ribų žemės sklypą prie šių statinių arba teritorijų planavimo dokumentuose numatytą jų naudojamą žemės sklypą kitai paskirčiai (daržui, sodui ir kt.), išskyrus Kuršių nerijos nacionalinio parko teritorijoje, bet ne didesnį kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnį kaip 0,3 ha kituose miestuose. Šių perduodamų neatlygintinai nuosavybėn naudojamų žemės sklypų plotu yra atitinkamai mažinama grąžinamos natūra ar išperkamos žemės plotas; ^s-ae18dd11876a7c71c9b93a32
 
 
-3) perduodant neatlygintinai nuosavybėn piliečiui naują Vyriausybės nustatyta tvarka įrengtą arba neįrengtą žemės sklypą, Vyriausybei patvirtinus jo dydį tame mieste, kuriame buvo turėtoji žemė, išskyrus Kuršių nerijos nacionalinio parko teritoriją, arba piliečių pageidavimu mieste, kuriame jie gyvena (išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos, Birštono miestus ir Kuršių nerijos nacionalinio parko teritoriją). Miestų teritorijų dalyse, kurios įrašytos į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą (kultūros vietovių sąrašą), nauji žemės sklypai individualiai statybai bei kitai paskirčiai nuosavybėn neperduodami (išskyrus atvejus, kai šioje teritorijoje pagal teritorijų planavimo dokumentus piliečiui nuosavybės teise turėtoje žemėje numatoma individuali statyba); neatlygintinai nuosavybėn perduodami naudojami žemės sklypai tik tiems asmenims, kuriems šiose miestų teritorijų dalyse nuosavybės teise priklauso gyvenamieji namai arba kiti pastatai. Piliečiui atsisakius jam perduodamo neatlygintinai nuosavybėn naujo Vyriausybės nustatyta tvarka įrengto arba neįrengto (pasirinktinai) žemės sklypo individualiai statybai, jam pageidaujant, kompensuojama vidutinė Vyriausybės nustatyto dydžio žemės sklypo tame mieste vertės pinigų suma pagal šio įstatymo 16 straipsnį. Šią pinigų sumą nustato Vyriausybė.“ ^50cfbaff96163ddcb856367e
+3) perduodant neatlygintinai nuosavybėn piliečiui naują Vyriausybės nustatyta tvarka įrengtą arba neįrengtą žemės sklypą, Vyriausybei patvirtinus jo dydį tame mieste, kuriame buvo turėtoji žemė, išskyrus Kuršių nerijos nacionalinio parko teritoriją, arba piliečių pageidavimu mieste, kuriame jie gyvena (išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos, Birštono miestus ir Kuršių nerijos nacionalinio parko teritoriją). Miestų teritorijų dalyse, kurios įrašytos į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą (kultūros vietovių sąrašą), nauji žemės sklypai individualiai statybai bei kitai paskirčiai nuosavybėn neperduodami (išskyrus atvejus, kai šioje teritorijoje pagal teritorijų planavimo dokumentus piliečiui nuosavybės teise turėtoje žemėje numatoma individuali statyba); neatlygintinai nuosavybėn perduodami naudojami žemės sklypai tik tiems asmenims, kuriems šiose miestų teritorijų dalyse nuosavybės teise priklauso gyvenamieji namai arba kiti pastatai. Piliečiui atsisakius jam perduodamo neatlygintinai nuosavybėn naujo Vyriausybės nustatyta tvarka įrengto arba neįrengto (pasirinktinai) žemės sklypo individualiai statybai, jam pageidaujant, kompensuojama vidutinė Vyriausybės nustatyto dydžio žemės sklypo tame mieste vertės pinigų suma pagal šio įstatymo 16 straipsnį. Šią pinigų sumą nustato Vyriausybė.“ ^s-11cb0c04f195e3fc00c13fc7
 
 
 
-### 2 straipsnis. 12 straipsnio 3 punkto pakeitimas
+### 2 straipsnis. 12 straipsnio 3 punkto pakeitimas ^s-17df7308bd1affd131293779
 
 
 Pakeisti 12 straipsnio 3 punktą ir jį išdėstyti taip:
@@ -61,7 +66,7 @@ Pakeisti 12 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 21 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 21 straipsnio 3 dalies pakeitimas ^s-c9c3346ff59ec96e552973bd
 
 
 21 straipsnio 3 dalyje po žodžio „turtą“ įrašyti žodžius „ir iki 2003 m. sausio 1 d. valią dėl nuosavybės teisių atkūrimo būdo į iki 1995 m. birželio 1 d. miestams nustatyta tvarka priskirtose teritorijose turėtą žemę“, trečiajame sakinyje vietoj datos „2002 m. liepos 1 d.“ įrašyti datą „2003 m. sausio 1 d.“ ir šią dalį išdėstyti taip:

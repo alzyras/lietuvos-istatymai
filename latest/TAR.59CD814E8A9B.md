@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.59CD814E8A9B"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 1, 57 ir 72 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 1, 57 ir 72 straipsnių pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 1, 57 ir 72 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-21"
 latest_path: "latest/TAR.59CD814E8A9B.md"
 latest_sha256: "2b3637db14a0b6d4aea690b94b0f5bef1fe92a5280cc1e9453e7dcab8bceaae8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.59CD814E8A9B]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 1, 57 ir 72 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.59CD814E8A9B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.59CD814E8A9B
+- Ryšiai: [[Ryšiai/TAR.59CD814E8A9B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ^s-638f97383af1440cf521c507
 
 
 
@@ -44,38 +49,38 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 57 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 57 straipsnio 5 dalies pakeitimas ^s-b84e267e74a85a3326ee25f2
 
 
 57 straipsnio 5 dalyje išbraukti žodį „rinkos“ ir šią dalį išdėstyti taip:
 
 
-„5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo sprendimu. Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas Vertybinių popierių įstatymo nustatyta tvarka. Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta:
+„5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo sprendimu. Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] nustatyta tvarka. Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta:
 
 
-1) pirmumo teisės atšaukimo priežastys; ^4c4a37209aa7d34e134ff08e
+1) pirmumo teisės atšaukimo priežastys; ^s-874623ecb90e654e6c0255d6
 
 
-2) asmuo ar asmenys, kuriems suteikiama teisė įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), jei šiuos asmenis ir duomenis apie juos būtina nurodyti pagal šioje dalyje nustatytas sąlygas; ^77e495fc922c772f8ee16a08
+2) asmuo ar asmenys, kuriems suteikiama teisė įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), jei šiuos asmenis ir duomenis apie juos būtina nurodyti pagal šioje dalyje nustatytas sąlygas; ^s-ce6a688424f48d0b08cfdfc4
 
 
-3) išleidžiamų akcijų ar konvertuojamųjų obligacijų skaičius, kurį kiekvienas iš nurodytų asmenų gali įsigyti (jei šiuos duomenis būtina nurodyti pagal šioje dalyje nustatytas sąlygas).“ ^677bd55e94e467ed994ab189
+3) išleidžiamų akcijų ar konvertuojamųjų obligacijų skaičius, kurį kiekvienas iš nurodytų asmenų gali įsigyti (jei šiuos duomenis būtina nurodyti pagal šioje dalyje nustatytas sąlygas).“ ^s-0aa9aaef06e1b981a13e2390
 
 
 
-### 3 straipsnis. 72 straipsnio 8 ir 9 dalių pakeitimas
+### 3 straipsnis. 72 straipsnio 8 ir 9 dalių pakeitimas ^s-7d50f8b7a38c26c4676d2214
 
 
-1. Pakeisti 72 straipsnio 8 dalį ir ją išdėstyti taip: ^18a7346438d7dcd0cae9ef6d
+1. Pakeisti 72 straipsnio 8 dalį ir ją išdėstyti taip: ^s-ce09d5d74dd17fd198f180d8
 
 
 „8. Pertvarkant akcinę bendrovę į kitos teisinės formos juridinį asmenį, iki naujos teisinės formos juridinio asmens steigimo dokumentų įregistravimo, be kita ko, turi būti uždaryta bendroji vertybinių popierių sąskaita akcinėje bendrovėje Lietuvos centriniame vertybinių popierių depozitoriume. Akcinėje bendrovėje, kuri pagal Vertybinių popierių įstatymą laikoma vertybinių popierių emitentu, be kita ko, turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti akcinės bendrovės akcijas.“
 
 
-2. Pakeisti 72 straipsnio 9 dalį ir ją išdėstyti taip: ^8892686f50b07bfe57cc0f22
+2. Pakeisti 72 straipsnio 9 dalį ir ją išdėstyti taip: ^s-0ee2467e52c65832b1ec27f4
 
 
-„9. Šio straipsnio 8 dalyje nurodytam oficialiam siūlymui taikomos Vertybinių popierių įstatymo nuostatos, reglamentuojančios privalomus oficialius siūlymus, jeigu ši dalis nenustato kitaip. Oficialų siūlymą teikia akcininkai, kurie balsavo už sprendimą pertvarkyti akcinę bendrovę. Šią prievolę už kitus akcininkus turi teisę įvykdyti vienas ar keletas akcininkų. Oficialaus siūlymo metu parduoti akcijas turi teisę akcininkai, sprendimo pertvarkyti akcinę bendrovę priėmimo metu balsavę prieš ar nebalsavę.“
+„9. Šio straipsnio 8 dalyje nurodytam oficialiam siūlymui taikomos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] nuostatos, reglamentuojančios privalomus oficialius siūlymus, jeigu ši dalis nenustato kitaip. Oficialų siūlymą teikia akcininkai, kurie balsavo už sprendimą pertvarkyti akcinę bendrovę. Šią prievolę už kitus akcininkus turi teisę įvykdyti vienas ar keletas akcininkų. Oficialaus siūlymo metu parduoti akcijas turi teisę akcininkai, sprendimo pertvarkyti akcinę bendrovę priėmimo metu balsavę prieš ar nebalsavę.“
 
 
 

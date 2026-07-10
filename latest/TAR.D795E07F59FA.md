@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D795E07F59FA"
 pavadinimas: "Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-01-28"
 latest_path: "latest/TAR.D795E07F59FA.md"
 latest_sha256: "85495c1840958201d1e0c4c930f7dee7ca46d8e975c24e0c430a202953a6409d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D795E07F59FA]]"
 ---
 # Dėl Lietuvos Respublikos švietimo įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D795E07F59FA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D795E07F59FA
+- Ryšiai: [[Ryšiai/TAR.D795E07F59FA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

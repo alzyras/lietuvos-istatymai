@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "cce80bb0a8ae11ef90b5ee8931e5ce5e"
 pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12 ir 13 straipsnių pakeitimo įstatymas"
+  - "valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2024-11-23"
 latest_path: "latest/cce80bb0a8ae11ef90b5ee8931e5ce5e.md"
 latest_sha256: "d6c9ca09b49255dae4ed3b8897dd11080612beb80127e294301d55179f85410f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/cce80bb0a8ae11ef90b5ee8931e5ce5e]]"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/cce80bb0a8ae11ef90b5ee8931e5ce5e.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/cce80bb0a8ae11ef90b5ee8931e5ce5e
+- Ryšiai: [[Ryšiai/cce80bb0a8ae11ef90b5ee8931e5ce5e|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio pakeitimas
+### 1 straipsnis. 12 straipsnio pakeitimas ^s-89962d5475cd4029f20b6539
 
 
 Pakeisti 12 straipsnio 6 punktą ir jį išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 12 straipsnio 6 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 13 straipsnio pakeitimas
+### 2 straipsnis. 13 straipsnio pakeitimas ^s-9756f1b2fdeb07b1bcce9c91
 
 
 Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.88B02D55AF7C"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-10"
 latest_path: "latest/TAR.88B02D55AF7C.md"
 latest_sha256: "8e3f6f117516836fd98a3df82dc26ac36e621feddb3a9212cbff9c1f83c0d4e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.88B02D55AF7C]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.88B02D55AF7C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.88B02D55AF7C
+- Ryšiai: [[Ryšiai/TAR.88B02D55AF7C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas ^s-cb2e3abcf608c24ebdae11ba
 
 
 Pakeisti 4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:

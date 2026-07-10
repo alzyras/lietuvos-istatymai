@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6AC77301A318"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo \"Dėl Lietuvos Respublikos prisijungimo prie Jungtinių Tautų Organizacijos 1980 m. balandžio 11 d. Konvencijos dėl tarptautinio prekių pirkimo pardavimo sutarčių\" 1 punkto pakeitimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo \"Dėl Lietuvos Respublikos prisijungimo prie Jungtinių Tautų Organizacijos 1980 m. balandžio 11 d. Konvencijos dėl tarptautinio prekių pirkimo pardavimo sutarčių\" 1 punkto pakeitimo"
+  - "įstatymas dėl Lietuvos Respublikos Seimo nutarimo \"Dėl Lietuvos Respublikos prisijungimo prie Jungtinių Tautų Organizacijos 1980 m. balandžio 11 d. Konvencijos dėl tarptautinio prekių pirkimo pardavimo sutarčių\" 1 punkto pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-07"
 latest_path: "latest/TAR.6AC77301A318.md"
 latest_sha256: "92851d718301108cb1dae9f1d5a230569d9916033573ce7a949f09fb151ab049"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6AC77301A318]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo "Dėl Lietuvos Respublikos prisijungimo prie Jungtinių Tautų Organizacijos 1980 m. balandžio 11 d. Konvencijos dėl tarptautinio prekių pirkimo pardavimo sutarčių" 1 punkto pakeitimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6AC77301A318.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6AC77301A318
+- Ryšiai: [[Ryšiai/TAR.6AC77301A318|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 punkto pakeitimas
+### 1 straipsnis. 1 punkto pakeitimas ^s-07c302948bcc03c6a1b45c6c
 
 
 1 punkto pirmojoje pastraipoje išbraukti žodžius „su šia išlyga“, antrąją pastraipą pripažinti netekusia galios ir šį punktą išdėstyti taip:

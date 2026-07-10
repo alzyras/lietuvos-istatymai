@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0069CCD909F4"
 pavadinimas: "Lietuvos Respublikos ir ELPA Jungtinio komiteto nutarimo Nr.1/1997 \"B protokolo pakeitimas\" ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir ELPA Jungtinio komiteto nutarimo Nr.1/1997 \"B protokolo pakeitimas\" ratifikavimo įstatymas"
+  - "ir ELPA Jungtinio komiteto nutarimo Nr.1/1997 \"B protokolo pakeitimas\" ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-06-14"
 latest_path: "latest/TAR.0069CCD909F4.md"
 latest_sha256: "c6ff883286c7d6a0a21393c1b0c403049240c48f59a66b2ed0550e878a10bf22"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0069CCD909F4]]"
 ---
 # Lietuvos Respublikos ir ELPA Jungtinio komiteto nutarimo Nr.1/1997 "B protokolo pakeitimas" ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0069CCD909F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0069CCD909F4
+- Ryšiai: [[Ryšiai/TAR.0069CCD909F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Nutarimo ratifikavimas
+### 1 straipsnis. Nutarimo ratifikavimas ^s-bac15e14d861525a37b53c92
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1997 m. kovo 26 d. dekretą Nr.1251, ratifikuoja Lietuvos Respublikos ir ELPA Jungtinio komiteto nutarimą Nr.1/1997 „B protokolo pakeitimas“, pasirašytą 1997 m. kovo 6 d. Ženevoje.

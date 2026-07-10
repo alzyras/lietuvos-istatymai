@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "ebc6b1e0ec6c11e78a1adea6fe72f3c5"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, 3 straipsnių ir priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, 3 straipsnių ir priedėlio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, 3 straipsnių ir priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2018-01-01"
 latest_path: "latest/ebc6b1e0ec6c11e78a1adea6fe72f3c5.md"
 latest_sha256: "c1c837b21e73e0844da6ad0037261c6d490b376d665e9a54a1e7032141d2cdcb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/ebc6b1e0ec6c11e78a1adea6fe72f3c5]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, 3 straipsnių ir priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/ebc6b1e0ec6c11e78a1adea6fe72f3c5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/ebc6b1e0ec6c11e78a1adea6fe72f3c5
+- Ryšiai: [[Ryšiai/ebc6b1e0ec6c11e78a1adea6fe72f3c5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,36 +37,36 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-5829e5199d994e155d9fd3b4
 
 
-1. Pakeisti 2 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip: ^fca8267526d05893c407a5e4
+1. Pakeisti 2 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip: ^s-368cc623a70bf426042d9684
 
 
 „8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus policijos generalinį komisarą bei specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;“.
 
 
-2. Pripažinti netekusiu galios 2 straipsnio 3 dalies 12 punktą. ^3ac97e3c28369142895d08af
+2. Pripažinti netekusiu galios 2 straipsnio 3 dalies 12 punktą. ^s-b0c6c2d78cc6fca93aa8c275
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas
+### 2 straipsnis. 3 straipsnio pakeitimas ^s-f76157418286e4a84353526b
 
 
-1. Pripažinti netekusia galios 3 straipsnio 6 dalį. ^1b7ee927c2a86b47e4e882e9
+1. Pripažinti netekusia galios 3 straipsnio 6 dalį. ^s-02e2b8ddd601b8ea394e8873
 
 
-2. Pripažinti netekusia galios 3 straipsnio 7 dalį. ^eda0d3d7a0719f029f53e72f
+2. Pripažinti netekusia galios 3 straipsnio 7 dalį. ^s-7e79b1b7b6b8bf786de491a2
 
 
 
-### 3 straipsnis. Įstatymo priedėlio pakeitimas
+### 3 straipsnis. Įstatymo priedėlio pakeitimas ^s-e3772c87933f63eb7c777d9f
 
 
 Pripažinti netekusiu galios Įstatymo priedėlio VI skyrių „Specialiųjų tyrimų tarnybos pareigūnų pareiginės algos“.
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-a241fdd3c3be32ec34738862
 
 
 Šis įstatymas įsigalioja 2018 m. sausio 1 d.

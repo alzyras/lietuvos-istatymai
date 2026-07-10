@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2F14CF6CA3A9"
 pavadinimas: "Lietuvos Respublikos 1990 metų blokados fondo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1990 metų blokados fondo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "1990 metų blokados fondo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-17"
 latest_path: "latest/TAR.2F14CF6CA3A9.md"
 latest_sha256: "c1d3a491e94459804b320fd8b9a4b12b81c85d714368eb44dc76d797ed8d0d9b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2F14CF6CA3A9]]"
 ---
 # Lietuvos Respublikos 1990 metų blokados fondo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2F14CF6CA3A9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2F14CF6CA3A9
+- Ryšiai: [[Ryšiai/TAR.2F14CF6CA3A9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,33 +40,33 @@ Vilnius
 
 
 
-### 1 straipsnis.         1990 metų blokados fondo likvidavimas ir Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis.         1990 metų blokados fondo likvidavimas ir Įstatymo pripažinimas netekusiu galios ^s-5a5b42565af92bf85db3f965
 
 
-1. 1990 metų blokados fondas likviduojamas. ^3ec095eb199f81ed1d224df5
+1. 1990 metų blokados fondas likviduojamas. ^s-d94ea77c791e52d41cf534b1
 
 
-2. Lietuvos Respublikos 1990 metų blokados fondo įstatymas pripažįstamas netekusiu galios. ^281178ffde2cb19d902d4921
-
-
-
-### 2 straipsnis. Įstatymo įsigaliojimas
-
-
-Šio įstatymo [[#1 straipsnis.         1990 metų blokados fondo likvidavimas ir Įstatymo pripažinimas netekusiu galios|1 straipsnis]] įsigalioja 2009 m. sausio 1 d.
+2. Lietuvos Respublikos 1990 metų blokados fondo įstatymas pripažįstamas netekusiu galios. ^s-c196a6e4c5f7fb0b11ea51d0
 
 
 
-### 3 straipsnis. Įstatymo įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-fc0aa8a6368e1b78f4722048
 
 
-1. 1990 metų blokados fondo (toliau – Fondas) ilgalaikis materialusis turtas (kilnojamieji daiktai) Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka perduodamas patikėjimo teise valstybės biudžetinei įstaigai Lietuvos nacionaliniam muziejui valdyti, naudoti ir disponuoti juo. ^5157e72628d4a77869ab3b3e
+Šio įstatymo [[#^s-5a5b42565af92bf85db3f965|1 straipsnis]] įsigalioja 2009 m. sausio 1 d.
 
 
-2. Fondo pinigines lėšas, esančias specialioje 1990 metų blokados fondo sąskaitoje Lietuvos banke (toliau – Fondo speciali sąskaita), Finansų ministerija perveda į Lietuvos Respublikos valstybės biudžetą. Pervedus lėšas, Fondo speciali sąskaita Lietuvos banke uždaroma. ^857c034597b911b4e1872bd2
+
+### 3 straipsnis. Įstatymo įgyvendinimas ^s-cf49b65195ab102fab91a337
 
 
-3. Fondo ilgalaikis materialusis turtas (kilnojamieji daiktai) patikėjimo teise valstybės biudžetinei įstaigai Lietuvos nacionaliniam muziejui turi būti perduotas ir Fondo specialioje sąskaitoje esančios piniginės lėšos į Lietuvos Respublikos valstybės biudžetą turi būti pervestos iki 2008 m. gruodžio 31 d. ^c92bdff81c19aabc9aafed25
+1. 1990 metų blokados fondo (toliau – Fondas) ilgalaikis materialusis turtas (kilnojamieji daiktai) [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo]] nustatyta tvarka perduodamas patikėjimo teise valstybės biudžetinei įstaigai Lietuvos nacionaliniam muziejui valdyti, naudoti ir disponuoti juo. ^s-19b4d952be56a756bb102df0
+
+
+2. Fondo pinigines lėšas, esančias specialioje 1990 metų blokados fondo sąskaitoje Lietuvos banke (toliau – Fondo speciali sąskaita), Finansų ministerija perveda į Lietuvos Respublikos valstybės biudžetą. Pervedus lėšas, Fondo speciali sąskaita Lietuvos banke uždaroma. ^s-d45accb4a746a8935ae94aea
+
+
+3. Fondo ilgalaikis materialusis turtas (kilnojamieji daiktai) patikėjimo teise valstybės biudžetinei įstaigai Lietuvos nacionaliniam muziejui turi būti perduotas ir Fondo specialioje sąskaitoje esančios piniginės lėšos į Lietuvos Respublikos valstybės biudžetą turi būti pervestos iki 2008 m. gruodžio 31 d. ^s-d3101f37811979f98100b7d9
 
 
 

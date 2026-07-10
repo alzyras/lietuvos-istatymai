@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D417EB571239"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-29"
 latest_path: "latest/TAR.D417EB571239.md"
 latest_sha256: "d14572dac63778765c758801bc1b0b73544258d7d3ba5863eb36a3c3aaa5f636"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D417EB571239]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D417EB571239.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D417EB571239
+- Ryšiai: [[Ryšiai/TAR.D417EB571239|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,16 +36,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies papildymas ir pakeitimas
+### 1 straipsnis. 6 straipsnio 4 dalies papildymas ir pakeitimas ^s-32d423c71383948a2c67d940
 
 
-1. 6 straipsnio 4 dalį papildyti nauju 9 punktu: ^8f1aa9de4601c5e7413ac7f9
+1. 6 straipsnio 4 dalį papildyti nauju 9 punktu: ^s-7b54fffdc974737f3b4c80e7
 
 
 „9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantis namuose vaiką invalidą arba I grupės invalidą, tapusį invalidu, iki jam sukako 24 metai, arba I grupės invalidą, kuris dėl ligos ar traumos, atsiradusios, iki jam sukako 24 metai, padarinių invalidu pripažintas po 24 metų, tačiau ne vėliau, iki jam sukako 26 metai;“.
 
 
-2. 6 straipsnio 4 dalies 9–15 punktus laikyti atitinkamai 10–16 punktais. ^e63cda62e13bd878023617bb
+2. 6 straipsnio 4 dalies 9–15 punktus laikyti atitinkamai 10–16 punktais. ^s-18bfcdbeca33ecc8993ab10d
 
 
 

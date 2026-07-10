@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.78684A19B5F4"
 pavadinimas: "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-09"
 latest_path: "latest/TAR.78684A19B5F4.md"
 latest_sha256: "2cbcfeee2671fc50d9bac90c701ce93cb71dc9686f5a6381e655ce43f235a2e2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.78684A19B5F4]]"
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.78684A19B5F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.78684A19B5F4
+- Ryšiai: [[Ryšiai/TAR.78684A19B5F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-2ecd8b7b1de6ab1edbd88855
 
 
 9 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:

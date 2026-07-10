@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C5EC798AF918"
 pavadinimas: "Dėl Lietuvos Respublikos civilinio kodekso 7(1) straipsnio bei Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo 33 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos civilinio kodekso 7(1) straipsnio bei Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo 33 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-11-01"
 latest_path: "latest/TAR.C5EC798AF918.md"
 latest_sha256: "a533ce2f5a05683694608093e5a3b55d4a1776f07b21f53ac08ed66ce3a7679e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C5EC798AF918]]"
 ---
 # Dėl Lietuvos Respublikos civilinio kodekso 7(1) straipsnio bei Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo 33 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C5EC798AF918.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C5EC798AF918
+- Ryšiai: [[Ryšiai/TAR.C5EC798AF918|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B72875FF5E52"
 pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo 47 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos diplomatinės tarnybos įstatymo 47 straipsnio papildymo įstatymas"
+  - "diplomatinės tarnybos įstatymo 47 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-07"
 latest_path: "latest/TAR.B72875FF5E52.md"
 latest_sha256: "2d73395214bb14204f4bff6a25ec0da3b80d91f15948fdec783f360749089c31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B72875FF5E52]]"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 47 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B72875FF5E52.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B72875FF5E52
+- Ryšiai: [[Ryšiai/TAR.B72875FF5E52|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio 1 dalies papildymas 17 punktu
+### 1 straipsnis. 47 straipsnio 1 dalies papildymas 17 punktu ^s-f37c4a06258b1b17d4607adb
 
 
 Papildyti 47 straipsnio 1 dalį 17 punktu:

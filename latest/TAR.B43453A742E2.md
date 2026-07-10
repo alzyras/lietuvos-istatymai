@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B43453A742E2"
 pavadinimas: "Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-03-29"
 latest_path: "latest/TAR.B43453A742E2.md"
 latest_sha256: "24dd1aa17e28e6c4cf525503d206ffd54458eb623a41a7f8cd57c1f37bf2c0f1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B43453A742E2]]"
 ---
 # Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B43453A742E2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B43453A742E2
+- Ryšiai: [[Ryšiai/TAR.B43453A742E2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

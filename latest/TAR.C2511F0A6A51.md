@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C2511F0A6A51"
 pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "valstybės garantuojamos teisinės pagalbos įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-01"
 latest_path: "latest/TAR.C2511F0A6A51.md"
 latest_sha256: "6f3b1603765ef84dc9f1f9b56f42c19b1d2572ceefb5832815db44352bbc45e4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C2511F0A6A51]]"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C2511F0A6A51.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C2511F0A6A51
+- Ryšiai: [[Ryšiai/TAR.C2511F0A6A51|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-1cac0a5909f73d80c4f58e42
 
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,14 +48,14 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Pasiūlymas Vyriausybei
+### 2 straipsnis. Pasiūlymas Vyriausybei ^s-fd6c15966a139474a534f284
 
 
 Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-317158f9ffe7ad8df9505d1d
 
 
 Šis įstatymas įsigalioja 2009 m. birželio 1 d.

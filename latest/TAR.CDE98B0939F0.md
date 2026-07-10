@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CDE98B0939F0"
 pavadinimas: "Lietuvos Respublikos biudžetinių įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžetinių įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "biudžetinių įstaigų įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-05"
 latest_path: "latest/TAR.CDE98B0939F0.md"
 latest_sha256: "786c8ffecc05ab4216f5e0ababcb117c0da8e3b36dd0638150a39864a1b5569c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CDE98B0939F0]]"
 ---
 # Lietuvos Respublikos biudžetinių įstaigų įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CDE98B0939F0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CDE98B0939F0
+- Ryšiai: [[Ryšiai/TAR.CDE98B0939F0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio pakeitimas
+### 1 straipsnis. 5 straipsnio pakeitimas ^s-4a8db95f8ca2321b07b93236
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:

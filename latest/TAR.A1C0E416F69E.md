@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A1C0E416F69E"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-21"
 latest_path: "latest/TAR.A1C0E416F69E.md"
 latest_sha256: "f27b22d1411a34977c612057d35a129e82eb651c8fcffaea0351a586bbdd6b19"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A1C0E416F69E]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A1C0E416F69E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A1C0E416F69E
+- Ryšiai: [[Ryšiai/TAR.A1C0E416F69E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 31 straipsniu
+### 1 straipsnis. Įstatymo papildymas 31 straipsniu ^s-4e193075032fbb912b57704d
 
 
 Papildyti Įstatymą 31 straipsniu:

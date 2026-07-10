@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.77946819D793"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7, 8, 17 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7, 8, 17 straipsnių papildymo ir pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7, 8, 17 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-05-05"
 latest_path: "latest/TAR.77946819D793.md"
 latest_sha256: "bb2ba975fd8c74bb0d323f92297c045c8f5ad1c143baf798d1582c47c3c95eb4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.77946819D793]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7, 8, 17 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.77946819D793.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.77946819D793
+- Ryšiai: [[Ryšiai/TAR.77946819D793|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio papildymas 28 punktu
+### 1 straipsnis. 7 straipsnio papildymas 28 punktu ^s-d7dba444ba02438c1d358b1e
 
 
 Papildyti 7 straipsnį 28 punktu:
@@ -41,35 +46,35 @@ Papildyti 7 straipsnį 28 punktu:
 
 
 
-### 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
+### 2 straipsnis. 8 straipsnio papildymas ir pakeitimas ^s-80765e21394262e3576445af
 
 
-1. Papildyti 8 straipsnį nauju 30 punktu: ^e060470cedb30ebca4577194
+1. Papildyti 8 straipsnį nauju 30 punktu: ^s-2fdc9f46ccf2eef670af8745
 
 
 „30) valstybės garantuojamos pirminės teisinės pagalbos teikimas;“.
 
 
-2. Buvusį 8 straipsnio 30 punktą laikyti 31 punktu. ^86e89d9e3c62301327af37a7
+2. Buvusį 8 straipsnio 30 punktą laikyti 31 punktu. ^s-da6225a994ad081179832598
 
 
 
-### 3 straipsnis. 17 straipsnio papildymas ir pakeitimas
+### 3 straipsnis. 17 straipsnio papildymas ir pakeitimas ^s-ae6ab01129c02d848b198f47
 
 
-1. 17 straipsnio 21 punkte prieš žodį „įmonių“ įrašyti žodį „kontroliuojamų“, žodžius „specialios paskirties bendrovių“ išbraukti ir šį punktą išdėstyti taip: ^a1590663f5c8b2d8df73324f
+1. 17 straipsnio 21 punkte prieš žodį „įmonių“ įrašyti žodį „kontroliuojamų“, žodžius „specialios paskirties bendrovių“ išbraukti ir šį punktą išdėstyti taip: ^s-8bacfad4839b6ff8a90874e5
 
 
 „21) nustato kainas ir tarifus už savivaldybės kontroliuojamų įmonių, savivaldybės biudžetinių ir viešųjų įstaigų teikiamas atlygintinas paslaugas bei keleivių vežimą vietiniais maršrutais, taip pat įstatymų nustatyta tvarka nustato centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainas, nustato vietines rinkliavas bei kitas įmokas;“.
 
 
-2. Papildyti 17 straipsnį nauju 48 punktu: ^a0d3419aa091785e3d7e6ef7
+2. Papildyti 17 straipsnį nauju 48 punktu: ^s-f7bb37330c83b35540e6a08f
 
 
 „48) tvirtina savivaldybės triukšmo prevencijos veiksmų planus, triukšmo savivaldybės teritorijoje rodiklius ir triukšmo prevencijos viešosiose vietose taisykles, nustato tyliąsias zonas. Nustato savivaldybės vykdomosios institucijos, kitų pavaldžių viešojo administravimo subjektų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;“.
 
 
-3. Buvusį 17 straipsnio 48 punktą laikyti 49 punktu. ^29ef35c0a2e97a7962fd4257
+3. Buvusį 17 straipsnio 48 punktą laikyti 49 punktu. ^s-ab23c7fb1d483527efe7db5e
 
 
 

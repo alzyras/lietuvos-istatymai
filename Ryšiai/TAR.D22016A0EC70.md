@@ -1,0 +1,115 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.D22016A0EC70"
+pavadinimas: "Lietuvos Respublikos žuvininkystės įstatymas"
+---
+# Lietuvos Respublikos žuvininkystės įstatymas: ryšiai
+
+- [[latest/TAR.D22016A0EC70|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 8 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymu
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Lietuvos Respublikos baudžiamojo proceso kodekso
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokesčių administravimo įstatyme
+- [[latest/TAR.11BAD851321B|Lietuvos Respublikos mėgėjų žvejybos įstatymas]] - 3 citatos - Lietuvos Respublikos mėgėjų žvejybos įstatymo
+- [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - 2 citatos - Lietuvos Respublikos paslaugų įstatyme
+- [[latest/TAR.38B0127A21E8|Lietuvos Respublikos prekybinės laivybos įstatymas]] - 2 citatos - Lietuvos Respublikos prekybinės laivybos įstatymo
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 4 citatos - Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme
+- [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 4 citatos - Lietuvos Respublikos viešojo administravimo įstatymu
+- [[latest/TAR.B4C4D38551D8|Lietuvos Respublikos žuvininkystės įstatymo 16 straipsnio pakeitimo įstatymas]] - 6 citatos - 1061010ISTA000X-727
+- [[latest/TAR.16993ECACB12|Lietuvos Respublikos žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas]] - 6 citatos - 1111010ISTA0XI-1351
+- [[latest/TAR.3AB605AEF668|Lietuvos Respublikos žuvininkystės įstatymo 2, 26 straipsnių pakeitimo ir įstatymo papildymo nauju šeštuoju skirsniu įstatymas]] - 6 citatos - 1081010ISTA00X-1727
+- [[latest/TAR.6B02E27C13B1|Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 10, 12, 14, 18, 22, 23, 24, 26, 26-1, 26-2, 26-3, 26-5, 26-11, 26-14, 26-15, 26-17, 26-18, 26-19, 27, 29 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 22-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas]] - 6 citatos - 1101010ISTA0XI-1141
+- [[latest/TAR.F1CCA645369F|Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 16, 19, 23, 24 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1081010ISTA00X-1436
+- [[latest/TAR.E82A397DC7E8|Lietuvos Respublikos žuvininkystės įstatymo 2, 7, 8, 10 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 6 citatos - 1121010ISTA0XI-2056
+- [[latest/TAR.994CB6C773EE|Lietuvos Respublikos žuvininkystės įstatymo 4, 7, 9 ir 22 straipsnių pakeitimo įstatymas]] - 6 citatos - 1111010ISTA0XI-1408
+- [[latest/TAR.A4211C29FC52|Lietuvos Respublikos žuvininkystės įstatymo 8 ir 11 straipsnių pakeitimo įstatymas]] - 6 citatos - 1041010ISTA0IX-2390
+- [[latest/ca17e110d40f11e7910a89ac20768b0f|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 12 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-765
+- [[latest/81c1e2a01e5c11e586708c6593c243ce|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 14-3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1836
+- [[latest/760cd1520a2311f08e9f87c0d053bf09|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 14-3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-130
+- [[latest/9115ecc0263a11e5bf92d6af3f6a2e8b|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 17-1 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1929
+- [[latest/aa7d3bc04a7211e6b5d09300a16a686c|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 10, 11, 13, 17, 17-1, 18, 21, 24, 27, 29, 32, 36, 37, 39, 40, 41, 46, 48, 50, 51, 52, 53, 54, 61, 63 straipsnių ir priedo pakeitimo, Įstatymo papildymo 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11 straipsniais ir 35 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XII-2532
+- [[latest/6978abf0af7411e39b958c81fb177d0b|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 6, 15, 16 straipsnių pakeitimo ir Įstatymo papildymo 14-1, 14-2, 14-3, 14-4 straipsniais įstatymas]] - 2 citatos - Įstatymas Nr. XII-781
+- [[latest/e1885a50ffb011ed9978886e85107ab2|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 6, 14, 14-1, 14-3, 14-4, 15 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1963
+- [[latest/6a060220926d11e9ae2e9d61b1f977b3|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 24 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2196
+- [[latest/e1f98690dfe911e7b3f0a470b0373cb2|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 31 straipsnio pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-813
+- [[latest/1198e3a0ae0611e98451fa7b5933515d|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 34 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2291
+- [[latest/d211554021b411e6ad34b874fec21bdb|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 6, 7, 8, 14, 14-1, 14-2, 14-3, 14-4, 15, 16 ir 31 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2351
+- [[latest/083bd002bd4711ef88c08519262548c4|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 7 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-39
+- [[latest/f3195c12502a11f180c9c618618421ed|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 74 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-890
+- [[latest/42230740a69211ebbcbbc2971cdac3cb|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 8, 12, 13, 14-1, 14-3, 14-4, 15, 17-1, 17-7, 18, 21, 22, 53 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-254
+- [[latest/71042e004da411f0b070ee7f1ceefc75|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-274
+- [[latest/f4bfeed090bf11e4bb408baba2bdddf3|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 papildymo 17-1 straipsniu ir 31 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1523
+- [[latest/TAR.6CF198C6E9D0|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - 4 citatos - 1041010ISTA0IX-2193
+- [[latest/TAR.0238AFC84097|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - 4 citatos - 1131010ISTA0XII-397
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.08F2F39FF20B#^s-531b3f4d58c5c8489be2160a|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymas
+- [[latest/TAR.08F2F39FF20B#^s-6085751d78cc5d5a19203994|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatymo
+- [[latest/TAR.08F2F39FF20B#^s-955c072aa72eed42527b4374|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatyme
+- [[latest/TAR.08F2F39FF20B#^s-ae147a53b9b09e998387e590|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymas
+- [[latest/TAR.08F2F39FF20B#^s-b1d657289f43a66c55315188|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatymu
+- [[latest/TAR.08F2F39FF20B#^s-e05694d5e81dcab31dd1f74c|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatymu
+- [[latest/TAR.08F2F39FF20B#^s-eb6a18f44c9450ea48ec28f4|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatymo
+- [[latest/TAR.08F2F39FF20B#^s-ef21bb12e406aed37c344fcc|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatyme
+- [[latest/TAR.08F2F39FF20B#^s-f46f2c3b16f73e20bdc650e4|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatymu
+- [[latest/TAR.08F2F39FF20B#^s-fd1ef35e085e68f2e62762a9|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Žuvininkystės įstatymu
+- [[latest/TAR.3BAA3000A177#^s-2061de50e34345392a48c939|Lietuvos Respublikos laukinės gyvūnijos įstatymo 2, 9, 10, 11, 14 ir 20 straipsnių pakeitimo ir papildymo įstatymas]] - „Žuvininkystės įstatymo“
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-2afa658567df29317d40f9fa|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-5d0476e3e7babe7041f916c4|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatymu
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-5ee6b1adfee10b057449d852|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatymu
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-6cb3c472e739a75d71dc581d|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatyme
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-9e9bc52c20b7ec83affbe571|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatyme
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-a781fd2cac3373112fec873b|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatymu
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-a99a59b4a4552ecf4e3c29c6|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatymu
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-cb1b6aa632ccaf46e1e4d0d7|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymas
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-da1f5f4f7c4b52368359c0cd|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymas
+- [[latest/b49583d00a2411ebb74de75171d26d52#^s-dee49e6654b3d447f87b9b8d|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/TAR.6F08892C89ED#^s-0490b60f3322b57b0b0a2918|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Žuvininkystės įstatymu
+- [[latest/TAR.14279DE776C2#^s-3e0e5400ceeaf83ccefdabef|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Žuvininkystės įstatymas
+- [[latest/TAR.14279DE776C2#^s-6442645978cd2c7dd5f84179|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/TAR.6F08892C89ED#^s-6ca680911c3913e902b736cc|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Žuvininkystės įstatymu
+- [[latest/TAR.14279DE776C2#^s-b2512458e5b0ff80e4795cd5|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/TAR.14279DE776C2#^s-d01912467209e2562b487bb0|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Žuvininkystės įstatymas
+- [[latest/TAR.C295ED415ACB#^s-4236a610c08484419907e7ec|Lietuvos Respublikos mėgėjiškos žūklės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/TAR.C295ED415ACB#^s-f2698fa855d6023db35b33e9|Lietuvos Respublikos mėgėjiškos žūklės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/TAR.11BAD851321B#^s-46729b132277d50a574bbd67|Lietuvos Respublikos mėgėjų žvejybos įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/TAR.11BAD851321B#^s-c465fcd6ae60694c690349ea|Lietuvos Respublikos mėgėjų žvejybos įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-3290bc11a393aa0fd24a4092|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-5e3312708d7035474d0d29c1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/ba03da02a73311ef90b5ee8931e5ce5e#^s-8350ac9c8153adba94959ac4|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/af0add73325111f08fdabd4950271e2c#^s-0929d56b615a1096e6d8c100|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/af0add73325111f08fdabd4950271e2c#^s-d673e51301e19189a76c8fa7|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/3a1d7d704dc511ec862fdcbc8b3e3e05#^s-047e33fc1919af02526fa16b|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-349785d04e5556301907f7a8|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-5ac224781b99f46fa42b498f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-20effa828cc6ce8961216b6f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-3b017a349f1057f384a17ce5|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-8d94a9ec753e9f36deda946f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-8f132c08047bd2b7b559c5a6|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žuvininkystės įstatymas
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-95509032fe5b2fe16f78ea94|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žuvininkystės įstatymo
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-cd5bf6a606b6f5f158680f79|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-f618c87bdd9259edb8d491db|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-502f7f2e8004c2d8e0e403fe|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-eaae0fd970863e176714f8f3|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/TAR.6B02E27C13B1#^s-51b6bcc723337ea7f4eed30d|Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 10, 12, 14, 18, 22, 23, 24, 26, 26-1, 26-2, 26-3, 26-5, 26-11, 26-14, 26-15, 26-17, 26-18, 26-19, 27, 29 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 22-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/aa7d3bc04a7211e6b5d09300a16a686c#^s-1a6921fe57d70dc7cc3f98bc|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 10, 11, 13, 17, 17-1, 18, 21, 24, 27, 29, 32, 36, 37, 39, 40, 41, 46, 48, 50, 51, 52, 53, 54, 61, 63 straipsnių ir priedo pakeitimo, Įstatymo papildymo 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11 straipsniais ir 35 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/f3195c12502a11f180c9c618618421ed#^s-e2e75a280ef2233f8127c92e|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 74 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/f3195c12502a11f180c9c618618421ed#^s-f2d33dd576ce9a216a2717fe|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 74 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/42230740a69211ebbcbbc2971cdac3cb#^s-badaf3050ef7ff85dd2ccdde|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 8, 12, 13, 14-1, 14-3, 14-4, 15, 17-1, 17-7, 18, 21, 22, 53 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/71042e004da411f0b070ee7f1ceefc75#^s-63ca32450db99aec02c75589|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ŽUVININKYSTĖS ĮSTATYMAS
+- [[latest/71042e004da411f0b070ee7f1ceefc75#^s-92944cb34c2280f582928784|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/71042e004da411f0b070ee7f1ceefc75#^s-c4b14bfef06606ac9398e0ee|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/71042e004da411f0b070ee7f1ceefc75#^s-e5198ea35da70e95774e4ede|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/71042e004da411f0b070ee7f1ceefc75#^s-fb1baef9b0649cad71ff6799|Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatyme
+- [[latest/TAR.6CF198C6E9D0#^s-37d2a05a5d03414e5ccced91|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.0238AFC84097#^s-5c8f8fe46e9c68e3c90deb79|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.0238AFC84097#^s-6197f6ea498bc89036c14b3e|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS  ŽUVININKYSTĖS  ĮSTATYMAS
+- [[latest/TAR.6CF198C6E9D0#^s-8a493e5996c8f50ca0861a03|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.0238AFC84097#^s-ac949de58715aad84418e70b|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.6CF198C6E9D0#^s-f2a62fe5be2dfb6f77592f45|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.0238AFC84097#^s-fad795bf57a45225f4f781a3|Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo 6 straipsnio

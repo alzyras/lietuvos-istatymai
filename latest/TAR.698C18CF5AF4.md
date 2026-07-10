@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.698C18CF5AF4"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 13, 26, 27, 29, 30, 33 ir 52 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 13, 26, 27, 29, 30, 33 ir 52 straipsnių pakeitimo įstatymas"
+  - "Vyriausybės įstatymo 13, 26, 27, 29, 30, 33 ir 52 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.698C18CF5AF4.md"
 latest_sha256: "e7f577d170fdde0090422ff20ad2d2aaa4c720259141198f43607f1b56a9a81f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.698C18CF5AF4]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 13, 26, 27, 29, 30, 33 ir 52 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.698C18CF5AF4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.698C18CF5AF4
+- Ryšiai: [[Ryšiai/TAR.698C18CF5AF4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,33 +38,33 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 9 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 9 dalies pakeitimas ^s-0f399dcc10a8cc3bc848b5f2
 
 
 Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
-„9. Vyriausybės nariai turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias atostogas. Vadovaujantis Darbo kodekso nuostatomis, Vyriausybės nariams gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos. Vyriausybės nariai, išskyrus tuos, kurie yra ir Seimo nariai, turi teisę būti atleisti nuo tarnybinių pareigų, kad galėtų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose įstatymų nustatyta tvarka.“
+„9. Vyriausybės nariai turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias atostogas. Vadovaujantis [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nuostatomis, Vyriausybės nariams gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos. Vyriausybės nariai, išskyrus tuos, kurie yra ir Seimo nariai, turi teisę būti atleisti nuo tarnybinių pareigų, kad galėtų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose įstatymų nustatyta tvarka.“
 
 
 
-### 2 straipsnis. 26 straipsnio 3 dalies 6 ir 7 punktų pakeitimas
+### 2 straipsnis. 26 straipsnio 3 dalies 6 ir 7 punktų pakeitimas ^s-a2a8d99c2eebb7d7fa86ceee
 
 
-1. Pakeisti 26 straipsnio 3 dalies 6 punktą ir jį išdėstyti taip: ^951fc7fa0c2abcc1dd776f36
+1. Pakeisti 26 straipsnio 3 dalies 6 punktą ir jį išdėstyti taip: ^s-f36e6fe585bd2c10fd2c610f
 
 
 „6) tvirtina ministerijos strateginius veiklos planus, įstaigų prie ministerijos strateginius ar metinius veiklos planus. Tvirtinti įstaigos prie ministerijos metinius veiklos planus ministras gali pavesti įstaigos prie ministerijos vadovui;“.
 
 
-2. Pakeisti 26 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip: ^02ad488e6600e038bfe3dac2
+2. Pakeisti 26 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip: ^s-50921b9e400f990d9053cad2
 
 
 „7) teikia Vyriausybei ministerijos metines veiklos ataskaitas, kuriose informuoja, kaip vykdoma Vyriausybės programa, jos įgyvendinimo priemonės, ministerijos strateginis veiklos planas ir įstaigų prie ministerijos strateginiai ar metiniai veiklos planai, ir Ministro Pirmininko reikalavimu atsiskaito už savo veiklą;“.
 
 
 
-### 3 straipsnis. 27 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 27 straipsnio 5 dalies pakeitimas ^s-669ce046e2b26c629e45c781
 
 
 27 straipsnio 5 dalyje po žodžio „pavesti“ įrašyti žodžius „Ministrui Pirmininkui“ ir šią dalį išdėstyti taip:
@@ -69,7 +74,7 @@ Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 29 straipsnio 10 dalies pakeitimas
+### 4 straipsnis. 29 straipsnio 10 dalies pakeitimas ^s-95af52a5e2ebd44743611fac
 
 
 Pakeisti 29 straipsnio 10 dalį ir ją išdėstyti taip:
@@ -79,7 +84,7 @@ Pakeisti 29 straipsnio 10 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 30 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 30 straipsnio 2 dalies pakeitimas ^s-6c0626a6f169d7211291c999
 
 
 Pakeisti 30 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -89,7 +94,7 @@ Pakeisti 30 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 33 straipsnio 7 dalies pakeitimas
+### 6 straipsnis. 33 straipsnio 7 dalies pakeitimas ^s-6a96d1b16035c36b39208cc9
 
 
 Pakeisti 33 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -99,32 +104,32 @@ Pakeisti 33 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 52 straipsnio pavadinimo, 4 ir 5 dalių pakeitimas
+### 7 straipsnis. 52 straipsnio pavadinimo, 4 ir 5 dalių pakeitimas ^s-1a62681e41a2f347e4fb82d7
 
 
-1. 52 straipsnio pavadinime po žodžio „Pareigūnų“ įrašyti žodžius „ir patariamųjų institucijų narių“ ir šio straipsnio pavadinimą išdėstyti taip: ^de0caa4c24b1fcba0a9df1db
+1. 52 straipsnio pavadinime po žodžio „Pareigūnų“ įrašyti žodžius „ir patariamųjų institucijų narių“ ir šio straipsnio pavadinimą išdėstyti taip: ^s-2e0df89a411cb4e560230a8a
 
 
 „52 straipsnis. Pareigūnų ir patariamųjų institucijų narių, kuriuos į pareigas Europos Sąjungos institucijose teikia Lietuvos Respublika, kandidatūrų siūlymas“.
 
 
-2. 52 straipsnio 4 dalyje išbraukti žodžius „Europos Sąjungos“, vietoj žodžio „komitetą“ įrašyti žodžius „komiteto narius“ ir šią dalį išdėstyti taip: ^ea5908101d93716587ac917d
+2. 52 straipsnio 4 dalyje išbraukti žodžius „Europos Sąjungos“, vietoj žodžio „komitetą“ įrašyti žodžius „komiteto narius“ ir šią dalį išdėstyti taip: ^s-fb32be3fecc369b6710f8b8a
 
 
 „4. Vyriausybė, siūlydama kandidatus į Regionų komiteto narius, teisės aktų nustatyta tvarka konsultuojasi su Lietuvos savivaldybių asociacija.“
 
 
-3. Pakeisti 52 straipsnio 5 dalį ir ją išdėstyti taip: ^02580eff57d271f12dcfd3f7
+3. Pakeisti 52 straipsnio 5 dalį ir ją išdėstyti taip: ^s-bf4e299a1cfface676c6e26d
 
 
 „5. Vyriausybė, siūlydama kandidatus į Europos ekonomikos ir socialinių reikalų komiteto narius, jos nustatyta atrankos tvarka atrenka kandidatus iš darbdavių, darbuotojų ir kitiems visuomenės interesams atstovaujančių organizacijų (vartotojų, ūkininkų, laisvųjų profesijų, aplinkos apsaugos, neįgaliųjų, moterų, šeimų, jaunimo, mokslo ir akademinių bendruomenių asociacijų, kitų nevyriausybinių organizacijų) atstovų. Dėl atrenkamų kandidatų Vyriausybė jos nustatyta tvarka konsultuojasi su Lietuvos Respublikos trišale taryba ir darbdavių, darbuotojų ir kitiems visuomenės interesams atstovaujančiomis organizacijomis.“
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-a4ca628823d45d2c5776c074
 
 
-Šis įstatymas, išskyrus 3 ir [[#7 straipsnis. 52 straipsnio pavadinimo, 4 ir 5 dalių pakeitimas|7 straipsnius]], įsigalioja 2009 m. sausio 1 d.
+Šis įstatymas, išskyrus 3 ir [[#^s-1a62681e41a2f347e4fb82d7|7 straipsnius]], įsigalioja 2009 m. sausio 1 d.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D19DD3E4FAA6"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo pakeitimo ir papildymo įstatymas"
+  - "notariato įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-07-01"
 latest_path: "latest/TAR.D19DD3E4FAA6.md"
 latest_sha256: "fd0da35726b2383609481e9ee03f1a8fa0a7b2cdf29a372e367c53214d70aae6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D19DD3E4FAA6]]"
 ---
 # Lietuvos Respublikos notariato įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D19DD3E4FAA6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D19DD3E4FAA6
+- Ryšiai: [[Ryšiai/TAR.D19DD3E4FAA6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-b86143dae35f72d001700cd1
 
 
-[[#3 straipsnis. 6 straipsnio pakeitimas|3 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-ca806ace74f3d3100cd857be|3 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#3 straipsnis. 6 straipsnio pakeitimas|3 straipsnis]]. Teisė užimti notaro pareigas
+„[[#^s-ca806ace74f3d3100cd857be|3 straipsnis]]. Teisė užimti notaro pareigas
 
 
 Notaro pareigos užimamos viešo konkurso būdu.
@@ -56,13 +61,13 @@ Jei Lietuvos Respublikos teisingumo ministras atsisako tvirtinti trijų mėnesi�
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-e0f2481889d811014ee47a63
 
 
-[[#4 straipsnis. 7 straipsnio pakeitimas|4 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-d80a9927eaf9c2d06f83aee6|4 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#4 straipsnis. 7 straipsnio pakeitimas|4 straipsnis]]. Notarų kvalifikacijos kėlimas ir atestavimas
+„[[#^s-d80a9927eaf9c2d06f83aee6|4 straipsnis]]. Notarų kvalifikacijos kėlimas ir atestavimas
 
 
 Notaras privalo nuolat kelti savo kvalifikaciją. Notarų kvalifikacijos kėlimą organizuoja Notarų rūmai, o koordinuoja Lietuvos Respublikos teisingumo ministerija. Notarų kvalifikacijos kėlimo nuostatus tvirtina Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.
@@ -75,13 +80,13 @@ Notarų atestavimo nuostatus tvirtina Lietuvos Respublikos teisingumo ministras 
 
 
 
-### 3 straipsnis. 6 straipsnio pakeitimas
+### 3 straipsnis. 6 straipsnio pakeitimas ^s-ca806ace74f3d3100cd857be
 
 
-[[#6 straipsnis. 8 straipsnio papildymas 2 dalimi|6 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-366bb466d1296b7c99d5cbad|6 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#6 straipsnis. 8 straipsnio papildymas 2 dalimi|6 straipsnis]]. Notarų skaičius, jų buveinė ir veiklos teritorija
+„[[#^s-366bb466d1296b7c99d5cbad|6 straipsnis]]. Notarų skaičius, jų buveinė ir veiklos teritorija
 
 
 Notarų skaičių, jų buveinę ir veiklos teritoriją nustato Lietuvos Respublikos teisingumo ministras pagal savo patvirtintą Notarų gyventojams teikiamų teisinių paslaugų poreikių vertinimo metodiką.
@@ -100,13 +105,13 @@ Reikalavimus, keliamus notarų biurams ir notarų darbo laikui, nustato Lietuvos
 
 
 
-### 4 straipsnis. 7 straipsnio pakeitimas
+### 4 straipsnis. 7 straipsnio pakeitimas ^s-d80a9927eaf9c2d06f83aee6
 
 
-[[#7 straipsnis. Įstatymo papildymas 101 straipsniu|7 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-1675eb930a61838b1d32a03b|7 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#7 straipsnis. Įstatymo papildymas 101 straipsniu|7 straipsnis]]. Notarų veiklos priežiūra
+„[[#^s-1675eb930a61838b1d32a03b|7 straipsnis]]. Notarų veiklos priežiūra
 
 
 Notarų ir jų savivaldos institucijų veiklą prižiūri apygardų teismų pirmininkai bei kiti Lietuvos Respublikos teisingumo ministro paskirti asmenys.
@@ -122,7 +127,7 @@ Lietuvos Respublikos teisingumo ministerija įgyvendina priemones notarinei prak
 
 
 
-### 5 straipsnis. Įstatymo papildymas 71 straipsniu
+### 5 straipsnis. Įstatymo papildymas 71 straipsniu ^s-776f224c9aafabfed1d9bde1
 
 
 Papildyti Įstatymą 71 straipsniu:
@@ -131,27 +136,27 @@ Papildyti Įstatymą 71 straipsniu:
 „71 straipsnis. Notarų veiklą prižiūrinčių institucijų teisės
 
 
-Tikrindami notarinių veiksmų atlikimo teisėtumą, [[#7 straipsnis. Įstatymo papildymas 101 straipsniu|7 straipsnio]] antrojoje dalyje įvardyti asmenys turi teisę revizuoti atliktus notarinius veiksmus, tikrinti notaro turimus notarinius dokumentus, registrus. Šie asmenys turi teisę reikalauti iš notaro pasiaiškinti dėl pažeidimų ir trūkumų, susijusių su notarų profesine veikla, bei juos pašalinti.
+Tikrindami notarinių veiksmų atlikimo teisėtumą, [[#^s-1675eb930a61838b1d32a03b|7 straipsnio]] antrojoje dalyje įvardyti asmenys turi teisę revizuoti atliktus notarinius veiksmus, tikrinti notaro turimus notarinius dokumentus, registrus. Šie asmenys turi teisę reikalauti iš notaro pasiaiškinti dėl pažeidimų ir trūkumų, susijusių su notarų profesine veikla, bei juos pašalinti.
 
 
 Lietuvos Respublikos teisingumo ministras bei Notarų rūmų prezidiumas turi teisę iškelti notarui drausmės bylą.“
 
 
 
-### 6 straipsnis. 8 straipsnio papildymas 2 dalimi
+### 6 straipsnis. 8 straipsnio papildymas 2 dalimi ^s-366bb466d1296b7c99d5cbad
 
 
-1. [[#8 straipsnis. Įstatymo papildymas 102 straipsniu|8 straipsnį]] papildyti nauja [[#^f606c7451131cdd1ba17d0ea|2 dalimi]]: ^3de54d957a66094c82c2698a
+1. [[#^s-0aaa92fa49b927087591847b|8 straipsnį]] papildyti nauja [[#^s-6168b27cf514fd9905365a89|2 dalimi]]: ^s-7220d9f08435b871f0319691
 
 
 „Kiekvienas notaras yra Notarų rūmų narys.“
 
 
-2. Buvusias [[#8 straipsnis. Įstatymo papildymas 102 straipsniu|8 straipsnio]] 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^f606c7451131cdd1ba17d0ea
+2. Buvusias [[#^s-0aaa92fa49b927087591847b|8 straipsnio]] 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-6168b27cf514fd9905365a89
 
 
 
-### 7 straipsnis. Įstatymo papildymas 101 straipsniu
+### 7 straipsnis. Įstatymo papildymas 101 straipsniu ^s-1675eb930a61838b1d32a03b
 
 
 Papildyti Įstatymą 101 straipsniu:
@@ -173,7 +178,7 @@ Notarų garbės teismas gali veikti, jeigu į jį yra išrinkta ar paskirta daug
 
 
 
-### 8 straipsnis. Įstatymo papildymas 102 straipsniu
+### 8 straipsnis. Įstatymo papildymas 102 straipsniu ^s-0aaa92fa49b927087591847b
 
 
 Papildyti Įstatymą 102 straipsniu:
@@ -185,44 +190,44 @@ Papildyti Įstatymą 102 straipsniu:
 Notarų garbės teismas, išnagrinėjęs notaro drausmės bylą, gali:
 
 
-1) jį išteisinti; ^e36885fb7937721c786a4450
+1) jį išteisinti; ^s-cb04898442834b9b17c0ed58
 
 
-2) pasitenkinti drausmės bylos svarstymu; ^944329a58f3f9f2fb71736f4
+2) pasitenkinti drausmės bylos svarstymu; ^s-3c6d114de7262226bc390211
 
 
-3) nutraukti drausmės bylą, jei praleistas šios bylos iškėlimo terminas; ^3f61ad3c33cf6621275fbedc
+3) nutraukti drausmės bylą, jei praleistas šios bylos iškėlimo terminas; ^s-de4c14ffff77426a84a46200
 
 
-4) įpareigoti viešai atsiprašyti nukentėjusįjį arba notaro biuro kolektyvą; ^75be9006191f2b2774efae01
+4) įpareigoti viešai atsiprašyti nukentėjusįjį arba notaro biuro kolektyvą; ^s-6a31c322a84520f87ead3acf
 
 
-5) pareikšti jam pastabą; ^4e52860481e1bf7d41052aa5
+5) pareikšti jam pastabą; ^s-d4080cd8c07197d11a2c8b89
 
 
-6) pareikšti jam papeikimą; ^f2f044aa3cd1bac2a0dd12f7
+6) pareikšti jam papeikimą; ^s-492fd02d7a83df9eb82cf1ed
 
 
-7) pareikšti jam griežtą papeikimą; ^d98f9a2be9fc6955299f6023
+7) pareikšti jam griežtą papeikimą; ^s-6169bb44f27054313db10323
 
 
-8) uždrausti profesinę veiklą iki trijų mėnesių; ^f94ec168f0d9f01d66536b2f
+8) uždrausti profesinę veiklą iki trijų mėnesių; ^s-33870b3f322743df5cadbaf9
 
 
-9) pasiūlyti Lietuvos Respublikos teisingumo ministrui atleisti jį iš pareigų. ^e5023036caa2f506b5c4a629
+9) pasiūlyti Lietuvos Respublikos teisingumo ministrui atleisti jį iš pareigų. ^s-043ac71bac61b699a4552777
 
 
 Notarų garbės teismo sprendimas per 14 dienų nuo įteikimo notarui gali būti skundžiamas apygardos teismui.“
 
 
 
-### 9 straipsnis. 11 straipsnio pakeitimas
+### 9 straipsnis. 11 straipsnio pakeitimas ^s-d3932aa4192dfd618830ef84
 
 
-[[#11 straipsnis. 16 straipsnio pakeitimas|11 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-e9563f9a7043bd21e9660634|11 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#11 straipsnis. 16 straipsnio pakeitimas|11 straipsnis]]. Notarų rūmų ir Lietuvos Respublikos teisingumo ministerijos santykiai
+„[[#^s-e9563f9a7043bd21e9660634|11 straipsnis]]. Notarų rūmų ir Lietuvos Respublikos teisingumo ministerijos santykiai
 
 
 Notarų rūmai kasmet iki vasario 15 dienos pateikia Lietuvos Respublikos teisingumo ministerijai detalią savo veiklos ataskaitą.
@@ -232,26 +237,26 @@ Lietuvos Respublikos teisingumo ministras, manydamas, kad Notarų rūmų nutarim
 
 
 
-### 10 straipsnis. 14 straipsnio pakeitimas
+### 10 straipsnis. 14 straipsnio pakeitimas ^s-ed0049264c12f87d43c1b715
 
 
-1.14 straipsnio 4 dalį pripažinti netekusia galios, buvusias 5, 6 ir 7 dalis laikyti atitinkamai 4, 5 ir 6 dalimis. ^04411228a70287a6a78f17d6
+1.14 straipsnio 4 dalį pripažinti netekusia galios, buvusias 5, 6 ir 7 dalis laikyti atitinkamai 4, 5 ir 6 dalimis. ^s-a80fd897c74352ffa1618486
 
 
-2. 14 straipsnio 6 dalį pakeisti ir išdėstyti taip: ^0129032415e91768c9a551de
+2. 14 straipsnio 6 dalį pakeisti ir išdėstyti taip: ^s-e50cb75a81e7a6a371414652
 
 
 „Sandorio šalys, jų teisių perėmėjai ir jų teisėti atstovai gali atleisti notarą nuo pareigos saugoti notarinių veiksmų paslaptį. Jei viena šalis yra mirusi, tai nuo pareigos saugoti paslaptį gali atleisti Lietuvos Respublikos teisingumo ministras.“
 
 
 
-### 11 straipsnis. 16 straipsnio pakeitimas
+### 11 straipsnis. 16 straipsnio pakeitimas ^s-e9563f9a7043bd21e9660634
 
 
-[[#16 straipsnis. 26 straipsnio pakeitimas ir papildymas|16 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-411abbf11c74c77db3810b41|16 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#16 straipsnis. 26 straipsnio pakeitimas ir papildymas|16 straipsnis]]. Notaro atsakomybė
+„[[#^s-411abbf11c74c77db3810b41|16 straipsnis]]. Notaro atsakomybė
 
 
 Už žalą, padarytą kaltais notariniais veiksmais, notaras atsako Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Notaras turi atlyginti visą savo ar jo biuro darbuotojų, atliekančių darbines pareigas, padarytą žalą. Fiziniams ir juridiniams asmenims visą žalą turi atlyginti ir notaras, kurio įgaliojimai pasibaigę, jeigu ieškinys dėl žalos atlyginimo pareikštas Lietuvos Respublikos civilinio kodekso nustatytais terminais. Šioje dalyje nurodytais atvejais ieškinys pareiškiamas notarui.
@@ -261,13 +266,13 @@ Už įstatymų ar kitų teisės aktų pažeidimus, padarytus atliekant notariniu
 
 
 
-### 12 straipsnis. 19 straipsnio pakeitimas
+### 12 straipsnis. 19 straipsnio pakeitimas ^s-500451f24dd05a5b4c95b789
 
 
-[[#19 straipsnis. 35 straipsnio papildymas 2 dalimi|19 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-6c03942ec9c10291719d5cba|19 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#19 straipsnis. 35 straipsnio papildymas 2 dalimi|19 straipsnis]]. Notaro pajamos
+„[[#^s-6c03942ec9c10291719d5cba|19 straipsnis]]. Notaro pajamos
 
 
 Už notarinio veiksmo atlikimą, sandorių projektų parengimą, konsultacijas bei technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministerija, suderinusi su Lietuvos Respublikos finansų ministerija. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomu, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingus darbuotojus ir turėti gerai techniškai aprūpintą biurą.
@@ -283,7 +288,7 @@ Notarų finansinių operacijų įforminimo tvarką nustato Lietuvos Respublikos 
 
 
 
-### 13 straipsnis. Įstatymo papildymas 201 straipsniu
+### 13 straipsnis. Įstatymo papildymas 201 straipsniu ^s-7b6d05afc163a56fee5745e5
 
 
 Papildyti Įstatymą 201 straipsniu:
@@ -302,13 +307,13 @@ Lietuvos Respublikos teisingumo ministras nustato vienodą visiems notarų biura
 
 
 
-### 14 straipsnis. 22 straipsnio pakeitimas
+### 14 straipsnis. 22 straipsnio pakeitimas ^s-39db25516b0a734fe192d869
 
 
-[[#22 straipsnis. 48 straipsnio 2 dalies pakeitimas|22 straipsnį]] pakeisti ir išdėstyti taip:
+[[#^s-b31406bae97970ba04679922|22 straipsnį]] pakeisti ir išdėstyti taip:
 
 
-„[[#22 straipsnis. 48 straipsnio 2 dalies pakeitimas|22 straipsnis]]. Notaro atstovavimas ir pavadavimas
+„[[#^s-b31406bae97970ba04679922|22 straipsnis]]. Notaro atstovavimas ir pavadavimas
 
 
 Jeigu notaras negali eiti savo pareigų (atostogos, liga ar kitos priežastys), apie tai jis turi pranešti Lietuvos Respublikos teisingumo ministerijai, kuri prireikus laikinai nesantį notarą paveda pavaduoti kitam notarui arba, suderinusi su atstovaujamu notaru, o jei šio nėra – su Notarų rūmais, paskiria notaro atstovą. Pavaduojamas arba atstovaujamas notaras negali atlikti notarinių veiksmų.
@@ -327,7 +332,7 @@ Jei notaras perėjo dirbti į renkamas pareigas, Lietuvos Respublikos teisingumo
 
 
 
-### 15 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 15 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-5691e66513b96afa3b3fa7f4
 
 
 23 straipsnio 1 dalį pakeisti ir išdėstyti taip:
@@ -336,44 +341,44 @@ Jei notaras perėjo dirbti į renkamas pareigas, Lietuvos Respublikos teisingumo
 „Notaro įgaliojimai pasibaigia:
 
 
-1) notarui mirus; ^3c860054f8ecef2f3144ced3
+1) notarui mirus; ^s-5d7106250d3fd02d726ac086
 
 
-2) notarui netekus Lietuvos Respublikos pilietybės; ^8b1be78039faa987ca49a967
+2) notarui netekus Lietuvos Respublikos pilietybės; ^s-2073e28ae46b49d89af6f797
 
 
-3) notaro pareiškimu; ^aa1c542e98eacf9a13f62356
+3) notaro pareiškimu; ^s-eff3e5e83572cc8c165668df
 
 
-4) kai jis dėl sveikatos būklės pagal medicininės ar invalidumą nustatančios komisijos išvadą negali dirbti notaru; ^71b2b59570a431b1dea6b081
+4) kai jis dėl sveikatos būklės pagal medicininės ar invalidumą nustatančios komisijos išvadą negali dirbti notaru; ^s-f8a4dd989b0af659db5a6f82
 
 
-5) įsiteisėjus teismo nuosprendžiui, kuriuo notaras nuteisiamas už tyčinį nusikaltimą arba notarui paskiriama bausmė, dėl kurios jis negali dirbti notaru, arba atimama teisė dirbti notaru; ^736026148be6a6b378f3a41e
+5) įsiteisėjus teismo nuosprendžiui, kuriuo notaras nuteisiamas už tyčinį nusikaltimą arba notarui paskiriama bausmė, dėl kurios jis negali dirbti notaru, arba atimama teisė dirbti notaru; ^s-ee02bb21ca39786874e8ccf3
 
 
-6) Lietuvos Respublikos teisingumo ministrui pritarus Notarų garbės teismo siūlymui atleisti notarą iš pareigų; ^7a778e663254f398431553cf
+6) Lietuvos Respublikos teisingumo ministrui pritarus Notarų garbės teismo siūlymui atleisti notarą iš pareigų; ^s-4c2e8f6d5e0b8483d28677d1
 
 
-7) kai jis netinka eiti pareigas pagal atestavimo rezultatus; ^39552d1310ec4e7ddaba3f9a
+7) kai jis netinka eiti pareigas pagal atestavimo rezultatus; ^s-75258dae0ab82c6431d6b5fc
 
 
-8) notarui sulaukus 65 metų; ^477accfd018eece8c4bd0c79
+8) notarui sulaukus 65 metų; ^s-4c2f8c512894d79578dd5593
 
 
-9) neįvykdžius šio įstatymo [[#6 straipsnis. 8 straipsnio papildymas 2 dalimi|6 straipsnio]] ketvirtojoje dalyje nurodytų reikalavimų; ^14f1a1c0ed37354a1296950a
+9) neįvykdžius šio įstatymo [[#^s-366bb466d1296b7c99d5cbad|6 straipsnio]] ketvirtojoje dalyje nurodytų reikalavimų; ^s-3f186a5e8a5d7232556ea931
 
 
-10) jei notaras pažeidė šio įstatymo [[#20 straipsnis. 37 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas bei papildymas|20 straipsnio]] reikalavimus; ^9ba3f481d6447113324cb6b9
+10) jei notaras pažeidė šio įstatymo [[#^s-0b64374eba0a146737c94cfd|20 straipsnio]] reikalavimus; ^s-b9fe7583e236367ef5d31383
 
 
-11) jei notaras sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų rūmams.“ ^ef84fbf340b25b3cf32daa40
+11) jei notaras sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų rūmams.“ ^s-95232e3bc01251b464ddaa44
 
 
 
-### 16 straipsnis. 26 straipsnio pakeitimas ir papildymas
+### 16 straipsnis. 26 straipsnio pakeitimas ir papildymas ^s-411abbf11c74c77db3810b41
 
 
-26 straipsnio 1 dalies 13 punktą pripažinti netekusiu galios, buvusius 14, 15 ir 16 punktus laikyti atitinkamai 13, 14 ir [[#^3fbc3a8662a17c9c50fb8366|15 punktais]], straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
+26 straipsnio 1 dalies 13 punktą pripažinti netekusiu galios, buvusius 14, 15 ir 16 punktus laikyti atitinkamai 13, 14 ir [[#^s-637c2ed5c09d760bb388cb3d|15 punktais]], straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
 
 
 „26 straipsnis. Notarų atliekami notariniai veiksmai
@@ -382,56 +387,56 @@ Jei notaras perėjo dirbti į renkamas pareigas, Lietuvos Respublikos teisingumo
 Notarai atlieka šiuos notarinius veiksmus:
 
 
-1) tvirtina sandorius (sutartis, testamentus, įgaliojimus ir kt.); ^9982ce25d38a923badc6c119
+1) tvirtina sandorius (sutartis, testamentus, įgaliojimus ir kt.); ^s-5288c71486b81b621384b952
 
 
-2) imasi priemonių paveldimam turtui apsaugoti; ^6622fc7d138225fb0cd32278
+2) imasi priemonių paveldimam turtui apsaugoti; ^s-cba58b14a0fc62c7df381684
 
 
-3) išduoda paveldėjimo teisės liudijimus; ^0b81899b7f06dea84413ddae
+3) išduoda paveldėjimo teisės liudijimus; ^s-a3bcd148fac9efc7b20a51b4
 
 
-4) išduoda nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus; ^39b11167898b1e22bb5a6844
+4) išduoda nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus; ^s-b3154e38b32d5f5437d940c9
 
 
-5) liudija dokumentų nuorašų ir jų išrašų tikrumą; ^a27665f102c0b3623c1981d6
+5) liudija dokumentų nuorašų ir jų išrašų tikrumą; ^s-1241b3a38c22c0ccb2912814
 
 
-6) liudija parašo dokumentuose tikrumą; ^32c04028b4d6fe0ade79fb10
+6) liudija parašo dokumentuose tikrumą; ^s-74c07dcad18df22a81c8e23c
 
 
-7) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą; ^771635a19f04c730448817c2
+7) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą; ^s-4b9d6740748b12b63da6bbb1
 
 
-8) tvirtina faktą, kad pilietis yra gyvas ir yra tam tikroje vietovėje; ^3f7ab5d73de56a9f3891a4f1
+8) tvirtina faktą, kad pilietis yra gyvas ir yra tam tikroje vietovėje; ^s-9c7c362a49ce770f8ab7c166
 
 
-9) priima saugoti dokumentus; ^b4a3e84b6f67ff7f4f368ccc
+9) priima saugoti dokumentus; ^s-f325a51d93342baf69a0d35a
 
 
-10) tvirtina dokumentų pateikimo laiką; ^b41d27237ef164a14c8d5e77
+10) tvirtina dokumentų pateikimo laiką; ^s-7fb232f9258115095ce3da63
 
 
-11) perduoda vienų juridinių ir fizinių asmenų pareiškimus kitiems juridiniams ir fiziniams asmenims; ^458822a34e06412a28299c8b
+11) perduoda vienų juridinių ir fizinių asmenų pareiškimus kitiems juridiniams ir fiziniams asmenims; ^s-944407dd60cc805cbb3289f4
 
 
-12) priima kaip depozitą pinigus ir vertybinius popierius; ^4c750bc4106a1b7c11aba852
+12) priima kaip depozitą pinigus ir vertybinius popierius; ^s-423e05e74ccc9e2923421de7
 
 
-13) priima jūrinius protestus; ^9604dd813af16730ed44128f
+13) priima jūrinius protestus; ^s-a7161f3c6b2a867e2a7b8fea
 
 
-14) protestuoja vekselius ir čekius; ^a7dc25b893138ef42d12a5b2
+14) protestuoja vekselius ir čekius; ^s-3b27cb45d57f082e1e1772c8
 
 
-15) atlieka kitus įstatymų numatytus notarinius veiksmus. ^3fbc3a8662a17c9c50fb8366
+15) atlieka kitus įstatymų numatytus notarinius veiksmus. ^s-637c2ed5c09d760bb388cb3d
 
 
 Pripažįstama, kad notarine forma patvirtintuose dokumentuose esantys faktai yra nustatyti ir neįrodinėjami, iki šie dokumentai (jų dalys) įstatymų nustatyta tvarka nėra pripažinti negaliojančiais.“
 
 
 
-### 17 straipsnis. 28 straipsnio pakeitimas
+### 17 straipsnis. 28 straipsnio pakeitimas ^s-657b7ed49a7336beb7719a33
 
 
 28 straipsnio 1 dalį papildyti, 2 dalį pakeisti ir šį straipsnį išdėstyti taip:
@@ -450,7 +455,7 @@ Lietuvos Respublikos konsulinių įstaigų atliekamų notarinių veiksmų vietą
 
 
 
-### 18 straipsnis. 31 straipsnio pakeitimas ir papildymas
+### 18 straipsnis. 31 straipsnio pakeitimas ir papildymas ^s-1a15fbf0136b6050bce7b0f9
 
 
 31 straipsnio 1 dalį papildyti, 2 dalyje vietoj žodžių „išaiškinamas fizinių asmenų veiksnumas“ įrašyti žodžius „įsitikinama fizinių asmenų veiksnumu“, straipsnį papildyti 5 dalimi ir jį išdėstyti taip:
@@ -475,7 +480,7 @@ Lietuvos Respublikos teismai ne vėliau kaip per 3 dienas nuo sprendimo, apriboj
 
 
 
-### 19 straipsnis. 35 straipsnio papildymas 2 dalimi
+### 19 straipsnis. 35 straipsnio papildymas 2 dalimi ^s-6c03942ec9c10291719d5cba
 
 
 35 straipsnį papildyti 2 dalimi:
@@ -485,51 +490,51 @@ Lietuvos Respublikos teismai ne vėliau kaip per 3 dienas nuo sprendimo, apriboj
 
 
 
-### 20 straipsnis. 37 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas bei papildymas
+### 20 straipsnis. 37 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas bei papildymas ^s-0b64374eba0a146737c94cfd
 
 
-1. 37 straipsnio 1 dalyje po žodžio „registruojami“ įrašyti žodį „viename“ ir šią dalį išdėstyti taip: ^a14b37f6c7566b956a6f75a2
+1. 37 straipsnio 1 dalyje po žodžio „registruojami“ įrašyti žodį „viename“ ir šią dalį išdėstyti taip: ^s-442a685bfb55e8361e46ac2c
 
 
 „Visi notariniai veiksmai registruojami viename notariniame registre.“
 
 
-2. 37 straipsnio 2 dalies 3 punktą pakeisti, dalį papildyti nauju [[#^0987a49e7b602aa623a80785|4 punktu]], buvusius 4, 5 bei [[#^c5f6892b6cb1383f986e5959|6 punktus]] laikyti atitinkamai 5, 6 bei [[#^af59beae75b27387e054fff0|7 punktais]] ir šią dalį išdėstyti taip: ^e9643ce0795703e3f9ddd783
+2. 37 straipsnio 2 dalies 3 punktą pakeisti, dalį papildyti nauju [[#^s-b570e75880111e6cb516f891|4 punktu]], buvusius 4, 5 bei [[#^s-8fbfe92a307d4b6da456648c|6 punktus]] laikyti atitinkamai 5, 6 bei [[#^s-c3db92e88868a8065f9fd49b|7 punktais]] ir šią dalį išdėstyti taip: ^s-60b4aa40a925e0785d98da35
 
 
 „Registre turi būti nurodomi šie registruojamo notarinio veiksmo duomenys:
 
 
-1) notarinio veiksmo numeris; ^a46561e07e5f2db4d6e19b68
+1) notarinio veiksmo numeris; ^s-ff2b05265e2cb2bac26f01db
 
 
-2) notarinio veiksmo atlikimo data; ^334a880c7cb6ffe3e3b48a9e
+2) notarinio veiksmo atlikimo data; ^s-b6627df02f31fe767143495b
 
 
-3) fizinio asmens vardas, pavardė, asmens kodas, juridinio asmens ar įmonės, neturinčios juridinio asmens teisių, pavadinimas, įmonės kodas ir jų įgaliotinių vardai, pavardės, asmens kodai; ^8f35544330f114bef13720dc
+3) fizinio asmens vardas, pavardė, asmens kodas, juridinio asmens ar įmonės, neturinčios juridinio asmens teisių, pavadinimas, įmonės kodas ir jų įgaliotinių vardai, pavardės, asmens kodai; ^s-c758e817af215323da641019
 
 
-4) dokumentas, patvirtinantis fizinių asmenų arba fizinių ar juridinių asmenų atstovų asmenybę; ^0987a49e7b602aa623a80785
+4) dokumentas, patvirtinantis fizinių asmenų arba fizinių ar juridinių asmenų atstovų asmenybę; ^s-b570e75880111e6cb516f891
 
 
-5) notarinio veiksmo turinys; ^4292f97de053373b2c30922b
+5) notarinio veiksmo turinys; ^s-57375c5ddcdad62a83fdc316
 
 
-6) atlyginimo dydis; ^c5f6892b6cb1383f986e5959
+6) atlyginimo dydis; ^s-8fbfe92a307d4b6da456648c
 
 
-7) dokumento gavėjo parašas.“ ^af59beae75b27387e054fff0
+7) dokumento gavėjo parašas.“ ^s-c3db92e88868a8065f9fd49b
 
 
 
-### 21 straipsnis. 45 straipsnio 2 dalies pripažinimas netekusia galios
+### 21 straipsnis. 45 straipsnio 2 dalies pripažinimas netekusia galios ^s-2c0eb52686f79dc15f2bdc74
 
 
 45 straipsnio 2 dalį pripažinti netekusia galios.
 
 
 
-### 22 straipsnis. 48 straipsnio 2 dalies pakeitimas
+### 22 straipsnis. 48 straipsnio 2 dalies pakeitimas ^s-b31406bae97970ba04679922
 
 
 48 straipsnio 2 dalyje išbraukti antrąjį sakinį ir ją išdėstyti taip:
@@ -539,7 +544,7 @@ Lietuvos Respublikos teismai ne vėliau kaip per 3 dienas nuo sprendimo, apriboj
 
 
 
-### 23 straipsnis. Įstatymo papildymas VI skyriumi
+### 23 straipsnis. Įstatymo papildymas VI skyriumi ^s-4681361dc2a75ef37f206027
 
 
 Papildyti Įstatymą VI skyriumi:
@@ -552,17 +557,17 @@ KANDIDATAI Į NOTARUS (ASESORIAI)
 
 
 
-### 56 straipsnis. Kandidatai į notarus (asesoriai)
+### 56 straipsnis. Kandidatai į notarus (asesoriai) ^s-8e90c6b4118c81e89dae9220
 
 
-Kandidatas į notarus (asesorius) yra asmuo, kuris šio įstatymo [[#57 straipsnis. Kandidatų į notarus (asesorių) priėmimo tvarka|57 straipsnio]] nustatyta tvarka yra įrašytas į kandidatų į notarus (asesorių) sąrašą, sudarė šiame įstatyme numatytą kandidato į notarus (asesoriaus) sutartį ir rengiasi profesinei notaro veiklai.
+Kandidatas į notarus (asesorius) yra asmuo, kuris šio įstatymo [[#^s-55f86e7adc484535bafcc1ea|57 straipsnio]] nustatyta tvarka yra įrašytas į kandidatų į notarus (asesorių) sąrašą, sudarė šiame įstatyme numatytą kandidato į notarus (asesoriaus) sutartį ir rengiasi profesinei notaro veiklai.
 
 
-Kandidatais į notarus (asesoriais) gali būti Lietuvos Respublikos piliečiai, atitinkantys šio įstatymo [[#3 straipsnis. 6 straipsnio pakeitimas|3 straipsnio]] antrosios dalies reikalavimus.
+Kandidatais į notarus (asesoriais) gali būti Lietuvos Respublikos piliečiai, atitinkantys šio įstatymo [[#^s-ca806ace74f3d3100cd857be|3 straipsnio]] antrosios dalies reikalavimus.
 
 
 
-### 57 straipsnis. Kandidatų į notarus (asesorių) priėmimo tvarka
+### 57 straipsnis. Kandidatų į notarus (asesorių) priėmimo tvarka ^s-55f86e7adc484535bafcc1ea
 
 
 Lietuvos Respublikos teisingumo ministras kartu su Notarų rūmų prezidiumu kasmet nustato kandidatų į notarus (asesorių) skaičių.
@@ -572,14 +577,14 @@ Asmenis į kandidatų į notarus (asesorių) sąrašą įrašo Lietuvos Respubli
 
 
 
-### 58 straipsnis. Kandidato į notarus (asesoriaus) sutartis
+### 58 straipsnis. Kandidato į notarus (asesoriaus) sutartis ^s-6a3fbae16e74373be4df30be
 
 
 Asmuo, įrašytas į kandidatų į notarus (asesorių) sąrašą, sudaro sutartį su Notarų rūmų prezidiumu ir notaru, pas kurį kandidatas atlieka praktiką. Teorinį kandidatų į notarus (asesorių) mokymą organizuoja Lietuvos Respublikos teisingumo ministerija kartu su Notarų rūmais.
 
 
 
-### 59 straipsnis. Kandidato į notarus (asesoriaus) teisės ir pareigos
+### 59 straipsnis. Kandidato į notarus (asesoriaus) teisės ir pareigos ^s-ea0681d6a48f500aada91016
 
 
 Kandidatas į notarus (asesorius) susipažįsta su notariniais veiksmais dalyvaudamas rengiant šių veiksmų dokumentus, su organizacine notaro biuro veikla bei kitais klausimais pagal kandidatų į notarus (asesorių) rengimo programą, kurią tvirtina Notarų rūmų prezidiumas.
@@ -595,7 +600,7 @@ Kandidatas į notarus (asesorius) privalo laikytis notaro biure nustatytos darbo
 
 
 
-### 60 straipsnis. Kandidatų į notarus (asesorių) atsakomybė
+### 60 straipsnis. Kandidatų į notarus (asesorių) atsakomybė ^s-01f16e76b916ece5a72a20b6
 
 
 Kandidatai į notarus (asesoriai) už notarui, kuris vadovauja jų praktikai, padarytą žalą atsako pagal Lietuvos Respublikos civilinį kodeksą.
@@ -605,52 +610,52 @@ Kandidatams į notarus (asesoriams), pažeidusiems jiems nustatytas taisykles, n
 
 
 
-### 61 straipsnis. Kandidatų į notarus (asesorių) socialinės garantijos
+### 61 straipsnis. Kandidatų į notarus (asesorių) socialinės garantijos ^s-89c0760cf383cf27d506d8dd
 
 
 Notarų rūmai kandidatams į notarus (asesoriams) moka minimalaus darbo užmokesčio dydžio stipendiją.
 
 
-Notarų rūmai kandidatus į notarus (asesorius) draudžia privalomuoju valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+Notarų rūmai kandidatus į notarus (asesorius) draudžia privalomuoju valstybiniu socialiniu draudimu [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] nustatyta tvarka.
 
 
 Kandidatams į notarus (asesoriams) kasmet suteikiamos 30 kalendorinių dienų atostogos. Už atostogų laiką mokama stipendija.
 
 
 
-### 62 straipsnis. Kandidatų į notarus (asesorių) veiklos apribojimai
+### 62 straipsnis. Kandidatų į notarus (asesorių) veiklos apribojimai ^s-92a831ec12cd3a859947ef89
 
 
 Kandidatui į notarus (asesoriui) neleidžiama dirbti jokio kito darbo arba verstis kokia nors kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą). Kandidatas į notarus (asesorius) gali dirbti pagal darbo sutartį notaro biure, kuriame jis atlieka praktiką.
 
 
 
-### 63 straipsnis. Kandidato į notarus (asesoriaus) sutarties pasibaigimas
+### 63 straipsnis. Kandidato į notarus (asesoriaus) sutarties pasibaigimas ^s-f58fe70ca85de233b28b8143
 
 
 Kandidato į notarus (asesoriaus) sutartis pasibaigia:
 
 
-1) suėjus sutarties terminui; ^dfd09c0828f975246df76feb
+1) suėjus sutarties terminui; ^s-d4a088ea86451cc06bd31272
 
 
-2) kandidato į notarus (asesoriaus) prašymu; ^41ca3659de4a526cca7a1622
+2) kandidato į notarus (asesoriaus) prašymu; ^s-1ed2caaefa1f18f37b44720c
 
 
-3) jei atsirado aplinkybių, kurios pagal šio įstatymo [[#23 straipsnis. Įstatymo papildymas VI skyriumi|23 straipsnį]] pašalina galimybę dirbti notaro darbą; ^ff3fb6ce4edd969c2e8f8cd8
+3) jei atsirado aplinkybių, kurios pagal šio įstatymo [[#^s-4681361dc2a75ef37f206027|23 straipsnį]] pašalina galimybę dirbti notaro darbą; ^s-87e807827f139d5cae7b3aa0
 
 
-4) jei kandidatas į notarus (asesorius) pakartotinai neišlaiko notaro kvalifikacinio egzamino; ^722a9baf796eecef44aefe67
+4) jei kandidatas į notarus (asesorius) pakartotinai neišlaiko notaro kvalifikacinio egzamino; ^s-dd4aee6fb7196a55ef367948
 
 
-5) jei Notarų rūmų prezidiumo nutarimu patenkinamas šio įstatymo [[#60 straipsnis. Kandidatų į notarus (asesorių) atsakomybė|60 straipsnio]] antrojoje dalyje nurodytas notaro reikalavimas. ^2efd0fe26df238616e6db3a1
+5) jei Notarų rūmų prezidiumo nutarimu patenkinamas šio įstatymo [[#^s-01f16e76b916ece5a72a20b6|60 straipsnio]] antrojoje dalyje nurodytas notaro reikalavimas. ^s-e4c2c940b197415e2c522e41
 
 
 Kandidato į notarus (asesoriaus) sutartis nutraukiama Notarų rūmų prezidiumo nutarimu. Notarų rūmų prezidiumas savo nutarimą per 5 dienas pateikia Lietuvos Respublikos teisingumo ministrui, kuris asmenį išbraukia iš kandidatų į notarus (asesorių) sąrašo.
 
 
 
-### 64 straipsnis. Kandidatų į notarus (asesorių) nuostatai
+### 64 straipsnis. Kandidatų į notarus (asesorių) nuostatai ^s-c361e2425796dc0b04bb1f91
 
 
 Kandidatų į notarus (asesorių) konkurso ir mokymosi sąlygas, kurios neaptartos šiame įstatyme, nustato Kandidatų į notarus (asesorių) nuostatai, kuriuos tvirtina Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.“

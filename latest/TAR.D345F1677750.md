@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D345F1677750"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 37, 44, 57 ir 78 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 37, 44, 57 ir 78 straipsnių pakeitimo įstatymas"
+  - "akcinių bendrovių įstatymo 37, 44, 57 ir 78 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.D345F1677750.md"
 latest_sha256: "5759af18303cb3af5e230a0d7e4caf26639bbdb71a80fdde4e0a338f4ff291cc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D345F1677750]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 37, 44, 57 ir 78 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D345F1677750.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D345F1677750
+- Ryšiai: [[Ryšiai/TAR.D345F1677750|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 37 straipsnio 12 dalies 6 punkto pakeitimas
+### 1 straipsnis. 37 straipsnio 12 dalies 6 punkto pakeitimas ^s-72d8dde26d8f57217b0124ba
 
 
 37 straipsnio 12 dalies 6 punkte vietoj žodžių „Vertybinių popierių komisijai“ įrašyti žodžius „Lietuvos bankui“ ir šį punktą išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 44 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 44 straipsnio 1 dalies pakeitimas ^s-5275bf5492a2cf4fb90c3e00
 
 
 44 straipsnio 1 dalyje vietoj žodžio „atveju“ įrašyti žodį „atvejį”, vietoj žodžių „Vertybinių popierių komisija“ įrašyti žodžius „Lietuvos bankas“ ir šią dalį išdėstyti taip:
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 57 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 57 straipsnio 4 dalies pakeitimas ^s-b4483e34de70d5861d52067d
 
 
 57 straipsnio 4 dalyje vietoj žodžių „Vertybinių popierių komisijos“ įrašyti žodžius „Lietuvos banko“ ir šią dalį išdėstyti taip:
@@ -64,7 +69,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 78 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 78 straipsnio 2 dalies pakeitimas ^s-5a08085e07fd2f143517f684
 
 
 78 straipsnio 2 dalyje vietoj žodžių „Vertybinių popierių komisija“ įrašyti žodžius „Lietuvos bankas“ ir šią dalį išdėstyti taip:
@@ -74,7 +79,7 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-417cffc59f322cbbacdc7637
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

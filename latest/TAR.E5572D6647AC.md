@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E5572D6647AC"
 pavadinimas: "Lietuvos Respublikos finansų įstaigų įstatymo 44 ir 45 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansų įstaigų įstatymo 44 ir 45 straipsnių pakeitimo įstatymas"
+  - "finansų įstaigų įstatymo 44 ir 45 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-09-01"
 latest_path: "latest/TAR.E5572D6647AC.md"
 latest_sha256: "fe31d715aa6b11e35ee0cda0d0dae9f09e7745452ee259e39d738aefb34df533"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E5572D6647AC]]"
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymo 44 ir 45 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E5572D6647AC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E5572D6647AC
+- Ryšiai: [[Ryšiai/TAR.E5572D6647AC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 44 straipsnio pakeitimas
+### 1 straipsnis. 44 straipsnio pakeitimas ^s-b71d852c71004a39945abb16
 
 
 Pakeisti 44 straipsnį ir jį išdėstyti taip:
@@ -41,35 +46,35 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 „44 straipsnis. Auditas
 
 
-1. Audito įmonė turi atlikti finansų įstaigos metinių finansinių ataskaitų ir konsoliduotųjų finansinių ataskaitų auditą ir tuo remdamasi pateikti auditoriaus išvadą dėl šių ataskaitų ir audito ataskaitą. Audito ataskaitoje auditorius turi pateikti informaciją apie tai, ar finansų įstaiga ir finansinė grupė: ^b0ab92075b826fa20d9fd488
+1. Audito įmonė turi atlikti finansų įstaigos metinių finansinių ataskaitų ir konsoliduotųjų finansinių ataskaitų auditą ir tuo remdamasi pateikti auditoriaus išvadą dėl šių ataskaitų ir audito ataskaitą. Audito ataskaitoje auditorius turi pateikti informaciją apie tai, ar finansų įstaiga ir finansinė grupė: ^s-993ca8125bfb733c349d797a
 
 
-1) tiksliai ir kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės aktus; ^cf0bac73a3ce49a72bafd9e0
+1) tiksliai ir kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės aktus; ^s-a46233a032a366caa5908f03
 
 
-2) atliko privalomus turto vertės patikslinimus ir nurašymus; ^ddcbec0904a4fde83c430152
+2) atliko privalomus turto vertės patikslinimus ir nurašymus; ^s-9c20ce8e2d3f93945e53199d
 
 
-3) sudarė privalomus ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos rizikai sumažinti; ^3cb9652ddb3ee9819f72b751
+3) sudarė privalomus ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos rizikai sumažinti; ^s-62a75d009030786230dd6a9b
 
 
-4) laikosi Lietuvos Respublikos teisės aktų nustatytų kapitalo reikalavimų; ^d985e7d6fa8027fb2211dc75
+4) laikosi Lietuvos Respublikos teisės aktų nustatytų kapitalo reikalavimų; ^s-29c9c60fabe6d6c2c2c9a8d2
 
 
-5) atitinka Lietuvos Respublikos teisės aktų nustatytus veiksmingo ir patikimo nuosavybės valdymo bei saugios ir patikimos veiklos reikalavimus; ^4e0519232176bfceab4e01bb
+5) atitinka Lietuvos Respublikos teisės aktų nustatytus veiksmingo ir patikimo nuosavybės valdymo bei saugios ir patikimos veiklos reikalavimus; ^s-c49333c0edba4e3474aaa6ef
 
 
-6) turi tinkamas vidaus kontrolės ir informacines sistemas. ^e3e759bdcd2a40cce8f22b01
+6) turi tinkamas vidaus kontrolės ir informacines sistemas. ^s-5a02f96aea100cad31fe795b
 
 
-2. Visuotinis finansų įstaigos dalyvių susirinkimas renka audito įmonę metinėms finansinėms ataskaitoms bei konsoliduotosioms finansinėms ataskaitoms patikrinti. ^be4f1c9fdabe25ee35be9719
+2. Visuotinis finansų įstaigos dalyvių susirinkimas renka audito įmonę metinėms finansinėms ataskaitoms bei konsoliduotosioms finansinėms ataskaitoms patikrinti. ^s-26be4fd7e66a9e14eea75459
 
 
-3. Finansų įstaiga privalo iki einamųjų finansinių metų pirmojo pusmečio pabaigos sudaryti sutartį dėl metinių finansinių ataskaitų audito su visuotinio finansų įstaigos dalyvių susirinkimo išrinkta audito įmone ir pateikti ją priežiūros institucijai, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai.“ ^998cb10c78818ad4d97c8ee7
+3. Finansų įstaiga privalo iki einamųjų finansinių metų pirmojo pusmečio pabaigos sudaryti sutartį dėl metinių finansinių ataskaitų audito su visuotinio finansų įstaigos dalyvių susirinkimo išrinkta audito įmone ir pateikti ją priežiūros institucijai, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai.“ ^s-41741a00227114f7965a5566
 
 
 
-### 2 straipsnis. 45 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 45 straipsnio 3 dalies pakeitimas ^s-f76e0780670c4d07033fc8a5
 
 
 Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -79,13 +84,13 @@ Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-c3f0ec8fb057d318337e6541
 
 
-1. Įstatymas įsigalioja 2008 m. rugsėjo 1 d. ^ef1b3e650b8d5886706f46b7
+1. Įstatymas įsigalioja 2008 m. rugsėjo 1 d. ^s-37f89cc33aa3dd1a997d1bcf
 
 
-2. Taikant šio įstatymo [[#2 straipsnis. 45 straipsnio 3 dalies pakeitimas|2 straipsnio]] nuostatą, atsižvelgiama ir į iki šio įstatymo įsigaliojimo prasidėjusius finansinius metus, dėl kurių audito yra sudaryta finansinių ataskaitų audito sutartis. ^92dae824551d57bd5d703262
+2. Taikant šio įstatymo [[#^s-f76e0780670c4d07033fc8a5|2 straipsnio]] nuostatą, atsižvelgiama ir į iki šio įstatymo įsigaliojimo prasidėjusius finansinius metus, dėl kurių audito yra sudaryta finansinių ataskaitų audito sutartis. ^s-601c732008e535f9db047c7e
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1DEF7AF5F45C"
 pavadinimas: "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas"
+  - "asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-05-19"
 latest_path: "latest/TAR.1DEF7AF5F45C.md"
 latest_sha256: "f8820ce706438df697984453e8d76872e1209c4bb29bc347e38d11a56c0fc1fc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1DEF7AF5F45C]]"
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1DEF7AF5F45C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1DEF7AF5F45C
+- Ryšiai: [[Ryšiai/TAR.1DEF7AF5F45C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies 8 punkto papildymas k papunkčiu
+### 1 straipsnis. 7 straipsnio 1 dalies 8 punkto papildymas k papunkčiu ^s-308a7785f67d7fcc85898eea
 
 
 Papildyti 7 straipsnio 1 dalies 8 punktą k papunkčiu:

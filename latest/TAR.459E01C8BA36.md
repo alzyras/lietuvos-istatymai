@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.459E01C8BA36"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
+  - "vietos savivaldos įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-12-05"
 latest_path: "latest/TAR.459E01C8BA36.md"
 latest_sha256: "33ef0b0dac224378aaccb70961ac7be3068d8441682195202f2907d116d5173f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.459E01C8BA36]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.459E01C8BA36.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.459E01C8BA36
+- Ryšiai: [[Ryšiai/TAR.459E01C8BA36|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 6 dalies pakeitimas ^s-0c419efc8b91f7d578f5ca0d
 
 
 Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -43,63 +48,63 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 13 straipsnio 3 dalies 3 punkto ir 6, 7, 9, 10 dalių pakeitimas
+### 2 straipsnis. 13 straipsnio 3 dalies 3 punkto ir 6, 7, 9, 10 dalių pakeitimas ^s-3423276803eb58dcc74ddf10
 
 
-1. Pakeisti 13 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^91306a042c212f8dfddd961e
+1. Pakeisti 13 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip: ^s-656663b51706dd5d17fd33af
 
 
 „3) priimamas sprendimas dėl savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų, nes baigėsi jo įgaliojimų laikas, ir pavedimo savivaldybės administracijos direktoriui, savivaldybės administracijos direktoriaus pavaduotojui ar kitam savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas tol, kol bus paskirtas savivaldybės administracijos direktorius (direktoriaus pavaduotojas) naujai kadencijai;“.
 
 
-2. Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip: ^480f79b90fc192f3fa6b5a98
+2. Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip: ^s-c6ceeec1f36c1472f250e9e1
 
 
 „6. Savivaldybės tarybos posėdžio darbotvarkę sudaro meras. Ne vėliau kaip prieš 4 darbo dienas iki savivaldybės tarybos posėdžio svarstytinus klausimus kartu su įregistruotais sprendimų projektais meras privalo įtraukti į posėdžio darbotvarkę. Jei meras svarstytinų klausimų į posėdžio darbotvarkę neįtraukia, dėl jų įtraukimo į darbotvarkę sprendžia savivaldybės taryba reglamente nustatyta tvarka. Savivaldybės tarybos posėdžio darbotvarkė ne vėliau kaip prieš 3 darbo dienas iki savivaldybės tarybos posėdžio paskelbiama savivaldybės interneto tinklalapyje.“
 
 
-3. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^c35a57c42f6c0b4037a5f2f5
+3. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^s-0fcb9cbb8e1d270409934ac5
 
 
-„7. Savivaldybės tarybos posėdžio darbotvarkė gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ar 1/[[#^c35a57c42f6c0b4037a5f2f5|3 dalyvaujančių]] posėdyje tarybos narių siūlymu, jei dėl šių siūlymų sprendimų projektai įregistruoti ne vėliau kaip prieš 24 valandas iki posėdžio pradžios. Ši nuostata netaikoma siūlymams, susijusiems su norminio pobūdžio sprendimų projektų pateikimu. Ekstremaliųjų įvykių, atitinkančių Vyriausybės patvirtintus kriterijus, atvejais meras turi teisę pateikti savivaldybės tarybai svarstyti klausimą ir siūlyti priimti sprendimą skubos tvarka.“
+„7. Savivaldybės tarybos posėdžio darbotvarkė gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ar 1/[[#^s-0fcb9cbb8e1d270409934ac5|3 dalyvaujančių]] posėdyje tarybos narių siūlymu, jei dėl šių siūlymų sprendimų projektai įregistruoti ne vėliau kaip prieš 24 valandas iki posėdžio pradžios. Ši nuostata netaikoma siūlymams, susijusiems su norminio pobūdžio sprendimų projektų pateikimu. Ekstremaliųjų įvykių, atitinkančių Vyriausybės patvirtintus kriterijus, atvejais meras turi teisę pateikti savivaldybės tarybai svarstyti klausimą ir siūlyti priimti sprendimą skubos tvarka.“
 
 
-4. Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip: ^ed96fa8c274ff6b9bf884224
+4. Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip: ^s-83d85af3c2a7b8f4b8a74c1d
 
 
 „9. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia mero balsas. Jeigu meras posėdyje nedalyvauja, o balsai pasiskirsto po lygiai, laikoma, kad sprendimas nepriimtas. Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai renkamas meras, skiriamas mero pavaduotojas, savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojai, sprendžiamas nepasitikėjimo meru, mero pavaduotojais, savivaldybės administracijos direktoriumi, savivaldybės administracijos direktoriaus pavaduotojais klausimas. Slaptas balsavimas reglamente nustatyta tvarka galimas ir tais atvejais, kai skiriami Kontrolės komiteto pirmininkas, Kontrolės komiteto pirmininko pavaduotojas, Administracinės komisijos pirmininkas, Etikos komisijos pirmininkas, sprendžiamas nepasitikėjimo Kontrolės komiteto pirmininku, Kontrolės komiteto pirmininko pavaduotoju, Administracinės komisijos pirmininku, Etikos komisijos pirmininku klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai balsuojama slaptai, yra vieši. Kiekvieno tarybos nario balsavimo rezultatai turi būti saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto tinklalapyje.“
 
 
-5. Pakeisti 13 straipsnio 10 dalį ir ją išdėstyti taip: ^a2adb7c1d231f23fa2223ed3
+5. Pakeisti 13 straipsnio 10 dalį ir ją išdėstyti taip: ^s-2ab1489e042ebe8905e683c2
 
 
 „10. Tarybos narys privalo nusišalinti nedalyvaudamas balsavime, kai sprendžiami su juo ar jo šeimos nariais ir artimaisiais giminaičiais susiję turtiniai ar finansiniai klausimai arba kai jo dalyvavimas balsuojant galėtų sukelti viešųjų ir privačių interesų konfliktą.“
 
 
 
-### 3 straipsnis. 14 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi
+### 3 straipsnis. 14 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi ^s-ac37af9b8f12d6c4ad6d0950
 
 
-1. Pakeisti 14 straipsnio 7 dalį ir ją išdėstyti taip: ^43700a24513de2b48625e24c
+1. Pakeisti 14 straipsnio 7 dalį ir ją išdėstyti taip: ^s-f7a4f02d28ff1c22ccfff236
 
 
 „7. Komitetų posėdžių darbotvarkės ne vėliau kaip prieš 2 darbo dienas iki komiteto posėdžio pradžios paskelbiamos savivaldybės interneto tinklalapyje.“
 
 
-2. Papildyti 14 straipsnį 8 dalimi: ^e27ca58fea41ab6d9838dbf8
+2. Papildyti 14 straipsnį 8 dalimi: ^s-ce89594d87682eed0963e8f8
 
 
 „8. Komitetų posėdžių metu daromas garso įrašas. Komitetų posėdžių garso įrašai saugomi informacinėse laikmenose.“
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-bf095b75d86ad2ff633e4ad5
 
 
-1. Šio įstatymo [[#^480f79b90fc192f3fa6b5a98|2 straipsnio 2 dalis]] ir [[#3 straipsnis. 14 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi|3 straipsnis]] įsigalioja 2014 m. liepos 1 d. ^1047e9c004b64d355780cc12
+1. Šio įstatymo [[#^s-c6ceeec1f36c1472f250e9e1|2 straipsnio 2 dalis]] ir [[#^s-ac37af9b8f12d6c4ad6d0950|3 straipsnis]] įsigalioja 2014 m. liepos 1 d. ^s-9b399f903635335097e340f5
 
 
-2. Savivaldybių tarybos iki 2014 m. birželio 30 d. patvirtina šio įstatymo [[#^480f79b90fc192f3fa6b5a98|2 straipsnio 2 dalies]] ir [[#3 straipsnis. 14 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi|3 straipsnio]] nuostatų įgyvendinamuosius teisės aktus. ^b2ccac9f500fef9aea11faeb
+2. Savivaldybių tarybos iki 2014 m. birželio 30 d. patvirtina šio įstatymo [[#^s-c6ceeec1f36c1472f250e9e1|2 straipsnio 2 dalies]] ir [[#^s-ac37af9b8f12d6c4ad6d0950|3 straipsnio]] nuostatų įgyvendinamuosius teisės aktus. ^s-f35c730a373f0afcd800442d
 
 
 

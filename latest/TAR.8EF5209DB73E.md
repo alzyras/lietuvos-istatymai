@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8EF5209DB73E"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymo 1, 5 straipsnių ir 1, 2 priedėlių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymo 1, 5 straipsnių ir 1, 2 priedėlių pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymo 1, 5 straipsnių ir 1, 2 priedėlių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-27"
 latest_path: "latest/TAR.8EF5209DB73E.md"
 latest_sha256: "e27ff416ba3da9cd091ad30fc770532f0c27f4c185611df4d86d8f5acaa64d9a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8EF5209DB73E]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymo 1, 5 straipsnių ir 1, 2 priedėlių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8EF5209DB73E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8EF5209DB73E
+- Ryšiai: [[Ryšiai/TAR.8EF5209DB73E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-6352060fac96eb1484b9b20a
 
 
 1 straipsnyje vietoj skaičių „5250043“, „5227043“, „62000“ atitinkamai įrašyti skaičius „5286780“, „5263780“, „92000“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Patvirtinti Lietuvos Respublikos valstybinio socialinio draudimo fondo 2004 met�
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-36692de64892ca5ab70e0171
 
 
 5 straipsnyje vietoj skaičiaus „55000“ įrašyti skaičių „89450“ ir šį straipsnį išdėstyti taip:
@@ -57,7 +62,7 @@ Valstybinio socialinio draudimo įmokų, pervedamų į pensijų kaupiamuosius fo
 
 
 
-### 3 straipsnis. 1 priedėlio pakeitimas
+### 3 straipsnis. 1 priedėlio pakeitimas ^s-31f1ed5ab7d3f9270306d5f1
 
 
 Pakeisti 1 priedėlį ir jį išdėstyti taip:
@@ -66,7 +71,7 @@ Pakeisti 1 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2003 m. gruodžio 16 d.
-įstatymo Nr. IX-1902
+[[latest/TAR.CB4A936A2395|įstatymo Nr. IX-1902]]
 1 priedėlis
 
 (Lietuvos Respublikos 2004 m. liepos 15 d. įstatymo Nr. IX-2376 redakcija)
@@ -85,7 +90,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
 
 
 
- 1. Pajamos ^2978f90381eb7c70349167f3
+ 1. Pajamos ^s-dc251b507d054a26c5839f1f
  5 286 780
 
 
@@ -93,31 +98,31 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
 
 
 
- 1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos ^c60fec61d3de17a1b9a92373
+ 1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos ^s-1e9c32672d5a51dadf283abc
  4 661 196
 
 
- 1.2. Apdraustųjų privalomosios valstybinio socialinio draudimo įmokos ^da74341a7f8ff35090737621
+ 1.2. Apdraustųjų privalomosios valstybinio socialinio draudimo įmokos ^s-14047ff9a4be5cdaac220e0a
  447 111
 
 
- 1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^da912be0843bb877f6300013
+ 1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^s-68783f85c94239e81996b33f
  52 132
 
 
- 1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^c744cbc3a7726b4f36306b8f
+ 1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^s-1207aeeea83bd186208e5d00
  852
 
 
- 1.5. Baudos, delspinigiai ir kitos pajamos ^2d627b9e2f14e2614f3ef490
+ 1.5. Baudos, delspinigiai ir kitos pajamos ^s-d7b950f4b3a969bba686ae9e
  11 239
 
 
- 1.6. Asignavimai iš valstybės Rezervinio (stabilizavimo) fondo ^59dc568e7b4acc70f8ff7bcb
+ 1.6. Asignavimai iš valstybės Rezervinio (stabilizavimo) fondo ^s-c020dddae48b635ad4835f71
  89 450
 
 
- 1.7. Atgautos į ankstesnių metų išlaidas iškeltos ^391c69dc0a1fe4a3eee7cf4e
+ 1.7. Atgautos į ankstesnių metų išlaidas iškeltos ^s-3f97760b8fa786cfa533d303
 
 
 
@@ -125,7 +130,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
  17 800
 
 
- 1.8. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^c0ca0b9011fab5c6fc257f12
+ 1.8. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^s-203d182af4dd9ba363f3139f
  7 000
 
 
@@ -133,7 +138,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
 
 
 
- 2. Išlaidos ^db2b4068fc3b36cd1c8bd673
+ 2. Išlaidos ^s-81f301bad84a3b0f0f628d3a
  5 263 780
 
 
@@ -141,35 +146,35 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
 
 
 
- 2.1. Pensijų socialiniam draudimui ^73ba737b41a56b11bb68a228
+ 2.1. Pensijų socialiniam draudimui ^s-44c427876f423b335c50fbf5
  3 827 190
 
 
- 2.2. Ligos ir motinystės socialiniam draudimui ^74cb3659a0cea5a044eddc3f
+ 2.2. Ligos ir motinystės socialiniam draudimui ^s-69f6f48cb9d73b7cdfc4e770
  402 919
 
 
- 2.3. Draudimui nuo nedarbo ^087a056cd61a17cd583f9b2b
+ 2.3. Draudimui nuo nedarbo ^s-833705b09a2c04a18042a594
  212 251
 
 
- 2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^ecd06ac1e46fbc5526fcd33b
+ 2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^s-374756e375d61f5bd3e437d1
  24 143
 
 
- 2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^b0fbf0e9c95cd6df6a343313
+ 2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^s-099ba441c9f57d57c2c76c57
  424 954
 
 
- 2.6. Lėšos, pervedamos į pensijų fondus ^0759a4c6242dcb9731951588
+ 2.6. Lėšos, pervedamos į pensijų fondus ^s-473f178bf8fc6c28d9a0d8c9
  178 900
 
 
- 2.7. Neatgautinos ir abejotinai atgautinos sumos ^4c6d1b0b692eafe636129f42
+ 2.7. Neatgautinos ir abejotinai atgautinos sumos ^s-9fc53adb27ce2908dfce62ad
  20 533
 
 
- 2.8. Veiklos sąnaudos ^ca1c70183b69f399f5c51e79
+ 2.8. Veiklos sąnaudos ^s-47ce5c3b6c00ad8afa257934
  172 890
 
 
@@ -177,7 +182,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
 
 
 
- 3. Grynasis einamųjų metų rezultatas ^f0f83be525e5377ae128fde8
+ 3. Grynasis einamųjų metų rezultatas ^s-e3c56d6f63af4eb451bf1b3e
  23 000
 
 
@@ -185,14 +190,14 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 2004 METŲ BIUDŽETAS
 
 
 
- 4. Kasos apyvartos lėšos ^7a0297de2e72717c76fc59ce
+ 4. Kasos apyvartos lėšos ^s-7fd85d582dc77819b361671f
  92 000
 
 
 
 
 
-### 4 straipsnis. 2 priedėlio pakeitimas
+### 4 straipsnis. 2 priedėlio pakeitimas ^s-a0dd1167540aa3d791dbcd14
 
 
 Pakeisti 2 priedėlį ir jį išdėstyti taip:
@@ -200,7 +205,7 @@ Pakeisti 2 priedėlį ir jį išdėstyti taip:
 
 
 2003 m. gruodžio 16 d.
-įstatymo Nr. IX-1902
+[[latest/TAR.CB4A936A2395|įstatymo Nr. IX-1902]]
 2 priedėlis
 
 (Lietuvos Respublikos 2004 m. liepos 15 d. įstatymo Nr. IX-2376 redakcija)
@@ -221,102 +226,102 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ 
 
 
 
- 1. Įprastinė veikla ^ead1616c620fd88cf3f81275
+ 1. Įprastinė veikla ^s-afb52cb0bf10fa943e04c965
  20 120
 
 
 
- 1.1. Grynųjų pinigų srautai iš įprastinės veiklos ^e931681660f55124072cdf4c
+ 1.1. Grynųjų pinigų srautai iš įprastinės veiklos ^s-f81bf6efd772daa929a169ba
  20 120
 
 
 
- 1.1.1. Pinigų įplaukos ^10e61a9819b24dd49bff0543
+ 1.1.1. Pinigų įplaukos ^s-9d6207703c33e2df856e5e93
  5 203 087
 
 
 
- 1.1.1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos: ^623a0ab66a81d554b5bc600c
+ 1.1.1.1. Draudėjų privalomosios valstybinio socialinio draudimo įmokos: ^s-a6dbb5535d29b015621bf6e1
  4 605 958
 
 
 
- 1.1.1.1.1. pensijų socialiniam draudimui ^0ccd674532ad6064aa6d1949
+ 1.1.1.1.1. pensijų socialiniam draudimui ^s-27fc353ff20b7a277f0907e4
  3 472 510
 
 
 
- 1.1.1.1.2. ligos ir motinystės socialiniam draudimui ^4ddb388763daebdf7c791d39
+ 1.1.1.1.2. ligos ir motinystės socialiniam draudimui ^s-cf7d1b5a2cc49424f8c5d8f2
  396 254
 
 
 
- 1.1.1.1.3. draudimui nuo nedarbo ^a6b64602fe8aac6b44af4e41
+ 1.1.1.1.3. draudimui nuo nedarbo ^s-8b78078712df8bf1f01fe45e
  212 251
 
 
 
- 1.1.1.1.4. nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^b067c60bd985b3c2f523efba
+ 1.1.1.1.4. nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^s-8bd835e94d388cf84798e629
  42 429
 
 
 
- 1.1.1.1.5. sveikatos draudimui ^d07004141c879d76865b2ae4
+ 1.1.1.1.5. sveikatos draudimui ^s-c80f8fbafcd2929071b6ea8a
  424 502
 
 
 
- 1.1.1.1.6. baziniam pensiniam draudimui valstybės lėšomis ^7b0e10fd1babd864bab909ff
+ 1.1.1.1.6. baziniam pensiniam draudimui valstybės lėšomis ^s-0e2bc408ca8e4ff63d0be4f6
  58 012
 
 
 
- 1.1.1.2. apdraustųjų privalomosios valstybinio socialinio draudimo įmokos: ^65341985201bc9ee0c3c5ac6
+ 1.1.1.2. apdraustųjų privalomosios valstybinio socialinio draudimo įmokos: ^s-b6e603b4610a1fd42ea5bd9e
  441 473
 
 
 
- 1.1.1.2.1. pensijų socialiniam draudimui ^4a98783918219487aa54503a
+ 1.1.1.2.1. pensijų socialiniam draudimui ^s-1097eb3f79fcfdb7ef1c5c5b
  370 794
 
 
 
- 1.1.1.2.2. ligos ir motinystės socialiniam draudimui ^24c4270dc15de8fb20f20390
+ 1.1.1.2.2. ligos ir motinystės socialiniam draudimui ^s-c847cbed2c1d7136417c9762
  70 679
 
 
 
- 1.1.1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^ea1c0d74f29d218f04be29dd
+ 1.1.1.3. Savarankiškai dirbančių asmenų privalomosios valstybinio socialinio draudimo įmokos ^s-1e73fc7acd47d91f70e9d390
  51 610
 
 
 
- 1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^7c874b11d7fcb4a374c0b851
+ 1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos ^s-0b5073b50645271744186a04
  852
 
 
 
- 1.1.1.5. Baudos, delspinigiai ir kitos pajamos ^aa797c3214ed560114518d0f
+ 1.1.1.5. Baudos, delspinigiai ir kitos pajamos ^s-3e8d3f9905547f67f1bb11c5
  6 744
 
 
 
- 1.1.1.5.1. valstybinis socialinis draudimas ^f3ea89e0e5c9264ac7649048
+ 1.1.1.5.1. valstybinis socialinis draudimas ^s-4ce345a3f820fbb1a4160bb0
  6 292
 
 
 
- 1.1.1.5.2. privalomasis sveikatos draudimas ^396a88e5c3b75b42bd99a948
+ 1.1.1.5.2. privalomasis sveikatos draudimas ^s-62b539e773c7a6005bf50497
  452
 
 
 
- 1.1.1.6. Asignavimai iš valstybės Rezervinio (stabilizavimo) fondo ^aa682b45258d761e8a4cec81
+ 1.1.1.6. Asignavimai iš valstybės Rezervinio (stabilizavimo) fondo ^s-c6fc198c7974a922147724b7
  89 450
 
 
 
- 1.1.1.7. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^1b5ee0925a82db333e3bd4ce
+ 1.1.1.7. Veiklos pajamos ir iš turimo kapitalo gaunamos pajamos ^s-521bce786c523b4750d2094c
  7 000
 
 
@@ -326,57 +331,57 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ 
 
 
 
- 1.1.2. Pinigų išlaidos ^83013914b7ee4c980ed18a29
+ 1.1.2. Pinigų išlaidos ^s-ea234963f199b8646201c568
  5 182 967
 
 
 
- 1.1.2.1. Pensijų socialiniam draudimui ^ad66038a3b69e7f7a05d6e99
+ 1.1.2.1. Pensijų socialiniam draudimui ^s-d3b712deb5eb10410952a24a
  3 825 880
 
 
 
- 1.1.2.2. Ligos ir motinystės socialiniam draudimui ^0f0ae8659ba0672e5d7fdc65
+ 1.1.2.2. Ligos ir motinystės socialiniam draudimui ^s-653307a33d34bf4bf513a8f1
  402 919
 
 
 
- 1.1.2.3. Draudimui nuo nedarbo ^f7f71a95f6d38d666b658314
+ 1.1.2.3. Draudimui nuo nedarbo ^s-dc526e022195e7c55957f1ba
  212 251
 
 
 
- 1.1.2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^d8c01a38fd21be0d271ae8d4
+ 1.1.2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui ^s-15ae57e3a908ebde2198c410
  24 143
 
 
 
- 1.1.2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^38c2deb90440cfc6c69098bd
+ 1.1.2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą ^s-e0c3aafacd85e2f0db86aac7
  424 954
 
 
 
- 1.1.2.6. Lėšos, pervedamos į kaupiamuosius pensijų fondus ^91561316d4bc262292a07465
+ 1.1.2.6. Lėšos, pervedamos į kaupiamuosius pensijų fondus ^s-9e8b70dd3f2f15d15ac97501
  138 090
 
 
 
- 1.1.2.7. Veiklos sąnaudos ^9f90d09c500fbb60500e819c
+ 1.1.2.7. Veiklos sąnaudos ^s-5c2a82f970e7c5796c884083
  154 730
 
 
 
- 1.2. Grynųjų pinigų srautai iš kitos VSDF pavestos veiklos ^4eb6694867b1420cfbbf82e4
+ 1.2. Grynųjų pinigų srautai iš kitos VSDF pavestos veiklos ^s-957429b141aadc93fa72eccd
  0
 
 
 
- 1.2.1. Pinigų įplaukos ^9531468c1ffa7d1826e5700d
+ 1.2.1. Pinigų įplaukos ^s-f124aae81688e34978b33119
  216 675
 
 
 
- 1.2.2. Pinigų išlaidos ^5009b0ef86f71ba2b1d0d6e9
+ 1.2.2. Pinigų išlaidos ^s-4f7770552f5f64d47543b1c2
  216 675
 
 
@@ -386,32 +391,32 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ 
 
 
 
- 2. Investicinė veikla ^6b0f1de89e69e7f8b86564fd
+ 2. Investicinė veikla ^s-5a26f1b249c66e8c92381e49
  20 120
 
 
 
- 2.1. Išlaidos nematerialiajam turtui įsigyti ^055ea078d47de958b30d20d0
+ 2.1. Išlaidos nematerialiajam turtui įsigyti ^s-678ae822ddbab1e40a5e5e5f
  4 710
 
 
 
- 2.2. Įplaukos, gautos pardavus nematerialųjį turtą ^11fb071fd706424122d33ab6
+ 2.2. Įplaukos, gautos pardavus nematerialųjį turtą ^s-50d6d6d635ce0a1c5b7b3268
  0
 
 
 
- 2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti ^05b289686233dcfdefb0dbd0
+ 2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti ^s-b5b2f9cc7d58e0d4bda4a3ff
  16 210
 
 
 
- 2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą ^cc4cdaffd73675bb8a5e03be
+ 2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą ^s-f308ad86ae443b4cfb62958f
  800
 
 
 
- 2.5. Išlaidos akcijoms, obligacijoms, kitiems ^c80efd6a3e1503630e01a325
+ 2.5. Išlaidos akcijoms, obligacijoms, kitiems ^s-34540c54f082909891c9d819
 
 
 
@@ -421,7 +426,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ 
 
 
 
- 2.6. Įplaukos, gautos pardavus akcijas, obligacijas, kitus vertybinius popierius ^acacc6a6ce3ba85441eb39fb
+ 2.6. Įplaukos, gautos pardavus akcijas, obligacijas, kitus vertybinius popierius ^s-fcd38e12541b6106d0d99bd8
  0
 
 
@@ -431,32 +436,22 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ 
 
 
 
- 3. Finansinė veikla ^a5eb2fc7889fed136fd2a611
+ 3. Finansinė veikla ^s-b4016009c5fc2b89ac066a48
  0
 
 
 
- 3.1. Trumpalaikių paskolų pokytis ^c7555c034ef4493c68ce0ccb
+ 3.1. Trumpalaikių paskolų pokytis ^s-c0852a82652780562a340243
  0
 
 
 
- 3.2. Ilgalaikių paskolų pokytis ^0a6490e6a7fa77effec0ad98
+ 3.2. Ilgalaikių paskolų pokytis ^s-fd8a1a07dc3c555eaf2f2499
  0
 
 
 
- 3.3. Mokėjimai lizingu ^431a99e157f61e70ca9e5907
- 0
-
-
-
-
-
-
-
-
- 4. Grynųjų pinigų ir jų ekvivalentų pokytis ^462e396c40b069b0ffdf7bd2
+ 3.3. Mokėjimai lizingu ^s-1767da3360deb83e76eed13c
  0
 
 
@@ -466,26 +461,36 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ 
 
 
 
- 5. Grynųjų pinigų ir jų ekvivalentų cirkuliacija ^30938707f2f7e05dfd3b4648
+ 4. Grynųjų pinigų ir jų ekvivalentų pokytis ^s-f9c5fc607c64f2ea1496c19c
+ 0
 
 
 
 
- 5.1. Metų pradžioje ^b4bc7ed68fb95904116f5434
+
+
+
+
+ 5. Grynųjų pinigų ir jų ekvivalentų cirkuliacija ^s-adb07049a68c35a74ccb3a41
+
+
+
+
+ 5.1. Metų pradžioje ^s-98ad623ee3ad23575b095ffb
  157 500
 
 
 
- 5.2. Pokytis ^7c69a5d0e36cd0df778f8b06
+ 5.2. Pokytis ^s-289db8b951dd7b3cdabfc2b6
  0
 
 
 
- 5.3. Metų pabaigoje ^6b2d2fdfa2a0a77decd14944
+ 5.3. Metų pabaigoje ^s-1e039b8a0f340d2d82dd5edd
  157 500
 
 
- 5.3.1. Pensijų kaupimo sąskaitoje ^87614a67680226a67586db6b
+ 5.3.1. Pensijų kaupimo sąskaitoje ^s-ad383f336933b2b8b60d00cc
  30 000
 
 

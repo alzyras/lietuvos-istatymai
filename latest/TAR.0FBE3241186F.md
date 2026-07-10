@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0FBE3241186F"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 22, 22(1), 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 22, 22(1), 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teismų įstatymo 22, 22(1), 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-06-26"
 latest_path: "latest/TAR.0FBE3241186F.md"
 latest_sha256: "3a8da3f0fe92501cbfd1972ecd234e58f9fc7288ed4a133e758b8ffdd6c0f509"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0FBE3241186F]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 22, 22(1), 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0FBE3241186F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0FBE3241186F
+- Ryšiai: [[Ryšiai/TAR.0FBE3241186F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio pakeitimas
+### 1 straipsnis. 22 straipsnio pakeitimas ^s-574adfdadf75b3681a0e01d1
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -47,7 +52,7 @@ Apylinkės teismo teisėju taip pat gali būti skiriamas ne jaunesnis kaip 23 me
 
 
 
-### 2 straipsnis. Papildymas 221 straipsniu
+### 2 straipsnis. Papildymas 221 straipsniu ^s-afaca0b0617a4a977a4489c6
 
 
 Papildyti Teismų įstatymą 221 straipsniu:
@@ -78,7 +83,7 @@ Kandidatas į apylinkės teismo teisėjus gauna 70 procentų apylinkės teismo t
 
 
 
-### 3 straipsnis. 33 straipsnio papildymas penktąja ir šeštąja dalimis
+### 3 straipsnis. 33 straipsnio papildymas penktąja ir šeštąja dalimis ^s-f1e7b8e7d53f7e352a7b4366
 
 
 Papildyti 33 straipsnį penktąja ir šeštąja dalimis:
@@ -91,7 +96,7 @@ Apygardų teismų pirmininkai ir skyrių pirmininkai skiriami 7 metams.“
 
 
 
-### 4 straipsnis. 34 straipsnio papildymas ketvirtąja dalimi
+### 4 straipsnis. 34 straipsnio papildymas ketvirtąja dalimi ^s-290c60e834aa7c654d21688c
 
 
 Papildyti 34 straipsnį ketvirtąja dalimi:
@@ -101,7 +106,7 @@ Papildyti 34 straipsnį ketvirtąja dalimi:
 
 
 
-### 5 straipsnis. 35 straipsnio ketvirtosios dalies pakeitimas
+### 5 straipsnis. 35 straipsnio ketvirtosios dalies pakeitimas ^s-649a4abc2303ced676994111
 
 
 Pakeisti 35 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
@@ -111,7 +116,7 @@ Pakeisti 35 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 56 straipsnio papildymas devintąja dalimi
+### 6 straipsnis. 56 straipsnio papildymas devintąja dalimi ^s-f5a97b6dd350a04373a1306e
 
 
 Papildyti 56 straipsnį devintąja dalimi:
@@ -121,7 +126,7 @@ Papildyti 56 straipsnį devintąja dalimi:
 
 
 
-### 7 straipsnis. 59 straipsnio papildymas antrąja dalimi
+### 7 straipsnis. 59 straipsnio papildymas antrąja dalimi ^s-c742e57b2f0b387300170295
 
 
 Papildyti 59 straipsnį antrąja dalimi:
@@ -132,10 +137,10 @@ Antrąją ir trečiąją dalis atitinkamai laikyti trečiąją ir ketvirtąja da
 
 
 
-### 8 straipsnis.         Lietuvos Respublikos teismų įstatymo 22, 221, 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymo 1 ir 2 straipsnių įsigaliojimo tvarka
+### 8 straipsnis.         Lietuvos Respublikos teismų įstatymo 22, 221, 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymo 1 ir 2 straipsnių įsigaliojimo tvarka ^s-6175d2ede91ff990bb395c34
 
 
-Šio įstatymo 1 ir [[#2 straipsnis. Papildymas 221 straipsniu|2 straipsniai]] įsigalioja nuo 1996 m. rugsėjo 1 d.
+Šio įstatymo 1 ir [[#^s-afaca0b0617a4a977a4489c6|2 straipsniai]] įsigalioja nuo 1996 m. rugsėjo 1 d.
 
 
 Teisingumo ministerija iki 1996 m. rugsėjo 1 d. nustato kandidatų į apylinkės teismo teisėjus priėmimo bei praktikos atlikimo tvarką, taip pat jų įgaliojimus.

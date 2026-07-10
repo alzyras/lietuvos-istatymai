@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BF6FC42DF0B1"
 pavadinimas: "Lietuvos Respublikos Lietuvos banko įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos banko įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "Lietuvos banko įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-04-04"
 latest_path: "latest/TAR.BF6FC42DF0B1.md"
 latest_sha256: "ca4080b2caba78510123fc93626fe039f942ff2c45474362ad4fd8a39fd537f3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BF6FC42DF0B1]]"
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BF6FC42DF0B1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BF6FC42DF0B1
+- Ryšiai: [[Ryšiai/TAR.BF6FC42DF0B1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies 18 punkto pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies 18 punkto pakeitimas ^s-e6c5eb8ae817fd31d8d8dffc
 
 
 Pakeisti 11 straipsnio 1 dalies 18 punktą ir jį išdėstyti taip:

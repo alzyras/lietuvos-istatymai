@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.434B4B7F7839"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 3, 15-1, 22, 23, 36, 56 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 3, 15-1, 22, 23, 36, 56 straipsnių pakeitimo ir papildymo įstatymas"
+  - "notariato įstatymo 3, 15-1, 22, 23, 36, 56 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-06"
 latest_path: "latest/TAR.434B4B7F7839.md"
 latest_sha256: "3b8c72ef2572b7e028666ed22c03240e17bae40116a7779e921f73724afb9321"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.434B4B7F7839]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 3, 15-1, 22, 23, 36, 56 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.434B4B7F7839.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.434B4B7F7839
+- Ryšiai: [[Ryšiai/TAR.434B4B7F7839|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,26 +40,26 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ir papildymas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ir papildymas ^s-fc1fc1e54dd4b08f3640a82c
 
 
-1. Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^cfa8453aa6a7956ed166eae4
+1. Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^s-34237e46756d3c0a47748318
 
 
 „1) yra Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės susitarimo dalyvės, ar Šveicarijos Konfederacijos pilietis;“.
 
 
-2. Papildyti 3 straipsnio 2 dalį nauju 2 punktu: ^58f56c0f7b25ee2216440964
+2. Papildyti 3 straipsnio 2 dalį nauju 2 punktu: ^s-3d9c84b0a709b1f6af2bd4d4
 
 
 „2) moka valstybinę kalbą;“.
 
 
-3. Buvusius 3 straipsnio 2 dalies 2, 3, 4, 5, 6, 7 punktus laikyti atitinkamai 3, 4, 5, 6, 7, 8 punktais. ^b22f72481ae0c671cecf30fc
+3. Buvusius 3 straipsnio 2 dalies 2, 3, 4, 5, 6, 7 punktus laikyti atitinkamai 3, 4, 5, 6, 7, 8 punktais. ^s-1783c1a98c7ea6a7123c63c2
 
 
 
-### 2 straipsnis. 151 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 151 straipsnio 4 dalies pakeitimas ^s-9f72b761d226f2827901e242
 
 
 151 straipsnio 4 dalyje vietoj žodžių „Lietuvos archyvų departamentu prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Lietuvos vyriausiuoju archyvaru“ ir šią dalį išdėstyti taip:
@@ -64,7 +69,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 22 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 22 straipsnio 3 dalies pakeitimas ^s-071a4a87f7daf7e30cdd7d0a
 
 
 22 straipsnio 3 dalyje vietoj skaičių ir žodžio „1, 2, 3, 4 ir 5“ įrašyti skaičius ir žodį „1, 2, 3, 4, 5 ir 6“ ir šią dalį išdėstyti taip:
@@ -74,23 +79,23 @@ Vilnius
 
 
 
-### 4 straipsnis. 23 straipsnio 1 dalies 2 ir 4 punktų pakeitimas
+### 4 straipsnis. 23 straipsnio 1 dalies 2 ir 4 punktų pakeitimas ^s-088f59874e3f29bc0067e065
 
 
-1. Pakeisti 23 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^72dc99a0b5a9a44a39808b93
+1. Pakeisti 23 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-cd5dc4efbc9d3c948a28bc15
 
 
 „2) notarui netekus Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės susitarimo dalyvės, ar Šveicarijos Konfederacijos pilietybės;“.
 
 
-2. 23 straipsnio 1 dalies 4 punkte vietoj skaičiaus „7“ įrašyti skaičių „8“ ir šį punktą išdėstyti taip: ^19cacb3580c92367f968eb3e
+2. 23 straipsnio 1 dalies 4 punkte vietoj skaičiaus „7“ įrašyti skaičių „8“ ir šį punktą išdėstyti taip: ^s-705eeb8ce2d023efac493927
 
 
 „4) kai jis neatitinka šio įstatymo 3 straipsnio antrosios dalies 8 punkto reikalavimų;“.
 
 
 
-### 5 straipsnis. 36 straipsnio 6 dalies pakeitimas
+### 5 straipsnis. 36 straipsnio 6 dalies pakeitimas ^s-83ca258d4ab162574422414c
 
 
 Pakeisti 36 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -100,13 +105,13 @@ Pakeisti 36 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 56 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 56 straipsnio 3 dalies pakeitimas ^s-164da8d84ce8cacf0d94a474
 
 
 56 straipsnio 3 dalyje vietoj skaičių „1, 2, 4“ įrašyti skaičius ir žodį „1, 2, 3 ir 5“ ir šią dalį išdėstyti taip:
 
 
-„Kandidatu į notarus (asesoriumi) gali būti fizinis asmuo, atitinkantis šio įstatymo [[#3 straipsnis. 22 straipsnio 3 dalies pakeitimas|3 straipsnio]] antrosios dalies 1, 2, 3 ir 5 punktų reikalavimus ir laimėjęs kandidatų į notarus (asesorių) viešą konkursą Lietuvos Respublikos teisingumo ministro nustatyta tvarka.“
+„Kandidatu į notarus (asesoriumi) gali būti fizinis asmuo, atitinkantis šio įstatymo [[#^s-071a4a87f7daf7e30cdd7d0a|3 straipsnio]] antrosios dalies 1, 2, 3 ir 5 punktų reikalavimus ir laimėjęs kandidatų į notarus (asesorių) viešą konkursą Lietuvos Respublikos teisingumo ministro nustatyta tvarka.“
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.060B6AACDC97"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 3 ir 24 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 3 ir 24 straipsnių pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 3 ir 24 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-18"
 latest_path: "latest/TAR.060B6AACDC97.md"
 latest_sha256: "ac05e4630716c822e27e79d4748204744b6ee14f9bba442317f6c912c30d868a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.060B6AACDC97]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 3 ir 24 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.060B6AACDC97.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.060B6AACDC97
+- Ryšiai: [[Ryšiai/TAR.060B6AACDC97|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 8 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 8 punkto pakeitimas ^s-00ad4d6ce248e60db3b81301
 
 
 Pakeisti 3 straipsnio 8 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 3 straipsnio 8 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 24 straipsnio pakeitimas
+### 2 straipsnis. 24 straipsnio pakeitimas ^s-c63131bd2736b194c81d3dc3
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
@@ -50,10 +55,10 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 „24 straipsnis. Slauga
 
 
-1. Slauga yra asmens sveikatos priežiūros dalis, apimanti sveikatos ugdymą, stiprinimą ir išsaugojimą, ligų ir rizikos veiksnių profilaktiką, sveikų ir sergančių asmenų fizinę, psichinę ir socialinę priežiūrą. ^72b164f405886a99ab03b349
+1. Slauga yra asmens sveikatos priežiūros dalis, apimanti sveikatos ugdymą, stiprinimą ir išsaugojimą, ligų ir rizikos veiksnių profilaktiką, sveikų ir sergančių asmenų fizinę, psichinę ir socialinę priežiūrą. ^s-5a899d20d6a41d466d286906
 
 
-2. Slaugos paslaugos asmenims yra teikiamos sveikatos priežiūros, socialinės globos, kitose įstaigose (įmonėse) bei namuose, kur jie gyvena.“ ^ca83304f36c575a5601f0ce7
+2. Slaugos paslaugos asmenims yra teikiamos sveikatos priežiūros, socialinės globos, kitose įstaigose (įmonėse) bei namuose, kur jie gyvena.“ ^s-d9a516dce8b030ca7a35703b
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C902C2735AB"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 19, 20, 21 ir 24 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 19, 20, 21 ir 24 straipsnių pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 19, 20, 21 ir 24 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.8C902C2735AB.md"
 latest_sha256: "78d09cfa324679f0429091fa48b9fb2f734c563d8fdb2509fd48b236addeeeb2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C902C2735AB]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 19, 20, 21 ir 24 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C902C2735AB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C902C2735AB
+- Ryšiai: [[Ryšiai/TAR.8C902C2735AB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 19 straipsnio 1 dalies 1 punkto pakeitimas ^s-f23a1206d54544fd91e186f9
 
 
 19 straipsnio 1 dalies 1 punkte vietoj žodžio „žemės“ įrašyti žodžius „nekilnojamojo turto“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 20 straipsnio 12 dalies pakeitimas
+### 2 straipsnis. 20 straipsnio 12 dalies pakeitimas ^s-7a37947d2a3dbc27721dc742
 
 
 20 straipsnio 12 dalyje vietoj žodžių „priima sprendimą dėl valstybinio žemės kadastro duomenų pakeitimo, papildymo, pripažinimo“ įrašyti žodžius „pateikia Nekilnojamojo turto kadastro tvarkytojui dokumentus ir duomenis žemės sklypų duomenims nekilnojamojo turto kadastre pakeisti, papildyti, pripažinti“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 21 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 21 straipsnio 2 dalies pakeitimas ^s-ee9d6fd80eb51a9cbe1606a4
 
 
 21 straipsnio 2 dalyje vietoj žodžių „žemės kadastro“ įrašyti žodžius „Nekilnojamojo turto kadastro ir registro“ ir šią dalį išdėstyti taip:
@@ -61,7 +66,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 24 straipsnio 3 dalies pakeitimas
+### 4 straipsnis. 24 straipsnio 3 dalies pakeitimas ^s-fd70683226e3565b9a7f4bb6
 
 
 24 straipsnio 3 dalyje vietoj žodžio „žemės“ įrašyti žodžius „Nekilnojamojo turto“ ir šią dalį išdėstyti taip:
@@ -71,7 +76,7 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-57b816fa8c80f1c8783e8075
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

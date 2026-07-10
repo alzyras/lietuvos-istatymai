@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4EB0135B18F4"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 42 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 42 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 42 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.4EB0135B18F4.md"
 latest_sha256: "2a9a6a096233b8197916e43bde8b6d0e45e1945089a116d56c66dc666690f270"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4EB0135B18F4]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 42 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4EB0135B18F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4EB0135B18F4
+- Ryšiai: [[Ryšiai/TAR.4EB0135B18F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,19 +37,19 @@ Vilnius
 
 
 
-### 1 straipsnis. 42 straipsnio 3 ir 7 dalių pakeitimas
+### 1 straipsnis. 42 straipsnio 3 ir 7 dalių pakeitimas ^s-ec7a99a269db35a6b390ecb5
 
 
-1. 42 straipsnio 3 dalyje vietoj žodžių „Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „socialinės apsaugos ir darbo ministro“ ir šią dalį išdėstyti taip: ^9833f9cdc03fb28685e14d9b
+1. 42 straipsnio 3 dalyje vietoj žodžių „Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „socialinės apsaugos ir darbo ministro“ ir šią dalį išdėstyti taip: ^s-423608c17df766f66313a589
 
 
 „Valdyba yra išlaikoma iš Valstybinio socialinio draudimo fondo lėšų ir veikia pagal šį įstatymą ir socialinės apsaugos ir darbo ministro tvirtinamus Valstybinio socialinio draudimo fondo įstaigų nuostatus.“
 
 
-2. Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip: ^c2a2a3506c06e46d934b98fa
+2. Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip: ^s-6db127c623929ded35dc85ec
 
 
-„Valdybai vadovauja direktorius, kurį, įvertinęs Valstybinio socialinio draudimo fondo tarybos rekomendacijas, skiria į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras Valstybės tarnybos įstatymo nustatyta tvarka. Valstybinio socialinio draudimo fondo valdybos direktorius yra tiesiogiai atskaitingas socialinės apsaugos ir darbo ministrui.“
+„Valdybai vadovauja direktorius, kurį, įvertinęs Valstybinio socialinio draudimo fondo tarybos rekomendacijas, skiria į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. Valstybinio socialinio draudimo fondo valdybos direktorius yra tiesiogiai atskaitingas socialinės apsaugos ir darbo ministrui.“
 
 
 

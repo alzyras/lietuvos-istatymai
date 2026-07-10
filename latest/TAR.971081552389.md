@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.971081552389"
 pavadinimas: "Lietuvos Respublikos gyventojų indėlių bankrutuojančiuose bankuose dalinio kompensavimo laikinojo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų indėlių bankrutuojančiuose bankuose dalinio kompensavimo laikinojo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "gyventojų indėlių bankrutuojančiuose bankuose dalinio kompensavimo laikinojo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-03-05"
 latest_path: "latest/TAR.971081552389.md"
 latest_sha256: "809cb3e00a2f60ace4bfb68379c02426f49962d7a6392d55bfb3f59fb0777470"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.971081552389]]"
 ---
 # Lietuvos Respublikos gyventojų indėlių bankrutuojančiuose bankuose dalinio kompensavimo laikinojo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.971081552389.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.971081552389
+- Ryšiai: [[Ryšiai/TAR.971081552389|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-455543fd41fb02a518176cde
 
 
 Pakeisti įstatymo 3 straipsnį ir jį išdėstyti taip:

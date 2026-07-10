@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0FFB49601ED5"
 pavadinimas: "Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas"
+  - "Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-28"
 latest_path: "latest/TAR.0FFB49601ED5.md"
 latest_sha256: "9bdd87f5316f1bc12998de4355185c8de40a659bc0025570a4fe40c440a059c3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0FFB49601ED5]]"
 ---
 # Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0FFB49601ED5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0FFB49601ED5
+- Ryšiai: [[Ryšiai/TAR.0FFB49601ED5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 27 straipsnio pakeitimas
+### 1 straipsnis. 27 straipsnio pakeitimas ^s-c995249ddaf33470ca60762f
 
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
@@ -43,10 +48,10 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 „27 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d. ^4c1838124177052dd0a28ec2
+1. Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d. ^s-41ef2e10ec83d2365d620a2a
 
 
-2. Šiuo įstatymu valstybės įmonei Šventosios valstybinio jūrų uosto direkcijai pavestas funkcijas vykdo valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija.“ ^1c90d07063318b47d20cd27d
+2. Šiuo įstatymu valstybės įmonei Šventosios valstybinio jūrų uosto direkcijai pavestas funkcijas vykdo valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija.“ ^s-1965bea4f43d4c15d01f2b7b
 
 
 

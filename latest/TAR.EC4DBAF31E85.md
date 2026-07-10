@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EC4DBAF31E85"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-01-05"
 latest_path: "latest/TAR.EC4DBAF31E85.md"
 latest_sha256: "e21f0e6c296ae38e55b719cb37e44f2c5a8696eddfc9326da8a2ab19094b0f64"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EC4DBAF31E85]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EC4DBAF31E85.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EC4DBAF31E85
+- Ryšiai: [[Ryšiai/TAR.EC4DBAF31E85|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

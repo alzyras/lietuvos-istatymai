@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.148C8F5F6004"
 pavadinimas: "Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas"
+  - "pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.148C8F5F6004.md"
 latest_sha256: "206b43c8f72f497ff8ba3ebd0561609d2502114c15c7b20b6707100f96e01e04"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.148C8F5F6004]]"
 ---
 # Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.148C8F5F6004.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.148C8F5F6004
+- Ryšiai: [[Ryšiai/TAR.148C8F5F6004|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,58 +38,58 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-dfb3d4d253770af7f60f80f2
 
 
-Pakeisti [[#^12173c515dfe7f9727109d9d|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
+Pakeisti [[#^s-f731cb86b06d0d4d71b635d5|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Pajūrio juostos ribas Teritorijų planavimo įstatymo nustatyta tvarka nustato ir keičia Lietuvos Respublikos Vyriausybė Aplinkos ministerijos teikimu. Pajūrio juostos ribų plano (schemos) projektą ir kitus pajūrio juostos riboms tvirtinti reikalingus dokumentus Aplinkos ministerijai pateikia Lietuvos Respublikos Vyriausybės įgaliota institucija, suderinusi juos su saugomų teritorijų direkcijomis, savivaldybėmis, kitomis suinteresuotomis institucijomis ir valstybinės žemės, patenkančios į pajūrio juostą, patikėtiniais.“
-
-
-
-### 2 straipsnis. 5 straipsnio pakeitimas ir papildymas
-
-
-Pakeisti ir papildyti [[#5 straipsnis. 8 straipsnio 1 dalies pakeitimas|5 straipsnį]] ir jį išdėstyti taip:
+„2. Pajūrio juostos ribas [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka nustato ir keičia Lietuvos Respublikos Vyriausybė Aplinkos ministerijos teikimu. Pajūrio juostos ribų plano (schemos) projektą ir kitus pajūrio juostos riboms tvirtinti reikalingus dokumentus Aplinkos ministerijai pateikia Lietuvos Respublikos Vyriausybės įgaliota institucija, suderinusi juos su saugomų teritorijų direkcijomis, savivaldybėmis, kitomis suinteresuotomis institucijomis ir valstybinės žemės, patenkančios į pajūrio juostą, patikėtiniais.“
 
 
 
-„[[#5 straipsnis. 8 straipsnio 1 dalies pakeitimas|5 straipsnis]]. Žemės valdymas ir naudojimas
+### 2 straipsnis. 5 straipsnio pakeitimas ir papildymas ^s-33a1cb5ee08c00c07d2a1a03
 
 
-1. Pajūrio juostai priskirta valstybinė žemė ir jūros akvatorija išimtine nuosavybės teise priklauso Lietuvos Respublikai. Pajūrio juostos žemė valdoma ir naudojama Žemės įstatymo nustatyta tvarka. ^9540bc6740fd7b27ec1d27f4
-
-
-2. Pajūrio juostoje privačios nuosavybės teise priklausantys žemės sklypai, suteikti iki šio Įstatymo įsigaliojimo, yra nedalomi dalimis parduodant, išnuomojant, atidalijant, įkeičiant, dovanojant. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis Civilinio kodekso, Žemės įstatymo nustatyta tvarka įsigyti žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio Įstatymo įsigaliojimo. ^856c50eedb382a14145d4788
-
-
-3. Žemės naudojimo režimą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat Teritorijų planavimo įstatymo nustatyta tvarka parengti ir patvirtinti šie teritorijų planavimo dokumentai: ^94cccde8e931e06ab569d68a
-
-
-1) Kuršių nerijos nacionalinio parko tvarkymo specialusis planas; ^414143d8b472dcc7468d060b
-
-
-2) Pajūrio regioninio parko tvarkymo planas; ^25e61a9f4540a5fde8673dc5
-
-
-3) Pajūrio juostos žemyninės dalies tvarkymo specialusis planas; šio plano rengimo organizatorė yra Lietuvos Respublikos Vyriausybės įgaliota institucija; ^f97cbbabb6263ba9eeedfc95
-
-
-4) Neringos savivaldybės, Klaipėdos miesto ir Klaipėdos rajono savivaldybių bendrieji planai; ^3e85aab3fe2e91cb57d265b9
-
-
-5) Kuršių nerijos nacionalinio parko gyvenamojoje zonoje esančių gyvenamųjų vietovių, Klaipėdos ir Palangos miestų bei Klaipėdos rajono detalieji planai; ^8605ef580137fcc8ba6d71a4
-
-
-6) specialieji infrastruktūros plėtros (komunikacinių koridorių, inžinerinių tinklų) planai, kai planuojamos valstybinės reikšmės ūkinės veiklos įgyvendinimas yra numatytas Lietuvos Respublikos Vyriausybės patvirtintuose valstybės strateginiuose planuose. ^df82cf81a3cf18fdf625df2c
-
-
-4. [[#^94cccde8e931e06ab569d68a|Šio straipsnio 3 dalies]] 1, 3 ir 6 punktuose nurodytus teritorijų planavimo dokumentus Teritorijų planavimo įstatymo nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, 2 punkte nurodytąjį – Lietuvos Respublikos Vyriausybės įgaliota institucija, šio straipsnio 4 ir 5 punktuose nurodytuosius – savivaldybių institucijos.“ ^4f3b79016712fac91793e8e6
+Pakeisti ir papildyti [[#^s-f48738b082dd430ba850af8e|5 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 6 straipsnio 4 dalies 3 punkto pakeitimas
+„[[#^s-f48738b082dd430ba850af8e|5 straipsnis]]. Žemės valdymas ir naudojimas
+
+
+1. Pajūrio juostai priskirta valstybinė žemė ir jūros akvatorija išimtine nuosavybės teise priklauso Lietuvos Respublikai. Pajūrio juostos žemė valdoma ir naudojama [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka. ^s-a0a8bcf63446c04673a54adb
+
+
+2. Pajūrio juostoje privačios nuosavybės teise priklausantys žemės sklypai, suteikti iki šio Įstatymo įsigaliojimo, yra nedalomi dalimis parduodant, išnuomojant, atidalijant, įkeičiant, dovanojant. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis Civilinio kodekso, [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka įsigyti žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio Įstatymo įsigaliojimo. ^s-5f563779a9368baaf194606b
+
+
+3. Žemės naudojimo režimą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka parengti ir patvirtinti šie teritorijų planavimo dokumentai: ^s-f02f765f0b2ac737b4d504c6
+
+
+1) Kuršių nerijos nacionalinio parko tvarkymo specialusis planas; ^s-29a30c4c60bbba9e516bcade
+
+
+2) Pajūrio regioninio parko tvarkymo planas; ^s-17e8147d03117c1e90544edc
+
+
+3) Pajūrio juostos žemyninės dalies tvarkymo specialusis planas; šio plano rengimo organizatorė yra Lietuvos Respublikos Vyriausybės įgaliota institucija; ^s-ad1848a784c1d5e90f989b8e
+
+
+4) Neringos savivaldybės, Klaipėdos miesto ir Klaipėdos rajono savivaldybių bendrieji planai; ^s-44c65e6248a6ea1dd8a7c07b
+
+
+5) Kuršių nerijos nacionalinio parko gyvenamojoje zonoje esančių gyvenamųjų vietovių, Klaipėdos ir Palangos miestų bei Klaipėdos rajono detalieji planai; ^s-16a1dbe430c2b420b4ffddad
+
+
+6) specialieji infrastruktūros plėtros (komunikacinių koridorių, inžinerinių tinklų) planai, kai planuojamos valstybinės reikšmės ūkinės veiklos įgyvendinimas yra numatytas Lietuvos Respublikos Vyriausybės patvirtintuose valstybės strateginiuose planuose. ^s-905653052cd027a5229e7d40
+
+
+4. [[#^s-f02f765f0b2ac737b4d504c6|Šio straipsnio 3 dalies]] 1, 3 ir 6 punktuose nurodytus teritorijų planavimo dokumentus [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, 2 punkte nurodytąjį – Lietuvos Respublikos Vyriausybės įgaliota institucija, šio straipsnio 4 ir 5 punktuose nurodytuosius – savivaldybių institucijos.“ ^s-a03833b53b22d7f73eb85b94
+
+
+
+### 3 straipsnis. 6 straipsnio 4 dalies 3 punkto pakeitimas ^s-8ba3b50699b3dfe12899a3c6
 
 
 Pakeisti 6 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
@@ -94,47 +99,47 @@ Pakeisti 6 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 7 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-8c06e10dc55f422ea3499b92
 
 
-1. Pakeisti 7 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^d5be6806a396ece2debd4fef
+1. Pakeisti 7 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^s-d12ea32aa5015a683c70e002
 
 
 „5) statomi ir rekonstruojami Nekilnojamojo turto registre įregistruoti pastatai, statiniai ir inžineriniai statiniai, jeigu yra sudaryta ilgalaikė jų užimamų žemės sklypų žemės nuomos sutartis arba valstybinė žemė yra valdoma patikėjimo teise;“.
 
 
-2. Pakeisti 7 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^12173c515dfe7f9727109d9d
+2. Pakeisti 7 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-f731cb86b06d0d4d71b635d5
 
 
 „6) vykdoma statinių, nurodytų šio Įstatymo 5 straipsnyje, statyba;“.
 
 
-3. Papildyti 7 straipsnio 1 dalį 7 punktu: ^49d092f8ff776bdf1cc9f46d
+3. Papildyti 7 straipsnio 1 dalį 7 punktu: ^s-f497558770e65518288c28eb
 
 
 „7) statomi nauji pastatai vietoj buvusių, skaidant ir mažinant stambių pastatų tūrius, keičiant jų paskirtį, nesukeliant naujų neigiamų pasekmių gyvenimo ir aplinkos kokybei.“
 
 
-4. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^7dc715f59ba5bb8aca53a47f
+4. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip: ^s-6c7650a3d5c4328ad085508f
 
 
-„2. Statybos leidimą dėl [[#^d5be6806a396ece2debd4fef|šio straipsnio 1 dalies]] 2, 3, 4, 5 ir 6 punktuose išvardytų statinių ir dėl statinių, kurių statyba numatyta šio Įstatymo 5 straipsnio 3 dalies 3 ir 4 punktuose nurodytų teritorijų planavimo dokumentų sprendiniuose, išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas). Statybos leidimą dėl visų naujų statinių išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.“
+„2. Statybos leidimą dėl [[#^s-d12ea32aa5015a683c70e002|šio straipsnio 1 dalies]] 2, 3, 4, 5 ir 6 punktuose išvardytų statinių ir dėl statinių, kurių statyba numatyta šio Įstatymo 5 straipsnio 3 dalies 3 ir 4 punktuose nurodytų teritorijų planavimo dokumentų sprendiniuose, išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas). Statybos leidimą dėl visų naujų statinių išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.“
 
 
-5. 7 straipsnio 3 dalies 2 punkte vietoj žodžių „apskrities viršininko administracijai“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės įgaliotai institucijai“ ir šį punktą išdėstyti taip: ^f21a6d2619cc1db26887b9bf
+5. 7 straipsnio 3 dalies 2 punkte vietoj žodžių „apskrities viršininko administracijai“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės įgaliotai institucijai“ ir šį punktą išdėstyti taip: ^s-10d316937578310d1d38f48f
 
 
 „2) savivaldybių institucija prašymą ir projektinius pasiūlymus apsvarsto viešai ir, surinkusi už atitinkamų veiklos sričių priežiūrą atsakingų valstybės institucijų (pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją) bei kitų suinteresuotų organizacijų pasiūlymus, juos apibendrina ir perduoda Lietuvos Respublikos Vyriausybės įgaliotai institucijai;“.
 
 
-6. 7 straipsnio 3 dalies 3 punkte vietoj žodžių „Klaipėdos apskrities viršininko administracija“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės įgaliota institucija“ ir šį punktą išdėstyti taip: ^d855bc2d612b9bd955191c7a
+6. 7 straipsnio 3 dalies 3 punkte vietoj žodžių „Klaipėdos apskrities viršininko administracija“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės įgaliota institucija“ ir šį punktą išdėstyti taip: ^s-36aeaf580960e64f6bf239c9
 
 
-„3) Lietuvos Respublikos Vyriausybės įgaliota institucija pagal gautus dokumentus (projektinius pasiūlymus, viešo svarstymo išvadas ir suinteresuotų institucijų ir organizacijų pasiūlymus) parengia išvadą, ar numatoma statyba ir veikla atitinka šio Įstatymo [[#5 straipsnis. 8 straipsnio 1 dalies pakeitimas|5 straipsnyje]] nurodytų teritorijų planavimo dokumentų sprendinius ir pajūrio juostos nustatymo tikslus. Parengtą išvadą ir su ja susijusius dokumentus Lietuvos Respublikos Vyriausybės įgaliota institucija pateikia Aplinkos ministerijai;“.
+„3) Lietuvos Respublikos Vyriausybės įgaliota institucija pagal gautus dokumentus (projektinius pasiūlymus, viešo svarstymo išvadas ir suinteresuotų institucijų ir organizacijų pasiūlymus) parengia išvadą, ar numatoma statyba ir veikla atitinka šio Įstatymo [[#^s-f48738b082dd430ba850af8e|5 straipsnyje]] nurodytų teritorijų planavimo dokumentų sprendinius ir pajūrio juostos nustatymo tikslus. Parengtą išvadą ir su ja susijusius dokumentus Lietuvos Respublikos Vyriausybės įgaliota institucija pateikia Aplinkos ministerijai;“.
 
 
 
-### 5 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-f48738b082dd430ba850af8e
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -144,10 +149,10 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-5ec7a1b193ef479040fbd18a
 
 
-Šis įstatymas, išskyrus [[#4 straipsnis. 7 straipsnio pakeitimas ir papildymas|4 straipsnį]], įsigalioja 2010 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-8c06e10dc55f422ea3499b92|4 straipsnį]], įsigalioja 2010 m. liepos 1 d.
 
 
 

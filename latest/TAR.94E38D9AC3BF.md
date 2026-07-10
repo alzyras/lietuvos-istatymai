@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.94E38D9AC3BF"
 pavadinimas: "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.94E38D9AC3BF.md"
 latest_sha256: "2a015e06461bbc23dae67dac6f658ebab1b20f1427f7c0a5c73281587ac0f53b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.94E38D9AC3BF]]"
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.94E38D9AC3BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.94E38D9AC3BF
+- Ryšiai: [[Ryšiai/TAR.94E38D9AC3BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio pakeitimas
+### 1 straipsnis. 11 straipsnio pakeitimas ^s-0480fb421b4f3985c7cf1c5f
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -49,14 +54,14 @@ Išėjusiems iš tarnybos pareigūnams ir kariams, kurie po pareigūnų ar kari�
 Šio straipsnio antrojoje dalyje nustatyta tvarka mokamos pensijos ir už ištarnautus metus bei invalidumo pensijos, paskirtos atitinkamiems pareigūnams ir kariams galiojusia iki 1995 m. sausio 1 d. tvarka, neatsižvelgiant į tai, ar buvo jos perskaičiuotos pagal šį įstatymą (16 straipsnio dešimtoji dalis), ar nebuvo perskaičiuotos (16 straipsnio antroji dalis), jeigu šių pensijų gavėjai po pensijų paskyrimo turi draudžiamųjų pajamų.
 
 
-Pareigūno ar kario valstybinės pensijos gavėjas privalo pranešti jam pensiją mokančiai institucijai apie turimas draudžiamąsias pajamas per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+Pareigūno ar kario valstybinės pensijos gavėjas privalo pranešti jam pensiją mokančiai institucijai apie turimas draudžiamąsias pajamas per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] ir kitų įstatymų nustatyta tvarka.
 
 
 Pensininkams, gaunantiems visišką valstybės išlaikymą, pareigūnų ir karių valstybinės pensijos nemokamos.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-1a7804bcb3f20a4add934971
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

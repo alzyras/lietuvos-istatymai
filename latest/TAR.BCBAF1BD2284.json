@@ -11,7 +11,7 @@
   "latest_revision": "2010-07-20",
   "latest_sha256": "16d0a4201ead983dfde8d303c2098e94ff49413de1744cab4f6963b47f4c7691",
   "metadata_path": "latest/TAR.BCBAF1BD2284.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

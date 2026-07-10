@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.438A78A26F38"
 pavadinimas: "Lietuvos Respublikos Prezidento įstatymas"
+aliases:
+  - "Lietuvos Respublikos Prezidento įstatymas"
+  - "Prezidento įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-02-21"
 latest_path: "latest/TAR.438A78A26F38.md"
 latest_sha256: "aba65ce001d8578aa057e6263d254897450e5908af9f174d8d4561f73366a304"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.438A78A26F38]]"
 ---
 # Lietuvos Respublikos Prezidento įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.438A78A26F38.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38
+- Ryšiai: [[Ryšiai/TAR.438A78A26F38|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -180,7 +185,7 @@ Respublikos Prezidentas savo rezidencijos, jį aptarnaujančių padalinių struk
 Respublikos Prezidento kanceliarijoje ir kituose padaliniuose sukaupta medžiaga yra Tautos ir Lietuvos valstybės istorijos ypatinga sudėtinė dalis bei nacionalinis turtas.
 
 
-Respublikos Prezidento kanceliarijoje, kituose padaliniuose sukaupta archyvinė medžiaga tvarkoma, saugoma pagal taisykles, kurias nustato Lietuvos Respublikos archyvų įstatymo specialiosios nuostatos. Už šios archyvinės medžiagos kaupimą, tvarkymą ir išsaugojimą asmeniškai atsako Respublikos Prezidento kanceliarijos vadovas.
+Respublikos Prezidento kanceliarijoje, kituose padaliniuose sukaupta archyvinė medžiaga tvarkoma, saugoma pagal taisykles, kurias nustato [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos archyvų įstatymo]] specialiosios nuostatos. Už šios archyvinės medžiagos kaupimą, tvarkymą ir išsaugojimą asmeniškai atsako Respublikos Prezidento kanceliarijos vadovas.
 
 
 

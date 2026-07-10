@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.796EF31709E9"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 2, 14, 16, 22 ir 44 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 2, 14, 16, 22 ir 44 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 2, 14, 16, 22 ir 44 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-12-12"
 latest_path: "latest/TAR.796EF31709E9.md"
 latest_sha256: "b6e4b74d3853102a57071ebbca2f69f003c109fc2207410dedf57ef725b08c5a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.796EF31709E9]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2, 14, 16, 22 ir 44 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.796EF31709E9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9
+- Ryšiai: [[Ryšiai/TAR.796EF31709E9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 10 dalies pakeitimas ^s-7c24c73fda0d6c5b9a4b43c4
 
 
 2 straipsnio 10 dalyje po žodžio „karjeros“ įrašyti žodžius „arba politinio (asmeninio) pasitikėjimo“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-f19ee9ccf1f080ba535217ea
 
 
 14 straipsnio 2 dalyje po žodžių „eiti karjeros“ įrašyti žodžius „arba politinio (asmeninio) pasitikėjimo“, po žodžių „eiti pareigų karjeros“ įrašyti žodžius „arba politinio (asmeninio) pasitikėjimo“, po žodžių „nurodytų pareigų“ išbraukti žodį „karjeros“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-cc90bb83020f8fa736564411
 
 
 16 straipsnio 2 dalies pirmajame sakinyje išbraukti žodžius „ar yra atstatydinamas“, prieš žodžius „atleidžiamas iš valstybės politiko“ įrašyti žodžius „prieš terminą“ ir šią dalį išdėstyti taip:
@@ -61,7 +66,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 22 straipsnio 7 dalies 1 punkto pakeitimas
+### 4 straipsnis. 22 straipsnio 7 dalies 1 punkto pakeitimas ^s-7e3b736066488d39bba37ebb
 
 
 22 straipsnio 7 dalies 1 punkte po žodžio „tarnautojui“ įrašyti žodžius „trečią arba“ ir šį punktą išdėstyti taip:
@@ -71,7 +76,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 44 straipsnio 1 dalies 6 punkto pakeitimas
+### 5 straipsnis. 44 straipsnio 1 dalies 6 punkto pakeitimas ^s-a2ba8df3df9a2dd02ede7b3c
 
 
 44 straipsnio 1 dalies 6 punkte po žodžių „eiti karjeros“ įrašyti žodžius „ar politinio (asmeninio) pasitikėjimo“ ir šį punktą išdėstyti taip:

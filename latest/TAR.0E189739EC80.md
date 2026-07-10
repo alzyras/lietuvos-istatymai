@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0E189739EC80"
 pavadinimas: "Lietuvos Respublikos šilumos ūkio įstatymo 20 ir 32 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos šilumos ūkio įstatymo 20 ir 32 straipsnių pakeitimo įstatymas"
+  - "šilumos ūkio įstatymo 20 ir 32 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-05"
 latest_path: "latest/TAR.0E189739EC80.md"
 latest_sha256: "0f8f3f471c34c3d2b6a8410c98f8656c75ad273a37bf0df514e8178c49b3937c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0E189739EC80]]"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 20 ir 32 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0E189739EC80.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0E189739EC80
+- Ryšiai: [[Ryšiai/TAR.0E189739EC80|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,23 +40,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 3 ir 6 dalių pakeitimas
+### 1 straipsnis. 20 straipsnio 3 ir 6 dalių pakeitimas ^s-cdbdcdb87ed14d2312c189fe
 
 
-1. Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip: ^6b0dc0a1b3fcf7c2e44bb01f
+1. Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip: ^s-b23afde95b5495bc3bd1165b
 
 
 „3. Daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija arba pastato bendrojo naudojimo objektų administratorius kontroliuoja pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) veiklą ir pasirengimą naujam šildymo sezonui pagal jiems priskirtą kompetenciją energetikos ministro tvirtinamose Šilumos tiekimo ir vartojimo taisyklėse. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) sudaro ir kartu su daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija arba pastato bendrojo naudojimo objektų administratoriumi pasirašo pastato parengties naujam šildymo sezonui aktą. Ginčus tarp šio proceso dalyvių sprendžia Valstybinė energetikos inspekcija prie Energetikos ministerijos.“
 
 
-2. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: ^f3f03c61cbae059c87eea771
+2. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: ^s-5906c87a728484a2a2615327
 
 
 „6. Pastato šildymo ir karšto vandens sistemų priežiūra atliekama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Daugiabučio namo šildymo ir karšto vandens sistemų periodinius patikrinimus dėl jų atitikties nustatytiems reikalavimams ne rečiau kaip kartą per ketverius metus atlieka Valstybinė energetikos inspekcija prie Energetikos ministerijos.“
 
 
 
-### 2 straipsnis. 32 straipsnio 5 dalies 4 punkto pakeitimas
+### 2 straipsnis. 32 straipsnio 5 dalies 4 punkto pakeitimas ^s-8665394267816d59b35b57f0
 
 
 Pakeisti 32 straipsnio 5 dalies 4 punktą ir jį išdėstyti taip:
@@ -61,10 +66,10 @@ Pakeisti 32 straipsnio 5 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-26533e528cbeebda6ae59582
 
 
-Šio įstatymo [[#^f3f03c61cbae059c87eea771|1 straipsnio 2 dalis]] įsigalioja 2013 m. liepos 1 d.
+Šio įstatymo [[#^s-5906c87a728484a2a2615327|1 straipsnio 2 dalis]] įsigalioja 2013 m. liepos 1 d.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9532385ABC11"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 5, 6, 7, 8, 9, 10, 30, 40, 44, 51, 56, 59, 60, 61, 62 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 5, 6, 7, 8, 9, 10, 30, 40, 44, 51, 56, 59, 60, 61, 62 straipsnių pakeitimo ir papildymo įstatymas"
+  - "administracinių bylų teisenos įstatymo 5, 6, 7, 8, 9, 10, 30, 40, 44, 51, 56, 59, 60, 61, 62 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-05-01"
 latest_path: "latest/TAR.9532385ABC11.md"
 latest_sha256: "20d0b3df7b8fba2fdd7bd88e22208c323b045dd9b327705682a8dc3804964408"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9532385ABC11]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 5, 6, 7, 8, 9, 10, 30, 40, 44, 51, 56, 59, 60, 61, 62 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9532385ABC11.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9532385ABC11
+- Ryšiai: [[Ryšiai/TAR.9532385ABC11|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,16 +36,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas
-Pakeisti [[#5 straipsnis. 9 straipsnio 2 dalies papildymas|5 straipsnio]] 2 ir [[#^8fa6df4032f3826f42349471|3 dalis]] ir jas išdėstyti taip:
+### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas ^s-bf844449c0a191e8bccbe1f2
+Pakeisti [[#^s-41015c70ee072e7dc9a78d29|5 straipsnio]] 2 ir [[#^s-0f4f7e4d680fd093b88af46b|3 dalis]] ir jas išdėstyti taip:
 
 
 „2. Administracinių teismų kompetencijai nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), Seimo kontrolierių veiklos, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos apeliacinio teismo teisėjų veiklos, kitų teismų teisėjų, taip pat prokurorų, tardytojų, kvotėjų ir teismo antstolių procesinių veiksmų, susijusių su teisingumo vykdymu ar bylos tyrimu.
-3. Bylas dėl administracinių teisės pažeidimų pirmąja instancija pagal Administracinių teisės pažeidimų kodeksą nagrinėja apylinkių teismai ir įgaliotos valstybės institucijos.“ ^8fa6df4032f3826f42349471
+3. Bylas dėl administracinių teisės pažeidimų pirmąja instancija pagal Administracinių teisės pažeidimų kodeksą nagrinėja apylinkių teismai ir įgaliotos valstybės institucijos.“ ^s-0f4f7e4d680fd093b88af46b
 
 
 
-### 2 straipsnis. 6 straipsnio 1 dalies 1 punkto papildymas
+### 2 straipsnis. 6 straipsnio 1 dalies 1 punkto papildymas ^s-daf39daaedde814655050916
 Papildyti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
@@ -48,7 +53,7 @@ Papildyti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas ^s-5b31c3188cda3c0fd1f26885
 Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
@@ -56,7 +61,7 @@ Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 8 straipsnio papildymas 3 dalimi
+### 4 straipsnis. 8 straipsnio papildymas 3 dalimi ^s-cfc8fed831a9f22073c4cc1c
 Papildyti 8 straipsnį 3 dalimi:
 
 
@@ -66,7 +71,7 @@ Papildyti 8 straipsnį 3 dalimi:
 
 
 
-### 5 straipsnis. 9 straipsnio 2 dalies papildymas
+### 5 straipsnis. 9 straipsnio 2 dalies papildymas ^s-41015c70ee072e7dc9a78d29
 Papildyti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
@@ -74,7 +79,7 @@ Papildyti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 6 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-970b224bc481d26eaf36f0f0
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
@@ -82,7 +87,7 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 30 straipsnio pakeitimas
+### 7 straipsnis. 30 straipsnio pakeitimas ^s-0042712b94b3959b8419e718
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 
@@ -91,7 +96,7 @@ Bendrosios kompetencijos ar specializuotas teismas turi teisę sustabdyti bylos 
 
 
 
-### 8 straipsnis. 40 straipsnio 3 dalies papildymas
+### 8 straipsnis. 40 straipsnio 3 dalies papildymas ^s-462309cd0f75766e08445f37
 Papildyti 40 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
@@ -99,15 +104,15 @@ Papildyti 40 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 44 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 44 straipsnio 1 dalies pakeitimas ^s-7e3f1fd392c2214e132c30cb
 Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Administraciniuose teismuose bylas, numatytas šio įstatymo [[#4 straipsnis. 8 straipsnio papildymas 3 dalimi|4 straipsnio]] 3, 5 ir 8 punktuose, išskyrus skundus dėl apylinkės teismo nutarimų administracinių teisės pažeidimų bylose, nagrinėja vienas teisėjas, o kitas bylas – trijų teisėjų kolegija. Sudėtingoms byloms nagrinėti gali būti sudaroma penkių teisėjų kolegija. Kolegijos sudėtį sudaro ir jos pirmininką skiria administracinio teismo pirmininkas arba Lietuvos apeliacinio teismo Administracinių bylų skyriaus pirmininkas.“
+„1. Administraciniuose teismuose bylas, numatytas šio įstatymo [[#^s-cfc8fed831a9f22073c4cc1c|4 straipsnio]] 3, 5 ir 8 punktuose, išskyrus skundus dėl apylinkės teismo nutarimų administracinių teisės pažeidimų bylose, nagrinėja vienas teisėjas, o kitas bylas – trijų teisėjų kolegija. Sudėtingoms byloms nagrinėti gali būti sudaroma penkių teisėjų kolegija. Kolegijos sudėtį sudaro ir jos pirmininką skiria administracinio teismo pirmininkas arba Lietuvos apeliacinio teismo Administracinių bylų skyriaus pirmininkas.“
 
 
 
-### 10 straipsnis. 51 straipsnio papildymas 2 dalimi
+### 10 straipsnis. 51 straipsnio papildymas 2 dalimi ^s-5fef8d0788eb5f37f1907c8d
 Papildyti 51 straipsnį 2 dalimi:
 
 
@@ -117,7 +122,7 @@ Papildyti 51 straipsnį 2 dalimi:
 
 
 
-### 11 straipsnis. 56 straipsnio 1 dalies papildymas
+### 11 straipsnis. 56 straipsnio 1 dalies papildymas ^s-282aa18436355812a6fdac5d
 56 straipsnio 1 dalyje po žodžio „tretiesiems“ įrašyti žodį „suinteresuotiems“ ir šią dalį išdėstyti taip:
 
 
@@ -125,7 +130,7 @@ Papildyti 51 straipsnį 2 dalimi:
 
 
 
-### 12 straipsnis. 59 straipsnio 4 dalies pakeitimas
+### 12 straipsnis. 59 straipsnio 4 dalies pakeitimas ^s-f6a042d082fee1e3025317e8
 Pakeisti 59 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
@@ -133,7 +138,7 @@ Pakeisti 59 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 13 straipsnis. 60 straipsnio 1 dalies pakeitimas
+### 13 straipsnis. 60 straipsnio 1 dalies pakeitimas ^s-b0fc6be491af23c4e26bb142
 Pakeisti 60 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
@@ -141,7 +146,7 @@ Pakeisti 60 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 14 straipsnis. 61 straipsnio pakeitimas
+### 14 straipsnis. 61 straipsnio pakeitimas ^s-8f6e2045f41df6617d61324b
 Pakeisti 61 straipsnį ir jį išdėstyti taip:
 
 
@@ -150,7 +155,7 @@ Apygardų administracinių teismų sprendimai ir nutartys apeliacine tvarka per 
 
 
 
-### 15 straipsnis. 62 straipsnio pakeitimas
+### 15 straipsnis. 62 straipsnio pakeitimas ^s-f71f842c06be33ca69c8fd52
 Pakeisti 62 straipsnį ir jį išdėstyti taip:
 
 
@@ -159,7 +164,7 @@ Aukštesniojo administracinio teismo sprendimai ir nutartys, priimti nagrinėjan
 
 
 
-### 16 straipsnis. Įstatymo įsigaliojimas
+### 16 straipsnis. Įstatymo įsigaliojimas ^s-96e432a748b7b6be6c370a55
 Šis įstatymas įsigalioja nuo 1999 m. gegužės 1 d.
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F709E3FB4FD1"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "draudimo įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-18"
 latest_path: "latest/TAR.F709E3FB4FD1.md"
 latest_sha256: "84b3565b0fe91c69e5c6e7fd6e4ae3b020fdacd10e173f7ed8c4338203b7e0dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F709E3FB4FD1]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F709E3FB4FD1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F709E3FB4FD1
+- Ryšiai: [[Ryšiai/TAR.F709E3FB4FD1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 2 dalies 5 punkto pakeitimas
+### 1 straipsnis. 21 straipsnio 2 dalies 5 punkto pakeitimas ^s-35575cd4eafa27c1b45cfa16
 
 
 21 straipsnio 2 dalies 5 punkte vietoj žodžių „metinėje veiklos ataskaitoje“ įrašyti žodžius „metiniame pranešime“ ir šį punktą išdėstyti taip:

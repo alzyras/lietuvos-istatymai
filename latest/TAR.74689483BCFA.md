@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.74689483BCFA"
 pavadinimas: "Lietuvos Respublikos Panevėžio miesto ir Panevėžio rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Panevėžio miesto ir Panevėžio rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas"
+  - "Panevėžio miesto ir Panevėžio rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-03-01"
 latest_path: "latest/TAR.74689483BCFA.md"
 latest_sha256: "1d0b32bc63b173682d0969f4606b32917ac61136a66cdc5757313034460b6cc7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.74689483BCFA]]"
 ---
 # Lietuvos Respublikos Panevėžio miesto ir Panevėžio rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.74689483BCFA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.74689483BCFA
+- Ryšiai: [[Ryšiai/TAR.74689483BCFA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

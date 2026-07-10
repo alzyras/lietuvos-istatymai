@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C58DFBFAC704"
 pavadinimas: "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo dalinio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo dalinio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-11-21"
 latest_path: "latest/TAR.C58DFBFAC704.md"
 latest_sha256: "8604e7773937648c6123511a52fe4370cbbf647cecfce76918fce61a94de45cb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C58DFBFAC704]]"
 ---
 # Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo dalinio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C58DFBFAC704.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C58DFBFAC704
+- Ryšiai: [[Ryšiai/TAR.C58DFBFAC704|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F090EC6E0BD4"
 pavadinimas: "Lietuvos Respublikos 1997 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1997 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas"
+  - "1997 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-10-30"
 latest_path: "latest/TAR.F090EC6E0BD4.md"
 latest_sha256: "f166d865aa2bf8b232475d17485f0352f49b6a603b37da10f6b256b2dbeb3797"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F090EC6E0BD4]]"
 ---
 # Lietuvos Respublikos 1997 metų valstybės ir savivaldybių biudžetų pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F090EC6E0BD4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F090EC6E0BD4
+- Ryšiai: [[Ryšiai/TAR.F090EC6E0BD4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,56 +34,56 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-db5ce4cb6322b8d46f0f8208
 1997 METŲ VALSTYBĖS IR SAVIVALDYBIŲ BIUDŽETŲ PAKEITIMAS
 
 
 
-### 1 straipsnis. Asignavimų sumažinimas
+### 1 straipsnis. Asignavimų sumažinimas ^s-390410d2d41ff2b76a477a24
 
 
 Sumažinti valstybės biudžeto asignavimus 243916 tūkst. litų pagal 1 priedėlį.
 
 
 
-### 2 straipsnis. Valstybės biudžeto pajamų padidinimas
+### 2 straipsnis. Valstybės biudžeto pajamų padidinimas ^s-5322fb2cb067819b06bff1bc
 
 
-1. Padidinti 1997 metų valstybės biudžeto pajamas papildomai gautomis pajamomis – 65000 tūkst. litų. ^1d30eaa9dcc3bc8be910136f
+1. Padidinti 1997 metų valstybės biudžeto pajamas papildomai gautomis pajamomis – 65000 tūkst. litų. ^s-bbd9ad028827b5bd2c9a0794
 
 
-2. Lietuvos valstybinio komercinio banko Vyriausybei grąžinamą paskolą, suteiktą pagal Lietuvos Respublikos Vyriausybės 1996 m. rugsėjo 12 d. nutarimą Nr. 1056 „Dėl paskolos Lietuvos valstybiniam komerciniam bankui suteikimo“ banko likvidumui palaikyti, įskaityti į valstybės biudžeto pajamas. ^79fdffdfcfb5d748f8aa0e3e
-
-
-
-### 3 straipsnis. Asignavimų skyrimas
-
-
-1. Padidinti valstybės biudžeto asignavimus valstybės biudžeto asignavimų valdytojams 298488 tūkst. litų pagal 2 priedėlį. ^f990618ad720634b07ce08ec
-
-
-2. Skirti savivaldybėms papildomus asignavimus darbo užmokesčiui, kad būtų galima sumažinti pradinių klasių mokytojų pedagoginio darbo valandų normą per savaitę, ir kitoms reikmėms pagal 3 priedėlį. ^4c7f0840d25cad7c9a55ca8b
-
-
-3. Dėl neteisingo įmokų paskirstymo sumažinti Ignalinos rajono savivaldybės biudžeto lėšas 250 tūkst. litų ir padidinti šia suma Visagino miesto savivaldybės biudžeto lėšas. ^9847877ccfbcd6c982e1c8c2
+2. Lietuvos valstybinio komercinio banko Vyriausybei grąžinamą paskolą, suteiktą pagal Lietuvos Respublikos Vyriausybės 1996 m. rugsėjo 12 d. nutarimą Nr. 1056 „Dėl paskolos Lietuvos valstybiniam komerciniam bankui suteikimo“ banko likvidumui palaikyti, įskaityti į valstybės biudžeto pajamas. ^s-5beb65a44ab812e96878f0db
 
 
 
-### 4 straipsnis. Asignavimų pakeitimas
+### 3 straipsnis. Asignavimų skyrimas ^s-43e23e909196736f25289774
+
+
+1. Padidinti valstybės biudžeto asignavimus valstybės biudžeto asignavimų valdytojams 298488 tūkst. litų pagal 2 priedėlį. ^s-4e3466dfad49b347f21337ca
+
+
+2. Skirti savivaldybėms papildomus asignavimus darbo užmokesčiui, kad būtų galima sumažinti pradinių klasių mokytojų pedagoginio darbo valandų normą per savaitę, ir kitoms reikmėms pagal 3 priedėlį. ^s-fde81a7e668cf1f2589a95c3
+
+
+3. Dėl neteisingo įmokų paskirstymo sumažinti Ignalinos rajono savivaldybės biudžeto lėšas 250 tūkst. litų ir padidinti šia suma Visagino miesto savivaldybės biudžeto lėšas. ^s-f25bb869ed6852470dab2f66
+
+
+
+### 4 straipsnis. Asignavimų pakeitimas ^s-ac27954324600fe6e8168a1a
 
 
 Leisti valstybės biudžeto asignavimų valdytojams pakeisti asignavimus pagal 4 priedėlį.
 
 
 
-### 5 straipsnis. Valstybės biudžeto išlaidų perskirstymas pagal funkcijas
+### 5 straipsnis. Valstybės biudžeto išlaidų perskirstymas pagal funkcijas ^s-bbe0cc578ec37f9cbd9dc044
 
 
 Leisti asignavimų valdytojams perskirstyti išlaidas pagal biudžeto išlaidų funkcijas.
 
 
 
-### 6 straipsnis. Nepanaudotų asignavimų grąžinimas
+### 6 straipsnis. Nepanaudotų asignavimų grąžinimas ^s-b4a79f1fc5372a24ebe9ba2e
 
 
 1996 metais nepanaudoti asignavimai kapitalo investicijoms, kurių sąmatinė kaina viršija 5000 tūkst. litų ir gamtosaugos objektams finansuoti, iš savivaldybių biudžetų grąžinami į valstybės biudžetą tiek, kiek tų savivaldybių biudžetų 1997 metais gautos faktinės pajamos yra didesnės už pajamas, nustatytas tvirtinant atskaitymų į savivaldybių biudžetus normatyvus.
@@ -1378,23 +1383,23 @@ Lietuvos Respublikos
 
 
 
-### ANTRASIS SKIRSNIS
-Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymo pakeitimas
+### ANTRASIS SKIRSNIS ^s-75a74a2d37743139168d2f6b
+[[latest/TAR.2E87A832F5C7|Lietuvos Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo įstatymo]] pakeitimas
 
 (Žin., 1996, Nr. 126-2940; 1997, Nr. 66-1607)
 
 
 
-### 1 straipsnis. Įstatymo 1 straipsnio 1 dalies, 1 ir 2 priedėlių pakeitimas
+### 1 straipsnis. Įstatymo 1 straipsnio 1 dalies, 1 ir 2 priedėlių pakeitimas ^s-15e4ac92a35173d5819c0619
 
 
-1. Pakeisti [[#^db7f283df6e20e8b0e355dd9|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^db7f283df6e20e8b0e355dd9
+1. Pakeisti [[#^s-a3055c4c1e40dafe60d4d545|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-a3055c4c1e40dafe60d4d545
 
 
 „1. Patvirtinti Lietuvos Respublikos 1997 metų valstybės biudžetą – 6084736 tūkst. litų pajamų, 6782586 tūkst. litų išlaidų (išlaidos viršija pajamas 697850 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai).“
 
 
-2. Pakeisti 1 priedėlį ir jį išdėstyti taip: ^f837ec05cd14f7382a6d06c9
+2. Pakeisti 1 priedėlį ir jį išdėstyti taip: ^s-01c2d542da7837b5af5c68d2
 
 
 
@@ -2832,7 +2837,7 @@ LIETUVOS RESPUBLIKOS 1997 METŲ VALSTYBĖS BIUDŽETAS
 
 
 
-3. Pakeisti 2 priedėlį ir jį išdėstyti taip: ^f0e4c56238e84fd33828b3a2
+3. Pakeisti 2 priedėlį ir jį išdėstyti taip: ^s-f4ed9d7a6e4164f791307ca8
 „Lietuvos Respublikos
 
 

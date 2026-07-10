@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3CA43C492C14"
 pavadinimas: "Lietuvos Respublikos 2006 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2006 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+  - "2006 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-18"
 latest_path: "latest/TAR.3CA43C492C14.md"
 latest_sha256: "a646231beb188defff1d5668d72708f69f08c8d091ac7b8662e2970097c106f9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3CA43C492C14]]"
 ---
 # Lietuvos Respublikos 2006 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3CA43C492C14.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3CA43C492C14
+- Ryšiai: [[Ryšiai/TAR.3CA43C492C14|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-1382e45750f7e03fc5f85970
 
 
 1 straipsnyje vietoj skaičių „16 718 145“, „18 465 145“ įrašyti skaičius „17 086 181“, „18 833 181“ ir šį straipsnį išdėstyti taip:
@@ -43,7 +48,7 @@ Patvirtinti Lietuvos Respublikos 2006 metų valstybės biudžetą – 17 086 181
 
 
 
-### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-7354586184aab4057e108e80
 
 
 2 straipsnio 2 dalyje vietoj skaičių „2 224 871“ ir „147 122“ įrašyti skaičius „2 316 612“ ir „187 376“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Patvirtinti Lietuvos Respublikos 2006 metų valstybės biudžetą – 17 086 181
 
 
 
-### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-f844721fb8ad90146433a4c6
 
 
 8 straipsnio 1 dalyje vietoj skaičiaus „505 723“ įrašyti skaičių „528 282“ ir šią dalį išdėstyti taip:
@@ -63,7 +68,7 @@ Patvirtinti Lietuvos Respublikos 2006 metų valstybės biudžetą – 17 086 181
 
 
 
-### 4 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 4 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-dcaed3498fecdebdb6c5115c
 
 
 Pakeisti Įstatymo 1 priedėlį ir jį išdėstyti taip:
@@ -405,7 +410,7 @@ tūkst. Lt
 
 
 
-## I. MINISTERIJOS
+## I. MINISTERIJOS ^s-cf9e0b9c7f408bf942bc685e
 
 
 
@@ -546,7 +551,7 @@ tūkst. Lt
 
 
 
-## II. APSKRITYS
+## II. APSKRITYS ^s-8a77e8df9c6bf386017f30df
 
 
 
@@ -732,7 +737,7 @@ tūkst. Lt
  iš jų darbo užmokesčiui
 
 
-## III. VYRIAUSYBĖS ĮSTAIGOS IR KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS
+## III. VYRIAUSYBĖS ĮSTAIGOS IR KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS ^s-26df0970aa51219ae943db3b
 
 
 
@@ -917,7 +922,7 @@ tūkst. Lt
  iš jų darbo užmokesčiui
 
 
-## IV. ĮSTAIGOS PRIE MINISTERIJŲ
+## IV. ĮSTAIGOS PRIE MINISTERIJŲ ^s-00211a01d0e6fe2aee134f49
 
 
 
@@ -1463,7 +1468,7 @@ tūkst. Lt
 
 
 
-## V. TEISĖSAUGOS VALDŽIOS INSTITUCIJOS
+## V. TEISĖSAUGOS VALDŽIOS INSTITUCIJOS ^s-b1fc2c10cc5deebe0ae12352
 
 
 
@@ -1519,7 +1524,7 @@ tūkst. Lt
 
 
 
-## VI. ŠVIETIMO, KULTŪROS IR KITOS ĮSTAIGOS BEI ORGANIZACIJOS
+## VI. ŠVIETIMO, KULTŪROS IR KITOS ĮSTAIGOS BEI ORGANIZACIJOS ^s-3f55687ebf15b8a065cb97ca
 
 
 
@@ -2180,7 +2185,7 @@ tūkst. Lt
 
 
 
-### 5 straipsnis. Įstatymo 2 priedėlio pakeitimas ir papildymas
+### 5 straipsnis. Įstatymo 2 priedėlio pakeitimas ir papildymas ^s-b9c8b61a7dfc9cfe6979f324
 
 
 Įstatymo 2 priedėlio eilutėje „Švietimo ir mokslo ministerija“ vietoj skaičiaus „62883“ įrašyti skaičių „62304“, eilutėje „Žemės ūkio ministerija“ vietoj skaičiaus „11079“ įrašyti skaičių „17054“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičiaus „3743“ įrašyti skaičių „3837“, eilutėje „Klaipėdos apskritie viršininko administracija“ vietoj skaičiaus „2282“ įrašyti skaičių „2634“, eilutėje „Marijampolės apskritie viršininko administracija“ vietoj skaičiaus „1989“ įrašyti skaičių „2323“, eilutėje „Panevėžio apskrities viršininko administracija“ vietoj skaičiaus „2885“ įrašyti skaičių „2935“, eilutėje „Šiaulių apskrities viršininko administracija“ vietoj skaičiaus „3299“ įrašyti skaičių „3369“, eilutėje „Vilniaus apskrities viršininko administracija“ vietoj skaičiaus „3059“ įrašyti skaičių „3124“, eilutėje „Lietuvos Respublikos ryšių reguliavimo tarnyba“ vietoj skaičiau „21241“ įrašyti skaičių „14150“, eilutėje „Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos“ vietoj skaičiaus „14241“ įrašyti skaičių „13993“, eilutėje „Policijos departamentas prie Vidaus reikalų ministerijos“ vietoj skaičiaus „29061“ įrašyti skaičių „27098“, išbraukti eilutę „Mokslo ir studijų institucijų įmokos 185046“, eilutėje „Vilniaus universitetas“ vietoj skaičiaus „26000“ įrašyti skaičių „33800“, eilutėje „Vytauto Didžiojo universitetas“ vietoj skaičiaus „6000“ įrašyti skaičių „7500“, eilutėje „Kauno technologijos universitetas“ vietoj skaičiaus „31000' įrašyti skaičių „32000“, eilutėje „Vilniaus Gedimino technikos universitetas“ vietoj skaičiaus „16500“ įrašyti skaičių „24000“, eilutėje „Lietuvos žemės ūkio universitetas“ vietoj skaičiaus „9500“ įrašyti skaičių „10000“, eilutėje „Mykolo Romerio universitetas“ vietoj skaičiaus „10000“ įrašyti skaičių „16000“, eilutėje „Kauno medicinos universitetas“ vietoj skaičiaus „11345“ įrašyti skaičių „9690“, eilutėje „Vilniaus dailės akademija“ vietoj skaičiau; „1382“ įrašyti skaičių „1582“, eilutėje „Vilniaus pedagoginis universitetas“ vietoj skaičiaus „12733“ įrašyti skaičių „13733“, po eilutės „Kauno technologijos universiteto Fizikinės elektronikos institutas 300“ įrašyti eilutes „Kauno medicinos universiteto Kardiologijos institutas 55“ ir „Kauno medicinos universiteto Psichofiziologijos ir reabilitacijos institutas 1600“, eilutėje „Iš viso“ vietoj skaičiaus „505723“ įrašyti skaičių „528282 ir šias eilutes išdėstyti taip:
@@ -2281,7 +2286,7 @@ tūkst. Lt
 
 
 
-### 6 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-162d1382c68db3dbe7389fe2
 
 
 Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
@@ -2639,7 +2644,7 @@ tūkst. Lt
 
 
 
-### 7 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-edd082ec7959e581a2ae3be5
 
 
 Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
@@ -4433,7 +4438,7 @@ tūkst. Lt
 
 
 
-### 8 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-6e12c7964e88d7284d556013
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -4773,7 +4778,7 @@ tūkst. Lt
 
 
 
-### 9 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-4bb71d6bb99fede3dd34a1cd
 
 
 Pakeisti Įstatymo 6 priedėlį ir jį išdėstyti taip:
@@ -5607,7 +5612,7 @@ tūkst. Lt
 
 
 
-### 10 straipsnis. Įstatymo 9 priedėlio pakeitimas
+### 10 straipsnis. Įstatymo 9 priedėlio pakeitimas ^s-32bb970009d40a59c87130a7
 
 
 Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
@@ -5791,7 +5796,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
 
-### 11 straipsnis. Įstatymo 10 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 10 priedėlio pakeitimas ^s-5d19653c74c964470dea7ceb
 
 
 Pakeisti Įstatymo 10 priedėlį ir jį išdėstyti taip:

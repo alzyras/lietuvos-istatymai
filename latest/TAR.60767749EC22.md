@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.60767749EC22"
 pavadinimas: "Lietuvos Respublikos karo prievolės įstatymo 8 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos karo prievolės įstatymo 8 straipsnio papildymo įstatymas"
+  - "karo prievolės įstatymo 8 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-11-05"
 latest_path: "latest/TAR.60767749EC22.md"
 latest_sha256: "c00a524dc8ae5f611dbe4ee740d688e900c5bcb9d90c18f37ec0f4fd213336b4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.60767749EC22]]"
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 8 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.60767749EC22.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.60767749EC22
+- Ryšiai: [[Ryšiai/TAR.60767749EC22|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,16 +36,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio papildymas
+### 1 straipsnis. 8 straipsnio papildymas ^s-927882225d2f2c91bb5b934f
 
 
-1. Papildyti 8 straipsnį nauja [[#^0ee6a2735a5b8213a2cb83fd|2 dalimi]]: ^aa8cd6962a4bdc53f9669021
+1. Papildyti 8 straipsnį nauja [[#^s-a1c75bc2fb088974c47e49b5|2 dalimi]]: ^s-7b1efc1517f5adabbdef806d
 
 
 „2. Asmenys, netekę abiejų tėvų ar likę be tėvų globos, jeigu jie nėra įvaikinti arba iki pilnametystės jiems buvo nustatyta globa (rūpyba), raštu pateikę motyvuotą prašymą, krašto apsaugos ministro sprendimu gali būti atleidžiami nuo privalomosios pradinės karo tarnybos.“
 
 
-2. Buvusias 8 straipsnio 2, 3, 4, 5, 6, 7 dalis lakyti atitinkamai 3, 4, 5, 6, 7, 8 dalimis. ^0ee6a2735a5b8213a2cb83fd
+2. Buvusias 8 straipsnio 2, 3, 4, 5, 6, 7 dalis lakyti atitinkamai 3, 4, 5, 6, 7, 8 dalimis. ^s-a1c75bc2fb088974c47e49b5
 
 
 

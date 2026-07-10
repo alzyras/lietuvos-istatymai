@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7D834A0FEBE3"
 pavadinimas: "Dėl Žemės reformos įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Žemės reformos įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-01-25"
 latest_path: "latest/TAR.7D834A0FEBE3.md"
 latest_sha256: "797379a1a1bb525ac152b26b05cf203f44a049659378b3adb849567f13237e4c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7D834A0FEBE3]]"
 ---
 # Dėl Žemės reformos įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7D834A0FEBE3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7D834A0FEBE3
+- Ryšiai: [[Ryšiai/TAR.7D834A0FEBE3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

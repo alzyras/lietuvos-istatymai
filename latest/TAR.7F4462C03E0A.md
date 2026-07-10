@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7F4462C03E0A"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių\" pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių\" pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-01-12"
 latest_path: "latest/TAR.7F4462C03E0A.md"
 latest_sha256: "ebda4b239fe968556ea5f3a96156b0b1653888481417553c2686811e1d011e83"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7F4462C03E0A]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7F4462C03E0A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7F4462C03E0A
+- Ryšiai: [[Ryšiai/TAR.7F4462C03E0A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -57,7 +61,7 @@ Kompensacijos turi būti išmokėtos ne vėliau kaip per vieną mėnesį nuo ati
 
 
 
-### 5 straipsnis.
+### 5 straipsnis. ^s-ab6d56991a2c10164bb670f7
 
 
 Asmenims, nukentėjusiems kovojant už Lietuvos Respublikos laisvę nuo įvykių, kurie buvo po 1991 m. sausio 11–13 dienomis vykdytos agresijos, šis įstatymas taikomas pagal atskirą Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą.“

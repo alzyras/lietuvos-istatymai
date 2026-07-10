@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.55029C78F577"
 pavadinimas: "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas"
+  - "gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.55029C78F577.md"
 latest_sha256: "7893db9bdb5ae00a4ad563fbece37534a9e2c1737c9e331d48e52f447cac1da2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.55029C78F577]]"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.55029C78F577.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.55029C78F577
+- Ryšiai: [[Ryšiai/TAR.55029C78F577|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 6 dalies pakeitimas ^s-dca371a03bf6057eed7895f8
 
 
 Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 8 straipsnio 5 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 5 dalies pakeitimas ^s-3bacdd03df6f1c051b3e2e5c
 
 
 Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 11 straipsnio pakeitimas
+### 3 straipsnis. 11 straipsnio pakeitimas ^s-5cb601ed84c98f51ac166dd9
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -64,23 +69,23 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 „11 straipsnis. Deklaravimo įstaiga
 
 
-1. Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenis arba (ir) neturinčių gyvenamosios vietos asmenų apskaitą tvarkanti institucija. Gyvenamosios vietos deklaravimo duomenų ir neturinčių gyvenamosios vietos asmenų apskaitos tvarkymo funkciją atlieka savivaldybės. Savivaldybėse, kuriose yra įsteigtos seniūnijos, deklaravimo įstaigos funkciją įgyvendina seniūnija, o savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaravimo įstaigos funkciją įgyvendina kitas savivaldybės administracijos padalinys. ^036330f06d7c2c533140a871
+1. Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenis arba (ir) neturinčių gyvenamosios vietos asmenų apskaitą tvarkanti institucija. Gyvenamosios vietos deklaravimo duomenų ir neturinčių gyvenamosios vietos asmenų apskaitos tvarkymo funkciją atlieka savivaldybės. Savivaldybėse, kuriose yra įsteigtos seniūnijos, deklaravimo įstaigos funkciją įgyvendina seniūnija, o savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaravimo įstaigos funkciją įgyvendina kitas savivaldybės administracijos padalinys. ^s-0197f5c5745b924146337c4c
 
 
-2. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse yra deklaravimo įstaigos, atliekančios asmenų, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgesniam laikotarpiui, gyvenamosios vietos deklaravimo duomenų tvarkymo funkciją. ^0910020833dba2161054d298
+2. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse yra deklaravimo įstaigos, atliekančios asmenų, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgesniam laikotarpiui, gyvenamosios vietos deklaravimo duomenų tvarkymo funkciją. ^s-b7ab1126d5550e25459ba1eb
 
 
-3. Deklaravimo įstaiga asmens prašymu išduoda jo deklaruotą gyvenamąją vietą patvirtinantį dokumentą, o neturinčio gyvenamosios vietos asmens, į apskaitą įtraukto Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į neturinčių gyvenamosios vietos asmenų apskaitą. Šioje pažymoje nurodoma savivaldybė, kurioje tas asmuo gyvena.“ ^7b7463f421969a36b35044ae
+3. Deklaravimo įstaiga asmens prašymu išduoda jo deklaruotą gyvenamąją vietą patvirtinantį dokumentą, o neturinčio gyvenamosios vietos asmens, į apskaitą įtraukto Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į neturinčių gyvenamosios vietos asmenų apskaitą. Šioje pažymoje nurodoma savivaldybė, kurioje tas asmuo gyvena.“ ^s-cd865eddb4787e20e7b02938
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e73b3a3346c7a77f64d32041
 
 
-1. Šis įstatymas, išskyrus [[#^9dc2b3253764d38d482f9912|šio straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^72ab029c7c1929f622e3ab0e
+1. Šis įstatymas, išskyrus [[#^s-0cc9c57b427c8e40abf64022|šio straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-6f031a13b0fcff97639236f6
 
 
-2. Gyvenamosios vietos deklaravimo duomenų valdytojas iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingų teisės aktų pakeitimus. ^9dc2b3253764d38d482f9912
+2. Gyvenamosios vietos deklaravimo duomenų valdytojas iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingų teisės aktų pakeitimus. ^s-0cc9c57b427c8e40abf64022
 
 
 

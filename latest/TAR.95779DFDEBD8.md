@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.95779DFDEBD8"
 pavadinimas: "Lietuvos Respublikos tarnybinio paso įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarnybinio paso įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "tarnybinio paso įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.95779DFDEBD8.md"
 latest_sha256: "2750e9e13049cf2be54ac7ef45c8d9b007951e33a5a2926600ea81974dbe4eae"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.95779DFDEBD8]]"
 ---
 # Lietuvos Respublikos tarnybinio paso įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.95779DFDEBD8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.95779DFDEBD8
+- Ryšiai: [[Ryšiai/TAR.95779DFDEBD8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-941bec6aa3485a55cfca1b0c
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -43,13 +48,13 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-3fb76dc95081809cddda1760
 
 
-1. Šis įstatymas, išskyrus [[#^5bf6a6ca51eceebe7d29fc3f|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^34823b27950b12adb08c5543
+1. Šis įstatymas, išskyrus [[#^s-347512339a3a4770d6815472|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^s-10bbebedb946a4577adcb945
 
 
-2. Vidaus reikalų ministras iki šio įstatymo įsigaliojimo dienos priima šio įstatymo įgyvendinamuosius teisės aktus. ^5bf6a6ca51eceebe7d29fc3f
+2. Vidaus reikalų ministras iki šio įstatymo įsigaliojimo dienos priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-347512339a3a4770d6815472
 
 
 

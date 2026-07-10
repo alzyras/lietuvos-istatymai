@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D9CBFE49E508"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo, Baudžiamojo proceso kodekso pakeitimo ir papildymo, Civilinio proceso kodekso pakeitimo ir papildymo įstatymų įgyvendinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo, Baudžiamojo proceso kodekso pakeitimo ir papildymo, Civilinio proceso kodekso pakeitimo ir papildymo įstatymų įgyvendinimo įstatymas"
+  - "teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo, Baudžiamojo proceso kodekso pakeitimo ir papildymo, Civilinio proceso kodekso pakeitimo ir papildymo įstatymų įgyvendinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-17"
 latest_path: "latest/TAR.D9CBFE49E508.md"
 latest_sha256: "8e5fcb41acd54bcfa9709e8ab1ddf337ef35898d4aaae20067791034488cb763"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D9CBFE49E508]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo, Baudžiamojo proceso kodekso pakeitimo ir papildymo, Civilinio proceso kodekso pakeitimo ir papildymo įstatymų įgyvendinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D9CBFE49E508.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D9CBFE49E508
+- Ryšiai: [[Ryšiai/TAR.D9CBFE49E508|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,17 +34,17 @@ Vilnius
 
 
 
-### 1 straipsnis. Kasacinių skundų nagrinėjimas Lietuvos Aukščiausiajame Teisme
+### 1 straipsnis. Kasacinių skundų nagrinėjimas Lietuvos Aukščiausiajame Teisme ^s-cbd7644ea5cf1c224c301218
 
 
-Iki Teismų įstatymo 17 ir 18 straipsnių, Baudžiamojo proceso kodekso 416 straipsnio ir Civilinio proceso kodekso 3511 straipsnio įsigaliojimo gauti Lietuvos Aukščiausiajame Teisme kasaciniai skundai dėl įsiteisėjusių apygardų teismų sprendimų, nuosprendžių ir nutarčių, priimtų apeliacine tvarka išnagrinėtose bylose, išnagrinėjami kasacine tvarka Lietuvos Aukščiausiajame Teisme.
+Iki [[latest/TAR.522B3E415B52#^s-e3863fc2a52e9e572ef19843|Teismų įstatymo 17 ir 18 straipsnių]], Baudžiamojo proceso kodekso 416 straipsnio ir Civilinio proceso kodekso 3511 straipsnio įsigaliojimo gauti Lietuvos Aukščiausiajame Teisme kasaciniai skundai dėl įsiteisėjusių apygardų teismų sprendimų, nuosprendžių ir nutarčių, priimtų apeliacine tvarka išnagrinėtose bylose, išnagrinėjami kasacine tvarka Lietuvos Aukščiausiajame Teisme.
 
 
 
-### 2 straipsnis. Pakeistųjų įstatymų ir kodeksų nuostatų galiojimas
+### 2 straipsnis. Pakeistųjų įstatymų ir kodeksų nuostatų galiojimas ^s-8f2ee5a8c3ba10c07579b31c
 
 
-Teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio ir 18 straipsnio pirmosios dalies, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo [[#1 straipsnis. Kasacinių skundų nagrinėjimas Lietuvos Aukščiausiajame Teisme|1 straipsnio]] pirmosios dalies, Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo, Civilinio proceso kodekso pakeitimo ir papildymo įstatymo nuostatos galioja iki naujų Civilinio proceso ir Baudžiamojo proceso kodeksų priėmimo ir įsigaliojimo.
+Teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio ir 18 straipsnio pirmosios dalies, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo [[#^s-cbd7644ea5cf1c224c301218|1 straipsnio]] pirmosios dalies, [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] pakeitimo ir papildymo įstatymo, [[latest/TAR.10D407E502F2|Civilinio proceso kodekso pakeitimo ir papildymo įstatymo]] nuostatos galioja iki naujų Civilinio proceso ir Baudžiamojo proceso kodeksų priėmimo ir įsigaliojimo.
 
 
 

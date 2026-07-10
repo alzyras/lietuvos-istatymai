@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.491C14C48079"
 pavadinimas: "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-05"
 latest_path: "latest/TAR.491C14C48079.md"
 latest_sha256: "534766b481a63a801837f687aa7bef394856e5b9a5abffb13bf5ed88404da788"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.491C14C48079]]"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.491C14C48079.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.491C14C48079
+- Ryšiai: [[Ryšiai/TAR.491C14C48079|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-dbfd7179a352ab3ac8b082f8
 
 
 2 straipsnio 3 dalyje vietoj žodžių „tarpininko kyšininkavimas“ įrašyti žodžius „prekyba poveikiu“ ir šią dalį išdėstyti taip:

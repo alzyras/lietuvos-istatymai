@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9FC42CCF8012"
 pavadinimas: "Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-13"
 latest_path: "latest/TAR.9FC42CCF8012.md"
 latest_sha256: "c849d9bd0e1ed98c7c142501998fba214d4364c7bd0a99650a0ab92f244e87b7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9FC42CCF8012]]"
 ---
 # Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9FC42CCF8012.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9FC42CCF8012
+- Ryšiai: [[Ryšiai/TAR.9FC42CCF8012|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,13 +39,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-eb1555a1558d393ff95b80c9
 
 
 2 straipsnio 1 dalyje vietoj žodžių „gali sudaryti“ įrašyti žodį „sudaro“ ir šią dalį išdėstyti taip:
 
 
-„1. Savivaldybių tarybos sudaro savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).“
+„1. Savivaldybių tarybos sudaro savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).“
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4130AFCF39FD"
 pavadinimas: "Lietuvos Respublikos Lietuvos banko įstatymo 47 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos banko įstatymo 47 straipsnio pakeitimo įstatymas"
+  - "Lietuvos banko įstatymo 47 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.4130AFCF39FD.md"
 latest_sha256: "ddb16f389da4f90cf1493a66531345a40a84e12f1dfcde30505ac3288112eaf4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4130AFCF39FD]]"
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 47 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4130AFCF39FD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4130AFCF39FD
+- Ryšiai: [[Ryšiai/TAR.4130AFCF39FD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio pakeitimas
+### 1 straipsnis. 47 straipsnio pakeitimas ^s-1e9f31ace8374e5af62cc0e2
 
 
 47 straipsnyje prieš žodžius „gali būti perduota“ įrašyti žodžius „susijusi su nusikalstama veika“, vietoj žodžių „tardymo ir kvotos organams, jeigu ji reikalinga baudžiamajai bylai tirti ar nagrinėti“ įrašyti žodžius „ikiteisminio tyrimo įstaigoms“ ir šį straipsnį išdėstyti taip:
@@ -44,10 +49,10 @@ Atlikdamas kredito įstaigų licencijavimo ir priežiūros funkcijas, Lietuvos b
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c2a6fc595c99a703ca18fb82
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

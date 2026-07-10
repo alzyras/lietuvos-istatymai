@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8DE3A2D944E"
 pavadinimas: "Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas"
+aliases:
+  - "Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas"
+  - "geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-18"
 latest_path: "latest/TAR.C8DE3A2D944E.md"
 latest_sha256: "a68e4e2d91c0115d54d3fde1d1166bc274484de12b1f77aa59729aa8770aee32"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8DE3A2D944E]]"
 ---
 # Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8DE3A2D944E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8DE3A2D944E
+- Ryšiai: [[Ryšiai/TAR.C8DE3A2D944E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 1 straipsnio papildymas 4 dalimi ^s-8502ae1d52a61589a9054444
 
 
 Papildyti 1 straipsnį 4 dalimi:
@@ -43,49 +48,49 @@ Papildyti 1 straipsnį 4 dalimi:
 
 
 
-### 2 straipsnis. 2 straipsnio 14 dalies pakeitimas ir straipsnio papildymas 27, 28 dalimis
+### 2 straipsnis. 2 straipsnio 14 dalies pakeitimas ir straipsnio papildymas 27, 28 dalimis ^s-c2d48efac416c265903eca80
 
 
-1. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip: ^043d9c204de603f1a234e6fa
+1. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip: ^s-b40e112f7162e5ad566c3e16
 
 
 „14. Geriamojo vandens tiekėjas – Europos Sąjungos valstybės narės ir Europos ekonominės erdvės valstybės (toliau – valstybė narė) pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėse narėse teisėmis, turintis teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, taip pat valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigti Lietuvos Respublikoje, tiekiantys geriamąjį vandenį vartotojams arba dalyvaujantys fasuojant geriamąjį vandenį.“
 
 
-2. Papildyti 2 straipsnį 27 dalimi: ^19cf2148af2b8378553d51ca
+2. Papildyti 2 straipsnį 27 dalimi: ^s-732257ac8c093e4930c0c6bb
 
 
 „27. Geriamojo vandens tiekimo objekto teritorija – geografiškai apibrėžta teritorija, kurioje žmonėms vartoti skirtas vanduo tiekiamas iš vieno ar daugiau vandens tiekimo šaltinių ir kurioje vandens kokybė gali būti laikoma beveik vienoda.“
 
 
-3. Papildyti 2 straipsnį 28 dalimi: ^a8d24b59b752d090a883551d
+3. Papildyti 2 straipsnį 28 dalimi: ^s-6b6b037385b234e1a174bddd
 
 
 „28. Nukrypti leidžianti nuostata (išlyga) – leidimas ribotą laikotarpį viešai tiekti geriamąjį vandenį, kurio vienas ar keli toksiniai (cheminiai) rodikliai viršija teisės aktuose nustatytas ribines rodiklių vertes.“
 
 
 
-### 3 straipsnis. 7 straipsnio pakeitimas
+### 3 straipsnis. 7 straipsnio pakeitimas ^s-ed670b2c63ac109b0a253d75
 
 
-Pakeisti [[#7 straipsnis. 12 straipsnio pakeitimas|7 straipsnį]] ir jį išdėstyti taip:
-
-
-
-„[[#7 straipsnis. 12 straipsnio pakeitimas|7 straipsnis]]. Geriamojo vandens naudojimas maisto įmonėse ir visuomeniniuose pastatuose
-
-
-1. Geriamojo vandens tiekėjai, tiekiantys geriamąjį vandenį maisto įmonėms ir visuomeniniams pastatams, turi užtikrinti nepertraukiamą jo tiekimą. ^3b2e7ff42bca223f64f79996
-
-
-2. Tiekiamam į rinką maistui tvarkyti geriamąjį vandenį naudojančios maisto įmonės atsako už geriamojo vandens saugą ir kokybę jiems priklausančių pastatų vidaus vandentiekyje. ^4f49f59cf4ce17f2348982cc
-
-
-3. Už visuomeninių pastatų vidaus vandentiekyje esančio geriamojo vandens saugą ir kokybę atsako jų steigėjai (savininkai). Jie atlieka geriamojo vandens programinę priežiūrą sveikatos apsaugos ministro nustatyta tvarka.“ ^2e5647ff504bbfc4c512af03
+Pakeisti [[#^s-84506e6c8b9fd3407eceb4fc|7 straipsnį]] ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 8 straipsnio 3 dalies pakeitimas
+„[[#^s-84506e6c8b9fd3407eceb4fc|7 straipsnis]]. Geriamojo vandens naudojimas maisto įmonėse ir visuomeniniuose pastatuose
+
+
+1. Geriamojo vandens tiekėjai, tiekiantys geriamąjį vandenį maisto įmonėms ir visuomeniniams pastatams, turi užtikrinti nepertraukiamą jo tiekimą. ^s-3817aef1df24eeb10e9562ba
+
+
+2. Tiekiamam į rinką maistui tvarkyti geriamąjį vandenį naudojančios maisto įmonės atsako už geriamojo vandens saugą ir kokybę jiems priklausančių pastatų vidaus vandentiekyje. ^s-9a146bee3009b9f04cdc063f
+
+
+3. Už visuomeninių pastatų vidaus vandentiekyje esančio geriamojo vandens saugą ir kokybę atsako jų steigėjai (savininkai). Jie atlieka geriamojo vandens programinę priežiūrą sveikatos apsaugos ministro nustatyta tvarka.“ ^s-a47f9aeb8751ca3de3825cdc
+
+
+
+### 4 straipsnis. 8 straipsnio 3 dalies pakeitimas ^s-acf0a8dbe8092b19f28e2318
 
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -95,7 +100,7 @@ Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 10 straipsnio pakeitimas
+### 5 straipsnis. 10 straipsnio pakeitimas ^s-2bf7bd989dac206b0e69ca22
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
@@ -105,96 +110,96 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 „10 straipsnis. Geriamojo vandens saugos ir kokybės kriterijai, jų taikymo vietos ir nukrypti leidžiančios nuostatos (išlygos)
 
 
-1. Teisės aktų nustatytus saugos ir kokybės reikalavimus geriamasis vanduo turi atitikti ten, iš kur jis imamas naudoti: pastatų vidaus vandentiekio čiaupuose, vandens kolonėlėse, talpyklų vandeniui gabenti ištakiuose, fasavimo į prekinę tarą ir naudojimo maisto įmonėse vietose. ^e4914d5fe5b27bcee8d61765
+1. Teisės aktų nustatytus saugos ir kokybės reikalavimus geriamasis vanduo turi atitikti ten, iš kur jis imamas naudoti: pastatų vidaus vandentiekio čiaupuose, vandens kolonėlėse, talpyklų vandeniui gabenti ištakiuose, fasavimo į prekinę tarą ir naudojimo maisto įmonėse vietose. ^s-8ce95b57bcb67c8a9feea7a1
 
 
-2. Laikinai nukrypti nuo teisės aktų reikalaujamų viešai tiekiamo geriamojo vandens kokybės rodiklių gali leisti savivaldybės vykdomoji institucija, suderinusi su Valstybine maisto ir veterinarijos tarnyba (toliau – valstybinė maisto kontrolės institucija) ir apie tai iš anksto pranešusi geriamojo vandens vartotojams, jeigu: ^499a31bb85344cf01e69d370
+2. Laikinai nukrypti nuo teisės aktų reikalaujamų viešai tiekiamo geriamojo vandens kokybės rodiklių gali leisti savivaldybės vykdomoji institucija, suderinusi su Valstybine maisto ir veterinarijos tarnyba (toliau – valstybinė maisto kontrolės institucija) ir apie tai iš anksto pranešusi geriamojo vandens vartotojams, jeigu: ^s-d60091e14f559dcb4bd5798e
 
 
-1) dėl to nepablogėja vandens mikrobiologiniai ir toksiniai (cheminiai) rodikliai; ^e21eef8e9d7c82c866c82e68
+1) dėl to nepablogėja vandens mikrobiologiniai ir toksiniai (cheminiai) rodikliai; ^s-2b050151edb76e209589ef19
 
 
-2) nukrypimai priklauso nuo pastovių vietos gamtinių veiksnių (hidrogeologinių, hidrologinių, meteorologinių ir t. t.) arba atsirado dėl ekstremaliųjų situacijų. ^4f30b3f676e239f1b6e0cbc2
+2) nukrypimai priklauso nuo pastovių vietos gamtinių veiksnių (hidrogeologinių, hidrologinių, meteorologinių ir t. t.) arba atsirado dėl ekstremaliųjų situacijų. ^s-459b454320fb30536e9367b3
 
 
-3. Jeigu tam tikroje teritorijoje viešai tiekiamas geriamasis vanduo negali būti tiekiamas jokiais kitais priimtinais būdais, savivaldybės vykdomoji institucija gali leisti ribotą laikotarpį viešai tiekti geriamąjį vandenį, kurio vienas ar keli toksiniai (cheminiai) rodikliai viršija teisės aktuose nustatytus toksinius (cheminius) rodiklius, jeigu sveikatos apsaugos ministro įgaliota institucija nustato, kad tokia nukrypti leidžianti nuostata (išlyga) nekelia potencialaus pavojaus žmonių sveikatai. Nukrypti leidžianti nuostata (išlyga) taikoma (daroma) kuo trumpesnį laiką, ne ilgiau kaip trejus metus, kuriems baigiantis sveikatos apsaugos ministro įgaliota institucija atlieka patikrinimą ir nustato, ar pasiekta pakankama pažanga. Jeigu ketinama antrą kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą), sveikatos apsaugos ministro įgaliota institucija perduoda Europos Komisijai patikrinimo medžiagą ir nurodo savo sprendimo antrą kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą) motyvus. Nukrypti leidžianti nuostata (išlyga) antrą kartą netaikoma (nedaroma) ilgiau kaip trejus metus. Išskirtinėmis aplinkybėmis, gavusi savivaldybės vykdomosios institucijos prašymą, sveikatos apsaugos ministro įgaliota institucija gali prašyti Europos Komisijos leisti trečią kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą) ir taikyti ją ne ilgiau kaip trejus metus. Sprendimą dėl tokio prašymo Europos Komisija priima per tris mėnesius. Nukrypti leidžiančios nuostatos (išlygos) netaikomos (nedaromos) geriamajam vandeniui, kuris tiekiamas prekybai buteliuose ar kitoje taroje. ^ef7bbebbcbf1547292b44b20
+3. Jeigu tam tikroje teritorijoje viešai tiekiamas geriamasis vanduo negali būti tiekiamas jokiais kitais priimtinais būdais, savivaldybės vykdomoji institucija gali leisti ribotą laikotarpį viešai tiekti geriamąjį vandenį, kurio vienas ar keli toksiniai (cheminiai) rodikliai viršija teisės aktuose nustatytus toksinius (cheminius) rodiklius, jeigu sveikatos apsaugos ministro įgaliota institucija nustato, kad tokia nukrypti leidžianti nuostata (išlyga) nekelia potencialaus pavojaus žmonių sveikatai. Nukrypti leidžianti nuostata (išlyga) taikoma (daroma) kuo trumpesnį laiką, ne ilgiau kaip trejus metus, kuriems baigiantis sveikatos apsaugos ministro įgaliota institucija atlieka patikrinimą ir nustato, ar pasiekta pakankama pažanga. Jeigu ketinama antrą kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą), sveikatos apsaugos ministro įgaliota institucija perduoda Europos Komisijai patikrinimo medžiagą ir nurodo savo sprendimo antrą kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą) motyvus. Nukrypti leidžianti nuostata (išlyga) antrą kartą netaikoma (nedaroma) ilgiau kaip trejus metus. Išskirtinėmis aplinkybėmis, gavusi savivaldybės vykdomosios institucijos prašymą, sveikatos apsaugos ministro įgaliota institucija gali prašyti Europos Komisijos leisti trečią kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą) ir taikyti ją ne ilgiau kaip trejus metus. Sprendimą dėl tokio prašymo Europos Komisija priima per tris mėnesius. Nukrypti leidžiančios nuostatos (išlygos) netaikomos (nedaromos) geriamajam vandeniui, kuris tiekiamas prekybai buteliuose ar kitoje taroje. ^s-35a437874f9c92e33930d46f
 
 
-4. Jeigu valstybinė maisto kontrolės institucija nustato, kad toksinio (cheminio) rodiklio ribinės vertės neatitiktis yra nereikšminga ir jeigu būtinų geriamojo vandens kokybės atkuriamųjų veiksmų, kurių buvo imtasi, pakanka susidariusiai padėčiai ištaisyti per 30 dienų, nebūtina taikyti [[#^ef7bbebbcbf1547292b44b20|šio straipsnio 3 dalies]] reikalavimų. Tokiu atveju valstybinė maisto kontrolės institucija, suderinusi su sveikatos apsaugos ministro įgaliota institucija, nustato tik didžiausią leistiną tam tikrą toksinio (cheminio) rodiklio ribinę vertę ir laikotarpį, kuris reikalingas susidariusiai padėčiai ištaisyti. Tačiau jeigu per paskutiniuosius dvylika mėnesių geriamojo vandens, tiekiamo tam tikroje geriamojo vandens tiekimo objekto teritorijoje, bet kurios toksinio (cheminio) rodiklio ribinės vertės buvo nesilaikoma iš viso daugiau kaip 30 dienų, šios dalies nuostatų taikyti nebegalima. ^b3fb4c14eca25132c8769970
+4. Jeigu valstybinė maisto kontrolės institucija nustato, kad toksinio (cheminio) rodiklio ribinės vertės neatitiktis yra nereikšminga ir jeigu būtinų geriamojo vandens kokybės atkuriamųjų veiksmų, kurių buvo imtasi, pakanka susidariusiai padėčiai ištaisyti per 30 dienų, nebūtina taikyti [[#^s-35a437874f9c92e33930d46f|šio straipsnio 3 dalies]] reikalavimų. Tokiu atveju valstybinė maisto kontrolės institucija, suderinusi su sveikatos apsaugos ministro įgaliota institucija, nustato tik didžiausią leistiną tam tikrą toksinio (cheminio) rodiklio ribinę vertę ir laikotarpį, kuris reikalingas susidariusiai padėčiai ištaisyti. Tačiau jeigu per paskutiniuosius dvylika mėnesių geriamojo vandens, tiekiamo tam tikroje geriamojo vandens tiekimo objekto teritorijoje, bet kurios toksinio (cheminio) rodiklio ribinės vertės buvo nesilaikoma iš viso daugiau kaip 30 dienų, šios dalies nuostatų taikyti nebegalima. ^s-174d716c770a2466530332ff
 
 
-5. Savivaldybės vykdomoji institucija, pasinaudojusi šiame straipsnyje nurodytomis nukrypti leidžiančiomis nuostatomis (išlygomis), užtikrina, kad gyventojai, kuriems turi įtakos kiekviena tokia nukrypti leidžianti nuostata (išlyga), būtų greitai ir tinkamai informuojami apie tą nukrypti leidžiančią nuostatą (išlygą) ir jos taikymo sąlygas, kad tam tikroms gyventojų grupėms, kurioms minėtos nukrypti leidžiančios nuostatos (išlygos) taikymas (darymas) galėtų kelti ypač didelę riziką, būtų duodami reikiami patarimai. Šie įpareigojimai netaikomi [[#^b3fb4c14eca25132c8769970|šio straipsnio 4 dalyje]] aprašytomis sąlygomis. ^240da70e98090e45cadd6b09
+5. Savivaldybės vykdomoji institucija, pasinaudojusi šiame straipsnyje nurodytomis nukrypti leidžiančiomis nuostatomis (išlygomis), užtikrina, kad gyventojai, kuriems turi įtakos kiekviena tokia nukrypti leidžianti nuostata (išlyga), būtų greitai ir tinkamai informuojami apie tą nukrypti leidžiančią nuostatą (išlygą) ir jos taikymo sąlygas, kad tam tikroms gyventojų grupėms, kurioms minėtos nukrypti leidžiančios nuostatos (išlygos) taikymas (darymas) galėtų kelti ypač didelę riziką, būtų duodami reikiami patarimai. Šie įpareigojimai netaikomi [[#^s-174d716c770a2466530332ff|šio straipsnio 4 dalyje]] aprašytomis sąlygomis. ^s-a9d449fc1c2950f88223a6cd
 
 
-6. Sveikatos apsaugos ministro įgaliota institucija per du mėnesius praneša Europos Komisijai apie visas nukrypti leidžiančias nuostatas (išlygas), taikomas (daromas) kiekvienai individualiai geriamojo vandens tiekimo objekto teritorijai, tiekiančiai vidutiniškai daugiau kaip 1 000 kubinių metrų geriamojo vandens per parą arba geriamuoju vandeniu aprūpinančiai daugiau kaip 5 000 asmenų, išskyrus nukrypti leidžiančias nuostatas (išlygas), taikomas (daromas) vadovaujantis [[#^b3fb4c14eca25132c8769970|šio straipsnio 4 dalimi]], ir pateikia Europos Komisijai teisės aktuose nustatytą informaciją. ^538990afe59336bcab536af8
+6. Sveikatos apsaugos ministro įgaliota institucija per du mėnesius praneša Europos Komisijai apie visas nukrypti leidžiančias nuostatas (išlygas), taikomas (daromas) kiekvienai individualiai geriamojo vandens tiekimo objekto teritorijai, tiekiančiai vidutiniškai daugiau kaip 1 000 kubinių metrų geriamojo vandens per parą arba geriamuoju vandeniu aprūpinančiai daugiau kaip 5 000 asmenų, išskyrus nukrypti leidžiančias nuostatas (išlygas), taikomas (daromas) vadovaujantis [[#^s-174d716c770a2466530332ff|šio straipsnio 4 dalimi]], ir pateikia Europos Komisijai teisės aktuose nustatytą informaciją. ^s-188ea666d32cb769af89f8d1
 
 
-7. Vyriausybės įgaliota institucija parengia ir tvirtina pesticidų, jų skilimo produktų ir kitų galinčių užteršti geriamąjį vandenį kenksmingų cheminių medžiagų, kurias reikia stebėti valstybinio, savivaldybių ir ūkio subjektų aplinkos monitoringo metu, sąrašą.“ ^dc3b6c950059ef3b8e829959
+7. Vyriausybės įgaliota institucija parengia ir tvirtina pesticidų, jų skilimo produktų ir kitų galinčių užteršti geriamąjį vandenį kenksmingų cheminių medžiagų, kurias reikia stebėti valstybinio, savivaldybių ir ūkio subjektų aplinkos monitoringo metu, sąrašą.“ ^s-9ec69b1d030bab2860ade80b
 
 
 
-### 6 straipsnis. 11 straipsnio 3, 6, 8, 9, 10 ir 11 dalių pakeitimas
+### 6 straipsnis. 11 straipsnio 3, 6, 8, 9, 10 ir 11 dalių pakeitimas ^s-bb6f9e5cfbdc1c235db7f396
 
 
-1. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^be8b17eed11200d741f25878
+1. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^s-031cf8b0541f1558f124ebdb
 
 
 „3. Viešai tiekiantys geriamąjį vandenį vartotojams vandentiekio skirstomuoju tinklu geriamojo vandens tiekėjai tiekiamo geriamojo vandens programinę priežiūrą atlieka iki vandens vartojimo vietų: geriamojo vandens vartotojams priklausančių pastatų vidaus vandentiekio čiaupų, vandens kolonėlių ir vandens naudojimo maisto įmonėse vietų. Geriamojo vandens programinė priežiūra atliekama Vyriausybės nustatyta tvarka.“
 
 
-2. Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip: ^06a73f9f045c30fbbaa23ae6
+2. Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip: ^s-9fcccdd40f4b2832f96ea9d9
 
 
 „6. Geriamojo vandens programinę priežiūrą atliekantys geriamojo vandens tiekėjai turi nedelsdami pranešti vartotojams ir valstybinei maisto kontrolės institucijai apie vandens saugos ir kokybės blogėjimą geriamojo vandens vartotojams priklausančių pastatų vidaus vandentiekyje, to priežastis ir veiksmus, kurių vartotojai turi imtis, kad geriamasis vanduo atitiktų teisės aktų nustatytus saugos ir kokybės reikalavimus.“
 
 
-3. Pakeisti 11 straipsnio 8 dalį ir ją išdėstyti taip: ^a5ba60aa7bca7cef09e0d820
+3. Pakeisti 11 straipsnio 8 dalį ir ją išdėstyti taip: ^s-e264d168de53e9db987da932
 
 
 „8. Geriamojo vandens tiekėjai, atsižvelgdami į geriamajam vandeniui tiekti naudojamo vandens saugą ir kokybę, nustatomus ir registruojamus geriamojo vandens saugos ir kokybės rodiklius, geriamojo vandens ruošimo technologijas, geriamojo vandens tiekimo įrenginių būklę, rengia ir kasmet tikslina geriamojo vandens programinės priežiūros planus ir derina juos su valstybine maisto kontrolės institucija.“
 
 
-4. Pakeisti 11 straipsnio 9 dalį ir ją išdėstyti taip: ^5f95ec10c855cf578b99254c
+4. Pakeisti 11 straipsnio 9 dalį ir ją išdėstyti taip: ^s-7e9fe8f7682119bf7cfcd5cb
 
 
 „9. Geriamojo vandens tiekėjai geriamojo vandens programinės priežiūros metines ataskaitas per vieną mėnesį po ataskaitinio laikotarpio pabaigos turi pateikti savivaldybės vykdomajai institucijai ir valstybinei maisto kontrolės institucijai, o apie geriamojo vandens programinės priežiūros rezultatus viešai pranešti geriamojo vandens vartotojams.“
 
 
-5. Pakeisti 11 straipsnio 10 dalį ir ją išdėstyti taip: ^85e5a576f287bbe48dba2df6
+5. Pakeisti 11 straipsnio 10 dalį ir ją išdėstyti taip: ^s-a90bd95504961ff52ad1ce88
 
 
 „10. Valstybinė maisto kontrolės institucija įstatymuose, tarptautinėse sutartyse ir kituose teisės aktuose nustatyta tvarka kas treji metai turi pateikti Europos Komisijai Lietuvos Respublikos gyventojų vartojamo geriamojo vandens saugos ir kokybės ataskaitą.“
 
 
-6. Pakeisti 11 straipsnio 11 dalį ir ją išdėstyti taip: ^e0f2cda34ffa537d94519d9b
+6. Pakeisti 11 straipsnio 11 dalį ir ją išdėstyti taip: ^s-e9712cc820add867fdf5323d
 
 
 „11. Geriamojo vandens tiekėjai privalo nustatytais terminais raštu pranešti valstybinei maisto kontrolės institucijai ir geriamojo vandens vartotojams (jeigu tai nurodyta sutartyje), kai:
 
 
-1) vandens tiekimo arba vandens fasavimo įrenginiai pradedami eksploatuoti pirmą kartą ar po pertraukos arba jų dalis buvo pakeista ir tai gali pabloginti geriamojo vandens saugą ir kokybę; ^4917ae908a4616c369c951f2
+1) vandens tiekimo arba vandens fasavimo įrenginiai pradedami eksploatuoti pirmą kartą ar po pertraukos arba jų dalis buvo pakeista ir tai gali pabloginti geriamojo vandens saugą ir kokybę; ^s-1eb5b0a24e02b3c68ebfbfe9
 
 
-2) vandens tiekimo arba vandens fasavimo įrenginių nuosavybės ar naudojimo teisė pereina kitam juridiniam ar fiziniam asmeniui; ^81f00557fbac200df0883d55
+2) vandens tiekimo arba vandens fasavimo įrenginių nuosavybės ar naudojimo teisė pereina kitam juridiniam ar fiziniam asmeniui; ^s-cdb430b6e1148f37720f9858
 
 
-3) vandens tiekimo arba vandens fasavimo įrenginiai laikinai sustabdomi; ^f7cb32fcf8d8c6cfafe326a6
+3) vandens tiekimo arba vandens fasavimo įrenginiai laikinai sustabdomi; ^s-bd09d65aa646251e00778395
 
 
-4) blogėja geriamojo vandens mikrobiologiniai ar (ir) toksiniai (cheminiai) rodikliai vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse arba dėl vandentiekio avarijų sutrinka geriamojo vandens tiekimas šiems objektams; ^727f2adf338fb390af86027a
+4) blogėja geriamojo vandens mikrobiologiniai ar (ir) toksiniai (cheminiai) rodikliai vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse arba dėl vandentiekio avarijų sutrinka geriamojo vandens tiekimas šiems objektams; ^s-47a436ed7134aec1d387776c
 
 
-5) keičiamos ar pradedamos naudoti naujo tipo geriamojo vandens ruošimo priemonės; ^3cd2a5ed5774f69d978ae655
+5) keičiamos ar pradedamos naudoti naujo tipo geriamojo vandens ruošimo priemonės; ^s-2e7bf4bc2791b77701ce8996
 
 
-6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai sanitarinėse apsaugos zonose ar vandenviečių mitybos srityse; ^530bfae3d8cfe2aca08537e7
+6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai sanitarinėse apsaugos zonose ar vandenviečių mitybos srityse; ^s-765d4ef01c54aab5365c4f4f
 
 
-7) atliekami profilaktikos darbai, galintys turėti įtakos geriamojo vandens saugai ir kokybei.“ ^27ee66607805df23c59c5687
+7) atliekami profilaktikos darbai, galintys turėti įtakos geriamojo vandens saugai ir kokybei.“ ^s-74b6b83f03843e8abdf0f54e
 
 
 
-### 7 straipsnis. 12 straipsnio pakeitimas
+### 7 straipsnis. 12 straipsnio pakeitimas ^s-84506e6c8b9fd3407eceb4fc
 
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
@@ -204,59 +209,59 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 „12 straipsnis. Valstybinė geriamojo vandens kontrolė
 
 
-1. Valstybinė maisto kontrolės institucija atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę, apie jos rezultatus kiekvienais metais praneša Sveikatos apsaugos ministerijai ir skelbia viešai teisės aktų nustatyta tvarka. Įgyvendindami šiuos uždavinius, valstybinės maisto kontrolės institucijos įgalioti pareigūnai turi teisę: ^ae69d8f7e61318da01fe8032
+1. Valstybinė maisto kontrolės institucija atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę, apie jos rezultatus kiekvienais metais praneša Sveikatos apsaugos ministerijai ir skelbia viešai teisės aktų nustatyta tvarka. Įgyvendindami šiuos uždavinius, valstybinės maisto kontrolės institucijos įgalioti pareigūnai turi teisę: ^s-1e4ccadc5a19c3ca8ce06b52
 
 
-1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, sanitarines apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas; ^e56750465bb214167449cc5c
+1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, sanitarines apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas; ^s-8012d24550a2113c911e6ce9
 
 
-2) kontroliuoti, kaip geriamojo vandens tiekėjai vykdo šio įstatymo 11 straipsnyje nustatytus reikalavimus; ^76352de52da24d96545fcdbc
+2) kontroliuoti, kaip geriamojo vandens tiekėjai vykdo šio įstatymo 11 straipsnyje nustatytus reikalavimus; ^s-4c70633afc45b048ef2e583d
 
 
-3) jeigu reikia dėl visuomenės sveikatos saugos interesų, duoti nurodymus, kad geriamojo vandens tiekėjai išplėstų geriamojo vandens programinės priežiūros metu kontroliuojamų vandens rodiklių skalę, pakeistų jų tyrimo dažnumą. ^84de9bd5beced93cbf4b26fe
+3) jeigu reikia dėl visuomenės sveikatos saugos interesų, duoti nurodymus, kad geriamojo vandens tiekėjai išplėstų geriamojo vandens programinės priežiūros metu kontroliuojamų vandens rodiklių skalę, pakeistų jų tyrimo dažnumą. ^s-4f43e777ab4c3b173f42796f
 
 
-2. Valstybinė geriamojo vandens kontrolė atliekama vadovaujantis teisės aktais be išankstinio įspėjimo reguliariai pagal iš anksto sudarytas programas (kuriose nustatytas tikrinimų dažnumas ir kontrolės pobūdis), taip pat įtarus, kad gali būti pažeisti šio įstatymo ir kitų teisės aktų reikalavimai, o metodai turi būti tinkami kontrolės tikslui. Valstybinės geriamojo vandens kontrolės atlikimo tvarką nustato valstybinė maisto kontrolės institucija. ^4881e2dbf48eee1701209a30
+2. Valstybinė geriamojo vandens kontrolė atliekama vadovaujantis teisės aktais be išankstinio įspėjimo reguliariai pagal iš anksto sudarytas programas (kuriose nustatytas tikrinimų dažnumas ir kontrolės pobūdis), taip pat įtarus, kad gali būti pažeisti šio įstatymo ir kitų teisės aktų reikalavimai, o metodai turi būti tinkami kontrolės tikslui. Valstybinės geriamojo vandens kontrolės atlikimo tvarką nustato valstybinė maisto kontrolės institucija. ^s-05bf2a9b8973c18d01d0aa05
 
 
-3. Į valstybinę geriamojo vandens kontrolę įeina visi geriamojo vandens saugos ir kokybės užtikrinimo etapai (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens šaltinių saugos tikrinimo iki vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, taip pat fasuoto vandens tiekimas rinkai): ^2c61f0110d10b72bd51e0e95
+3. Į valstybinę geriamojo vandens kontrolę įeina visi geriamojo vandens saugos ir kokybės užtikrinimo etapai (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens šaltinių saugos tikrinimo iki vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, taip pat fasuoto vandens tiekimas rinkai): ^s-4a4069372c052378ed0866dd
 
 
-1) vandenviečių sanitarinių apsaugos zonų tikrinimas; ^d91c25ac6a03a3adcd661a3a
+1) vandenviečių sanitarinių apsaugos zonų tikrinimas; ^s-8a93c04d85fef07de21d8382
 
 
-2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir susiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimas; ^37ee652412f053e95b14ad1e
+2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir susiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimas; ^s-c48b3d5ea3db3ac42b7e1710
 
 
-3) vandenviečių, vandens tiekimo įrenginių, vandens ruošimo procesų tikrinimas; ^a35de51c930d5dcf6402c7f7
+3) vandenviečių, vandens tiekimo įrenginių, vandens ruošimo procesų tikrinimas; ^s-d3bb795adcb81851cd23192c
 
 
-4) geriamojo ir maistui tvarkyti naudojamo vandens saugos ir kokybės rodiklių kontrolė; ^73050ad9572c0b0b13bb58ff
+4) geriamojo ir maistui tvarkyti naudojamo vandens saugos ir kokybės rodiklių kontrolė; ^s-a701af596d5598afa1e2b63c
 
 
-5) geriamojo vandens programinės priežiūros planų vykdymo kontrolė; ^d853ab3acb952fc50f336c28
+5) geriamojo vandens programinės priežiūros planų vykdymo kontrolė; ^s-de359b0b276ab0a2e893bb2a
 
 
-6) gyventojų rizikos grupių nustatymas, dalyvavimas vykdant visuomenės sveikatos kontrolę ir monitoringą; ^4233b9403ec95a1e8a6870b3
+6) gyventojų rizikos grupių nustatymas, dalyvavimas vykdant visuomenės sveikatos kontrolę ir monitoringą; ^s-984337d026423b17c39e8b35
 
 
-7) geriamojo vandens saugos ir kokybės Lietuvos Respublikoje metinių ataskaitų rengimas ir skelbimas; ^b165cb89ebb704a33273acbe
+7) geriamojo vandens saugos ir kokybės Lietuvos Respublikoje metinių ataskaitų rengimas ir skelbimas; ^s-0683671a931a08653ed396bc
 
 
-8) gyventojų aprūpinimo geriamuoju vandeniu ir vartojamo geriamojo vandens saugos ir kokybės ataskaitų, teikiamų Europos Komisijai, rengimas įstatymų, tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka. ^62809ebb26dc0778ed962d34
+8) gyventojų aprūpinimo geriamuoju vandeniu ir vartojamo geriamojo vandens saugos ir kokybės ataskaitų, teikiamų Europos Komisijai, rengimas įstatymų, tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka. ^s-e2e992edf755991652234707
 
 
-4. Nustačiusi šio įstatymo ar kitų teisės aktų reikalavimų pažeidimus, valstybinė maisto kontrolės institucija privalo imtis teisės aktų nustatytų priemonių, kuriomis remiantis geriamojo vandens tiekimo veikla sustabdoma ar uždraudžiama, kad nebūtų viešai tiekiamas arba individualiai naudojamas geriamasis vanduo, keliantis potencialų pavojų žmonių sveikatai, ir apie tai praneša Sveikatos apsaugos ministerijai. ^56e8c31ac2baced785536c33
+4. Nustačiusi šio įstatymo ar kitų teisės aktų reikalavimų pažeidimus, valstybinė maisto kontrolės institucija privalo imtis teisės aktų nustatytų priemonių, kuriomis remiantis geriamojo vandens tiekimo veikla sustabdoma ar uždraudžiama, kad nebūtų viešai tiekiamas arba individualiai naudojamas geriamasis vanduo, keliantis potencialų pavojų žmonių sveikatai, ir apie tai praneša Sveikatos apsaugos ministerijai. ^s-68d06a334352e86975d299a9
 
 
-5. Valstybinė maisto kontrolės institucija turi užtikrinti individualiai naudojamo geriamojo vandens saugos ir kokybės kontrolę ir kitas teisės aktuose nustatytas higienos priemones, įskaitant individualiai apsirūpinančių geriamuoju vandeniu gyventojų informavimą, jeigu per geriamąjį vandenį plinta ar gali plisti užkrečiamosios ligos arba jeigu atsiranda geriamojo vandens cheminio užteršimo pavojus. ^5669da5b72e7c3fc1a46f064
+5. Valstybinė maisto kontrolės institucija turi užtikrinti individualiai naudojamo geriamojo vandens saugos ir kokybės kontrolę ir kitas teisės aktuose nustatytas higienos priemones, įskaitant individualiai apsirūpinančių geriamuoju vandeniu gyventojų informavimą, jeigu per geriamąjį vandenį plinta ar gali plisti užkrečiamosios ligos arba jeigu atsiranda geriamojo vandens cheminio užteršimo pavojus. ^s-85054341bb82fc0f4c25adbe
 
 
-6. Kitų valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją įgyvendinant gyventojų teisę vartoti geriamąjį vandenį nustato Vandens įstatymas, Žemės gelmių įstatymas, Aplinkos monitoringo įstatymas, Sveikatos sistemos įstatymas, Produktų saugos įstatymas, Maisto įstatymas, Vartotojų teisių apsaugos įstatymas ir kiti teisės aktai.“ ^1969a4c46b5ce48efba2d0e7
+6. Kitų valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją įgyvendinant gyventojų teisę vartoti geriamąjį vandenį nustato [[latest/TAR.B3CC2C0B9BD2|Vandens įstatymas]], [[latest/TAR.13E108ED3981|Žemės gelmių įstatymas]], [[latest/TAR.1A98CE535B1C|Aplinkos monitoringo įstatymas]], [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymas]], [[latest/TAR.A845E65C32A2|Produktų saugos įstatymas]], [[latest/TAR.5B99A78DA6C7|Maisto įstatymas]], [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymas]] ir kiti teisės aktai.“ ^s-c3f6841e219909b888865b11
 
 
 
-### 8 straipsnis. Įstatymo papildymas priedu
+### 8 straipsnis. Įstatymo papildymas priedu ^s-f47dd38cdd15abb05c3c83da
 
 
 Papildyti Įstatymą priedu:
@@ -264,14 +269,14 @@ Papildyti Įstatymą priedu:
 
 
 „Lietuvos Respublikos
-geriamojo vandens įstatymo
+[[latest/TAR.9893688FA176|geriamojo vandens įstatymo]]
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-1. 1998 m. lapkričio 3 d. Europos Tarybos direktyva 98/83/EB dėl žmonėms vartoti skirto vandens kokybės (OL 2004 m. specialusis leidimas, 15 skyrius 4 tomas, p. 32).“ ^6074c6bfaee9c4f6cfbfb067
+1. 1998 m. lapkričio 3 d. Europos Tarybos direktyva 98/83/EB dėl žmonėms vartoti skirto vandens kokybės (OL 2004 m. specialusis leidimas, 15 skyrius 4 tomas, p. 32).“ ^s-3bbd0cd03dc3941e9fe25901
 
 
 

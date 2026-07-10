@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.115FAEB36FAB"
 pavadinimas: "Lietuvos Respublikos fizinių asmenų bankroto įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos fizinių asmenų bankroto įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "fizinių asmenų bankroto įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-04-04"
 latest_path: "latest/TAR.115FAEB36FAB.md"
 latest_sha256: "874e1124ab30c7875e77f2234cf9f65b2bc405b59849a675fef44a3b20043715"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.115FAEB36FAB]]"
 ---
 # Lietuvos Respublikos fizinių asmenų bankroto įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.115FAEB36FAB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.115FAEB36FAB
+- Ryšiai: [[Ryšiai/TAR.115FAEB36FAB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-2b45d727a4abcea4e16a337a
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-d90b8ed95b28168e3f4a96e3
 
 
 Iki šio įstatymo įsigaliojimo pradėtos nagrinėti fizinių asmenų bankroto bylos baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis fizinių asmenų bankroto bylų nagrinėjimą reglamentuojančiomis nuostatomis.

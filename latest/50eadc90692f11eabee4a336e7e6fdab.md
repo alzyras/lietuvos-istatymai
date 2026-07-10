@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "50eadc90692f11eabee4a336e7e6fdab"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas"
+  - "Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2020-03-19"
 latest_path: "latest/50eadc90692f11eabee4a336e7e6fdab.md"
 latest_sha256: "e40edf2438ec242690aaa5d0efa9653eeb10c8808c0e5908bcb50f03c247fce1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/50eadc90692f11eabee4a336e7e6fdab]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/50eadc90692f11eabee4a336e7e6fdab.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/50eadc90692f11eabee4a336e7e6fdab
+- Ryšiai: [[Ryšiai/50eadc90692f11eabee4a336e7e6fdab|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 37 straipsnio pakeitimas
+### 1 straipsnis. 37 straipsnio pakeitimas ^s-9f67a070c40d665d00fff12c
 
 
 Papildyti 37 straipsnį 6 dalimi:
@@ -42,7 +47,7 @@ Papildyti 37 straipsnį 6 dalimi:
 
 
 
-### 2 straipsnis. 38 straipsnio pakeitimas
+### 2 straipsnis. 38 straipsnio pakeitimas ^s-969ce57b32c0972e57ebed9e
 
 
 Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -52,7 +57,7 @@ Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 42 straipsnio pakeitimas
+### 3 straipsnis. 42 straipsnio pakeitimas ^s-657fbc22b0e993817cf8cdcc
 
 
 Papildyti 42 straipsnį 3 dalimi:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E8405F224CE7"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo\" papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo\" papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-11-22"
 latest_path: "latest/TAR.E8405F224CE7.md"
 latest_sha256: "007eeefbc95ced1c7ad04a349136ee323d4f39391e99bff9b5e3832c63cfb1d9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E8405F224CE7]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo" papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E8405F224CE7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E8405F224CE7
+- Ryšiai: [[Ryšiai/TAR.E8405F224CE7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C74E834E3E58"
 pavadinimas: "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinės pensijos neišmokėtosios dalies išmokėjimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinės pensijos neišmokėtosios dalies išmokėjimo įstatymas"
+  - "vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinės pensijos neišmokėtosios dalies išmokėjimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-02-14"
 latest_path: "latest/TAR.C74E834E3E58.md"
 latest_sha256: "315dc5c09bf3163ba7afce4ac5c2cced53cd2b532eb75be39ed277184239b1d2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C74E834E3E58]]"
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinės pensijos neišmokėtosios dalies išmokėjimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C74E834E3E58.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C74E834E3E58
+- Ryšiai: [[Ryšiai/TAR.C74E834E3E58|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,98 +38,98 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-3e349f2fff7810378b19538c
 
 
 Šis įstatymas nustato vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinės pensijos (toliau – pensija) neišmokėtosios dalies išmokėjimo sąlygas ir tvarką.
 
 
 
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-26a25f871fd4e391943604e0
 
 
-1. Draudžiamosios pajamos – nurodytu laikotarpiu galiojusio Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio 2 dalyje išvardytos asmens pajamos, dėl kurių asmeniui buvo mokama ne visa paskirtoji pensija. ^e62ed815b4a4c6e319cfac8e
+1. Draudžiamosios pajamos – nurodytu laikotarpiu galiojusio Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio 2 dalyje išvardytos asmens pajamos, dėl kurių asmeniui buvo mokama ne visa paskirtoji pensija. ^s-5fb039d15297c9a12b042907
 
 
-2. Mokėtoji pensija – faktiškai mokėta pensija, kurios dydis pagal nurodytu laikotarpiu galiojusias Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo nuostatas buvo ribojamas dėl gautų draudžiamųjų pajamų. ^b22ca29351d82a8fe72c702d
+2. Mokėtoji pensija – faktiškai mokėta pensija, kurios dydis pagal nurodytu laikotarpiu galiojusias Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E|pareigūnų ir karių valstybinių pensijų įstatymo]] nuostatas buvo ribojamas dėl gautų draudžiamųjų pajamų. ^s-d2e676c813f35f9be563bbb9
 
 
-3. Neišmokėtoji pensijos dalis – paskirtosios ir mokėtosios pensijos dydžių skirtumas. ^f2b7951f88458a20517c86fd
+3. Neišmokėtoji pensijos dalis – paskirtosios ir mokėtosios pensijos dydžių skirtumas. ^s-fb251c95feee9a0fdf916ffc
 
 
-4. Paskirtoji pensija – asmeniui paskirta ir laikotarpiu nuo 2001 m. sausio 1 d. iki 2003 m. liepos 8 d. (imtinai) (toliau – nurodytas laikotarpis) galiojusio Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo nustatyta tvarka apskaičiuota pensija. ^102600f356af6cd1a7a5c9ac
-
-
-
-### 3 straipsnis. Asmenys, turintys teisę gauti neišmokėtą pensijos dalį
-
-
-1. Teisę gauti neišmokėtą pensijos dalį turi asmuo, kuris nurodytu laikotarpiu atitiko šias sąlygas: ^7c5e9ef7e8fd6a610bb1dc5d
-
-
-1) jam buvo mokama pensija ir ^06f14fc7f3286ef64df8a950
-
-
-2) nurodytą laikotarpį visą laiką arba atskirais laikotarpiais turėjo draudžiamųjų pajamų, dėl kurių mokėtoji pensija buvo mažesnė nei paskirtoji pensija. ^beb24e2a38592a0228c173d7
-
-
-2. Teisę gauti neišmokėtą pensijos dalį, priklausančią mirusiam asmeniui, kuris atitinka [[#^7c5e9ef7e8fd6a610bb1dc5d|šio straipsnio 1 dalyje]] nustatytas sąlygas (toliau – miręs asmuo), turi asmenys, kuriems paveldėjimo tvarka pereina mirusio asmens turtas. ^c45d3a101265592e41f6346e
+4. Paskirtoji pensija – asmeniui paskirta ir laikotarpiu nuo 2001 m. sausio 1 d. iki 2003 m. liepos 8 d. (imtinai) (toliau – nurodytas laikotarpis) galiojusio Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E|pareigūnų ir karių valstybinių pensijų įstatymo]] nustatyta tvarka apskaičiuota pensija. ^s-6a330fef7ef524dd712b2993
 
 
 
-### 4 straipsnis. Neišmokėtosios pensijos dalies apskaičiavimas
+### 3 straipsnis. Asmenys, turintys teisę gauti neišmokėtą pensijos dalį ^s-59564502299d9a73239e813e
+
+
+1. Teisę gauti neišmokėtą pensijos dalį turi asmuo, kuris nurodytu laikotarpiu atitiko šias sąlygas: ^s-0265c77d517aed5149b23be5
+
+
+1) jam buvo mokama pensija ir ^s-453c74d30c842341d3dc20e0
+
+
+2) nurodytą laikotarpį visą laiką arba atskirais laikotarpiais turėjo draudžiamųjų pajamų, dėl kurių mokėtoji pensija buvo mažesnė nei paskirtoji pensija. ^s-2cddc5740e9cbca8c642c729
+
+
+2. Teisę gauti neišmokėtą pensijos dalį, priklausančią mirusiam asmeniui, kuris atitinka [[#^s-0265c77d517aed5149b23be5|šio straipsnio 1 dalyje]] nustatytas sąlygas (toliau – miręs asmuo), turi asmenys, kuriems paveldėjimo tvarka pereina mirusio asmens turtas. ^s-fbdeae1d4490703d5496b89c
+
+
+
+### 4 straipsnis. Neišmokėtosios pensijos dalies apskaičiavimas ^s-28f24ab9de6b2ba50bd8c247
 
 
 Neišmokėtoji pensijos dalis apskaičiuojama nuo pensijos paskyrimo dienos iki šios pensijos mokėjimo pabaigos, bet ne anksčiau kaip nuo 2001 m. sausio 1 d. ir ne vėliau kaip iki 2003 m. liepos 8 d. (imtinai). Apskaičiuojant neišmokėtąją pensijos dalį taikomi atitinkamą mėnesį galioję dydžiai, pagal kuriuos buvo apskaičiuojama pensija.
 
 
 
-### 5 straipsnis. Neišmokėtosios pensijos dalies išmokėjimo finansavimo šaltiniai ir mokėtojai
+### 5 straipsnis. Neišmokėtosios pensijos dalies išmokėjimo finansavimo šaltiniai ir mokėtojai ^s-00a0300cba1ae63f961f6da0
 
 
-1. Neišmokėtajai pensijos daliai išmokėti reikalingos lėšos skiriamos iš valstybės biudžeto. ^98d4c4d8934877a0b933e7d5
+1. Neišmokėtajai pensijos daliai išmokėti reikalingos lėšos skiriamos iš valstybės biudžeto. ^s-c078f1326c38184ac5c7c5d1
 
 
-2. Neišmokėtąją pensijos dalį išmoka Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Generalinė prokuratūra ar Kalėjimų departamentas pagal tai, kuri iš šių institucijų nurodytu laikotarpiu šio įstatymo [[#^7c5e9ef7e8fd6a610bb1dc5d|3 straipsnio 1 dalyje]] nurodytiems asmenims mokėjo pensiją. ^fa08ab516d163fb110dda8b3
-
-
-
-### 6 straipsnis. Neišmokėtosios pensijos dalies išmokėjimo tvarka
-
-
-1. Neišmokėtoji pensijos dalis pradedama mokėti 2008 m. liepos 1 d. ir baigiama mokėti 2009 m. birželio 31 d. ^1bc2764d6f8d12f08f450097
-
-
-2. Neišmokėtoji pensijos dalis išmokama vienkartiniais mokėjimais, pervedant pinigus į jos gavėjo sąskaitą Lietuvos teritorijoje esančiame banke. ^ebcccad28fb2c653ae0846b1
-
-
-3. Neišmokėtoji pensijos dalis išmokama be atskiro prašymo, išskyrus [[#^a3fcce54215ba3833277872a|šio straipsnio 4 dalyje]] nurodytus atvejus. ^099f05dc74bb52566cf9edf0
-
-
-4. Šio įstatymo [[#^7c5e9ef7e8fd6a610bb1dc5d|3 straipsnio 1 dalyje]] nurodytiems asmenims, turintiems teisę gauti neišmokėtąją pensijos dalį ir negaunantiems jokios pareigūnų ir karių valstybinės pensijos, taip pat šio įstatymo [[#^c45d3a101265592e41f6346e|3 straipsnio 2 dalyje]] nurodytiems asmenims neišmokėtoji pensijos dalis Lietuvos Respublikos Vyriausybės nustatyta tvarka išmokama tik jiems pateikus prašymą išmokėti neišmokėtąją pensijos dalį. ^a3fcce54215ba3833277872a
-
-
-5. Prašymai išmokėti neišmokėtąją pensijos dalį turi būti pateikti iki 2008 m. gegužės 1 d. neišmokėtąją pensijos dalį mokančiai institucijai, kuri nurodytu laikotarpiu mokėjo pensiją asmeniui, atitinkančiam šio įstatymo [[#^7c5e9ef7e8fd6a610bb1dc5d|3 straipsnio 1 dalyje]] nustatytas sąlygas. Jei pensiją nurodytu laikotarpiu tokiam asmeniui mokėjo kelios institucijos, prašymai išmokėti neišmokėtąją pensijos dalį turi būti pateikti visoms pensiją mokėjusioms institucijoms. ^7cc17054cc8bd25af5bf9ea4
-
-
-6. Jei kreipėsi keli asmenys, pagal šio įstatymo [[#^c45d3a101265592e41f6346e|3 straipsnio 2 dalį]] turintys teisę gauti mirusiam asmeniui priklausančią neišmokėtąją pensijos dalį, neišmokėtoji pensijos dalis jiems išmokama lygiomis dalimis. ^b745f4f6fd9ed702425bc787
-
-
-7. Ginčai dėl neišmokėtosios pensijos dalies išmokėjimo asmenims, turintiems teisę ją gauti pagal šio įstatymo [[#^c45d3a101265592e41f6346e|3 straipsnio 2 dalį]], sprendžiami įstatymų nustatyta tvarka. ^0cd63e29aadab001c4bd1375
+2. Neišmokėtąją pensijos dalį išmoka Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Generalinė prokuratūra ar Kalėjimų departamentas pagal tai, kuri iš šių institucijų nurodytu laikotarpiu šio įstatymo [[#^s-0265c77d517aed5149b23be5|3 straipsnio 1 dalyje]] nurodytiems asmenims mokėjo pensiją. ^s-014da66a14abcdb80516dedf
 
 
 
-### 7 straipsnis. Neišmokėtosios pensijos dalies ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
+### 6 straipsnis. Neišmokėtosios pensijos dalies išmokėjimo tvarka ^s-e50b54845bd666fc073120d3
 
 
-1. Pagal šį įstatymą išmokama neišmokėtoji pensijos dalis neturi įtakos būsto šildymo išlaidų, išlaidų šaltam vandeniui bei nuotekoms ir išlaidų karštam vandeniui kompensacijoms, išskyrus atvejus, kai neišmokėtoji pensijos dalis, priklausanti mirusiam asmeniui, išmokama šio įstatymo [[#^c45d3a101265592e41f6346e|3 straipsnio 2 dalyje]] nurodytiems asmenims. ^0a8be1676dde6e0dd4c8603e
+1. Neišmokėtoji pensijos dalis pradedama mokėti 2008 m. liepos 1 d. ir baigiama mokėti 2009 m. birželio 31 d. ^s-37f147b8f284be0ea6c9e04e
 
 
-2. Neišmokėtąją pensijos dalį mokančių institucijų prašymu Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pateikia joms informaciją, reikalingą siekiant taikyti nurodytu laikotarpiu galiojusią Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies nuostatą. ^26dbbde203e20b063f85abcc
+2. Neišmokėtoji pensijos dalis išmokama vienkartiniais mokėjimais, pervedant pinigus į jos gavėjo sąskaitą Lietuvos teritorijoje esančiame banke. ^s-a1ebc1a3a8922b641598e9e9
+
+
+3. Neišmokėtoji pensijos dalis išmokama be atskiro prašymo, išskyrus [[#^s-5dc3b57486e6e426b9815d98|šio straipsnio 4 dalyje]] nurodytus atvejus. ^s-2ce4b38cc0793d6c0af40ae0
+
+
+4. Šio įstatymo [[#^s-0265c77d517aed5149b23be5|3 straipsnio 1 dalyje]] nurodytiems asmenims, turintiems teisę gauti neišmokėtąją pensijos dalį ir negaunantiems jokios pareigūnų ir karių valstybinės pensijos, taip pat šio įstatymo [[#^s-fbdeae1d4490703d5496b89c|3 straipsnio 2 dalyje]] nurodytiems asmenims neišmokėtoji pensijos dalis Lietuvos Respublikos Vyriausybės nustatyta tvarka išmokama tik jiems pateikus prašymą išmokėti neišmokėtąją pensijos dalį. ^s-5dc3b57486e6e426b9815d98
+
+
+5. Prašymai išmokėti neišmokėtąją pensijos dalį turi būti pateikti iki 2008 m. gegužės 1 d. neišmokėtąją pensijos dalį mokančiai institucijai, kuri nurodytu laikotarpiu mokėjo pensiją asmeniui, atitinkančiam šio įstatymo [[#^s-0265c77d517aed5149b23be5|3 straipsnio 1 dalyje]] nustatytas sąlygas. Jei pensiją nurodytu laikotarpiu tokiam asmeniui mokėjo kelios institucijos, prašymai išmokėti neišmokėtąją pensijos dalį turi būti pateikti visoms pensiją mokėjusioms institucijoms. ^s-9d2c22dda65a1835005782b7
+
+
+6. Jei kreipėsi keli asmenys, pagal šio įstatymo [[#^s-fbdeae1d4490703d5496b89c|3 straipsnio 2 dalį]] turintys teisę gauti mirusiam asmeniui priklausančią neišmokėtąją pensijos dalį, neišmokėtoji pensijos dalis jiems išmokama lygiomis dalimis. ^s-c0d5d43b94f40731248b34a6
+
+
+7. Ginčai dėl neišmokėtosios pensijos dalies išmokėjimo asmenims, turintiems teisę ją gauti pagal šio įstatymo [[#^s-fbdeae1d4490703d5496b89c|3 straipsnio 2 dalį]], sprendžiami įstatymų nustatyta tvarka. ^s-af273feb6dea704737181501
 
 
 
-### 8 straipsnis. Pasiūlymas Vyriausybei
+### 7 straipsnis. Neišmokėtosios pensijos dalies ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis ^s-b7d357046eca5250c9338936
+
+
+1. Pagal šį įstatymą išmokama neišmokėtoji pensijos dalis neturi įtakos būsto šildymo išlaidų, išlaidų šaltam vandeniui bei nuotekoms ir išlaidų karštam vandeniui kompensacijoms, išskyrus atvejus, kai neišmokėtoji pensijos dalis, priklausanti mirusiam asmeniui, išmokama šio įstatymo [[#^s-fbdeae1d4490703d5496b89c|3 straipsnio 2 dalyje]] nurodytiems asmenims. ^s-9c3aa2117bf6bd75950de1ec
+
+
+2. Neišmokėtąją pensijos dalį mokančių institucijų prašymu Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pateikia joms informaciją, reikalingą siekiant taikyti nurodytu laikotarpiu galiojusią Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies nuostatą. ^s-4b7925700fbac970e81127d5
+
+
+
+### 8 straipsnis. Pasiūlymas Vyriausybei ^s-03e519a21fe30fa4846f2450
 
 
 Vyriausybė iki 2008 m. liepos 1 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.

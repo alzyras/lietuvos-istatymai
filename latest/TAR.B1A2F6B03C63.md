@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B1A2F6B03C63"
 pavadinimas: "Lietuvos Respublikos tabako kontrolės įstatymo 11 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tabako kontrolės įstatymo 11 straipsnio papildymo įstatymas"
+  - "tabako kontrolės įstatymo 11 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-01"
 latest_path: "latest/TAR.B1A2F6B03C63.md"
 latest_sha256: "c4c1bb6becc25853c88a8266a10adb60c30f856aa4ff6ecb287ea585dc1a7255"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B1A2F6B03C63]]"
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 11 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B1A2F6B03C63.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B1A2F6B03C63
+- Ryšiai: [[Ryšiai/TAR.B1A2F6B03C63|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies papildymas 7 punktu
+### 1 straipsnis. 11 straipsnio 1 dalies papildymas 7 punktu ^s-319fe8a5dfbc5762e1044449
 
 
 Papildyti 11 straipsnio 1 dalį 7 punktu:
@@ -41,7 +46,7 @@ Papildyti 11 straipsnio 1 dalį 7 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-664a8d56dea785650349eb4d
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. liepos 1 d.

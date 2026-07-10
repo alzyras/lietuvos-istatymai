@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A99DFB1D7CB3"
 pavadinimas: "Lietuvos Respublikos fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ir paslaugas žemės ūkiui teikiančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms įstatymas"
+aliases:
+  - "Lietuvos Respublikos fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ir paslaugas žemės ūkiui teikiančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms įstatymas"
+  - "fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ir paslaugas žemės ūkiui teikiančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-04-12"
 latest_path: "latest/TAR.A99DFB1D7CB3.md"
 latest_sha256: "a8e6ab8310494aec470ef554f0cafc3cf9d1bfc1e495f1226125d9fed38e58ff"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A99DFB1D7CB3]]"
 ---
 # Lietuvos Respublikos fizinių asmenų pajamų mokesčio lengvatų žemės ūkio produkciją gaminančioms ir paslaugas žemės ūkiui teikiančioms ūkinėms bendrijoms ir individualioms (personalinėms) įmonėms įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A99DFB1D7CB3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A99DFB1D7CB3
+- Ryšiai: [[Ryšiai/TAR.A99DFB1D7CB3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Pajamų mokesčio lengvatos
+### 1 straipsnis. Pajamų mokesčio lengvatos ^s-76f47e993b80f2dcea812c49
 
 
 Atleisti nuo fizinių asmenų pajamų mokesčio žemės ūkio produkciją gaminančių ir paslaugas žemės ūkiui teikiančių ūkinių bendrijų, juridinio asmens teisių neturinčių individualių (personalinių) įmonių 1996 metais gautas pajamas, apmokestintinas pagal Fizinių asmenų pajamų mokesčio laikinojo įstatymo 24 straipsnyje nustatytus lengvatinius 5 ir 10 procentų pajamų mokesčio tarifus.

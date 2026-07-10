@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D69AABB8135A"
 pavadinimas: "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas"
+  - "žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-09-01"
 latest_path: "latest/TAR.D69AABB8135A.md"
 latest_sha256: "d1f76d6e99a8fa12e48a72b8093be0cbfe16cf0409513196dafedc451ec6df74"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D69AABB8135A]]"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D69AABB8135A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D69AABB8135A
+- Ryšiai: [[Ryšiai/TAR.D69AABB8135A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio papildymas 7 dalimi
+### 1 straipsnis. 29 straipsnio papildymas 7 dalimi ^s-d1d7893e849ba61725bec73e
 
 
 Papildyti 29 straipsnį 7 dalimi:
@@ -46,7 +51,7 @@ Papildyti 29 straipsnį 7 dalimi:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-bc52d9af20f2c9432757d224
 
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.

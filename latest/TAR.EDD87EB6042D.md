@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EDD87EB6042D"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.EDD87EB6042D.md"
 latest_sha256: "c3236c7c44fd798749ade8f484e0807702ef1c0f6bf4288579fbeb0f3e325f37"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EDD87EB6042D]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EDD87EB6042D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EDD87EB6042D
+- Ryšiai: [[Ryšiai/TAR.EDD87EB6042D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio papildymas 8 dalimi
+### 1 straipsnis. 7 straipsnio papildymas 8 dalimi ^s-9d51de5a868a37677a08cedd
 
 
 Papildyti 7 straipsnį 8 dalimi:

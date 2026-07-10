@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5AB311562E6C"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinės finansavimo sutarties 2001 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD) ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinės finansavimo sutarties 2001 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD) ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinės finansavimo sutarties 2001 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD) ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-10"
 latest_path: "latest/TAR.5AB311562E6C.md"
 latest_sha256: "b65a48148c1e928c3308aa5db74e82edda11dca1b1233ccaeb8b05f562053a24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5AB311562E6C]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinės finansavimo sutarties 2001 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD) ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5AB311562E6C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5AB311562E6C
+- Ryšiai: [[Ryšiai/TAR.5AB311562E6C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-95b9055cb1c7a05275ab6260
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. gegužės 30 d. dekretą Nr. 1792, ratifikuoja Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinę finansavimo sutartį 2001 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD), pasirašytą 2002 m. balandžio 29 d. Briuselyje ir Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. gegužės 30 d. dekretą Nr. 1792, ratifikuoja Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinę finansavimo sutartį 2001 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD), pasirašytą 2002 m. balandžio 29 d. Briuselyje ir Vilniuje.
 
 
 

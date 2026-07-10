@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A14C258694ED"
 pavadinimas: "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas"
+  - "mokslininkų valstybinių pensijų laikinasis įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-01-04"
 latest_path: "latest/TAR.A14C258694ED.md"
 latest_sha256: "0a5e590a8f30d59e8176741943dedee03e2f936b66d9304249d70ac2928da9ba"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A14C258694ED]]"
 ---
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A14C258694ED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED
+- Ryšiai: [[Ryšiai/TAR.A14C258694ED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Lietuvos Respublikos Seimas, atsižvelgdamas į tai, kad Lietuvoje nėra sukurta
 
 
 
-### 1 straipsnis. Teisė gauti mokslininkų valstybinę pensiją
+### 1 straipsnis. Teisė gauti mokslininkų valstybinę pensiją ^s-af310a101ce99ccbc4416098
 
 
 Teisę gauti mokslininkų valstybinę pensiją turi nuolat Lietuvos Respublikoje gyvenantys asmenys, kuriems įstatymų nustatyta tvarka Lietuvos Respublikoje yra suteiktas ar nostrifikuotas mokslo laipsnis arba pedagoginis mokslo vardas.
@@ -52,29 +57,29 @@ Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA
 
 
 
-### 2 straipsnis. Mokslininkų valstybinių pensijų mokėjimo šaltiniai
+### 2 straipsnis. Mokslininkų valstybinių pensijų mokėjimo šaltiniai ^s-7a1a1db2622830141b9df236
 
 
 Mokslininkų valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės biudžeto.
 
 
 
-### 3 straipsnis. Mokslininkų valstybinių pensijų skyrimo ir mokėjimo sąlygos
+### 3 straipsnis. Mokslininkų valstybinių pensijų skyrimo ir mokėjimo sąlygos ^s-585ab2aef1cd020b964305d0
 
 
-Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo [[#1 straipsnis. Teisė gauti mokslininkų valstybinę pensiją|1 straipsnyje]] nurodytiems asmenims, kurie:
+Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo [[#^s-af310a101ce99ccbc4416098|1 straipsnyje]] nurodytiems asmenims, kurie:
 
 
-1) sukako Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių arba yra pripažinti netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – I ar II grupės invalidais); ^a8f8dc5d8bed0fc059aef311
+1) sukako [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatyme]] nustatytą senatvės pensijos amžių arba yra pripažinti netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – I ar II grupės invalidais); ^s-33c8ac0d610739058f1b539b
 
 
-2) turi ne mažesnį kaip 10 metų daktaro stažą arba habilituoto daktaro stažą; ^97ef5f3950390dfe651755cc
+2) turi ne mažesnį kaip 10 metų daktaro stažą arba habilituoto daktaro stažą; ^s-f8b1a20d49bd6ec20a73b5b1
 
 
-3) nustojo dirbti mokslinį darbą Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose arba vykdydami iš valstybės biudžeto finansuojamas mokslo programas (toliau – mokslinis darbas). ^ebc705ae04de826b7453c090
+3) nustojo dirbti mokslinį darbą Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose arba vykdydami iš valstybės biudžeto finansuojamas mokslo programas (toliau – mokslinis darbas). ^s-95f45f77e27c1767c7927be6
 
 
-Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama, jeigu jie dirba mokslinį darbą. Apie tai, kad dirba mokslinį darbą, mokslininkų valstybinių pensijų gavėjai privalo pranešti jiems pensiją mokančiai įstaigai per 10 darbo dienų nuo tos dienos, kai jie pradėjo dirbti mokslinį darbą. Jeigu apie tai laiku nepranešama ir dėl to permokama mokslininkų valstybinė pensija arba paaiškėja, kad asmuo dirbo mokslinį darbą laikotarpiu, kuriuo jam buvo mokama mokslininkų valstybinė pensija, susidariusi mokslininkų valstybinės pensijos permokos suma išieškoma Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nustatyta tvarka.
+Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama, jeigu jie dirba mokslinį darbą. Apie tai, kad dirba mokslinį darbą, mokslininkų valstybinių pensijų gavėjai privalo pranešti jiems pensiją mokančiai įstaigai per 10 darbo dienų nuo tos dienos, kai jie pradėjo dirbti mokslinį darbą. Jeigu apie tai laiku nepranešama ir dėl to permokama mokslininkų valstybinė pensija arba paaiškėja, kad asmuo dirbo mokslinį darbą laikotarpiu, kuriuo jam buvo mokama mokslininkų valstybinė pensija, susidariusi mokslininkų valstybinės pensijos permokos suma išieškoma [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]] nustatyta tvarka.
 
 
 Mokslininkų valstybinė pensija neskiriama, o paskirtosios skyrimas ir mokėjimas panaikinamas asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą.
@@ -86,7 +91,7 @@ Nr. XIV-216, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06554
 
 
 
-### 4 straipsnis. Daktaro stažas ir habilituoto daktaro stažas
+### 4 straipsnis. Daktaro stažas ir habilituoto daktaro stažas ^s-8c7041768ad98afa9182f164
 
 
 Daktaro stažą arba habilituoto daktaro stažą sudaro asmens mokslinio darbo laikas atitinkamai nuo daktaro laipsnio arba habilituoto daktaro laipsnio suteikimo dienos.
@@ -106,7 +111,7 @@ Nr. XIV-216, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06554
 
 
 
-### 5 straipsnis. Mokslininkų valstybinės pensijos dydis
+### 5 straipsnis. Mokslininkų valstybinės pensijos dydis ^s-3e71fa7d8a5220850a94bd6b
 
 
 Už kiekvienus visus daktaro stažo metus kiekvieną mėnesį mokama 10 procentų to mėnesio valstybinių pensijų bazės. Už kiekvienus visus habilituoto daktaro stažo metus kiekvieną mėnesį papildomai mokama 5 procentai to mėnesio valstybinių pensijų bazės.
@@ -117,10 +122,10 @@ Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. [[latest/
 
 
 
-### 6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas
+### 6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas ^s-c2f1dc180e5dca78600bb63d
 
 
-Mokslininkų valstybines pensijas skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos, vadovaudamosi šiuo įstatymu, Socialinio draudimo pensijų įstatymu ir socialinės apsaugos ir darbo ministro patvirtintais Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatais tiek, kiek mokslininkų valstybinių pensijų skyrimo ir mokėjimo nereguliuoja šis įstatymas pagal valstybinių mokslo ir studijų institucijų ir Lietuvos Respublikos mokslinio darbo stažo nustatymo komisijos prie Švietimo, mokslo ir sporto ministerijos (toliau – Komisija) išduotus dokumentus.
+Mokslininkų valstybines pensijas skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos, vadovaudamosi šiuo įstatymu, [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatymu]] ir socialinės apsaugos ir darbo ministro patvirtintais Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatais tiek, kiek mokslininkų valstybinių pensijų skyrimo ir mokėjimo nereguliuoja šis įstatymas pagal valstybinių mokslo ir studijų institucijų ir Lietuvos Respublikos mokslinio darbo stažo nustatymo komisijos prie Švietimo, mokslo ir sporto ministerijos (toliau – Komisija) išduotus dokumentus.
 
 
 Valstybinių mokslo ir studijų institucijų, kuriose dirbusio mokslininko mokslinio darbo laikas įskaitomas į daktaro stažą arba habilituoto daktaro stažą, ir mokslinių pareigų, kurias einant laikoma, kad asmuo dirbo mokslinį darbą, sąrašus tvirtina švietimo, mokslo ir sporto ministras.
@@ -142,16 +147,16 @@ Nr. XIV-216, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06554
 
 
 
-### 7 straipsnis. Nuostatos dėl įstatymo įsigaliojimo
+### 7 straipsnis. Nuostatos dėl įstatymo įsigaliojimo ^s-38f4d06e8c5c35b4c07ffe1d
 
 
 Mokslininkų valstybinės pensijos pagal šį įstatymą pradedamos skirti nuo 1995 metų sausio 1 dienos. Mokslininkų rentų skyrimas ir mokėjimas nuo šios dienos nutraukiamas.
 
 
-Iki 1995 metų sausio 1 dienos mokslininkams paskirtos pensijos perskaičiuojamos Valstybinių socialinio draudimo pensijų įstatyme nustatyta tvarka ir terminais.
+Iki 1995 metų sausio 1 dienos mokslininkams paskirtos pensijos perskaičiuojamos [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]] nustatyta tvarka ir terminais.
 
 
-Jei asmeniui iki šio įstatymo įsigaliojimo paskirta mokslininkų renta yra didesnė už šio įstatymo [[#5 straipsnis. Mokslininkų valstybinės pensijos dydis|5 straipsnyje]] nustatyto dydžio mokslininkų valstybinę pensiją, tai jam mokama 1994 metų gruodžio mėnesio rentos dydžio mokslininkų valstybinė pensija. Ši pensija neindeksuojama ir niekaip kitaip nedidinama, kol susilygina su šio įstatymo [[#5 straipsnis. Mokslininkų valstybinės pensijos dydis|5 straipsnyje]] nustatyta tam asmeniui skirtina mokslininkų valstybine pensija. Nuo šio laiko mokslininkų valstybinė pensija skaičiuojama pagal šio įstatymo [[#5 straipsnis. Mokslininkų valstybinės pensijos dydis|5 straipsnį]].
+Jei asmeniui iki šio įstatymo įsigaliojimo paskirta mokslininkų renta yra didesnė už šio įstatymo [[#^s-3e71fa7d8a5220850a94bd6b|5 straipsnyje]] nustatyto dydžio mokslininkų valstybinę pensiją, tai jam mokama 1994 metų gruodžio mėnesio rentos dydžio mokslininkų valstybinė pensija. Ši pensija neindeksuojama ir niekaip kitaip nedidinama, kol susilygina su šio įstatymo [[#^s-3e71fa7d8a5220850a94bd6b|5 straipsnyje]] nustatyta tam asmeniui skirtina mokslininkų valstybine pensija. Nuo šio laiko mokslininkų valstybinė pensija skaičiuojama pagal šio įstatymo [[#^s-3e71fa7d8a5220850a94bd6b|5 straipsnį]].
 
 
 
@@ -172,42 +177,42 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. [[latest/TAR.07CBDBA753E8|0981010ISTAVIII-909]]
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, [[#6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas|6 straipsnių]] papildymo ir pakeitimo įstatymas
+[[latest/TAR.07CBDBA753E8|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-920, 2002-05-30, Žin., 2002, Nr. 60-2414 (2002-06-19), i. k. [[latest/TAR.AD895F695DF8|1021010ISTA00IX-920]]
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo [[#3 straipsnis. Mokslininkų valstybinių pensijų skyrimo ir mokėjimo sąlygos|3 straipsnio]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.AD895F695DF8|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
-Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Šalpos (socialinių) pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo pakeitimo ir papildymo įstatymas
+[[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymo]] įgyvendinimo įstatymo, [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]], Šalpos (socialinių) pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymo]] pakeitimo ir papildymo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2217, 2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14), i. k. [[latest/TAR.82E05B742DCD|1041010ISTA0IX-2217]]
-Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinių šalpos išmokų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
+[[latest/TAR.82E05B742DCD|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinių šalpos išmokų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas]]
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. [[latest/TAR.E6D37876A57F|1041010ISTA0IX-2539]]
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
+[[latest/TAR.E6D37876A57F|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas]]
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. [[latest/TAR.8D1E439FB91A|1051010ISTA000X-208]]
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
+[[latest/TAR.8D1E439FB91A|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas]]
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-669, 2006-06-08, Žin., 2006, Nr. 72-2685 (2006-06-28), i. k. [[latest/TAR.D2F38ADDD95A|1061010ISTA000X-669]]
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo [[#3 straipsnis. Mokslininkų valstybinių pensijų skyrimo ir mokėjimo sąlygos|3 straipsnio]] pakeitimo įstatymas
+[[latest/TAR.D2F38ADDD95A|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo įstatymas]]
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2517, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20652
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 [[#3 straipsnis. Mokslininkų valstybinių pensijų skyrimo ir mokėjimo sąlygos|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 [[#^s-585ab2aef1cd020b964305d0|3 straipsnio]] pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
@@ -217,4 +222,4 @@ Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-216, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06554
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 3, 4 ir [[#6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 3, 4 ir [[#^s-c2f1dc180e5dca78600bb63d|6 straipsnių]] pakeitimo įstatymas

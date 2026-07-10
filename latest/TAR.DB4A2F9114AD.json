@@ -11,7 +11,7 @@
   "latest_revision": "1995-02-24",
   "latest_sha256": "74a6411d746594ab74d40bbcb2a28e13b01c85d9c5c5b741a6f68f9ad25f9d5d",
   "metadata_path": "latest/TAR.DB4A2F9114AD.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

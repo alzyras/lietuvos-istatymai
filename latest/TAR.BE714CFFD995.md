@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BE714CFFD995"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2009 metais, įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2009 metais, įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2009 metais, įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-31"
 latest_path: "latest/TAR.BE714CFFD995.md"
 latest_sha256: "60ed749cd908cdcd897af25a89ded0141de4aaefd47e901f5e8699a67e811e55"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BE714CFFD995]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2009 metais, įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BE714CFFD995.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BE714CFFD995
+- Ryšiai: [[Ryšiai/TAR.BE714CFFD995|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-47421222a2b6076000fa9aec
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:

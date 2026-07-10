@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.99FE2EE4EEF1"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 2, 4, 6, 9 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 2, 4, 6, 9 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 2, 4, 6, 9 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-11-03"
 latest_path: "latest/TAR.99FE2EE4EEF1.md"
 latest_sha256: "96cba4ab2f116f3a3836f4b8a1a46a42fcafb3b40bec9b51cad3adeaa818456e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.99FE2EE4EEF1]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 2, 4, 6, 9 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.99FE2EE4EEF1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.99FE2EE4EEF1
+- Ryšiai: [[Ryšiai/TAR.99FE2EE4EEF1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas 22 dalimi
+### 1 straipsnis. 2 straipsnio papildymas 22 dalimi ^s-6bba0675dd4cb10170fceaa4
 
 
 Papildyti 2 straipsnį 22 dalimi:
@@ -45,7 +50,7 @@ Papildyti 2 straipsnį 22 dalimi:
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas ^s-b493016d8a02537bde540a9c
 
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-1e58ccdc0424484bc070add4
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -64,20 +69,20 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Fondo biudžeto išlaidos kitiems biudžetiniams metams planuojamos:
 
 
-1) atskiroms socialinio draudimo rūšims – atsižvelgiant į šalies ekonominės raidos scenarijų, demografinius rodiklius, kitiems biudžetiniams metams numatomus įmokų tarifus atskiroms socialinio draudimo rūšims, taip pat draudžiamųjų pajamų bazės, savarankiškai dirbančių ar savanoriškuoju socialiniu draudimu apsidraudusių asmenų socialiniam draudimui deklaruotų pajamų sumų, apdraustųjų ir socialinio draudimo išmokų gavėjų skaičiaus kitimą per paskutinius dvejus metus; ^19a941da90e6093238d33aa0
+1) atskiroms socialinio draudimo rūšims – atsižvelgiant į šalies ekonominės raidos scenarijų, demografinius rodiklius, kitiems biudžetiniams metams numatomus įmokų tarifus atskiroms socialinio draudimo rūšims, taip pat draudžiamųjų pajamų bazės, savarankiškai dirbančių ar savanoriškuoju socialiniu draudimu apsidraudusių asmenų socialiniam draudimui deklaruotų pajamų sumų, apdraustųjų ir socialinio draudimo išmokų gavėjų skaičiaus kitimą per paskutinius dvejus metus; ^s-a4f89d095cf087a10ea9c393
 
 
-2) lėšos, pervedamos į pensijų fondus, – atsižvelgiant į šalies ekonominės raidos scenarijų, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais biudžetiniais metais, skaičių; ^ce206ca0065454069176e71b
+2) lėšos, pervedamos į pensijų fondus, – atsižvelgiant į šalies ekonominės raidos scenarijų, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais biudžetiniais metais, skaičių; ^s-8f6ff12dd3e15688eba482ba
 
 
-3) neatgautinos ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per paskutinius dvejus metus; ^57080d614a7d1e5fce4b8ada
+3) neatgautinos ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per paskutinius dvejus metus; ^s-0cbd222d4a9d09d4b0a1f18d
 
 
-4) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas.“ ^cfbb40bc2be3afee3a78ef81
+4) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas.“ ^s-5334dac33e2948c5124d9f1f
 
 
 
-### 4 straipsnis. 9 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 9 straipsnio 2 dalies pakeitimas ^s-d8738df8b9f194490f9a1d1f
 
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:

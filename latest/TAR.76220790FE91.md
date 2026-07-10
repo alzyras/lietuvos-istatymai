@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.76220790FE91"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas"
+  - "Vyriausybės ir Italijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-17"
 latest_path: "latest/TAR.76220790FE91.md"
 latest_sha256: "4598fe7faa5e4f5db4c7f60601398b7ef51bce559a21930ac81e093abf92384f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.76220790FE91]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.76220790FE91.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.76220790FE91
+- Ryšiai: [[Ryšiai/TAR.76220790FE91|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-aa2cf43201952cd48ba38d0a
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje, pasirašytą 1999 m. kovo 27 d. Venecijoje.

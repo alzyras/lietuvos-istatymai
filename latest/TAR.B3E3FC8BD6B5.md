@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B3E3FC8BD6B5"
 pavadinimas: "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "cheminių medžiagų ir preparatų įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-01"
 latest_path: "latest/TAR.B3E3FC8BD6B5.md"
 latest_sha256: "0dfa9e5a236cdf33c37524adcde1fc5793e7c97c5f7baddc9cb2fb6d7a86a4f6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B3E3FC8BD6B5]]"
 ---
 # Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B3E3FC8BD6B5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B3E3FC8BD6B5
+- Ryšiai: [[Ryšiai/TAR.B3E3FC8BD6B5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio pakeitimas
+### 1 straipsnis. 19 straipsnio pakeitimas ^s-6f9a38455e1158fcd0e4f872
 
 
 19 straipsnyje vietoj žodžių „Narkotikų kontrolės departamentas prie Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šį straipsnį išdėstyti taip:
@@ -47,14 +52,14 @@ Cheminių medžiagų ir preparatų tvarkymo valstybinę kontrolę vykdo Sveikato
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-47fae6437ea3aaf1c5bec24b
 
 
-Šis įstatymas, išskyrus [[#3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|3 straipsnį]], įsigalioja 2011 m. balandžio 1 d.
+Šis įstatymas, išskyrus [[#^s-5885d2a55ec06cca84229a2c|3 straipsnį]], įsigalioja 2011 m. balandžio 1 d.
 
 
 
-### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-5885d2a55ec06cca84229a2c
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2011 m. kovo 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.

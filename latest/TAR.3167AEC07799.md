@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3167AEC07799"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)\" pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)\" pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-30"
 latest_path: "latest/TAR.3167AEC07799.md"
 latest_sha256: "9e3b1a688c7e919b63aaee53c87ba56cef41a03f66263b986fea599e359ef9fa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3167AEC07799]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)" pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3167AEC07799.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3167AEC07799
+- Ryšiai: [[Ryšiai/TAR.3167AEC07799|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

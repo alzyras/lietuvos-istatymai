@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.859D858A2ABC"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės herbo\" 2, 4 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl Lietuvos valstybės herbo\" 2, 4 straipsnių pakeitimo ir papildymo įstatymas"
+  - "įstatymo \"Dėl Lietuvos valstybės herbo\" 2, 4 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-30"
 latest_path: "latest/TAR.859D858A2ABC.md"
 latest_sha256: "15c587dc18f482356750fa4691b132fa765d0d44662ebc669a35165ae5d649f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.859D858A2ABC]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės herbo" 2, 4 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.859D858A2ABC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.859D858A2ABC
+- Ryšiai: [[Ryšiai/TAR.859D858A2ABC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,62 +36,62 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-9826ca7f3772839d750bdbc5
 
 
 Pakeisti bei papildyti 2 straipsnio 1 dalį ir visą straipsnį išdėstyti taip:
 
 
-„[[#2 straipsnis. 4 straipsnio pakeitimas|2 straipsnis]]. Antspaudais, dokumentų blankais, leidinių viršeliais, tituliniais lapais su Lietuvos valstybės herbu turi teisę naudotis:
+„[[#^s-e49c50e5926be566a22e0a74|2 straipsnis]]. Antspaudais, dokumentų blankais, leidinių viršeliais, tituliniais lapais su Lietuvos valstybės herbu turi teisę naudotis:
 
 
-1) Lietuvos Respublikos Seimas ir institucijos prie jo, Lietuvos Respublikos Seimo kontrolierių įstaiga; ^92745bc405d9ce24ce350fc5
+1) Lietuvos Respublikos Seimas ir institucijos prie jo, Lietuvos Respublikos Seimo kontrolierių įstaiga; ^s-afc19b1b0541043605058a39
 
 
-2) Respublikos Prezidentas; ^5349a80989ebdfef3909512b
+2) Respublikos Prezidentas; ^s-d5d79d555d92eb1393fd00f9
 
 
-3) Lietuvos Respublikos Vyriausybė ir jos įstaigos, apskričių viršininkų administracijos; ^158f993ef46021985df9b969
+3) Lietuvos Respublikos Vyriausybė ir jos įstaigos, apskričių viršininkų administracijos; ^s-3f99bdeb3e94f9e092b02882
 
 
-4) Lietuvos Respublikos ministerijos, įstaigos prie ministerijų; ^0c66a9a976711bba734d3eb8
+4) Lietuvos Respublikos ministerijos, įstaigos prie ministerijų; ^s-4f139df4227cb5a80d5f95de
 
 
-5) Lietuvos Respublikos Konstitucinis Teismas; ^c3c025afaa31bb1e2d36a1b5
+5) Lietuvos Respublikos Konstitucinis Teismas; ^s-ac4186aeda667635be67fcdf
 
 
-6) Lietuvos Respublikos teismai, Nacionalinė teismų administracija; ^c063795f4e46bb41346c4c85
+6) Lietuvos Respublikos teismai, Nacionalinė teismų administracija; ^s-92573bdf610e8f2e496b61cf
 
 
-7) Lietuvos Respublikos generalinė prokuratūra, teritorinės prokuratūros, Lietuvos Respublikos valstybės saugumo departamentas, jo teritorinės įstaigos ir specialios paskirties įstaigos prie Lietuvos Respublikos valstybės saugumo departamento, Lietuvos Respublikos specialiųjų tyrimų tarnyba ir jos teritoriniai padaliniai, teritorinės ir specializuotos policijos įstaigos; ^e31c804aa96a66bfa9eba8f6
+7) Lietuvos Respublikos generalinė prokuratūra, teritorinės prokuratūros, Lietuvos Respublikos valstybės saugumo departamentas, jo teritorinės įstaigos ir specialios paskirties įstaigos prie Lietuvos Respublikos valstybės saugumo departamento, Lietuvos Respublikos specialiųjų tyrimų tarnyba ir jos teritoriniai padaliniai, teritorinės ir specializuotos policijos įstaigos; ^s-64a36f58425695ccf60e35a2
 
 
-8) savivaldybių, kurios neturi nustatyta tvarka patvirtinto savo herbo, institucijos ir įstaigos, savivaldybių administracijos padaliniai, įgyvendinantys valstybines (perduotas savivaldybėms) funkcijas; ^6e03c3b503edbca78e83f4e1
+8) savivaldybių, kurios neturi nustatyta tvarka patvirtinto savo herbo, institucijos ir įstaigos, savivaldybių administracijos padaliniai, įgyvendinantys valstybines (perduotas savivaldybėms) funkcijas; ^s-cc3ccc14f8d56edd3e7ff791
 
 
-9) Valstybės kontrolė; ^d34d7411adba9dbc7e2630ba
+9) Valstybės kontrolė; ^s-55d7c2de09912afb46e4b4d7
 
 
-10) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos; ^3fe3f0ed266d24ad59368280
+10) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos; ^s-cdc40f2e53c33ff19e741bf2
 
 
-11) valstybinės mokslo, tyrimo ir studijų institucijos, valstybinės švietimo įstaigos; ^ff070ea40c132e5dee8d058e
+11) valstybinės mokslo, tyrimo ir studijų institucijos, valstybinės švietimo įstaigos; ^s-3be9557d5637c86dcf3f8795
 
 
-12) Lietuvos bankas; ^fd3d0a15b527355a43be74c4
+12) Lietuvos bankas; ^s-9b775734bc7695f12ba36d8c
 
 
-13) antstoliai, notarai; ^867c59a836898bd38a9f7949
+13) antstoliai, notarai; ^s-f6dae89c2f1585d40b705118
 
 
-14) seniūnai įstatymų nustatyta tvarka atlikdami notarinius veiksmus ir tvirtindami oficialiesiems testamentams prilyginamus testamentus, kaimo gyvenamųjų vietovių bei miestų, kuriuose nėra civilinės metrikacijos įstaigų, seniūnijų (išskyrus savivaldybių centrų seniūnijas) seniūnai registruodami mirtis. ^088e4912d69c6c1f73c1f7f6
+14) seniūnai įstatymų nustatyta tvarka atlikdami notarinius veiksmus ir tvirtindami oficialiesiems testamentams prilyginamus testamentus, kaimo gyvenamųjų vietovių bei miestų, kuriuose nėra civilinės metrikacijos įstaigų, seniūnijų (išskyrus savivaldybių centrų seniūnijas) seniūnai registruodami mirtis. ^s-d878742987c931cdfb672791
 
 
 Antspauduose raitelis (valstybės herbo elementas) vaizduojamas ne herbinio skydo lauke.“
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-e49c50e5926be566a22e0a74
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:

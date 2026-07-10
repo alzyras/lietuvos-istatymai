@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EB15E11ED8DF"
 pavadinimas: "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-15"
 latest_path: "latest/TAR.EB15E11ED8DF.md"
 latest_sha256: "290a93045dd17238a94947664381a7efab219c346ef13b408aec65e38b28d43e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EB15E11ED8DF]]"
 ---
 # Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EB15E11ED8DF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EB15E11ED8DF
+- Ryšiai: [[Ryšiai/TAR.EB15E11ED8DF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas ^s-e08d60d18d9fdc8fcec9ff4c
 
 
 16 straipsnio 1 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:

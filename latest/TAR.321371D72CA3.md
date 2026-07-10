@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.321371D72CA3"
 pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 26, 41(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės įstatymo 26, 41(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas"
+  - "Vyriausybės įstatymo 26, 41(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-02-11"
 latest_path: "latest/TAR.321371D72CA3.md"
 latest_sha256: "76b2b76d08d6301e95416246c632438aa4dd06627185ac8066969e5884b393c2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.321371D72CA3]]"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 26, 41(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.321371D72CA3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.321371D72CA3
+- Ryšiai: [[Ryšiai/TAR.321371D72CA3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 3 dalies 5 punkto pakeitimas
+### 1 straipsnis. 26 straipsnio 3 dalies 5 punkto pakeitimas ^s-7a6d1860b4cf1ec2cda4cd89
 
 
 Pakeisti 26 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 26 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 411 straipsnio papildymas 4 dalimi
+### 2 straipsnis. 411 straipsnio papildymas 4 dalimi ^s-e2e089f5efe1c7eb3dc6011f
 
 
 Papildyti 411 straipsnį 4 dalimi:
@@ -51,7 +56,7 @@ Papildyti 411 straipsnį 4 dalimi:
 
 
 
-### 3 straipsnis. 43 straipsnio 2 dalies papildymas
+### 3 straipsnis. 43 straipsnio 2 dalies papildymas ^s-be8d63026bd572b1fa96b5ef
 
 
 Papildyti 43 straipsnio 2 dalį antru sakiniu ir ją išdėstyti taip:
@@ -61,7 +66,7 @@ Papildyti 43 straipsnio 2 dalį antru sakiniu ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 45 straipsnio 2 dalies 3 punkto pakeitimas
+### 4 straipsnis. 45 straipsnio 2 dalies 3 punkto pakeitimas ^s-ab37c51adcd6148dec7f5ab6
 
 
 Pakeisti 45 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:

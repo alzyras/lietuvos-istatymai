@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7B129066B410"
 pavadinimas: "Lietuvos Respublikos kelių transporto kodekso ketvirtojo skirsnio pavadinimo ir 15 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių transporto kodekso ketvirtojo skirsnio pavadinimo ir 15 straipsnio pakeitimo įstatymas"
+  - "kelių transporto kodekso ketvirtojo skirsnio pavadinimo ir 15 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.7B129066B410.md"
 latest_sha256: "c9d5d7cd02f59da50684256ffbd6777ec3478cb60c779bc7c7a77d9ef95ab9bc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7B129066B410]]"
 ---
 # Lietuvos Respublikos kelių transporto kodekso ketvirtojo skirsnio pavadinimo ir 15 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7B129066B410.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7B129066B410
+- Ryšiai: [[Ryšiai/TAR.7B129066B410|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Ketvirtojo skirsnio pavadinimo pakeitimas
+### 1 straipsnis. Ketvirtojo skirsnio pavadinimo pakeitimas ^s-37d03d0fb0ff7ed9a0e521dc
 
 
 Pakeisti ketvirtojo skirsnio pavadinimą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti ketvirtojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 15 straipsnio pakeitimas
+### 2 straipsnis. 15 straipsnio pakeitimas ^s-b1725222c0e7c3f0fbefc704
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:

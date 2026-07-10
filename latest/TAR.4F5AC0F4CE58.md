@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F5AC0F4CE58"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.4F5AC0F4CE58.md"
 latest_sha256: "ed7c1dad0b6b840b49f9abc4ca5827a8fc77345acc867f21323c57a2e84a0857"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F5AC0F4CE58]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F5AC0F4CE58.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F5AC0F4CE58
+- Ryšiai: [[Ryšiai/TAR.4F5AC0F4CE58|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 5 dalies pakeitimas ^s-c3521a5371d31f772bb2459f
 
 
 Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-b9828a11e6378fb0a3b708d4
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

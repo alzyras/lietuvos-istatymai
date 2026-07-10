@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A3A5B30C1A4A"
 pavadinimas: "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "indėlių ir įsipareigojimų investuotojams draudimo įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-01"
 latest_path: "latest/TAR.A3A5B30C1A4A.md"
 latest_sha256: "763835855fe068eab7006253000619f0e947aa6ff6f9b325dd494cfb5f64ec7a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A3A5B30C1A4A]]"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A3A5B30C1A4A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A3A5B30C1A4A
+- Ryšiai: [[Ryšiai/TAR.A3A5B30C1A4A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-29ae28c33bc3ad64f0a3cd89
 
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:

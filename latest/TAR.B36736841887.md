@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B36736841887"
 pavadinimas: "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+  - "2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-04-24"
 latest_path: "latest/TAR.B36736841887.md"
 latest_sha256: "aa7a5210800be7d46b2832c1f74037d924859d2c9b3d8b812c8455ae6b343747"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B36736841887]]"
 ---
 # Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B36736841887.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B36736841887
+- Ryšiai: [[Ryšiai/TAR.B36736841887|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. Įstatymo 2 straipsnio 2 dalies pakeitimas ^s-f491e2425cc1542d3f2fa6c4
 
 
 2 straipsnio 2 dalyje vietoj skaičių „1945357“ ir „35260“ įrašyti skaičius „1997382“ ir „35754“ ir šį straipsnį išdėstyti taip:
@@ -42,49 +47,49 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo 3 straipsnio papildymas
+### 2 straipsnis. Įstatymo 3 straipsnio papildymas ^s-4ea5ed92624b0a7a6ab1100a
 
 
-[[#3 straipsnis. Įstatymo 5 straipsnio papildymas|3 straipsnyje]] po žodžių „Nustatyti, kad“ įrašyti žodžius „planuojant ir vykdant biudžetą“, po žodžio „finansuoti“ įrašyti žodžius „pirmiausia – įsiskolinimams dengti“ ir šį straipsnį išdėstyti taip:
+[[#^s-12dc4737ce0ea1f340d53276|3 straipsnyje]] po žodžių „Nustatyti, kad“ įrašyti žodžius „planuojant ir vykdant biudžetą“, po žodžio „finansuoti“ įrašyti žodžius „pirmiausia – įsiskolinimams dengti“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. Įstatymo 5 straipsnio papildymas|3 straipsnis]].       Specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti naudojimas
+„[[#^s-12dc4737ce0ea1f340d53276|3 straipsnis]].       Specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti naudojimas
 
 
 Nustatyti, kad planuojant ir vykdant biudžetą nepanaudotos specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti sumos gali būti naudojamos bendroms savivaldybių biudžetų reikmėms finansuoti, pirmiausia – įsiskolinimams dengti.“
 
 
 
-### 3 straipsnis. Įstatymo 5 straipsnio papildymas
+### 3 straipsnis. Įstatymo 5 straipsnio papildymas ^s-12dc4737ce0ea1f340d53276
 
 
-[[#5 straipsnis. Įstatymo 1 priedėlio dalies „Asignavimai“ pakeitimas|5 straipsnyje]] po žodžių „Nustatyti, kad“ įrašyti žodžius „planuojant ir vykdant biudžetą“, po žodžio „finansuoti“ įrašyti žodžius „pirmiausia – įsiskolinimams dengti“ ir šį straipsnį išdėstyti taip:
+[[#^s-b7a25daef942c676796112ce|5 straipsnyje]] po žodžių „Nustatyti, kad“ įrašyti žodžius „planuojant ir vykdant biudžetą“, po žodžio „finansuoti“ įrašyti žodžius „pirmiausia – įsiskolinimams dengti“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#5 straipsnis. Įstatymo 1 priedėlio dalies „Asignavimai“ pakeitimas|5 straipsnis]]. Specialios tikslinės dotacijos moksleivio krepšeliui finansuoti naudojimas
+„[[#^s-b7a25daef942c676796112ce|5 straipsnis]]. Specialios tikslinės dotacijos moksleivio krepšeliui finansuoti naudojimas
 
 
 Nustatyti, kad planuojant ir vykdant biudžetą nepanaudotos specialios tikslinės dotacijos moksleivio krepšeliui finansuoti sumos gali būti naudojamos kitoms savivaldybių švietimo reikmėms finansuoti, pirmiausia – įsiskolinimams dengti.“
 
 
 
-### 4 straipsnis. Įstatymo 13 straipsnio papildymas
+### 4 straipsnis. Įstatymo 13 straipsnio papildymas ^s-b93729ee028272522b5dbb97
 
 
 Papildyti 13 straipsnį 9 punktu:
 
 
-„9) papildoma speciali tikslinė dotacija pagal Vietos savivaldos įstatymo [[#8 straipsnis. Įstatymo 10 priedėlio pakeitimas|8 straipsnio]] 22, 23, 24, 25, 26, 27, 28 ir 29 punktuose nurodytas perduodamas funkcijas savivaldybėms pervedama atsižvelgiant į apskričių viršininkų administracijų faktines išlaidas, padarytas iki šių funkcijų perdavimo savivaldybėms.“
+„9) papildoma speciali tikslinė dotacija pagal [[latest/TAR.D0CD0966D67F#^s-15fb4213dd03970ceda76daa|Vietos savivaldos įstatymo 8 straipsnio]] 22, 23, 24, 25, 26, 27, 28 ir 29 punktuose nurodytas perduodamas funkcijas savivaldybėms pervedama atsižvelgiant į apskričių viršininkų administracijų faktines išlaidas, padarytas iki šių funkcijų perdavimo savivaldybėms.“
 
 
 
-### 5 straipsnis. Įstatymo 1 priedėlio dalies „Asignavimai“ pakeitimas
+### 5 straipsnis. Įstatymo 1 priedėlio dalies „Asignavimai“ pakeitimas ^s-b7a25daef942c676796112ce
 
 
 Įstatymo 1 priedėlio dalyje „Asignavimai“:
 
 
-1) vietoj eilutės „Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo 3288  3288  1952“ įrašyti eilutę „Valstybinė lietuvių kalbos komisija 3078  3078  1803“, eilutėje „Vyriausioji tarnybinės etikos komisija“ vietoj skaičiaus „300“ įrašyti skaičių „360“, papildyti eilute „Lietuvos Respublikos konkurencijos taryba  2541   2211   1485   330“ ir šias eilutes išdėstyti taip: ^bbe32a45555b672be5d313ed
+1) vietoj eilutės „Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo 3288  3288  1952“ įrašyti eilutę „Valstybinė lietuvių kalbos komisija 3078  3078  1803“, eilutėje „Vyriausioji tarnybinės etikos komisija“ vietoj skaičiaus „300“ įrašyti skaičių „360“, papildyti eilute „Lietuvos Respublikos konkurencijos taryba  2541   2211   1485   330“ ir šias eilutes išdėstyti taip: ^s-aac3d3a0d1b2880feafe0722
 
 
  „Valstybinė lietuvių kalbos komisija
@@ -106,7 +111,7 @@ Papildyti 13 straipsnį 9 punktu:
  330“;
 
 
-2) skyriaus „I. Ministerijos“ eilutėje „Finansų ministerija“ vietoj skaičių „3176412“ ir „3092552“ įrašyti skaičius „3228931“ ir „3145071“, eilutėje „Ūkio ministerija“ vietoj skaičių „64350“, „41941“, „6042“ įrašyti skaičius „64392“, „41983“, „6072“ ir šias eilutes išdėstyti taip: ^28c51dda7bb6cdd07528628e
+2) skyriaus „I. Ministerijos“ eilutėje „Finansų ministerija“ vietoj skaičių „3176412“ ir „3092552“ įrašyti skaičius „3228931“ ir „3145071“, eilutėje „Ūkio ministerija“ vietoj skaičių „64350“, „41941“, „6042“ įrašyti skaičius „64392“, „41983“, „6072“ ir šias eilutes išdėstyti taip: ^s-03c36658445d0191e6226ef4
 
 
  „Finansų ministerija
@@ -123,7 +128,7 @@ Papildyti 13 straipsnį 9 punktu:
  22409“;
 
 
-3) skyriaus „II. Apskritys“ eilutėje „Alytaus apskrities viršininko administracija“ vietoj skaičių „23677“, „17912“, „9379“ ir „5765“ įrašyti skaičius „21799“, „17434“, „9064“ ir „4365“, pripažinti netekusia galios eilutę „melioracijai 1400 1400“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičių „56025“, „48523“, „25435“ ir „7502“ įrašyti skaičius „48843“, „47601“, „24841“ ir „1242“, pripažinti netekusia galios eilutę „melioracijai 6260 6260“, eilutėje „Klaipėdos apskrities viršininko administracija“ vietoj skaičių „41513“, „35060“, „17331“ ir „6453“ įrašyti skaičius „34960“, „34437“, „16912“ ir „523“, pripažinti netekusiomis galios eilutes „melioracijai 3930 3930“ ir „polderiams eksploatuoti 2000 2000“, eilutėje „Marijampolės apskrities viršininko administracija“ vietoj skaičių „26103“, „20533“, „8846“ ir „5570“ įrašyti skaičius „21630“, „19900“, „8436“ ir „1730“, pripažinti netekusia galios eilutę „melioracijai 3840 3840“, eilutėje „Panevėžio apskrities viršininko administracija“ vietoj skaičių „37892“, „27866“, „13863“ ir „10026“ įrašyti skaičius „29565“, „26839“, „13141“ ir „2726“, pripažinti netekusia galios eilutę „melioracijai 7300 7300“, eilutėje „Šiaulių apskrities viršininko administracija“ vietoj skaičių „46282“, „37309“, „18173“ ir „8973“ įrašyti skaičius „37863“, „36160“, „17399“ ir „1703“, pripažinti netekusia galios eilutę „melioracijai 7270 7270“, eilutėje „Tauragės apskrities viršininko administracija“ vietoj skaičių „17197“, „11086“, „5525“ ir „6111“ įrašyti skaičius „13478“, „10577“, „5167“ ir „2901“, pripažinti netekusia galios eilutę „melioracijai 3210 3210“, eilutėje „Telšių apskrities viršininko administracija“ vietoj skaičių „21702“, „18357“, „8972“ ir „3345“ įrašyti skaičius „18356“, „17861“, „8651“ ir „495“, pripažinti netekusia galios eilutę „melioracijai 2850 2850“, eilutėje „Utenos apskrities viršininko administracija“ vietoj skaičių „30260“, „26969“, „12500“ ir „3291“ įrašyti skaičius „26507“, „26156“, „11958“ ir „351“, pripažinti netekusia galios eilutę „melioracijai 2940 2940“, eilutėje „Vilniaus apskrities viršininko administracija“ vietoj skaičių „64689“, „57149“, „30072“ ir „7540“ įrašyti skaičius „59820“, „56280“, „29448“ ir „3540“, pripažinti netekusia galios eilutę „melioracijai 4000 4000“ ir šias eilutes išdėstyti taip: ^b283b48cdf0b3a42963ada68
+3) skyriaus „II. Apskritys“ eilutėje „Alytaus apskrities viršininko administracija“ vietoj skaičių „23677“, „17912“, „9379“ ir „5765“ įrašyti skaičius „21799“, „17434“, „9064“ ir „4365“, pripažinti netekusia galios eilutę „melioracijai 1400 1400“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičių „56025“, „48523“, „25435“ ir „7502“ įrašyti skaičius „48843“, „47601“, „24841“ ir „1242“, pripažinti netekusia galios eilutę „melioracijai 6260 6260“, eilutėje „Klaipėdos apskrities viršininko administracija“ vietoj skaičių „41513“, „35060“, „17331“ ir „6453“ įrašyti skaičius „34960“, „34437“, „16912“ ir „523“, pripažinti netekusiomis galios eilutes „melioracijai 3930 3930“ ir „polderiams eksploatuoti 2000 2000“, eilutėje „Marijampolės apskrities viršininko administracija“ vietoj skaičių „26103“, „20533“, „8846“ ir „5570“ įrašyti skaičius „21630“, „19900“, „8436“ ir „1730“, pripažinti netekusia galios eilutę „melioracijai 3840 3840“, eilutėje „Panevėžio apskrities viršininko administracija“ vietoj skaičių „37892“, „27866“, „13863“ ir „10026“ įrašyti skaičius „29565“, „26839“, „13141“ ir „2726“, pripažinti netekusia galios eilutę „melioracijai 7300 7300“, eilutėje „Šiaulių apskrities viršininko administracija“ vietoj skaičių „46282“, „37309“, „18173“ ir „8973“ įrašyti skaičius „37863“, „36160“, „17399“ ir „1703“, pripažinti netekusia galios eilutę „melioracijai 7270 7270“, eilutėje „Tauragės apskrities viršininko administracija“ vietoj skaičių „17197“, „11086“, „5525“ ir „6111“ įrašyti skaičius „13478“, „10577“, „5167“ ir „2901“, pripažinti netekusia galios eilutę „melioracijai 3210 3210“, eilutėje „Telšių apskrities viršininko administracija“ vietoj skaičių „21702“, „18357“, „8972“ ir „3345“ įrašyti skaičius „18356“, „17861“, „8651“ ir „495“, pripažinti netekusia galios eilutę „melioracijai 2850 2850“, eilutėje „Utenos apskrities viršininko administracija“ vietoj skaičių „30260“, „26969“, „12500“ ir „3291“ įrašyti skaičius „26507“, „26156“, „11958“ ir „351“, pripažinti netekusia galios eilutę „melioracijai 2940 2940“, eilutėje „Vilniaus apskrities viršininko administracija“ vietoj skaičių „64689“, „57149“, „30072“ ir „7540“ įrašyti skaičius „59820“, „56280“, „29448“ ir „3540“, pripažinti netekusia galios eilutę „melioracijai 4000 4000“ ir šias eilutes išdėstyti taip: ^s-520c2e800fe9460e2d26dc1b
 
 
  „Alytaus apskrities viršininko administracija
@@ -196,10 +201,10 @@ Papildyti 13 straipsnį 9 punktu:
  3540“;
 
 
-4) skyriuje „III. Vyriausybės įstaigos ir kitos valstybės institucijos bei įstaigos“ išbraukti eilutę „Lietuvos Respublikos konkurencijos taryba 2583 2253 1515 330“; ^b1a7bc454344388245f14d73
+4) skyriuje „III. Vyriausybės įstaigos ir kitos valstybės institucijos bei įstaigos“ išbraukti eilutę „Lietuvos Respublikos konkurencijos taryba 2583 2253 1515 330“; ^s-bc1fc7fa5ff67332f5d957a3
 
 
-5) skyriaus „IV. Įstaigos prie ministerijų“ poskyrio „Finansų ministerijos valdymo sritis“ eilutėje „Valstybinė mokesčių inspekcija prie Finansų ministerijos“ vietoj skaičių „183276“ ir „158047“ įrašyti skaičius „179276“ ir „154047“, poskyryje „Kultūros ministerijos valdymo sritis“ po eilutės „Kultūros ministerijos Kultūros vertybių apsaugos departamentas“ įrašyti eilutę „Valstybinė kalbos inspekcija 210 210 149“, eilutėje „Nacionalinė Martyno Mažvydo biblioteka“ vietoj skaičiaus „5196“ įrašyti skaičių „5358“, poskyryje „Teisingumo ministerijos valdymo sritis“ vietoj eilutės „Teismų departamentas prie Teisingumo ministerijos“ įrašyti eilutę „Teismų departamentas prie Teisingumo ministerijos (nuo 2002 m. gegužės 1 d. –Nacionalinė teismų administracija)“, poskyryje „Vidaus reikalų ministerijos valdymo sritis“ vietoj eilutės „Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos“ įrašyti eilutę „Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos (iki 2002 m. balandžio 1 d. – Mokesčių policijos departamentas prie Vidaus reikalų ministerijos)“, poskyryje „Žemės ūkio ministerijos valdymo sritis“ eilutėje „Žemės ir kito nekilnojamojo turto kadastro ir registro valstybės įmonė“ vietoj skaičių „138“ ir „138“ įrašyti skaičius „4138“ ir „4138“ ir šias eilutes išdėstyti taip: ^bd34cc9c1843d038ab3bfc88
+5) skyriaus „IV. Įstaigos prie ministerijų“ poskyrio „Finansų ministerijos valdymo sritis“ eilutėje „Valstybinė mokesčių inspekcija prie Finansų ministerijos“ vietoj skaičių „183276“ ir „158047“ įrašyti skaičius „179276“ ir „154047“, poskyryje „Kultūros ministerijos valdymo sritis“ po eilutės „Kultūros ministerijos Kultūros vertybių apsaugos departamentas“ įrašyti eilutę „Valstybinė kalbos inspekcija 210 210 149“, eilutėje „Nacionalinė Martyno Mažvydo biblioteka“ vietoj skaičiaus „5196“ įrašyti skaičių „5358“, poskyryje „Teisingumo ministerijos valdymo sritis“ vietoj eilutės „Teismų departamentas prie Teisingumo ministerijos“ įrašyti eilutę „Teismų departamentas prie Teisingumo ministerijos (nuo 2002 m. gegužės 1 d. –Nacionalinė teismų administracija)“, poskyryje „Vidaus reikalų ministerijos valdymo sritis“ vietoj eilutės „Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos“ įrašyti eilutę „Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos (iki 2002 m. balandžio 1 d. – Mokesčių policijos departamentas prie Vidaus reikalų ministerijos)“, poskyryje „Žemės ūkio ministerijos valdymo sritis“ eilutėje „Žemės ir kito nekilnojamojo turto kadastro ir registro valstybės įmonė“ vietoj skaičių „138“ ir „138“ įrašyti skaičius „4138“ ir „4138“ ir šias eilutes išdėstyti taip: ^s-6680127090cc999d06e89a4c
 
 
  „Valstybinė mokesčių inspekcija prie Finansų ministerijos
@@ -244,7 +249,7 @@ Papildyti 13 straipsnį 9 punktu:
 
 
 
-6) eilutėje „IŠ VISO“ vietoj skaičių „9112593“, „1876679“ ir „890818“ įrašyti skaičius „9157593“, „1871822“ ir „845818“ ir šią eilutę išdėstyti taip: ^610df5b58d8d2fea431b4b6d
+6) eilutėje „IŠ VISO“ vietoj skaičių „9112593“, „1876679“ ir „890818“ įrašyti skaičius „9157593“, „1871822“ ir „845818“ ir šią eilutę išdėstyti taip: ^s-779552c4b5cea5dc7ccf9a35
 
 
  „IŠ VISO:
@@ -254,7 +259,7 @@ Papildyti 13 straipsnį 9 punktu:
  845818“.
 
 
-### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-3a41ca20b56b819802cc2577
 
 
 Įstatymo 2 priedėlio eilutėje „Bendrosios valstybės paslaugos“ vietoj skaičių „735042“, „671328“ ir „365443“ įrašyti skaičius „730506“, „666792“ ir „365036“, eilutėje „valstybės valdymo išlaidos“ vietoj skaičių „214001“, „186257“ ir „106034“ įrašyti skaičius „213465“, „185721“ ir „105627“, eilutėje „Sveikatingumas (sportas), rekreacija, kultūra“ vietoj skaičiaus „40256“ įrašyti skaičių „40418“, eilutėje „Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija“ vietoj skaičių „658772“, „573490“, „74380“ ir „85282“ įrašyti skaičius „606747“, „566465“, „69678“ ir „40282“, eilutėje „Mineralinių išteklių gavyba (išskyrus kurą), pramonė ir statyba“ vietoj skaičių „74827“, „47578“ ir „9168“ įrašyti skaičius „74869“, „47620“ ir „9198“, eilutėje „Kita ekonominė veikla“ vietoj skaičių „87342“, „74333“ ir „38981“ įrašyti skaičius „91342“, „78333“ ir „39041“, eilutėje „Išlaidos, nepriskirtinos pagrindinių funkcijų grupėms“ vietoj skaičių „3251695“ ir „3166789“ įrašyti skaičius „3304214“ ir „3219308“, eilutėje „dotacijos ir kompensacija savivaldybėms“ vietoj skaičių „1980617“ ir „1980617“ įrašyti skaičius „2033136“ ir „2033136“, eilutėje „IŠ VISO“ vietoj skaičių „9112593“, „1876679“ ir „890818“ įrašyti skaičius „9157593“, „1871822“ ir „845818“ ir šias eilutes išdėstyti taip:
@@ -327,7 +332,7 @@ Papildyti 13 straipsnį 9 punktu:
 
 
 
-### 7 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 7 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-cd3b23c3464515bbcc1d6d33
 
 
 Pakeisti Įstatymo 6 priedėlį ir jį išdėstyti taip:
@@ -335,7 +340,7 @@ Pakeisti Įstatymo 6 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2001 m. gruodžio 13 d.
-įstatymo Nr. IX-643
+[[latest/TAR.E8D4F01C9643|įstatymo Nr. IX-643]]
 (Lietuvos Respublikos
 2002 m. balandžio 18 d.
 įstatymo Nr. IX-851 redakcija)
@@ -1110,7 +1115,7 @@ tūkst. Lt
 
 
 
-### 8 straipsnis. Įstatymo 10 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 10 priedėlio pakeitimas ^s-5c78a5481ae073ced5836e5c
 
 
 Įstatymo 10 priedėlio eilutėje „Visuomenės apsauga“ vietoj skaičių „20776“ ir „19687“ įrašyti skaičius „20556“ ir „19467“, eilutėje „Kita veikla“ vietoj skaičių „37024“ ir „22264“ įrašyti skaičius „37244“ ir „22484“, eilutėje „iš jų informacinėms technologijoms“ vietoj skaičių „78794“ ir „57310“ įrašyti skaičius „78574“ ir „57090“ ir šias eilutes išdėstyti taip:

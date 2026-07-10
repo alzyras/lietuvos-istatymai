@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.216A5A785E1C"
 pavadinimas: "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 straipsnių pakeitimo įstatymas"
+  - "finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.216A5A785E1C.md"
 latest_sha256: "30d275edddf383a4078a2592fa1dd88a9f883d69cafcf73b77d47146044551f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.216A5A785E1C]]"
 ---
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.216A5A785E1C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.216A5A785E1C
+- Ryšiai: [[Ryšiai/TAR.216A5A785E1C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 2 punkto pakeitimas
+### 1 straipsnis. 7 straipsnio 2 punkto pakeitimas ^s-322818c47ba3c4b61dd7f4b4
 
 
 7 straipsnio 2 punkte išbraukti žodžius „netikrais pinigais“, po žodžių „finansų sistema“ įrašyti žodžius „išskyrus veikas, susijusias su netikrais pinigais“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 22 straipsnio 4 ir 5 punktų pripažinimas netekusiais galios
+### 2 straipsnis. 22 straipsnio 4 ir 5 punktų pripažinimas netekusiais galios ^s-29b1947f06159b49b2ceab04
 
 
 22 straipsnio 4 ir 5 punktus pripažinti netekusiais galios.

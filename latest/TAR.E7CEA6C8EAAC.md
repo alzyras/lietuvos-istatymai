@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E7CEA6C8EAAC"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio papildymo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-01-19"
 latest_path: "latest/TAR.E7CEA6C8EAAC.md"
 latest_sha256: "490b7b3c43cb11605ad827c2e6d63eb67d48e73feaeef09cb01ad956e3b0a9f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E7CEA6C8EAAC]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E7CEA6C8EAAC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E7CEA6C8EAAC
+- Ryšiai: [[Ryšiai/TAR.E7CEA6C8EAAC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies papildymas
+### 1 straipsnis. 4 straipsnio 1 dalies papildymas ^s-7972526cc9bdc62633ff78f0
 
 
 4 straipsnio 1 dalies antrajame sakinyje po skaičiaus ir santrumpos „150 ha“ įrašyti žodžius „taip pat jeigu natūra gražinamas mažesnis žemės plotas, negu savininkas turėjo“ ir šią dalį išdėstyti taip:

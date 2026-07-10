@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7346C413F79B"
 pavadinimas: "Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo 2 straipsnio papildymo įstatymas"
+  - "Vilniaus universiteto statuto patvirtinimo įstatymo 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-10"
 latest_path: "latest/TAR.7346C413F79B.md"
 latest_sha256: "984c62726baef0e09f78ad505d856287a0912f197a77b68b124fa6330c278a46"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7346C413F79B]]"
 ---
 # Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7346C413F79B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7346C413F79B
+- Ryšiai: [[Ryšiai/TAR.7346C413F79B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas 7 dalimi
+### 1 straipsnis. 2 straipsnio papildymas 7 dalimi ^s-f6760c17f74c3f023cb2b124
 
 
 Papildyti 2 straipsnį 7 dalimi:

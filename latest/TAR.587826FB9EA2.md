@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.587826FB9EA2"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 15, 18 ir 23 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 15, 18 ir 23 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 15, 18 ir 23 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-01"
 latest_path: "latest/TAR.587826FB9EA2.md"
 latest_sha256: "4eb551c7d51904cc3ffbc62f68bf9deb4167d4471a1c4886e9fd0dcd4b129201"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.587826FB9EA2]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 15, 18 ir 23 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.587826FB9EA2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.587826FB9EA2
+- Ryšiai: [[Ryšiai/TAR.587826FB9EA2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio pakeitimas
+### 1 straipsnis. 15 straipsnio pakeitimas ^s-6e97f71a4fb912b2296ecce1
 
 
 Iš 15 straipsnio 10 punkto išbraukti žodžius „fondų ir“ ir visą straipsnį išdėstyti taip:
@@ -44,98 +49,98 @@ Iš 15 straipsnio 10 punkto išbraukti žodžius „fondų ir“ ir visą straip
 Taryba:
 
 
-1) renka bei atleidžia iš pareigų merą ir mero pavaduotoją; ^e9064925110343e30cceb541
+1) renka bei atleidžia iš pareigų merą ir mero pavaduotoją; ^s-640a1ca0f0c147769c810b89
 
 
-2) sudaro komitetus, o nutarusi – ir valdybą, administracinę bei kitas komisijas, keičia jų sudėtį, tvirtina mero pasiūlytas komitetų ir komisijų pirmininkų kandidatūras; ^7d8119b0989c6db51e9cc727
+2) sudaro komitetus, o nutarusi – ir valdybą, administracinę bei kitas komisijas, keičia jų sudėtį, tvirtina mero pasiūlytas komitetų ir komisijų pirmininkų kandidatūras; ^s-98c56adc18da566e6565a860
 
 
-3) nustato administracijos struktūrą, etatų skaičių, darbo užmokesčio fondą; ^5d9f25440acfb788598f2f99
+3) nustato administracijos struktūrą, etatų skaičių, darbo užmokesčio fondą; ^s-c9fb2f1d2061371561249107
 
 
-4) skiria kontrolierių bei jo pavaduotoją; ^afc1ed9ffc0c1afa6c80b1c6
+4) skiria kontrolierių bei jo pavaduotoją; ^s-7cd9138d9da6759ef61a5466
 
 
-5) priima sprendimus dėl savivaldybės teritorijos suskirstymo į seniūnijas ir nustato jų ribas; ^2aa2dd5abf1527a7218848d5
+5) priima sprendimus dėl savivaldybės teritorijos suskirstymo į seniūnijas ir nustato jų ribas; ^s-ee5853f04818d343c6ad20a7
 
 
-6) tvirtina tarybos statutą; ^ce73901010c458a73fe2bf67
+6) tvirtina tarybos statutą; ^s-5608ff40ee278833ea5d51a1
 
 
-7) tvirtina mero (valdybos, jeigu ji sudaroma) bei kontrolieriaus veiklos nuostatus; ^f176368162aebacc18a49a2c
+7) tvirtina mero (valdybos, jeigu ji sudaroma) bei kontrolieriaus veiklos nuostatus; ^s-c35b7062fa917ca1ead0893f
 
 
-8) nutraukia tarybos narių įgaliojimus prieš terminą Vietos savivaldybės tarybos nario statuso įstatymo nustatytais atvejais ir tvarka; ^b19de288b230c0fc8f2cbeb8
+8) nutraukia tarybos narių įgaliojimus prieš terminą Vietos savivaldybės tarybos nario statuso įstatymo nustatytais atvejais ir tvarka; ^s-fb0c7d162a99643de00f0cf1
 
 
-9) tvirtina savivaldybės biudžetą ir jo įvykdymo apyskaitą; ^e2d713da963da3cbfc0d7ade
+9) tvirtina savivaldybės biudžetą ir jo įvykdymo apyskaitą; ^s-6548b8541d83776a91e1f1c2
 
 
-10) tvirtina nebiudžetinių lėšų sudarymo bei naudojimo tvarką, jų panaudojimo apyskaitą; ^b64409c4ad618fa143e22b3b
+10) tvirtina nebiudžetinių lėšų sudarymo bei naudojimo tvarką, jų panaudojimo apyskaitą; ^s-8c0b3fd56c0f67b0e0ddeb60
 
 
-11) skirsto arba įgalioja merą (valdybą, jeigu ji sudaroma) skirstyti papildomas savivaldybės biudžeto lėšas; ^280b2607addd14227ce3f7f2
+11) skirsto arba įgalioja merą (valdybą, jeigu ji sudaroma) skirstyti papildomas savivaldybės biudžeto lėšas; ^s-134b238ade3fb80b1505397d
 
 
-12) tvirtina kainas ir tarifus už valstybinių savivaldybės įmonių teikiamas gyventojams paslaugas; ^f9e67147fc0216ffcd0c430c
+12) tvirtina kainas ir tarifus už valstybinių savivaldybės įmonių teikiamas gyventojams paslaugas; ^s-3a4c7a5e7cff32389ef71df5
 
 
-13) tvirtina iš savivaldybės biudžeto išlaikomų įstaigų ir organizacijų bendrą asignavimų sumą ir darbo užmokesčio fondą; ^67057dbbadec39dab097db4e
+13) tvirtina iš savivaldybės biudžeto išlaikomų įstaigų ir organizacijų bendrą asignavimų sumą ir darbo užmokesčio fondą; ^s-5565812b2780bb78378f1db0
 
 
-14) įstatymų numatyta tvarka nustato vietines rinkliavas; ^63fa34bce73ad19631fc1a14
+14) įstatymų numatyta tvarka nustato vietines rinkliavas; ^s-d3afd767f621fad065d6a187
 
 
-15) priima sprendimus įsteigti, reorganizuoti ar likviduoti veikiančias pagal Įmonių įstatymą savivaldybės įmones ir organizacijas; ^b90459ff311d3e9686989899
+15) priima sprendimus įsteigti, reorganizuoti ar likviduoti veikiančias pagal Įmonių įstatymą savivaldybės įmones ir organizacijas; ^s-6ca7e1816b7a769cdb5f843f
 
 
-16) priima sprendimus dėl iš savivaldybės biudžeto lėšų išlaikomų įstaigų, įmonių, organizacijų steigimo, reorganizavimo bei likvidavimo; ^448a4923d0c86913e7547189
+16) priima sprendimus dėl iš savivaldybės biudžeto lėšų išlaikomų įstaigų, įmonių, organizacijų steigimo, reorganizavimo bei likvidavimo; ^s-c634f248cac2fa64d5377846
 
 
-17) nustato mokėjimų arba kompensacijų už išperkamus žemės sklypus, naudojimąsi savivaldybės įrengimais, objektais bei gamtos ištekliais dydį; ^e259b962ac86126a3e3a34d4
+17) nustato mokėjimų arba kompensacijų už išperkamus žemės sklypus, naudojimąsi savivaldybės įrengimais, objektais bei gamtos ištekliais dydį; ^s-f054f84b58e65370a953c6f1
 
 
-18) tvirtina savivaldybės teritorijos plėtojimo generalinį planą ir jo pakeitimus, miestų ir miestelių plėtimo ir kūrimo generalines schemas; ^7fd9c61f9dac97bbf5a1481d
+18) tvirtina savivaldybės teritorijos plėtojimo generalinį planą ir jo pakeitimus, miestų ir miestelių plėtimo ir kūrimo generalines schemas; ^s-e84eb8792ed27a40e7dd20df
 
 
-19) įstatymų nustatyta tvarka steigia ir tvarko savivaldybės saugomas teritorijas, kraštovaizdžio objektus; ^ebdc2fc3fe304a675411e239
+19) įstatymų nustatyta tvarka steigia ir tvarko savivaldybės saugomas teritorijas, kraštovaizdžio objektus; ^s-d6f9548a875f53b58ee69c14
 
 
-20) nustato savivaldybės sutarčių bei susitarimų su savo ir kitų savivaldybių teritorijoje esančiomis įmonėmis, įstaigomis ir organizacijomis, kitomis savivaldybėmis, užsienio įmonėmis tvirtinimo tvarką; ^4bfe08a08483f75f094a930b
+20) nustato savivaldybės sutarčių bei susitarimų su savo ir kitų savivaldybių teritorijoje esančiomis įmonėmis, įstaigomis ir organizacijomis, kitomis savivaldybėmis, užsienio įmonėmis tvirtinimo tvarką; ^s-228c8093399c480183cc3b1f
 
 
-21) gali teikti finansines lengvatas savo sąskaita įmonėms, steigiančioms naujas darbo vietas, tenkinančioms kitus būtiniausius gyventojų poreikius; ^589037e3de184bb4af66e3fb
+21) gali teikti finansines lengvatas savo sąskaita įmonėms, steigiančioms naujas darbo vietas, tenkinančioms kitus būtiniausius gyventojų poreikius; ^s-1cca131b10999eff607dcd06
 
 
-22) naudojasi bankų kreditais, ima ir teikia paskolas įstatymų nustatyta tvarka, nustato savivaldybės vykdomųjų institucijų naudojimosi bankų kreditais bei paskolų ėmimo ir teikimo sąlygas; ^22b1d77d1bb59ec2fe951c9e
+22) naudojasi bankų kreditais, ima ir teikia paskolas įstatymų nustatyta tvarka, nustato savivaldybės vykdomųjų institucijų naudojimosi bankų kreditais bei paskolų ėmimo ir teikimo sąlygas; ^s-e0462f634ed09a9ab489691b
 
 
-23) nagrinėja tarybos narių keliamus klausimus, priima dėl jų sprendimus; ^6a271f794833478b43e9cafb
+23) nagrinėja tarybos narių keliamus klausimus, priima dėl jų sprendimus; ^s-b3876c1afea62def83117b73
 
 
-24) išklauso mero (valdybos, jeigu ji sudaroma) bei kitų tarybos sudarytų organų ataskaitas, tarybos narių paklausimus administracijos pareigūnams, savivaldybės įmonių, organizacijų vadovams bei priima dėl jų sprendimus; ^eb7ddf6866f7976edf95a09c
+24) išklauso mero (valdybos, jeigu ji sudaroma) bei kitų tarybos sudarytų organų ataskaitas, tarybos narių paklausimus administracijos pareigūnams, savivaldybės įmonių, organizacijų vadovams bei priima dėl jų sprendimus; ^s-ea9dcb096e04e82b53953545
 
 
-25) savo iniciatyva, Vyriausybės atstovo arba kitų institucijų siūlymu ar reikalavimu panaikina ar atšaukia įstatymams, Vyriausybės ar tarybos sprendimams prieštaraujančius tarybos, mero (valdybos, jeigu ji sudaroma) bei kitų savivaldos institucijų sprendimus ir potvarkius; ^57aa31a3f710a162710d7d93
+25) savo iniciatyva, Vyriausybės atstovo arba kitų institucijų siūlymu ar reikalavimu panaikina ar atšaukia įstatymams, Vyriausybės ar tarybos sprendimams prieštaraujančius tarybos, mero (valdybos, jeigu ji sudaroma) bei kitų savivaldos institucijų sprendimus ir potvarkius; ^s-7a69534f0822f56c92ea8181
 
 
-26) tvirtina želdinių apsaugos, miestų ir miestelių tvarkymo ir švaros, prekybos turgavietėse ir kitas taisykles, už kurių pažeidimą įstatymų nustatyta administracinė atsakomybė; ^ef70e57cfa724db84d2d1dd3
+26) tvirtina želdinių apsaugos, miestų ir miestelių tvarkymo ir švaros, prekybos turgavietėse ir kitas taisykles, už kurių pažeidimą įstatymų nustatyta administracinė atsakomybė; ^s-d9f60fa67ee83ff2ce4de325
 
 
-27) priima sprendimus dėl jungimosi į savivaldybių sąjungas ir dėl prisijungimo prie tarptautinių savivaldos organizacijų; ^569c2da0dfbab56dbe727b2c
+27) priima sprendimus dėl jungimosi į savivaldybių sąjungas ir dėl prisijungimo prie tarptautinių savivaldos organizacijų; ^s-338f57966feeb667cc02c51a
 
 
-28) tvirtina savivaldybės simbolius, teikia siūlymus patvirtinti savivaldybės herbą; ^3d0b3c18ac191a0f7d482520
+28) tvirtina savivaldybės simbolius, teikia siūlymus patvirtinti savivaldybės herbą; ^s-aabdde7e7b9e7a62ebfdb4e6
 
 
-29) teikia siūlymus dėl savivaldybės teritorijos ribų keitimo.“ ^d81208fe3d0b1e2fd2ffd743
+29) teikia siūlymus dėl savivaldybės teritorijos ribų keitimo.“ ^s-725f7293e04ba10357a31f69
 
 
 
-### 2 straipsnis. 18 straipsnio pirmosios dalies pakeitimas
+### 2 straipsnis. 18 straipsnio pirmosios dalies pakeitimas ^s-24ad1fefd4b217e8dfd55432
 
 
-18 straipsnio pirmosios dalies 9 ir [[#^7ec27d3a5d370b40c232736d|10 punktus]] pripažinti netekusiais galios ir visą pirmąją dalį išdėstyti taip:
+18 straipsnio pirmosios dalies 9 ir [[#^s-bf69c4c1886310af3884a9ba|10 punktus]] pripažinti netekusiais galios ir visą pirmąją dalį išdėstyti taip:
 
 
 „18 straipsnis. Valdybos kompetencija
@@ -144,66 +149,66 @@ Taryba:
 Jeigu taryba sudaro valdybą, tai ši, vykdydama savo įgaliojimus:
 
 
-1) tarybai pavedus nustato kainas ir tarifus už savivaldybės įmonių teikiamas gyventojams paslaugas; ^5a95f2682d4d356824fbf8db
+1) tarybai pavedus nustato kainas ir tarifus už savivaldybės įmonių teikiamas gyventojams paslaugas; ^s-9820eb38023f94b7be4a346f
 
 
-2) tarybai įgaliojus skirsto papildomas savivaldybės biudžeto lėšas bei kitus išteklius; ^7e5574fad8b168bbef0dff25
+2) tarybai įgaliojus skirsto papildomas savivaldybės biudžeto lėšas bei kitus išteklius; ^s-f8c92289cbf343dcd52c4f50
 
 
-3) organizuoja teritorijos raidos analizę, bendrųjų ilgalaikių socialinių, kultūrinių, ūkinių, investicinių, demografinių, ekologinių ir kitų programų projektų rengimą; ^e4b182c39f67f6c98369cec9
+3) organizuoja teritorijos raidos analizę, bendrųjų ilgalaikių socialinių, kultūrinių, ūkinių, investicinių, demografinių, ekologinių ir kitų programų projektų rengimą; ^s-b811654a21cf44dae56335b7
 
 
-4) organizuoja tarybos patvirtintų programų įgyvendinimą savivaldybės teritorijoje; ^518b24dff829b4cd92466543
+4) organizuoja tarybos patvirtintų programų įgyvendinimą savivaldybės teritorijoje; ^s-068da185feb67dd920152236
 
 
-5) organizuoja teritorijos generalinio plano, jo pakeitimų projektų bei detalių planų rengimą; ^900fc898f99d6ff6bd361d3a
+5) organizuoja teritorijos generalinio plano, jo pakeitimų projektų bei detalių planų rengimą; ^s-429d0c89b2ee19186ab6b359
 
 
-6) kontroliuoja, kaip laikomasi visų objektų statybos, plėtimo ir rekonstrukcijos, pastatų ir teritorijos statybų, kraštovaizdžio, architektūros bei kultūros paminklų apsaugos reikalavimų; ^c7ff9a3b3af19d41f1bf6fcc
+6) kontroliuoja, kaip laikomasi visų objektų statybos, plėtimo ir rekonstrukcijos, pastatų ir teritorijos statybų, kraštovaizdžio, architektūros bei kultūros paminklų apsaugos reikalavimų; ^s-525fb20d46e395b9ad2f96ea
 
 
-7) teikia tarybai spręsti arba pati sprendžia socialinės ir gamybinės infrastruktūros objektų projektavimo ir statybos klausimus, prižiūri, kad būtų nustatyta jų eksploatavimo tvarka, o prireikus - atliekamos užsakovo funkcijos; ^d06383ca131bdf2712e9070c
+7) teikia tarybai spręsti arba pati sprendžia socialinės ir gamybinės infrastruktūros objektų projektavimo ir statybos klausimus, prižiūri, kad būtų nustatyta jų eksploatavimo tvarka, o prireikus - atliekamos užsakovo funkcijos; ^s-4f93016356de5bdfd04b7067
 
 
-8) sudaro ir teikia tarybai tvirtinti biudžeto projektą, biudžeto įvykdymo apyskaitą; ^f70863606efb740a8e9d79bb
+8) sudaro ir teikia tarybai tvirtinti biudžeto projektą, biudžeto įvykdymo apyskaitą; ^s-fd20b5e2c1cc8c1c9f8f2b12
 
 
-9) kontroliuoja, kaip laikomasi tarybos nustatytų taisyklių, už kurių pažeidimą numatyta administracinė atsakomybė; ^c6d66d08e624b7628606e239
+9) kontroliuoja, kaip laikomasi tarybos nustatytų taisyklių, už kurių pažeidimą numatyta administracinė atsakomybė; ^s-320a50fc68e2d930535d65c7
 
 
-10) įstatymų nustatyta tvarka organizuoja gyvenamųjų patalpų statybą, eksploataciją, sudaro ir tvarko piliečių eiles valstybės paramai gauti, nuomoja ir parduoda savivaldybių fondo gyvenamąsias patalpas; ^7ec27d3a5d370b40c232736d
+10) įstatymų nustatyta tvarka organizuoja gyvenamųjų patalpų statybą, eksploataciją, sudaro ir tvarko piliečių eiles valstybės paramai gauti, nuomoja ir parduoda savivaldybių fondo gyvenamąsias patalpas; ^s-bf69c4c1886310af3884a9ba
 
 
-11) tiria ir analizuoja migracijos procesus, kartu su teritorinėmis darbo biržomis organizuoja racionalų gyventojų užimtumą, gyventojų kvalifikacijos kėlimą, perkvalifikavimą bei viešuosius darbus; ^a544e5ff56fb01690245dbed
+11) tiria ir analizuoja migracijos procesus, kartu su teritorinėmis darbo biržomis organizuoja racionalų gyventojų užimtumą, gyventojų kvalifikacijos kėlimą, perkvalifikavimą bei viešuosius darbus; ^s-0e96094fe697df1321c306b2
 
 
-12) kartu su kitomis valstybės institucijomis rengia ir įgyvendina prevencines priemones, gyventojų gelbėjimą nuo katastrofų, stichinių nelaimių, epidemijų, užkrečiamų ligų, likviduoja jų padarinius; ^475fe34bdc9b6d9343a86a96
+12) kartu su kitomis valstybės institucijomis rengia ir įgyvendina prevencines priemones, gyventojų gelbėjimą nuo katastrofų, stichinių nelaimių, epidemijų, užkrečiamų ligų, likviduoja jų padarinius; ^s-495d0533d0a251bc72e39dd0
 
 
-13) rengia tarybai pasiūlymus steigti, reorganizuoti ir likviduoti iš savivaldybės biudžeto lėšų išlaikomas įstaigas, įmones ir organizacijas; ^79b8787a60564040edcb39fe
+13) rengia tarybai pasiūlymus steigti, reorganizuoti ir likviduoti iš savivaldybės biudžeto lėšų išlaikomas įstaigas, įmones ir organizacijas; ^s-278134585faa4920e34df1b1
 
 
-14) valdo, naudoja ir saugo savivaldybės turtą; ^de830aa507fc4f19e0833840
+14) valdo, naudoja ir saugo savivaldybės turtą; ^s-8f29b5bbe1f72c1fbdaeda06
 
 
-15) rengia gyventojų susirinkimus, kuriuose ne rečiau kaip kartą per metus pateikia informaciją apie savivaldybės reikalus, taip pat kartą per metus ir pagal reikalavimą atsiskaito už savo veiklą tarybai.“ ^2069cbc251f37c4952f1cce6
+15) rengia gyventojų susirinkimus, kuriuose ne rečiau kaip kartą per metus pateikia informaciją apie savivaldybės reikalus, taip pat kartą per metus ir pagal reikalavimą atsiskaito už savo veiklą tarybai.“ ^s-b4ed778eecf18812534f7edf
 
 
 
-### 3 straipsnis. 23 straipsnio pakeitimas
+### 3 straipsnis. 23 straipsnio pakeitimas ^s-f5592934f1b0cd63e2559eeb
 
 
-1. Pakeisti 23 straipsnio pirmąją dalį – išbraukti žodžius „fondai ir“, vietoj žodžio „nebiudžetiniai“ įrašyti žodį „nebiudžetinės“ ir šią dalį išdėstyti taip: ^953c208c4428cf7d5f8b90d0
+1. Pakeisti 23 straipsnio pirmąją dalį – išbraukti žodžius „fondai ir“, vietoj žodžio „nebiudžetiniai“ įrašyti žodį „nebiudžetinės“ ir šią dalį išdėstyti taip: ^s-f06e17d5c5100a0c29acb939
 
 
 „Savivaldybės finansinius išteklius sudaro savivaldybės biudžetas, nebiudžetinės lėšos.“
 
 
-2. 23 straipsnio devintąją dalį pripažinti netekusia galios. ^687c1ebb4960c0485dde2887
+2. 23 straipsnio devintąją dalį pripažinti netekusia galios. ^s-b67b3fe59b4a34be7f6f4535
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-bf73385e78eb28eb65dcbd57
 
 
 Šis įstatymas įsigalioja nuo 1997 metų sausio 1 dienos.

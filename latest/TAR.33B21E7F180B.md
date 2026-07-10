@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.33B21E7F180B"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.33B21E7F180B.md"
 latest_sha256: "883312c65ec06bbed28a521460daf3ca7d91c2ff63ae089be3e39d71dd32703c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.33B21E7F180B]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.33B21E7F180B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.33B21E7F180B
+- Ryšiai: [[Ryšiai/TAR.33B21E7F180B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio pakeitimas
+### 1 straipsnis. 29 straipsnio pakeitimas ^s-1ccd73f3d83a91e1bf36ffa2
 
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
@@ -49,13 +54,13 @@ Teismo psichiatrijos ekspertizė atliekama pagal ikiteisminio tyrimo teisėjo ar
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-12f06ed2237e66d87fdf7dd4
 
 
-1. Šis įstatymas, išskyrus [[#^e5b0aadc68063d41a6fca6bd|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^67dee2c6bcc1b2cb4fe6ef80
+1. Šis įstatymas, išskyrus [[#^s-bd012a50e06abae6275852f0|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-78951f2da60e9696336c6cba
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^e5b0aadc68063d41a6fca6bd
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-bd012a50e06abae6275852f0
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.57047B24277F"
 pavadinimas: "Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas"
+  - "finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-09-26"
 latest_path: "latest/TAR.57047B24277F.md"
 latest_sha256: "67ef6a6f303f93e7177cffc29bad0556ce8cd77b5abac98897fa1066e966eeed"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.57047B24277F]]"
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.57047B24277F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.57047B24277F
+- Ryšiai: [[Ryšiai/TAR.57047B24277F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 31 straipsnio 5 dalies 5 punkto pripažinimas netekusiu galios
+### 1 straipsnis. 31 straipsnio 5 dalies 5 punkto pripažinimas netekusiu galios ^s-5fa10e619bab7385f39ae6d9
 
 
 31 straipsnio 5 dalies 5 punktą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 59 straipsnio pakeitimas
+### 2 straipsnis. 59 straipsnio pakeitimas ^s-470efc114df2de8b09029042
 
 
 59 straipsnyje vietoj žodžio „sausio“ įrašyti žodį „lapkričio“ ir šį straipsnį išdėstyti taip:
@@ -47,7 +52,7 @@ Vilnius
 „59 straipsnis. Pasiūlymai Vyriausybei ir Lietuvos bankui
 
 
-Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. lapkričio 1 d. pateikti Seimui įstatymų, neatitinkančių Finansų įstaigų įstatymo nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus lydimuosius teisės aktus.“
+Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. lapkričio 1 d. pateikti Seimui įstatymų, neatitinkančių [[latest/TAR.779892D853B4|Finansų įstaigų įstatymo]] nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus lydimuosius teisės aktus.“
 
 
 

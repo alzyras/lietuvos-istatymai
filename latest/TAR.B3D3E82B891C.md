@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B3D3E82B891C"
 pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 28 straipsnio pakeitimo ir 27-1 straipsnio pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės informavimo įstatymo 28 straipsnio pakeitimo ir 27-1 straipsnio pripažinimo netekusiu galios įstatymas"
+  - "visuomenės informavimo įstatymo 28 straipsnio pakeitimo ir 27-1 straipsnio pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.B3D3E82B891C.md"
 latest_sha256: "c988464a5dd0f193a4a396194c93f1c3a6f557dbc28ad9803a6fa77932c99aca"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B3D3E82B891C]]"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 28 straipsnio pakeitimo ir 27-1 straipsnio pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B3D3E82B891C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B3D3E82B891C
+- Ryšiai: [[Ryšiai/TAR.B3D3E82B891C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,21 +40,21 @@ Vilnius
 
 
 
-### 1 straipsnis. 271 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 271 straipsnio pripažinimas netekusiu galios ^s-56e57bdd73c796380827e929
 
 
 271 straipsnį pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. 28 straipsnio 5 dalies pripažinimas netekusia galios
+### 2 straipsnis. 28 straipsnio 5 dalies pripažinimas netekusia galios ^s-393025f4105bb7f52890c37d
 
 
 28 straipsnio 5 dalį pripažinti netekusia galios.
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-d58d84c142ab3ca3851d4c5c
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

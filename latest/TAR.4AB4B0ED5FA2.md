@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4AB4B0ED5FA2"
 pavadinimas: "Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
+  - "valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-05"
 latest_path: "latest/TAR.4AB4B0ED5FA2.md"
 latest_sha256: "b16892a2dccdc4b0a797a66ed50018fee4ec64b2d9b2cc3dd8f3a63f332cfa73"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4AB4B0ED5FA2]]"
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4AB4B0ED5FA2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4AB4B0ED5FA2
+- Ryšiai: [[Ryšiai/TAR.4AB4B0ED5FA2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-a1e5ac14bd5328b805afb977
 
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
@@ -47,22 +52,22 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio 1, 4 ir 5 dalių pakeitimas
+### 2 straipsnis. 2 straipsnio 1, 4 ir 5 dalių pakeitimas ^s-9e0d7496b98aa5fd6d507a56
 
 
-1. Pakeisti [[#^1087cca1855b4fb8be9f4ce2|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^1087cca1855b4fb8be9f4ce2
+1. Pakeisti [[#^s-dd32aa690b5713391a7f7b86|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-dd32aa690b5713391a7f7b86
 
 
 „1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 129 straipsnyje nustatytais pagrindais dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo.“
 
 
-2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^8229d8e87209d0ca8ae7fd8f
+2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-be1e5b0d139628adf4c1cf1e
 
 
 „4. Ignalinos AE eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas, siekiant saugiai dezaktyvuoti ir išmontuoti Ignalinos AE, sutvarkyti eksploatavimo nutraukimo atliekas ir liekanas, kai nusprendžiama, kad Ignalinos AE niekada nebebus naudojama pagal pagrindinę paskirtį.“
 
 
-3. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^c373f2e2ba4e2b38f61936c1
+3. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-f08226a8b733754ed9a73cf0
 
 
 „5. Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimas – procesas, kurio pradžia yra Vyriausybės sprendimo dėl Ignalinos AE pirmojo bloko sustabdymo datos įsigaliojimas, o pabaiga – Valstybinės atominės energetikos saugos inspekcijos išduotos licencijos eksploatuoti Ignalinos AE antrąjį bloką galiojimo panaikinimo data.“

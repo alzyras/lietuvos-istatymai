@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5877323A4681"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl 1993 m. Toremolinoso protokolo dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl 1993 m. Toremolinoso protokolo dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos ratifikavimo"
+  - "įstatymas dėl 1993 m. Toremolinoso protokolo dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-27"
 latest_path: "latest/TAR.5877323A4681.md"
 latest_sha256: "cb00276df21cc5a570a74e92f2929aafc0536b3297ab35cdf320fd675815a2b0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5877323A4681]]"
 ---
 # Lietuvos Respublikos įstatymas dėl 1993 m. Toremolinoso protokolo dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5877323A4681.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5877323A4681
+- Ryšiai: [[Ryšiai/TAR.5877323A4681|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-9fa07476519baeb8dde09a99
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. lapkričio 21 d. dekretą Nr. 1K-1593, ratifikuoja 1993 m. balandžio 2 d. Toremolinose priimtą 1993 m. Toremolinoso protokolą dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos.

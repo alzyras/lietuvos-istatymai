@@ -11,7 +11,7 @@
   "latest_revision": "2000-07-19",
   "latest_sha256": "93178e1c7fc2fbfc8b982173f9121bd0e616d2af4a4c29e1a387fdc89ea87351",
   "metadata_path": "latest/TAR.BDC4B579ACEC.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

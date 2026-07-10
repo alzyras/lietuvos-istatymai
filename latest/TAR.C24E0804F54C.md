@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C24E0804F54C"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 17 ir 30 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 17 ir 30 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 17 ir 30 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-09-02"
 latest_path: "latest/TAR.C24E0804F54C.md"
 latest_sha256: "f24888bf884df558adfbecc049abf064286ee643a0888e384ce6dda5966459dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C24E0804F54C]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 17 ir 30 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C24E0804F54C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C24E0804F54C
+- Ryšiai: [[Ryšiai/TAR.C24E0804F54C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 10 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 10 punkto pakeitimas ^s-2cac8da905884009fd18ed00
 
 
 17 straipsnio 10 punkte po žodžio „skaičiaus“ įrašyti žodžius „suteikia seniūnijoms pavadinimus ir juos keičia“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 30 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 30 straipsnio 1 dalies pakeitimas ^s-7586f2412c49325034ba1470
 
 
 30 straipsnio 1 dalyje po žodžio „Seniūnijos“ įrašyti žodį „pavadinimą“ ir šią dalį išdėstyti taip:

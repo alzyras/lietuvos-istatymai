@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1704A711A004"
 pavadinimas: "Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "neformaliojo suaugusiųjų švietimo įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.1704A711A004.md"
 latest_sha256: "1f52ae5b460f278ee31f2d13b6208e9ac5b20a060089fbc8ceb9c6338e1730fb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1704A711A004]]"
 ---
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1704A711A004.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1704A711A004
+- Ryšiai: [[Ryšiai/TAR.1704A711A004|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,36 +38,36 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio pavadinimo ir 3 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio pavadinimo ir 3 dalies pakeitimas ^s-384f60d67ed9c179ac611641
 
 
-1. 13 straipsnio pavadinime išbraukti žodžius „apskričių viršininkų“ ir straipsnio pavadinimą išdėstyti taip: ^08a470f344f1657a4693aef4
+1. 13 straipsnio pavadinime išbraukti žodžius „apskričių viršininkų“ ir straipsnio pavadinimą išdėstyti taip: ^s-3128a52ffaa9020907cfd3af
 
 
 
 „13 straipsnis. Ministerijų, kitų Vyriausybės institucijų ir savivaldybių funkcijos“.
 
 
-2. Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip: ^4adc947acc19ed47074f4be1
+2. Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip: ^s-adde78a7619a93e8282c1709
 
 
 „3. Kitos ministerijos, Vyriausybės institucijos, savivaldybės pagal savo kompetenciją:
 
 
-1) organizuoja ir koordinuoja savo reguliavimo sričiai priklausančių neformaliojo suaugusiųjų švietimo institucijų veiklą; ^b07e4752a260ccaf9410e8ec
+1) organizuoja ir koordinuoja savo reguliavimo sričiai priklausančių neformaliojo suaugusiųjų švietimo institucijų veiklą; ^s-eaa8a91e88243a3623187fe0
 
 
-2) užsako neformaliojo suaugusiųjų švietimo programas bei tikslinius projektus ir juos finansuoja; ^2b5ec2b12f7bc405feb9c3de
+2) užsako neformaliojo suaugusiųjų švietimo programas bei tikslinius projektus ir juos finansuoja; ^s-30dec8649550a54778b85dd1
 
 
-3) prireikus užsako ir remia neformaliojo suaugusiųjų švietimo būklės mokslinius tyrimus; ^5a51b1fd116e1ccc9e4ef1ad
+3) prireikus užsako ir remia neformaliojo suaugusiųjų švietimo būklės mokslinius tyrimus; ^s-3e060b0dc0a763bc6f861eed
 
 
-4) tiria neformaliojo suaugusiųjų švietimo poreikius.“ ^742a7ecbaf9eb4ca7cb373e2
+4) tiria neformaliojo suaugusiųjų švietimo poreikius.“ ^s-7752f562344b9c350e17729d
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-bb3623d7cf6c90a5389df306
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

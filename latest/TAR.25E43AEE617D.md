@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25E43AEE617D"
 pavadinimas: "Lietuvos Respublikos akcinės bendrovės Lietuvos telegramų agentūra ELTA naudojamų patalpų ir valstybei priklausančių akcijų pardavimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinės bendrovės Lietuvos telegramų agentūra ELTA naudojamų patalpų ir valstybei priklausančių akcijų pardavimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "akcinės bendrovės Lietuvos telegramų agentūra ELTA naudojamų patalpų ir valstybei priklausančių akcijų pardavimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-06"
 latest_path: "latest/TAR.25E43AEE617D.md"
 latest_sha256: "74320c175eb9abfbc8231fb3c2ee177b136caaa1a2bb5ad14145cf58fd780160"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25E43AEE617D]]"
 ---
 # Lietuvos Respublikos akcinės bendrovės Lietuvos telegramų agentūra ELTA naudojamų patalpų ir valstybei priklausančių akcijų pardavimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25E43AEE617D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25E43AEE617D
+- Ryšiai: [[Ryšiai/TAR.25E43AEE617D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-5d27a9d222c65c9ca7173df1
 
 
 Pripažinti netekusiu galios Lietuvos Respublikos akcinės bendrovės Lietuvos telegramų agentūra ELTA naudojamų patalpų ir valstybei priklausančių akcijų pardavimo įstatymą.

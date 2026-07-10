@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.08CEC964D807"
 pavadinimas: "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 2, 7 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 2, 7 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas"
+  - "naftos produktų ir naftos valstybės atsargų įstatymo 2, 7 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.08CEC964D807.md"
 latest_sha256: "2b3938033ca08eb22f7a28a226df764e08a789047abbddd7906d57b14e715a93"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.08CEC964D807]]"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 2, 7 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.08CEC964D807.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.08CEC964D807
+- Ryšiai: [[Ryšiai/TAR.08CEC964D807|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,29 +39,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-8d4f83fea6872a34a0c8c6b6
 
 
-1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^7b2ac3571a43bcfe2b0fa789
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-66a2240a1963373716abe5c7
 
 
 „1. Atgabenanti įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie atsigabena iš Europos Sąjungos valstybių įmonių nusipirktą savo vartojimo reikmėms ar pardavimui naftą ir (ar) pirmos, antros arba trečios kategorijos naftos produktus, skirtus vartoti šalies viduje.“
 
 
-2. Papildyti 2 straipsnį 8 dalimi: ^ee288ab23a5d01982cc805f8
+2. Papildyti 2 straipsnį 8 dalimi: ^s-bcb8fca7968b2ffaf027c8a0
 
 
 „8. Gaminanti įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie perdirbdami jiems nuosavybės teise priklausančias žaliavas ar kitokiu būdu pagamina ir parduoda Lietuvos Respublikoje pirmos, antros arba trečios kategorijos naftos produktus. Šioms įmonėms taip pat priskiriamos įmonės, kurios naudojasi naftos produktų gamybos paslauga ir parduoda Lietuvos Respublikoje pirmos, antros arba trečios kategorijos naftos produktus.“
 
 
-3. Papildyti 2 straipsnį 9 dalimi: ^7d14fc19bad98bd33823e736
+3. Papildyti 2 straipsnį 9 dalimi: ^s-77ff8b2e91e7acdca35774a1
 
 
 „9. Importuojanti įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie importuoja iš Europos Sąjungos muitų teritorijai nepriskirtų šalių arba teritorijų ir išleidžia į laisvą apyvartą naftą ir (ar) pirmos, antros arba trečios kategorijos naftos produktus.“
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-0f17f5ec831332e3d0cf2380
 
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -66,7 +71,7 @@ Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo priedo pakeitimas
+### 3 straipsnis. Įstatymo priedo pakeitimas ^s-2257ae519b6b79b719671824
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
@@ -83,13 +88,13 @@ priedas
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-f6495b68d3ee0750e5da67aa
 
 
-1. Šis įstatymas, išskyrus [[#^79a52275f07e00caccc6f6e0|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^c738534f4dcb03494e9e0168
+1. Šis įstatymas, išskyrus [[#^s-f72829016b3614ab500fde55|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d. ^s-5ee4417c0dd0d28afb767fce
 
 
-2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo dienos priima šio įstatymo įgyvendinimui reikalingus teisės aktus. ^79a52275f07e00caccc6f6e0
+2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo dienos priima šio įstatymo įgyvendinimui reikalingus teisės aktus. ^s-f72829016b3614ab500fde55
 
 
 

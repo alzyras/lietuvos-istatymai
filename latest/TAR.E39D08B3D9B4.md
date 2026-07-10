@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E39D08B3D9B4"
 pavadinimas: "Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 7 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 7 straipsnio pakeitimo įstatymas"
+  - "valstybės informacinių išteklių valdymo įstatymo 7 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-01"
 latest_path: "latest/TAR.E39D08B3D9B4.md"
 latest_sha256: "0b441adc58ecfbd6840eb104f1e57b16e2de4c9778cd0e7b5bb00b86b6b10835"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E39D08B3D9B4]]"
 ---
 # Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 7 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E39D08B3D9B4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E39D08B3D9B4
+- Ryšiai: [[Ryšiai/TAR.E39D08B3D9B4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-f722f2f387f3f0419d64a744
 
 
 7 straipsnio 1 dalyje vietoj žodžių „Ministro Pirmininko tarnybos“ įrašyti žodžius „Vyriausybės kanceliarijos“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-346c6a88bc05c7ee2abff443
 
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.

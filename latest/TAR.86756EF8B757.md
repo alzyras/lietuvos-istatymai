@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.86756EF8B757"
 pavadinimas: "Dėl Lietuvos Respublikos vietos savivaldos įstatymo 19 straipsnio papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos vietos savivaldos įstatymo 19 straipsnio papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-09-27"
 latest_path: "latest/TAR.86756EF8B757.md"
 latest_sha256: "1fc7cd24be83328b0a5ce73f933cc042886faf9488033e20a4e6370a08bc94ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.86756EF8B757]]"
 ---
 # Dėl Lietuvos Respublikos vietos savivaldos įstatymo 19 straipsnio papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.86756EF8B757.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.86756EF8B757
+- Ryšiai: [[Ryšiai/TAR.86756EF8B757|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-Papildyti Lietuvos Respublikos vietos savivaldos įstatymo (Žin., 1994, Nr. 55-1049) 19 straipsnį – antrosios dalies 12 punkte po žodžių „notarinius veiksmus“ įrašyti žodžius „įrašo Lietuvos Respublikos piliečio pase duomenis apie nuolatinę gyvenamąją vietą“.
+Papildyti [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (Žin., 1994, Nr. 55-1049) 19 straipsnį – antrosios dalies 12 punkte po žodžių „notarinius veiksmus“ įrašyti žodžius „įrašo Lietuvos Respublikos piliečio pase duomenis apie nuolatinę gyvenamąją vietą“.
 
 
 

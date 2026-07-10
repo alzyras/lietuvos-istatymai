@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.22E7FF6DE3B8"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalio susitarimo dėl Europos bendrosios aviacijos erdvės sukūrimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalio susitarimo dėl Europos bendrosios aviacijos erdvės sukūrimo ratifikavimo"
+  - "įstatymas dėl Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalio susitarimo dėl Europos bendrosios aviacijos erdvės sukūrimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-11-08"
 latest_path: "latest/TAR.22E7FF6DE3B8.md"
 latest_sha256: "d9cc79dd8ee14f9182902db548305fd69bbbc25579a996ccd53acee090a4098b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.22E7FF6DE3B8]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalio susitarimo dėl Europos bendrosios aviacijos erdvės sukūrimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.22E7FF6DE3B8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.22E7FF6DE3B8
+- Ryšiai: [[Ryšiai/TAR.22E7FF6DE3B8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-5a5e9bc41f1a16c06b6f022c
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. balandžio 13 d. dekretą Nr. 1K-929, ratifikuoja 2006 m. birželio 9 d. Liuksemburge pasirašytą Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, Buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalį susitarimą dėl Europos bendrosios aviacijos erdvės sukūrimo.

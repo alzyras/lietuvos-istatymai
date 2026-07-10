@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A1C25F6211F7"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 4.100 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 4.100 straipsnio pakeitimo įstatymas"
+  - "civilinio kodekso 4.100 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-28"
 latest_path: "latest/TAR.A1C25F6211F7.md"
 latest_sha256: "ea26416e60a5d137a7e1eb55ada9b03123348b7189994fd77d7fbe427e6b6839"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A1C25F6211F7]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 4.100 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A1C25F6211F7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A1C25F6211F7
+- Ryšiai: [[Ryšiai/TAR.A1C25F6211F7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,16 +39,16 @@ Vilnius
 
 
 
-### 1 straipsnis. 4.100 straipsnio 3 ir 4 dalių pakeitimas
+### 1 straipsnis. 4.100 straipsnio 3 ir 4 dalių pakeitimas ^s-0342a876b721d299509027c9
 
 
-1. Pakeisti 4.100 straipsnio 3 dalį ir ją išdėstyti taip: ^4bd2c056e361e30516ccee55
+1. Pakeisti 4.100 straipsnio 3 dalį ir ją išdėstyti taip: ^s-376a4de1916fad6ae8476666
 
 
 „3. Visus klausimus, susijusius su nuosavybės paėmimo teisėtumu, taip pat ginčus dėl paimamos nuosavybės vertės ir dėl nuosavybės paėmimo savininkui atsiradusių nuostolių įstatymų nustatyta tvarka sprendžia teismas.“
 
 
-2. Pakeisti 4.100 straipsnio 4 dalį ir ją išdėstyti taip: ^06f1d2e1dca901ad22612218
+2. Pakeisti 4.100 straipsnio 4 dalį ir ją išdėstyti taip: ^s-2627e80a2aabb485edc71646
 
 
 „4. Nuosavybės teisė į visuomenės poreikiams paimamą kilnojamąjį daiktą (turtą) valstybei pereina nuo atsiskaitymo su daikto (turto) savininku momento, išskyrus atvejus, kai įstatymai nustato kitaip. Nuosavybės teisė į visuomenės poreikiams paimamą nekilnojamąjį daiktą valstybei pereina nuo nekilnojamojo daikto įregistravimo viešame registre momento, tačiau įregistruoti tokį daiktą kaip valstybės nuosavybę viešame registre galima tik nuo atsiskaitymo su nekilnojamojo daikto savininku momento, išskyrus atvejus, kai įstatymai nustato kitaip.“

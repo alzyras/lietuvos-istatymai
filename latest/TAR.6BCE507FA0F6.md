@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6BCE507FA0F6"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-08-08"
 latest_path: "latest/TAR.6BCE507FA0F6.md"
 latest_sha256: "e19098a133e250a927012861eb58d2df05da0f58ed1d55179d11a3985ed04114"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6BCE507FA0F6]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6BCE507FA0F6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6BCE507FA0F6
+- Ryšiai: [[Ryšiai/TAR.6BCE507FA0F6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,14 +35,14 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
-VALSTYBĖS TARNYBOS ĮSTATYMO 24 STRAIPSNIO IR PRIEDĖLIO PAKEITIMAS
+### PIRMASIS SKIRSNIS ^s-fe84738bd31c7997a7f15d56
+[[latest/TAR.D3ED3792F52B#^s-a1864c659fc8c4a3612fd66d|VALSTYBĖS TARNYBOS ĮSTATYMO 24 STRAIPSNIO]] IR PRIEDĖLIO PAKEITIMAS
 
 (Žin., 1999, Nr. 66-2130; 2002, Nr. 45-1708; 2006, Nr. 4-97)
 
 
 
-### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-7654fcae26fdbb8daf626261
 
 
 Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -47,7 +52,7 @@ Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Priedėlio pakeitimas
+### 2 straipsnis. Priedėlio pakeitimas ^s-5bc6ac7aadc90387113d5fe9
 
 
 Priedėlyje vietoj žodžių „Minimalios mėnesinės algos dydžiais“ įrašyti žodžius „Baziniais dydžiais“ ir priedėlį išdėstyti taip:
@@ -55,7 +60,7 @@ Priedėlyje vietoj žodžių „Minimalios mėnesinės algos dydžiais“ įraš
 
 
 „Lietuvos Respublikos
-valstybės tarnybos įstatymo
+[[latest/TAR.D3ED3792F52B|valstybės tarnybos įstatymo]]
 priedėlis
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORIJOS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
@@ -151,7 +156,7 @@ Baziniais dydžiais
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-cbb30241252dd8043cb6dd43
 VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 4 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMAS
 
 
@@ -159,28 +164,28 @@ VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮST
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies 5 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies 5 punkto pakeitimas ^s-c6c1a7175f68ce7e9fb61088
 
 
 Pakeisti 2 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip: „5) lygių galimybių kontrolieriui;“.
 
 
 
-### 2 straipsnis. 4 straipsnio 1 ir 2 dalių pakeitimas
+### 2 straipsnis. 4 straipsnio 1 ir 2 dalių pakeitimas ^s-a9219925ce236c5ea749b836
 
 
-1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip: ^e2d752846c2025cd62091ad6
+1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip: ^s-b244a0a315b9daa2e11c08fa
 „1. Valstybės politikų, teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės teikimu, įvertinus valstybės politikus, teisėjus ir valstybės pareigūnus atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.“
 
 
-2. 4 straipsnio 2 dalyje vietoj žodžių ir santrumpos „Vyriausybės patvirtintos MMA“ įrašyti žodžius „bazinio dydžio“ ir šią dalį išdėstyti taip: ^b57e395ffae487e3b2a83b57
+2. 4 straipsnio 2 dalyje vietoj žodžių ir santrumpos „Vyriausybės patvirtintos MMA“ įrašyti žodžius „bazinio dydžio“ ir šią dalį išdėstyti taip: ^s-19b0ea1c5487cb407a5f98be
 
 
 „2. Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio įstatymo priedėlyje, padauginus iš bazinio dydžio. Pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.“
 
 
 
-### 3 straipsnis. Priedėlio pakeitimas
+### 3 straipsnis. Priedėlio pakeitimas ^s-4ca89fb77812cace5c61d2fb
 
 
 Priedėlyje vietoj santrumpos „MMA“ įrašyti žodžius „Baziniais“, vietoj žodžių „Moterų ir vyrų lygių galimybių kontrolierius“ įrašyti žodžius „Lygių galimybių kontrolierius“ ir priedėlį išdėstyti taip:
@@ -195,7 +200,7 @@ priedėlis
 
 
 
-## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+## I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS ^s-6c6eff60328160184d2d1eca
 
 (Baziniais dydžiais)
 
@@ -340,7 +345,7 @@ priedėlis
 
 
 
-## II. TEISĖJŲ PAREIGINĖS ALGOS
+## II. TEISĖJŲ PAREIGINĖS ALGOS ^s-0de66803175996063737cbc0
 
 (Baziniais dydžiais)
 
@@ -432,7 +437,7 @@ priedėlis
 
 
 
-## III. PROKURORŲ PAREIGINĖS ALGOS
+## III. PROKURORŲ PAREIGINĖS ALGOS ^s-9c01a42fe58c31bf3e9f18f3
 
 (Baziniais dydžiais)
 
@@ -623,7 +628,7 @@ Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
 
 
 
-## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+## IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS ^s-a46c2825411e407dde9cb6d7
 
 (Baziniais dydžiais)
 
@@ -783,20 +788,20 @@ TREČIASIS SKIRSNIS BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo įgyvendinimas
+### 1 straipsnis. Įstatymo įgyvendinimas ^s-3cf51f77817591485e3e6435
 
 
 
-1. 2006 metų bazinis dydis, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareigines algas, yra lygus 430 litų. ^aea54ca0a43ee83bf8673b55
+1. 2006 metų bazinis dydis, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareigines algas, yra lygus 430 litų. ^s-27c339e7fa34357f0a0cc3d2
 
 
-2. Vyriausybė, teikdama Seimui 2007 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, kartu pateikia ir siūlomą tvirtinti 2007 metų pareiginės algos bazinį dydį, kurį, numatydama reikalingus asignavimus 2007 metų valstybės ir savivaldybių biudžetuose, apskaičiuoja įvertinusi 2005 metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką. ^bb74ff63f79c9cd0c76b5dba
+2. Vyriausybė, teikdama Seimui [[latest/TAR.802CCF0B0455|2007 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą, kartu pateikia ir siūlomą tvirtinti 2007 metų pareiginės algos bazinį dydį, kurį, numatydama reikalingus asignavimus 2007 metų valstybės ir savivaldybių biudžetuose, apskaičiuoja įvertinusi 2005 metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką. ^s-a61e234fe5f58f8a40500151
 
 
-3. Vyriausybė siūlomą tvirtinti 2008 ir vėlesnių metų bazinį dydį, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareigines algas, pateikia Seimui kasmet iki gegužės 1 dienos. ^510fbbfa1f2f625d8c86a637
+3. Vyriausybė siūlomą tvirtinti 2008 ir vėlesnių metų bazinį dydį, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareigines algas, pateikia Seimui kasmet iki gegužės 1 dienos. ^s-68bf3f024f3d5fcbfff9fa3b
 
 
-4. Vyriausybė per tris mėnesius nuo šio įstatymo įsigaliojimo turi peržiūrėti ir pakeisti galiojančius teisės aktus, nustatydama, kad apskaičiuojant darbo užmokestį vietoj minimalios mėnesinės algos taikomas pareiginės algos bazinis dydis. ^779afd345b96eb35aeea43df
+4. Vyriausybė per tris mėnesius nuo šio įstatymo įsigaliojimo turi peržiūrėti ir pakeisti galiojančius teisės aktus, nustatydama, kad apskaičiuojant darbo užmokestį vietoj minimalios mėnesinės algos taikomas pareiginės algos bazinis dydis. ^s-11c8526519daa6adcca323cc
 
 
 

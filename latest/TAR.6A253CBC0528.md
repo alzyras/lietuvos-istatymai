@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6A253CBC0528"
 pavadinimas: "Lietuvos Respublikos gyventojų ir būstų 1999 metų visuotinio surašymo įstatymo pavadinimo ir 1, 4, 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų ir būstų 1999 metų visuotinio surašymo įstatymo pavadinimo ir 1, 4, 10 straipsnių pakeitimo įstatymas"
+  - "gyventojų ir būstų 1999 metų visuotinio surašymo įstatymo pavadinimo ir 1, 4, 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-25"
 latest_path: "latest/TAR.6A253CBC0528.md"
 latest_sha256: "213b73562c6792f8c60a5628e6c311b429e423cfcb312b2d3b3b172d2b6caf45"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6A253CBC0528]]"
 ---
 # Lietuvos Respublikos gyventojų ir būstų 1999 metų visuotinio surašymo įstatymo pavadinimo ir 1, 4, 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6A253CBC0528.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6A253CBC0528
+- Ryšiai: [[Ryšiai/TAR.6A253CBC0528|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+### 1 straipsnis. Įstatymo pavadinimo pakeitimas ^s-f5d8f8382798b73fdf7ce1cc
 
 
 Įstatymo pavadinime vietoj skaičiaus „1999“ įrašyti skaičių „2001“ ir pavadinimą išdėstyti taip:
@@ -41,20 +46,20 @@ Vilnius
 
 
 
-### 2 straipsnis. 1 straipsnio pakeitimas
+### 2 straipsnis. 1 straipsnio pakeitimas ^s-ba0d8ffd03ba804033f7ed2d
 
 
-[[#1 straipsnis. Įstatymo pavadinimo pakeitimas|1 straipsnyje]] vietoj skaičiaus „1999“ įrašyti skaičių „2001“ ir šį straipsnį išdėstyti taip:
+[[#^s-f5d8f8382798b73fdf7ce1cc|1 straipsnyje]] vietoj skaičiaus „1999“ įrašyti skaičių „2001“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#1 straipsnis. Įstatymo pavadinimo pakeitimas|1 straipsnis]]. Įstatymo paskirtis
+„[[#^s-f5d8f8382798b73fdf7ce1cc|1 straipsnis]]. Įstatymo paskirtis
 
 
 Šis įstatymas nustato gyventojų ir būstų 2001 metų visuotinio surašymo (toliau – surašymas) organizavimo bendruosius principus, gyventojų pareigas teikti duomenis, surašymo metu gautų duomenų naudojimo tvarką.“
 
 
 
-### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-05cfa3dcd39e3728e950d0ce
 
 
 4 straipsnio 1 dalyje vietoj datos „1999 m. gruodžio 1 d.“ įrašyti datą „2001 m. balandžio 5 d.“ ir šią dalį išdėstyti taip:
@@ -64,7 +69,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 10 straipsnio pakeitimas
+### 4 straipsnis. 10 straipsnio pakeitimas ^s-e202759607a08b19559c7857
 
 
 10 straipsnyje vietoj datos „1998 m. liepos 1 d.“ įrašyti datą „2000 m. liepos 1 d.“, vietoj skaičiaus „1999“ įrašyti skaičių „2001“ ir šį straipsnį išdėstyti taip:

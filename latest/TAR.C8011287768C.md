@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C8011287768C"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo papildymo ir pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 3 priedo papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-05-25"
 latest_path: "latest/TAR.C8011287768C.md"
 latest_sha256: "cfa6a85723f1608abb5b4ac19b3d85cbc7b0aaac8908fbf638d3c624e5ebce0f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C8011287768C]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C8011287768C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C8011287768C
+- Ryšiai: [[Ryšiai/TAR.C8011287768C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,10 +38,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo 3 priedo II skyriaus papildymas ir pakeitimas
+### 1 straipsnis. Įstatymo 3 priedo II skyriaus papildymas ir pakeitimas ^s-38415fef75ed6da261beb67a
 
 
-1. Papildyti Įstatymo 3 priedo II skyrių nauja 13 eilute: ^14d8a1b777abb7fb353f8dd1
+1. Papildyti Įstatymo 3 priedo II skyrių nauja 13 eilute: ^s-0854fc97926c68988d2815af
 
 
  „13.
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-2. Įstatymo 3 priedo II skyriaus 13 eilutę laikyti 14 eilute, šios eilutės 2 stulpelyje išbraukti žodžius „Seimo frakcijos referentas“ ir „Seimo nario padėjėjas-sekretorius“ ir šią eilutę išdėstyti taip: ^2d9a856d1dfaedab2c7aad69
+2. Įstatymo 3 priedo II skyriaus 13 eilutę laikyti 14 eilute, šios eilutės 2 stulpelyje išbraukti žodžius „Seimo frakcijos referentas“ ir „Seimo nario padėjėjas-sekretorius“ ir šią eilutę išdėstyti taip: ^s-5867332ab29f2f3c3dfdc671
 
 
  „14.
@@ -72,7 +77,7 @@ Vilnius
 
 
 
-3. Papildyti Įstatymo 3 priedo II skyrių nauja 15 eilute: ^152be2586fbc010fb4fa0445
+3. Papildyti Įstatymo 3 priedo II skyrių nauja 15 eilute: ^s-78b98f0073948111dbdd3423
 
 
  „15.
@@ -90,7 +95,7 @@ Vilnius
 
 
 
-4. Įstatymo 3 priedo II skyriaus 14 eilutę laikyti 16 eilute, šios eilutės 2 stulpelyje išbraukti žodžius „Seimo nario padėjėjas-sekretorius“, 6 stulpelyje – raidę ir skaičius „B 9–11“ ir šią eilutę išdėstyti taip: ^1955ad5d4733083c3fb68f77
+4. Įstatymo 3 priedo II skyriaus 14 eilutę laikyti 16 eilute, šios eilutės 2 stulpelyje išbraukti žodžius „Seimo nario padėjėjas-sekretorius“, 6 stulpelyje – raidę ir skaičius „B 9–11“ ir šią eilutę išdėstyti taip: ^s-da26f314d3d34810d52b04e5
 
 
  „16.
@@ -108,13 +113,13 @@ Vilnius
 
 
 
-5. Įstatymo 3 priedo II skyriaus 15–20 eilutes laikyti atitinkamai 17–22 eilutėmis. ^f514b02dcbb3df6c974629f3
+5. Įstatymo 3 priedo II skyriaus 15–20 eilutes laikyti atitinkamai 17–22 eilutėmis. ^s-74d9027a141453a29f7c29c9
 
 
-### 2 straipsnis. Įstatymo 3 priedo III skyriaus papildymas ir pakeitimas
+### 2 straipsnis. Įstatymo 3 priedo III skyriaus papildymas ir pakeitimas ^s-483eda6de34decb093e6f909
 
 
-1. Papildyti Įstatymo 3 priedo III skyrių nauja 13 eilute: ^88300d2b8a3b762a4d8b58a3
+1. Papildyti Įstatymo 3 priedo III skyrių nauja 13 eilute: ^s-546db9a32f830584cb28d862
 
 
  „13.
@@ -132,7 +137,7 @@ Vilnius
 
 
 
-2. Įstatymo 3 priedo III skyriaus 13 eilutę laikyti 14 eilute, šios eilutės 2 stulpelyje žodžius išbraukti „Seimo frakcijos referentas“ ir „Seimo nario padėjėjas-sekretorius“ ir šią eilutę išdėstyti taip: ^c26cb3bcf87f106618a8e54d
+2. Įstatymo 3 priedo III skyriaus 13 eilutę laikyti 14 eilute, šios eilutės 2 stulpelyje žodžius išbraukti „Seimo frakcijos referentas“ ir „Seimo nario padėjėjas-sekretorius“ ir šią eilutę išdėstyti taip: ^s-9f1a9ab22851dcaaded5f384
 
 
  „14.
@@ -150,7 +155,7 @@ Vilnius
 
 
 
-3. Papildyti Įstatymo 3 priedo III skyrių nauja 15 eilute: ^bcdc9e80faec091fd6347f48
+3. Papildyti Įstatymo 3 priedo III skyrių nauja 15 eilute: ^s-c71ffe698c60474f06aae03c
 
 
  „15.
@@ -168,7 +173,7 @@ Vilnius
 
 
 
-4. Įstatymo 3 priedo III skyriaus 14 eilutę laikyti 16 eilute, šios eilutės 2 stulpelyje išbraukti žodžius „Seimo nario padėjėjas-sekretorius“, 6 stulpelyje – raidę ir skaičius „B 9–11“ ir šią eilutę išdėstyti taip: ^069bfc96342bb112c8fb71c2
+4. Įstatymo 3 priedo III skyriaus 14 eilutę laikyti 16 eilute, šios eilutės 2 stulpelyje išbraukti žodžius „Seimo nario padėjėjas-sekretorius“, 6 stulpelyje – raidę ir skaičius „B 9–11“ ir šią eilutę išdėstyti taip: ^s-8558d77305fa2bfd49f5a426
 
 
 
@@ -187,7 +192,7 @@ Vilnius
 
 
 
-5. Įstatymo 3 priedo III skyriaus 15–20 eilutes atitinkamai laikyti 17–22 eilutėmis. ^219ee194abd5de59b69acbe7
+5. Įstatymo 3 priedo III skyriaus 15–20 eilutes atitinkamai laikyti 17–22 eilutėmis. ^s-5c6a971b5549653e1a64e69d
 
 
 

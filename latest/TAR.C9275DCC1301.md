@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C9275DCC1301"
 pavadinimas: "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.C9275DCC1301.md"
 latest_sha256: "6c653b0fce6918842f9c0603e749fd0f02c4495cf6b003460bfc4510e4758038"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C9275DCC1301]]"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C9275DCC1301.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C9275DCC1301
+- Ryšiai: [[Ryšiai/TAR.C9275DCC1301|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-e406f6c7cfb0fdf38fbaea3b
 
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Valstybinė žemė, dėl kurios pagal įstatymus, reglamentuojančius piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą, nepateikti prašymai atkurti nuosavybės teises ją perduodant nuosavybėn neatlygintinai, parduodama suformavus žemės sklypus teritorijų planavimo dokumentuose ar žemės valdos projektuose Žemės reformos įstatymo nustatyta tvarka.“
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c7b73bdd756325a61bb7b9b4
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

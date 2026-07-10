@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3DA045B7FE05"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-29"
 latest_path: "latest/TAR.3DA045B7FE05.md"
 latest_sha256: "0ceeadeccc388e4126e6d34cc585c3bc6a080b6e30293d89d1db592b075164ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3DA045B7FE05]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3DA045B7FE05.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3DA045B7FE05
+- Ryšiai: [[Ryšiai/TAR.3DA045B7FE05|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio IV skirsnio pakeitimas
+### 1 straipsnis. Įstatymo priedėlio IV skirsnio pakeitimas ^s-8d56578a6e9521f704bafd2c
 
 
 Įstatymo priedėlio IV skirsnio 4 ir 5 punktuose vietoj skaičiaus „12“ įrašyti skaičių „13“ ir šiuos punktus išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 „4. Lygių galimybių kontrolierius                                  13
 
 
-5. Vaiko teisių apsaugos kontrolierius                           13“. ^48964074087854171bb4e4a8
+5. Vaiko teisių apsaugos kontrolierius                           13“. ^s-71995821735b7dccdda90d3d
 
 
 

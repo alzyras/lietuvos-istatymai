@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EAD6C1F8DBF8"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "švietimo įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-07-12"
 latest_path: "latest/TAR.EAD6C1F8DBF8.md"
 latest_sha256: "fb4fe24cb79f75e4ea00f05088bde196a9dbadbb09036fe92f223ed0b53aed76"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EAD6C1F8DBF8]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EAD6C1F8DBF8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EAD6C1F8DBF8
+- Ryšiai: [[Ryšiai/TAR.EAD6C1F8DBF8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas ^s-8d91a2b25a14ff5279c7051b
 
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas ^s-26905e12caa0a52f8289ae25
 
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įgyvendinimas
+### 3 straipsnis. Įstatymo įgyvendinimas ^s-06fecb3bd4ee5557707f5cc0
 
 
 Švietimo ir mokslo ministerija iki 2007 m. rugpjūčio 1 d. parengia šiam įstatymui įgyvendinti reikalingus teisės aktus.

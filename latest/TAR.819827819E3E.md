@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.819827819E3E"
 pavadinimas: "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 4, 8, 10 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 4, 8, 10 ir 14 straipsnių pakeitimo įstatymas"
+  - "indėlių ir įsipareigojimų investuotojams draudimo įstatymo 4, 8, 10 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.819827819E3E.md"
 latest_sha256: "818a2d923c5c41d57ae640c919d86b0c939018be55651abe1f89e8ffcdc0970a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.819827819E3E]]"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 4, 8, 10 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.819827819E3E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.819827819E3E
+- Ryšiai: [[Ryšiai/TAR.819827819E3E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-1af6e95588d3ba165b25131c
 
 
 4 straipsnio 1 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-ce6f331062238767dccb0e0f
 
 
 8 straipsnio 1 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-0885c66a789b833d8875fcc0
 
 
 10 straipsnio 3 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
@@ -63,7 +68,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 14 straipsnio 4 dalies pakeitimas
+### 4 straipsnis. 14 straipsnio 4 dalies pakeitimas ^s-90843feffd7d3bf15447b283
 
 
 14 straipsnio 4 dalyje vietoj žodžių „Valstybės žinių“ priede „Informaciniai pranešimai“ įrašyti žodžius „savo interneto svetainėje“ ir šią dalį išdėstyti taip:
@@ -73,7 +78,7 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-f14a676c3bcf909862c8b47e
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

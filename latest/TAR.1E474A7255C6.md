@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1E474A7255C6"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-06"
 latest_path: "latest/TAR.1E474A7255C6.md"
 latest_sha256: "77ccff6fbb60f75df18c830c5f4188552ba9be5bc0d9e47574c232be4c08bebc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1E474A7255C6]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1E474A7255C6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1E474A7255C6
+- Ryšiai: [[Ryšiai/TAR.1E474A7255C6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,32 +37,32 @@ Nr. 123-5585; 2004, Nr. 25-749, Nr. 60-2118, Nr. 73-2535, Nr. 158-5757, Nr. 167-
 
 
 
-### 1 straipsnis.         17 straipsnio 1 dalies 15 punkto pripažinimas netekusiu galios ir 16, 17, 21 punktų pakeitimas
+### 1 straipsnis.         17 straipsnio 1 dalies 15 punkto pripažinimas netekusiu galios ir 16, 17, 21 punktų pakeitimas ^s-9ac66154d66ef096a9379e98
 
 
-1. Pripažinti netekusiu galios 17 straipsnio 1 dalies 15 punktą. ^26aa45a0df60e728b9fbded1
+1. Pripažinti netekusiu galios 17 straipsnio 1 dalies 15 punktą. ^s-ac462262849266f60f1c467c
 
 
-2. Pakeisti 17 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip: ^8c0cf3f38983e5992dbf2ca7
+2. Pakeisti 17 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip: ^s-c38f127e0f053b359903aeb5
 
 
 „16) palūkanos už Europos ekonominės erdvės valstybių narių vyriausybių, taip pat Europos ekonominės erdvės valstybių narių politinių ar teritorijos administracinių padalinių vertybinius popierius;“.
 
 
-3. Pakeisti 17 straipsnio 1 dalies 17 punktą ir jį išdėstyti taip: ^170dd7d00c6f4794b30d2de2
+3. Pakeisti 17 straipsnio 1 dalies 17 punktą ir jį išdėstyti taip: ^s-3dc0183ea02da7a09bfc456f
 
 
 „17) Europos ekonominės erdvės valstybėse narėse gautos palūkanos už jų bankuose ir kitose kredito įstaigose laikomus indėlius;“.
 
 
-4. Pakeisti 17 straipsnio 1 dalies 21 punktą ir jį išdėstyti taip: ^335bcb00a43345f36634c60f
+4. Pakeisti 17 straipsnio 1 dalies 21 punktą ir jį išdėstyti taip: ^s-3b74c8b6c05fefb6c45acd67
 
 
 „21) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje narėje, arba nekilnojamąjį daiktą, esantį Europos ekonominės erdvės valstybėje narėje, jeigu jie įsigyti anksčiau negu prieš trejus metus iki šio turto pardavimo ar kitokio perleidimo nuosavybėn;“.
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-db1ff6c40a2bc963e064ce59
 
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2007 m. ir vėlesnių metų pajamas.

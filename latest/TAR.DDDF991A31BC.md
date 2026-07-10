@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DDDF991A31BC"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo 20 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo 20 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo 20 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-11-06"
 latest_path: "latest/TAR.DDDF991A31BC.md"
 latest_sha256: "90d92d5b8307643169806c3884afef4b7dd02e88f2d9f14379c78f2071375b32"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DDDF991A31BC]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo 20 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DDDF991A31BC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DDDF991A31BC
+- Ryšiai: [[Ryšiai/TAR.DDDF991A31BC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio pakeitimas
+### 1 straipsnis. 20 straipsnio pakeitimas ^s-34c0825b033c24e41f474cf3
 
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:

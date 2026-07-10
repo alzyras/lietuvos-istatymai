@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.98C4E019B535"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10, 12 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10, 12 ir 13 straipsnių pakeitimo įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10, 12 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.98C4E019B535.md"
 latest_sha256: "62c9c0fcabd7bf38d0a94bdc843c42701058cf39ecfd70fe998931b9f31cc14c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.98C4E019B535]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 5, 10, 12 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.98C4E019B535.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.98C4E019B535
+- Ryšiai: [[Ryšiai/TAR.98C4E019B535|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies 2 punkto pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies 2 punkto pakeitimas ^s-50a1f6f4774d5582ca998aab
 
 
 5 straipsnio 2 dalies 2 punkte vietoj žodžių „priskirtajai (ribotai savarankiškai)“ įrašyti žodį „savarankiškajai“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-26e72d4311eb5fe031e34a8a
 
 
 10 straipsnio 2 dalyje vietoj žodžių „priskirtajai (ribotai savarankiškai)“ įrašyti žodžius „savarankiškajai“ ir šią dalį išdėstyti taip:
@@ -53,24 +58,24 @@ Vilnius
 
 
 
-### 3 straipsnis. 12 straipsnio pakeitimas
+### 3 straipsnis. 12 straipsnio pakeitimas ^s-83325501be0dc918c81b6db1
 
 
-12 straipsnio 1 ir [[#^7af3a6b49383df9db46a4a92|2 dalyse]] po žodžių „be specialių tikslinių dotacijų“ įrašyti žodžius „ir pajamų iš vietinių rinkliavų“, [[#^7af3a6b49383df9db46a4a92|2 dalyje]] vietoj skaičiaus ir žodžio „20 procentų“ įrašyti skaičių ir žodį „21 procentu“ ir šį straipsnį išdėstyti taip:
+12 straipsnio 1 ir [[#^s-c3cd265e0b169d45c6ee2255|2 dalyse]] po žodžių „be specialių tikslinių dotacijų“ įrašyti žodžius „ir pajamų iš vietinių rinkliavų“, [[#^s-c3cd265e0b169d45c6ee2255|2 dalyje]] vietoj skaičiaus ir žodžio „20 procentų“ įrašyti skaičių ir žodį „21 procentu“ ir šį straipsnį išdėstyti taip:
 
 
 
 „12 straipsnis. Valstybės biudžeto bendrosios dotacijos kompensacijos savivaldybių biudžetams ir valstybės biudžetui
 
 
-1. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos, skirtos 100 procentų kompensuoti ateinantiems biudžetiniams metams prognozuojamų palyginamaisiais dydžiais ir sąlygomis pajamų (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) mažėjimą, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. ^64ad342aa16740a28ef2befc
+1. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos, skirtos 100 procentų kompensuoti ateinantiems biudžetiniams metams prognozuojamų palyginamaisiais dydžiais ir sąlygomis pajamų (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) mažėjimą, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. ^s-649a85f1b7460dd2bf579478
 
 
-2. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) didėja daugiau kaip 21 procentu, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.“ ^7af3a6b49383df9db46a4a92
+2. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) didėja daugiau kaip 21 procentu, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.“ ^s-c3cd265e0b169d45c6ee2255
 
 
 
-### 4 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-76d4acb10832864a46296a3e
 
 
 13 straipsnio 1 dalyje po žodžio „rodiklius“ įrašyti žodžius „ir į jas yra įskaitomos valstybės biudžeto bendrosios dotacijos kompensacijos pagal šio Įstatymo 12 straipsnio 2 dalį“ ir šią dalį išdėstyti taip:
@@ -80,10 +85,10 @@ Vilnius
 
 
 
-### 5 straipsnis. Įstatymo taikymas
+### 5 straipsnis. Įstatymo taikymas ^s-ef74879542530035450a2c89
 
 
-Šiuo įstatymu Lietuvos Respublikos Vyriausybė vadovaujasi rengdama Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+Šiuo įstatymu Lietuvos Respublikos Vyriausybė vadovaujasi rengdama [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.
 
 
 

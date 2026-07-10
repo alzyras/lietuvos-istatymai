@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.21580A693399"
 pavadinimas: "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 2 ir 17 straipsnių pakeitimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 2 ir 17 straipsnių pakeitimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas"
+  - "nedarbo socialinio draudimo įstatymo 2 ir 17 straipsnių pakeitimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-12-29"
 latest_path: "latest/TAR.21580A693399.md"
 latest_sha256: "414ba5999751755d86a48259d0fade120e526d1a16b069a202551b64293e0c52"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.21580A693399]]"
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 2 ir 17 straipsnių pakeitimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.21580A693399.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.21580A693399
+- Ryšiai: [[Ryšiai/TAR.21580A693399|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,28 +39,28 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas 2 dalimi
+### 1 straipsnis. 2 straipsnio papildymas 2 dalimi ^s-279b16ce144a0946367a1141
 
 
-Papildyti [[#^080ebac237b43de62ca5d5fb|2 straipsnį 2 dalimi]] ir visą straipsnį išdėstyti taip:
+Papildyti [[#^s-3ec9a5532431a2a50cd3689d|2 straipsnį 2 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 
-„[[#2 straipsnis. 3 straipsnio pakeitimas ir papildymas|2 straipsnis]]. 17 straipsnio 2 dalies pakeitimas
+„[[#^s-87ccfad418bc4334ab217831|2 straipsnis]]. 17 straipsnio 2 dalies pakeitimas
 
 
-1. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip: ^9950b7371fad3fa3066bb262
+1. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip: ^s-67806fae15daea3fd370eaca
 „2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
 
-2. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip: ^5724fff85c42af134d159a91
+2. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip: ^s-99b8a478b1c655ec1ee27d45
 
 
 „2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
 
 
-### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-87ccfad418bc4334ab217831
 
 
 Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
@@ -65,16 +70,16 @@ Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 „3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus [[#^ad3f83ec40322b18cfb67fe2|2 straipsnio 1 dalį]] ir [[#^3985e9b248f1c66adc2c6512|šio straipsnio 4 dalį]], įsigalioja 2013 m. sausio 1 d. ^ad3f83ec40322b18cfb67fe2
+1. Šis įstatymas, išskyrus [[#^s-f68c81758438901da32c7931|2 straipsnio 1 dalį]] ir [[#^s-de55493e6e9b66bc1eb6ee17|šio straipsnio 4 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-f68c81758438901da32c7931
 
 
-2. Šio įstatymo [[#^ad3f83ec40322b18cfb67fe2|2 straipsnio 1 dalis]] įsigalioja 2014 m. sausio 1 d. ^080ebac237b43de62ca5d5fb
+2. Šio įstatymo [[#^s-f68c81758438901da32c7931|2 straipsnio 1 dalis]] įsigalioja 2014 m. sausio 1 d. ^s-3ec9a5532431a2a50cd3689d
 
 
-3. Šio įstatymo [[#^080ebac237b43de62ca5d5fb|2 straipsnio 2 dalis]] galioja iki 2013 m. gruodžio 31 d. ^d337cc4f3397a4c42e096be8
+3. Šio įstatymo [[#^s-3ec9a5532431a2a50cd3689d|2 straipsnio 2 dalis]] galioja iki 2013 m. gruodžio 31 d. ^s-bc7eb6268cc744595a8f1fea
 
 
-4. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.“ ^3985e9b248f1c66adc2c6512
+4. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.“ ^s-de55493e6e9b66bc1eb6ee17
 
 
 

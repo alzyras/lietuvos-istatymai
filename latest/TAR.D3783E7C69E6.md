@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D3783E7C69E6"
 pavadinimas: "Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "elektros energetikos įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.D3783E7C69E6.md"
 latest_sha256: "f59b9cf3d2a16f1006c0e57bf331395e8994c93245039cb49597db2888b25cb4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D3783E7C69E6]]"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D3783E7C69E6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D3783E7C69E6
+- Ryšiai: [[Ryšiai/TAR.D3783E7C69E6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 9 dalies 2 punkto pakeitimas
+### 1 straipsnis. 16 straipsnio 9 dalies 2 punkto pakeitimas ^s-bf02a173058081d8ba56225b
 
 
 Pakeisti 16 straipsnio 9 dalies 2 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 16 straipsnio 9 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6dd47f73d3d96c37ed383ee7
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

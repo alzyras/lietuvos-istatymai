@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A83544104B07"
 pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos diplomatinės tarnybos įstatymo 24 straipsnio pakeitimo įstatymas"
+  - "diplomatinės tarnybos įstatymo 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-07-19"
 latest_path: "latest/TAR.A83544104B07.md"
 latest_sha256: "53e01541ed3c93add979e1462a5e2a9a7fea797cd77f582e6c6b922554f9825d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A83544104B07]]"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A83544104B07.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A83544104B07
+- Ryšiai: [[Ryšiai/TAR.A83544104B07|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-4b5f7685c6b7993fd26a71df
 
 
 Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:

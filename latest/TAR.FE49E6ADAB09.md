@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FE49E6ADAB09"
 pavadinimas: "Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo 1, 2 ir 3 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo 1, 2 ir 3 straipsnių pakeitimo įstatymas"
+  - "kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo 1, 2 ir 3 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-02-01"
 latest_path: "latest/TAR.FE49E6ADAB09.md"
 latest_sha256: "f6a0141b1375f514c2f55cb4acec4348b3da1590de4bf33ea328d2e0fd1c4bc3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FE49E6ADAB09]]"
 ---
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo 1, 2 ir 3 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FE49E6ADAB09.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FE49E6ADAB09
+- Ryšiai: [[Ryšiai/TAR.FE49E6ADAB09|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-a2879570d79590a84550eb0e
 
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -41,23 +46,23 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-e2b4464e62730d98ba9851de
 
 
-1. Pakeisti [[#^d11cd0e23e2b470f815ce772|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^c21f36614eeb94e7048ce6ee
+1. Pakeisti [[#^s-067ea990b984bce48e2e0941|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-05d43cdd00c91b0e13edaa7c
 
 
 „2. Jeigu viename būste gyvena kompensacijų gavėjai ir kiti asmenys (šeimos), neturintys teisės į šio įstatymo nustatytas kompensacijas, tačiau už išlaidas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), išlaidos, tenkančios kompensacijų gavėjams, apskaičiuojamos lygiomis dalimis, atsižvelgiant į tame būste gyvenamąją vietą deklaravusių asmenų skaičių.“
 
 
-2. Papildyti 2 straipsnį 3 dalimi: ^d11cd0e23e2b470f815ce772
+2. Papildyti 2 straipsnį 3 dalimi: ^s-067ea990b984bce48e2e0941
 
 
 „3. Šio straipsnio 1 dalyje nurodytos išlaidos, jeigu jos padarytos vykdant ūkinę ar komercinę veiklą, nekompensuojamos.“
 
 
 
-### 3 straipsnis. 3 straipsnio pakeitimas
+### 3 straipsnis. 3 straipsnio pakeitimas ^s-5652a9b37868dd9f23422f6b
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
@@ -70,7 +75,7 @@ Kompensacijos teikiamos savivaldybės administracijos direktoriaus nustatyta tva
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-c912060a9f604d509a7c38a1
 
 
 Šis įstatymas įsigalioja nuo 2006 m. vasario 1 d.

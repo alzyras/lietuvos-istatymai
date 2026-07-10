@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C427721C7502"
 pavadinimas: "Lietuvos Respublikos viešojo administravimo įstatymo 2, 5, 7, 8 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 9-1 ir 43 straipsniais įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešojo administravimo įstatymo 2, 5, 7, 8 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 9-1 ir 43 straipsniais įstatymas"
+  - "viešojo administravimo įstatymo 2, 5, 7, 8 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 9-1 ir 43 straipsniais įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.C427721C7502.md"
 latest_sha256: "c7b42a0d94a9a8156e4ddcae3c211fe2b424f64cc649cdd6421fa1afee0ea207"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C427721C7502]]"
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 2, 5, 7, 8 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 9-1 ir 43 straipsniais įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C427721C7502.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C427721C7502
+- Ryšiai: [[Ryšiai/TAR.C427721C7502|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-8f73938f182f12a0911241f8
 
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -44,35 +49,35 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-f407bb2565d55ef334062b4c
 
 
-Pakeisti [[#5 straipsnis. Įstatymo papildymas 91 straipsniu|5 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-437ab813d07f31a622a12af3|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#5 straipsnis. Įstatymo papildymas 91 straipsniu|5 straipsnis]]. Pagrindinės viešojo administravimo sritys
+„[[#^s-437ab813d07f31a622a12af3|5 straipsnis]]. Pagrindinės viešojo administravimo sritys
 
 
 Pagrindinės viešojo administravimo sritys:
 
 
-1) administracinis reglamentavimas; ^280c8a081df760bc9719ae55
+1) administracinis reglamentavimas; ^s-ea6ec2bddf393bdf84ef74d0
 
 
-2) įstatymų ir administracinių sprendimų įgyvendinimo kontrolė (pavaldžių subjektų kontrolė, nepavaldžių subjektų priežiūra); ^50d0a2e5f43990e15a66a687
+2) įstatymų ir administracinių sprendimų įgyvendinimo kontrolė (pavaldžių subjektų kontrolė, nepavaldžių subjektų priežiūra); ^s-81ab26be2147bffe6fe5221f
 
 
-3) administracinių paslaugų teikimas; ^1f5f19cf40b0fdaeeb5a31a6
+3) administracinių paslaugų teikimas; ^s-b01536f7d97e7af1f8495cb4
 
 
-4) viešųjų paslaugų teikimo administravimas; ^b97d8ddc1c04fe7b5a16f7a3
+4) viešųjų paslaugų teikimo administravimas; ^s-ee7da51e71751765db73ce60
 
 
-5) viešojo administravimo subjekto vidaus administravimas.“ ^f878bc2dbf7ff439ce870e43
+5) viešojo administravimo subjekto vidaus administravimas.“ ^s-39d4e802e58c19b70d2c3b7c
 
 
 
-### 3 straipsnis. 7 straipsnio papildymas 3 dalimi
+### 3 straipsnis. 7 straipsnio papildymas 3 dalimi ^s-ae7a98fdd05659312258a925
 
 
 Papildyti 7 straipsnį 3 dalimi:
@@ -82,7 +87,7 @@ Papildyti 7 straipsnį 3 dalimi:
 
 
 
-### 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 8 straipsnio 1 dalies pakeitimas ^s-fc0283e0edfeb05ee45baf95
 
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -92,7 +97,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo papildymas 91 straipsniu
+### 5 straipsnis. Įstatymo papildymas 91 straipsniu ^s-437ab813d07f31a622a12af3
 
 
 Papildyti Įstatymą 91 straipsniu:
@@ -102,62 +107,62 @@ Papildyti Įstatymą 91 straipsniu:
 „91 straipsnis. Verslo subjektų veiklos priežiūra
 
 
-1. Verslu užsiimančių juridinių ir fizinių asmenų (toliau – verslo subjektų) veiklos priežiūra – įstatymais įgaliotų atlikti [[#^96db3bdc8efc14457f2b9ea4|šio straipsnio 2 dalyje]] nurodytus veiksmus viešojo administravimo subjektų veikla, skirta kontroliuoti, ar verslo subjektai laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų, ar tinkamai tuos reikalavimus vykdo, ir įgyvendinti priemones, mažinančias galimų pažeidimų skaičių. ^a73fc97375e717ad834b40c2
+1. Verslu užsiimančių juridinių ir fizinių asmenų (toliau – verslo subjektų) veiklos priežiūra – įstatymais įgaliotų atlikti [[#^s-b919cd3d56d2a461f29fe248|šio straipsnio 2 dalyje]] nurodytus veiksmus viešojo administravimo subjektų veikla, skirta kontroliuoti, ar verslo subjektai laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų, ar tinkamai tuos reikalavimus vykdo, ir įgyvendinti priemones, mažinančias galimų pažeidimų skaičių. ^s-d188eb548f7bb1e7cb6c304f
 
 
-2. Verslo subjektų veiklos priežiūra apima: ^96db3bdc8efc14457f2b9ea4
+2. Verslo subjektų veiklos priežiūra apima: ^s-b919cd3d56d2a461f29fe248
 
 
-1) verslo subjektų veiklos patikrinimus; ^904f34e42ad628999f079052
+1) verslo subjektų veiklos patikrinimus; ^s-a576d30689ee15e00c50e7c6
 
 
-2) teisės aktų nustatyta tvarka gautos informacijos apie verslo subjektų veiklą vertinimą; ^f633ab02f5a5249b5369106a
+2) teisės aktų nustatyta tvarka gautos informacijos apie verslo subjektų veiklą vertinimą; ^s-dfd50093ebdf36971cb30841
 
 
-3) prevencinių veiksmų, skirtų užkirsti kelią galimiems teisės pažeidimams, atlikimą ir poveikio priemonių verslo subjektams taikymą įstatymų ir jų pagrindu priimtų kitų teisės aktų nustatyta tvarka. ^f2bf241eccdcf1fb8e93ab58
+3) prevencinių veiksmų, skirtų užkirsti kelią galimiems teisės pažeidimams, atlikimą ir poveikio priemonių verslo subjektams taikymą įstatymų ir jų pagrindu priimtų kitų teisės aktų nustatyta tvarka. ^s-a7af7deaa2127103bc601116
 
 
-3. Verslą prižiūrinčių subjektų veikla, susijusi su verslo subjektų veiklos priežiūra, turi būti atliekama tik pagal verslą prižiūrintiems subjektams įstatymais suteiktus įgaliojimus, vadovaujantis šiuo ir kitais verslo subjektų veiklos priežiūrą reglamentuojančiais įstatymais ir jų pagrindu priimtais kitais teisės aktais. Ši veikla turi būti planuojama ir turi kuo mažiau trikdyti verslo subjektų veiklą. ^fbc954e74d23694c318b5e4e
+3. Verslą prižiūrinčių subjektų veikla, susijusi su verslo subjektų veiklos priežiūra, turi būti atliekama tik pagal verslą prižiūrintiems subjektams įstatymais suteiktus įgaliojimus, vadovaujantis šiuo ir kitais verslo subjektų veiklos priežiūrą reglamentuojančiais įstatymais ir jų pagrindu priimtais kitais teisės aktais. Ši veikla turi būti planuojama ir turi kuo mažiau trikdyti verslo subjektų veiklą. ^s-ddc7d75cc1b6f53f8957caa0
 
 
-4. Verslo subjektų veiklos patikrinimai gali būti planiniai ir neplaniniai. ^2fc663e8915e2f561a2228b8
+4. Verslo subjektų veiklos patikrinimai gali būti planiniai ir neplaniniai. ^s-3662007b558abd2fa85013ca
 
 
-5. Planinis verslo subjektų veiklos patikrinimas atliekamas pagal verslą prižiūrinčio subjekto vadovo ar jo įgalioto asmens patvirtintą planą, kuris vadovo sprendimu gali būti koreguojamas. Tikrintini verslo subjektai atrenkami vadovaujantis verslą prižiūrinčio subjekto vadovo patvirtintomis verslo subjektų veiklos priežiūros atrankos taisyklėmis, o patikrinimų periodiškumas turi būti pagrįstas. ^fd3f63ba569da93bba8abd6e
+5. Planinis verslo subjektų veiklos patikrinimas atliekamas pagal verslą prižiūrinčio subjekto vadovo ar jo įgalioto asmens patvirtintą planą, kuris vadovo sprendimu gali būti koreguojamas. Tikrintini verslo subjektai atrenkami vadovaujantis verslą prižiūrinčio subjekto vadovo patvirtintomis verslo subjektų veiklos priežiūros atrankos taisyklėmis, o patikrinimų periodiškumas turi būti pagrįstas. ^s-14ddf6b95e78a639377ada3c
 
 
-6. Neplaninis verslo subjekto veiklos patikrinimas atliekamas verslą prižiūrinčio subjekto iniciatyva, jeigu verslą prižiūrinčio subjekto vadovas ar jo įgaliotas asmuo priima sprendimą atlikti šį patikrinimą. Neplaninis verslo subjekto veiklos patikrinimas gali būti atliekamas: ^c5433cdf649db203d09fce55
+6. Neplaninis verslo subjekto veiklos patikrinimas atliekamas verslą prižiūrinčio subjekto iniciatyva, jeigu verslą prižiūrinčio subjekto vadovas ar jo įgaliotas asmuo priima sprendimą atlikti šį patikrinimą. Neplaninis verslo subjekto veiklos patikrinimas gali būti atliekamas: ^s-c0007c0748d30f334ce77204
 
 
-1) atsiradus aplinkybių, kurių nebuvo galima numatyti tvirtinant verslo subjektų veiklos patikrinimų planą; ^e082a3cba9b6d36b2db152eb
+1) atsiradus aplinkybių, kurių nebuvo galima numatyti tvirtinant verslo subjektų veiklos patikrinimų planą; ^s-1fed1d107a15a1231966360f
 
 
-2) gavus kito kompetentingo viešojo administravimo subjekto prašymą ar pavedimą atlikti verslo subjekto veiklos patikrinimą; ^d44639ec3f77b2bf07664a0b
+2) gavus kito kompetentingo viešojo administravimo subjekto prašymą ar pavedimą atlikti verslo subjekto veiklos patikrinimą; ^s-6195483093ff074859e0323c
 
 
-3) turint informacijos apie verslo subjekto veiką, kuri gali prieštarauti teisės aktams ar neatitikti teisės aktų reikalavimų; ^e059ab9cb7af13ca439b85b5
+3) turint informacijos apie verslo subjekto veiką, kuri gali prieštarauti teisės aktams ar neatitikti teisės aktų reikalavimų; ^s-b6648bb1c19abdedc0d85e4f
 
 
-4) siekiant užtikrinti verslo subjekto veiklos ankstesnio patikrinimo metu nustatytų teisės aktų pažeidimų pašalinimą ir priimtų sprendimų įgyvendinimą; ^4dd60912e1d147769f8982e8
+4) siekiant užtikrinti verslo subjekto veiklos ankstesnio patikrinimo metu nustatytų teisės aktų pažeidimų pašalinimą ir priimtų sprendimų įgyvendinimą; ^s-98e675028ec6f04598b07647
 
 
-5) esant bendram su kitomis valstybės įstaigomis ir institucijomis patikrinimui; ^8464d5e8a71be6b8f0e3d58d
+5) esant bendram su kitomis valstybės įstaigomis ir institucijomis patikrinimui; ^s-3a43e60ac1780b61340cbad5
 
 
-6) operatyvaus patikrinimo, kuris atliekamas viešojo administravimo subjekto nustatyta tvarka, atveju, kai kyla įtarimas, kad pažeidžiami teisės aktai, už kurių įgyvendinimą yra atsakingas viešojo administravimo subjektas. ^ebb7f97e29a4f24a886785bc
+6) operatyvaus patikrinimo, kuris atliekamas viešojo administravimo subjekto nustatyta tvarka, atveju, kai kyla įtarimas, kad pažeidžiami teisės aktai, už kurių įgyvendinimą yra atsakingas viešojo administravimo subjektas. ^s-10b11dbf05abc87bc2811881
 
 
-7. Verslą prižiūrintis subjektas, pradėdamas verslo subjekto veiklos planinį patikrinimą, likus ne mažiau kaip 10 darbo dienų, privalo verslo subjektą raštu informuoti apie priimtą sprendimą atlikti patikrinimą, nurodyti atliekamo patikrinimo pagrindą, terminą, dalyką ir pateikti preliminarų dokumentų, kuriuos verslo subjektas turi pateikti verslą prižiūrinčiam subjektui, sąrašą. Verslą prižiūrintis subjektas turi teisę pradėti verslo subjekto planinį patikrinimą be pranešimo apie priimtą sprendimą atlikti patikrinimą tais atvejais, kai yra rizikos, kad verslo subjektas gali paslėpti ar sunaikinti patikrinimui atlikti reikalingus dokumentus, kitus įrodymus. ^e461073f9e71eef970304c8f
+7. Verslą prižiūrintis subjektas, pradėdamas verslo subjekto veiklos planinį patikrinimą, likus ne mažiau kaip 10 darbo dienų, privalo verslo subjektą raštu informuoti apie priimtą sprendimą atlikti patikrinimą, nurodyti atliekamo patikrinimo pagrindą, terminą, dalyką ir pateikti preliminarų dokumentų, kuriuos verslo subjektas turi pateikti verslą prižiūrinčiam subjektui, sąrašą. Verslą prižiūrintis subjektas turi teisę pradėti verslo subjekto planinį patikrinimą be pranešimo apie priimtą sprendimą atlikti patikrinimą tais atvejais, kai yra rizikos, kad verslo subjektas gali paslėpti ar sunaikinti patikrinimui atlikti reikalingus dokumentus, kitus įrodymus. ^s-4a798ea168b6ae541ea91bd7
 
 
-8. Verslo subjektas turi teisę neteikti verslą prižiūrinčiam subjektui dokumentų, jei juos jis per einamuosius finansinius metus yra pateikęs nors vienam verslą prižiūrinčiam subjektui. Atsisakydamas teikti dokumentus, verslo subjektas turi raštu nurodyti, kokiam verslą prižiūrinčiam subjektui šie dokumentai yra pateikti. Verslą prižiūrintys subjektai Vyriausybės nustatyta tvarka tarpusavyje keičiasi jiems suteiktiems įgaliojimams įgyvendinti būtinais dokumentais, kuriuos jiems yra pateikę verslo subjektai. ^1d521b1875de9c5b46c27aa2
+8. Verslo subjektas turi teisę neteikti verslą prižiūrinčiam subjektui dokumentų, jei juos jis per einamuosius finansinius metus yra pateikęs nors vienam verslą prižiūrinčiam subjektui. Atsisakydamas teikti dokumentus, verslo subjektas turi raštu nurodyti, kokiam verslą prižiūrinčiam subjektui šie dokumentai yra pateikti. Verslą prižiūrintys subjektai Vyriausybės nustatyta tvarka tarpusavyje keičiasi jiems suteiktiems įgaliojimams įgyvendinti būtinais dokumentais, kuriuos jiems yra pateikę verslo subjektai. ^s-ef5ab0997f6b603e22e7d8dc
 
 
-9. Pasibaigus kalendoriniams metams, verslą prižiūrintys subjektai aukštesniųjų pagal pavaldumą viešojo administravimo subjektų nustatyta tvarka rengia ir jiems teikia metines vykdytos veiklos ataskaitas, taip pat ataskaitas dėl verslo subjektams įstatymuose ir kituose teisės aktuose nustatytų reikalavimų nesilaikymo ar netinkamo vykdymo masto, priežasčių, taikytų prevencinių ir poveikio priemonių bei siūlymus keisti ar priimti naujus teisės aktus.“ ^aa0dc376c5499b20b8c2bdac
+9. Pasibaigus kalendoriniams metams, verslą prižiūrintys subjektai aukštesniųjų pagal pavaldumą viešojo administravimo subjektų nustatyta tvarka rengia ir jiems teikia metines vykdytos veiklos ataskaitas, taip pat ataskaitas dėl verslo subjektams įstatymuose ir kituose teisės aktuose nustatytų reikalavimų nesilaikymo ar netinkamo vykdymo masto, priežasčių, taikytų prevencinių ir poveikio priemonių bei siūlymus keisti ar priimti naujus teisės aktus.“ ^s-955f25625e8c91dac95ad75d
 
 
 
-### 6 straipsnis. Įstatymo papildymas 43 straipsniu
+### 6 straipsnis. Įstatymo papildymas 43 straipsniu ^s-bb63539b3ca57c6c0ce42a37
 
 
 Papildyti Įstatymą 43 straipsniu:
@@ -171,17 +176,17 @@ Papildyti Įstatymą 43 straipsniu:
 
 
 
-### 7 straipsnis. Pasiūlymai viešojo administravimo subjektams
+### 7 straipsnis. Pasiūlymai viešojo administravimo subjektams ^s-52d969c7de64fbf71a8b9a25
 
 
 Viešojo administravimo subjektai iki 2009 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
 
-### 8 straipsnis. Įstatymo įsigaliojimas
+### 8 straipsnis. Įstatymo įsigaliojimas ^s-35862e549aa8b1b8e983a4ff
 
 
-Šis įstatymas, išskyrus [[#7 straipsnis. Pasiūlymai viešojo administravimo subjektams|7 straipsnį]], įsigalioja 2009 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-52d969c7de64fbf71a8b9a25|7 straipsnį]], įsigalioja 2009 m. sausio 1 d.
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B11AF8FA4D14"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 8, 9, 10, 16 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 8, 9, 10, 16 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 2, 4, 8, 9, 10, 16 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.B11AF8FA4D14.md"
 latest_sha256: "b08cf85c20eee029bf6b24aefb44a76036378eb9e110ccb3ffa18817af2b41e5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B11AF8FA4D14]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 8, 9, 10, 16 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B11AF8FA4D14.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B11AF8FA4D14
+- Ryšiai: [[Ryšiai/TAR.B11AF8FA4D14|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas ^s-e3ebc2f6e7216061d0e427a5
 
 
 Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -42,17 +47,17 @@ Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas ^s-a143a76353cef4c15699a33b
 
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
-„1) asmenys, dirbantys pagal darbo sutartis, kandidatai į notarus (asesoriai), asmenys, atlygintinai einantys narystės pagrindu renkamąsias pareigas ar paskirti į apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pat metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šiame punkte išvardyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme, gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme;“.
+„1) asmenys, dirbantys pagal darbo sutartis, kandidatai į notarus (asesoriai), asmenys, atlygintinai einantys narystės pagrindu renkamąsias pareigas ar paskirti į apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], tuo pat metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šiame punkte išvardyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]];“.
 
 
 
-### 3 straipsnis. 8 straipsnio 1 dalies papildymas 28 punktu
+### 3 straipsnis. 8 straipsnio 1 dalies papildymas 28 punktu ^s-0afa90946d1c7fb469f1283d
 
 
 Papildyti 8 straipsnio 1 dalį 28 punktu:
@@ -62,7 +67,7 @@ Papildyti 8 straipsnio 1 dalį 28 punktu:
 
 
 
-### 4 straipsnis. 9 straipsnio 6 dalies pakeitimas
+### 4 straipsnis. 9 straipsnio 6 dalies pakeitimas ^s-a7254a16e8e150fca805e983
 
 
 Pakeisti 9 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -72,7 +77,7 @@ Pakeisti 9 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 10 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 10 straipsnio 2 dalies pakeitimas ^s-f4df197b4ebe2667064f5192
 
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -82,7 +87,7 @@ Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 16 straipsnio 12 dalies pakeitimas
+### 6 straipsnis. 16 straipsnio 12 dalies pakeitimas ^s-e5f63466b03de37bacf1a617
 
 
 Pakeisti 16 straipsnio 12 dalį ir ją išdėstyti taip:
@@ -92,14 +97,14 @@ Pakeisti 16 straipsnio 12 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-33ed7704f2d8b830280d6134
 
 
-Šis įstatymas, išskyrus [[#8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|8 straipsnį]], įsigalioja 2010 m. sausio 1 d. ir taikomas apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už 2010 ir vėlesnius metus.
+Šis įstatymas, išskyrus [[#^s-335699434a30bed6453fe171|8 straipsnį]], įsigalioja 2010 m. sausio 1 d. ir taikomas apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už 2010 ir vėlesnius metus.
 
 
 
-### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-335699434a30bed6453fe171
 
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2010 m. sausio 1 d. parengia šio įstatymo įgyvendinamuosius teisės aktus.

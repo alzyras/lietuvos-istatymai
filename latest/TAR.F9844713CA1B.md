@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F9844713CA1B"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 9, 19 ir 56 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 9, 19 ir 56 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 9, 19 ir 56 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.F9844713CA1B.md"
 latest_sha256: "ac78b78808b2f3bc4291c7fec5232f982216f3f01d1ef4d4bd504ccc703d4615"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F9844713CA1B]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 9, 19 ir 56 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F9844713CA1B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F9844713CA1B
+- Ryšiai: [[Ryšiai/TAR.F9844713CA1B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 3 dalies pakeitimas ^s-0b6aa038cb6651b7644443ad
 
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 19 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 19 straipsnio 3 dalies pakeitimas ^s-86239cd4c8de58ed21bc89ea
 
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 56 straipsnio 6 dalies pakeitimas
+### 3 straipsnis. 56 straipsnio 6 dalies pakeitimas ^s-faebe1e7c6552a9782593ecc
 
 
 Pakeisti 56 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -61,7 +66,7 @@ Pakeisti 56 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-e68970a07247ee8843f1c4cb
 
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.

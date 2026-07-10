@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B97267E30A2F"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7 skyriaus papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7 skyriaus papildymo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 7 skyriaus papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-10-31"
 latest_path: "latest/TAR.B97267E30A2F.md"
 latest_sha256: "bfb6e5e65e49b6bb24132e01ec380c8e5247890cb74094acde68bdc491b29587"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B97267E30A2F]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7 skyriaus papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B97267E30A2F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B97267E30A2F
+- Ryšiai: [[Ryšiai/TAR.B97267E30A2F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio 7 skyriaus antrojo skirsnio papildymas
+### 1 straipsnis. Įstatymo priedėlio 7 skyriaus antrojo skirsnio papildymas ^s-4cfd17257223e291150c019c
 
 
 Įstatymo priedėlio 7 skyriaus antrojo skirsnio 1 dalyje po pastraipos „valstybės atsargomis ir kitais mobilizacinio rezervo ištekliais“ įrašyti pastraipą „šalies mokslo ir studijų institucijų bei įmonių potencialo panaudojimu“ ir šią dalį išdėstyti taip:

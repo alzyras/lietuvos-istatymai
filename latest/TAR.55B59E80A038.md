@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.55B59E80A038"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
+  - "sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.55B59E80A038.md"
 latest_sha256: "236c4f43f8045a3d6a96d360519bf5ec6174d1537d38106675180766fcdcdce7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.55B59E80A038]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.55B59E80A038.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.55B59E80A038
+- Ryšiai: [[Ryšiai/TAR.55B59E80A038|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-6faed72edb5dd9d440515b66
 
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:

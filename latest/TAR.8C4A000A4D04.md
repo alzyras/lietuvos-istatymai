@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C4A000A4D04"
 pavadinimas: "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 1, 2, 3, 4, 4(1) straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 1, 2, 3, 4, 4(1) straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 1, 2, 3, 4, 4(1) straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-01"
 latest_path: "latest/TAR.8C4A000A4D04.md"
 latest_sha256: "6cdf5b17e3eb973c0177f60c99922718fdeb841f5730664bb508b0825793b717"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C4A000A4D04]]"
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 1, 2, 3, 4, 4(1) straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C4A000A4D04.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C4A000A4D04
+- Ryšiai: [[Ryšiai/TAR.8C4A000A4D04|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas ^s-04547eccb9f1d6f4f83c9837
 
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
@@ -46,20 +51,20 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 Įstatymo nustatytos pašalpos, jeigu kitaip nenustatyta kituose Lietuvos Respublikos įstatymuose ir Lietuvos Respublikos tarptautinėse sutartyse, mokamos:
 
 
-1) Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje; ^3f94edfe751cc93c352d99bd
+1) Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje; ^s-5ea1504b77cd2bd889f7bf7f
 
 
-2) užsieniečiams (užsienio valstybės pilietybę turintiems asmenims arba asmenims be pilietybės), turintiems leidimą nuolat gyventi Lietuvos Respublikoje; ^1fd2504683d2cb2c273fb83e
+2) užsieniečiams (užsienio valstybės pilietybę turintiems asmenims arba asmenims be pilietybės), turintiems leidimą nuolat gyventi Lietuvos Respublikoje; ^s-8aeef2dd44fed58277a2baab
 
 
-3) asmenims, įstatymų nustatyta tvarka Lietuvos Respublikoje turintiems pabėgėlio statusą. ^37d95435c8d2286e334db31a
+3) asmenims, įstatymų nustatyta tvarka Lietuvos Respublikoje turintiems pabėgėlio statusą. ^s-fec826dd123e7d3e0539ba8c
 
 
-Jei šio straipsnio antrojoje dalyje nurodytas sąlygas atitinka tik vienas iš tėvų, šio įstatymo 2, 4, 41, [[#6 straipsnis. Įstatymo įsigaliojimas|6 straipsniuose]] nustatytos pašalpos mokamos jam tuomet, kai vaikas gyvena kartu su juo.“
+Jei šio straipsnio antrojoje dalyje nurodytas sąlygas atitinka tik vienas iš tėvų, šio įstatymo 2, 4, 41, [[#^s-65fc00a77f289b93641e0a3d|6 straipsniuose]] nustatytos pašalpos mokamos jam tuomet, kai vaikas gyvena kartu su juo.“
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas
+### 2 straipsnis. 2 straipsnio pakeitimas ^s-f4e56ddf53d5317278653048
 
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
@@ -72,7 +77,7 @@ Gimus kūdikiui, šeimai mokama 6 minimalių gyvenimo lygių (toliau – MGL) dy
 
 
 
-### 3 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-a2ffe7efb35966b8195d5fd2
 
 
 3 straipsnio 1 dalyje vietoj žodžio „Valstybinio“ įrašyti žodžius „Ligos ir motinystės“ ir šią dalį išdėstyti taip:
@@ -82,7 +87,7 @@ Gimus kūdikiui, šeimai mokama 6 minimalių gyvenimo lygių (toliau – MGL) dy
 
 
 
-### 4 straipsnis. 4 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-bd9ad26bbcf4cb1e177d2177
 
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
@@ -101,7 +106,7 @@ Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Je
 
 
 
-### 5 straipsnis. 41 straipsnio pakeitimas ir papildymas
+### 5 straipsnis. 41 straipsnio pakeitimas ir papildymas ^s-42d60cdb7a894a524e70484f
 
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
@@ -120,10 +125,10 @@ Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Je
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas
+### 6 straipsnis. Įstatymo įsigaliojimas ^s-65fc00a77f289b93641e0a3d
 
 
-Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d., išskyrus šio įstatymo [[#3 straipsnis. 3 straipsnio 1 dalies pakeitimas|3 straipsnį]] ir [[#4 straipsnis. 4 straipsnio pakeitimas ir papildymas|4 straipsnyje]] išdėstyto [[#4 straipsnis. 4 straipsnio pakeitimas ir papildymas|4 straipsnio]] 1 ir 2 dalis.
+Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d., išskyrus šio įstatymo [[#^s-a2ffe7efb35966b8195d5fd2|3 straipsnį]] ir [[#^s-bd9ad26bbcf4cb1e177d2177|4 straipsnyje]] išdėstyto [[#^s-bd9ad26bbcf4cb1e177d2177|4 straipsnio]] 1 ir 2 dalis.
 
 
 

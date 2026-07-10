@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AAE85887E2F5"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 18 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 18 straipsnio papildymo įstatymas"
+  - "administracinių bylų teisenos įstatymo 18 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-28"
 latest_path: "latest/TAR.AAE85887E2F5.md"
 latest_sha256: "07cccca0868feff23f463cd579311ce16412313c625d9666e41b0122def0f3a7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AAE85887E2F5]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 18 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AAE85887E2F5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AAE85887E2F5
+- Ryšiai: [[Ryšiai/TAR.AAE85887E2F5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 2 dalies papildymas 10 punktu
+### 1 straipsnis. 18 straipsnio 2 dalies papildymas 10 punktu ^s-a3c0ff8fee4467d84ca4c41b
 
 
 Papildyti 18 straipsnio 2 dalį 10 punktu:

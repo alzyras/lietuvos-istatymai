@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.20536641E86D"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas"
+  - "Konstitucijos 47 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-02-24"
 latest_path: "latest/TAR.20536641E86D.md"
 latest_sha256: "bf3f7688e9b3cc8ca5fed8295b70b26122aa76f081c97d41cb87fc2507082131"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.20536641E86D]]"
 ---
 # Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.20536641E86D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.20536641E86D
+- Ryšiai: [[Ryšiai/TAR.20536641E86D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 47 straipsnio pakeitimas
+### 1 straipsnis. 47 straipsnio pakeitimas ^s-c321fdbbe0384b7b3c667642
 
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:

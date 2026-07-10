@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.448681EB9AA4"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio pakeitimo, 7 straipsnio 1 dalies pripažinimo netekusia galios ir įstatymo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio pakeitimo, 7 straipsnio 1 dalies pripažinimo netekusia galios ir įstatymo priedėlio pakeitimo įstatymas"
+  - "valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio pakeitimo, 7 straipsnio 1 dalies pripažinimo netekusia galios ir įstatymo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-02-19"
 latest_path: "latest/TAR.448681EB9AA4.md"
 latest_sha256: "7d7c1cc4982506de6eff082ddf6b5157c60ba2538a0e4b1d180c7bd8b8d0d1fc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.448681EB9AA4]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio pakeitimo, 7 straipsnio 1 dalies pripažinimo netekusia galios ir įstatymo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.448681EB9AA4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.448681EB9AA4
+- Ryšiai: [[Ryšiai/TAR.448681EB9AA4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-2b167e682b82d605f86986c0
 
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -40,36 +45,36 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taikomi valstybės politikams:
 
 
-1) Seimo Pirmininkui; ^a84f647454263ad41581ae64
+1) Seimo Pirmininkui; ^s-c66438558436513a38d322e8
 
 
-2) Seimo pareigūnams; ^8a2afcd3cf018e1e1e68dc4e
+2) Seimo pareigūnams; ^s-1be4f2a72e5ccf299c2d308e
 
 
-3) Seimo nariams; ^3abf2d152b59633432933400
+3) Seimo nariams; ^s-4983c4c45068c66fc570b5c0
 
 
-4) Ministrui Pirmininkui; ^a52db01bc4095f6a334aeac6
+4) Ministrui Pirmininkui; ^s-dafa1aa25d8a9167489becbd
 
 
-5) ministrams; ^8e30376655faaa3b10c4e39a
+5) ministrams; ^s-f9c91c508362d570fcd9d683
 
 
-6) merams; ^a753821f9e349f96c7d0cb75
+6) merams; ^s-fea9e8f14181f5e355e6bc61
 
 
-7) savivaldybių tarybų pareigūnams.“ ^f5a5c05ee1a3721ab6732c2e
+7) savivaldybių tarybų pareigūnams.“ ^s-11fc3111d51fc188a19f7242
 
 
 
-### 2 straipsnis. 7 straipsnio 1 dalies pripažinimas netekusia galios
+### 2 straipsnis. 7 straipsnio 1 dalies pripažinimas netekusia galios ^s-f29eac8f07e81d2572cf68f6
 
 
 7 straipsnio 1 dalį pripažinti netekusia galios.
 
 
 
-### 3 straipsnis. Įstatymo priedėlio I skirsnio pakeitimas
+### 3 straipsnis. Įstatymo priedėlio I skirsnio pakeitimas ^s-59bdc43d133a452202f6a1ca
 
 
 Pakeisti Įstatymo priedėlio I skirsnį ir jį išdėstyti taip:

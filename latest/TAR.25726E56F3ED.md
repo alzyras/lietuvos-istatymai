@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25726E56F3ED"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 1.134 straipsnio papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 1.134 straipsnio papildymo ir pakeitimo įstatymas"
+  - "civilinio kodekso 1.134 straipsnio papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-18"
 latest_path: "latest/TAR.25726E56F3ED.md"
 latest_sha256: "1e44a69e891806e13aac48570ab3b2c77925fde55f499ce1688d8eeb6cf16f0a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25726E56F3ED]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 1.134 straipsnio papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25726E56F3ED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25726E56F3ED
+- Ryšiai: [[Ryšiai/TAR.25726E56F3ED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,10 +39,10 @@ Vilnius
 
 
 
-### 1 straipsnis. 1.134 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 1.134 straipsnio papildymas ir pakeitimas ^s-dc09ce4215a359f9610b8f6c
 
 
-Papildyti 1.134 straipsnį nauju [[#^f13e97b334bdc572699fce2c|3 punktu]], [[#^f13e97b334bdc572699fce2c|3 punktą]] laikyti [[#^8f86046a3157a5602a078e58|4 punktu]] ir šį straipsnį išdėstyti taip:
+Papildyti 1.134 straipsnį nauju [[#^s-9120d91f5563d1fd0826cfe7|3 punktu]], [[#^s-9120d91f5563d1fd0826cfe7|3 punktą]] laikyti [[#^s-2a6c042e76b8cd05c53157ab|4 punktu]] ir šį straipsnį išdėstyti taip:
 
 
 
@@ -47,16 +52,16 @@ Papildyti 1.134 straipsnį nauju [[#^f13e97b334bdc572699fce2c|3 punktu]], [[#^f1
 Ieškinio senatis netaikoma:
 
 
-1) iš asmeninių neturtinių teisių pažeidimų atsirandantiems reikalavimams, išskyrus įstatymų numatytus atvejus; ^5d0edc4524d3ae095c335782
+1) iš asmeninių neturtinių teisių pažeidimų atsirandantiems reikalavimams, išskyrus įstatymų numatytus atvejus; ^s-aff2260d49b91e62372ad4ec
 
 
-2) indėlininkų reikalavimams išmokėti indėlius, padėtus į banką ar kitas kredito įstaigas; ^98485b6b9cc6cae8f711069e
+2) indėlininkų reikalavimams išmokėti indėlius, padėtus į banką ar kitas kredito įstaigas; ^s-50de9947d407cca8bc716d9e
 
 
-3) reikalavimams atlyginti dėl Baudžiamojo kodekso 95 straipsnio 8 dalyje nurodytų nusikaltimų atsiradusią turtinę ir neturtinę žalą; ^f13e97b334bdc572699fce2c
+3) reikalavimams atlyginti dėl Baudžiamojo kodekso 95 straipsnio 8 dalyje nurodytų nusikaltimų atsiradusią turtinę ir neturtinę žalą; ^s-9120d91f5563d1fd0826cfe7
 
 
-4) kitų įstatymų nustatytais atvejais ir kitiems reikalavimams.“ ^8f86046a3157a5602a078e58
+4) kitų įstatymų nustatytais atvejais ir kitiems reikalavimams.“ ^s-2a6c042e76b8cd05c53157ab
 
 
 

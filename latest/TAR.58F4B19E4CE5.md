@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.58F4B19E4CE5"
 pavadinimas: "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 2, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 2, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 2, 13, 14 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.58F4B19E4CE5.md"
 latest_sha256: "80294542ded50acf1c983bab6ae09059e497274e21e08aac6b5a5592a5b62487"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.58F4B19E4CE5]]"
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 2, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.58F4B19E4CE5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.58F4B19E4CE5
+- Ryšiai: [[Ryšiai/TAR.58F4B19E4CE5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,20 +40,20 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-2809c97633c58f2a078bd465
 
 
-1. Papildyti [[#2 straipsnis. 13 straipsnio 1 dalies 4 punkto pakeitimas|2 straipsnį]] nauja 6 dalimi: ^60bf5def5f8a9f3d13f72c26
+1. Papildyti [[#^s-867bd4424b26786fc09ac1ea|2 straipsnį]] nauja 6 dalimi: ^s-157dbb601c15b78b3178a8d8
 
 
 „6. Nepasiturintys gyventojai – kaip ši sąvoka apibrėžta Piniginės socialinės paramos nepasiturintiems gyventojams įstatyme.“
 
 
-2. Buvusias [[#2 straipsnis. 13 straipsnio 1 dalies 4 punkto pakeitimas|2 straipsnio]] 6, 7, 8, 9, 10, 11, 12 ir 13 dalis laikyti atitinkamai 7, 8, 9, 10, 11, 12, 13 ir 14 dalimis. ^7ae98e9b3ed5f3b93a5b990d
+2. Buvusias [[#^s-867bd4424b26786fc09ac1ea|2 straipsnio]] 6, 7, 8, 9, 10, 11, 12 ir 13 dalis laikyti atitinkamai 7, 8, 9, 10, 11, 12, 13 ir 14 dalimis. ^s-d1e217130c7d272b481bb1bb
 
 
 
-### 2 straipsnis. 13 straipsnio 1 dalies 4 punkto pakeitimas
+### 2 straipsnis. 13 straipsnio 1 dalies 4 punkto pakeitimas ^s-867bd4424b26786fc09ac1ea
 
 
 13 straipsnio 1 dalies 4 punkte vietoj žodžių „nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims“ įrašyti žodžius „nepasiturintiems gyventojams ir“ ir šį punktą išdėstyti taip:
@@ -58,7 +63,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 14 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 14 straipsnio 2 dalies pakeitimas ^s-81d5bbf7bfe4be5c19b70767
 
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -68,7 +73,7 @@ Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-69a5d59ab22902134c1be629
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

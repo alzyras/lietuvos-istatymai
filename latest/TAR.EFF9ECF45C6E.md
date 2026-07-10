@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EFF9ECF45C6E"
 pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas"
+  - "kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-01-01"
 latest_path: "latest/TAR.EFF9ECF45C6E.md"
 latest_sha256: "8df60c951cf96f6276b5d47b2689e4a69b5401734e4ae2fee0aaac7d1996b9a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EFF9ECF45C6E]]"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EFF9ECF45C6E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EFF9ECF45C6E
+- Ryšiai: [[Ryšiai/TAR.EFF9ECF45C6E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo nauja redakcija
+### 1 straipsnis.         Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo nauja redakcija ^s-149eb71cefd546f0ab791c53
 
 
 Pakeisti Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymą ir jį išdėstyti taip:
@@ -45,325 +50,325 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-a27ec106107b56bdc4a333b6
 
 
-1. Šis Įstatymas nustato Kelių priežiūros ir plėtros programos finansavimo šaltinius ir tvarką. ^7de87d5e4078f37bfa2e1679
+1. Šis Įstatymas nustato Kelių priežiūros ir plėtros programos finansavimo šaltinius ir tvarką. ^s-f6b64736a41d8f2ea9e17992
 
 
-2. Įstatymo tikslas – kaupti ir naudoti lėšas automobilių kelių tinklui plėsti, modernizuoti ir šio tinklo funkcionavimui užtikrinti. ^8d72210b662127751ebf65b3
-
-
-
-### 2 straipsnis. Pagrindinės Įstatymo sąvokos
-
-
-1. Bendroji masė – pakrautos transporto priemonės leistinas maksimalus svoris, kuris nurodytas transporto priemonės registracijos dokumente. ^4d2dc17eb964918ad88b3cda
-
-
-2. Kelias – inžinerinis statinys, skirtas transporto priemonių ir pėsčiųjų eismui. ^998614550021172d851362ca
-
-
-3. Kelio savininkas – asmuo, kuriam kelias priklauso nuosavybės teise. ^edf5a001ee8df417c5bcec59
-
-
-4. Kelių priežiūros ir plėtros programa (toliau – Programa) – Biudžeto sandaros įstatymo nustatyta tvarka tvirtinama specialioji programa. Šios Programos finansavimo ir administravimo vykdytojas yra Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. ^d2f6d1504b42cf022434418b
-
-
-5. Naudotojas – asmuo, kuris tiesiogiai ar netiesiogiai naudojasi keliais ir jų infrastruktūra. ^ac25d1db3ea773ecdf80c397
-
-
-6. Naudotojų mokesčiai – nustatyto dydžio transporto priemonių savininkų ar valdytojų mokesčiai už naudojimąsi keliais ir jų infrastruktūra. ^2f1d17eb2fa4a3206a3a8284
-
-
-7. Programos finansavimo sąskaita – valstybės biudžeto (iždo) sąskaita, kurioje kaupiamos lėšos Programai finansuoti. ^295283150a885045e7cef328
-
-
-8. Socialinės globos viešosios įstaigos – viešosios įstaigos, teikiančios socialines paslaugas įvairaus amžiaus skirtingų socialinių grupių asmenims, kuriems reikalinga įvairių rūšių ir formų socialinė pagalba. ^17f8c0c997d5694347401f00
-
-
-9. Transporto priemonė – bet kuri savaeigė kelių transporto priemonė ir kroviniams gabenti skirtos priekabos bei puspriekabės, išskyrus bėgines transporto priemones ir transporto priemones, turinčias mažesnį kaip 50 cm3 variklio cilindrų darbinį tūrį. ^ecb02a2fbc1432251f5de1f6
-
-
-10. Transporto priemonės savininkas – asmuo, kuriam transporto priemonė priklauso nuosavybės teise. ^4abe5d857116591a5b2f3b17
-
-
-11. Transporto priemonės valdytojas – asmuo, valdantis transporto priemonę panaudos, nuomos sutarčių arba kitu teisėtu pagrindu. ^5809ed095ae7463382abe18c
-
-
-12. Veikla – bet kokio pobūdžio komercinė arba gamybinė veikla, kuria siekiama gauti ir (arba) uždirbti pajamų ar kokios kitos ekonominės naudos. ^0876e830b3fef11ecce17487
-
-
-13. Vietinės reikšmės vidaus kelias – juridinių ir fizinių asmenų reikmėms naudojamas kelias (miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų ir kiti). ^c6f0098be2bc8fb36468e40e
-
-
-14. Žemės ūkio subjektai – Lietuvos Respublikos įstatymų nustatyta tvarka įregistruoti ūkininkų ūkiai, žemės ūkio bendrovės ir kitos įmonės, kurių metinės įplaukos iš prekinės žemės ūkio produkcijos ir gamybos paslaugų žemės ūkiui realizacijos sudaro daugiau kaip 50 procentų visų gautų pajamų (įplaukų). ^5e1551763b072369c34f2f54
+2. Įstatymo tikslas – kaupti ir naudoti lėšas automobilių kelių tinklui plėsti, modernizuoti ir šio tinklo funkcionavimui užtikrinti. ^s-839b7cfb32b2665edaa2a6bb
 
 
 
-### 3 straipsnis. Programos finansavimo šaltiniai
+### 2 straipsnis. Pagrindinės Įstatymo sąvokos ^s-ea038c0a1764a7454e6777e6
+
+
+1. Bendroji masė – pakrautos transporto priemonės leistinas maksimalus svoris, kuris nurodytas transporto priemonės registracijos dokumente. ^s-c8c7a27418f3ca711f832d00
+
+
+2. Kelias – inžinerinis statinys, skirtas transporto priemonių ir pėsčiųjų eismui. ^s-40e0ea4c092ef85ee9538019
+
+
+3. Kelio savininkas – asmuo, kuriam kelias priklauso nuosavybės teise. ^s-4fa4d4d40fd06dea17ed04ec
+
+
+4. Kelių priežiūros ir plėtros programa (toliau – Programa) – [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatymo]] nustatyta tvarka tvirtinama specialioji programa. Šios Programos finansavimo ir administravimo vykdytojas yra Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. ^s-a461e055f046efcfc13b2fbd
+
+
+5. Naudotojas – asmuo, kuris tiesiogiai ar netiesiogiai naudojasi keliais ir jų infrastruktūra. ^s-d41a89c11dedc4c9cc41165e
+
+
+6. Naudotojų mokesčiai – nustatyto dydžio transporto priemonių savininkų ar valdytojų mokesčiai už naudojimąsi keliais ir jų infrastruktūra. ^s-7ffcfe8798b6d6a280dea247
+
+
+7. Programos finansavimo sąskaita – valstybės biudžeto (iždo) sąskaita, kurioje kaupiamos lėšos Programai finansuoti. ^s-12aaa006a766f74f63606396
+
+
+8. Socialinės globos viešosios įstaigos – viešosios įstaigos, teikiančios socialines paslaugas įvairaus amžiaus skirtingų socialinių grupių asmenims, kuriems reikalinga įvairių rūšių ir formų socialinė pagalba. ^s-53f296c10afa8d9a86a7d4ca
+
+
+9. Transporto priemonė – bet kuri savaeigė kelių transporto priemonė ir kroviniams gabenti skirtos priekabos bei puspriekabės, išskyrus bėgines transporto priemones ir transporto priemones, turinčias mažesnį kaip 50 cm3 variklio cilindrų darbinį tūrį. ^s-0cb9d18e022b1b46dc7bab64
+
+
+10. Transporto priemonės savininkas – asmuo, kuriam transporto priemonė priklauso nuosavybės teise. ^s-ab11aa16aaa3a43413186d74
+
+
+11. Transporto priemonės valdytojas – asmuo, valdantis transporto priemonę panaudos, nuomos sutarčių arba kitu teisėtu pagrindu. ^s-8c66a6490498b50f4f330992
+
+
+12. Veikla – bet kokio pobūdžio komercinė arba gamybinė veikla, kuria siekiama gauti ir (arba) uždirbti pajamų ar kokios kitos ekonominės naudos. ^s-99d613bb1a76e31ab12e6a6d
+
+
+13. Vietinės reikšmės vidaus kelias – juridinių ir fizinių asmenų reikmėms naudojamas kelias (miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų ir kiti). ^s-bfcb6bb3130f82ecc6d6b503
+
+
+14. Žemės ūkio subjektai – Lietuvos Respublikos įstatymų nustatyta tvarka įregistruoti ūkininkų ūkiai, žemės ūkio bendrovės ir kitos įmonės, kurių metinės įplaukos iš prekinės žemės ūkio produkcijos ir gamybos paslaugų žemės ūkiui realizacijos sudaro daugiau kaip 50 procentų visų gautų pajamų (įplaukų). ^s-e3322209a5633de324348191
+
+
+
+### 3 straipsnis. Programos finansavimo šaltiniai ^s-0ce22f17f02874b2f15c7b93
 
 
 Programos finansavimo šaltiniai:
 
 
-1) atskaitymai nuo pajamų; ^746c75e07a1aa58dea46d2e6
+1) atskaitymai nuo pajamų; ^s-aea5ef29c00db31bf91dc992
 
 
-2) dalis akcizo pajamų, gautų už realizuotą benziną ir dyzelinius degalus; ^7568772ab393e0a92223f08e
+2) dalis akcizo pajamų, gautų už realizuotą benziną ir dyzelinius degalus; ^s-fe7c7ecc7bc2c56dec51bc1c
 
 
-3) akcizo pajamos, gautos už realizuotas suskystintas dujas, skirtas automobiliams; ^7e8966ca996c7aa327b0dfcb
+3) akcizo pajamos, gautos už realizuotas suskystintas dujas, skirtas automobiliams; ^s-904de92edd7c513eb47fa575
 
 
-4) mokestis už Lietuvos Respublikoje įregistruotas krovinines transporto priemones; ^bea34bdccf2683a7f9a42f46
+4) mokestis už Lietuvos Respublikoje įregistruotas krovinines transporto priemones; ^s-3499db663dc5a28fef89483e
 
 
-5) Lietuvos Respublikoje įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis; ^287f538d7b6c922fcc6a4e9a
+5) Lietuvos Respublikoje įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis; ^s-f7ae79b9706c58045c379e23
 
 
-6) užsienio šalyse įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis; ^30f97ccd89e768e6e97afcd0
+6) užsienio šalyse įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis; ^s-3c59bd359f1591c95d5cfc31
 
 
-7) mokestis už važiavimą keliais Lietuvos Respublikoje ir užsienio šalyse įregistruotomis transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, arba kai viršijama leidžiama ašies (ašių) apkrova ar transporto priemonės (jų junginio) leidžiama bendroji masė; ^c986bde5d96fa1882f9581e7
+7) mokestis už važiavimą keliais Lietuvos Respublikoje ir užsienio šalyse įregistruotomis transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, arba kai viršijama leidžiama ašies (ašių) apkrova ar transporto priemonės (jų junginio) leidžiama bendroji masė; ^s-f7acfe44b1e572bf1dedaef6
 
 
-8) mokestis už leidimą atlikti įvairius darbus kelio juostoje ar kelio apsaugos zonoje; ^f2071f1b9cb800a0d2e77d05
+8) mokestis už leidimą atlikti įvairius darbus kelio juostoje ar kelio apsaugos zonoje; ^s-60897100b14881fde2798549
 
 
-9) valstybės biudžeto lėšos; ^e1a98edde0ab67b8c7a8e8d6
+9) valstybės biudžeto lėšos; ^s-5f71c9c4bd49954cda24344c
 
 
-10) juridinių, fizinių asmenų bei užsienio valstybių tikslinės lėšos. ^0153d49ffbe05f8a904dc57f
+10) juridinių, fizinių asmenų bei užsienio valstybių tikslinės lėšos. ^s-03105f3ced530fa56545904e
 
 
 
-### 4 straipsnis. Atskaitymai nuo pajamų
+### 4 straipsnis. Atskaitymai nuo pajamų ^s-adeb192156fdd6b4d16b78aa
 
 
-1. Atskaitymų nuo pajamų mokėtojai – juridiniai asmenys, išskyrus pelno nesiekiančius juridinius asmenis, šio Įstatymo 1 priedėlyje nurodytų dydžių atskaitymus į Programos finansavimo sąskaitą moka nuo pajamų (tie, kurie verčiasi statybų veikla, – nuo pajamų, gautų už jų pačių atliktus statybos ir montavimo darbus). Į pajamas, nuo kurių mokami atskaitymai į Programos finansavimo sąskaitą pagal Pelno mokesčio įstatymo nuostatas, kai pajamoms priskiriama grąžinta beviltiškomis pripažintų skolų suma, neįskaitoma. Ši nuostata netaikoma juridiniams asmenims, kurie pagal Pelno mokesčio įstatymą, taikydami pinigų apskaitos principą, pajamas pripažįsta faktišku jų gavimo momentu. ^9b147022b8d00c128e64d49f
+1. Atskaitymų nuo pajamų mokėtojai – juridiniai asmenys, išskyrus pelno nesiekiančius juridinius asmenis, šio Įstatymo 1 priedėlyje nurodytų dydžių atskaitymus į Programos finansavimo sąskaitą moka nuo pajamų (tie, kurie verčiasi statybų veikla, – nuo pajamų, gautų už jų pačių atliktus statybos ir montavimo darbus). Į pajamas, nuo kurių mokami atskaitymai į Programos finansavimo sąskaitą pagal [[latest/TAR.A5ACBDA529A9|Pelno mokesčio įstatymo]] nuostatas, kai pajamoms priskiriama grąžinta beviltiškomis pripažintų skolų suma, neįskaitoma. Ši nuostata netaikoma juridiniams asmenims, kurie pagal Pelno mokesčio įstatymą, taikydami pinigų apskaitos principą, pajamas pripažįsta faktišku jų gavimo momentu. ^s-d5e3db0d7433f4e065048d8b
 
 
-2. Šio Įstatymo 1 priedėlio [[#^9b147022b8d00c128e64d49f|1 dalies]] 2 ir [[#^d0932214dc3a46450a08f78c|3 punktuose]] nurodytų dydžių atskaitymus į Programos finansavimo sąskaitą moka juridiniai asmenys, kurių pajamos iš šiuose punktuose nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro daugiau kaip 50 (įskaitytinai) procentų pajamų. Juridiniai asmenys, kurių pajamos iš šio Įstatymo 1 priedėlio [[#^9b147022b8d00c128e64d49f|1 dalies]] 2 ir [[#^d0932214dc3a46450a08f78c|3 punktuose]] nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro mažiau kaip 50 procentų visų pajamų, ir visi kiti juridiniai asmenys moka šio Įstatymo 1 priedėlio 1 [[#^1df3330a90922c97a4774913|dalies 1 punkte]] nurodyto dydžio atskaitymus. ^bf721fb080590011dcb06fd9
+2. Šio Įstatymo 1 priedėlio [[#^s-d5e3db0d7433f4e065048d8b|1 dalies]] 2 ir 3 punktuose nurodytų dydžių atskaitymus į Programos finansavimo sąskaitą moka juridiniai asmenys, kurių pajamos iš šiuose punktuose nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro daugiau kaip 50 (įskaitytinai) procentų pajamų. Juridiniai asmenys, kurių pajamos iš šio Įstatymo 1 priedėlio [[#^s-d5e3db0d7433f4e065048d8b|1 dalies]] 2 ir 3 punktuose nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro mažiau kaip 50 procentų visų pajamų, ir visi kiti juridiniai asmenys moka šio Įstatymo 1 priedėlio 1 dalies 1 punkte nurodyto dydžio atskaitymus. ^s-591c5ebfb3cb2c049a1cf632
 
 
-3. Mokėtojai atskaitymus nuo kiekvieno mėnesio pajamų apskaičiuoja patys ir moka į Programos finansavimo sąskaitą „Kelių programa – atskaitymai nuo pajamų“ iki kito mėnesio 25 dienos. ^f1dbc32a7d82852afe4de023
+3. Mokėtojai atskaitymus nuo kiekvieno mėnesio pajamų apskaičiuoja patys ir moka į Programos finansavimo sąskaitą „Kelių programa – atskaitymai nuo pajamų“ iki kito mėnesio 25 dienos. ^s-1539d5023034e4304aad25b6
 
 
-4. Mokėtojams, pažeidusiems atskaitymų nuo pajamų apskaičiavimo ir mokėjimo į Programos finansavimo sąskaitą tvarką, baudos skiriamos ir delspinigiai apskaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka. ^6901db9a99851653961edb75
+4. Mokėtojams, pažeidusiems atskaitymų nuo pajamų apskaičiavimo ir mokėjimo į Programos finansavimo sąskaitą tvarką, baudos skiriamos ir delspinigiai apskaičiuojami [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-a0fdf831cd3a21259d92538a
 
 
-5. Mokėtojai apskrities valstybinei mokesčių inspekcijai iki kovo 1 dienos privalo pateikti praėjusių metų atskaitymų į Programos finansavimo sąskaitą deklaraciją. Šios deklaracijos formą ir pildymo tvarką nustato centrinis mokesčių administratorius. ^3f636612576582636a03424e
+5. Mokėtojai apskrities valstybinei mokesčių inspekcijai iki kovo 1 dienos privalo pateikti praėjusių metų atskaitymų į Programos finansavimo sąskaitą deklaraciją. Šios deklaracijos formą ir pildymo tvarką nustato centrinis mokesčių administratorius. ^s-e2a8074c28643fcc0e472555
 
 
-6. Nuo pajamų atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami: ^8e6d1938385ee92664577455
+6. Nuo pajamų atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami: ^s-251e5e880771830d76723f1a
 
 
-1) žemės ūkio subjektai; ^ed7fc4b60ab8e86f45921775
+1) žemės ūkio subjektai; ^s-e9998fa18f650930d98d4834
 
 
-2) kūrybinės sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų, kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro, žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose; ^f4305e7c473a05cf57ac3e8a
+2) kūrybinės sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų, kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro, žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose; ^s-ac0a04e18f5109a7161cff4b
 
 
-3) įmonės, kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių pajamos gaunamos tik už jų pačių pagamintą produkciją; ^603aa2e5dcdee4d1c6bf66f3
+3) įmonės, kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių pajamos gaunamos tik už jų pačių pagamintą produkciją; ^s-e94db5d63d723b147aff3cff
 
 
-4) biudžetinės įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar organizacijos; ^bb70b11b6e52ecd84bcb33a4
+4) biudžetinės įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar organizacijos; ^s-2305d9abeb015fd3508774cd
 
 
-5) daugiabučių namų savininkų bendrijos; ^d670e820833109c6e04f64e2
+5) daugiabučių namų savininkų bendrijos; ^s-76e75e1875b54bb19747d6ec
 
 
-6) laisvosiose ekonominėse zonose įregistruotos ir veikiančios įmonės; ^49b0f65778d4c43a2cbb650e
+6) laisvosiose ekonominėse zonose įregistruotos ir veikiančios įmonės; ^s-9a46d77df4bad5d87fca8379
 
 
-7) valstybės ir savivaldybių sveikatos priežiūros viešosios įstaigos; ^fe70ccc50b971f6a83097600
+7) valstybės ir savivaldybių sveikatos priežiūros viešosios įstaigos; ^s-a05f4a929edf4a96b8dcbeb4
 
 
-8) socialinės globos viešosios įstaigos; ^8a378a3ee0bc8c159fe6f067
+8) socialinės globos viešosios įstaigos; ^s-b40745404d5faf0a1612dfd2
 
 
-9) ikimokyklinio ugdymo įstaigos. ^7cc8fabe02417ced039e2602
+9) ikimokyklinio ugdymo įstaigos. ^s-7b9b5db41b899677c2f7e258
 
 
-7. Atskaitymų nuo pajamų apskaičiavimo, mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstatymo 1 priedėlyje nurodytų maksimalių dydžių, nustato Lietuvos Respublikos Vyriausybė. ^c03addfd1c78542253f14966
+7. Atskaitymų nuo pajamų apskaičiavimo, mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstatymo 1 priedėlyje nurodytų maksimalių dydžių, nustato Lietuvos Respublikos Vyriausybė. ^s-c58e6bf8895b21c42e020dfa
 
 
 
-### 5 straipsnis.         Dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, bei akcizo pajamos, gautos už realizuotas suskystintas dujas, skirtas automobiliams
+### 5 straipsnis.         Dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, bei akcizo pajamos, gautos už realizuotas suskystintas dujas, skirtas automobiliams ^s-83def9566b205167b0324805
 
 
-1. Nuo 2002 m. sausio 1 d. į Programos finansavimo sąskaitą pervedama 38 procentai akcizo pajamų, gautų už realizuotą benziną ir dyzelinius degalus, o nuo 2004 m. sausio 1 d. – 40 procentų. ^ad0f709c7328c9cbd15ced9d
+1. Nuo 2002 m. sausio 1 d. į Programos finansavimo sąskaitą pervedama 38 procentai akcizo pajamų, gautų už realizuotą benziną ir dyzelinius degalus, o nuo 2004 m. sausio 1 d. – 40 procentų. ^s-243ae96b5ca3f732c70e8648
 
 
-2. Į Programos finansavimo sąskaitą pervedama 100 procentų akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams. ^d5ffc826beb551999a512eac
+2. Į Programos finansavimo sąskaitą pervedama 100 procentų akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams. ^s-83828042271d59306b4b2115
 
 
-3. Akcizo pajamų atskaitymus kiekvieną mėnesį iki kito mėnesio 25 dienos į Programos finansavimo sąskaitą perveda Finansų ministerija. ^7e5421321e2096db3fab0ce8
+3. Akcizo pajamų atskaitymus kiekvieną mėnesį iki kito mėnesio 25 dienos į Programos finansavimo sąskaitą perveda Finansų ministerija. ^s-d400a6b7a7982fb2fcacde79
 
 
 
-### 6 straipsnis.         Mokestis už Lietuvos Respublikoje įregistruotas krovinines transporto priemones
+### 6 straipsnis.         Mokestis už Lietuvos Respublikoje įregistruotas krovinines transporto priemones ^s-5bfacdb19f2a4d1a81b0a150
 
 
-1. Transporto priemonių savininkų ar valdytojų kasmetinio mokesčio už Lietuvos Respublikoje įregistruotas krovinines transporto priemones ribiniai tarifai nustatyti šio Įstatymo 2 priedėlyje. ^c94f847f0ec0e9cac95ee010
+1. Transporto priemonių savininkų ar valdytojų kasmetinio mokesčio už Lietuvos Respublikoje įregistruotas krovinines transporto priemones ribiniai tarifai nustatyti šio Įstatymo 2 priedėlyje. ^s-d2970f215fb47da471d69e13
 
 
-2. Mokesčio mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstatymo 2 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė. ^8470ccf5c42976f2864e0af9
+2. Mokesčio mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstatymo 2 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė. ^s-37886dfeaa58a898bdd2e710
 
 
-3. Mokestis į Programos finansavimo sąskaitą sumokamas iki transporto priemonės valstybinės techninės apžiūros. ^95e345b8837cefdad2fc69c7
+3. Mokestis į Programos finansavimo sąskaitą sumokamas iki transporto priemonės valstybinės techninės apžiūros. ^s-9929ca1ef3a44c25ce94d0c4
 
 
-4. Mokestis nemokamas: ^298f1f184209c62dc30a2f6c
+4. Mokestis nemokamas: ^s-87d7a248c8f1178f847c9016
 
 
-1) Už Vidaus reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei; ^a0050c129aa30ae585d3e639
+1) Už Vidaus reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei; ^s-4165558df35484e36b0044be
 
 
-2) už specialiai neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms. ^7d553828121e90d2d5ceca3c
+2) už specialiai neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms. ^s-fbb6fa53813a2c0d0ddd2ae1
 
 
 
-### 7 straipsnis.         Lietuvos Respublikoje įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis
+### 7 straipsnis.         Lietuvos Respublikoje įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis ^s-5670b2289f8130f380e6709c
 
 
-1. Lietuvos Respublikoje įregistruotų transporto priemonių savininkai ar valdytojai, sumokėję naudotojo mokestį, įgyja teisę naudotis Lietuvos Respublikos keliais ir jų infrastruktūra. ^166b4c410243809b9b41e72a
+1. Lietuvos Respublikoje įregistruotų transporto priemonių savininkai ar valdytojai, sumokėję naudotojo mokestį, įgyja teisę naudotis Lietuvos Respublikos keliais ir jų infrastruktūra. ^s-ff9719c88c01d5fc4d44fb64
 
 
-2. Naudotojo mokestį į Programos finansavimo sąskaitą transporto priemonių savininkai ar valdytojai sumoka iki transporto priemonės valstybinės techninės apžiūros. ^5cc0a82b5cc6e4e0f0721c31
+2. Naudotojo mokestį į Programos finansavimo sąskaitą transporto priemonių savininkai ar valdytojai sumoka iki transporto priemonės valstybinės techninės apžiūros. ^s-b0a36acb4414427af1e9ab30
 
 
-3. Naudotojo mokesčio mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstatymo 3 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė. ^c50a63a6e1735621315bfdbe
+3. Naudotojo mokesčio mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstatymo 3 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė. ^s-d7cac2f300875b5c46dd2d4d
 
 
-4. Naudotojo mokestis nemokamas: ^667c22c0e575a73180f27c3a
+4. Naudotojo mokestis nemokamas: ^s-0d0c59314bf0146d8f3838aa
 
 
-1) už Vidaus reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei; ^080c2bdf16aba5e4c7b8964e
+1) už Vidaus reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei; ^s-fe031a771e1aff05bd870727
 
 
-2) už specialiai neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms; ^e66470caa1ba1b3cf626d7dd
+2) už specialiai neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms; ^s-82219bf8e446c6c85ffd625b
 
 
-3) už valstybės ir savivaldybių sveikatos priežiūros įstaigų greitosios pagalbos ir reanimacijos automobilius. ^e969ec4dc72df46e2b9cbb89
+3) už valstybės ir savivaldybių sveikatos priežiūros įstaigų greitosios pagalbos ir reanimacijos automobilius. ^s-158523ac5f4a0330b99d1e9f
 
 
 
-### 8 straipsnis.         Užsienio šalyse įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis
+### 8 straipsnis.         Užsienio šalyse įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis ^s-809eda7d3da2bea3d5f5951a
 
 
-1. Užsienio šalyse įregistruotų transporto priemonių savininkai ar valdytojai naudotojo mokestį sumoka, kai transporto priemonė kerta Lietuvos Respublikos valstybės sieną. ^4100b61519015ae987e6cc08
+1. Užsienio šalyse įregistruotų transporto priemonių savininkai ar valdytojai naudotojo mokestį sumoka, kai transporto priemonė kerta Lietuvos Respublikos valstybės sieną. ^s-35e6912efbd34ad639d6cd4e
 
 
-2. Naudotojo mokestis nemokamas už važiavimą keliais užsienio šalių, su kuriomis Lietuvos Respublika yra pasirašiusi tarptautinius susitarimus, transporto priemonėmis arba kai užsienio šalyse įregistruotos transporto priemonės vyksta likviduoti stichinių nelaimių ar autoavarijų padarinių, kai veža labdaros ir humanitarinės pagalbos siuntas, taip pat už važiavimą keliais užsienio šalių krašto apsaugos sistemai priklausančiomis transporto priemonėmis. ^543b03f0cf0675a43406c0ca
+2. Naudotojo mokestis nemokamas už važiavimą keliais užsienio šalių, su kuriomis Lietuvos Respublika yra pasirašiusi tarptautinius susitarimus, transporto priemonėmis arba kai užsienio šalyse įregistruotos transporto priemonės vyksta likviduoti stichinių nelaimių ar autoavarijų padarinių, kai veža labdaros ir humanitarinės pagalbos siuntas, taip pat už važiavimą keliais užsienio šalių krašto apsaugos sistemai priklausančiomis transporto priemonėmis. ^s-207ad8b17d99a2aeda05f17c
 
 
-3. Naudotojo mokestį renka Lietuvos Respublikos Vyriausybės įgaliota institucija. Mokesčio dydžius, neviršydama šio Įstatymo 4 priedėlyje nustatytų ribinių tarifų, mokėjimo ir kontrolės tvarką nustato Lietuvos Respublikos Vyriausybė. ^92ed9dd30465a9e95582ddd4
+3. Naudotojo mokestį renka Lietuvos Respublikos Vyriausybės įgaliota institucija. Mokesčio dydžius, neviršydama šio Įstatymo 4 priedėlyje nustatytų ribinių tarifų, mokėjimo ir kontrolės tvarką nustato Lietuvos Respublikos Vyriausybė. ^s-33c16c5673f0f49b0f4c88ce
 
 
 
-### 9 straipsnis.         Mokestis už važiavimą keliais Lietuvos Respublikoje ir užsienio šalyse įregistruotomis transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, arba kai viršijama leidžiama ašies (ašių) apkrova ir (ar) transporto priemonės (jų junginio) leidžiama bendroji masė
+### 9 straipsnis.         Mokestis už važiavimą keliais Lietuvos Respublikoje ir užsienio šalyse įregistruotomis transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, arba kai viršijama leidžiama ašies (ašių) apkrova ir (ar) transporto priemonės (jų junginio) leidžiama bendroji masė ^s-d29f4128cf90bf56d7bdeba7
 
 
-1. Važiuoti valstybinės ir vietinės reikšmės keliais transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo, ašies (ašių) apkrova ir (ar) bendroji masė viršija maksimalius leidžiamus dydžius, galima tik suderinus tai su kelio savininku ir gavus jo leidimą. Leidimai išduodami Susisiekimo ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio Įstatymo 5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė. Mokestis mokamas už kiekvieną leidimą. Dėl mokesčio, jo dydžio už naudojimąsi vietinės reikšmės vidaus keliais gali būti sprendžiama šalių tarpusavio sutarimu vadovaujantis Civiliniame kodekse įtvirtintais principais. ^c2a088f7ffd1745c5d5125db
+1. Važiuoti valstybinės ir vietinės reikšmės keliais transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo, ašies (ašių) apkrova ir (ar) bendroji masė viršija maksimalius leidžiamus dydžius, galima tik suderinus tai su kelio savininku ir gavus jo leidimą. Leidimai išduodami Susisiekimo ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio Įstatymo 5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė. Mokestis mokamas už kiekvieną leidimą. Dėl mokesčio, jo dydžio už naudojimąsi vietinės reikšmės vidaus keliais gali būti sprendžiama šalių tarpusavio sutarimu vadovaujantis Civiliniame kodekse įtvirtintais principais. ^s-a62c31619b18f517750046af
 
 
-2. Mokestis nemokamas už Vidaus reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms bei užsienio šalių krašto apsaugos sistemai priklausančias transporto priemones, kurių matmenys ir (ar) ašies (ašių) apkrova ir (ar) transporto priemonės (jų junginio) bendroji masė viršija leidžiamus dydžius. Šių transporto priemonių važiavimo maršrutą būtina suderinti su kelių savininkais. ^39790ba9f2075d6724a9a06d
+2. Mokestis nemokamas už Vidaus reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms bei užsienio šalių krašto apsaugos sistemai priklausančias transporto priemones, kurių matmenys ir (ar) ašies (ašių) apkrova ir (ar) transporto priemonės (jų junginio) bendroji masė viršija leidžiamus dydžius. Šių transporto priemonių važiavimo maršrutą būtina suderinti su kelių savininkais. ^s-42bdbcadd20b43d1c07ca925
 
 
 
-### 10 straipsnis. Kiti Programos finansavimo šaltiniai
+### 10 straipsnis. Kiti Programos finansavimo šaltiniai ^s-26fb7b4bc30fcf5b6e6254bb
 
 
-1. Mokestį už leidimą atlikti įvairius darbus kelio juostoje ar kelio apsaugos zonoje renka ir leidimus išduoda Susisiekimo ministerijos ar savivaldybių nustatyta tvarka jų įgaliotos institucijos. Mokesčio dydis nustatomas kiekvienu konkrečiu atveju atsižvelgiant į darbų pobūdį, keliams ir aplinkai daromą žalą, atstatomųjų darbų vertę, dėl eismo sąlygų pasikeitimo susidariusius nuostolius ir darbų trukmę. ^36e8a05eb312b347e286239a
+1. Mokestį už leidimą atlikti įvairius darbus kelio juostoje ar kelio apsaugos zonoje renka ir leidimus išduoda Susisiekimo ministerijos ar savivaldybių nustatyta tvarka jų įgaliotos institucijos. Mokesčio dydis nustatomas kiekvienu konkrečiu atveju atsižvelgiant į darbų pobūdį, keliams ir aplinkai daromą žalą, atstatomųjų darbų vertę, dėl eismo sąlygų pasikeitimo susidariusius nuostolius ir darbų trukmę. ^s-bf94cd42012135a7a1b91f39
 
 
-2. Valstybės biudžeto lėšos į Programos finansavimo sąskaitą pervedamos, jei tai yra numatyta atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme arba jei tokį sprendimą vykdydamos valstybės biudžetą ar savivaldybių biudžetus pagal savo kompetenciją priima Lietuvos Respublikos Vyriausybė arba savivaldybės. ^1002d62be10130609a7acf9f
+2. Valstybės biudžeto lėšos į Programos finansavimo sąskaitą pervedamos, jei tai yra numatyta atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme arba jei tokį sprendimą vykdydamos valstybės biudžetą ar savivaldybių biudžetus pagal savo kompetenciją priima Lietuvos Respublikos Vyriausybė arba savivaldybės. ^s-27bbd303935be04050934627
 
 
-3. Į Programos finansavimo sąskaitą gali būti pervedamos fizinių ar juridinių asmenų bei užsienio valstybių perduodamos lėšos. ^295c323c32d266fdc12f5dbf
+3. Į Programos finansavimo sąskaitą gali būti pervedamos fizinių ar juridinių asmenų bei užsienio valstybių perduodamos lėšos. ^s-0d0751f4e00a6b62cc9338e1
 
 
 
-### 11 straipsnis. Programos finansavimo lėšų naudojimas
+### 11 straipsnis. Programos finansavimo lėšų naudojimas ^s-abfefd1901bab4e8938a008f
 
 
-1. Kelių programos finansavimo lėšos naudojamos automobilių keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams-buitiniams kelių pastatams projektuoti, statyti, tiesti, modernizuoti, taisyti (remontuoti), inventorizuoti, prižiūrėti, kelių technikos, technologijos, transporto ir kitoms gamybos priemonėms įsigyti, kelių ir tiltų tyrimų, specialiųjų statybos reikalavimų valstybinei priežiūrai atlikti, išlaidoms už skirtą žemę, nukeliamus ar griaunamus pastatus ir kitus statinius, želdinius bei kitas naudmenas apmokėti, kelių informacinėms sistemoms kurti, kelių infrastruktūros plėtrai, bendradarbiavimui su užsienio valstybėmis, teisės aktams ir norminiams dokumentams rengti, institucijų, atsakingų už valstybinės reikšmės kelius išlaikymo išlaidoms apmokėti, paskoloms grąžinti bei palūkanoms mokėti, istorinio kelių paveldo vertybėms išsaugoti, saugaus eismo programoms ir jų priemonėms vykdyti bei kitoms kelių srities reikmėms finansuoti. ^319d22e9e34a570307267147
+1. Kelių programos finansavimo lėšos naudojamos automobilių keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams-buitiniams kelių pastatams projektuoti, statyti, tiesti, modernizuoti, taisyti (remontuoti), inventorizuoti, prižiūrėti, kelių technikos, technologijos, transporto ir kitoms gamybos priemonėms įsigyti, kelių ir tiltų tyrimų, specialiųjų statybos reikalavimų valstybinei priežiūrai atlikti, išlaidoms už skirtą žemę, nukeliamus ar griaunamus pastatus ir kitus statinius, želdinius bei kitas naudmenas apmokėti, kelių informacinėms sistemoms kurti, kelių infrastruktūros plėtrai, bendradarbiavimui su užsienio valstybėmis, teisės aktams ir norminiams dokumentams rengti, institucijų, atsakingų už valstybinės reikšmės kelius išlaikymo išlaidoms apmokėti, paskoloms grąžinti bei palūkanoms mokėti, istorinio kelių paveldo vertybėms išsaugoti, saugaus eismo programoms ir jų priemonėms vykdyti bei kitoms kelių srities reikmėms finansuoti. ^s-d42b92dec7cba4d4df7792d6
 
 
-2. Lietuvos Respublikos Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam Įstatymui įgyvendinti. Šio Įstatymo įgyvendinimą kontroliuoja nuolatinė Kelių priežiūros ir plėtros programos komisija. Jos sudėtį ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė. ^bebce49e6150538d35695efc
+2. Lietuvos Respublikos Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam Įstatymui įgyvendinti. Šio Įstatymo įgyvendinimą kontroliuoja nuolatinė Kelių priežiūros ir plėtros programos komisija. Jos sudėtį ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė. ^s-e5fcce69a41cdeb67d332059
 
 
-3. Programos finansavimo lėšos naudojamos pagal Lietuvos Respublikos Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas kitoms valstybės reikmėms, susijusioms su keliais, finansuoti. ^0f21e5bc8515c70571dc18fb
+3. Programos finansavimo lėšos naudojamos pagal Lietuvos Respublikos Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas kitoms valstybės reikmėms, susijusioms su keliais, finansuoti. ^s-ba53b8e9d8348a84c340dd6f
 
 
-4. Metinėse sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų panaudoti vietinės reikšmės keliams bei gatvėms tiesti, taisyti, prižiūrėti. ^6cfd2543d16d76b460b6c286
+4. Metinėse sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų panaudoti vietinės reikšmės keliams bei gatvėms tiesti, taisyti, prižiūrėti. ^s-539ce1e1cea8a50067b413cd
 
 
-5. Programos finansavimo lėšos taip pat naudojamos keleivių ir transporto priemonių neatlygintino perkėlimo keltais per Kuršių marias išlaidoms kompensuoti Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^c4db602c0b17a297f8aa9134
+5. Programos finansavimo lėšos taip pat naudojamos keleivių ir transporto priemonių neatlygintino perkėlimo keltais per Kuršių marias išlaidoms kompensuoti Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-48b8ea130379971480a4a8c7
 
 
 
-### 12 straipsnis. Programos finansavimo garantijos
+### 12 straipsnis. Programos finansavimo garantijos ^s-62f86516766136ff63d2406d
 
 
-1. Programos finansavimo pajamos ir išlaidos, vadovaujantis Biudžeto sandaros įstatymo nustatytais specialiųjų programų finansavimo principais, planuojamos valstybės biudžete. ^5d12f2c9363892eac1dd2706
+1. Programos finansavimo pajamos ir išlaidos, vadovaujantis [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatymo]] nustatytais specialiųjų programų finansavimo principais, planuojamos valstybės biudžete. ^s-ba57020399d42ef2f37693a2
 
 
-2. Programos finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms, nenumatytoms šio Įstatymo [[#11 straipsnis. Programos finansavimo lėšų naudojimas|11 straipsnyje]], finansuoti.“ ^b0c1ed7fa86f08b2397ee37b
+2. Programos finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms, nenumatytoms šio Įstatymo [[#^s-abfefd1901bab4e8938a008f|11 straipsnyje]], finansuoti.“ ^s-eaeddd53889b45ed4d762227
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-71f5f3abedc65338712eb3be
 
 
-1. Šis Įstatymas įsigalioja nuo 2002 m. sausio 1 d. ^6bcb3db1c3b4515c915bad73
+1. Šis Įstatymas įsigalioja nuo 2002 m. sausio 1 d. ^s-629dc03bb4c0c7c981a8433d
 
 
-2. Įsigaliojus šiam Įstatymui, netenka galios: ^1232890472195bf95ae7f046
+2. Įsigaliojus šiam Įstatymui, netenka galios: ^s-5f629e58e95d4585d2921606
 
 
-1) Lietuvos Respublikos kelių fondo įstatymas (Žin., 1995, Nr. 12-259); ^31458d30759b71a0291be8ca
+1) Lietuvos Respublikos kelių fondo įstatymas (Žin., 1995, Nr. 12-259); ^s-7f7d6638ec6d10902f784c90
 
 
-2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos kelių fondo įstatymo 9 straipsnio papildymo“ (Žin., 1995, Nr. 44-1078); ^80df16e79ec349a76234a003
+2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos kelių fondo įstatymo 9 straipsnio papildymo“ (Žin., 1995, Nr. 44-1078); ^s-ddf9503d7b5f8396ab8a51b0
 
 
-3) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos kelių fondo įstatymo 3 straipsnio pakeitimo“ (Žin., 1995, Nr. 103-2303); ^48f0b245c2318efd6a856ce6
+3) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos kelių fondo įstatymo 3 straipsnio pakeitimo“ (Žin., 1995, Nr. 103-2303); ^s-60cb2879c217bb9ae22404f4
 
 
-4) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] papildymo įstatymas (Žin., 1996, Nr. 35-863); ^6443c285a885046f57321a70
+4) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio papildymo įstatymas (Žin., 1996, Nr. 35-863); ^s-1511b3151936b65ea75814ea
 
 
-5) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] pakeitimo įstatymas (Žin., 1996, Nr. 46-1114); ^fa78a7afb170fbf263c33dad
+5) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 1996, Nr. 46-1114); ^s-55ee3b4089bc683c88c0cd52
 
 
-6) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] papildymo įstatymas (Žin., 1996, Nr. 62-1465); ^1ae99618ba703e4fd9adb57b
+6) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio papildymo įstatymas (Žin., 1996, Nr. 62-1465); ^s-19abc3a4c2b35a9261abce9f
 
 
-7) Lietuvos Respublikos kelių fondo įstatymo pakeitimo įstatymas (Žin., 1997, Nr. 109-2756); ^4e1465da4c712e553145fd00
+7) Lietuvos Respublikos kelių fondo įstatymo pakeitimo įstatymas (Žin., 1997, Nr. 109-2756); ^s-f95152f3600b83dc7e1bc8fa
 
 
-8) Lietuvos Respublikos kelių fondo įstatymo [[#3 straipsnis. Programos finansavimo šaltiniai|3 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 113-3294); ^89ed9237ce2be604e06dd1d6
+8) Lietuvos Respublikos kelių fondo įstatymo [[#^s-0ce22f17f02874b2f15c7b93|3 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 113-3294); ^s-c9389999b59abf60351b3c92
 
 
-9) Lietuvos Respublikos kelių fondo įstatymo [[#8 straipsnis.         Užsienio šalyse įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokestis|8 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 90-2780); ^28259ffe6813cd47267068c3
+9) Lietuvos Respublikos kelių fondo įstatymo [[#^s-809eda7d3da2bea3d5f5951a|8 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 90-2780); ^s-e6ff1c21cbaf506665ad20a6
 
 
-10) Lietuvos Respublikos kelių fondo įstatymo 1 ir [[#3 straipsnis. Programos finansavimo šaltiniai|3 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 2000, Nr. 113-3609); ^a74a418b8e818f7372e2989e
+10) Lietuvos Respublikos kelių fondo įstatymo 1 ir [[#^s-0ce22f17f02874b2f15c7b93|3 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 2000, Nr. 113-3609); ^s-ab9e9d509a269a0d2c5c9144
 
 
-11) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 45-1573); ^a31a52b256f6dcceede75573
+11) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 45-1573); ^s-17697b16db233fcb58b8b443
 
 
-12) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 62-2215); ^295f2766380606d6ec6c8bb8
+12) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 62-2215); ^s-fa048ce21b494110f305f4d2
 
 
-13) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] ir 1 priedėlio pakeitimo įstatymas (Žin., 2001, Nr. 62-2237); ^b20f5978595c28373d9e89f8
+13) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio ir 1 priedėlio pakeitimo įstatymas (Žin., 2001, Nr. 62-2237); ^s-56c8a61a07395297fc809fb2
 
 
-14) Lietuvos Respublikos kelių fondo įstatymo [[#2 straipsnis. Baigiamosios nuostatos|2 straipsnio]] ir 1 priedėlio papildymo įstatymas (Žin., 2001, Nr. 66-2408, Nr. 69). ^e026ebc8d6ea59c8a99cdc6a
+14) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio ir 1 priedėlio papildymo įstatymas (Žin., 2001, Nr. 66-2408, Nr. 69). ^s-8b4bbfd862d4294474268bff
 
 
 
@@ -383,22 +388,22 @@ ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ MAKSIMALŪS DYDŽIAI
 
 
 
-1. Maksimalaus dydžio atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka: ^96695c7b57ac5da0a177c6f2
+1. Maksimalaus dydžio atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka: ^s-9176497f26c8b28980a5cfd3
 
 
-1) juridiniai asmenys, išskyrus kredito įstaigas bei tuos, kurie verčiasi prekybos veikla, suskystintų dujų, skirtų automobiliams, realizavimu, taip pat išskyrus juridinius asmenis, kurie verčiasi veikla ir negauna pajamų iš veiklos, – iki 0,5 procento pajamų; ^6fca6bbbf8da7f9f23c49c92
+1) juridiniai asmenys, išskyrus kredito įstaigas bei tuos, kurie verčiasi prekybos veikla, suskystintų dujų, skirtų automobiliams, realizavimu, taip pat išskyrus juridinius asmenis, kurie verčiasi veikla ir negauna pajamų iš veiklos, – iki 0,5 procento pajamų; ^s-9c0c1f6cce91b7eaca2590eb
 
 
-2) juridiniai asmenys, kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų; ^7962f894cb9d539e44fb47b3
+2) juridiniai asmenys, kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų; ^s-12296a7bf6de4e500aba111a
 
 
-3) juridiniai asmenys, kurie verčiasi suskystintų dujų, skirtų automobiliams, realizavimu, – iki 0,1 procento pajamų; ^5dfd70a1cdce6f6c84135695
+3) juridiniai asmenys, kurie verčiasi suskystintų dujų, skirtų automobiliams, realizavimu, – iki 0,1 procento pajamų; ^s-09a4c8332f1d5dc4a262fbfd
 
 
-4) kredito įstaigos, išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir už kitas paslaugas. ^cbac5d2d83e54dd9a3a04f59
+4) kredito įstaigos, išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir už kitas paslaugas. ^s-d83b3e9d965b0e9c68f0f472
 
 
-2. Atskaitymai atliekami nuo pajamų, apskaičiuotų Pelno mokesčio įstatymo nustatyta tvarka. ^6e1d183b05820cc37b100635
+2. Atskaitymai atliekami nuo pajamų, apskaičiuotų [[latest/TAR.A5ACBDA529A9|Pelno mokesčio įstatymo]] nustatyta tvarka. ^s-8d2499fce25d7d229cdce580
 ______________
 
 
@@ -498,7 +503,7 @@ RIBINIAI TARIFAI
 
 
 
-1. Lietuvos Respublikoje įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai tarifai: ^662f55be9743aee39be60737
+1. Lietuvos Respublikoje įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai tarifai: ^s-cb3c9ead59129a43d8e7b3e4
 
 
  Transporto priemonės tipas, kategorijos, klasės ir grupės
@@ -575,70 +580,70 @@ RIBINIAI TARIFAI
  200–500
 
 
-2. Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti, yra: ^8dfd1194bbdda80a4defe7ff
+2. Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti, yra: ^s-96a85b71468629d26d02682f
 
 
-1) automobiliniai kranai; ^dbd070686f189273b2398c6f
+1) automobiliniai kranai; ^s-5ca523c559bf983735b9daf6
 
 
-2) automobiliniai keltuvai; ^0867d7548ee820e7b1e4e3ce
+2) automobiliniai keltuvai; ^s-5368a0195cdd5f7bbb21cecf
 
 
-3) automobiliai su gręžimo įranga; ^bd4f768dc05065b4e849e77c
+3) automobiliai su gręžimo įranga; ^s-41a63345f87b2f378de10555
 
 
-4) automobiliai su laboratorijų įranga; ^dbc831d1a73b1e6c827fc871
+4) automobiliai su laboratorijų įranga; ^s-fe521b2a2853a15bd1d688ea
 
 
-5) automobiliai-techninės pagalbos dirbtuvės; ^930e5ef7b925d4e951656670
+5) automobiliai-techninės pagalbos dirbtuvės; ^s-729e7ae8b2f27f5d7f1799f4
 
 
-6) automobiliai-parduotuvės; ^21a7e2efa95b5015ca54755f
+6) automobiliai-parduotuvės; ^s-0a7a53105844514465776724
 
 
-7) automobiliai-televizijos stotys; ^c5dd814ef032c9e13dd0e43c
+7) automobiliai-televizijos stotys; ^s-ab2fe20238e81ed8ddef7823
 
 
-8) automobiliai-radijo stotys; ^19bc1bea97f84f70ba73afb4
+8) automobiliai-radijo stotys; ^s-3aa7bb3cfbeef885a386c8a9
 
 
-9) kinofikacijos, parodų, bibliotekų automobiliai; ^d94b5e9c976373a386b214eb
+9) kinofikacijos, parodų, bibliotekų automobiliai; ^s-0e9d1a674f74e2e8625eaae5
 
 
-10) asenizaciniai automobiliai; ^b1ad4c0e59b10f9319459e80
+10) asenizaciniai automobiliai; ^s-e25efa3d04119b87753edb09
 
 
-11) kelių valymo automobiliai; ^da819c6be30ab9c71a52b3a9
+11) kelių valymo automobiliai; ^s-99a3d833ce5da452248f0e72
 
 
-12) kelių priežiūros žiemą automobiliai; ^5aed873a23bd27bc1e830ef6
+12) kelių priežiūros žiemą automobiliai; ^s-ab90deedc2c26843aea67f63
 
 
-13) šiukšliavežės ir šiukšlių rinkimo automobiliai; ^53bb4e77f2ad476ba9c9e7c4
+13) šiukšliavežės ir šiukšlių rinkimo automobiliai; ^s-ae30c081cc58725ddcecb46e
 
 
-14) automobiliai, naudojami tik karjeruose; ^25e6b4ae0ae05c6261d16911
+14) automobiliai, naudojami tik karjeruose; ^s-b51d5be4ffa4f9dc24aad006
 
 
-15) automobiliai, naudojami tik oro uostuose; ^27b89fd42999795beee32af2
+15) automobiliai, naudojami tik oro uostuose; ^s-f7737b0ce9b0c56ed45c393b
 
 
-16) mokomieji automobiliai; ^2bb9ed04744fa4605c8240e3
+16) mokomieji automobiliai; ^s-cfa08bddefe88a410eebf523
 
 
-17) gaisrininkų automobiliai; ^96db81cf6257c1264ed9fd5b
+17) gaisrininkų automobiliai; ^s-a98934f3bf0c5c45d6a6169c
 
 
-18) medicinos greitosios pagalbos ir reanimacijos automobiliai; ^ba787a91b4d21e95d1b1e92b
+18) medicinos greitosios pagalbos ir reanimacijos automobiliai; ^s-32d31ec6e6903b6ff81e61b4
 
 
-19) automobiliai ekskavatoriai, buldozeriai; ^bd2088211ce9d2325e67f26a
+19) automobiliai ekskavatoriai, buldozeriai; ^s-a3657376ab209f06257d77fb
 
 
-20) kiti specialiems darbams ir technologiniams procesams atlikti skirti automobiliai. ^03e8db1e1c4cfe3718a5a9c5
+20) kiti specialiems darbams ir technologiniams procesams atlikti skirti automobiliai. ^s-cb8677a097f31d6b7b2cd0fd
 
 
-3. Kelių transporto priemonės (savivarčiai, betonvežiai, naftovežiai, benzinvežiai ir kitos), kurios pagal savo konstrukciją ir įrangą skirtos kroviniams vežti, priskiriamos prie krovininių transporto priemonių. ^c8162e8cd48d8b97b792e299
+3. Kelių transporto priemonės (savivarčiai, betonvežiai, naftovežiai, benzinvežiai ir kitos), kurios pagal savo konstrukciją ir įrangą skirtos kroviniams vežti, priskiriamos prie krovininių transporto priemonių. ^s-4afeb4217260ee4b9a124bbd
 ______________
 
 
@@ -715,7 +720,7 @@ Lietuvos Respublikos
 
 
 
-## I. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
+## I. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI ^s-6b61ce9df9ea8f08a82c31de
 
 
 
@@ -873,26 +878,26 @@ II. Mokesčio už VAŽIAVIMĄ KELIAIS Lietuvos Respublikoje ir užsienio šalyse
  –
 
 
-1. Transporto priemonėmis (jų junginiais), kurių varančiajai ašiai su suporintais ratais leidžiama 11,5 tonos ašies apkrova viršijama, leidžiama važiuoti sumokėjus atitinkamo dydžio mokestį tik tais keliais, kurie nurodyti leidimus išduodančios institucijos patvirtintame sąraše. ^b01e7ef4e39e25eef91efab6
+1. Transporto priemonėmis (jų junginiais), kurių varančiajai ašiai su suporintais ratais leidžiama 11,5 tonos ašies apkrova viršijama, leidžiama važiuoti sumokėjus atitinkamo dydžio mokestį tik tais keliais, kurie nurodyti leidimus išduodančios institucijos patvirtintame sąraše. ^s-aa6a80597f0f0a2d26c917ec
 
 
-2. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), nustatomi mokesčio ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje. ^5ab5cb7414317228aef7b646
+2. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), nustatomi mokesčio ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje. ^s-4558255adad5713fb0c0b310
 
 
-3. Triašiu vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą. ^e3c62ec92fa944dd8d2e0c4b
+3. Triašiu vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą. ^s-0c4c5c870f50ae7f740afea2
 
 
-4. Kai ašies (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų junginio) svoris viršija leidžiamus, mokesčio dydis nustatomas tas, kuris yra didesnis. ^b5202310ec5ff4cb3912b787
+4. Kai ašies (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų junginio) svoris viršija leidžiamus, mokesčio dydis nustatomas tas, kuris yra didesnis. ^s-6774fb2706ae967e5bbd6337
 
 5 priedėlio tęsinys
 
 
 
-## III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIBINIAI TARIFAI
+## III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIBINIAI TARIFAI ^s-7bd63baa96a4953e36844b06
 
 
 
-1. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant 40 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje: ^1df3330a90922c97a4774913
+1. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant 40 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje: ^s-a8fe991d3b4028408e41c09f
 
 
  Leidžiama bendroji masė viršyta (t)
@@ -915,8 +920,8 @@ II. Mokesčio už VAŽIAVIMĄ KELIAIS Lietuvos Respublikoje ir užsienio šalyse
  5,00–6,00
 
 
-2. Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą. ^9e3d88a8003ce5f190ee949e
+2. Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą. ^s-cdbc9a6b6f441fc081d522dc
 
 
-3. Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų junginio) bendroji masė viršija leidžiamą, mokesčio dydis nustatomas tas, kuris yra didesnis. ^d0932214dc3a46450a08f78c
+3. Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų junginio) bendroji masė viršija leidžiamą, mokesčio dydis nustatomas tas, kuris yra didesnis. ^s-9f652722e2002f13cde1d2d3
 ______________

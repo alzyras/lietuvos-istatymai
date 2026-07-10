@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3C429C93A81F"
 pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
+  - "Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 6 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-03"
 latest_path: "latest/TAR.3C429C93A81F.md"
 latest_sha256: "6781050cc58dd84274a1d7c72aacc6f2f4908336813bbf3978e556bddeb454d8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3C429C93A81F]]"
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3C429C93A81F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3C429C93A81F
+- Ryšiai: [[Ryšiai/TAR.3C429C93A81F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas ^s-64927997f2d083065b6ada33
 
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 6 straipsnio 6 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 6 dalies pakeitimas ^s-8cc7935ca3ab97aea603e289
 
 
 Pakeisti 6 straipsnio 6 dalį ir ją išdėstyti taip:

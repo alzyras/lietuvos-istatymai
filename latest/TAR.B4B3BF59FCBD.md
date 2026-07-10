@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B4B3BF59FCBD"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 17 ir 18 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 17 ir 18 straipsnių pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 17 ir 18 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.B4B3BF59FCBD.md"
 latest_sha256: "d43e266012e14236fa3869b4e3c539e1a3712e02a325c4f4d367b48f54bc8027"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B4B3BF59FCBD]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 17 ir 18 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B4B3BF59FCBD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B4B3BF59FCBD
+- Ryšiai: [[Ryšiai/TAR.B4B3BF59FCBD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 4 dalies pakeitimas ^s-9c861cddeeeddce5735e6cb3
 
 
 Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 18 straipsnio 1 dalies 2 punkto pakeitimas
+### 2 straipsnis. 18 straipsnio 1 dalies 2 punkto pakeitimas ^s-e9e352611bbc5cef9e528787
 
 
 Pakeisti 18 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
@@ -52,13 +57,13 @@ Pakeisti 18 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-304490ac20baff67e9f5838e
 
 
-1. Šis įstatymas, išskyrus [[#^a0aefdca9b146e18dfcad2e7|šio straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^ffe7d3e842db30690e19550c
+1. Šis įstatymas, išskyrus [[#^s-f6d5e74be6c52dccc67c0978|šio straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-0e533d6c081e1837fd993225
 
 
-2. Vyriausybė arba jos įgaliotos valstybės institucijos iki šio įstatymo įsigaliojimo dienos parengia ir patvirtina būtinus šio įstatymo įgyvendinamuosius teisės aktus. ^a0aefdca9b146e18dfcad2e7
+2. Vyriausybė arba jos įgaliotos valstybės institucijos iki šio įstatymo įsigaliojimo dienos parengia ir patvirtina būtinus šio įstatymo įgyvendinamuosius teisės aktus. ^s-f6d5e74be6c52dccc67c0978
 
 
 

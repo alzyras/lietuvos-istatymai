@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AB5C4F8C996B"
 pavadinimas: "Lietuvos Respublikos strateginių prekių kontrolės įstatymas"
+aliases:
+  - "Lietuvos Respublikos strateginių prekių kontrolės įstatymas"
+  - "strateginių prekių kontrolės įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-01-01"
 latest_path: "latest/TAR.AB5C4F8C996B.md"
 latest_sha256: "28e5cc55e82023c09468fc4915ccb60445150b1853282c0f05ee4f3a1d537480"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AB5C4F8C996B]]"
 ---
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AB5C4F8C996B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B
+- Ryšiai: [[Ryšiai/TAR.AB5C4F8C996B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-## I. BENDROSIOS NUOSTATOS
+## I. BENDROSIOS NUOSTATOS ^s-858662291d377c738f5aa92d
 
 
 
@@ -108,7 +113,7 @@ Importuotos kontroliuojamosios prekės negali būti panaudotos kariniams tikslam
 
 
 
-## II. LICENCIJAVIMO PROCEDŪRA
+## II. LICENCIJAVIMO PROCEDŪRA ^s-1bebe0e6d55959d0ce37a712
 
 
 
@@ -149,7 +154,7 @@ Kontroliuojamųjų prekių importo, tranzito ir eksporto licencijų vienkartinis
 
 
 
-## III. KONTROLĖS ATLIKIMAS
+## III. KONTROLĖS ATLIKIMAS ^s-e60e8e4ed421766c44e06244
 
 
 
@@ -194,7 +199,7 @@ Ekonomikos ministerija parengia ir atspausdina sąrašą asmenų, kurie nevykdo 
 
 
 
-## IV. ĮSIPAREIGOJIMŲ NEVYKDYMAS
+## IV. ĮSIPAREIGOJIMŲ NEVYKDYMAS ^s-61372667760752dadf553d58
 
 
 

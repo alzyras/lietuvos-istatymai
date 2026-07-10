@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.89A9AE51EA71"
 pavadinimas: "Lietuvos Respublikos patentų įstatymo papildymo 41(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos patentų įstatymo papildymo 41(1) straipsniu įstatymas"
+  - "patentų įstatymo papildymo 41(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.89A9AE51EA71.md"
 latest_sha256: "183145280cc3a97ea64d1d05709729d785bc8e8e34e6619fe2d0a767a6096ec2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.89A9AE51EA71]]"
 ---
 # Lietuvos Respublikos patentų įstatymo papildymo 41(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.89A9AE51EA71.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.89A9AE51EA71
+- Ryšiai: [[Ryšiai/TAR.89A9AE51EA71|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 411 straipsniu
+### 1 straipsnis. Įstatymo papildymas 411 straipsniu ^s-dc2d50d31cffe8337acf3b6b
 
 
 Papildyti Įstatymą 411straipsniu:
@@ -44,7 +49,7 @@ Gaminiams, kurių importas į Lietuvos Respubliką ir eksportas iš jos laikytin
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-825744afb164825927c375c1
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

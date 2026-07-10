@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D6D5E93EBB65"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas"
+  - "Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-09-05"
 latest_path: "latest/TAR.D6D5E93EBB65.md"
 latest_sha256: "a8ec4cf6e8369ee23d70c8b40d277b7bebef38d750ffaee3aee1092b38195659"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D6D5E93EBB65]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo gynybos srityje ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D6D5E93EBB65.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D6D5E93EBB65
+- Ryšiai: [[Ryšiai/TAR.D6D5E93EBB65|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Susitarimo ratifikavimas
+### 1 straipsnis. Susitarimo ratifikavimas ^s-cf79ec2590600cbc594a853e
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 11 d. dekretą Nr. 1356, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje, pasirašytą 2001 m. vasario 5 d. Vilniuje.

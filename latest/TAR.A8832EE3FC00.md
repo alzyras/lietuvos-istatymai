@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A8832EE3FC00"
 pavadinimas: "Dėl Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo įgyvendinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-19"
 latest_path: "latest/TAR.A8832EE3FC00.md"
 latest_sha256: "6c667d5e113944f2a5a812231bb41b788337d85fb7e4d2747a2ff2234f33c00e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A8832EE3FC00]]"
 ---
 # Dėl Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A8832EE3FC00.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A8832EE3FC00
+- Ryšiai: [[Ryšiai/TAR.A8832EE3FC00|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-1. Pasiūlyti Lietuvos Respublikos Vyriausybei parengti Lietuvos Respublikos įstatymų, susijusių su Laisvųjų ekonominių zonų pagrindų įstatymu bei būsimomis laisvosiomis ekonominėmis zonomis Lietuvos Respublikoje, pakeitimų ir papildymų projektus ir iki 1995 m. lapkričio 30 d. pateikti juos svarstyti Lietuvos Respublikos Seimui.
+1. Pasiūlyti Lietuvos Respublikos Vyriausybei parengti Lietuvos Respublikos įstatymų, susijusių su [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymu]] bei būsimomis laisvosiomis ekonominėmis zonomis Lietuvos Respublikoje, pakeitimų ir papildymų projektus ir iki 1995 m. lapkričio 30 d. pateikti juos svarstyti Lietuvos Respublikos Seimui.
 
 
 2. Pasiūlyti Lietuvos Respublikos Vyriausybei kartu su Lietuvos banku iki 1996 m. kovo 1 d. parengti įstatymo projektą dėl ofšorinės veiklos ir bankininkystės reguliavimo laisvosiose ekonominėse zonose.

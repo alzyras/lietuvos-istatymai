@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.ACEF6AEB31C8"
 pavadinimas: "Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl asmenų grąžinimo/perėmimo (readmisijos sutarties) ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl asmenų grąžinimo/perėmimo (readmisijos sutarties) ratifikavimo įstatymas"
+  - "Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl asmenų grąžinimo/perėmimo (readmisijos sutarties) ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-12-03"
 latest_path: "latest/TAR.ACEF6AEB31C8.md"
 latest_sha256: "69d516f89c9ed82f1cac712e525fb20d434557e6a825e552eb2d2a618df1daae"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.ACEF6AEB31C8]]"
 ---
 # Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutarties dėl asmenų grąžinimo/perėmimo (readmisijos sutarties) ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.ACEF6AEB31C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.ACEF6AEB31C8
+- Ryšiai: [[Ryšiai/TAR.ACEF6AEB31C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-60b7ceb766e931bf883bb32b
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl asmenų grąžinimo/perėmimo (readmisijos sutartį)“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl asmenų grąžinimo/perėmimo (readmisijos sutartį), pasirašytą 1998 m. gruodžio 16 d. Berlyne.

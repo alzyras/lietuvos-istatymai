@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F36279EFAD41"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-30"
 latest_path: "latest/TAR.F36279EFAD41.md"
 latest_sha256: "1fb71d59ca39c7433881a92c5cf72f1498e0f262b1219385d2d49d13ebda13ac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F36279EFAD41]]"
 ---
 # Dėl Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F36279EFAD41.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41
+- Ryšiai: [[Ryšiai/TAR.F36279EFAD41|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -77,7 +81,7 @@ Pakeisti ir papildyti Lietuvos Respublikos valstybinių socialinio draudimo pens
 2) trečiojoje dalyje vietoj žodžių „anksčiau galiojusia tvarka“ įrašyti žodžius „anksčiau galiojusia Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta tvarka“;
 
 
-3) ketvirtąją dalį papildyti sakiniu: „Vidaus reikalų, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir karių pensijų perskaičiavimo tvarką nustato Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymas.“
+3) ketvirtąją dalį papildyti sakiniu: „Vidaus reikalų, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir karių pensijų perskaičiavimo tvarką nustato [[latest/TAR.EDDCB615126E|Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymas]].“
 
 
 7. 46 straipsnio antrąją dalį išdėstyti taip:

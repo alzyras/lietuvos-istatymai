@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AB1B6945E48A"
 pavadinimas: "Lietuvos Respublikos švietimo įstatymo 15 straipsnio papildymo ir 41 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos švietimo įstatymo 15 straipsnio papildymo ir 41 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "švietimo įstatymo 15 straipsnio papildymo ir 41 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-31"
 latest_path: "latest/TAR.AB1B6945E48A.md"
 latest_sha256: "7ecc6116c48254bffe489a37b3f8c2662453a36bc40dfe46e271be5b19f770cc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AB1B6945E48A]]"
 ---
 # Lietuvos Respublikos švietimo įstatymo 15 straipsnio papildymo ir 41 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AB1B6945E48A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AB1B6945E48A
+- Ryšiai: [[Ryšiai/TAR.AB1B6945E48A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-c2a8fea6f8dfafa7075717b4
 
 
 Iš 2 straipsnio 1 dalyje išdėstytos 41 straipsnio 1 dalies išbraukti žodžius „iš Lietuvos švietimo fondo, apskričių, miestų ir rajonų švietimo fondų“ ir šią dalį išdėstyti taip:

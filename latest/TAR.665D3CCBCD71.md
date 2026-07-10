@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.665D3CCBCD71"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolo dėl pramonės gaminių atitikties įvertinimo ir pripažinimo ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolo dėl pramonės gaminių atitikties įvertinimo ir pripažinimo ratifikavimo"
+  - "įstatymas dėl Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolo dėl pramonės gaminių atitikties įvertinimo ir pripažinimo ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-26"
 latest_path: "latest/TAR.665D3CCBCD71.md"
 latest_sha256: "e3cf4c54646d8481483e8c66b3983925f1153bb2149b0c4f075ce606f82c154e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.665D3CCBCD71]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolo dėl pramonės gaminių atitikties įvertinimo ir pripažinimo ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.665D3CCBCD71.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.665D3CCBCD71
+- Ryšiai: [[Ryšiai/TAR.665D3CCBCD71|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Protokolo ratifikavimas
+### 1 straipsnis. Protokolo ratifikavimas ^s-ea656e282afe79e8ac327058
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. liepos 1 d. dekretą Nr. 1826, ratifikuoja Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolą dėl pramonės gaminių atitikties įvertinimo ir pripažinimo, pasirašytą 2002 m. gegužės 21 d. Briuselyje.

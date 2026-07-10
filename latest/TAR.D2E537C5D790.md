@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D2E537C5D790"
 pavadinimas: "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 21, 22 ir 23 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 21, 22 ir 23 straipsnių pakeitimo įstatymas"
+  - "nekilnojamųjų kultūros vertybių apsaugos įstatymo 21, 22 ir 23 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-01"
 latest_path: "latest/TAR.D2E537C5D790.md"
 latest_sha256: "5304c58b68e34c65dd66c67575889f666b13ecb1c4ce2f2fbe6dfa7ac940c6e5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D2E537C5D790]]"
 ---
 # Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 21, 22 ir 23 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D2E537C5D790.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D2E537C5D790
+- Ryšiai: [[Ryšiai/TAR.D2E537C5D790|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio pakeitimas
+### 1 straipsnis. 21 straipsnio pakeitimas ^s-19b70603474a7ed8f06ce821
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -61,20 +66,20 @@ Nekilnojamosios kultūros vertybės restauravimo darbais (tyrimais pagrįstų pr
 Stichinių ar žmonių išprovokuotų nelaimių sunaikinta ar išardyta nekilnojamoji kultūros vertybė, išsaugant bei grąžinant į pirminę vietą jos išlikusias liekanas, dalis ar elementus, išimtiniais atvejais gali būti kultūros ministro patvirtinta tvarka atkuriama, kai yra bent dvi iš šių sąlygų:
 
 
-1) atkūrimo realumas, išvengiant hipotezių, yra pagrįstas išsamiais istorinių šaltinių bei fiziniais tyrimais; ^3b9429e669729e1ea6935759
+1) atkūrimo realumas, išvengiant hipotezių, yra pagrįstas išsamiais istorinių šaltinių bei fiziniais tyrimais; ^s-6aabae5cd776333268f275b3
 
 
-2) vertybė turi ypatingą meninę ar simbolinę reikšmę, yra itin svarbi tautinės savimonės ir kultūros paveldo puoselėjimui bei dera prie kraštovaizdžio; ^427ddd2e464a82262e9cf9a8
+2) vertybė turi ypatingą meninę ar simbolinę reikšmę, yra itin svarbi tautinės savimonės ir kultūros paveldo puoselėjimui bei dera prie kraštovaizdžio; ^s-97eff3c96699c95744b716d3
 
 
-3) yra išreikštas administravimo institucijų ir visuomenės (gyventojų apklausos būdu) pritarimas. ^361ad1363e933b509c4d3503
+3) yra išreikštas administravimo institucijų ir visuomenės (gyventojų apklausos būdu) pritarimas. ^s-5e9cfb0468bb193b7ec50936
 
 
 Nekilnojamąją kultūros vertybę draudžiama perkelti, išskyrus atvejus, kai perkėlimas yra būtinas užtikrinant tokios vertybės išsaugojimą. Turi būti imtasi visų būtinų atsargos priemonių tokį objektą išardant, pervežant ir vėl pastatant tinkamoje vietoje.“
 
 
 
-### 2 straipsnis. 22 straipsnio pakeitimas
+### 2 straipsnis. 22 straipsnio pakeitimas ^s-fd3b069b1e9bcc1080b82fe3
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
@@ -99,7 +104,7 @@ Nekilnojamosios kultūros vertybės tvarkymo metu išaiškėjus naujiems kultūr
 
 
 
-### 3 straipsnis. 23 straipsnio pakeitimas
+### 3 straipsnis. 23 straipsnio pakeitimas ^s-4e8e4939b635c48b94aebe88
 
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
@@ -111,16 +116,16 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 Nekilnojamosios kultūros vertybės tvarkymo darbai parenkami ir atliekami:
 
 
-1) pagal tokios vertybės apsaugos reglamente bei būtinais tyrimais nustatytą sudėtį, apimtį ir kultūrinės vertės požymius bei jos apsaugos reikalavimus; ^16029d1b26d9b711acc52775
+1) pagal tokios vertybės apsaugos reglamente bei būtinais tyrimais nustatytą sudėtį, apimtį ir kultūrinės vertės požymius bei jos apsaugos reikalavimus; ^s-8bac2fdd50a051b429b92662
 
 
-2) pagal statinių – nekilnojamųjų kultūros vertybių tvarkymo statybos darbų reglamentus, patvirtintus aplinkos ir kultūros ministrų; ^901822241a35b96e2f88ee1c
+2) pagal statinių – nekilnojamųjų kultūros vertybių tvarkymo statybos darbų reglamentus, patvirtintus aplinkos ir kultūros ministrų; ^s-56e3b735fa128810d0ca3820
 
 
-3) pagal kultūros ministro patvirtintus paveldo apsaugos technologijų techninio normavimo reglamentus. ^32ec67ef5d8bf881da37d778
+3) pagal kultūros ministro patvirtintus paveldo apsaugos technologijų techninio normavimo reglamentus. ^s-8675c3fb5faf79c35059b22c
 
 
-Parengti nekilnojamosios kultūros vertybės tvarkymo darbų programas, paveldo apsaugos technologijų darbų projektus, atlikti ardomųjų tyrimų, avarijos grėsmės pašalinimo, konservavimo, pritaikymo, restauravimo ir atkūrimo paveldo apsaugos technologijų darbus, paveldo apsaugos (specialiąją) ekspertizę turi teisę kultūros ministro nustatyta tvarka atestuotas specialistas. Išvardytos veiklos atskirus darbus bei remonto darbus gali atlikti ir atsakančio už tokius darbus atestuoto specialisto prižiūrimi neatestuoti specialistai. Tokiai veiklai netaikomi Statybos įstatymo nustatyti apribojimai dėl teisės būti rangovu ar paslaugų teikėju.
+Parengti nekilnojamosios kultūros vertybės tvarkymo darbų programas, paveldo apsaugos technologijų darbų projektus, atlikti ardomųjų tyrimų, avarijos grėsmės pašalinimo, konservavimo, pritaikymo, restauravimo ir atkūrimo paveldo apsaugos technologijų darbus, paveldo apsaugos (specialiąją) ekspertizę turi teisę kultūros ministro nustatyta tvarka atestuotas specialistas. Išvardytos veiklos atskirus darbus bei remonto darbus gali atlikti ir atsakančio už tokius darbus atestuoto specialisto prižiūrimi neatestuoti specialistai. Tokiai veiklai netaikomi [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] nustatyti apribojimai dėl teisės būti rangovu ar paslaugų teikėju.
 
 
 Vadovauti statinių – nekilnojamųjų kultūros vertybių tvarkymo statybos darbų projektams, tokiems darbams, projekto vykdymo priežiūrai, tokio statinio projekto ekspertizei turi teisę aplinkos ir kultūros ministrų nustatyta tvarka atestuotas darbų vadovas. Vyriausybės nustatyta tvarka jis įsigyja patentą arba aplinkos ir kultūros ministrų nustatyta tvarka dirba atestuotoje įmonėje.
@@ -145,7 +150,7 @@ Nekilnojamosios kultūros vertybės tvarkymo darbų programos galioja penkerius 
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-f5cbfbf70c0c3a1f0eb60c03
 
 
 Šis Įstatymas įsigalioja nuo 2002 m. liepos 1 d.

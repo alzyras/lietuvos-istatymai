@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AA670BE7B80D"
 pavadinimas: "Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo"
+aliases:
+  - "Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-12-31"
 latest_path: "latest/TAR.AA670BE7B80D.md"
 latest_sha256: "22953ef194540db7ba82aeae3dd2a8cc2c985ce0e622c728f58cbfdb870356e9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AA670BE7B80D]]"
 ---
 # Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AA670BE7B80D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AA670BE7B80D
+- Ryšiai: [[Ryšiai/TAR.AA670BE7B80D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -64,7 +68,7 @@ S T A T U T A S
 
 
 
-## I skyrius
+## I skyrius ^s-42f34ef936b8919207e07f9c
 BENDRIEJI NUOSTATAI
 
 
@@ -193,7 +197,7 @@ LVB moka mokesčius, vadovaudamasis Užsienio investicijų Lietuvos Respublikoje
 
 
 
-## II skyrius
+## II skyrius ^s-a43f974fb645eb8e7775fbb8
 LVB KAPITALAS IR AKCIJOS
 
 
@@ -277,7 +281,7 @@ LVB akcinis kapitalas gali būti sumažintas visuotinio susirinkimo nutarimu, at
 
 
 
-## III skyrius
+## III skyrius ^s-65111ac4bfd412ff675ac567
 LVB FUNKCIJOS
 
 
@@ -381,7 +385,7 @@ Lietuvos banko nustatomi ekonominiai normatyvai ir rezervai LVB nėra privalomi.
 
 
 
-## IV skyrius
+## IV skyrius ^s-985b9afeefca39f1157adaa6
 LVB VALDYMO INSTITUCIJOS
 
 
@@ -562,7 +566,7 @@ Valdybos nariai atsako prieš LVB už nuostolius, padarytus dėl jų aplaidumo a
 
 
 
-## V skyrius
+## V skyrius ^s-8598a6c1c1794bcdca21ec52
 METINĖ ATASKAITA IR PELNO PASKIRSTYMAS
 
 
@@ -597,7 +601,7 @@ LVB išmoka akcininkams dividendus, jeigu jų yra, ne vėliau kaip per 4 savaite
 
 
 
-## VI skyrius
+## VI skyrius ^s-1725518a91b31518a5d8be29
 LVB VEIKLOS KONTROLĖ IR AUDITAS
 
 
@@ -645,7 +649,7 @@ Finansinė metų apskaita, metų ataskaita ir auditorių išvados per 30 dienų 
 33 straipsnis
 
 
-Lietuvos bankas atlieka LVB veiklos priežiūrą ir auditą, remdamasis Lietuvos banko įstatymu.
+Lietuvos bankas atlieka LVB veiklos priežiūrą ir auditą, remdamasis [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]].
 
 
 

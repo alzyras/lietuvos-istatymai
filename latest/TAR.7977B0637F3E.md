@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7977B0637F3E"
 pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 14, 23, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 14(1 )straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 14, 23, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 14(1 )straipsniu įstatymas"
+  - "moterų ir vyrų lygių galimybių įstatymo 14, 23, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 14(1 )straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-05-20"
 latest_path: "latest/TAR.7977B0637F3E.md"
 latest_sha256: "21cb4dae16795655a70888fce5d43f612a76415790dfbf903969544eed4d1a24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7977B0637F3E]]"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 14, 23, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 14(1 )straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7977B0637F3E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7977B0637F3E
+- Ryšiai: [[Ryšiai/TAR.7977B0637F3E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 14 straipsnio 1 dalies pakeitimas ^s-224e8a761cd392355936cbc1
 
 
 14 straipsnio 1 dalyje vietoj skaičiaus „4“ įrašyti skaičių „5“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo papildymas 141 straipsniu
+### 2 straipsnis. Įstatymo papildymas 141 straipsniu ^s-a121bb14b3fd7c6ed7ae0a4b
 
 
 Papildyti Įstatymą 141 straipsniu:
@@ -50,42 +55,42 @@ Papildyti Įstatymą 141 straipsniu:
 „141 straipsnis. Lygių galimybių kontrolieriaus priesaika
 
 
-1. Asmuo, paskirtas lygių galimybių kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: ^786fe0356e7adecc4282ad67
+1. Asmuo, paskirtas lygių galimybių kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: ^s-8ced9304f5bb5a3ef7c78451
 
 
-1) „Aš, Lietuvos Respublikos lygių galimybių kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis. ^6d2e8789170d74187b21ff57
+1) „Aš, Lietuvos Respublikos lygių galimybių kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis. ^s-a8bfaf4086fb793b500031bf
 
 
 Tepadeda man Dievas.“;
 
 
-2) „Aš, Lietuvos Respublikos lygių galimybių kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“ ^e14363857c2b597524f7026a
+2) „Aš, Lietuvos Respublikos lygių galimybių kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“ ^s-d733ef735b7bdb8ed1adcab6
 
 
-2. Priesaiką priima Seimo Pirmininkas Seimo posėdyje. ^416e7f290d31b92fdcaeefa9
+2. Priesaiką priima Seimo Pirmininkas Seimo posėdyje. ^s-1a4e793f00a87625edc5bfbf
 
 
-3. Lygių galimybių kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.“ ^9fd399696df5332855f380fd
+3. Lygių galimybių kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.“ ^s-cb48371da695046237643972
 
 
 
-### 3 straipsnis. 23 straipsnio papildymas ir pakeitimas
+### 3 straipsnis. 23 straipsnio papildymas ir pakeitimas ^s-7df99652e184606d985ab3df
 
 
-1. Papildyti 23 straipsnį nauja [[#^c8a2911ab1af114c8f178bd3|2 dalimi]]: ^99c231b2e372d444f4a9d9b0
+1. Papildyti 23 straipsnį nauja [[#^s-0bffe2d99e4f645683800302|2 dalimi]]: ^s-ebf3e8364543ca2870b6af5b
 
 
 „2. Lygių galimybių kontrolierius, skundo tyrimo metu nustatęs, kad gauti du ar daugiau skirtingų pareiškėjų skundų dėl to paties asmens ar institucijos tos pačios veikos ar to paties teisės akto, gali sujungti skundų tyrimą į vieną.“
 
 
-2. Buvusias 23 straipsnio 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis. ^c8a2911ab1af114c8f178bd3
+2. Buvusias 23 straipsnio 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis. ^s-0bffe2d99e4f645683800302
 
 
 
-### 4 straipsnis. 24 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 24 straipsnio pakeitimas ir papildymas ^s-1adbcc9f7d2c13827ec20de4
 
 
-24 straipsnyje prieš žodžius „Atlikęs tyrimą“ įrašyti žodžius „Tyrimo metu ar“, straipsnį papildyti 8 ir [[#^d8b80d1fa85bb8975538b118|9 punktais]] ir šį straipsnį išdėstyti taip:
+24 straipsnyje prieš žodžius „Atlikęs tyrimą“ įrašyti žodžius „Tyrimo metu ar“, straipsnį papildyti 8 ir [[#^s-e6bab046cb582675f16c5633|9 punktais]] ir šį straipsnį išdėstyti taip:
 
 
 „24 straipsnis. Lygių galimybių kontrolieriaus sprendimai
@@ -94,35 +99,35 @@ Tepadeda man Dievas.“;
 Tyrimo metu ar atlikęs tyrimą, lygių galimybių kontrolierius gali priimti sprendimą:
 
 
-1) perduoti tyrimo medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, jeigu nustatomi nusikalstamos veikos požymiai; ^f69de9db2df62d3850bd7b6e
+1) perduoti tyrimo medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, jeigu nustatomi nusikalstamos veikos požymiai; ^s-51c8170e88c182ab31ccf826
 
 
-2) kreiptis į atitinkamą asmenį ar instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus ar panaikinti su tuo susijusį aktą; ^6f4e41e9779a6601b2cae033
+2) kreiptis į atitinkamą asmenį ar instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus ar panaikinti su tuo susijusį aktą; ^s-d28fd353059a38bb07c5a436
 
 
-3) nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^11a5d83db1cf00d10a32d9fc
+3) nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^s-5cc2139316544384e0c4f2ca
 
 
-4) atmesti skundą, jeigu nepasitvirtino jame nurodyti pažeidimai; ^f6f6b025d2ec90f6d6ea0f8e
+4) atmesti skundą, jeigu nepasitvirtino jame nurodyti pažeidimai; ^s-80fbfade4efccef524b2f8cf
 
 
-5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas panaikinamas; ^f50e3f362b94b5772175761e
+5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas panaikinamas; ^s-ca5d239304bd32fd52865244
 
 
-6) įspėti dėl padaryto pažeidimo; ^a1a0894fab9e0987f1830ab1
+6) įspėti dėl padaryto pažeidimo; ^s-c6d8bc114755b087a33bbc83
 
 
-7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs; ^5b630832cf3b22fb8bf0307e
+7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs; ^s-3ee2e7ece3a1dd0fc8889e0a
 
 
-8) laikinai, kol bus priimtas galutinis sprendimas, uždrausti skleisti reklamą, jeigu yra pakankamai duomenų, kad paskleista ar numatoma paskleisti reklama gali būti pripažinta kurstančia tautinę, rasinę, religinę, lyčių, lytinės orientacijos, negalios, įsitikinimų, amžiaus neapykantą ir padarytų visuomenės interesams esminės žalos, žemintų žmogaus garbę ir orumą bei pažeistų visuomenės moralės principus; ^bc79a01a47dae701450eec30
+8) laikinai, kol bus priimtas galutinis sprendimas, uždrausti skleisti reklamą, jeigu yra pakankamai duomenų, kad paskleista ar numatoma paskleisti reklama gali būti pripažinta kurstančia tautinę, rasinę, religinę, lyčių, lytinės orientacijos, negalios, įsitikinimų, amžiaus neapykantą ir padarytų visuomenės interesams esminės žalos, žemintų žmogaus garbę ir orumą bei pažeistų visuomenės moralės principus; ^s-a3135e0376ed146b4aaeafcd
 
 
-9) įpareigoti reklamos veiklos subjektus nutraukti neleidžiamą reklamą ir nustatyti šio įpareigojimo įvykdymo terminus bei sąlygas.“ ^d8b80d1fa85bb8975538b118
+9) įpareigoti reklamos veiklos subjektus nutraukti neleidžiamą reklamą ir nustatyti šio įpareigojimo įvykdymo terminus bei sąlygas.“ ^s-e6bab046cb582675f16c5633
 
 
 
-### 5 straipsnis. Šio įstatymo 2 straipsnio taikymas
+### 5 straipsnis. Šio įstatymo 2 straipsnio taikymas ^s-83ee480f3ebe145432a5c273
 
 
 Iki šio įstatymo įsigaliojimo paskirtas lygių galimybių kontrolierius Seimo posėdyje prisiekia per du mėnesius nuo šio įstatymo įsigaliojimo dienos.

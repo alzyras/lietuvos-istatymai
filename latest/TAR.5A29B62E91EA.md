@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5A29B62E91EA"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 36 ir 47 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 36 ir 47 straipsnių papildymo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 36 ir 47 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.5A29B62E91EA.md"
 latest_sha256: "0c4e21990613b61837370655f528b61ce8e7039c72c07ed6c74be2f060485566"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5A29B62E91EA]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 36 ir 47 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5A29B62E91EA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5A29B62E91EA
+- Ryšiai: [[Ryšiai/TAR.5A29B62E91EA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 36 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 36 straipsnio papildymas 4 dalimi ^s-2b32e319b8b1d0bdc40413d9
 
 
 Papildyti 36 straipsnį 4 dalimi:
@@ -41,7 +46,7 @@ Papildyti 36 straipsnį 4 dalimi:
 
 
 
-### 2 straipsnis. 47 straipsnio papildymas 6 dalimi
+### 2 straipsnis. 47 straipsnio papildymas 6 dalimi ^s-8b5f1ca713ecf7da83ea2944
 
 
 Papildyti 47 straipsnį 6 dalimi:
@@ -51,14 +56,14 @@ Papildyti 47 straipsnį 6 dalimi:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-5df3e9aa18fdf784124f067a
 
 
-Šis Įstatymas, išskyrus [[#4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei|4 straipsnį]], įsigalioja nuo 2004 m. sausio 1 d.
+Šis Įstatymas, išskyrus [[#^s-4099124b0d124ad0ac9212db|4 straipsnį]], įsigalioja nuo 2004 m. sausio 1 d.
 
 
 
-### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-4099124b0d124ad0ac9212db
 
 
 Lietuvos Respublikos Vyriausybė iki 2004 m. sausio 1 d. priima šio Įstatymo įgyvendinimui reikalingus teisės aktus arba įgalioja kitas institucijas tai padaryti iki nurodytos datos.

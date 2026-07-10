@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1C7155DE05A6"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvencijos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvencijos ratifikavimo"
+  - "įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvencijos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-16"
 latest_path: "latest/TAR.1C7155DE05A6.md"
 latest_sha256: "3daa1023e2f438764552199337899cb12d52b578b92cdcc6c19b9fbe8fabd3e5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1C7155DE05A6]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvencijos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1C7155DE05A6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1C7155DE05A6
+- Ryšiai: [[Ryšiai/TAR.1C7155DE05A6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-a52981664c89044cac816cbb
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1450, ratifikuoja 1983 m. gegužės 24 d. Ženevoje priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvenciją.

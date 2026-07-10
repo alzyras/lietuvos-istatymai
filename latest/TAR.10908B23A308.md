@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.10908B23A308"
 pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 straipsnių pakeitimo ir papildymo, 10, 53, 54, 56 straipsnių pripažinimo netekusiais galios ir devintojo skirsnio pavadinimo pakeitimo įstatymo 24 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 straipsnių pakeitimo ir papildymo, 10, 53, 54, 56 straipsnių pripažinimo netekusiais galios ir devintojo skirsnio pavadinimo pakeitimo įstatymo 24 straipsnio pakeitimo įstatymas"
+  - "prekybinės laivybos įstatymo 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 straipsnių pakeitimo ir papildymo, 10, 53, 54, 56 straipsnių pripažinimo netekusiais galios ir devintojo skirsnio pavadinimo pakeitimo įstatymo 24 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-11"
 latest_path: "latest/TAR.10908B23A308.md"
 latest_sha256: "c1b22bb7ec81130d13d68c0231e0a2924214a593b5d351bdd96de27984f8eb9e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.10908B23A308]]"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 straipsnių pakeitimo ir papildymo, 10, 53, 54, 56 straipsnių pripažinimo netekusiais galios ir devintojo skirsnio pavadinimo pakeitimo įstatymo 24 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.10908B23A308.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.10908B23A308
+- Ryšiai: [[Ryšiai/TAR.10908B23A308|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 24 straipsnio pakeitimas
+### 1 straipsnis. 24 straipsnio pakeitimas ^s-6fffa3f4ef4e80a621e35f3d
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:

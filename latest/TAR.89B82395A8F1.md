@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.89B82395A8F1"
 pavadinimas: "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo Specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo Specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "savivaldybių aplinkos apsaugos rėmimo Specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-02-14"
 latest_path: "latest/TAR.89B82395A8F1.md"
 latest_sha256: "85d4f8d883c6fbf4d01ebe5170f55257b25a4b95062fc7efb159e89feb93c7f0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.89B82395A8F1]]"
 ---
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo Specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.89B82395A8F1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.89B82395A8F1
+- Ryšiai: [[Ryšiai/TAR.89B82395A8F1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas ^s-ead0da5524495bf9899227ee
 
 
 Pakeisti 4 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:

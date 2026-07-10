@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A830A4054432"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-07-01"
 latest_path: "latest/TAR.A830A4054432.md"
 latest_sha256: "e09d2fbfa42f71e27fe56bf9b8026a42a62048a3f01bfb80847c9d352ec5a938"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A830A4054432]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A830A4054432.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A830A4054432
+- Ryšiai: [[Ryšiai/TAR.A830A4054432|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalies ir 19 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalies ir 19 straipsnio 2 dalies pakeitimas ^s-d7ccdd018c82fe0866139f06
 
 
-1. Pakeisti Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo [[#1 straipsnis. Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalies ir 19 straipsnio 2 dalies pakeitimas|1 straipsnyje]] išdėstyto Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalį ir ją išdėstyti taip: ^448ca1a037b458bfba186a11
+1. Pakeisti Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto [[latest/TAR.5DC1759E42CB#^s-ad2d3c41fd5b53a4817fdb8c|Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-ec5610df1d3205446fc5e173
 
 
 „2. Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas, iš abiejų šonų – oranžiniai šviesos atšvaitai arba kiti šviesą atspindintys elementai, pritvirtinti prie ratų stipinų. Važiuojant keliu tamsiuoju paros metu arba esant blogam matomumui, priekyje turi degti baltos šviesos žibintas, o gale – raudonos šviesos žibintas, dviračio vairuotojas privalo dėvėti šviesą atspindinčią liemenę arba būti prie drabužių kitiems eismo dalyviams matomoje vietoje prisisegęs šviesą atspindinčius elementus. Dviračio vairuotojai (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir užsisegę šalmą. Kitiems vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus šalmą.“
 
 
-2. Pakeisti Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo [[#1 straipsnis. Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalies ir 19 straipsnio 2 dalies pakeitimas|1 straipsnyje]] išdėstyto Saugaus eismo automobilių keliais įstatymo 19 straipsnio 2 dalį ir ją išdėstyti taip: ^54834eac0c8332eb6f6503ce
+2. Pakeisti Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto [[latest/TAR.5DC1759E42CB#^s-f0c73ea99c184fd5227529c0|Saugaus eismo automobilių keliais įstatymo 19 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-4c340490b7b4db597a76f322
 
 
 „2. Specialiųjų transporto priemonių (policijos, greitosios medicinos pagalbos ir priešgaisrinės apsaugos ir gelbėjimo tarnybų, dujų įmonių avarinių tarnybų), taip pat specialiomis spalvomis nudažytų ir nenudažytų vidaus reikalų statutinių įstaigų, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Karo policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos transporto priemonių vairuotojai, važiuodami kelyje su įjungtais mėlynais ir (ar) raudonais (arba tik mėlynais) žybčiojančiais švyturėliais ir (ar) specialiaisiais garso signalais, gali pasinaudoti pirmenybe tik jei tai nepakenks eismo saugumui ir tik tuo atveju, kai įsitikina, kad jiems duodamas kelias.“
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c5f0533fdedf3d0436f2fdf4
 
 
 Šis įstatymas įsigalioja 2008 m. liepos 1 d.

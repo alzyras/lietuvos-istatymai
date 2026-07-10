@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.52C520B486E7"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 9 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 9 ir 14 straipsnių pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 9 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-30"
 latest_path: "latest/TAR.52C520B486E7.md"
 latest_sha256: "ee32fd4c177b0cf93a62f1e34b33fdea9792774a9aacd325f7e2c6b283175289"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.52C520B486E7]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 9 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.52C520B486E7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.52C520B486E7
+- Ryšiai: [[Ryšiai/TAR.52C520B486E7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,35 +40,35 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 2 dalies 2, 3 punktų ir 3, 6 dalių pakeitimas
+### 1 straipsnis. 9 straipsnio 2 dalies 2, 3 punktų ir 3, 6 dalių pakeitimas ^s-c3f9faae56cb53cb73d10b03
 
 
-1. Pakeisti 9 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^5533efea5b41a94df4ee0f50
+1. Pakeisti 9 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-c7f0ac1593bfd40ec9d94b61
 
 
 „2) augina mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokinius – iki mokymosi pagal šias programas baigimo, bet ne ilgiau, iki jiems sukaks 19 metų), taip pat slaugo namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų;“.
 
 
-2. Pakeisti 9 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^72fe2e0a39e82e8eb6df78d3
+2. Pakeisti 9 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^s-32bdf483648da1d8753e5c61
 
 
 „3) sukako senatvės pensijos amžių ar buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) tuo metu, kai augino mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokinius – iki mokymosi pagal šias programas baigimo, bet ne ilgiau, iki jiems sukaks 19 metų), taip pat slaugė namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų.“
 
 
-3. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^f3f282aff30eef1205941ddf
+3. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^s-8954ea7661022a1827085e8d
 
 
-„Jei nėra [[#^72fe2e0a39e82e8eb6df78d3|šio straipsnio 2 dalyje]] išvardytų asmenų, teisę gauti valstybinę našlių pensiją turi Civilinio kodekso nustatyta tvarka pripažintas globėju (rūpintoju) asmuo, auginantis mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokinius – iki mokymosi pagal šias programas baigimo, bet ne ilgiau, iki jiems sukaks 19 metų), taip pat nustatyta tvarka pripažintas globėju asmuo, slaugantis namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų.“
+„Jei nėra [[#^s-32bdf483648da1d8753e5c61|šio straipsnio 2 dalyje]] išvardytų asmenų, teisę gauti valstybinę našlių pensiją turi Civilinio kodekso nustatyta tvarka pripažintas globėju (rūpintoju) asmuo, auginantis mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokinius – iki mokymosi pagal šias programas baigimo, bet ne ilgiau, iki jiems sukaks 19 metų), taip pat nustatyta tvarka pripažintas globėju asmuo, slaugantis namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų.“
 
 
-4. Pakeisti 9 straipsnio 6 dalį ir ją išdėstyti taip: ^248680d0d8080cc9783d8525
+4. Pakeisti 9 straipsnio 6 dalį ir ją išdėstyti taip: ^s-26721f3a7c3ce4f9baf7f5b0
 
 
 „Teisę gauti valstybinę našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) vaikai (įvaikiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (invalidai), taip pat nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai – iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti valstybinę našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.“
 
 
 
-### 2 straipsnis. 14 straipsnio 1 dalies 1 punkto pakeitimas
+### 2 straipsnis. 14 straipsnio 1 dalies 1 punkto pakeitimas ^s-71aca96b68febe4137da6ba5
 
 
 Pakeisti 14 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -73,7 +78,7 @@ Pakeisti 14 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-8b465a9d3d899e8d208bd03f
 
 
 Šis įstatymas įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos.

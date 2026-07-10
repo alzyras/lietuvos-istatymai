@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E8BF7EBCEC7C"
 pavadinimas: "Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 2, 10, 15, 16, 23, 27, 28, 29, 30, 32, 35, 36, 37, 42, 44, 46, 48, 49, 51, 53, 54, 59 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 2, 10, 15, 16, 23, 27, 28, 29, 30, 32, 35, 36, 37, 42, 44, 46, 48, 49, 51, 53, 54, 59 straipsnių pakeitimo ir papildymo įstatymas"
+  - "papildomo savanoriško pensijų kaupimo įstatymo 2, 10, 15, 16, 23, 27, 28, 29, 30, 32, 35, 36, 37, 42, 44, 46, 48, 49, 51, 53, 54, 59 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-10"
 latest_path: "latest/TAR.E8BF7EBCEC7C.md"
 latest_sha256: "a307e291875cc51b5d47ac1e019e8241579acda4e4fc1a6f7ed60960d59c20e4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E8BF7EBCEC7C]]"
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 2, 10, 15, 16, 23, 27, 28, 29, 30, 32, 35, 36, 37, 42, 44, 46, 48, 49, 51, 53, 54, 59 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E8BF7EBCEC7C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E8BF7EBCEC7C
+- Ryšiai: [[Ryšiai/TAR.E8BF7EBCEC7C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,29 +36,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3, 9 ir 16 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 3, 9 ir 16 dalių pakeitimas ^s-40be23d5257e65b1a1a6b2e8
 
 
-1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^1cff8dd021de0dfc1966dc82
+1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^s-12ad0b8ffe5b35523621f418
 
 
 „3. Depozitoriumas – bankas, turintis teisę Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje teikti investicines paslaugas ir turintis buveinę arba padalinį Lietuvos Respublikoje.“
 
 
-2. Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip: ^f1c6a50ad0b4b4151709c7e9
+2. Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip: ^s-972256b318bfb4d8cc046ae9
 
 
 „9. Investicinės priemonės – vertybiniai popieriai, nurodyti šio straipsnio 26 dalyje, ir investicinės priemonės, numatytos Vertybinių popierių rinkos įstatymo 3 straipsnio 2 dalyje.“
 
 
-3. 2 straipsnio 16 dalyje išbraukti žodžius „arba kurio naudai“ ir šią dalį išdėstyti taip: ^200142f70e11f04810d82feb
+3. 2 straipsnio 16 dalyje išbraukti žodžius „arba kurio naudai“ ir šią dalį išdėstyti taip: ^s-0874529d5c7a2ef7307d1685
 
 
 „16. Pensijų fondo dalyvis (toliau – dalyvis) – asmuo, su kuriuo yra sudaryta pensijų kaupimo sutartis ir kurio vardu atidaryta asmeninė pensijų sąskaita.“
 
 
 
-### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-b72caaabb9dd2b1efaecba1f
 
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 15 straipsnio papildymas 9 dalimi
+### 3 straipsnis. 15 straipsnio papildymas 9 dalimi ^s-4a67712d004cc46db721f445
 
 
 Papildyti 15 straipsnį 9 dalimi:
@@ -73,7 +78,7 @@ Papildyti 15 straipsnį 9 dalimi:
 
 
 
-### 4 straipsnis. 16 straipsnio 2 punkto pakeitimas
+### 4 straipsnis. 16 straipsnio 2 punkto pakeitimas ^s-65124becfb89bd5ea5304cf8
 
 
 Pakeisti 16 straipsnio 2 punktą ir jį išdėstyti taip:
@@ -83,7 +88,7 @@ Pakeisti 16 straipsnio 2 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 23 straipsnio 3 dalies 13 punkto pakeitimas
+### 5 straipsnis. 23 straipsnio 3 dalies 13 punkto pakeitimas ^s-bc63bf83d304609f5d77bf3f
 
 
 Pakeisti 23 straipsnio 3 dalies 13 punktą ir jį išdėstyti taip:
@@ -93,7 +98,7 @@ Pakeisti 23 straipsnio 3 dalies 13 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 27 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 27 straipsnio 1 dalies pakeitimas ^s-a90d6b5675d3c5376e3368a6
 
 
 Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -103,30 +108,30 @@ Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 28 straipsnio 1 dalies 2 ir 10 punktų pakeitimas
+### 7 straipsnis. 28 straipsnio 1 dalies 2 ir 10 punktų pakeitimas ^s-1972431d8aae5ae966ea2d7e
 
 
-1. 28 straipsnio 1 dalies 2 punkte vietoj žodžių „pensijų įmokų mokėtojo“ įrašyti žodį „dalyvio“, išbraukti žodžius „o jei įmokų mokėtojas juridinis asmuo – įmonės pavadinimas, kodas, buveinės adresas, atstovo vardas ir pavardė“ ir šį punktą išdėstyti taip: ^7c5d6ff52270c519a6412ec4
+1. 28 straipsnio 1 dalies 2 punkte vietoj žodžių „pensijų įmokų mokėtojo“ įrašyti žodį „dalyvio“, išbraukti žodžius „o jei įmokų mokėtojas juridinis asmuo – įmonės pavadinimas, kodas, buveinės adresas, atstovo vardas ir pavardė“ ir šį punktą išdėstyti taip: ^s-3230d632a634f0feadf42c07
 
 
 „2) šalys (valdymo įmonės pavadinimas, kodas, buveinės adresas, Vertybinių popierių komisijos išduotos licencijos numeris, atstovo vardas ir pavardė; dalyvio vardas, pavardė, asmens kodas, gimimo data, gyvenamosios vietos adresas);“.
 
 
-2. 28 straipsnio 1 dalies 10 punkte išbraukti žodžius „pensijų įmokų mokėtojo (jei įmokas moka ne pats dalyvis) ir“ ir šį punktą išdėstyti taip: ^d0b114c16b25e2fe24c2ddb6
+2. 28 straipsnio 1 dalies 10 punkte išbraukti žodžius „pensijų įmokų mokėtojo (jei įmokas moka ne pats dalyvis) ir“ ir šį punktą išdėstyti taip: ^s-c7460a52a1fc6e097ddb51d1
 
 
 „10) sutarties nutraukimo tvarka ir sąlygos, iš jų – dalyvio teisė bet kada panorėjus nutraukti pensijų kaupimo sutartį;“.
 
 
 
-### 8 straipsnis. 29 straipsnio 5 dalies pripažinimas netekusia galios
+### 8 straipsnis. 29 straipsnio 5 dalies pripažinimas netekusia galios ^s-be0d10c92662043647d9a5cc
 
 
 29 straipsnio 5 dalį pripažinti netekusia galios.
 
 
 
-### 9 straipsnis. 30 straipsnio 1 dalies pakeitimas
+### 9 straipsnis. 30 straipsnio 1 dalies pakeitimas ^s-1c955fe315ccff6e4947cb43
 
 
 30 straipsnio 1 dalyje išbraukti antrą sakinį ir šią dalį išdėstyti taip:
@@ -136,20 +141,20 @@ Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 32 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas
+### 10 straipsnis. 32 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas ^s-fdac80630e98cdf9efd3bc0e
 
 
-1. 32 straipsnio 2 dalį pripažinti netekusia galios. ^4534c14a9d26db4bc88130e9
+1. 32 straipsnio 2 dalį pripažinti netekusia galios. ^s-37d30f1799f9355dc397f9a7
 
 
-2. Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip: ^86e59c744ca25d3ee8e86e34
+2. Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip: ^s-805b7bd686a811907284bd88
 
 
 „3. Dalyvio išstojimu iš pensijų fondo laikoma pensijų kaupimo sutarties nutraukimas dalyvio iniciatyva, nepereinant į kitą pensijų fondą.“
 
 
 
-### 11 straipsnis. 35 straipsnio 5 dalies pakeitimas
+### 11 straipsnis. 35 straipsnio 5 dalies pakeitimas ^s-e300969b855fdc7171b9d17b
 
 
 35 straipsnio 5 dalyje po žodžio „dokumentą“ įrašyti žodžius „(ar įvykus numatytam juridiniam faktui)“, po žodžių „verte ir“ įrašyti žodžius ir skaičių „ne vėliau kaip per 7 darbo dienas“ ir šią dalį išdėstyti taip:
@@ -159,7 +164,7 @@ Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 12 straipsnis. 36 straipsnio 2 dalies pakeitimas
+### 12 straipsnis. 36 straipsnio 2 dalies pakeitimas ^s-509143ba00cfc216f545b6d4
 
 
 Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti ją taip:
@@ -169,49 +174,49 @@ Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti ją taip:
 
 
 
-### 13 straipsnis.       37 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas
+### 13 straipsnis.       37 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas ^s-1a48d91df9230d0ed2bebf65
 
 
-1. Pripažinti 37 straipsnio 2 dalį netekusia galios. ^3f6ddb560f2d3832ac5b1a54
+1. Pripažinti 37 straipsnio 2 dalį netekusia galios. ^s-7fd1cf52c185b3eee997eda9
 
 
-2. 37 straipsnio 3 dalyje išbraukti žodžius „likus ne mažiau kaip 3 mėnesiams iki išmokų mokėjimo pradžios“ ir šią dalį išdėstyti taip: ^0175585599a86342e483af40
+2. 37 straipsnio 3 dalyje išbraukti žodžius „likus ne mažiau kaip 3 mėnesiams iki išmokų mokėjimo pradžios“ ir šią dalį išdėstyti taip: ^s-11c72b2f9dd905b37f8c4936
 
 
 „3. Pensijų išmokų būdą pasirenka pensijų fondo dalyvis. Valdymo įmonė turi laiku pranešti dalyviui apie būtinybę pasirinkti pensijų išmokos būdą.“
 
 
 
-### 14 straipsnis. 42 straipsnio 1 dalies papildymas 4 ir 5 punktais
+### 14 straipsnis. 42 straipsnio 1 dalies papildymas 4 ir 5 punktais ^s-4bf926dd600002b58c794f5c
 
 
-Papildyti 42 straipsnio 1 dalį 4 ir [[#^da597ef18ff6ea46212b9bf9|5 punktais]]:
+Papildyti 42 straipsnio 1 dalį 4 ir [[#^s-55e8394fd83ddc9b3f1c979e|5 punktais]]:
 
 
 „4) užtikrinti, kad lėšų konvertavimas į apskaitos vienetus ir apskaitos vienetų konvertavimas į lėšas vyktų pagal teisės aktų ir pensijų fondo taisyklių reikalavimus;
 
 
-5) užtikrinti, kad apskaitos vienetų vertė būtų skaičiuojama pagal teisės aktų ir pensijų fondo taisyklių reikalavimus.“ ^da597ef18ff6ea46212b9bf9
+5) užtikrinti, kad apskaitos vienetų vertė būtų skaičiuojama pagal teisės aktų ir pensijų fondo taisyklių reikalavimus.“ ^s-55e8394fd83ddc9b3f1c979e
 
 
 
-### 15 straipsnis. 44 straipsnio 2 ir 3 dalių pakeitimas
+### 15 straipsnis. 44 straipsnio 2 ir 3 dalių pakeitimas ^s-2f8e6b361332de29bd460004
 
 
-1. 44 straipsnio 2 dalyje išbraukti žodžius „ar darbuotoju“, papildyti šią dalį nauju sakiniu ir visą dalį išdėstyti taip: ^75b6b32f1c12edfdc53c124e
+1. 44 straipsnio 2 dalyje išbraukti žodžius „ar darbuotoju“, papildyti šią dalį nauju sakiniu ir visą dalį išdėstyti taip: ^s-bceabce0fcc576277d4c6564
 
 
 „2. Valdymo įmonės administracijos vadovas, valdybos narys ar darbuotojas negali būti depozitoriumo, kuris saugo tos įmonės valdomo pensijų fondo turtą, vadovu, valdybos, stebėtojų tarybos nariu. Šie asmenys taip pat negali būti depozitoriumo darbuotojais, kurių funkcijos tiesiogiai susijusios su depozitoriumo veikla.“
 
 
-2. 44 straipsnio 3 dalyje vietoj žodžio „ar“ įrašyti žodžius „taip pat tiesiogiai su depozitoriumo veikla susijusias funkcijas atliekantys“ ir šią dalį išdėstyti taip: ^db1cb5e7c9792685189f13de
+2. 44 straipsnio 3 dalyje vietoj žodžio „ar“ įrašyti žodžius „taip pat tiesiogiai su depozitoriumo veikla susijusias funkcijas atliekantys“ ir šią dalį išdėstyti taip: ^s-875a88f4cd309951b882acb1
 
 
 „3. Depozitoriumo, saugančio pensijų turtą, vadovas, valdybos nariai, stebėtojų tarybos nariai, taip pat tiesiogiai su depozitoriumo veikla susijusias funkcijas atliekantys darbuotoj ai gali sudaryti ne daugiau kaip 1/4 tą pensijų fondą valdančios valdymo įmonės stebėtojų tarybos narių.“
 
 
 
-### 16 straipsnis. 46 straipsnio papildymas 5 dalimi
+### 16 straipsnis. 46 straipsnio papildymas 5 dalimi ^s-ece1781bf568117236d47445
 
 
 Papildyti 46 straipsnį 5 dalimi:
@@ -221,57 +226,57 @@ Papildyti 46 straipsnį 5 dalimi:
 
 
 
-### 17 straipsnis. 48 straipsnio 2 dalies papildymas 4 punktu ir 3 dalies pakeitimas
+### 17 straipsnis. 48 straipsnio 2 dalies papildymas 4 punktu ir 3 dalies pakeitimas ^s-ab01ca2cc3b8561d3ea898cd
 
 
-1. Papildyti 48 straipsnio 2 dalį 4 punktu: ^a25887b3655466a277b04267
+1. Papildyti 48 straipsnio 2 dalį 4 punktu: ^s-5c85920ea8d7301a2833fb2a
 
 
 „4) 25 procentus kito kolektyvinio investavimo subjekto investicinių vienetų arba akcijų.“
 
 
-2. Pakeisti 48 straipsnio 3 dalį ir ją išdėstyti taip: ^382489ef7ecde0dcb47ae292
+2. Pakeisti 48 straipsnio 3 dalį ir ją išdėstyti taip: ^s-9d97608fa25df5d69c7236f2
 
 
 „3. Šio straipsnio 2 dalies 2, 3 ir 4 punktuose nustatyto draudimo galima nesilaikyti įsigijimo momentu, jeigu nežinoma bendra tų vertybinių popierių ar pinigų rinkos priemonių vertė.“
 
 
 
-### 18 straipsnis. 49 straipsnio pakeitimas ir papildymas
+### 18 straipsnis. 49 straipsnio pakeitimas ir papildymas ^s-ad4dde71379f47a257a074b9
 
 
-1. Pakeisti 49 straipsnio 1 dalį ir ją išdėstyti taip: ^6ff37d675b3aecfef0665c6d
+1. Pakeisti 49 straipsnio 1 dalį ir ją išdėstyti taip: ^s-ee65abf8e7363488bdbd4472
 
 
 „1. Leidžiama investuoti į investicinius vienetus ir akcijas tik tokių kolektyvinio investavimo subjektų, kurie atitinka šias sąlygas:
 
 
-1) yra licencijuoti Europos Sąjungos arba Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje ar tokioje valstybėje, kurioje priežiūra yra ne mažesnė, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas taisykles, o Vertybinių popierių komisija bendradarbiauja su atitinkama užsienio priežiūros institucija. Tuo atveju, kai valstybė, kurioje kolektyvinio investavimo subjektas yra licencijuotas, nėra Europos Sąjungos arba Ekonominio bendradarbiavimo ir plėtros organizacijos valstybė narė, būtinas Vertybinių popierių komisijos ir tokios valstybės atitinkamos priežiūros institucijos bendradarbiavimas dvišalių susitarimų pagrindais; ^24d31eda774a5368a3ad3463
+1) yra licencijuoti Europos Sąjungos arba Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje ar tokioje valstybėje, kurioje priežiūra yra ne mažesnė, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas taisykles, o Vertybinių popierių komisija bendradarbiauja su atitinkama užsienio priežiūros institucija. Tuo atveju, kai valstybė, kurioje kolektyvinio investavimo subjektas yra licencijuotas, nėra Europos Sąjungos arba Ekonominio bendradarbiavimo ir plėtros organizacijos valstybė narė, būtinas Vertybinių popierių komisijos ir tokios valstybės atitinkamos priežiūros institucijos bendradarbiavimas dvišalių susitarimų pagrindais; ^s-a7f5c8ae24df5d441e0756fd
 
 
-2) subjektų dalyvių teisių apsauga, įskaitant turto atskyrimo, skolinimosi, skolinimo ir turto, kurio subjektas neturi, pardavimo, reglamentavimą, yra ne mažesnė, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas taisykles; ^399bb15fa3cc616a5bb3ec99
+2) subjektų dalyvių teisių apsauga, įskaitant turto atskyrimo, skolinimosi, skolinimo ir turto, kurio subjektas neturi, pardavimo, reglamentavimą, yra ne mažesnė, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas taisykles; ^s-0d8b65c5d92f502ba323cf52
 
 
-3) subjektai teikia savo veiklos pusmečio ir metų ataskaitas, leidžiančias įvertinti jų turtą ir įsipareigojimus, pelną ir veiklą per ataskaitinį laikotarpį; ^6f0828891eee0999367a2e71
+3) subjektai teikia savo veiklos pusmečio ir metų ataskaitas, leidžiančias įvertinti jų turtą ir įsipareigojimus, pelną ir veiklą per ataskaitinį laikotarpį; ^s-41cc06d39434cfc4c6f094e4
 
 
-4) ne daugiau kaip 10 procentų jų aktyvų gali būti investuota į kitų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas.“ ^33d32446ed009ff26e00690a
+4) ne daugiau kaip 10 procentų jų aktyvų gali būti investuota į kitų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas.“ ^s-4984343170ff98763d48d9c4
 
 
-2. Papildyti 49 straipsnį nauja [[#^3a3abb10beac0f5b7e672209|3 dalimi]] ir ją išdėstyti taip: ^d42704d50b3cde8216cb965b
+2. Papildyti 49 straipsnį nauja [[#^s-5527d70b4f90102a9dac436d|3 dalimi]] ir ją išdėstyti taip: ^s-ad3fca96bc6c6bd228180c5c
 
 
 „3. Bendra investicijų į kolektyvinio investavimo subjektus, kurie veikia ne pagal 1985 m. gruodžio 20 d. Tarybos direktyvos 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas taisykles, gali būti ne didesnė kaip 30 procentų pensijų fondo grynųjų aktyvų.“
 
 
-3. Buvusią [[#^3a3abb10beac0f5b7e672209|3 dalį]] laikyti 4 dalimi, pakeisti ir išdėstyti taip: ^3a3abb10beac0f5b7e672209
+3. Buvusią [[#^s-5527d70b4f90102a9dac436d|3 dalį]] laikyti 4 dalimi, pakeisti ir išdėstyti taip: ^s-5527d70b4f90102a9dac436d
 
 
 „4. Tokie kolektyvinio investavimo subjektai, kuriuos valdo ta pati valdymo įmonė ar tokios valdymo įmonės, kurių daugiau nei pusė valdymo organų narių yra tie patys asmenys ar kurias kontroliuoja tas pats asmuo arba kurių viena turi daugiau kaip 10 procentų balsų kitos valdymo įmonės visuotiniame akcininkų susirinkime, laikomi susijusiais. Jei bent vienas iš išvardytų subjektų yra pensijų fondo valdymo įmonė, tai to pensijų fondo turtas į susijusių kolektyvinio investavimo subjektų investicinius vienetus ar akcijas gali būti investuojamas tik grynųjų aktyvų verte.“
 
 
 
-### 19 straipsnis. 51 straipsnio 1 dalies pakeitimas
+### 19 straipsnis. 51 straipsnio 1 dalies pakeitimas ^s-75a915375bf52cc750ebe71d
 
 
 Pakeisti 51 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -281,7 +286,7 @@ Pakeisti 51 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 20 straipsnis. 53 straipsnio 5 dalies pakeitimas
+### 20 straipsnis. 53 straipsnio 5 dalies pakeitimas ^s-6d09eeea5e7a9e80469c8173
 
 
 53 straipsnio 5 dalyje vietoj žodžių „šiame straipsnyje numatytos“, įrašyti žodį „kitos“, vietoj žodžio „taisykles“ įrašyti žodį „tvarką“ ir šią dalį išdėstyti taip:
@@ -291,7 +296,7 @@ Pakeisti 51 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 21 straipsnis. 54 straipsnio pakeitimas
+### 21 straipsnis. 54 straipsnio pakeitimas ^s-23d80253c5c0b4d67043e384
 
 
 Pakeisti 54 straipsnį ir jį išdėstyti taip:
@@ -304,7 +309,7 @@ Valdymo įmonė nustatyto turinio savo metų ataskaitą turi paskelbti įstatuos
 
 
 
-### 22 straipsnis. 59 straipsnio pakeitimas ir papildymas
+### 22 straipsnis. 59 straipsnio pakeitimas ir papildymas ^s-6074728df1410d664145b7d3
 
 
 Pakeisti ir papildyti 59 straipsnį ir jį išdėstyti taip:
@@ -316,19 +321,19 @@ Pakeisti ir papildyti 59 straipsnį ir jį išdėstyti taip:
 Vertybinių popierių komisija, vadovaudamasi Vertybinių popierių rinkos įstatymo 62 straipsnyje nustatyta tvarka, turi teisę skirti baudas:
 
 
-1) juridiniams asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šio Įstatymo nustatytos licencijos – iki 200 tūkstančių litų; ^03a5392073026885a6673f48
+1) juridiniams asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šio Įstatymo nustatytos licencijos – iki 200 tūkstančių litų; ^s-5629eab011f1bebceccefe30
 
 
-2) valdymo įmonėms, kurios sudaro pensijų kaupimo sutartis neturėdamos patvirtintų pensijų fondo taisyklių – iki 100 tūkstančių litų; ^fa69748d08a27563460116c5
+2) valdymo įmonėms, kurios sudaro pensijų kaupimo sutartis neturėdamos patvirtintų pensijų fondo taisyklių – iki 100 tūkstančių litų; ^s-9d66b1f6949b7d16f12ba1e9
 
 
-3) valdymo įmonėms, pažeidusioms šiame Įstatyme nustatytą pensijų fondo turto investavimo tvarką, kai dėl to kyla grėsmė dalyvių turtiniams interesams – iki 300 tūkstančių litų; ^70a4645af8853f580d1ea48c
+3) valdymo įmonėms, pažeidusioms šiame Įstatyme nustatytą pensijų fondo turto investavimo tvarką, kai dėl to kyla grėsmė dalyvių turtiniams interesams – iki 300 tūkstančių litų; ^s-1db5f0f7cce32ce82442a7f3
 
 
-4) juridiniams asmenims, pažeidusiems šiame Įstatyme nustatytą paslaugų siūlymo ar reklamos tvarką – iki 100 tūkstančių litų; ^f337e8d26645921b6cd393ee
+4) juridiniams asmenims, pažeidusiems šiame Įstatyme nustatytą paslaugų siūlymo ar reklamos tvarką – iki 100 tūkstančių litų; ^s-44e9fb6571db30d1a69fe31a
 
 
-5) valdymo įmonėms, nevykdančioms arba netinkamai vykdančioms šio Įstatymo [[#6 straipsnis. 27 straipsnio 1 dalies pakeitimas|6 straipsnyje]] nustatytas pareigas – iki 100 tūkstančių litų.“ ^288db8f207cdf3bc0be6f02f
+5) valdymo įmonėms, nevykdančioms arba netinkamai vykdančioms šio Įstatymo [[#^s-a90d6b5675d3c5376e3368a6|6 straipsnyje]] nustatytas pareigas – iki 100 tūkstančių litų.“ ^s-986fd4de9870ebaaa6cfa8da
 
 
 

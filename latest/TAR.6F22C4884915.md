@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6F22C4884915"
 pavadinimas: "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.6F22C4884915.md"
 latest_sha256: "4d2800fcf373cf78ff4736c33adb6e2039555a2cc4da2412234b6b9eb2f50483"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6F22C4884915]]"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6F22C4884915.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6F22C4884915
+- Ryšiai: [[Ryšiai/TAR.6F22C4884915|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-5cf91cea673219729667f868
 
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -45,13 +50,13 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-500ad440d2ece92b03a2975b
 
 
-1. Šis įstatymas, išskyrus [[#^6bb7e17e3cc111953e75d673|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d. ^57319f891274470e7c52224b
+1. Šis įstatymas, išskyrus [[#^s-5a90bc2d3072c9e475768ca1|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d. ^s-83a37508ff48e9bbfe775b17
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^6bb7e17e3cc111953e75d673
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-5a90bc2d3072c9e475768ca1
 
 
 

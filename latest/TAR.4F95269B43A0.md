@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4F95269B43A0"
 pavadinimas: "Lietuvos Respublikos pajūrio juostos įstatymas"
+aliases:
+  - "Lietuvos Respublikos pajūrio juostos įstatymas"
+  - "pajūrio juostos įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-19"
 latest_path: "latest/TAR.4F95269B43A0.md"
 latest_sha256: "419f0f5f4e8ff5e40bb02d76e182ea9b8064b51b2c4d64ee9c372a88ae20386b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4F95269B43A0]]"
 ---
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4F95269B43A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0
+- Ryšiai: [[Ryšiai/TAR.4F95269B43A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,12 +37,12 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-078769b2c49a9b41377ce4a3
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-c44efc3136085f00c00e1078
 
 
 Šis Įstatymas apibūdina pajūrio juostos nustatymo tikslus, jos sudedamąsias dalis, nustato pajūrio kraštovaizdžio žemės ir jūros akvatorijos apsaugą ir naudojimą.
@@ -48,74 +53,74 @@ Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-### 2 straipsnis. Pagrindinės Įstatymo sąvokos
+### 2 straipsnis. Pagrindinės Įstatymo sąvokos ^s-8f2494e933cfac26bd6efc26
 
 
-1. Akvatorija – tam tikras natūralaus arba dirbtinio vandens baseino (jūros) plotas. ^6ecbfd7e53c97523bd3b07ee
+1. Akvatorija – tam tikras natūralaus arba dirbtinio vandens baseino (jūros) plotas. ^s-5a0c68eaa9b4cfe952e3fcfd
 
 
-2. Krantotvarka – natūralioms, svarbioms arba būdingoms krantų savybėms išsaugoti ar atkurti skirtų priemonių visuma. ^fde98289e1655bcf04b6443b
+2. Krantotvarka – natūralioms, svarbioms arba būdingoms krantų savybėms išsaugoti ar atkurti skirtų priemonių visuma. ^s-43331bd1aca993a246759304
 
 
-3. Kopagūbris (kopos) – už paplūdimio dirbtinai ar vėjo natūraliai suformuotas smėlio gūbrys, saugantis nuo pustomo smėlio ar jūros poveikio už jo esančias teritorijas. ^8575f8dfac4d281c043e35cc
+3. Kopagūbris (kopos) – už paplūdimio dirbtinai ar vėjo natūraliai suformuotas smėlio gūbrys, saugantis nuo pustomo smėlio ar jūros poveikio už jo esančias teritorijas. ^s-6022286bba3eba348500e365
 
 
-4. Klifas – eroduojamas sausumos skardis. ^73a65cd36f7eb89b5582c2c9
+4. Klifas – eroduojamas sausumos skardis. ^s-79dbf9607f25076c237ec49b
 
 
-5. Pajūrio juosta – sausumos (kopagūbris, prieškopė, klifas, paplūdimys) ir jūros akvatorijos (povandeninis šlaitas iki 20 m gylio izobatos) dalis, kurios apsaugos ir naudojimo režimą nustato įstatymai ir kiti teisės aktai. ^1fb78cd877aae9e083afaa22
+5. Pajūrio juosta – sausumos (kopagūbris, prieškopė, klifas, paplūdimys) ir jūros akvatorijos (povandeninis šlaitas iki 20 m gylio izobatos) dalis, kurios apsaugos ir naudojimo režimą nustato įstatymai ir kiti teisės aktai. ^s-654cd7d188ee69ec9e7f073b
 
 
-6. Paplūdimys – kintanti iš smėlio nešmenų vandens ir vėjo formuojama teritorija tarp jūros kranto linijos iki kopagūbrio ar klifo. ^bca49e617454f8208189808c
+6. Paplūdimys – kintanti iš smėlio nešmenų vandens ir vėjo formuojama teritorija tarp jūros kranto linijos iki kopagūbrio ar klifo. ^s-6d92429152f1762207b50e0b
 
 
-7. Prieškopė – pajūrio lygumos dalis nuo kontinento pusės, tiesiogiai besišliejanti prie kopagūbrio, klifo, suformuota ir tebeformuojama pajūryje vykstančių eolinių procesų. ^1115b9241669d4effcc53cfb
+7. Prieškopė – pajūrio lygumos dalis nuo kontinento pusės, tiesiogiai besišliejanti prie kopagūbrio, klifo, suformuota ir tebeformuojama pajūryje vykstančių eolinių procesų. ^s-fa75f09ad5f850c25212257a
 
 
-8. Rekreaciniai ištekliai – gamtinės ir kultūrinės kraštovaizdžio vertybės ar savybės, kurios gali būti ar yra naudojamos rekreacijai. ^de57d74ffce439059716dec0
+8. Rekreaciniai ištekliai – gamtinės ir kultūrinės kraštovaizdžio vertybės ar savybės, kurios gali būti ar yra naudojamos rekreacijai. ^s-d1b5adb529fba85a37fa0570
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-034b7224e9128f8e7790deb4
 PAJŪRIO JUOSTOS NUSTATYMO TIKSLAI IR JOS RIBOS
 
 
 
-### 3 straipsnis. Pajūrio juostos nustatymo tikslai
+### 3 straipsnis. Pajūrio juostos nustatymo tikslai ^s-c54a7dfb988d6b2a601f1217
 
 
 Pajūrio juostos nustatymo tikslai yra:
 
 
-1) racionaliai naudojant išsaugoti Kuršių nerijos, įrašytos į UNESCO Pasaulio paveldo sąrašą, žemyninio pajūrio kraštovaizdį, retų bei nykstančių augalų ir gyvūnų rūšių buveines ir kitus gamtos išteklius; ^c7a025b53690ffc5044c25df
+1) racionaliai naudojant išsaugoti Kuršių nerijos, įrašytos į UNESCO Pasaulio paveldo sąrašą, žemyninio pajūrio kraštovaizdį, retų bei nykstančių augalų ir gyvūnų rūšių buveines ir kitus gamtos išteklius; ^s-38a8674c0677ebdf7519fbf5
 
 
-2) užtikrinti pajūrio juostos subalansuotą naudojimą valstybės bei visuomenės reikmėms; ^e272a420e821fd81ffb967bd
+2) užtikrinti pajūrio juostos subalansuotą naudojimą valstybės bei visuomenės reikmėms; ^s-945b19d57031528321506618
 
 
-3) užtikrinti kraštovaizdžio gamtos ir kultūros vertybių apsaugos priemonių įgyvendinimą; ^16a927b2d846ae31f14b8e96
+3) užtikrinti kraštovaizdžio gamtos ir kultūros vertybių apsaugos priemonių įgyvendinimą; ^s-61a7c699912fd8593913ff0e
 
 
-4) sudaryti sąlygas visuomenei naudotis pajūrio juostos rekreaciniais ištekliais. ^11453964ab28e7194905b0c3
+4) sudaryti sąlygas visuomenei naudotis pajūrio juostos rekreaciniais ištekliais. ^s-167b177e7d5fe731e997aadf
 
 
 
-### 4 straipsnis. Pajūrio juostos sudedamosios dalys ir ribų nustatymas
+### 4 straipsnis. Pajūrio juostos sudedamosios dalys ir ribų nustatymas ^s-46fd6e86bdb03502e44f1811
 
 
-1. Pajūrio juostai priskiriama: ^003785bd7115bad8d745d26c
+1. Pajūrio juostai priskiriama: ^s-b9a4cb855c90e9d5b4872e4e
 
 
-1) ne siauresnė kaip 100 m nuo jūros kranto linijos sausumos teritorija, į kurią įeina kopagūbris, prieškopė, klifas ir paplūdimys, besidriekianti nuo Latvijos Respublikos valstybės sienos iki Klaipėdos uosto šiaurinio molo; ^d3779730ca30563b14b8ccdf
+1) ne siauresnė kaip 100 m nuo jūros kranto linijos sausumos teritorija, į kurią įeina kopagūbris, prieškopė, klifas ir paplūdimys, besidriekianti nuo Latvijos Respublikos valstybės sienos iki Klaipėdos uosto šiaurinio molo; ^s-2da2583fd74663ad16fd170c
 
 
-2) Kuršių nerija iki Rusijos Federacijos valstybės sienos; ^9be95ee740c97a3993d5cf37
+2) Kuršių nerija iki Rusijos Federacijos valstybės sienos; ^s-9c4d58a88a913fed946ac7e3
 
 
-3) Lietuvos Respublikos teritorinių vandenų Baltijos jūros akvatorija iki 20 m gylio izobatos. ^31fc8e4d4e72e566c273b9f1
+3) Lietuvos Respublikos teritorinių vandenų Baltijos jūros akvatorija iki 20 m gylio izobatos. ^s-d5e451ad942c6ac6aa6a3d21
 
 
-2. Pajūrio juostos žemyninės dalies ribos nustatomos Pajūrio juostos žemyninės dalies tvarkymo plane. Pajūrio juosta Kuršių nerijos dalyje sutampa su Kuršių nerijos nacionalinio parko sausumos teritorija ir šiam parkui priskirta Baltijos jūros akvatorija. ^8b629268400def1d523980d3
+2. Pajūrio juostos žemyninės dalies ribos nustatomos Pajūrio juostos žemyninės dalies tvarkymo plane. Pajūrio juosta Kuršių nerijos dalyje sutampa su Kuršių nerijos nacionalinio parko sausumos teritorija ir šiam parkui priskirta Baltijos jūros akvatorija. ^s-0f9fd06e0226d6e551916d13
 Straipsnio dalies pakeitimai:
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. [[latest/TAR.148C8F5F6004|1101010ISTA00XI-825]]
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. [[latest/TAR.0D0721B0A3BE|1131010ISTA0XII-417]]
@@ -124,37 +129,37 @@ Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-3. Pajūrio juostos ribos turi būti pažymėtos visuose rengiamuose šios teritorijos planavimo dokumentuose ir kartografinėje medžiagoje. ^b556031c0e2d634f28127121
+3. Pajūrio juostos ribos turi būti pažymėtos visuose rengiamuose šios teritorijos planavimo dokumentuose ir kartografinėje medžiagoje. ^s-1b8da667473ed11cc5f2e674
 
 
 
-### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS ^s-50fea364ce632b49b2cdada9
 VEIKLOS PAJŪRIO JUOSTOJE REGULIAVIMAS
 Pakeistas skirsnio pavadinimas:
 Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-### 5 straipsnis. Žemės valdymas ir naudojimas
+### 5 straipsnis. Žemės valdymas ir naudojimas ^s-238bc3e797af421c02027cf6
 
 
-1. Pajūrio juostai priskirta valstybinė žemė ir jūros akvatorija išimtine nuosavybės teise priklauso Lietuvos Respublikai. Pajūrio juostos žemė valdoma ir naudojama Žemės įstatymo nustatyta tvarka. ^4e74310d055e4508efce1a22
+1. Pajūrio juostai priskirta valstybinė žemė ir jūros akvatorija išimtine nuosavybės teise priklauso Lietuvos Respublikai. Pajūrio juostos žemė valdoma ir naudojama [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka. ^s-7b7a40acd461b21db8465d14
 
 
-2. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis Civilinio kodekso, Žemės įstatymo nustatyta tvarka įsigyti žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio Įstatymo įsigaliojimo. ^581204bf3385abaafb9ab424
+2. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis Civilinio kodekso, [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka įsigyti žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio Įstatymo įsigaliojimo. ^s-1f0c9597cacf3fd235c56dd6
 Straipsnio dalies pakeitimai:
 Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-3. Žemės tvarkymą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat Teritorijų planavimo įstatymo nustatyta tvarka parengti ir patvirtinti teritorijų planavimo dokumentai. ^cdc90906774cd230dd65de6c
+3. Žemės tvarkymą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka parengti ir patvirtinti teritorijų planavimo dokumentai. ^s-da3e961a5876a56f00aa6c37
 Straipsnio dalies pakeitimai:
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. [[latest/TAR.0D0721B0A3BE|1131010ISTA0XII-417]]
 Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-4. Neteko galios nuo 2014-01-01 ^338b3a485d9b6539453439da
+4. Neteko galios nuo 2014-01-01 ^s-0c219040180c61eb96f6d46f
 Straipsnio dalies naikinimas:
 Nr. XII-417, 2013-06-27, Žin. 2013, Nr. 76-3834 (2013-07-16), i. k. [[latest/TAR.0D0721B0A3BE|1131010ISTA0XII-417]]
 
@@ -165,19 +170,19 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. [[latest/TA
 
 
 
-### 6 straipsnis. Veiklos pajūrio juostoje reguliavimas
+### 6 straipsnis. Veiklos pajūrio juostoje reguliavimas ^s-14e2f1baa4c31d1bf169ea05
 
 
-1. Pajūrio juostoje žemės, akvatorijos naudotojai privalo laikytis šiame Įstatyme, kituose įstatymuose nustatytų ūkinės veiklos apribojimų, šio Įstatymo [[#^cdc90906774cd230dd65de6c|5 straipsnio 3 dalyje]] nurodytų teritorijų planavimo dokumentų sprendinių, netrukdyti įgyvendinti krantotvarkos priemones. Specialiosios žemės naudojimo pajūrio juostoje sąlygos nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. ^16ab404290d17c4c4e46d074
+1. Pajūrio juostoje žemės, akvatorijos naudotojai privalo laikytis šiame Įstatyme, kituose įstatymuose nustatytų ūkinės veiklos apribojimų, šio Įstatymo [[#^s-da3e961a5876a56f00aa6c37|5 straipsnio 3 dalyje]] nurodytų teritorijų planavimo dokumentų sprendinių, netrukdyti įgyvendinti krantotvarkos priemones. Specialiosios žemės naudojimo pajūrio juostoje sąlygos nustatytos [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme]]. ^s-5ec71f7d10a0a40fbe1f133a
 
 
-2. Pajūrio juostoje teikiama pirmenybė šios juostos nustatymo tikslams neprieštaraujančiai veiklai plėtoti. ^4c051326c07d3e46dc320207
+2. Pajūrio juostoje teikiama pirmenybė šios juostos nustatymo tikslams neprieštaraujančiai veiklai plėtoti. ^s-49f0ec9ae8ce14d441910473
 
 
-3. Pajūrio juostoje esančių kultūros vertybių tvarkymą nustato Nekilnojamųjų kultūros vertybių apsaugos įstatymas. ^f87874bf61901bfb52b122ed
+3. Pajūrio juostoje esančių kultūros vertybių tvarkymą nustato [[latest/TAR.9BC8AEE9D9F8|Nekilnojamųjų kultūros vertybių apsaugos įstatymas]]. ^s-c9972ce004dca3e9258bf379
 
 
-4. Privažiavimo prie jūros kranto tvarką pajūrio juostoje savivaldybės teritorijos ribose nustato savivaldybės taryba, suderinusi su Nacionaline žemės tarnyba prie Aplinkos ministerijos ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos. Privažiavimo prie jūros kranto tvarka pajūrio juostoje Kuršių nerijos nacionalinio parko teritorijoje ir Pajūrio juostos regioninio parko teritorijoje turi būti suderinta ir su šių parkų direkcijomis bei Aplinkos apsaugos agentūra. ^17741ba26c5f2d04ea6662af
+4. Privažiavimo prie jūros kranto tvarką pajūrio juostoje savivaldybės teritorijos ribose nustato savivaldybės taryba, suderinusi su Nacionaline žemės tarnyba prie Aplinkos ministerijos ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos. Privažiavimo prie jūros kranto tvarka pajūrio juostoje Kuršių nerijos nacionalinio parko teritorijoje ir Pajūrio juostos regioninio parko teritorijoje turi būti suderinta ir su šių parkų direkcijomis bei Aplinkos apsaugos agentūra. ^s-6fb96f27a87880eecedf8dee
 Straipsnio dalies pakeitimai:
 Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
 
@@ -188,10 +193,10 @@ Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-### 7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje
+### 7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje ^s-c25f513037eaefad4434210a
 
 
-Statybą leidžiančius dokumentus naujų ypatingųjų ir neypatingųjų statinių, kurių projektiniams pasiūlymams pritarė aplinkos ministras, statybai pajūrio juostoje aplinkos ministro nustatyta tvarka išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija). Statytojas prašymą pritarti projektiniams pasiūlymams ir projektinius pasiūlymus aplinkos ministro nustatyta tvarka pateikia savivaldybės, kurioje jis planuoja statyti statinį, administracijai. Savivaldybės administracija aplinkos ministro nustatyta tvarka viešina projektinius pasiūlymus, apibendrina gautas visuomenės ar suinteresuotų institucijų pastabas projektiniams pasiūlymams ir statytojo prašymą pritarti projektiniams pasiūlymams, projektinius pasiūlymus ir viešinimo dokumentus pateikia Valstybinei teritorijų planavimo ir statybos inspekcijai. Valstybinė teritorijų planavimo ir statybos inspekcija aplinkos ministro nustatyta tvarka išnagrinėja savivaldybės administracijos pateiktus dokumentus, parengia išvadą, ar numatoma statyba atitinka šio Įstatymo [[#5 straipsnis. Žemės valdymas ir naudojimas|5 straipsnyje]] nurodytų teritorijų planavimo dokumentų sprendinius, ir visus dokumentus pateikia aplinkos ministrui. Aplinkos ministras per 20 darbo dienų įvertina gautus dokumentus ir priima sprendimą dėl pritarimo projektiniams pasiūlymams. Statytojas, gavęs aplinkos ministro sprendimą, kuriuo pritariama projektiniams pasiūlymams, aplinkos ministro nustatyta tvarka teikia prašymą dėl statybą leidžiančio dokumento išdavimo Valstybinei teritorijų planavimo ir statybos inspekcijai.
+Statybą leidžiančius dokumentus naujų ypatingųjų ir neypatingųjų statinių, kurių projektiniams pasiūlymams pritarė aplinkos ministras, statybai pajūrio juostoje aplinkos ministro nustatyta tvarka išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija). Statytojas prašymą pritarti projektiniams pasiūlymams ir projektinius pasiūlymus aplinkos ministro nustatyta tvarka pateikia savivaldybės, kurioje jis planuoja statyti statinį, administracijai. Savivaldybės administracija aplinkos ministro nustatyta tvarka viešina projektinius pasiūlymus, apibendrina gautas visuomenės ar suinteresuotų institucijų pastabas projektiniams pasiūlymams ir statytojo prašymą pritarti projektiniams pasiūlymams, projektinius pasiūlymus ir viešinimo dokumentus pateikia Valstybinei teritorijų planavimo ir statybos inspekcijai. Valstybinė teritorijų planavimo ir statybos inspekcija aplinkos ministro nustatyta tvarka išnagrinėja savivaldybės administracijos pateiktus dokumentus, parengia išvadą, ar numatoma statyba atitinka šio Įstatymo [[#^s-238bc3e797af421c02027cf6|5 straipsnyje]] nurodytų teritorijų planavimo dokumentų sprendinius, ir visus dokumentus pateikia aplinkos ministrui. Aplinkos ministras per 20 darbo dienų įvertina gautus dokumentus ir priima sprendimą dėl pritarimo projektiniams pasiūlymams. Statytojas, gavęs aplinkos ministro sprendimą, kuriuo pritariama projektiniams pasiūlymams, aplinkos ministro nustatyta tvarka teikia prašymą dėl statybą leidžiančio dokumento išdavimo Valstybinei teritorijų planavimo ir statybos inspekcijai.
 
 
 Straipsnio pakeitimai:
@@ -200,47 +205,47 @@ Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 
 
 
-### 8 straipsnis. Krantotvarka ir ypatingos ekologinės situacijos
+### 8 straipsnis. Krantotvarka ir ypatingos ekologinės situacijos ^s-50bebcdb1c1cd324a53e6934
 
 
-1. Krantotvarkos priemonės svarbioms arba būdingoms krantų savybėms išsaugoti ar atkurti numatomos Pajūrio juostos tvarkymo programoje. Pajūrio juostos tvarkymo programos rengimą organizuoja Aplinkos ministerija ir tvirtina aplinkos ministras. Pajūrio juostos tvarkymo programą Kuršių nerijos dalyje įgyvendina Kuršių nerijos nacionalinio parko direkcija, pajūrio juostos žemyninėje dalyje – Klaipėdos miesto ir rajono savivaldybės ir Palangos miesto savivaldybė. Reikalingos lėšos šiai programai įgyvendinti skiriamos iš valstybės biudžeto ir kitų teisėtų lėšų. ^2d0ce6438770051ef0eac2ce
+1. Krantotvarkos priemonės svarbioms arba būdingoms krantų savybėms išsaugoti ar atkurti numatomos Pajūrio juostos tvarkymo programoje. Pajūrio juostos tvarkymo programos rengimą organizuoja Aplinkos ministerija ir tvirtina aplinkos ministras. Pajūrio juostos tvarkymo programą Kuršių nerijos dalyje įgyvendina Kuršių nerijos nacionalinio parko direkcija, pajūrio juostos žemyninėje dalyje – Klaipėdos miesto ir rajono savivaldybės ir Palangos miesto savivaldybė. Reikalingos lėšos šiai programai įgyvendinti skiriamos iš valstybės biudžeto ir kitų teisėtų lėšų. ^s-f900f5ac6d0b95d90957f6ec
 Straipsnio dalies pakeitimai:
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. [[latest/TAR.148C8F5F6004|1101010ISTA00XI-825]]
 
 
 
-2. Numatant krantotvarkos priemones, pirmenybė teikiama natūralių ar tam rajonui būdingų medžiagų, gamtinių analogų principui. Būtina užtikrinti, kad atskirų kranto ruožų krantotvarkos priemonės būtų suderintos. ^86630c2a6506c10ec356961c
+2. Numatant krantotvarkos priemones, pirmenybė teikiama natūralių ar tam rajonui būdingų medžiagų, gamtinių analogų principui. Būtina užtikrinti, kad atskirų kranto ruožų krantotvarkos priemonės būtų suderintos. ^s-2bcbafdcb273f10dad747329
 
 
-3. Ypatingų ekologinių situacijų atveju atsakingos institucijos Aplinkos apsaugos įstatymo nustatyta tvarka imasi neatidėliotinų veiksmų krantams sutvirtinti ir apsaugoti nuo tolesnio sunykimo. ^0188b24c8226482613e96be0
-
-
-
-### 9 straipsnis. Krantų būklės stebėjimas
-
-
-Jūros krantų būklės pokyčių, ūkinės veiklos poveikio bei galimų padarinių sisteminiai stebėjimai atliekami Aplinkos monitoringo įstatymo bei kitų teisės aktų nustatyta tvarka.
+3. Ypatingų ekologinių situacijų atveju atsakingos institucijos [[latest/TAR.E2780B68DE62|Aplinkos apsaugos įstatymo]] nustatyta tvarka imasi neatidėliotinų veiksmų krantams sutvirtinti ir apsaugoti nuo tolesnio sunykimo. ^s-21d3ed05843262344496123c
 
 
 
-### KETVIRTASIS SKIRSNIS
+### 9 straipsnis. Krantų būklės stebėjimas ^s-248dd5ad6651f64b9b6f3918
+
+
+Jūros krantų būklės pokyčių, ūkinės veiklos poveikio bei galimų padarinių sisteminiai stebėjimai atliekami [[latest/TAR.1A98CE535B1C|Aplinkos monitoringo įstatymo]] bei kitų teisės aktų nustatyta tvarka.
+
+
+
+### KETVIRTASIS SKIRSNIS ^s-e02581afa5846664d52d740b
 PAJŪRIO JUOSTOS NAUDOJIMO KONTROLĖ IR ATSAKOMYBĖ UŽ PAŽEIDIMUS
 
 
 
-### 10 straipsnis. Atsakomybė už pažeidimus ir valstybinė kontrolė
+### 10 straipsnis. Atsakomybė už pažeidimus ir valstybinė kontrolė ^s-c68b550454753564e4fc39f3
 
 
-1. Šį Įstatymą pažeidę asmenys atsako Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. ^e87fe687daaf1c897def142e
+1. Šį Įstatymą pažeidę asmenys atsako Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. ^s-6db3832431788063b889cd18
 
 
-2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai. ^95b460eddc083b30588fc444
+2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai. ^s-aae3c325021373f67fcac36e
 Straipsnio dalies pakeitimai:
 Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
 
 
 
-### 11 straipsnis. Netekęs galios įstatymas
+### 11 straipsnis. Netekęs galios įstatymas ^s-335e5d6b764dfc35a60802ee
 
 
 Įsigaliojus šiam Įstatymui, netenka galios Lietuvos Respublikos įstatymas „Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“ (Žin., 1995, Nr. 103-2297).
@@ -263,24 +268,24 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. [[latest/TAR.148C8F5F6004|1101010ISTA00XI-825]]
-Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, [[#8 straipsnis. Krantotvarka ir ypatingos ekologinės situacijos|8 straipsnių]] pakeitimo ir papildymo įstatymas
+[[latest/TAR.148C8F5F6004|Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas]]
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. [[latest/TAR.0D0721B0A3BE|1131010ISTA0XII-417]]
-Lietuvos Respublikos pajūrio juostos įstatymo 4, 5 ir [[#7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje|7 straipsnių]] pakeitimo įstatymas
+[[latest/TAR.0D0721B0A3BE|Lietuvos Respublikos pajūrio juostos įstatymo 4, 5 ir 7 straipsnių pakeitimo įstatymas]]
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
-Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 4, 6 ir [[#7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 4, 6 ir [[#^s-c25f513037eaefad4434210a|7 straipsnių]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
-Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 1, 4, 5, 6, [[#7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje|7 straipsnių]] ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 1, 4, 5, 6, [[#^s-c25f513037eaefad4434210a|7 straipsnių]] ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
-Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 6 ir [[#10 straipsnis. Atsakomybė už pažeidimus ir valstybinė kontrolė|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 6 ir [[#^s-c68b550454753564e4fc39f3|10 straipsnių]] pakeitimo įstatymas

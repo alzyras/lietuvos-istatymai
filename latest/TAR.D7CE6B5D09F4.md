@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D7CE6B5D09F4"
 pavadinimas: "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas"
+  - "žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-03-07"
 latest_path: "latest/TAR.D7CE6B5D09F4.md"
 latest_sha256: "ce97d3770e4a7868a3b3873195d942ef46fe0640f31a722dbe5a1acd8fe19dd6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D7CE6B5D09F4]]"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D7CE6B5D09F4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D7CE6B5D09F4
+- Ryšiai: [[Ryšiai/TAR.D7CE6B5D09F4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas
+### 1 straipsnis. 4 straipsnio papildymas ^s-a06c8d68ed450effa4057aff
 
 
 Papildyti 4 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
@@ -41,7 +46,7 @@ Papildyti 4 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 17 straipsnio 2 dalies papildymas
+### 2 straipsnis. 17 straipsnio 2 dalies papildymas ^s-30fd422a5e1f7bfc426c3e7e
 
 
 Papildyti 17 straipsnio 2 dalį trečiuoju sakiniu ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Papildyti 17 straipsnio 2 dalį trečiuoju sakiniu ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 18 straipsnio 4 dalies pakeitimas ir papildymas
+### 3 straipsnis. 18 straipsnio 4 dalies pakeitimas ir papildymas ^s-c203500014fe4ebd8cba3262
 
 
 Pakeisti ir papildyti 18 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -61,55 +66,55 @@ Pakeisti ir papildyti 18 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 19 straipsnio 2 ir 7 dalių pakeitimas ir papildymas
+### 4 straipsnis. 19 straipsnio 2 ir 7 dalių pakeitimas ir papildymas ^s-f023f0f157a1553c2b87e47e
 
 
-1. Pakeisti ir papildyti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^e59513901277d2708ae4cd06
+1. Pakeisti ir papildyti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^s-9ca2e636c35a5f5a00293ed1
 
 
 „2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti bendrovei, kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka. Pajaus ar jo dalies (pinigais ) perleidimo kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui sutartis leidžiama tvirtinti savivaldybės seniūnijos kaimo vietovėje seniūnui. Mokestis už tokių sutarčių tvirtinimą - 0,5 procento perleidžiamo pajaus vertės. Įsteigus bendrovę, asmuo, kuris pirko, dovanojimo ar kitokiu būdu, išskyrus paveldėjimą, įsigijo bendrovės nario pajų ar jo dalį, bendrovės nariu tampa tik tada, kai jį į bendrovę priima bendrovės narių susirinkimas. Jeigu susirinkimas nepriima pajininko į bendrovės narius, pajininkas bendrovės susirinkimuose neturi balsavimo teisės. Pajaus paveldėtojas pratęsia buvusio nario statusą. Asmuo, įsigijęs pajų ar jo dalį, turi raštu apie tai informuoti bendrovę. Bendrovė, gavusi pajaus įsigijimo sutarties ar paveldėjimo teisės liudijimo kopiją, per 3 darbo dienas privalo įregistruoti naująjį pajininką. Buvusio pajininko turtines teises ir prievoles naujasis pajininkas perima nuo pajaus įsigijimo sutarties ar paveldėjimo teisės liudijimo įregistravimo bendrovės dokumentuose.“
 
 
-2. Pakeisti 19 straipsnio 7 dalį ir ją išdėstyti taip: ^e8beef2dfcb0f1655ffffa08
+2. Pakeisti 19 straipsnio 7 dalį ir ją išdėstyti taip: ^s-39177b23d07810f8d323bac0
 
 
 „7. Kiekvienas bendrovės narys susirinkime priimant sprendimus turi vieną balsą. Nutarimai priimami paprasta susirinkime dalyvaujančių bendrovės narių balsų dauguma. Bendrovės narys neturi teisės balsuoti, jei priimamas nutarimas dėl jo pašalinimo iš bendrovės.“
 
 
 
-### 5 straipsnis. 20 straipsnio 3 dalies papildymas ir 4 dalies pripažinimas netekusia galios
+### 5 straipsnis. 20 straipsnio 3 dalies papildymas ir 4 dalies pripažinimas netekusia galios ^s-9f1b2b417e81d10ce7139178
 
 
-1. Papildyti 20 straipsnio 3 dalį ir ją išdėstyti taip : ^d2483bd80e3bfa50f4255031
+1. Papildyti 20 straipsnio 3 dalį ir ją išdėstyti taip : ^s-1e2090e5d147f0b40c6adb61
 
 
 „3. Buvęs narys visais atvejais turi teisę savo pajų pirkimo-pardavimo, dovanojimo ar kitais būdais perleisti bendrovei, kitiems bendrovės nariams ar kitiems fiziniams asmenims. Narys ar narių grupė, jeigu pageidauja, už savo pajų ar jo dalį turi teisę gauti iš bendrovės materialinių vertybių. Su buvusiu nariu atsiskaitoma pagal rašytinį susitarimą su bendrove ne vėliau kaip per vienerius metus nuo prašymo pateikimo bendrovei dienos.“
 
 
-2. 20 straipsnio 4 dalį pripažinti netekusia galios. ^507ca51bbebfa8b824a5b411
+2. 20 straipsnio 4 dalį pripažinti netekusia galios. ^s-aa5d1f17eff4c4013d29799d
 
 
-3. 20 straipsnio 5 dalį laikyti 4 dalimi. ^f91687a0d94695c2bb078f95
+3. 20 straipsnio 5 dalį laikyti 4 dalimi. ^s-bc48a81feefb5d9b238638d6
 
 
 
-### 6 straipsnis. 22 straipsnio 3 dalies pakeitimas ir 6 dalies papildymas
+### 6 straipsnis. 22 straipsnio 3 dalies pakeitimas ir 6 dalies papildymas ^s-6d3eca4b2e8aa315fdf8242f
 
 
-1. Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip: ^723bb43b7dbcdceb788d501f
+1. Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip: ^s-11adab1dc80b794f706b5dfc
 
 
 „3. Susirinkimus šaukia bendrovės valdyba ( administratorius ) ne rečiau kaip du kartus per metus. Pasibaigus ūkiniams metams, susirinkimas sušaukiamas per 3 mėnesius.“
 
 
-2. 22 straipsnio 6 dalyje po žodžio „išskyrus“ įrašyti žodžius „valdybos pirmininko (administratoriaus), kuris renkamas slaptu balsavimu, rinkimą, ir“ ir visą dalį išdėstyti taip: ^7b90b2685d66fc6da16dc5f6
+2. 22 straipsnio 6 dalyje po žodžio „išskyrus“ įrašyti žodžius „valdybos pirmininko (administratoriaus), kuris renkamas slaptu balsavimu, rinkimą, ir“ ir visą dalį išdėstyti taip: ^s-b5e1f33b81cdc345dffd92f6
 
 
 „6. Susirinkime balsuojama atviru balsavimu, išskyrus valdybos pirmininko (administratoriaus), kuris renkamas tik slaptu balsavimu, rinkimą, ir atvejus, kai slapto balsavimo reikalauja 1/4 narių arba bendrovės įstatai.“
 
 
 
-### 7 straipsnis. 23 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-e69a2b8b6db895cf0fa9da47
 
 
 Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -119,7 +124,7 @@ Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. 24 straipsnio papildymas 4 dalimi
+### 8 straipsnis. 24 straipsnio papildymas 4 dalimi ^s-3ddfbe6685e1508fe30b8aed
 
 
 24 straipsnį papildyti 4 dalimi:
@@ -129,7 +134,7 @@ Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 9 straipsnis. 25 straipsnio pakeitimas
+### 9 straipsnis. 25 straipsnio pakeitimas ^s-73c6b695ec022ef8eaffe4b5
 
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
@@ -142,7 +147,7 @@ Bendrovė tvarko apskaitą Lietuvos Respublikos įstatymų nustatyta tvarka. Ben
 
 
 
-### 10 straipsnis. 26 straipsnio papildymas 4 dalimi
+### 10 straipsnis. 26 straipsnio papildymas 4 dalimi ^s-0f7a9ace16c3ddef14885c65
 
 
 26 straipsnį papildyti 4 dalimi:
@@ -152,7 +157,7 @@ Bendrovė tvarko apskaitą Lietuvos Respublikos įstatymų nustatyta tvarka. Ben
 
 
 
-### 11 straipsnis. 27 straipsnio 4 dalies pakeitimas
+### 11 straipsnis. 27 straipsnio 4 dalies pakeitimas ^s-57def9696b5b416d20ca7747
 
 
 Pakeisti 27 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -162,7 +167,7 @@ Pakeisti 27 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 12 straipsnis. VIII skirsnio pavadinimo pakeitimas
+### 12 straipsnis. VIII skirsnio pavadinimo pakeitimas ^s-aa6724cf0a563cf16d39f642
 
 
 VIII skirsnį pavadinti taip:
@@ -174,7 +179,7 @@ BENDROVĖS REORGANIZAVIMAS IR VEIKLOS NUTRAUKIMAS“
 
 
 
-### 13 straipsnis. Įstatymo papildymas nauju 29 straipsniu
+### 13 straipsnis. Įstatymo papildymas nauju 29 straipsniu ^s-0a4c45c0237bdda36b6ba991
 
 
 Papildyti Įstatymą nauju 29 straipsniu:
@@ -183,63 +188,63 @@ Papildyti Įstatymą nauju 29 straipsniu:
 „29 straipsnis. Bendrovės reorganizavimas
 
 
-1. Reorganizavimas - tai bendrovės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. ^e623ff8334c88eb142d36024
+1. Reorganizavimas - tai bendrovės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. ^s-849c8159c390172580be262f
 
 
-2. Bendrovės gali būti reorganizuojamos šiais būdais: ^5e5ff37cd7657806d2ed6fcb
+2. Bendrovės gali būti reorganizuojamos šiais būdais: ^s-dbaf54ceb047a00ca5c68c5c
 
 
-1) bendroves jungiant; ^6e553364e38df3e8f21a8abf
+1) bendroves jungiant; ^s-35bc4440d2ce82425a8a90a7
 
 
-2) bendroves skaidant; ^b67e9eb909f21d9ab53c2f62
+2) bendroves skaidant; ^s-45dcbabfa2b99d87cce6aed5
 
 
-3) keičiant įmonės rūšį ar statusą. ^6d26c37c2b564814def86287
+3) keičiant įmonės rūšį ar statusą. ^s-f42eb46d530a6a6847dff34f
 
 
-3. Bendrovės turi parengti reorganizavimo projektą, kuriame turi būti nurodyta: ^cff3d7ddaf9400ee196dbed8
+3. Bendrovės turi parengti reorganizavimo projektą, kuriame turi būti nurodyta: ^s-3bce2e7d42933d7c5003fb7e
 
 
-1) reorganizuojamos bendrovės pavadinimas ir buveinė; ^a2c9f26e869ae3de5ae3455f
+1) reorganizuojamos bendrovės pavadinimas ir buveinė; ^s-e4c9f801b9092e2bc47acafe
 
 
-2) reorganizuojamos bendrovės turto įvertinimo ar perkainojimo aktas; ^8ed70ee5131260150f452cac
+2) reorganizuojamos bendrovės turto įvertinimo ar perkainojimo aktas; ^s-62a5b723643e2bd1fbc9a8f8
 
 
-3) teisių bei prievolių perėmimo tvarka ir terminai; ^4b9f3a570f1c47f014b18893
+3) teisių bei prievolių perėmimo tvarka ir terminai; ^s-a8b2278feabac98ef46f8b9a
 
 
-4) bendrovių, kurios yra reorganizuojamos, pajininkų pajų paskirstymo po reorganizavimo tvarka; ^2bcc74ce77c92789405152a8
+4) bendrovių, kurios yra reorganizuojamos, pajininkų pajų paskirstymo po reorganizavimo tvarka; ^s-4bee3552e78dec8617e975d6
 
 
-5) turtinės ir neturtinės pajininkų teisės po bendrovės reorganizavimo; ^72a813e8b17de03057c4a874
+5) turtinės ir neturtinės pajininkų teisės po bendrovės reorganizavimo; ^s-ec17c11036f873c9aefd89f2
 
 
-6) bendrovės valdymo organams ir revizoriams suteikiamos teisės. ^a5f35b2a6db29da27737f5d5
+6) bendrovės valdymo organams ir revizoriams suteikiamos teisės. ^s-020932f7725348083c66abea
 
 
-4. Kartu su bendrovės reorganizavimo projektu turi būti parengti kiekvienos po reorganizavimo veiksiančios įmonės įstatai. ^42db63703e85fe8f570a5882
+4. Kartu su bendrovės reorganizavimo projektu turi būti parengti kiekvienos po reorganizavimo veiksiančios įmonės įstatai. ^s-54f1a023fdac277e2532f53a
 
 
-5. Apie numatomą reorganizavimą bendrovė privalo viešai paskelbti bendrovės buveinėje ir spaudoje bei raštu informuoti kiekvieną pajininką ir kreditorių ne vėliau kaip prieš 15 dienų iki pajininkų susirinkimo, kurio darbotvarkėje numatyta svarstyti bendrovės reorganizavimą. Kiekvienas pajininkas turi teisę susipažinti su bendrovės reorganizavimo projektu ir kitais su reorganizavimu susijusiais dokumentais, taip pat šiuos dokumentus kopijuoti ar nusirašyti. ^19229ed93063581f6dd0705c
+5. Apie numatomą reorganizavimą bendrovė privalo viešai paskelbti bendrovės buveinėje ir spaudoje bei raštu informuoti kiekvieną pajininką ir kreditorių ne vėliau kaip prieš 15 dienų iki pajininkų susirinkimo, kurio darbotvarkėje numatyta svarstyti bendrovės reorganizavimą. Kiekvienas pajininkas turi teisę susipažinti su bendrovės reorganizavimo projektu ir kitais su reorganizavimu susijusiais dokumentais, taip pat šiuos dokumentus kopijuoti ar nusirašyti. ^s-a12acc60169859022a9158be
 
 
-6. Bendrovė, kuriai iškelta bankroto byla ar kuriai taikoma bankroto procedūra, gali būti reorganizuojama Įmonių bankroto įstatymo nustatyta tvarka. ^d086e4c7d6b259528228f0d7
+6. Bendrovė, kuriai iškelta bankroto byla ar kuriai taikoma bankroto procedūra, gali būti reorganizuojama Įmonių bankroto įstatymo nustatyta tvarka. ^s-145a7e1fd0f820f9222ba5be
 
 
-7. Po reorganizavimo veikiančių įmonių įstatai patvirtinami pajininkų susirinkime ir užregistruojami įstatymų nustatyta tvarka.“ ^4046940d168f66bb4d046303
+7. Po reorganizavimo veikiančių įmonių įstatai patvirtinami pajininkų susirinkime ir užregistruojami įstatymų nustatyta tvarka.“ ^s-7a906f3b16034102f6636ab8
 
 
 
-### 14 straipsnis. Įstatymo straipsnių numeracijos pakeitimas
+### 14 straipsnis. Įstatymo straipsnių numeracijos pakeitimas ^s-73e1ed4b1789163929becd72
 
 
 Įstatymo buvusius 29, 30, 31, 32, 33 straipsnius laikyti atitinkamai 30, 31, 32, 33, 34 straipsniais.
 
 
 
-### 15 straipsnis. 30 straipsnio 1 dalies 4 punkto pakeitimas
+### 15 straipsnis. 30 straipsnio 1 dalies 4 punkto pakeitimas ^s-bec0f64ef61fde78e4faa0ab
 
 
 Pakeisti 30 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip :
@@ -249,7 +254,7 @@ Pakeisti 30 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip :
 
 
 
-### 16 straipsnis. 33 straipsnio 5 dalies pakeitimas
+### 16 straipsnis. 33 straipsnio 5 dalies pakeitimas ^s-31f931afb328dc4c1e9536f8
 
 
 33 straipsnio 5 dalies pirmajame sakinyje po žodžių „dėl likusio turto“ įrašyti žodžius „ar turto dalies“, po žodžių „sustabdo turto“ įrašyti žodžius „dėl kurio ginčijamasi“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.73402ADF84BB"
 pavadinimas: "Lietuvos Respublikos Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-05-31"
 latest_path: "latest/TAR.73402ADF84BB.md"
 latest_sha256: "fd7209d1c31126e991a8ad246d39d7529c33c0946c262d3f137b774733f03ca5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.73402ADF84BB]]"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.73402ADF84BB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.73402ADF84BB
+- Ryšiai: [[Ryšiai/TAR.73402ADF84BB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio pakeitimas
+### 1 straipsnis. 21 straipsnio pakeitimas ^s-65bf01675130a1b49f9559ff
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:

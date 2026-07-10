@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E8D4F01C9643"
 pavadinimas: "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
+  - "2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-29"
 latest_path: "latest/TAR.E8D4F01C9643.md"
 latest_sha256: "91878a4a94d4beed1c67ae486ab3c0daf2ec97bd04f61672541159c532134eb7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E8D4F01C9643]]"
 ---
 # Lietuvos Respublikos 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E8D4F01C9643.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E8D4F01C9643
+- Ryšiai: [[Ryšiai/TAR.E8D4F01C9643|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,195 +34,195 @@ Vilnius
 
 
 
-### 1 straipsnis. 2002 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas
+### 1 straipsnis. 2002 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas ^s-1a6b6f955d1dcdbc07d1d5a8
 
 
 Patvirtinti Lietuvos Respublikos 2002 metų valstybės biudžetą – 8868023 tūkst. litų pajamų, 10003411 tūkst. litų asignavimų (asignavimai viršija pajamas 1135388 tūkst. litų) ir 62066 tūkst. litų apyvartos lėšų (1, 2, 5 priedėliai).
 
 
 
-### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
+### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas ^s-c18d9e3a89c8a96568c2cf0e
 
 
-1. Patvirtinti fizinių asmenų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams, – 43,46 procento. ^a1df4a69390e9fea1f9643d1
+1. Patvirtinti fizinių asmenų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams, – 43,46 procento. ^s-d6c4cdeea9120ae336c4caa7
 
 
-2. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialias tikslines dotacijas – 1945357 tūkst. litų ir valstybės biudžeto bendrosios dotacijos kompensacijas – 35260 tūkst. litų (6 priedėlis). ^73124f4052cb15c81c998534
+2. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialias tikslines dotacijas – 1945357 tūkst. litų ir valstybės biudžeto bendrosios dotacijos kompensacijas – 35260 tūkst. litų (6 priedėlis). ^s-c0689610a8c7c24f23d3d502
 
 
-3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 16870 tūkst. litų, kurias savivaldybės perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (7 priedėlis). ^36f0199ea93f94a6c1600bfe
+3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 16870 tūkst. litų, kurias savivaldybės perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (7 priedėlis). ^s-e4c1840783020fedda2458e9
 
 
 
-### 3 straipsnis.         Specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti naudojimas
+### 3 straipsnis.         Specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti naudojimas ^s-68a6d9598adcf69490d0a4ad
 
 
 Nustatyti, kad nepanaudotos specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti sumos gali būti naudojamos bendroms savivaldybių biudžetų reikmėms finansuoti.
 
 
 
-### 4 straipsnis.         Specialios tikslinės dotacijos 1997–2000 metų savivaldybių biudžetų negautoms pajamoms iš dalies dengti naudojimas
+### 4 straipsnis.         Specialios tikslinės dotacijos 1997–2000 metų savivaldybių biudžetų negautoms pajamoms iš dalies dengti naudojimas ^s-43611bc115b835acdac13b2f
 
 
-1. Nustatyti, kad speciali tikslinė dotacija 1997–2000 metų savivaldybių biudžetų negautoms pajamoms, priimtoms skaičiuojant 1997–2000 metų savivaldybių biudžetų finansinius rodiklius, iš dalies dengti skiriama savivaldybių biudžetinių įstaigų įsiskolinimui kreditoriams, susidariusiam iki 2002 m. sausio 1 d., dengti pagal savivaldybių tarybų patvirtintus šio įsiskolinimo dengimo grafikus ir kitoms savivaldybių biudžetų skoloms dengti. ^1964d33a5458ee883f7b58d1
+1. Nustatyti, kad speciali tikslinė dotacija 1997–2000 metų savivaldybių biudžetų negautoms pajamoms, priimtoms skaičiuojant 1997–2000 metų savivaldybių biudžetų finansinius rodiklius, iš dalies dengti skiriama savivaldybių biudžetinių įstaigų įsiskolinimui kreditoriams, susidariusiam iki 2002 m. sausio 1 d., dengti pagal savivaldybių tarybų patvirtintus šio įsiskolinimo dengimo grafikus ir kitoms savivaldybių biudžetų skoloms dengti. ^s-b40dccd319a1b4ab0b36b364
 
 
-2. Nustatyti, kad savivaldybės kiekvienam ketvirčiui pasibaigus pateikia Finansų ministerijai informaciją apie specialios tikslinės dotacijos, skirtos įsiskolinimui kreditoriams dengti, panaudojimą. ^cc1fcd4110c51f195e93c011
+2. Nustatyti, kad savivaldybės kiekvienam ketvirčiui pasibaigus pateikia Finansų ministerijai informaciją apie specialios tikslinės dotacijos, skirtos įsiskolinimui kreditoriams dengti, panaudojimą. ^s-cf76ff738a270e675dc49641
 
 
 
-### 5 straipsnis.         Specialios tikslinės dotacijos moksleivio krepšeliui finansuoti naudojimas
+### 5 straipsnis.         Specialios tikslinės dotacijos moksleivio krepšeliui finansuoti naudojimas ^s-db94354572b820dc4ee3e689
 
 
 Nustatyti, kad nepanaudotos specialios tikslinės dotacijos moksleivio krepšeliui finansuoti sumos gali būti naudojamos kitoms savivaldybių švietimo reikmėms finansuoti.
 
 
 
-### 6 straipsnis.         Sutartinio moksleivio krepšelio dydis ir jam patvirtintų asignavimų perskirstymas
+### 6 straipsnis.         Sutartinio moksleivio krepšelio dydis ir jam patvirtintų asignavimų perskirstymas ^s-c2e94149e09edb9c4b122f0d
 
 
-1. Nustatyti sutartinio moksleivio krepšelio dydį – 1521 litas. ^10ecd7de877836855860347a
+1. Nustatyti sutartinio moksleivio krepšelio dydį – 1521 litas. ^s-ad786c608234b0497f4e7b42
 
 
-2. Nustatyti, kad iš moksleivio krepšeliui patvirtintų asignavimų tarpusavyje suderintas sumas perveda: ^ee17d6fff25298ab0e5f4a52
+2. Nustatyti, kad iš moksleivio krepšeliui patvirtintų asignavimų tarpusavyje suderintas sumas perveda: ^s-749c5be93fd3981cc967d037
 
 
-1) atitinkamos savivaldybės viena kitai, – kai mokiniai migruoja tarp savivaldybių finansuojamų mokyklų; ^e8300968ea5a7fdbba66c7c9
+1) atitinkamos savivaldybės viena kitai, – kai mokiniai migruoja tarp savivaldybių finansuojamų mokyklų; ^s-21dc607ce8885001882e8d01
 
 
-2) Finansų ministerija atitinkamoms savivaldybėms ir valstybės biudžeto asignavimų valdytojams tarpusavio atsiskaitymų tvarka, – kai mokiniai migruoja tarp savivaldybių ir valstybės biudžeto finansuojamų mokyklų. ^07889dfa26342f32084f358b
+2) Finansų ministerija atitinkamoms savivaldybėms ir valstybės biudžeto asignavimų valdytojams tarpusavio atsiskaitymų tvarka, – kai mokiniai migruoja tarp savivaldybių ir valstybės biudžeto finansuojamų mokyklų. ^s-73a4ac78e1900b9da6d6f1f0
 
 
 
-### 7 straipsnis.         Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
+### 7 straipsnis.         Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis ^s-e483110e44a2a9b60f782c93
 
 
 Nustatyti, kad 2002 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos šio mokesčio sumos.
 
 
 
-### 8 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+### 8 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis ^s-205c1b1d1eb159648f308f9f
 
 
 Nustatyti, kad 2002 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 187,2 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
 
 
 
-### 9 straipsnis.         Įmokos į valstybės biudžetą, skiriamos pagal įstatymus specialiosioms programoms finansuoti
+### 9 straipsnis.         Įmokos į valstybės biudžetą, skiriamos pagal įstatymus specialiosioms programoms finansuoti ^s-c0ce6ac732a1b00a97739f28
 
 
-1. Patvirtinti iš valstybės biudžeto išlaikomų įstaigų ir valstybinių mokslo bei studijų institucijų pajamų už teikiamas paslaugas įmokas į valstybės biudžetą – 356318 tūkst. litų (3 priedėlis). ^7fb39543d4497918197a763a
+1. Patvirtinti iš valstybės biudžeto išlaikomų įstaigų ir valstybinių mokslo bei studijų institucijų pajamų už teikiamas paslaugas įmokas į valstybės biudžetą – 356318 tūkst. litų (3 priedėlis). ^s-38b3d45ac668bcbc3ff358f3
 
 
-2. Patvirtinti valstybės biudžeto asignavimų valdytojų administruojamų pajamų įmokas į valstybės biudžetą – 407112 tūkst. litų (4 priedėlis). ^b1bdd680d6b7b25ade7400e5
+2. Patvirtinti valstybės biudžeto asignavimų valdytojų administruojamų pajamų įmokas į valstybės biudžetą – 407112 tūkst. litų (4 priedėlis). ^s-c416fdc5aa64165ec6c879bc
 
 
-3. Nustatyti, kad nuompinigiai už valstybės ilgalaikį materialųjį turtą, kurį patikėjimo teise valdo ir išnuomoja valstybės institucijos ir įstaigos, valstybinės mokslo ir studijų institucijos, pervesti į valstybės biudžetą, kompensuojami iš Specialiosios valstybės paramos gyvenamiesiems namams, butams įsigyti finansavimo programos lėšų. ^7f588df432e2f29d7acea2d5
+3. Nustatyti, kad nuompinigiai už valstybės ilgalaikį materialųjį turtą, kurį patikėjimo teise valdo ir išnuomoja valstybės institucijos ir įstaigos, valstybinės mokslo ir studijų institucijos, pervesti į valstybės biudžetą, kompensuojami iš Specialiosios valstybės paramos gyvenamiesiems namams, butams įsigyti finansavimo programos lėšų. ^s-eeedb02dff4e51ca9fbc05f4
 
 
 
-### 10 straipsnis.       Garantijų institucijų ir draudimo įmonių prisiimtų įsipareigojimų su valstybės garantija limitas
+### 10 straipsnis.       Garantijų institucijų ir draudimo įmonių prisiimtų įsipareigojimų su valstybės garantija limitas ^s-d51d84a6edd7eef58dc87f8b
 
 
 Nustatyti, kad garantijų institucijų ir draudimo įmonių prisiimtų įsipareigojimų, dėl kurių suteikta valstybės garantija, suma negali viršyti 250000 tūkst. litų.
 
 
 
-### 11 straipsnis. Valstybės skolos limitai
+### 11 straipsnis. Valstybės skolos limitai ^s-bd929d976bf520d27c89cd7b
 
 
-1. Nustatyti 2002 metų valstybės grynojo skolinimosi limitą – 1100000 tūkst. litų. ^e25a5b4549f1f92298cda7eb
+1. Nustatyti 2002 metų valstybės grynojo skolinimosi limitą – 1100000 tūkst. litų. ^s-71297ed4d12a57db31985e6d
 
 
-2. Nustatyti 2002 metais pasirašomų naujų valstybės garantijų limitą – 100000 tūkst. litų (neįskaitant šio Įstatymo [[#10 straipsnis.       Garantijų institucijų ir draudimo įmonių prisiimtų įsipareigojimų su valstybės garantija limitas|10 straipsnyje]] nurodytų prisiimtų įsipareigojimų, dėl kurių suteikta valstybės garantija, sumos). ^b76093699cee6e57880b0c02
-
-
-
-### 12 straipsnis. Savivaldybių skolinimosi limitai
-
-
-1. Nustatyti šiuos savivaldybės skolinimosi limitus: ^d37986743665da81ac1e0eb6
-
-
-1) savivaldybės skola negali viršyti 35 procentų (Vilniaus miesto savivaldybės – 50 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^e2db6467bb7d38d831810db3
-
-
-2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 20 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^71afa72b6d888fb683124f77
-
-
-3) grąžintina tais kalendoriniais metais savivaldybės paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 20 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų). ^7b8ef2b61d6dfebebfd1862d
-
-
-2. Savivaldybėms, kurių investicijų projektai įtraukti į Valstybės investicijų 2002–2004 metų programą ir finansuojami iš paskolų, gaunamų su valstybės garantija ir valstybės vardu, lėšų, Vyriausybės sprendimu gali būti nustatyti didesni skolinimosi limitai. ^4a1d49345d58dc6864726b90
-
-
-3. Į skolinimosi limitus neįskaitomos trumpalaikės beprocentės paskolos, teikiamos iš valstybės biudžeto, skirtos laikinam pajamų trūkumui padengti. ^a09165c0c23c2ba1dd819c46
+2. Nustatyti 2002 metais pasirašomų naujų valstybės garantijų limitą – 100000 tūkst. litų (neįskaitant šio Įstatymo [[#^s-d51d84a6edd7eef58dc87f8b|10 straipsnyje]] nurodytų prisiimtų įsipareigojimų, dėl kurių suteikta valstybės garantija, sumos). ^s-3e7c2311bdbed7c861bf899e
 
 
 
-### 13 straipsnis. Vyriausybės teisės vykdant biudžetą
+### 12 straipsnis. Savivaldybių skolinimosi limitai ^s-ecd38f9a226b05560f0daff0
+
+
+1. Nustatyti šiuos savivaldybės skolinimosi limitus: ^s-5c163689ca987eadd7efc959
+
+
+1) savivaldybės skola negali viršyti 35 procentų (Vilniaus miesto savivaldybės – 50 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^s-a1494b9b4fd580c71641289c
+
+
+2) metinio savivaldybės grynojo skolinimosi suma negali viršyti 20 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų); ^s-0b61d2c83ed0659cc3efa936
+
+
+3) grąžintina tais kalendoriniais metais savivaldybės paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 20 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės biudžeto savivaldybei skiriamų specialiųjų tikslinių dotacijų). ^s-767d77eb98b80c8ee84217fc
+
+
+2. Savivaldybėms, kurių investicijų projektai įtraukti į Valstybės investicijų 2002–2004 metų programą ir finansuojami iš paskolų, gaunamų su valstybės garantija ir valstybės vardu, lėšų, Vyriausybės sprendimu gali būti nustatyti didesni skolinimosi limitai. ^s-d16ce22fe25e7e4161c4d330
+
+
+3. Į skolinimosi limitus neįskaitomos trumpalaikės beprocentės paskolos, teikiamos iš valstybės biudžeto, skirtos laikinam pajamų trūkumui padengti. ^s-d40efd56367024d4fc91e647
+
+
+
+### 13 straipsnis. Vyriausybės teisės vykdant biudžetą ^s-747371f37395ac448115df7d
 
 
 Suteikti Vyriausybei arba jos įgaliotai institucijai teisę:
 
 
-1) asignavimus, valstybės biudžete numatytus tradicinių Lietuvos religinių bendruomenių ir bendrijų maldos namams atstatyti ir kitoms reikmėms, paskirstyti tradicinių Lietuvos religinių bendruomenių ir bendrijų vadovybėms; ^f7f4b90b44e245064b3f2e83
+1) asignavimus, valstybės biudžete numatytus tradicinių Lietuvos religinių bendruomenių ir bendrijų maldos namams atstatyti ir kitoms reikmėms, paskirstyti tradicinių Lietuvos religinių bendruomenių ir bendrijų vadovybėms; ^s-fa53f2b0bc0101a327101cae
 
 
-2) Valstybės investicijų 2002–2004 metų programoje numatytas kapitalo investicijas paskirstyti pagal asignavimų valdytojus ir investicijų projektus; ^b96a5d89ea7ad29ff97b2bf3
+2) Valstybės investicijų 2002–2004 metų programoje numatytas kapitalo investicijas paskirstyti pagal asignavimų valdytojus ir investicijų projektus; ^s-30862c2cc7804b8abde540f9
 
 
-3) pirminei teisinei pagalbai finansuoti valstybės biudžete numatytus asignavimus paskirstyti savivaldybėms; ^67ed0927bb428d1ebfc38cbd
+3) pirminei teisinei pagalbai finansuoti valstybės biudžete numatytus asignavimus paskirstyti savivaldybėms; ^s-b98ce406d35463511634ad31
 
 
-4) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti – iki 1135388 tūkst. litų, valstybės investicijoms finansuoti – iki 150000 tūkst. litų, Valstybinio socialinio draudimo fondo 2002 metų biudžeto laikinam lėšų trūkumui finansuoti – iki 34300 tūkst. litų, taip pat Valstybinio socialinio draudimo fondo biudžeto gautoms paskoloms su valstybės garantija ir finansų ministro pasirašytais pritarimo raštais, kurių grąžinimo terminas sueina 2002 metais, finansuoti; ^caba9c0f43a94a64827ff6b6
+4) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti – iki 1135388 tūkst. litų, valstybės investicijoms finansuoti – iki 150000 tūkst. litų, Valstybinio socialinio draudimo fondo 2002 metų biudžeto laikinam lėšų trūkumui finansuoti – iki 34300 tūkst. litų, taip pat Valstybinio socialinio draudimo fondo biudžeto gautoms paskoloms su valstybės garantija ir finansų ministro pasirašytais pritarimo raštais, kurių grąžinimo terminas sueina 2002 metais, finansuoti; ^s-118fbf9b8a0ba821c054788b
 
 
-5) laikantis valstybės grynojo skolinimosi limito, finansuoti Valstybės investicijų programą iš jau pasirašytų arba numatomų pasirašyti paskolų su valstybės garantija – iki 270000 tūkst. litų; ^14d3f557ac1fb68b56a52e07
+5) laikantis valstybės grynojo skolinimosi limito, finansuoti Valstybės investicijų programą iš jau pasirašytų arba numatomų pasirašyti paskolų su valstybės garantija – iki 270000 tūkst. litų; ^s-37ed5e26617809b3da8b801c
 
 
-6) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu bei teikti valstybės garantijas dėl paskolų išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, taip pat kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas; ^8d752c691311be584f985009
+6) laikantis valstybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu bei teikti valstybės garantijas dėl paskolų išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, taip pat kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas; ^s-c02a3401d4b070cf27fb3285
 
 
-7) perskirstyti Europos Sąjungos paramos bendrai finansuojamoms programoms ir projektams naudojamas lėšas tarp asignavimų valdytojų, investavimo sričių ir valstybės funkcijų; ^3887769ee7af57e0efa50e92
+7) perskirstyti Europos Sąjungos paramos bendrai finansuojamoms programoms ir projektams naudojamas lėšas tarp asignavimų valdytojų, investavimo sričių ir valstybės funkcijų; ^s-c48218507393331291c7bfe6
 
 
-8) paimti į valstybės biudžetą iš savivaldybių biudžetų priklausančias pervesti, bet nepervestas valstybės biudžetui bendrosios dotacijos kompensacijas. ^cbf1a52995425d916aeba0ad
-
-
-
-### 14 straipsnis. Biudžetinių įstaigų skolų padengimas
-
-
-1. Pavesti valstybės biudžeto asignavimų valdytojams, savivaldybėms ir biudžetinių įstaigų vadovams sudarant 2002 metų išlaidų sąmatas numatyti reikiamus asignavimus 2002 m. sausio 1 d. esamiems įsiskolinimams už suteiktas paslaugas ir įsigytas prekes padengti. ^066b635f97fb02a6367adb1c
-
-
-2. Pavesti valstybės ir savivaldybių kontrolės institucijoms tikrinti, ar teisingai sudaromos ir vykdomos išlaidų sąmatos, ar laikomasi [[#^066b635f97fb02a6367adb1c|šio straipsnio 1 dalies]] nuostatos. ^9038bb232c564bf4ab53a212
+8) paimti į valstybės biudžetą iš savivaldybių biudžetų priklausančias pervesti, bet nepervestas valstybės biudžetui bendrosios dotacijos kompensacijas. ^s-0bebc1a39a6eb7041d28a704
 
 
 
-### 15 straipsnis. Privatizavimo fondo lėšos
+### 14 straipsnis. Biudžetinių įstaigų skolų padengimas ^s-85c734103e79e23e955e8d5e
+
+
+1. Pavesti valstybės biudžeto asignavimų valdytojams, savivaldybėms ir biudžetinių įstaigų vadovams sudarant 2002 metų išlaidų sąmatas numatyti reikiamus asignavimus 2002 m. sausio 1 d. esamiems įsiskolinimams už suteiktas paslaugas ir įsigytas prekes padengti. ^s-1dbe08569fe7521581022a1d
+
+
+2. Pavesti valstybės ir savivaldybių kontrolės institucijoms tikrinti, ar teisingai sudaromos ir vykdomos išlaidų sąmatos, ar laikomasi [[#^s-1dbe08569fe7521581022a1d|šio straipsnio 1 dalies]] nuostatos. ^s-ef03f7551eb618442e7f576f
+
+
+
+### 15 straipsnis. Privatizavimo fondo lėšos ^s-ca4b2a36dfa7a717e7c4e9a6
 
 
 Patvirtinti 2002 metų Privatizavimo fondo lėšų sąmatą (8 priedėlis).
 
 
 
-### 16 straipsnis. Rezervinio (stabilizavimo) fondo lėšos
+### 16 straipsnis. Rezervinio (stabilizavimo) fondo lėšos ^s-51006fb7bab7797e99bd8774
 
 
 Patvirtinti 2002 metų Rezervinio (stabilizavimo) fondo lėšų sąmatą (9 priedėlis).
 
 
 
-### 17 straipsnis. Valstybės investicijų 2002–2004 metų programa
+### 17 straipsnis. Valstybės investicijų 2002–2004 metų programa ^s-6ac6a513337f22c612156e5c
 
 
 Patvirtinti Valstybės investicijų 2002–2004 metų programą (10 priedėlis).
 
 
 
-### 18 straipsnis.       Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšos
+### 18 straipsnis.       Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšos ^s-eff75ae434dda7a79a2a1f4d
 
 
 Patvirtinti 2002 metų Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšų sąmatą (11 priedėlis).
@@ -3785,7 +3790,7 @@ tūkst. Lt
 
 
 
- 1. Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui sudaryti ^5779a8f491fb0e1c48237090
+ 1. Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui sudaryti ^s-a37abe537f3c4f2206d1b946
  833400
 
 
@@ -3801,15 +3806,15 @@ tūkst. Lt
  790400
 
 
- 2. Vyriausybės patvirtintoms šalies programoms įgyvendinti ^fa99ad6bb390e85579351270
+ 2. Vyriausybės patvirtintoms šalies programoms įgyvendinti ^s-de3fc93fd71d8287edd5ac9a
  217000*
 
 
- 3. Privatizavimo komisijos ir Valstybės turto fondo funkcijoms atlikti ir ekspertų paslaugoms apmokėti ^398d356e2f2139df9f4fcce3
+ 3. Privatizavimo komisijos ir Valstybės turto fondo funkcijoms atlikti ir ekspertų paslaugoms apmokėti ^s-86e94ecaadfd18f8657c5395
  25000
 
 
- 4. Iš viso išlaidų ^16f90055180676a59107a0dc
+ 4. Iš viso išlaidų ^s-290201c81e1bbda4a34d5765
  1075400
 
 
@@ -4099,27 +4104,27 @@ tūkst. Lt
 
 
 
- 1. Eksploatavimo nutraukimo tarnybos personalo atlyginimai ^a11a17f4e8334be8dfa72918
+ 1. Eksploatavimo nutraukimo tarnybos personalo atlyginimai ^s-90a22e1ed69e081c6c8e27d7
  770
 
 
- 2. Socialinio draudimo įmokos ^25b2524c9ea9e926a7bb3741
+ 2. Socialinio draudimo įmokos ^s-855d47c428b56921753224fb
  240
 
 
- 3. Dalies Ignalinos AE teritorijos žemės rekultivavimo projekto įgyvendinimas bei katilinės žemės sklypo tikslūs geodeziniai matavimai ir jo nuomos įteisinimas ^5bb71b57a209bf89c3072cb6
+ 3. Dalies Ignalinos AE teritorijos žemės rekultivavimo projekto įgyvendinimas bei katilinės žemės sklypo tikslūs geodeziniai matavimai ir jo nuomos įteisinimas ^s-4bb484c3a46e59268dff499e
  3000
 
 
- 4. Kitos išlaidos ^4d18bb3a2e9983a3fc9a0578
+ 4. Kitos išlaidos ^s-df7cf8cf7a26a327f869fd03
  2072
 
 
- 5. Nenumatytos išlaidos ^ca43fd99ce7e9b4019b89b00
+ 5. Nenumatytos išlaidos ^s-7cc6ba9a0a1579632e481961
  820
 
 
- 6. Iš viso išlaidų ^73d858fa5d517192687e2d41
+ 6. Iš viso išlaidų ^s-d6ada805e469b63345d5d81f
  6902
 
 

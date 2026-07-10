@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C6C462226E23"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 35 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 35 straipsnio pakeitimo įstatymas"
+  - "akcizų įstatymo 35 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-02-11"
 latest_path: "latest/TAR.C6C462226E23.md"
 latest_sha256: "b22a5b53ca37380b3e69289a2bad2b26e1fb4955ffc6a20bdf9b20decb2c3946"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C6C462226E23]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 35 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C6C462226E23.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C6C462226E23
+- Ryšiai: [[Ryšiai/TAR.C6C462226E23|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 35 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 35 straipsnio 3 dalies pakeitimas ^s-cce6eb26f3464dfe81d5470a
 
 
 Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -41,30 +46,30 @@ Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis.         Akcizais neapmokestinamų dyzelinių degalų kiekių pagal žemės ūkio augalų rūšis apskaičiavimas
+### 2 straipsnis.         Akcizais neapmokestinamų dyzelinių degalų kiekių pagal žemės ūkio augalų rūšis apskaičiavimas ^s-7ed1ef7cd2ac435a1a28a9d0
 
 
-1. Akcizais neapmokestinamų dyzelinių degalų kiekius vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis Vyriausybė nustato atsižvelgdama į 2005 m. deklaruotus žemės ūkio naudmenų plotus, jų struktūrą pagal atskiras žemės ūkio augalų rūšis ir dyzelinių degalų imlumą. ^2733dab487fa93f871d49611
+1. Akcizais neapmokestinamų dyzelinių degalų kiekius vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis Vyriausybė nustato atsižvelgdama į 2005 m. deklaruotus žemės ūkio naudmenų plotus, jų struktūrą pagal atskiras žemės ūkio augalų rūšis ir dyzelinių degalų imlumą. ^s-de79cbaeddb2979bb6032d9d
 
 
-2. Nustatydama [[#^2733dab487fa93f871d49611|šio straipsnio 1 dalyje]] nurodytus akcizais neapmokestinamų dyzelinių degalų kiekius vienam deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis, Vyriausybė laikosi nuostatos, kad akcizais neapmokestinamų dyzelinių degalų kiekių pagal žemės ūkio augalų rūšis aritmetinis svertinis vidurkis yra apytiksliai lygus 120 litrų vienam deklaruotam žemės ūkio naudmenų hektarui. ^cfc721554cdfbb8a134bd306
+2. Nustatydama [[#^s-de79cbaeddb2979bb6032d9d|šio straipsnio 1 dalyje]] nurodytus akcizais neapmokestinamų dyzelinių degalų kiekius vienam deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis, Vyriausybė laikosi nuostatos, kad akcizais neapmokestinamų dyzelinių degalų kiekių pagal žemės ūkio augalų rūšis aritmetinis svertinis vidurkis yra apytiksliai lygus 120 litrų vienam deklaruotam žemės ūkio naudmenų hektarui. ^s-c0e6b4864ce44ae45cb0c20f
 
 
-3. Akcizais neapmokestinamų dyzelinių degalų kiekius vienam deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis Vyriausybė tikslina ne vėliau kaip likus 6 mėnesiams iki kitų ūkinių metų pradžios, jeigu akcizais neapmokestinamų dyzelinių degalų kiekių aritmetinis svertinis vidurkis, apskaičiuotas pagal einamaisiais ūkiniais metais naudojamus duomenis, nukrypsta daugiau kaip 10 procentų nuo 120 litrų vienam deklaruotam žemės ūkio naudmenų hektarui. Akcizais neapmokestinamų dyzelinių degalų kiekiai vienam deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis tikslinami (mažinami arba didinami) taip, kad jų aritmetinis svertinis vidurkis būtų apytiksliai lygus 120 litrų vienam deklaruotam žemės ūkio naudmenų hektarui. ^ae0f66f80b7e0bfd54be89b8
-
-
-
-### 3 straipsnis. Įstatymo taikymas
-
-
-1. Iki 2006 m. birželio 30 d. akcizais neapmokestinami dyzeliniai degalai, skirti naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos subjektams žemės ūkyje, taip pat žemės ūkio mokslo, studijų ir mokymo įstaigoms, turinčioms mokomuosius (bandymų) ūkius (išskyrus tvenkinių ir kitų vidaus vandenų žuvininkystę), neviršijant 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui, o iki šio įstatymo įsigaliojimo žemės ūkio subjektams išduoti leidimai įsigyti akcizais neapmokestinamų degalų, kurių kiekis apskaičiuotas taikant 120 litrų vienam hektarui normatyvą, laikomi išduotais pusei juose nurodyto kiekio. ^1cdabb4c62659e4e9f54dac2
-
-
-2. Jeigu Vyriausybės nustatyta tvarka registruotas žemės ūkio veiklos subjektas nuo 2006 m. sausio 1 d. iki šio įstatymo įsigaliojimo įsigijo daugiau negu 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui akcizais neapmokestinamų dyzelinių degalų, akcizais neapmokestinamų dyzelinių degalų kiekis, kurį šis žemės ūkio veiklos subjektas turi teisę įsigyti ūkiniais metais, prasidedančiais nuo 2006 m. liepos 1 d., mažinamas kiekiu, viršijančiu 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui. ^344fe20793a20582f3e6da72
+3. Akcizais neapmokestinamų dyzelinių degalų kiekius vienam deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis Vyriausybė tikslina ne vėliau kaip likus 6 mėnesiams iki kitų ūkinių metų pradžios, jeigu akcizais neapmokestinamų dyzelinių degalų kiekių aritmetinis svertinis vidurkis, apskaičiuotas pagal einamaisiais ūkiniais metais naudojamus duomenis, nukrypsta daugiau kaip 10 procentų nuo 120 litrų vienam deklaruotam žemės ūkio naudmenų hektarui. Akcizais neapmokestinamų dyzelinių degalų kiekiai vienam deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis tikslinami (mažinami arba didinami) taip, kad jų aritmetinis svertinis vidurkis būtų apytiksliai lygus 120 litrų vienam deklaruotam žemės ūkio naudmenų hektarui. ^s-decf15ece42dc4c32c1f5f3d
 
 
 
-### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+### 3 straipsnis. Įstatymo taikymas ^s-a9a4be8605ec07eb987fc0eb
+
+
+1. Iki 2006 m. birželio 30 d. akcizais neapmokestinami dyzeliniai degalai, skirti naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos subjektams žemės ūkyje, taip pat žemės ūkio mokslo, studijų ir mokymo įstaigoms, turinčioms mokomuosius (bandymų) ūkius (išskyrus tvenkinių ir kitų vidaus vandenų žuvininkystę), neviršijant 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui, o iki šio įstatymo įsigaliojimo žemės ūkio subjektams išduoti leidimai įsigyti akcizais neapmokestinamų degalų, kurių kiekis apskaičiuotas taikant 120 litrų vienam hektarui normatyvą, laikomi išduotais pusei juose nurodyto kiekio. ^s-0a48e808a4d4e7cf7313407e
+
+
+2. Jeigu Vyriausybės nustatyta tvarka registruotas žemės ūkio veiklos subjektas nuo 2006 m. sausio 1 d. iki šio įstatymo įsigaliojimo įsigijo daugiau negu 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui akcizais neapmokestinamų dyzelinių degalų, akcizais neapmokestinamų dyzelinių degalų kiekis, kurį šis žemės ūkio veiklos subjektas turi teisę įsigyti ūkiniais metais, prasidedančiais nuo 2006 m. liepos 1 d., mažinamas kiekiu, viršijančiu 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui. ^s-251aa2d36eb6b7221ad917bb
+
+
+
+### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-b11a17f97e5de3989cb24e76
 
 
 Lietuvos Respublikos Vyriausybė iki 2006 m. balandžio 1 d. patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.

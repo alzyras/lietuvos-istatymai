@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F108F83B9282"
 pavadinimas: "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "visuomenės sveikatos priežiūros įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.F108F83B9282.md"
 latest_sha256: "2e996c41a2114197ead26b55427bfe115ee00025bc930e0bb3d295aed5cdaf70"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F108F83B9282]]"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F108F83B9282.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F108F83B9282
+- Ryšiai: [[Ryšiai/TAR.F108F83B9282|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-931b28fd6bd2e2d8c9c514a9
 
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -42,20 +47,20 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Savivaldybės:
 
 
-1) vykdo valstybines (valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros funkcijas: visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės sveikatos stebėseną; ^48248321b1dd793549a8b325
+1) vykdo valstybines (valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros funkcijas: visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės sveikatos stebėseną; ^s-c37c688bad2177473eaf221d
 
 
-2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: rengia, tvirtina ir įgyvendina tikslines savivaldybių sveikatos programas, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.“ ^adf21cc34a8fc35323981fa2
+2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: rengia, tvirtina ir įgyvendina tikslines savivaldybių sveikatos programas, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.“ ^s-a07d702208647e8417ff41d2
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-9b64bcc8ee2889ad17289ecd
 
 
-1. Šis įstatymas, išskyrus [[#^7eaad33bc5131df0c67bd1d8|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^d0d367775c3c9894a78545a0
+1. Šis įstatymas, išskyrus [[#^s-9f297b19a9d47151c8b1593c|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-cfb528d69655d43318063023
 
 
-2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^7eaad33bc5131df0c67bd1d8
+2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-9f297b19a9d47151c8b1593c
 
 
 

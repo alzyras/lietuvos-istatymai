@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.699912AD6A2A"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 51, 66, 67 ir 68 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 51, 66, 67 ir 68 straipsnių pakeitimo įstatymas"
+  - "teismų įstatymo 51, 66, 67 ir 68 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-06-17"
 latest_path: "latest/TAR.699912AD6A2A.md"
 latest_sha256: "3c2bda1c2e82dd083365a77ebb474aeed07fa2163d463678b793a2aeb29e7614"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.699912AD6A2A]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 51, 66, 67 ir 68 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.699912AD6A2A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.699912AD6A2A
+- Ryšiai: [[Ryšiai/TAR.699912AD6A2A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 51 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 51 straipsnio 1 dalies pakeitimas ^s-08378e7afea531000cf4f225
 
 
 Pakeisti 51 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 51 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 66 straipsnio pakeitimas
+### 2 straipsnis. 66 straipsnio pakeitimas ^s-fbc43987e41fd7f1c4729b33
 
 
 Pakeisti 66 straipsnį ir jį išdėstyti taip:
@@ -54,7 +59,7 @@ Apygardos administracinio teismo ar apygardos teismo teisėju gali būti skiriam
 
 
 
-### 3 straipsnis. 67 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 67 straipsnio 1 dalies pakeitimas ^s-20cf90d6ddff59523c35e51e
 
 
 Pakeisti 67 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -64,13 +69,13 @@ Pakeisti 67 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 68 straipsnio 4 ir 5 punktų pripažinimas netekusiais galios
+### 4 straipsnis. 68 straipsnio 4 ir 5 punktų pripažinimas netekusiais galios ^s-f34d77385ec0e182e59e9223
 
 
-1. 68 straipsnio 4 punktą pripažinti netekusiu galios. ^30a85a249647220331afb08a
+1. 68 straipsnio 4 punktą pripažinti netekusiu galios. ^s-3b47def8f9df1b1625880f93
 
 
-2. 68 straipsnio 5 punktą pripažinti netekusiu galios. ^b77124d33266c0829fe256a5
+2. 68 straipsnio 5 punktą pripažinti netekusiu galios. ^s-1105916dd846748d14842ef2
 
 
 

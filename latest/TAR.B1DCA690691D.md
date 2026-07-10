@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B1DCA690691D"
 pavadinimas: "Lietuvos Respublikos konstitucinio teismo įstatymo 29 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos konstitucinio teismo įstatymo 29 straipsnio pakeitimo įstatymas"
+  - "konstitucinio teismo įstatymo 29 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-04-28"
 latest_path: "latest/TAR.B1DCA690691D.md"
 latest_sha256: "c9cb82ac2ed6bc0190f5ff4cb21a4c220ff9744377a83cdc95eb4ad795267af9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B1DCA690691D]]"
 ---
 # Lietuvos Respublikos konstitucinio teismo įstatymo 29 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B1DCA690691D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B1DCA690691D
+- Ryšiai: [[Ryšiai/TAR.B1DCA690691D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 29 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 29 straipsnio 2 dalies pakeitimas ^s-c205b269daac0f88ce7cab28
 
 
 Pakeisti 29 straipsnio 2 dalį ir ją išdėstyti taip:

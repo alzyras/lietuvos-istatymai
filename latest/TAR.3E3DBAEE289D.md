@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3E3DBAEE289D"
 pavadinimas: "Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5, 9 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5, 9 ir 12 straipsnių pakeitimo įstatymas"
+  - "geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5, 9 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-12-31"
 latest_path: "latest/TAR.3E3DBAEE289D.md"
 latest_sha256: "66d7ebfbee85bffa663999f1b01e2e370928dcfe38e516d275a56fdf1ed4c2a6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3E3DBAEE289D]]"
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5, 9 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3E3DBAEE289D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3E3DBAEE289D
+- Ryšiai: [[Ryšiai/TAR.3E3DBAEE289D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,23 +40,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies 4 ir 7 punktų pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies 4 ir 7 punktų pakeitimas ^s-73c60aaa884cdc24728b9b66
 
 
-1. 5 straipsnio 1 dalies 4 punkte išbraukti žodžius „prie Lietuvos Respublikos Vyriausybės“ ir šį punktą išdėstyti taip: ^ea49b367748adc63e7d956a0
+1. 5 straipsnio 1 dalies 4 punkte išbraukti žodžius „prie Lietuvos Respublikos Vyriausybės“ ir šį punktą išdėstyti taip: ^s-9b436bd33353ba894e9e5907
 
 
 „4) Valstybinė maisto ir veterinarijos tarnyba;“.
 
 
-2. Pakeisti 5 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^f96f0eb31f65d68260d5e825
+2. Pakeisti 5 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^s-ca32621a8a41d696857c4559
 
 
 „7) Valstybinė vartotojų teisių apsaugos tarnyba.“
 
 
 
-### 2 straipsnis. 9 straipsnio pakeitimas
+### 2 straipsnis. 9 straipsnio pakeitimas ^s-8e3b3d3bed44963385cc4485
 
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
@@ -64,14 +69,14 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 Valstybinė maisto ir veterinarijos tarnyba:
 
 
-1) Geriamojo vandens įstatymo nustatyta tvarka atlieka geriamojo vandens saugos ir kokybės kontrolę; ^c2496588113bb922b3a990ef
+1) [[latest/TAR.9893688FA176|Geriamojo vandens įstatymo]] nustatyta tvarka atlieka geriamojo vandens saugos ir kokybės kontrolę; ^s-08cab7eff55aa98d072d8867
 
 
-2) atlieka kitas Geriamojo vandens įstatymo ir kitų įstatymų nustatytas ar Lietuvos Respublikos žemės ūkio ministerijos pavestas funkcijas.“ ^bebc11cd1ee6bdbfc2fbf8cb
+2) atlieka kitas [[latest/TAR.9893688FA176|Geriamojo vandens įstatymo]] ir kitų įstatymų nustatytas ar Lietuvos Respublikos žemės ūkio ministerijos pavestas funkcijas.“ ^s-a9f4ad1251ac7221fd87e238
 
 
 
-### 3 straipsnis. 12 straipsnio pakeitimas
+### 3 straipsnis. 12 straipsnio pakeitimas ^s-f725396195187d5e9d89e0b4
 
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
@@ -84,10 +89,10 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 Valstybinė vartotojų teisių apsaugos tarnyba:
 
 
-1) išankstinio ginčų sprendimo ne teisme tvarka nagrinėja vartotojų skundus dėl geriamojo vandens pirkimo–pardavimo ir nuotekų tvarkymo paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo, vandens apskaitos, vandentiekio avarijų, vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo; ^0cafe60565b1e180e51c77e9
+1) išankstinio ginčų sprendimo ne teisme tvarka nagrinėja vartotojų skundus dėl geriamojo vandens pirkimo–pardavimo ir nuotekų tvarkymo paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo, vandens apskaitos, vandentiekio avarijų, vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo; ^s-3e0a3e9546558afc6f074e55
 
 
-2) pagal kompetenciją dalyvauja derinant įstatymų ir kitų teisės aktų projektus bei viešosios vandens tiekimo sutarties standartines sąlygas.“ ^7fb3b71239e6c74bd6f90998
+2) pagal kompetenciją dalyvauja derinant įstatymų ir kitų teisės aktų projektus bei viešosios vandens tiekimo sutarties standartines sąlygas.“ ^s-9303b61e51a19f8888977ac4
 
 
 

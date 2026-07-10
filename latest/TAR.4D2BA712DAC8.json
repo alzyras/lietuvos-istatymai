@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.4D2BA712DAC8.md",
   "latest_revision": "2002-01-01",
-  "latest_sha256": "ae96ae5a7b92cb60455dd1f0dd574bb4fd7497d6d75411eb2b53b7b1db76244c",
+  "latest_sha256": "ce098db71b7c34a2a55da9dc1732848fbeb448203de7159f2b900aacb52aafbe",
   "metadata_path": "latest/TAR.4D2BA712DAC8.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 1, 2, 5, 7 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 6(1) straipsniu įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:27Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.319BB817CC0A"
 pavadinimas: "Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas"
+  - "vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.319BB817CC0A.md"
 latest_sha256: "31f6d6cefe4432641d2aef8c40a39033bd3f72f84e2f9806e65583a7cd1557b3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.319BB817CC0A]]"
 ---
 # Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.319BB817CC0A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.319BB817CC0A
+- Ryšiai: [[Ryšiai/TAR.319BB817CC0A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas ^s-10087387f3ae90b8b7eaeb5a
 
 
 2 straipsnio 4 dalyje vietoj žodžių „operatyvinius veiksmus“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 6 straipsnio 2 dalies 5 punkto pakeitimas
+### 2 straipsnis. 6 straipsnio 2 dalies 5 punkto pakeitimas ^s-965d1060b47642d1f242cf54
 
 
 6 straipsnio 2 dalies 5 punkte vietoj žodžių „įstatymų nustatyta tvarka panaudoti operatyvinius veiksmus, skirtus“ įrašyti žodžius „vykdyti kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -54,7 +59,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 9 straipsnio 2 dalies 5 punkto pakeitimas
+### 3 straipsnis. 9 straipsnio 2 dalies 5 punkto pakeitimas ^s-3e605d5c1e5c69ed5e3e4047
 
 
 9 straipsnio 2 dalies 5 punkte vietoj žodžių „įstatymų nustatyta tvarka panaudojant operatyvinius veiksmus“ įrašyti žodžius „vykdant kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -64,7 +69,7 @@ Vilnius
 
 
 
-### 4 straipsnis. 12 straipsnio 3 punkto pakeitimas
+### 4 straipsnis. 12 straipsnio 3 punkto pakeitimas ^s-0ee8729d3d2a45a3752cf5ee
 
 
 12 straipsnio 3 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -74,7 +79,7 @@ Vilnius
 
 
 
-### 5 straipsnis. 13 straipsnio pakeitimas
+### 5 straipsnis. 13 straipsnio pakeitimas ^s-c250368756bc52a2ebc77ae6
 
 
 13 straipsnyje vietoj žodžių „operatyvinės veiklos“ įrašyti žodžius „kriminalinės žvalgybos“ ir šį straipsnį išdėstyti taip:
@@ -88,7 +93,7 @@ Vadovybės apsaugos departamentas savo uždaviniams įgyvendinti ir funkcijoms a
 
 
 
-### 6 straipsnis. 20 straipsnio 1 dalies 7 punkto pakeitimas
+### 6 straipsnis. 20 straipsnio 1 dalies 7 punkto pakeitimas ^s-4fcba1c327c0cd23702b685f
 
 
 20 straipsnio 1 dalies 7 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
@@ -98,7 +103,7 @@ Vadovybės apsaugos departamentas savo uždaviniams įgyvendinti ir funkcijoms a
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-21f43851032e8cbe17aa8a0e
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

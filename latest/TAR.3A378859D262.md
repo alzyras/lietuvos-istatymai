@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3A378859D262"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 16, 110 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 16, 110 straipsnių pakeitimo ir papildymo įstatymas"
+  - "administracinių bylų teisenos įstatymo 16, 110 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-29"
 latest_path: "latest/TAR.3A378859D262.md"
 latest_sha256: "0b02d0a662e710672305e25955244d2677e1b81bea856999dab9f6cfef7d3eb9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3A378859D262]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 16, 110 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3A378859D262.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3A378859D262
+- Ryšiai: [[Ryšiai/TAR.3A378859D262|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 2 dalies papildymas
+### 1 straipsnis. 16 straipsnio 2 dalies papildymas ^s-f60bda09884f2b0e7a3cd0fe
 
 
 16 straipsnio 2 dalyje po žodžių „taip pat su sprendimų vykdymu“ įrašyti žodžius „ir Seimo kontrolieriaus sprendimų (rekomendacijų)“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 110 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 110 straipsnio 1 dalies pakeitimas ^s-40f8764f76db510083ba5800
 
 
 110 straipsnio 1 dalyje po žodžių „Seimo kontrolieriai“ įrašyti žodžius „vaiko teisių apsaugos kontrolierius“ ir šią dalį išdėstyti taip:

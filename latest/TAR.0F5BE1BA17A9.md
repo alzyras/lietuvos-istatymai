@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.0F5BE1BA17A9"
 pavadinimas: "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 15 ir 17 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 15 ir 17 straipsnių pakeitimo įstatymas"
+  - "laisvųjų ekonominių zonų pagrindų įstatymo 15 ir 17 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-11-26"
 latest_path: "latest/TAR.0F5BE1BA17A9.md"
 latest_sha256: "55a85198f15fd7eeca2543ad939b9fab27ee07fda8145d60151e7118ad200bbe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.0F5BE1BA17A9]]"
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 15 ir 17 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.0F5BE1BA17A9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.0F5BE1BA17A9
+- Ryšiai: [[Ryšiai/TAR.0F5BE1BA17A9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 15 straipsnio 7 dalies pripažinimas netekusia galios
+### 1 straipsnis. 15 straipsnio 7 dalies pripažinimas netekusia galios ^s-72acbdd58138febfbbd63922
 
 
 15 straipsnio 7 dalį pripažinti netekusia galios.
 
 
 
-### 2 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-9dc74dbe1a069f7989920eb8
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:

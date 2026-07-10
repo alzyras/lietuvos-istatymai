@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6D4C2D715032"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "miškų įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.6D4C2D715032.md"
 latest_sha256: "c000bafcdb0c60827499988ffeac4e57f32c51841b334c635185301a7b692baa"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6D4C2D715032]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6D4C2D715032.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6D4C2D715032
+- Ryšiai: [[Ryšiai/TAR.6D4C2D715032|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 2 dalies 2 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 2 dalies 2 punkto pakeitimas ^s-6ccfcc860d3b3074c452b299
 
 
 6 straipsnio 2 dalies 2 punkte vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“ ir šį punktą išdėstyti taip:
@@ -41,10 +46,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-2d77efb3c13f0ce3a475c0d6
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

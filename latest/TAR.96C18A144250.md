@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.96C18A144250"
 pavadinimas: "Lietuvos Respublikos 2003 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2003 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2003 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-12-24"
 latest_path: "latest/TAR.96C18A144250.md"
 latest_sha256: "9098114a25fdeebc690086e10265c52836198b038566f665f60dbd59aaf45d75"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.96C18A144250]]"
 ---
 # Lietuvos Respublikos 2003 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.96C18A144250.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.96C18A144250
+- Ryšiai: [[Ryšiai/TAR.96C18A144250|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         2003 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis.         2003 metų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-f1ef486e5c99e961debd9f1c
 
 
 Patvirtinti 2003 metų Privalomojo sveikatos draudimo fondo biudžetą – 1888722 tūkst. litų pajamų ir 1888722 tūkst. litų išlaidų, iš jo 20000 tūkst. litų kasos apyvartos lėšų (priedėlis).

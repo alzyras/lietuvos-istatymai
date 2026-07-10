@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8CEC2952733C"
 pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 21 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijų planavimo įstatymo 21 straipsnio pakeitimo įstatymas"
+  - "teritorijų planavimo įstatymo 21 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-04-30"
 latest_path: "latest/TAR.8CEC2952733C.md"
 latest_sha256: "98abaa70ed28cc2aee976d14a944b8d23647a3783fbd542537b336df777ae0af"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8CEC2952733C]]"
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 21 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8CEC2952733C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8CEC2952733C
+- Ryšiai: [[Ryšiai/TAR.8CEC2952733C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 21 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 21 straipsnio 3 dalies pakeitimas ^s-6fcc5d878334a7531e0ce209
 
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:

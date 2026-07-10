@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B36E6C19DF6D"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-19"
 latest_path: "latest/TAR.B36E6C19DF6D.md"
 latest_sha256: "8f6ba29af9cea52cd801cb7390733178195aa04a0e64346049900f718e73fdfc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B36E6C19DF6D]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B36E6C19DF6D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B36E6C19DF6D
+- Ryšiai: [[Ryšiai/TAR.B36E6C19DF6D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-6ef735900ada485ceeadd722
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 28 d. dekretą Nr.955, ratifikuoja Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1996 m. kovo 14 d. Buenos Airėse.

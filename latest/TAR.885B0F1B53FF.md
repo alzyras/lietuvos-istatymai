@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.885B0F1B53FF"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-22"
 latest_path: "latest/TAR.885B0F1B53FF.md"
 latest_sha256: "2587c74d7f9c7938645cacf19501add12d4c95bcfeefe68b5c1cd5bcbf2f4437"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.885B0F1B53FF]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.885B0F1B53FF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.885B0F1B53FF
+- Ryšiai: [[Ryšiai/TAR.885B0F1B53FF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,10 +39,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas ir 11 punkto pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas ir 11 punkto pripažinimas netekusiu galios ^s-30ace93b5d379fdd6a048284
 
 
-1. Pakeisti Įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^34fdb695d9d97f58efa62251
+1. Pakeisti Įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^s-9c5632a03944ae8649412b82
 
 
 
@@ -64,11 +69,11 @@ Vilnius
 
 
 
-2. Įstatymo priedėlio IV skirsnio 11 punktą pripažinti netekusiu galios. ^a605e21c1a4d3b8092c93fd0
+2. Įstatymo priedėlio IV skirsnio 11 punktą pripažinti netekusiu galios. ^s-d83ea573dfb5e32dfb9ef865
 
 
 
-### 2 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas
+### 2 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas ^s-ae905f52d4d7a17049705896
 
 
 Pakeisti Įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip:
@@ -99,13 +104,13 @@ Pakeisti Įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-693a67cf2c3597522a14b8d6
 
 
-1. Šio įstatymo [[#1 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas ir 11 punkto pripažinimas netekusiu galios|1 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^30405a16c5fadebc5a956fbe
+1. Šio įstatymo [[#^s-30ace93b5d379fdd6a048284|1 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-c3522b182498048df24da568
 
 
-2. Šio įstatymo [[#2 straipsnis. Įstatymo priedėlio IV skirsnio 7 punkto pakeitimas|2 straipsnis]] įsigalioja 2012 m. kovo 1 d. ^812c8d3e86f2a9893bdb586c
+2. Šio įstatymo [[#^s-ae905f52d4d7a17049705896|2 straipsnis]] įsigalioja 2012 m. kovo 1 d. ^s-ee45e63d7a764af39f4769a9
 
 
 

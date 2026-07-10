@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EF31A77EC699"
 pavadinimas: "Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2012 metais, įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2012 metais, įstatymas"
+  - "valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2012 metais, įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-08"
 latest_path: "latest/TAR.EF31A77EC699.md"
 latest_sha256: "38540c50dcb1bd31d84a106656c4f3bbab5cf29c00dee2868e39ed169e927437"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EF31A77EC699]]"
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2012 metais, įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EF31A77EC699.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EF31A77EC699
+- Ryšiai: [[Ryšiai/TAR.EF31A77EC699|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,21 +39,21 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-c7e769b842615f583611c221
 
 
 Šis įstatymas nustato Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį.
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-040ed194e825b99a38bd5901
 
 
 Šiuo įstatymu nustatytas bazinis dydis taikomas valstybės politikų, bendrosios kompetencijos ir specializuotų teismų teisėjų, valstybės pareigūnų, valstybės tarnautojų pareiginėms algoms, Lietuvos Respublikos Konstitucinio Teismo teisėjų atlyginimams, karių tarnybiniams atlyginimams ir kitoms teisės aktuose nustatytoms išmokoms apskaičiuoti 2012 metais.
 
 
 
-### 3 straipsnis. Pareiginės algos bazinis dydis
+### 3 straipsnis. Pareiginės algos bazinis dydis ^s-df5df6c4583bec13ae3fbe09
 
 
 Valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinis dydis 2012 metais – 450 litų.

@@ -11,7 +11,7 @@
   "latest_revision": "2004-04-30",
   "latest_sha256": "3836ac67aa0124808c24182ad32762a7ce683a6a4f11ea1eaa115c999d5b417d",
   "metadata_path": "latest/TAR.549BF4CABA46.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

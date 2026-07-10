@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C42FEBF91414"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 36 straipsnio pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 36 straipsnio pakeitimo ir papildymo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 36 straipsnio pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-07-01"
 latest_path: "latest/TAR.C42FEBF91414.md"
 latest_sha256: "9bfdeb4ebe7b695a5c9abea97bd4e1da9960b310c572407e82cbd561d9f91b53"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C42FEBF91414]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 36 straipsnio pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C42FEBF91414.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C42FEBF91414
+- Ryšiai: [[Ryšiai/TAR.C42FEBF91414|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,26 +39,26 @@ Vilnius
 
 
 
-### 1 straipsnis. 36 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 36 straipsnio pakeitimas ir papildymas ^s-2da751796d35f89b2c6f4bfa
 
 
-1. Pakeisti 36 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^bbefa682b6b7010e6c72360f
+1. Pakeisti 36 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip: ^s-d55b2f86a01f9d6998ad9056
 
 
 „1) priimti sprendimą dėl draudėjo turto priverstinės hipotekos (įkeitimo) nustatymo, pakeitimo ir pabaigos, taip pat dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto;“.
 
 
-2. Papildyti 36 straipsnį nauja 5 dalimi: ^4565f71a6fb26bbd03cda1ee
+2. Papildyti 36 straipsnį nauja 5 dalimi: ^s-8ab0dcd20ad94b815d95e490
 
 
 „5. Šio straipsnio 4 dalies 1 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka. Fondo valdybos direktoriaus ir jo pavaduotojo sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.“
 
 
-3. Buvusias 36 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^ed3b47367a6ae643ab2c8b2c
+3. Buvusias 36 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^s-48415cb83477f3cb26c7f939
 
 
 
-### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos ^s-cce7356869ceafd1d0371b5b
 
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.76E44263C876"
 pavadinimas: "Lietuvos Respublikos Šiaulių miesto ir Šiaulių rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Šiaulių miesto ir Šiaulių rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas"
+  - "Šiaulių miesto ir Šiaulių rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-03-01"
 latest_path: "latest/TAR.76E44263C876.md"
 latest_sha256: "2d60c3331660a037eb38ba8483bbe28c5aa8c991bcb3c604799592ea65d81e11"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.76E44263C876]]"
 ---
 # Lietuvos Respublikos Šiaulių miesto ir Šiaulių rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.76E44263C876.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.76E44263C876
+- Ryšiai: [[Ryšiai/TAR.76E44263C876|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

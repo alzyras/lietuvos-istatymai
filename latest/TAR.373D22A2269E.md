@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.373D22A2269E"
 pavadinimas: "Dėl Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-04-07"
 latest_path: "latest/TAR.373D22A2269E.md"
 latest_sha256: "ae4691daa5f421915ed020b89a0997436dad1b18717a5888e52ce96b2f8a1d11"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.373D22A2269E]]"
 ---
 # Dėl Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.373D22A2269E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.373D22A2269E
+- Ryšiai: [[Ryšiai/TAR.373D22A2269E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-Pakeisti Lietuvos Respublikos vietos savivaldos įstatymo (Žin., 1994, Nr. 55-1049) 7 straipsnį – antrosios dalies pirmąjį sakinį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (Žin., 1994, Nr. 55-1049) 7 straipsnį – antrosios dalies pirmąjį sakinį išdėstyti taip:
 
 
 „Pirmąjį naujai išrinktos tarybos posėdį šaukia atitinkamos rinkimų komisijos pirmininkas ne vėliau kaip per dvi savaites po rinkimų rezultatų paskelbimo.“

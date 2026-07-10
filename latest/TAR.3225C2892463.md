@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3225C2892463"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.3225C2892463.md"
 latest_sha256: "101eb69052c2d065739b3b87b29bf0ae8ed8041aedef7374861b846837142dae"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3225C2892463]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3225C2892463.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3225C2892463
+- Ryšiai: [[Ryšiai/TAR.3225C2892463|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies 1 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies 1 punkto pakeitimas ^s-3806eee7a9c5f978c4cf1a77
 
 
 Pakeisti 4 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -43,33 +48,33 @@ Pakeisti 4 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 7 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 7 dalies pakeitimas ^s-1370ff8677026ac40ce45510
 
 
 Pakeisti 5 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
-„Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, antrojo laipsnio valstybinių pensijų gavėjoms šio įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas|4 straipsnio]] trečiosios dalies 1 punkte nurodytoms motinoms, garbės donorams. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.“
+„Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, antrojo laipsnio valstybinių pensijų gavėjoms šio įstatymo [[#^s-b492418a62099119ed3b8f39|4 straipsnio]] trečiosios dalies 1 punkte nurodytoms motinoms, garbės donorams. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] ir kitų įstatymų nustatyta tvarka.“
 
 
 
-### 3 straipsnis. 6 straipsnio 3 ir 5 dalių pakeitimas
+### 3 straipsnis. 6 straipsnio 3 ir 5 dalių pakeitimas ^s-2447ed02307bc954d3bfdcd1
 
 
-1. Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip: ^0ce989dc623905a6f34fcf16
+1. Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip: ^s-064d77ce0e50ebcf7fac6dc0
 
 
-„Komisija nagrinėja Lietuvos Respublikos aukščiausiosios valdžios – Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir valdymo institucijų, taip pat Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pateiktus prašymus skirti pirmojo ar antrojo laipsnio valstybinę pensiją. Taip pat komisija nagrinėja savivaldybių arba apskričių viršininkų administracijos teikimus skirti antrojo laipsnio valstybines pensijas šio įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas|4 straipsnio]] trečiosios dalies 1 punkte nurodytoms motinoms. Teikimai skirti pirmojo ar antrojo laipsnio valstybinę pensiją pateikiami Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo ir mokėjimo nuostatų nustatyta tvarka.“
+„Komisija nagrinėja Lietuvos Respublikos aukščiausiosios valdžios – Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir valdymo institucijų, taip pat Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pateiktus prašymus skirti pirmojo ar antrojo laipsnio valstybinę pensiją. Taip pat komisija nagrinėja savivaldybių arba apskričių viršininkų administracijos teikimus skirti antrojo laipsnio valstybines pensijas šio įstatymo [[#^s-b492418a62099119ed3b8f39|4 straipsnio]] trečiosios dalies 1 punkte nurodytoms motinoms. Teikimai skirti pirmojo ar antrojo laipsnio valstybinę pensiją pateikiami Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo ir mokėjimo nuostatų nustatyta tvarka.“
 
 
-2. Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip: ^ccad59682a092b3f5b3c30e3
+2. Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip: ^s-ed642b86f69d5725ca8da277
 
 
-„Komisija turi teisę skirti antrojo laipsnio valstybinę pensiją savivaldybių arba apskričių viršininkų administracijos teikimu šio įstatymo [[#4 straipsnis. Įstatymo įsigaliojimas|4 straipsnio]] trečiosios dalies 1 punkte nurodytoms motinoms (toliau šiame straipsnyje – daugiavaikė motina), netaikydama šio įstatymo 5 straipsnio trečiojoje dalyje nurodytų apribojimų. Komisija taip pat turi teisę priimti sprendimą skirti nuo 2005 m. sausio 1 d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai, jeigu daugiavaikė motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo sąlygas ir jeigu Komisija gavo savivaldybės arba apskrities viršininko administracijos teikimą su visais būtinais nurodytai pensijai skirti dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių motinų pagimdytų (įvaikintų) ir išaugintų vaikų gero išauklėjimo bei pačių motinų elgesio vertinimo kriterijų ir sąlygų teisei antrojo laipsnio valstybinę pensiją nustatyti aprašą tvirtina Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių ir apskričių viršininkų administracijos, teikdamos pasiūlymus dėl antrojo laipsnio valstybinių pensijų skyrimo daugiavaikėms motinoms, taip pat Komisija, priimdama sprendimus dėl šių motinų teisės gauti antrojo laipsnio valstybinę pensiją. Savivaldybių ir apskričių viršininkų administracijos, kurių teikimu šios pensijos buvo paskirtos motinoms, neatitinkančioms antrojo laipsnio valstybinių pensijų skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti Lietuvos Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos mokėjimo nutraukimo.“
+„Komisija turi teisę skirti antrojo laipsnio valstybinę pensiją savivaldybių arba apskričių viršininkų administracijos teikimu šio įstatymo [[#^s-b492418a62099119ed3b8f39|4 straipsnio]] trečiosios dalies 1 punkte nurodytoms motinoms (toliau šiame straipsnyje – daugiavaikė motina), netaikydama šio įstatymo 5 straipsnio trečiojoje dalyje nurodytų apribojimų. Komisija taip pat turi teisę priimti sprendimą skirti nuo 2005 m. sausio 1 d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai, jeigu daugiavaikė motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo sąlygas ir jeigu Komisija gavo savivaldybės arba apskrities viršininko administracijos teikimą su visais būtinais nurodytai pensijai skirti dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių motinų pagimdytų (įvaikintų) ir išaugintų vaikų gero išauklėjimo bei pačių motinų elgesio vertinimo kriterijų ir sąlygų teisei antrojo laipsnio valstybinę pensiją nustatyti aprašą tvirtina Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių ir apskričių viršininkų administracijos, teikdamos pasiūlymus dėl antrojo laipsnio valstybinių pensijų skyrimo daugiavaikėms motinoms, taip pat Komisija, priimdama sprendimus dėl šių motinų teisės gauti antrojo laipsnio valstybinę pensiją. Savivaldybių ir apskričių viršininkų administracijos, kurių teikimu šios pensijos buvo paskirtos motinoms, neatitinkančioms antrojo laipsnio valstybinių pensijų skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti Lietuvos Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos mokėjimo nutraukimo.“
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-b492418a62099119ed3b8f39
 
 
 Šis Įstatymas įsigalioja 2009 m. liepos 1 d.

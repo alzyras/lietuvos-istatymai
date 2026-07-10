@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.00E61DA431C4"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 51, 66, 67, 68, 69(1) straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 51, 66, 67, 68, 69(1) straipsnių pakeitimo ir papildymo įstatymas"
+  - "teismų įstatymo 51, 66, 67, 68, 69(1) straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-25"
 latest_path: "latest/TAR.00E61DA431C4.md"
 latest_sha256: "15c8567d58db0c0f07bb30adcbb725f1e08d51ba28570838cda3e5a8ef84a44a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.00E61DA431C4]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 51, 66, 67, 68, 69(1) straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.00E61DA431C4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.00E61DA431C4
+- Ryšiai: [[Ryšiai/TAR.00E61DA431C4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 51 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 51 straipsnio 1 dalies pakeitimas ^s-d36094326f3cad0361d2f53a
 
 
 51 straipsnio 1 dalies antrajame sakinyje išbraukti žodžius „taip pat“, po žodžių „penkeri metai“ įrašyti žodžius „Generalinės prokuratūros, apygardos prokuratūros prokuroras, turintis ne mažesnį kaip penkerių metų prokuroro darbo stažą, arba apylinkės prokuratūros prokuroras, turintis ne mažesnį kaip septynerių metų prokuroro darbo stažą, taip pat advokatas, turintis ne mažesnį kaip septynerių metų advokato darbo stažą“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 66 straipsnio pakeitimas
+### 2 straipsnis. 66 straipsnio pakeitimas ^s-2683ecad8e6eeff1b1357ef2
 
 
 66 straipsnyje išbraukti žodžius „taip pat“, vietoj žodžio „pateikęs“ įrašyti žodžius „Generalinės prokuratūros, apygardos prokuratūros prokuroras, turintis ne mažesnį kaip aštuonerių metų prokuroro darbo stažą, taip pat advokatas, turintis ne mažesnį kaip aštuonerių metų advokato darbo stažą, pateikę“ ir šį straipsnį išdėstyti taip:
@@ -54,7 +59,7 @@ Apygardos administracinio teismo ar apygardos teismo teisėju gali būti skiriam
 
 
 
-### 3 straipsnis. 67 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 67 straipsnio 1 dalies pakeitimas ^s-40c7c9ee0d017c1fc2af7936
 
 
 67 straipsnio 1 dalyje išbraukti žodžius „taip pat“, vietoj žodžio „dešimties“ įrašyti žodį „aštuonerių“, vietoj žodžio „pateikęs“ įrašyti žodžius „Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip dešimties metų prokuroro darbo stažą, taip pat advokatas, turintis ne mažesnį kaip dešimties metų advokato darbo stažą, pateikę“ ir šią dalį išdėstyti taip:
@@ -64,10 +69,10 @@ Apygardos administracinio teismo ar apygardos teismo teisėju gali būti skiriam
 
 
 
-### 4 straipsnis.         68 straipsnio 3 punkto pakeitimas ir straipsnio papildymas 4 bei 5 punktais
+### 4 straipsnis.         68 straipsnio 3 punkto pakeitimas ir straipsnio papildymas 4 bei 5 punktais ^s-9426222a5395003c3d32f4b4
 
 
-68 straipsnio 3 punkte vietoj žodžio „penkiolikos“ įrašyti žodį „dešimt“, straipsnį papildyti 4 ir [[#^c0bddb4c92935d626a7861cd|5 punktais]] ir jį išdėstyti taip:
+68 straipsnio 3 punkte vietoj žodžio „penkiolikos“ įrašyti žodį „dešimt“, straipsnį papildyti 4 ir [[#^s-548f507b5e0ad5506da18674|5 punktais]] ir jį išdėstyti taip:
 
 
 „68 straipsnis. Reikalavimai asmeniui, siekiančiam tapti Aukščiausiojo Teismo teisėju
@@ -76,23 +81,23 @@ Apygardos administracinio teismo ar apygardos teismo teisėju gali būti skiriam
 Aukščiausiojo Teismo teisėju gali būti skiriamas:
 
 
-1) apygardos administracinio teismo, apygardos teismo teisėjas, turintis ne mažesnį kaip aštuonerių metų šių teismų teisėjo darbo stažą; ^45de8940fece0a54d3522923
+1) apygardos administracinio teismo, apygardos teismo teisėjas, turintis ne mažesnį kaip aštuonerių metų šių teismų teisėjo darbo stažą; ^s-fef0f3cdf9c7587f8e18386e
 
 
-2) Vyriausiojo administracinio teismo, Apeliacinio teismo teisėjas, turintis ne mažesnį kaip penkerių metų šių teismų teisėjo darbo stažą; ^6f280968f1d0dd811aedce3f
+2) Vyriausiojo administracinio teismo, Apeliacinio teismo teisėjas, turintis ne mažesnį kaip penkerių metų šių teismų teisėjo darbo stažą; ^s-e51489ba03ac68d748a86356
 
 
-3) teisės krypties socialinių mokslų daktaras ar habilituotas daktaras, turintis ne mažesnį kaip dešimties metų teisinio pedagoginio darbo stažą, pateikęs sveikatos pažymėjimą; ^083072804e01252837e9efd5
+3) teisės krypties socialinių mokslų daktaras ar habilituotas daktaras, turintis ne mažesnį kaip dešimties metų teisinio pedagoginio darbo stažą, pateikęs sveikatos pažymėjimą; ^s-3110f8c3e30a58316236aa24
 
 
-4) Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip penkiolikos metų prokuroro darbo stažą, pateikęs sveikatos pažymėjimą; ^96afab7306a88bcb6b82fd63
+4) Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip penkiolikos metų prokuroro darbo stažą, pateikęs sveikatos pažymėjimą; ^s-a7e15d7c994768e01a9ef2a6
 
 
-5) advokatas, turintis ne mažesnį kaip penkiolikos metų advokato darbo stažą, pateikęs sveikatos pažymėjimą.“ ^c0bddb4c92935d626a7861cd
+5) advokatas, turintis ne mažesnį kaip penkiolikos metų advokato darbo stažą, pateikęs sveikatos pažymėjimą.“ ^s-548f507b5e0ad5506da18674
 
 
 
-### 5 straipsnis. 691 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 691 straipsnio 2 dalies pakeitimas ^s-ebfcd74bca5bcaa947c8c328
 
 
 691 straipsnio 2 dalyje po žodžių „habilituoti daktarai“ įrašyti žodžius „prokurorai, advokatai“ ir šią dalį išdėstyti taip:

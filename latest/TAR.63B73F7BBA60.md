@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.63B73F7BBA60"
 pavadinimas: "Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "Prezidento įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-02-25"
 latest_path: "latest/TAR.63B73F7BBA60.md"
 latest_sha256: "7ab9417360e137ce1fff3ff4144651ac40bc35ba6d4c4d598d7c431630280c35"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.63B73F7BBA60]]"
 ---
 # Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.63B73F7BBA60.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.63B73F7BBA60
+- Ryšiai: [[Ryšiai/TAR.63B73F7BBA60|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio pakeitimas
+### 1 straipsnis. 6 straipsnio pakeitimas ^s-44dade9b8f0f7ece3c54b772
 
 
 6 straipsnyje vietoj žodžių „Kitą dieną po to, kai Respublikos Prezidentas prisiekė“ įrašyti žodžius „Tą dieną, kai naujasis Respublikos Prezidentas pradeda eiti pareigas“ ir šį straipsnį išdėstyti taip:

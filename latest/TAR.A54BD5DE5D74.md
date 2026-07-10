@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A54BD5DE5D74"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 36 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 36 straipsnio papildymo įstatymas"
+  - "teismų įstatymo 36 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.A54BD5DE5D74.md"
 latest_sha256: "3ab60d7368a02453df7fa2a7d7ff49a8af37d8c1ff0e6b223aeab8634d5c8a2d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A54BD5DE5D74]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 36 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A54BD5DE5D74.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A54BD5DE5D74
+- Ryšiai: [[Ryšiai/TAR.A54BD5DE5D74|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 36 straipsnio 8 dalies papildymas
+### 1 straipsnis. 36 straipsnio 8 dalies papildymas ^s-dd3e6e6bc62d3606439e9e16
 
 
 36 straipsnio 8 dalį papildyti nauju ketvirtu sakiniu ir ją išdėstyti taip:

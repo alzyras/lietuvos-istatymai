@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE9825330467"
 pavadinimas: "Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-07-28"
 latest_path: "latest/TAR.DE9825330467.md"
 latest_sha256: "08519dfe955c8fe22a6313fa0fa1420d1c8aa25ead66833b551112a0c88ef788"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE9825330467]]"
 ---
 # Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE9825330467.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE9825330467
+- Ryšiai: [[Ryšiai/TAR.DE9825330467|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies pakeitimas ^s-da99d659ee0a38654fdceb2d
 
 
 4 straipsnio 3 dalies priešpaskutiniame sakinyje vietoj datos „2006 m. balandžio 1 d.“ įrašyti datą „2006 m. rugsėjo 1 d.“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-23d73474866fb756348edac5
 
 
 Šis įstatymas įsigalioja po 1 mėnesio nuo paskelbimo „Valstybės žiniose“.

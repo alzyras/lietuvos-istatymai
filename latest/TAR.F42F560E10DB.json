@@ -11,7 +11,7 @@
   "latest_revision": "2010-09-01",
   "latest_sha256": "83aeadf4b79bb4b25f0724035d82ba85759c2f9289ee8c7d5d13c4e6dfa5bc03",
   "metadata_path": "latest/TAR.F42F560E10DB.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,

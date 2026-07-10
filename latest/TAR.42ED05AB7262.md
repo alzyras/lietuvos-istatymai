@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.42ED05AB7262"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-27"
 latest_path: "latest/TAR.42ED05AB7262.md"
 latest_sha256: "dca802402abd8da78fa68e8eb10f3fcfe6a8c3ad09bfe9c1712e3e4eab7137dc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.42ED05AB7262]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.42ED05AB7262.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.42ED05AB7262
+- Ryšiai: [[Ryšiai/TAR.42ED05AB7262|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 2 dalies pakeitimas ^s-fa454cb97cad7eb566786cbe
 
 
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:

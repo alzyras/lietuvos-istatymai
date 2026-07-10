@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.97BE643CAE59"
 pavadinimas: "Lietuvos Respublikos viešųjų įstaigų įstatymo 2 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos viešųjų įstaigų įstatymo 2 straipsnio papildymo įstatymas"
+  - "viešųjų įstaigų įstatymo 2 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-30"
 latest_path: "latest/TAR.97BE643CAE59.md"
 latest_sha256: "8777b7f7f43a5e711ec19f30848e64c14b49d419584f91489846ae2fd67114cb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.97BE643CAE59]]"
 ---
 # Lietuvos Respublikos viešųjų įstaigų įstatymo 2 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.97BE643CAE59.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.97BE643CAE59
+- Ryšiai: [[Ryšiai/TAR.97BE643CAE59|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 dalies papildymas
+### 1 straipsnis. 2 straipsnio 1 dalies papildymas ^s-9b88d54a8faa9d931e5b2507
 
 
 Papildyti 2 straipsnio 1 dalį ir ją išdėstyti taip:

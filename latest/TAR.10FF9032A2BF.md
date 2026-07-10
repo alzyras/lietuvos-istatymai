@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.10FF9032A2BF"
 pavadinimas: "Lietuvos Respublikos 2001 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2001 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
+  - "2001 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-12-29"
 latest_path: "latest/TAR.10FF9032A2BF.md"
 latest_sha256: "d9c98cdbffd73840f3e9d6d3b45b262e3dd174ec6775bd7d50529146fbe2d0a9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.10FF9032A2BF]]"
 ---
 # Lietuvos Respublikos 2001 metų privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.10FF9032A2BF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.10FF9032A2BF
+- Ryšiai: [[Ryšiai/TAR.10FF9032A2BF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         2001 metų privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis.         2001 metų privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų patvirtinimas ^s-3d54922914d547914f30ad39
 
 
 Patvirtinti Lietuvos Respublikos 2001 metų privalomojo sveikatos draudimo fondo biudžetą – 1885015 tūkst. litų pajamų ir 1885015 tūkst. litų išlaidų, iš jo – 20000 tūkst. litų kasos apyvartos lėšų (priedėlis).

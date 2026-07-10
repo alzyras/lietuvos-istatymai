@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2701203C3BA3"
 pavadinimas: "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-09-01"
 latest_path: "latest/TAR.2701203C3BA3.md"
 latest_sha256: "b300d9c7f71b5914f3f33c5f3aad1f48afcf251e57896df5fb2219ccfb88f879"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2701203C3BA3]]"
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2701203C3BA3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2701203C3BA3
+- Ryšiai: [[Ryšiai/TAR.2701203C3BA3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas ^s-7163f40eb5ae44c1e43a8c58
 
 
 4 straipsnio 5 dalyje po žodžių „kariai savanoriai“ įrašyti žodžius „ir kiti aktyviojo rezervo kariai“, vietoj žodžio „parengimą“ įrašyti žodį „parengtumą“ ir šią dalį išdėstyti taip:
@@ -44,7 +49,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-ee713924779d38b08ab62830
 
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.

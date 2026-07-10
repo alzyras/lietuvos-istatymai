@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BFCFDC408B0B"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymo taikymo tvarkos konstitucinio įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymo taikymo tvarkos konstitucinio įstatymo pripažinimo netekusiu galios įstatymas"
+  - "Konstitucijos 119 straipsnio pakeitimo įstatymo taikymo tvarkos konstitucinio įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-04-24"
 latest_path: "latest/TAR.BFCFDC408B0B.md"
 latest_sha256: "44a01d64e87a52350efb3acabbe8d5ecfc0428736b4407333951d7d7a635955b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BFCFDC408B0B]]"
 ---
 # Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymo taikymo tvarkos konstitucinio įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BFCFDC408B0B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BFCFDC408B0B
+- Ryšiai: [[Ryšiai/TAR.BFCFDC408B0B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-db0f3deb08c62d829b861bf8
 
 
 Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymo taikymo tvarkos konstitucinį įstatymą pripažinti netekusiu galios.

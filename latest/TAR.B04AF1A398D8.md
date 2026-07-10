@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B04AF1A398D8"
 pavadinimas: "Lietuvos Respublikos miškų įstatymo 8, 10, 14, 16, 17, 18, 22, 26 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos miškų įstatymo 8, 10, 14, 16, 17, 18, 22, 26 straipsnių pakeitimo įstatymas"
+  - "miškų įstatymo 8, 10, 14, 16, 17, 18, 22, 26 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.B04AF1A398D8.md"
 latest_sha256: "ef90ae30e498e89ce5b0e1433fca7607750fbf22d46b88ad349931d62ce90e26"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B04AF1A398D8]]"
 ---
 # Lietuvos Respublikos miškų įstatymo 8, 10, 14, 16, 17, 18, 22, 26 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B04AF1A398D8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B04AF1A398D8
+- Ryšiai: [[Ryšiai/TAR.B04AF1A398D8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-60b87815d4a9e330f0dc60f6
 
 
-Pakeisti [[#8 straipsnis. 26 straipsnio 2 dalies pakeitimas|8 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-fec2f6cb87851c751b3f010a|8 straipsnį]] ir jį išdėstyti taip:
 
 
-„[[#8 straipsnis. 26 straipsnio 2 dalies pakeitimas|8 straipsnis]]. Ekonominis valstybinio miškų ūkio reguliavimas
+„[[#^s-fec2f6cb87851c751b3f010a|8 straipsnis]]. Ekonominis valstybinio miškų ūkio reguliavimas
 
 
 Miškų urėdijos atlieka kompleksinį miškų ūkio tvarkymą valstybiniuose miškuose, Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka parduoda pagamintą miško produkciją, nenukirstą mišką, teikia paslaugas ir moka valstybės įmonėms įstatymų nustatytus mokesčius. Įvertinant miškų urėdijų turimą kapitalą, žemė ir miškas vertine išraiška neapskaičiuojami.
@@ -47,7 +52,7 @@ Bendrosioms valstybinių miškų reikmėms tenkinti Lietuvos Respublikos Vyriaus
 
 
 
-### 2 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-12fef9df85618be1c2d37180
 
 
 Iš 10 straipsnio 4 dalies išbraukti žodžius „o gautos lėšos įskaitomos į Miško fondą“ ir šią dalį išdėstyti taip:
@@ -57,7 +62,7 @@ Iš 10 straipsnio 4 dalies išbraukti žodžius „o gautos lėšos įskaitomos 
 
 
 
-### 3 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-ee06b2d60f2bfbf86e7e3145
 
 
 14 straipsnio 3 dalyje po žodžio „valdytojų“ įrašyti žodį „ir“, išbraukti žodžius „ir Miško fondo“ ir šią dalį išdėstyti taip:
@@ -67,7 +72,7 @@ Iš 10 straipsnio 4 dalies išbraukti žodžius „o gautos lėšos įskaitomos 
 
 
 
-### 4 straipsnis. 16 straipsnio 7 dalies pakeitimas
+### 4 straipsnis. 16 straipsnio 7 dalies pakeitimas ^s-acc6d32c5ed4532bf0802417
 
 
 Iš 16 straipsnio 7 dalies išbraukti žodžius „kituose miškuose – valstybės, miško valdytojų ir Miško fondo lėšomis“ ir šią dalį išdėstyti taip:
@@ -77,7 +82,7 @@ Iš 16 straipsnio 7 dalies išbraukti žodžius „kituose miškuose – valstyb
 
 
 
-### 5 straipsnis. 17 straipsnio 6 dalies pakeitimas
+### 5 straipsnis. 17 straipsnio 6 dalies pakeitimas ^s-b8503729b50d381ec82ddc6f
 
 
 17 straipsnio 6 dalyje po žodžio „savininkų“ įrašyti žodį „ir“, išbraukti žodžius „ir Miško fondo“ ir šią dalį išdėstyti taip:
@@ -87,7 +92,7 @@ Iš 16 straipsnio 7 dalies išbraukti žodžius „kituose miškuose – valstyb
 
 
 
-### 6 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 6 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-c4430ab8b8f55f453c3d86fe
 
 
 18 straipsnio 2 dalyje po žodžio „valdytojų“ įrašyti žodį „ir“, išbraukti žodžius „ir Miško fondo“ ir šią dalį išdėstyti taip:
@@ -97,7 +102,7 @@ Iš 16 straipsnio 7 dalies išbraukti žodžius „kituose miškuose – valstyb
 
 
 
-### 7 straipsnis. 22 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 22 straipsnio 2 dalies pakeitimas ^s-a5d57c27ab88bd87fac957f4
 
 
 22 straipsnio 2 dalyje po žodžio „valdytojų“ įrašyti žodį „ir“, išbraukti žodžius „ir Miško fondo“ ir šią dalį išdėstyti taip:
@@ -107,7 +112,7 @@ Iš 16 straipsnio 7 dalies išbraukti žodžius „kituose miškuose – valstyb
 
 
 
-### 8 straipsnis. 26 straipsnio 2 dalies pakeitimas
+### 8 straipsnis. 26 straipsnio 2 dalies pakeitimas ^s-fec2f6cb87851c751b3f010a
 
 
 Iš 26 straipsnio 2 dalies išbraukti sakinį „Nuostoliai už žalą, padarytą valstybiniam miškui, išieškomi į Miško fondą“ ir šią dalį išdėstyti taip:
@@ -117,7 +122,7 @@ Iš 26 straipsnio 2 dalies išbraukti sakinį „Nuostoliai už žalą, padaryt�
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas
+### 9 straipsnis. Įstatymo įsigaliojimas ^s-d076d285e44e1dba647d3bc3
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

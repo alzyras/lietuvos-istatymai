@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.782A9D3AD8A8"
 pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 7, 9, 10 ir 15 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 7, 9, 10 ir 15 straipsnių pakeitimo įstatymas"
+  - "krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 7, 9, 10 ir 15 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-01"
 latest_path: "latest/TAR.782A9D3AD8A8.md"
 latest_sha256: "0939de859a623305526a8035d814c8a592f3d10b7b0e556629fddb835766f56b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.782A9D3AD8A8]]"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 7, 9, 10 ir 15 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.782A9D3AD8A8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.782A9D3AD8A8
+- Ryšiai: [[Ryšiai/TAR.782A9D3AD8A8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas ^s-4aca3f0105972216e75f2b43
 
 
 Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 9 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 2 dalies pakeitimas ^s-10d59364f2df668765674eb7
 
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas ^s-b31357ef9a5316a74f0efaf5
 
 
 Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -63,7 +68,7 @@ Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 15 straipsnio pakeitimas
+### 4 straipsnis. 15 straipsnio pakeitimas ^s-8c672fcf9612f9155a959a95
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -73,41 +78,41 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Gynybos štabas
 
 
-1. Gynybos štabas yra Krašto apsaugos ministerijos padalinys, padedantis atlikti strateginio lygmens vadovavimo valstybės ginkluotosioms pajėgoms funkcijas. Jis padeda krašto apsaugos ministrui rengti krašto apsaugos sistemos plėtros planus ir valstybės karinę strategiją, o kariuomenės vadui – vykdyti jo pareigas ir funkcijas. ^024378627036d8e24c327bba
+1. Gynybos štabas yra Krašto apsaugos ministerijos padalinys, padedantis atlikti strateginio lygmens vadovavimo valstybės ginkluotosioms pajėgoms funkcijas. Jis padeda krašto apsaugos ministrui rengti krašto apsaugos sistemos plėtros planus ir valstybės karinę strategiją, o kariuomenės vadui – vykdyti jo pareigas ir funkcijas. ^s-6c8466f1f781992424402a05
 
 
-2. Valstybės ginkluotos gynybos planus Gynybos štabas rengia kartu su kitomis krašto apsaugos sistemos ir valstybės institucijomis, o šios pateikia visus šiems planams būtinus duomenis. ^abf6a66403bf2341b4593c8e
+2. Valstybės ginkluotos gynybos planus Gynybos štabas rengia kartu su kitomis krašto apsaugos sistemos ir valstybės institucijomis, o šios pateikia visus šiems planams būtinus duomenis. ^s-36ca66eeb20240acbe1bf19a
 
 
-3. Gynybos štabui vadovauja Gynybos štabo viršininkas. Jis yra tiesiogiai pavaldus kariuomenės vadui ir atsakingas krašto apsaugos ministrui. Krašto apsaugos ministerijos vidaus administravimo srityje Gynybos štabo viršininkas yra atskaitingas ministrui. ^e30acf349356e9c17c666bbf
+3. Gynybos štabui vadovauja Gynybos štabo viršininkas. Jis yra tiesiogiai pavaldus kariuomenės vadui ir atsakingas krašto apsaugos ministrui. Krašto apsaugos ministerijos vidaus administravimo srityje Gynybos štabo viršininkas yra atskaitingas ministrui. ^s-2bc145cfc1a31c1b1881d2ee
 
 
-4. Gynybos štabo viršininkas jam ministro nustatytose veiklos srityse: ^4f6d07fb44a0cc9c37bdb831
+4. Gynybos štabo viršininkas jam ministro nustatytose veiklos srityse: ^s-f2619f48b5df851b59c84a65
 
 
-1) organizuoja ministerijos strateginius tikslus ir Vyriausybės programos nuostatas atitinkančių teisės aktų projektų rengimą ir derinimą; ^9859809d900b41b86f1c2469
+1) organizuoja ministerijos strateginius tikslus ir Vyriausybės programos nuostatas atitinkančių teisės aktų projektų rengimą ir derinimą; ^s-4f63a4dca9d21a03b0cc38e4
 
 
-2) organizuoja ir kontroliuoja, kaip vykdomi Ministro Pirmininko ir Vyriausybės, ministro ir kariuomenės vado pavedimai; ^30023968e31b8bb95b2eaa22
+2) organizuoja ir kontroliuoja, kaip vykdomi Ministro Pirmininko ir Vyriausybės, ministro ir kariuomenės vado pavedimai; ^s-db5f2586c82a36d9a4748742
 
 
-3) koordinuoja ir kontroliuoja Gynybos štabo, Jungtinio štabo ir kariuomenės pajėgų štabų veiklą; ^1ed486c570f7a642256c205c
+3) koordinuoja ir kontroliuoja Gynybos štabo, Jungtinio štabo ir kariuomenės pajėgų štabų veiklą; ^s-e1333c55740da410b04996b4
 
 
-4) atlieka kitas ministro ar kariuomenės vado pavestas funkcijas. ^3ee0f685c6ba1c03c8abbc44
+4) atlieka kitas ministro ar kariuomenės vado pavestas funkcijas. ^s-d2cd7637b21beb1744731d65
 
 
-5. Gynybos štabo viršininką krašto apsaugos ministras skiria kariuomenės vado teikimu. Kitus karius į pareigas Gynybos štabe skiria ir iš jų atleidžia krašto apsaugos ministras. ^0af5851da52ed265ea4b478b
+5. Gynybos štabo viršininką krašto apsaugos ministras skiria kariuomenės vado teikimu. Kitus karius į pareigas Gynybos štabe skiria ir iš jų atleidžia krašto apsaugos ministras. ^s-50e77642f393bddd013dfdce
 
 
-6. Kai Gynybos štabo viršininko nėra arba jis laikinai negali eiti pareigų, krašto apsaugos ministro įsakymu jį pavaduoja Gynybos štabo struktūrinio padalinio vadovas. ^15017a8fca8689ab37742ffa
+6. Kai Gynybos štabo viršininko nėra arba jis laikinai negali eiti pareigų, krašto apsaugos ministro įsakymu jį pavaduoja Gynybos štabo struktūrinio padalinio vadovas. ^s-b8372bb84208e341cc459050
 
 
-7. Gynybos štabo struktūrą nustato krašto apsaugos ministras.“ ^0b360a897e81e51fe79e7989
+7. Gynybos štabo struktūrą nustato krašto apsaugos ministras.“ ^s-085b8d8b64b78c9fb7c0567e
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-de095d4256ab4efd7c86666e
 
 
 Šis įstatymas įsigalioja 2009 m. liepos 1 d.

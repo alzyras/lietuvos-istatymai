@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5A26A5EF2362"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr.1/2000 \"Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų\" ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr.1/2000 \"Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų\" ratifikavimo"
+  - "įstatymas dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr.1/2000 \"Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų\" ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-03-27"
 latest_path: "latest/TAR.5A26A5EF2362.md"
 latest_sha256: "7274d313bce33e87f9b486f9776a39fa2f72288913e27cb9ac99c64a29ac338c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5A26A5EF2362]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimo Nr.1/2000 "Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų" ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5A26A5EF2362.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5A26A5EF2362
+- Ryšiai: [[Ryšiai/TAR.5A26A5EF2362|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sprendimo ratifikavimas
+### 1 straipsnis. Sprendimo ratifikavimas ^s-8f254564c32958d1031d3b9a
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1552, ratifikuoja Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000 „Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų“, pasirašytą 2000 m. gruodžio 28 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4709065CD0A4"
 pavadinimas: "Lietuvos Respublikos augalų apsaugos įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos augalų apsaugos įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "augalų apsaugos įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-01-01"
 latest_path: "latest/TAR.4709065CD0A4.md"
 latest_sha256: "9e1532cf9847b00eb516be073f63f9190b3b2b830c8d669368a9bccc9248f46f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4709065CD0A4]]"
 ---
 # Lietuvos Respublikos augalų apsaugos įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4709065CD0A4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4709065CD0A4
+- Ryšiai: [[Ryšiai/TAR.4709065CD0A4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-1d980df936755f148a12ba7e
 
 
 3 straipsnio 1 dalyje išbraukti žodžius „ir apskričių viršininkai“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-1906fccd2556aca30f61a1f5
 
 
 Šis Įstatymas įsigalioja nuo 2002 m. sausio 1 d.

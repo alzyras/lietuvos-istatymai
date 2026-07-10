@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.31D117E2CCCF"
 pavadinimas: "Lietuvos Respublikos žemės gelmių įstatymo 4, 5, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žemės gelmių įstatymo 4, 5, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas"
+  - "žemės gelmių įstatymo 4, 5, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-12-24"
 latest_path: "latest/TAR.31D117E2CCCF.md"
 latest_sha256: "054dc76a25fe2c4f9a66ce6a79c1ba913317e323dae71b1acc5824e3b427f576"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.31D117E2CCCF]]"
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 4, 5, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.31D117E2CCCF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.31D117E2CCCF
+- Ryšiai: [[Ryšiai/TAR.31D117E2CCCF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-479f99cc34c6c8e03253cfbe
 
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -39,34 +44,34 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-998cc3de5dc8bfdf35241962
 
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Aplinkos apsaugos ministerija organizuoja ir koordinuoja valstybės strategijos dėl žemės gelmių apsaugos ir naudojimo įgyvendinimą, atlieka valstybinę žemės gelmių išteklių naudojimo ir apsaugos kontrolę, pagal savo kompetenciją nustato žemės gelmių išteklių naudojimo limitus ir sąlygas, reglamentuoja ir kontroliuoja žemės gelmių išteklių apskaitą, atlieka kitas Aplinkos apsaugos įstatymo ir kitų įstatymų bei Lietuvos Respublikos Vyriausybės nutarimų pavestas funkcijas.“
+„2. Aplinkos apsaugos ministerija organizuoja ir koordinuoja valstybės strategijos dėl žemės gelmių apsaugos ir naudojimo įgyvendinimą, atlieka valstybinę žemės gelmių išteklių naudojimo ir apsaugos kontrolę, pagal savo kompetenciją nustato žemės gelmių išteklių naudojimo limitus ir sąlygas, reglamentuoja ir kontroliuoja žemės gelmių išteklių apskaitą, atlieka kitas [[latest/TAR.E2780B68DE62|Aplinkos apsaugos įstatymo]] ir kitų įstatymų bei Lietuvos Respublikos Vyriausybės nutarimų pavestas funkcijas.“
 
 
 
-### 3 straipsnis. 14 straipsnio 2 ir 5 dalių pakeitimas
+### 3 straipsnis. 14 straipsnio 2 ir 5 dalių pakeitimas ^s-6446c2cb4ec12322852bdc22
 
 
-1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^20b2757037baac70da39070c
+1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^s-76203d5cd5d41bebfede9a8a
 
 
 „2. Aplinkos apsaugos ministerija išduoda leidimus naudoti geriamąjį gėlą ir gamybinį požeminį vandenį bei gelmių šilumą Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
 Leidimas naudoti geriamąjį gėlą požeminį vandenį centralizuotam vandens tiekimui miestams ir gyvenvietėms gali būti išduodamas tik vietos savivaldybei.“
 
 
-2. Pakeisti 14 straipsnio 5 dalį ir ją išdėstyti taip: ^923e85e8a623ac475eab24c2
+2. Pakeisti 14 straipsnio 5 dalį ir ją išdėstyti taip: ^s-24cfa8b407b1a394c391b417
 
 
 „5. Leidimai naudoti žemės gelmių išteklius ir ertmes turi būti registruojami Lietuvos geologijos tarnyboje jos nustatyta tvarka.“
 
 
 
-### 4 straipsnis. 15 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 15 straipsnio 1 dalies pakeitimas ^s-8dd73d19f502afdabf25de6d
 
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -76,7 +81,7 @@ Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 18 straipsnio papildymas
+### 5 straipsnis. 18 straipsnio papildymas ^s-2e672a0a5a10b3c50d18458b
 
 
 Papildyti 18 straipsnį 3 punktu:
@@ -86,7 +91,7 @@ Papildyti 18 straipsnį 3 punktu:
 
 
 
-### 6 straipsnis. 21 straipsnio papildymas
+### 6 straipsnis. 21 straipsnio papildymas ^s-94476f149befeb22882ff600
 
 
 Papildyti 21 straipsnį 4 dalimi:

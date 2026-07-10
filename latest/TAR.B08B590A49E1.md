@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B08B590A49E1"
 pavadinimas: "Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
+  - "2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-05-19"
 latest_path: "latest/TAR.B08B590A49E1.md"
 latest_sha256: "0812131ee4c5ddba6f80b1326e632f33ff5ef989d45a3bbf5d6329fc6054b38c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B08B590A49E1]]"
 ---
 # Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B08B590A49E1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B08B590A49E1
+- Ryšiai: [[Ryšiai/TAR.B08B590A49E1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-24a1c797c74d39a17d210c8a
 
 
 1 straipsnyje vietoj skaičių „25 447 594“, „26 940 172“ ir „1 492 578“ įrašyti atitinkamai skaičius „22 879 810“, „25 822 265“ ir „2 942 455“ ir šį straipsnį išdėstyti taip:
@@ -48,35 +53,35 @@ Patvirtinti Lietuvos Respublikos 2009 metų valstybės biudžetą – 22 879 810
 
 
 
-### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-a034677ce76026dcc9ae2cb8
 
 
-1. Papildyti [[#2 straipsnis. 2 straipsnio pakeitimas ir papildymas|2 straipsnį]] nauja [[#^6d693d5b63ad2e64bb912cf6|2 dalimi]]: ^8bca5610d551ec62f36133e6
+1. Papildyti [[#^s-a034677ce76026dcc9ae2cb8|2 straipsnį]] nauja [[#^s-0c37162a879054f862834082|2 dalimi]]: ^s-8ac42e7569838266b1d912e4
 
 
 „2. Sumažinti savivaldybių biudžetų pajamas, prognozuojamas 2009 metais gauti iš gyventojų pajamų mokesčio, – 338 900 tūkst. litų (11 priedėlis).“
 
 
-2. [[#^6d693d5b63ad2e64bb912cf6|2 straipsnio 2 dalį]] laikyti [[#^ef81b9ccdd4906e2549f0a9d|3 dalimi]], ją pakeisti – vietoj skaičiaus „3 184 804“ įrašyti skaičių „3 017 452“ ir šią dalį išdėstyti taip: ^6d693d5b63ad2e64bb912cf6
+2. [[#^s-0c37162a879054f862834082|2 straipsnio 2 dalį]] laikyti [[#^s-5d7299e43a012d978856e585|3 dalimi]], ją pakeisti – vietoj skaičiaus „3 184 804“ įrašyti skaičių „3 017 452“ ir šią dalį išdėstyti taip: ^s-0c37162a879054f862834082
 
 
 „3. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialiąsias tikslines dotacijas – 3 017 452 tūkst. litų (4 ir 5 priedėliai) ir valstybės biudžeto bendrosios dotacijos kompensacijas – 45 822 tūkst. litų (6 priedėlis).“
 
 
-3. [[#^ef81b9ccdd4906e2549f0a9d|2 straipsnio 3 dalį]] laikyti [[#^4b3ddb960bc3c7d46e9a3463|4 dalimi]], ją pakeisti – vietoj skaičiaus „34 018“ įrašyti skaičių „100 618“ ir šią dalį išdėstyti taip: ^ef81b9ccdd4906e2549f0a9d
+3. [[#^s-5d7299e43a012d978856e585|2 straipsnio 3 dalį]] laikyti [[#^s-7fc28f48833f7114e6acfc90|4 dalimi]], ją pakeisti – vietoj skaičiaus „34 018“ įrašyti skaičių „100 618“ ir šią dalį išdėstyti taip: ^s-5d7299e43a012d978856e585
 
 
 „4. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 100 618 tūkst. litų. Jas savivaldybės nuo antrojo ketvirčio perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (7 priedėlis).“
 
 
-4. Papildyti 2 straipsnį 5 dalimi: ^4b3ddb960bc3c7d46e9a3463
+4. Papildyti 2 straipsnį 5 dalimi: ^s-7fc28f48833f7114e6acfc90
 
 
 „5. Pavesti savivaldybėms patvirtinti ir vykdyti savivaldybių biudžetų išlaidų sumažinimą (2009 metams patvirtintas asignavimų sumas patikslinti sumažintomis pajamomis iš gyventojų pajamų mokesčio ir valstybės biudžetui patikslinta grąžinama bendrosios dotacijos kompensacijų suma).“
 
 
 
-### 3 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-f65a2f05804e6398485047e7
 
 
 3 straipsnio 2 dalyje vietoj skaičiaus „3 774“ įrašyti skaičių „3 738“ ir šią dalį išdėstyti taip:
@@ -86,7 +91,7 @@ Patvirtinti Lietuvos Respublikos 2009 metų valstybės biudžetą – 22 879 810
 
 
 
-### 4 straipsnis. 6 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-971d6ee078967f3d268545b0
 
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -96,71 +101,71 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas
+### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-19d4f3bb0e1adfec04ab7631
 
 
-1. Pakeisti [[#^74f4be31f502763a3f581eec|7 straipsnio 1 dalį]] ir ją išdėstyti taip: ^8e9688fcd75f899b6d794487
+1. Pakeisti [[#^s-371fc46ce9bbf0e068c12291|7 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-30a62e377cc3d34465046ac1
 
 
 „1. Nustatyti, kad 2009 metais naujos valstybės garantijos nebus teikiamos, išskyrus atvejus, kai valstybės garantijos teikiamos pagal atskirą Lietuvos Respublikos Seimo priimtą įstatymą dėl bankų gaunamų paskolų ar kitaip prisiimamų finansinių įsipareigojimų siekiant stiprinti bankų sistemos Lietuvoje finansinį stabilumą ir patikimumą, suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio 3 ir 5 dalyse nurodytiems prisiimamiems įsipareigojimams užtikrinti.“
 
 
-2. Papildyti [[#7 straipsnis. 10 straipsnio pakeitimas|7 straipsnį]] nauja [[#^2cb5bf7bb450e6f0c468035d|2 dalimi]]: ^2cb5bf7bb450e6f0c468035d
+2. Papildyti [[#^s-13f9b69a9cc8b45f0016a38a|7 straipsnį]] nauja [[#^s-20e73e87b3070cc30f8c55e9|2 dalimi]]: ^s-20e73e87b3070cc30f8c55e9
 
 
 „2. Nustatyti, kad suteiktų garantijų pagal atskirą Lietuvos Respublikos Seimo priimtą įstatymą dėl bankų gaunamų paskolų ar kitaip prisiimamų finansinių įsipareigojimų siekiant stiprinti bankų sistemos Lietuvoje finansinį stabilumą ir patikimumą suma negali viršyti 3 000 000 tūkst. litų.“
 
 
-3. Buvusias [[#7 straipsnis. 10 straipsnio pakeitimas|7 straipsnio]] 2 ir [[#^d2c39eb4dabe728bec758439|3 dalis]] laikyti atitinkamai 3 ir [[#^045bf9f415a6098300c14662|4 dalimis]]. ^d2c39eb4dabe728bec758439
+3. Buvusias [[#^s-13f9b69a9cc8b45f0016a38a|7 straipsnio]] 2 ir [[#^s-56844cbaa0950ba83be11695|3 dalis]] laikyti atitinkamai 3 ir [[#^s-4c301c9beb3507d1ed569e10|4 dalimis]]. ^s-56844cbaa0950ba83be11695
 
 
-4. Papildyti 7 straipsnį 5 dalimi: ^045bf9f415a6098300c14662
+4. Papildyti 7 straipsnį 5 dalimi: ^s-4c301c9beb3507d1ed569e10
 
 
 „5. Nustatyti, kad valstybės prisiimtų garantinių įsipareigojimų dėl studentams teikiamų paskolų suma negali viršyti 100 000 tūkst. litų.“
 
 
 
-### 6 straipsnis. 8 straipsnio pakeitimas
+### 6 straipsnis. 8 straipsnio pakeitimas ^s-69ded9b288c96d1a81d5e324
 
 
-[[#8 straipsnis. 13 straipsnio 1 punkto pakeitimas|8 straipsnyje]] vietoj skaičiaus „1 660 000“ įrašyti skaičių „5 850 000“ ir šį straipsnį išdėstyti taip:
+[[#^s-1eca60a16fabc45914eac4bf|8 straipsnyje]] vietoj skaičiaus „1 660 000“ įrašyti skaičių „5 850 000“ ir šį straipsnį išdėstyti taip:
 
 
 
-„[[#8 straipsnis. 13 straipsnio 1 punkto pakeitimas|8 straipsnis]]. Vyriausybės grynojo skolinimosi limitas
+„[[#^s-1eca60a16fabc45914eac4bf|8 straipsnis]]. Vyriausybės grynojo skolinimosi limitas
 
 
 Nustatyti 2009 metų Vyriausybės grynojo skolinimosi limitą – 5 850 000 tūkst. litų.“
 
 
 
-### 7 straipsnis. 10 straipsnio pakeitimas
+### 7 straipsnis. 10 straipsnio pakeitimas ^s-13f9b69a9cc8b45f0016a38a
 
 
-1. Pakeisti 10 straipsnio 3 punktą ir jį išdėstyti taip: ^74f4be31f502763a3f581eec
+1. Pakeisti 10 straipsnio 3 punktą ir jį išdėstyti taip: ^s-371fc46ce9bbf0e068c12291
 
 
 „3) laikantis Vyriausybės grynojo skolinimosi limito, išleisti Vyriausybės vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui finansuoti bei valstybės piniginių išteklių srautams subalansuoti, valstybės investicijoms finansuoti, valstybės skolai dengti, apmokėti su valstybės skola susijusioms išlaidoms, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, prireikus tiesioginėms išmokoms Lietuvos žemės ūkio veiklos subjektams mokėti, išlaidoms, susijusioms su priemonių, finansuojamų iš Europos Sąjungos finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinimu, finansuoti, turtinei ir neturtinei žalai, priteistai iš Lietuvos valstybės vykdant arbitražų ar teismų sprendimus, atlyginti;“.
 
 
-2. Pakeisti 10 straipsnio 4 punktą ir jį išdėstyti taip: ^f4d825e7806e0c2cec610d95
+2. Pakeisti 10 straipsnio 4 punktą ir jį išdėstyti taip: ^s-9d3cd6583f59faf935a14243
 
 
 „4) perskirstyti tarp asignavimų valdytojų, investavimo sričių ir ekonominės klasifikacijos straipsnių programų asignavimų dalį, numatytą priemonėms, remiamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinti;“.
 
 
-3. 10 straipsnio 5 punktą pripažinti netekusiu galios. ^09a9d053f8c301c293dd6017
+3. 10 straipsnio 5 punktą pripažinti netekusiu galios. ^s-460d3b704ba96f6765300dbc
 
 
-4. Pakeisti 10 straipsnio 18 punktą ir jį išdėstyti taip: ^2a1f7ebaa025cb69ba8ecaf7
+4. Pakeisti 10 straipsnio 18 punktą ir jį išdėstyti taip: ^s-513f838045c883e308715f34
 
 
 „18) paskirstyti pagal universitetus studijų krepšeliui valstybės biudžete numatytus asignavimus, skirtus studentų, 2009 metais priimamų studijuoti pagal pirmosios pakopos, vientisųjų, antrosios pakopos bei laipsnio nesuteikiančių (išskyrus rezidentūros studijas) studijų programas, studijoms, stipendijoms bei daliai administravimo ir ūkio išlaidų;“.
 
 
 
-### 8 straipsnis. 13 straipsnio 1 punkto pakeitimas
+### 8 straipsnis. 13 straipsnio 1 punkto pakeitimas ^s-1eca60a16fabc45914eac4bf
 
 
 Pakeisti 13 straipsnio 1 punktą ir jį išdėstyti taip:
@@ -170,7 +175,7 @@ Pakeisti 13 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 
-### 9 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-a9bb8a005684daf974c34cd8
 
 
 Pakeisti Įstatymo 1 priedėlį ir jį išdėstyti taip:
@@ -179,7 +184,7 @@ Pakeisti Įstatymo 1 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 1 priedėlis
 
 LIETUVOS RESPUBLIKOS 2009 METŲ VALSTYBĖS BIUDŽETAS
@@ -393,7 +398,7 @@ ASIGNAVIMAI
 
 
 
-## I. RESPUBLIKOS PREZIDENTUI, SEIMUI, VYRIAUSYBEI ATSKAITINGOS INSTITUCIJOS
+## I. RESPUBLIKOS PREZIDENTUI, SEIMUI, VYRIAUSYBEI ATSKAITINGOS INSTITUCIJOS ^s-eff459fe4b1b3cb362f73156
 
 
 
@@ -540,7 +545,7 @@ ASIGNAVIMAI
  1 447
 
 
-## II. MINISTERIJOS
+## II. MINISTERIJOS ^s-43291a97dee22bc8c0676273
 
 
 
@@ -659,7 +664,7 @@ ASIGNAVIMAI
  18 343
 
 
-## III. APSKRITYS
+## III. APSKRITYS ^s-63bf9adb97311c353ffcbe33
 
 
 
@@ -736,7 +741,7 @@ ASIGNAVIMAI
  5 003
 
 
-## IV. VYRIAUSYBĖS ĮSTAIGOS
+## IV. VYRIAUSYBĖS ĮSTAIGOS ^s-6bbc84503b5e03f11dd0a6c7
 
 
 
@@ -841,7 +846,7 @@ ASIGNAVIMAI
  0
 
 
-## V. ĮSTAIGOS PRIE MINISTERIJŲ
+## V. ĮSTAIGOS PRIE MINISTERIJŲ ^s-55a31518e73d55e325cd9425
 
 
 
@@ -1219,7 +1224,7 @@ ASIGNAVIMAI
  5 967
 
 
-## VI. KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS
+## VI. KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS ^s-ad39d82426f7fe1449b8656c
 
 
 
@@ -1289,7 +1294,7 @@ ASIGNAVIMAI
  0
 
 
-## VII. ŠVIETIMO, KULTŪROS IR MOKSLO ORGANIZACIJOS (INSTITUTAI)
+## VII. ŠVIETIMO, KULTŪROS IR MOKSLO ORGANIZACIJOS (INSTITUTAI) ^s-115cb3277751ee47a5d03403
 
 
 
@@ -1817,10 +1822,10 @@ ASIGNAVIMAI
 
 
 
-### 10 straipsnis. Įstatymo 2 priedėlio pakeitimas ir papildymas
+### 10 straipsnis. Įstatymo 2 priedėlio pakeitimas ir papildymas ^s-142640c4ecc8bf4908f62594
 
 
-1. Įstatymo 2 priedėlio eilutėje „Aplinkos ministerija“ po skaičiaus „58 271“ įrašyti žvaigždutę (*), eilutėje „Finansų ministerija“ po skaičiaus „23 500“ įrašyti žvaigždutę (*) ir šias eilutes išdėstyti taip: ^0a7e24cb703a2985906d2ab8
+1. Įstatymo 2 priedėlio eilutėje „Aplinkos ministerija“ po skaičiaus „58 271“ įrašyti žvaigždutę (*), eilutėje „Finansų ministerija“ po skaičiaus „23 500“ įrašyti žvaigždutę (*) ir šias eilutes išdėstyti taip: ^s-fc020dc7c2e3017d56437b6c
 
 
  „Aplinkos ministerija
@@ -1831,21 +1836,21 @@ ASIGNAVIMAI
  23 500 *“
 
 
-2. Įstatymo 2 priedėlio eilutėje „Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos“ po skaičiaus „1 340 616“ įrašyti žvaigždutę (*) ir šią eilutę išdėstyti taip: ^4ff8b82be9ad5d068fc275c4
+2. Įstatymo 2 priedėlio eilutėje „Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos“ po skaičiaus „1 340 616“ įrašyti žvaigždutę (*) ir šią eilutę išdėstyti taip: ^s-1572f87f6f54a03a9c272df0
 
 
  „Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos
  1 340 616*“
 
 
-3. Įstatymo 2 priedėlio eilutėje „Lietuvos Respublikos ryšių reguliavimo tarnyba“ po skaičiaus „19 000“ įrašyti žvaigždutę (*) ir šią eilutę išdėstyti taip: ^ebecab6079f79e6d2ab0ec08
+3. Įstatymo 2 priedėlio eilutėje „Lietuvos Respublikos ryšių reguliavimo tarnyba“ po skaičiaus „19 000“ įrašyti žvaigždutę (*) ir šią eilutę išdėstyti taip: ^s-1d853e4ddcd7dfcf383ead87
 
 
  „Lietuvos Respublikos ryšių reguliavimo tarnyba
  19 000*“
 
 
-4. Papildyti Įstatymo 2 priedėlį išnaša, pažymėta žvaigždute: ^e0370658760151bd60e914ff
+4. Papildyti Įstatymo 2 priedėlį išnaša, pažymėta žvaigždute: ^s-e75846b661e1846289e1d835
 „* Iš šių lėšų skirti bendroms biudžeto reikmėms:
 Aplinkos ministerijos – 28 000 tūkst. Lt (iš jų: 7 000 tūkst. Lt – iš Specialiosios Lietuvos aplinkos apsaugos investicijų fondo programos; 17 000 tūkst. Lt – iš Specialiosios gaminių ar pakuotės atliekų tvarkymo programos; 4 000 tūkst. Lt – iš Specialiosios bendrųjų miškų ūkio reikmių finansavimo programos);
 Finansų ministerijos – 8 750 tūkst. Lt (iš Specialiosios nuompinigių už valstybės materialųjį turtą, pervestų į Lietuvos Respublikos valstybės biudžetą, kompensavimo programos);
@@ -1854,7 +1859,7 @@ Lietuvos Respublikos ryšių reguliavimo tarnybos – 3 000 tūkst. Lt.“
 
 
 
-### 11 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-4de1aa68566794892c79d0c2
 
 
 Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
@@ -1863,7 +1868,7 @@ Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 3 priedėlis
 
 LIETUVOS RESPUBLIKOS 2009 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI TEISMAMS
@@ -2223,7 +2228,7 @@ LIETUVOS RESPUBLIKOS 2009 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI TEISMAMS
 
 
 
-### 12 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 12 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-03c17e87670c9d433407d7f6
 
 
 Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
@@ -2234,7 +2239,7 @@ Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
 
 
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 4 priedėlis
 
 LIETUVOS RESPUBLIKOS 2009 METŲ VALSTYBĖS BIUDŽETO SPECIALIOSIOS TIKSLINĖS DOTACIJOS SAVIVALDYBIŲ BIUDŽETAMS
@@ -3184,7 +3189,7 @@ tūkst. Lt
 
 
 
-### 13 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 13 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-59bb62b1a21181850b2f3bee
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -3193,7 +3198,7 @@ Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
 
 
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 5 priedėlis
 
 LIETUVOS RESPUBLIKOS 2009 METŲ VALSTYBĖS BIUDŽETO SPECIALIOSIOS TIKSLINĖS DOTACIJOS SAVIVALDYBIŲ BIUDŽETAMS ŠIOMS PROGRAMOMS
@@ -3339,7 +3344,7 @@ tūkst. Lt
 
 
 
-### 14 straipsnis. Įstatymo 7 priedėlio pakeitimas
+### 14 straipsnis. Įstatymo 7 priedėlio pakeitimas ^s-839b193cc9ff39aac3b8cf0b
 
 
 Pakeisti Įstatymo 7 priedėlį ir jį išdėstyti taip:
@@ -3348,7 +3353,7 @@ Pakeisti Įstatymo 7 priedėlį ir jį išdėstyti taip:
 
 
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 7 priedėlis
 
 2009 METŲ IŠ SAVIVALDYBIŲ BIUDŽETŲ VALSTYBĖS BIUDŽETUI GRĄŽINAMOS BENDROSIOS DOTACIJOS KOMPENSACIJOS
@@ -3678,10 +3683,10 @@ Pakeisti Įstatymo 7 priedėlį ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. Įstatymo 8 priedėlio pakeitimas
+### 15 straipsnis. Įstatymo 8 priedėlio pakeitimas ^s-faf061a326612e7e20c20f70
 
 
-1. Įstatymo 8 priedėlio skyriaus „2009 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“ III skirsnio „Išlaidos“ pirmoje pastraipoje vietoj skaičiaus „600 000“ įrašyti skaičių „495 700“, trečioje pastraipoje „pensijų sistemos reformai finansuoti“ vietoj skaičiaus „600 000“ įrašyti skaičių „495 700“ ir šį skirsnį išdėstyti taip: ^018d3c31fed45d20682ec017
+1. Įstatymo 8 priedėlio skyriaus „2009 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“ III skirsnio „Išlaidos“ pirmoje pastraipoje vietoj skaičiaus „600 000“ įrašyti skaičių „495 700“, trečioje pastraipoje „pensijų sistemos reformai finansuoti“ vietoj skaičiaus „600 000“ įrašyti skaičių „495 700“ ir šį skirsnį išdėstyti taip: ^s-5d308f0d90b79c913c7a5e7e
 
 
  „III. Išlaidos
@@ -3695,7 +3700,7 @@ Pakeisti Įstatymo 7 priedėlį ir jį išdėstyti taip:
 
 
 
-2. Įstatymo 8 priedėlio skyriaus „2009 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“ V skirsnio eilutėje „Numatomas lėšų likutis pagal 2010 m. sausio 1 d. būklę“ vietoj skaičiaus „1 450 000“ įrašyti skaičių „1 554 300“ ir šią eilutę išdėstyti taip: ^1070450c1316e90fe31ee29e
+2. Įstatymo 8 priedėlio skyriaus „2009 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“ V skirsnio eilutėje „Numatomas lėšų likutis pagal 2010 m. sausio 1 d. būklę“ vietoj skaičiaus „1 450 000“ įrašyti skaičių „1 554 300“ ir šią eilutę išdėstyti taip: ^s-1f8efaeb4ebe0b47d479b610
 
 
  „V. Numatomas lėšų likutis pagal 2010 m. sausio 1 d. būklę
@@ -3705,7 +3710,7 @@ Pakeisti Įstatymo 7 priedėlį ir jį išdėstyti taip:
 
 
 
-### 16 straipsnis. Įstatymo 9 priedėlio pakeitimas
+### 16 straipsnis. Įstatymo 9 priedėlio pakeitimas ^s-65f740d55db81acc8d34f95e
 
 
 Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
@@ -3714,7 +3719,7 @@ Pakeisti Įstatymo 9 priedėlį ir jį išdėstyti taip:
 
 
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 9 priedėlis
 
 VALSTYBĖS INVESTICIJŲ 2009–2011 METŲ PROGRAMA
@@ -3829,7 +3834,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
 
-### 17 straipsnis. Įstatymo papildymas 11 priedėliu
+### 17 straipsnis. Įstatymo papildymas 11 priedėliu ^s-a54c9a180e46db54f1de4090
 
 
 Papildyti Įstatymą 11 priedėliu:
@@ -3838,7 +3843,7 @@ Papildyti Įstatymą 11 priedėliu:
 
 
 2008 m. gruodžio 22 d.
-įstatymo Nr. XI-96
+[[latest/TAR.D641C5B5ADFD|įstatymo Nr. XI-96]]
 11 priedėlis
 
 2009 METŲ PAJAMŲ IŠ GYVENTOJŲ PAJAMŲ MOKESČIO SUMAŽINIMAS

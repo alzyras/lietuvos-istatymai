@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DD4210F04EF8"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su Europos Tarybos Ministrų Komiteto priimtomis pataisomis ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su Europos Tarybos Ministrų Komiteto priimtomis pataisomis ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su Europos Tarybos Ministrų Komiteto priimtomis pataisomis ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-04-13"
 latest_path: "latest/TAR.DD4210F04EF8.md"
 latest_sha256: "793a68798eb530e6116a18cf1771267c243d2604c1eb120cac6c170d99cb7668"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DD4210F04EF8]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su Europos Tarybos Ministrų Komiteto priimtomis pataisomis ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DD4210F04EF8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DD4210F04EF8
+- Ryšiai: [[Ryšiai/TAR.DD4210F04EF8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-4c16d733d08cc9c1fd7e7450
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą Nr. 989, ratifikuoja 1981 m. sausio 28 d. Strasbūre sudarytą Konvenciją dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su pataisomis, priimtomis Europos Tarybos Ministrų Komiteto 1999 m. birželio 15 d. Strasbūre.
 
 
 
-### 2 straipsnis. Konvencijos įgyvendinimas
+### 2 straipsnis. Konvencijos įgyvendinimas ^s-32885bc975c8afb91fc461de
 
 
 Vadovaudamasi Konvencijos 13 straipsnio 2 dalies a punktu, Lietuvos Respublikos Vyriausybė paskiria instituciją šios Konvencijos nuostatoms įgyvendinti.

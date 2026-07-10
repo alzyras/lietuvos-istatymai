@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1866A40EE952"
 pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo įstatymas"
+  - "sveikatos draudimo įstatymo 6 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.1866A40EE952.md"
 latest_sha256: "a00c321d515320bd6046d19116a6783643dbabfc0807fe8ebba3653c1be09217"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1866A40EE952]]"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1866A40EE952.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1866A40EE952
+- Ryšiai: [[Ryšiai/TAR.1866A40EE952|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies papildymas 19 punktu
+### 1 straipsnis. 6 straipsnio 4 dalies papildymas 19 punktu ^s-f868ec953a68cfa90db7ea6f
 
 
 Papildyti 6 straipsnio 4 dalį 19 punktu:
@@ -43,7 +48,7 @@ Papildyti 6 straipsnio 4 dalį 19 punktu:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-608d09962a37e104f73f63a9
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.805A07520DB0"
 pavadinimas: "Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 10, 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 10, 11 straipsnių pakeitimo įstatymas"
+  - "strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 10, 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-07-15"
 latest_path: "latest/TAR.805A07520DB0.md"
 latest_sha256: "b14b8613594870befc9da8c5a9a6337849ce772c7056adf04dc980d1be6dfdeb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.805A07520DB0]]"
 ---
 # Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 10, 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.805A07520DB0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.805A07520DB0
+- Ryšiai: [[Ryšiai/TAR.805A07520DB0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 ir 2 dalių papildymas ir pakeitimas
+### 1 straipsnis. 6 straipsnio 1 ir 2 dalių papildymas ir pakeitimas ^s-c7baa660102e169c4c7d82e6
 
 
-1. Papildyti 6 straipsnio 1 dalį antruoju sakiniu ir šią dalį išdėstyti taip: ^76c29d68220967ee294782ed
+1. Papildyti 6 straipsnio 1 dalį antruoju sakiniu ir šią dalį išdėstyti taip: ^s-39311437b1195df6bb158b8a
 
 
 „Kontroliuojamųjų prekių importui, tranzitui ir eksportui reikalinga Ūkio ministerijos licencija. Šis reikalavimas netaikomas, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės.“
 
 
-2. 6 straipsnio 2 dalyje vietoj žodžių „Aplinkos apsaugos“ įrašyti žodį „Aplinkos“ ir šią dalį išdėstyti taip: ^ee12b5dd677eb9e7118b0e07
+2. 6 straipsnio 2 dalyje vietoj žodžių „Aplinkos apsaugos“ įrašyti žodį „Aplinkos“ ir šią dalį išdėstyti taip: ^s-1e4421840e731b0e54c45264
 
 
 „Lietuvos Respublikos Vyriausybės nustatyta tvarka Aplinkos, Krašto apsaugos, Užsienio reikalų, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos ir valstybinės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, pateikia savo išvadas Ūkio ministerijai, kai ji priima galutinį sprendimą išduoti licenciją, bei kontroliuoja šių prekių importo ir eksporto sandorius. Ūkio ministerija vadovauja importo, tranzito ir eksporto kontrolės darbams bei koordinuoja šią veiklą Lietuvoje.“
 
 
 
-### 2 straipsnis. 10 straipsnio pakeitimas
+### 2 straipsnis. 10 straipsnio pakeitimas ^s-b8351417963995b861f0b838
 
 
 10 straipsnyje vietoj žodžių „Aplinkos apsaugos“ įrašyti žodį „Aplinkos“ ir šį straipsnį išdėstyti taip:
@@ -60,7 +65,7 @@ Lietuvos Respublikos Vyriausybės nustatyta tvarka Ūkio ministerijos ar eksport
 
 
 
-### 3 straipsnis. 11 straipsnio pakeitimas
+### 3 straipsnis. 11 straipsnio pakeitimas ^s-8ccb1e404a3cdc91b755d711
 
 
 11 straipsnyje vietoj žodžių „Aplinkos apsaugos“ įrašyti žodį „Aplinkos“ ir šį straipsnį išdėstyti taip:

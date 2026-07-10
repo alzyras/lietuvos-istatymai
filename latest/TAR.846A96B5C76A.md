@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.846A96B5C76A"
 pavadinimas: "Lietuvos Respublikos architektų rūmų įstatymas"
+aliases:
+  - "Lietuvos Respublikos architektų rūmų įstatymas"
+  - "architektų rūmų įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-09"
 latest_path: "latest/TAR.846A96B5C76A.md"
 latest_sha256: "b4843961b8542e48a8caa2e86f7f599512c330dec5452bb82e77dee89adbd7bc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.846A96B5C76A]]"
 ---
 # Lietuvos Respublikos architektų rūmų įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.846A96B5C76A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.846A96B5C76A
+- Ryšiai: [[Ryšiai/TAR.846A96B5C76A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,223 +37,223 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS ^s-bf4b77eb300eb403515f8861
 BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis ^s-1fba22c0af37eee4584bb28d
 
 
-1. Šis įstatymas nustato Lietuvos Respublikos architektų rūmų (toliau – Rūmai) steigimą, funkcijas, veiklą ir valdymą. ^c306ae174de904a8a3029d10
+1. Šis įstatymas nustato Lietuvos Respublikos architektų rūmų (toliau – Rūmai) steigimą, funkcijas, veiklą ir valdymą. ^s-4808015491e05cf40b9411c4
 
 
-2. Rūmų steigimo tikslas – užtikrinti architektūrinės veiklos skaidrumą ir kokybę, rūpintis architektų atestavimo, kvalifikacijos pripažinimo, profesinės kvalifikacijos tobulinimo, profesinės etikos standartų laikymosi klausimais, vykdyti profesinės veiklos stebėseną, atstovauti architektams santykiuose su valstybės ir savivaldos institucijomis, kitais juridiniais ir fiziniais asmenimis nacionaliniu bei tarptautiniu lygiu, dalyvauti ekspertu teismuose ir kitose institucijose architektų profesinės veiklos klausimais, tenkinti ir ginti su architektūra susijusius viešuosius interesus, spręsti kitus susijusius klausimus. ^ffbe37f829c368f608664da4
+2. Rūmų steigimo tikslas – užtikrinti architektūrinės veiklos skaidrumą ir kokybę, rūpintis architektų atestavimo, kvalifikacijos pripažinimo, profesinės kvalifikacijos tobulinimo, profesinės etikos standartų laikymosi klausimais, vykdyti profesinės veiklos stebėseną, atstovauti architektams santykiuose su valstybės ir savivaldos institucijomis, kitais juridiniais ir fiziniais asmenimis nacionaliniu bei tarptautiniu lygiu, dalyvauti ekspertu teismuose ir kitose institucijose architektų profesinės veiklos klausimais, tenkinti ir ginti su architektūra susijusius viešuosius interesus, spręsti kitus susijusius klausimus. ^s-16490c7a8379cd4ef5d11a3c
 Straipsnio dalies pakeitimai:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-3. Šio įstatymo nuostatos yra suderintos su priede pateiktu Europos Sąjungos teisės aktu. ^a868ef2e69af97c88eabc692
+3. Šio įstatymo nuostatos yra suderintos su priede pateiktu Europos Sąjungos teisės aktu. ^s-6658463030ad741988b9e257
 
 
 
-### 2 straipsnis. Rūmų teisinis statusas
+### 2 straipsnis. Rūmų teisinis statusas ^s-8648847d22489e572807beb1
 
 
-1. Rūmai – pagal šį įstatymą ir Lietuvos Respublikos asociacijų įstatymą įsteigtas ribotos civilinės atsakomybės viešasis juridinis asmuo, vienijantis atestuotus architektus ir įgyvendinantis atestuotų architektų profesinę savivaldą. Rūmų, kaip juridinio asmens, teisinė forma yra asociacija. ^6158b878f7100e62834a6f50
+1. Rūmai – pagal šį įstatymą ir Lietuvos Respublikos asociacijų įstatymą įsteigtas ribotos civilinės atsakomybės viešasis juridinis asmuo, vienijantis atestuotus architektus ir įgyvendinantis atestuotų architektų profesinę savivaldą. Rūmų, kaip juridinio asmens, teisinė forma yra asociacija. ^s-900c1f7a2099c0bcdd908d74
 Straipsnio dalies pakeitimai:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-2. Rūmai turi savo sąskaitas banke. ^8d2fd694d080d81cb1c41d13
+2. Rūmai turi savo sąskaitas banke. ^s-70c823b39788e14e98a9de78
 
 
-3. Rūmų buveinė yra Lietuvos Respublikoje, Vilniuje. ^1c6c09c14ede0ecd7113020d
+3. Rūmų buveinė yra Lietuvos Respublikoje, Vilniuje. ^s-b85d1cae3e9d127255b6ac05
 
 
-4. Rūmai savo veikloje vadovaujasi savo įstatais – Rūmų statutu, Asociacijų įstatymu, Civiliniu kodeksu, šiuo ir kitais įstatymais, kitais teisės aktais. ^84a7ddaefc7759c2e830502a
+4. Rūmai savo veikloje vadovaujasi savo įstatais – Rūmų statutu, [[latest/TAR.FF00B0EA2F0E|Asociacijų įstatymu]], Civiliniu kodeksu, šiuo ir kitais įstatymais, kitais teisės aktais. ^s-9f7e82bc9cf90b2ac03609fb
 
 
 
-### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS ^s-1a48ce3fca2f07533e637cff
 RŪMŲ VEIKLA IR RŪMŲ NARIAI
 Pakeistas skirsnio pavadinimas:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 3 straipsnis. Rūmų funkcijos ir teisės
+### 3 straipsnis. Rūmų funkcijos ir teisės ^s-59aec51a6583374166a2ebb6
 
 
-1. Rūmai atlieka šias funkcijas: ^b1d95b43a2136f9dfe40a1f3
+1. Rūmai atlieka šias funkcijas: ^s-ce2c71ef3ace58a2846cfe8f
 
 
-1) Lietuvos Respublikos įstatymuose nustatyta tvarka ir atvejais atestuoja architektus, vykdo Europos Sąjungos, Europos ekonominės erdvės valstybių narių, Šveicarijos Konfederacijos architektų turimos teisės, nurodytos Lietuvos Respublikos statybos įstatymo 12 straipsnio 7 dalyje, pripažinimą (toliau – teisės pripažinimas), atlieka kompetentingos institucijos funkcijas, nustatytas Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, išskyrus architekto profesinės kvalifikacijos, įgytos užsienio valstybėje, pripažinimo reglamentavimą architektūros valdymo srityje; ^f3aa7789c1fd706fe72d0dad
+1) Lietuvos Respublikos įstatymuose nustatyta tvarka ir atvejais atestuoja architektus, vykdo Europos Sąjungos, Europos ekonominės erdvės valstybių narių, Šveicarijos Konfederacijos architektų turimos teisės, nurodytos [[latest/TAR.F31E79DEC55D#^s-0d1275fb626dce1281c6d762|Lietuvos Respublikos statybos įstatymo 12 straipsnio 7 dalyje]], pripažinimą (toliau – teisės pripažinimas), atlieka kompetentingos institucijos funkcijas, nustatytas [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]], išskyrus architekto profesinės kvalifikacijos, įgytos užsienio valstybėje, pripažinimo reglamentavimą architektūros valdymo srityje; ^s-9231554820a4d382e5e55f2c
 Straipsnio punkto pakeitimai:
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-2) Lietuvos Respublikos aplinkos ministro nustatyta tvarka tvarko atestuotų architektų ir architektų, kurių teisė pripažinta, sąrašą; ^322d668339f9701a004fb33c
+2) Lietuvos Respublikos aplinkos ministro nustatyta tvarka tvarko atestuotų architektų ir architektų, kurių teisė pripažinta, sąrašą; ^s-b3d4785e61abd29455b1d091
 Straipsnio punkto pakeitimai:
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-3) profesinės etikos kodekse nustato architektų profesinės etikos taisykles ir prižiūri, kaip jų laikomasi; ^fd489ddda604e634f457e233
+3) profesinės etikos kodekse nustato architektų profesinės etikos taisykles ir prižiūri, kaip jų laikomasi; ^s-1d79cc34f02895f18e652a3e
 
 
-4) vykdo architektūrinės veiklos stebėseną; ^bb577ab97fb1a70a6399215b
+4) vykdo architektūrinės veiklos stebėseną; ^s-064b7ac9a4ccbd562e384965
 
 
-5) organizuoja Rūmų narių kvalifikacijos kėlimą; ^fb5f17f208fa91189628b52e
+5) organizuoja Rūmų narių kvalifikacijos kėlimą; ^s-1adb4ce2c32d026597549b1c
 
 
-6) atlieka eksperto funkcijas architektūros, miestų planavimo ir teritorijų planavimo klausimais; ^852d648bc5c2881b066dbcdf
+6) atlieka eksperto funkcijas architektūros, miestų planavimo ir teritorijų planavimo klausimais; ^s-37dbf66b4c96c93c1634de54
 
 
-7) rengia teisės aktų, reglamentuojančių architektūrinę, urbanistinę ir teritorijų planavimo veiklą, projektus; ^f756e646ae52a7c6630aba70
+7) rengia teisės aktų, reglamentuojančių architektūrinę, urbanistinę ir teritorijų planavimo veiklą, projektus; ^s-e1e2418b41f28b3f59aa0f53
 
 
-8) atlieka kitas teisės aktų nustatytas funkcijas. ^44b025eba4549503e7d8802f
+8) atlieka kitas teisės aktų nustatytas funkcijas. ^s-2b918e02bd128cf243c34fb0
 
 
-2. Rūmai turi teisę: ^0f32a14ad4f0caf467455a34
+2. Rūmai turi teisę: ^s-c72a9e5f491754a8a67647ff
 
 
-1) atstovauti savo narių profesiniams interesams ir juos ginti; ^2a002a34f2275518bc50ba43
+1) atstovauti savo narių profesiniams interesams ir juos ginti; ^s-23610fd54f654f5c2cd19621
 
 
-2) teikti pasiūlymus dėl galiojančių teisės aktų keitimo; ^b39841c6d3a7ac3a7b86169a
+2) teikti pasiūlymus dėl galiojančių teisės aktų keitimo; ^s-f3d28c9a6f2fdcf702434c09
 
 
-3) dalyvauti sprendžiant architektų ir miestų planuotojų formaliojo ir neformaliojo švietimo klausimus; ^8442993e3c6f5239bbcb120f
+3) dalyvauti sprendžiant architektų ir miestų planuotojų formaliojo ir neformaliojo švietimo klausimus; ^s-3170fcd67aee931ac5e0c5c1
 
 
-4) dalyvauti sprendžiant architektūrinės veiklos gerinimo klausimus; ^77cd9b5170a571df82b95644
+4) dalyvauti sprendžiant architektūrinės veiklos gerinimo klausimus; ^s-d38d1d7152b11e22f8574b1a
 
 
-5) organizuoti visuomenės švietimą; ^869ec37c261900e5e5377ed3
+5) organizuoti visuomenės švietimą; ^s-2bb29ff8ececac8e06912727
 
 
-6) bendradarbiauti su valstybės, savivaldos institucijomis, kūrybinėmis, profesinėmis ir kitomis šalies bei užsienio organizacijomis; ^694e8c2943d6e4cfd484005c
+6) bendradarbiauti su valstybės, savivaldos institucijomis, kūrybinėmis, profesinėmis ir kitomis šalies bei užsienio organizacijomis; ^s-ce769c12cd87ac92f149d449
 
 
-7) nagrinėti kliento ir architekto ar architektų tarpusavio nesutarimus dėl profesinės etikos; ^590944bc95ff19a8f4f0ccd7
+7) nagrinėti kliento ir architekto ar architektų tarpusavio nesutarimus dėl profesinės etikos; ^s-f00b53f6f1bf70cc9a479653
 
 
-8) savo funkcijoms atlikti samdyti ekspertus, sudaryti laikinas darbo grupes, komisijas, kitus organus; ^da7673bb6b94a7064cd20b02
+8) savo funkcijoms atlikti samdyti ekspertus, sudaryti laikinas darbo grupes, komisijas, kitus organus; ^s-0112c08abfb6890393ae1c9f
 
 
-9) verstis įstatymų nedraudžiama ūkine komercine veikla, kuri yra neatsiejamai susijusi su jų veiklos tikslais; ^7d6f7867f5bb49c6840f08a9
+9) verstis įstatymų nedraudžiama ūkine komercine veikla, kuri yra neatsiejamai susijusi su jų veiklos tikslais; ^s-dc381bfd9beaf9a243ef557a
 
 
-10) steigti filialus ir atstovybes Lietuvos Respublikoje ir kitose valstybėse. Rūmų filialų ar atstovybių funkcijos ir uždaviniai nustatomi Rūmų statute; ^65d2b790d29cf3b5919ac1ac
+10) steigti filialus ir atstovybes Lietuvos Respublikoje ir kitose valstybėse. Rūmų filialų ar atstovybių funkcijos ir uždaviniai nustatomi Rūmų statute; ^s-545a092caf7fba79f56eceee
 
 
-11) dalyvauti ekspertu architektų profesinės veiklos klausimais teismuose ir kitose institucijose; ^24bb0b628535a761a438e891
+11) dalyvauti ekspertu architektų profesinės veiklos klausimais teismuose ir kitose institucijose; ^s-daa7bf83cf9a208ad9eaa8d1
 
 
-12) teikti savo nariams teisines paslaugas, atstovauti jiems santykiuose su valstybės ir savivaldos institucijomis, kitais juridiniais ir fiziniais asmenimis; ^c68a12719311a96f445345ed
+12) teikti savo nariams teisines paslaugas, atstovauti jiems santykiuose su valstybės ir savivaldos institucijomis, kitais juridiniais ir fiziniais asmenimis; ^s-ddb387e28fc74f487329c36f
 Papildyta straipsnio punktu:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-13) atstovauti savo nariams, kai įgyvendinamos jų autorių teisės ir jos ginamos; ^9ff6dd372835ca738f7a5398
+13) atstovauti savo nariams, kai įgyvendinamos jų autorių teisės ir jos ginamos; ^s-5d04697b9f2dfb4d1438807f
 Papildyta straipsnio punktu:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-14) ginčo atveju organizuoti savo narių sutaikinimo (mediacijos) procedūras; ^3822412e6dec513569c1dd9b
+14) ginčo atveju organizuoti savo narių sutaikinimo (mediacijos) procedūras; ^s-e4420ef969e24ea2543f8de2
 Papildyta straipsnio punktu:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-15) įgyvendinti kitas Rūmų statute numatytas teises. ^a1be3b634e5c8618780287de
+15) įgyvendinti kitas Rūmų statute numatytas teises. ^s-936cf626a3fc9a4379693e8f
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-3. Rūmų nariams teikiamos paslaugos ir pagrindinės jų teikimo sąlygos nustatomos Rūmų statute. Rūmų statutą tvirtina Rūmų narių susirinkimas. ^9b7eb252e8c28b7b270f5f5a
+3. Rūmų nariams teikiamos paslaugos ir pagrindinės jų teikimo sąlygos nustatomos Rūmų statute. Rūmų statutą tvirtina Rūmų narių susirinkimas. ^s-358987994060987bdae26013
 Papildyta straipsnio dalimi:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-### 4 straipsnis. Rūmų nariai, jų teisės ir pareigos
+### 4 straipsnis. Rūmų nariai, jų teisės ir pareigos ^s-c153916d1ce5f70fe2f1a9bd
 
 
-1. Rūmų nariais privalo būti visi atestuoti architektai, besiverčiantys atestuoto architekto veikla. Rūmų nariais gali būti ir architektai, kurių teisė verstis atestuoto architekto veikla pripažinta Lietuvos Respublikoje. ^8b97dcfdbd694e028770ad34
+1. Rūmų nariais privalo būti visi atestuoti architektai, besiverčiantys atestuoto architekto veikla. Rūmų nariais gali būti ir architektai, kurių teisė verstis atestuoto architekto veikla pripažinta Lietuvos Respublikoje. ^s-ff9ce76324461504b0ef9691
 
 
-2. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai nustatomi šio įstatymo [[#41 straipsnis. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai|41 straipsnyje]], jų įgyvendinimo tvarką nustato Rūmai. ^d58323637929e832d89c63a1
+2. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai nustatomi šio įstatymo [[#^s-6eac65ee998b54ceef9d70ab|41 straipsnyje]], jų įgyvendinimo tvarką nustato Rūmai. ^s-0ab8bbda1764168846a16e4b
 
 
-3. Rūmų nariai turi teisę: ^83269bb9cfc7151944f8da30
+3. Rūmų nariai turi teisę: ^s-f344a110f691af1aee795f94
 
 
-1) dalyvauti Rūmų veikloje, teikti pastabas ir pasiūlymus dėl Rūmų veiklos; ^4be21c929cdda89848e8cc6f
+1) dalyvauti Rūmų veikloje, teikti pastabas ir pasiūlymus dėl Rūmų veiklos; ^s-11ba54ee9eb9f7d6acccd0b0
 
 
-2) rinkti ir būti išrinkti į Rūmų organus; ^e393fb088a21dba71ca14c35
+2) rinkti ir būti išrinkti į Rūmų organus; ^s-bc6e9818fa4c6f4cd3e0b70c
 
 
-3) naudotis Rūmų teisinėmis ir kitomis paslaugomis; ^c8c990e2debd850bab0d2c30
+3) naudotis Rūmų teisinėmis ir kitomis paslaugomis; ^s-f71eef5a23f8bed9f8180e0d
 
 
-4) gauti informaciją apie Rūmų veiklą; ^6ee7d95300386ade1556e44b
+4) gauti informaciją apie Rūmų veiklą; ^s-2025271f125a28e196e54f2b
 
 
-5) apskųsti teismui Rūmų valdymo ir kitų organų sprendimus; ^29a0a1aec81e68ff914abf8c
+5) apskųsti teismui Rūmų valdymo ir kitų organų sprendimus; ^s-58f4efa8d3b95c09c5b52fa0
 
 
-6) sustabdyti narystę Rūmuose, kai nesiverčia atestuoto architekto veikla; ^50d24d45924820e4ca00a3a6
+6) sustabdyti narystę Rūmuose, kai nesiverčia atestuoto architekto veikla; ^s-a8b76fef4aa50f6fe1ddd273
 
 
-7) įgyvendinti kitas Rūmų statute numatytas teises. ^80661d310f04191d66d0e7d8
+7) įgyvendinti kitas Rūmų statute numatytas teises. ^s-d139140669edf913467afd33
 
 
-4. Rūmų narys privalo: ^2028373a76ec27c8191e1a44
+4. Rūmų narys privalo: ^s-a242233b28a0685f8e66dee6
 
 
-1) laikytis Rūmų statuto, profesinės etikos kodekso nuostatų; ^9363b08f946850381452b096
+1) laikytis Rūmų statuto, profesinės etikos kodekso nuostatų; ^s-c93106057b6aa320cb9ca7e8
 
 
-2) mokėti nario mokestį; ^d5de687f4d6257fe0c60b032
+2) mokėti nario mokestį; ^s-924a12be6f3cac88acca9ee6
 
 
-3) vykdyti privalomus Rūmų valdymo ar kitų organų sprendimus; ^5858ef95da4acfac190860e2
+3) vykdyti privalomus Rūmų valdymo ar kitų organų sprendimus; ^s-5c1ff4b00f050622ae6baba3
 
 
-4) teikti informaciją apie savo, kaip architekto, veiklą, kaip numatyta Rūmų statute; ^48b45d0cf8e888ce5fca2578
+4) teikti informaciją apie savo, kaip architekto, veiklą, kaip numatyta Rūmų statute; ^s-4aab2af9bcfb626148623263
 
 
-5) Rūmų nustatyta tvarka deklaruoti interesus ir nusišalinti, jeigu dalyvaujant Rūmų organų, išskyrus Rūmų narių susirinkimą, veikloje gali kilti interesų konfliktas, kai: ^8c14f2535f821e4480fb7270
+5) Rūmų nustatyta tvarka deklaruoti interesus ir nusišalinti, jeigu dalyvaujant Rūmų organų, išskyrus Rūmų narių susirinkimą, veikloje gali kilti interesų konfliktas, kai: ^s-7bc5107da9d89cf09ca566cb
 
 
 a) sprendžiami klausimai, susiję su paties nario vykdoma architekto veikla;
 
 
-b) sprendžiami klausimai, susiję su asmeniu, su kuriuo narys susijęs šeimos, artimos giminystės ir (ar) verslo ryšiais, susijusiais su jo privačiais interesais – jo (ar jam artimo asmens, kuris suprantamas taip, kaip tai apibrėžta Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme) suinteresuotumu asmenine turtine nauda;
+b) sprendžiami klausimai, susiję su asmeniu, su kuriuo narys susijęs šeimos, artimos giminystės ir (ar) verslo ryšiais, susijusiais su jo privačiais interesais – jo (ar jam artimo asmens, kuris suprantamas taip, kaip tai apibrėžta [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme]]) suinteresuotumu asmenine turtine nauda;
 
 
 c) pareiga nusišalinti yra nustatyta kituose įstatymuose;
 
 
-6) vykdyti kitas pareigas, kurias nustato Rūmų statutas. ^6c5e656ef76b1d30790ec5a5
+6) vykdyti kitas pareigas, kurias nustato Rūmų statutas. ^s-f0135d10e734ff59c572799b
 
 
-5. Visi Rūmų nariai, dalyvaudami Rūmų veikloje, turi lygias teises. ^4c4be6a547c287f19ebbc909
+5. Visi Rūmų nariai, dalyvaudami Rūmų veikloje, turi lygias teises. ^s-675d4b263b9c9481bad9d5f1
 
 
-6. Atestuoti architektai, tapdami Rūmų nariais, sustabdydami ar atnaujindami narystę Rūmuose, privalo sumokėti Rūmų nustatytus administravimo mokesčius, kurie apskaičiuojami atsižvelgiant į ekonomiškai pagrįstas paslaugos teikimo sąnaudas. ^5492ef99e84a4ef36de6d03a
+6. Atestuoti architektai, tapdami Rūmų nariais, sustabdydami ar atnaujindami narystę Rūmuose, privalo sumokėti Rūmų nustatytus administravimo mokesčius, kurie apskaičiuojami atsižvelgiant į ekonomiškai pagrįstas paslaugos teikimo sąnaudas. ^s-23e14ebbe36fe7895bdc567e
 
 
 Straipsnio pakeitimai:
@@ -256,76 +261,76 @@ Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 41 straipsnis. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai
+### 41 straipsnis. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai ^s-6eac65ee998b54ceef9d70ab
 
 
-1. Atestuotas architektas tampa Rūmų nariu, jeigu: ^a11daab124b23aa61afae596
+1. Atestuotas architektas tampa Rūmų nariu, jeigu: ^s-a27192f4637b6ccc6df625f6
 
 
-1) pateikia Rūmams jų nustatytos formos deklaraciją (pareiškimą) apie ketinimą pradėti verstis architekto kvalifikacijos atestate nurodyta atestuoto architekto veikla; ^7cd6e9dc3a390710a6f80aa9
+1) pateikia Rūmams jų nustatytos formos deklaraciją (pareiškimą) apie ketinimą pradėti verstis architekto kvalifikacijos atestate nurodyta atestuoto architekto veikla; ^s-3bac4a3db7d8b40d5c44f7ae
 
 
-2) turi galiojantį architekto kvalifikacijos atestatą; ^362e515589d6a9256c480512
+2) turi galiojantį architekto kvalifikacijos atestatą; ^s-411ec0c8af93223a8b18a269
 
 
-3) sumoka Rūmų nustatyto dydžio vienkartinį stojimo administravimo mokestį. ^5dfc85e82fc9af604b368bc9
+3) sumoka Rūmų nustatyto dydžio vienkartinį stojimo administravimo mokestį. ^s-4a64ff13d9c87272f3ea5055
 
 
-2. Rūmai ne vėliau kaip per 10 darbo dienų nuo [[#^a11daab124b23aa61afae596|šio straipsnio 1 dalyje]] nurodytų sąlygų įgyvendinimo dienos priima sprendimą dėl atestuoto architekto įrašymo į Rūmų narių sąrašą. Narystės Rūmuose pradžia laikoma Rūmų sprendimo įrašyti atestuotą architektą į Rūmų narių sąrašą diena. ^b6cfdb02a871dbe23a0bb76c
+2. Rūmai ne vėliau kaip per 10 darbo dienų nuo [[#^s-a27192f4637b6ccc6df625f6|šio straipsnio 1 dalyje]] nurodytų sąlygų įgyvendinimo dienos priima sprendimą dėl atestuoto architekto įrašymo į Rūmų narių sąrašą. Narystės Rūmuose pradžia laikoma Rūmų sprendimo įrašyti atestuotą architektą į Rūmų narių sąrašą diena. ^s-b949dd5a112686140ae95cf7
 
 
-3. Rūmų narys, nesiverčiantis architekto kvalifikacijos atestate nurodyta atestuoto architekto veikla, turi teisę sustabdyti narystę Rūmuose. Rūmų narys, norintis sustabdyti narystę Rūmuose, privalo: ^ee33fb0ca4445b2c91564b35
+3. Rūmų narys, nesiverčiantis architekto kvalifikacijos atestate nurodyta atestuoto architekto veikla, turi teisę sustabdyti narystę Rūmuose. Rūmų narys, norintis sustabdyti narystę Rūmuose, privalo: ^s-5a2b78d0607909acbd216c9a
 
 
-1) pateikti Rūmams Rūmų nustatytos formos prašymą dėl narystės Rūmuose sustabdymo; ^bd0bf98f28bef304302d98de
+1) pateikti Rūmams Rūmų nustatytos formos prašymą dėl narystės Rūmuose sustabdymo; ^s-53f25c7851f408ea29c733d6
 
 
-2) sumokėti Rūmų nustatyto dydžio narystės sustabdymo administravimo mokestį; ^9757df666e38025d4a13b17c
+2) sumokėti Rūmų nustatyto dydžio narystės sustabdymo administravimo mokestį; ^s-2299d977698e9975c2393565
 
 
-3) būti  sumokėjęs Rūmų nario mokestį. ^fdafdda756f28c318419e86f
+3) būti  sumokėjęs Rūmų nario mokestį. ^s-67cd6a962cf7a199ee1e3564
 
 
-4. Rūmai ne vėliau kaip per 10 darbo dienų nuo [[#^ee33fb0ca4445b2c91564b35|šio straipsnio 3 dalyje]] nurodytų sąlygų įgyvendinimo dienos priima sprendimą dėl atestuoto architekto, nesiverčiančio atestuoto architekto veikla, narystės Rūmuose sustabdymo. ^ba80e08d0ccd0c4fcc4138f4
+4. Rūmai ne vėliau kaip per 10 darbo dienų nuo [[#^s-5a2b78d0607909acbd216c9a|šio straipsnio 3 dalyje]] nurodytų sąlygų įgyvendinimo dienos priima sprendimą dėl atestuoto architekto, nesiverčiančio atestuoto architekto veikla, narystės Rūmuose sustabdymo. ^s-d8d961c19ad823d5087a8c16
 
 
-5. Narystė Rūmuose laikoma sustabdyta nuo Rūmų sprendimo sustabdyti narystę Rūmuose priėmimo dienos. Rūmai per 3 darbo dienas nuo sprendimo sustabdyti narystę Rūmuose priėmimo dienos duomenis apie atestuotus architektus, nesiverčiančius atestuoto architekto veikla, pateikia Lietuvos Respublikos architektūros įstatymo 9 straipsnio 11 dalyje nurodytose informacinėse sistemose. ^38d87a4e523b874f33945514
+5. Narystė Rūmuose laikoma sustabdyta nuo Rūmų sprendimo sustabdyti narystę Rūmuose priėmimo dienos. Rūmai per 3 darbo dienas nuo sprendimo sustabdyti narystę Rūmuose priėmimo dienos duomenis apie atestuotus architektus, nesiverčiančius atestuoto architekto veikla, pateikia [[latest/ea80d52054f211e7846ef01bfffb9b64#^s-a176c75d33ddb456daeb7c81|Lietuvos Respublikos architektūros įstatymo 9 straipsnio 11 dalyje]] nurodytose informacinėse sistemose. ^s-5d3aa8aa4397a468db2155a3
 
 
-6. Rūmų narys, sustabdęs narystę Rūmuose, privalo laikytis Architektūros įstatymo 9 straipsnio 7 dalies 2 punkte atestuotiems architektams nustatyto reikalavimo nesiversti atestuoto architekto veikla. ^e9ad84a74a6325af04f7528d
+6. Rūmų narys, sustabdęs narystę Rūmuose, privalo laikytis [[latest/ea80d52054f211e7846ef01bfffb9b64#^s-6fc0bf688a677ea0997f4f77|Architektūros įstatymo 9 straipsnio 7 dalies 2 punkte]] atestuotiems architektams nustatyto reikalavimo nesiversti atestuoto architekto veikla. ^s-ea87f491000f91b3651fd5bc
 
 
-7. Rūmų narys, norintis atnaujinti narystę Rūmuose, privalo: ^bbd13fc1080d76a9f583a612
+7. Rūmų narys, norintis atnaujinti narystę Rūmuose, privalo: ^s-291bccb53185eb43ba2c4749
 
 
-1) pateikti Rūmams Rūmų nustatytos formos prašymą dėl narystės Rūmuose atnaujinimo; ^f2d75d61019a5ad8600eff7f
+1) pateikti Rūmams Rūmų nustatytos formos prašymą dėl narystės Rūmuose atnaujinimo; ^s-2600b132726288443ae4b9db
 
 
-2) sumokėti Rūmų nustatyto dydžio narystės Rūmuose atnaujinimo administravimo mokestį; ^177fabe371ff95afdd885b14
+2) sumokėti Rūmų nustatyto dydžio narystės Rūmuose atnaujinimo administravimo mokestį; ^s-6015f2fae9f697f4bd4e67b4
 
 
-3) pateikti Rūmams dokumentus, įrodančius, kad narystės Rūmuose sustabdymo laikotarpiu tobulino kvalifikaciją Architektūros įstatymo [[#^a7201cce30f6bf9c459b218a|8 straipsnio 1 dalyje]] nurodytų įstatymų nustatytais pagrindais ir juose nustatytomis sąlygomis. ^6f7603d869e41563a2a009cd
+3) pateikti Rūmams dokumentus, įrodančius, kad narystės Rūmuose sustabdymo laikotarpiu tobulino kvalifikaciją [[latest/ea80d52054f211e7846ef01bfffb9b64#^s-673a5e2261e639d6b81b41e5|Architektūros įstatymo 8 straipsnio 1 dalyje]] nurodytų įstatymų nustatytais pagrindais ir juose nustatytomis sąlygomis. ^s-66fec0473e9c6d10b331ceea
 
 
-8. Rūmai ne vėliau kaip per 7 darbo dienas nuo [[#^bbd13fc1080d76a9f583a612|šio straipsnio 7 dalyje]] nurodytų dokumentų gavimo dienos patikrina, ar įgyvendinti [[#^bbd13fc1080d76a9f583a612|šio straipsnio 7 dalyje]] nustatyti reikalavimai, ir priima sprendimą dėl narystės Rūmuose atnaujinimo. ^966a37be74a51c5cf92781d2
+8. Rūmai ne vėliau kaip per 7 darbo dienas nuo [[#^s-291bccb53185eb43ba2c4749|šio straipsnio 7 dalyje]] nurodytų dokumentų gavimo dienos patikrina, ar įgyvendinti [[#^s-291bccb53185eb43ba2c4749|šio straipsnio 7 dalyje]] nustatyti reikalavimai, ir priima sprendimą dėl narystės Rūmuose atnaujinimo. ^s-5683d53f9fa26e2c118a314c
 
 
-9. Narystės Rūmuose sustabdymas laikomas panaikintu nuo Rūmų sprendimo atnaujinti narystę Rūmuose priėmimo dienos. ^03580c593cbff3369a0743dd
+9. Narystės Rūmuose sustabdymas laikomas panaikintu nuo Rūmų sprendimo atnaujinti narystę Rūmuose priėmimo dienos. ^s-287fe9fd0d956fea337ce396
 
 
-10. Rūmai per 3 darbo dienas nuo sprendimo atnaujinti narystę Rūmuose priėmimo dienos duomenis apie atestuotus architektus, atnaujinusius atestuoto architekto veiklą, pateikia Architektūros įstatymo 9 straipsnio  11 dalyje nurodytose informacinėse sistemose. ^ac5052cedbce65709d087cf7
+10. Rūmai per 3 darbo dienas nuo sprendimo atnaujinti narystę Rūmuose priėmimo dienos duomenis apie atestuotus architektus, atnaujinusius atestuoto architekto veiklą, pateikia [[latest/ea80d52054f211e7846ef01bfffb9b64#^s-a176c75d33ddb456daeb7c81|Architektūros įstatymo 9 straipsnio  11 dalyje]] nurodytose informacinėse sistemose. ^s-e20a50dfd01b406d87cf5eee
 
 
-11. Rūmų sprendimu narystė Rūmuose pasibaigia: ^2ee2ad82602d65f8e5cebb41
+11. Rūmų sprendimu narystė Rūmuose pasibaigia: ^s-6703ab41dc3ddf75b448a869
 
 
-1) kai įstatymų nustatytais pagrindais panaikinamas architekto kvalifikacijos atestato galiojimas; ^f7a0094039766214af8b4ff8
+1) kai įstatymų nustatytais pagrindais panaikinamas architekto kvalifikacijos atestato galiojimas; ^s-a6d9f9c654ec30497e314b42
 
 
-2) kai Rūmų narys miršta; ^27b35c3fefb8acb927c0cebc
+2) kai Rūmų narys miršta; ^s-b47a81e5a7cb8b89642c67e2
 
 
-3) Rūmų nario, kurio narystė Rūmuose neprivaloma, prašymu. ^5a55c33b2600a9142286cc3c
+3) Rūmų nario, kurio narystė Rūmuose neprivaloma, prašymu. ^s-0ad3d7b7f4aa81726d0d230a
 
 
 Papildyta straipsniu:
@@ -333,7 +338,7 @@ Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS ^s-e3e255eb1f838cf70c54e6dc
 RŪMŲ STATUTAS
 
 Skirsnio numeracijos pakeitimas:
@@ -341,108 +346,108 @@ Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 5 straipsnis. Rūmų statutas (toliau – Statutas)
+### 5 straipsnis. Rūmų statutas (toliau – Statutas) ^s-5a20258ebd50f0330a263437
 
 
-1. Statutas yra dokumentas, kuriuo Rūmai vadovaujasi savo veikloje. ^499cba0674f8c15c6ba19636
+1. Statutas yra dokumentas, kuriuo Rūmai vadovaujasi savo veikloje. ^s-26c3dec0121ff137d5a9716c
 
 
-2. Statute turi būti nurodyta: ^3b0a9ad77eb8973fe339a11c
+2. Statute turi būti nurodyta: ^s-ed618a38df4c48b19a1dbf60
 
 
-1) Rūmų pavadinimas; ^7a4f1419246ea084a6a70ac3
+1) Rūmų pavadinimas; ^s-d57393d664ac86516b93c4a1
 
 
-2) teisinė forma; ^885bee39f97c0d74e062ff44
+2) teisinė forma; ^s-539eb503a38c150a60ab89e0
 
 
-3) Rūmų buveinė (adresas); ^c17085122e497ec5b1596c6f
+3) Rūmų buveinė (adresas); ^s-e6c398396ea9659badb95e12
 
 
-4) veiklos tikslai ir uždaviniai; ^3e3bc891741a32c11c46a479
+4) veiklos tikslai ir uždaviniai; ^s-42d3640f101bde00f892859d
 
 
-5) Rūmų narių teisės ir pareigos; ^47cb1db4cc10c982aa18971f
+5) Rūmų narių teisės ir pareigos; ^s-a578066a3828f13f36cdb2e4
 
 
-6) Rūmų narių susirinkimo sušaukimo tvarka; ^3908af382a03d4df14a8d20f
+6) Rūmų narių susirinkimo sušaukimo tvarka; ^s-67d4ecce400164fcf898eaf5
 
 
-7) Rūmų narių susirinkimo sprendimų priėmimo tvarka; ^0df9f77b2eaa0b0d1b38a74f
+7) Rūmų narių susirinkimo sprendimų priėmimo tvarka; ^s-f4820db01853c4eee400f187
 
 
-8) Rūmų valdymo struktūra, Rūmų organų kompetencija, laikotarpis, kuriam jie sudaromi, jų sudarymo ir atšaukimo, sprendimų priėmimo tvarka; ^e16a58e7061a7bab254f8993
+8) Rūmų valdymo struktūra, Rūmų organų kompetencija, laikotarpis, kuriam jie sudaromi, jų sudarymo ir atšaukimo, sprendimų priėmimo tvarka; ^s-87bed6c281b7717746ef658c
 
 
-9) profesinės etikos kodekso priėmimo ir keitimo tvarka; ^c9b677a6b703813195206c68
+9) profesinės etikos kodekso priėmimo ir keitimo tvarka; ^s-afe26ca4ff4e1ded9df9bb50
 
 
-10) Rūmų filialų ir atstovybių funkcijos ir uždaviniai, jų steigimo bei jų veiklos nutraukimo tvarka; ^3cacc8a816aec5cf072b6cef
+10) Rūmų filialų ir atstovybių funkcijos ir uždaviniai, jų steigimo bei jų veiklos nutraukimo tvarka; ^s-9b58e8c89fbaa62d66d0e869
 
 
-11) architektų atestavimo vidaus tvarka; ^9d78cb0e55a8b79037ee6a0a
+11) architektų atestavimo vidaus tvarka; ^s-0943db3c566f90f41fb9ddc2
 
 
-12) ekspertinių išvadų architektų profesinės veiklos ir profesinės etikos klausimais rengimo, nagrinėjimo, priėmimo ir teikimo tvarka; ^e4c0eec4a50903b800f32fd6
+12) ekspertinių išvadų architektų profesinės veiklos ir profesinės etikos klausimais rengimo, nagrinėjimo, priėmimo ir teikimo tvarka; ^s-9b6cb610ae025fb2995bb9a2
 
 
-13) drausmės bylų dėl profesinės etikos kodekso pažeidimų nagrinėjimo tvarka; ^8066fff34d4289160e51c0e6
+13) drausmės bylų dėl profesinės etikos kodekso pažeidimų nagrinėjimo tvarka; ^s-76c970f74b8cba224b09c63e
 
 
-14) Rūmų nario mokesčio mokėjimo tvarka; ^2e48749f1b0cf16aaf444766
+14) Rūmų nario mokesčio mokėjimo tvarka; ^s-e02e91418757fbe77ccf52ab
 
 
-15) Rūmų lėšų naudojimo bei Rūmų veiklos kontrolės tvarka; ^88f8c6460afab1fe96430a95
+15) Rūmų lėšų naudojimo bei Rūmų veiklos kontrolės tvarka; ^s-2f95d47a4f83e99e1adedf5d
 
 
-16) dokumentų ir kitos informacijos apie Rūmų veiklą pateikimo nariams tvarka; ^17e7e1dbbe291bcef8ddc018
+16) dokumentų ir kitos informacijos apie Rūmų veiklą pateikimo nariams tvarka; ^s-fbea457cc96201510545a34e
 
 
-17) informacijos apie Rūmų veiklą pateikimo visuomenei tvarka, leidinys, kuriame skelbiama vieša informacija; ^41b7874555d1c771a9fae67b
+17) informacijos apie Rūmų veiklą pateikimo visuomenei tvarka, leidinys, kuriame skelbiama vieša informacija; ^s-83d606fc65df46889978ab41
 
 
-18) Statuto keitimo tvarka. ^c35fa2366c4cf5217a43ca67
+18) Statuto keitimo tvarka. ^s-b75cf54136891c470d3476e7
 
 
-3. Statute gali būti ir kitų įstatymams neprieštaraujančių nuostatų. ^64476dabf3a8682dac7e8736
+3. Statute gali būti ir kitų įstatymams neprieštaraujančių nuostatų. ^s-62b54ffb56be13a3f4dad982
 
 
 
-### KETVIRTASIS SKIRSNIS
+### KETVIRTASIS SKIRSNIS ^s-6fdb6faef42d116da22e9cdf
 RŪMŲ ORGANAI
 Skirsnio numeracijos pakeitimas:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 6 straipsnis. Rūmų organai
+### 6 straipsnis. Rūmų organai ^s-ff8e0d09206ec0d06892dbc7
 
 
-1. Rūmų organai yra: ^332cd95b63e75d75fb067c6f
+1. Rūmų organai yra: ^s-58a7529ff0d41efe22504fac
 
 
-1) Rūmų narių susirinkimas; ^344a3faeececd536b424712d
+1) Rūmų narių susirinkimas; ^s-0c4bffeb20def8786d0db275
 
 
-2) Rūmų taryba; ^93dbe6529e1eb972061aeab6
+2) Rūmų taryba; ^s-18ad42e689caaae514bfe990
 
 
-3) Rūmų vadovas – Rūmų pirmininkas; ^1cc3e8cdd6ef038409cb8963
+3) Rūmų vadovas – Rūmų pirmininkas; ^s-c80205bea4a00971e8ecd4e3
 
 
-4) neteko galios nuo 2017-01-01; ^53176f3f8237e5b3233ff2ce
+4) neteko galios nuo 2017-01-01; ^s-75c376fc32f38f9dede43bcd
 Straipsnio punkto pakeitimai:
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-5) profesinės etikos taryba; ^5fcf8cf3a46141f8dae1afc5
+5) profesinės etikos taryba; ^s-eaa114b59e22318fef61195c
 
 
-6) Rūmų revizijos komisija; ^b379864401686067ce4fe381
+6) Rūmų revizijos komisija; ^s-ce0382c910f100ee21e25ff3
 
 
-7) Architektų profesinio atestavimo ir architektų profesinės kvalifikacijos pripažinimo komisija (toliau – Komisija). ^79f3e8095942c51eca887ec1
+7) Architektų profesinio atestavimo ir architektų profesinės kvalifikacijos pripažinimo komisija (toliau – Komisija). ^s-4e1bafd3364715594d6d58cb
 Papildyta straipsnio punktu:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 Straipsnio punkto pakeitimai:
@@ -450,107 +455,107 @@ Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-2. Statute gali būti numatyti ir kiti Rūmų organai, veikiantys pagal savo patvirtintus veiklos nuostatus. Už darbą Rūmų profesinės etikos taryboje ir Komisijoje apmokama iš lėšų, gautų iš šio įstatymo [[#^f02f88aca102475c9be72994|15 straipsnio 2 dalyje]] nurodytų Rūmų pajamų šaltinių. ^58413e10138c730020cea81e
+2. Statute gali būti numatyti ir kiti Rūmų organai, veikiantys pagal savo patvirtintus veiklos nuostatus. Už darbą Rūmų profesinės etikos taryboje ir Komisijoje apmokama iš lėšų, gautų iš šio įstatymo [[#^s-bc91e728a8e051962e2e0660|15 straipsnio 2 dalyje]] nurodytų Rūmų pajamų šaltinių. ^s-519568f2423e0e30382aad81
 Straipsnio dalies pakeitimai:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-### 7 straipsnis. Rūmų narių susirinkimas
+### 7 straipsnis. Rūmų narių susirinkimas ^s-7a75ce8669d10a2d12c65563
 
 
-1. Rūmų narių susirinkimas yra aukščiausiasis Rūmų organas. ^db2d433504df8a1bee7a855c
+1. Rūmų narių susirinkimas yra aukščiausiasis Rūmų organas. ^s-43186f78eb229ef1f8e879f8
 
 
-2. Rūmų narių susirinkimas turi teisę: ^57f1d74dc44cf9ac81d7dc72
+2. Rūmų narių susirinkimas turi teisę: ^s-db848d285c4446bcbafc4302
 
 
-1) keisti Rūmų statutą; ^325f6a178fff7dab03a600ec
+1) keisti Rūmų statutą; ^s-c81365d8ac3cf930ef8e936f
 
 
-2) priimti ir keisti profesinės etikos kodeksą; ^35e096ccb145ff0b50984f55
+2) priimti ir keisti profesinės etikos kodeksą; ^s-6b24c6f3169808cd86b3160f
 
 
-3) nustatyti Rūmų nario mokesčio dydį; ^8494ed57de4b3d000f384c92
+3) nustatyti Rūmų nario mokesčio dydį; ^s-2d57b2e5d921ab46ac1cf250
 
 
-4) rinkti Rūmų tarybą; ^c939f9df4bd67392172eddca
+4) rinkti Rūmų tarybą; ^s-f15a1320505bdf56827027a9
 
 
-5) rinkti ir atleisti Rūmų vadovą – Rūmų pirmininką, nustatyti jo darbo sutarties būtinąsias ir privalomas sąlygas (darbo funkcijas ir darbo apmokėjimą). Kitas darbo sutarties su Rūmų pirmininku sąlygas nustato, darbo sutarties sudarymą ir nutraukimą įformina Rūmų narių susirinkimo įgaliotas asmuo; ^dbda57a23fdd44841ed2a832
+5) rinkti ir atleisti Rūmų vadovą – Rūmų pirmininką, nustatyti jo darbo sutarties būtinąsias ir privalomas sąlygas (darbo funkcijas ir darbo apmokėjimą). Kitas darbo sutarties su Rūmų pirmininku sąlygas nustato, darbo sutarties sudarymą ir nutraukimą įformina Rūmų narių susirinkimo įgaliotas asmuo; ^s-597a292c7945f85d25d778fd
 
 
-6) rinkti Komisijos narius, sudaryti Rūmų profesinės etikos tarybą, Rūmų revizijos komisiją, kitus Rūmų organus, numatytus Rūmų statute; ^46c3f3851f5a4119a15a8582
+6) rinkti Komisijos narius, sudaryti Rūmų profesinės etikos tarybą, Rūmų revizijos komisiją, kitus Rūmų organus, numatytus Rūmų statute; ^s-8ecab75e6fd9507ca5793190
 Straipsnio punkto pakeitimai:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-7) tvirtinti metinę finansinę atskaitomybę. ^8553b0279311a2d6e9d992ad
+7) tvirtinti metinę finansinę atskaitomybę. ^s-f1649b836f6bb0719ba483e9
 
 
-3. Rūmų narių susirinkime sprendžiamojo balso teisę turi visi Rūmų nariai. Vienas narys Rūmų narių susirinkime turi vieną balsą. ^3026f59e6f961bd764ef7eeb
+3. Rūmų narių susirinkime sprendžiamojo balso teisę turi visi Rūmų nariai. Vienas narys Rūmų narių susirinkime turi vieną balsą. ^s-8b3b5476533d17f967ed4f35
 
 
-4. Rūmų narių susirinkimas šaukiamas Statuto nustatyta tvarka. ^257be9e51229d8c2b8725f82
+4. Rūmų narių susirinkimas šaukiamas Statuto nustatyta tvarka. ^s-a2491cb813ceb03c47b554ee
 
 
 
-### 8 straipsnis. Rūmų taryba
+### 8 straipsnis. Rūmų taryba ^s-3c68d6409baf575b191a70ae
 
 
-1. Rūmų taryba yra Rūmų valdymo organas. ^a7201cce30f6bf9c459b218a
+1. Rūmų taryba yra Rūmų valdymo organas. ^s-0f010cc38510c4b78fe5b4e7
 
 
-2. Rūmų tarybą renka Rūmų narių susirinkimas. Rūmų tarybos sudėtį, jos narių rinkimo ir atšaukimo tvarką nustato Statutas. Rūmų pirmininkas yra Rūmų tarybos narys pagal pareigas. ^1e58ed4b7a30ede395bf1f6d
+2. Rūmų tarybą renka Rūmų narių susirinkimas. Rūmų tarybos sudėtį, jos narių rinkimo ir atšaukimo tvarką nustato Statutas. Rūmų pirmininkas yra Rūmų tarybos narys pagal pareigas. ^s-30e08a66692997686ed82b43
 Straipsnio dalies pakeitimai:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-3. Be Civilinio kodekso ir Asociacijų įstatymo valdymo organui priskirtų funkcijų, Rūmų taryba: ^bc20893a95fc12fb283ba9a1
+3. Be Civilinio kodekso ir [[latest/TAR.FF00B0EA2F0E|Asociacijų įstatymo]] valdymo organui priskirtų funkcijų, Rūmų taryba: ^s-43a9be1fde90f7f92ae88dfc
 
 
-1) šaukia Rūmų narių susirinkimą; ^af121bf3c950fce98b256cbc
+1) šaukia Rūmų narių susirinkimą; ^s-959b29ddcb82e71b483d2b20
 
 
-2) priima sprendimus dėl atestuoto architekto įrašymo į Rūmų narių sąrašą ir išbraukimo iš jo, atestuoto architekto narystės Rūmuose sustabdymo, atnaujinimo ir pasibaigimo, tvarko Rūmų narių sąrašą, iš Rūmų tarybos narių renka Rūmų tarybos pirmininką. Rūmų taryba gali įgalioti Rūmų pirmininką priimti sprendimus dėl atestuoto architekto narystės Rūmuose sustabdymo ir atnaujinimo; ^ed36690de9e657da882a389a
+2) priima sprendimus dėl atestuoto architekto įrašymo į Rūmų narių sąrašą ir išbraukimo iš jo, atestuoto architekto narystės Rūmuose sustabdymo, atnaujinimo ir pasibaigimo, tvarko Rūmų narių sąrašą, iš Rūmų tarybos narių renka Rūmų tarybos pirmininką. Rūmų taryba gali įgalioti Rūmų pirmininką priimti sprendimus dėl atestuoto architekto narystės Rūmuose sustabdymo ir atnaujinimo; ^s-2988ca5eb8e6a2b5d234a24b
 Straipsnio punkto pakeitimai:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-3) užtikrina informacijos apie Rūmų veiklą viešumą ir prieinamumą; ^acd0d6dfc0ade61af3b3b925
+3) užtikrina informacijos apie Rūmų veiklą viešumą ir prieinamumą; ^s-1499b935ca7b0b5124b31cf9
 
 
-4) nustato architektų kvalifikacijos tobulinimo organizavimo tvarką; ^616ccb6f2d1586ddc9444de0
+4) nustato architektų kvalifikacijos tobulinimo organizavimo tvarką; ^s-9e57019ef28816afba77867c
 Straipsnio punkto pakeitimai:
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-5) nustato nario mokesčio mokėjimo tvarką, Rūmų narių stojimo, narystės Rūmuose sustabdymo, narystės Rūmuose atnaujinimo administravimo mokesčio dydį ir jo mokėjimo tvarką; ^127353f6af85fb92dbb1b154
+5) nustato nario mokesčio mokėjimo tvarką, Rūmų narių stojimo, narystės Rūmuose sustabdymo, narystės Rūmuose atnaujinimo administravimo mokesčio dydį ir jo mokėjimo tvarką; ^s-bb0890a26ec93819d9721a91
 Straipsnio punkto pakeitimai:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-6) tvirtina Rūmų revizijos komisijos darbo tvarkos nuostatus; ^1cc00688398a1220be2c67ef
+6) tvirtina Rūmų revizijos komisijos darbo tvarkos nuostatus; ^s-3b5a01431a76bfb55dc80a2b
 
 
-7) nustato narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo tvarką; ^6ab50680420e51344ef773db
+7) nustato narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo tvarką; ^s-a23ff5785a753b19bf9dae36
 Papildyta straipsnio punktu:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-8) tvirtina, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, regioninių architektūros tarybų sudėtį ir nuostatus; ^2559eaeafb660923b543f86c
+8) tvirtina, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, regioninių architektūros tarybų sudėtį ir nuostatus; ^s-fe19ddce1116b998827df396
 Papildyta straipsnio punktu:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-9) suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Komisijos nuostatus; ^758ec23ad3471a2d39fb502c
+9) suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Komisijos nuostatus; ^s-2adc4c97b2f7997cb23be887
 Papildyta straipsnio punktu:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 Straipsnio punkto pakeitimai:
@@ -558,93 +563,93 @@ Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-10) nustato skiriamų lėšų dydį ir jų skyrimo tvarką Rūmų organų darbui organizuoti ir vykdyti; ^f851cfac4816b9a94e4025bb
+10) nustato skiriamų lėšų dydį ir jų skyrimo tvarką Rūmų organų darbui organizuoti ir vykdyti; ^s-c486ab9d6f19d56ae285feda
 Papildyta straipsnio punktu:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-11) nustato Rūmų profesinės etikos tarybos, Komisijos narių ir administracijos darbuotojų atlyginimus; ^1864d527f062c0a0d889e173
+11) nustato Rūmų profesinės etikos tarybos, Komisijos narių ir administracijos darbuotojų atlyginimus; ^s-5197bae32bb4ebcd5498a184
 Papildyta straipsnio punktu:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-12) nagrinėja skundus dėl Rūmų priimtų sprendimų dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo. ^089b2871c504e1fe89ced0af
+12) nagrinėja skundus dėl Rūmų priimtų sprendimų dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo. ^s-00d3a507a6905ddad42953da
 Papildyta straipsnio punktu:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-4. Rūmų taryba turi teisę: ^78a332569c3698ca7608eed8
+4. Rūmų taryba turi teisę: ^s-497d69c5f38d5a065637db5e
 
 
-1) gauti iš Rūmų narių informaciją, susijusią su jų, kaip architektų, praktika; ^55fdc077e1a1f5f915dab6f3
+1) gauti iš Rūmų narių informaciją, susijusią su jų, kaip architektų, praktika; ^s-42e8363276ba2b25b937c918
 
 
-2) dalyvauti rengiant teisės aktų, reglamentuojančių architektų veiklą, projektus. ^9bcb43a49f83d34ed1ff2bc7
+2) dalyvauti rengiant teisės aktų, reglamentuojančių architektų veiklą, projektus. ^s-f7d85cfabd882fe1c65d32ee
 
 
-5. Rūmų taryba gali turėti ir kitų Rūmų statute nustatytų funkcijų ir teisių. ^5abce6082e6127b904cf0b0a
+5. Rūmų taryba gali turėti ir kitų Rūmų statute nustatytų funkcijų ir teisių. ^s-c0c97a7ed0eb1ed400894b5d
 
 
 
-### 9 straipsnis. Rūmų vadovas – Rūmų pirmininkas
+### 9 straipsnis. Rūmų vadovas – Rūmų pirmininkas ^s-90d79405d64660447d76ef22
 
 
-1. Rūmų vadovas – Rūmų pirmininkas (toliau – Rūmų pirmininkas) yra Rūmų valdymo organas, renkamas Rūmų narių susirinkimo. ^86628837c53366e76c8acb8a
+1. Rūmų vadovas – Rūmų pirmininkas (toliau – Rūmų pirmininkas) yra Rūmų valdymo organas, renkamas Rūmų narių susirinkimo. ^s-b23ad0a97b64d50e84e05baf
 
 
-2. Rūmų pirmininkas: ^377f1d5ddf4fc3708c2172fb
+2. Rūmų pirmininkas: ^s-c39f3a31a5f82944e371ab7b
 
 
-1) organizuoja juridinio asmens veiklą; ^e0b491a35d562ca12d172364
+1) organizuoja juridinio asmens veiklą; ^s-2cbc97be3101915e01fdc422
 
 
-2) šaukia ir organizuoja Rūmų narių susirinkimą; ^a60053af9410ee6c210d29cf
+2) šaukia ir organizuoja Rūmų narių susirinkimą; ^s-73bb8d2fc32287d83bbc9cc3
 
 
-3) priima ir atleidžia iš darbo Rūmų darbuotojus; ^654b96a218f4707418725d5b
+3) priima ir atleidžia iš darbo Rūmų darbuotojus; ^s-309c0983ad4f82fb72c4b8d5
 
 
-4) atstovauja Rūmams santykiuose su kitais asmenimis ir sudaro su jais sutartis; ^b4144931e9d1fad3fe1af58e
+4) atstovauja Rūmams santykiuose su kitais asmenimis ir sudaro su jais sutartis; ^s-74b6acf7d2b8bfadfd6d07c6
 
 
-5) įstatymų nustatyta tvarka teikia duomenis Juridinių asmenų registrui ir pranešimus Rūmų nariams apie esminius įvykius, užtikrina informacijos apie Rūmų veiklą viešumą ir prieinamumą; ^3ffd6800ef66024dcfdfb547
+5) įstatymų nustatyta tvarka teikia duomenis Juridinių asmenų registrui ir pranešimus Rūmų nariams apie esminius įvykius, užtikrina informacijos apie Rūmų veiklą viešumą ir prieinamumą; ^s-565345121d2ff9678fe744d0
 
 
-6) neteko galios nuo 2017-01-01. ^2a6b8a5d73b782564b71ff4b
+6) neteko galios nuo 2017-01-01. ^s-af3ff543b3e5b2f5ca69bd41
 Straipsnio punkto pakeitimai:
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-3. Rūmų pirmininkas turi teisę: ^aa7653701307846bf2ffa9fa
+3. Rūmų pirmininkas turi teisę: ^s-6c344617eb33845239bebde8
 
 
-1) gauti iš Rūmų narių informaciją, susijusią su Rūmų veikla; ^2e8267bde11fe02aa3d7bbe9
+1) gauti iš Rūmų narių informaciją, susijusią su Rūmų veikla; ^s-233fea8df068fee9fd5168ad
 
 
-2) dalyvauti rengiant teisės aktų, reglamentuojančių architektų profesinę veiklą, projektus; ^a546985ca0e8eb1d0bd0d6dc
+2) dalyvauti rengiant teisės aktų, reglamentuojančių architektų profesinę veiklą, projektus; ^s-19ea54b426028f6fcca46bc3
 
 
-3) kitas Rūmų statute nurodytas teises. ^90e017fcb04e090a530bd064
+3) kitas Rūmų statute nurodytas teises. ^s-c0932dfdf75182bc9050731d
 
 
-4. Rūmų pirmininkas gali turėti kitų Rūmų statute nustatytų funkcijų ir teisių. ^4e6d33a7e30de9bc62cf405a
+4. Rūmų pirmininkas gali turėti kitų Rūmų statute nustatytų funkcijų ir teisių. ^s-1955d60aa56a298b8c2d98cb
 
 
 
-### 10 straipsnis. Rūmų profesinės etikos taryba
+### 10 straipsnis. Rūmų profesinės etikos taryba ^s-e604155454bbfb2200ba9ef9
 
 
-1. Rūmų profesinės etikos taryba yra Rūmų organas. Rūmų profesinės etikos taryba, vadovaudamasi šiuo įstatymu, Rūmų statutu, Europos architektūros paslaugų teikėjų etikos kodeksu ir veiklos nuostatais, nagrinėja Rūmų narių drausmės bylas dėl architektų profesinės etikos kodekso pažeidimų, Lietuvos Respublikos įstatymuose nustatytais atvejais, kai architektų veikloje nustatoma Europos architektūros paslaugų teikėjų etikos kodekso pažeidimų, teikia išvadą Rūmų pirmininkui dėl architektų kvalifikacijos atestatų ar teisės pripažinimo dokumentų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba jų galiojimo panaikinimo. ^b58b3481392e25a964f79364
+1. Rūmų profesinės etikos taryba yra Rūmų organas. Rūmų profesinės etikos taryba, vadovaudamasi šiuo įstatymu, Rūmų statutu, Europos architektūros paslaugų teikėjų etikos kodeksu ir veiklos nuostatais, nagrinėja Rūmų narių drausmės bylas dėl architektų profesinės etikos kodekso pažeidimų, Lietuvos Respublikos įstatymuose nustatytais atvejais, kai architektų veikloje nustatoma Europos architektūros paslaugų teikėjų etikos kodekso pažeidimų, teikia išvadą Rūmų pirmininkui dėl architektų kvalifikacijos atestatų ar teisės pripažinimo dokumentų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba jų galiojimo panaikinimo. ^s-0a2af32c313670c5cc80869d
 Straipsnio dalies pakeitimai:
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-2. Drausmės bylos, nurodytos [[#^b58b3481392e25a964f79364|šio straipsnio 1 dalyje]], nenagrinėjamos tuo atveju, jeigu kreipimosi dėl drausmės bylos iškėlimo į Rūmus dieną nuo pažeidimo padarymo praėjo 5 metai, o jeigu pažeidimas yra tęstinis (vyksta kiekvieną dieną (asmuo neatlieka veiksmų, kuriuos privalo atlikti, ar atlieka veiksmus, kurių neturi teisės atlikti) – 5 metai nuo paskutinių pažeidimo veiksmų atlikimo dienos. ^53d29eaaf12ee3c34d68529e
+2. Drausmės bylos, nurodytos [[#^s-0a2af32c313670c5cc80869d|šio straipsnio 1 dalyje]], nenagrinėjamos tuo atveju, jeigu kreipimosi dėl drausmės bylos iškėlimo į Rūmus dieną nuo pažeidimo padarymo praėjo 5 metai, o jeigu pažeidimas yra tęstinis (vyksta kiekvieną dieną (asmuo neatlieka veiksmų, kuriuos privalo atlikti, ar atlieka veiksmus, kurių neturi teisės atlikti) – 5 metai nuo paskutinių pažeidimo veiksmų atlikimo dienos. ^s-be7baa0c096a7e6b371f91e0
 
 
 Straipsnio pakeitimai:
@@ -652,31 +657,31 @@ Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas, architektų profesinės kvalifikacijos pripažinimas
+### 11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas, architektų profesinės kvalifikacijos pripažinimas ^s-58b859f28545804c25339ed2
 
 
-1. Komisijos nuostatus, suderinusi su Aplinkos ministerija ir Kultūros ministerija, tvirtina Rūmų taryba. Komisiją sudaro ne mažiau kaip 5 Rūmų nariai, išrinkti Rūmų narių susirinkime. Konkretus Komisijos narių skaičius nustatomas Rūmų statute. Nariai į Komisiją renkami 3 metų kadencijai, ne ilgiau kaip dviem kadencijoms iš eilės. Komisijos nariai, priimdami sprendimus, turi būti objektyvūs ir nešališki, privalo užtikrinti konfidencialumą. Kokia informacija yra konfidenciali, nustato Rūmai. Komisijos nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Rūmus, jeigu Komisijos nariai nevykdo prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka. Komisijos posėdžiuose dalyvausiantys Komisijos nariai privalo pasirašyti konfidencialumo pasižadėjimą ir nešališkumo deklaraciją. ^c1c0f0a7665cb4bcd70352fe
+1. Komisijos nuostatus, suderinusi su Aplinkos ministerija ir Kultūros ministerija, tvirtina Rūmų taryba. Komisiją sudaro ne mažiau kaip 5 Rūmų nariai, išrinkti Rūmų narių susirinkime. Konkretus Komisijos narių skaičius nustatomas Rūmų statute. Nariai į Komisiją renkami 3 metų kadencijai, ne ilgiau kaip dviem kadencijoms iš eilės. Komisijos nariai, priimdami sprendimus, turi būti objektyvūs ir nešališki, privalo užtikrinti konfidencialumą. Kokia informacija yra konfidenciali, nustato Rūmai. Komisijos nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Rūmus, jeigu Komisijos nariai nevykdo prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka. Komisijos posėdžiuose dalyvausiantys Komisijos nariai privalo pasirašyti konfidencialumo pasižadėjimą ir nešališkumo deklaraciją. ^s-8032a55217f96a2a4e7b6912
 
 
-2. Komisija teikia išvadą Rūmų pirmininkui dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo, išskyrus Lietuvos Respublikos įstatymuose nustatytus atvejus, kai architektų veikloje nustatoma Europos architektūros paslaugų teikėjų etikos kodekso pažeidimų, įspėjimo pareiškimo, architektų kvalifikacijos tobulinimo, architektų profesinės kvalifikacijos pripažinimo. Rūmų pirmininkas priima sprendimus dėl šių Komisijos pateiktų išvadų. ^a40934016e8c777491bbedad
+2. Komisija teikia išvadą Rūmų pirmininkui dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo, išskyrus Lietuvos Respublikos įstatymuose nustatytus atvejus, kai architektų veikloje nustatoma Europos architektūros paslaugų teikėjų etikos kodekso pažeidimų, įspėjimo pareiškimo, architektų kvalifikacijos tobulinimo, architektų profesinės kvalifikacijos pripažinimo. Rūmų pirmininkas priima sprendimus dėl šių Komisijos pateiktų išvadų. ^s-4c3e0dbf58706a6faaa96b30
 
 
-3. Rengiant Komisijos išvadą dėl architekto profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse narėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse, pripažinimo, į Komisiją kviečiami 3 Lietuvos Respublikos universitetų, vykdančių architektūros krypties studijų programas, paskirti atstovai (po vieną iš kiekvieno universiteto) (toliau – atstovai). ^912fb096bfd792c4df76fd05
+3. Rengiant Komisijos išvadą dėl architekto profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse narėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse, pripažinimo, į Komisiją kviečiami 3 Lietuvos Respublikos universitetų, vykdančių architektūros krypties studijų programas, paskirti atstovai (po vieną iš kiekvieno universiteto) (toliau – atstovai). ^s-711eca79f2715689710c03d0
 
 
-4. Atstovai vertina architekto rengimo kurso, dėl kurio pateiktas Europos Sąjungos, Europos ekonominės erdvės valstybėse narėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse įgytas formalios kvalifikacijos įrodymas, atitiktį Architektūros įstatyme nustatytiems architektų rengimo reikalavimams, studijų trukmę ir rengimo dalykus, ar jie atitinka privalomus Lietuvos Respublikoje, ir teikia savo išvadas Komisijai dėl architekto profesinės kvalifikacijos. Komisijos posėdžiuose dalyvausiantys atstovai privalo pasirašyti konfidencialumo pasižadėjimą ir nešališkumo deklaraciją. ^7c7cab744de2e8ebcd850465
+4. Atstovai vertina architekto rengimo kurso, dėl kurio pateiktas Europos Sąjungos, Europos ekonominės erdvės valstybėse narėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse įgytas formalios kvalifikacijos įrodymas, atitiktį [[latest/ea80d52054f211e7846ef01bfffb9b64|Architektūros įstatyme]] nustatytiems architektų rengimo reikalavimams, studijų trukmę ir rengimo dalykus, ar jie atitinka privalomus Lietuvos Respublikoje, ir teikia savo išvadas Komisijai dėl architekto profesinės kvalifikacijos. Komisijos posėdžiuose dalyvausiantys atstovai privalo pasirašyti konfidencialumo pasižadėjimą ir nešališkumo deklaraciją. ^s-c395c16124047b80a8efda5c
 
 
-5. Asmuo, pageidaujantis, kad Europos Sąjungos, Europos ekonominės erdvės valstybėse narėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse įgyta architekto profesinė kvalifikacija būtų pripažinta Lietuvos Respublikoje, turi sumokėti Rūmams jų nustatytą įmoką, kurios dydį Rūmai suderina su Aplinkos ministerija. Nustatytas įmokos dydis turi padengti ekonomiškai pagrįstas architekto profesinės kvalifikacijos pripažinimo metu patirtas sąnaudas. ^7ae77e173d4b31d4afda6d07
+5. Asmuo, pageidaujantis, kad Europos Sąjungos, Europos ekonominės erdvės valstybėse narėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse įgyta architekto profesinė kvalifikacija būtų pripažinta Lietuvos Respublikoje, turi sumokėti Rūmams jų nustatytą įmoką, kurios dydį Rūmai suderina su Aplinkos ministerija. Nustatytas įmokos dydis turi padengti ekonomiškai pagrįstas architekto profesinės kvalifikacijos pripažinimo metu patirtas sąnaudas. ^s-cfe2feee5301687e508fcd15
 
 
-6. Rūmai kiekvienais kalendoriniais metais iki balandžio 1 dienos Aplinkos ministerijai teikia ataskaitą apie išduotų kvalifikacijos atestatų ir teisės pripažinimo dokumentų, jų galiojimo sustabdymo ir galiojimo panaikinimo skaičių, profesinę kvalifikaciją kėlusių architektų skaičių, architektų skundų dėl sprendimų apie kvalifikacijos atestato ir teisės pripažinimo dokumento išdavimą, jų galiojimo sustabdymą ir galiojimo panaikinimą skaičių. Ataskaita apie sprendimus dėl architektų profesinės kvalifikacijos pripažinimo teikiama vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 59 straipsnio 3 dalimi. ^b6115ccfddcfd4c9201cb994
+6. Rūmai kiekvienais kalendoriniais metais iki balandžio 1 dienos Aplinkos ministerijai teikia ataskaitą apie išduotų kvalifikacijos atestatų ir teisės pripažinimo dokumentų, jų galiojimo sustabdymo ir galiojimo panaikinimo skaičių, profesinę kvalifikaciją kėlusių architektų skaičių, architektų skundų dėl sprendimų apie kvalifikacijos atestato ir teisės pripažinimo dokumento išdavimą, jų galiojimo sustabdymą ir galiojimo panaikinimą skaičių. Ataskaita apie sprendimus dėl architektų profesinės kvalifikacijos pripažinimo teikiama vadovaujantis [[latest/TAR.074B2F6259F9#^s-7b8995520456a2f7d111a039|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 59 straipsnio 3 dalimi]]. ^s-6af9e93fa441d3428e95349c
 
 
-7. Rūmų sprendimai dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo gali būti skundžiami Rūmų tarybai ar administraciniam teismui per 30 dienų nuo sprendimo įteikimo architektui dienos. Rūmų taryba gali skundą atmesti kaip nepagrįstą arba jį priimti ir įpareigoti Rūmus nagrinėti iš naujo. Rūmų sprendimai dėl architekto profesinės kvalifikacijos pripažinimo skundžiami vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 6 straipsnio 27 dalyje nustatyta tvarka. ^f1d257152c43dac36cf2345d
+7. Rūmų sprendimai dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo gali būti skundžiami Rūmų tarybai ar administraciniam teismui per 30 dienų nuo sprendimo įteikimo architektui dienos. Rūmų taryba gali skundą atmesti kaip nepagrįstą arba jį priimti ir įpareigoti Rūmus nagrinėti iš naujo. Rūmų sprendimai dėl architekto profesinės kvalifikacijos pripažinimo skundžiami vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 6 straipsnio 27 dalyje nustatyta tvarka. ^s-5de791c6eba373f845bcc0b7
 
 
-8. Atestuoto architekto ar teisės pripažinimo dokumento turėtojo kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymas, panaikinimas, įspėjimo skyrimas kituose įstatymuose numatytais atvejais pagal suinteresuotų asmenų skundus, pareiškimus, prašymus nenagrinėjami, jeigu kreipimosi dėl veiklos svarstymo (kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo, panaikinimo, įspėjimo skyrimo) į Rūmus dieną nuo pažeidimo padarymo yra praėję 5 metai. ^d0de2648b000db4e4da2c2e4
+8. Atestuoto architekto ar teisės pripažinimo dokumento turėtojo kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymas, panaikinimas, įspėjimo skyrimas kituose įstatymuose numatytais atvejais pagal suinteresuotų asmenų skundus, pareiškimus, prašymus nenagrinėjami, jeigu kreipimosi dėl veiklos svarstymo (kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo, panaikinimo, įspėjimo skyrimo) į Rūmus dieną nuo pažeidimo padarymo yra praėję 5 metai. ^s-758fcb7880046720ac27b32f
 
 
 Straipsnio pakeitimai:
@@ -685,139 +690,139 @@ Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
 
 
 
-### 12 straipsnis. Rūmų revizijos komisija
+### 12 straipsnis. Rūmų revizijos komisija ^s-1f789ee6edbb6965cbdaa5e4
 
 
-1. Rūmų revizijos komisija yra Rūmų kontrolės organas. Ją iš Rūmų narių renka Rūmų narių susirinkimas. ^2ce4380f2acc76605d6d1e26
+1. Rūmų revizijos komisija yra Rūmų kontrolės organas. Ją iš Rūmų narių renka Rūmų narių susirinkimas. ^s-a3839d3d98373c536286ce49
 
 
-2. Rūmų revizijos komisija: ^eed750fcd9f56e9ffb7cf326
+2. Rūmų revizijos komisija: ^s-e456ac0de766dad24c1478bc
 
 
-1) kontroliuoja Rūmų finansinę veiklą; ^1bbea7038b428c6e4d90204b
+1) kontroliuoja Rūmų finansinę veiklą; ^s-0ed148d67666c31d9a369ad6
 
 
-2) kontroliuoja teritorinių skyrių finansinę veiklą; ^b9cd2168323e74e9b269cb1b
+2) kontroliuoja teritorinių skyrių finansinę veiklą; ^s-902f646b6caa74aa8481d3da
 
 
-3) tikrina Rūmų finansinės veiklos ataskaitas ir teikia išvadas Rūmų narių susirinkimui; ^fb46eb277817770db22c03a9
+3) tikrina Rūmų finansinės veiklos ataskaitas ir teikia išvadas Rūmų narių susirinkimui; ^s-78381c5b7c3a1aa2dd38fa92
 
 
-4) atlieka kitas šiame įstatyme ir Rūmų statute nustatytas funkcijas. ^e4c2ab68d0c1edd42e08b02b
+4) atlieka kitas šiame įstatyme ir Rūmų statute nustatytas funkcijas. ^s-24d19240f4ba3b246c272258
 
 
-3. Rūmų revizijos komisijos darbo tvarką nustato Rūmų tarybos patvirtinti nuostatai. ^edc97bb3347b6feb631bfbf3
+3. Rūmų revizijos komisijos darbo tvarką nustato Rūmų tarybos patvirtinti nuostatai. ^s-a93cb4f932b017b754f8835e
 
 
 
-### PENKTASIS SKIRSNIS
+### PENKTASIS SKIRSNIS ^s-f2f40cf1a7779b07d44993a3
 RŪMŲ FINANSINĖ ATSKAITOMYBĖ, TURTAS IR PAJAMOS
 Skirsnio numeracijos pakeitimas:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 13 straipsnis. Rūmų buhalterinė apskaita, finansinė atskaitomybė ir auditas
+### 13 straipsnis. Rūmų buhalterinė apskaita, finansinė atskaitomybė ir auditas ^s-e5f0f929cec73f25906c8c85
 
 
-1. Rūmų buhalterinę apskaitą, jos organizavimą, tvarkymą ir finansinės atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai. ^8ddf7899ad8d493f85ef295b
+1. Rūmų buhalterinę apskaitą, jos organizavimą, tvarkymą ir finansinės atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai. ^s-e7656c4c2eccffaf9f310318
 
 
-2. Rūmų auditas atliekamas, kai Rūmų narių susirinkimas priima sprendimą jį atlikti ir išrenka audito įmonę. Auditas atliekamas teisės aktų, reglamentuojančių auditą, nustatytais atvejais ir tvarka. ^b64f1a682bd4b0f17b44bd4e
-
-
-
-### 14 straipsnis. Rūmų veiklos ataskaita
-
-
-1. Rūmų pirmininkas turi parengti ir pateikti Rūmų narių susirinkimui praėjusių finansinių metų veiklos ataskaitą. Ši ataskaita yra vieša. ^9b0346eaf5afd371330b648b
-
-
-2. Rūmų veiklos ataskaitoje turi būti nurodyta: ^e7bbda74c2d9f5b2eadd3ada
-
-
-1) informacija apie Rūmų veiklą įgyvendinant nustatytus veiklos tikslus; ^1e47287e7c30674fce85e51b
-
-
-2) gautos lėšos ir jų šaltiniai per finansinius metus; ^f7b08835cb938ab8d2c1ab19
-
-
-3) informacija apie įsigytą ir perleistą ilgalaikį turtą per finansinius metus; ^72627fa973f7f22d8f7bc33e
-
-
-4) išlaidos per finansinius metus; ^620bfdd51c8b22d89167683a
-
-
-5) darbuotojų skaičius finansinių metų pradžioje ir pabaigoje. ^9aed3c51e14155c752d9400a
-
-
-3. Veiklos ataskaitoje gali būti ir kita Rūmų narių susirinkimo nustatyta informacija. ^0919f86dc197a11b34d012d5
+2. Rūmų auditas atliekamas, kai Rūmų narių susirinkimas priima sprendimą jį atlikti ir išrenka audito įmonę. Auditas atliekamas teisės aktų, reglamentuojančių auditą, nustatytais atvejais ir tvarka. ^s-a98ac4225bffd87e65f949e4
 
 
 
-### 15 straipsnis. Rūmų turtas ir pajamų šaltiniai
+### 14 straipsnis. Rūmų veiklos ataskaita ^s-fcd43d3f9b0800349dc9dc1c
 
 
-1. Rūmams nuosavybės teise gali priklausyti pastatai, transporto priemonės, įrenginiai ir kitas jų Statute numatytai veiklai reikalingas turtas, kuris gali būti įgytas iš [[#^f02f88aca102475c9be72994|šio straipsnio 2 dalyje]] nustatytų pajamų šaltinių. ^8d92e6bafe61abc6ac0d31a1
+1. Rūmų pirmininkas turi parengti ir pateikti Rūmų narių susirinkimui praėjusių finansinių metų veiklos ataskaitą. Ši ataskaita yra vieša. ^s-7b9f8e4e7ceefdb2a2f0b570
 
 
-2. Rūmų pajamų šaltiniai: ^f02f88aca102475c9be72994
+2. Rūmų veiklos ataskaitoje turi būti nurodyta: ^s-6efcfae597ee658a25b06a66
 
 
-1) nario mokesčiai ir tiksliniai įnašai; ^652c2654f6b12e35fc7a403a
+1) informacija apie Rūmų veiklą įgyvendinant nustatytus veiklos tikslus; ^s-9615e29ba359390cd440ee14
 
 
-2) gali būti valstybės ir savivaldybių biudžetų lėšos, skirtos specialiosioms programoms vykdyti; ^94026c6b1072b07baaecad97
+2) gautos lėšos ir jų šaltiniai per finansinius metus; ^s-dfe1eb0d7c8fb4ec851ac3b3
 
 
-3) fizinių ir juridinių asmenų neatlygintinai perduotos lėšos ir turtas; ^078b5eda76382a6a23deaa18
+3) informacija apie įsigytą ir perleistą ilgalaikį turtą per finansinius metus; ^s-2c36d50dccf24d76406c9446
 
 
-4) palikimai, pagal testamentą tenkantys Rūmams; ^09dcef772bd282e4243c06bf
+4) išlaidos per finansinius metus; ^s-5cdc1c1283f373dacf1b83f5
 
 
-5) kredito įstaigų palūkanos, mokamos už tose įstaigose saugomas lėšas; ^71715ad287cbaec17f4dcbc4
+5) darbuotojų skaičius finansinių metų pradžioje ir pabaigoje. ^s-2a0ef0edd3b849d242a6c543
 
 
-6) kitos teisėtai gautos lėšos. ^89fcb6d1d4f5288211a5c253
+3. Veiklos ataskaitoje gali būti ir kita Rūmų narių susirinkimo nustatyta informacija. ^s-84190405dc34659bb7d25b58
 
 
 
-### 16 straipsnis. Rūmų pelno naudojimas
+### 15 straipsnis. Rūmų turtas ir pajamų šaltiniai ^s-65f1aa682a180b74ad95e4e1
+
+
+1. Rūmams nuosavybės teise gali priklausyti pastatai, transporto priemonės, įrenginiai ir kitas jų Statute numatytai veiklai reikalingas turtas, kuris gali būti įgytas iš [[#^s-bc91e728a8e051962e2e0660|šio straipsnio 2 dalyje]] nustatytų pajamų šaltinių. ^s-7d364aad9f13095eb7f9ff7c
+
+
+2. Rūmų pajamų šaltiniai: ^s-bc91e728a8e051962e2e0660
+
+
+1) nario mokesčiai ir tiksliniai įnašai; ^s-e8c8497036fa29439994781c
+
+
+2) gali būti valstybės ir savivaldybių biudžetų lėšos, skirtos specialiosioms programoms vykdyti; ^s-ed039ec295ea02372c4be233
+
+
+3) fizinių ir juridinių asmenų neatlygintinai perduotos lėšos ir turtas; ^s-8aca59ad32fb869d737bcdb0
+
+
+4) palikimai, pagal testamentą tenkantys Rūmams; ^s-a50ecfdc7e74c68f47e795fe
+
+
+5) kredito įstaigų palūkanos, mokamos už tose įstaigose saugomas lėšas; ^s-2a81f1cdbd45cf4466fa05fd
+
+
+6) kitos teisėtai gautos lėšos. ^s-2bb0ace7e0c8c14e251b5fe7
+
+
+
+### 16 straipsnis. Rūmų pelno naudojimas ^s-0a7acfe2a8785651f7bb68c1
 
 
 Rūmų gautas pelnas naudojamas jų Statute nustatytiems veiklos tikslams siekti.
 
 
 
-### ŠEŠTASIS SKIRSNIS
+### ŠEŠTASIS SKIRSNIS ^s-3d5863db9d324fc310924863
 RŪMŲ REORGANIZAVIMAS IR LIKVIDAVIMAS
 Skirsnio numeracijos pakeitimas:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 17 straipsnis. Rūmų reorganizavimas ir likvidavimas
+### 17 straipsnis. Rūmų reorganizavimas ir likvidavimas ^s-85e754c6414caa21ab55ba84
 
 
 Rūmai reorganizuojami ar likviduojami įstatymų nustatyta tvarka.
 
 
 
-### SEPTINTASIS SKIRSNIS
+### SEPTINTASIS SKIRSNIS ^s-136ad9053f8dbed0fc4db7c3
 BAIGIAMOSIOS NUOSTATOS
 Skirsnio numeracijos pakeitimas:
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 
 
 
-### 18 straipsnis. Neteko galios nuo 2017-01-01.
+### 18 straipsnis. Neteko galios nuo 2017-01-01. ^s-a62cdb4b7b4bfd975b3612b8
 Straipsnio pakeitimai:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 
-### 19 straipsnis. Pasiūlymas Vyriausybei
+### 19 straipsnis. Pasiūlymas Vyriausybei ^s-f1960c17cf075f6763cb3075
 
 
 Pasiūlyti Vyriausybei ar jos įgaliotai institucijai parengti ir patvirtinti šiam įstatymui įgyvendinti reikalingus teisės aktus.
@@ -845,24 +850,24 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 8, 9 ir [[#11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas, architektų profesinės kvalifikacijos pripažinimas|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 8, 9 ir [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 1, 2, 3, 4, [[#11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas, architektų profesinės kvalifikacijos pripažinimas|11 straipsnių]] pakeitimo ir [[#18 straipsnis. Neteko galios nuo 2017-01-01.|18 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 1, 2, 3, 4, [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo ir [[#^s-a62cdb4b7b4bfd975b3612b8|18 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
-Dėl Lietuvos Respublikos architektų rūmų įstatymo [[#4 straipsnis. Rūmų nariai, jų teisės ir pareigos|4 straipsnio]] 1, 4 dalių atitikties Lietuvos Respublikos Konstitucijai
+Dėl [[#^s-c153916d1ce5f70fe2f1a9bd|Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio]] 1, 4 dalių atitikties Lietuvos Respublikos Konstitucijai
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 antrojo skirsnio pavadinimo, 4, 6, 8, 10, [[#11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas, architektų profesinės kvalifikacijos pripažinimas|11 straipsnių]] pakeitimo, Įstatymo papildymo 4-1 straipsniu ir priedo pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 antrojo skirsnio pavadinimo, 4, 6, 8, 10, [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo, Įstatymo papildymo 4-1 straipsniu ir priedo pripažinimo netekusiu galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 7, 8, 10 ir [[#11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas, architektų profesinės kvalifikacijos pripažinimas|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 7, 8, 10 ir [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo įstatymas

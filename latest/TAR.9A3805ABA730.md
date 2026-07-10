@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9A3805ABA730"
 pavadinimas: "Dėl papildomų asignavimų Lietuvos Respublikos Konstituciniam Teismui"
+aliases:
+  - "Dėl papildomų asignavimų Lietuvos Respublikos Konstituciniam Teismui"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-06-04"
 latest_path: "latest/TAR.9A3805ABA730.md"
 latest_sha256: "96c8439f970b90ea81bcc6559092e5966f2881a172f63b0b407b10adec64a6e7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9A3805ABA730]]"
 ---
 # Dėl papildomų asignavimų Lietuvos Respublikos Konstituciniam Teismui
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9A3805ABA730.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9A3805ABA730
+- Ryšiai: [[Ryšiai/TAR.9A3805ABA730|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

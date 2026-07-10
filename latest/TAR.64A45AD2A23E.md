@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.64A45AD2A23E"
 pavadinimas: "Lietuvos Respublikos žvalgybos įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žvalgybos įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "žvalgybos įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-17"
 latest_path: "latest/TAR.64A45AD2A23E.md"
 latest_sha256: "e6b332bf3d8fbab867ed214c0a26744648868c0c4d4fb9a2f89071227967467a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.64A45AD2A23E]]"
 ---
 # Lietuvos Respublikos žvalgybos įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.64A45AD2A23E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.64A45AD2A23E
+- Ryšiai: [[Ryšiai/TAR.64A45AD2A23E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio pakeitimas
+### 1 straipsnis. 13 straipsnio pakeitimas ^s-5c30adfc38a520180056f039
 
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:

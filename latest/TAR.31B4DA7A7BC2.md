@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.31B4DA7A7BC2"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-10-31"
 latest_path: "latest/TAR.31B4DA7A7BC2.md"
 latest_sha256: "16b0457140618b06aa3b60beef9e86d9a6fca606a56f13fc549549d226137dfb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.31B4DA7A7BC2]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 26 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.31B4DA7A7BC2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.31B4DA7A7BC2
+- Ryšiai: [[Ryšiai/TAR.31B4DA7A7BC2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 26 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 26 straipsnio 1 dalies pakeitimas ^s-3fd8978984ed446ba1420841
 
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:

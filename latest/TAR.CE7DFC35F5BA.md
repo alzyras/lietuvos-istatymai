@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CE7DFC35F5BA"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "pinigų plovimo prevencijos įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.CE7DFC35F5BA.md"
 latest_sha256: "c76806c6409e19f6b3653452a10c6b5501f8180bbb48c33c599df80229f956dd"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CE7DFC35F5BA]]"
 ---
 # Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CE7DFC35F5BA.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CE7DFC35F5BA
+- Ryšiai: [[Ryšiai/TAR.CE7DFC35F5BA|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio pakeitimas
+### 1 straipsnis. 14 straipsnio pakeitimas ^s-e0a2ed65de69cb5457ca1598
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -40,17 +45,17 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Muitinės įstaigų veikla
 
 
-1. Muitinės įstaigos atlieka į Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos Lietuvos Respublikos muitinės įstatyme (toliau – trečiosios šalys), įvežamų ir iš Lietuvos Respublikos į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę Vyriausybės nustatyta tvarka. ^9aa2dbbb168262a546b72dcd
+1. Muitinės įstaigos atlieka į Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau – trečiosios šalys), įvežamų ir iš Lietuvos Respublikos į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę Vyriausybės nustatyta tvarka. ^s-1eea8b5aa13abf1427356b73
 
 
-2. Muitinės įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos Respubliką iš trečiųjų šalių ir išvežimo iš Lietuvos Respublikos į trečiąsias šalis atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta. ^f9c2a11e04c78a51872b3199
+2. Muitinės įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos Respubliką iš trečiųjų šalių ir išvežimo iš Lietuvos Respublikos į trečiąsias šalis atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta. ^s-2ccc47944d05e39753dccbbb
 
 
-3. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų šalių į Lietuvos Respubliką ar išveža iš Lietuvos Respublikos į trečiąsias šalis grynųjų pinigų vienkartinę sumą, viršijančią 50 000 litų ar ją atitinkančią sumą užsienio valiuta.“ ^3edd917ea4a998de9125e7d5
+3. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų šalių į Lietuvos Respubliką ar išveža iš Lietuvos Respublikos į trečiąsias šalis grynųjų pinigų vienkartinę sumą, viršijančią 50 000 litų ar ją atitinkančią sumą užsienio valiuta.“ ^s-115183136bc98de6f1eb16b8
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e7ce6e83c8053b68873d4230
 
 
 Šis Įstatymas Įsigalioja nuo 2004 m. gegužės 1 d.

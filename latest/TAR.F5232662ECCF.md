@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F5232662ECCF"
 pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 9 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 9 straipsnių papildymo įstatymas"
+  - "valstybės ir tarnybos paslapčių įstatymo 5 ir 9 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-09-07"
 latest_path: "latest/TAR.F5232662ECCF.md"
 latest_sha256: "29d6e9da8eb7eaf2cc25ce212a7c461d20a6e2633d03fde81d8c46a698aa5081"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F5232662ECCF]]"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 9 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F5232662ECCF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F5232662ECCF
+- Ryšiai: [[Ryšiai/TAR.F5232662ECCF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies papildymas
+### 1 straipsnis. 5 straipsnio 1 dalies papildymas ^s-c165ce9dd828aca5a22bcff6
 
 
 Papildyti 5 straipsnio 1 dalį 27 punktu:
@@ -41,7 +46,7 @@ Papildyti 5 straipsnio 1 dalį 27 punktu:
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies papildymas
+### 2 straipsnis. 9 straipsnio 3 dalies papildymas ^s-228280eafa94b7e4d8c30ded
 
 
 9 straipsnio 3 dalies antrajame sakinyje po žodžio „prireikus“ įrašyti žodžius „jei šis asmuo sutinka, patikrinti poligrafu arba“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FD1562282DA7"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-08-01"
 latest_path: "latest/TAR.FD1562282DA7.md"
 latest_sha256: "bb8797c3797d7712c5f43a2b2931005b53ce2828c408a8640cf6da002ae433c1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FD1562282DA7]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FD1562282DA7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FD1562282DA7
+- Ryšiai: [[Ryšiai/TAR.FD1562282DA7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 14 dalies 5 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 14 dalies 5 punkto pakeitimas ^s-29625aa4ddfc3569b3eac779
 
 
 Pakeisti 2 straipsnio 14 dalies 5 punktą ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 2 straipsnio 14 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c7d7248b447208f31a5e1083
 
 
 Šis įstatymas įsigalioja 2011 m. rugpjūčio 1 d.

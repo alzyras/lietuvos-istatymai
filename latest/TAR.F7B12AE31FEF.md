@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F7B12AE31FEF"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo ir papildymo\" įgyvendinimo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo ir papildymo\" įgyvendinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-07"
 latest_path: "latest/TAR.F7B12AE31FEF.md"
 latest_sha256: "3eb3345b171bb63bd361b4a865276c4f4ce08cd4091bbbd63a3f72c09efb7e67"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F7B12AE31FEF]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo ir papildymo" įgyvendinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F7B12AE31FEF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F7B12AE31FEF
+- Ryšiai: [[Ryšiai/TAR.F7B12AE31FEF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

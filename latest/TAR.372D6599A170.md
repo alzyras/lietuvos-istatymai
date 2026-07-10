@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.372D6599A170"
 pavadinimas: "Lietuvos Respublikos ir Suomijos Respublikos sutarties dėl socialinės apsaugos ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Suomijos Respublikos sutarties dėl socialinės apsaugos ratifikavimo įstatymas"
+  - "ir Suomijos Respublikos sutarties dėl socialinės apsaugos ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-06-08"
 latest_path: "latest/TAR.372D6599A170.md"
 latest_sha256: "f572685c7258240abea3cfd410651aa44706b9b2bced326006354c09f962e690"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.372D6599A170]]"
 ---
 # Lietuvos Respublikos ir Suomijos Respublikos sutarties dėl socialinės apsaugos ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.372D6599A170.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.372D6599A170
+- Ryšiai: [[Ryšiai/TAR.372D6599A170|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,10 +34,10 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-e4ea63cb4958c7ffb2712565
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 16 d. dekretą Nr. 1247, ratifikuoja Lietuvos Respublikos ir Suomijos Respublikos sutartį dėl socialinės apsaugos, pasirašytą 2000 m. rugsėjo 12 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 16 d. dekretą Nr. 1247, ratifikuoja Lietuvos Respublikos ir Suomijos Respublikos sutartį dėl socialinės apsaugos, pasirašytą 2000 m. rugsėjo 12 d. Helsinkyje.
 
 
 

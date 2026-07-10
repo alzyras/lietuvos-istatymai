@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.11FBB7047630"
 pavadinimas: "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 3 ir 16 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 3 ir 16 straipsnių pakeitimo ir papildymo įstatymas"
+  - "vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 3 ir 16 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2006-12-09"
 latest_path: "latest/TAR.11FBB7047630.md"
 latest_sha256: "7a7141d493aa49f0d2624b7afdb8a998105fb3fa83e452ebd13ee4c31dd910cb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.11FBB7047630]]"
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 3 ir 16 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.11FBB7047630.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.11FBB7047630
+- Ryšiai: [[Ryšiai/TAR.11FBB7047630|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-e42f87c0212f16a32c73a759
 
 
 3 straipsnio 2 dalyje išbraukti žodžius „(jei ta kaltė neužtraukia baudžiamosios atsakomybės)“ ir šią dalį išdėstyti taip:
@@ -41,32 +46,32 @@ Vilnius
 
 
 
-### 2 straipsnis. 16 straipsnio papildymas
+### 2 straipsnis. 16 straipsnio papildymas ^s-0eb930d3b631d02b7ec2561b
 
 
-Papildyti 16 straipsnį 10 ir [[#^6b62b300382948108428788d|11 dalimis]]:
+Papildyti 16 straipsnį 10 ir [[#^s-7660caf6b0a54f1749e452ac|11 dalimis]]:
 
 
 „10. Iki 2007 m. sausio 1 d. paskirtos mažesnės kaip 430 litų pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) arba netekto darbingumo (invalidumo) pensijos, išskyrus privalomosios karo tarnybos karių ir karių savanorių netekto darbingumo (invalidumo) pensijas, atsižvelgiant į pareigūnų ir karių išleidimo į pensiją (pensijos paskyrimo) datą, didinamos, bet ne daugiau kaip iki 430 litų, laikantis šios tvarkos:
 
 
-1) atleistiems iki 1991 m. liepos 1 d. – nuo 2007 m. sausio 1 d. 9 procentais; ^f86601c67918825c71e74936
+1) atleistiems iki 1991 m. liepos 1 d. – nuo 2007 m. sausio 1 d. 9 procentais; ^s-22470dead50c5180323a4c9d
 
 
-2) atleistiems iki 1995 m. sausio 1 d. – nuo 2007 m. liepos 1 d. 10 procentų; ^8f3042b1c1330ba217018f23
+2) atleistiems iki 1995 m. sausio 1 d. – nuo 2007 m. liepos 1 d. 10 procentų; ^s-54869cdd0f0dfe44d62730fd
 
 
-3) atleistiems iki 2007 m. sausio 1 d. – nuo 2008 m. sausio 1 d. 10 procentų. ^96080d73ed8e43cea2ab91fb
+3) atleistiems iki 2007 m. sausio 1 d. – nuo 2008 m. sausio 1 d. 10 procentų. ^s-5509f665a597cfe21642dab6
 
 
-11. Nuo 2007 m. sausio 1 d. skiriamos mažesnės kaip 430 litų pareigūnų ir karių valstybinės pensijos už tarnybą arba netekto darbingumo pensijos, išskyrus privalomosios karo tarnybos karių ir karių savanorių netekto darbingumo pensijas, didinamos vieną kartą (pensijos skyrimo metu) 20 litų, bet ne daugiau kaip iki 430 litų.“ ^6b62b300382948108428788d
+11. Nuo 2007 m. sausio 1 d. skiriamos mažesnės kaip 430 litų pareigūnų ir karių valstybinės pensijos už tarnybą arba netekto darbingumo pensijos, išskyrus privalomosios karo tarnybos karių ir karių savanorių netekto darbingumo pensijas, didinamos vieną kartą (pensijos skyrimo metu) 20 litų, bet ne daugiau kaip iki 430 litų.“ ^s-7660caf6b0a54f1749e452ac
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-e0ebffd0499f8dd7a164f5c4
 
 
-Šio įstatymo [[#2 straipsnis. 16 straipsnio papildymas|2 straipsnis]] įsigalioja nuo 2007 m. sausio 1 d.
+Šio įstatymo [[#^s-0eb930d3b631d02b7ec2561b|2 straipsnis]] įsigalioja nuo 2007 m. sausio 1 d.
 
 
 

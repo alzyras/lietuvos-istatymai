@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7B015BF16A07"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-04-10"
 latest_path: "latest/TAR.7B015BF16A07.md"
 latest_sha256: "753ec2c4f7062f3f2fd3e70c66f0abda2afb20c33cfccc46f77dde06a16a2aa3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7B015BF16A07]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7B015BF16A07.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7B015BF16A07
+- Ryšiai: [[Ryšiai/TAR.7B015BF16A07|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 4 dalies pakeitimas ^s-1147bd259916ba4d76d3c8a2
 
 
 Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas ^s-b15b4943c70e9daa417f101d
 
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -54,26 +59,26 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 „Apskritis yra Lietuvos Respublikos teritorijos aukštesnysis administracinis vienetas, kuriame valdymą įstatymų nustatyta tvarka organizuoja Lietuvos Respublikos Vyriausybė.“
 
 
-### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-c55d48de8f251d771bee46f5
 
 
-1. Pakeisti 3 straipsnio 5 dalį ir ją išdėstyti taip: ^a40d2e88dfb58f5d6552c50d
+1. Pakeisti 3 straipsnio 5 dalį ir ją išdėstyti taip: ^s-2fa911ea7152394f8f54b9a7
 
 
 „Kaimai yra gyvenamosios vietovės, neturinčios miesto, miestelio ir viensėdžio požymių.“
 
 
-2. Papildyti [[#3 straipsnis. 3 straipsnio pakeitimas ir papildymas|3 straipsnį]] nauja 6 dalimi: ^89a7754ba9d1c07f67199a24
+2. Papildyti [[#^s-c55d48de8f251d771bee46f5|3 straipsnį]] nauja 6 dalimi: ^s-9e8d384da43c15ef1b05ba88
 
 
 „Viensėdžiai yra istoriškai susiformavusios gyvenamosios vietovės, paprastai sudarytos arba kilusios iš vienos sodybos ir turinčios ne daugiau kaip 20 objektų skirtingu adresu.“
 
 
-3. Buvusias [[#3 straipsnis. 3 straipsnio pakeitimas ir papildymas|3 straipsnio]] 6, 7, 8 ir 9 dalis laikyti atitinkamai 7, 8, 9 ir 10 dalimis. ^a09e2d117ffab97021f505e9
+3. Buvusias [[#^s-c55d48de8f251d771bee46f5|3 straipsnio]] 6, 7, 8 ir 9 dalis laikyti atitinkamai 7, 8, 9 ir 10 dalimis. ^s-4d39f8d899a04f8865a29521
 
 
 
-### 4 straipsnis. 71 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 71 straipsnio 2 dalies pakeitimas ^s-0fc516239221c623f14416e8
 
 
 Pakeisti 71 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -82,7 +87,7 @@ Pakeisti 71 straipsnio 2 dalį ir ją išdėstyti taip:
 „Seniūnijų aptarnaujamų teritorijų ribų nustatymo ir keitimo, dokumentų pateikimo Lietuvos Respublikos adresų registro tvarkymo įstaigai tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
 
-### 5 straipsnis. 9 straipsnio pakeitimas
+### 5 straipsnis. 9 straipsnio pakeitimas ^s-ef90d45475648dc792a81365
 
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
@@ -113,7 +118,7 @@ Gyvenamosioms vietovėms kurorto statusą suteikia ir panaikina Lietuvos Respubl
 Gyvenamosioms vietovėms arba jų dalims kurortinės teritorijos statusą suteikia ir panaikina Lietuvos Respublikos Vyriausybė savivaldybės tarybos siūlymu.“
 
 
-### 6 straipsnis. 13 straipsnio pakeitimas
+### 6 straipsnis. 13 straipsnio pakeitimas ^s-8925112b4c63c6906a706af7
 
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
@@ -135,10 +140,10 @@ Vietos gyventojų apklausos tvarką steigiant ar panaikinant Lietuvos Respubliko
 Dokumentų ir pasiūlymų, reikalingų Lietuvos Respublikos teritorijos administraciniams vienetams steigti ar panaikinti, jų ir gyvenamųjų vietovių pavadinimams suteikti ar keisti, teritorijų riboms nustatyti ar keisti ir kurorto arba kurortinės teritorijos statusui suteikti ar panaikinti, pateikimo ir nagrinėjimo tvarką ir konsultavimosi su vietos gyventojais dėl pavadinimų gyvenamosioms vietovėms suteikimo ar keitimo, jų teritorijų ribų nustatymo ar keitimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-ae344b4c0be03cddcf88fb3c
 
 
-Šio įstatymo [[#2 straipsnis. 2 straipsnio 2 dalies pakeitimas|2 straipsnis]] įsigalioja 2010 m. liepos 1 d.
+Šio įstatymo [[#^s-b15b4943c70e9daa417f101d|2 straipsnis]] įsigalioja 2010 m. liepos 1 d.
 
 
 

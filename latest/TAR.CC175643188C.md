@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CC175643188C"
 pavadinimas: "Dėl Varėnos rajono Varėnos miesto bei Varėnos apylinkės administracinių ribų pakeitimo"
+aliases:
+  - "Dėl Varėnos rajono Varėnos miesto bei Varėnos apylinkės administracinių ribų pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-05-25"
 latest_path: "latest/TAR.CC175643188C.md"
 latest_sha256: "706875d334a62ac837108fe14ce924324462efc86deff0f55f52d0b6a7206609"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CC175643188C]]"
 ---
 # Dėl Varėnos rajono Varėnos miesto bei Varėnos apylinkės administracinių ribų pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CC175643188C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CC175643188C
+- Ryšiai: [[Ryšiai/TAR.CC175643188C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

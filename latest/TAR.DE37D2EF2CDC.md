@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DE37D2EF2CDC"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-09-04"
 latest_path: "latest/TAR.DE37D2EF2CDC.md"
 latest_sha256: "1225cb3bf1bff7a2e1efc6173bb97d34872b5e52a17ccd1ae2b20bae207ee6c8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DE37D2EF2CDC]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DE37D2EF2CDC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DE37D2EF2CDC
+- Ryšiai: [[Ryšiai/TAR.DE37D2EF2CDC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-5ad804ccebbf700e1d03d73a
 
 
 1 straipsnio 1 dalyje vietoj žodžio „savivaldos“ įrašyti žodį „savivaldybės“ ir šią dalį išdėstyti taip:
@@ -41,35 +46,35 @@ Vilnius
 „Lietuvos Respublikos teritorija skirstoma į administracinius vienetus, kurie susideda iš gyvenamųjų vietovių. Lietuvos Respublikos teritorijos administracinis vienetas yra teritorijos dalis, kurioje valdymą organizuoja Lietuvos Respublikos Vyriausybė arba savivaldybės institucijos.“
 
 
-### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas ^s-52a8280507992dc5c3827955
 
 
 2 straipsnio 1 dalyje vietoj žodžių „išrinktos savivaldos institucijos“ įrašyti žodžius „išrinkta savivaldybės taryba“, dalį papildyti nauju trečiuoju sakiniu ir ją išdėstyti taip:
 
 
-„Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinkta savivaldybės taryba pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Jos teritorija gali būti skirstoma į seniūnijų aptarnaujamas teritorijas. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas Lietuvos Respublikos vietos savivaldos įstatyme.“
+„Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinkta savivaldybės taryba pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Jos teritorija gali būti skirstoma į seniūnijų aptarnaujamas teritorijas. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]].“
 
 
-### 3 straipsnis. 3 straipsnio papildymas ir pakeitimas
+### 3 straipsnis. 3 straipsnio papildymas ir pakeitimas ^s-4263441acaac41cddae4c458
 
 
-1. [[#3 straipsnis. 3 straipsnio papildymas ir pakeitimas|3 straipsnio]] pavadinime vietoj žodžio „teritorijos“ įrašyti žodžius „seniūnijų aptarnaujamų teritorijų ir“ ir straipsnio pavadinimą išdėstyti taip: ^151d1dd945d842a23b5e64b5
+1. [[#^s-4263441acaac41cddae4c458|3 straipsnio]] pavadinime vietoj žodžio „teritorijos“ įrašyti žodžius „seniūnijų aptarnaujamų teritorijų ir“ ir straipsnio pavadinimą išdėstyti taip: ^s-04e3a94ed9e0899196899bf8
 
 
 „3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių samprata“.
 
 
-2. Papildyti [[#3 straipsnis. 3 straipsnio papildymas ir pakeitimas|3 straipsnį]] nauja [[#^151d1dd945d842a23b5e64b5|1 dalimi]]: ^73f18c8bf50f548155585bd8
+2. Papildyti [[#^s-4263441acaac41cddae4c458|3 straipsnį]] nauja [[#^s-04e3a94ed9e0899196899bf8|1 dalimi]]: ^s-b34b0dbc7b2ca5c2d3fa19b1
 
 
 „Seniūnijos aptarnaujama teritorija yra savivaldybės teritorijos dalis, susidedanti iš gyvenamųjų vietovių ar dalies miesto teritorijos. Seniūnija turi savo aptarnaujamos teritorijos ribas ir pavadinimą.“
 
 
-3. Buvusias [[#3 straipsnis. 3 straipsnio papildymas ir pakeitimas|3 straipsnio]] 1, 2, 3, 4, 5 ir 6 dalis laikyti atitinkamai 2, 3, 4, 5, 6 ir 7 dalimis. ^1abcf7cfb1958de60ac9fcf2
+3. Buvusias [[#^s-4263441acaac41cddae4c458|3 straipsnio]] 1, 2, 3, 4, 5 ir 6 dalis laikyti atitinkamai 2, 3, 4, 5, 6 ir 7 dalimis. ^s-46fd46c53daec8ed3f2ed66b
 
 
 
-### 4 straipsnis. III skyriaus pavadinimo pakeitimas
+### 4 straipsnis. III skyriaus pavadinimo pakeitimas ^s-91d0353b077fa6c020060577
 
 
 III skyriaus pavadinime po žodžio „vienetų“ įrašyti žodžius „seniūnijų aptarnaujamų teritorijų“ ir skyriaus pavadinimą išdėstyti taip:
@@ -80,7 +85,7 @@ III skyriaus pavadinime po žodžio „vienetų“ įrašyti žodžius „seniū
 
 
 
-### 5 straipsnis. Įstatymo papildymas 71 straipsniu
+### 5 straipsnis. Įstatymo papildymas 71 straipsniu ^s-8f747d3ff7092d38894fea84
 
 
 Papildyti Įstatymą 71 straipsniu:
@@ -95,22 +100,22 @@ Seniūnijų aptarnaujamų teritorijų ribas nustato ir keičia savivaldybės tar
 Seniūnijų aptarnaujamų teritorijų ribų nustatymo ir keitimo, dokumentų pateikimo Lietuvos Respublikos adresų registro tvarkymo įstaigai tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė.“
 
 
-### 6 straipsnis. 9 straipsnio 3 ir 4 dalių pakeitimas
+### 6 straipsnis. 9 straipsnio 3 ir 4 dalių pakeitimas ^s-e48525f9d17b71bc3ade3352
 
 
-1. 9 straipsnio 3 dalyje vietoj žodžio „Valstybinės“ įrašyti žodį „Valstybės“ ir šią dalį išdėstyti taip: ^f2b5b313151d46ed0027c129
+1. 9 straipsnio 3 dalyje vietoj žodžio „Valstybinės“ įrašyti žodį „Valstybės“ ir šią dalį išdėstyti taip: ^s-48ebd090afd93467e9055be8
 
 
 „Valstybės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė.“
 
 
-2. 9 straipsnio 4 dalyje po žodžio „gatvėms“ įrašyti žodžius „ar gyvenamosioms vietovėms“, vietoj žodžių „bei gyvenamųjų namų butų“ įrašyti žodžius „ir šių pastatų butų ar patalpų“, vietoj žodžių „vietos savivaldos vykdomosios institucijos“ įrašyti žodžius „savivaldybės vykdomoji institucija“ ir šią dalį išdėstyti taip: ^2e5377910814cb6a8594f661
+2. 9 straipsnio 4 dalyje po žodžio „gatvėms“ įrašyti žodžius „ar gyvenamosioms vietovėms“, vietoj žodžių „bei gyvenamųjų namų butų“ įrašyti žodžius „ir šių pastatų butų ar patalpų“, vietoj žodžių „vietos savivaldos vykdomosios institucijos“ įrašyti žodžius „savivaldybės vykdomoji institucija“ ir šią dalį išdėstyti taip: ^s-0dfb801d8e067f61ad0fdb7a
 
 
 „Gyvenamųjų vietovių gatvėms ar gyvenamosioms vietovėms priskirtų pastatų ir šių pastatų butų ar patalpų numerius suteikia ir keičia savivaldybės vykdomoji institucija. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
 
-### 7 straipsnis. V skyriaus pavadinimo pakeitimas
+### 7 straipsnis. V skyriaus pavadinimo pakeitimas ^s-ea4d567ce3990748c94a5068
 
 
 V skyriaus pavadinime po žodžio „vienetų“ įrašyti žodį „seniūnijų“ ir skyriaus pavadinimą išdėstyti taip:
@@ -121,7 +126,7 @@ V skyriaus pavadinime po žodžio „vienetų“ įrašyti žodį „seniūnijų
 
 
 
-### 8 straipsnis. 11 straipsnio pakeitimas
+### 8 straipsnis. 11 straipsnio pakeitimas ^s-04352ba7a9dae6dcabc0160f
 
 
 11 straipsnyje vietoj žodžio „nustatytos“ įrašyti žodį „įsteigtos“, vietoj žodžių „teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestre“ įrašyti žodžius „adresų registre“ ir šį straipsnį išdėstyti taip:
@@ -133,7 +138,7 @@ V skyriaus pavadinime po žodžio „vienetų“ įrašyti žodį „seniūnijų
 Remiantis šiuo įstatymu įsteigtos apskritys ir savivaldybės registruojamos, o jų teritorijų pakeitimai apskaitomi Lietuvos Respublikos adresų registre Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
 
-### 9 straipsnis. 12 straipsnio pakeitimas
+### 9 straipsnis. 12 straipsnio pakeitimas ^s-81296bd8289795a034d3656b
 
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
@@ -145,7 +150,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 Lietuvos Respublikos seniūnijos ir gyvenamosios vietovės registruojamos, o jų teritorijų arba pavadinimų pakeitimai apskaitomi Lietuvos Respublikos adresų registre Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
 
-### 10 straipsnis. 13 straipsnio 3 dalies pakeitimas
+### 10 straipsnis. 13 straipsnio 3 dalies pakeitimas ^s-1351dd17b1a9ed7b83f716da
 
 
 13 straipsnio 3 dalyje vietoj skaičių „1:100000“ įrašyti skaičius „1:50000“, vietoj žodžių „bei Lietuvos Respublikos teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestro tvarkytoju“ įrašyti žodžius „ir Lietuvos Respublikos adresų registro tvarkymo įstaiga“ ir šią dalį išdėstyti taip:

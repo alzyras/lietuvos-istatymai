@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F5A002F376B3"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-06-27"
 latest_path: "latest/TAR.F5A002F376B3.md"
 latest_sha256: "8a6b5744a99e7d4df33a04bf1a1f5ccbe79ab5de11f2b1b870745851fc7e3e41"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F5A002F376B3]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F5A002F376B3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F5A002F376B3
+- Ryšiai: [[Ryšiai/TAR.F5A002F376B3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas ^s-fec5dcdbbf8d14599fca648e
 
 
 4 straipsnio 4 dalyje vietoj datos „2008 m. liepos 1 d.“ įrašyti datą „2008 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip:

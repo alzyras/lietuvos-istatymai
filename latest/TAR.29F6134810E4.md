@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.29F6134810E4"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 17, 23 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 17, 23 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 17, 23 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-06-16"
 latest_path: "latest/TAR.29F6134810E4.md"
 latest_sha256: "8c05c2b298f78e5fc80951804e7fbc33f021dd515b19406d1e9b0bbe9eca08b6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.29F6134810E4]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 17, 23 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.29F6134810E4.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.29F6134810E4
+- Ryšiai: [[Ryšiai/TAR.29F6134810E4|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio papildymas 6 dalimi
+### 1 straipsnis. 17 straipsnio papildymas 6 dalimi ^s-81d623168ea08bf27fe193d0
 
 
 Papildyti 17 straipsnį 6 dalimi:
@@ -43,7 +48,7 @@ Papildyti 17 straipsnį 6 dalimi:
 
 
 
-### 2 straipsnis. 23 straipsnio 1 dalies 7 punkto pakeitimas
+### 2 straipsnis. 23 straipsnio 1 dalies 7 punkto pakeitimas ^s-d8fcc2857dc27dd07a70f2b6
 
 
 23 straipsnio 1 dalies 7 punkte po žodžio „tvarka“ įrašyti žodžius „ar perduodant kitų šio Įstatymo 17 straipsnio 6 dalyje nurodytų subjektų nuosavybėn, jei tai atitinka Lietuvos Respublikos tarptautinius įsipareigojimus arba Seimo patvirtintą Nacionalinio saugumo strategiją“ ir šį punktą išdėstyti taip:

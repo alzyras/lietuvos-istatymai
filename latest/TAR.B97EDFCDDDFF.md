@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B97EDFCDDDFF"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.B97EDFCDDDFF.md"
 latest_sha256: "23ace1b85d6e0db3ee14991f2d1cbc6b9f2316ea53a03791574560ec4cf32dfe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B97EDFCDDDFF]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B97EDFCDDDFF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B97EDFCDDDFF
+- Ryšiai: [[Ryšiai/TAR.B97EDFCDDDFF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 371 straipsnio pakeitimas
+### 1 straipsnis. 371 straipsnio pakeitimas ^s-c1f369fed991e464d84f2b42
 
 
 Pakeisti 371 straipsnio pavadinimą, 1 dalį, 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:

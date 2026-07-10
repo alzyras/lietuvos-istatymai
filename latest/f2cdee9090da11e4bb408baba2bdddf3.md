@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "f2cdee9090da11e4bb408baba2bdddf3"
 pavadinimas: "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas"
+  - "gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2015-02-01"
 latest_path: "latest/f2cdee9090da11e4bb408baba2bdddf3.md"
 latest_sha256: "68752b6e7d9243e01df0e2e46471888ddaa65bf1870b0bdda747617d0ba89c2a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/f2cdee9090da11e4bb408baba2bdddf3]]"
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/f2cdee9090da11e4bb408baba2bdddf3.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/f2cdee9090da11e4bb408baba2bdddf3
+- Ryšiai: [[Ryšiai/f2cdee9090da11e4bb408baba2bdddf3|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,85 +36,85 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-8f627d377b76f9b97dabb3f5
 
 
-1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^ecdca8fac885876bb843cd03
+1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-a0163e451b7555e358cf10cf
 
 
-„5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta Lietuvos Respublikos energijos išteklių rinkos įstatyme, Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.“
+„5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta [[latest/TAR.A516DE6B7EC2|Lietuvos Respublikos energijos išteklių rinkos įstatyme]], Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.“
 
 
-2. Pakeisti 2 straipsnio 32 dalį ir ją išdėstyti taip: ^7c861c7b3d64875947e8fe75
+2. Pakeisti 2 straipsnio 32 dalį ir ją išdėstyti taip: ^s-fd5e03fd757bdc82f44b232f
 
 
 „32. Gamtinių dujų tiekimas (toliau – tiekimas) – gamtinių dujų pardavimas ir (ar) perpardavimas gamtinių dujų vartotojams.“
 
 
-3. Papildyti [[#2 straipsnis. 20 straipsnio pakeitimas|2 straipsnį]] nauja 49 dalimi: ^9db20de2a9982de109a1f36e
+3. Papildyti [[#^s-adb96d0e56cbc9c9bfbf0470|2 straipsnį]] nauja 49 dalimi: ^s-2735e6eca49e49b4848262c7
 
 
 „49. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje.“
 
 
-4. Buvusias [[#2 straipsnis. 20 straipsnio pakeitimas|2 straipsnio]] 49–57 dalis laikyti atitinkamai 50–58 dalimis. ^2c801c57af3248b16021b33a
+4. Buvusias [[#^s-adb96d0e56cbc9c9bfbf0470|2 straipsnio]] 49–57 dalis laikyti atitinkamai 50–58 dalimis. ^s-75068c288a105922f875a924
 
 
 
-### 2 straipsnis. 20 straipsnio pakeitimas
+### 2 straipsnis. 20 straipsnio pakeitimas ^s-adb96d0e56cbc9c9bfbf0470
 
 
-1. Pakeisti 20 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^902540bfdf37a5033d5852df
+1. Pakeisti 20 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^s-4fb5c1f8091b2538aa58674a
 
 
 „5) tiekimo, išskyrus prekybą gamtinių dujų biržoje;“.
 
 
-2. Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip: ^bfc65cd06da4642b13f1563e
+2. Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip: ^s-76508522eda4bae49e5ea6a3
 
 
 „5. Perdavimo, skirstymo, laikymo ir skystinimo licencijos išduodamos Lietuvos Respublikoje įsteigtam juridiniam asmeniui arba kitos valstybės narės juridinio asmens ar kitos organizacijos padaliniui, įsteigtam Lietuvos Respublikoje. Licencijos išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti licencijuojamos veiklos sąlygas. Asmenų technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką nustato Komisija, atsižvelgdama į šiuos kriterijus:
 
 
-1) asmenys, siekiantys įgyti sistemos operatoriaus licenciją ir vykdantys sistemos operatoriaus veiklą, privalo nuosavybės teise, kaip nurodyta šiame įstatyme, ar kitais teisėtais pagrindais valdyti perdavimo ar skirstymo sistemas; ^a4c9a3926aed3cb6f512bf4d
+1) asmenys, siekiantys įgyti sistemos operatoriaus licenciją ir vykdantys sistemos operatoriaus veiklą, privalo nuosavybės teise, kaip nurodyta šiame įstatyme, ar kitais teisėtais pagrindais valdyti perdavimo ar skirstymo sistemas; ^s-b07c98e4f2215d8eb62198d9
 
 
-2) asmenys, siekiantys įgyti rinkos operatoriaus licenciją ir vykdantys rinkos operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti; ^3151bf20c51ecb1be086dbfe
+2) asmenys, siekiantys įgyti rinkos operatoriaus licenciją ir vykdantys rinkos operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti; ^s-9997d126aa45f4edac897daa
 
 
-3) asmenys, siekiantys įgyti skirstymo operatoriaus licenciją ir vykdantys skirstymo operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą skirstymo sistemą, kuri turi būti sujungta su veikiančia perdavimo ar skirstymo sistema, leidžiančią užtikrinti gamtinių dujų pristatymą vartotojams; ^e693da1a9cf921cf1a6fe3bb
+3) asmenys, siekiantys įgyti skirstymo operatoriaus licenciją ir vykdantys skirstymo operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą skirstymo sistemą, kuri turi būti sujungta su veikiančia perdavimo ar skirstymo sistema, leidžiančią užtikrinti gamtinių dujų pristatymą vartotojams; ^s-ff1a6dc8bc5404a4848b0589
 
 
-4) asmenys, siekiantys įgyti laikymo licenciją ir vykdantys laikymo veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą gamtinių dujų saugyklą, kurios įrenginiai turi būti sujungti su veikiančia perdavimo sistema; ^33e50f0343d0280f0f0072a4
+4) asmenys, siekiantys įgyti laikymo licenciją ir vykdantys laikymo veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą gamtinių dujų saugyklą, kurios įrenginiai turi būti sujungti su veikiančia perdavimo sistema; ^s-3454ee91abd019f5cf7f07cd
 
 
-5) asmenys, siekiantys įgyti skystinimo licenciją ir vykdantys skystinimo veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri turi būti sujungta su veikiančia perdavimo sistema; ^6af9a4b944817568d209d879
+5) asmenys, siekiantys įgyti skystinimo licenciją ir vykdantys skystinimo veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri turi būti sujungta su veikiančia perdavimo sistema; ^s-90aaac6d87f8c24980be5862
 
 
-6) pareiškėjo, siekiančio įgyti licenciją, finansinis pajėgumas vertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų (arba nuo pareiškėjo įregistravimo dienos, jeigu pareiškėjas vykdė veiklą trumpiau negu dvejus finansinius metus) balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Komisijos nustatyti finansinio pajėgumo rodikliai; ^bddf8bb659bb5e29a23486f0
+6) pareiškėjo, siekiančio įgyti licenciją, finansinis pajėgumas vertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų (arba nuo pareiškėjo įregistravimo dienos, jeigu pareiškėjas vykdė veiklą trumpiau negu dvejus finansinius metus) balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Komisijos nustatyti finansinio pajėgumo rodikliai; ^s-eef23dbb7db933c05df17276
 
 
-7) pareiškėjas, siekiantis įgyti licenciją, išskyrus tiekimo licenciją, privalo turėti darbuotojų licencijuojamai veiklai vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai tvarkyti, vartotojams informuoti ir konsultuoti bei skundams dėl licencijuojamos veiklos nagrinėti.“ ^005c9e806fa87353ee7227d6
+7) pareiškėjas, siekiantis įgyti licenciją, išskyrus tiekimo licenciją, privalo turėti darbuotojų licencijuojamai veiklai vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai tvarkyti, vartotojams informuoti ir konsultuoti bei skundams dėl licencijuojamos veiklos nagrinėti.“ ^s-af265e5c511096031dbb6bf2
 
 
 
-### 3 straipsnis. 23 straipsnio pakeitimas
+### 3 straipsnis. 23 straipsnio pakeitimas ^s-1a2ccd35a5f0418f1458c9c6
 
 
-1. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip: ^40decd98729f03f70834e7e4
+1. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip: ^s-5b4ffe220d70fbeafb935230
 
 
 „3. Tiekimo įmonė tiekia gamtines dujas gamtinių dujų vartotojams pagal dvišales sutartis ir (ar) kitais būdais Vyriausybės ar jos įgaliotos institucijos patvirtintose Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.“
 
 
-2. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^c2cd3e68b6b09147032dc5dc
+2. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^s-7995be9e621688f1579c804e
 
 
 „5. Perdavimo sistemos naudotojai yra atsakingi perdavimo sistemos operatoriui už pristatomų į perdavimo sistemą ir paimamų iš perdavimo sistemos gamtinių dujų kiekių subalansavimą pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles.“
 
 
 
-### 4 straipsnis. 33 straipsnio pakeitimas
+### 4 straipsnis. 33 straipsnio pakeitimas ^s-99c1e5960b4557a76acae8e6
 
 
 Pakeisti 33 straipsnio 6 punktą ir jį išdėstyti taip:
@@ -119,29 +124,29 @@ Pakeisti 33 straipsnio 6 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 38 straipsnio pakeitimas
+### 5 straipsnis. 38 straipsnio pakeitimas ^s-cdfa661c4e3224e40c380d62
 
 
-1. Pakeisti 38 straipsnio pavadinimą ir jį išdėstyti taip: ^b35f74aa37e621252bd7ec7a
+1. Pakeisti 38 straipsnio pavadinimą ir jį išdėstyti taip: ^s-8b1db3a39348eecd1f24a89a
 
 
 „38 straipsnis. Rinkos operatoriaus ir energijos išteklių biržos operatoriaus užduotys ir veikla“.
 
 
-2. Papildyti 38 straipsnį 5 dalimi: ^9ef7deec87021e6521c75178
+2. Papildyti 38 straipsnį 5 dalimi: ^s-19a5dd558ebb142ba99c8d59
 
 
 „5. Rinkos operatorius ir energijos išteklių biržos operatorius yra atsakingi, kad gamtinių dujų biržoje sudarytų sandorių pagrindu parduotas ir įsigytas gamtinių dujų kiekis sutaptų, o už gamtinių dujų biržoje parduotų gamtinių dujų kiekių patiekimą į perdavimo sistemą ir nupirktų gamtinių dujų kiekių paėmimą iš perdavimo sistemos yra atsakingi gamtinių dujų rinkos dalyvis ir energijos išteklių biržos dalyvis.“
 
 
 
-### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-452224a6d6f4ffc5cd87c881
 
 
-1. Šis įstatymas, išskyrus [[#^e36ace8da42e0877592bcb4d|šio straipsnio 2 dalį]], įsigalioja 2015 m. vasario 1 d. ^4ddc9842b616e47877244939
+1. Šis įstatymas, išskyrus [[#^s-7341f5c83331751cba79cc25|šio straipsnio 2 dalį]], įsigalioja 2015 m. vasario 1 d. ^s-96896aa5dd95743cb9f818f9
 
 
-2. Lietuvos Respublikos Vyriausybė, jos įgaliota institucija, Valstybinė kainų ir energetikos kontrolės komisija iki 2015 m. sausio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^e36ace8da42e0877592bcb4d
+2. Lietuvos Respublikos Vyriausybė, jos įgaliota institucija, Valstybinė kainų ir energetikos kontrolės komisija iki 2015 m. sausio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-7341f5c83331751cba79cc25
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A3D41A800E01"
 pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas"
+  - "saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.A3D41A800E01.md"
 latest_sha256: "826d21e7a2f94d4aba93207cf42260694477fab03a95b5f45f58e134022040ff"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A3D41A800E01]]"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 20 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A3D41A800E01.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A3D41A800E01
+- Ryšiai: [[Ryšiai/TAR.A3D41A800E01|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas ^s-07b9551e1016a2329b4dcda3
 
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-98297e95877ce9572aa55ee7
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8937DA604013"
 pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 12, 13, 16 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 12, 13, 16 straipsnių pakeitimo ir papildymo įstatymas"
+  - "piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 12, 13, 16 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-28"
 latest_path: "latest/TAR.8937DA604013.md"
 latest_sha256: "af2787d4b78f5262b596a661295cd44d1313da6af6131e2c5991d8d472f3b535"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8937DA604013]]"
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 12, 13, 16 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8937DA604013.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8937DA604013
+- Ryšiai: [[Ryšiai/TAR.8937DA604013|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Nr. 35-1163, Nr. 71-2518)
 
 
 
-### 1 straipsnis. 12 straipsnio papildymas 12 punktu
+### 1 straipsnis. 12 straipsnio papildymas 12 punktu ^s-ec6b94401fd5051194130e7f
 
 
 Papildyti 12 straipsnį 12 punktu:
@@ -42,7 +47,7 @@ Papildyti 12 straipsnį 12 punktu:
 
 
 
-### 2 straipsnis. 13 straipsnio 3 punkto papildymas
+### 2 straipsnis. 13 straipsnio 3 punkto papildymas ^s-07ce1740dd4b57c006e6ef60
 
 
 Papildyti 13 straipsnio 3 punktą ir jį išdėstyti taip:
@@ -52,7 +57,7 @@ Papildyti 13 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
 
-### 3 straipsnis. 16 straipsnio 7 dalies pakeitimas
+### 3 straipsnis. 16 straipsnio 7 dalies pakeitimas ^s-f5f4161d394e342330f9c861
 
 
 Pakeisti 16 straipsnio 7 dalį ir ją išdėstyti taip:

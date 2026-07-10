@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C9CA1E22776B"
 pavadinimas: "Dėl kai kurių Lietuvos Respublikos teisinių aktų žemės klausimais, kurie, įsigaliojus Lietuvos Respublikos žemės įstatymui, netenka galios"
+aliases:
+  - "Dėl kai kurių Lietuvos Respublikos teisinių aktų žemės klausimais, kurie, įsigaliojus Lietuvos Respublikos žemės įstatymui, netenka galios"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-20"
 latest_path: "latest/TAR.C9CA1E22776B.md"
 latest_sha256: "75d66f89c18900d176fd026cb69c272855208bf008de242c417d3d2bd39db928"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C9CA1E22776B]]"
 ---
 # Dėl kai kurių Lietuvos Respublikos teisinių aktų žemės klausimais, kurie, įsigaliojus Lietuvos Respublikos žemės įstatymui, netenka galios
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C9CA1E22776B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C9CA1E22776B
+- Ryšiai: [[Ryšiai/TAR.C9CA1E22776B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

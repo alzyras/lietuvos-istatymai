@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.36002DDDDF95"
 pavadinimas: "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 2, 10 straipsnių, 4, 5 priedėlių pakeitimo ir įstatymo papildymo 15 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 2, 10 straipsnių, 4, 5 priedėlių pakeitimo ir įstatymo papildymo 15 straipsniu įstatymas"
+  - "2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 2, 10 straipsnių, 4, 5 priedėlių pakeitimo ir įstatymo papildymo 15 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-05-05"
 latest_path: "latest/TAR.36002DDDDF95.md"
 latest_sha256: "f53cc1dc21f6e3bd3e5d4e37dcd8e279ce92824380d7fd681780b2ab0752356e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.36002DDDDF95]]"
 ---
 # Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 2, 10 straipsnių, 4, 5 priedėlių pakeitimo ir įstatymo papildymo 15 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.36002DDDDF95.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.36002DDDDF95
+- Ryšiai: [[Ryšiai/TAR.36002DDDDF95|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-127dd31918f366b8c8503a52
 
 
-2 straipsnio 3 dalies 1 punkte vietoj skaičiaus „159408“ įrašyti skaičių „157299“, [[#^5d31721caf7a9ca4ee6de979|2 punkte]] vietoj skaičiaus „16793“ įrašyti skaičių „18902“ ir šią dalį išdėstyti taip:
+2 straipsnio 3 dalies 1 punkte vietoj skaičiaus „159408“ įrašyti skaičių „157299“, [[#^s-01255102a154f66dcb4f4545|2 punkte]] vietoj skaičiaus „16793“ įrašyti skaičių „18902“ ir šią dalį išdėstyti taip:
 
 
 „3. Patvirtinti savivaldybių biudžetams bendrąsias dotacijas – 176201 tūkst. litų (5 priedėlis), iš jų:
 
 
-1) mokestinėms pajamoms išlyginti – 157299 tūkst. litų; ^c4103d4ed1452e0ff2b62938
+1) mokestinėms pajamoms išlyginti – 157299 tūkst. litų; ^s-acec501f7ae4622c34a3dccd
 
 
-2) išlaidų struktūros skirtumams išlyginti – 18902 tūkst. litų.“ ^5d31721caf7a9ca4ee6de979
+2) išlaidų struktūros skirtumams išlyginti – 18902 tūkst. litų.“ ^s-01255102a154f66dcb4f4545
 
 
 
-### 2 straipsnis. 10 straipsnio papildymas
+### 2 straipsnis. 10 straipsnio papildymas ^s-95f1cc952d5ce68701eac9a4
 
 
 10 straipsnį papildyti 2 dalimi:
@@ -57,7 +62,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo papildymas 15 straipsniu
+### 3 straipsnis. Įstatymo papildymas 15 straipsniu ^s-594ee6df386437ee82cc5fbd
 
 
 Papildyti Įstatymą 15 straipsniu:
@@ -70,7 +75,7 @@ Panaikinus Marijampolės rajono savivaldybę, išlaidos, susijusios su neįdarbi
 
 
 
-### 4 straipsnis. Įstatymo 4 ir 5 priedėlių pakeitimas
+### 4 straipsnis. Įstatymo 4 ir 5 priedėlių pakeitimas ^s-71cdecba46eed5f61e8c8101
 
 
 Pakeisti Įstatymo 4 ir 5 priedėlius ir juos išdėstyti taip:
@@ -78,7 +83,7 @@ Pakeisti Įstatymo 4 ir 5 priedėlius ir juos išdėstyti taip:
 
 „Lietuvos Respublikos
 1999 m. gruodžio 23 d.
-įstatymo Nr. VIII-1503
+[[latest/TAR.689A5959367D|įstatymo Nr. VIII-1503]]
 4 priedėlis
 
 SAVIVALDYBIŲ BIUDŽETAMS PROGNOZUOJAMOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO DALYS IR MOKESTINĖS PAJAMOS

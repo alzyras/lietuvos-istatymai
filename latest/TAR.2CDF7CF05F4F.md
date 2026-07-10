@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2CDF7CF05F4F"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 6 ir 16 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 6 ir 16 straipsnių pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 6 ir 16 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.2CDF7CF05F4F.md"
 latest_sha256: "35b620da1f94fd006416b202a8f90abfc71fe7bc03d370b9d16b62367203751e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2CDF7CF05F4F]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6 ir 16 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2CDF7CF05F4F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2CDF7CF05F4F
+- Ryšiai: [[Ryšiai/TAR.2CDF7CF05F4F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 12 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 12 punkto pakeitimas ^s-4278b3d4c1006cdcd79c6fcb
 
 
 6 straipsnio 12 punkte po žodžio „įstaigų“ išbraukti žodį „šeimynų“ ir šį punktą išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 16 straipsnio 2 dalies 21 punkto pakeitimas
+### 2 straipsnis. 16 straipsnio 2 dalies 21 punkto pakeitimas ^s-911b049da16225aa61859bc3
 
 
 16 straipsnio 2 dalies 21 punkte po žodžių „uždarųjų akcinių bendrovių“ išbraukti žodžius „ir šeimynų“ ir šį punktą išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-e154e7bfba42772cba79009b
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

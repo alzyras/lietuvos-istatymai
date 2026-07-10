@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B07F6DFD836A"
 pavadinimas: "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 2, 3, 13, 14, 24 straipsnių, įstatymo priedo pakeitimo bei papildymo ir 14 straipsnio 9 dalies pripažinimo netekusia galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 2, 3, 13, 14, 24 straipsnių, įstatymo priedo pakeitimo bei papildymo ir 14 straipsnio 9 dalies pripažinimo netekusia galios įstatymas"
+  - "kilnojamųjų kultūros vertybių apsaugos įstatymo 2, 3, 13, 14, 24 straipsnių, įstatymo priedo pakeitimo bei papildymo ir 14 straipsnio 9 dalies pripažinimo netekusia galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-04-30"
 latest_path: "latest/TAR.B07F6DFD836A.md"
 latest_sha256: "c76fc1d253f6b91b37ac27cc26f2922f2ad7abd65f688a7bec1ee3b5938b0818"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B07F6DFD836A]]"
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 2, 3, 13, 14, 24 straipsnių, įstatymo priedo pakeitimo bei papildymo ir 14 straipsnio 9 dalies pripažinimo netekusia galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B07F6DFD836A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B07F6DFD836A
+- Ryšiai: [[Ryšiai/TAR.B07F6DFD836A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,199 +36,199 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo tikslas
+### 1 straipsnis. Įstatymo tikslas ^s-074b10a68ae1197f84e7fdf9
 
 
-Šiuo Įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo [[#7 straipsnis. Įstatymo priedo pakeitimas|7 straipsnyje]].
+Šiuo Įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo [[#^s-5830ee53265d45508fa176c4|7 straipsnyje]].
 
 
 
-### 2 straipsnis.         2 straipsnio 1, 5, 10 punktų pakeitimas ir straipsnio papildymas 12, 13, 14 punktais
+### 2 straipsnis.         2 straipsnio 1, 5, 10 punktų pakeitimas ir straipsnio papildymas 12, 13, 14 punktais ^s-81073b5b7cdcaf7cb9254495
 
 
-1. 2 straipsnio 1 dalies 1 punkte išbraukti žodžius ir skaičių „prieš 50 metų ir anksčiau sukurti“, po žodžio „reiškinius“ įrašyti žodžius „ir įtraukti į valstybinę kilnojamųjų kultūros vertybių apskaitą“, išbraukti žodžius ir skaičių „kilnojamąja kultūros vertybe gali būti ir vėliau nei prieš 50 metų sukurtas kūrinys, turintis didelę kultūrinę vertę“ ir šį punktą išdėstyti taip: ^94287811c1febc06337695f9
+1. 2 straipsnio 1 dalies 1 punkte išbraukti žodžius ir skaičių „prieš 50 metų ir anksčiau sukurti“, po žodžio „reiškinius“ įrašyti žodžius „ir įtraukti į valstybinę kilnojamųjų kultūros vertybių apskaitą“, išbraukti žodžius ir skaičių „kilnojamąja kultūros vertybe gali būti ir vėliau nei prieš 50 metų sukurtas kūrinys, turintis didelę kultūrinę vertę“ ir šį punktą išdėstyti taip: ^s-da0ed25da02ee01118d47959
 
 
 „1) kilnojamosios kultūros vertybės – pagal paskirtį ir prigimtį kilnojamieji visuomenės ir žmogaus veiklos medžiaginiai kūriniai ir kiti daiktai, turintys didelę kultūrinę vertę, tai yra reikšmingi etniniu, archeologiniu, istoriniu, meniniu, moksliniu, techniniu, religiniu ir kitokiais požiūriais, taip pat tuo, kad apibūdina tipiškus bei specifinius nacionalinio gyvenimo reiškinius, ir įtraukti į valstybinę kilnojamųjų kultūros vertybių apskaitą;“.
 
 
-2. 2 straipsnio 1 dalies 5 punkte prieš žodžius „nesančių valstybinėse saugyklose“ įrašyti žodžius „kilnojamųjų kultūros vertybių“, po žodžių „valstybinėse saugyklose“ įrašyti žodžius „įrašymas į Kultūros vertybių registrą (toliau – Registras), kuriame taip pat registruojamos ir nekilnojamosios kultūros vertybės, ir valstybinėse saugyklose esančių kilnojamųjų kultūros vertybių sąrašų sudarymas“ ir šį punktą išdėstyti taip: ^4590bd9d32093c33cb3a0afb
+2. 2 straipsnio 1 dalies 5 punkte prieš žodžius „nesančių valstybinėse saugyklose“ įrašyti žodžius „kilnojamųjų kultūros vertybių“, po žodžių „valstybinėse saugyklose“ įrašyti žodžius „įrašymas į Kultūros vertybių registrą (toliau – Registras), kuriame taip pat registruojamos ir nekilnojamosios kultūros vertybės, ir valstybinėse saugyklose esančių kilnojamųjų kultūros vertybių sąrašų sudarymas“ ir šį punktą išdėstyti taip: ^s-ffbebe09af7575dac0270b1c
 
 
 „5) valstybinė kilnojamųjų kultūros vertybių apskaita – kilnojamųjų kultūros vertybių, nesančių valstybinėse saugyklose, įrašymas į Kultūros vertybių registrą (toliau – Registras), kuriame taip pat registruojamos ir nekilnojamosios kultūros vertybės, ir valstybinėse saugyklose esančių kilnojamųjų kultūros vertybių sąrašų sudarymas;“.
 
 
-3. 2 straipsnio 1 dalies 10 punkte išbraukti žodžius „iš Lietuvos Respublikos teritorijos“, po žodžio „laikotarpiui“ išbraukti žodį „ir“ ir šį punktą išdėstyti taip: ^53a47e9913d6416b8709e628
+3. 2 straipsnio 1 dalies 10 punkte išbraukti žodžius „iš Lietuvos Respublikos teritorijos“, po žodžio „laikotarpiui“ išbraukti žodį „ir“ ir šį punktą išdėstyti taip: ^s-e66c64a203259fab7ce62dac
 
 
 „10) neteisėtai iš Lietuvos Respublikos išvežtos kilnojamosios kultūros vertybės – kilnojamosios kultūros vertybės, kurios išvežtos pažeidžiant kilnojamųjų kultūros vertybių apsaugą reglamentuojančius teisės aktus arba pasibaigus kilnojamųjų kultūros vertybių teisėto laikino išvežimo laikotarpiui nebuvo grąžintos į Lietuvos Respubliką, arba buvo išvežtos pažeidus kitas teisės aktais nustatytas laikino išvežimo sąlygas;“.
 
 
-4. Papildyti 2 straipsnio 1 dalį 12 punktu: ^2e89b64989cfe8dddefe9475
+4. Papildyti 2 straipsnio 1 dalį 12 punktu: ^s-110dbd86dcc250d299c4e999
 
 
 „12) vaizduojamosios dailės kūriniai – paveikslai, piešiniai, skulptūros ir grafikos kūriniai, tapyba ir kiti kūriniai, sukurti bet kokia kūrimo priemone ir ant (iš) bet kokios medžiagos;“.
 
 
-5. Papildyti 2 straipsnio 1 dalį 13 punktu: ^19b209fdd68028306aa20b01
+5. Papildyti 2 straipsnio 1 dalį 13 punktu: ^s-87022b489e58d6048986e922
 
 
 „13) taikomosios dailės kūriniai – audiniai, baldai, drabužiai, ginklai, indai, papuošalai, šviestuvai, dekoratyvinio interjero puošmenos ir kiti kūriniai;“.
 
 
-6. Papildyti 2 straipsnio 1 dalį 14 punktu: ^e26fa7c14b46e533cfd937b2
+6. Papildyti 2 straipsnio 1 dalį 14 punktu: ^s-847a7d55a0b65e826fa07613
 
 
 „14) neteisėtai išvežti iš Europos Sąjungos valstybės narės teritorijos kultūros objektai – objektai, apibrėžti 1993 m. kovo 15 d. Tarybos direktyvoje 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo, kurie neteisėtai išvežti iš Europos Sąjungos valstybės narės teritorijos. Šiame įstatyme sąvoka „Europos Sąjungos valstybė narė“ apima ir Europos ekonominės erdvės valstybes.“
 
 
 
-### 3 straipsnis.         3 straipsnio 1 dalies 5, 7, 10, 11 punktų pakeitimas ir 1 dalies papildymas 12, 13, l4 punktais
+### 3 straipsnis.         3 straipsnio 1 dalies 5, 7, 10, 11 punktų pakeitimas ir 1 dalies papildymas 12, 13, l4 punktais ^s-c4cc53ed73353ed6f86c25c9
 
 
-1. [[#^38d9703206c83d3511fb09d3|3 straipsnio 1 dalyje]] išbraukti žodžius „kilnojamosios kultūros“, po žodžio „yra“ įrašyti žodį „meno“ ir šią dalį išdėstyti taip: ^38d9703206c83d3511fb09d3
+1. [[#^s-62bb885ba4375b6c6664b7d5|3 straipsnio 1 dalyje]] išbraukti žodžius „kilnojamosios kultūros“, po žodžio „yra“ įrašyti žodį „meno“ ir šią dalį išdėstyti taip: ^s-62bb885ba4375b6c6664b7d5
 
 
 „1. Šio įstatymo objektai yra meno vertybės ir antikvariniai daiktai.“
 
 
-2. Pakeisti 3 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^ceed2c2572be922eefe55b5b
+2. Pakeisti 3 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^s-14659066a269c56af46fd1d6
 
 
 „5) meno vertybės: vaizduojamosios ir taikomosios dailės kūriniai;“.
 
 
-3. Pakeisti 3 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^9a8dc5dd2842b1d45b250d48
+3. Pakeisti 3 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^s-3f9344250b80c69c8d704759
 
 
 „7) inkunabulai ir rankraščiai; žemėlapiai bei muzikos natos; knygos ir kiti leidiniai;“.
 
 
-4. Pakeisti 3 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip: ^c7f84c3b2be430ef86fbc21c
+4. Pakeisti 3 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip: ^s-6826330ecf014370fa9e939d
 
 
 „10) prieš 50 metų ir anksčiau sukurti dokumentai ant bet kokio pagrindo;“.
 
 
-5. Pakeisti 3 straipsnio 1 dalies 11 punktą ir jį išdėstyti taip: ^3179863ee7dadb32bb8c07b2
+5. Pakeisti 3 straipsnio 1 dalies 11 punktą ir jį išdėstyti taip: ^s-5dac750622417f1194ee2f42
 
 
 „11) kolekcijos, rinkiniai, komplektai ar kitokie dariniai, turintys kultūrinę vertę, kaip visuma, nesvarbu, kokia atskirų dalių vertė ir rūšis; zoologijos, botanikos ar anatomijos kolekcijos ir egzemplioriai; kolekcijos, reikšmingos paleontologiniu, etnografiniu ar numizmatiniu požiūriu;“.
 
 
-6. Papildyti 3 straipsnio 1 dalį 12 punktu: ^9cab096cb0cfb32e134c1826
+6. Papildyti 3 straipsnio 1 dalį 12 punktu: ^s-818a701057bb37ad7b259192
 
 
 „12) elementai, esantys neatsiejama išardytų meninių, istorinių ar religinių objektų dalis;“.
 
 
-7. Papildyti 3 straipsnio 1 dalį 13 punktu: ^2d8de50a4aa316af580e7e17
+7. Papildyti 3 straipsnio 1 dalį 13 punktu: ^s-7e05c9fab8ffe0fdaea1400c
 
 
 „13) fotografijos ir kino juostos, jų negatyvai;“.
 
 
-8. Papildyti 3 straipsnio 1 dalį 14 punktu: ^94655f5ea80671dbbe6a5d40
+8. Papildyti 3 straipsnio 1 dalį 14 punktu: ^s-2f016b1f9bb841ddc5802f3e
 
 
 „14) kiti daiktai, sukurti prieš 50 metų ir anksčiau.“
 
 
 
-### 4 straipsnis.         13 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
+### 4 straipsnis.         13 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi ^s-caffeb1636d633b85563c10b
 
 
-1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip: ^5c17eb11ce72d128d04fa01f
+1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip: ^s-20b4fbe0c42deb8ef0696dec
 
 
-„1. Šio įstatymo [[#3 straipsnis.         3 straipsnio 1 dalies 5, 7, 10, 11 punktų pakeitimas ir 1 dalies papildymas 12, 13, l4 punktais|3 straipsnyje]] išvardyti objektai, turintys išliekamąją kultūrinę vertę, yra įtraukiami į valstybinę kilnojamųjų kultūros vertybių apskaitą. Objektai, įtraukti į valstybinę apskaitą, ir bažnytinių institucijų inventorius yra laikomi nacionaliniu turtu ir saugomi valstybės.“
+„1. Šio įstatymo [[#^s-c4cc53ed73353ed6f86c25c9|3 straipsnyje]] išvardyti objektai, turintys išliekamąją kultūrinę vertę, yra įtraukiami į valstybinę kilnojamųjų kultūros vertybių apskaitą. Objektai, įtraukti į valstybinę apskaitą, ir bažnytinių institucijų inventorius yra laikomi nacionaliniu turtu ir saugomi valstybės.“
 
 
-2. Papildyti 13 straipsnį 6 dalimi: ^7c158c3973d70c6b9eeb1660
+2. Papildyti 13 straipsnį 6 dalimi: ^s-d9c264cf30a9b3001a3c0465
 
 
 „6. Kilnojamoji kultūros vertybė išbraukiama iš valstybinės apskaitos, kai ji negrąžinamai išvežama pagal tarpvalstybinius susitarimus šio įstatymo 24 straipsnyje nustatytais atvejais.“
 
 
 
-### 5 straipsnis. 14 straipsnio 1 dalies pakeitimas ir 9 dalies pripažinimas netekusia galios
+### 5 straipsnis. 14 straipsnio 1 dalies pakeitimas ir 9 dalies pripažinimas netekusia galios ^s-63a02a9dfe10312519775cc2
 
 
-1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip: ^b350292af95b2a054cdbbed5
+1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip: ^s-61c759866fbe3a422fb910ad
 
 
 „1. Registras veikia Valstybės registrų įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
 
-2. 14 straipsnio 9 dalį pripažinti netekusia galios. ^9bbb29bd71dd7cfaa28a31f8
+2. 14 straipsnio 9 dalį pripažinti netekusia galios. ^s-aba106f81f3e2c2497fcaab3
 
 
-3. Buvusias 14 straipsnio 10 ir 11 dalis laikyti atitinkamai 9 ir 10 dalimis. ^158443f02c85b1bbad250f90
+3. Buvusias 14 straipsnio 10 ir 11 dalis laikyti atitinkamai 9 ir 10 dalimis. ^s-82ffcf2e6b94045e5c9b1b45
 
 
 
-### 6 straipsnis. 24 straipsnio pakeitimas ir papildymas
+### 6 straipsnis. 24 straipsnio pakeitimas ir papildymas ^s-57192fcf76788de4def59263
 
 
-1. Pakeisti 24 straipsnio pavadinimą ir jį išdėstyti taip: ^b8489ec2f84c2a717ae2417d
+1. Pakeisti 24 straipsnio pavadinimą ir jį išdėstyti taip: ^s-49d7bf932139f3a76a42cbcc
 
 
 „24 straipsnis.     Kilnojamųjų kultūros vertybių bei antikvarinių daiktų išvežimas iš Lietuvos Respublikos ir neteisėtai iš Europos Sąjungos valstybės narės teritorijos išvežtų kultūros objektų grąžinimas“.
 
 
-2. Pakeisti 24 straipsnio 1 dalį ir ją dalį išdėstyti taip: ^087c69d800136bc258e707fb
+2. Pakeisti 24 straipsnio 1 dalį ir ją dalį išdėstyti taip: ^s-bf2bb1e4ba1a269c7add74e0
 
 
 „1. Kilnojamųjų kultūros vertybių ir antikvarinių daiktų išvežimo iš Lietuvos Respublikos ir neteisėtai išvežtų iš Europos Sąjungos valstybės narės teritorijos kultūros objektų grąžinimo tvarkas nustato Vyriausybė.“
 
 
-3. Pakeisti ir papildyti 24 straipsnio 3 dalį ir ją išdėstyti taip: ^84eea5cbbe5e488dd01b1b17
+3. Pakeisti ir papildyti 24 straipsnio 3 dalį ir ją išdėstyti taip: ^s-4eea1c998839508fd121bc8a
 
 
 „3. Jeigu ekspertų taryba nustato, kad norimas išvežti daiktas yra meno vertybė arba antikvarinis daiktas, kurio nebuvimas Lietuvoje nuskurdintų Lietuvos kultūros paveldą, leidimas negrąžinamai išvežti šį daiktą neduodamas. Šiuo atveju meno vertybė arba antikvarinis daiktas, savininkui sutikus, gali būti įrašomas į Registrą arba valstybės išperkamas. Tokią meno vertybę arba antikvarinį daiktą Kultūros vertybių apsaugos departamentas gali leisti laikinai (iki 3 metų) išvežti kultūrinių mainų ar kitiems tikslams. Jeigu ekspertų taryba nustato, kad norimas išvežti daiktas yra nereikšmingas Lietuvos kultūros paveldui, savininko prašymu išduodamas leidimas šį daiktą išvežti negrąžinamai arba laikinai (iki 3 metų).“
 
 
-4. Pakeisti 24 straipsnio 6 dalį ir ją išdėstyti taip: ^825716b8543ed8589a32b05b
+4. Pakeisti 24 straipsnio 6 dalį ir ją išdėstyti taip: ^s-aef430b76effa3dfd93b09fa
 
 
 „6. Į Registrą įrašytą arba valstybiniame muziejuje ar bibliotekoje saugomą kilnojamąją kultūros vertybę iš Lietuvos Respublikos visam laikui išvežti draudžiama. Ji gali būti išvežta tik laikinai (iki 3 metų), turint Kultūros vertybių apsaugos departamento išduotą leidimą. Tokia kilnojamoji kultūros vertybė, Valstybinei paminklosaugos komisijai sutikus, iš Lietuvos Respublikos negrąžinamai gali būti išvežta tik pagal tarpvalstybinius susitarimus:
 
 
-1) kilnojamųjų kultūros vertybių mainų atveju, kai kilnojamųjų kultūros vertybių vertinimo ekspertų komisija nustato, kad mainais gaunama kilnojamoji kultūros vertybė neabejotinai reikšmingesnė Lietuvos kultūrai negu atiduodama kilnojamoji kultūros vertybė; ^45a9d5fd12078438ee414041
+1) kilnojamųjų kultūros vertybių mainų atveju, kai kilnojamųjų kultūros vertybių vertinimo ekspertų komisija nustato, kad mainais gaunama kilnojamoji kultūros vertybė neabejotinai reikšmingesnė Lietuvos kultūrai negu atiduodama kilnojamoji kultūros vertybė; ^s-935dc54e333b32e68cb06a0d
 
 
-2) kilnojamosios kultūros vertybės grąžinimo valstybei, iš kurios buvo neteisėtai išvežta, atveju.“ ^6e29d88939770e4d72b3905c
+2) kilnojamosios kultūros vertybės grąžinimo valstybei, iš kurios buvo neteisėtai išvežta, atveju.“ ^s-7ccc0740617f8eb421460b02
 
 
-5. 24 straipsnio 10 dalies pirmame sakinyje išbraukti žodžius „nesančių UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų narėmis“ ir šią dalį išdėstyti taip: ^c2d3967f8045eb1d6d6e4b00
+5. 24 straipsnio 10 dalies pirmame sakinyje išbraukti žodžius „nesančių UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų narėmis“ ir šią dalį išdėstyti taip: ^s-bc9553f6495b16475ddbd01e
 
 
 „10. Pavogtos ar neteisėtai iš užsienio valstybių – Europos Sąjungos narių išvežtos kilnojamosios kultūros vertybės ir antikvariniai daiktai užsienio valstybei, kuri kreipiasi dėl jų grąžinimo, grąžinami, kai Lietuvos Respublikos teismas priima atitinkamą sprendimą. Visais atvejais tokia byla gali būti keliama praėjus ne daugiau kaip 30 metų nuo objekto neteisėto išvežimo iš besikreipiančios užsienio valstybės teritorijos. Užsienio valstybės įgaliota institucija į Kultūros ministeriją gali kreiptis ne vėliau kaip per vienerius metus nuo tos dienos, kurią besikreipianti užsienio valstybė nustatė kilnojamųjų kultūros vertybių ir antikvarinių daiktų buvimo vietą ir jų valdytojo arba naudotojo tapatybę.“
 
 
-6. Pakeisti 24 straipsnio 13 dalį ir ją išdėstyti taip: ^84c89a39150c0ffe678e03d9
+6. Pakeisti 24 straipsnio 13 dalį ir ją išdėstyti taip: ^s-cf375853e38bb6e7237f127f
 
 
 „13. Tais atvejais, kai Europos Sąjungos valstybėse narėse kultūros objektai sudaro neatskiriamą valstybei, savivaldybėms, visuomeninėms organizacijoms nuosavybės teise priklausančių kolekcijų, įtrauktų į muziejų, archyvų arba bibliotekų saugomų kolekcijų inventorinius sąrašus, dalį, taip pat bažnytinėms kilnojamosioms kultūros vertybėms tose valstybėse narėse, kur joms taikomos ypatingos apsaugos nuostatos pagal atitinkamos valstybės įstatymus, byla dėl grąžinimo gali būti keliama praėjus ne daugiau kaip 75 metams nuo objekto neteisėto išvežimo iš besikreipiančios Europos Sąjungos valstybės narės teritorijos, išskyrus atvejus, kai tokioms byloms kai kuriose valstybėse narėse netaikomas joks laiko apribojimas, ir atvejus, kai tarp valstybių narių yra sudarytos dvišalės sutartys, nustatančios ilgesnį negu 75 metų laiką. Europos Sąjungos valstybės narės įgaliota institucija į Kultūros ministeriją gali kreiptis ne vėliau kaip per 3 metus nuo tos dienos, kai besikreipiančioji Europos Sąjungos valstybė narė nustatė kultūros objektų buvimo vietą ir jų valdytojo arba naudotojo tapatybę.“
 
 
-7. Papildyti 24 straipsnį nauja 14 dalimi: ^a3868b46bdb1f5e7e22e83d5
+7. Papildyti 24 straipsnį nauja 14 dalimi: ^s-0fa9a85453198f2d5bdb18f1
 
 
 „14 Tais atvejais, kai valstybėse – UNIDROIT konvencijos dėl pavogtų ar neteisėtai išvežtų kultūros objektų narėse kultūros objektai sudaro neatskiriamą valstybei, savivaldybėms, visuomeninėms organizacijoms nuosavybės teise priklausančių kolekcijų, įtrauktų į muziejų, archyvų arba bibliotekų saugomų kolekcijų inventorinius sąrašus, dalį, taip pat bažnytinėms kilnojamosioms kultūros vertybėms tose valstybėse narėse, kur joms taikomos ypatingos apsaugos nuostatos pagal atitinkamos valstybės įstatymus, byloms dėl grąžinimo netaikomi jokie laiko apribojimai. Valstybės narės įgaliota institucija į Kultūros ministeriją gali kreiptis ne vėliau kaip per 3 metus nuo tos dienos, kai besikreipiančioji valstybė narė nustatė kultūros objektų buvimo vietą ir jų valdytojo arba naudotojo tapatybę.“
 
 
-8. Buvusią 24 straipsnio 14 dalį laikyti 15 dalimi. ^bb2471ce43fdd2a26d6e60b1
+8. Buvusią 24 straipsnio 14 dalį laikyti 15 dalimi. ^s-c7cefdd27c12e43fb197c325
 
 
-9. Papildyti 24 straipsnį 16 dalimi: ^7f6317d883f6eaf3aab93807
+9. Papildyti 24 straipsnį 16 dalimi: ^s-d82356ddf96f0c4d77519413
 
 
 „16. Dėl neteisėtai išvežtų iš Lietuvos Respublikos teritorijos kilnojamųjų kultūros vertybių ir antikvarinių daiktų išreikalavimo (grąžinimo) į Europos Sąjungos valstybės narės įgaliotą instituciją su reikalavimu grąžinti neteisėtai išvežtus iš Lietuvos Respublikos teritorijos kilnojamąsias kultūros vertybes ir antikvarinius daiktus kreipiasi ir jų susigrąžinimu rūpinasi Kultūros ministerija.“
 
 
 
-### 7 straipsnis. Įstatymo priedo pakeitimas
+### 7 straipsnis. Įstatymo priedo pakeitimas ^s-5830ee53265d45508fa176c4
 
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
@@ -240,13 +245,13 @@ priedas
 
 
 
-1. 1993 m. kovo 15 d. Tarybos direktyva 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo. ^b971335babad61a73f52a20f
+1. 1993 m. kovo 15 d. Tarybos direktyva 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo. ^s-6dfbfbb1d0c26a0ae07b2264
 
 
-2. 1997 m. vasario 17 d. Europos Parlamento ir Tarybos direktyva 96/100/EB, iš dalies pakeičianti Tarybos direktyvos 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo priedą. ^158bac4d8cef54983d3acad3
+2. 1997 m. vasario 17 d. Europos Parlamento ir Tarybos direktyva 96/100/EB, iš dalies pakeičianti Tarybos direktyvos 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo priedą. ^s-2ba3afca066aa42d7ef9b218
 
 
-3. 2001 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva 2001/38/EB, iš dalies pakeičianti Tarybos direktyvą 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo.“ ^9e0d787f23224121f1ebaa8c
+3. 2001 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva 2001/38/EB, iš dalies pakeičianti Tarybos direktyvą 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo.“ ^s-9b86072ca90769dc36c410b8
 
 
 

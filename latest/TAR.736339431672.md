@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.736339431672"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio I skirsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio I skirsnio pakeitimo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio I skirsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-01-01"
 latest_path: "latest/TAR.736339431672.md"
 latest_sha256: "9983c901a34273bba7bc24c35c3b51757b89119636ca6170c363e9308e5c1b24"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.736339431672]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio I skirsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.736339431672.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.736339431672
+- Ryšiai: [[Ryšiai/TAR.736339431672|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo priedėlio I skirsnio pakeitimas
+### 1 straipsnis. Įstatymo priedėlio I skirsnio pakeitimas ^s-72cbfbed327e4348e902bfd8
 
 
 Pakeisti Įstatymo priedėlio I skirsnio 1–4.2 eilutes ir šias eilutes išdėstyti taip:
@@ -153,7 +158,7 @@ Pakeisti Įstatymo priedėlio I skirsnio 1–4.2 eilutes ir šias eilutes išdė
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-3593397c5d36ebd804e1b4e8
 
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.

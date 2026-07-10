@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E2E88643AD5D"
 pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos prekybinės laivybos įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "prekybinės laivybos įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-03"
 latest_path: "latest/TAR.E2E88643AD5D.md"
 latest_sha256: "2cce5a494c3eae75655d8b56f96bb3d0166a14d6a898b7abc6d10ccab3ec7284"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E2E88643AD5D]]"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E2E88643AD5D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E2E88643AD5D
+- Ryšiai: [[Ryšiai/TAR.E2E88643AD5D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-e11c406a6679324378de3846
 
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:

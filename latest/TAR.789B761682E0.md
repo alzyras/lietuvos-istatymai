@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.789B761682E0"
 pavadinimas: "Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 3, 14 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 3, 14 straipsnių papildymo ir pakeitimo įstatymas"
+  - "valstybinių šalpos išmokų įstatymo 3, 14 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-02-14"
 latest_path: "latest/TAR.789B761682E0.md"
 latest_sha256: "7dd27b995a880ac97dbe109f918aaace376723cf22d629d2de8a561e1108d0e8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.789B761682E0]]"
 ---
 # Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 3, 14 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.789B761682E0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.789B761682E0
+- Ryšiai: [[Ryšiai/TAR.789B761682E0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies papildymas
+### 1 straipsnis. 3 straipsnio 1 dalies papildymas ^s-07106c7bbcd764bd5333f597
 
 
 Papildyti 3 straipsnio 1 dalį 5 punktu:
@@ -43,7 +48,7 @@ Papildyti 3 straipsnio 1 dalį 5 punktu:
 
 
 
-### 2 straipsnis. 14 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 14 straipsnio 4 dalies pakeitimas ^s-0179059fbbfb6c58c938c39a
 
 
 Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -53,7 +58,7 @@ Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Baigiamosios nuostatos
+### 3 straipsnis. Baigiamosios nuostatos ^s-4354670c640e3ee1e1f655cc
 
 
 Tikslinis priedas pagal Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 14 straipsnio 4 dalį skiriamas be specialaus asmens prašymo, vadovaujantis Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritorinių skyrių pateikta informacija apie asmenis, kuriems šiuose skyriuose nutrauktas 0,5 valstybinės socialinio draudimo bazinės pensijos dydžio priedo, skirto specialiajam nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiui tenkinti, mokėjimas.

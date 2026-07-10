@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4B76CD709599"
 pavadinimas: "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 2 ir 5 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 2 ir 5 straipsnių pakeitimo įstatymas"
+  - "smulkiojo ir vidutinio verslo plėtros įstatymo 2 ir 5 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.4B76CD709599.md"
 latest_sha256: "293277dc39801cea861e65365db2c74142de2ac69b98c21347b8cabbbb8f328a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4B76CD709599]]"
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 2 ir 5 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4B76CD709599.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4B76CD709599
+- Ryšiai: [[Ryšiai/TAR.4B76CD709599|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,14 +41,14 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 9 dalies pripažinimas netekusia galios
+### 1 straipsnis. 2 straipsnio 9 dalies pripažinimas netekusia galios ^s-66496f54d7d2eed94cc58273
 
 
 2 straipsnio 9 dalį pripažinti netekusia galios.
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-55be85f96984ae7462c14c81
 
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
@@ -53,19 +58,19 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Valstybės paramos smulkiojo ir vidutinio verslo subjektams teikimas
 
 
-1. Valstybės parama smulkiojo ir vidutinio verslo subjektams teikiama pagal Vyriausybės smulkiojo ir vidutinio verslo plėtros programas ir pagal priemones, numatytas savivaldybės strateginiame plėtros ir (arba) savivaldybės strateginiame veiklos planuose. ^63cb4426f6d0b51b4e282a07
+1. Valstybės parama smulkiojo ir vidutinio verslo subjektams teikiama pagal Vyriausybės smulkiojo ir vidutinio verslo plėtros programas ir pagal priemones, numatytas savivaldybės strateginiame plėtros ir (arba) savivaldybės strateginiame veiklos planuose. ^s-a7bf6742e33ec5c26fa835d5
 
 
-2. Viešąsias paslaugas verslui teikiančiai viešajai įstaigai, kurios savininkė arba viena iš dalininkių yra valstybė ir (arba) savivaldybė, panaudos pagrindais perduotą valstybės ar savivaldybės turtą arba dalį šio turto valdytojas, vadovaudamasis Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu, viešosios įstaigos siūlymu gali išnuomoti tretiesiems asmenims – smulkiojo ir vidutinio verslo subjektams tais atvejais, kai turto nuoma yra neatskiriama viešųjų paslaugų verslui dalis ir yra būtina tinkamai viešųjų paslaugų verslui kokybei užtikrinti. Už išnuomoto turto ar jo dalies naudojimą pagal paskirtį, išnuomoto turto išlaikymą ir priežiūrą atsako nuomininkas. ^a50610695a043ffa223aa60c
+2. Viešąsias paslaugas verslui teikiančiai viešajai įstaigai, kurios savininkė arba viena iš dalininkių yra valstybė ir (arba) savivaldybė, panaudos pagrindais perduotą valstybės ar savivaldybės turtą arba dalį šio turto valdytojas, vadovaudamasis [[latest/TAR.D5496D69DF98|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu]], viešosios įstaigos siūlymu gali išnuomoti tretiesiems asmenims – smulkiojo ir vidutinio verslo subjektams tais atvejais, kai turto nuoma yra neatskiriama viešųjų paslaugų verslui dalis ir yra būtina tinkamai viešųjų paslaugų verslui kokybei užtikrinti. Už išnuomoto turto ar jo dalies naudojimą pagal paskirtį, išnuomoto turto išlaikymą ir priežiūrą atsako nuomininkas. ^s-76009ccaa9cf86da5ab53380
 
 
-3. Rengiant ir įgyvendinant [[#^63cb4426f6d0b51b4e282a07|šio straipsnio 1 dalyje]] nurodytus dokumentus dėl valstybės paramos smulkiojo ir vidutinio verslo subjektams teikimo ir teikiant valstybės paramą, prioritetas teikiamas labai mažoms įmonėms, mažoms įmonėms ir verslininkams, atitinkantiems šio įstatymo [[#3 straipsnis. Įstatymo įsigaliojimas|3 straipsnio]] 2 ar [[#^8c3be18a2cb737253c206208|3 dalyje]] nustatytas sąlygas. ^8c3be18a2cb737253c206208
+3. Rengiant ir įgyvendinant [[#^s-a7bf6742e33ec5c26fa835d5|šio straipsnio 1 dalyje]] nurodytus dokumentus dėl valstybės paramos smulkiojo ir vidutinio verslo subjektams teikimo ir teikiant valstybės paramą, prioritetas teikiamas labai mažoms įmonėms, mažoms įmonėms ir verslininkams, atitinkantiems šio įstatymo [[#^s-ec83cb0435eb3ec8fae2cd86|3 straipsnio]] 2 ar [[#^s-3d80dac71bc47279844b7703|3 dalyje]] nustatytas sąlygas. ^s-3d80dac71bc47279844b7703
 
 
-4. Valstybės pagalbą ar nereikšmingą pagalbą suteikę subjektai duomenis apie šią pagalbą teisės aktų nustatyta tvarka teikia Suteiktos valstybės pagalbos registro tvarkytojui.“ ^6ba05e9782637c5f4cf97bf9
+4. Valstybės pagalbą ar nereikšmingą pagalbą suteikę subjektai duomenis apie šią pagalbą teisės aktų nustatyta tvarka teikia Suteiktos valstybės pagalbos registro tvarkytojui.“ ^s-7c51493d40a7f7c06abf5d39
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-ec83cb0435eb3ec8fae2cd86
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

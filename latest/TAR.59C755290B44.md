@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.59C755290B44"
 pavadinimas: "Lietuvos Respublikos melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo įstatymas"
+  - "melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-06-25"
 latest_path: "latest/TAR.59C755290B44.md"
 latest_sha256: "69dea9769245f52e03794f672f9b60b0dc3da62bb30fb6f89d242597f28b0949"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.59C755290B44]]"
 ---
 # Lietuvos Respublikos melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.59C755290B44.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.59C755290B44
+- Ryšiai: [[Ryšiai/TAR.59C755290B44|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-3275fbbeec1b2375834389e4
 
 
 5 straipsnio 2 dalyje vietoj žodžių „Lietuvos Respublikos žemės ūkio ministerija“ įrašyti žodžius „Lietuvos Respublikos žemės ir miškų ūkio ministerija“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-4d55e87e97494d77e43a91fb
 
 
 7 straipsnio 2 dalyje vietoj žodžių „Žemės ūkio ministerija“ įrašyti žodžius „Žemės ir miškų ūkio ministerija“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 9 straipsnio pakeitimas
+### 3 straipsnis. 9 straipsnio pakeitimas ^s-0fd8f65f9571209585bc0c98
 
 
 9 straipsnyje vietoj žodžių „Žemės ūkio ministerija“ įrašyti žodžius „Žemės ir miškų ūkio ministerija“ ir šį straipsnį išdėstyti taip:
@@ -64,7 +69,7 @@ Melioruotos žemės ir melioracijos įrenginių kadastras yra sudėtinė valstyb
 
 
 
-### 4 straipsnis. 12 straipsnio 2 punkto pakeitimas
+### 4 straipsnis. 12 straipsnio 2 punkto pakeitimas ^s-bab1e0d081dbc85b5dcc0ef6
 
 
 12 straipsnio 2 punkte vietoj žodžių „Žemės ūkio ministerijos“ įrašyti žodžius „Žemės ir miškų ūkio ministerijos“ ir šį punktą išdėstyti taip:

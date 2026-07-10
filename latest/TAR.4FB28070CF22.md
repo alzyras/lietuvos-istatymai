@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4FB28070CF22"
 pavadinimas: "Dėl Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-21"
 latest_path: "latest/TAR.4FB28070CF22.md"
 latest_sha256: "012080a7c0b6479f92f8ac45216ccc0d53082e1cf2520493624a8c3f580622ce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4FB28070CF22]]"
 ---
 # Dėl Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4FB28070CF22.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4FB28070CF22
+- Ryšiai: [[Ryšiai/TAR.4FB28070CF22|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

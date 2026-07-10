@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FEBCF880C8B2"
 pavadinimas: "Lietuvos Respublikos laisvųjų sandėlių įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos laisvųjų sandėlių įstatymo pripažinimo netekusiu galios įstatymas"
+  - "laisvųjų sandėlių įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.FEBCF880C8B2.md"
 latest_sha256: "3f1fb18070b0405a48dcdaaa43d225cb33a8c9e2a07d6fae33fa2e425615f098"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FEBCF880C8B2]]"
 ---
 # Lietuvos Respublikos laisvųjų sandėlių įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FEBCF880C8B2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FEBCF880C8B2
+- Ryšiai: [[Ryšiai/TAR.FEBCF880C8B2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,14 +36,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-925aa395895e495dacf8bbc3
 
 
 Lietuvos Respublikos laisvųjų sandėlių įstatymą pripažinti netekusiu galios.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e366bfbcaca942336369bb54
 
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AA0D03A6D822"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 6, 7, 16 ir 44 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 6, 7, 16 ir 44 straipsnių pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 6, 7, 16 ir 44 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-07-26"
 latest_path: "latest/TAR.AA0D03A6D822.md"
 latest_sha256: "6de3cf6b4c176029034a514d3385564fa1570ad845a6f1a201ab25640d5fb949"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AA0D03A6D822]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 6, 7, 16 ir 44 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AA0D03A6D822.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AA0D03A6D822
+- Ryšiai: [[Ryšiai/TAR.AA0D03A6D822|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-64ee19286e8ec18a1ab192a0
 
 
 6 straipsnio 4 dalyje vietoj žodžių „Lietuvos valstybinės kokybės inspekcijos prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-0c30669a73ec88e8edd3906b
 
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -51,7 +56,7 @@ Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 16 straipsnio 2 dalies pakeitimas
+### 3 straipsnis. 16 straipsnio 2 dalies pakeitimas ^s-2688adefd22e4690bc1faebe
 
 
 16 straipsnio 2 dalyje vietoj žodžių „Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“ ir šią dalį išdėstyti taip:
@@ -64,13 +69,13 @@ Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 4 straipsnis 44 straipsnio 1, 5 ir 6 dalių pakeitimas
 
 
-1. 44 straipsnio 1 dalyje vietoj žodžių „Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros tarnybos, Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“ ir šią dalį išdėstyti taip: ^d08f156d82ba7bbd366059f8
+1. 44 straipsnio 1 dalyje vietoj žodžių „Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros tarnybos, Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“ ir šią dalį išdėstyti taip: ^s-3d0c4f4526f3305df65a4db0
 
 
 „Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės, Valstybinė maisto ir veterinarijos tarnyba, Valstybinė mokesčių inspekcija prie Finansų ministerijos, teritorinės valstybinės mokesčių inspekcijos, savivaldybės ir policija pagal savo kompetenciją turi teisę skirti įmonėms, įstaigoms, organizacijoms baudas už šio įstatymo pažeidimus.“
 
 
-2. 44 straipsnio 5 dalyje vietoj žodžių „Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, 6 dalyje vietoj žodžių „Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“ ir šias dalis išdėstyti taip: ^a0178453ec826b1d4593defb
+2. 44 straipsnio 5 dalyje vietoj žodžių „Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, 6 dalyje vietoj žodžių „Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros tarnybos“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“ ir šias dalis išdėstyti taip: ^s-fa2f5f87e15a96a0dc718c6b
 
 
 „Baudas už alkoholio produktų, neatitinkančių kokybės normų reikalavimų, gamybą ir realizavimą, šio įstatymo 20 straipsnio pirmosios dalies 1, 4, 5, 8, 9 ir 10 punktuose numatytų alkoholio produktų realizavimo, laikymo (saugojimo) reikalavimų nesilaikymą skiria Valstybinė maisto ir veterinarijos tarnyba.

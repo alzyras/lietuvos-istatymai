@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BA880E305787"
 pavadinimas: "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 2, 14, 20 ir 21 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 2, 14, 20 ir 21 straipsnių pakeitimo įstatymas"
+  - "indėlių ir įsipareigojimų investuotojams draudimo įstatymo 2, 14, 20 ir 21 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.BA880E305787.md"
 latest_sha256: "641981067e79e3748c1eeebdb6f0f72df927fc37eecef814516eca9a804e4328"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BA880E305787]]"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 2, 14, 20 ir 21 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BA880E305787.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BA880E305787
+- Ryšiai: [[Ryšiai/TAR.BA880E305787|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 16 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 16 dalies pakeitimas ^s-8a7d527f7cb312a0a233c2a8
 
 
 Pakeisti 2 straipsnio 16 dalį ir ją išdėstyti taip:
@@ -45,23 +50,23 @@ Pakeisti 2 straipsnio 16 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 14 straipsnio 1 ir 3 dalių pakeitimas
+### 2 straipsnis. 14 straipsnio 1 ir 3 dalių pakeitimas ^s-fd12e098c0eed161473d7e95
 
 
-1. 14 straipsnio 1 dalyje po žodžio „Jeigu“ išbraukti žodį „draudėjo“ ir šią dalį išdėstyti taip: ^70a9c1e58a4a7d3a64826bf8
+1. 14 straipsnio 1 dalyje po žodžio „Jeigu“ išbraukti žodį „draudėjo“ ir šią dalį išdėstyti taip: ^s-d91a5c142b5a141b10e586b1
 
 
 „1. Jeigu priežiūros institucija atšaukia draudėjui teisę laikinai ar visam laikui priimti indėlius, tokiam draudėjui draudimo įmonės taryba be išankstinio įspėjimo atitinkamai laikinai ar visam laikui nutraukia indėlių draudimą. Jeigu priežiūros institucija panaikina laikinai ar visam laikui draudėjui teisę teikti investicines paslaugas, tokio draudėjo įsipareigojimų investuotojams draudimas nutraukiamas atitinkamai laikinai ar visam laikui.“
 
 
-2. 14 straipsnio 3 dalyje po žodžių „suderintu su“ išbraukti žodį „draudėjo“ ir šią dalį išdėstyti taip: ^8ff6186f69d4cfbbb857f88e
+2. 14 straipsnio 3 dalyje po žodžių „suderintu su“ išbraukti žodį „draudėjo“ ir šią dalį išdėstyti taip: ^s-be2acdec8af20b165462ed54
 
 
 „3. Jeigu draudėjas pažeidžia draudimo tvarką ir (arba) jo veikla kelia pavojų draudimo įmonės sugebėjimui vykdyti įsipareigojimus, draudimo įmonės taryba, pranešusi apie tai priežiūros institucijai, įspėja draudėją apie galimą draudimo nutraukimą ne vėliau kaip prieš 12 mėnesių. Jeigu per 12 mėnesių po įspėjimo draudėjas nepašalina draudimo tvarkos pažeidimų, draudimo įmonės tarybos sprendimu, suderintu su priežiūros institucija, draudėjo priimamų indėlių ar įsipareigojimų investuotojams draudimas gali būti nutrauktas.“
 
 
 
-### 3 straipsnis. 20 straipsnio 1 dalies 8 punkto pakeitimas
+### 3 straipsnis. 20 straipsnio 1 dalies 8 punkto pakeitimas ^s-2f4f7d4a20c079052f094196
 
 
 20 straipsnio 1 dalies 8 punkte žodį „draudėjų“ išbraukti, vietoj žodžio „institucijų“ įrašyti žodį „institucijos“ ir šį punktą išdėstyti taip:
@@ -71,7 +76,7 @@ Pakeisti 2 straipsnio 16 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 21 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 21 straipsnio 2 dalies pakeitimas ^s-15626d09b93475883d0381be
 
 
 Pakeisti 21 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -82,7 +87,7 @@ Pakeisti 21 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-82067d1fd1a13798df4dd6c3
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

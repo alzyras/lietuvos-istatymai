@@ -1,0 +1,17 @@
+---
+tipas: "akto_rysiai"
+etar_id: "de7eb9e090cd11e4bb408baba2bdddf3"
+pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas"
+---
+# Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas: ryšiai
+
+- [[latest/de7eb9e090cd11e4bb408baba2bdddf3|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+_Nėra._
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.065AB8483E1E#^s-8c5fd240e1a4daedec3dc6e5|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XII-1489
+- [[latest/TAR.065AB8483E1E#^s-ab71ed55152049872cec1e28|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XII-1489

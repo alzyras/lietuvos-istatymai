@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FBCE02BE621C"
 pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "mokesčio už aplinkos teršimą įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-12"
 latest_path: "latest/TAR.FBCE02BE621C.md"
 latest_sha256: "441fbf9b013005ecb6c88ad462e06b117ad759b166de9397ea8e9cd70443bec9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FBCE02BE621C]]"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FBCE02BE621C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FBCE02BE621C
+- Ryšiai: [[Ryšiai/TAR.FBCE02BE621C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 punkto pakeitimas
+### 1 straipsnis. 3 straipsnio 2 punkto pakeitimas ^s-5ac1c057efe3f6cb3ae21486
 
 
 Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip:

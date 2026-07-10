@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2C5CA9A55DD1"
 pavadinimas: "Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-07-03"
 latest_path: "latest/TAR.2C5CA9A55DD1.md"
 latest_sha256: "9fe799e5240fd3eeef79fac60a080c17b927752a1d3f82ce945d20c4565183c5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2C5CA9A55DD1]]"
 ---
 # Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2C5CA9A55DD1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2C5CA9A55DD1
+- Ryšiai: [[Ryšiai/TAR.2C5CA9A55DD1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-916750ad0b2171cf6ddeeb42
 
 
 1 straipsnyje vietoj skaičių „11806010“, „13668229“, „1862219“ įrašyti skaičius „11925193“, „13752962“, „1827769“ ir šį straipsnį išdėstyti taip:
@@ -44,18 +49,18 @@ Patvirtinti Lietuvos Respublikos 2004 metų valstybės biudžetą – 11925193 t
 
 
 
-### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
+### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas ^s-cdcacdd6b9d37c81bb0be84e
 
 
-2 straipsnio 2 dalyje vietoj skaičių „2143943“ ir „55526“ įrašyti skaičius „2205705“ ir „77481“ ir po skaičiaus ir žodžio „(5 priedėlis)“ įrašyti žodžius „ir specialią tikslinę dotaciją Vilniaus miesto savivaldybės biudžetui 2260 tūkst. litų, iš jų: 2000 tūkst. litų – gyventojams iškeldinti iš patalpų, esančių Labdarių g. 3, Vilniuje, perduotų Lietuvos dailės muziejui, ir 260 tūkst. litų – gyventojams iškeldinti iš Lietuvių literatūros ir tautosakos institutui priklausančių patalpų, Birštono savivaldybės biudžetui – 200 tūkst. litų Birštono vienkiemio kaimo seniūnijos patalpų remontui, Kauno miesto savivaldybės biudžetui – 60 tūkst. litų stadiono renovacijai, Panevėžio miesto savivaldybės biudžetui – 100 tūkst. litų Nevėžio pagrindinės mokyklos salės ir pagrindinių patalpų remontui, Kretingos rajono savivaldybės biudžetui – 45 tūkst. litų Kretingos miesto vasaros estrados renovacijai“, [[#^cc9e934eff70d14c0fd3c176|3 dalyje]] vietoj skaičių „5231“ įrašyti skaičių „20047“ ir šias dalis išdėstyti taip:
+2 straipsnio 2 dalyje vietoj skaičių „2143943“ ir „55526“ įrašyti skaičius „2205705“ ir „77481“ ir po skaičiaus ir žodžio „(5 priedėlis)“ įrašyti žodžius „ir specialią tikslinę dotaciją Vilniaus miesto savivaldybės biudžetui 2260 tūkst. litų, iš jų: 2000 tūkst. litų – gyventojams iškeldinti iš patalpų, esančių Labdarių g. 3, Vilniuje, perduotų Lietuvos dailės muziejui, ir 260 tūkst. litų – gyventojams iškeldinti iš Lietuvių literatūros ir tautosakos institutui priklausančių patalpų, Birštono savivaldybės biudžetui – 200 tūkst. litų Birštono vienkiemio kaimo seniūnijos patalpų remontui, Kauno miesto savivaldybės biudžetui – 60 tūkst. litų stadiono renovacijai, Panevėžio miesto savivaldybės biudžetui – 100 tūkst. litų Nevėžio pagrindinės mokyklos salės ir pagrindinių patalpų remontui, Kretingos rajono savivaldybės biudžetui – 45 tūkst. litų Kretingos miesto vasaros estrados renovacijai“, [[#^s-400403fdb4a73f6fde4da341|3 dalyje]] vietoj skaičių „5231“ įrašyti skaičių „20047“ ir šias dalis išdėstyti taip:
 „2. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialias tikslines dotacijas – 2205705 tūkst. litų ir valstybės biudžeto bendrosios dotacijos kompensacijas – 77481 tūkst. litų (5 priedėlis), ir specialią tikslinę dotaciją Vilniaus miesto savivaldybės biudžetui 2260 tūkst. litų, iš jų: 2000 tūkst. litų – gyventojams iškeldinti iš patalpų, esančių Labdarių g. 3, Vilniuje, perduotų Lietuvos dailės muziejui, ir 260 tūkst. litų – gyventojams iškeldinti iš Lietuvių literatūros ir tautosakos institutui priklausančių patalpų, Birštono savivaldybės biudžetui – 200 tūkst. litų Birštono vienkiemio kaimo seniūnijos patalpų remontui, Kauno miesto savivaldybės biudžetui – 60 tūkst. litų stadiono renovacijai, Panevėžio miesto savivaldybės biudžetui – 100 tūkst. litų Nevėžio pagrindinės mokyklos salės ir pagrindinių patalpų remontui, Kretingos rajono savivaldybės biudžetui – 45 tūkst. litų Kretingos miesto vasaros estrados renovacijai.
 
 
-3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 20047 tūkst. litų. Jas savivaldybės perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (6 priedėlis).“ ^cc9e934eff70d14c0fd3c176
+3. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 20047 tūkst. litų. Jas savivaldybės perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (6 priedėlis).“ ^s-400403fdb4a73f6fde4da341
 
 
 
-### 3 straipsnis. 3 straipsnio pakeitimas
+### 3 straipsnis. 3 straipsnio pakeitimas ^s-b1a0b4751c288ec113ebd346
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
@@ -68,7 +73,7 @@ Nustatyti, kad vykdant biudžetą nepanaudotos specialios tikslinės dotacijos v
 
 
 
-### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-7148fa07dd88f807adf7bf50
 
 
 9 straipsnio 1 dalyje vietoj žodžių „iš Lietuvos Respublikos 2004 metų valstybės biudžeto išlaikomų įstaigų“ įrašyti žodžius „2004 metų asignavimų valdytojų“, vietoj skaičiaus „884679“ įrašyti skaičių „902125“ ir šią dalį išdėstyti taip:
@@ -78,7 +83,7 @@ Nustatyti, kad vykdant biudžetą nepanaudotos specialios tikslinės dotacijos v
 
 
 
-### 5 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 11 straipsnio 1 dalies pakeitimas ^s-036431ae9b1d1d11496d8943
 
 
 11 straipsnio 1 dalyje vietoj žodžio „valstybės“ įrašyti žodį „Vyriausybės“ ir šią dalį išdėstyti taip:
@@ -88,7 +93,7 @@ Nustatyti, kad vykdant biudžetą nepanaudotos specialios tikslinės dotacijos v
 
 
 
-### 6 straipsnis. 12 straipsnio 4 dalies pakeitimas
+### 6 straipsnis. 12 straipsnio 4 dalies pakeitimas ^s-f0ddb95873788aead650dd12
 
 
 12 straipsnio 4 dalyje išbraukti žodį „beprocentės“, po žodžio „paskolos“ įrašyti žodžius „(įskaitant ir trumpalaikes beprocentes paskolas, suteiktas iki 2003 m. gruodžio 31 d.)“ ir šią dalį išdėstyti taip:
@@ -98,44 +103,44 @@ Nustatyti, kad vykdant biudžetą nepanaudotos specialios tikslinės dotacijos v
 
 
 
-### 7 straipsnis. 13 straipsnio 4, 5, 9, 11, 13 ir 16 punktų pakeitimas
+### 7 straipsnis. 13 straipsnio 4, 5, 9, 11, 13 ir 16 punktų pakeitimas ^s-395250844e1bf30f863f10dd
 
 
-1. [[#13 straipsnis. Įstatymo 6 priedėlio pakeitimas|13 straipsnio]] 4 ir [[#^be8d194c13276b5a280d46d7|5 punktuose]] vietoj žodžių „laikantis valstybės“ įrašyti žodžius „laikantis Vyriausybės“ ir šiuos punktus išdėstyti taip: ^9fa0504584bfcb2ca44a3c75
+1. [[#^s-879e28b611d775bb9c01b8bd|13 straipsnio]] 4 ir [[#^s-3703730fc5a6417e5c67a04b|5 punktuose]] vietoj žodžių „laikantis valstybės“ įrašyti žodžius „laikantis Vyriausybės“ ir šiuos punktus išdėstyti taip: ^s-daf2add439d13192215900af
 
 
 „4) laikantis Vyriausybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti, valstybės investicijoms finansuoti, valstybės skoliniams įsipareigojimams valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondui dengti;
 
 
-5) laikantis Vyriausybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, valstybės fondų skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti ir kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas;“. ^be8d194c13276b5a280d46d7
+5) laikantis Vyriausybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu išlaidoms, susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, valstybės fondų skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti ir kitiems tikslams, kai yra atskiras Lietuvos Respublikos įstatymas;“. ^s-3703730fc5a6417e5c67a04b
 
 
-2. 13 straipsnio 9 punkte po žodžių „ekspertams už paslaugas sumokėti“ įrašyti žodžius „taip pat objektams parengti privatizuoti“ ir šį punktą išdėstyti taip: ^16fa27f400e6299f02391656
+2. 13 straipsnio 9 punkte po žodžių „ekspertams už paslaugas sumokėti“ įrašyti žodžius „taip pat objektams parengti privatizuoti“ ir šį punktą išdėstyti taip: ^s-87b8be4bf7557386a86fb3c4
 
 
 „9) paskirstyti Privatizavimo fondo lėšų dalį, Seimo patvirtintą Vyriausybės patvirtintoms programoms įgyvendinti, Privatizavimo komisijos ir Valstybės turto fondo funkcijoms atlikti ir ekspertams už paslaugas sumokėti, taip pat objektams parengti privatizuoti, pagal programas ir asignavimų valdytojus;“.
 
 
-3. 13 straipsnio 11 punkte po žodžio „padengti“ įrašyti žodžius „ir nenumatytiems mokėjimams į Europos Sąjungos biudžetą“ ir šį punktą išdėstyti taip: ^9e1db14ab0b599dbc63b60a7
+3. 13 straipsnio 11 punkte po žodžio „padengti“ įrašyti žodžius „ir nenumatytiems mokėjimams į Europos Sąjungos biudžetą“ ir šį punktą išdėstyti taip: ^s-e8eb4efd47a0c3a668a60ec5
 
 
 „11) Europos Sąjungos paramos programų laikinam lėšų stygiui padengti ir nenumatytiems mokėjimams į Europos Sąjungos biudžetą panaudoti valstybės biudžeto apyvartos bei skolintas lėšas;“.
 
 
-4. 13 straipsnio 13 punkte vietoj žodžių „biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, darbo užmokesčiui“ įrašyti žodžius „bazinei mėnesinei algai“ ir šį punktą išdėstyti taip: ^c65d1d4f831df802242b7eae
+4. 13 straipsnio 13 punkte vietoj žodžių „biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, darbo užmokesčiui“ įrašyti žodžius „bazinei mėnesinei algai“ ir šį punktą išdėstyti taip: ^s-41cd070b287c73c23e527864
 
 
 „13) asignavimus, numatytus Finansų ministerijai minimaliai mėnesinei algai ir bazinei mėnesiniai algai padidinti, paskirstyti pagal asignavimų valdytojus;“.
 
 
-5. 13 straipsnio 16 punkte po žodžio „Europos“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip: ^5d3e23a7ecd6347644e15c4a
+5. 13 straipsnio 16 punkte po žodžio „Europos“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip: ^s-01026dba990cb9433f98d9ed
 
 
 „16) nustatyta tvarka kompensuoti Lietuvos Respublikos atstovų kelionių į Europos Sąjungos Tarybos darbo organų susitikimus išlaidas iš tam tikslui Finansų ministerijai numatytų asignavimų.“
 
 
 
-### 8 straipsnis. Įstatymo 1 priedėlio pakeitimas
+### 8 straipsnis. Įstatymo 1 priedėlio pakeitimas ^s-0608eda274ac7b7784661b73
 
 
 Pakeisti Įstatymo 1 priedėlį ir jį išdėstyti taip:
@@ -144,7 +149,7 @@ Pakeisti Įstatymo 1 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2003 m. gruodžio 11 d.
-įstatymo Nr. IX-1884
+[[latest/TAR.538D8DA9A346|įstatymo Nr. IX-1884]]
 1 priedėlis
 
 LIETUVOS RESPUBLIKOS 2004 METŲ
@@ -506,7 +511,7 @@ tūkst. Lt
 
 
 
-## I. MINISTERIJOS
+## I. MINISTERIJOS ^s-f1ae67044dd813920c08b9a2
 
 
 
@@ -632,7 +637,7 @@ tūkst. Lt
  0
 
 
-## II. APSKRITYS
+## II. APSKRITYS ^s-3092fae40a6548bf4f99fff6
 
 
 
@@ -779,7 +784,7 @@ tūkst. Lt
  0
 
 
-## III. VYRIAUSYBĖS ĮSTAIGOS IR KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS
+## III. VYRIAUSYBĖS ĮSTAIGOS IR KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS ^s-f0e3217c3872f6372029bbc0
 
 
 
@@ -926,7 +931,7 @@ tūkst. Lt
  1400
 
 
-## IV. ĮSTAIGOS PRIE MINISTERIJŲ
+## IV. ĮSTAIGOS PRIE MINISTERIJŲ ^s-491336c115866d7c275c2128
 
 
 
@@ -1381,7 +1386,7 @@ tūkst. Lt
  65200
 
 
-## V. TEISĖSAUGOS VALDŽIOS INSTITUCIJOS
+## V. TEISĖSAUGOS VALDŽIOS INSTITUCIJOS ^s-ea236fa3ae73e4cbc84d339d
 
 
 
@@ -1430,7 +1435,7 @@ tūkst. Lt
 
 
 
-## VI. ŠVIETIMO, KULTŪROS IR KITOS ĮSTAIGOS BEI ORGANIZACIJOS
+## VI. ŠVIETIMO, KULTŪROS IR KITOS ĮSTAIGOS BEI ORGANIZACIJOS ^s-d10d06d8b63e3e5a098bf99e
 
 
 
@@ -1981,7 +1986,7 @@ tūkst. Lt
 
 
 
-### 9 straipsnis. Įstatymo 2 priedėlio pakeitimas
+### 9 straipsnis. Įstatymo 2 priedėlio pakeitimas ^s-320041a26ff6af73aa761bb0
 
 
 Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
@@ -1990,7 +1995,7 @@ Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2003 m. gruodžio 11 d.
-įstatymo Nr. IX-1884
+[[latest/TAR.538D8DA9A346|įstatymo Nr. IX-1884]]
 2 priedėlis
 
 
@@ -2120,7 +2125,7 @@ Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
 
 
 
-### 10 straipsnis. Įstatymo 3 priedėlio pakeitimas
+### 10 straipsnis. Įstatymo 3 priedėlio pakeitimas ^s-5c6f139dd605f870142c814f
 
 
 Įstatymo 3 priedėlyje po eilutės „Ūkio ministerija 2285“ įrašyti eilutę „Užsienio reikalų ministerija 3450“, eilutėje „Žemės ūkio ministerija“ vietoj skaičiaus „14532“ įrašyti skaičių „14332“, eilutėje „Kauno apskrities viršininko administracija“ vietoj skaičiaus „3024“ įrašyti skaičių „3035“, eilutėje „Šiaulių apskrities viršininko administracija“ vietoj skaičiaus „2545“ įrašyti skaičių „2581“, eilutėje „Tauragės apskrities viršininko administracija“ vietoj skaičiaus „392“ įrašyti skaičių „430“, eilutėje „Telšių apskrities viršininko administracija“ vietoj skaičiaus „1067“ įrašyti skaičių „1167“, eilutėje „Ryšių reguliavimo tarnyba prie Lietuvos Respublikos Vyriausybės“ vietoj skaičiaus „17500*“ įrašyti skaičių „40500*“, eilutėje „Valstybinė mokesčių inspekcija prie Finansų ministerijos“ vietoj skaičiaus „16500“ įrašyti skaičių „14692“, eilutėje „Lietuvos saugios laivybos administracija“ vietoj skaičiaus „13200“ įrašyti skaičių „9200“, eilutėje „Kalėjimų departamentas prie Teisingumo ministerijos“ vietoj skaičiaus „1400“ įrašyti skaičių „159“, eilutėje „Policijos departamentas prie Vidaus reikalų ministerijos“ vietoj skaičiaus „32068“ įrašyti skaičių „30068“ ir po šios eilutės įrašyti eilutę „Civilinės saugos departamentas prie Vidaus reikalų ministerijos 30“, po eilutės „Vilniaus universiteto Eksperimentinės klinikinės medicinos institutas 1000“ įrašyti eilutę „Vilniaus universiteto Onkologijos institutas 30“, eilutėje „Iš viso:“ vietoj skaičiaus „884679“ įrašyti skaičių „902125“, eilutėje „*Iš šių lėšų 2000 tūkst. litų skirti bendroms biudžeto reikmėms“ vietoj skaičiaus „2000“ įrašyti skaičių „25000“, po žodžio „litų“ įrašyti žodžius „viršplaninių pajamų“ ir šias eilutes išdėstyti taip:
@@ -2190,7 +2195,7 @@ Pakeisti Įstatymo 2 priedėlį ir jį išdėstyti taip:
 
 
 
-### 11 straipsnis. Įstatymo 4 priedėlio pakeitimas
+### 11 straipsnis. Įstatymo 4 priedėlio pakeitimas ^s-1e97e5c5f715f5261015281e
 
 
 Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
@@ -2199,7 +2204,7 @@ Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 2003 m. gruodžio 11 d.
-įstatymo Nr. IX-1884
+[[latest/TAR.538D8DA9A346|įstatymo Nr. IX-1884]]
 4 priedėlis
 
 
@@ -2684,7 +2689,7 @@ Pakeisti Įstatymo 4 priedėlį ir jį išdėstyti taip:
 
 
 
-### 12 straipsnis. Įstatymo 5 priedėlio pakeitimas
+### 12 straipsnis. Įstatymo 5 priedėlio pakeitimas ^s-baaff46f38a389401ab124f7
 
 
 Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
@@ -2693,7 +2698,7 @@ Pakeisti Įstatymo 5 priedėlį ir jį išdėstyti taip:
 
 
 2003 m. gruodžio 11 d.
-įstatymo Nr. IX-1884
+[[latest/TAR.538D8DA9A346|įstatymo Nr. IX-1884]]
 5 priedėlis
 
 LIETUVOS RESPUBLIKOS 2004 METŲ VALSTYBĖS BIUDŽETO SPECIALIOS TIKSLINĖS DOTACIJOS IR BENDROSIOS DOTACIJOS KOMPENSACIJOS SAVIVALDYBIŲ BIUDŽETAMS
@@ -3819,7 +3824,7 @@ LIETUVOS RESPUBLIKOS 2004 METŲ VALSTYBĖS BIUDŽETO SPECIALIOS TIKSLINĖS DOTAC
 
 
 
-### 13 straipsnis. Įstatymo 6 priedėlio pakeitimas
+### 13 straipsnis. Įstatymo 6 priedėlio pakeitimas ^s-879e28b611d775bb9c01b8bd
 
 
 Pakeisti Įstatymo 6 priedėlį ir jį išdėstyti taip:
@@ -3828,7 +3833,7 @@ Pakeisti Įstatymo 6 priedėlį ir jį išdėstyti taip:
 
 
 2003 m. gruodžio 11 d.
-įstatymo Nr. IX-1884
+[[latest/TAR.538D8DA9A346|įstatymo Nr. IX-1884]]
 6 priedėlis
 
 2004 METŲ IŠ SAVIVALDYBIŲ BIUDŽETŲ VALSTYBĖS BIUDŽETUI
@@ -3928,27 +3933,27 @@ tūkst. Lt
 
 
 
-### 14 straipsnis. Įstatymo 7 priedėlio pakeitimas
+### 14 straipsnis. Įstatymo 7 priedėlio pakeitimas ^s-19cff253b0564acb8edaa797
 
 
-1. Įstatymo 7 priedėlio skyriuje „2004 metų Privatizavimo fondo lėšų sąmata“: ^b64053560dccefa803b577a8
+1. Įstatymo 7 priedėlio skyriuje „2004 metų Privatizavimo fondo lėšų sąmata“: ^s-3a33b5cfd5e09fbc3d1f3fa9
 
 
-1) II skirsnio „Numatoma Privatizavimo fondo pajamų 2004 metais kartu su lėšų likučiu pagal 2004 m. sausio 1 d. būklę“ trečios pastraipos skliaustuose vietoj skaičiaus „70000“ įrašyti skaičių „110000“ ir šią pastraipą išdėstyti taip: ^9b0e2017c045ffe9092c117b
+1) II skirsnio „Numatoma Privatizavimo fondo pajamų 2004 metais kartu su lėšų likučiu pagal 2004 m. sausio 1 d. būklę“ trečios pastraipos skliaustuose vietoj skaičiaus „70000“ įrašyti skaičių „110000“ ir šią pastraipą išdėstyti taip: ^s-b2a7ad254c0216e16b79fbb8
 
 
  „gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti (įskaitant tam tikslui rezervuojamas lėšas 110000 tūkst. litų), taip pat Rezerviniam (stabilizavimo) fondui sudaryti
  321700“;
 
 
-2) II skirsnio „Numatoma Privatizavimo fondo pajamų 2004 metais kartu su lėšų likučiu pagal 2004 m. sausio 1 d. būklę“ ketvirtoje pastraipoje įrašyti žodžius „taip pat objektams parengti privatizuoti“ ir šią pastraipą išdėstyti taip: ^e5941ef3b9e7400133ad8eb8
+2) II skirsnio „Numatoma Privatizavimo fondo pajamų 2004 metais kartu su lėšų likučiu pagal 2004 m. sausio 1 d. būklę“ ketvirtoje pastraipoje įrašyti žodžius „taip pat objektams parengti privatizuoti“ ir šią pastraipą išdėstyti taip: ^s-026dd121629ae9c8c3dd4cf4
 
 
  „Lietuvos Respublikos Vyriausybės patvirtintoms programoms įgyvendinti, Privatizavimo komisijos, Valstybės turto fondo funkcijoms atlikti ir ekspertams už paslaugas sumokėti, taip pat objektams parengti privatizuoti
      133300“;
 
 
-3) III skirsnio „Išlaidos“ [[#^e5941ef3b9e7400133ad8eb8|2 punkte]] „Rezerviniam (stabilizavimo) fondui sudaryti“ vietoj skaičiaus „146700“ įrašyti skaičių „106700“, 4 punkte „Privatizavimo komisijos, Valstybės turto fondo funkcijoms atlikti ir ekspertams už paslaugas sumokėti“ įrašyti žodžius „taip pat objektams parengti privatizuoti“, 5 punkte „Iš viso išlaidų“ vietoj skaičiaus „368700“ įrašyti skaičių „328700“ ir šiuos punktus išdėstyti taip: ^592102c2bf0ab377a0fae913
+3) III skirsnio „Išlaidos“ [[#^s-026dd121629ae9c8c3dd4cf4|2 punkte]] „Rezerviniam (stabilizavimo) fondui sudaryti“ vietoj skaičiaus „146700“ įrašyti skaičių „106700“, 4 punkte „Privatizavimo komisijos, Valstybės turto fondo funkcijoms atlikti ir ekspertams už paslaugas sumokėti“ įrašyti žodžius „taip pat objektams parengti privatizuoti“, 5 punkte „Iš viso išlaidų“ vietoj skaičiaus „368700“ įrašyti skaičių „328700“ ir šiuos punktus išdėstyti taip: ^s-b83e5c43221e23b0c70e4fa8
 
 
  „2. Rezerviniam (stabilizavimo) fondui sudaryti
@@ -3959,18 +3964,18 @@ tūkst. Lt
    17000
 
 
- 5. Iš viso išlaidų ^6c6ac0941b4b8bfae544e673
+ 5. Iš viso išlaidų ^s-9b8b03a5985a05a2bf034a51
  328700“;
 
 
-4) IV skirsnyje „Numatomas lėšų likutis pagal 2005 m. sausio 1 d. būklę“ vietoj skaičiaus „86300“ įrašyti skaičių „126300“ ir šį skirsnį išdėstyti taip: ^e6b5f7f03aa0876394a32c8c
+4) IV skirsnyje „Numatomas lėšų likutis pagal 2005 m. sausio 1 d. būklę“ vietoj skaičiaus „86300“ įrašyti skaičių „126300“ ir šį skirsnį išdėstyti taip: ^s-f1d7e1c51ab05cff3618602e
 „IV. Numatomas lėšų likutis pagal 2005 m. sausio 1 d. būklę 126300“.
 
 
-2. Įstatymo 7 priedėlio skyriuje „2004 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“: ^5cfc3255ac78e8427f0c229f
+2. Įstatymo 7 priedėlio skyriuje „2004 metų Rezervinio (stabilizavimo) fondo lėšų sąmata“: ^s-838461c22ac23b4d8c78c637
 
 
-1) II skirsnyje „Pajamos“ vietoj skaičiaus „166700“ įrašyti skaičių „126700“, šio skirsnio trečioje pastraipoje vietoj skaičiaus „146700“ įrašyti skaičių „106700“ ir šį skirsnį išdėstyti taip: ^958944747a521814d5074d99
+1) II skirsnyje „Pajamos“ vietoj skaičiaus „166700“ įrašyti skaičių „126700“, šio skirsnio trečioje pastraipoje vietoj skaičiaus „146700“ įrašyti skaičių „106700“ ir šį skirsnį išdėstyti taip: ^s-dda58e2dbb37fbbcbbef0a8a
 
 
  „II. Pajamos
@@ -3985,7 +3990,7 @@ tūkst. Lt
  20000“;
 
 
-2) III skirsnyje „Išlaidos“ vietoj skaičiaus „55000“ įrašyti skaičių „89450“, šio skirsnio trečioje pastraipoje vietoj skaičiaus „55000“ įrašyti skaičių „89450“ ir šį skirsnį išdėstyti taip: ^39bb303fae00f36e4a21e1f2
+2) III skirsnyje „Išlaidos“ vietoj skaičiaus „55000“ įrašyti skaičių „89450“, šio skirsnio trečioje pastraipoje vietoj skaičiaus „55000“ įrašyti skaičių „89450“ ir šį skirsnį išdėstyti taip: ^s-055136164022315877eb64d0
 
 
  „III. Išlaidos
@@ -3999,7 +4004,7 @@ tūkst. Lt
 
 
 
-3) V skirsnyje „Numatomas lėšų likutis pagal 2005 m. sausio 1 d. būklę“ vietoj skaičiaus „1200700“ įrašyti skaičių „1126250“ ir šį skirsnį išdėstyti taip: ^fbea2ae2cbd8de2e9f39adad
+3) V skirsnyje „Numatomas lėšų likutis pagal 2005 m. sausio 1 d. būklę“ vietoj skaičiaus „1200700“ įrašyti skaičių „1126250“ ir šį skirsnį išdėstyti taip: ^s-e0e41ea486f7c2cdab1de8f9
 
 
 „V. Numatomas lėšų likutis pagal 2005 m. sausio 1 d. būklę 1126250“.
@@ -4009,7 +4014,7 @@ tūkst. Lt
 
 „Lietuvos Respublikos
 2003 m. gruodžio 11 d.
-įstatymo Nr. IX-1884
+[[latest/TAR.538D8DA9A346|įstatymo Nr. IX-1884]]
 8 priedėlis
 
 VALSTYBĖS INVESTICIJŲ 2004–2006 METŲ PROGRAMA

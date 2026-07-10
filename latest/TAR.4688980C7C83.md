@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4688980C7C83"
 pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 2, 11, 40 ir 47 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos sveikatos sistemos įstatymo 2, 11, 40 ir 47 straipsnių pakeitimo įstatymas"
+  - "sveikatos sistemos įstatymo 2, 11, 40 ir 47 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-31"
 latest_path: "latest/TAR.4688980C7C83.md"
 latest_sha256: "1b9667760abdc0390b7c4fd8bcaca615af0a16818607b4acfd25a40a1d780136"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4688980C7C83]]"
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 2, 11, 40 ir 47 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4688980C7C83.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4688980C7C83
+- Ryšiai: [[Ryšiai/TAR.4688980C7C83|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas ^s-6e551a687dd049ff67f0bc77
 
 
 2 straipsnio 12 dalyje po žodžio „biudžetų“ išbraukti žodžius „valstybės ar“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio 2 dalies 1 punkto pakeitimas
+### 2 straipsnis. 11 straipsnio 2 dalies 1 punkto pakeitimas ^s-9641a32bd03f0d12a34dbb1e
 
 
 11 straipsnio 2 dalies 1 punkte po žodžių „biudžetų ar“ įrašyti žodį „savivaldybių“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 40 straipsnio pakeitimas
+### 3 straipsnis. 40 straipsnio pakeitimas ^s-ae8f223b56a868db4db7b771
 
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
@@ -64,7 +69,7 @@ Privalomosios valstybinės sveikatos programos finansuojamos ir visuomeninių or
 
 
 
-### 4 straipsnis. 47 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 47 straipsnio 1 dalies pakeitimas ^s-85c066d2f040c5cbf3aec0e4
 
 
 47 straipsnio 1 dalyje po žodžio „biudžetų“ išbraukti žodžius „valstybės ar“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C80784900C51"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos, nustatančios valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą, ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos, nustatančios valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą, ratifikavimo"
+  - "įstatymas dėl Konvencijos, nustatančios valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą, ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.C80784900C51.md"
 latest_sha256: "48de2e2a135330e944834e7924ef572e134c650e90931407fbd1eb315aff9f28"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C80784900C51]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos, nustatančios valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą, ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C80784900C51.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C80784900C51
+- Ryšiai: [[Ryšiai/TAR.C80784900C51|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,14 +34,14 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-da87536abbcc1d9ee7756338
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 20 d. dekretą Nr. 2029, ratifikuoja 1990 m. birželio 15 d. Dubline priimtą Konvenciją, nustatančią valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-461be17e38bb9a1e58fc8033
 
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F7B45D6DAD49"
 pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 3, 5, 7, 13, 14 ir 17 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 3, 5, 7, 13, 14 ir 17 straipsnių pakeitimo įstatymas"
+  - "valstybės garantuojamos teisinės pagalbos įstatymo 3, 5, 7, 13, 14 ir 17 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.F7B45D6DAD49.md"
 latest_sha256: "9f4d1ddf121ae64fe31029b4984b586888eacd6894c01194b8cde250393e06c7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F7B45D6DAD49]]"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 3, 5, 7, 13, 14 ir 17 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F7B45D6DAD49.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F7B45D6DAD49
+- Ryšiai: [[Ryšiai/TAR.F7B45D6DAD49|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 7 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 7 dalies pakeitimas ^s-ad804b9307628e59d53af953
 
 
 3 straipsnio 7 dalyje išbraukti žodį „teisiamojo“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-155ac895bd9b25ba7a543afe
 
 
 5 straipsnio 2 dalyje vietoj žodžių „kvotėjas, tardytojas“ įrašyti žodžius „ikiteisminio tyrimo pareigūnas“ ir šią dalį išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 7 straipsnio 3 dalies 1 punkto pakeitimas
+### 3 straipsnis. 7 straipsnio 3 dalies 1 punkto pakeitimas ^s-05f84b4a0a38ac711affaebe
 
 
 Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -61,7 +66,7 @@ Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 4 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-a3fdf3c6350842268b32ad2f
 
 
 13 straipsnio 1 dalyje vietoj žodžių „kvotėjo, tardytojo“ įrašyti žodžius „ikiteisminio tyrimo pareigūno“ ir šią dalį išdėstyti taip:
@@ -71,7 +76,7 @@ Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 5 straipsnis. 14 straipsnio 1 punkto pakeitimas
+### 5 straipsnis. 14 straipsnio 1 punkto pakeitimas ^s-a9e6a3df9915c84a1be4b7ba
 
 
 14 straipsnio 1 punkte išbraukti žodį „teisiamieji“ ir šį punktą išdėstyti taip:
@@ -81,7 +86,7 @@ Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 6 straipsnis. 17 straipsnio pakeitimas
+### 6 straipsnis. 17 straipsnio pakeitimas ^s-2e9e43e18e4792f504912dd2
 
 
 17 straipsnyje išbraukti žodį „teisiamojo“ ir šį straipsnį išdėstyti taip:
@@ -90,14 +95,14 @@ Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 „17 straipsnis.     Valstybinės teisinės pagalbos skyrimas, kai baudžiamųjų bylų procese yra būtinas gynėjo dalyvavimas
 
 
-Kai būtinąjį gynėjo dalyvavimą baudžiamųjų bylų procese nustato Baudžiamojo proceso kodeksas, įtariamojo, kaltinamojo ar nuteistojo sutikimu skiriama valstybinė teisinė pagalba.“
+Kai būtinąjį gynėjo dalyvavimą baudžiamųjų bylų procese nustato [[latest/TAR.EC588C321777|Baudžiamojo proceso kodeksas]], įtariamojo, kaltinamojo ar nuteistojo sutikimu skiriama valstybinė teisinė pagalba.“
 
 
 
-### 7 straipsnis. Įstatymo įsigaliojimas
+### 7 straipsnis. Įstatymo įsigaliojimas ^s-b1c383656425a4a0dd8adad1
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

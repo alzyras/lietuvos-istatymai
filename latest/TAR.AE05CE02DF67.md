@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AE05CE02DF67"
 pavadinimas: "Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1993-05-03"
 latest_path: "latest/TAR.AE05CE02DF67.md"
 latest_sha256: "d9e65c7d05e56e95c28664a23ff9f815e4a332e33163b43f319008163be6d136"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AE05CE02DF67]]"
 ---
 # Dėl Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstatymo papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AE05CE02DF67.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AE05CE02DF67
+- Ryšiai: [[Ryšiai/TAR.AE05CE02DF67|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -65,7 +69,7 @@ Papildyti Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstat
 3) žemės ūkio įmonėms pageidaujant, apylinkių ir rajonų savivaldybės (jų skyriai) turi parduoti 5 procentų šio turto vertės kaina neprivatizuotus socialinės ir kitos paskirties objektus, gyvenamuosius namus, pastatytus buvusių žemės ūkio įmonių lėšomis, perduotus savivaldybėms Lietuvos Respublikos Vyriausybės 1990 m. rugsėjo 28 d. nutarimu Nr.298 ir 1990 m. spalio 12 d. nutarimu Nr.420;
 
 
-4) išpirkto turto vertė žemės ūkio įmonių nariams paskirstoma Lietuvos Respublikos žemės ūkio bendrovių įstatymo nustatyta tvarka.“
+4) išpirkto turto vertė žemės ūkio įmonių nariams paskirstoma [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymo]] nustatyta tvarka.“
 
 
 3. 13 straipsnį laikyti 14 straipsniu.

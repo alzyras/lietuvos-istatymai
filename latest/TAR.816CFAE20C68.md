@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.816CFAE20C68"
 pavadinimas: "Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties ratifikavimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties ratifikavimo įstatymas"
+  - "ir Slovakijos Respublikos laisvosios prekybos sutarties ratifikavimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-31"
 latest_path: "latest/TAR.816CFAE20C68.md"
 latest_sha256: "ad34ad60de10f7497a24605daf5028df71c1f55a9c8c5436545f57dd43bd1041"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.816CFAE20C68]]"
 ---
 # Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties ratifikavimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.816CFAE20C68.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.816CFAE20C68
+- Ryšiai: [[Ryšiai/TAR.816CFAE20C68|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-1e469b389ef0039bd0744b81
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 24 d. dekretą Nr. 1151, ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. lapkričio 27 d. Bratislavoje.

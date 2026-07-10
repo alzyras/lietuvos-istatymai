@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.45470AC35F57"
 pavadinimas: "Lietuvos Respublikos valstybės ir Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo 12 ir 13 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo 12 ir 13 straipsnių pakeitimo įstatymas"
+  - "valstybės ir Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo 12 ir 13 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-04"
 latest_path: "latest/TAR.45470AC35F57.md"
 latest_sha256: "f30217ed169278c2166d0adf7f05b3db2ca90b5beeb4309370b5d0c22c67239b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.45470AC35F57]]"
 ---
 # Lietuvos Respublikos valstybės ir Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo 12 ir 13 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.45470AC35F57.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.45470AC35F57
+- Ryšiai: [[Ryšiai/TAR.45470AC35F57|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio pakeitimas
+### 1 straipsnis. 12 straipsnio pakeitimas ^s-47168e88039e3c34af94ccd0
 
 
 12 straipsnyje vietoj datos „1997 m. liepos 1 d. „įrašyti datą „1998 m. sausio 1 d.“ ir šį straipsnį išdėstyti taip:
@@ -44,22 +49,22 @@ Vilnius
 
 
 
-### 2 straipsnis. 13 straipsnio 2, 4 ir 5 dalių pakeitimas
+### 2 straipsnis. 13 straipsnio 2, 4 ir 5 dalių pakeitimas ^s-92937c2a6b6ba1714946ea12
 
 
-1. 13 straipsnio 2 dalyje vietoj datos „1997 m. liepos 1 d.“ įrašyti datą „1998 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^4926fee6512df2e173c696a8
+1. 13 straipsnio 2 dalyje vietoj datos „1997 m. liepos 1 d.“ įrašyti datą „1998 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^s-f51956ae33e3cf970831de25
 
 
 „2. Šis įstatymas laikinai netaikomas Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų ir apylinkių teismų bei Ūkinio teismo teisėjams, Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo ir prokuratūrų prie apygardų ir apylinkių teismų pareigūnams, Seimo kontrolieriams, Valstybės saugumo departamento bei pavaldžių įstaigų pareigūnams, Vidaus reikalų ministerijos ir Krašto apsaugos ministerijos sistemų (tarp jų ir kariuomenių) pareigūnams bei kariams, Valstybės kontrolės pareigūnams, taip pat Muitinės departamento prie Finansų ministerijos, Revizijų departamento prie Finansų ministerijos bei Valstybinės mokesčių inspekcijos prie Finansų ministerijos, Valstybės atominės energetikos saugos inspekcijos vadovams ir darbuotojams, vykdantiems šioms įstaigoms teisės aktų nustatytas funkcijas. Jiems įstatymas įsigalios 1998–1999 metais, Seimui priėmus atitinkamus įstatymus, kai šio įstatymo nustatyti apmokėjimo dydžiai pasieks šių įstaigų vadovų, teisėjų, pareigūnų, karių ir darbuotojų iki 1998 m. sausio 1 d. esamus darbo apmokėjimo dydžius. Iki tol šių įstaigų vadovams, teisėjams, pareigūnams, kariams ir darbuotojams taikoma iki 1998 m. sausio 1 d. galiojanti darbo (tarnybos) apmokėjimo tvarka. Teisės aktų šioms pareigybėms nustatyti pareiginių algų bei atlygių, priedų ir priemokų dydžiai nedidinami ir neindeksuojami (išskyrus būtinosios tarnybos kariams), taip pat nedidinamas jų darbo užmokesčio fondas (išskyrus atvejus, kai vadovaujantis teisės aktų patvirtintais normatyvais ir tvarka didinamas etatų skaičius ). Pareigybių, kurioms laikinai netaikoma šio įstatymo nustatyta darbo apmokėjimo tvarka, sąrašus tvirtina šioje dalyje nurodytų įstaigų vadovai.“
 
 
-2. 13 straipsnio 4 dalyje vietoj datos „1997 m. spalio 1 d.“ įrašyti datą „1998 m. balandžio 1 d.“ ir šią dalį išdėstyti taip: ^8500cf4fb230647fc5fce16e
+2. 13 straipsnio 4 dalyje vietoj datos „1997 m. spalio 1 d.“ įrašyti datą „1998 m. balandžio 1 d.“ ir šią dalį išdėstyti taip: ^s-cb17dceda6304ddf123391bd
 
 
 „4. Priedai už kvalifikacines kategorijas, numatyti šio įstatymo 7 straipsnio 2 dalyje, mokami nuo 1998 m. balandžio 1d.“
 
 
-3. 13 straipsnio 5 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip: ^ed031dbed142bc449dd85d8d
+3. 13 straipsnio 5 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip: ^s-e8618fbec1f3e46458c70f56
 
 
 „5. Priedai, numatyti šio įstatymo 11 straipsnio 5 punkte, mokami nuo 1998 m. liepos 1d.“

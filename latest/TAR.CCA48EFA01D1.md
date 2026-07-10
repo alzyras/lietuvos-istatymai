@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CCA48EFA01D1"
 pavadinimas: "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo"
+aliases:
+  - "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-01"
 latest_path: "latest/TAR.CCA48EFA01D1.md"
 latest_sha256: "7bee783cfc8d7233ddad07e5886d35912590ff93ca86ee97fe6f699ec81f47f4"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CCA48EFA01D1]]"
 ---
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CCA48EFA01D1.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1
+- Ryšiai: [[Ryšiai/TAR.CCA48EFA01D1|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -165,7 +169,7 @@ Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
 
 
 
-### 7 straipsnis. Neteko galios nuo 2018-01-01
+### 7 straipsnis. Neteko galios nuo 2018-01-01 ^s-c12bacb3fe19e8adb4e4897b
 Straipsnio naikinimas:
 Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
 Straipsnio pakeitimai:

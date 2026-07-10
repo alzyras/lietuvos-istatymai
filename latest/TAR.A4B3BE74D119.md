@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A4B3BE74D119"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 69 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 69 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 69 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-06-30"
 latest_path: "latest/TAR.A4B3BE74D119.md"
 latest_sha256: "d7b1415cc89cfb2e865c307f77e9bf5f7be5a05db3872265ca5db42b38143ab8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A4B3BE74D119]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 69 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A4B3BE74D119.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A4B3BE74D119
+- Ryšiai: [[Ryšiai/TAR.A4B3BE74D119|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 69 straipsnio pakeitimas
+### 1 straipsnis. 69 straipsnio pakeitimas ^s-bde2b34706e2ca04ec5d8cb6
 
 
 Pakeisti 69 straipsnį ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 „69 straipsnis. Teisinio pedagoginio darbo stažo pripažinimas
 
 
-Šio Įstatymo 66, 67 ir 68 straipsniuose nurodytu teisiniu pedagoginiu darbo stažu pripažįstamas teisės krypties socialinių mokslų daktaro teisinis pedagoginis darbas, dirbtas Lietuvos Respublikos mokslo ir studijų įstatymo nustatytose dėstytojų ir mokslo darbuotojų pareigybėse universitetuose, rengiančiuose teisės bakalaurus ir (ar) teisės magistrus, taip pat teisininko profesinį kvalifikacinį laipsnį įgyjančius teisininkus, t. y. suteikiančiuose vienpakopį aukštąjį teisinį universitetinį išsilavinimą. Teisinio pedagoginio darbo stažo pripažinimo tvarką nustato Vyriausybė.“
+Šio Įstatymo 66, 67 ir 68 straipsniuose nurodytu teisiniu pedagoginiu darbo stažu pripažįstamas teisės krypties socialinių mokslų daktaro teisinis pedagoginis darbas, dirbtas [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymo]] nustatytose dėstytojų ir mokslo darbuotojų pareigybėse universitetuose, rengiančiuose teisės bakalaurus ir (ar) teisės magistrus, taip pat teisininko profesinį kvalifikacinį laipsnį įgyjančius teisininkus, t. y. suteikiančiuose vienpakopį aukštąjį teisinį universitetinį išsilavinimą. Teisinio pedagoginio darbo stažo pripažinimo tvarką nustato Vyriausybė.“
 
 
 

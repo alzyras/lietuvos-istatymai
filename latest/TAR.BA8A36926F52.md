@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BA8A36926F52"
 pavadinimas: "Lietuvos Respublikos Konstitucijos 118 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Konstitucijos 118 straipsnio pakeitimo įstatymas"
+  - "Konstitucijos 118 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-21"
 latest_path: "latest/TAR.BA8A36926F52.md"
 latest_sha256: "2ab8e65c5f8eef385eb127f2e5228b7a199ef80e71e4c6365a3b681bc89a6dab"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BA8A36926F52]]"
 ---
 # Lietuvos Respublikos Konstitucijos 118 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BA8A36926F52.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BA8A36926F52
+- Ryšiai: [[Ryšiai/TAR.BA8A36926F52|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 118 straipsnio pakeitimas
+### 1 straipsnis. 118 straipsnio pakeitimas ^s-744cb2994c4bad2a0d7c9800
 
 
 Pakeisti 118 straipsnį ir jį išdėstyti taip:

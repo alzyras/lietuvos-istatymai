@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.499791BD2924"
 pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo\" 2 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos įstatymo \"Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo\" 2 straipsnio pakeitimo įstatymas"
+  - "įstatymo \"Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo\" 2 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-30"
 latest_path: "latest/TAR.499791BD2924.md"
 latest_sha256: "50001093b5a9084c2911ff4e442aa7d4b86e1a21fbff9e64e07006b7e9eaeb46"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.499791BD2924]]"
 ---
 # Lietuvos Respublikos įstatymo "Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo" 2 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.499791BD2924.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.499791BD2924
+- Ryšiai: [[Ryšiai/TAR.499791BD2924|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas ^s-1ff126fb23312067b80f532e
 
 
 Pakeisti 2 straipsnio ketvirtąją pastraipą – vietoj skaičiaus ir santrumpos „80 ha“ įrašyti skaičių ir žodžius „50 ha žemės ūkio naudmenų“, vietoj žodžių „žemės suteikimas nebuvo nustatytu laiku“ įrašyti žodžius „žemės įsigijimas nuosavybėn nebuvo laiku“ ir šią pastraipą išdėstyti taip:

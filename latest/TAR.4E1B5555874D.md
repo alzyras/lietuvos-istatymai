@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4E1B5555874D"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 14 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 14 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 14 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.4E1B5555874D.md"
 latest_sha256: "53d45e4ea9c793fd3c40b5010f0d5d7838090de10f9f83229647366e9dcdc75a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4E1B5555874D]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 14 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4E1B5555874D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4E1B5555874D
+- Ryšiai: [[Ryšiai/TAR.4E1B5555874D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio pakeitimas
+### 1 straipsnis. 14 straipsnio pakeitimas ^s-1ee78a27010e1a87e2966494
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -46,7 +51,7 @@ Apylinkės teismas susideda iš šio teismo pirmininko, pirmininko pavaduotojo (
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-e77eeafe9f67f7191f39fb6e
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

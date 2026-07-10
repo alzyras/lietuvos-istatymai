@@ -1,0 +1,270 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.91609F53E29E"
+pavadinimas: "Lietuvos Respublikos socialinių paslaugų įstatymas"
+---
+# Lietuvos Respublikos socialinių paslaugų įstatymas: ryšiai
+
+- [[latest/TAR.91609F53E29E|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.E14E65020CCC|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas]] - 2 citatos - Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme
+- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 4 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu
+- [[latest/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - 5 citatos - Asmens su negalia teisių apsaugos pagrindų įstatymo
+- [[latest/cf5b87f06fca11e9a13eeecaacbc653f|Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatymas]] - 2 citatos - Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme
+- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 2 citatos - Lietuvos Respublikos atliekų tvarkymo įstatyme
+- [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] - 2 citatos - Lietuvos Respublikos biudžetinių įstaigų įstatymo
+- [[latest/TAR.1DEDD43B92AE|Lietuvos Respublikos išmokų vaikams įstatymas]] - 2 citatos - Išmokų vaikams įstatyme
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme
+- [[latest/599af1605b2b11eb9dc7b575f08e8bea|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas]] - 2 citatos - Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme
+- [[latest/TAR.1F58348F79F7#^s-d056ca1401831884aeb9cdfb|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 4 citatos - Pensijų kaupimo įstatymo 4 straipsnio 8 dalies 5 punkte
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 4 citatos - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.80857E300091|Lietuvos Respublikos socialinių paslaugų įstatymo 2 ir 30 straipsnių pakeitimo įstatymas]] - 6 citatos - 1121010ISTA0XI-2171
+- [[latest/TAR.C9B498D882BA|Lietuvos Respublikos socialinių paslaugų įstatymo 2, 9, 10, 11, 13, 19, 26, 30, 34, 36, 38, 39 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas]] - 6 citatos - 1101010ISTA00XI-777
+- [[latest/TAR.B8E62214E5EA|Lietuvos Respublikos socialinių paslaugų įstatymo 23 ir 32 straipsnių pakeitimo įstatymas]] - 6 citatos - 1121010ISTA0XI-2341
+- [[latest/TAR.FD2DA49C23DA|Lietuvos Respublikos socialinių paslaugų įstatymo 32 straipsnio pakeitimo įstatymas]] - 6 citatos - 1081010ISTA00X-1573
+- [[latest/a311b4a05b2b11eb9dc7b575f08e8bea|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3 straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu ir priedu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-170
+- [[latest/0bdee160697c11eca9ac839120d251c4|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3, 4, 6, 8, 11, 14, 15, 16, 17, 18, 19, 20, 26, 29, 34, 38 straipsnių pakeitimo, Įstatymo papildymo 6-1, 19-3, 20-1, 20-2 straipsniais ir 36, 37 straipsnių pripažinimo netekusiais galios įstatymas]] - 2 citatos - Įstatymas Nr. XIV-877
+- [[latest/9d771fb0f25211e88568e724760eeafa|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1660
+- [[latest/ee38d67025b611eb932eb1ed7f923910|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir 38 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3344
+- [[latest/07a620a2e56911f08918e1adc7c5b1ec|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 12 straipsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XV-726
+- [[latest/6e744060ae0611e98451fa7b5933515d|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 13 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2292
+- [[latest/347ae520ca0211f08918e1adc7c5b1ec|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14, 39 ir 40 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-521
+- [[latest/5bcb48a0cecd11ed9978886e85107ab2|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1841
+- [[latest/2a09a840a8ae11e5be7fbe3f919a1ebe|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 18 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2193
+- [[latest/ed068ca0125f11e4adf3c8c5d7681e73|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 11, 13, 14, 19, 20, 21, 23, 24, 26, 29, 30, 31, 32, 38 straipsnių pakeitimo ir Įstatymo papildymo 14-1, 24-1 straipsniais įstatymas]] - 2 citatos - Įstatymas Nr. XII-1014
+- [[latest/44396f70a9f111ec8d9390588bf2de65|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 23, 24 ir 34 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-952
+- [[latest/701404b0adb711e78a4c904b1afa0332|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir 34 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-647
+- [[latest/6c3a38e079fa11e8ae2bfd1913d66d57|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir 34 straipsnių pakeitimo įstatymo Nr. XIII-647 4, 5 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1292
+- [[latest/57542b20a19e11ea9515f752ff221ec9|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 8, 13, 15, 16, 17, 19-1, 20, 30, 34, 36 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-2, 25-1, 25-2 straipsniais įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2945
+- [[latest/9e72e9a01ac511e79800e8266c1e5d1b|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 9, 18, 19, 34 straipsnių pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-246
+- [[latest/acf255b0299911eb932eb1ed7f923910|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 ir 24 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3342
+- [[latest/e38b4b30a0ab11ea9515f752ff221ec9|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2970
+- [[latest/069af9d2dfe511f08918e1adc7c5b1ec|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 24 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-673
+- [[latest/39dab3204a7211e6b5d09300a16a686c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir 30 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2520
+- [[latest/df702930cda011e6a2cac7383cbb90a3|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir 30 straipsnių pakeitimo įstatymo Nr. XII-2520 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-175
+- [[latest/ae2c43a0802211e8ae2bfd1913d66d57|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1402
+- [[latest/11cad740acdf11e78a4c904b1afa0332|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-652
+- [[latest/a6cebc70c8e311eba2bad9a0748ee64d|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-359
+- [[latest/2d6d0c20d9b311f08918e1adc7c5b1ec|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 39 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-644
+- [[latest/eb465e12544511f180c9c618618421ed|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 5 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-958
+- [[latest/77def150a54511eea5a28c81c82193a8|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2357
+- [[latest/75b8064236f411f08fdabd4950271e2c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymo Nr. XIV-2357 6 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-215
+- [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 2 citatos - Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 6 citatos - Viešojo administravimo įstatymo
+- [[latest/TAR.00D176C81058|Lietuvos Respublikos šeimynų įstatymas]] - 4 citatos - Šeimynų įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.E14E65020CCC#^s-0bc849ee50ed4df06a674b8c|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/TAR.E14E65020CCC#^s-42e433547aa6d2bd6a7be2de|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/TAR.E14E65020CCC#^s-9492fe91ae1312c2521ef616|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/TAR.E14E65020CCC#^s-c889bbeaacdc3444c49f2dc7|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/1e568520a9ee11ec8d9390588bf2de65#^s-6acbac81a2eee64ae8c8666d|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/1e568520a9ee11ec8d9390588bf2de65#^s-9bb8d6f46de1b62e628090da|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/1e568520a9ee11ec8d9390588bf2de65#^s-ef6263256bedcce8e637c556|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/1e568520a9ee11ec8d9390588bf2de65#^s-f81f533b2f4f42b3c76f81f9|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/TAR.199156E4E004#^s-2665b54b210a61ff971408dd|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.199156E4E004#^s-33814012a2b1260cf5be8756|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.199156E4E004#^s-41de6b1571cc2d2213ed3c7c|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.199156E4E004#^s-439757d205ecaf2a435fa1a6|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.199156E4E004#^s-7c5b521f5ff65d56dab85ffd|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.199156E4E004#^s-9f30d9ffc9e536489ecf0988|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - 2 citatos - Socialinių paslaugų įstatyme
+- [[latest/TAR.199156E4E004#^s-b417903b18d62ac47bb13e65|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/88bcfd52d0f411f08918e1adc7c5b1ec#^s-5db9885250d090e414db7a02|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 1, 2, 15, 24, 26, 30 ir 32 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/88bcfd52d0f411f08918e1adc7c5b1ec#^s-8179bcfac23a80f2dc8cd51f|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 1, 2, 15, 24, 26, 30 ir 32 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/211a29f0299911eb932eb1ed7f923910#^s-623e4078bc9a0618bb0b8551|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/211a29f0299911eb932eb1ed7f923910#^s-fd81ff0ffa9e563bde404ec5|Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.82D8168D3049#^s-184bd41e69df530d8a26ab95|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/TAR.82D8168D3049#^s-24acb0d19416e6620696d695|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-3019d0d62cde605dd1798cb9|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-344f89a13b61071c9e9a3128|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/TAR.D33E89BBB88A#^s-92f47cd8670a58f9402db76f|Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įstatymas]] - Socialinių paslaugų įstatymas
+- [[latest/TAR.D33E89BBB88A#^s-b10cf8dd3e035d03cf84604c|Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įstatymas]] - Socialinių paslaugų įstatymas
+- [[latest/TAR.D33E89BBB88A#^s-e4d020bdfba3ac648fadc590|Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įstatymas]] - Socialinių paslaugų įstatymas
+- [[latest/TAR.1DEDD43B92AE#^s-228b9c974850c5312ab31555|Lietuvos Respublikos išmokų vaikams įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.1DEDD43B92AE#^s-a8b16bd786b233efbd3b58ea|Lietuvos Respublikos išmokų vaikams įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/TAR.1DEDD43B92AE#^s-ec23e45173999ffb1ecbaa4a|Lietuvos Respublikos išmokų vaikams įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/TAR.1DEDD43B92AE#^s-fb2221eb40b292b27c01ba6c|Lietuvos Respublikos išmokų vaikams įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.248C7408E018#^s-57890ad6b320a663c6e8367d|Lietuvos Respublikos išmokų vaikams įstatymo 2, 3, 4, 6, 8, 9, 12, 13, 14, 15, 17, 18 straipsnių, trečiojo, šeštojo skirsnių pavadinimų pakeitimo ir papildymo ir 21 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymu
+- [[latest/TAR.248C7408E018#^s-bd0f6a4f2bbee356f628c864|Lietuvos Respublikos išmokų vaikams įstatymo 2, 3, 4, 6, 8, 9, 12, 13, 14, 15, 17, 18 straipsnių, trečiojo, šeštojo skirsnių pavadinimų pakeitimo ir papildymo ir 21 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymu
+- [[latest/830b2830aa5511eab9d9cd0c85e0b745#^s-1e773f40b3956e8aff1eb015|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 15 ir 19 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/830b2830aa5511eab9d9cd0c85e0b745#^s-9f16436a9df7005a9bc11444|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 15 ir 19 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/964f55405d9311eca9ac839120d251c4#^s-3b574be3294a8589233deb3d|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 6, 9, 11, 12, 13, 14, 15, 17, 18, 19, 21 straipsnių ir priedo pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/964f55405d9311eca9ac839120d251c4#^s-870a0820f319fa6d4eb13f8d|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 6, 9, 11, 12, 13, 14, 15, 17, 18, 19, 21 straipsnių ir priedo pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/83931f10e3f111e7b3f0a470b0373cb2#^s-0412455cf9f63bf4d1ab112d|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/83931f10e3f111e7b3f0a470b0373cb2#^s-691c374ff1e152075a690bf6|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/83931f10e3f111e7b3f0a470b0373cb2#^s-d748aabc229178c5f2fb2491|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/83931f10e3f111e7b3f0a470b0373cb2#^s-f331d4a83b1e92d9d74e4a1c|Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-712c9aec70613872c12903c4|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/f4a75d3000f511ed8fa7d02a65c371ad#^s-f7bf65457e7d8b885a5e8c1b|Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/10d2ee70cecd11ed9978886e85107ab2#^s-6fa076cf3828edc115808552|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 11 ir 25-1 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 30 straipsniu
+- [[latest/10d2ee70cecd11ed9978886e85107ab2#^s-aeb819413d4a0c6af8a41811|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 11 ir 25-1 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/10d2ee70cecd11ed9978886e85107ab2#^s-b53de6aaa81d7e88d0f8d65f|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 11 ir 25-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/a7de2ef091e011eb9fecb5ecd3bd711c#^s-b2edcdfed8702c5805e1430e|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas]] - 2 citatos - Lietuvos Respublikos socialinių paslaugų įstatymo 20 straipsnio 3 dalyje
+- [[latest/a7de2ef091e011eb9fecb5ecd3bd711c#^s-e7da4b1a75bfa9c3879769cc|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas]] - Socialinių paslaugų įstatymo 30 straipsniu
+- [[latest/a7de2ef091e011eb9fecb5ecd3bd711c#^s-ebb55194da41341dd78d16d9|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo 20 straipsnio 3 dalyje
+- [[latest/456abe02034a11edb32c9f9d8ba206f8#^s-d8ade09932f004a45b34d242|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 3, 6, 16, 18, 20, 25-1 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-2 straipsniu įstatymas]] - Socialinių paslaugų įstatymo 30 straipsniu
+- [[latest/456abe02034a11edb32c9f9d8ba206f8#^s-fdacfa5c4348428ded29738e|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 3, 6, 16, 18, 20, 25-1 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-2 straipsniu įstatymas]] - Socialinių paslaugų įstatymo 30 straipsniu
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-1e545af7aa727d020831e942|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-55a10be6054409f06503e7de|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-6c6f08e9ce96279554165db2|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-6ee6da3ce9c2536ae7a7bff3|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-8d1882b4d9afc1a1def49133|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - 2 citatos - Socialinių paslaugų įstatyme
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-91d7c3b1c04a3053cf5c9865|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/e56258b08c0b11ed8df094f359a60216#^s-dc06b6317d5dab2c7bbac528|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/eafbdf70ced311ed9978886e85107ab2#^s-3d1054c1e48aeef087eeb2e6|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymo Nr. XIV-1722 1 straipsnio pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/eafbdf70ced311ed9978886e85107ab2#^s-ae75ab747af68ebcc3631514|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymo Nr. XIV-1722 1 straipsnio pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/599af1605b2b11eb9dc7b575f08e8bea#^s-21c76ba88ad11e77ff3a474f|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/599af1605b2b11eb9dc7b575f08e8bea#^s-58079db330ee878c90f9614e|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/599af1605b2b11eb9dc7b575f08e8bea#^s-6c2f86c684f11d87fe17782f|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/599af1605b2b11eb9dc7b575f08e8bea#^s-a35055a5f935045980f52f65|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/e944ee00600111e4bad5c03f56793630#^s-06b927ac13997097e2c58ad3|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/e944ee00600111e4bad5c03f56793630#^s-94cc3b8a036c4b5880a2d9e2|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/e944ee00600111e4bad5c03f56793630#^s-bb5a175dd8bd1ef8f590ea70|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/e944ee00600111e4bad5c03f56793630#^s-f1c07553fa15c4842c26ffbb|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/ff7e856067eb11eca9ac839120d251c4#^s-289e027f7a0bda2f34b7d1bc|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/ff7e856067eb11eca9ac839120d251c4#^s-42ef3d8465010b7a229d0659|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/ff7e856067eb11eca9ac839120d251c4#^s-5f05cda4722d2b4863184d4d|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/ff7e856067eb11eca9ac839120d251c4#^s-b88fc641e42bf943e6acff4e|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/TAR.53F723C4D914#^s-0d84a01740f2086ff9d35bd3|Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 22, 26, 27 straipsnių pakeitimo ir papildymo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.53F723C4D914#^s-17f26c114781dfba74366a72|Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 22, 26, 27 straipsnių pakeitimo ir papildymo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/a311b4a05b2b11eb9dc7b575f08e8bea#^s-3baa213de849ebf13fd62b4a|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3 straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu ir priedu įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/ee38d67025b611eb932eb1ed7f923910#^s-2a78b76cf6c86d1c27a86318|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir 38 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 23 straipsnio 1 dalyje
+- [[latest/ee38d67025b611eb932eb1ed7f923910#^s-37e140f507a0dbc673db0c32|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir 38 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/ee38d67025b611eb932eb1ed7f923910#^s-3b6a4ae5c1fe49977aa86cdb|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir 38 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/347ae520ca0211f08918e1adc7c5b1ec#^s-09c51d05fc2972bbd829a03c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14, 39 ir 40 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/347ae520ca0211f08918e1adc7c5b1ec#^s-5689b7ed3c946548a1860e67|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14, 39 ir 40 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/5bcb48a0cecd11ed9978886e85107ab2#^s-28aa046d54fd7c24d3237908|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/5bcb48a0cecd11ed9978886e85107ab2#^s-bb66ae8dce8033dbf0348938|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/5bcb48a0cecd11ed9978886e85107ab2#^s-cb576fdceb13e9c192e02f0a|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/701404b0adb711e78a4c904b1afa0332#^s-31edb5251201725c3ebbacc8|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir 34 straipsnių pakeitimo įstatymas]] - įstatymo Nr. X-493
+- [[latest/701404b0adb711e78a4c904b1afa0332#^s-6714bacab5359ca29afe9569|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir 34 straipsnių pakeitimo įstatymas]] - įstatymo Nr. X-493
+- [[latest/069af9d2dfe511f08918e1adc7c5b1ec#^s-05a55c437f2926f7261af960|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/069af9d2dfe511f08918e1adc7c5b1ec#^s-d2daa17c25a8846406197279|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/39dab3204a7211e6b5d09300a16a686c#^s-0977405fb1839ccfba7b5fa4|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir 30 straipsnių pakeitimo įstatymas]] - įstatymo Nr. X-493
+- [[latest/2d6d0c20d9b311f08918e1adc7c5b1ec#^s-af14843ee8f27f6ebb23d04b|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 39 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/2d6d0c20d9b311f08918e1adc7c5b1ec#^s-bf4a386319de59917483f49c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 39 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-0256a1f5f2bb9595766617ad|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 30 straipsnio 2 dalies 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-07b6f3fa5955972df4d8293b|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 31 straipsnio 10 dalies 2 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-0e2f049775954bd69c5d74d6|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 21 straipsnio 2 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-12591449de6f02de4d63f9b0|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 15 straipsnio 3 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-1a9e30f2e52fbe0e76942cfc|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-1f91bab0cad68355bf4e94f7|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 31 straipsnio 14 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-22d96e095924a18a9eb5c995|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - 2 citatos - Socialinių paslaugų įstatymo 21 straipsnio
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-2b775e8e98543a2a8c11dca3|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 22 straipsnio 9 dalis
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-2e2d10ee85d92b30a3906fb0|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 31 straipsnio 2 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-2e69369d1b80e90710f17977|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-482d79cc2d49f1442ba335a6|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-54ffb1ed062f4fd233d06a28|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 28 straipsnio 4 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-587be345b252b55b24dbd2d5|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 21 straipsnio 1 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-5b6ca4ad7252c60d2523144b|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-62a6c2322f7bb02ceeb362d8|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 31 straipsnio 3 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-68e87ad28c908c35ac00a3f9|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 32 straipsnio 1 dalies 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-6a64b6b94d876a3943d9a8c3|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 14 straipsnio 5 dalies 5 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-73b41819748ad6c754b37d5c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - 5 citatos - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-73d434b2077f4984389ae755|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 30 straipsnio 1 dalies 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-862a5bf5ffb1747b9f8a7007|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 15 straipsnio 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-8640814cf2a0cd11bc768f33|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-89acc1923998fc9b56cbeafa|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-92914db85e70fb2e97ebd8b9|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 23 straipsnio 4 dalies 3 punkte
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-9a1f2240add987c056f39d14|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 31 straipsnio 6 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-b682e92b7f172d478a822f0f|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 2 straipsnio 19 dalis
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-c370fc381f3bc182b492963c|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - 20 citatos - Lietuvos Respublikos socialinių paslaugų įstatymo 14 straipsnio 2 dalies 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-cbe3e41246d1bf54700b03ba|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-d41313f8568a9a09e6b052f8|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 14 straipsnio 3 dalies 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-dcd86bdf4d4625f002dda188|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS socialinių paslaugų ĮSTATYMAS
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-ddba0944cb7183ddecd1e461|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 31 straipsnio 11 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-f6724426b145a5d1bca917bb|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-f92fb556b5ad55ac13183915|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 21 straipsnio 3 dalies
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-f990c00a54e2ed4cb3fafe06|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymo 14 straipsnio 2 dalies 1 punkto
+- [[latest/77def150a54511eea5a28c81c82193a8#^s-fbed77280fc25c7baad092fe|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 15 straipsnio 2 punkto
+- [[latest/75b8064236f411f08fdabd4950271e2c#^s-16ea2aa893a939b069553590|Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymo Nr. XIV-2357 6 straipsnio pakeitimo įstatymas]] - Socialinių paslaugų įstatymo 21 straipsnio 10 dalies 2 punkte
+- [[latest/TAR.E2B2957B9182#^s-3072d9618099bca330f2b6db|Lietuvos Respublikos sveikatos sistemos įstatymas]] - 3 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.E2B2957B9182#^s-b1d2081ffdb16c02fa968324|Lietuvos Respublikos sveikatos sistemos įstatymas]] - 3 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/2b5c7eb000eb11ed8fa7d02a65c371ad#^s-7f13d1247ba9b52a02376395|Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 straipsnio pakeitimo ir Įstatymo papildymo 12-1 ir 51-1 straipsniais įstatymas]] - 3 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/2b5c7eb000eb11ed8fa7d02a65c371ad#^s-8f11b844e33b92b14780d040|Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 straipsnio pakeitimo ir Įstatymo papildymo 12-1 ir 51-1 straipsniais įstatymas]] - 3 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/398a02704a6f11e6b5d09300a16a686c#^s-d444c52152c2f51e493021b5|Lietuvos Respublikos tikslinių kompensacijų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/358b6f208c0c11ed8df094f359a60216#^s-ec2c969371497a42e05fa653|Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.90D8CF4E3E9F#^s-4c6d8e5102160fe4f97d04c5|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.90D8CF4E3E9F#^s-dd24f7e2476a4b47d5dfbfc3|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/1f1b6450cefd11ed9978886e85107ab2#^s-19fc34c366cdaf686b13fc57|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 2, 7, 11, 12, 15, 16, 17, 18, 21, 22, 23, 24, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/5f313450087811ebb74de75171d26d52#^s-80f600560b00c81e81dd48ae|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/70593dd04a7311e6b5d09300a16a686c#^s-841136ab5435c4c1d7ce87bc|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/70593dd04a7311e6b5d09300a16a686c#^s-cbba21a81dfb229d505aee01|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/5f313450087811ebb74de75171d26d52#^s-e858dba8002c6fcb8e363233|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.4C876D398907#^s-353b9be3a43f2cf452ffdc81|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.4C876D398907#^s-9bdc7daf596f7f66b76ea009|Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.C8205E261830#^s-01a27138fcc674181ab43aa7|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Socialinių paslaugų įstatymas
+- [[latest/TAR.C8205E261830#^s-1f89b045cbae9dc2dffbe05d|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.C8205E261830#^s-5aaf2c5bf49b36cdae9e31d6|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Socialinių paslaugų įstatymas
+- [[latest/TAR.C8205E261830#^s-76d1b19096ecca3c4b776d2d|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/e8ab16a05b2b11eb9dc7b575f08e8bea#^s-1974d81a087b05ffcae08df7|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas]] - Socialinių paslaugų įstatymas
+- [[latest/e8ab16a05b2b11eb9dc7b575f08e8bea#^s-bb644f1001e3de38c4adb021|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/d3a924201b3811eeb233e8b04dc9bb3d#^s-6a9426b8c3a4ff3ad754adba|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2 ir 50 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/41c6f620629811e99676cb74c51fe1f4#^s-24951bc2adeb4b989613f876|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/41c6f620629811e99676cb74c51fe1f4#^s-84576c625bf674684fb6d5b2|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-6a1f9f86640d9c1525063f02|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/5a6c9100adc011e79d87b6f526384a70#^s-fcea8d88810ca01056771b9e|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.47427ED02A3E#^s-4c85969ed5fd8c2ab1b5ad4b|Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.47427ED02A3E#^s-97ce4162b85060efaf875fb4|Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/028baa40c1cf11ea9815f635b9c0dcef#^s-65c7624951564803f0bc424c|Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/028baa40c1cf11ea9815f635b9c0dcef#^s-99b3cd43c58e5ce7226bc1ef|Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/a12972b0d06211e7910a89ac20768b0f#^s-7648707c670a57cbe073105f|Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4, 5 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/a12972b0d06211e7910a89ac20768b0f#^s-c414343a9caefab40a78c0b0|Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4, 5 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/1462cc70347211efbdaea558de59136c#^s-20273acd1517d904a71d812f|Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/1462cc70347211efbdaea558de59136c#^s-7f8f6330d1ce5f52bb292018|Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.5A7AFA3A0DEF#^s-57f12f68b08e4ac9af909ba1|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 17, 19, 20, 21, 27, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.5A7AFA3A0DEF#^s-7a91f945836e8f874b197327|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 17, 19, 20, 21, 27, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/2f5830f0aee911e5b12fbb7dc920ee2c#^s-45e9f9b010bbde7c92dbbb8e|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/2f5830f0aee911e5b12fbb7dc920ee2c#^s-6385ffdfd8838b06181f0511|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-903505d63c3b1c4c4cbdc2f9|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.C54AFFAA7622#^s-94189b19dbae783e7176fd23|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/8f1405d0a62c11eea5a28c81c82193a8#^s-6ffcb306e3150beacfa2b1eb|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/8f1405d0a62c11eea5a28c81c82193a8#^s-a4dce135e657a35df6c1e24f|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/bf4f6f5049bf11efbdaea558de59136c#^s-6889d8656c7a880de9614f84|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 17, 37, 47 ir 87 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/bb7cc680875511ed8df094f359a60216#^s-a9adedbb2e2442c4b351aa25|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/bb7cc680875511ed8df094f359a60216#^s-f2d2fd93e59cfd974059fe0e|Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.42837E5A79DD#^s-1ce1e99f973b0ee71082dea9|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Lietuvos Respublikos socialinių paslaugų įstatymu
+- [[latest/TAR.42837E5A79DD#^s-9416adc4cfc0ed3961fd199b|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Lietuvos Respublikos socialinių paslaugų įstatymu
+- [[latest/TAR.42837E5A79DD#^s-98152901cd5934a0360c123b|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.42837E5A79DD#^s-a310443dc06963515235ca6a|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Socialinių paslaugų įstatymu
+- [[latest/a823a930a9ef11ec8d9390588bf2de65#^s-36842cdbcb135e4b687c5d7a|Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32, 64, 68 ir 108 straipsnių pakeitimo ir Įstatymo X-2 skyriaus papildymo ketvirtuoju skirsniu įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymu
+- [[latest/a823a930a9ef11ec8d9390588bf2de65#^s-6257776d6e9daf76e210a464|Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32, 64, 68 ir 108 straipsnių pakeitimo ir Įstatymo X-2 skyriaus papildymo ketvirtuoju skirsniu įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatymu
+- [[latest/f7ca0c92544011f180c9c618618421ed#^s-24ab5d156773bea25528cc3e|Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/f7ca0c92544011f180c9c618618421ed#^s-c5030520afbaa4180d260dd2|Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.2CE6CFE9E2EE#^s-28320fa6205025e13e0cc863|Lietuvos Respublikos šalpos pensijų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.2CE6CFE9E2EE#^s-53551619cc05069d2a622616|Lietuvos Respublikos šalpos pensijų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/899ab120347111efbdaea558de59136c#^s-5b881b78e3e0af881fae2fe5|Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/899ab120347111efbdaea558de59136c#^s-9b190db7a279860979597f70|Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-1b9ed811ad9c160b9fa550ee|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-24d1617327d20548b0d025be|Lietuvos Respublikos šeimynų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-4aa100dabf2d2d731c27814b|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.00D176C81058#^s-4f6c04e2e50ad40dc2970454|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/TAR.00D176C81058#^s-6b633d633eacc13bd8a2fee8|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/TAR.00D176C81058#^s-85e152b061a8a085ba1f399b|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-bfc8264379b9fe02b3045310|Lietuvos Respublikos šeimynų įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-c94dae9d97a6603690598756|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/TAR.00D176C81058#^s-ec5417ab87aa9b3985138c51|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-f4f3ce4201956dadc71b623a|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/TAR.00D176C81058#^s-faab508cb43f6e6159643bd3|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.00D176C81058#^s-fd328fde3a6db6a62902960d|Lietuvos Respublikos šeimynų įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/a71005b0696211edbc04912defe897d1#^s-02e8ec5b2d73b5c40e5bb55a|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/a71005b0696211edbc04912defe897d1#^s-1569a4c91d9b7eb0f861e733|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/a71005b0696211edbc04912defe897d1#^s-1a797fc0464e4f45d7407f77|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatymu
+- [[latest/a71005b0696211edbc04912defe897d1#^s-308d2e762dd81a4dfe248fcb|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/a71005b0696211edbc04912defe897d1#^s-47959f4da451970ef5429de0|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/a71005b0696211edbc04912defe897d1#^s-4ef9e1cd21ad1a2dcce4fd6f|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/a71005b0696211edbc04912defe897d1#^s-8df06cf2e6be6f7b907cff2a|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/a71005b0696211edbc04912defe897d1#^s-a46ce837e2ba9493da826057|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/a71005b0696211edbc04912defe897d1#^s-c6f533b155a9d8919aefa32d|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/a71005b0696211edbc04912defe897d1#^s-c6f95893f1809b18c9d4bb14|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatymo
+- [[latest/a71005b0696211edbc04912defe897d1#^s-c701b35b586cd0da4996cf98|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/a71005b0696211edbc04912defe897d1#^s-d729b021e914fcff154f3af9|Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas]] - Socialinių paslaugų įstatyme
+- [[latest/TAR.9A3AD08EA5D0#^s-44be226f8aa7f3abaa9c7faa|Lietuvos Respublikos švietimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/TAR.9A3AD08EA5D0#^s-b88977ae0ca374060ef0dcba|Lietuvos Respublikos švietimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme
+- [[latest/583fd3802b2e11eb932eb1ed7f923910#^s-c94ad44292afccbd831e20bf|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 24, 36, 47 ir 67 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos socialinių paslaugų įstatyme

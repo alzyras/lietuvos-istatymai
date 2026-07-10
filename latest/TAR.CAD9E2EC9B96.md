@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CAD9E2EC9B96"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos denonsavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos denonsavimo"
+  - "įstatymas dėl Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos denonsavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-19"
 latest_path: "latest/TAR.CAD9E2EC9B96.md"
 latest_sha256: "ddadf5df40622b78b289a78e37edcaf93940f91fd76910b550dcd1d876f27ff1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CAD9E2EC9B96]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos denonsavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CAD9E2EC9B96.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CAD9E2EC9B96
+- Ryšiai: [[Ryšiai/TAR.CAD9E2EC9B96|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties denonsavimas
+### 1 straipsnis. Sutarties denonsavimas ^s-70c407ddf3935d537b18dce6
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. lapkričio 20 d. dekretą Nr. 1K-214, denonsuoja 1997 m. vasario 14 d. Alytuje pasirašytą Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos, ratifikuotą Lietuvos Respublikos [[latest/TAR.922114B574E1|1997 m. birželio 19 d. įstatymu Nr. VIII-274]] (Žin., 1997, Nr. 77-1973).

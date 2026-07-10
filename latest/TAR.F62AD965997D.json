@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.F62AD965997D.md",
   "latest_revision": "2003-07-01",
-  "latest_sha256": "f82ff429c14a815230f6ac28276cc798e04ca8915f33dec6fe284ebb88037904",
+  "latest_sha256": "c1142004c088404b5cb658567352b8e8dc0f0a98b48fcc4b96cf19eb1782b46a",
   "metadata_path": "latest/TAR.F62AD965997D.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos šilumos ūkio įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4CE00B2DB564"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas"
+  - "valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-01-01"
 latest_path: "latest/TAR.4CE00B2DB564.md"
 latest_sha256: "52e1e8c407d82a9d339fe56c3d0670dbdb330b0677a73eae9e48f4bb7f52365f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4CE00B2DB564]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4CE00B2DB564.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4CE00B2DB564
+- Ryšiai: [[Ryšiai/TAR.4CE00B2DB564|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 62 straipsnio 10 dalies pakeitimas
+### 1 straipsnis. 62 straipsnio 10 dalies pakeitimas ^s-94a551554f60fb5f4e32b453
 
 
 62 straipsnio 10 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip:
@@ -41,16 +46,16 @@ Vilnius
 
 
 
-### 2 straipsnis. 69 straipsnio 1 dalies, 2 dalies 2 punkto ir 3 dalies pakeitimas
+### 2 straipsnis. 69 straipsnio 1 dalies, 2 dalies 2 punkto ir 3 dalies pakeitimas ^s-cc8279455dd4a5d46aa88bee
 
 
-1. 69 straipsnio 1 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip: ^d284322932f2d6865d8d1b74
+1. 69 straipsnio 1 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip: ^s-b5fa387998ba5cc6b48ae53b
 
 
 „1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir 4 dalių nuostatas nuo 2001 m. liepos 1 d.“
 
 
-2. Pakeisti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^4141aecb263c49fa6efbc1db
+2. Pakeisti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-0f67d06267cff70e5fa04d6d
 
 
 „2) praėjus 6 mėnesiams, nurodytiems šios dalies 1 punkte, pereinamuoju laikotarpiu – iki 2003 m. liepos 1 d. buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu):
@@ -97,7 +102,7 @@ M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
 
 
 
-3. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip: ^74b41cb989781071341d0393
+3. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip: ^s-879588f19bb6cd0c3c7730b3
 „3. Valstybės tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo užmokestį, naujasis darbo užmokesčio dydis pasiekiamas nuosekliai: pereinamuoju laikotarpiu – iki 2006 m. sausio 1 d. kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę:
 A = [ (B – C) x D] + C, čia:
 A – pereinamuoju laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
@@ -125,7 +130,7 @@ D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-a43cf494a871af6b7db0e782
 
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.

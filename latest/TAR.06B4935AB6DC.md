@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.06B4935AB6DC"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.06B4935AB6DC.md"
 latest_sha256: "c79cdbc1ff248302a5d00bab449cdb59597ad24bc7b1529fd8bd0ca8b77ff022"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.06B4935AB6DC]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.06B4935AB6DC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.06B4935AB6DC
+- Ryšiai: [[Ryšiai/TAR.06B4935AB6DC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-5e82060dabbf1a8cbd898e37
 
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:

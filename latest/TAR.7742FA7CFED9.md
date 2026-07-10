@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7742FA7CFED9"
 pavadinimas: "Lietuvos Respublikos valstybės skolos įstatymo 4, 7 ir 9 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės skolos įstatymo 4, 7 ir 9 straipsnių pakeitimo įstatymas"
+  - "valstybės skolos įstatymo 4, 7 ir 9 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-08-04"
 latest_path: "latest/TAR.7742FA7CFED9.md"
 latest_sha256: "2cc0043fd16dd6ee42b920876e86b4a627290f5d545fe1d87e923a779337e281"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7742FA7CFED9]]"
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo 4, 7 ir 9 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7742FA7CFED9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7742FA7CFED9
+- Ryšiai: [[Ryšiai/TAR.7742FA7CFED9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-425809eb23459cf9619fad78
 
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -42,17 +47,17 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Vyriausybė valstybės vardu gali teikti valstybės garantijas dėl paskolų:
 
 
-1) naudojamų valstybės investicijoms finansuoti; ^fcf28c9da71ca8859c61c396
+1) naudojamų valstybės investicijoms finansuoti; ^s-677e98687b0523daffa406b3
 
 
-2) naudojamų Lietuvos Respublikos finansinio tvarumo įstatyme numatytiems tikslams įgyvendinti; ^3c6b78f5f577e41d842b1079
+2) naudojamų [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatyme]] numatytiems tikslams įgyvendinti; ^s-695065aa2a07dda4b0edbe5f
 
 
-3) teikiamų studentams pagal Lietuvos Respublikos mokslo ir studijų įstatymą. Šiame punkte nurodytiems asmenims šio įstatymo 9 straipsnio nuostatos netaikomos.“ ^beeebceca3072a0845d79fac
+3) teikiamų studentams pagal Lietuvos Respublikos mokslo ir studijų įstatymą. Šiame punkte nurodytiems asmenims šio įstatymo 9 straipsnio nuostatos netaikomos.“ ^s-251489330adc5a9e7989a3b8
 
 
 
-### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas ^s-52e6f96030fa1e1c28f6b472
 
 
 7 straipsnio 1 dalyje po žodžio „suteikimo“ įrašyti žodžius „(išskyrus pasiūlymus dėl šio įstatymo 4 straipsnio 2 dalies 3 punkte numatytų valstybės garantijų suteikimo)“ ir šią dalį išdėstyti taip:
@@ -62,13 +67,13 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-f2341d13e0301c177ea37bde
 
 
 9 straipsnio 1 dalyje po žodžio „finansuoti“ įrašyti žodžius „ar valstybės garantiją Lietuvos Respublikos finansinio tvarumo įstatyme numatytiems tikslams įgyvendinti“ ir šią dalį išdėstyti taip:
 
 
-„1. Asmenys, norintys gauti paskolą iš valstybės vardu pasiskolintų lėšų arba valstybės garantiją dėl gaunamos paskolos investicijų projektui finansuoti ar valstybės garantiją Lietuvos Respublikos finansinio tvarumo įstatyme numatytiems tikslams įgyvendinti, Finansų ministerijai privalo pateikti Vyriausybės nustatytus dokumentus.“
+„1. Asmenys, norintys gauti paskolą iš valstybės vardu pasiskolintų lėšų arba valstybės garantiją dėl gaunamos paskolos investicijų projektui finansuoti ar valstybės garantiją [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatyme]] numatytiems tikslams įgyvendinti, Finansų ministerijai privalo pateikti Vyriausybės nustatytus dokumentus.“
 
 
 

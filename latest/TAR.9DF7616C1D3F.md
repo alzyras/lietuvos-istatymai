@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9DF7616C1D3F"
 pavadinimas: "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 39-1 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 39-1 straipsnio papildymo įstatymas"
+  - "aplinkos apsaugos valstybinės kontrolės įstatymo 39-1 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-17"
 latest_path: "latest/TAR.9DF7616C1D3F.md"
 latest_sha256: "10037131966d08831d80e5d971330e3b4c0f4d65b8ef7c562c0652a0f9062207"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9DF7616C1D3F]]"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 39-1 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9DF7616C1D3F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9DF7616C1D3F
+- Ryšiai: [[Ryšiai/TAR.9DF7616C1D3F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 391 straipsnio papildymas 7 punktu
+### 1 straipsnis. 391 straipsnio papildymas 7 punktu ^s-db60ec26d17c7d073f551c96
 
 
 Papildyti 391 straipsnį 7 punktu:

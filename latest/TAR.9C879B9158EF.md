@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9C879B9158EF"
 pavadinimas: "Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas"
+  - "kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-10-01"
 latest_path: "latest/TAR.9C879B9158EF.md"
 latest_sha256: "82f92b586d34e02df45e3f73cdc6a0a14c3942fee697e25e2e3b42926def5ef0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9C879B9158EF]]"
 ---
 # Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9C879B9158EF.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9C879B9158EF
+- Ryšiai: [[Ryšiai/TAR.9C879B9158EF|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio 4 dalies 1 punkto pakeitimas
+### 1 straipsnis. 12 straipsnio 4 dalies 1 punkto pakeitimas ^s-9c0774dfff829a6370873401
 
 
 Pakeisti 12 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 12 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-56c9d9837dbe78ec2ad74134
 
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.

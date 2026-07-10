@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E047B04C4DED"
 pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-12-05"
 latest_path: "latest/TAR.E047B04C4DED.md"
 latest_sha256: "f29930662b208c6063bfab0c291bcd6e3108d229c67f16dee57ba7c0ceffb570"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E047B04C4DED]]"
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E047B04C4DED.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E047B04C4DED
+- Ryšiai: [[Ryšiai/TAR.E047B04C4DED|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 3 dalies 5 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 3 dalies 5 punkto pakeitimas ^s-4e496b79bba3390694df3ea6
 
 
 4 straipsnio 3 dalies 5 punkte po žodžių „Lietuvos nacionalinis dramos teatras“ įrašyti žodžius „Nacionalinis Kauno dramos teatras“ ir šį punktą išdėstyti taip:
@@ -43,10 +48,10 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo taikymas
+### 2 straipsnis. Įstatymo taikymas ^s-d95da7b79af7bcbdf84008c3
 
 
-Šio įstatymo nuostatos taikomos rengiant Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+Šio įstatymo nuostatos taikomos rengiant [[latest/e217dc9089d911e397b5c02d3197f382|Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.
 
 
 

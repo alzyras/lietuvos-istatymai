@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2276F8CE476B"
 pavadinimas: "Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "atsiskaitymo už žemės ūkio produkciją įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-06-26"
 latest_path: "latest/TAR.2276F8CE476B.md"
 latest_sha256: "3c9417b93df41982894771fcd401948f52ca9352b646630eb5822c38de727af9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2276F8CE476B]]"
 ---
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2276F8CE476B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2276F8CE476B
+- Ryšiai: [[Ryšiai/TAR.2276F8CE476B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-348b4d75219c2caf6c8e0f73
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:

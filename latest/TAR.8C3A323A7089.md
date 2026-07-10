@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8C3A323A7089"
 pavadinimas: "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas"
+  - "užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-06-24"
 latest_path: "latest/TAR.8C3A323A7089.md"
 latest_sha256: "58d85399093959e8accfa2207305e11cba598e376871b251a6ed90b5cf59b524"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8C3A323A7089]]"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8C3A323A7089.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8C3A323A7089
+- Ryšiai: [[Ryšiai/TAR.8C3A323A7089|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 3 straipsnio papildymas 4 dalimi ^s-61a93581f8b3bd02703dff99
 
 
 Papildyti 3 straipsnį 4 dalimi:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BFCDF05ED77E"
 pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-01-01"
 latest_path: "latest/TAR.BFCDF05ED77E.md"
 latest_sha256: "e370ace85a7533177901b49cd9afc3df48944cf7c05c4dc078b45328d6c4fd50"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BFCDF05ED77E]]"
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BFCDF05ED77E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BFCDF05ED77E
+- Ryšiai: [[Ryšiai/TAR.BFCDF05ED77E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,29 +40,29 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto ir 2 dalies 1 ir 2 punktų pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto ir 2 dalies 1 ir 2 punktų pakeitimas ^s-c730eef685a6f7a48e2f0824
 
 
-1. Pakeisti 4 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^15cad305fdd59f491c251447
+1. Pakeisti 4 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-85e2e8922d6b5596f28e0140
 
 
-„2) Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Teisėjų atlyginimų įstatyme ir Valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[#^60b77a3a8d637f2ec195d8e7|šio straipsnio 2 dalyje]]), Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys, Valstybės saugumo departamento pareigūnai, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai.“
+„2) Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[#^s-b6211e6f861e809841df04f9|šio straipsnio 2 dalyje]]), [[latest/TAR.981F27E01089|Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme]] nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys, Valstybės saugumo departamento pareigūnai, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai.“
 
 
-2. Pakeisti 4 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^60b77a3a8d637f2ec195d8e7
+2. Pakeisti 4 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^s-b6211e6f861e809841df04f9
 
 
 „1) vidaus tarnybos sistemos pareigūnai, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai;“.
 
 
-3. Pakeisti 4 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^b9c522cd94fa1cc1cadf8408
+3. Pakeisti 4 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-d1a5e2c7f1df8ba2caad54ae
 
 
 „2) krašto apsaugos sistemos profesinės karo tarnybos kariai, taip pat kariai savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių;“.
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-5db4a6ed3fc18928b56e1fa1
 
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.

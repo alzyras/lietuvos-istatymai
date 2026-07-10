@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.13D62CD44515"
 pavadinimas: "Lietuvos Respublikos turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.13D62CD44515.md"
 latest_sha256: "45ce73fc5a4f374e35014a597e7aa96cb57fa605f0afb1d230fe0e434ba263c7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.13D62CD44515]]"
 ---
 # Lietuvos Respublikos turto arešto aktų registro įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.13D62CD44515.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.13D62CD44515
+- Ryšiai: [[Ryšiai/TAR.13D62CD44515|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-71da5b66e731fcfb3ba0ad92
 
 
 6 straipsnio 1 dalyje išbraukti žodžius „Valstybinio socialinio draudimo fondo valdybos“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c42c18c169e36ea36043ed7c
 
 
 Šis Įstatymas įsigalioja nuo 2003 m. liepos 1 d.

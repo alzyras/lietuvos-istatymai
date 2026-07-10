@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C77A39F79B68"
 pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 11 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos rinkliavų įstatymo 11 straipsnio pakeitimo įstatymas"
+  - "rinkliavų įstatymo 11 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2014-01-01"
 latest_path: "latest/TAR.C77A39F79B68.md"
 latest_sha256: "0892e0b221bcd375c279f266ff6a82dee61bbfe6b8008a071e81f8a64f899abe"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C77A39F79B68]]"
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 11 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C77A39F79B68.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C77A39F79B68
+- Ryšiai: [[Ryšiai/TAR.C77A39F79B68|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 11 straipsnio 1 dalies 6 punkto pakeitimas
+### 1 straipsnis. 11 straipsnio 1 dalies 6 punkto pakeitimas ^s-4525ac0086be5c9e72807da1
 
 
 Pakeisti 11 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 11 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-866cbbf03730fa80f89dbe5d
 
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.

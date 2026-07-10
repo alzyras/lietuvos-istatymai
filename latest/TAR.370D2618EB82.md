@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.370D2618EB82"
 pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymas"
+  - "ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-05-01"
 latest_path: "latest/TAR.370D2618EB82.md"
 latest_sha256: "4fe34fd172939783020c3ba22bb854bbb8c5d86ddc4aff793ea747c10b9c0f30"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.370D2618EB82]]"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 9, 10, 14, 21-1, 24 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.370D2618EB82.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.370D2618EB82
+- Ryšiai: [[Ryšiai/TAR.370D2618EB82|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-e73c214e7f3bc22e5be117d8
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-bd31c931f97d860919470dc9
 
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -53,26 +58,26 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 14 straipsnio 2 dalies pakeitimas ir papildymas nauja 4 dalimi
+### 3 straipsnis. 14 straipsnio 2 dalies pakeitimas ir papildymas nauja 4 dalimi ^s-287936e1a9253b83af4d557c
 
 
-1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^484b3f2c1665f52a557cea9e
+1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^s-b4232a17d32739b5c0bdef1b
 
 
 „2. Ligos pašalpa iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios iki septintosios (įskaitytinai) laikinojo nedarbingumo dienos mokama 40 procentų, o nuo aštuntosios laikinojo nedarbingumo dienos – 80 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio.“
 
 
-2. Papildyti 14 straipsnį nauja 4 dalimi: ^25fe63c187a21a849e495af0
+2. Papildyti 14 straipsnį nauja 4 dalimi: ^s-d1b45bd94f1f88912cc046a4
 
 
 „4. Ligos pašalpa sergančiam šeimos nariui slaugyti arba vaikui prižiūrėti, mokama iš Valstybinio socialinio draudimo fondo lėšų, lygi 85 procentams pašalpos gavėjo kompensuojamojo uždarbio dydžio.“
 
 
-3. Buvusias 14 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^1934bbac1730b0127531bcc0
+3. Buvusias 14 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^s-3169300bfe8ceab32bc5f833
 
 
 
-### 4 straipsnis. 211 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 211 straipsnio 1 dalies pakeitimas ^s-380ed835f8a46c7f16f02703
 
 
 211 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „1 dalyje“ įrašyti skaičius ir žodžius „1 ir 3 dalyse“ ir šią dalį išdėstyti taip:
@@ -81,14 +86,14 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 „1. Teisę gauti profesinės reabilitacijos pašalpą šio įstatymo 5 straipsnio 4 dalyje nurodytu atveju turi šio įstatymo 4 straipsnio 1 ir 3 dalyse išvardyti apdraustieji asmenys, jeigu jie:
 
 
-1) dalyvauja profesinės reabilitacijos programoje ir dėl to negauna darbo pajamų; ^78b4c1895a5479f3becfeaf3
+1) dalyvauja profesinės reabilitacijos programoje ir dėl to negauna darbo pajamų; ^s-af949a3ea1e9d585b74c8637
 
 
-2) iki profesinės reabilitacijos programos pradžios turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą.“ ^fdcf15cb4bbefa9f472879b9
+2) iki profesinės reabilitacijos programos pradžios turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą.“ ^s-9cf4f1204489166510aec7da
 
 
 
-### 5 straipsnis. 24 straipsnio pakeitimas
+### 5 straipsnis. 24 straipsnio pakeitimas ^s-0ed1b1122f795ecc94e17a52
 
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
@@ -97,24 +102,24 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 „24 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo tvarka
 
 
-Ligos ir motinystės socialiniam draudimui skirtos valstybinio socialinio draudimo įmokos už kiekvieną apdraustąjį asmenį, nurodytą šio įstatymo [[#4 straipsnis. 211 straipsnio 1 dalies pakeitimas|4 straipsnio]] 1–3 dalyse, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis.“
+Ligos ir motinystės socialiniam draudimui skirtos valstybinio socialinio draudimo įmokos už kiekvieną apdraustąjį asmenį, nurodytą šio įstatymo [[#^s-380ed835f8a46c7f16f02703|4 straipsnio]] 1–3 dalyse, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis.“
 
 
 
-### 6 straipsnis. Baigiamosios nuostatos
+### 6 straipsnis. Baigiamosios nuostatos ^s-7af7d0518cb736a6960b1f23
 
 
 Jeigu laikinasis nedarbingumas prasidėjo iki šio įstatymo įsigaliojimo dienos ir dėl šio nedarbingumo atsiranda teisė gauti ligos pašalpą, ši pašalpa apskaičiuojama ir mokama iki šio įstatymo įsigaliojimo dienos galiojusia tvarka.
 
 
 
-### 7 straipsnis. Įstatymo galiojimas
+### 7 straipsnis. Įstatymo galiojimas ^s-80145c7b815c5214f1bd48ef
 
 
-1. Šis įstatymas įsigalioja 2009 m. gegužės 1 d. ^14030c7248d6ba4771e02c35
+1. Šis įstatymas įsigalioja 2009 m. gegužės 1 d. ^s-54f0db66e5eb1c1abd5582ab
 
 
-2. Šis įstatymas, išskyrus 2, 4 ir [[#5 straipsnis. 24 straipsnio pakeitimas|5 straipsnius]], galioja iki 2010 m. gruodžio 31 d. ^81186ee892b995798cfad0f8
+2. Šis įstatymas, išskyrus 2, 4 ir [[#^s-0ed1b1122f795ecc94e17a52|5 straipsnius]], galioja iki 2010 m. gruodžio 31 d. ^s-b957088b4568041faacd0578
 
 
 

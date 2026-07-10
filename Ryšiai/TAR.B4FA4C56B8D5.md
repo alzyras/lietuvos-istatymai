@@ -1,0 +1,119 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.B4FA4C56B8D5"
+pavadinimas: "Lietuvos Respublikos teisėkūros pagrindų įstatymas"
+---
+# Lietuvos Respublikos teisėkūros pagrindų įstatymas: ryšiai
+
+- [[latest/TAR.B4FA4C56B8D5|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos dokumentų ir archyvų įstatymo
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Lietuvos Respublikos konkurencijos įstatymo
+- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos korupcijos prevencijos įstatymo
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 2 citatos - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.DC9FA4DE0836|Lietuvos Respublikos teisėkūros pagrindų įstatymo 19, 20 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1131010ISTA0XII-415
+- [[latest/TAR.650EF89077A3|Lietuvos Respublikos teisėkūros pagrindų įstatymo 25 ir 26 straipsnių pakeitimo įstatymas]] - 11 citatos - 1121010ISTA0XI-2314
+- [[latest/c21630e03a9f11efbdaea558de59136c|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 1, 5-3, 6, 10 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2830
+- [[latest/ae25db8002ba11e9a5eaf2cd290f1944|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 10 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1743
+- [[latest/b2574b70973f11e9ae2e9d61b1f977b3|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2220
+- [[latest/91a3575080f411ed8df094f359a60216|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1630
+- [[latest/e889ddf0abae11eab9d9cd0c85e0b745|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15, 16 straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2986
+- [[latest/79def2e06d2311ec993ff5ca6e8ba60c|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 18 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-857
+- [[latest/37506e80839311e993ffd4361ddf8976|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 3, 5, 6, 7, 8, 10 straipsnių ir ketvirtojo skirsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2134
+- [[latest/c1e498f2715c11f1b53dfa020e517810|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 5, 6, 14, 15, 17, 18, 19, 20, 21, 22, 24-3, 24-4, 24-5, 24-6 ir 26 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-1042
+- [[latest/a69705f0c75e11ea997c9ee767e856b4|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3243
+- [[latest/3a018450ba1c11eab9d9cd0c85e0b745|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3085
+- [[latest/e49f640081dd11ed8df094f359a60216|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1662
+- [[latest/112910e0cd7111e4b3439b13415c7e57|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 26 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1539
+- [[latest/945c0852a8ae11ef90b5ee8931e5ce5e|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 5, 6 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3109
+- [[latest/bf6223b089ea11e4a98a9f2247652cf4|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1411
+- [[latest/92d86220b6e211eab9d9cd0c85e0b745|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 straipsnio pakeitimo ir Įstatymo papildymo 16-2 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3045
+- [[latest/93e6bac01e5511ef8b14c5bcce136045|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2634
+- [[latest/3b4b7220c26f11ea9815f635b9c0dcef|Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 papildymo 5-1, 5-2 ir 5-3 straipsniais įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3171
+- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 6 citatos - Lietuvos Respublikos teritorijų planavimo įstatyme
+- [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 4 citatos - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatyme
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.FF00B0EA2F0E#^s-721791e6c63206e01f442a98|Lietuvos Respublikos asociacijų įstatymas]] - Teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/TAR.FF00B0EA2F0E#^s-d27fbae361c73374676c0bcf|Lietuvos Respublikos asociacijų įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/TAR.FF00B0EA2F0E#^s-fb52c4b159913c3f240234a2|Lietuvos Respublikos asociacijų įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/10a9f2a24dc311f0b070ee7f1ceefc75#^s-2db09405da5b4302b077b198|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/10a9f2a24dc311f0b070ee7f1ceefc75#^s-35a8e2fe13e15b01b5570eb9|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 14 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/10a9f2a24dc311f0b070ee7f1ceefc75#^s-4118fe8a08771dd6c74f654e|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 14 straipsnio pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/TAR.AD44354DA25E#^s-8d17c7a810be8085f4a92cca|Lietuvos Respublikos augalų apsaugos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.AD44354DA25E#^s-aee916ff13e577f759625036|Lietuvos Respublikos augalų apsaugos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/382041704d0611e7846ef01bfffb9b64#^s-77a34795f6dbd63745479e3e|Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/382041704d0611e7846ef01bfffb9b64#^s-c4d1b37c7328ca792aed7e0c|Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.712BBBFA3D41#^s-bd1bea2096177ea810aed7a1|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/TAR.712BBBFA3D41#^s-e7af3a092fd04aacf8411b35|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/6e09b590a15b11eea5a28c81c82193a8#^s-12ac485b3ebb3a68227a7755|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/6e09b590a15b11eea5a28c81c82193a8#^s-ae3b36be4d0981fbb3038ef7|Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/TAR.82D8168D3049#^s-46513b91caebf74ddca98782|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.82D8168D3049#^s-4c4b3d88269bf34c1dfe394f|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.82D8168D3049#^s-e0b340662fbd4c03f14a5bc1|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-3b7a41941749d028eda2b348|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-5ab394bfbd1413e6f10c2142|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#^s-cb453e8195ff35da957161d5|Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.F57794B7899F#^s-3e9466a505127fc264d6c600|Lietuvos Respublikos elektros energetikos įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.F57794B7899F#^s-cc0a0b561ff173884952786c|Lietuvos Respublikos elektros energetikos įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/5a4e41924c2e11f0b070ee7f1ceefc75#^s-2953f5932a2a54ed0167f279|Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/5a4e41924c2e11f0b070ee7f1ceefc75#^s-6778b5ba5054c2d49a073f36|Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.C70309CDEB7B#^s-37f0f6cf258f457eda6e1b92|Lietuvos Respublikos karo padėties įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.C70309CDEB7B#^s-387af3a7a259af60cb60c5a3|Lietuvos Respublikos karo padėties įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/TAR.C70309CDEB7B#^s-40ea98e9e9fdf03a5df92dc4|Lietuvos Respublikos karo padėties įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.C70309CDEB7B#^s-a2d52aa590a4edc00f7e3a67|Lietuvos Respublikos karo padėties įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.C70309CDEB7B#^s-e665b48a146f65d381aea296|Lietuvos Respublikos karo padėties įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.C70309CDEB7B#^s-f64670acd3ca16f78a2bc44a|Lietuvos Respublikos karo padėties įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-20d35a11ce7cf9d9b7e7a859|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-4142c8076e84707d2b6bbb44|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-4415e3f8a713539960cea306|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-6049fbe7248553f9563689c6|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-a69f5340cfa6a00a7fed8412|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-bc1fff0a1b3d5d7fe0151d67|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/TAR.DEEB2C5600E3#^s-0ae617dbcb487a4e0cb99adb|Lietuvos Respublikos Konstitucinio Teismo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.C250B466D9AB#^s-b6d955a7dc0769afce2ad626|Lietuvos Respublikos konstitucinio teismo įstatymo 18, 26 ir 84 straipsnių pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/9c4c6e6002e111e588da8908dfa91cac#^s-8892cd75ad579b09fae65c02|Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 6, 9, 14, 19, 26, 29, 32, 40, 52, 53-1, 55, 58, 60, 61, 62, 66, 67, 72, 76, 77 ir 84 straipsnių pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/453943b0e46611eb9f09e7df20500045#^s-3d8358b9c0d4e73501fef3f2|Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/453943b0e46611eb9f09e7df20500045#^s-e34bb69363be86788d9f0502|Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.3CD1008B88A9#^s-5ad4714c11859853c12b4b8e|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.3CD1008B88A9#^s-8d110c2850ec9e3a8cf811ab|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-a7cc44229917c8f10e70d6af|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-b2166853b22b2afe55e964d0|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.845C6618A647#^s-0b3e55a107c53a8612a94979|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/TAR.845C6618A647#^s-2f449c9a18bace128aa983b3|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/TAR.845C6618A647#^s-4c7a497cf5133d32070901cc|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/TAR.845C6618A647#^s-e3bec83c46a44ce99a4354e1|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/ef5a9b40c75d11ea997c9ee767e856b4#^s-00458fe3e2d9a511399490af|Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 9, 10 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/ef5a9b40c75d11ea997c9ee767e856b4#^s-55889ef9d759b20f874862bf|Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 9, 10 ir 28 straipsnių pakeitimo įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/0457ba8067e611eca9ac839120d251c4#^s-580e03e9af2c7032503368de|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo 243 straipsnyje
+- [[latest/0457ba8067e611eca9ac839120d251c4#^s-e2f6ab3592007454106591b4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo 243 straipsnyje
+- [[latest/TAR.7E8386C5AA76#^s-865c989aafb607f1d1e6813b|Lietuvos Respublikos regioninės plėtros įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.7E8386C5AA76#^s-c71e6e50bb1ff43396a6ad4c|Lietuvos Respublikos regioninės plėtros įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-339cb0ffaa22150ed4a124d4|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-470a9a9d0dfba306a3cbc8f7|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-c66ccc22b2e3ea214568a27e|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-d7fcec25d672282cc8988359|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.074B2F6259F9#^s-72715bd0036b4605c0caadc1|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/TAR.074B2F6259F9#^s-7ad2667f4d038d2fd773b10a|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/TAR.074B2F6259F9#^s-f96432cabe8bb099cef89255|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/a3e3e870e43711ed9978886e85107ab2#^s-d6620e25eb28e037d528658e|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 1, 2, 5, 58, 59, 63 straipsnių ir 6 priedo pakeitimo ir Įstatymo papildymo 59-1 straipsniu įstatymas]] - Teisėkūros pagrindų įstatyme
+- [[latest/721c54e0abae11eab9d9cd0c85e0b745#^s-7d31a5b6d24847190f13b7a2|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 9, 58, 59 straipsnių, 6 priedo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/721c54e0abae11eab9d9cd0c85e0b745#^s-92b4a24488971c430e090c0f|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 9, 58, 59 straipsnių, 6 priedo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatyme
+- [[latest/372796c2a26611efa605b9842742bf37#^s-1414e1042e40e095efbdc58a|Lietuvos Respublikos tautinių mažumų įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/372796c2a26611efa605b9842742bf37#^s-96660d0fad723c28a3a76558|Lietuvos Respublikos tautinių mažumų įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.D0CD0966D67F#^s-48e3711783d7065978c0a54e|Lietuvos Respublikos vietos savivaldos įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/TAR.D0CD0966D67F#^s-96a40a16f3b000413410ca36|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.D0CD0966D67F#^s-f2814d2b012eb8dc068e8946|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/1d2128a076d911e38da4e231c7b4cf37#^s-40a81c9525f412025b6042d0|Lietuvos Respublikos vietos savivaldos įstatymo 21 straipsnio pakeitimo įstatymas]] - 2 citatos - Teisėkūros pagrindų įstatymas
+- [[latest/1d2128a076d911e38da4e231c7b4cf37#^s-83c9e3d6ba7d51eb70e7113a|Lietuvos Respublikos vietos savivaldos įstatymo 21 straipsnio pakeitimo įstatymas]] - 2 citatos - Teisėkūros pagrindų įstatymas
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-78df2e29f30e5c5eae1e6625|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-8fda7efd3dc999b11d879792|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-c17be5d333490de4b90986ae|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Teisėkūros pagrindų įstatymo
+- [[latest/ee2e0122a26e11f0a34db2fbd35a03b2#^s-8a5251fbcfa4afedd2644d90|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo 15 straipsnį
+- [[latest/ee2e0122a26e11f0a34db2fbd35a03b2#^s-d0231ca77f559e0f15f86b17|Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo 15 straipsnį
+- [[latest/TAR.789C6EE505FD#^s-b6f51ded184f69142c5835b4|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.789C6EE505FD#^s-d34eb5b21c458d9613053e1f|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo

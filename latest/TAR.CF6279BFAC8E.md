@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF6279BFAC8E"
 pavadinimas: "Lietuvos Respublikos civilinio kodekso 1.74 ir 6.393 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos civilinio kodekso 1.74 ir 6.393 straipsnių pakeitimo įstatymas"
+  - "civilinio kodekso 1.74 ir 6.393 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-03-01"
 latest_path: "latest/TAR.CF6279BFAC8E.md"
 latest_sha256: "e1c8d136f5932341982fe1c85485dc34f7e74891a8532da446e6bc5e978dd67e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF6279BFAC8E]]"
 ---
 # Lietuvos Respublikos civilinio kodekso 1.74 ir 6.393 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF6279BFAC8E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF6279BFAC8E
+- Ryšiai: [[Ryšiai/TAR.CF6279BFAC8E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1.74 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 1.74 straipsnio 1 dalies 1 punkto pakeitimas ^s-e986fa2bfb5236cbda73e0e3
 
 
 Pakeisti 1.74 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 1.74 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 6.393 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 6.393 straipsnio 1 dalies pakeitimas ^s-7d1d294f135fb7418fc743d3
 
 
 Pakeisti 6.393 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -54,7 +59,7 @@ Pakeisti 6.393 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-c1252eb03a29c8c3a74cf947
 
 
 Šis įstatymas įsigalioja 2013 m. kovo 1 d.

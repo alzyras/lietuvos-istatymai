@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8EA9B23666E2"
 pavadinimas: "Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims"
+aliases:
+  - "Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-02-08"
 latest_path: "latest/TAR.8EA9B23666E2.md"
 latest_sha256: "49b038ee9e0d341923f6f4ed4a1cde60ca569e6de3a46f6d1b7c59842e55c1f8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8EA9B23666E2]]"
 ---
 # Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8EA9B23666E2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8EA9B23666E2
+- Ryšiai: [[Ryšiai/TAR.8EA9B23666E2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

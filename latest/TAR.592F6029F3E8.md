@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.592F6029F3E8"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 12, 26 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 12, 26 straipsnių pakeitimo ir papildymo įstatymas"
+  - "vietos savivaldos įstatymo 12, 26 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-02-05"
 latest_path: "latest/TAR.592F6029F3E8.md"
 latest_sha256: "b5eb47f554c478b9eff3e24c50b0dcae1f13619a15c51a0b613c04973f385b31"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.592F6029F3E8]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 12, 26 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.592F6029F3E8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.592F6029F3E8
+- Ryšiai: [[Ryšiai/TAR.592F6029F3E8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio pakeitimas ir papildymas
+### 1 straipsnis. 12 straipsnio pakeitimas ir papildymas ^s-8171a62aa815946bea4814f0
 
 
 12 straipsnio 1 dalyje vietoj žodžio „administracijos“ įrašyti žodį „savivaldybės“, po žodžio „seniūnijoje“ įrašyti žodžius „- tarybos nustatytoje ir jam administruoti priskirtoje savivaldybės teritorijos dalyje“, šią dalį papildyti trečiuoju sakiniu ir visą dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 26 straipsnio papildymas
+### 2 straipsnis. 26 straipsnio papildymas ^s-2552a27f76e350733f3d9472
 
 
 Papildyti 26 straipsnį 3 dalimi:

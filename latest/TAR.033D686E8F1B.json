@@ -9,15 +9,15 @@
   "is_national": true,
   "latest_path": "latest/TAR.033D686E8F1B.md",
   "latest_revision": "2000-05-01",
-  "latest_sha256": "ae422059be072b7e5d415756895ca5b2f60e9e7f1fbdd57f1a5af01f7597276d",
+  "latest_sha256": "5036adaf2b8f14a5c487164064e722612fe5a3e6f84cf263dabd7f664c042545",
   "metadata_path": "latest/TAR.033D686E8F1B.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
-  "source_group": null,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
   "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B",
   "status": "galioja",
-  "title": "Lietuvos Respublikos transporto lengvatų įstatymas",
+  "title": "Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

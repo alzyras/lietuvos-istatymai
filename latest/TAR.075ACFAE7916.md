@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.075ACFAE7916"
 pavadinimas: "Lietuvos Respublikos valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas"
+  - "valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-03"
 latest_path: "latest/TAR.075ACFAE7916.md"
 latest_sha256: "f0d3ec6f4fdca51e4d61355a37bc1196731ea30eba9c8041f91860836526d21c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.075ACFAE7916]]"
 ---
 # Lietuvos Respublikos valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.075ACFAE7916.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.075ACFAE7916
+- Ryšiai: [[Ryšiai/TAR.075ACFAE7916|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio pakeitimas
+### 1 straipsnis. 16 straipsnio pakeitimas ^s-6594ce6c7f151f68140529a6
 
 
 16 straipsnyje vietoj žodžių „prie Lietuvos Respublikos Seimo patvirtintų taisyklių“ įrašyti žodį „nutarimų“ ir šį straipsnį išdėstyti taip:
@@ -44,7 +49,7 @@ Visų Lietuvos Respublikoje veikiančių įmonių, įstaigų ir organizacijų pa
 
 
 
-### 2 straipsnis. 25 straipsnio pakeitimas
+### 2 straipsnis. 25 straipsnio pakeitimas ^s-aaa16309dd48c3f0668d2f5c
 
 
 25 straipsnyje vietoj žodžių „Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo Kalbos inspekcija“ įrašyti žodžius „Valstybinė kalbos inspekcija“ ir šį straipsnį išdėstyti taip:

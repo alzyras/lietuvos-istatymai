@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CF2B6FB80980"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo 62 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo 62 straipsnio pakeitimo įstatymas"
+  - "teismų įstatymo 62 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-03-02"
 latest_path: "latest/TAR.CF2B6FB80980.md"
 latest_sha256: "33626cb81061272719897b2a73b0a80466e470a80f2fbfe50f0d2ff8668eb6e3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CF2B6FB80980]]"
 ---
 # Lietuvos Respublikos teismų įstatymo 62 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CF2B6FB80980.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CF2B6FB80980
+- Ryšiai: [[Ryšiai/TAR.CF2B6FB80980|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 62 straipsnio pakeitimas
+### 1 straipsnis. 62 straipsnio pakeitimas ^s-a5ac07f571505830ccc1c12b
 
 
 Pakeisti 62 straipsnį ir jį išdėstyti taip:

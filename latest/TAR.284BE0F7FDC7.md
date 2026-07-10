@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.284BE0F7FDC7"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-10-01"
 latest_path: "latest/TAR.284BE0F7FDC7.md"
 latest_sha256: "0de976349bfb2cbc25fe29fc0cc876824795800b6babb85c28533463de8442a7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.284BE0F7FDC7]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.284BE0F7FDC7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.284BE0F7FDC7
+- Ryšiai: [[Ryšiai/TAR.284BE0F7FDC7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 20 punkto pakeitimas
+### 1 straipsnis. 6 straipsnio 20 punkto pakeitimas ^s-ddbea2503deb5323d145f925
 
 
 Pakeisti 6 straipsnio 20 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 6 straipsnio 20 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-881c9115b9a0687787720d4c
 
 
 Šis įstatymas įsigalioja 2010 m. spalio 1 d.

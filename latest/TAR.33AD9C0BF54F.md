@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.33AD9C0BF54F"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Konvencijos dėl eismo įvykiams taikytinos teisės ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Konvencijos dėl eismo įvykiams taikytinos teisės ratifikavimo"
+  - "įstatymas dėl Konvencijos dėl eismo įvykiams taikytinos teisės ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-08-17"
 latest_path: "latest/TAR.33AD9C0BF54F.md"
 latest_sha256: "1c37d9e91499515030c8667cb372c97eb9d34dc20bb0eb63b5a7034da789b4bb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.33AD9C0BF54F]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl eismo įvykiams taikytinos teisės ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.33AD9C0BF54F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.33AD9C0BF54F
+- Ryšiai: [[Ryšiai/TAR.33AD9C0BF54F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Konvencijos ratifikavimas
+### 1 straipsnis. Konvencijos ratifikavimas ^s-daf689d1bafdbffb76911f24
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 11 d. dekretą Nr. 1355, ratifikuoja 1971 m. gegužės 4 d. sudarytą Konvenciją dėl eismo įvykiams taikytinos teisės.

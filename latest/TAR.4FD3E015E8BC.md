@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4FD3E015E8BC"
 pavadinimas: "Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
+  - "gyventojų santaupų atkūrimo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymo pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-12-30"
 latest_path: "latest/TAR.4FD3E015E8BC.md"
 latest_sha256: "efd56cd0f4ee2e588261447e0ef50bf21edc453361699460409f5f373bbb04a0"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4FD3E015E8BC]]"
 ---
 # Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymo pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4FD3E015E8BC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4FD3E015E8BC
+- Ryšiai: [[Ryšiai/TAR.4FD3E015E8BC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-a789b05d5d08f4113fdbba5b
 
 
 Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymą pripažinti netekusiu galios.

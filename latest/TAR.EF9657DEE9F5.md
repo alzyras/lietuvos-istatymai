@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EF9657DEE9F5"
 pavadinimas: "Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybės iždo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-04-09"
 latest_path: "latest/TAR.EF9657DEE9F5.md"
 latest_sha256: "c67b40cb494f4daed12874dd91ead2f48a403f86c34f9c63397bb9dbe94b94d6"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EF9657DEE9F5]]"
 ---
 # Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EF9657DEE9F5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EF9657DEE9F5
+- Ryšiai: [[Ryšiai/TAR.EF9657DEE9F5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas ^s-33f18f5b39a835f6c72e2636
 
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:

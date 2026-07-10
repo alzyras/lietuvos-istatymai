@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.7FACF934B613"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 25 straipsnio pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 25 straipsnio pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-04-30"
 latest_path: "latest/TAR.7FACF934B613.md"
 latest_sha256: "df0c2209cba0418ffba1cebae02ecd5330c1cf2bab6f2db570763152febce2c8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.7FACF934B613]]"
 ---
 # Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 25 straipsnio pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.7FACF934B613.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7FACF934B613
+- Ryšiai: [[Ryšiai/TAR.7FACF934B613|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +36,7 @@ Vilnius
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo (Žin., 1991, Nr. 17-447) 25 straipsnį išdėstyti taip:
+[[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] (Žin., 1991, Nr. 17-447) 25 straipsnį išdėstyti taip:
 
 
 „25 straipsnis. Kompensacija donorams

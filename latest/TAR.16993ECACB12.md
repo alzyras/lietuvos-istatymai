@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.16993ECACB12"
 pavadinimas: "Lietuvos Respublikos žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-03"
 latest_path: "latest/TAR.16993ECACB12.md"
 latest_sha256: "42cc0ae76f85921a511aff13b092344d77fec459f4ae79522cc59c65959f4253"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.16993ECACB12]]"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.16993ECACB12.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.16993ECACB12
+- Ryšiai: [[Ryšiai/TAR.16993ECACB12|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 17 straipsnio 2 dalies pakeitimas ^s-5e19e63fe983ff5bcc9c7aa7
 
 
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6F5F36EA929B"
 pavadinimas: "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-11-18"
 latest_path: "latest/TAR.6F5F36EA929B.md"
 latest_sha256: "f3c4c3859db34af64322ad8784a17f1f8985f952461673a96d79599ba4fc59ce"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6F5F36EA929B]]"
 ---
 # Dėl Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6F5F36EA929B.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6F5F36EA929B
+- Ryšiai: [[Ryšiai/TAR.6F5F36EA929B|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D279160D5598"
 pavadinimas: "Lietuvos Respublikos audito įstatymo 6 ir 10 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos audito įstatymo 6 ir 10 straipsnių pakeitimo įstatymas"
+  - "audito įstatymo 6 ir 10 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.D279160D5598.md"
 latest_sha256: "d4a9bc1dc6e030e886b6592d37dfa626cf7307ab62d5a5b4ecbf0800b1a01e32"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D279160D5598]]"
 ---
 # Lietuvos Respublikos audito įstatymo 6 ir 10 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D279160D5598.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D279160D5598
+- Ryšiai: [[Ryšiai/TAR.D279160D5598|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 1 ir 5 punktų pakeitimas
+### 1 straipsnis. 6 straipsnio 1 ir 5 punktų pakeitimas ^s-a47fcc357708469470be6ee2
 
 
-1. 6 straipsnio 1 punkte po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šį punktą išdėstyti taip: ^76eb6965e1ebd99689dbed43
+1. 6 straipsnio 1 punkte po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šį punktą išdėstyti taip: ^s-496a63581399e9b1ca9213bf
 
 
 „1) jis buvo teistas už sunkų ar labai sunkų nusikaltimą, nepaisant to, ar išnyko teistumas;“.
 
 
-2. 6 straipsnio 5 punkte vietoj žodžių ir skaičių „Darbo sutarties įstatymo 29 straipsnio 1 dalies 6, 7, 8, 9, 11, 13 punktuose ir 2 dalyje“ įrašyti žodžius ir skaičius „Darbo kodekso 136 straipsnio 1 dalies 1 punkte ir 3 dalyje“ ir šį punktą išdėstyti taip: ^b9d02bd5a42e12ebc8e8b738
+2. 6 straipsnio 5 punkte vietoj žodžių ir skaičių „Darbo sutarties įstatymo 29 straipsnio 1 dalies 6, 7, 8, 9, 11, 13 punktuose ir 2 dalyje“ įrašyti žodžius ir skaičius „Darbo kodekso 136 straipsnio 1 dalies 1 punkte ir 3 dalyje“ ir šį punktą išdėstyti taip: ^s-6c99a7eeb787b76da9133cf1
 
 
 „5) jis buvo atleistas iš įmonės, įstaigos ar organizacijos vidaus auditoriaus, revizoriaus, buhalterio, finansininko pareigų Darbo kodekso 136 straipsnio 1 dalies 1 punkte ir 3 dalyje numatytais atvejais;“.
 
 
 
-### 2 straipsnis. 10 straipsnio pakeitimas
+### 2 straipsnis. 10 straipsnio pakeitimas ^s-2feb1960b6a264ea1b22f411
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
@@ -60,10 +65,10 @@ Pažymėjimo išdavimo procedūra gali būti sustabdyta, jeigu asmuo, kuris pate
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-9bd482509669371f6f8959b2
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C40856998BB9"
 pavadinimas: "Dėl Lietuvos Respublikos sveikatos apsaugos įstatymo galiojimo"
+aliases:
+  - "Dėl Lietuvos Respublikos sveikatos apsaugos įstatymo galiojimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-08-17"
 latest_path: "latest/TAR.C40856998BB9.md"
 latest_sha256: "9e297710a37cad7dfcdcfa4c6659a5a025f38fed526d739e04bc85f12a1b6d33"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C40856998BB9]]"
 ---
 # Dėl Lietuvos Respublikos sveikatos apsaugos įstatymo galiojimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C40856998BB9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C40856998BB9
+- Ryšiai: [[Ryšiai/TAR.C40856998BB9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

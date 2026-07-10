@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B1171A5214B2"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-01-01"
 latest_path: "latest/TAR.B1171A5214B2.md"
 latest_sha256: "c5f943e8f24c51d95dfed185c5574acad4864951ca99a5137587f773767ffd08"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B1171A5214B2]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B1171A5214B2.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B1171A5214B2
+- Ryšiai: [[Ryšiai/TAR.B1171A5214B2|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 17 straipsnio 1 dalies 43 punkto pakeitimas
+### 1 straipsnis. 17 straipsnio 1 dalies 43 punkto pakeitimas ^s-182197e860470e4bc43e2430
 
 
 Pakeisti 17 straipsnio 1 dalies 43 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 17 straipsnio 1 dalies 43 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-dfea97385d08348398bdf7ab
 
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.

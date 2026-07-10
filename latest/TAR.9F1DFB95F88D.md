@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9F1DFB95F88D"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-19"
 latest_path: "latest/TAR.9F1DFB95F88D.md"
 latest_sha256: "1f2aedd5bd3befa93e1c1b0528fe9215e4377d849e761a04e3ec24d2e8849adb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9F1DFB95F88D]]"
 ---
 # Dėl Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9F1DFB95F88D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9F1DFB95F88D
+- Ryšiai: [[Ryšiai/TAR.9F1DFB95F88D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

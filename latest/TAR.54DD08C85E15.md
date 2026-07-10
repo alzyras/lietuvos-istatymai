@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.54DD08C85E15"
 pavadinimas: "Lietuvos Respublikos teismų įstatymo papildymo 8(1) straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos teismų įstatymo papildymo 8(1) straipsniu įstatymas"
+  - "teismų įstatymo papildymo 8(1) straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-06-02"
 latest_path: "latest/TAR.54DD08C85E15.md"
 latest_sha256: "15a35cc7fed1777eef9332071fb65e05c3ff42499f707b8dca27fff19dfa3410"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.54DD08C85E15]]"
 ---
 # Lietuvos Respublikos teismų įstatymo papildymo 8(1) straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.54DD08C85E15.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.54DD08C85E15
+- Ryšiai: [[Ryšiai/TAR.54DD08C85E15|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Įstatymo papildymas 81 straipsniu
+### 1 straipsnis. Įstatymo papildymas 81 straipsniu ^s-803ca3e15a42193d7d3f53b7
 
 
 Papildyti Įstatymą 81 straipsniu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "d4eb1b60a80611ebbcbbc2971cdac3cb"
 pavadinimas: "Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnio pakeitimo įstatymas"
+  - "administracinių nusižengimų kodekso 603 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2022-01-01"
 latest_path: "latest/d4eb1b60a80611ebbcbbc2971cdac3cb.md"
 latest_sha256: "b719dadb0f910aeff6d0f6e1be3afcc35ca531a560982b000c39ffa91b311b16"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/d4eb1b60a80611ebbcbbc2971cdac3cb]]"
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/d4eb1b60a80611ebbcbbc2971cdac3cb.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/d4eb1b60a80611ebbcbbc2971cdac3cb
+- Ryšiai: [[Ryšiai/d4eb1b60a80611ebbcbbc2971cdac3cb|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 603 straipsnio pakeitimas
+### 1 straipsnis. 603 straipsnio pakeitimas ^s-4fcdb8fb4622ca375f81420c
 
 
 Pakeisti 603 straipsnį ir jį išdėstyti taip:
@@ -45,13 +50,13 @@ Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e313dd6caf326cfb21229aa3
 
 
-1. Šis įstatymas, išskyrus [[#^d81cc84a9c8f3ef7e1183512|šio straipsnio 2 dalį]], įsigalioja 2022 m. sausio 1 d. ^cb4e06f207770ec9b2efdc90
+1. Šis įstatymas, išskyrus [[#^s-e51b62105477f8c4cee57484|šio straipsnio 2 dalį]], įsigalioja 2022 m. sausio 1 d. ^s-57e6d6a19de437d2b715720d
 
 
-2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^d81cc84a9c8f3ef7e1183512
+2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-e51b62105477f8c4cee57484
 
 
 

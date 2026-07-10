@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2BCA2EC9B162"
 pavadinimas: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 11 skyriaus pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 11 skyriaus pakeitimo įstatymas"
+  - "nacionalinio saugumo pagrindų įstatymo priedėlio 11 skyriaus pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-04-02"
 latest_path: "latest/TAR.2BCA2EC9B162.md"
 latest_sha256: "dd9cb9330d2e488a68208bef3f3f7d35f78dd8ce4fb86977cc02d42bf961dd1f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2BCA2EC9B162]]"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 11 skyriaus pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2BCA2EC9B162.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2BCA2EC9B162
+- Ryšiai: [[Ryšiai/TAR.2BCA2EC9B162|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Priedėlio 11 skyriaus papildymas
+### 1 straipsnis. Priedėlio 11 skyriaus papildymas ^s-8e8d2475e5e070a58097bde7
 
 
 Papildyti priedėlio 11 skyriaus 1 pastraipą 19 punktu ir šią pastraipą išdėstyti taip:

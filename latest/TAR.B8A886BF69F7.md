@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B8A886BF69F7"
 pavadinimas: "Lietuvos Respublikos amnestijos už kai kurių operacijų užsienio valiuta norminių aktų pažeidimą įstatymas"
+aliases:
+  - "Lietuvos Respublikos amnestijos už kai kurių operacijų užsienio valiuta norminių aktų pažeidimą įstatymas"
+  - "amnestijos už kai kurių operacijų užsienio valiuta norminių aktų pažeidimą įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-07-26"
 latest_path: "latest/TAR.B8A886BF69F7.md"
 latest_sha256: "69886f2ca8d2f252f5789f16c06168a912af119c875080735bd88ab8a55195de"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B8A886BF69F7]]"
 ---
 # Lietuvos Respublikos amnestijos už kai kurių operacijų užsienio valiuta norminių aktų pažeidimą įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B8A886BF69F7.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B8A886BF69F7
+- Ryšiai: [[Ryšiai/TAR.B8A886BF69F7|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,40 +34,40 @@ Vilnius
 
 
 
-### 1 straipsnis. Amnestijos taikymas ir vykdymas
+### 1 straipsnis. Amnestijos taikymas ir vykdymas ^s-eafed22fd3bbabf72b90a615
 
 
-1. Lietuvos Respublikos Seimas, atsižvelgdamas į tai, kad 1993 metais, įvedus Lietuvos nacionalinę valiutą litą, įvairiems atsiskaitymams buvo naudojama Rusijos valiuta rublis ir padarytos veikos, numatytos iki 1995 m. sausio 1 d. galiojusiame Lietuvos Respublikos baudžiamojo kodekso 87 straipsnyje, vadovaudamasis teisingumo principais, priima šį įstatymą. ^fd450d05cf40d76b934b422f
+1. Lietuvos Respublikos Seimas, atsižvelgdamas į tai, kad 1993 metais, įvedus Lietuvos nacionalinę valiutą litą, įvairiems atsiskaitymams buvo naudojama Rusijos valiuta rublis ir padarytos veikos, numatytos iki 1995 m. sausio 1 d. galiojusiame Lietuvos Respublikos baudžiamojo kodekso 87 straipsnyje, vadovaudamasis teisingumo principais, priima šį įstatymą. ^s-e13bc5f5781bd29a38eb27f7
 
 
-2. Atleisti nuo baudžiamosios atsakomybės asmenis, nuo 1993 m. rugpjūčio 1 d. iki 1995 m. sausio 1 d. padariusius veikas, numatytas iki 1995 m. sausio 1 d. galiojusiame Baudžiamojo kodekso 87 straipsnyje (dabar galioja Baudžiamojo kodekso 329 straipsnis) už operacijų Rusijos valiuta taisyklių pažeidimą. ^5c62839c8cdcc4ec6b7a99b7
+2. Atleisti nuo baudžiamosios atsakomybės asmenis, nuo 1993 m. rugpjūčio 1 d. iki 1995 m. sausio 1 d. padariusius veikas, numatytas iki 1995 m. sausio 1 d. galiojusiame Baudžiamojo kodekso 87 straipsnyje (dabar galioja Baudžiamojo kodekso 329 straipsnis) už operacijų Rusijos valiuta taisyklių pažeidimą. ^s-1481e7ce416c2c13909ee2fc
 
 
-3. Asmenims, padariusiems veikas, pažeidžiančias operacijų kita užsienio valiuta taisykles, ši amnestija netaikoma. ^dfd567fa1d2ab5394bb7dc67
+3. Asmenims, padariusiems veikas, pažeidžiančias operacijų kita užsienio valiuta taisykles, ši amnestija netaikoma. ^s-321f85f946cda510bf7f27f7
 
 
-4. Asmenis, nuteistus už operacijų Rusijos valiuta taisyklių pažeidimą, atleisti nuo neatliktos bausmės, o nuteistiesiems už kelis nusikaltimus sumažinti bausmę ta bausmės dalimi, kuri buvo paskirta už operacijų Rusijos valiuta taisyklių pažeidimą. Jeigu buvo naudojama kartu ir kita užsienio valiuta, asmenys nuo bausmės neatleidžiami ir bausmė nemažinama. ^5f256baebdd957ed0e7452ce
+4. Asmenis, nuteistus už operacijų Rusijos valiuta taisyklių pažeidimą, atleisti nuo neatliktos bausmės, o nuteistiesiems už kelis nusikaltimus sumažinti bausmę ta bausmės dalimi, kuri buvo paskirta už operacijų Rusijos valiuta taisyklių pažeidimą. Jeigu buvo naudojama kartu ir kita užsienio valiuta, asmenys nuo bausmės neatleidžiami ir bausmė nemažinama. ^s-923ecd794eedb790dfac87e3
 
 
-5. Baudžiamosios bylos, kuriose tiriamos veikos dėl operacijų Rusijos valiuta taisyklių pažeidimų, padarytos šio įstatymo [[#^5c62839c8cdcc4ec6b7a99b7|2 dalyje]] nurodytu laikotarpiu, nutraukiamos ir naujos dėl nurodytų veikų – nekeliamos. ^2d66f2a92dbe598949741c68
+5. Baudžiamosios bylos, kuriose tiriamos veikos dėl operacijų Rusijos valiuta taisyklių pažeidimų, padarytos šio įstatymo [[#^s-1481e7ce416c2c13909ee2fc|2 dalyje]] nurodytu laikotarpiu, nutraukiamos ir naujos dėl nurodytų veikų – nekeliamos. ^s-0df709ecdf0562abdb424896
 
 
-6. Šį įstatymą vykdo: ^74bce60d4a8c2bc15da98aa8
+6. Šį įstatymą vykdo: ^s-8078383857dec4f8100ceb78
 
 
-1) teismai – asmenims, kurių bylos neišnagrinėtos arba išnagrinėtos ir nuosprendžiai įsiteisėję, bausmės vykdymas atidėtas; ^054aea2abcc5268b59ec852b
+1) teismai – asmenims, kurių bylos neišnagrinėtos arba išnagrinėtos ir nuosprendžiai įsiteisėję, bausmės vykdymas atidėtas; ^s-b950878c30622137dd6ab82e
 
 
-2) kvotos ir tardymo organai – asmenims, kurių bylos ir medžiagos tiriamos; ^deb286cf20ac6d15104c291f
+2) kvotos ir tardymo organai – asmenims, kurių bylos ir medžiagos tiriamos; ^s-4c5a020c9d3f4098281bd8f2
 
 
-3) policijos komisariatai – asmenims, nuteistiems pataisos darbais be laisvės atėmimo. ^99fb614cea9def43fce08953
+3) policijos komisariatai – asmenims, nuteistiems pataisos darbais be laisvės atėmimo. ^s-6e67ddf9169fed0c9c85253f
 
 
-7. Kvotos, tardymo ir policijos institucijų nutarimai dėl amnestijos taikymo turi būti patvirtinti apylinkės teismo teisėjo. ^e2b830e3254da69468d7db50
+7. Kvotos, tardymo ir policijos institucijų nutarimai [[latest/TAR.06438E0A26EC|dėl amnestijos]] taikymo turi būti patvirtinti apylinkės teismo teisėjo. ^s-07d346ae7780f1ea6d5885be
 
 
-8. Ginčytinus klausimus dėl amnestijos taikymo sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnio nustatyta tvarka. ^0a593ce1f5241e7b94f4423a
+8. Ginčytinus klausimus dėl amnestijos taikymo sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnio nustatyta tvarka. ^s-331e2f0da044a6f31e5b6f5a
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5C4DB7169F34"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 1, 2, 3, 10, 13, 14, 20, 21, 25, 29, 30, 31, 33, 39, 41, 43, 44 straipsnių pakeitimo ir papildymo bei IV skyriaus II skirsnio pavadinimo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 1, 2, 3, 10, 13, 14, 20, 21, 25, 29, 30, 31, 33, 39, 41, 43, 44 straipsnių pakeitimo ir papildymo bei IV skyriaus II skirsnio pavadinimo pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 1, 2, 3, 10, 13, 14, 20, 21, 25, 29, 30, 31, 33, 39, 41, 43, 44 straipsnių pakeitimo ir papildymo bei IV skyriaus II skirsnio pavadinimo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-16"
 latest_path: "latest/TAR.5C4DB7169F34.md"
 latest_sha256: "cbe9ffc10bb9756e199979c8ad0bfdb25c935d9ef782913639e30d61014fa927"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5C4DB7169F34]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 1, 2, 3, 10, 13, 14, 20, 21, 25, 29, 30, 31, 33, 39, 41, 43, 44 straipsnių pakeitimo ir papildymo bei IV skyriaus II skirsnio pavadinimo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5C4DB7169F34.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5C4DB7169F34
+- Ryšiai: [[Ryšiai/TAR.5C4DB7169F34|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-2a3968443b2d99342732beb6
 
 
 Pakeisti 1 straipsnio 4 dalį, 5, 6 dalis pripažinti netekusiomis galios, buvusias 7, 8 dalis laikyti atitinkamai 5, 6 dalimis ir visą straipsnį išdėstyti taip:
@@ -59,7 +64,7 @@ Stacionarinės prekybos įmonės ir stacionarinės viešojo maitinimo įmonės �
 
 
 
-### 2 straipsnis. 2 straipsnio 2 dalies papildymas
+### 2 straipsnis. 2 straipsnio 2 dalies papildymas ^s-15867afab85fdf4cc7471a43
 
 
 2 straipsnio 2 dalyje po žodžio „laikymu“ įrašyti žodį „gabenimu“ ir šią dalį išdėstyti taip:
@@ -69,7 +74,7 @@ Stacionarinės prekybos įmonės ir stacionarinės viešojo maitinimo įmonės �
 
 
 
-### 3 straipsnis. 3 straipsnio 1 dalies 4 punkto pakeitimas
+### 3 straipsnis. 3 straipsnio 1 dalies 4 punkto pakeitimas ^s-80720b1263be54273d9ae1d2
 
 
 Pakeisti 3 straipsnio 1 dalies 4 punktą ir išdėstyti taip:
@@ -79,20 +84,20 @@ Pakeisti 3 straipsnio 1 dalies 4 punktą ir išdėstyti taip:
 
 
 
-### 4 straipsnis. 10 straipsnio papildymas
+### 4 straipsnis. 10 straipsnio papildymas ^s-ba7669a88e95a00c2ab148e1
 
 
-[[#10 straipsnis. IV skyriaus II skirsnio pavadinimo pakeitimas|10 straipsnio]] antrajame sakinyje po žodžio „nustato“ įrašyti žodžius „Sveikatos apsaugos ministerija kartu su“ ir straipsnį išdėstyti taip:
+[[#^s-a2f1d26ff29ccf036dc64ae4|10 straipsnio]] antrajame sakinyje po žodžio „nustato“ įrašyti žodžius „Sveikatos apsaugos ministerija kartu su“ ir straipsnį išdėstyti taip:
 
 
-„[[#10 straipsnis. IV skyriaus II skirsnio pavadinimo pakeitimas|10 straipsnis]]. Namų gamybos stiprių alkoholinių gėrimų gaminimo reguliavimas
+„[[#^s-a2f1d26ff29ccf036dc64ae4|10 straipsnis]]. Namų gamybos stiprių alkoholinių gėrimų gaminimo reguliavimas
 
 
 Lietuvos Respublikoje draudžiama gaminti naminę degtinę, brogą, kitus namų gamybos stiprius alkoholinius gėrimus. Alkoholinių gėrimų pripažinimo namų gamybos stipriais alkoholiniais gėrimais kriterijus nustato Sveikatos apsaugos ministerija kartu su VTAKT.“
 
 
 
-### 5 straipsnis. 13 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-942bc0921e989764bad56487
 
 
 Pakeisti 13 straipsnio 1 dalį ir išdėstyti taip:
@@ -102,7 +107,7 @@ Pakeisti 13 straipsnio 1 dalį ir išdėstyti taip:
 
 
 
-### 6 straipsnis. 14 straipsnio pakeitimas
+### 6 straipsnis. 14 straipsnio pakeitimas ^s-7fc2356ec346ea45dc74477b
 
 
 14 straipsnio 1 dalyje išbraukti žodžius „užsienio valstybių diplomatinėms atstovybėms“ ir šią dalį išdėstyti taip:
@@ -112,7 +117,7 @@ Pakeisti 13 straipsnio 1 dalį ir išdėstyti taip:
 
 
 
-### 7 straipsnis. 20 straipsnio pakeitimas
+### 7 straipsnis. 20 straipsnio pakeitimas ^s-c79ca83ec29db0eace483501
 
 
 Pakeisti 20 straipsnį ir išdėstyti taip:
@@ -124,70 +129,70 @@ Pakeisti 20 straipsnį ir išdėstyti taip:
 Lietuvos Respublikoje realizuoti draudžiama:
 
 
-1) alkoholio produktus be įmonės gamintojos išduoto atitikimo pažymėjimo, liudijančio kiekvienos alkoholio produktų siuntos kokybę; ^2b2456fc08ea1fac19891646
+1) alkoholio produktus be įmonės gamintojos išduoto atitikimo pažymėjimo, liudijančio kiekvienos alkoholio produktų siuntos kokybę; ^s-b88e2dbc5c58a3b056a8902d
 
 
-2) tokių rūšių alkoholio produktus, taip pat alkoholinius gėrimus pagal jų grupes, kurie neįrašyti į leidimus juos gaminti, importuoti, realizuoti, ir alkoholio produktus, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais; ^0574ee30f50a3a97b948bc15
+2) tokių rūšių alkoholio produktus, taip pat alkoholinius gėrimus pagal jų grupes, kurie neįrašyti į leidimus juos gaminti, importuoti, realizuoti, ir alkoholio produktus, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais; ^s-0c863935a080a8e6ac850ab0
 
 
-3) alkoholinius gėrimus (išskyrus alų) be nustatyto specialaus ženklinimo, taip pat tuos importuotus alkoholinius gėrimus, kurių ženklinimas neturi įmonės, turinčios importo ir didmeninės prekybos alkoholiniais gėrimais teisę, papildomos specialios žymos; ^38da76e86d27980d849284f5
+3) alkoholinius gėrimus (išskyrus alų) be nustatyto specialaus ženklinimo, taip pat tuos importuotus alkoholinius gėrimus, kurių ženklinimas neturi įmonės, turinčios importo ir didmeninės prekybos alkoholiniais gėrimais teisę, papildomos specialios žymos; ^s-50eba3788d722ee9475671ac
 
 
-4) alkoholinius gėrimus, kurių etilo alkoholis pagamintas ne iš maisto žaliavų; ^5a1ad2c4858ef5a1d82d4422
+4) alkoholinius gėrimus, kurių etilo alkoholis pagamintas ne iš maisto žaliavų; ^s-a2a0923ca5a192447bf7b39b
 
 
-5) importuotus ar Lietuvos Respublikoje pagamintus alkoholio produktus, kurių kokybės ir (ar) higieniniai rodikliai neatitinka Lietuvos Respublikoje nustatytų reikalavimų; ^55d11d580beea2f4e11cd3d3
+5) importuotus ar Lietuvos Respublikoje pagamintus alkoholio produktus, kurių kokybės ir (ar) higieniniai rodikliai neatitinka Lietuvos Respublikoje nustatytų reikalavimų; ^s-d489417b3c9a5a47a39ad26a
 
 
-6) importuotus ir Lietuvos Respublikoje pagamintus alkoholinius gėrimus, kurių prekinis žymėjimas neatitinka LST (CODEX STAN 1): 1993 Fasuotų maisto produktų ženklinimo bendrųjų reikalavimų bei Lietuvos Respublikoje galiojančių prekių ženklinimo taisyklių; ^469c41cc9006dd0ce2e3df55
+6) importuotus ir Lietuvos Respublikoje pagamintus alkoholinius gėrimus, kurių prekinis žymėjimas neatitinka LST (CODEX STAN 1): 1993 Fasuotų maisto produktų ženklinimo bendrųjų reikalavimų bei Lietuvos Respublikoje galiojančių prekių ženklinimo taisyklių; ^s-3bf241bfc6a933db2a0fefbc
 
 
-7) falsifikuotus alkoholio produktus; ^296d27d99ba5765e67121469
+7) falsifikuotus alkoholio produktus; ^s-ad74a609baf6ed9fef9b0a45
 
 
-8) alų, kurio tūrinė etilo alkoholio koncentracija didesnė kaip 9,5 procento; ^e81daebc3ed8b3f9a52f7611
+8) alų, kurio tūrinė etilo alkoholio koncentracija didesnė kaip 9,5 procento; ^s-6c955865192f8692e9edf9c1
 
 
-9) vynus, kurių tūrinė etilo alkoholio koncentracija didesnė kaip 22 procentai; ^d67a4aeff1b9efcd7901670e
+9) vynus, kurių tūrinė etilo alkoholio koncentracija didesnė kaip 22 procentai; ^s-91aead5b9ac909eecdea30e9
 
 
-10) distiliuoto etilo alkoholio gaminius, kurių tūrinė etilo alkoholio koncentracija didesnė kaip 50 procentų. Šis reikalavimas netaikomas UAB „Lietuviškas midus“ gaminamiems gėrimams; ^459c158fa0359541f45d95a8
+10) distiliuoto etilo alkoholio gaminius, kurių tūrinė etilo alkoholio koncentracija didesnė kaip 50 procentų. Šis reikalavimas netaikomas UAB „Lietuviškas midus“ gaminamiems gėrimams; ^s-50275fa219cdabc4e6ada73b
 
 
-11) namų gamybos alkoholinius gėrimus, išskyrus alų, pagamintą pagal norminius dokumentus, kai turimas nustatyta tvarka išduotas leidimas jį gaminti; ^662aede3ac57d2d097a81d25
+11) namų gamybos alkoholinius gėrimus, išskyrus alų, pagamintą pagal norminius dokumentus, kai turimas nustatyta tvarka išduotas leidimas jį gaminti; ^s-8119f854d85033b78915089d
 
 
-12) nedenatūruotą, denatūruotą etilo alkoholį bei techninį etilo alkoholį gyventojams, išskyrus nedenatūruotą etilo alkoholį, realizuojamą gyventojams vaistinėse Sveikatos apsaugos ministerijos nustatyta tvarka; ^083f311a91df13829c54d404
+12) nedenatūruotą, denatūruotą etilo alkoholį bei techninį etilo alkoholį gyventojams, išskyrus nedenatūruotą etilo alkoholį, realizuojamą gyventojams vaistinėse Sveikatos apsaugos ministerijos nustatyta tvarka; ^s-3e9138ae03151ff7d2074416
 
 
-13) kontrabandinius alkoholio produktus, išskyrus konfiskuotus, kurie realizuojami Lietuvos Respublikos Vyriausybės nustatyta tvarka; ^685cf6c7570aa04af446d9e9
+13) kontrabandinius alkoholio produktus, išskyrus konfiskuotus, kurie realizuojami Lietuvos Respublikos Vyriausybės nustatyta tvarka; ^s-dd221c7ab20532d4a9bf7b45
 
 
-14) alkoholio produktus be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoto leidimo; ^3d118126e0feb342ea351933
+14) alkoholio produktus be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoto leidimo; ^s-a51a7cdcef7e377b2ea365af
 
 
-15) pilstomus alkoholinius gėrimus, išskyrus prekybą jais stacionarinėse viešojo maitinimo įmonėse, ir pilstomą alų, parduodamą firminėse alaus daryklų parduotuvėse; ^9b8283c4bfffe51a68901ace
+15) pilstomus alkoholinius gėrimus, išskyrus prekybą jais stacionarinėse viešojo maitinimo įmonėse, ir pilstomą alų, parduodamą firminėse alaus daryklų parduotuvėse; ^s-1daddba57150f5fa2ae4f9e3
 
 
-16) alkoholinius gėrimus nestacionarinėse prekybos įmonėse, išskyrus kioskuose parduodamą alų, gamyklų supilstytą į tarą; ^90e0d07921e364a8298ea25e
+16) alkoholinius gėrimus nestacionarinėse prekybos įmonėse, išskyrus kioskuose parduodamą alų, gamyklų supilstytą į tarą; ^s-73bdb6b3af2badcb685b093a
 
 
-17) alkoholinius gėrimus mažmeninės prekybos ir viešojo maitinimo įmonėse, įrengtose didmeninės prekybos įmonių bei importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais, taip pat alų, gamyklų supilstytą į tarą, kioskuose, įrengtuose didmeninės prekybos įmonių bei importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais; ^5a710b3e4de7dc863459feec
+17) alkoholinius gėrimus mažmeninės prekybos ir viešojo maitinimo įmonėse, įrengtose didmeninės prekybos įmonių bei importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais, taip pat alų, gamyklų supilstytą į tarą, kioskuose, įrengtuose didmeninės prekybos įmonių bei importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais; ^s-4662d9c8a576644528e129fd
 
 
-18) alkoholinius gėrimus prekybos įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu; ^0ba510c7b7292ed487f85328
+18) alkoholinius gėrimus prekybos įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu; ^s-473b11cf41f74cdce2d6a539
 
 
-19) alkoholinius gėrimus asmenims, jaunesniems kaip 18 metų; ^487f24b8871d8e1096c58afb
+19) alkoholinius gėrimus asmenims, jaunesniems kaip 18 metų; ^s-e35017679c86f8dd52f53363
 
 
-20) alkoholinius gėrimus neblaiviems asmenims; ^a730fe9b16d338956b80e69a
+20) alkoholinius gėrimus neblaiviems asmenims; ^s-a78859eef852ca1f5ab2aed5
 
 
-21) alkoholinius gėrimus uniformuotiems pareigūnams. ^61c58f252401e97f53cbf150
+21) alkoholinius gėrimus uniformuotiems pareigūnams. ^s-d2bdf5e34979ce578d9fd30c
 
 
-Šio straipsnio pirmosios dalies 1–11, 13 ir [[#^3d118126e0feb342ea351933|14 punktų]] reikalavimai taikomi ir įmonėse laikomiems (saugomiems) bei įmonių gabenamiems alkoholio produktams.
+Šio straipsnio pirmosios dalies 1–11, 13 ir [[#^s-a51a7cdcef7e377b2ea365af|14 punktų]] reikalavimai taikomi ir įmonėse laikomiems (saugomiems) bei įmonių gabenamiems alkoholio produktams.
 
 
 Įmonėms draudžiama laikyti ir gabenti nedenatūruotą, denatūruotą ir techninį etilo alkoholį, išskyrus įmones, turinčias leidimus juos gaminti, importuoti, bei įmones, įstaigas ir organizacijas, naudojančias juos gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose.
@@ -212,7 +217,7 @@ Juridiniai ir fiziniai asmenys, gaminantys, realizuojantys, laikantys (saugantys
 
 
 
-### 8 straipsnis. 21 straipsnio 1, 2 ir 4 dalių pakeitimas
+### 8 straipsnis. 21 straipsnio 1, 2 ir 4 dalių pakeitimas ^s-a4f1b9d62ad1ae06bdbca2c3
 
 
 Pakeisti 21 straipsnio 1, 2 ir 4 dalis ir išdėstyti taip:
@@ -221,31 +226,31 @@ Pakeisti 21 straipsnio 1, 2 ir 4 dalis ir išdėstyti taip:
 „Lietuvos Respublikoje draudžiama prekiauti alkoholiniais gėrimais:
 
 
-1) sveikatos priežiūros, ugdymo, sporto įstaigose ir jų teritorijose (išskyrus sanatorijose įrengtose viešojo maitinimo įmonėse, turinčiose atskirą įėjimą, kuriose savivaldybės gali leisti prekiauti alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų), prie maldos namų (atstumu, kurį nustato savivaldybės kartu su religinėmis bendruomenėmis); ^66cfe9bb0c60a0378ee166f9
+1) sveikatos priežiūros, ugdymo, sporto įstaigose ir jų teritorijose (išskyrus sanatorijose įrengtose viešojo maitinimo įmonėse, turinčiose atskirą įėjimą, kuriose savivaldybės gali leisti prekiauti alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų), prie maldos namų (atstumu, kurį nustato savivaldybės kartu su religinėmis bendruomenėmis); ^s-975edd9ecb546480b1b21e1c
 
 
-2) mažmeninės prekybos įmonėse, kuriose vaikams ir paaugliams skirtų prekių dalis sudaro 50 arba daugiau procentų mažmeninės prekių apyvartos; ^5c80d98ff939cb11dddc6198
+2) mažmeninės prekybos įmonėse, kuriose vaikams ir paaugliams skirtų prekių dalis sudaro 50 arba daugiau procentų mažmeninės prekių apyvartos; ^s-55a49e0e681719cd376c3fac
 
 
-3) masiniuose renginiuose (išskyrus alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 12 procentų); ^29e4ce8a4faa3900bf62d8f4
+3) masiniuose renginiuose (išskyrus alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 12 procentų); ^s-a5f5a180d37cab2df7eb3427
 
 
-4) iš prekybos automatų; ^85200d767d4d5b20a5e77d94
+4) iš prekybos automatų; ^s-b9020be57d418b441825a37b
 
 
-5) tarptautinių ir respublikinių kelių pakelėse, išskyrus stacionarinėse viešojo maitinimo įmonėse; ^ee663f31233a81c8fc744993
+5) tarptautinių ir respublikinių kelių pakelėse, išskyrus stacionarinėse viešojo maitinimo įmonėse; ^s-a21350e91467825c48ca1b3d
 
 
-6) prekybos ir viešojo maitinimo įmonėse, kurios įrengtos degalinėse ir prie jų (savivaldybių nurodytu atstumu); ^87e1d05165568e569cb2c615
+6) prekybos ir viešojo maitinimo įmonėse, kurios įrengtos degalinėse ir prie jų (savivaldybių nurodytu atstumu); ^s-ca542e93dd9229cf6956a646
 
 
-7) prekybos įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu; ^90de4657486b1d857c5abc23
+7) prekybos įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu; ^s-d852f6d4deb52ccfae3fb490
 
 
-8) asmenims, jaunesniems kaip 18 metų; ^18a73ac1c6c7db79335bb1e6
+8) asmenims, jaunesniems kaip 18 metų; ^s-80940f3f6c11d0ac0619b1c9
 
 
-9) kitais Lietuvos Respublikos Vyriausybės nustatytais atvejais. ^58fec362ff9905424beb125a
+9) kitais Lietuvos Respublikos Vyriausybės nustatytais atvejais. ^s-f1f9b6811ff42e8db47d59a5
 
 
 Prekiauti alkoholiniais gėrimais leidžiama tik išimtinai tokiai prekybai skirtose stacionarinėse prekybos įmonėse arba jų specializuotuose skyriuose, skirtuose tokiai prekybai, ir viešojo maitinimo įmonėse, išskyrus prekybą kioskuose ir prekybos įmonių nespecializuotuose skyriuose alumi, gamyklų supilstytu į tarą. Prekyba alkoholiniais gėrimais draudžiama mažmeninės prekybos ir viešojo maitinimo įmonėse, įrengtose didmeninės prekybos įmonių ir importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais. Prekyba alumi, gamyklų supilstytu į tarą, draudžiama kioskuose, įrengtuose didmeninės prekybos įmonių ir importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais.“
@@ -255,7 +260,7 @@ Prekiauti alkoholiniais gėrimais leidžiama tik išimtinai tokiai prekybai skir
 
 
 
-### 9 straipsnis. 25 straipsnio 1 dalies 1 punkto papildymas
+### 9 straipsnis. 25 straipsnio 1 dalies 1 punkto papildymas ^s-4fcc3fd69a9c19a57c109558
 
 
 Papildyti 25 straipsnio 1 dalies 1 punktą žodžiais „(išskyrus sanatorijose įrengtose viešojo maitinimo įmonėse, turinčiose atskirą įėjimą, kuriose savivaldybės gali leisti prekiauti alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų)“ ir išdėstyti taip:
@@ -265,7 +270,7 @@ Papildyti 25 straipsnio 1 dalies 1 punktą žodžiais „(išskyrus sanatorijose
 
 
 
-### 10 straipsnis. IV skyriaus II skirsnio pavadinimo pakeitimas
+### 10 straipsnis. IV skyriaus II skirsnio pavadinimo pakeitimas ^s-a2f1d26ff29ccf036dc64ae4
 
 
 Pakeisti IV skyriaus II skirsnio pavadinimą:
@@ -277,7 +282,7 @@ Alkoholinių gėrimų pardavimo skatinimo ir reklamos ribojimas“.
 
 
 
-### 11 straipsnis. 29 straipsnio pakeitimas
+### 11 straipsnis. 29 straipsnio pakeitimas ^s-ccdd60b2c9b6ddba56ec2829
 
 
 Pakeisti 29 straipsnį ir išdėstyti taip:
@@ -289,29 +294,29 @@ Pakeisti 29 straipsnį ir išdėstyti taip:
 Įmonėms, turinčioms teisę prekiauti alkoholiniais gėrimais, draudžiama naudoti tokius jų pardavimo skatinimo būdus:
 
 
-1) dalį prekių išduoti veltui arba kaip premiją; ^65d5d6f5ce976ac18c7f692d
+1) dalį prekių išduoti veltui arba kaip premiją; ^s-6e32e527450e34b31378a529
 
 
-2) taikyti fiksuotas nuolaidas kuponų, išspausdintų visuomenės informavimo priemonėse, savininkams; ^59d1a8f0e72f24b8673496b9
+2) taikyti fiksuotas nuolaidas kuponų, išspausdintų visuomenės informavimo priemonėse, savininkams; ^s-e26fbaee095e548c000e33ff
 
 
-3) organizuoti naujų alkoholinių gėrimų pavyzdžių platinimą nemokamai; ^c42164907c6dbc3fced30e5e
+3) organizuoti naujų alkoholinių gėrimų pavyzdžių platinimą nemokamai; ^s-5ae4108b50dac8d7c53142e8
 
 
-4) teikti savo produkciją į loterijas, konkursus, žaidimus kaip prizus arba kartu su jais, išskyrus alų ir putojančius vynus, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų; ^52bc798410a276f8586cb93f
+4) teikti savo produkciją į loterijas, konkursus, žaidimus kaip prizus arba kartu su jais, išskyrus alų ir putojančius vynus, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų; ^s-13493846013ab8bdddfe7743
 
 
-5) organizuoti mažmeninės prekybos subjektų konkursus dėl alkoholinių gėrimų pardavimo skatinimo; ^e855b776caac0bd0140ff68f
+5) organizuoti mažmeninės prekybos subjektų konkursus dėl alkoholinių gėrimų pardavimo skatinimo; ^s-438a4551b2559bc02ade1c6e
 
 
-6) parduoti Lietuvos Respublikoje ar užsienio šalyse išspausdintus, įvežtus į Lietuvos Respubliką specializuotus reklaminius leidinius, skirtus alkoholinių gėrimų pardavimo skatinimui. ^98651aaa39d328e450687a13
+6) parduoti Lietuvos Respublikoje ar užsienio šalyse išspausdintus, įvežtus į Lietuvos Respubliką specializuotus reklaminius leidinius, skirtus alkoholinių gėrimų pardavimo skatinimui. ^s-ec59bc29c309028bbc1a936c
 
 
 Lietuvos Respublikos Vyriausybė įmonėms, kurios turi nustatyta tvarka išduotus leidimus prekiauti alkoholiniais gėrimais, turi teisę nustatyti ir kitus alkoholinių gėrimų pardavimo skatinimo ribojimus.“
 
 
 
-### 12 straipsnis. 30 straipsnio pakeitimas
+### 12 straipsnis. 30 straipsnio pakeitimas ^s-e1e02a4e5f7fc762c6963267
 
 
 Pakeisti 30 straipsnį ir išdėstyti taip:
@@ -323,70 +328,70 @@ Pakeisti 30 straipsnį ir išdėstyti taip:
 Lietuvos Respublikoje draudžiama visų formų alkoholio reklama, kuri:
 
 
-1) skirta vaikams ir paaugliams iki 18 metų; ^bd054816b4ca2bc0544dd11b
+1) skirta vaikams ir paaugliams iki 18 metų; ^s-061c9a832b5d2286b07476ff
 
 
-2) naudoja asmenis iki 18 metų; ^220b061459cee2db91b33fe2
+2) naudoja asmenis iki 18 metų; ^s-61776eb9a910fc3066e71ead
 
 
-3) naudoja sportininkus, gydytojus, politikus, meno ir mokslo įžymybes ar kitus iškilius visuomenės veikėjus, jų asmenį, vardą, atvaizdą ir pan.; ^a094f49c7b194c8107ca0f3a
+3) naudoja sportininkus, gydytojus, politikus, meno ir mokslo įžymybes ar kitus iškilius visuomenės veikėjus, jų asmenį, vardą, atvaizdą ir pan.; ^s-ae5d614eb201b42d224d75fb
 
 
-4) sieja alkoholio vartojimą su fizinės būklės pagerėjimu; ^635807ca6519b2bea680f3c7
+4) sieja alkoholio vartojimą su fizinės būklės pagerėjimu; ^s-224e9b215f1d2de571279713
 
 
-5) sieja alkoholio vartojimą su vairavimu; ^27126445fa553f98ac879bb4
+5) sieja alkoholio vartojimą su vairavimu; ^s-a146af3d45c3d4c452d47213
 
 
-6) sieja alkoholio vartojimą su psichinės veiklos pagerėjimu, asmeninių problemų sprendimu; ^b74b3792199ba9784b8a6ced
+6) sieja alkoholio vartojimą su psichinės veiklos pagerėjimu, asmeninių problemų sprendimu; ^s-5d42b7295f786dafa9e5a171
 
 
-7) sieja alkoholio vartojimą su stimuliuojančiomis, raminančiomis ir kitomis gydomosiomis savybėmis; ^b29848af0fddb2eee875ca9c
+7) sieja alkoholio vartojimą su stimuliuojančiomis, raminančiomis ir kitomis gydomosiomis savybėmis; ^s-a163d2b0f2995671371e6f25
 
 
-8) sieja alkoholio vartojimą su socialine sėkme, padidintu seksualiniu aktyvumu; ^bb65b538bfebb30a1d42d653
+8) sieja alkoholio vartojimą su socialine sėkme, padidintu seksualiniu aktyvumu; ^s-0339e01e5c38d6958ebcd1f1
 
 
-9) palankiai vaizduoja nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepia apie abstinenciją ir saikingumą; ^e7fe71d01cce314faf689f1d
+9) palankiai vaizduoja nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepia apie abstinenciją ir saikingumą; ^s-05c94ccb720c6120731e1ce2
 
 
-10) pateikia didesnę tūrinę etilo alkoholio koncentraciją kaip alkoholinių gėrimų privalumą; ^81bd6e22a9846bc0ac098c9f
+10) pateikia didesnę tūrinę etilo alkoholio koncentraciją kaip alkoholinių gėrimų privalumą; ^s-ff1c6bd87d994d984b532208
 
 
-11) pateikia neteisingą ir klaidinančią informaciją apie alkoholinius gėrimus. ^9f53c0aa5462fbce3bcf6135
+11) pateikia neteisingą ir klaidinančią informaciją apie alkoholinius gėrimus. ^s-a6eeac27074dce23a06b414d
 
 
 Alkoholio reklama draudžiama:
 
 
-1) laikraščių ir jų savarankiškų priedų, žurnalų bei knygų pirmuosiuose ir paskutiniuosiuose puslapiuose (viršeliuose); ^6430d32112a8ed4fad0bd038
+1) laikraščių ir jų savarankiškų priedų, žurnalų bei knygų pirmuosiuose ir paskutiniuosiuose puslapiuose (viršeliuose); ^s-1919a5f54b2528bde2d4e7ca
 
 
-2) vaikams ir paaugliams skirtuose specializuotuose laikraščiuose, žurnaluose, knygose, televizijos ir radijo programose; ^e5da13695fdc5d648932b684
+2) vaikams ir paaugliams skirtuose specializuotuose laikraščiuose, žurnaluose, knygose, televizijos ir radijo programose; ^s-4ee9008bba68119e37926069
 
 
-3) per nacionalinį radiją ir televiziją nuo 15 valandos iki 22 valandos, o savaitgaliais ir moksleivių atostogų dienomis – nuo 8 valandos iki 22 valandos (išskyrus alaus ir vyno, kurio tūrinė etilo alkoholio koncentracija neviršija 15 procentų, reklamą); ^463cd9a0fa624d26a4f9866e
+3) per nacionalinį radiją ir televiziją nuo 15 valandos iki 22 valandos, o savaitgaliais ir moksleivių atostogų dienomis – nuo 8 valandos iki 22 valandos (išskyrus alaus ir vyno, kurio tūrinė etilo alkoholio koncentracija neviršija 15 procentų, reklamą); ^s-c4c121f8396af23494b29ec2
 
 
-4) kitų Lietuvos Respublikoje įregistruotų radijo ir televizijos stočių, kabelinio radijo ir kabelinės televizijos stočių transliuojamose ir retransliuojamose programose, išskyrus tiesiogiai ir ištisai iš užsienio retransliuojamas laidas, nuo 15 valandos iki 20 valandos, o savaitgaliais ir moksleivių atostogų dienomis – nuo 8 valandos iki 20 valandos (išskyrus alaus ir vyno, kurio tūrinė etilo alkoholio koncentracija neviršija 15 procentų, reklamą); ^c4ceb0af66849e4fa9f9dc49
+4) kitų Lietuvos Respublikoje įregistruotų radijo ir televizijos stočių, kabelinio radijo ir kabelinės televizijos stočių transliuojamose ir retransliuojamose programose, išskyrus tiesiogiai ir ištisai iš užsienio retransliuojamas laidas, nuo 15 valandos iki 20 valandos, o savaitgaliais ir moksleivių atostogų dienomis – nuo 8 valandos iki 20 valandos (išskyrus alaus ir vyno, kurio tūrinė etilo alkoholio koncentracija neviršija 15 procentų, reklamą); ^s-32b36ad1fb6fad246cc9ed2b
 
 
-5) koncertų, cirko, diskotekų ir kitų masinių renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose; ^ae0afa9469b59b5f0aeaa4ee
+5) koncertų, cirko, diskotekų ir kitų masinių renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose; ^s-2909c327ec1b03fe0f8fece3
 
 
-6) švietimo, mokslo ir ugdymo įstaigose; ^b2f7ff8683ef3edc3523cbce
+6) švietimo, mokslo ir ugdymo įstaigose; ^s-33f4a7005069a5aa4e5e5ebe
 
 
-7) visose sveikatos priežiūros įstaigose; ^5f5da0eb8a26f03b47a23819
+7) visose sveikatos priežiūros įstaigose; ^s-0e2a4b0be2f414f4915b7393
 
 
-8) visuomeninio transporto priemonių viduje ir išorėje; ^609b382e00179932ffac4295
+8) visuomeninio transporto priemonių viduje ir išorėje; ^s-6f4e65b15a7a1ab6054c85c6
 
 
-9) degalinėse; ^7c5e27dac2b9c71488f69e2e
+9) degalinėse; ^s-57f643c2b6b87bb3903b0fda
 
 
-10) ant paštu siunčiamų atvirlaiškių, vokų ir pašto ženklų. ^3048e2594e43fcae62691740
+10) ant paštu siunčiamų atvirlaiškių, vokų ir pašto ženklų. ^s-94edce72c1ba5e6d3b2ef0db
 
 
 Loterijose, žaidimuose, konkursuose draudžiama teikti alkoholinius gėrimus kaip prizus asmenims iki 18 metų.
@@ -399,21 +404,21 @@ Alkoholio reklamos ribojimą kontroliuoja VTAKT, o išorinę reklamą – saviva
 
 
 
-### 13 straipsnis. 31 straipsnio pripažinimas netekusiu galios
+### 13 straipsnis. 31 straipsnio pripažinimas netekusiu galios ^s-46aa8f2b0925205399d73833
 
 
 31 straipsnį pripažinti netekusiu galios.
 
 
 
-### 14 straipsnis. 33 straipsnio pripažinimas netekusiu galios
+### 14 straipsnis. 33 straipsnio pripažinimas netekusiu galios ^s-90e32768575d1a684f699fda
 
 
 33 straipsnį pripažinti netekusiu galios.
 
 
 
-### 15 straipsnis. 39 straipsnio papildymas
+### 15 straipsnis. 39 straipsnio papildymas ^s-ac879963ef12da0bc819ce67
 
 
 Papildyti 39 straipsnį trečiuoju sakiniu „Institucijos privalo garantuoti anonimiškumą asmenų, padėjusių išaiškinti Alkoholio kontrolės įstatymo pažeidimus“ ir straipsnį išdėstyti taip:
@@ -422,11 +427,11 @@ Papildyti 39 straipsnį trečiuoju sakiniu „Institucijos privalo garantuoti an
 „39 straipsnis. Valstybės alkoholio kontrolės politikos vykdomųjų institucijų sistema
 
 
-Valstybės alkoholio kontrolę pagal kompetenciją atlieka ministerijos, VTAKT, kitos Vyriausybės institucijos, valstybinės tarnybos, valstybinės inspekcijos, savivaldos vykdomosios institucijos, policija, sveikatos sistemos įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai. Institucijos privalo garantuoti anonimiškumą asmenų, padėjusių išaiškinti Alkoholio kontrolės įstatymo pažeidimus.“
+Valstybės alkoholio kontrolę pagal kompetenciją atlieka ministerijos, VTAKT, kitos Vyriausybės institucijos, valstybinės tarnybos, valstybinės inspekcijos, savivaldos vykdomosios institucijos, policija, sveikatos sistemos įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai. Institucijos privalo garantuoti anonimiškumą asmenų, padėjusių išaiškinti [[latest/TAR.9E5C5C16B6E6|Alkoholio kontrolės įstatymo]] pažeidimus.“
 
 
 
-### 16 straipsnis. 41 straipsnio pakeitimas
+### 16 straipsnis. 41 straipsnio pakeitimas ^s-b5a9564a5f38f4b0058c2473
 
 
 41 straipsnyje vietoj žodžių „Pramonės ir prekybos ministerijos“ įrašyti žodžius „Ūkio ministerijos, Žemės ir miškų ūkio ministerijos „ ir straipsnį išdėstyti taip:
@@ -439,7 +444,7 @@ Kasmet Lietuvos Respublikos Vyriausybė iš Valstybės kontrolės, Sveikatos aps
 
 
 
-### 17 straipsnis. 43 straipsnio 3 dalies pakeitimas
+### 17 straipsnis. 43 straipsnio 3 dalies pakeitimas ^s-954830c99d4e1621e623aa8e
 
 
 Pakeisti 43 straipsnio 3 dalį ir išdėstyti taip:
@@ -449,13 +454,13 @@ Pakeisti 43 straipsnio 3 dalį ir išdėstyti taip:
 
 
 
-### 18 straipsnis. 44 straipsnio pakeitimas
+### 18 straipsnis. 44 straipsnio pakeitimas ^s-8e67b2cd113a57a76c841334
 
 
 Pakeisti 44 straipsnį ir išdėstyti taip:
 
 
-„44 straipsnis.     Ekonominių sankcijų už Alkoholio kontrolės įstatymo pažeidimus taikymas
+„44 straipsnis.     Ekonominių sankcijų už [[latest/TAR.9E5C5C16B6E6|Alkoholio kontrolės įstatymo]] pažeidimus taikymas
 
 
 Valstybinė tabako ir alkoholio kontrolės tarnyba, Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros tarnybos, Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos, Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos, teritorinės valstybinės mokesčių inspekcijos, savivaldybės ir policija pagal savo kompetenciją turi teisę skirti įmonėms, įstaigoms, organizacijoms baudas už šio įstatymo pažeidimus.

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.908E9B9C8B9E"
 pavadinimas: "Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-12-15"
 latest_path: "latest/TAR.908E9B9C8B9E.md"
 latest_sha256: "506ae131100fd3f7f7d1c3f240bb4c8f64010506fbb8ee1965ec2e279f52f278"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.908E9B9C8B9E]]"
 ---
 # Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.908E9B9C8B9E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.908E9B9C8B9E
+- Ryšiai: [[Ryšiai/TAR.908E9B9C8B9E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-be022a51d7262d9bfedd9742
 
 
 3 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „5 straipsnis“ įrašyti skaičius ir žodžius „5 straipsnio 2 ir 4 dalys“ ir šią dalį išdėstyti taip:

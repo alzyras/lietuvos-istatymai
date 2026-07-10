@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A18D5887558C"
 pavadinimas: "Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu \"Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos\", pakeitimo ir papildymo"
+aliases:
+  - "Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu \"Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos\", pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-11-10"
 latest_path: "latest/TAR.A18D5887558C.md"
 latest_sha256: "b1a50cf4365e527f0b28c569870d31040465b58eeec4f09df283c5beae4f87af"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A18D5887558C]]"
 ---
 # Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A18D5887558C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A18D5887558C
+- Ryšiai: [[Ryšiai/TAR.A18D5887558C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -54,7 +58,7 @@ buvusį 13 punktą laikyti 14 punktu;
 buvusį 5 punktą laikyti 6 punktu.
 
 
-2. Lietuvos Respublikos transporto veiklos pagrindų įstatymo (Žin., 1991, Nr. 30-804) 6 straipsnio antrąją dalį išdėstyti taip:
+2. [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymo]] (Žin., 1991, Nr. 30-804) 6 straipsnio antrąją dalį išdėstyti taip:
 
 
 „Lietuvos Respublikos Seimas gali nustatyti lengvatinio keleivių vežimo tvarką. Tokiu atveju išlaidos transporto priemonės savininkui kompensuojamos iš valstybės arba savivaldybių biudžetų.“
@@ -69,7 +73,7 @@ buvusį 5 punktą laikyti 6 punktu.
 5. Lietuvos Respublikos invalidų socialinės integracijos įstatymo (Žin., 1991, Nr. 36-969) 24 straipsnio trečiąją dalį pripažinti netekusia galios.
 
 
-6. Lietuvos Respublikos policijos įstatymo (Žin., 1991, Nr. 2-22) 47 straipsnio trečiąją dalį pripažinti netekusia galios.
+6. [[latest/TAR.CA89372D00AA|Lietuvos Respublikos policijos įstatymo]] (Žin., 1991, Nr. 2-22) 47 straipsnio trečiąją dalį pripažinti netekusia galios.
 
 
 7. Lietuvos Respublikos valstybės saugumo departamento įstatymo (Žin., 1994, Nr. 11-163) 34 straipsnio antrąją dalį pripažinti netekusia galios.

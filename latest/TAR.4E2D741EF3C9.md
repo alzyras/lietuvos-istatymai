@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4E2D741EF3C9"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-07-16"
 latest_path: "latest/TAR.4E2D741EF3C9.md"
 latest_sha256: "66171e121da0bf8dbdbe040af0d88b783e4f1a0de41a542db3ff34179b70417a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4E2D741EF3C9]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4E2D741EF3C9.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4E2D741EF3C9
+- Ryšiai: [[Ryšiai/TAR.4E2D741EF3C9|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 4 dalies 7 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies 7 punkto pakeitimas ^s-a17ef6a801c8cdb9c3d93a8d
 
 
 Pakeisti 4 straipsnio 4 dalies 7 punktą ir jį išdėstyti taip:

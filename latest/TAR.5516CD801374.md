@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5516CD801374"
 pavadinimas: "Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "investicijų įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-11-27"
 latest_path: "latest/TAR.5516CD801374.md"
 latest_sha256: "6c24ab6097f40b088e3869e34a1c77cf207b3a96ed84b778ae0088007eabdb41"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5516CD801374]]"
 ---
 # Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5516CD801374.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5516CD801374
+- Ryšiai: [[Ryšiai/TAR.5516CD801374|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 1 dalies 6 punkto pakeitimas
+### 1 straipsnis. 13 straipsnio 1 dalies 6 punkto pakeitimas ^s-db93dd9b43018a774695d1fe
 
 
 Pakeisti 13 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:

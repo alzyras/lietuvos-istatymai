@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.8936BF7AE333"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14, 38, 39, 40, 41, 52 ir 53 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14, 38, 39, 40, 41, 52 ir 53 straipsnių pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 14, 38, 39, 40, 41, 52 ir 53 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.8936BF7AE333.md"
 latest_sha256: "e905305ff305b9f53f0aea264ab8320b69476ea21fc6941aeb963f65926bda6c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.8936BF7AE333]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14, 38, 39, 40, 41, 52 ir 53 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.8936BF7AE333.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.8936BF7AE333
+- Ryšiai: [[Ryšiai/TAR.8936BF7AE333|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,23 +38,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 14 straipsnio 2 ir 3 dalių pakeitimas
+### 1 straipsnis. 14 straipsnio 2 ir 3 dalių pakeitimas ^s-2349659f530a7279898866cb
 
 
-1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^9a61c82fc25a15227206d52c
+1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip: ^s-6f9146336ff2ff4c85489fb9
 
 
 „2. Asmenų, gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo veiklos, ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 metais įmokėtos sumažinto tarifo privalomojo valstybinio pensijų socialinio draudimo įmokos, taip pat šių asmenų, gavusių minėtąsias pajamos iš draudėjo, su kuriuo jie yra susiję darbo santykiais arba jų esmę atitinkančiais santykiais, nuo kurių 2010 metais įmokėtos sumažinto tarifo privalomojo valstybinio pensijų socialinio draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos pajamų sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų valstybinio pensijų socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš sporto ir atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš savo darbdavio arba ne iš savo darbdavio), dalijant iš tų metų draudėjų ir apdraustųjų bendrojo valstybinio pensijų socialinio draudimo įmokų tarifo, nustatyto pajamoms, gautoms iš sporto ir atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš savo darbdavio arba ne iš savo darbdavio).“
 
 
-2. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip: ^a5010efce4a892b12ad67901
+2. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip: ^s-1635554f1866bf8e8739481c
 
 
 „3. Ūkininkų ir jų partnerių, taip pat kitų savarankiškai dirbančių asmenų gautos pajamos, nuo kurių 2009 metais, o ūkininkų ir jų partnerių – ir 2010 metais, įmokėtos sumažinto tarifo privalomojo valstybinio pensijų socialinio draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos pajamos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris apskaičiuojamas atitinkamų metų sumažintą valstybinio pensijų socialinio draudimo įmokos tarifą, taikomą ūkininkų ir jų partnerių bei savarankiškai dirbančių asmenų gautoms pajamoms, dalijant iš tų metų bendrojo valstybinio pensijų socialinio draudimo įmokų tarifo, nustatyto ūkininkams ir jų partneriams bei savarankiškai dirbantiems asmenims.“
 
 
 
-### 2 straipsnis. 38 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 38 straipsnio 1 dalies pakeitimas ^s-ea9f0a111f697e290a6993b4
 
 
 Pakeisti 38 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -59,7 +64,7 @@ Pakeisti 38 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 39 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 39 straipsnio 3 dalies pakeitimas ^s-b3c90c46256f3e0270f5a9e6
 
 
 Pakeisti 39 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -69,7 +74,7 @@ Pakeisti 39 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 40 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 40 straipsnio 2 dalies pakeitimas ^s-777b8ae7aec85e9ca1122136
 
 
 Pakeisti 40 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -79,7 +84,7 @@ Pakeisti 40 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 41 straipsnio 5 dalies pakeitimas
+### 5 straipsnis. 41 straipsnio 5 dalies pakeitimas ^s-1a7406bf9d7c71796a697589
 
 
 Pakeisti 41 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -89,23 +94,23 @@ Pakeisti 41 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 52 straipsnio 2 ir 4 dalių pakeitimas
+### 6 straipsnis. 52 straipsnio 2 ir 4 dalių pakeitimas ^s-3350a9512f467fbdf8cb4d6b
 
 
-1. Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip: ^b323a41aa3a084fa028418a4
+1. Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip: ^s-401f798b4b7d48886428679a
 
 
 „2. Pensijos dalis, lygi buvusiam 110 procentų valstybinės socialinio draudimo bazinės pensijos dydžiui, padidinama (laikinai sumažinama) iki naujo 110 procentų valstybinės socialinio draudimo bazinės pensijos dydžio, likusi pensijos dalis be priedo už stažo metus indeksuojama pagal naujai patvirtintų ir prieš tai buvusių einamųjų metų draudžiamųjų pajamų santykį, o priedas už stažo metus – pagal naują valstybinės socialinio draudimo bazinės pensijos dydį.“
 
 
-2. Pakeisti 52 straipsnio 4 dalį ir ją išdėstyti taip: ^b69b62b3e903f80ade2d3ca1
+2. Pakeisti 52 straipsnio 4 dalį ir ją išdėstyti taip: ^s-f2a6a7ccaf7d60c508a8bb3f
 
 
 „4. Maksimalią neperskaičiuotą pensiją tvirtina Vyriausybė kartu su nauju bazinės pensijos dydžiu. Maksimali neperskaičiuota pensija, lyginant su prieš tai patvirtinta, didinama (laikinai mažinama) tiek procentų, kiek procentų padidinta (laikinai sumažinta) bazinė pensija.“
 
 
 
-### 7 straipsnis. 53 straipsnio 1 dalies pakeitimas
+### 7 straipsnis. 53 straipsnio 1 dalies pakeitimas ^s-c11c5704b07767dc379ecdff
 
 
 Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -115,23 +120,23 @@ Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 8 straipsnis. Baigiamosios nuostatos
+### 8 straipsnis. Baigiamosios nuostatos ^s-85d5c3e1bcf25cce9c839944
 
 
-Šio įstatymo [[#5 straipsnis. 41 straipsnio 5 dalies pakeitimas|5 straipsnyje]] išdėstytos Valstybinių socialinio draudimo pensijų įstatymo 41 straipsnio 5 dalies nuostatos taikomos išmokant valstybines socialinio draudimo pensijas už asmenis, mirusius po šio įstatymo įsigaliojimo.
+Šio įstatymo [[#^s-1a7406bf9d7c71796a697589|5 straipsnyje]] išdėstytos [[latest/TAR.A7F77DF94F5D#^s-2e448e7a00763f01892fc707|Valstybinių socialinio draudimo pensijų įstatymo 41 straipsnio 5 dalies]] nuostatos taikomos išmokant valstybines socialinio draudimo pensijas už asmenis, mirusius po šio įstatymo įsigaliojimo.
 
 
 
-### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-fc7c4bf69c18c82fa1ef2a44
 
 
-1. Šis įstatymas, išskyrus [[#2 straipsnis. 38 straipsnio 1 dalies pakeitimas|2 straipsnį]] ir [[#^575733a09571a57de08de383|šio straipsnio 3 dalį]], įsigalioja 2010 m. sausio 1 d. ^ae780624bf9e028e180003ef
+1. Šis įstatymas, išskyrus [[#^s-ea9f0a111f697e290a6993b4|2 straipsnį]] ir [[#^s-ba332bbd8d7e74f0d29dfa58|šio straipsnio 3 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-dfd453aafdcdff9c100a91f4
 
 
-2. Šio įstatymo [[#2 straipsnis. 38 straipsnio 1 dalies pakeitimas|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^eee6a3cd0cf2b8d7a2eb325b
+2. Šio įstatymo [[#^s-ea9f0a111f697e290a6993b4|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-43f54169d90201fa947d4403
 
 
-3. Lietuvos Respublikos Vyriausybė iki 2009 m. gruodžio 31 d. parengia ir priima šio įstatymo 1, 3, 4, 5, 6, 7 ir [[#8 straipsnis. Baigiamosios nuostatos|8 straipsniuose]] išdėstytoms nuostatoms įgyvendinti reikalingus teisės aktus. ^575733a09571a57de08de383
+3. Lietuvos Respublikos Vyriausybė iki 2009 m. gruodžio 31 d. parengia ir priima šio įstatymo 1, 3, 4, 5, 6, 7 ir [[#^s-85d5c3e1bcf25cce9c839944|8 straipsniuose]] išdėstytoms nuostatoms įgyvendinti reikalingus teisės aktus. ^s-ba332bbd8d7e74f0d29dfa58
 
 
 

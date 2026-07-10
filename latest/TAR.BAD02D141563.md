@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BAD02D141563"
 pavadinimas: "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 9, 10 ir 16 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 9, 10 ir 16 straipsnių pakeitimo įstatymas"
+  - "pareigūnų ir karių valstybinių pensijų įstatymo 1, 9, 10 ir 16 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-09-01"
 latest_path: "latest/TAR.BAD02D141563.md"
 latest_sha256: "9cb7afee75c9d07e6a5c25c69fea980e6ab806035b53df17ede8ca44301060a8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BAD02D141563]]"
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 9, 10 ir 16 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BAD02D141563.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BAD02D141563
+- Ryšiai: [[Ryšiai/TAR.BAD02D141563|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas ^s-9608cf6e42650c7e2cf138b0
 
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas ^s-a116ef0f2b8d73ebd37975ae
 
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -54,17 +59,17 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Privalomosios karo tarnybos kariams, netekusiems darbingumo tarnybos, mokymų, pratybų ar užduočių vykdymo metu dėl priežasčių, susijusių su tarnyba, mokymais, pratybomis ar užduočių vykdymu, mokama pareigūnų ir karių valstybinė netekto darbingumo pensija:
 
 
-1) asmenims, netekusiems 75–100 procentų darbingumo, – 2 valstybinių socialinio draudimo bazinių pensijų dydžio; ^470ff4ac960cd05c896e3724
+1) asmenims, netekusiems 75–100 procentų darbingumo, – 2 valstybinių socialinio draudimo bazinių pensijų dydžio; ^s-a6be76a907733ecaf7ddab52
 
 
-2) asmenims, netekusiems 60–70 procentų darbingumo, – 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio; ^637e5bf002f0509ae1aa7822
+2) asmenims, netekusiems 60–70 procentų darbingumo, – 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio; ^s-ca9d41218a8978ffb237fd16
 
 
-3) asmenims, netekusiems 45–55 procentų darbingumo, – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.“ ^b84df3d30ad660dbf5ae1b2d
+3) asmenims, netekusiems 45–55 procentų darbingumo, – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.“ ^s-85c4925fe907cb1a8bb78b27
 
 
 
-### 3 straipsnis. 10 straipsnio 5 dalies pakeitimas
+### 3 straipsnis. 10 straipsnio 5 dalies pakeitimas ^s-f9e3df4c041340fba62a5997
 
 
 Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -74,7 +79,7 @@ Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 16 straipsnio 11 dalies pakeitimas
+### 4 straipsnis. 16 straipsnio 11 dalies pakeitimas ^s-32d55514bfdff7f4669d25e6
 
 
 16 straipsnio 11 dalyje išbraukti žodžius „ir karių savanorių“ ir šią dalį išdėstyti taip:
@@ -84,7 +89,7 @@ Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-d83c3573613068401a66d7e8
 
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.

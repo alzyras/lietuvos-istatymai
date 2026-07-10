@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3E40CCBA4F80"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitimo ir papildymo įstatymas"
+  - "akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-10-16"
 latest_path: "latest/TAR.3E40CCBA4F80.md"
 latest_sha256: "b0b95a71449d13fe0a723d94674797ec51ce7de2391c647823a1b38388da19be"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3E40CCBA4F80]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3E40CCBA4F80.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3E40CCBA4F80
+- Ryšiai: [[Ryšiai/TAR.3E40CCBA4F80|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 20 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 20 straipsnio 4 dalies pakeitimas ^s-fce4f2fb1579b693198cc8f5
 
 
 Pakeisti 20 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -41,7 +46,7 @@ Pakeisti 20 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. 27 straipsnio 7 dalies papildymas
+### 2 straipsnis. 27 straipsnio 7 dalies papildymas ^s-72d9cdff29646c71f3343e23
 
 
 Papildyti 27 straipsnio 7 dalį - pirmajame sakinyje po žodžio „nutarimas“ įrašyti žodžius „priimtas ne mažiau kaip 2/3 dalyvaujančiųjų balsų“ ir visą dalį išdėstyti taip:

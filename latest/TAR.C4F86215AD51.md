@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.C4F86215AD51"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 38 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 38 straipsnio pakeitimo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 38 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-12-30"
 latest_path: "latest/TAR.C4F86215AD51.md"
 latest_sha256: "5e234fba3f6242892eeb68df03c1fa9a0887f08a39d4ef1319bade25bc027cc2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.C4F86215AD51]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 38 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.C4F86215AD51.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.C4F86215AD51
+- Ryšiai: [[Ryšiai/TAR.C4F86215AD51|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,7 +41,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 38 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 38 straipsnio 2 dalies pakeitimas ^s-ab6ad88753ce66d993af39ef
 
 
 Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -46,13 +51,13 @@ Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-410e449ad9e89c5cbd6310e9
 
 
-1. Šis įstatymas, išskyrus [[#^bea5eecab94b1e8a5dded71a|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^b7a053b6a690c650c92bc22e
+1. Šis įstatymas, išskyrus [[#^s-8509c71d4e9fe2f08ca56c80|šio straipsnio 2 dalį]], įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-a465a502f5dc893c3cf413c7
 
 
-2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^bea5eecab94b1e8a5dded71a
+2. Lietuvos Respublikos Vyriausybė parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-8509c71d4e9fe2f08ca56c80
 
 
 

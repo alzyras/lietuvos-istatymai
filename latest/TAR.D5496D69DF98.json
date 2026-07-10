@@ -9,9 +9,9 @@
   "is_national": true,
   "latest_path": "latest/TAR.D5496D69DF98.md",
   "latest_revision": "1998-06-12",
-  "latest_sha256": "ddf3a2a34bd26522b8ca31304fbed08ccb8cedd5f7a0bdfd75294f399d910c8e",
+  "latest_sha256": "815012c960741f4572e2c25b2d782f5c78e1f1849346df78d74e076a7674c52d",
   "metadata_path": "latest/TAR.D5496D69DF98.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": null,
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:25:57Z"
+  "updated_from_source_at": "2026-07-09T22:34:35Z"
 }

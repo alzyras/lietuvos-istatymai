@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.83DF9659EC0D"
 pavadinimas: "Dėl atsakomybės už Lietuvos gyventojų genocidą"
+aliases:
+  - "Dėl atsakomybės už Lietuvos gyventojų genocidą"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1992-04-15"
 latest_path: "latest/TAR.83DF9659EC0D.md"
 latest_sha256: "5a3b5a53f8ef1e4c7fb82ea744235e02adff11667e59411aca8777dfa12d4606"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.83DF9659EC0D]]"
 ---
 # Dėl atsakomybės už Lietuvos gyventojų genocidą
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.83DF9659EC0D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.83DF9659EC0D
+- Ryšiai: [[Ryšiai/TAR.83DF9659EC0D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

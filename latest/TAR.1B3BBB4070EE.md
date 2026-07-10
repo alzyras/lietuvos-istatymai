@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1B3BBB4070EE"
 pavadinimas: "Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo"
+aliases:
+  - "Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo"
+  - "įstatymas dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-09-26"
 latest_path: "latest/TAR.1B3BBB4070EE.md"
 latest_sha256: "05b5e8477686718ace677230218f4a0d19526f7a409995fb43ccca114bd4eb54"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1B3BBB4070EE]]"
 ---
 # Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1B3BBB4070EE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1B3BBB4070EE
+- Ryšiai: [[Ryšiai/TAR.1B3BBB4070EE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Sutarties ratifikavimas
+### 1 straipsnis. Sutarties ratifikavimas ^s-155a7463604c7fa4bccb5a2a
 
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Tautos 2003 m. gegužės 10 ir 11 d. referendume išreikštą valią bei į Respublikos Prezidento 2003 m. rugpjūčio 21 d. dekretą Nr. 184, ratifikuoja Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutartį dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą, pasirašytą 2003 m. balandžio 16 d. Atėnuose.

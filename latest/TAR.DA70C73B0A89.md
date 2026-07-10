@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA70C73B0A89"
 pavadinimas: "Lietuvos Respublikos notariato įstatymo 7 ir 7(1) straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos notariato įstatymo 7 ir 7(1) straipsnių pakeitimo įstatymas"
+  - "notariato įstatymo 7 ir 7(1) straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-03-27"
 latest_path: "latest/TAR.DA70C73B0A89.md"
 latest_sha256: "9f91cf00f5f8e3836639f3c01df5a526e02dd68ff47797981885c9a1d021cfd2"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA70C73B0A89]]"
 ---
 # Lietuvos Respublikos notariato įstatymo 7 ir 7(1) straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA70C73B0A89.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA70C73B0A89
+- Ryšiai: [[Ryšiai/TAR.DA70C73B0A89|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio pakeitimas
+### 1 straipsnis. 7 straipsnio pakeitimas ^s-22686913377980e68e32890e
 
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
@@ -53,7 +58,7 @@ Notarų savivaldos institucijų priežiūra atliekama šio įstatymo 11 straipsn
 
 
 
-### 2 straipsnis. 71 straipsnio pakeitimas
+### 2 straipsnis. 71 straipsnio pakeitimas ^s-0401490448472a2d4e33fe29
 
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
@@ -62,7 +67,7 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 „71 straipsnis. Drausmės bylos notarui iškėlimas
 
 
-Lietuvos Respublikos teisingumo ministras arba Notarų rūmų prezidiumas turi teisę iškelti notarui drausmės bylą už Lietuvos Respublikos notariato įstatymo, Lietuvos Respublikos teisingumo ministro patvirtintų teisės aktų ir Lietuvos Respublikos notarų garbės (etikos) kodekso pažeidimus.“
+Lietuvos Respublikos teisingumo ministras arba Notarų rūmų prezidiumas turi teisę iškelti notarui drausmės bylą už [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymo]], Lietuvos Respublikos teisingumo ministro patvirtintų teisės aktų ir Lietuvos Respublikos notarų garbės (etikos) kodekso pažeidimus.“
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.071C500F1B91"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 7, 15, 28 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 7, 15, 28 straipsnių papildymo ir pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 7, 15, 28 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-06-03"
 latest_path: "latest/TAR.071C500F1B91.md"
 latest_sha256: "8b923cb7718e94c2757876202fe890334bf67c7e9887e30e6ab97d3a4890181c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.071C500F1B91]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7, 15, 28 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.071C500F1B91.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.071C500F1B91
+- Ryšiai: [[Ryšiai/TAR.071C500F1B91|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio papildymas
+### 1 straipsnis. 7 straipsnio papildymas ^s-7e01354810f9cc41d88413a9
 
 
 7 straipsnio 10 dalyje po žodžių „apskrities viršininkas“ įrašyti žodžius „Vyriausybės atstovas“ ir šią dalį išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 15 straipsnio pakeitimas
+### 2 straipsnis. 15 straipsnio pakeitimas ^s-c7b2155ffe50216b5b9e05c2
 
 
 15 straipsnio 26 punkte vietoj žodžių „apskrities viršininko“ įrašyti žodžius „Vyriausybės atstovo“ ir šį punktą išdėstyti taip:
@@ -51,7 +56,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 28 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 28 straipsnio 1 dalies pakeitimas ^s-1c0c26f8bd33db8c3179993d
 
 
 28 straipsnio 1 dalyje vietoj žodžių „apskričių viršininkai“ įrašyti žodžius „Vyriausybės skiriami pareigūnai – Vyriausybės atstovai“ ir šią dalį išdėstyti taip:

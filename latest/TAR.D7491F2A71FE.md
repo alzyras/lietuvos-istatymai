@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D7491F2A71FE"
 pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 15, 16, 17, 19, 20, 29, 44 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 15, 16, 17, 19, 20, 29, 44 straipsnių pakeitimo įstatymas"
+  - "alkoholio kontrolės įstatymo 12, 15, 16, 17, 19, 20, 29, 44 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-04-05"
 latest_path: "latest/TAR.D7491F2A71FE.md"
 latest_sha256: "192b38ad2a703b7bfc3e3bfa408f6fde6bede1e2ef46e09bad8565e456bcf531"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D7491F2A71FE]]"
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 15, 16, 17, 19, 20, 29, 44 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D7491F2A71FE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D7491F2A71FE
+- Ryšiai: [[Ryšiai/TAR.D7491F2A71FE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 12 straipsnio pakeitimas
+### 1 straipsnis. 12 straipsnio pakeitimas ^s-df3198a7dc5a86c5fda739d0
 
 
 12 straipsnio 1 ir 2 dalyse vietoj žodžių „leidimą, leidimas, leidimuose“ atitinkamai įrašyti žodžius „licenciją, licencija, licencijose“, pakeisti 3 dalį ir šį straipsnį išdėstyti taip:
@@ -50,7 +55,7 @@ Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo bei Įmoni�
 
 
 
-### 2 straipsnis. 15 straipsnio pakeitimas
+### 2 straipsnis. 15 straipsnio pakeitimas ^s-bd12ba7e40d97136d94b4f30
 
 
 15 straipsnyje vietoj žodžio „leidimą“ įrašyti žodį „licenciją“ ir šį straipsnį išdėstyti taip:
@@ -63,7 +68,7 @@ Tik įmonėms, turinčioms Lietuvos Respublikos Vyriausybės ar jos pavedimu VTA
 
 
 
-### 3 straipsnis. 16 straipsnio 1 dalies 1 punkto pakeitimas
+### 3 straipsnis. 16 straipsnio 1 dalies 1 punkto pakeitimas ^s-aea44dcb19471413b4159581
 
 
 16 straipsnio 1 dalies 1 punkte vietoj žodžio „leidimą“ įrašyti žodį „licenciją“ ir šį punktą išdėstyti taip:
@@ -73,7 +78,7 @@ Tik įmonėms, turinčioms Lietuvos Respublikos Vyriausybės ar jos pavedimu VTA
 
 
 
-### 4 straipsnis. 17 straipsnio pakeitimas
+### 4 straipsnis. 17 straipsnio pakeitimas ^s-0090066c735e36291cf87ddb
 
 
 17 straipsnio pavadinime ir 1–4 dalyse vietoj žodžių „leidimų, leidimus, leidimai, leidimuose“ atitinkamai įrašyti žodžius „licencijų, licencijas, licencijos, licencijose“, pakeisti 5 dalį ir šį straipsnį išdėstyti taip:
@@ -98,7 +103,7 @@ Alkoholio produktų importo licencijavimo taisykles, remdamasi šiuo bei Įmoni�
 
 
 
-### 5 straipsnis. 19 straipsnio pakeitimas
+### 5 straipsnis. 19 straipsnio pakeitimas ^s-f0dc4b1d65cc14ec8cfd951e
 
 
 19 straipsnio pavadinime ir 1–5 dalyse vietoj žodžių „leidimai, leidimus, leidimą, leidimuose“ atitinkamai įrašyti žodžius „licencijos, licencijas, licenciją, licencijose“, pakeisti 6 dalį ir šį straipsnį išdėstyti taip:
@@ -126,10 +131,10 @@ Alkoholio produktų vidaus prekybos licencijavimo taisykles, remdamasi šiuo bei
 
 
 
-### 6 straipsnis. 20 straipsnio pakeitimas
+### 6 straipsnis. 20 straipsnio pakeitimas ^s-fbc73e1bfe23645b01649dd6
 
 
-1. 20 straipsnio 1 dalies 2, 10, 11, 14 punktuose vietoj žodžių „leidimus, leidimą, leidimas, leidimo, leidimai“ įrašyti atitinkamai žodžius „licencijas, licenciją, licencija, licencijos“ ir šiuos punktus išdėstyti taip: ^9586a0018f44e0cf1e257ce8
+1. 20 straipsnio 1 dalies 2, 10, 11, 14 punktuose vietoj žodžių „leidimus, leidimą, leidimas, leidimo, leidimai“ įrašyti atitinkamai žodžius „licencijas, licenciją, licencija, licencijos“ ir šiuos punktus išdėstyti taip: ^s-e6ff846ab50b89a9713cec84
 
 
 „2) tokių rūšių alkoholio produktus, taip pat alkoholinius gėrimus pagal jų grupes, kurie neįrašyti į licencijas juos gaminti, importuoti, realizuoti, ir alkoholio produktus, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais;“
@@ -138,13 +143,13 @@ Alkoholio produktų vidaus prekybos licencijavimo taisykles, remdamasi šiuo bei
 „10) distiliuoto etilo alkoholio gaminius, kurių tūrinė etilo alkoholio koncentracija didesnė kaip 50 procentų. Šis reikalavimas netaikomas UAB „Lietuviškas midus“ gaminamiems gėrimams, taip pat importuotiems (turint VTAKT išduotą licenciją) alkoholiniams gėrimams, pagamintiems natūralaus bičių medaus pagrindu;
 
 
-11) namų gamybos alkoholinius gėrimus, išskyrus alų, pagamintą pagal norminius dokumentus, kai turima nustatyta tvarka išduota licencija jį gaminti;“ ^c9c677b22717eb780b3ae1e5
+11) namų gamybos alkoholinius gėrimus, išskyrus alų, pagamintą pagal norminius dokumentus, kai turima nustatyta tvarka išduota licencija jį gaminti;“ ^s-4a603e725d97de34fcba906c
 
 
 „14) alkoholio produktus be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos;“.
 
 
-2. 20 straipsnio 3, 4, 5, 6 dalyse vietoj žodžių „leidimus, leidimuose“ atitinkamai įrašyti žodžius „licencijas, licencijose“ ir šias dalis išdėstyti taip: ^507e16e4f5b0f72414ce2722
+2. 20 straipsnio 3, 4, 5, 6 dalyse vietoj žodžių „leidimus, leidimuose“ atitinkamai įrašyti žodžius „licencijas, licencijose“ ir šias dalis išdėstyti taip: ^s-d5397008a67574450e0f61c4
 
 
 „Įmonėms draudžiama laikyti ir gabenti denatūruotą ir techninį etilo alkoholį, išskyrus įmones, turinčias licencijas juos gaminti, importuoti, bei įmones, įstaigas ir organizacijas, naudojančias denatūruotą ir techninį etilo alkoholį gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose. Įmonėms draudžiama laikyti ir gabenti nedenatūruotą etilo alkoholį, išskyrus įmones, turinčias licencijas jį gaminti, importuoti, verstis didmenine prekyba juo (aprūpinančias ūkio subjektus, naudojančius jį medicinos bei veterinarijos reikmėms), bei įmones, įstaigas ir organizacijas, naudojančias nedenatūruotą etilo alkoholį gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose.
@@ -170,41 +175,41 @@ Didmeninės prekybos įmonėms, turinčioms teisę parduoti alkoholinius gėrimu
 
 
 
-### 8 straipsnis. 44 straipsnio 2, 8, 10, 11, 12 ir 13 dalių pakeitimas
+### 8 straipsnis. 44 straipsnio 2, 8, 10, 11, 12 ir 13 dalių pakeitimas ^s-722602b2b77d2067e2da3a42
 
 
-1. 44 straipsnio 2 dalyje vietoj žodžio „leidimo“ įrašyti žodį „licencijos“ ir šią dalį išdėstyti taip: ^0b0163d2f88eae90ac690b7e
+1. 44 straipsnio 2 dalyje vietoj žodžio „leidimo“ įrašyti žodį „licencijos“ ir šią dalį išdėstyti taip: ^s-0731cd8986dc8dbaff521670
 
 
 „Įmonės, pagaminusios ir realizuojančios alkoholio produktus, neatitinkančius kokybės ar higienos normų reikalavimų, gaminančios, importuojančios, laikančios (saugančios), gabenančios alkoholio produktus ar jais prekiaujančios ir neturinčios šiai veiklai atitinkamos licencijos, taip pat nesilaikančios šio įstatymo 20 straipsnio pirmosios dalies 1–14 punktuose, antrojoje, trečiojoje, ketvirtojoje, penktojoje ir šeštojoje dalyse numatytų alkoholio produktų realizavimo, laikymo (saugojimo), gabenimo reikalavimų ar pažeidusios prekybos alkoholiniais gėrimais tvarką, privalo sumokėti iki 5 procentų jų metinės bendrosios apyvartos dydžio baudą.“
 
 
-2. 44 straipsnio 8 dalyje vietoj žodžio „leidimo“ įrašyti žodį „licencijos“ ir šią dalį išdėstyti taip: ^d40c17ce2942b2a131b8012b
+2. 44 straipsnio 8 dalyje vietoj žodžio „leidimo“ įrašyti žodį „licencijos“ ir šią dalį išdėstyti taip: ^s-3f55e88160714796efb27d41
 
 
 „Už kitus šio įstatymo pažeidimus, taip pat baudas už alkoholio produktų gamybą, importą, eksportą be šiai veiklai reikalingos licencijos, šio įstatymo 29 ir 30 straipsniuose numatytų reikalavimų nesilaikymą skiria VTAKT pareigūnai (baudas už išorinės reklamos pažeidimus skiria savivaldybės).“
 
 
-3. 44 straipsnio 10 dalyje vietoj žodžių „leidimus, leidimų, leidimai“ atitinkamai įrašyti žodžius „licencijas, licencijų, licencijos“ ir šią dalį išdėstyti taip: ^b45516333f103e8cf6579663
+3. 44 straipsnio 10 dalyje vietoj žodžių „leidimus, leidimų, leidimai“ atitinkamai įrašyti žodžius „licencijas, licencijų, licencijos“ ir šią dalį išdėstyti taip: ^s-2445ceca2fe60ef2bf0a9de1
 
 
 
 „Įmonėms, turinčioms licencijas importuoti alkoholio produktus, užsiimti vidaus prekyba alkoholio produktais ir nesilaikančioms šio įstatymo 20 straipsnio pirmosios dalies 1, 2, 4, 5, 6, 8–12 punktų, antrosios ir trečiosios dalių reikalavimų, licencijų galiojimas panaikinamas ir naujos licencijos neišduodamos penkerius metus nuo licencijų galiojimo panaikinimo dienos.“
 
 
-4. 44 straipsnio 11 dalyje vietoj žodžių „leidimų, leidimai“ atitinkamai įrašyti žodžius „licencijų, licencijos“ ir šią dalį išdėstyti taip: ^092967965986a34f134c509c
+4. 44 straipsnio 11 dalyje vietoj žodžių „leidimų, leidimai“ atitinkamai įrašyti žodžius „licencijų, licencijos“ ir šią dalį išdėstyti taip: ^s-77461371ad63408564e31c32
 
 
 „Įmonėms panaikinamas licencijų galiojimas ir pakartotinai licencijos neišduodamos, jeigu joms arba jų vadovams ar darbuotojams (jeigu jie veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, mokesčių inspekcijos, policijos ar VTAKT nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar realizavimą, taip pat falsifikuotų alkoholio produktų realizavimą, gabenimą ar laikymą turint tikslą realizuoti.“
 
 
-5. 44 straipsnio 12 dalyje vietoj žodžio „leidimų“ įrašyti žodį „licencijų“ ir šią dalį išdėstyti taip: ^86b7e017dbe88e0bc505b279
+5. 44 straipsnio 12 dalyje vietoj žodžio „leidimų“ įrašyti žodį „licencijų“ ir šią dalį išdėstyti taip: ^s-92a0ceb74e94bd0ca295c19b
 
 
 „Įmonėms, kurioms panaikinamas licencijų galiojimas pagal šio straipsnio vienuoliktosios dalies reikalavimus, taip pat draudžiama verstis bet kokia prekybine veikla. Šis draudimas įgyvendinamas, vadovaujantis Prekybos įstatymo 7(1) straipsnio nustatyta tvarka.“
 
 
-6. 44 straipsnio 13 dalyje vietoj žodžio „leidimų“ įrašyti žodį „licencijų“ ir šią dalį išdėstyti taip: ^d4605524a75a3327178b717e
+6. 44 straipsnio 13 dalyje vietoj žodžio „leidimų“ įrašyti žodį „licencijų“ ir šią dalį išdėstyti taip: ^s-309264e4930364740bf9b91b
 
 
 „Licencijų panaikinimas neatleidžia įmonių nuo šio straipsnio antrojoje, trečiojoje ir ketvirtojoje dalyse nurodytų ir įmonėms skirtų piniginių baudų sumokėjimo.“

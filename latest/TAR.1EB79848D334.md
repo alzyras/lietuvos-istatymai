@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1EB79848D334"
 pavadinimas: "Lietuvos Respublikos farmacijos įstatymo 2, 4, 9, 12, 14, 17, 20, 23, 27, 33, 39, 55, 57, 62, 64 straipsnių pakeitimo ir įstatymo priedo papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos farmacijos įstatymo 2, 4, 9, 12, 14, 17, 20, 23, 27, 33, 39, 55, 57, 62, 64 straipsnių pakeitimo ir įstatymo priedo papildymo įstatymas"
+  - "farmacijos įstatymo 2, 4, 9, 12, 14, 17, 20, 23, 27, 33, 39, 55, 57, 62, 64 straipsnių pakeitimo ir įstatymo priedo papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.1EB79848D334.md"
 latest_sha256: "1934ddd2f294819c02666b15f4b3045682f06a3e4ee13e007c06a4cb35394dd9"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1EB79848D334]]"
 ---
 # Lietuvos Respublikos farmacijos įstatymo 2, 4, 9, 12, 14, 17, 20, 23, 27, 33, 39, 55, 57, 62, 64 straipsnių pakeitimo ir įstatymo priedo papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1EB79848D334.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1EB79848D334
+- Ryšiai: [[Ryšiai/TAR.1EB79848D334|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -36,23 +41,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 63 ir 64 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 63 ir 64 dalių pakeitimas ^s-21018979451698dde877aa45
 
 
-1. Pakeisti 2 straipsnio 63 dalį ir ją išdėstyti taip: ^19c02ebf5b0ecf14a177a44f
+1. Pakeisti 2 straipsnio 63 dalį ir ją išdėstyti taip: ^s-03fac697bca88767e82fb723
 
 
 „63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas (toliau – rinkodaros pažymėjimo sąlygų keitimas) – keitimas, kaip nurodyta 2008 m. lapkričio 24 d. Europos Komisijos reglamento (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimų nagrinėjimo (toliau – Reglamentas (EB) Nr. 1234/2008) 2 straipsnio 1 dalyje, (toliau – reglamentinis rinkodaros pažymėjimo sąlygų keitimas, reglamentinis keitimas) arba prie reglamentinių keitimų nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro.“
 
 
-2. Pakeisti 2 straipsnio 64 dalį ir ją išdėstyti taip: ^6caee81604a8d10fd58eb385
+2. Pakeisti 2 straipsnio 64 dalį ir ją išdėstyti taip: ^s-0c1c2c328ac89b6016a9a751
 
 
 „64. Vaistinio preparato rinkodaros pažymėjimo sąlygų papildymas (toliau – rinkodaros pažymėjimo sąlygų papildymas) – reglamentinis keitimas, kaip nurodyta Reglamento (EB) Nr. 1234/2008 2 straipsnio 4 dalyje.“
 
 
 
-### 2 straipsnis. 4 straipsnio 6 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 6 dalies pakeitimas ^s-7809c8880a33876057fc9aca
 
 
 Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
@@ -62,23 +67,23 @@ Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 9 straipsnio 2 ir 3 dalių pakeitimas
+### 3 straipsnis. 9 straipsnio 2 ir 3 dalių pakeitimas ^s-a3a016d58aff2199ae3420e6
 
 
-1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip: ^d942812e4c12c59ce198e313
+1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f4e60cd12ffde8e80bdfefeb
 
 
 „2. Lietuvos Respublikoje vaistinių preparatų rinkodaros ir registracijos pažymėjimus išduoda, vaistinius preparatus perregistruoja, pažymėjimų sąlygų keitimus nagrinėja ir tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą sveikatos apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Reglamentiniai rinkodaros pažymėjimo sąlygų keitimai nagrinėjami ir tvirtinami Reglamento (EB) Nr. 1234/2008 nustatyta tvarka.“
 
 
-2. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^84def5eb7118a1cd32028cf9
+2. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f496e115403c174e769b8605
 
 
-„3. Rinkodaros teisė išduodant atskirą vaistinio preparato rinkodaros pažymėjimą suteikiama tam tikro stiprumo ir farmacinės formos vaistiniam preparatui. Rinkodaros teisė, pirmąjį kartą suteikta dėl vaistinio preparato, ir rinkodaros teisė, suteikta dėl kitų šio vaistinio preparato stiprumų, farmacinių formų, vartojimo būdų, pateikčių (pvz., dozuočių skaičius pakuotėje ir pakuotės dizainas), rinkodaros pažymėjimo sąlygų keitimų priskiriamos tai pačiai bendrajai rinkodaros teisei. Šio įstatymo [[#11 straipsnis. 39 straipsnio papildymas 9 punktu|11 straipsnio]] 5 ir 6 dalyse nurodyti duomenų ir rinkos išskirtinumo periodai skaičiuojami nuo pirmosios rinkodaros teisės suteikimo dienos (toliau – pradinė rinkodaros teisė).“
+„3. Rinkodaros teisė išduodant atskirą vaistinio preparato rinkodaros pažymėjimą suteikiama tam tikro stiprumo ir farmacinės formos vaistiniam preparatui. Rinkodaros teisė, pirmąjį kartą suteikta dėl vaistinio preparato, ir rinkodaros teisė, suteikta dėl kitų šio vaistinio preparato stiprumų, farmacinių formų, vartojimo būdų, pateikčių (pvz., dozuočių skaičius pakuotėje ir pakuotės dizainas), rinkodaros pažymėjimo sąlygų keitimų priskiriamos tai pačiai bendrajai rinkodaros teisei. Šio įstatymo [[#^s-ec0e79167be5aca04cb15661|11 straipsnio]] 5 ir 6 dalyse nurodyti duomenų ir rinkos išskirtinumo periodai skaičiuojami nuo pirmosios rinkodaros teisės suteikimo dienos (toliau – pradinė rinkodaros teisė).“
 
 
 
-### 4 straipsnis. 12 straipsnio 7 dalies pakeitimas
+### 4 straipsnis. 12 straipsnio 7 dalies pakeitimas ^s-1ce2fc0615fd75cf08bb2a19
 
 
 Pakeisti 12 straipsnio 7 dalį ir ją išdėstyti taip:
@@ -88,7 +93,7 @@ Pakeisti 12 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 14 straipsnio 3 dalies pakeitimas
+### 5 straipsnis. 14 straipsnio 3 dalies pakeitimas ^s-c7b4e0961f9d41943ed416fb
 
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -98,143 +103,143 @@ Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 17 straipsnio pakeitimas
+### 6 straipsnis. 17 straipsnio pakeitimas ^s-c746932cbb2b18fbaecd1eda
 
 
-Pakeisti [[#17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|17 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-3404ef3b0cfd4bd750910786|17 straipsnį]] ir jį išdėstyti taip:
 
 
 
-„[[#17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas|17 straipsnis]]. Vaistinių preparatų lygiagretus importas
+„[[#^s-3404ef3b0cfd4bd750910786|17 straipsnis]]. Vaistinių preparatų lygiagretus importas
 
 
-1. Į Lietuvos Respubliką gali būti lygiagrečiai importuojami vaistiniai preparatai, kurie įregistruoti Lygiagrečiai importuojamų vaistinių preparatų sąraše ir dėl kurių išduotas lygiagretaus importo leidimas. ^739456f34c9ad93e766a1ac1
+1. Į Lietuvos Respubliką gali būti lygiagrečiai importuojami vaistiniai preparatai, kurie įregistruoti Lygiagrečiai importuojamų vaistinių preparatų sąraše ir dėl kurių išduotas lygiagretaus importo leidimas. ^s-2733d74ba350105c866cbdb6
 
 
-2. Šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka Valstybinė vaistų kontrolės tarnyba tvarko Lygiagrečiai importuojamų vaistinių preparatų sąrašą, registruoja lygiagrečiai importuojamus vaistinius preparatus ir išduoda lygiagretaus importo leidimus, tvirtina lygiagretaus importo leidimų sąlygų keitimus ir sustabdo leidimų galiojimą, panaikina galiojimo sustabdymą ir leidimų galiojimą. ^7b3625d0d4ae6e2026d6b5e4
+2. Šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka Valstybinė vaistų kontrolės tarnyba tvarko Lygiagrečiai importuojamų vaistinių preparatų sąrašą, registruoja lygiagrečiai importuojamus vaistinius preparatus ir išduoda lygiagretaus importo leidimus, tvirtina lygiagretaus importo leidimų sąlygų keitimus ir sustabdo leidimų galiojimą, panaikina galiojimo sustabdymą ir leidimų galiojimą. ^s-237a6f628d21bfde2c11ba16
 
 
-3. Lygiagretaus importo leidimas gali būti išduodamas vaistiniam preparatui, kuris yra tapatus Lietuvos Respublikoje registruotam vaistiniam preparatui ar pakankamai į jį panašus. ^55fbabe2a4cf2d191b05583c
+3. Lygiagretaus importo leidimas gali būti išduodamas vaistiniam preparatui, kuris yra tapatus Lietuvos Respublikoje registruotam vaistiniam preparatui ar pakankamai į jį panašus. ^s-1b8ed270772a1f20f2019433
 
 
-4. Vaistinis preparatas laikomas pakankamai panašiu į Lietuvos Respublikoje registruotą vaistinį preparatą, jeigu atitinka šiuos kriterijus: ^0afb11522736bd240852bb03
+4. Vaistinis preparatas laikomas pakankamai panašiu į Lietuvos Respublikoje registruotą vaistinį preparatą, jeigu atitinka šiuos kriterijus: ^s-8cee05b786de8f30f540b8fb
 
 
-1) ta pati veiklioji medžiaga ir ta pati jos druska, tas pats esteris, eteris, izomeras, izomerų mišinys, kompleksas ar darinys; ^7ccb8da8ad46c2173a8bea0d
+1) ta pati veiklioji medžiaga ir ta pati jos druska, tas pats esteris, eteris, izomeras, izomerų mišinys, kompleksas ar darinys; ^s-416e88e887b1d805de7d1ab1
 
 
-2) tas pats stiprumas; ^0e0159ae15dd156d2d59bd0f
+2) tas pats stiprumas; ^s-7ead806e33e49f668adbbd79
 
 
-3) ta pati farmacinė forma ir vartojimo būdas; ^144feeb6eabc9ca147e50b19
+3) ta pati farmacinė forma ir vartojimo būdas; ^s-69acaf67ca17c877f2f1574e
 
 
-4) tokios pat klinikinės savybės; jeigu lygiagrečiai importuojamas vaistinis preparatas yra generinis preparatas, jis turi būti bioekvivalentiškas Lietuvos Respublikoje registruotam referenciniam vaistiniam preparatui. Jeigu lygiagrečiai importuojamas generinis preparatas yra lyginamas su Lietuvoje registruotu generiniu preparatu, abu šie preparatai turi būti bioekvivalentiški tam pačiam referenciniam preparatui. ^adba35eb7f543269301b7238
+4) tokios pat klinikinės savybės; jeigu lygiagrečiai importuojamas vaistinis preparatas yra generinis preparatas, jis turi būti bioekvivalentiškas Lietuvos Respublikoje registruotam referenciniam vaistiniam preparatui. Jeigu lygiagrečiai importuojamas generinis preparatas yra lyginamas su Lietuvoje registruotu generiniu preparatu, abu šie preparatai turi būti bioekvivalentiški tam pačiam referenciniam preparatui. ^s-10f3125d7629d8ea1b1a7cd7
 
 
-5. Priėmus sprendimą įregistruoti vaistinį preparatą, Valstybinė vaistų kontrolės tarnyba: ^efd3f94a6f45888377f57515
+5. Priėmus sprendimą įregistruoti vaistinį preparatą, Valstybinė vaistų kontrolės tarnyba: ^s-0db3a6e013cc86e0b3f8fc03
 
 
-1) priskiria lygiagrečiai importuojamą vaistinį preparatą nereceptiniams ar receptiniams vaistiniams preparatams; ^eb23934b227f8258c1e480be
+1) priskiria lygiagrečiai importuojamą vaistinį preparatą nereceptiniams ar receptiniams vaistiniams preparatams; ^s-b009fb98afe3879184db312c
 
 
-2) išduoda lygiagretaus importo leidimą su šiais priedais: pakuotės ženklinimu ir pakuotės lapeliu; ^e027705cefb6268b063700ab
+2) išduoda lygiagretaus importo leidimą su šiais priedais: pakuotės ženklinimu ir pakuotės lapeliu; ^s-12b8569a9882884daa2d0f25
 
 
-3) įrašo vaistinį preparatą į Lygiagrečiai importuojamų vaistinių preparatų sąrašą. ^f8cbcda09c1107345c634d84
+3) įrašo vaistinį preparatą į Lygiagrečiai importuojamų vaistinių preparatų sąrašą. ^s-c20d3a0be7137ab185bc4daf
 
 
-6. Vaistinio preparato lygiagretaus importo leidimas gali būti išduodamas tik juridiniam asmeniui, gavusiam šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją. ^0bb2dd4835596b0d8fdfa18e
+6. Vaistinio preparato lygiagretaus importo leidimas gali būti išduodamas tik juridiniam asmeniui, gavusiam šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją. ^s-f15528abe5ea8f147f4cc9a8
 
 
-7. Vaistinio preparato lygiagretaus importo leidimas išduodamas arba motyvuotas atsisakymas jį išduoti priimamas ne vėliau kaip per 45 dienas nuo paraiškos ir dokumentų, pateiktų pagal sveikatos apsaugos ministro nustatytus reikalavimus, priėmimo dienos. Valstybinė vaistų kontrolės tarnyba, prieš priimdama sprendimą, turi kreiptis į EEE valstybės, iš kurios numatoma lygiagrečiai importuoti vaistinį preparatą, kompetentingą instituciją, prašydama pateikti duomenis ir informaciją, susijusią su vaistinio preparato registracija. Taip pat ji turi teisę prašyti pareiškėją pateikti papildomų su paraiška gauti lygiagretaus importo leidimą susijusių duomenų (informacijos), kuriais nedisponuoja arba negali disponuoti Valstybinė vaistų kontrolės tarnyba, nes jie nėra jai pateikti vaistinio preparato, su kuriuo lyginamas lygiagrečiai importuojamas vaistinis preparatas, rinkodaros teisės turėtojo arba negali būti gauti bendradarbiaujant su EEE valstybės, iš kurios numatoma lygiagrečiai importuoti vaistinį preparatą, kompetentinga institucija. Laikas, per kurį kitos EEE valstybės, kurioje registruotas numatomas lygiagrečiai importuoti vaistinis preparatas, įgaliota institucija pateikia Valstybinės vaistų kontrolės tarnybos paprašytus papildomus dokumentus ir per kurį pareiškėjas pateikia Valstybinės vaistų kontrolės tarnybos pareikalautus papildomus duomenis (informaciją) ir prireikus paaiškinimus raštu, į paraiškos nagrinėjimo laiką neįskaičiuojamas. ^8283cc06cd4a33140d27e89e
+7. Vaistinio preparato lygiagretaus importo leidimas išduodamas arba motyvuotas atsisakymas jį išduoti priimamas ne vėliau kaip per 45 dienas nuo paraiškos ir dokumentų, pateiktų pagal sveikatos apsaugos ministro nustatytus reikalavimus, priėmimo dienos. Valstybinė vaistų kontrolės tarnyba, prieš priimdama sprendimą, turi kreiptis į EEE valstybės, iš kurios numatoma lygiagrečiai importuoti vaistinį preparatą, kompetentingą instituciją, prašydama pateikti duomenis ir informaciją, susijusią su vaistinio preparato registracija. Taip pat ji turi teisę prašyti pareiškėją pateikti papildomų su paraiška gauti lygiagretaus importo leidimą susijusių duomenų (informacijos), kuriais nedisponuoja arba negali disponuoti Valstybinė vaistų kontrolės tarnyba, nes jie nėra jai pateikti vaistinio preparato, su kuriuo lyginamas lygiagrečiai importuojamas vaistinis preparatas, rinkodaros teisės turėtojo arba negali būti gauti bendradarbiaujant su EEE valstybės, iš kurios numatoma lygiagrečiai importuoti vaistinį preparatą, kompetentinga institucija. Laikas, per kurį kitos EEE valstybės, kurioje registruotas numatomas lygiagrečiai importuoti vaistinis preparatas, įgaliota institucija pateikia Valstybinės vaistų kontrolės tarnybos paprašytus papildomus dokumentus ir per kurį pareiškėjas pateikia Valstybinės vaistų kontrolės tarnybos pareikalautus papildomus duomenis (informaciją) ir prireikus paaiškinimus raštu, į paraiškos nagrinėjimo laiką neįskaičiuojamas. ^s-86352f398e82f922a9ab1351
 
 
-8. Lygiagretaus importo leidimas išduodamas neterminuotam laikui. ^860913a0d3cbf8ffa47da6a0
+8. Lygiagretaus importo leidimas išduodamas neterminuotam laikui. ^s-cc2423f84462312a763d0361
 
 
-9. Už paraiškos registruoti lygiagrečiai importuojamą vaistinį preparatą ar pakeisti lygiagretaus importo leidimo sąlygas, kartu pateiktų dokumentų ir informacijos ekspertizę, taip pat lygiagretaus importo leidimo ir ekspertizės pažymos išdavimą mokama valstybės rinkliava. ^19cbf9c29587bb9ecf0d534e
+9. Už paraiškos registruoti lygiagrečiai importuojamą vaistinį preparatą ar pakeisti lygiagretaus importo leidimo sąlygas, kartu pateiktų dokumentų ir informacijos ekspertizę, taip pat lygiagretaus importo leidimo ir ekspertizės pažymos išdavimą mokama valstybės rinkliava. ^s-36f9427294a2de5585c1c93c
 
 
-10. Lygiagrečiai importuoti vaistinį preparatą į Lietuvos Respubliką turi teisę tik šio vaistinio preparato lygiagretaus importo leidimo turėtojas. ^e7199cea552438e0a839a867
+10. Lygiagrečiai importuoti vaistinį preparatą į Lietuvos Respubliką turi teisę tik šio vaistinio preparato lygiagretaus importo leidimo turėtojas. ^s-eecfdafa6916b443296268cd
 
 
-11. Lygiagretaus importo leidimo turėtojas apie ketinimą lygiagrečiai importuoti vaistinį preparatą ne vėliau kaip prieš 15 darbo dienų iki numatomo pirmojo importo turi pranešti raštu šio vaistinio preparato rinkodaros teisės turėtojui ir Valstybinei vaistų kontrolės tarnybai. Lygiagretaus importo leidimo turėtojas apie atliktą lygiagrečiai importuojamo vaistinio preparato perpakavimą turi pranešti raštu vaistinio preparato prekės ženklo turėtojui arba jo teisių perėmėjui ne vėliau kaip prieš 15 darbo dienų iki numatomo pirmojo perpakuoto vaistinio preparato pateikimo rinkai ir prekės ženklo ar jo teisių perėmėjo prašymu pateikti perpakuoto vaistinio preparato pavyzdį susipažinimui. ^b12f44d6bdd6228b54a7e9ac
+11. Lygiagretaus importo leidimo turėtojas apie ketinimą lygiagrečiai importuoti vaistinį preparatą ne vėliau kaip prieš 15 darbo dienų iki numatomo pirmojo importo turi pranešti raštu šio vaistinio preparato rinkodaros teisės turėtojui ir Valstybinei vaistų kontrolės tarnybai. Lygiagretaus importo leidimo turėtojas apie atliktą lygiagrečiai importuojamo vaistinio preparato perpakavimą turi pranešti raštu vaistinio preparato prekės ženklo turėtojui arba jo teisių perėmėjui ne vėliau kaip prieš 15 darbo dienų iki numatomo pirmojo perpakuoto vaistinio preparato pateikimo rinkai ir prekės ženklo ar jo teisių perėmėjo prašymu pateikti perpakuoto vaistinio preparato pavyzdį susipažinimui. ^s-fb6d52e9550bcf595671530c
 
 
-12. Pagrindinės lygiagretaus importo leidimo turėtojo pareigos: ^935d80ac37caca62a644947c
+12. Pagrindinės lygiagretaus importo leidimo turėtojo pareigos: ^s-401bdc45e4277d4294170de9
 
 
-1) registruoti visas įtariamas nepageidaujamas reakcijas, įskaitant įtariamus sunkius nepageidaujamų reakcijų padarinius, pasireiškusius Lietuvos Respublikoje, ir pranešti apie jas Valstybinei vaistų kontrolės tarnybai šio įstatymo 55 straipsnio 1 dalies 2 ir [[#^b19f794de56f1d25e9d2d268|3 punktuose]] nustatyta tvarka; ^a06d87d916d9b58a09cec7c3
+1) registruoti visas įtariamas nepageidaujamas reakcijas, įskaitant įtariamus sunkius nepageidaujamų reakcijų padarinius, pasireiškusius Lietuvos Respublikoje, ir pranešti apie jas Valstybinei vaistų kontrolės tarnybai šio įstatymo 55 straipsnio 1 dalies 2 ir [[#^s-f39855c1da073d57018173f8|3 punktuose]] nustatyta tvarka; ^s-32f0dcbb3e4f2d068241689b
 
 
-2) užtikrinti, kad būtų lygiagrečiai importuojamas vaistinis preparatas (jo serijos), kurio registracija galioja eksportuojančioje šalyje; ^ccf422c52f4421c78b46f99e
+2) užtikrinti, kad būtų lygiagrečiai importuojamas vaistinis preparatas (jo serijos), kurio registracija galioja eksportuojančioje šalyje; ^s-faa2732ca6395cdb578507a7
 
 
-3) prieš tiekiant rinkai imuninių ir (ar) kraujo preparatų serijas, pateikti Valstybinei vaistų kontrolės tarnybai EEE valstybės oficialios kontrolės institucijos išduoto serijos išleidimo pažymėjimo kopiją; ^b19f794de56f1d25e9d2d268
+3) prieš tiekiant rinkai imuninių ir (ar) kraujo preparatų serijas, pateikti Valstybinei vaistų kontrolės tarnybai EEE valstybės oficialios kontrolės institucijos išduoto serijos išleidimo pažymėjimo kopiją; ^s-f39855c1da073d57018173f8
 
 
-4) jei sustabdomas lygiagretaus importo leidimo galiojimas, nedelsiant (bet ne vėliau kaip per 5 darbo dienas) apie tai pranešti kitoms didmeninio platinimo įmonėms, vaistinėms ir sveikatos priežiūros įstaigoms, įsigijusioms šio preparato; ^f74f32e05bc7d10fd97cab1a
+4) jei sustabdomas lygiagretaus importo leidimo galiojimas, nedelsiant (bet ne vėliau kaip per 5 darbo dienas) apie tai pranešti kitoms didmeninio platinimo įmonėms, vaistinėms ir sveikatos priežiūros įstaigoms, įsigijusioms šio preparato; ^s-b5166dc3e6aae83e6831a44f
 
 
-5) jei panaikinamas lygiagretaus importo leidimo galiojimas ir preparatas išbraukiamas iš Lygiagrečiai importuojamų vaistinių preparatų sąrašo, bendradarbiaujant su kitomis didmeninio platinimo įmonėmis nedelsiant atšaukti vaistinį preparatą iš rinkos. Kai dėl priežasčių, nesusijusių su vaistinio preparato kokybe, saugumu ar veiksmingumu, panaikinamas lygiagrečiai importuojamo vaistinio preparato rinkodaros teisės galiojimas eksportuojančioje valstybėje, lygiagretaus importo leidimas galioja ir lygiagrečiai importuojamas vaistinis preparatas nėra išbraukiamas iš Lygiagrečiai importuojamų vaistinių preparatų sąrašo tol, kol pasibaigia Valstybinės vaistų kontrolės tarnybos nustatytas protingas terminas išparduoti lygiagrečiai importuojamo vaistinio preparato atsargas; ^f298aad13cad082801b35850
+5) jei panaikinamas lygiagretaus importo leidimo galiojimas ir preparatas išbraukiamas iš Lygiagrečiai importuojamų vaistinių preparatų sąrašo, bendradarbiaujant su kitomis didmeninio platinimo įmonėmis nedelsiant atšaukti vaistinį preparatą iš rinkos. Kai dėl priežasčių, nesusijusių su vaistinio preparato kokybe, saugumu ar veiksmingumu, panaikinamas lygiagrečiai importuojamo vaistinio preparato rinkodaros teisės galiojimas eksportuojančioje valstybėje, lygiagretaus importo leidimas galioja ir lygiagrečiai importuojamas vaistinis preparatas nėra išbraukiamas iš Lygiagrečiai importuojamų vaistinių preparatų sąrašo tol, kol pasibaigia Valstybinės vaistų kontrolės tarnybos nustatytas protingas terminas išparduoti lygiagrečiai importuojamo vaistinio preparato atsargas; ^s-219704dc73a0387663f697d9
 
 
-6) vykdyti Valstybinės vaistų kontrolės tarnybos nurodymus, susijusius su lygiagrečiai importuojamu vaistiniu preparatu dėl lygiagretaus importo leidimo sąlygų keitimo ir lygiagrečiai importuojamo vaistinio preparato serijų atšaukimo iš rinkos. ^f97ccae5998b3025e1e28a1a
+6) vykdyti Valstybinės vaistų kontrolės tarnybos nurodymus, susijusius su lygiagrečiai importuojamu vaistiniu preparatu dėl lygiagretaus importo leidimo sąlygų keitimo ir lygiagrečiai importuojamo vaistinio preparato serijų atšaukimo iš rinkos. ^s-c4312d6b75215919e43f9bce
 
 
-13. Kitus reikalavimus, susijusius su lygiagrečiu importu, ir kitas lygiagretaus importo leidimo turėtojo pareigas nustato sveikatos apsaugos ministras. ^36accfe364661fa2ced465d0
+13. Kitus reikalavimus, susijusius su lygiagrečiu importu, ir kitas lygiagretaus importo leidimo turėtojo pareigas nustato sveikatos apsaugos ministras. ^s-35aab8542ffe21ac5fd2c649
 
 
-14. Informacija apie pateiktas paraiškas registruoti lygiagrečiai importuojamus vaistinius preparatus ar registravimo sąlygų pakeitimus tol, kol nepriimtas sprendimas, yra konfidenciali ir neskelbiama, išskyrus atvejus, kai Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai reikalauja šią informaciją atskleisti.“ ^6fcd8ffcaea2720b370dbebd
+14. Informacija apie pateiktas paraiškas registruoti lygiagrečiai importuojamus vaistinius preparatus ar registravimo sąlygų pakeitimus tol, kol nepriimtas sprendimas, yra konfidenciali ir neskelbiama, išskyrus atvejus, kai Lietuvos Respublikos įstatymai arba Europos Sąjungos teisės aktai reikalauja šią informaciją atskleisti.“ ^s-fca3f7494c3c175a3cf43b5d
 
 
 
-### 7 straipsnis. 20 straipsnio 2 ir 6 dalių pakeitimas
+### 7 straipsnis. 20 straipsnio 2 ir 6 dalių pakeitimas ^s-0c03a9829f348149c9727b3b
 
 
-1. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^df45e08e08fc9d1e9b87134e
+1. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^s-ca2032ed793f3783f2b58a28
 
 
 „2. Valstybinės vaistų kontrolės tarnybos darbuotojai, atliekantys kontrolės veiksmus, turi nuvykti į paraiškoje deklaruotą veiklos vietą patikrinti pateiktų duomenų ir informacijos tikslumo ir teisingumo, įvertinti, ar juridinis asmuo teisės aktų nustatyta tvarka yra pasirengęs vykdyti farmacinę veiklą, išskyrus atvejus, kai pateikiama vaistinės ar gamybinės vaistinės veiklos licencijos paraiška.“
 
 
-2. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: ^da8766d40cb6bd6c942284a5
+2. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: ^s-2c7a34869dfdba283d408e99
 
 
 „6. Valstybinė vaistų kontrolės tarnyba apie licencijų išdavimą, keitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos panaikinimą praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, paskelbia Valstybinės vaistų kontrolės tarnybos interneto svetainėje.“
 
 
 
-### 8 straipsnis. 23 straipsnio 1 ir 2 dalių pakeitimas
+### 8 straipsnis. 23 straipsnio 1 ir 2 dalių pakeitimas ^s-17d781f1e63387181b7e984f
 
 
-1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip: ^7b0f870ab4d393c7e928161d
+1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip: ^s-0c7fcb6513b51e6b22a000ab
 
 
 „1. Licencijos galiojimas sustabdomas, jeigu:
 
 
-1) vykdoma veikla neatitinka licencijos informacijos ir duomenų, nesilaikoma licencijuojamos veiklos sąlygų; ^5e2656eb0ae03ad1097f0947
+1) vykdoma veikla neatitinka licencijos informacijos ir duomenų, nesilaikoma licencijuojamos veiklos sąlygų; ^s-779d30431218b1309412aea4
 
 
-2) licencijos turėtojas Valstybinei vaistų kontrolės tarnybai pateikia prašymą sustabdyti licencijos galiojimą.“ ^96d0b08e8245fd97f27f31a5
+2) licencijos turėtojas Valstybinei vaistų kontrolės tarnybai pateikia prašymą sustabdyti licencijos galiojimą.“ ^s-37c48ddde14859a1e648523f
 
 
-2. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip: ^cc14559cf131a134a12152f8
+2. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip: ^s-dd2fa1e7395dd02672716648
 
 
 „2. Licencijos galiojimo sustabdymas panaikinamas, kai:
 
 
-1) Valstybinė vaistų kontrolės tarnyba, gavusi licencijos turėtojo raštišką pranešimą apie pašalintus licencijuojamos veiklos sąlygų pažeidimus, nustato, kad pareiškėjas iš tikrųjų pašalino nurodytus pažeidimus; ^f1a0ba4a27f9444baf49272b
+1) Valstybinė vaistų kontrolės tarnyba, gavusi licencijos turėtojo raštišką pranešimą apie pašalintus licencijuojamos veiklos sąlygų pažeidimus, nustato, kad pareiškėjas iš tikrųjų pašalino nurodytus pažeidimus; ^s-71ae57318f3a089f899fef09
 
 
-2) licencijos galiojimas buvo sustabdytas licencijos turėtojo prašymu ir kai Valstybinė vaistų kontrolės tarnyba gauna licencijos turėtojo prašymą panaikinti licencijos galiojimo sustabdymą.“ ^8cdc265289c90f94ce0446b0
+2) licencijos galiojimas buvo sustabdytas licencijos turėtojo prašymu ir kai Valstybinė vaistų kontrolės tarnyba gauna licencijos turėtojo prašymą panaikinti licencijos galiojimo sustabdymą.“ ^s-89d51cc10cb4388850c5f832
 
 
 
-### 9 straipsnis. 27 straipsnio 4 punkto pakeitimas
+### 9 straipsnis. 27 straipsnio 4 punkto pakeitimas ^s-29f89dd462163e3af6f9aa92
 
 
 Pakeisti 27 straipsnio 4 punktą ir jį išdėstyti taip:
@@ -244,7 +249,7 @@ Pakeisti 27 straipsnio 4 punktą ir jį išdėstyti taip:
 
 
 
-### 10 straipsnis. 33 straipsnio 17 punkto pakeitimas
+### 10 straipsnis. 33 straipsnio 17 punkto pakeitimas ^s-0955830742ff14e6bd6274b0
 
 
 Pakeisti 33 straipsnio 17 punktą ir jį išdėstyti taip:
@@ -255,7 +260,7 @@ Pakeisti 33 straipsnio 17 punktą ir jį išdėstyti taip:
 
 
 
-### 11 straipsnis. 39 straipsnio papildymas 9 punktu
+### 11 straipsnis. 39 straipsnio papildymas 9 punktu ^s-ec0e79167be5aca04cb15661
 
 
 Papildyti 39 straipsnį 9 punktu:
@@ -265,7 +270,7 @@ Papildyti 39 straipsnį 9 punktu:
 
 
 
-### 12 straipsnis. 55 straipsnio 5 dalies pakeitimas
+### 12 straipsnis. 55 straipsnio 5 dalies pakeitimas ^s-ea1d60f3af2b3df9dd5e90a3
 
 
 Pakeisti 55 straipsnio 5 dalį ir ją išdėstyti taip:
@@ -275,7 +280,7 @@ Pakeisti 55 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-### 13 straipsnis. 57 straipsnio pakeitimas
+### 13 straipsnis. 57 straipsnio pakeitimas ^s-50762d77d2dd5ad2676402ba
 
 
 Pakeisti 57 straipsnį ir jį išdėstyti taip:
@@ -285,20 +290,20 @@ Pakeisti 57 straipsnį ir jį išdėstyti taip:
 „57 straipsnis. Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių kainodaros bendrieji reikalavimai
 
 
-1. Sveikatos apsaugos ministras tvirtina bazines ir didžiausias mažmenines kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainas. Vieną kartą per metus jos skelbiamos Kompensuojamųjų vaistinių preparatų kainyne ir Kompensuojamųjų medicinos pagalbos priemonių kainyne. Šie kainynai papildomi ir (ar) patikslinami ne rečiau kaip kartą per ketvirtį. Visi kainynai ir jų papildymai skelbiami leidinyje „Valstybės žinios“. Kainynai įsigalioja po vieno mėnesio nuo jų paskelbimo, jų papildymai ir (ar) patikslinimai – teisės aktų nustatyta tvarka. ^ecfd338c35f7488017151a16
+1. Sveikatos apsaugos ministras tvirtina bazines ir didžiausias mažmenines kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainas. Vieną kartą per metus jos skelbiamos Kompensuojamųjų vaistinių preparatų kainyne ir Kompensuojamųjų medicinos pagalbos priemonių kainyne. Šie kainynai papildomi ir (ar) patikslinami ne rečiau kaip kartą per ketvirtį. Visi kainynai ir jų papildymai skelbiami leidinyje „Valstybės žinios“. Kainynai įsigalioja po vieno mėnesio nuo jų paskelbimo, jų papildymai ir (ar) patikslinimai – teisės aktų nustatyta tvarka. ^s-0b8a0d5cacff449f148c1d1a
 
 
-2. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių didžiausios mažmeninės kainos skaičiuojamos, prie vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridėjus sveikatos apsaugos ministro nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį, jei vaistinis preparatas ar medicinos pagalbos priemonė apmokestinama šiuo mokesčiu. ^4bd32a8e4339ca4d377da8c7
+2. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių didžiausios mažmeninės kainos skaičiuojamos, prie vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridėjus sveikatos apsaugos ministro nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį, jei vaistinis preparatas ar medicinos pagalbos priemonė apmokestinama šiuo mokesčiu. ^s-6b4e228b84e9cd8eba6e5b9b
 
 
-3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir juridiniam asmeniui, turinčiam asmens sveikatos priežiūros veiklos licenciją, parduodami ne brangiau negu didmeninė kaina, kuri apskaičiuojama prie vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridedant sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. ^de260855efee55592b03c1ea
+3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir juridiniam asmeniui, turinčiam asmens sveikatos priežiūros veiklos licenciją, parduodami ne brangiau negu didmeninė kaina, kuri apskaičiuojama prie vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridedant sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. ^s-5ccd52351f6059f3413bc3dc
 
 
-4. Kompensuojamieji vaistiniai preparatai didmeninio platinimo licencijos turėtojui, kompensuojamos medicinos pagalbos priemonės didmeninėms šių priemonių platinimo įmonėms parduodami ne didesne negu vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo kompetentingoms valstybės institucijoms deklaruota kaina.“ ^c00b95f5c90496396d395e7d
+4. Kompensuojamieji vaistiniai preparatai didmeninio platinimo licencijos turėtojui, kompensuojamos medicinos pagalbos priemonės didmeninėms šių priemonių platinimo įmonėms parduodami ne didesne negu vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo kompetentingoms valstybės institucijoms deklaruota kaina.“ ^s-60b63703d3666dbd08084822
 
 
 
-### 14 straipsnis. 62 straipsnio 3 dalies 7 punkto pakeitimas
+### 14 straipsnis. 62 straipsnio 3 dalies 7 punkto pakeitimas ^s-492c848c55e52073f9fe5404
 
 
 Pakeisti 62 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
@@ -308,7 +313,7 @@ Pakeisti 62 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 
 
 
-### 15 straipsnis. 64 straipsnio 2 dalies pakeitimas
+### 15 straipsnis. 64 straipsnio 2 dalies pakeitimas ^s-00034782f2714b3e0c46c348
 
 
 Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -318,7 +323,7 @@ Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-### 16 straipsnis. Įstatymo priedo papildymas 9 punktu
+### 16 straipsnis. Įstatymo priedo papildymas 9 punktu ^s-28110244ffa5a6abe304ab73
 
 
 Papildyti Įstatymo priedą 9 punktu:
@@ -328,16 +333,16 @@ Papildyti Įstatymo priedą 9 punktu:
 
 
 
-### 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-3404ef3b0cfd4bd750910786
 
 
-1. Šis įstatymas, išskyrus [[#^a9be99836b4d2c104939a5c8|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d. ^a4bf9df7b3ae9602ed857b72
+1. Šis įstatymas, išskyrus [[#^s-c2102b9210d5ad624731e1d2|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d. ^s-1a6aab896c1b958e7fa5cccf
 
 
-2. Lietuvos Respublikos Vyriausybė ir sveikatos apsaugos ministras iki 2011 m. gruodžio 31 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^a9be99836b4d2c104939a5c8
+2. Lietuvos Respublikos Vyriausybė ir sveikatos apsaugos ministras iki 2011 m. gruodžio 31 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-c2102b9210d5ad624731e1d2
 
 
-3. Galiojantys lygiagretaus vaistinio preparato importo leidimai, išduoti iki šio įstatymo įsigaliojimo datos, pripažįstami galiojančiais neterminuotai. ^677e118ab1faaac155c35f06
+3. Galiojantys lygiagretaus vaistinio preparato importo leidimai, išduoti iki šio įstatymo įsigaliojimo datos, pripažįstami galiojančiais neterminuotai. ^s-0c052abcb971cef62ab699c3
 
 
 

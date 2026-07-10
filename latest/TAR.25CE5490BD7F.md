@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25CE5490BD7F"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 4, 39, 55-2, 55-10, 172-1, 187, 197, 198 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 4, 39, 55-2, 55-10, 172-1, 187, 197, 198 straipsnių pakeitimo ir papildymo įstatymas"
+  - "draudimo įstatymo 4, 39, 55-2, 55-10, 172-1, 187, 197, 198 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.25CE5490BD7F.md"
 latest_sha256: "908a5750d7b861d0a10ef1e2853bc02010153c958600f9c5412698e7084798ee"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25CE5490BD7F]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 4, 39, 55-2, 55-10, 172-1, 187, 197, 198 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25CE5490BD7F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25CE5490BD7F
+- Ryšiai: [[Ryšiai/TAR.25CE5490BD7F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas ^s-f379263e256aad483b56a133
 
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
@@ -42,7 +47,7 @@ Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 39 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 39 straipsnio 4 dalies pakeitimas ^s-10228f040797c7edcd5ce15a
 
 
 Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -51,17 +56,17 @@ Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip:
 „4. Draudimo įmonė, užsiimanti perdraudimo veikla, šio Įstatymo nustatyta tvarka privalo suformuoti minimalų garantinį fondą, taikytiną perdraudimo įmonei, jeigu tenkinama viena iš šių sąlygų:
 
 
-1) pasirašytų perdraudimo įmokų suma sudaro daugiau negu 10 procentų visų pasirašytų įmokų sumos; ^30b77f5b0ea58f7e1ae928f4
+1) pasirašytų perdraudimo įmokų suma sudaro daugiau negu 10 procentų visų pasirašytų įmokų sumos; ^s-7fd93211ebe57b94cda04c35
 
 
-2) pasirašytų perdraudimo įmokų suma viršija 50 000 000 eurų; ^06a9bc2c805e684848558a00
+2) pasirašytų perdraudimo įmokų suma viršija 50 000 000 eurų; ^s-01945515b3fd57eec50669da
 
 
-3) techninių atidėjinių perdraudimo veiklai suma sudaro daugiau negu 10 procentų visos techninių atidėjinių sumos.“ ^c9417879be643220cde74c63
+3) techninių atidėjinių perdraudimo veiklai suma sudaro daugiau negu 10 procentų visos techninių atidėjinių sumos.“ ^s-0b6fc43b73fafa2929d1a49f
 
 
 
-### 3 straipsnis. 552 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 552 straipsnio 1 dalies pakeitimas ^s-ca32b6ff3e144ad66632553c
 
 
 Pakeisti 552 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -71,7 +76,7 @@ Pakeisti 552 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 5510 straipsnio 6 dalies 3 punkto pakeitimas
+### 4 straipsnis. 5510 straipsnio 6 dalies 3 punkto pakeitimas ^s-26dbe46a845dbe56fbe88bec
 
 
 5510 straipsnio 6 dalies 3 punkte vietoj žodžio „draudimo“ įrašyti žodį „perdraudimo“ ir šį punktą išdėstyti taip:
@@ -81,7 +86,7 @@ Pakeisti 552 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 1721 straipsnio 1 dalies pakeitimas
+### 5 straipsnis. 1721 straipsnio 1 dalies pakeitimas ^s-5f1c1f7df9e0c4e7887c73ee
 
 
 Pakeisti 1721 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -91,7 +96,7 @@ Pakeisti 1721 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 6 straipsnis. 187 straipsnio pakeitimas
+### 6 straipsnis. 187 straipsnio pakeitimas ^s-91b2b35e41896b73207f173b
 
 
 Pakeisti 187 straipsnį ir jį išdėstyti taip:
@@ -101,36 +106,36 @@ Pakeisti 187 straipsnį ir jį išdėstyti taip:
 „187 straipsnis. Priežiūros komisijos išlaikymas
 
 
-1. Priežiūros komisija išlaikoma iš draudimo įmonių, perdraudimo įmonių, kitų Europos Sąjungos valstybių narių draudimo ir perdraudimo įmonių filialų ir užsienio valstybių draudimo ir perdraudimo įmonių filialų Lietuvos Respublikoje atskaitymų nuo pasirašytų draudimo ir perdraudimo įmokų (gautų ar gautinų draudimo ir perdraudimo įmokų, įtraukiamų į apskaitą teisės aktų nustatyta tvarka), taip pat iš Lietuvos valstybės biudžeto teisės aktų nustatyta tvarka. Atskaitymai nuo draudimo įmonių, kitų Europos Sąjungos valstybių narių draudimo įmonių filialų ir užsienio valstybių draudimo įmonių filialų Lietuvos Respublikoje, užsiimančių perdraudimo veikla, pasirašytų perdraudimo įmokų skaičiuojami tik tuo atveju, kai tenkinama viena iš šio Įstatymo 39 straipsnio 4 dalyje nustatytų sąlygų. ^903629a0c1cc022f69a5a331
+1. Priežiūros komisija išlaikoma iš draudimo įmonių, perdraudimo įmonių, kitų Europos Sąjungos valstybių narių draudimo ir perdraudimo įmonių filialų ir užsienio valstybių draudimo ir perdraudimo įmonių filialų Lietuvos Respublikoje atskaitymų nuo pasirašytų draudimo ir perdraudimo įmokų (gautų ar gautinų draudimo ir perdraudimo įmokų, įtraukiamų į apskaitą teisės aktų nustatyta tvarka), taip pat iš Lietuvos valstybės biudžeto teisės aktų nustatyta tvarka. Atskaitymai nuo draudimo įmonių, kitų Europos Sąjungos valstybių narių draudimo įmonių filialų ir užsienio valstybių draudimo įmonių filialų Lietuvos Respublikoje, užsiimančių perdraudimo veikla, pasirašytų perdraudimo įmokų skaičiuojami tik tuo atveju, kai tenkinama viena iš šio Įstatymo 39 straipsnio 4 dalyje nustatytų sąlygų. ^s-67e3216571f2f77e41ffc317
 
 
-2. Atskaitymų nuo pasirašytų draudimo ar perdraudimo įmokų dydį Priežiūros komisijai išlaikyti nustato Lietuvos Respublikos Vyriausybė. Kitų Europos Sąjungos valstybių narių draudimo ir perdraudimo įmonių filialų Lietuvos Respublikoje atskaitymai nuo pasirašytų draudimo ar perdraudimo įmokų Priežiūros komisijai išlaikyti turi būti proporcingi Priežiūros komisijos atliekamoms funkcijoms šių filialų atžvilgiu. ^22ca9d664135a4348a0892b8
+2. Atskaitymų nuo pasirašytų draudimo ar perdraudimo įmokų dydį Priežiūros komisijai išlaikyti nustato Lietuvos Respublikos Vyriausybė. Kitų Europos Sąjungos valstybių narių draudimo ir perdraudimo įmonių filialų Lietuvos Respublikoje atskaitymai nuo pasirašytų draudimo ar perdraudimo įmokų Priežiūros komisijai išlaikyti turi būti proporcingi Priežiūros komisijos atliekamoms funkcijoms šių filialų atžvilgiu. ^s-bdc2e24877e246d095095bbf
 
 
-3. Priežiūros komisijos nustatyta tvarka draudimo įmonės, perdraudimo įmonės, kitų Europos Sąjungos valstybių narių draudimo ar perdraudimo įmonių filialai ir užsienio valstybių draudimo ar perdraudimo įmonių filialai privalo teikti Priežiūros komisijai ataskaitas ir pervesti atskaitymus į Priežiūros komisijos sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. ^4e6c97c257dfec9641b7ec3a
+3. Priežiūros komisijos nustatyta tvarka draudimo įmonės, perdraudimo įmonės, kitų Europos Sąjungos valstybių narių draudimo ar perdraudimo įmonių filialai ir užsienio valstybių draudimo ar perdraudimo įmonių filialai privalo teikti Priežiūros komisijai ataskaitas ir pervesti atskaitymus į Priežiūros komisijos sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. ^s-d075293307d104c19a17139b
 
 
-4. Už praleistą terminą į Priežiūros komisijos sąskaitą draudimo įmonės, perdraudimo įmonės, kitų Europos Sąjungos valstybių narių draudimo ar perdraudimo įmonių filialai ir užsienio valstybių draudimo ar perdraudimo įmonių filialai privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Priežiūros komisijos ieškiniams dėl delspinigių išieškojimo taikomas 5 metų ieškinio senaties terminas. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą atskaitymų sumą.“ ^f12879a8c8941c14c4d31d37
+4. Už praleistą terminą į Priežiūros komisijos sąskaitą draudimo įmonės, perdraudimo įmonės, kitų Europos Sąjungos valstybių narių draudimo ar perdraudimo įmonių filialai ir užsienio valstybių draudimo ar perdraudimo įmonių filialai privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Priežiūros komisijos ieškiniams dėl delspinigių išieškojimo taikomas 5 metų ieškinio senaties terminas. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą atskaitymų sumą.“ ^s-af4b7eb85504f7b8308c5e3f
 
 
 
-### 7 straipsnis. 197 straipsnio 10 ir 12 punktų pakeitimas
+### 7 straipsnis. 197 straipsnio 10 ir 12 punktų pakeitimas ^s-23647ee5a6a161ab90512e9d
 
 
-1. Pakeisti 197 straipsnio 10 punktą ir jį išdėstyti taip: ^963e5c0fbc1949e05e74bf6e
+1. Pakeisti 197 straipsnio 10 punktą ir jį išdėstyti taip: ^s-3adc5e533318c989f0d18f62
 
 
 „10) esant šio Įstatymo 151 straipsnio 5 dalies 3–7 punktuose ir 6 dalyje nustatytiems pagrindams, išbraukti draudimo brokerį iš draudimo brokerių sąrašo ar laikinai sustabdyti draudimo brokerio pažymėjimo galiojimą;“.
 
 
-2. Pakeisti 197 straipsnio 12 punktą ir jį išdėstyti taip: ^12491516ba7efeb513cf97b2
+2. Pakeisti 197 straipsnio 12 punktą ir jį išdėstyti taip: ^s-43329546f61ebdd32205b1c8
 
 
 „12) esant šio Įstatymo 19 straipsnio 2 dalies 1, 2, 4–7 punktuose, 66 straipsnio 2 dalies 1, 2, 4–11 punktuose, 150 straipsnio 2 dalies 1, 2, 4, 5 punktuose ar 179 straipsnio 2 dalies 1, 2, 4, 5 punktuose nustatytiems pagrindams, panaikinti draudimo veiklos licencijos, perdraudimo veiklos licencijos, licencijos draudimo brokerių įmonės veiklai, leidimo užsienio valstybės draudimo ar perdraudimo įmonės filialo draudimo veiklai ar kitos užsienio valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje galiojimą, visam laikui uždrausti priklausomam draudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą.“
 
 
 
-### 8 straipsnis. 198 straipsnio papildymas 6 dalimi
+### 8 straipsnis. 198 straipsnio papildymas 6 dalimi ^s-49979b652be0b9c1251c6c27
 
 
 Papildyti 198 straipsnį 6 dalimi:

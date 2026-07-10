@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.17AE61FD2126"
 pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" pakeitimo ir papildymo"
+aliases:
+  - "Dėl Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo\" pakeitimo ir papildymo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-10-18"
 latest_path: "latest/TAR.17AE61FD2126.md"
 latest_sha256: "e8388d93d6d7a4aa2be7af04cff478d52d67219e07a7cf3a0d530a6b5c31f610"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.17AE61FD2126]]"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" pakeitimo ir papildymo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.17AE61FD2126.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.17AE61FD2126
+- Ryšiai: [[Ryšiai/TAR.17AE61FD2126|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

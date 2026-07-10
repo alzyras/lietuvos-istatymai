@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.62B08B2B3D87"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-04-09"
 latest_path: "latest/TAR.62B08B2B3D87.md"
 latest_sha256: "fe56e4640bb4cd97d62f1cee11a77652dc5ff083eb1d5881e43f3a6528b44318"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.62B08B2B3D87]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.62B08B2B3D87.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.62B08B2B3D87
+- Ryšiai: [[Ryšiai/TAR.62B08B2B3D87|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-4ac4f8ef343fd29a0fbb0d54
 
 
 6 straipsnio 2 dalyje vietoj žodžio „sekretorių“ įrašyti žodį „viceministrų“ ir šią dalį išdėstyti taip:

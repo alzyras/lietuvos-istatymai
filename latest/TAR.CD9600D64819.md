@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CD9600D64819"
 pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas"
+aliases:
+  - "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas"
+  - "teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-05-19"
 latest_path: "latest/TAR.CD9600D64819.md"
 latest_sha256: "2a24452779278285cac9155714c726013a37e260dd25fcc1d7d02865d1507374"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CD9600D64819]]"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CD9600D64819.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CD9600D64819
+- Ryšiai: [[Ryšiai/TAR.CD9600D64819|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 7 straipsnio pakeitimas
+### 1 straipsnis. 7 straipsnio pakeitimas ^s-fabe8d631aee1011004bfc21
 
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Savivaldybes steigia, esamas panaikina, taip pat jų teritorijų ribas bei centr
 
 
 
-### 2 straipsnis. 10 straipsnio pakeitimas
+### 2 straipsnis. 10 straipsnio pakeitimas ^s-d70dc9bccb5e190520013901
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
@@ -57,7 +62,7 @@ Gyvenamąsias vietoves panaikina, jų teritorijų ribas nustato ir keičia Lietu
 
 
 
-### 3 straipsnis. 13 straipsnio pakeitimas ir papildymas
+### 3 straipsnis. 13 straipsnio pakeitimas ir papildymas ^s-bfc7bb20d8911079f0cc8399
 
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
@@ -76,7 +81,7 @@ Vyriausybės įgaliota institucija, teikdama išvadą dėl teritorijos administr
 
 
 
-### 4 straipsnis. Įstatymo papildymas 15 straipsniu
+### 4 straipsnis. Įstatymo papildymas 15 straipsniu ^s-604b871122b7ff7429755ff2
 
 
 Papildyti Įstatymą 15 straipsniu:

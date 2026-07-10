@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A635E755BC1F"
 pavadinimas: "Lietuvos Respublikos specialios paskirties akcinės bendrovės \"Lietuvos energija\" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos specialios paskirties akcinės bendrovės \"Lietuvos energija\" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas"
+  - "specialios paskirties akcinės bendrovės \"Lietuvos energija\" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-02-01"
 latest_path: "latest/TAR.A635E755BC1F.md"
 latest_sha256: "385ee8df6e8bbc2a7a1fddebd27a48927fa7a9ecb96a35047ee9a50a54c399ac"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A635E755BC1F]]"
 ---
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A635E755BC1F.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A635E755BC1F
+- Ryšiai: [[Ryšiai/TAR.A635E755BC1F|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas ^s-3e6e9568e9aa4118d4e7af03
 
 
 5 straipsnio 1 dalyje vietoj žodžių „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerija“ ir šią dalį išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c2acf2140fe014f2066737a9
 
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.

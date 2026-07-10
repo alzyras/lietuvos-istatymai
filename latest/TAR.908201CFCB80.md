@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.908201CFCB80"
 pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas"
+  - "gyventojų pajamų mokesčio įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2005-06-30"
 latest_path: "latest/TAR.908201CFCB80.md"
 latest_sha256: "d75c20a1012d3c71bd7cb7167342bc6437696ba8f280a65bce91dce1a60facf5"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.908201CFCB80]]"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 17 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.908201CFCB80.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.908201CFCB80
+- Ryšiai: [[Ryšiai/TAR.908201CFCB80|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,23 +36,23 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 19 dalies 4 ir 6 punktų pakeitimas
+### 1 straipsnis. 2 straipsnio 19 dalies 4 ir 6 punktų pakeitimas ^s-0b52d3355ec3c9545effe3d4
 
 
-1. Pakeisti 2 straipsnio 19 dalies 4 punktą ir jį išdėstyti taip: ^edf759ca278276bd3f18a6a1
+1. Pakeisti 2 straipsnio 19 dalies 4 punktą ir jį išdėstyti taip: ^s-83cee07c3a30871432095acb
 
 
 „4) gyventojas ir jo sutuoktinis, sužadėtinis, sugyventinis, taip pat gyventojas ir su juo giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais (gyventojas ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio) susiję gyventojai, taip pat gyventojas ir jo sugyventinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), gyventojas ir jo giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), arba“.
 
 
-2. Pakeisti 2 straipsnio 19 dalies 6 punktą ir jį išdėstyti taip: ^7c441b8d5b401b1c8a6b81a7
+2. Pakeisti 2 straipsnio 19 dalies 6 punktą ir jį išdėstyti taip: ^s-28d44c4dbfc95394efe2110a
 
 
 „6) du gyventojai, kurie yra to paties vieneto dalyviai ir kiekvienas jų tiesiogiai ar netiesiogiai valdo daugiau kaip 25 procentus to vieneto akcijų (dalių, pajų) kartu su kitais gyventojais (sutuoktiniu, sužadėtiniu, sugyventiniu ar šio sugyventinio giminaičiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), gyventojais, susijusiais giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais (gyventojas ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniais ar sugyventiniais ir šių sutuoktinių ar sugyventinių giminaičiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), arba“.
 
 
 
-### 2 straipsnis. 17 straipsnio 1 dalies papildymas 49 punktu
+### 2 straipsnis. 17 straipsnio 1 dalies papildymas 49 punktu ^s-445d833ce29da3f18b0eb932
 
 
 Papildyti 17 straipsnio 1 dalį 49 punktu:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.40A7D3D72137"
 pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas"
+  - "vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-05-09"
 latest_path: "latest/TAR.40A7D3D72137.md"
 latest_sha256: "638be221bb5c4ad048ea8be0e61cd5627306dba6ad8d9c3dc252e6cb6d7079e1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.40A7D3D72137]]"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.40A7D3D72137.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.40A7D3D72137
+- Ryšiai: [[Ryšiai/TAR.40A7D3D72137|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ^s-df817a93d517396b1aa66e7a
 
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:

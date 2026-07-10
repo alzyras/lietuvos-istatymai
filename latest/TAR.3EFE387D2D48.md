@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3EFE387D2D48"
 pavadinimas: "Lietuvos Respublikos akcizų įstatymo 8, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcizų įstatymo 8, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas"
+  - "akcizų įstatymo 8, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-06-29"
 latest_path: "latest/TAR.3EFE387D2D48.md"
 latest_sha256: "adbf5c8cfc0b5cadd28495f1da31ee6c7c8a6c7bf8057160070237ca9d836330"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3EFE387D2D48]]"
 ---
 # Lietuvos Respublikos akcizų įstatymo 8, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3EFE387D2D48.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3EFE387D2D48
+- Ryšiai: [[Ryšiai/TAR.3EFE387D2D48|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,46 +36,46 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio papildymas nauja 3 dalimi
+### 1 straipsnis. 8 straipsnio papildymas nauja 3 dalimi ^s-418ac8ce7f6f2a7af940a4b1
 
 
-1. Papildyti 8 straipsnį nauja 3 dalimi: ^25e27127763142142c662ec6
+1. Papildyti 8 straipsnį nauja 3 dalimi: ^s-260bd7fdc225246a648a7a42
 
 
 „3. Jeigu vienas savininkas turi kelis akcizais apmokestinamų prekių sandėlius, kuriuose vykdoma mažmeninė prekyba skirtais naudoti kaip degalai (variklių kuras) naftos dujomis ir dujiniais angliavandeniliais, akcizų deklaracija už kiekvieną sandėlį atskirai pateikiama tam vietos mokesčio administratoriui, kurio teritorijoje šis savininkas yra įregistruotas mokesčio mokėtoju.“
 
 
-2. Buvusias 8 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 4, 5 ir 6 dalimis. ^5eff64d82e054ee4045ba9f7
+2. Buvusias 8 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 4, 5 ir 6 dalimis. ^s-49a620fef48423a63225f208
 
 
 
-### 2 straipsnis. 10 straipsnio papildymas nauja 2 dalimi
+### 2 straipsnis. 10 straipsnio papildymas nauja 2 dalimi ^s-fa9be8f2494122e5554fc6e6
 
 
-1. Papildyti 10 straipsnį nauja [[#^76e3f036c7ec67b4a2a3842d|2 dalimi]]: ^8279f8b60ec0a3c297856805
+1. Papildyti 10 straipsnį nauja [[#^s-a502ba1198c332980adcbb42|2 dalimi]]: ^s-5815afaf188760a50a819b21
 
 
 „2. Jeigu vienas savininkas turi kelis akcizais apmokestinamų prekių sandėlius, kuriuose vykdoma mažmeninė prekyba skirtais naudoti kaip degalai (variklių kuras) naftos dujomis ir dujiniais angliavandeniliais, už mokestinį laikotarpį mokėtina akcizų suma turi būti sumokėta į to vietos mokesčio administratoriaus surenkamąją sąskaitą, kurio teritorijoje jis yra įregistruotas mokesčio mokėtoju.“
 
 
-2. Buvusias 10 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^76e3f036c7ec67b4a2a3842d
+2. Buvusias 10 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-a502ba1198c332980adcbb42
 
 
 
-### 3 straipsnis. 12 straipsnio 2 dalies papildymas ir 9 dalies pripažinimas netekusia galios
+### 3 straipsnis. 12 straipsnio 2 dalies papildymas ir 9 dalies pripažinimas netekusia galios ^s-c5cc4bac4e9bba61a489859d
 
 
-1. Papildyti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^43b96e2556c5ec9b7da58cf7
+1. Papildyti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^s-6631f53c39bfb81819eb9617
 
 
 „2. Išgabenant akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, iš vieno akcizais apmokestinamų prekių sandėlio (toliau šiame straipsnyje – siuntėjas) į kitą akcizais apmokestinamų prekių sandėlį (toliau šiame straipsnyje – gavėjas), turi būti išrašytas centrinio mokesčio administratoriaus nustatytos formos akcizais apmokestinamų prekių gabenimo dokumentas. Vieną jo egzempliorių privalo pasirašytinai patvirtinti gavėjo savininko ir vietos mokesčio administratoriaus, kurio veiklos teritorijoje yra gavėjas, įgalioti asmenys. Šis egzempliorius turi būti grąžintas siuntėjo savininkui. Kai akcizais apmokestinamos prekės (naftos dujos ir dujiniai angliavandeniliai, skirti naudoti kaip degalai) gabenamos į akcizais apmokestinamų prekių sandėlius, kuriuose vykdoma mažmeninė prekyba skirtais naudoti kaip degalai (variklių kuras) naftos dujomis ir dujiniais angliavandeniliais, vietos mokesčio administratoriaus įgalioti asmenys akcizais apmokestinamų prekių gabenimo dokumento egzemplioriaus pasirašytinai netvirtina. Akcizais apmokestinamų prekių gabenimo dokumento pildymo ir įforminimo tvarką, taip pat šio dokumento blanko reikalavimus nustato centrinis mokesčio administratorius.“
 
 
-2. 12 straipsnio 9 dalį pripažinti netekusia galios. ^e071568fa1383cae034fe353
+2. 12 straipsnio 9 dalį pripažinti netekusia galios. ^s-38bbaa3800b97bba357740cb
 
 
 
-### 4 straipsnis. 13 straipsnio 2 dalies pakeitimas
+### 4 straipsnis. 13 straipsnio 2 dalies pakeitimas ^s-fc7e562806bb3a6d50f15495
 
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:

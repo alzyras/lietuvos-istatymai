@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.99E8BD4E16BC"
 pavadinimas: "Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
+  - "1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-11-04"
 latest_path: "latest/TAR.99E8BD4E16BC.md"
 latest_sha256: "5664005d13019b1b550c4fa40a0f6142fc8e6d1d5e1d4bb4e5c3e2a90c6d1400"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.99E8BD4E16BC]]"
 ---
 # Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.99E8BD4E16BC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.99E8BD4E16BC
+- Ryšiai: [[Ryšiai/TAR.99E8BD4E16BC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nauja redakcija
+### 1 straipsnis.         Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nauja redakcija ^s-4d4acb234311b5581fbabd7a
 
 
 Pakeisti Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą ir jį išdėstyti taip:
@@ -43,35 +48,35 @@ Pakeisti Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių b
 
 
 
-### 1 straipsnis. 1999 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas
+### 1 straipsnis. 1999 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas ^s-3a0fd6a07a1134d311de6d28
 
 
-1. Patvirtinti Lietuvos Respublikos 1999 metų valstybės biudžetą – 6760832 tūkst. litų pajamų, 6760832 tūkst. litų išlaidų ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2 priedėliai). ^840bdd59aa5ef8287faba253
+1. Patvirtinti Lietuvos Respublikos 1999 metų valstybės biudžetą – 6760832 tūkst. litų pajamų, 6760832 tūkst. litų išlaidų ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2 priedėliai). ^s-ddf745822c28e5ff65029540
 
 
-2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija gali būti asignavimų valdytojų nuožiūra naudojama kitoms paprastosioms išlaidoms finansuoti. ^dcc84a6642334e9df70ea26a
+2. Nustatyti, kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų ekonomija gali būti asignavimų valdytojų nuožiūra naudojama kitoms paprastosioms išlaidoms finansuoti. ^s-d4d4d8b8eb8bada24fe64a8a
 
 
 
-### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
+### 2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas ^s-ff03e37fee32e3f604a1553b
 
 
-1. Atsižvelgiant į tai, kad pagal Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo [[#9 straipsnis. Valstybės tarnautojų mokymas|9 straipsnį]] apskaičiuojama valstybės biudžeto bendroji dotacija savivaldybių mokestinėms pajamoms išlyginti ir savivaldybių išlaidų struktūros skirtumams išlyginti nesusidaro: ^8a6e3cf538ab1ae86a2932de
+1. Atsižvelgiant į tai, kad pagal [[latest/TAR.F960F4CF3005#^s-ee6fb304b4bfd2e1867219d7|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnį]] apskaičiuojama valstybės biudžeto bendroji dotacija savivaldybių mokestinėms pajamoms išlyginti ir savivaldybių išlaidų struktūros skirtumams išlyginti nesusidaro: ^s-9eb2e937531a675d161f84b2
 
 
-1) nustatyti, kad 18,5 procento fizinių asmenų pajamų mokesčio skiriama mažesnes biudžeto pajamas turinčioms savivaldybėms; ^3f9a39d56d2fedab296654be
+1) nustatyti, kad 18,5 procento fizinių asmenų pajamų mokesčio skiriama mažesnes biudžeto pajamas turinčioms savivaldybėms; ^s-808d63836c5fa999c54d039d
 
 
-2) patvirtinti savivaldybių biudžetams skiriamas fizinių asmenų pajamų mokesčio dalis procentais, fizinių asmenų pajamų mokesčio sumas pajamoms išlyginti – 320898 tūkst. litų (3 priedėlis). ^f08307cf0a8a3c84ecfadb13
+2) patvirtinti savivaldybių biudžetams skiriamas fizinių asmenų pajamų mokesčio dalis procentais, fizinių asmenų pajamų mokesčio sumas pajamoms išlyginti – 320898 tūkst. litų (3 priedėlis). ^s-a9dc85d4df80387125aa9815
 
 
-2. Patvirtinti specialias tikslines dotacijas savivaldybių biudžetams – 126768 tūkst. litų, iš jų: ^6903126973e78b344069da01
+2. Patvirtinti specialias tikslines dotacijas savivaldybių biudžetams – 126768 tūkst. litų, iš jų: ^s-0f20c45576235e876930a39a
 
 
-1) savivaldybių biudžetų mokestinių pajamų išlyginimo rezervui sudaryti – 37282 tūkst. litų; ^cdd48d899b2f0376a5295299
+1) savivaldybių biudžetų mokestinių pajamų išlyginimo rezervui sudaryti – 37282 tūkst. litų; ^s-76883c9e2bfdb0ccebaeb302
 
 
-2) likusią specialios dotacijos sumą – 89486 tūkst. litų (4 priedėlis), iš jų: ^f0e09d266da2dfdafc5c6e58
+2) likusią specialios dotacijos sumą – 89486 tūkst. litų (4 priedėlis), iš jų: ^s-34a19ace521c9a55c0f2281c
 
 
 a) globojamiems vaikams išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą – 41439 tūkst. litų;
@@ -84,110 +89,110 @@ c) savivaldybių biudžetų pajamoms išlyginti – 33047 tūkst. litų.
 
 
 
-### 3 straipsnis.         Savivaldybių biudžetų pajamos išlaidų struktūros skirtumams išlyginti
+### 3 straipsnis.         Savivaldybių biudžetų pajamos išlaidų struktūros skirtumams išlyginti ^s-d4de46747999ac236c6256cb
 
 
-Atsižvelgiant į šio įstatymo [[#^3f9a39d56d2fedab296654be|2 straipsnio 1 dalies 1 punkto]] nuostatą, prognozuojamas savivaldybių biudžetų pajamas – 614856 tūkst. litų (3 priedėlis) paskirstyti išlaidų struktūros skirtumams išlyginti. Šios lėšos į savivaldybių biudžetus pervedamos kas mėnesį, atsižvelgiant į faktines fizinių asmenų pajamų mokesčio įplaukas į valstybės iždo sąskaitą.
+Atsižvelgiant į šio įstatymo [[#^s-808d63836c5fa999c54d039d|2 straipsnio 1 dalies 1 punkto]] nuostatą, prognozuojamas savivaldybių biudžetų pajamas – 614856 tūkst. litų (3 priedėlis) paskirstyti išlaidų struktūros skirtumams išlyginti. Šios lėšos į savivaldybių biudžetus pervedamos kas mėnesį, atsižvelgiant į faktines fizinių asmenų pajamų mokesčio įplaukas į valstybės iždo sąskaitą.
 
 
 
-### 4 straipsnis. Savivaldybių biudžetų tvirtinimas
+### 4 straipsnis. Savivaldybių biudžetų tvirtinimas ^s-010e0f4828871eabe47e9559
 
 
 Nustatyti, kad miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo ir vieną egzempliorių pateikia Finansų ministerijai.
 
 
 
-### 5 straipsnis.         Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
+### 5 straipsnis.         Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis ^s-4c86dfe40bb52cbd41aa2cdc
 
 
 Nustatyti, kad 1999 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio sumos.
 
 
 
-### 6 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+### 6 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis ^s-2a1ddd8a987901236500051a
 
 
 Nustatyti, kad 1999 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 222,7 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
 
 
 
-### 7 straipsnis. Nebiudžetinių lėšų įmokos
+### 7 straipsnis. Nebiudžetinių lėšų įmokos ^s-75fa19899db28450528e9836
 
 
-1. Valstybės institucijų ir kontroliuojančių organizacijų iš ūkinės veiklos gautas lėšas – 76862 tūkst. litų įtraukti į apskaitą kaip valstybės biudžeto pajamas (5 priedėlis). ^df15be971e6e04e6a4123fa9
+1. Valstybės institucijų ir kontroliuojančių organizacijų iš ūkinės veiklos gautas lėšas – 76862 tūkst. litų įtraukti į apskaitą kaip valstybės biudžeto pajamas (5 priedėlis). ^s-e8ff39f168c871eb42814513
 
 
-2. Finansų ministerija, pervesdama asignavimų valdytojams patvirtintas valstybės biudžeto sumas, mažina finansavimą faktiškai negautomis (palyginti su planu) nebiudžetinių lėšų įmokomis į valstybės biudžetą. ^ff4ba48c82fe194177b7a8fe
+2. Finansų ministerija, pervesdama asignavimų valdytojams patvirtintas valstybės biudžeto sumas, mažina finansavimą faktiškai negautomis (palyginti su planu) nebiudžetinių lėšų įmokomis į valstybės biudžetą. ^s-9eb543a7b6de5e586ec15062
 
 
 
-### 8 straipsnis.         Privatizavimo fondo lėšų naudojimas investiciniams projektams, numatytiems Valstybės investicijų programoje, finansuoti
+### 8 straipsnis.         Privatizavimo fondo lėšų naudojimas investiciniams projektams, numatytiems Valstybės investicijų programoje, finansuoti ^s-2db0d2705eb73db2ce19745f
 
 
 Nustatyti, kad 1999 metais iš Privatizavimo fondo lėšų būtų skiriama 390700 tūkst. litų pagrindiniam kapitalui įsigyti (investiciniams projektams, numatytiems Valstybės investicijų programoje), iš jų: 280118 tūkst. litų – valstybės pagrindiniam kapitalui (iš jų melioracijai ir dirvų kalkinimui – 80000 tūkst. litų) ir 110582 tūkst. litų – savivaldybių pagrindiniam kapitalui.
 
 
 
-### 9 straipsnis. Valstybės tarnautojų mokymas
+### 9 straipsnis. Valstybės tarnautojų mokymas ^s-b2ba4681254f41bf52f52861
 
 
 Nustatyti, kad valstybės ir savivaldybių institucijos ar įstaigos valstybės tarnautojų mokymui skiria lėšų tiek, kad jos sudarytų ne mažiau kaip 3 procentus jų darbo užmokesčiui patvirtintų asignavimų.
 
 
 
-### 10 straipsnis. Vidaus ir užsienio paskolos
+### 10 straipsnis. Vidaus ir užsienio paskolos ^s-b0dc6c128e277425a1cc0e59
 
 
 Nustatyti 1999 metais valstybės grynojo skolinimosi (paskolos, atėmus grąžintas) limitą – 2900000 tūkst. litų.
 
 
 
-### 11 straipsnis. Lietuvos Respublikos Vyriausybės teisės vykdant nacionalinį biudžetą
+### 11 straipsnis. Lietuvos Respublikos Vyriausybės teisės vykdant nacionalinį biudžetą ^s-d1cb057e613a985a86c881e7
 
 
-Suteikti Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai teisę leisti vertybinius popierius, imti paskolas ir teikti garantijas dėl paskolų Lietuvos Respublikos valstybės skolos įstatyme numatytiems tikslams bei kitiems Lietuvos Respublikos įstatymais nustatytiems turtiniams įsipareigojimams dengti bei savininkams grąžintų ir grąžintinų gyvenamųjų namų ir nuomininkų aprūpinimo butais programai įgyvendinti, žemės reformai vykdyti.
+Suteikti Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai teisę leisti vertybinius popierius, imti paskolas ir teikti garantijas dėl paskolų [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatyme]] numatytiems tikslams bei kitiems Lietuvos Respublikos įstatymais nustatytiems turtiniams įsipareigojimams dengti bei savininkams grąžintų ir grąžintinų gyvenamųjų namų ir nuomininkų aprūpinimo butais programai įgyvendinti, žemės reformai vykdyti.
 
 
 
-### 12 straipsnis.       Savivaldybių biudžetų mokestinių pajamų išlyginimo rezervo naudojimas
+### 12 straipsnis.       Savivaldybių biudžetų mokestinių pajamų išlyginimo rezervo naudojimas ^s-8ac8a58de64f104327db5dcc
 
 
 Nustatyti šią savivaldybių biudžetų mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
 
 
-1) per metus Finansų ministerija iš mokestinių pajamų išlyginimo rezervo lėšų teikia kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai; ^6bf0fa10d14aab4b925f0b1e
+1) per metus Finansų ministerija iš mokestinių pajamų išlyginimo rezervo lėšų teikia kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai; ^s-81b1fbaca067e7cf983cd059
 
 
-2) Lietuvos Respublikos Vyriausybė 1999 metų antrajame pusmetyje, atsižvelgdama į numatomus biudžetų vykdymo duomenis, iš rezervo lėšų padengia savivaldybių biudžetų 1999 metais negautas planuotas mokestines pajamas; ^6d9e1d0edfb60cf798861cfd
+2) Lietuvos Respublikos Vyriausybė 1999 metų antrajame pusmetyje, atsižvelgdama į numatomus biudžetų vykdymo duomenis, iš rezervo lėšų padengia savivaldybių biudžetų 1999 metais negautas planuotas mokestines pajamas; ^s-07804846025785d0bd19eb25
 
 
-3) nepanaudotą pagal šio straipsnio [[#^6d9e1d0edfb60cf798861cfd|2 punktą]] mokestinių pajamų išlyginimo rezervą Lietuvos Respublikos Vyriausybė skiria savivaldybių butų fondui kaupti. ^211eebcc3d37e573dd11414d
+3) nepanaudotą pagal šio straipsnio [[#^s-07804846025785d0bd19eb25|2 punktą]] mokestinių pajamų išlyginimo rezervą Lietuvos Respublikos Vyriausybė skiria savivaldybių butų fondui kaupti. ^s-39e0d95bcfd81bddbd39f0b0
 
 
 
-### 13 straipsnis.       Kelių fondo lėšų naudojimas Nacionalinei žemės ūkio plėtojimo programai
+### 13 straipsnis.       Kelių fondo lėšų naudojimas Nacionalinei žemės ūkio plėtojimo programai ^s-30dc50cde5c7b4c0ec00a0c2
 
 
 Nustatyti, kad 1999 metais iš Kelių fondo lėšų iki 28000 tūkst. litų būtų skiriama Nacionalinėje žemės ūkio plėtojimo programoje numatytoms ūkininkų įsikūrimo priemonėms įgyvendinti (keliams tiesti ir remontuoti).
 
 
 
-### 14 straipsnis.       Pajamų, faktiškai gautų iš akcizų už cukrų, naudojimas Nacionalinei žemės ūkio plėtojimo programai
+### 14 straipsnis.       Pajamų, faktiškai gautų iš akcizų už cukrų, naudojimas Nacionalinei žemės ūkio plėtojimo programai ^s-f775765898ae73470f0f2768
 
 
 Nustatyti, kad pajamos, faktiškai gautos iš akcizų už cukrų, įskaitant cukrų, esantį produktuose, atskaičius eksportuotojams grąžintiną sumą, pervedamos Žemės ūkio ministerijai Nacionalinės žemės ūkio plėtojimo programos priemonėms finansuoti (subsidijoms už cukrinius runkelius mokėti).
 
 
 
-### 15 straipsnis. Valstybės skolinimosi ir paskolų grąžinimo mastai
+### 15 straipsnis. Valstybės skolinimosi ir paskolų grąžinimo mastai ^s-6f5a686acf4dd0e89bf289c5
 
 
 Nustatyti skolintų lėšų pajamas – iki 5040509 tūkst. litų, skolintų lėšų išlaidas – 4268509 tūkst. litų valstybės vardu gautoms skolintoms lėšoms grąžinti ir Lietuvos Respublikos įstatymų pripažintai valstybės vidaus skolai dengti.
 
 
 
-### 16 straipsnis. Kitų įstatymų taikymas
+### 16 straipsnis. Kitų įstatymų taikymas ^s-866098b88428c9e24f001d54
 
 
 Taikyti savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančius rodiklius, kurie 1997 m. lapkričio 25 d. patvirtinti Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių patvirtinimo 1998-2000 metams įstatymu (Žin., 1997, Nr. 116-2952), ir 2001 metais.“
@@ -334,7 +339,7 @@ ______________
 
 
 
- 1.900. 1 ^d29acaf23844f175687e7fa0
+ 1.900. 1 ^s-ebf578682f0b6761d60abb1a
  Lietuvos Respublikos Prezidentūra
 
 
@@ -346,7 +351,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 1 ^f5567a4e5a273fea07fffc1d
+ 1. 1. 1 ^s-b0b918cb05e11ab24fdeb0b7
  12400
  12400
  3908
@@ -356,7 +361,7 @@ ______________
 
 
 
- 1. 4. 2 ^68c87b0dcbbde55cf1093aa1
+ 1. 4. 2 ^s-b8c406675c174a6a49ed56b7
  9800
 
 
@@ -374,7 +379,7 @@ ______________
 
 
  tvarka
- 1. 4. 2 ^898054a0f27cf8553d43ca24
+ 1. 4. 2 ^s-2c1603d4811c441392914546
  2324
  2324
 
@@ -402,7 +407,7 @@ ______________
 
 
 
- 2.900. 2 ^4e7f7afc38234a3348b62a95
+ 2.900. 2 ^s-e4c954430feee3b7871c6128
  Lietuvos Respublikos Seimas
 
 
@@ -414,7 +419,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 1 ^48aad7d222b046783c149d61
+ 1. 1. 1 ^s-88d6a343648a7e3c4e3fcf4a
  48889
  47889
  23375
@@ -442,7 +447,7 @@ ______________
 
 
 
- 3.900. 3 ^7e49adb869919dc2c72c7ce0
+ 3.900. 3 ^s-da70ee621c335672e997136f
  Vyriausioji rinkimų komisija
 
 
@@ -454,7 +459,7 @@ ______________
 
  1 1
  Rinkimų organizavimas
- 14. 1. 3 ^d733ecef21202e9b5153fea4
+ 14. 1. 3 ^s-db53ad3da315bf041b5d5f98
  344
  344
  185
@@ -464,7 +469,7 @@ ______________
 
  1 2
  Valstybės valdymas
- 1. 1. 1 ^b09cc07f0155cc866cadb41c
+ 1. 1. 1 ^s-59d77b733c954ee01e461d8f
  530
  502
  321
@@ -492,7 +497,7 @@ ______________
 
 
 
- 4.900. 4 ^590e82f2c1286c846d4a0a4c
+ 4.900. 4 ^s-58e7c6a8c6ac1958c27aa504
  Seimo kontrolierių įstaiga
 
 
@@ -504,7 +509,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 1 ^f5294319a4fc399cf8644c92
+ 1. 1. 1 ^s-e5c45a59dca0132dfa10f428
  2839
  2629
  1767
@@ -532,7 +537,7 @@ ______________
 
 
 
- 5.900. 5 ^cba52f15c5eaebba0d76a095
+ 5.900. 5 ^s-76dcdb4302e4b0e57ca6c80d
  Lietuvos Respublikos Konstitucinis Teismas
 
 
@@ -544,7 +549,7 @@ ______________
 
  1 1
  Konstitucinio Teismo išlaikymas
-   1. 5. 1 ^a615b9fc651562d137745eaa
+   1. 5. 1 ^s-5b9972016185dfb327e49d03
    4686
    4536
    3194
@@ -572,7 +577,7 @@ ______________
 
 
 
- 6.900. 6 ^cc0e282125db7ec841220a42
+ 6.900. 6 ^s-4e7ad630e82f1139a3d27d4d
  Lietuvos Respublikos    valstybės kontrolė
 
 
@@ -582,7 +587,7 @@ ______________
 
  1 3
  Valstybės valdymas
- 1. 1. 1 ^5d4be18beaa80b55487894dc
+ 1. 1. 1 ^s-f5c94d12d824f6e1f743db8b
  13895
  13895
  9806
@@ -630,7 +635,7 @@ ______________
 
 
  ir jo apsauga
- 4. 6. 9 ^0ec540016a82a3d74a321bc0
+ 4. 6. 9 ^s-65b0388bfd675a5a9c7ccc01
  341
  316
  149
@@ -640,7 +645,7 @@ ______________
 
  1 2
  Valstybinės kalbos norminimas. Visuomenės švietimas
- 4. 6. 9 ^b1c5062789214a75a5ccf942
+ 4. 6. 9 ^s-ce920d1fb048a1d8bef3b131
  2406
  2373
  1530
@@ -650,7 +655,7 @@ ______________
 
  1 3
  Valstybės valdymas
- 1. 5. 1 ^0a855c4b1535869c1375ea82
+ 1. 5. 1 ^s-a52512330f9d6020843ca92f
  639
  596
  386
@@ -690,7 +695,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 13. 9. 1 ^85525599e44d3e8fe458dbd2
+ 13. 9. 1 ^s-c71e212dd0b42e2482ae04b8
  233
  233
  158
@@ -730,7 +735,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 5. 1 ^51d6e2cd8bfb02a0cb7d9c48
+ 1. 5. 1 ^s-23cb020416a280d0fa0650ae
  144
  136
  95
@@ -770,7 +775,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 1 ^747cfb717a3950b977b2991c
+ 1. 1. 1 ^s-aa9e0e35da46b795dcc906f8
  190
  158
  108
@@ -810,7 +815,7 @@ ______________
 
  1 1
  Moterų ir vyrų lygių galimybių užtikrinimas
-   1. 1. 1 ^7b1cc77322be3d3f46b523ea
+   1. 1. 1 ^s-21cb04cbb4ff4897074cf64b
  146
  146
  82
@@ -838,7 +843,7 @@ ______________
 
 
 
- 7.900. 7 ^f6265a62bb6e91fd5ebda837
+ 7.900. 7 ^s-105881170a2460741fd3900a
  Valstybinė paminklosaugos komisija
 
 
@@ -850,7 +855,7 @@ ______________
 
  1 1
  Kultūros vertybių apsaugosir valstybės strategijos ir politikos įgyvendinimo kontrolė
- 1. 1. 1 ^2f38bf4a7067dd739f580cf3
+ 1. 1. 1 ^s-916b57132354f1ee36ae45af
  853
  712
  445
@@ -888,7 +893,7 @@ ______________
 
  1 1
  Vertybinių popierių viešosios apyvartos valstybinis reguliavimas ir priežiūra
- 1. 1. 1. ^e55689a1e9f0c19e9c1e2bda
+ 1. 1. 1. ^s-fd95703b8abe878276522735
  3298
  3148
  1641
@@ -916,7 +921,7 @@ ______________
 
 
 
- 8.900. 8 ^374ec317af920f5a31d239d5
+ 8.900. 8 ^s-d0c0530e4b49ecb0bc970c87
  Lietuvos Respublikos Vyriausybės kanceliarija
 
 
@@ -928,7 +933,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 1 ^67eb85725803750692ffe426
+ 1. 1. 1 ^s-8576a624d961a6497ce33850
  12773
  12773
  6140
@@ -938,7 +943,7 @@ ______________
 
 
 
- 1. 4. 2 ^56a6e76677d4a3655e4fa801
+ 1. 4. 2 ^s-8500eb0dcd24b840989f52dd
  3558
  3283
 
@@ -948,7 +953,7 @@ ______________
 
  1 2
  Ministrų darbo užmokestis
- 1. 1. 1 ^74d4b7726b72fd4040a5d03a
+ 1. 1. 1 ^s-d5407ddc4c2dbd6bc2894dfe
  1173
  1173
  1173
@@ -988,7 +993,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 6 ^c18f2d3332170e35fe877a4b
+ 1. 1. 6 ^s-b48576cbc9fa975ef14d339c
  2208
  2108
  1353
@@ -1016,7 +1021,7 @@ ______________
 
 
 
- 0. 0. 0 ^0ed0cb8adbf9d33c792fdc65
+ 0. 0. 0 ^s-b9cf46d56f1b2b78b5d3fa02
  I. Ministerijos
 
 
@@ -1026,7 +1031,7 @@ ______________
 
 
 
- 9.900. 9 ^d9dbe7fd16a0a02891699953
+ 9.900. 9 ^s-6b66ce6ae17212a2bc2c6809
  Aplinkos ministerija
 
 
@@ -1038,7 +1043,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 13. 9. 1 ^f786698d7f72f281318b2887
+ 13. 9. 1 ^s-4dfc04a8d5b384b22372b120
  8045
  7955
  4062
@@ -1048,7 +1053,7 @@ ______________
 
  2 1
  Žemės, žemės gelmių, paviršinių ir požeminių vandenų, atmosferos oro, augmenijos, gyvūnijos bei gamtos išteklių naudojimo, atkūrimo ir apsaugos valstybinė kontrolė
- 13. 4. 1 ^8dc7f0e75c51567f3520e659
+ 13. 4. 1 ^s-acf677666f793d00c687094a
  14522
  13928
  7708
@@ -1058,7 +1063,7 @@ ______________
 
  3 1
  Žuvų ir kitų vandens gyvūnų bei augalų išteklių apsauga, jų naudojimo bei atkūrimo reguliavimas ir kontrolė
- 13. 4. 1 ^f0a93f0ba95e7a30e0988727
+ 13. 4. 1 ^s-f99fd6de718bb8a65ed1ae9f
  1670
  1660
  713
@@ -1068,7 +1073,7 @@ ______________
 
  4 1
  Lietuvos gamtinė aplinka ir kokybiniai pokyčiai
- 13. 4. 1 ^a0f412402798b9beec907f9d
+ 13. 4. 1 ^s-48f6489e1acfc14b5b14ae4b
  4039
  3569
  231
@@ -1078,7 +1083,7 @@ ______________
 
  5 1
  Hidrografinio tinklo valdymas ir reguliavimas
- 13. 4. 1 ^df27570948316fe46bfd7ca1
+ 13. 4. 1 ^s-bb1c5590665c6845f1df5cdb
  599
  589
  348
@@ -1088,7 +1093,7 @@ ______________
 
  6 1
  Gamtinių ekosistemų išsaugojimas
- 13. 4. 1 ^812088757a67dd653e4beb50
+ 13. 4. 1 ^s-f92155f42ddf0e49707a25e9
  5645
  5215
  2991
@@ -1098,7 +1103,7 @@ ______________
 
  7 1
  Stacionarių gyvūnijos bei geologinių, faunistinių ir floristinių gamtos vertybių ekspozicijų rengimas
- 13. 4. 1 ^07fc5382387a5c910d87a945
+ 13. 4. 1 ^s-2aa245becfef2b0db3e4a3ee
  2081
  2051
  1098
@@ -1108,7 +1113,7 @@ ______________
 
  8 1
  Žinybinis archyvas
- 1. 4. 2 ^eda0573ee59c5ff41368089f
+ 1. 4. 2 ^s-a8b3df147b3ac3c377c233c9
  109
  82
  45
@@ -1118,7 +1123,7 @@ ______________
 
  9 1
  Autoūkio išlaikymas
- 13. 4. 1 ^208082416d11e2369f01c60a
+ 13. 4. 1 ^s-7baa6442d00f322d5d0c3ade
  536
  506
  249
@@ -1128,7 +1133,7 @@ ______________
 
  10 1
  Paskolų grąžinimas
- 13. 4. 1 ^42c5372fb65f7147e1bc20f7
+ 13. 4. 1 ^s-afefa5ee85cbbfee37f7918b
  46
  46
 
@@ -1138,7 +1143,7 @@ ______________
 
  11 1
  Aplinkos kokybės gerinimas
- 13. 6. 1 ^9c959b9b7827e8c63f722cba
+ 13. 6. 1 ^s-c3671f2014afbe7ddce5eab2
  614
  614
 
@@ -1148,7 +1153,7 @@ ______________
 
  12 1
  Biologinės įvairovės ir gamtos išteklių apsauga
- 13. 6. 1 ^814302abcb4fb903b77202f8
+ 13. 6. 1 ^s-202cda839c65332fc911d706
  403
  403
 
@@ -1158,7 +1163,7 @@ ______________
 
  13 1
  Aplinkos teisinių normų derinimo su ES reikalavimais strategijos ir bendros aplinkos politikos įgyvendinimas
- 13. 6. 1 ^6121dcd50f07cebdc24e17e0
+ 13. 6. 1 ^s-55f4914d5d4744d3e86cd4e8
  141
  141
 
@@ -1168,7 +1173,7 @@ ______________
 
  14 1
  Būsto techninis normavimas
- 11. 3. 1 ^cf7693c0675ed590fa5c4715
+ 11. 3. 1 ^s-fb4e36010440ebfbc547dff6
  725
  650
 
@@ -1178,7 +1183,7 @@ ______________
 
  15 1
  Teritorijų planavimas
- 11. 3. 1 ^b038a3c1317db2de00680e59
+ 11. 3. 1 ^s-72f2597218bfca3781569e6c
  1378
  653
 
@@ -1188,7 +1193,7 @@ ______________
 
  16 1
  Valstybinis aplinkos monitoringas
- 13. 6. 1 ^04f0e48c516c946aaec83e32
+ 13. 6. 1 ^s-3ea579e8613685b09a1b215a
  680
  680
 
@@ -1198,7 +1203,7 @@ ______________
 
  17 1
  Pesticidų nukenksminimas
- 13. 6. 1 ^3b3771a4d8898cafe672da03
+ 13. 6. 1 ^s-02f0d639a6eda417e5a1f87a
  810
  810
 
@@ -1208,7 +1213,7 @@ ______________
 
  19 1
  Žuvų veisimas Lietuvos vandens telkiniuose
- 10. 3. 1 ^ee628aff56c295a5836786cc
+ 10. 3. 1 ^s-4f0098c3bfb7c55d973b50be
  93
  93
 
@@ -1236,7 +1241,7 @@ ______________
 
 
 
- 12.900. 32 ^390e2341ad9ffdb3b1a63060
+ 12.900. 32 ^s-3cc6ec49f51fc821a3435530
  Finansų ministerija
 
 
@@ -1248,7 +1253,7 @@ ______________
 
  1 1
  Finansų politikos įgyvendinimas
- 1. 1. 2 ^5ee5f47df049677c2c3e6a7d
+ 1. 1. 2 ^s-fbfd33967e8cff0e1038b2b0
  4387
  3692
  8802
@@ -1258,7 +1263,7 @@ ______________
 
  2 1
  „Būstas“
- 14. 1. 1 ^1e512d436ab194316592d14b
+ 14. 1. 1 ^s-d67f8c458b2b33f2d5c8cc03
  4400
  4400
 
@@ -1268,7 +1273,7 @@ ______________
 
  3 1
  Gyventojams taikomų padidėjusių šiluminės ir elektros energijos kainų dalinis kompensavimas
- 14. 1. 3 ^7e17e404935ae593642cc7fd
+ 14. 1. 3 ^s-9abc54519e06b930d7514d0d
  125264
  25264
 
@@ -1278,7 +1283,7 @@ ______________
 
  6 1
  Vyriausybės rezervo fondas
- 14. 1. 3 ^7f5022ff97be42eadd1dc703
+ 14. 1. 3 ^s-32b752a8be643e2ef143cf5e
  49950
  49950
 
@@ -1298,7 +1303,7 @@ ______________
 
  8 1
  Valstybės skolos aptarnavimo išlaidos
- 14. 1. 1 ^8bbca0491929e7ee8f059fa5
+ 14. 1. 1 ^s-1049dd6282922fa3e789e7b6
  722473
  672314
 
@@ -1308,7 +1313,7 @@ ______________
 
  10 1
  Speciali tikslinė dotacija savivaldybėms
- 14. 1. 2 ^bab6b2f74c5feaccd3eaa102
+ 14. 1. 2 ^s-600fe22586c8bb02bdf5c50a
  126768
  126768
 
@@ -1318,7 +1323,7 @@ ______________
 
  12 1
  Valstybės parama asmenims, patyrusiems žalą likviduojant Černobylio atominės elektrinės avarijos padarinius
- 6. 3. 1 ^8d31ed3d557b4a2482217fd1
+ 6. 3. 1 ^s-1079b62239246bec2dbe35e1
  1000
  1000
 
@@ -1328,7 +1333,7 @@ ______________
 
  13 1
  Žalos atlyginimas nukentėjusiems dėl sveikatos suluošinimo darbe ar susirgimo profesine liga, kai ši prievolė pereina valstybei
- 6. 3. 1 ^aea995037caa670e9ca22bde
+ 6. 3. 1 ^s-c701135587a184de2304c91c
  3000
  3000
 
@@ -1338,7 +1343,7 @@ ______________
 
  14 1
  Narystės mokesčiai tarptautinėms organizacijoms
- 14. 1. 3 ^0f3cb96efd2f4335f3071e67
+ 14. 1. 3 ^s-fbc48ef94845e930b2c15735
  8500
  8500
 
@@ -1366,7 +1371,7 @@ ______________
 
 
 
- 13.900. 91 ^a88957c345b6bad2c280046f
+ 13.900. 91 ^s-5b000240ba30461ef826a489
  Krašto apsaugos ministerija
 
 
@@ -1378,7 +1383,7 @@ ______________
 
  1 1
  Personalo veiklos ir materialinės bazės funkcionavimo užtikrinimas bei struktūros plėtra
- 2. 1. 1 ^df81d3c8e6296a6bd9b9d69d
+ 2. 1. 1 ^s-d276f51d202e1b32d1525641
  304445
  297128
  142967
@@ -1388,7 +1393,7 @@ ______________
 
  1 2
  Karių sveikatos priežiūra
- 2. 1. 1 ^454e3fc01f975f3d9a6ad8f3
+ 2. 1. 1 ^s-ca5ff5c42e233cd13c61db87
  21494
  20335
  8760
@@ -1398,7 +1403,7 @@ ______________
 
  1 3
  Infrastruktūros plėtra
- 2. 1. 1 ^0ab8f6092af313778d2f2fce
+ 2. 1. 1 ^s-aa5098b2be2ba0b2862396ad
  43461
  18657
 
@@ -1408,7 +1413,7 @@ ______________
 
  1 4
  Gynybinio pajėgumo plėtra
- 2. 1. 1 ^95f5cde9fce2e964226b234c
+ 2. 1. 1 ^s-167120192b4b8749463402a0
  27386
  1858
 
@@ -1418,7 +1423,7 @@ ______________
 
  1 5
  Kovinis parengimas
- 2. 1. 1 ^a41eae05706046bf70f0bd39
+ 2. 1. 1 ^s-26385875e09a19c5894281a1
  43673
  43568
  8970
@@ -1428,7 +1433,7 @@ ______________
 
  1 6
  Šaukimas į karo tarnybą ir mobilizacija
- 2. 1. 1 ^0b2a48b4635f131a49e2dd08
+ 2. 1. 1 ^s-bd765edc4d72b7ae8280228e
  2063
  2013
  748
@@ -1438,7 +1443,7 @@ ______________
 
  1 7
  Karių ir civilių mokymas
- 2. 1. 1 ^7fe0dae8ca8a0efc777d4da4
+ 2. 1. 1 ^s-5220d8911886ed25bbd46487
  4033
  3003
 
@@ -1448,7 +1453,7 @@ ______________
 
 
 
- 2. 1. 2 ^239da1a4ac32133ab24f364f
+ 2. 1. 2 ^s-472e02e105609f999c036a1d
  29613
  29466
  14301
@@ -1458,7 +1463,7 @@ ______________
 
  2 1
  Dalyvavimas tarptautinėse operacijose
- 2. 1. 4 ^2e1ad6b21f977ed4c5d1db53
+ 2. 1. 4 ^s-b94bbd6f8e0e3a84638d5a5d
  13598
  13598
  0906
@@ -1468,7 +1473,7 @@ ______________
 
  3 1
  Pagalba ypatingų situacijų atvejais
- 2. 1. 1 ^0d5713f2ab37c935accc7233
+ 2. 1. 1 ^s-a44f63ae48410fa37b276a80
  855
  556
 
@@ -1478,7 +1483,7 @@ ______________
 
 
 
- 2. 1. 3 ^4a64741a5cef1fe01839a5e5
+ 2. 1. 3 ^s-690a9b0bed5aa25a4f796e18
  5566
  4564
  2142
@@ -1488,7 +1493,7 @@ ______________
 
  4 1
  Valstybės valdymas
- 2. 9. 1 ^6685c974a820ab79d261a952
+ 2. 9. 1 ^s-be781952146d667a807fc174
  18343
  18223
  7772
@@ -1498,7 +1503,7 @@ ______________
 
  5 1
  Pensinis aprūpinimas
- 6. 1. 5 ^bf2823b449e70eb01b1a895a
+ 6. 1. 5 ^s-b4d882162c709116df69e801
  5000
  5000
 
@@ -1508,7 +1513,7 @@ ______________
 
  6 3
  Pagalba visuomeninėms organizacijoms
- 2. 4. 1 ^587829be44f1df3a86236a03
+ 2. 4. 1 ^s-131fad6ace9a0cc45c6dd117
  70
  70
 
@@ -1536,7 +1541,7 @@ ______________
 
 
 
- 14.900. 116 ^ab1b8c26fa56b90731b423fc
+ 14.900. 116 ^s-b7dd261ba44250bf23e1df5c
  Kultūros ministerija
 
 
@@ -1548,7 +1553,7 @@ ______________
 
  1 1
  Profesionalaus meno rėmimas
- 8. 2. 2 ^c3035446ac5007e507fa8966
+ 8. 2. 2 ^s-1587b941a56e0fedbec03eba
  1179
  1179
  534
@@ -1558,7 +1563,7 @@ ______________
 
 
 
- 8. 2. 3 ^1af0ba2ced82ef07c9bcc4a8
+ 8. 2. 3 ^s-dbeb53539bd97b9a12de17b2
  4048
  4048
 
@@ -1568,7 +1573,7 @@ ______________
 
 
 
- 8. 2. 4 ^405921570934858e80d129ec
+ 8. 2. 4 ^s-ff6ffa01204852db7dbad03b
  30594
  30594
 
@@ -1578,7 +1583,7 @@ ______________
 
 
 
- 8. 2. 5 ^e73750d76111a4efd1acd116
+ 8. 2. 5 ^s-55af792bb101033190793c5f
  5300
  5300
 
@@ -1588,7 +1593,7 @@ ______________
 
  1 2
  Tarptautinis kultūrinis bendradarbiavimas
- 8. 2. 5 ^9d38d98465c296502580a1b6
+ 8. 2. 5 ^s-c01dadca4caedc57dc4a50eb
  839
  839
  138
@@ -1598,7 +1603,7 @@ ______________
 
  2 1
  Valstybės švenčių rengimas
- 8. 2. 5 ^33992327fde9b0c710ac25a5
+ 8. 2. 5 ^s-942e6fbbcc2635bffe80e831
  186
  186
 
@@ -1608,7 +1613,7 @@ ______________
 
  3 1
  Dalyvavimas Europos Tarybos ir Europos Sąjungos veikloje
-   8. 2. 5 ^64ee58505182c7f7174012b4
+   8. 2. 5 ^s-3f31d0cb98fbea43652b0230
  223
  223
 
@@ -1618,7 +1623,7 @@ ______________
 
  4 1
  Teatras – Rytų Lietuvai
- 8. 2. 5 ^a271a24281f0ffcb1e89830d
+ 8. 2. 5 ^s-64cf22bf64cbc6ba1cc31ca1
  148
  148
 
@@ -1638,7 +1643,7 @@ ______________
 
  6 1
  Visuomenės bibliotekinis informacinis aprūpinimas
- 8. 2. 1 ^a3ec620aa0a2b87544dbcaac
+ 8. 2. 1 ^s-905bd54ee6a994def82153dc
  12093
  12093
  5158
@@ -1648,7 +1653,7 @@ ______________
 
  6 2
  Knygų ir kitų spaudinių dotavimas
- 8. 2. 5 ^74410728cf270de491de529d
+ 8. 2. 5 ^s-3cf23df8e8d859104752b056
  250
  50
 
@@ -1658,7 +1663,7 @@ ______________
 
 
 
- 8. 3. 1 ^05fd5e306d7f1e4054164304
+ 8. 3. 1 ^s-915c195965883c36c73416db
  2768
  2768
 
@@ -1668,7 +1673,7 @@ ______________
 
  7 1
  Muziejaus rinkinių kaupimas, išsaugojimas, populiarinimas
- 8. 2. 2 ^aebf9913a277bc409505f1d0
+ 8. 2. 2 ^s-6a2450519b7e076a67fa9391
  11868
  11868
  6297
@@ -1678,7 +1683,7 @@ ______________
 
  7 2
  Etninės (tradicinės) kultūros bei mėgėjų meninės veiklos vystymosi rėmimas
-   8. 2. 5 ^3c9da971451268d94845fdf0
+   8. 2. 5 ^s-112e80697488f14760a5169d
    2697
    2697
    1590
@@ -1688,7 +1693,7 @@ ______________
 
  8 1
  Visuomeninės veiklos iniciatyvų rėmimas
-     8. 4. 1 ^2ad49f3edc4f9a3881c7bb1c
+     8. 4. 1 ^s-149c79b9f3b4b6f29b336bbe
      2596
      2596
 
@@ -1698,7 +1703,7 @@ ______________
 
  9 1
  Statybos, projektavimo darbai ir pagrindinių priemonių įsigijimas
-   8. 2. 1 ^0445bc5d1ebe876a51b20939
+   8. 2. 1 ^s-490f6b21e4692d776e855d1a
    644
 
 
@@ -1708,7 +1713,7 @@ ______________
 
 
 
- 8. 2. 2 ^c71fa34e5309513516c65f69
+ 8. 2. 2 ^s-d8684ba2323c9488ada733c1
  1489
 
 
@@ -1718,7 +1723,7 @@ ______________
 
 
 
- 8. 2. 4 ^aba7c8d158b14b60de9ff485
+ 8. 2. 4 ^s-57de6aa3493a458ac1b157aa
  1219
 
 
@@ -1728,7 +1733,7 @@ ______________
 
 
 
- 8. 2. 5 ^45d1d180ff598c4cf81cf273
+ 8. 2. 5 ^s-75e19a1941e639a9df6e45d8
  552
 
 
@@ -1738,7 +1743,7 @@ ______________
 
  10 1
  Kultūros darbuotojų kvalifikacijos kėlimas
-   8. 2. 5 ^1f410ea522b33f52505d9331
+   8. 2. 5 ^s-65b2aaa908e5d3e1c5263f24
    772
    772
    405
@@ -1748,7 +1753,7 @@ ______________
 
  11 1
  Istorinių tyrimų vykdymas, paminklų įtraukimas į sąrašus
-   8. 2. 5 ^f60d1befb0ad8818e6f7e05f
+   8. 2. 5 ^s-6aeccf7b820f49075d5e167d
    68
    68
 
@@ -1758,7 +1763,7 @@ ______________
 
  14 1
  Valstybės valdymas
- 8. 2. 5 ^fc96396370e5d7b60b084f93
+ 8. 2. 5 ^s-f22b21511b349541d16f9549
  32
  32
 
@@ -1768,7 +1773,7 @@ ______________
 
 
 
- 8. 9. 1 ^89b99437564c2e7db6deaf9a
+ 8. 9. 1 ^s-805f9913d0504128373f6682
  4839
  4171
  1990
@@ -1778,7 +1783,7 @@ ______________
 
  15 1
  Jaunųjų atlikėjų rėmimas
- 8. 2. 5 ^ccb1af3f3e23aedd4238c613
+ 8. 2. 5 ^s-1af284b6173cfbced260d927
  308
  308
 
@@ -1788,7 +1793,7 @@ ______________
 
  16 1
  Viešųjų teatrų veiklos rėmimas
-     8. 2. 5 ^9d0d633fb62b9fd7227fdb45
+     8. 2. 5 ^s-555042645456bad27cc0eb38
      103
      103
 
@@ -1806,7 +1811,7 @@ ______________
 
 
 
- 18.900. 173 ^6fd474aa34e0888772364058
+ 18.900. 173 ^s-6c6dfb02ba11e865987a9bdb
  Socialinės apsaugos ir darbo ministerija
 
 
@@ -1816,7 +1821,7 @@ ______________
 
  1 1
  Darbo rinkos profesinis mokymas ir konsultavimas, jaunimo darbinės veiklos galimybių išplėtimas bei socialinių darbuotojų kvalifikacijos kėlimas
-   4. 4. 1 ^e83c6aebd573889565f95a13
+   4. 4. 1 ^s-b2fe66c5c2923cccd264aeb4
    517
    496
    160
@@ -1826,7 +1831,7 @@ ______________
 
 
 
- 4. 6. 1 ^a0e651782d58faf745237429
+ 4. 6. 1 ^s-aa19d5c586c8d86372eed963
  320
  320
  220
@@ -1836,7 +1841,7 @@ ______________
 
  2 1
  Ortopedinė protezinė pagalba Lietuvos Respublikos gyventojams ir specialiosios paskirties automobilių invalidams vežti įsigijimas 1995-2000 metais
-   5. 4. 1 ^ca1c73ac68a5f526c831a2ac
+   5. 4. 1 ^s-9b35da80a2b4d52759efe592
    23380
    23380
 
@@ -1846,7 +1851,7 @@ ______________
 
  3 1
  Valstybinės ir šalpos (socialinės) pensijos bei valstybinė socialinė parama
-   6. 1. 1 ^741771475fe527c1c859512d
+   6. 1. 1 ^s-718ee1bcabb7a5a08fc6e7ad
    283
    283
 
@@ -1856,7 +1861,7 @@ ______________
 
 
 
- 6. 1. 2 ^5fd084b5857d147fa9b4d838
+ 6. 1. 2 ^s-a100d79c7aade368eb980231
  11297
  11297
 
@@ -1866,7 +1871,7 @@ ______________
 
 
 
- 6. 1. 3 ^2d3c5a634e068bab304a4545
+ 6. 1. 3 ^s-d2dc7f2dd1482adfb13ff06d
  208191
  208191
 
@@ -1876,7 +1881,7 @@ ______________
 
 
 
- 6. 1. 8 ^b332405738c5ca3388e09fc3
+ 6. 1. 8 ^s-c42edb711caba6da1857a8b8
  7769
  7769
 
@@ -1886,7 +1891,7 @@ ______________
 
 
 
- 6. 1. 9 ^45b80d7d641aba16a5e6409c
+ 6. 1. 9 ^s-cea2bdcdc640087c610b156a
  94814
  94814
 
@@ -1896,7 +1901,7 @@ ______________
 
 
 
- 6. 1.11 ^675bc61c0ca7092c3e1608ad
+ 6. 1.11 ^s-eaa7d0cd30b4e03e06173113
  27744
  27744
 
@@ -1906,7 +1911,7 @@ ______________
 
 
 
- 6. 1.13 ^74d03c6bef8554b0e0a925cc
+ 6. 1.13 ^s-3736e40e492cd83c9260d0be
  10065
  10065
 
@@ -1916,7 +1921,7 @@ ______________
 
 
 
- 6. 1.15 ^4366e5b6786dedc2184e8c96
+ 6. 1.15 ^s-fe13e63f21d64fa666fdf1da
  5000
  5000
 
@@ -1926,7 +1931,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant jų veiklą ir struktūrą
- 6. 2. 1 ^ec3613e1987b6e47763d1976
+ 6. 2. 1 ^s-ed45f8f90254f1d021d5c902
  11368
  11269
  5615
@@ -1936,7 +1941,7 @@ ______________
 
 
 
- 6. 2. 3 ^2216f3c505661bb8e3ae62a2
+ 6. 2. 3 ^s-f96aa9df65dd55e1ddcf7a88
  26987
  26016
  9053
@@ -1946,7 +1951,7 @@ ______________
 
 
 
- 6. 2. 4 ^ae21da8507d787de2e225e9c
+ 6. 2. 4 ^s-8e74e288bd08d9b4b54c474a
  9673
  9289
  3901
@@ -1956,7 +1961,7 @@ ______________
 
  5 1
  Socialinės apsaugos ir darbo ministerijos veikla, nesusijusi su įstaigos išlaikymu
- 6. 3. 1 ^41c1ce96362660f9519a7a18
+ 6. 3. 1 ^s-bbb5294f472871e69bc19124
  72555
  72360
 
@@ -1966,7 +1971,7 @@ ______________
 
  5 2
  Tarptautiniai pagyvenusių žmonių metai
-     6. 3. 1 ^640848e6a7e8adbbb6edd9d5
+     6. 3. 1 ^s-4b1e371bab569d9ca5c8f93c
      1105
      1105
 
@@ -1976,7 +1981,7 @@ ______________
 
  5 3
  Socialinės apsaugos ir darbo ministerijos išlaikymas (valdymas)
- 6. 9. 1 ^af0f0502047b9facbb94226a
+ 6. 9. 1 ^s-ec85af2346dd8eaac2e8c969
  6014
  5804
  3117
@@ -1986,7 +1991,7 @@ ______________
 
  6 1
  Gyvenimo lygio, gyventojų užimtumo, socialinio draudimo ir socialinės apsaugos Lietuvoje moksliniai tyrimai
- 6.10. 1 ^f83aae6c331fc47c02f9e720
+ 6.10. 1 ^s-babdb0c9d629a74d7bece54f
  741
  707
  476
@@ -1996,7 +2001,7 @@ ______________
 
  6 2
  Profesinio pakenkimo sveikatai prevencija
- 6.10. 1 ^07476d57075139f752435269
+ 6.10. 1 ^s-267ebb2e08b34ef6338d94d3
  1840
  1706
  556
@@ -2006,7 +2011,7 @@ ______________
 
  7 1
  Socialinių paslaugų infrastruktūros plėtra 1998-2000 metais
- 6. 3. 1 ^b3f6a098bc01ca58dcaea9de
+ 6. 3. 1 ^s-4011aea2ac5c86378c458ccc
  11000
  1000
 
@@ -2016,7 +2021,7 @@ ______________
 
  8 1
  Paskolų ir socialinės saugos tinklo projektų aptarnavimas
- 14. 1. 3 ^c00ae2afa2026833fe27d54a
+ 14. 1. 3 ^s-d653bac181f37337d1fba342
  420
  2420
 
@@ -2044,7 +2049,7 @@ ______________
 
 
 
- 20.900. 219 ^eae82fb8189aa04ce45d5b9f
+ 20.900. 219 ^s-fd018af3544a0aa10aef5cfe
  Susisiekimo ministerija
 
 
@@ -2056,7 +2061,7 @@ ______________
 
  1 1
  Nacionalinė transporto plėtra
- 12. 6. 1 ^cbee612efd76c34668c2566c
+ 12. 6. 1 ^s-0bdd78d2d4a1feb8cfdbcfbe
  550
  1550
 
@@ -2066,7 +2071,7 @@ ______________
 
  1 2
  Valstybės rezervo sudarymas ir saugojimas
- 2. 6. 1 ^2e02309faf5e8f0594d0e208
+ 2. 6. 1 ^s-63c99d1cc47635e32cb1216e
  24
  94
 
@@ -2076,7 +2081,7 @@ ______________
 
  1 3
  Keleivių pervežimo gerinimas
-     12. 6. 1 ^4f466c5846cd724eccec175b
+     12. 6. 1 ^s-f5257ea957d2822d5e93cf30
      5645
      1259
 
@@ -2086,7 +2091,7 @@ ______________
 
  1 5
  Valstybės valdymas
- 12. 9. 1 ^36fb149715c53791b62007a2
+ 12. 9. 1 ^s-78dcc6431c089a49b8ba4087
  6492
  6442
  3551
@@ -2096,7 +2101,7 @@ ______________
 
  1 6
  Geležinkelio apsauga ir priežiūra
-     12. 6. 1 ^7a1c61a0e7bc0feebd11a49c
+     12. 6. 1 ^s-eeae317d798822a12d58e7e2
      2935
      2915
 
@@ -2106,7 +2111,7 @@ ______________
 
  1 7
  Teisės aktų derinimas
- 14. 1. 3 ^edf8d562f8e4f84d19cfe107
+ 14. 1. 3 ^s-bc1efd53b9c50dd0ee78f0fd
  76
  76
 
@@ -2116,7 +2121,7 @@ ______________
 
  1 9
  Specialiojo atašė delegavimas
-     12. 9. 1 ^aaf9cff185b0a4b857425d79
+     12. 9. 1 ^s-5ea4fe7b7bdbb76b379cb761
      200
      200
      40
@@ -2144,7 +2149,7 @@ ______________
 
 
 
- 21.900. 220 ^56e82dbee346241b82582de3
+ 21.900. 220 ^s-ddf21f00d976ba190e33aa5f
  Sveikatos apsaugos ministerija
 
 
@@ -2156,7 +2161,7 @@ ______________
 
  1 1
  Visuomenės sveikatos priežiūra
-     5. 6. 1 ^7105cc63e29f6e6384148b39
+     5. 6. 1 ^s-dde3814a5eca0a65c12f5866
      43619
      43585
      30693
@@ -2166,7 +2171,7 @@ ______________
 
  2 1
  Patologinių anatomijos centrų, medicininės teisės ir teismo psichiatrinių ekspertizių kokybės užtikrinimas ir atlikimo operatyvumas
- 5. 6. 1 ^eb8b99662d1a3e2402b0f5cd
+ 5. 6. 1 ^s-7c1dc9000cbead4d46341b58
  12824
  11974
  8011
@@ -2176,7 +2181,7 @@ ______________
 
  3 1
  Valstybinių medicininių išteklių rezervo kaupimas
-     5.12. 1 ^499cf97efdd61f933eca48d5
+     5.12. 1 ^s-60e7fd0a8fb6b2316185f6f6
      2117
      1592
      820
@@ -2186,7 +2191,7 @@ ______________
 
  4 1
  Sveikatos apsaugos teisės ir ekonomikos centro, Lietuvos medicinos etikos (bioetikos) ir kita veikla
- 5.12. 1 ^99a3f165ff086f6f166e7b0c
+ 5.12. 1 ^s-fbb58efd61a523d5af560780
  3115
  3115
    1160
@@ -2196,7 +2201,7 @@ ______________
 
  5 1
  Sveikatos priežiūros įstaigų bazės stiprinimas ir modernizavimas
-         5.12. 1 ^52f2eb1e4bce263d6f88cd74
+         5.12. 1 ^s-cb64d2a9c9d9189dedd58c2f
          43340
          8986
 
@@ -2206,7 +2211,7 @@ ______________
 
  6 1
  Nacionalinė imunoprofilaktikos ir užkrečiamųjų ligų laboratorinė diagnostikos programa
- 5.12. 1 ^d30a8e28ab2a902e61123726
+ 5.12. 1 ^s-ed0a63be0f38bc89d062d443
  4956
  4956
 
@@ -2216,7 +2221,7 @@ ______________
 
  7 1
  Medicinos specialistų kvalifikacijos kėlimas
-     5.12. 1 ^e817354168eb40d7e8405f6c
+     5.12. 1 ^s-ee8559008405a5a5f30a732d
      4560
      4560
      2349
@@ -2226,7 +2231,7 @@ ______________
 
  8 1
  Slaugos darbuotojų tobulinimas, specializacija ir kvalifikacijos kėlimas
- 4. 4. 1 ^cae9e06f0c9665a5e751daad
+ 4. 4. 1 ^s-6966c42eecb50a2c52c8a463
  2060
  2030
  1469
@@ -2236,7 +2241,7 @@ ______________
 
  9 1
  Visuomenės sveikatos priežiūra (Higienos institutas)
- 5.10. 1 ^375cc71452413203903b8f6e
+ 5.10. 1 ^s-f3a76b4ab7f6d7da1bf8ba0d
  1842
  1572
  1041
@@ -2246,7 +2251,7 @@ ______________
 
  10 1
  Teisės aktų derinimas
- 14. 1. 3 ^0b91e209aa91d1f70e8d0950
+ 14. 1. 3 ^s-eee6741b823f1a40c1160be4
  94
  94
 
@@ -2256,7 +2261,7 @@ ______________
 
  11 1
  Mokslo ir technikos plėtra
- 5.11. 1 ^0de77c159bdf20d7d1d1cc58
+ 5.11. 1 ^s-3672b913d1e6a2761ff28f78
  9813
  2213
  1281
@@ -2266,7 +2271,7 @@ ______________
 
  12 1
  Valstybės valdymas
- 5. 9. 1 ^bcc06764863ac8a40d514805
+ 5. 9. 1 ^s-2a4d90e47eba1f630a8c3a8c
  3943
  3843
  2272
@@ -2276,7 +2281,7 @@ ______________
 
  13 1
  Iš privalomojo sveikatos draudimo fondo biudžeto gautai paskolai padengti
- 14. 1. 3 ^f68cbbee03170cb6ff025693
+ 14. 1. 3 ^s-72a7d1b0f3a86f7614c9369d
  2172
  2172
 
@@ -2304,7 +2309,7 @@ ______________
 
 
 
- 22.900. 326 ^87cf878ad7838e0a0a305163
+ 22.900. 326 ^s-06a0d810b7d3625c6f471b5a
  Švietimo ir mokslo ministerija
 
 
@@ -2316,7 +2321,7 @@ ______________
 
  1 1
  Švietimo reformos antrasis etapas
-     4. 4. 1 ^5b4beadb794ccf52112afe3e
+     4. 4. 1 ^s-e374cab8c57d4f49fa997f43
      3230
      3199
      2322
@@ -2326,7 +2331,7 @@ ______________
 
 
 
- 4. 4. 2 ^39a512112bf27cf01b6e6d02
+ 4. 4. 2 ^s-a2931af9c0e03af2f63b9c37
  7297
  7148
  4623
@@ -2336,7 +2341,7 @@ ______________
 
 
 
- 4. 6. 1 ^848c9ce43b2878d013a0da06
+ 4. 6. 1 ^s-91caad57e051f86a3257d7c5
  3817
  3777
  2426
@@ -2346,7 +2351,7 @@ ______________
 
 
 
- 4. 6. 3 ^69ff7711fcb2d6e3aa59fb85
+ 4. 6. 3 ^s-142ad85b22a9db2c830222c3
  20391
  20386
  1197
@@ -2356,7 +2361,7 @@ ______________
 
 
 
- 4.10. 1 ^5c932628aaa9dfff49591284
+ 4.10. 1 ^s-1a9c9583e7c6accc0000de3c
  1360
  1354
  928
@@ -2366,7 +2371,7 @@ ______________
 
  1 2
  Socialinių-kultūrinių ugdymosi sąlygų sudarymas
-     4. 6. 3 ^b263d79ea11745e57aea73a8
+     4. 6. 3 ^s-b37d3ee508daa0088ddd09b1
      5286
      5286
      487
@@ -2376,7 +2381,7 @@ ______________
 
 
 
- 4. 6. 9 ^7f0871cd0cd36684308fc899
+ 4. 6. 9 ^s-5d77d84a857d4f7f7d143d00
  229
  224
  134
@@ -2386,7 +2391,7 @@ ______________
 
 
 
- 4.10. 1 ^cb5d8e9b48e3dc451bc2ff7a
+ 4.10. 1 ^s-09f3c455458834927f92e13d
  1622
  1607
  913
@@ -2396,7 +2401,7 @@ ______________
 
 
 
- 8. 2. 2 ^3830af4229cfb372d4bc9dfa
+ 8. 2. 2 ^s-ec79b66607549d5f090a69b4
  251
  247
  157
@@ -2406,7 +2411,7 @@ ______________
 
  1 3
  Švietimo technologijų modernizavimo ir informacinės visuomenės kūrimas
- 4. 6. 1 ^e9b7f26540fc13f6b92dde8e
+ 4. 6. 1 ^s-775180378f2ae454dbfb570a
  1009
  992
  659
@@ -2416,7 +2421,7 @@ ______________
 
 
 
- 4. 6. 3 ^f75ad67b8333acf4a34ee338
+ 4. 6. 3 ^s-8a4d75cc7154a7319b3b4e89
  5481
  759
 
@@ -2426,7 +2431,7 @@ ______________
 
  1 4
  Švietimo įstaigų pastatų statyba, renovacija bei materialinės bazės atnaujinimas
- 4. 2. 1 ^ffd964230708f11a9e01a2a1
+ 4. 2. 1 ^s-6bca1f8fee37aadbedf927a8
  11677
 
 
@@ -2436,7 +2441,7 @@ ______________
 
 
 
- 4. 4. 2 ^878fa3aadd10c91b71f2bcfc
+ 4. 4. 2 ^s-add10dfbd1446b1832d968e6
  200
 
 
@@ -2446,7 +2451,7 @@ ______________
 
  1 5
  Bendrojo lavinimo mokyklų, finansuojamų iš valstybės biudžeto, funkcionavimas
- 4. 2. 1 ^34e8252c0a9d5e7a31980625
+ 4. 2. 1 ^s-c76e279b3d1b8aa0fa952231
  9369
  9259
  5905
@@ -2464,7 +2469,7 @@ ______________
 
  1 6
  Bendrojo lavinimo internatinių mokyklų, finansuojamų iš valstybės biudžeto, funkcionavimas
- 4. 2. 2 ^48fdc8b7d872f654a242f383
+ 4. 2. 2 ^s-a29c4bad93599646c4d5fe4b
  36552
  36285
  21989
@@ -2474,7 +2479,7 @@ ______________
 
  2 1
  Profesinis mokymas
- 4. 2. 3 ^46ea18551616aa56368f473b
+ 4. 2. 3 ^s-98b678e9d114b6923c8ed6fd
  111808
  110626
  55396
@@ -2484,7 +2489,7 @@ ______________
 
 
 
- 4. 5. 3 ^162a2a223cc93a6ab70a2412
+ 4. 5. 3 ^s-ab40dbf52340ed401c67862e
  17
  17
 
@@ -2494,7 +2499,7 @@ ______________
 
  2 2
  Aukštesniosios studijos
- 4. 3. 2 ^a88ca2f4d4ed8f5cc47cd2c5
+ 4. 3. 2 ^s-8ed76fe6c87100128c0ab7e0
  95447
  93618
  50952
@@ -2504,7 +2509,7 @@ ______________
 
 
 
- 4. 5. 4 ^023bf673e13dfec2e4b28aa7
+ 4. 5. 4 ^s-209d2512996b711d95370a63
  92
  92
 
@@ -2514,7 +2519,7 @@ ______________
 
 
 
- 4. 6. 2 ^b616363b84f1739319392e53
+ 4. 6. 2 ^s-b8c55566848fa86436e62a88
  53
  53
  39
@@ -2524,7 +2529,7 @@ ______________
 
  3 1
  Profesinio rengimo reforma pagal „Baltąją knygą“
-     4. 6. 1 ^2d81fd3d3254608c0551f5ab
+     4. 6. 1 ^s-bf6161de33428a43db91d3f5
      413
      403
      247
@@ -2534,7 +2539,7 @@ ______________
 
 
 
- 4. 6. 3 ^81caf1a4735815542512ec91
+ 4. 6. 3 ^s-68df4debd95f6eb936c98f12
  264
  242
  70
@@ -2544,7 +2549,7 @@ ______________
 
  4 1
  Dvišalis ir daugiašalis tarptautinis bendradarbiavimas
-         4. 6. 3 ^a0b855dcac7bc1006c906979
+         4. 6. 3 ^s-1ca71ab3b59680c2dd932500
          89
          89
 
@@ -2554,7 +2559,7 @@ ______________
 
  4 2
  Integravimasis į Europos Sąjungos švietimo struktūras
-         4. 6. 3 ^130d53894d2b85cc7ba5fb14
+         4. 6. 3 ^s-02d82f6fc3ed8ad6c4e21339
          3985
          3985
          300
@@ -2564,7 +2569,7 @@ ______________
 
  5 1
  Valstybės valdymas
- 4. 9. 1 ^0ca3fb54cce1d02ed6b2a56a
+ 4. 9. 1 ^s-4a6f5a73b2da3176056194e0
  4963
  4803
  2963
@@ -2574,7 +2579,7 @@ ______________
 
  5 2
  Socialinių ir ekonominių švietimo programų rengimas
-         4. 6. 3 ^aa54aa02e0fbdf7bda3ba6b5
+         4. 6. 3 ^s-361ffb160f99c12572a64f48
          399
          399
          244
@@ -2602,7 +2607,7 @@ ______________
 
 
 
- 23.900. 551 ^e2163e61c374b5bcf198e8fb
+ 23.900. 551 ^s-38176634eefe688cf16d7326
  Teisingumo ministerija
 
 
@@ -2614,7 +2619,7 @@ ______________
 
  1 1
  Teisėsaugos institucijų sistemos koordinavimas ir kontrolė
-         3. 9. 1 ^996887c0a1ceba733e7162c5
+         3. 9. 1 ^s-9ce4ba4db6319e28c7f167db
          3197
          3147
          1970
@@ -2624,7 +2629,7 @@ ______________
 
  1 3
  Neteisėtais pareigūnų veiksmais padarytos moralinės ir materialinės žalos atlyginimas
- 14. 1. 3 ^fa6b48be562093b4613c8454
+ 14. 1. 3 ^s-7958a2ba9672ae1d6b05dc74
  150
  50
 
@@ -2634,7 +2639,7 @@ ______________
 
  1 5
  Advokatams, dalyvaujantiems bylose pagal BPK 561 straipsnį, apmokėjimas
- 14. 1. 3 ^a98096dfd58e53531208f9f4
+ 14. 1. 3 ^s-85cfa2481bbd9955bbecd2b4
  2535
  2535
 
@@ -2644,7 +2649,7 @@ ______________
 
  2 1
  Teisinės sistemos reformos metmenų įgyvendinimas
-     3. 2. 1 ^0baf2f7e201cb78113d1d35b
+     3. 2. 1 ^s-fc7eafc1bb28794b02936729
      110562
      108062
      75761
@@ -2654,7 +2659,7 @@ ______________
 
  2 2
  Hipotekų registro plėtojimas
-     3. 2. 1 ^2d4587c14a2dc7a0697ee1b8
+     3. 2. 1 ^s-a2a3a42b9a6a54f73daa64f2
      6035
      4335
      1760
@@ -2664,7 +2669,7 @@ ______________
 
  2 3
  Teisėjų, antstolių, teismų ir hipotekos darbuotojų kvalifikacijos kėlimas
- 3. 2. 1 ^932af2b9ca5fc1a7f656b1de
+ 3. 2. 1 ^s-ac2d3285eaf1c49c93c6b25d
  139
  139
 
@@ -2674,7 +2679,7 @@ ______________
 
  3 1
  Naujų tyrimo metodų įdiegimas ir ekspertinė praktika
- 3.10. 1 ^2e12e63e318a7db8b1439044
+ 3.10. 1 ^s-5c7507f7a7b2218c7d172f1a
  4360
  360
  2881
@@ -2684,7 +2689,7 @@ ______________
 
  4 1
  Dalyvavimas kuriant teisės ir teisinę sistemą
-     3.10. 1 ^cfc74d2250d5f85411d3715e
+     3.10. 1 ^s-e338e053a10286763440c63d
      206
      206
      140
@@ -2694,7 +2699,7 @@ ______________
 
  4 2
  Nusikalstamumas ir jo prevencijos problemos Lietuvoje
- 3.10. 1 ^f486fe0a5b692c364fa08a63
+ 3.10. 1 ^s-cc95805a6132bd1f125efa0e
  532
  532
  393
@@ -2734,7 +2739,7 @@ ______________
 
  1 1
  Eksporto plėtojimas
- 11. 2. 1 ^07e34b42efd2e14f05504403
+ 11. 2. 1 ^s-c7956a21e878e74e5e6a2c85
  25050
  25050
 
@@ -2744,7 +2749,7 @@ ______________
 
  1 2
  Nacionalinė kokybė
- 11. 2. 1 ^8b772f0e022aa364b3667bc9
+ 11. 2. 1 ^s-78e669f38b1154187e7b3f93
  20
  20
 
@@ -2754,7 +2759,7 @@ ______________
 
  1 3
  Pramonės plėtojimas iki 2005 m.
-     11. 2. 1 ^bc653b56b90cb4ca77e10bd1
+     11. 2. 1 ^s-74a0ef47df702bf02ec5bf1c
      20
      20
 
@@ -2764,7 +2769,7 @@ ______________
 
  1 4
  Nacionalinės energetikos strategijos įgyvendinimo ir patikslintos nacionalinės strategijos parengimo darbai
- 11. 2. 1 ^79e969135f8d824135037a2b
+ 11. 2. 1 ^s-c641bba977c86bbe2ad9f3c7
  1045
  1045
 
@@ -2774,7 +2779,7 @@ ______________
 
  1 5
  Nacionalinės energijos vartojimo efektyvumo didinimas
- 11. 2. 1 ^2eb8d87ba433a397093e4f6d
+ 11. 2. 1 ^s-77a566a6e2226ed3730efb77
  60
  1760
 
@@ -2826,7 +2831,7 @@ ______________
 
  1 9
  Pavojingų atliekų tvarkymas Lietuvoje
- 11. 2. 1 ^d854a5a274c6347b4df31ffd
+ 11. 2. 1 ^s-dd7871be660d8e1b8723b62c
  1297
 
 
@@ -2836,7 +2841,7 @@ ______________
 
  1 10
  Antrinių žaliavų ir atliekų naudojimas
- 11. 2. 1 ^d47b7aee406674f9eccd88b2
+ 11. 2. 1 ^s-c195ebed83ab621759f98209
  459
  459
 
@@ -2846,7 +2851,7 @@ ______________
 
  1 11
  Ekonominių grėsmių mažinimas ir ekonominio saugumo užtikrinimas Lietuvos ūkio funkcionavimo ekstremaliomis sąlygomis
- 11. 2. 1 ^3c4a2a22f9e0c05bd13dfb84
+ 11. 2. 1 ^s-d74db4c719ca976c447c5268
  44
  44
 
@@ -2866,7 +2871,7 @@ ______________
 
  1 16
  Lietuvos ūkio efektyvumo didinimo mokslinio tyrimo darbai
- 11.10. 1 ^04691a3481cf39b88af4c295
+ 11.10. 1 ^s-35b368ea11c9a1622b37633d
  894
  894
  626
@@ -2876,7 +2881,7 @@ ______________
 
  1 18
  Valstybės valdymas
- 11. 9. 1 ^a51ad81de820aea982555249
+ 11. 9. 1 ^s-8922b20300833f471320ffb7
  9598
  8392
  4874
@@ -2886,7 +2891,7 @@ ______________
 
  1 19
  Teisės derinimo komisijų veikla
-     14. 1. 3 ^8d9f8c974e3328339bc50277
+     14. 1. 3 ^s-8f0b669c2ee4c269d9f2de13
      141
      141
 
@@ -2896,7 +2901,7 @@ ______________
 
  1 20
  Europos Sąjungos SAVE programos administracinės išlaidos
- 11. 2. 1 ^cb1916f314ad2b3822f1cfdf
+ 11. 2. 1 ^s-c00bbaac4f15f9dc8da3b1e3
  144
  144
 
@@ -2906,7 +2911,7 @@ ______________
 
  1 21
  Europos Sąjungos amatų įmonių ir smulkių įmonių bendradarbiavimo programos administracinės išlaidos
- 11. 2. 1 ^c0306a088b158122efecd1cc
+ 11. 2. 1 ^s-482246ffba64941dc16fcdf0
  28
  28
 
@@ -2916,7 +2921,7 @@ ______________
 
  1 27
  Specialiojo atašė delegavimas
-     11. 9. 1 ^362b658dcde4777863f199c8
+     11. 9. 1 ^s-ebd0e8809a7ca9ab1cb0b11f
      340
      290
      70
@@ -2944,7 +2949,7 @@ ______________
 
 
 
- 24.900. 554 ^4f8e3580a92172b34e92bf33
+ 24.900. 554 ^s-7388a0d8029b3240f954955c
  Užsienio reikalų ministerija
 
 
@@ -2956,7 +2961,7 @@ ______________
 
  1 1
  Užsienio reikalų ministerijos ir diplomatinių atstovybių išlaikymas
- 1. 1. 3 ^df945ea0f3d41dde0db0f57c
+ 1. 1. 3 ^s-75d544e434992f10571b8435
  14548
  102
  6711
@@ -2966,7 +2971,7 @@ ______________
 
 
 
- 1. 4. 2 ^476bd2f353fa2318d7b3db5e
+ 1. 4. 2 ^s-fa0ce4bb2272286458dfae06
  778
  778
 
@@ -2976,7 +2981,7 @@ ______________
 
 
 
- 1. 5. 1 ^a9de4d2ee3208b583fd6f93a
+ 1. 5. 1 ^s-9c73dfb0da7e0e3a9896c1de
  72465
  71271
  32349
@@ -2986,7 +2991,7 @@ ______________
 
 
 
- 14. 1. 3 ^2c71e13195767e4ce13abbc4
+ 14. 1. 3 ^s-b605e0e3a5399384d57aff8a
  1500
  1500
 
@@ -2996,7 +3001,7 @@ ______________
 
  2 1
  Atstovavimas tarptautinėse organizacijose
-     1. 5. 1 ^9919db0a7c0ca6eb1124e281
+     1. 5. 1 ^s-a2df58e8ed324f6eff4bd545
      12034
      12034
 
@@ -3006,7 +3011,7 @@ ______________
 
  3 1
  Užsienio reikalų ministerijos ir diplomatinių atstovybių saugaus funkcionavimo užtikrinimas
- 1. 1. 3 ^37e349580e57ab127681c675
+ 1. 1. 3 ^s-0dfaaf835c43eac5d407ab14
  1126
 
 
@@ -3016,7 +3021,7 @@ ______________
 
 
 
- 1. 5. 1 ^ab96557eb84fcbbc695091ef
+ 1. 5. 1 ^s-5342813c15e58a085252bacd
  354
 
 
@@ -3026,7 +3031,7 @@ ______________
 
  4 1
  Nekilnojamojo turto užsienyje įsigijimas
-     1. 5. 1 ^d33e72a42afa6de30934d123
+     1. 5. 1 ^s-bd9cc042d7fa5427079fe2cc
      5909
      380
 
@@ -3036,7 +3041,7 @@ ______________
 
  5 1
  Lietuvos Respublikos kultūros ir kitų laimėjimų pristatymas
-   1. 1. 3 ^6d36901e5cf06331caca2070
+   1. 1. 3 ^s-719ada72d6a6ab9d5a08b268
    70
    70
 
@@ -3046,7 +3051,7 @@ ______________
 
 
 
- 1. 5. 1 ^472c32916515e34677829ba7
+ 1. 5. 1 ^s-2bf91bf2cfa836382be4b57c
  243
  243
 
@@ -3074,7 +3079,7 @@ ______________
 
 
 
- 25.900. 616 ^40a6aa045eff412cfd3429e3
+ 25.900. 616 ^s-b047b6729b1a1a8d86c1d5d3
  Valdymo reformų ir    savivaldybių reikalų    ministerija
 
 
@@ -3084,7 +3089,7 @@ ______________
 
  1 1
  Administracinių vienetų ir gyvenamųjų vietovių ir gatvių valstybės registro informacinės sistemos plėtojimas ir eksploatavimas
- 14. 1. 3 ^2f0c8c22f6c36aea0f2ea188
+ 14. 1. 3 ^s-60697ef679f0f20bfdc662f0
  434
  434
 
@@ -3094,7 +3099,7 @@ ______________
 
  2 1
  Valstybės tarnybos reforma
- 14. 1. 3 ^00976903fb716e56d6e86763
+ 14. 1. 3 ^s-5f003fd9c79f6e79970929cb
  414
  414
 
@@ -3104,7 +3109,7 @@ ______________
 
  3 1
  Komunalinio ūkio koncepcijos įgyvendinimas
-     7. 1. 3 ^be7b4eb85e007b528bf9c995
+     7. 1. 3 ^s-91b4ce2e524a550324d4a6dc
      88
      88
 
@@ -3114,7 +3119,7 @@ ______________
 
  4 1
  Informacinės visuomenės kūrimo Lietuvoje koordinavimas
- 12. 8. 1 ^ea96fa2848472b4e2388b507
+ 12. 8. 1 ^s-d698b0c270730ca26db2d540
  1005
  1005
 
@@ -3124,7 +3129,7 @@ ______________
 
  4 2
  Lietuvos Respublikos administracinės informacinės sistemos projektavimas ir diegimas
- 12. 8. 1 ^2fddbeafd3cfdc4aa2db55a8
+ 12. 8. 1 ^s-6cf4ca091fc2f883ec4d5b2d
  554
  554
 
@@ -3134,7 +3139,7 @@ ______________
 
  4 3
  Apskričių viršininkų administracijų informacinės sistemos plėtojimas ir įgyvendinimas
- 12. 8. 1 ^08bdea724d8c14a23eac9b23
+ 12. 8. 1 ^s-fc48ea085faa4846000c05b6
  800
  800
 
@@ -3144,7 +3149,7 @@ ______________
 
  4 4
  Integralios valstybės registrų sistemos plėtra, valstybės bendros informacijos sistemos kūrimas
- 12. 8. 1 ^96e17ee45f7b5452bf3a2934
+ 12. 8. 1 ^s-6789c597b4d9f2ba5ed6fe27
  316
  316
 
@@ -3154,7 +3159,7 @@ ______________
 
  4 5
  Integruotų geoinformacinių sistemų kūrimas
-     12. 8. 1 ^f9c57df600262bab1559c50c
+     12. 8. 1 ^s-d03acdd4642e272b095dd8c7
      420
      420
 
@@ -3164,7 +3169,7 @@ ______________
 
  4 6
  Valstybės institucijų kompiuterių tinklo plėtra (VIKT)
-         12. 8. 1 ^ccb815b954148ca3fc5d7647
+         12. 8. 1 ^s-24e93bb380031d4a256e696e
          700
          700
 
@@ -3174,7 +3179,7 @@ ______________
 
  4 8
  Bendros Baltijos valstybių informacinės infrastruktūros kūrimas pagal ES analogus (IDA, TEN, ERI, Šengeno ir pan. sistemas), įgyvendinant Baltijos Ministrų Tarybos sprendimus
- 12. 8. 1 ^c1cacfc7282add738ac7feba
+ 12. 8. 1 ^s-7acabbbd950c6cab25a57509
  500
  500
 
@@ -3192,7 +3197,7 @@ ______________
 
  5 1
  Konkursų, konferencijų, seminarų, parodų organizavimas bei dalyvavimas juose, skelbimai spaudoje, medžiagos surinkimas, vertimas ir kiti darbai
- 14. 1. 3 ^d28030935d04264841beae94
+ 14. 1. 3 ^s-0ac1aeeee4985a7d43b60753
  565
  565
 
@@ -3202,7 +3207,7 @@ ______________
 
  6 1
  Specialiojo atašė delegavimas
-     1. 5. 1 ^69c1ac2474f62b8cf8eb34a3
+     1. 5. 1 ^s-e61cdc7d30a71f1d1eaa9c44
      449
      379
      90
@@ -3212,7 +3217,7 @@ ______________
 
  7 1
  Valstybės valdymas
- 1. 1. 6 ^aaa3d88f112cd2062451f0d0
+ 1. 1. 6 ^s-5edfa8da2c415e4332668364
  4370
  3894
  2372
@@ -3222,7 +3227,7 @@ ______________
 
  8 1
  Vyriausybės atstovų tarnyba
- 1. 1. 5 ^7fec5f86bfb4ca6a5d22ed51
+ 1. 1. 5 ^s-38542f6b7b5820a06e73257f
  2070
  1670
  1013
@@ -3232,7 +3237,7 @@ ______________
 
  9 1
  Kriterijų probleminiams regionams Lietuvoje nustatymas
-         14. 1. 3 ^89b34b340880b453fbde5b6b
+         14. 1. 3 ^s-eb292d1e8683511fb8c7a7ed
          50
          50
 
@@ -3260,7 +3265,7 @@ ______________
 
 
 
- 26.900. 617 ^0f6c3487b924691522af142d
+ 26.900. 617 ^s-a732c06f0e999c5f1a590358
  Vidaus reikalų ministerija
 
 
@@ -3272,7 +3277,7 @@ ______________
 
  1 1
  VRM sistemos materialinės techninės bazės plėtojimas
-     3. 1. 1 ^2451442b39e16250553289d7
+     3. 1. 1 ^s-66ba0b973e90be039a7b862b
      5789
 
 
@@ -3282,7 +3287,7 @@ ______________
 
  1 2
  Asmens dokumentų rengimas ir gyvenamosios vietos deklaravimas
- 3. 1. 1 ^6774679ca14a4d3d9b4c5fdd
+ 3. 1. 1 ^s-ea1fab505c82a94c0f47149a
  430
  430
  212
@@ -3292,7 +3297,7 @@ ______________
 
  1 4
  Kovinis parengimas
- 3. 1. 1 ^860aaff36b3955aa283e5ace
+ 3. 1. 1 ^s-3a8c77f2cfe51b74adb400f0
  39640
  39640
  15004
@@ -3302,7 +3307,7 @@ ______________
 
  1 5
  VRM sistemos kadrų rengimas
-     3. 1. 2 ^bd964863ad57a34fbad9576f
+     3. 1. 2 ^s-8d050415ea893ed3dddb02a5
      3931
      3931
      2137
@@ -3312,7 +3317,7 @@ ______________
 
  1 6
  Sveikatos apsauga
- 5. 5. 1 ^f33501b9662ddc57a46dba45
+ 5. 5. 1 ^s-21a7393e91697f1b5247efe9
  10251
  10251
  6390
@@ -3332,7 +3337,7 @@ ______________
 
  1 8
  Pensinis aprūpinimas
- 6. 1. 4 ^e97cc424296b20b3c2544153
+ 6. 1. 4 ^s-58f07f4beadd293695108a02
  44035
  44035
 
@@ -3342,7 +3347,7 @@ ______________
 
  1 9
  Valstybės valdymas
- 3. 9. 1 ^332d487591ef403ce3001be7
+ 3. 9. 1 ^s-d21278d3fd64a45fe4210534
  8955
  8955
  5719
@@ -3382,7 +3387,7 @@ ______________
 
  1 1
  Nacionalinė žemės ūkio plėtojimo programa
-     10. 1. 3 ^444f537aa1f7162188aadc1a
+     10. 1. 3 ^s-17b0e41742e4e6b99d0f6851
      405870
      405870
 
@@ -3392,7 +3397,7 @@ ______________
 
  3 1
  Žuvų išteklių atkūrimas valstybinės reikšmės vandens telkiniuose
- 10. 3. 1 ^443abd7dedaed9539e0ae40c
+ 10. 3. 1 ^s-e426c58d3975de5272499d01
  3863
  3838
  106
@@ -3402,7 +3407,7 @@ ______________
 
  3 2
  Žuvų ūkio ir pramonės plėtros programa
-     10. 3. 1 ^5fee04e975cc9e18ce7686f6
+     10. 3. 1 ^s-4b89c9eec62740634ba5b677
      424
      424
 
@@ -3412,7 +3417,7 @@ ______________
 
  4 1
  Valstybinė augalų ir augalinės kilmės produkcijos karantininė ir augalų apsaugos priemonių naudojimo kontrolė
- 10. 1. 5 ^f695bbd66482c96cf2a2a991
+ 10. 1. 5 ^s-93040a2601f4bf5ecc39f8e1
  2349
  349
  1437
@@ -3440,7 +3445,7 @@ ______________
 
  5 1
  Grūdų ir jų produktų kokybės valstybinė priežiūra integruojantis į bendrą Europos rinką
-   10. 1. 6 ^72744be6629ecbf5a82f7072
+   10. 1. 6 ^s-4f1e24661d747add0aa4dd93
    278
  278
  170
@@ -3450,7 +3455,7 @@ ______________
 
  6 1
  Valstybinė veislinių sėklinių pasėlių ir sodmenų bei paruoštos sėklinės medžiagos kokybės kontrolė ir sertifikavimas
- 10. 1. 6 ^d6f4f072d61df777fb613c35
+ 10. 1. 6 ^s-28d25454ac362e76c3ea4942
  3598
  3578
  2327
@@ -3468,7 +3473,7 @@ ______________
 
  7 1
  Naujų augalų veislių vertingumo tyrimai, jų registracija ir veislių autorių bei savininkų teisių apsauga
-   10. 1. 6 ^d04ba3b4f12e557e73ac945c
+   10. 1. 6 ^s-9f38d75294adfe056105edf9
    1586
    1586
  580
@@ -3477,8 +3482,8 @@ ______________
 
 
  8 1
- Gyvulių veislininkystės įstatymo ir kitų su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
- 10. 1. 6 ^85649a73c554cc4e66c9d078
+ [[latest/TAR.A039F278F253|Gyvulių veislininkystės įstatymo]] ir kitų su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
+ 10. 1. 6 ^s-d744e225905ac228e4c40acf
  2222
  2197
  1267
@@ -3488,7 +3493,7 @@ ______________
 
  9 1
  Žemės ir miškų ūkio technikos bandymas ir sertifikavimas
- 0. 1. 6 ^903afd56757cd5d13afad1e6
+ 0. 1. 6 ^s-66da9eed6674679ea014b1db
  763
  763
  456
@@ -3498,7 +3503,7 @@ ______________
 
  10 1
  Socialinių problemų tyrimas kaime, siekiant užtikrinti socialinį darbdavio ir dirbančiojo teisėtumą, augalų auginimo, gyvulininkystės technologijų ir agroserviso paslaugų ekonominė analizė
- 10. 1. 6 ^333d67ad0ef3d91061765e2d
+ 10. 1. 6 ^s-b5020cea481646186dc8870b
  207
  192
  107
@@ -3508,7 +3513,7 @@ ______________
 
  11 1
  Visuomenės informacinis aprūpinimas
-     10. 1. 6 ^f6dd02b25a075b6e89988339
+     10. 1. 6 ^s-3953a00bda4138c612b97f66
      123
      113
      38
@@ -3518,7 +3523,7 @@ ______________
 
  13 1
  Strateginių ir neliečiamų atsargų sudarymas
-     10. 1. 6 ^231126b1f975ee3354c64ee4
+     10. 1. 6 ^s-34745bc7ce8267749c11f5d8
      4306
      3282
 
@@ -3536,7 +3541,7 @@ ______________
 
  14 1
  Atstovavimas žemės ūkiui tarptautinėse ir nacionalinėse parodose – mugėse, žemės ūkio produkcijos rinkos paieška bei paklausos tyrimas
-       10. 1. 6 ^16d2b1b83ea64971cb2603cc
+       10. 1. 6 ^s-5d5d1fd0ad1add0b7adf57b7
      264
  264
 
@@ -3546,7 +3551,7 @@ ______________
 
  15 1
  Žemės ūkio subjektų aprūpinimas literatūra, informaciniais leidiniais ir kitomis techninėmis priemonėmis (videofilmais, skaidrėmis, reklamine medžiaga) ir kitos priemonės
-       10. 1. 6 ^4160a61ba657b575a3954853
+       10. 1. 6 ^s-8079aa6d06301547d149395e
      233
      233
 
@@ -3556,7 +3561,7 @@ ______________
 
  16 1
  Žemės ūkio konkursų – apžiūrų ūkininkams ir žemdirbiams organizavimas
-         10. 1. 6 ^814d42578121b22fd961ca23
+         10. 1. 6 ^s-d010c4471be3b2be2a9a00a8
          40
          40
 
@@ -3566,7 +3571,7 @@ ______________
 
  17 1
  Žemės ūkio technikos valstybinė priežiūra
-     10. 1. 6 ^eb0a9f2b53de0dc5f2cf6e40
+     10. 1. 6 ^s-b5ec32fff6f1fb73990300e1
      299
      299
 
@@ -3576,7 +3581,7 @@ ______________
 
  18 1
  Dirvožemio ir augalininkystės produkcijos užterštumo tyrimas
-         10. 1. 6 ^c3971828b4e34ebc9b9d9d3e
+         10. 1. 6 ^s-3a741706fba23182b1b32867
          41
          41
 
@@ -3594,7 +3599,7 @@ ______________
 
  19 1
  Gyvulinės kilmės atliekų, gyvulių lavonų utilizavimas (subsidijos gamintojams)
-         10. 1. 6 ^95324436b09f1df4c212af49
+         10. 1. 6 ^s-25d5c2737995ef9f9819ba7f
          1764
          1764
 
@@ -3604,7 +3609,7 @@ ______________
 
  21 1
  Lietuvos Respublikos diplomatinių atstovybių veiklos programa
-         10. 9. 1 ^36a9f4e3f5a6c3bdc1934a04
+         10. 9. 1 ^s-6e3d1069d6841d646304e4e6
          690
          690
          213
@@ -3614,7 +3619,7 @@ ______________
 
  22 1
  Profesinis rengimas
- 4. 2. 3 ^37d447b1d9f18ff10e1d2d09
+ 4. 2. 3 ^s-01dede2f5189756a3307ab48
  76341
  76187
  38091
@@ -3624,7 +3629,7 @@ ______________
 
 
 
- 4. 3. 2 ^c47cfd9e518b59ea3af27ef3
+ 4. 3. 2 ^s-fd7006b9ab3f7fcd2ab0d484
  33744
  33700
  17378
@@ -3634,7 +3639,7 @@ ______________
 
 
 
- 4. 6. 1 ^5bb42141b5d17197e630b92a
+ 4. 6. 1 ^s-f51ad11202641cb123190b6f
  393
  381
  216
@@ -3644,7 +3649,7 @@ ______________
 
 
 
- 4. 6. 3 ^2a448a6baf6e70fe991ae404
+ 4. 6. 3 ^s-3caf77aa6f15c7937708a388
  645
  645
 
@@ -3654,7 +3659,7 @@ ______________
 
  22 3
  Ūkininkų mokymas
- 4. 4. 1 ^fe576a831dbc16ee64625c10
+ 4. 4. 1 ^s-9dc05fd5ec8dafcb3b9d0538
  285
  285
  131
@@ -3664,7 +3669,7 @@ ______________
 
  24 1
  Valstybės valdymas
- 10. 9. 1 ^7bed6713a31538f7e9df9f35
+ 10. 9. 1 ^s-793c98437aea48da2a176ea4
  12458
  12357
  5010
@@ -3692,7 +3697,7 @@ ______________
 
 
 
- 0. 0. 0 ^767407ab505f46892cfdcb3d
+ 0. 0. 0 ^s-20b15751e13755119ed72d54
  II. Apskritys
 
 
@@ -3702,7 +3707,7 @@ ______________
 
 
 
- 90. 26.1147 ^deb114fd569f20da13018fa1
+ 90. 26.1147 ^s-f419a19c64070bd8b1a711f7
  Alytaus apskrities    viršininko administracija
 
 
@@ -3714,7 +3719,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^e7645be98a797f6f4ceb8f95
+ 1. 1. 4 ^s-3fd0aebfdc236044bcb0d1f3
  1830
  1448
  907
@@ -3724,7 +3729,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^daaa3efb2810191e2eaf0a0a
+         4. 2. 2 ^s-9432d49a9f23c57fe2d27919
          7411
          7181
          3822
@@ -3734,7 +3739,7 @@ ______________
 
  1 3
  Sergančių vaikų mokymas
- 4. 2. 1 ^2256dc0945afe068991ccbc4
+ 4. 2. 1 ^s-45aa61f24991841caa0de21a
  2154
  2154
  1537
@@ -3744,7 +3749,7 @@ ______________
 
  1 4
  Vaikų gydymas ir reabilitacija
-     6. 2. 1 ^6a19b3f5da86698cb10bd4d7
+     6. 2. 1 ^s-1236f52f69382dc14f61a93f
      3016
      3016
      1978
@@ -3754,7 +3759,7 @@ ______________
 
  1 6
  Žemės reforma
- 10. 1. 2 ^697da9dadb0db94415a95f38
+ 10. 1. 2 ^s-1a8c5c6b28c7c2faa72fd81e
  2179
  2179
 
@@ -3764,7 +3769,7 @@ ______________
 
  1 10
  Medicininė socialinė reabilitacija
-     6. 3. 1 ^fdd2a93f52441737f944fff2
+     6. 3. 1 ^s-bcd37abc9995f2f67eca7e8d
      307
      307
      197
@@ -3774,7 +3779,7 @@ ______________
 
  1 11
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^aa4e71ecf2c4631e17380d4f
+     2. 1. 3 ^s-b2f6c0a3f688012a11b2355b
      473
      473
      300
@@ -3784,7 +3789,7 @@ ______________
 
  1 13
  Teritorinis planavimas
- 11.11. 1 ^f24803989e3fef6f7d956f53
+ 11.11. 1 ^s-35e56563101ac6570a4ab0dc
  10
 
 
@@ -3794,7 +3799,7 @@ ______________
 
  1 14
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^a19dae608aedeb6e65deac9a
+     4. 9. 1 ^s-3b78b61f71130c544f60dd75
      194
      194
      137
@@ -3804,7 +3809,7 @@ ______________
 
  1 15
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^a91def0096a0e16ab8544e39
+     10. 9. 1 ^s-79b95b53ca59a56fd3518068
      3160
      3160
      2077
@@ -3814,7 +3819,7 @@ ______________
 
  1 16
  Statybos institucijų išlaikymas
-     11. 9. 1 ^a7e6a4fb04ec05f1023799e0
+     11. 9. 1 ^s-6c314900f26d278b2cc902bc
      152
      152
      114
@@ -3824,7 +3829,7 @@ ______________
 
  1 17
  Liškiavos architektūrinio ansamblio tvarkymas
-     8. 4. 1 ^6612b424ef50e0ca6152cb8f
+     8. 4. 1 ^s-56c46a47480624592bddacc4
      734
      406
 
@@ -3852,7 +3857,7 @@ ______________
 
 
 
- 90. 27.1178 ^254b0ccf2ee8e3d8847af87b
+ 90. 27.1178 ^s-6f1dd041a3da99a623fc37bc
  Kauno apskrities viršininko administracija
 
 
@@ -3864,7 +3869,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^9588218c9002fc822fec747a
+ 1. 1. 4 ^s-9e43c43bdc9840729a09c9f3
  1944
  1431
  909
@@ -3874,7 +3879,7 @@ ______________
 
 
 
- 1. 4. 2 ^0decbf58b1db504b06db54db
+ 1. 4. 2 ^s-308fb868eab864ff6e0f56c0
  1379
  1379
  380
@@ -3884,7 +3889,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^602d03bd94c3fc64502de7dc
+         4. 2. 2 ^s-fe0a74218357bae46cd46b32
          14748
          14748
          8386
@@ -3894,7 +3899,7 @@ ______________
 
  1 3
  Vaikų mokymas ir ugdymas
- 4. 2. 1 ^3ea2f20e6f103e8ed089a3e4
+ 4. 2. 1 ^s-73fc38da9e7444172385e564
  1469
  1469
  1090
@@ -3904,7 +3909,7 @@ ______________
 
  1 4
  Sporto medicinos plėtra
- 5.12. 1 ^d82b04869a64f4dc34b7ba01
+ 5.12. 1 ^s-651d4af64603ad7abb86ad2e
  1102
  1102
  754
@@ -3914,7 +3919,7 @@ ______________
 
  1 5
  Visuomenės sveikatos ugdymas
-     5. 6. 1 ^203a4d9218cb4411a85ef95b
+     5. 6. 1 ^s-3b255fe95f07297a42b5b455
      181
      181
      130
@@ -3924,7 +3929,7 @@ ______________
 
  1 6
  Vaikų gydymas ir reabilitacija
-     6. 2. 1 ^8076ac974061d7c613d9b14e
+     6. 2. 1 ^s-ef9814e745f79d7d7922bc8e
      7125
      7125
      4376
@@ -3934,7 +3939,7 @@ ______________
 
  1 8
  Žemės reforma
- 10. 1. 2 ^892dbcd4a33b6e0629f37a40
+ 10. 1. 2 ^s-462c73b1dcea99720638173b
  3382
  3382
 
@@ -3944,7 +3949,7 @@ ______________
 
  1 9
  Socialinių paslaugų plėtra globos įstaigose
-     6. 2. 2 ^711b6481e5aadf872872c10c
+     6. 2. 2 ^s-98f1941e5fe835031a481b54
      5185
      5185
      1636
@@ -3954,7 +3959,7 @@ ______________
 
  1 10
  Gyvūnų globa ir populiarinimas
-     13. 4. 1 ^98ccd49fc34608d62c67c9e2
+     13. 4. 1 ^s-3ddf1fe63f51812c890b0f68
      2567
      2567
      1402
@@ -3964,7 +3969,7 @@ ______________
 
  1 17
  Teritorinis planavimas
- 11.11. 1 ^08a50049a4d259a4613a5046
+ 11.11. 1 ^s-a7940a2cc685ec8315ab434a
  63
 
 
@@ -3974,7 +3979,7 @@ ______________
 
  1 18
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^b5b3e951d65f74e3a05644be
+     2. 1. 3 ^s-e65613b91fc7da49cbb83485
      510
      510
      335
@@ -3984,7 +3989,7 @@ ______________
 
  1 19
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^82c33b04e39ea176abb56266
+     4. 9. 1 ^s-4a72874551434ec7b02a10cb
      183
      183
      128
@@ -3994,7 +3999,7 @@ ______________
 
  1 20
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^7f82d8f07a5e378583cced84
+     10. 9. 1 ^s-38705cf4e14a4c98d63d12ac
      6480
      6401
      4363
@@ -4004,7 +4009,7 @@ ______________
 
  1 21
  Statybos institucijų išlaikymas
-     11. 9. 1 ^87450d3d9f78fdd196136ce1
+     11. 9. 1 ^s-013f2bed631f6f92871a08d7
      248
      248
      177
@@ -4014,7 +4019,7 @@ ______________
 
  1 22
  Kauno krikščioniškųjų gimdymo namų rekonstrukcija
-         5.12. 1 ^39b41cc0f7ff56e11d74874f
+         5.12. 1 ^s-4614a6aec889282ba78a92a7
          600
 
 
@@ -4024,7 +4029,7 @@ ______________
 
  1 23
  Krepšinio sporto salės Kaune statyba
-     8. 1. 2 ^f592d9030e20804f16d30761
+     8. 1. 2 ^s-ad8a4a42fae892231ea18981
      500
 
 
@@ -4052,7 +4057,7 @@ ______________
 
 
 
- 90. 28.1229 ^1169ad7830c3c5f3575262d7
+ 90. 28.1229 ^s-60032aa0b846058236d4fc62
  Klaipėdos apskrities viršininko administracija
 
 
@@ -4064,7 +4069,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^5e879d077782b8964797e732
+ 1. 1. 4 ^s-eb575e0a645ac06b7420cfdf
  1324
  1264
  783
@@ -4074,7 +4079,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^9f5aa47be7e6998212bd1001
+         4. 2. 2 ^s-e02402e4bcae6df3690fbb75
          15192
          13842
          7694
@@ -4084,7 +4089,7 @@ ______________
 
  1 4
  Sporto medicinos plėtra
- 5.12. 1 ^c296ac74fd79f87c9fcbdfcb
+ 5.12. 1 ^s-1e8e1d9cba28243ff6a60d22
  432
  432
  315
@@ -4094,7 +4099,7 @@ ______________
 
  1 5
  Vaikų gydymas ir reabilitacija
-     6. 2. 1 ^dcfb8bf42e1e43140bb5ba8b
+     6. 2. 1 ^s-e0478c05adaf2b0d21c6a1d8
      2377
      2363
      1500
@@ -4104,7 +4109,7 @@ ______________
 
  1 7
  Žemės reforma
- 10. 1. 2 ^14d8e1881ec866959f43d83e
+ 10. 1. 2 ^s-41fec318bc5d74ba5d9add75
  2060
  2060
 
@@ -4114,7 +4119,7 @@ ______________
 
  1 8
  Socialinių paslaugų plėtra globos įstaigose
-     6. 2. 2 ^706b3e9aa72dfd7404fdb23d
+     6. 2. 2 ^s-01b6c0b682dd3635e92ebbce
      5914
      5908
      1822
@@ -4124,7 +4129,7 @@ ______________
 
  1 9
  Sergančių vaikų mokymas
- 4. 2. 1 ^62c159c965e348d622319bb7
+ 4. 2. 1 ^s-159edf7660db7d05366e6d02
  1372
  1362
  972
@@ -4134,7 +4139,7 @@ ______________
 
  1 16
  Teritorinis planavimas
- 11.11. 1 ^ad86a473249b47dcd1ecf68f
+ 11.11. 1 ^s-b36e2e0f6aa337d09423e304
  90
 
 
@@ -4144,7 +4149,7 @@ ______________
 
  1 17
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^e0790c4a4401ff76d9383111
+     2. 1. 3 ^s-831a2d76aa8b0cafabe6a7e4
      509
      509
      347
@@ -4154,7 +4159,7 @@ ______________
 
  1 18
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^cdc38904c93243a5f3f2d192
+     4. 9. 1 ^s-001f442d9648ca19aa90a661
      154
      154
      115
@@ -4164,7 +4169,7 @@ ______________
 
  1 19
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^2b7c1369ce2eaafd162d709e
+     10. 9. 1 ^s-82d756a652a4bdc3f0a87c2e
      4625
      4535
      2878
@@ -4174,7 +4179,7 @@ ______________
 
  1 20
  Statybos institucijų išlaikymas
-     11. 9. 1 ^79f99212033984006d03589f
+     11. 9. 1 ^s-094f6f28b13d7c32d49e5b7e
      190
      190
      142
@@ -4184,7 +4189,7 @@ ______________
 
  1 21
  Klaipėdos psichiatrijos ligoninės rekonstrukcija
-     5.12. 1 ^16d4655fff99ae72a009ef5f
+     5.12. 1 ^s-2c356cb81021b762b0d6fcf6
      150
 
 
@@ -4194,7 +4199,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose
-         6. 2. 3 ^2d1b612904527b0f4d75b7fd
+         6. 2. 3 ^s-18836388ca6cb890d2209f9b
          7597
          7522
          2520
@@ -4222,7 +4227,7 @@ ______________
 
 
 
- 90. 29.1270 ^587b78113bea04dc637a21fc
+ 90. 29.1270 ^s-bb3f48d8f085d64c1a7da750
  Marijampolės apskrities viršininko administracija
 
 
@@ -4234,7 +4239,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^a591a25992459426ddb68ce2
+ 1. 1. 4 ^s-bee8d5456c16a020669e2f22
  2406
  1748
  709
@@ -4244,7 +4249,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^b24caf5a73d6dabae6a4091e
+         4. 2. 2 ^s-629555854e7a5c90e230051a
          4936
          4769
          2464
@@ -4254,7 +4259,7 @@ ______________
 
  1 4
  Žemės reforma
- 10. 1. 2 ^e7e5fcdca33069af0d0af71c
+ 10. 1. 2 ^s-07c8b3516e9107982c5dca8b
  1892
  1892
 
@@ -4264,7 +4269,7 @@ ______________
 
  1 5
  Socialinių paslaugų plėtra globos įstaigose
-     6. 2. 2 ^e448c37c45194367ec01d85d
+     6. 2. 2 ^s-f9cc30e53351e3ea43ad1335
      1791
      1791
      593
@@ -4274,7 +4279,7 @@ ______________
 
  1 8
  Švietimo centro ir psichologinės tarnybos veikla
-         4. 6. 1 ^992f48ef514c3df8fb85a1fe
+         4. 6. 1 ^s-5fb0efddb67fbe041cd67886
          431
          431
          260
@@ -4284,7 +4289,7 @@ ______________
 
  1 9
  Lietuvos Prezidento K. Griniaus memorialinio muziejaus išlaikymas ir veikla
-       8. 2. 2 ^e59ebd883c2ab0a6f6194faf
+       8. 2. 2 ^s-2566be3916b106746072bbbf
        109
        109
        52
@@ -4294,7 +4299,7 @@ ______________
 
  1 13
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^746ce1cbe52010944eac65cb
+     2. 1. 3 ^s-8ad410c38376bd9c717fbc5a
      483
      483
      349
@@ -4304,7 +4309,7 @@ ______________
 
  1 15
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^bfd7b3654d99e039e49393a3
+     4. 9. 1 ^s-84c72968049ffacb375f8160
      128
      128
      95
@@ -4314,7 +4319,7 @@ ______________
 
  1 16
  Žemės ūkio institucijų išlaikymas
- 10. 9. 1 ^69ff5896cfaf0a2faa5abc4e
+ 10. 9. 1 ^s-3924d3caa2833570848836ea
  3158
  3158
  2032
@@ -4324,7 +4329,7 @@ ______________
 
  1 17
  Statybos institucijų išlaikymas
-     11. 9. 1 ^9680fb4362e7dbf660bd56b0
+     11. 9. 1 ^s-d00e5572f22576f47034aa51
      137
      137
      101
@@ -4334,7 +4339,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose
-         6. 2. 3 ^3420ede21aaf21ca66520ad9
+         6. 2. 3 ^s-1c8cbc859b71925b972cac5f
          8768
          8659
          2656
@@ -4362,7 +4367,7 @@ ______________
 
 
 
- 90. 30.1311 ^592bc8375efb23c721f2c536
+ 90. 30.1311 ^s-6d4e5856e1b0b163dfee712c
  Panevėžio apskrities viršininko administracija
 
 
@@ -4374,7 +4379,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^214b3ab72cf95c4d4fa67113
+ 1. 1. 4 ^s-41f7d897726afbd9bc8e21c2
  3652
  1452
  885
@@ -4384,7 +4389,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^95b3369268bde6975f3700e4
+         4. 2. 2 ^s-70b219b380c23e7e6a9ba9a9
          7929
          7829
          4273
@@ -4394,7 +4399,7 @@ ______________
 
  1 3
  Visuomenės sveikatos ugdymas
-     5. 6. 1 ^783904ec49bd9a36558b799e
+     5. 6. 1 ^s-20b06b5802392085622555aa
      48
      48
      33
@@ -4404,7 +4409,7 @@ ______________
 
  1 4
  Vaikų gydymas ir reabilitacija
-     6. 2. 1 ^81976a74360ce13d51c02d23
+     6. 2. 1 ^s-0d4603b82bcb012efa600d6b
      1928
      1928
      1252
@@ -4414,7 +4419,7 @@ ______________
 
  1 6
  Žemės reforma
- 10. 1. 2 ^6c99a006ea04d0a6f8a3426f
+ 10. 1. 2 ^s-7a02ab8eb3a2126c7c3385c9
  3276
  3276
 
@@ -4424,7 +4429,7 @@ ______________
 
  1 12
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^83bfa9443fd72e1618af99c0
+     2. 1. 3 ^s-5302a7e7bd07db8088764cff
      545
      545
      341
@@ -4434,7 +4439,7 @@ ______________
 
  1 13
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^0c73814bee028ac28c02f87c
+     4. 9. 1 ^s-317743eba878a7af7c95024f
      187
      187
      144
@@ -4444,7 +4449,7 @@ ______________
 
  1 14
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^cfd1b9371e76dc30c3900472
+     10. 9. 1 ^s-30ad810befd4177aa2c7f1a9
      4890
      4890
      3245
@@ -4454,7 +4459,7 @@ ______________
 
  1 15
  Statybos institucijų išlaikymas
-     11. 9. 1 ^e126cbe65d5aa9f752deedee
+     11. 9. 1 ^s-29e279e3b67cc9bee51c50b9
      230
      230
      176
@@ -4464,7 +4469,7 @@ ______________
 
  1 16
  Sporto medicinos plėtra
- 5.12. 1 ^cba05ca3e6e0c7569c63f670
+ 5.12. 1 ^s-c371339a5fd95db455920c1e
  236
  236
  168
@@ -4474,7 +4479,7 @@ ______________
 
  1 17
  Rokiškio psichiatrijos ligoninei pagrindinių priemonių įsigijimas ir katilinės rekonstrukcija
-       5.12. 1 ^fbc1d22079adbcdc2a52cb4c
+       5.12. 1 ^s-026291a2a0ea33e19d8e08a5
        383
 
 
@@ -4484,7 +4489,7 @@ ______________
 
  1 18
  Nuteistųjų mokymas ir ugdymas
-     4. 2. 1 ^4bd8fd89bd7b5a1bf1210698
+     4. 2. 1 ^s-d1399e7e3c0a3036db87141b
      136
      136
      95
@@ -4512,7 +4517,7 @@ ______________
 
 
 
- 90. 31.1352 ^9be574c5b8fe7a24e7ce237e
+ 90. 31.1352 ^s-6b287f96529e917aabc57cd1
  Šiaulių apskrities viršininko administracija
 
 
@@ -4524,7 +4529,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^410fac2ee293bcecd527c532
+ 1. 1. 4 ^s-21e03e43c1c4d4560733abfc
  1516
  1441
  924
@@ -4534,7 +4539,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^7ab98a6604e9e11aed6ed71b
+         4. 2. 2 ^s-bc651149c68f2d40a4930fe2
          10369
          10369
          5960
@@ -4544,7 +4549,7 @@ ______________
 
  1 3
  Visuomenės sveikatos ugdymas
-     5. 6. 1 ^45eea015b1623babf9d5e115
+     5. 6. 1 ^s-843f29623ae7f52a56af3d8d
      127
      119
      79
@@ -4554,7 +4559,7 @@ ______________
 
  1 4
  Vaikų gydymas ir reabilitacija
-     6. 2. 1 ^64d471319073ab6a3866ccb8
+     6. 2. 1 ^s-b77663ed45a77d4fd795851d
      1522
      1522
      982
@@ -4564,7 +4569,7 @@ ______________
 
  1 6
  Žemės reforma, geodeziniai ir žemės kadastro darbai
-     10. 1. 2 ^caa75988ee291b0b0c6abb18
+     10. 1. 2 ^s-57b9a5d25e846c4eee7919d7
      3239
      3171
 
@@ -4574,7 +4579,7 @@ ______________
 
  1 8
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^b38586a0778a6fdf66f8ebd3
+     2. 1. 3 ^s-40cf8dd28371b8ebfed85972
      425
      425
      293
@@ -4584,7 +4589,7 @@ ______________
 
  1 15
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^1d0caa2941f74f761479c4d7
+     4. 9. 1 ^s-3d64b062a4118782af412b25
      237
      214
      147
@@ -4594,7 +4599,7 @@ ______________
 
  1 16
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^7fc9e26350675e3e9db84908
+     10. 9. 1 ^s-0b18b1544fc0ef3934fa5afb
      6275
      6209
      4218
@@ -4604,7 +4609,7 @@ ______________
 
  1 17
  Statybos institucijų išlaikymas
- 11. 9. 1 ^bc7a4f1567e2bc91b38f3ed7
+ 11. 9. 1 ^s-ffee4137e4c6d22b4d58e916
  181
  181
  122
@@ -4614,7 +4619,7 @@ ______________
 
  1 18
  Sporto medicinos plėtra
- 5.12. 1 ^264435605143cb53409a6fb8
+ 5.12. 1 ^s-7420780a4dc3ec816a651218
  660
  650
  428
@@ -4624,7 +4629,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose
-         6. 2. 1 ^d4cecb67db999371cc734069
+         6. 2. 1 ^s-0bc7c99b021b073e1ebbe22f
          5350
          5305
          2525
@@ -4634,7 +4639,7 @@ ______________
 
 
 
- 6. 2. 3 ^1df879c86a348e7dd8a4b2b4
+ 6. 2. 3 ^s-355bd460567d7fc32a1ea9bf
  13345
  13235
  4176
@@ -4662,7 +4667,7 @@ ______________
 
 
 
- 90. 32.1393 ^32a77b21661bc23d2deaf839
+ 90. 32.1393 ^s-488f722ff12c3e1de9f599e9
  Tauragės apskrities viršininko administracija
 
 
@@ -4674,7 +4679,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^735fa8afb61cbaae7bbfa724
+ 1. 1. 4 ^s-9e3f81a67dd531ef2393dc6f
  839
  759
  499
@@ -4684,7 +4689,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^fb50510519d52ed6d3979a0f
+         4. 2. 2 ^s-19ea2dbefb120388d7eaeeaf
          3476
          3421
          1862
@@ -4694,7 +4699,7 @@ ______________
 
  1 4
  Žemės reforma
- 10. 1. 2 ^17973277774e76d8447b82bc
+ 10. 1. 2 ^s-4e774db1f321e9f72c1d74dc
  1892
  1892
 
@@ -4704,7 +4709,7 @@ ______________
 
  1 5
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^8aef46d513e6ca50d1a81aad
+     2. 1. 3 ^s-adb8baa58c74fe873b0ea506
      292
      292
      204
@@ -4714,7 +4719,7 @@ ______________
 
  1 6
  Medicininė socialinė reabilitacija
-     6. 3. 1 ^c4b70dd45de26a84e4fe1d05
+     6. 3. 1 ^s-40e3c2e5c688f5a197c4c5d0
      318
      303
      206
@@ -4724,7 +4729,7 @@ ______________
 
  1 13
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^4b31900e6e55742552e3bb0e
+     4. 9. 1 ^s-0f6646c0e74edfd4a2f0be32
      65
      65
      50
@@ -4734,7 +4739,7 @@ ______________
 
  1 14
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^799addd15e8bbe3eddc8cc64
+     10. 9. 1 ^s-28e4680bd185b733b42f3183
      2812
      2772
      1729
@@ -4744,7 +4749,7 @@ ______________
 
  1 15
  Statybos institucijų išlaikymas
-     11. 9. 1 ^ddb68face06f5e415f1b3d03
+     11. 9. 1 ^s-1b6149b5d84d14980dabaefd
      103
      103
      79
@@ -4754,7 +4759,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose
-         6. 2. 3 ^cd3d41b7945e3271ea59827b
+         6. 2. 3 ^s-e5a51ce5bbeeff430c931b26
          2571
          2556
          856
@@ -4782,7 +4787,7 @@ ______________
 
 
 
- 90. 33.1424 ^00fa06c7248a531433b0e6eb
+ 90. 33.1424 ^s-7d419dc64c7d867b1e8cb9d7
  Telšių apskrities viršininko administracija
 
 
@@ -4794,7 +4799,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^57d99fcbbdaa5b3b90e8a442
+ 1. 1. 4 ^s-77b9b9fd62b2e08885396ee1
  2325
  1116
  750
@@ -4804,7 +4809,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^7f1567a3d4f3745a513b4890
+         4. 2. 2 ^s-d23a6888dfa7c12d1f5332a2
          7216
          7180
          4033
@@ -4814,7 +4819,7 @@ ______________
 
  1 4
  Žemės reforma
- 10. 1. 2 ^e10985fb180c1d98997d7e06
+ 10. 1. 2 ^s-9009ba8b8ccdab978b58d8a6
  2064
  2064
 
@@ -4824,7 +4829,7 @@ ______________
 
  1 6
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^75e20d193b94dd977d30b519
+     2. 1. 3 ^s-4b5e251c4e3adc0d20970b02
      362
      362
      213
@@ -4834,7 +4839,7 @@ ______________
 
  1 8
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^713e1c6c24fa1b22c0bf3085
+     4. 9. 1 ^s-4713329600e917346bbbfe91
      118
      118
      87
@@ -4844,7 +4849,7 @@ ______________
 
  1 9
  Žemės ūkio institucijų išlaikymas
- 10. 9. 1 ^2f9e479836a67ad0692674f5
+ 10. 9. 1 ^s-42a627138e03f34d92722742
  2908
  2908
  1779
@@ -4854,7 +4859,7 @@ ______________
 
  1 10
  Statybos institucijų išlaikymas
-     11. 9. 1 ^d74eb98c30c8b43eb46ea654
+     11. 9. 1 ^s-8f9495dc57b03b2f61d12026
      92
      92
      70
@@ -4864,7 +4869,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose
-         6. 2. 3 ^cc98dc0abc85581f8ee0be3b
+         6. 2. 3 ^s-f16c17793a8468adedb2fbe4
          6494
          6446
          2299
@@ -4892,7 +4897,7 @@ ______________
 
 
 
- 90. 34.1455 ^64370451c9b9294d5f93f42a
+ 90. 34.1455 ^s-ef7767275e9b594f4f12574d
  Utenos apskrities viršininko administracija
 
 
@@ -4904,7 +4909,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^200df854c7df42fa6bcba4f6
+ 1. 1. 4 ^s-889ace57e28e349c1fdb6c24
  1469
  964
  590
@@ -4914,7 +4919,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^6820039388ad9ee7f0b43d15
+         4. 2. 2 ^s-c3878747b7d72d49ae3923da
          8188
          8122
          4627
@@ -4924,7 +4929,7 @@ ______________
 
  1 4
  Žemės reforma
- 10. 1. 2 ^86aacdda3c419df28a6149c7
+ 10. 1. 2 ^s-cd23218c530677ce25fc0525
  3211
  3211
 
@@ -4934,7 +4939,7 @@ ______________
 
  1 5
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^f10972d81321499644fa5905
+     2. 1. 3 ^s-aa50a4e52c1f5938c6155fb0
      403
      403
      273
@@ -4944,7 +4949,7 @@ ______________
 
  1 6
  Socialinių paslaugų plėtra globos įstaigose
-     6. 2. 2 ^5256dc682fe429c83b5cfc71
+     6. 2. 2 ^s-e32ee5894c4a59797851284c
      6643
      6643
      2120
@@ -4954,7 +4959,7 @@ ______________
 
  1 12
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^82d916fc1a1bd524ebf0d396
+     4. 9. 1 ^s-d6ee787c27a5a5447604caeb
      166
      166
      125
@@ -4964,7 +4969,7 @@ ______________
 
  1 13
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^f0268b9519db251ff1d8427c
+     10. 9. 1 ^s-8cbd29eb1bd56aa82b80a743
      5011
      5011
      3465
@@ -4974,7 +4979,7 @@ ______________
 
  1 14
  Statybos institucijų išlaikymas
-     11. 9. 1 ^4960869830acd5585bf57a00
+     11. 9. 1 ^s-3cc512157be25f8edf3ab5ff
      109
      109
      78
@@ -4984,7 +4989,7 @@ ______________
 
  1 15
  Sergančių vaikų mokymas
- 4. 2. 1 ^a8b5c944b231f01fbfcf9a24
+ 4. 2. 1 ^s-4caf68f79b1524e22ef8471f
  61
  61
  47
@@ -4994,7 +4999,7 @@ ______________
 
  4 1
  Socialinių paslaugų plėtra valstybinėse stacionariose globos įstaigose
-         6. 2. 3 ^eba33e09bddc1802857e2166
+         6. 2. 3 ^s-5130d4c7d55e88d217d344ad
          6998
          6888
          2232
@@ -5022,7 +5027,7 @@ ______________
 
 
 
- 90. 35.1496 ^42aa51c5ea24426535a9d2cd
+ 90. 35.1496 ^s-ed72b53eb05736e6fa0553e4
  Vilniaus apskrities viršininko administracija
 
 
@@ -5034,7 +5039,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 4 ^c00215cd5eafd6399ef6b56d
+ 1. 1. 4 ^s-57eb36bad7e0dddfd1a6c69b
  2008
  1438
  1028
@@ -5044,7 +5049,7 @@ ______________
 
  1 2
  Vaikų našlaičių, sutrikusio intelekto vaikų globa ir mokymas
-         4. 2. 2 ^d76a3c47a725714e99f017ec
+         4. 2. 2 ^s-3d39660df1ac21c1ebb8563a
          21999
          21176
          11145
@@ -5054,7 +5059,7 @@ ______________
 
  1 3
  Rytų Lietuvos socialinio plėtojimo ir mokymo valstybine kalba tobulinimas
-         4. 2. 1 ^3819b33aa0eb9d9392fa0e28
+         4. 2. 1 ^s-fbd899463db9abd4e41a47be
          3485
          3190
          1803
@@ -5064,7 +5069,7 @@ ______________
 
  1 4
  Kultūrinės veiklos puoselėjimas Rytų Lietuvoje
-         8. 2. 5 ^cefff4f777fd32f81dc8047a
+         8. 2. 5 ^s-9a5d8e2b612f273d38f03112
          147
          147
          97
@@ -5074,7 +5079,7 @@ ______________
 
  1 5
  Vaikų gydymas ir reabilitacija
-     6. 2. 1 ^7f291211a26f5e51df28e652
+     6. 2. 1 ^s-0c9c1c588d42d469f7f7a67c
      3222
      3142
      2018
@@ -5084,7 +5089,7 @@ ______________
 
  1 6
  Sporto medicinos plėtra
- 5.12. 1 ^020f55c3f8e09de851726e26
+ 5.12. 1 ^s-cc594564f897e70337752608
  609
  609
  425
@@ -5094,7 +5099,7 @@ ______________
 
  1 7
  Visuomenės sveikatos ugdymas
-     5. 6. 1 ^e3df01d327e72750e01e9c41
+     5. 6. 1 ^s-605e98ebe244daf98c3948b7
      105
      105
      61
@@ -5104,7 +5109,7 @@ ______________
 
  1 9
  Žemės reforma
- 10. 1. 2 ^9d0b7697ef08bf4d8eebc615
+ 10. 1. 2 ^s-8212a35b66c9d89e6e7c2651
  4178
  4178
 
@@ -5114,7 +5119,7 @@ ______________
 
  1 10
  Socialinių paslaugų plėtra globos įstaigose
-     6. 2. 2 ^5a13b1e7b329b01ff99319ed
+     6. 2. 2 ^s-4991f79800629cd619c58a30
      3739
      3714
      1106
@@ -5124,7 +5129,7 @@ ______________
 
  1 14
  Teritorinis planavimas
- 11.11. 1 ^3f997d66e448d63bcb5bdead
+ 11.11. 1 ^s-143329de63e86503b137fa58
  200
 
 
@@ -5134,7 +5139,7 @@ ______________
 
  1 15
  Civilinės saugos sistemos veiklos organizavimas
-     2. 1. 3 ^785822b95257cc94650e6891
+     2. 1. 3 ^s-e59b7deee071c1338eb11560
      440
      440
      320
@@ -5144,7 +5149,7 @@ ______________
 
  1 16
  Švietimo institucijų išlaikymas
-     4. 9. 1 ^9bd2d56dc90f758c062a7b45
+     4. 9. 1 ^s-73ce0713ccd78def946f7dbe
      278
      278
      209
@@ -5154,7 +5159,7 @@ ______________
 
  1 17
  Žemės ūkio institucijų išlaikymas
-     10. 9. 1 ^008157ac186e430800aae121
+     10. 9. 1 ^s-c90be645d2888e7e225a2c61
      6702
      6702
      4465
@@ -5164,7 +5169,7 @@ ______________
 
  1 18
  Statybos institucijų išlaikymas
-     11. 9. 1 ^c02f19fe5b29cd60fe823c29
+     11. 9. 1 ^s-dbc8054d0717807e83645780
      249
      249
      189
@@ -5174,7 +5179,7 @@ ______________
 
  1 19
  Rytų Lietuvos socialinio plėtojimo, auklėjimo valstybine kalba tobulinimas
-         4. 1. 1 ^e49c86b30ff45080747fae2d
+         4. 1. 1 ^s-df8b9b7241af091a667e91f9
          779
          699
          395
@@ -5184,7 +5189,7 @@ ______________
 
  1 20
  Universitetinės Raudonojo Kryžiaus ligoninės operacinių korpuso rekonstrukcija
-             5.12. 1 ^efed21e2037d13f6fc5000da
+             5.12. 1 ^s-6a40d1f0afb28fa9855ebeee
              1560
 
 
@@ -5194,7 +5199,7 @@ ______________
 
  1 21
  Sergančių vaikų mokymas
- 4. 2. 1 ^7e0940ac91a1be3c7fdac4f2
+ 4. 2. 1 ^s-2948743f0a7a7a40dce5f559
  1019
  1019
  714
@@ -5204,7 +5209,7 @@ ______________
 
  1 22
  Riešės vidurinės mokyklos išlaikymas
-     4. 2. 1 ^d1e465ba3565882479d5d4f3
+     4. 2. 1 ^s-4bc0395adfe5fdd31c22463a
      888
      888
      565
@@ -5232,7 +5237,7 @@ ______________
 
 
 
- 0. 0. 0 ^b5f92ab60d6cfd1bd89efc81
+ 0. 0. 0 ^s-137144d8b369b07953003852
  III. Departamentai,   tarnybos ir inspekcijos
 
 
@@ -5242,7 +5247,7 @@ ______________
 
 
 
- 90. 24.1140 ^b14866f0124f861d7befacb7
+ 90. 24.1140 ^s-6dfdcd1084d084be25281ec6
  Lietuvos archyvų departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -5254,7 +5259,7 @@ ______________
 
  1 1
  Lietuvos valstybinio archyvų fondo saugojimas, komplektavimas, naudojimas
-     1. 4. 2 ^cf16e7f2a79fdac6665e831f
+     1. 4. 2 ^s-970518c754e186911a6e1e26
      9976
      9042
      5589
@@ -5274,7 +5279,7 @@ ______________
 
  3 1
  Valstybės valdymas
- 1. 1. 6 ^45de35690a1093cbce91b1ff
+ 1. 1. 6 ^s-ebc4b023bd09f93c6be21c26
  1270
  1270
  762
@@ -5284,7 +5289,7 @@ ______________
 
 
 
- 1. 4. 2 ^eb80e4cab5ce924e0c611dfe
+ 1. 4. 2 ^s-53ec7f1445059dace6004081
  50
 
 
@@ -5324,7 +5329,7 @@ ______________
 
  1 3
  Valstybės valdymas
- 1. 5. 1 ^5ea1396a11671de0fa088146
+ 1. 5. 1 ^s-8beac4c0e11406cdd701da55
  1340
  1275
  840
@@ -5364,7 +5369,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 3 ^224ae4e2a61bc3db65ea2306
+ 1. 1. 3 ^s-87d0b3164a9159f43971ae16
  4082
  4052
  2156
@@ -5374,7 +5379,7 @@ ______________
 
  1 2
  Užsienio investicijų skatinimas Lietuvoje
-     1. 1. 3 ^85822ba381a39e7d1a08a270
+     1. 1. 3 ^s-7d94b617d0bd0a918a43282d
      40
      40
 
@@ -5384,7 +5389,7 @@ ______________
 
  1 3
  Nacionalinė ACQUIS priėmimo programa
-     1. 1. 3 ^6a319be579d4e96f14169da8
+     1. 1. 3 ^s-76a01c1fadde58334b6d7b41
      150
      150
 
@@ -5394,7 +5399,7 @@ ______________
 
  1 4
  Institucijų stiprinimo programa
-     1. 1. 3 ^b7f15fbc1ed6e506c33e7eef
+     1. 1. 3 ^s-69c2b9dfb600346655885939
      70
      70
 
@@ -5404,7 +5409,7 @@ ______________
 
  1 5
  Nacionalinės teisės derinimo darbų programa
-     1. 1. 3 ^571b108dc002662182903fb0
+     1. 1. 3 ^s-1b31047e97650641a05acd68
      655
      655
 
@@ -5414,7 +5419,7 @@ ______________
 
  1 6
  Lietuvos stojimo į Europos Sąjungą socialinių ir ekonominių pokyčių tyrimo nacionalinė programa
-       1. 1. 3 ^89479bc002748a4ff8319c8c
+       1. 1. 3 ^s-2eb20df720adfb0b3bb94130
        40
      40
 
@@ -5424,7 +5429,7 @@ ______________
 
  1 7
  Lietuvos įsijungimo į Europos Sąjungos bendrąją rinką programa
-         1. 1. 3 ^5ea8e6743127da70f748714f
+         1. 1. 3 ^s-434b903b2c83c856b8a22747
          160
          160
 
@@ -5434,7 +5439,7 @@ ______________
 
  1 8
  Nacionalinė ES specialistų rengimo ir kvalifikacijos kėlimo programa
-         1. 1. 3 ^17ef57216b1ad2a100a78658
+         1. 1. 3 ^s-2a88f6956eaf0a117e0e1cf0
          100
          100
 
@@ -5444,7 +5449,7 @@ ______________
 
  1 9
  Visuomenės informavimo programa
-     1. 1. 3 ^b4d88302c88bafd151ab214a
+     1. 1. 3 ^s-ab53e7a1dfaec236d575f391
      92
      92
 
@@ -5472,7 +5477,7 @@ ______________
 
 
 
- 90. 1. 806 ^da15c72e12ef0bfd4a73ad28
+ 90. 1. 806 ^s-265f6061b958a6bcd06721b3
  Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -5484,7 +5489,7 @@ ______________
 
  1 1
  Sveikatingumas ir sportas
- 8. 1. 1 ^57e70d9a595b5266d36c2d59
+ 8. 1. 1 ^s-e20dc3215c89c3661359e4a5
  4235
  4235
  2020
@@ -5494,7 +5499,7 @@ ______________
 
 
 
- 8. 1. 2 ^a36cf9a1c1159501a26a591a
+ 8. 1. 2 ^s-b40fdee1c94aeadb565d3439
  13984
  13909
  514
@@ -5504,7 +5509,7 @@ ______________
 
  1 2
  Valstybės valdymas
- 8. 9. 1 ^d32da5730aae4556b0195b21
+ 8. 9. 1 ^s-0a68414c8c2901c7c324125e
  770
  735
  512
@@ -5514,7 +5519,7 @@ ______________
 
  1 3
  Jaunųjų krepšininkų ugdymas
-     8. 1. 2 ^a2125814fc389eac201d499a
+     8. 1. 2 ^s-98d1c71e8fdb9a3dd9338582
      790
      790
 
@@ -5524,7 +5529,7 @@ ______________
 
  1 4
  Krepšinio klubų dalyvavimas Europos taurių varžybose
-         8. 1. 2 ^81a9e58876be6582ba66e113
+         8. 1. 2 ^s-2a2e45654f632105f91fab40
          1770
          1770
 
@@ -5534,7 +5539,7 @@ ______________
 
  1 5
  Masinio sporto aikštelių įrengimas
-     8. 1. 2 ^2ee690966e76a10be5b7802e
+     8. 1. 2 ^s-38edff4eda516bd64a568a54
      708
      708
 
@@ -5544,7 +5549,7 @@ ______________
 
  1 6
  Kultūros ir sporto rėmimo fondas
-     8.11. 1 ^453c9a1099c45f305d806edb
+     8.11. 1 ^s-028ba432d09b7cb787b5b124
      7476
      7476
 
@@ -5554,7 +5559,7 @@ ______________
 
  1 7
  Aeroklubų rėmimas
- 8. 1. 2 ^74ecf7291620ba5d9d8e03ec
+ 8. 1. 2 ^s-89f6dbdf5b36cf39145a0c5c
  1248
  1248
 
@@ -5582,7 +5587,7 @@ ______________
 
 
 
- 90. 5. 921 ^63f6f886d8f9c475f2bd245e
+ 90. 5. 921 ^s-9d82334ee8b67e1c4923ec00
  Tautinių mažumų ir išeivijos departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -5594,7 +5599,7 @@ ______________
 
  1 1
  Tautinių mažumų bendruomenių kultūrinės veiklos rėmimas
-         8. 4. 1 ^96f75a21f509857bb05936aa
+         8. 4. 1 ^s-df45977be2722dcda2c9d6d3
          475
          475
          74
@@ -5604,7 +5609,7 @@ ______________
 
  2 1
  Rytų Lietuvos socialinis plėtojimas
-     8. 4. 1 ^00597df1807e562c7fc111ae
+     8. 4. 1 ^s-f2781c4d770c1a26da290df6
      100
      100
 
@@ -5614,7 +5619,7 @@ ______________
 
  3 1
  Užsienio lietuvių bendruomenių rėmimas
-     4. 2. 1 ^10b2f21de81e0b715abe39a0
+     4. 2. 1 ^s-cd4076c5b48d382b8813e7d0
      1053
      1033
      730
@@ -5624,7 +5629,7 @@ ______________
 
 
 
- 4. 6. 3 ^596855f015bf57c17a2d0619
+ 4. 6. 3 ^s-9b23634cb15af5c2befb0327
  736
  736
  550
@@ -5634,7 +5639,7 @@ ______________
 
 
 
- 8. 4. 1 ^f1361b336e49ac9821f42e45
+ 8. 4. 1 ^s-40aed97e37111a43ef92905c
  2560
  1420
  324
@@ -5644,7 +5649,7 @@ ______________
 
  4 1
  Departamento išlaikymas
- 8. 9. 1 ^701ac31eb1d70aee9c6426cf
+ 8. 9. 1 ^s-043d4a629c572c2c43294faa
  852
  802
  482
@@ -5672,7 +5677,7 @@ ______________
 
 
 
- 90. 8. 927 ^84cecbb8826d6c80d9f7e244
+ 90. 8. 927 ^s-f1900a5fc0e543415da536a0
  Statistikos departamentas prie Lietuvos Respublikos Vyriausybės
 
 
@@ -5684,7 +5689,7 @@ ______________
 
  1 1
  Valstybinės statistikos tvarkymas
-     1. 1. 6 ^5807261b32ba55a069fbd577
+     1. 1. 6 ^s-7ae9c35b255e63ab18ed3e58
      6708
      5919
      4238
@@ -5694,7 +5699,7 @@ ______________
 
 
 
- 1. 4. 1 ^f0285f4b70465b6773df056b
+ 1. 4. 1 ^s-3d11fcd7dfcd8c7008f86af4
  4653
  4653
  3411
@@ -5704,7 +5709,7 @@ ______________
 
  1 2
  Statistiniai tyrimai ir surašymai, kompiuterizuotas duomenų apdorojimas ir kiti darbai
-             14. 1. 3 ^c28b178ef0f5b912a6d33d5e
+             14. 1. 3 ^s-aac405d6de105bea58eed050
              14404
              14404
              4480
@@ -5714,7 +5719,7 @@ ______________
 
  1 3
  Valstybės registrų tvarkymas
-     14. 1. 3 ^ea8ac25ed9db13f4657adeb9
+     14. 1. 3 ^s-c1eb013d40deb9e184fd8681
      485
      485
      373
@@ -5742,7 +5747,7 @@ ______________
 
 
 
- 90. 42.1872 ^2540a58b2b3f65e149300d88
+ 90. 42.1872 ^s-182a68b24022b263883f9f53
  Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
@@ -5754,7 +5759,7 @@ ______________
 
  1 1
  Lietuvos valstybinio vertikalaus tinklo sudarymas
-     10. 1. 2 ^4df9d7ecc510c4f0f1b18637
+     10. 1. 2 ^s-c0a978c708f55c20ff610328
      248
      248
 
@@ -5764,7 +5769,7 @@ ______________
 
  1 2
  GPS trečios klasės tinklo sudarymas
-     10. 1. 2 ^2fae8bdd92ba61bbc2802aed
+     10. 1. 2 ^s-76251fb3db7a45ac1093a8aa
      354
      354
 
@@ -5774,7 +5779,7 @@ ______________
 
  1 3
  Lietuvos valstybinio gravimetrinio tinklo sudarymas
-         10. 1. 2 ^e34924094e9a0241f80ca06a
+         10. 1. 2 ^s-20606361b2f20773b4aa64ba
          40
          40
 
@@ -5784,7 +5789,7 @@ ______________
 
  1 4
  Tyrimai Ignalinos AE geodinaminiame poligone
-     10. 1. 2 ^bbe56fbfc30e24ffcf0336a7
+     10. 1. 2 ^s-4c7565a9e5ef79bd9389a4f9
      44
      44
 
@@ -5794,7 +5799,7 @@ ______________
 
  1 5
  Pastovių GPS stočių tinklo plėtra
-     10. 1. 2 ^91f8e0eb7d3109bac3ef7c25
+     10. 1. 2 ^s-e8206b599eb31be38700f230
      53
      53
 
@@ -5804,7 +5809,7 @@ ______________
 
  1 6
  Tyrimai pagal tarptautinius BSL, EUVN, EUREF projektus
-         10. 1. 2 ^db3581570ed872eda6e38228
+         10. 1. 2 ^s-b3680db2d73d3f7f0d49e1ba
          44
          44
 
@@ -5814,7 +5819,7 @@ ______________
 
  2 1
  Valstybės sienos žemėlapiai
- 10. 1. 2 ^9707887d3ffe19ca4ee81bbd
+ 10. 1. 2 ^s-4af141b73389e8699a802928
  466
  466
 
@@ -5824,7 +5829,7 @@ ______________
 
  2 2
  Ortofotografiniai žemėlapiai
-     10. 1. 2 ^cc36f5d85a014b31389d504e
+     10. 1. 2 ^s-52fc59134c0b5bb16c55dbcd
      380
      380
 
@@ -5834,7 +5839,7 @@ ______________
 
  2 3
  Topografiniai žemėlapiai
- 10. 1. 2 ^71794fd1ddb7f303f4b2228f
+ 10. 1. 2 ^s-7cfa884f9a8336bb9f8b95ff
  2240
  2240
 
@@ -5844,7 +5849,7 @@ ______________
 
  2 4
  Aeronavigaciniai žemėlapiai
- 10. 1. 2 ^aec9426d6e4be9e7868e43cb
+ 10. 1. 2 ^s-9f5c2bbd6cfc818a6c221c60
  222
  222
 
@@ -5854,7 +5859,7 @@ ______________
 
  2 5
  Jūrlapiai
- 10. 1. 2 ^0b656d54d3a33c17918327a7
+ 10. 1. 2 ^s-c69d8391f0b32820ab30bb7f
  105
  105
 
@@ -5864,7 +5869,7 @@ ______________
 
  2 7
  Georeferencinės duomenų bazės
-     10. 1. 2 ^569662592bd906f6e57d0a8a
+     10. 1. 2 ^s-a5518f341b4306cbcc01f004
      506
      506
 
@@ -5874,7 +5879,7 @@ ______________
 
  6 1
  Valstybės valdymas
- 10. 9. 1 ^40a823dd3be91e2eecb425de
+ 10. 9. 1 ^s-1c730976e63d325bc382be00
  1000
  981
  526
@@ -5902,7 +5907,7 @@ ______________
 
 
 
- 90. 15.1049 ^fe45405487aa1b501ba20d0d
+ 90. 15.1049 ^s-272824a11ab817ef28552ed8
  Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
@@ -5914,7 +5919,7 @@ ______________
 
  1 1
  Rinkos tyrimas pagal konkurencijos įstatymą ir jo priežiūra
-         1. 1. 6 ^c7c71d46eb549273124a6385
+         1. 1. 6 ^s-f005f22f01ffe26f6688c1a3
          1246
          1230
          747
@@ -5924,7 +5929,7 @@ ______________
 
 
 
- 14. 1. 3 ^a8a800a961866e1197f3af35
+ 14. 1. 3 ^s-29550f4f9e34b602631c4850
  42
  42
 
@@ -5934,7 +5939,7 @@ ______________
 
  1 2
  Valstybės valdymo ir savivaldos institucijų teikiamos valstybės pagalbos kontrolė
- 1. 1. 6 ^64c22e1378811db91d3f7024
+ 1. 1. 6 ^s-dddf0812e6da226bcb345e06
  226
  216
  145
@@ -5943,8 +5948,8 @@ ______________
 
 
  1 3
- Vartotojų teisių gynimo įstatymo priežiūra
-     1. 1. 6 ^c6cc398ae37e8ab0dfa2f4a7
+ [[latest/TAR.D790096B17EE|Vartotojų teisių gynimo įstatymo]] priežiūra
+     1. 1. 6 ^s-d94e379c3f0ad6d48f7b0d5a
      215
      215
      116
@@ -5954,7 +5959,7 @@ ______________
 
  1 4
  Antidempingo įstatymo priežiūra
-     1. 1. 6 ^da09d283f1d0ab738582ff12
+     1. 1. 6 ^s-df8084c15ab84c378ada3aaf
      241
      216
      112
@@ -5994,7 +5999,7 @@ ______________
 
  1 1
  Komisijos išlaikymas
- 1. 5. 1 ^f5b4e884efe7f92a0c6bfaf8
+ 1. 5. 1 ^s-3cb5cf1f1cfb3935cd90e1e0
  2392
  1080
  651
@@ -6022,7 +6027,7 @@ ______________
 
 
 
- 90. 50.2070 ^f0a6e70333c87202c795a904
+ 90. 50.2070 ^s-9d1de8b1ae42d46163b55988
  Vyriausioji administracinių ginčų komisija
 
 
@@ -6034,7 +6039,7 @@ ______________
 
  1 1
  Administracinių ginčų nagrinėjimas
-     3. 2. 1 ^27ff3a54aaf4a75dd905ee72
+     3. 2. 1 ^s-26e64f59d466085c7f2c9743
      894
      359
      200
@@ -6052,7 +6057,7 @@ ______________
 
 
 
- 90. 40.1744 ^482383a5f99d3163fbcc89e0
+ 90. 40.1744 ^s-238af010e50606a04b9fa716
  Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
@@ -6063,8 +6068,8 @@ ______________
 
 
  1 1
- Alkoholio ir tabako kontrolės įstatymo ir poįstatyminių aktų kontrolės vykdymas
-             1. 1. 6 ^14da91efd7d5d9fb7e7722f2
+ Alkoholio ir [[latest/TAR.F8090E375DA0|tabako kontrolės įstatymo]] ir poįstatyminių aktų kontrolės vykdymas
+             1. 1. 6 ^s-a9c07f4985e23eb1348ac727
              1331
              1318
              794
@@ -6103,8 +6108,8 @@ ______________
 
 
  1 1
- Viešųjų pirkimų įstatymo įgyvendinimas, pirkimo veiklos koordinavimas bei priežiūra ir viešųjų pirkimų sistemos tobulinimas
-                 13. 9. 1 ^8c2943e7a3f4efeb0cb4ff34
+ [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] įgyvendinimas, pirkimo veiklos koordinavimas bei priežiūra ir viešųjų pirkimų sistemos tobulinimas
+                 13. 9. 1 ^s-6dff36146c5b4c2c5cad516e
                  1256
                  1206
                  750
@@ -6144,7 +6149,7 @@ ______________
 
  3 1
  Kontrakto D-41768 įgyvendinimas, įmonės steigimas, įstatinio kapitalo formavimas
-             2. 4. 1 ^c392968d2a3ecd5eb7debd20
+             2. 4. 1 ^s-ea98f8d20eb3d29534c5a8c1
              28161
              2461
 
@@ -6154,7 +6159,7 @@ ______________
 
  4 1
  Personalo išlaikymas
- 2. 4. 1 ^7ed94d0ce1762b226078bfce
+ 2. 4. 1 ^s-98e205be83da7356f9696516
  1748
  1278
  456
@@ -6194,7 +6199,7 @@ ______________
 
  1 1
  Lietuvos ir jos ūkinių subjektų įvaizdis
-     14. 1. 3 ^8d4f3c8e095ef1d12ccb522d
+     14. 1. 3 ^s-23a183d68a2d702339f00af2
      506
      506
      254
@@ -6204,7 +6209,7 @@ ______________
 
  2 1
  Tiesioginių užsienio investicijų į Lietuvą skatinimas
-         14. 1. 3 ^44bb7c670c9801e4ec020601
+         14. 1. 3 ^s-534bebfb8d6b47f71ee7414f
          912
          912
          399
@@ -6214,7 +6219,7 @@ ______________
 
  3 1
  Lietuviškų prekių eksporto plėtojimas
-     14. 1. 3 ^0508d027e79c75b726cbd48e
+     14. 1. 3 ^s-ee94a0edff9685640394c5c2
      1128
      1128
      681
@@ -6224,7 +6229,7 @@ ______________
 
  4 1
  Regiono ekonominė plėtra
- 14. 1. 3 ^39dbbacb3f79de0ce53fb600
+ 14. 1. 3 ^s-c3aa8dd739c6720e1c2332e5
  200
  200
  126
@@ -6234,7 +6239,7 @@ ______________
 
  5 1
  Lietuvos ekonominės plėtros agentūros struktūros ir veiklos tobulinimas
-         14. 1. 3 ^058c53fe85622d67c0840e13
+         14. 1. 3 ^s-1ead6b5fe9977d182e36814e
          484
          484
          126
@@ -6274,7 +6279,7 @@ ______________
 
  1 1
  Lietuvos Respublikos regionų plėtros programos įgyvendinimas
-         13. 6. 1 ^414573777e314ddb2f14d481
+         13. 6. 1 ^s-ca53328bd6394786bb38d0d7
          50
          50
 
@@ -6302,7 +6307,7 @@ ______________
 
 
 
- 90. 7. 925 ^8a6d733aa69482c5360ad86a
+ 90. 7. 925 ^s-55da3292ec38b170f38a1a53
  Lietuvos Respublikos valstybės saugumo departamentas
 
 
@@ -6314,7 +6319,7 @@ ______________
 
  1 1
  Valstybės saugumas
- 3. 9. 1 ^d529184072ec6116986a7db0
+ 3. 9. 1 ^s-bfe3b2f2bbc14341127ce1a1
  23041
  22954
  15806
@@ -6324,7 +6329,7 @@ ______________
 
  1 2
  Socialinė programa
- 6. 1. 6 ^d07bf26c5a673f59a2ff3393
+ 6. 1. 6 ^s-50d903eefbb4aabcec34f1bd
  236
  236
 
@@ -6352,7 +6357,7 @@ ______________
 
 
 
- 90. 48.1981 ^f15d9e4ef91a78837761746c
+ 90. 48.1981 ^s-f972159952b62177af47bdf1
  Teismų departamentas prie Teisingumo ministerijos
 
 
@@ -6364,7 +6369,7 @@ ______________
 
  1 1
  Teismų darbo organizavimas ir kontrolė
-     3. 9. 1 ^efb86b33f2bff05410d07da9
+     3. 9. 1 ^s-32761e0c071abeb8bf81d7e4
      2092
      2027
      1293
@@ -6392,7 +6397,7 @@ ______________
 
 
 
- 90. 47.1967 ^6259a6ac4aa12261722d3586
+ 90. 47.1967 ^s-59fc8e0ae1b8b6d57f0ceb5e
  Mokslo ir studijų departamentas prie Švietimo ir mokslo ministerijos
 
 
@@ -6404,7 +6409,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 4. 9. 1 ^cd386c9005996ded2e314bb3
+ 4. 9. 1 ^s-32c7b1514a20c3ea63ed1622
  1419
  1389
  841
@@ -6474,7 +6479,7 @@ ______________
 
 
 
- 90. 14. 981 ^9aaa92624bcc3e6db3d89f77
+ 90. 14. 981 ^s-245d7214f7e0faad47cb68b2
  Valstybinė veterinarijos tarnyba
 
 
@@ -6486,7 +6491,7 @@ ______________
 
  1 1
  Užkrečiamųjų ligų profilaktika ir likvidavimas
-     10. 4. 1 ^b1599d5ef89d2d38649dac49
+     10. 4. 1 ^s-fc9e8732bd96fca772d546a0
      10997
      10516
      4547
@@ -6496,7 +6501,7 @@ ______________
 
  2 1
  Veterinariniai reikalavimai gyvūninių produktų nekenksmingumui užtikrinti
-         10. 4. 1 ^c754e1d78f72ad3f2340a987
+         10. 4. 1 ^s-4030d372408e2ce7a92177c7
          9195
          7322
          4198
@@ -6506,7 +6511,7 @@ ______________
 
  3 1
  Gyvūnų gerovės apsauga
- 10. 4. 1 ^361c18eac90e397e0267886b
+ 10. 4. 1 ^s-7b9ce04077a78564d080b44c
  300
  300
  233
@@ -6516,7 +6521,7 @@ ______________
 
  4 1
  Pasienio valstybinė veterinarijos tarnyba
-     10. 4. 1 ^b6102e593d172d48149afe08
+     10. 4. 1 ^s-c1b23d8480e1cb39acea5997
      2861
      1551
      1067
@@ -6526,7 +6531,7 @@ ______________
 
  5 1
  Specialistų kvalifikacijos kėlimas
-     10. 4. 1 ^23ec1b88f8890f1bc12de9d9
+     10. 4. 1 ^s-71cf81293ca911dccbcc380c
      148
      148
      75
@@ -6536,7 +6541,7 @@ ______________
 
  6 1
  Valstybės valdymo veterinariniai klausimai
-     10. 9. 1 ^ff38a625fdee1fe62fdea95a
+     10. 9. 1 ^s-ef55cbe2c2056f78e8ad9e02
      1312
      1266
      580
@@ -6546,7 +6551,7 @@ ______________
 
  7 1
  Valstybės rezervas
- 10. 4. 1 ^bcce94c3abd64ea5caf560ac
+ 10. 4. 1 ^s-b76d0d31029993ff12c3be76
  25
  25
 
@@ -6574,7 +6579,7 @@ ______________
 
 
 
- 90. 18.1056 ^6c90827a682152fb43739bd6
+ 90. 18.1056 ^s-8480dfb93fdd93b4a80f2b17
  Valstybinė atominės energetikos saugos inspekcija
 
 
@@ -6586,7 +6591,7 @@ ______________
 
  1 1
  Įstatymų ir kitų teisės bei techninių norminių dokumentų rengimas ir branduolinės veiklos licencijavimas
-                 9. 9. 1 ^39df4e42408f702bbf00e4cc
+                 9. 9. 1 ^s-070549eb2b635887fb0a35e9
                  200
                  200
 
@@ -6596,7 +6601,7 @@ ______________
 
  2 1
  Branduolinės energetikos saugos objektų įvertinimas
-     9. 9. 1 ^da5ea292edf3b2d4717c53f0
+     9. 9. 1 ^s-6c8b01c32d99a389b44ee669
      190
      190
 
@@ -6606,7 +6611,7 @@ ______________
 
  3 1
  Valstybės valdymas
- 9. 9. 1 ^98f54007395218bbd3974a78
+ 9. 9. 1 ^s-ac682587f29680cc4cf5bb7f
  2732
  2717
  1106
@@ -6634,7 +6639,7 @@ ______________
 
 
 
- 90. 20.1058 ^068397e30a17755db48ef6aa
+ 90. 20.1058 ^s-16ac19449746149653345ff8
  Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
 
 
@@ -6646,7 +6651,7 @@ ______________
 
  1 1
  Valstybės valdymas ir rinkos kontrolė
-     13. 9. 1 ^b5c6bed220581b0d126c57be
+     13. 9. 1 ^s-5608ac41fa7305664ce71912
      5680
      5592
      3643
@@ -6656,7 +6661,7 @@ ______________
 
  1 2
  Kokybės kontrolės programa įmonėse pagal sutartis
-         13. 9. 1 ^70e40adb6fecfe9bea37bd67
+         13. 9. 1 ^s-4bb8af4230db4f042e3b9a3a
          954
          914
          620
@@ -6666,7 +6671,7 @@ ______________
 
  1 3
  Laboratoriniai tyrimai vykdant rinkos priežiūrą
-     13. 4. 1 ^4f429aa192d6dc8144cbfc10
+     13. 4. 1 ^s-20a2199d07d0a56d7e8e67a3
      512
      512
      277
@@ -6676,7 +6681,7 @@ ______________
 
  1 4
  Produkcijos sertifikavimas ir gamybos atestavimas
-     13. 4. 1 ^e5d7db1627adb5a3ec319152
+     13. 4. 1 ^s-5bda7eef13e892403f8551de
      421
      406
      240
@@ -6704,7 +6709,7 @@ ______________
 
 
 
- 90. 16.1050 ^3c94a16e8553a343bc55563f
+ 90. 16.1050 ^s-30969c20605f91c692a2541e
  Vyriausybinių ryšių centras prie Lietuvos Respublikos valstybės saugumo departamento
 
 
@@ -6716,7 +6721,7 @@ ______________
 
  1 1
  Vyriausybinių ryšių tinklo plėtra
-     3. 4. 1 ^897ccc63cc5269d70f10519f
+     3. 4. 1 ^s-4b5a96b89b79faf73534d8e1
      165
 
 
@@ -6726,7 +6731,7 @@ ______________
 
  1 3
  Vyriausybinių ryšių tinklo eksploatacija ir valdymas
-     3. 4. 1 ^b785ba49bddec2ee9d2a030d
+     3. 4. 1 ^s-0f4012557b76b0a97473ca8f
      1585
      1585
 
@@ -6736,7 +6741,7 @@ ______________
 
  1 4
  Personalo išlaikymas
- 3. 4. 1 ^2ef431901ae943d45fc9f54d
+ 3. 4. 1 ^s-ae843fcafa2a4273f50b645d
  2770
  2770
  2270
@@ -6746,7 +6751,7 @@ ______________
 
  1 5
  Personalo techninis parengimas ir mokymas
-     3. 4. 1 ^e36aa2745a00ead129dd84d5
+     3. 4. 1 ^s-c949af2243a3104a5d3fef0e
      11
      11
 
@@ -6774,7 +6779,7 @@ ______________
 
 
 
- 0. 0. 0 ^684448dc07e30260ad683e53
+ 0. 0. 0 ^s-4a2b37b30d4d1d341d2c22d9
  IV. Įmonės ir organizacijos
 
 
@@ -6784,7 +6789,7 @@ ______________
 
 
 
- 0.909. 0 ^241910abf1c5efa040b31e2a
+ 0.909. 0 ^s-d51afc2ecbcc06998ec57001
  Aplinkos ministerijos   valdymo sritis
 
 
@@ -6794,7 +6799,7 @@ ______________
 
 
 
- 90. 49.1982 ^adf33383929e2abd15208f54
+ 90. 49.1982 ^s-a34b555a5a0c236a43db150a
  Miškų ir saugomų teritorijų departamentas prie Aplinkos ministerijos
 
 
@@ -6806,7 +6811,7 @@ ______________
 
  1 1
  Gamtinių ekosistemų išsaugojimas
-     10. 2. 1 ^4ebe9a1fddbd9bd8b60613bd
+     10. 2. 1 ^s-7eb9e0a7881c59104d93240f
      11527
      9984
      5133
@@ -6816,7 +6821,7 @@ ______________
 
  2 1
  Regioninių parkų planavimo schemų rengimas
-     10. 2. 1 ^7603be04ef05b355b974e396
+     10. 2. 1 ^s-a2195fecbd3c01975ded169b
      110
 
 
@@ -6826,7 +6831,7 @@ ______________
 
  6 1
  Valstybės valdymas
- 10. 9. 1 ^615b65c7c6a58d77d8fbcd8f
+ 10. 9. 1 ^s-ecb26f6c8f458faabe8586ae
  3214
  3154
  1625
@@ -6866,7 +6871,7 @@ ______________
 
  1 1
  Hidrometeorologiniai stebėjimai ir prognozės
-     13. 4. 1 ^cdb99dffb45197f9dd0cb837
+     13. 4. 1 ^s-319f0227da88b662c1179f04
      5058
      5038
      3209
@@ -6876,7 +6881,7 @@ ______________
 
  2 1
  Aviaciniai meteorologiniai stebėjimai ir prognozės
-     13. 4. 1 ^1abdb0185e5aec900746e37a
+     13. 4. 1 ^s-ce099e8c114f907f0c31e3da
      953
      953
      687
@@ -6886,7 +6891,7 @@ ______________
 
  3 1
  Telekomunikacinis hidrometeorologinio tinklo aptarnavimas
-         13. 4. 1 ^235e9fca3c3a7c8ab696be18
+         13. 4. 1 ^s-880c841c75e0dbf075244774
          615
          615
          283
@@ -6914,7 +6919,7 @@ ______________
 
 
 
- 90. 11. 978 ^d575d39c174aeef825e1ea4d
+ 90. 11. 978 ^s-35cf5cb59a5fe8847a35438c
  Lietuvos geologijos tarnyba prie Aplinkos ministerijos
 
 
@@ -6926,7 +6931,7 @@ ______________
 
  1 1
  Valstybinių geologinių tyrimų programa „Geologija visuomenei“
-   11. 1. 1 ^7d5f77a53b16f70439d0520f
+   11. 1. 1 ^s-fab46df46fa4daff8744094d
    3298
    3283
    1206
@@ -6936,7 +6941,7 @@ ______________
 
  2 1
  Valstybinės geologijos informacinės sistemos kūrimas
-         11. 1. 1 ^4d3cb6c8c584727c10b66fe2
+         11. 1. 1 ^s-c63eb2bbb150fef5c59d6951
          1122
          1107
          438
@@ -6946,7 +6951,7 @@ ______________
 
  3 1
  Valstybės valdymas
- 11. 9. 1 ^e022da1e911ca5716cd2dc05
+ 11. 9. 1 ^s-444c0cf5dab753d8542bc2ec
  1489
  1474
  540
@@ -6986,7 +6991,7 @@ ______________
 
  1 1
  Apskričių viršininkų administracijos valstybinės teritorijų planavimo ir statybos inspekcijos tarnybos veiklos kontrolė ir koordinavimas
- 11. 9. 1 ^43194ff81e4a5d427dd45a6a
+ 11. 9. 1 ^s-2990a2beaa95a26ef781e5f7
  320
  313
  200
@@ -7004,7 +7009,7 @@ ______________
 
  1 2
  Valstybės ir apskričių lygmens bendrųjų ir specialiųjų planų projektų analizė ir išvadų teikimas juos tvirtinančioms institucijoms dėl jų tvirtinimo tikslingumo
- 11. 9. 1 ^fd73e2240a3a1d593c9f0d86
+ 11. 9. 1 ^s-332c428a2c38deea178f711f
  75
  65
  42
@@ -7014,7 +7019,7 @@ ______________
 
  2 1
  Statybos įmonių potencialo patikrinimas ir kvalifikacijos atestatų išdavimas
- 11. 9. 1 ^68f6322c9239c60c08e72a1c
+ 11. 9. 1 ^s-dd3a77ceff23fd346374a8e2
      318
      295
      196
@@ -7042,7 +7047,7 @@ ______________
 
 
 
- 0.912. 0 ^7215903328052cfd40692bd9
+ 0.912. 0 ^s-595385adfa1d522787f5fc44
  Finansų ministerijos   valdymo sritis
 
 
@@ -7052,7 +7057,7 @@ ______________
 
 
 
- 90. 21.1059 ^bc529be1bced73a73717b962
+ 90. 21.1059 ^s-524b7c0dbafaadd11e44bc3d
  Muitinės departamentas prie Finansų ministerijos
 
 
@@ -7064,7 +7069,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 1. 1. 2 ^f6fb5b999d19001a8e796e51
+ 1. 1. 2 ^s-2c40fa74ddde463a7a54adc7
  8754
  8654
  5870
@@ -7074,7 +7079,7 @@ ______________
 
 
 
- 1. 5. 1 ^521a53698896ea80ad942390
+ 1. 5. 1 ^s-4d1f24d7c6e233dc73ebcb92
  76732
  76480
  57267
@@ -7084,7 +7089,7 @@ ______________
 
  1 2
  Specialūs apskaitos blankai
- 14. 1. 3 ^f0d179ecac9a0c664291fc44
+ 14. 1. 3 ^s-4d736695cf8108f8917267e1
  10832
  10832
 
@@ -7124,7 +7129,7 @@ ______________
 
  1 1
  Lietuvos Respublikos finansų ministerijos ir jos valdymo sričiai priklausančių organizacijų tęstinės kvalifikacijos kėlimas ir ugdymas
-     4. 4. 1 ^674da0f43668555fac7bccfb
+     4. 4. 1 ^s-ce41f6bcd9d2b2d22949ff14
        1501
        1481
          737
@@ -7152,7 +7157,7 @@ ______________
 
 
 
- 90. 37. 90 ^dad504d97f976f2399551503
+ 90. 37. 90 ^s-f5866ccb3e43b0031904bdcc
  Revizijų departamentas prie Finansų ministerijos
 
 
@@ -7164,7 +7169,7 @@ ______________
 
  1 1
  Revizijos pagal teismų ir teisėsaugos įstaigų pavedimus
-         1. 5. 1 ^d093604a80b5108b34ca3b77
+         1. 5. 1 ^s-718ce38b7d985ca70faddda9
          8001
          7981
          5843
@@ -7192,7 +7197,7 @@ ______________
 
 
 
- 90. 36. 33 ^e2f9bcc81de749acfe5d8035
+ 90. 36. 33 ^s-21bf36465b844c2b4eeafd02
  Valstybinė mokesčių inspekcija prie Finansų ministerijos
 
 
@@ -7204,7 +7209,7 @@ ______________
 
  1 1
  Mokesčių administravimas
- 1. 1. 2 ^978c6e59a9707df4cf872d1f
+ 1. 1. 2 ^s-68b931a02cb1fc33b7478d17
  11520
  11230
  8253
@@ -7214,7 +7219,7 @@ ______________
 
 
 
- 1. 5. 1 ^80540107d763d774304547b6
+ 1. 5. 1 ^s-3706017a355e1b19d7766044
  100218
  99979
  73579
@@ -7224,7 +7229,7 @@ ______________
 
  1 3
  Specialūs apskaitos blankai ir banderolės
-     14. 1. 3 ^c4e3e3fac3b66388f4a69f3f
+     14. 1. 3 ^s-9bcb8a409891859002e510fb
      29563
      29468
      1431
@@ -7264,7 +7269,7 @@ ______________
 
  1 1
  Privalomo registruoti brangaus turto vidutinių rinkos kainų nustatymas
-         14. 1. 3 ^3ab8672643d43e24fcb45d89
+         14. 1. 3 ^s-52c396a7749dedb4e57afd4f
          165
          156
          114
@@ -7274,7 +7279,7 @@ ______________
 
  1 2
  Paveldimo ar dovanojamo nekilnojamojo ir kilnojamojo turto vidutinių rinkos kainų nustatymas
-             14. 1. 3 ^0f0a2ce44aea795ee1a59d89
+             14. 1. 3 ^s-41359a5d0084afa93966a3eb
              66
              66
              49
@@ -7314,7 +7319,7 @@ ______________
 
  1 1
  Dokumentų blankų projektavimo programa
-     13. 9. 1 ^7c93d511601e7a4aed04a893
+     13. 9. 1 ^s-f1fa03e913b5fa80ac6784ae
      470
      374
      199
@@ -7324,7 +7329,7 @@ ______________
 
  1 2
  Dokumentų blankų technologinių apsaugos elementų kūrimo ir jų įdiegimo dokumentų gamyboje programa
- 13. 9. 1 ^d03f93ecaee588f0e2d5f158
+ 13. 9. 1 ^s-a216ee2fcfcca17011528b53
  564
  409
  260
@@ -7334,7 +7339,7 @@ ______________
 
  1 3
  Duomenų, susijusių su valstybės paslaptimis, apsauga
-         13. 9. 1 ^4f192299e28173793a8274ed
+         13. 9. 1 ^s-f767c7163587a4b37394804f
          180
          163
          79
@@ -7344,7 +7349,7 @@ ______________
 
  2 1
  Dokumentų ir vertybinių popierių leidybos, gamybos ir apyvartos kontrolės programa
-     13. 9. 1 ^7268ed0f0556b0856628fd44
+     13. 9. 1 ^s-ea6e8f461f86f14c744110b8
        469
      460
      302
@@ -7354,7 +7359,7 @@ ______________
 
  2 2
  Duomenų apie specialius apskaitos dokumentų blankus kaupimo, apdorojimo ir vartojimo programa
- 13. 9. 1 ^925826e2e84189c12a6e50e1
+ 13. 9. 1 ^s-2dc531f8f1d4d21018b4dc38
  1173
  990
    677
@@ -7364,7 +7369,7 @@ ______________
 
  3 1
  Objektų fizinės apsaugos programa
-     13. 9. 1 ^c32437ed7ca8cfbb90b4ef9f
+     13. 9. 1 ^s-08e56b99456a50d6e8df8b8d
      309
      302
      226
@@ -7374,7 +7379,7 @@ ______________
 
  4 1
  Valstybės valdymas
- 13. 9. 1 ^430f8d7aaae6ae689d7a9d8a
+ 13. 9. 1 ^s-a21c3e90bc500942f524b6de
  526
  520
  253
@@ -7414,7 +7419,7 @@ ______________
 
  1 1
  „Būstas“ (pastatų šiltinimas ir atnaujinimas)
-     11. 3. 1 ^58a9564c1eeb165aca74a092
+     11. 3. 1 ^s-611b8fdae799a6c1896373b0
      2000
 
 
@@ -7442,7 +7447,7 @@ ______________
 
 
 
- 0.914. 0 ^11b2a645ffa0a569e3165f38
+ 0.914. 0 ^s-fee0d30acb43ab2557a0b600
  Kultūros ministerijos    valdymo sritis
 
 
@@ -7452,7 +7457,7 @@ ______________
 
 
 
- 90. 22.1075 ^cfbc3bd8704415c48967835c
+ 90. 22.1075 ^s-687c9abe11546330f4f51c1d
  Kultūros ministerijos Kultūros vertybių apsaugos departamentas
 
 
@@ -7464,7 +7469,7 @@ ______________
 
  1 1
  Nekilnojamųjų kultūros vertybių tvarkymas
-     8. 2. 5 ^8bccd4aaa04f46f827ed403f
+     8. 2. 5 ^s-61fb164aed38571f336eb5ec
      15824
      15824
 
@@ -7474,7 +7479,7 @@ ______________
 
  2 1
  Kultūros vertybių apskaita, propagavimas, informacijos kaupimas bei Trakų istorinio nacionalinio parko kultūrinių, švietėjiškų bei propagandinių vertybių apsauga
-     8. 2. 5 ^39281f4bef3744aba34cbcfd
+     8. 2. 5 ^s-c1f077797abb1e7b8376520d
      3524
        3324
        1015
@@ -7484,7 +7489,7 @@ ______________
 
  3 1
  Valstybės valdymas
- 8. 9. 1 ^b90ec5add70990cefae3ac19
+ 8. 9. 1 ^s-ec5b25e1f00a07f0ced7f747
  2039
  1989
  1332
@@ -7524,7 +7529,7 @@ ______________
 
  1 1
  Visuomenės bibliotekinis informacinis aprūpinimas
-     8. 2. 1 ^0ca13dc822bdfc31809034bb
+     8. 2. 1 ^s-4263a0737a2688b4858fb404
      11139
      10703
      6530
@@ -7534,7 +7539,7 @@ ______________
 
  1 2
  Lietuvos integralios bibliotekų informacijos sistemos LIBIS kūrimas
-         8. 2. 1 ^d0fa32e7b456665da602f086
+         8. 2. 1 ^s-d77389f279fae970b65e6f78
          378
          378
          236
@@ -7574,7 +7579,7 @@ ______________
 
  1 1
  Spaudinių kaupimo, tvarkymo, saugojimo, naudojimo, skaitytojų aptarnavimo, organizavimas
-             8. 2. 1 ^bace93ca54bd5da73729864d
+             8. 2. 1 ^s-a9fb9ee99506266600b4ac26
              1193
              1157
              703
@@ -7614,7 +7619,7 @@ ______________
 
  1 1
  Muziejaus rinkinių kaupimas, saugojimas, populiarinimas
-         8. 2. 2 ^67d521f096fd25c06f9e8a4d
+         8. 2. 2 ^s-1c819f3ed43d94fabba6ab62
          3613
          3130
          1898
@@ -7654,7 +7659,7 @@ ______________
 
  1 1
  Muziejaus rinkinių kaupimas, saugojimas, populiarinimas
-         8. 2. 2 ^803b5d8b15f9db7639beecdb
+         8. 2. 2 ^s-b9a82ccd2fb7406f8779d30b
          7854
          6824
          3747
@@ -7694,7 +7699,7 @@ ______________
 
  1 1
  Meno ir kultūros vertybių saugojimas, kaupimas ir populiarinimas
-         8. 2. 2 ^d829e2deb0d0f3ecf1e34b03
+         8. 2. 2 ^s-93c19f18140c07956b89c155
          3497
          3467
          1911
@@ -7734,7 +7739,7 @@ ______________
 
  1 1
  Teatro meno pristatymas
- 8. 2. 4 ^2d674ab4dfac76fde3a94f9c
+ 8. 2. 4 ^s-cc708c6c1030b7378b6bf9cf
  12045
  11195
 
@@ -7774,7 +7779,7 @@ ______________
 
  1 1
  Teatro meno pristatymas
- 8. 2. 4 ^2c107f354510d5ff9f352a1e
+ 8. 2. 4 ^s-e800a91ce878c62b654adfb6
  3133
  3133
 
@@ -7814,7 +7819,7 @@ ______________
 
  1 1
  Klasikinės bei šiuolaikinės muzikos meno sklaida
-     8. 2. 4 ^6b6f8040cf62faa2cc2ea4ab
+     8. 2. 4 ^s-864e30cd96df8d026d464107
      10864
      10859
 
@@ -7824,7 +7829,7 @@ ______________
 
  2 1
  Nacionalinio simfoninio orkestro rėmimas
-     8. 2. 4 ^0195e8dc6bb2380d6e59a8b6
+     8. 2. 4 ^s-e97767d7449460a9cdc77fa0
      81
      81
 
@@ -7852,7 +7857,7 @@ ______________
 
 
 
- 0.918. 0 ^c0fe9429fc9971926218f7b1
+ 0.918. 0 ^s-37bc867faa5cd307c44717d7
  Socialinės apsaugos ir darbo ministerijos valdymo sritis
 
 
@@ -7862,7 +7867,7 @@ ______________
 
 
 
- 90. 12. 979 ^dc85b437e04f833f6c241419
+ 90. 12. 979 ^s-c4654dcfc825546470cb4392
  Technikos priežiūros tarnyba prie Socialinės apsaugos ir darbo ministerijos
 
 
@@ -7874,7 +7879,7 @@ ______________
 
  1 1
  Potencialiai pavojingų įrenginių valstybinė priežiūra
-         13. 9. 1 ^395955158e60325ca838df33
+         13. 9. 1 ^s-d4d96d33690ef0fb6f83414a
          3707
          3507
          2117
@@ -7902,7 +7907,7 @@ ______________
 
 
 
- 90. 9. 976 ^f2e9ebc91a87377d81b5403f
+ 90. 9. 976 ^s-5beed65a6ffd70a738bcfdda
  Vaikų teisių apsaugos tarnyba prie Socialinės apsaugos ir darbo ministerijos
 
 
@@ -7914,7 +7919,7 @@ ______________
 
  1 1
  Vaikų teisių ir jų teisėtų interesų pažeidimų prevencija, rajono (miesto) vaikų teisių apsaugos tarnybų darbo koordinavimas
-     4. 6. 1 ^d48583e381f7a647d3583f00
+     4. 6. 1 ^s-0387410ac88e7ccbd8e2475d
        254
    247
      162
@@ -7942,7 +7947,7 @@ ______________
 
 
 
- 90. 19.1057 ^682f451989954e7ec1eef357
+ 90. 19.1057 ^s-6d89f353efa35c272b3da87f
  Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos
 
 
@@ -7954,7 +7959,7 @@ ______________
 
  1 1
  Nelaimingų atsitikimų darbe, profesinių ligų, darbų saugos, darbo įstatymų, kitų poįstatyminių aktų pažeidimų prevencija
-                 13. 9. 1 ^633a7720850e1103060576be
+                 13. 9. 1 ^s-d1e17854801bafd4cab71c2c
                  6894
                  6324
                  4138
@@ -7964,7 +7969,7 @@ ______________
 
  1 2
  Darbo inspektorių kvalifikacijos kėlimas ir mokymas
-         13. 9. 1 ^53f76c264ba1141e2b42252c
+         13. 9. 1 ^s-9d9a86f87f06d8922be25330
          20
          20
 
@@ -7992,7 +7997,7 @@ ______________
 
 
 
- 0.920. 0 ^f253652293fb9adb04cd7c4d
+ 0.920. 0 ^s-bafe25b4dcd74074cc55d45e
  Susisiekimo ministerijos   valdymo sritis
 
 
@@ -8014,7 +8019,7 @@ ______________
 
  1 1
  Eismo tiltais ir viadukais saugumo užtikrinimas
-     12. 1. 1 ^40dc2966167796c620cee2ff
+     12. 1. 1 ^s-f50c9da086f13c8acccfec6a
      186
      176
      110
@@ -8053,8 +8058,8 @@ ______________
 
 
  1 1
- Lietuvos Respublikos transporto veiklos pagrindų įstatymo, Kelių transporto kodekso ir kitų norminių aktų įgyvendinimas kelių transporto srityje
-   12. 1. 1 ^229ee4a5dabe9300b69fac9f
+ [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymo]], Kelių transporto kodekso ir kitų norminių aktų įgyvendinimas kelių transporto srityje
+   12. 1. 1 ^s-f906968106a2fccc6635f1bc
    9507
    7244
    3875
@@ -8094,7 +8099,7 @@ ______________
 
  1 1
  Vidaus vandens kelių priežiūra ir eksploatavimas bei mechanizmų išlaikymas
-         12. 2. 1 ^87ccdbd215756b6147326882
+         12. 2. 1 ^s-7b5d18904fdaed768940317a
          9430
          7393
 
@@ -8134,7 +8139,7 @@ ______________
 
  1 1
  Lietuvos Respublikos teisės aktų įgyvendinimo vidaus vandenų transporto srityje kontrolė
-             12. 2. 1 ^821c19fcf4686c8c3b4df8d7
+             12. 2. 1 ^s-718c34a691a5d756dd74f422
              1030
              787
              522
@@ -8174,7 +8179,7 @@ ______________
 
  1 1
  Keleivių vežimas lengvatinėmis sąlygomis
-     12. 3. 1 ^548e41fc84e6e3827311c741
+     12. 3. 1 ^s-6d026f55e681515ec20d5f2b
      11200
      11200
 
@@ -8184,7 +8189,7 @@ ______________
 
  1 2
  Keleivių vežimas ir kitų visuomenei reikalingų paslaugų teikimas
-         12. 3. 1 ^0c33e37e9597ef524a436048
+         12. 3. 1 ^s-0ad8f01fbf1d7b2d26dfd620
          6931
          6931
 
@@ -8224,7 +8229,7 @@ ______________
 
  1 1
  Geležinkelio saugaus eismo užtikrinimas
-     12. 3. 1 ^a43d94b6df1872d03fec1982
+     12. 3. 1 ^s-b9bf4f788aad2ecc8f71cb3b
      381
      371
      202
@@ -8264,7 +8269,7 @@ ______________
 
  1 1
  Transporto infrastruktūros (TINA), kelių, geležinkelių, oro, vandens transporto monitoringas
-             12. 3. 1 ^709ed4d48dc9bb4ef4aea5c7
+             12. 3. 1 ^s-050cdbce568f0a872f2a044e
              366
              366
              232
@@ -8304,7 +8309,7 @@ ______________
 
  1 1
  Oro uostų, vežėjų ir orlaivių naudotojų techninės priežiūros ir aviacinio saugumo užtikrinimas
-             12. 9. 1 ^df09e38e269160281e9d0129
+             12. 9. 1 ^s-0cbe8ac230e859c18aa5bdcb
              100
              100
              70
@@ -8344,7 +8349,7 @@ ______________
 
  1 1
  Specialiųjų vyriausybinių reisų aptarnavimas oro uostuose ir oro erdvėje
-         12. 4. 1 ^2e4b63e2aa37de9790c10316
+         12. 4. 1 ^s-37cf19cca80f1400ba31cf3c
          120
          120
 
@@ -8354,7 +8359,7 @@ ______________
 
  2 1
  Vilniaus aerouosto VIP salės išlaikymas
-     12. 4. 1 ^41cc2d5d6d44de19a44762ff
+     12. 4. 1 ^s-160960b4d3f9ffce60ab55ee
      84
      84
 
@@ -8394,7 +8399,7 @@ ______________
 
  1 1
  Keleivių ir krovinių pervežimų vykdymas
-     12. 4. 1 ^3aba9389ba6231c78d9eedca
+     12. 4. 1 ^s-4dd6756021cb67d4b32183e6
      13131
      1343
 
@@ -8434,7 +8439,7 @@ ______________
 
  1 1
  Privalomųjų pašto paslaugų nuostolių dengimas
-     12. 7. 1 ^4f6a5390e1045d43420bfa00
+     12. 7. 1 ^s-42857549e7267de3730c41b4
      5523
      5523
 
@@ -8444,7 +8449,7 @@ ______________
 
  2 1
  Pašto ženklų gamyba
- 12. 7. 1 ^18e85caa5c3857925ae66fa2
+ 12. 7. 1 ^s-1dc90533e4042219c6c3e87d
  430
  430
 
@@ -8454,7 +8459,7 @@ ______________
 
  3 1
  Tarptautinio pašto pervežimas
-     12. 7. 1 ^f55c00bbf2fbf98c32c0434f
+     12. 7. 1 ^s-de935fad28cb565e4afd0ab0
      1720
      1720
 
@@ -8464,7 +8469,7 @@ ______________
 
  4 1
  Laikraščių prenumeratos kaime išlaidų dalinis padengimas
-         12. 7. 1 ^6698ecdb701b0eee7f666911
+         12. 7. 1 ^s-98b199c2fad6671fe71a53a4
          3538
          3538
 
@@ -8474,7 +8479,7 @@ ______________
 
  5 1
  Informatikos plėtojimas
- 12. 7. 1 ^a27520ea66bd3ef515ab1115
+ 12. 7. 1 ^s-e45104bb0d01ae3d9b631ad8
  608
  608
 
@@ -8502,7 +8507,7 @@ ______________
 
 
 
- 0.921. 0 ^a99cb680b434ab37caf29889
+ 0.921. 0 ^s-584cd043b99b01e733fb38cd
  Sveikatos apsaugos    ministerijos valdymo    sritis
 
 
@@ -8524,7 +8529,7 @@ ______________
 
  1 1
  Valstybės lėšomis draudžiamų asmenų privalomasis sveikatos draudimas
-             5. 1. 1 ^e5a505d3a18d3228b4fa2d45
+             5. 1. 1 ^s-4b3580dd5ec5025db2de6cb6
              461361
              461361
 
@@ -8534,7 +8539,7 @@ ______________
 
  2 1
  Kompensacijų kraujo donorams išmokėjimas
-     5. 2. 3 ^51593608756f2e1d4d271fd3
+     5. 2. 3 ^s-87e366dab956d08808fb322a
      4950
      4950
 
@@ -8544,7 +8549,7 @@ ______________
 
  3 1
  Kitų asmenų sveikatos priežiūra
-     5. 2. 4 ^424a6e177cb42ccd8400dbe5
+     5. 2. 4 ^s-29509f0e9ad410cebd6bac47
      1009
      1009
 
@@ -8554,7 +8559,7 @@ ______________
 
  4 1
  Šauktinių medicinos ekspertizės komisijos
-     5.12. 1 ^b169e0e81a19d106555bd4f5
+     5.12. 1 ^s-71d1f784eeb9d702361c8579
      440
      440
 
@@ -8582,7 +8587,7 @@ ______________
 
 
 
- 0.929. 0 ^8faedb449b6d9eeabe3c69cd
+ 0.929. 0 ^s-eed2bcedb08f12d8dc0ba6ff
  Ūkio ministerijos valdymo   sritis
 
 
@@ -8604,7 +8609,7 @@ ______________
 
  1 1
  Energetikos valstybinės priežiūros ir kontrolės vykdymas
-         9. 9. 1 ^9aaf68eb44fb620852282464
+         9. 9. 1 ^s-2f88184d9abaf0aab5da6165
          3070
          2980
          2123
@@ -8644,7 +8649,7 @@ ______________
 
  1 1
  Nuostolingai dirbančių ir bankrutuojančių įmonių veiklos analizė ir šių įmonių veiklos atkūrimo bei aktyvinimo priemonių parengimas
-                     11. 9. 1 ^16b4d3595b4e0a609222471e
+                     11. 9. 1 ^s-98d34506f990eacf69b1afc5
                      885
                      885
                      553
@@ -8672,7 +8677,7 @@ ______________
 
 
 
- 0.925. 0 ^cb81d87b5a80233aded86d67
+ 0.925. 0 ^s-c74a80ebab06afd2ce4f94fd
  Valdymo reformų ir   savivaldybių reikalų   ministerijos valdymo sritis
 
 
@@ -8682,7 +8687,7 @@ ______________
 
 
 
- 90. 17.1051 ^1ecbe86a7567cf69873d69a2
+ 90. 17.1051 ^s-e161d92c82b77c7ca4b1580f
  Lietuvos standartizacijos departamentas prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
@@ -8694,7 +8699,7 @@ ______________
 
  1 1
  LST valdymas
- 13. 9. 1 ^3b398e306007a0a7339a3dea
+ 13. 9. 1 ^s-ad10a9877f2eb428e7c83ddc
  2624
  2179
  1337
@@ -8704,7 +8709,7 @@ ______________
 
  1 2
  Standartizacijos programa
- 13. 4. 1 ^a45d3fd5f759c93b2c49bf1b
+ 13. 4. 1 ^s-95433172f46f6dedb03bdbc2
  540
  540
 
@@ -8714,7 +8719,7 @@ ______________
 
  1 3
  Informacijos centro organizavimas
-     13. 4. 1 ^7a3e87d922674bfcb0525817
+     13. 4. 1 ^s-02aa899eb9623ab57faf91d7
      24
      24
 
@@ -8754,7 +8759,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 13. 9. 1 ^067c9c2b9d636c1b4ffb86c2
+ 13. 9. 1 ^s-1c7fb4310878b19da89d5c63
  365
  345
  200
@@ -8764,7 +8769,7 @@ ______________
 
  1 2
  Matavimo priemonių metrologinis įteisinimas
-     13. 4. 1 ^e9521e0f09f158c56017a036
+     13. 4. 1 ^s-1c73179e8b7c1a46b5f29957
      240
      240
      100
@@ -8774,7 +8779,7 @@ ______________
 
  1 3
  Metrologinis aprūpinimas
- 13. 4. 1 ^bb130ab0adb56cc75de4de1e
+ 13. 4. 1 ^s-416e04695b4f0fa9b70cb1ac
  1154
  1154
 
@@ -8802,7 +8807,7 @@ ______________
 
 
 
- 90. 44.1894 ^9864bff2a4ac1738ea45fbde
+ 90. 44.1894 ^s-9621b6f6fb36cf8bb6d58d6a
  Lietuvos metrologijos inspekcija
 
 
@@ -8814,7 +8819,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 13. 9. 1 ^6baabddd3467629cf0a6aefd
+ 13. 9. 1 ^s-05d8638289117b4179790b53
  674
  604
  413
@@ -8824,7 +8829,7 @@ ______________
 
  1 2
  Valstybinė metrologinė matavimų ir prekių kiekio priežiūra (kontrolė)
-         13. 9. 1 ^c166ac07944d1de8c13aa47e
+         13. 9. 1 ^s-a5673fdcc1bda6838d97a7c1
          741
          573
          371
@@ -8834,7 +8839,7 @@ ______________
 
  1 3
  Valstybinė metrologinė matavimo priemonių būklės ir naudojimo priežiūra (kontrolė)
-             13. 9. 1 ^20b95c489f71eb75f868da0d
+             13. 9. 1 ^s-5eef15964477810acb286d7d
              799
              640
              420
@@ -8874,7 +8879,7 @@ ______________
 
  1 1
  Valstybės ir savivaldybių tarnautojų kvalifikacinis mokymas
-         14. 1. 3 ^ea3f447d442fea198b642b34
+         14. 1. 3 ^s-7b2fe3fc79085497508fba17
          215
          215
          96
@@ -8914,7 +8919,7 @@ ______________
 
  1 1
  Valstybės valdymas
- 13. 9. 1 ^87094cbc46c989138f8b18de
+ 13. 9. 1 ^s-45a36895fcc89bc21e603b89
  334
  321
  178
@@ -8924,7 +8929,7 @@ ______________
 
  1 2
  Atitikties įvertinimo įstaigų įvertinimas ir jų priežiūra
-     13. 4. 1 ^05bb9b97dc52fd86a74fff7c
+     13. 4. 1 ^s-1f3af98c16e58eb521eeb806
      120
      120
      72
@@ -8952,7 +8957,7 @@ ______________
 
 
 
- 90. 13. 980 ^7d33db99ea90569f2b7067cb
+ 90. 13. 980 ^s-074b2ac10c04a0c887d87f62
  Valstybinis turizmo departamentas prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
@@ -8964,7 +8969,7 @@ ______________
 
  1 1
  Nacionalinė turizmo plėtojimo programa
-     13. 9. 1 ^a5d34479ce59e63e205f777f
+     13. 9. 1 ^s-6ec88c306334be1ccb5ad246
      162
      162
 
@@ -8974,7 +8979,7 @@ ______________
 
  1 2
  Darbuotojų kvalifikacijos kėlimas
-     13. 9. 1 ^4f5c2ec0bd3b441ce05f4ede
+     13. 9. 1 ^s-60491d483ceee4ff500351f0
      1
      1
 
@@ -8984,7 +8989,7 @@ ______________
 
  1 3
  Valstybės valdymas
- 13. 9. 1 ^7498d7474c6a8f819f6a2f27
+ 13. 9. 1 ^s-3b102ac305f088b65822fae0
  1135
  1135
  345
@@ -9024,7 +9029,7 @@ ______________
 
  1 1
  Duomenų apsaugos valdymas
-     13. 9. 1 ^6fa56e4d67c280bb02685e02
+     13. 9. 1 ^s-3e20590720eacb5acfb18ad7
      360
      344
      188
@@ -9064,7 +9069,7 @@ ______________
 
  1 1
  Valstybės tarnautojų mokymas, kvalifikacijos kėlimas bei mokymas
-         4. 4. 1 ^1da42c5108fc6c7a76285ad9
+         4. 4. 1 ^s-b13b58fc54ae0ef24975bc79
          1111
          1011
          439
@@ -9074,7 +9079,7 @@ ______________
 
  1 2
  Valstybės tarnautojų kvalifikacijos atestavimas
-     4. 4. 1 ^a67b61f5eb05cd63b124c40e
+     4. 4. 1 ^s-41c2bd309c718d5a076b1359
      85
      45
      25
@@ -9084,7 +9089,7 @@ ______________
 
  1 3
  Mokslinės, metodinės, konsultacinės bei analitinės diagnostikos darbas
-         4. 4. 1 ^da6d66de3ec6a89b3beb705b
+         4. 4. 1 ^s-0aa717964d2eac94013de610
          100
          80
          45
@@ -9112,7 +9117,7 @@ ______________
 
 
 
- 0.926. 0 ^69c1cb157856612d679473b3
+ 0.926. 0 ^s-b5e13d76e20a2e9308959022
  Vidaus reikalų   ministerijos valdymo sritis
 
 
@@ -9122,7 +9127,7 @@ ______________
 
 
 
- 90. 6. 924 ^d64ed75328b8a175f9430634
+ 90. 6. 924 ^s-8d16ec12a5c92718528d351f
  Lietuvos Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamentas prie VRM
 
 
@@ -9134,7 +9139,7 @@ ______________
 
  1 1
  Kovinis taktinis pasirengimas
-     1. 4. 2 ^8e5cb1526a61190e69b3d33a
+     1. 4. 2 ^s-418ec41ad04e9f62cea5fd42
      6289
      6289
      4801
@@ -9144,7 +9149,7 @@ ______________
 
  1 2
  Personalo išlaikymas
- 1. 4. 2 ^c6b1b472d9009d044bbfb42b
+ 1. 4. 2 ^s-9c510994b5742a87ea116a88
  8032
  8032
  4861
@@ -9154,7 +9159,7 @@ ______________
 
  1 3
  Materialinės techninės bazės kūrimas
-     1. 4. 2 ^08fa80826ba793f03e35905f
+     1. 4. 2 ^s-3b19d178b9a1583efb9e43ce
      6573
      6023
      4819
@@ -9164,7 +9169,7 @@ ______________
 
  1 4
  Einamojo remonto ir rekonstrukcijos darbai
-     1. 4. 2 ^c04b93e901bd737a9d8bf8ba
+     1. 4. 2 ^s-81000e749a786fa1ea75e18f
      330
      330
      22
@@ -9192,7 +9197,7 @@ ______________
 
 
 
- 90. 4. 864 ^0a864a9eb404304224f69a9c
+ 90. 4. 864 ^s-7a04ec543f4421b4b83338c1
  Priešgaisrinės apsaugos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -9204,7 +9209,7 @@ ______________
 
  1 1
  Personalo ir techninės bazės išlaikymas
-     3. 1. 3 ^84fa1ebc496025925ef6e583
+     3. 1. 3 ^s-ae1894af0d53f7051169d602
      87174
      87174
      60199
@@ -9214,7 +9219,7 @@ ______________
 
  1 3
  Materialinės techninės bazės plėtimas
-     3. 1. 3 ^9ded64181b4fc08822a64bd4
+     3. 1. 3 ^s-f56805e5728777ffaefe010b
      4881
 
 
@@ -9242,7 +9247,7 @@ ______________
 
 
 
- 90. 3. 826 ^afee1bc90a5c3b08b7cf18e0
+ 90. 3. 826 ^s-c9047688e0ba795a5b864a45
  Pasienio policijos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -9254,7 +9259,7 @@ ______________
 
  1 1
  Valstybės sienos apsaugos ir neliečiamumo sausumoje ir teritoriniuose vandenyse bei valstybės sienos, pasienio ruožo ir pasienio kontrolės punktų režimų užtikrinimas
- 2. 4. 1 ^359fc269999f684cf243b5e9
+ 2. 4. 1 ^s-b4e7e9b994c1503990662b3b
  89217
  89217
  1333
@@ -9264,7 +9269,7 @@ ______________
 
 
 
- 3. 4. 1 ^73678f36477c5210a75c2a1b
+ 3. 4. 1 ^s-3564ac5600159b5840246406
  24257
  17178
  6930
@@ -9292,7 +9297,7 @@ ______________
 
 
 
- 90. 2. 809 ^b9ae8a290b983a2b61c1642a
+ 90. 2. 809 ^s-0a46a07a22e9df2478048f76
  Pataisos reikalų departamentas prie Vidaus reikalų ministerijos
 
 
@@ -9304,7 +9309,7 @@ ______________
 
  1 1
  Įkalinimo įstaigų išlaikymas, apsauga ir priežiūra
-     3. 3. 1 ^7bb1ddfd4892962500fef679
+     3. 3. 1 ^s-a30c917bda56cdbad214fa02
      104866
      104866
      52902
@@ -9314,7 +9319,7 @@ ______________
 
  2 1
  Statybos projektavimo darbai ir ilgalaikio turto įsigijimas
-         3. 3. 1 ^cc87e49294a8cb4444f80777
+         3. 3. 1 ^s-833193dcd4fcb2111a4e1075
          6269
 
 
@@ -9324,7 +9329,7 @@ ______________
 
  2 2
  Nuteistųjų užimtumas ir profesinis bei bendrasis lavinimas
-         3. 3. 1 ^22d66ca5031873cad78b3880
+         3. 3. 1 ^s-87df5a884437ab68c826c7ca
          350
          350
 
@@ -9334,7 +9339,7 @@ ______________
 
  2 3
  Personalo profesinis tobulinimas
-     3. 3. 1 ^a6082d7c62e4a877bd68ef75
+     3. 3. 1 ^s-25d5b80aa5b2666c8fe61b82
      1050
      1050
      450
@@ -9344,7 +9349,7 @@ ______________
 
  2 4
  Pataisos reikalų departamento išlaikymas
-     3. 3. 1 ^f02f117c90cf06fc24ed313a
+     3. 3. 1 ^s-a5ebd5ae7953a3977305b609
      3936
      3936
      2442
@@ -9372,7 +9377,7 @@ ______________
 
 
 
- 90. 46.1902 ^73ba20b0b0c2b5614e36feed
+ 90. 46.1902 ^s-f04dfc270f3e6f97f0c3f104
  Specialiųjų tyrimų tarnyba prie Vidaus reikalų ministerijos
 
 
@@ -9384,7 +9389,7 @@ ______________
 
  1 1
  Kova su korupcija visose visuomeninių santykių srityse
-         3. 1. 1 ^abc098285cd9b3ad32773a45
+         3. 1. 1 ^s-7a772095dde97471a7e2f023
          16532
          16532
          12261
@@ -9412,7 +9417,7 @@ ______________
 
 
 
- 90. 43.1873 ^2f7933841567fce1ae2471ad
+ 90. 43.1873 ^s-e9d9899168577c0eee32d7d4
  Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -9424,7 +9429,7 @@ ______________
 
  1 1
  Operatyvinio darbo organizavimas
-     3. 1. 1 ^293f0ccbedb5ff22da3ed700
+     3. 1. 1 ^s-7b2d89d1a516562db7258b47
      9934
      9934
      7215
@@ -9434,7 +9439,7 @@ ______________
 
  1 4
  Pinigų plovimo prevencijos priemonių įgyvendinimas
-     3. 1. 1 ^b098833caf81eb906d91264e
+     3. 1. 1 ^s-f6c7337a173a41d7317bae0e
      705
      705
      525
@@ -9462,7 +9467,7 @@ ______________
 
 
 
- 90. 45.1932 ^68c92ea6dcb3bd83d091c88d
+ 90. 45.1932 ^s-7ccf9e0c5401aca7a883a3e9
  Policijos departamentas prie Vidaus reikalų ministerijos
 
 
@@ -9474,7 +9479,7 @@ ______________
 
  1 1
  Kriminalinių ir ekonominių nusikaltimų, teisėtvarkos pažeidimų bei organizuotų nusikaltimų prevencija
-     3. 1. 1 ^beb7019bc874ed9d9b46abca
+     3. 1. 1 ^s-e7376b210d8628e02c02fa07
        25115
      25115
 
@@ -9484,7 +9489,7 @@ ______________
 
  1 3
  Policijos komisariatų ir policijos padalinių išlaikymas
-         3. 1. 1 ^b7f18c6c75284e4509b8d6b2
+         3. 1. 1 ^s-2def34c0618ee8bbcf513470
          357140
          357140
          270136
@@ -9494,7 +9499,7 @@ ______________
 
  1 4
  Policijos departamento išlaikymas
- 3. 1. 1 ^f42b97bde1169b4e5dfcf137
+ 3. 1. 1 ^s-19c05ce4305d082c462f6112
  34425
  34425
  21620
@@ -9504,7 +9509,7 @@ ______________
 
  1 5
  Nelegalių migrantų srautų reguliavimas
-     3. 1. 1 ^316a6059d23c668b28b306f4
+     3. 1. 1 ^s-3e483565bd682b63c4b478ef
      3848
      3848
      1352
@@ -9532,7 +9537,7 @@ ______________
 
 
 
- 0.930. 0 ^541ff4d6ff08042457204bc7
+ 0.930. 0 ^s-17e692bbae6f3dbcef095dd8
  Žemės ūkio ministerijos   valdymo sritis
 
 
@@ -9554,7 +9559,7 @@ ______________
 
  1 1
  Žemės ir maisto ūkio integracijos į Europos Sąjungą programa
-         10. 9. 1 ^9692e5dfbc7a0ea3eb168e38
+         10. 9. 1 ^s-c098b490aedf3591c27f2cdf
          1709
          1709
          1053
@@ -9594,7 +9599,7 @@ ______________
 
  1 1
  Dirvožemio tyrimas ir žemės įvertinimas
-     10. 1. 2 ^f869a61330fd1efddc361223
+     10. 1. 2 ^s-7c75387d19826e0fadf64a5a
      830
      830
 
@@ -9604,7 +9609,7 @@ ______________
 
  1 2
  Valstybinė žemės apskaita
- 10. 1. 2 ^02971501df20b18cd2a0dc8a
+ 10. 1. 2 ^s-7f9771cd4ed7b438b3dc7c54
  420
  420
 
@@ -9614,7 +9619,7 @@ ______________
 
  1 3
  Valstybinės žemėtvarkos darbai
-     10. 1. 2 ^dac1738a2572c7d50f069b64
+     10. 1. 2 ^s-2598ed687c0006112f4cfadd
      728
      728
 
@@ -9624,7 +9629,7 @@ ______________
 
  2 1
  Žemės reformos ir žemėtvarkos projektų rengimo automatizavimas
-         10. 1. 2 ^30d59ccf0c2ad27fd8ffb7da
+         10. 1. 2 ^s-57ae775700e01b7baf10bf66
          34
 
 
@@ -9634,7 +9639,7 @@ ______________
 
  3 2
  Nekilnojamojo turto kadastro informacinės sistemos plėtra ir eksploatavimas
-             10. 1. 2 ^a70d67a388feda99f85ec0e7
+             10. 1. 2 ^s-196f9565a33077f54496779b
              3407
              3407
 
@@ -9644,7 +9649,7 @@ ______________
 
  3 3
  Nekilnojamojo turto vertinimo, sistemos jo apmokestinimui sukūrimas ir įgyvendinimas
-             10. 1. 2 ^f3a6e0d27fd85232835588f2
+             10. 1. 2 ^s-4be9f1d0cf33a71bb9b5a719
              20
              20
 
@@ -9654,7 +9659,7 @@ ______________
 
  4 1
  Valstybės valdymas
- 10. 9. 1 ^9db9ea5bf90548ccdac0d1e2
+ 10. 9. 1 ^s-055c5c5f99d349b4393bf4b5
  1557
  1507
  768
@@ -9694,7 +9699,7 @@ ______________
 
  1 1
  Žemės ūkio rūmų narių veiklos koordinavimas
-     10. 5. 1 ^684b75e399fb5d12851139e7
+     10. 5. 1 ^s-8230a49bf8df17fce9a96e1a
      2020
      1805
 
@@ -9722,7 +9727,7 @@ ______________
 
 
 
- 0. 0. 0 ^f55bb566bfff62fe7ff474ae
+ 0. 0. 0 ^s-75d30e10f36a67f5a2e101fe
  V. Teisėsaugos institucijos
 
 
@@ -9744,7 +9749,7 @@ ______________
 
  1 1
  Teisingumo vykdymas
- 3. 2. 1 ^730bd3c40a192101b9e2f741
+ 3. 2. 1 ^s-f164bec95e1d9781f47d4fb1
  10923
  8493
  7173
@@ -9784,7 +9789,7 @@ ______________
 
  1 1
  Kova su nusikalstamumu. Teisingumo ir teisėtumo įgyvendinimas
-         3. 2. 1 ^a767ccaaad7d099afb84165e
+         3. 2. 1 ^s-be6cce72de162a5eff848b29
          68434
          67462
          49242
@@ -9794,7 +9799,7 @@ ______________
 
  1 2
  Prokurorų parengimas darbui po teisinės reformos
-     3. 2. 1 ^871b1a18b00c81cfb870d5cc
+     3. 2. 1 ^s-f2ac2b6a0cabd113ba3d88b8
      50
      50
 
@@ -9804,7 +9809,7 @@ ______________
 
  1 3
  Valstybinių pensijų mokėjimas prokuratūros sistemos pareigūnams
-         6. 1. 7 ^6c6245683dc224ccf6916285
+         6. 1. 7 ^s-61871a1ccdea45d0aa6a61d2
          660
          660
 
@@ -9832,7 +9837,7 @@ ______________
 
 
 
- 0. 0. 0 ^a50e6b64e6736e6f50f54caf
+ 0. 0. 0 ^s-b1d070a362374a6c82cb9a70
  VI. Švietimo, kultūros ir   kitos įstaigos bei    organizacijos
 
 
@@ -9854,7 +9859,7 @@ ______________
 
  1 1
  Visuomenės informacinis aprūpinimas
-     8. 2. 1 ^368686f0664bf37f7cebe53d
+     8. 2. 1 ^s-4f34422131cf0d52ab5734d6
      3669
      3625
      1669
@@ -9894,7 +9899,7 @@ ______________
 
  1 1
  Medicinos darbuotojų informacinis aprūpinimas
-     8. 2. 1 ^7ad04f11863269b745fd603f
+     8. 2. 1 ^s-f7237eb0da9d794f0c7b3c9f
      1061
      1046
      648
@@ -9934,7 +9939,7 @@ ______________
 
  1 1
  Konkursas viešosios informacijos rengėjams, projektų administravimas ir žiniasklaidos procesų analizė
-   8. 3. 1 ^d389524d81620152333437b3
+   8. 3. 1 ^s-664bc9966b876ea95735abad
    3419
    3409
 
@@ -9974,7 +9979,7 @@ ______________
 
  1 1
  Jaunimo integracija į aktyvų ir pilnavertį visuomenės gyvenimą
-         8. 4. 1 ^2582e63b6dc983971e9451c4
+         8. 4. 1 ^s-687e1ad7a00c98f7f2bfc101
          1327
          1327
 
@@ -9984,7 +9989,7 @@ ______________
 
  2 1
  Valstybės valdymas – programų įgyvendinimo koordinavimas
-         8. 4. 1 ^c61fe280f19eed241f94cc15
+         8. 4. 1 ^s-e6a5f777949262de8cf925ac
          765
          755
          187
@@ -10024,7 +10029,7 @@ ______________
 
  1 2
  Smulkaus ir vidutinio verslo teisinė, ekonominė ir informacinė aplinka
-         14. 1. 3 ^7b76f7b9d9a5a7ebea147e32
+         14. 1. 3 ^s-3696df30552062359edd002a
          520
          503
          274
@@ -10064,7 +10069,7 @@ ______________
 
  1 1
  Lietuvos Respublikos verslo registro bazės sukūrimas
-     14. 1. 3 ^4f5419f8032c3f233ed4cad5
+     14. 1. 3 ^s-5d5acc7193856585ececd31f
      190
      190
 
@@ -10104,7 +10109,7 @@ ______________
 
  1 1
  Lietuvos gyventojų genocido ir rezistencijos tyrimas
-         14. 1. 3 ^151c7d213791537f77edf358
+         14. 1. 3 ^s-7f964e3ddc53bc3bda02c7d9
          6103
          2903
          1802
@@ -10114,7 +10119,7 @@ ______________
 
  1 2
  Lietuvos gyventojų genocido ir rezistencijos įamžinimas
-         14.11. 1 ^4448ea2e6567e65c4e7c652c
+         14.11. 1 ^s-57208fb80455114df9bcb67a
          528
          528
          240
@@ -10144,7 +10149,7 @@ ______________
 
  1 1
  Genocido aukų ir rezistencijos dalyvių materialinis rėmimas, Lietuvos gyventojų genocido ir rezistencijos tyrimo bei genocido aukų ir rezistencijos dalyvių atminimo įamžinimas
-     14. 1. 3 ^fc7142035ed380ed52db328c
+     14. 1. 3 ^s-6bf221661572aa4c0f47fcea
      656
  656
  42
@@ -10172,7 +10177,7 @@ ______________
 
 
 
- 90. 25.1145 ^5c2bf4a0633e5680d669ecd2
+ 90. 25.1145 ^s-f30a51bf7827f3387e4a9ce3
  Lietuvos nacionalinis radijas ir televizija
 
 
@@ -10184,7 +10189,7 @@ ______________
 
  1 1
  Visuomenės informavimas radijo komunikacijų tinklais
-     8. 3. 1 ^5d1a0c41d5617801593752be
+     8. 3. 1 ^s-ca6071e9b23be1e7f0c2d5b6
      12123
      10823
 
@@ -10194,7 +10199,7 @@ ______________
 
  1 2
  Visuomenės informavimas telekomunikacijų tinklais
-     8. 3. 1 ^7520639d1b5396d03d86e22d
+     8. 3. 1 ^s-36e44993a6f72b95d9518c5b
      19694
      18724
 
@@ -10204,7 +10209,7 @@ ______________
 
  1 3
  Radijo informacinės laidos
- 8. 3. 1 ^be6d4c1828c25f7e15dae3c8
+ 8. 3. 1 ^s-6e2b677813f936e7f6f304f9
  1700
  1700
 
@@ -10214,7 +10219,7 @@ ______________
 
  1 4
  Televizijos informacinės laidos
-     8. 3. 1 ^08e308699ffb616c2577b039
+     8. 3. 1 ^s-d1c551b5ff46b9c501e33fce
      4500
      4500
 
@@ -10254,7 +10259,7 @@ ______________
 
  1 2
  Nacionalinės pramoninės nuosavybės teisinė apsauga Lietuvoje
- 13. 4. 1 ^9c52c37081dd375cebb177fc
+ 13. 4. 1 ^s-170afcc794ceb0bc80fa639e
    1973
    1928
  947
@@ -10294,7 +10299,7 @@ ______________
 
  1 1
  Pagalba Lietuvos šaulių sąjungai
-     2. 4. 1 ^b99362db43664097e590b8fa
+     2. 4. 1 ^s-e6f80973e0a60c35f066004a
      1134
      1134
      183
@@ -10334,7 +10339,7 @@ ______________
 
  1 1
  Gyvenamojo ploto, medicininių ir kultūrinių paslaugų suteikimas, konferencijų, pasitarimų organizavimas
-       14. 1. 3 ^a0a9dd5204f03783f70559eb
+       14. 1. 3 ^s-c727870f5269abff521704db
          1736
          1670
          263
@@ -10364,7 +10369,7 @@ ______________
 
  1 1
  Gyvenamojo ploto bei medicininių paslaugų suteikimas
-         14. 1. 3 ^bcaca461691e4ebbdfb1d5e1
+         14. 1. 3 ^s-18b5c1a24289806ea85bc41a
          99
          99
          26
@@ -10404,7 +10409,7 @@ ______________
 
  1 1
  Tarnybinių gyvenamųjų patalpų eksploatavimas
-     14. 1. 3 ^77d3136b1b8062a283029abd
+     14. 1. 3 ^s-7178c2795a32bc4bf433de48
      817
      817
 
@@ -10444,7 +10449,7 @@ ______________
 
  1 1
  Lietuvos vardo tūkstantmečio paminėjimas
-     8. 2. 5 ^1501d234b190394336949847
+     8. 2. 5 ^s-20f2716fa7bb814e613f8a44
      689
      676
      192
@@ -10484,7 +10489,7 @@ ______________
 
  1 1
  Moksliniai, švietėjiški, kultūriniai renginiai
-     8. 2. 5 ^209790bcaf32d49e07dd2c2b
+     8. 2. 5 ^s-31b6b9fb493eb5ef166a3491
      243
      228
      144
@@ -10524,7 +10529,7 @@ ______________
 
  1 1
  Informacinė-konsultacinė pagalba grįžtantiems ir jau sugrįžusiems į Tėvynę lietuviams
-             14. 1. 3 ^3f25c62adb091bbcc9b47500
+             14. 1. 3 ^s-bccae00e479fceaf03e8c81b
              163
              143
              79
@@ -10564,7 +10569,7 @@ ______________
 
  1 1
  Aukščiausios kvalifikacijos specialistų bei mokslininkų aukštosiose mokyklose rengimo užtikrinimas ir plėtojimas
- 3. 1. 2 ^3dcbb2786053552e64721f9a
+ 3. 1. 2 ^s-c033304547525e3ca735d39d
  26710
  24491
  12884
@@ -10574,7 +10579,7 @@ ______________
 
 
 
- 4. 3. 1 ^7daffc38f9f45766e5db00ad
+ 4. 3. 1 ^s-4ecf238c0b28cec395498167
  370333
  353849
  204501
@@ -10584,7 +10589,7 @@ ______________
 
  1 2
  Mokslo potencialo palaikymas ir plėtojimas
-     1. 3. 4 ^a1a217247021291192323351
+     1. 3. 4 ^s-866a12327fe7f60bc66e4bab
      123648
      120258
      75489
@@ -10624,7 +10629,7 @@ ______________
 
  1 1
  Apskaitos, audito ir turto vertinimo plėtra
-     14. 1. 3 ^3dd63e6ab6a134ae968e1ef0
+     14. 1. 3 ^s-19b5e1dd7ffa7004310fd113
      484
      484
      309
@@ -10652,7 +10657,7 @@ ______________
 
 
 
- 90. 38.1669 ^e881eb42c56f96a84409d830
+ 90. 38.1669 ^s-8f1dcf2982b49648a4b8a120
  Lietuvos vartotojų kooperatyvų sąjunga(aukštesniosios kooperacijos mokyklos)
 
 
@@ -10664,7 +10669,7 @@ ______________
 
  1 1
  Specialistų su aukštesniuoju išsilavinimu rengimas
-     4. 5. 4 ^c36561d114f3a1ec29e68ce1
+     4. 5. 4 ^s-544f6e688a3420a04758b908
      166
      166
 
@@ -10692,7 +10697,7 @@ ______________
 
 
 
- 90. 39.1633 ^aefdb7c274e9b80800ee4ba0
+ 90. 39.1633 ^s-704c9b177e6ef361abb41147
  Lietuvos invalidų reikalų taryba prie Lietuvos Respublikos Vyriausybės
 
 
@@ -10704,7 +10709,7 @@ ______________
 
  1 1
  Invalidų ugdymas
- 6. 3. 1 ^d861906920a3e2e905738dfa
+ 6. 3. 1 ^s-0c0a0934773f0ad572ed83aa
  4634
  4634
 
@@ -10714,7 +10719,7 @@ ______________
 
  1 2
  Darbinis užimtumas
- 6. 3. 1 ^575f629e6b7c577c305ee953
+ 6. 3. 1 ^s-8f693ac8b31ef187db905050
  6944
  6944
 
@@ -10724,7 +10729,7 @@ ______________
 
  1 3
  Aplinkos pritaikymas
- 6. 3. 1 ^254e6b7e2d61f84390198478
+ 6. 3. 1 ^s-d8123364d4c12a08689b9d9b
  1720
  1720
 
@@ -10734,7 +10739,7 @@ ______________
 
  1 4
  Savarankiško invalidų gyvenimo formavimas
-     6. 3. 1 ^4d4c8a4de78bdc0fbddadd9b
+     6. 3. 1 ^s-bdf43fd9701b2454ea106ceb
      4357
      4357
 
@@ -10744,7 +10749,7 @@ ______________
 
  1 5
  Informacijos prieinamumas ir komunikacijos
-     6. 3. 1 ^bdec00c96851afb32c0c3e5f
+     6. 3. 1 ^s-fe802a849d9bd30061a53035
      2681
      2681
 
@@ -10754,7 +10759,7 @@ ______________
 
  1 6
  Medicininė reabilitacija
- 6. 3. 1 ^be4e4c0e538640c51e01706f
+ 6. 3. 1 ^s-303f60e34466bd556292a4bd
  5143
  2643
 
@@ -10764,7 +10769,7 @@ ______________
 
  1 7
  Lietuvos invalidų reikalų tarybos išlaikymas (valdymas)
-         6. 3. 1 ^95d5e95a6592eaee8386e223
+         6. 3. 1 ^s-abdcd538eff936d6a8754f91
          405
          382
          165
@@ -10804,7 +10809,7 @@ ______________
 
  1 1
  Visuomeninių organizacijų blaivybės veiklos skatinimas, rėmimas ir koordinavimas
-         8. 4. 1 ^22b25fca0d2b0a978210cb05
+         8. 4. 1 ^s-9ed47856ce9f92dc345883e6
          238
          238
 
@@ -10844,7 +10849,7 @@ ______________
 
  1 1
  Vienišų socialiai remtinų asmenų slauga namuose
-     8. 4. 1 ^a6f51c8a1def3592b85154fc
+     8. 4. 1 ^s-11e48b61acd8854d680a0308
      969
      969
 
@@ -10854,7 +10859,7 @@ ______________
 
  1 2
  Visuomenės apmokymas teikti pirmąją pagalbą
-     8. 4. 1 ^404cf3d822f52a92c8c8b961
+     8. 4. 1 ^s-d798ef330e382aa845e039e3
      113
      113
 
@@ -10864,7 +10869,7 @@ ______________
 
  1 3
  Giminių, pasimetusių karo, stichinių nelaimių, konfliktų metu, paieška
-         8. 4. 1 ^73f4d760f3ec42aa34fb9b5c
+         8. 4. 1 ^s-008f6fb37796b6dbe74bce1c
          15
          15
 
@@ -10874,7 +10879,7 @@ ______________
 
  1 4
  Informacijos skleidimas apie Raudonojo Kryžiaus veiklą
-         8. 4. 1 ^fa3a19f518ec987c4cbc59a7
+         8. 4. 1 ^s-d1e7d56689bddd7de60b092f
          57
          57
 
@@ -10884,7 +10889,7 @@ ______________
 
  1 5
  Jaunimo dalyvavimas slaugant socialiai remtinus asmenis
-         8. 4. 1 ^ef4c2015655c67f98692838c
+         8. 4. 1 ^s-164217f26d151c9fb25bb914
          77
          77
 
@@ -10924,7 +10929,7 @@ ______________
 
  1 1
  Tradicinių religinių bendrijų maldos namams atstatyti ir kitoms reikmėms
-         8. 4. 1 ^80d2766fa17c126bf8e9ff55
+         8. 4. 1 ^s-c6e02b766de500ed6b5c166d
          4425
          4425
 
@@ -10964,7 +10969,7 @@ ______________
 
  1 1
  Krikščioniškų ir žmogiškųjų mokslo ir kultūros vertybių ugdymas bei puoselėjimas
-         8. 4. 1 ^7ea3b948a287cf2d62b8ebab
+         8. 4. 1 ^s-a79c651c7bf2cc9159e85e06
          1092
          740
          500
@@ -11004,7 +11009,7 @@ ______________
 
  1 1
  Kapitalo investicijos
- 6. 2. 3 ^9e5c9f6728c23bb17cf53e10
+ 6. 2. 3 ^s-94b2bca51c256d985c979ad2
  514
 
 
@@ -11044,7 +11049,7 @@ ______________
 
  1 1
  Kompensacija už buvusioms profesinėms sąjungoms priklausiusius objektus, kurie perimti valstybės ir privatizuoti
- 8. 4. 1 ^d0090e730846d1bbf85d55d3
+ 8. 4. 1 ^s-90add614015b2aaf66ca341e
  79
  79
 
@@ -11084,7 +11089,7 @@ ______________
 
  1 1
  Visuomenės saugumo užtikrinimas
-     14. 1. 3 ^4940e6a1e2ec0ab6660132b2
+     14. 1. 3 ^s-cfda0d315d6c2cf4036da079
      80
      80
 
@@ -11124,7 +11129,7 @@ ______________
 
  1 1
  Naujų nusikalstamumo prevencijos programų rengimas, vykdomų programų koordinavimas ir metodinis vadovavimas
- 14. 1. 3 ^7f6dcea775849360ac099b8f
+ 14. 1. 3 ^s-b7a70ba14bae66579d2a7b09
  218
  218
 
@@ -11142,7 +11147,7 @@ ______________
 
  1 2
  Nusikalstamumo prevencijos informacinė sistema ir jos naudojimas
- 14. 1. 3 ^06352b103da41b26c8de2af1
+ 14. 1. 3 ^s-a049dfdb8a41353a5a0aae0d
  172
  172
 
@@ -11182,7 +11187,7 @@ ______________
 
  1 1
  Finansinis PHARE programos koordinavimas
-     14. 1. 3 ^08bfb8208514daaa6125ffbb
+     14. 1. 3 ^s-cb4a96cb50ce068851b3313b
      95
      95
 

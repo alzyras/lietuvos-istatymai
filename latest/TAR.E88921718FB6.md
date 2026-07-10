@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E88921718FB6"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo ir 29 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo ir 29 straipsnio papildymo įstatymas"
+  - "vietos savivaldos įstatymo 16 straipsnio pakeitimo ir 29 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.E88921718FB6.md"
 latest_sha256: "8bee83be619655af1b865cb6e3b2a216eaeba43341e3249e608a3a622a99b6c7"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E88921718FB6]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo ir 29 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E88921718FB6.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E88921718FB6
+- Ryšiai: [[Ryšiai/TAR.E88921718FB6|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 16 straipsnio 3 dalies 8 punkto pakeitimas
+### 1 straipsnis. 16 straipsnio 3 dalies 8 punkto pakeitimas ^s-94b1806f275eb25a3a625f8d
 
 
 Pakeisti 16 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 16 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 29 straipsnio 8 dalies papildymas 12 punktu
+### 2 straipsnis. 29 straipsnio 8 dalies papildymas 12 punktu ^s-5ffb97b9a4e87c5355c701fd
 
 
 Papildyti 29 straipsnio 8 dalį 12 punktu:
@@ -53,7 +58,7 @@ Papildyti 29 straipsnio 8 dalį 12 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-53a77d9d6085336691fc9928
 
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.

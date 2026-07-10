@@ -1,0 +1,29 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.2F2B455B6D12"
+pavadinimas: "Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymo, Kelių priežiūros ir plėtros programos finansavimo įstatymo, Garantinio fondo įstatymo, Rinkliavų įstatymo, Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo, Mokesčio už aplinkos teršimą įstatymo, Konsulinio mokesčio įstatymo, Lietuvos banko įstatymo pakeitimo ir papildymo įstatymas"
+---
+# Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymo, Kelių priežiūros ir plėtros programos finansavimo įstatymo, Garantinio fondo įstatymo, Rinkliavų įstatymo, Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo, Mokesčio už aplinkos teršimą įstatymo, Konsulinio mokesčio įstatymo, Lietuvos banko įstatymo pakeitimo ir papildymo įstatymas: ryšiai
+
+- [[latest/TAR.2F2B455B6D12|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/613244607e7011e6b969d7ae07280e89|Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas]] - 2 citatos - Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
+- [[latest/TAR.A7D82E8EDC6B#^s-fff9ac03b125ec596c551359|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - kelių priežiūros ir plėtros programos finansavimo įstatymo 4 straipsnio
+- [[latest/TAR.B2F1F575D794#^s-653a6db24f488aabb3638693|Lietuvos Respublikos konsulinio mokesčio įstatymas]] - KONSULINIO MOKESČIO ĮSTATYMO 2 STRAIPSNIO
+- [[latest/TAR.1B4D7B687895#^s-5024bc4079c9f1d8407a0f9b|Lietuvos Respublikos Lietuvos banko įstatymas]] - LIETUVOS BANKO ĮSTATYMO 57 STRAIPSNIO
+- [[latest/TAR.FFF9AE9162EE#^s-5974a2de3f7b3d0d27f6537d|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 5 STRAIPSNIO
+- [[latest/TAR.7DE59B8C46B2#^s-5c2ed472d3ef0545822afcc9|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas]] - MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO 3 STRAIPSNIO
+- [[latest/TAR.B4FAA1DD73CF|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - 3 citatos - 1051010ISTA000X-233
+- [[latest/TAR.41CD8BF53D8D#^s-4cca65ac0bf60be5348a6070|Lietuvos Respublikos rinkliavų įstatymas]] - RINKLIAVŲ ĮSTATYMO 3 STRAIPSNIO
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.A7D82E8EDC6B#^s-7502204d14a114c43341d13a|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A7D82E8EDC6B#^s-d5c0854840629e86874e1a44|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.B2F1F575D794#^s-aedc2931b7a7c34b79801aa7|Lietuvos Respublikos konsulinio mokesčio įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.B2F1F575D794#^s-ba7d47857151f5a98753cc56|Lietuvos Respublikos konsulinio mokesčio įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.1B4D7B687895#^s-28658092b22604ccafe85957|Lietuvos Respublikos Lietuvos banko įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.1B4D7B687895#^s-4c8adbe8acb73b9d1d8ec072|Lietuvos Respublikos Lietuvos banko įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.41CD8BF53D8D#^s-c03f0ebaf0733b6df00dedc1|Lietuvos Respublikos rinkliavų įstatymas]] - 2 citatos - ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

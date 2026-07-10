@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.23C4F51432DE"
 pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 10 ir 11 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos akcinių bendrovių įstatymo 10 ir 11 straipsnių papildymo įstatymas"
+  - "akcinių bendrovių įstatymo 10 ir 11 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-23"
 latest_path: "latest/TAR.23C4F51432DE.md"
 latest_sha256: "b6804f96a390617278cbe264abb511633d617821eefaf98166a29e47518c9c0d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.23C4F51432DE]]"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 10 ir 11 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.23C4F51432DE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.23C4F51432DE
+- Ryšiai: [[Ryšiai/TAR.23C4F51432DE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 7 dalies 3 punkto papildymas
+### 1 straipsnis. 10 straipsnio 7 dalies 3 punkto papildymas ^s-4eb879e4a895ea265c4dd2a2
 
 
 10 straipsnio 7 dalies 3 punkte po žodžio „prievolių“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 11 straipsnio 8 dalies papildymas
+### 2 straipsnis. 11 straipsnio 8 dalies papildymas ^s-39decf8d001ef5f3f8ee5659
 
 
 11 straipsnio 8 dalyje po žodžių „į biudžetą“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka“ ir šią dalį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.B280B76CFEBD"
 pavadinimas: "Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas"
+  - "turizmo įstatymo 18 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-04-20"
 latest_path: "latest/TAR.B280B76CFEBD.md"
 latest_sha256: "1e5856c4bc1464e679dd233d173d341e4546d3cc872f5b46af045d19dc393675"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.B280B76CFEBD]]"
 ---
 # Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.B280B76CFEBD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.B280B76CFEBD
+- Ryšiai: [[Ryšiai/TAR.B280B76CFEBD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 5 dalies pakeitimas ^s-3a8ca0fcdfafb2d356db84bd
 
 
 Pakeisti 18 straipsnio 5 dalį ir ją išdėstyti taip:

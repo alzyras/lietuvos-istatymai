@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D04C7E4AF471"
 pavadinimas: "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsnių pakeitimo įstatymas"
+  - "specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2008-01-01"
 latest_path: "latest/TAR.D04C7E4AF471.md"
 latest_sha256: "78ad0708e92eada1dba56451554710290011f0f90e71630842a3e15ef47b0fc8"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D04C7E4AF471]]"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D04C7E4AF471.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D04C7E4AF471
+- Ryšiai: [[Ryšiai/TAR.D04C7E4AF471|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-e6270bb4319b19c5d5b376f4
 
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
@@ -40,7 +45,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Valstybės ir savivaldybių institucijos, įstaigos bei įmonės privalo sudaryti sąlygas Specialiųjų tyrimų tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenimis ir kitais valstybės ir savivaldybių institucijų, įstaigų bei įmonių duomenų bankais, o kitų įmonių, įstaigų, organizacijų bei fizinių asmenų – pagal sutartis.“
 
 
-### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas ^s-0084cb684d4fe27151c5d47c
 
 
 11 straipsnio 2 dalyje vietoj žodžio „pavaduotoją“ įrašyti žodį „pavaduotojus“ ir šią dalį išdėstyti taip:
@@ -49,7 +54,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Tarnybos direktoriaus pirmąjį pavaduotoją ir pavaduotojus direktoriaus teikimu skiria į pareigas ir atleidžia iš jų Respublikos Prezidentas.“
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-45946cbb2ed533ec77bd69e4
 
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.

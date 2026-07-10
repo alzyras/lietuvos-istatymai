@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.DA77F805EA51"
 pavadinimas: "Lietuvos Respublikos administracinių bylų teisenos įstatymo 18, 26, 27 ir 29 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių bylų teisenos įstatymo 18, 26, 27 ir 29 straipsnių pakeitimo įstatymas"
+  - "administracinių bylų teisenos įstatymo 18, 26, 27 ir 29 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.DA77F805EA51.md"
 latest_sha256: "cca37d53c855eba931ccaf1342c72d6b3719b976e7fda6667a4e38d870fac3bb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.DA77F805EA51]]"
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 18, 26, 27 ir 29 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.DA77F805EA51.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.DA77F805EA51
+- Ryšiai: [[Ryšiai/TAR.DA77F805EA51|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 18 straipsnio 3 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 3 dalies pakeitimas ^s-3a271e20467043c32e4ba68b
 
 
 18 straipsnio 3 dalyje vietoj žodžių „ir apskričių“ įrašyti žodį „visuomeninių“ ir šią dalį išdėstyti taip:
@@ -43,7 +48,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 26 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 26 straipsnio 1 dalies pakeitimas ^s-e190df2ee4fd48b2349b7a76
 
 
 26 straipsnio 1 dalyje išbraukti žodžius „apskričių administracinių ginčų komisijos“ ir šią dalį išdėstyti taip:
@@ -53,7 +58,7 @@ Vilnius
 
 
 
-### 3 straipsnis. 27 straipsnio pakeitimas
+### 3 straipsnis. 27 straipsnio pakeitimas ^s-bedf4be9b27bef5268570850
 
 
 Pakeisti 27 straipsnio pavadinimą, 2 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
@@ -66,7 +71,7 @@ Asmens skundas dėl savivaldybės viešojo administravimo subjektų priimtų ind
 
 
 
-### 4 straipsnis. 29 straipsnio pakeitimas
+### 4 straipsnis. 29 straipsnio pakeitimas ^s-7f808986e2e311c6074ebbb2
 
 
 29 straipsnyje vietoj žodžio „apskričių“ įrašyti žodį „visuomeninės“ ir šį straipsnį išdėstyti taip:
@@ -79,7 +84,7 @@ Savivaldybių visuomeninės administracinių ginčų komisijos ir Vyriausioji ad
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-d8c0d153bd02a93afdb52a02
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

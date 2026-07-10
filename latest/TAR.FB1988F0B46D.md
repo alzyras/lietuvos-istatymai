@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB1988F0B46D"
 pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 9, 13, 14, 15, 21, 54 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 9, 13, 14, 15, 21, 54 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 9, 13, 14, 15, 21, 54 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-12-07"
 latest_path: "latest/TAR.FB1988F0B46D.md"
 latest_sha256: "0464459a3504272d941065fec721281d464a35541e225e7d91707b3027f2b31a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB1988F0B46D]]"
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 9, 13, 14, 15, 21, 54 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB1988F0B46D.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB1988F0B46D
+- Ryšiai: [[Ryšiai/TAR.FB1988F0B46D|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,65 +38,65 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas ^s-fc9a4a07e8eb37c20117be78
 
 
-1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^8325ff4232e651f2326ec874
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-2b3759c8065ad1700a176849
 
 
 „Valstybiniu socialiniu pensijų draudimu privalomai draudžiami:
 
 
-1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir [[#^d3ca87f7aec4887c99e4a894|5 punktuose]]); ^e34b0a8b4e752459dc14e363
+1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir [[#^s-17787a71273c3e1612bb5e46|5 punktuose]]); ^s-e1e1edbecac8aa29087a7abd
 
 
-2) valstybės politikai, Konstitucinio Teismo teisėjai, Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo pavaduotojai ir valdybos nariai, Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar Respublikos Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių) komisijų ir tarybų pirmininkai, jų pavaduotojai ir nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnai. Asmenys, išvardyti šiame punkte, valstybiniu socialiniu pensijų draudimu draudžiami tuo atveju, jeigu jie gauna atlyginimą už darbą; ^0c75dcfe6d97887d663e4473
+2) valstybės politikai, Konstitucinio Teismo teisėjai, Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo pavaduotojai ir valdybos nariai, Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar Respublikos Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių) komisijų ir tarybų pirmininkai, jų pavaduotojai ir nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnai. Asmenys, išvardyti šiame punkte, valstybiniu socialiniu pensijų draudimu draudžiami tuo atveju, jeigu jie gauna atlyginimą už darbą; ^s-70325f4d0827ac428ca5c123
 
 
-3) Vidaus reikalų ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir kitų vidaus reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kariai, Specialiųjų tyrimų tarnybos, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos, jam pavaldžių įstaigų ir valstybės įmonių pareigūnai; ^03e934dfaf9b11de79287af5
+3) Vidaus reikalų ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir kitų vidaus reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kariai, Specialiųjų tyrimų tarnybos, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos, jam pavaldžių įstaigų ir valstybės įmonių pareigūnai; ^s-72ea10271464473d94073c60
 
 
-4) krašto apsaugos sistemos profesinės karo tarnybos kariai; ^2e4ca90a3dc5003816b7547b
+4) krašto apsaugos sistemos profesinės karo tarnybos kariai; ^s-c15b799597335ad3739a74c8
 
 
-5) Valstybės saugumo departamento sistemos pareigūnai; ^d3ca87f7aec4887c99e4a894
+5) Valstybės saugumo departamento sistemos pareigūnai; ^s-17787a71273c3e1612bb5e46
 
 
-6) nedirbantys diplomatų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su diplomatu, dirbančiu Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje; ^20ef5d058ecdf2664c95751f
+6) nedirbantys diplomatų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su diplomatu, dirbančiu Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje; ^s-42cc3e59d9f009c2c7cbed13
 
 
-7) individualių (personalinių) įmonių savininkai, individualių (personalinių) įmonių nuomininkai, advokatai, advokatų padėjėjai, notarai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai; ^da7266c82decf7d1ae144e69
+7) individualių (personalinių) įmonių savininkai, individualių (personalinių) įmonių nuomininkai, advokatai, advokatų padėjėjai, notarai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai; ^s-637930a540820bd8060ae60a
 
 
-8) patentus įsigiję asmenys; ^2d8263c4ff22a720cb0d7754
+8) patentus įsigiję asmenys; ^s-3a958ebf346171039ac5a28e
 
 
-9) ūkininkai ir dirbantys ūkyje jų ūkio nariai; ^445cdcaa1d753c2eb410448d
+9) ūkininkai ir dirbantys ūkyje jų ūkio nariai; ^s-9a40310a0c765a9744c35960
 
 
-10) privalomosios nuolatinės pradinės karo tarnybos ir alternatyviosios krašto apsaugos tarnybos kariai; ^76aebfaacbb0af8091f49417
+10) privalomosios nuolatinės pradinės karo tarnybos ir alternatyviosios krašto apsaugos tarnybos kariai; ^s-9db547af8b72368430967418
 
 
-11) motina (tėvas), turinti (turintis) vaiko nuo vienerių iki trejų metų priežiūros atostogas; ^cc42584bba1dd30c1d058228
+11) motina (tėvas), turinti (turintis) vaiko nuo vienerių iki trejų metų priežiūros atostogas; ^s-8636c5128dd471f30f70063d
 
 
-12) motina (tėvas), nedirbanti (nedirbantis) ir neturinti (neturintis) vaiko priežiūros atostogų, bet auginanti (auginantis) vaiką iki trejų metų; ^f4f1fcfbb32a4a19e6bf40f9
+12) motina (tėvas), nedirbanti (nedirbantis) ir neturinti (neturintis) vaiko priežiūros atostogų, bet auginanti (auginantis) vaiką iki trejų metų; ^s-d5f5a09b61d4ae1e953ad429
 
 
-13) tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų dvasininkai ir tik vienuolyne dirbantys vienuoliai; ^e2f81e9896d596582dfa7efe
+13) tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų dvasininkai ir tik vienuolyne dirbantys vienuoliai; ^s-f2202090419b627133eb4ecc
 
 
-14) vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą.“ ^0a4ef491dade51cff1fef93c
+14) vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą.“ ^s-a1616b789b41f6bed3dd6f1c
 
 
-2. 2 straipsnio 2 dalyje vietoj skaičių „9–13“ įrašyti skaičius „10–14“, vietoj skaičiaus ir žodžio „13 punkte“ įrašyti skaičių ir žodį „14 punkte“ ir šią dalį išdėstyti taip: ^4da449a137950f423dd6bdaa
+2. 2 straipsnio 2 dalyje vietoj skaičių „9–13“ įrašyti skaičius „10–14“, vietoj skaičiaus ir žodžio „13 punkte“ įrašyti skaičių ir žodį „14 punkte“ ir šią dalį išdėstyti taip: ^s-47bc6465e04a74c120b78b71
 
 
 „Šio straipsnio pirmosios dalies 10–14 punktuose nurodyti asmenys valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Asmenys, nurodyti šio straipsnio pirmosios dalies 14 punkte, privalomai draudžiami valstybės lėšomis tik tuo atveju, kai negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos ar šalpos (socialinės) pensijos.“
 
 
 
-### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas ^s-1a9362dd0b099a190d5b12cc
 
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
@@ -101,47 +106,47 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 8 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
+### 3 straipsnis. 8 straipsnio 2, 3, 4 ir 5 dalių pakeitimas ^s-f012976f6a6b3dbf1ded314a
 
 
-1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip: ^37f20a5a4ff75e191c3cae5f
+1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip: ^s-5dd124c0a7eb32b8589a14a8
 
 
-„Valstybinio socialinio pensijų draudimo stažą, dirbdami pagal darbo sutartį, narystės ar tarnybos pagrindu, įgyja asmenys, išvardyti [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 1–5 punktuose. Šį stažą sudaro:
+„Valstybinio socialinio pensijų draudimo stažą, dirbdami pagal darbo sutartį, narystės ar tarnybos pagrindu, įgyja asmenys, išvardyti [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 1–5 punktuose. Šį stažą sudaro:
 
 
-1) laikas, per kurį šie asmenys patys moka arba už juos yra mokamos ar turi būti mokamos įstatymo jiems nustatytos privalomos valstybinio socialinio pensijų draudimo įmokos; ^7c3c8c336e268ba653bac2e2
+1) laikas, per kurį šie asmenys patys moka arba už juos yra mokamos ar turi būti mokamos įstatymo jiems nustatytos privalomos valstybinio socialinio pensijų draudimo įmokos; ^s-73d3dfe17e5c110978fdd6f0
 
 
-2) laikas, per kurį šie asmenys gauna ligos (įskaitant darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas, mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, ir bedarbio pašalpas, mokamas pagal Bedarbių rėmimo įstatymą. Šio punkto pirmajame sakinyje išvardytos pašalpos toliau šiame įstatyme vadinamos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) ir bedarbio pašalpomis. Šių pašalpų gavimo laikas įskaitomas tik įstatymų nustatyta tvarka privalomai draustiems ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu bei socialiniu draudimu nuo nedarbo asmenims.“ ^9640602168dd963f0ff3cada
+2) laikas, per kurį šie asmenys gauna ligos (įskaitant darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas, mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, ir bedarbio pašalpas, mokamas pagal Bedarbių rėmimo įstatymą. Šio punkto pirmajame sakinyje išvardytos pašalpos toliau šiame įstatyme vadinamos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) ir bedarbio pašalpomis. Šių pašalpų gavimo laikas įskaitomas tik įstatymų nustatyta tvarka privalomai draustiems ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu bei socialiniu draudimu nuo nedarbo asmenims.“ ^s-1ead79cfd8c0b49ada6fc18a
 
 
-2. 8 straipsnio 3 dalyje vietoj žodžio ir skaičių „5 ir 6 punktuose“ įrašyti skaičių ir žodį „6 punkte“, papildyti dalį antru sakiniu ir šią dalį išdėstyti taip: ^dc3144ddcee5a482305fb77f
+2. 8 straipsnio 3 dalyje vietoj žodžio ir skaičių „5 ir 6 punktuose“ įrašyti skaičių ir žodį „6 punkte“, papildyti dalį antru sakiniu ir šią dalį išdėstyti taip: ^s-ae45b78070fb0881b220d57e
 
 
-„Asmenų, išvardytų [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 6 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu. Šiam stažui taip pat prilyginami laikotarpiai, kuriais [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 7 punkte nurodyti asmenys privalomai draudėsi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti.“
+„Asmenų, išvardytų [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 6 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu. Šiam stažui taip pat prilyginami laikotarpiai, kuriais [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7 punkte nurodyti asmenys privalomai draudėsi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti.“
 
 
-3. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^954f739d26b0003f680c5129
+3. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^s-614dace0c1cd0777bc47c589
 
 
-„Valstybinio socialinio pensijų draudimo stažą, dirbdami savarankiškai, įgyja asmenys, išvardyti [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 7–9 punktuose, išskyrus 7 punkte nurodytus asmenis, kurie privalomai draudžiasi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti ([[#^954f739d26b0003f680c5129|šio straipsnio 3 dalis]]). Stažą, įgytą dirbant savarankiškai, sudaro laikas, per kurį [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 7–9 punktuose išvardyti asmenys moka įstatymo jiems nustatytas privalomas valstybinio socialinio pensijų draudimo įmokas arba per kurį už juos tokios įmokos mokamos.“
+„Valstybinio socialinio pensijų draudimo stažą, dirbdami savarankiškai, įgyja asmenys, išvardyti [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7–9 punktuose, išskyrus 7 punkte nurodytus asmenis, kurie privalomai draudžiasi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti ([[#^s-614dace0c1cd0777bc47c589|šio straipsnio 3 dalis]]). Stažą, įgytą dirbant savarankiškai, sudaro laikas, per kurį [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7–9 punktuose išvardyti asmenys moka įstatymo jiems nustatytas privalomas valstybinio socialinio pensijų draudimo įmokas arba per kurį už juos tokios įmokos mokamos.“
 
 
-4. 8 straipsnio 5 dalyje vietoj skaičių „9–13“ įrašyti skaičius „10–14“ ir šią dalį išdėstyti taip: ^4e8fea28d9c43f9573aff738
+4. 8 straipsnio 5 dalyje vietoj skaičių „9–13“ įrašyti skaičius „10–14“ ir šią dalį išdėstyti taip: ^s-ed73af4a68633d12d2083e2a
 
 
-„Asmenų, išvardytų [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 10–14 punktuose, privalomojo draudimo valstybiniu socialiniu pensijų draudimu valstybės lėšomis laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant savarankiškai.“
+„Asmenų, išvardytų [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 10–14 punktuose, privalomojo draudimo valstybiniu socialiniu pensijų draudimu valstybės lėšomis laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant savarankiškai.“
 
 
 
-### 4 straipsnis. 9 straipsnio pakeitimas
+### 4 straipsnis. 9 straipsnio pakeitimas ^s-eb8c5cf710a730f956d659eb
 
 
-[[#9 straipsnis. 54 straipsnio 2 ir 5 dalių pakeitimas ir papildymas|9 straipsnio]] 1 ir 2 dalyse po žodžių „nuo kurių buvo įmokėtos“ įrašyti žodžius „ar turėjo būti įmokėtos“ ir šį straipsnį išdėstyti taip:
+[[#^s-7eaf805d36f5cb1b8a73316d|9 straipsnio]] 1 ir 2 dalyse po žodžių „nuo kurių buvo įmokėtos“ įrašyti žodžius „ar turėjo būti įmokėtos“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#9 straipsnis. 54 straipsnio 2 ir 5 dalių pakeitimas ir papildymas|9 straipsnis]].       Valstybinio socialinio pensijų draudimo stažo, kai buvo dirbta pagal darbo sutartį, narystės ar tarnybos pagrindu, apskaičiavimas
+„[[#^s-7eaf805d36f5cb1b8a73316d|9 straipsnis]].       Valstybinio socialinio pensijų draudimo stažo, kai buvo dirbta pagal darbo sutartį, narystės ar tarnybos pagrindu, apskaičiavimas
 
 
 Jei asmens, kuriam skaičiuojamas valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, uždarbis ir kitos pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, per kalendorinius metus yra ne mažesnis už minimalaus darbo užmokesčio per visus mėnesius sumą, tai į stažą įskaitomi visi kalendoriniai metai. Priešingu atveju tų metų stažas laikomas proporcingai mažesniu.
@@ -151,7 +156,7 @@ Išėjimo į pensiją metais į valstybinio socialinio pensijų draudimo stažą
 
 
 
-### 5 straipsnis. 13 straipsnio pakeitimas ir papildymas
+### 5 straipsnis. 13 straipsnio pakeitimas ir papildymas ^s-ada71f91c805826ac369740e
 
 
 Pakeisti ir papildyti 13 straipsnį ir jį išdėstyti taip:
@@ -160,11 +165,11 @@ Pakeisti ir papildyti 13 straipsnį ir jį išdėstyti taip:
 „13 straipsnis. Asmens draudžiamosios pajamos
 
 
-Asmenų, išvardytų [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 1–6 punktuose, draudžiamosiomis pajamomis laikomos visos jų pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, taip pat gautos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) ir bedarbio pašalpos. Asmenų, nurodytų [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 6 punkte, draudžiamosiomis pajamomis jų draudimo valstybiniu socialiniu pensijų draudimu laikotarpiu laikomos sumos, nuo kurių už šiuos asmenis buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio draudimo fondo biudžetą. Asmenų, nurodytų [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 7 punkte, draudžiamosiomis pajamomis jų privalomojo draudimosi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti laikotarpiu laikomos sumos, nuo kurių šie asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas į Valstybinio socialinio draudimo fondo biudžetą papildomai pensijos daliai gauti.“
+Asmenų, išvardytų [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 1–6 punktuose, draudžiamosiomis pajamomis laikomos visos jų pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, taip pat gautos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) ir bedarbio pašalpos. Asmenų, nurodytų [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 6 punkte, draudžiamosiomis pajamomis jų draudimo valstybiniu socialiniu pensijų draudimu laikotarpiu laikomos sumos, nuo kurių už šiuos asmenis buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio draudimo fondo biudžetą. Asmenų, nurodytų [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7 punkte, draudžiamosiomis pajamomis jų privalomojo draudimosi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti laikotarpiu laikomos sumos, nuo kurių šie asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas į Valstybinio socialinio draudimo fondo biudžetą papildomai pensijos daliai gauti.“
 
 
 
-### 6 straipsnis. 14 straipsnio pakeitimas
+### 6 straipsnis. 14 straipsnio pakeitimas ^s-f82bac11fcaef44f7c5dfe49
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
@@ -173,7 +178,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Vidutinės mėnesinės draudžiamosios pajamos
 
 
-Vidutinės mėnesinės draudžiamosios pajamos yra visų apdraustų asmenų, išvardytų [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 1–6 punktuose, draudžiamųjų pajamų vidurkis, tenkantis vienam apdraustajam. Nustatant šį vidurkį, į vidutines mėnesines draudžiamąsias pajamas taip pat įskaičiuojamos sumos, nuo kurių [[#2 straipsnis. 6 straipsnio 4 dalies pakeitimas|2 straipsnio]] pirmosios dalies 7 punkte nurodyti asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas papildomai pensijos daliai gauti.
+Vidutinės mėnesinės draudžiamosios pajamos yra visų apdraustų asmenų, išvardytų [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 1–6 punktuose, draudžiamųjų pajamų vidurkis, tenkantis vienam apdraustajam. Nustatant šį vidurkį, į vidutines mėnesines draudžiamąsias pajamas taip pat įskaičiuojamos sumos, nuo kurių [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7 punkte nurodyti asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas papildomai pensijos daliai gauti.
 
 
 Vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos pagal pajamas, nuo kurių buvo įmokėtos valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio draudimo fondo biudžetą, taip pat pagal išmokėtas valstybinio socialinio draudimo pašalpas.
@@ -186,7 +191,7 @@ Praeitų metų vidutines mėnesines draudžiamąsias pajamas Lietuvos Respubliko
 
 
 
-### 7 straipsnis. 15 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 15 straipsnio 2 dalies pakeitimas ^s-7f4709d2f9a54c62218df99b
 
 
 15 straipsnio 2 dalies pirmajame sakinyje vietoj žodžių „vidutinės mėnesinės draudžiamosios pajamos pagal ketvirčio duomenis“ įrašyti žodžius „ketvirčio vidutinės mėnesinės draudžiamosios pajamos“ ir šią dalį išdėstyti taip:
@@ -196,7 +201,7 @@ Praeitų metų vidutines mėnesines draudžiamąsias pajamas Lietuvos Respubliko
 
 
 
-### 8 straipsnis. 21 straipsnio pakeitimas
+### 8 straipsnis. 21 straipsnio pakeitimas ^s-75ba17a076a7d338c83d2394
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -218,16 +223,16 @@ dydis D – ketvirčio vidutinės mėnesinės draudžiamosios pajamos, kurios bu
 
 
 
-### 9 straipsnis. 54 straipsnio 2 ir 5 dalių pakeitimas ir papildymas
+### 9 straipsnis. 54 straipsnio 2 ir 5 dalių pakeitimas ir papildymas ^s-7eaf805d36f5cb1b8a73316d
 
 
-1. Pakeisti ir papildyti 54 straipsnio 2 dalį ir ją išdėstyti taip: ^6bfaff60117804a6e3b6ac0e
+1. Pakeisti ir papildyti 54 straipsnio 2 dalį ir ją išdėstyti taip: ^s-08dea6141320593e34152bc6
 
 
 „Nuo šio įstatymo įsigaliojimo asmens draudžiamųjų pajamų koeficientai apskaičiuojami atskirai pagal penkerius paeiliui einančius to asmens pasirinktus palankiausius kalendorinius jo valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (toliau šiame straipsnyje – stažas), metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų sausio 1 dienos ir atskirai pagal visus metus, įskaitytus į valstybinio socialinio pensijų draudimo stažą, kai buvo dirbta pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 1994 metų sausio 1 dienos, bet ne daugiau kaip už 25 metus iš viso. Nuo 2004 metų sausio 1 dienos vidurkiui skaičiuoti įskaitomi tik ketveri paeiliui einantys asmeniui palankiausi stažo metai iš 1984-1993 metų laikotarpio; nuo 2005 metų sausio 1 dienos – tik treji palankiausi metai ir t. t. iki 2008 metų sausio 1 dienos, kada asmens stažo metai, buvę iki 1994 metų sausio 1 dienos, vidurkiui skaičiuoti neįskaitomi. Asmenims, iki 2008 metų sausio 1 dienos įgijusiems teisę gauti valstybinę socialinio draudimo senatvės pensiją, valstybinės socialinio draudimo senatvės pensijos papildomos dalies apskaičiavimo formulė (21 straipsnis) sudaroma iš dviejų atskirų dalių: pirmojoje dalyje įrašomas asmens stažas ir draudžiamųjų pajamų koeficientas iki 1994 metų sausio 1 dienos, antrojoje dalyje – asmens stažas ir draudžiamųjų pajamų koeficientas nuo 1994 metų sausio 1 dienos.“
 
 
-2. Pakeisti 54 straipsnio 5 dalį ir ją išdėstyti taip: ^1f0d4a72d0947945857a3b84
+2. Pakeisti 54 straipsnio 5 dalį ir ją išdėstyti taip: ^s-25ccb6f9bfb3d4911a5abaae
 
 
 „Jeigu asmuo neturi šio straipsnio antrojoje dalyje nurodytų palankiausių penkerių kalendorinių paeiliui einančių metų, tačiau kiekvienais metais per penkerius kalendorinius paeiliui einančius metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų sausio 1 dienos (toliau šioje dalyje – nurodytas laikotarpis) turėjo stažo, jo draudžiamųjų pajamų koeficientas skaičiuojamas pagal penkerius paeiliui einančius šio stažo metus. Jei asmuo nurodytu laikotarpiu turėjo stažo per penkerius ne paeiliui einančius kalendorinius metus, jo draudžiamųjų pajamų koeficientas apskaičiuojamas pagal penkerius ne paeiliui einančius stažo metus laikantis kalendorinės metų sekos. Jeigu asmuo nurodytu laikotarpiu stažo turėjo mažiau kaip per penkerius paeiliui ar nepaeiliui einančius kalendorinius metus arba nurodytu laikotarpiu iš viso stažo neturėjo, jo draudžiamųjų pajamų koeficientas apskaičiuojamas iki penkerių metų stažo trūkstamus metus imant iš ankstesnio laikotarpio, skaičiuojant atgal nuo 1983 metų iki 1974 metų imtinai.“

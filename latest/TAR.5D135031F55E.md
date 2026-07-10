@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.5D135031F55E"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas"
+  - "valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-07-23"
 latest_path: "latest/TAR.5D135031F55E.md"
 latest_sha256: "976d92767b8430d2c1b75e43c903423049cfebc912055593ab57bca1aa52981b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.5D135031F55E]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.5D135031F55E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5D135031F55E
+- Ryšiai: [[Ryšiai/TAR.5D135031F55E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -30,7 +35,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 9 dalies 6 punkto papildymas
+### 1 straipsnis. 19 straipsnio 9 dalies 6 punkto papildymas ^s-44a933883bac5dd32c4f4de9
 
 
 19 straipsnio 9 dalies 6 punkte po žodžio „prievolių“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka“ ir šį punktą išdėstyti taip:
@@ -40,7 +45,7 @@ Vilnius
 
 
 
-### 2 straipsnis. 21 straipsnio 2 dalies 2 punkto papildymas
+### 2 straipsnis. 21 straipsnio 2 dalies 2 punkto papildymas ^s-fc93d16841094d915c3548ca
 
 
 21 straipsnio 2 dalies 2 punkte po žodžio „prievoles“ įrašyti žodžius „įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka“ ir šį punktą išdėstyti taip:

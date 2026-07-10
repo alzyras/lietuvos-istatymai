@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.18067E6F79AD"
 pavadinimas: "Lietuvos Respublikos branduolinės energijos įstatymo 22 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos branduolinės energijos įstatymo 22 straipsnio pakeitimo įstatymas"
+  - "branduolinės energijos įstatymo 22 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-02-01"
 latest_path: "latest/TAR.18067E6F79AD.md"
 latest_sha256: "303233286bf34e9f585148143e9bb5aa626bb8d0d5f7f67886348fae4be0f6ad"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.18067E6F79AD]]"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymo 22 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.18067E6F79AD.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.18067E6F79AD
+- Ryšiai: [[Ryšiai/TAR.18067E6F79AD|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 22 straipsnio 2 punkto pakeitimas
+### 1 straipsnis. 22 straipsnio 2 punkto pakeitimas ^s-65afaf56ac7daba6fb58a4fc
 
 
 22 straipsnio 2 punkte išbraukti žodžius „ir ikiteisminio tyrimo“ ir žodžius „ir tiriant“ ir šį punktą išdėstyti taip:
@@ -42,7 +47,7 @@ Vilnius
 „2) laikydamasis valstybės saugumo interesų, atlieka operatyvinius veiksmus nustatant veikas, kuriomis kėsinamasi į branduolinės energetikos objektus, branduolinius įrenginius bei įrengimus, taip pat branduolinės technologijos procesus;“.
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-41b0cbca34991d28d6971171
 
 
 Šis įstatymas įsigalioja 2011 m. vasario 1 d.

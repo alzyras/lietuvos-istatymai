@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.4BD2E9E568C8"
 pavadinimas: "Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas"
+  - "Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.4BD2E9E568C8.md"
 latest_sha256: "f3ff7860c385907228ff3be405f91af42987bac618f6835e3a6626a8205014a3"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.4BD2E9E568C8]]"
 ---
 # Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.4BD2E9E568C8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.4BD2E9E568C8
+- Ryšiai: [[Ryšiai/TAR.4BD2E9E568C8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 9 straipsnio pakeitimas
+### 1 straipsnis. 9 straipsnio pakeitimas ^s-e7da822aa6146f8c6ad3dfd3
 
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
@@ -46,7 +51,7 @@ Uosto strategijai ir plėtros programoms parengti, santykiams tarp uosto direkci
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-a94ca9d5174fbff056288ade
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

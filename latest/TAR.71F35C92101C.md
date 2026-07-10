@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.71F35C92101C"
 pavadinimas: "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 ir 8 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 ir 8 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybinės darbo inspekcijos įstatymo 6 ir 8 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-08-04"
 latest_path: "latest/TAR.71F35C92101C.md"
 latest_sha256: "11aceb42ae0139a087ccf93c632a9e4ad42303e5b5817a44ee6bd30def292655"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.71F35C92101C]]"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 ir 8 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.71F35C92101C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.71F35C92101C
+- Ryšiai: [[Ryšiai/TAR.71F35C92101C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-0675c11af6db50e7024c7ec5
 
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:

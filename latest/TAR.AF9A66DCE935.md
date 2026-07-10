@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.AF9A66DCE935"
 pavadinimas: "Dėl Lietuvos Respublikos profesinių sąjungų įstatymo pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos profesinių sąjungų įstatymo pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-06-23"
 latest_path: "latest/TAR.AF9A66DCE935.md"
 latest_sha256: "05df2b2853617da79dd43481db3313578cb26ba8d17a52a973046d9cc4349c0e"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.AF9A66DCE935]]"
 ---
 # Dėl Lietuvos Respublikos profesinių sąjungų įstatymo pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.AF9A66DCE935.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.AF9A66DCE935
+- Ryšiai: [[Ryšiai/TAR.AF9A66DCE935|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.679C7141C37A"
 pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
+  - "valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-13"
 latest_path: "latest/TAR.679C7141C37A.md"
 latest_sha256: "86a7899f0b87c6071687edd917e08c11ea187bc8730974e1119e334802773f06"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.679C7141C37A]]"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.679C7141C37A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.679C7141C37A
+- Ryšiai: [[Ryšiai/TAR.679C7141C37A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-6a13cafdda8d47dc444a84fb
 
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.FB28913F581C"
 pavadinimas: "Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas"
+aliases:
+  - "Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas"
+  - "psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-07-25"
 latest_path: "latest/TAR.FB28913F581C.md"
 latest_sha256: "4dc8cac367080e1c501f55becc512d7d22f8417c2e2ee9a7bddcfb6182582f45"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.FB28913F581C]]"
 ---
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.FB28913F581C.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.FB28913F581C
+- Ryšiai: [[Ryšiai/TAR.FB28913F581C|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,69 +36,69 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio pakeitimas
+### 1 straipsnis. 1 straipsnio pakeitimas ^s-ecc901b97468619d473fc2f6
 
 
-Pakeisti [[#^d300c88b37394764815f622a|1 straipsnio 4 dalį]], [[#^c5a4733e4c74c1de4a1def0b|8 dalį]] (dėl savivaldybės psichikos sveikatos komisijos) pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-4e523a52988f36aac6ffae14|1 straipsnio 4 dalį]], [[#^s-b7c2875140d954406e1bc5e9|8 dalį]] (dėl savivaldybės psichikos sveikatos komisijos) pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Psichikos liga – gydytojo diagnozuotas, psichiatro patvirtintas susirgimas, pagal galiojančią ligų klasifikaciją priskiriamas psichikos ligoms. Psichikos liga negali būti diagnozuojama remiantis politiniais, religiniais, rasiniais motyvais. ^67b1f7f2dd76b8ac4e50cc69
+1. Psichikos liga – gydytojo diagnozuotas, psichiatro patvirtintas susirgimas, pagal galiojančią ligų klasifikaciją priskiriamas psichikos ligoms. Psichikos liga negali būti diagnozuojama remiantis politiniais, religiniais, rasiniais motyvais. ^s-af3c41f3a206eb54ce7bead6
 
 
-2. Pacientas – psichikos ligonis ar kiekvienas kitas asmuo, kuris naudojasi psichikos sveikatos priežiūra. ^7cb835501074451849101288
+2. Pacientas – psichikos ligonis ar kiekvienas kitas asmuo, kuris naudojasi psichikos sveikatos priežiūra. ^s-a956248b07ea6995ab5090d9
 
 
-3. Psichikos ligonis (ligonis) – asmuo, sergąs psichikos liga. ^98a1d49e8e3caf795f73ed9f
+3. Psichikos ligonis (ligonis) – asmuo, sergąs psichikos liga. ^s-fb056146ce1187abb9373f2a
 
 
-4. Paciento atstovas (atstovas) – atstovas pagal įstatymą, vadovaujantis Civilinio kodekso 6.744 straipsniu, ar atstovas pagal pavedimą. Atstovą pagal pavedimą pasirenka pacientas. Atstovo pagal pavedimą įgaliojimai turi būti įforminami Civilinio kodekso nustatyta tvarka. ^d300c88b37394764815f622a
+4. Paciento atstovas (atstovas) – atstovas pagal įstatymą, vadovaujantis Civilinio kodekso 6.744 straipsniu, ar atstovas pagal pavedimą. Atstovą pagal pavedimą pasirenka pacientas. Atstovo pagal pavedimą įgaliojimai turi būti įforminami Civilinio kodekso nustatyta tvarka. ^s-4e523a52988f36aac6ffae14
 
 
-5. Psichiatrijos įstaiga – sveikatos priežiūros įstaiga (valstybinė ar nevalstybinė), akredituota psichikos sveikatos priežiūrai. Jeigu vykdyti psichikos sveikatos priežiūrą akredituota tik dalis medicinos pagalbos įstaigos (padalinys), tai ši sąvoka taikoma tik šiam padaliniui. Šiame įstatyme ši sąvoka taikoma ir psichoneurologijos pensionatams. ^5d750ef720045bc9668546ad
+5. Psichiatrijos įstaiga – sveikatos priežiūros įstaiga (valstybinė ar nevalstybinė), akredituota psichikos sveikatos priežiūrai. Jeigu vykdyti psichikos sveikatos priežiūrą akredituota tik dalis medicinos pagalbos įstaigos (padalinys), tai ši sąvoka taikoma tik šiam padaliniui. Šiame įstatyme ši sąvoka taikoma ir psichoneurologijos pensionatams. ^s-a4c7daa1d848eabbc9cedb7c
 
 
-6. Medicinos etikos komisija – psichiatrijos įstaigoje sudaroma institucija medicinos etikos klausimams spręsti. ^fd0d6b27122230259ffdf0df
+6. Medicinos etikos komisija – psichiatrijos įstaigoje sudaroma institucija medicinos etikos klausimams spręsti. ^s-9bef2f1525f3e31d2fe76e91
 
 
-7. Psichikos sveikatos centras – savivaldybei priklausanti įstaiga, valstybės akredituota vykdyti psichikos sveikatos priežiūrą ir teikti socialinę pagalbą psichikos ligoniams bei kitiems asmenims. ^b7e34952805e7166c4e3d47d
+7. Psichikos sveikatos centras – savivaldybei priklausanti įstaiga, valstybės akredituota vykdyti psichikos sveikatos priežiūrą ir teikti socialinę pagalbą psichikos ligoniams bei kitiems asmenims. ^s-a826d15ac91b8785c99e4ef7
 
 
-8. Psichiatras – gydytojas, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichiatrijoje. ^c5a4733e4c74c1de4a1def0b
+8. Psichiatras – gydytojas, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichiatrijoje. ^s-b7c2875140d954406e1bc5e9
 
 
-9. Psichoterapeutas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichoterapijoje. Jeigu psichoterapeutas teikia psichikos ligoniui psichiatrijos pagalbą, jam galioja šio įstatymo reikalavimai. ^4fa377a27a7d5ffdace43afa
+9. Psichoterapeutas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichoterapijoje. Jeigu psichoterapeutas teikia psichikos ligoniui psichiatrijos pagalbą, jam galioja šio įstatymo reikalavimai. ^s-f6d9e811204f86e6c2ca809b
 
 
-10. Psichologas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę teikti psichologijos pagalbą psichikos ligoniams. Jeigu psichologas teikia psichikos ligoniui psichologijos pagalbą, jam galioja šio įstatymo IV skyriaus reikalavimai. ^48d753392d7c0df71c97ea74
+10. Psichologas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę teikti psichologijos pagalbą psichikos ligoniams. Jeigu psichologas teikia psichikos ligoniui psichologijos pagalbą, jam galioja šio įstatymo IV skyriaus reikalavimai. ^s-c325143d8111fc3807e162d9
 
 
-11. Slaugos personalas – sveikatos pagalbos įstaigų darbuotojai, slaugantys psichikos ligonius. ^734c52344f7dbd4eda4571c6
+11. Slaugos personalas – sveikatos pagalbos įstaigų darbuotojai, slaugantys psichikos ligonius. ^s-fa9b0bde66cf238c7866160d
 
 
-12. Psichikos sveikatos priežiūra – specializuota sveikatos priežiūra, vykdoma pagal Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus standartus. Šios priežiūros tikslas – teikti psichiatrijos pagalbą (diagnozuoti, gydyti sutrikusias žmogaus psichikos funkcijas, laiku perspėti psichikos ligų paūmėjimus), padėti žmogui prisitaikyti prie visuomenės gyvenimo ir į jį grįžti. ^f17b4fbd614fb757eefff412
+12. Psichikos sveikatos priežiūra – specializuota sveikatos priežiūra, vykdoma pagal Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus standartus. Šios priežiūros tikslas – teikti psichiatrijos pagalbą (diagnozuoti, gydyti sutrikusias žmogaus psichikos funkcijas, laiku perspėti psichikos ligų paūmėjimus), padėti žmogui prisitaikyti prie visuomenės gyvenimo ir į jį grįžti. ^s-77c9ea1b63095c51080eca40
 
 
-13. Hospitalizavimas – asmens paguldymas į psichiatrijos įstaigą. ^31f9cc739ba3fc5f0390b74e
+13. Hospitalizavimas – asmens paguldymas į psichiatrijos įstaigą. ^s-dbed4a6f50774a6ff703b65e
 
 
-14. Psichikos sveikata – natūrali žmogaus asmenybės būsena, kuri turi būti saugoma arba grąžinama sutrikimų bei ligų atvejais. Pagal Pasaulio Sveikatos Organizacijos apibrėžimą psichikos sveikata yra emocinis ir dvasinis atsparumas, kuris leidžia patirti džiaugsmą ir ištverti skausmą, nusivylimą, liūdesį. Tai teigiamas gėrio jausmas, kuriuo remiasi tikėjimas savo bei kitų žmonių orumu ir verte.“ ^13dfd45e327c43f05e5082c1
+14. Psichikos sveikata – natūrali žmogaus asmenybės būsena, kuri turi būti saugoma arba grąžinama sutrikimų bei ligų atvejais. Pagal Pasaulio Sveikatos Organizacijos apibrėžimą psichikos sveikata yra emocinis ir dvasinis atsparumas, kuris leidžia patirti džiaugsmą ir ištverti skausmą, nusivylimą, liūdesį. Tai teigiamas gėrio jausmas, kuriuo remiasi tikėjimas savo bei kitų žmonių orumu ir verte.“ ^s-9708dd9cfeaad409249068ad
 
 
 
-### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas ^s-d64f9ec554f0e9b0cadb2514
 
 
-Pakeisti [[#4 straipsnis. 15 straipsnio pakeitimas|4 straipsnį]] ir jį išdėstyti taip:
+Pakeisti [[#^s-6ee61659b351cac342fdf3a0|4 straipsnį]] ir jį išdėstyti taip:
 
 
 „4 straipsnis. Psichikos ligonis, kuris negali suprasti savo veiksmų reikšmės ar jų valdyti, gali būti teismo tvarka pripažintas neveiksniu. Neveiksniam psichikos ligoniui yra nustatoma globa Civilinio kodekso nustatyta tvarka.“
 
 
 
-### 3 straipsnis. 14 straipsnio pakeitimas
+### 3 straipsnis. 14 straipsnio pakeitimas ^s-a98e4e56d2a48b4bb65d1708
 
 
 14 straipsnyje vietoj žodžio „slaugos“ įrašyti žodžius „slaugytojas ir kitas“, išbraukti santrumpą ir žodį „SPSK nariai“, vietoj žodžio „ligonio“ įrašyti žodį „paciento“ ir šį straipsnį išdėstyti taip:
@@ -103,7 +108,7 @@ Pakeisti [[#4 straipsnis. 15 straipsnio pakeitimas|4 straipsnį]] ir jį išdės
 
 
 
-### 4 straipsnis. 15 straipsnio pakeitimas
+### 4 straipsnis. 15 straipsnio pakeitimas ^s-6ee61659b351cac342fdf3a0
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -122,7 +127,7 @@ Jeigu pacientas yra nepilnametis, informacija turi būti pateikiama ir jo tėvam
 
 
 
-### 5 straipsnis. 16 straipsnio pakeitimas
+### 5 straipsnis. 16 straipsnio pakeitimas ^s-03aa39618362b16ebed832a6
 
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
@@ -134,7 +139,7 @@ Pacientas gali būti priverstinai gydomas tik tuo atveju, jeigu jis yra priverst
 
 
 
-### 6 straipsnis. 17 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 17 straipsnio 1 dalies pakeitimas ^s-486bf89ff6c20f8a24e90a4d
 
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -144,7 +149,7 @@ Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 7 straipsnis. 19 straipsnio pakeitimas
+### 7 straipsnis. 19 straipsnio pakeitimas ^s-114e40095f70ba2faf7283dd
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
@@ -157,7 +162,7 @@ Tais atvejais, kai reikia nedelsiant atlikti veiksmus, būtinus paciento gyvybei
 
 
 
-### 8 straipsnis. V skyriaus pakeitimas
+### 8 straipsnis. V skyriaus pakeitimas ^s-1117397127eac290b936ecc1
 
 
 Pakeisti V skyrių ir jį išdėstyti taip:
@@ -168,19 +173,19 @@ Pakeisti V skyrių ir jį išdėstyti taip:
 
 
 
-### 20 straipsnis. Pacientas ar jo atstovas turi teisę apskųsti sveikatos priežiūros sąlygas psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai arba teismui.
+### 20 straipsnis. Pacientas ar jo atstovas turi teisę apskųsti sveikatos priežiūros sąlygas psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai arba teismui. ^s-1e0208222f13ce45901c1a60
 
 
 
-### 21 straipsnis. Pacientas ar jo atstovas turi teisę pateikti psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai, teismui pasirinkto psichiatro medicinos išvadą dėl sveikatos būklės, sveikatos priežiūros sąlygų bei kitus dokumentus.
+### 21 straipsnis. Pacientas ar jo atstovas turi teisę pateikti psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai, teismui pasirinkto psichiatro medicinos išvadą dėl sveikatos būklės, sveikatos priežiūros sąlygų bei kitus dokumentus. ^s-35255f25629be49013b6bb58
 
 
 
-### 22 straipsnis. Pacientas ar jo atstovas turi teisę dalyvauti ir būti išklausytas psichiatrijos įstaigos administracijos, Sveikatos apsaugos ministerijos, teismo, kai sprendžiami jo priverstinio hospitalizavimo ir priverstinio gydymo, gydymo bei kiti klausimai.“
+### 22 straipsnis. Pacientas ar jo atstovas turi teisę dalyvauti ir būti išklausytas psichiatrijos įstaigos administracijos, Sveikatos apsaugos ministerijos, teismo, kai sprendžiami jo priverstinio hospitalizavimo ir priverstinio gydymo, gydymo bei kiti klausimai.“ ^s-89667f74cecc5592e8e28d45
 
 
 
-### 9 straipsnis. 25 straipsnio 3 dalies pakeitimas
+### 9 straipsnis. 25 straipsnio 3 dalies pakeitimas ^s-a4d0048b5e621acc1b0badd1
 
 
 Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -190,7 +195,7 @@ Pakeisti 25 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 10 straipsnis. 28 straipsnio pakeitimas
+### 10 straipsnis. 28 straipsnio pakeitimas ^s-4ae18085076b23fdcd72100a
 
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
@@ -202,7 +207,7 @@ Jeigu paciento priverstinį hospitalizavimą ir priverstinį gydymą reikia prat
 
 
 
-### 11 straipsnis. 29 straipsnio pakeitimas
+### 11 straipsnis. 29 straipsnio pakeitimas ^s-b9e430209a256123920a8dbe
 
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
@@ -212,14 +217,14 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 
 
-### 12 straipsnis. X skyriaus pripažinimas netekusiu galios
+### 12 straipsnis. X skyriaus pripažinimas netekusiu galios ^s-eeb02496ca03627c38f72faa
 
 
 X skyrių pripažinti netekusiu galios.
 
 
 
-### 13 straipsnis. 47 straipsnio pakeitimas
+### 13 straipsnis. 47 straipsnio pakeitimas ^s-b930d4edbe30f82b966873d5
 
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:

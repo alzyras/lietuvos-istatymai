@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.574690F1458A"
 pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2012-01-01"
 latest_path: "latest/TAR.574690F1458A.md"
 latest_sha256: "baeeec0f64612a22e5d316a70935f0adb9c12561488411d09ddd3598fffdbdfb"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.574690F1458A]]"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.574690F1458A.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.574690F1458A
+- Ryšiai: [[Ryšiai/TAR.574690F1458A|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -34,7 +39,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 5 dalies 6 punkto pakeitimas
+### 1 straipsnis. 19 straipsnio 5 dalies 6 punkto pakeitimas ^s-532167570ea991f000c7f995
 
 
 Pakeisti 19 straipsnio 5 dalies 6 punktą ir jį išdėstyti taip:
@@ -44,7 +49,7 @@ Pakeisti 19 straipsnio 5 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-45c3fa1c6e7911a98232dff5
 
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.

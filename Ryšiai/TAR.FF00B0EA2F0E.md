@@ -1,0 +1,220 @@
+---
+tipas: "akto_rysiai"
+etar_id: "TAR.FF00B0EA2F0E"
+pavadinimas: "Lietuvos Respublikos asociacijų įstatymas"
+---
+# Lietuvos Respublikos asociacijų įstatymas: ryšiai
+
+- [[latest/TAR.FF00B0EA2F0E|Atidaryti įstatymą]]
+
+## Šis įstatymas cituoja
+
+- [[latest/TAR.40F094CD4F7C|Lietuvos Respublikos asociacijų įstatymo 5, 6, 12 straipsnių pakeitimo ir papildymo įstatymas]] - 12 citatos - 1091010ISTA00XI-610
+- [[latest/TAR.D0CDD096DABC|Lietuvos Respublikos asociacijų įstatymo 8 straipsnio pakeitimo įstatymas]] - 8 citatos - 1101010ISTA0XI-1222
+- [[latest/41fd1bb036d711efbdaea558de59136c|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 1, 8, 9, 10, 10-1 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2818
+- [[latest/2a47147053ff11ec862fdcbc8b3e3e05|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 1, 8, 9, 10, 10-1 ir 17 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-684
+- [[latest/9ab06470225411eabe008ea93139d588|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 10 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2627
+- [[latest/83874f605cd211e79198ffdb108a3753|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 10 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-488
+- [[latest/10a9f2a24dc311f0b070ee7f1ceefc75|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-279
+- [[latest/c08349b01b2a11eeb233e8b04dc9bb3d|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 2, 8, 9, 10, 12, 13, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2102
+- [[latest/0c5ecbc01e5411ef8b14c5bcce136045|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 6 ir 12 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2631
+- [[latest/a18dcae0e42411e89acab3ff12d77081|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1595
+- [[latest/ae038a20ef0511e4927fda1d051299fb|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1653
+- [[latest/a9545d80658e11e8ac27abd8fa093003|Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9, 10, 16 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1179
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Archyvų įstatymo
+- [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - 2 citatos - Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme
+- [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 2 citatos - Finansinės apskaitos įstatymu
+- [[latest/TAR.314C413DE28C|Lietuvos Respublikos savanoriškos veiklos įstatymas]] - 2 citatos - Lietuvos Respublikos savanoriškos veiklos įstatymo
+- [[latest/TAR.B4FA4C56B8D5#^s-6a71143379eca9ac5b3b3afc|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 4 citatos - Teisėkūros pagrindų įstatymo 7 straipsnio
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatyme
+- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 2 citatos - Viešojo sektoriaus atskaitomybės įstatymas
+
+## Šį įstatymą cituoja
+
+- [[latest/TAR.9F4371AB03A3#^s-6e67dae0b9c28edf712e814a|Lietuvos Respublikos advokatūros įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.9F4371AB03A3#^s-98bfd00535c5dad704cde862|Lietuvos Respublikos advokatūros įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.9F4371AB03A3#^s-cb37c9b9c796f94ce2c59a9c|Lietuvos Respublikos advokatūros įstatymas]] - 2 citatos - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-1b9682f91d6e223b49e4adcb|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-47ff20a629989da126025208|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/5dfc8110e59011e7acd7ea182930b17f#^s-cd5b414cbc851ab0bf323970|Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.94F5702CA0F1#^s-30a5a5c22029cde395848dcc|Lietuvos Respublikos antstolių įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.94F5702CA0F1#^s-b9ffa07f4d7d85e2161e602a|Lietuvos Respublikos antstolių įstatymas]] - Asociacijų įstatymas
+- [[latest/ea80d52054f211e7846ef01bfffb9b64#^s-5addc69852d36463312cdb5d|Lietuvos Respublikos architektūros įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/0d923110a55211eea5a28c81c82193a8#^s-799f112aa086b97a34ad4a84|Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 7, 10, 11, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.846A96B5C76A#^s-3c68d6409baf575b191a70ae|Lietuvos Respublikos architektų rūmų įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.846A96B5C76A#^s-43a9be1fde90f7f92ae88dfc|Lietuvos Respublikos architektų rūmų įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.846A96B5C76A#^s-8648847d22489e572807beb1|Lietuvos Respublikos architektų rūmų įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.846A96B5C76A#^s-9f7e82bc9cf90b2ac03609fb|Lietuvos Respublikos architektų rūmų įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.8D38517814F1#^s-0c9b3aa35bd0aee0a31042cf|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.8D38517814F1#^s-4d883c792818a38d3947e3d9|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.8D38517814F1#^s-73809ef3b18717bbe277bd86|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.8D38517814F1#^s-ab5b7994e88289a8b5ee9b6c|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.3DF7E3BF2E6E#^s-6b81da9153fd1cf68f481e9a|Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 12, 30, 34, 34-3 straipsnių, aštuntojo-1 skirsnio pakeitimo ir papildymo, Įstatymo papildymo aštuntuoju-2, aštuntuoju-3, aštuntuoju-4, aštuntuoju-5, aštuntuoju-6, aštuntuoju-7, aštuntuoju-8, aštuntuoju-9, aštuntuoju-10 skirsniais ir 16 straipsnio pripažinimo netekusiu galios įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.3DF7E3BF2E6E#^s-a6d70a05e4b30c0faf9a1dfa|Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 12, 30, 34, 34-3 straipsnių, aštuntojo-1 skirsnio pakeitimo ir papildymo, Įstatymo papildymo aštuntuoju-2, aštuntuoju-3, aštuntuoju-4, aštuntuoju-5, aštuntuoju-6, aštuntuoju-7, aštuntuoju-8, aštuntuoju-9, aštuntuoju-10 skirsniais ir 16 straipsnio pripažinimo netekusiu galios įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.3DF7E3BF2E6E#^s-adbd7000b2f9f21dd9776957|Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 12, 30, 34, 34-3 straipsnių, aštuntojo-1 skirsnio pakeitimo ir papildymo, Įstatymo papildymo aštuntuoju-2, aštuntuoju-3, aštuntuoju-4, aštuntuoju-5, aštuntuoju-6, aštuntuoju-7, aštuntuoju-8, aštuntuoju-9, aštuntuoju-10 skirsniais ir 16 straipsnio pripažinimo netekusiu galios įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.3DF7E3BF2E6E#^s-bc9637ad722c54e5b495fa4c|Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 12, 30, 34, 34-3 straipsnių, aštuntojo-1 skirsnio pakeitimo ir papildymo, Įstatymo papildymo aštuntuoju-2, aštuntuoju-3, aštuntuoju-4, aštuntuoju-5, aštuntuoju-6, aštuntuoju-7, aštuntuoju-8, aštuntuoju-9, aštuntuoju-10 skirsniais ir 16 straipsnio pripažinimo netekusiu galios įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.9C4D507335E2#^s-09474c6ee2764aa3f5edbc8b|Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 30, 34 straipsnių ir aštuntojo-1 skirsnio pakeitimo ir papildymo įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.9C4D507335E2#^s-64bfefda0fa59d69bbe044c4|Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 30, 34 straipsnių ir aštuntojo-1 skirsnio pakeitimo ir papildymo įstatymas]] - Asociacijų įstatymo
+- [[latest/09f11d80d9a511eb9f09e7df20500045#^s-4c1d2025e9cb2aea033515b3|Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3, 3-1, 3-2, 4, 7, 11-1, 12-1, 18-2, 22, 30, 32, 33, 34, 34-1, 34-2, 34-3, 34-4, 34-7, 34-8, 34-15, 34-18, 34-23, 34-25, 34-26, 34-28, 34-31 straipsnių, šeštojo skirsnio, 5 priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu ir antruoju-2 skirsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/09f11d80d9a511eb9f09e7df20500045#^s-6c2124aa17e0da4f118234dc|Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3, 3-1, 3-2, 4, 7, 11-1, 12-1, 18-2, 22, 30, 32, 33, 34, 34-1, 34-2, 34-3, 34-4, 34-7, 34-8, 34-15, 34-18, 34-23, 34-25, 34-26, 34-28, 34-31 straipsnių, šeštojo skirsnio, 5 priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu ir antruoju-2 skirsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/7f19f000c8de11e69dec860c1f4a5372#^s-ffa1b760d6bb6d9375ba0e5c|Lietuvos Respublikos audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.163F0311859D#^s-4013ccc97eebd153de7b53a0|Lietuvos Respublikos audito įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.822BFEE3AE7E#^s-464a594c4523919510f15138|Lietuvos Respublikos audito įstatymo pakeitimo įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.822BFEE3AE7E#^s-a75149184f115fb8333b84a8|Lietuvos Respublikos audito įstatymo pakeitimo įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.163F0311859D#^s-ee3e5f8f2ed7d5bd5647bc76|Lietuvos Respublikos audito įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.674960C67DAC#^s-5aa2c0bb09206c9415420d7e|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo pakeitimo įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.674960C67DAC#^s-71e03ae9dcd9f0abd79130f6|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo pakeitimo įstatymas]] - Asociacijų įstatymas
+- [[latest/61ce499048f711e6b5d09300a16a686c#^s-4997c88bc39d8232fe8af1d0|Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55, 64 straipsnių pakeitimo ir Įstatymo papildymo 56-1 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/61ce499048f711e6b5d09300a16a686c#^s-a3c7b46663f05d4a10a4ff32|Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55, 64 straipsnių pakeitimo ir Įstatymo papildymo 56-1 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-7ff44b0c35f0655052303cf2|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-8fb49eb44944649962afc228|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-a33cc669f3e04a5d6b0d5e34|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.F57794B7899F#^s-13f1c52e792c4102bd558b5c|Lietuvos Respublikos elektros energetikos įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.F57794B7899F#^s-1856428808b3904060963af8|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - Asociacijų įstatymas
+- [[latest/TAR.F57794B7899F#^s-ca63cb06939ff07070783bae|Lietuvos Respublikos elektros energetikos įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.F57794B7899F#^s-cc2400fa3f969dc644b4a83c|Lietuvos Respublikos elektros energetikos įstatymas]] - Asociacijų įstatymas
+- [[latest/0edcd0d0fdf511ec8fa7d02a65c371ad#^s-0c6870b8cbf045b96de12c9b|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 20, 21-1, 22, 22-2, 23, 31, 39, 41, 41-1, 48-2, 48-3, 48-4, 49, 58, 59, 67, 71-1, 72, 74 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 73-2 straipsniais įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/0edcd0d0fdf511ec8fa7d02a65c371ad#^s-177d72755ee57ea1e750e3cc|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 20, 21-1, 22, 22-2, 23, 31, 39, 41, 41-1, 48-2, 48-3, 48-4, 49, 58, 59, 67, 71-1, 72, 74 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 73-2 straipsniais įstatymas]] - 3 citatos - Asociacijų įstatymas
+- [[latest/0edcd0d0fdf511ec8fa7d02a65c371ad#^s-36d5fc055819bb2ca8d3c0b6|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 20, 21-1, 22, 22-2, 23, 31, 39, 41, 41-1, 48-2, 48-3, 48-4, 49, 58, 59, 67, 71-1, 72, 74 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 73-2 straipsniais įstatymas]] - Asociacijų įstatyme
+- [[latest/0edcd0d0fdf511ec8fa7d02a65c371ad#^s-744caf38a7f2026ec9a4246f|Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 20, 21-1, 22, 22-2, 23, 31, 39, 41, 41-1, 48-2, 48-3, 48-4, 49, 58, 59, 67, 71-1, 72, 74 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 73-2 straipsniais įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.9845F775C518#^s-ea6041c84524d13aae095197|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/e3c4203036d511efbdaea558de59136c#^s-a732bdf27f8774b39b71030e|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/f63e94903d2711efbdaea558de59136c#^s-0837a035f8dc1d56de60a03f|Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/72c47a006d6a11e8bbc2876081bf7fb5#^s-0a3fd0e36d198fc3331cf6f1|Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/f63e94903d2711efbdaea558de59136c#^s-64bd97ef44f7e82778bc442b|Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/72c47a006d6a11e8bbc2876081bf7fb5#^s-65dc121e72dddbeaad6b4e2b|Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-2da708900e7fced7fa5d09f4|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Asociacijų įstatymo
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-2df41bc20aadb35fd7c73264|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Asociacijų įstatymas
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-452abd0d1bbc14c495e28fec|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Asociacijų įstatymas
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-473e7658c77f68aa79bdf61b|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Asociacijų įstatymo
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-4c3883264f593508ad04f0ec|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-53f658b258cd2c032998122f|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-6ac949f1706997a26c6ebcbf|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-bb65edda24a0a5bfb3703e1b|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.E0EA485657C8#^s-6d0ba7b5d0c635f52451a5a9|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.E0EA485657C8#^s-b29abf0a53b23e9f57c62acd|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-c05990e386309be77e178e62|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-f97ab78909427997c0393460|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/903615702ed511efbdaea558de59136c#^s-45abf7cacd1e6fba970208bc|Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 20, 21, 22, 23, 26, 28, 29 straipsnių pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/903615702ed511efbdaea558de59136c#^s-4c42a54be2ece6682d3f34ae|Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 20, 21, 22, 23, 26, 28, 29 straipsnių pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.A92E17FDCD13#^s-4e3c361c6363661b91eff044|Lietuvos Respublikos medžioklės įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.A92E17FDCD13#^s-a68790d004a0b46fc5147710|Lietuvos Respublikos medžioklės įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.9EE1390AD99F#^s-9fc4ec35b4d31f3cd9c64f49|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.9EE1390AD99F#^s-e9e4e71caddc3f1aa7fdd463|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-4f081bd43a2dbeec8e6165ca|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-8cb4494c92e5bbb6e91105e7|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.CB9B34EA4BA1#^s-0a4ea76bde0f416b48c46e85|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - 2 citatos - Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio
+- [[latest/TAR.CB9B34EA4BA1#^s-0fa30732975d961bb222a2e9|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.CB9B34EA4BA1#^s-411dd53c31cd66a0a8422f61|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.CB9B34EA4BA1#^s-9a61badad59fef6d723f4a0d|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.CB9B34EA4BA1#^s-9e474b20c71f112c5d7587a1|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.CB9B34EA4BA1#^s-a3a04ef9c126318f6d330842|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.CB9B34EA4BA1#^s-fe065aeb183a10cb8c018663|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/ae5ebdb0ac0411e6b844f0f29024f5ac#^s-95bdb81300676ea345f53820|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 3 ir 4 straipsnių pakeitimo įstatymas]] - 2 citatos - Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio
+- [[latest/TAR.104DE38B4E45#^s-00102cef1110227ca1b7e18e|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.104DE38B4E45#^s-18298e868901c4bf86c21d6a|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.104DE38B4E45#^s-31948e45915cffc789f57a11|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.104DE38B4E45#^s-42e32698390fbf8eed84aa50|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.104DE38B4E45#^s-4aa354ae986ba35ac6ba12bc|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.104DE38B4E45#^s-d67634732c62ae9c0492f3ac|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.104DE38B4E45#^s-db9e82e8379f02ce6ae840cd|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas]] - 2 citatos - Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio  1 dalyje
+- [[latest/TAR.ADD51501D3AF#^s-07057ffa15b522e7dd0678b4|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.ADD51501D3AF#^s-45b57154ed0b5b9df2349da0|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.ADD51501D3AF#^s-8571d4a012235d8327b0d5d4|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatyme, turi būti nurodyta, kad priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio 1 dalyje
+- [[latest/TAR.ADD51501D3AF#^s-d4b037acc5b77d176fdf1593|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.ADD51501D3AF#^s-e4edddf02ce0e1b46ba0a3e2|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.ADD51501D3AF#^s-f54972ee71459eeb72b069e9|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.ADD51501D3AF#^s-f5541b0febd5414710985cd3|Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas]] - Asociacijų įstatymo 10 straipsnį
+- [[latest/TAR.C595FF45F869#^s-0f38b34f512cd1c01d895a1a|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 2 citatos - Asociacijų įstatymas
+- [[latest/TAR.C595FF45F869#^s-53754d2d93a1cf4cb4ba167e|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Asociacijų įstatymo
+- [[latest/TAR.C595FF45F869#^s-5f56247dcc431d7970f53566|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 2 citatos - Asociacijų įstatymas
+- [[latest/TAR.C595FF45F869#^s-a6d58181dbff165eebfec7eb|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Asociacijų įstatymo
+- [[latest/62eb9ee0790c11ec993ff5ca6e8ba60c#^s-17e52c155fc113e125ffbdb7|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, 73 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas]] - Asociacijų įstatymo
+- [[latest/62eb9ee0790c11ec993ff5ca6e8ba60c#^s-2961242c5ba58f4dae584f9c|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, 73 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas]] - Asociacijų įstatymo
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-0177791eaa5f9ac7a65effbe|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - 2 citatos - Asociacijų įstatymas
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-0b1eeb789e79bdf394427f46|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - Asociacijų įstatymo
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-6ca0cd97ab8ac2ed60cf6a6e|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - Asociacijų įstatymo
+- [[latest/1a9058e049b311e6b5d09300a16a686c#^s-709ea0699808f74d207b2079|Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas]] - 2 citatos - Asociacijų įstatymas
+- [[latest/TAR.3725D8DB2ADE#^s-e6dddb30f6b70ced643332ec|Lietuvos Respublikos ne pelno organizacijų (įmonių) reorganizavimo įstatymas]] - Asociacijų įstatymas
+- [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-017a6c0b1cf027dac5c82fa3|Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-c726a24e32abfb61a53e9000|Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/4bf2ebf0225411eabe008ea93139d588#^s-94bdabf29bb9729b583557af|Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/4bf2ebf0225411eabe008ea93139d588#^s-dd84c094237482d846181019|Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/dc7630e0a62811eea5a28c81c82193a8#^s-19173175a50c5883a713f2e2|Lietuvos Respublikos odontologų rūmų įstatymas]] - Asociacijų įstatymo
+- [[latest/dc7630e0a62811eea5a28c81c82193a8#^s-827ec08fe497e63bd8b10fcd|Lietuvos Respublikos odontologų rūmų įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/dc7630e0a62811eea5a28c81c82193a8#^s-834780d60cefd5ec2e8aa7b9|Lietuvos Respublikos odontologų rūmų įstatymas]] - Asociacijų įstatymo
+- [[latest/dc7630e0a62811eea5a28c81c82193a8#^s-9734a3a6c07c8b39c7068d9e|Lietuvos Respublikos odontologų rūmų įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.9D1ADB9E1518#^s-3360ed00e223c98c68d568f6|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.9D1ADB9E1518#^s-caa974130eab3e645fef41a1|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/8095e490e0e011e388bee944977d73d2#^s-a2bdd99e667a7995440343cf|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4-1, 5, 7, 8, 10, 11, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 11-1, 11-2, 12-1, 12-2, 12-3 straipsniais įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/8095e490e0e011e388bee944977d73d2#^s-c3ee50fbf88f420d63f5762c|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4-1, 5, 7, 8, 10, 11, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 11-1, 11-2, 12-1, 12-2, 12-3 straipsniais įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/57771670663d11e7b85cfdc787069b42#^s-2b143025e0de20f080657011|Lietuvos Respublikos patentinių patikėtinių įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/57771670663d11e7b85cfdc787069b42#^s-6db099a2cb5d19dfb76d1f0d|Lietuvos Respublikos patentinių patikėtinių įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.103565D95E60#^s-0173dc09ee4e5905a4b9c026|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.103565D95E60#^s-7e1452c53bfcacf6422df8ad|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/2656bbb00e7d11e9a5eaf2cd290f1944#^s-61179d43dfd12e4c4bc25dd2|Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/2656bbb00e7d11e9a5eaf2cd290f1944#^s-f5a0408f4785475fffd72683|Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.82B45D5C8282#^s-4246f45cae440f96248a179c|Lietuvos Respublikos profesinių pensijų kaupimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.82B45D5C8282#^s-a3d66a35efadcfccfa2802ef|Lietuvos Respublikos profesinių pensijų kaupimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.FD474D5CE327#^s-547cd31032ecd86af8369328|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.FD474D5CE327#^s-5cfdfee34d42b33270f24302|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.FD474D5CE327#^s-7f4340e74d4d5bf00760164f|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - 2 citatos - Asociacijų įstatymas
+- [[latest/TAR.FD474D5CE327#^s-aa6ac47ef1279f1a3e1c86ca|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.FD474D5CE327#^s-b0b08969730379b151f9527f|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.29A84C045528#^s-67fd559db4aed74bca4f3369|Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 15, 16, 21, 22, 25, 28 straipsnių, antrojo ir trečiojo skirsnių pavadinimų pakeitimo ir 9, 10, 32 straipsnių pripažinimo netekusiais galios įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.29A84C045528#^s-d8ea8e24fd452e2447fe0139|Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 15, 16, 21, 22, 25, 28 straipsnių, antrojo ir trečiojo skirsnių pavadinimų pakeitimo ir 9, 10, 32 straipsnių pripažinimo netekusiais galios įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.791BF9249C9C#^s-2a50d5d4fb0748926fb565e8|Lietuvos Respublikos sporto įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.791BF9249C9C#^s-8dd1c1ddba3bb6e954a21222|Lietuvos Respublikos sporto įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/54358d80287211eabe008ea93139d588#^s-32dab763f02b55e68f961de6|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/54358d80287211eabe008ea93139d588#^s-fd755f7933c0101939d93081|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-2cc1405159f4e9d213c2d404|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-50240c75fd007b8a88d90665|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-87accead719a8e5efbe6687d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-e9f4c3a32133b3500f814a19|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-f4c5adf0cda1dff5495abc7c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-f76b4d4a640fcaab86e8affa|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-b94ed73952d71bcfe1400ac3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-e055100fc5a7a243ae34bfde|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.2F1D65EFB0C9#^s-abc3ac0220cb1bc0ebff5792|Lietuvos Respublikos standartizacijos įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.2F1D65EFB0C9#^s-bcbeff83724771182cec172e|Lietuvos Respublikos standartizacijos įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.291CCA046F0D#^s-59fc07c252ebd62e515d82ce|Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.291CCA046F0D#^s-bfa3c2b69c89a7181ed1eb87|Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.4961DA7FA79F#^s-9e85bd1e532c3612fbd6823f|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/TAR.4961DA7FA79F#^s-a33d6d12e2afee1757d71f6b|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.4961DA7FA79F#^s-c2fdc4d8d447f2050fb1ce5a|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.4961DA7FA79F#^s-fd475072f58ac325cdcd9df9|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/cf83a660a00b11eea5a28c81c82193a8#^s-33dd16ff99713b51e1a027f1|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 pakeitimo įstatymas]] - Asociacijų įstatyme
+- [[latest/cf83a660a00b11eea5a28c81c82193a8#^s-39e9ee4bfd0445b99c0c08b9|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/cf83a660a00b11eea5a28c81c82193a8#^s-6532903bac0de14573238a68|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/cf83a660a00b11eea5a28c81c82193a8#^s-ec5ffe30db07421640ef34c0|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 pakeitimo įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.71BA4C071883#^s-2c401f9db00a7eef1a3a1040|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.71BA4C071883#^s-a49b4fa8e9d03879908771fc|Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymas]] - Asociacijų įstatyme
+- [[latest/c7425020094511efbcbfb318996800a8#^s-194d958cbc169aea85c05dce|Lietuvos Respublikos turto ir verslo vertintojų rūmų įstatymas]] - Asociacijų įstatyme
+- [[latest/c7425020094511efbcbfb318996800a8#^s-2286903734720ae86a5fff5d|Lietuvos Respublikos turto ir verslo vertintojų rūmų įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/c7425020094511efbcbfb318996800a8#^s-7504ceb1c385b77ddff596bf|Lietuvos Respublikos turto ir verslo vertintojų rūmų įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/c7425020094511efbcbfb318996800a8#^s-9fb73e2d26cdbe61c9a8fa7c|Lietuvos Respublikos turto ir verslo vertintojų rūmų įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.1E52802BE548#^s-946d42f713bd25b7540a213f|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.1E52802BE548#^s-bb36ea5e4e94045df31ccdf2|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - Asociacijų įstatymas
+- [[latest/TAR.065AB8483E1E#^s-5a232528270612b921b57de7|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.065AB8483E1E#^s-d2727a8e6254bb4eced36683|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/3e2f2a307b8611e4bb60d9a84e36596f#^s-2640bbf0b8b99f5b8cca8938|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 3, 31, 41, 43, 46, 49, 50 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/3e2f2a307b8611e4bb60d9a84e36596f#^s-2732740863f27fbfe7c5e520|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 3, 31, 41, 43, 46, 49, 50 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/3bd0e1c0ffb211ed9978886e85107ab2#^s-06606bcde5b28237c0ba3b49|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 31, 46, 46-1 ir 48 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/3bd0e1c0ffb211ed9978886e85107ab2#^s-faf7d7c3b42deeccd557ceff|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 31, 46, 46-1 ir 48 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.1A811E99B178#^s-d2c2cf159fcba15a86bc4891|Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.1A811E99B178#^s-de9bcd4173f5547ec602737f|Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymas
+- [[latest/TAR.9A3AD08EA5D0#^s-00888b69fe126afa98feb6f3|Lietuvos Respublikos švietimo įstatymas]] - 2 citatos - Asociacijų įstatymu
+- [[latest/TAR.9A3AD08EA5D0#^s-409c38c6c3a125ca5b1ad474|Lietuvos Respublikos švietimo įstatymas]] - Asociacijų įstatymu
+- [[latest/TAR.9A3AD08EA5D0#^s-8fe40cf3ba77c3dfd96eeecf|Lietuvos Respublikos švietimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-040067108b938083bbab176c|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-69338705e6e31684977e2e56|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - Asociacijų įstatymu
+- [[latest/2fa8f9a08c0d11ed8df094f359a60216#^s-a1327f9269229941c2f0bef9|Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas]] - 2 citatos - Asociacijų įstatymu
+- [[latest/TAR.E2EBE95E7723#^s-2f5af5121049cf254bd274b5|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.E2EBE95E7723#^s-da6cacd53a001b311336b186|Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymu
+- [[latest/TAR.8B8ACD8B99A1#^s-31998cfd4ff59b049b0f7ab0|Lietuvos Respublikos žemės ūkio ir kaimo plėtros įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.8B8ACD8B99A1#^s-82ebbe40204a45043a6f4c6d|Lietuvos Respublikos žemės ūkio ir kaimo plėtros įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.80CA64E588A1#^s-3f1bdee0eaf1435b60f50ac8|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.80CA64E588A1#^s-e6881a08abe67a72f10e21d8|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.ECA8485E5744#^s-09abcf37526645e0c75b42c8|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 2, 4, 5, 7, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.ECA8485E5744#^s-40ad80872ca4bdc33eee99f3|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 2, 4, 5, 7, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos asociacijų įstatymo

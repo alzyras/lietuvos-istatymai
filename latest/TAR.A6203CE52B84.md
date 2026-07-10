@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A6203CE52B84"
 pavadinimas: "Dėl Lietuvos Respublikos valstybinių pensijų įstatymo papildymo ir pakeitimo"
+aliases:
+  - "Dėl Lietuvos Respublikos valstybinių pensijų įstatymo papildymo ir pakeitimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-07-19"
 latest_path: "latest/TAR.A6203CE52B84.md"
 latest_sha256: "ab632b169f8127a8ca115d2b7e9d0a393dcab819aa5a096adc393d916f538436"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A6203CE52B84]]"
 ---
 # Dėl Lietuvos Respublikos valstybinių pensijų įstatymo papildymo ir pakeitimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A6203CE52B84.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84
+- Ryšiai: [[Ryšiai/TAR.A6203CE52B84|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -47,7 +51,7 @@ I. Papildyti ir pakeisti Lietuvos Respublikos valstybinių pensijų įstatymą (
 3. 4 straipsnio pirmąją dalį išdėstyti taip:
 
 
-„Teisę gauti Lietuvos Respublikos pirmojo arba antrojo laipsnio valstybinę pensiją (toliau - pirmojo arba antrojo laipsnio valstybinę pensiją) turi Lietuvos Respublikos piliečiai, ypač nusipelnę Lietuvai kuriant bei plėtojant jos valstybingumą, ūkį, kultūrą, mokslą, meną, sportą, taip pat motinos, pagimdžiusios ir išauginusios bei gerai išauklėjusios 10 ir daugiau vaikų ir sukakę Valstybinių socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžių), arba pripažinti I ar II grupių invalidais. Asmenys, dirbę ypatingomis darbo sąlygomis, už kurias skiriama kompensacija pagal Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnį, turi teisę gauti pirmojo arba antrojo laipsnio valstybinę pensiją likus iki senatvės pensijos amžiaus tiek mėnesių, už kiek mėnesių kompensacija mokama.“
+„Teisę gauti Lietuvos Respublikos pirmojo arba antrojo laipsnio valstybinę pensiją (toliau - pirmojo arba antrojo laipsnio valstybinę pensiją) turi Lietuvos Respublikos piliečiai, ypač nusipelnę Lietuvai kuriant bei plėtojant jos valstybingumą, ūkį, kultūrą, mokslą, meną, sportą, taip pat motinos, pagimdžiusios ir išauginusios bei gerai išauklėjusios 10 ir daugiau vaikų ir sukakę [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]] nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžių), arba pripažinti I ar II grupių invalidais. Asmenys, dirbę ypatingomis darbo sąlygomis, už kurias skiriama kompensacija pagal [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnį]], turi teisę gauti pirmojo arba antrojo laipsnio valstybinę pensiją likus iki senatvės pensijos amžiaus tiek mėnesių, už kiek mėnesių kompensacija mokama.“
 
 
 4. 6 straipsnį papildyti penktąja dalimi:

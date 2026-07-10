@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.42838C716F20"
 pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10 straipsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10 straipsnio papildymo įstatymas"
+  - "savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10 straipsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-03"
 latest_path: "latest/TAR.42838C716F20.md"
 latest_sha256: "930ddfd6ec413ad49aa3101ce3803c52c871eac6fcb5d90b010920e82c74cc5f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.42838C716F20]]"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10 straipsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.42838C716F20.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.42838C716F20
+- Ryšiai: [[Ryšiai/TAR.42838C716F20|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 10 straipsnio 4 dalies papildymas
+### 1 straipsnis. 10 straipsnio 4 dalies papildymas ^s-c293f512cebe53b788a85301
 
 
 10 straipsnio 4 dalyje po žodžio „pokyčiai“ įrašyti žodžius „išskyrus pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje teritorijoje esančiai žemei išpirkti iš žemės savininkų“ ir šią dalį išdėstyti taip:

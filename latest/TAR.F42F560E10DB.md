@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.F42F560E10DB"
 pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-09-01"
 latest_path: "latest/TAR.F42F560E10DB.md"
 latest_sha256: "83aeadf4b79bb4b25f0724035d82ba85759c2f9289ee8c7d5d13c4e6dfa5bc03"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.F42F560E10DB]]"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.F42F560E10DB.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.F42F560E10DB
+- Ryšiai: [[Ryšiai/TAR.F42F560E10DB|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio 3 dalies 1 punkto pakeitimas
+### 1 straipsnis. 19 straipsnio 3 dalies 1 punkto pakeitimas ^s-d938fe79eb90c86476453082
 
 
 Pakeisti 19 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
@@ -43,7 +48,7 @@ Pakeisti 19 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-c014dddfa58b71b21367cb62
 
 
 Šis įstatymas įsigalioja 2010 m. rugsėjo 1 d.

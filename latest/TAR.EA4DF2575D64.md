@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.EA4DF2575D64"
 pavadinimas: "Lietuvos Respublikos draudimo įstatymo 129 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos draudimo įstatymo 129 straipsnio pakeitimo įstatymas"
+  - "draudimo įstatymo 129 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-07-13"
 latest_path: "latest/TAR.EA4DF2575D64.md"
 latest_sha256: "b000bcda95e845153f8d6c51d5657bc85c20ee180855fe44262c3ad274898544"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.EA4DF2575D64]]"
 ---
 # Lietuvos Respublikos draudimo įstatymo 129 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.EA4DF2575D64.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.EA4DF2575D64
+- Ryšiai: [[Ryšiai/TAR.EA4DF2575D64|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 129 straipsnio 4 dalies 5 punkto pakeitimas
+### 1 straipsnis. 129 straipsnio 4 dalies 5 punkto pakeitimas ^s-24445cf78077026969f6848c
 
 
 Pakeisti 129 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip:

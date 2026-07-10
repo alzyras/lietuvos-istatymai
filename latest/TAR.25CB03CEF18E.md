@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.25CB03CEF18E"
 pavadinimas: "Lietuvos Respublikos Visagino miesto ir Ignalinos rajono savivaldybių teritorijų ribų keitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos Visagino miesto ir Ignalinos rajono savivaldybių teritorijų ribų keitimo įstatymas"
+  - "Visagino miesto ir Ignalinos rajono savivaldybių teritorijų ribų keitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-10-23"
 latest_path: "latest/TAR.25CB03CEF18E.md"
 latest_sha256: "febd081904720850f8171e9ad48d4b1d03fddb6bab34b553d7f00f425fe9d7d1"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.25CB03CEF18E]]"
 ---
 # Lietuvos Respublikos Visagino miesto ir Ignalinos rajono savivaldybių teritorijų ribų keitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.25CB03CEF18E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.25CB03CEF18E
+- Ryšiai: [[Ryšiai/TAR.25CB03CEF18E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +34,7 @@ Vilnius
 
 
 
-### 1 straipsnis.         Visagino miesto savivaldybei priskiriamos gyvenamosios vietovės ar jų dalys
+### 1 straipsnis.         Visagino miesto savivaldybei priskiriamos gyvenamosios vietovės ar jų dalys ^s-a37692410009f0e3faf2eb62
 
 
 Visagino miesto savivaldybei priskiriamos šios Ignalinos rajono savivaldybės gyvenamosios vietovės ar jų dalys:
@@ -39,34 +44,34 @@ Ažukalviškės, Babrūšos, Čeberakų, Drūkšinių, Galų, Julionių, Julišk
 
 
 
-### 2 straipsnis. Visagino miesto savivaldybės teritorijos ribos
+### 2 straipsnis. Visagino miesto savivaldybės teritorijos ribos ^s-e21a6fe149737a5afeedade8
 
 
 Nustatomos šios Visagino miesto savivaldybės teritorijos ribos: Zarasų rajono savivaldybės teritorijos pietinė riba nuo geležinkelio ruožo Turmantas–Naujoji Vilnia, Drūkšių ežero pusiasalio pakrantė, buvusios Rimšės žemės ūkio įmonės teritorijos šiaurės riba, geležinkelio ruožo Dūkštas–Ignalinos atominė elektrinė pietų riba, kelio Kalviškiai–Visaginas vakarų riba, Visagino miesto kapinių pietų, vakarų ir šiaurės ribos, privačių  žemės sklypų ribos: kadastro Nr. 455000050027 rytų riba, kadastro Nr. 455000050019 pietų, rytų ir šiaurės ribos, kadastro Nr. 458700030008 šiaurės riba, Ignalinos miškų urėdijos Dūkšto girininkijos 167 kvartalo rytų riba, 148 kvartalo rytų ir šiaurės ribos, 147 kvartalo šiaurės riba, 133, 123 kvartalų rytų ribos, 88 kvartalo rytų ir šiaurės riba, geležinkelio ruožo Turmantas–Naujoji Vilnia rytų riba.
 
 
 
-### 3 straipsnis. Įstatymo nuostatų taikymas
+### 3 straipsnis. Įstatymo nuostatų taikymas ^s-93bc8e7b033d09db5533808f
 
 
-1. Visagino miesto savivaldybė (Visagino savivaldybė nuo 2003 m. sausio 1 d.) šiuo įstatymu priskirtoje teritorijoje savivaldybės funkcijas įgyvendinti pradeda nuo 2003 m. sausio 1 d. Iki 2003 m. sausio 1 d. savivaldybės funkcijas šioje teritorijoje įgyvendina Ignalinos rajono savivaldybė. ^0fcc8179c1a92e69f0ec3d14
+1. Visagino miesto savivaldybė (Visagino savivaldybė nuo 2003 m. sausio 1 d.) šiuo įstatymu priskirtoje teritorijoje savivaldybės funkcijas įgyvendinti pradeda nuo 2003 m. sausio 1 d. Iki 2003 m. sausio 1 d. savivaldybės funkcijas šioje teritorijoje įgyvendina Ignalinos rajono savivaldybė. ^s-4112cc50710da2d071d72ac7
 
 
-2. Iki 2002 m. gruodžio 31 d. (įskaitytinai) pajamos į Visagino miesto ir Ignalinos rajono savivaldybių biudžetus įskaitomos ta pačia tvarka, kaip jos buvo įskaitomos iki šio Įstatymo įsigaliojimo. ^6388e2164c3491dc1eee8763
-
-
-
-### 4 straipsnis. Pasiūlymai Vyriausybei
-
-
-1. Vyriausybė parengia ir pateikia Seimui Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymo projektą. ^2b69cdf46766e0317dadf9e6
-
-
-2. Vyriausybė 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą rengia atsižvelgdama į Visagino miesto savivaldybės ir Ignalinos rajono savivaldybės teritorijų ribų pakeitimus ir į patikslintą Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymą. ^c107330a528f9b0b8ed89c75
+2. Iki 2002 m. gruodžio 31 d. (įskaitytinai) pajamos į Visagino miesto ir Ignalinos rajono savivaldybių biudžetus įskaitomos ta pačia tvarka, kaip jos buvo įskaitomos iki šio Įstatymo įsigaliojimo. ^s-b7624bc4aa350fccb4992e83
 
 
 
-### 5 straipsnis. Pasiūlymas Vyriausiajai rinkimų komisijai
+### 4 straipsnis. Pasiūlymai Vyriausybei ^s-b048c5113b85a37812a111a6
+
+
+1. Vyriausybė parengia ir pateikia Seimui Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymo projektą. ^s-af38bd868ea9188d5427c6ce
+
+
+2. Vyriausybė [[latest/TAR.BCA0F623B8BA|2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą rengia atsižvelgdama į Visagino miesto savivaldybės ir Ignalinos rajono savivaldybės teritorijų ribų pakeitimus ir į patikslintą [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo]] pakeitimo įstatymą. ^s-0fef03495000b3912ebc24f5
+
+
+
+### 5 straipsnis. Pasiūlymas Vyriausiajai rinkimų komisijai ^s-a298e27155e414595fae60d6
 
 
 Vyriausioji rinkimų komisija Visagino miesto ir Ignalinos rajono savivaldybių teritorijose sudarytas savivaldybių tarybų rinkimų apylinkių ribas, taip pat renkamų šiose savivaldybėse narių skaičių per 10 dienų nuo šio Įstatymo įsigaliojimo patikslina pagal šiuo Įstatymu nustatytas savivaldybių teritorijų ribas.

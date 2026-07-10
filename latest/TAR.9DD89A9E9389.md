@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.9DD89A9E9389"
 pavadinimas: "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas"
+  - "savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2013-10-01"
 latest_path: "latest/TAR.9DD89A9E9389.md"
 latest_sha256: "79c5d52451219a7931244f54d7daf9a1991e21b033cfba2ca3d241e54b605661"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.9DD89A9E9389]]"
 ---
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.9DD89A9E9389.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9DD89A9E9389
+- Ryšiai: [[Ryšiai/TAR.9DD89A9E9389|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas ^s-4e53e6158aea25d563896e4a
 
 
 Pakeisti 4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-d542b0f1d9fc65c3131520db
 
 
 Šis įstatymas įsigalioja 2013 m. spalio 1 d.

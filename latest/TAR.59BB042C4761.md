@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.59BB042C4761"
 pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 33, 60, 62, 69, 78 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės tarnybos įstatymo 4, 33, 60, 62, 69, 78 straipsnių pakeitimo ir papildymo įstatymas"
+  - "valstybės tarnybos įstatymo 4, 33, 60, 62, 69, 78 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2001-10-05"
 latest_path: "latest/TAR.59BB042C4761.md"
 latest_sha256: "16ea70456eca7e4bbdb1870e0d6783e2d9b839bba2d79dd40cb86a953c209f4b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.59BB042C4761]]"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 33, 60, 62, 69, 78 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.59BB042C4761.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.59BB042C4761
+- Ryšiai: [[Ryšiai/TAR.59BB042C4761|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,40 +36,40 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ^s-902d621324b12ec6c091581e
 
 
 4 straipsnio 2 dalyje vietoj žodžių ir skaičiaus „(išskyrus 4 dalį)“ įrašyti žodžius ir skaičių „(išskyrus 3 dalį)“ ir šią dalį išdėstyti taip:
 
 
-„2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo 2 ir [[#3 straipsnis. 60 straipsnio 3 dalies 6 punkto pripažinimas netekusiu galios|3 straipsniai]], 4 straipsnio 2 dalis, [[#5 straipsnis. 69 straipsnio 1 dalies ir 2 dalies 2 punkto papildymas|5 straipsnis]], [[#6 straipsnis. 78 straipsnio pakeitimas|6 straipsnio]] 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 3 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
+„2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo 2 ir [[#^s-ea5e7d84056f7f08c8d7796f|3 straipsniai]], 4 straipsnio 2 dalis, [[#^s-b1588b923d84725f724e55c1|5 straipsnis]], [[#^s-0246a68afc9057b7b038d1e1|6 straipsnio]] 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 3 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
 
 
 
-### 2 straipsnis. 33 straipsnio 3 ir 4 dalių pakeitimas
+### 2 straipsnis. 33 straipsnio 3 ir 4 dalių pakeitimas ^s-40097f07ee144598e0676188
 
 
-1. 33 straipsnio 3 dalyje vietoj skaičiaus ir žodžio „3 dalies“ įrašyti skaičių ir žodį „4 dalies“, vietoj skaičiaus ir žodžio „4 dalyje“ įrašyti skaičių ir žodį „5 dalyje“, išbraukti žodžius ir skaičius „ir 76 straipsnio 2 dalyje nurodytos kompensacijos dydis“ ir šią dalį išdėstyti taip: ^8fc08cf95cfbf623b91a85bb
+1. 33 straipsnio 3 dalyje vietoj skaičiaus ir žodžio „3 dalies“ įrašyti skaičių ir žodį „4 dalies“, vietoj skaičiaus ir žodžio „4 dalyje“ įrašyti skaičių ir žodį „5 dalyje“, išbraukti žodžius ir skaičius „ir 76 straipsnio 2 dalyje nurodytos kompensacijos dydis“ ir šią dalį išdėstyti taip: ^s-50f1ec1caa8d692926e6c8f8
 
 
 „3. Pagal šį įstatymą tarnybos stažą sudaro metų, ištarnautų Lietuvos valstybei nuo 1990 m. kovo 11 d. einant viešojo administravimo valstybės tarnautojų pareigas, A ir B lygių paslaugų valstybės tarnautojų pareigas, taip pat šio įstatymo 4 straipsnio 4 dalies 1–6 punktuose nurodytas pareigas, skaičius. Tarnybos stažas valstybės tarnautojams skaičiuojamas Vyriausybės nustatyta tvarka nuo tarnybos (darbo) valstybės ar savivaldybės institucijose ar įstaigose pradžios arba paskyrimo (išrinkimo) į šias pareigas valstybės tarnyboje šio įstatymo, kitų įstatymų ar statutų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant šias pareigas valstybės ar savivaldybės institucijose ar įstaigose stažas sumuojamas. Į tarnybos stažą įskaitomas stažuotės ar bandomasis laikotarpis, taip pat atostogų laikas, išskyrus šio įstatymo 52 straipsnyje nustatytas atostogas dėl asmeninių aplinkybių. Pagal tarnybos stažą nustatomas šio straipsnio 5 dalyje nurodyto priedo dydis, šio įstatymo 50 straipsnyje nurodytų kasmetinių atostogų trukmė.“
 
 
-2. Pakeisti 33 straipsnio 4 dalį ir ją išdėstyti taip: ^0de85b0d8538b1103fafbccc
+2. Pakeisti 33 straipsnio 4 dalį ir ją išdėstyti taip: ^s-438985852e7496d6d3a3b685
 
 
 „4. Statutinių vidaus reikalų sistemos valstybės tarnautojų, kurie 1990 m. kovo 11 d. dirbo ir tebedirba vidaus reikalų sistemoje statutiniais valstybės tarnautojais arba kurie 1990 m.kovo 11 d. dirbo statutiniais valstybės tarnautojais vidaus reikalų sistemos įstaigose, vėliau reorganizuotose į valstybės įstaigas ar institucijas, arba perėjo dirbti į po 1990 m. kovo 11 d. naujai įsteigtas statutines valstybės įstaigas ar institucijas ir jose tebedirba statutiniais valstybės tarnautojais, tarnybos stažas skaičiuojamas nuo priėmimo į pareigas vidaus reikalų sistemoje datos. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė.“
 
 
 
-### 3 straipsnis. 60 straipsnio 3 dalies 6 punkto pripažinimas netekusiu galios
+### 3 straipsnis. 60 straipsnio 3 dalies 6 punkto pripažinimas netekusiu galios ^s-ea5e7d84056f7f08c8d7796f
 
 
 Pripažinti netekusiu galios 60 straipsnio 3 dalies 6 punktą.
 
 
 
-### 4 straipsnis. 62 straipsnio 10 dalies pakeitimas
+### 4 straipsnis. 62 straipsnio 10 dalies pakeitimas ^s-9a3e3e2772f99501d7a55ba7
 
 
 Pakeisti 62 straipsnio 10 dalį ir ją išdėstyti taip:
@@ -74,16 +79,16 @@ Pakeisti 62 straipsnio 10 dalį ir ją išdėstyti taip:
 
 
 
-### 5 straipsnis. 69 straipsnio 1 dalies ir 2 dalies 2 punkto papildymas
+### 5 straipsnis. 69 straipsnio 1 dalies ir 2 dalies 2 punkto papildymas ^s-b1588b923d84725f724e55c1
 
 
-1. Papildyti 69 straipsnio 1 dalį žodžiais ir skaičiais „išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^f43ca7a7f947222b44fc44e5
+1. Papildyti 69 straipsnio 1 dalį žodžiais ir skaičiais „išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^s-c6416e417bbb0f17364161bb
 
 
 „1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir 4 dalių nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“
 
 
-2. Papildyti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^9e4b9bcd79bdd229fde39350
+2. Papildyti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-d607b1bb108ef8a9ebfc8fd5
 
 
 „2) pereinamuoju laikotarpiu – iki 2003 m. liepos 1 d. – buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu):
@@ -135,29 +140,29 @@ M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
 
 
 
-### 6 straipsnis. 78 straipsnio pakeitimas
+### 6 straipsnis. 78 straipsnio pakeitimas ^s-0246a68afc9057b7b038d1e1
 
 
 Pakeisti 78 straipsnį ir jį išdėstyti taip:
 „78 straipsnis. Pasiūlymai Vyriausybei
 
 
-1. Įsigaliojus šiam įstatymui, Vyriausybė: ^5a306933b9da3c44beb2b46d
+1. Įsigaliojus šiam įstatymui, Vyriausybė: ^s-23f3c9a74dd1cd63248950a2
 
 
-1) per 3 metus paskiria valstybės tarnybos tvarkymo funkcijas atliekančią įstaigą; ^5ac7ca85be350f03cbe490cd
+1) per 3 metus paskiria valstybės tarnybos tvarkymo funkcijas atliekančią įstaigą; ^s-874a114c124fcee4d3160d76
 
 
-2) per 3 metus pateikia Seimui tvirtinti statutinių institucijų ir įstaigų bei statutinių valstybės tarnybų ir pareigybių sąrašą, taip pat statutinių valstybės tarnautojų statuso pagrindų įstatymo projektą; ^6e78edf1a903c7ca1215293d
+2) per 3 metus pateikia Seimui tvirtinti statutinių institucijų ir įstaigų bei statutinių valstybės tarnybų ir pareigybių sąrašą, taip pat statutinių valstybės tarnautojų statuso pagrindų įstatymo projektą; ^s-9c97c7b2cdd692f58862ba17
 
 
-3) per 3 metus atlieka galiojančių įstatymų, statutų, kitų teisės aktų, susijusių su statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia Seimui jų pakeitimų ir papildymų projektus; ^9c29bbf7557225b0895e5d00
+3) per 3 metus atlieka galiojančių įstatymų, statutų, kitų teisės aktų, susijusių su statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia Seimui jų pakeitimų ir papildymų projektus; ^s-2e37195d010a2b4f3bfdcf53
 
 
-4) per 3 metus priima visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės aktus, išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami už valstybės tarnybą atsakingo ministro arba kuriems šiame įstatyme numatytas kitoks terminas. ^0e74a48c294921ef9c3e137f
+4) per 3 metus priima visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės aktus, išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami už valstybės tarnybą atsakingo ministro arba kuriems šiame įstatyme numatytas kitoks terminas. ^s-da4295598ee577e33e2c5fcd
 
 
-2. [[#^5a306933b9da3c44beb2b46d|Šio straipsnio 1 dalies]] 3 ir 4 punktų nuostatų taikymas tęsiamas nuo 2001 m. liepos 30 d.“ ^e8c06d5287216ab1c36d8a1a
+2. [[#^s-23f3c9a74dd1cd63248950a2|Šio straipsnio 1 dalies]] 3 ir 4 punktų nuostatų taikymas tęsiamas nuo 2001 m. liepos 30 d.“ ^s-fc912e7b3a7d4b46cd532e86
 
 
 

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.BDEFD89A1858"
 pavadinimas: "Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymas"
+  - "biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-01-01"
 latest_path: "latest/TAR.BDEFD89A1858.md"
 latest_sha256: "3d43817a9b2e96949c695e374b9f2bb1d936cd6cb8eac098c99a4d4b0002234f"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.BDEFD89A1858]]"
 ---
 # Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.BDEFD89A1858.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.BDEFD89A1858
+- Ryšiai: [[Ryšiai/TAR.BDEFD89A1858|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio pakeitimas
+### 1 straipsnis. 8 straipsnio pakeitimas ^s-22473da96ad41b729c4e43c6
 
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
@@ -66,7 +71,7 @@ Valstybės ir savivaldybių biudžetų asignavimų valdytojai, taip pat jiems pa
 
 
 
-### 2 straipsnis. 9 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 9 straipsnio 1 dalies pakeitimas ^s-24183e4ebf721856171080e6
 
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
@@ -76,7 +81,7 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 10 straipsnio pakeitimas
+### 3 straipsnis. 10 straipsnio pakeitimas ^s-ee37e610cd20ae48f64d14a1
 
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
@@ -85,11 +90,11 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 „10 straipsnis. Biudžetinių įstaigų buhalterinė apskaita, finansinių ir biudžeto vykdymo ataskaitų rinkiniai
 
 
-Biudžetinės įstaigos buhalterinę apskaitą tvarko ir finansinių ir biudžeto vykdymo ataskaitų rinkinius sudaro Viešojo sektoriaus atskaitomybės įstatymo ir kitų teisės aktų nustatyta tvarka.“
+Biudžetinės įstaigos buhalterinę apskaitą tvarko ir finansinių ir biudžeto vykdymo ataskaitų rinkinius sudaro [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymo]] ir kitų teisės aktų nustatyta tvarka.“
 
 
 
-### 4 straipsnis. 11 straipsnio pakeitimas
+### 4 straipsnis. 11 straipsnio pakeitimas ^s-1b24d6ba8b2e751e3f578e53
 
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
@@ -105,7 +110,7 @@ Biudžetinės įstaigos gali turėti piniginių lėšų, gautų ne kaip biudžet
 
 
 
-### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas ^s-31fb9b268dd35db1925314e2
 
 
 Šis įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
@@ -133,4 +138,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1824, 2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29), i. k. [[latest/TAR.80BCC14CDBDA|1081010ISTA00X-1824]]
-Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas
+[[latest/TAR.80BCC14CDBDA|Lietuvos Respublikos biudžetinių įstaigų įstatymo 8, 9, 10, 11 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo įstatymas]]

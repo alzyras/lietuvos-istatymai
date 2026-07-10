@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.3B8F1EC417DC"
 pavadinimas: "Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 7, 9, 10, 11, 12, 16, 17, 18, 22, 23, 25, 26 straipsnių pakeitimo ir papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 7, 9, 10, 11, 12, 16, 17, 18, 22, 23, 25, 26 straipsnių pakeitimo ir papildymo įstatymas"
+  - "tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 7, 9, 10, 11, 12, 16, 17, 18, 22, 23, 25, 26 straipsnių pakeitimo ir papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-05-13"
 latest_path: "latest/TAR.3B8F1EC417DC.md"
 latest_sha256: "f6b590193ebd5828ba46cfbe6f248373294a05548700deb621371860bb6e1623"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.3B8F1EC417DC]]"
 ---
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 7, 9, 10, 11, 12, 16, 17, 18, 22, 23, 25, 26 straipsnių pakeitimo ir papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.3B8F1EC417DC.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.3B8F1EC417DC
+- Ryšiai: [[Ryšiai/TAR.3B8F1EC417DC|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,13 +36,13 @@ Vilnius
 
 
 
-### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas ^s-f17cb9a2b146b9c5fcd876ca
 
 
-[[#3 straipsnis. 6 straipsnio 1 dalies pakeitimas|3 straipsnio]] trečiąją pastraipą pakeisti, straipsnį papildyti naujomis ketvirtąja, penktąja ir šeštąja pastraipomis, buvusias ketvirtąją–šešioliktąją pastraipas laikyti atitinkamai septintąja–devynioliktąja pastraipomis, keturioliktojoje pastraipoje vietoj žodžių „juridiniai ir fiziniai asmenys“ įrašyti žodžius „juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, ir fiziniai asmenys“, devynioliktojoje pastraipoje po žodžio „patvirtinantis“ įrašyti žodžius „tauriųjų metalų prabą, masę, kiekį bei“ ir šį straipsnį išdėstyti taip:
+[[#^s-df68a09799aef2bccf2ad62d|3 straipsnio]] trečiąją pastraipą pakeisti, straipsnį papildyti naujomis ketvirtąja, penktąja ir šeštąja pastraipomis, buvusias ketvirtąją–šešioliktąją pastraipas laikyti atitinkamai septintąja–devynioliktąja pastraipomis, keturioliktojoje pastraipoje vietoj žodžių „juridiniai ir fiziniai asmenys“ įrašyti žodžius „juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, ir fiziniai asmenys“, devynioliktojoje pastraipoje po žodžio „patvirtinantis“ įrašyti žodžius „tauriųjų metalų prabą, masę, kiekį bei“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#3 straipsnis. 6 straipsnio 1 dalies pakeitimas|3 straipsnis]]
+„[[#^s-df68a09799aef2bccf2ad62d|3 straipsnis]]
 
 
 Įstatyme vartojamos sąvokos:
@@ -98,17 +103,17 @@ kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą,
 
 
 
-### 2 straipsnis. 4 straipsnio 2 dalies papildymas
+### 2 straipsnis. 4 straipsnio 2 dalies papildymas ^s-7534fc622b588e71f17ed5cf
 
 
-[[#^0bb749cf53fb0e7a76ce129b|4 straipsnio 2 dalį]] papildyti sakiniais „Taurieji metalai ir brangakmeniai, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma reeksportuoti pakeitus jų pavidalą, reeksportuojami be papildomo kontrolinio įspaudavimo. Reeksportuojami tauriųjų metalų ir brangakmenių gaminiai turi turėti Lietuvos prabavimo rūmų išduotą kokybės pažymėjimą“ ir šią dalį išdėstyti taip:
+[[#^s-4f55884af9c78db2dbee16cc|4 straipsnio 2 dalį]] papildyti sakiniais „Taurieji metalai ir brangakmeniai, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma reeksportuoti pakeitus jų pavidalą, reeksportuojami be papildomo kontrolinio įspaudavimo. Reeksportuojami tauriųjų metalų ir brangakmenių gaminiai turi turėti Lietuvos prabavimo rūmų išduotą kokybės pažymėjimą“ ir šią dalį išdėstyti taip:
 
 
 „2. Jeigu yra Lietuvos Respublikos tarptautinė sutartis ar susitarimas dėl abipusio įspaudavimo bei kokybės pažymėjimo pripažinimo, tauriųjų metalų ir brangakmenių gaminiai iš susitarusiųjų šalių gali būti eksportuojami arba importuojami be papildomo kontrolinio įspaudavimo bei kokybės pažymėjimo. Taurieji metalai ir brangakmeniai, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma reeksportuoti pakeitus jų pavidalą, reeksportuojami be papildomo kontrolinio įspaudavimo. Reeksportuojami tauriųjų metalų ir brangakmenių gaminiai turi turėti Lietuvos prabavimo rūmų išduotą kokybės pažymėjimą.“
 
 
 
-### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-df68a09799aef2bccf2ad62d
 
 
 6 straipsnio 1 dalį pakeisti ir išdėstyti taip:
@@ -118,86 +123,86 @@ kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą,
 
 
 
-### 4 straipsnis. 7 straipsnio 3 ir 6 dalių papildymas
+### 4 straipsnis. 7 straipsnio 3 ir 6 dalių papildymas ^s-7956ccea55317c8a8c3b2aa5
 
 
-1. 7 straipsnio 3 dalį papildyti ir išdėstyti taip: ^0bce66212bf5fbf8246a082a
+1. 7 straipsnio 3 dalį papildyti ir išdėstyti taip: ^s-1872f5b3dd6ec3a0e130999f
 
 
 „3. Naujiems gaminiams bei skirtiems eksportui, taip pat importuojamiems tauriųjų metalų gaminiams nustatomos šios prabos:
 
 
-1) platinos – 850o, 900o, 950, 999o; ^3676bb96842a8d82ceebbdc2
+1) platinos – 850o, 900o, 950, 999o; ^s-39c1149012eacc68c6e2d49d
 
 
-2) aukso – 375, 585, 750, 916o, 999o; ^e5bcf289413658c2e619dceb
+2) aukso – 375, 585, 750, 916o, 999o; ^s-e8908c840cf0d660cb37f115
 
 
-3) sidabro – 800, 830, 925, 999o; ^e9d20015a1a04d557476a156
+3) sidabro – 800, 830, 925, 999o; ^s-335151079634a542e6f22740
 
 
-4) paladžio – 500, 850, 950o, 999o. ^03819d0c6d7435f201e511c6
+4) paladžio – 500, 850, 950o, 999o. ^s-92e0c67436aa0ec0529d81b3
 
 
 Tarptautinė standartizacijos organizacija nurodo šių prabų remediumą.“
 
 
-2. 7 straipsnio 6 dalį papildyti ir išdėstyti taip: ^0bb749cf53fb0e7a76ce129b
+2. 7 straipsnio 6 dalį papildyti ir išdėstyti taip: ^s-4f55884af9c78db2dbee16cc
 
 
 „6. Dantų techninės produkcijos gaminiams nustatomos prabos:
 
 
-1) aukso diskų – 900o, 916o; ^f4f0cb4f50d61d28f3d841cb
+1) aukso diskų – 900o, 916o; ^s-325745dbe79cb8f667577217
 
 
-2) apkabėlių, lydmetalio ir kitų detalių – 750o. ^0ae6c203807ed1b7d83a7752
+2) apkabėlių, lydmetalio ir kitų detalių – 750o. ^s-8f2cc0f3720042148ef6b485
 
 
 Dantų lietų protezų gamybai leidžiama naudoti ne mažesnės kaip 650o prabos aukso ir ne mažesnės kaip 750o prabos aukso ir platinos grupės metalų lydinius, atitinkančius tarptautinius standartus, suderinus su Lietuvos prabavimo rūmais, ir aprobuotus Lietuvos Respublikos sveikatos apsaugos ministerijos.“
 
 
 
-### 5 straipsnis. 9 straipsnio papildymas
+### 5 straipsnis. 9 straipsnio papildymas ^s-80252c4bbe8a3d62d122bfc7
 
 
-[[#9 straipsnis. 16 straipsnio 2 dalies pripažinimas netekusia galios|9 straipsnyje]] po žodžių „kiekis juose“ įrašyti žodžius „atsižvelgiant į remediumą“ ir šį straipsnį išdėstyti taip:
+[[#^s-a075fba4547dc7fb5c2bb677|9 straipsnyje]] po žodžių „kiekis juose“ įrašyti žodžius „atsižvelgiant į remediumą“ ir šį straipsnį išdėstyti taip:
 
 
-„[[#9 straipsnis. 16 straipsnio 2 dalies pripažinimas netekusia galios|9 straipsnis]]
+„[[#^s-a075fba4547dc7fb5c2bb677|9 straipsnis]]
 
 
 Tauriųjų metalų ir brangakmenių gaminiai atitinka prabą, jei santykinis gryno aukso, sidabro, platinos ar paladžio kiekis juose atsižvelgiant į remediumą yra ne mažesnis kaip nurodyta praboje. Jei šis kiekis mažesnis, gaminys yra laikomas nustatytos iš eilės einančios žemesnės prabos, kuria ir yra įspauduojamas.“
 
 
 
-### 6 straipsnis. 10 straipsnio pakeitimas
+### 6 straipsnis. 10 straipsnio pakeitimas ^s-83d3dd372f20191182eb3797
 
 
-[[#10 straipsnis. 17 straipsnio papildymas 3 dalimi|10 straipsnyje]] antrąjį sakinį išbraukti, trečiąjį sakinį pakeisti ir šį straipsnį išdėstyti taip:
+[[#^s-629893c78bec5bf4912fc73e|10 straipsnyje]] antrąjį sakinį išbraukti, trečiąjį sakinį pakeisti ir šį straipsnį išdėstyti taip:
 
 
-„[[#10 straipsnis. 17 straipsnio papildymas 3 dalimi|10 straipsnis]]
+„[[#^s-629893c78bec5bf4912fc73e|10 straipsnis]]
 
 
 Lietuvos prabavimo rūmai nustato prabavimo metodus, bandinių parinkimo tvarką bei skaičių ir tai turi garantuoti prabavimo rezultatų patikimumą. Prabavimo, įspaudavimo bei kokybės pažymėjimų išdavimo ir kitų paslaugų mokestį nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
-### 7 straipsnis. 11 straipsnio pakeitimas
+### 7 straipsnis. 11 straipsnio pakeitimas ^s-9aa68f2e9bf90c0085136475
 
 
-[[#11 straipsnis. 18 straipsnio 2 dalies pakeitimas|11 straipsnyje]] vietoj žodžių „deklaruojamo kokybės pažymėjimo“ įrašyti žodžius „deklaruojamos kokybės“, antrąjį sakinį išbraukti, trečiajame sakinyje žodį „pažymėjimo“ išbraukti ir šį straipsnį išdėstyti taip:
+[[#^s-dcb0151fa358d9ce26346abb|11 straipsnyje]] vietoj žodžių „deklaruojamo kokybės pažymėjimo“ įrašyti žodžius „deklaruojamos kokybės“, antrąjį sakinį išbraukti, trečiajame sakinyje žodį „pažymėjimo“ išbraukti ir šį straipsnį išdėstyti taip:
 
 
-„[[#11 straipsnis. 18 straipsnio 2 dalies pakeitimas|11 straipsnis]]
+„[[#^s-dcb0151fa358d9ce26346abb|11 straipsnis]]
 
 
 Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai, neatitinkantys deklaruojamų prabų, taip pat brangakmeniai, neatitinkantys deklaruojamos kokybės, jeigu pateikėjas sutinka, įspauduojami atitinkama žemesne praba arba išduodamas atitinkamas kokybės pažymėjimas. Lietuvos prabavimo rūmai apie deklaruojamos prabos ar kokybės neatitikimą informuoja gaminius pateikusį ūkio subjektą ar fizinį asmenį, kuris turi teisę per l0 dienų pareikalauti, kad jo lėšomis būtų atliktas pakartotinis prabavimas. Jeigu ūkio subjektas nesutinka gaminio įspauduoti žemesne nei jo deklaruojama praba ar gauti atitinkamą kokybės pažymėjimą arba jei yra neigiami pakartotinio prabavimo rezultatai, gaminiai iš tauriųjų metalų ir brangakmenių grąžinami deformuoti (sulaužyti). Fiziniams asmenims (privatūs daiktai) grąžinami neįspauduoti ir be kokybės pažymėjimo.“
 
 
 
-### 8 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 8 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-b17a357de6509c8a208d0c2f
 
 
 12 straipsnio 1 dalį pakeisti ir išdėstyti taip:
@@ -207,14 +212,14 @@ Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai
 
 
 
-### 9 straipsnis. 16 straipsnio 2 dalies pripažinimas netekusia galios
+### 9 straipsnis. 16 straipsnio 2 dalies pripažinimas netekusia galios ^s-a075fba4547dc7fb5c2bb677
 
 
 16 straipsnio 2 dalį pripažinti netekusia galios.
 
 
 
-### 10 straipsnis. 17 straipsnio papildymas 3 dalimi
+### 10 straipsnis. 17 straipsnio papildymas 3 dalimi ^s-629893c78bec5bf4912fc73e
 
 
 17 straipsnį papildyti 3 dalimi:
@@ -224,17 +229,17 @@ Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai
 
 
 
-### 11 straipsnis. 18 straipsnio 2 dalies pakeitimas
+### 11 straipsnis. 18 straipsnio 2 dalies pakeitimas ^s-dcb0151fa358d9ce26346abb
 
 
 18 straipsnio 2 dalyje vietoj žodžių „Šiais atvejais prabų neatitinkantys“ įrašyti žodį „Tokie“, po žodžio „Vyriausybės“ įrašyti žodžius „ar jos įgaliotos institucijos“ ir šią dalį išdėstyti taip:
 
 
-„2. Lietuvos prabavimo rūmai gali leisti gaminti gaminius iš užsienio ūkio subjektų pateiktų tauriųjų metalų, kurių prabos neatitinka šio įstatymo [[#7 straipsnis. 11 straipsnio pakeitimas|7 straipsnyje]] nustatytų prabų. Tokie gaminiai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi būti grąžinami į užsienį. Šios tvarkos laikymąsi kontroliuoja Lietuvos prabavimo rūmai.“
+„2. Lietuvos prabavimo rūmai gali leisti gaminti gaminius iš užsienio ūkio subjektų pateiktų tauriųjų metalų, kurių prabos neatitinka šio įstatymo [[#^s-9aa68f2e9bf90c0085136475|7 straipsnyje]] nustatytų prabų. Tokie gaminiai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi būti grąžinami į užsienį. Šios tvarkos laikymąsi kontroliuoja Lietuvos prabavimo rūmai.“
 
 
 
-### 12 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 12 straipsnis. 22 straipsnio 1 dalies pakeitimas ^s-1c740bde8f6c8ad03d623f3b
 
 
 22 straipsnio 1 dalyje vietoj žodžių „ne pelno organizacija“ įrašyti žodžius „valstybės įmonė“, žodžius „juridinio asmens teises ir“ išbraukti ir šią dalį išdėstyti taip:
@@ -244,7 +249,7 @@ Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai
 
 
 
-### 13 straipsnis. 23 straipsnio 7 punkto pakeitimas
+### 13 straipsnis. 23 straipsnio 7 punkto pakeitimas ^s-f1b83d6149db9bb4074f3a2f
 
 
 23 straipsnio 7 punktą pakeisti ir išdėstyti taip:
@@ -254,29 +259,29 @@ Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai
 
 
 
-### 14 straipsnis. 25 straipsnio 4, 7 ir 10 punktų pakeitimas
+### 14 straipsnis. 25 straipsnio 4, 7 ir 10 punktų pakeitimas ^s-037245ef31ccb3966fced333
 
 
-1. 25 straipsnio 4 punkte vietoj žodžių „kokybės pažymėjimas“ įrašyti žodį „kokybė“, vietoj žodžių „šio įstatymo 18 straipsnio antrojoje dalyje numatytais atvejais negrąžinami į užsienį“ įrašyti žodžius „pažeidžiant šio įstatymo 18 straipsnio antrąją dalį nebuvo grąžinti į užsienį“ ir šį punktą išdėstyti taip: ^a47526b40932f3ec94939344
+1. 25 straipsnio 4 punkte vietoj žodžių „kokybės pažymėjimas“ įrašyti žodį „kokybė“, vietoj žodžių „šio įstatymo 18 straipsnio antrojoje dalyje numatytais atvejais negrąžinami į užsienį“ įrašyti žodžius „pažeidžiant šio įstatymo 18 straipsnio antrąją dalį nebuvo grąžinti į užsienį“ ir šį punktą išdėstyti taip: ^s-8e20e323dd89389ad0636b28
 
 
 „4) įstatymų nustatyta tvarka konfiskuoti realizuojamus tauriuosius metalus ir brangakmenius, tauriųjų metalų ir brangakmenių gaminius, kurių praba ar kokybė neatitinka deklaruojamųjų, tauriųjų metalų ir brangakmenių gaminius be prabų ar kokybės pažymėjimo, su padirbtomis (suklastotomis) prabomis arba kokybės pažymėjimais, taip pat tuos, kurie pažeidžiant šio įstatymo 18 straipsnio antrąją dalį nebuvo grąžinti į užsienį;“.
 
 
-2. 25 straipsnio 7 punkte vietoj žodžių „neturi licencijos verstis šia veikla“ įrašyti žodžius „neįsiregistravę Lietuvos prabavimo rūmuose“, žodį „nuolat“ išbraukti ir šį punktą išdėstyti taip: ^837c4f82b3a814f339d01ba9
+2. 25 straipsnio 7 punkte vietoj žodžių „neturi licencijos verstis šia veikla“ įrašyti žodžius „neįsiregistravę Lietuvos prabavimo rūmuose“, žodį „nuolat“ išbraukti ir šį punktą išdėstyti taip: ^s-e1b49f231f12be6041647eb7
 
 
 „7) uždrausti tauriųjų metalų ir brangakmenių gaminių gamybą, realizavimą, paslaugų teikimą ir kitą su tuo susijusią veiklą, jeigu ūkio subjektai neįsiregistravę Lietuvos prabavimo rūmuose arba pažeidžia šio įstatymo, valstybės standartų ar kitų norminių aktų reikalavimus;“.
 
 
-3. 25 straipsnio 10 punktą pakeisti ir išdėstyti taip: ^495e585661d23c8b8285efd9
+3. 25 straipsnio 10 punktą pakeisti ir išdėstyti taip: ^s-654af6163a4625928aa16b2a
 
 
 „10) jei leidimas panaikintas, teikti pasiūlymus iš naujo jį išduoti praėjus ne mažiau kaip vieneriems metams nuo ankstesnio leidimo panaikinimo;“.
 
 
 
-### 15 straipsnis. 26 straipsnio pakeitimas
+### 15 straipsnis. 26 straipsnio pakeitimas ^s-457c4e66f947c790b997cc3d
 
 
 26 straipsnyje vietoj skaičiaus ir žodžių „per 30 dienų sprendžia“ įrašyti skaičių ir žodžius „per 15 dienų nuo skundo gavimo dienos išnagrinėja“, antrąjį sakinį išbraukti, trečiajame sakinyje vietoj žodžių „Finansų ministerijos“ įrašyti žodžius „Lietuvos prabavimo rūmų vadovo“, vietoj skaičiaus ir žodžių „per 10 dienų“ įrašyti skaičių ir žodžius „per 30 dienų“ ir šį straipsnį išdėstyti taip:

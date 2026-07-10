@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.D207959E0560"
 pavadinimas: "Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio pakeitimo įstatymas"
+  - "išmokų vaikams įstatymo 6 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-03-05"
 latest_path: "latest/TAR.D207959E0560.md"
 latest_sha256: "cbf8249375257ca505cc59850c67f7bfb8a74f3989fe7a3576b49f536e3a2efc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.D207959E0560]]"
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.D207959E0560.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.D207959E0560
+- Ryšiai: [[Ryšiai/TAR.D207959E0560|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 6 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 6 straipsnio 8 dalies pakeitimas ^s-ef5ed284559eea9980400e18
 
 
 6 straipsnio 8 dalyje vietoj skaičių ir žodžių „3 ir 4 dalyse“ įrašyti skaičių ir žodį „3 dalyje“ ir šią dalį išdėstyti taip:

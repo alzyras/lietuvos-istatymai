@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.A6CD566AE484"
 pavadinimas: "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio IV skirsnio papildymo įstatymas"
+aliases:
+  - "Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio IV skirsnio papildymo įstatymas"
+  - "valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio IV skirsnio papildymo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-06-19"
 latest_path: "latest/TAR.A6CD566AE484.md"
 latest_sha256: "cfe29ac430ea4d7bc8b55de9a4a55e3975f820ef0da95fe65383d7cde5cabb4d"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.A6CD566AE484]]"
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio IV skirsnio papildymo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.A6CD566AE484.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.A6CD566AE484
+- Ryšiai: [[Ryšiai/TAR.A6CD566AE484|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -33,7 +38,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 3 dalies papildymas 10 punktu
+### 1 straipsnis. 2 straipsnio 3 dalies papildymas 10 punktu ^s-e8d9596cebc7303223a0775c
 
 
 Papildyti 2 straipsnio 3 dalį 10 punktu:
@@ -43,7 +48,7 @@ Papildyti 2 straipsnio 3 dalį 10 punktu:
 
 
 
-### 2 straipsnis. Įstatymo priedėlio IV skirsnio papildymas 13 punktu
+### 2 straipsnis. Įstatymo priedėlio IV skirsnio papildymas 13 punktu ^s-0c680cde1d6f04e101892fc1
 
 
 Papildyti Įstatymo priedėlio IV skirsnį 13 punktu:
@@ -56,7 +61,7 @@ Papildyti Įstatymo priedėlio IV skirsnį 13 punktu:
 
 
 
-### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas ^s-4672657ba3bd1ca531898311
 
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.

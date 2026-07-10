@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.6A8CE90C63FE"
 pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas"
+  - "vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.6A8CE90C63FE.md"
 latest_sha256: "133edf29df3f7edf28affa47cb23ee1566c0543d6c17f97f810092a0c153621c"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.6A8CE90C63FE]]"
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.6A8CE90C63FE.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.6A8CE90C63FE
+- Ryšiai: [[Ryšiai/TAR.6A8CE90C63FE|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 8 straipsnio 30 punkto pakeitimas
+### 1 straipsnis. 8 straipsnio 30 punkto pakeitimas ^s-3926e917ac6243895bdb5444
 
 
 Pakeisti 8 straipsnio 30 punktą ir jį išdėstyti taip:

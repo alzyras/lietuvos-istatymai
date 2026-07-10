@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.84B283E97D08"
 pavadinimas: "Dėl amnestijos atstačius nepriklausomą Lietuvos valstybę"
+aliases:
+  - "Dėl amnestijos atstačius nepriklausomą Lietuvos valstybę"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1990-05-08"
 latest_path: "latest/TAR.84B283E97D08.md"
 latest_sha256: "4801841147d71f5c82eda31412d2bb99114a139c44ac9e163d36aff84d078415"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.84B283E97D08]]"
 ---
 # Dėl amnestijos atstačius nepriklausomą Lietuvos valstybę
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.84B283E97D08.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.84B283E97D08
+- Ryšiai: [[Ryšiai/TAR.84B283E97D08|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 

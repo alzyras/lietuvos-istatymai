@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.1AF91E2599F0"
 pavadinimas: "Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir Kodekso papildymo 4(1) straipsniu įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir Kodekso papildymo 4(1) straipsniu įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir Kodekso papildymo 4(1) straipsniu įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-10-11"
 latest_path: "latest/TAR.1AF91E2599F0.md"
 latest_sha256: "abe2da397281b9af65cff6c62f26c8bdf64d5c8f73f120160278388ea9d6247b"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.1AF91E2599F0]]"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir Kodekso papildymo 4(1) straipsniu įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.1AF91E2599F0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.1AF91E2599F0
+- Ryšiai: [[Ryšiai/TAR.1AF91E2599F0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio pakeitimas
+### 1 straipsnis. 19 straipsnio pakeitimas ^s-4794d89873cd34e98c2ba99b
 
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:

@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.2AF656B4FC00"
 pavadinimas: "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pakeitimo įstatymas"
+  - "specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-11-01"
 latest_path: "latest/TAR.2AF656B4FC00.md"
 latest_sha256: "c4794a0842df4840aa35b3367dddd88c015949cbff37d259d7e9731217aba162"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.2AF656B4FC00]]"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.2AF656B4FC00.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.2AF656B4FC00
+- Ryšiai: [[Ryšiai/TAR.2AF656B4FC00|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 13 straipsnio 3 dalies 2 punkto pakeitimas
+### 1 straipsnis. 13 straipsnio 3 dalies 2 punkto pakeitimas ^s-b5d9c04263e10936ed07d2fd
 
 
 13 straipsnio 3 dalies 2 punkte vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį punktą išdėstyti taip:
@@ -41,7 +46,7 @@ Vilnius
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-f1f9f3ec8391ae27550b7255
 
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.

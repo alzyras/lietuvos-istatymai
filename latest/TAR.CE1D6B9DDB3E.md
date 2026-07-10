@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.CE1D6B9DDB3E"
 pavadinimas: "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4, 9 ir 20 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4, 9 ir 20 straipsnių pakeitimo įstatymas"
+  - "pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4, 9 ir 20 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-05-03"
 latest_path: "latest/TAR.CE1D6B9DDB3E.md"
 latest_sha256: "76e61561073370754bcc9c556f5dbab5e1dd44ffdf2b53b246174b4c8cbca2cc"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.CE1D6B9DDB3E]]"
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 4, 9 ir 20 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.CE1D6B9DDB3E.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.CE1D6B9DDB3E
+- Ryšiai: [[Ryšiai/TAR.CE1D6B9DDB3E|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -35,7 +40,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 2 straipsnio 8 dalies 2 punkto pakeitimas
+### 1 straipsnis. 2 straipsnio 8 dalies 2 punkto pakeitimas ^s-fc654244a1978a9ce25a9e32
 
 
 Pakeisti 2 straipsnio 8 dalies 2 punktą ir jį išdėstyti taip:
@@ -45,7 +50,7 @@ Pakeisti 2 straipsnio 8 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
-### 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 3 dalies pakeitimas ^s-7b4ea46842f7372407346437
 
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -55,7 +60,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 3 straipsnis. 9 straipsnio 3 dalies pakeitimas
+### 3 straipsnis. 9 straipsnio 3 dalies pakeitimas ^s-9d55334d4674934084e26210
 
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -65,7 +70,7 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-### 4 straipsnis. 20 straipsnio 4 dalies 1 punkto pakeitimas
+### 4 straipsnis. 20 straipsnio 4 dalies 1 punkto pakeitimas ^s-acd1d3f2806c9920e9da4c73
 
 
 Pakeisti 20 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:

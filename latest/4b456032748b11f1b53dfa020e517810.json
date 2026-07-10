@@ -11,7 +11,7 @@
   "latest_revision": "2026-07-01",
   "latest_sha256": "616521c517cb30f04f5249eae6a15aea433d020b524167de4840d35d1b2ae6f9",
   "metadata_path": "latest/4b456032748b11f1b53dfa020e517810.json",
-  "parser_version": "0.1.0",
+  "parser_version": "0.2.0",
   "revision_count": 0,
   "source_group": "valstybės institucijų ir įstaigų teisės aktai",
   "source_nature": null,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 8, 9 straipsnių pakeitimo ir 2 priedo pripažinimo netekusiu galios įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-07-02T19:26:22Z"
+  "updated_from_source_at": "2026-07-09T22:34:55Z"
 }

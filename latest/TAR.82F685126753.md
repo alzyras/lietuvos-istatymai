@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.82F685126753"
 pavadinimas: "Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas"
+  - "administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-07"
 latest_path: "latest/TAR.82F685126753.md"
 latest_sha256: "d7a98d5c5d6fb82604e57beb04bc8cf5e1d54f12ab22dad68c6294a47c7b768a"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.82F685126753]]"
 ---
 # Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.82F685126753.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.82F685126753
+- Ryšiai: [[Ryšiai/TAR.82F685126753|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ^s-374565b816435c4b14b300c7
 
 
 1 straipsnio 1 dalyje išbraukti žodžius „bei savivaldybių“ ir šią dalį išdėstyti taip:
@@ -41,23 +46,23 @@ Vilnius
 
 
 
-### 2 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
+### 2 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas ^s-0e2cb942d0fdf084f391ff22
 
 
-1. [[#^14d587f1acef633526fe1214|2 straipsnio 1 dalyje]] vietoj žodžių „savivaldybių tarnautojų“ įrašyti žodžius „valstybės tarnautojų“ ir šią dalį išdėstyti taip: ^14d587f1acef633526fe1214
+1. [[#^s-8ae6e6413ed02a42155d7873|2 straipsnio 1 dalyje]] vietoj žodžių „savivaldybių tarnautojų“ įrašyti žodžius „valstybės tarnautojų“ ir šią dalį išdėstyti taip: ^s-8ae6e6413ed02a42155d7873
 
 
-„1. Savivaldybių tarybos gali sudaryti savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).“
+„1. Savivaldybių tarybos gali sudaryti savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).“
 
 
-2. [[#^7396d7f90127ea47d170529d|2 straipsnio 2 dalyje]] išbraukti žodžius „arba savivaldybės“ ir šią dalį išdėstyti taip: ^7396d7f90127ea47d170529d
+2. [[#^s-040ba95b9f0c6a25f757c30c|2 straipsnio 2 dalyje]] išbraukti žodžius „arba savivaldybės“ ir šią dalį išdėstyti taip: ^s-040ba95b9f0c6a25f757c30c
 
 
 „2. Skundams (prašymams) dėl priimtų individualių administracinių aktų ar valstybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėti steigiamos apskričių administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija.“
 
 
 
-### 3 straipsnis. 3 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-f89d93b6f65ec0d2664fcb45
 
 
 3 straipsnio 1 dalyje vietoj skaičiaus „3“ įrašyti skaičių „4“ ir šią dalį išdėstyti taip:
@@ -67,29 +72,29 @@ Vilnius
 
 
 
-### 4 straipsnis. 4 straipsnio pakeitimas
+### 4 straipsnis. 4 straipsnio pakeitimas ^s-32774a067d5786d01676abf7
 
 
-[[#^bdd6b62332de87b7f21f3425|4 straipsnio 1 dalyje]] išbraukti žodžius „ar savivaldybių“, [[#^c6499da6449cdd42cd197690|3 dalyje]] vietoj žodžio „administracijos“ įrašyti žodį „valstybės“, [[#^2e1e09690f8a4f7d89689e1b|4 dalyje]] išbraukti žodžius „ir savivaldybių“ ir šį straipsnį išdėstyti taip:
+[[#^s-1058970a8e70496abe35c0d4|4 straipsnio 1 dalyje]] išbraukti žodžius „ar savivaldybių“, [[#^s-530190940b13c9bc805e92fd|3 dalyje]] vietoj žodžio „administracijos“ įrašyti žodį „valstybės“, [[#^s-850b13ea3f4701ab0edceb7a|4 dalyje]] išbraukti žodžius „ir savivaldybių“ ir šį straipsnį išdėstyti taip:
 
 
 „4 straipsnis. Apskrities administracinių ginčų komisijų statusas
 
 
-1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės tarnautojai, taip pat šio statuso neturintys asmenys. ^bdd6b62332de87b7f21f3425
+1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės tarnautojai, taip pat šio statuso neturintys asmenys. ^s-1058970a8e70496abe35c0d4
 
 
-2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija. ^4aef66a5fe3adf5ce3ed5d50
+2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija. ^s-57efe63b2e9f4d3d7f4749b0
 
 
-3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas valstybės tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius. ^c6499da6449cdd42cd197690
+3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas valstybės tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius. ^s-530190940b13c9bc805e92fd
 
 
-4. Valstybės tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.“ ^2e1e09690f8a4f7d89689e1b
+4. Valstybės tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.“ ^s-850b13ea3f4701ab0edceb7a
 
 
 
-### 5 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 5 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-e33090627501dfa928955867
 
 
 5 straipsnio 2 dalyje prieš žodžius „tarnautojų“ įrašyti žodžius „valstybės“ ir šią dalį išdėstyti taip:
@@ -99,7 +104,7 @@ Vilnius
 
 
 
-### 6 straipsnis. 12 straipsnio 1 dalies pakeitimas
+### 6 straipsnis. 12 straipsnio 1 dalies pakeitimas ^s-6d260fab4fe73df0183c2acd
 
 
 12 straipsnio 1 dalyje išbraukti žodžius „ir savivaldybių“ ir šią dalį išdėstyti taip:
@@ -109,7 +114,7 @@ Vilnius
 
 
 
-### 7 straipsnis. 14 straipsnio pakeitimas
+### 7 straipsnis. 14 straipsnio pakeitimas ^s-c096fe8486733a7165696a17
 
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:

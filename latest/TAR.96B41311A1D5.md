@@ -2,12 +2,15 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.96B41311A1D5"
 pavadinimas: "Dėl aukštųjų partinių mokyklų diplomų nepripažinimo"
+aliases:
+  - "Dėl aukštųjų partinių mokyklų diplomų nepripažinimo"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-01"
 latest_path: "latest/TAR.96B41311A1D5.md"
 latest_sha256: "7472ccd7570e95b62dee5c977609ee8bb49e16975147e6c22cd53ab9accd2980"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.96B41311A1D5]]"
 ---
 # Dėl aukštųjų partinių mokyklų diplomų nepripažinimo
 
@@ -17,6 +20,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.96B41311A1D5.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.96B41311A1D5
+- Ryšiai: [[Ryšiai/TAR.96B41311A1D5|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -29,7 +33,7 @@ Vilnius
 
 
 
-### 1 straipsnis. Aukštųjų partinių mokyklų diplomų nepripažinimas
+### 1 straipsnis. Aukštųjų partinių mokyklų diplomų nepripažinimas ^s-aab808dec2c72a99b4aae904
 
 
 Aukštųjų partinių mokyklų diplomai nepripažįstami dokumentais, liudijančiais apie aukštąjį išsilavinimą.

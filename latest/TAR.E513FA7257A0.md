@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.E513FA7257A0"
 pavadinimas: "Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas"
+  - "nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2003-05-01"
 latest_path: "latest/TAR.E513FA7257A0.md"
 latest_sha256: "1fadc6d4dbcb708f0c47fc8888848d28c05cb4fdf6def2ddd465796556163386"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.E513FA7257A0]]"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.E513FA7257A0.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E513FA7257A0
+- Ryšiai: [[Ryšiai/TAR.E513FA7257A0|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -31,7 +36,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 19 straipsnio pakeitimas
+### 1 straipsnis. 19 straipsnio pakeitimas ^s-5529bc04f305e91c4e833b22
 
 
 19 straipsnyje vietoj žodžių „kvotos ir tardymo organai“ įrašyti žodžius „ikiteisminio tyrimo įstaigos ir prokurorai“ ir šį straipsnį išdėstyti taip:
@@ -44,10 +49,10 @@ Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prez
 
 
 
-### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas ^s-6949381345345ee6b298c2e9
 
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341).
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]] (Žin., 2002, Nr. 37-1341).
 
 
 

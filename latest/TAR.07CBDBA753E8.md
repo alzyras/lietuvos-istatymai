@@ -2,12 +2,16 @@
 tipas: "naujausia_redakcija"
 etar_id: "TAR.07CBDBA753E8"
 pavadinimas: "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas"
+aliases:
+  - "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas"
+  - "mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas"
 rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-01"
 latest_path: "latest/TAR.07CBDBA753E8.md"
 latest_sha256: "1d413f44f335926c15010089e4349f911867fe1df244e0384c0536b3fdd88088"
-parser_version: "0.1.0"
+parser_version: "0.2.0"
+rysiai: "[[Ryšiai/TAR.07CBDBA753E8]]"
 ---
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
 
@@ -17,6 +21,7 @@ parser_version: "0.1.0"
 
 - Latest JSON: `latest/TAR.07CBDBA753E8.json`
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.07CBDBA753E8
+- Ryšiai: [[Ryšiai/TAR.07CBDBA753E8|incoming ir outgoing nuorodos]]
 
 ## Oficialus tekstas
 
@@ -32,7 +37,7 @@ Vilnius
 
 
 
-### 1 straipsnis. 4 straipsnio papildymas 4 dalimi
+### 1 straipsnis. 4 straipsnio papildymas 4 dalimi ^s-035d81fa8922a2d119f648b1
 
 
 Papildyti 4 straipsnį 4 dalimi:
@@ -42,7 +47,7 @@ Papildyti 4 straipsnį 4 dalimi:
 
 
 
-### 2 straipsnis. 5 straipsnio pakeitimas
+### 2 straipsnis. 5 straipsnio pakeitimas ^s-e16eb67e032974883f671369
 
 
 5 straipsnyje vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“ ir šį straipsnį išdėstyti taip:
@@ -55,7 +60,7 @@ Už kiekvienus visus daktaro stažo metus kiekvieną mėnesį mokama 10 procent�
 
 
 
-### 3 straipsnis. 6 straipsnio papildymas ir pakeitimas
+### 3 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-a18ae292b0359a79d189b6f7
 
 
 Papildyti 6 straipsnį 3 dalimi, buvusią 3 dalį laikyti 4 dalimi ir šį straipsnį išdėstyti taip:
@@ -64,7 +69,7 @@ Papildyti 6 straipsnį 3 dalimi, buvusią 3 dalį laikyti 4 dalimi ir šį strai
 „6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas
 
 
-Mokslininkų valstybines pensijas skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai, vadovaudamiesi šiuo įstatymu, Valstybinių socialinio draudimo pensijų įstatymu, Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatais, pagal valstybinių mokslo ir studijų institucijų išduotus dokumentus.
+Mokslininkų valstybines pensijas skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai, vadovaudamiesi šiuo įstatymu, [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymu]], Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatais, pagal valstybinių mokslo ir studijų institucijų išduotus dokumentus.
 
 
 Valstybinių mokslo ir studijų institucijų, kuriose mokslininko darbas įskaitomas į daktaro ar habilituoto daktaro stažą, sąrašą tvirtina Švietimo ir mokslo ministerija.
@@ -77,7 +82,7 @@ Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos va
 
 
 
-### 4 straipsnis. Įstatymo įsigaliojimas
+### 4 straipsnis. Įstatymo įsigaliojimas ^s-66ca31afc67176d15a8eaa54
 
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
