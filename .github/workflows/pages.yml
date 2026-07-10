@@ -27,6 +27,7 @@ jobs:
           repository: alzyras/lietuvos-istatymai-gen
           ref: main
           path: .site-generator
+          ssh-key: ${{ secrets.GENERATOR_REPO_DEPLOY_KEY }}
 
       - name: Set up Python
         uses: actions/setup-python@v6
